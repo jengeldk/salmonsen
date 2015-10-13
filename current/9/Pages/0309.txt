@@ -1,32 +1,34 @@
-G
+<h1>G</h1>
 
-G er det syvende Bogstav i det lat. Alfabet.
+
+<chapter name="G">
+<b>G</b> er det syvende Bogstav i det lat. Alfabet.
 Om Oprindelsen, se C.
 
-I de nyeuropæiske Sprog betegner g foran
+I de nyeuropæiske Sprog betegner <i>g</i> foran
 Konsonanter og Bagtungevokaler som oftest
 Lyden [g]; kun i Hollandsk savnes denne Lyd og
 erstattes af en aaben Strubelyd, et »dybt« [g]
 (ell. i Udlyd: [R]). Foran Fortungevokalerne
-anvendes g med en stor Mængde Lydværdier,
+anvendes <i>g</i> med en stor Mængde Lydværdier,
 saasom: [j] (Norsk, Svensk), [gj] (Nyislandsk),
-[R] (Spansk), [3] (Fransk, Portugisisk), [d3l
+[R] (Spansk), [3] (Fransk, Portugisisk), [dʒ]
 (Italiensk og delvis Engelsk). I Dansk betegner
-g i Ind- og Udlyd Lyden [g] (Dage, Dag),
+g i Ind- og Udlyd Lyden [g] (<i>Dage</i>, <i>Dag</i>),
 i Tysk derimod som Indlyd [g], som Udlyd [R]
-(Tage, Tag). Særegent for Dansk er det, at g
-i Forbindelse med foregaaende e og 0 kan
-betegne en Diftong: jeg, tegne, Segl, Løgn, Gøgl.
-I danske Ord som Pige, Spørgsmaal er g som
-oftest stumt. — I fl. Sprog kan g bruges til
+(<i>Tage</i>, <i>Tag</i>). Særegent for Dansk er det, at g
+i Forbindelse med foregaaende <i>e</i> og <i>ø</i> kan
+betegne en Diftong: <i>jeg</i>, <i>tegne</i>, <i>Segl</i>, <i>Løgn</i>, <i>Gøgl</i>.
+I danske Ord som <i>Pige</i>, <i>Spørgsmaal</i> er <i>g</i> som
+oftest stumt. — I fl. Sprog kan <i>g</i> bruges til
 at betegne »mouilleret« Udtale af det flg.
-Bogstav: gn = [ry] (fr. agneau, ital. legno); ital.
-gl = mouill. I (gli, figlia); ung. gy = mouill. d
+Bogstav: <i>gn</i> = [ŋ] (fr. <i>agneau</i>, ital. <i>legno</i>); ital.
+<i>gl</i> = mouill. I (<i>gli</i>, <i>figlia</i>); ung. gy = mouill. d
 (magyar.). Som Forlyd er g i de germanske
 Sprog opstaaet af indoeurop. gh, hvortil der i
 Græsk svarer X, i Latin h: gr. xAv, tysk Gans
 dansk Gaas; lat. homo, dansk Brud-gom (se
-L y d f o r s k y d n in g). I Ind- og Udlyd
+<sp>Lydforskydning</sp>). I Ind- og Udlyd
 svarer det danske Skriftsprogs g dels til
 fællesnordisk g: oldnordisk dagr, dansk Dag,
 dels er det opstaaet af opr. k: oldn. sok, dansk
@@ -47,40 +49,48 @@ Acceleration, g = Gram.
 
 I Musikken er G (fr. og ital. sol)
 Bogstavnavnet  paa  det  femte   Trin  i  den  diatoniske
-
-Skala,  regnet  fra   C.   —   G-Nøglen    pfc^z:
-
+Skala,  regnet  fra   C.   —   G-Nøglen   <img> G-Nøgle</img>
 anbragt paa anden Linie, angiver denne som
-Pladsen for [enstrøget] g (se N 0 g 1 e) og
-kaldes ogsaa Violin- ell. Diskantnøgle. — Som For-
+Pladsen for [enstrøget] g (se <sp>Nøgle</sp>) og
+kaldes ogsaa Violin- ell. Diskantnøgle. — Som
+Forkortelse bet. g = gauche, venstre; m. g., main
+gauche: venstre Haand.
+<i>S. L.</i>
+</chapter>
 
-kortelse bet. g = gauche, venstre; m. g., main
-gauche: venstre Haand.                             S. L.
+<chapter name="Ga">
+<b>Ga,</b> kemisk Tegn for <sp>Gallium</sp>.
+</chapter>
 
-Ga, kemisk Tegn for Gallium.
-
-gaa (Søv.), lette fra en Ankerplads, forlade,
-et Bolværk (afgaa), gaa fra Borde; forlade
-Skibet, gaa fri af: undgaa under Sejlads at
+<chapter name="gaa">
+<b>gaa</b> (Søv.), lette fra en Ankerplads, forlade,
+et Bolværk (afgaa), <sp>gaa fra Borde</sp>; forlade
+Skibet, <sp>gaa fri af</sp>: undgaa under Sejlads at
 komme i Berøring med, f. Eks. et andet Skib,
-et Bolværk, et Vrag, en Grund e. 1. g a a i L æ
-af og gaa til L u v a r t af: at passere en
+et Bolværk, et Vrag, en Grund e. l. <sp>gaa i Læ
+af</sp> og <sp>gaa til Luvart af</sp>: at passere en
 Genstand henh. paa Læsiden ell. paa Vindsiden,
-gaa over Bord, falde i Vandet fra ét Skib.
-gaa over Stag: gaa gennem Vinden under
-en Vending, gaa Sejl: lette og sætte Sejl.
-lade  gaa: kaste en Tovende los.        H. E.
+<sp>gaa over Bord</sp>, falde i Vandet fra ét Skib.
+<sp>gaa over Stag</sp>: gaa gennem Vinden under
+en Vending, <sp>gaa Sejl</sp>: lette og sætte Sejl.
+<sp>lade  gaa</sp>: kaste en Tovende los.
+<i>H. E.</i>
+</chapter>
 
-Gaabense, Landsby og Udskibningssted paa
+<chapter name="Gaabense">
+<b>Gaabense</b>, Landsby og Udskibningssted paa
 den nordlige Kyst af Falster, Maribo Amt, Nørre
 Herred, Nørre Vedby Sogn, med
 Købmandshandel og Toldopsyn, ligger c. 2 km SØ. f.
 Orehoved, tidligere et kendt Færgested med
 Overfart til Vordingborg. Nu er Færgestedet
 nedlagt, men Broen, hvortil en 2,5 m dyb Rende
-fører ind, findes der endnu.                   H. W.
+fører ind, findes der endnu.
+<i>H. W.</i>
+</chapter>
 
-Gaade, en omskrivende Fremstilling af en
+<chapter name="Gaade">
+<b>Gaade,</b> en omskrivende Fremstilling af en
 Genstand, som ikke nævnes, men skal gættes.
 Den er altsaa et Produkt af en Slags Tankeleg,
 der stiller sig den Opgave at give en
@@ -92,19 +102,19 @@ Omklædningen, betegner Genstanden, samtidig med
 at Tanken og Fantasien sættes i livlig
 Bevægelse for at finde den. Ud over Grundformen
 fremtræder G. i forsk., mere sammensatte
-Former: som Bogstav-G., i hvilken et ell. to
+Former: som <sp>Bogstav</sp>-G., i hvilken et ell. to
 Bogstaver i Beg. af det Ord, der skal gættes,
 forandres, medens den øvrige Del af Ordet
 forbliver uforandret (Mus — Hus); som
-Logogrif, ved hvilken der ved Omsætning af
+<sp>Logogrif</sp>, ved hvilken der ved Omsætning af
 Bogstaverne skal dannes andre gennem
-Hentydningerne anviste Ord; som. Stavelse s-G. ell.
-Kar ad e, hvor først hver Stavelse skal gættes
+Hentydningerne anviste Ord; som. <sp>Stavelses</sp>-G. ell.
+<sp>Karade</sp>, hvor først hver Stavelse skal gættes
 og dernæst Ordet i sin Helhed gennem de
 Antydninger, der gives om Delene og det Hele;
-som Aritmogrif, Talgaade, der
+som <sp>Aritmogrif</sp>, Talgaade, der
 udtrykker G. ved Tal; endelig som den endnu i
-Børnebøger meget benyttede Bille d-G., Rebus
-(s. d.). Ogsaa P a 1 i n d r o m, en Leg med Ord,
+Børnebøger meget benyttede <sp>Billed</sp>-G., <sp>Rebus</sp>
+(s. d.). Ogsaa <sp>Pa1indrom</sp>, en Leg med Ord,
 der giver Mening læste forfra og bagfra (Amor
-— Roma, Glas — Salg), og Anagram (s. d.)
+— Roma, Glas — Salg), og <sp>Anagram</sp> (s. d.)
