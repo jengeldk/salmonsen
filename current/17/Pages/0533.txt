@@ -31,7 +31,7 @@
 <td r>28.<td><i>Landdagsbygninq</i>
 <td r>29.<td><i>Ærkebiskops-Palæ</i>
 <td r>30.<td><i>Hotel Bayrischer-Hof</i>
-<td r>31.<td><i>Park-Holel</i>
+<td r>31.<td><i>Park-Hotel</i>
 <td r>32.<td><i>Bürgersaal-Kirke</i>
 <td r>33.<td><i>Hotel Königshof</i>
 <td r>34.<td><i>— Kaiserhof</i>

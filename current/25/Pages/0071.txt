@@ -5,7 +5,7 @@
 <td r>2.<td>Alderdomshjem
 <td r>3.<td>Slagtehuse
 <td r>4.<td>Svineslagteri
-<td r>5.<td>Jernbaneholellet
+<td r>5.<td>Jernbanehotellet
 <td r>6.<td>Elektricitetsværk
 <td r>7.<td>Privat Mellem- og Realskole
 <td r>8.<td>Skt Mathias Apotek
