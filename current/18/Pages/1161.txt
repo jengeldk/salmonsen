@@ -1,0 +1,61 @@
+<chapter name="RETTELSER OG TILFØJELSER">
+<h1><sp>RETTELSER OG TILFØJELSER</sp></h1>.
+De i hvert Bind opførte Rettelser og Trykfejl vil blive samlede for hvert femte Bind.
+
+<table>
+<td 7 c><sp>BIND II</sp>.
+<td>Side<td>387,<td>Spalte<td>2,<td>Linie<td r>27 f. o.<td>1600 km V. f. New Orleans læs: 240 km VNV. for Houston
+</table>
+
+<table>
+<td 7 c><sp>BIND III</sp>.
+<td>Side<td>677,<td>Spalte<td>1,<td>Linie<td r>7 f. o.<td>Reflektionsinstrument læs: Refleksionsinstrument
+</table>
+
+<table>
+<td 7 c><sp>BIND IV</sp>.
+<td>Side<td>111,<td>Spalte<td>1,<td>Linie<td r>24 f. n.<td>»Ved Korskirken« udgaar
+</table>
+
+<table>
+<td 7 c><sp>BIND V</sp>.
+<td>Side<td>489,<td>Spalte<td>2,<td>Linie<td r>2 f. n.<td>Reciever læs: Receiver
+</table>
+
+
+<table>
+<td 7 c><sp>BIND VIII</sp>.
+<td>Side<td>569,<td>Spalte<td>2.<td 5>I Underskriften til Fig 2: A læs: B; B, C læs: A, C
+</table>
+
+<table>
+<td 7 c><sp>BIND IX</sp>.
+<td>Side<td>902,<td>Spalte<td>2,<td>Linie<td r>32 f. n.<td>Peschkov læs: Pjeschkov
+</table>
+
+
+<table>
+<td 7 c><sp>BIND XIII</sp>.
+<td>Side<td>128,<td>Spalte<td>1,<td>Linie<td r>24 f. o.<td><sp>Magni</sp> læs: <sp>Magnus</sp>. (Ved en Fejltagelse er Artiklen<br><sp>Johannes Magnus</sp> ogsaa optaget i Rettelser og Tillæg<br>til Bd XVII)
+<td c>—<td>893,<td c>—<td>1,<td c>—<td r>3 f. n.<td>XXXI læs: XXXV
+</table>
+
+<table>
+<td 7 c><sp>BIND XV</sp>.
+<td>Side<td r>21,<td>Spalte<td>2,<td>Linie<td r>8 f. n.<td>højere læs: højre
+<td c>—<td r>89,<td c>—<td>2,<td c>—<td r>16 f. o.<td>Dværggrundform læs: Dværgrundorm (Rettelsen i Bd XV er fejlagtig)
+<td c>—<td r>289,<td c>—<td>2,<td c>—<td r>18 f. n.<td>Lakblad læs: Lakbad
+<td c>—<td r>324,<td c>—<td>2,<td c>—<td r>26 f. n.<td>»navnlig . . . . . Galmyg)« udgaar
+<td c>—<td r>366,<td c>—<td>1,<td c>—<td r>13 f. o.<td>Wasington læs: Washington
+<td c>—<td r>615,<td c>—<td>2,<td c>—<td r>33—34 f. o.<td>de læderede Ord skal læses: mange — imod
+</table>
+
+<table>
+<td 7 c><sp>BIND XVI</sp>.
+<td>Side<td r>26,<td>Spalte<td>2,<td>Linie<td r>3 f. o.<td>(under Ligningen) <i>l</i> læs: <i>h</i>
+<td c>—<td r>27,<td 5>Fig. 1 og Fig. 2 skal ombyttes
+<td c>—<td r>66,<td>Spalte<td>1,<td>Linie<td r>26 f. n.<td><sp>H. G. Lumbye</sp> har ikke skrevet Finale-Galoppen, men<br>derimod Indianerdansen af Bournonvilles Ballet »Fjernt fra<br>Danmark«; Finale-Galoppen skyldes <sp>A. F. Lincke</sp>
+<td c>—<td r>406,<td c>—<td>1,<td c>—<td r>1 f. o.<td><sp>Novozan</sp> læs: <sp>Novozon</sp>
+<td c>—<td r>648,<td c>—<td>2,<td c>—<td r>11 f. n.<td>1887 læs: 1587
+<td c>—<td r>649,<td c>—<td>1,<td c>—<td r>23 f. n.<td>Henry IV læs: Henry VI
+</table>

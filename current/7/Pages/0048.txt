@@ -1,0 +1,140 @@
+Beholderens Bund, hører Taagen op. Den vil
+komme frem paa ny, hvis ny støvfyldt Luft bringes
+ind i Apparatet. Er Støvet nu ved gentagne
+Ekspansioner vasket ud af Luften, kan man vise, at
+ogsaa Ionerne virker taagedannende, og tillige,
+at der i den Henseende er Forskel paa de
+positive og negative Ioner. I Beholderen findes tre
+parallelle Plader. Den midterste er afledet til
+Jord, de to yderste er holdte henh. ved en
+positiv og negativ Spænding (+<i>V</i> og -<i>V</i>), f. Eks.
+ved at være forbundne med Polerne af et
+Batteri, hvis Midte er afledet til Jord. Et snævert
+Bundt af Røntgenstraaler ioniserer Luften
+umiddelbart om den midterste Plade. Af det
+elektriske Felt vil de positive Ioner føres til højre,
+de negative til venstre Side, saaledes at der
+til højre for det snævre Røntgenstraalebundt
+kun vil være positive Ioner; til venstre kun
+negative. Det viser sig nu, at naar Ekspansionen
+gøres saa stor, at Luftens Rumfang derved
+forøges 1,25 Gange, kommer der Taage om de
+negative Ioner, medens Ekspansionsforholdet skal
+være 1,31, før de positive Ioner danner Taage.
+Findes der hverken Støv ell. Ioner i Beholderen,
+maa Ekspansionsforholdet forøges til 1,38, før
+Taagedannelse finder Sted.
+
+4) <sp>Ionernes Ladning</sp>. Man har
+benyttet sig af Ionernes taagedannende Evne til at
+bestemme deres Ladning. Drejes Apparatet i
+Fig. 5 90°, saaledes at Pladerne bliver
+vandrette, og f. Eks. med + <i>V</i> øverst, vil
+Draaberne om de negative Ioner være paavirkede af to
+Kræfter, der gaar i modsat Retning, nemlig
+Tyngden, som søger at føre dem nedad, og den
+elektriske Tiltrækning, som vil føre dem opad.
+Er de to Kræfter lige store, vil Draaberne
+svæve. Man kan opnaa dette ved at give
+Spændingen <i>V</i> en passende Værdi. Af Draabernes
+Størrelse kan deres Vægt beregnes, og dermed er
+ved Svævning altsaa ogsaa den elektriske
+Tiltrækning kendt. Den elektriske Tiltrækning er
+Produktet af Ionens Ladning og Feltets
+elektriske Kraft, og da denne sidste kan beregnes
+af Spændingen <i>V</i> og Apparatets Dimensioner, er
+dermed ogsaa Ionladningen bestemt. Ved forsk.
+Forbedringer ved Metoden kan Maalingen nu
+udføres med betydelig Nøjagtighed. Man finder
+altid den samme Ladning numerisk ens for
+baade positive og negative Ioner og lig 4,77 X
+10<sup>-10</sup> absolutte elektrostatiske Enheder. Da
+man aldrig har fundet Ladningen mindre og
+kun sjældent større og i saa Tilfælde fundet,
+at den var et Multiplum af dette Tal, har man
+kaldt den nævnte Ladning for det elektriske
+Elementarkvantum. Det er den samme Ladning,
+som en eengyldig elektrolytisk Ion er i
+Besiddelse af, hvad der ogsaa kan vises at fremgaa
+af en Sammenligning mellem Luftionernes
+Bevægelighed og Diffusionshastighed.
+
+5) <sp>Ionernes Masse</sp>. Ved meget lave
+Tryk, hvor Ionerne kan optræde med saa store
+Hastigheder, at de virker som Straaler, kan man
+ved at undersøge Straalernes Afbøjning i et
+elektrisk og magnetisk Felt finde Forholdet
+mellem deres Ladning og Masse (se
+<sp>Katode-Straaler</sp>). Da Ladningen maa antages at
+være det elektriske Elementarkvantum, har
+man derved en Metode til Bestemmelse af
+deres Masse. Man finder da, at de positive Ioner,
+der danner Anode- og Katodestraalerne (s. d.), er
+Atomer ell. Molekyler, henh. fra Anoden og fra
+de i Udladningsrøret værende Luftarter.
+Derimod er de negative Ioner i Katodestraalerne
+altid de samme, uafhængig af Katodemetallet
+og af Luftarten, og med en Masse, der er 1850
+Gange mindre end et Brintatoms. Det er de
+saakaldte Elektroner, der er et fælles
+Bygningsmateriale for alle Atomer (se <sp>Elektron</sp>).
+- I Luft af normalt Tryk er man henvist til
+at slutte sig til Ionernes Masse ud fra deres
+Bevægelighed. En Beregning viser, at denne er
+c. 3 Gange mindre end den Hastighed, hvormed
+et neutralt Molekyl vilde bevæge sig, naar det
+var paavirket af en lige saa stor Kraft. Man har
+forklaret Ionernes ringe Bevægelighed ved, at
+de skulde tiltrække de omgivende neutrale
+Molekyler, saa at det, der bevæger sig, ikke er et
+enkelt Molekyl, men et Molekylkompleks.
+Herpaa tyder ogsaa den Iagttagelse, at
+Bevægeligheden af den negative Ion afhænger af Luftens
+Fugtighedsgrad. I fugtig Luft er den kun 1,5
+cm/sek. mod 1,8 i tør Luft. Det stemmer
+ligeledes overens med Ionernes, og særlig den
+negative Ions, store Tendens til at fortætte
+Vanddamp om sig. Kun ved store elektriske Kræfter
+ell. ved lave Tryk er de positive Ioner ved alm.
+Temp. Atomioner. For de negative Ioner har
+man fundet, at naar den elektriske Kraft i
+Volt pr cm, divideret med Lufttrykket i mm
+forøges over en vis Værdi, som er c. 0,1, vil
+deres Bevægelighed pludselig vokse stærkt. De
+har da frigjort sig fra Molekylkomplekset og er
+gaaet over til at være fri Elektroner. De meget
+store Ioner, der opstaar ved, at de fri Ioner
+slaar sig ned paa Støvpartikler, omtales i næste
+Afsnit.
+
+6) <sp>Antallet af Ioner i atmosfærisk
+Luft under normale Betingelser</sp>
+afhænger i høj Grad af den geografiske
+Beliggenhed og af de meteorologiske Forhold (se
+<sp>Luftelektricitet</sp>). Som en Middelværdi
+kan angives c. 1000 Ionpar i en cm<sup>3</sup>; pr Sek.
+dannes c. 18 ny Ionpar, men et tilsvarende Antal
+forsvinder ved Genforening. Da der i en cm<sup>3</sup>
+Luft findes c. 27X10<sup>18</sup> Molekyler, er det altsaa
+et forsvindende Antal af dem, der er ioniserede.
+
+Man antog tidligere, at Luftens Ledningsevne
+beroede paa dens Støvindhold. Lader man
+nemlig en elektrisk Udladning gaa igennem f. Eks.
+Tobaksrøg, vil Luften blive fuldstændig befriet
+for denne, hvad man kunde tænke sig forklaret
+ved, at de smaa Røgpartikler havde besørget
+Elektricitetstransporten, idet de først var blevne
+tiltrukne af den nærmeste Pol, opladet af
+denne, og derpaa stødt over til den modsatte. En
+nøjere Undersøgelse har imidlertid vist, at
+Luftens Ledningsevne tværtimod formindskes ved
+Støvindhold, idet Ionerne har Tilbøjelighed til
+at slaa sig ned paa Støvpartiklerne, hvorved
+deres Bevægelighed formindskes. Denne
+Egenskab hos Ionerne forklarer ogsaa det nævnte
+Forsøg. De langsomme Stor-Ioner, de
+saakaldte Langevin-Ioner, findes, som den fr.
+Fysiker Langevin har paavist, ogsaa i Luft under
+normale Forhold. P. Gr. a. deres yderst ringe
+Bevægelighed — den er gennemsnitlig c. 3000

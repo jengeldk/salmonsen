@@ -1,0 +1,123 @@
+<chapter name="Accentbetegnelse og Lydskrift">
+ACCENTBETEGNELSE OG LYDSKRIFT
+I 2. UDGAVE AF
+SALMONSENS KONVERSATIONSLEKSIKON.
+
+<b>I. Accentbetegnelsen</b> <footnote>Forklaring til Tegnene i [] findes under <sp>II. Lydskriften</sp>.</footnote><i>).</i>
+
+<sp>I de fremmede Ord</sp>, hvor den vedtagne danske Udtale fremgaar af Stavemaaden,
+<sp>fremhæves Trykstavelsens Vokal ved følgende Tegn</sp>:
+
+' betegner Vokalen som kort; Eks.:<b> kap**t, Kar**s, Kv**rter</b> (Flt. af Kvart), <b>P**nktum</b> [**poŋtom].
+
+ <tab> <tab> NB.   »Stød« i den følgende Konsonant angives <sp>ikke</sp>; Eks.: <b>Adjunkt</b> [aðjoŋ´t]
+-  betegner Vokalen som l<sp>ang uden »Stød«</sp>; Eks.: <b>cāput, cārus, Lokāle.</b>
+-  -        -       -   <sp>lang med »Stød«</sp>; Eks.:<b> Kvarter, lokale</b>(Flt. af lokal), <b>Paulun</b>.
+
+ <tab> <tab> NB.   Betonet Tvelyd sammenkobles ved Dobbeltstreg; Eks.:  <b>Pāūlus, Sāūl.</b>
+
+<sp>Anm. 1.</sp>  I saadanne Fremmedord gælder -- hvor intet andet angives -- følgende  særlige
+Udtaleregler:
+
+<b>c</b>    udtales som [k] foran a, o, u, samt foran Konsonant, ellers som [s].
+ <tab>         <tab> NB.   I det latinske Sprog udtales dog nu c alm. og rigtigere overalt som [k]
+<b>ch</b>   -        -     [k] eller (f. Eks. i Tysk) som [к],
+<b>qu</b>   -        -     [kw].
+<b>sch</b>  -        -     [∫]
+<b>th</b>   -        -     [t] i græske og latinske Ord.
+<b>x</b>    -        -     [ks]
+<b>Z</b>    -        -     [ts]  (sjældent som [s]).
+
+<sp>Anm. 2.</sp> <tab>  Hvor 2 Accenter findes i eet (sammensat) Ord, betegner <sp>i Reglen</sp> den første Hovedtrykket, den anden Bitryk; Eks.: Antimōnlegēringer.
+
+<h1>II.   Lydskriften.</h1>
+
+Hvor det er ønskeligt (og muligt) at give en nøjagtigere Udtalebetegnelse, anvendes
+følgende Lydalfabet, der anbringes i [ ]. Det er særlig beregnet paa Engelsk og Fransk, men ogsaa i andre Sprog kan det give en brugelig Anvisning til en forholdsvis korrekt Udtale.
+Finere Nuancer (Eks.: Kvalitetsforskel mellem lange og korte Vokaler, Forskel mellem dansk ustemt og fransk stemt <i>b, d, g</i> osv.) maa søges i Specialværker.
+
+Tegnene er -- saavidt gørligt -- valgt med det Formaal umiddelbart at lede Udtalen
+i en rigtig Retning. De særformede eller særtydige Tegn er i Fortegnelsen mærket med *.
+
+NB. Det danske "Stød (som f. Eks. kendetegner <i>Mand</i> fra <i>man</i>) findes ikke i noget fremmed Rigsmaal; alle nedenstaaende Tegn udtales altsaa uden »Stød«; hvor dette
+findes, angives det ved et særligt Tegn (se nedenf. under C. Andre Tegn).
+
+<b>A.   Vokalerne.</b>
+
+a.   Mundvokaler,
+<tab>[a] som dansk:  M<b>a</b>d, m<b>ā</b>de.
+  *  [α]  -    -     K<b>a</b>r; (mere aabent end alm. da. [a]).
+  *  [**] -  engelsk: c<b>o</b>me [k**m]; altid kort; (omtr. som foreg. aabent da. [α] med lidt mere hævet Tunge).
+<tab>[e]  -  dansk: t<i>i</i>l, b<b>ē</b>de.
+  *  [<sub>ə</sub>]  -    -       bad<b>e</b> ; altid ubetonet. (Anvendes for lignende vage og ubet. Lyd i Eng., Ty., Holl., Portug.).
+  *  [ə]  -  engelsk: 1) h<b>ur</b>t [hə.t] langt og betonet; 
+                      2) <b>a</b>bout [əbaut] kort og ubetonet;
+               (omtrent som foreg. da. ubet. [<sub>ə</sub>] med mere tilbagetrukket og sænket Tunge).
+<tab>[i]  -  dansk: B<b>i</b>d, b<b>ī</b>de.
+  *  [**] findes f. Eks. i Russisk: Læbestilling som ved [i] og Tungestilling omtr. som ved [g] i si<b>g</b>e.
+<tab>[o] som dansk: sl<b>u</b>kke, r<b>ō</b>de; (bruges ogsaa for det »u«-agtige svenske o i sol).
+<tab>[u]  -    -    B<b>u</b>d, B<sp>ū</sp>le; (bruges ogsaa for det »y«-agtige svenske u i h<b>u</b>s).
+<tab>[y]  -    -    H<b>y</b>tte, sk<b>y</b>de.
+<tab>[æ]  -    -    S<b>æ</b>k, k<b>æ</b>re.
+  *  [äl  -  engelsk: m<b>a</b>n [män]; altid kort; (mere aabent end æ i Præst, der -- efter r - er mere aabent end foreg. alm. da. [æ]).
+<tab>[ø]  -  dansk: K<b>ø</b>lle, k<b>ø</b>le.
+<tab>[ö]  -    -    g<b>ö</b>r, <b>gö</b>re.
+<tab>[å]  -    -    L<b>o</b>d, B<b>āā</b>de. 
+
+b.   Næsevokaler.
+
+* [~] over en Vokal betegner den som »nasaleret«, (»snøvlet«); saaledes:
+* [a~] ndt. som nasaleret [a], f. Eks. fransk: an [a~], -- [**l udt. som nasaleret [**] osv.
+<tab> <tab> <sp>Anm</sp>. Medens Luften under Udt. af en Mundvoka] gaar ud gennem Munden alene, (som ved alle rigsdanske Vokaler) gaar den ved Udt. af Næsevokaler samtidig ud ad Mund og Næse. Lyden [a~] er altsaa forskellig fra dansk Udt. af Stavelsen -<b>ang</b> [-aŋ], der bestaar af Mundvokalen [aJ
++ nasaleret <b>g</b> [ŋ]; Eks. Sange [**saŋ<sub>ə</sub>].
+
+<b>B.   Konsonanter.</b>
+
+  [b] i Dansk <b>ustemt</b>; i fremmede Sprog oftest stemt. (Det samme gælder [d] og [g]).
+  [d] se under [b].
+* [ð] som dansk: Ga<sp>d</sp>e; stemt;             \ (ellers samme Lyd).
+* [þ]  -  engelsk: <b>th</b>ree [t>ri.]; ustemt;   /
+  [f]  -  i Dansk; ustemt; ([v] er den samme Lyd, kun stemt).
+  [g] se under [b].
+* [*g] som dansk: Da<b>g</b>e; stemt; ([k] er den samme Lyd, kun ustemt).
+  [h]   -  i Dansk.
+* [**] et meget »hæst«  [h]. (Forekommer i Arabisk.)
+  [j]  som i Dansk; (det er et hurtigt udt. [i]; sml. nedenfor [w] og [<sub>y</sub>].)
+  [k]  ustemt. (I Dansk er det alm. efterfulgt af et svagt eller stærkt Pust; Eks.: Kosak [khorsakh]; det stærke Pust kendes ikke i andre europæiske Sprog. Et svagt Pust er alm. i de fleste andre »germanske« Sprog: Norsk, Svensk, Engelsk, Tysk. Pustet mangler ganske i Hollandsk, de romanske og de slaviske Sprog. (Det samme Forhold genfindes ved [p], Eks.: <b>P</b>aso<b>p</b> [p<sub>h</sub>arsåph] og ved [ti, Eks.: <b>T</b>agfa<b>t</b> [t<sub>h</sub>afat<sub>h</sub>]).
+* [**]  som tysk: a<b>ch</b> [a**] (Bagtungen mod Ganen).   \  
+* [**]   -    -   i<b>ch</b> [i**] (Fortungen mod Ganen).   / (Sml. [g]).
+  [l]    -  dansk: <sup>1</sup>) i<b>l</b>e; stemt; <sup>2</sup>) S<b>l</b>id; halvstemt; 
+* [**l   -  kymrisk: <b>ll</b>an[**an]; ustemt (pustet);  (ellers samme Lyd).
+* [**]   -  <sup>1</sup>) engelsk: we<b>ll</b> [we**];  (mere »hult« (Bagtungen hævet) end foreg. alm. da. [l];  omtrent som i jysk: Faawal [få**wa**]).
+            <sup>2</sup>) russisk: <b>L</b>adoga [****adåg<sub>a</sub>]; (endnu "hulere" end den foreg. eng. Lyd).
+  [m] \ som i Dansk.
+  [n] /
+* [ŋ]    -  dansk: Sa<b>ng</b>e; (nasaleret [**], hvor Luften gaar ud gennem Næsen.)
+* [**]   -  italiensk: si<b>gn</b>ore [si****ore]; (ved det alm. [ŋ], rører Fortungen ved Ganen; ved [**] rører Midttungen ved Ganen.)
+  [p]  se under [k].
+  [r] betegner   <sup>1</sup>) Bagtunge-r  som  i dansk: <b>R</b>ak (halvstemt) og t<b>r</b>ak (ustemt); (Lyden »snurrer« ikke i Dansk; i Tysk og i Fransk er den mere energisk, ofte let »snurrende«). 
+                 <sup>2</sup>) Tungespids-r, den almindeligste r-Lyd i fremmede Sprog; (i Engelsk uden Spor af »Snurrelyd«; i Norsk, Svensk, Hollandsk, Italiensk, Spansk, Portugisisk, Rumænsk, Finsk og Magyarisk samt de slaviske og semitiske Sprog oftest med en let »Snurren«),
+  [s] som i Dansk; ustemt;                      \   (ellers samme Lyd).
+* [z]  -  engelsk: <b>z</b>eal [zi.**]; stemt;  /
+* [∫]  -  tysk: <b>Sch</b>ule [**ſu.l<sub>ə</sub>]; ustemt; (ellers samme Lyd).
+* {**]  -  fransk : <b>g</b>êne [**æ.nl; stemt;
+  [t] se under [k].
+  [v] som i Dansk; stemt;   ([f] er den samme Lyd, kun ustemt).
+* [w]  -    engelsk: <b>w</b>e [wi.]; (et hurtigt udt. [u]; sml. [j]  og [y]);  \   
+* [**]  -       -   : <b>wh</b>en [**en]; ustemt (pustet);      (ellers samme Lyd).
+* [y]  -     fransk: <b>lu</b>i [l<sub>y</sub>i]; (et hurtigt udt. [yl; sml. [j] og [w]).
+
+<b>C.    Andre Tegn.</b>
+
+* [**]  betegner den <sp>efterfølgende</sp> Stavelse som <sp>stærk</sp> (betonet); Eks.: bedrage [be**dra´g<sub>ə</sub>].
+* [ .]     -      -  <sp>foregaaende Lyd</sp> som <sp>lang</sp>; Eks.: klage [**kla.g<sub>ə</sub>].
+* [ ´]     -     at den foregaaende Lyd har "Stød"; Mand [man'] (modsat man [man]), bedrage [be**dra´g<sub>ə</sub>] (modsat drage [dra.g<sub>ə</sub>]).
+* [**] over to Vokaler betegner dem som Tvelyd; Eks.: Sej, mine Gutter! [sai, min<sub>ə</sub>-**gud<sub>ə</sub>r]; [**sa-i: min<sub>ə</sub>-**gud<sub>ə</sub>r?] udtrykker: Sa'e I: mine Gutter? - Trævlen [træ**ulan], (den Handling: at trævle) men [**træu´<sub>ə</sub>an] = Træulden.
+* [-]  forbinder Ord i Udtalen, men adskiller dem for Øjet; Eks.: qui s'excuse, s'accuse
+[ki-**s-æksky.z-**s-aky.z].
+
+NB. Et Lydtegn trykt med »Petit« [<sub>ö</sub>], [<sub>i</sub>], [<sub>u</sub>] osv. betegnes derved som en ubetonet, mindre tydeligt artikuleret Lyd, ofte som en Overgangs- eller Slutningslyd;
+Eks.: Karen [**ka.rən], i daglig Udtale [ka.<sub>r</sub>n].
+
+<i>Alfr. Glahn.</i>
+</chapter>

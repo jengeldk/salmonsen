@@ -1,0 +1,58 @@
+som Ordinat (Fig. 4). Som det fremgaar af
+Kurven, stiger Hestekraften stærkt ved højere
+Fart. Til alm. Overslagsberegning af den
+Hestekraft, som er nødvendig for at drive Skibet
+ved en bestemt Fart, anvendes hyppigt den
+saakaldte Admiralitetsformel <i>IHK</i> = <i>v</i><sup>2</sup> X <i>D</i><sup>2</sup><i>l</i><sup>3</sup>/<i>c</i>
+der udtrykker, at den indicerede Hestekraft er
+proportional' med Farten i 3. Potens og med
+Deplacementet i Potensen 2/3, samt omvendt
+proportional med en Koefficient <i>c</i>, der
+bestemmes fra lgn. udførte Skibe og Varierer mellem
+150 og 300, naar Farten udtrykkes i Knob og
+Deplacementet i Tons.
+
+<sp>Styrke</sp>. Et Skib, der flyder paa Vandet, er
+underkastet Kræfter, som skyldes den ulige
+Fordeling af Skibets Vægte og Vandets Opdrift,
+særlig naar Skibet bevæger sig i høj Sø, samt
+Kræfter fra Fremdrivningsmidlerne o. a.
+Skibsskroget maa være saa stærkt bygget, at det
+har rigelig Styrke til at modstaa disse
+Paavirkninger. For almindelige Handelsskibe fastsætter
+Klassifikationsselskaberne (s. d.)
+Materialdimensioner for de enkelte Dele af Skibsskroget, men
+for specielle Skibe, særlig hurtiggaaende
+Krigsskibe, maa Konstruktøren selv fastsætte
+Materialdimensionerne saaledes, at Styrken bliver
+tilstrækkelig, samtidig med at Vægten
+reduceres saa meget som muligt.
+
+De Paavirkninger, der kommer paa et
+Skibsskrog, kan ikke beregnes absolut nøjagtig, men
+for at kunne sammenligne en Nykonstruktion
+med udførte Skibe, som har vist sig
+tilstrækkelig stærke under praktiske Forhold, antages
+Skibet at være en Drager, der hviler paa en
+trochoidal Bølge med en Længde lig Skibets
+Længde og en Højde lig 1/20 af Længden.
+Forskellen mellem Skibets Vægt og Opdriften i
+hvert Punkt af Længden er Belastningen paa
+Drageren i det paagældende Punkt, og man kan
+nu bestemme Paavirkningerne i Drageren ved
+Hjælp af de alm. Styrkeberegningsmetoder. Der
+afsættes Kurver for Vægt, Opdrift og Belastning,
+(Fig. 5), og ved Integration af sidstnævnte Kurve
+bestemmes Kurver for Forskydningskraft og
+
+<img>Fig. 5.</img>
+
+<img>Fig. 6. Tværsnit i Handelsdamper. <i>1</i> Kølplade. <i>2</i> Bundplade. <i>3</i> Kimmingsplade. <i>4 a</i> Klædningsplader
+(Inderligger). <i>4 b</i> Klædningsplader (Yderligger). <i>5</i> Barkholtsrang. <i>6</i> Skandseklædning. <i>7</i> Slingrekøl.
+<i>8</i> Centerkøl. <i>9</i> Kølvinkler. <i>10</i> Indskudsplade (Intercostal). <i>11</i> Tankside med Tanksidevinkel. <i>12</i> Tanksideknæ.
+<i>13</i> Bundstokplader med Mandehuller. <i>14</i> Bundspanter. <i>15</i> Kontraspanter paa Bundstokke.
+<i>16</i> Tanktopplader. <i>17</i> Spant. <i>18</i> Langskibs Skod. <i>19</i> Hoveddæksbjælker. <i>20</i> Hoveddæksbjælkeknæ. <i>21</i>
+Hoveddæksstringerplade. <i>22</i> Hoveddæksstringervinkel. <i>23</i> Hoveddæksplader. <i>24</i> Støtter. <i>25</i> Bjælkedrager over Støtter. <i>26</i>
+Øverste Dæksbjælker. <i>27</i> Øverste Dæksbjælkeknæ. <i>28</i> Øverste Dæksstringerplade. <i>29</i> Øverste
+Dæksstringervinkel. <i>30</i> Øverste Dæksplader. <i>31</i> Planker paa øverste Dæk. <i>32</i> Rælingsjærn. <i>33</i> Septere for
+Skanseklædning. <i>34</i> Tværskibs Skod. <i>35</i> Nagler i Skodstivere.</img>

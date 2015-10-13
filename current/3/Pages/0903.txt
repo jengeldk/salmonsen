@@ -1,0 +1,116 @@
+<table b>
+<td><td 7>Betjeningsmandskab<td 7>Nonkombattanter<td><td 6>Liniemateriel<td 4>Andet Materiel<td>
+<td>Stationer og Vagter<td>
+F<br>a<br>s<br>t<br>e<br> <br>E<br>m<br>b<br>e<br>d<br>s<br>m<br>æ<br>n<br>d<td>
+R<br>e<br>s<br>e<br>r<br>v<br>e<br>b<br>r<br>a<br>n<br>d<br>b<br>e<br>s<br>t<br>y<br>r<br>e<br>re<br><td>
+S<br>p<br>r<br>ø<br>j<br>t<br>e<br>m<br>e<br>s<br>t<br>e<br>r<br>e<td>
+M<br>a<br>s<br>k<br>i<br>n<br>a<br>s<br>s<br>i<br>s<br>t<br>e<br>n<br>t<br>e<br>r<td>
+S<br>p<br>r<br>ø<br>j<br>t<br>e<br>f<br>ø<br>r<br>e<br>r<br>e<td>
+S<br>t<br>a<br>l<br>d<br>m<br>e<br>s<br>t<br>e<br>r<br>e<td>
+B<br>r<br>a<br>n<br>d<br>f<br>o<br>l<br>k<td>
+O<br>v<br>e<br>r<br>t<br>e<br>l<br>e<br>g<br>r<br>a<br>f<br>i<br>s<br>t<br>e<br>r<td>
+F<br>o<br>r<br>m<br>æ<br>n<br>d<br> <br>f<br>o<br>r<br> <br>T<br>e<br>l<br>e<br>g<br>r<br>a<br>f<br>a<br>r<br>b<br>e<br>j<br>d<br>e<br>r<br>e<td>
+T<br>e<br>l<br>e<br>g<br>r<br>a<br>f<br>i<br>s<br>t<br>e<br>r<td>
+T<br>e<br>l<br>e<br>g<br>r<br>a<br>f<br>a<br>r<br>b<br>e<br>j<br>d<br>e<br>r<br>e<td>
+D<br>e<br>p<br>o<br>t<br>a<br>r<br>b<br>e<br>j<br>d<br>e<br>r<br>e<td>
+O<br>r<br>d<br>o<br>n<br>n<br>a<br>n<br>s<br>e<br>r<td>
+K<br>u<br>s<br>k<br>e<td>
+K<br>o<br>n<br>t<br>o<br>r<br>p<br>e<br>r<br>s<br>o<br>n<br>a<br>l<br>e<td>
+M<br>o<br>t<br>o<br>r<br>s<br>p<br>r<br>ø<br>j<br>t<br>e<br>r<td>
+D<br>a<br>m<br>p<br>s<br>p<br>r<br>ø<br>j<br>t<br>e<br>r<td>
+T<br>e<br>n<br>d<br>e<br>r<br>e<td>
+M<br>e<br>k<br>a<br>n<br>i<br>s<br>k<br>e<br> <br>S<br>t<br>i<br>g<br>e<br>r<td>
+H<br>a<br>a<br>n<br>d<br>k<br>r<br>a<br>f<br>t<br>s<br>p<br>r<br>ø<br>j<br>t<br>e<br>r<td>
+P<br>e<br>r<br>s<br>o<br>n<br>v<br>o<br>g<br>n<br>e<td>
+S<br>l<br>a<br>n<br>g<br>e<br>v<br>o<br>g<br>n<br>e<td>
+F<br>æ<br>r<br>d<br>s<br>e<br>l<br>s<br>v<br>o<br>g<br>n<br>e<td>
+V<br>a<br>n<br>d<br>v<br>o<br>g<br>n<br>e<td>
+A<br>m<br>b<br>u<br>l<br>a<br>n<br>c<br>e<br>v<br>o<br>g<br>n<br>e<td>
+H<br>e<br>s<br>t<br>e
+<td><tab>Vagtbesætning paa:
+<td>Hovedbrandstationen<td r>4<td r><td r>2<td r>1<td r>3<td r>1<td r>12<td r>2<td r><td r><td r><td r>3<td r>2<td r>7<td r>5<td r>1<td r>1<td r>1<td r>1<td r>1<td r>3<footnote>De 2 er automobiler</footnote><td r>1<td r>1<td r><td r>l<td r>12
+<td>Adelgadestatiqnen<td r>1<td r><td r><td r><td r>2<td r><td r>9<td r><td r><td r><td r>1<td r><td r><td r>3<td r><td r><td r><td r>1<td r>1<td r>1<td r><td r><td r>1<td r><td r>1<td r>6
+<td>Fælledvej stationen<td r>1<td r><td r><td r>1<td r>3<td r><td r>12<td r><td r>1<td r>1<td r>5<td r><td r><td r>4<td r><td r><td r>1<td r>1<td r>1<td r>1<td r><td r><td r>1<td r><td r>1<td r>8
+<td>Østerbrostationen<td r>1<td r><td r><td r>1<td r>3<td r><td r>12<td r><td r><td r>1<td r><td r><td r><td r>4<td r><td r><td r>1<td r>1<td r>1<td r>1<td r><td r><td r>1<td r>1<td r>1<td r>8
+<td>Kløvermarksvejstationen<td r><td r><td r><td r>1<td r>3<td r><td r>12<td r><td r><td r>1<td r><td r><td r><td r>4<td r><td r><td r>1<td r>1<td r>1<td r>1<td r><td r><td r>1<td r>1<td r>1<td r>8
+<td>Tomsgaardstationen<td r>1<td r><td r><td r>1<td r>3<td r><td r>12<td r><td r><td r>1<td r><td r><td r><td r>4<td r><td r><td r>1<td r>1<td r>1<td r>1<td r><td r><td r>1<td r>1<td r>1<td r>8
+<td>Vesterbros Vagt<td r><td r><td r><td r><td r>1<td r><td r>5<td r><td r><td r>1<td r><td r><td r><td r>1<td r><td r><td r><td r><td r><td r>1<td r><td r><td r><td r><td r>1<td r>2
+<td>Valby<td r><td r><td r><td r><td r>1<td r><td r>1<footnote>Desuden 8 lejede</footnote><td r><td r><td r>1<td r><td r><td r><td r>»<td r><td r><td r><td r><td r>1<td r>1<td r><td r><td r><td r>1<td r><td r>»<footnote>Lejede</footnote>
+<td><tab>Summa Vagtbesætning<td r>8<td r><td r>2<td r>5<td r>19<td r>1<td r>75<td r>2<td r>1<td r>7<td r>5<td r>3<td r>2<td r>27<td r>5<td r>1<td r>5<td r>5<td r>7<td r>8<td r>3<td r>1<td r>6<td r>4<td r>7<td r>52
+<td>2. Dag<td r><td r><td r><td r>5<td r>19<td r><td r>75<td r>2<td r><td r>7<td r><td r><td r>2<td r>27<td r><td r><td r><td r><td r><td r><td r><td r><td r><td r><td r><td r>
+<td r>Udgør<td r>8<td r><td r>2<td r>10<td r>38<td r>1<td r>150<td r>4<td r>1<td r>14<td r>5<td r>3<td r>4<td r>54<td r><td r><td r><td r><td r><td r><td r><td r><td r><td r><td r><td r>
+<td>Erstatning<td r><td r>1<td r><td r><td r><td r><td c 7>181<br>26<td r>6<td r><td r><td r><td r>1<td r>1<td r>2<td r><td r><td r><td r>1<td r><td r>
+<td r>Samlet Styrke<td r>8<td r>1<td r>2<td r>10<td r>38<td r>1<td c 7>207<td r>60<td r>5<td r>1<td r>5<td r>6<td r>8<td r>l0<td r>3<td r>1<td r>6<td r>5<td r>7<td r>52
+</table>
+
+Forbedringer, saa at der 1884 havdes 10 faste
+Vagter og en Styrke af 5 Officerer, 19
+Underofficerer og 116 Brandfolk, hvorhos Materiellet
+var blevet forøget med 2 Dampsprøjter og 1
+mekanisk Stige, og der til Fremføring af
+Dampsprøjterne og af Stationssprøjterne paa de
+udenbys Vagter var tilstaaet i alt 13 lejede Heste
+med Kuske, ligesom der paa Telegrafens
+Omraade var paabegyndt Anvendelsen af
+offentlige Brandalarmer; men hermed blev
+Manglerne ved B.'s Organisation ikke afhjulpne.
+Christiansborg Slots Brand 1884 fremkaldte Ønsket
+om en Omordning af B.'s faste Styrke; Forslag
+hertil fremlagdes 1887 og vedtoges 1889.
+Principperne for denne Ordning kan vel kaldes
+internationale; de fastsloges af Brandchef
+Scabell i Berlin ved Midten af 19. Aarh. og er
+efterhaanden indførte i alle større Byer. De
+fastsætter, at der over Byens Grund spredes et
+Antal Brandvagter eller Stationer ordnede
+saaledes, at intet Sted af Byen er længere fjernet
+fra en Vagt, end at en Slukningsafdeling kan
+naa dertil inden for en vis Maksimaltid, regnet
+fra det Øjeblik, Brandalarmeringen afgives. For
+Kbhvn's Vedk. fastsattes denne Tid til 10
+Minutter; men da Brandmateriellet dengang
+fremførtes med Heste, som i alle andre Byer, vil
+den vel være forringet efterhaanden, som
+Automobildriften bliver eneraadende.
+
+Dernæst fastslaas, at en Vagt skal være
+udrustet med Officerer, Mandskab og Materiel i
+saadant Forhold, at den er i Stand til at
+udsende mindst een selvstændig arbejdende
+Slukningsafdeling, og endelig, at der indrettes saa
+mange større Vagter, som Byens Størrelse
+betinger, til Depotstationer.
+
+Paa Grundlag af disse Principper har Kbhvn's
+B. udviklet sig til en Organisation, hvis enkelte
+Dele fremgaar af hosstaaende Tabel; til dens
+Forstaaelse vil flg. være at bemærke:
+
+Medens Brandmandskabet opr. havde en
+Vagtturnus paa to Døgns Vagttjeneste med derefter
+flg. 1 Døgns Vagtfrihed, blev Tjenestegangen
+1907 forandret saaledes, at 1 Døgns Vagttjeneste
+skifter med 1 Døgns Vagtfrihed. Denne Lettelse
+i Tjenesten, der for øvrigt allerede har faaet
+nogle Efterfølgere i Udlandet, og kan forvente
+efterhaanden fl., medførte selvfølgelig, at B.
+maatte forøges med et til Forandringen
+svarende Mandskab, og tilhørende Forøgelse af
+Udgifterne til B. Tabellen viser, at Materiellet,
+foruden Haandkraftsprøjter og Dampsprøjter,
+tillige som egl. Slukningsmateriel omfatter en
+Motorsprøjte. Dennes Tilstedeværelse staar i
+Forbindelse med en alm. Bevægelse i Retning
+af Automobilisering af Brandmateriel, en
+Bevægelse hidført saavel af Automobilismens
+Udvikling i Alm. som ogsaa af Erkendelsen af det
+uøkonomiske og derfor uheldige i den hidtil
+anvendte Trækkraft — Hesten —, der volder
+den samme Bekostning, enten den bruges ell.
+ej, medens Motorkraften — Benzinen — kun
+bruges, hver Gang en Udrykning finder Sted.
+Bevægelsen begyndte i Beg. af dette Aarh., og
+navnlig i Tyskland er der foretaget
+grundlæggende Undersøgelser over Rentabilitetsforholdet
+mellem de to Driftsmaader, der er faldet
+absolut ud til Fordel for Automobildriften. Som

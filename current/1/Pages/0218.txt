@@ -1,0 +1,167 @@
+<chapter name="Aërofor">
+<b>Aërofor</b>, et Apparat, der anvendes til Aanding
+under Vand, i Røg, giftige Luftarter o. l.
+</chapter>
+
+<chapter name="Aëroklinoskop">
+<b>Aëroklinoskop</b> (gr.) er et af den tidligere
+Direktør for det holl., meteorologiske Institut,
+Prof. Buys-Ballot, konstrueret Signalapparat,
+der tjener til at vise, hvorledes Lufttrykket er
+fordelt over et vist Omraade, f. Eks. over
+Holland. A. bestod af en Mast, som foroven
+bar en Tværbjælke, der kunde stilles i forsk.
+skraa Stillinger. Efter telegrafisk indhentede
+Meddelelser om Barometerstanden paa forsk.
+Observationsstationer beordrede det holl. met.
+Institut — ligeledes ad telegrafisk Vej —
+hvorledes A.'s Tværbjælke skulde stilles. Reglen
+herfor var, at Tværbjælkens skraat nedadvendende
+Ende skulde pege i den Retning, hvor
+Lufttrykket var lavest, medens Tværbjælkens større
+ell. mindre Skarphed samtidig angav, om den
+Lufttrykforskel, der fandtes over Landet, var
+stor ell. lille; i Overensstemmelse hermed
+stilledes Tværbjælken vandret, saafremt
+Lufttrykket var nogenlunde jævnt fordelt. A. var det
+første Signalapparat, der toges i Brug af den
+moderne Meteorologi. Det indførtes 1866 i
+Holland, men er nu praktisk talt gaaet af Brug,
+og har ikke vundet Udbredelse uden for det
+nævnte Land. A.'s Hovedbetydning laa i, at
+dets Signaler var at opfatte som en Angivelse
+af Sandsynligheden for Storm. Stod
+Tværbjælken vandret (Lufttrykket temmelig ens
+overalt), var Sandsynligheden for Storm meget
+ringe, og stod Tværbjælken meget stejlt, var
+Situationen truende. Apparatet besad den
+ubestridelige Fordel fremfor de senere
+meteorologiske Signalapparater, saasom Stormvarsler og
+Vejrvarsler, at det altid kun viste, hvorledes
+Forholdene faktisk var — det viste ogsaa altid
+rigtigt. Hovedfejlen ved Systemet var, at
+Lufttrykfordelingen over et saa lille Omraade som
+Holland kun er afgørende for Vejret i ganske
+kort Tid, og over et større Omraade er
+Lufttrykforholdene som Regel saa indviklede, at
+A. ikke er anvendeligt.
+<i>D. la C.</i>
+</chapter>
+
+<chapter name="Aërolit (se Meteoritter)">
+<b>Aërolit</b>, se <sp>Meteoritter</sp>.
+</chapter>
+
+<chapter name="Aërologi">
+<b>Aërologi</b> (gr.) er Læren om Lufthavet. Ordet
+anvendes dog saa at sige udelukkende om
+Læren om de højere Luftlag, uden at der dog
+kan angives en bestemt Grænse, hvorfra disse
+da regnes. A. er den yngste større Gren af
+Meteorologien og er først udviklet i Slutn. af
+19. Aarh., efter at det var lykkedes at skaffe
+et stort lagttagelsesmateriale fra den fri Atm.
+(se <sp>aërologiske Observationer</sp>).
+
+Det centrale i A. udgøres af Kendskabet til
+Fordelingen af Temperatur-, Fugtigheds- og
+Vindforholdene i Atm. Kendskabet til disse
+meteor. Elementer og til Lufttrykket vil, som V.
+Bjerknes har vist, indeholde de fornødne
+Værdier til Opstilling af det tilstrækkelige Antal
+Ligninger til deraf at forudberegne de
+atmosfæriske Tilstande. Hvorvidt en saadan Beregning
+kan faa Bet. i det praktiske Liv, ell. om det
+vil vise sig nødvendigt ogsaa at tage andre
+Hensyn, f. Eks. til Energitilførslen, maa endnu
+betragtes som uafgjort.
+<i>D. la C.</i>
+</chapter>
+
+<chapter name="aërologiske Observationer">
+<b>aërologiske Observationer</b> i Alm. er
+Iagttagelser ang. Atmosfærens fysiske Forhold. I
+dgl. Tale betegner a. O. dog særligt saadanne
+meteor. Iagttagelser, som angaar de højere
+Luftlag. En Række a. O. kan foretages fra
+Jordoverfladen, saaledes Iagttagelser vedrørende
+Skyerne (Former, Højder, Driftsretning) og af
+visse af Atmosfærens optiske Forhold, men de
+fleste a. O. kræver særlige Hjælpemidler, hvoraf
+de vigtigste er bemandede Balloner,
+Registrerballoner, Drager og Ballons captifs samt
+Pilotballoner. De a. O., der foretages fra
+bemandede Balloner, og med hvilke man har naaet
+Højder paa omtr. 11000 m o. H., omfatter som
+Regel de alm. meteor. Elementer Lufttryk, Temp.
+og Fugtighed samt saa vidt muligt Vinden.
+Hertil knyttes ofte Iagttagelser af Solstraalingen,
+elektriske Forsøg (Potentialmaalinger og
+Bestemmelser af Luftens Ledningsevne),
+Støvtælling, Luftanalyser og forsk. optiske
+Undersøgelser. De f. T. uden Sammenligning vigtigste
+a. O. angaar Temp. og Fugtigheden, hvilke
+Faktorer i Hovedsagen er bestemmende for
+Atm.'s Stabilitetsforhold. Undersøgelsen af
+disse meteor. Elementer samt til Dels ogsaa af
+Luftens Sammensætning er ved Hjælp af
+Registrerballonerne udstrakt til c. 30 km.s Højde. De
+samme Undersøgelser samt Vindmaalinger kan
+ogsaa udføres ved Hjælp af Drager. Disse egner
+sig godt til at benyttes ved faste Stationer, og
+det er lykkedes at naa ca. 7000 m's Højde paa
+denne Maade. I stille Vejr erstattes Dragerne
+gerne med Ballons captifs. De a. O., der
+anstilles med Pilotballoner, angiver udelukkende
+Vindens Retning og Styrke i forskellige Højder.
+
+a. O. foretages dgl. fra særlige aërologiske
+Observatorier, hvoraf de f. T. mest bekendte
+er Blue Hill i Amerika, Trapyes i Frankrig,
+Lindenberg i Tyskland og Pawlowsk i Rusland.
+For ogsaa at kunne udnytte de a. O., der af
+Bekostningshensyn kun foretages af og til ell.
+paa anden Maade i mindre Stil, har man ved
+internationale Overenskomster søgt at samle
+Undersøgelserne til visse bestemte
+»internationale Dage« af Aaret. De a. O. kan da
+sammenarbejdes og give et ret fyldigt Billede af
+Tilstanden i Atm., medens enkelte spredte a. O.
+som Regel ingen nævneværdig Betydning har.
+<i>D. la C.</i>
+</chapter>
+
+<chapter name="Aëromanti">
+<b>Aëromanti</b> (gr., af ἀήρ, Luft og μαντεία,
+Spaadom), »Luftspaadomskunst«, Kunsten at
+spaa af Luftens forsk. Beskaffenhed.
+</chapter>
+
+<chapter name="Aëromekanik eller Pneumatik">
+<b>Aëromekanik</b> ell. <sp>Pneumatik</sp>, en Afdeling
+af Mekanikken, er Læren om Ligevægts- og
+Bevægelseslovene for luftformige Legemer; den
+inddeles i Aërostatik (s. d.) og Aërodynamik
+(s. d.).
+</chapter>
+
+<chapter name="Aërometri">
+<b>Aërometri</b> (gr., af ἀήρ, Luft og μετρείν,
+maale), Luftmaaling, Læren om Luftarternes
+Udmaaling, deres Blandingsforhold og
+Bestanddele.
+</chapter>
+
+<chapter name="Aëronaut">
+<b>Aëronaut</b> (gr., af ἀήρ, Luft og ναύτης,
+Skipper), Luftskipper; <sp>Aëronautik</sp>, Læren om
+Luftsejlads.
+</chapter>
+
+<chapter name="aëronautiske Observationer">
+<b>aëronautiske Observationer</b> er
+Iagttagelser, der foretages i Luften, og som er af Bet.
+for Luftsejlads. Af Vigtighed i saa Henseende
+er dels en Række nærmest meteor. Observationer,
+nemlig Iagttagelser af Lufttrykket og
+Lufttrykkets Variationer samt af den vertikale

@@ -1,0 +1,143 @@
+udnytte og regulere sin Drift end, hvis Forbruget
+kun falder i en bestemt Time af Døgnet.
+Gasværkets <sp>Aarsproduktion</sp> forøges herved,
+uden at det <sp>største Gasforbrug pr
+Time</sp> væsentlig forøges, og Udgiften til
+Forrentning og Amortisation, der væsentlig
+afhænger af hele Aarsproduktionen, kan derfor
+blive mindre pr Kbm Gas, der er produceret. I
+de senere Aar er man dog (ogsaa under
+Indflydelse af Konkurrencen med Elektriciteten)
+mange St. gaaet bort fra denne Deling i Lysgas
+og Kogegas, fordi Husinstallationerne bliver en
+Del fordyrede ved, at der skal være særlig
+Maaler og Ledningsnet til hver af de to Arter
+Gasforbrug.
+
+δ) <sp>Apparater til Tænding og
+Slukning</sp>. Den stærke Udvikling af Gasbelysning
+har medført adskillige Konstruktioner af
+Apparater til Tænding og Slukning, baade af
+Gadelygter og af den mindre, indendørs Belysning.
+
+1) <sp>Tænding og Slukning af
+Gadelygter</sp>. At anvende et Korps af
+Lygtetændere, der tillige udfører Renholdelse og
+Pasning af Lygterne, er forholdsvis kostbart, da der
+hører et stort Personale til, naar Tændingen
+ikke skal tage alt for lang Tid. Tillige
+medfører det et ikke uvæsentlig ekstra Gasforbrug,
+idet Tændingen maa paabegyndes saa tidlig, at
+alle Lygter er tændte ved Mørkets Frembrud,
+og Slukningen ogsaa omvendt bliver forhalet.
+Det er altsaa paa fl. Maader fordelagtigt, naar
+Tænding og Slukning kan foretages fra et
+centralt St., automatisk ell. paa anden Maade. Som
+Bevægkraft kan bruges enten Forskellen i
+Trykket i selve Gasledningen ell. Lufttryk,
+Elektricitet, Urværk e. l.
+
+For at det Tryk, hvormed G. sendes til
+Forbrugerne, ikke skal aftage, naar Forbruget
+vokser, sættes der henimod Aften fra
+Gasværket større Tryk paa Ledningerne ind til Byen.
+Ved Midnatstid formindskes Trykket, men
+tidlig om Morgenen forøges det atter, da
+Gasforbruget forøges paa denne Tid, naar man rundt
+om begynder at varme Vand og Morgendrikke.
+
+Der er konstrueret Apparater, der kan tænde
+og slukke ved den Trykdifferens, der saaledes
+forekommer i Ledningerne; men Metoden
+støder paa fl. Vanskeligheder. For det første er
+denne Trykdifferens, der i Reglen kun svinger
+mellem c. 25 og 50 mm, temmelig lille til at
+være Drivkraft, men det kan endda ordnes;
+værre er det, at det kun er Tændetiden om
+Aftenen, der falder sammen med den naturlige
+Trykforhøjelse. Det, at nogle Lygter skal
+slukkes ved Midnat, medens andre skal brænde til
+Dagens Frembrud, samt Vanskeligheden ved i
+de forsk. Punkter af Ledningsnettet at holde
+et saa lavt Tryk aldeles konstant, gør denne
+Art Apparater indviklede i Konstruktion og
+usikre i Drift. Man har derfor konstrueret
+Apparater, hvor det drivende Tryk er valgt saa
+stort, at det er noget større end det
+Maksimaltryk, der normalt forekommer i Løbet af
+Døgnet. Hanerne er da indrettede saaledes, at de
+drejer sig et Stykke, hver Gang der farer en
+saadan Trykforøgelse gennem Ledningerne.
+Ved Tændetid om Aftenen sendes der saa en
+Trykbølge ud, Lygterne tændes, og Trykket
+sættes igen ned til det normale Forsyningstryk
+og undergaar sine normale Forandringer, uden
+at Tændeapparaterne berøres af disse
+Svingninger. Tændeapparaterne paa de Lygter, der
+skal slukkes ved Midnat, er nu indrettede
+saaledes, at første Trykbølge efter Tændingen
+giver Slukning, saa kun Vaageblusset brænder,
+den næste Trykbølge drejer Hanen uden at
+aabne for Gastilførselen, og først den tredje
+Trykbølge giver Tænding igen. Paa de Lygter,
+der skal brænde hele Natten, lader den første
+Trykbølge efter Tændingen Hanerne
+vedvarende være aabne, den anden slukker, og den
+tredje tænder. Paa denne Maade kan man da
+ved at udsende en Trykbølge om Aftenen, en
+ved Midnatstid, og endelig den tredje ved
+Morgenens Frembrud, tænde og slukke, som man
+ønsker. Apparater af denne Art anvendes en
+Del i Tyskland. Et er konstrueret af Dr.
+<sp>Rostin</sp>: Trykbølgen virker paa to Svømmere,
+der flyder i en lille Dobbeltbeholder med
+Glycerin, hvoraf der er anbragt een paa hver Lygte.
+Apparater af denne Art findes anvendte paa
+Frederiksberg. Et andet er konstrueret af
+<sp>Bamag</sp>, der lader Trykbølgen bevæge en
+Membran. Et af de nyeste og bedste Apparater af
+denne Art er <sp>Himmel</sp>'s
+Centraltændingsapparat.
+
+Apparater, der bruger Lufttryk som
+bevægende Kraft, er af lgn. Konstruktioner, men
+fordrer et særligt Rørsystem af Luftledninger
+til hver enkelt Lygte. Dette gør Anlægget
+kostbart, men til Gengæld undgaas de
+Forstyrrelser, som Trykbølgerne i selve Gasledningerne
+undertiden kan afstedkomme. Et Apparat af
+denne Art er <sp>Siemens</sp>' (System Lenge).
+
+Anvendelsen af Urværker til Tænding og
+Slukning gør den ene Lygte uafhængig af den
+anden, da Urværket kan indstilles efter Behag.
+Systemer af denne Art er under Prøve mange
+St. (ogsaa i Danmark, baade i Kbhvn og paa
+Frederiksberg), og Vanskeligheden ligger
+nærmest i at beskytte Urværket mod Vejrligets
+Indflydelse og Ødelæggelser. Dog er
+Systemerne med Ure noget bekosteligere end de andre,
+thi Urene skal passes, trækkes op og omstilles,
+naar Tændetiderne ændres.
+
+Medens alle de nævnte Systemer anvender
+Vaageblus ved Tændingen, kan dette undgaas
+ved de <sp>elektriske Tændeapparater</sp>.
+Disse bestaar i Reglen af en Elektromagnet,
+hvis Anker paavirker Hanen, samt af en
+Induktionsrulle, der kan bevirke Gnistdannelse
+mellem to Spidser lige over Brænderens
+Udstrømningsaabning. P. Gr. a. de temmelig
+kostbare Ledninger og Installationer, samt
+Vanskeligheden ved at holde disse i Orden i fri
+Luft, har disse Systemer haft Vanskelighed
+ved at vinde Udbredelse til Gadebelysning, men
+ved Husledningsanlæg anvendes de tit med
+Fordel og Nytte, navnlig da der nu findes
+virkelig brugbare Systemer, der opfylder de
+Betingelser, man maa stille til saadanne
+Fjerntændingsapparater, nemlig 1) at Tændingen
+sker uden eksplosionsagtige Stød, og 2) at den
+elektrisk bevirkede <sp>Lukning</sp> af Haner sker
+<sp>lettere</sp> end dennes <sp>Aabning</sp>, saa at, hvis
+Strømmen svækkes, det <sp>ikke</sp> kan indtræde,

@@ -1,0 +1,76 @@
+bevægelige Spole og en stor induktionsfri
+Forlagsmodstand som vist skematisk i Fig. 8. Det
+bliver da den samme Strøm, som gaar gennem
+de to Spoler. Drejningskraften bliver til
+enhver Tid proportional med 2den Potens af
+Strømmen, og Middeldrejningskraften, som
+betinger Udslaget, bliver proportional med 2den
+Potens af Strømmens <sp>effektive
+Middelværdi</sp>, hvorved netop forstaas Kvadratroden
+af Middelværdien af Strømmens 2den Potens
+over en hel Periode. Strømmen er proportional
+med Spændingen, og følgelig bliver
+Drejningskraften proportional med 2den Potens af
+den effektive Spænding. Under Indvirkning
+af Drejningskraften gør Viseren et Udslag,
+der er saa stort, at Fjedrene spændes til
+en lige saa stor Modkraft. Paa Skalaen er
+der nu empirisk afsat Delestreger, der direkte
+viser Spændingens effektive Værdi. Skalaen
+bliver omtr. kvadratisk. En saadan Skala er
+vist paa Fig. 9. P. Gr. a. Skalaens kvadratiske
+Forløb kan et Voltmeter til f. Eks. 150 Volt
+praktisk talt ikke bruges til under 50 Volt, da
+Udslaget ved mindre Spændinger bliver meget
+lille. At Skalaen ikke er strengt kvadratisk,
+ligger i, at Proportionalitetsfaktoren mellem
+Drejningskraften og Strømmens Kvadrat
+afhænger noget af Spolernes
+gensidige Stilling.
+
+Et Voltmeter til f. Eks. 150 Volt
+forbruger ved fuld Spænding en
+Strøm paa c. 1/10 Ampère. - Et
+Voltmeter til 30 Volt forbruger c.
+1/2 Ampère. - Voltmetre af denne
+Art til ganske smaa Spændinger
+har man ikke, da de vilde kræve
+for stor en Strøm.
+
+Ved <sp>Ampèremetre</sp> er den
+faste Spole viklet af Traad ell.
+Baand af et saadant Tværsnit, at
+den praktisk talt kan bære den
+hele Strøm, som man ønsker at
+maale, og serieforbundet med en
+Modstand, som ved fuld Strøm
+giver et Spændingsfald paa et Par
+Volt. Den bevægelige Spole er kun
+beregnet til en svag Strøm og
+ligeledes serieforbundet med en
+Modstand med et Spændingsfald paa
+et Par Volt, og de to
+Kombinationer er da parallelforbundne, som
+skematisk vist i Fig. 10. Strømmen
+<i>I</i> deler sig følgelig i Strømmen <i>I</i><sup>1</sup>
+og den ganske lille Strøm <i>i</i>.
+Drejningskraften er proportional med
+Produktet <i>I</i><sup>1</sup> · <i>i</i>, hvilket atter er proportionalt
+med <i>I</i><sup>2</sup>, hvis <i>i</i> og <i>I</i><sup>1</sup> er proportionale. Det er
+
+<img>
+Fig. 9. Skala af elektrodynamisk Voltmeter.
+</img>
+<img>
+Fig. 10. Elektrodynamisk Ampèremeter.
+</img>
+<img>
+Fig. 11. Elektrodynamisk Wattmeter.
+</img>
+<img>
+Fig. 12. Westons Wattmeter.
+</img>
+<img>
+Fig. 13. Det bevægelige System af et Westons
+Wattmeter.
+</img>

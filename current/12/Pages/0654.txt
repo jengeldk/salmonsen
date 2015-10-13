@@ -1,0 +1,137 @@
+<table>
+<td>Landskaber (regioni) og Provinser (provincie)<td>Areal km<sup>2</sup><td>Bef. 1911<td>Bef. pr. km<sup>2</sup>
+<td>Belluno<td r>3305<td r>235328<td r>71
+<td>Padova<td r>2141<td r>528970<td r>247
+<td>Rovigo<td r>1771<td r>261771<td r>148
+<td>Treviso<td r>2477<td r>508161<td r>205
+<td>Udine<td r>6570<td r>726445<td r>111
+<td>Venezia<td r>2444<td r>467157<td r>191
+<td>Verona<td r>3072<td r>486274<td r>158
+<td>Vicenza<td r>2735<td r>520235<td r>190
+<td r><sp>Venetien</sp><td r>24515<td r>3734341<td r>152
+<td>Bologna<td r>3795<td r>586082<td r>154
+<td>Ferrara<td r>2640<td r>310210<td r>118
+<td>Forli<td r>1892<td r>308008<td r>163
+<td>Modena<td r>2597<td r>365584<td r>141
+<td>Parma<td r>3259<td r>332111<td r>102
+<td>Piacenza<td r>2505<td r>272061<td r>109
+<td>Ravenna<td r>1852<td r>247602<td r>134
+<td>Reggio nell' Emilia<td r>2291<td r>318658<td r>139
+<td r><sp>Emilia</sp><td r>20831<td r>2740316<td r>132
+<td>Arezzo<td r>3302<td r>292070<td r>88
+<td>Firenze<td r>5859<td r>1009947<td r>172
+<td>Grosseto<td r>4496<td r>148122<td r>33
+<td>Livorno<td r>343<td r>133197<td r>388
+<td>Lucca<td r>1437<td r>339874<td r>236
+<td>Massa e Carrara<td r>1782<td r>221860<td r>125
+<td>Pisa<td r>3069<td r>346559<td r>113
+<td>Siena<td r>3812<td r>244724<td r>64
+<td r><sp>Toscana</sp><td r>24100<td r>2736353<td r>114
+<td>Ancona<td r>1938<td r>328728<td r>170
+<td>Ascoli Piceno<td r>2085<td r>267199<td r>128
+<td>Macerata<td r>2773<td r>272719<td r>98
+<td>Pesaro e Urbino<td r>2895<td r>276359<td r>95
+<td r><sp>Marche</sp><td r>9691<td r>1145005<td r>118
+<td>Perugia, <sp>Umbria</sp><td r>9767<td r>712778<td r>73
+<td>Roma, <sp>Lazio</sp><td r>12083<td r>1306514<td r>108
+<td>Aquila degli Abruzzi<td r>6458<td r>456931<td r>71
+<td>Campobasso<td r>4383<td r>390135<td r>89
+<td>Chieti<td r>2959<td r>400546<td r>135
+<td>Teramo<td r>2745<td r>327463<td r>119
+<td r><sp>Abruzzi e Molise</sp><td r>16545<td r>1575075<td r>95
+<td>Avellino<td r>3018<td r>425334<td r>141
+<td>Benevento<td r>2123<td r>272121<td r>128
+<td>Caserta<td r>5269<td r>829705<td r>157
+<td>Napoli<td r>908<td r>1309361<td r>1442
+<td>Salerno<td r>4944<td r>588489<td r>119
+<td r><sp>Campanien</sp><td r>16262<td r>3425010<td r>211
+<td>Bari delle Puglie<td r>5305<td r>918539<td r>173
+<td>Foggia<td r>6951<td r>474736<td r>68
+<td>Lecce<td r>6852<td r>778229<td r>114
+<td r><sp>Apulien</sp><td r>19108<td r>2171504<td r>114
+<td>Potenza, <sp>Bassilicata</sp><td r>9987<td r>485911<td r>49
+<td>Catanzaro<td r>5270<td r>532725<td r>101
+<td>Cosenza<td r>6647<td r>522620<td r>79
+<td>Reggio di Calabria<td r>3157<td r>470400<td r>149
+<td r><sp>Calabria</sp><td r>15074<td r>1525745<td r>101
+<td>Caltanissetta<td r>3294<td r>355868<td r>108
+<td>Catania<td r>4938<td r>802535<td r>163
+<td>Girgenti<td r>3044<td r>413400<td r>136
+<td>Messina<td r>3249<td r>545974<td r>168
+<td>Palermo<td r>4992<td r>819391<td r>164
+<td>Siracusa<td r>3712<td r>504025<td r>136
+<td>Trapani<td r>2509<td r>370562<td r>148
+<td r><sp>Sicilien</sp><td r>25738<td r>3811755<td r>148
+<td>Cagliari<td r>13415<td r>529862<td r>40
+<td>Sassari<td r>10675<td r>338319<td r>32
+<td r><sp>Sardinien</sp><td r>24090<td r>868181<td r>36
+<td>Riget<td r>286610<td r>35845048<td r>125
+</table>
+
+Befolkningstætheden er for hele Landet 125
+pr km<sup>2</sup>. I. hører hermed til de tættest
+befolkede Lande i Europa, idet det kun overgaas af
+England (245), Holland (194) og Belgien (261)
+og staar lige med Tyskland. I ret store Egne
+af Landet er dog Befolkningstætheden langt
+under den gennemsnitlige (de Egne, som Alperne
+[Prov. Cuneo, Sondrio, Belluno] strækker sig
+ud over de apenninske Bjergegne [Umbrien og
+Dele af Markerne og Abruzzerne] samt hele
+Sardinien). Tyndtbefolkede er endvidere de af
+Morænernes Sumpe opfyldte Strækninger i
+Prov. Grosseto, ell. de pontinske Sumpe i Prov.
+Rom. Befolkningstætheden er i denne Prov.,
+hvor den romerske Kampagne strækker sig,
+naar Byen Rom fradrages, kun c. 70. Paa den
+anden Side er dien liguriske Kyst, Posletten i
+hele sin Bredde, Arnosletten og den
+neapolitanske Kyststrækning samt største Delen af
+Sidlien overordentlig tæt befolkede Egne.
+
+Af I.'s 8345 Kommuner har 1686 under 100 Indb.,
+2022 fra 1-2000, 1454 fra 2-3000, 1570 fra
+3-5000, 1060 fra 5-10000, 379 fra 10-20000,
+150 fra 20-50000, 29 fra 50-100000 og 13 over
+100000 Indb. De vigtigste Byer er flg.:
+
+<sp>Piemont</sp>: Torino (Turin) 451994 Indb.,
+Alessandria (78159), Novarra (58858), Asti
+(41252), Casale (34151), Vercelli (31926), Cuneo
+(29608).
+
+<sp>Ligurien</sp>: Genova (300139), Spezia (68803),
+Savona (50051), San Remo (24292).
+
+<sp>Lombardiet</sp>: Milano (663059), Brescia
+(89622), Bergamo (58470), Monzi (52659), Como
+(46216), Cremona (42704), Pavia (40729),
+Mantova (34507), Vizevani (27746), Lodi (27057).
+
+<sp>Venetien</sp>: Venezia (Venedig, 168038),
+Padova (105135), Verona (86448), Vicenza (57016),
+Udine (49695), Trevino (43597).
+
+<sp>Emilia</sp>: Bologna (189770), Ferrara (102550),
+Modena (76584), Reggio di E. (75349), Ravenna
+(74161), Parma (54584), Forli (48943), Cesena
+(46445), Rimini (43595), Piacenza (40362),
+Faenza (39908), Imola (35597), Lugo (28073), Carpi
+(27465).
+
+<sp>Toscana</sp>: Firenze (Florents, 242147),
+Livorno (108585), Lucca (79110), Pistoia (70251),
+Pisa (67285), Prato (56715), Arezzo (50093),
+Carrara (49492), Capannori (48467), Siena
+(42428), Massa (33299), Cortona (29659),
+Coscino (27636).
+
+<sp>Markerne</sp>: Ancona (68430), Ascoli (32257),
+Pesaro (28483), Fabriano (24917), Jesi (24884).
+
+<sp>Umbrien</sp>: Perugia (70227), Terno (32765),
+Foligno (29201), Cita di Cartello (27212),
+Spoleto (25975), Assisi (18587).
+
+<sp>Rom</sp>: Rom (590960), Civita Vecchia (20741),
+Tivoli (14608).

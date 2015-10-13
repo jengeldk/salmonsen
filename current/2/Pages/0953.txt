@@ -1,0 +1,122 @@
+Jo længere Lampen er borte fra den Flade,
+der skal belyses, desto svagere bliver
+Belysningen, og denne aftager med Kvadratet paa
+Afstanden. Kaldes Afstanden r, Belysningsgraden
+E og den udsendte Lysstyrke I, da er E = I/r<sup>2</sup>
+den saakaldte »første Lambertske Lov«.
+
+Det var forudsat, at Fladen stod vinkelret
+paa Straaleretningen. Hvis Fladen danner en
+Vinkel med Straaleretningen, vil Fladen faa
+mindre B. I Punktet p<sub>0</sub> (Fig. 2) faar Fladen
+den ovf. beregnede Belysningsgrad E, men i
+Punktet p<sub>a</sub> aftager denne p. Gr. a., at
+Straalerne fra Lampen gaar skraat mod Fladen,
+til E<sub>a</sub>, hvor E<sub>a</sub> = E. cosinus α (den »anden
+Lambertske Lov«) og idet cos. α udtrykkes ved
+Lampens Ophængningshøjde <i>h</i> og Afstanden <i>a</i>
+fra Opstanderens Fodpunkt til det Sted af
+Fladen, hvis Belysningsgrad skal undersøges, faas,
+efter forskellige Reduktioner, E<sub>a</sub>=I*h/(√(a<sup>2</sup>+h<sup>2</sup>))<sup>3</sup>
+
+For forskellige Lampestørrelser og forskellige
+Ophængningshøjder har man nu udregnede
+Tabeller over Størrelsen h/(√(a<sup>2</sup>+h<sup>2</sup>))<sup>3</sup> (f. Eks. i
+Bertelsmann: »Rechnentafeln für
+Beleuchtungstechnicher«). I Tab. 1 er anført en saadan Tabel
+for en Lampe med Lysstyrke 100, ophængt i 6 m
+Højde.
+
+Under k er anført Størrelsen af h/(√(a<sup>2</sup>+h<sup>2</sup>))<sup>3</sup>.
+
+α er den Vinkel, Straalerne fra Lampen danner
+med den vinkelrette paa Fladen.
+
+Lampens Lysstyrke er 100 L.,
+Ophængningshøjde 6m. a er ogsaa i Meter.
+
+Ved Hjælp af Tab. 1 vil vi nu undersøge
+Virkningen af den i Fig. 1 omtalte 1200 L
+Presgaslampe, naar denne ophænges i 6 m Højde. Fra
+Lampens Polarkurve i Fig. 1 kan vi maale os
+til Størrelsen af <i>I</i> under de forsk. Værdier af
+Vinklen α, og ved Multiplikation med Tallene
+i Tab. 1 faas da Belysningsgraden i 1, 2, 3 m
+o. s. v. Afstand fra Lampens Fodpunkt. For 2 m
+Afstand faas f. Eks., at a=2 m svarer i Tab. 1
+til α = 18° 26′ og k = 2,37. Af Fig. 1 ses, at
+for α = c. 18 1/2° er E = c. 1000, og da k i Tab. 1
+er beregnet pr 100 L, faas Belysningsgraden
+i 2 m Afstand fra Opstanderens Fodpunkt at
+være 2,37 · 1000/100 = 23,7 Lux. Indtegnes disse
+Værdier af Belysningsgraden som Ordinater over
+en vandret Linie med Afstanden fra
+Opstanderens Fodpunkt som Abcisser, saa faar man
+Lampens saakaldte <sp>Belysningskurve</sp>, svarende
+til denne bestemte Ophængningshøjde. Man har
+Afbildninger af saadanne Belysningskurver
+beregnet for de fleste alm. Lyskilder i forskellige
+brugelige Ophængningshøjder, f. Eks. hos
+Bertelsmann (»Verwendung d. Leuchtgases«, Bd II).
+I Fig. 3 ses Kurven for den Belysning, den i
+Fig. 1 omtalte Lampe vil give, ophængt 6 m over
+en Flade.
+
+Ved Projektering af et Belysningsanlæg maa
+man nu tage Hensyn til den Belysnings<sp>grad</sp>,
+det vil være passende at fremskaffe. Denne er
+(til Dels efter Bertelsmann) angivet i Tabel 2.
+
+<table>
+<td>Tabel 2.
+<td 3 c><sp>Mindste tilladelige B. i Lux.</sp>
+<td>Sidegader med svag Færdsel<td r>0,3—0,5<td c>Lux
+<td>— — stærkere - <td r>0,5—1,0<td c>—
+<td>Almindelige Hovedgader<td r>1,5—2,0<td c>—
+<td>Stærkt befærdede Hovedgader og<br>Færdselscentrer<td r>3,0—5,0<td c>—
+<td>
+<td 3 c><sp>Belysningsgrad i Lux,</sp><br><sp>som almindeligst bør anvendes i</sp>
+<td>almindelige Beboelsesværelser<td r>15—20<td c>Lux
+<td>Maskinfabrikker, Væverier o. l.<td r>20—30<td c>—
+<td>Festsale, Koncertsale<td r>50<td c>—
+</table>
+
+Drejer det sig nu f. Eks. om B. af en Gade,
+maa man erindre, at de forsk. Punkter af Gaden
+som Regel vil faa Lys fra to ell. fl. Lamper.
+Man gaar ud fra en foreløbig valgt Lampetype
+og Afstand og finder paa Planen de Punkter, der
+er længst fjernede fra to Nabolamper, og for
+disse Punkter beregnes, ved Hjælp af
+Belysningskurven, hvilken B. de vil faa med den
+valgte Lampetype og Ophængningshøjde. Man
+maa da sørge for, at Projektet er saadant, at
+disse svagest belyste Punkter ikke faar <sp>under</sp>
+den ovf. anførte mindste tilladelige B. Man
+maa imidlertid ogsaa tage Hensyn til, at der
+ikke indtræder altfor stærk
+<sp>Uregelmæssighed</sp> i Belysningsgraden. Inde i Nærheden
+af selve Lamperne vil der være stærkest belyst;
+ude i de svagest belyste Punkter bør der ikke
+være under 10 Gange saa svagt belyst, hvis
+Uligheden i Belysningsgrad ikke skal mærkes for
+grelt. I Alléer ell. paa Pladser med Træer er
+man ofte, for at undgaa for stærk Ulighed i
+Belysningsgraden, tvunget til at vælge Lamper
+af mindre Lysstyrke og til Gengæld stille dem
+nærmere sammen.
+
+Naar man gaar ud fra, at en valgt
+Lampetype giver saa og saa mange Lys, maa man
+erindre, at det Antal Lys, Lampen fra Fabrikken
+
+<table>
+<td>Tabel 1.
+<td c>a<td c>0<td c>1<td c>2<td c>3<td c>4<td c>5<td c>6<td c>7<td c>8
+<td c>k<td c>2.78<td c>2.67<td c>2.37<td c>2.00<td c>1.60<td c>1.26<td c>0.98<td c>0.77<td c>0.60
+<td c>α<td c>0°<td c>9° 28′<td c>18° 26′<td c>26° 34′<td c>33° 41′<td c>39° 48′<td c>45°<td c>49° 24′<td c>53° 8′
+<td>
+<td c>a<td c>9<td c>10<td c>12<td c>14<td c>16<td c>18<td c>20<td c>25<td c>30
+<td c>k<td c>0.47<td c>0.38<td c>0.25<td c>0.17<td c>0.12<td c>0.09<td c>0.07<td c>0.035<td c>0.02
+<td c>α<td c>56° 18′<td c>59° 2′<td c>63° 26′<td c>66° 48′<td c>69° 26′<td c>71° 34′<td c>73° 18′<td c>76° 29′<td c>78° 41′
+</table>

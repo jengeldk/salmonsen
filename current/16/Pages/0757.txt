@@ -1,0 +1,143 @@
+Skibe med 29000 t. Da M. er et af Jordens
+varmeste Steder og Klimaet meget usundt, er
+Koloniens Regering fra 1900 forlagt til den inde i
+Landet liggende By <sp>Asmara</sp>, hvortil der gaar
+Jernbane fra M. — M. er Grækernes Saba;
+1557 erobredes den af Tyrkerne, og 1866—85
+var den ægyptisk.
+<i>C. A.</i>
+</chapter>
+
+<chapter name="Masse (fys.)">
+<b>Masse,</b> undertiden ogsaa kaldet træg M.,
+i Fysikken en for hvert Legeme karakteristisk
+Konstant, der angiver Størrelsen af Legemets
+Træghed (Inerti).
+
+<sp>Massebegrebet</sp>. At et Legeme har
+Træghed vil sige, at der skal en Kraft til for at
+ændre dets Bevægelse, altsaa ogsaa til at sætte
+det i Bevægelse. Man kan let paavise, at et
+Legeme har Træghed, ogsaa naar det er anbragt
+saaledes, at der ikke virker Gnidningsmodstand
+mod dets Bevægelse. Ophænger man saaledes et
+tungt Legeme, f. Eks. et 10 Kilogramslod, frit i
+en lang Snor, maa man for at give det en
+kendelig Sidehastighed paavirke det med et
+ret kraftigt Slag. Har man ved Siden af det
+tunge Lod hængt et let, f. Eks. et 1/2
+Kilogramslod, vil et Slag af samme Styrke give
+dette en meget større Hastighed. Det tunge
+Lod har altsaa den største Træghed., Af Forsøg
+over Legemernes Bevægelse — først og enklest
+af Galilei's grundlæggende Forsøg over Faldet
+paa Skraaplanet — fremgaar det, at en Krafts
+Virksomhed paa et Legeme bestaar i, at den
+stadig ændrer dets Hastighed, og at
+Hastighedsændringen pr Tidsenhed, den saakaldte
+Acceleration, for et givet Legeme er proportional
+med den virkende Kraft. Man kan derfor med
+Newton sætte Kraften lig med en Konstant
+gange den Acceleration, som den meddeler
+Legemet. Det er denne konstante Faktor, der
+angiver Forholdet mellem Kraften og
+Accelerationen og saaledes er et Maal for Legemets
+Træghed, der kaldes Legemets træge Masse. Vi har
+altsaa Ligningen: Kraft = Masse X
+Acceleration.
+
+Tager man to lige tunge Legemer — d. v. s.
+to Legemer, der kan erstatte hinanden paa en
+Vægtskaal —, ophænger dem i lige lange Snore,
+fører dem lige langt ud til Siden og slipper
+dem, saa finder man, at de to Legemer i deres
+Pendulsvinger følges nøjagtig ad, uanset hvad
+StofLegemerne er dannede af. (Det forudsættes
+at Legemerne er smaa i Forholdt til
+Snorelængden, saa at vi kan betragte
+Ophængningerne som to lige lange matematiske Penduler).
+Da de to Legemer er ens tunge, virker der
+samme Kraft paa dem, da de desuden følges ad,
+har de begge i hvert enkelt Øjeblik ens
+Hastighed og derfor ens Acceleration, følgelig maa
+deres træge Masser være ens. Det fremgaar
+heraf, at naar to Legemer er lige tunge — har
+samme »tunge Masse« — vil de uanset hvad
+Stof de bestaar af, have samme træge M.
+Ophænger man et dobbelt saa tungt Legeme i den
+samme Snorelængde, forbliver Svingningstiden
+uforandret. Paa dette Legeme virker dobbelt
+saa store Kræfter, men det faar samme
+Acceleration som før, følgelig maa dets træge M.
+være dobbelt saa stor. Vi ser altsaa, at der er
+fuldstændig Parallelitet mellem den Kraft,
+hvormed Tyngden paa et bestemt Sted paavirker
+Legemerne og Legemernes træge M. Denne Lov,
+som er ækvivalent med den af Galilei fundne
+Lov, at alle Legemer falder lige hurtigt, er
+nøjagtig prøvet ved Pendulforsøg af Newton
+og Bessel og er i den nyere Tid ved sindrige
+og meget nøjagtige Forsøg af den ung. Fysiker
+Eötvös (1890) bleven bekræftet som en Lov, fra
+hvilken der ikke kan spores nogen Afvigelse.
+Dette er af stor Bet., idet det medfører, at en
+Sammenligning af Legemernes træge Masser,
+som direkte skulde udføres ved
+Bevægelsesforsøg, kan erstattes af en Sammenligning af deres
+tunge Masser ved Hjælp af Vejning, altsaa et
+Ligevægtsforsøg, der kan udføres med meget
+større Nøjagtighed, ja som er næsten den
+Maaling i hele Fysiken, der kan udføres med størst
+Nøjagtighed, idet Fejlen kan gaa ned til en
+Hundredmilliontedel af den maalte Størrelse.
+Denne Nøjagtighed i Massebestemmelsen har
+desuden medført, at man i det fysiske
+Maalesystem har valgt Masseenheden som en primær
+Enhed, der sammen med Enhederne for
+Længde og Tid — ved hvilke jo
+Accelerationsenheden fastlægges — bestemmer Kraftenheden
+som en afledet Enhed, endskønt
+Masse<sp>begrebet</sp> i Overensstemmelse med den ovenanførte
+Udvikling egl. er afledet af Begreberne Kraft
+og Acceleration.
+
+<sp>Masseenheder</sp>. I det absolutte
+Maalesystem, Centimeter-Gram-Sekund-Systemet, er
+Masseenheden 1 g, som er defineret som 1/1000
+af den internationale Prototype for
+Kilogrammet, et Kilogramslod af Platiniridium, der
+opbevares i det internationale Bureau for Maal og
+Vægt i Sèvres. Ved Fastsættelsen af
+Kilogramprototypen var det tilsigtet, at denne skulde
+være lig Massen af een Kubikdecimeter Vand
+ved dettes Vægtfyldemaksimum (c. 4° C.). Dette
+er imidlertid ikke eksakt opnaaet; efter de
+nyeste Undersøgelser fylder 1 kg Vand ved 4
+C. 1,000028 Kubikdecimeter. Af den
+internationale Prototype for Kilogrammet opbevarer de
+Lande, der har tiltraadt den internationale
+Meterkonvention, hver en Kopi, hvis Vægt i
+Forhold til det internationale kg er bleven
+nøjagtig undersøgt i det nævnte Bureau i
+Sèvres. Med de nationtale Kilogramprototyper som
+Grundlag justeres da Kilogrammerne i de
+paagældende Lande. Et Lod, som paa en
+Vægtskaal kan erstatte Kilogramprototypen, idet
+Vejningen reduceres til lufttomt Rum, er et
+kg. Foretages denne Sammenligning igen paa
+et andet Sted af Jorden, er det en
+Erfaringssag, at de to Lodder atter findes nøjagtig ens.
+De to Lodder paavirkes altsaa overalt med ens
+Kraft af Tyngdekraften, naar de begge befinder
+sig paa samme Sted, men selve denne Kraft
+varierer proportionalt med Faldaccelerationen.
+At den forandrede Faldacceleration skyldes en
+Forandring i Tyngdekraften paa Lodderne og
+ikke en Forandring i Masse enhedens Træghed,
+kunde godtgøres ved Maaling af Kraften ved
+et af Stedet uafhængigt Kraftmaal, f. Eks. ved
+en Fjedervægt. Et saadant direkte Forsøg kan
+dog ikke gennemføres med nogen stor
+Nøjagtighed. Derimod har man en meget nøjagtig
+Kontrol i den Erfaring, at Skibskronometres
+Gang er uafhængig af Breddegraden. Uroens

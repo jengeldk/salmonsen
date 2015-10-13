@@ -1,0 +1,150 @@
+begge Stationer, saaledes at ikke alene
+Bevægelseshastigheden, men ogsaa Armenes
+øjeblikkelige Stilling i Forhold til Kontakterne stadig
+er i nøje Overensstemmelse. Opfinderen af dette
+Princip er ubekendt, idet Metoden uden
+Forfatterangivelse er omtalt i Civil Engineer 1855,
+dog uden nærmere Beskrivelse af, hvorledes
+Kontaktarmenes Synkronisme opretholdes. 1858
+udførte Rouvier i Paris Kontaktarmene som
+enssvingende Penduler; større Anvendelse fik
+dog et af Meyer smst. 1872 konstrueret System,
+hvor Armene anbragtes roterende og
+regulerede ved Hjælp af Urværk med elektrisk
+Korrektion. Senere foreslog la Cour at anvende det
+af ham 1875 opfundne Tonehjul som
+synkronisk Drivkraft og udførte 1880 Forsøg hermed
+ved 4-dobbelt Telegrafering paa Ledningen
+mellem Nyborg og Fredericia. 1884 blev Metoden
+forbedret af Delany i New York og vandt en
+Del Udbredelse i Amerika og England. Delany's
+System arbejdede med Morseskrift paa
+sædvanlig Maade uden mærkbare Afbrydelser i
+Ekspeditionen. Senere indrettedes det ogsaa for
+Typetryktelegrafer; i Reglen etableredes 6
+Kredsløb, men ogsaa 12 ell. fl. Kredsløb paa
+samme Ledning var muligt. Ved Meyer's
+Telegraf benyttedes ogsaa Morsetegn (i tillempet
+Form), dog saaledes, at et helt Tegn ad
+Gangen afsendtes og modtoges i Takt paa særlige
+Sende- og Skriveapparater. Den samme
+taktvise Ekspedition benyttes ved et allerede 1874
+af Franskmanden Baudot angivet System, der
+dog betjener sig af et særligt fra Morsealfabetet
+afvigende Tegnsystem, der afgives fra et
+5-tastet Sendeklaviatur og modtages som
+sædvanlig Bogstavtypetryk paa Papirstrimmel.
+Systemet er senere underkastet forsk.
+Forbedringer og benyttes nu i stor Udstrækning, særlig
+i Frankrig. De i den senere Tid fremkomne ny
+Systemer af denne Art arbejder i det
+væsentlige efter det af Baudot angivne Princip, idet
+Maskintelegrafapparater af forsk. Art indrettes
+til Multipleksekspedition, hvorved baade
+Afsendelse og Modtagning foregaar automatisk. Ved
+Murray's (1911) og senere <i>Western Electric Co.</i>'s
+Modifikation af Baudots System er
+Afsenderapparaterne saaledes forsynet med et
+Klaviatur, der ganske ligner det ved alm.
+Skrivemaskiner benyttede. Modtagerapparaterne
+trykker endvidere Telegrammerne paa Blanketter
+ell. Papirruller, der afrives og direkte
+udsendes til Adressaten. Disse Systemer kan
+yderligere indrettes for Dupleksekspedition paa den
+tidligere beskrevne Maade, saaledes at Antallet
+af de dannede Kredsløb fordobles. Mest
+anvendt er Kvadruple-Dupleks (med 8 Kredsløb).
+— Som Multiplekssystemer maa endvidere
+nævnes Metoder til samtidig Telegrafering og
+Telefonering paa samme Ledning. Den opr. af
+Zetzsche i Dresden 1877 angivne og senere af van
+Rysselberghe forbedrede Metode hertil gik ud
+paa at indrette Telefonforbindelse paa
+Telegrafenkeltledninger, idet de telegrafiske
+(Jævnstrøms-) og telefoniske (Vekselstrøms-)
+Kredsløb adskiltes ved Kondensatorer, der kun
+tillader Passage af Strømme af sidstnævnte Art.
+Telefonens voksende Udbredelse og Overgang
+til Benyttelse af Dobbeltledninger medførte
+imidlertid, at Udviklingen senere gik i Retning
+af at udnytte disse til samtidig Telegramtrafik.
+Dette kan udføres saaledes, at hver af
+Dobbeltledningens to Grene benyttes for et telegrafisk
+Kredsløb paa lgn. Maade som angivet af van
+Rysselberghe, idet der foruden
+Adskillelses-Kondensatorer indskydes Selvinduktionsspoler,
+der dels danner stor Modstand for
+Telefonstrømmene og dels »afrunder« Telegrafskriften
+og gør den uhørlig i Telefonen. Endvidere kan
+Telefondobbeltledningens to Grene tilsammen
+danne en enkelt Telegrafforbindelse, hvis
+Strømme fordeler sig ligeligt over de to
+Liniehalvdele og saaledes ikke paavirker
+Telefonekspeditionen. I sidste Tilfælde indskydes
+Tetegrafkredsløbet paa Midten af en mellem de to
+Ledninger shuntet Broforbindelse (Differentialrulle),
+hvis Modstand (og Selvinduktion) er saa
+stor, at Telefonstrømmene ikke kendeligt
+passerer denne. (I St f. Differentialrulle kan ogsaa
+indskydes en Transformator, og Telegrafkredsløbet
+indføres da paa Midten af dennes ene Bevikling).
+Begge Metoder benyttes meget ved de her
+i Landet etablerede Telefonforbindelser paa
+længere Afstande, idet den for Trafikken
+nødvendige Korrespondance mellem
+Ekspedienterne afvikles telegrafisk samtidig med, at
+Samtalen mellem Abonnenterne finder Sted. —
+<sp>Multiplekstelefoni</sp>, se <sp>Telefon</sp>.
+(<sp>Litt</sp>.: <sp>H. Schellen</sp>, »Der
+elektromagnetische Telegraph« [Braunschweig 1888]; <sp>K. E.
+Zetzsche</sp>, »Handbuch der electrischen
+Telegraphie« [Halle 1891]; Telegrafdirektoratet:
+»Vejledning i Telegraf- og Telefonteknik«
+[Kbhvn 1909]; <sp>T. E. Herbert</sp>, <i>Telegraphy</i>
+[London 1916]; <sp>E. Montoriol</sp>, <i>La technique
+télégraphique en France</i> [Paris 1916]; <i>Journal
+of the american institute of electrical engineers</i>,
+1921).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="multiplicere (se Multiplikation)">
+<b>multiplicere</b>, se <sp>Multiplikation</sp>.
+</chapter>
+
+<chapter name="Multiplikand (se Multiplikation)">
+<b>Multiplikand</b>, se <sp>Multiplikation</sp>.
+</chapter>
+
+<chapter name="Multiplikation">
+<b>Multiplikation</b> (lat.) (mat.), en af Aritmetikkens
+Regningsarter (en af de fire »Species«).
+Den gaar i første Linie ud paa ved Hjælp af
+Tabeller uden Opsummering at finde Summen
+af et Antal lige store Addender. Kaldes hver af
+disse <i>a</i> og deres Antal <i>n</i>, skrives Resultatet,
+<sp>Produktet</sp>, <i>n · a</i>, <i>n × a</i> ell. <i>na</i>, der læses
+»<i>n Gange a</i>«. <i>a</i> kaldes Multiplikanden<sp>,</sp> <i>n</i>
+Multiplikator, <i>a</i> og <i>n</i> under eet
+<sp>Faktorerne</sp>. Operationen kaldes at multiplicere
+<i>a</i> med <i>n</i>. Kun naar <i>a</i> og <i>n</i> er 1- ell. 2-cifrede
+Tal, giver Multiplikationstabellerne direkte
+Resultatet; ellers gaas frem som i flg. Eksempler:
+5 .·361 = 5 · 300 + 5 · 60 + 5 · 1 = 1500 + 300
++ 5 = 1805, 639 · 428 = 9 · 428 + 30 · 428 +
+600 · 428 = 3852 + 12840 + 256800 = 273492.
+I Praksis bruges flg. Opstilling:
+<table>
+<td r>428
+<td r>639
+<td>
+<td r>3852
+<td c>1284
+<td l>2568
+<td>
+<td l>273492
+</table>
+
+Efter den her givne Forklaring paa M. kan
+Multiptlikanden være et hvilket som helst
+benævnt ell. ubenævnt Tal, medens Multiplikator

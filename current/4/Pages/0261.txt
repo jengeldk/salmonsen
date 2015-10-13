@@ -1,0 +1,15 @@
+<chapter name="Bukarest (Bykort)">
+<img>Bukarest</img>
+(BUCURESCI)
+1 Börs
+2 Eforiei-Bad
+3 Finansministerium
+4 Lazar-Lyceum
+5 Ministerium for offentl. Arbejder
+6 Sparekasse
+7 Politicentral
+8 Statstrykkeri
+9 Centralbad
+10 Stavropoleos Kirke
+11 Curtea Veche Kirke
+</chapter>

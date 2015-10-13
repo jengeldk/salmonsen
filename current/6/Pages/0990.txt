@@ -1,0 +1,15 @@
+<h1>RETTELSER OG TRYKFEJL.</h1>
+
+<table>
+<td 7 c><b><sp>BIND III.</sp></b>
+<td>Side<td r>380,<td>Spalte<td r>1,<td>Linie<td>15 f. n.<td><i>Psyllium</i> læs: <i>Phyllium</i>
+<td c>-<td r>420,<td c>-<td r>1,<td c>-<td r>24 f. o.<td>Jan. læs: Febr
+<td c>-<td r>912,<td c>-<td r>1,<td c>-<td r>19 f. o.<td><sp>Elmfibal</sp> læs: <sp>Amfibolgruppen</sp>.
+<td 7 c><b><sp>BIND V.</sp></b>
+<td>Side<td r>411,<td>Spalte<td r>2,<td>Linie<td r>4 f. n.<td>bestemt læs: bekvemt
+<td c>-<td r>621,<td c>-<td r>1,<td c>-<td r>27 f. o.<td>2. Aug. 1907 læs: 12. Juni 1908
+<td 7 c><b><sp>BIND VI.</sp></b>
+<td>Side<td r>131,<td>Spalte<td r>1,<td>Linie<td>29 f. n.<td><i>ortografie</i> læs: <i>ortographie</i>
+<td c>-<td r>433,<td c>-<td r>1,<td c>-<td r>24 f. n.<td><sp>Neuropternes</sp> læs: <sp>Neuropterernes</sp>
+<td c>-<td r>818,<td c>-<td r>1,<td c>-<td 2>Ekroll, M. H. † 15. Maj 1916
+</table>

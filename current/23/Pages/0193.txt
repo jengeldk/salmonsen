@@ -1,0 +1,129 @@
+af den eng. Armé i Indien); Rækkevidden kan
+under gunstige Forhold naa indtil 150 à 200
+km. I St f. Sollys kan ogsaa en kunstig
+Lyskilde benyttes, hvorved Telegraferingsafstanden
+dog nedsættes i væsentlig Grad. Saadanne
+Blinksignaler med Lanterner ell. elektriske
+Projektører benyttes endnu i Militær- og
+Søvæsen sammen med andre Former for optisk
+Signalering (se <sp>Spektrotelegraf</sp> og
+<sp>Telefotos</sp>).
+
+Bet. som almennyttigt Meddelelsesmiddel har
+T. dog først faaet gennem Anvendelsen af
+Elektricitetens Evne til øjeblikkelig Forplantning
+gennem lange Metalledninger. De tidligste
+Forslag til <sp>elektrisk</sp> T. i Slutn. af 18. Aarh.
+førte ikke til brugbare Resultater, da man paa
+dette Tidspunkt kun kendte
+Gnidningselektriciteten, hvis
+Anvendelse til Tegngivning
+ved Gnistudladninger
+(Bozolus 1767) eller
+Tiltrækningsfænomener (Lesage 1774 o. a.)
+var usikker. Efter Opdagelsen
+af Galvanismen (Galvani 1789
+og Volta 1799) fik man en
+tilstrækkelig bekvem og
+paalidelig Strømkilde, der 1809
+blev anvendt ved den af Sömmering i
+München konstruerede <sp>elektrokemiske</sp> T.
+Som Tegngivning benyttede denne Strømmens
+Evne til Adskillelse af Vand i Ilt og Brint
+(Elektrolyse). Apparatet krævede henved 30
+Ledningstraade (svarende til Alfabetets
+Bogstaver og Taltegn) mellem de korresponderende
+Stationer, hvorfor Udførelse i større Stil var
+udelukket. Fig. 2 viser Indretningen af
+Sömmering's T. Det galvaniske Batteri
+(Voltasøjle) forbindes efterhaanden med de forsk. til
+Bogstaverne i Telegrammet svarende
+Ledningstraade, der paa Modtagerstationen er ført op
+gennem Bunden af det vandfyldte Glaskar <i>E</i>.
+Brintudviklingen ved den med den negative
+Batteripol forbundne Ledningstraad synliggør
+Tegnene. Fig. viser tillige den af Sömmering
+angivne Vækkeindretning <i>W</i>, der udløses ved
+Vægtstangen <i>d</i>'s Bevægelse p. Gr. a. Opdriften
+fra den udviklede Luft. Selv om senere
+Opfindere reducerede Ledningsantallet og
+simplificerede Opstillingen, har den elektrokemiske T.
+ingen varig Bet. faaet. Kun paa et ganske
+specielt Omraade inden for Telegrafien har
+elektrolytiske Virkninger en Tid været eneste
+Middel, nemlig ved de saakaldte
+<sp>Kopieringstelegrafer</sp> til Gengivelse af Haandskrift
+ell. Tegninger. Ogsaa paa dette Felt er nyere
+Metoder traadt i Stedet (se
+<sp>Billedtelegrafering</sp>).
+
+Med H. C. Ørsted's Paavisning (1820) af den
+elektriske Strøms Indvirkning paa
+Magnetnaalen aabnedes ny Muligheder for
+Elektricitetens Anvendelse. Den videre Udvikling af denne
+paa mangfoldige Omraader betydningsfulde
+Opdagelse blev ogsaa af afgørende Betydning for
+Telegrafien, der i Nutiden praktisk talt
+udelukkende er baseret herpaa. I den
+<sp>elektromagnetiske</sp> T. udnyttes de magnetiske
+Kræfter, der opstaar omkr. en Strømleder, til
+paa forsk. Vis at frembringe Bevægelser i
+Modtagerapparatets Dele. Ved de første T. af
+denne Art anvendtes direkte den af Ørsted
+opdagede Svingning af Magnetnaalen til
+Synliggørelse af Tegnene (se
+<sp>Naaletelegrafer</sp>). Senere benyttedes Elektromagneter, der
+paavirkede bevægelige Jernstykker (»Ankre«),
+ell. en Del af selve Strømlederen anbragtes
+bevægeligt i Nærheden af (permanente)
+Staalmagneter. I det forløbne Aarh. siden
+Elektromagnetismens Opdagelse er fremkommet en
+overordentlig Mængde forsk. Konstruktioner fra
+simple, langsomt virkende Apparater med
+manuel Betjening til Nutidens automatiske
+Telegrafsystemer med stor Sendehastighed (se
+<sp>Telegrafapparater</sp>). Samtidig er det
+tidligere paakrævede større Antal Ledninger
+for en enkelt Telegrafforbindelse reduceret til
+een Ledningstraad, der tilmed kan benyttes til
+fl. samtidige Kredsløb. Til sidstnævnte Formaal
+har Metoderne fra den saakaldte Dupleks- og
+Diplekstelegrafering med to (henh.
+modsatrettede og ensrettede) Forbindelser paa samme
+Ledning udviklet sig til Systemer med et større
+Antal samtidige Kredsløb, hvorved
+Telegrambefordringen paa en enkelt Ledningsforbindelse
+mangedobles (se <sp>Multiplekstelegrafi</sp>).
+Fælles for alle Systemer gælder, at der ved
+Telegraferingen foretages en til Tegnene
+svarende Forandring af Ledningens (d. v. s.
+Modtagerapparatets) Strømtilstand, hvilket kan
+udføres dels ved at forandre Strømstyrken og
+dels ved at ændre Strømretningen. Den
+førstnævnte saakaldte <sp>Enkeltstrømsmetode</sp>
+benyttes i Reglen, naar Sendehastigheden og
+Ledningslængden ikke er for stor. Man skelner
+her mellem <sp>Arbejdsstrømsmetoden</sp>,
+hvor Tegngivningen sker ved Udsendelse af
+Strømimpulser i den ellers strømløse Ledning,
+og <sp>Hvilestrømsmetoden</sp>, hvor
+Ledningen normalt er strømførende, medens
+Tegnene dannes ved Afbrydelse af Kredsløbet. Ved
+Arbejdsstrømsmetoden bruges ingen Strøm,
+naar der ikke telegraferes, hvorimod
+Hvilestrømskredsløb til Stadighed staar sluttede. Det
+større Elektricitetsforbrug i sidstnævnte
+Tilfælde opvejes til Gengæld af den Fordel, som
+Metoden frembyder, saafremt flere Stationer er
+fælles om Ledningen, idet man da kan nøjes
+med et enkelt Batteri (ell. flere mindre Batterier),
+hvis Spænding indrettes efter den samlede
+Ledningsmodstand og let kan afbrydes af en
+vilkaarlig Station. Ved Arbejdsstrømsmetoden maa
+derimod hver Mellemstation paa Ledningen
+forsynes med et Batteri, der er tilstrækkelig
+kraftigt til at udsende den nødvendige Strøm
+til den længst borte liggende Station.
+Hvilestrømsmetoden har som Følge heraf særlig
+
+<img>Fig. 2. Sömmerings elektrokemiske Telegraf (1809).</img>

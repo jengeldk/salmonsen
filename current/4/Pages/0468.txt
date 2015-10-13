@@ -1,0 +1,149 @@
+befinder sig paa forsk. Stadier af deres
+Omløbsbane; naar <i>a</i> har udført en hel Omdrejning i
+den af Pilen angivne Retning, har <i>b</i> kun
+gennemløbet 7/8, <i>c</i> kun 6/8 Omløb o. s. v., og <i>z</i>, der
+befinder sig i en Bølgelængde fra <i>a</i>, skal netop
+til at begynde paa en ny Omdrejning. Forbinder
+man alle Vandpartiklerne med en Kurve, faar
+man en Bølgeprofil bestaaende af en langstrakt
+Dal <i>a c e</i> og en noget kortere Top <i>e g i</i>.
+Afstanden fra Top til Top kaldes <sp>Bølgelængden</sp>
+<i>L</i> (undertiden ogsaa <sp>Bølgebredden</sp>),
+lodret Afstand fra Top til Dal kaldes
+<sp>Bølgehøjden</sp> <i>H</i>, Hastigheden af Bølgeprofilen i Forhold
+til en faststaaende Iagttager kaldes
+<sp>Bølgehastigheden</sp> <i>V</i>. Tiden mellem to
+konsekutive Toppes Passage forbi Iagttageren
+kaldes <sp>Perioden</sp> <i>T</i>. Ved at betragte en
+Genstand, der flyder paa Vandet, kan man se,
+hvorledes det kun er Formen for Bevægelsen,
+Bølgeprofilen, der løber hen over Vandfladen, idet
+Genstanden, som følger Vanddelenes Bevægelse,
+bliver liggende paa samme Sted og kun
+bevæger sig i en lukket Bane omkr. et fast Punkt.
+Ligger Genstanden paa Bølgetoppen, har den en
+Bevægelse fremad i Bølgens
+Forplantningeretning, derpaa synker den, idet Bølgetoppen
+forlader den; i Bølgedalen gaar den tilbage, og paa
+Forsiden af en ny Bølgetop løftes den. For hver
+Bølge, der passerer den, kommer den saaledes
+til at beskrive en lodret Kreds, der paa dybt
+Vand omtr. vil være en Cirkel og paa lægt Vand
+en Ellipse. De alm. Bølger, som optræder under
+en Storm paa de store Have, har en Længde
+af 90—100 m og en Højde paa 3—4 m. Der er
+dog observeret langt større Bølger; Kaptajn
+Mottez har saaledes i det nordlige Atlanterhav
+observeret en Bølgelængde paa 830 m med en
+Periode paa 23 Sekunder og Dr. Scoresby har
+observeret Bølger paa indtil 14 m Højde. Man
+er meget tilbøjelig til at overvurdere Bølgernes
+Højde; paa en Rejse S. om Kap det gode Haab,
+som blev foretaget af Prof. Laas 1906 for
+nøjagtigt at maale og fotografere Bølger, var den
+største Bølgehøjde, der maaltes i haardt Vejr,
+kun 6 m. Hastigheden af Bølgeprofilen kan paa
+Grundlag af Observationer i Middel sættes til
+<i>V</i> = 1,25 √<i>L</i>, hvor <i>V</i> = Hastigheden i m pr.
+Sek. og <i>L</i> = Bølgelængden i m; den største
+Hastighed, man har observeret, er 24 m pr
+Sek. (c. 45 Knob).
+
+Der er opstillet fl. Teorier for
+Dybvandsbølger, hvoraf den saakaldte <sp>trochoidale
+Bølgeteori</sp> er den mest bekendte, idet den
+giver Resultater, som paa det nærmeste passer
+med de anstillede Observationer. Hovedtrækkene
+i denne Teori er, at man antager, at
+Bølgeprofilen er en Trochoide, og at alle Vanddelene
+i samme vandrette Plan beskriver cirkelformede
+Baner med lige store Radier. Derimod antager
+man, at Radierne for Vandpartiklernes Baner
+aftager efter en bestemt Lov, naar man bevæger
+sig fra Overfladen lodret nedefter mod Bunden,
+hvor de antages at være Nul. Hele Vandmassen
+fra Overfladen til Bunden kan derved tænkes
+værende i Bølgebevægelse med Bølgetoppe og
+Dale i de samme lodrette Planer, altsaa med
+samme Bølgelængde, men med Bølgehøjder, der
+aftager nedefter og er Nul ved Bunden. (<sp>Litt.</sp>:
+<sp>C. Hansen</sp>, »Skibsbygning« [1909]; <sp>Johow</sp>,
+»Hilfsbuch f. d. Schiffbau« [1910]).
+<i>H. P. C.</i>
+</chapter>
+
+<chapter name="Bølgeblik">
+<b>Bølgeblik</b> er Blik, der er valset ell. presset
+i en Række ens og parallelle Bølger, hvorved
+Stivheden og Bæreevnen forøges. Tyndt B. (c.
+1 mm) af Zink ell. forzinket blødt Staal bruges
+til Kar og til Beklædning af Tag og Sider paa
+Pakhuse o. a. ikke til Beboelse bestemte
+Bygninger. Sværere B. af blødt Staal bruges til
+buede Tage, idet det erstatter baade den
+bærende Konstruktion og Tagdækket, og hele Taget
+da bestaar af buede Plader af B., hvis Ender
+holdes sammen ved en Trækstang frit over hele
+Bygningen. I Dampkedler er nu svejsede
+Ildkanaler af B. alm. De benævnes ofte efter
+Opfinderen <sp>Fox</sp>. Ved Temperaturforandringer vil
+den i de enkelte Bølger frembragte lille
+Bevægelse medføre, at Kedelstenen let springer af,
+ligesom ogsaa Bundene strabadseres mindre ved
+Temperaturforandringer, end naar Kanalen er
+glat; begge Omstændigheder er gunstige for
+Kedlens Holdbarhed.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Bølgebryder">
+<b>Bølgebryder</b> kaldes en Dæmning, hvis
+Bestemmelse er at yde Dækning ell. supplere den
+naturlige Dækning for en Red ell. en Havn. B.
+bygges i alt væsentlig paa samme Maade som
+en Havnemole (s. d.), dog under Hensyn til
+dens mere specielle og begrænsede Opgave, idet
+den adskiller sig fra en Mole derved, at den i
+Alm. er uden Forbindelse med Land og i
+Reglen ikke benyttes til Anlæg for Skibe, ligesom
+Færdsel ad B. ikke behøver at foregaa under
+alle Forhold. Da B.'s hovedsagelige
+Bestemmelse er at dæmpe Bølgernes og Strømmens
+Virkninger, er det ikke nødvendigt, at den
+gøres saa høj, at Bølgerne ikke undtagelsesvis
+kan slaa over. Man har saaledes enkelte Steder
+endogsaa bygget »submarine« B., der kun naar
+op til lidt over Lavvande ell. endnu lavere.
+Saadanne B. virker ved Højvande nærmest som
+undersøiske Rev, paa hvilke Bølgerne bryder.
+Af Hensyn til Sejladsen maa Enden ell. Enderne
+af B. tydeligt vises, og dette opnaas ved Hjælp
+af Hoveder. Disse maa, for at være synlige
+under alle Forhold, føres op til en passende Højde
+over højeste Vandstand, forsynes med Fyr og
+undertiden med Fortøjningsredskaber samt — i
+Modsætning til selve B., der godt kan have flade
+Skraaninger — forsynes med lodrette Sider, saa
+at Skibene kan passere tæt forbi og Baade
+lægge til og fortøje. Endnu skal nævnes, at man
+har forsøgt at anvende svømmende B., dannede
+af store Jerncylindre ell. svære Træbomme, der
+holdes i Stilling ved Hjælp af Ankre ell. fortøjes
+paa anden Maade. De indhøstede Erfaringer har
+imidlertid ikke været videre gunstige.
+<i>J. M.-P.</i>
+</chapter>
+
+<chapter name="Bølgedæmpning">
+<b>Bølgedæmpning.</b> Allerede i Oldtiden var det
+bekendt, at Havets Bølger kunde dæmpes, ved
+at man hældte Olie paa Vandoverfladen;
+Aristoteles omtaler saaledes denne Egenskab ved
+Olien. Dykkerne paa Middelhavets Kyster, som
+søger efter Koraller og Svampe, har allerede
+langt tilbage i Tiden brugt at hælde lidt
+Olivenolie paa Havoverfladen i det Øjeblik, de skulde
+dykke, for bedre at kunne se Havbunden.
+Franklin har 1772 ved Forsøg beskæftiget sig
+indgaaende med Spørgsmaalet. 1881 anstillede
+Schilds Forsøg med B. i Havnen Peterhead paa

@@ -1,0 +1,133 @@
+0A, 0<sub>1</sub>, 0<sub>2</sub> . . . . 0<sub><i>n</i></sub> og 0<i>B</i> med Theodolit
+og Linierne, <sp>Polygonsiderne</sp> <i>A</i>—1, 1—2,
+. . . . <i>n</i>—<i>B</i> med Kæde eller Staalbaand, og
+man kan derefter beregne Polygonpunkternes
+Koordinater i det nævnte Koordinatsystem.
+Linien <i>A</i>, 1, 2 . . . <i>n</i>, <i>B</i> kaldes en brudt
+<sp>Linie</sp>, og idet der mellem to og to af
+Triangulationsnettets Fikspunkter føres saadanne
+brudte Linier, oversaas det Terrain, som skal
+maales, med Polygonpunkter med en indbyrdes
+Afstand, der sjælden overstiger nogle faa
+Hundrede m.
+
+<sp>Linietriangulation</sp>. Mellem de
+enkelte Polygonpunkter ell. Polygonsider føres
+atter <sp>Maalelinier</sp>, hvis Beliggenhed
+bestemmes ved Længdemaal alene, og disse
+Maalelinier maa ligge saa tæt, at man fra
+Polygonsiderne og Maalelinierne kan bestemme alle
+Terrainpunkterne. Ved Maaleliniernes
+Tilknytning til Polygonnettet maa der tages saa mange
+Maal, at man ved Beregning af
+<sp>Linienetpunkterne</sp>, ɔ: Skæringspunkterne mellem
+Maalelinier ell. Polygonsider og Maalelinier, ell.
+ved Konstruktionen af Maalelinierne faar fuld
+Sikkerhed for, at der ikke er begaaet grove
+Fejl, idet den alm. Regel her, som overalt i
+L., maa overholdes, at alle Hovedpunkter maa
+bestemmes med Kontrol.
+
+Ved <sp>Detailmaalingen</sp> bestemmes
+Terrainpunkterne; der bliver aldrig Tale om
+Terrainlinier, idet man ved krumme Skellinier,
+Søbredder o. s. v. bestemmer saa mange
+Punkter i disse, at de rette Linier mellem disse kan
+betragtes som faldende sammen med
+Skellinierne.
+
+De enkelte Terrainpunkter bestemmes i
+Reglen fra en Maalelinie ell. Polygonside, idet man
+med en Kæde ell. et Staalmaalebaand maaler
+langs Linien; hver Gang man er ud for et
+Terrainpunkt, bestemmes Fodpunktet for en
+Perpendikular fra dette ved Hjælp af et
+Vinkelspejl (s. d.); Fodpunktets Beliggenhed i Linien
+og Perpendikulærens Længde bestemmes og
+noteres i Maalebogen. Terrainpunkterne kan
+dog efter Omstændighederne ogsaa bestemmes
+paa andre Maader. Ligeledes kan man paa
+Opmaalinger lavere Trin benytte helt andre
+Maalemetoder, f. Eks. Bordmaaling (se
+<sp>Maalebord</sp>) og Tachymetri (se <sp>Tachymeter</sp>).
+
+Ved mindre omfattende Maalinger, som ikke
+knytter sig til forud bestemte Fikspunkter, kan
+man knytte Opmaalingen til en lokal
+Triangulation, en lukket Polygon, ɔ: en brudt Linie, som
+føres tilbage til sit Udgangspunkt (heraf Navnet
+»Polygonmaaling«), ell. til et Linienet, i hvilket
+der kun maales Længder, men hvor Linierne
+danner Trekanter, som kan konstrueres (heraf
+Navnet »Linietriangulation«), medens
+Maalingens Rigtighed kontrolleres ved andre
+Maalelinier.
+
+Foran er omtalt 3 Arter af Opmaaling, den
+<sp>geodætiske Opmaaling</sp> (se <sp>Geodæsi</sp>),
+den <sp>topografiske</sp> (denne udføres her i
+Landet af
+Generalstabens
+topografiske
+Afdeling, der
+fremstiller
+topografiske
+Kort, se
+<sp>Generalstabskort</sp>) og den <sp>økonomiske</sp> Opmaaling;
+af de mange forskellige økonomiske
+Opmaalinger skal her særlig nævnes
+Matrikulsmaalingerne, ved hvilke der fremstilles
+Matrikulskort. Medens Formaalet med at
+tilvejebringe disse Kort tidligere var at bestemme de
+enkelte Ejendommes Arealer samt Arealerne af
+de enkelte Takststykker, hvori disse var delte,
+vil man i Fremtiden utvivlsomt stille Krav om,
+at Matrikulskortene skal være
+<sp>Ejendomskort</sp>, idet man forud for Opmaalingerne paa
+en ell. anden Maade lovformeligt fastslaar
+Skellenes Beliggenhed, hvorefter de indmaales paa
+en saadan Maade, at de, dersom de skulde
+forsvinde, kan retableres i Forhold til de bevarede
+Triangulations- og Polygonpunkter m. fl. ved
+Hjælp af de i Maalebøgerne anførte Tal. Det
+staar da ogsaa i Forbindelse hermed, at medens
+man tidligere maalte de enkelte Byer lokalt,
+ɔ: uden Tilknytning til Landstriangulationen,
+vil man i Fremtiden altid kræve en saadan
+Tilknytning.
+
+1768 begyndte man paa de Vordingborg'ske
+og Antvorskov'ske Rytterdistrikter at maale
+Matrikulskort; men Arbejdet standsedes igen
+1772. Først 1806 tog man atter fat paa Arbejdet,
+og i Løbet af en Snes Aar blev der tilvejebragt
+en fuldstændig Samling af Matrikulskort over
+alle Landets Jorder. Det er dog kun faa af disse
+Kort, der blev tegnede i 1/4000, der er
+Resultatet af en fuldstændig ny Opmaaling. Over de
+fleste af Landets Jorder fandtes Kort fra de i
+Slutn af 18. Aarh. udførte <sp>Udskiftninger</sp>
+(s. d.), og disse Udskiftningskort blev da
+prøvede og eventuelt rettede. Disse Kort, der endnu
+er gældende som Matrikulskort, er vistnok alle
+maalte med Maalebord. — Over Landets
+Købstæder blev der i Henhold til Lov om den
+kommunale Beskatning i Købstæderne uden for
+Kbhvn af 11. Febr 1863 i de nærmest
+efterfølgende Aar maalt Kort i 1/800. Endelig er der
+i Slutn. af forrige og i den første halve Snes
+Aar af dette Aarh. foretaget en Del
+Opmaalinger til Fornyelse af Matrikulskortene, idet der
+er udarbejdet ny Kort i Reglen i 1/800 over
+større, tætbyggede Landsbyer, Stationsbyer,
+Fiskerlejer o. l., og senere er der foretaget en
+Række mere omfattende Nymaalinger, der
+nærmest har haft Karakteren af Forsøgsmaalinger,
+idet man gennem dem har søgt at finde den
+bedste Form for Fremtidens ny
+Matrikulsmaalinger.
+
+I de senere Aar er der udført en
+fuldstændig og moderne Opmaaling af Kbhvn, som
+
+<img></img>

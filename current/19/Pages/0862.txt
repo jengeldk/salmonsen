@@ -1,0 +1,133 @@
+<table>
+<td>Nr.<td c>Navn<td>Symbol<td>Atomvægt<td>Atommasse<footnote>Betegnelsen Atommasse bruges om Massen af
+hver enkelt Isotops Atomer, medens Atomvægt har
+den hidtidige Betydning for hele Plejaden under eet,
+uden Hensyn til at den bestaar af en Blanding af
+Isotoper. For de radioaktive Plejader vil man finde en
+Atomvægt meget nær lig Atommassen for den
+længstlevende Isotop i Plejaden, da man ved Fremstilling
+vil faa mest af dette Stof.</footnote>
+<td v4>81<td>Thallium<td>TI<td c>204,4<td c>
+<td>Actinium C"<td>AcC"<td><td c>—
+<td>Thorium C"<td>ThC"<td><td c>208
+<td>Radium C"<td>RaC"<td><td c>210
+<td v11>82<td>Bly<td>Pb<td c>207,2<td c>
+<td>Radium Ω'<td>RaΩ'<td><td c>206
+<td>Actinium Ω'<td>AcΩ'<td><td c>—
+<td>Actinium Ω"<td>AcΩ"<td><td c>—
+<td>Thorium Ω'<td>ThΩ'<td><td c>208
+<td>Thorium Ω"<td>ThΩ"<td><td c>208
+<td>Radium Ω"?<td>RaΩ"<td><td c>210
+<td>Radium D<td>RaD<td><td c>210
+<td>Actinium B<td>AcB<td><td c>—
+<td>Thorium B<td>ThB<td><td c>212
+<td>Radium B<td>RaB<td><td c>214
+<td v5>83<td>Vismut<td>Bi<td c>209,0<td c>
+<td>Radium E<td>RaE<td><td c>210
+<td>Actinium C<td>AcC<td><td c>—
+<td>Thorium C<td>ThC<td><td c>212
+<td>Radium C<td>RaC<td><td c>214
+<td v7>84<td>Polonium(Radium F)<td>Po(RaF)<td c>210<td c>
+<td>Actinium C'<td>AcC'<td><td c>—
+<td>Thorium C'<td>ThC'<td><td c>212
+<td>Radium C'<td>RaC'<td><td c>214
+<td>Actinium A<td>AcA<td><td c>—
+<td>Thorium A<td>ThA<td><td c>216
+<td>Radium A<td>RaA<td><td c>218
+<td>85<td c>—
+<td v3>86<td>Radium Emanation (Radon)<footnote>Betegnelserne Radon o. s. v. er nylig foreslaaede
+af den internationale Atomvægtskommission.
+Tidligere havde <sp>Ramsay</sp> foreslaaet Navnet <sp>Niton</sp>
+Som Fællesbetegnelse for de 3 Emanationer, altsaa
+som Navn for Grundstoffet eller Plejaden Nr. 86, men
+dette Navn er igen opgivet.</footnote><td>Rn<td c>222<td c>
+<td>Actinium Eman. (Actinon)<td>An<td><td c>—
+<td>Thorium Eman. (Thoron)<td>Tn<td><td c>220
+<td>87<td c> —
+<td v4>88<td>Radium<td>Ra<td c>226,0<td c>
+<td>Actinium X<td>AcX<td><td c>—
+<td>Thorium X<td>ThX<td><td c>224
+<td>Mesothorium 1<td>MsTh<sub>1</sub><td><td c>228
+<td v2>89<td>Actinium<td>Ac<td c>—<td c>
+<td>Mesothorium 2<td>MsTh<sub>2</sub><td><td c>228
+<td v6>90<td>Thorium<td>Th<td c>232,1<td c>
+<td>Radioactinium<td>RaAc<td><td c>—
+<td>Radiothorium<td>RaTh<td><td c>228
+<td>Ionium<td>Io<td><td c>230
+<td>Uran Y<td>UY<td><td c>—
+<td>Uran X<sub>1</sub><td>UX<sub>1</sub><td><td c>234
+<td v2>91<td>Protactinium<td>Pa<td c>—<td c>
+<td>Uran X<sub>2</sub><td>UX<sub>2</sub><td><td c>234
+<td v2>92<td>Uran (Uran I)<td>UI<td c>238,2<td c>
+<td>Uran II<td>UII<td><td c>234
+</table>
+
+være af radioaktiv Oprindelse, altsaa maa
+være rent RaΩ, Atomvægten 206,05, stemmende
+nøje med den foran beregnede Værdi. Paa
+samme Maade har man for Blyet fra næsten
+rent Thoriummineral (uranfrit Thorianit) faaet
+Atomvægten 207,9, medens rent ThΩ skulde
+have Atomvægten 208,1, Alm. Uranmineralers Bly,
+der kun for en Del er RaΩ, giver Atomvægte
+mellem 206 og 207.
+
+Udviklingen af Læren om de radioaktive
+Stoffer har saaledes fuldstændig ændret
+Kemiens Grundlag. Ikke alene omdannes ved de
+radioaktive Processer Atomerne af et Stof til
+Atomer af et andet Stof, men ogsaa den
+hidtidige Antagelse, at alle Atomer af samme
+(kem.) Stof var identiske, maa falde. Forholdet
+forstaas imidlertid ud fra Rutherford's
+ovenfor omtalte Atommodel, hvorefter et Atom
+bestaar af en overordentlig lille positivt ladet
+Kerne, der indeholder næsten hele Atomets
+Masse, og derudenom et Antal negative
+Elektroner, saa mange, at hele Atomet bliver
+neutralt. Antallet af positive Elementarladninger
+paa Kernen og altsaa tillige af negative
+Elektroner uden om er lig Grundstoffets Nummer i
+det periodiske System, altsaa 1 for Brint, 2
+for Helium o. s. v., indtil 92 for Uran.
+Forskydningslovene forstaas nu umiddelbart. Da α-
+og β-Partiklerne maa antages at komme fra
+de radioaktive Atomers Kerner, betyder
+Udsendelsen af en α-Partikel med 2 positive
+Elementarladninger, at Kernens Ladning bliver 2
+mindre end før; for at Atomet kan vedblive at
+være neutralt, afgiver det da ogsaa 2 af de
+ydre Elektroner, hvorefter dets Atomnummer
+og Plads i det periodiske System er blevet 2
+lavere. Udsendelsen af en β-Partikel fra
+Kernen er ensbetydende med, at dens positive
+Ladning forøges med et Elementarkvantum;
+Atomet indfanger da en negativ Elektron mere
+til at kredse om Kernen, hvorved dets
+Atomnummer bliver 1 højere. Det forstaas heraf,
+at Udsendelsen af en β-Partikel ikke
+forandrer Atomets samlede Vægt. Isotope Stoffer er
+Stoffer med samme Kerneladning og samme
+Elektronantal og dermed med alle de
+Egenskaber fælles, som betinges deraf, d. v. s. alle
+kem. og alle alm. fys. Egenskaber. Derimod
+har de isotope Stoffer Kerner med forskellig
+Vægt og Bygning og er derfor forskellige i de
+Egenskaber, som betinges af Kernen, nemlig
+netop i Vægt og eventuelt i radioaktive
+Egenskaber.
+
+Efter Opdagelsen af Isotopien bl. de
+radioaktive Stoffer er det i de sidste Aar lykkedes
+<sp>Aston</sp> ved Undersøgelse af positive Straaler
+at paavise, at ogsaa mange andre Grundstoffer
+i Virkeligheden er Blandinger af Isotoper, er
+komplekse, saa at den Atomvægt, man finder,
+er en Art Middeltal af de forsk. Isotopers
+Atommasser. Aston's Undersøgelser er omtalt
+under <sp>Kanalstraaler</sp>, men det opsattes
+at bringe hans Resultater til nærværende
+Artikel for at kunne bringe nyere og mere
+omfattende Resultater. For flg. Stoffer synes det
+at være sikkert fastslaaet, at de ikke er
+Blandinger af forskellige Isotoper, men er simple

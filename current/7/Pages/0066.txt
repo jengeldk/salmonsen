@@ -1,0 +1,161 @@
+Videre viste nu Kohlrausch, at Λ∞ er en
+additiv Egenskab, altid kan skrives som en Sum
+af 2 Led, et hidrørende fra Anionen og et fra
+Kationen, og hvert af disse Led er uafhængigt
+af den anden Ions Art, saa at man kun behøver
+at finde »Ledningsevnerne« for de forsk. Ioner,
+ikke for de forsk. Elektrolyter, hvilket
+naturligvis bet. en uhyre Simplifikation. De fleste alm.
+Ioner har nogenlunde samme Bevægelighed, kun
+H- og OH-Ionerne gaar meget hurtigere end de
+andre, hvorved de stærkt dissocierede Syrers
+og Basers særlig store Ledningsevne forklares.
+Det er nu let at beregne Ionernes virkelige
+Hastighed. Vi tænker os 2 Elektroder med 1 Volts
+Spændingsforskel og 1 cm Afstand og Rummet
+mellem dem fyldt f. Eks. med Saltsyre saa
+fortyndet, at Λ∞ er naaet. Af Ledningsevnen
+beregnes Strømstyrken; da et Gramækvivalent
+indeholder 96500 Coulomb (F), kan igen
+beregnes, hvor længe det vil vare, før alle de i et
+vist Øjeblik tilstedeværende H- og Cl-Ioner er
+bragte hen til Elektroderne, og derved er
+<table>
+<td><td>+<td>
+<td>Hastigheden fundet. Man finder for <td>H<td>-Ionen
+</table>
+<table>
+<td v2>Hastigheden 0,00329 cm/sec og for<td>-<td v2>0.00068 cm/sec.
+<td>Cl
+</table>
+<table>
+<td v2>Videre kan anføres Hastighederne for<td>+<td v2> 0.00067.
+<td>K
+</table>
+<table>
+<td>+<td v2>0,00045,<td>-<td v2>0,00180,<td>- -<td v2>0,00070 cm/sec., alle
+<td>Na<td>OH<td>SO<sub>4</sub>
+</table>
+ved 18° C.
+
+Med voksende Temp. vokser i Reglen
+Elektrolyternes Ledningsevne, for mange Syrer og
+Baser c. 1,5 % pr Grad, for mange Salte 2-2,5
+% pr Grad. Dette skyldes dels, at Ionernes
+Bevægelighed vokser, og dels, at
+Dissociationsgraden forandrer sig (i Reglen kun i ringe
+Grad) med Temp. De langsomste Ioners
+Bevægelighed vokser stærkest, saa at ved højere
+Temp. alle Ioner nærmer sig til at gaa lige
+hurtigt.
+
+Vi har hidtil stadig forudsat Vand som
+<sp>Opløsningsmiddel</sp>; imidlertid finder der
+Dissociation og elektrolytisk Ledning Sted
+ogsaa i andre Opløsningsmidler, blot i langt
+ringere Grad. Den Egenskab ved Vandet, som det
+her kommer an paa, er dets særlig store
+Dielektricitetskonstant (c. 80); Dissociationen
+modvirkes af den elektriske Tiltrækning mellem de
+modsat ladede Ioner, der opstaar, og denne
+Tiltrækning er netop under ellers lige Forhold
+omvendt proportional med
+Dielektricitetskonstanten af det Medium, som de ladede Partikler
+befinder sig i. I Alkohol med
+Dielektricitetskonstanten 25 er Dissociationen temmelig stærk,
+men i Vædsker som Benzol (2,3) ell. Æter (4,1)
+er den yderst ringe, om end sikkert paavist.
+Dog er Dielektricitetskonstanten ikke det eneste
+afgørende, idet adskillige Elektrolyter viser
+afvigende Forhold. Ogsaa mange <sp>faste
+Stoffer</sp> leder elektrolytisk, saaledes Glas og
+Porcelæn, hvis Ledningsevne ganske vist er
+overordentlig ringe; i det hele er den yderst ringe
+Ledningsevne i de fleste Isolatorer af
+elektrolytisk Natur. De Metalilter, som bliver godt
+ledende ved høj Temp., og hvoraf nogle er
+anvendte i Nernstlampen, leder sandsynligvis ogsaa
+elektrolytisk. Elektrolytisk Ledning har vi
+endvidere i <sp>smeltede Salte</sp>, som allerede
+Faraday undersøgte, og som ogsaa følger hans
+Love. Deres Ledningsevne er ofte ret høj, men
+det er tvivlsomt, om det skyldes høj
+Dissociationsgrad ell. stor Ionbevægelighed. E. af
+smeltede Stoffer har overmaade vigtige tekn.
+Anvendelser, saaledes til Fremstilling af Aluminium
+(s. d. og <sp>Elektrometallurgi</sp>).
+
+E.'s øvrige tekn. Anvendelser, der er meget
+omfattende og af stor Bet., skal kun berøres for
+at henvise til de paagældende Artikler. I
+<sp>Galvanoplastikken</sp> fremstilles
+sammenhængende Metalaftryk af en Genstand, f. Eks. en
+Medaille; i <sp>Galvanostegien</sp> (Fornikling,
+Forsølvning, Forgyldning o. s. v.) overtrækkes
+Genstande af uædelt Metal med et
+sammenhængende og fastsiddende tyndt Lag af et
+ædlere Metal. I begge Tilfælde er Genstanden
+Katode i et passende Bad, og det Metal, der skal
+udfældes, Anode. For at faa et fastsiddende
+jævnt Overtræk, maa Strømtætheden ikke være
+for stor, og der skal helst anvendes Bad af
+Komplekssalte, f. Eks. Metallernes
+Cyanforbindelser. I Metallurgien anvendes E. i stort
+Omfang til <sp>Renfremstilling af Metaller</sp>,
+saaledes Kobber (»elektrolytisk« Kobber).
+Alkalimetallerne Kalium og Natrium fremstilledes
+først ved E. Brint fremstilles hyppigt i det store
+ved Vandsønderdeling. Ogsaa talrige organiske
+Præparater fremstilles ved E., f. Eks. Jodoform.
+I den kvantitative Analyse anvendes E. ikke
+sjældent til f. Eks. at udfælde et Metal
+fuldstændigt af en Opløsning.
+
+<sp>Teorien</sp> for E. (d. v. s. Teorien for den
+elektrolytiske Polarisation) falder sammen med
+Teorien for de <sp>galvaniske Elementer</sp>
+(som skyldes <sp>Nernst</sp>) og skal ogsaa her først
+gives i Sammenhæng dermed. Som et Eksempel
+skal dog Vandsønderdelingen allerede her
+berøres. Selv om Vand destilleres og renses med
+den største Omhu, bliver der en vis meget
+ringe Ledningsevne tilbage (se
+<sp>Elektrolyters Ledningsevne</sp>); denne skyldes
+<table>
+<td v2>en ganske svag Dissociation af Vandet i<td c>+<td v2> og
+<td>H
+</table>
+<table>
+<td c>-<td>
+<td>OH<td>-Ioner, og muligvis en endnu meget
+</table>
+<table>
+<td><td>+<td><td>-
+<td>svagere i<td>H<td>og<td>O-Ioner. Ved »Vandsønderdeling«,
+</table>
+hvor Elektrolyten er fortyndet Svovlsyre,
+deltager naturligvis alle Ionerne, ogsaa disse faa
+fra Vandet hidrørende, i Strømtransporten, men
+da Ionerne fra Svovlsyren er saa langt
+overvejende i Antal, bærer de den praktisk talt
+alene. Ved Udskillelsen af Ionerne ved
+Elektroderne bliver det derimod afgørende, hvilke
+der udskilles lettest ell. lettest afgiver deres
+Elektricitet. Dette er et Spørgsmaal om
+Polarisationsspændingen og er netop det, der
+omhandles i E.'s Teori, men uden her at gaa
+nærmere ind derpaa skal nævnes, at af Anionerne
+<table>
+<td><td>-
+<td>udskilles<td>O<td>-Ionen lettest (ved den laveste
+</table>
+<table>
+<td><td c>-<td>
+<td>Spændingsforskel), derefter<td>OH<td>-Ionerne og endelig
+</table>
+<table>
+<td c>- -<td>
+<td>SO<td><sub>4</sub>-Ionen. Hermed hænger de variable
+</table>
+Polarisationsforhold ved Vandsønderdelingen
+sammen. Anvendes saa lav Spænding, at

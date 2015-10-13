@@ -1,0 +1,10 @@
+<chapter name="Kran (Planche)">
+<sp>KRAN</sp>.
+<img>Fig. 6. Værftskran.</img>
+
+<img>Fig. 4. Elektrisk Kajkran.</img>
+
+<img>Fig. 8. Elektrisk Løbekran.</img>
+
+<img>Fig. 7. Beddingskran.</img>
+</chapter>

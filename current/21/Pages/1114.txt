@@ -1,0 +1,112 @@
+(konveks), spejlende paa den Side, der vender bort
+fra Kuglefladens Centrum. <sp>Hulspejlets
+Centrum</sp> <i>O</i> er Midtpunktet i den Kugleflade,
+hvoraf Spejlfladen er en Del; dets
+<sp>Midtpunkt</sp> <i>M</i> ligger midt i Spejlfladen, og dets
+<sp>Akse</sp> er Linien fra <i>M</i> gennem <i>O</i>. Spejlets
+<sp>Diameter</sp> er Diameteren i den Cirkel, som
+begrænser Spejlfladen; den kaldes ogsaa S.'s
+<sp>lineære Aabning</sp>. Ved Aabningen i
+Vinkelmaal (<sp>angulær Aabning</sp>) forstaas den
+Vinkel, under hvilken Diameteren ses fra
+Centrum. Naar en Lysstraale rammer Hulspejlet,
+kastes den tilbage efter de sædvanlige
+Tilbagekastningslove, saaledes at Indfaldsvinkelen er
+lig Udfaldsvinkelen. Men medens Planspejle
+altid giver skarpe Billeder, saa er dette ved
+Hulspejle kun Tilfældet, naar Hulspejlets
+Diameter er lille i Forhold til Kuglefladens Radius,
+og naar Straalerne kun danner smaa Vinkler
+med Aksen, saaledes at Indfaldsvinklerne er
+smaa. Er disse Betingelser imidlertid opfyldte,
+faas skarpe Billeder, og i saa Fald kan Billedet
+af en vilkaarlig Genstand konstrueres ved
+Hjælp af flg. to Regler: 1) en Straale <i>L D</i> (Fig.
+2), parallel med Aksen, tilbagekastes gennem
+<sp>Brændpunktet</sp> <i>B</i>, beliggende midt
+imellem <i>O</i> og <i>M</i>, og 2) en Straale gennem Centret
+O tilbagekastes i sin egen Retning, svarende til,
+at dens Indfaldsvinkel er <i>0</i>. I
+Skæringspunktet <i>L1</i> mellem disse Straaler dannes Billedet af
+<i>L</i>, og gennem <i>L1</i> vil derfor enhver Straale fra
+<i>L</i> gaa efter Tilbagekastningen, f. Eks. <i>L D1 L1</i>.
+Af Genstanden <i>L A</i> dannes da Billedet <i>L1 F</i>;
+dette er omvendt, formindsket og virkeligt (da
+der virkelig kommer Straaler fra Genstanden
+hen til Billedet, saa dette kan opfanges paa en
+Skærm). Sammenhængen mellem Genstandens
+og Billedets Beliggenhed i Forhold til S. er
+
+givet ved Formlen 1/<i>a</i> + 1/<i>f</i> = 1/<i>p</i>, hvor <i>a</i> er
+Genstandens Afstand <i>A M</i>, <i>f</i> Billedets Afstand
+<i>F M</i> og <i>p</i> Hulspejlets Brændvidde <i>B M</i> lig
+Kuglefladens halve Radius. Af denne Formel
+kan Billedets Plads beregnes for enhver
+Stilling af Genstanden: naar Genstanden er uden
+for Centret <i>O</i>, ligger Billedet imellem <i>B</i> og <i>O</i>;
+ligger Genstanden mellem <i>O</i> og <i>B</i>, falder
+Billedet derimod uden for <i>O</i>, men er stadig omvendt
+og virkeligt. Ligger Genstanden endelig inden
+for Brændpunktet <i>B</i>, altsaa mellem <i>B</i> og <i>M</i>,
+bliver Billedet indbildt, opret og forstørret (se
+Fig. 3), og brugt paa denne Maade finder
+Hulspejlet Anvendelse som Barberspejl. Er
+Genstanden punktformig og anbragt i selve
+Brændpunktet, vil S. sende Straalerne ud parallelt
+med Aksen; men er det Hulspejlets Opgave at
+samle det mest mulige Lys for at kaste det ud
+i en bestemt Retning, f. Eks. ved Projektører
+og Fyr, maa S. spænde over en stor Del af
+Rummet, set fra Brændpunktet, hvor
+Lysgiveren skal staa. Afvigelserne ved Kuglespejlet
+vilde da blive for store, hvorfor man anvender
+parabolske S. (se <sp>Fyrvæsen</sp> S. 198). Et
+stort, parabolsk, godt poleret Metalspejl er det
+virksomste <sp>Brændspejl</sp>. — Er de ovenn.
+Betingelser for skarp Billeddannelse ikke
+opfyldte, vil Straaler, der falder ind parallelt med
+Aksen, efter Tilbagekastningen tangere <sp>den
+kaustiske Flade</sp>, en Flade, der løber ud
+i en Spids mod Brændpunktet <i>B</i> og derfra
+bøjer sig saaledes tilbage, at den vilde komme
+til at berøre Hulspejlets Rand, hvis dette var
+halvkugleformet.
+Lægger man en blank, glat
+Ring paa et Stykke
+Papir i Solskinnet, ser
+man inde i Ringen en
+3-Tal-formet Lyslinie,
+der giver et Begreb
+om hele Fladens Form
+(jfr. Fig. 4). For en
+Straale som <i>L D</i>, der
+rammer selve Spejlranden, er
+Længdeafvigelsen <i>B b</i> og Sideafvigelsen <i>B c</i> begge saa store
+som muligt; disse to Afvigelser er Maal for
+Fejlen ved Hulspejlet paa Grund af
+Kugleformen, den <sp>sfæriske Aberration</sp>; begge
+Fejl vokser stærkt med Aabningens Størrelse.
+— Hvælvede ell. <sp>konvekse Kuglespejle</sp>,
+der er spejlende paa den bort fra Centret
+vendende Flade, giver altid indbildte, oprette og
+formindskede Billeder; de har fundet rig
+Anvendelse som Udsigtsspejl for Føreren af
+Motorcykler og Automobiler. — S. af andre
+Former giver mere ell. mindre forvrængede
+Billeder.
+<i>A. W. M.</i>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<sp>Historisk</sp>. Oldtidens S. var af poleret
+Metal, Middelalderens opr. af Tin ell. Bly. 1317
+omtales i Frankrig et S. af Staal, 1328 et af
+Sølv, 1360 et af Guld, men allerede 1250
+nævner Vincent de Beauvais et S. af Glas med
+Blyfolie. Kort efter 1300 begyndte man i
+Venedig at eksperimentere med Tilvirkningen af
+saadanne. Det var fra Tyskland, Opfindelsen

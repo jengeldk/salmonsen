@@ -1,0 +1,132 @@
+Værdi af <i>k</i> svarer her ε = √3/2, d. v. s. en
+temmelig langstrakt Baneellipse, til <i>k</i>=2
+svarer <sub>ə</sub>=0, d. v. s. en cirkulær Bane. For <i>n</i>=3
+er 3 Baneformer mulige, idet der til <i>k</i>=1,
+<i>k</i>=2 eller <i>k</i>=3, svarer henholdsvis ε = √8/3,
+ε = √5/3 eller ε = 0; den første Værdi for ε
+svarer til en meget langstrakt Bane, den næste
+lidt mindre Ekscentricitet til en noget mindre
+langstrakt Bane, og endelig ε=0 til en
+cirkulær Bane. For Baner med Hovedkvantetallet
+<i>n</i> er der <i>n</i> forsk. Baneformer mulige, en Bane
+med Kvantetallene <i>n</i> og <i>k</i> betegnes hyppigst
+som en <i>n<sub>k</sub></i> Bane; en 4<sub>1</sub> Bane er meget
+langstrakt, en 4<sub>4</sub> Bane er cirkulær og har en
+Diameter, som er lig Storaksen i 4<sub>1</sub> Banen. Som
+nævnt er Brintatomets Energi meget nær ens
+i alle stationære Tilstande, der svarer til
+samme Værdi af <i>n</i>; men Energien er dog lidt
+forsk. for forsk. Værdier af <i>k</i>. Heraf kan man
+slutte, at Linierne i Brintspektret, naar de
+iagttages hver for sig i en Spektrograf med
+meget stor Opløsningsevne, maa vise sig at
+bestaa ikke af en enkelt, men af fl. uhyre tæt
+ved hverandre liggende Linier. Har man
+nemlig et meget stort Antal Brintatomer i et
+Udladningsrør, vil Elektronen i nogle Atomer gaa
+over fra en 3<sub>2</sub> Bane til en 2<sub>1</sub> Bane, medens der
+i andre finder Overgang Sted fra en 3<sub>3</sub> til en
+2<sub>2</sub> Bane o. s. v., og disse forsk. Overgange vil
+svare til lidt forsk. Energiændringer og følgelig
+lidt forsk. Svingningstal for den udsendte
+Straaling (<i>H</i> α). Omtr. samtidig med, at
+Sommerfeld forudberegnede Brintliniernes
+Finstruktur, undersøgte <sp>Paschen</sp> denne
+eksperimentelt, og hans Maalinger stemte, saa vidt
+Maalenøjagtigheden rakte, med Sommerfeld's
+Beregninger. Nogen nøje Prøve af Teorien for
+Finstrukturen er dog p. Gr. a. eksperimentelle
+Vanskeligheder ikke mulig for Brint; for
+ioniseret Helium, hvis Linier maa have en
+Finstruktur, der ganske ligner Brintliniernes,
+ligger de eksperimentelle Forhold meget
+gunstigere, og Paschen udførte Maalinger, der gav
+nøje Overensstemmelse med Teorien.
+
+<sp>Brintliniernes Opspaltning i
+elektrisk og magnetisk Felt</sp>. Kort
+Tid efter, at Sommerfeld havde udvidet Teorien
+for Fastsættelsen af stationære Tilstande til at
+omfatte Tilfælde, hvor Elektronen udfører en
+vilkaarlig Centralbevægelse, udviklede <sp>P.
+Epstein</sp> og <sp>K. Schwarzschild</sp> Teorien
+videre, saa den blev i Stand til at behandle en
+mere omfattende Art af Elektronbevægelser, de
+saakaldte <sp>betinget periodiske</sp>
+Bevægelser. Naar et Brintatom befinder sig i et
+stærkt elektrisk Felt, vil dette forstyrre
+(perturbere) Elektronens Bevægelse saadan, at
+denne ikke mere forløber i en Plan; Bevægelsen
+er betinget periodisk, og Epstein og
+Schwarzschild udarbejdede en Teori for det elektriske
+Felts Indvirkning paa Brintspektret, som nøje
+kunde gøre Rede for den eksperimentelt
+fundne Effekt (se <sp>Starkeffekt</sp>).
+<sp>Sommerfeld</sp> og <sp>P. Debye</sp> opnaaede derefter paa
+lgn. Maade en i hvert Fald delvis Forklaring
+af Indvirkningen af et magnetisk Felt paa
+Brintspektret (se <sp>Zeemaneffekt</sp>).
+
+<sp>Einstein's Udledelse af Planck's
+Straalingslov</sp>. Af stor Bet. for K.'s
+Udvikling var et Arbejde af <sp>A. Einstein</sp> fra
+1917. Efter at Bohr havde givet K. et nyt
+Grundlag, var det en nærliggende Opgave at
+forsøge at opnaa en paa hans Grundantagelser
+hvilende Udledelse af Planck's
+Straalingsformel, hvilket var saa meget mere ønskeligt, som
+Planck's Udledelse langfra var
+tilfredsstillende. Einstein gik ud fra Bohr's Forestillinger
+om stationære Tilstande og antog, at et Atom,
+naar det befinder sig i en ell. anden stationær
+Tilstand, af sig selv, d. v. s. uden ydre
+Paavirkning, kan gaa over i en anden stationær
+Tilstand med mindre Energi. Der eksisterer
+altsaa for Atomet en vis Sandsynlighed for, at
+en bestemt saadan Overgang finder Sted inden
+for et givet Tidsrum. Han antog endvidere, at
+naar Atomet er underkastet Paavirkning af
+elektromagnetisk Straaling af Svingningstallet
+<i>v</i>, vil Sandsynligheden for en Overgang mellem
+saadanne to stationære Tilstande, at der ved
+Overgangen udsendes Straaling med
+Svingningstallet <i>v</i>, have ændret sig med en Størrelse,
+som er proportional med Energitætheden i
+Straalingen, og han antog endelig, at der nu
+eksisterer en med Energitætheden proportional
+Sandsynlighed for en modsatrettet Overgang
+mellem de to Tilstande, hvorved der absorberes
+et Kvantum <i>h v</i> af Straalingsenergien. Ud fra
+disse Antagelser, der danner en kvanteteoretisk
+Analogi til den klassiske Straalingsteori,
+lykkedes det Einstein ved at opstille Betingelsen
+for statisk Ligevægt og anvende Wien's
+For-skydningslov (s. d.) paa uhyre simpel Maade at
+udlede Planck's med Erfaringen stemmende
+Formel for Temperaturstraalingen.
+
+<sp>Ændring af ydre Betingelser</sp>. <sp>P.
+Ehrenfest</sp> har paa forsk. Punkter bidraget
+til den systematiske Udformning af K. Han
+viste saaledes, at hvis man meget langsomt og
+jævnt varierer de ydre Betingelser (elektrisk
+Felt, magnetisk Felt e. l.), hvorunder et
+Atomsystem befinder sig, saa vil
+Elektronbevægelserne i Atomet i Alm. i hvert enkelt Øjeblik
+under hele denne Ændring meget nær være
+de samme som i en stationær Tilstand, der
+svarer til de øjeblikkelige ydre Betingelser. Denne
+Sætning aabner, som Bohr har vist, Mulighed
+for ved Hjælp af alm. Mekanik at bestemme et
+Atoms stationære Tilstande under forsk. ydre
+Betingelser, naar de stationære Tilstande i et
+enkelt Tilfælde er kendt, og den er af stor
+Vigtighed for Fastlæggelsen af stationære
+Tilstande. Ehrenfest har endvidere vist, at
+Sandsynligheden for, at et Atom befinder sig i en vis
+stationær Tilstand, i Alm. ikke ændrer sig, naar
+den stationære Tilstand forandres ved en
+langsom og jævn Ændring af de ydre Betingelser,
+et Forhold, der har stor Bet. for Spørgsmaalet
+om Bestemmelse af Sandsynlighederne for forsk.
+stationære Tilstande.

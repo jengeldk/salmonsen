@@ -1,0 +1,120 @@
+af en moderne Røntgen-I., fremstillet af
+Firmaet Siemens & Halske, i det væsentlige i
+Overensstemmelse med den her givne
+Beskrivelse, dog uden Fodstykket med Kondensatoren,
+der i visse Tilfælde ikke anvendes (se ndf.).
+
+Et Induktoranlæg hatr to Hovedbestanddele.
+I. selv og Afbryderen. Den sidste skal slutte og
+igen afbryde en elektrisk Strøm gennem I. et
+vist Antal Gange pr Sek.. f. Eks. 25—50, og den
+skal gøre det med størst mulig
+Regelmæssighed. Der er i Tidens Løb konstrueret et stort
+Antal Afbrydere; vi indskrænker os her til at
+beskrive nogle faa Typer.
+
+Ved mindre I., f. Eks. I. op til c. 10 cm's
+Gnistlængde benyttes endnu ofte en saakaldt
+Hammerafbryder, Fig. 26. Afbrydningen finder
+her St. mellem to Kontaktstykker <i>a</i> og <i>b</i> af
+Platin ell. Wolfram. Kontaktstykket <i>a</i> sidder
+paa Enden af en Skrue <i>H</i>; <i>b</i> er loddet ell.
+nittet paa en ret stiv Staalfjeder <i>F</i>, som foroven
+bærer en Jernklods <i>J</i>, der befinder sig lige ovf.
+Jernkernen <i>K</i> af en Elektromagnet. Strømmen,
+som skal afbrydes periodisk, sendes i Række
+gennem Kontaktstedet, Elektromagnetens Spole
+samt I., idet det herved bemærkes, at Skruen
+er stillet saaledes ind, at de to Kontaktstykker
+rører hinanden, naar ingen Strøm passerer.
+Sluttes nu Strømmen, tiltrækker
+Elektromagneten Klodsen <i>J</i>. Herved drages Kontaktstedet <i>b</i>
+bort fra <i>a</i>, og Strømmen afbrydes. Magneten
+tiltrækker da ikke længere <i>J</i> og Fjederen
+svinger tilbage mod <i>a</i>, slutter atter Strømmen,
+trækkes atter bort fra <i>a</i> o. s. v. Gennem
+Afbryderen og I. faar man paa denne Maade
+pulserende Strømme af den i Fig. 27 viste
+Karakter; <i>ta</i> er Tiden, i hvilken Strømmen er
+afbrudt, <i>ts</i> Tiden, i hvilken den er sluttet. I
+mange Tilfælde benytter man selve I.'s
+Primærvikling og Kerne som Elektromagnet.
+Afbryderen danner da et fast Tilbehør, bygget op paa
+I.'s Fod.
+
+Ved større I. anvender man ikke Afbrydning
+i Luft, men Afbrydningen finder St. i en lukket
+Beholder fyldt med Brint ell. en brintholdig
+Luftart som Belysningsgas. Fig. 28 skal
+skematisk antyde en ret alm. anvendt Afbryder til
+store I. <i>C</i> betyder her en Centrifuge, der
+bringes til at rotere hurtigt om Aksen <i>A</i>.
+Drivkraften leveres af en lille Elektromotor med
+Snorskiven <i>S3</i>. Trækket overføres til <i>C</i> gennem
+Snoren <i>T1</i> og Snorskiven <i>S1</i>. I Centrifugen er
+der Kvægsølv, der under Rotationen stiller sig
+ind i en Ring <i>K K</i>. En skraatstillet Akse <i>B</i>,
+der ligeledes holdes i Rotation af den nævnte
+Motor, bærer paa Enden en Skive <i>P</i>. I Randen
+af denne er indsat et (ell. fl.) Kontaktstykker
+<i>D</i> af Kobber. Under Rotationen føres disse
+Stykker ind i Kvægsølvringen og rives efter en
+vis Tid <i>ts</i> atter ud af den. I Tiden <i>ts</i> er
+Strømmen sluttet gennem Afbryderen; den ledes ind
+og ud gennem Klemmerne <i>k1</i> og <i>k2</i>, hvoraf <i>k1</i>
+er i Forbindelse med en Kost <i>G</i>, der slæber paa
+Fladen <i>F</i> af Centrifugen. Som Følge af
+Kvægsølvets Rotation bliver Afbrydningen af
+Forbindelsen mellem <i>D</i> og <i>K</i> meget pludselig, hvad
+der er af største Bet. for Opnaaelse af en
+præcis og rolig Drift af I. Ved Variation af
+Omdrejningstallet for Motoren ell. blot for Aksen
+<i>B</i> kan man variere Antallet af Strømslutninger
+og Afbrydninger pr Sek.
+
+En tredie Afbryder er i Princippet vist i Fig.
+29. <i>J</i> betegner her en forholdsvis tynd
+Kvægsølvstraale, der passerer mellem Polerne <i>N S</i>
+af en Magnet og rammer en Elektrode <i>E</i>. Man
+slutter Strømmen til I. igennem Straalen, idet
+man sender den ind og ud gennem Elektroden
+og Straalerøret. Under Indflydelse af
+Vekselvirkningen mellem Strømmen i Straalen og den
+magnetiske Kraft, som hersker mellem <i>N</i> og <i>S</i>,
+vil der danne sig en Bugt paa Straalen, som i
+Løbet af en vis Tid, i hvilken Strømmen altsaa
+er sluttet, vokser til en saadan Størrelse, at
+Straalen brister. Nu er Straalen strømløs, og
+de nye Straaledele, der presses frem af
+Straalerøret, vil ikke afbøjes. Naar den uafbøjede
+Straales Front efter Tiden <i>ta</i> er naaet frem til
+Elektroden, sluttes Strømmen atter, og det hele
+Spil gentager sig. I Fig. 30 <i>a—d</i> er
+Straalefigurens Forandringer tegnede efter
+fotografiske Optagelser. I <i>a</i> ses den lige Straale,
+gennem hvilken Strømmen netop sluttes. I <i>b</i>
+ses Straalebugten dannet af Strømmen. I <i>c</i> er
+Straalen bristet ved <i>x</i>, og i <i>d</i> er den ny
+uafbøjede Straale netop naaet frem til Elektroden;
+d. v. s. man er kommen tilbage til Tilstanden
+i <i>a</i>. Stralle med Magnet og Elektrode er
+naturligvis ved den virkelige Afbryder indbygget
+i et Kammer fyldt med Brint ell.
+Belysningsgas. Kvægsølvet strømmer til Straalen fra en
+Beholder for Enden af Straalerøret; det hæves
+fra Kammerets Bund til denne Beholder ved en
+Pumpe f. Eks. en Centrifugalpumpe, drevet af
+en lille Elektromotor. Vil man formindske
+Afbrydningstiden <i>ta</i>, Fig. 27, sker det simplest
+ved at hæve Elektroden <i>E</i>. Vil man formindske
+Strømslutningstiden, kan det gøres ved at
+forstærke den magnetiske Kraft ell. ved at
+udveksle Straalehullet med et finere, idet den
+lettere Straale hurtigere rives over. Den sidst
+beskrevne Afbryder har den Fordel, at den
+næsten umiddelbart kam benyttes til Drift af I.
+
+<img>Fig. 27.</img>
+
+<img>Fig. 28.</img>
+

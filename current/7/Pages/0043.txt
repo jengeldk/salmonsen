@@ -1,0 +1,92 @@
+frembringe en Lysbue mellem Kulelektroder,
+derimod ikke mellem Metalelektroder. Det
+hænger sammen med det ovf. omtalte Fænomen, at
+en Lysbue kun kan eksistere med en glødende
+Katode. Kulelektroderne er p. Gr. a. deres
+ringe Varmeledningsevne i Stand til at holde sig
+glødende i den Tid af Perioden, hvor
+Vekselspændingen, idet den skifter Retning, er under
+Lysbuens Minimalspænding. Buen kan derfor
+tændes igen og det i modsat Retning, saa snart
+Vekselspændingen har naaet denne Værdi. En
+saadan Gentænding kan derimod ikke finde Sted
+ved de godt ledende Metalelektroder. En
+Undtagelse danner dog Kviksølvelektroder, hvad der
+sandsynligvis staar i Forbindelse med, at
+Kviksølvet saa let fordamper. Den ovf. omtalte
+Birkeland-Eyde'ske Vekselstrømslysbue mellem
+Metalelektroder til Fremstilling af Kvælstofilter
+er i Virkeligheden en yderst kraftig
+Lystaagestrøm.
+
+Er den ene Elektrode af Kul, den anden af
+Metal, vil en Vekselspænding kunne danne en
+Bue imellem dem i de Halvperioder, hvor
+Kulelektroden er Katode, derimod ikke, naar
+Metallet er Katode. En saadan Lysbue vil derfor
+virke som en elektrisk <sp>Ensretter</sp> (s. d.
+og <sp>elektriske Maskiner</sp>) for
+Vekselstrømmen. En Ensretter faas ogsaa ved at danne
+en Lysbue i Vakuum mellem en
+Kvægsølvelektrode og en Jernelektrode, idet Buen kun
+dannes, naar Kvægsølvet er Katode. Naar
+Svingningstiden er meget lille, som ved hurtige,
+elektriske Svingninger, faar Varmeledningen mindre
+Bet., og man kan da godt have en
+Vekselstrømslysbue mellem Metalelektroder. Den stærkt
+knaldende og lysende elektriske Gnist, der faas
+ved Udladning af Leydnerflasker, maa saaledes
+betragtes som en kortvarig Vekselstrømslysbue.
+
+<sp>Den tonende Lysbue,
+Lysbuetelegrafi</sp>. Som omtalt under Kullysbuens
+elektriske Karakteristik vil Lysbuens Polspænding
+synke, naar Strømstyrken stiger, medens
+Spændingen ved en alm. Modstand jo lige modsat
+vil vokse med Strømmen efter Ohm's bekendte
+Lov. Paa denne Ejendommelighed ved Lysbuen
+beror dens Anvendelse til Frembringelse af
+kontinuerte elektriske Svingninger. Man kan over
+for Strømvariationer formelt opfatte Lysbuens
+Polspænding som frembragt ved, at Strømmen
+passerer en »negativ« Modstand i Række med
+en modsat rettet Polarisation. Sætter man en
+Svingningskreds dannet af en Kondensator og
+en Selvinduktionsrulle i Række til Lysbuens
+Poler, vil der kunne opstaa kontinuerte
+Svingninger i Kredsen, saafremt Buens
+»negative« Modstand er tilstrækkelig stor til at ophæve
+Svingningskredsens alm. »positive« Modstand,
+som ellers vilde faa eventuelt fremkomne
+Svingninger til at dø hen. At der opstaar
+Svingninger i Kredsen, kan umiddelbart høres paa
+Lysbuen, idet den vil trække sig sammen og
+vide sig ud efter den svingende Strømstyrke og
+derved frembringe en Tone af samme
+Svingningstal som de elektriske Svingninger.
+Fænomenet, den tonende Lysbue, er først iagttaget af
+<sp>Duddell</sp> 1900. For at Forsøget skal lykkes,
+maa Lysbuen dannes mellem Homogenkul, og
+Strømstyrken maa ikke være for stor.
+Endvidere maa Kredsens Svingningstal pr Sek. være
+under c. 10000. Det Problem at faa hurtigere og
+tillige kraftigere Svingninger, saaledes at de
+kan anvendes til traadløs Telegrafi, er løst af
+<sp>V. Poulsen</sp> (1904) ved at anvende en Lysbue
+mellem en Kulkatode og en vandafkølet
+Kobberanode i en Brintatmosfære, samtidig med at
+Lysbuen blæses til Side af et transversalt
+Magnetfelt. Nærmere se <sp>Radiotelegrafi</sp>.
+
+<sp>Den talende Lysbue</sp>. At en Lysbue
+er i Stand til at gengive Tale og Sang, er
+opdaget af <sp>H. Th. Simon</sp> 1898. Til at vise dette
+kan man anvende Forsøgsopstillingen i Fig. 6.
+<i>A</i> er en Lysbue, der fødes af Batteriet <i>B</i>
+gennem Forlagsmodstanden <i>G</i> og Transformatoren
+<i>F</i>'s ene Sæt Vindinger. Det andet Sæt er i
+
+<img>Fig. 5.</img>
+
+<img>Fig. 6.</img>
+

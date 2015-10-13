@@ -1,0 +1,145 @@
+alm. af disse er <sp>Beaumé</sp>'s. Er det beregnet
+paa tunge Vædsker, saa viser det paa 0 i Vand
+og paa 15 i en Opløsning af 15 Dele Kogsalt i
+85 Dele Vand; Afstanden mellem disse to
+Mærker er delt i 15 lige store Dele, og Inddelingen
+fortsættes nedefter. Dette A. viser 66 »Grader«,
+naar det sænkes i Svovlsyrehydrat, og 36 i stærk
+Salpetersyre. Til Vædsker med mindre
+Vægtfylde end Vand anvendes efter Beaumé et A.,
+der viser 0 i en Opløsning af 10 Dele Kogsalt
+i 90 Dele Vand, medens det i Vand synker til
+Mærket 10. Inddelingen fortsættes opad.
+Nedenstaaende Tabel angiver de Vægtfylder, der
+svarer til forsk. Grader Beaumé.
+
+<table>
+<td c>Grader<br>Beaumé<td c>Vægtfylder større<br>end Vands. 14° R.<td c>Vægtfylder mindre<br>end Vands. 10° R.
+<td r>5<td><tab>1,0353<td c>—
+<td r>10<td><tab>1,0731<td><tab>1,0000
+<td r>15<td><tab>1,1138<td><tab>0,9669
+<td r>20<td><tab>1,1578<td><tab>0,9359
+<td r>25<td><tab>1,2053<td><tab>0,9068
+<td r>30<td><tab>1,2569<td><tab>0,8795
+<td r>35<td><tab>1,3131<td><tab>0,8538
+<td r>40<td><tab>1,3746<td><tab>0,8295
+<td r>45<td><tab>1,4421<td><tab>0,8066
+<td r>50<td><tab>1,5167<td><tab>0,7849
+<td r>55<td><tab>1,5993<td><tab>0,7643
+<td r>60<td><tab>1,6914<td><tab>0,7449
+<td r>65<td><tab>1,7948<td c>—
+<td r>70<td><tab>1,9117<td c>—
+<td r>75<td><tab>2,0449<td c>—
+</table>
+
+Tabeller af denne Art afviger dog temmelig
+stærkt fra hverandre (ofte i 2. Decimal), og
+Vægtfyldebestemmelsens Nøjagtighed er i
+Virkeligheden ikke nær saa stor, som de mange
+Decimaler lader formode.
+
+Større Nøjagtighed kan man opnaa ved
+Brugen af <sp>Vægtaræometret</sp> (Fig. 2); men
+dette er ikke saa nemt at arbejde
+med. Det bærer paa sin tynde Stilk
+mellem Beholderen <i>a</i> og den
+øverste Skaal <i>d</i> kun et eneste Mærke
+<i>c</i>. Bærer det forneden kun en
+Ballastkugle, hedder det
+<sp>Fahrenheit</sp>'s A., er som paa Figuren
+den lille Skaal <i>b</i> føjet til,
+<sp>Nicholson</sp>'s A. ell. <sp>Hydrometer</sp>, og
+det kan da bruges til Bestemmelsen
+af faste Legemers Vægtfylde. Vil
+man bestemme en Vædskes
+Vægtfylde, sænker man Flydevægten i
+denne Vædske og lægger
+Vægtlodder paa <i>d</i>, indtil Mærket <i>c</i> staar i
+Vædskens Overflade. Loddernes
+Vægt, + Flydevægtens bekendte
+Vægt, er Vægten af den fortrængte
+Vædskemasse. Lad denne være P
+g. Paa lgn. Maade har man faaet
+at vide, hvor stor en Vægt destilleret Vand
+ved 4 Grader Celsius Flydevægten
+fortrænger, naar den er sænket deri til Mærket.
+Denne Vægt være <i>Q</i> g. Vædskens Vægtfylde er
+da <i>P</i> : <i>Q</i>. Et fast Legemes Vægtfylde kan findes,
+naar man lægger det paa Skaalen <i>d</i> og Lodder
+paa samme Skaal, indtil Flydevægten i Vand
+synker til Mærket. Man tager da Legemet af og
+lægger det paa den nederste Skaal; herved
+taber det saa meget i sin Vægt, som den
+fordrevne Vandmasse vejer, og dette Vægttab er
+Vægten af de Lodder, man nu maa føje til paa
+<i>d</i> for atter at faa Mærket ned i Vandoverfladen,
+Lad denne Vægt være <i>Q</i> og lad Legemets Vægt,
+der kan bestemmes ved Hjælp af Flydevægten
+ell. ved alm. Vejning, være <i>P</i>; dets Vægtfylde er
+da <i>P</i> : <i>Q</i>. (<sp>Litt.</sp>: <sp>Meissner</sp>, »Die Aräometrie«
+[Nürnberg 1816, 2 Bd]; <sp>Gerlach</sp>,
+»Gegenseitiger Vergleich der Aräometerskalen«
+[Dingler's »Polytechnisches Journal« Bd 176, 1865]).
+<i>K. S. K.</i>
+
+<img>Fig. 2.
+Vægt-Aræometer</img>
+</chapter>
+
+<chapter name="As (Nordisk Mytologi)">
+<b>As</b> [a´s] (paa Oldnordisk og sædvanlig
+paa Norsk <i>Aas</i>, Flertal <i>Æser</i>; oprindelig
+maaske blot »Væsen«) er det alm.
+gammelnordiske Ord for »Gud«; i Oldnord. bruges
+sædvanlig A. og <i>Guð</i> enstydig. Ogsaa uden for
+Nordisk kendes Ordet: Øst- og Vestgoternes
+Kongeslægt roste sig af at nedstamme fra nogle
+»Halvguder« ved Navn »Anses«. Om dets store
+Udbredelse hos alle Folk af den got. (germanske)
+Stamme vidner en Mængde deraf dannede
+Personnavne, i Tysk og Gotisk paa Ans- (Ansgar,
+Anshelm, Ansila), i Oldengelsk paa Os-
+(Osmund), i Nordisk paa As- (og især i Danmark
+paa Æs-, Es-; Asbjørn [Esbern], Asgeir [Esger],
+Asgaut, Asgrim, Asmund; Asborg, Aslog, Astrid
+[Estrid], Aasa, Æsa o. s. v.; det ældste nordiske
+er Aasugisalas [ɔ: Asgisl] skrevet med Runer
+paa et Lanseskaft fra Kragehul Mose, 6. Aarh.).
+I den nordiske Gudedigtning optræder Aserne
+som et stort Gudefolk; Asernes Kvinder nævnes
+<i>Asynjer</i>, deres Bolig <i>Asgaard</i>; »Asabroen«
+Bilrast giver Adgang dertil. Med det andet
+Gudefolk, Vanerne, har Aserne i Tidens Morgen ført
+Krig, men endt den med en Fredsslutning,
+hvorved Aserne modtog de tre Vaner, Njord, Frey
+og Freya som Gisler. I nyere Tid mener nogle
+i denne Myte at se Mindet om en Kamp mellem
+den ved Østersøen hjemmehørende Dyrkelse af
+Njord og Frey og den i Vesttyskland opstaaede
+Odinsdyrkelse (se <sp>Odin</sp>). — Asernes Antal
+nævnes i nogle af de yngre Kilder (den korte
+Voluspaa, Snorre's Edda) som 12 (Balder
+medregnet); de ældre Digte synes ikke at kende nogen
+saadan Begrænsning; Snorre nævner dem: Odin,
+Thor, Balder, Njord, Frey, Tyr, Brage, Heimdal,
+Hoder, Vidar, Vaale, Ull, Forsete og desuden
+Loke, saa at Tallet 12 overstiges. De vigtigste
+Asynjer er: Frigg, Saaga, Hlin og Freya samt
+Siv og Gerde; de mere underordnede er: Gefjon,
+Fulla, Eir, Sjovn, Var, Vaar, Snotra og Gnaa
+samt Freya's Døtre Hnoss og Gerseme.
+Betegnelsen A. knyttes ellers særlig til Thor; han
+»ifører sig Asastyrke«, kaldes Asathor, Ásabragr
+(Asernes ypperste) og Landáss (den A., der
+værger Landet mod Trolde). Jfr <sp>Mytologi</sp>
+(<sp>nordisk</sp>) og <sp>Asgaard</sp>.
+<i>A. O.</i>
+</chapter>
+
+<chapter name="As (Talord med mere)">
+<b>As</b> (lat., Ordet beslægtet med det gr. Talord
+for 1, εἷς), den gl. rom. Møntenhed, opr. støbt,
+senere præget i Kobber opblandet med Bly og
+Tin, af l »Punds« Vægt, opr. 273 g, senere 327 g.
+Udmøntningen begyndte c. 335 f. Kr. Mønten
+viser paa den ene Side Guden Janus'

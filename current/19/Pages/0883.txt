@@ -1,0 +1,141 @@
+overjordisk, fra Jorden isoleret Net, en Modvægt. I
+begge Tilfælde kan Antennens Modstand ved en
+hensigtsmæssig Ordning af Antenne og Jordnet
+gøres relativ ringe, medens paa den anden
+Side selv en lille Fejl i Anlægget kan føre
+Modstanden op paa betydelige Værdier. Et
+andet vigtigt Punkt er ogsaa Luftnettets
+Ophængning i de bærende Master og de der
+benyttede Isolatorer.
+
+De foran omtalte Antenner kaldes ofte under
+eet Højantenner. De er i Hovedsagen
+symmetriske omkr. en lodret Akse og Straaler derfor
+omtr. lige kraftig i alle vandrette Retninger, i
+hvert Fald ved Bølgelængder, der er store i
+Sammenligning med Antennens Udstrækning.
+
+Det vilde i mange Henseender være en stor
+Fordel, om man var i Stand til at udsende
+Bølgerne i een bestemt Retning, mod en bestemt
+Modtagerstation, paa samme Maade som man
+ved Hjælp af et Spejl er i Stand til at kaste
+Lysstraaler i ganske bestemte Retninger. Man
+vilde kunne nøjes med mindre kraftige
+Stationer, fordi Energien ikke spredtes saa meget,
+og man vilde ikke indvirke forstyrrende paa
+Stationer inden for det »mørke« Omraade. En
+saadan Fremgangsmaade er dog kun til en vis
+Grad praktisk uigennemførlig af flg. Grunde:
+Spejlets regelmæssige, straaleagtige
+Tilbagekastning af Lyset er betinget af, at Spejlets
+Dimensioner er mange Gange større end Lysets
+Bølgelængde. Paa samme Maade maatte de
+liniære Dimensioner af et »Radiospejl« være
+mange Gange større end de elektriske Bølgers
+Bølgelængde. Da man nu til Telegrafering over
+blot nogenlunde store Afstande maa anvende
+Bølgelængder, der næppe kan være meget mindre
+end 30 m, saa forstaar man, at »Spejlmetoden«
+frembyder visse Vanskeligheder; det er dog
+muligt, at der vil ske betydelige Fremskridt
+paa dette Omraade. For ganske smaa Afstande
+— f. Eks. 10 km e. l. — hvor der er Mulighed
+for at benytte ganske korte Bælger af nogle faa
+m's Længde, kan Spejlmetoden finde
+Anvendelse, f. Eks. til Radiofyr e. l. Det er her
+naturligt at anvende parabolske Spejle eventuelt kun
+bestaaende af enkelte Frembringere. Denne
+Metode er antydet i Fig. 35.
+
+Der gives dog ogsaa andre Metoder, ved hvis
+Hjælp man mer ell. mindre fuldkomment kan
+koncentrere Senderens Udstraaling inden for
+visse bestemte Retninger.
+
+Nogle Eksempler paa saadanne
+Retningsantenner er vist i Fig. 36 og 37. Fig. 36 viser
+Forholdene for to lodrette Antenner i
+Afstanden <i>d</i>, naar Strømmen har samme Fase i begge
+Antenner. Udstraalingen i Retningen <i>Z</i> er
+proportional med Længden <i>Oa</i>, og den fuldt
+optrukne Kurve, der er det geometriske Sted for
+Punktet <i>a</i>, kaldes Straalingskurven. Den
+punkterede Cirkel, hvis Radius er betegnet ved <i>U</i>,
+fremstiller Straalingskurven for det Tilfælde, at
+Antennens Afstand <i>d</i> er ganske forsvindende i
+Sammenligning med Bølgelængden. I Fig. 37
+har Strømmen i <i>A</i> og <i>B</i> modsat Fase og <i>III</i>
+viser Straalingskurven, naar <i>d</i> er meget mindre
+end λ, <i>IV</i> for <i>d</i> = λ.
+
+Ang. de elektromagnetiske Bølgers
+Transmission fra Sender til Modtager hersker endnu
+paa mange Punkter en stor Uklarhed, og
+Forholdene er i hvert Fald ganske overordentlig
+indviklede. Hvis Bølgerne ikke led anden
+Svækkelse end den, der hidrører fra, at de
+udbreder sig over større og større Arealer,
+efterhaanden som man fjerner sig fra
+Senderen, saa vilde Bølgernes Amplitude være givet
+ved <i>K</i> <i>HJ<sub>s</sub></i>/λ <i>r</i>, hvor <i>K</i> er Konstant, <i>H</i>
+Sendeantennens virksomme Højde, <i>Js</i> Strømmen i
+Antennens Fodpunkt, λ Bølgelængden og <i>r</i> det
+betragtede Punkts Afstand fra Senderen. Dette
+stemmer ogsaa ret godt for ganske smaa
+Afstande.
+
+For store Afstande maa der tilføjes en
+Faktor <i>A</i>, saaledes at Bølgernes Amplitude er givet
+ved <i>K</i> <i>HJ<sub>s</sub></i>/λ <i>r</i> · <i>A</i>. Faktoren <i>A</i> kan efter Forholdene
+have højst forsk. Værdier lige fra Nul og op
+til over 1. Forholdsvis simplest ligger
+Forholdene for Dagtransmission, altsaa naar der er
+Dag baade ved Sender og Modtager. I saa Fald
+aftager <i>A</i> med voksende Afstand, men desto
+mindre, jo længere Bølgelængde der anvendes
+(Muligvis danner ganske korte Bølger under
+særlige Forhold en Undtagelse fra denne
+Regel). For store Afstande og korte Bølger kan
+<i>A</i> gaa ned til en Milliontedel og derunder. For
+Dagtransmission over store Afstande anvendes
+derfor lange Bølger. Selv for Dagtransmission
+har <i>A</i> dog ikke nogen konstant Værdi, men
+kan for den samme Forbindelse variere inden
+for meget vide Grænser. Endnu mere indviklet
+ligger Forholdene ved Nat. Som Regel er <i>A</i>
+betydelig større ved Nat end ved Dag; dette
+gælder især for de korte Bølger, men selv for
+lange Bølger er der som Regel en betydelig
+Forskel. Fig. 38 illustrerer dette Forhold for
+lange Bølgers Transmission over Atlanterhavet,
+medens Fig. 39 viser et Eksempel paa
+Intensitetens Variation for kortere Bølger og kort
+Afstand over Land for en Times Tid før og efter
+Solnedgang. Man ser, at Natintensiteten er
+ganske overordentlig variabel. Hertil kommer, at
+Intensitetsvariationen kan være vidt forsk. baade
+for to Modtagere, der ligger i nogle Hundrede
+m's Afstand fra hinanden, og for to Antenner,
+der ligger lige ved hinanden, men har forsk.
+Egenskaber (forsk. Retningsvirkning), og
+endelig for samme Sender- og Modtagerstation, naar
+der anvendes forsk. Bølgelængde. Forholdene
+er saaledes ganske overordentlig indviklede, og
+nogen tilfredsstillende Forklaring foreligger
+ikke, dog spiller Atmosfærens Ionisation (dens
+elektriske Ledningsevne) uden Tvivl en stor
+Rolle. — Det synes, som om Natintensiteten
+over meget lange Afstande og for meget korte
+Bølger (under 100 m) har et noget
+regelmæssigere Forløb end det i Fig. 39 viste, saaledes
+at korte Bølger om Natten kan benyttes til
+Telegrafering over lange Afstande.
+
+<sp>Modtagere</sp>.
+
+Modtagerstationen kan indrettes paa højst
+forsk. Maade. Som Modtagerorgan har man
+praktisk talt ganske forladt <sp>Kohæren</sp> (s. d.).
+Den var nemlig baade for ufølsom og for
+lunefuld; den gav en langsom Telegrafering og et

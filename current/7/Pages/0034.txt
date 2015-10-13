@@ -1,0 +1,63 @@
+passende Modstand af et ell. andet
+Modstandsmateriale. Det positive Kul har i Reglen en
+»Væge« af løsere Materiale, hvilket hjælper til
+at holde Buen i Midten. Fig. 1 viser et Snit
+gennem en normal Lysbue. Begge Kulstænger
+brænder langsomt bort og antager derved den
+viste Form. Der transporteres Kul fra det
+positive Kul, som derfor faar en Fordybning,
+»Krateret«, gennem Lysbuen til det negative
+Kul, som derfor bliver spidst. Det væsentligste
+Spændingsfald findes umiddelbart ved Krateret
+(c. 40 Volt), medens der i den øvrige Del af
+Buen findes et Spændingstab, som omtr. vokser
+proportionalt med Afstanden mellem Kullene,
+Buelængden. Desuden er der et Spændingstab
+paa nogle faa Volt ved den glødende Spids paa
+det negative Kul. Krateret har en meget høj
+Temp. og giver den overvejende Del af Lyset.
+En lille Del af Lyset kommer fra Spidsen paa
+det negative Kul og fra Buen.
+
+Lyset fordeler sig i forsk. Retninger omtr. som
+vist ved den optrukne Kurve i Fig. 2. Hvis man
+et Øjeblik tænker sig det negative Kul borte,
+vilde Lyset fra Krateret alene fordele sig som
+vist ved den punkterede Kurve, stærkest lige
+nedad og aftagende ud til Siden, og i det hele
+i enhver Retning proportional med den
+tilsyneladende Størrelse af Krateret set fra denne
+Retning. Det negative Kul skygger imidlertid for
+det Lys, som gaar lige nedad, og Resultatet
+bliver, at Lyset er stærkest i en skraa
+nedadgaaende Retning. Hvis Kullene brænder lige,
+hliver Lysfordelingen ens i alle lodrette Snit.
+
+Man taler om den <sp>maksimale
+Lysstyrke</sp>, endvidere om Middellysstyrken paa en
+tænkt nedadvendende Halvkugle (den
+<sp>hemisfæriske Lysstyrke</sp>) og Middellysstyrken
+paa en tænkt, Lampen helt omgivende Kugle
+(den <sp>sfæriske Lysstyrke</sp>). For en
+Buelampe, som brænder med 10 Ampère og en
+Spænding mellem Kullene paa 45 Volt, er
+eksempelvis den maksimale Lysstyrke 1570 Lys, den
+hemisfæriske Lysstyrke 860 Lys, og den sfæriske
+Lysstyrke 450 Lys. Forbruget i selve Lampen
+er 450 Watt. Ved mindre Strømstyrker er
+Økonomien noget daarligere, ved større Lysstyrker
+noget bedre. En Buelampe paa 40 Ampère og
+en Spænding mellem Kullene paa 52 Volt giver
+henh. 11700, 6400 og 3400 Lys. Forbruget er
+2080 Watt.
+
+<img>Fig. 1. Snit gennem Lysbue og Kul.</img>
+
+<img>(Trotter.)
+Fig. 2. Lysfordeling ved Buelys.</img>
+
+<img>Fig. 3. Shuntlampe.</img>
+
+<img>Fig. 4. Differentiallampe.</img>
+
+

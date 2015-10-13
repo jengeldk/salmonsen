@@ -1,0 +1,107 @@
+gennem en Gnist. Sammen med Strømmen svinger,
+om man saa maa sige, Induktionsliniestrømmen,
+der afvekslende flyder i den ene og den anden
+Retning, ligesom den elektriske Strøm i
+Primærspolen. Den svingende Induktionsliniestrøm
+maa frembringe svingende elektriske
+Spændinger, saavel i Primær- som Sekundærspole.
+Disse Spændinger er gengivne i Fig. 8 b. Navnlig
+den første Spændingstop er nu meget høj, og
+Forklaringen herpaa er det meget bratte
+Affald af Strømmen <i>i</i>, og
+Induktionsliniestrømmen umiddelbart efter Afbrydningen. Dette
+bratte Fald skyldes Kondensatoren, og det er
+gennem det, at denne virker som Middel til at
+sætte Spændingen op.
+
+At Kondensatoren har den nævnte Indflydelse,
+forstaar man, naar man bemærker, at Tiden
+<i>T</i> for en Svingning af Elektriciteten i en Kreds
+med Selvinduktion <i>L</i> og Kapaciteten <i>C</i> er givet
+ved Udtrykket
+6° <i>T</i> = 2π kvadratrod(<i>L C.</i>)
+
+Ved en middelstor <i>I.</i> kan <i>L</i> f. Eks. være c.
+50/1000 Henry, <i>C</i> c. 1/1000000 Faraday. Indsættes
+disse Tal, faas for <i>T</i> c. 1.4/1000 Sek. I en
+Fjerdedel af denne Tid, altsaa i c. 3 Titusindedele
+Sek. skal Strømmen efter Afbrydningen ikke
+alene falde til Nul, men endog vokse op til sin
+største Værdi til modsat Side, d. v. s.
+Strømfaldet maa blive meget brat, f. Eks. 5—10
+Gange brattere end uden Kondensator. I øvrigt
+afhænger Forbedringen ved Indførelsen af
+Kondensatoren i højeste Grad af Kondensatorens
+Størrelse, hvad der skal belyses ved Fig. 9
+a—d, der alle gengiver den primære Spoles
+Strøm. I Fig. 9 a er der ingen Kondensator
+indskudt. I Fig. 9 b en meget lille Kondensator.
+Allerede denne gør nogen Nytte ved at
+bevirke et stejlere Affald; men endnu opstaar der
+dog ikke Svingninger. I Fig. 9 c fremstilles
+Forholdene ved den gunstigste Værdi for
+Kondensatorens Kapacitet. I Fig. 9 d er Kondensatoren
+for stor, nemlig saa stor, at Faldet som Følge
+af den store Værdi, Svingningstiden <i>T</i> antager,
+igen bliver mindre stejlt.
+
+Den nu givne Forklaring fremstiller kun i
+store Træk I.'s Virkemaade. Den skal i det flg.
+dels belyses, dels suppleres gennem en Række
+Strømbilleder, hidrørende fra Forsøg med en
+mellemstor I. I Fig. 10 ses et fotografisk
+Billede, et Oscillogram, optaget ved en saakaldt
+Oscillograf, af den primære Strøm uden for
+Svingningskredsen, d. v. s. i den Gren, hvori
+Strømkilden <i>B</i> (Fig. 7) er indskudt. Man vil
+bemærke, at Strømmen stiger nøjagtig retlinet i
+Vejret, og man vil yderligere lægge Mærke til den
+overordentlig bratte Afbrydelse. Denne
+efterfølges af smaa Bølger, der gengiver
+Dønninger, som naar ud i Grenen med Strømkilden
+fra den elektriske Svingningskreds. I Fig. 11
+er gengivet to Billeder, hvoraf det ene, det
+øverste, viser samme Strøm som i Fig. 10,
+medens den lave opstigende Linie viser
+Strømmen i Svingningskredsen, d. v. s. i den Gren,
+hvori Kondensatoren er indskudt. De høje
+Bølger gengiver her selve de elektriske
+Svingninger. Ved Hjælp af det fotografiske Billede
+af Strømmen, der jo ikke er andet end en
+Kurve, som til Abscisse har Tiden <i>t</i>, til Ordinat
+Strømmen <i>i</i>, skulde man kunne finde
+Selvinduktionen <i>L</i> i den primære Spole. Den nævnte
+Kurve fremstilles nemlig, som man kan vise,
+tilnærmelsesvis ved Udtrykket
+7° <i>i</i> = <i>e0</i>/<i>L</i> · <i>t</i>.
+hvor <i>e0</i> er den elektromotoriske Kraft for
+Strømkilden <i>B</i> (Fig. 7).
+
+Bestemmer man derfor ved Udmaaling paa
+Fotografiet Forholdet <i>i/t</i> ell. Tangens til den
+Vinkel <i>a</i> i Fig. 12, som den opstigende Strøm
+danner med Abscisseaksen, idet man maaler
+Abscissen i Sekunder, Ordinaten i Ampère, faas
+i Følge 7° Størrelsen <i>e0</i>/<i>L</i> og altsaa <i>L</i>, hvis
+Driftspændingen <i>eo</i> er kendt. Fremdeles kan
+man paa Billedet direkte udmaale
+Svingningstiden ell. Perioden, <i>T</i>, Fig. 12, for de elektriske
+Svingninger og af <i>T</i> kan man saa ved
+Udtrykket 6° igen bestemme <i>L</i>, dersom
+
+<img>Fig. 8a.</img>
+
+<img>Fig. 8b.</img>
+
+<img>Fig. 9a.</img>
+
+<img>Fig. 9b.</img>
+
+<img>Fig. 9c.</img>
+
+<img>Fig. 9d.</img>
+
+<img>Fig. 10.</img>
+
+<img>Fig. 11.</img>
+

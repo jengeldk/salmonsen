@@ -1,0 +1,137 @@
+Middelenergien af en harmonisk svingende
+Elektron efter Planck's Teori, og han udledte
+derved en Formel for Atomvarmen, efter
+hvilken denne aftager med aftagende Temp., paa
+samme Maade som Maalingerne viser. Einstein's
+Antagelse er efter Planck's Teori ret
+nærliggende, da Atomerne jo bestaar af elektrisk
+ladede Partikler og i mange faste Legemer
+optræder som Ioner, d. v. s., at Atomerne ikke
+er elektrisk neutrale, men nogle positivt og
+andre negativt ladede. Af Maalingerne af
+Atomvarmen for et ell. andet Stof kan man
+ved Hjælp af Einstein's Formel for
+Atomvarmen bestemme det Svingningstal, med hvilket
+Atomerne i dette Stof svinger. En Prøvelse af
+Formlen kan man foretage ved at sammenligne
+det Atomsvingningstal, der saaledes findes, med
+de Svingningstal, der faas ved Beregninger ud
+fra Stoffets elastiske Egenskaber, ved
+Reststraalemaalinger (se <sp>Reststraaler</sp>) ell. ad
+andre Veje. Overensstemmelsen er saa god, som
+det kunde ventes, naar Teoriens meget
+skematiske Karakter tages i Betragtning. Det
+specielle i Einstein's Teori bestaar navnlig deri,
+at der kun regnes med eet Svingningstal, ens
+for alle Stoffets Atomer. <sp>Debye</sp> samt <sp>Born</sp>
+og <sp>Karman</sp> har forbedret Teorien ved at
+tage Hensyn til, at hvert enkelt Atoms
+Bevægelse i Virkeligheden ikke er en simpel
+Svingning, men maa betragtes som sammensat af
+en Række simple Svingninger, saaledes at
+Antallet af Egensvingningstal er lig det tredobbelte
+af Antallet af Atomer i Stoffet. Det antages, at
+hver enkelt Egensvingning i Middel bærer en
+Energimængde, som er lig med Middelenergien
+af en Planck's Oscillator med samme
+Svingningstal. For at beregne Varmefylden for et
+Legeme behøver man altsaa blot at kende
+Egensvingningstallene for Legemets Atomer
+eller dets »elastiske Spektrum«. Born og
+Karman's Varmefyldeteori adskiller sig fra
+Debye's Teori ved Maaden, hvorpaa det
+elastiske Spektrum bestemmes; medens
+Debye's Bestemmelse af det elastiske Spektrum
+er ret grov og vilkaarlig, støtter Born og
+Karman's Bestemmelse sig paa deres
+almindelige Teori for Krystalgitres Dynamik. De
+Varmefyldeformler, som findes, fremstiller
+paa tilfredsstillende Maade
+Forsøgsresultaterne. Ogsaa i den kinetiske Luftteori fandt K.
+tidligt Anvendelse, f. Eks. ved Beregningen af
+fleratomige Luftarters Varmeindhold. En meget
+vigtig Anvendelse af K. gjorde <sp>N. Bjerrum</sp>
+1912, hvorved det lykkedes ham at tyde
+Klorbrintens ultrarøde Spektrum som hidrørende
+dels fra en lineær Svingning af Klor- og
+Brintion mod hinanden, og dels fra Rotation om en
+Akse vinkelret paa deres Forbindelseslinie, og
+i Enkeltheder at gøre Rede for en Del af dette
+Spektrums Struktur.
+
+<sp>Bohr's Teori</sp>. De i det foregaaende
+omtalte Anvendelser af K. danner tilsammen et
+meget stærkt Vidnesbyrd om Nødvendigheden
+af at indføre i Fysikken Forestillinger af den
+Art, som ligger til Grund for Planck's Teori;
+men de bidrog kun i temmelig ringe Grad til
+en videre Udvikling af K. Overordentlig stor
+Bet. i saa Henseende fik imidlertid en Række
+Arbejder 1913 af Danskeren <sp>Niels Bohr</sp>,
+som anvendte K. til at skabe en Teori for
+Emissionen af Liniespektre og for Atomernes
+Opbygning. K. blev i Bohr's Haand Nøglen til
+en Forstaaelse af de ejendommelige Love, som
+gælder for Stoffernes Spektre, hvorved
+Muligheden aabnede sig for at udnytte det mægtige
+Materiale, som Spektroskopien ved mere end
+et halvt Aarh.'s Arbejde har tilvejebragt, til
+at vinde detaillerede Oplysninger om de forsk.
+Grundstofatomers Art og Opbygning. 1912
+havde <sp>E. Rutherford</sp> fremsat sin
+epokegørende Kerneteori. Han havde ved Forsøg over
+α-Straalers Gennemgang gennem Stof vist, at
+hele den positive Elektricitet og praktisk talt
+hele Massen, som findes i et Atom, er
+koncentreret i et i Forhold til Atomets Udstrækning
+yderst lille Omraade, »Kernen«, uden om
+hvilken der kredser saa mange Elektroner, at deres
+samlede negative Ladning netop neutraliserer
+Kernens positive Ladning. Afstandene mellem
+Kerne og Elektroner ell. disse indbyrdes er
+meget store i Sammenligning med
+Udstrækningen af Kernen ell. en Elektron. At forklare
+Grundstoffernes skarpt bestemte fys. ell. kem.
+Egenskaber ved Hjælp af dette Atombillede, er
+aabenbart ganske umuligt, saa længe den alm.
+Mekanik og Elektrodynamik fastholdes, thi ingen
+af de uendelig mange mek. mulige Maader,
+hvorpaa Elektronerne kan bevæge sig om Kernen, er
+mekanisk set udmærket frem for de øvrige; og
+efter den alm. Elektrodynamik vil
+Elektronerne stadig udsende Energi i Form af
+elektromagnetisk Straaling, hvorved Bevægelserne og
+det Spektrum, der udsendes, stadig ændrer sig.
+Bohr overvandt de Vanskeligheder, som rejser
+sig mod Rutherford's Atombillede, ved at lægge
+flg. to Antagelser til Grund for sin Teori: 1)
+Et Atomsystem kan bestaa i forholdsvis længere
+Tid i en Række af Tilstande, de saakaldte
+<sp>stationære Tilstande</sp>, i hvilke Atomet
+ikke udsender ell. optager Straaling, til Trods
+for, at dets Elektroner er i accelereret
+Bevægelse. I en hvilken som helst anden Tilstand
+kan Atomet ikke bestaa i endelige Tidsrum.
+Til Rækken af stationære Tilstande svarer en
+Række bestemte Værdier for Atomets
+Energiindhold, og hver Gang Atomets Energi ændrer
+sig, f. Eks. ved Emission ell. Absorption af
+elektromagnetisk Straaling, sker dette ved en
+fuldstændig Overgang fra en stationær Tilstand
+til en anden. 2) Den Straaling, som udsendes
+ell. absorberes ved Overgangen mellem to
+stationære Tilstande, er monokromatisk og har et
+Svingningstal (Frekvens) <i>ν</i>, som bestemmes ved
+Ligningen <i>hν</i>=<i>E′</i>—<i>E″</i>, hvor <i>E′</i> og <i>E″</i> er
+Atomenergien i de to paagældende stationære
+Tilstande og <i>h</i> Planck's Konstant (<sp>Bohr's
+Frekvensbetingelse</sp>). Disse Grundantagelser
+forklarer umiddelbart den ved Undersøgelsen
+af Liniespektrene af <sp>Ritz</sp> o. a. fundne Lov
+(<sp>Kombinationsprincippet</sp>), at
+Svingningstallene for Linierne i et saadant altid kan
+skrives som en Differens mellem to af en Rk.
+(ell. fl. Rk.) af Talværdier, <sp>Spektralled</sp>,
+som er karakteristiske for det paagældende
+Spektrum. Man behøver nemlig blot at antage,
+at Spektralledene er identiske med

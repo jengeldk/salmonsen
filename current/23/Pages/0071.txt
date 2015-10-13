@@ -1,0 +1,110 @@
+medens Forholdet mellem Vinkelhastighederne er
+konstant for runde Hjul, er den variabel for
+urunde Hjul. For at Gangen kan være
+fuldstændig jævn under samme Tandpars
+Indgribning, kan Tændernes Flanker ikke dannes
+vilkaarlig, men maa svare saaledes til hinanden,
+at en jævn Bevægelse af det ene Hjul ogsaa
+giver en jævn Bevægelse af det andet. Det
+opnaas i Reglen ved at forme Tænderne enten
+efter <sp>Cykloider</sp> ell. efter
+<sp>Cirkelafviklere</sp> (Evolventer). Cykloideprofilet
+fremkommer ved at lade Indgribningslinien være en
+Cirkel, som tangerer Delekredsene.
+Cykloidefortandingen, der bestaar af en <sp>Epicykloide</sp>,
+for Tandens Hoved over Delekredsen, og en
+<sp>Hypercykloide</sp> for Tandens Fod under
+denne, giver Tanden et S-dannet Profil (Fig. 4);
+de viste punkterede Cirkler er Delecirklerne.
+<sp>Afviklerprofilet</sp> fremkommer ved at
+lade Indgribningslinien være en ret Linie, der
+er Tangent paa hvert Hjul til en efter visse
+Regler bestemt Cirkel, <sp>Grundcirklen</sp>.
+Afviklertænderne er, som Fig. 5 viser,
+enkeltkrumme. Afviklertænderne tillader en mindre
+nøjagtig Akselafstand, uden at rigtig
+Indgribning tabes. De bruges derfor ved Valseværker,
+Tandhjulslokomotiver, ogsaa som Vekselhjul
+for Drejebænke, men deres Gnidningsmodstand
+er større end Cykloidetændernes; af denne
+Grund faar disse Anvendelse, naar større
+Kræfter skal overføres, saasom ved Kraner; de
+cykloidiske Hjul benævnes derfor ogsaa
+<sp>Kranhjul</sp>. I Praksis har man navnlig tidligere
+erstattet de cykliske Kurver og Afviklerne med
+passende Cirkelbuer. I visse Tilfælde er
+Tandprofilet en ret Linie, i andre sammenskrumper
+det til et Punkt, man taler da om
+<sp>Punktfortanding</sp> og har ogsaa beslægtet hermed
+i Stokkedrev ell. Laternedrev
+<sp>Stokkefortanding</sp>, som kendes fra ældre Træmaskiner
+og visse Ure; det ene T. er her erstattet med
+to Skiver med mellemliggende parallelle Stokke
+ell. Metaltraade, hvis indbyrdes Afstand fra
+Midte til Midte er en Deling. Punktet er
+erstattet med sin Parallelkurve Cirklen. I det
+ældre Mølleværk anvendtes en anden særegen
+Tandhjulform, <sp>Kronhjulet</sp>, hvis Tænder
+staar vinkelret paa Hjulplanen. Den er
+fortrængt af Keglehjulene (Fig. 2 og Fig. 6).
+Medens tidligere Træhjul, oftest med indsatte
+Trætænder, var det alm., og endog kunde findes i
+Smaamaskiner, f. Eks. Schwarzwalder-Ure, er
+nu Hjul af Støbejern det langt overvejende. De
+har oftest Nav, Arme og Krans, mindre T. har
+i St f. Arme en fuld Skive. Hjul af støbt Staal
+forekommer nu i svært Maskineri, af Bronze
+ell. Messing i mindre, og atter af Staal i det
+mindste Maskineri. Ved hurtiggaaende Hjul
+anvendes ofte Trætænder, <sp>Kamme</sp>, i det ene
+Hjul for at gøre Gangen blødere og dæmpe den
+klaprende Lyd. Smaa Hjul har man af lgn.
+Grunde udført af sammenlagte Skiver af raa
+Oksehud. <sp>Keglehjul</sp>, koniske Hjul,
+Vinkelhjul fortandes som Stjernehjulene, ogsaa de
+kan have Trætænder. Flere sammen arbejdende
+T. danner et <sp>Hjulværk</sp>, som det f. Eks.
+kendes fra Ure, Tælleapparater,
+Hejseværker o. l.
+
+<sp>Sneglehjul</sp> ell. <sp>Snekkehjul</sp> (Fig. 7)
+har paa Omkredsen skraa Tænder, hvis
+Profiler ligger i en Skruelinie. I Indgribning med
+dem er en <sp>Skrue uden Ende</sp> (<sp>Snegl</sp>,
+<sp>Snekke</sp>), som ikke maa kunne forskydes ud
+af sin Stilling, og for hvilken Skruehjulet kan
+opfattes som Møtrik. Sneglen har kun faa
+Vindinger, dens Aksel er oftest vinkelret paa
+Sneglehjulets. Naar den er en enkeltløbet Skrue,
+vil for hver af dens Omdrejninger Sneglehjulet
+bevæge sig en Deling; man har herved et
+Middel til en meget stor Omsætning fra hastig
+Gang for Sneglen til langsom Gang for Hjulet,
+men der hæfter derved den Mangel, at
+Gnidningsmodstanden mellem Tænderne er meget
+stor. Sjældnere driver Hjulet Skruen, hvorved
+man gaar over fra langsom til meget hurtig
+Gang, men for at dette kan lade sig gøre
+uagtet den store Gnidningsmodstand, maa Skruen
+være meget stejl, og gøres da som Regel
+flerløbet.
+<i>(F. W.). S. C. B.</i>
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>
+
+<img>Fig. 6.</img>
+
+<img>Fig. 7.</img>
+</chapter>
+
+<chapter name="Tandhjulsbaner,">
+<b>Tandhjulsbaner,</b> d. s. s. Tandbaner.
+</chapter>

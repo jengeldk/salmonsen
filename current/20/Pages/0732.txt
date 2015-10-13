@@ -1,0 +1,131 @@
+Slags, betegnede ved a og b, og det viser sig
+da, at kun Overgange fra a til b ell. omvendt
+er mulige, aldrig fra a til a ell. fra b til b. I
+flg. Tabel er for nogle vigtige Stoffer angivet
+den korteste Bølgebredde i liver af Grupperne
+i Ångström Enheder og tillige den Spænding V
+i Kilovolt, man maa anvende paa Røret for at
+fremkalde den paagældende Del af Spektret.
+<table>
+<td 8 c>Tabel I.
+<td v2 c>Nr.<td v2 c>Stof<td c>λ<sub>K</sub><td c>V<sub>K</sub><td c>λ<sub>L</sub><td c>V<sub>L</sub><td c>A<sub>M</sub><td c>V<sub>M</sub>
+<td>Ångström<td>Kilovolt<td>Ångström<td>Kilovolt<td>Ångström<td>Kilovolt
+<td>13<td>Aluminium<td r>7,95<td r>1,5<td r>—<td r>—<td r>—<td r>—
+<td>29<td>Kobber<td r>1,38<td r>8,9<td r>—<td r>—<td r>—<td r>—
+<td>35<td>Brom<td r>0,92<td r>13,5<td r>8<td r>1,8<td r>—<td r>—
+<td>47<td>Sølv<td r>0,48<td r>25,5<td r>3,3<td r>3,8<td r>—<td r>—
+<td>56<td>Barium<td r>0,33<td r>37,4<td r>2,1<td r>6,0<td r>—<td r>—
+<td>74<td>Wolfram<td r>0,18<td r>69,3<td r>1,0<td r>12,1<td r>7,0<td r>2,8
+<td>78<td>Platin<td r>0,16<td r>78,1<td r>0,89<td r>13,9<td r>6,0<td r>3,3
+<td>92<td>Uran<td r>0,11<td r>115<td r>0,56<td r>21,7<td r>3,9<td r>5,5
+</table>
+
+Størst Interesse i Praksis har Wolfram's
+K-Straaling, der, naar Spændingen paa Røret
+overstiger 69 Kilovolt, føjes til de kontinuerte R. fra
+W-antikatoden og ved højere Spænding udgør
+en stedse større Brøkdel af hele den fra Røret
+udsendte Straaling.
+
+R.'s <sp>Absorption</sp>. Til at karakterisere
+denne i et bestemt Stof indføres
+Absorptionskoefficienten μ, der betyder den Brøkdel af den
+indfaldende Straaling, som absorberes i et Lag
+af Stoffet af 1 cm Tykkelse. Denne Definition
+er dog kun rigtig ved svag Absorption, idet
+Forholdet er det, at et Lag af en vis Tykkelse
+altid absorberer en bestemt Brøkdel af den i
+dette indfaldende Straaling; ved stærk
+Absorption er Straalingen allerede svækket saa meget
+i den sidste Del af et 1 cm tykt Lag, at der dér
+er mindre at absorbere af. Det nøjagtige
+Udtryk for Intensiteten af en Straaling, efter at
+den har passeret et Lag af Tykkelsen x cm af
+et Stof med Absorptionskoefficienten μ, er I =
+I<sub>o</sub>e<sup>—μx</sup>, hvor I<sub>0</sub> er den opr. Intensitet og e
+Grundtallet for de naturlige Logaritmer. Mere
+anskuelig end μ er Halveringstykkelsen d, det
+Stoflag der skal anvendes for at svække
+Intensiteten til det halve; d = 0,69/μ cm. Hyppigt
+angiver man ikke μ, men μ/ρ, hvor ρ er Stoffets
+Vægtfylde. Medens μ karakteriserer
+Absorptionen i et 1 cm tykt Lag, karakteriserer μ/ρ
+Absorptionen pr. g af Stoffet. I teoretiske
+Beregninger bruges α = μ/ρ · A/M, hvor A er
+Atomvægten af Stoffet og M Antallet af Molekyler i et
+Grammolekyle. Denne Størrelse karakteriserer
+Absorptionen i det enkelte Atom. — Svækkelsen
+af R. sker af to Aarsager, dels absorberes de
+virkelig, d. v. s. deres Energi omdannes til
+andre Energiformer i det absorberende Stof, dels
+spredes de til alle Sider uden at undergaa
+nogen kvalitativ Ændring, paa samme Maade
+som Lys svækkes ved at gaa gennem Taage ell.
+Mælkeglas o. l. Disse to Aarsager til Svækkelse
+virker altid sammen, men det lader sig
+nogenlunde gøre at adskille dem, saa at man kan
+sætte μ/ρ = τ/ρ + σ/ρ, hvor τ/ρ maaler den egl.
+Absorption og σ/ρ Spredningen; paa samme
+Maade kan Absorptionen pr. Atom α sættes = α<sub>τ</sub>
++α<sub>σ</sub>. Hvad den egl. Absorption angaar, er
+Hovedspørgsmaalet, hvordan τ afhænger af det
+absorberende Stof og af den absorberede R. Vi
+maa da se paa, hvad der egl. sker, naar R.
+absorberes. Det eneste, der kan ske, er, at en
+Elektron i det Atom, som R. passerer, flyttes
+udefter, altsaa at Atomet bringes over i højere
+Energiniveauer, og da de fleste og i hvert Fald
+alle de indre af de mulige Elektronbaner i
+Atomet er fuldt besatte, vil det sige, at den enten
+flyttes ud til de alleryderste Baner ell. helt
+bort fra Atomet, hvilket energetisk betyder
+omtr. det samme, da de yderste Elektroner er
+saa løst bundne. De indfaldende R. løsriver
+altsaa Elektroner fra de passerede Atomer (de
+ved K-Abs, L-Abs o. s. v. betegnede Overgange
+i Fig. 12). Derefter udfyldes den tomme Plads
+med en Elektron udefra, hvilket jo giver
+Anledning til Udsendelse af en af Atomets
+karakteristiske R.-linier. Et Atoms karakteristiske
+R.-spektrum kan altsaa, foruden ved at Atomet
+rammes af Elektroner, ogsaa fremkaldes ved, at
+det rammes af R., og ligesom der skulde
+Elektroner af en vis mindste Fart til for f. Eks. at
+fremkalde K.-Spektret, nemlig Elektroner, der
+havde Energi nok til at løsrive en af
+K-Elektronerne, saaledes skal der ogsaa R. af en vis
+mindste Haardhed dertil. Da nemlig
+Energiomsætninger mellem R. og Atomer altid sker i
+Kvanter, skal hv for de indfaldende R. mindst
+være lig den Energi, der skal til for at løsrive
+K-Elektronen, hvilket igen betyder, at Straalerne
+skal være mindst lige saa haarde som ell. rettere
+lidt haardere end den haardeste Linie i
+K-Spektret. Thi de indfaldende R. skal kunne fjerne
+en K-Elektron helt, men den haardeste K-Linie
+faas, ved at en af de yderste Elektroner falder
+ind til K-Banen, hvorved der frigøres lidt
+mindre Energi. Er de indfaldende R.'s
+Bølgebredde ikke kort nok dertil, da sidder
+K-Elektronerne helt upaavirkede, saa at der
+højst kan være Tale om, at en L-, M- o. s. v.
+Elektron løsrives, hvorved L-, M- o. s. v.
+Spektret fremkaldes. Er de indfaldende R. omvendt
+meget for haarde, saa at hv er meget større,
+end hvad der kræves for at løsrive en
+K-Elektron, løsrives den alligevel, men den faar saa
+Overskuddet af Energi, saa at den samtidig
+faar Fart. Denne Energi bliver til sidst til
+Varme, naar Elektronen har mistet Farten. Men
+jo større den indfaldende Straalings Haardhed
+ell. hv er, des mindre er Sandsynligheden for,
+at der sker en Løsrivelse, des mindre er altsaa
+Absorptionen. Vi kommer derfor til det i Fig.
+14 og 15 viste Forløb af den virkelige
+Absorptionskoefficient i Afhængighed af de indfaldende
+R.'s Bølgebredde. (Fig. 14 viser selve
+Absorptionskoefficientens Forløb, men man faar
+bedre Oversigt ved som i Fig. 15 at afsætte log.
+til Absorptionskoefficienten som Funktion af
+log. til λ Fig. 15 er en skematisk Figur,
+Fremstillingen i Fig. 14 har den Fordel, at man faar

@@ -1,0 +1,93 @@
+<chapter name="Fræse">
+<b>Fræse,</b> Omdrejningslegeme af hærdet Staal
+forsynet med Ægge, stillede efter Meridianerne, 
+og bestemt til at bearbejde Metallerne,
+navnlig paa saadanne Steder, hvor man ikke kan
+komme til at dreje og høvle dem. Navnet
+hidrører fra, at F. opr. var formet som en
+jordbærlignende Dup (Jordbær, fr. <i>fraise</i>); nu har
+F. alle mulige Former. Specielt mærkes de
+skivedannede Tandfræser, som med deres Kant
+udarbejder ell. eftergaar Mellemrummene
+mellem to og to Tænder paa Tandhjul.
+Tandfræsens egne Tænder er i Konturen
+spiraldannede, man opnaar derved baade Slip, og at F.
+beholder sin Form, naar den slibes.
+
+<img></img>
+Fig. viser en cylindrisk F., som ogsaa skærer
+med Endefladen; ved de nyere cylindriske F.
+er Tænder i Skrueform alm. F. havde opr.
+mange og smaa Tænder, som fremstilledes ved
+Filning; blev den sløv, maatte, den afhærdes
+ved Udglødning, opfiles og hærdes paa ny,
+hvorved den let kastede sig og derved blev
+ubrugelig. Efter amer. Mønster giver man nu F. store
+Tænder og skærper dem, naar de sløves, ved
+Slibning paa Smergelskiver; for at gøre
+Skærpningen yderligere let anvendes ogsaa F.,
+bestaaende af et Knivhoved med paaskruede løse
+Tænder ell. Staal; dette er navnlig alm. ved F. til
+Træ. F. anvendes undertiden i Borsving for at
+rømme et Hul op, langt oftere i en Fræsemaskine.
+Under Arbejdet har F. altid en
+omdrejende Bevægelse, der, naar Genstanden er af
+Træ, ofte er meget hurtig, fl. Tusinde Gange i
+Minuttet; alt efter Omstændighederne giver man
+F. ell. Stykket den fremskridende Bevægelse.
+Masseproduktion af sammensatte Mekanismer,
+f. Eks. Geværlaase, er betinget af systematisk
+Fræsning; den enkelte Del passerer herved i
+Reglen mange F., og Fræseprocesserne tælles
+for den færdige Genstand i Hundredevis. 
+<i>F. W.</i>
+</chapter>
+
+<chapter name="Fræsemaskine">
+<b>Fræsemaskine,</b> Værktøjsmaskine til Træ og
+Metaller, hvis arbejdende Del er en Fræse. F.
+til Træ kan simpelt hen være et Bord, gennem
+hvilket der er stukket en lodret Aksel, som
+over Bordet har en Fræse. Akslen ell. Bordet
+kan være til at stille op og ned; af Hensyn til
+Træets »Groning« maa man, særlig naar man
+vil arbejde efter krumme Linier, enten kunne
+lade Akslen løbe i begge Omdrejningsretninger
+ell. have to Aksler paa samme Bord; da
+Fræsens Diameter er lille, kan man komme op til
+saa stort et Omdrejningstal som 7500 (i Min.).
+Kraftbehovet naar oftest ikke  1  HK.
+
+F. til Metaller er en Del mere sammensatte,
+da Arbejdsstykket ikke, som det er Regel ved
+Træfræsemaskiner, føres med Haanden, men
+fastspændes til Maskinen og ofte føres af denne.
+Fræseakslen, der oftest er vandret, men dog
+ogsaa kan være lodret ell. hældende, udfører
+altid <sp>Hovedbevægelsen</sp>, den
+omdrejende, men Flytningen paa Arbejdsstykket, 
+<sp>Sidebevægelsen</sp>, kan enten foretages af dette
+eller af Fræseakslen. I første Tilfælde er
+Arbejdsstykket spændt op paa et Apparat, der
+ligner Drejemaskinens Forsætter, idet det
+tillader en Bevægelse i to vinkelret paa hinanden
+staaende Planer, som automatisk tilvejebringes
+
+<img>Fig. 1. Metalfræsemaskine.</img>
+
+ved Klinkning, ell. det spændes mellem Dukker,
+som er fastspændte oven paa det nævnte
+Apparat, og kan altsaa drejes. En F., hvor Fræsen
+ell. Arbejdsstykket tillader alle disse
+Bevægelser, kaldes <sp>Universalfræsemaskine</sp>.
+Periferihastigheden er 150—250 mm i Sekundet
+
+<img>Fig. 2. Universalfræsemaskine.</img>
+
+efter det Metal, hvoraf Arbejdsstykket er,
+Sidebevægelsen er 0,1—1,5 mm for hver Omdrejning.
+Kraftbehovet regnes til  ½-1 HK.
+
+Fig. 1 viser en alm. Metalfræsemaskine med
+horisontal Aksel<i> a b</i>, monteret aldeles som
+Spindelen paa en Drejemaskine med Trappeskive

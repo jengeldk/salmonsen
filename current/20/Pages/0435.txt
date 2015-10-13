@@ -1,0 +1,71 @@
+<img>ROSKILDE</img>
+<table>
+<td r>1.<td><i>Skt. Hans Hospital</i>
+<td r>2.<td><i>Kommuneskole</i>
+<td r>3.<td><i>Skt. Jørgensbjerg Kirke</i>
+<td r>4.<td><i>Alderdomshjem</i>
+<td r>5.<td><i>Vandværk</i>
+<td r>6.<td><i>Elektricitetsværk</i>
+<td r>7.<td><i>Toldsted</i>
+<td r>8.<td><i>Gasværk</i>
+<td r>9.<td><i>Byparken</i>
+<td r>10.<td><i>Skt. Ibs Kirke (Kapel)</i>
+<td r>11.<td><i>»Trægaarden« (Restauration)</i>
+<td r>12.<td><i>Birte Margretes Anlæg</i>
+<td r>13.<td><i>Klostermarken</i>
+<td r>14.<td><i>Katolsk Kirke</i>
+<td r>15.<td><i>Domprovstebolig</i>
+<td r>16.<td><i>Stiftsbibliotek</i>
+<td r>17.<td><i>Meyercrones Stiftelse</i>
+<td r>18.<td><i>Domkirke</i>
+<td r>19.<td><i>Borgerstiftelsen</i>
+<td r>20.<td><i>Vandværk</i>
+<td r>21.<td><i>Sygehus (militært)</i>
+<td r>22.<td><i>Teknisk Skole</i>
+<td r>23.<td><i>Kommuneskole</i>
+<td r>24.<td><i>Spritfabrik</i>
+<td r>25.<td><i>Skærvefabrik</i>
+<td r>26.<td><i>Andelssvineslagteri</i>
+<td r>27.<td><i>Ting- og Arresfhus, Dommerkontor</i>
+<td r>28.<td><i>Vandtaarne</i>
+<td r>29.<td><i>Apotek</i>
+<td r>30.<td><i>Raadhus og Statspolitikontor</i>
+<td r>31.<td><i>Katedralskole</i>
+<td r>32.<td><i>Duebrødre Hospital</i>
+<td r>33.<td><i>Palæet</i>
+<td r>34.<td><i>Landbobank</i>
+<td r>35.<td><i>Sparekasse for Roskilde og Omegn</i>
+<td r>36.<td><i>Apotek</i>
+<td r>37.<td><i>Duebrødre Kloster (Stiftelse og kommunalt Bibliotek)</i>
+<td r>38.<td><i>Kommuneskole</i>
+<td r>39.<td><i>Vor Frue Kirke</i>
+<td r>40.<td><i>Fattiggaard</i>
+<td r>41.<td><i>Katolsk-apostolisk Kirke</i>
+<td r>42.<td><i>Toldkammer</i>
+<td r>43.<td><i>Jernbanehotellet</i>
+<td r>44.<td><i>Kommunal Badeanstalt</i>
+<td r>45.<td><i>Højskolehjem</i>
+<td r>46.<td><i>Roskilde Bank</i>
+<td r>47.<td><i>Hotel »Prinsen«</i>
+<td r>48.<td><i>Roskilde Borger-. Haandværker- og Industriforening</i>
+<td r>49.<td><i>Alderdomshjem</i>
+<td r>50.<td><i>Forberedelsesskole til Katedralskolen</i>
+<td r>51.<td><i>Skt. Maria Hospital (Sygehus)</i>
+<td r>52.<td><i>Skt. Josefs Skole (katolsk)</i>
+<td r>53.<td><i>Roskilde Jomfrukloster</i>
+<td r>54.<td><i>Posthus og Telegrafstation</i>
+<td r>55.<td><i>Grand Hotel</i>
+<td r>56.<td><i>Højskolehotel</i>
+<td r>57.<td><i>Rødeport</i>
+<td r>58.<td><i>Kromlæderfabrik</i>
+<td r>59.<td><i>Garveri</i>
+<td r>60.<td><i>Dyrskueplads</i>
+<td r>61.<td><i>Epidemisygehus (kommunalt)</i>
+<td r>62.<td><i>Menighedssygehus</i>
+<td r>63.<td><i>Tuberkulosehospital</i>
+<td r>64.<td><i>Amtssygehus, Arbejdsanstalt</i>
+<td r>65.<td><i>Epidemisygehus (Amtets)</i>
+<td r>66.<td><i>Danske Landboforeningers Frøforsyning</i>
+<td r>67.<td><i>Offentligt Slagtehus</i>
+<td r>68.<td><i>Vandværk</i>
+</table>

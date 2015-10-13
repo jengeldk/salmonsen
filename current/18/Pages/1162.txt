@@ -1,0 +1,25 @@
+<table>
+<td 7 c><sp>BIND XVII</sp>.
+<td>Side<td r>136,<td>Spalte<td>1,<td>Linie<td r>17 f. o.<td>Laksesild læs: Lakesild
+<td c>—<td r>171,<td c>—<td>1,<td c>—<td r>6 f. o.<td>tapre Gerninger læs: tapre Bedrifter
+<td c>—<td r>311,<td c>—<td>2,<td c>—<td r>34 f. o.<td>25. læs: 28.
+<td c>—<td r>340,<td c>—<td>2,<td c>—<td r>32 f. o.<td>»russiske« udgaar
+<td c>—<td r>371,<td c>—<td>1,<td c>—<td r>6 f. o.<td>n læs: <sp>lin</sp>
+<td c>—<td r>475,<td c>—<td>2,<td c>—<td r>27 f. n.<td>Satisfikation læs: Satisfaktion
+<td c>—<td r>643,<td c>—<td>2,<td c>—<td r>21 f. n.<td>1796 læs: 1769
+<td c>—<td r>690,<td c>—<td>2,<td c>—<td r>19 f. n.<td>Kilauca læs: Kilauea
+<td c>—<td r>866,<td c>—<td>2,<td c>—<td r>30 f. n.<td>Puppulus læs: Populus
+<td c>—<td r>1091,<td c>—<td>2,<td c>—<td r>26 f. n.<td>Øernes læs: Øens
+<td c>—<td r>1092,<td c>—<td>1,<td c>—<td r>1 f. o.<td>»om« udgaar
+</table>
+
+<table>
+<td 7 c><sp>BIND XVIII</sp>.
+<td>Side<td r>280,<td>Spalte<td>1,<td>Linie<td r>3 f. n.<td>550 (Sværd) læs: 100
+<td c>—<td r>329,<td c>—<td>1,<td c>—<td r>34 f. n.<td>og Linie 22 f. n. Rubner læs: Rübner
+<td c>—<td r>936,<td c>—<td>1,<td c>—<td r>13 f. n.<td><sp>Chryzostomo</sp> læs: <sp>Chryzostom</sp>
+<td c>—<td r>936,<td c>—<td>1,<td c>—<td r>11 f. n.<td>c. 1702 læs: 1701
+<td c>—<td r>936,<td c>—<td>2,<td c>—<td r>4 f. o.<td> <sp>Roszniecki</sp> læs: <sp>Rosznecki</sp>
+<td c>—<td r>936,<td c>—<td>2,<td c>—<td r>6 f. o.<td>1895 læs: 1896
+</table>
+</chapter>

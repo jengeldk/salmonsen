@@ -1,0 +1,100 @@
+<table>
+<td><br><tab><sp>Detailhandel</sp>:<td c>Antal<br>Virksomheder<td c>Samlet<br>Personel<td c>Kontor- og<br>Butikspersonale<td c>Omsætning<br>1000 Kr.
+<td>Købmandshandel, Brugsforeninger m. v.<td r>1777<td r>3460<td r>1178<td r>103928
+<td>Brød, Mælk m. v.<td r>1574<td r>2786<td r>1314<td r>111469
+<td>Smør, Æg, Ost<td r>344<td r>842<td r>548<td r>35234
+<td>Kød, Viktualier<td r>1092<td r>1964<td r>1102<td r>114383
+<td>Fisk, Vildt, Fjerkræ<td r>304<td r>493<td r>110<td r>13271
+<td>Kaffe, Te, Konfekturer<td r>643<td r>1279<td r>636<td r>22825
+<td>Tobak, Vin<td r>1404<td r>2102<td r>473<td r>58982
+<td>Frugt, Grønt, Blomster<td r>1165<td r>1955<td r>622<td r>39328
+<td>Apoteker<td r>49<td r>598<td r>422<td r>7543
+<td r>I alt Næringsmiddelhandel<td r>8352<td r>15479<td r>6405<td r>506963
+<td>Manufaktur m. v.<td r>1911<td r>6704<td r>4884<td r>223458
+<td>Fodtøj<td r>577<td r>895<td r>486<td r>27533
+<td r>I alt Beklædningshandel<td r>2488<td r>7599<td r>5370<td r>250991
+<td>Bygningsartikler<td r>332<td r>1088<td r>541<td r>48470
+<td>Møbler, Indbo<td r>918<td r>1291<td r>487<td r>44664
+<td>Guld- og Sølvvarer, Optik<td r>300<td r>503<td r>260<td r>15255
+<td>Isenkram, Glas, Porcellæn<td r>375<td r>1339<td r>768<td r>28954
+<td>Sæbe, Sygeplejeartikler<td r>293<td r>606<td r>425<td r>12121
+<td>Papirhandel<td r>560<td r>1764<td r>854<td r>31399
+<td>Automobiler, Cykler<td r>310<td r>600<td r>358<td r>30005
+<td>Maskiner, Værktøj, Symaskiner<td r>108<td r>530<td r>376<td r>24958
+<td>Kul, Koks, Brænde, Olie, Benzin<td r>133<td r>386<td r>62<td r>18032
+<td>Andre Varer<td r>512<td r>629<td r>129<td r>11449
+<td r>Detailhandel i alt<td r>14681<td r>31814<td r>16035<td r>1023261
+<td><br><tab><sp>Restaurationsvirksomheder</sp>:
+<td>Hoteller, Gæstgiverier<td r>72<td r>1229<td r>70<td r>11725
+<td>Restaurationer, Pensionater<td r>1094<td r>6228<td r>153<td r>74319
+</table>
+
+Den samlede Indførsel til K. havde i 1928 en
+Værdi af 902 Mill. Kr. eller 52 % af Danmarks
+samlede Indførsel. Tallet er forholdsvis lavere
+nu end tidligere.
+
+Bankerne i Hovedstaden (herunder
+Frederiksberg og Gjentofte) havde pr. 31. Decbr. 1929
+en Aktiekapital paa 201 Mill. Kr., medens
+Landets øvrige Banker havde 109 Mill. Kr.
+Sparekassernes Indestaaende udgjorde i
+Hovedstaden 563 Mill. Kr. og 1474 Mill. Kr. i Landets
+øvrige Sparekasser.
+
+Statsbanerne befordrede i 1928—29 i
+Nærtrafikken 6,2 Millioner Rejsende og i
+Fjerntrafikken 2,3 Millioner. Hertil kommer 624000 med
+Amagerbanen og 535000 med
+Slangerupbanen.
+
+Lufttrafikken befordrede i 1929 i alt 6193
+Passagerer, 17 t Postgods, 86 t Rejsegods, 100 t
+Gods. Ved Rundflyvninger befordredes 790
+Passagerer.
+
+Sporvejenes samlede Længde var i 1929 i alt
+97 km, og der befordredes 152 Milioner
+Passagerer.
+
+Af almindelige Personautomobiler optaltes pr.
+30. September 1929 i alt 8988, af
+Ruteautomobiler og Omnibusser 85, Drosker m. v. 1299,
+Vare- og Lastautomobiler 5153 og Motorcykler
+4214.
+
+Den samlede indgaaede Godsmængde med
+Skibsfarten var 4,3 Milion t i 1928, hvoraf 1,2
+Millioner til Frihavnen. Fra Udlandet kom de
+3,7 Millioner og fra Indlandet 0,6 Millioner.
+Den udgaaede Mængde var 1,3 Millioner, heraf
+0,3 Millioner fra Frihavnen. Til Udlandet gik
+0,8 Millioner og til Indlandet 0,5 Millioner. Af
+det indgaaede Gods var 1,7 Miliioner Kul m. v.
+og 0,2 Millioner Korn.
+
+Handelsflaaden bestod pr. 31. Decbr 1929 af
+312 Dampskibe (paa mindst 20 R. T. brutto)
+med i alt 296030 R. T. netto, 53 Motorskibe med
+142884 R. T., 29 Sejlmotorskibe med 2682 R. T.
+og 10 Sejlskibe med 928 R. T. Af
+indregistrerede Fiskerfartøjer var 163 Sejlskibe med 282
+R. T. og 137 Motorskibe med 387 R. T.
+<i>H. S.</i>
+</chapter>
+
+<chapter name="Kjøbenhavn (Haandværk og Industri)">
+<b>Haandværk og Industri.</b>
+
+Ved Erhvervstællingen i 1925 optaltes i K.
+og Frederiksberg 16941 Virksomheder med
+et samlet Personel paa 142922, hvoraf 14745
+var Indehavere, Direktører m. v., 6902 Kontor-
+og Butikspersonale, 7795 overordnet teknisk
+Personale, 105916 egentlig industrielle Arbejdere
+(heraf 37418 Kvinder), 7564 Hjælpepersonale.
+4932 Virksomheder anvendte mekanisk Kraft, i
+alt 16089 Maskiner med 115138 H. K.
+Fordelingen paa de forskellige Industrigrene og
+Virksomhedsstørrelser fremgaar af følgende
+Oversigt.

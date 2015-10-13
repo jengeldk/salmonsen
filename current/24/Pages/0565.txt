@@ -1,0 +1,115 @@
+Kalorimetret. Det fremgaar heraf, at de absolut
+reversible Processer ikke virkelig fuldt ud kan
+udføres i Praksis, men at de er tænkte ideale
+Grænsetilfælde. Derimod lader de sig let
+<sp>beregne</sp>, meget lettere end de virkelige
+Processer, idet vi slipper for at tage Hensyn til
+Gnidning, Overtryk etc. og blot ved
+Beregningen af Arbejdet skal anvende samhørende
+Værdier for Tryk, Rumfang og Temperatur, som de
+forefindes under Ligevægtstilstande, altsaa
+netop under saadanne Omstændigheder, hvorunder
+Maalingerne af disse Størrelser udføres i de
+fysiske Laboratorier. Forholdet er analogt med
+de matematiske Begreber, som ret Linie,
+Terning, Kugle o. s. v., der jo heller ikke strengt
+kan <sp>fremstilles</sp> i de virkelige Legemers
+Verden, men som det er meget let at regne
+med, lettere end med de virkelige Linier,
+Terninger o. s. v.
+
+<sp>Carnot's Kredsproces</sp>. Vi vil nu
+undersøge Konsekvenserne af Sætningen om
+Umuligheden af et <i>perpetuum mobile</i> af 2. Art
+anvendt paa en Carnot's Kredsproces. Derved
+forstaas en idealiseret Efterligning af den
+Kredsproces, som Vandet udfører i en Dampmaskine
+med Kondensator. Vi tænker os en vis
+Vandmasse i en Cylinder med Stempel samt to
+Varmebeholdere ved Temperaturerne <i>T</i> og <i>T″</i>, som
+vi henholdsvis betegner som Kedel og
+Kondensator. Varmebeholderne forudsættes saa store,
+at deres Temperatur ikke ændres kendelig ved
+den V., de afgiver til eller modtager fra
+Cylinderen med Vandet. Vi følger Kredsprocessens
+4 Afdelinger ved et Tryk (<i>p</i>), Rumfang
+(<i>v</i>)-Diagram. 1) <sp>Fordampning ved
+Kedeltemperaturen T.</sp>: Cylinderen befinder sig
+i Kedelbeholderen, og Stemplet bevæger sig
+udad fra en inderste Stilling <i>v</i>0, hvor der kun
+er Vædske i Cylinderen, til en yderste Stilling
+<i>v</i>1, hvor alt Vandet er blevet omdannet til
+mættet Damp. Herved modtager det
+Varmemængden <i>Q</i> frn Kedlen. Processen svarer til, at
+Vandet i Kedlen fordamper ind i Dampmaskinens
+Cylinder. 2) <sp>Udvidelse uden
+Varmetilførsel fra Kedeltemperaturen</sp>
+<i>T</i> <sp>til Kondensatortemperaturen</sp>
+<i>T</i>″: Cylinderen tages ud af Kedlen og
+varmeisoleres. Dampen udvider sig og arbejder, da
+Varmetilførselen er Nul, paa Bekostning af sin
+indre Energi, hvorved dens Temperatur
+synker. Denne Proces svarer til Ekspansion uden
+Damptilførsel fra Kedlen. Naar Temperaturen
+har naaet <i>T</i>″. standses Udvidelsen, og
+Cylinderen anbringes i Kondensatoren. 3)
+<sp>Fortætning ved
+Kondensatortemperaturen</sp> <i>T</i>″: Stemplet skydes ind, indtil Vandet er
+fortættet paa en passende Rest nær. Derved
+afgives Varmemængden <i>Q</i>' til Kondensatoren.
+Processen svarer til Dampens Fortætning i
+Kondensatoren. 4) <sp>Sammentrykning
+uden Varmetilførsel fra</sp> <i>T</i>″ <sp>til</sp> <i>T</i>.:
+Fortætningen i Kondensatoren er tænkt
+standset paa et saadant Punkt, at en
+Sammentrykning uden Varmetilførsel vil bringe
+Temperaturen op til <i>T</i>. samtidig med at Resten af
+Dampen fortættes. Vi ender saaledes med at være
+kommet tilbage til Begyndelsestilstanden, hvor
+vi har Vand alene ved Temperaturen <i>T</i>.
+Processen, der ligesom 2) maa foregaa
+varmeisoleret uden for Varmebeholderne, svarer i
+Dampmaskinen til, at Vandet pumpes fra
+Kondensatoren tilbage til Kedlen.
+
+Vi bemærker, at den her beskrevne
+Kredsproces er reversibel. Lod man den foregaa i
+modsat Retning, havde vi en Kuldemaskine,
+som tog Varmemængden <i>Q</i>' fra den kolde
+Kondensator og afgav Varmemængden <i>Q</i> til den
+varme Kedel.
+
+Tænker vi foreløbig paa den direkte Proces,
+har vi ved den vundet et Arbejde A. som ifølge
+1. Hovedsætning maa være lig <i>J</i>(<i>Q</i>-<i>Q</i>'), da
+Vandets Energitilvækst 1<i>U</i> er Nul, eftersom
+Begyndelses- og Slutningstilstanden falder
+sammen. (Efter hvad der er omtalt ved <i>p</i>,
+<i>v</i>-Diagrammet for den indespærrede Luftmasse, er
+Arbejdet lig med det omkredsede Areal). Da
+man ved Dampmaskinen er interesseret i at
+faa det størst mulige Arbejde ud af den V.,
+som tilføres i Kedlen, danner man Forholdet
+<i>A</i>/<i>J Q</i> og betegner det som Maskinens termiske
+Nyttevirkning (Virkningsgrad). Man kunde nu
+tænke sig at faa en større Nyttevirkning for
+samme <i>T</i> og <i>T</i>″ ved at anvende et andet Stof i
+Stedet for Vand. Lad os antage, at f. Eks. en
+Æterdampmaskine for samme Varmemængde <i>Q</i>
+fra Kedlen gav et større Arbejde <i>A</i>' end
+Vanddampmaskinen. Den maatte i saa Fald afgive
+mindre Varme <i>q</i>' til Kondensatoren, idet vi
+efter 1. Hovedsætning maa have <i>A</i>' = <i>J</i> (<i>Q</i>—<i>q</i>').
+Det skal nu vises, at denne Antagelse bringer
+os i Strid med Sætningen om Umuligheden af
+et <i>perpetuum mobile</i> af 2. Art.
+
+Vi kunde nemlig lade de to Maskiner arbejde
+samtidig, Ætermaskinen som Dampmaskine,
+Vandmaskinen som Kuldemaskine. Efter en hel
+Periode vilde Vandet og Æteren være i deres
+oprindelige Tilstand, Kedlen vilde have afgivet
+Varmemængden <i>Q</i> til Æteren, men samtidig
+modtaget <i>Q</i> fra Vandet, den vilde altsaa være
+
+<img>Fig. 2.</img>

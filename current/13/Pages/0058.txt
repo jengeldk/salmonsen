@@ -1,0 +1,142 @@
+iværksættes enten ved en Indstøbning af
+Søjlen i et Betonfundament ell. ved en nittet
+Søjlefod, der ved lange Ankerbolte forankres
+ned i Fundamentet.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Jerntab">
+<b>Jerntab</b> er det Energitab, der i elektriske
+Maskiner foraarsages ved <sp>Hysterese</sp> og
+<sp>Hvirvelstrømme</sp> i de magnetisk
+virksomme Jerndele, der er Genstand for skiftende
+Magnetisering, for Jævnstrømsmaskinens Vedk.
+Ankeret, for Vekselstrømsmaskinens Vedk. i
+Alm. Statoren (se <sp>elektriske Maskiner</sp>).
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Jerntinktur">
+<b>Jerntinktur,</b> Opløsninger af Jernpræparater
+i Vinaand ell. Æter.
+<i>E. K.</i>
+</chapter>
+
+<chapter name="Jerntraad">
+<b>Jerntraad</b> fremstilles baade af Svejsejern
+og Staal ved, at Materialet først valses ned til
+3 à 6 mm (<sp>Valsetraad</sp>) paa et Valseværk,
+hvor den som en glødende Slange bugter sig
+og bliver tyndere og gaar hurtigere frem, hver
+Gang den har passeret et Valsepar. Derpaa
+rulles den sammen i Nøgler, udglødes, beidses
+i fortyndet Svovlsyre, renses for Glødskal,
+dyppes i Kalkvand (hvorved Syren fjernes) og
+anbringes paa Trækkebænkens Hasp. Ud for
+denne findes en lodret Plade af meget haardt
+Digelstaal, forsynet med koniske Huller af
+forsk. Diameter. Traadenden tilspidses og
+stikkes ind gennem et Hul, hvis Diameter er lidt
+mindre end Traadens, og fastklemmes paa den
+anden Side i en Klo, der med en kort Kæde
+er befæstet til en lodret Tromle, som derefter
+sættes i Rotation og trækker J. gennem
+Hullet; det nydannede Nøgle skydes af Tromlen
+og sættes paa Haspen for at trækkes gennem
+et snævrere Hul o. s. v. Der smøres med
+Sæbepulver, og er Traaden tynd, dyppes den i
+Kobbersulfat, hvorved den overtrækkes med
+Kobber, der virker som ekstra Smøring.
+Trækningen bibringer J. en meget stor Styrke, men
+gør den samtidig stiv og skør; disse
+Virkninger kan fjernes ved Udglødning, og en saadan
+foretages fra Tid til anden mellem
+Trækningerne. Undertiden udglødes ogsaa efter sidste
+Trækning, og man skelner derfor imellem
+<sp>haardtrukken</sp> J., der bruges, hvor
+Styrken ell. Stivheden spiller en Rolle (Telegraf-
+og Telefontraad til store Spændvidder,
+Traadtove, Cykeleger, Traad til Klaverstrenge og
+Murstensmaskiner, Traadstifter, Træskruer,
+Kroge, Fjere, Haarnaale o. s. v.), og
+<sp>udglødet</sp> J., der bruges, hvor Bøjeligheden har
+Bet. (Telegraftraad til smaa Spændvidder,
+Hegnstraad, Traad til Armering af Kabler,
+Flaske-, Blomster-, Bindetraad til Jernbeton,
+J. til Traad væv o. s. v.). Undertiden trækker
+man tyndt Rundjern blot for at give det
+Stivhed ell. tilvejebringe en nøjagtig Diameter
+og glat Overflade, saaledes at en Afdrejning
+spares (<sp>komprimeret Akselstaal</sp>).
+Den haardtrukne J. er blank, medens den
+udglødede er sort, hvis den da ikke som
+Blomstertraad er poleret efter Glødningen. Ofte
+forsynes J. med et Overtræk af Zink (Hegns-,
+Telegraftraad, Traad til Tove), Tin
+(Flasketraad), Kobber (Møbelfjere), Bly, Nikkel eller
+Messing; Styrken vokser med J.'s Kulholdighed
+og med aftagende Diameter; den kan stige
+indtil 26000 Atm. J. af stof Styrke fremstilles
+af Digelstaal og bliver efter Trækningen
+underkastet en Forædlingshærdning ved at
+trækkes gennem et Bad af glødende Bly og
+derefter gennem Olie, der hærder, og sluttelig
+gennem mindre hedt Bly, der anløber.
+
+J.'s Tykkelse maales med en Traadlære, et
+Staalblad (se Fig.) med Indsnit i Kanten;
+Indsnittene har Numre, og med disse benævnes J.
+Der haves forsk. Traadlærer; i England
+bruges siden 1884 <i>Legal Standard Wire Gauge</i>,
+der kort betegnes <i>W. G.</i>, og hvori Nr 0 er
+8,23 mm, Nr 50 er 0,025 mm; i Nordtyskland
+bruges <sp>Stub's Gauge</sp>, i Frankrig <i>Jauge de
+Paris</i> o. s. v. Se ogsaa <sp>Profiltraad</sp> og
+<sp>Traadprøvning</sp>.
+
+<img></img>
+<i>(F. W.). E. Su.</i>
+</chapter>
+
+<chapter name="Jerntraadshegn">
+<b>Jerntraadshegn</b> anvendes som
+Hindringsmiddel (s. d.) i stor Udstrækning, særlig i
+Form af Pigtraadshegn (s. d.).
+<i>Sch. P.</i>
+</chapter>
+
+<chapter name="Jerntraadstove">
+<b>Jerntraadstove</b> fremstilles af Jerntraad; da
+Traadmaterialet nu om Stunder altid er Staal,
+benævnes de hyppigt Staaltraadstove. Næsten
+1/8 af alt det smedelige Jern, der fremstilles,
+trækkes til Traad, og største Parten af denne
+bruges til Tovværk, der finder Anvendelse,
+hvor Hampetove vilde blive for dyre og tunge.
+J. vejer kun c. 1/9 af, hvad en Kæde med
+samme Styrke vejer, men de er mindre varige
+(Varigheden af Transmissionstove er 2—3 Aar)
+og beskadiges stærkt af Rust; Tove, der skal
+bruges i fri Luft, fremstilles derfor af
+forzinkede Traade. Til Transmission kan J. kun
+bruges, naar Kraftoverføringen er horisontal;
+Tovskiverne maa ligge nøjagtigt i samme lodrette
+Plan og i en indbyrdes Afstand af mindst 16
+og højst 100 m. Ved Fabrikation af
+Transmissions- og Ophejsningstove gælder det om at
+forene Styrke og Bøjelighed i saa høj Grad
+som muligt. Bøjeligheden opnaar man ved at
+bruge tynde Traade, der snos i eet ell. fl. Lag
+uden om en Hampesnor, <sp>Sjælen</sp> ell. Kalven,
+og af de saaledes fremstillede <sp>Dukter</sp> eller
+Parter (Fig. 1, a—c) laves Tovet ved at sno
+5—10 uden om en ny Hampesjæl (Fig. 2).
+Traadtykkelsen ligger gerne mellem 0,3 og 2,6
+mm, og der kan være fra 12—432 Traade i et
+Tov. Skal Tovet bruges til Transmission ell. til
+Ophejsning, maa Traadens Diameter højst
+være henh. 1/1600 og 1/1200 af Tovskivens.
+Traadenes Styrke kan svinge mellem 4000 og 26000
+Atm.; medens man til Barduner, der ikke
+
+<img>Fig. 1.</img>

@@ -1,0 +1,101 @@
+<i>a/b</i> = <i>c/d</i>. Man kalder <i>a, b, c, d</i> P.'s <sp>Led</sp>, <i>a</i>
+og <i>c</i> <sp>Forled</sp>, <i>b</i> og <i>d</i> <sp>Efterled</sp>, <i>a</i> og <i>d</i>
+<sp>Yderled</sp>, <i>b</i> og <i>c</i> <sp>Mellemled</sp>, <i>d</i> siges at
+være <sp>fjerde Proportional</sp> til <i>a</i>, <i>b</i> og <i>c</i>.
+Er Leddene ubenævnte Tal, prøver man P.'s
+Rigtighed ved at undersøge, om Yderleddenes
+Produkt er = Mellemleddenes; efter som denne
+Ligestorhed finder Sted ell. ikke, er nemlig P.
+rigtig ell. gal. Hvis <i>b</i> og <i>c</i> er lige store = <i>x</i>,
+er P. <sp>sammenhængende</sp>, og <i>x</i> = √<i>ad</i>
+siges at være mellemproportional
+mellem <i>a</i> og <i>d</i>. Man kan af P. <i>a/b</i> = <i>c/d</i> danne
+andre, saaledes <i>a—b/b</i> = <i>c—d/d</i>, <i>a/b</i> = <i>a+c/b+d</i>. P.'s
+Led kan være benævnte Tal, forudsat at de to
+Led i samme Forhold — i alt Fald efter en
+Ombytning af Mellemleddene — har samme
+Benævning; Prøven paa Rigtigheden kan saa
+anstilles, efter at Benævningen er kastet Bort. Se
+ogsaa <sp>Harmoniske Proportioner</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Proportion (i Bygningskunsten)">
+<b>Proportion,</b> i Bygningskunsten Forholdet
+mellem en Bygnings Helhed og dens enkelte
+Dele ell. mellem visse Arkitekturled. Ligesom
+man har udtrykt Musikkens Rytme og Harmoni
+matematisk, saaledes har man ogsaa søgt at
+fæstne Arkitekturens P. i aritmetriske og
+geometriske Formler. Allerede i Oldtiden har man
+haft Blik for P. Den klassiske
+Arkitekturforfatter Vitruv omtaler paa fl. St. »Symmetrien«,
+ikke i moderne Bet., men som »Commodulatio«,
+fremgaaende af Proportionerne; ligesom i det
+menneskelige Legeme, saaledes skal ogsaa i et
+Bygværk de enkelte Afsnit være bestemte
+Brøkdele af Helheden; ligesom i de hellige Templer
+som Enhedsmaal tages Søjletykkelsen eller
+Triglyfstørrelsen (og for Kastemaskinerne og
+Skibene henh. Afstandene mellem Borehullerne
+og mellem Aaretollene), saaledes skal man i
+ethvert Værk af dets egne Dele udlede
+Beregningen af dets »Symmetri«. Vitruv bygger paa
+gr. Forgængere, som han kun refererer
+mangelfuldt, og hans Udtryk efterlader megen Tvivl
+om Enkelthederne i Oldtidens Proportionslære.
+Men vi ved, at Grækerne ogsaa i Billedkunsten
+arbejdede med matematiske P. (Polykleit's
+Kanon), og Nutidens Forskninger har godtgjort,
+at de samme Forhold gaar igen i ensartede
+Templer. Man sporer, at man har konstrueret
+Bygningerne i et Firkantnet og givet Detaillerne
+Maal, der kan udtrykkes i hele Tal. I al Fald
+i yngre doriske Templer som Parthenon synes
+man at have arbejdet med det, som senere
+kaldtes det »gyldne Snit«. Sikkert har denne
+Proportionsformel Sammenhæng med
+Pythagoræernes Tallære, idet deres Symbol, den
+regelmæssige Femkant, konstrueres ved Hjælp af det
+gyldne Snit, Delingen af en Linie i en større og
+en mindre Del, der forholder sig til hinanden
+som den større Del til hele Linien (udtrykt i Tal
+8 + 5 = 13). Dette er ganske vist matematisk
+Mystik, men det gyldne Snits Forhold angiver
+en Hovedproportion i det menneskelige Legeme,
+og at ikke blot Konstruktionsnet, men ogsaa
+matematiske Proportionsformler kan have haft
+Bet. for Bygmestrene, er ganske forstaaeligt.
+De har lettet Overførelsen af Tegningen til
+Bygningens store Maal og hjulpet til at fastholde
+konstruktive og æstetiske Erfaringer. I
+Enkelthederne at genfinde de vekslende Systemer,
+man til de forsk. Tider har brugt, er dog saare
+vanskeligt. Oldtidens Maalestokke var upræcise
+og variable; de foreliggende Opmaalinger er
+langtfra altid nøjagtige, og arkitektoniske Led
+er ikke matematiske Punkter uden
+Udstrækning, saaledes at moderne Fremstillinger af
+disse Problemer er stærkt indbyrdes afvigende.
+I den romerske Arkitektur genfindes hyppigt
+en Regel, som allerede kendes paa hellensk
+Grund, at Bygværket som Helhed er ensdannet
+med en af dets vigtigste Dele, et Tempel med
+dets Cella, en Triumfbue med den firkantede
+Del af dens Hovedport o. s. v., og paa lgn.
+Maade er der konstante Forhold i Detaillerne
+(Gesimsens Hovedinddelinger analoge med hele
+Gesimsens Forhold til Søjlehøjden, Arkitravens
+enkelte Profilled analoge med hele Gesimsen),
+atter Regler, som bunder i Hellas' yngre
+Arkitektur. Slige Finesser var glemte i
+Middelalderen, men den romanske Stil kan dog arbejde
+med ganske enkle, store Proportioner, ikke
+mindst i Kirkeplanernes bundne System, hvor
+Sideskibenes Kvadrater er 1/4 af Midtskibets
+(sml. <sp>Bygningskunst</sp>, S. 326, Fig. 15).
+Den gotiske Stil har opereret med forsk.
+Systemer, hvorom der er bevaret Udtalelser fra
+Middelalderens Slutningstid. Af de 1392 førte
+
+<img>Fig. 1. Fra Erechteion i Athen</img>

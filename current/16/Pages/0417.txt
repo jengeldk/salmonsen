@@ -1,0 +1,143 @@
+meget tættere inde i Jernet end Kraftlinierne gør.
+Alle Induktionslinier er lukkede Kurver. — Da
+<i>J</i> varierer med <i>H</i>, maa ogsaa <i>B</i> gøre det, og
+det paa ganske analog Maade; man faar
+saaledes ogsaa her en Hysteresekurve, idet
+den magnetiserende Kraft <i>H</i> afsættes som
+Abscisse, og Induktionen <i>B</i> som Ordinat, cg
+man har en remanent Induktion og en
+Koercitivkraft. Forløbet af de to Kurver er ganske
+analogt, bortset fra, at J—H-Kurven ender med
+at blive parallel med Abscisseaksen, naar
+Jernet er blevet mættet med M., medens <i>B</i>
+selvfølgelig maa vokse med <i>H</i>, selv efter at <i>J</i> er
+blevet konstant. — Middelværdien <i>B</i> er
+indført, fordi det er den, som er bestemmende
+for den elektromotoriske Kraft, som induceres
+i en elektrisk Strømleder, naar den bevæges i
+Forhold til et Magnetfelt (jfr <sp>Induktion</sp>).
+
+<sp>Magnetiseringsarbejdet</sp>. Til at
+magnetisere et Stykke Jern kræves et vist
+Energiforbrug. Hvis Jernet gennemløber en hel
+Magnetiseringscyklus, d. v. s. fra at være
+magnetiseret i een Retning, bliver ommagnetiseret
+til samme Intensitet i modsat Retning, og
+derefter igen ommagnetiseret til den opr. Retning
+og Intensitet, saa vil Energiforbruget for hver
+cm<sup>3</sup> Jern være lig Hysteresekurvens Areal,
+naar denne er tegnet med <i>J</i> som Ordinat og <i>H</i>
+som Abscisse; er ved Tegningen af Kurven <i>J</i>
+og <i>H</i> maalte i absolutte Enheder, faas
+Energiforbruget udtrykt i Erg. Da man ved alle
+praktiske Anvendelser maa kræve en vis, ikke
+for ringe Intensitet, bliver Arealet navnlig
+bestemt ved Kurvens Bredde ell. ved
+Koercitivkraften; det kræver derfor langt større
+Arbejde at magnetisere haardt Staal end blødt
+Jern.
+
+<sp>Temperaturens Indflydelse</sp>.
+Jernets Magnetiseringsintensitet <i>J</i> varierer paa en
+ret indviklet Maade med Temperaturen. Ved
+smaa Feltstyrker vil <i>J</i> først vokse svagt med
+Temperaturen, men ved 6—700° vokse meget
+stærkt, for saa pludselig ved 785° at blive
+meget nær 0. Ved store Feltstyrker vil <i>J</i> altid
+aflage med voksende Temp., først langsomt,
+men derefter stærkere, og ogsaa her bliver
+Jernet umagnetisk ved 785°. Denne Forsvinden
+af Magnetiseringen hænger nøje sammen med
+de krystallografiske Omlejringer, der sker i
+Jernet ved denne Temp. (se
+<sp>Jernkulstoflegeringer</sp>). Glødes en Magnet ved en
+Temp. over 785°, vil den miste sin M.; efter
+Afkølingen vil den stadig være umagnetisk,
+men den vil saa kunne magnetiseres paa ny
+paa sædvanlig Maade.
+
+<sp>M.'s Virkninger</sp>. M. har mange andre
+Virkninger end den at foraarsage en
+Tiltrækning af Jern. Vigtigst af disse er, at der
+induceres en elektromotorisk Kraft i en Strømleder,
+naar denne bevæges i Forhold til et
+Magnetfelt (se <sp>Induktion</sp>). Endvidere vil et
+Magnetfelt i visse Stoffer, f. Eks. Svovlkulstof, dreje
+Lysets Polarisationsplan (se <sp>Polarisation</sp>),
+det vil opspalte Spektrallinier i flere
+Komponenter (se <sp>Zeeman-Effekt</sp>), og det vil
+forandre den elektriske Ledningsevne for visse
+Stoffer, f. Eks. Vismut.
+
+<sp>Anvendelser af M.</sp> M. har mangfoldige
+og uhyre vigtige Anvendelser i det daglige Liv
+og i den moderne Teknik. Naar permanente
+Magneter anvendes, er det som Regel en
+Nødvendighed, at Magneten beholder sin M. saa
+konstant som muligt, upaavirket af ydre
+magnetiske Felter, af Rystelser,
+Temperaturforandringer o. l. Man maa derfor til permanente
+Magneter bruge Staalsorter med stor
+Koercitivkraft og tillige selvfølgelig med en ikke for lille
+Remanens. Almindeligst anvendt er
+Wolframstaal (Remy-Staal, Allward-Staal, Böhler-Staal)
+med. 5—8 % Wolfram og 1/2—1 1/2 % Kulstof;
+det har en Remanens paa godt 800 og en
+Koercitivkraft paa 65—75 Gauss. Endvidere
+bruges Kromstaal (2 % Krom,, 10 %
+Molybdæn, 0,3 % Vanadium og 1/2 % Kul) med en
+Remanens paa 830 og en Koercitivkraft paa 78
+Gauss. Muligt vil i Fremtiden den nylig fundne
+Slaalsort med 48 % Krom, 34 % Kobolt, 3,5
+% Mangan og 1,1 % Kul faa stor Bet; med
+samme Remanens som Wolframstaalet har den
+nemlig den enorme Koercitivkraft paa 227
+Gauss. Inden Benyttelsen maa disse
+Staalsorter underkastes en meget omhyggelig
+Behandling, den saakaldte kunstige Ælden og
+Modnen, der bestaar i at de udsættes for
+gentagne Opvarmninger og Afkølinger og en delvis
+Afmagnetisering; herved forøges Stabiliteten
+stærkt. Endvidere maa Staalet hærdes ved en
+for hver Staalsort karakteristisk Temp., som
+Regel beliggende omkr. 900°. — De permanente
+Magneter gives mange forsk. Former, alt efter
+den Anvendelse, der skal gøres af dem.
+Almindeligst er <sp>Stangmagneten</sp> og
+<sp>Hesteskomagneten</sp>. For at give den større
+Bæreevne, forsyner man undertiden dens Poler
+med Indfatninger af blødt Jern, den saakaldte
+<sp>Armatur</sp>. Lgn. Armatur anvendes paa et
+<sp>magnetisk Magasin</sp> (Lamellemagnet),
+en Samling af flade, stærkt magnetiserede
+Staalstænger, der lægges Side om Side, dog ikke
+helt tæt sammen, med de ensartede Poler
+samme Vej; Armaturen holder Stængerne
+sammen. — Af særlige
+Former maa nævnes den
+<sp>astatiske
+Dobbeltnaal</sp> (Fig. 5), der faas
+ved at forbinde to
+Magnetnaale fast med hinanden,
+men saaledes, at deres
+ensartede Poler vender
+modsat Vej; Naalen
+ophænges i en tynd Traad,
+for Eksempel et
+Silkespind. Er begge
+Magneter lige stærke, har Jordmagnetismen
+ingen Indflydelse paa Dobbeltnaalens Stilling;
+denne paavirkes da yderst let af elektriske
+Strømme, og Naalen finder derfor Anvendelse
+i visse følsomme Galvanometre (s. d.). Naalen
+kan ogsaa ophænges i to fine Traade, altsaa
+bifilart. — Om permanente Magneters
+Anvendelse i <sp>elektrisk
+Maaleinstrumenter</sp> og <sp>elektriske Maskiner</sp>, se disse
+Art. — Endvidere benyttes permanente
+Magneter til Undersøgelse af Jordmagnetismen.
+<sp>Deklinationsnaalen</sp> (Kompasnaalen) kan
+di eje sig om en lodret Akse i en vandret Plan,
+
+<img>Fig. 5. Astatisk
+Dobbeltnaal.</img>

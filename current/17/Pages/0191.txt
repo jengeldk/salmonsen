@@ -1,0 +1,166 @@
+elektriske Elementarkvantum, d. v. s. den
+Ladning Elektricitetsatomet en Elektron (s. d.)
+bærer. Dette er særligt smukt udført af
+<sp>Millikan</sp>; han forstøvede Olie ind i et Rum mellem
+to vandrette Kondensatorplader, hvor Luften i
+Forvejen var ioniseret, ved nu at forandre
+Spændingen mellem Kondensatorpladerne,
+hvoraf f. Eks. den øverste er positiv, den nederste
+negativ, kan man faa de Draaber, der er
+negativt ladede, til at svæve uden at falde, heraf
+kan Draabernes Ladning beregnes. Elektronens
+Ladning er saaledes 1,591 · 10<sup>÷19</sup> Coulomb.
+Da der nu efter Faraday's elektrolytiske Lov
+kræves 96500 Coulomb til at udfælde en
+Gramækvivalent af et Stof ved Elektrolyse (s. d.),
+altsaa f. Eks. 1,008 g Brint, 107,88 g Sølv o. s. v.,
+skal der altsaa 2 · 96500 Coulomb til at frigøre
+2,016 g Brint, d. v. s. et Grammolekyle Brint af
+en Brintforbindelse. Heraf faas Avogadros'
+Konstant, idet Summen af alle Brintionernes
+Ladning maa være lig den tilførte Elektricitets
+Mængde, altsaa <i>N</i> ·1,591 · 10<sup>÷19</sup> = 96500;
+hvoraf <i>N</i> = 6,06 · 10<sup>23</sup>.
+
+Endelig har man ved Undersøgelser af
+Radiumatomernes Eksplosion, der foregaar under
+Udsendelse af α-, β- og γ-Straaler fundet en
+Metode til Bestemmelse af <i>N</i>. Det har vist sig,
+at α-Straalerne er positivt ladede
+Heliumatomer, der udskydes med uhyre Hastighed, c.
+2 · 10<sup>9</sup> cm/sek. De enkelte Partikler kan man
+synliggøre ved at lade dem træffe en
+fluorescerende Skærm under et Mikroskop; hvor de
+rammer, ser man et stærkt opblussende Punkt paa
+Skærmen; ved nu at tælle de enkelte Partikler
+gennem et vist Tidsrum og endvidere maale den
+Mængde Helium, der dannes gennem et langt
+Tidsrum (1 g Radium giver c. 1/6 cm<sup>3</sup> Helium
+om Aaret), kan man altsaa direkte udregne,
+hvor mange M. et givet Luftrumfang indeholder.
+Ogsaa efter denne Metode faas Værdier for <i>N</i>,
+der stemmer godt overens med de andre; man
+finder <i>N</i> = c. 6,2 · 10<sup>23</sup>. Ogsaa ad andre Veje,
+f. Eks. ud fra Varmestraalingens Teori o. a.
+finder man Værdier for <i>N</i>, der stemmer godt
+med de nævnte. Som bedste Værdi for
+Avogadro's Konstant maa anses N = 6,062 · 10<sup>23</sup>.
+
+Naar man nu ved, hvor mange M. et
+Grammolekyle indeholder, er det let at beregne M.'s
+virkelige Vægt; vi faar saaledes, at
+Brintmolekylet vejer 2,016/ 6,062·10<sup>23</sup> = 3,324 · 10<sup>÷24</sup> g., og
+Brintatomet altsaa 1,662 · 10<sup>÷24</sup> g. Den
+virkelige Vægt af et vilkaarligt Atom med
+Atomvægten <i>A</i> bliver da <i>m</i> = <i>A</i>/1,008 · 1,662·10<sup>÷24</sup> g. og
+Vægten af et M. faas da ved at multiplicere dette
+Tal med Antallet af Atomer i M. Det er
+endvidere ud fra den kinetiske Teori muligt at
+beregne M.'s Radier, naar man tænker sig M.
+kugleformig; dette kan imidlertid kun blive en
+meget grov Tilnærmelse, da M. langtfra er
+kugleformede. Man finder for Brint 1,00 · 10<sup>÷8</sup> cm,
+for Helium 0,85 · 10<sup>÷8</sup> cm, for Ilt 1,30 · 10<sup>÷8</sup>
+cm, for Kvælstof 1,35 · 10<sup>÷8</sup> cm o. s. v., alle af
+Størrelsesordenen 10<sup>÷8</sup> cm.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Molekylarbevægelse (se kinetisk Teori)">
+<b>Molekylarbevægelse</b>, se <sp>kinetisk Teori</sp>.
+</chapter>
+
+<chapter name="Molekylarkræfter">
+<b>Molekylarkræfter</b> kaldes de Kræfter, der
+virker mellem Legemernes Molekyler. Det er
+disse Kræfter, der holder faste og flydende
+Legemers Molekyler sammen, og da disse
+Legemer gør Modstand baade mod Strækning og
+Sammentrykning, maa M. være tiltrækkende ell.
+frastødende alt efter Molekylernes indbyrdes
+Afstand. M. maa imidlertid aftage meget hurtigt
+med voksende Afstand mellem Molekylerne; ved
+Luftarterne er de saaledes næsten umærkelige
+(jfr <sp>kinetisk Teori</sp>); to plane, blankt
+pudsede Glasplader kan, naar de lægges oven paa
+hinanden, af M. holdes saa stærkt sammen, at
+de næsten ikke er til at skille igen; men er
+der blot lidt Støv imellem, bliver Afstanden for
+stor til, at M. kan gøre sig gældende. M. maa
+utvivlsomt være af elektrisk Oprindelse, altsaa
+være Kræfter mellem de elektriske Ladninger i
+Molekylerne; men for øvrigt ved man intet
+sikkert om de Love, der gælder for dem. Jfr
+<sp>Adhæsion</sp>, <sp>Kapillaritet</sp> og <sp>Kohæsion</sp>.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Molekylarmagneter">
+<b>Molekylarmagneter</b> kalder man de mindste
+Magneter, hvoraf en Magnet tænkes bygget. Se
+<sp>Magnetisme</sp>, S. 400.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Molekylarstrømme">
+<b>Molekylarstrømme</b>, elektriske Strømme,
+som efter Ampère's Antagelse løber i en
+Magnets Molekyler. Jfr <sp>Magnetisme</sp>, S. 400.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Molekylarvarme (se Varmefylde)">
+<b>Molekylarvarme</b>, se <sp>Varmefylde</sp>.
+</chapter>
+
+<chapter name="Molekylarvolumen (d. s. s. Molekylvolumen)">
+<b>Molekylarvolumen</b>, d. s. s.
+<sp>Molekylvolumen</sp>.
+</chapter>
+
+<chapter name="Molekylarvægt (d. s. s. Molekylvægt)">
+<b>Molekylarvægt</b>, d. s. s. <sp>Molekylvægt</sp>.
+</chapter>
+
+<chapter name="Molekylvolumen">
+<b>Molekylvolumen</b>. Hermed forstaas
+Forholdet mellem et Stofs Molekylvægt og dets
+Vægtfylde, det burde derfor hede
+<sp>Grammolekylvolumen</sp>, idet det er Rumfanget af saa
+mange g af Stoffet, som Molekylvægten angiver.
+Molekyl volumenet for Luftarterne er efter
+Avogadro's Hypotese lige store og fundet til 22,4 l.
+For Vædskers Vedk. gælder det, at deres M.
+først viser Overensstemmelse, naar deres Dampe
+har samme Spænding f. Eks. ved deres
+Kogepunkter. Isomorfe Forbindelser har næsten
+samme M., f. Eks. MgSO<sub>4</sub>,7H<sub>2</sub>O — ZnSO<sub>4</sub>,7H<sub>2</sub>O —
+FeSO<sub>4</sub>,7H<sub>2</sub>O — CoSO<sub>4</sub>,7H<sub>2</sub>O, hvis M. er henh.
+146, 146,9, 147,5 og 146.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Molekylvægt">
+<b>Molekylvægt</b>. Hermed forstaas sjældnere
+Molekylernes virkelige Vægt (om dette se
+<sp>Molekyl</sp>), men oftest den relative M. Naar
+man i Kemien taler om et Stofs M. menes
+herved relative M. i Forhold til Brintmolekylet,
+hvis Vægt sættes til 2,016. Opr. havde man sat
+Brintatomet til 1 og altsaa Brintmolekylet til 2,
+samt Iltmolekylet til 32, men da det ved senere
+finere Analyser viste sig, at Forholdet mellem
+Iltens og Brintens M. ikke var 32/2 = 16, men
+kun 15,87, valgte man hellere at beholde Iltens
+M. til 32 og rette Brintens til 2,016, da det
+derved kun blev Brintens M., der skulde rettes,
+hvorimod en Rettelse af Iltens M. vilde medføre,
+at mange andre M. og Atomvægte skulde rettes,
+idet en stor Mængde Atomvægte er bestemt ved
+Analyse af Iltforbindelser.
+
+Ud fra Avogadros' Lov (s. d.), der siger, at
+lige store Rumfang af de forsk. luftformige
+Stoffer indeholder lige mange Molekyler, naar de
+har samme Temp. og Tryk, kan man slutte, at
+de luftformige Stoffers M. maa forholde sig som

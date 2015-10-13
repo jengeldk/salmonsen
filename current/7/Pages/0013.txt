@@ -1,0 +1,151 @@
+I <sp>Danmark</sp> findes e. S. kun i <sp>Kbhvn</sp>
+(samt Frederiksberg og Tuborg-Klampenborg),
+<sp>Aarhus</sp> og <sp>Odense</sp>. I Kbhvn indførtes den
+elektriske Drift 1897 med Akkumulatorvogne paa
+Nørrebrolinien. Denne Driftsform blev dog efter
+faa Aars Forløb opgivet og afløst af de nu
+anvendte Overledningssystemer, der 1901-03
+indførtes paa de fleste Linier. De kbhvn'ske og
+frederiksbergske Sporvogne drives med
+Jævnstrøm med en Spænding paa 550 Volt.
+Strømmen ledes gennem underjordiske Kabler ud til
+20 forsk. Fødepunkter, fordelte over hele Byen.
+<sp>Køretraaden</sp> er haardtrukken Kobbertraad
+med Tværsnitsareal 53 mm<sup>2</sup>, dels rund, dels
+8-Tals formet. Som <sp>Strømaftager</sp> benyttes
+den alm. Kontaktrulle. Motorvognene har hver
+2 Seriemotorer, hvis Størrelse i Aarenes Løb er
+vokset fra 14 Hk. til c. 36 Hk. i de nyeste
+Vogne. Fra Skinnerne ledes Strømmen gennem
+underjordiske Returkabler tilbage til
+Centralerne. Man har i Kbhvn taget særligt Hensyn til
+de vagabonderende Strømme. Indtil 1912
+anvendtes saaledes i den indre By til
+Returledning en ekstra Køretraad i St f. Skinnerne.
+Denne er nu afskaffet, men Returkabelnettet
+er saa svært, at der intet Steds i Skinnenettet
+inden for samme Distrikt findes større
+Spændingsforskel end 3/4 Volt og imellem 2
+vilkaarlige Punkter af hele Nettet kun højst 1,5 Volt,
+medens man i de tyske Forskrifter tillader
+omtrent det dobbelte.
+
+De nyeste Motorvogne (Fig. 7) vejer c. 13,5 t
+og koster c. 17000 Kr, medens de ny Bivogne
+vejer c. 8,5 t og koster c. 10500 Kr. Motorvognen
+rummer 22 Siddepladser og 16 Staapladser,
+Bivognen 22 Siddepladser og 23 Staapladser.
+Kørehastigheden er gennemsnitlig 12,5 km pr Time
+inde i Byen og c. 15 km paa Yderstrækningerne.
+Der findes i Kbhvn og Frederiksberg tilsammen
+c. 150 km Spor og 750 elektriske Sporvogne.
+Der køres aarligt c. 23 Mill. Vognkilometer (idet
+1 Bivognskm. = 1/2 Motorvognskm.) og
+befordres c. 115 Mill. Passagerer.
+
+I Aarhus aabnedes den e. S. 1904, i Odense
+1912. I begge Byer anvendes samme System
+som i Kbhvn, idet dog Strømaftagningen begge
+Steder sker ved Bøjler.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="elektriske Støvfigurer">
+<b>elektriske Støvfigurer.</b> Lichtenberg fandt
+paa at undersøge den elektriske Ladnings
+Fordeling over en Isolators Overflade paa følgende
+Maade. En Blanding af Mønnie og Svovlpulver
+sigtes gennem Musselin ned paa den Flade, der
+skal undersøges. Ved Gnidningen mod hinanden
+bliver de to Pulvere elektriske, Svovlet
+negativt, Mønnien positiv. Puster man derfor paa
+Fladen, efter at den er overdrysset med
+Pulveret, vil de positive Partier af den, der
+holder fast paa det negative Svovl, vise sig gule,
+de negative røde. Smukke Figurer faar man paa
+denne Maade, naar man elektriserer et
+Elektrofors Harpikskage ved at berøre den med
+Knappen af en ladet Leydnerflaske. Positiv og
+negativ Ladning giver forskelligformede
+Figurer.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="elektriske Svingninger">
+<b>elektriske Svingninger,</b> se
+<sp>elektromagnetiske Svingninger</sp> og
+<sp>Radiotelegrafi</sp>.
+</chapter>
+
+<chapter name="elektriske Transformatorer">
+<b>elektriske Transformatorer,</b> se
+<sp>elektriske Maskiner og
+Transformatorer</sp>.
+</chapter>
+
+<chapter name="elektriske Understationer">
+<b>elektriske Understationer</b> er elektriske
+Stationer, hvori Elektricitet af en Art omdannes
+til Elektricitet af en anden Art ell. en anden
+Spænding, e. U. benyttes saa at sige altid i
+Forbindelse med elektriske Højspændingsanlæg
+og finder især udstrakt Anvendelse ved elektrisk
+Kraftoverførelse over store Afstande under
+Anvendelse af højspændt Vekselstrøm, da man
+ikke kan anvende højspændt Jævn- ell.
+Vekselstrøm direkte hos Forbrugerne. Efter Arten af
+de i de e. U. anvendte Maskiner skelner man
+mellem 1) <sp>elektriske
+Transformatorstationer</sp> og 2) <sp>elektriske
+Omformerstationer</sp>.
+
+I <sp>elektriske
+Transformatorstationer</sp> anvender man stationære elektriske
+Transformatorer og kan saaledes kun anvende
+disse Stationer, hvor Vekselstrøm omformes fra
+en Spænding til en anden. Elektriske
+Transformatorstationer kan have højst forskelligt
+Udseende, Størrelse, Udstyrelse o. l. og er til en
+vis Grad, hvad Størrelse og Beliggenhed
+angaar, afhængige af lokale Forhold. De
+forsynes med højspændt Vekselstrøm gennem een,
+sjældnere fl. Højspændingsledninger, der, naar
+Transformatorstationen kun indeholder en
+enkelt Transformator, tilsluttes dennes primære
+Side direkte over saa faa og simple
+Højspændingsapparater som muligt. Saaledes anvender
+man sjældnere automatiske Olieafbrydere i
+mindre og middelstore Transformatorstationer,
+men i St f. disse Afbrydere
+Højspændingssikringer og Ledningsadskillere, hvilke sidste
+undertiden anvendes nedsænkede i Olie. Det tilstræbes
+altid at gøre elektriske Transformatorstationer
+saa simple og billige som muligt. Anvendes der
+i en saadan fl. Transformatorer, f. Eks. i en
+Transformatorstation, der, tilsluttet en
+Oplandscentral, omformer højspændt Vekselstrøm af f.
+Eks. 50000 Volt Spænding til højspændt
+Vekselstrøm af en anden, f. Eks. 15000 Volt Spænding,
+hvormed en forholdsvis stor Del af Oplandet
+forsynes med Elektricitet, forsynes
+Transformatorstationen med et Sæt
+Højspændingssamleskinner, hvortil de ankommende
+Højspændingsledninger og samtlige Transformatorers
+Højspændingssider sluttes, og eventuelt tillige med
+et Sæt Samleskinner for den lavere Spænding,
+til hvilke Skinner samtlige Transformatorers
+sekundære Sider og alle afgaaende Luftledninger
+(og Kabler) sluttes. I hver Forbindelsesledning
+mellem Samleskinner og Transformatorer,
+afgaaende og ankommende Ledninger, indskydes
+der Afbrydere og Sikringer, af hvilke de sidste
+ofte er Højspændingssmeltesikringer, de første
+slet og ret Ledningsadskillere i Olie. Ved meget
+høje Spændinger (over 20-30000 Volt) og store
+Transformatorenheder anvender man dog som
+Regel Olieafbrydere og Smeltesikringer ell.
+automatisk Udløsning af Afbryderen.
+Transformatorstationer kan have højst forsk. Størrelse;
+Stationer under 40 KVA udføres ofte som
+Mastetransformatorstationer (Fig. 1), der slet og
+ret bestaar af en paa to ell. fire Træmaster,

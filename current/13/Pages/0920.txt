@@ -1,0 +1,123 @@
+<i>p</i> · <i>v</i> = 1/3 <i>n</i><sub>1</sub> <i>m</i><sub>1</sub> <i>c</i><sub>1</sub><sup>2</sup> = 1/3 <i>n</i><sub>2</sub> <i>m</i><sub>2</sub> <i>c</i><sub>2</sub><sup>2</sup>; er tillige
+Temp. og dermed Molekylernes Energi ens,
+1/2 <i>m</i><sub>1</sub> <i>c</i><sub>1</sub><sup>2</sup> = 1/2 <i>m</i><sub>2</sub> <i>c</i><sub>2</sub><sup>2</sup>, faas uden videre <i>n</i><sub>1</sub> = <i>n</i><sub>2</sub>,
+ell. Avogadro's Lov.
+
+5) <sp>Hastighedsfordelingsloven</sp>. Det
+blev ovf. antaget, at alle Luftmolekylerne havde
+samme Hastighed. Dette er imidlertid ikke og
+kan umuligt være rigtigt; et Molekyle vil
+engang imellem kunne faa fl. stærke Stød, der alle
+gaar i næsten samme Retning, og derved opnaa
+en meget betydelig Hastighed, og omvendt vil
+det kunne faa et ell. fl. Stød, der næsten
+ganske standser det. Der vil altsaa i en Luftmasse
+kunne forekomme alle mulige
+Hastigheder, men de vil være saaledes
+fordelte, at de fleste Molekyler har
+Hastigheder i Nærheden
+af en vis Middelværdi
+og forholdsvis faa har
+de ekstremt store ell.
+smaa Hastigheder.
+Maxwell har ved
+Hjælp af Sandsynlighedsbetragtninger beregnet
+den Lov, hvorefter Hastighedsfordelingen finder
+Sted; Fordelingsloven er fremstillet i Fig. 4;
+her er Hastigheden <i>c</i> afsat som Abscisse, og
+som Ordinat er afsat det procentvise Antal
+Molekyler <i>n</i>, som har den paagældende
+Hastighed. Fordelingens Art vil for øvrigt fremgaa
+af, at af 1000 Iltmolekyler ved 0° C. vil
+<table>
+<td r>15<td c>have<td c>Hastigheder<td c>mellem<td r>1<td>og<td>100<td>m/Sek
+<td r>80<td c>—<td c>—<td c>—<td r>100<td c>—<td>200<td c>—
+<td r>170<td c>—<td c>—<td c>—<td r>200<td c>—<td>300<td c>—
+<td r>220<td c>—<td c>—<td c>—<td r>300<td c>—<td>400<td c>—
+<td r>200<td c>—<td c>—<td c>—<td r>400<td c>—<td>500<td c>—
+<td r>150<td c>—<td c>—<td c>—<td r>500<td c>—<td>600<td c>—
+<td r>90<td c>—<td c>—<td c>—<td r>600<td c>—<td>700<td c>—
+<td r>75<td c>—<td c>—<td c>over<td r>700<td c><td><td c>—
+</table>
+
+Da Energien er proportional med den
+(absolutte Temp., maa Hastigheden være
+proportional med Kvadratroden af den absolutte Temp.
+Afkøles Luften, bliver Middelhastigheden derfor
+mindre; den er dog ved ÷ 20° C. endnu c.
+98 % af Værdien ved 0°. Først ved det
+absolutte Nulpunkt, ÷ 273° C., bliver Hastigheden
+0, d. v. s. alle Molekyler ligger stille. Ved
+samme Temp. har de forsk. Luftarter samme
+Energi, og Molekyler af forsk. Luftarter maa derfor
+under disse Forhold have Middelhastigheder,
+der er omvendt proportionale med Molekylernes
+Masser. I hosstaaende Tabel er opført
+Middelhastigheden ved 0° C. for Molekyler af Brint,
+Kvælstof. Ilt og Kulsyre.
+
+<table>
+<td v2 c>Luftart<td v2 c>Molekylarvægt<td v2 c>Middelhastighed<br>ved 0­° C. i<br>m pr. Sek.<td 2 c>Middelvejlængde ved<td 2 c>Stødtallet ved
+<td c>1 Atm. Tryk<td c>10<sup>-6</sup> Atm.<br>Tryk<td c>1 Atm. Tryk<td c>10<sup>-6</sup> Atm.<br>Tryk
+<td>Brint<td c>2<td c>1840<td c>l,8·10<sup>—5</sup> cm<td c>18 cm<td c>95·10<sup>8</sup><td c>95·10<sup>2</sup>
+<td>Kvælstof<td c>28<td c>490<td c>1,0·10<sup>—5</sup> -<td c>10 -<td c>48·10<sup>8</sup><td c>48·10<sup>2</sup>
+<td>Ilt<td c>32<td c>460<td c>1,1·10<sup>—5</sup> -<td c>11 -<td c>41·10<sup>8</sup><td c>41·10<sup>2</sup>
+<td>Kulsyre<td c>44<td c>390<td c>0,7·10<sup>—5</sup>-<td c>7 -<td c>55·10<sup>8</sup><td c>55·10<sup>2</sup>
+</table>
+
+6) <sp>Stødtallet</sp>; <sp>den fri
+Middelvejlængde</sp>. Som det fremgaar af Tabellen, er
+Molekylernes Hastigheder ganske overordentlig
+store. Man maa imidlertid ikke heraf lade sig
+forlede til at tro, at et Molekyle, som nu er her,
+om 1 Sekund vil være 1/2 km ell. endnu længere
+borte. P. Gr. a. det uhyre store Antal
+Molekyler, der findes selv i et nok saa lille Rum,
+vil Molekylerne ustandseligt støde sammen
+indbyrdes og derfor i længere Tid praktisk talt
+blive paa samme Sted (se Fig. 1). Det Antal
+Sammenstød, der finder Sted for et enkelt
+Molekyle i 1 Sek., kaldes Stødtallet.
+
+Den Vejlængde, som Molekylet gennemsnitlig
+tilbagelægger mellem to Sammenstød, kaldes
+den fri Middelvejlængde; den maa
+nødvendigvis være desto mindre, jo fl. Sammenstød der
+finder Sted, altsaa jo større Antallet af
+Molekyler og dermed Trykket er. I Tabellen er
+anført nogle Værdier for Stødtallet og for den fri
+Middelvejlængde ved to forsk. Tryk. Skønt
+denne Vejlængde er saa lille, er der dog god Plads
+mellem Molekylerne, idet Molekyldiametren er
+c. 10<sup>—8</sup> cm. Afstanden mellem to
+Nabomolekyler er altsaa ved alm. Atmosfæretryk c. 1000
+Gange saa stor som Molekylets Diameter, og
+man forstaar derfor, at de gensidige Kræfter
+imellem Molekylerne kun kan spille en
+forholdsvis underordnet Rolle ved Luftarterne.
+
+7) <sp>Den indre Gnidning</sp>. En Luftmasse
+tænkes at befinde sig mellem to plane,
+parallelle Plader, <i>A</i> og <i>B</i> i Fig. 5; af disse er <i>A</i>
+ophængt vandret i en tynd Traad, medens <i>B</i>
+drejes rundt med konstant Hastighed, f. Eks.
+af en Motor, saaledes at den stadig er parallel
+med <i>A</i>. Naar et Luftmolekyle forlader <i>B</i>, vil
+det have dennes tangentielle Hastighed; denne
+vil ved Sammenstødene overføres til de andre
+Molekyler og efterhaanden naa over til <i>A</i>, som
+derved drejes lidt, saa Ophængningstraaden
+snos. Den dertil nødvendige
+Bevægelsesmængde leveres altsaa af Pladen <i>B</i> og overføres
+derfra ved Hjælp af Molekylerne til Pladen
+<i>A</i>; jo mere Traaden snos for en vis Hastighed
+af <i>B</i>, desto større maa den indre Gnidning
+i Luften være, og desto større vil ogsaa den
+overførte Bevægelsesmængde være. Man
+definerer derfor den indre Gnidning som den
+Bevægelsesmængde, der overføres i 1 Sek. fra
+1 cm<sup>2</sup> af <i>B</i>, naar Hastigheden imellem <i>B</i> og <i>A</i>
+varierer med 1 cm/Sek. for hver cm vinkelret
+Afstand fra <i>B</i>. Saa længe der er saa faa
+
+<i>Fig. 4.</i>

@@ -1,0 +1,130 @@
+Undersøgelser maa Strømstyrken tænkes maalt ved
+sine magnetiske Virkninger, ved hvilke
+Enheden for Strømstyrke, en Ampère, opr. er
+defineret. Men Faraday's Lov viser, at man lige
+saa godt kan maale Strømstyrken ved dens
+kem. Virkninger, og da dette er meget
+bekvemmere, er man gaaet over til at definere
+Ampèren derved, nemlig som den Strøm, der i et
+Sekund udskiller 1,118 mg Sølv af en
+Sølvopløsning (Enheden for Elektricitetsmængde, en
+Coulomb, der er den Elektricitetsmængde, som 1
+Ampère fører gennem Ledningen i 1 Sekund,
+bliver da den Elektricitetsmængde, som
+udskiller 1,118 mg Sølv; Elektricitetsmængden er
+bestemt alene ved den udskilte Stofmængde,
+medens Strømstyrken tillige kræver en
+Tidsbestemmelse; smlg. <sp>elektriske Maaleenheder</sp>).
+
+Faraday's II. Lov: Naar samme
+Elektricitetsmængde sendes gennem forsk. Elektrolyter,
+udskilles ækvivalente Stofmængder. - Ved
+ækvivalente Stofmængder forstaas saadanne, som kan
+træde i Forbindelse med hinanden ell. erstatte
+hinanden i kem. Forbindelser. Ækvivalente
+Mængder af Grundstofferne forholder sig som
+de Tal, der fremkommer, naar deres Atomvægt
+divideres med deres Valens. Saaledes forholder
+ækvivalente Mængder af Brint, Ilt, Sølv,
+Kobber og Zink, hvis Valenser i deres normale
+Forbindelser er henh. 1, 2, 1, 2 og 2, sig som
+<table>
+<td v2>1,008 : <td c>16<td v2> : 107,88 :<td c>63,57<td v2> : <td c>65,37<td v2>, og i dette
+<td c>2<td c>2<td c>2
+</table>
+Forhold staar altsaa ogsaa de Mængder af disse Stoffer,
+som udskilles af en bestemt
+Elektricitetsmængde. Men f. Eks. Kobber kan ogsaa optræde
+monovalent (i Kuproforbindelserne); elektrolyseres
+en saadan Forbindelse, faas med samme
+Elektricitetsmængde dobbelt saa meget Kobber som
+før. Ved et Gramækvivalent (ell. Ækvivalent) af
+et Stof forstaas saa mange Gram af Stoffet, som
+angives ved Atomvægten divideret med
+Valensen, altsaa for de nævnte Stoffer netop de
+anførte Tal. Af Svovlsyrens Formel H<sub>2</sub>SO<sub>4</sub> ses,
+at Svovlsyreresten SO<sub>4</sub> er divalent, saa at et
+Gramækvivalent SO<sub>4</sub> er 1/2 (32,07 + 4 . 16) =
+48,08 g (S = 32,07; O = 16), og paa tilsvarende
+Maade beregnes let Ækvivalenttallene for andre
+Atomkomplekser. Til at udskille et
+Gramækvivalent af et hvilket som helst Stof kræves efter
+Faraday's Lov samme Elektricitetsmængde
+107,88 : 0,001118 = 96500 Coulomb; den kaldes
+undertiden en Faraday (F). Man beregner da
+let, hvor meget 1 Coulomb kan udskille af et
+hvilket som helst Stof. Det bliver saaledes af
+Brint 0,01045 mg, af Ilt 0,08291 mg, af divalent
+Kobber (af en Kupriforbindelse) 0,3294 mg, af
+monovalent Kobber (af en Kuproforbindelse)
+0,6588 mg o. s. v. Faraday's 2 Love har vist sig
+at gælde med saa stor Nøjagtighed som den,
+hvormed de har kunnet prøves, og i alle
+Tilfælde, hvor der tilsyneladende har vist sig
+Afvigelser, har disse fundet deres fulde
+Opklaring, uden at Lovenes Gyldighed angrebes.
+Saaledes faas ved ganske svage Strømme gennem
+fortyndet Svovlsyre tilsyneladende ingen
+Luftudvikling, men dette skyldes, at de smaa
+udviklede Luftmængder opløses i Elektrolyten
+omkring Elektroderne og efterhaanden diffunderer
+ud i den øvrige Vædske.
+
+Apparater til Maaling af Elektricitetsmængder
+(og altsaa ved en Tidsmaaling tillige
+Strømstyrker) ad elektrolytisk Vej kaldes
+<sp>Voltametre</sp>. Principielt kan enhver E.
+bruges dertil, men skal der opnaas større
+Nøjagtighed, er der kun faa egnede. Bedst er
+<sp>Sølvvoltametret</sp> (Fig. 4); Katoden er en
+Platinskaal ell. Digel, Anoden en Sølvstang,
+Opløsningen 10 % Sølvnitrat. Under Sølvstangen
+hænges en lille Glasskaal e. l. for at hindre, at
+Sølvstykker falder ned paa
+Skaalen. Det paa
+Platinskaalen udskilte Sølv vejes
+efter at være vasket og
+tørret. Skal den største
+Nøjagtighed naas, er der
+dog mange Ting at tage
+Hensyn til; bl. a. maa
+Vædsken om Anoden ikke
+naa hen til Katoden,
+hvorfor de bør holdes adskilte
+ved en porøs Lercelle;
+Strømtætheden maa ikke
+være for stor, naar Sølvet
+skal hænge godt fast, o.
+s. v. Undertiden bruges
+<sp>Kobbervoltametret</sp>, der kan indrettes paa lgn. Maade,
+men med en Kobberplade som Anode. I en til
+teknisk Brug uddannet elektrolytisk
+Elektricitetsmaaler (af Wright) anvendes et
+Kviksølvvoltameter. Til hurtige grove Bestemmelser
+bruges undertiden <sp>Knaldluftvoltametret</sp>.
+Det kan være indrettet som Fig. 2, men med
+kun een inddelt Klokke, der opfanger baade
+Ilten og Brinten, 1 Coulomb udvikler 0,1740 cm<sup>3</sup>
+Knaldluft, maalt ved 0° og 760 mm Tryk. De
+vigtigste Fejlkilder er her, at noget af Ilten
+udvikles som Ozon, og noget af Luftarterne
+opløses i Elektrolyten. Den første Fejl undgaas
+ved at bruge en Opløsning af Kaliumhydroxyd
+(KOH); der kan da anvendes Nikkelelektroder. -
+Voltametrene er i det hele nu forældede
+Instrumenter, da man har saa bekvemme og
+nøjagtige Ampèremetre, men Sølvvoltametret
+definerer, som nævnt, Enheden for Strømstyrke.
+
+<sp>Forklaring af E. Grotthus</sp> pegede
+allerede 1805 paa det mærkelige, at
+Sønderdelingsprodukterne altid optraadte <sp>samtidig</sp>
+ved begge Elektroderne, saa at de ikke kunde
+stamme fra de samme Molekyler. Han antog,
+at i et Molekyle var de Bestanddele, hvori det
+spaltes af Strømmen, ladede elektrisk med
+
+<img>Fig. 3. Strømdeling.</img>
+
+<img>Fig. 4. Sølvvoltameter.</img>
+

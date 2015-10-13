@@ -1,0 +1,151 @@
+indhugge Figuren til den Sætning, at
+Rumfangene af en Kegle, en Halvkugle og en Cylinder
+paa samme Grundflade og med samme Højde
+forholder sig som 1:2:3; denne Inskription
+havde A. selv ønsket, og paa den kendte Cicero
+Graven, da han 75 var i Sykarus som Kvæstor.
+— Af A.'s i dorisk Dialekt af fattede Skr havde
+vi indtil de sidste Aar følgende (kronologisk
+ordnede): to Bøger om plane Figurers Ligevægt
+ɔ: om deres Tyngdepunkter, med en indskudt
+Afhandling om Parablens Kvadratur, to Bøger
+om Kugler og Cylindre, Cirkelmaalingen, et
+Skr. om Spiralerne, en Bog om Konoider og
+Sfæroider, Sandregningen, to Bøger om
+svømmende Legemer (kun i latinsk Oversættelse).
+De tidligere for archimediske antagne Lemmata
+(i arab. Oversættelse) er rimeligvis uægte. Den
+første Udgave af disse Skr, i latinsk
+Oversættelse med Kommentar af Eutokios fra Askalon,
+er besørget af <sp>Th. Geschauff</sp>, kaldet
+Venatorius (Basel 1544). En Udgave af den gr. Tekst
+og Eutokios' Kommentarer med lat. Oversættelse
+og Noter (Leipzig 1880—81, 3 Bd) skyldes
+<sp>Heiberg</sp>, der ogsaa har skrevet <i>Quaestiones
+Archimedeae</i> (Kbhvn 1879). Af andre Udgaver
+haves en Tekstudgave af <sp>Torelli</sp> (Oxford
+1792), en tysk Oversættelse af <sp>Nizze</sp>
+(Stralsund 1825), en fransk af <sp>Peyrard</sp> (Paris 1808,
+2 Bd). 1906 fandt Heiberg i et Kloster i
+Konstantinopel et ikke tidligere kendt Haandskrift
+af A., stilet til Eratosthenes, nærmest for at
+meddele denne en Metode til Bestemmelse af
+Arealer, Rumfang og Tyngdepunkter. Metoden
+var illustreret ved en Række Eksempler, dels
+ny, dels kendte fra A.'s andre Skr. I <i>Bibliotheca
+math.</i>, Bd VII, H. 4, findes en af Heiberg
+besørget tysk Oversættelse af Haandskriftet,
+ledsaget af en Kommentar af Zeuthen. — A.
+undersøger Omdrejningsparaboloider,
+Omdrejningshyperboloider med 2 Net og
+Omdrejningsellipsoider, som han kalder henholdsvis retvinklede
+Konoider, stumpvinklede Konoider og Sfæroider.
+Han betragter de elliptiske Snit i disse Flader
+og beviser, at de virkelig er Ellipser, ved en
+Fremgangsmaade, der ganske ligner vor
+analytiske Geometris, idet han godtgør, at disse
+Snit har den Egenskab, som vor
+Toppunktsligning for Ellipsen angiver. Ved sine
+Kvadraturer (af Ellipsen, Parablen, den archimediske
+Spiral og Kugleoverfladen) og Kubaturer (Kugle,
+Konoider, Sfæroider) samt ved sine
+Tyngdepunktsbestemmelser bruger han hyppig et af
+Integralregningens Grundprincipper, idet han
+opløser i uendelig smaa Størrelser, som han
+saa ombytter med andre, hvis Sum ad anden
+Vej er ham bekendt; ved Spiralens Kvadratur
+benytter han den af ham selv fundne Sum af
+Kvadrattallene. (Smlg. <sp>Zeuthen</sp>,
+»Keglesnitslæren i Oldtiden«, Kbhvn 1885). Forholdet
+mellem Cirklens Omkreds og Diameter finder han
+liggende mellem 3 1/7 og 3 10/71; hans
+Fremgangsmaade ved de der forekommende
+Kvadratrodsuddragninger har været Genstand for
+Gætninger bl. a. af <sp>Oppermann</sp>.
+Sandregningen gaar ud paa ved Indførelsen af Enheder
+af højere Orden i det dekadiske Talsystem at
+udtrykke Tal større end det Antal Sandskorn,
+som Himmelkuglen kunde rumme. Hvad angaar
+det saakaldte Kvægproblem, henvises til en
+Afhandling af <sp>Krumbiegel</sp> og <sp>Amthor</sp> i
+»Zeitschrift für Math. und Phys.«, 25. Aarg.
+(1880).
+<i>Chr. C.</i>
+
+A. kan betragtes som Grundlæggeren af de
+faste og flydende Legemers Ligevægtslære. Han
+fandt Betingelsen for, at to Legemer, der er
+ophængte paa en uligearmet Vægtstang, skal
+holde hinanden i Ligevægt, og han viste, at et
+Legeme, der sænkes i Vand, taber saa meget af
+sin Vægt, som det uddrevne Vand vejer. Ved
+Hjælp af sin Vægtstangslov fandt han
+Tyngdepunkterne i forsk. plane Figurer, og om Loven
+for Vægttabet fortæller Vitruv, at A. fandt den,
+da han var i Bad og her grundede over,
+hvorledes han skulde løse en Opgave, Kong Hieron
+havde stillet ham, nemlig at finde, om det var
+sandt, som der sagdes, at en Guldkrone, som
+denne Konge havde ladet lave, var forfalsket
+med Sølv. Som praktisk Mekaniker skal A. ved
+sine Krigsmaskiner have tilføjet Romerne stor
+Skade, og der tillægges ham i alt 40 Opfindelser,
+deriblandt Tallien, Skruen uden Ende og
+Vandsneglen. Han var baade som Matematiker og
+Mekaniker Genstand for den største Beundring
+i Oldtiden; en Del af det, der fortælles om hans
+Bedrifter som Mekaniker, maa imidlertid være
+senere Tildigtning, saaledes den bekendte
+Historie om, at han ved Hjælp af Spejle stak den
+romerske Flaade i Brand. Selv skal han have
+sat sine rent matematiske Arbejder højere end
+sine praktiske Opfindelser. Eksperimental
+Fysiker var han ikke, lige saa lidt som nogen
+anden Oldtidsforsker; hans fysiske (mekaniske)
+Arbejder maa nærmest betegnes som anvendt
+Matematik. Hans <sp>astronomiske</sp>
+Kundskaber var vistnok væsentlig de samme som de,
+der fandtes hos andre af Grækernes mest
+fremragende Forskere paa den Tid; han vidste
+altsaa, at Jorden er en Kugle, og om Solens
+Afstand mente han, at den ikke var større end
+10000 Jordradier. Han maalte Solens
+tilsyneladende Størrelse og angiver denne Værdi
+temmelig rigtig.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Archimedes' Princip (se Hydrostatik)">
+<b>Archimedes' Princip,</b> se <sp>Hydrostatik</sp>.
+</chapter>
+
+<chapter name="Archimedes-Skrue (se Vandsnegl)">
+<b>Archimedes-Skrue,</b> se <sp>Vandsnegl</sp>.
+</chapter>
+
+<chapter name="Archipelag">
+<b>Archipelag,</b> <sp>Archipélagos</sp>, <sp>Arkipelág</sp>,
+forkortet <sp>Archipél</sp>; bruges nu hyppigst som
+alm. Betegnelse for en Øgruppe, medens Ordet
+ifølge sin egl. og opr. Bet. maa gælde et Hav.
+Ordet stammer fra Græsk og bet. »det
+fornemste Hav« ell. det græske Øhav mellem
+Grækenland og Lilleasien. Nogle har dog ment, at
+Ordet egl. skulde være en Omskrivning af det
+græske <i>Aegaeon pelagos</i> og først være bragt i
+Anvendelse af Venetiaiierne i den italienske
+Form <i>Archipelago</i>. Efter at Ordets Bet. fra
+Havet er gaaet over paa Øgruppen, har man saa
+udstrakt det til ogsaa at kunne anvendes om
+andre Øgrupper, f. Eks. taler man om det
+vestindiske A., det malajiske A., Hawaji-A. o. s. v.
+<i>H. P. S.</i>
+</chapter>
+
+<chapter name="Archipresbyter">
+<b>Archipresbyter</b> kaldtes i Slutningen af
+Oldtiden og Beg. af Middelalderen Præsten ved
+Hovedkirken i et Sogn. Kun i hans Kirke kunde
+Daab finde Sted og de andre Sakramenter
+forvaltes. Saaledes blev A., særlig ved
+gudstjenstlige Handlinger, Bispens Stedfortræder. Fra 9.

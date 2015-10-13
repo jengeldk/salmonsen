@@ -1,0 +1,138 @@
+Glødelys bruger c. 1,7—2,0 l pr Hefnerlys pr Time;
+ved de alm. Størrelser af <sp>nedadvendende</sp>
+Brændere er Forbruget 1,2—1,5 l. Det er i øvrigt
+varierende efter Brænderstørrelsen. Der
+udvikles ved
+<table>
+<td 8 c>udstaaende Glødelys:
+<td r>30<td>Hefnerlys<td>pr<td>Time<td>af<td r>51<td>l<td>Gas
+<td r>50<td c>—<td c>-<td c>—<td c>-<td r>85<td c>-<td c>—
+<td r>75<td c>—<td c>-<td c>—<td c>-<td r>128<td c>-<td c>—
+<td r>110<td c>—<td c>-<td c>—<td c>-<td r>187<td c>-<td c>—
+<td r>500<td c>—<td c>-<td c>—<td c>-<td r>850<td c>-<td c>—
+<td 8 c>Hængende Glødelys:
+<td r>50<td>Hefnerlys<td>pr<td>Time<td>af<td r>75<td>l<td> Gas
+<td r>120<td c>—<td c>-<td c>—<td c>-<td r>180<td c>-<td c>—
+</table>
+
+(<sp>Litt</sp>.: »Handbuch d. Gastechnik«, IX, von
+Schilling & Bunte« [München 1919]; <sp>Strache</sp>,
+»Gasbeleucht. & Gasindustrien [Braunschweig
+1913]).
+<i>R. T.</i>
+</chapter>
+
+<chapter name="Luftgennemtrængelighed">
+<b>Luftgennemtrængelighed</b> hos
+Husbygningsmaterialer befordrer Husets naturlige
+Ventilation. Et Stofs L. afhænger i ringere Grad
+af Porøsitetsgraden end af Porernes absolutte
+Tværmaal, idet Friktionen i de fine Porer
+hæmmer L. Denne er saaledes mange Gange
+større hos groft end hos fint Sand, selv om
+Hulrumsprocenten er ens. For et Stofs L. har
+man opstillet Formlen: <i>Q = c · P/e</i>, hvori <i>Q</i> =
+Luftmængden i l pr Time og m<sup>2</sup>, <i>c</i> = en
+Materialkonstant, <i>p</i> = Trykforskellen i kg/m<sup>2</sup>,
+<i>e</i> = Vægtykkelsen i <i>m</i>, men i Virkeligheden
+afhænger <i>c</i> ikke blot af Materialet, men ogsaa
+af <i>p</i>, idet <i>c</i> aftager med voksende <i>p</i> som Følge
+af den med den større Lufthastighed følgende
+større Gnidningsmodstand, og de
+Forsøgsværdier af <i>c</i>, man finder i Litteraturen, er derfor
+meget variable. For <i>p</i> = 100 kg/m<sup>2</sup> fandt
+<sp>Thielmann</sp> følgende Værdi af <i>c</i>:
+<table>
+<td 3>Kalksten<td r>0,14—0,45
+<td>Mørtel<td>af<td>1 Kalk + 1 Romancement<td r>0,51
+<td c>—<td c>-<td>Portlandcement<td r>0,57
+<td c>—<td c>-<td>1 PC + 1 K + 3 S<td r>0,64
+<td c>—<td c>-<td>1 RC + 1 K + 3 S<td r>1,36
+<td c>—<td c>-<td>1 K + 4 S, Alder 10 Døgn<td r>4,25
+<td c>—<td c>-<td>1 K + 4 S, Alder 13 Døgn<td r>4,99
+<td 3>Teglsten<td r>0,32—2,50
+<td 3>Kalksandsten<td r>0,16—29,02
+<td 3>Rhinske Svømmesten<td r>229—1704
+</table>
+
+Naar <i>p</i> formindskedes fra 100—5, steg <i>c</i> til
+det 2—3-dobbelte.
+
+Naar Stoffets Porer fyldes med Vand, bliver
+det lufttæt. L. af Vægbedækninger vokser i
+Ordenen: Vandglas (bliver i Tidens Løb helt tæt),
+Oliefarve (er kun i nystrøget Tilstand helt tæt),
+Glanstapet, Kalkfarve, alm. Tapet, Limfarve.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Lufthavet">
+<b>Lufthavet.</b> Den Tanke, at Jordens
+Atmosfære er at betragte som et Hav af Luft, skyldes
+<sp>Torricelli</sp>; han erkendte, at den Kraft, der
+holder Kvægsølvet oppe i Barometerrøret, er
+Vægten af hele den Luftmasse, der hviler paa
+den fri Kvægsølvoverflade. Men medens det
+saaledes er godtgjort, at Atmosfæren bestaar af
+en <sp>bestemt</sp> Vægtmængde Luft, er det langt
+vanskeligere at faa en klar Forestilling om
+denne Luftmængdes Rumfang og Fordeling
+omkring Jordkloden. Som Luftart følger dens
+Tilstandsforandring opefter fra Jordoverfladen
+Boyle—Mariottes Lov, hvoraf udledes, at
+Lufttrykket falder med Højden i et Forhold, der
+omtrentlig kan udtrykkes ved Formlen
+
+<i>log</i> (<i>p</i><sub>0</sub>/<i>p</i>) = <i>h</i>/18400(1+<i>at</i>),
+hvor <i>p</i> og <i>p</i><sub>0</sub> er Lufttrykket, henh. i Højden <i>l</i>
+m og ved Jordens Overflade, <i>a</i> Luftens
+Udvidelseskoefficient, 1/273, og <i>t</i> Temp. (C.) af den
+<i>h</i> m høje Luftsøjle. Denne Formel giver, at
+Luftens Tryk paa det nærmeste halveres for
+hver 5500 m, man stiger op, og altsaa f. Eks. i
+en Højde af 5,5 km er c. 1/1000 ell. omtr. 3/4
+mm. Men hvor langt ud, man maa tænke sig, at L.
+naar, er ikke godt at sige; de fjerneste
+Vidnesbyrd om dets Tilstedeværelse har vi i Nordlys
+og Stjerneskud, der, hver paa sin Maade, viser
+os Luften i lysende Tilstand; Maalinger af
+disses Højde over Jordoverfladen giver nogle
+Hundrede km som største »paaviste« Højde.
+Hosstaaende Fig. 1 viser — efter A. Wegener:
+»Thermodynamik d. Atmosphære« —, hvorledes
+man maaske kan forestille sig et Tværsnit af
+L.; dog maa det bemærkes, at de homogene
+Nordlysbuers store Højde, c. 500 km, næppe
+kan siges at være paalideligt maalt.
+
+L. bestaar af en Blanding af forsk. Luftarter,
+hovedsagelig Kvælstof, Ilt og Argon, i Mængder
+paa henh. ca. 78,1, c. 20,9 og c. 0,9
+Rumfangsprocent; men foruden disse Luftarter findes
+ganske ringe Mængde af nogle andre, nemlig
+Brint, Helium, Neon, Krypton, Xenon, Kulsyre
+og — i de laveste Lag i større Mængder —
+Vanddamp. Imidlertid vil Blandingsforholdet
+forskydes betydeligt med Højden, fordi hver
+enkelt Luftart, iflg. Dalton's Lov, vil forholde
+sig ganske som om de øvrige ikke eksisterede,
+og de forsk. Luftarters Partialtryk vil derfor
+forandre sig paa forsk. Maade med Højden,
+de lettere mindre og de tungere mere, hvoraf
+følger, at L. bliver forholdsvis rigere paa de
+lettere Luftarter i de store Højder; det er
+saaledes sandsynligt, at L. i 100 km's Højde
+væsentlig bestaar af Brint og nogle Procent
+Helium. — Man har formodet, at der skulde findes
+en hidtil ukendt Luftart, Geocoronium, med
+mindre Atomvægt end Brint, som skulde udgøre
+den yderste Del af L.; men dette har ikke
+bekræftet sig, og de nyere Fremskridt paa
+Atomforskningens Omraade giver næppe heller
+Udsigt til, at et saadant Grundstof vil kunne
+finde Plads i Grundstofsystemet.
+
+Indtil dette Aarh.'s Beg. ansaa man L. for
+at udgøre en samlet Enhed, og man antog, at
+
+<img>Fig. 1.</img>

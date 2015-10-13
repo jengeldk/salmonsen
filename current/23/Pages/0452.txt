@@ -1,0 +1,140 @@
+Paa samme Maade som Maanen vil Solen
+fremkalde en flodfrembringende Kraft; men da
+denne virker omvendt med Kubus af Afstanden,
+medens den tiltrækkende Kraft virker omvendt
+med Kvadratet af Afstanden, vil Følgen være den,
+at endskønt Solens Tiltrækning paa Jorden er
+næsten 200 Gange Maanens Tiltrækning, vil
+den flodfrembringende Kraft fremkaldt ved
+Solen kun være 2/5 Gange den, som hidrører fra
+Maanen.
+
+Hidtil er forudsat, at Solen og Maanen staar
+i Ækvator; for Solen finder dette Sted kun ved
+Jævndøgnstiderne, for Maanen 2 Gange i hvert
+Omløb om Jorden; ellers er saavel Solen som
+Maanen ikke i Ækvator. Følgen heraf vil
+være, at der foruden den <sp>halvdaglige</sp>
+Flod, der er desto større, jo nærmere Maanen
+og Solen er Ækvator, og som forsvinder ved
+Jordens Poler, optræder en <sp>daglig</sp> Maane-
+og Solflod, naar Maanen og Solen er i øvre
+Kulmination, Ebbe derimod, naar de er i nedre
+Kulmination. Falder den halvdaglige og
+daglige Flod sammen ved øvre Kulmination, vil de
+virke sammen, men mod hinanden ved
+paafølgende nedre Kulmination, og Forskellen
+mellem disse to T. vil blive det dobbelte af den daglige
+Flod. Denne har sin største Værdi ved 45° n.
+og s. Br., men forsvinder derimod saavel ved
+Polerne som ved Ækvator. Denne daglige Flod
+er lidet mærkbar ved Atlanterhavets Kyster,
+derimod meget betydelig i andre Havne, som
+ved Kysterne af Tongking. Foruden disse to T.
+optræder der ogsaa en <sp>fjortendaglig</sp>
+Maaneflod og en <sp>halvaarlig</sp> Solflod; den
+sidste viser sig mange Steder ved, at i det ene
+halve Aar er T. højere om Formiddagen end
+om Eftermiddagen, i det andet halve Aar
+finder det omvendte Sted; den forsvinder ved 35°
+16′ n. og s. Br.
+
+Newton's statiske Teori stemmer lidet med
+de faktiske Forhold. Jorden er ikke helt
+dækket af et overalt lige dybt Hav, meget mere
+deler Kontinenterne de store Oceaner paa en
+saadan Maade, at disses største Udstrækning
+kommer til at gaa i Nord og Syd. T. maa
+derfor nærmest betragtes som opstaaede i store
+Indsøer, og paa dette Tilfælde kan Newton's
+Teori ikke anvendes. Vandet er heller ikke
+uden Friktion, og Vandmassen sættes ikke
+øjeblikkelig i Bevægelse. Derfor vil T.
+gennemgaaende indtræffe, efter at Maanen har
+kulmineret, og Springfloden kommer sædvanlig 1
+til 2 Dage efter Ny- og Fuldmaanedagen.
+
+Laplace søgte gennem Hydrodynamikens
+Grundligninger at forklare T., idet han
+fremstillede det som et Bevægelsesproblem, hvori
+han rigtignok ikke tog Hensyn til Friktionen,
+den <sp>dynamiske</sp> Teori. Hans Undersøgelser
+er det vigtigste Fremskridt paa dette Omraade
+siden Newton, men denne Teori har ikke
+formaaet helt ud at kunne forklare T. i sine
+store Træk. Heller ikke har de nyere
+Undersøgelser af Airy og Ferrel kunnet gøre fuldt
+Rede for mange af de Ejendommeligheder,
+man har bemærket ved T. Senere har J. H.
+Poincaré, S. S. Hough og Harris arbejdet med
+dette Spørgsmaal. Den førstnævnte har ikke
+haft til Hensigt at faa numeriske Værdier
+anvendelige paa en bestemt Fordeling af Land og
+Vand; han har snarere foretrukket at paapege
+de Metoder, hvorved man muligvis kan komme
+til Løsningen af dette Problem ad matematisk
+Vej. Hough er det lykkedes at bringe
+Problemet til en langt mere tilfredsstillende Løsning
+end man hidtil har kunnet opnaa. Harris er i
+sine Studier gaaet ud fra Ferrel's Anskuelse,
+at T. er staaende Bølger af kæmpemæssige
+Dimensioner. (Lignende Studier er anstillet af
+Defant: »Untersuchung über die
+Gezeitenerscheinungen im Mittel- und Randmeeren in
+Buchten und Kanälen«, I—IV, 1919—20). Og han har
+paavist saavel ude paa det store Hav som i
+Havbugter visse no-tide-point, som han kalder
+<sp>amphidromiske</sp> Punkter; omkring et
+saadant Punkt gennemløber Højvandet alle
+Timer (det er specielt den halvdaglige
+Maaneflod, som er studeret). Der er paavist slige
+Punkter, bl. a. i St Lorenzgolfen (Adria,
+Sterneck), den engelske Kanal (Defant), Det stille
+Ocean, Atlanterhavet (Defant). I Nordsøen har
+J. Proudman og A. T. Doodson fundet 3 slige
+amphidromiske Punkter, et i Hoofden omtrent
+midtvejs mellem England og Holland, et noget
+uden for Jæderen og et c. 160 km V. f.
+Esbjerg. Under »Maud«'s Drift 1922—24 N. f.
+Sibiriens Kyst blev T. studeret af Sverdrup
+(<i>Dynamic of tides on the North Sibirian Shelf</i>,
+1926).
+
+Kan derfor Problemet endnu ikke løses i sin
+Alm., er man nødt til ad empirisk Vej at
+undersøge, hvorledes Vandstanden forandrer sig
+under Paavirkning af Solen, Maanen og
+Jorden, og som den Metode, der heri yder alt,
+hvad man kan forlange, staar i første Række
+den af Lord Kelvin 1867 udviklede
+<sp>harmoniske Analyse</sp>. Efter denne Metode
+tænker man sig den hele Flodbølge sammensat af
+en Række Bølger, som hver med sin Højde og
+Hastighed bevæger sig hen over Havet. Af de
+Bølger, som Lord Kelvin tager Hensyn til, har
+11 en halvdaglig Periode, 10 en daglig, og 7 en
+længere Periode, hovedsagelig hidrørende fra
+Vind og Vejr, foruden at enkelte af disse
+Bølger slaar sig sammen; af disse sidste har man
+i alt 12. For at bestemme Værdierne for de
+mest fremtrædende af disse Bølger anvender
+Lord Kelvin alm. de af en Vandstandsmaaler
+— Mareograf (s. d.) — optegnede timevise
+Vandstandsmaalinger (s. d.) strækkende sig over
+omtr. et Aar. Darwin har givet en Udredning
+af Metodens praktiske Udførelse (Baird: <i>Manual
+of tidal observations</i>, London 1886; Schureman:
+<i>Manual of the harmonic analysis and prediction
+of tides</i>, Washington 1924) og konstrueret et
+meget sindrigt Beregningsapparat, forenklet af
+Brown og Doodson; han lægger til Grund
+Newton's Ligevægtsteori, medens Börgen i sin
+Anvisning: »Die harmonische Analyse d.
+Gezeitenbeobachtungen« (Berlin 1885) benytter den
+Udvikling, Airy i <i>Tides and Waves</i> har givet af
+Vandets Bevægelse under Paavirkning af
+Solens og Maanens flodfrembringende Kræfter i
+en Kanal, der følger en Storcirkel (Jordens
+Oceaner sammensættes af Stykker af saadanne
+Kanaler). En god Fremstilling af denne
+Kanalteori har man i H. Lamb: <i>Hydrodynamics</i>,

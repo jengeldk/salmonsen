@@ -1,0 +1,139 @@
+Retninger. Disse Virkninger, saavel som alle andre
+mellem Strømledere af andre Former, kan
+udledes af de Kræfter, hvormed den ene Strøms
+magnetiske Felt virker paa den anden
+Strømleder. To retlinede Strømme, der danner en
+Vinkel med hinanden, vil søge at dreje sig
+saaledes, at de bliver parallelle, og at deres
+Strømme gaar i samme Retning. Strømme gennem
+Traadspiraler (»Solenoïder«) virker paa
+hinanden som Magneter (se
+<sp>Elektromagnetisme</sp>). Forsøg over disse Virkninger kan
+udføres med Ampère's Stativ. To Metalbøjler <i>v</i> og
+<i>t</i>, der staar paa Træpladen <i>A</i>,
+bærer ved <i>y</i> og <i>y'</i> smaa Metalskaale med
+Kviksølv, hvori to Staalspidser, der danner Enderne
+af Rammen <i>cde</i>, dykker ned.
+Denne Ramme dannes af en Kobber- eller
+Aluminiumstraad og tjener som bevægelig
+Strømleder, idet Klemskruer paa den
+nederste Ende af <i>v</i> og <i>t</i> sættes i Forbindelse
+med Polerne paa et galvanisk Batteri. En lgn.,
+men fast opstillet Ramme <i>a</i> <i>b</i>, der forsynes med
+Strøm gennem Ledningstraadene <i>f</i> og <i>g</i>, nærmes
+til den bevægelige Ramme, og ved at holde den
+i forsk. Stillinger kan man undersøge de to
+Strømmes indbyrdes Virkninger. Er
+Ophængningen fin og Strømmen stærk, vil den
+bevægelige Strømkreds under Jordmagnetismens
+Paavirkning indstille sig i magnetisk Øst og Vest
+paa en saadan Maade, at Strømmen vil bevæge
+sig i samme Omløbsretning som Viseren paa et
+Ur, naar man ser Strømkredsen Syd fra. Ogsaa
+Virkningerne af en Magnet paa en Strømleder
+vises ved Ampère's Stativ. De findes ved
+Anvendelse af Holten's Regel til at bestemme en
+Strøms Virkning paa en Magnetpol (se
+<sp>Elektromagnetisme</sp>); Strømlederen flytter sig
+i en Retning, der er den modsatte af den, hvori
+Strømmen søger at drive Magnetpolen.
+<i>K. S. K.</i>
+
+<img>Ampère's Stativ.</img>
+</chapter>
+
+<chapter name="elektrodynamisk Induktion">
+<b>elektrodynamisk Induktion,</b> se
+<sp>Induktion</sp>.
+</chapter>
+
+<chapter name="Elektrodynamometer">
+<b>Elektrodynamometer,</b> et Apparat, der er
+konstrueret af <sp>W. Weber</sp> til Maaling af
+elektriske Strømmes Styrke ved Hjælp af de
+Kræfter, hvormed Strømlederne virker paa
+hverandre. Det bestaar af en større fast Rulle af
+isoleret Kobbertraad, i hvis Hulning der
+svæver en mindre Traadrulle, som er ophængt ved
+to fine Metaltraade. Naar en elektrisk Strøm
+sendes gennem begge Rullerne, vil der i den
+faste Rulles Indre dannes et Magnetfelt, som
+paavirker den ophængte Rulle til Drejning, saa
+at denne gør et Udslag. Hvis Udslaget aflæses
+ved Spejlaflæsning, kalder man Instrumentet
+et Spejldynamometer. Elektrodynamometre i
+andre Former anvendes til Ampèremetre,
+Voltmetre og Wattmetre (se <sp>elektriske
+Maaleinstrumenter</sp>).
+<i>Abs. L.</i>
+</chapter>
+
+<chapter name="Elektrofor">
+<b>Elektrofor</b> (græsk: »Elektricitetsbærer«) er
+Navnet paa et af <sp>Volta</sp> opfundet Apparat, der
+tjener til Frembringelse af Elektricitet ved
+Fordeling. Det bestaar af en flad Metalskaal,
+<sp>Formen</sp>, hvori der er indstøbt en <sp>Kage</sp> af Lak
+og Harpiks. Nu bruges ofte en Ebonitplade i
+Stedet for Harpikskagen. Paa Kagen sættes et
+<sp>Skjold</sp> af Metal ell. af Træ, beklædt med
+Stanniol. En Glas- ell. Ebonitstang er fæstet til
+Skjoldet og tjener som isolerende Haandtag.
+Fra Formens Bund gaar en Metalstift op
+gennem Kagen og ender i Højde med dennes
+Overflade. Skal E. bruges, tager man Skjoldet af,
+gnider Kagens Overflade med Katteskind,
+hvorved den bliver negativ elektrisk, og sætter
+Skjoldet ned paa den. En Gnist slaar igennem
+Metalstiften over mellem Skjoldet og Formen,
+der ved Stiften kommer i ledende Forbindelse
+med hinanden. E. danner nu en Kondensator,
+hvor den ene Belægning, Skjoldet, har en positiv
+Ladning paa sin Underflade, medens den anden,
+Formen, indvendig har en negativ Ladning, og
+Kagen, der er »polariseret« saaledes, at dens
+Overflade er negativ, dens Underflade positiv,
+danner det isolerende Mellemlag. Alle
+Ladningerne binder hverandre, saa de ikke kan
+afledes til Jorden, og Apparatet synes uelektrisk.
+Løfter man Skjoldet op, bliver dettes positive
+Ladning fri, saa man kan trække en lang Gnist
+fra det, medens en lige saa stor negativ
+Ladning frigøres paa Formen, hvilket man let kan
+iagttage, naar Formen er stillet paa et
+isolerende Underlag. Kagen, der er Isolator,
+beholder sin elektriske Polarisation væsentlig
+uforandret. Er Formen afledet til Jorden, kan
+man ved at sætte Skjoldet paa Kagen, løfte det,
+trække en Gnist fra det, løfte det o. s. v. faa
+en næsten ubegrænset Mængde Gnister fra E.,
+uden at man har behøvet at gnide det mere
+end een Gang. Ved at løfte Skjoldet udfører
+man et Arbejde imod de elektriske Kræfter, der
+søger at drage Skjoldets positive Ladning ned
+mod Kagens negative, og det er dette Arbejde,
+der giver Ladningen paa Skjoldet Spænding.
+Ofte udelades Metalstiften; man kan da med to
+Fingre bringe Skjoldet og Formen i ledende
+Forbindelse med hinanden. Bringes denne
+Forbindelse ikke i Stand, vil man finde Skjoldet
+uelektrisk, efter at det er løftet op fra Kagen.
+Der sker altsaa ingen Overgang af Elektricitet
+mellem Kagen og Skjoldet. Naar man lader den
+elektriserede Kage staa paa et tørt Sted, dækket
+af Skjoldet, kan den holde sin Ladning i lang
+Tid. Heraf Navnet E.
+<i>K. S. K.</i>
+
+<img>Elektrofor.</img>
+</chapter>
+
+<chapter name="Elektroformaskine">
+<b>Elektroformaskine,</b> se
+<sp>Influensmaskine</sp>.
+</chapter>
+
+<chapter name="Elektrografi">
+<b>Elektrografi,</b> en særegen Fremgangsmaade
+til galvanisk Ætsning af Zinkplader til Bogtryk,
+

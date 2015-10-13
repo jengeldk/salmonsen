@@ -1,0 +1,141 @@
+Da man desuden regner med hele Dage, kan
+den cykliske Beregning undertiden give
+Paaskefuldmaanen en Dag fejlagtig, medens den
+astronomiske selvfølgelig giver den rigtige Dag
+og Klokkeslet. Naar det nu træffer sig saa, at
+den ene Beregning giver denne Fuldmaane paa
+en Lørdag, den anden paa en Søndag, saa
+bliver Paasken en Uge forsk., da det jo er
+bestemt, at det først er den flg. Søndag, der
+skal fejres som Paaskedag, naar
+Paaskefuldmaanen falder paa en Søndag. Hvis Hensigten
+med denne Bestemmelse var, at man vilde
+undgaa at fejre Paaske sammen med Jøderne, som
+har deres Paaskedag paa selve
+Fuldmaanedagen uanset Ugedagen, saa holder dette ikke
+Stik for den gregorianske Kalender, thi 1903
+faldt den gregorianske Paaske 12. Apr.
+sammen med Jødernes, og 1923 indtraf det paa ny:
+1. Apr., derpaa 1927 17. Apr., 1954 18. Apr.
+og 1981 19. Apr., naar man ikke gaar ud over
+indeværende Aarh. Undertiden, f. Eks. i 1905,
+kan det hænde, at den cykliske Beregning
+sætter Paaskefuldmaanen en hel Maaned senere
+end den astronomiske. 1905 indtraf i Greenwich
+Fuldmaanen 21. Marts Kl. 4,56 Form., og man
+skulde have Paaskedag 26. Marts; efter den
+cykliske har man Paaskefuldmaane 18. Apr.
+— senere kan den som nævnt ikke komme —
+og Paaskedag skal fejres 23. Apr., thi den
+forangaaende Fuldmaane har man efter den
+cykliske Beregning 19. Marts, men denne
+indtræffer før 21. Marts. Havde man imidlertid
+benyttet den astronomiske Beregning, vilde man
+1905 haft Paaskedag i Amerika 23. Apr., men
+i den gamle Verden 26. Marts, thi i
+Washington indtraf Fuldmaanen 20. Marts Kl. 11,48
+Em., altsaa før 21. Marts. Ved at benytte
+denne cykliske Metode, som regner med en tænkt
+Maane, hvis Faser meget nær stemmer
+overens med den virkelige Maanes, men som
+indtræffer paa samme Dag for hele Jorden,
+undgaar man den praktiske Ulempe, som vilde
+indtræde ved at benytte den virkelige Maane.
+For Øjeblikket arbejdes der paa at fæste
+Paaskedag enten til en bestemt Søndag i April
+(Stemningen er mest for 2. Søndag i April)
+ell. til en bestemt Dato, men endnu er der ikke
+truffet nogen Afgørelse herom.
+
+Datoen for Paaskefuldmaanen kan man
+udlede paa flg. Maade: 1) I den <sp>julianske</sp>
+Kalender vil Datoen være (47—11 N + 30.p)
+Marts, hvor N er Aarets Gyldental og p et
+helt Tal saa stort, at man faar en Dato i Marts
+lig ell. større end 21. For 1923 er Gyldental 5,
+følgelig Paaskefuldmaanedagen 22. Marts, som
+er Onsdag, altsaa Paaskedag 26. Marts. 2) I
+den <sp>gregorianske</sp> Kalender vil Datoen
+være (44—e) Marts, hvor e er Aarets Epakt.
+Er den gregorianske Epakt større end 24, har
+man at forøge den saaledes erholdte Dato med
+30, og man faar da (43—e) April, eller
+forekommer 25 og 24 som Epakt i samme
+Maanecykel, er Paaskefuldmaanens Dato (42—e) Apr.
+For 1926 er Gyldental 8, Epakt 16, følgelig
+Paaskefuldmaane 28. Marts; men da denne Dag
+er Søndag, bliver Paaskedag 4. April.
+
+I Stedet for at benytte Ovenstaaende
+Fremgangsmaade kan man anvende den af Gauss
+givne Metode, som har den Fordel, at man
+derved finder Paaskedagens Datum direkte og
+følgelig ikke behøver at kende Aarets
+Søndagsbogstav. Efter denne dividerer man
+Aarstallet med 19, 4 og 7, og Resten kaldes henh.
+a, b, c (Kvotientens hele Tal kastes væk, og
+gaar Divisionen op, er Resten = 0). a
+multipliceres med 19, og dertil lægges m, taget af
+nedenstaaende Tabel, denne Sum divideres med
+30, og Resten kaldes d. Nu multipliceres b med
+2, c med 4 og d med 6; disse Tal samt n, taget
+af Tabellen, lægges sammen, og Summen
+divideres med 7, Resten kaldes e. Paaskedag er
+da (22+d+e) Marts ell. (d+e-9) April.
+
+For den julianske Kalender er m = 15 og
+n = 6. For den gregorianske Kalender er
+<table>
+<td>m=22, n=2<td>fra<td>1583—1699,
+<td>m=23, n=3<td c>-<td>1700—1799,
+<td>m=23, n=4<td c>-<td>1800—1899,
+<td>m=24, n=5<td c>-<td>1900—2099,
+<td>m=24, n=6<td c>-<td>2100—2199,
+</table>
+dog saaledes, at denne Kalender har følgende
+2 Undtagelser: 1) Faar man som Paaskedagens
+Datum 26. Apr., d—29, e=6, vælges 19. Apr.,
+f. Eks. 1981. 2) Er d=28, e=6 og tillige a
+større end 10, saa er Paaskedagen ikke 25.,
+men 18. Apr., f. Eks. 1954.
+
+Saaledes er for 1926 a=7, b=2, c=1, d=7,
+e=6 og Paaskedagen 4. Apr. Den julianske
+Paaskedag i 1923 (a=4, b=3, c=5, d=1,
+e=3) er (22+1+3) 26. Marts. 1922 indtraf den
+julianske Paaskedag 3. Apr., den gregorianske
+16. Apr., men denne Forskel af 13 Dage
+mellem Datoen for den julianske og gregorianske
+Paaskedag 1922 er ikke andet end
+Stilforskellen; i Virkeligheden fejres Paasken hos
+Russerne og Vesteuropas Folk paa een og samme
+Dag. Den samme tilsyneladende Forskel
+havde 1919: 20. April/7. April 1916: 23. April/10. April o. s. v. Men
+da Stilforskellen vokser, bliver et saadant
+Sammentræf sjældnere og sjældnere og vilde
+tilsidst blive en Umulighed. Sidste Gang vilde det
+finde Sted i Aaret 2698; da er Stilforskellen 18
+Dage og Paaskedagen 24/6 April. Første Gang
+fandt denne Samtidighed Sted 1583 10. April/31. Marts.
+Oftest er der ogsaa en virkelig Forskel til
+Stede, hvorved er at mærke, at den julianske
+Paaske i saa Fald altid kommer <sp>senere</sp> end
+den gregorianske. Forskellen, som naturligvis
+altid maa udgøre et Multiplum af 7 Dage, da
+Paaskedag kun fejres paa Søndag, er i
+1900—1923 11 Gange 7 Dage, 1 Gang 28 (1902) og
+5 Gange 35 Dage.
+
+For at finde, naar Jøderne skal fejre deres
+Paaske (Passah), hvilket finder Sted som nævnt
+paa selve Fuldmaanedagen uanset Ugedagen,
+har Gauss givet flg. Regel. Da den 15. Nisan —
+Passah-Festens første Dag — i det jødiske Aar
+A falder i Aaret A—3760=B efter den
+kristelige Tidsregning, har man at multiplicere A
+med 12 og dertil addere 17 ell., hvad der
+kommer ud paa det samme, multiplicere B med 12
+og dertil addere 12. Summen divideres med
+19, og Resten kaldes a. Endvidere divideres
+A ell. B med 4, og Resten benævnes b.
+Derpaa summeres følgende Størrelser 32,0440932,

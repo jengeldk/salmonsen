@@ -1,0 +1,148 @@
+Eks. ikke er den tænkte C., der sprænger en
+Centrifuge, som løber for hurtigt, men at
+Sprængningen fremkommer, fordi Centrifugens
+Sammenhængskraft ikke længere er stor nok til
+at holde Delene i deres krumme Baner trods
+den overdrevne Hastighed.
+
+En Beregning af C. viser, at den forholder sig
+som Legemets Masse, som Hastighedens Kvadrat
+og omvendt som Cirklens Radius. Vejer Legemet
+<i>m</i> g, bevæger det sig <i>v</i> cm i Sek., og er Banens
+Radius <i>r</i> cm, finder man, at C. = <i>mv</i><sup>2</sup>/<i>r</i> Dyn,
+(se <sp>absolut Maal</sp>). Er Hastigheden, altsaa
+ogsaa Omløbstiden <i>T</i>, konstant, saa udtrykker
+man hellere C. ved Hjælp af <i>T</i>. Cirklens
+Omkreds er nemlig 2 π <i>r</i>, og da den med
+Hastigheden <i>v</i> tilbagelægges i <i>T</i> Sek., har man, at
+<i>v T</i>=2 π <i>r</i>. Finder man <i>v</i> heraf og indsætter
+den fundne Værdi i Udtrykket for C., faar man
+C. = 4<i>π</i><sup>2</sup><i>mr</i>)/<i>T</i><sup>2</sup> I St f. at sætte <i>T</i><sup>2</sup> i Nævneren kan
+man i Tælleren skrive <i>n</i><sup>2</sup>, naar n,
+»Omløbstallet«, er Antallet af Omløb i Sek. Vil man ikke
+have C. udtrykt i Dyn., men i kg's Vægt, kan
+man endelig benytte Udtrykket <i>C</i> = 4<i>mn</i><sup>2</sup><i>r</i>,
+hvor <i>m</i> er Legemets Vægt i kg, <i>n</i> Omløbstallet
+og <i>r</i> Cirklens Radius i m. Dette Udtryk er ikke,
+som de andre, mat. nøjagtigt, men giver en
+Værdi for C., der i Mellemeuropa er 0,6 % for
+lille. Svinger man en Sten, der vejer <i>m</i> kg,
+rundt i en vandret Cirkel med en m's Radius,
+saa viser den sidste Formel, at C. bliver lig
+Stenens Vægt, naar <i>n</i> er 1/2, d. v. s., naar Stenen
+bruger 2 Sek. til et Omløb. Gik Stenen derimod
+10 Gange rundt i Sek., vilde C. blive 400 Gange
+dens Vægt. Medens C. altsaa er ringe for
+langsomme Bevægelser, kan den blive farlig ved
+hurtige; Møllestene og Centrifuger kan
+sprænges ved den, og paa Jernbanekrumninger, der
+befares af hurtige Tog, bliver den ligeledes
+meget kendelig. Da den for en given Hastighed
+forholder sig omvendt som Banens
+Krumningsradius, maa denne sidste gøres desto større, jo
+hurtigere Tog Banen er bestemt til at befares
+af. Desuden lægger man i Krumningerne den
+yderste Skinne højere end den inderste. Paa
+hver Vogn virker nemlig ved Farten gennem en
+Krumning C. udad; Vognens Vægt virker nedad,
+og Resultanten af de to Kræfter bør staa
+vinkelret paa de to Skinnerækkers Plan, for at ikke
+Hjulrandene skal drives over mod den ene Rk.
+Toget hælder altsaa indad ligesom en Rytter,
+der rider hurtig rundt i Cirkus. Det bekendte
+Kunststykke, at svinge en Spand Vand rundt i
+en lodret Kreds uden at spilde, skyldes C. Naar
+Spanden i sin øverste Stilling vender Bunden
+opad, maa Hastigheden være saa stor, at C.
+bliver større end Vandets Vægt. Ved Jordens
+daglige Bevægelse om sin Akse opstaar en C.,
+der er vinkelret paa Aksen og rettet bort fra
+den. Ved Ækvator er den størst; den udgør her
+1/289 af Tyngden og virker lige imod denne. Paa
+andre Steder danner den en Vinkel med
+Jordradien; Resultanten af C. og Jordens
+Tiltrækning paa et Legeme peger ikke lige mod
+Jordcentret, og da Havfladen maa forme sig
+saaledes, at den er vinkelret paa denne Resultant,
+kan den ikke nøjagtig have Form som en
+Kugleflade; C. er altsaa Aarsag til Jordens
+<sp>Fladtrykning</sp>. En Planet, som Jupiter, der har
+mindre Tæthed og kortere Døgn end Jorden, er
+mere fladtrykt end denne.
+
+Til at paavise C. og dens Love bruger man
+<sp>Centrifugalmaskiner</sp> (Fig. 2). Ved at
+dreje det store Hjul sætter man det lille i
+hurtig Rotation; paa dettes lodrette Akse kan forsk.
+Ting fastgøres, f. Eks. en Træramme, hvori er
+udspændt en vandret Metaltraad, hvis
+Midtpunkt træffes af Aksens Forlængelse. Paa
+Traaden er der stukket to gennemborede Kugler,
+som er forbundne med hinanden ved en Traad.
+Stiller man Kuglerne hver paa sin Side af
+Metaltraadens Midte og drejer rundt, vil C. spænde
+Forbindelsestraaden. Forholder Kuglernes
+Masser sig omvendt som Afstandene fra
+Omdrejningsaksen til deres Centra, vil de under
+Omdrejningen holde hinanden i Ligevægt; i
+modsat Fald vil den Kugle, for hvilken Produktet
+af denne Afstand og Kuglens Masse er størst,
+fare ud til Rammen og trække den anden med
+sig. En hul Glaskugle, delvis fyldt med to
+Vædsker med forsk. Vægtfylde, saasom Vand og
+Kvægsølv, bruges til at illustrere
+<sp>Centrifugens</sp> Princip; under Omdrejningen lægger den
+tungere Vædske sig yderst. Forlænger man
+Centrifugalmaskinens Akse med en lodret Stang,
+der foroven ved Hængsler bærer to Stænger,
+som hver ender i en tung Kugle, saa vil disse
+Kugler hænge lige nedad, naar Maskinen staar
+stille; men drejes den, fjerner Kuglerne sig fra
+den lodrette Stang, og desto mere, jo hurtigere
+Rotationen er. En lgn. Indretning bruges ved
+Dampmaskinen som
+<sp>Centrifugalregulator</sp>. En elastisk Staalfjeder, der er bøjet til en
+Ring, og som er sat løst paa den lodrette Stang,
+saa at den ved Omdrejningen kommer til at
+rotere om en lodret Diameter, vil ved C.
+spændes ud til en aflang Kreds, hvis længste Akse er
+vandret; ved sin Omdrejning beskriver den en
+Flade, der minder om Jordens fladtrykte Form.
+<i>K. S. K.</i>
+
+<img>Fig. 2.</img>
+</chapter>
+
+<chapter name="Centrifugalmaskine (se Centrifugalkraft)">
+<b>Centrifugalmaskine,</b> se
+<sp>Centrifugalkraft</sp>.
+</chapter>
+
+<chapter name="Centrifugalpendul (se Pendul)">
+<b>Centrifugalpendul,</b> se <sp>Pendul</sp>.
+</chapter>
+
+<chapter name="Centrifugalpumpe (se Pumpe)">
+<b>Centrifugalpumpe,</b> se <sp>Pumpe</sp>.
+</chapter>
+
+<chapter name="Centrifugalregulator (se Regulator)">
+<b>Centrifugalregulator,</b> se <sp>Regulator</sp>.
+</chapter>
+
+<chapter name="Centrifugalsigte (se Sigte)">
+<b>Centrifugalsigte,</b> se <sp>Sigte</sp>.
+</chapter>
+
+<chapter name="Centrifugaltørremaskiner">
+<b>Centrifugaltørremaskiner</b> benyttes til
+Tørring af Tøj og Garn i St f. Vridemaskiner, samt
+ved forsk. kem. Fabrikationer. Opr. bestod C.
+af Rammer, paa hvilke Tøjet ell. Garnet
+ophængtes ell. opvikledes; idet disse Rammer
+sattes i meget hurtig Omdrejning, slyngedes
+Vandet ved den herved frembragte Centrifugalkraft
+med stor Kraft ud af Tøjet. Nu benyttes som C.
+særlig dertil konstruerede Centrifuger.
+<i>K. M</i>.
+</chapter>

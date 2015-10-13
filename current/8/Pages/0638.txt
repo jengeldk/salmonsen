@@ -1,0 +1,111 @@
+Den vigtigste af de nævnte Størrelser er
+Belysningen, der aabenbart svarer til
+Strømtætheden ved en Vædskestrøm ell. elektrisk Strøm.
+Det er, hvor der bruges kunstigt Lys, saa godt
+som altid Belysningen, der har Interesse,
+derimod ikke Lysstyrken af de Lyskilder, der
+frembringer den. Det bliver Hygiejnens Sag at
+angive, hvor mange Lux de forsk. Arter af
+Arbejde behøver, og derefter Belysningsteknikkens
+Sag i de givne Tilfælde at skaffe dette Antal
+Lux paa mest økonomisk Maade. Til Læsning
+kræver man vel nu op mod 50 Lux; til
+Gadebelysning i Hovedgader c. 1 Lux, i Sidegader
+maaske helt ned til 1/10 Lux. Som et
+Taleksempel vil vi betragte en 500 Lys' Buelampe,
+anbragt 10 m over en Gade. Ved Gadens
+Overflade lodret under den er Belysningen
+500:10<sup>2</sup> = 5 Lux. Ud til Siden bliver den hurtigt
+mindre, dels fordi Afstanden til Lampen
+forøges, dels fordi Straalerne rammer Gaden
+skraat. 10 m til Siden er Belysningen kun 1,8
+Lux.
+
+<sp>Fotometre</sp>. Vi behandler først
+Fotometre til Lysstyrkemaaling. Det simpleste og
+et af de ældste af alle Fotometre er
+<sp>Skyggefotometret</sp> (Fig. 2) (Lambert, Rumford).
+De to Lysgivere, der skal sammenlignes,
+opstilles i nogen Afstand fra en hvid Skærm ell.
+Væg, <i>ab</i>, og tæt foran Væggen anbringes en mat
+sort, ikke for tynd Stang <i>c</i>. Man sørger for, at
+de to Skygger, som den kaster, kommer til at
+ligge tæt ved Siden af hinanden, og at Lyset i
+dem træffer Skærmen under samme Vinkel; ved
+at flytte den stærkeste Lysgiver udefter, gør
+man Skyggerne lige mørke. Da de to Skygger
+belyses hver af sit Lys, maa i saa Fald disses
+Lysstyrker forholde sig som Kvadraterne paa
+de to Afstande fra hver Lyskilde til den andens
+Skygge. Er Lampen <i>f</i> 3 m fra Væggen og
+Lyset kun 2 m, naar Skyggerne viser sig ens,
+lyser Lampen altsaa 9:4=2 1/4 Gange saa stærkt
+som Lyset. <sp>Ritchic</sp>'s Fotometer (Fig. 3)
+bestaar af en indvendig sværtet Kasse, hvori der
+staar et Prisme <i>r</i>, som er beklædt med hvidt
+Papir. Gennem Hullerne <i>oo</i> i Kassens Endeflader
+belyses Prismets to Sider af de to Lyskilder, som
+skal sammenlignes, og Belysningen iagttages
+gennem Røret <i>p</i>. <sp>Diffusions</sp>- eller
+<sp>Parafin-Fotometret</sp> (Joly) bestaar af en
+retvinklet Parafinblok (Fig. 4), der ved en tynd
+Metalflade <i>s</i> (et Staniolblad f. Eks.) er delt i
+to Halvdele. De to Lysgivere, der skal
+sammenlignes, sender deres Straaler vinkelret ind paa
+Endefladerne <i>A</i> og <i>B</i> og belyser hver sin
+Halvdel af den halvt gennemsigtige Parafinmasse.
+Øjet holdes i Forlængelse af <i>s</i> i passende
+Afstand, og man indstiller saaledes, at de to
+Halvdele synes lige lyse.
+
+<sp>Bunsen</sp>'s Fotometer bestaar af et Blad
+hvidt Papir med en Fedt- ell. Stearinplet.
+Denne viser sig mørk paa lys Grund, naar Papiret
+belyses stærkere forfra end bagfra, men lys
+paa mørk Grund, naar Belysningen bagfra er
+stærkest. Pletten udsender nemlig væsentlig
+Lys, der er gaaet gennem den, medens Papiret
+uden om for største Delen udsender reflekteret
+Lys. Dersom de to Lysgivere, der skal
+sammenlignes, opstilles hver paa sin Side af dette
+Fotometer, og man forskyder det, til Pletten
+forsvinder set fra et bestemt Sted, viser det sig,
+at den endnu er synlig fra andre Steder. Man
+er derfor nødsaget til at anvende en konstant
+Hjælpelyskilde, der staar paa den ene Side i
+uforandret Afstand fra Fotometret; de to
+Lyskilder, der skal sammenlignes, tages da hver
+for sig paa den anden Side. Først forskydes den
+ene, til Pletten set fra et bestemt Sted er
+usynlig, og denne Lyskildes Afstand fra Skærmen
+maales; dernæst fjernes den, og det samme
+gentages med den anden Lyskilde, idet Øjet
+befinder sig paa samme Sted som før. De to
+Lysstyrker forholder sig da som Kvadraterne
+paa de to fundne Afstande.
+
+Det bedste Fotometer er <sp>Lummer</sp> og
+<sp>Brodhun</sp>'s, der opfylder alle de
+Fordringer, man maa stille til et godt Fotometer,
+hvormed en betydelig Nøjagtighed skal naas. Det
+maa kræves, 1) at hvert af de to Felter kun
+faar Lys fra sin Lyskilde, 2) at de to Felter
+støder umiddelbart sammen i en skarp Grænse,
+3) at denne Grænse ved rigtig Indstilling
+forsvinder helt; endelig er det bekvemt, 4) at
+Fotometret er en uforanderlig sammenbygget
+Indretning, og 5) at en Omlægning af
+Fotometret, saa at de to Felter bytter Lyskilde,
+ikke forandrer Indstillingen. Skyggefotometret
+kan ikke opfylde Nr 2 og 3, Parafinfotometret
+ikke Nr 3 og 5 og Bunsen's Fotometer ikke
+Nr 1 og 5. I Lummer og Brodhun's Fotometer
+(Fig. 5) anvendes en »ideal« ell. »optisk
+Fedtplet«, som bevarer Bunsen's Fotometers
+væsentligste Fordel, den gode Opfyldelse af Nr
+
+<img>Fig. 2. Skyggefotometer.</img>
+
+<img>Fig. 3. Ritchie's Fotometer.</img>
+
+<img>Fig. 4. Parafinfotometer.</img>

@@ -1,0 +1,140 @@
+Temperaturen, Luft- og Dampmængden og
+Brændslets Art (bituminøst ell. ikke). De i
+Generatoren foregaaende Processer er i
+Virkeligheden temmelig indviklede, da der samtidig i
+Brændselsmassens forsk. Lag kan foregaa
+mange forsk. kem. Reaktioner, afhængige af
+Omgivelser, Temp., Hastigheder og Stofmængder.
+De væsentligste af disse er, at Kulstoffet med
+Ilten enten giver Kulilte ell. Kulsyre, ell. at
+Kulilten brænder videre til Kulsyre: 2C+O<sub>2</sub>
+=2CO; C+O<sub>2</sub>=C0<sub>2</sub> og 2CO+O<sub>2</sub>=2CO<sub>2</sub>; alle
+disse Processer foregaar under samtidig
+Udvikling af Varme. Det samme er Tilfældet, naar
+Kulilten og Vanddampene gaar i Forbindelse:
+CO+H<sub>2</sub>O=CO<sub>2</sub>+H<sub>2</sub>, men Varmeudviklingen er
+her kun ringe. Tillige kan der foregaa det, at
+Kulsyren af glødende Koks reduceres til
+Kulilte: CO<sub>2</sub>+C=2CO, og at Vanddampene i
+Berøring med de glødende Koks spaltes til Brint
+under Dannelse enten af Kulilte ell. Kulsyre:
+C+H<sub>2</sub>O=CO+H<sub>2</sub> eller C+2H<sub>2</sub>O=C0<sub>2</sub>+2H<sub>2</sub>.
+Alle de sidstnævnte 3 Processer foregaar
+under Forbrug af Varme. Den nærmere
+teoretiske Undersøgelse af alle disse
+Forhold giver til Resultat, at man, naar de
+forsk. Processer forløber under de gunstigst
+mulige Betingelser, af hvert kg anvendt
+Kulstof (Koks) højst kan vente at faa 4,97 m<sup>3</sup> K.
+(Halvvandgas) med et Indhold af 37,4 Vol.-%
+Kulilte + 8,5 Vol.-% Brint + 54,1 Vol.-%
+Kvælstof og med en Brændværdi af c. 1400 kg°
+pr m<sup>3</sup> Gas. Hvis det lykkes at præstere dette
+Resultat, har Anlægget arbejdet med en
+Nyttevirkning, der svarer til 83,8 % af det anvendte
+Brændsels Brændværdi. I Praksis vil der altid
+komme noget Kulsyre i Gassen, dette vil forøge
+Antallet af m<sup>3</sup> udviklet Gas — man faar
+henimod 5,40 m<sup>3</sup> mod 4,97 teoretisk — men til
+Gengæld synker Gassens Brændværdi — ned mod
+c 1190 kg° — og Anlæggets Nyttevirkning er
+noget lavere end den teoretisk mulige. Det er
+den i Generatoren holdte Middeltemperatur,
+der betinger Resultatet, og det vil tillige vise
+sig, at man aldrig helt kan undgaa, at der
+slipper noget Vanddamp igennem uden at spaltes.
+Det gælder saa ogsaa om i saa høj Grad som
+muligt at udnytte den bortgaaende Gasblandings
+fri Varme til Forvarmning ell. Dampudvikling.
+Herved forøges ogsaa Anlæggets Driftsøkonomi.
+Teoretisk skal der pr kg Kulstof anvendes
+0,34 til 0,59 kg Damp (efter som man
+forudsætter, at der kun dannes Kulilte, ell. at der
+tillige dannes en vis Mængde Kulsyre), men i
+Praksis viser det sig, at der behøves en hel Del
+mere Damp; det maa dog ikke naa op til 1 kg
+Damp pr kg Kulstof, thi er dette Tilfældet, saa
+er der noget forkert i Anlæggets Drift, saa
+slipper der for meget Damp igennem uden at
+blive spaltet. Forsøg har godtgjort, at
+Spaltningen af Vanddampene er en Proces, der
+tager en vis, kendelig Tid, og at den
+Udstrækning, i hvilken Spaltningen foregaar, derfor
+ogsaa foruden af Generatorens Middeltemperatur
+i høj Grad er afhængig af, at Dampen ikke har
+for stor Hastighed. Tillige foregaar Spaltningen
+af Vanddampen ved den her omtalte
+Arbejdsmetode, Halvvandgas-Processen, hvor der
+samtidig indføres Luft og Vanddamp,
+langsommere end ved den under b) omtalte Metode, hvor
+der laves Vandgas, og alene tilføres Damp.
+Derfor er ved Halvvandgas-Processen et vel
+afpasset Forhold mellem Hastigheden af Luften og
+af Dampen af stor Bet., men vigtigst af alt er
+det dog at holde den rette Temp. i Generatoren.
+Der er i Generatoren hedest i den underste
+Del af Brændselsmassen, og det er den der
+herskende Temp., der faar mest Indflydelse paa
+Sammensætningen af den producerede Gas.
+
+Det maa betones, at det ikke just er det
+Generatoranlæg, der giver Gas med højest
+Brændværdi, der arbejder mest økonomisk. Høj
+Brændværdi faas ved mindre Damptilsætning,
+men denne medfører højere
+Generatortemperatur og derfor større Tab ved Udstraaling og
+ved den af Gassen bortførte fri Varme. Paa
+den anden Side maa der bestemt advares mod
+at bruge mere Damp end strengt nødvendigt.
+Noget over den teoretisk nødvendige Mængde
+kan det ikke undgaas, at der bruges, thi ellers
+bliver det for vanskeligt at faa Slaggerne saa
+løse, at de nogenlunde let kan fjernes fra
+Risten.
+
+Hvis det ikke er Koks, men mere
+bitumenholdigt Brændsel, som f. Eks. Stenkul,
+Brunkul ell. Tørv, der anvendes, saa vil den i
+Brændselsmassens nederste Del dannede
+Halvvandgas paa Vejen opad ophede og afgasse
+Brændselsmassens øverste Lag, og den færdige
+Halvvandgas (K.) faar da en Iblanding af tunge
+Kulbrinter, Tjæredampe, Ammoniak o. a. Dette
+medfører, at den udviklede Gas har betydelig
+større Brændværdi pr m<sup>3</sup>, end naar Gassen er
+fremstillet af Koks, men regnet i Forhold til
+Brændværdien af det anvendte Brændsel vil
+Anlæggets <sp>Nyttevirkning</sp> være <sp>lavere</sp>,
+end om der havde været anvendt Koks, thi den
+dannede Tjære indeholder bundne
+Varmeværdier. Til Motordrift kan den producerede
+Gasblanding kun anvendes, hvis den er aldeles
+befriet for Tjære og Tjærerester, og man har
+derfor søgt at indvinde nogle af de bundne
+Kalorier ved at brænde Tjæredampene i
+Generatoren selv ell. paa anden Maade. Nutildags
+lægges der imidlertid mere og mere Vægt paa ved
+større Anlæg at indvinde baade Tjæren og
+Ammoniakken saa rationelt som muligt, da begge
+de nævnte Biprodukter har faaet stor Værdi
+p. Gr. a. alle de kastbare Forbindelser, man
+nu forstaar at indvinde, navnlig af Tjæren, ved
+videre Behandling.
+
+2) <sp>Biprodukter ved
+Kraftgasfabrikationen</sp>.
+
+Tidligere troede man, at det navnlig var ved
+den alm. Stenkulsgasfabrikation (alm.
+Gasværks-Retortovne, vertikale Ovne, Kammerovne,
+Koksværkerne), at Biprodukterne Tjære (der
+forarbejdes til Tjæreolie, Anilinprodukter m.
+m.) og Ammoniak (Gødningssalte til
+Landbruget) kunde udvindes i størst Mængde,
+men Erfaringerne med Anvendelse af
+bituminøst Brændsel i Generatorer viste saa, at
+der ved de forholdsvis lave Temp. udvindes
+betydelig mere Tjære og Ammoniak. En
+Varmegrad af 500—600° er nemlig nok til, at
+Kullene afgasses, men i Retortovne og
+Kammerovne skal Væggene have en Temp. af

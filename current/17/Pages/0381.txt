@@ -1,0 +1,115 @@
+og Baghjul kaldes <sp>Vekseldrevet</sp> (<i>Gearet</i>)
+og indeholder forsk. Tandhjulssæt (2—4 <i>Gear</i>),
+der kan skydes ind, efter som Vognen skal løbe
+langsomt med stor Trækkekraft (op ad Bakke)
+ell. hurtigere med mindre Trækkekraft. Et
+særligt Tandhjulssæt indskydes, naar Vognen
+skal løbe baglæns.
+
+Da Skiftningen af <i>Gearet</i> jo skal kunne
+foregaa, medens Vognen er i Fart, er det
+nødvendigt, at man, i det Øjeblik Skiftningen foregaar
+og det andet Tandhjulssæt indskydes, er i Stand
+til at lade Motorens Trækkekraft fuldstændig
+ophøre. I dette Øjemed er der imellem Motor
+og Vekseldrev (<i>Gear</i>) indbygget en saakaldet
+<sp>Friktionskobling</sp>, der kan udløses ved
+en Pedal. Friktionskoblingen er hyppigt
+indrettet som en læderbeklædt Kegleflade, der
+ved en Fjeder holdes trykket fast imod en
+dertil svarende indvendig Kegleflade. Naar
+Pedalen trykkes ned, ophæves det indbyrdes
+Tryk mellem de to Kegleflader, og disse følges
+da ikke længere ad, men kan dreje sig
+uafhængigt af hinanden.
+
+<sp>Motoren</sp>, Vognens vigtigste Organ, er en
+saakaldt firetakts Motor med i Reglen lodret
+staaende Cylindre, 2, 4 ell. 6. Er
+Cylinderantallet større, indtil 12, er Cylindrene anbragt i to
+Rækker, indbyrdes stillet som et V.
+
+Gassen udvikles i en <sp>Forgasser</sp>
+(Karburator), Fig. 8. hvortil Benzinen føres fra
+Benzintanken. I Forgasseren strømmer Benzinen
+ud i en fin Straale, der øjeblikkelig forstøver,
+fordamper og rives med en Luftstrøm ind i
+Motorens Eksplosionsrum under den ved
+Stemplets nedadgaaende Bevægelse (1. Takt)
+opstaaede Sugning. I næste Øjeblik ved Stemplets
+opadgaaende Bevægelse (2. Takt)
+sammentrykkes Benzingassen til c. 5 à 6 Atm.'s Tryk.
+Endnu inden Stemplet er naaet helt op i sin højeste
+Stilling, antændes Gassen (Fortænding), og
+Eksplosionen driver Stemplet atter nedad (3.
+Takt). Under den paafølgende opadgaaende
+Bevægelse (4. Takt) støder Stemplet den
+forbrugte Gas (Forbrændingsproduktet) ud af
+Cylinderen, og en ny Indsugning af Gas (1.
+Takt) kan atter begynde. Stemplets op- og
+nedadgaaende Bevægelse overføres til en
+omdrejende Bevægelse paa den ved
+Dampmaskinen kendte Maade ved Plejlstang og
+Krumtapaksel. For hver 4. Takt, ell. hver anden
+Omdrejning, finder Kraftimpulsen altsaa Sted, og
+Motoren kaldes derfor »4 Takts Motor«. Hvis
+Motoren har 4 Cylindre, hvilket er det
+almindeligste, finder der altsaa en Kraftimpuls Sted
+for hver halve Omdrejning af Motorens
+Krumtapaksel.
+
+Ved de bestandige Eksplosioner opvarmes
+Motoren og vilde snart blive saa varm, at der
+opstod Selvantænding af Gassen i
+Indsugningsøjeblikket. Der er derfor ved en
+Køleanordning sørget for den fornødne Afkøling, idet en
+af Motoren drevet lille Pumpe (Kølepumpe)
+pumper Vand fra en i Reglen foran paa
+Køretøjet anbragt Beholder med Ribberør, <sp>Køler</sp>,
+ind i en Vandkappe uden om Cylindre og
+Ventiler. Det opvarmede Vand strømmer tilbage
+til Køleren og passerer dennes Ribberør, hvor
+Vandet køles af den under Kørslen
+forbistrømmende Luft, og det afkølede Vand kan nu atter
+paabegynde Kredsløbet. Ved nogle Kølertyper
+(Thermo-Syphon) har man undværet
+Kølepumpen, og Vandet cirkulerer af sig selv, som
+Følge af, at opvarmet Vand vil søge opefter
+og afkølet nedefter. Der findes ved
+Automobilmotorer Typer, hvor Kølingen som ved
+Motorcykler foregaar ved en Luftstrøm alene. De er
+ret sjældne.
+
+Antændelsen af Benzingassen sker for hver
+Cylinder ved en elektrisk Strøm i et
+<sp>Tændrør</sp>, der som en Prop er skudt ind i
+Cylinderens øverste Ende, saaledes at de Spidser
+(Tændrørets Elektroder), hvorimellem den
+tændende Gnist skal springe over, befinder sig
+i Cylinderens Eksplosionsrum.
+
+Den elektriske Strøm udvikles af en saakaldt
+<sp>Tændingsdynamo</sp>, og det skyldes
+særligt den Udvikling, som dette Apparat
+efterhaanden har opnaaet, at Automobilets
+Driftssikkerhed i Nutiden har naaet sin fulde Højde.
+Tidligere Tiders irriterende, pludseligt
+opstaaende Motorstandsninger var i 9 af 10 Tilfælde
+at føre tilbage til Tændingsforstyrrelser. Af de
+nu alm. brugte Højspændings-Magnetapparater
+er det af <sp>Robert Bosch</sp> i Stuttgart
+konstruerede det mest kendte. Uden om dette
+Apparat grupperer sig en Mængde andre, der
+ikke i Hovedprincippet er stærkt afvigende
+derfra. Apparatet er bygget som en lille
+Dynamomaskine, der trækkes af Motoren. Det
+bestaar af to ell. fl. sammenlagte kraftige
+Staalmagneter i Hesteskoform, imellem hvis Grene
+et med isoleret Kobbertraad beviklet Anker
+roterer i et kraftigt Magnetfelt. Ved Rotationen
+
+<img>Fig. 6.</img>
+
+<img>Fig. 7.</img>
+
+<img>Fig. 8.</img>

@@ -1,0 +1,89 @@
+<table>
+<td><td>Landareal<td 2c>Folkemængde<td c>Indbygger<td c>Antal Mænd<td c>Bybefolkning<td c>Antal Negre
+<td><td c>i km<sup>2</sup><td 2><td c>pr. km<sup>2</sup><td>pr. 1000<td>i pCt. af hele<td>i pCt. af hele
+<td><td><td><td><td><td c>Kvinder<td c>Befolkningen<td c>Befolkningen
+<td><i>Det sydl. Ohio Bassin</i><td><td c>(1910)<td c>(1920)<td c>(1920)<td c>(1920)<td c>(1920)<td c>(1920)
+<td>West Virginia<td r>62233<td r>1221119<td r>1463701<td r>23,5<td r>1089<td r>25,2<td r>5,9
+<td>Kentucky<td r>104096<td r>2289905<td r>2416630<td r>23,2<td r>1032<td r>26,2<td r>9,8
+<td>Tennessee<td r>107997<td r>2184789<td r>2337885<td r>21,6<td r>1009<td r>26,1<td r>19,3
+<td 8><i>De østlige Golfstater</i>
+<td>Alabama<td r>132847<td r>2138093<td r>2348174<td r>17,7<td r>998<td r>21,7<td r>38,4
+<td>Mississippi<td r>120109<td r>1797114<td r>1790618<td r>14,9<td r>1004<td r>13,4<td r>52,2
+<td>Louisiana<td r>117640<td r>1656388<td r>1798509<td r>15,3<td r>1009<td r>34,9<td r>38,9
+<td 8><i>De østlige Præristater</i>
+<td>Minnesota<td r>209477<td r>2075708<td r>2387125<td r>11,4<td r>1091<td r>44,1<td r>0,4
+<td>Iowa<td r>144005<td r>2224771<td r>2404021<td r>16,7<td r>1047<td r>36,4<td r>0,8
+<td 8><i>De vestlige Præristater</i>
+<td>North Dakota<td r>181821<td r>577056<td r>646872<td r>3,6<td r>1120<td r>13,6<td r>0,1
+<td>South Dakota<td r>199140<td r>583888<td r>636547<td r>3,2<td r>1126<td r>16,0<td r>0,1
+<td>Nebraska<td r>198984<td r>1192214<td r>1296372<td r>6,5<td r>1079<td r>31,3<td r>1,0
+<td>Kansas<td r>211850<td r>1690949<td r>1769257<td r>8,4<td r>1057<td r>34,9<td r>3,3
+<td 8><i>Ozark Plateauet</i>
+<td>Missouri<td r>178049<td r>3293335<td r>3404055<td r>19,1<td r>1025<td r>46,6<td r>5,2
+<td>Arkansas<td r>136075<td r>1574449<td r>1752204<td r>12,9<td r>1045<td r>16,6<td r>27,0
+<td>Oklahoma<td r>179829<td r>1657155<td r>2028283<td r>11,3<td r>1090<td r>26,6<td r>7,4
+<td 8><i>Texas</i>
+<td>Texas<td r>679788<td r>3896542<td r>4663228<td r>6,9<td r>1069<td r>32,4<td r>15,9
+<td 8><i>De nordlige Rocky-Mountains Stater</i>
+<td>Montana<td r>378759<td r>376053<td r>548889<td r>1,5<td r>1205<td r>31,3<td r>0,3
+<td>Wyoming<td r>252834<td r>145965<td r>194402<td r>0,8<td r>1313<td r>29,5<td r>0,7
+<td>Colorado<td r>268544<td r>799024<td r>939629<td r>3,5<td r>1103<td r>48,2<td r>1,2
+<td 8><i>De nordl. Plateau-Stater</i>
+<td>Idaho<td r>215943<td r>325594<td r>431866<td r>2,0<td r>1182<td r>27,6<td r>0,2
+<td>Utah<td r>212912<td r>373351<td r>449396<td r>2,1<td r>1068<td r>48,0<td r>0,3
+<td>Nevada<td r>284510<td r>81875<td r>77407<td r>0,3<td r>1484<td r>19,7<td r>0,4
+<td 8><i>De sydl. Plateau-Stater</i>
+<td>New Mexico<td r>317365<td r>327301<td r>360350<td r>1,1<td r>1121<td r>18,0<td r>1,6
+<td>Arizona<td r>294845<td r>204354<td r>334162<td r>1,1<td r>1219<td r>35,2<td r>2,4
+<td 8><i>De nordl. pacifiske Stater</i>
+<td>Washington<td r>173150<td r>1141990<td r>1356621<td r>7,8<td r>1181<td r>55,2<td r>0,5
+<td>Oregon<td r>247687<td r>672765<td r>783389<td r>3,2<td r>1134<td r>49,9<td r>0,3
+<td 8><i>Kalifornien</i>
+<td>California<td r>403244<td r>2377549<td r>3426861<td r>8,5<td r>1124<td r>68,0<td r>1,1
+<td><i>United States</i><td r>7704378<td r>91972266<td r>105710620<td r>13,7<td r>1040<td r>51,4<td r>9,9
+</table>
+
+I denne Oversigt er kun Landomraadet i
+snævreste Forstand anført. Medregnes Arealet
+af Floder og Søer (dog ikke de store Søer mod
+NØ.), er U. S. A. 7841422 km<sup>2</sup>.
+
+De territoriale Erhvervelser, som U. S. A.
+har gjort efter 1853, omfatter følgende
+Territorier og Kolonier:
+
+<table>
+<td><td c>Erhvervet<td c>Areal<td 2 c>Folkemængde
+<td><td c>Aar<td c>i km<sup>2</sup><td c>(1910)<td c>(1920)
+<td>Alaska<td r>1867<td r>1530327<td r>64356<td r>55036
+<td>Hawaii<td r>1898<td r>16707<td r>191909<td r>255912
+<td>Porto Rico<td r>1899<td r>9314<td r>1118012<br>(1903)<td r>1299809<br>(1918)
+<td>Philippinerne<td r>1899<td r>297995<td r>7635426<br>(1910)<td r>10350640<br>(1920)
+<td>Guam<td r>1899<td r>514<td r>11806<br>(1912)<td r>13275
+<td>Samoa<td r>1900<td r>199<td r>7251<td r>8056
+<td>Panama Kanalzonen<td r>1904<td r>1144<td r>62810<br>(1911)<td r>228581<br>(1917)
+<td>Virgin Islands<td r>1917<td r>359<td r>27086<td r>26051
+</table>
+
+Det samlede Areal af U. S. A.'s
+Landomraade er altsaa henved 9561000 km<sup>2</sup>. Og naar
+medregnes de 117238 amer. Soldater og Søfolk
+etc, der 1920 fandtes uden for Staternes
+Grænse, lever 117859495 Mennesker under det amer.
+Flag.
+
+Den stærkt udviklede Arbejdsdeling, som
+kendetegner det amer. Erhvervsliv, giver Byerne
+en langt større Bet. i U. S. A. end i de Dele af
+den gamle Verden, der har en lgn.
+Befolkningstæthed. Selv i Nybyggeregnene er
+Bysamfundene aldeles uundværlige; det er nemlig Trafik
+og Handel, der muliggør Landets Opdyrkning,
+thi Agerdyrkerne fører intet Sted
+Naturaliehusholdning, men frembringer visse Handelsvarer,
+som de maa afsætte for at skaffe sig
+Livsfornødenheder. Stærkest fremtrædende er Bylivet
+inden for det sydlige Ny England, de mellemste
+atlantiske Stater og det nordlige Ohio Bassin,
+hvor Landets Handel og Industri har sine
+vigtigste Brændpunkter. I udprægede

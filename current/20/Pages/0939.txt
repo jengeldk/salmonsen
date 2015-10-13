@@ -1,0 +1,152 @@
+Sandsynligheden for Indtrædelsen først af en
+Begivenhed med Sandsynligheden <i>p</i>, dernæst af
+en anden Begivenhed, der, naar den første er
+indtraadt, har Sandsynligheden <i>q</i>, er <i>pq</i>.
+Saaledes er den ovf. omtalte Sandsynlighed for i 2
+Kast med en Terning at faa i alt 4 Øjne lig
+Summen af Sandsynlighederne for at faa: først
+1, saa 3 Øjne; først 3 Øjne, saa 1; begge Gange
+2 Øjne. Hver af disse Sandsynligheder er lig
+1/6 · 1/6 = 1/36, idet Sandsynligheden for at faa
+et bestemt Antal Øjne i eet Kast er 1/6. Kan et
+Forsøg have to Udfald med Sandsynlighederne <i>p</i>
+og <i>q</i>, vil et vilkaarligt Led <i>[r+s]/[r][s]</i> · <i>p<sup>r</sup></i> · <i>q<sup>s</sup></i> i
+Binomialformelens Udvikling af <i>(p + q)<sup>r+s</sup></i>
+udtrykke Sandsynligheden for i <i>r + s</i> Forsøg
+at laa det første Udfald <i>r</i> Gange, det andet <i>s</i>
+Gange; paa samme Maade kan
+Polynomialformelen anvendes ved Forsøg med fl. Udfald. Ved
+aposteriorisk Bestemmelse af Sandsynligheden
+bruges ofte Bayes' Regel, der kan formuleres
+saaledes: Kan et indtraadt Udfald af et Forsøg
+skyldes forsk. hinanden udelukkende Aarsager
+<i>A</i><sub>1</sub>, <i>A</i><sub>2</sub> . . . <i>A<sub>r</sub></i>, er Sandsynligheden for, at en
+bestemt af disse, <i>A<sub>i</sub></i>, har været virkende =
+<i>e<sub>i</sub> p<sub>i</sub></i> / <i>e<sub>1</sub> p<sub>1</sub></i> + <i>e<sub>2</sub> p<sub>2</sub></i> + . . + <i>e<sub>n</sub> p<sub>n</sub></i>, hvor <i>e<sub>1</sub> e<sub>2</sub> .. e<sub>n</sub></i> er
+de forud bestemte Sandsynligheder for, at henh.
+<i>A</i><sub>1</sub>, <i>A</i><sub>2</sub> . . . <i>A<sub>n</sub></i> kom til at virke, og <i>p</i><sub>1</sub> <i>p</i><sub>2</sub> .. <i>p<sub>n</sub></i> de
+Sandsynligheder, som det indtraadte Udfald
+har, naar henh. <i>A</i><sub>1</sub> <i>A</i><sub>2</sub> .. <i>A<sub>n</sub></i> virker.
+
+Det første Grundlag for S. er givet af Fermat,
+Pascal og Huyghens igennem deres Behandling
+af Opgaver hentede fra Spil. Snart fulgte den
+vigtige Anvendelse af S. paa Livsforsikring og
+Statistik; her maa nævnes Hudde, Witt samt
+Halley, der konstruerede den første
+Dødelighedstavle. Jac. Bernoulli, Moivre og Poisson
+undersøgte støttet paa den ovf. omtalte
+Anvendelse af Binomialformelen Sandsynlighederne
+for de forsk. Fordelinger af Udfaldene i en lang
+Rk. Forsøg og godtgjorde de store Tals Lov
+under den Form, at man ved at forøge
+Forsøgenes Antal tilstrækkelig kan faa saa stor en
+beregnet Sandsynlighed, som man vil, for at de
+forsk. Udfalds Hyppigheder med en vilkaarlig
+valgt Tilnærmelse er proportionale med deres
+Sandsynligheder. Dan. Bernoulli behandlede
+»det matematiske Haab«, hvorved forstaas
+Produktet af en Gevinst og Sandsynligheden for at
+faa den. Laplace opstillede S.'s Teori samlet i
+<i>Théorie analytique des probabilités</i>, der tillige
+indeholder Anvendelser paa mangfoldige
+Problemer. Danske Fremstillinger af S. findes i
+<sp>Zachariae</sp>, »De mindste Kvadraters
+Metode«, <sp>Thiele</sp>, »Elementær lagttagelseslære«, og
+<sp>J. F. Steffensen</sp>, »Matematisk
+Iagttagelseslære«.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Sandsække">
+<b>Sandsække</b> er Sække af Lærred ell. andet
+Sækkestof almindeligvis 0,30 m brede og 0,60
+m lange, der fyldes med Sand ell. Jord og
+derefter bindes for Enden. Den fyldte S. er c.
+0,20 m i Diameter, c. 0,45 m lang, fylder c. 0,016
+m<sup>3</sup>, vejer 25—30 kg og vil, anbragt i en
+Beklædning, være c. 0,14 m tyk, c. 0,24 m bred
+og c. 0,45 m lang. S. anvendes til
+S.-Beklædning, der er hurtig at fremstille, men lidet
+holdbar, og i ganske særlig Grad i alle
+Tilfælde, hvor det gælder om hurtig at skaffe
+midlertidig Dækning.
+<i>Sch. P.</i>
+</chapter>
+
+<chapter name="Sandtidse">
+<b>Sandtidse,</b> se <sp>Hippophaës</sp>.
+</chapter>
+
+<chapter name="Sandur">
+<b>Sandur,</b> se <sp>Timeglas</sp>.
+</chapter>
+
+<chapter name="Sandusky">
+<b>Sandusky</b> [s<sub>ə</sub>n'dask<sub>i</sub>], By i U. S. A., Ohio,
+ligger 70 km ØSØ. f. Toledo ved den sydlige
+Del af <sp>Sandusky-Bugten</sp> fra Lake Erie.
+(1920) 22897 Indb. S. har Fabrikation af Papir,
+Kemikalier og Maskiner og Handel med Frugt,
+Fisk og Tømmer. Mest bekendt er S. for sine
+storartede Etablissementer for Fiskekultur. Fra
+Havnen, der er særdeles god, drives betydelig
+Skibsfart og Fiskeri, og S. har desuden flere
+Jernvejsforbindelser.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Sandvaaner">
+<b>Sandvaaner,</b> norsk <sp>Sandarve</sp>, se
+<sp>Arenaria</sp>.
+</chapter>
+
+<chapter name="Sandvig">
+<b>Sandvig,</b> Købstad paa Bornholm, Nørre
+Herred, ligger ved Øens Nordøstkyst c. 1,5 km
+S. f. dens nordligste Punkt og henved 2 km NV.
+f. Købstaden <sp>Allinge</sp>, med hvilken den
+danner een Kommune. Idet der i øvrigt henvises
+til Art. »Allinge—S.« (II. Bd, S. 543), skal
+foruden det særlige om S. her tillige omtales de
+Forhold, hvor de to Byer ikke kan holdes ude
+fra hinanden, og hvor der nu foreligger nyere
+Oplysninger om hele Kommunen. 1. Febr 1921
+havde S. 179 Huse og Gaarde med 469 Indb.
+(1911: 694, 1901: 850, 1850: 299, 1801: 248);
+samtidig var der i hele Kommunen 523 Huse og
+Gaarde med 1864 Indb. (1911: 2557, 1901: 2709,
+1850: 908, 1801: 585). Den stærke
+Befolkningstilvækst i sidste Halvdel af 19. Aarh. skyldes
+væsentligt de store Granitbrud og Tilstrømning
+af Turister, især fra Tyskland, og Ændringen i
+disse Forhold har medført den senere Nedgang.
+Af S.'s faa Gader danner Store- og Vestergade
+Hovedaaren. Husene er for det meste smaa
+og uanselige. De fleste offentlige Bygninger
+ligger i Allinge, hvor ogsaa den fælles Kirke
+ligger. Af bygninger i S. mærkes Borgerskolen, et
+Baptistkapel og et Missionshus. — Af
+Kommunens samlede Befolkning levede 1911 den
+overvejende Del, nemlig 57 % af Haandværk og
+Industri, og af Handel o. l. kun 12,4 %; for de
+mindre Erhvervsgrupper var Procenten flg.:
+Trafikvirksomhed 6,5, Landbrug 4,1 og Fiskeri
+1,9. S. har kun Baadehavn med 1,8—2,2 m
+Dybde. Den nuv. Havn i Allinge er anlagt 1856
+med store Udsprængninger i Klippen og senere
+udvidet og uddybet, sidst 1914—19; den bestaar
+nu af en Yderhavn med Dybde 4,7 m og en ved
+Port helt lukket Inderhavn, 4,4 m dyb; den
+samlede Bolværkslængde er 350 m. 1920 indgik fra
+danske Havne 188 Skibe med 1380 t Ladning
+og fra fremmede 8 med 214 t Ladning; s. A.
+udgik til danske Havne 191 Skibe med 6722 t
+Ladning og til fremmede 7 uden Ladning; samtlige
+Fartøjer var Sejlskibe. Den hjemmehørende
+Handels- og Fiskeriflaade bestod ved Aarets
+Udgang af 11 Sejlskibe med tilsammen 196
+Reg.-T. og 3 Motorskibe, tilsammen 24 Reg.-T.;
+desuden 111 Baade under 4 Reg.-T.
+
+Kommunens Indtægter 1921—22 var 235000 Kr

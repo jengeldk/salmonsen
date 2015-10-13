@@ -1,0 +1,140 @@
+m. m.; hist. Kort (Staternes Udstrækning eller
+Folkeslagenes Udbredelse samt andre Forhold
+paa et Tidspunkt i Fortiden).
+
+<sp>Grundlaget</sp> for Planerne i stor
+Maalestok er en Opmaaling, hovedsagelig udført ved
+direkte Længdemaaling med Maalebaand eller
+Stænger og Vinkelmaaling, ofte ganske isoleret,
+men om muligt helst støttet til Landets alm.
+Triangulations- og Nivellementsnet. De topogr.
+Specialkort er ligeledes Resultatet af en direkte
+Opmaaling, sædvanlig dog udført ved Hjælp af
+Maalebord og altid baseret paa et System af
+meget nøjagtigt bestemte Punkter. Denne
+Opmaaling udføres sædvanlig i Maalestokke
+mellem 1 : 20000 og 1 : 50000, sjældnere uden for
+disse Grænser, og i Reglen af en
+Statsinstitution, der ogsaa udfører Fremstillingen og
+Mangfoldiggørelsen af Kortene. I nogle Lande
+(f. Eks. Danmark) udgives Originalmaalingen i
+den opr. Maalestok og i en kun lidet
+bearbejdet Skikkelse; andre Steder gaar man straks til
+en Formindskelse i Forbindelse med en
+stærkere Bearbejdelse. Denne udførligste Udgave
+danner saa Grundlaget for topogr. Kort i
+mindre Maalestok, men kræver altid en fuldstændig
+Omarbejdelse med Udeladelse af det mindre
+væsentlige og Omtegning af det øvrige. For de
+geografiske K. kan Grundlaget være meget
+forskelligt endog paa samme Blad, der indeholder
+saa store Dele af Jorden. Hvor der, som over
+de fuldt kultiverede Lande og til Dels deres
+Kolonier, haves topogr. Kort, benyttes
+selvfølgelig disse, men i mange Tilfælde maa man
+nøjes med mere flygtige Skitser, optagne under
+Ekspeditioner ell. af Enkeltrejsende, maaske
+endog kun Beretninger. De geografiske K.
+fremstilles og udgives hyppigst af Private, ofte af
+store kartografiske Anstalter, hvorfra
+Udlandets store igeogr. Kortværker (Atlas) i Reglen
+udgaar.
+
+En særlig Klasse danner <sp>Væg</sp>- og
+<sp>Skolekortene</sp>. De første maa, for at kunne læses
+i nogen Afstand, og de sidste af forsk. andre
+Hensyn, være meget tydelige, og derfor
+kraftigt tegnede samt mindre righoldige end et alm.
+L. i samme Maalestok. Noget lgn. gælder de i
+den senere Tid fremkomne aëronautiske Kort
+til Brug under Luftfart.
+
+<sp>Kortprojektioner</sp>. Ved Udarbejdelsen
+af L. skal Jordens krumme Overflade ell. Dele
+af den fremstilles paa en plan Flade, og de
+Metoder, hvorefter dette sker, kaldes
+Kortprojektioner, uanset at de fleste af dem ikke i
+egl. Forstand er nogen Projektion. En
+Kortprojektion defineres bedst som en Overførelse
+af Punkterne paa Jorden til Planet efter en
+bestemt, men i øvrigt vilkaarlig valgt Lov. Ved
+Jordoverflade forstaas her den »matematiske«,
+ɔ: den Niveauflade, som Havene danner,
+udstrakt over hele Jorden, altsaa bortset fra den
+fysiske Jords Ujævnheder, der allerede ved
+Opmaalingen er nedprojicerede paa denne
+Flade. Den mat. Jordoverflade betragtes her
+stedse som kugledannet. Et Billede paa en
+Kugle kan imidlertid ikke med eksakt
+Ligedannethed overføres paa et Plan, og derfor vil
+enhver Kortprojektion medføre en vis
+Forvanskning, større ell. mindre og i den ene ell. anden
+Retning efter Projektionens Art. For smaa
+Arealer bliver Forvanskningen dog umærkelig,
+og Arealet paa det enkelte Blad af et
+topografisk Specialkort kan tegnes, som det
+umiddelbart er opmaalt; men udstrækkes denne
+Fremgangsmaade til hele Lande med et stort Antal
+enkelte Blade, vil disse, naar de tænkes
+sammensatte, ikke ligge i et Plan, men udgøre en
+Del af en mangesidet Flade (Polyeder). Skal
+derfor større Dele af Jorden fremstilles paa
+et enkelt Kortblad ell. fl. Blade i ubegrænset
+Udstrækning kunne sammenføjes plant, maa
+der altid anvendes en Kortprojektion. Ved
+Valget af denne har man i sin Magt at lede den
+uundgaaelige Forvanskning i den for Kortets
+Brug mindst skadelige Retning. Ved nogle
+Projektioner bevares saaledes Arealernes Størrelse,
+og Kortet bliver »arealtro« (ækvivalent), ved
+andre opnaas Ligedannethed i de uendelig
+smaa Arealer, hvorved Maalestoksforholdet
+bliver ens i alle Retninger omkr. et Punkt, men
+forsk. fra Punkt til andet, og alle Linier skærer
+hverandre under samme Vinkel paa Kortet som
+paa Jorden. Saadanne Projektioner kaldes
+<sp>konforme</sp> ell. <sp>vinkeltro</sp>. Atter andre
+Projektioner kan give Afstande paa Kortet deres
+rigtige Længde, enten i visse Retninger ell. i alle
+Retninger omkr. et enkelt Punkt
+(<sp>længdetro</sp> ell. ækvidistant), men dette kan aldrig
+udstrækkes til samtlige Linier paa Kortet, saa
+lidt som den konforme Projektions
+Ligedannethed kan gælde for endelige Arealer; kun
+Arealbevarelsen kan fuldstændig opnaas og ligesom
+Konformitet til en vis Grad forenes med
+Længdetrohed; men ingen Projektion kan samtidig
+være areal- og vinkeltro. Et L. bør være
+forsynet med geografisk Net (Gradnet), der viser
+Punkternes Beliggenhed paa Jorden og tillige
+benyttes ved Indkonstruktionen af det øvrige
+Indhold. Dette Net bestaar af de saakaldte
+geogr. Linier paa Jorden: Meridianer eller
+Længdecirkler og Paralleller ell. Breddecirkler.
+Længden regnes fra en Udgangsmeridian, paa
+geogr. L. hyppigst den gennem Greenwich,
+Paris el. Ferro, paa topografiske L. ofte fra
+Landets Hovedobservatoriums Meridian,
+Bredden regnes fra Ækvator. Da ethvert Punkt paa
+Jorden er utvetydigt bestemt ved dets Længde
+og Bredde, bestaar Konstruktionen af en
+Kortprojektion udelukkende deri, efter Loven for
+den paagældende Projektion at kunne
+konstruere en vilkaarlig Meridian og Parallel; men
+paa det færdige L. optrækkes disse Linier dog
+kun med visse bestemte Mellemrum (hele
+Grader ell. Minutter). P. Gr. a. Gradnettets
+fundamentale Bet. kan det ogsaa være ønskeligt, at
+Meridianer og Paralleller paa Kortet fremstilles
+som simple Linier (rette Linier og Cirkler), og
+det samme gælder, dog nærmest for Søkort,
+om visse andre Linier.
+
+Af Kortprojektioner er der foreslaaet eller
+benyttet et meget stort Antal, og mange af
+dem kendes under forsk. Navne, dels efter
+deres Hovedegenskaber og dels efter den, der
+først har foreslaaet ell. i Praksis benyttet dem.
+For Oversigtens Skyld plejer man at inddele
+dem i Klasser med Underafdelinger, men
+denne Inddeling kan foretages paa forsk. Maade,

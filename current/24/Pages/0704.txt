@@ -1,0 +1,120 @@
+Endepunkt. <b>A</b> + <b>B</b> = <b>R</b> (Fig. 1).
+Berettigelsen af denne Fremgangsmaade baseres paa
+Erfaringen. Efter denne Regel
+sammensættes som bekendt Forskydninger, Hastigheder,
+Kræfter o. s. v., og man kan omvendt, sige,
+at Størrelser af en vis Art netop
+karakteriseres som V., ved at de adderes efter denne
+Regel. Ved Additionsreglen er ogsaa
+Subtraktion bestemt, idet <b>A</b>—<b>B</b> findes ved til
+<b>A</b> at lægge —<b>B</b>, en V. af samme Størrelse som
+<b>B</b>, men af modsat Retning. Additionsreglen
+udvides let til en Sum af flere V., og man ser, at
+<b>A</b> + <b>B</b> = <b>B</b> + <b>A</b> og at (<b>A</b> + <b>B</b>) + <b>C</b> = <b>A</b>
++ (<b>B</b> + <b>C</b>), altsaa at det kommutative og
+associative Princip er gyldigt for
+Vektoraddition, der ogsaa benævnes geometrisk Addition.
+
+
+<sp>Produktet</sp> af to V. bruges i to forskellige
+Betydninger, Det <sp>indre</sp> eller <sp>skalare
+Produkt</sp> af <b>A</b> og <b>B</b>, der betegnes (<b>AB</b>), er en
+Skalar (et Tal), nemlig <i>ABcos</i> (<b>AB</b>). (<b>AB</b>) =
+(<b>BA</b>). Er <b>A</b> en Kraft og <b>B</b> den af
+Angrebspunktet tilbagelagte Vej, bliver det skalare
+Produkt (<b>AB</b>) det udførte Arbejde. <sp>Det ydre
+Produkt</sp> eller <sp>Vektorproduktet</sp>, der
+betegnes [<b>AB</b>], er en V., hvis Størrelse er givet
+ved <i>ABsin</i> (<b>AB</b>), altsaa er = Arealet af det
+af <b>A</b> og <b>B</b> bestemte Parallelogram, og hvis
+Retning er vinkelret paa den af <b>A</b> og <b>B</b>
+dannede Plan og rettet saaledes, at <b>A</b>, <b>B</b>
+og [<b>AB</b>] danner en Højreskrue
+(Proptrækker), saaledes at en Drejning fra <b>A</b>'s til
+<b>B</b>'s Retning fører frem i [<b>AB</b>]'s Retning (Fig.
+2). X-Komposanten af Vektorproduktet, der
+betegnes [<b>AB</b>]<sub><i>x</i></sub> =<b>A</b><sub><i>y</i></sub><b>B</b><sub><i>y</i></sub>, — <b>A</b><sub><i>z</i></sub><b>B</b><sub><i>y</i></sub>, og de andre
+Komposanter faas heraf ved Kredsbytning i
+Rækkefølgen xyzx. Her er [<b>AB</b>] = — [<b>BA</b>].
+[<b>AA</b>] = 0. Det distributive Princip gælder
+derimod for begge Produkter: <b>AB</b> + <b>AC</b> =
+<b>A</b>(<b>B</b> + <b>C</b>). Et Eksempel paa Vektorproduktet har
+man i den elektromagnetiske Straaling, hvis
+Størrelse i Vakuum er proportional med
+Vektorproduktet af den elektriske Kraft <b>E</b> og den
+magnetiske Kraft <b>H</b>. <b>S</b> = <i>c</i>/4π [<b>EH</b>], hvor <b>S</b>
+er Energistrømmen pr. cm<sup>2</sup> pr. Sek. (den
+Poynting'ske V.), c er Lyshastigheden. Et andet
+Eksempel er en Krafts Moment, Produktet af
+Kraften og dens Arm. Vektorproduktet kan siges
+at være en V., der fremstiller et Areal, nemlig
+det af de to Vektorfaktorer dannede
+Parallelogram. Paa lignende Maade kan ethvert Areal
+fremstilles ved en V., hvis Størrelse er lig
+Arealet, og som udgaar fra Arealets
+Tyngdepunkt vinkelret paa dette i den Retning, der
+bestemmes ved Højreskruen, idet der fastsættes
+en bestemt Omløbsretning i Arealet.
+Vektorproduktet er et Eksempel paa en V. af anden
+Art end de i Indledningen nævnte Eksempler.
+Disse, der kaldes <sp>polare</sp>, bliver uforandrede,
+dersom Koordinatretningerne skifter Fortegn,
+saa at man gaar over til et Venstresystem,
+hvorimod Vektorproduktet derved skifter
+Fortegn; V. af denne sidste Art kaldes <sp>aksiale</sp>.
+En aksial V. er f. Eks. den, hvormed en
+Rotation fremstilles, dens Længde er lig
+Vinkelhastigheden og dens Retning parallel med
+Rotationsaksen i den Retning, der bestemmes ved
+Højreskruen.
+
+Foruden Vektoralgebraen er der udviklet en
+<sp>Vektoranalyse</sp>. De vigtigste ny Begreber,
+den indfører, er følgende: Et <sp>Vektorfelt</sp>
+er et Rum, hvori der til ethvert Punkt hører
+en V. Eksempler herpaa er Tyngdefeltet, et
+elektrisk eller et magnetisk Felt, en
+strømmende Vædske (hydrodynamisk Felt) o, s. v. Et
+skalart Felt er defineret paa analog Maade;
+Eksempel herpaa er et Temperaturfelt. I det
+elektriske Felt (og ogsaa i Tyngdefeltet og det
+almindelige magnetiske Felt) har hvert Punkt
+et bestemt Potential, saa at det ogsaa er et
+Skalarfelt. <sp>Gradienten</sp> af en Skalar φ, grad
+φ (ogsaa ∇φ, »Nabla« af φ), er en V. med
+Komposanterne δφ/δx, δφ/δy, δφ/δz; grad φ falder
+altsaa i Retning af den største Variation af φ.
+Eksempel: Den elektriske Kraft = —grad P,
+hvor P er Potentialet. <sp>Divergensen</sp> af <b>A</b>,
+div<b>A</b> (ogsaa ∇ <b>A</b>), er en Skalar, idet div<b>A</b> =
+ð<b>A</b>x/δx + δ<b>A</b>y/δy + δ <b>A</b>z/δz . Eksempel: Hvis <b>E</b> er
+den elektriske Kraft, betegner div<b>E</b> det Antal
+Kraftlinier, der udgaar fra et Rumelement,
+divideret med dette. Rotationen af <b>A</b>, rot<b>A</b>
+(eller curl<b>A</b>), er en V. med x-Komposanten
+rot <b>A</b> = δ<b>A</b>z/δy — ð<b>A</b>y/δz og de analoge, der faas
+ved Kredsbytning. Eks. rot <b>E</b> betyder det
+Arbejde, der udføres af den elektriske Kraft, naar
+en Elektricitetsenhed omkredser et
+Arealelement vinkelret paa rot <b>E</b>'s Retning, divideret
+med Arealelementet. ∆ <b>A</b> (eller ∇<sup>2</sup><b>A</b>) =
+divgrad φ. ∆ <b>A</b> (eller ∇<sup>2</sup><b>A</b>) = grad (div<b>A</b>) —
+rot (rot<b>A</b>). Et Vektorfelt, hvor overalt rot<b>A</b> er
+0, kaldes hvirvelfrit; et saadant kan altid
+fremstilles som Gradienten af et Potential. Et
+Vektorfelt, hvor overalt div<b>A</b> er 0, kaldes kildefrit
+eller soleonidalt, det kan fremstilles som
+Rotationen af en kildefri V.
+
+Vektorregningen, der bygger paa R. W.
+Hamilton's Kvaternionregning (1843) og H.
+Grassmann's Udvidelseslære (1844), er især udviklet
+af O. Heaviside og J. W. Gibbs. Stødet til dens
+almindelige Anvendelse har særlig
+Faraday-Maxwell's Behandling af Elektricitetslæren
+givet. Den betinger en overordentlig ikke blot
+
+<img>Fig. 1. Vektorsum (geometrisk Addition).
+<b>A</b> + <b>B</b> = <b>R</b>.</img>
+
+<img>Fig. 2. Vektorprodukt.</img>

@@ -1,0 +1,143 @@
+Ændring af Grundlaget for Metallernes E. er
+(1916) anvist af <sp>Benedicks</sp>.
+
+Metallernes E. har ogsaa naaet vigtige
+Resultater ved Anvendelse paa de termoelektriske
+Fænomener (foruden selve Termoelektriciteten
+Peltier-Effekten og Thomson-Effekten). Disse
+forklares alle kvalitativt paa simpel Maade ved
+E., idet hver Varmetransport ved Elektroner
+er ledsaget af en Elektricitetstransport (nemlig
+de samme Elektroners Ladninger) og omvendt;
+forsk. Metallers forsk. Forhold maa skyldes,
+at de ved samme Temp. ikke indeholder lige
+mange fri Elektroner pr cm<sup>3</sup> (se
+<sp>Termoelektricitet</sp>). Endvidere er E. delvis med
+Held blevet anvendt til Forklaring af de
+saakaldte termomagnetiske og galvanomagnetiske
+Fænomener (se <sp>Halleffekten</sp>), om end der
+netop her møder E. særlig store
+Vanskeligheder. Endelig er det en direkte Følge af de
+nu udviklede Anskuelser om Metallernes Natur,
+at stærkt opvarmede Metaller udsender fri
+Elektroner (<sp>Termioner</sp>, smlg. <sp>Elektron</sp>).
+De fri Elektroner maa nemlig kunne bryde ud
+fra Metallet, naar de har tilstrækkelig stor
+levende Kraft til at overvinde den Tiltrækning,
+som Metalstykket vil udøve paa dem, idet de
+forlader det. Da Elektronernes levende Kraft
+vokser med Temp., vil med voksende Temp. et
+stadig større Antal være i Stand dertil.
+<sp>Richardson</sp>, som især har undersøgt denne
+Elektronemission fra glødende Metaller, har vist,
+at de udsendte Elektroners Hastigheder netop
+er fordelte, som de maa være, dersom Maxwell's
+Hastighedsfordelingslov gælder for de fri
+Elektroner i Metallet.
+
+Metallernes E. giver Forstaaelse og en
+anskuelig Forklaring af
+<sp>Induktionsstrømmens</sp> Opstaaen ved Bevægelse af en sluttet
+Strømleder i et magnetisk Felt. Elektronerne i
+Lederen er jo under Bevægelsen underkastede
+den ovf. under Grundligningerne omtalte Kraft
+fra Magnetfeltet vinkelret paa dette og paa
+Elektronernes, d. v. s. Strømlederens
+Bevægelsesretning; denne Kraft kan de frit følge, hvorved
+Induktionsstrømmen kommer i Stand. Bevæges
+derimod Magnetfeltet forbi Strømlederen,
+opstaar som bekendt ved samme relative
+Bevægelse samme Induktionsstrøm som i det første
+Tilfælde, men Mekanismen er tilsyneladende en
+helt anden; det bevægede Magnetfelt
+frembringer efter Maxwell's Grundanskuelse et elektrisk
+Felt, der sætter Elektronerne i Bevægelse. Efter
+Relativitetsprincippet er der dog ingen reel
+Forskel i de to Tilfælde.
+
+<sp>Lorentz</sp> har ud fra Metallernes E. direkte
+kunnet beregne baade Lysudsendelsen fra og
+Lysabsorptionen i et Metal, dog kun for store
+Bølgebredder (ultrarødt Lys), hvorved han fik
+god Overensstemmelse med Erfaringen. Men
+udvides denne Beregning til kortere Bølgebredder,
+kommer man til direkte Modstrid mod
+Erfaringen af en saadan Art, at der ikke synes nogen
+anden Mulighed for at løse den end at forlade
+E.'s Grundlag (se <sp>Varmestraaling</sp>).
+
+Hvad angaar Forklaringen af
+<sp>Magnetismen</sp> ud fra E., skal henvises til det under
+<sp>Elektron</sp> omtalte Forsøg af <sp>Einstein</sp> og <sp>de
+Haas</sp>, der har vist, at i Jern og derfor
+utvivlsomt i alle de ferromagnetiske og sikkert ogsaa
+i de paramagnetiske Stoffer fremkommer
+Smaamagneternes magnetiske Moment ved
+almindelige Elektroner, der kredser om inde i
+Atomerne. De nærmere Enkeltheder i de para- og
+ferromagnetiske Stoffers Forhold er søgt
+forklaret henh. af <sp>Langevin</sp> og <sp>Weiss</sp> (se
+<sp>Magnetisme</sp>). En Forklaring af Diamagnetismen
+synes ikke mulig paa E.'s nuv. Grundlag.
+
+Anvendelse af E. i <sp>Kemien</sp> til Forklaring af
+Valenskræfterne behandles under <sp>Valens</sp>.
+
+Af de Resultater, som den alm. teoretiske
+Behandling af den bevægede Elektron har givet,
+skal anføres, at det viser sig, at de elektriske
+Kraftlinier, som fra den hvilende Elektron
+udstraaler ligeligt til alle Sider, for den bevægede
+Elektron fjerner sig fra dennes
+Bevægelsesretning og trænges mere sammen om en Plan
+gennem Elektronen, vinkelret paa
+Bevægelsesretningen; denne Virkning er desto stærkere, jo
+mere Elektronens Hastighed nærmer sig til
+Lysets, og dersom den kunde bevæge sig med
+Lysets Hastighed, vilde alle Kraftlinierne ligge
+i Planen vinkelret paa Bevægelsesretningen.
+Ogsaa de magnetiske Kraftlinier, der jo altid er
+Cirkler i Planer vinkelret paa
+Bevægelsesretningen og med Centrerne i denne, flytter sig
+med voksende Hastighed af Elektronen fra
+begge Sider op mod den omtalte Plan. Dersom
+Elektronen bevæger sig med konstant Hastighed,
+følger hele dette elektriske og magnetiske Felt
+med Elektronen; men enhver Forandring af
+Hastigheden giver Anledning til en Forandring
+af Feltet, hvilken Forandring udbreder sig til
+alle Sider fra Elektronen med Lysets Hastighed.
+Sker der en tilstrækkelig hurtig
+Hastighedsforandring, f. Eks. en pludselig Standsning af
+Elektronen ved, at den støder paa Materie (ell.
+en pludselig Igangsætning), ytrer denne
+Feltforandring, der løber ud fra Elektronen til alle
+Sider, sig som det, vi kalder
+<sp>Røntgenstraaler</sp> (d. v. s. kun den Art Røntgenstraaler, der
+benævnes Bremsestraaling). - Under
+<sp>Elektron</sp> er omtalt den elektromagnetiske Masse,
+som en bevæget Elektron maa være i Besiddelse
+af. I E.'s tidligere Perioder spillede Beregning
+af denne Masses Variation med Hastigheden en
+betydelig Rolle; Beregningen kan kun
+gennemføres under bestemte Antagelser om
+Elektronernes Form og Ladningens Fordeling paa dem.
+Saaledes antog <sp>Abraham</sp>, at de var
+uforanderlige Kugler, medens <sp>Lorentz</sp> antog, at de
+deformeredes paa bestemt Maade under
+Bevægelsen. E. fik ogsaa dengang en betydelig
+Støtte fra Eksperimenterne herover, der viste,
+at Elektronerne virkelig havde en saadan
+elektromagnetisk Masse, der varierede med
+Hastigheden nogenlunde i Overensstemmelse med
+Teorien. Men i de senere Aar er Spørgsmaalet
+traadt i Baggrunden, da
+<sp>Relativitetsprincippet</sp> har behandlet alle de i
+Forbindelse hermed staaende Spørgsmaal paa langt
+mere omfattende Maade.
+
+Den nu givne Oversigt over E. har vist, at
+den vel opviser betydelige Resultater, men at
+den ved saa godt som alle Anvendelser paa
+afgørende Punkter støder paa Vanskeligheder
+af en saadan principiel Natur, at det næppe

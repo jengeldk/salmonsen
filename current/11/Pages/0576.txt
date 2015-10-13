@@ -1,0 +1,142 @@
+allerede omkr. 1830 blev indført. I øvrigt er
+der for Vogne, der løber i den internationale
+Trafik paa Kontinentet, for visse Dimensioner
+af Bandagetværsnittet fastsat bestemte
+Maksimums- ell. Minimumsmaal, inden for hvilke de
+enkelte Landes Jernbanemyndigheder saa
+fastsætter de nærmere Dimensioner. For de
+danske Statsbaners Vedk. gælder saaledes flg.:
+Bandagens Bredde <i>b</i> 130 og 140 mm, mindste
+Tykkelse i Kanten <i>t</i> for H., paa hvilke der
+hviler en Vægt af 10 t ell. derover, 30 mm, for
+mindre Vægt 25 mm, Flangens Højde <i>h</i> 27 mm
+og dens Tykkelse <i>c</i> normalt 32 mm, og mindst
+23 mm, maalt 20 mm fra Flangens Top;
+endvidere skal Afstanden <i>a</i> mellem
+Indersiden af et H.'s 2 Bandager normalt være 1360
+mm, med en tilladt Afvigelse af 3 mm til
+hver Side. Endelig er det af Hensyn til
+Køretøjernes sikre og rolige Kørsel bl. a. fastsat,
+at Sliddet paa Løbefladen ikke maa være
+større end 9 mm for Lokomotivhjul og 5 mm for
+Vognhjul.
+
+Den i Fig. 2 viste Hjultype for et Vognhjul
+er fremstillet helt af Smedejern ved
+Sammensvejsning af de enkelte Dele, der kan ske efter
+fl. forsk. Metoder (<sp>Losh</sp>, <sp>Arbel</sp>), ell. ved
+Presning; i tidligere Tid var Navet dog ofte
+af Støbejern og Smedejernsegerne indstøbte
+deri. I den senere Tid gaas der mere og mere
+over til Anvendelse af Hjul af Staalstøbegods
+(Brudgrænse 40—50 kg pr mm<sup>2</sup>), saavel
+Stjernehjul som — og da navnlig for Lokomotivets Vedk.
+— Skivehjul. Da Vægten af et rigtigt
+dimensioneret, staalstøbt Skivehjul ikke er
+væsentlig større end et Stjernehjul, og da
+Skivehjulet besidder den store Fordel under Kørslen
+at ophvirvle mindre Støv og fremkalde mindre
+Bevægelsesmodstand gennem Luften, vil dette
+sikkert efterhaanden fortrænge Stjernehjulet.
+I tidligere Tid anvendtes ogsaa Skivehjul, men
+af Træ (System <sp>Mansell</sp>), Papir (System
+<sp>Allen</sp>), hvis Anvendelse skriver sig fra
+Amerika, ell. Jernplader (System <sp>Heusinger</sp>);
+ved de to første Slags Hjul, som navnlig
+benyttes under Salon- og Sovevogne, fordi de
+giver en roligere og mere elastisk og lydløs
+Kørsel, findes ingen Hjulkrans, men Bandagen
+lægges umiddelbart om Skiven, hvortil den f.
+Eks. befæstes ved Hjælp af en
+Sikkerhedsring paa hver Side, der griber ind i
+tilsvarende Riller i Bandagen, og som holdes sammen
+af Bolte, der gaar gennem saavel Ring som
+Skive. Endelig skal nævnes en særlig Art
+Skivehjul, de saakaldte »haardstøbte« Hjul (f. Eks.
+System <sp>Griffin</sp>), hvor Hjul og Bandage er
+støbt ud i eet, og hvor Løbefladen er særlig
+haard, fordi den Del af Støbeformen, der
+danner Løbefladen med Flange, er af Støbejern
+(Kokillen) i St f. af Formsand; herved
+foregaar Afkølingen af nævnte Flader hurtigere,
+saaledes at Støbejernets Kulstofindhold ikke
+faar Tid til at udskille sig som Grafit, men
+forbliver kem. bundet i Jernet (se
+<sp>haardstøbt Jern</sp>). De første haardstøbte Hjul blev
+allerede fremstillede af <sp>Riener</sp> i
+Begyndelsen af 1830'erne til
+<sp>Linz-Budweiser</sp>-Banens Vogne, men har væsentligt i
+Amerika fundet større Udbredelse ved Vogne og
+Lokomotiver, medens Anvendelsen i Europa
+indskrænker sig til Skydebroer, Drejeskiver,
+Troljer m. v. En Ulempe ved disse Hjul er
+det, at de helt maa kasseres, naar Sliddet er
+blevet saa stort som tilladeligt, idet
+Løbefladen er for haard til at kunne afdrejes; da
+dette Forhold selvfølgelig er uøkonomisk, har
+man i den senere Tid i Tyskland fremstillet
+Hjul af samme Type, men med tykkere
+Hjulkrans med noget mindre haard Løbeflade,
+saaledes at denne kan afdrejes ned til en
+bestemt Tykkelse, hvorefter en Bandage paa alm.
+Maade lægges om.
+
+Bandagen er den Del af Hjulet, til hvis
+Materiale og Fremstilling der af Hensyn til
+Driftssikkerheden stilles og maa stilles de største
+Fordringer. Den første Anvendelse af
+Bandager blev gjort 1827 af <sp>G. Stephenson</sp>
+ved Lokomotiver til
+<sp>Killingworth</sp>-Grubebanen, og de fremstilledes af i passende Form
+valsede Smedejernsstænger, der bukkedes
+rundt, og hvis Ender blev sammensvejsede.
+Omkring 1850 kom Puddelstaalet i Anvendelse,
+men fortrængtes snart (c. 1857) af
+Bessemerstaal og senere (1865) af Martinstaal
+(Brudgrænse 55—65 kg pr mm<sup>2</sup>) til Vognhjul og Digelstaal
+(Brudgrænse 70—85 pr kg mm<sup>2</sup>) til
+Lokomotivhjul. Fabrikationen foregaar nu uden
+Svejsning, idet en Staalblok, passende i
+Størrelse til een Bandage, udsmedes til en flad
+Kage, i hvis Midte der lokkes et Hul, der
+udvides ved Smedning, hvorefter Bandagen gøres
+færdig ved Valsning (Ringvalsning).
+<i>G. K.</i>
+</chapter>
+
+<chapter name="Hjultryk">
+<b>Hjultryk</b> ell. rettere det »hvilende«
+Hjultryk betegner i videste Forstand det Tryk,
+angivet i en ell. anden Vægtenhed, som et Hjul
+under et stillestaaende Køretøj udøver paa
+Underlaget. Betegnelsen finder særlig
+Anvendelse ved Jernbaner og Sporveje i det hele
+taget og betyder altsaa her den Del af et
+stillestaaende Lokomotivs ell. Vogns Vægt, der
+overføres til Skinnen gennem eet Hjul;
+Summen af de 2 paa samme Aksel siddende Hjuls
+H. kaldes <sp>Akseltryk</sp>, og man regner i
+Praksis, at dette er det dobbelte af H. H.'s
+Størrelse har Bet. i fl. Henseender; saaledes
+maa af trafikale Sikkerhedshensyn for
+Banestrækningernes Vedk. Overbygningens Styrke,
+Skinnevægt, Svellefordeling o. s. v., ligesom
+Broernes Bæreevne afpasses efter H.'s
+Størrelse ell. omvendt. Skal man bedømme, hvor
+stort et H. en given Banestrækning kan taale,
+kan man rent empirisk sætte H. i t lig med
+1/5 af Skinnevægten i kg pr løbende m. Det for
+en Banestrækning gældende tilladelige, højeste
+H. kaldes dens <sp>Maksimalhjultryk</sp>, og
+dette er bestemmende for, hvor tungt en Vogn,
+der skal ekspederes til en af Strækningens
+Stationer, tør læsses; derimod tillades i
+Reglen, at H. paa de Lokomotiver, der befarer den
+paagældende Strækning, er noget større end
+dennes Maksimalhjultryk. Da
+Maksimalhjultrykket er meget forskelligt for de forskellige
+Banestrækninger, udgives der af
+Jernbaneforvaltningerne i de forsk. Lande Fortegnelser
+herover, og disse indeholder i Reglen tillige
+Oplysninger om den for Strækningerne
+gældende Makslmalhjulstand (se <sp>Hjulstand</sp>)

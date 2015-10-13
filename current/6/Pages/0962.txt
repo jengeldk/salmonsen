@@ -1,0 +1,77 @@
+for at sikre denne Proportionalitet, at man til
+hver af Spolerne har føjet en passende
+Modstand af Manganin, dels for at Strømdelingen
+skal være uafhængig af Spolens Temp., dels for
+at den skal være (omtr.) uafhængig af
+Spolernes Selvinduktion. Det er en kedelig
+Omstændighed ved disse Instrumenter, at de derfor
+giver et betydeligt Spændingsfald. En Skala, som
+direkte viser den til de forsk. Udslag svarende
+Strøm, bliver ligesom Voltmetrets Skala omtr.
+kvadratisk.
+
+<sp>Wattmetre</sp> benyttes i Reglen som
+skematisk vist i Fig. 11, saaledes at den faste Spole
+gennemløbes af Forbrugsstrømmen <i>I</i>, medens
+den bevægelige Spole, der kun er beregnet til
+at føre en ganske svag Strøm, er serieforbundet
+med en passende Forlagsmodstand og sluttet
+til de to Ledninger saaledes, at den optager en
+Strøm, <i>i</i>, der er proportional med
+Spændingsforskellen mellem Ledningerne <i>E</i>.
+Drejningskraften bliver derved til enhver Tid
+proportional med Produktet af den øjeblikkelige Værdi
+af Strøm og Spænding. Hvis baade Strøm og
+Spænding er sinusformede Vekselstørrelser med
+samme Fase, vil Drejningskraften variere
+mellem en Maksimalværdi og Nul. Hvis der er
+Faseforskydning mellem Strøm og Spænding,
+vil Drejningskraften variere mellem en
+Maksimalværdi og en negativ Værdi. I alle Tilfælde
+blher Middelkraften proportional med
+Middelværdien af Produktet af Strøm og Spænding,
+som man kalder <sp>Effekten</sp>, og som maales
+i <sp>Watt</sp>. Betegnes Effekten med <i>A</i>, har man,
+naar Strøm og Spænding har samme Fase
+<i>A</i> = <i>E</i> . <i>I</i>.
+
+Naar derimod Strømmen er faseforskudt φ°
+i Forhold til Spændingen, bliver
+
+<i>A</i> = <i>E</i> . <i>I</i>. cos φ
+
+Ved Jævnstrøm er der ingen Grund til at
+anvende Wattmetre, da Effekten simpelthen
+bestemmes som Produktet af Aflæsningerne paa
+Ampèremetret og Voltmetret. Ved Vekselstrøm
+derimod er det ikke nok at kende Strøm og
+Spænding, hvis Produkt som Regel vil være
+større end Effekten.
+
+Fig. 12 viser et Wattmeter af Weston's
+Fabrikat med aftaget Kappe. Strømspolen
+begynder og ender ved de to Bolte, som ses at gaa
+igennem Grundpladen. Baade den faste og
+den bevægelige Spole er cirkelrunde.
+Forlagsmodstanden til Spændingsspolen bestaar af
+tynde Metalbaand viklede paa 7 Stkr
+Glimmerblade. Fig. 13 viser det bevægelige System for
+sig med Viseren foroven og to ganske tynde
+med Ribber afstivede Aluminiumsblade
+forneden. Disse sidste bevæger sig inden i to flade
+Hulrum og tjener til at dæmpe Instrumentets
+Bevægelse. Det bevægelige System, som er vist
+paa Fig. 13, vejer kun 1,86 g.
+
+<img>
+Fig. 14. Det bevægelige System af et Siemens
+& Halskes Blødtjernsinstrument.
+</img>
+<img>
+Fig. 15. Blødtjernsinstrument, Skala og Kappe
+fjernet.
+</img>
+<img>
+Fig. 16. Blødtjernsinstrumrnt med fast
+og bevægeligt Jernblik.
+</img>

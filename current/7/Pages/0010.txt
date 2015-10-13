@@ -1,0 +1,76 @@
+saa driftssikkert, idet den smalle Aabning ned
+til Kanalen jo let kan tilstoppes af Sten, Sne,
+Is o. l.
+
+3) <sp>Overfladekontaktsystemet</sp>.
+Kontaktledningen bestaar her af flere fra
+hinanden isolerede Smaaskinner, der nedlægges i
+Gadens Niveau, og som normalt er
+spændingsløse, men automatisk sættes under Spænding,
+naar Vognen passerer forbi. Systemet har
+været en Del anvendt i Frankrig (Paris), men det
+er meget kompliceret og derfor kostbart og
+vanskeligt at holde i Orden, hvorfor det ingen
+videre Udbredelse har faaet.
+
+En moderne elektrisk <sp>Sporvogn</sp> bestaar
+i Almindelighed af en <sp>Undervogn</sp> (Fig. 4),
+der dannes af en stærk Ramme af Profiljern
+ell. Staalstøbegods og gennem Fjedre hviler paa
+Akselkasserne, samt en <sp>Vognkasse</sp>, der
+ligeledes fjedrende hviler paa Undervognen.
+Vognkassens Form og Størrelse er yderst forsk. ved
+de forsk. Typer og er bestemt under Hensyn til
+Arten og Størrelsen af den forhaandenværende
+Trafik samt ved Sporvidde og Kurveradius.
+<sp>Motorerne</sp>, hvoraf der som Regel findes 2,
+er anbragte under Vognbunden, og man har
+Adgang til dem gennem Lemmene i denne; de er
+elastisk ophængte paa Undervognen og driver
+ved Tandhjulskobling hver sin af Vognakslerne.
+For at forhindre vuggende Bevægelser af
+Vognen, maa dennes Længde ikke gerne overstige
+4 Gange Akselafstanden, der igen er bestemt
+i Forhold til den mindste paa Linien
+forekommende Kurveradius (ikke gerne større end 1/5
+af denne). Ved lange Vogne maa derfor
+anvendes <sp>Boggier</sp>, idet da selve
+Undervognen bæres af 2 mindre firhjulede Vogne, hvis
+lodrette Akser er drejelige i Forhold til
+Undervognen. Ved meget stærk Trafik anvender man
+for at undgaa for lange Vogne 2 Etager paa
+disse, dette benyttes navnlig i England.
+
+Som <sp>Strømaftagere</sp> benyttes ved
+overjordisk Strømtilførsel <sp>Ruller</sp> ell. <sp>Bøjler</sp>.
+<sp>Rullen</sp> (Kobber ell. Bronze) er anbragt i en
+Gaffel i Enden af Kontaktstangen, der ved Hjælp
+af Fjedre presses op imod Køretraaden. Den er
+særlig egnet for mindre Strømstyrker og
+forholdsvis smaa Hastigheder, medens <sp>Bøjlen</sp>,
+der giver en sikrere Kontakt, anvendes ved
+større Hastigheder. Den bestaar af en let
+Ramme, der foroven bærer et vandret
+Kontaktstykke af Staal, Messing ell. Aluminium.
+
+I Fig. 5 er skematisk vist den elektriske
+Udrustning i en Motorvogn. Strømmen
+gaar fra Bøjlen gennem Sikring og
+Afbryder m. m. til et Styreapparat, den
+saakaldte <sp>Kontroller</sp> (Fig. 6), og
+derfra igennem Igangsætningsmodstandene til
+Motorerne. Der findes som Regel en Kontroller i hver
+Ende af Vognen; ved Hjælp heraf kan
+Vognstyreren regulere Vognens Hastighed, idet der
+ved Drejning paa Kontrollerens Haandsving
+udskydes en mere ell. mindre Del af
+Igangsætningsmodstanden - ligesom Motorerne ogsaa
+herved kan kobles enten i Serie {langsom Fart)
+ell. parallelt (hurtig Fart). Som oftest anvendes
+
+<img>Fig. 1. Stykke af en Kontaktledning med Bærestykke og Kontaktrulle.</img>
+
+<img>Fig. 2. Underjordisk Strømtilførsel.</img>
+
+<img>Fig. 3. Underjordisk Strømtilførsel. Stykke af Kontaktskinne med Strømaftager.</img>
+

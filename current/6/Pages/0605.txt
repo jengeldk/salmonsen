@@ -1,0 +1,115 @@
+og ender ved en Kommutatorlamel. I Flg. 8 er
+skematisk vist en enkelt Spole. Fig. 9 viser en
+af de ældste D. fra Siemens & Halske med
+Hefner v. Alteneck's Tromleanker.
+
+De ældste D. var <sp>Seriemaskiner</sp>, hvor
+selve den ydre Forbrugsstrøm førtes gennem
+Magnetbeviklingen. Allerede Wheatestone
+foreslog dog 1867 at lade Magnetbeviklingen danne
+en særlig Forbindelse fra Pol til Pol parallelt
+med den ydre Strømkreds, hvorved
+fremkommer en <sp>Shuntmaskine</sp>. Shuntbeviklingen
+blev dog først senere taget op til praktisk Brug.
+Det er nu den overvejende alm. Form for
+Magnetisering. Omkr. ved 1882 blev det alm. at
+anvende en sammensat Magnetbevikling
+(<sp>Kompoundvikling</sp>, <sp>Kompound-D.</sp>),
+bestaaende af en Serievikling og en Shuntvikling. En
+Kompound-D. vil inden for visse Grænser
+automatisk holde Spændingen konstant.
+Kompoundviklingen er først teoretisk begrundet af
+<sp>Marcel Deprez</sp> 1881. Mange, deriblandt
+Brush, Varley, Schuckert og Edison gør
+Fordring paa at have opfundet den. Den er
+patenteret af Crompton og Kapp.
+
+Ankerjernet var i de ældre Gramme's D.
+dannet af Jerntraade. Senere er det altid
+samlet af Plader. Yderligere væsentlige
+Forbedringer af D. hviler navnlig paa en bedre teoretisk
+Indsigt i dens Væsen. Særlig bør nævnes
+Brødrene John og Edward <sp>Hopkinson</sp>'s yderst
+værdifulde Arbejde fra 1886 vedrørende
+Beregning af det magnetiske Kredsløb. Det er
+ligeledes John Hopkinson, som allerede 1879 først
+benyttede karakteristiske Kurver til
+Fremstilling af en D.'s Egenskaber. Medens rent mat.
+Teorier som <sp>Frølich</sp>'s hidtil har vist sig
+ufrugtbare, er det den Dag i Dag Hopkinson's
+Metoder, der danner Grundlaget for en D.'s
+Beregning. (<sp>Litt</sp>.: <sp>Silvanus P.
+Thomson</sp>, <i>D.-Electric-Machinery 7th Edition</i>, 1. Bd
+[1904], hvori talrige Litteraturhenvisninger).
+<i>Abs. L.</i>
+
+<img>Fig. 8.</img>
+<img>Fig. 9.</img></chapter>
+
+<chapter name=”dynamoelektrisk Maskine”>
+<b>dynamoelektrisk Maskine,</b> se <sp>Dynamo</sp>.</chapter>
+
+<chapter name=”Dynamologi”>
+<b>Dynamologi</b> (gr.), Lære (ogsaa Lærebog)
+om Naturkræfterne, tillige om Lægemidlernes
+Kraft.</chapter>
+
+<chapter name=”Dynamometamorfose”>
+<b>Dynamometamorfose</b> ell.
+<sp>Dislokationsmetamorfose</sp> kaldes de Omdannelser, som
+Jordlagene kan undergaa ved Forskydninger i
+Jordskorpen. Hovedrollen ved D. spiller det
+vældige Tryk, som Jordlagene udsættes for ved
+Forskydningerne, men ogsaa Trykket af
+overliggende Jordlag, højere Temp. og de i Vandet
+opløste Stoffers Indvirkning kan have været
+medvirkende. D. kan nemlig fremtræde dels som
+en fys., dels som en kem. Omdannelse af
+Jordlagene. Den fys. Omdannelse kan (særlig nær
+Jordoverfladen) vise sig som en Knusning eller
+(særlig i Dybet) som en Bøjning ell.
+Sammenpresning (plastisk Omdannelse) af Stenarten, hvilket
+sidste beror derpaa, at Mineralerne under højt
+Tryk kommer i en molekulær-plastisk Tilstand,
+saa at Stenarterne kan bøjes og sammentrykkes,
+uden at der finder noget Brud Sted. Som Eks.
+paa Knusning kan nævnes den kendte
+»Ruinmarmor« (s. d.). Den plastiske Omdannelse kan
+bl. a. vise sig ved Foldninger og
+Transversalskifrighed (se <sp>Skifer</sp>). - Den kem.
+Omdannelse bestaar oftest i en molekulær
+Omgruppering, der tit har medført Dannelsen af ny
+Mineraler; Stenarternes opr. kem.
+Sammensætning undergaar dog aldrig derved nogen
+nævneværdig Ændring. Bl. de sedimentære Stenarter
+er det navnlig Kalkstenene, der rammes af
+denne Metamorfose, idet de omdannes til Marmor,
+der ofte indeholder Krystaller af Silikater o. a.
+Mineraler; lerholdige Sedimenter kan omdannes
+til Phyllit, Glimmerskifer, Gnejs o. s. v. Ogsaa
+Eruptivbjergarter kan undergaa lgn., men
+mindre iøjnefaldende Metamorfoser.
+<i>J. P. R.</i></chapter>
+
+<chapter name=”Dynamometer”>
+<b>Dynamometer</b> er et Apparat til Maaling af
+den Arbejdsmængde, som afgives af en
+Kraftmaskine, ell. som forbruges af en
+Arbejdsmaskine. I begge Tilfælde er der saa godt som
+altid Tale om en Omdrejningsbevægelse. D.
+(<sp>Træk-D.</sp>) kaldes ogsaa Apparater til Maaling
+af den Trækkraft, som fordres til at bevæge en
+Vogn ell. anden Genstand f. Eks. en
+Agerbrugsmaskine hen ad en retliniet Bane. Maalingen af
+det Arbejde, som en Kraftmaskine kan afgive fra
+sin Aksel, sker oftest paa den Maade, at
+Maskinen udløses fra Forbindelsen med det
+Maskineri, som den ellers trækker, og i St f. lader
+man den afgive sit Arbejde til D., oftest et
+<sp>Bremse-D.</sp>, d. v. s. et saadant, hvori der
+frembringes en Friktionsmodstand, som netop
+er stor nok til at forbruge det udviklede
+Arbejde og det paa en saadan Maade, at saavel
+Friktionsmodstanden som den Vej, den
+gennemløber, kan maales; Arbejdet er da Produktet af
+Kraften og den gennemløbne Vej. <sp>Prony</sp>'s

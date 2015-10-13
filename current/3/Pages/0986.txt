@@ -1,0 +1,122 @@
+afløst af et Jern- ell. Staalbaand <i>BEB'</i>, der gaar
+omtr. helt rundt om Skiven <i>ACA'</i>, og som
+strammes ved Tryk paa den om <i>D</i> drejelige
+Vægtstang <i>DK</i>. En speciel Slags Baandbremse er
+<sp>Differentialbremsen</sp>, hvor det ved en
+særlig Anordning af Baandendernes Befæstelse
+til Vægtstangen er opnaaet at formindske den
+til Frembringelse af et vist Bremsetryk
+nødvendige ydre Kraft betydelig. Baandbremser
+anvendes især ved Hejseværker og Kraner. Ved
+Vindmøller bruges en B., <sp>Persen</sp>, som staar
+Baandbremsen nær; Baandet er her erstattet af
+en Krans af Træklodser, indbyrdes forbundne
+ved Jernskinner; den ene Ende af denne Krans
+er befæstet til et fast Punkt, den anden
+paavirkes af en Vægtstang. 3) Endelig kan
+Princippet for Friktionshjul anvendes til B. I
+Fig. 3 ses en herhenhørende Konstruktion;
+paa Akslen <i>CC'</i> er fastkilet en Dobbeltkegle
+<i>AABB-AAB'B'</i>, hvis ene Halvdel er vist
+gennemskaaret; imod dens to koniske Inderflader
+kan Keglerne <i>DD</i> og <i>D'D'</i>, der ved Navene
+<i>EE-E'E'</i> omslutter Akslen, men ikke drejer sig
+med den, trykkes ved Hjælp af en
+Vægtstangs-forbindelse, der er saaledes indrettet, at
+Keglerne enten nærmer sig til ell. fjerner sig fra
+hinanden samtidig. Ved et ringe Tryk paa
+Vægtstangen frembringes herved, naar Keglernes
+Toppunktsvinkler er tilstrækkelig smaa, en
+meget kraftig Bremsevirkning. Dette Princip
+ligger til Grund for de saakaldte
+<sp>Frihjulsbremser</sp>, der anvendes ved Cykler.
+
+Ved de hidtil beskrevne B. har der nærmest
+været tænkt paa, at Bremsetrykket skulde
+udøves ved Haandkraft; imidlertid er der intet i
+Vejen for at erstatte denne med en ell. anden
+Elementarkraft, f. Eks. saaledes, at man lader
+en Dampmaskine virke paa Vægtstangen i St f.
+Haanden. Foruden Damp er det navnlig
+fortyndet ell. sammenpresset Luft, man har benyttet;
+men der er konstrueret B. efter mange andre
+Principper, navnlig til Brug ved Jernbanerne,
+hvor B. overhovedet finder den største
+Anvendelse; ved Omtalen af Jernbanebremser ndf. vil
+de vigtigste af disse Systemer blive nævnte. Ang.
+Anordningen af B. i Alm. skal flg. bemærkes:
+det ved B. konsumerede Arbejde, ved hvis
+Størrelse B.'s Virksomhed maales, afhænger dels af
+Størrelsen af Trykket mellem Bremseklodsen
+og den roterende Skive,
+<sp>Bremseklodstrykket</sp>, og af Gnidningskoefficienten, dels
+af Skivens Omdrejningshastighed; man opnaar
+den største Virkning af en B. ved at anbringe
+den paa den Aksel, der gør flest Omdrejninger.
+Findes der i Maskineriet, der skal bremses,
+store Masser i Bevægelse, Svinghjul e. l., bør
+man for at undgaa Stød anbringe B. paa
+samme Aksel som disse; skal B. ogsaa konsumere
+Bevægkraftens Arbejde (Vindmøller), bør den
+anbringes saa nær denne Krafts Angrebspunkt
+som muligt. <sp>Gnidningskoefficientens</sp>
+Størrelse er meget variabel og aftager bl. a.,
+naar den roterende Skives
+Omdrejningshastighed vokser; dette Forhold spiller en stor Rolle
+ved Jernbanebremserne, idet Bremsetrykket
+maa gøres større, naar Toghastigheden forøges,
+saafremt man ønsker den samme
+Bremsevirkning, d. v. s. at Produktet af Bremsetryk og
+Gnidningskoefficient skal være konstant. Der
+findes B., konstruerede med dette Forhold for
+Øje, men de har hidtil ikke haft nogen særlig
+Udbredelse.
+
+En Del Anvendelse har B. fundet ved
+Køretøjer af forsk. Art; B. er her en Bakkebremse,
+der ved en Vægtstangs- ell. Skrueforbindelse
+kan sættes i Virksomhed fra Kuskens Plads.
+Særlig er det dog ved Jernbanerne (og
+Sporvognene), at B. er nødvendige, og det er den
+hurtige Udvikling af disse Befordringsmidler og
+navnlig den større og større Hastighed,
+hvormed der køres, der har fremkaldt de mange
+sindrige Konstruktioner af B.
+
+Foruden 1) <sp>Bakkebremsen</sp>, der som
+ovf. nævnt er den ved Jernbanerne mest
+anvendte Bremseform, og 2) <sp>Baandbremsen</sp>
+findes 3) <sp>Skinnebremser</sp>, hvor
+Skinnerne træder i St f. de roterende Skiver, idet
+Bremseklodserne under passende Tryk slæbes
+hen ad Skinnernes Overflade; til disse maa
+henregnes den <sp>elektriske
+Skinnebremse</sp>, hvor Bremseklodstrykket fremkaldes ad
+elektromagnetisk Vej. Endvidere findes B., ved
+hvilke Bremsningen sker: 4) ved at der presses
+<sp>Kiler</sp> ind mellem Hjul og Skinner med en
+lgn. Virkning som ved Anvendelse af Hemsko
+(s. d.) ell. 5) ved at <sp>Tænger</sp> bringes til at
+klemme om det særlig formede Skinnehoved;
+den sidste Slags B. anvendes særlig som
+Nødbremse paa Bjergbaner. Da de under 3—5
+nævnte B. volder Vanskeligheder bl. a. ved
+Kørsel gennem Sporskifter og -krydsninger, har
+de kun fundet ringe Anvendelse ved
+Jernbanerne. Endelig kan man anvende den drivende
+Maskine paa en saadan Maade, at den selv
+modarbejder Bevægelsen. 6) Saaledes kan
+Lokomotivføreren ved Damplokomotiver
+fremkalde en bremsende Virkning ved Anvendelse af
+<sp>Kontradamp</sp>, d. v. s. ved at indstille
+Maskinen til Baglændsgang, hvorved
+Dampcylindrene kommer til at virke som Trykpumper
+over for den indstrømmende Damp. Drivkraften
+til dette Arbejde er Togets levende Kraft.
+Bremsesystemer, baserede herpaa, er udtænkte
+af <sp>Lechatelier</sp>, <sp>v. Borries</sp>, <sp>Krausz</sp>,
+<sp>Riggenbach</sp> o. fl. 7) Ved elektrisk drevne
+Baner kan man ved gennem passende
+elektriske Modstande at <sp>kortslutte</sp> de
+
+<img>Fig. 3.</img>

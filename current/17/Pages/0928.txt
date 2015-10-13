@@ -1,0 +1,125 @@
+hvor han især studerede Matematik og
+Fysik. Fra 1669 til 1700 var han Prof. i Matematik
+ved Univ., 1696 blev han Tilsynsmand ved
+Englands Mønt for at bringe Orden i de forvirrede
+Møntforhold, og 1699 Møntmester. <i>Royal
+Society</i> i London valgte ham 1672 til
+Medlem, og fra 1703 til sin Død var han dette
+videnskabelige Selskabs Præsident. 1705 blev
+han adlet af Dronning Anna. Paa den mat.
+Fysiks Omraade staar N. uden Ligemand;
+inden for den rene Matematik har
+han gjort den mest vidtrækkende Opdagelse,
+den nyere Tid har at fremvise, nemlig
+Differential- og Integralregningen, og skønt han
+arbejdede forholdsvis lidt som Eksperimentalfysiker,
+har han dog ogsaa her, ved sine optiske
+Arbejder, vundet Navn som en Forsker af første
+Rang. Hans <sp>matematiske</sp> Evne var tidlig
+udviklet. Til Lærer i Matematik havde han
+Barrow, hvis Efterfølger han blev som mat. Prof.
+1665 fandt han den fuldstændige Binomialformel
+og Begyndelsesgrundene til Differentialregningen;
+1666 begyndte han paa Integralregningen.
+I sit Skrift <i>De analysi per aequationes numero
+terminorum infinitas</i> (forfattet 1665—66, men
+først udgivet i London 1711) er N. paa det rene
+med, at Kvadratur (Arealberegning) og
+Differentiation er modsatte Operationer, idet
+Differentialkvotienten af en Kurves Areal er = dens
+Ordinat, og viser, hvorledes man kan danne
+Rækkeudviklinger for Kurvers Ordinater efter
+Potenser af Abscissen og derefter foretage
+tilnærmede Bestemmelser af Arealet ved
+Integration af et Antal af Rækkens Led, og han gav
+efterhaanden i Breve og paa anden Maade
+Meddelelse om sin Metode. Grundsætningerne af
+»Fluxionsmetoden«, som han kaldte den, findes
+i <i>Principia</i>, anden Bog, der udkom 1687, men
+først 1704 fremsatte han Integralregningens
+Metode udførlig i en Artikel om Arealberegning
+af Kurver, der blev trykt som Tillæg til <i>Optics</i>.
+Herved kom han i Strid med Leibniz, der 1684
+havde offentliggjort et Arbejde over samme
+Genstand og nu hævdede Prioriteten for sig.
+Leibniz havde 1673 været i England, og i de
+nærmest flg. Aar korresponderede han baade
+med N. og dennes Venner om mat. Spørgsmaal,
+saa han har næppe undgaaet Paavirkning af
+N.'s Tanker. Imidlertid gav han sin Fremstilling
+af den ny Regnemaade en anden og
+hensigtsmæssigere Form end N.'s og kom foran denne
+med Offentliggørelsen. Sammenhængen mellem
+de to geniale Matematikeres Arbejde paa denne
+Sag kan næppe fuldt udredes; man kan dog
+hverken betvivle N.'s Selvstændighed i
+Opdagelsen ell. Leibniz' store Fortjeneste af
+Fremstillingen. Ogsaa til Ligningernes Teori har N.
+givet vigtige Bidrag, saaledes en Metode til
+tilnærmet Beregning af Rødderne i numeriske
+Ligninger. I <i>Methodus differentialis</i> (1711)
+behandler N. Interpolation, og hans Navn er knyttet
+til en berømt Interpolationsformel. Geometrien
+skylder ham flere Sætninger henhørende til
+plane Kurvers alm. Teori, og han har opstillet
+en Klassifikation af Kurverne af tredje Orden
+(<i>Enumeratio linearum tertii ordinis</i>,
+fremkommen 1704 som Tillæg til <i>Optics</i>). Foruden
+de ovenfor omtalte Værker af N. kan endnu
+nævnes: <i>Method of fluxions and infinite series</i>
+(forfattet 1671, udg. 1736) og <i>Arithmetica universalis</i>
+(1707). Mest af alt har dog N.'s Behandling af
+<sp>Mekanikken</sp> og især hans Opdagelse af
+<sp>Tyngdeloven</sp> gjort ham berømt. Allerede
+1666 fandt han, efter sit eget Udsagn, at den
+Kraft, der holder Maanen i sin Bane om
+Jorden, omtr. svarer til Tyngden paa Jordens
+Overflade, naar man regner, at Kraften forholder
+sig omvendt som Kvadratet paa Afstanden fra
+Jordens Centrum. Alligevel varede det lige til
+1686, før han offentliggjorde sin Opdagelse. At
+Grunden hertil alene skulde være den, at han
+benyttede en meget unøjagtig Værdi for
+Jordens Radius, og at Regningen derfor ikke
+stemte godt, er ikke troligt. En bedre Værdi var
+allerede kendt og let tilgængelig, og 1671 gav
+Picard Resultatet af sine meget omhyggelige
+Maalinger. Der var to andre Hindringer af mere
+alvorlig Art. At de forsk. Planeter bevæger sig
+omtr., som om Solen tiltrak dem med Kræfter,
+der forholder sig omvendt som Kvadraterne paa
+deres Afstande fra Solen, følger saa let af
+Kepler's tredie Lov og af Huygens' Lære om
+Centripetalkraften, at der ikke behøvedes nogen N.
+for at se dette. Man ved, at baade Halley,
+Wallis, Wren og Hooke havde diskuteret denne
+Sag, før N. fremsatte Tyngdeloven, men ingen
+af dem kunde bevise, at de omvendte
+Kvadraters Lov helt stemmer med Planeternes
+virkelige Bevægelse, og navnlig vilde det ikke lykkes
+at bevise, at Planetbanerne efter denne Lov maa
+blive Ellipser. Omkr. Aarsskiftet 1679—80
+lykkedes det for N. at føre dette Bevis, men der
+var en anden Vanskelighed tilbage. Skal den
+Kraft, der holder Maanen i sin Bane, være den
+samme som Tyngden paa Jordens Overflade,
+maa det kunne bevises, at Resultanten af alle de
+Kræfter, hvormed Jordens enkelte Dele paavirker
+et Punkt uden for Jordoverfladen, netop
+er saa stor, som den vilde være, hvis hele
+Jordens Masse var samlet i dens Centrum. Først
+1685 lykkedes det for N. at føre dette Bevis, og
+af et Brev til Halley ser man, at han før den
+Tid havde tvivlet paa, at Loven om Kraftens
+Variation med Afstanden kunde gælde helt ned
+til Jordoverfladen. Først nu var Grundlaget for
+den ny Lære om Himmellegemernes Bevægelse
+færdigt, og i kort Tid, en Snes Maaneder,
+fuldendte N. sit Hovedværk paa Mekanikkens
+Omraade, <i>Philosophia Naturalis Principia
+Mathematica</i>, sædvanlig kaldt <i>Principia</i>, der udkom
+1686—87. Halley bekostede Udgivelsen og har
+tillige indlagt sig stor Fortjeneste ved Gang
+efter Gang at opfordre N. til at fuldføre og udg.
+
+<img>I. Newton</img>

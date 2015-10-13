@@ -1,0 +1,151 @@
+forbundne med en Telegrafledning, idet
+Bogstavteksten kan befordres i Flæng med sædvanlige
+Telegrammer gennem enhver Telegrafstation,
+naar blot den egl. Afsender og Modtager er
+forsynet med de fornødne Apparater til
+Omsætning mellem Billede og Tekst. Den direkte
+Metode stiller desuden ret store Krav til
+Afsender- og Modtagerapparaternes Synkronisme,
+hvilket undertiden vanskeligt kan opfyldes med
+de i Praksis forekommende Ledningsforhold.
+Hvor Forholdene muliggør det, foretrækkes
+direkte Billedtelegrafering dog fremfor den
+langsommere og dyrere indirekte Metode, der for
+et enkelt Billede kan nødvendiggøre
+Telegrafering af 5—10000 Bogstaver og for meget
+komplicerede Billeder indtil 10 Gange dette Antal.
+(<sp>Litt</sp>: <sp>G. Fuchs</sp>, »Die Bildtelegraphie«
+[Berlin 1926]).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telegrafkabler">
+<b>Telegrafkabler,</b> se <sp>Telegrafledninger</sp>.
+</chapter>
+
+<chapter name="Telegrafkoder">
+<b>Telegrafkoder</b> benyttes i stort Omfang,
+navnlig til den kostbare langvejs
+Telegrafering, dels for at spare Udgifter til
+Telegrafering af lange Telegrammer i almindelige
+Sprog, dels for at bevare Hemmeligheden, idet
+Korrespondenterne har aftalt Benyttelse af en
+eller flere Kodebøger, som indeholder
+Fortegnelser over Aftaleord eller Talgrupper, der
+udtrykker forud aftalte Sætninger af bestemt
+Indhold. Af det betydelige Antal eksisterende
+»Koder« har c. 120—125 været autoriserede af
+Telegrafcensuren, saaledes at de kunde
+benyttes, uden at Afsenderen risikerede, at
+Telegrafadministrationerne afviste hans
+Kodetelegrammer. Denne Autorisation gives ikke mere, og
+uautoriserede Koder benyttes i stort Omfang.
+Som de mest benyttede kan nævnes »ABC«,
+»Western Union«'s og »Marconi«'s Koder.
+<i>M. G.</i>
+</chapter>
+
+<chapter name="Telegrafledninger">
+<b>Telegrafledninger</b> fremføres overjordisk
+(Luftledninger), underjordisk (Jordkabler) eller
+undersøisk (Søkabler). De tidligste T. efter
+Fremkomsten af den elektriske Telegraf i Beg.
+af 19. Aarh. udførtes som Jordkabler, idet man
+mente, at Kredsløbet kun paa denne Maade
+kunde beskyttes mod Forstyrrelser udefra. P.
+Gr. a. Vanskeligheden ved Fremskaffelse af
+praktisk brugbare Isolationsmidler gik man
+hurtigt (omkr. 1837) over til Anvendelse af
+Luftledninger, hvis Anbringelse var
+betydelig lettere og billigere. Som
+Ledningsmateriale anvendes i Reglen 4,5 mm galvaniseret
+Jerntraad; længere internationale T. udføres
+dog undertiden af 3 mm haardtrukken
+Kobbertraad, hvis Ledningsevne er c. 7 Gange større.
+Traadene ophænges med Spændvidder paa
+60—70 m i Isolatorer af Porcelæn, der gives
+den i Fig. 1 viste Form som Dobbeltklokker,
+hvorved tilsigtes at opnaa den længst mulige
+Vej for den langs Overfladen stedfindende,
+skadelige Afledning for Telegrafstrømmene til
+Jord. Isolatorens Traadrille er i Reglen
+underskaaret for at hindre Traaden i at slynges ud
+af Blæsten. Ofte fastgøres Traaden tillige med
+en Bevikling af tyndere Jern- ell. Kobbertraad.
+For at opnaa bedre Isolation anvendes paa
+længere T. <sp>Olieisolatorer</sp>, hvis underste
+Rand er ombukket til en ringformet Rende, der
+fyldes med letflydende Olie. Da denne er en
+meget daarlig Leder for Elektriciteten og
+tillige forhindrer Dannelse af en
+sammenhængende Fugthinde paa Isolatorens Underside,
+forøges Isolationen betydeligt selv under daarlige
+Vejrforhold. Fig. 1 c viser en Olieisolator af
+nyere (engelsk) Type med løs Olieskaal, der
+let kan efterfyldes.
+
+Isolatorerne fastgøres ved Hjælp af
+galvaniserede Jernkroge (Fig. 1 a og c) ell. Tværarme
+af L- ell. U-Jern (Fig. 1 b) til
+<sp>Telegrafstænger</sp> af Gran ell. Fyr, der sædvanligvis
+imprægneres af Hensyn til Holdbarheden.
+Efter Boucherier's Metode (anvendt af
+Statstelegrafvæsenets Imprægneringsanstalt i Sorø)
+uddrives Træsafterne ved Indpresning af en
+Opløsning af Kobbervitriol (1,3 %) i Cellevævene
+forinden Afbarkningen (mest anvendelig for
+Gran). Ved Rütger's Metode anbringes
+afbarkede Fyrrestammer i en Kedel med en
+Blanding af Zinkklorid og Tjæreolie ell. sidstnævnte
+alene (Kreosotolie) under Tryk paa c. 10 Atm.
+Endelig kan benyttes Cyanisering ved
+Anbringelse af den afbarkede Stang i Bad af
+Sublimatopløsning, der i nogen Grad trænger ind i
+Porerne. Holdbarheden, der for uimprægnerede
+Stænger er fra 5—8 Aar, forøges ved de forsk.
+Imprægneringsmetoder til omkr. det 3-dobbelte,
+hvilket dog afhænger meget af Jordbunden,
+hvori Stængerne anbringes. Paa let, sandet
+Jord kan Stængerne saaledes bevares i 40—50
+Aar. Telegrafstænger anvendes i Længder fra
+6,5—15 m, der nedgraves % af Længden i
+Jorden og afstives navnlig i Vinkelpunkter med
+Staaltraadsbarduner ell. Træstivere. Stængerne
+beskyttes foroven med en Hætte af Zink- eller
+Jernplade og undertiden med et Topdæksel, der
+bærer en Isolator. T. fremføres i Reglen langs
+Landevej ell. Jernbane. Hvor Ledningsantallet
+er stort, benyttes Dobbeltstænger (Fig. 2). —
+Af længere overjordiske T. kan nævnes Det Store
+Nordiske Telegrafselskabs Forbindelser i
+Rusland, bl. a. paa Strækningen
+Leningrad-Moskva—Irkutsk—Kabarovsk (11100 km) samt
+Indo-Europæisk Telegrafselskabs Forbindelse
+mellem London og Kalkutta (13750 km)
+passerende 14 Overdragningsstationer i Tyskland,
+Rusland og Persien.
+
+De tidligste Forsøg paa Fremstilling af
+<sp>Søkabler</sp> (af Sömmerring og Schilling 1811,
+Morse 1842 o. fl. a.), hvor Ledningstraadene
+isoleredes med Glasrør, Beg, Voks o. l. eller
+omvikledes med Gummibaand, bragte kun
+Skuffelser. Først med det af Wheatstone 1840
+foreslaaede Guttaperka fik man et
+Isoleringsmiddel, der i samme Grad tilfredsstillede
+Fordringerne til Kablets Modstandsdygtighed over
+for mek., kem. og elektriske Paavirkninger, og
+som med den af Siemens i Berlin 1847
+fremstillede Presse lod sig bearbejde saaledes, at
+Lederen omsluttedes med en fuldstændig
+vandtæt og isolerende Beklædning. Som Leder
+benyttes i Reglen flere sammensnoede Kobbertraade
+ell. en enkelt tykkere Traad, omviklet med
+Kobberbændler. Det samlede
+Kobbertværsnitsareal retter sig efter Ledningslængden og
+varierer fra 2—10 mm<sup>2</sup>, undtagelsesvis op til 16
+mm<sup>2</sup>. Guttaperkaen ompresses i 2 ell. 3
+koncentriske Lag med en Yderdiameter 6—10 mm.
+En saadan isoleret Leder kaldes en <sp>Kore</sp>.
+Kortere Kabler indeholder i Reglen fl. Korer,
+der sammensnoes og omgives med et Lag

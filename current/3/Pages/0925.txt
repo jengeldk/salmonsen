@@ -1,0 +1,129 @@
+ført til Jord, er indskudt mellem disse. I
+Brandalarmerne haves ligeledes Forbindelse til Jord,
+dog kun under Alarmering. Ved Alarmen
+tilvenstre sluttes Jordforbindelsen ved
+Løbeværkets Igangsætning og afbrydes atter ved dets
+Standsning, ved Alarmen tilhøjre har
+Typehjulet stedse Jordforbindelse, men
+Kontaktfjederen er i Rostillingen isoleret fra Typehjulet
+ved et i dette indsat Stykke Isoleringsmateriale.
+Er Linien i Orden, indgaar en
+Brandalarmsmelding paa begge Morseapparater, er der
+Liniebrud, indgaar Meldingen kun paa det
+Morseapparat, der ligger paa den hele Gren af
+Sløjfen, idet Jordforbindelsen fra Alarmen til
+Batterimidten træder i St f. den brudte Del af
+Sløjfen. Indgaar samtidigt to Meldinger, vil
+hver Melding paa lgn. Maade indgaa paa sit
+Apparat. Morseapparaterne maa være
+selvudløsende og dobbelt selvbremsende, saaledes at
+de standser efter en bestemt kort Løbetid,
+saavel naar der er Strøm paa Ledningen, som
+naar den er uden Strøm, idet Sløjfen jo ved
+Liniebrud er strømløs undtagen under en
+Alarmering.
+
+Ved det <sp>kombinerede
+Morsesikkerhedssystem</sp> anvendes af Bekostnings- og
+Pladshensyn kun 2 Morseapparater til 4 à 5
+særskilte Sløjfer med hver sit Batteri.
+Indgaaende Brandmeldinger overføres enten indirekte
+ved Hjælp af Relaiser i de ydre Sløjfer til
+Morseapparaterne, der er indskudt i en under
+Hvilestrøm staaende Lokalsløjfe, ell. de
+overføres direkte til Morseapparaterne, idet den ell.
+de ydre Sløjfer, i hvilke Brandmelding indgaar,
+ved Hjælp af Faldklaprelaiser, der paavirkes af
+Sløjferelaiserne, automatisk indskydes i
+Lokalsløjfen, medens samtidig de paagældende ydre
+Sløjfers Relaiser og Batterier udskydes.
+
+<sp>Signal- og Hjælpeapparater</sp>. Ved
+indgaaende Depecher slutter Morseapparatet
+eller eventuelt dettes Relais allerede ved
+første Afbrydelse af Strømmen i Sløjfen
+et lokalt Strømløb med en Signalklokke for
+at tilkalde Telegrafisten. Ofte indskydes
+tillige i hver Sløjfe en Signal-Faldklap, hvis
+Relais tillige kan bevirke Tænding af en
+Signallampe. For ved Brandalarmsmeldinger at
+kunne alarmere Stationens Mandskab uden
+Telegrafistens Medvirkning anvendes en
+Alarmeringsautomat. Denne er ved Anvendelse af et
+Echappement indrettet saaledes, at Strømmen
+til Alarmklokkerne først sluttes efter fl.
+Strømslutninger og -afbrydelser, saaledes at den ikke
+alarmerer ved Liniebrud ell. ved
+Brandmandskabets Kaldesignal fra en Alarm. Indgaar
+Kaldesignalet, der bestaar af 2 ved Benyttelse
+af Alarmens Morsenøgle frembragte Streger paa
+Morseapparatets Papirstrimmel, stiller
+Telegrafisten Automaten ud af Virksomhed, indtil
+Telefonsamtalen ell. Telegraferingen er færdig.
+Samtidig med Alarmeringen slutter
+Alarmeringsautomaten Strømkredsen til en
+Tændeautomat, der tænder Stationens Belysning.
+
+I St f. en Alarmeringsautomat, der kræver
+rigtig Ind- og Udstilling fra Telegrafistens Side,
+anvendes ogsaa helautomatisk Alarmering, som
+kun virker ved Brandmeldinger, men ikke ved
+Telegrafering fra ell. Prøve af en Brandalarm.
+I Brandalarmen anbringes da en af
+Brandalarmdøren paavirket Kontakt, som, naar Døren
+aabnes, indskyder en stor Modstand i Sløjfen
+parallelt med Typehjulets Kontaktanordning og
+Morsenøglen. Ved Telegrafering ell.
+Prøvealarmering for aaben Dør bliver Strømmen i
+Sløjfen da kun svækket, men ikke afbrudt. Paa
+Modtagerstationen indrettes Morseapparaterne
+til at kunne arbejde saavel ved Strømsvækning
+som ved Strømafbrydelse, og der indskydes i
+hver Sløjfe et Relais, som er indstillet saaledes,
+at dets Anker forbliver tiltrukket ved de
+stedfindende Strømsvækkelser, men falder fra ved
+Strømafbrydelser, hvorved Strømmen til
+Alarmklokkerne sluttes.
+
+Til Bestemmelse af Tiden for en Alarmerings
+Indløb anvendes et af et elektrisk Ur drevet
+Tidsstempel, der automatisk stempler Aarstal,
+Maaned, Dato, Timer, Minutter, eventuelt
+Sekunder paa Morseapparatets Papirstrimmel ved
+Siden af Brandalarmsmærkerne. Fra det
+elektriske Ur kan drives fl. Ure omkr. paa
+Stationen og fl. Tidsstempler, saaledes at de alle
+kommer til at stemme nøjagtig overens. Ved
+Stationer med mange Brandalarmsløjfer vil det
+ofte være for bekosteligt og optage for megen
+Plads at have et Tidsstempel for hver Sløjfe.
+De paa de enkelte Sløjfers Morseapparater
+modtagne Brandmeldinger o. a. Depecher kan da
+automatisk overføres til et for alle ell. fl. Sløjfer
+fælles Morseapparat med Tidsstempel og
+Oprulningshjul for den beskrevne Papirstrimmel —
+den saakaldte Samlemorse —, der altsaa
+indeholder samtlige paa disse Sløjfer indløbne
+Depecher med Tidsstempler. Eventuelt kan tillige
+den paagældende Sløjfes Kendingsbogstav ell.
+-nummer samtidig stemples ved et fra Sløjfen
+paavirket særligt Stempel.
+
+Meddelelsen til Udrykningsmandskabet om
+Alarmeringsstedets Beliggenhed kan ske fra
+Telegrafstuen ved Indstilling af Kontakterne til
+Lystableauer, der gengiver den paagældende
+Brandalarms Nummer og anbringes i
+Udrykningsremisen o. a. St. Et Kontroltableau i
+Telegrafstuen sikrer mod Fejlindstilling og mod,
+at Lamperne i Tableauerne ikke lyser, idet
+alle Lamper, der belyser samme Tal, er
+indskudte i Serie. Da Tableauerne imidlertid kun
+kan gengive Numre, kan Meldinger, der
+indgaar mundtlig ell. gennem Byens Telefonnet, ikke
+gengives paa denne Maade, og der anvendes
+derfor ofte i St f. Tableauer Meldesedler, der
+udfærdiges af Telegrafisten og f. Eks. ved
+Rørpost sendes til Udrykningsremisen.
+
+<img>Fig. 12. Morsesikkerhedssystemet.</img>

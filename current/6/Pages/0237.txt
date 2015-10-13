@@ -1,0 +1,122 @@
+<chapter name="Dispensator">
+<b>Dispensator</b> (lat.), Uddeler, Forvalter,
+Regnskabsfører. Ved D. betegnes navnlig den
+farmaceutiske Kandidat, som ansat ved et Hospital
+forestaar dettes Apoteksafdeling.
+<i>E. K.</i></chapter>
+
+<chapter name=”Dispensatorium”>
+<b>Dispensatorium.</b> Ved D. forstaas nu om
+Stunder en Samling af Forskrifter for
+Tilberedning af Lægemidler, som ikke er identisk med
+den af den paagældende Stat autoriserede
+Farmakopé; Dispensatorier udgives ofte af større
+Hospitaler, Lægeforeninger o. s. v. Se i øvrigt
+<sp>Farmakopé</sp>.
+<i>E. K.</i></chapter>
+
+<chapter name=”dispensere”>
+<b>dispensere</b> (lat.), tilberede og udlevere
+Lægemidler. Udtrykket bruges særlig om den
+Læge, der, fordi han er afskaaret fra
+regelmæssig Forbindelse med et Apotek, har faaet
+Tilladelse til at d. den Medicin, han anvender
+til sine Patienter.
+<i>E. K.</i></chapter>
+
+<chapter name=”Dispersion”>
+<b>Dispersion,</b> <sp>Straalespredning</sp> eller,
+naar man især tænker paa de <sp>synlige</sp>
+Lysstraaler, Farvespredning. Naar hvidt
+Lys falder skraat ind mod et gennemsigtigt
+Legemes, f. Eks. en Glasbloks plane Overflade og
+brydes (se <sp>Brydning</sp>), vil det tillige
+spredes til en Straalevifte (<i>rv</i>, Fig. 1), fordi det
+indeholder Lys af forsk. Bølgebredder ell. Farver,
+for hvilke Glasset har forsk. Brydningsforhold.
+Af de Farver, der indeholdes i det hvide Lys,
+bryder de gennemsigtige Stoffer det røde, der
+har den største Bølgebredde, mindst, og det
+violette, der har den mindste Bølgebredde,
+mest (Brydningsforholdet er mindst for rødt,
+størst for violet); imellem dem ligger
+Farverne i Rækkefølgen: rødt, orange, gult,
+grønt, blaat, indigo, violet. Det er dog
+vilkaarligt, at kun disse Farver nævnes, da Farverne
+gaar fuldkommen jævnt over i hinanden; det
+hvide Lys indeholder uendelig mange forsk.
+Farver. Da Brydningsforholdet ar lig Forholdet
+mellem Lysets Hastighed uden for og i det
+gennemsigtige Legeme, forplanter rødt Lys sig
+hurtigst og violet langsomst i Glasset af alle de
+i det hvide Lys indeholdte Farver. Træffer
+Straalerne vinkelret paa Glasoverfladen, saa at
+der ingen Brydning finder Sted, sker der
+derfor dog for saa vidt en Farvespredning, som
+det røde Lys kommer hurtigere gennem
+Glasset end det violette. - <sp>Newton</sp> har først
+(1669) studeret D. systematisk; hans bekendte
+fundamentale Forsøg er vist i Fig. 2. Lader
+man Solen skinne gennem en lille Aabning ind
+i et mørkt Værelse, vil det smalle Bundt
+Solstraaler <i>S</i> paa en modstaaende hvid Væg
+frembringe et ufarvet Solbillede <i>S</i>', hvis Straalerne
+ingen Hindring møder paa deres Vej. Men
+anbringer man inden for Aabningen et
+gennemsigtigt tresidet Prisme <i>P</i> (paa Fig. set fra
+Enden), brydes for det første Straalerne, saa at de
+træffer Væggen paa et andet Sted, men tillige
+bredes de ud til en Vifte, der paa Væggen
+frembringer et Farvebaand (<sp>Spektrum</sp>) <i>AH</i>, i
+hvilket Farverne følger hinanden i den ovenn.
+Orden med rødt nederst. Newton forklarede
+ogsaa allerede D. rigtigt ved, at det hvide Lys
+bestaar af de forsk. farvede Straaler, der brydes
+forsk.; han viste, at Straalerne igen kunde
+forenes til hvidt Lys, f. Eks. ved bag <i>P</i> at
+anbringe et tilsvarende Prisme med den
+brydende Kant til modsat Side. - Det har vist sig, at
+Straaleviften er meget bredere, end den ser
+ud til, idet der til begge Sider for den findes
+usynlige Straaler. Neden for <i>A</i> ligger de
+<sp>ultrarøde</sp> Straaler med større Bølgebredde
+end de røde; de kan konstateres f. Eks. ved, at
+de ligesom de synlige har Varmevirkninger,
+naar de træffer et Legeme, der absorberer dem.
+Til Konstatering og Maaling af Straalernes
+Varmevirkning bruges fintmærkende
+Termometre: Bolometret og Termoelementet. Over <i>H</i>
+ligger de <sp>ultraviolette</sp> Straaler med
+kortere Bølgebredde end de violette; de kan
+konstateres ved, at de ligesom Dele af det synlige
+Spektrum har kem. Virkninger og kan
+frembringe Fluorescens; i Reglen studeres de ved
+deres Virkning paa en fotografisk Plade, men
+paa denne virker dog ogsaa store Dele af det
+synlige Lys, og ved Sensibilisering af Pladen
+kan den gøres følsom for hele det synlige
+Spektrum og endogsaa de nærmeste Dele af det
+ultrarøde. Der gives intet Stof, som er
+gennemstraaleligt for hele den kendte Del af Spektret.
+Til fuldstændigt Kendskab til et Stofs D.
+kræves ogsaa Kendskab til dets Forhold over for
+elektriske Bølger, der kun adskiller sig fra det
+ultrarøde Lys ved deres endnu længere
+Bølgebredde; derimod bliver der ikke Tale om D.
+over for de korteste kendte elektromagnetiske
+Bølger, Røntgenstraalerne, da de ikke brydes af
+Stofferne. - I den optiske Teknik er det i
+Reglen kun de gennemsigtige Stoffers D. for
+det synlige Spektrum, der har Interesse. Denne
+D. er meget forsk. for de forsk. Stoffer og
+staar ikke i noget simpelt Forhold til Stoffets
+Brydningsforhold for en bestemt Straale.
+Størrelsesforholdene i Fig. 2 svarer omtr. til D. i
+et Svovlkulstofprisme paa 60°, idet <i>A</i> og <i>H</i> bet.
+henh. omtr. den yderste røde og yderste
+violette Straale, der endnu normalt er synlige i
+Solspektret, nemlig to bestemte Fraunhofer'ske
+Linier. Svovlkulstoffet maa være indesluttet i et
+
+<img>Fig. 1.</img>
+<img>Fig. 2. </img>

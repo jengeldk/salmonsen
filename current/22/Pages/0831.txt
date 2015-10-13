@@ -1,0 +1,95 @@
+Systemer ved store Udsving blive mere eller
+mindre anharmoniske. Bliver den anharmoniske
+Oscillator paavirket af en ydre periodisk Kraft
+med Frekvensen <i>n1</i>, vil dens Bevægelse, foruden
+et Hovedled med Frekvensen <i>n1</i>, ogsaa indeholde
+Led med hele Multipla, »Overtoner«, af denne
+Frekvens. Særlig Interesse har den
+anharmoniske Oscillators Forhold, naar den paavirkes
+samtidig af <sp>to</sp> ydre periodiske Kræfter med
+forsk. Frekvenser <i>n1</i> og <i>n2</i>. Vi faar da ikke
+blot Led med Frekvenserne <i>n1</i> og <i>n2</i> og deres
+Overtoner, men ogsaa Frekvenser, der er
+Kombinationer af disse, de saakaldte
+Kombinationstoner, af hvilke de vigtigste er Frekvenserne
+<i>n1—n2</i> og <i>n1+n2</i>, Differens- og
+Summationstonerne.
+
+5) <sp>Svingninger med 2
+Frihedsgrader</sp>. <sp>Koblede Svingninger</sp>. De
+Svingninger, vi ovenfor har betragtet, har alle
+været af den Art, at det svingende Systems
+øjeblikkelige Stilling bestemtes ved en enkelt
+Talangivelse. Ved den retlinede Svingning af
+en enkelt Massedel bestemmes dennes Stilling
+saaledes ved Angivelsen af det øjeblikkelige
+Udsving <i>x</i> fra Ligevægtsstillingen, ved et fast
+Legemes Drejningssvingninger om en Akse ved
+Angivelsen af Udslagsvinklen o. s. v. Man
+udtrykker dette ved at sige, at saadanne
+svingende Systemer har een Frihedsgrad, idet man
+sætter et Systems Antal af Frihedsgrader lig
+med Antallet af Talangivelser (Koordinater),
+som er nødvendige for at angive dets Stilling.
+Ved et Lod, der er ophængt i en Snor, er der
+saaledes to Frihedsgrader, naar det ikke blot
+som ovenfor svinger frem og tilbage i et Plan
+som et alm. Pendul, men ogsaa svinger
+vinkelret paa dette Plan. Udsvinget bort fra
+Planet kommer da til som en ny Angivelse, <i>y</i>.
+Ved en Bevægelse af denne Art vil Loddet ved
+smaa Udsving i Alm. komme til at beskrive en
+Ellipse, der spec. kan være en Cirkel. Et
+Pendul, der udfører en saadan Bevægelse, kalder
+man et konisk Pendul. I dette her betragtede
+Tilfælde af to Frihedsgrader vil det vise sig,
+at Svingningen af <i>x</i>-Koordinaten vil forløbe
+ganske ens, hvad enten der er stor eller lille
+eller slet ingen Bevægelse af <i>y</i>-Koordinaten.
+Den Energi, der er knyttet til <i>x</i>-Bevægelsen,
+maa derfor — naar vi ser bort fra
+Dæmpningen — forblive konstant for sig som ved den
+alm. Pendulbevægelse og uafhængig af Energien
+i <i>y</i>-Bevægelsen. Man siger, at de to svingende
+Bevægelser er uafhængige af hinanden. Større
+Betydning har det alm. Tilfælde af Bevægelsen
+med to Frihedsgrader, hvor der finder en
+Energiudveksling Sted mellem de to Svingninger.
+Man siger da, at de to Svingninger ell.
+svingende Systemer er koblede sammen. Som et
+illustrerende Eksempel kan vi tage to fysiske
+Penduler, der hver svinger om sin Akse. Saa
+længe der ingen Forbindelse er mellem dem,
+er de to Bevægelser uafhængige af hinanden,
+men vi kan etablere en Kobling mellem dem
+ved som i Figuren at forbinde dem med en
+Spiralfjeder. Tænker vi os nu, at Pendul II
+til at begynde med er i Hvile, medens Pendul
+I svinger, vil II ved I's Bevægelse blive
+paavirket af skiftende Træk gennem Fjederen og
+derfor efterhaanden sat i Bevægelse. Derved
+gaar noget af Energien i I over paa II, og
+Pendul I's Udsving maa derfor aftage. Det
+viser sig, at efter nogen Tids Forløb er saa godt
+som al Energien gaaet over paa Pendul II's
+Bevægelse, medens Pendul I næsten er stille,
+altsaa en Tilstand, som meget nær er den stik
+modsatte af Begyndelsestilstanden. Men nu
+begynder det samme Spil som før, blot i modsat
+Retning; Energien gaar tilbage til Pendul I,
+og saaledes vandrer den bestandig frem og
+tilbage mellem de to svingende Legemer. Hvis
+de to Penduler hver er forsynet med en
+Skrivestift, saa at de kan optegne deres
+Svingninger paa et Papir, der samtidig trækkes nedad
+med jævn Hastighed, vil de beskrive de to
+Svingningsrækker, som er vist paa Fig. 5. En
+Svingningsrække med periodisk vekslende
+Amplitude kan betragtes som en Overlejring af to
+Svingninger med ganske lidt forsk. Periode.
+Giver de et Øjeblik Udsving til samme Side,
+faar vi en Svingning med stor Amplitude, men
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>

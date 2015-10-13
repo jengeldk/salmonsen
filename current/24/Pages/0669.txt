@@ -1,0 +1,164 @@
+der var sket for de elliptiske Funktioner; dette
+Maal maa siges at være naaet. Sit Arbejde
+herpaa forberedte han ved en betydelig
+Simplifikation af de elliptiske Funktioners Teori og en
+Revision af Funktionsteorien (s. d.). De
+analytiske Funktioners Teori opbygger han i
+Modsætning til Riemann, paa et rent aritmetisk
+Grundlag, nemlig paa deres Udviklinger i
+Potensrækker. Han viser, at en vilkaarlig hel
+Funktion <i>f(z)</i>, d. v. s. en analytisk Funktion,
+som ikke bliver uendelig for endelige Værdier
+af <i>z</i>, kan udtrykkes ved et Produkt af
+Faktorer af Formen <i>e<sup>M</sup></i> (1—<i>z/a</i>), hvor <i>a</i> er et
+Nulpunkt for <i>f (z)</i> og <i>M</i> et Polynomium i <i>z</i>;
+herved ledes man til en ny vigtig Klassifikation af
+disse Funktioner og sættes i Stand til at
+konstruere dem, naar Nulpunkterne er givne. De
+ikke analytiske Funktioner, hvis Definitioner
+kan være fuldstændigt vilkaarlige, var man,
+for saa vidt de var kontinuerte, tilbøjelig til
+uden videre at tillægge nogle af de analytiskes
+Egenskaber, idet man støttede sig paa en
+antaget geometrisk Fremstilling; W. paaviste
+Faren herved, idet han opstillede en kontinuert
+Funktion af en reel variabel, som ikke for
+nogen Værdi af denne har en bestemt
+Differentialkvotient. Som Afslutning paa sin Behandling
+af de Abel'ske Funktioner undersøger W. de
+almindeligste, periodiske, ikke nødvendigt Abel'ske
+Funktioner. Ogsaa paa andre Omraader har
+W. sat betydelige Spor; her maa nævnes hans
+Fuldstændiggørelse af Beviserne for, at <i>e</i> og π
+er transcendente Tal, hans Arbejder
+vedrørende Variationsregningen, den projektive
+Geometris Fundamentalsætning, lineære
+Differentialligninger, komplekse Tal med <i>n</i> Enheder,
+kvadratiske Former m. m. Hans talrige
+Afhandlinger, der findes i Crelle's Journal og
+Berlin-Akademiets Skrifter, udgives samlede under
+Titelen »Matematische Werke von Karl W.«, af
+en af Berlin-Akademiet nedsat Kommission;
+indtil nu (1927) er der kommet 6 Bd, Heri
+findes ogsaa W.'s Forelæsninger, af hvilke en Del
+maatte tages fra Optegnelser af hans Elever.
+(<sp>Litt</sp>.: <i>L'œuvre mathématique de Weierstrass,
+par</i> <sp>H. Poincaré</sp> [<i>Acta math.</i> t. 22]; »Die
+ersten 40 Jahre des Lebens von Weierstrass«,
+von <sp>G. Mittag-Leffler</sp> [<i>Acta math.</i> t. 39]).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Weigand, Friedrich Ludwig Karl">
+<b>Weigand</b> ['va^igant], <sp>Friedrich
+Ludwig Karl</sp>, tysk Germanist (1804—78), blev
+1851 Professor i tysk Sprog og Litteratur ved
+Universitetet i Giessen. Af W.'s grammatiske
+og leksikalske Arbejder har navnlig to større
+Betydning: hans »Wörterbuch der deutschen
+Synonyme« (1840—43; 2. Oplag 1852) og
+»Deutsches Wörterbuch« (1857, nyeste Udgave,
+omarbejdet af H. Hirt m. fl. 1909 ff.), som nu er
+den mest omfattende tyske etymologiske
+Ordbog. Efter J. Grimm's Død blev Fortsættelsen
+af den Grimm'ske Ordbog betroet til W. og R.
+Hildebrand. (<sp>Litt</sp>.: <sp>O. Bindewald</sp>, »Zur
+Erinnerung an W.« [1879]).
+<i>L. Ha.</i>
+</chapter>
+
+<chapter name="Weigel, Valentin">
+<b>Weigel</b> ['va^ig<sub>ə</sub>l], <sp>Valentin</sp>, tysk Mystiker,
+f. 1533 i Hayn, d. 10. Juni 1588 som Præst i
+Zschoppau ved Chemnitz, havde studeret i
+Leipzig og Wittenberg, men følte sig frastødt af den
+lutherske Teologi og mere beslægtet med
+Sværmeraanderne. Han beholdt imidlertid sine
+Anskuelser for sig selv og underskrev endog
+Konkordieformelen, men han efterlod sig
+forskellige Skrifter, som viser, at han lærte en
+mystisk Subjektivisme, tilsat med adskillige
+gnostiske Momenter. Den hellige Skrift
+meddeler i Virkeligheden ikke andet, end hvad
+Mennesket finder i sin egen Aand, og de
+historiske Frelseskendsgerninger er værdiløse. Adam
+og Christus f. Eks. er kun Symboler paa to
+Principper, som findes hos hvert Menneske.
+W. vandt sig adskillige Disciple baade i
+Tyskland, Holland og Norden. (<sp>Litt</sp>.: <sp>J. O. Opel</sp>,
+»V. W.« [1864]; <sp>A. Israel</sp>, »V. W.'s Leben
+und Schriften« [1888]).
+<i>A. Th. J.</i>
+</chapter>
+
+<chapter name="Weigelia">
+<b>Weigelia</b> [va^i-], se <sp>Diërvilla</sp>.
+</chapter>
+
+<chapter name="Weigert, Karl">
+<b>Weigert</b> ['va^ig<sub>ə</sub>rt], <sp>Karl</sp>, tysk Histo-
+og Bakteriolog, f. 19. Marts 1845 i
+Münsterberg, Schlesien, d. 5. August 1904 i
+Frankfurt a. M. W. var Assistent hos Waldeyer,
+Lebert og Cohnheim, blev Professor i
+Leipzig 1879 og overflyttedes til Frankfurt som
+Professor i patologisk Anatomi. Den
+histologiske Teknik skylder W. uhyre meget,
+saaledes Bakteriefarvningen i Snit ved Hjælp af
+basiske Anilinfarver (1875), Nervesystemets
+Differentialfarvning ved Syrefuchsin (1882) og
+den elektive Farvning af Neuroglia (1890—95),
+men ogsaa hans patologisk-anatomiske Studier
+over Koppesygdommen (1874—75), over Krup
+og Difteritis (1877), i hvilke sidste Læren om
+Koagulationsnekrosen fremsattes, over den
+Bright'ske Syge og over Venetuberklerne og
+den tuberkuløse Blodinfektion
+(Miliærtuberkulosen) har bragt nye Synspunkter og ikke
+uvæsentlige Fremskridt.
+<i>J. S. J.</i>
+</chapter>
+
+<chapter name="Weigl, Joseph">
+<b>Weigl</b> ['va^ig<sub>ə</sub>l|, <sp>Joseph</sp>, østerrigsk
+Komponist (1766—1846), var Elev af Salieri og
+Albrechtsberger og en af Samtiden skattet
+Operakomponist; navnlig hans Sangspil »Die
+Schweizerfamilie« fandt stor Yndest og Udbredelse.
+W. var Kapelmester ved Wiener-Operaen; i
+sine senere Aar beskæftigede han sig mest med
+Komposition af Kirkemusik.
+<i>W. B.</i>
+</chapter>
+
+<chapter name="Weigl, Karl">
+<b>Weigl</b> ['va^ig<sub>ə</sub>l], <sp>Karl</sp>, østerrigsk Komponist,
+f. 6. Febr 1881 i Wien, Elev af Zemlinsky og
+Konservatoriet i Wien, hvor han nu lever; W.,
+der har skrevet Symfonier, Kantater, Kor,
+Klaverkoncert (for venstre Haand), Klaverstykker,
+Sange m. m., regnes blandt, de betydeligste
+nulevende østerrigske Musikere.
+<i>W. B.</i>
+</chapter>
+
+<chapter name="Weigner">
+<b>Weigner,</b> se <sp>Wegner</sp>.
+</chapter>
+
+<chapter name="Weihaiwei">
+<b>Weihaiwei,</b> britisk Krigshavn paa
+Nordkysten af Halvøen Shantung ved Indløbet til
+Petshili-Strædet, Kina, 738 km<sup>2</sup> med (1921)
+154416 Indb. Krigshavnen var oprindelig bleven
+anlagt af Kineserne for i Forening med det paa
+den anden Side af Strædet liggende Port
+Arthur at beherske Indsejlingen gennem
+Petshili-Strædet og saaledes forsvare Adgangen til
+Peking. Den ved foranliggende Øer beskyttede
+Havn befæstedes med stærke Søforter, medens
+den til Lands var omtrent uden Forsvar. Der
+anlagdes Værfter og Depoter af Kul og
+Munition. I Krigen med Japan 1894 angrebes den
+10000 Mand stærke Besætning af en dobbelt saa
+stor japansk Styrke under Ojama. Fæstningen

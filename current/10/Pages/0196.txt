@@ -1,0 +1,197 @@
+<table>
+<td>Litium<td>Li<td r>6,94
+<td>Lutecium<td>Lu<td r>175,0
+<td>Magnium<td>Mg<td r>24,32
+<td>Mangan<td>Mn<td r>54,98
+<td>Molybdæn<td>Mo<td r>96,0
+<td>Natrium<td>Na<td r>23,00
+<td>Neodym<td>Nd<td r>144,3
+<td>Neon<td>Ne<td r>20,2
+<td>Nikkel<td>Ni<td r>58,68
+<td>Niobium<td>Nb<td r>93,1
+<td>Niton<td>Nt<td r>222,4
+<td>Osmium<td>Os<td r>190,9
+<td>Palladium<td>Pd<td r>106,7
+<td>Platin<td>Pt<td r>195,2
+<td>Praseodym<td>Pr<td r>140,9
+<td>Radium<td>Ra<td r>226,0
+<td>Rhodium<td>Rh<td r>102,9
+<td>Rubidium<td>Rb<td r>85,45
+<td>Rutenium<td>Ru<td r>101,7
+<td>Samarium<td>Sm<td r>150,4
+<td>Selen<td>Se<td r>79,2
+<td>Silicium<td>Si<td r>28,3
+<td>Skandium<td>Sc<td r>44,1
+<td>Strontium<td>Sr<td r>87,63
+<td>Svovl<td>S<td r>32,06
+<td>Sølv<td>Ag<td r>107,88
+<td>Tallium<td>Tl<td r>204,0
+<td>Tantal<td>Ta<td r>181,5
+<td>Tellur<td>Te<td r>127,5
+<td>Terbium<td>Tb<td r>159,2
+<td>Tin<td>Sn<td r>118,7
+<td>Titan<td>Ti<td r>48,1
+<td>Torium<td>Th<td r>232,4
+<td>Tulium<td>Tu<td r>168,5
+<td>Uran<td>U<td r>238,2
+<td>Vanadin<td>V<td r>51,0
+<td>Vismut<td>Bi<td r>208,0
+<td>Wolfram<td>W<td r>184,0
+<td>Xenon<td>Xe<td r>130,2
+<td>Ytterbium<td>Yb<td r>173,5
+<td>Yttrium<td>Yt<td r>88,7
+<td>Zink<td>Zn<td r>65,37
+<td>Zirkon<td>Zr<td r>90,6
+</table>
+
+<i>R. K.</i>
+</chapter>
+
+<chapter name="Grundstreger">
+<b>Grundstreger</b> (fr. <i>traits de fond</i>, eng. <i>body
+strokes</i>) kaldes i Typografien de kraftige
+lodrette og spidsvinklede Streger i
+Antikvarskrifterne.
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="Grundsætning">
+<b>Grundsætning,</b> se <sp>Aksiom</sp>.
+</chapter>
+
+<chapter name="Grundsø">
+<b>Grundsø</b> (Søv.), en Sø, der opstaar ved
+Grundbraad og som kan naa en betydelig
+Højde. G. kan rejse sig pludselig og er meget
+farlig for Skibsfarten. G. kan ogsaa
+fremkomme ved vulkanske Bevægelser af Havbunden.
+<i>H. E.</i>
+</chapter>
+
+<chapter name="Grundtakst">
+<b>Grundtakst,</b> se <sp>Grundskatter</sp>.
+</chapter>
+
+<chapter name="Grundtal ell. Kardinaltal">
+<b>Grundtal</b> ell. <sp>Kardinaltal</sp> er de hele
+positive Tal. Se ogsaa <sp>Logaritmer</sp> og
+<sp>Talsystemer</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Grundtalje">
+<b>Grundtalje</b> (Søv.), en svær Talje, der
+anbringes mellem Nokken af Rorpinden og
+Skibssiden, naar der er sket Havari paa
+Styreapparaterne. Der sættes en G. til hver Side og
+Rorpinden bevæges ved Hjælp af disse. I ældre
+Skibe var der kun 1 G., der altid var skaaret
+under Klartskib som Reservestyretalje paa
+Rorpinden under Kamp. I moderne Skibe med
+svære Ror vil man dog ikke kunne styre Skibet
+med G., men kun støtte Rorpinden, til Havariet
+er udbedret.
+<i>H. E.</i>
+</chapter>
+
+<chapter name="Grundtone">
+<b>Grundtone,</b> den Tone i en Akkord, over
+hvilken de andre til Akkorden hørende Toner
+er lagte tertsvis, og som altsaa er bestemmende
+for Akkorden. Ligger G. i Bassen, kaldes
+Akkorden Grundakkord; ved Akkordens
+Omvending kan G. imidlertid ombytte sin Plads som
+den dybeste Tone med et af de andre
+Intervaller uden derved at miste sin Karakter som
+G. — G. kaldes ogsaa den dybeste Tone i en
+Tonart, paa hvilken dennes diatoniske Dur- ell.
+Molskala hviler; i denne Bet. kaldes G. ogsaa
+<sp>Tonika</sp>.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Grundtov">
+<b>Grundtov</b> (Søv.), svært Tov, der bruges ved
+Skibes Kølhaling for at holde Skibet i passende
+Afstand fra Kølhalingsstedet. Til et Skibs
+Kølhaling benyttes almindeligvis to G., hvoraf det
+ene befæstes ud for Stormasten og det andet
+ud for Fokkemasten.
+<i>H. P. C.</i>
+</chapter>
+
+<chapter name="Grundtvig">
+<b>Grundtvig,</b> dansk Slægt, hvis Stamfader,
+<sp>Morten Tuesen</sp> (d. 1618), var Købmand
+og Borgemester i Nykjøbing paa Sjælland, til
+hvilken By ogsaa Slægtsmedlemmer i de 3 flg.
+Generationer var knyttede som
+Magistratspersoner. To af Sønnesønnen, Byfoged <sp>Hans
+Jørgensen G.</sp>'s (1644—1700) Sønner
+helligede sig Præstegerningen, som senere optoges
+af en lang Række af G.'er. Den yngre,
+Sognepræst i Kregome <sp>Jørgen Hansen G.</sp> (c.
+1671—1712), blev Stamfader for den nyere Slægt.
+Han var Fader til Slotspræst paa
+Frederiksborg <sp>Isack Jørgensen G.</sp> (1697—1767),
+der har efterladt Afkom, og til Sognepræst i
+Vallekilde <sp>Otto Jørgensen G.</sp> (1704—72).
+Af sidstnævntes Sønner kan nævnes Sognepræst
+i Udby <sp>Johan Ottosen G.</sp> (1734—1813), en
+sympatetisk Personlighed, kendt som Udgiver
+af en vidtløftig »Katekismi Forklaring efter
+Saliggørelsens Orden« (1779), og Sognepræst i
+Gladsakse <sp>Christian G.</sp> (1737—97). J. O. G.
+blev Fader til Sognepræst i Gladsakse, Provst
+<sp>Otto G.</sp> (1772—1843), der skildres som brav
+og værdig, begavet og dygtig, kraftig og livlig,
+til <sp>Jacob Ulrich Hansen G.</sp> (1775—1800)
+og <sp>Niels Christian Bang G.</sp>
+(1777—1803), begge Præster ved de danske
+Etablissementer i Guinea, og til Slægtens fremragende
+Mand <sp>Nicolai Frederik Severin G.</sp>
+(s. d.), der blev Fader til fem Børn. Af 1.
+Ægteskab Arkivaren <sp>Johan Diderik
+Nicolai Blicher G.</sp> (s. d.) — bl. a. Fader til
+Fængselsinspektør, senere Herredsfoged
+<sp>Stener Frederik G.</sp> (f. 1860), og til
+Overbibliotekar ved Statsbiblioteket i Aarhus <sp>Gustav
+Vilhelm G.</sp> (f. 1866) —
+Folkemindeforskeren Prof. <sp>Svend Hersleb G.</sp> (s. d.) og
+<sp>Meta Cathrine Marie Bang G.</sp>
+(1827—87), gift med personel Kapellan ved Vartov
+<sp>Peter Outzen Boisen</sp> (1815—62), af 2.
+Ægteskab Præsten <sp>Frederik Lange G.</sp> (s.
+d.) og af 3. <sp>Asta Marie Elisabeth
+Frijs G.</sp> (f. 1860), gift med Overlæge, Prof.,
+<i>Dr. med.</i> <sp>Kristian Louis Johan
+Poulsen</sp> (f. 1854). Fra ovenn. Sognepræst C. G.
+nedstammer Prof. <sp>Ludvig August G.</sp> (s.
+d.) og Portrætmaleren <sp>Ludvig G.</sp>
+(1836—1901), der belønnedes med begge Akademiets
+Sølvmedailler, og som første Gang udstillede
+1859. En Gren af C. G.'s Linie blomstrer i
+Norge. (<sp>Litt</sp>.: <sp>Hauch-Fausbøll</sp> og
+<sp>Hiort-Lorenzen</sp>, »Patriciske Slægter«, II [Kbhvn
+1911]).
+<i>P. B. G.</i>
+</chapter>
+
+<chapter name="Grundtvig, Frederik Lange">
+<b>Grundtvig,</b> <sp>Frederik Lange</sp>,
+dansk-amerikansk Præst, f. i Kbhvn 15. Maj 1854, d.
+smst. 21. Marts 1903. Han var Søn af N. F. S.
+G. og hans anden Hustru. Efter 1876 at være
+privat dimitteret til Univ. kastede han sig over
+Studiet af Naturhistorie, Sagn og Folkeminder,
+hvoraf Frugten er hans Bog om
+»Løsningsstenen« (1878), men havde ved Siden af
+Statsvidenskab som Embedsstudium. 1881 tog han
+statsvidenskabelig Eksamen, giftede sig og
+rejste til Nordamerika, hvor han 1883 blev kaldet
+til Præst for den danske Menighed i Clinton
+(Iowa), og her virkede han indtil 1900. Han
+var Sjælen i »Dansk Folkesamfund«, hvis
+Opgave er at bevare det danske Aandsliv hos de
+Danske i Nordamerika. Under Arbejdet herfor
+havde han idelige og heftige Sammenstød med

@@ -1,0 +1,146 @@
+først hans 1828 udgivne <i>Corn-law Rhymes</i>, der
+skabte ham Ry og i bogstavelig Forstand
+skaffede ham Navn <i>The Corn-law Rhymer</i>. Disse
+kraftige og for det brede Lag let forstaaelige
+Vers blev en ikke ubetydelig Indsats i Kampen
+mod Korntolden. Hvor populære de var, saa
+man, da de atter benyttedes i Kampen mod de
+Chamberlain'ske Tarifplaner. I <i>Miscellanies</i> har
+Carlyle skrevet et Essay om <i>The Corn-law
+Rhymes</i>. 1850 udgav hans Svigersøn John Watkins:
+<i>Life, Poetry and Letters of E. E.</i>
+<i>I. O.</i>
+</chapter>
+
+<chapter name="Ellipse (matematik)">
+<b>Ellipse</b> (<sp>mat</sp>.), en af de under Navnet
+Keglesnit kendte Kurver, der allerede blev
+grundig undersøgte af den gr. Oldtids
+Matematikere. E. er mest kendt som Kurven,
+dannet af de Punkter, hvis Afstande fra to faste
+Punkter, <sp>Brændpunkterne</sp> (<i>F</i> og <i>F</i><sub>1</sub> paa
+Fig.), har en konstant Sum. <i>FP</i> og <i>F</i><sub>1</sub><i>P</i> kaldes
+Punktet <i>P</i>'s <sp>Brændstraaler.</sp>
+Brændpunkternes Midtpunkt <i>O</i> er Centrum for E., og E.
+er symmetrisk med Hensyn til hver af de to
+paa hinanden vinkelrette Linier <i>AB</i> og <i>CD</i>, hvis
+Længder alm. betegnes ved 2<i>a</i> og 2<i>b</i>. 2<i>a</i> er =
+Brændstraalernes konstante Sum, thi <i>AB</i> = <i>AF</i><sub>1</sub>
++ <i>F</i><sub>1</sub><i>B</i> = <i>FB</i> + <i>F</i><sub>1</sub><i>B</i>; <i>a</i> er større end <i>b</i>, thi i
+den retvinklede Trekant <i>OCF</i> er den ene Katete
+<i>OC</i> = <i>b</i> og Hypotenusen <i>FC</i> = <i>F</i><sub>1</sub><i>C</i> = 1/2 <i>FC</i> +
+<i>F</i><sub>1</sub><i>C</i>) = <i>a</i>. <i>AB</i> og <i>CD</i> kaldes E.'s <sp>store</sp> og
+<sp>lille Akse</sp>, <i>A. B. C</i> og <i>D</i> dens
+<table>
+<td v2><sp>Toppunkter</sp>. Forholdet<td><i>OF</i><td v2>kaldes E.'s
+<td><i>OB</i>
+</table>
+<sp>Ekscentricitet</sp> og betegnes alm. ved <i>e</i>; da <i>F</i><sub>1</sub><i>F</i> =
+2<i>ae</i> er mindre end Summen <i>F</i><sub>1</sub><i>P</i> + <i>FP</i> =
+2<i>a</i> af de to andre Sider i Δ <i>F</i><sub>1</sub><i>FP</i><sub>1</sub>, er <i>e</i> en
+ægte Brøk. Korden <i>GH</i> gennem et Brændpunkt
+vinkelret paa Storaksen kaldes
+<sp>Parametren</sp>. En Tangent <i>TP</i> til E. danner lige store
+Vinkler med Brændstraalerne til
+Røringspunktet <i>P</i>; derfor vil en Lysstraale ell. Lydbølge, der
+udgaar fra det ene Brændpunkt, efter at være
+kastet tilbage fra E. gaa gennem det andet.
+Naar Cirklen over <i>AB</i> som Diameter drejes om
+<i>AB</i>, indtil dens Plan danner en Vinkel <i>v</i> med
+<table>
+<td v2>E.'s bestemt ved <i>cos v</i> = <td c><i>b</i><td v2>, vil E. være dens
+<td c><i>a</i>
+</table>
+retvinklede Projektion; iflg. en Sætning i
+Stereometrien kan man da finde Arealer ved E.
+ved at multiplicere de Arealer ved Cirklen, hvis
+<table>
+<td v2>Projektioner de er, med<td c><i>b</i><td v2>. Hele E.'s Areal
+<td c><i>a</i>
+</table>
+<table>
+<td v2>er saaledes = <i>πa</i><sup>2</sup> .<td c><i>b</i><td v2> = <i>πab</i>. Henføres E. til
+<td c><i>a</i>
+</table>
+et retvinklet Koordinatssystem med X-Aksen
+gennem Brændpunkterne og Begyndelsespunktet
+<table>
+<td v2>i <i>O</i>, faar den Ligningen<td c><i>x</i><sup>2</sup><td v2> + <td c><i>y</i><sup>2</sup><td v2> = 1.
+<td c><i>a</i><sup>2</sup><td c><i>b</i><sup>2</sup>
+</table>
+<i>Chr. C.</i>
+</chapter>
+
+<img></img>
+
+<chapter name="Ellipse (sprog)">
+<b>Ellipse</b> (gr.) betegner i Sprogvidenskaben
+Udeladelse af et ell. andet tilsyneladende
+uundværligt Element. Et <sp>elliptisk Udtryk</sp> er
+altsaa for saa vidt et ufuldstændigt Udtryk, som
+man ved nærmere logisk Analyse savner en
+Bestemmelse i det; da imidlertid Sprogets Opgave
+ikke er at give alt det Udtryk, som en minutiøs
+logisk Undersøgelse kan eftervise i vore Tanker,
+men at tjene det praktiske Livs Behov til et
+hurtigt og bekvemt Meddelelsesmiddel, og da
+Menneskene i Reglen kan forstaa halvkvædede
+Viser, især naar de har hørt dem ofte, kommer
+Sproget til at vrimle af E. af forsk. Slags. Livet
+er for kort til hvert Øjeblik at sige »Jeg ønsker
+Dem en god Dag« ell. »De skal selv have Tak«;
+derfor nøjes vi med »God Dag« (ell. <i>Gda'</i>) og
+»Selv Tak«. Paa lgn. Maade drikker vi
+<i>Bordeaux</i> (ɔ: Vin fra Bordeaux); beder om <i>to
+anden Lyngby</i> (to Billetter til Lyngby, anden
+Klasse) og betaler for dem en Krone og
+<i>halvtreds</i> (= halvtredsindstyve Øre); »saa Gud
+hjælpe mig« bliver til <i>s'gu; en Hvede</i> = en
+Hvedetvebak o. s. v. I mange Tilfælde er E. i
+den Grad fastslaaet, at ingen længere tænker
+paa den; man ved nok, at <i>Piano</i> siges for det
+fuldstændige <i>Pianoforte</i> ell. <i>Fortepiano</i>, men kun
+faa aner, at dette er kort for den opr.
+Benævnelse <i>clavecin à forte et piano.</i> Naar Per Gynt
+udbryder »Den, som havde sig en ramsaltet
+Sild!«, saa tænker han næppe paa, at han
+mangler Hovedsætningen (»han kunde være
+glad« e. l.); disse Udtryk ligesom de paa Dansk
+hyppigere med »Hvem der . . .« har egl. helt
+skiftet Karakter og er ikke længere noget, der
+udsiges abstrakt om enhver, der er i det
+angivne lykkelige Tilfælde; de betyder nu ikke
+andet end et Ønske i første Person (»Gid jeg
+. . .«). En ejendommelig Art E. vises ved
+Eksempler som <i>Rundekirke</i> og
+<i>Frederiksborgkvarteret</i> for »Kirken ved Runde-<i>taarn</i>« og
+»Kvarteret om Frederiksborg-<i<gade«</i> (begge i Kbhvn).
+En præcis Afgrænsning af Begrebet E.
+frembyder store Vanskeligheder, idet man vil
+komme til helt forsk. Resultater, efter som man
+anlægger rent logiske eller genetiske
+(sproghistoriske) Synspunkter; i gængse Fremstillinger af
+Grammatik blandes tit de to Synsmaader
+sammen, saa der navnlig drives Misbrug med Ordet
+»Underforstaaelse«. En saa vidt muligt
+gennemført Sondring mellem Udfald, Udeladelse og
+Underforstaaelse maatte kunne skabe større
+Klarhed, end man nu i Reglen træffer hos de
+fleste Sprogforskere. (<sp>Litt</sp>.: <sp>Wegener</sp>,
+»Grundfragen des Sprachlebens« [Halle 1885];
+<sp>E. Tegnér</sp>, »Andet nordiske Filologmøde«
+[Kria 1883, S. 46 ff.]; <sp>Karl Sundén</sp>,
+<i>Contributions to the Study of Elliptical Words</i>
+[Upsala 1904]; <sp>Ch. Bally</sp>, <i>Traité de stylistique
+française</i> [Heidelberg 1909]).
+<i>O. Jsp.</i>
+</chapter>
+
+<chapter name="Ellipsestyring">
+<b>Ellipsestyring</b> skal ved et System af
+Stænger, forbundne ved Led, styre et Punkt
+saaledes, at det kun kan bevæge sig i en ret Linie.
+Navnet E. hentyder til, at Virkningen grunder
+sig paa den Sætning: naar to med hinanden
+
+

@@ -1,0 +1,145 @@
+ret godmodige Sindelag, og de bliver, fangede
+som Unger, særdeles tamme.
+<i>R. Hg.</i>
+</chapter>
+
+<chapter name="Pumpe">
+<b>Pumpe.</b> Under denne Betegnelse
+sammenfattes ofte forsk. Maskiner og Apparater, der
+tjener til at løfte Vædsker ell. befordre dem mod
+en Modstand. Ogsaa til Befordring af Luftarter
+og Sammentrykning af saadanne benyttes P.
+(se <sp>Luftpumpe</sp>), og i det hele findes der
+mange særlige Arter beskrevne i spc. Art. ell.
+under de Art., til hvilke de naturlig hører.
+Der kan derfor henvises til <sp>Kædepumpe</sp>,
+<sp>Injektor</sp>, <sp>hydraulisk Væder</sp>,
+<sp>Montejus</sp>, <sp>Vandsnegl</sp>, <sp>Øsehjul</sp>; ved
+Dampmaskinen benyttes en særlig »Luftpumpe«, paa
+Gasværker fl. Arter Luftpumper. I nærværende
+Art. skal omtales de forsk. Arter af P., der
+almindeligst benyttes til Løftning af Vædsker,
+navnlig naturligvis Vand, og der kan bl. disse
+skelnes mellem flg. Grupper: Stempelpumper,
+Kapselpumper, Vingepumper,
+Centrifugalpumper og Pulsometre.
+
+Ved enhver P. kaldes det Rør, der fører
+Vædsken til P., <sp>Sugerøret</sp>, det,
+hvorigennem den forlader P., <sp>Stige</sp>- eller
+<sp>Trykrøret</sp>. Ved P.'s <sp>Sugehøjde</sp> betegnes dens
+Højde over Overfladen af den Vædske, der
+skal løftes. Sugehøjdens maksimale Størrelse
+afhænger af Vædskens Vægtfylde og er omvendt
+proportional med denne. Det er den ydre Lufts
+Tryk, der løfter Vædsken op i P., naar denne
+»suger«, og er Talen om Vand, kan Luften ved
+normalt Tryk bære en Søjle af 10,336 m, og
+dette er den størst mulige Sugehøjde, som man
+kan give en aldeles tæt og fuldkommen
+Vandpumpe. P. Gr. a., at der ofte findes Luft i
+Vandet, naar man imidlertid i Praksis ikke en
+saa stor Sugehøjde, og man maa selv ved gode
+Stempelpumper lade sig nøje med 7 à 8 m;
+ved de andre Arter af P. naar man sjælden
+saa stor Sugehøjde. Med <sp>Trykhøjde</sp>
+betegner man den lodrette Højde, hvortil Vædsken
+hæves over P.; Trykhøjden kan have en
+hvilken som helst Størrelse. Summen af Suge- og
+Trykhøjde kaldes P.'s <sp>Løftehøjde</sp>. Vil man
+beregne en P.'s Arbejde, maa man ikke alene
+tage Hensyn til de nævnte lodrette Afstande,
+gennem hvilke Vædsken føres, men man maa
+ogsaa tage i Betragtning den Modstand, der
+fremkommer ved Vædskens Bevægelse gennem
+P. og navnlig gennem Rørledningerne; er disse
+lange, kan Modstanden spille en meget stor
+Rolle. Modstandens Størrelse udtrykkes som
+Regel i m Vandsøjle. Befordrer P. Vædsken
+mod en Modstand uden egl. at løfte den, f. Eks.
+Fødepumpen ved en Dampkedel, beregnes
+Trykhøjden efter Højden af den til denne Modstand
+svarende Vandsøjle; er saaledes Trykket i
+Kedlen 7 kg pr Kvadratcentimeter, er Trykhøjden
+7 X 10,336 m = 72,352 m.
+
+En <sp>Stempelpumpe</sp> bestaar af et Rør,
+Pumpecylindren, hvori et Stempel kan
+bevæges, og til P. hører desuden forsk. Ventiler.
+Trykventilerne kan være anbragt enten i
+Stemplet ell. i Trykrøret, Sugeventilerne altid i
+Sugerøret ell. i Bunden af Cylindren. Der skelnes
+mellem enkelt- og dobbeltvirkende P., og der
+anvendes forsk. Benævnelser, som til Dels staar
+i Forbindelse med P.'s Stilling i Forhold til
+Vædskeoverfladen. Benævnelserne og
+Anordningen vil let forstaas af hosstaaende skematiske
+Figurer.
+
+<i>a</i> viser en Sugepumpe, <i>b</i> en Løftepumpe, <i>c</i>
+en Suge- og Løftepumpe; disse har Trykventilen
+siddende i Stemplet (ofte kaldet »Hjertet«).
+<i>d</i> er en Trykpumpe, <i>e</i> en Suge- og Trykpumpe,
+begge med Trykventilerne i Trykrøret. Alle
+disse P. er enkeltvirkende og afleverer kun
+Vædsken, naar Stemplet bevæger sig i den ene
+Retning — ved de tre førstnævnte, naar det gaar
+opad, ved de to sidste, naar det gaar nedad,
+<i>f</i> viser en dobbeltvirkende Suge- og
+Trykpumpe, og endelig fremstiller <i>g</i> en enkelt sugende,
+men dobbelt trykkende P. Den sidste har et
+sammensat Stempel: den nederste Del er
+gennembrudt og bærer Trykventilerne, virker
+altsaa som en Løftepumpes Stempel; den øverste
+Del er et saakaldet »Plungerstempel« (et
+Stempel, der selv gaar gennem Stopbøssen, medens
+ellers kun Stempelstangen gaar gennem denne),
+og det fortrænger under sin Nedgang en Del
+Vædske, saa at P. afleverer denne saavel under
+Stemplets Opgang som under dets Nedgang. For
+at gøre Vædskens Udstrømning jævn,
+anbringer man ofte, navnlig naar Trykhøjden er
+nogenlunde betydelig, en »Vindkedel« (s. d.) i
+Trykrøret; ligeledes kan en saadan anbringes
+i Sugerøret for at undgaa de Stød, som
+Vædskens Standsning i dette ved Sugeventilens
+Lukning frembringer, og som navnlig ved store ell.
+hurtiggaaende P. kan være uheldige.
+Ventilernes rigtige Konstruktion er meget vigtig, og
+der findes en Mængde forsk. Former, mellem
+hvilke Valget maa træffes efter P.'s Anvendelse
+(se i øvrigt <sp>Ventil</sp>). De her anførte
+Hovedformer af Stempelpumper optræder i mange
+forsk. Variationer, der finder en udstrakt
+Anvendelse til mange forsk. Formaal lige fra de
+største P. i Vandværker og Bjergværker til de
+alm. kendte »Poste«. Ofte anbringes fl.
+Cylindre sammen, og der opstaar da Tvilling- eller
+Trillingpumper. Som Drivkraft anvendes saavel
+Haand- og Hestekraft som alle Arter af
+Maskinkraft, og Kraftoverførslen sker enten
+direkte ell. gennem Tandhjul, Skruer uden Ende,
+Remtræk, Friktion o. s. v.
+
+Ved de saakaldte »Damppumper« er
+Stempelstangen forlænget og bærer foruden
+Pumpestemplet et i en Dampcylinder arbejdende
+Dampstempel. Undertiden findes en
+Krumtapaksel, der bærer et Svinghjul for at gøre
+Bevægelsenjævn, ofte tillige Ekscentrikken for
+Dampcylinderens Glider, men hyppig findes
+der ingen roterende Dele, og Bevægelsen
+holdes da i Gang ved Ventiler ell. Glidere, der
+automatisk bevæges af Stemplet ell. af særlige
+med dette ell. Stangen forbundne Styrearme
+og aabner og lukker for Dampen. Saadanne
+Damppumper anvendes navnlig som
+Fødepumper for Dampkedler (se
+<sp>Dampkedelfødeapparat</sp>), men i øvrigt ogsaa til alt andet
+Brug. Ved store Damppumper er for
+Økonomiens Skyld Dampcylindren indrettet efter
+Compound- ell. endog efter
+Triple-Ekspansionssystemet.
+
+Indeholder Vædsken Sand e. a. Urenheder,
+der kan beskadige Pumpecylindren, benyttes

@@ -1,0 +1,170 @@
+(s. d.) om en Akse. S. kan forskydes hen ad sig
+selv, hvilket betinger dens Anvendelighed i
+Praksis som Kant paa Skruer. Vikles en Plan
+om en Omdrejningscylinderflade, vil en
+vilkaarlig ret Linie i Planen danne en S. Da omvendt
+S. ved Udfoldning af Cylinderfladen bliver en
+ret Linie, er den paa denne Flade den korteste
+Vej mellem to Punkter, altsaa en geodætisk
+Kurve. S.'s Tangenter danner alle samme
+Vinkel med en Plan vinkelret paa Aksen; kaldes
+denne Vinkel <i>v</i> og Cylinderfladens Radius <i>r</i>,
+bliver Skruegangshøjden 2π<i>r</i> . <i>tgv</i>, Længden af
+det tilsvarende Stykke af S. (en Skruegang)
+2π<i>r</i> . <i>secv</i>. Den oskulerende Cirkels Radius er
+konstant = <i>r</i> (1 + <i>tg<sup>2</sup>v</i>), og dens Centrum
+ligger i Linien gennem det paagældende Punkt
+paa S. vinkelret paa Aksen; Oskulationsplanen
+er bestemt ved denne vinkelrette og Tangenten.
+Torsionsradien er konstant = <i>r</i> · 1+<i>tg<sup>2</sup>v</i>/<i>tgv</i>
+(Se <sp>Krumning</sp> og <sp>Oskulation</sp>).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Skruemoder">
+<b>Skruemoder,</b> se <sp>Møtrik</sp>.
+</chapter>
+
+<chapter name="Skruenøgle">
+<b>Skruenøgle,</b> Redskab, med hvilket man
+bevæger en Skrue ud ell. ind. S. er formet efter
+Skruehovedet og
+efter, om den skal
+anlægges i Retning
+af Skruens Akse ell.
+vinkelret derpaa. Af
+første Art er
+<sp>Skruetrækkeren</sp> (s. d.); hertil hører ogsaa
+S. med et Blad, der ender i to flade
+Tapper, og som i den anden Ende har
+et tværstillet Haandtag, ell. der kan i Stedet
+for et Blad være en Skive, hvis Flade er
+parallel med Haandtaget og udvendig bærer
+to ell. tre Tapper, der sættes ind i tilsvarende
+Fordybninger i Skruehovedet (Tapnøgler) ell.
+S. ender som et Rør, hvis Hulhed svarer til
+det urunde Skruehoved (Topnøgle). Af den
+anden Art er de aabne S. (faste S.) bekendte,
+som anvendes i stor Udstrækning ved
+Maskiner. Hovedet er her ofte stillet skævt paa
+Skaftet (se Fig.); som en Overgang mellem
+begge Arter S. kan Vognnøglen opfattes, der
+bruges, naar Hjul skal aftages; dens Hoved er
+et aabent Rør og paasættes aksialt, men Skaftet
+er vredet til Siden.
+
+Alle de nævnte S. er faste og kan med
+Undtagelse af Skruetrækkeren, denne dog blot inden
+for visse Grænser, kun bruges til aldeles
+bestemte Skruehoveder, hvorfor der selv til
+simple Maskiner hører et Sæt S. I St f. et
+saadant kan anvendes nogle faa
+<sp>Universalskruenøgler</sp> (eng. ell. sv. Nøgle), som har
+to paa tværs af Skaftet stillede Kæber, en fast
+og en bevægelig, som indstilles, hvorefter
+Skruehovedet fattes mellem dem.
+<i>(F. W.). D. H. B.</i>
+
+<img>Skruenøgle.</img>
+</chapter>
+
+<chapter name="Skruepalme">
+<b>Skruepalme,</b> se <sp>Pandanus</sp>.
+</chapter>
+
+<chapter name="Skruepalmeordenen">
+<b>Skruepalmeordenen</b> (<i>Pandanales</i>),
+enkimbladede Planter, Urter ell. Vedplanter med
+meget ufuldkomne Blomster. Hertil hører kun
+<sp>Dunhammerfamilien</sp> og
+<sp>Skruepalmerne</sp> (s. d.).
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Skruepalmerne">
+<b>Skruepalmerne</b> (<i>Pandandceæ</i>), Familie af
+enkimbladede Planter af Skruepalmeordenen,
+Træer ell. Buske med kraftige Støtterødder og
+hele, sværddannede Blade, der er tæt
+skruestillede og i Randen tornede. I Hjørnerne af
+skededannede Dækblade sidder de kolbeformede
+Blomsterstande med smaa, særkønnede
+Blomster. Hanblomsterne, der mangler Bloster, har
+talrige Støvblade, og Hunblomsterne, der
+ligeledes er uden Bloster, et forsk. Antal
+Frugtblade, fra 1 til flere. Frugterne, Bær ell.
+Stenfrugter, sidder i en sammensat Frugt. Arterne,
+hvis Tal ikke er nøje kendt, vokser i den gamle
+Verdens Troper. Se <sp>Pandanus</sp>.
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Skruepresse">
+<b>Skruepresse,</b> se <sp>Presse</sp>, S. 523.
+</chapter>
+
+<chapter name="Skruepæl">
+<b>Skruepæl,</b> en
+Pæl af Jern
+(sjældnere af
+Træ), som
+bringes ned i
+Grunden ved
+Nedskruning,
+hvorfor Pælens
+nedre Ende bliver
+forsynet med en
+Skrue. Da
+Skruens vandrette
+Areal saa godt
+som altid er
+større end
+Pælens
+Tværsnitsareal, vil en S.
+yde større
+Modstand saavel
+mod
+Nedtrykning som mod
+Optrækning end
+en alm. Pæl,
+hvorfor S.
+ogsaa særlig
+anvendes i Grund
+med mindre god
+Bæreevne. S.
+anvendes desuden
+ofte, hvor Forholdene ikke tillader de med
+Pæleramning forbundne Rystelser. En Betingelse for
+Anvendelse af S. er dog, at Bunden er
+nogenlunde fri for Sten. Skruen er altid af Jern og
+indeholder kun faa Vindinger (1 à 3} og
+adskiller sig i Reglen fra alm. Skruer derved, at
+Gængens Fremspring vokser efterhaanden, som
+den fjerner sig fra Spidsen (Fig. 1). Findes
+der Sten i Bunden, kan man dele Skruefladen
+i fl. adskilte Dele, for at Stenene ikke skal kile
+sig fast (Fig. 2). Gængens Fremspring, der
+ogsaa bestemmer Skruens vandrette Areal, gøres
+desto stærkere, jo blødere Grunden er. Skruens
+Materiale er i Reglen Støbejern ell. Støbestaal,
+og den befæstes til Pælen ved Dorne ell.
+Forkiling; kun hvis Pælen dannes af et
+Pladejernsrør, udføres Skruen ved, at der udvendig
+paa dette sættes et i Skruegang ført
+Vinkeljern (i det sidste Tilfælde udstøbes i Reglen
+Røret efter Nedskruningen med Beton). For
+lettere at kunne styre S. under Nedskruningen og
+for at sikre sig mod, at den vil forhindres af
+eventuelle Sten i Grunden i at skrues ned, plejer
+man forud for Nedskruningen at bore et Hul
+(ell. ramme og atter optrække en Pæl) paa det
+Sted, hvor S. skal staa. Nedskruningen udføres
+da ved, at S., efter at dens Spids er anbragt i
+det omtalte Hul, drejes, hvilket i Reglen
+foregaar ved, at der paa dens øvre Ende befæstes
+et med 2—8 Bomme forsynet Nav, som drejes
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+

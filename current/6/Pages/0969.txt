@@ -1,0 +1,77 @@
+<sp>Maskiner</sp> (Fig. 12), er imidlertid Ankeret,
+<sp>Stator</sp>, der bærer Viklingen, faststaaende,
+medens Magneterne (<sp>Polhjulet</sp>, <sp>Rotor</sp>) roterer
+inden i dette. Viklingen anbringes i Noter paa
+den indvendige Side af Stator, der ligesom
+Ankrene i Jævnstrømsmaskinerne er sammensat
+af Jernblik. Magnetpolerne magnetiseres med
+Jævnstrøm, som tilføres igennem to paa Akslen
+fastgjorte Slæberinge, og som maa leveres fra
+en særlig Jævnstrømsdynamo, der
+hyppigst er anbragt paa Generatorens
+Aksel og altsaa er trukket af samme
+Kraftmaskine som denne. Ved
+hurtigløbende Vekselstrømsgeneratorer,
+<sp>Turbogeneratorer</sp>, trukne af
+Dampturbiner, er Polhjulet hyppigst af den
+paa Fig. 13 viste Form, uden
+fremspringende Poler; Magnetbeviklingen
+er nedlagt i Noter paa samme Maade
+som Statorens Bevikling; dog er Rotor
+i Modsætning til Stator udført af
+massivt Jern. Polsystemet kan da bygges
+med mindre Diameter, end hvis det
+byggedes med fremspringende Poler, og
+udsættes derfor for mindre mek. Paavirkning ved det
+høje Omdrejningstal.
+
+Vekselstrømmens <sp>Periodetal</sp>, ell. det
+Antal Gange i Sekundet, Strømmen skifter fra
+positiv til negativ Retning, er bestemt dels ved
+Omdrejningstallet, dels ved Antallet af Poler
+paa Maskinen. Der anvendes i Alm.
+Periodetal imellem 15 og 60; de lavere Periodetal til
+Banedrift, de højere til alm. Lys- og
+Kraftforsyning; det for Lys almindeligst anvendte
+Periodetal er 50, Strømmen skifter altsaa her
+Retning 100 Gange i hvert Sekund; ved
+lavere Periodetal vilde Lyset blive
+flimrende og derfor ubehageligt. I
+Alm. forsynes Statoren med flere
+Viklinger, der er forsatte i Forhold
+til hinanden paa Statorens
+Omkreds, hvorved man faar de
+saakaldte <sp>flerfasede
+Strømme</sp>, d. e. Strømme, som opnaar deres
+Maksimumsværdier til forsk. Tid, ell., som man udtrykker
+det, har forsk. <sp>Fase</sp>, <sp>er faseforskudte</sp>
+for hinanden (Fig. 15). I Praksis bruges foruden
+<sp>enfasede</sp> (til Banedrift) mest <sp>trefasede</sp>
+Strømme, der er forskudte 1/3 Periode i
+Forhold til hinanden. Det er ved Trefaseanlæg
+muligt at overføre Energien med ringere Tab,
+altsaa ringere Kobberforbrug end ved
+Enfaseanlæg, ligesom ogsaa Generatorernes
+Virkningsgrad bliver bedre, og Generatoren bliver mindre,
+derfor billigere. Skal man overføre en vis
+
+<img>
+Fig. 9 a.
+</img>
+<img>
+Fig. 9 b.
+</img>
+<img>
+Fig. 9 c.
+Igangsættere og Shuntreguleringsmodstand til
+Jævnstrømsmotorer. a. Igangsætter, b.
+Shuntreguleringsmodstand. c. Kombineret Igangsætter og
+Shuntreguleringsmodstand.
+</img>
+<img>
+Fig. 10. Skematisk Billede af en
+Vekselstrømsmaskine.
+</img>
+<img>
+Fig. 11. Enfaset Vekselstrøm.
+</img>

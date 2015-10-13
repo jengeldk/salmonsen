@@ -1,0 +1,138 @@
+Livsforsikringsbrug er det imidlertid ikke nok efter de
+indsamlede Erfaringer at udregne Dødeligheden
+i de enkelte Aldersklasser; man maa endvidere
+foretage en Udjævning af de
+Uregelmæssigheder, som findes i disse Dødelighedstavler,
+hvor Tilfældigheder kan bevirke ret store
+Udslag fra den normale Dødelighed, og som
+derfor, anvendte uden Udjævning til
+Præmieberegningen, vilde give tilsvarende
+Uregelmæssigheder i Præmierne. I de fleste Tilfælde vil man
+kunne hjælpe sig med en simpel mekanisk ell.
+grafisk Udjævning. Skal Udjævningen foretages
+med størst muligt Udbytte, hører den derimod
+til de vanskeligste Opgaver i
+Livsforsikringsmatematikken. Den udjævnede
+Dødelighedstavle, der skal tjene som Grundlag for alle
+Livsforsikringsberegninger, fremtræder i
+Skikkelse af en Overlevelsestavle, som angiver, hvor
+mange af et vist Antal levende i en given
+Alder der er i Live i hvert af de flg. Aldersaar,
+og gaar f. Eks. fra 10000 levende i
+Begyndelsesalderen op til ingen levende i den højeste
+Alder, der i Reglen sættes til 100 Aar. Da
+Dødeligheden er ret forsk. for de to Køn, har en
+Anstalt i Alm. een Dødelighedstavle for Mænd og
+een for Kvinder.
+
+Af den foreliggende Dødelighedstavle kan
+man beregne Værdien af de forsk. Arter af L.
+Indskyder f. Eks. 900 20-aarige Mænd hver 1
+Kr., vil disse 900 Kr i Løbet af 30 Aar til en
+aarlig Rentefod af 3 1/2 % med Rente og
+Renters Rente vokse til c. 2500 Kr. Hvis denne Sum
+deles mellem de endnu levende af de 900
+Personer, hvis Antal f. Eks. er svundet ind til 700,
+vil enhver af dem kunne faa 2500/700 Kr = 3 Kr
+57 Øre. En saadan Forsikring, hvor de i
+Forsikringstiden døde helt mister deres Indskud,
+kaldes en <sp>opsat Udbetaling</sp>. Efter de
+samme Principper beregner man de øvrige
+Livsforsikringsformer, hvor Beregningen dog
+sjælden vil blive saa simpel som i det anførte
+Eksempel. En betydelig Forbedring ved den
+matematiske Side af L. er Anvendelsen af den
+kontinuerlige Metode, som forudsætter en
+kontinuerlig Bevægelse saavel i Dødelighed som i
+Pengeforhold; man kan her anvende
+Integralregning til Udvikling af Formlerne, hvorved
+Regningerne kan gøres langt mere overskuelige,
+og man tillige langt lettere kan underkaste alle
+herhen hørende Problemer en ren matematisk
+Behandling.
+
+L. omfatter en Mængde forsk. Former. Den
+<sp>egentlige</sp> L. kan enten tegnes som
+<sp>livsvarig</sp>, hvor Forsikringssummen udbetales ved
+den Forsikredes Død, naar som helst denne
+indtræder, ell. som ophørende, der kun
+kommer til Udbetaling ved Død inden for et
+bestemt Tidsrum. Den <sp>ophørende</sp> L. vil altsaa
+ikke som den livsvarige med Sikkerhed kunne
+anvendes til Forsørgelse for den Forsikredes
+Efterladte, men vil kunne bruges som Sikkerhed
+for Gæld, der skal afbetales i Løbet af en vis
+Aarrække. En L. med <sp>Udbetaling</sp> er en
+Kombination af en ophørende L. og en opsat
+Udbetaling; denne Forsikringsform er en af de
+mest anvendte, idet den baade sikrer de
+Efterladte ved den Forsikredes tidlige Død og giver
+den Forsikrede en Alderdomsforsørgelse, hvis
+han oplever Forsikringstidens Udløb. En
+<sp>Kapitalforsikring</sp> udbetales et bestemt Antal
+Aar efter Tegningen, hvad enten den Forsikrede
+til den Tid er i Live ell. ikke. Saavel denne
+Forsikring som en opsat Udbetaling kan
+benyttes som Udstyrsforsikring for et Barn, hvem
+der derved kan sikres en Sum til
+Konfirmationsudstyr, Brudeudstyr, e. l. L. kan ogsaa
+tegnes samtidig paa 2 Liv. Af saadanne Former
+kan nævnes <sp>gensidig</sp> L., der udbetales den
+Efterlevende, saa snart den ene af de
+Forsikrede dør, og <sp>Overlevelsesforsikring</sp>,
+som udbetales ved den Forsikredes Død,
+saafremt en anden bestemt Person overlever ham.
+Til L. maa ogsaa henregnes <sp>Livrente</sp>,
+hvorved forstaas aarlige Ydelser, der udbetales i en
+bestemt Aarrække, saafremt Livrentenyderen er
+i Live; de kan enten være <sp>livsvarige</sp>,
+<sp>ophørende</sp> ell. <sp>opsatte</sp>. Ved Tegning af en
+livsvarig Livrente vil man ved Indbetaling af
+en Kapital til Anstalten kunne opnaa en højere
+Rente af sine Penge end den almindelige, desto
+højere, jo ældre man er ved Tegningen, og
+man er sikker paa at beholde denne høje Rente
+hele Livet uafhængig af, hvor gl man bliver,
+og uafhængig af eventuel Nedgang i den alm.
+Sparekasserente. Denne Forsikring vil altsaa
+særlig egne sig for ældre Folk, som kun ejer en
+lille Kapital, hvis Renter er utilstrækkelige til
+Udkommet, og som ikke har i Sinde at
+efterlade nogen anden Kapitalen som Arv.
+Fremdeles kan den, som skal udrede en Aftægt ell.
+Pension, ved Indbetaling af en Sum Penge een
+Gang for alle befri sig for denne Byrde.
+Ophørende og opsatte Livrenter vil kunne
+anvendes henh. som Børneforsørgelse og som
+Alderdomsforsørgelse. Livrente kan ligeledes tegnes
+samtidig paa fl. Liv som <sp>Livrente paa
+længst Liv</sp>, hvor Renten udbetales, saa
+længe nogen af de Forsikrede er i Live.
+Livrente kan foruden i aarlige Terminer ogsaa
+udbetales i halvaarlige, fjerdingaarlige eller
+maanedlige Terminer; den kaldes <sp>forlænget</sp>,
+naar den sidste Gang udbetales i den nærmeste
+Termin efter den Forsørgedes Død,
+forkortet, naar den sidste Gang udbetales i den
+sidste Termin før Døden. En <sp>komplet</sp> Livrente
+forfalder sidste Gang til Udbetaling i
+Dødsøjeblikket med en Udbetaling, der staar i Forhold
+til den Tid, der er forløbet fra den sidste
+Termin. I Alm. tegnes Livrenter som forlængede,
+hvorved man sikrer sig en Udbetaling til
+Begravelseshjælp e. l. Til Livrenter hører
+endvidere <sp>Overlevelsesrenter</sp>, hvorved en
+Forsørger ved sin eventuelle Død før den
+Forsørgede kan sikre denne en Livrente. En
+Overlevelsesrente er billigere end den tilsvarende
+L.; men da de indskudte Penge er tabte ved
+den Forsørgedes Død før Forsørgeren, vil de
+fleste foretrække at ofre noget mere paa en L.
+ell. L. med Udbetaling.
+
+Alle de nævnte Former af L. vil foruden mod
+<sp>Indskud een Gang for alle</sp> kunne
+tegnes mod <sp>Præmier</sp> at erlægge enten paa
+Livstid ell. ophørende efter et bestemt Antal
+Aar, for saa vidt selve Forsikringsformen ikke
+umuliggør Præmiebetaling; en straks

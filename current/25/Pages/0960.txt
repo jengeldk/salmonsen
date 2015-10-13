@@ -1,0 +1,173 @@
+<i>Johs. F.</i>: Professor, Dr. med. J. Fibiger.
+<i>Johs. S.</i>: Professor, Dr. phil. Johs. Schmidt.
+<i>J. P.</i>: Professor, Dr. phil. Johs. Pedersen.
+<i>J. P. R.</i>: Docent, Museumsinspektør J. P. Ravn.
+<i>J. S.</i>: Byretsdommer Johs. Scharling.
+<i>J. Sch.</i>: Børskommissær J. Schovelin.
+<i>J. S. J.</i>: Læge J. W. S. Johnsson.
+<i>J. T.</i>: Direktør J. Tronier.
+<i>J. Th.</i>: Cand. polit. J. Thorborg.
+<i>J. W-H.</i>: Belysningsdirektør J. Windfeld-Hansen.
+<i>J. Ø.</i>: Professor, Dr. phil. J. Østrup.
+<i>K. A. B.</i>: Professor K. A. Bondorff.
+<i>K. A. J.</i>: Forsøgsleder K. A. Jørgensen.
+<i>K. A. K.</i>: Gymnastikinspektør K. A. Knudsen.
+<i>Karl M.</i>: Museumsdirektør K. Madsen.
+<i>K. B.</i>: Professor, Dr. jur. K. Berlin.
+<i>K. B-S.</i>: Mag. scient. K. Birket-Smith.
+<i>K. D-P.</i>: Direktør K. Dorph-Petersen.
+<i>K. E.</i>: Dr. phil. Knud Estrup.
+<i>K. F.</i>: Bibliotekar K. Fischer.
+<i>K. Fa.</i>: Professor K. Fabricius.
+<i>K. H.</i>: Rektor K. Hude.
+<i>K. Hch.</i>: Landsdommer K. Hammerich.
+<i>K. H. K.</i>: Dr. med. K. H. Krabbe.
+<i>K. H-n.</i>: Statskonsulent K. Hansen.
+<i>K. L. H.</i>: Mag. scient. K. L. Henriksen.
+<i>K. M.</i>: Professor Karl Meyer.
+<i>K. P.</i>: Professor K. Prytz.
+<i>Kr. B.</i>: Museumsinspektør K. Bahnson.
+<i>Kr. D.</i>: Redaktør Kr. Dahl.
+<i>Kr. E.</i>: Fhv. Rigsarkivar Kr. Erslev.
+<i>K. R-H.</i>: Direktør K. Riis-Hansen.
+<i>Kr. N.</i>: Professor Kr. Nyrop.
+<i>K. S.</i>: Professor, Dr. phil. K. Sandfeld.
+<i>K. S. K.</i>: Skoleinspektør K. S. Kristensen.
+<i>K. V.</i>: Professor K. Verner.
+<i>K. V. A.</i>: Kaptajn K. Vilh. Amundsen.
+<i>K. Wg.</i>: Professor K. Warburg (Stockholm).
+<i>K. V. H.</i>: Arkivar K. V. Hammer.
+<i>K. V.-P.</i>: Kontorchef K. Vedel-Petersen.
+<i>K. Ø.</i>: Dr. jur. K. Østberg.
+<i>L. A. G.</i>: Professor L. A. Grundtvig.
+<i>L. B.</i>: Ordenshistorograf, Lektor, Dr. phil. L. Bobé.
+<i>L. B-n.</i>: Docent, Cand. theol. L. Bergmann.
+<i>L. B-r.</i>: Direktør, Dr. med. vetr. L. Bahr.
+<i>L. F.</i>: Professor, Dr. med. L. Fridericia.
+<i>L. Fl.</i>: Læge Louis Frænkel.
+<i>L. Ha.</i>: Professor, Dr. phil. L. Hammerich.
+<i>L. I.</i>: Direktør, Dr. phil. L. Iversen.
+<i>L. K.</i>: L. Krabbe.
+<i>L. L.</i>: Rigsarkivar L. Laursen.
+<i>L. M.</i>: Udenrigsminister, Dr. phil. L. Moltesen.
+<i>Lp. M.</i>: Professor, Dr. med. Leopold Meyer.
+<i>L. S.</i>: Museumsinspektør Leo Swane.
+<i>Ludv. H.</i>: Dr. jur. L. Holberg.
+<i>M. A. J.</i>: Bibliotekar M. A. Jacobsen (Thorshavn).
+<i>M. C. E.</i>: Adjunkt M. C. Engell.
+<i>M. D.</i>: Museumsamanuensis, Cand. mag. Magnus Degerbøl.
+<i>M. D-d.</i>: Overdyrlæge M. Dalsgaard.
+<i>M. G.</i>: Kontorchef M. Gredsted.
+<i>M. H.</i>: Major M. Haffner.
+<i>M. H-n.</i>: Cand. mag. M. Hansen-Assingbæk.
+<i>M. K.</i>: Generaldirektør M. Koefoed.
+<i>M. K-J.</i>: Kaptajn M. Kofoed-Jensen.
+<i>M. Kr.</i>: Kommunelærer M. Krogsgaard.
+<i>M. L.</i>: Museumsinspektør M. Levinsen.
+<i>M. M.</i>: Museumsdirektør, Dr. phil. M. Mackeprang.
+<i>M. Ml.</i>: Lektor M. Møller (Aarhus).
+<i>M. M-r.</i>: Ingeniør, Cand. polyt. Max Møller.
+<i>M. R. M.</i>: Frk. Marie R. Mikkelsen.
+<i>M. S.</i>: Oberst M. Sand.
+<i>M. S-L</i>: Frk. Martha Sahl.
+<i>M. V.</i>: Professor, Dr. phil. M. Vahl.
+<i>N. C.</i>: Højesteretssagfører, Dr. jur. N. Cohn.
+<i>N. H.</i>: Dr. phil. N. Hartz.
+<i>N. H. J.</i>: Mag. scient. N. H. Jacobsen.
+<i>N. H. R.</i>: Cand. polyt. N. H. Rasmussen.
+<i>N. N.</i>: Finansminister N. Neergaard.
+<i>N. J. B.</i>: Kontorchef N. J. Baden.
+<i>N. S.</i>: Landbrugskandidat Niels Siggaard.
+<i>N. S.</i>: Kaptajn N. Sejersted (Norge).
+<i>N. S. K.</i>: N. S. Kristensen.
+<i>N. T.</i>: Dampmøller N. Troensegaard.
+<i>N. T. H.</i>: Konsulent N. T. Holm.
+<i>N. Th. Th.</i>: Cand. mag. N. Th. Thomsen.
+<i>N. W.</i>: Professor N. Wille (Norge).
+<i>N. V. U.</i>: Professor N. V. Ussing.
+<i>O. A. Ø.</i>: Forfatter O. A. Øverland (Norge).
+<i>O. B. B.</i>: Professor O. B. Bøggild.
+<i>O. C.</i>: Professor Odin Christensen.
+<i>O. D.</i>: Departementschef O. Damkier.
+<i>O. F.</i>: Oberst Friis.
+<i>O. Fr.</i>: Universitetslektor Oluf Friis.
+<i>O. H.</i>: Overlæge O. Helms.
+<i>O. H. L.</i>: Professor O. H. Larsen.
+<i>O. I.</i>: Kommandør O. Irminger.
+<i>O. Jsp.</i>: Professor, Dr. phil. O. Jespersen.
+<i>O. K.</i>: Cand. mag. O. Kayser.
+<i>O. K-P.</i>: Mag. art. Otto Koefoed-Petersen.
+<i>O. L.</i>: Fuldmægtig, Cand. jur. O. Lehmann.
+<i>O. M.</i>: Generalmajor O. Moltke.
+<i>O. M.</i>: Docent Olav Midttun.
+<i>O. P.</i>: Oberstløjtnant O. Pontoppidan.
+<i>O. R.</i>: Docent, Dr. phil. Otto E. Ravn.
+<i>O. S.</i>: Arkitekt O. Schmidth.
+<i>O. T.</i>: Professor, Dr. med. O. Thomsen.
+<i>O. Th.</i>: Mag. art. O. Thyregod.
+<i>O. v. F.</i>: Professor Otto v. Friesen (Uppsala).
+<i>O. Z.</i>: Rektor Otto Zahle.
+<i>P. A.:</i> Professor, Dr. jur. P. Andersen.
+<i>P. B.</i>: Slotsforvalter P. Brock.
+<i>P. B. G.</i>: Underarkivar P. B. Grandjean.
+<i>P. F.</i>: Handelsgartner Pauli Fløystrup.
+<i>P. F-s.</i>: Universitetsinspektør Povel Fønss.
+<i>P. H.</i>: Dr. med. P. Hertz.
+<i>P. H-s.</i>: Overretssagfører Poul Hennings.
+<i>P. J.</i>: Bibliotekar, Docent P. Johansen.
+<i>P. J. J.</i>: Professor P. J. Jørgensen.
+<i>P. K. T.</i>: Cand. mag. P. K. Thorsen.
+<i>P. L. M.</i>: Mag. art. P. L. Müller.
+<i>P. L-n.</i>: Dr. phil. P. Levin.
+<i>P. M.</i>: Dr. phil. P. Munch.
+<i>P. N.</i>: Generalmajor P. Nissen (Bergen).
+<i>P. Nw.</i>: Generalmajor P. Nieuwenhuis.
+<i>P. O. P.</i>: Professor P. O. Pedersen.
+<i>P. R.</i>: Redaktør, Mag. art. Palle Raunkjær.
+<i>P. S-n.</i>: Direktør Poul Sørensen.
+<i>P. T.</i>: Professor P. Thygesen.
+<i>P. T.</i>: Kontorchef, Telegrafbest. P. Tennfjord (Oslo).
+<i>P. V.</i>: Brandinspektør Poul Vinding.
+<i>P. W. M.</i>: Kaptajn P. W. Mørner.
+<i>P. Ø.</i>: Dr. phil. P. Østergren (Lund).
+<i>R. B.</i>: Kontorchef R. Berg.
+<i>R. E.</i>: Dr. phil. Richard Ege.
+<i>R. G.</i>: Højesteretsassessor R. Gram.
+<i>R. H.</i>: Oberstinde R. Holten.
+<i>R. H.</i>: Ingeniør R. Hempel.
+<i>R. Hg.</i>: Mag. scient. R. Hørring.
+<i>R. H. S.:</i> Docent R. H. Stamm.
+<i>R. J. J.</i>: Driftsingeniør R. J. Jensen.
+<i>R. K.</i>: Mag. scient. R. Koefoed.
+<i>R. M.</i>: Professor R. Meiborg.
+<i>R. N.</i>: Teaterhistoriker R. Neiiendam.
+<i>R. R.</i>: Kontorchef Rich. Rydberg.
+<i>R. Sp.</i>: Dr. phil. R. Spärck.
+<i>R. T.</i>: Ingeniør R. Theilgaard.
+<i>S. Aa.</i>: Cand. mag. Svend Aakjær.
+<i>S. A. P.</i>: Dr. phil. S. A. Pallis.
+<i>S. B.</i>: Professor, Overlæge S. Bang.
+<i>S. B. T.</i>: Professor S. B. Thrige.
+<i>S. Bz.</i>: Skoledirektør S. Bauditz.
+<i>S. C. B.</i>: Professor S. C. Borch.
+<i>S. C. H.</i>: S. C. Hammer (Oslo).
+<i>Sch. P.</i>: Oberstløjtnant K. Schat-Petersen.
+<i>S. F.</i>: Kaptajn Sv. Fleuron.
+<i>S. H.</i>: Politilæge S. Hansen.
+<i>S. H. F-G.</i>: Arkivar S. H. Finne-Grøn (Oslo).
+<i>S. L.</i>: Operarepetitør S. Levysohn.
+<i>S. M.</i>: Kunsthistoriker Sigurd Müller.
+<i>S. Ms.</i>: Cand. mag. S. Michaelis.
+<i>S. P.</i>: Dr. phil. S. Palitzsch.
+<i>S. R.</i>: Skolekøkkeninspektrice S. Rasmussen.
+<i>S. S.</i>: Dr. phil. S. Sørensen.
+<i>S. T.</i>: Professor S. Torup.
+<i>St. F.</i>: Stabsdyrlæge St. Friis.
+<i>St. R.</i>: Cand. mag. St. Rosznecki.
+<i>S. W.</i>: Magister Sigurd Willoch (Norge).
+<i>Sv. N.</i>: Sekretær, Cand. polit. Svend Nielsen.
+<i>S. W-r.</i>: Cand. polyt. Sven Werner.
+<i>T. B.</i>: Protokolsekretær T. Blanc (Norge).
+<i>Th. C. W.</i>: Ingeniør, Statskonsul. Th. Claudi Westh.
+<i>Th. J.</i>: Kommunelærer Thorkild Jensen.
+<i>Th. O.</i>: Fuldmægtig Th. Olsen.

@@ -1,0 +1,138 @@
+den indfaldende S., som ved den paagældende
+Temp. <i>T</i>° absorberes af Legemet; ogsaa
+Absorptionsevnen vil afhænge af Bølgelængden,
+og Absorptionsevnen for et uendelig lille
+Omraade med Bølgelængden λ skal betegnes med
+<i>a</i>; <i>a</i> afhænger baade af λ og af <i>T</i>. Et Legemes
+Absorptionsevne maa ikke forveksles med dets
+<sp>Absorptionskoefficient</sp>, der angiver,
+hvor hurtigt S. svækkes, naar den først er
+kommet ind i Legemet; blankt Sølv
+tilbagekaster næsten al den S., der rammer det, og
+har følgelig en meget lille Absorptionsevne, c.
+0,02; naar derimod S. er kommet ind i Sølvet,
+vil den meget hurtigt absorberes, idet kun
+ganske overordentlig tynde Sølvblade
+(Sølvfolier) er gennemskinnelige, og derfor er
+Absorptionskoefficienten meget stor, c. 1000000.
+— Man kalder de Legemer, der er særlig
+gennemskinnelige for Varmestraaler, for
+<sp>diatermane</sp>, medens de Legemer, der indsuger
+Varmestraalerne, kaldes <sp>adiatermane</sp>.
+Særlig stærkt diatermant er Svovlkulstof; Glas
+lader c. 70 % af alle de vinkelret indfaldende
+S. gaa igennem sig, men hovedsagelig den
+synlige Del af S., idet det næsten er
+uigennemtrængeligt for ultrarøde og ultraviolette
+Straaler; Vand er adiatermant. Let
+gennemtrængeligt for alle Bølgelængder er næppe noget Stof;
+som Regel har de gennemtrængelige Stoffer
+<sp>Absorptionsbaand</sp>, d. v. s. der er Dele
+af S., som ikke let gaar igennem; ligger et
+saadant Baand helt ell. delvis i det synlige
+Spektrum, vil Stoffet næsten altid vise sig
+farvet. Absorption af S. beror paa, at Energien i
+S. omdannes til Varme; derved forøges Temp.
+af det absorberede Legeme.
+
+Mellem de her definerede Størrelser er der
+den ved <sp>Kirchhoff's Lov</sp> (1860) givne
+Sammenhæng: For en given Bølgelængde og en
+given Temp. er Forholdet mellem
+Udstraalingerne <i>e</i> og Absorptionsevnen <i>a</i> ens for alle
+Legemer; <i>e</i>/<i>a</i> er konstant, idet Konstantens
+Talværdi afhænger af den betragtede Bølgelængde
+og af Temp., men er uafhængig af det særlig
+betragtede Legeme. — Antages <i>a</i> = 0 for en
+vis Bølgelængde, maa ogsaa <i>e</i> være 0. <i>a</i> kan
+imidlertid være 0 af to Aarsager: enten er
+Legemet fuldkommen gennemskinneligt, eller
+det er fuldkommen spejlende for den
+paagældende Bølgelængde. Kirchhoff's Lov lærer
+altsaa, at et Legeme ikke kan udstraale af de
+Bølgelængder, for hvilke det er fuldkommen
+gennemskinneligt eller fuldkommen spejlende,
+men kun af de Bølgelængder, det selv
+absorberer ved Bestraaling. — Kirchhoff's Lov er
+en nødvendig Følge af Varmeteorien; den kan
+illustreres ved mange simple Forsøg. Skrives
+med sort Blæk paa et Stykke Platinblik, og
+glødes det i en Flamme, vil Skriften lyse
+stærkere end det omgivende Metal; den sorte Skrift
+absorberer nemlig mere end det omgivende
+blanke Metal og maa derfor ogsaa udstraale
+mere. Opvarmes en Perle af f. Eks. fosforsurt
+Natron paa et Platintraadsøje i en Flamme,
+vil Perlen ikke gløde kendeligt, selv om
+Platintraaden lyser stærkt; Perlen er nemlig
+gennemsigtig, absorberer altsaa næsten ingen
+synlige Straaler og udstraaler da ogsaa kun lidt,
+medens omvendt Platintraaden er
+uigennemsigtig, forholdsvis stærkt absorberende og stærkt
+udstraalende for synligt Lys. Sorte Flader
+absorberer næsten al S. og udstraaler
+derfor ogsaa stærkt ved Opvarmning; blanke
+Flader tilbagekaster megen S., kan følgelig ikke
+absorbere meget og heller ikke udstraale
+meget; matte Flader har baade større
+Absorptionsevne og større Udstraalingsevne; hvide
+Flader tilbagekaster den synlige S. stærkt og
+absorberer kun lidt Energi ved disse
+Bølgelængder.
+
+For at finde selve <sp>Udstraalingsloven</sp>,
+d. v. s. den Lov, hvorefter S. fordeler sig over
+de forsk. Bølgelængder, og efter hvilken den
+udstraalede Energi afhænger af Straalegiverens
+Temp., er der anstillet mangfoldige Forsøg. I
+Beg. af 19. Aarh. gjorde <sp>Leslie</sp> ved Hjælp af
+Differentialtermometeret gode Forsøg over
+mange Legemers Evne til at udstraale, indsuge og
+tilbagekaste Varmestraaler. Han benyttede
+hertil en hul Metalterning, der var fyldt med
+kogende Vand, og hvis Sider kunde gives forsk.
+Udstraalingsevne ved at poleres, sværtes o. s. v.
+<sp>Melloni</sp>'s Arbejder, der begyndte 1831 med
+Termostøtten som Straalemaaler, gav som
+Hovedresultat, at Lysstraalerne kun danner et
+Afsnit af det hele Varmespektrum, at der altsaa
+mellem Lysstraaler og mørke Varmestraaler
+ikke er nogen Artsforskel. Skønt disse Forsøg
+bragte mange værdifulde Oplysninger om
+Udstraalingsforhold, gav de ikke Midler til at
+finde selve <sp>Udstraalingsloven</sp>. En
+første Beg. til Opdagelsen af denne Lov gjorde
+<sp>J. W. Draper</sp> (1847), der fandt, at alle
+Legemer begynder at gløde ved 525°, og at det
+Lys, de ved denne Temp. udsender, kun
+indeholder det lyse Spektrums længste Bølger. Ved
+stigende Temp. kom der stedse kortere Bølger
+til, saa Spektret ved 800° kunde ses til
+Spektrallinien <i>G</i> (se <sp>Glødning</sp>).
+
+1879 opstillede <sp>Stefan</sp> den Lov, at et
+Legemes Udstraaling er proportional med fjerde
+Potens af dets absolutte Temperatur, men
+nærmere Undersøgelser af <sp>L. Boltzmann</sp>
+har vist, at dette kun er rigtigt for et
+<sp>absolut sort Legeme</sp>. Derved
+forstaas et Legeme, der absorberer al den S., der
+rammer det; for et absolut sort Legeme er
+Absorptionsvnen <i>a</i> altsaa 1 for enhver
+Bølgelængde og ved enhver Temp.; intet Legeme kan
+absorbere mere end et absolut sort Legeme, og
+i Henhold til Kirchhoff's Lov kan derfor heller
+intet Legeme ved nogen som helst Temp. ell.
+for nogen som helst Bølgelængde udstraale
+mere end det absolut sorte Legeme. <sp>C.
+Christiansen</sp> viste nu (1884), at man kunde faa
+et praktisk set absolut sort Legeme ved at
+sværte en hul Beholder indvendig og kun
+forsyne den med en lille Aabning. En Straale, der
+sendes ind i Beholderen, vil kastes tilbage
+gentagne Gange derinde, idet der dog hver Gang
+kun tilbagekastes en ringe Brøkdel p. Gr. a.
+Sværtningens store Absorptionsevne; tilmed er
+Hullet i Beholderen lille, saa Straalens Chance
+for at finde ud igen er kun yderst lille, og en
+S., der rammer Hullet, vil derfor absorberes

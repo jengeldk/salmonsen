@@ -1,0 +1,132 @@
+praktisk talt fuldkommen. Hvis Beholderen
+holdes ved en ensartet Temp., vil den S., der
+trænger ud gennem Hullet, netop være S. fra
+et absolut sort Legeme. Teoretiske
+Undersøgelser har senere vist, at ganske den samme S.
+maa faas fra ethvert Hulrum, uanset dettes
+Form og Begrænsningens Materiale, idet S. ene
+og alene er bestemt ved Hulrummets Temp.
+Ud af et lille Hul i Væggen af et Hulrum vil
+der komme en S., der er desto nærmere ved
+S. fra det absolut sorte Legeme, jo mindre
+Hullet forstyrrer Hulrummets Ensartethed, d. v. s.
+jo mindre Hullet er. Denne S. kaldtes tidligere
+<sp>den sorte S.</sp>, men benævnes nu oftest
+<sp>Hulrumsstraaling</sp> eller
+<sp>Temperaturstraaling</sp>.
+
+Ved Hjælp af absolut sorte Legemer
+konstruerede efter dette Princip har man optaget
+Kurver for Hulrumsstraaling ved forsk. Temp.
+I Fig. er vist saadanne Kurver svarende til
+fire forsk. absolutte Temp.; som Abscisse er
+afsat Bølgelængden, maalt μ (1 μ = 1/1000 mm);
+den synlige Del af S. ligger som nævnt mellem
+0,4 og 0,7 μ; som Ordinat er afsat den
+udstraalede Energi svarende til de forsk.
+Bølgelængder. Til Energimaalingen anvendes Bolometret
+ell. Termosøjlen. En stor Vanskelighed ved
+Maalingerne er det, at de Linser ell. Prismer,
+som S. maa passere for at spredes over de
+forsk. Bølgelængder, ikke maa absorbere i det
+betragtede Bølgelængdeomraade; der benyttes
+oftest Linser og Prismer af Flusspat. For denne
+Hulrumsstraaling gælder nu flere Love.
+
+<sp>Stefan's Lov</sp> (1879) udsiger, at den
+samlede Udstraaling fra et absolut sort Legeme er
+proportional med 4. Potens af Legemets
+absolutte Temp. <sp>L. Boltzmann</sp> udledede Loven
+teoretisk (1884) og viste, at den kun gælder for
+det absolut sorte Legeme og ikke er almengyldig.
+Loven er eksperimentelt prøvet af <sp>Lummer</sp>
+og <sp>Pringsheim</sp> (1897—1900) og af
+<sp>Kurlbaum</sp> inden for et Temperaturomraade paa
+c. 2500°, og Loven har derigennem vist sig
+rigtig. Efter Kurlbaum's Maalinger i 1898 har
+Konstanten i Stefan's Lov en saadan Værdi, at der
+udstraales 1,28 . 10<sup>-12</sup>. <i>T</i><sup>4</sup> Gramkalorier fra 1
+cm<sup>2</sup> i Sek. Befinder et absolut sort Legeme med
+den absolutte Temp. <i>T</i><sub>1</sub> sig iblandt Omgivelser,
+der ogsaa kan regnes for absolut sorte, og som
+har Temp. <i>T</i><sub>2</sub>, vil Legemet baade udstraale til
+disse Omgivelser og modtage Energi fra dem
+ved S., saaledes at den resulterende
+Udstraaling pr. cm<sup>2</sup> pr. Sek. bliver <i>s</i>{<i>T</i><sub>1</sub><sup>4</sup>— <i>T</i><sub>2</sub><sup>4</sup>)
+Gramkalorier, hvor <i>s</i> er den nævnte Talkonstant. Er
+specielt <i>T</i><sub>1</sub> og <i>T</i><sub>2</sub> omtr. lige store, faas med
+Tilnærmelse Udstraalingen lig <i>s</i> . <i>T</i><sub>1</sub><sup>3</sup>. (<i>T</i><sub>1</sub>—<i>T</i><sub>2</sub>)
+Gramkalorier; dette er <sp>Newton's
+Udstraalingslov</sp>, hvorefter den samlede Udstraaling er
+proportional med Temperaturforskellen mellem
+Legemet og Omgivelserne.
+
+<sp>Wien's Forskydningslov</sp> (Willy Wien,
+1893) giver Oplysning om, hvorledes den
+Bølgelængde λ<sub><i>m</i></sub>, ved hvilken der ved en given Temp.
+<i>T</i> udstraales mest Energi, varierer med Temp.;
+Loven siger, at λ<sub><i>m</i></sub> . <i>T</i> = 2940, naar λ<sub><i>m</i></sub>
+maales i Enheden μ. Jo større Temp. er, desto
+mere vil Maksimet altsaa rykke ud mod de
+kortere Bølgelængder. Denne Forskydning ses
+klart af Kurverne, og den er forøvrigt
+velkendt fra Forholdet ved glødende Legemer.
+Alle Legemer begynder at gløde ved godt
+500° C; ved 700° C er Legemet endnu
+mørkerødt, men med voksende Temp. udsendes
+forholdsvis mere Energi ved de korte Bølger, saa
+Lyset fra Legemet ved 1100° C er orange og
+ved 1500° C blændende hvidt. Selv ved
+hvidglødende Legemer vil Straalingsmaksimet i
+Almindelighed ligge i den ultrarøde Del af
+Spektret; for at det skal ligge i det alleryderste
+røde, λ<sub><i>m</i></sub> = 0,8 μ, kræves en saa høj Temp.
+som 3600° abs. For Solens S. ligger Maksimet
+ved 0,6 μ, altsaa midt i den synlige Del af
+Spektret; hvis Solen udstraaler som et absolut
+sort Legeme, maa dens Temp. derfor være c.
+5000° abs., ell. rettere over 5000° abs., da der
+jo finder en ikke ubetydelig Absorption Sted i
+Atmosfæren.
+
+Af Stefan's Lov og Forskydningsloven i
+Forening følger, at Maksknalværdien af <i>e</i> ved en
+vis Temp., altsaa den Energimængde, der
+udstraales ved Bølgelængden λ<sub>m</sub>, er
+proportional med 5. Potens af den absolutte Temp.
+
+Der er gjort flere Forsøg paa at finde den
+mat. Sammenhæng mellem de for S.
+betydningsfulde Størrelser, nemlig <i>e</i>, λ og <i>T</i>, ud fra de
+Forestillinger, som de elektrodynamiske og
+termodynamiske Love giver om S. fra
+Elektronerne i Legemernes Atomer; men det har ikke
+kunnet ladet sig gøre at finde en Lov, der for
+hele det undersøgte Bølgelængdeomraade
+stemmer med Forsøgene. 1896 udledede <sp>Wien</sp> ad
+teoretisk Vej en Straalingsformel, men den
+gælder kun for de korte Bølger ell. for lave Temp.;
+og ud fra en anden Betragtningsmaade
+opstillede <sp>Rayleigh</sp> 1900 en Straalingsformel, der
+imidlertid kun gælder for de lange Bølger ell.
+for høje Temp. En Straalingsformel, der
+gælder for alle Bølgelængder og alle Temp. er 1900
+givet af <sp>M. Planck</sp> gennem Antagelsen af,
+at Energi kun kan udstraales ell. indsuges i
+hele Antal Smaaportioner, Energikvanta, hvis
+Størrelse er bestemt ved <i>h . v</i>; her er <i>h</i> en
+Universalkonstant (<i>h</i> = 6,548 . 10<sup>÷27</sup> Erg . sek)
+og <i>v</i> Svingningstallet for den paagældende S.
+Hele denne Teori danner et fuldkomment Brud
+med de klassiske Anskuelser, men den har
+fundet rig Anvendelse paa mange forskellige
+Omraader af Fysikken (se <sp>Kvanteteori</sp>).
+<sp>Planck's Udstraalingslov</sp> lyder:
+
+<i>e</i> = 2 π h . <i>c</i>2 / λ<sup>5</sup> . 1/<i>c h</i>/<sub><i>e</i></sub><i>k</i> λ <i>T</i><sub>—1</sub>
+her betegner <i>c</i> Lysets Hastighed 3 . 10<sup>10</sup> cm pr.
+Sek., <i>k</i> er en Konstant 1,372 . 10<sup>—16</sup> Erg/Grad, og
+<i>e</i> er Grundtallet for de naturlige Logaritmer.
+Planck's Straalingsformel indeholder baade
+Wien's og Rayleigh's Formler som
+Specialtilfælde.

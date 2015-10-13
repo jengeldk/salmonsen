@@ -1,0 +1,137 @@
+i 4 Underafdelinger. Sammen med den følgende
+Klasse <i>N</i> er disse to Klasser identiske med
+Secchi's Type IV.
+
+Klassen <i>N</i> har Absorptionsbaand af Kuloxyd
+og Cyan. Den deles i Underafdelingerne <i>N<sub>a</sub></i>,
+<i>N<sub>b</sub></i> og <i>N<sub>c</sub></i>, alt efter den relative Intensitet af de
+to Dele af det kontinuerte Spektrum, som er
+skilt ved det Kulstofbaand, der først viser sig
+i Klassen <i>R</i>. I <i>N<sub>a</sub></i> er Intensiteten af det blaa
+0.7. i <i>N<sub>b</sub></i>, 0.5 af det røde, medens i <i>N<sub>c</sub></i> det
+violette er saa godt som usynligt.
+
+Klassen <i>S</i> omfatter ganske faa røde Stjerner.
+Det mest fremtrædende i Spektret er Partiet
+fra <i>H<sub>β</sub></i> til <i>H<sub>γ</sub></i>, men det er af kompliceret
+Natur med mørke og lyse Baand; efter Merrill
+hidrører Baandene fra Zirkoniumoxyd. Baand
+af Titanoxyd optræder i Spektret, men ikke
+saa stærkt som i Klassen <i>M</i>. Strontium og
+ioniseret Barium giver stærke
+Absorptionslinier; ioniseret Jern giver lyse Linier. Forsk.
+variable Stjerner, som <i>R Andromedæ</i>, tilhører
+denne Klasse. Det mest karakteristiske ved
+Spektret er Partiet λ 4630—4660, som har
+baade Absorptions- og Emissionslinier samt et
+Absorptionsbaand i det røde omkr. λ 6470.
+
+Miss Maury's, 22 Grupper, i hvilke alt efter
+Liniernes Udseende der er dannet
+Underafdelinger <i>a, b</i> og <i>c</i> med deres Kombinationer i alt
+154, er lidet oversigtig og har kun historisk
+Interesse. Men det værdifulde ved dette
+Arbejde er Beskrivelsen over Bredden og Udseendet
+af Spektrallinierne hos talrige Stjerner.
+
+Harvard-Klasserne er af rent empirisk Art,
+idet man, som Tilfældet var med Secchi's og
+Vogel's Klassifikation, ikke engang forudsatte
+Kendskab til de kemiske Elementer, som
+Linierne tilhører, heller ikke til de Betingelser,
+under hvilke Linierne kan optræde. Den er en
+Temperaturskala, idet de forsk. Spektraltyper
+hidrører fra en Forskel i Temperaturen.
+Saaledes har senere Undersøgelser, specielt af
+Wilsing, vist, at Typen <i>B<sub>0</sub></i> har Temp. 18300°,
+<i>A<sub>0</sub></i> 11000°, <i>F<sub>0</sub></i> 7700°, <i>G<sub>0</sub></i> 5900°, <i>K<sub>0</sub></i> 4600°, <i>M<sub>a</sub></i>
+3800°, <i>M<sub>b</sub></i> 3400°. Men denne Skala viser
+synkende Temp., de hedeste Stjerner skulde efter
+dette være de først dannede, saa at ved stadig
+Afkøling Stjernerne efterhaanden blev gule og
+til sidst røde, inden de ganske slukkede. Men
+man maatte med samme Ret kunne tale om, at
+de røde Stjerner var de yngste, de hvide de
+ældste. Paa denne Vis fik man kun den ene
+Gren af Stjernens Udvikling, enten den
+opadstigende ell. nedadstigende.
+
+Norman Lockyer var tidlig opmærksom paa i
+denne ensidige Ordning og gik derfor ud fra,
+at Stjernen opstod af en planetarisk Taage,
+som han ansaa for en stor Meteorsky. Ved
+stadige Sammenstød af Meteorerne i Skyen
+begynder denne at lyse, Temperaturen at stige, i
+til Skyen er helt forvandlet til en Gaskugle. Den
+saaledes opstaaede Stjerne har altsaa opr. lav
+Temp. og liden Tæthed. Lockyer satte
+<i>M</i>-Stjernerne i Beg. af sin Klasseinddeling, fordi han
+antog, at de lyse Linier i Mira Ceti-Typen var
+et Tegn paa, at disse Stjerner var i et tidligt
+Stadium af Kondensation. Er nu Meteorskyen
+helt igennem overført til en Gaskugle, vil den
+som Følge af den stadige Udstraaling trække
+sig sammen. Tætheden vil vokse, og er nu
+denne blevet saa stor, at Gaskuglen ophører at
+være en ideal Gas, vil Temp. ved videre
+Sammentrækning ikke mere stige; ved yderligere
+Stigning af Tætheden vil Temp. synke, til
+Tætheden har naaet sit Maksimum, Temp. sit
+Minimum. Hver Stjerne skulde saaledes to Gange
+i sin Livshistorie have den samme Temp., den
+ene Gang under stigende Temp. med liden
+Tæthed, den anden Gang under synkende Temp.,
+men med stor Tæthed. Efter denne Lockyer's
+Skala skulde t. Eks. Antares og Aldebaran
+høre til den opstigende Gren med voksende
+Temp. og liden Tæthed, medens Sirius og
+Procyon skulde have deres Plads i den nedstigende
+Gren med aftagende Temp. og voksende
+Tæthed. Udviklingsprocessen skulde følgelig efter
+Lockyer være en Funktion af to fysikalsk af
+hinanden uafhængige Variable, nemlig Temp.
+og Tæthed —, der forudsattes, at Massen
+forblev uforandret under den hele Proces — efter
+Harvard-Systemet ligesom efter de tidligere var
+Temp. den eneste Variable. Kriteriet for Temp.
+og for, hvilken Gren i Udviklingen Stjernen
+tilhørte, søgte Lockyer at skaffe til Veje ved meget
+indgaaende Laboratoriumeksperimenter, idet
+han fandt, at Spektret varierede i Antallet af
+Linier, alt efter som man fordampede et
+Præparat i en Gas- ell. Vandstofflamme, i den
+elektriske Lysbue ell. i den elektriske Funke.
+Forstærkedes Funkeudladningen ved Benyttelse af
+kraftigere Apparater, fik man Funkespektrum af
+højere Orden. Disse Ændringer havde man
+tidligere tilskrevet en forandret Temp. under
+Fordampningen, idet Buen havde en højere Temp.
+end Flammen, Funken en højere Temp. end
+Buen. Lockyer lagde nu Hovedvægten paa de
+Linier, som undergik de største Forandringer,
+og for de fleste Elementer opsøgte han
+Funkelinierne. Den Del af et Element, som gav disse,
+kaldte han for »Protoelement«, nu anses dette
+for et »ioniseret« Atom ɔ: et Atom, som har
+mistet et ell. fl. Elektroner, og som har en
+positiv elektrisk Ladning. Ved at sammenligne
+Stjernespektra med, hvad Elementerne gav
+under de forsk. Forhold, disse blev prøvet,
+bestemte Lockyer Stjernens Spektralklasse ɔ: dens
+Plads i Temperaturskalaen. Nu giver Lockyer's
+Klassificering, som udelukkende var bestemt af
+Laboratorieforsøg, den samme Rækkefølge i
+Stjernetyperne, som Harvard-Skalaen
+forlanger. Men for at kunne afgøre, om denne
+saaledes fundne Spektraltype tilhørte den opad-
+ell. nedadstigende Gren, sammenligner Lockyer
+hos Stjerner af samme Temp. — ɔ: samme Type
+— den relative Intensitet af Brint- og
+Protometallinierne, idet Stjerner med voksende
+Temp. adskiller sig fra de af samme Type, men
+med aftagende Temp. i deri, at Brintlinierne
+er smallere, medens Piiotometallinierne er
+bredere og har større Intensitet. Saaledes har
+Polaris smallere Brintlinier og stærkere
+Protometallinier end Procyon, som har samme
+Plads i Temperaturskalaen. Den første tilhørte

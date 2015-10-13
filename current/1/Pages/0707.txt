@@ -1,0 +1,63 @@
+<img>AMSTERDAM</img>
+
+<table>
+<td r>1.<td><i>Akad. f. bild. Kunst</i><td r>E 5
+<td r>2.<td><i>Begijnen Hof</i><td r>C 3
+<td r>3.<td><i>Burger Weeshuis</i><td r>C 3
+<td r>4.<td><i>Diaconie Weeshuis</i><td r>D 3
+<td r>5.<td><i>Diamantslijp</i><td r>D 3, F 3
+<td r>6.<td><i>Huiszittenhuis</i><td r>B 2
+<td 3>
+<td 3 c><i>Kirker:</i>
+<td 3 c><i>Protestantiske.</i>
+<td r>7.<td><i>Amstel K.</i><td r>D 4
+<td r>8.<td><i>Eilands K.</i><td r>A 1
+<td r>9.<td><i>Nieuwe Zijds K.</i><td r>C 3
+<td r>10.<td><i>Noorder K.</i><td r>B 1
+<td r>11.<td><i>Ooster K.</i><td r>F 1
+<td r>12.<td><i>Wester K.</i><td r>B 2, B 3
+<td r>13.<td><i>Zuider K.</i><td r>D 2
+<td r>14.<td><i>Wallonsk K. (oude)</i><td r>D 2
+<td r>15.<td><i>— (nieuwe)</i><td r>D 4
+<td r>16.<td><i>Engl. episkop. K.</i><td r>D 3
+<td r>17.<td><i>Engl. presbyt. K.</i><td r>C 3
+<td r>18.<td><i>Ev. Luth. K. (oude)</i><td r>C 3
+<td r>19.<td><i>— (nieuwe)</i><td r>D 1
+<td r>20.<td><i>Herstel Ev. Luth. K.</i><td r>D 2
+<td r>21.<td><i>Remonstr. K.</i><td r>B 2
+<td r>
+<td 3 c><i>Katolske.</i>
+<td r>22.<td><i>St. Antonius v. Padua</i><td r>D 2
+<td r>23.<td><i>St. Augustinus</i><td r>D 2
+<td r>24.<td><i>St. Catharina</i><td r>C 3
+<td r>25.<td><i>St. Franciscus v. Assisi</i><td r>C 3
+<td r>26.<td><i>— Xaverias</i><td r>C 3
+<td r>27.<td><i>St. Ignatius</i><td r>B 1
+<td r>28.<td><i>St. Joseph</i><td r>C 3
+<td r>29.<td><i>St. Nicolaus</i><td r>C 1
+<td r>30.<td><i>Onze Lieve Vrouwe</i><td r>B 3
+<td r>31.<td><i>St. Petrus en Paulus</i><td r>C 3
+<td r>32.<td><i>St. Thom. en Aquin</i><td r>B 2
+<td r>33.<td><i>St. Willebrordus</i><td r>D 4
+<td r>34.<td><i>Jansenist K.</i><td r>B 1, D 2
+<td r>35.<td><i>Armenisk K.</i><td r>D 2
+<td r>36.<td><i>Græsk K.</i><td r>C 2
+<td 3>
+<td r>37.<td><i>Kweekschool v. d. Zeewaart</i><td r>E 1
+<td r>38.<td><i>Lees Museum</i><td r>C 3
+<td r>39.<td><i>Luth. Weeshuis</i><td r>E 3
+<td r>40.<td><i>Montalbaanstaarn</i><td r>D 2
+<td r>41.<td><i>Maatschappij tot nut van't algemeen</i><td r>D 2
+<td r>42.<td><i>Oudheidkundig Genootschap</i><td r>C 2
+<td r>43.<td><i>Polizie</i><td r>C 2, D 2
+<td r>44.<td><i>Rijks Arsenal</i><td r>D, E 2
+<td r>45.<td><i>— Entrepôt</i><td r>E 2
+<td r>46.<td><i>— Museum</i><td r>C 5
+<td r>47.<td><i>Schrijers Taarn</i><td r>D 1
+<td r>48.<td><i>St. Anthoniewaag</i><td r>D 2
+<td r>49.<td><i>Synagoge (Portug.)</i><td r>E 2
+<td r>50.<td><i>— (Hoogduitsche)</i><td r>E 3
+<td r>51.<td><i>Universitetet</i><td r>D 3
+<td r>52.<td><i>Vischmarkt</i><td r>D 2
+<td r>53.<td><i>Zeemanshopp</i><td r>C 2
+</table>

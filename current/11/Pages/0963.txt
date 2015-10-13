@@ -1,0 +1,70 @@
+<chapter name="RETTELSER OG TILFØJELSER">
+<h1><sp>RETTELSER OG TILFØJELSER</sp></h1>.
+De i hvert Bind opførte Rettelser og Trykfejl vil blive samlede for hvert femte Bind.
+
+<table>
+<td 7 c><sp>BIND I</sp>.
+<td>Side<td>468,<td>Spalte<td>2,<td>Linie<td r>6 f. o.<td>1861 læs: 1866
+<td c>—<td>768,<td c>—<td>2,<td c>—<td r>6 f. n.<td><sp>Irederemi</sp> læs: <sp>Irideremi</sp>
+</table>
+
+<table>
+<td 7 c><sp>BIND II</sp>.
+<td>Side<td>934,<td>Spalte<td>2,<td>Linie<td>9 f. n.<td>Knoblaugh læs: Knoblauch
+</table>
+
+<table>
+<td 7 c><sp>BIND III</sp>.
+<td>Side<td>584,<td>Spalte<td>1,<td>Linie<td r>32 f. o.<td>umuligt læs: muligt
+<td c>—<td>787,<td c>—<td>2,<td c>—<td r>9 f. n.<td><sp>Boykott</sp> læs: <sp>Boycott</sp>
+</table>
+
+<table>
+<td 7 c><sp>BIND IV</sp>.
+<td>Side<td>279,<td>Spalte<td>2,<td>Linie<td>1 f. n.<td>Roseberry læs: Rosebery
+</table>
+
+<table>
+<td 7 c><sp>BIND V</sp>.
+<td>Side<td>808,<td>Spalte<td>2,<td>Linie<td>5 f. n.<td><sp>Pagst</sp> læs: <sp>Paget</sp>
+</table>
+
+<table>
+<td 7 c><sp>BIND VI</sp>.
+<td>Side<td>77,<td>Spalte<td>2,<td>Linie<td>11 f. n.<td>Portchartrain læs: Pontchartrain
+</table>
+
+<table>
+<td 7 c><sp>BIND VII</sp>.
+<td>Side<td>113,<td>Spalte<td>2,<td>Linie<td r>34 f. n.<td>Roebuck læs: Roebuck
+<td c>—<td>450,<td c>—<td>1,<td c>—<td r>9 f. n.<td><sp>Potrowskianum</sp> læs: <sp>Perowskianum</sp>
+<td c>—<td>599,<td c>—<td>1,<td c>—<td r>29 f. o.<td>1882 læs: 1822
+<td c>—<td>866,<td c>—<td>2,<td c>—<td r>4 f. o.<td>»til« udgaar
+<td c>—<td>866,<td c>—<td>2,<td c>—<td r>29 f. o.<td>nedenn. læs: ovenn. Præst
+</table>
+
+<table>
+<td 7 c><sp>BIND VIII</sp>.
+<td>Side<td 6>348—49 Tavlen »Folkebiblioteker« Atalanta læs: Atlanta
+<td c>—<td>808,<td>Spalte<td>1,<td>Linie<td r>33 f. n.<td>Hohenburg læs: Hohenberg
+<td c>—<td>875,<td c>—<td>1,<td c>—<td r>11 f. n.<td>1860 læs: 1850
+</table>
+
+<table>
+<td 7 c><sp>BIND X</sp>.
+<td>Side<td>846,<td>Spalte<td>2,<td>Linie<td r>13 f. o.<td>Kundskabsakademiet læs: Kunstakademiet
+<td c>—<td>863,<td c>—<td>2,<td c>—<td r>3 f. n.<td>Karl Johans Teater læs: Karl Johan-Teatret
+<td c>—<td>864,<td c>—<td>2,<td c>—<td r>3 f. o.<td>Bohr's læs: Bahr's
+<td 7>Paa Tavle III til »Gravmæle« skal Underskrifterne Rubjerg og Skjødstrup ombyttes.
+</table>
+
+<table>
+<td 7 c><sp>BIND XI</sp>.
+<td>Side<td r>79,<td>Spalte<td>1,<td>Linie<td r>18 f. n.<td>Budgewaler læs: Bridgewater
+<td c>—<td r>79,<td c>—<td>2,<td c>—<td r>1 f. o.<td><sp>Saintbury</sp> læs: <sp>Saintsbury</sp>
+<td c>—<td r>170,<td c>—<td>1,<td c>—<td r>13 f. o.<td><i>infections</i> læs: <i>infectious</i>
+<td c>—<td r>170,<td c>—<td>1,<td c>—<td r>16 f. o.<td><i>Infections</i> læs: <i>Infectious</i>
+<td c>—<td r>172,<td c>—<td>2,<td c>—<td r>13 f. o.<td>Steenbeck læs: Steenbeek
+<td c>—<td r>173,<td c>—<td>1,<td c>—<td r>27 f. o.<td>Klytaimnestra læs: Klytaimestra
+</table>
+</chapter>

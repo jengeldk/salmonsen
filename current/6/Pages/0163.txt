@@ -1,0 +1,138 @@
+Række Tal, hvori Differensen mellem to paa
+hinanden flg. overalt er den samme. Betegnes
+i en D. med <i>n</i> Led det første ved <i>a</i> og
+Differensen ved <i>d</i>, bliver Leddene <i>a</i>, <i>a</i>+<i>d</i>, <i>a</i>+2<i>d</i>,
+<table>
+<td v2>. . . . a+(<i>n</i>-1)<i>d</i>, og deres Sum vil være = <td c><i>n</i>
+<td c>2
+</table>
+(<i>a</i>+<i>an</i>), hvor <i>a<sub>n</sub></i> betegner det sidste Led. Har
+man i ren Alm. en Række Tal og danner
+Differenserne mellem paa hinanden flg.,
+Differenserne af 1. Orden, dernæst igen disses
+Differenser, Differenserne af 2. Orden, og saaledes
+videre, og det viser sig, at Differenserne af <i>r</i>'te
+Orden bliver lige store, siges de forelagte Tal
+at danne en D. af <i>r</i>'te <sp>Orden</sp>.
+<i>Chr. C.</i></chapter>
+
+<chapter name=”Differenstalje”>
+<b>Differenstalje</b> (-<sp>trisse</sp>), ogsaa kaldet
+<sp>Patenttalje</sp> ell. <sp>Westons Talje</sp>, bestaar
+af en Blok med 2 ulige store Skiver (Trisser)
+foroven og en enkeltskivet Blok forneden.
+Skiverne udføres i Alm. af Jern ell. Staal og forsynes
+med smaa Tappe i Omkredsen. Løberen er en
+Kæde uden Ende, hvis Led passer ind over
+Tappene, saaledes at den forhindres i at glide
+over Skiverne (se Fig.). Hales der saa meget i
+Løberen med Kraften <i>K</i>, at Blokken foroven
+gør 1 Omdrejning, opvikles der paa den store
+Skive en Kædelængde svarende til Skivens
+Omkreds, samtidig med, at der af den lille Skive
+afvikles en Kædelængde svarende til denne
+Skives Omkreds. Kæden, som bærer Byrden, er
+derved forkortet et Stykke lig Forskellen
+mellem Omkredsen af den store og den lille Skive,
+og Byrden er løftet det halve af dette Stykke.
+Da den tilførte Energi skal være lig det
+udførte Arbejde, kan man opstille flg. Ligning:
+<table>
+<td v2><i>K</i> ­• 2 π <i>R</i> = <i>B</i> • <td c>2 π <i>R</i>-2 π <i>r</i><td v2>, hvor <i>B</i> er
+<td c>2
+</table>
+Vægten, der skal løftes, <i>R</i> og <i>r</i> Radierne i
+henholdsvis den store og lille Skive. Heraf faas
+<table>
+<td v2>Kraften <i>K</i> = <i>B</i> • <td c><i>R</i>-<i>r</i><td v2>.
+<td c>2<i>R</i>
+</table>
+
+Jo større Kraftvinding der ønskes (jo mindre
+Kraft man vil anvende), desto større maa altsaa
+<i>R</i> være og desto mindre Forskellen mellem
+<i>R</i> og <i>r</i>. D. bruges meget i Fabrikker til
+Løftning af svære Vægte.
+<i>H. P. C.</i>
+
+<img>
+Differenstalje.</img></chapter>
+
+<chapter name=”different”>
+<b>different</b> (lat.), forskellig, ulig.</chapter>
+
+<chapter name=”Differential”>
+<b>Differential</b> (mat.), se
+<sp>Differentialregning</sp>.</chapter>
+
+<chapter name=”Differentialanemometer, Differentialbarometer, Differentialtermometer”>
+<b>Differentialanemometer,
+Differentialbarometer, Differentialtermometer,</b>
+Instrumenter til at maale Forskelle henh. i
+Vindstyrken, Lufttrykket og Temperaturen.
+<i>D. la C.</i></chapter>
+
+<chapter name=”Differentialbremse”>
+<b>Differentialbremse,</b> se <sp>Bremse</sp>.</chapter>
+
+<chapter name=”Differentialdiagnose”>
+<b>Differentialdiagnose,</b> d. s. s.
+<sp>differentiél Diagnostik</sp>, se <sp>Diagnose</sp>.</chapter>
+
+<chapter name=”Differentialgalvanometer”>
+<b>Differentialgalvanometer,</b> se
+<sp>Galvanometer</sp>.</chapter>
+
+<chapter name=”Differentialkvotient”>
+<b>Differentialkvotient,</b> se
+<sp>Differentialregning</sp>.</chapter>
+
+<chapter name=”Differentialligning”>
+<b>Differentialligning</b> (mat.) er en Ligning
+mellem nogle uafhængige variable, Funktioner
+af disse Variable samt Differentialkvotienter af
+Funktionerne. Indgaar der mere end 1
+uafhængig Variabel og altsaa partielle
+Differentialkvotienter af Funktionerne, kaldes D. partiel.
+Bestemmelsen af Funktionerne saaledes, at et
+System af D. bliver identisk tilfredsstillet,
+kaldes Integration af D. (se
+<sp>Integralregning</sp>). Da mangfoldige Problemer i Geometri
+og mat. Fysik kræver
+Infinitesimalbetragtninger og altsaa leder til D., er Læren om disses
+Behandling a£ den allerstørste Bet.
+<i>Chr. C.</i></chapter>
+
+<chapter name=”Differentialobservationer”>
+<b>Differentialobservationer</b> benævnes de
+Observationer, man udfører for at bestemme en
+ukendt Stjernes Position i Forhold til en kendt
+Stjerne, der staar i Nærheden. Man benytter
+hertil Mikrometer og finder enten Differencen
+mellem de to Himmellegemers Rektascension og
+Deklination ell. den gensidige Vinkelafstand
+(Distance) og Positionsvinkel.
+Dobbeltstjerneobservationer er næsten udelukkende D., og
+Bestemmelsen af Kometers og smaa Planeters
+Beliggenhed paa Himlen sker for det meste ved
+D., der har den Fordel, at man ikke behøver at
+tage Hensyn til de smaa Fejl, som selv den
+omhyggeligste Opstilling af Kikkerten ikke
+fuldstændig kan ophæve, thi da den ukendte og
+kendte Stjerne staar meget nær hinanden, vil
+alle Instrumentets Fejl i samme Grad og i
+samme Retning forfalske begge Himmellegemers
+Beliggenhed og saa godt som ophæves i
+Bestemmelsen af deres gensidige Positioner.
+Undertiden faar ogsaa, om end noget uegentligt,
+saadanne Observationer Navn af D., ved hvilke
+Deklinationsforskellen mellem de forsk.
+Stjerner er liden, medens disse i Rektascension kan
+staa temmelig langt fra hverandre. Saadanne
+Observationer anstilles alm. med Meridiancirkel
+og kaldes Zoneobservationer, da de omfatter
+Stjerner inden for en smal med Ækvator
+parallel Zone.
+<i>J. Fr. S.</i></chapter>
+
+

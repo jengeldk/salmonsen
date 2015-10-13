@@ -1,0 +1,166 @@
+med sammes Dværggrene, og endelig er
+Passionsblomstens Slyngtraade homologe med
+Tjørnens Torne (men kun analoge med
+Græskarrets og Ærtens)
+<i>V. A. P.</i>
+
+Begrebet h. D. har inden for Zoologien
+ganske samme Bet. som inden for Botanikken.
+Som Eksempler kan nævnes de forsk. Former,
+hvorunder f. Eks. Forlemmerne optræder
+inden for Hvirveldyrene: Flagermusenes Vinger,
+Hvalernes Luffer, Fuglenes Vinger er h. D.
+<i>C. W.-L.</i>
+</chapter>
+
+<chapter name="homologe Rækker">
+<b>homologe Rækker</b>. Ved en h. R. forstaas
+sædvanlig en Række analoge
+Kulstofforbindelser, der er afledede paa identisk Maade af
+forsk. Led i de normale Parafiners Rk. Disse
+Parafiner er Kulbrinter af den alm. Formel
+CnH<sub>2</sub>n + <sub>2</sub>, og Ledene i denne Kulbrintrække
+er: CH<sub>3</sub> . H; CH<sub>3</sub> . CH<sub>3</sub>; CH<sub>3</sub> . CH<sub>2</sub> . CH<sub>3</sub>;
+CH<sub>3</sub> . CH<sub>2</sub> . CH<sub>2</sub> . CH<sub>3</sub>; CH<sub>3</sub> . CH<sub>2</sub> . CH<sub>2</sub> . CH<sub>2</sub>...
+CH<sub>2</sub> . CH<sub>3</sub>; hvert Led er altsaa afledet af det
+foregaaende ved paa stadig ensartet Maade at
+erstatte et Brintatom i det foregaaende Led
+med Gruppen CH<sub>3</sub>. Parafinerne danner saaledes
+selv en h. R., hvor der mellem hvert paa
+hinanden flg. Led er en Differens af CH<sub>2</sub>; samme
+Differens findes mellem hvert paa hinanden
+flg. Led i andre h. R., der er afledede af
+Parafinerne. Eksempler paa saadanne Rækker er
+de normale etatomige Alkoholer af Formlen
+CnH<sub>2</sub>n + <sub>1</sub>OH : CH<sub>3</sub>OH; CH<sub>3</sub> . CH<sub>2</sub> . OH;
+CH<sub>3</sub> . CH<sub>2</sub> . CH<sub>2</sub>OH o. s. v. og de fede Syrer
+HCOOH; CH<sub>3</sub>COOH; CH<sub>3</sub> . CH<sub>2</sub> . COOH o. s. v.
+Saadanne homologe Forbindelser viser stor
+Analogi ogsaa i kem. og fys. Egenskaber; Ledene i
+hver enkelt Rk. har samme kem. Karakter;
+naar eet Led er en Syre, er de det alle, og
+alle Syrer af samme Rk. har samme Basicitet;
+Ledene i samme Rk. dannes og sønderdeles
+paa samme Maade; mellem de to paa
+hinanden flg. Led er der hyppig samme Differens
+i Kogepunkter; naar de lavere Led i Rækken
+er Luftarter, vil de højere Led være Vædsker,
+de højeste faste Legemer; er de laveste Led
+opløselige i Vand, bliver de højere mere
+tungtopløselige, men derimod opløselige i Vinaand;
+de højeste Led opløses hyppig kun i Æter.
+Det maa dog bemærkes, at det laveste Led i en
+Række ofte har særegne Egenskaber, der i fl.
+Henseender afviger fra, hvad man træffer hos
+de flg. Led
+<i>(O. C.). R. K.</i>
+</chapter>
+
+<chapter name="Homologi">
+<b>Homologi</b> (græsk), 1) Stoffer, der hører til
+samme homologe Række, siges at være
+homologe; der finder H. Sted mellem dem (se
+<sp>homologe Rækker</sp>).
+<i>(O. C.). R. K.</i>
+
+2) (bot. og zool), se <sp>homologe
+Dannelser</sp>.
+
+3) bruges i Medicinen paa forsk. Maade.
+Organer, der svarer til hinanden, kaldes
+homologe. Om Væv, der viser ensartet Funktion,
+taler man ligeledes om H. Ved Nydannelser,
+der svarer til bestemte Væv, bruges ogsaa
+Ordet H.
+<i>E. A. T.</i>
+
+4) (mat.) er en af Poncelet opstillet
+Forbindelse mellem to Figurer. Iflg. denne svarer til
+hvert Punkt i den ene Figur eet Punkt i den
+anden, saaledes at til hinanden svarende
+Punkter ligger i samme rette Linie gennem et fast
+Punkt, <sp>Homologicentret</sp>; til Punkter i
+en ret Linie ell. en Plan i den ene Figur
+svarer Punkter i henh. en ret Linie ell. en Plan i
+den anden, og til hinanden svarende Linier
+ell. Planer skærer hinanden i en fast Plan,
+<sp>Homologiplanen</sp>. Figurerne siges at
+være <sp>homologe</sp>; en vilkaarlig Plan gennem
+Homologicentret skærer dem i homologe
+Planfigurer med samme Homologicentrum som
+Rumfigurerne og Planens <sp>Skæringslinie</sp>
+med Homologiplanen til Homologiakse. H.
+kaldes ogsaa <sp>Reliefperspektiv</sp> ell.
+<sp>Rumperspektiv</sp>, ved Figurer i samme Plan
+<sp>Planperspektiv</sp>; homologe Figurer i to
+forsk. Planer er hinandens Perspektiv i
+sædvanlig Forstand. Specielle Tilfælde af H. er
+ligedan Beliggenhed, hvor Homologiplanen er
+uendelig fjern, til hinanden svarende Linier
+ell. Planer altsaa parallelle, og symmetrisk
+Beliggenhed, hvor Homologicentret er uendelig
+fjernt i Retningen vinkelret paa
+Homologiplanen, der er Symmetriplan. H.'s Bet. i
+Geometrien beror paa, at man ved den kan
+transformere en Figur til en anden, der er lettere
+at behandle, og saa overføre Resultater fra
+den sidste til den første (f. Eks. en Ellipsoide
+og en Kugleflade kan bringes til at være
+homologe Figurer). Som en praktisk Anvendelse af
+H. kan nævnes Konstruktion af en
+Teaterscene; denne og det Rum, f. Eks. en Sal, som
+den skal forestille, er homologe Figurer, idet
+en omtr. midt i Tilskuerpladsens Rum anbragt
+Tilskuers Øje er Homologicentrum og
+Prosceniet Homologiplan. Et Punkt af den virkelige
+Scene og det derved fremstillede Punkt af
+Salen maa nemlig ligge i samme Synslinie for
+Tilskueren; rette Linier i Salen maa
+fremstilles ved rette Linier paa Scenen, og til
+hinanden svarende Linier maa løbe sammen i
+Prosceniets Plan som det Sted, hvor Illusionen
+hører op.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Homologumena">
+<b>Homologumena</b> kalder Eusebios de
+nytestamentlige Skr, hvis Kanonicitet var alm.
+anerkendt. Se <sp>Bibel</sp>.
+<i>J. C. J.</i>
+</chapter>
+
+<chapter name="homomikte">
+<b>homomikte</b> kaldes Konglomerater og
+Breccier, naar alle de Brudstykker, hvoraf de er
+dannede, tilhører en og samme Stenart.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Homonoia">
+<b>Homonoia</b> [-'nåja] (gr.) var hos Oldtidens
+Grækere Personifikation af Enigheden,
+svarende til Romernes Concordia. Efter Sagnet
+oprettede Argonauterne et Tempel for H. paa Øen
+Thynias i det sorte Hav. I hist. Tid havde
+hun navnlig et Alter i Olympia; Indvielse af
+Helligdomsgaver til hendes Ære omtales ret
+jævnlig, og hendes Billede findes paa Mønter
+bl. a. fra Metapontium og nogle thessaliske
+Byer.
+<i>H. A. K.</i>
+</chapter>
+
+<chapter name="homonym">
+<b>homonym</b> (gr.) er i Grammatikken
+Benævnelse paa Ordlighed, f. Eks. <i>Sky</i> (Subst.)
+og <i>sky</i> (Adj.), <i>svale</i> (Verb.) og <i>Svale</i> (Subst.),
+<i>fare</i> (Verb.) og <i>Fare</i> (Subst.), <i>male</i> (male paa
+Mølle) og <i>male</i> (male med Farve). Findes
+Ligheden særlig i Udtalen, bruges Benævnelsen
+<sp>homofon</sp>; findes den i Stavningen, bruges
+Benævnelsen <sp>homograf</sp>. Ligheden kan have
+været til Stede fra første Færd; men ofte er den
+fremkommet under Sprogets Udvikling, f. Eks.
+<i>bede</i> (fremsige en Bøn), opr. <i>bithiæ</i>, og bede
+(hvile med Arbejdsdyrene og fodre dem), opr.

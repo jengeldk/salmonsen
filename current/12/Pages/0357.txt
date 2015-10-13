@@ -1,0 +1,106 @@
+Figurens nederste Del. Paa de Steder, hvor
+Φ-Kurven har et Maksimum ell. Minimum, gaar,
+som det ses, <i>e</i>-Kurven gennem Nul. Den er
+højest, hvor Φ-Kurven er stejlest. Vil man
+ved Induktion fremstille høje elektromotoriske
+Kræfter ell. Spændinger, gælder det altsaa om
+at frembringe meget pludselige Forandringer i
+Induktionsliniestrømmen. Tillige gælder det om
+at gøre den Induktionsliniestrøm, der
+omsluttes af Lederen, i hvilken den induceres, saa
+stærk som mulig, thi desto stejlere kan man
+faa Φ-Kurven til at falde af ved en
+Forandring, foretaget i en vis Tid.
+
+Hvis man, hvad her forudsættes, fremstiller
+Induktionsliniestrømmen ved Hjælp af en
+elektrisk Strøm, udnytter man den magnetiske
+Strøm saa fuldkomment som muligt, naar man
+lader den lukkede Leder, i hvilken den
+induceres, være identisk med selve den Leder, hvis
+elektr. Strøm frembringer
+Induktionsliniestrømmen, altsaa lader <i>A</i> og <i>S</i> i Fig. 1 smelte sammen
+til een Leder <i>S</i> Fig. 3. Lederen, i hvilken der
+induceres, omslutter da hele den af den elektriske
+Strøm frembragte Induktionsliniestrøm. Lægger
+man yderligere Jern ind i Spolen, kan
+Induktionsliniestrømmen som nævnt sættes fl. Hundrede
+Gange op. Dens Styrke kan i øvrigt
+kontrolleres fuldkomment ved Hjælp af den elektriske
+Strøm, som sendtes gennem Spolen. Uden Jern
+vokser Induktionsliniestrømmen ganske
+nøjagtig proportionalt med den elektriske Strøm,
+og det samme gælder inden for visse Grænser
+ogsaa, naar der er Jern i Spolen. Vil man
+frembringe en pludselig Forandring i
+Induktionsliniestrømmen, sker det endelig yderst simpelt
+ved Afbrydning af den elektriske Strøm ved Hjælp
+af en Nøgle <i>N</i>, hvorved den hele
+Induktionsliniestrøm forsvinder lige saa pludselig som den
+elektriske Strøm i Spolen. Man har altsaa i
+det simple Apparat, der skematisk er antydet i
+Fig. 3, et bekvemt Middel til at frembringe
+Spændinger af variabel Styrke. Vil man have
+en høj Spænding, afbryder man en stærk
+Strøm, vil man have en lavere Spænding,
+bryder man en tilsvarende svagere Strøm.
+Apparatet kan betragtes som den simpleste Form
+for en I., og vi vil derfor noget nærmere
+studere dets Virkemaade.
+
+I det Øjeblik, Strømkredsen sluttes ved
+Nøglen <i>N</i>, begynder der at vokse en elektrisk
+Strøm op i Spolen og samtidig altsaa en
+magnetisk Induktionsliniestrøm gennem Spolens
+Indre. Da herved Antallet af Induktionslinier,
+som Vindingerne omslutter, ændres, maa der
+efter Reglen ovenfor induceres en
+elektromotorisk Kraft i Spolens Vindinger. Denne er
+rettet imod den opvoksende Strøm og søger
+altsaa at hindre dens Opvoksen. Det er denne
+elektromotoriske Modkraft, der bevirker, at
+Strømmen ikke straks stiger op til den
+endelige Værdi, men stiger gradvis efter
+Kurvegrenen <i>ab</i> i Fig. 4 a. Udtrykket 1° giver dens
+Værdi for hver enkelt Vinding. Hvis Spolen
+har <i>n</i> Vindinger, og man tør regne med, at
+den hele Induktionsliniestrøm Φ omsluttes af
+alle Vindinger, bliver den elektromotoriske
+Kraft <i>n</i> Gange saa stor, altsaa
+2° <i>e</i> = 10<sup>-8</sup> <i>n</i> · <i>d</i>Φ/<i>dt</i>.
+
+Som nævnt er Φ proportional med
+Strømmen, og tillige er den proportional med
+Antallet af Vindinger. Man kan derfor skrive
+3° Φ = <i>k n · i</i>,
+hvoraf følger, at
+4° <i>e</i> = 10<sup>-8</sup> <i>k</i> <i>n</i><sup>2</sup> · <i>di</i>/<i>dt</i> = <i>L</i> · <i>di</i>/<i>dt</i>,
+hvor <i>L</i> er en ny Konstant, der betegnes som
+<sp>Selvinduktionskoefficienten</sp> for
+Spolen. Den er maalt i Henry, naar <i>e</i> maales
+i Volt, Strømmen i Ampère. Den
+elektromotoriske Modkraft kan altsaa ogsaa sættes
+proportional med den Hastighed, hvormed
+Strømmen vokser. Har man en Kurve, der viser, paa
+hvilken Maade Strømmen forandres, kan man
+derfor ligesom før tegne en Kurve, der
+gengiver den inducerede elektromotoriske Kraft.
+En saadan Kurve er tegnet i Fig. 4 b, svarende
+til Strømkurven i Fig. 4 a. Den
+elektromotoriske Kraft er under Strømmens Opvoksen relativ
+lille, og hele Tiden lidt mindre end
+Strømkildens elektromotoriske Kraft. Spørgsmaalet er
+nu, hvorledes det gaar, naar Strømmen
+brydes.
+
+Den elektriske Strøm gaar da i Løbet af en
+kort Tid ned til Nul, saaledes som det er
+antydet ved Kurvegrenen <i>b c</i> i Fig. 4 a. Samtidig
+gaar Induktionsliniestrømmen fra sin største
+Værdi ned til Nul. Jo hurtigere det sker, desto
+stejlere falder <i>b c</i> af, og desto højere bliver
+Spændingstoppen <i>bdc</i> i Fig. 4 b. Man kunde
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>

@@ -1,0 +1,108 @@
+indtil c. 30 %. Idet 1 kWh.<footnote>
+Forkortelse for Kilowatttime. Enheden for
+elektrisk Effekt (Arbejde pr Tidsenhed) er som bekendt
+1 Watt = 1 Volt x 1 Ampère = 1 Joule pr Sekund =
+10<sup>7</sup> Erg pr Sekund = 1/736 Hestekraft. I Praksis bruges
+Enheden Kilowatt, = 1000 Watt, som forkortet skrives
+kW. 1 kW = c. 1,35 HK. Enheden for Arbejde er
+Watttimen = 1/736 Hestekrafttime. I Praksis bruges
+Enheden Kilowatttime, som forkortet skrives kWh. 1
+kWh er naturligvis ogsaa = 1,35 HKT.</footnote> = 860 kg cal.,
+medens 1 kg gode Kul indeholder 7000 à 7500 kg
+cal. og 1 kg Raaolie c. 10000 kg cal., svarer
+dette omtr. til 1 kg Kul pr kWh. og 280 gr
+Olie pr kWh. I al Alm. kan det siges, at ved
+Anlæg under 4 à 500 kW. er Dieselmotoren
+fordelagtigst. Fra 4 à 500 kW. indtil c. 1500 kW.
+er der kun ringe Forskel paa Dieselmotorer og
+Dampturbiner, og over den sidstnævnte
+Størrelse er Dampturbinen overlegen i Økonomi.
+
+Det Forhold, der imidlertid først og fremmest
+paatrænger sig Opmærksomheden, er den
+Belastning, Maskinerne faar. Selv om man i nogle
+Tilfælde kan regne med en Udjævning af
+Belastningsspidser paa Maskinerne ved Hjælp af
+Akkumulatorbatteri, saa maa man dog som
+Hovedtilfælde gaa ud fra den Forudsætning, at
+Maskinernes Produktion hvert Øjeblik maa
+være lig Forbrug plus Tab, d. v. s. Forbruget
+med et tilnærmelsesvis konstant Procenttillæg,
+idet Batteriets Udjævning kun kan faa Bet. for
+Døgnets Ujævnheder, men ikke for Aarets, og
+fordi den Størrelse af Produktionen, der er
+nødvendig for at kunne producere billigt nok, i de
+fleste Tilfælde gør det nødvendigt at producere
+Energien som trefaset Vekselstrøm,
+»Drejestrøm«, idet Energien i denne Form lettest og
+billigst lader sig fordele til mange Forbrugere
+i fl. mindre Byer, Landdistrikter o. l., og ved
+Drejestrømsanlæg lader et Akkumulatorbatteri
+sig kun undtagelsesvis anvende med Fordel. Et
+Værk, der ved Hjælp af højspændt Strøm
+forsyner et større Omraade, kaldes en
+<sp>Oplandscentral</sp>. Det følger umiddelbart af det her
+sagte, at en vigtig Opgave ved
+Elektricitetsforsyningen bestaar i at studere Forbruget og
+Forbrugerne, for ved Hjælp af den vundne
+Kundskab at naa saa nær som muligt til det
+ideale Tilfælde, at Maskinerne gaar fuldt
+belastede i alle Aarets 8760 Timer. Strengt taget
+har hver Forbruger naturligvis sine
+Ejendommeligheder, men en hel Del Forskelligheder vil
+være uden nogen praktisk Bet., og i det store
+og hele indordner de sig i faa større Kategorier,
+hver med sine typiske Egenskaber. I en alm.
+mindre By, hvor det, man kunde betegne som
+Husholdningsforbruget, er det dominerende, vil
+den relative Fordeling af Forbruget være omtr.
+som vist paa de to hosstaaende Figurer. For
+Landbrugets Vedk. vil Forbruget til Motorer
+gøre sig gældende og give Belastningsspidser
+paa lidt andre Tider end her vist. For nogle
+af de vigtigste og værdifuldeste Forbrugere:
+Fabrikker med hel ell. delvis elektrisk
+Drivkraft gælder nærmest, at hver enkelt maa
+betragtes for sig. Det, der altid har
+Elektricitetsproducentens Interesserer at opnaa en
+Udjævning mellem de forsk. Forbrugskategorier,
+saaledes at Sammenhobning af Belastningsspidser
+undgaas, og Midlerne hertil er ved forsk.
+Tariffer at give en Forbruger ell. Kategori af
+Forbrugere en billig Pris i den Tid, hvor det er
+fordelagtigst for Elektricitetsværket at have
+denne Belastning (»Tarifpolitik«), f. Eks. Strøm
+til Teglværker om Sommeren (8-10 Øre pr
+kWh.), Strøm til Pumpeværker om Sommeren
+ell. i sene Nattetimer (5-6 Øre pr kWh.) og
+Forbrug til Tærskemotorer i
+Foraarsmaanederne (ned til f. Eks. c. 5 Øre pr kWh. i
+Marts-Juni). Endvidere kan der gribes regulerende
+ind ved at anvende Dobbelttarifmaalere,
+d. v. s. Maalere, der viser en højere Pris i en vis
+Tid af Døgnet, for Forbrug, man nødig vil have
+samtidig med andre, f. Eks. for Forbrug til
+Motorer i den Tid, hvor Lysforbruget giver sin
+største Belastning. Forskellen i Pris mellem Strøm
+til Lys og til Kraft (i Reglen resp. 35 à 40 og
+15 à 20 Øre pr kWh.) bunder dels i, at det
+tidligere altid var Lysforbruget, der gav
+Maksimalbelastningen og derved bestemte Værkets
+Størrelse, saaledes at Kapitaludgifterne
+(Forrentning og Afskrivning) væsentlig skulde
+bæres af dette Forbrug, og dels i, at Strøm til
+Lys kan bære en højere Pris pr kWh. end
+Strøm til Kraft; med de mest moderne
+elektriske Glødelamper vil 1 Normallystime med
+en Strømpris paa 35 Øre pr kWh. kunne faas
+for c. 0,020 Øre, og det vil sige, at man ikke
+kan vente at faa Lys billigere paa anden
+Maade, det er fra Trediedelen til Fjerdedelen
+af, hvad Petroleumslys koster. I Modsætning
+hertil kan Anvendelsen af elektrisk Strøm til
+Opvarmning, p. Gr. a. at Virkningsgraden af
+gode Ildsteder er ret høj (Kakkelovne indtil
+over 90 %), medens 1 kWh. kun indeholder 860
+kg cal., kun ganske undtagelsesvis bliver
+fordelagtig. Det skal endnu nævnes, at der undertiden
+<img></img><img></img>

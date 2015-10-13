@@ -1,0 +1,62 @@
+svækker dette, dels frembringer en saadan
+Forskydning i Hovedfeltets Retning, at Børsterne,
+som jo anbringes der, hvor Feltet skifter fra
+N. til S., altsaa hvor der intet Felt er, nu maa
+forskydes ud fra den Stilling midt imellem
+Polerne, hvor de stod ved Tomgang. Denne
+Forskydning er nødvendig, da
+man ellers vil faa stærk
+Gnistdannelse mellem
+Kommutator og Børster. Ved alle
+moderne Maskiner anbringer
+man derfor til Ophævelse af
+Ankerreaktionen enten en i
+Polerne indbygget
+<sp>Kempensationsvikling</sp>
+(hurtiggaaende Dynamoer,
+Turbodynamoer) ell. særlige imellem
+Maskinens Hovedpoler
+anbragte smaa Hjælpepoler, de
+saakaldte <sp>Vendepoler</sp>,
+hvis forholdsvis faa Vindinger
+gennemløbes af den af
+Maskinen afgivne Strøm. Man
+afpasser da Antallet af
+Vindinger paa Vendepolen
+saaledes, at dennes Felt saavidt muligt ophæver
+Ankerreaktionens Felt. I Fig. 6 er vist de
+enkelte Dele af en lille Jævnstrømsmaskine; en
+større Maskine (1200 KW, 600 Volt) er vist i Fig. 7.
+
+<sp>Jævnstrømsmotorer</sp> er konstruerede
+ganske paa samme Maade som Dynamoerne.
+Den samme Maskine lader sig efter Behag
+benytte baade som Generator og Motor. Gaar
+der Strøm igennem Maskinens Ankertraade, vil
+disse af Magnetfeltet blive paavirkede med et
+vist Drejningsmoment, hvilket Moment for
+Dynamoens Vedkommende overvindes af den
+Kraftmaskine, der driver Dynamoen rundt, og som
+for Motorens Vedkommende selv driver Ankeret
+rundt og sætter det i Stand til at udføre mek.
+Arbejde.
+
+Vilde man sætte den stillestaaende Motors
+Klemmer i direkte Forbindelse med
+Ledningsnettet, vilde Ankeret p. Gr. a. sin ringe Ohm'ske
+Modstand optage en saa stærk Strøm, at det
+muligvis vilde tage Skade. Man anbringer derfor i
+Serie med Ankeret en saakaldt
+<sp>Igangsætningsmodstand</sp>, saaledes afpasset, at
+Motoren gaar i Gang med passende Strømstyrke
+(Fig. 8). Efterhaanden som Motorens
+Omdrejningstal stiger, induceres der i Ankertraadene
+
+<img>
+Fig. 5. Skema for Serie-, Shunt- og Compoundmaskiner.
+</img>
+<img>
+Fig. 6. En Jævnstrømsmaskines enkelte Dele: 1. Aag, 2. Magnetpoler (Jernkerner), 3. Vendepoler
+(Jernkerner), 4. Magnetspoler, 5. Spoler til Vendepoler, 6. Lejeskjold, 7. Forleje (Kommutatorsiden), 8. Bagleje,
+9. Overpart af Lejer, 10. Ankerjern, 11. Ankervikling, 12. Kommutator, 13. Børster, 14. Børstebro.
+</img>

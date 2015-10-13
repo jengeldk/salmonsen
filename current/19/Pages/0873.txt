@@ -1,0 +1,7 @@
+<img></img>
+
+Fig. 9. <i>I</i> viser Energitilførsel (<i>A</i>) og Strømforløb (<i>i</i>) for diskontinuerlige Svingningstog, <i>II</i> de samme to Størrelser for kontinuerlige Svingninger. Energitilførslen kan i sidste
+Tilfælde være mere eller mindre jævnt fordelt over Perioden. — Fig. 10. <i>I</i> viser Kredsen <i>LRC</i>, i hvilken er indskudt Generatoren <i>G</i> med den E. M. K. <i>e</i> = <i>E<sub>m</sub>cosωt</i>. I <i>II</i> frembringes
+den E. M. K. <i>e</i>, der paavirker Kredsen ved Hjælp af Strømmen <i>i<sub>o</sub></i> = <i>J<sub>om</sub> sinωt</i> gennem Traadrullen <i>abc</i>. Den gensidige Induktion mellem denne og Kredsens Selvinduktion <i>L</i> betegnes
+ved <i>M</i>. Man har da <i>e</i> = <i>ωMJ<sub>om</sub>cosωt</i> = <i>E<sub>mc</sub>osωt</i>, hvor <i>E<sub>m</sub></i> = <i>ωMJ<sub>om</sub></i>. — Fig. 11. <i>abede</i> Resonanskurve for Effekt i en svagtdæmpet Kreds, dels med Forstemningen <i>s</i> og dels
+med Frekvensforholdet <i>h</i>/ω = √<i>Cr</i>/<i>C</i> som Abscisse. — Fig. 12. <i>I</i> og <i>II</i> viser Resonanskurver svarende til <i>S</i> = 100, 40, 10; <i>III</i> viser de tilsvarende Effektkurver.

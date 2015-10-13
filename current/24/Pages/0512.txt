@@ -1,0 +1,142 @@
+ved sin Vægt, hvorfor ogsaa Virkningsgraden
+er stor, omkring 0,75, maaske endog højere.
+
+<i>f</i>) <sp>Poncelet</sp>'s Hjul (Fig. 7) er et
+Underfaldshjul med krumme Skovle, der tvinger
+Vandstrømmen til uden Stød at forandre
+Hastighed og derved afgive sin levende Kraft.
+Vandets Virkning minder saaledes en Del om
+Turbinerne; dog spiller Vægten af Vandet ogsaa
+en Rolle ved Poncelet's Hjul. Faldhøjden kan
+være indtil 2 m, men Virkningsgraden er da
+kun c. 0,5; ved mindre Faldhøjder, indtil 1,4 m,
+kan derimod Virkningsgraden naa op til 0,65.
+
+<i>B</i>. <sp>Turbiner</sp>. Medens Vandet ved de
+vertikale Vandhjul virker ved sin Vægt og ved at
+støde imod Skovlene, er Forholdet ved
+Turbinerne, som foran berørt, et andet. Faldhøjden
+benyttes her for største Delen til at give
+Vandet en betydelig Hastighed, og gennem et
+System af faststaaende Ledeskovle bringes det
+uden Stød ind mellem Skovlene i selve
+Turbinehjulet, der ogsaa kaldes »Løbehjulet«. Her
+ændres Vandets Bevægelsesretning af Skovlene,
+mod hvilke Vandet altsaa udøver et Tryk,
+hvorved dets Energi overføres til Hjulet, som
+Vandet forlader med saa ringe Hastighed som
+muligt. Foruden denne af Vandets Masse og
+Hastighed fremkaldte Trykvirkning — Aktion —
+finder der ogsaa ved nogle Turbiner en
+Reaktionsvirkning Sted. Til nærmere Forklaring
+heraf skal der mindes om, at naar der i den
+ene Side af et paa Hjul stillet Kar med Vand
+frembringes en Aabning, vil Vandet strømme
+ud deraf, medens Karret vil bevæge sig til den
+modsatte Side, idet jo Vandets Tryk mod
+Aabningens Areal er ophævet, medens det
+vedblivende bestaar over for det tilsvarende Areal
+af Karrets modstaaende Væg. Ganske det
+tilsvarende finder Sted i Turbinen. Naar nemlig
+Vandet fylder Rummet mellem Skovlene, vil det
+til alle Sider udøve et Tryk imod Væggene; ved
+Udløbet findes ingen Væg, og der fremkommer
+da en Reaktionsvirkning mod den modstaaende
+Væg, hvorved Turbinen drives rundt. Man
+inddeler herefter Turbinerne i
+<sp>Reaktionsturbiner</sp> og <sp>Aktions</sp>- eller
+<sp>Trykturbiner</sp>. Ved disse sidste behøver Skovlrummene
+ikke at være helt fyldte med Vand, og
+Løbehjulet maa derfor ligge i Luften over
+Bagvandet; Reaktionsturbinerne kan derimod ogsaa
+arbejde under Vand. En anden Inddeling kan
+gøres efter Vandets Bevægelsesretning gennem
+Løbehjulet. Ved <sp>Aksialturbiner</sp> bevæger
+Vandet sig nogenlunde parallelt med Aksen, og
+det træder ind og ud paa Hjulets plane Flader.
+Ved Radialturbiner derimod er
+Bevægelsen omtrent efter Radius. Vandet kan træde
+ind paa Hjulkransens Yderside, uden om hvilken
+Ledeskovlene er anbragte, og Turbinen siges da
+at have <sp>udvendigt Tilløb</sp>; ligger
+derimod Ledeskovlene inden for Hjulkransen, saa
+at Vandet bevæger sig udefter fra Aksen, siges
+Turbinen at have <sp>indvendigt Tilløb</sp>.
+
+Medens de vertikale V. alene kan benyttes
+ved mindre Fald, op til c. 15 m, kan Turbinerne
+benyttes ved alle Faldhøjder, endog til flere
+hundrede Meter. Da tillige deres Virkningsgrad
+er betydelig, ofte 0,75, og Vedligeholdelsen er
+billigere, foretrækkes de nu oftest for de
+vertikale V., især hvor der er Tale om blot
+nogenlunde betydelig Kraft. Af de mange forskellige
+Konstruktioner anføres her nogle af de
+vigtigste.
+
+<sp>Fourneyron</sp>'s Turbine (Fig. 8 og 9) er
+en Reaktionsturbine og Radialturbine med
+indvendigt Tilløb, Løbehjulet <i>b</i> har krumme Skovle
+og omslutter Ledeapparatet <i>s</i>, hvis Skovle er
+krummede i modsat Retning. Ledeskovlene er
+anbragte i Bunden af et lodret Rør, gennem
+hvilket Vandet strømmer til Turbinen, og
+mellem Ledeskovlene og Løbehjulet er der anbragt
+et ringformet Stigbord <i>w</i>, til Regulering af
+Vandtilførselen. For at kunne indrette
+Vandforbruget efter det Arbejde, der kræves,
+anbringes der ofte i Hjulet plane Skillevægge, der
+deler det i »Etager«, og med Stigbordet kan
+man da aabne eller lukke for flere eller færre
+af disse efter Forholdene. <sp>Francis</sp>' Turbine
+er ligeledes en Reaktionsturbine og en
+Radialturbine, men den har udvendigt Tilløb, og
+Ledeskovlene ligger altsaa i en Ring uden om
+Løbehjulet. <sp>Jonval</sp>'s (eller <sp>Henschel</sp>'s)
+Turbine (Fig. 10), der ogsaa er en
+Reaktionsturbine, er derimod en Aksialturbine. Saavel
+Ledeskovlene <i>B</i> som Løbehjulets Skovle <i>A</i> er
+krummede efter Skrueflader, men i modsat Retning.
+Løbehjulet ligger i den øverste Ende af et
+lodret Rør, der er helt fyldt med Vand, hvorved
+vindes, at Løbehjulet let kan efterses, idet man
+kan lade Vandet løbe fra; Vandet under
+Løbehjulet virker lige saa godt, som hvis det laa
+over Hjulet, idet det suger, og Anordningen
+medfører saaledes intet Tab af Faldhøjde.
+Reguleringen kan ske ved delvis at lukke for
+Sugerøret under Løbehjulet ved Hjælp af
+Stigbordet <i>s</i>, men bedre for Virkningsgraden er det
+at aflukke for en Del af Kanalerne mellem
+Ledeskovlene. <sp>Girard</sp>'s Turbine (Fig. 11) er
+i Modsætning til de fornævnte en Trykturbine,
+og den fremstilles baade som Radial- og —
+saaledes paa Figuren — som Aksialturbine.
+Stigbordet er her enten indrettet paa den Maade,
+at alle Ledekanalerne kan indsnævres lige
+meget, eller saaledes at en Del af dem lukkes helt,
+medens de andre er fuldt aabne. Ved smaa
+Vandmængder udelader man, for ikke at faa
+Løbehjulet uhensigtsmæssig lille, Ledeskovlene
+paa en Del af Omkredsen, saa at ikke alle
+Løbehjulets Skovle modtager Vand samtidig.
+Turbinen kaldes da en <sp>Partial</sp> turbine.
+<sp>Mahler</sp>'s Turbine (Fig. 12), der anvendes en Del i
+Danmark, er en Mellemting mellem Radial- og
+Aksialturbiner; den har udvendigt Tilløb, men
+Løbehjulet deles ved en Væg <i>m</i> i to Afdelinger,
+hvoraf den øverste <i>o</i> gennemløbes væsentlig i
+radial, den nederste <i>n</i> væsentlig i aksial
+Retning.
+
+Til Turbinerne maa ogsaa regnes det navnlig
+i Amerika meget benyttede <sp>Peltonhjul</sp>
+(Fig. 13), hvis Skovle har den ejendommelige,
+paa Figuren viste, Bægerform. Vandet føres ind
+forneden gennem en kegledannet Aabning og
+deles af Bægerets skarpe Midtvæg i to flade
+Straaler, der ved i Skovlen at udføre en
+Vending paa omtrent 180° afgiver deres levende
+Kraft til Hjulet. Ved at anbringe flere Indløb
+langs Hjulets Omkreds kan større
+

@@ -1,0 +1,137 @@
+og Telefonens overordentlige Følsomhed som
+Modtagerapparat i kendelig Grad kan
+forstyrres heraf. Ulemperne er særlig
+Induktionsvirkninger fra andre parallelt med Traaden
+løbende Ledninger, hvori elektriske Strømme
+sluttes og afbrydes (Telegrafledninger, andre
+Telefonenkeltledninger ell.
+Stærkstrømsledninger f. Eks. til elektriske Sporveje). Som Følge
+af de varierende Strømme i de nærliggende
+Ledninger opstaar der magnetiske Felter omkr.
+Telefontraaden, og denne danner desuden
+sammen med de øvrige Ledninger en Kondensator,
+hvis Ladning varierer med de elektriske
+Spændingsforhold i Luftmellemrummet. Begge Dele
+i Forbindelse med eventuelle Jordstrømme
+(vagabonderende Strømme fra
+Stærkstrømsanlæg o. l.) samt Induktionsvirkninger fra
+Atmosfærens Elektricitet frembringer i Traaden
+forsk. Strømimpulser, som ledes til Jorden
+gennem den med Ledningen forbundne Telefon og
+tydelig høres i denne som Telegrafskrift,
+fremmed Tale ell. Støj. Enkeltledninger benyttes
+derfor i den nyere Tid kun, hvor økonomiske
+Hensyn er afgørende, f. Eks. ved spredte
+Abonnentledninger paa Landet, medens man ved alle
+vigtigere T., længere mellembys Forbindelser
+(<sp>Interurbanledninger</sp>) og Abonnent-
+og Centralledninger i Byer ell. i det hele taget
+overalt, hvor et større Antal Ledninger
+fremføres samlet, udelader Jorden af Kredsløbet og
+indretter dette som en fuldt metallisk
+<sp>Dobbeltledning</sp>. Man opnaar herved, at de
+forsk. Induktionsforstyrrelser i samme Grad
+indvirker paa begge Ledningstraade og
+saaledes ikke danner noget Kredsløb gennem
+Telefonen. Betingelsen for <sp>Induktionsfrihed</sp>
+er dog, at Dobbeltledningens Traade paa hele
+Strækningen har samme elektriske Egenskaber
+(Modstand, Isolation m. v.), idet f. Eks. en
+større Afledning paa den ene Traad (en
+ituslaaet Isolator ell. Berøring med fugtige
+Trægrene etc.) medfører lgn. Ulemper som
+Enkeltledninger. Traadene maa desuden være
+anbragt med samme Afstand fra forstyrrende
+Ledninger, da Forskellen i Induktionen ellers
+vil kunne høres i Telefonen. Af samme Grund
+maa to parallelt løbende Dobbeltledninger, der
+ønskes gensidig induktionsfri hver for sig,
+være beliggende i hinandens Symmetriplan. I
+Reglen udføres dette saaledes, at Isolatorerne
+paa hvert Stativ anbringes med samme lodrette
+og vandrette Afstand d. v. s. i Kvadrater, hvis
+modstaaende Diagonalpunkter to og to benyttes
+til en Dobbeltledning. Hvor flere saadanne
+Traadkvadrater er anbragt paa Stangrække, fælles
+med Telegrafledninger (Fig. 1), vil den
+induktionsfri (symmetriske) Ophængning kun kunne
+udføres med Tilnærmelse, saaledes at de
+enkelte Ledningstraade i hvert Kvadrat faar
+samme <sp>gennemsnitlige</sp> Afstand fra de
+inducerende Ledninger. Dette opnaas dels ved
+»<sp>Krydsning</sp>«, hvor Traadene i hver
+Dobbeltledning med visse Mellemrum (f. Eks. hver
+km) bytter Plads paa Isolatorstativet, og dels
+ved »<sp>Snoning</sp>« (Fig. 2), hvor Traadene
+uafbrudt forandrer Beliggenhed. Af Hensyn til den
+gensidige Induktion mellem Dobbeltledningerne
+indbyrdes maa endvidere iagttages, at
+Krydsningsafstanden ell. Snoningens Skruegangshøjde
+varierer paa passende Maade for de forsk.
+Traadkvadrater paa samme Stangrække. —
+Telefonluftledninger udføres iøvrigt paa lgn.
+Maade som Telegrafledninger (s. d.); dog er
+Telefonisolatorerne i Reglen noget mindre. Til
+Abonnentledninger paa Landet og kortere
+Oplandscentralledninger anvendes 3 mm
+Staaltraad (sjældnere 2 mm Bronzetraad). Længere
+mellembys og internationale T. udføres af
+haardtrukken Kobbertraad med Diameter fra 3
+til 5 mm svarende til Ledningens Længde og
+Bet. Til Abonnentledninger i Byer benyttes 1,5
+mm Bronzetraad. Isolatorerne fastgøres paa
+Tværarme af galvaniseret L- ell. U-Jern, der
+anbringes paa Stænger som Telegrafledninger
+ell. i Byerne paa Tagstativer, Skorstensvinkler
+o. l.
+
+Telefonens voksende Udbredelse har
+efterhaanden vanskeliggjort Fremføringen af det
+store Antal Luftledninger. Særlig i større Byer
+er man derfor i stigende Grad gaaet over til
+Anvendelse af <sp>Kabelledninger</sp>, der
+tillige medfører flere Fordele i Forbindelse med
+Centralenergisystemet (se
+<sp>Telefoncentralstationer</sp>). De tidligste underjordiske
+ell., hvor Forholdene krævede det, undersøiske
+Telefonkabler, der indrettedes ganske som
+Telegrafkabler (se <sp>Telegrafledninger</sp>), viste
+sig imidlertid mindre godt egnede til
+Telefonering, idet Strømmene svækkedes stærkt ved
+Passage gennem selv forholdsvis korte Kabler.
+Svækkelsen skyldes hovedsagelig Kapaciteten,
+idet den Energi, der afgives af de hurtigt
+vekslende Telefonstrømme til Ladning og Afladning
+af Kablet, dels er tabt og dels i ulige Grad er
+fremtrædende for de forsk. til Talen hørende
+Tonehøjder (fra c. 500 til 1300 Svingninger i
+Sek.), hvorved Taleoverføringen ikke alene
+forringes i Lydstyrke, men ogsaa forvanskes i
+Klangfarve. Lignende Energitab foraarsages af
+Ledningsmodstanden og Afledningen, saaledes
+at kun en vis Brøkdel af den fra
+Afsenderapparatet udsendte Strøm naar frem til Modtageren.
+Kaldes i Alm. den paa en lang Telefonledning
+udsendte Strøm <i>I</i>, vil Strømstyrken i en
+Afstand af <i>l</i> km fra Afsenderen være reduceret til
+<i>I</i>: <i>e<sup>βl</sup></i>, hvor <i>e</i> er Grundtallet i det naturlige
+Logaritmesystem (2,7183 ..) og <i>β</i> en Faktor, hvis
+Størrelse afhænger af Ledningens Egenskaber.
+Produktet <i>βl</i> kaldes Ledningens
+<sp>Dæmpningseksponent</sp> og giver et Maal for
+Telefoneringsafstanden, idet Erfaringen viser,
+at god Taleoverføring med de sædvanligt
+benyttede Telefonapparater kræver en Ledning,
+hvis Dæmpningseksponent ikke væsentlig
+overskrider 3,5. Strømmen i Modtagerapparatet er
+i dette Tilfælde c. 3 % af den fra Afsenderen
+udsendte Strøm. Paa godt isolerede T. kan <i>β</i>
+(Dæmpningseksponenten pr km) med
+Tilnærmelse regnes for proportional med
+Ledningsmodstanden og med Kvadratroden af
+Kapaciteten divideret med Selvinduktionen. I Kabler,
+hvor Kapaciteten p. Gr. a. den ringe Afstand
+mellem Lederne indbyrdes og mellem disse og
+Jord er flere Gange støre end ved Luftledninger,
+medens samtidig Selvinduktionen er ringe, er
+Dæmpningen derfor stor. Eksempelvis er

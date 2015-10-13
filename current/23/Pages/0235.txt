@@ -1,0 +1,147 @@
+Temperaturdifferens paa modsatte Sider af en Ærterod kunne
+bringe denne til at krumme sig
+(Termotropisme).
+
+Naar Planter eller Plantedele udsættes for en
+Temperatur, der ligger under
+Minimumstemperaturen, vil Livsprocesserne standse, og
+Planten siges i saa Fald at befinde sig i Kuldedvale;
+dette behøver ikke at medføre Plantens Død.
+Den Temperatur, ved hvilken Planterne dør, kan
+være meget forskellig. Visse tropiske Planter
+dør allerede ved en Temperatur, der ligger lidt
+over 0°, ved en Temperatur altsaa, hvor der
+ikke kan være Tale om, at Planterne fryser. Hos
+mange Planter indtræder Døden ved
+Frysningstemperatur; det er f. Eks. ofte Tilfældet med
+Pærer, Æbler, Kartofler o. s. v. Den
+Temperatur, ved hvilken Plantedele fryser, ligger i
+Almindelighed 1—2° under 0 (paa Grund af, at
+der i Plantesafterne findes opløste Stoffer); dog
+kan forskellige Plantedele ofte underafkøles ret
+stærkt (eventuelt 2—3°), før Frysningen
+indtræder. Der er ogsaa mange Planter, f. Eks.
+adskillige Træer, der kan taale at stivfryse
+uden at dø. Visse Planter, f. Eks. Bakterier,
+dræbes overhovedet ikke ved Kulde; de kan
+afkøles til ÷ 200—÷250° uden at dø. Man kan
+altsaa ikke sterilisere ved Kulde; naar Kulde
+alligevel i høj Grad virker konserverende paa
+Fødemidler, hidrører det ikke fra, at
+Mikroorganismerne dræbes, men fra, at deres
+Livsvirksomhed holdes nede.
+
+Temperaturer, der ligger over
+Maksimumstemperaturen, synes i Almindelighed at virke
+skadeligere paa Planterne end ekstremt lave
+Temperaturer. Allerede en ringe Overskridelse
+af Optimumstemperaturen bevirker ofte, at
+Planterne tager varig Skade. Deres
+Modstandsdygtighed over for høje Temperaturer
+afhænger i høj Grad af Vandindholdet: jo mindre
+Vandindholdet er, desto modstandsdygtigere er
+Planten. Derfor er visse Formeringsorganer,
+der kan taale at tørre ud, langt mere
+modstandsdygtige end vegetative Celler. Medens
+vegetative Bakterieceller allerede dør ved en
+Temperatur paa c. 60°, dræbes Bakteriesporer
+først af fugtig Varme ved en Temperatur paa
+120° i 10 Minutter eller af tør Varme ved en
+Temperatur paa 150° i 2 Timer. Ogsaa tørre
+Frø kan taale en Ophedning til 100° uden at dø.
+(<sp>Litt</sp>.: <sp>Molisch</sp>, »Pflanzenphysiologie als
+Theorie der Gärtnerei«, 4. Oplag [Jena 1921]).
+<i>B. J.</i>
+</chapter>
+
+<chapter name="Temperaturmaaling">
+<b>Temperaturmaaling.</b> Ved enhver T. drejer
+det sig om at maale et Legemes Temperatur;
+men et Termometer kan kun vise sin egen
+Temperatur, og man maa derfor altid sikre sig, at
+disse to Temperaturer er identiske. Dette
+medfører ofte betydelige Vanskeligheder ved
+Maalingen. Anvendes et almindeligt
+Kvægsølvtermometer f. Eks. til Maaling af Temperaturen i en
+Vædske paa en saadan Maade, at hele
+Kvægsølvsøjlen ikke er neddykket i Vædsken, vil den
+udestaaende Kvægsølvsøjle oftest have en anden
+Temperatur end Vædsken, og Termometret vil
+derfor vise forkert; man har simple Formler,
+hvorved man kan korrigere for denne Fejl, naar
+man kender Middeltemperaturen af den
+udestaaende Kvægsølvsøjle og dennes Længde.
+Endvidere maa man tage Hensyn til, at Glasset,
+hvoraf Termometret er lavet, ikke straks
+antager det til Temperaturen svarende Rumfang
+(termisk Eftervirkning); dette vil dog ofte ikke
+spille nogen større Rolle. Endelig maa nævnes,
+at et Kvægsølvtermometer p. Gr. a. sin
+forholdsvis store Varmekapacitet altid vil have
+vanskeligt ved at følge Legemets
+Temperaturforandringer, idet dets Visning altid er bagefter
+og det desto mere, jo større
+Termometerbeholderen er, og jo større Nøjagtighed Termometret
+altsaa kan give; noget kan man bøde paa denne
+Mangel ved at gøre Beholderen cylindrisk, saa
+den faar stor Overflade i Forhold til sit
+Rumfang, men sker Temperaturforandringerne blot
+nogenlunde hurtigt, vil man ofte staa sig ved
+at bruge Termoelementer i Stedet for
+Kvægsølvtermometre, til Trods for at T. derved
+bliver noget mere omstændelig.
+
+Ved Maaling af Lufts Temperatur forøges
+Vanskelighederne derved, at Luftens
+Varmekapacitet er saa lille i Sammenligning med
+Termometrets; dette skal med andre Ord i Berøring
+med en stor Mængde Luft, før man kan være
+sikker paa, at det virkelig har antaget Luftens
+Temperatur. Dette opnaas ved
+<sp>Aspirationstermometret</sp> derved, at en lille
+Ventilator, som drives af et Urværk, suger Luften
+gennem et Rør op om Termometerbeholderen. Det
+samme kan ogsaa opnaas ved at gøre
+Termometret fast i en Sejlgarn og svinge det rundt i
+Luften i nogen Tid før Aflæsningen
+(Slyngetermometret). En anden Vanskelighed kommer
+fra, at Varmeudveksling ved Straaling mellem
+Termometret og dets Omgivelser — Jorden, en
+solbeskinnet Væg e. l. — her kan betyde saa
+overordentlig meget. Paa de meteorologiske
+Observationssteder anbringes Termometrene
+derfor oftest i en saakaldet »<sp>engelsk Hytte</sp>«, en
+firkantet hvidmalet Trækasse, hvis Vægge
+bestaar af dobbelte Lag af skraatstillede
+Tremmer, Jalousier, der tillader rigelig
+Gennemtræk. Især maa Termometret naturligvis
+beskyttes mod direkte Bestraaling fra Solen.
+
+Ved T. med optiske Pyrometre bestemmer
+man i Virkeligheden den Temperatur, som et
+absolut sort Legeme vilde have, hvis det
+udstraalede paa nøje samme Maade som det
+betragtede Legeme; men da et absolut sort
+Legeme udstraaler mere end noget andet Legeme
+ved samme Temperatur (jfr. <sp>Straaling</sp>), vil
+den saaledes maalte Temperatur ofte være for
+lav. Man forsyner da tit Pyrometrene med to
+Skalaer, den ene svarende til Udstraalingen fra
+et absolut sort Legeme, den anden til
+Udstraalingen fra Platin, idet der da er en vis
+Sandsynlighed for, at den søgte Temperatur ligger
+imellem de saaledes fundne Værdier; yderligere
+kan man ved nogen Erfaring danne sig et Skøn
+over, hvor nær Straalingskilden kan betragtes
+som et absolut sort Legeme. Jfr.
+<sp>Termometer</sp>. (<sp>Litt</sp>.: <sp>Henning</sp>,
+»Temperaturmessung«; <sp>Geiger og Scheel</sp>, »Handbuch
+der Physik«. Bd IX).
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="temperaturnedsættende">
+<b>temperaturnedsættende</b> kaldes de
+Lægemidler, hvis Virkning ytrer sig ved, at de
+formindsker Legemsvarmen, særlig naar denne er
+sygelig forhøjet. Denne Virkning kan

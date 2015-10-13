@@ -1,0 +1,96 @@
+<sp>Varmemængde</sp>, der udvikles ved
+Forbrændingen, 4) den <sp>Temperatur</sp>, der
+derved opnaas, 5) <sp>Askemængden</sp>, samt 6) i
+specielle Tilfælde det større ell. mindre Indhold
+af <sp>Svovl</sp>. Letantændeligheden er størst for
+luftformigt B., dernæst kommer flydende, og bl.
+fast B. er den størst for porøst B. og for
+saadant, der indeholder megen Brint, f. Eks. stærkt
+harpiksholdigt Træ; ved B., der er fremstillet
+ved en tør Destillation af Træ ell. Stenkul, som
+Trækul, Kokes og Cinders, vil den være størst,
+naar Omdannelsen er sket ved lav Ternp., og
+aftage, jo højere Temp. har været.
+Flammeevnen, d. v. s. Evnen til at give lang Flamme,
+er ikke altid ønskelig; den er afhængig af, om
+der under Forbrændingsprocessen udvikles
+brændbare Luftarter, og følges nogenlunde, men
+for fast B.'s Vedk. ikke fuldstændig, med
+Letantændeligheden.
+
+De Varmemængder, der udvikles ved forsk.
+Sorter B.'s Forbrænding er, alt andet lige,
+kun afhængige af disses kem. Sammensætning.
+Som Maal for Varmemængden benyttes det
+Antal Varmeenheder, Kalorier, som bliver fri
+ved Forbrændingen af 1 Vægtenhed, sædvanlig
+1 kg, af vedk. B., idet man ved en Kalorie
+forstaar den Mængde Varme, der behøves for at
+opvarme 1 kg Vand fra 0°—1°. Det af 1 kg B.
+udviklede Antal Kalorier kaldes dette B.'s
+<sp>Brændværdi</sp>, og denne Størrelse kan
+bestemmes paa fl. Maader; det er dog vigtigt for
+den rette Forstaaelse af Begrebet Brændværdi
+at lægge Mærke til, at den Varmemængde, det
+her drejer sig om, er den, der udvikles, naar
+der foregaar en <sp>fuldstændig</sp> Forbrænding,
+det vil sige, at alt Kulstoffet i Brændslet
+omdannes til Kulsyre og al Brinten til Vand,
+hvorved B. afgiver den største Varmemængde,
+det overhovedet er i Stand til at udvikle, hvad
+der i Praksis aldrig vil naas fuldstændigt, men
+kun mere ell. mindre tilnærmet. Denne
+Varmemængde vil nu staa i et vist Forhold til
+Indholdet af Kulstof, Brint, Ilt o. s. v. i B., men
+er ogsaa i høj Grad afhængig af den Maade,
+hvorpaa disse Stoffer er bundne kem. til
+hinanden; det vil derfor forstaas, at det ikke er
+muligt eksakt at beregne et Stofs Brændværdi
+ud fra Kendskabet til Stoffets procentiske
+Sammensætning. Der er dog gjort talrige Forsøg
+paa at opstille Formler, der for visse Sorter
+B. tilnærmelsesvis løser denne Opgave. For
+Stenkul og analogt fossilt B. anvendes ofte den
+saakaldte »Verbandsformel« (opstillet af
+»Verband für Dampfkessel- und Maschinenbetrieb«),
+der lyder:
+
+Brændværdi = 81.C + 290(H÷O.1/8)+25S÷6W.,
+hvor C = Kulstofprocenten, H =
+Brintprocenten, O = Iltprocenten, S = Svovlprocenten, W
+= Fugtighedsprocenten. Denne Formel, hvis
+teoretiske Begrundelse er meget svag, giver dog
+— nærmest ved et Tilfælde — navnlig for
+Stenkul ret brugbare Værdier; bedre
+Overensstemmelse med de virkelige Forhold giver den af
+Ingeniør, <i>cand. polyt.</i> E. U. G. Ernst udviklede
+Formel:
+Brændværdi = 80,8C+288H+22S÷30,3 O÷6W.
+
+Ved Brunkul og Tørv bør det fundne Resultat
+formindskes med 1 %. Begge Formler forudsætter
+dog, at der er foretaget en nøjagtig
+Elementæranalyse (s. d.) af Stoffet, hvad der er en ret
+besværlig og bekostelig Operation. Bedømmelsen
+af B.'s Værdi ad denne Vej afløses da ogsaa i
+den nyere Tid mere og mere af virkelige
+Brændværdibestemmelser, foretagne ved, at en
+lille, nøjagtig afvejet Mængde af vedk. B. —
+Reglen 1 gr — forbrændes i ren Ilt ved c. 20
+Atmosfærers Tryk i en stærk Staalbeholder,
+der er nedsænket i et Kalorimeter fyldt med
+en afvejet Mængde Vand, hvis
+Temperaturforhøjelse, der maales ved et fintmærkende
+Termometer, inddelt i 1/100°, giver et Maal for
+den ved Forbrændingen udviklede
+Varmemængde. Apparatet, der opr. er angivet af Berthelot
+og senere ændret af Mahler, ses paa vedføjede
+Figur. <i>A</i> er Beholderen, »Bomben«, hvori
+Forbrændingen foregaar; den er fremstillet af
+Nikkelstaal og indvendig emailleret; den afvejede
+B.-Mængde, der ofte komprimeres til en lille
+Briket, anbringes ved <i>g</i>, hvorpaa Beholderen
+fyldes med Ilt af 20 Atmosfærers Tryk gennem
+et Rør, der skrues fast ved <i>d</i>; Tændingen af
+
+<img>Apparat til Bestemmelse af Brændværdi.</img>

@@ -1,0 +1,55 @@
+for Eksempel om Tordenvejr, Skt Elmsild,
+Nordlys.
+<i>D. la C.</i>
+</chapter>
+
+<chapter name="Elektrometer">
+<b>Elektrometer,</b> Apparat til Maaling af
+elektrisk Spændingsforskel. Benævnelsen E. bruges
+særlig om saadanne, der er baserede paa den
+elektrostatiske Tiltrækning og Frastødning
+mellem elektriske Ladninger. Her skal kun de i
+Fysikken anvendte E. omtales. Om de tekn.
+Former, der er inddelte til direkte Aflæsning af
+Spændingen i Volt, de saakaldte <sp>statiske
+Voltmetre</sp>, se <sp>elektriske
+Maaleinstrumenter</sp>. Om
+<sp>Kapillarelektrometret</sp>, der beror paa Forandring af
+Kviksølvets Overfladespænding ved Polarisation, se
+<sp>Kapillarelektrometer</sp>.
+
+De elektrostatiske E. kan deles i
+<sp>Bladelektrometrene</sp>, <sp>Naalelektrometrene</sp>
+og <sp>de absolutte E</sp>. Den sidste E.-Type
+tillader en absolut Bestemmelse af Spændingen ud
+fra Kendskabet til Apparatets egne Dimensioner,
+hvoraf Navnet; de to førstnævnte maa justeres
+med bekendte Spændinger, for at Betydningen
+af deres Udslag skal være kendt.
+
+<sp>Bladelektrometrene</sp> er i Princippet
+et almindeligt Elektroskop (s. d.), blot forsynet
+med en Skala til Aflæsning af Bladenes Udslag.
+Fig. 1 viser en moderne Udførelse af et
+Bladelektrometer, konstrueret; af <sp>Elster</sp> og
+<sp>Geitel</sp> og særlig anvendt ved luftelektriske
+Maalinger. Metalstøtten, paa hvilken
+Aluminiumbladene er fæstede, bæres af en Ravprop i
+Bunden af E. Ravproppen kommer kun i
+Berøring med Luften inde i E., der holdes tør, ved
+at anbringe et Stykke Natrium ell. et andet
+stærkt Tørringsmiddel i et Siderør paa E.
+Isolationen er derfor fortrinlig selv i fugtigt Vejr.
+Tilledningen til Bladene sker gennem Stiften <i>A</i>,
+der gaar frit gennem E.'s Hals. Aflæsningen
+foretages med en Lup. Den forreste Glasside i
+E. er forsølvet forneden. Skalaen er anbragt
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+

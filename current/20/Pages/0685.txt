@@ -1,0 +1,152 @@
+Bertram« er bleven berømt og stadig spilles. »Ges.
+komische Teaterstücke« (4 Bd, 1859—67).
+<i>C. B-s.</i>
+</chapter>
+
+<chapter name="Rædselsperioden">
+<b>Rædselsperioden,</b> det Tidsrum af den fr.
+Revolution, som strakte sig fra Girondinernes
+Fald 2. Juni 1792, til Robespierre blev styrtet
+27. Juli 1794. Jakobinerne, der raadede i
+Velfærdskomiteen, Sikkerhedsudvalget og
+Revolutionstribunalet, erklærede det for nødvendigt at
+indjage alle Modstandere af Friheden Rædsel
+og lod derfor foretage Massehenrettelser saavel
+i Paris som i Departementerne.
+<i>(J. L.)</i>
+</chapter>
+
+<chapter name="Rægle">
+<b>Rægle</b> kaldes i Norge en Fortælling med
+mange Gentagelser. Ordet er identisk med
+oldnorsk <sp>regla</sp>, »Regel« (af lat. <i>regula</i>). Bet.
+stammer vistnok fra de lærde Skoler og har sin
+Opr. i den lat. Grammatiks Ordramser. Ofte
+forbindes Ordet med <sp>rispe</sp> (f. Eks. Vang's »Reglo
+aa rispo ifraa Valdris«), som er oldnorsk
+<sp>responsi</sp>, »Sang, hvormed Koret falder ind« (af
+lat. <i>responsorium</i>, egl. »Svar«).
+<i>H. F.</i>
+</chapter>
+
+<chapter name="Ræk">
+<b>Ræk</b> (tysk <sp>Reck</sp>, betegner paa Plattysk
+enhver vandret Stang paa et Stativ, hvorpaa der
+kan hænges Vasketøj til Tørring, Garn til
+Blegning o. s. v.) er tillige med Barren den tyske
+Turns Hovedredskab. Da Turnvater Jahn nogen
+Tid paa Hasenheide havde ladet sine Turnere
+gøre forsk. Hæveøvelser i Træernes lave,
+vandrette Grene, fandt en snild Tømrer paa at
+grave to lodrette Opstandere ned i Jorden og
+over dem at lægge en vandret rund Stang.
+Dermed var den første R. lavet. Den Mængde
+Øvelser, der herpaa kunde gøres, gjorde snart
+Redskabet bekendt og udbredt, og nu findes det i
+større ell. mindre Antal i enhver tysk Turnsal
+og Turnplads baade i de Voksnes Foreninger og
+ved Skolerne. Nachtegall i Danmark og Ling i
+Sverige forkastede dette Redskab, fordi det let
+førte til Overdrivelser, og fordi det var et
+Enkeltmandsredskab for de faa dygtigste. Da
+næsten alle Øvelser kræver, at Armene skal bære
+hele Legemets Vægt, er det nemlig kun de
+stærke og veludviklede, der kan bruge R. med
+Fordel, og selv de kan let misbruge det, hvad
+mange Turneres daarlige Holdning vidner om.
+R. bestaar nu til Dags af en c. 2 m lang rund
+Asketræs Stang ell. oftere Staalstang, 3—4 cm i
+Gennemsnit, baaret af to lodrette Opstandere,
+saaledes indrettede, at Rækstangen kan sættes i
+forsk. Højde.
+<i>K. A. K.</i>
+</chapter>
+
+<chapter name="Ræker">
+<b>Ræker</b> (norsk), d. s. s. <sp>Rejer</sp>.
+</chapter>
+
+<chapter name="Række (mat.)">
+<b>Række</b> (mat.). I Matematikken forstaas
+herved en R. Størrelser, <sp>Led</sp>, der dannes efter en
+bestemt Lov; denne Lov kan bestaa i en
+Angivelse af, hvorledes Leddet med et vilkaarligt
+Nummer <i>n</i>, det <sp>almindelige Led</sp>, afhænger af
+<i>n</i> ell. være udtrykt ved en Ligning mellem et
+Antal paa hinanden flg. alm. Led, som ved
+rekurrente R. Eksempler paa R. findes allerede i
+den elementære Aritmetik, nemlig aritmetiske
+R. ell. Differensrækker med det alm. Led <i>a</i> +
+(<i>n</i>—1) <i>d</i> og geom. R. ell. Kvotientrækker med
+det alm. Led <i>a</i> . <i>q<sup>n—1</sup></i>; de senere Afsnit af
+Matematikken behandler udførlig baade R. med et
+endeligt Antal Led og de uendelige R., særlig
+<sp>Potensrækkerne</sp>, hvis alm. Led har
+Formen <i>A<sub>n</sub>x<sup>n</sup></i>, hvor <i>A<sub>n</sub></i> ikke afhænger af <i>x</i>. Den
+vigtigste Opgave vedrørende R. er
+Bestemmelsen af deres Sum. Summationen af endelige R.
+behandles i Algebraen samt i Integralregningen
+og den omvendte Differensregning; her maa
+nævnes en af Euler opstillet Summationsformel.
+Hvis Summen <i>S<sub>n</sub></i> af de <i>n</i> første Led i en
+uendelig R. nærmer sig til en endelig bestemt
+Grænseværdi <i>s</i>, naar <i>n</i> vokser i det uendelige, siges R.
+at være <sp>konvergent</sp> ell. at konvergere, og
+<i>s</i> kaldes dens <sp>Sum</sp>; idet <i>s</i> = <i>s<sub>n</sub></i> + <i>r<sub>n</sub></i>, vil <i>r<sub>n</sub></i>,
+R.'s <sp>Rest</sp>, aftage til 0. I modsat Fald er R.
+<sp>divergent</sp>. Saaledes er den uendelige
+Kvotientrække 1 + 1/2 + 1/4 + 1/8 + . . . konvergent
+og har Summen 2, medens den harmoniske R.
+1 + 1/2 + 1/3 + 1/4 + . . . er divergent, idet man
+ved at medtage tilstrækkelig mange Led kan faa
+en lige saa stor Sum, som man vil. En R. kan
+ogsaa være divergent ved, at den oscillerer, ɔ:
+at man ved at summere flere og flere Led faar
+Summer, der svinger mellem visse Grænser;
+saaledes vil man ved R. 1 — 1 + 1 — 1 . . .
+afvekslende faa Summen + 1 og — 1. Hvis en
+R. har samme Sum, ligegyldigt i hvilken Orden
+man tager Leddene ved Summationen, kaldes den
+<sp>absolut</sp> konvergent, ellers <sp>betinget</sp>
+konvergent. En absolut konvergent R. kendes paa,
+at Leddenes Moduler (se <sp>Modulus</sp>) danner
+en konvergent R. Ved en betinget konvergent
+R. kan man faa en hvilken som helst Sum ved
+at tage Leddene i en passende Orden; som Eks.
+kan nævnes 1 — 1/2 + 1/3 — 1/4 + . . ., hvor
+Leddenes Moduler danner den nys nævnte
+divergente harmoniske R. En R. med komplekse Led
+kan deles i en reel R. og en reel R.
+multipliceret med kvadratrod(—1); den er konvergent, hvis begge
+disse R. er det. Til Afgørelse af Spørgsmaalet
+om en forelagt R.'s Konvergens eller Divergens
+er der opstillet Kriterier af Cauchy, Duhamel,
+Raabe, Bertrand, samt et megt alm., der
+omfatter de andre, af Kummer og Jensen. R.
+anvendes ved Funktioners Beregning, idet man
+søger at danne en R., oftest en Potensrække,
+som den ovf. nævnte, hvor <i>x</i> er den paagældende
+Funktions uafhængige variable, af en saadan
+Beskaffenhed, at man ved at summere tilstrækkelig
+mange af dens Led kan faa en lige saa god
+Tilnærmelse til Funktionens Værdi, som man
+vil, og tillige for enhver Værdi af <i>n</i> kender en
+Grænse for den Fejl, som man begaar ved at
+sætte Funktionen = Summen af de <i>n</i> første Led.
+Det kan ske, at, naar <i>x</i> nærmer sig til en vis
+Værdi, vil Antallet <i>n</i> af Led, der maa medtages,
+for at Fejlgrænsen skal faa en opgiven Størrelse,
+vokse i det uendelige; i et Interval for <i>x</i>, hvor
+dette ikke indtræffer, siges R. at være
+<sp>ligelig konvergent</sp>. Formler til en saadan
+Udvikling i R. af Funktioner er opstillede af
+Taylor, Mac Laurin, Lagrange, Laplace; Fourier
+har givet en Metode til at danne R., hvis alm.
+
+Led har Formen <i>A<sub>n</sub> sin nx</i> el. <i>A<sub>n</sub> cos nx</i>, ogsaa for
+Funktioner, der geom. fremstilles ved Buer,
+tagne fra forsk. Kurver. Enhver konvergent
+Potensrække vil naturligvis, hvad enten den er
+fremkommen ved en kendt Funktions Udvikling
+ell. ej, være en fuldstændig defineret Funktion
+af <i>x</i>, og paa denne Definition har Weierstrass

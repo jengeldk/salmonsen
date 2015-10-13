@@ -1,0 +1,106 @@
+da Perioden er forsk., kommer Svingningerne
+snart ud af Takt, og naar de da hver for sig
+giver Udsving i modsat Retning, bliver det
+resulterende Udsving Differensen af
+Amplituderne, altsaa Nul, hvis de er lige store. Det er
+nu det karakteristiske ved et koblet Systems
+Egensvingninger ved to Frihedsgrader, at de
+altid kan skrives som en Sum af to
+Sinussvingninger, der hver har sin bestemte Frekvens.
+Disse Frekvenser er de samme for begge de
+svingende Systemer og kaldes Systemets
+Hoved- ell. Egenfrekvenser. Kobler man to
+Systemer, der som fri Systemer har
+Egenfrekvenserne <i>n</i> og <i>m</i>, sammen, saa vil det koblede
+Systems Egenfrekvenser <i>n<sub>k</sub></i>, og <i>m<sub>k</sub></i>, altid ligge
+<sp>uden for</sp> og paa hver sin Side af
+Frekvensintervallet fra <i>n</i> til <i>m</i>. Koblingen vil altsaa
+fjerne Egenfrekvenserne fra hinanden, og dette
+vil endda finde Sted, selv om de to
+Egenfrekvenser opr. var ens. Ang. det nærmere om
+disse Forhold, der især er af stor Bet. ved
+elektriske Svingninger, henvises til Art.
+<sp>Radiotelegrafi</sp>.
+
+Af særlig Interesse er det Tilfælde, hvor et
+koblet System ved Paavirkning af en ydre
+periodisk og udæmpet Kraft tvinges til at udføre
+Svingninger med den ydre Krafts Periode. Vi
+forudsætter, at den ydre Kraft kun paavirker
+System I, og at System II alene sættes i
+Bevægelse gennem Koblingen. Analogt med
+Forholdet ved de tvungne Svingninger af et enkelt
+svingende System, kan vi her for hver af de
+to Systemer optegne en Resonanskurve, d. v. s.
+en Kurve, som angiver, hvorledes Størrelsen
+af Udsvinget i Systemet afhænger af den
+paatvungne ydre Periode, idet den ydre Krafts
+Amplitude tænkes holdt konstant, medens dens
+Periode efterhaanden antager alle mulige
+Værdier. Fig. 6 viser et Eksempel paa saadanne
+Resonanskurver. <sp>Før</sp> Koblingen var de to
+Systemer ens og havde hver den ved den
+punkterede Linie antydede Resonanskurve. Deres
+Egenperiode ligger ved <i>T1</i>, og naar den
+paatvungne Svingning har denne Periode, er der
+Maksimum af Udslag. <sp>Efter</sp> at Koblingen er
+kommet i Stand, angiver Kurve I
+Udsvingsamplituden i System I, paa hvilket jo den ydre
+periodiske Kraft direkte angriber. Vi ser, at
+der nu er to Maksima, liggende ret nær ved
+Systemets to Hovedfrekvenser, og hvad der
+især er interessant, den Periode <i>T1</i>, som uden
+Kobling gav Maksimum af Udslag, giver nu
+Minimum, og dette Minimum er endda mindre
+i System I end i System II — hvis
+Resonanskurve er angivet ved Kurve II — til Trods for,
+at den periodiske ydre Kraft, som nævnt,
+direkte angriber I, medens II kun forudsættes
+paavirket gennem Koblingen. Man gør Brug af
+dette paradoksale Forhold i Praksis, idet man
+for at formindske Svingningerne i et System,
+der paavirkes af en udæmpet periodisk Kraft,
+til Systemet kobler et andet System med
+passende lille Dæmpning og med en fri
+Egenperiode lig med den periodiske Krafts. Dette er
+f. Eks. Tilfældet i Frahm's Slingretank, hvor et
+Skibs Slingring formindskes ved, at Skibet
+rummer en Vandbeholder, formet omtr. som et
+Urør. Vandet i denne, som repræsenterer
+System II, kommer i stærke Svingninger, medens
+Skibets egne Svingninger formindskes. Man kan
+demonstrere det her omtalte Forhold ved
+Apparatet, vist i Fig. 7. Pendulet <i>P</i> skal her være
+meget tungt, saaledes at det repræsenterer den
+ydre udæmpede Kraftkilde. Urøret med Vandet
+er afpasset saaledes, at naar man sætter
+Propper i det, hvorved Vandets Bevægelser i
+Forhold til Røret forhindres, vil man faa samme
+Egensvingningstid, som hvis man lader Røret
+staa stille og blot lader Vandet skvulpe i
+Røret. Man sætter først Propperne i og lader
+Pendulet svinge, idet man efterhaanden
+forandrer Pendulets Svingningstid ved at indstille
+paa Skydeloddet <i>P</i>; man faar da
+Udsvingsamplituder svarende til den punkterede Kurve af
+det ukoblede System med meget stærke
+Udsving ved Egenperioden. Men tager man nu
+ved den Propperne ud af Urøret, hvorved man
+tilkobler det skvulpende Vand, saa vil selve
+Urørets Svingninger blive smaa, medens
+<sp>Vandets</sp> i Urøret vil bevæge sig livligt. Det vilde
+føre for vidt at komme yderligere ind paa de
+koblede Systemers Forhold, der afhænger
+stærkt af Koblingsgraden og af Systemernes
+Frekvens og Dæmpning. Der henvises her til
+Art. <sp>Radiotelegrafi</sp>.
+
+6) <sp>Svingninger med uendelig
+mange Frihedsgrader</sp>. Vi har set ved
+Eksemplet Fig. 4 med de to Penduler, der var
+koblet til hinanden, at den Energi, som opr.
+var meddelt Pendul I, efterhaanden gik over
+
+<img>Fig. 6.</img>
+
+<img>Fig. 7.</img>

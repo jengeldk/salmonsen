@@ -1,0 +1,151 @@
+en hul Platinkegle, hvori der sidder en
+Platinsvamp; det hele er paa passende Maade
+anbragt paa et Skaft. Naar man, efter at
+Brænderen er opvarmet, puster en Blanding af Luft
+og Petroleumsæterdampe ind i Brænderen,
+foregaar der en stadig Forbrænding af
+Luftblandingen, hvorved Platinen holdes glødende,
+stærkere og svagere, alt efter som der føres mere
+eller mindre Knaldluft til. <sp>Paquelin</sp>'s T. har
+ved Siden af det galvaniske T. detroniseret alle
+andre Kauterier af hedt Metal.
+<i>(E. A. T.). V. Sch.</i>
+</chapter>
+
+<chapter name="Termokemi">
+<b>Termokemi.</b> Enhver kemisk Proces
+ledsages af en Forandring i det reagerende Systems
+Varmetilstand og dermed i dets Energiindhold.
+Forandringen kan i mange Tilfælde være meget
+betydelig, i andre saa ringe, at den vanskelig
+lader sig paavise. Efter J. Thomsen's Forslag
+kaldes Forandringen i Varmetilstand for
+<sp>Varmetoningen</sp> ved den paagældende Proces.
+Afgives der ved denne Proces Varme til
+Omgivelserne, da kaldes Processen
+<sp>eksotermisk</sp>; Varmetoningen er da positiv; hvis
+derimod Processen foregaar saaledes, at der
+optages Varme (Energi) fra Omgivelserne, kaldes
+den endotermisk; Varmevirkningen er da
+negativ. T. har til Opgave at undersøge
+Varmetoningerne ved de forskellige kemiske
+Reaktioner, og den giver os derved et Indblik i de
+Energiforandringer, som finder Sted hos de
+reagerende Stoffer. De fundne Størrelser giver
+ikke noget direkte Kendskab om Størrelsen af
+de Kræfter, som virker ved de kemiske
+Processer; de er kun <sp>et Udtryk for
+Forskellen mellem de oprindelige og de
+dannede Molekylers Energi</sp>.
+
+Varmetoningen lader sig kun maale med
+tilstrækkelig Sikkerhed ved Processer, som
+forløber i forholdsvis kort Tid; saadanne
+Reaktioner foregaar oftest i Vædsker (Opløsninger)
+eller ved hurtige Iltninger (Oxydationer),
+navnlig ved Forbrænding. De reagerende Stoffer
+bringes til at omsætte sig med hinanden i et
+Kalorimeter (s. d.), og det fundne Resultat
+udtrykkes i Varmeenheder eller Kalorier og
+beregnes ikke paa Masseenhed, men paa den
+kemiske Enhed, der benævnes
+<sp>Grammolekyle</sp> eller <sp>Mol</sp> ɔ: Molekylvægten udtrykt i gr.
+Resultatet kan fremsættes, idet man giver den
+sædvanlige kemiske Ligning en Udvidelse,
+hvorved den fra <sp>Masseligning</sp> bliver til
+<sp>Energiligning</sp>. Ligningen 2Cu+S=Cu<sub>2</sub>S
++ 18300 Kalorier siger ikke alene, at 127,2 g
+Kobber forener sig med 32 g Svovl til et
+Grammolekyle = 159,2 g Svovlkobber, men ogsaa, at
+der ved denne Proces frigøres 18300
+Gramkalorier Varme. Skrives Ligningen paa følgende
+Maade: 2Cu+S÷ 18300 Kal. = Cu<sub>2</sub>S, da
+udtrykker den, at et Grammolekyle Svovlkobber,
+Cu<sub>2</sub>S, indeholder saa meget mindre Energi end
+de til dette Molekyles Dannelse nødvendige
+Mængder Kobber og Svovl, som svarer til 18300
+Gramkalorier. Den omtalte Ligning kan ogsaa
+skrives (Cu<sub>2</sub>, S) = 18300 Kalorier. Da imidlertid
+en Forbindelses Energiindhold varierer med
+dens Tilstandsform, maa det udtrykkelig
+anføres, for hvilke Tilstandsformer hos de
+reagerende og de dannede Stoffer det fundne
+Resultat er gyldigt.
+
+Som Grundlag for T. benyttes især to Love;
+den første af disse er fremsat af Lavoisier og
+Laplace; den siger, at den samme
+Varmemængde, som udvikles ved Dannelsen af en
+Forbindelse, atter maa tilføres for at sønderdele den
+i de oprindelige Bestanddele. Den anden Lov
+er fremsat af G. H. Hess 1840; den siger, at
+den Varmeudvikling, som finder Sted, naar et
+givet System af Molekyler omsætter sig til et
+andet, kun er afhængig af Begyndelses- og
+Slutningstilstanden og altsaa er ganske den samme,
+hvad enten Omsætningen sker direkte eller
+gennem forskellige Mellemled. (Det forudsættes
+dog, at Processerne forløber ved konstant
+Temperatur og uden at udføre elektrisk, mekanisk
+eller andet Arbejde). Paa Grundlag af denne
+Lov lader det sig gøre at bestemme
+Varmetoninger, som kun med Vanskelighed, eller
+maaske slet ikke, lader sig finde direkte. Som
+Eksempel kan anføres, at Varmeudviklingen
+ved Kuldioxydets Dannelse vil være den
+samme, hvad enten man først brænder Kulstoffet
+til Kulilte og derefter denne til Kuldioxyd,
+eller man direkte brænder Kulstoffet til
+Kuldioxyd. Da det nu næppe lader sig gøre at
+bestemme Varmetoningen ved Forbrænding af
+Kulstof til Kulilte direkte, kan man finde den
+ved Hjælp af den sidstnævnte Lov, idet man
+bestemmer Varmetoningen ved Forbrændingen
+af Kulstof til Kuldioxyd og af Kulilte til
+Kuldioxyd. Man har:
+
+(C,O<sub>2</sub>)=97600 Kal. og (CO,O)=68200 Kal.
+altsaa (C,O)=97600 ÷ 68200=29400 Kal.
+
+Begge de nævnte Love blev 1858 af J.
+Thomsen udviklede som Konsekvenser af den
+mekaniske Varmeteori, og den videre Udvikling af
+T. skyldes i væsentlig Grad den nævnte
+Forsker samt den franske Kemiker M. Berthelot.
+
+Varmetoningen troede man tidligere var et
+Maal for Affiniteten mellem de kemiske Stoffer;
+at dette imidlertid ikke kan være rigtigt, kan
+bl. a. ses af, at Processer kan være
+endotermiske og alligevel kan forløbe frivilligt. Den
+nærmere Udredning af dette og hertil knyttede
+Problemer kaldes nu Termodynamik (s. d.).
+
+Alt efter Processens Art, ved hvilken
+Varmetoningen finder Sted, benævner man
+Varmetoningen forskelligt. Den Varmetoning, der
+finder Sted ved Blanding eller Fortynding af
+Vædsker, kaldes <sp>Blandings</sp>- eller
+<sp>Fortyndingsvarme</sp>, Varmetoningen ved
+Opløsning af Luftarter eller faste Stoffer i Vand
+kaldes <sp>Absorptions</sp>- eller
+<sp>Opløsningsvarme</sp>, Varmetoningen ved Neutralisation af
+opløste Syrer og Baser,
+<sp>Neutralisationsvarme</sp> (se <sp>Reaktion</sp>). Naar en
+Forbindelse dannes af sine Elementer, kaldes den derved
+frembragte Varmetoning Forbindelsens
+<sp>Dannelsesvarme</sp>; forbrændes organiske
+Stoffer, da kaldes den derved frembragte
+Varmetoning Stoffets <sp>Forbrændingsvarme</sp>.
+Bestemmelsen af denne sidste har faaet stor
+Betydning for Læren om Ernæring (s. d.).
+
+M. H. t. den nærmere Udførelse af
+termokemiske Undersøgelser og til Resultater af
+saadanne kan henvises til <sp>Julius Thomsen</sp>:
+»Thermochemische Untersuchungen«, Bind 1—4
+og til samme Forfatters »Systematisk
+gennemførte termokemiske Undersøgelsers numeriske
+og teoretiske Resultater« (1905).
+<i>(O. C.). S. P.</i>
+</chapter>

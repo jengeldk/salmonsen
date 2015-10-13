@@ -1,0 +1,143 @@
+vist praktisk talt sin fulde Styrke i Løbet af
+kort Tid, naar Selvinduktionen ikke er meget
+stor. Beregner man da den Energi, som
+Elektricitetskilden har afgivet, fra Strømmen blev
+sluttet, viser det sig, at Energien ikke
+udelukkende er brugt til Varme i Ledningen ell. til
+det, Strømmen i øvrigt udretter, men at en
+Del, nemlig 1/2 <i>L I<sup>2</sup></i> Joule, hvor <i>L</i> er
+Selvinduktionskoefficienten i Henry og <i>I</i> Strømstyrken i
+Ampère (se <sp>elektriske
+Maaleenheder</sp>), findes i Kredsløbet i en særlig
+Energiform, der kaldes den e. E. Udtrykket for denne
+minder stærkt om Udtrykket for den kinetiske
+Energi (levende Kraft) af et Legeme i
+Bevægelse, nemlig 1/2 <i>mh</i><sup>2</sup>, hvor <i>m</i> er Massen og <i>h</i>
+Hastigheden. - Efter de nugældende Anskuelser
+om den elektriske Strøms Natur (se
+<sp>Elektronteori</sp>) bruges den e. E. til at sætte
+Elektronerne i Ledningen i Bevægelse, hvorved
+der om dem skabes et magnetisk Felt; den e. E.
+har altsaa sit Sæde i det Magnetfelt, som
+Strømmen frembringer. Se i øvrigt
+<sp>Selvinduktion</sp>.
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Elektrokultur">
+<b>Elektrokultur.</b> Allerede i 18. Aarh.
+begyndte man at undersøge Elektricitetens
+Virkning paa Planterne med den Tanke for Øje at
+frembringe forøget Foldudbytte, tidligere
+Modning o. s. v. Forsøgene, der blev anstillede
+paa forskellige Maader og ofte med meget
+primitive Midler, gav meget vekslende Resultater.
+I Løbet af de senere Aar er Spørgsmaalet om
+Elektricitetens Indflydelse paa Planternes
+Udvikling igen blevet aktuelt. Dette skyldes
+navnlig Undersøgelser af den finske Prof. Lemström.
+Forsøgene blev anstillede paa den Maade, at
+der over de Planter, som skulde elektriseres,
+blev anbragt isolerede Metaltraadnet, som blev
+sat i Forbindelse med den ene Pol af en
+Elektrisermaskine. Elektriseringen syntes navnlig at
+virke gunstigt paa Jordbærplanter. Modningen
+indtraf hos de elektriserede Planter 25 Dage
+før end hos de Planter, der ikke blev
+elektriserede. Senere er der, dels af Lemström, dels
+af andre, navnlig eng. Forskere, anstillet talrige
+Markforsøg efter lgn. Principper. I visse
+Tilfælde kunde der spores en gunstig Virkning
+af Elektriseringen, i andre Tilfælde derimod
+ikke, og undertiden syntes Elektriciteten
+endogsaa at virke skadeligt paa Planterne.
+Elektricitetens Indflydelse paa og Bet. for
+Planternes Udvikling kan saaledes endnu langtfra siges
+at være tilstrækkelig belyst.
+<i>B. J.</i>
+</chapter>
+
+<chapter name="Elektroluminescens">
+<b>Elektroluminescens,</b> se <sp>Luminescens</sp>.
+</chapter>
+
+<chapter name="Elektrolyse">
+<b>Elektrolyse,</b> kem. Sønderdeling ved
+elektrisk Strøm. Elektricitetsledningen gennem de
+Vædsker, der har en nogenlunde stor elektrisk
+Ledningsevne (bortset fra Kviksølv o. a.
+smeltede Metaller), er væsensforskellig fra
+Elektricitetsledningen gennem Metallerne derved, at den
+i Vædsken er uadskillelig forbundet med en
+Stoftransport og derigennem med kemiske
+Processer. (De ledende Vædsker kaldes undertiden
+Ledere af 2. Klasse i Modsætning til de
+metallisk ledende Stoffer, der er Ledere af 1. Klasse;
+se ang. Elektricitetsledningen i Metaller
+<sp>Elektronteorien</sp>, smlg. ogsaa <sp>elektrisk
+Strøm i Luftarter</sp>). De herhenhørende
+Fænomener udgør Indholdet af Elektrokemien;
+af den behandles i Læren om E. de Fænomener,
+hvor Hovedsagen er Anvendelse af elektrisk
+Energi til Frembringelse af kemiske Processer;
+de omvendte Tilfælde, Frembringelse af elektrisk
+Energi ved kemiske Processer og altsaa paa
+Bekostning af kem. Energi, behandles i Teorien
+for de <sp>galvaniske Elementer</sp> (s. d.).
+De to Omraader kan imidlertid ikke adskilles
+i det enkelte, det bliver Bruttoprocessen, der er
+afgørende for Inddelingen. I nærværende
+Behandling af E. lægges Hovedvægten paa den
+fysiske Side; de vigtige kemiske og tekn.-kemiske
+Anvendelser omtales i særlige Artikler om de
+enkelte Processer.
+
+Fig. 1 forestiller et Kar med den Vædske,
+hvorigennem den elektriske Strøm skal sendes.
+Strømmen ledes ind i og bort fra Vædsken
+gennem Metalpladerne ell. -stængerne <i>A</i> og <i>K</i>,
+<sp>Elektroderne</sp> (undertiden anvendes Kul).
+Den positive <i>A</i>, hvor Strømmen træder ind,
+kaldes <sp>Anoden</sp>, den negative <i>K</i>, hvor
+Strømmen træder ud, kaldes <sp>Katoden</sp>. Anoden er
+altsaa i Forbindelse med Elektricitetskildens positive Pol,
+Katoden med dens negative; i Vædsken gaar
+Strømmen <sp>fra</sp> Anoden <sp>til</sp> Katoden. Vi
+tænker os, at vi som Elektricitetskilde bruger et
+eller andet Element, f. Eks. en
+Akkumulator, og at Strømmen fra denne foruden
+gennem Karret sendes gennem et Apparat til
+Maaling af Strømstyrken, et Ampèremeter. Er
+Vædsken destilleret Vand, vil Ampèremetret kun
+vise en overordentlig lille Strømstyrke, og det
+samme vil være Tilfældet med de allerfleste
+rene Vædsker, f. Eks. ogsaa ren Svovlsyre;
+næsten alle <sp>rene</sp> Vædsker er meget slette
+Ledere for Elektricitet. Men sættes f. Eks. lidt
+Svovlsyre til Vandet, vil Strømstyrken stige
+stærkt, da den fortyndede Svovlsyre er en ret
+god Leder; det samme vil i større ell. mindre
+Grad være Tilfældet ved Tilsætning af de fleste
+Syrer, Baser og Salte. Alle saadanne Stoffer,
+der i sig selv ogsaa er slette Ledere, men ved
+Opløsning i Vand gør dette til en relativt god
+Leder, kaldes <sp>Elektrolyter</sp>; i Reglen
+bruges dette Navn ogsaa om selve den ledende
+Opløsning. Strømmens Ledning gennem
+Elektrolyten kaldes elektrolytisk i Modsætning til den
+metalliske Ledning. Det er nu karakteristisk
+for den elektriske Strøms Gennemgang gennem
+en saadan Elektrolyt, 1) at der finder kemiske
+Processer Sted ved Grænsefladerne mellem
+Elektroder og Vædske, f. Eks. i den fortyndede
+Svovlsyre ved Platinelektroder en Luftudvikling. -
+2) at der finder Koncentrationsændringer af
+Opløsningen Sted under Strømmens
+Gennemgang; dette iagttages lettest i en farvet
+Opløsning som Kobbersulfat. - 3) at Ohm's Lov i
+Reglen ikke gælder for den. Hvis vi f. Eks. tilføjer
+endnu en Akkumulator i Række med den
+første, saa at den elektromotoriske Kraft bliver
+fordoblet, uden at Modstanden forøges
+
+<img>Fig. 1.</img>

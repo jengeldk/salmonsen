@@ -1,0 +1,114 @@
+Straale <i>SO</i> rettet mod det optiske Midtpunkt.
+Tillige er som før vist Gangen af en Straale
+<i>B</i><sub>1</sub> <i>S</i> gennem det forreste Brændpunkt; efter
+Brydningen bliver den parallel med Aksen.
+Skønt denne Straale ikke træffer L., kan den
+dog benyttes ved Konstruktionen. For en L.,
+der har en anden Form end den
+dobbelthvælvede, gælder de samme Ligninger, der
+bestemmer Brændvidden <i>p</i> og Foreningspunkternes
+Beliggenhed, naar man regner Radien til en
+hul Linseflade for at være negativ, medens en
+plan Flades Krumningsradius er uendelig stor.
+En L., der som den hidtil betragtede kan samle
+Straaler fra et fjernt Punkt til et virkeligt
+Brændpunkt, kaldes en <sp>Samlelinse</sp>; for
+den bliver <i>p</i> beregnet af Formelen positiv. De 3
+mulige Former af Samlelinser er vist først i Fig.
+4; deres Navne er <sp>bikonveks</sp>,
+<sp>plankonveks</sp> og <sp>konkavkonveks</sp>. Da den sidstes
+hule Side har størst Krumningsradius, bliver
+dens <i>p</i> ogsaa positivt. I Modsætning hertil staar
+<sp>Spredelinserne</sp>; naar disse rammes af
+et Bundt (parallelle) Straaler fra et fjernt
+Punkt i Linsens Akse, spreder de Straalerne,
+som om de kom fra et indbildt Brændpunkt
+paa samme Side af L. som Straalepunktet;
+overensstemmende hermed bliver <i>p</i> beregnet af
+Formelen negativ. De 3 mulige Former af
+Spredelinser, henh. <sp>bikonkav</sp>,
+<sp>plankonkav</sp> og <sp>konvekskonkav</sp> er vist sidst i
+Fig. 4. I Fig. 5 er vist Konstruktionen af et
+Billede i en Spredelinse; en Straale <i>SD</i>
+parallel med Aksen brydes, som om den kom fra det
+indbildte Brændpunkt <i>B</i><sub>2</sub>, en Straale <i>SO</i>
+gennem det optiske Midtpunkt gaar ubrudt
+igennem. En (ikke vist) Straale rettet mod <i>B</i><sub>1</sub> vilde
+af L. sendes videre parallel med Aksen.
+Straalepunktet <i>S</i> har sit indbildte Foreningspunkt i <i>F</i>,
+og <i>SS</i><sub>1</sub> faar sit indbildte Billede i <i>FF</i><sub>1</sub>.
+Formelen 1/<i>a</i> + 1/<i>f</i> = 1/<i>p</i> giver <i>f</i> negativ og numerisk
+mindre end <i>a</i> for alle positive Værdier af <i>a</i>, da <i>p</i>
+er negativ.
+
+En alm. <sp>Teori for optisk
+Afbildning</sp> er udviklet af <sp>Abbe</sp>. Naar et Bundt
+Lysstraaler, der udgaar fra et Punkt <i>P</i>, efter
+at være undergaaet et Antal Spejlinger og
+Brydninger skærer hverandre i et andet Punkt <i>P</i><sup>1</sup>,
+kaldes <i>P</i><sup>1</sup> et (optisk) Billede af <i>P</i>; Billedet er
+virkeligt, dersom Straalerne virkelig skærer
+hinanden, og indbildt, dersom kun deres
+Forlængelser bagud skærer hinanden i <i>P</i><sup>1</sup>.
+Samlingen af Punkter <i>P</i> kaldes Objektrummet,
+Samlingen af Billedpunkter <i>P</i><sup>1</sup> kaldes
+Billedrummet; <i>P</i> og <i>P</i><sup>1</sup> benævnes ogsaa konjugerede
+Punkter. I saa godt som alle praktisk vigtige
+Tilfælde er Afbildningen symmetrisk om en
+Akse (centreret Afbildning). Ganske i Alm. uden
+Hensyn til, hvorledes Afbildningen kommer i
+Stand, gælder det da, at der eksisterer 2 paa
+Aksen vinkelrette <sp>Hovedplaner</sp>, der har
+den Egenskab, at ethvert Punkt i den ene
+afbildes i et Punkt i den anden Hovedplan i
+samme Afstand fra Aksen. Endvidere eksisterer
+der 2 andre paa Aksen vinkelrette Planer,
+Brændplanerne, med den Egenskab, at
+et Bundt parallelle Straaler i Objektrummet
+samles i et Punkt af Billedrummets
+Brændplan, og et Bundt Straaler fra et Punkt i
+Objektrummets Brændplan bliver til et Bundt
+parallelle Straaler i Billedrummet. I
+Objektrummet kaldes Afstanden mellem Brændplan
+og Hovedplan Objektrummets Brændvidde,
+ligeledes kaldes i Billedrummet Afstanden
+mellem Hovedplan og Brændplan Billedrummets
+Brændvidde. Disse Brændvidder er i Alm. ikke
+lige store. Endelig eksisterer der 2 Punkter
+paa Aksen, <sp>Knudepunkterne</sp>, saaledes
+at en Straale i Objektrummet gennem det ene
+Knudepunkt bliver i Billedrummet til en
+dermed parallel Straale gennem det andet
+Knudepunkt. Afstanden fra Objektrummets
+Hovedplan til dets Knudepunkt er lig Billedrummets
+Brændvidde og omvendt, saa at
+Knudepunkternes Afstand bliver lig Hovedplanernes Afstand.
+I Fig. 6 er <i>H</i><sub>1</sub> <i>H</i><sub>2</sub> Hovedplanerne, <i>B</i><sub>1</sub> <i>B</i><sub>2</sub>
+Brændplanerne, <i>K</i><sub>1</sub> <i>K</i><sub>2</sub> Knudepunkterne.
+Brændplanernes Aksepunkt kaldes Brændpunkterne
+<i>B</i><sub>1</sub> og <i>B</i><sub>2</sub>, Hovedplanernes Aksepunkt kaldes
+Hovedpunkterne <i>H</i><sub>1</sub> og <i>H</i><sub>2</sub>. Afstanden <i>B</i><sub>1</sub> <i>H</i><sub>1</sub> =
+<i>K</i><sub>2</sub> <i>B</i><sub>2</sub> er Objektrummets Brændvidde <i>p</i><sub>1</sub>,
+Afstanden <i>B</i><sub>2</sub> <i>H</i><sub>2</sub> = <i>K</i><sub>1</sub> <i>B</i><sub>1</sub> er Billedrummets
+Brændvidde <i>p</i><sub>2</sub>. Paa Fig. er vist Konstruktionen
+af det til Straalepunktet ell. Objektpunktet <i>S</i>
+svarende Forenings- ell. Billedpunkt <i>F</i>.
+Brændvidderne <i>p</i><sub>1</sub> og <i>p</i><sub>2</sub> forholder sig som
+Brydningsforholdene af Objekt- og Billedrummet;
+i det Tilfælde, der er hyppigst i Praksis, at
+Objekt- og Billedrum befinder sig i samme Stof,
+er de to Brændvidder altsaa lige store (smlg.
+ovf.). Et spc. Tilfælde, den teleskopiske
+Afbildning, har man, naar begge Brændplaner ligger
+uendelig fjernt.
+
+En Rk. af centrerede optiske Afbildninger
+med fælles Akse er ækvivalent med en enkelt.
+Dersom Brændvidderne for første Afbildning er
+<i>p</i><sub>1</sub> og <i>p</i><sub>1</sub><sup>1</sup> og for anden Afbildning <i>p</i><sub>2</sub> og <i>p</i><sub>2</sub>
+
+<img>Fig. 4. Linseformer.</img>
+
+<img>Fig. 5. Spredelinse.</img>
+
+<img>Fig. 6. Centreret Afbildning.</img>

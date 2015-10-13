@@ -1,0 +1,160 @@
+vil Projektilets Akse faa en konisk svingende
+Bevægelse uden om Banetangenten, og denne
+koniske Bevægelse vil atter bevirke, at Banen
+ikke kommer til at ligge i Kerneliniens
+Vertikalplan, Skudplanen, men afviger fra denne,
+saa at Nedslaget finder Sted i en vis Afstand
+til højre ell. venstre for denne Plan. Denne
+Afvigelse kaldes Afdriften og gaar til højre ved
+højreriflede Vaaben, til venstre ved
+venstreriflede. Ved Elevationer større end c. 65
+skifter Afdriften dog Retning, saaledes at den,
+samtidig med at den bliver mindre regelbunden,
+gaar til venstre ved højreriflet Skyts, og omvendt.
+Afdriften vokser med Flyvetiden og vokser i
+stærkere Forhold end Afstanden. Som Følge
+heraf bliver Banen altsaa en dobbeltkrum Linie,
+hvis sidste Del er stærkere krummet saavel
+nedad som til Siden.
+<i>(H. H.). C. H. R.</i>
+</chapter>
+
+<chapter name="Projektion">
+<b>Projektion</b> (mat.) af et Punkt ell. en
+Genstand er ensbetydende med Billedet deraf (se
+<sp>Deskriptivgeometri</sp>). Hyppigst tænkes
+ved P. paa den <sp>retvinklede</sp>, hvor et Punkts
+P. paa en Linie ell. en Plan er Fodpunktet for
+den vinkelrette fra Punktet paa Linien ell. Planen.
+Denne P. spiller en meget betydelig Rolle i
+analytisk Geometri og Mekanik. Er Punkterne <i>A</i>
+og <i>B</i> retvinklet projicerede paa en ret Linie i
+<i>A<sub>1</sub></i> og <i>B<sub>1</sub></i>, og betegnes Vinkelen mellem <i>AB</i> og
+Linien ved <i>v</i>, er <i>A<sub>1</sub>B<sub>1</sub></i> = <i>ABcosv</i>. Hvis de
+retvinklede P. af et plant Areal <i>F</i>'s Punkter paa
+en Plan bedækker et Areal <i>F<sub>1</sub></i> af denne Plan,
+er <i>F<sub>1</sub></i> = <i>Fcosv</i>, hvis <i>v</i> betegner Vinkelen
+mellem <i>F</i>'s og <i>F<sub>1</sub></i>'s Planer. — Om Kortprojektioner,
+se <sp>Landkort</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Projektion">
+<b>Projektion,</b> Henkastning af et gennemsigtigt
+Billede (Diapositiv, Lysbillede) paa en Skærm
+ved Hjælp af kraftigt, gennem faldende Lys.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="Projektionsapparat">
+<b>Projektionsapparat,</b> se <sp>Laterna magica</sp>.
+</chapter>
+
+<chapter name="Projektionstegning">
+<b>Projektionstegning</b> gaar ud paa
+Fremstilling af Rumfigurer ved Tegning i en Plan
+efter Deskriptivgeometriens Afbildningsmetoder.
+Uagtet al Beskrivelse ved Tegning i det
+praktiske Liv af Genstande, der skal forarbejdes,
+sker ved P., bruges Navnet særlig om den
+Fremstilling af Stereometriens Legemer, Flader
+og Kurver, der er Undervisningsfag ved tekn.
+o. a. Skoler.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Projektivgeometri">
+<b>Projektivgeometri</b> beskæftiger sig med
+Overførelsen af Sætninger fra en plan Figur til
+en Centralprojektion deraf, videre med en
+saadan Overførelse mellem homologe ell. mere
+alm. imellem kollineære Figurer, d. v. s.
+Figurer, der svarer til hinanden Punkt for Punkt,
+saaledes at til Punkter paa en ret Linie i den
+ene Figur svarer Punkter paa en ret Linie i
+den anden. Hertil maa endnu føjes dualistisk
+til hinanden svarende Figurer (som reciprokke
+Polarfigurer, se <sp>Pol</sp>). De her nævnte
+Omformninger af Figurer ved Projektion, Homologi,
+Kollineation, Dualitet falder ganske sammen
+med den analytiske Geometris lineære
+Transformationer. Som Eks. paa P.'s Metode kan
+nævnes Udledelse af Sætninger om Keglesnit
+ved at betragte disse som Centralprojektioner
+af Cirkler, for hvilke Sætningerne er lettere
+at bevise. P. bruger af den euklidske
+Geometris Forudsætninger væsentlig kun dem, der
+angaar Planers og Liniers Skæring og deres
+Bestemmelse ved hinanden og ved Punkter.
+Parallelle Linier, der jo transformeres til Linier
+gennem samme Punkt, siges at have et fælles
+uendelig fjernt Punkt, og paa lgn. Maade
+indføres uendelig fjerne Linier og Planer (se
+<sp>Uendelig</sp>); da vil de nysnævnte
+Forudsætninger ogsaa gælde for disse uendelig fjerne
+Figurdele. For at kunne anvende P. er det
+nødvendigt at vide, hvilke Egenskaber der
+bevares under Transformationen (er projektive).
+Her maa i første Linie søges den nødvendige
+og tilstrækkelige Betingelse for, at 4 Punkter
+<i>A B C D</i> paa en ret Linie kan transformeres
+til 4 Punkter <i>A<sub>1</sub></i> <i>B<sub>1</sub></i> <i>C<sub>1</sub></i> <i>D<sub>1</sub></i> paa en anden ret
+Linie. Denne Betingelse er, at de to
+Punktgrupper har samme Dobbeltforhold (s. d.). Da
+Dobbeltforholdets Definition imidlertid bruger
+Størrelser (Længder), hvad P. ellers undgaar,
+ønskede man naturligvis paa anden Maade at
+fastlægge Begrebet: de to Punktgruppers
+Projektivitet. Dette sker ved flg.
+Fundamentalsætning, idet Punkter projiceres fra en ret Linie
+over paa en anden, der ikke skærer den første,
+ved Overskæring med Planer gennem en fast
+ret Linie: Kan man gaa fra <i>A B C D</i> til <i>A<sub>1</sub></i> <i>B<sub>1</sub></i>
+<i>C<sub>1</sub></i> <i>D<sub>1</sub></i> ved et endeligt Antal Projektioner, vil
+enhver endelig Rk. Projektioner, der fører
+<i>A B C</i> over i <i>A<sub>1</sub></i> <i>B<sub>1</sub></i> <i>C<sub>1</sub></i>, ogsaa føre <i>D</i> over i <i>D<sub>1</sub></i>.
+Beviser for denne Sætning, støttede alene paa
+Beliggenhedsforhold og enkelte Forudsætninger,
+er givne af v. Staudt og Zeuthen.
+Dobbeltforholdet som en ved Punktgruppen bestemt Værdi
+falder her bort, men v. Staudt tillægger alle
+indbyrdes projektive Punktgrupper en fælles
+»Wurf« og definerer Regning med disse
+»Würfe« ved Konstruktioner med de
+tilsvarende Punktgrupper, saaledes at de sædvanlige
+Regneregler opretholdes, v. Staudt har
+udvidet P. til ogsaa at omfatte imaginære
+Punkter, Linier og Planer, idet han definerer disse
+som Dobbeltelementer i reelle Involutioner paa
+samme Maade som i hans »Geometrie der Lage«.
+Det er ogsaa lykkedes at inddrage metriske
+Egenskaber under P.'s Behandling (se
+<sp>projektiv Metrik</sp>). P. anvendtes ikke
+synderligt i Oldtidens gr. Geometri, hvor Keglesnittene
+undersøgtes ad andre Veje. Desargues og Pascal
+(17. Aarh.) var langt inde paa den, men den
+blev dengang kun lidet paaagtet; dens
+Blomstringstid falder først i 19. Aarh. Poncelet
+indførte Homologien, Gergonne Dualiteten, Möbius
+Køllineationen. Chasles og Steiner opbyggede
+Keglesnitsteorien paa Grundlag af Definitionen
+af Keglesnit som geometriske Steder for
+Skæringspunkterne mellem til hinanden svarende
+Linier i projektive Liniebundter og udvidede
+denne Frembringelsesmaade af Kurver ved i
+St f. Liniebundter at sætte Kurvebundter.
+Størst Andel i Grundlæggelsen af P. har v.
+Staudt; af andre til den knyttede Navne kan
+foruden de alt anførte nævnes Lüroth, Klein,
+Darboux.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="projektiv Metrik">
+<b>projektiv Metrik</b> (mat.). Medens den
+Egenskab ved to Liniestykker ell. to Vinkler:
+at være lige store, ikke bevares ved Projektion,
+kan man give Egenskaben et andet Udtryk,
+saaledes at den genfindes i Projektionen. De
+uendelig fjerne Punkter i en Plan betragtes som
+liggende paa en ret Linie, den uendelig fjerne

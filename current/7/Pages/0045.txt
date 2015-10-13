@@ -1,0 +1,158 @@
+<chapter name="elektrisk Polarisation">
+<b>elektrisk Polarisation,</b> se
+<sp>elektrolytisk Polarisation</sp>.
+</chapter>
+
+<chapter name="elektrisk Potential">
+<b>elektrisk Potential,</b> d. s. s. <sp>elektrisk
+Spænding</sp>. Se <sp>Elektrostatik</sp>.
+</chapter>
+
+<chapter name="elektrisk Resonans">
+<b>elektrisk Resonans.</b> I en Strømkreds med
+Modstand, Selvinduktion og Kapacitet i Serie
+kan der, naar Modstanden ikke er for stor,
+opstaa fri Svingninger af et Periodetal n =
+<table>
+<td c>1<td v2>, hvor n er Antallet af Svingninger
+<td c>2 π kvadratrod(L C)
+</table>
+pr Sek., <i>L</i> er Selvinduktionen i Henry, <i>C</i>
+Kapaciteten i Farad. Hvis der i Kredsen virker en
+vekslende elektromotorisk Kraft, som har
+netop dette Periodetal, er der <sp>Resonans</sp>
+mellem Paavirkningen og Egensvingningen, og der
+kan da i Kredsen opstaa en Spænding, som er
+langt større end den elektromotoriske Kraft.
+Ved Kabelanlæg har dette Forhold undertiden
+været Aarsag til Gennemslag af Isolationen. Det
+er da i Reglen ikke Vekselspændingens
+Grundsvingning, men en højere harmonisk, som har
+haft det til Resonans svarende Periodetal. Ved
+traadløs Telegrafering beror Afstemningen paa
+Resonans mellem Modtagerens Egensvingninger
+og de ankommende Bølger.
+<i>Abs. L.</i>
+</chapter>
+
+<chapter name="elektrisk Spænding">
+<b>elektrisk Spænding</b> ell. elektrisk
+<sp>Potential</sp> i et Punkt maales ved det Arbejde, der
+udfordres for at føre Enhed af positiv
+Elektricitet fra Jorden til Punktet. Dette Begrebs
+store Bet. for Elektricitetslæren ligger i, at man
+gennem det indfører Læren om Energiens
+Vedligeholdelse. Udtrykket e. S. anvendes
+undertiden i anden Bet., hvilket dog ikke kan
+anbefales, naar man vil undgaa Forvirring. Se
+for øvrigt <sp>Elektrostatik</sp>.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="elektrisk Spændingsrække">
+<b>elektrisk Spændingsrække.</b> Forbindes to
+forsk. Metaller med hinanden, vil de faa forsk.
+elektrisk Spænding, hvilket man kan paavise
+ved Hjælp af et fintmærkende
+Kondensatorelektroskop. I Rækken Zink, Bly, Tin, Jern,
+Kobber, Sølv, Guld, der er opstillet af <sp>Volta</sp>,
+bliver hvert Metal positivt elektrisk ved Berøring med
+et efterfølgende, negativt ved Berøring med
+et foregaaende. Zink er altsaa det mest
+»elektropositive« i Rækken, Guld det mest
+»elektronegative«. Foran Zink staar Kalium, Natrium
+og Magnium, efter Guld Platin og Grafit.
+Spændingsforskellene har saadanne Størrelser, at
+ingen Kæde, dannet af forskellige Metaller, kan
+frembringe nogen elektrisk Strøm, naar alle
+Berøringsstederne har samme Temp., idet f. Eks.
+i en Ring, dannet af Zink, Jern og Sølv,
+Spændingsforskellen mellem Zink og Sølv er lig
+Summen af Forskellene Zink-Jern og Jern-Sølv.
+Bringes en ledende Vædske ind i Kæden i St f.
+et Metal, opstaar der i Reglen en Strøm;
+Vædskerne lader sig altsaa ikke indordne i Rækken.
+
+Volta antog, at Spændingsforskellens Sæde var
+Berøringsfladen mellem Metallerne
+(»Berøringselektricitet«), og alle hans Forsøg kan tydes ved
+denne Antagelse. Nyere Forsøg, hvorefter
+Spændingsforskellen er afhængig af den omgivende
+Lufts Natur og helt forsvinder ved stærk
+Udtørring i Vakuum, har dog godtgjort, at dens Sæde
+er Berøringsfladerne mellem Metallerne og den
+omgivende Luft ell. rettere mellem Metallerne
+og de Vædskehinder, hvormed de overtrækker
+sig i fugtig Luft. Spændingsforskellen er altsaa
+af ganske samme Natur som den, der opstaar
+i galvaniske Elementer, hvor Metallerne er i
+Berøring med en ledende Vædske (en
+Elektrolyt); Metallerne er nemlig i Volta's Forsøg ogsaa
+i Berøring med en yderst ringe Mængde
+Elektrolyt. Alle Volta's Forsøg tydes lige saa godt
+ud fra denne Opfattelse. Derved forstaas
+tillige, at Metallernes Plads i den e. S. er noget
+variabel, idet den er afhængig af smaa Mængder
+Urenheder paa Overfladen ell. i Luften, da
+disse kan ændre Vædskehindens Beskaffenhed
+kendeligt. (Smlg. dog
+<sp>Kontaktpotential</sp>). (<sp>Litt</sp>.: <sp>Müller-Pouillet</sp>,
+»Lehrbuch der Physik und Meteorologie«, Bd IV, 1
+[Braunschweig 1909]).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="elektrisk Strøm">
+<b>elektrisk Strøm</b> i en Ledningstraad
+(Metaltraad, Kultraad) opstaar, 1) naar Traaden
+forbinder to Ledere af forsk. Spænding med
+hinanden, f. Eks. den ydre og den indre Belægning
+af en ladet Leydnerflaske, 2) naar den
+forbinder Polerne af et galvanisk Element ell. Batteri,
+3) naar den danner en lukket Ledning,
+bestaaende af to forsk. Metaller, og de to
+Forbindelsessteder mellem disse Metaller holdes paa
+forsk. Temp., og 4) naar der ved magnetiske
+Kræfter induceres Strøm i Traaden.
+Kendetegnene paa, at Traaden er Sæde for en e. S., er
+i alle Tilfælde de samme: Traaden opvarmes,
+der dannes et magnetisk Felt omkr. den, og
+Strømmen frembringer kem. Virkninger, hvis
+den føres gennem en Elektrolyt. Endelig kan
+Strømmen frembringe Sanseindtryk af forsk.
+Art og Muskelsammentrækninger, naar den
+ledes gennem et Menneskes ell. et Dyrs Legeme.
+Strømmens <sp>Hastighed</sp> er ikke noget
+bestemt Begreb; man kan ikke forfølge nogen
+Del af en elektrisk Ladning langs
+Ledningstraaden, og forstaar man ved Hastigheden den,
+hvormed et elektrisk Signal forplanter sig, faar man
+forsk. Værdier under forsk. Forhold. Bruger
+man som Ledningstraad et Stykke tørt Sejlgarn,
+der forbinder Skjoldet paa et Elektrofor med
+Stilken paa et Guldbladelektroskop, kan det
+vare fl. Sek. ell. Min., fra man løfter Skjoldet,
+til Guldbladene gør Udslag. Strømmen trænger
+her frem efter lgn. Love som de, der gælder
+for Varmeledning i en Metalstang, og nogen
+bestemt Hastighed kan overhovedet ikke findes.
+Derimod vil et Signal, som sendes gennem en
+tyk Kobbertraad, der som en Telegraftraad er
+ført gennem Luften, fare af Sted med Lysets
+Hastighed (300000 km i Sek.); Signalet gaar
+som en elektrisk Bølge gennem Traaden. I en
+undersøisk Telegrafledning er Hastigheden
+betydelig mindre. Om Bestemmelsen af Strømmens
+Styrke, se <sp>elektriske Maaleenheder</sp>,
+om dens Virkninger <sp>elektrisk
+Strømvarme</sp>, <sp>Elektrolyse</sp>, <sp>Elektrodynamik</sp>,
+<sp>Elektromagnetisme</sp> o. s. v. Som
+Strømmens Retning betegner man den, hvori den
+positive Elektricitet bevæger sig; Strømmen gaar
+altsaa fra et Legeme med højere Spænding til
+et Legeme med lavere, fra et galvanisk Batteris
+Kul- ell. Kobberpol gennem Ledningstraaden til
+Zinkpolen.
+<i>K. S. K.</i>
+</chapter>
+

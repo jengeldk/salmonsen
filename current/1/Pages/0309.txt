@@ -1,0 +1,162 @@
+Endepunkt og indstiller Kikkerten paa det Signal, der
+er anbragt i det andet Endepunkt. Ved Afsætning
+af meget lange Linier kan man gaa frem paa den
+Maade, at man fra det ene Endepunkt af Linien
+afsætter et Stykke af denne med et Instrument
+indrettet til Vinkelmaaling, derefter flytter dette
+til Endepunktet af det først afsatte Stykke og
+afsætter en ny Linie, som med den første danner
+en Vinkel paa 180° o. s. v. Kan man ikke se fra
+det ene Endepunkt til det andet, maa man ved
+en Opmaaling bestemme den relative Beliggenhed
+af Endepunkterne og et tredie Punkt, som
+kan ses fra det ene Endepunkt; man kan da
+beregne Vinklen mellem Retningerne fra dette til
+det andet Endepunkt og Retningen til det nævnte
+tredie Punkt, og ved Hjælp af denne Vinkel kan
+man afsætte den søgte Retning. Denne Opgave
+faar særlig Bet. ved Udstikning af Tunnellinier;
+de tre Punkters relative Beliggenhed maa da
+bestemmes ved en meget omhyggelig Triangulation.
+2) Afsætning af <sp>krumme Linier</sp>. Ved
+Afsætning af Vejlinier og navnlig af Jernbanelinier
+skal der i Reglen som Overgang fra een Retning
+til en anden indskydes et Stykke af en Cirkelbue.
+Man afsætter først de to rette Linier, maaler den
+Vinkel, de danner med hinanden, og beregner af
+denne og af Radiens Længde Afstanden fra
+Vinkelpunktet til de Punkter, hvor Overgangen
+finder Sted fra den rette Linie til Cirkelbuen og
+omvendt, de saakaldte Tangentpunkter. Man kan
+derefter fra Tangenterne afsætte saa mange
+Punkter af Cirkelbuen som fornødent, idet man
+f. Eks. kan beregne disses retvinklede
+Koordinater i Forhold til Tangenterne som
+Abscisseakser og Tangentpunkterne som
+Begyndelsespunkter. Til dette Brug forefindes Tabeller, f.
+Eks. <sp>Kröhnke</sp>: »Handbuch zum Abstecken
+von Curven«. 3) Afsætning af <sp>Vinkler</sp>. Hertil
+bruges Vinkelmaalerne, f. Eks. for den rette
+Vinkel Vinkelspejl ell. Prismekors, for andre
+Vinkelstørrelser Sekstant, Diopterlineal og
+Teodolit, idet man i alle Tilfælde opstiller
+Instrumentet i det Punkt, hvor Vinklens Toppunkt skal
+ligge, og afsætter begge Vinkelbenene. 4)
+Afsætning af <sp>Højder</sp>. Hvad enten det gælder om at
+tilvejebringe Punkter med samme Højde
+(Planeringer, Horisontalkurver) ell. Punkter med
+forsk., men forud bestemte Højder (Længde- og
+Tværprofiler), sker Afsætningen ved Hjælp af
+Nivellerinstrumenter (se <sp>Nivellering</sp>). 5)
+Afsætning af <sp>Arealer</sp> sker ved Afsætning af
+de rette ell. krumme Linier, som ifølge en forud
+foretagen Beregning indeslutter det Areal, der
+ønskes afsat.
+
+En særegen Art af Afsætninger er
+<sp>Skelafsætninger</sp>, hvor det gælder om i Marken at
+afsætte Grænselinien mellem forsk. Ejendomme,
+naar denne er forsvundet, ell. der er opstaaet
+Tvivl om dens rigtige Beliggenhed. En saadan
+Skelafsætning kan, naar Forretningen skal have
+retslig Gyldighed, kun foretages af Landinspektører
+ell. Landmaalere, og som Grundlag for
+Afsætningen kan kun bruges det Kort, paa hvilket
+Delingen af Bymarken i sin Tid ved Udskiftning
+af Fællesskabet er foretaget, det saakaldte
+Udskiftningskort, samt for de Skels Vedk., der i en
+senere Tid er fremkomne ved Deling af en enkelt
+Ejendom mellem fl. forsk. Ejere (Parcelskel), de
+saakaldte Udstykningskort, som forefindes i
+Landbrugsministeriet.
+
+En Opgave af samme Art men langt større
+Omfang forekommer, naar der efter Fredsslutninger
+ell. Grænsereguleringer mellem Staterne
+skal foretages <sp>Grænseafsætninger</sp>. De
+enkelte Punkter i Grænserne afsættes da enten
+i Forhold til forud ved Triangulation bestemte
+Fikspunkter ell. direkte ved astron. Observationer.
+<i>(H. C.) H. V. N.</i>
+
+2) Man taler om at afsætte en Arvelod til
+fraværende Arving. Tidligere skulde dette altid ske,
+naar det var givet, at en Arving var rejst bort,
+og hans Død ikke var bevist. Nu, efter Frd. 11.
+Septbr 1839 § 2, afsættes der alene Arvelod til
+saadanne borteværende Arvinger, om hvilke det
+er givet, at de har overlevet Arveladeren; i
+modsat Fald deler de øvrige Arvinger Boet, men
+melder Arvingen sig inden 15 Aar fra Arveladerens
+Død at regne, kan han kræve sin Lod af de
+øvrige, dog uden det i Mellemtiden oppebaarne
+Udbytte.
+<i>V. B.</i>
+
+3) (Søv.), at indtegne i et Søkort et Skibs
+Plads ell. Kurs, hvilket udføres ved Passer og
+Parallellineal.
+<i>H. E.</i>
+</chapter>
+
+<chapter name="afsøge">
+<b>afsøge</b> bruges i Militærsproget i Forbindelsen
+a. Terrainet (ell. en bestemt Terraingenstand f.
+Eks. en Landsby, Skov o. l.) for til Sikkerhed for
+egne Tropper at komme til Kundskab om, hvorvidt
+Fjenden opholder sig i dette. Afsøgningen
+foretages i Reglen ved Patrouiller, saa vidt
+Omstændighederne tillader det, af Rytteri.
+<i>B. P. B.</i>
+
+<sp>Afsøgning</sp> af et Farvand kan ske: 1) med Lod
+og andre Dybdemaalere for at finde Grundenes
+Beliggenhed ved Opmaaling; 2) med Fartøjer
+ell. Torpedobaade for at konstatere fjendtlige
+Fartøjers ell. Miners Nærværelse; 3) med
+Projektører om Natten for at finde fjendtlige
+Fartøjer ell. for under Skydeøvelserne at sikre sig
+frit Skudfelt.
+<i>H. E.</i>
+</chapter>
+
+<chapter name="aftakle">
+<b>aftakle,</b> at fraslaa og nedtage Sejlene i et
+Sejlskib, samt at udskære alt løbende Gods (ɔ:
+Tovværk til Betjening af Sejl og Rær).
+<i>H. E.</i>
+</chapter>
+
+<chapter name="Aftegning (se Lød)">
+<b>Aftegning</b> (<sp>Aftegn</sp>), se <sp>Lød</sp>.
+</chapter>
+
+<chapter name="Aftenbakke (se Natravn)">
+<b>Aftenbakke,</b> se <sp>Natravn</sp>.
+</chapter>
+
+<chapter name="Aftenbakker (se Flagermus)">
+<b>Aftenbakker,</b> se <sp>Flagermus</sp>.
+</chapter>
+
+<chapter name="Aftenbladet">
+<b>Aftenbladet.</b> 1) Med denne o. l. Titler har
+fl. Aviser i Løbet af 19. Aarh. set Lyset i Kbhvn.
+Det første »Aftenblad« viste sig 1822, kun i
+nogle enkelte Numre, men blev fortsat som »Nyt
+Aftenblad« 1824—26 under Redaktion af den fra
+den Baggesen-Oehlenschläger'ske Strid og som
+Holberg-Udgiver bekendte Litterat A. E. Boye,
+der navnlig søgte at give Bladet et vist æstetisk
+Sving. Med Forbigaaelse af et »Kjøbenhavns
+Aftenblad«, som J. K. Høst 1831 udgav i 47 Numre,
+træffer vi atter Boye som Redaktør af »Nyt
+Aftenblad« 1844; i dette Hverv efterfulgtes han af
+Juristen H. Trojel det flg. Aar. I de tre Aar, i
+hvilke Bladet bestod under dennes Auspicier,
+gjorde han sig særlig til Talsmand for Christian
+VIII's Regeringsprincipper, hvad der havde
+mange Udfald fra liberal Side mod Bladet til
+Følge; bl. a. søgte han at knytte J. L. Heiberg
+til Bladet som Medarbejder, hvad der dog ikke
+lykkedes. Med den ny Tid i 1848 kunde Bladet

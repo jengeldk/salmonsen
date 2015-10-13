@@ -1,0 +1,126 @@
+Jod, Brom, Jodbrinte dissocieres derved, finder
+man, at deres Ledningsevne vokser betydeligt,
+medens dette ikke finder Sted ved Luft,
+Kviksølvdamp ell. a. udissocierede Luftarter.
+Undersøgelser ved højere Temp. kompliceres ved, at
+glødende Elektroder selv udsender Ioner (se
+<sp>Termioner</sp>). De Ioniseringsmaader, vi hidtil
+har omtalt, har alle det tilfælles, at Ioniseringen
+er frembragt ved udefra kommende Midler. Den
+elektriske Krafts Virkning var kun at bevæge
+Ionerne, ikke at frembringe dem. Man kalder en
+Strøm i en saaledes ioniseret Luftart for en
+uselvstændig elektrisk Strøm, idet den vil
+forsvinde sammen med den ioniserende Virkning.
+Den uselvstændige elektriske Strøms
+Karakteristik, d. v. s. den Kurve, der giver
+Sammenhængen mellem dens Spændingsforskel og
+Strømstyrke, er allerede omtalt og fremstillet i
+Fig. 3.
+
+8) <sp>Den selvstændige elektriske
+Strøm</sp>, <sp>Stødionisering</sp>. I den elektriske
+Gnist og den elektriske Lysbue har vi
+Eksempler paa Strømme, i hvilke Ionerne frembringes af
+Strømmen selv, og som derfor kaldes
+selvstændige elektriske Strømme. Ioniseringen sker her
+ved, at de allerede tilstedeværende Ioner
+skaber ny ved at støde saa stærkt imod de
+neutrale Molekyler, at disse spaltes i Ioner. For at
+Stødionisering skal være mulig, maa den
+stødende Ions Hastighed være stor, og dette kan
+kun opnaas, naar den elektriske Kraft er stor.
+Man kan vise dette ved en Forsøgsopstilling
+som i Fig. 2. Ioniserer man Luften ved
+Røntgenstraaler, faar man som omtalt en Strøm i
+Maalekondensatoren, der ved stigende
+Spændingsforskel <i>V</i> naar en Maksimalværdi,
+Mætningsstrømmen (se Fig. 9). Bliver man ved
+at forøge Spændingsforskellen, vil Strømmen,
+naar den elektriske Kraft imellem Pladerne har
+naaet en vis Værdi, pludselig give sig til at
+stige meget stærkt med Spændingen. Af
+saadanne Forsøg har man kunnet beregne, hvor
+stor en Hastighed de negative Ioner, der ved
+saa stærke Felter altid er Elektroner, maa være
+i Besiddelse af for at kunne frembringe ny Ioner
+ved Stød. Den er c. 2000 km pr Sek. Man plejer
+dog ikke at angive Hastigheden selv, men
+derimod den Spændingsforskel, som vilde meddele
+Ionen denne, saafremt Ionen gennemløb
+Spændingsforskellen, den saakaldte
+<sp>Ioniseringsspænding</sp>, uden Sammenstød.
+Ioniseringsspændingen er for de negative Ioner c. 10 Volt,
+for de tungere positive Ioner derimod c. 350
+Volt. Begge Størrelser gælder for atmosfærisk
+Luft. Da den Vejstrækning, som Ionerne
+gennemsnitlig tilbagelægger mellem to paa
+hinanden flg. Sammenstød med Molekylerne, den
+saakaldte Middelvejlængde, er omvendt proportional
+med Trykket, vil Størrelsen af den elektriske
+Kraft, hvorved Stødionisering indtræder, være
+proportional med Trykket.
+
+Forøger man Spændingsforskellen mellem to
+Elektroder, der befinder sig i ikke-ioniseret Luft,
+vil der slaa en Gnist over imellem dem, naar
+Spændingsforskellen har naaet en vis Værdi (se
+<sp>elektrisk Gnist</sp>). Forklaringen er, at de
+forhaandenværende yderst faa Ioner (se Afsnit
+6) multiplicerer sig op, naar den til
+Stødionisering nødvendige elektriske Spænding er naaet,
+saa at Ledningsevnen pludselig stiger uhyre
+stærkt. Karakteren af den lysende Udladning i
+Gnisten kan være en Lystaagestrøm ell. en
+Lysbuestrøm.
+
+9) <sp>Den elektriske Lystaagestrøm</sp>.
+Den selvstændige elektriske Strøms
+Ejendommeligheder lader sig lettest studere ved den
+elektriske Lystaagestrøm (eng. <i>glow-discharge</i>,
+tysk »Glimmstrom«) i fortyndet Luft. Man lader
+Udladningen foregaa i de saakaldte Geisslerrør,
+opkaldt efter den tyske Glasfabrikant Geissler,
+som først bragte dem i Handelen. Fig. 10 viser
+et saadant Rør, et lukket Glasrør, indeholdende
+fortyndet Luft og forsynet med to lufttæt
+indsmeltede Metalelektroder. Tilledningerne
+igennem Glasvæggen er af Platin. Da dette Metal
+har meget nær samme Varmeudvidelse som
+Glas, kan det indsmeltes, uden at Glasset
+revner. Derimod er de Metaldele, hvorfra
+Udladningen sker, i Almindelighed af Aluminium ell.
+Magnium, da de fleste andre Metaller
+efterhaanden vilde forstøve ved Udladningerne og
+sætte sig som et spejlende Beslag paa Rørets
+Inderside. Til at give Strøm gennem Røret maa
+anvendes en højspændt Elektricitetskilde som
+en Elektrisermaskine eller en Induktionsrulle.
+Fænomenerne har i atmosfærisk Luft flg.
+Udseende. Ved højere Tryk vil Udladningen, som
+da kræver en stor Spænding, vise sig som en
+tynd, rød, lysende Snor, der idelig skifter Plads;
+efterhaanden som vi formindsker Trykket i
+Røret, synker Elektrodespændingen, og samtidig
+begynder den røde Snor at brede sig ud. Naar
+Trykket kun er nogle faa mm Kviksølv, har den
+bredt sig saaledes, at hele Røret er fyldt af en
+Lystaage, i hvilken man lægger Mærke til flg.
+Enkeltheder. Ved den negative Pol, Katoden,
+kan man dele Lysfænomenet i 3 Lag. Det
+første tynde Lag ligger umiddelbart op til
+Katoden og er gulligt. Derpaa følger et mørkt
+Lag, <sp>det Crookes'ske mørke Rum</sp>.
+Endelig det tredie Lag, den egentlig <sp>negative
+Lystaage</sp> (Katodelyset), et blaaligt Lys, som
+er det eneste af de tre Lag, der iagttages
+ved højere Tryk. Efter Katodelyset følger
+atter et mørkt, mindre skarpt begrænset
+Parti, <sp>Faraday's mørke Rum</sp>, og derpaa
+et rødligt Lys, den <sp>positive Lystaage</sp>,
+der strækker sig helt hen til Anoden. Ved lave
+Tryk (Fig. 10 c) vokser Længden af det
+
+<img>Fig. 9.
+Lystaagestrøm i fortyndet Luft.</img>
+

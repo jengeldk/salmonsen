@@ -1,0 +1,107 @@
+Linie. Sendes der hvidt Lys ind paa Gitret, ser
+man Spektre paa begge Sider af det hvide
+Centralbillede. Da det violette Lys har mindst
+Bølgebredde (0,0004 mm), vil det iflg. det ovf.
+givne Udtryk afbøjes mindst, medens rødt
+(Bølgebredde c. 0,0007 mm) afbøjes omtr. dobbelt saa
+meget, altsaa omvendt af, hvad der finder Sted
+ved Prismespektre. Derimod er Farvernes
+indbyrdes Rækkefølge i de to Spektre den samme.
+Ved Gitret vil med Tilnærmelse de forsk. Dele
+af Spektret, der omfatter samme Antal
+Bølgebredder, afbildes lige lange, medens
+Prismespektre altid giver størst Spredning i det
+violette. Gitterspektre kaldes af den Grund ogsaa
+<sp>Normalspektre</sp>. De to Spektre, et paa
+hver Side af Centralbilledet, der svarer til
+Vejforskellen een Bølgebredde mellem Straaler fra
+paa hinanden flg. Spalter (<i>n</i>=1), kaldes Spektre
+af 1. Orden; de til <i>n</i>=2 svarende Spektre af
+2. Orden o. s. v. I Fig. 7 er givet en skematisk
+Fremstilling af de forsk. Spektres Beliggenhed.
+Spektrene af 1. Orden findes mellem Grænserne
+<i>V</i> (violet) og <i>R</i> (rødt), Spektrene af 2. Orden
+mellem <i>V'</i> og <i>R'</i>, Spektrene af 3. Orden mellem
+<i>V"</i> og <i>R"</i>. Man ser, at Længden af Spektrene
+er proportional med deres Orden; 2. Spektrums
+røde Del falder paa samme Sted som
+(koinciderer med) 3. Spektrums violette. I Alm. vil
+man iflg. det angivne Udtryk for
+Afbøjningsvinklen <i>a</i> sin Θ = <i>n</i>λ have Koincidens mellem
+Bølgebredderne λ<sub>1</sub> og λ<sub>2</sub>, naar <i>n</i><sub>1</sub>λ<sub>1</sub> = n<sub>2</sub>λ<sub>2</sub>, hvor
+n<sub>1</sub> og n<sub>2</sub> er Spektrenes Orden. Heraf kan man
+finde Forholdet mellem de to
+Bølgebredder (Koincidensmetoden). Kender
+man Gitterkonstanten <i>a</i> og maaler
+Afbøjningsvinklen Θ, kan man finde
+Bølgebreddens absolutte Værdi (se
+<sp>Spektralanalyse</sp>). Ved Gitterspektrenes
+<sp>Spredning</sp> ell. <sp>Dispersion</sp>
+forstaas deres Udstrækning i Vinkelmaal.
+To Gitre med samme Gitterkonstant
+giver Spektre af samme Spredning, men
+de kan derfor godt have meget
+forskellig Evne til at afbilde to tætliggende
+Spektrallinier (med Bølgebredderne λ og λ+<i>m</i>)
+adskilte, idet de kan give ulige brede
+Bøjningsbilleder. Jo snævrere Bøjningsbilleder Gitret
+giver, desto tættere kan de to Spektrallinier
+ligge uden at overdække hinanden, desto større
+Opløsningsevne siges Gitret at have. Er <i>m</i> den
+mindste Forskel i Bølgebredde, for hvilken de
+endnu er adskilte, defineres
+<sp>Opløsningsevnen</sp> ved Forholdet λ/<i>m</i>. Opløsningsevnen kan
+vises at være <i>N</i>·<i>n</i>, hvor <i>N</i> er det samlede Antal
+Spalter og <i>n</i> Spektrets Orden; den er altsaa
+uafhængig af Spredningen.
+
+De første Gitre fremstilledes af Fraunhofer ved
+at spænde fine Metaltraade parallelt over en
+Ramme ell. ved at ridse i forgyldte Glasplader.
+Senere anvendte han ogsaa Glasgitre, der
+ridsedes med Diamant paa Glasplader,
+Mellemrummene mellem Ridserne lader Lyset gaa
+igennem sig og tjener som Spalter. 1882 lykkedes det
+Rowland at fremstille en næsten fejlfri Skrue
+til sin Delemaskine, og han blev derved i Stand til
+at lave meget regelmæssigere og større Gitre
+end de hidtil kendte. Ridsningen foregik
+automatisk i en dyb Kælder for at sikre konstant
+Temp., da ellers Stregernes Afstand ikke vilde
+blive lige stor overalt. Et Gitter paa 110000
+Ridser kunde paa denne Maade gøres færdig i
+3—4 Dage. Rowland's Gitre blev ridsede paa
+Spejlmetal, de blanke Mellemrum mellem
+Ridserne kaster Lyset tilbage og virker som
+Spalterne i de gennemsigtige Gitre. Desuden indførte
+han det vigtige Fremskridt at ridse Gitret paa
+et Hulspejl (<sp>Konkavgitre</sp>), hvorved de
+billeddannende Linser overflødiggøres. De
+største Rowland's Gitre har 110000 Linier i alt,
+20000 pr eng. Tomme ell. 787 pr mm,
+Krumningsradius er 6 1/2 m. I 3. Ordens Spektrum vil
+Afstanden mellem Natriumlinierne (6
+Ångströmske Enheder i Bølgebredde) være c. 1 cm.
+Opløsningsevnen vil iflg. det ovf. givne Udtryk være
+330000, d. v. s., at Linier, hvis Bølgebredde kun
+differerer λ/330000, vil endnu kunne skelnes som
+Dobbeltlinier; for gult Lys, λ=6000
+Ångströmske Enheder, bliver Forskellen c. 0,02
+Ångströmske Enheder ell. 1/300 af Natriumliniernes
+Afstand. Til Sammenligning tjener, at et
+Prismespektroskops Opløsningsevne for gult Lys er c.
+<i>l</i>×1000. hvor <i>l</i> er Længden i cm af den
+længste Vej, en Straale gaar i Prismet, altsaa
+mange Gange mindre end Rowland's-Gitret.
+
+Endnu større Opløsningsevne end
+Rowland's-Gitrene har det af Michelson 1898 konstruerede
+Trappegitter, som skematisk er vist i Fig. 8.
+Det bestaar af et Antal nøjagtigt lige tykke
+Glasplader, anbragte som en Trappe. Trindybden
+svarer til Ridsafstanden ved de alm. Gitre. Er
+Pladernes Antal 20, Pladetykkelsen 18 mm, og
+
+<img>Fig. 7. Gitterspektre.</img>
+
+<img>Fig. 8</img>

@@ -1,0 +1,142 @@
+Størrelse, lige saa lidt som Vægten af de
+Stoffer, der findes i en tæt lukket Flaske, kan
+forandres i Vægt, selv om de ellers lider nok saa
+store Forandringer, f. Eks. ved at indgaa kem.
+Forbindelser med hinanden. - Hvis der tilføres
+et System af Legemer E. udefra, forandres dets
+Tilstand, og det kan ikke komme tilbage til sin
+tidligere Tilstand, før det har afgivet netop lige
+saa megen E., som det før modtog. Men det
+behøver ikke at afgive denne E. i samme Form,
+hvori den blev modtaget. Et hvilende Svinghjul
+kan sættes i Fart ved at modtage mek. E., og
+det kan tabe sin Fart, medens det frembringer
+Varme i sine Taplejer ell. trækker en Dynamo,
+der leverer elektrisk E. Af de utallige Eksempler
+paa Ombytning mellem E.-Former skal nævnes
+et Par. Et svingende Pendul har ingen
+Hastighed i Yderstillingerne, altsaa ingen kinetisk E.
+I Midtstillingen kan det under de givne Forhold
+ikke synke dybere, det har altsaa ingen
+potentiel E. Hastigheden er her den størst mulige;
+al dets E. er kinetisk. I Mellemstillingerne har
+det begge Arter E., og naar den ene vokser,
+tager den anden af paa en saadan Maade, at
+deres Sum holder sig uforandret, naar de
+begge omregnes til samme Enhed. Paa lgn. Maade
+gaar det med Uroen i et Lommeur, kun at det
+her er kinetisk E. og Spændings-E., der
+skifter med hinanden. Hvis Pendulet ell. Uroen
+ikke fik Hjælp udefra, vilde de dog omsider gaa
+i Staa, fordi deres E. ved Gnidningsmodstand i
+Taplejer og mod Luften langsomt ombyttes med
+Varme.
+
+<sp>E.-Loven</sp>. Da det, som før nævnt, er muligt
+at maale al E. med en fælles Enhed, kan man
+udtrykke E.-Loven (Loven for E.'s Bestaaen)
+saaledes: Naar et materielt System gaar over fra
+en vis Tilstand A til en anden Tilstand B,
+afgiver det til (ell. modtager fra) Omverdenen en
+vis Mængde E., der er den samme, ad hvilke
+Veje end Overgangen sker. Den samme
+Mængde modtager Systemet fra (ell. afgiver til)
+Omverdenen, naar det føres tilbage fra Tilstanden
+B til Tilstanden A. Et System, som ikke har
+nogen Forbindelse med Omverdenen, kan ikke
+forandre sit samlede Indhold af E., hvilke
+Forandringer der end ellers foregaar i det. -
+Loven har vist sig rigtig paa alle de mange
+Omraader, hvor man har kunnet anvende den, og
+man har endnu aldrig kunnet fremkalde noget
+Fænomen, der bevislig er i Strid med den.
+
+<sp>Enheder og Omregningstal</sp>. Til at
+løfte et Kilogramlod 1 m lodret opad, udfordres
+et Arbejde, der kaldes 1 Meterkilogram (mkg).
+Skønt denne Enhed i mange Tilfælde er
+særdeles nyttig, egner den sig dog ikke til at
+bruges som fælles Enhed for al E., da dens Værdi
+varierer lidt fra Sted til Sted efter Tyngdens
+skiftende Størrelse. Men hvis man løfter 1 kg
+gennem en Højde, der forholder sig omvendt
+som den Værdi, Tyngdens Acceleration g har
+paa det givne Sted, er Arbejdet overalt det
+<table>
+<td v2>samme. Man kan derfor bruge <td c>1<td v2> Meterkilogram
+<td c>g
+</table>
+som uforanderlig Enhed for E. Denne Enhed
+kaldes 1 Joule- ell. 1 Wattsekund, g udtrykkes
+ved Hjælp af m og Sek. Værdien af g paa
+Jordens Overflade varierer mellem 9,78 ved Ækvator
+og 9,83 ved Polerne. Af Lovene for det fri Fald
+følger, at et Legeme, hvis Hastighed er v Meter
+i Sek., ved Hjælp af sin Fart kan løfte sig selv
+til Højden v<sup>2</sup> : 2 g Meter. Hvis det vejer m kg,
+kan det altsaa udføre Arbejdet mv<sup>2</sup> : 2 g
+Meterkilogram ell. 1/2 mv<sup>2</sup> Wattsekunder, hvilket Tal
+altsaa angiver dets kinetiske E. - Et
+Svinghjul, der vejer m kg, som har Middelradius
+(Gyrationsradius, se <sp>Inertimoment</sp>) r
+Meter, og som løber n Gange rundt i Sek., har
+den kinetiske E. 2π<sup>2</sup>n<sup>2</sup>mr<sup>2</sup> Wattsekunder.
+Benytter man som Enhed for Varme 15°
+Gramkalorien, d. v. s. den Varmemængde, der
+udfordres til at opvarme 1 g Vand fra 14 1/2 til
+15 1/2° C., finder man, at 1 Wattsekund = 0,2387
+Gramkalorier, og omvendt, at 1 Gramkalorie =
+4,189 WS. Regnes g til 9,81 som Middeltal, følger
+heraf, at 1 Kilogramkalorie (1000 Gramkalorier)
+= 427 mkg. Den Enhed for E., hvorefter man
+sædvanlig betaler sin Elektricitetsregning, er 1
+Kilowatttime = 3600000 WS = 367000 mkg, 1
+Kilowattsekund] = 102 mkg.
+
+<sp>E.-Kilder</sp>. For Mennesket er
+Solstraalingen langt den vigtigste Kilde til E. Regner man,
+at Solen til hver cm<sup>2</sup> uden for Jordens
+Atmosfære og vinkelret paa Straaleretningen sender
+2 Gramkalorier i Minuttet, saa følger heraf, at
+Jorden i 1 Time modtager lige saa megen
+Varme fra Solen, som der kan vindes ved
+Forbrænding af 20000 Mill. t Stenkul ell. omtr. saa meget
+som hele Jordens Kulproduktion i 20 Aar. Til
+Drivkraft for Maskiner er den direkte
+Solstraalings E. dog for spredt, men ved de
+Bevægelser, den fremkalder i Vand og Luft,
+koncentreres den saa meget, at den bliver
+brugelig. Især i de store Vandfald er den stærkt
+sammentrængt, og hvis Vanskelighederne ved
+Udvinding, Opbevaring og Transport af Flodernes
+E. ikke var for store, vilde Mennesket her have
+en Kilde til mek. E., der i lange Tider vilde
+være mere end stor nok til at dække dets hele
+Behov af denne Art E. Men skønt man ad
+elektrisk Vej kan sprede E. fra et Vandfald ell. et
+andet Centrum over et ret stort Areal og
+foretage nogen Opsamling i elektriske
+Akkumulatorer, egner den kem. E., som Kul og
+Petroleum sammen med Luftens Ilt sidder inde med,
+sig dog langt bedre til Flytning over meget
+store Afstande og især til Opbevaring. Da Kul
+og sandsynligvis ogsaa Petroleum stammer fra
+Organismer, der har udviklet sig ved Hjælp af
+Solens Lys og Varme, er det altsaa opr.
+Sol-E., der holder Dampmaskinen og
+Petroleumsmotoren i Gang, varmer vore Ovne og leverer
+al Drivkraften til Trafik og kunstig Belysning.
+I den indre Jordvarme og Tidevandet har man
+to store Kilder til E., der ikke skyldes
+Solstraalingen, men de er meget lidt anvendelige.
+
+<sp>E.'s Degradation</sp>. Skønt enhver af de
+nævnte 8 Former for E. kan ombyttes efter et
+fast Forholdstal med enhver af de andre
+Former, foregaar de forsk. Ombytninger ikke lige
+let. Jo lettere og fuldstændigere en Form af E.
+lader sig ombytte med en anden, desto mere
+anvendelig er den, og set fra dette Synspunkt
+har navnlig mek. og elektrisk E. høj Værdi,
+medens Varmen indtager den laveste Plads.
+Men forfølger man en E.-Forms Omdannelser

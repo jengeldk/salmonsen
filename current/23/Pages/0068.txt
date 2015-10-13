@@ -1,0 +1,127 @@
+<sp>O. Zscokke</sp> og <sp>A. Näff</sp> og aabnet for Drift 21. Maj
+1871. Medens denne Bane, Arth—Rigi-Banen og
+Rorschach—Heiden-Bjergbanen er
+normalsporede, er alle senere T. smalsporede med
+Sporvidden liggende mellem 1,435 og 0,8 m, mest 1,0
+m. Til Understøttelse af Køretøjerne løber
+disses glatte Hjul paa almindelige Skinner, og
+ofte overføres en Del af Trækkraften
+herigennem.
+
+Man skelner mellem <sp>rene</sp> og <sp>blandede
+T.</sp>, ved hvilke sidste Friktions- og
+Tandstrækninger veksler. Efter Tandstangkonstruktionen
+kan man dele T. i 3 Grupper; den første har
+lodrette Tænder, hvori Tandhjul med vandret
+Aksel griber ind; hertil hører Konstruktioner af
+<sp>Riggenbach</sp>, <sp>Bissinger-Klose</sp>,
+<sp>Maschinenbauanstalt Bern</sp> samt
+<sp>Strub</sp>; den anden har ogsaa lodrette Tænder,
+men Tandstangen er sammensat af to eller flere
+Stykker Fladjern med udfræsede Tænder, som
+er forsat for hinanden; denne Konstruktion er
+angivet af <sp>Abt</sp> 1882; ved den tredie Gruppe
+har Tandstangen vandrette Tænder til begge
+Sider og de indgribende Tandhjuls Aksler er
+lodrette; hertil hører <sp>Locher-Stehlin</sp>'s og
+<sp>Peter</sp>'s Systemer. De fleste T., f. Eks.
+Rigi-Banerne, Rorschach—Heiden,
+Wengeralpebanerne og Berner Oberlandbanen
+(Schynige—Platte), er byggede efter <sp>Riggenbach</sp>'s
+System; Tandstangen, der ligger midt imellem
+Skinnerne, i Reglen hvilende paa store
+Betonblokke, bestaar her (se Fig. 1) af to valsede,
+staaende  C-Jern, hvorimellem de trapezformede
+Tænder er indsatte og fastnittede; Afstanden
+mellem C-Jernene er 100—140 mm og mellem
+Tandmidterne 80—100 mm, almindeligst 100
+mm. De indgribende Tandhjuls Bredde er
+60—100 mm og Diameter 500—1000 mm; Tænderne
+er Evolventtænder, hvorved Tandformen altid
+bliver rigtig, selv ved forskellig dyb Indgriben,
+foranlediget ved Slid paa Løbehjulene og
+Skinnerne; Tandtrykket ligger omkring 6000 kg.
+<sp>Strub</sp>'s Konstruktion adskiller sig fra
+Riggenbach's ved, at Tandstangen bestaar af een
+skinneformet Drager, i hvis Hoved Tænderne er
+fremstillet ved Udsavning og Fræsning; denne
+Konstruktion er bl. a. benyttet paa Montblanc-,
+Brunnen—Morschach-, Jungfrau-, Vesuv- og
+Ritten-Banerne. Ved <sp>Abt</sp>'s Konstruktion, hvor
+Fladjernenes Tænder er forsat 1/2 eller 1/2
+Deling (à c. 120 mm) for hinanden, alt efter som
+Tandstangen bestaar af 2 eller 3 Stykker
+Fladjern, opnaas jævnere Indgribning (forholdsvis
+mindre Tandtykkelser), og Tandhjulet paa
+Lokomotivet bestaar ligeledes af flere enkelte
+Tandhjul paa samme Aksel, med Tænderne
+forsat for hinanden; Systemet tilsigter navnlig at
+muliggøre Anvendelse af Tandbanestrækninger
+og almindelige Friktionsstrækninger imellem
+hverandre, saaledes at Kørslen ved Overgangen
+fra den ene til den anden Strækningsart bliver
+saa jævn og blød som mulig; det er f. Eks.
+anvendt ved Schneeberg-, Monte Generoso-,
+Snowdon-, Gornergrat- samt
+Montreux—Glion-Banerne, der alle har dobbelt Tandstang,
+medens kun 4 Baner, bl. a. Harzen-Banen og
+Usuipas-Banen (Japan), har 3-dobbelt
+Tandstang. Ved Overgangen fra Friktions- til
+Tandstrækning er der indskudt korte, bevægelige og
+fjedrende Tandstangsstykker, hvis Tænder er
+afskærpede for lettere at kunne fange
+Tandhjulene, uden at Tænderne bliver ødelagte. Ved
+T. med særlig store
+Stigninger kan man risikere, naar
+Lokomotivets Vægt ikke er
+tilstrækkelig stor, at
+Tandhjulets Tænder vil søge at
+skubbe sig ud af Indgriben
+med Tandstangen, hvorved
+en Afsporing og
+Nedstyrtning af Toget kan finde Sted.
+Da en for stor Belastning af
+Lokomotivet er uøkonomisk,
+har dette Forhold ført til
+Konstruktionen med de vandret
+liggende Tænder og Tandhjul, hvor en
+Indgriben af disse i Tandstangen altid kan sikres. Ved
+<sp>Locher-Stehlin</sp>'s Konstruktion er den
+dobbelte Tandstang fastboltet til en af Profiljern
+opbygget Dragerkonstruktion; Systemet er ret
+bekosteligt og kun anvendt paa Pilatusbanen,
+hvis største Stigning er 480 ‰; derimod synes
+<sp>Peter</sp>'s Konstruktion, hvor der i den
+skinneformede Dragers Hoved er udfræset vandrette
+Tænder paa begge Sider, simplere og billigere
+og er projekteret anvendt ved flere T. med
+særlig store Stigninger, bl. a.
+Karlsbad-Dreikreuzberg (500 ‰ Maksimalstigning), hvis
+Bygning blev afbrudt under Verdenskrigen.
+
+Ligesom T.'s Tandstangskonstruktion er
+forskellig, er de anvendte Lokomotivers
+Konstruktion forskellig. Der bruges saavel særlige
+Dampeller elektriske Lokomotiver (Fig. 2), som
+saadanne indbygget i Vognene (Fig. 3). Der
+benyttes eet eller to, paa en enkelt T.
+(Pikes—Peak-Banen) tre Drivtandhjul, og desuden et
+Bremsetandhjul. Da det er vanskeligt at faa flere
+Tandhjul til nøjagtig Indgriben samtidig,
+saaledes at Trækkraften fordeles jævnt paa dem
+alle, maa eet Tandhjul foretrækkes. Ved
+Damp-Lokomotiver for rene T. (se Fig. 2) overføres
+Stemplernes Drivkraft paa sædvanlig Maade til
+Krumtappene, der er fastgjort paa en
+Mellemaksel, som dels bærer et Svinghjul, dels et eller
+to Tandhjulsdrev, der griber ind i tilsvarende
+Tandhjul paa Drivtandhjulets Aksel;
+Omsætningsforholdet ligger oftest omkring 1:2.
+Lokomotiver for blandede T. har enten eet eller
+to Dampcylinderpar; i første Tilfælde drives
+saavel de glatte Drivhjul som Drivtandhjulene
+paa een Gang fra dette Cylinderpar; i sidste
+Tilfælde drives Tandhjulene fra det ene
+Cylinderpar, de almindelige Driv- og Kobbelhjul fra
+
+<img>Fig. 1. Tandstang efter Riggenbach's System paa Rigibanen.</img>

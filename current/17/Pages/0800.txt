@@ -1,0 +1,153 @@
+<sp>Indførsel 1922</sp>:
+
+<table>
+<td><td v2c>Mængde<br>1000 t<td v2c>Værdi<br>Mill. Fl.
+<td>
+<td>Kød<td r>29,4<td r>22,1
+<td>Fedtstoffer m. v. til Margarine<td r>57,7<td r>30,6
+<td>Fisk o. a. dyriske Produkter<td r>56,5<td r>40,0
+<td>Kornvarer<td r>1719,5<td r>184,2
+<td>Mel og Fabrikater deraf<td r>233,6<td r>41,0
+<td>Kaffe<td r>58,6<td r>48,3
+<td>Kakaobønner<td r>41,0<td r>22,6
+<td>Sukker, raa og raffineret<td r>146,4<td r>25,9
+<td>Tobak, raa og fabrikeret<td r>25,3<td r>30,3
+<td>Vin<td r>14,7<td r>10,3
+<td>Forskellige Fødevarer<td r>—<td r>25,0
+<td>Copra og Frø til Oliepresning<td r>454,6<td r>107,4
+<td>Oliekager<td r>215,3<td r>32,1
+<td>Bomuld<td r>40,4<td r>35,4
+<td>Forskellige Plantestoffer<td r>—<td r>108,6
+<td>Vegetabilske Olier<td r>59,0<td r>24,5
+<td>Mineralske Olier<td r>496,0<td r>40,5
+<td>Forsk. Olieprod., Tjære m. v.<td r>97,3<td r>25,6
+<td>Fyrretræ<td r>1095,6<td r>72,1
+<td>Andet Træ og Trævarer<td r>510,3<td r>58,9
+<td>Læder og Lædervarer<td r>24,2<td r>48,0
+<td>Manufakturv., Garn, Beklædn.<td r>93,3<td r>288,0
+<td>Teglværksprod., keram. Varer<td r>551,2<td r>22,2
+<td>Glas<td r>51,2<td r>13,3
+<td>Papir<td r>88,8<td r>31,9
+<td>Farvestoffer, kemiske Varer<td r>271,0<td r>49,0
+<td>Stenkul<td r>6216,0<td r>102,5
+<td>Koks, Briketter m. v.<td r>582,0<td r>12,0
+<td>Cement<td r>449,0<td r>14,2
+<td>Salpeter, Kunstgødning<td r>917,0<td r>44,8
+<td>Forskellige Mineraler<td r>—<td r>38,6
+<td>Jern og Jernvarer<td r>705,0<td r>115,7
+<td>Andre Metaller<td r>39,0<td r>33,4
+<td>Maskiner, Værktøj, Apparater<td r>—<td r>138,0
+<td>Fartøjer, Motorvogne m. v.<td r>—<td r>47,5
+<td>Galanterivarer og forsk. Fabr.<td r>—<td r>41,7
+<td r>Ialt<td r>19500<td r>2026,5
+</table>
+
+<sp>Udførsel 1922</sp>:
+<table>
+<td><td v2c>Mængde<br>1000 t<td v2c>Værdi<br>Mill. Fl.
+<td>
+<td>Heste (Stkr)<td r>31300<td r>8,0
+<td>Hornkvæg (Stkr)<td r>118000<td r>23,6
+<td>Svin, Faar, Lam m. v.<td r>—<td r>12,9
+<td>Fisk<td r>104,0<td r>15,8
+<td>Kød<td r>60,2<td r>57,5
+<td>Fedtstoffer<td r>21,2<td r>11,9
+<td>Margarine<td r>59,2<td r>36,1
+<td>Smør<td r>23,1<td r>44,1
+<td>Ost<td r>65,2<td r>53,6
+<td>Mælk (frisk ell. kondenseret)<td r>97,0<td r>38,5
+<td>Æg<td r>9,2<td r>9,8
+<td>Forskellige dyriske Produkter<td r>—<td r>9,8
+<td>Hvede<td r>37,3<td r>4,8
+<td>Andet Korn, Roer m. v.<td r>—<td r>25,8
+<td>Mel og, Fabrikater deraf<td r>208,1<td r>37,7
+<td>Grønsager og Frugt<td r>254,0<td r>30,5
+<td>Kartofler<td r>313,9<td r>17,9
+<td>Blomsterløg<td r>24,1<td r>22,6
+<td>Planter<td r>12,8<td r>4,4
+<td>Forsk. vegetabilske Stoffer<td r>—<td r>75,0
+<td>Vegetabilske Olier<td r>194,7<td r>88,0
+<td>Andre Olier, Tjære m. v.<td r>124,0<td r>18,0
+<td>Kakaosmør<td r>8,7<td r>12,9
+<td>Kakao og Chokolade<td r>16,4<td r>11,4
+<td>Kaffe<td r>26,0<td r>20,5
+<td>Melis m. v.<td r>197,6<td r>50,6
+<td>Tobak, fabrikeret<td r>6,4<td r>13,4
+<td>Spiritus<td r>30,0<td r>9,6
+<td>Forskellige Fødevarer<td r>—<td r>17,5
+<td>Træ og Trævarer<td r>46,5<td r>8,0
+<td>Huder og Produkter deraf<td r>24,3<td r>29,4
+<td>Manufakturvarer, Garn m. v.<td r>46,6<td r>129,2
+<td>Teglværksprod., Keramik m. v.<td r>90,0<td r>8,2
+<td>Glas<td r>26,4<td r>6,5
+<td>Papir<td r>229,3<td r>34,8
+<td>Kem. Produkter, Farvestoffer<td r>94,0<td r>39,1
+<td>Kul og Koks (til Skibsfors.)<td r>2657,0<td r>53,3
+<td>Metaller og Mineraler<td r>539,0<td r>41,7
+<td>Glødelamper<td r>3,4<td r>22,3
+<td>Forskellige Varer<td r>—<td r>51,5
+<td>Skibe, Vogne m. v.<td r>—<td r>15,0
+<td r>Ialt<td r>6900<td r>1221,2
+</table>
+
+<sp>Skibsfarten</sp> er for N. af saa stor Bet.
+som kun for faa andre Lande, idet saavel en
+meget stor Del af Omsætningen med andre
+Lande som af den interne Trafik sker ad
+Søvejen eller gennem Floder og Kanaler. N.'s
+Handelsflaade bestaar (1921) af 651 Dampere
+(Nettotons 1175000) og 217 Sejlskibe (Nettotons
+20000), men hertil kommer Skibene, der kun
+gaar i Flodfart, de for N. karakteristiske Kuf'er,
+Tjalke, Klippers, Flodlægtere m. v. I søgaaende
+Fart indkom. (1921) 10700 Skibe (13,6 Mill. t)
+med Ladning og 3400 Skibe (3,5 Mill. t) uden
+Ladning, og udgik 10000 Skibe (10,9 Mill. t) med
+Ladning, 4100 (5,6 Mill. t) uden Ladning; c. 40 %
+af den ind- og udgaaende Tonnage var under
+nederlandsk Flag, 30 % under engelsk.
+Rotterdam tog c. 60 % af hele den søgaaende
+Skibsfart, Amsterdam de 20 %, medens Resten
+fordelte sig paa forsk. Havne, bl. a.
+Overførselsstederne for Englandsruterne: Hook v. Holland og
+Vlissingen. Farten paa Floder og Kanaler savnes
+der en samlet Statistik for; til Udlandet afgik
+ell. indkom ad denne Vej 36000 Fartøjer (19
+Mill. t). Ved Noordzeekanalen er Amsterdam,
+ved Nieuwe Waterweg Rotterdam bragt i
+direkte Forbindelse med Havet, saaledes at selv
+de største Skibe kan besøge de to Havne. De
+to Kanaler blev anlagt i 1860—70'erne med store
+Omkostninger, men er siden udvidede og
+forbedrede i Overensstemmelse med Skibsfartens
+Krav. Ved Noordzeekanalens Udløb ligger den
+store Fiskerihavn Ymuiden (aabnet 1896).
+Jernbanernes Længde er 3400 km, hvoraf 2050
+km er i Statseje, men samtlige Baner er under
+privat Drift. Dertil kommer for Lokalbaner og
+Sporveje 2500 km Bane. Bank- og
+Kreditvæsenet indtager en fremragende Stilling;
+Amsterdam var allerede i 16.—17. Aarh. et Hovedsted
+i Europa for Pengehandelen og er stadig
+Midtpunktet for Landets Handel og Omsætning.
+Hovedbanken, Nederlandske Bank, har sit Sæde
+der. Ved Hjælp af Postsparebanker og et
+udviklet Giro- og Clearingsystem er Bank- og
+Kreditvæsenet bragt frem til et højt Standpunkt
+under moderne Former.
+<i>J. D.</i>
+</chapter>
+
+<chapter name="Nederlandene (Industri)">
+<b>Industri</b>.
+
+Skønt N. kun i et ret begrænset Omfang kan
+forsyne sig selv med industrielle Raa- og
+Hjælpestoller, har der dog udviklet sig en
+ganske betydelig Industri, der har en væsentlig
+Støtte i Landbruget og Skibsfarten, i N.'s
+Stilling som Moderland for et stort Kolonirige og i
+Landets fortrinlige Beliggenhed for Tilførsler
+over Havet og ad de store Floder, der
+udmunder i N. Forsk. Industrier er kendt fra gl
+Tid (Klæde- og Linnedvæveri, Fajance-,

@@ -1,0 +1,141 @@
+benytte temmelig svage Strømme. Er
+Modstanden i Strømkredsen uden for Magneten lille,
+bruger man en tykkere Magnetiseringsspiral i
+færre Vindinger. Man anvender altid blødt Jern,
+naar E. skal slippe sit Anker, saa snart
+Strømmen afbrydes; ligger Ankeret tæt op til Polerne,
+vil der alligevel blive en betydelig Del af
+Magnetismen til Rest, saa Ankeret kan fastholdes
+med en betydelig Kraft. Sørger man for, at der
+bliver et lille Luftrum mellem Ankeret og
+Polerne, mister Jernet lettere sin Magnetisme.
+Anvendelserne af E. til Telegrafapparater,
+Dynamomaskiner, Elektromotorer o. s. v. er mange og
+vigtige. Om Polernes Beliggenhed, se
+<sp>Elektromagnetisme</sp>.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="elektromagnetiske Bølger">
+<b>elektromagnetiske Bølger,</b> se
+<sp>elektromagnetiske Svingninger</sp> og
+<sp>Radiotelegrafi</sp>.
+</chapter>
+
+<chapter name="elektromagnetiske Svingninger">
+<b>elektromagnetiske Svingninger</b> (hist.). I
+Beg. af 19. Aarh. iagttog W. H. Wollaston og
+M. Faraday, at der ved Udladning af en
+Kondensator gennem en elektrisk Gnist i Vand ofte
+udskiltes <sp>baade</sp> Ilt og Brint ved begge
+Gnistelektroderne, og i en Mængde, der var større
+end den, der iflg. Faraday's elektrolytiske Love
+svarede til den opr. Elektricitetsmængde paa
+Kondensatoren. Dette tydede paa, at
+Udladningen kan foregaa svingende. Forsk. Forsøg over
+den magnetiserende Virkning af
+Udladningsstrømme pegede i samme Retning. H. v.
+Helmholtz paaviste (1847) ved Energibetragtninger,
+at Udladningen under visse Forhold
+nødvendigvis maa foregaa svingende. W. Thomson (Lord
+Kelvin) opstillede (1853) en ret fuldstændig
+Teori for den svingende Udladning af en
+Kondensator. Han fremhævede samtidig Muligheden
+af en direkte Paavisning af disse Svingninger,
+enten ved at vælge Forholdene saaledes, at
+Svingningsperioden blev saa lang, at man
+direkte kan se de enkelte Gnister, ell. ved at
+betragte Gnistbilledet i et hurtig roterende Spejl.
+Saadanne Forsøg udførtes 1857 o. flg. Aar af
+W. Feddersen, hvis Undersøgelser fuldt ud
+bekræftede W. Thomson's Teori. Fig. viser et
+af de af Feddersen saaledes optagne
+Gnistbilleder. Udladningen er øjensynlig svingende
+(oscillerende).
+
+De e. S. dannede det nødvendige Grundlag
+for H. Hertz' Paavisning af de elektromagnetiske
+Bølger (1887), hvis Eksistens ad teoretisk Vej
+var forudsagt af C. Maxwell (1864).
+Paavisningen af de elektromagnetiske Bølger har haft en
+meget stor Bet. for Udviklingen af den moderne
+Elektricitetslære. De elektromagnetiske Bølger
+danner tillige Grundlaget for Radiotelegrafien.
+
+e. S. karakteriseres som Regel ved <sp>Periode</sp>
+og <sp>logaritmisk Dekrement</sp>; af disse er
+Perioden den Tid, en fuldstændig Svingning
+varer, medens Dekrementet giver et Maal for
+Svingningernes Dæmpning og tillige for deres
+Resonansevne. Ang. Teorien for Frembringelsen
+af e. S. og Bølger og disses Anvendelse
+henvises til <sp>Radiotelegrafi</sp>. (<sp>Litt</sp>.: <sp>W.
+Thomson</sp> [Lord Kelvin], <i>Math. a. Physical
+Papers</i> I; <sp>W. Feddersen</sp>, »Entladung der
+Leidener Flasche, u. s. w.« [1857-66]
+[Ostwald's »Klassiker der exakten Wissenschaften«
+Nr 166]).
+<i>P. O. P.</i>
+
+<img>Elektromagnetiske Svingninger.</img>
+</chapter>
+
+<chapter name="elektromagnetisk Induktion">
+<b>elektromagnetisk Induktion,</b> se
+<sp>Induktion</sp>.
+</chapter>
+
+<chapter name="elektromagnetisk Lysteori">
+<b>elektromagnetisk Lysteori,</b> se <sp>Lys</sp>.
+</chapter>
+
+<chapter name="elektromagnetisk Telegraf">
+<b>elektromagnetisk Telegraf,</b> se <sp>Telegraf</sp>.
+</chapter>
+
+<chapter name="Elektromagnetisme">
+<b>Elektromagnetisme.</b> Efter at Ørsted 1820
+havde opdaget, at en elektrisk Strøm virker paa
+en Magnetnaal, fandt man snart, at enhver
+Strømleder er omgivet af et <sp>magnetisk
+Felt</sp>, der i hvert enkelt Punkt har nøjagtig
+samme Egenskaber som det Felt, en Magnet
+frembringer; det magnetiserer Jern og bringer
+en Kompasnaal til at indtage en bestemt
+Stilling. Men ser man paa Strømmens Felt som et
+samlet Hele, viser der sig den vigtige Forskel,
+at Magnetkraftlinierne danner lukkede Kredse
+rundt om Strømlederen, medens de, der dannes
+af en Magnet, i Luften kun danner Buer
+mellem to Punkter af Magnetens Overflade, saa
+man her aldrig kan forfølge en Kraftlinie helt
+rundt, fordi en Del af den ligger i Magnetens
+Masse. Fører man en lang, tyk, lodret
+Kobbertraad (<i>AB</i>, Fig. 1) gennem Midten af et vandret
+Stykke Pap og sender en stærk elektrisk Strøm
+gennem Traaden, kan man paavise Bygningen
+af Strømmens magnetiske Felt ved at strø
+Jernfilspaaner paa Pappet. Spaanerne vil ordne
+sig i Cirkler, gennem hvis fælles Centrum
+Ledningstraaden gaar; men Ordningen er tydeligst
+nærmest ved Traaden, saa Feltet følgelig er
+stærkest her. Sætter man en ganske lille
+Kompasnaal paa Pappet, vil den indstille sig
+parallelt med Filspaanslinierne i dens Nærhed,
+altsaa vinkelret paa Strømlederen. Naalens
+Retning bestemmes ved Ampère's Regel, der i
+Holten's praktiske Tillempning lyder saaledes:
+Man lægger den højre Haand saaledes i
+Strømmen, at denne gaar fra Haandledet til
+Fingerspidserne, og man vender Haandfladen mod
+Naalen. Dennes Nordende vil da drejes til
+Tommelfingersiden (se Fig. 1 og 4). Leder man
+Strømmen fra <i>B</i> til <i>A</i>, vil Naalen vende sig om.
+For at faa stærkere Virkning vinder man en
+lang, isoleret Kobbertraad op til en
+»Magnetiseringsspiral« (Fig. 2) og leder Strømmen
+gennem denne. Ved at anvende Holten's Regel paa
+en hvilken som helst Traadvindings Forhold til
+et Punkt i Traadrullens Hulrum vil man se, at
+de forsk. Vindinger hjælper hverandre med at
+

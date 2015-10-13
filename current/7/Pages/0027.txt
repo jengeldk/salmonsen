@@ -1,0 +1,94 @@
+derfor mere og mere fortrængt af de armerede
+Blykabler. Systemet har tidligere været anvendt
+i ret stor Udstrækning i Kbhvn. <sp>Armerede
+Blykabler</sp> kan efter det anvendte
+Isolationsmateriale deles i <sp>trævlestofisolerede</sp>
+og <sp>papirisolerede</sp> Kabler, som begge kan
+bruges ved <sp>Lavspænding</sp>, medens man til
+<sp>Højspændingskabler</sp> (over 700 Volt)
+udelukkende anvenvender Papirisolation. Man har
+konstrueret Højspændingskabler til en
+Driftsspænding af 80000 Volt.
+
+Medens <sp>Jævnstrømskabler</sp> som Regel kun har
+een Leder (Kore eller Kerne) i hvert Kabel, bygges
+<sp>Vekselstrømskablerne</sp> gerne med lige saa
+mange Ledere, som der er Faser i det
+paagældende Anlæg, eventuelt med Nulleder. I
+Jævnstrømskabler findes oftest indlagt en fra selve
+Kabelkoren isoleret Maaletraad.
+
+Ved <sp>Trævlestofskabler</sp> (Fig. 1)
+isoleres Kobberkernen, som er sammensnoet af fl.
+tynde Traade med en Omspinding af Bomuld,
+Jute e. l., som gennemtrækkes med Isolermasse
+i en opvarmet Vakuumovn. Her omkring presses
+en sømløs Blykappe, som skal beskytte mod
+Indtrængen af Fugtighed. Blykappen er
+beskyttet med en Omspinding af tjæret Jute, uden
+om hvilken der er viklet et Lag stærkt
+Staaltraad eller to Lag tynde, brede Staalbaand
+(<sp>jernbaandsarmerede Kabler</sp>), som igen beskyttes
+imod Rust ved et ekstra Lag tjæret Jute.
+Ved <sp>papirisolerede Kabler</sp> (Fig. 2)
+omvikles de enkelte Ledninger med et
+Papirbaandslag, hvis Tykkelse naturligvis retter sig
+efter den paagældende Driftsspænding. Er der
+fl. Ledere i Kablet, omvikles disse, efter at hver
+enkelt, som nævnt, er isoleret særskilt, med et
+fælles Papirlag, hvorefter det hele imprægneres
+varmt under Vakuum; dernæst ompresses en
+sømløs Blykappe, der armeres paa samme
+Maade som ved Trævlestofkablerne. <sp>Søkabler</sp> er
+byggede ganske som <sp>Jordkabler</sp>, men har
+en stærkere Armering end disse.
+
+Til Samling af Kabler anvendes
+Støbejernsmuffer (Fig. 3), inden i hvilke de enkelte
+sammenstødende Ledninger forbindes med
+rørformede Muffer med Spidsskruer, som skrues ind
+i Lederne, hvorefter det hele loddes sammen;
+de afisolerede Metaldele isoleres igen, og hele
+Muffen fyldes med en isolerende Masse. Ved
+mindre Afgreninger (Stik til Husinstallationer)
+forbindes Stikket til Hovedkablet med
+Klemmer. Ved Steder, hvor fl. Kabler støder sammen,
+anbringes en vandtæt, lukket <sp>Samlekasse</sp>
+(Fig. 4), i hvilken der ved Lavspændingsanlæg
+anbringes Smeltesikringer som Forbindelser mellem
+Kabelenderne. Hvor et Kabel forgrener sig, anvendes
+en Afgreningsmuffe (Fig. 5). Ved Højspænding
+anbringes der i St f. Sikringer
+Knivafbrydere, der kan betjenes udefra, og
+Kassen fyldes med Olie. Ved Endepunktet af Kablet,
+hvor dette gaar over i Luftledning
+ell. til Centralens Samleskinner, anvendes de
+saakaldte Endemuffer (Fig. 6). Armerede Blykabler
+nedlægges ved Lavspænding ubeskyttede i Jorden,
+blot omgivne af Sand ell. syrefrit
+Ler, og afdækkes til Advarsel for eventuelle
+Jordarbejdere med Mursten ell.
+Fliser. Kabler til Højspænding nedlægges oftest med
+en Beskyttelse af Jern ell. Beton (Fig. 7).
+
+<sp>Overjordiske Ledninger</sp>,
+<sp>Luftledninger</sp>, ophænges paa Stativer eller
+Master. Der anvendes udelukkende blanke
+Ledere, som derfor maa ophænges paa
+<sp>Isolatorer</sp>. Den højeste Spænding, for hvilken der
+har været anlagt Luftledninger, er 150000 Volt.
+Til Master anvendes: <sp>Træmaster</sp>,
+<sp>armerede Betonmaster</sp>,
+<sp>Jerngittermaster</sp> og <sp>Staalrørsmaster</sp>.
+<sp>Træmaster</sp> er af Gran ell. Fyr, og imprægneres
+med Kobbervitriol, Zinkklorid, Kvægsølvklorid
+ell. Tjæreolier, som f. Eks. Kreosotolie, hvorved
+de gøres modstandsdygtige over for Angreb af
+Vejrliget, Svampe og skadelige Stoffer i Jorden.
+
+<img>Fig. 6. Endemuffe for Højspændingskabler.</img>
+
+<img>Fig. 7. Betonrør til Højspændingskabler. <i>K</i>: Kabel; <i>B</i>: Beton.</img>
+
+<img>Fig. 8. Gittermast.</img>
+

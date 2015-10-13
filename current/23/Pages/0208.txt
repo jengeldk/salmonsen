@@ -1,0 +1,149 @@
+Staterne. Af de sidste tilhørte 93 Kabler (527 km)
+Danmark, heri indbefattet den danske Andel
+(i alt 110 km) i 3 Telegrafkabler til Sverige, 1
+til Norge og 2 til Tyskland. I danske Farvande
+er endvidere af Det Store Nordiske
+Telegrafselskab udlagt Kabler til England, Frankrig og
+Rusland samt mellem Færøerne og Island (592 km).
+
+Kabelteknikken har i de seneste Aar gjort
+betydelige Fremskridt, idet de ved
+Telefoneringen indvundne Erfaringer paa forsk. Maade har
+fundet Anvendelse ogsaa ved Telegrafkablers
+Konstruktion. Kortere Søkabler til
+Telegrafbrug indrettes saaledes ganske som
+Telefonkabler med Papir-Luftisolation og Blykappe
+i St f. Guttaperka. Ved Dybhavskabler, hvor
+det store Vandtryk nødvendiggør Anvendelse af
+Guttaperkaisolation, har man ved kunstig
+Forøgelse af Selvinduktionen efter Krarup's
+Metode (se <sp>Telefonledninger</sp>) opnaaet en
+betydelig Forbedring af Telegraferingen.
+Væsentlige Resultater paa de store Afstande, der
+her er Tale om, fremkommer dog først, naar
+Kabellederen i St f. den sædvanlige
+Krarup-Bevikling af blød Jerntraad omgives med en
+Bevikling af visse Jern-Nikkellegeringer, hvis
+magnetiske Ledningsevne (Permeabilitet) er fl.
+Gange større. Særlig gunstig er en Legering
+med c. 80 % Nikkel, der tildannes i Bændler
+og vikles om den i Papir indesluttede
+Kobberleder, som derefter gennemgaar forsk.
+Opvarmningsprocesser og ompresses med Guttaperka.
+Oceankabler af denne Art er udlagt af det
+amer. Kabelselskab <i>Western Union</i> og
+benyttes bl. a. til Telegrafering mellem London og
+New York.
+
+<sp>Jordkabler</sp> til Telegrafbrug benyttedes
+tidligere kun under særlige Forhold, f. Eks.
+ved T.'s Indføring gennem større Byer, og
+konstrueredes omtr. som Søkabler med
+Kobberledere af 1,5—2 mm Diameter og
+Guttaperkalag 5—7 mm, kun med svagere Armering af
+Jernbaand. I Reglen fandtes 7 ell. 14 Korer i
+hvert Kabel. Af militære Grunde etableredes i
+Tyskland (1876—81) et udstrakt Jordkabelnet
+mellem de større Byer (i alt 5650 km). Dette nu
+forældede Anlæg erstattes i de senere Aar med
+Kabler af nyere Konstruktion, der muliggør
+Anvendelse af de moderne Telegraferingsmetoder.
+
+For at undgaa de hyppige af Storme og
+Snelag anrettede Forstyrrelser paa de
+overjordiske T. paabegyndtes 1905 lgn. Kabelanlæg
+i England (mellem London og Glasgow). Saavel
+her som i de fleste andre Lande i Europa og
+Amerika fortsættes Anlæggene sammen med
+de f. T. stedfindende Nedlægninger af
+Jordkabler til Telefonbrug (se
+<sp>Telefonledninger</sp>). Samtidig gaar man i stigende Grad over
+til Anvendelse af Dobbeltledninger paa de
+vigtigere Telegraflorbindelser. De større
+Anlægsudgifter for Kabelanlæg i Sammenligning med
+Luftledninger opvejes af de forbedrede
+Driftsforhold, idet man paa de mere konstante
+Kabeldobbeltledninger kan forøge saavel
+Telegraferingshastigheden som Antallet af de paa
+samme Ledningsforbindelse etablerede Kredsløb (se
+<sp>Multiplekstelegrafi</sp>).
+
+Den samlede Traadlængde af Jordens T. er
+1924 over 10 Mill. km, heraf 4 Mill. km i
+Europa og en lgn. Længde i Amerika. Længden
+af de danske T. er c. 15000 km, hvoraf
+Størsteparten er Luftledninger. (<sp>Litt</sp>.:
+<sp>Telegrafdirektoratet</sp>, »Vejledning i den
+ved Statstelegrafvæsenet anvendte Telegraf- og
+Telefonteknik« [Kbhvn 1909]; <sp>C. Baur</sp>, »Das
+elektrische Kabel« [Berlin 1912]. Forsk. Afh. i
+»Das Fernkabel« 1922—24 og <i>Telegraph and
+Telephone Age</i> 1923—25).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telegrafon">
+<b>Telegrafon</b> kaldes en af Danskeren Valdemar
+Poulsen (1898) opfundet elektro-magnetisk
+Fonograf til Optagelse og Gengivelse af Tale o. a.
+Lyde. Princippet for T. beror paa, at Lyden
+ved Omsætning til Mikrofonstrømme (se
+<sp>Telefon</sp>) frembringer vekslende Magnetisering
+i en lille Elektromagnet, hvis Polsko af blød
+Jerntraad føres med passende Hastighed hen
+over en Staaltraad, hvori permanent
+Magnetisme af tilsvarende varierende Styrke
+induceres. Ombyttes Mikrofonen med en Telefon og
+føres Elektromagneten paa ny i samme
+Retning langs Traaden, vil dennes skiftende
+Magnetisme inducere lgn. Strømme i Kredsløbet,
+der gennem Telefonen omsættes i Lyd. I en
+nyere Udførelsesform (1908) er Traaden
+erstattet med en Staalcylinder ell. cirkulær
+Staalplade, paa hvis Overflade Skrivemagneten føres i
+en Skruelinie ell. Spiral ganske som Stiften i
+sædvanlige Fonografer ell. Grammofoner. Bedst
+Lydgengivelse faas med det saakaldte
+Spoleapparat, hvor en tynd Staaltraad (ell.
+Staalbaand) vikles fra en Valse over paa en anden
+med en Hastighed af c. 2,5 m i Sek. forbi en
+stillestaaende Elektromagnet. T. gengiver klart
+Tale, Musik o. s. v. uden forstyrrende Bilyde
+og uden at svækkes ved Gentagelser. Ifølge sit
+Princip er den særlig egnet til Optagelse af
+Telefonsamtaler ved Tilknytning til et
+sædvanligt Telefonapparat. En Abonnent kan paa
+denne Maade optage sine Samtaler med andre
+Telefonabonnenter, ell. T. kan indrettes til
+automatisk at modtage Telefonmeddelelser i
+Abonnentens Fraværelse. Større Anvendelse har T.
+dog faaet som Dikterapparat til Kontorbrug o.
+l. i St f. Stenografer. Ønskes Traaden benyttet
+til en ny Optagelse, kan den tidligere Skrift
+udslettes, naar Skrivemagneten ombyttes med
+en kraftig konstant Magnet. Ved en særlig
+Anordning med Topolsmagnet kan T. indrettes
+saaledes, at Traaden samtidig kan rumme to
+forsk. Taler, der kan høres uafhængigt af
+hinanden.
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telegrafregale">
+<b>Telegrafregale,</b> den Eneret, som Staten
+har til Telegrafdrift. I Danmark er T. sikret
+Staten ved L. af 11. Maj 1897, jfr L. af 30.
+Juni 1919, samt for Radiotelegrafer L. af 19.
+Apr. 1907 og 1. Maj 1920; i Norge ved Love af
+29. Apr. 1899, 18. Aug. 1914, 6. Juli 1923 og
+1. Juli 1926. Disse Love omfatter samtidig et
+Telefonregale, som i Danmark for største Delen
+er overdraget til koncessionerede
+Telefonselskaber (s. d.). I Norge er det meste af
+Telefondriften paa Statens Haand. I H. t. de nævnte
+Lovbestemmelser omfatter Statens Monopol
+ogsaa Radiotelegraf- og -telefon, herunder
+Radiofonien. For Islands Vedkommende gælder L. af
+20. Oktbr 1905. Se i øvrigt <sp>Telegrafvæsen</sp>.
+<i>M. G.</i>
+</chapter>

@@ -1,0 +1,112 @@
+gennemløbes af fl. B., uden at disse forstyrrer
+hinanden. Man siger da, at de forsk. B.
+<sp>interfererer</sp> med hinanden. Vandbølger,
+Lydbølger og Lysbølger viser disse Forhold paa
+væsentlig samme Maade, skønt de tre Slags Bølger
+er af vidt forsk. Art.
+
+Ved <sp>Lydbølgerne</sp> spiller Mediets Vægt
+ingen Rolle, men Bølgerne bevæger sig p. Gr. a.
+dets Elasticitet. Det er her Fortætninger og
+Fortyndinger i Mediet, der vandrer af Sted og
+danner B. Er Mediet flydende (Vand, Luft), bestaar
+Bevægelsen af Svingninger frem og tilbage i
+Forplantningsretningen. I de fortættede Partier
+vandrer Delene fremad, i de fortyndede tilbage,
+hvorfor en ny Fortætning altid er i Færd med
+at dannes paa Forsiden af enhver i et givet
+Øjeblik eksisterende Fortætning.
+Forplantningshastigheden bestemmes alene af Mediets
+Elasticitetsforhold og Tæthed, er altsaa uafhængig af
+Svingningstid og Bølgelængde; den er større,
+jo større Modstanden mod Sammentrykning er,
+og jo mindre Tætheden er. Af B.'s Styrke er
+den ogsaa uafhængig, for saa vidt denne ikke
+er saa stor, at Fortætningerne og
+Fortyndingerne i kendelig Grad ændrer Elasticitetsforhold
+og Tæthed. Staaende Svingninger dannes som
+ved Vandbølger; ved Knuder forstaar man de
+Steder, hvor Mediets Dele holder sig i Ro,
+medens Trykkene skifter.
+
+Elektromagnetiske Bølger (anvendt i traadløs
+Telegrafi), Straalevarme, synligt Lys, ultraviolet
+Lys og Røntgenstraaler anses for at være af
+samme Art, kun forsk. ved Bølgelængden, der
+(i den nævnte Orden) varierer fra fl. km til
+mindre end en Timilliontedel mm. Bølgernes
+Hastighed i lufttomt Rum er 300000 km i
+Sekundet, i Luft en Ubetydelighed mindre, i de
+faste Legemer og Vædsker, som kan
+gennemtrænges, noget mindre, hvorved der
+fremkommer Brydning (Undtagelse i Røntgenstraaler).
+
+<sp>Bølger i faste Legemer</sp> kan være
+meget indviklede, da der forekommer baade
+Længde-, Tvær- og Snoningssvingninger. Eksempler:
+Bølger paa en Snor, Lydbølger,
+Jordskælvsbølger. Se for øvrigt Art. om <sp>Lyd</sp>, <sp>Lys</sp>,
+<sp>Telegrafering uden Traad</sp>, <sp>Jordskælv</sp>,
+<sp>Tidevand</sp>
+
+Den første udførlige Undersøgelse over B.
+skyldes Brødrene <sp>E. H.</sp> og <sp>E. W. Weber</sp>:
+»Wellenlehre auf Experimente gegründet«
+(Leipzig 1825).
+<i>K. S. K.</i>
+
+B. i en Vædske opstaar, naar Vædskens
+statiske Ligevægt forstyrres. Den viser sig ved, at
+der paa Vædskens Overflade danner sig
+Ophøjninger og Fordybninger, som har en
+regelmæssig Form og Bevægelse. Man skelner mellem to
+Slags Bølger: a) <sp>den translatoriske
+Bølge</sp>, ved hvilken de enkelte Vanddele
+flyttes varigt fra deres opr. Plads i en bestemt
+Retning, og b) <sp>den oscillerende Bølge</sp>, ved
+hvilken de enkelte Vanddele beskriver lukkede
+Baner om et fast Midtpunkt, medens kun
+Bølgeprofilen er fremadskridende.
+
+Den translatoriske Bølge opstaar f. Eks., naar
+den ene Ende væg <i>AB</i> (Fig. 1) i et Kar med
+parallelle lodrette Vægge pludselig bevæges et
+Stykke fremefter til Stillingen <i>A</i><sub>1</sub> <i>B</i><sub>1</sub>. Bølgen
+bevæger sig fra <i>A</i><sub>1</sub> <i>B</i><sub>1</sub> videre i Pilens Retning, til
+den støder mod Karrets anden Endevæg,
+hvorefter den igen kastes tilbage og fortsætter sin
+Bevægelse, indtil den til sidst dør ud p. Gr. a.
+Friktionen i Vandmassen. Den Hastighed,
+hvormed en saadan Bølge og dermed de enkelte
+Vanddele bevæger sig, er afhængig af
+Vanddybden, idet den kan udtrykkes ved Formlen
+<i>v</i> = √<i>g·h</i>, hvor <i>v</i> = Hastigheden i m pr.
+Sekund, <i>g</i> = Tyngdens Acceleration i m og <i>h</i> =
+Vanddybden i m. Eksempel paa denne Art
+Bølger er de Bølger, der opstaar, naar man
+pludselig aabner Sluseporten i en Kanal. Flodbølgen,
+der opstaar under Ebbe og Flod som Følge af
+Maanens Tiltrækning paa Jorden, anføres af den
+eng. Videnskabsmand Scott Russell som
+Eksempel paa en translatorisk Bølge, fordi
+Vanddelene bevæger sig varigt fremad. Andre
+Forskere anser derimod Flodbølgen for at være en
+oscillerende Bølge med en meget lang Periode.
+I den eng. Kanal, hvor Vanddybden er c. 100
+m, har Flodbølgen vist sig at have en Hastighed
+af c. 34 m pr. Sekund, hvilket passer ret godt
+med Ovenstaaende Formel for Hastigheden af
+den translatoriske Bølge, idet Formlen giver en
+Hastighed af 31,4 m pr Sekund. Den oscillerende
+Bølge opstaar paa de store Have med
+ubegrænsede Vandmængder til Siderne og i
+Dybden, som Følge af Vindens Indvirkning paa
+Vandoverfladen. De enkelte Vanddele bevæger
+sig ikke bort fra deres opr. Plads, men
+beskriver lukkede Baner omkr. et fast Midtpunkt
+som vist i Fig. 2. Punkterne <i>a</i>, <i>b</i>, <i>c—i</i> betegner
+en Række Vandpartikler i Overfladen, som
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>

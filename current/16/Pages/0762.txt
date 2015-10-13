@@ -1,0 +1,159 @@
+Paris-Konservatoriet, var i nogle Aar Violinist i
+forskellige Teaterorkestre, blev Dirigent ved
+<i>Théâtre de Varietés</i> og optraadte endelig som
+Tenorsanger 1839 paa <i>Opéra-comique</i> i <i>La Reine
+d'un jour</i>, som Adam havde skrevet for ham,
+senere i »Den hvide Dame«, »Zampa« o. s. v.
+1845 gik han til Italien, 1850 til Madrid, 1852
+forlod han Scenen og var derefter 1853—87
+Sanglærer ved Paris-Konservatoriet. Kristina
+Nilsson er Elev af M.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Massetabel">
+<b>Massetabel</b> kaldes i Skovbruget en
+skematisk Oversigt over Vedmassen i de Afdelinger,
+som hører til en Driftsklasse. I den simpleste
+Form opføres Afdelingerne ligefrem i
+Nummerorden; men oftest fordeles de til Aldersklasser,
+og undertiden opfører man ikke blot
+Afdelingens samlede Vedmasse, men tillige Vedmassen
+for hver af de Træarter, som findes paa
+Afdelingen.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Masseter">
+<b>Masseter</b> kaldes den mest overfladisk
+beliggende af Tyggemusklerne (μασσαομαι:
+tygger); den udspringer fra Kindbuen tæt foran
+Øret og fæster sig paa Underkæben foran og
+oven for Kæbevinklen. Den kan ses og føles,
+nu ar man bider Tænderne sammen.
+<i>S. B.</i>
+</chapter>
+
+<chapter name="Masseveaux">
+<b>Masseveaux</b> [ma'svo] (<sp>Masmünster</sp>),
+By i fr. Dept Haut Rhin. Den ligger smukt i
+en af Vogesernes Dale, 405 m o. H., ved Doller
+og Jernbanen Sewen—Sennheim. Den har
+betydelig Fabrikation af Bomuld, Læder og
+Mursten foruden Jernstøberier. Byen har rejst sig
+om et i 8. Aarh. grundlagt Nonnekloster. N. f.
+Byen ligger det 1170 m høje <sp>Rossberg</sp>.
+3600 Indb.
+<i>N. H. J.</i>
+</chapter>
+
+<chapter name="Massevirkning">
+<b>Massevirkning,</b> se
+<sp>Massevirkningslov</sp>.
+</chapter>
+
+<chapter name="Massevirkningslov">
+<b>Massevirkningslov</b> er en matematisk
+Formulering af den Iagttagelse, at
+<sp>Ligevægten</sp>, der indstiller sig ved Blanding af to ell.
+fl. Stoffer, som reagerer kem. med hverandre,
+og <sp>Hastigheden</sp>, hvormed kem.
+Reaktioner foregaar, ikke alene afhænger af Stoffernes
+Art, men ogsaa af deres Mængde pr
+Rumfangsenhed, d. v. s. af deres <sp>Koncentration</sp>.
+M. blev matematisk udformet af Guldberg og
+Waage i Aaret 1867.
+
+Enhver kem. Proces bruger en vis Tid til sit
+Forløb, men denne Tid kan for forsk. Processer
+være yderst forsk., og for samme Proces
+afhænger den af forsk. Faktorer som Temp.,
+Koncentration og Tilstedeværelse af
+Katalysatorer (se <sp>Katalyse</sp> og
+<sp>Reaktionshastighed</sp>). Ved
+<sp>Reaktionshastigheden</sp> forstaar man Stofmængden, der
+omdannes pr Tidsenhed. M. giver os et Udtryk for
+Reaktionshastighedens Forandring, naar de
+reagerende Stoffers Koncentrationer forandres.
+Tænker man sig en kem. Proces forløbende
+mellem Stofferne <i>A</i> og <i>B</i>, saaledes at der
+dannes ny Stoffer <i>A'</i> og <i>B'</i>, kan man skrive denne
+Proces i den kem. Ligning <i>A</i> + <i>B</i> = <i>A'</i> + <i>B'</i>.
+For at <i>A</i> og <i>B</i> skal reagere sammen, maa et
+Molekyle <i>A</i> ramme sammen med et Molekyle
+<i>B</i>, d. v. s. de maa være til Stede samtidig i et
+lille Rum, hvis Tværsnit er af Størrelsesorden
+som Molekylernes Virkningssfære. Hastigheden,
+hvormed <i>A</i> og <i>B</i> reagerer sammen maa derfor
+afhænge af det Antal Sammenstød, der
+foregaar pr Tidsenhed. Sandsynligheden for at eet
+Molekyle <i>A</i> findes i dette lille Rumelement maa
+være proportionalt med det Antal Molekyler <i>A</i>,
+der findes i Rumfangsenheden, altsaa med det
+Antal Grammolekyler <i>A</i>, der findes pr l, d. v.
+s. med Koncentrationen af <i>A</i>. Sandsynligheden
+for at eet Molekyle <i>B</i> findes i et saadant lille
+Rumelement maa paa samme Maade være
+proportionalt med Koncentrationen af <i>B</i>.
+Sandsynligheden for at baade eet Molekyle <i>A</i> og eet
+Molekyle <i>B</i> findes <sp>samtidig i samme</sp>
+Rumelement, d. v. s. at der sker Sammenstød,
+maa da være proportionalt baade med
+Koncentrationen af <i>A</i> og med Koncentrationen af <i>B</i>,
+d. v. s. med Produktet af de to
+Koncentrationer. Sandsynligheden for at to Begivenheder,
+der hver har en vis Sandsynlighed for sig, skal
+ske paa samme Tid er lig Produktet af de
+enkelte Sandsynligheder.
+
+Findes der nu i hver l af
+Reaktionsblandingen <i>a</i> Grammolekyler <i>A</i> og <i>b</i> Grammolekyler <i>B</i>
+er altsaa <i>a</i> Koncentrationen af <i>A</i> og <i>b</i>
+Koncentrationen af <i>B</i>, maa Reaktionshastigheden for
+Processen kunne skrives som <i>h</i> = <i>k · a · b</i>,
+hvor <i>h</i> er Reaktionshastigheden, d. v. s. den
+Mængde maalt i Grammolekyler <i>A</i> ell. <i>B</i>, der
+omsættes pr Tidsenhed; <i>k</i> er en Konstant,
+<sp>Hastighedskonstanten</sp>, der er
+uafhængig af Stoffernes Koncentration, men
+afhænger af Stoffernes Natur og Temperaturen.
+Det fundne Udtryk for Reaktionshastigheden
+gælder kun for den simple kem. Proces, hvor
+to Molekyler reagerer sammen, eet Molekyle
+<i>A</i> med eet Molekyle <i>B</i>. Tænker man sig en
+Proces <i>m A + n B = p A' + q B'</i>, hvor <i>m</i>
+Molekyler <i>A</i> reagerer med <i>n</i> Molekyler <i>B</i>, faas
+et Udtryk for Reaktionshastigheden ved lgn.
+Overvejelse som ovf. For at Reaktionen skal
+finde Sted, skal der samtidig ske Sammenstød
+af <i>m</i> Molekyler <i>A</i> og <i>n</i> Molekyler <i>B</i>; men
+Sandsynligheden for, at <i>m</i> Molekyler <i>A</i> samtidig skal
+være til Stede i det omtalte lille Rumelement
+maa være proportional med Koncentrationen af
+<i>A</i> i <i>m</i>'te Potens, altsaa med <i>a<sup>m</sup></i>, idet som
+allerede nævnt Sandsynligheden for, at fl.
+Begivenheder, der hver for sig har en vis
+Sandsynlighed, skal finde Sted samtidig, er bestemt
+ved Produktet af Sandsynlighederne for hver
+af de enkelte Begivenheder, altsaa her hvor
+Sandsynligheden for den enkelte Begivenhed er
+<i>a</i>, og <i>m</i> Begivenheder skal ske samtidig, faar
+vi, at Sandsynligheden for Samtidighed er
+<i>a · a · a · a</i> — — — (<i>m</i> Gange) = <i>a<sup>m</sup></i>. Paa
+samme Maade ser vi, at Sandsynligheden for
+at <i>n</i> Molekyler <i>B</i> er samtidig til Stede i eet
+lille Rumelement er <i>b<sup>n</sup></i>, hvor <i>b</i> er
+Koncentrationen af <i>B</i>. Sandsynligheden for at <sp>baade</sp>
+<i>m</i> Molekyler <i>A</i> og <i>n</i> Molekyler <i>B</i> er til Stede
+i <sp>samme</sp> Rumelement, saaledes at de
+reagerer sammen, maa være Produktet af de enkelte
+Sandsynligheder og altsaa <i>a<sup>m</sup></i> · <i>b<sup>n</sup></i>.
+Reaktionshastigheden maa da være proportional med
+denne Størrelse, og vi har da <i>h=k·a<sup>m</sup>·b<sup>n</sup></i>, hvor
+<i>k</i> som før er Hastighedskonstanten. Det alm.
+Udtryk for Reaktionshastigheden for en Proces
+<i>m A + n B + r C+ — — — = p A' + q B'
++ s C'</i> + — — er da <i>h = k · a<sup>m</sup> · b<sup>n</sup> · c<sup>r</sup></i> ·
+— — — — naar <i>a, b, c</i> — — — er de
+reagerende Stoffers Koncentrationer i det givne
+Øjeblik. Dette Udtryk kaldes

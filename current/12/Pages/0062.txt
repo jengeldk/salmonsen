@@ -1,0 +1,144 @@
+Virkeligheden bestaar en Nedsættelse af Høreevnen;
+dog kan der ved enkelte nervøse Lidelser findes
+en virkelig H., saaledes, at Patienten hører
+Lyde, der er saa svage, at han normalt ikke
+vilde være i Stand til at opfatte dem.
+<i>J. M.</i>
+</chapter>
+
+<chapter name="Hyperalbuminose">
+<b>Hyperalbuminose</b> (gr.), forøget
+Æggehvideholdighed i Blodet, forekommer ved stærk
+Vædskeafsondring fra Legemet.
+<i>E. A. T.</i>
+</chapter>
+
+<chapter name="Hyperalgesi">
+<b>Hyperalgesi</b> (gr.), en forøget Smertefølelse,
+der kan forekomme med ell. uden alm.
+Hyperæstesi. H. er hyppig til Stede ved nervøse
+Tilstande, f. Eks. ved Hysteri.
+<i>E. A. T.</i>
+</chapter>
+
+<chapter name="Hyperasteni">
+<b>Hyperasteni</b> (gr.), høj Grad af Svækkelse.
+</chapter>
+
+<chapter name="Hyperbasis">
+<b>Hyperbasis</b> ell. <sp>Hyperbaton</sp> (gr.
+Talefigur) er i Retorikken Benævnelse paa
+<sp>Fremhæven</sp>, <sp>Understregning</sp> af Ord og
+Sætningsdele ved Fremflytning, f. Eks. <i>glemme</i>
+vil jeg det, <i>glemme</i> det kan jeg ikke, <i>godt</i> var
+det.
+<i>P. K. T.</i>
+</chapter>
+
+<chapter name="Hyperbaton">
+<b>Hyperbaton,</b> se <sp>Hyperbasis</sp>.
+</chapter>
+
+<chapter name="Hyperbel (matematik)">
+<b>Hyperbel</b> (mat.) er en af de under Navnet
+Keglesnit (s. d.) bekendte Kurver, som allerede
+blev grundig undersøgte af den gr. Oldtids
+Matematikere. Den dannes af de Punkter (<i>P</i>),
+hvis Afstande (<i>F<sub>1</sub>P</i> og <i>FP</i>) fra to faste
+Punkter, <sp>Brændpunkterne</sp> (<i>F</i> og <i>F<sub>1</sub></i>), har
+en konstant Differens; denne, der paa Fig. er
+afsat som <i>AB</i> med samme Midtpunkt <i>O</i> som
+<i>F<sup>1</sup>F</i>, maa være mindre end den tredje Side
+<i>F<sub>1</sub>F</i> i Δ <i>F1PF</i>. <i>FP</i> og <i>F<sub>1</sub>P</i> kaldes
+<sp>Brændstraalerne</sp>. H. bestaar af to Grene, der
+strækker sig i det uendelige, og har to
+<sp>Symmetriakser</sp>: Linien gennem
+Brændpunkterne og Linien vinkelret paa denne i <i>O</i>. <i>O</i> er
+<sp>Centrum</sp> for H., <i>A</i> og <i>B</i> ligger paa H., da
+<i>FA</i>—<i>F<sub>1</sub>A</i>=<i>FA</i>—<i>FB</i>=<i>AB</i>, og kaldes
+<sp>Toppunkterne</sp>; deres Afstand er den saakaldte
+<sp>første Akse</sp>. Forholdet <i>OF</i>/<i>OB</i>=<i>e</i> kaldes
+<sp>Ekscentriteten</sp>; det er altid større end 1. Ved
+<sp>H.'s Parameter</sp> forstaas Korden <i>GH</i>
+gennem et Brændpunkt vinkelret paa den første
+Akse. Lader man et Punkt <i>P</i> fjerne sig i det
+uendelige paa H., vil Linien <i>OP</i> nærme sig til
+en af Grænsestillingerne <i>OS</i> og <i>OS<sub>1</sub></i>, der
+kaldes <sp>H.'s Asymptoter</sp>. Tangenten <i>PT</i> i det
+vilkaarlige Punkt <i>P</i> halverer Vinkelen <i>F<sub>1</sub>PF</i>
+mellem Brændstraalerne til Røringspunktet.
+Henført til Symmetriakserne som
+Koordinatakser (Abscisseaksen paa <i>F<sub>1</sub>F</i>), faar H.
+Ligningen <i>x</i><sup>2</sup>/<i>a</i><sup>2</sup> - <i>y</i><sup>2</sup>/<i>b</i><sup>2</sup> = 1, hvor 2<i>a</i> er den første Akse,
+medens 2<i>b</i>, der kaldes <sp>den anden Akse</sp>,
+er = det Stykke <i>CD</i>, som Asymptoterne
+afskærer paa Linien vinkelret paa <i>F<sub>1</sub>F</i> i <i>B</i>. Er
+Akserne lige store, <i>OB</i> = <i>BD</i>, og altsaa
+Asymptoterne vinkelrette paa hinanden, kaldes H.
+<sp>ligesidet</sp>.
+<i>Chr. C.</i>
+
+<img>Hyperbel.</img>
+</chapter>
+
+<chapter name="Hyperbel (Poesi)">
+<b>Hyperbel</b> (ell. <sp>Hyperbol</sp>), et af Poesiens
+og Retorikkens Virkemidler, hvis Væsen ligger
+i Forstærkelse ell. Overdrivelse af Talen ell.
+Billedet: »Jorden svømmede af Blod«; »et
+Kongerige for en Hest«. H. er et Produkt af
+den følelsesbetonede, forstærkende Fantasi.
+Idet Følelsen, Sindsbevægelsen, Lidenskaben
+stiger, overdriver og forstørrer den den
+bærende Forestilling. Enhver stærk svulmende
+Følelse har Tilbøjelighed til at skyde over
+Maalet og springe op til H. Vreden har sine,
+som Kærligheden har sine: de overskrider
+straks Virkeligheden og griber til Billedet, og
+Billedet antager uventede Dimensioner: »dit
+Asen«, »min Sol, min Rose, min Lilje, mit Lam«.
+Følelser som Forbavselse og Beundring, i det
+hele Følelsen over for det ophøjede og det
+frygtelige, giver sig et naturligt Udtryk i H.
+Orientens Poesi og stærkt patosfyldte Digtere
+anvender særlig dette Virkemiddel.
+<i>Cl. W.</i>
+</chapter>
+
+<chapter name="Hyperbol">
+<b>Hyperbol</b> (gr.), Hyperbel; <sp>hyperbolsk</sp>,
+overdreven; <sp>hyperbolisere</sp>, tale i
+Hyperbler, overdrive.
+</chapter>
+
+<chapter name="Hyperboloide">
+<b>Hyperboloide</b> (mat.) kaldes en
+Keglesnitsflade, naar den har et Centrum og kan skæres
+af Planer i Hyperbler. Der er to Slags H. (se
+Fig.): den <sp>elliptiske</sp> ell. <sp>H. med eet
+Net</sp> og den hyperbolske H. ell. <sp>H. med
+to Net</sp>, idet man ved et Net af en Flade forstaar
+en sammenhængende, fra det øvrige adskilt
+Fladedel. H. har 3 Symmetriplaner gennem Centret <i>O</i>,
+nemlig <i>AOR</i>, <i>BOR</i> og <i>AOB</i>; disse Planer,
+<sp>Hovedplanerne</sp>, skærer hinanden i <sp>Akserne</sp>
+<i>OA</i>, <i>OB</i>, <i>OR</i>, og deres Snit med H.,
+<sp>Hovedsnittene</sp>, er Hyperblerne <i>MM<sub>1</sub>P<sub>1</sub>P</i> og <i>NN<sub>1</sub></i>
+<i>L<sub>1</sub>L</i>, samt ved H. med eet Net Ellipsen <i>ABCD</i>,
+medens H. med to Net ikke skæres af
+Hovedplanen <i>BOR</i>. Planer vinkelrette paa
+henholdsvis <i>OR</i> og <i>OA</i> giver elliptiske Snit; Fladerne
+er paa Fig. tænkte afskaarne ved to af disse,
+<i>LMNP</i> og <i>L<sub>1</sub>M<sub>1</sub>N<sub>1</sub>P<sub>1</sub></i>, men strækker sig
+naturligvis i det uendelige. Disse elliptiske Snit kan
+blive Cirkler, i hvilket Tilfælde H. bliver
+Omdrejningsflader, frembragte ved en Hyperbels
+Drejning om en af dens Akser. Planer gennem
+Aksen <i>OR</i> ved H. med eet Net og gennem <i>OA</i>
+ved H. med to Net skærer i Hyperbler, hvis
+Asymptoter danner Fladernes
+<sp>Asymptotekegler</sp>. Gennem hvert Punkt paa H.
+
+<img>Fig. 1. Elliptisk Hyperboloide.</img>
+
+<img>Fig. 2. Hyperbolsk Hyperboloide.</img>

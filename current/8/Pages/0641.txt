@@ -1,0 +1,111 @@
+Retning afsætter en Længde proportional med
+Lysstyrken i denne Retning. Fig. 10 viser som Eks.
+for en alm. Metaltraadslampe med siksakviklet
+Traad Lysfordelingen i en Meridianplan, en
+lodret Plan gennem Lampen. Man lægger Mærke
+til den ringe Lysstyrke lodret nedad.
+Lysfordelingen for en saadan Lampe er omtr. ens
+i alle Meridianplaner; dette er derimod ikke
+Tilfældet med de alm. Kultraadslamper.
+
+<sp>F. af forskelligfarvet Lys</sp>. De
+tidligere Angivelser af Nøjagtigheden ved F.
+gælder kun, naar Lyskilderne har samme Farve;
+kun i dette Tilfælde kan Grænsen i f. Eks.
+Lummer-Brodhun's Fotometer bringes til helt
+at forsvinde. Allerede ved en lille Farveforskel
+føler man en betydelig Usikkerhed ved
+Indstillingen, og denne Usikkerhed stiger hurtigt med
+voksende Farveforskel, selv om det altid vil
+være muligt at finde to Indstillinger, hvor det
+ene Felt afgjort synes henh. lysere ell.
+mørkere end det andet. Det er derfor en væsentlig
+Ulempe ved Hefnerlampen, at dens Farve
+afviger mere end de fleste andre Lysenheders
+fra de alm. Lyskilders. — Man kunde tvivle
+om, hvorvidt det i det hele er muligt at finde
+et entydigt Maal for Forholdet mellem to forsk.
+farvede Lyskilders Lysstyrke. Her kommer
+først Purkinje-Fænomenet i Betragtning. Hvis
+man i god Belysning har gjort to store Felter,
+et blaat og et rødt, lige lyse (d. v. s., at man
+skønner dem lige lyse) og derefter svækker
+Belysningen af begge Felter i samme Forhold,
+saa vil det røde Felt synes mørkere end det
+blaa; dette skyldes Nethindens særegne
+Bygning (se <sp>Øjet</sp>). (Hvis Felterne derimod er
+ganske smaa, saa at deres Billede paa
+Nethinden højst dækker den gule Plet, optræder
+Purkinje-Fænomenet ikke). Da det imidlertid har
+vist sig, at Purkinje-Fænomenet ikke optræder,
+naar Felternes Belysning holdes over en vis
+Grænse, er det let at undgaa Usikkerhed
+hidrørende herfra. Videre kunde man indvende,
+at forsk. Iagttagere vil indstille forsk.; selv om
+man ser bort fra de helt farveblinde, er der
+betydelige individuelle Forskelligheder i
+Farveopfattelsen. Da imidlertid de i Praksis
+forekommende Farveforskelle aldrig er ret store,
+viser det sig, at det store Flertal af normale
+Iagttagere indstiller ens; den enkelte Iagttager
+maa altsaa først prøve, om han i denne
+Henseende er normal.
+
+Som Middel til at formindske Farveforskellen
+ved F. af forsk. farvede Lyskilder har man
+anvendt at føje til Lyset fra den ene Lyskilde
+en bekendt Brøkdel af Lyset fra den anden.
+Alm. har man ogsaa anvendt at gøre to
+Maalinger med et alm. Fotometer med henh. en
+passende valgt rød og grøn Vædske for Øjet.
+Af de to fundne Forhold mellem Lyskildernes
+Lysstyrke for rødt og grønt Lys beregnes da
+efter et ell. andet empirisk Udtryk en Værdi
+for Forholdet mellem deres samlede
+Lysstyrker, men denne Fremgangsmaade er ikke
+tilfredsstillende. Naar Farveforskellen ikke er for
+stor, synes øvede Iagttagere at opnaa gode
+Resultater ved med et Lighedsfotometer som
+Lummer-Brodhun's at indstille paa, at Grænsen
+mellem Felterne bliver saa uskarp som muligt.
+I øvrigt er den eneste hidtil fundne
+tilfredsstillende Løsning Anvendelse af
+<sp>Flimrefotometret</sp> (Rood, 1893). Det er kendt, at naar
+Nethinden træffes af intermitterende Lys,
+saaledes at de enkelte Lysglimt kommer
+tilstrækkelig hurtigt efter hinanden, opstaar der et
+kontinuert Lysindtryk. (Her kan tilføjes, at
+dersom de enkelte Lysglimt er ens, bliver
+Lysindtrykket det samme, som hvis det i en vis Tid
+glimtvis kommende Lys var jævnt fordelt over
+hele dette Tidsrum [Talbot's Lov]. Herpaa
+beror Anvendelsen af den ovf. omtalte roterende
+Sektor). Men gør man efterhaanden Tiden
+mellem Glimtene længere, ophører til sidst det
+kontinuerte Lysindtryk og erstattes af en
+ubehagelig Flimren. Lad os antage, at vi ser mod
+en roterende Skive med afvekslende lyse og
+mørke Sektorer, og at den roterer saa langsomt,
+at den omtalte Flimren optræder. Denne
+Flimren kan da med uforandret Rotationshastighed
+kun bringes til at forsvinde, ved at man giver
+alle Sektorer samme Klarhed. Hvis Skiven er
+beklædt med afvekslende røde og blaa Sektorer,
+vil der ved den samme langsomme Rotation i Alm.
+ligeledes optræde Flimren, men den kan ogsaa
+bringes til at forsvinde ved at variere de forsk.
+farvede Felters Klarhed, og dens Forsvinden
+maa da antages at være et Tegn paa, at de
+forsk. farvede Felter frembringer samme
+Klarhedsfornemmelse i Øjet. Herpaa beror
+Flimrefotometret, hvis Princip altsaa bliver at lade
+Sammenligningsfeltet belyse afvekslende af de
+to forsk. farvede Lyskilder og variere baade
+Afstand og Vekseltal, indtil al Flimren
+forsvinder ved det lavest mulige Vekseltal. Af de
+allerede foreliggende ikke særligt forsk.
+Konstruktioner viser Fig. 11 en af Krüss angivet.
+
+<img>Fig. 10. Lodret Lysfordeling for Metaltraadslampe.</img>
+
+<img>Fig. 11. Flimrefotometer.</img>

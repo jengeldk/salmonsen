@@ -1,0 +1,135 @@
+og hurtige Tog. 1899 fremkom <sp>Knorr</sp> med en
+Trykluftbremse, hvis Virkemaade i Princippet
+er ganske lig Westinghouse's, men som
+væsentlig adskiller sig fra denne sidste ved en
+enklere Konstruktion af Førerbremseventil og
+Hurtigbremseventil samt en større
+Gennemslagshastighed, nemlig indtil 220 m pr Sek., hvorfor
+den allerede har vundet en Del Indpas. Saavel
+de her nævnte Trykluftbremser som
+<sp>New-York Aire Brake</sp>, <sp>Schleifer-B.</sp> og
+<sp>Soubrin-B.</sp>, der alle er byggede efter samme
+Princip, er <sp>Enkammerbremser</sp>, d. v.
+s. B., hvori Trykluften først ved Bremsning
+slippes ind i Bremsecylinderen paa den ene
+Side af Stemplet, medens den anden staar i
+Forbindelse med Atmosfæren. Der er imidlertid
+ogsaa udført <sp>Tokammerbremser</sp> af
+<sp>Carpenter</sp>, <sp>Schleifer</sp>, <sp>Wenger</sp> og
+<sp>Lipkowski</sp>, hvorved forstaas B., hvis
+Bremsecylindre paa begge Sider af Stemplet under
+Kørslen er fyldt med Trykluft; ved Bremsning
+slippes Luften ud af Hovedledningen og den ene
+Ende af Cylinderen, hvorved Luftens Overtryk
+i den anden Ende bevæger Stemplet frem, og
+B. træder i Virksomhed. Ogsaa ved disse B. er
+Princippet ens, medens Detailkonstruktionerne
+er forsk. For at opnaa saa stor en
+Gennemslagshastighed som muligt, har man ved
+Schleiferbremsen søgt at anvende elektrisk styrede
+Bremseventiler, dog uden gunstigt Resultat. Paa
+Bjergbaner med lange og stærke
+Faldstrækninger anvendes undertiden
+<sp>Henry-Westinghouse Dobbeltbremse</sp>, som er en
+Kombination af den direkte virkende og den
+automatiske Westinghousebremse.
+Trykluftbremserne arbejder med et Tryk paa 4 à 6 Atmosfærer
+i selve Toget og et Par Atmosfærer højere Tryk
+paa Lokomotivet.
+
+9) <sp>Vakuumbremser</sp>. Princippet i den
+<sp>Smith</sp>'ske B., der fremkom 1870, har dannet
+Grundlaget for den første egl. Vakuumbremse,
+den saakaldte <sp>Hardy's simple
+Vakuumbremse</sp>, der indførtes i Østerrig 1877;
+Anordningen ved denne er flg.: Paa Lokomotivet
+findes en ved Damp drevet
+<sp>Dobbel-Ejektor</sp> (ɔ: Luftsuger); den ene (og mindste)
+Ejektor staar ved en Rørledning i Forbindelse med
+Lokomotivets og Tenderens Bremsecylindre —
+Vakuumcylindre, medens den anden
+Ejektor er forbundet med Togets
+Hovedledning og de sig dertil sluttende
+Vakuumcylindre, hvis Konstruktion fremgaar af Fig.
+7; Cylinderen er delt lufttæt i to Rum ved
+et Læderdiafragma <i>b</i>, til hvis Midte en
+Stang er befæstet; Stangens anden
+Ende er forbundet med Bremsetøjet.
+Vakuumcylinderens øverste Rum <i>a</i> staar
+gennem Rørledningen <i>d</i> i Forbindelse med
+Hovedledningen, det nederste med den ydre Luft. De
+enkelte Vognes Hovedledninger er
+sammenkoblede paa lignende Maade, som ved
+Trykluftbremserne ved Hjælp af Gummislanger.
+Skal der bremses, aabner Lokomotivføreren en
+Dampventil, hvorved Damp gennemstrømmer
+Ejektoren, og Luften suges ud af
+Hovedledningen, Stikledningen <i>d</i> og Rummet <i>a</i>; herved
+bliver der Luftovertryk under Diafragmet, som
+hæver sig og den dertil fastgjorte Stang, og
+B. trækkes til; slippes der derefter gennem en
+Luftklap Luft ind i Ledninger og Cylinder,
+falder Diafragmet tilbage i sin opr. Stilling, og
+B. løses. Denne B., der altsaa er en direkte
+virkende, ikke automatisk Enkammerbremse, har
+p. Gr. a. sin enkle Konstruktion og lette
+Haandtering haft en stor Udbredelse. Til
+Enkammerbremserne hører ogsaa <i>Körting</i>'s B., der
+væsentligst adskiller sig fra Hardy's B., derved,
+at der i Vakuumcylinderen i St f. Diafragmet
+anvendes et Støbejernsstempel med
+Gummimanchetpakning til Tætning langs Cylinderens
+Flade. 1880 fremkom <sp>Clayton</sp> (<sp>Vakuum
+brake Co.</sp>) med en <sp>automatisk
+Vakuumbremse</sp>, en Tokammerbremse, der
+blev indført i England; denne B. er senere
+blevet betydelig forbedret og 1895 gjort
+hurtigvirkende af Firmaet »Gebrüder Hardy« i Wien,
+Tokammerbremserne adskiller sig fra
+Enkammerbremserne derved, at Vakuumcylinderens
+to Rum begge er afspærrede fra den ydre Luft;
+under Kørslen er der Luftfortynding paa c. 1/3
+Atm. — et Vakuum paa 0,65 Atm. — paa begge
+Sider af Stemplet, der p. Gr. a. sin Vægt da
+indtager sin nederste Stilling. Ved Bremsning
+slippes Luft ind under Stemplet, som derved
+hæves; denne Bevægelse overføres paa
+sædvanlig Maade gennem Bremsetøjet til
+Bremseklodserne. Luftudsugningen og Lufttilførslen
+sker i øvrigt paa samme Maade som for den
+»simple« Vakuumbremse gennem en
+Dobbel-Ejektor paa Lokomotivet. Ved <sp>Hardy's
+automatiske Hurtigbremse</sp> er der
+imellem hver Vakuumcylinder og Hovedledningen
+indskudt en Hurtigbremseventil, der automatisk
+aabner sig, saa snart der sker en pludselig
+Trykforøgelse i Hovedledningen, hvorved
+Trykket yderligere stiger stærkt paa det
+paagældende Sted i denne; herved bringes atter
+Nabo-Hurtigbremseventilerne til at træde i
+Virksomhed o. s. fr. gennem hele Togets Længde. Ved
+<sp>Hardy's automatiske
+Vakuum-Godstogshurtigbremse</sp>anbringes yderligere
+en Slutventil paa bageste Vogn, og der er ved
+denne B. maalt en Gennemslagshastighed paa
+indtil 350 m pr Sek., hvad der er den største
+hidtil ved nogen B. opnaaede Hastighed. Til
+Tokammerbremserne hører foruden
+forannævnte ogsaa de af <sp>Körting</sp> og <sp>Sanders</sp>
+konstruerede automatiske Vakuumbremser, der
+kun i Detailkonstruktionerne, men ikke i
+Princippet, adskiller sig fra Clayton's B. Endelig
+skal nævnes <sp>Eames</sp>' B., der er en
+Kombination af den »simple« og den automatiske
+Vakuumbremse, ganske svarende til
+Henry-Westinghouse Dobbel-Trykluftbremse.
+
+Paa de danske Statsbaner anvendtes før
+1895 Hardy's »simple« Vakuumbremse, men i
+dette Aar indførtes Hardy's automatiske
+Vakuumbremse. Den nyeste Type Vakuumcylinder
+ses i Fig. 8; Cylinderens to Rum <i>a</i> og <i>b</i> er
+lufttæt adskilte fra hinanden ved en »Rullering« <i>c</i>
+
+<img>Fig. 7. Hardy's
+Vakuum-Bremse.</img>

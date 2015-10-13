@@ -1,0 +1,132 @@
+Bestemmelse af stationære Tilstande. Lad os f. Eks.
+betragte et Brintatom, der er anbragt i et
+stærkt elektrisk Felt. Dette vil fremkalde en
+simpel periodisk Perturbation af
+Brintelektronens Bevægelse, saaledes at det saakaldte
+elektriske Tyngdepunkt af Baneellipsen vil udføre
+en langsom periodisk Bevægelse i en Plan
+vinkelret paa den elektriske Krafts Retning med
+et Periodetal σ, der kun afhænger af Feltets
+Styrke og Baneellipsens Storakse, og
+samtidig vil Centralbanekarakteren af
+Bevægelsen helt undertrykkes. Opløses den
+perturberede Bevægelse i harmoniske
+Svingninger, vil der foruden de
+Svingningskomponenter, som findes i simpel elliptisk Bevægelse,
+optræde ny Svingningskomponenter med
+Svingningstal lig σ og hele Multipla heraf. Efter den
+klassiske Straalingsteori skulde dette give
+Anledning til ny Linier i Spektret med
+Svingningstal σ, 2σ, 3σ o. s. v. Da Svingningstallet σ er
+forholdsvis lille, maa man efter
+Korrespondensprincippet antage, at saadanne
+Linier virkelig vil fremkomme, og man maa
+derfor antage, at Energien i en
+stationær Tilstand med Hovedkvantetallet <i>n</i> er
+givet ved <i>E</i> = <i>E</i><sub>n</sub> + <i>ph</i>σ, hvor <i>E</i><sub>n</sub> er
+Energien af det uperturberede Brintatom i den <i>n</i>'te
+stationære Tilstand og <i>p</i> er et helt Tal. Herved
+faas en overmaade simpel Bestemmelse af de
+stationære Tilstande for Brintatomet i et stærkt
+elektrisk Felt, der giver nøjagtig samme
+Resultater som den af Sommerfeld, Epstein og
+Schwarzschild udarbejdede Metode. Paa lgn.
+Maade kan Korrespondensprincippet anvendes
+til Fastlæggelse af de stationære Tilstande for
+et Brintatom i Magnetfelt. Denne Metode til
+Bestemmelse af stationære Tilstande for
+et perturberet Atomsystem har ikke alene
+Interesse p. Gr. a. sin Simpelhed; men den har
+overordentlig stor Bet. derved, at den, i
+Modsætning til den tidligere Metode, ogsaa kan
+anvendes paa Tilfælde, hvor den perturberede
+Bevægelse ikke er betinget periodisk.
+
+<sp>Spektrene af Grundstoffer med
+højere Atomnumre</sp>. Brintens Spektrum
+er langt simplere end de øvrige Grundstoffers
+Spektre. For disse gælder dog ogsaa
+Kombinationsprincippet; men i St f. en enkelt Rk. af
+Spektralled har man fl. Rækker af saadanne.
+For et saakaldt Buespektrum, der er det
+Liniespektrum, der under alm. Forhold
+udsendes, kan et vilkaarligt Spektralled skrives paa
+Formen <i>K</i>/<i>n</i><sup>2</sup>. (<i>n</i>), hvor <i>K</i> er Rydberg's
+Konstant, den samme som indgaar i
+Spektralleddene for Brint, medens <i>n</i> er et vilkaarligt helt
+Tal og φ<sub><i>k</i></sub>, (<i>n</i>) den <i>k</i>'te af en Rk. Funktioner af
+<i>n</i>, der er forsk. for forsk. Grundstoffer, men
+som altid har den Egenskab at konvergere mod
+1 for store Værdier af <i>n</i>. En vilkaarlig Linie
+af Buespektret har altsaa en Frekvens, der kan
+skrives paa Formen <i>v</i>=<i>K</i>/<i>n</i><sub>2</sub><sup>2</sup> φ <i>k</i><sub>2</sub> (<i>n</i><sub>2</sub>) ÷ <i>K</i>/<i>n</i><sub>1</sub><sup>2</sup> φ <i>k</i><sub>1</sub> (<i>n</i><sub>1</sub>).
+For store Værdier af <i>n</i><sub>2</sub> og <i>n</i><sub>1</sub> falder de ved
+denne Formel bestemte Frekvenser meget nær
+sammen med Frekvenserne for Linierne i
+Brintspektret. Man maa heraf drage den
+vigtige Slutning, at en vilkaarlig Linie i et
+Grundstofs Buespektrum udsendes ved, at en enkelt
+af Atomets Elektroner, som bevæger sig i en
+stationær Bane, der løber langt uden om
+Kernen og de øvrige Elektroner, gaar over til en
+anden stationær Tilstand, som ligger nærmere
+Kernen. Naar Elektronen bevæger sig meget
+langt fra Kernen og de øvrige Elektroner, vil
+Kernen og Elektronerne tilsammen udøve
+meget nær samme Tiltrækning paa Elektronen,
+som en Brintkerne vilde gøre, og Elektronens
+stationære Baner vil da meget nær falde
+sammen med og have samme Energi som de
+stationære Baner i Brintatomet. Efterhaanden
+som Elektronen nærmer sig Kernen og de
+øvrige Elektroner, afviger dens stationære Baner
+mere og mere fra en Brintelektrons Baner,
+som Følge af, at de indre Elektroner nu ikke
+mere virker paa den, som om deres
+Ladninger var samlet i Kernen. <sp>Sommerfeld</sp> har
+vist, at man i grove Træk kan gøre Rede for
+Spektrene ved at antage, at Indvirkningen af
+de indre Elektroner paa den ydre Elektrons
+Bevægelse alene afhænger af dennes Afstand
+fra Kernen, saaledes at den ydre Elektron
+udfører en Centralbevægelse. Funktionerne φ<sub><i>k</i></sub>(<i>n</i>)
+kan man nummerere saadan, at Tallene <i>k</i> faar
+samme Bet. som det Kvantetal, der foran er
+betegnet med samme Bogstav. De Linier i
+Spektret, som svarer til samme Værdier af <i>n</i><sub>2</sub> og
+<i>n</i><sub>1</sub>, men forsk. Værdier af <i>k</i><sub>2</sub> og <i>k</i><sub>1</sub>, skal altsaa
+svare til hverandre som
+Finstrukturkomponenterne af en Brintlinie. At Sommerfeld's Forklaring i
+Hovedsagen er rigtig, bekræftes deraf, at man,
+som Korrespondensprincippet som foran
+omtalt kræver, kun finder saadanne Linier i
+Spektrene, for hvilke <i>k</i><sub>2</sub>—<i>k</i><sub>1</sub>=±1. Det har dog
+ikke paa denne Maade været muligt at gøre
+kvantitativt Rede for noget Stofs Spektrum i
+Detailler, og medens der ingen Vanskelighed
+er med Fastsættelsen af Kvantetallet <i>k</i>, der
+simpelt bestemmer Bevægelsesmængdemomentet
+for den ydre Elektron, har man ikke paa
+Grundlag af Sommerfeld's Antagelse af, at den
+ydre Elektron bevæger sig i et
+Centralkraftfelt, opnaaet en entydig Bestemmelse af
+Hovedkvantetallet <i>n</i> for de til de forsk.
+Spektralled svarende stationære Tilstande.
+
+Foruden Buespektret har man for mange
+Grundstoffers Vedkommende iagttaget et
+saakaldt <sp>Gnistspektrum</sp>, der særlig
+kommer frem ved meget stærke elektriske
+Udladninger. Gnistspektrene er navnlig undersøgt af
+<sp>Fowler</sp>; de har en lgn. Bygning som
+Buespektrene; men i St f. Rydberg's Konstant <i>K</i>
+optræder i Udtrykket for Svingningstallet en 4
+Gange saa stor Konstant. Dette forklarer man
+ved at antage, at Gnistspektrene udsendes ikke
+af neutrale Atomer, men af Atomer, som har
+mistet en af deres Elektroner. I det foregaaende
+har allerede Helium's Gnist-spektrum været
+omtalt.
+
+<sp>Absorptionsspektre</sp>. Idet man, som
+foran omtalt, antager, at Lysabsorptionen i en

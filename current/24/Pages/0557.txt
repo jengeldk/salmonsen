@@ -1,0 +1,159 @@
+ved en Kurve, der kan forløbe mere eller
+mindre regelmæssigt eller mere eller mindre flad.
+Saadanne Kurver kaldes V., undertiden ogsaa
+Galton-Kurver, idet <sp>Galton</sp> (s. d.) er den,
+der først nærmere studerede deres Forløb for
+de levende Væseners Variationers
+Vedkommende. Senere har det vist sig, at V. ofte kan
+være meget uregelmæssige fra næsten ensidige
+til to- eller fler-toppede. Af disse Forhold har
+man villet drage biologiske Slutninger, men
+Betydningen af disse har i Reglen været ganske
+ringe. V. har fra matematisk Side været
+Genstand for indgaaende Studier af Thiele, Pearson
+o. a., idet disse Kurver har stor Interesse for
+Sandsynlighedsregningen.
+<i>W. J.</i>
+</chapter>
+
+<chapter name="Variationsregning">
+<b>Variationsregning</b> (mat.). En meget
+almindelig Type for V.'s Opgaver er følgende: i
+Integralet <i>I</i> = ∫<i>x2</i> <i>x3</i> ∫ (<i>x</i>, <i>y</i>, <i>y</i><sup>1</sup>) <i>dx</i>, hvor <i>f</i> er en
+given Funktion, <i>y</i> en ubekendt Funktion φ(<i>x</i>)
+af <i>x</i>, <i>y</i><sup>1</sup> dens Differentialkvotient, skal φ
+bestemmes saaledes, at Integralets Værdi bliver
+Maksimum eller Minimum. Idet man lader <i>x</i>
+og <i>y</i> betyde Koordinater f. Eks. til et Punkt,
+siges Integralet at være taget langs Kurven
+med Ligningen <i>y</i> = φ (<i>x</i>) mellem
+Grænsepunkterne med Abscisserne <i>x1</i> og <i>x2</i>. Skal denne
+Kurve give Minimum for Integralet, maa dette
+blive større, naar man gaar over til en
+nærliggende Kurve. Tilvæksterne til de forskellige
+Størrelser ved denne Overgang betegnes ved
+δ <i>f</i>, δ <i>y</i>, δ <i>y</i><sup>1</sup> og kaldes <sp>Variationer</sp>. Man
+kommer derved til en Differentialligning
+mellem <i>y</i> og <i>x</i>, som allerede er funden af Euler.
+De Kurver, hvis Ligninger tilfredsstiller denne
+Differentialligning, kaldes Ekstremaler; mellem
+disse maa Opgavens Løsning søges Er
+Grænsepunktet med Abscissen <i>x1</i> foranderligt, idet det
+dog skal ligge paa en given Kurve <i>N</i>, maa <i>N</i>
+og den Ekstremal <i>E</i>, der løser Opgaven, i
+<i>E</i>'s Grænsepunkt <i>x1</i> opfylde en vis
+Betingelse, som kaldes Transversalbetingelsen. Søger
+man f. Eks. den korteste Bue, der forbinder
+et givet Punkt <i>P</i> med et Punkt <i>S</i> paa en given
+Kurve <i>K</i>, bliver Ekstremalerne rette Linier, og
+den transversale Betingelse bliver, at den søgte
+Ekstremal i <i>S</i> skærer <i>K</i> under ret Vinkel. De
+her nævnte Betingelser, og enkelte andre, som
+man har opstillet, er kun <sp>nødvendige</sp>;
+først i den sidste Del af 19. Aarh. fandt man
+<sp>tilstrækkelige</sp> Betingelser for, at en
+Ekstremal indtræder for et vist Omraade — af
+Weierstrass kaldet et Felt — giver den absolut
+største eller mindste Værdi af Integralet. Som
+andre Anvendelser af V. kan nævnes
+Bestemmelsen af den korteste Vej paa en given Flade
+mellem to givne Punkter (den geodætiske
+Kurve); er <i>x y z</i> Koordinaterne til et vilkaarligt
+Punkt paa Kurven, skal <i>y</i> og <i>z</i> vælges som
+saadanne Funktioner af <i>x</i>, at Integralet, der
+udtrykker Buens Længde, bliver Minimum,
+medens <i>x y z</i> tillige stadig tilfredsstiller Fladens
+Ligning. En Opgave inden for V., i hvilken
+Integralet er flerdobbelt, frembyder
+Bestemmelsen af Minimalflader (s. d.). — Den første Spire
+til V. findes i Slutn. af 17. Aarh., idet Jakob og
+Johan Bernoulli o. a. bestemte den
+brakystokrone Kurve (se <sp>Cykloide</sp>) og behandlede de
+<sp>isoperimetriske Opgaver</sp>, der i
+deres simpleste Form gaar ud paa at bestemme
+en Bue af given Længde med givne
+Endepunkter saaledes, at den har en vis Maksimums-
+eller Minimumsegenskab, f. Eks. sammen med
+Endepunkternes Forbindelseslinie indeslutter
+det størst mulige Areal. Mere almindelig søger
+man i disse Opgaver at bestemme Maksimum
+eller Minimum af et Integral, saaledes at et
+andet Integral indeholdende de samme variable,
+Funktioner og Differentialkvotienter faar en
+given Værdi. Euler indførte Navnet V. og gav
+en almindelig Fremgangsmaade; denne
+forbedredes af Lagrange, der først brugte
+Betegnelsen δ. Af betydelige Matematikere, der
+yderligere har udviklet V., kan nævnes Cauchy,
+Legendre og Jacobi. Opstillingen af
+tilstrækkelige Betingelser skyldes Weierstrass, hvis Teori
+findes i Kneser: »Lehrbuch der
+Variationsrechnung«, og Hilbert.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Variationsstatistik">
+<b>Variationsstatistik</b> kaldes den særlig til
+Biologi og Medicin knyttede Disciplin, der med
+matematiske Hjælpemidler studerer
+Variabiliteten (s. d.). V. er udviklet i nøje Tilslutning til
+Fejllæren (s. d.) og Sandsynlighedslæren. Som
+banebrydende Forskere paa den biologiske V.'s
+Omraade kan nævnes Quételet, Fechner, Galton
+(s. d.) og Pearson. Til de vigtigste Problemer
+for V. hører den matematiske Redegørelse for
+de enkelte Variationsrækkers Fordelingsforhold,
+der kan være meget ejendommelige og
+karakteristiske; særlig spiller Bestemmelsen af
+Middelafvigelsen og Symmetriforholdene her en
+Hovedrolle, ligesom ogsaa Sammenhængen
+mellem forskellige Egenskabers Variationer
+(Korrelationsforhold) frembyder vigtige Opgaver.
+Med Hensyn til Arvelighedsspørgsmaal kan V.
+dog kun i Forening med eksakte Forsøg bringe
+Klarhed til Veje, og her har navnlig Pearson
+ensidig overvurderet den rent matematiske V.'s
+Betydning. (<sp>Litt</sp>.: <sp>Quételet</sp>,
+<i>Anthropométrie</i> [1871]; <sp>Galton</sp>, <i>Natural Inheritance</i> [1889];
+<sp>Pearson</sp>, <i>Mathematical Contributions to the
+Theory of Evolution</i> [fra og med 1895
+publicerede i <i>Philosophical Transactions of the Royal
+Society</i>, London]. Tidsskriftet <i>Biometrica</i>
+[London og Oxford] helliger sig helt V. — Blandt
+Lærebøger kan nævnes <sp>Feldman</sp>,
+<i>Biomathematics</i> [London 1923]; <sp>W. Johannsen</sp>,
+»Elemente d. exakten Erblichkeitslehre mit
+Grundzügen d. Variationsstatistik«, 3. Ausgabe [Jena
+1926], Endvidere <sp>Saliger</sp> i <sp>Brugsch</sp> und
+<sp>Lewy</sp>, »Biologie der Person«, Bind 1 [Berlin
+19261).
+<i>W. J.</i>
+</chapter>
+
+<chapter name="Variceller">
+<b>Variceller,</b> d. s. s. <sp>Skoldkopper</sp> (s. d.).
+</chapter>
+
+<chapter name="Varicer">
+<b>Varicer</b> (Flertal af <sp>Varix</sp>),
+<sp>Aareknuder</sp> (s. d.).
+</chapter>
+
+<chapter name="Varicocele">
+<b>Varicocele,</b> <sp>Aarebrok</sp> (s. d.).
+</chapter>
+
+<chapter name="variere">
+<b>variere</b> (nylat.), afvige eller gøre afvigende,
+være eller gøre forskellig; <sp>variabel</sp>,
+foranderlig; <sp>Variation</sp>, Afveksling;
+<sp>Varietet</sp>, Afart. (Se <sp>Variabilitet</sp>).
+</chapter>
+
+<chapter name="Variété">
+<b>Variété</b> [var<sub>i</sub>e'te] (fransk),
+Forlystelsesanstalt af lettere Art med stærkt afvekslende
+Underholdningsprogram udført af Artister,
+Sangere, Dansere af begge Køn. Filmen og
+Revyteatrenes Sketches har overalt i Verden været
+V. en haard Konkurrent; i Kjøbenhavn findes

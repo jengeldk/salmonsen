@@ -1,0 +1,117 @@
+<chapter name="Spejlapparater">
+<b>Spejlapparater</b> til Maaling af smaa
+Formforandringer ved Elasticitetsforsøg brugtes
+første Gang af Bauschinger, og er nu alm.
+anvendte, navnlig i en af Martens ændret Form.
+De er vanskeligere at arbejde med end
+Viserapparater, men til Gengæld nøjagtigere.
+Martens' S. (se Fig.) bestaar af en 15 cm lang
+Maaleskinne <i>M</i> af Staal, der med en Fjer
+klemmes ind mod Prøvestangen, og som foroven
+har en vandret Knivsæg, der bider sig fast i
+denne, og forneden har en vandret Kærv til
+Optagelse af Staalprismet <i>P</i>, til hvilket Spejlet
+<i>S</i> er fastgjort. Til Apparatet hører endvidere
+Maalestokken <i>A</i> og Kikkerten <i>K</i> med
+Traadkors. Ved Forsøgets Beg. er Prismets lange
+Akse <i>r</i> vandret, Spejlet altsaa lodret. Trækkes
+der i Prøvestangen, saaledes at Maalelængden
+forlænger sig et Stykke λ, vil Prismet dreje
+sig en Vinkel, <i>v</i>, bestemt ved Ligningen λ = <i>r</i>.
+sin <i>v</i>. Spejlet har da drejet sig den samme
+Vinkel, og den Lysstraale, som nu reflekteres
+ind i Kikkerten, danner følgelig Vinklen 2<i>v</i>
+med den opr. reflekterede Straale. Kaldes
+Differencen mellem Kikkertaflæsningerne før og
+efter Drejningen <i>a</i>, og Maalestokkens Afstand
+fra Spejlet <i>L</i>, haves <i>a</i> = <i>L . tg2v</i> og følgelig:
+<i>a</i>/λ = <i>L</i> · <i>tg2v</i> / <i>r</i> · <i>sin v</i> ell. <i>a</i> = 2 · <i>L/r</i> · λ,
+idet man for smaa Værdier af <i>v</i> har <i>tg2v</i> ∾ <i>2v</i>
+og <i>sin v</i> ∾ <i>v</i>. Er <i>r</i> = 0,4525 cm og <i>L</i> = 113,1 cm,
+faas <i>a</i> = 2 · 113.1/0,4525 · λ, saa at
+Forlængelsen viser sig 500 Gange forstørret. Man
+anvender altid 2 Apparater, eet paa hver Side
+af Stangen, og tager Middeltallet af de to
+Aflæsninger. Hvis man, umiddelbart efter at have
+befæstet Apparatet, ser ind i Kikkerten, vil
+man se Maalestokken passere langsomt forbi,
+ganske som om Stangen forlængede sig. Man
+har nemlig opvarmet Maaleskinnerne ved at
+tage paa dem, og idet de atter afkøles,
+trækker de sig sammen og drejer Spejlene. Efter
+at have paasat Apparatet, maa man derfor
+vente 10 Minutter, inden man begynder
+Forsøget. Ved meget fine Maalinger bør man
+ogsaa holde Øje med Stuens Temperatur, idet en
+Ændring i denne hurtigere vil forplante sig til
+de tynde Maaleskinner end til den tykkere
+Prøvestang. S. kan ogsaa bruges ved Tryk- og
+Bøjningsforsøg, og i sidste Tilfælde til Maaling
+af saavel Nedbøjningen som Forlængelserne og
+Forkortelserne i Bjælkens Længderetning.
+<i>E. Su.</i>
+
+<img>Spejlapparat.</img>
+</chapter>
+
+<chapter name="Spejlbelægning">
+<b>Spejlbelægning,</b> se <sp>Spejlmetal</sp>.
+</chapter>
+
+<chapter name="Spejlbronze">
+<b>Spejlbronze</b> [-'bråŋs<sub>ə</sub>], se <sp>Spejlmetal</sp>.
+</chapter>
+
+<chapter name="Spejlgaas">
+<b>Spejlgaas,</b> se <sp>Gæs</sp>, S. 514.
+</chapter>
+
+<chapter name="Spejlgalvanometer">
+<b>Spejlgalvanometer,</b> d. s. s.
+<sp>Refleksgalvanometer</sp>, se <sp>Galvanometer</sp>,
+S. 387.
+</chapter>
+
+<chapter name="Spejlglas">
+<b>Spejlglas,</b> se <sp>Glas</sp>, S. 770.
+</chapter>
+
+<chapter name="Spejlhøjdemaaler">
+<b>Spejlhøjdemaaler,</b> <sp>Faustmanns</sp>, se
+<sp>Højdemaaling</sp>.
+</chapter>
+
+<chapter name="Spejling">
+<b>Spejling.</b> Naar Lyset rammer Grænsefladen
+mellem to Legemer med forsk.
+Brydningsforhold, vil noget af det kastes tilbage,
+medens Resten gaar videre. Er
+Grænsefladen spejlende, d. v. s. er
+Uregelmæssighederne i den smaa i
+Sammenligning med Lysets Bølgebredde,
+vil Tilbagekastningen være
+regelmæssig og foregaa efter flg. Love (se
+Fig.): 1) den indfaldende Straale <i>S1</i>,
+den tilbagekastede Straale <i>S2</i> og
+Indfaldsloddet <i>L</i> ligger alle i samme
+Plan, Indfaldsplanet; ved
+Indfaldsloddet forstaas en Linie vinkelret paa
+Grænsefladen <i>A B</i> i det Punkt <i>O</i>,
+som Straalen rammer; 2)
+Indfaldsvinklen i er lig med Udfaldsvinklen
+u. Disse Love gælder ganske uanset
+Formen af Grænsefladen <i>A B</i>, og
+Tilbagekastningen kan derfor under visse
+Forhold give Anledning til Dannelsen af
+skarpe Spejlbilleder (se <sp>Spejl</sp>).
+Tilbagekastningslovene forklares naturligt ud fra Lysets
+Bølgeteori, idet der fra ethvert Punkt af den
+Grænseflade, som Lysbølgerne rammer,
+udgaar ny Bølger til alle Sider; disse Bølger vil
+da interferere indbyrdes og kan da under visse
+Forhold give skarp Billeddannelse; men i
+Virkeligheden er det altsaa
+Interferensforholdene, der er afgørende for Billedets Skarphed
+(jfr <sp>Bøjning</sp>, <sp>Lysets</sp>, og <sp>Interferens</sp>).
+
+<img>Spejling.</img>

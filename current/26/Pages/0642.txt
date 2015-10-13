@@ -1,0 +1,91 @@
+<table>
+<td><td>Hvede<td>Rug<td>Byg<td>Havre<td>Majs<td>Ris
+<td>Grækenland<td r>356<td r>44<td r>158<td r>76<td r>129<td r>—
+<td>Holland<td r>200<td r>440<td r>98<td r>360<td r>—<td r>—
+<td>Italien<td r>6221<td r>166<td r>240<td r>703<td r>1651<td r>632
+<td>Letland<td r>68<td r>215<td r>71<td r>146<td r>—<td r>—
+<td>Litauen<td r>172<td r>475<td r>150<td r>267<td r>—<td r>—
+<td>Luxembourg<td r>19<td r>9<td r>4<td r>43<td r>—<td r>—
+<td>Polen<td r>1612<td r>6110<td r>1527<td r>2498<td r>85<td r>—
+<td>Portugal<td r>205<td r>87<td r>33<td r>56<td r>351<td r>20
+<td>Rumænien<td r>3145<td r>292<td r>1511<td r>980<td r>2756<td r>—
+<td>Spanien<td r>3263<td r>366<td r>1804<td r>505<td r>535<td r>290
+<td>Storserbien<td r>2811<td r>191<td r>394<td r>366<td r>1819<td r>—
+<td>Schweiz<td r>116<td r>44<td r>12<td r>43<td r>3<td r>—
+<td>Tschekkoslovakiet<td r>1402<td r>1780<td r>1402<td r>1423<td r>223<td r>—
+<td>Tyskland<td r>3854<td r>8521<td r>3347<td r>6996<td r>—<td r>—
+<td>Ungarn<td r>2700<td r>828<td r>668<td r>400<td r>1267<td r>—
+<td>Østrig<td r>352<td r>506<td r>282<td r>462<td r>108<td r>—
+<td r>I alt<td r>38345<td r>22897<td r>16172<td r>27301<td r>9700<td r>956
+<td>U. R. S. S. (europæisk og asiatisk Rusland)<td r>21316<td r>19199<td r>5334<td r>15843<td r>3379<td r>400
+<td>Amerika:
+<td>Kanada<td r>14522<td r>371<td r>2970<td r>6973<td r>133<td r>—
+<td>Forenede Stater<td r>24569<td r>1061<td r>7770<td r>21040<td r>72138<td r>855
+<td>Guatemala<td r>5<td r>—<td r>—<td r>—<td r>107<td r>1
+<td>Meksiko<td r>300<td r>—<td r>90<td r>—<td r>2132<td r>75
+<td r>I alt<td r>39396<td r>1432<td r>10830<td r>28013<td r>74510<td r>931
+<td>Asien:
+<td>Korea<td r>234<td r>—<td r>744<td r>59<td r>81<td r>2443
+<td>Formosa<td r>—<td r>—<td r>—<td r>—<td r>—<td r>1229
+<td>Britisk Indien<td r>7860<td r>—<td r>2128<td r>—<td r>2290<td r>49576
+<td>Indokina<td r>—<td r>—<td r>—<td r>—<td r>227<td r>6439
+<td>Japan<td r>839<td r>—<td r>1774<td r>167<td r>84<td r>10905
+<td>Filippinerne<td r>—<td r>—<td r>—<td r>—<td r>426<td r>2197
+<td>Siam<td r>—<td r>—<td r>—<td r>—<td r>5<td r>4600
+<td>Palæstina<td r>65<td r>—<td r>47<td r>—<td r>—<td r>—
+<td>Syrien og Libanon<td r>177<td r>—<td r>298<td r>8<td r>61<td r>—
+<td>Tyrkiet (europæisk og asiatisk)<td r>1400<td r>100<td r>629<td r>59<td r>130<td r>10
+<td>Afrika:
+<td>Algier<td r>825<td r>1<td r>865<td r>210<td r>7<td r>—
+<td>Ægypten<td r>1015<td r>—<td r>235<td r>—<td r>2081<td r>284
+<td>Fransk Marokko<td r>674<td r>1<td r>1050<td r>26<td r>174<td r>—
+<td>Tunis<td r>330<td r>—<td r>275<td r>33<td r>7<td r>—
+<td>Den nordlige Halvkugle i alt<td r>110913<td r>43530<td r>39471<td r>71665<td r>93647<td r>81540
+<td>Den sydlige Halvkugle.
+<td>Amerika:
+<td>Argentina<td r>8365<td r>195<td r>366<td r>946<td r>5886<td r>—
+<td>Brasilien<td r>120<td r>12<td r>9<td r>6<td r>3307<td r>823
+<td>Chile<td r>753<td r>2<td r>126<td r>77<td r>46<td r>—
+<td>Uruguay<td r>414<td r>—<td r>3<td r>58<td r>75<td r>—
+<td>Asien:
+<td>Java og Madura<td r>—<td r>—<td r>—<td r>—<td r>—<td r>5218
+<td>Afrika:
+<td>Sydafrikansk Union<td r>189<td r>—<td r>22<td r>110<td r>1763<td r>—
+<td>Australien:
+<td>Australlandet<td r>4341<td r>—<td r>112<td r>219<td r>289<td r>17
+<td>New Zealand<td r>229<td r>—<td r>17<td r>62<td r>12<td r>—
+<td>Den sydlige Halvkugle i alt<td r>14610<td r>229<td r>926<td r>1497<td r>14265<td r>6876
+<td>Hele Verden<td r>125523<td r>43759<td r>40397<td r>73162<td r>107913<td r>88016
+</table>
+<i>H. S.</i>
+</chapter>
+
+<chapter name="Kornerup, V. V.">
+<b>Kornerup,</b> <sp>V. V.</sp>, d. 24. Marts 1924.
+</chapter>
+
+<chapter name="Kornfalk">
+<b>Kornfalk,</b> se <sp>Kærhøge</sp>.
+</chapter>
+
+<chapter name="Korngold, E. W.">
+<b>Korngold,</b> <sp>E. W.</sp>, blev 1927 Professor i
+Teori m. m. ved Statens Musikakademi i Wien.
+<i>W. B.</i>
+</chapter>
+
+<chapter name="Kornstad">
+<b>Kornstad,</b> <sp>Herred</sp>, Nordmøre 
+Sorenskriveri, Kristiansund Politidistrikt, Møre Fylke.
+Areal 66,2 km. med 1774 Indb. Antagen Formue
+1927 var 1,7 Mill. Kr. og Indtægt 555452 Kr.
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Korolenko, V. G.">
+<b>Korolenko,</b> <sp>V. G.</sp>, d. 25. Decbr. 1921.
+</chapter>
+
+<chapter name="Korona">
+<b>Korona,</b> se <sp>Solen</sp>, S. 912.
+</chapter>

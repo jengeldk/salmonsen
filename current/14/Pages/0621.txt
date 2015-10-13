@@ -1,0 +1,154 @@
+Dampkedelfyringen vil den kun undtagelsesvis være paa
+sin Plads, navnlig hvor Driften jævnlig
+afbrydes. Ved Gassens Fremstilling og flg. Afkøling
+inden Brugen maa det nemlig regnes, at c.
+20—25 % af Brændslets opr. Varmeværdi
+tabes, men i et <sp>stort</sp> og <sp>moderne</sp> indrettet
+Dampkedelanlæg, der betjenes virkelig
+rationelt, kommer der maaske knap saa højt et
+Varmetab. Paa den anden Side maa det
+erindres, at der i den nyeste Tid er kommet
+Generatorer frem (Marischka Generatorer), hvor der
+tilsammen opnaas over 90 % Nyttevirkning,
+dels i udviklet Kraft- og Fyringsgas, dels i
+udviklet Damp, og naar der saa samtidig kan
+indvindes Biprodukter (Tjære og Ammoniak),
+hvis Værdi for en Del dækker Udgiften til det
+anvendte Brændsel, ses det, at det ikke uden
+nærmere Overvejelse i hvert enkelt Tilfælde kan
+afgøres, om de Forhold, der foreligger, taler
+til Gunst for et K.-Anlæg ell., et Kraftanlæg af
+anden Art.
+
+(<sp>Litt</sp>.: <sp>Stra.che</sp>, »Gasbeleuchtung u.
+Gasindustrie [Braunschweig 1913; <sp>P. Fuchs</sp>,
+»Wärmetechnik des Generators u. Dampfkesselbetriebes«
+[Berlin 1913]; <sp>Kietaibl</sp>, »Das Generatorgas«
+[Wien 1909]; <sp>K. Quasebart</sp>, »Gasförmige
+Heizstoffe« [Braunschweig 1917]; <sp>Schilling
+& Bunte</sp>, »Handb. der Gastechnik« [Bd IX,
+München 1919]; <sp>Le Chatelier</sp>, <i>Le
+chauffage industriel</i>; <sp>Miller</sp>, <i>Powergas and the
+gasproducer</i> [Chicago 1911]; <sp>Wyer</sp>, <i>Producer
+Gas and Gas Producers</i> [Lond. 1906]; <sp>Grahl</sp>,
+»Wirtschaftliche Verwertung der Brennstoffe«
+[München 1915]). En ypperlig detailleret
+Litteraturfortegnelse findes i »Handbuch
+der Gastechnik«, Band IX, Pag. 89—90, Pag.
+188—89 og Pag. 237—43. Her er tillige
+mange Tidsskriftartikler af Interesse omtalt).
+<i>R. T.</i>
+</chapter>
+
+<chapter name="Kraftlinier">
+<b>Kraftlinier,</b> tænkte Linier, der inden for en
+vis Naturvirksomheds Omraade drages
+saaledes, at de giver et Billede af de Kræfter, der
+raader her. Den Kraft, hvormed en bestemt
+Enhed (Masseenhed, Enhed for
+Elektricitetsmængde, magnetisk Enhedspol) paavirkes i et
+af »Kraftfeltets« Punkter, virker i Retning af
+Tangenten til K. gennem Punktet, og i de tre
+Kraftfelter, der kendes uden for Legemerne
+(Tyngdens, det elektrostatiske og det
+magnetiske Felt), kan man tillige opnaa at faa
+Kraftliniesystemet til at give et Billede af Feltets
+<sp>Intensitet</sp> (Styrke), idet Linierne kommer
+til, at ligge tættest, hvor Feltets Styrke er
+størst. Se for øvrigt
+<sp>Elektromagnetisme</sp>, <sp>Elektrostatik</sp>, <sp>Induktion</sp>
+og <sp>Magnetisme</sp>.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Kraftmaaler">
+<b>Kraft maa ler,</b> d. s. s. <sp>Dynamometer</sp>.
+</chapter>
+
+<chapter name="Kraftmaskine">
+<b>Kraftmaskine</b> kalder man en Maskine, der
+leverer mekanisk Arbejde til andre Maskiner,
+i Modsætning til Maskiner, der selv drives af en
+K. En Dampmaskine, en Gasmaskine, en
+Turbine og en Vindmotor er Eksempler paa K.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Krafto">
+<b>Krafto,</b> se <sp>Sachalin</sp>.
+</chapter>
+
+<chapter name="Kraftoverførelse">
+<b>Kraftoverførelse,</b> egl. Overførelse af
+Arbejde ell. <sp>Energi</sp>, finder St. paa mange
+Maader baade i den fri Natur og ved tekn.
+Indretninger. Det største os bekendte Eksempel paa
+Flytning af Energi er Solens Udstraaling, men
+i Teknikken benyttes Varmestraaling ikke til
+K. paa længere Afstande. Det vigtigste Middel
+til at frembringe mek. Arbejde paa de St., hvor
+man har Brug for det, er Transport af Stenkul,
+Gas og andet Brændsel, men dette er ikke egl.
+K., da Arbejdet først frembringes paa
+Forbrugsstedet. Snarere kan man tale om K. ved
+transportable elektriske Akkumulatorer, der
+lades af en Dynamo, som drives ved mek.
+Arbejde. Saadanne Akkumulatorer anvendes til
+Drift af Baade, Sporvogne og andre Vogne uden
+dog at spille nogen større Rolle for Trafikken.
+Egl. K. fra et Sted, hvor Arbejdet frembringes,
+til et andet Sted, hvor det benyttes, sker ved
+Hjælp af 1) faste, elastistke Legemer, 2) Vand,
+3) Luft og 4) Elektricitet. Ved ethvert Redskab,
+som der arbejdes med, sker der K. Naar
+Haanden f. Eks. trykker paa Høvlen, og denne
+skræller en Spaan af, sker der K. gennem de
+Spændinger, som Trykkene fremkalder i
+Høvlen. Fra Dampskibets Maskine til Hjulet ell.
+Skruen sker K. gennem Stempelstænger, der
+strækkes og sammentrykkes, samt gennem en
+Aksel, der vrides. I Fabrikker overføres og
+fordeles Dampmaskinens Arbejde gennem Aksler,
+Remme og Tandhjul, og ved <sp>Kabelbaner</sp>
+kan der være temmelig store Afstande mellem
+det Sted, hvor Arbejdet frembringes, og
+Forbrugsstedet. Til Spredning af Energi fra en
+Centralstation (Dampmaskine, Vandfald med
+Turbiner) over et større Omraade som en By
+egner disse Midler sig dog ikke. De bevægede
+Dele vil blive for tunge, Tab ved
+Gnidningsmodstande for store og Indretninger til at
+omgaa Hjørner og fordele Arbejdet for
+sammensatte og upaalidelige. Man tænke kun paa de
+gammeldags Klokkestrenge i en større
+Bygning. Langt større Tilpasningsevne kan opnaas
+ved Hjælp af Vand (se <sp>hydraulisk K.</sp>),
+Luft ell. Elektricitet (se <sp>elektrisk K</sp>.) især
+fordi det her er let at lade Ledningen forgrene
+sig til de forsk. Forbrugssteder.
+
+Ved al K. sker der Tab af Energi, dels i selve
+Ledningen, dels paa de St., hvor den modtager
+og afgiver Energien. Tabene i Ledningen
+skyldes Gnidningsmodstand ell. elektrisk
+Ledningsmodstand. Gnidningsmodstanden er stor ved
+Anvendelse af Vand over lange Strækninger,
+mindre ved Trykluft. I alle Tilfælde ombyttes
+en Del af den Energi, man vil transportere,
+med Varme, som udvikles i Ledningen og gaar
+tabt. — Paa Afsendelsesstedet maa man gøre
+det Middel, der skal besørge K., skikket til
+Hensigten. En Snor ell. Rem maa strammes,
+Vand ell. Luft maa sammentrykkes, og
+Elektricitet maa bringes op til en passende
+Spænding, før de kan bruges. Ogsaa herved opstaar
+der Varmefænomener, der betyder Tab. Dette
+Tab er ved Vand og Elektricitet kun ringe, ved
+Luft meget betydeligt. Luften opvarmes nemlig
+stærkt ved Sammentrykningen, herved stiger
+dens Modstand, og der udfordres mere Arbejde
+til at drive den ind i Ledningen. Paa
+Forbrugsstedet udvider den sig, den afkøles stærkt, og
+dens Tryk og Arbejdsevne synker. En Fordel
+ved at bruge Luft som Overføringsmiddel er
+det, at dens Vægt er ringe, men her overgaas

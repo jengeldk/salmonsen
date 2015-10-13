@@ -1,0 +1,130 @@
+<i>B</i>, som bevæger sig jævnt relativt til <i>A</i>, men at
+det samme ogsaa gælder for de Love, der
+behersker Lyset og de elektromagnetiske Fænomener
+overhovedet. Dette er Einstein's
+Relativitetsprincip, som faar sin ejendommelige
+og revolutionerende Karakter i Sammenligning
+med Relativitetsprincippet i den klassiske
+Mekanik derved, at det principielt kunde synes at
+være uforeneligt med saadanne Erfaringer, som
+vedrører Lysets Natur. Det væsentlige ved dette
+Paradoks kommer til Udtryk i, hvad Einstein
+kalder »Princippet om Lyshastighedens
+Konstans«, hvori han sammenfatter den Erfaring,
+at Fænomenet Lysets Udbredelse foregaar paa
+en saadan Maade, at saavel Iagttageren i <i>A</i> som
+Iagttageren i <i>B</i> vil beskrive denne Udbredelse
+som foregaaende med den samme Hastighed <i>c</i>
+i alle Retninger. Dette er imidlertid netop det
+væsentlige i Michelson's Resultat. Vil man
+benytte sig af den gl. Udtryksmaade, hvor man
+taler om en Verdensæter, saa kan Einstein's
+Synspunkt tolkes paa flg. Maade: kan <i>A</i>
+beskrive de elektromagnetiske Fænomener
+saaledes, at han selv hviler i Forhold til Æteren,
+og <i>B</i> altsaa bevæger sig i Forhold til denne, saa
+er <i>B</i> til Gengæld lige saa berettiget til at anse
+sig selv som hvilende i Æteren, og <i>A</i> som
+bevægende sig i denne. Æteren savner altsaa de
+substantielle Egenskaber, som er saa betegnende
+for Medier som Luft ell. Vand; det har en
+ganske bestemt Mening, naar man siger, at et
+Punkt bevæger sig med saa og saa stor
+Hastighed gennem Luften ell. gennem Vandet; for
+Æteren har et saadant Udsagn ingen bestemt
+Mening; der kan kun tales entydigt bestemt om
+den relative Hastighed af et Punkt i Forhold
+til et andet.
+
+3) <sp>Rum og Tid i
+Relativitetsteorien</sp>. Vi vil nu beskrive, hvorledes Udfaldet
+af Michelson's Forsøg skal tydes ud fra
+Einstein's Principper, og hvordan disse Principper
+overhovedet har ført til en Revision af vore
+Opfattelser af Rum og Tid, ell. — nøjagtigere
+udtrykt — af Resultaterne af Længdemaalinger
+og Tidsmaalinger.
+
+Vi tænker os nu det i 2) betragtede, ved Fig.
+1 illustrerede Forsøg udført først af en
+Iagttager i et »tilladt« Koordinatsystem <i>A</i> (d. v. s.
+hvori Inertiloven gælder), og derefter af en
+anden Iagttager med samme Apparat i et
+System <i>B</i>, der bevæger sig med Hastighed <i>v</i> i
+Forhold til <i>A</i> i Retningen <i>P Q</i>. Begge finder
+for Tidsforløbet mellem Lysets Afgang fra og
+Ankomst i <i>P</i> den samme Værdi 2<i>l</i>/<i>c</i>, og hver for
+sig tyder sit Forsøg, som om Lyset i Forhold til
+hans Apparat har Hastigheden <i>c</i>. Hvordan kan
+Resultatet af <i>B</i>'s, Forsøg nu forklares ud fra <i>A</i>'s
+Standpunkt? Einstein finder: 1) Apparatets Stand
+vil iflg. <i>A</i> ikke længere have den samme
+Længde, som da det hvilede. Den har
+kontraheret sig fra sit opr. »rigtige« Maal <i>l</i> til det
+kortere Maal <i>l'</i> (smlg. Fig. 2), og Forholdet
+mellem <i>l'</i> og <i>l</i> er givet ved Udtrykket √1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup>.
+At denne Kontraktion undgaar <i>B</i>'s
+Opmærksomhed, ligger i, at alle Genstande i hans System,
+de Maalestokke, hvormed han maaler
+Afstanden <i>P Q</i>, hans Krop, o. s. v. deltager i denne
+alm. Kontraktion i v-Retningen. Dette
+Fænomen, at alle Legemer, saa snart de sættes i
+Bevægelse i Forhold til os, synes at trække sig
+sammen i Bevægelsesretningen, kaldes for
+<sp>Lorentz-Kontraktionen</sp>, fordi Lorentz
+allerede 1892 udledte, at kun en saadan
+Kontraktion kunde forklare Resultatet af Michelson's
+Forsøg. P. Gr. a. at Lyshastigheden er saa
+overordentlig stor, er denne Kontraktion
+umærkelig for saadanne Hastigheder, som vi møder
+i det praktiske Liv; men hvis f. Eks. vore
+Jernbanetog kørte med en Hastighed af 200000 km
+pr Sek., vilde den være en dagligdags Erfaring.
+2) Et hvilket som helst Ur, som <i>B</i> benytter for
+at maale den omhandlede Tidsforskel, om det
+saa er et af de samme Ure, som først er blevet
+benyttet i <i>A</i>'s Forsøg, har en langsommere Gang
+end de Ure, paa hvilke <i>A</i> aflæser sin Tid,
+derfor vil <i>B</i> finde en for lille Værdi for denne
+Forskel, en Værdi som forholder sig til den
+»rigtige« Værdi, d. v. s. den Værdi, som <i>A</i> tilkender
+den, som √1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup> forholder sig til 1. At denne
+langsommere Gang undgaar <i>B</i>'s
+Opmærksomhed, ligger i, at »Tiden« overhovedet gaar
+langsommere i <i>B</i>'s Koordinatsystem, om det saa
+drejer sig om Livsprocessernes Forløb i hans
+Krop. 3) <i>B</i> har ikke den samme Opfattelse som
+<i>A</i> af, hvorvidt to Begivenheder er samtidige.
+Saaledes vil <i>B</i> fra sit Standpunkt anse en
+Begivenhed, som sker tæt ved Spejlet <i>Q</i>
+af hans Apparat, i det Øjeblik, hvor
+Lyset kastes tilbage derfra, som samtidig med
+en Begivenhed, der indtræffer tæt ved Punktet
+<i>P</i> af hans Apparat i det Øjeblik, som ligger
+midt imellem Afgangs- og Ankomsttiden for
+Lyset. Fra <i>A</i>'s Standpunkt vil imidlertid den
+første Begivenhed sikkert indtræffe senere end
+den sidste, fordi, som nævnt, Lysets Hastighed
+relativ til <i>B</i>'s Apparat vil være mindre end <i>c</i>
+paa Henvejen og større paa Tilbagevejen.
+
+Af de under 1) og 2) nævnte Punkter vil det
+være klart, at <i>B</i>, for den omhandlede
+Tidsforskel, finder en Værdi, der er i det hele √1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup> X
+√1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup> = (1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup>) Gange mindre, end han
+vilde have fundet, hvis Længdekontraktionen og
+Ændringen i Urenes Gang ikke havde fundet
+Sted. Derved er netop den Forskel
+kompenseret, der, iflg. den i 2) udførte Regning, i dette
+Tilfælde vilde have eksisteret mellem Resultatet
+af <i>B</i>'s og <i>A</i>'s Forsøg.
+
+Betragter vi nu det Tilfælde, hvor <i>B</i> bevæger
+sig i Forhold til <i>A</i> i en Retning vinkelret paa
+<i>P Q</i>, da vil der ikke være Tale om en
+Kontraktion af Stangen, fordi en saadan kun finder
+Sted, naar Hastigheden er parallel med <i>P Q</i>
+ell. har en Komponent i denne Retning. Heller
+ikke vil der nu være nogen Uoverensstemmelse
+
+<img>Fig. 2.</img>

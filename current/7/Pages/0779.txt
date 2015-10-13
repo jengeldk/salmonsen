@@ -1,0 +1,163 @@
+<sp>Luftarter</sp>, som man ikke før havde kunnet
+bringe i Vædskeform. 1825 begyndte han
+sammen med Herschel og Dollond at gøre Forsøg
+med Glas til optisk Brug, og ved den Lejlighed
+dannede han sit »tunge« Glas, der siden kom
+til Nytte ved hans diamagnetiske og
+magnetooptiske Opdagelser. 24. Novbr 1831 mødte han i
+<i>Royal Society</i> med sin Hovedopdagelse,
+Induktionen af elektriske Strømme, saavel ved
+elektrisk Strøm som ved en Magnet. Denne
+Opdagelse, at Elektricitet kan frembringes ved
+Magnetisme, har faaet de mest vidtrækkende
+Følger, og endnu staar saavel Fysikerne som
+Elektroteknikerne midt i Arbejdet med at
+uddybe og udnytte den. Man behøver kun at
+minde om de senere Aars vellykkede Forsøg paa at
+tyde Lyset som svingende Induktionsstrømme
+og om den hurtig stigende Anvendelse af
+elektrisk Lys, elektriske Sporvogne,
+Elektrometallurgi og traadløs Telegrafi, Anvendelser, der alle
+benytter induceret elektrisk Strøm. Med denne
+Opdagelse indledede F. sin lange Række af
+<i>Experimental Researches</i>, der først ender 1856
+med § 15389. Som Hovedpunkter maa desuden
+nævnes: Opdagelsen af Lovene for
+<sp>Elektrolysen</sp> (1833-34) og for <sp>elektrostatisk
+Fordeling</sp> i Isolatorer (1837-38),
+<sp>Fortætning</sp> af fl. Luftarter (1844), <sp>Drejning
+af Lysets Polarisationsplan</sp> i et
+magnetisk Felt (1845), Opdagelsen af
+<sp>Diamagnetismen</sp> (1845). - Men ikke alene
+ved sine Opdagelser fik F. Indflydelse paa
+Videnskabens Udvikling, ogsaa hans
+ejendommelige Syn paa de magnetiske og elektriske
+Fænomener vidner om, i hvilken Grad han besad
+Geniets Evne til at skabe ny Værdier. Han var
+ikke Matematiker og var derved afskaaret fra
+at fordybe sig i sine store Samtidiges mat.
+Arbejder over Elektricitet og Magnetisme, men til
+Gengæld dannede han sig en Forestilling om
+»Kraftlinier«, der vel ikke kom til at trænge
+igennem i hans Levetid, men som senere har
+vist sig som særdeles frugtbar baade for
+Videnskaben og dens praktiske Anvendelser. Det var
+<sp>Maxwell</sp>, der bragte F.'s Ideer til Ære, idet
+han viste, hvorledes ogsaa de kan gøres til
+Genstand for mat. Behandling, og det er disse
+to eng. Forskeres Tankegang, der mere end
+noget andet giver den moderne Fremstilling af
+Elektricitetslæren sit Præg. (<sp>Litt</sp>.: M. F.,
+<i>Experimental Researches in Electricity</i> [3 Bd, 1839
+-55]; <i>Researches in Chemistry and Physics</i>
+[1 Bd, 1859], I disse 4 Bd har F. samlet sine
+Meddelelser til <i>Royal Society</i>. Desuden findes
+der Arbejder af ham i <i>Quarterly Journal of
+Science</i>, <i>Proceedings of the Royal Institution</i>
+og <i>Philosophical Magazine</i>. - Biografier:
+<sp>Bence Jones</sp>, <i>Life and Letters of F.</i> [2 Bd, 1870];
+<sp>Tyndall</sp>, <i>F. as a Discoverer</i> [1 Bd, 1868]. En
+meget udførlig Biografi i <i>Dictionary of National
+Bioqraphy</i>).
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Faraday's Bur">
+<b>Faraday's Bur</b> ['fär<sub>ə</sub>de<sub>i</sub>s-], Cylinder eller
+Kar, et af Metal ell. Metaltraadsnet afgrænset
+Rum, som anvendes ved forsk. elektriske Forsøg.
+Den ledende Flade, der dannes af Metallet,
+skærmer det Rum, den omslutter, mod elektriske
+Paavirkninger udefra. Faraday paaviste dette bl. a.
+ved en meget stor Trækasse, der blev omviklet
+med Kobbertraad og Stanniol og ophængt
+isoleret i stærke Silkesnore. Faraday gik selv ind
+i Buret med følsomme Elektroskoper, hvorefter
+det ladedes stærkt ved at sættes i Forbindelse
+med en kraftig Elektricermaskine. Endskønt der
+sprang lange Gnister fra Kassen til
+Omgivelserne, var der inden i den ikke den mindste
+elektriske Virkning at spore. Dette
+Beskyttelsesprincip anvendes i Netlynafledere. Bringes en
+elektrisk Ladning (<i>Q</i>) ind i et isoleret F. B., vil den
+ved Fordeling frembringe en lige saa stor
+Elektricitetsmængde af modsat Fortegn (-<i>Q</i>) paa
+Indersiden og af samme Fortegn (+<i>Q</i>) paa
+Ydersiden af Buret. Man kalder derfor den
+elektriske Fordeling i dette Tilfælde for den
+fuldstændige Fordeling. Ladningen -<i>Q</i> vil overalt
+i Rummet udenfor nøjagtigt ophæve den
+indførte elektriske Ladnings Virkning, saa at det
+udadtil vil være, som om den fordelte Ladning
+<i>Q</i> paa Burets Yderside er den eneste
+tilstedeværende Ladning. Hvad enten man derfor
+direkte meddeler F. B. Ladningen <i>Q</i>, ell. man
+uden at berøre Buret fører den samme Ladning
+ind paa et vilkaarligt Sted i Buret, vil det faa
+samme Spænding. Heraf gør man Brug, naar
+man skal maale Elektricitetsmængder, der
+sidder paa Isolatorer ell. indeholdes i Straaler, ved
+hvilke den direkte Elektricitetsafgivelse vilde
+volde Vanskelighed.
+<i>E. S. J.</i>
+</chapter>
+
+<chapter name="Faraday's elektrolytiske Lov">
+<b>Faraday's elektrolytiske Lov</b> ['fär<sub>ə</sub>de<sub>i</sub>s-],
+se <sp>Elektrolyse</sp>.
+</chapter>
+
+<chapter name="Farafrah">
+<b>Farafrah,</b> en til den »lille Oase« hørende
+Oasegruppe i Øvreægypten. Den ligger paa 27°
+n. Br. V. f. Nil-Dalen i den Libyske Ørken og
+er beliggende i en Dal, hegnet af c. 300 m høje
+stejle Bjergvægge. I sin dybeste Del er den kun
+25 m o. H.'s Overflade. Arealet er 3300 km<sup>2</sup>,
+hvoraf c. 250 km<sup>2</sup> er opdyrkede og beplantede
+med Dadler. Tidligere levede her en talrig
+koptisk Befolkning; nu findes her kun c. 500
+Mennesker i de to Flækker Kasr-F. og Scheik-Murzuk,
+de er fanatiske Muhammedanere, hørende til
+den i Nordafrika meget udbredte Senussi-Sekt.
+<i>C. A.</i>
+</chapter>
+
+<chapter name="Faraglioni">
+<b>Faraglioni</b> [-l<sub>i</sub>oni], se <sp>Cyklop-Øerne</sp>.
+</chapter>
+
+<chapter name="Farallones">
+<b>Farallones</b> [-'l<sub>i</sub>ånæs], Gruppe af 3 smaa
+høje Klippeøer, 48 km V. f. Indsejlingen til S.
+Franciscos Havn. Rugeplads for Tusinder af
+Fugle, hvis Æg falbydes paa Torvet i S.
+Francisco; paa den største af Øerne er et Fyrtaarn.
+</chapter>
+
+<chapter name="Farandole">
+<b>Farandole</b> [fara'dål] (<i>Farandoula</i>) en i
+Provence brugelig Dans i hurtigt Tempo af en lys
+og munter Karakter, sædvanlig i 6/8 Takt.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Farao">
+<b>Farao</b> er det Navn, hvormed Ægyptens
+Konge i Reglen betegnes i Bibelen; dette
+stemmer meget vel overens med Ægypternes egne
+Skr, thi her betegnes Landets Konge, naar hans
+Navn og Titler ikke anføres, utallige Gange med
+et Ord, der bet. »Det store Hus«, og som man
+plejer at læse <i>per-ao</i> ell. <i>par-ao</i>. Uagtet denne
+Betegnelse for Landets Hersker i hieroglyfiske
+Indskrifter anvendes langt ned i Kejsertiden,
+omtales ell. forklares Ordet F. dog aldrig af
+gr. og rom. Forf. Da man i Østerlandene
+endnu bruger Betegnelser som »Den høje Port«,
+»Divan«, om Landets Regering, ligger det ikke
+saa fjernt at betegne Herskeren som »Det store
+Hus«.
+<i>V. S.</i>
+</chapter>
+

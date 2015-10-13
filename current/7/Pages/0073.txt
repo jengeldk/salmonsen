@@ -1,0 +1,99 @@
+Glasstøtter (se Fig. 7, paa hvilken den forreste
+Kvadrant er borttaget). <i>A</i> og <i>C</i> er sat i ledende
+Forbindelse med hinanden ved en Metaltraad,
+ligesaa <i>B</i> og <i>D</i>. Inde i Daasen svæver en
+»Naal« <i>EE</i>. dannet af en tynd Aluminiumplade
+og ophængt ved et Silkespind. Forneden bærer
+Naalen en fin, lodret Platintraad, der dypper
+ned i et Glas med stærk Svovlsyre; udvendig
+er Glasset belagt med Tinfolie og danner altsaa
+en Slags Leydnerflaske. Tillige tjener
+Svovlsyren til at holde Luften tør. Skal
+Instrumentet bruges, lader man først Aluminiumnaalen
+til en høj Spænding, der i lang Tid vil kunne
+holde sig uforandret p. Gr. a. Leydnerflaskens
+store Kapacitet. Saa længe alle fire
+Kvadranter har samme Spænding, virker der kun
+drejende Kræfter fra Ophængningstraaden, og
+man indretter det saaledes, at Naalen
+kommer til at staa, som Fig. 6 viser. Men forbinder
+man f. Eks. Kvadranterne <i>A</i> og <i>C</i> med den
+positive Pol paa et galvanisk Element, <i>B</i> og <i>D</i>
+med den negative, og er Naalen ladet positivt,
+saa vil den dreje sig ind i <i>B</i> <i>D</i>, indtil
+Silkespindets Snoningsmodstand standser Bevægelsen. Paa
+Naalen sidder et Spejl, ved Hjælp af hvilket
+dens Udslag kan aflæses, enten ved at man
+lader en Lysstraale kastes tilbage fra Spejlet og
+hen paa en Maalestok, ell. ved at man betragter
+Maalestokken Billede i Spejlet gennem Kikkert.
+
+Kvadrantelektrometret kan bruges med
+forskellige Forbindelser. Den almindeligste er den
+allerede omtalte <sp>Kvadrantforbindelse</sp>,
+ved hvilken de to Kvadrantpar forbindes med
+den Spændingsforskel, der skal maales, og
+Naalen holdes paa en høj og konstant Spænding.
+Saa længe den søgte Spændingsforskel er lille
+i Forhold til Naalens Spænding, vil Udslaget
+være proportionalt med Spændingsforskellen,
+men ved større Spændingsforskelle ophører
+Proportionaliteten, og desuden vil Følsomheden
+være forsk., efter som Udslaget sker til den ene
+ell. den anden Side. Man kan da sætte
+Spændingsforskellen til i modsat Retning og tage
+Middeltallet af de to Udslag. Følsomheden vokser
+med Naalens Spænding, dog kun til en vis
+Grænse, yderligere Spændingsforhøjelse
+nedsætter den atter.
+
+Ved <sp>Naalforbindelse</sp> sættes den søgte
+Spænding til Naalen, medens Kvadranterne
+holdes paa lige store, men modsatte Spændinger
+ved at forbindes med Polerne af et Batteri,
+hvis Midte er afledet til Jord. Følsomheden er
+ved samme Hjælpespænding mindre end ved
+Kvadrantforbindelse.
+
+Uden Hjælpespænding anvendes
+Kvadrantelektrometret ved <sp>den idiostatiske
+Forbindelse</sp> (ogsaa kaldt Dobbeltforbindelsen).
+Naalen og det ene Kvadrantpar forbindes med
+hinanden og med den søgte Spændingsforskels
+ene Pol, den anden føres til det andet
+Kvadrantpar. Udslagets Størrelse bliver
+proportional med Spændingsforskellens Kvadrat, og dets
+Retning uafhængig af dens Fortegn. Denne
+Forbindelse anvendes derfor til Maaling af
+Vekselspændinger.
+
+Kvadrantelektrometret er blevet forbedret af
+<sp>Dolezalek</sp>. I den ny Form er Beholderen
+med Svovlsyren fjernet, og Ladningen sker
+gennem Ophængningstraaden, en tynd Kvartstraad,
+der har været dyppet i en Opløsning af
+Klorkalcium. Det ringe Spor af det vandsugende
+Salt, der er blevet tilbage paa Traaden, er
+tilstrækkelig til at lede. Naalen dannes af to
+ottetalsformede Stykker Sølvpapir, der er
+klæbede sammen i Randen, men ved Midten staar
+noget fra hinanden. Kvadranterne og Naalen
+er isolerede ved Rav. Ved Kvadrantforbindelse
+og 110 Volts Naalspænding er Udslaget paa en
+Skala i 2 m's Afstand 1 mm for 10<sup>÷5</sup> Volt, naar
+Svingningstiden er c. 20 Sek.
+
+<sp>Binantelektrometret</sp>. Et med
+Kvadrantelektrometret beslægtet E. er det af
+<sp>Curie</sp> konstruerede Binantelektrometer, hvis nuv.
+Form skyldes <sp>Dolezalek</sp>. Naalen er i dette
+delt i to ens og fra hinanden isolerede Halvdele
+N<sub>1</sub> N<sub>2</sub> (Fig. 8), der lades op til lige store,
+modsatte Spændinger af et Hjælpebatteri. Den ene
+Halvdel faar Ladningen gennem Platintraaden,
+hvori Naalen er ophængt, den anden gennem en
+fra Naalens Underside nedhængende meget tynd,
+
+<img>Fig. 9.</img>
+
+<img>Fig. 10.</img>

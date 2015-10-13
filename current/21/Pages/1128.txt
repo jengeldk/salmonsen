@@ -1,0 +1,134 @@
+modsat Side. Betydningen af Opløsningen i
+Serier omtales ndf. Alle Na-linier og alle de
+flg. Alkalimetallers Linier er dobbelte; det ses
+paa nogle af Linierne i Fig. 5 forneden, mens
+de to Linier i hvert Par ligger for tæt sammen
+til at ses adskilte i Fig. 4.
+
+De fleste andre Spektre er endnu mere
+komplicerede, meget linierigere, og Linierne
+optræder i Grupper paa 3 (Tripletter), 4, 5. ., idet
+dog saadanne Grupper ofte er saa stærkt
+adskilte, at talrige andre Linier falder ind
+derimellem. Et endnu relativt simpelt
+Tripletspektrum, Zinkspektret, er vist i Tavlens Fig. 6,
+hvor de 3 sammenhørende Linier i hver Triplet
+er mærket forneden. Nogle Tripletter med
+større Adskillelse tilhører Cadmium, der har
+været til Stede som Urenhed. Betydningen af
+Bogstaverne <i>s</i> og <i>d</i> omtales ndf. Et særdeles
+linierigt Spektrum er Jernspektret, som det
+fremgaar af Tavlens Fig. 1, men man kender
+endnu meget mere komplicerede Spektre,
+saaledes de fleste sjældne Jordarters.
+
+Til en nøjagtig Beskrivelse af et Stofs
+Spektrum hører foruden Angivelse af hver Linies
+Bølgebredde og relative Styrke ogsaa en
+nærmere Beskrivelse af Linierne, idet de viser
+karakteristiske kvalitative Forskelligheder.
+Nogle Linier viser let Selvabsorption (se ndf.);
+nogle er udpræget skarpe, andre mere ell.
+mindre uskarpe (diffuse), og denne Uskarphed kan
+være symmetrisk ell. kun til den ene Side og
+da mod kortere Bølgebredder for nogle, mod
+lange for andre. Til Karakterisering af den
+enkelte Linie hører endvidere Kendskab til
+Zeeman-Effekten ell. den Maade, hvorpaa Linien
+paavirkes af, at Lyskilden befinder sig i et
+magnetisk Felt, til Stark-Effekten ell.
+Paavisningen af et elektrisk Felt, til Liniens Ændring
+ved en Trykændring i Lyskilden m. m. (forøget
+Tryk gør gerne Linierne uskarpere,
+begunstiger Selvabsorption og forskyder Liniens
+Midte lidt mod længere Bølgebredde), men
+disse sidste Forhold kræver særlige, ofte
+omfattende Undersøgelser. Hvad Kendskabet til
+selve Spektrene angaar, er Resultatet af de
+sidste 40 Aars Undersøgelser et overordentlig
+omfattende Materiale, paa Grundlag af hvilket
+man tør hævde, at alle Stoffers Spektre er godt
+kendte i det synlige og nærmeste ultraviolette
+Omraade, om end Materialets Værdi er ret
+uensartet, og største Delen af Maalingerne
+endnu er i Rowland's Skala. Derimod er
+Kendskabet til Spektrenes ultrarøde og yderste
+ultraviolette Del endnu ret mangelfuldt; for den
+sidste Dels Vedk. bringer dog hvert Aar betydelige
+Fremskridt.
+
+c). <sp>Liniespektrenes Teori</sp>. Efter
+Balmer's Opdagelse blev der især af Rydberg i
+Lund og Kayser og Runge fra 1890 gjort et
+betydeligt Arbejde paa at finde lgn.
+Lovmæssigheder i Ordningen af Linierne i andre Stoffers
+Spektre. For fl. Stoffer, især Alkalimetallerne,
+men ogsaa enkelte andre, lykkedes det hurtigt
+at indordne et stort Antal af Linierne i lgn.
+Serier med tættere og tættere Ophobning af
+Linierne hen imod en Grænse, men for hvert Stof
+var der fl. saadanne Serier, og Liniernes
+Svingningstal kunde ikke udtrykkes ved en saa
+simpel Formel som for Brint. Et meget stort
+Arbejde blev derefter gjort for at finde det
+nøjagtige mat. Udtryk for
+Lovmæssigheden i disse Spektre, men uden egl.
+Held. Dog fandt Rydberg fl. vigtige
+Lovmæssigheder, og Ritz opdagede
+1908 det saakaldte
+<sp>Kombinationsprincip</sp> (se ndf.). Imidlertid
+ændredes det teoretiske Grundlag for S.
+fuldstændigt ved N. Bohr's
+epokegørende Arbejder 1913 og følgende Aar,
+hvorved S. fra at være en væsentlig
+empirisk Videnskab blev et af de vigtigste Afsnit
+af Fysikken, idet den paa den ene Side fik
+det faste teoretiske Grundlag, som er
+nødvendigt for metodisk og udbytterigt Arbejde, og
+paa den anden Side viste sig at kunne give de
+mest direkte Oplysninger om Atomers og
+Molekylers Bygning. Grundlaget for Bohr's
+Anskuelser om Atomets Bygning og Spektrenes
+Udsendelse, der er omtalt udførligt under
+Kvanteteori (S. 7—13, citeret i det flg. som Kv.), er
+de to flg. Postulater:
+
+I. Et Atom kan kun eksistere i længere Tid
+i en vis Rk. Tilstande svarende til en
+diskontinuert Rk. af Værdier for dets Energi, saa at
+enhver Forandring af dets Energi, ogsaa
+Emission og Absorption af Straaling, kun kan finde
+Sted ved en fuldstændig Overgang mellem to
+saadanne Tilstande. Disse Tilstande kaldes
+Atomets stationære Tilstande.
+
+II. Den Straaling, der absorberes ell.
+emitteres under en saadan Overgang mellem to
+stationære Tilstande, har eet bestemt
+Svingningstal <i>v'</i> givet ved <i>E′</i> — <i>E″</i> =; <i>hv'</i>. hvor <i>h</i> er
+Planck's Konstant, og hvor <i>E′</i> og <i>E″</i> er
+Energiværdierne i de to betragtede Tilstande.
+
+I en ikke lysende Damp findes alle Atomer i
+den saakaldte Normaltilstand, hvori de har
+det mindste Energiindhold. Ved de Processer
+(elektriske Udladninger, Opvarmning o. s. v.),
+hvorved Dampen bringes til at lyse, tilføres den
+fornødne Energi, til at en større ell. mindre Del
+af Atomerne kan bringes over i andre af de
+stationære Tilstande med større Energi. Derfra
+gaar Atomet da igen gennem fl. ell. færre
+»Spring« over i Normaltilstanden, idet hvert
+Spring er ledsaget af Udsendelse af Energi i
+Form af en af Stoffets karakteristiske
+Spektrallinier. Alle de til et Stofs Spektrum hørende
+Linier stammer altsaa hver fra sin af de mulige
+Overgange, og den større ell. mindre Intensitet,
+hvormed de forsk. Linier optræder, hænger
+sammen med den større ell. mindre
+Sandsynlighed for netop den tilsvarende Overgang. Bohr's
+Frekvensbetingelse <i>hv'</i> = <i>E′</i> — <i>E″</i> kan skrives
+<i>v'</i> = <i>E′</i>/<i>h</i> — <i>E″</i>/<i>h</i> ell. <i>v</i> = <i>E′</i>/<i>hc</i> — <i>E″</i>/<i>hc</i> = <i>T2—T1</i>,
+idet <i>T2</i> = — <i>E″</i>/<i>hc</i> og <i>T1</i> — — <i>E′</i>/<i>hc</i>. Herved er
+
+<img>Fig. 11. Lithiumspektret og dets Serier.</img>

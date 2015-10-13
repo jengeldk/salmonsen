@@ -1,0 +1,136 @@
+K-Gitter og »sammensatte« Gittere. Et af de
+simpleste af disse ses i Fig. 13; det kan tænkes
+sammensat af to simple V-Gittere. I. Fig. 14 viser
+<sp>Masnedsund-B.</sp>, som har to faste Fag over
+62,14 m's Aabninger, medens der midtvejs findes
+en Svingbro med to Gennemsejlingsaabninger
+paa 18,83 m. Dragerne over de faste Fag er
+Parallelgitterdragere, hvis Gitter kan tænkes
+dannet ved Kombination af fire Warren-Gitre
+med indskudte, overkomplette Vertikaler.
+<sp>Limfjords-B.</sp> ved Aalborg har meget nær samme
+Vidde af Aabningerne og samme Udseende af
+Dragerne. Tidligere anvendtes Paralleldragere
+op til langt større Længder end nu; den
+største var <sp>Ohio-B. for
+Cincinnati-Southern R. R.</sp> ved Cincinnati (158,8 m), i sin
+Tid den største naaede Spændvidde.
+
+Ved <sp>Krumlinede Gitterdragere</sp>
+er hyppigst kun den ene (Fig. 15), sjældnere
+begge Flanger krumme (polygonale, med Knæk
+i Knudepunkterne). Disse Dragerformer er
+tidligere end Paralleldragerne naaede frem til
+teoretisk rigtige Former, hvilket maa tilskrives den
+helt forsk. hist. Udvikling. Den første større,
+herhenhørende B. er den af Brunel 1854—59
+byggede <sp>Saltash-B. over Tamar</sp> ved
+Plymouth (135 m); fl. mindre var dog gaaede forud.
+Af de forsk., nu brugelige Former skal nævnes:
+<sp>Parabeldragere</sp>, hyppigst med lige
+Underdel, parabolsk Overdel, undertiden ogsaa
+omvendt. Et Eksempel ses i I. Fig. 14,
+Masnedsundbroen, hvor Svingbroens Dragere har
+parabelformet Overdel. Vistnok den største
+Aabning, overdækket med egentlige Parabeldragere,
+findes i Elbbroen ved <sp>Riesa</sp> (100 m). Dernæst de
+saakaldte <sp>afkortede Parabeldragere</sp>
+(Halvparabeldragere), som man kommer til ved
+at tænke sig de spidse Ender af en
+Parabeldrager bortskaarne (Fig. 15). Som ovf. nævnt, er
+det denne Dragerform, der anvendes ved de
+større Spændvidder; nogle af de største
+eksisterende er: <sp>Municipal-Bridge</sp> over
+Mississippi i St Louis (3 Aabninger à 204,9, 206,3,
+204,9 m), <sp>Delaware-B.</sp> for Pennsylvania R. R.
+ved Philadelphia (165 m), tre Broer over Volga
+ved <sp>Kasan</sp>, <sp>Simbirsk</sp> og <sp>Uweki</sp> (alle
+158 m), B. over Lech ved <sp>Kuilenburg</sp> (150
+m) o. fl. II. Fig. 16 viser B. over <sp>Minnesund</sp>
+ved Vormens Udløb i Mjøsen for Eidsvold-Hamar
+Banen (største Aabning 63 m, Totallængde 368,3
+m). — Af mere specielle og nu sjældnere
+anvendte Dragere skal nævnes:
+<sp>Schwedlerdragerne</sp>, opkaldte efter Opfinderen, med
+lige Underdel, medens Overdelens Form er
+hyperbolsk (herved opnaas, at Diagonalerne ikke
+kan faa Trykspændinger) undtagen nærmest
+Midten, hvor den er retlinet og parallel med
+Underdelen. Drageren, der er meget uskøn,
+er anvendt ved en Del mindre B. i
+Nordtyskland, men aldrig ved meget store B.
+<sp>Paulidrageren</sp> har baade krummet Over- og
+Underdel, og Krumningen er nærmere
+bestemt saaledes, at Maksimalspændingen i
+Hoved og Fod er konstant; siden 1857 er der
+bygget en Del Broer med disse Dragere,
+saaledes Jernbanebroen over <sp>Rhinen ved
+Mainz</sp> (101,29 m) og bl. a. B. over
+<sp>Sarpfossen</sp> ved <sp>Sarpsborg</sp> (største Aabning
+52,7 m); men den anvendes ikke mere.
+Endvidere har man i enkelte Tilfælde anvendt
+<sp>Ellipseform</sp> (den nye <sp>Weichselbro ved
+Dirschau</sp>, 129 m), Cirkel-, 3. Grads
+Parabelform o. fl. og endelig <sp>Trapezdrageren</sp>;
+denne sidstes Overdel er sammensat af tre rette
+Linier og løber ved Enderne sammen med
+Underdelen til en Spids; af større Bet. er den
+<sp>afkortede Trapezdrager</sp>, hvis Overdel
+ligeledes kun har to Knæk, men hvor
+Dragerhøjden ved Enderne ikke svinder ind til Nul.
+Endelig nævnes det, at der ogsaa i Jern er
+bygget nogle af de under Jernbetonbroer omtalte
+<sp>Vierendeeldragere</sp>, næsten alle i Belgien.
+
+Angaaende Konstruktionen af disse
+Dragere bemærkes følgende. De almindeligste
+Tværsnitsformer for Hovedet er: <img></img>
+ell. <img></img>, for Foden <img></img> ell. <img></img> , der
+sammensættes af Plader og Vinkeljern (<img></img>-Jern)
+og forbindes ved fortløbende Nitterækker; til
+Gitterstængerne bruges nu næsten altid stive
+Profiler som <img></img> eller <img></img>, ligeledes dannede ved
+Sammenstilling af Plader og Vinkeljern ell.
+<img></img>-Jern; den tidligere Anvendelse af slappe
+Profiler (Fladjern) til Stænger, der kun kan blive
+paavirkede til Træk, er man gaaet næsten helt
+bort fra. I Knudepunkterne forbindes
+Gitterstængerne med Flangerne ved Knudeplader og
+Kitning, i Nordamerika dog endnu ved de fleste
+større Dragere Bolteforbindelser (<i>pin connections</i>,
+een svær Charnierbolt i hvert Knudepunkt).
+<sp>Lejerne</sp>, der overfører Dragernes Tryk til
+Pillerne, er faste ved den ene Ende, bevægelige
+ved den anden; de faste Lejer konstrueres
+saaledes, at de tillader en Drejning, enten om en
+cylindrisk ell. kugleformet Tap
+(<sp>Tap-Vuggelejer</sp>) ell. ved en Vuggebevægelse
+(<sp>Tangential-Vuggelejer</sp>); de bevægelige Lejer
+udføres som <sp>Vugge- og Rullelejer</sp>,
+d. v s. et af de omtalte Vuggelejer stilles oven paa
+et Sæt cylindriske Ruller, ell. som
+<sp>Pendullejer</sp> (i Hovedsagen en enkelt stor Rulle, der
+gør det ud for baade Vugge- og Rullelejet).
+
+<sp>Bjælkebroer over fl. Aabninger</sp>.
+Der kan her, som tidligere berørt, anvendes
+simple Bjælker over hver Aabning for sig ell.
+kontinuerlige Dragere, og disse sidste kan igen
+udføres uden ell. med Charnierer
+(<sp>Gerberdragere</sp>, <sp>Cantilever bridges</sp>).
+Kontinuerlige Dragere er i Besiddelse af fl. Fortrin,
+som i det væsentlige kan sammenfattes i flg.
+to: der spares en Del Materiale (dog kun ved
+Aabninger paa mindst c. 50 m), og Monteringen
+kan ofte udføres lettere. De egentlige
+kontinuerlige Dragere (uden Charnierer) har man i
+lang Tid undgaaet p. Gr. a. deres statiske
+Ubestemthed og de dermed flg. Ulemper. Nu
+tillægger man dog ikke disse Omstændigheder
+nær saa stor Bet. som tidligere. Det gik i sin
+Tid (i 1860'erne) saa meget lettere at opgive
+Anvendelsen af de kontinuerlige Dragere, som
+det netop var paa samme Tidspunkt,
+Gerberdragerne kom frem, og ved disse undgaar man
+
+<img>Fig. 15. Afkortet Parabeldrager.</img>

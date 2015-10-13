@@ -1,0 +1,138 @@
+Jerntraade ell. brede Staalbaand, der
+yderligere omgives med et Lag tjæret Jute. Til
+Søkabler bruges en sværere Armering af (c. 5 mm)
+Rundjernstraade (Fig. 6) ell. Trapezjern; paa
+meget udsatte Kyststrækninger (Flodkabler)
+anvendes en stærk Armering af z-formede Jern
+(Fig. 7).
+
+Det første Krarup-Søkabel nedlagdes 1902
+mellem Helsingør og Helsingborg. Juni 1925
+fandtes i Danmark ialt 118 undersøiske
+Telefonkabler (med en samlet Længde af 641 km),
+heri indbefattet 7 Kabler (ialt 43 km) mellem
+Færøerne, og 26 (ialt 62 km) ved Island samt
+den danske Andel i 5 Telefonkabler (ialt 13
+km) til Sverige og 2 (ialt 19 km) til Tyskland.
+Med Undtagelse af en Del ældre
+guttaperkaisolerede Kabler uden kunstig
+Selvinduktionsforøgelse samt enkelte (bl. a. i Storebælt) efter
+1915 udlagte Pupinkabler, er Størsteparten af
+de danske Telefonsøkabler udført efter Krarup's
+System. Det første længere Pupin-Søkabel
+udlagdes 1906 i Bodensøen mellem
+Friedrichshafen og Romanshorn (12,6 km, med 14 Ledere).
+1924 er paa samme Strækning udlagt et
+40-ledet Telefon- og Telegrafkabel. Af andre i de
+senere Aar foretagne Udlægninger kan nævnes
+Telefonkablerne mellem England og Frankrig,
+1910 (39 km, 4-ledet), England—Belgien, 1911
+(90 km; 4-ledet), England—Irland, 1913 (118 km,
+4-ledet) og Sverige—Gotland, 1920 (126 km,
+4-ledet), der alle er udført som Pupinkabler.
+Længere Krarupsøkabler findes bl. a. mellem
+Kuxhafen og Helgoland (79 km, 4-ledet) og
+mellem Sverige og Tyskland, 1921 (120 km,
+18-ledet). Sidstnævnte Forbindelse mellem
+Kämpinge og Zarrensin er gennem Jordkabler fra
+hvert Landingssted ført videre til
+Overdragningsstationer i henh. Malmö og Stralsund.
+Lgn. kombineret Jord- og Søkabel nedlægges
+1926 paa Strækningen
+Nykjøbing F.—Gjedser—Warnemünde—Rostock, ialt 87 km med 48
+pupiniserede Ledere (Tværsnit Fig. 6), beregnet
+for 12 Firetraads-Kredsløb (smlg. ndf.).
+
+Til Luftledninger har Pupin's System
+ligeledes fundet Anvendelse. Spolerne anbringes
+her med 5—10 km's Afstand paa
+Isolatorstativerne og beskyttes af et Metaldæksel (Fig. 8).
+Pupiniseringen formindsker Ledningens
+Dæmpning til omkr. Halvdelen og har særlig været
+benyttet til at opnaa Besparelse ved
+Anvendelse af tyndere Ledningstraade ell. billigere
+Materiale (Jerntraad i St f. Kobber), hvorimod
+en Forøgelse af Telefoneringsafstanden ud over
+den mulige (1000—1500 km) paa gode,
+upupiniserede Luftledninger kun undtagelsesvis har
+været Hensigten (f. Eks. den 2000 km lange
+Forbindelse mellem Rom og Berlin). Grunden
+hertil skyldes Vanskeligheden ved at holde de
+meget lange Luftledninger i driftsikker Stand,
+idet Pupiniseringens Godhed i væsentlig Grad
+afhænger af Ledningens konstante Isolation.
+Udviklingen i de seneste Aar gaar derfor i
+Retning af at erstatte de overjordiske
+Interurbanledninger med Jordkabler, hvorved man tillige
+undgaar de talrige af Storm, Lynnedslag m. v.
+foraarsagede Forstyrrelser og saaledes gennem
+de forbedrede Driftsforhold og formindskede
+Vedligeholdelsesudgifter indvinder den større
+Anlægsudgift. Pupin's ell. Krarup's System
+alene vil dog ikke uden tekniske
+Vanskeligheder og overordentlige Bekostninger kunne
+muliggøre Anvendelse af Jordkabler paa større
+Afstande, hvor Luftledninger hidtil har været
+benyttet. En Forøgelse af Rækkevidden ved
+Hjælp af kraftigere virkende
+Afsendermikrofoner (Stærkstrømsmikrofoner, se <sp>Telefon</sp>) er
+ligeledes praktisk begrænset. Ved Fordobling
+af Sendeenergien forøges den tilladelige
+Dæmpningseksponent saaledes kun med 0,69, d. v. s.
+1/5 af den maksimale Værdi (3,5). Den dobbelte
+Rækkevidde (svarende til <i>βl</i> = 7,0) kræver en
+Afsenderstrøm, der er c. 33 Gange større end
+den med sædvanlige Kulkornsmikrofoner
+opnaaede, medens den 3-dobbelte Afstand (<i>βl</i> =
+10,5) kræver en 1100 Gange stærkere Strøm.
+Paa tilfredsstillende Maade er Vanskeligheden
+først løst i de seneste Aar efter Fremkomsten
+af særlige Relaiser (se
+<sp>Telefonforstærker</sp>), der indskydes med passende Mellemrum
+i Ledningen og tilfører Kredsløbet Energi fra
+lokale Strømkilder, saaledes at Strømmene i
+hvert Ledningsafsnit udsendes med fornyet
+Styrke, der svarer til Dæmpningen paa
+Ledningen til næste Relaisstation. Med denne Metode
+(i Forbindelse med Pupin's ell. Krarup's
+System) er Telefonering paa meget store
+Afstande muliggjort, f. Eks. paa Strækningen
+New York—San Francisco, hvor 6
+Forstærkerstationer er indskudt paa den over 5000 km
+lange pupiniserede Luftledning. Det er dog
+særlig til praktisk Muliggørelse af
+Kabeltelefoneringen, at Metoden har faaet sin egl. Bet.
+Medens man tidligere maatte dimensionere
+Kabellederne svarende til Længden og ret
+hurtigt selv med Krarup's ell. Pupin's Forbedring
+naaede den økonomisk tilladelige
+Telefoneringsafstand (faa Hundrede km), opnaar man ved
+Hjælp af Forstærkerne, at en lavere og
+ensartet Ledningsdimension (0,9—1,4 mm) kan
+benyttes uden Hensyn til Rækkevidden, idet
+Forstærkerstationer med 75—150 km Mellemrum
+indskydes i Forbindelsen. I de fleste
+europæiske Lande foretages derfor omfattende
+Jordkabelanlæg til Erstatning for de tidligere
+anvendte Luftledninger. Særlig i Tyskland er
+planlagt og delvis udført et vidtforgrenet
+Kabelnet (samlet Længde over 4500 km) mellem de
+større Byer, bl. a. paa Strækningen
+Hamburg—München (1087 km, med 8 Forstærkerstationer).
+Paa denne Forbindelse benyttes 0,9 mm
+Kabelledere i saakaldt Firetraadskobling, d. v. s. en
+Dobbeltledning for hver Taleretning, hvilket
+medfører visse Fordele, naar et større Antal
+Forstærkere ell. (som ved Søkabler), hvor
+Mellemstationer er udelukket, en kraftigere
+Forstærkning ved Enden af Kablet skal
+indkobles (smlg. <sp>Overdragning</sp>). Ligeledes i
+Nordamerika er planlagt Kabelanlæg (med
+samlet Længde c. 8000 km), hvoraf bl. a. er
+udført Rørkabler mellem
+Boston—New York—Washington (730 km) og Philadelphia—Pittsburg
+(480 km). Længere Telefonjordkabler findes i
+Danmark bl. a. fra Kbhvn til henholdsvis
+Helsingør, Hillerød, Frederikssund og Roskilde
+(Pupinkabler med 75 til 196 Dobbeltledninger,
+nedlagt 1912—23 af Kbhvn's Telefonaktieselskab)

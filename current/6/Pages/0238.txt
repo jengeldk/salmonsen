@@ -1,0 +1,139 @@
+prismeformet Rum med planparallelle
+Glasvægge, et »Hulprisme«. D. er her særlig stor.
+Forskellen mellem et Stofs Brydningsforhold
+for Straalerne <i>H</i> og <i>A</i> betegnes undertiden som
+dets totale D., medens Forskellen mellem
+Brydningsforholdene for to hvilkesomhelst Farver
+benævnes dets partielle D. i den paagældende
+Del af Spektret. Størst tekn. Bet. har
+<table>
+<td v2>Kendskabet til Stoffernes <sp>relative D.</sp><td c>Δ<i>n</i><td v2>; her
+<td c><i>n</i>-1
+</table>
+bet. Δ<i>n</i> Forskellen i Brydningsforhold for 2
+bestemte Fraunhofer'ske Linier, nemlig
+Brintlinierne <i>F</i> (blaa) og <i>C</i> (rød), og <i>n</i> bet.
+Brydningsforholdet for den gule <i>D</i>-Linie
+(Natriumlinien). I Reglen angives Værdien af den
+omvendte Brøk, der altsaa bliver størst for
+Stofferne med mindst relativ D. Den varierer for
+de forsk. optiske Glassorter fra 70 til 20 (for
+alm. Kronglas 60, alm. Flintglas 43); for Vand
+har den Værdien 56, for Svovlkulstof 18,4. Disse
+meget forsk. Værdier af Glassorternes relative
+D. gør det muligt ved Sammensætning af 2
+Linser af forsk. Glassorter at opnaa
+<sp>Akromatisme</sp>, at ophæve D. for 2 Straaler, uden
+at Brydningen ophæves helt. Hvor god
+Akromatisme der derved opnaas, afhænger af, hvor
+nær de øvrige Straaler kommer til at gaa ved
+de to sammenfaldende, hvad der bestemmes ved
+<sp>D.'s Gang</sp>. Danner man Spektre ved Prismer
+af forsk. Stoffer, vil hver Farve ikke indtage
+forholdsvis lige megen Plads i de forsk. Spektre;
+nogle Stoffer udbreder en bestemt Del af
+Spektret forholdsvis mere end andre, saa at det f.
+Eks. ikke vil være nøjagtig samme Farve, der
+ligger midt i de forsk. Spektre; om alle
+gennemsigtige Stoffer gælder det endvidere, at den
+blaa og violette Del af Spektret udbredes
+forholdsvis meget mere end den røde og gule, idet
+de partielle D. langtfra er proportionale med
+Bølgebreddeforskellen, men vokser stærkt
+gennem Spektret fra rødt til violet. For at opnaa
+god Akromatisme maa bruges 2 Glassorter,
+for hvilke de partielle D. gennem hele Spektret
+er saa nær som muligt proportionale. Det er
+Abbe's og Schott's Fortjeneste at have
+tilvejebragt tilstrækkeligt Udvalg af saadanne
+Glassorter for den optiske Teknik. Newton troede,
+at D. var proportional med Brydningen, hvorfor
+han maatte slutte, at det ikke var muligt at lave
+en akromatisk Linse; først <sp>Euler</sp> gjorde (1747)
+opmærksom paa, at da Øjet (som han fejlagtig
+troede) var akromatisk, maatte det være muligt
+at opnaa Akromatisme ved Kombination af
+Linser. Dette lykkedes da ogsaa snart for
+<sp>Dollond</sp>.
+
+1870 opdagede <sp>C. Christiansen</sp> den
+<sp>anomale D.</sp> i Fuchsinopløsninger, efter at
+tidligere Iagttagelser af anomal D. (Talbot,
+Leroux) var forblevne upaaagtede. Dersom man
+danner et Spektrum ved Hjælp af et Prisme,
+der indeholder en Fuchsinopløsning
+(Hulprismet maa have meget lille brydende Vinkel, da
+Opløsningen kun er lidet gennemsigtig), ligger
+Farverne i flg. usædvanlige Orden: violet, mørkt
+Mellemrum, rødt, orange, gult. Violet, der
+ellers brydes mest, brydes her mindst; det
+grønne og blaa mangler, da det absorberes helt af
+Opløsningen. Fuchsinopløsningens
+Brydningsforhold vokser altsaa ikke jævnt med aftagende
+Bølgebredde, men Spektret vilde omtr. faas af
+et alm. Spektrum, naar den grønne og blaa Del
+blev skaaret bort og de to resterende Dele
+ombyttede. Denne anomale D. blev undersøgt
+nærmere især af <sp>Kundt</sp>, der viste, at den fandtes
+hos alle stærkt selektivt absorberende Stoffer
+med Overfladefarver (Metalglans). Den anomale
+D. følger direkte af D.'s Teori, der er udviklet
+af <sp>Sellmeier</sp>, <sp>Helmholtz</sp> o. fl., i den
+nyere Tid især af <sp>H. A. Lorentz</sp>, <sp>Planck</sp>
+og <sp>Drude</sp>. Efter Teorien er der en nær
+Sammenhæng mellem Stoffernes D. og Absorption.
+Efter den alm. elektromagnetiske Lysteori skal
+et Stofs Brydningsforhold være lig
+Kvadratroden af dets Dielektricitetskonstant og skulde
+altsaa være det samme for Lys af alle
+Bølgebredder; naar dette ikke er Tilfældet, skyldes
+det, at Stoffets Atomer ell. de deri indeholdte
+Elektroner kommer i Medsvingninger, naar
+Lyset gaar igennem det. Er der næsten
+fuldkommen Resonans, d. v. s. at det indfaldende Lys
+har omtr. samme Svingningstid som Atomet ell.
+Elektronerne, saa at disse kommer i stærke
+Medsvingninger, saa absorberes det indfaldende
+Lys og omdannes til Varme i Stoffet. For Lys
+af andre Svingningstider ell. Bølgebredder vil
+Medsvingningerne især have Indflydelse paa
+Lysets Forplantningshastighed, d. v. s. Stoffets
+Brydningsforhold, og det paa den Maade, at
+naar man fra kortere Bølgebredder nærmer sig
+den, for hvilken der er Resonans, ell. nærmer
+sig det Omraade i Spektret, hvor Absorptionen
+finder Sted (Absorptionslinien ell. -baandet),
+saa aftager Brydningsforholdet og til sidst
+meget stærkt; gaar man stadig videre til længere
+Bølgebredder, vokser Brydningsforholdet meget
+hurtigt inde i selve Absorptionsomraadet, men
+paa den anden Side af dette aftager det atter;
+denne Aftagen er ogsaa meget stærk nær ved
+Absorptionsomraadet, men desto langsommere,
+jo længere man kommer derfra. Inde i
+Absorptionsomraadet vokser altsaa Brydningsforholdet
+med voksende Bølgebredde, hvilket man mere
+passende kunde betegne som anomal D., men
+Brydningsforholdet inde i selve
+Absorptionsomraadet har mindre Interesse, da Lys af disse
+Bølgebredder kun kan trænge overmaade kort
+ind i Legemet, før det er absorberet. Uden for
+Absorptionsomraadet aftager
+Brydningsforholdet altid med voksende Bølgebredde, saa at
+Stofferne altid har normal D. for det Lys, for
+hvilket de er gennemsigtige; men da
+Brydningsforholdet paa den langbølgede (»røde«) Side af
+Absorptionsomraadet er meget større end paa
+den kortbølgede (»violette«) Side, fordi det
+stiger saa stærkt inde i Absorptionsomraadet,
+kan der fremkomme en saadan usædvanlig
+Rækkefølge af Farverne, som den ovennævnte;
+dette Fænomen kaldes endnu alm. den
+anomale D. Den viser sig bedst udviklet, naar
+Absorptionsomraadet ligger omtr. midt i det
+synlige Spektrum. Fuchsinopløsningen
+absorberede grønt og blaat; derfor er
+Brydningsforholdet meget lille for violet, men stort for rødt
+og meget stort for gult, da disse to Farver
+ligger paa den anden Side af
+Absorptionsomraadet. Den anomale D. er altsaa et

@@ -1,0 +1,145 @@
+at D. stillede sig gunstigere 1906-10 end 1901
+-05; i mange Tilfælde er dette Maal for
+Dødeligheden ogsaa tilstrækkeligt (jfr ndf.), men er
+ved finere og dyberegaaende Undersøgelser et
+alt for groft Værktøj, fordi ikke blot de rent
+faktiske Dødelighedsforhold, men ogsaa andre
+Forhold og i ganske særlig Grad Befolkningens
+Aldersfordeling øver Indflydelse paa denne
+Kvotient.
+
+Da Dødeligheden i de lavere Aldersklasser er
+langt ringere end i de højere (se Tabel 4), kan
+saaledes en Befolkning, der er i stærk Vækst
+(i hvis yngre Aldersklasser der altsaa findes
+forholdsvis mange Individer), med højere
+Dødelighed alligevel give samme ell. mindre
+summarisk Dødelighedskvotient end en anden
+Befolkning med lavere Dødelighed, naar denne
+Befolkning er sammensat af forholdsvis ældre
+Individer.
+
+For at bøde herpaa har den ung. Statistiker
+<sp>Körösi</sp> (1844-1906) foreslaaet at anvende en
+(fingeret) »Standard-Befolkning« med en vis,
+fast Aldersfordeling. Ved at anlægge de til de
+forsk. Aldersgrupper svarende
+Dødelighedskvotienter paa en saadan Standardfordeling skulde
+man faa et Maal, der muliggjorde
+Sammenligning mellem Dødeligheden i
+Befolkningsgrupper med Alderssammensætninger, der var
+typisk forskellige (f. Eks. By- og
+Landbefolkningen, to forsk. Lande). Selv om dette Forslag
+betyder en Forbedring og ved mange
+Lejligheder gør god Fyldest, er Metoden irrationel;
+Valget af en Standardfordeling er til en vis
+Grad vilkaarlig, og det Billede, man ved en
+Sammenligning af de forsk. Gruppers
+Dødelighed har dannet sig, i væsentlig Grad afhængig
+af den brugte Standard.
+
+Allerede <sp>Halley</sp> var klar over det
+Afhængighedsforhold, der bestod mellem en Befolknings
+Aldersfordeling og dens Dødelighed; men
+Aldersfordelingen er tillige afhængig af
+Fødselshyppigheden og Vandringerne, og en Aldersfordeling,
+der er uafhængig af disse to sidste
+Omstændigheder, finder man kun, naar man konstruerer
+sig en saakaldt <sp>Overlevelsestavle</sp> (ell.
+<sp>Dekrementtavle</sp>) d. v. s. en tabellarisk
+Oversigt, der for hvert Alderstrin angiver, hvor
+mange der i denne Alder maatte tænkes at
+være tilbage af et stort (vilkaarlig valgt) Antal
+samtidig Fødte, der tænkes underkastet den
+i Befolkningen herskende Dødelighed. Hvis dette
+Antal Fødte var lig det virkelige Antal aarlige
+Fødsler, og den ovf. omtalte, af Halley
+benyttede, Forudsætning kunde ventes opfyldt, vilde,
+som man let indser, en saadan Dekrementtavle
+netop angive Befolkningens Fordeling efter
+Alder. Omvendt vilde man derfor ogsaa ved en
+eneste Folketælling tillige have Rede paa
+Befolkningens Dødelighed. Saa let gaar det
+imidlertid ikke, og man har siden Halley's Dage
+været beskæftiget med Opgaven.
+
+Den fr. Matematiker <sp>Laplace</sp> (1749-1827)
+har i <i>Essai philosophique</i> (1814) angivet en
+Maade, der ved første Øjekast synes ganske
+let. »At konstruere en Dødelighedstavle,« siger
+Laplace, »er yderst simpelt. Af Listerne over
+Fødte og Døde udvælger man sig et vist Antal
+Børn (f. Eks. dem, der er fødte i en vis
+Maaned ell. et vist Aar) og holder Øje med dem
+gennem hele deres Liv; noterer man op, hvor
+mange af dem der naar at fejre 1-Aars
+Fødselsdag, hvor mange 2-Aars Fødselsdag o. s. v., faar
+man netop en Dekrementtavle«. Bortset fra den
+Vanskelighed, at det vilde vare c. 100 Aar, før
+Resultatet forelaa, er Metoden dog ubrugelig,
+idet Dødeligheden, som det i det flg. skal vises,
+forandrer sig med de skiftende Tider.
+Dødelighedsforholdene i et nærmere angivet og
+kortere Tidsrum (5-10 Aar) vilde ikke blive
+belyst ved en saadan Tavle. Derimod kan
+Metoden bruges til Konstruktion af et Brudstykke
+af en Dekrementtavle, særlig for de første
+Leveaar, der har speciel Interesse (Børnedødelighed);
+den er saaledes anvendt af <sp>F. B. W.
+Hermann</sp>, hvis Navn Metoden ofte bærer, til
+Konstruktion af Tavler for Kongeriget Bayern,
+byggende paa Antallet af Fødsler og Dødsfald 1817
+-1851 og omfattende de første 34 Aldersaar.
+
+Medens en Dekrementtavle konstrueret efter
+Hermann's Metode kan betegnes som en Tavle
+for »samtidig Fødte«, er det, som man søger, i
+Virkeligheden en Tavle for »samtidig Levende«.
+Konstruktionen af en saadan bygger paa
+Begrebet: »Sandsynligheden for en x-aarig for at
+dø i Løbet af 1 Aar«, hvorved forstaas en Brøk,
+hvis Nævner er det Antal af de iagttagne
+Personer, der har opnaaet Alderen x, og hvis
+Tæller er det Antal Dødsfald, der er indtruffet
+bl. disse Personer, inden de har fyldt det
+næste Aldersaar. Naar saaledes den danske
+Overlevelsestavle, der er beregnet paa Grundlag af
+Erfaringerne 1906-10, angiver, at der af 10000
+samtidig fødte Drenge vil være 6828, der naar
+50-Aars Alderen, men kun 6747, der naar at
+blive 51 Aar (idet der i Mellemtiden er døde
+81), bliver Sandsynligheden for en 50-aarig for
+<table>
+<td v2>at dø i Løbet af et Aar =<td c>81<td v2>= 0,1187. Har
+<td c>6828
+</table>
+man omvendt paa en ell. anden Maade først
+beregnet den til hvert Aldersaar svarende
+Sandsynlighed for at dø i Løbet af et Aar, kan man
+beregne den dertil svarende Overlevelsestavle;
+hvorledes man beregner denne Sandsynlighed
+ud fra et foreliggende Materiale, skal ikke her
+beskrives; der findes en Mængde forsk. Metoder,
+der hver for sig bygger paa sine
+Forudsætninger og tager sine Hensyn.
+
+Det ejendommelige ved dette Begreb er, at
+det Antal Døde, der stilles i Tælleren, skal være
+fremgaaet af den Samling Personer, hvis Antal
+bruges i Nævneren, og den Brøk, der
+udtrykker Sandsynligheden, er saaledes ikke lig med
+Dødelighedskvotienten for den betragtede
+Aldersgruppe, hvilken Kvotient er det i en vis
+Tid (f. Eks. 1 Aar), i en vis Alder, indtrufne
+Antal Dødsfald, divideret med det i samme
+Tidsrum gennemsnitlige Antal Personer i denne
+Alder.
+
+Sandsynligheden for at dø i Alderen x og
+Antallet af Overlevende i Alderen x er Eksempler
+paa »<sp>biometriske Funktioner</sp>«,
+Størrelser, som anskueliggør Dødeligheden i de
+forsk. Aldere. Af andre biometriske Funktioner
+skal endnu nævnes <sp>Middellevetiden</sp> for
+x-aarige, der er det Antal Aar, en x-aarig i
+Gennemsnit har tilbage at leve i. Den findes

@@ -1,0 +1,86 @@
+<chapter name="Maalering">
+<b>Maalering,</b> Redskab til Maaling af
+Metaltraads Tykkelse, bestaaende af en til en aaben
+Ring sammenbøjet Metaltraad, hvor Aabningen
+svarer til et bestemt Traadnummer. Hvert Nr
+kræver saaledes sin M. Oftest maales dog Traad
+ved Traadlæren, se <sp>Jerntraad</sp>.
+<i>(F. W.). E. Su.</i>
+
+<img>Maalestok.</img>
+</chapter>
+
+<chapter name="Maalestok">
+<b>Maalestok.</b> Ved et Korts Maalestoksforhold
+forstaas Forholdet mellem Længden af en Linie
+paa Kortet og Længden af den samme Linie i
+Marken. Det samme gælder for andre
+Tegninger. Paa ethvert Kort (Tegning) bør findes en
+Maalestok, paa hvilken man kan maale
+Længden af de paa Kortet (Tegningen) forekommende
+Linier. En saadan Maalestok kan være en
+enkelt inddelt Linie; men ofte anvendes en
+<sp>Transversalmaalestok</sp>. En saadan er
+vist paa hosstaaende Fig. for
+Maalestoksforholdet 1 : 2000, hvor 1 m paa Kortet altsaa er 2000
+m i Marken, og 0,5 mm paa Kortet 1 m i
+Marken.
+
+Maalestokken, der er indridset i en
+Messinglineal, er 20 cm (paa Fig. kun 15 cm) lang, <i>a b</i>
+er altsaa 5 cm og svarer til 100 m, <i>a c</i> er 5 mm
+og svarer til 10 m, og da de vandrette Linier
+har samme indbyrdes Afstand, afskæres der i
+Følge Sætningen om Paralleltransversaler
+mellem Linierne <i>a d</i> og <i>a e</i> paa Linien Nr 9 et
+Stykke, der svarer til 9 m, paa Linien Nr 8 et
+Stykke, der svarer til 8 m o. s. v. Stykket <i>p q</i>
+svarer eksempelvis til 116 m.
+<i>H. V. N.</i>
+</chapter>
+
+<chapter name="Maalestænger">
+<b>Maalestænger</b> bruges til nøjagtig
+Længdemaaling. De er fra 1 til 5 m lange, lavede af
+tørt, knastfrit Grantræ og tykkest paa Midten.
+Tværsnittet er ofte elliptisk, men kan ogsaa
+have anden Form. Der hører to Stænger
+sammen; de males den ene rød og hvid, den anden
+sort og hvid, og Farven skifter for hver m;
+endvidere er der ved smaa Søm ell. paa anden
+Maade anbragt Betegnelser for Decimeter.
+Enderne af Stængerne er beslaaede med Metal, i
+Reglen saaledes at den vandret liggende Stangs
+Ender har skarpe Kanter, der er vandrette paa
+den ene og lodrette paa den anden Stang, og
+Stangens Længde er Afstanden mellem to
+lodrette Planer vinkelrette paa Stangens
+Længdeakse, hver indeholdende en af de skarpe
+Kanter. M. har ikke været anvendt meget
+her i Landet. Ved Brugen lægges Stængerne
+paa Jorden langs den Linie, som skal maales,
+og saaledes at Enderne af dem akkurat
+berører hinanden. Paa hældende Grund maa
+Stangen holdes vandret, og det løftede
+Endepunkt loddes ned paa Jordoverfladen.
+<i>H. V. N.</i>
+
+<img>Maalestang.
+(Se
+Artiklen
+»Maalestænger«).</img>
+</chapter>
+
+<chapter name="Maaleure">
+<b>Maaleure</b> er urformede Maaleapparater (Fig.
+1), bestaaende af en Kapsel med en udragende
+Stift, der er saaledes forbundet med Apparatets
+Viser, at naar Stiften trykkes ind i Kapslen,
+angiver Viseren Bevægelsen stærkt forstørret,
+f. Eks. 170 Gange. Stiften ender i en Tandstang,
+der indgriber i et Tandhjulssystem, som
+overfører Bevægelsen til Viseren (Fig. 2). En Fjer
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>

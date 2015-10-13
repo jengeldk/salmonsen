@@ -1,0 +1,154 @@
+<chapter name="Astrofotografi (se Himmelfotografi)">
+<b>Astrofotografi</b> [↱a-], se <sp>Himmelfotografi</sp>.
+</chapter>
+
+<chapter name="Astrofotometer  (se Astrofotometri)">
+<b>Astrofotometer</b> [↱a-], Instrument til
+Maaling af Stjernernes Lysstyrke. (Se
+<sp>Astrofotometri</sp>).
+</chapter>
+
+<chapter name="Astrofotometri">
+<b>Astrofotometri</b> [↱a-] - efter Spektralanalysen
+den vigtigste og ældste Disciplin af Astrofysikken
+— lærer, hvorledes Stjernernes Lysstyrke
+bestemmes, og skaffer herved Data til at drage
+Slutninger om deres Konstitution. De første Forsøg
+gaar tilbage til Ptolemaios, der delte alle de
+synlige Stjerner i 6 Klasser, hver med 3
+Underafdelinger, senere blev hver Klasse for at faa flere
+Nuancer opstykket i 10 Dele, og
+Klasseinddelingen udvidet til de teleskopiske Stjerner, saaledes
+at de svageste fik det højeste Klassenummer.
+Hovedprincippet for alle fotometriske Maalinger
+med eller uden dertil konstruerede Apparater
+beror paa den fysiologiske Ejendommelighed ved
+vort Øje, at det kan sammenligne 2 Lyskilder,
+naar Forskellen mellem deres Lysstyrke er
+liden. Medens intet Øje er i Stand til at bedømme,
+hvor meget stærkere Solens Lys er end Maanens,
+kan en øvet Iagttager temmelig sikkert angive,
+om 2 Stjerner lyser lige stærkt. Et Fotometer
+(s. d.) har derfor til Opgave at muliggøre den
+nøje Bestemmelse af store Differenser i
+Lysstyrken, idet Lyset fra den stærkere Lyskilde paa
+maalbar Vej svækkes, saa det bliver ligt Lyset
+fra den svagere Lyskilde — de to Lyskilder, som
+skal sammenlignes, viser sig altsaa i Fotometret
+lige stærke. I den Maade, hvorpaa dette sker,
+er det, at de forsk. af Nutidens Fotometre skiller
+sig fra hverandre.
+
+<sp>Zöllner</sp>'s Astrofotometer benytter som
+Sammenligningsobjekt for den Stjerne, som skal
+maales, en kunstig Stjerne, hvis Lysstyrke svækkes ved
+polariserende Medier; den ser lidt anderledes
+ud end den virkelige Stjerne, og det er
+Hovedulempen ved dette Fotometer, som med Lethed
+kan anbringes paa enhver Kikkert, saa man kan
+maale Lysstyrken hos alle de Stjerner, som
+overhovedet kan ses i Kikkerten. I Potsdam har man
+benyttet det til fotometrisk Maaling af alle
+Stjerner til 7,5 paa den nordlige Himmel.
+<sp>Pickering</sp>'s Meridianfotometer beror ogsaa paa
+Polarisationsprincippet og har den Fordel fremfor
+det Zöllner'ske, at man altid sammenligner to
+virkelige Stjerner med hinanden — den ene
+Stjerne er Polarstjernen —, men da det er fast
+opstillet i Meridianen, er man bunden til
+Observation i Nærheden af denne. Benyttelsen af
+Polarstjernen som Sammenligningsobjekt kan
+bevirke, at de to Stjerner staar langt fra
+hinanden, saa højst forsk. Luftforhold kan komme
+til at have en skadelig Indflydelse paa
+Maalingerne. Hertil kommer, at Instrumentet er forh.
+lyssvagt, saa at det maa have temmelig store
+Dimensioner, hvis svage Stjerner skal observeres.
+
+Paa et andet Princip beror det af
+<sp>Pritchard</sp> benyttede Kilefotometer, der i det
+væsentlige bestaar af en Kile af neutralt
+absorberende, mørkt Glas, som bevæges gennem
+Kikkertens Felt. En Skala angiver, ved hvilken
+Tykkelse af Kilen Stjernen er bragt til at forsvinde,
+hvorved man af Kilens bekendte
+Absorptionsforhold kan beregne Differencen i Lysstyrken af
+de observerede Stjerner. Tilsyneladende har
+denne Metode intet tilfælles med de ovenfor
+nævnte, hvor Lysstyrken af den klarere Stjerne
+bliver bragt ned til Niveauet af den svagere; i
+Virkeligheden er det dog det samme, da en
+Stjerne forsvinder, naar dens Skin er lig
+Baggrundens. Manglen ved denne Metode ligger
+fornemmelig deri, at Øjets Ømfindtlighed kan
+forandre sig ikke saa lidt ved Siden af, at
+Himmelgrundens større ell. mindre Skin influerer i høj
+Grad paa Maalingens Godhed.
+
+Fotografisk kan man udlede Stjernens
+Størrelse af Diametren af den paa Pladen dannede
+Skive ell. af Sværtningen af det fotografiske
+Billede, naar Forholdet mellem Lysstyrken og den
+ved denne fremkaldte Effekt (Størrelsen af
+Diametren ell. Graden af Sværtningen) er kendt.
+Sværtningsmetoden giver nøjagtigere Resultater
+end den førstnævnte, da de fotografiske Billeder
+ikke er skarpt begrænsede, men den har den
+Mangel, naar det gælder svage Stjerner, hvor
+det fokale Billede er saa lille, at Sværtningen
+ikke kan maales — det bedste Apparat er
+Hartmann's Mikrofotometer — at man maa enten
+benytte Instrumenter af forholdsvis større
+Dimensioner ell. anvende meget lang
+Ekspositionstid. For at hjælpe herpaa eksponerer man
+ekstrafokalt (efter Forslag af Janssen) ell. giver
+Kassetten under Ekspositionen en saadan
+Bevægelse, at man af hver Stjerne faar en lille
+skraveret Flade (efter Forslag af Schwarzschild).
+Men da den fotografiske Plade paavirkes mest
+af de blaa og violette Straaler, medens Øjet er
+mest ømfindtlig for de gule Straaler, vil den
+visuelle og fotografiske Lysstyrke kun stemme
+overens for de hvide Stjerner. Hertil kommer, at
+man kun for de klarere Stjerner til 7,5 Størrelse
+besidder nøjagtige visuelle fotometriske
+Maalinger, for de svagere og de svageste Stjerner kun
+ganske spredte Maalinger. Man er derfor nødt
+til at indføre i den cølestiske Fotografi en ny
+fotografisk Lysskala, og hermed er fl.
+Observatorer for Tiden beskæftigede. I Harvard har
+man bestemt den fotografiske Lysstyrke af 96
+Stjerner i Nærheden af Nordpolen efter en
+absolut Skala, som giver Normalværdier,
+hvormed Lysstyrken af Stjerner i andre Egne af
+Himlen kan sammenlignes. Og Arbejdet er nu
+skredet saa langt frem, at man for Øjeblikket
+skulde være i Stand til af en eneste Plade at
+udlede den fotografiske Størrelse af Stjerner lige
+til 9,5 med en sandsynlig Fejl af under 0,1
+Størrelseslklasse. Skal man maalbar sammenligne
+Lysintensiteten af de forsk. Dele af Spektret af
+to Stjerner med hinanden, benytter man
+Spektralfotometer. (<sp>Litt.</sp>: <sp>G. Müller</sp>, »Photometrie
+der Gestirne« [Leipzig 1897]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Astrofyllit">
+<b>Astrofyllit,</b> et bronzegult til guldgult, sjældnere
+mørkere gulbrunt farvet Mineral af
+Sammensætning (Na,K)<sub>4</sub>(Fe,Mo)<sub>4</sub>Ti(SiO<sub>4</sub>)<sub>4</sub>, der p. Gr. a.
+en udpræget Spaltelighed i een Retning ligner
+Glimmer, men dog ikke tilhører
+Glimmergruppen, idet Krystallerne er rombiske. Mineralet
+er først fundet ved Langesund, Norge, senere
+ogsaa ved Kangerdluarsuk i Grønland og fl. St. i
+de forenede Stater.
+<i>O. B. B.</i>
+</chapter>
+
+<chapter name="Astrofysik">
+<b>Astrofysik</b> kaldes efter Zöllner (1865) den
+Gren af Astronomien, som har til Opgave
+hovedsagelig ved fysikalske Metoder at udforske
+Himmellegemernes fysiske Beskaffenhed. Den deles i

@@ -1,0 +1,162 @@
+vis Landsdel ell. en Del af en saadan under sig.
+Titelen R. afløstes siden 1841 af Kontorchef,
+idet Inddelingen af de paagældende Kollegier
+i Kontorer samtidig ændredes.
+<i>P. J. J.</i>
+</chapter>
+
+<chapter name="Rentesregning">
+<b>Rentesregning</b> er et Afsnit af
+Aritmetikken, der væsentlig beskæftiger sig med den
+Forandring, som en Kapital i Tidens Løb undergaar
+ved Forrentning. Lægges Renterne til en
+Kapital <i>a</i> uden <sp>selv at trække Renter</sp>
+(<sp>simpel Rente</sp>), vil <i>a</i> i <i>n</i> Aar vokse til
+<i>a</i> (1 + <i>nr</i>), hvor <i>r</i>, den aarlige Rentefod, er
+= <i>p</i>/100, hvis der svares <i>p</i> % i aarlig Rente.
+Kapitalens Værdi for <i>n</i> Aar siden, den
+<sp>diskonterede</sp> Værdi, er nøjagtigt = <i>a</i>/1 + <i>nr</i>,
+men sættes ofte = <i>a</i> (1 — <i>nr</i>), hvad der giver
+en desto bedre Tilnærmelse, jo mindre <i>n</i> er.
+Er <i>n</i> Aar = <i>d</i> Dage, og sættes Aaret = 360
+Dage, bliver <i>n</i> = <i>d</i>/360 og <i>nr</i> = <i>d</i>:360/<i>r</i>; 360/<i>r</i>, der
+kaldes <sp>Generaldivisoren</sp>, kan een Gang
+for alle beregnes for de forsk. Værdier af <i>r</i>.
+I <sp>sammensat</sp> R., hvor Renten ved hvert
+Aars (ell. Halvaars, Kvartaars o. s. v.) Slutning
+lægges til Kapitalen og derefter <sp>forrentes
+sammen med denne</sp>, vokser <i>a</i> i <i>n</i> Aar
+til <i>a<sub>n</sub></i> = <i>a</i> (1 + <i>r</i>)<sup><i>n</i></sup>. Denne Formel
+anvendes ogsaa for <i>n</i> brudden = <i>q/p</i>, idet man lader
+<i>a</i> i 1/<i>q</i> Aar forrente sig til en Rentefod <i>r</i><sub>1</sub>, der
+er valgt saaledes, at <i>a</i> i <i>q</i> Tidsrum af denne
+Længde vokser lige saa meget, som ved
+Forrentning i 1 Aar til Rentefoden <i>r</i>; <i>r</i><sub>1</sub>
+bestemmes ved Ligningen (1 + <i>r</i><sub>1</sub>)<i>q</i> = 1 <sup>1</sup>+ <i>r</i>. Den
+halvaarlige Rentefod er = (1 + <i>r</i>) 1/4 — 1, den
+kvartaarlige er = (1 + <i>r</i>) 1/4 — 1. Er <i>n</i>
+negativ, f. Eks. = — 7 1/2, vil <i>a<sub>n</sub></i> i Formelen
+betyde <i>a</i>'s Værdi for 7 1/2 Aar siden, altsaa den
+diskonterede Kapital. I eksakte Anvendelser af
+R., f. Eks. i Forsikringsmatematikken, tænkes
+en Kapital forandrende sig kontinuerligt,
+saaledes at den forrenter sig i ethvert nok saa
+lille Tidsrum θ i Overensstemmelse med
+Formelen for sammensat R. Den til et uendeligt
+lille θ svarende Rentefod ρ er uendelig lille;
+man indfører en Hjælpestørrelse, den
+<sp>kontinuerlige</sp> Rentefod δ = <i>l</i> (1 + <i>r</i>) (<i>l</i> = den
+naturlige Logaritme), som er Grænsen for
+Forholdet mellem ρ og θ, naar θ aftager til 0,
+og sætter ρ = θ δ. Under R. behandles ogsaa
+Annuiteter. De saakaldte Rentetavler
+indeholder Værdierne for <i>log</i> (1 + <i>r</i>)<sup><i>n</i></sup>, Annuiteters
+Kapitalværdier m. m.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Rentier">
+<b>Rentier</b> [rænti'e ell. raŋ-; fr. rã't<sub>i</sub>e] (fr.),
+Person, der lever af sin Formue (sine Renter).
+</chapter>
+
+<chapter name="Rentoilere">
+<b>Rentoilere</b> ['raŋtoa'le'r<sub>ə</sub>] (af fr. <i>rentoiler</i>,
+<i>toile</i>, Lærred), overføre et Maleri paa nyt
+Lærred; sætte nyt Lærred paa.
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Rentrant">
+<b>Rentrant</b> [fr. rã'trã] (fr.). Naar i
+Befæstningskunsten to Linier støder sammen under
+en Vinkel, hvis Spids vender fra den fjendtlige
+Angrebsretning, opstaar en R. Foran denne er
+der <sp>krydsende Ild</sp>. Den nævnte Vinkel,
+<sp>Rentrantvinkelen</sp>, bør ikke være
+mindre end 90°, for at ikke Udvirkningen fra den
+ene Linie skal have Retning ind over den
+anden og udsætte dennes Forsvarere for Fare.
+Naar Rentrantvinkelens Størrelse er imellem
+90° og 120°, siges de to Linier at <sp>flankere</sp>
+hinanden; thi man kan i saa Fald, idet
+Anslagsretningen <sp>kan</sp> danne en Vinkel paa
+indtil 30° med Ildliniens (s. d.) Normal, fra den
+ene Linie skyde parallelt med den anden.
+<i>Sch. P.</i>
+</chapter>
+
+<chapter name="Rentryk">
+<b>Rentryk</b> (tysk: Aushängebogen, eng.:
+<i>proof-sheet</i>, fr.: <i>feuille modèle</i>), et Eksemplar af
+færdigtrykte Ark, der tilstilles Forfatterne.
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="Rentzmann, Peter Nicolai">
+<b>Rentzmann,</b> <sp>Peter Nicolai</sp>, dansk
+Embedsmand (1845—1923), testamenterede sammen
+med sin Søster <sp>Ida R.</sp> (død 1910) ved et
+Fællestestamente 1902 sin Formue til Genopførelsen
+af Nikolaj Kirke. Den ny Kirkebygning, der blev
+indviet Novbr 1917, rummer en Forsamlings-
+og Foredragssal, et Bymuseum og et
+Folkebibliotek.
+</chapter>
+
+<chapter name="Renunciation">
+<b>Renunciation</b> (jur.) betyder Opgivelse af en
+Rettighed eller et Retsgode. Opgivelsen sker
+hyppigst ved en Erklæring, rettet til den ell.
+dem, til Fordel for hvem R. sker. R. paa
+Ejendomsret over en Ting kan ogsaa ske
+derigennem, at Besiddelsen af Tingen opgives, f. Eks.
+ved Bortkastelse, Henbringelse paa Losseplads
+o. l., i den Hensigt at opgive Ejendomsretten.
+Saadan R., der i Reglen benævnes derelictio,
+virker til Fordel for alle og enhver, saaledes
+at den derelinkverede Ting bliver Genstand for
+fri Bemægtigelse. Paa de fleste Retsgoder kan
+der gyldigt renonceres af den, der har den
+fornødne Myndighed og Raadighed over sine
+Anliggender. Visse Retsgoder, først og fremmest
+Retten til Livet, er dog umistelige i den
+Forstand, at et Samtykke til Berøvelsen deraf ikke
+kan gøre en saadan Berøvelse retmæssig. —
+Særlig praktisk er R. paa Arv. Der maa her
+sondres imellem, om Arven er falden ell. ej.
+I sidste Tilfælde har R. særlig Bet. m. H. t.
+Tvangsarv, men kan ogsaa forekomme i det
+Tilfælde, at en Person er indsat til Arving ved et
+uigenkaldeligt Testamente. Er Arven falden,
+kan R. ske paa samme Maade som m. H. t.
+andre formueretlige Retsgoder, Er der ikke
+renonceret til Fordel for bestemte Personer,
+tilfalder den renoncerede Arv den, der vilde have
+arvet, om den renoncerende var død før
+Arveladeren. Hvis Arven ikke er falden, kan R. kun
+ske ved Overenskomst (saakaldt renunciativ
+Arvepagt) med Arveladeren, medens en saadan
+Arvepagt, afsluttet med Medarvinger ell. andre,
+er ugyldig, jfr Frdn. af 21. Maj 1845 § 14. R.
+binder ogsaa den renoncerendes Børn.
+<i>A. D. B.</i>
+</chapter>
+
+<chapter name="Renversering">
+<b>Renversering</b> ['raŋ-], se <sp>Skoleridning</sp>.
+</chapter>
+
+<chapter name="Renzis, Francesco de">
+<b>Renzis</b> ['rænts<sub>i</sub>s], <sp>Francesco de</sp>, Baron
+af Montanara, ital. Journalist og Forf., f. 1836
+i Capua, d. 1900. Indtil 1870 var han
+Ingeniørofficer, men stiftede dette Aar det moderat
+liberale Ugeblad <i>Fanfulla</i> (senere <i>Fanfulla
+della domenica</i>). 1874 blev han Medlem af
+Deputeretkammeret og var en Tid ital.
+Ambassadør i London. Som Forf. er hans Navn særlig
+knyttet til Dramaet <i>Donna Lavinia</i> og
+Romanerne <i>Ananke</i> (1878) og <i>Voluttà</i> (1885).
+<i>E. M-r.</i>
+</chapter>

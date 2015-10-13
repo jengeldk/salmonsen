@@ -1,0 +1,85 @@
+der gaar gennem Jernet. Hvis Magneterne
+byggedes af massivt Gods, vilde dette p. Gr. a. de
+af Vekselfelterne inducerede
+<sp>Hvirvelstrømme</sp> (se ndf. under Transformatorer) blive stærkt
+opvarmet og give Anledning til Tab. Endvidere
+findes der paa Vekselstrømsseriemotoren i
+Serie med de andre Viklinger en særlig
+Bevikling, <sp>Kompensationsviklingen</sp> til
+Ophævelse af Ankerreaktionen. Denne vilde
+nemlig ved disse Motorer bevirke et saa stort
+Spændingsfald i Ankeret, at saavel Motorens
+Ydeevne som dens Virkningsgrad vilde blive
+betydeligt nedsat. Baade Hovedmagnet- og
+Kompensationsviklingen er anbragt i Noter i
+Magnetstellet, som derfor i Udseende minder en Del
+om den asynkrone Motors Stator. Af andre
+Kommutatormotorer skal omtales
+<sp>Repulsionsmotoren</sp>. Dennes Anker er kortsluttet i
+sig selv igennem Børsterne, som altsaa ikke har
+nogen Forbindelse med den ydre Strømkilde.
+Magnetstellet (Stator) har kun een Bevikling, der
+forbindes til Strømkilden, hvorved Motoren
+bliver af en særlig simpel Konstruktion; de i
+Ankeret til Frembringelse af Trækkraft nødvendige
+Sirømme frembringes ved <sp>Induktion</sp> fra
+Statorfeltet. Motorens Hastighed kan reguleres
+ved en simpel Forskydning af Børsterne. Med
+en bestemt Børstestilling staar Motoren stille,
+drejes Børsterne til den ene Side, gaar Motoren
+i Gang i een Retning, drejes Børsterne til den
+modsatte Side, faas modsat Omløbsretning. Denne
+meget bekvemme Igangsætning og
+Hastighedsregulering i Forbindelse med Motorens
+udprægede. Seriekarakteristik har gjort den meget
+anvendelig til Banedrift. En Repulsionsmotor er
+vist i Fig. 19. Af Kommutatormotorer for
+Vekselstrøm er der i den nyere Tid fremkommet
+forsk. Konstruktioner af <sp>Shunt-Motorer</sp>
+samt af
+<sp>Trefase-Kommutatormotorer</sp>; disse skal dog ikke nærmere omtales.
+
+<sp>Omformere</sp>. Hermed betegnes i Alm.
+saadanne Maskiner, som omdanner, <sp>omformer</sp>,
+Vekselstrøm til Jævnstrøm ell. omvendt. Der
+anvendes hertil en Kombination af en
+Vekselstrøms- og en Jævnstrømsmaskine, i Reglen paa
+samme Aksel. Den <sp>synkrone
+Motorgenerator</sp> og den <sp>asynkrone
+Motorgenerator</sp> bestaar saaledes af en
+Jævnstrømsdynamo koblet direkte til henh. en
+synkron og en asynkron Motor (Fig. 20).
+Betydelig bedre Nyttevirkning end i
+Motorgeneratorerne opnaas ved Anvendelse af
+<sp>Etankeromformere</sp> (Fig. 21). Her er det samme Anker
+Bærer baade af Vekselstrømmen og
+Jævnstrømmen. Omformeren er i Virkeligheden en alm.
+Jævnstrømsmaskine, hvis Anker foruden med
+Kommutator er forsynet med Slæberinge,
+igennem hvilke Vekselstrømmen tilføres. Der
+eksisterer ved disse et ganske bestemt Forhold
+imellem den tilførte Vekselspænding og den afgivne
+Jævnspænding; hvis dette Omsætningsforhold
+ikke passer i det foreliggende Tilfælde (f. Eks.,
+hvis Vekselstrømmen forefindes højspændt), maa
+man anbringe en Transformator foran
+Omformeren. En meget anvendt Omformer er
+<sp>Kaskadeomformeren</sp> (Fig. 23), der bestaar
+af en asynkron Motor, der er direkte koblet
+til en Etankeromformer, hvis Bevikling er
+elektrisk forbundet med den asynkrone Motors
+Rotor. Man opnaar derved en trinvis Omformning
+af Strømmen, idet denne i den asynkrone
+Motor nedsættes til halvt Periodetal og derefter i
+Etankeromformeren omsættes til Jævnstrøm
+(Omformning i »Kaskade«); her behøves ingen
+Transformator foran Omformeren, idet den
+asynkrone Motors Stator kan vikles for den
+paagældende Spænding. Omformeren løber
+synkront, men kan i Modsætning til
+Etankeromformeren, der ogsaa løber synkront, men maa
+startes fra Jævnstrømssiden ell. med en særlig
+
+<img>
+Fig. 22. Kaskadeomformer, 1000 KW.
+</img>

@@ -1,0 +1,129 @@
+Traadene og derfor sandsynligvis ikke er udsatte
+for Rust.
+
+De andre Hængebro-Konstruktioner med stive
+Gitterdragere ell. udelukkende med Skraatove
+spiller mindre Rolle. De <sp>stive
+Gitterdragere</sp> fungerer som omvendte Buedragere (se
+Fig. 30, Tower-Broen i London, Sidefagene); der
+findes kun forholdsvis faa B. af denne Slags,
+et Par af de største er: <sp>Point-B.</sp> over
+<sp>Monongahela</sp> i Pittsburg (243,8 m), <sp>Elb-B.</sp>
+mellem <sp>Loschwitz</sp> og <sp>Blasewitz</sp> ved
+Dresden (147 m). <sp>Skraatove</sp> alene har
+været anvendte et Par Steder i Forbindelse med
+en gennemgaaende stiv Bjælke (System
+<sp>Ordish-Lefeuvre</sp>, bl. a. ved
+<sp>Franz-Josef-B.</sp> i Prag og <sp>Albert-B.</sp> i London), men uden
+videre Held. I de sidste Aar er der i Frankrig
+fremkommet en ny Konstruktion (<sp>Gisclard</sp>),
+der synes at medføre fl. Fordele, navnlig i
+Retning af Stivhed, og allerede er anvendt i et
+Par B. for elektriske Baner (først ved
+<sp>Fontpédrouse</sp>, Banen
+<sp>Villefranche-Bourg-Madame</sp> i Pyrenæerne, 156 m), og Arnodin
+er ligeledes ved sine sidste Hængefærgebroer,
+hvorom ndf., gaaet over til at anvende
+Skraatove (V. Fig. 35).
+
+<sp>Monteringen af B.'s Overbygning</sp>
+sker hyppigst ved Hjælp af et fast Stillads i
+Broaabningen. Meget ofte har man dog bygget
+Dragerne færdige paa et helt andet Sted i
+Nærheden og bagefter bragt dem paa Plads; denne
+Operation kan ved kontinuerlige Dragere
+udføres ved at skyde dem paa langs ud over
+Pillerne, og dette kan ogsaa anvendes ved andre
+Dragere, naar der opstilles interimistiske Aag i
+Aabningerne, ell. ved provisorisk Forbindelse
+af Dragerne for fl. Aabninger. Ved Hjælp af
+Pramme o. l. kan Overbygningen bringes ud,
+saa at den kun behøver at hæves ell. sænkes
+for at komme paa Plads (ved hydrauliske
+Presser, Donkrafte, Benyttelse af Flod og Ebbe o.
+s. v.). Endelig kan Monteringen undertiden
+udføres paa Stedet uden Stilladser, som omtalt i
+det foregaaende, navnlig for Hængebroer, hvor
+det er Reglen, men ogsaa ved Gerberdragere og
+Buebroer, ja selv ved simpelt understøttede
+Dragere, som da under Monteringen maa forankres
+til Pillerne.
+
+<sp>Bevægelige Broer</sp>.
+
+Efter Maaden, hvorpaa Bevægelsen ved B.'s
+Aabning og Lukning foregaar, kan man skelne
+mellem 1) Skyde-, 2) Løfte-, 3) Vippe- ell. Klap-
+og 4) Dreje- ell. Svingbroer; endelig maa ogsaa
+Pontonbroerne og Hængefærge-B. henregnes
+hertil. De egl. bevægelige B. (altsaa bortset fra
+Pontonbroer) bygges nutildags næsten altid af
+Jern, tidligere anvendtes mest Træ. Kraften til
+Bevægelsen kan være Haandkraft,
+Dampmaskine, Gas- ell. Oliemotor, hydraulisk Tryk,
+Trykluft (sjældent) eller ved Nybygninger
+nu mest Elektricitet; i Alm. indretter
+man dog i det mindste et Reservespil
+til Haandkraft for det Tilfælde, at
+Hovedmaskinen skulde
+svigte.
+
+1) <sp>Skydebroer</sp>.
+Den bevægelige Del
+af B. skydes her til
+Side i vandret
+Retning, idet den hviler
+paa Hjul, der løber
+paa Skinner.
+Bevægelsens Retning kan
+for øvrigt være forsk.
+Ved en Forskydning
+i B.'s Længderetning
+er det ret vanskeligt
+at skaffe Plads til den
+bevægelige Del efter
+Aabningen, men
+denne Ordning er dog
+bragt til Udførelse i enkelte Tilfælde. Simplere
+er det, naar B. er skæv, idet den bevægelige
+Del da kan køres bort i en Retning vinkelret
+paa Midtlinien, saaledes som det f. Eks. er
+Tilfældet med <sp>Billhorner-B.</sp> ved Hamburg;
+ogsaa ved lige B. kan dette Princip anvendes,
+naar de kan køres bort i en tilstrækkelig skæv
+Retning.
+
+2) <sp>Løftebroer</sp>. Den bevægelige Del løftes
+lodret op, hvorfor Princippet bedst kan bruges,
+naar der ikke behøves alt for stor fri Højde i
+Gennemsejlingsaabningen, som f. Eks. ofte ved
+B. over Kanaler. Man kan enten lade Brobane
+og Dragere være sammenhængende og løfte det
+hele, ell. man kan lægge Dragerne tilstrækkelig
+højt op (understøttede paa Søjler ell. Portaler),
+til at de kan blive liggende; Brobanen er da
+ophængt til Dragerne ved Hængestænger, og
+det er kun den, der skal løftes. Konstruktionen
+er ret sjældent anvendt. Som Eks. kan nævnes
+den af <sp>Waddell</sp> 1894 byggede
+<sp>Halsted-Street-B.</sp> i Chicago (40 m Spændvidde, hele
+Overbygningen løftes op til en fri Højde af 47
+m). For nylig er der i Nordamerika
+fremkommet Projekter (fra <sp>Strauss</sp> og <sp>Strobel</sp>)
+til Løftebroer, hvor Kontrabalanceringen
+udføres ved Ophængning af Overbygningen til den
+ene Ende af store Vægtstænger (analoge med
+Brøndvipper), saaledes at man undgaar de i
+Halsted-Street-B. anvendte Staaltraadstove.
+
+3) <sp>Vippe-</sp> ell. <sp>Klapbroer</sp>. Den
+bevægelige Del bestaar af een ell. to Klapper.
+Bevægelsen foregaar for hver Klap om en vandret Akse,
+der finder Understøtning paa Pillen ell. Aaget,
+og som under Klappens Drejning enten selv
+kan ligge stille ell. gennemløbe en bestemt Bane.
+Hvad Dragerkonstruktionen angaar, kan der
+ved to Klapper være Tale om flg. to
+Anordninger: Dragerne stemmer imod hinanden, saa de
+
+<img>Fig. 30. Tower-Broen i London.</img>

@@ -1,0 +1,136 @@
+Bestemmelse af Grænsevinklen <i>g</i> kan tjene til
+Bestemmelse af et Stofs Brydningsforhold; hertil er
+konstrueret en stor Mængde Apparater,
+<sp>Refraktometre</sp>, der som ovf. nævnt har
+betydelig tekn. Anvendelse.
+
+Gaar (Fig. 3) en Straale skraat gennem en
+Plade (<i>BB</i>), der begrænses af parallelle Flader,
+en Spejlglasrude f. Eks., vil den ved de to B.
+forskydes noget til Siden, uden at dog Straalens
+<sp>Retning</sp> i Luften forandres. Forskydningen
+til Siden er desto større, jo tykkere Pladen er,
+jo stærkere den bryder Lyset, og jo mere skraat
+Straalen træffer den. Ser man skraat gennem
+en saadan Plade paa en Genstand, vil denne
+altsaa synes flyttet lidt til den ene Side;
+Flytningen er lige stor for
+nære og fjerne Genstande;
+for de sidste kan den
+derfor ikke ses, medens den
+for de første er tydelig
+nok.
+
+Det skyldes B., at en
+Stok, som stikkes skraat
+ned i Vand, synes
+knækket i Vandfladen, fordi,
+som Fig. 2 viser, enhver
+Straale, der udgaar fra
+et Punkt under Vandfladen, i Luften vil gaa,
+som om den kom fra et Punkt, der ligger
+<sp>over</sp> dens virkelige Udgangspunkt. Af samme
+Grund synes Bunden i en Dam at ligge nærmere
+Overfladen, end den virkelig gør. Stjernernes
+Højde over Horisonten synes p. Gr. a. B. i
+Atmosfæren større, end den vilde vise sig, om
+Atmosfæren var borte (astronomisk Refraktion);
+denne atmosfæriske Refraktion faar ogsaa Bet.
+ved Nivellement, Maaling af Bjerghøjde o. l.
+De <sp>store</sp> Ringe om Sol og Maane skyldes
+Lysbrydning og Tilbagekastning fra
+Iskrystaller, Regnbuen B. og Tilbagekastning i
+Regndraaber, Luftspejlinger (Fata Morgana) B. og
+Tilbagekastning i Atmosfæren, naar der i den
+hersker en bestemt fra den normale afvigende
+Temperaturfordeling, Stjernernes Funklen
+uregelmæssige B. i Atmosfæren. De vigtigste optiske
+Instrumenter benytter B. i Linser, og
+Billeddannelsen i vort Øje skyldes Lysets B. i Øjets
+Hornhinde og Linse.
+
+<sp>Forklaringen</sp> af B. har været forsk.
+efter de forsk. Tiders Opfattelse af Lysets
+Natur. Fælles for alle Forklaringer er det, at B.
+skyldes, at Lyset forplanter sig med forsk.
+Hastighed i de forsk. Stoffer; men medens
+Newton's Emissionsteori for at forklare B. maatte
+antage, at de Smaadele, hvoraf Lyset efter
+Emissionsteorien bestaar, forplanter sig
+hurtigere i Stofferne end i det tomme Rum, kræver
+Bølgeteorierne, at Lysbølgers Hastighed i et
+Stof med Brydningsforholdet <i>n</i> er <i>n</i> Gange
+mindre end i det tomme Rum. Maaling af Lysets
+Hastighed i Vand (1850) og Svovlkulstof har
+direkte vist, at den sidste Antagelse er rigtig.
+Den nu alm. antagne elektromagnetiske
+Lysteori, der opfatter Lys som elektromagnetiske
+Bølger, kræver desuden, at et Stofs
+Brydningsforhold er lig Kvadratroden af Stoffets
+Dielektricitetskonstant og altsaa skal kunne findes af
+rent elektriske Maalinger. For en stor Mængde
+Stoffer er det ogsaa Tilfældet, og man har en
+tilfredsstillende Forklaring af de afvigende
+Tilfælde (se <sp>Lysteorier</sp>). Den Vej, en
+Lysstraale efter Brydningsloven følger fra et Punkt
+<i>a</i> i et Stof til et Punkt <i>b</i> i et andet, kan vises
+at være den, der kræver den <sp>korteste</sp> Tid
+for Forplantningen fra <i>a</i> til <i>b</i>.
+
+Brydningsforholdet bestemmer ikke alene,
+hvilken Retning det brudte Lys faar, men ogsaa
+hvor stor en Brøkdel af det indfaldende Lys den
+brudte Straale indeholder, og altsaa ogsaa, hvor
+stor en Del der kastes tilbage (se <sp>Spejling</sp>).
+
+Man har ogsaa kunnet maale
+Brydningsforholdet for Metallerne, bl. a. ved at tildanne
+ganske tynde gennemskinnelige Prismer af dem.
+For fl. Metaller (saaledes Sølv og Guld) er
+Brydningsforholdet mindre end 1, saa Lyset
+forplanter sig hurtigere i dem end i det tomme
+Rum. Men det naar naturligvis kun ganske kort
+ned i Metallet, før det er absorberet; i
+Sammenhæng hermed staar det, at Metallerne
+reflekterer den allerstørste Del af det indfaldende
+Lys, saa kun en ringe Brøkdel af det trænger
+ind i dem.
+
+Den her fremstillede Brydningslov gælder for
+alle Vædsker, for Glas og lgn. Stoffer, hvis
+Egenskaber er ens i alle Retninger (isotrope
+Stoffer). De fleste Krystaller viser derimod
+afvigende Forhold, idet de ved B. spalter
+Lysstraalen i to Straaler; dog er Krystallerne af
+det regulære System optisk isotrope. Se
+<sp>Dobbeltbrydning</sp>.
+<i>H. M. H.</i>
+
+<img>Fig. 2. Totalrefleksion.</img>
+
+<img>Fig. 3. Brydning i en
+planparallel Plade.</img>
+</chapter>
+
+<chapter name="Brydning">
+<b>Brydning.</b> Med dette Navn betegner man i
+den germanske, særlig den nordiske
+Sprogvidenskab en Række Vokalovergange. Den
+vigtigste Klasse af disse Overgange er den
+nordiske Diftongering af et opr. <i>e</i>, der endnu er
+beholdt i fl. beslægtede Sprog; vi har saaledes
+dels Oldn. <i>ja</i>, Dansk <sp>jæ</sp> ell. <sp>je</sp>, f. Eks. i Oldn.
+<i>hjarta</i>, Dansk <sp>Hjerte</sp>, smlg. Tysk <i>Herz</i>; Oldn.
+<i>stjarna</i>, Dansk <sp>Stjerne</sp>, Tysk <i>Stern</i>; Oldn.
+<i>sjaldan</i>, Dansk <sp>sjælden</sp>, Tysk <i>selten</i>; Svensk
+<i>jag</i>, Dansk <sp>jeg</sp>, smlg. Oldn. <i>ek</i>, Tysk <i>ich</i> o. s. v.;
+dels Oldn. <i>jö</i>, f. Eks. i <i>jörð</i>, Dansk <sp>Jord</sp>, smlg.
+Tysk <i>Erde</i>; Oldn. <i>skjöldr</i>, Dansk <sp>Skjold</sp>, smlg.
+Tysk <i>Schild</i> (hvorfra dansk Skilt er et
+Laaneord); Oldn. <i>mjöðr</i>, Dansk <sp>Mjød</sp>, Tysk <i>Met</i>
+o. s. v. Fænomenet viser sig hyppigst foran <i>r</i>
+og <i>l</i>, men Eksemplerne viser, at Vokalen dog
+ogsaa er blevet brudt i andre Stillinger, og den
+alm. Opfattelse nutildags gaar ud paa, at
+Konsonanten ikke er det afgørende, men at
+Vokalskiftet skyldes en Paavirkning fra en tidligere

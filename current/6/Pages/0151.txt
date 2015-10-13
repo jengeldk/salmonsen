@@ -1,0 +1,129 @@
+<chapter name="Diesel, Rudolf">
+<b>Diesel</b> ['di.z<sub>ə</sub>l], <sp>Rudolf</sp>, tysk Ingeniør, f.
+18. Marts 1858 i Paris af tyske Forældre, d.
+1913. Ved Udbrudet af Krigen 1870 forlod
+Faderen Paris og sendte Sønnen til Slægtninge
+i Augsburg, for at han der kunde fortsætte sin
+Skoleuddannelse. I Augsburg gennemgik D.
+Industriskolen, og fortsatte senere sin
+Uddannelse ved den tekniske Højskole iMünchen,
+hvor han særlig studerede Termodynamik.
+Efter at have fuldendt Studietiden ved
+Højskolen 1879, blev D. ansat som Assistent
+hos Professor von Linde. Han gik derefter
+over i praktisk Virksomhed hos Firmaet
+Sulzer i Wintherthur, indtil han kort Tid
+efter blev ansat ved von Linde's
+Virksomhed for Fabrikation, af Kølemaskiner som
+Leder af Afdelingen i Paris. Senere
+forflyttedes han til Afdelingen i Berlin, hvor han
+forblev, indtil den videre Udvikling af den
+Forbrændingsmotor, der bærer hans Navn,
+foranledigede ham til udelukkende at hellige sig
+denne Sag.
+
+Lige siden Studieaarene havde D. arbejdet
+paa at konstruere en mere økonomisk
+Kraftmaskine end Dampmaskinen og Gasmaskinen.
+Resultatet af sine Undersøgelser offentliggjorde
+han 1893 i en Afh.: »Theorie und Konstruktion
+eines rationellen Wärmemotors«, efter at han
+ved Patent af 27. Aug. 1892 havde sikret sig
+Udnyttelsen af sine Ideer. Efter
+Patentbeskrivelsen var det karakteristiske ved den af D.
+opstillede Forbrændingsproces, at en meget høj
+Temp. frembragtes i Motorens Cylinder ved
+Sammentrykning af Luft, og at pulveriseret
+Kulstof derefter gradvis indførtes i Cylinderen
+og forbrændtes isotermisk under en Del af
+Stempelslaget. D.'s Arbejder vakte saa stor
+Opmærksomhed i tekn. Kredse, at Firmaerne
+Krupp i Essen og Maschinenfabrik Augsburg
+besluttede at prøve D.'s Forbrændingsproces i
+Praksis og at udvikle en brugbar Motor paa
+dette Grundlag. I Maschinenfabrik Augsburg blev
+der oprettet et særligt Laboratorium til
+Forsøgenes Udførelse, og efter 4 Aars ihærdigt
+Arbejde med Udførelse af Eksperimenter og
+Bygning af Forsøgsmotorer, hvoraf de to første
+maatte kasseres, lykkedes det 1897 D. i
+Forening med fremragende Ingeniører ved nævnte
+Fabrik at konstruere den første praktisk
+brugbare D.-Motor (s. d.). Det havde under
+Arbejdet paa Udviklingen af Motoren vist
+sig nødvendigt at fravige D.'s oprindelige
+Ideer paa flere Punkter, saaledes
+benyttedes ikke Kulstøv, men Brændselsolie som
+Brændstof i Motoren; den patenterede
+Forbrændingsproces kunde ikke fuldstændig
+følges, og Cylindervæggene maatte afkøles, men
+Virkemaaden af Motoren dækkedes dog af D.'s
+opr. Patent. D.-Motoren var et meget
+betydeligt Fremskridt i Sammenligning med de
+tidligere kendte Kraftmaskiner, den kunde
+nyttiggøre c. 34 % af det tilførte Brændstofs
+Brændværdi, medens der i Dampmaskinen kun kunde
+nyttiggøres c. 15 % og i Gasmaskinen kun c.
+23 % af Brændselets Brændværdi. D.'s Navn
+er gennem hans Opfindelse knyttet til et af de
+vigtigste Udviklingstrin i den moderne
+Maskinteknik, og Opfindelsen er, som udgaaet af rent
+termodynamiske Studier, et udmærket
+Eksempel paa Teoriens Bet. for Teknikkens
+Udvikling.
+
+Flere større Firmaer i Udlandet sikrede sig
+straks Retten til at udføre D.-Motoren, og den
+fik derfor hurtig en meget stor Udbredelse
+først til Landanlæg og senere til Skibsanlæg. Den
+første D.-Motor til Skibsbrug blev bygget i
+Frankrig 1903 af Firmaet Adrian Bochet, den
+første omstyrbare D.-Motor blev bygget af
+Firmaet Sulzer i Wintherthur 1905. I de senere
+Aar har særlig det danske Firma Burmeister
+& Wain bidraget meget til Udviklingen af
+Skibs-D.-Motoren. I sin Bog »Die Entstehung des
+D.-Motors« (1913) har D. beskrevet, hvorledes
+hans Opfindelse er opstaaet og udviklet, og
+hvorledes han har maattet kæmpe mod
+Misundelse og Uvillie, inden han fik sin Idé bragt
+til Udførelse. D. blev ved enkelte Lejligheder
+angrebet for, at han ikke i tilstrækkelig Grad
+anerkendte den store Andel, hans fremragende
+Medarbejdere i Forbindelse med Maschinenfabrik
+Augsburg havde i Konstruktionen af
+D.-Motoren; men i øvrigt modtog han store
+Anerkendelser for sine Fortjenester paa det tekn.
+Omraade; han blev saaledes 1907 udnævnt til
+Æresdoktor i Ingeniørfaget ved den tekn. Højskole
+i München. I de sidste Aar beskæftigede D. sig
+med Konstruktionen af en D.-Motor til
+Lastautomobiler og foretog Forsøg med
+Anvendelsen af D.-Motoren til Lokomotivdrift. Samtidig
+var han stærkt interesseret i Oprettelsen af et
+større Foretagende til Fabrikation af
+D.-Motorer i England og vilde i den Anledning
+foretage en Rejse til England for personlig at
+undersøge Forholdene. Han gik i Antwerpen om
+Bord i Damperen »Dresden« 29. Septbr 1913,
+men da Damperen næste Morgen ankom til
+Harwich i England, savnedes D., og en
+Undersøgelse viste, at han under Overfarten om
+Natten mellem 29. og 30. Septbr maa være faldet
+over Bord og druknet.
+<i>H. P. C.</i></chapter>
+
+<img>R. Diesel.</img>
+
+<chapter name="Dieselmotor">
+<b>Dieselmotor</b> [di's<sub>ə</sub>l-], en efter Opfinderen
+Dr. R. Diesel opkaldt Forbrændingsmotor, der
+arbejder med flydende Brændstof; saasom
+Destillater ell. Restprodukter fra
+Jordoliedestillationen ell. Tjæreolie. Den første brugelige D.
+blev fremstillet 1897 efter c. 4 Aars Forsøg,
+til hvilke Diesel fik meget betydelig tekn. og
+økonomisk Hjælp af de tyske Firmaer Fried.
+Krupp i Essen og Maschinenfabrik Augsburg i
+Augsburg. I de første Aar blev Motoren
+udelukkende udført som opretstaaende,

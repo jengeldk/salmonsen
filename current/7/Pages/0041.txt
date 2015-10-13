@@ -1,0 +1,128 @@
+Platintraadsbeviklingen udvikler Varme og opvarmer
+Glødestiften saa meget, at denne begynder at lede
+Elektriciteten. Naar Strømmen gennem
+Glødestiften har naaet c. 1/2 normal Værdi,
+tiltrækkes Ankeret <i>A</i>, hvorved Forvarmestrømmen
+brydes, og Lampen er tændt. - Nernstlamper
+giver et behageligt Lys. De anvendes nu
+nærmest til specielle Formaal saasom til
+Aflæseindretninger ved Spejlgalvanometre.
+<i>Abs. L.</i>
+</chapter>
+
+<chapter name="elektrisk Lysbue">
+<b>elektrisk Lysbue,</b> en Form af elektrisk
+Strøm igennem Luft, ved hvilken ikke blot
+Strømbanen i Luften, men ogsaa Polerne, hvor
+Strømmen træder ind og ud, er stærkt
+lysende. Den e. L. er først fremstillet af <sp>H.
+Davy</sp> 1821 ved Hjælp af et Batteri paa 2000
+galvaniske Elementer. Batteriets Poler, to
+Metal- ell. Kulstykker, nærmedes først til Berøring;
+naar de derefter fjernedes fra hinanden,
+dannedes der en vedvarende Lysbue imellem dem.
+Det stærkeste Lys fremkom ved at anvende
+Kulpoler. Ved Davy's Forsøg stod Polerne vandret
+over for hinanden, de opstigende varme
+Luftstrømme vil da bøje den glødende Strømbane
+opad som en Bue, hvoraf Navnet.
+
+<sp>Kullysbuens Udseende og
+Straaling</sp> m. m. Fig. 1 viser en e. L. mellem
+Kulpoler. De to Poler udsender et intensivt hvidt
+Lys. Ca 85 % af den samlede Lysmængde
+kommer fra den positive Pol (Anoden), der hules
+ud af Strømmen til det saakaldte Krater <i>kr</i>.
+Kraterets Temp. er c. 3900° C. Paa den
+negative Pol (Katoden), der spidses til af Strømmen,
+er der kun en lille, lysende Plet paa Spidsen
+<i>sp</i>; den bidrager c. 10 % til den samlede
+Lysvirkning. Selve Buen giver kun c. 5 %, men
+er rig paa ultraviolette Straaler. Dette gælder
+særlig om den indre blaalige Kerne <i>a</i>. Uden
+om denne iagttages en mørkere Zone <i>b</i> og
+endelig en gul, flammeagtig Kappe, Aureolen, <i>c</i>.
+Det hvide Lys fra Polerne giver et kontinuert
+Spektrum. Buens Spektrum bestaar derimod
+af Baand og Linier. Mest fremtrædende er de
+saakaldte Cyanbaand, der giver Kernen <i>a</i> dens
+Farve. Det stærkeste Cyanbaand ligger dog i
+ultraviolet ved c. 0,385 μ. Det er sandsynligvis
+dette Baand, der for en stor Del betinger
+Kullysbuens Fortrin til <sp>Finsen's
+Lysbehandling</sp>. Aureolens gule Farve skyldes væsentlig
+den gule Natriumlinie.
+
+Af den Energi, der tilføres Lysbuen,
+omdannes kun c. 10 % til Straaling, og heraf
+bliver endda atter kun c. 10 % til lysende
+Straaler, 2 % til ultraviolette Straaler, Resten
+er ultrarøde Straaler (Varmestraaler).
+Nærmere om Lysbuen som <sp>Lyskilde</sp>, se
+<sp>elektrisk Lys</sp>. Den allerstørste Del af Energien
+bliver til Varme, hvoraf den meste gaar bort
+ved Varmeledning gennem Elektroderne. Efter
+Granqvist gaar ved Kulbuen c. 42 % af den
+samlede Energi bort som Varme gennem den
+positive Pol, c. 37 % gennem den negative. Den
+høje Temp. i Lysbuen giver Anledning til
+<sp>kemiske Processer</sp>, af hvilke den vigtigste
+er Iltning af Luftens Kvælstof til Kvælstofilte.
+Denne Maade at fremstille Kvælstofilter paa
+anvendes nu i det store i særlig egnede
+Vekselstrømslysbuer (Birkeland - Eyde, Schönherr),
+hvis Poler dog er af Metal. Nærmere herom
+se <sp>elektriske Ovne</sp>. Den høje Temperatur
+i Kullysbuen finder Anvendelse i den
+<sp>elektriske Ovn</sp>, samt til <sp>elektrisk
+Lodning</sp> og <sp>Svejsning</sp>.
+
+<sp>Kullysbuens elektriske
+Karakteristik</sp>. De opstigende hede Luftstrømme
+vanskeliggør en rolig brændende Lysbue ved
+vandrette Poler; man stiller derfor i Alm.
+Polerne lodret over hinanden og faar da en lige
+Lysbue. Et Billede af den lodrette Kullysbue
+findes under <sp>elektrisk Lys</sp>. Holder man
+Lysbuens Længde konstant, men forandrer paa
+Strømstyrken, vil Polspændingen forandre sig
+paa den Maade, som er angivet ved Kurverne
+i Fig. 2, de saakaldte <sp>Karakteristikker</sp>. De
+er optagne ved en lodret Kulbue med homogene
+Kulpoler paa 11 og 9 mm i Diameter af henh.
+Anoden og Katoden. Man ser, at Spændingen
+aftager med voksende Strømstyrke, idet den
+dog ved store Strømstyrker nærmer sig til at
+blive konstant. For samme Strømstyrke vokser
+Spændingen med Buelængden. Karakteristikkerne
+kan udtrykkes ved flg. Ligning: Polspændingen
+<table>
+<td v2>i Volt = 36,6 + 2,074 L + 10,54<td c>L<td v2>, hvor I er
+<td c>I
+</table>
+Strømstyrken i Ampère, og L er Lysbuens
+sande Længde i mm, maalt fra den negative
+Spids til det positive Kraters Bund. I Fig. 2
+er L' den tilsyneladende Længde, der faas ved
+fra L at trække Kraterdybden 1,1 mm.
+Hvorledes Spændingen fordeler sig over Buens
+forskellige Dele, kan man faa at vide ved at
+indføre en fin Kulstift, der er sat i Forbindelse
+med et Elektrometer. Man finder da den i
+Fig. 3 skitserede Spændingsfordeling.
+Umiddelbart ved Polerne findes der et brat
+Spændingsfald, der er størst ved Anoden. I Buen er
+Spændingsfaldet pr cm forholdsvis ringe og
+jævnt fordelt. Anodefaldet og Katodefaldet er
+tilsammen c. 37 Volt. Selv ved meget kort Bue
+kræves der derfor mindst denne Spænding for
+at faa en Lysbue i Stand.
+
+<sp>Lysbuens Teori</sp>. Sammenligner man
+Lysbuens Minimalspænding med den mindste
+Spænding, der skal til for at frembringe en
+Lystaagestrøm, d. e. en Gnist - c. 350 Volt -,
+
+<img>Fig. 1</img>
+
+

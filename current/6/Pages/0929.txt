@@ -1,0 +1,140 @@
+<sp>Propsikringer</sp>, <sp>Patronsikringer</sp>
+og <sp>Lamelsikringer</sp>. En <sp>Propsikring</sp>
+(Fig. 12) bestaar som Regel af et cylindrisk,
+hult Porcelænslegerne, inden i hvilket der er
+anbragt een ell. fl. tynde Smeltetraade - oftest
+af Sølv -, som er fastloddede til de to ydre
+Kontaktstykker, af hvilke det ene er presset
+i Skrueform og tjener som Gevind ved
+Nedskruningen af Sikringen i <sp>Sikringssoklen</sp>,
+hvortil Ledningerne er førte. Propsikringer
+bygges kun til mindre Strømstyrke. Ved
+<sp>Patronsikringerne</sp> (Fig. 13 og 14) er
+Kontaktstykkerne anbragte i hver sin Ende af det
+cylindriske Porcelænslegeme, der indeholder
+Smeltetraadene. De ligger enten fladt ind imod
+Patronens Endeflader (Fig. 13) ell. stikker
+bladformet ud derfra (Fig. 14), alt efter som den
+tilhørende Sikringssokkel er formet, idet Patronen
+i første Tilfælde fastskrues i en passende Sokkel,
+i det andet Tilfælde fastgøres de to
+Blade ved Hjælp af Skruer til lodrette
+Kontaktstykker (Fig. 14). Patroner bygges til
+flere Hundrede Ampère. En
+<sp>Lamelsikring</sp> (Fig. 15) bestaar af en ell. fl. fritliggende
+Smeltetraade, som i begge Ender er
+fastloddede til flade Kontaktstykker, som fastspændes
+paa de faste Kontaktstykker ved Hjælp af Bolte.
+Lamelsikringerne bygges til meget store
+Strømstyrker. De er ret brandfarlige, da
+Smeltetraadene jo ligger frit, og ikke som ved Propper
+og Patroner er indelukkede i et (ofte tillige
+sandfyldt) Porcelænshylster, hvorved den ved
+Sikringens Overbrænding dannede Lysbue straks
+slukkes. De bruges derfor sjældent i alm.
+Installationer.
+<i>R. J. J.</i></chapter>
+
+<chapter name="elektriske Isolationsmaterialer">
+<b>elektriske Isolationsmaterialer</b> benævnes
+urider eet de Stoffer, der i Elektroteknikken
+benyttes til elektrisk at adskille (<sp>isolere</sp>)
+strømførende Dele enten indbyrdes ell. fra Jord,
+Jernstel paa Maskiner o. l. Foruden stor
+Isolationsevne kræves af et godt e. I. tillige stor
+mek. Styrke og Sejghed; det maa være let at
+bearbejde, maa ikke være hygroskopisk eller
+angribeligt af Syredåmpe, maa kunne taale
+at udsættes for høj Temp. uden at miste sin
+mek. Styrke ell. Isolationsevne. Et e. I. med alle
+disse Egenskaber forenede eksisterer
+naturligvis ikke, man maa derfor vælge sit e. I.
+saaledes, at det saa godt som muligt gør Fyldest
+under de Forhold, det anvendes under. Af de
+vigtigste e. I. skal nævnes flg.: <sp>Glimmer</sp>
+(Mica) har stor Isolationsevne, men forholdsvis
+ringe mek. Styrke, det taaler godt høje Temp.
+(elektriske Strygejern).
+<sp>Gennemslagsspændingen</sp> (den Spænding, for hvilken en
+elektrisk Gnist gennembryder Materialet) er c.
+300000 Volt pr cm. I den Tilstand, hvori det
+forekommer i Naturen, anvendes det bl. a. til
+Isolation imellem Kommutatorlamellerne paa
+elektriske Maskiner. <sp>Micanit</sp> fremstilles af
+tynde Glimmerblade, der under stærkt Tryk
+sammenlimes med Isolationslak. Det kan i
+Modsætning til Naturglimmer <sp>formes</sp> og har
+derfor fundet udstrakt Anvendelse til
+Højspændingsisolation i elektriske Maskiner og
+Transformatorer, det kan dog ikke anvendes i Olie,
+da denne opløser Klæbelakken. <sp>Micapapir</sp>
+og <sp>Micalærred</sp> fremstilles ved paa Papir
+ell. Lærred at fastlime et tyndt Lag
+Glimmerblade. <sp>Marmor</sp> anvendes hovedsagelig til
+Fordelingstavler. Det kan kun benyttes ved
+lavere Spændinger (indtil c. 500 Volt), da det
+ofte indeholder fine Metalaarer, der gør det
+uanvendeligt ved Højspænding. Det samme
+gælder om <sp>Skifer</sp> i endnu højere Grad.
+Skifer anvendes navnlig til Grundplade for
+elektriske Afbrydere. <sp>Asbest</sp> anvendes til
+Isolation af Traade, der er udsatte for høj Temp.,
+f. Eks. Forbindelsestraadene i elektriske
+Modstande; det har kun ringe mek. Styrke.
+<sp>Porcelæn</sp> er et udmærket e. I.
+Gennemslagsspændingen er c. 100000 Volt pr cm. Det er
+meget ensartet og temperaturbestandigt, ikke
+hygroskopisk ell. angribeligt af Syrer og kan
+gives alle mulige Former. Det anvendes navnlig
+til <sp>Isolatorer</sp> og <sp>Gennemføringer</sp>
+ved elektriske Anlæg. Glas har en meget stor
+Isolationsevne; Gennemslagsspændingen kan naa
+op til 1300000 Volt pr cm. P. Gr. a. sin Skørhed
+anvendes det ikke meget i
+Stærkstrømsteknikken, dog har det fundet en Del Anvendelse til
+Bygning af tekn. Kondensatorer. <sp>Træ</sp> er i tør
+Tilstand en fortrinlig Isolator; det benyttes i
+udstrakt Grad i Olietransformatorer til
+Understøtning af Viklingerne. <sp>Papir</sp> kan i tør
+Tilstand have en Gennemslagsspænding paa 60000
+Volt pr cm; imprægneret med Lak kan det
+taale indtil 270000 Volt pr cm. Det rene Papir
+bruges til Isolation af Telefonkabler, dels
+imellem Traadene indbyrdes, dels imellem disse
+og den Kablet omgivende Blykappe. Da Papir
+er stærkt vandsugende, maa Kablets Ender
+beskyttes meget omhyggeligt mod Indtrængen
+af Fugtighed. Det imprægnerede Papir kan ikke
+anvendes til Telefonkabler, da disses Kapacitet
+da vilde blive for stor. Derimod anvendes
+olieimprægneret Papir til Isolation i
+Højspændingskabler. En meget haard Pap, <sp>Presspaan</sp>
+benyttes til Isolation af Noterne i elektriske
+Maskiner, til Spolekasser o. l. I Form af
+tykvæggede Rør anvendes Papir under Olie til
+Isolation imellem Viklingerne i
+Transformatorer. <sp>Bomuld</sp> benyttes til Omspinding af
+elektriske Ledninger, navnlig til de enkelte Traade i
+Beviklingerne i elektriske Maskiner. Bomuld er
+stærkt vandsugende, hvorfor de færdigviklede
+Spoler imprægneres med Lak i Vakuum, før
+de indbygges i Maskinen. Bomuld taaler ikke
+højere Temp. end c. 80 à 100° C. <sp>Silke</sp> er
+en bedre e. I. end Bomuld, men anvendes p.
+Gr. a. sin Kostbarhed kun til Isolation af
+Traaden i Maaleinstrumenter, hvor Isolationen skal
+fylde saa lidt som muligt. <sp>Lærred</sp> anvendes i
+Form af Bændler til Isolation af de
+færdigviklede Spoler i Maskiner og Transformatorer.
+Det maa ligesom Bomuld imprægneres med
+Lak, for ikke at suge Fugtighed.
+<sp>Guttaperka</sp> og <sp>Kautsjuk</sp> (Paragummi) er
+særdeles gode e. I. og finder udstrakt Anvendelse
+til Isolation af elektriske Ledere. Kautsjuk
+benyttes oftest i <sp>vulkaniseret</sp> Tilstand,
+idet det iblandes Svovl og forsk. andre
+Substanser. Gummi og Kautsjuk yder navnlig en
+fortrinlig Beskyttelse imod Fugtighed. Det
+vulkaniserede Kautsjuk angriber p. Gr. a. sit
+Svovlindhold Kobbertraaden, hvorfor denne først
+

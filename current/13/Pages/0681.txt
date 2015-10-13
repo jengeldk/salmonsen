@@ -1,0 +1,129 @@
+Bane ikke er større, end at Lodlinierne
+gennem Banens forsk. Punkter kan betragtes som
+parallelle. Lad Legemet blive udkastet fra <i>O</i>
+med en Hastighed <i>c</i> m, hvis Størrelse og
+Retning er fremstillet ved Linien <i>OH</i>. <i>c</i> angiver
+da den Vej, som Legemet vilde tilbagelægge
+i hvert Sek., om Hastigheden holdt sig
+uforandret. <i>OM</i> = <i>a</i> og <i>OK</i> = <i>b</i> er Projektionerne
+af <i>c</i> paa det vandrette Plan og den lodrette Linie
+og angiver de Veje, som Legemet i hvert Sek.
+vilde tilbagelægge i vandret og i
+lodret Retning, hvis det beholdt sin
+Begyndelseshastighed uforandret.
+Tyngden drager imidlertid Legemet
+nedad, og den
+samlede Flytning,
+Legemet
+undergaar i en vis
+Tid, er sammensat af den, som
+Begyndelseshastigheden alene vilde frembringe, og
+den, som Tyngden alene vilde frembringe.
+Tyngden ændrer ikke den vandrette
+Bevægelse, og Legemet flytter sig selvfølgelig <i>a</i>
+m i hvert Sek. i vandret Retning. I lodret
+Retning vil Tyngden i <i>t</i> Sek. flytte Legemet 1/2 <i>gt</i><sup>2</sup>
+m nedad, naar <i>g</i> er Tyngdens Acceleration
+(9,8158 m i Kbhvn) (se <sp>Fald</sp>), medens den
+lodrette Del af Begyndelseshastigheden vilde
+føre Legemet <i>bt</i> m opad i samme Tid. Efter
+<i>t</i> Sek. Forløb befinder Legemet sig altsaa <i>bt</i> ÷
+1/2 <i>gt</i><sup>2</sup> m over det vandrette Plan gennem
+Udgangspunktet. Den største Højde,
+<sp>Kastehøjden</sp>, er naaet, naar den lodrette Hastighed er
+blevet Nul. Tyngden formindsker den
+opadgaaende Hastighed <i>b</i> med <i>g</i> m i hvert Sek., og
+naar <i>gt</i> = <i>b</i>, vil Toppunktet af Banen altsaa
+være naaet, og dette er sket efter <i>t</i> = <i>b</i> : <i>g</i>
+Sek.'s Forløb. Indsættes denne Værdi for <i>t</i> i
+Udtrykket for Legemets Højde over
+Udgangspunktet, faas Kastehøjden lig 1/2 <i>b</i><sup>2</sup> : <i>g</i> m, hvoraf
+ses, at denne Højde forholder sig som
+Kvadratet paa den lodrette Komposant af
+Begyndelseshastigheden, medens den vandrette ingen
+Indflydelse har. Ved <sp>Kastevidden</sp> forstaar
+man den Afstand fra Udgangspunktet, hvori
+Legemet atter træffer det vandrette Plan
+gennem dette Punkt. For Banen <i>OBEF</i> er
+Kastevidden altsaa <i>OF</i>, medens Kastehøjden er
+Afstanden fra <i>OF</i> til Banens Toppunkt <i>B</i>. Højden
+over Udgangspunktet er Nul, naar <i>bt</i> = 1/2 <i>gt</i><sup>2</sup>,
+altsaa naar <i>t</i>=2<i>b</i> : g. I hvert Sek. bevæger
+Legemet sig <i>a</i> m i vandret Retning, altsaa er
+Kastevidden lig 2<i>ab</i> : g m. Den er følgelig
+proportional med Produktet <i>ab</i> af de to
+Komposanter af Begyndelseshastigheden <i>c</i>. Paa Figuren
+er tegnet Kastelinier for
+Begyndelseshastighederne <i>OH</i> og <i>OI</i>, der er lige store, men hvoraf
+den første danner en Vinkel (»Elevationen«)
+paa 60°, den anden en Vinkel paa 30° med det
+vandrette Plan. Den vandrette Projektion af
+<i>OH</i> er derfor lig den lodrette Projektion af
+<i>OI</i> og omvendt (<i>OM</i> = <i>OL</i>; <i>OK</i> = <i>ON</i>), saa
+Produktet af de to Projektioner bliver det
+samme i begge Tilfælde, og Kastevidden <i>OF</i> ens
+for begge Kast. I Alm. gælder det, at naar
+Begyndelseshastigheden <i>c</i> er givet, vil
+Kastevidden blive den samme for to Kast, hvoraf det
+ene foregaar under Elevationen <i>e</i>°, det andet
+under 90°—<i>e</i>°. Størst bliver Kastevidden, naar
+Elevationen er 45°, som det er Tilfældet med
+Kastelinien <i>OCEG</i>. De to Projektioner <i>a</i> og <i>b</i>
+er da lige store, og deres Produkt er
+Maksimum; thi af alle Rektangler med given
+Diagonal har Kvadratet det største Areal. Højest
+kommer Legemet selvfølgelig, naar det kastes
+lodret opad. Figuren viser, at for 4 Kast med
+samme Begyndelseshastighed naar det lodrette
+til <i>A</i>, medens de 3 Kastelinier med
+Elevationerne 60°, 45° og 30° har deres Toppunkter henh.
+i <i>B</i>, <i>C</i> og <i>D</i>. Den punkterede Linie <i>ABCDO</i> er
+Halvdelen af en Ellipse, der indeholder alle
+Toppunkterne for de Kastelinier, der udgaar
+fra <i>O</i> med samme Begyndelseshastighed og
+ligger i samme Plan. Dens store Akse er vandret
+og dobbelt saa lang som den lille Akse <i>OA</i>.
+<sp>Hastigheden</sp> i et Punkt af Legemets
+Bane findes ved at sammensætte den vandrette
+Del <i>a</i> af Begyndelseshastigheden med den
+lodrette Hastighed, som Legemet vilde faa ved at
+falde frit gennem en Højde, der er lig
+Højdeforskellen mellem Banens øverste Punkt og
+det givne Punkt af Banen. Er denne
+Højdeforskel <i>h</i> m, saa er den tilsvarende lodrette
+Hastighed lig √2<i>gh</i>, og Legemets hele
+Hastighed <i>v</i> = √<i>a</i><sup>2</sup>+2<i>gh</i>. Dette gælder baade for
+den Del af Banen, hvori Bevægelsen gaar
+opad, og om den, hvori den gaar nedad. Et
+Punkt, der kan rammes med et Projektil, der
+udkastes fra <i>O</i> med en given
+Begyndelseshastighed, siges at ligge <sp>inden for Skudvidde</sp>.
+Som Regel kan Punktet træffes paa to Maader;
+saaledes rammes <i>E</i> baade ved et Kast med 45°
+Elevation og af et Kast med 60° Elevation.
+Men trækker man den Linie, der tangerer alle
+de Kastelinier, der udgaar fra <i>O</i> med samme
+Hastighed og ligger i samme lodrette Plan,
+saa vil ethvert Punkt i denne Linie kun kunne
+træffes ved Hjælp af een bestemt Elevation, og
+et Punkt uden for den kan ikke naas.
+Grænselinien er en <sp>Parabel</sp> ligesom alle
+Kastelinierne. Om denne Kurves andre Egenskaber, se
+<sp>Parabel</sp> og <sp>Keglesnit</sp>. Ved at dreje
+Grænselinien om dens lodrette Akse <i>OA</i>
+frembringer man en Flade
+(Omdrejningsparaboloïde), der afgrænser hele det Rum, hvis
+Punkter alle ligger inden for Skudvidde. Som
+Eksempel skal nævnes, hvilke Afstande et
+moderne Geværs Projektil vilde kunne naa til, hvis
+der ingen Luftmodstand var.
+Begyndelseshastigheden kan sættes lig 800 m, og for Nemheds
+Skyld regnes <i>g</i> = 10 m. Kastehøjden er 1/2 <i>b</i><sup>2</sup> : <i>g</i>,
+altsaa for et Projektil, der skydes lodret opad,
+ikke mindre end 32 km. Er Elevationen 45°,
+bliver Kastehøjden netop halv saa stor.
+Kasteviddener 2<i>ab</i> : <i>g</i>. For 45° Elevation er <i>a</i> = <i>b</i>
+= <i>c</i> √1/2, altsaa Kastevidden lig <i>c</i><sup>2</sup> : <i>g</i> ell. 64 km.
+Et saadant Skud vilde række saa langt som
+
+<img>Kastebevægelse.</img>

@@ -1,0 +1,78 @@
+ser man, at den kun er c. en Tiendedel af
+denne. Som det nærmere er udviklet i Artiklen:
+<sp>elektrisk Strøm i Luftarter</sp>, Afsnit
+12 og 13, beror dette paa, at Lysbuens glødende
+Katode af sig selv udsender Elektroner og
+derved overflødiggør de positive Ioners
+Frembringelse af disse ved Stødionisering og dermed
+ogsaa den dertil udkrævede høje Spænding. Om
+Katoden er mørk ell. glødende, er den
+karakteristiske Forskel mellem den elektriske
+Lystaagestrøm og den elektriske Lysbuestrøm. Man kan
+let vise, at det er den glødende negative Pol,
+der betinger den stærke Strøm i Buen, ved den
+i Fig. 4 viste Forsøgsopstilling. Til Lysbuen <i>AB</i>
+nærmer man fra Siden en kold Kulstift <i>C</i>, der
+gennem et Ampèremeter er forbundet med
+Polen <i>A</i>. Man kan da faa en betydelig Strøm
+igennem Ampèremetret, naar Polen A og
+dermed ogsaa <i>C</i> er Anode, derimod faar man ingen
+Strøm, naar <i>A</i> er Katode, saa længe <i>C</i> holdes
+kold. Herved forklares ogsaa den Maade,
+hvorpaa en Lysbue tændes. Ved at Polerne først
+bringes til Berøring vil den stærke Strøm
+gennem Berøringspunkterne bringe disse til at
+gløde, og dermed er Betingelsen for
+Lysbuedannelsen skaffet til Veje.
+
+<sp>Lysbuen mellem
+Metalelektroder</sp> har i det
+væsentlige samme
+Karakteristik som Kullysbuen. Der
+kræves ligesom ved denne en
+Mindstespænding, for at
+Lysbuen skal komme i Stand,
+der for de fleste Metaller
+ligger ved 20-30 Volt. Det
+hvide Lys fra Polerne er
+langt svagere end ved
+Kulelektroderne, derimod er
+selve Buen stærkt lysende og
+viser set i Spektroskop et
+Liniespektrum, der er
+karakteristisk for Elektrodemetallet.
+En ejendommelig Metallysbue
+er den af <sp>Arons</sp>
+fremstillede Lysbue mellem to
+Kvægsølvelektroder i Vakuum.
+Fig. 5 viser en Form af
+Kvægsølvbuelampen, der
+anvendes som Lyskilde for
+ultraviolet Lys. Lysbuen
+dannes i det vandrette Rør, der
+er af smeltet Kvarts. Den
+tændes ved først at hælde
+Røret, saa at der dannes
+en sammenhængende,
+ledende Kvægsølvstreng mellem de to
+Elektrodebeholdere, og derpaa lægge det tilbage igen,
+hvorved Kvægsølvstrengen brydes.
+Afbrydningsgnisten vil da tænde Lysbuen. De vifteformede
+Metalstrimler tjener til Luftkøling af
+Polbeholderne. Kvægsølvbuens Anodefald er c. 7,4 Volt,
+Katodefaldet c. 5,4 Volt. Dens Minimalspænding
+er altsaa 12,8 Volt. Spændingsfaldet pr cm i
+Buen er ved lavt Damptryk af Størrelsesordenen
+1 Volt, men kan ved højt Damptryk stige
+betydelig derover.
+
+<sp>Vekselstrømslysbuen</sp>. En
+Vekselstrøm med det sædvanlige Periodetal af c. 50
+Perioder i Sekundet og 220 Volt Spænding kan
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+

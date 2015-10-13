@@ -1,0 +1,150 @@
+I Reglen bestaar Kompensatoren (Babinet's
+Kompensator) af 2 Kiler, en fast og en
+forskydelig med den skarpe Kant modsat Vej og
+givende Faseforskel af modsat Fortegn; derved
+undgaas Prismevirkningen. En fuldkomnere
+Konstruktion (Babinet-Soleil Kompensatoren)
+giver samme Faseforskel over hele Synsfeltet.
+Den simpleste Kompensator er Senarmonts ell.
+1/4-Bølgepladen, et Glimmerblad, hvis Tykkelse
+er afpasset saaledes, at det giver en
+Faseforske paa 1/4 for Lys af den benyttede Farve.
+Drejes dette, indtil dets
+Hovedsvingningsretninger er parallelle med Ellipsens Akser, laves
+det elliptisk polariserede Lys om til lineært
+polariseret; Glimmerbladets Stilling giver da
+Ellipsens Aksers Retning, og den
+Analysatorstilling, som giver Mørke, bestemmer Aksernes
+Forhold, hvorved Ellipsen igen er kendt.
+Stilles en saadan 1/4-Bølgeplade over for
+indfaldende lineært polariseret Lys, saaledes at de
+2 Svingninger inde i Pladen bliver lige stærke,
+træder der ud af den <sp>cirkulært
+polariseret</sp> Lys; det vil, naar det undersøges med
+Analysatornicolen, tage sig ud som upolariseret
+Lys, idet dets Styrke slet ikke ændres ved
+Nicolens Drejning, saa at det tilsyneladende er
+blevet depolariseret. Men det kendes let fra
+upolariseret Lys, f. Eks. ved at tilføje endnu en
+1/4-Bølgeplade, idet det saa igen bliver lineært
+polariseret. Cirkulært polariseret Lys faas
+foruden i specielle Tilfælde fra Krystaller, ogsaa
+fra f. Eks. <sp>Fresnel's
+Parallelepipedum</sp> (s. d.). Elliptisk polariseret Lys
+optræder ogsaa, naar lineært polariseret Lys kastes
+fuldstændig tilbage fra et gennemsigtigt Legeme
+ell. kastes tilbage fra Metaller (se <sp>Spejling</sp>).
+
+Vi har hidtil forudsat, at de dobbeltbrydende
+Plader i Polarisationsapparatet undersøgtes i
+nogenlunde parallelt Lys. Bruger man
+konvergent Lys, saa at Pladen passeres af Straaler i
+forsk. Retninger, fremkommer der en stor
+Mangfoldighed af overmaade smukke
+Fænomener, der sammenfattes under Navnet
+<sp>kromatisk Polarisation</sp>, og som man kan
+benytte til Bestemmelse af Pladens
+Krystalsystem og dens Beliggenhed i Forhold til
+Krystallens Akse o. s. v., men som ikke kan
+omtales nærmere her.
+
+Polarisationsplanens Drejning skyldes, at det
+indfaldende lineært polariserede Lys inde i det
+drejende Stof spaltes i 2 cirkulært polariserede
+Straaler med modsat Rotationsretning, og disse
+forplanter sig med lidt forsk. Hastighed; naar
+de træder ud af Stoffet og igen sammensættes
+til lineært polariseret Lys, faar dette derfor en
+anden Svingningsretning. Denne Forklaring
+skyldes Fresnel, der godtgjorde dens Rigtighed
+ved at paavise den overordentlig lille Forskel
+i Forplantningshastighed.
+
+Af andre Anvendelser af polariseret Lys kan
+nævnes, at man i <sp>Fotometri</sp> paa forsk.
+Maade benytter, at man let kan svække en
+polariseret Straale paa kendt lovmæssig
+Maade. Om den P., der optræder ved Lysets
+Spredning, og som bl. a. bevirker, at Himmellyset
+er delvis polariseret, se <sp>Lysets
+Diffusion</sp>. Til Paavisning af en ringe Grad af
+delvis P. har man et særligt Apparat, <sp>Savart's
+Polariskop</sp>, en Kvartsplade, skaaret paa
+en bestemt Maade ud af Krystallen, i
+Forbindelse med en Analysator. Selvom blot 1 % af
+det indfaldende Lys er polariseret, giver det sig
+til Kende ved Striber i Synsfeltet, der tillige
+bestemmer Retningen af det iblandede
+polariserede Lys' Svingninger.
+
+Det er klart, at P.-Fænomenerne ikke er
+indskrænkede til Lys, men maa træffes lige saa
+godt ved alle elektromagnetiske Svingninger,
+saaledes ved <sp>Røntgenstraaler</sp> (s. d.);
+de forsk. Maader, hvorpaa egl. elektriske
+Svingninger fremstilles, giver i Reglen direkte
+polariserede Svingninger. (<sp>Litt</sp>.: De større
+optiske Lærebøger [se f. Eks. under
+<sp>Interferens</sp>]; endvidere <sp>Chwolson</sp>, »Lehrbuch
+der Physik«, 2. Bd [Braunschweig 1904]; for
+Polarisationsplanens Drejning: <sp>Landolt</sp>, »Das
+optische Drehungsvermogen organischer
+Substanzen« [Braunschweig 1898]; for Krystaloptik
+f. Eks. <sp>Pockels</sp>, »Lehrbuch der
+Kristalloptik« [Leipzig 1906]).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Polarisation, elektrisk">
+<b>Polarisation, elektrisk,</b> se
+<sp>elektrolytisk P.</sp>
+</chapter>
+
+<chapter name="Polarisationsapparater">
+<b>Polarisationsapparater.</b> Under
+Polarisation er omtalt Grundtypen for alle P., en
+Polarisalor og en Analysator, mellem hvilke
+kan anbringes det, som skal undersøges.
+Endvidere er beskrevet det ældste P., Nørrenberg's
+Apparat, fra hvilket altsaa alle nyere
+Konstruktioner (kan afledes. De falder i 2
+Hovedtyper efter deres vigtigste Anvendelser, nemlig
+<sp>Polarimetre</sp> (Polaristrobometre),
+væsentlig til Undersøgelse af Polarisationsplanens
+Drejning og altsaa til Arbejde i parallelt Lys,
+og <sp>Polarisationsmikroskoper</sp> til
+Kiystalundersøgelser (Bestemmelse af, til
+hvilket Krystalsystem et givet Stykke af en
+Krystal hører, og hvorledes det er orienteret i
+Forhold til Krystallens Akser), der maa
+foretages i konvergent Lys.
+
+Et Polarimeter er vist skematisk i Fig. 1.
+<i>P</i> er Polarisatoren, gennem hvilken der fra
+venstre sendes
+ensfarvet Lys, i
+Reglen fra en
+Natriumsflamme; <i>A</i>
+er Analysatoren,
+der er anbragt
+drejelig og
+saaledes, at dens
+Drejning kan
+aflæses paa den inddelte Kreds <i>K</i>. Man
+begynder med at stille <i>A</i> paa Mørke; derefter
+anbringes det Stof, der drejer
+Polarisationsplanen, mellem <i>P</i> og <i>A</i>, og man drejer <i>A</i>, indtil
+der igen er Mørke, hvorved Drejningens
+Størrelse og Fortegn er bestemt. I Reglen er det
+Opløsninger, man undersøger; de anbringes i
+Røret <i>R</i>, et Glasrør af en bestemt Længde (10
+à 20 cm), der er lukket for Enderne med
+planparallelle Glasplader. Undertiden bestemmes
+Drejningen i Opløsningen ikke ved at dreje
+Nicolen <i>A</i>, men ved at ophæve den ved en lige
+saa stor modsat Drejning, der tilvejebringes
+ved en Kvartskilekompensator, en Plade, af
+f. Eks. venstredrejende Kvarts og 2 tynde
+ens Kiler af højredrejende Kvarts med den
+
+<img>Fig. 1. Polarimeter.</img>

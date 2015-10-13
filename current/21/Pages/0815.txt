@@ -1,0 +1,8 @@
+<chapter name="SMEDEKUNST (Planche)">
+<table>
+<td c 2><sp>SMEDEKUNST</sp>.
+<td 2><img>Middelalderlig Kirkekiste.</img>
+<td><img></img><td><img></img>
+<td 2 c>Gravkapelgitre fra 17. Aarh. (Odense og Roskilde).
+<td 2><img>Balkonrækværk fra 18. Aarh.</img>
+</chapter>

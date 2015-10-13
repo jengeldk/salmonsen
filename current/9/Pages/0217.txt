@@ -1,0 +1,138 @@
+der paa den simpleste og nøjagtigste Maade
+gengiver alle Resultaterne under eet. Her
+gælder det især om at finde og udtrykke de
+Forbindelser, der maatte bestaa mellem de
+iagttagne Størrelser. Hvis ingen saadan
+Forbindelse kan findes, vil Arbejdet som Regel være
+spildt ell. kun have givet et lidet værdifuldt
+»negativt Resultat«. Eks.: Man finder, at en
+Luftmasse ved 1 Atm,. Tryk fylder 6 l, ved 2
+Atm. 3 l, ved 3 Atm. 2 l og ved 6 Atm. 1 l,
+alt ved samme Temp. Man ser da straks, at
+Rumfanget (<i>v</i>) beregnes af Trykket (<i>p</i>) ved
+Formlen <i>v=6:p</i>, der ogsaa kan skrives <i>pv=6</i>.
+Hvis denne Formel kun gjaldt for den
+benyttede Luftmasse og kun for de 4 Værdipar af
+<i>p</i> og <i>v</i>, som man har undersøgt, vilde den
+være værdiløs, fordi den kun sagde, hvad man
+allerede vidste. Men nu gør man den Antagelse,
+at den inden for Forsøgsomraadet gælder for
+alle mulige Tryk, saa at der f. Eks. til 4 Atm.
+Tryk skal svare et Rumfang af 1 1/2 l.
+Kontrolforsøg viser, at dette er rigtigt. Formlen er
+altsaa et Middel til at <sp>forudsige</sp> Begivenheder
+(her: Rumfanget vil blive 1 1/2 l, naar der
+anvendes 4 Atm. Tryk o. s. v.), d. v. s., den har
+den Egenskab, som for Fysikeren er det
+afgørende Kendetegn paa, at en Sætning har
+Værdi, Men nogen høj Rang tillægger man den
+ikke, saa længe den kun har vist sig brugbar
+til <sp>Interpolation</sp> (Beregning <sp>inden</sp> for
+Forsøgsrækken); den er endnu kun en
+<sp>empirisk</sp> Formel (umiddelbart Udtryk for
+Erfaringen), og en saadan Formel kan man altid
+finde, naar det som her kun gælder et lille
+Omraade, og Fænomenet forløber nogenlunde
+regelmæssigt. Større Værdi faar den, hvis den
+ogsaa kan bruges til <sp>Ekstrapolation</sp>
+(Beregning <sp>uden</sp> for Forsøgsomraadet),
+hvilket er en langt mere usikker Sag. I det
+givne Tilfælde vil det vise sig, at Formlen
+ikke alene gælder (med andre Talkonstanter
+end 6) for større ell. mindre Luftmængder, men
+at den vedbliver at være god for meget større
+ell. mindre Tryk end de først anvendte. Dens
+Anvendelighed er dog ikke ubegrænset, og den
+vil f. Eks. ved 1000 Atm. Tryk give ganske
+falske Resultater. Endvidere vil fine Maalinger
+vise, at den selv inden for det lille
+Forsøgsomraade ikke er helt nøjagtig. Man forbedrer
+den da ved at føje ny Led til, hvorved den
+taber i Simpelhed, men vinder i Nøjagtighed
+og Rækkevidde (se <sp>Boyle's Lov</sp> og <sp>Waals</sp>).
+En saadan omfattende Sætning kalder man
+gerne en <sp>Lov</sp>, og man søger en fys. »Forklaring«
+til den. En saadan faar man ved den Antagelse
+(<sp>Hypotese</sp>), at alle Luftarter bestaar af
+adskilte Molekuler, som udfører hurtige,
+uregelmæssige Bevægelser, og paa Grundlag af denne
+Antagelse og en Række Erfaringer, hentede bl.
+a. fra Varmelæren, opbygger man en <sp>Teori</sp>
+(se <sp>mek. Gasteori</sp>), hvorved ikke alene
+Forholdet mellem Tryk og Rumfang, men
+ogsaa Gnidningsforhold, Varmeledningsevne,
+elektriske Forhold m. m. drages ind under et
+fælles Synspunkt. Men samtidig bliver Beskrivelsen
+af en saadan Art, at den ikke kan gennemføres
+uden udstrakt Brug af Matematik. Og vel har
+Hypotesen om Luftarternes (og alle Stoffers)
+Opbygning af selvstændige Smaadele
+(Molekuler, Atomer, Elektroner) faaet Støtte paa saa
+mange Maader, at det næppe længere er
+muligt at tvivle paa dens Rigtighed, men samtidig
+maa det erindres, at den Molekulverden, man
+forestiller sig, er lige saa fuld af uløste
+Problemer som den umiddelbart sanselige Verden.
+Man har udvidet Naturbeskrivelsen og opnaaet
+at faa mange Fænomener, der tilsyneladende
+ikke kom hinanden ved, ind under fælles
+Synspunkter, men man har ikke opnaaet anden
+»Forstaaelse« af Naturen end den, der ligger
+i den omfattende og sammenhængende
+Beskrivelse.
+
+<sp>F.'s Historie</sp>. Om Udviklingen af F.'s
+enkelte Grene maa søges Oplysning i
+Specialartiklerne. Her skal kun gives en alm. Oversigt.
+— Den klassiske Oldtid har ikke udviklet
+nogen Videnskab, der kan kaldes F. efter
+Nutidens Opfattelse af Ordet; i det højeste kan
+man sige, at der findes spredte Begyndelser.
+
+Vel finder man hos <sp>Demokrit</sp> en
+Atomlære, der har en vis Lighed med Nutidens, og
+vel har man forsøgt at paavise fl. af den
+moderne F.'s Antagelser hos gr. Filosoffer, men
+meget deraf maa regnes for tilfældige Ligheder,
+der let indtræffer. Der er nemlig snart ingen
+tænkelig Anskuelse om Naturen, uden at den
+er drøftet af den gr. Filosofi, og den rummelige
+Form, under hvilken saadanne alm.
+Forestillinger maa fremsættes, gør det let at presse en
+senere Tids Viden ind deri. Et Højdepunkt i
+gr. Naturvidenskab betegnes af <sp>Aristoteles</sp>,
+hvis Bevægelseslære herskede gennem hele
+Middelalderen, lige til <sp>Kopernikus</sp> og 
+<sp>Galilei</sp> i Astronomi og Mekanik indførte rigtigere
+Begreber. Efter at Grækenlands Glanstid var
+forbi, fandt gr. Videnskab et nyt Hjem i
+Alexandria, hvor Matematik og Astronomi længe
+blomstrede; men højest steg Oldtidens
+Videnskab dog i Syrakus paa Sicilien, hvor
+<sp>Archimedes</sp> (287—212) baade som Matematiker og
+Mekaniker naaede saa langt frem, at det
+varede 18—1900 Aar, før der blev gjort noget
+væsentligt Skridt ud over hans Standpunkt. Han
+staar endnu paa det gl. Stade, for saa vidt som
+han fortrinsvis er Matematiker og især giver
+sig af med saadanne Grene af F., der egner
+sig særlig for mat. Behandling, saasom Læren
+om Tyngdepunktet og Vægtstangen. Men ogsaa
+Forsøget har han benyttet, baade ved de
+nævnte Undersøgelser og ved sine berømte
+Opdagelser over Legemers Vægttab i Vand. — Den alm.
+Tilbagegang i Kultur ved Oldtidens Slutning
+ramte ogsaa F., og først temmelig langt op i
+Middelalderen træffer vi de første Spirer til en
+ny Udvikling. <sp>Arabernes</sp> Erobringer bragte
+dem i Berøring med den gr. Videnskab, og de
+har indlagt sig stor Fortjeneste af Kulturen ved
+at gemme og oversætte gr. Værker.
+Selvstændigt Arbejde har de gjort i Kemi, Astronomi,
+Matematik og Geografi; derimod kun i ringe
+Grad i F. Dog har <sp>Al Hazen</sp> (d. 1038 i
+Ægypten) udført godt Arbejde over den astronomiske
+Straalebrydning og haft rigtige Anskuelser om
+Lysstraalernes Gang, idet han lader dem gaa
+fra de lysende Legemer til Øjet, ikke omvendt,
+som man den Gang gerne mente. <sp>Al Khazini</sp>

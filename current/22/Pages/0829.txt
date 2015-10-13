@@ -1,0 +1,111 @@
+samlede Energi konstant. Naar Legemet
+passerer Ligevægtsstillingen, er dets potentielle
+Energi Nul, medens dets Hastighed og dermed
+dets kinetiske Energi er størst (=1/2 <i>m</i> <i>4π<sup>2</sup>a<sup>2</sup></i>/<i>T<sup>2</sup></i>). Er
+Legemet kommet ud i det største Udsving <i>a</i>,
+er Hastigheden og den kinetiske Energi Nul,
+Energien er her helt omsat til potentiel Energi
+(= 1/2 <i>k1</i> <i>a<sup>2</sup></i>). En svingende Bevægelse er
+derfor karakteriseret ved en skiftevis Omdannelse
+af kinetisk Energi til potentiel Energi og
+omvendt.
+
+Hvad der her er sagt om en enkelt svingende
+Massedel kan i det væsentlige overdrages paa
+andre mere sammensatte Systemer, der har en
+enkelt Egensvingningstid, f. Eks. mange fysiske
+Instrumenter som Galvanometre, Magnetnaale,
+hvor der findes Drejningssvingninger om en
+Akse. I Formlen for Svingningstiden skal man
+da ved <i>m</i> forstaa det svingende Systems
+Inertimoment om Svingningsaksen og ved <i>k1</i>
+Drejningsmomentet for Fjerningsvinklen 1.
+
+Endvidere kan Formlerne for Svingningstiden
+og Energierne anvendes paa elektriske
+Svingningskredse, bestaaende af en Selvinduktion og
+en Kapacitet, naar man ved <i>m</i> forstaar
+Selvinduktionskoefficienteh, ved <i>k1</i> den reciproke
+Værdi af Kapaciteten, og ved <i>a</i> den maximale
+Ladning af Kapaciteten. Til den kinetiske
+Energi svarer her den elektrokinetiske Energi, til
+den potentielle den elektrostatiske.
+
+2) <sp>Dæmpede harmoniske
+Svingninger</sp>. Den beskrevne harmoniske
+Svingningsbevægelse vil fortsætte sig i ubegrænset
+Tid. I Virkeligheden vil der ved ethvert
+svingende System være en vis Bevægelsesmodstand,
+der vil bevirke, at Svingningerne efterhaanden
+vil dø hen, med mindre der stadig udefra
+tilføres Energi. Forudsætter vi nu, at det
+sidstnævnte ikke er Tilfældet, vil Svingningerne
+efterhaanden aftage, og man kalder da
+Bevægelsen for dæmpede Svingninger.
+Bevægelsesmodstanden kan hidrøre fra almindelig
+Gnidningsmodstand — ved Pendulet f. Eks.
+Gnidningen i Lejet og Gnidningen ved Bevægelsen
+gennem Luften, hvorved Svingningsenergien
+begge Steder omsættes til Varme — men den
+kan ved hurtige Svingninger ogsaa hidrøre fra,
+at den svingende Energi udsendes som Lyd til
+Omgivelserne. Skyldes Bevægelsesmodstanden
+Vædske ell. Luftgnidning, vil den ved smaa
+Hastigheder være proportional med og modsat
+rettet Legemets Hastighed <i>v</i> og vil derfor
+matematisk kunne udtrykkes ved — <i>μv</i>, hvor μ
+er en Konstant. Ogsaa Bevægelsesmodstanden
+ved Lydudsendelse vil kunne bringes paa denne
+Form. I saa Tilfælde faar man en dæmpet
+harmonisk S., hvor Udsvinget <i>x</i> kan vises at
+følge Formlen <i>x</i> — <i>a</i> <i>e</i><sup><i>—μt/2m</i></sup> <i>sin</i> (<i>2πt</i>/<i>T1</i> + <i>q</i>).
+Bevægelsen illustreres ved Fig. 2. Den forløbne Tid er
+afsat hen ad en vandret Linie, og til ethvert
+Tidspunkt finder man Udslagets Størrelse som
+Højden af Kurven paa det betragtede Sted.
+Er Kurven over Tidslinien, betyder det, at
+Udslaget er til højre, er den under den, at
+Udslaget er til venstre for Ligevægtsstillingen.
+Kurve I forestiller en harmonisk Bevægelse,
+hvor Amplituderne holder sig uforandrede.
+Kurve II en dæmpet harmonisk S. Danner man
+Forholdet <i>An/An+1</i> mellem to Udsving, der følger
+efter hinanden med et Mellemrum af
+Svingningstiden <i>T1</i>, vil det vise sig at være konstant
+ɔ: uafhængig af Udsvingenes absolutte Størrelse.
+Gaar altsaa Udsvinget efter <i>n</i> Svingninger ned
+til Halvdelen af sin opr. Værdi, vil det efter
+<i>2n</i> Svingninger være formindsket til
+Fjerdedelen, efter <i>3n</i> til Ottendedelen o. s. v. Dette
+kan ogsaa udtrykkes saaledes, at Udsvingene
+har konstant Logaritmedifferens. Ved
+Svingningernes <sp>logaritmiske Dekrement</sp> δ
+forstaas den naturlige Logaritme af Forholdet
+<i>An/An</i>+1. (Ved svag Dæmpning vil δ med
+Tilnærmelse være lig den relative Formindskelse
+<i>An—An+1/An</i> af paa hinanden følgende Udsving).
+Udtrykt ved de ovenfor indførte Størrelser er
+δ = <i>μT1/2m</i>, og Udslaget kan ved Hjælp af δ
+skrives paa Formen <i>x</i> = <i>a e</i> <i>—δt/T1</i> <i>sin</i> (<i>2πt/T1</i> 
+ φ).
+For Svingningstiden <i>T1</i> ved dæmpede
+harmoniske Svingninger har man Udtrykket <i>T1</i> =
+2π kvadrarod(<i>m/k1</i>) · kvadratrod(1+δ<sup>2</sup>/4π<sup>2</sup>). Svingningstiden er altsaa
+ligesom ved de udæmpede Svingninger
+uafhængig af Udsvingenes Størrelse, men er for samme
+<i>m</i> og <i>k1</i> større end ved udæmpede
+Svingninger. Dog vil Forøgelsen af Svingningstiden
+være ringe, naar da Svingningerne ikke er meget
+stærkt dæmpede. Bliver Bevægelsesmodstanden
+meget stor, saaledes at μ2 ≧ 4 <i>m k1</i>, faar vi
+overhovedet ikke Svingninger, men Legemet
+vil, naar det fjernes fra Ligevægtsstillingen,
+nærme sig den uden nogen Sinde at overskride
+den. Man kalder en saadan Bevægelse
+<sp>aperiodisk</sp> (Kurve III). Ved mange
+Instrumenter til elektriske Maalinger ønsker man at give
+de drejende ell. svingende Dele en Dæmpning,
+for at Aflæsningen ikke skal tage for lang Tid.
+Det gunstigste er da en Dæmpning, der gør
+
+<img>Fig. 2.</img>

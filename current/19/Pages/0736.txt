@@ -1,0 +1,144 @@
+med ringe Løftehøjde kan Nyttevirkningen dog
+forbedres væsentlig, og da disse P. er langt
+billigere end Stempelpumper og lettere at
+anbringe, ser man dem ikke sjældent anvendte
+til Løftning af betydelige Vandmasser og
+udførte i meget store Dimensioner.
+
+<sp>Pulsometeret</sp> er en P. med direkte
+Dampvirkning, som er opfundet af Savery 1698,
+men først efter at være forbedret af
+Amerikaneren Hall omkr. 1870 fandt praktisk
+Anvendelse. Fig. <i>n</i> viser et Pulsometer i to lodrette
+Snit, der indbyrdes danner en Vinkel paa 90°.
+Apparatet bestaar af 2 pæredannede Kamre <i>K</i>,
+der foroven mødes ved den fælles Dampventil
+<i>R</i>; i denne er anbragt en Klap — ell. en Kugle
+—. der afvekslende lukker for Adgangen til det
+ene ell. det andet af Kamrene. Forneden
+findes i hvert Kammer en Sugeventil. Mellem
+Kamrene og Trykrøret <i>D</i> findes ligeledes
+Ventiler. Apparatet arbejder automatisk paa flg.
+Maade. Gennem Ventilen <i>R</i> træder Damp ind i
+det ene Kammer, der tænkes fyldt med Vand,
+som af Dampen drives ud i Trykrøret. I Beg.
+er Dampen kun i Berøring med en lille
+Vandoverflade, og der finder derfor ingen stærk
+Fortætning Sted; men naar Vandfladen er naaet
+ned til Overkanten af den til Trykventilen
+førende Aabning, kommer der en stærk,
+hvirvlende Bevægelse i Vandet, og Dampen
+fortættes straks. Trykket i Kamret synker derved saa
+stærkt, at Klappen i Ventilen <i>R</i> svinger over
+og lukker for yderligere Damptilstrømning til
+delte Kammer, medens Vandet strømmer ind
+gennem Sugeventilen og fylder Kamret paa ny.
+Idet Klappen svinger om, aabner den for
+Damptilstrømning for det andet Kammer, der
+tømmes og fyldes som beskrevet, og saaledes
+arbejder de to Kamre afvekslende. Dampens
+Virkning forbedres ved, at der paa hvert Kammer
+og paa Sugerøret anbringes en Snøfteventil,
+hvorigennem der under Sugningen trænger lidt
+Luft ind, som lejrer sig over Vandet og
+vanskeliggør Dampens Berøring med
+Vandoverfladen, saa længe denne er rolig. Derved
+formindskes Fortætningen, hvilket atter vil sige,
+at man faar mere Arbejde udrettet med
+samme Mængde Damp. Dampens Spænding bør af
+Hensyn til Bekostningen ved Driften ikke være
+meget større, end hvad der svarer til
+Trykhøjden, og erfaringsmæssig bør Sugehøjden
+ikke tages over 5 m, helst mindre.
+
+Pulsometret er ikke noget økonomisk
+Vandløftningsapparat, men det er billigt at anskaffe
+og let at anbringe, hvorfor det særlig egner sig
+til interimistiske Anlæg. (<sp>Litt</sp>.:
+<sp>Matthiessen-Fuchslocher</sp>, »Die Pumpen« [Berlin
+1923]; <sp>De Laval</sp>, <i>Centrifugal Pumping
+Machinery</i> [New York 1912]; <sp>Pfleiderer</sp>, »Die
+Kreiselpumpen« [Berlin 1924]; <sp>H. Berg</sp>, »Die
+Kolbenpumpen« [Berlin 1922]; <sp>Hartmann &
+Knoke</sp>, »Die Pumpen«, ved <sp>H. Berg</sp>
+[Berlin 1923]).
+<i>H. H. S.</i>
+</chapter>
+
+<chapter name="Pumpe (Søv.)">
+<b>Pumpe</b> (Søv.). I Skibe anvendes P. til at
+bringe Vand fra Søen til Brug i Skibet til
+Anvendelse i Maskinen, til Ildslukning, til Spuling
+(Rengøring) m. m. ell. til at føre Vand fra
+Skibet ud i Søen (som ved Lænsning af Skibets
+Rum ved opstaaet Lækage) og endelig til at føre
+Vand fra et Sted i Skibet til et andet. Der
+anvendes mange Slags P., der drives ved Maskin-
+ell. Haandkraft; de benævnes dels efter
+Opfinderen og dels efter deres Anvendelse eller
+Driftsmaade. Ved større Pumpeanlæg, der skal
+betjene mange Rum, er P. i Forbindelse med
+et Ventilsystem i en <sp>Ventilkasse</sp>, ved
+Hjælp af hvilket P. gennem Rørledninger
+sættes i Forbindelse med de forsk. Rum og med
+Søen. De vigtigste maskindrevne P. er:
+<sp>Cirkulationspumpen</sp>, der enten drives af
+Hovedmaskinen ell. en særlig Maskine; det er
+en Centrifugalpumpe, som pumper Vand fra
+Søen gennem Maskinens Kondensator til
+Afkøling af Dampen og ud i Søen igen. Ved Stikrør
+er den tillige sat i Forbindelse med
+Lastrummene, saa den kan tage Vandet herfra og
+saaledes tjene som <sp>Lænspumpe</sp>.
+<sp>Dampkedelpumpe</sp> (Donkeypumpe) er en af
+Maskinen uafhængig P., ofte med egen Kedel
+(Donkeykedel); den anvendes til at pumpe Vand
+paa Kedlerne, naar Hovedmaskinen ikke er i
+Gang, samt som <sp>Sprøjte</sp>-, <sp>Spule</sp>- og
+<sp>Lænspumpe</sp>. Til Lænsning under Dæk
+anvendes særlige <sp>Lænspumper</sp>, der opstilles
+paa passende Steder i Skibet og pumper
+Vandet fra de forsk. Rum til Søen. Til Lænsning
+af Kulkasser og Rum, hvor Vandet kan være
+stærkt forurenet, anvendes
+<sp>Straalepumper</sp> ell. Ejektorer, der ikke er forsynede med
+Ventiler, men virker ved Sugning af
+gennemstrømmende Damp. Haandpumpe anvendes
+til Lænsning, til Spuling ell. som Sprøjte; de
+kan enten være fastsiddende ell. transportable.
+<sp>Downtonspumpen</sp> er fastsiddende; den
+er forsynet med 3 Ventilstempler, der bevæger
+sig i samme Cylinder, men med hver sin
+Stempelstang; Bevægelsen frembringes ved en
+Krumtapaksel med Svinghjul og Haandsving. P. Gr.
+a. de 3 Stempler bliver Vandudstrømningen
+jævn. Som transportabel P. anvendes
+<sp>Broadfoot</sp>'s P., en 2-stemplet P. med Vuggearme
+og forsynet med en Sugeslange, der føres
+udenbords ell. ned i det Rum, hvorfra Vandet skal
+pumpes, <sp>Galions P.</sp>, en mindre
+Haandpumpe i Skibets Stævn, der anvendes til Rengøring
+af Mandskabets <sp>W. C. Kæde-P.</sp>, en tidligere
+meget anvendt P., der bestod af en Kæde med
+fastgjorte Spande, som fyldtes forneden og
+tømtes foroven. Kæden vandrede i lodrette Rør.
+<sp>Ferskvands-P.</sp> anvendes til at føre Vand
+fra Skibets Ferskvandsbeholdere til Kabys e. l.
+St. <sp>Pumpefisk</sp>, Huller i Dækkene,
+hvorigennem Pumperøret gaar ned til Lasten;
+<sp>Pumpekrave</sp>, en Sejldugskrave, der
+fastspigres til Dækket og Pumperøret over
+Pumpefisken for at hindre Vand fra at løbe ned i
+Skibet; <sp>Pumpekurv</sp>, et Jerngitter, der
+omslutter Pumperørets nederste Ende og hindrer
+Snavs fra at tilstoppe denne.
+<sp>Pumpemarmering</sp>, kort Sejldugsslange foroven paa
+Pumperøret, hvorigennem Vandet løber ud.
+<sp>Pumpesod</sp>, en Kasse, anbragt i Lasten paa
+et Sted, hvortil der er Fald fra begge Skibets
+Ender; i denne udmunder <sp>Lænspumpen</sp>;
+<sp>Pumpesøm</sp>, smaa Jernsøm med store
+Hoveder. Uklare P. betyder forstoppede eller
+utætte P.
+<i>C. B-h.</i>
+</chapter>

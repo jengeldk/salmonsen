@@ -1,0 +1,139 @@
+kombinere et Plangitter med et Hulspejl, saa at
+man er fri for kromatiske Fejl; forøvrigt kan
+ogsaa en Kombination af Hulspejl og
+Konkavgitter anvendes, og den har den Fordel, at den
+er fri for Astigmatisme. Endnu noget højere
+Opløsningsevne med forholdsvis betydelig
+Lysstyrke kan opnaas med <sp>Trappegitteret</sp>
+(Echelon), der ogsaa er omtalt under
+Bøjning. I Anvendelsesomraade er det nær
+beslægtet med den sidste Gruppe af
+Spektralapparater:
+
+3. <sp>Interferensspektroskoperne</sp>.
+De herhen hørende Apparater, Fabry & Perots
+Etaion og Lummer-Pladen er omtalte under
+Interferens. Etaionen har tjent til
+Bestemmelse af Normalliniernes Bølgebredde; de
+andre Apparater bruges til saadanne
+Undersøgelser, hvor det kommer an paa den højeste
+Opløsningsevne, og det ikke generer, at de kun
+kan omfatte et overordentlig lille Stykke af
+Spektret ad Gangen, 1 Å ell. endnu mindre.
+Som saadanne Opgaver kan nævnes
+Undersøgelser af Zeeman-Effekten og af den finere
+Bygning af Spektrallinier; mange Linier, som i
+Apparater med mindre Opløsningsevne synes
+enkelte, viser sig ved nærmere Undersøgelse at
+bestaa af Grupper af ganske tæt
+sammenliggende Linier, hyppigt en stærkt Hovedlinie o.
+fl. svagere Satelliter ell. Drabanter. Men i
+øvrigt har Interferensspektroskoperne næppe
+faaet den Bet., man ventede ved deres
+Fremkomst. Deres Resultater er ikke altid entydige,
+saa at Gitteret ofte maa tages til Hjælp, og
+dette har i det hele saa mange Fordele uden
+at staa synderligt tilbage i Opløsningsevne, at
+det stadig hævder sig som Spektroskopiens
+vigtigste Hjælpemiddel. Desværre er der
+betydelige Vanskeligheder ved at fremskaffe gode
+Gittere. I lang Tid var Rowlands
+Delemaskiner i Baltimore de eneste eksisterende til
+Fremstilling af Gittere, og de var ogsaa i Brug
+fl. Aar efter Rowlands Død, men har saa staaet
+ubenyttede indtil ganske nylig, da R. W. Wood
+er begyndt at dele Gittere derpaa igen. Gode
+Delemaskiner er ogsaa konstruerede af A. A.
+Michelson i Chicago, men derpaa fremstilles mest
+Plangittere. I Mount Wilson-Laboratoriet i
+Kalifornien arbejdes der ivrigt paa Konstruktion
+af en ny Gitterdelemaskine, og endelig er der i
+<i>National Physical Laboratory</i> ved London
+nylig taget den første europ. Gitterdelemaskine i
+Brug, der synes at fremstille mindre Gittere i
+fortrinlig Kvalitet. Prisen for et godt Konkav-
+ell. Plangitter af den største alm. anvendte
+Størrelse, c. 12 cm Bredde, er 2—3000 Kr.
+
+<sp>Lyskilder til Fremstilling af
+Liniespektre</sp>. Liniespektre udsendes af
+Stoffer i Dampform, saa at Opgaven er at faa det
+Stof, der skal undersøges, til i Dampform at
+udsende Lys. Her skal nævnes nogle af de
+mest anvendte Metoder dertil, men det maa
+betones, at der i Tidens Løb er brugt overmaade
+mange andre Fremgangsmaader, og at i nyere
+spektroskopiske Arbejder er Lyskilden ofte
+Hovedsagen og bliver meget kompliceret, idet det
+gælder om at faa Stoffet til at lyse netop under
+de bestemte Betingelser, som i hvert enkelt
+Tilfælde giver det Spektrum, man ønsker. Som vi
+ndf. skal se, har hvert Stof, ikke alene
+Grundstof, men ogsaa kem. Forbindelse, sit
+karakteristiske Spektrum, og i denne Henseende maa
+f. Eks. et Atom og et Molekyle af et Grundstof
+ell. et neutralt Atom og dets Ioner opfattes
+som forsk. Stoffer, saa at f. Eks. et
+Calcium-Atom, en engyldig ladet Ca-Ion, Ca<sup>+</sup> og en
+togyldig ladet Ca-Ion, Ca<sup>++</sup>, fremkomme ved,
+at Atomet er berøvet henholdsvis en og to
+negative Elektroner, hver har sit forsk.
+Spektrum betegnede som <i>CaI, CaII og CaIII</i>
+Spektret. Men ikke alle de saaledes mulige Spektre
+er kendte, mange har man endnu ikke kunnet
+fremstille, og i andre Tilfælde fremkommer
+Blandinger af forsk. Spektre, som endnu ikke
+ell. kun delvis er udredte og adskilte. For
+kem. Forbindelser er Vanskeligheden ofte den,
+at deres Molekyler ikke er bestandige under de
+Betingelser, der skal til for at faa dem til at
+udsende Lys; de dissocieres, og man faar saa
+naturligvis kun Bestanddelenes Spektre og
+endda maaske kun en enkelt Bestanddels
+Spektrum, hvis dette er lettere at fremkalde.
+Endelig maa det bemærkes, at et Spektrum kan
+fremkomme mere ell. mindre fuldstændigt efter
+Lyskildens Art. Hyppigt vil saaledes en
+Forhøjelse af Lyskildens Temp. fremkalde et
+fuldstændigere Spektrum, men for at forstaa de
+Fænomener, som Stjernespektrene frembyder,
+maa tilføjes, at meget stor Forhøjelse af Temp.
+ud over de her paa Jorden tilgængelige kan
+frembringe fuldstændig Ionisering af Stoffet,
+saa at dets opr. Spektrum forsvinder, og
+Spektret af dets Ioner, der under
+Temperaturstigningen blev overlejret det opr. Spektrum, til
+sidst bliver alene tilbage.
+
+Simplest og først brugt var Sprit- ell.
+Gasflammen, hvori man indførte et Salt af det
+Metal, hvis Spektrum skal undersøges. Det kan
+ske ved at indføre i Flammen en Platintraad
+med en lille Perle af Saltet ell. ved at tilføre
+Gassen en fin Støv af smaa Draaber af en
+Opløsning af Saltet ved Hjælp af en Anrd. omtr.
+som i Blomsterbeduggeren, samt paa mange
+andre Maader. Det er imidlertid kun faa
+Stoffer, der giver Spektre paa denne Maade,
+væsentlig Alkalimetaller, de alkaliske Jordarter
+og beslægtede, og ogsaa disse Spektre er kun
+lidet udviklede. Højere Temp. fik man tidligere
+i Knaldluftflammen, nu næsten altid i den
+elektriske Buelampe. For ikke alt for letsmeltelige
+Metaller (Kobber, Jern, Sølv o. fl.) faar man
+Spektret lettest og med stor Intensitet ved at
+brænde en elektrisk Bue mellem to Stænger af
+det paagældende Metal. Ellers bruger man
+Kulbuen og anbringer paa den ene Kulstang, bedst
+i en Udboring i den, et Salt af det Stof, der
+skal undersøges. For Kvægsølv er
+Kvægsølvbuelampen en udmærket Lyskilde, og ved at
+opløse andre Metaller i Kvægsølvet kan man
+ogsaa faa deres Spektre med. I disse Tilfælde
+maa man naturligvis forud undersøge Spektret
+af selve Kulbuen, resp. Kvægsølvbuen.
+Endvidere bruges elektriske Gnister mellem Poler
+af det paagældende Metal ell. mellem et tungt
+flygtigt Metal som Platin og en Glasbeholder
+med en Opløsning af et Salt af det
+paagældende Metal. I en Gnist vil et meget større Antal

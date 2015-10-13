@@ -1,0 +1,188 @@
+er den eng. Yard. Jfr <sp>Justering</sp>, <sp>Maal og
+Vægt</sp>, <sp>metrisk Maal</sp>.
+<i>H. J. N.</i>
+</chapter>
+
+<chapter name="Normalform">
+<b>Normalform.</b> Ved N. for en ret Linies
+Ligning i et plant retvinklet Koordinatsystem
+forstaas Ligningen: <i>x cosv + y sinv + p</i> = 0, hvor
+<i>v</i> er Vinklen fra Abscisseaksen til en positiv
+Retning paa Normalen til Linien gennem
+Begyndelsespunktet, medens <i>p</i> er Stykket paa denne
+Normal fra dens Skæringspunkt med Linien til
+Begyndelsespunktet. Denne N.'s Bet. i analytisk
+Geometri beror paa, at man faar et Punkts
+Afstand fra Linien ved at indsætte Punktets
+Koordinater i N.'s venstre Side. Paa lgn. Maade har
+en Plans Ligning i et treretvinklet
+Koordinatsystem en N.: <i>xcosα + ycosβ + zcosγ + p</i> = 0,
+hvor <i>α, β</i> og <i>γ</i> er Vinklerne fra
+Koordinatakserne til en pos. Retning paa Normalen
+gennem Begyndelsespunktet til Planen. Ved de
+elliptiske Integralers N. forstaas de
+Hovedformer, hvortil Legendre, Riemann og Weierstrass
+har reduceret de nævnte Integraler.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Normalforraad">
+<b>Normalforraad</b> kaldes i Skovbruget den
+Vedmasse, som en Driftsklasse indeholder, naar
+den tænkes sammensat af <i>m</i> lige store Afdelinger,
+alle bærende samme Træart og jævnt fordelte
+over Aldrene fra 1 til Omdriftsaaret (<i>m</i>). N.
+udregnes ved Hjælp af en Tilvækstoversigt (s. d.),
+idet man finder Ledene mellem 2 Udhugninger
+ved at regne med Vedmassen umiddelbart efter
+og umiddelbart før Hugsterne som henh. første
+og sidste Led i en Differensrække af første
+Orden.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Normalforraadsmetode">
+<b>Normalforraadsmetode</b> kaldes i Skovbruget
+de Fremgangsmaader til Ordning af Hugsten,
+som gaar ud paa at hidføre et gennem Aarene
+jævnt Vedudbytte af Skoven derved, at enhver
+Driftsklasse bringes til at indeholde et bestemt
+Vedforraad, hvis Tilvækst da skal være lig den
+aarlige Høst. Denne Tilstand søges tilvejebragt
+derved, at man i Løbet af en Aarrække
+udjævner Forskellen mellem Driftsklassens normale
+og dens nuv. virkelige Vedforraad. Udjævningen
+(Fastsættelsen af den aarlige Hugst) foregaar
+efter en Formel, hvorfor N. ogsaa ofte kaldes
+Formelmetoderne ell. de rationelle Metoder; de
+er alle af tysk Oprindelse. Jo mere Skovbruget
+drives efter økonomiske Grundregler, desto
+mindre bruges N.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Normalitet">
+<b>Normalitet,</b> se <sp>Opløsninger</sp>.
+</chapter>
+
+<chapter name="Normalkonsistens">
+<b>Normalkonsistens,</b> se <sp>Mørtelprøvning</sp>.
+</chapter>
+
+<chapter name="Normalkurver">
+<b>Normalkurver,</b> se <sp>Transformationer</sp>.
+</chapter>
+
+<chapter name="Normallys">
+<b>Normallys,</b> se <sp>Belysning</sp> og
+<sp>Fotometri</sp>, S. 600.
+</chapter>
+
+<chapter name="Normalmaal">
+<b>Normalmaal,</b> se <sp>Normaler</sp>.
+</chapter>
+
+<chapter name="Normalopløsning">
+<b>Normalopløsning</b> er en Opløsning af et
+ell. andet Stof i bestemt Koncentration, f. Eks.
+1 normal, 0,5 normal ell. 0,1 normal (se
+<sp>Opløsninger</sp>), der anvendes i Titreranalysen.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Normalplan">
+<b>Normalplan,</b> se <sp>Normal</sp>.
+</chapter>
+
+<chapter name="Normalprofiler">
+<b>Normalprofiler</b> af valset Jern (Vinkeljern,
+I-Jern o. s. v.) kaldes saadanne bestemte
+Tværsnitsformer og Størrelser, som man inden for
+et helt Land er kommen overens om at
+fremstille nøjagtig ens, saa de samme Profiler kan
+faas fra forsk. Valseværker. De tyske N. er
+opstillede 1879—80, de østerrigske 1882, de
+nordamerikanske 1896, de eng. 1904. Betegnelsen N.
+bruges ogsaa om den ved større Vej- og
+Jernbaneanlæg ell. Vandløbsreguleringer vedtagne
+Form af Tværprofilet (Maalene paa Bredde,
+Skraaningsanlægget o. s. v.).
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Normal-Prøvelegemer">
+<b>Normal-Prøvelegemer</b> kaldes de tildannede
+Prøvestykker, med hvilke man undersøger et
+Byggemateriales Styrke og Sejghed, og hvis
+Form er fastslaaet af Hensyn til, at uens formede
+Prøvelegemer af samme Materiale giver uens
+Resultater. Bedst er det at bruge geometrisk ens
+Prøvelegemer, men i mange Tilfælde er det
+tilstrækkeligt, at de er geometrisk ligedannede.
+Til Trykforsøg bruges hyppigst Tærninger, men
+ogsaa Prismer og Cylindere, ved Trækforsøg
+varierer Formen i højere Grad med Stoffet.
+N. er kun vedtagne for de mest brugte Stoffer,
+f. Eks. Cement og Metaller. N. af Cement er
+næsten ens i alle Lande (se <sp>Mørtelstyrke</sp>).
+Ved Trækforsøg med Metaller er N. en
+cylindrisk ell. prismatisk Stang, men Maalelængden,
+paa hvilken Brudforlængelsen maales, er forsk.
+i de forsk. Lande; i Skandinavien og Tyskland
+er den 11,3  √<i>F</i> (<i>F'</i>= Stangens Tværsnit, se
+<sp>Brudforlængelse</sp>), i Frankrig 8,2 √<i>F</i>,
+i England haves 6 forsk. N.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="normalpyroxensk Magma">
+<b>normalpyroxensk Magma,</b> en af Bunsen
+1851 indført Betegnelse for det underjordiske
+Magma, der ved de vulkanske Udbrud paa
+Island leverede basisk Basaltlava. Han opstillede
+nemlig den Formodning, at der under det isl.
+Vulkanomraade fandtes to adskilte
+Magmareservoirer, det ene fyldt med n. M., det andet med
+et kiselsyrerigt, saakaldt <sp>normaltrakytisk</sp>
+Magma, og at Udbrudene fandt Sted snart
+alene fra det ene, snart alene fra det andet
+Magma, snart endelig saaledes, at der afgaves
+Materiale fra begge. Ad denne Vej tilstræbte
+han en Forklaring paa de forsk. isl. Lavamassers
+kemiske Uensartethed. Teorien viste sig snart
+ubrugelig, men har haft sin Bet. som det første
+Forsøg til en Forklaring af
+Eruptivbjergarternes kemiske Forskelligheder.
+<i>(N. V. U.). O. B. B.</i>
+</chapter>
+
+<chapter name="Normalrumfang">
+<b>Normalrumfang</b> kaldes det Rumfang, et
+Grammolekyle af en hvilken som helst Luftart
+fylder ved 0° og 760 mm Tryk; det er 22,4 l.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Normalsand">
+<b>Normalsand</b> kaldes den i Normer for
+Cementprøvning foreskrevne bestemte Art af Sand, der
+skal bruges ved Bestemmelse af Mørtelstyrken
+(se <sp>Mørtelprøvning</sp>). I de danske
+Cementnormer kræves N. fremstillet af rent
+skarpkantet Kvartssand, der omhyggeligt udvaskes og
+tørres; de groveste Dele frasigtes paa en Sigte
+af 0,25 mm tyk Metalplade med cirkulære
+Huller af 1,350 mm Diameter, og de fineste Dele paa
+en Sigte af samme Tykkelse Plade med Huller
+af 0,775 mm Diameter. Selv en saa skarpt
+defineret Sandsort viser sig imidlertid at give forsk.
+Styrketal, efter som den graves det ene ell. det
+andet Sted, og saavel Statsprøveanstalten som
+de danske Cementfabrikker bruger derfor det
+saakaldte tyske Normalsand, der anvendes af
+alle tyske Laboratorier. Det tilfredsstiller de
+ovenn. Betingelser, bestaar næsten udelukkende
+af Kvarts og sælges i udvasket og tørret
+Tilstand. Det er Bakkesand fra Freienwalde i
+Preussen; løst indsigtet vejer det 1,41 kg pr l,
+sammenrystet 1,65 kg. Der har været Tale om at

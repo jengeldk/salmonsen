@@ -1,0 +1,95 @@
+fra der da tages Afgreninger til de enkelte
+Maalere. Maalerledningen bliver som Følge
+heraf lang og derfor kostbar. For at undgaa
+den svære Maalerledning, har man undertiden
+samlet alle Maalerne paa et nær ved
+Hovedsikringen liggende let tilgængeligt Sted og har
+saa herfra ført Ledninger med mindre Tværsnit
+til de forsk. Lejligheder.
+
+Fra Maalerne føres Ledningen til en i
+Nærheden anbragt <sp>Hovedfordelingstavle</sp>,
+som undertiden kan være anbragt paa
+samme »Bræt« som Maaleren, <sp>Maalerbrættet</sp>.
+Fordelingstavlen indeholder Smeltesikringer for hver
+af de videregaaende Ledninger (Fig. 1).
+Ved Installationer, hvor Forbruget ikke
+maales, bliver Maalerledningen til en
+Forbindelsesledning imellem Hovedsikringen og
+de enkelte Fordelingstavler. Fra
+Hovedfordelingstavlen føres Ledningen videre enten
+som <sp>Gruppeledninger</sp> til en Samling af
+enkelte Forbrugsapparater, hvis Tilledninger
+afgrenes fra Gruppeledningen, ell. som
+<sp>Hovedledninger</sp>, der fører til <sp>sekundære
+Fordelingstavler</sp>, hvorfra der da atter
+føres Fordelingsledninger, eventuelt andre
+Hovedledninger videre. <sp>Gruppeledningen</sp>
+bestaar ved Lysinstallationer, der kun
+forsyner Lamper, af to Ledere, nemlig een
+spændingsførende (+ ell. ÷) og een
+jordforbunden Leder (0 Lederen), og ved <sp>tekniske
+Installationer</sp> (saakaldte
+<sp>Motorinstallationer</sp>), der udelukkende forsyner
+Motorer, Varmeapparater, galvaniske Bade,
+Akkumulatorbatterier o. s. v., af to ell. tre
+spændingsførende Ledere, efter som Strømarten
+er henh. Jævnstrøm og enfaset Vekselstrøm ell.
+trefaset Vekselstrøm. <sp>Hovedledningen</sp>,
+hvorfra der ikke afgrenes til
+Forbrugsapparater, bestaar ved Lysinstallationer af alle
+spændingsførende Ledere samt 0 Lederen, ved
+Motorinstallationer kun af de spændingsførende Ledere.
+I Lysinsitallationer anbringes oftest
+foruden Gruppeafbrydere og
+Sikringer en Afbryder i den
+spændingsførende Leder for hvert fast
+installeret Belysningsapparat og tillige
+<sp>Stikkontaktdaaser</sp> (Fig. 2) for flyttelige Belysningsapparater.
+I tekniske Installationer installeres
+Forbrugsapparaterne fast og forsynes med
+Smeltesikringer og Afbrydere for hvert enkelt Apparat.
+Stikkontakter bruges her kun undtagelsesvis
+og kun for mindre, transportable Apparater
+som Motorer og Varmeapparater.
+
+For Udførelsen af Installationer har de
+fleste Lande deres bestemte Regler, som dog
+i Hovedtrækkene er ens. I Danmark er de
+af Elektricitetskommisisionen fastsatte
+<sp>Forskrifter for Udførelse</sp> og <sp>Drift</sp>
+af <sp>elektr. Stærkstrømsanlæg</sp> saaledes
+de gældende, men desuden har de fleste større
+Elektricitetsværker deres egne, mere
+detaillerede Forskrifter. Her ind under kommer f.
+Eks. Fordeling af Apparaterne i Grupper,
+
+<img>
+Fig. 1. Maalertavler med Afbrydere og Sikringer;
+tilvenstre Lysmaaler, tilhøjre Kraftmaaler.
+</img>
+<img>
+Fig. 2. Stikkontakt (Daase Afbrydere og og Prop).
+</img>
+
+<img>
+Fig. 3. Vulkanisere! Ledning. 1. Kobbertraad,
+2. Vulkaniseret Gummi, 3. Gummiimprægneret Bændel,
+4. Imprægneret Bomuldsomfletning.
+</img>
+
+<img>
+Fig. 4. Armeret Blykabel. 1. Kobbertraad,
+2. Imprægneret Trævlestof, 3. Blykappe, 4. Papir,
+5. Jute, 6. Jernbaand, 7. Jute.
+</img>
+
+<img>
+Fig. 5. Mønjeisoleret Ledning. 1. Kobbertraad,
+2. Mønjeimprægneret Bomuld, 3. Bomuldsomfletning
+imprægneret med Mønjecompound.
+</img>
+
+<img>
+Fig. 6. Forgreningsdaase med Laag.
+</img>

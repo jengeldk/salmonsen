@@ -1,0 +1,132 @@
+<sp>Baandspektre</sp> og
+<sp>Molekylbygning</sp>. Som bekendt optræder de fleste Atomer
+sjældent: alene, men bundet sammen med andre
+Atomer til Molekyler. Man antager, at de
+saakaldte Baandspektre, der bestaar af Grupper
+ell. Baand af talrige, meget tæt ved hverandre
+liggende Linier, udsendes af Molekyler. Der
+er, navnlig af <sp>Bjerrum</sp>, <sp>Deslandres</sp>,
+<sp>Heurlinger</sp> o. a., gjort vigtige Skridt
+henimod en Tydning af Baandspektrene, hvorved
+man kan vente at opnaa detaillerede
+Oplysninger om Molekylernes Bygning. En saadan
+Tydning er endnu ikke lykkedes i
+tilnærmelsesvis samme Grad som for Liniespektrenes
+Vedkommende, og der skal derfor her kun antydes
+enkelte Resultater. Betragtes f. Eks. et
+toatomigt Molekyle, i hvilket de to Atomer er til
+Stede som Ioner med modsatte Ladninger, maa
+man antage, at en Rotation af Molekylet om
+det fælles Tyngdepunkt for de to Kerner vil
+give Anledning til Udsendelse af et Spektrum,
+hvis enkelte Linier fremkommer ved
+Overgange fra en stationær Rotationstilstand til en
+anden. De stationære Tilstande maa, i Analogi
+med, hvad der gælder for en Elektron, der
+roterer i en cirkulær Bane om en Brintkerne,
+være bestemt ved, at Molekylets
+Bevægelsesmængdemoment skal være et helt Tal <i>m</i> Gange
+<i>h</i>/2π, hvor <i>h</i> er Planck's Konstant. Ved
+Overgang fra en stationær Tilstand, for hvilken
+<i>m</i> = <i>m</i><sub>1</sub>, til en stationær Tilstand, for hvilken
+<i>m</i>—<i>m</i><sub>2</sub>, faar man følgelig efter Bohr's
+Frekvensbetingelse en Straaling med
+Svingningstallet <i>v<sub>r</sub></i> = <i>h</i>/8π<sup>2</sup> (<i>m</i><sub>1</sub><sup>2</sup>/<i>I</i><sub>1</sub>÷<i>m</i><sub>2</sub><sup>2</sup>/<i>I</i><sub>2</sub>), hvor <i>I</i><sub>1</sub> og <i>I</i><sub>2</sub> er
+Værdierne for Molekylets Inertimoment i de to
+stationære Tilstande; <i>I</i><sub>1</sub> og <i>I</i><sub>2</sub> er i Alm. meget
+nær lige store. Alle de forsk. Overgange giver
+tilsammen et saakaldt <sp>Rotationsbaand</sp>.
+Baand af denne Art er fundet eksperimentelt,
+men de ligger saa langt ude i det ultrarøde, at
+en nøje Undersøgelse af dem er vanskelig.
+Lineære Svingninger af de to ladede Atomer
+langs Forbindelseslinien mellem Kernerne maa
+ogsaa tænkes at forekomme og give Anledning
+til Udstraaling. Svingningstallet for
+Straalingen maa, i Analogi med Udstraalingen fra en
+Planck's Oscillator, være lig med det
+Svingningstal <i>v</i><sub>0</sub>, hvormed Kernerne svinger mod
+og fra hinanden. Dette vil dog kun gælde
+eksakt, naar Svingningerne er rent harmoniske,
+og da dette ikke kan antages at være Tilfældet,
+vil man foruden en Straaling, hvis
+Svingningstal er meget nær lig <i>v</i><sub>0</sub>, faa Linier, hvis
+Svingningstal med Tilnærmelse er hele Multipla af
+<i>v</i><sub>0</sub>. Disse Linier ligger i Alm. i det ultrarøde,
+men har dog langt mindre Bølgebredder end
+Linierne i Rotationsbaandet. Da baade
+Rotations- og Svingningsenergien kan ændre sig
+samtidig, faar man i Virkeligheden hver Linie
+hidrørende fra Ændring i Svingningstilstanden
+opspaltet i et Rotationsbaand; man faar
+saakaldte <sp>Rotationssvingningsbaand</sp>.
+Saadanne Baand er udmaalt af <sp>Rubens</sp> og
+<sp>v. Bahr</sp>, og deres Fremkomst er teoretisk
+opklaret af Bjerrum. Under Kernernes
+roterende ell. svingende Bevægelser vil
+Elektronsystemerne, paa Grund af disse
+Bevægelsers Langsomhed i Forhold til
+Elektronernes Bevægelser, praktisk talt følge med
+Kernerne, som om Elektronbanerne var fast
+forbundet med disse. Ligesom et Atoms
+Elektronsystem kan gaa over fra en stationær Tilstand
+til en anden, kan dette ske med et Molekyls
+Elektronsystem, og herved vil fremkomme en
+Spektrallinie, som i Alm. maa tænkes at ligge
+i det synlige Spektralomraade ell. i det
+ultraviolette. Da der sammen med en saadan
+Proces kan finde Overgange mellem stationære
+Rotations- ell. Svingningstilstande Sted, vil man
+i St f. en enkelt Linie faa et helt Baandsystem,
+der kan opfattes som en fortegnet Afbildning
+af Rotationssvingningsibaandene. Saadanne
+Baandsystemer kendes i stor Mængde; man kan,
+idet bl. a. Korrespondensprincippet anvendes,
+gøre teoretisk Rede for den alm. Struktur af
+dem; men Undersøgelserne af disse og de foran
+omtalte Baandspektre har endnu ikke ført til
+detailleret Kendskab til Bygningen af noget
+Molekyl. Som et vigtigt Resultat maa det dog
+nævnes, at man ved Udmaaling af
+Linieafstandene i Baandene har kunnet beregne Molekylets
+Inertimoment om en Akse gennem Kernernes
+fælles Tyngdepunkt og vinkelret paa deres
+Forbindelseslinie. Heraf findes atter Afstanden
+mellem Kernerne. Molekyler med fl. end to Atomer
+udsender meget komplicerede Baandspektre,
+mod hvis Ordning og Tydning der næppe nok
+er gjort de første Skridt.
+
+<sp>Slutning</sp>. Efter den mægtige Udvikling,
+som K. har undergaaet, er den kommet til at
+omfatte praktisk talt alle Fysikkens Grene. Den
+handler om ejendommelige Love, som
+behersker Vekselvirkningen mellem de
+Grundbestanddele, hvoraf Stoffet er bygget op, og
+Vekselvirkningen mellem disse og den
+elektromagnetiske Straaling. Disse Love giver den
+fysiske Verden dens udprægede Struktur, der
+bl. a. giver sig Udslag i, at der kun findes et
+forholdsvis ringe Antal forsk. Stoffer, hvert
+med ganske bestemte fysiske og kem.
+Egenskaber. Til Trods for de mange vidunderlige
+Resultater, K. har at opvise, træder dens
+uafsluttede og ret formelle Karakter stærkt frem.
+Man kan blot nævne, at vi endnu saa godt som
+intet ved om selve Overgangene mellem
+stationære Tilstande, og at de Aarsager, som maatte
+fremkalde Overgangene, er ganske ukendte. Og
+endnu er man sikkert langt fra at kende de
+alm. Love, som behersker Sammenhængen
+mellem de forsk. elektriske og magnetiske
+Størrelser, de Love, som man fejlagtigt mente at have
+fundet i den gl. Elektrodynamiks Grundlove.
+Det maa ventes, at den nærmeste Fremtid vil
+bringe store Fremskridt i den videre Udvikling
+af K., da den fysiske Forskning i Øjeblikket
+mere end om noget andet samler sig om
+Løsningen af de mange i Forbindelse med K.
+staaende Problemer. (<sp>Litt</sp>.: <sp>A.
+Sommerfeld</sp>, »Atombau u. Spektrallinien« [Fr.
+Vieweg, Braunschweig 1919, 1. Udg.]; <sp>W.
+Gerlach</sp>, »Die experimentellen Grundlagen d.

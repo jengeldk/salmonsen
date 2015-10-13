@@ -1,0 +1,66 @@
+spændingsførende Apparater, Ledninger o. s. v. er
+anbragte i et Højspændingsrum, ganske svarende
+til Højspændingsrummet i en
+Højspændingscentral. Højspændingsledningerne føres over
+Overspændingsbeskyttelse, Olieafbrydere og eventuelt
+Maaletransformatorer til et
+Højspændingssamleskinnesystem, der simplest er et enkelt
+Samleskinnesystem (se <sp>elektriske
+Kraftstationer</sp>). Fra dette føres atter Forbindelser
+til Omformernes Vekselstrømssider over
+Ledningsadskillere, Olieafbrydere og
+Maaletransformatorer, og hvis Spændingen er for høj til at
+finde direkte Anvendelse i Maskinerne,
+over Transformatorer, der nedsætter
+Spændingen til en passende lav Værdi.
+Anvendes Transformatorer, findes der
+enten en saadan for hver Omformer ell.
+et færre Antal indskudt mellem
+Højspændingssamleskinnerne og et Sæt
+Lavspændingssamleskinner, hvortil
+Omformernes Vekselstrømssider sluttes.
+Sjældnere indskydes Transformatorerne mellem
+de til Omformerstationen ankommende
+Højspændingsledninger og
+Vekselstrømssamleskinnerne. En Omformerstations
+Apparatanlæg maa bl. a. indeholde Synkroneskop, ved
+Hjælp af hvilket Omformerne kan
+synkroniseres, samt Igangsætningsapparater for
+Omformerne. Disse sættes enten i Gang fra
+Vekselstrømssiden, hvilket sker umiddelbart ved
+asynkrone Omformere og Kaskadeomformere
+ell. fra Jævnstrømssiden, naar
+Omformerstationen indeholder Akkumulatorbatteri, der er
+tilstrækkelig stort til at kunne taale
+Igangsætningen. Der maa træffes saadanne
+Sikkerhedsforanstaltninger ved Omformerstationer, at disse
+ikke kan give sig til at producere Vekselstrøm,
+drevne fra Jævnstrømssiden, og sende denne
+Vekselstrøm gennem Højspændingsledningerne til
+Højspændingscentralen og dennes Ledningsnet.
+Noget saadant kan f. Eks. indtræffe, hvor en
+Omformers Jævnstrømsside arbejder parallelt med et
+Akkumulatorbatteri eller en af en Kraftmaskine
+drevet Dynamo, hvis Spænding af en ell.
+anden Grund, f. Eks. ved Fejlbetjening bringes til
+at stige, saaledes at Samleskinnnespændingen
+sættes op, og Omformerens Jævnstrømsmaskine
+derved giver sig til at løbe som Motor, dens
+Vekselstrømsmaskine som Generator. En saadan
+uheldig Drift kan ogsaa indtræffe ved, at den
+udefra kommende Vekselspænding pludselig
+udebliver. Man udfører derfor oftest
+Olieafbryderne med magnetisk Udløsning, der
+staar under Kontrol af
+Tilbagestrømsrelaiser, eventuelt af Maksimal- og
+Tilbagestrømsrelaiser, som bringer Olieafbryderens
+Udløsningsmekanisme i Virksomhed, naar
+Strømmen i Vekselstrømssiden bliver for stor ell.
+skifter Retning. I St. f. at anvende
+Tilbagestrømsrelaiser i Vekselstrømssiden, kan man i
+Omformernes Jævnstrømssider anvende
+
+<img>Fig. 7. Omformerstation i Adelaide. Maskinsal.</img>
+
+<img>Fig. 8. Omformerstation i Adelaide. Tavleanlæg.</img>
+

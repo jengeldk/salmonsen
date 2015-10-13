@@ -1,0 +1,29 @@
+<chapter name="Rettelser og Trykfejl">
+<b><sp>RETTELSER OG TRYKFEJL</sp>.</b>
+
+(De i hvert Bind opførte Rettelser og Trykfejl vil blive samlede i sidste Bind.)
+<table>
+<td 7 c><sp>BIND XXII</sp>.
+<td>Side<td r>402,<td>Spalte<td>1,<td>Linie<td r>32 f. n.<td><b>Strackey</b> <sp>læs</sp>: <b>Strachey</b>
+<td c>—<td r>527,<td c>—<td>2,<td c>—<td r>12 f. o.<td><b>Störk</b> <sp>læs</sp>: <b>Stoerk</b>
+<td c>—<td r>537,<td c>—<td>1,<td c>—<td r>32 f. n.<td><sp>Litt</sp>.: <sp>læs</sp>: <sp>Litt</sp>.: <sp>Adolf Stölzel</sp>, »C. G. S.« [Berlin 1885].
+<td c>—<td r>789,<td c>—<td>2,<td c>—<td r>2 f. n.<td>1. April <sp>læs</sp>: 18. April
+<td c>—<td r>1048,<td c>—<td>2,<td c>—<td r>30 f. o.<td><b>Sønddmør</b> <sp>læs</sp>: <b>Søndmør</b>
+</table>
+
+<table>
+<td 7 c><sp>BIND XXIII</sp>.
+<td>Side<td>215,<td>Spalte<td>1,<td> Linie<td r>32 f. n.<td><i>H. H. G.</i> <sp>læs</sp>: <i>H. H. S.</i>
+<td c>—<td>786,<td c>—<td>1,<td c>—<td r>7 f. o.<td>Juni <sp>læs</sp>: Januar
+<td c>—<td>943,<td c>—<td>1,<td c>—<td r>19 f. o.<td>Overskridelse <sp>læs</sp>: Overskridelser
+<td c>—<td>943,<td c>—<td>1,<td c>—<td r>20 f. o.<td>Justitsforordningen <sp>læs</sp>: Juliforordningen
+</table>
+
+<table>
+<td 7 c><sp>BIND XXIV</sp>.
+<td>Side<td r>49,<td>Spalte<td>2,<td>Linie<td r>7 f. n.<td>1908 <sp>læs</sp>: 1909
+<td c>—<td>200,<td c>—<td>2,<td c>—<td r>12 f. n.<td>von <sp>læs</sp>: van
+<td c>—<td>200,<td c>—<td>2,<td c>—<td r>11 f. n.<td>Eskino <sp>læs</sp>: Eskimo
+<td c>—<td>593,<td c>—<td>2,<td c>—<td r>11 f. o.<td><b>Vassilkov</b> <sp>læs</sp>: <b>Vasilkov</b>
+</table>
+</chapter>

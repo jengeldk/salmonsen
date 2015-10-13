@@ -1,0 +1,149 @@
+<chapter name="Kanalje">
+<b>Kanalje,</b> se <sp>Canaille</sp>.
+</chapter>
+
+<chapter name="Kanalopvarmning">
+<b>Kanalopvarmning</b> kaldes den Metode til
+Opvarmning af et Lokale, som bestaar i, at
+man lader Røgen fra et Ildsted passere gennem
+Kanaler i Lokalets Gulv ell. Vægge, til hvilke
+den altsaa kan afgive Varme, som saa atter
+afgives til selve Luften i Lokalet. (Se i øvrigt
+under <sp>Opvarmningsanlæg</sp>).
+<i>Fr. V. M.</i>
+</chapter>
+
+<chapter name="Kanalstraaler">
+<b>Kanalstraaler,</b> Straaler, der opstaar ved
+Katoden i et Udladningsrør, naar denne er
+forsynet med Gennemboringer (»Kanaler«).
+Straalerne gaar igennem disse i Retningen bagud,
+altsaa modsat Katodestraalernes Retning. De
+bestaar af hurtigt bevægede, i Reglen positivt
+ladede Atomer ell. Molekyler, hvorfor de ogsaa
+kaldes positive Straaler. Til positive Straaler
+regnes desuden Anodestraaler (s. d.) og
+α-Straalerne fra de radioaktive Stoffer (se
+<sp>Radioaktivitet</sp>).
+
+<sp>Kanalstraalernes Paavisning og
+Hovedegenskaber</sp>. K. er først iagttaget
+af E. Goldstein 1886. Til Paavisning af dem kan
+man anvende det i Fig. 1 afbildede
+Udladningsrør. Den positive Pol <i>A</i> er en
+Aluminiumplade, hvis Form og
+Stilling i øvrigt er uvæsentlig.
+Den negative Pol <i>K</i> er en
+Aluminiumplade, der udfylder hele
+Rørets Tværsnit og er forsynet
+med et spalteformet Hul.
+Lufttrykket i Røret maa være lavt,
+helst under 1/10 mm Kvægsølv.
+Sender man en Strøm (fra et
+Induktionsapparat ell. en
+Influensmaskine) gennem Røret, vil
+man — foruden de sædvanlige
+Udladningsfænomener mellem <i>A</i>
+og <i>K</i> (se <sp>elektrisk Strøm
+i Luftarter</sp>) — i Rummet
+bag <i>K</i> iagttage den fra Spalten
+udgaaende gulligt lysende K. α,
+der synes at begynde ganske
+lidt foran Katoden. Hvor
+Straalen rammer Glasvæggen,
+fremkalder den en grøn Fluorescens i denne, som
+ligner den, der frembringes af
+Katodestraalerne, men blot er svagere. I Alm.
+frembringer K. tillige en gullig Fluorescens i
+Glasset, som, set i Spektroskop, viser den gule
+Natriumlinie. Den forklares ved, at Straalerne faar
+det natriumsaltholdige Glas til at fordampe, og
+i det saaledes dannede, yderst tynde Damplag,
+der ligger umiddelbart op til Glasset,
+fremkommer Natriumfluorescensen. Farven af Straalen
+inde i Røret afhænger af Luftarten, i rent
+Kvælstof er den guldgul, i Ilt gullig rosa, i Brint
+rosa, i denne Luftart mangler den gule
+Glasfluorescens. Ved Hjælp af disse
+Fluorescensfænomener kan Straalens Vej følges. Nærmer
+man en Magnet til Udladningsrøret, vil man
+finde, at K. i Modsætning til Katodestraalerne
+tilsyneladende ikke afbøjes af Magnetkraften.
+Det lykkedes først W. Wien 1898 at paavise
+Afbøjningen ved Fluorescenspletten paa
+Glasvæggen. Vanskeligheden ligger især i, at
+Magnetfeltets Virkning paa Katodestraalerne er
+mindst c. 50 Gange større end paa K., og det
+stærke Felt, som er nødvendigt for K.'s
+Afbøjning, vil derfor indvirke saa stærkt paa
+Katodestraalerne, at Udladningen i Røret vil ændres
+og vanskeliggøres. Wien omgav derfor det egl.
+Udladningsrør med en Cylinder af blødt Jern
+til Beskyttelse mod Magnetfeltet. I Fig. 2 er
+hans Apparat skematisk
+gengivet. Katoden <i>K K</i> er en
+Jernplade med en Boring i Midten.
+Fra denne træder K. ud i
+Rummet <i>B</i> og frembringer en
+Fluorescensplet paa
+Glasvæggen <i>P</i>. Om Udladningsrøret <i>A</i>
+ser man de to Jerncylindre
+<i>C C</i> og <i>C C</i>, der beskytter
+Udladningen mod det stærke Felt
+fra Polerne <i>N S</i> af en
+Elektromagnet. Sættes Strøm paa
+Elektromagneten, trækkes
+Fluorescenspletten ud til en Streg.
+Straalen afbøjes altsaa ikke
+som et Hele, men der er alle
+Afbøjninger fra Nul og op til
+en vis Grænse, som ved Wiens
+Forsøg var 6 mm ved et Felt
+paa 3000 Gauss. Afbøjningen
+skete til den Side, til hvilken positive Massedele,
+der bevægede sig i Straalens Retning, vilde
+afbøjes. Endvidere viste Wien, at Straalen ogsaa
+afbøjedes af et elektrisk Felt, der frembragtes
+ved at give Metalpladerne <sp>a a</sp> forsk. Spænding.
+Afbøjningen var ligeledes her i samme
+Retning, som positiv Elektricitet vilde være bleven
+ført. For de stærkest afbøjede Dele af
+Straalen var den elektriske Afbøjning af samme
+Størrelse som ved Katodestraalerne. Endelig viste
+Wien, at Straalen førte positiv Elektricitet med
+sig. Dette gør det sandsynligt, at Straalen
+bestaar af positivt ladede Massedele, som faar
+deres store Hastighed i Retningen bagud ved
+at paavirkes af det stærke elektriske Felt
+umiddelbart foran Katoden (Om det elektriske
+Spændingsfald foran Katoden, det saakaldte
+Katodefald, se <sp>elektrisk Strøm i Luftarter</sp>,
+S. 43). Som det ndf. nærmere skal forklares,
+er det muligt ud fra Størrelsen af den
+magnetiske og elektriske Afbøjning at beregne
+Massedelenes Hastighed <i>v</i> samt Forholdet
+mellem deres Ladning <i>e</i> og Masse <i>m</i>. Wien fandt
+dette Forhold for de stærkest afbøjede
+Straaler lig Forholdet mellem Ladning og Masse af
+den elektrolytiske Brintion. Da endvidere
+Hastigheden var af samme Størrelsesorden som
+den, man kunde beregne, at et Brintatom med
+een positiv Elementarladning vilde faa ved at
+gennemløbe Spændingsfaldet ved Katoden (c.
+2000 km pr Sek. ved Wien's Forsøg), maatte
+det antages, at de stærkest afbøjede Dele af K.
+virkelig var positive Brintioner. Senere har man
+alt efter Luftarten i Udladningsrøret kunnet,
+paavise Tilstedeværelsen af mange forsk.
+Ionarter, og ved en forbedret Teknik, som skal
+omtales nærmere i det flg., har Metoden
+udviklet sig til at give en fintmærkende
+Atomvægts- og Molekylvægtsbestemmelse af Ionerne,
+der har ført til betydningsfulde Opdagelser. En
+af Afbøjningerne uafhængig Metode til
+Bestemmelse af K.'s Hastighed afgiver den af J. Stark
+1905 opdagede Forskydning af Spektrallinierne
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>

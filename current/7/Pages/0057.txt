@@ -1,0 +1,101 @@
+<sp>tæt</sp> Samling af Pladerne. Denne
+<sp>Liniesvejsning</sp> anvendes bl. a. ved Fabrikation
+af Spande, og det opgives, at en enkelt til
+Dels automatisk virkende Maskine skal kunne
+svejse 2400 Spande om Dagen. Fig. 8 viser en
+<sp>Liniesvejsemaskine</sp>.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="elektrisk Transmission">
+<b>elektrisk Transmission.</b> Den i større
+Fabriksanlæg almindeligst anvendte Metode til
+Overførelse af Kraften fra Kraftanlægget til de
+enkelte Arbejdsmaskiner er Anvendelse af mek.
+Transmissioner, Aksler med Remskiver, Remme,
+Tovtræk o. s. v. Dette System har imidlertid
+adskillige Ulemper, hvorfor man i de senere
+Aar er kommet ind paa Anvendelse af den
+saakaldte <sp>elektriske Transmission</sp>,
+som kan udføres enten med <sp>Enkeltdrift</sp>
+ell. med <sp>Gruppedrift</sp>. Kraftmaskinen
+trækker en Dynamo, hvorfra Energien igennem
+elektriske Ledninger overføres til Elektromotorer,
+der driver Arbejdsmaskinerne; ved
+<sp>Enkeltdrift</sp> har hver Arbejdsmaskine sin særlige
+Motor, der ofte er monteret direkte derpaa
+{Fig. 1). Ved <sp>Gruppedrift</sp> samler man
+Arbejdsmaskinerne i en Række <sp>Grupper</sp>,
+hvoraf hver enkelt kun omfatter nær ved
+hinanden staaende Maskiner; disse drives ved
+Remtræk fra en mindre Aksel, der igen drives af en
+Elektromotor. Fordelene ved den elektriske
+Transmission er navnlig følgende: Man sparer
+den til Overvindelse af Friktion i Lejer og
+Remme i den mekaniske Transmission
+nødvendige Energi, hvilken Energi (Transmissionens
+Tomgangstab) jo er konstant, ligegyldig hvor
+mange ell. hvor faa Maskiner der er i Brug for
+Øjeblikket. Man kan opnaa et bekvemmere
+Arrangement af sine Maskiner, idet disse kan
+anbringes uden Hensyn til Hovedaksler o. l. Den
+fri Passage igennem Rummet (f. Eks. for
+Kraner) spærres ikke af de mange Remme. Endelig
+kan det navnlig ved store og kostbare Maskiner
+være af Bet. til Stadighed at kontrolere disses
+Anspændelse og Udnyttelse, hvilket bekvemt
+kan gøres ved Hjælp af et foran Elektromotoren
+indskudt Maaleinstrument. Selv om
+Anlægssummen for en Fabrik ved elektrisk
+Transmission i de fleste Tilfælde bliver dyrere end ved
+mekanisk Transmission, er de omtalte Fordele
+ved førstnævnte saa store, at det i de fleste
+Tilfælde vil kunne betale sig at anvende den
+elektriske Transmission.
+<i>R. J. J.</i>
+
+<img>Drejebænk med paamonteret Elektromotor.</img>
+</chapter>
+
+<chapter name="elektrisk Tænding">
+<b>elektrisk Tænding.</b> Apparater til e. T. kan
+indrettes paa forskellig Maade; man kan lade
+Strømmen opvarme en Traadspiral til Glødhede.
+Man kan opvarme en Traad saa stærkt, at den
+brænder over og derved danner en Lysbue, og
+man kan endelig tænde med en
+elektrisk Gnist. Til den første Kategori
+hører de alm. elektriske
+Cigartændere (Fig. 1). Stor
+Bet. har den e. T. faaet i
+Minedriften. De til Tændindingen anvendte
+Patroner kan være af forsk.
+Konstruktion og Udseende. Paa Fig. 2
+er vist <sp>Nobel</sp>'s Patron:
+Ledningen er bøjet i V-Form og er
+fastgjort i den isolerende Masse <i>A</i> af
+sammenstøbt Svovl og Glaspulver. Lige i Bøjningen
+er der i Traaden gjort et Indsnit med en fin
+Sav, saa at Tværsnittet her er noget
+formindsket; Varmeudviklingen vil da ved Strømmens
+Gennemgang blive særlig stærk paa dette Sted,
+hvorved den Traadenden omgivende Tændsats
+tændes og bringer Knaldkviksølvpatronen <i>K</i> til
+Eksplosion, hvorved saa den egl. Ladning af
+Dynamit ell. lgn. antændes (se <sp>elektrisk
+Antændelse</sp>).
+
+Den elektriske <sp>Gnisttænding</sp> har faaet
+stor Betydning ved Eksplosionsmotorer.
+Tændingen af den eksplosive Blanding af Luft og
+forstøvet Brændsel sker ved Motorer med e. T.
+derved, at en elektrisk Gnist, der frembringes
+paa forsk. Maade, springer over imellem to i
+Berøring med den nævnte Blanding værende
+Elektroder. Gnisten kan enten frembringes ved
+Hjælp af et <sp>Induktionsapparat</sp> (s. d.),
+forsynet med Jævnstrøm fra et Batteri, ell. kan
+frembringes af en særlig lille Dynamo, der er i
+
+<img>Fig. 1. Elektrisk Cigartænder.</img>
+

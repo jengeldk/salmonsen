@@ -1,0 +1,161 @@
+<chapter name="Dampspil">
+<b>Dampspil,</b> se <sp>Spil</sp>.</chapter>
+
+<chapter name=”Dampsporvogn”>
+<b>Dampsporvogn,</b> se <sp>Sporveje</sp>.</chapter>
+
+<chapter name=”Dampsprøjte”>
+<b>Dampsprøjte,</b> se
+<sp>Brandslukningsredskaber</sp>.</chapter>
+
+<chapter name=”Dampsterilisation”>
+<b>Dampsterilisation,</b> se <sp>Desinfektion</sp>.</chapter>
+
+<chapter name=”Dampt, Jean Auguste”>
+<b>Dampt</b> [dã], <sp>Jean Auguste</sp>, fr.
+Billedhugger, f. i Vénarey (Côte-d'Or) 1854. Han blev
+uddannet i Dijon og i Paris under Jouffroy og
+Dubois. Hans »Skt Johannes« (1881) kom til
+Luxembourg-Mus. (en Replik i Helsingfors
+Athenæum); derefter fulgte livfulde og
+ejendommelige Arbejder som »Mignon« (Museet i
+Dijon), »Kokette«, »Diana begræder Aktæons
+Død« (1887), »Avant la fantasie«
+(Luxembourg-Mus.), »Vellysten« (1889), »La fin du Rêve«
+(Amiens-Mus.), »Baiser de l'aïeule«
+(Bedstemoderens Kys, 1893, Luxembourg-Mus.) og »Melusine
+og Ridder Raymondin« (1894, udført i Elfenben,
+Metal og Guld). Sidstnævnte Værk er en Prøve
+bl. a. paa D.'s Evne som Eksperimentator i det
+tekniske; hans glimrende tekn. Færdighed og
+hans Fantasirigdom kommer ogsaa hans store
+kunstindustrielle Virksomhed til gode. For Hotel
+de Ville i Paris skabte D. en Statue af Boulle.
+<i>A. Hk.</i></chapter>
+
+<chapter name=”Damptromle”>
+<b>Damptromle,</b> se <sp>Tromle</sp>.</chapter>
+
+<chapter name=”Damptrykmaaler”>
+<b>Damptrykmaaler,</b> se <sp>Manometer</sp>.</chapter>
+
+<chapter name=”Damptrykregulator”>
+<b>Damptrykregulator</b> er et Apparat til
+automatisk at forøge ell. formindske
+Varmeudviklingen fra Risten i en Dampkedel, efter som
+Damptrykket i Kedlen falder ell. stiger. I Princippet
+bestaar Apparatet af en i Forbindelse med
+Kedlen staaende Cylinder med et Stempel, paa
+hvilket Damptrykket virker. Stemplet staar ved
+Vægtstænger i Forbindelse med en Klap, der
+kan aabne ell. lukke for Tilførslen af
+Forbrændingsluft til Risten. Apparatet finder nutildags
+kun Anvendelse ved mindre Kedler, f. Eks. til
+Varmeanlæg o. l.
+<i>H. P. C.</i></chapter>
+
+<chapter name=”Damptrøje”>
+<b>Damptrøje,</b> se <sp>Dampmaskine</sp>.</chapter>
+
+<chapter name=”Dampturbiner”>
+<b>Dampturbiner</b> er Dampmaskiner, i hvilke
+den i Damp værende Varmeenergi først
+omsættes til Bevægelsesenergi og derpaa til
+mekanisk Arbejde. Den først nævnte Omsætning
+finder Sted, idet Dampen fra et Rum med højere
+Tryk gennem særligt formede Kanaler
+strømmer til et Rum med lavere Tryk.
+Bevægelsesenergien optages af roterende, krumme
+<sp>Løbeskovle</sp>, som Dampen strømmer forbi,
+hvorved den afledes fra sin opr. Bevægelsesretning
+og taber i absolut Hastighed. Den til Skovlene
+afgivne Energi overføres gennem det Legeme
+(<sp>Løbehjul</sp>, <sp>Trommel</sp>), hvorpaa Skovlene
+er fastgjort, til Turbinens Aksel.
+
+D.'s Historie kan føres helt tilbage til omkr.
+Aar 120 f. Kr., idet der i <sp>Heron</sp>'s
+Optegnelser findes en Beskrivelse af en Art Turbine,
+der bestod af en hul Kugle, lejret paa en
+vandret Aksel og forsynet med to retvinkelt afbøjede
+Rør. Ind i Kuglen blev ledet Damp, som
+strømmede ud gennem Tudene og ved sit
+Reaktionstryk bragte Kuglen til at rotere. <sp>Branca</sp>
+(1628) beretter om et Stødhjul, som blev drejet
+af en Dampstraale, der strømmede ud gennem
+en Tud og stødte mod Skovle, anbragte paa
+Hjulet. Begge Apparater havde kun
+videnskabelig Bet. Ogsaa efter at Stempelmaskinen var
+opfundet, fremkom adskillige andre
+Konstruktioner, af hvilke de mest betydningsfulde var
+opfundet af <sp>Watt</sp> 1784, <sp>J. Sadler</sp> 1791,
+<sp>Trevithick</sp> 1815, <sp>Ericson</sp> 1830 og <sp>Perkin</sp>
+1836. I Tiden 1784-1850 er der alene i England
+udtaget 32 Patenter paa D. og 1850-80
+yderligere 102. Nogen egl. Bet. fik ingen af disse
+Konstruktioner. Den moderne D.-Udvikling
+begynder omkr. 1880, idet det lykkedes den eng.
+Ingeniør Charles Algeron Parson 1884 at
+fremstille en 10 H. K. Turbine, der ved 18000
+Omdrejninger i Minuttet drev en Dynamo. Samtidig
+med Parson, men fuldstændig uafhængig af
+denne, konstruerede den sv. Ingeniør de Laval
+en D., der særdeles godt egnede sig til Drift
+af Centrifuger, hvortil Laval fremstillede den,
+men som p. Gr. a. et meget højt
+Omdrejningstal kun kunde faa begrænset Anvendelse. Denne
+Mangel lykkedes det Parson med stor Dygtighed
+og Energi at afhjælpe ved sin Konstruktion, og
+det maa tilskrives ham, at D. hurtig blev
+brugbar til direkte Drift af forsk. Maskiner
+(elektriske Maskiner, Ventilatorer, Rotationspumper,
+Skibsskruer).
+
+<sp>Typer</sp>. De forsk. Turbinetyper kan efter
+Dampens Virkemaade inddeles i flg.
+Hovedgrupper:
+
+1) <sp>Enstrykturbiner</sp> (Aktionsturbiner),
+i hvilke Dampens Tryk forbliver uforandret fra
+Indløb til Udløb af Løbeskovlene.
+
+a) <sp>Enkelttrin Enstrykturbiner</sp>.
+Fig. 1 viser et skematisk Billede af en saadan
+Turbine. Ved at Dampen strømmer gennem en
+paa <sp>Turbinehuset</sp> <i>H</i> anbragt Ledetud <i>D</i>,
+synker dens Tryk fra Indløbstrykket <i>Po</i> til
+Udløbstrykket <i>Pi</i> (Atmosfære-Kondensationstryk),
+medens Hastigheden stiger fra <i>c</i> til <i>c1</i>;
+Dampstraalen paavirker dernæst Løbeskovlene <i>S</i> paa
+Omkredsen af det paa <sp>Turbineakslen</sp>
+<i>A</i> fast anbragte <sp>Løbehjul</sp> <i>L</i> og mister paa
+sin Vej gennem disse saa meget af sin
+Hastighed, at den synker til <i>C2</i>. Den vigtigste D. af
+denne Type er <sp>de Laval's Turbine</sp> (Fig.
+2). Dampen, der træder ud af Ledetuden <i>A</i>,
+trykker mod Skovlene paa Løbehjulet <i>B</i>, saa
+dettes Aksel drejes. Dampen opnaar ved
+Ekspansionen gennem de Laval-Turbinens
+Ledetude en meget høj Hastighed (c. 1200 m/Sek.),
+og da Turbinens Virkningsgrad er størst, naar
+Skovlenes Omkredshastighed,
+<sp>Skovlhastigheden</sp>, er lig den halve Damphastighed, maa
+Hjulet løbe meget hurtig rundt. Af praktiske
+Grunde er det dog ikke muligt at opnaa en
+Skovlhastighed, der er mere end c. 1/3 af
+Damphastigheden, da der hertil svarer indtil c. 30000
+Omdrejninger pr Minut. For at gøre Turbinen
+brugelig til Drift af en Dynamo ell. anden
+Maskine, anordnes en Tandhjulsudveksling mellem
+Turbinens og Maskinens Aksler. At udbalancere
+Turbinens roterende Dele fuldkomment er
+praktisk ugørligt, og Laval udførte derfor Akslen
+eftergivende, saaledes at Hjulet ved en vis
+Hastighed (kritisk Hastighed) kunde indstille sig efter
+sin naturlige Rotationsakse. Laval-Turbiner
+lader sig ikke udføre til Ydelser over 500 H. K.
+
+b) <sp>Flertrin Enstrykturbiner</sp>
+anvendes for paa økonomisk Maade at kunne
+nedsætte Turbinens Omdrejningstal. Man skelner
+mellem Hastighedstrin og Tryktrin:

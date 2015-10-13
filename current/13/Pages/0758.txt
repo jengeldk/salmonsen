@@ -1,0 +1,178 @@
+(Enyo i Ares-Templet i Athen, Kadmos i
+Theben) og Portrætstatuer (Taleren Lykurgos og
+hans Sønner, Digteren Menandros i Teateret i
+Athen). Broderparrets Signatur læses paa flere
+bevarede Fodstykker i Athen og Eleusis; i
+Herondas' Mimiamber omtales et Arbejde af dem
+som opstillet i Asklepios-Helligdommen paa
+Kos. K. synes at have været den betydeligste
+af de to Brødre; den litterære Overlevering
+nævner ikke faa Arbejder som udførte af ham
+alene, deriblandt Portrætter af Filosoffer og af
+Digterinderne Anyte og Myro; nogle af hans
+Gudefigurer blev førte til Rom (Leto, Afrodite,
+Asklepios og Artemis), hvor K. bestandig sattes
+meget højt. Han synes at have fortsat den af
+hans Fader grundlagte Retning i Kunsten og
+navnlig at have udmærket sig ved en teknisk
+fuldkommen Behandling af Marmoret; men i
+øvrigt er vort Kendskab til hans
+Kunstnerpersonlighed ganske ufuldkomment.
+<i>C. B.</i>
+</chapter>
+
+<chapter name="Kefissos">
+<b>Kefissos</b> [gr. -'sås] (lat. <i>Cephissus</i>), Navn
+paa fl. Floder i Oldtidens Grækenland. Den
+største flød gennem Landskaberne Fokis og
+Boiotien, hvor den dannede Søen Kopais,
+hvorfra dens Vand gennem Jorden sivede ud i
+Havet mellem Boiotien og Euboia. Samme Navn
+bar ogsaa to mindre Floder i Attike.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="Keflavík">
+<b>Keflavík</b> ['Kjæb.la'vi.k], en Handelsplads ved
+den sydlige Del af Faxaflói paa Island, havde
+(1914) 473 Indb., der næsten udelukkende lever
+af Fiskeri, da Omegnen er stenet og ufrugtbar.
+<i>Th. Th.</i>
+</chapter>
+
+<chapter name="Kefr">
+<b>Kefr,</b> se <sp>Kafr</sp>.
+</chapter>
+
+<chapter name="Keg">
+<b>Keg</b> [keg], lille Tønde, i England et Talmaal
+for 60 Stkr Sild og Laberdaner, = 1/2 Hundred;
+i de forenede Stater er en K. Frugter 100 eng.
+Pd.
+<i>H. J. N.</i>
+</chapter>
+
+<chapter name="Kegle (mat.)">
+<b>Kegle</b> (mat.). Ved K. forstaas i daglig Tale
+hyppigst et Legeme som det paa Fig.
+fremstillede, der begrænses af en
+Omdrejningskegleflade (se <sp>Kegleflade</sp>) med Toppunkt <i>T</i>
+og Akse <i>TC</i> samt af den
+Cirkel, <sp>Grundfladen</sp>,
+hvori Keglefladen skæres
+af Planen vinkelret paa
+Aksen i <i>C</i>. I Matematikken
+kaldes ethvert Legeme
+begrænset af en
+Kegleflade og en Plan en K.
+En <sp>cirkulær K.</sp> har
+en Cirkel til Grundflade;
+den paa Fig. fremstillede
+specielle Form kaldes den
+<sp>rette cirkulære K.</sp>
+eller <sp>Omdrejnings-K.</sp>, da den kan
+frembringes af den retvinklede Trekant <i>TCA</i> ved
+Drejning om Kateten <i>TC</i>. En K.'s <sp>Højde</sp> er
+Toppunktets Afstand fra Grundfladen.
+Rumfanget maales ved 1/3 af Produktet af Højde og
+Grundflade, hvilket vil sige, at man faar
+Antallet f. Eks. af Kubikmeter i K. ved at
+multiplicere Antallet af <i>m</i> i Højden med Antallet af
+Kvadratmeter i Grundfladen og dividere
+Produktet med 3. Kaldes i den rette cirkulære K.
+Højden <i>CT</i> for <i>h</i> og Radius <i>CA</i> i Grundfladen for <i>r</i>, er
+Rumfanget altsaa = 1/2π<i>r</i><sup>2</sup><i>h</i>; ved samme K. er
+den krumme Overflades Areal = π<i>rs</i>, naar
+<sp>Sidelinien</sp> <i>TA</i> betegnes ved <i>s</i>.
+— <sp>Keglestub</sp> kaldes den Del af en K., der ligger
+mellem Grundfladen og et med denne parallelt
+plant Snit; Snittet og Grundfladen kaldes
+<sp>Endefladerne</sp>, deres Afstand <sp>Højden</sp>.
+Stubben er <sp>cirkulær</sp> ell. <sp>ret cirkulær</sp>
+(<sp>Omdrejningskeglestub</sp>, se Fig.)
+samtidig med K.; dens Rumfang er = <i>h</i>/3 (<i>G</i>+<i>G</i><sub>1</sub>+
+√<i>GG</i><sub>1</sub>), hvor <i>h</i> er Højden, <i>G</i> og <i>G</i><sub>1</sub>
+Endefladernes Arealer. Ved Omdrejningskeglestubben med
+Radierne <i>CA</i>=<i>r</i> og <i>DB</i>=<i>r</i><sub>1</sub> i Endefladerne og
+<sp>Sidelinien</sp> <i>AB</i>=<i>s</i> er Rumfanget = π/3 <i>h</i>
+(<i>r</i><sup>2</sup>+<i>r</i><sub>1</sub><sup>2</sup>+<i>rr</i><sub>1</sub>) og den krumme Overflades Areal
+= π<i>s</i> (<i>r</i>+<i>r</i><sub>1</sub>).
+<i>Chr. C.</i>
+
+<img></img>
+</chapter>
+
+<chapter name="Kegle (se Skriftsystemer)">
+<b>Kegle,</b> se <sp>Skriftsystemer</sp>.
+</chapter>
+
+<chapter name="Kegleflade">
+<b>Kegleflade</b> (mat.). En K. beskrives af en
+ret Linie, <sp>Frembringeren</sp>, der bevæger
+sig saaledes, at den stadig gaar gennem et fast
+Punkt, <sp>Toppunktet</sp>, og skærer en fast
+Kurve, <sp>Ledekurven</sp>. Toppunktet deler K. i
+2 Dele, der kaldes dens 2 <sp>Net</sp>. En Plan gennem
+Toppunktet og en Tangent til Ledekurven er
+Tangentplan til K. langs Frembringeren
+gennem Tangentens Røringspunkt,
+<sp>Røringsfrembringeren</sp>; den indeholder nemlig
+Tangenten til en vilkaarlig Kurve paa K. i
+Kurvens Skæringspunkt med
+Røringsfrembringeren. En K. med en Cirkel til Ledekurve
+kaldes <sp>cirkulær</sp>; er Linien fra Toppunktet til
+Cirklens Centrum vinkelret paa Cirklens Plan,
+kaldes K. <sp>ret cirkulær</sp> ell. en
+<sp>Omdrejningskegleflade</sp> med den nævnte Linie
+til Akse, da den kan beskrives af en
+Frembringer, der drejer sig om Aksen.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Keglehjul">
+<b>Keglehjul</b> ell. <sp>koniske Hjul</sp>, se
+<sp>Tandhjul</sp>.
+</chapter>
+
+<chapter name="Keglenæb">
+<b>Keglenæb,</b> d. s. s. <sp>Conirostres</sp>.
+</chapter>
+
+<chapter name="Kegler">
+<b>Kegler,</b> et Billardspil (se <sp>Billard</sp>).
+</chapter>
+
+<chapter name="Keglesnegle">
+<b>Keglesnegle</b> (<i>Conus</i>), en Slægt af
+højtstaaende Forgællesnegle, der ernærer sig ved Rov
+og er udstyrede med dolkformede Gifttænder.
+De allerfleste Arter tilhører de tropiske Have,
+hvor de hyppig træffes ved Koralrevene eller i
+Klippernes Huler og Revner. Deres Skal er
+kegleformig med en meget lang og smal
+Munding; Laaget er lille og kloformet, men mange
+Arter mangler et saadant. Skallens Farve er
+ofte meget smuk, og enkelte sjældnere Former,
+der har været Genstand for Samleres
+Efterstræbelser, er navnlig i tidligere Tid blevne
+betalte med meget høje Summer, indtil flere
+Tusind Kroner. Nutildags koster selv de
+allersjældneste og smukkeste Eksemplarer næppe
+mere end et Par Hundrede Kroner. — Slægten
+tæller godt 300 nulevende Arter.
+<i>(A. C. J.). C. M. S.</i>
+</chapter>
+
+<chapter name="Keglesnit">
+<b>Keglesnit</b> (mat.) er en fælles Betegnelse for
+Ellipser, Hyperbler og Parabler (s. d.), til
+hvilke Kurver alle plane Snit i cirkulære
+Kegleflader horer. De er opfundne af Menaichmos til
+Brug ved Løsningen af det deliske Problem
+(s. d.), der kan reduceres til Bestemmelse af
+<i>x</i> og <i>y</i> af Ligningerne <i>ay</i>=<i>x</i><sup>2</sup>, <i>xy</i>=<i>ab</i>;
+Grækerne, der udtrykte Ligningerne i Ord og løste
+dem ved Konstruktion, havde saa meget af den
+analytiske Geometris Metode, at de kunde
+identificere Ligningernes Løsning med
+Bestemmelsen af Skæringspunkterne mellem de Kurver

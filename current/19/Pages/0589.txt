@@ -1,0 +1,109 @@
+Antallet af Meter i Højden med Antallet af
+Kvadratmeter i en Endeflade.
+<i>Chr. C.</i>
+
+Et P. til <sp>optisk</sp> Brug er i de fleste
+Tilfælde et tresidet P. Vinklen mellem de to
+Flader, der benyttes, naar P. anvendes til at
+<sp>bryde</sp> en Straale, kaldes P.'s <sp>brydende
+Vinkel</sp>. Skæringslinien mellem disse Flader kaldes
+den brydende Kant, og en Plan vinkelret paa
+denne kaldes P.'s Hovedsnit. Ved Gennemgang
+gennem et P. bøjes Lyset ud fra dets opr.
+Retning og bort fra den brydende Kant. Den
+Vinkel <i>a</i>, som Straalen afbøjes, afhænger af
+Straalens Indfaldsvinkel; den er Minimum, hvis
+Straalen igaar symmetrisk igennem, P. og
+bestemmes i saa Fald ved <i>n</i> = <i>sin</i> <i>a+p</i>/2 / <i>sin</i> <i>p</i>/2, hvor
+<i>p</i> er P.'s brydende Vinkel og <i>n</i> dets
+Brydningsforhold for det paagældende Lys. Om
+Anvendelser, se <sp>Brydning</sp>, <sp>Dispersion</sp>,
+<sp>Spektralanalyse</sp>, <sp>Spektroskop</sp>.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Prismeastrolabiet">
+<b>Prismeastrolabiet,</b> se <sp>Passageprisme</sp>.
+</chapter>
+
+<chapter name="Prismecirkel">
+<b>Prismecirkel,</b> se <sp>Sekstant</sp>.
+</chapter>
+
+<chapter name="Prismedrejebænk">
+<b>Prismedrejebænk,</b> lille Drejebænk, hvor
+Vangerne er erstattede med en prismatisk
+Stang, som bærer Dokkene og Forsætteren;
+Drejestolen er saaledes en P.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Prismekikkert">
+<b>Prismekikkert.</b> Den terrestriske Kikkert
+(Marinekikkerten, se <sp>Kikkert</sp>) er ubekvem,
+lang og tung. Det er derfor meget vigtigt, at
+man ved Hjælp af Prismesystemer kan opnaa
+oprette Billeder i en Kepler'sk Kikkert og
+saaledes udnytte dennes afgjorte Overlegenhed i
+optisk Henseende over Galilei's Kikkert
+(Teaterkikkerten) uden de nævnte Ulemper, ja endog
+samtidig opnaa andre vigtige Fordele. Det
+anvendte Prismesystem (<sp>Porro</sp>), der bestaar af
+2 retvinklede ligebenede Glasprismer, som
+indskydes mellem Objektiv og Okular, er vist i
+Fig. 1. En Straale fra Objektivet paa Vej mod
+Okularet reflekteres totalt 4 Gange og gaar
+saaledes videre parallelt med den opr. Retning;
+men som man let indser ved at tænke sig
+tilføjet andre Straaler ved Siden af den viste,
+ombyttes ved det først ramte Prisme højre, og
+venstre, og ved det andet Prisme op og ned i
+Objektivbilledet. Ved hertil at anvende
+totalreflekterende Prismer i St f. Spejle opnaas det
+mindst mulige Lystab og stor Holdbarhed. Fig.
+2 viser den alm. Udførelse af P. som dobbelt
+Haandkikkert. Objektivet <i>Ob</i> er en akromatisk
+Linse, Okularet <i>Oc</i> bestaar af 2 Linser, hvoraf
+Øjelinsen igen i Reglen er sammensat. Foruden
+at faa Billedet gjort opret, opnaar man en
+meget betydelig Forkortelse af Kikkertrøret og
+derved en Formindskelse af dets Vægt, medens
+det opr. terrestriske Okular netop gjorde
+Kikkerten længere og tungere. Derfor kan P.
+udføres som Dobbeltkikkert uden at blive for tung.
+Og endelig kan Afstanden mellem Objektiverne
+gøres større end Øjeafstanden, hvad der giver
+forøget Plastik, større Evne til at skelne
+Afstandsforskel (Dybde) i Rummet. I Reglen er
+Okularerne hver for sig indstillelige, da de to Øjne
+ofte er noget forsk.; dog anvendes nu hyppigt
+fælles Midterindstilling, saa at kun det ene
+Okular behøver at være indstilleligt. Gennem
+Okularringen, det Billede, som Kikkerten danner af
+Objektivaabningen, og som ses som en lys
+Cirkel foran Okularet, naar Kikkerten rettes mod
+en jævnt lysende Baggrund, f. Eks. Himlen,
+passerer alt det Lys, som kommer ind gennem
+Objektivet. Denne Okularring er i Praksis
+aldrig meget større end strengt nødvendigt, saa
+at det er meget vigtigt, at de 2 Okularer har
+samme Afstand som Iagttagerens 2 Øjne, saa at
+Okularringene kan falde i de 2 Pupiller.
+Derfor er Afstanden mellem de 2 Kikkertrør altid
+variabel og maa indstilles til nøje at passe til
+Øjeafstanden, naar Kikkertens Lysstyrke skal
+udnyttes fuldt ud. Det er i det hele taget den
+eneste Ulempe ved P., at dens Lysstyrke er
+forholdsvis ringe. Man faar en Forestilling om
+dens Lysstyrke ved at sammenligne
+Okularringen med Pupilaabningens Størrelse. Kun hvis
+Okularringen er lige saa stor som Pupillen,
+naar denne er størst, nemlig i Mørke, kan
+Kikkerten bruges med Fordel i Skumring (som
+
+<img>1. Porro'sk
+Prismesystem.</img>
+
+<img>Fig. 2. Prismekikkert.</img>
+
+<img>Fig. 3. Reliefkikkert.</img>

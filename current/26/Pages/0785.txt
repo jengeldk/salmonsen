@@ -1,0 +1,318 @@
+<chapter name="Native">
+<b>Native,</b> se <sp>Kaffe</sp>, S. 354.
+</chapter>
+
+<chapter name="Natnest">
+<b>Natnest,</b> d. s. s. <sp>Nannest</sp>.
+</chapter>
+
+<chapter name="Natoena">
+<b>Natoena,</b> d. s. s. <sp>Natuna-Øer</sp>.
+</chapter>
+
+<chapter name="Natorp, P. P.">
+<b>Natorp,</b> <sp>P. P.</sp>, d. 18. Aug. 1924 i Marburg.
+</chapter>
+
+<chapter name="Natpt-schitai-ulan-murren">
+<b>Natpt-schitai-ulan-murren,</b> se
+<sp>Jang-tse-kiang</sp>.
+</chapter>
+
+<chapter name="Natriumarseniat">
+<b>Natriumarseniat,</b> se <sp>arsensure Salte</sp>.
+</chapter>
+
+<chapter name="Natriumdikarbonat">
+<b>Natriumdikarbonat,</b> se
+<sp>Natriumkarbonater</sp>.
+</chapter>
+
+<chapter name="Natriumdikromat">
+<b>Natriumdikromat.</b> Rettelse, L. 2 f. o.: 6
+læs: C — L. 9 f. o.: Formlen skal lyde: Na<sub>2</sub>
+Cr O<sub>4</sub> + H<sub>2</sub> SO<sub>4</sub> = Na<sub>2</sub> Cr<sub>2</sub> O<sub>7</sub> o. s. v.
+</chapter>
+
+<chapter name="Natriumdiuranat">
+<b>Natriumdiuranat,</b> se <sp>Uran</sp>.
+</chapter>
+
+<chapter name="Natriumfosfater">
+<b>Natriumfosfater.</b> Rettelse, L. 2 f. o.:
+Formlen skal lyde: Naa PO<sub>4</sub> o. s. v. — L. 14 f. o.:
+Phenolphtalin læs: Phenolphtalein — L. 17 f. o.:
+skal være: (<sp>Mononatriumfosfat</sp>) Na H<sub>2</sub>
+PO<sub>4</sub> o. s. v.
+</chapter>
+
+<chapter name="Natriumhydrosulfid">
+<b>Natriumhydrosulfid,</b> se
+<sp>Natriumsulfider</sp>.
+</chapter>
+
+<chapter name="Natriumhydrosulfit">
+<b>Natriumhydrosulfit.</b> Rettelse, S. 706, Sp. 1,
+L. 2 f. o.: Formlen skal lyde: Zn = Na<sub>2</sub> S<sub>2</sub> O<sub>4</sub>
++ Zn o. s. v. — S. 706, Sp. 1, L. 19 f. o.:
+Natriumsulfoxyd læs: Natriumsulfoxylat
+</chapter>
+
+<chapter name="Natriumhyposulfit">
+<b>Natriumhyposulfit,</b> d. s. s.
+<sp>Natriumthiosulfat</sp>.
+</chapter>
+
+<chapter name="Natriumkarbonater">
+<b>Natriumkarbonater.</b> Rettelse, Sp. 2, L. 22
+f. o.: <i>The lenpand</i> læs: <sp>Thelenpander</sp>
+</chapter>
+
+<chapter name="Natriumklorid">
+<b>Natriumklorid.</b> Rettelse, S. 708, Sp. 1, L. 34
+f. n.: <sp>Torristen</sp> læs: <sp>Tornsten</sp> — S. 708,
+Sp. 1, L. 1 f. n.: Magnium, saltholdigt læs:
+magniumsaltholdigt
+</chapter>
+
+<chapter name="Natriumklorit">
+<b>Natriumklorit,</b> se <sp>Klorsyrling</sp>.
+</chapter>
+
+<chapter name="Natriummetaborat">
+<b>Natriummetaborat,</b> se <sp>Natriumborat</sp>.
+</chapter>
+
+<chapter name="Natriummetafosfat">
+<b>Natriummetafosfat,</b> se
+<sp>Natriumfosfater</sp>.
+</chapter>
+
+<chapter name="Natriummetavolframiat">
+<b>Natriummetavolframiat,</b> se <sp>Volfram</sp>.
+</chapter>
+
+<chapter name="Natriumpyrofosfat">
+<b>Natriumpyrofosfat,</b> se
+<sp>Natriumfosfater</sp>.
+</chapter>
+
+<chapter name="Natriumsulfit">
+<b>Natriumsulfit.</b> Rettelse, L. 6 f. n.:
+vulkanisere læs: afvulkanisere
+</chapter>
+
+<chapter name="Natriumtetraborat">
+<b>Natriumtetraborat,</b> se <sp>Natriumborat</sp>.
+</chapter>
+
+<chapter name="Natriumvolframiat, normalt">
+<b>Natriumvolframiat,</b> <sp>Normalt</sp>, se
+<sp>Volfram</sp>.
+</chapter>
+
+<chapter name="Natriumzinkat">
+<b>Natriumzinkat,</b> se <sp>Zinkilte</sp>.
+</chapter>
+
+<chapter name="Natrokrener">
+<b>Natrokrener,</b> se <sp>Mineralvande</sp>, S. 79.
+</chapter>
+
+<chapter name="Natskade">
+<b>Natskade,</b> se <sp>Natravne</sp>.
+</chapter>
+
+<chapter name="Natsommerfugle">
+<b>Natsommerfugle,</b> se (ogsaa) <sp>Ugler</sp>.
+</chapter>
+
+<chapter name="Natsæt">
+<b>Natsæt,</b> se <sp>Dragt</sp>, S. 382.
+</chapter>
+
+<chapter name="Nattesæde">
+<b>Nattesæde.</b> Bestemmelserne om Lukning af
+Beværtningslokaler findes i Lov 29. Marts 1924,
+ligesom der kan gives yderligere Regler om
+Lukning i de forskellige Politivedtægter.
+
+Lokalerne skal herefter være lukkede fra Kl.
+12 Nat til 5 Morgen, og i Tiden fra Kl. 5 til 8
+Morgen maa der ikke udskænkes stærke Drikke.
+
+I Kjøbenhavn kan Politidirektøren efter
+nærmere af Kommunalbestyrelsen fastsatte Regler
+give Tilladelse til efter Lukketiden at beværte
+Gæster, der har indfundet sig før Kl. 12. For
+Tiden er der meddelt 40 saadanne Tilladelser,
+der mod aarlig Afgift af 2400 Kr. giver Ret til
+at fortsætte Reværtningen til Kl. 2, og 120
+Tilladelser til Beværtning indtil Kl. 1. Afgiften for
+disse sidste er 500 Kr. aarlig.
+<i>E. L-n.</i>
+</chapter>
+
+<chapter name="Naturforskning">
+<b>Naturforskning,</b> d. s. s.
+<sp>Naturvidenskab</sp>.
+</chapter>
+
+<chapter name="Naturfredning">
+<b>Naturfredning</b> har saavel i fremmede
+Lande som i Danmark stadig gjort betydelige
+Fremskridt, der dog ikke her kan opgøres i
+Enkeltheder. For Danmarks Vedkommende maa
+henvises f. Eks. til det af Danmarks
+Naturfredningsforening siden 1924—25 udgivne Aarsskrift
+»Dansk Naturfredning«.
+<i>A. M.</i>
+</chapter>
+
+<chapter name="naturlige Præmier">
+<b>naturlige Præmier,</b> se <sp>Livsforsikring</sp>,
+S. 937.
+</chapter>
+
+<chapter name="naturligt Karborundum">
+<b>naturligt Karborundum,</b> se <sp>Moissanit</sp>.
+</chapter>
+
+<chapter name="Natviol">
+<b>Natviol,</b> se (ogsaa) <sp>Gøgelilje</sp>.
+</chapter>
+
+<chapter name="Naudin, Bernhard">
+<b>* Naudin</b> [no'dæ], <sp>Bernhard</sp>, fransk
+Maler og Illustrator, f. 1876 i Châteauroux, er
+særlig kendt ved Illustrationer til Værker af
+Verhaeren, E. Poe m. fl. (og til
+Karikaturblade og Billedhæfter), men har ogsaa malet
+Krigsbilleder m. m.
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Nauen">
+<b>Nauen,</b> (1927) 9625 Indb.
+</chapter>
+
+<chapter name="Naugatuck">
+<b>Naugatuck,</b> (1920) 15061 Indb.
+</chapter>
+
+<chapter name="Naujait">
+<b>Naujait,</b> se <sp>Nefelinsyenit</sp>.
+</chapter>
+
+<chapter name="Naumann, Chr.">
+<b>Naumann,</b> Chr. Rettelse, L. 11 f. o.: edsret
+læs: edsöret — L. 17 f. o.: Krkeretten læs:
+Kirkeretten — L. 10 f. n.: Handbock læs:
+Handbok
+</chapter>
+
+<chapter name="Naumann, Joseph Friedrich">
+<b>* Naumann,</b> <sp>Joseph Friedrich</sp>
+(1860—1919); tysk Politiker, protestantisk Præst,
+grundede 1896 »den national-sociale Forening«,
+udgav socialpolitiske Skrifter og 1915 Bogen
+»Mitteleuropa«, hvis Titel blev et Slagord,
+Medlem af Rigsdagen 1907—11 og 1913—18 (liberal),
+1919—20 af den tyske Nationalforsamling som
+tysk Demokrat.
+<i>H. J-n.</i>
+</chapter>
+
+<chapter name="Naumburg">
+<b>Naumburg,</b> (1925) 29337 Indb.
+</chapter>
+
+<chapter name="Naundorff, Karl Wilhelm">
+<b>Naundorff,</b> <sp>Karl Vilhelm</sp>, en af dem,
+der udgav sig for Ludvig XVII (s. d.).
+</chapter>
+
+<chapter name="Nauplia">
+<b>Nauplia,</b> (1923) 7300 Indb.
+</chapter>
+
+<chapter name="Naur">
+<b>Naur,</b> Jernbaneholdeplads,
+Vemb—Holstebro-Banen. (Se <sp>Danmark</sp>, Samfærdselskortet,
+<i>Suppl</i>.).
+</chapter>
+
+<chapter name="Naur, Albert Emil August Schleppegrell">
+<b>* Naur,</b> <sp>Albert Emil August
+Schleppegrell</sp>, dansk Maler. F. 13. Oktbr. 1889 i
+Kjøbenhavn. Student 1908, studerede Jura.
+Uddannede sig til Maler i Paris 1912—13 og
+1913—14. Har udstillet paa Kunstnernes
+Efteraarsudstilling 1912—15, paa Grønningen siden 1915.
+Maler Figurbilleder, Portrætter, Landskaber og
+Blomsterbilleder. Er repræsenteret paa
+Kunstmuseet.
+<i>J. St.</i>
+</chapter>
+
+<chapter name="Nausa">
+<b>Nausa,</b> se <sp>Santandér</sp>.
+</chapter>
+
+<chapter name="Naussa">
+<b>Naussa,</b> d. s. s. <sp>Nausa</sp>.
+</chapter>
+
+<chapter name="Naust">
+<b>Naust,</b> d. s. s. <sp>Nøst</sp>.
+</chapter>
+
+<chapter name="Naustdal">
+<b>Naustdal,</b> <sp>Herred</sp>, Fjordane Politidistrikt.
+Antagen Formue 1927 var 2727037 Kr. og
+Indtægt 698458 Kr.
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Nauvoo">
+<b>Nauvoo,</b> (1920) 972 Indb.
+</chapter>
+
+<chapter name="Navan">
+<b>Navan,</b> (1926) 3652 Indb.
+</chapter>
+
+<chapter name="Navarin">
+<b>Navarin,</b> se <sp>Ildlandet</sp>.
+</chapter>
+
+<chapter name="Navarra">
+<b>Navarra,</b> 332213 Indb. (1925) eller 32 pr. km<sup>2</sup>.
+Hovedstaden Pamplona har 33031 Indb. (1926).
+</chapter>
+
+<chapter name="Navarra, Slot">
+<b>Navarra,</b> <sp>Slot</sp>, se <sp>Evreux</sp>.
+</chapter>
+
+<chapter name="Navasota">
+<b>Navasota,</b> (1920) 5060 Indb.
+</chapter>
+
+<chapter name="Naville, Ed. H.">
+<b>Naville,</b> <sp>Ed. H.</sp>, d. 17. Oktbr 1926.
+</chapter>
+
+<chapter name="Navtrupgaard">
+<b>* Navtrupgaard,</b> Domæne i Haderslev
+Herred. Areal 104 ha.
+<i>N. J.</i>
+</chapter>
+
+<chapter name="Naxia">
+<b>Naxia,</b> d. s. s. <sp>Naxos</sp>.
+</chapter>
+
+<chapter name="Nayarit">
+<b>* Nayarit,</b> Stat i det vestlige Mexiko, har
+et Areal af 27053 Indb. (30. Novbr 1921) eller

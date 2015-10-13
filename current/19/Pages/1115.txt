@@ -1,0 +1,149 @@
+gælder (»Inertialsystem«). Et saadant kan
+illustreres ved en Kasse, der uden at rotere falder frit
+i Tyngdefeltet; et Koordinatsystem, som hviler
+i Forhold til Kassen, vil da være et
+Inertialsystem. Det vanskelige, men ogsaa det
+interessante og frugtbare ved denne Opfattelse er nu,
+at Inertialsystemerne paa Universets forsk.
+Steder og paa forsk. Tidspunkter i Alm. ikke har
+en konstant Hastighed i Forhold til hinanden.
+Et Inertialsystem paa Nordpolen og et paa
+Sydpolen af Jorden er f. Eks. accelereret imod
+hinanden, og Grunden dertil maa aabenbart søges
+i Jordens Masse. Gennem dybsindige
+matematiske Spekulationer, der i væsentlig Grad
+byggede paa de meget abstrakte Undersøgelser,
+som den store tyske Matematiker <sp>B.
+Riemann</sp> i Midten af 19. Aarh. anstillede over
+ikke-euklidiske flerdimensionale
+Mangfoldigheder, lykkedes det nu virkeligt for Einstein at
+angive en naturlig Maade, paa hvilken Masserne
+i Universet kunde bringes i lovmæssig
+Sammenhæng med de fra Punkt til Punkt varierende
+Inertialsystemer.
+
+En af de interessanteste Konsekvenser er, at
+de sædvanlige geometriske Love, den saakaldte
+euklidiske Geometri, i Alm. ikke gælder i et
+Tyngdefelt. Kunde man f. Eks. udspænde tynde,
+lette Traade mellem tre faste Punkter i Jordens
+ell. i, i Solens Tyngdefelt, vilde det vise sig, at
+Summen af Vinklerne, som Traadene danner
+med hinanden i disse Punkter, ikke nøjagtigt er
+lig med to rette Vinkler, men afviger lidt
+derfra. Hvad endvidere Himmellegemernes
+Bevægelser angaar, saa viste det sig, at Newton's
+klassiske Maade at beregne disse paa kun giver
+en første Tilnærmelse til de Forhold, man
+virkelig maa vente. Afvigelserne fra Newton's
+Love er imidlertid uhyre ringe, kun for
+Planeten Merkurs Bevægelse bliver de saa store,
+at der kan blive Tale om at prøve den ny
+Teori, og netop her fandt Einstein, at en af
+<sp>Leverrier</sp> opdaget uforklarlig Anomali i
+Merkurs Bane nøjagtig svarede til, hvad man
+efter hans Teori burde vente (1916). Den alm.
+R. peger mod en omfattende Teori af Universets
+Struktur, men har efter Sagens Natur ikke den
+samme afsluttede Natur som den spec. R., der
+nutildags tør henregnes til de uundværlige
+Fundamenter, paa hvilke den moderne teoretiske
+Forskning hviler. (<sp>Litt.</sp> over
+Relativitetsprincippet er uhyre stor. De originale Afhandlinger
+af <sp>Lorentz</sp>, <sp>Einstein</sp> og <sp>Minkowski</sp>
+er samlet i »Das Relativitätsprincip« [Leipzig
+1922]. Af Haandbøgerne nævner vi blandt de
+tyske: <sp>Laue</sp>, »Das Relativitätsprincip«
+[Braunschweig, 1923]; <sp>Weyl</sp>, »Raum. Zeit und
+Materie« [Berlin 1923]; <sp>Pauli</sp>,
+»Relativitätstheorie« [»Encyklopädie d. math.
+Wissenschaften«, Leipzig 1923]; bl. de eng.
+<sp>Cunningham</sp>'s og <sp>Eddington</sp>'s Bøger. Fra filos.
+Side har man ogsaa meget interesseret sig for
+R., skønt Teoriens Væsen ret ofte er blevet
+misforstaaet. <sp>Schlick</sp>'s, <sp>Cassirer</sp>'s (begge
+tyske) og <sp>Whitehead</sp>'s (eng.) Bøger regnes
+bl. de bedste. Ogsaa den populære Litt. om R.
+er næsten uoverskuelig. Fra selve <sp>Einstein</sp>'s
+Haand er der kommet en meget læst lille Bog
+[Braunschweig 1916]. Paa Dansk foreligger
+<sp>Helge Holst</sp>, »Vort fysiske Verdensbillede
+og Einstein's R.« [1920]. Nævnes maa endnu
+<sp>Thirring</sp>'s udmærkede Bog, »Die Idee
+der Relativitätstheorie«. Det amerikanske Blad
+<i>Popular Science</i>'s store Priskonkurrence om
+en populær Beskrivelse af R. i mindre end
+5000 Ord maa vel nærmest anses som
+forfejlet. Modstandere af R. har der lige siden
+1905 været mange af, dog kun meget faa blandt
+Fysikere af Fag; Modstanden beror som
+oftest paa Misforstaaelser).
+<i>H. A. Kramers.</i>
+</chapter>
+
+<chapter name="relativ Lysaabning">
+<b>relativ Lysaabning.</b> Ved et Objektivs r.
+L. forstaas i Fotografien Forholdet mellem den
+virksomme Lysaabning (den anvendte Blændes
+Diameter) og Objektivets Brændvidde. R. L.
+angives ved en Brøk f. Eks. 1/6,8 ell. F : 6,8.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="Relativtal">
+<b>Relativtal</b> kaldes det af R. Wolf 1850
+indførte Maal for den paa Solen til hver Tid
+stedfindende Dannelse af Solpletter, hvorved han
+bragte alle Observationer til et homogent
+System. R. afhænger saavel af de til en bestemt
+Tid synlige Solpletter (<i>g</i>) som af den Del af
+Solens Overflade, disse dækker (<i>f</i>), foruden den
+af vedk. Iagttager benyttede Kikkert (<i>k</i>). Wolf
+har opstillet flg. Relation for R. <i>r</i> = <i>k</i> (10 <i>g</i>
++ <i>f</i>), hvor han sætter <i>k</i> = 1 for den Kikkert,
+han selv benyttede. Efter dette System har han
+og hans Efterfølger Wolfer beregnet R. for
+alle Aar fra 1610 til Nutiden.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="relativt Pronomen">
+<b>relativt Pronomen</b> (<sp>henførende
+Stedord</sp> ell. <sp>Henvisningsord</sp>) er et
+Pronomen, der tjener til Sammenknytning af
+Sætninger, for Eksempel <i>som</i> ell. <i>der</i> i
+»Drengen, som (der) stjal Pengene«. I mange Sprog
+bruges samme Former som for spørgende
+(delvis ogsaa ubestemte) Pronomener, saaledes fr.
+<i>qui</i>, eng. <i>who</i>, <i>which</i>; smlg. ogsaa dansk <i>hvem</i>
+i »han havde kun een Søn, hvem han hadede«,
+og <i>hvilket</i> i »han hadede ham, hvilket fremgik
+af hele hans Opførsel«.
+<i>O. Jsp.</i>
+</chapter>
+
+<chapter name="relativ Ugyldighed">
+<b>relativ Ugyldighed</b> eller
+<sp>Anfægtelighed</sp> er et Begreb inden for Retshandelslæren,
+idet man inden for Grundene til et Løftes
+Ugyldighed har opstillet en Sondring mellem
+absolut Ugyldighed (Nullitet) og r. U.
+(Anfægtelighed). Forskellen skal navnlig bero derpaa, at
+den absolutte Ugyldighed bevirker, at
+Retshandlen slet ingen retlig Bet. faar, medens den
+r. U. kun bevirker, at den, til Fordel for hvem
+Ugyldighedsgrunden opstilles (altsaa normalt
+Løftegiveren) kan fordre Løftet erklæret
+ugyldigt. Denne Sondring er opstillet baade for
+Romerrettens og for nordisk Rets Vedk. Hvad
+førstnævnte Retsforfatning angaar, har man
+særlig haft Modsætningen mellem <i>jus civile</i> og
+den prætoriske Ret for Øje, saaledes at kun de
+i <i>jus civile</i> hjemlede Ugyldighedsgrunde skulde
+være absolutte, medens de øvrige blot skulde
+være relative. Imidlertid kan det vistnok ikke
+inden for den fuldt udviklede rom. Ret
+paavises, at de civile Ugyldighedsgrunde skulde
+være af materielt stærkere Virkning end de
+prætoriske. Ejheller efter dansk Ret kan den anførte
+Sondring i Alm. opretholdes. De fleste

@@ -1,0 +1,152 @@
+være tør, dels fordi det koster forholdsvis meget
+at afkøle det indtrængende Vand. Rummene
+maa naturligvis ogsaa være omhyggelig
+beskyttede mod Indtrængning af Varme udefra;
+Væggene kan f. Eks. være hule, og Døre og
+Vinduer, hvoraf der bør være saa faa som muligt,
+maa slutte tæt o. s. v., Væggene i saadanne
+Rum males ofte med Emailfarve ell. lgn. Dette
+sker vel til Dels for at gøre dem tætte, mere
+dog af Renlighedshensyn. Jernbanevogne til
+Transport af let fordærvelige Varer kan
+forsynes med smaa K., indrettede efter de ovf.
+angivne Principper, men holdes dog endnu ofte
+kolde ved Is; paa de Skibe, der fører frossent
+Kød, installeres derimod sædvanlig store K.;
+Rummenes Beskyttelse mod
+Varmeindtrængning er der ofte en meget vanskelig Opgave.
+(Ang. <sp>Litt.</sp> henvises dels til de under
+<sp>Kølemaskiner</sp> anførte Værker, dels til spc.
+Haandbøger i Bryggeriteknik, Mælkenbrug
+o. s. v.).
+<i>Fr. V. M.</i>
+</chapter>
+
+<chapter name="Køleapparater">
+<b>Køleapparater</b> kaldes mindre sammensatte
+Indretninger, der anvendes til at bevirke
+Afkøling (se <sp>Kølemaskiner</sp> og
+<sp>Køleanlæg</sp>).
+<i>Fr. V. M.</i>
+</chapter>
+
+<chapter name="Kølebeholdere">
+<b>Kølebeholdere</b> til Afkøling af Vand o. a.
+Drikkevarer laves af porøst Ler i Form af
+Karafler, Krus o. s. v. De kaldes ogsaa
+<sp>Vandkølere</sp> eller <i>alcarrazas</i>, og deres Virkning
+beror paa det under <sp>Afkøling</sp> (S. 235
+nederst) omtalte fysiske Forhold.
+<i>Fr. V. M.</i>
+</chapter>
+
+<chapter name="Kølemaskiner">
+<b>Kølemaskiner</b> (<sp>Kuldemaskiner</sp>,
+ogsaa <sp>Ismaskiner</sp> ell. <sp>Frysemaskiner</sp>)
+kaldes alle mek. Apparater, der har til
+Formaal at berøve et Stof en Del af dets Varme,
+enten for at nedsætte dets Temp. (Kød, Smør
+o. s. v.) ell. for at forandre dets Tilstandsform,
+særlig fra flydende til fast Form
+(Isfremstilling, se <sp>Is</sp>).
+
+Medens Anvendelsen af Kuldeblandinger (s.
+d.) til saadanne Formaal har været kendt i
+adskillige Aarhundreder, er de egl. K. først
+fremkomne i det 19. Aarh.
+
+Den først i Praksis anvendte Type af K. var
+»<sp>Koldluftmaskinen</sp>«, der 1835
+opfandtes af John Gerschel og senere forbedredes af
+forsk. Konstruktører, bl. hvilke særlig
+Windhausen og Bell-Colemann kan fremhæves.
+Koldluftmaskinens Virkning beror paa, at
+sammentrykket Luft ved at udvide sig under
+Udførelse af Arbejde afkøles. Maskinen arbejder
+saaledes, at den i en Kompressionscylinder
+sammentrykker atmosfærisk Luft; denne opvarmes
+ved Sammentrykningen stærkt, men afkøles
+derefter ved Hjælp af Kølevand og ledes saa
+til en Ekspansionscylinder, i hvilken den,
+ganske som Damp i en Dampmaskine, virker paa
+et Stempel og frembringer Arbejde, samtidig
+med at den selv afkøles meget stærkt. Den
+kolde Luft føres endelig til det Rum, som man
+ønsker afkølet. Forskellen mellem det
+Kompressionscylinderen tilførte og det i
+Ekspansionscylinderen atter indvundne Arbejde udgør
+Maskinens Kraftforbrug, der fremskaffes ved
+en Damp- ell. anden Kraftmaskine.
+Koldluftsmaskinerne arbejder — i Forhold til senere
+fremkomne Typer af K. — uøkonomisk og har
+derfor nu nærmest historisk Interesse.
+
+I Aarene omkr. 1860 fremstillede <sp>François
+Carré</sp> i Paris en efter ham benævnt
+<sp>Absorptions-K.</sp>, der hviler paa den Erfaring,
+at Ammoniakdampe med stor Begærlighed
+indsuges (absorberes) af Vand. Lader man derfor
+i en Rørledning — »Fordamper« ell.
+»Refrigerator« — Ammoniak fordampe og bringer
+Dampene i Berøring med Vand, i en Beholder, der
+danner et lukket System med Fordamperen, vil
+Fordampningen vedblive, indtil Vandet er
+mættet med Ammoniak; den til Fordampningen
+nødvendige Varme tager Rørledningen fra sine
+Omgivelser, f. Eks. Saltvand, der altsaa bliver
+afkølede. Ammoniakken er imidlertid for
+kostbar til at kastes bort med Vandet, og den
+genvindes derfor til Brug paa følgende Maade. Det
+ammoniakmættede Vand føres ved en Pumpe
+fra den Beholder, »Absorberen«, hvori det har
+opsuget Ammoniakken, til en »Koger«, hvor det
+opvarmes ved Hjælp af Damprør og afgiver
+største Delen af sit Ammoniakindhold i Form af
+Ammoniakdampe; disse føres til en Fortætter
+(»Kondensator«), et Rørsystem, der ved Hjælp
+at koldt Vand holdes paa en Temp., som ligger
+under Ammoniakkens Kogepunkt ved det
+forhaandenværende Tryk. Ammoniakken bliver da
+flydende, fortættes, og kan gennem en
+»Reguleringsventil« ledes til Fordamperen, hvorefter
+dens Kredsløb fortsættes paa samme Maade.
+Denne Maskintype kræver ikke megen
+Drivkraft — kun til Pumperne — men desto mere
+Varme i Form af Damp til Udkogning af
+Ammoniakken. For at arbejde saa økonomisk som
+muligt lader man det udkogte, altsaa
+ammoniakfattige, men varme Vand fra Bunden af
+Kogeren gaa tilbage til Absorberen; herved undgaar
+man ikke alene Tabet af den Ammoniakrest,
+som endnu er tilbage i det udkogte Vand, men
+man bliver ogsaa i Stand til at lade dette Vand
+afgive en væsentlig Del af sin Varme til det
+»rige« Ammoniakvand, der føres fra
+Absorberen til Kogeren, ved at lade begge disse
+Vædsker passere en »Temperaturudveksler«, der
+bestaar af en Beholder, hvori er anbragt et
+Rørsystem; det svage, men varme Ammoniakvand
+bevæger sig uden om Rørsystemet, medens det
+rige, men koldere Ammoniakvand bevæger sig
+inden i dette. Man vandt ved denne Maskine en
+betydelig bedre Økonomi end ved
+Koldluftmaskinen, og efter at man har konstrueret
+Maskiner, der i Kogeren kan anvende
+Spildedamp fra en Dampmaskine, kan man i visse
+Tilfælde gøre Maskinens Drift ret fordelagtig.
+Alligevel har Absorptionsmaskinerne kun en
+begrænset Udbredelse og anvendes næppe noget
+Sted, hvor store Kuldemængder kræves.
+
+En tredie Type er <sp>Vakuummaskinen</sp>,
+der beror paa, at en Vædskes Kogepunkt
+synker med det Tryk, Vædsken er underkastet.
+Har man saaledes Vand i en Beholder, der ved
+Isolation er beskyttet mod Indtrængen af Varme
+udefra, og tilvejebringer man ved Hjælp af en
+Luftpumpe et lavt Lufttryk i Beholderen, vil
+en Del af Vandet i denne fordampe og Resten
+afkøles saa stærkt, at det bliver til Is.
+Virkningen kan yderligere forstærkes, ved at man
+lader Luftpumpen suge gennem en Beholder
+med Svovlsyre, som med Begærlighed indsuger

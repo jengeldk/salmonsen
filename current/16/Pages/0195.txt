@@ -1,0 +1,147 @@
+en bestemt Bølgebredde, alle Værdier fra 0 til en
+Maksimumsværdi <i>v</i>0, som kun afhænger af
+Bølgebredden, men derimod ikke af den
+indfaldende Lysmængde, Indfaldsvinklen ell.
+Polarisationstilstanden. Retningen af den elektriske
+Kraft i det indfaldende Lys er altsaa uden
+Bet. <i>v</i>0 er uafhængig af Temp. (— 180° til 800°).
+Hastigheden maalt i Volt (<i>V</i>0) er kun lille;
+størst for Alkalimetallerne, naar disse belyses
+med ultraviolet Lys. For Natrium naar den 4
+Volt for λ = 2000 Å. E., men for de fleste
+Stoffer er den mindre. For <i>V</i>0 gælder
+Ligningen: <i>V</i>0 = <i>k v</i> — <i>a</i>0 (I), hvor <i>k</i> er en
+Konstant, uafhængig af Stoffet, <i>a</i>0 en for hvert
+Stof karakteristisk Konstant og <i>v</i> Lysets
+Svingningstal (<i>v</i> = <i>c</i>/λ; <i>c</i> Lysets Hastighed = 3 · 10<sup>10</sup>
+cm/sek. λ Bølgebredden maalt i cm). Dette
+Resultat var forudsagt ved:
+
+e) <sp>Einstein's Teori for L.</sp> Einstein's
+Hovedantagelse er den, at en monokromatisk
+Lysbølges elektromagnetiske Energi afgives til
+Elektronerne i Atomerne i Form af
+Energikvanter = <i>hv</i>, hvor <i>h</i> er Planck's Konstant (se
+<sp>Kvanteteori</sp>). Alle løsrevne Elektroner
+starter altsaa med samme Energi uafhængig af
+Stoffet. Af denne forbruger Elektroner, udløst
+i Overfladen, en for hvert Stof karakteristisk
+Energimængde, ω0 til Løsrivelsesarbejdet og
+Overvindelse af et tiltrækkende Lag paa
+Stoffets Overflade. Disse Elektroner ejer derfor ved
+Udtrædelsen af Fladen Energien <i>h v</i> ÷ ω0 =
+1/2 <i>mv</i>0<sup>2</sup> = 1/300 <i>V</i>0. e (II), hvor <i>V</i>0 har samme
+Bet. som ovf., thi de fra dybere Lag i Pladen
+kommende Elektroner mister Energi paa Vej
+til Overfladen. Skrives Ligning (II) paa Formen:
+<i>V</i>0 = 300 <i>h</i>/<i>e</i> · <i>v</i> — 300 ω0/<i>e</i> fremgaar Identiteten
+med Ligning (I) tydeligt. Af: 300 <i>h</i>/<i>e</i> = <i>k</i>, kan
+Planck's Konstant bestemmes. Man finder <i>h</i> =
+6,50 · 10<sup>—27</sup>, en Værdi, der stemmer godt med
+den ad andre Veje fundne. Af (II) fremgaar, at
+Betingelsen for lyselektrisk Virkning er, at <i>h v</i>
+er større end ω0. Der maa altsaa for ethvert
+Stof være en nedre Grænse for det udløsende
+Lys' Svingningstal, d. v. s. en øvre Grænse for
+Bølgebredden (λ <i>m</i>). Det skal nævnes, at
+Einstein's Ligning (II) ogsaa har vist sig at gælde
+for Elektroner, udløste ved Røntgenstraaler,
+hvis Svingningstal er c. 5000 Gange saa store,
+som de for ultraviolet Lys.
+
+f) <sp>Det lyselektriske Fotometer</sp>
+anvendes til Sammenligning af Lyskilders
+Styrke ved Hjælp af disses lyselektriske Virkning.
+Man gaar ud fra Loven om, at Elektronantallet
+pr Sekund er proportionalt med Belysningen
+paa den virksomme Plade. Principielt er
+Apparatet indrettet som i Figuren, men <i>A</i> har en
+saadan Form, at Nyttevirkningen af det
+indfaldende Lys forøges. <i>A</i> belyses successivt med
+de to Lyskilder, der skal sammenlignes, og
+Mætningsstrømmene maales som omtalt under
+c). Da de lyselektriske Strømme er relativt
+svage, forøger man Følsomheden ved at fylde
+Glasrøret med inaktive Luftarter, Argon eller
+Helium, ved lavt Tryk. Brint kan ikke
+anvendes, da Følsomheden saa ændres med Tiden.
+Spændingen paa <i>B</i> forøges, indtil Elektronerne
+fremkalder Stødionisation (se <sp>elektrisk
+Strøm i Luftarter</sp>), hvorved
+Mætningsstrømmen stiger stærkt. <i>A</i> er beklædt med
+en Hinde af en særlig Modifikation af
+Alkalimetaller, som har vist sig stærkt lyselektrisk
+følsom, hvorved Fotometret kan anvendes for
+saavel synligt som ultraviolet Lys. Med
+Fotometre efter dette Princip har man maalt
+Variationen i Maanens Lysstyrke under
+Maaneformørkelser og sammenlignet Stjerners
+Lysstyrke. Et Fotometer i Forbindelse med en
+Avdionforstærker gav ved Belysning af
+Jupiter en Strømstyrke, der kunde maales paa et
+Visergalvanometer (5 · 10<sup>—6</sup> Amp.). Uden
+Forstærkning var Mætningsstrømmen 5 · 10<sup>—11</sup>
+Ampère.
+
+g) <sp>Særlige lyselektriske
+Fænomener</sp>. Det kendte Forhold, at
+Ledningsevnen for tynde Strimler af Selen vokser ved
+Belysning, skyldes sandsynligvis, at Lyset frigør
+langsomme Elektroner, der medvirker ved
+Strømmens Ledning. I godt ledende Stoffer er
+Antallet af fri Elektroner i Forvejen saa stort,
+at Lysets Virkning ikke mærkes. Ogsaa
+Fosforescens er af lyselektrisk Oprindelse, idet
+Lyset løsriver Elektroner fra visse Atomer i
+det fosforescerende Stof. I Mørket indfanger
+Atomerne igen Elektroner fra Omgivelserne
+og binder dem under Udsendelse af Lys.
+(<sp>Litt</sp>.: En sammenfattende Fremstilling af L.
+til 1915 er givet af Hallwachs i: Marx:
+»Handbuch der Radiologie«, Bd III [1916]. En
+Oversigt over den senere Udvikling til 1922 har G.
+Wiedmann givet i »Jahrbuch d. Radioaktivität
+u. Elektronik«, Bd 19, S. 113—139 [1922].
+Endvidere kan nævnes: <sp>H. Stanley Allen</sp>,
+<i>Photoelectricity</i> [London 1913]; <sp>R. Pohl</sp> und
+<sp>P. Pringsheim</sp>, »Die lichtelektrischen
+Erscheinungen« [Braunschweig 1914]).
+<i>Johannes Olsen.</i>
+</chapter>
+
+<chapter name="Lysen Bredning">
+<b>Lysen Bredning,</b> Limfjorden, en Vig, der
+fra Salling Sund skærer sig ind i Vestkysten af
+Salling og har Dybder paa 6 à 8,4 m Vand,
+som findes i Indløbet til Harre Vig,
+Bredningens inderste Del; derfra aftager Dybden.
+<i>G. F. H.</i>
+</chapter>
+
+<chapter name="lysende Evne">
+<b>lysende Evne,</b> se <sp>Lysorganer</sp>.
+</chapter>
+
+<chapter name="lysende Organer">
+<b>lysende Organer,</b> d. s. s. <sp>Lysorganer</sp>.
+</chapter>
+
+<chapter name="lysende Projektiler">
+<b>lysende Projektiler,</b> udskudt af <sp>Kanoner</sp>,
+tjener enten til at oplyse det fjendtlige
+Terrain, som beskydes, ell. til at muliggøre
+Skydning, ved hvilken det er af Bet., at Projektilet
+er synligt i Banen, f. Eks. Skydning i Mørke
+mod Skibe paa mindre Afstande, ell., navnlig
+tidligere, Skydning mod Luftfartøjer,
+fortrinsvis gasfyldte Luftskibe, hvis Gas den
+brændende Lyssats da samtidig havde til Formaal
+at stikke i Brand. Satsen indeholder i Reglen
+Magnium ell. Aluminium. Udskudt af
+<sp>Haandvaaben</sp> tjener det l. P. udelukkende til
+Synliggørelse af Projektilbanen, hvilket er vigtigt
+ved Kamp mellem Flyvere, der beskyder
+hinanden med Maskingeværer. Hvert 5. ell. 10.
+Projektil i Skudrækken er da lysende,
+saaledes at Flyveren kan se, om han retter sit
+Maskingevær rigtigt ind mod Modstanderen.

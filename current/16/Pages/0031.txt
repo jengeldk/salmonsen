@@ -1,0 +1,135 @@
+afvigende Skeletbygning, hos Hvaløglerne
+(Ichthyosaurerne).
+<i>R. Hg.</i>
+</chapter>
+
+<chapter name="Luft ell. Gas">
+<b>Luft</b> ell. <sp>Gas</sp> kalder man et Stof, der har
+Evne til ubegrænset Udvidelse uden at forandre
+Tilstandsform og altsaa fylder ethvert Kar, hvori
+det findes, helt. L. er flydende, viser, modsat
+Vædsker og faste Legemer, ingen
+Sammenhængskraft og har aldrig nogen fri Overflade.
+Ved Trykforandringer og konstant Temp. følger
+L. inden for vide Grænser med stor Tilnærmelse
+<sp>Boyle</sp>'s (Mariotte's) Lov, der siger, at
+Produktet af Tryk og Rumfang er konstant. Ved
+Temperaturforandringer og konstant Tryk
+gælder paa lgn. Maade <sp>Gay-Lussac</sp>'s Lov, at
+alle Luftarter har samme konstante
+Udvidelseskoefficient (1/273), ɔ: at naar en Luftmasses
+Rumlang ved ∞ er <i>V<sub>0</sub></i>, saa vil den ved <i>t</i>° være
+<i>v</i> = <i>V<sub>0</sub></i> (1 + 1/276 t). F. Eks. 273 l L., hvis
+Temp. er 0°, vil, naar de opvarmes til 27° fylde
+300 l, idet L. for hver Grads Opvarmning
+udvider sig 1/273 af sit Rumfang ved 0°. Ved 100°
+vil den fylde 373 l, og ved 273° vil dens
+Rumfang være dobbelt saa stort som ved 0°. Boyle's
+og Gay-Lussac's Love kan sammenfattes i en
+enkelt Sætning, L.'s Tilstandsligning,
+
+<i>pv</i> = <i>RT</i>,
+
+hvor <i>p</i> betyder en given Luftmasses Tryk paa
+Fladeenheden, <i>v</i> samme Luftmasses Rumfang
+og <i>T</i> dens absolutte Temp., ɔ: Temp. efter
+Celsius-Termometeret plus 273°. <i>R</i> er et konstant
+Tal for hver Luftart. Regner man Trykket i
+Kilograms Vægt pr. Kvadratmeter, Rumfanget
+i Kubikmeter, og lader man Ligningen gælde
+for 1 kg atmosfærisk Luft, vil <i>R</i> være 29,27
+mkg. Ved 0° og 760 mm Barometerstand er
+<i>p</i> nemlig 10333 kg pr. m<sup>2</sup>, <i>v</i> (Volumen af 1
+kg L.) 0,773 m<sup>3</sup>, og <i>T</i> = 273, hvoraf
+Værdien for <i>R</i> følger. For en Luftart, hvis
+Vægtfylde er <i>d</i> Gange saa stor som den
+atmosfæriske L.'s, vil <i>R</i> være <i>d</i> Gange saa lille.
+Lader man Tilstandsligningen gælde, ikke for
+en bestemt Vægt, men for et Grammolekyl (s.
+d.), faar <i>R</i> tilnærmelsesvis samme Værdi
+(»Gaskonstanten«) for alle Luftarter og beregnes til 0,848
+mkg ell. 1,985 Gramkalorier. T behandles her
+som et rent Tal, d. v. s. som Forholdet mellem
+den absolutte Temp. og 1° C. Boyle's og
+Gay-Lussac's Love er særlige Tilfælde af L.'s
+Tilstandsligning, idet man ved den første
+forudsætter Temp., ved den sidste Trykket konstant.
+Holdes Rumfanget <i>v</i> konstant, vil Trykket <i>p</i>
+være proportionalt med den absolutte Temp.,
+ganske som <i>v</i> vil være det, naar <i>p</i> holdes
+konstant. Et andet, særlig vigtigt Tilfælde er det,
+at L. under en Rumfangsforandring hverken
+afgiver ell. modtager Varme, at den altsaa
+forholder sig, som om den befandt sig i et Kar,
+der slet ikke leder Varmen. Saaledes bliver
+Forholdet tilnærmelsesvis, naar en Luftmasse
+forandrer sit Rumfang saa <sp>hurtig</sp>, at den
+under Forandringen ikke kan komme til at
+udveksle en kendelig Varmemængde med sine
+Omgivelser — ell. naar disse netop forandrer
+deres Temp. paa samme Maade som den
+betragtede Luftmasse, saa der ingen
+Temperaturforskel opstaar. I saa Fald vil Tryk og Rumfang
+være forbundne ved <sp>Poisson's Lov</sp>, der
+siger, at Produktet <i>pv<sup>n</sup></i> er konstant, <i>n</i> er her
+et Tal, der for atmosfærisk L., Ilt, Brint,
+Kvælstof og nogle mindre almindelige
+Luftarter er omtrent 1,405. Af denne Lov følger,
+at naar en af de nævnte Luftarter pludselig
+sammenpresses, vil dens Tryk stige langt
+stærkere end efter Boyle's Lov, idet der nemlig med
+Sammenpresningen følger en stærk
+Opvarmning. Af L.'s Tilstandsligning og Poisson's Lov
+kan man udlede tre Ligninger, der kan skrives
+<i>p</i><sub>2</sub>/<i>p</i><sub>1</sub> = (<i>v<sub>1</sub></i>/<i>v<sub>2</sub></i>)<sup><i>n</i></sup>; <i>T</i><sub>2</sub>/<i>T</i><sub>1</sub> = (<i>v<sub>1</sub></i>/<i>v<sub>2</sub></i>)<sup><i>n—1</i></sup>; <i>T</i><sub>2</sub>/<i>T</i><sub>1</sub> = (<i>p<sub>1</sub></i>/<i>p<sub>2</sub></i>)<sup><i>n—1</i></sup> <i>n</i>,
+hvor <i>p<sub>1</sub></i>, <i>v<sub>1</sub></i> og <i>T<sub>1</sub></i> er Luftmassens Tryk,
+Volumen og absolutte Temp. ved Beg. af en
+Forandring, der foregaar uden Varmeudveksling,
+med Omgivelserne (adiabatisk Forandring), <i>p<sub>2</sub></i>,
+<i>v<sub>2</sub></i> og <i>T<sub>2</sub></i> de samme Størrelser ved denne
+Forandrings Slutn. Hvis f. Eks. 1 m<sup>3</sup> L., hvis Temp.
+er 27°, og hvis Tryk er en Atm.,
+sammentrykkes hurtig til Tyvendedelen af sit Rumfang, vil
+dens Temp. stige til 736,5°, og dens Tryk til 67,3
+Atm, medens det ved Sammentrykning ved
+konstant Temp. (isotermisk Forandring) kun vilde
+være naaet op til 20 Atm. Har man omvendt 1/20
+m<sup>3</sup> L., hvis Tryk er 20 Atm., og hvis Temp. er
+27°, og den hurtig udvider sig til Trykket kun
+er 1 Atm., vil Temp. synke til ÷ 146,4°, og
+Rumfanget naar kun op til 0,422 m<sup>3</sup> p. Gr. a. den
+lave Temp. Til den førstnævnte
+Sammentrykning maa man anvende et Arbejde paa over
+50000 mkg (foruden det, den ydre L. udfører),
+medens L. ved den sidstnævnte Udvidelse knap
+udfører 11000 mkg. Var baade Udvidelsen og
+Sammentrykningen sket ved konstant Temp.,
+vilde Arbejdet i begge Tilfælde være lidt over
+21000 mkg. Disse Tal viser, at L. kan optage og
+atter afgive (om end i Praksis med betydelige
+Tab) store Energimængder, og man har derfor
+benyttet sammenpresset L. som Drivkraft til
+Sporvogne og paa andre Maader, men denne
+Anvendelse har nu mindre Interesse, da den
+som Regel ikke kan konkurrere med elektrisk
+Kraftoverførelse. Heller ikke for den store
+Temperaturforandring, der kan frembringes ved
+Sammenpresning ell. Udvidelse af L., har man
+megen Anvendelse, da man har billigere Midler
+til Frembringelse af Varme, og Fordampning af
+flygtige Vædsker som Regel er at foretrække
+ved Kølemaskiner (s. d.). Derimod spiller disse
+Temperaturforandringer en særdeles vigtig
+Rolle i Atm. Stiger en Luftmasse nemlig opad,
+kommer den under mindre Tryk, den udvider
+sig og afkøles derfor i Overensstemmelse med
+Poisson's Lov, hvis der ingen Dampfortætning
+fremkaldes ved Afkølingen. Det kan vises, at
+denne Afkøling da vil beløbe sig til 1° for hver
+101 m, L. stiger, ligegyldigt, i hvilken Højde
+den befinder sig, ell. hvilken Temp. den har.
+Omvendt vil en Sænkning paa 101 m fremkalde
+en Temperaturstigning paa 1°. Dette er den
+eneste sikkert kendte Aarsag til Temp.'s
+Aftagen opad. Om den atmosfæriske Luft se
+<sp>Atmosfære</sp> og <sp>Lufthavet</sp>.

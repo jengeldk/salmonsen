@@ -1,0 +1,136 @@
+(1821) fandt, at ikke alle dobbeltbrydende
+Krystaller forholdt sig som Kalkspat, men at D. i
+mange var langt mere indviklet; den nærmere
+Teori for D. blev da givet af <sp>Fresnel</sp>. - De
+gennemsigtige Stoffer, der ikke viser D. (de
+optisk isotrope), er de ikke-krystallinske (amorfe)
+Stoffer og af Krystallerne dem, der hører til det
+regulære System (se <sp>Krystalsystemer</sp>).
+I dem forplanter Lys sig fra ethvert Punkt med
+nøjagtig samme Hastighed i alle Retninger, saa
+at alle Retninger er lige gode. De
+dobbeltbrydende Krystaller, hvis D. har samme simplere
+Karakter som Kalkspats, er de optisk
+<sp>enaksede</sp>; i dem er der een Retning, der i optisk
+Henseende udmærker sig for de øvrige. Optisk
+enaksede er Krystallerne af de Systemer (det
+tetragonale og heksagonale), der ogsaa har en
+krystallografisk Akse, som udmærker sig for de
+øvrige (Eks. Kvarts, Turmalin). Resten af
+Krystallerne (af det rombiske, monokline og
+trikline System) er i Reglen optisk <sp>toaksede</sp>
+(Eks. Gips, Glimmer); i dem følger i Alm. ingen
+af de to Straaler, hvori en indfaldende spaltes,
+den sædvanlige Brydningslov. Huygens viste, at
+D. i de enaksede Krystaller forklares ved at
+antage, at de to Straaler inde i Krystallen
+forplanter sig med forsk. Hastighed, saaledes at
+Hastigheden for den ekstraordinære afhænger
+af dens Retning. Tænker man sig i Krystallens
+Indre et Lyspunkt, der udsender Lys til alle
+Sider, vil Bølgefladerne (ell. hellere
+Straalefladerne) om dette Punkt, nemlig de Flader,
+der kan lægges gennem alle de Punkter,
+hvortil Lysbevægelsen samtidig er naaet ud, være
+for den ordinære Straale en Kugleflade om
+Punktet som Centrum og for den ekstraordinære
+en Omdrejningsellipsoide, hvis Akse er lig
+Kuglens Diameter, saa at den rører Kuglefladen
+enten udvendig ell. indvendig. (For et ikke
+dobbeltbrydende [isotropt] Stof vilde Straalefladen
+naturligvis kun være en Kugleflade om
+Lyspunktet som Centrum). Den fælles Diameter,
+der forbinder Røringspunkterne mellem
+Kuglefladen og Ellipsoiden, er Krystallens optiske
+Akse. Denne er en fast Retning i Krystallen,
+saa at de optiske Akser for ethvert Lyspunkt
+er parallelle. For Kalkspat, der let lader sig
+spalte til et Romboeder, er den optiske Akse
+parallel med Forbindelseslinien mellem de to
+af Romboedrets Hjørner, der har 3 stumpe
+Vinkler. I Retning af den optiske Akse
+forplanter de to Straaler sig altsaa med samme
+Hastighed; i alle andre Retninger har de to
+Straaler forsk. Hastighed, mest i Retning vinkelret
+paa Aksen. Rører Ellipsoiden Kuglen udvendig,
+saa at Ellipsoiden er fladtrykt, er den
+ekstraordinære Straales Hastighed altid større end
+den ordinæres; Krystallen kaldes da negativ
+{Kalkspat). Ligger Ellipsoiden helt inde i
+Kuglen, saa at den ekstraordinære Straales
+Hastighed er mindre end den ordinæres, kaldes
+Krystallen positiv (Kvarts). I en Plan vinkelret paa
+Aksen, hvilken Plan skærer de to Straaleflader
+i to koncentriske Cirkler, følger begge Straaler
+den alm. Brydningslov, men med to forsk.
+Brydningsforhold, der kaldes Krystallens
+Hovedbrydningsforhold. Disse er (for Natriumlys) for
+Kalkspat 1,658 (ord.) og 1,486 (ekstraord.) og for
+Kvarts 1,544 (ord.) og 1,553 (ekstraord.). Kendes
+Hovedbrydningsforholdene, kan Straalefladerne
+konstrueres og derved igen de til enhver
+indfaldende Straaleretning hørende to brudte
+Straaler. Den ekstraordinære bliver som nævnt i
+Alm. ikke i Indfaldsplanen, og den falder i
+Alm. ikke sammen med den tilhørende
+Bølgenormal. De to Straaler er begge plant
+<sp>polariserede</sp> med Svingningsretninger vinkelret
+paa hinanden. Svingningsretningen angives i
+Forhold til Hovedsnittet, en Plan gennem
+Straalen og den optiske Akse; for den ordinære
+Straale er Svingningsretningen vinkelret paa
+Hovedsnittet, for den ekstraordinære parallel
+med Hovedsnittet (se <sp>Polarisation</sp>). - I
+de toaksede Krystaller med den mere
+indviklede D. er Straalefladerne i St f. en Kugle og
+en Ellipsoide en toskaalet Flade. Her kan ikke
+skelnes mellem en ordinær og en ekstraordinær
+Straale; snarere er begge de Straaler, hvori en
+indfaldende i Alm. deles, ekstraordinære, idet
+de ikke følger den alm. Brydningslov, og ingen
+af Straalerne i Alm. falder sammen med den
+tilsvarende Bølgenormal. De er, som i de
+enaksede Krystaller, polariserede med
+Svingningsretninger vinkelret paa hinanden. Der gives i de
+toaksede Krystaller to Retninger (de to optiske
+Akser), i hvilke de to Bølger forplanter sig
+med samme Hastighed, og i samme Plan som
+disse optiske Akser to andre Retninger, i hvilke
+de to Straaler forplanter sig med samme
+Hastighed; disse Retninger kaldes undertiden
+Straaleakserne. I de 3 paa hinanden vinkelrette
+optiske Symmetriplaner for en toakset Krystal
+følger en af de to Straaler den alm.
+Brydningslov; man faar derfor 3 Hovedbrydningsforhold
+for en toakset Krystal, saaledes (for
+Natriumlys) for Gips 1,530, 1,523 og 1,520, for ostindisk
+Glimmer 1,600, 1,594 og 1,561 og for Arragonit
+1,686, 1,682 og 1,530. Straalefladens særlige Form
+betinger, at der i de toaksede Krystaller
+optræder de mærkværdige Fænomener, der benævnes
+<sp>konisk Refraktion</sp>. Til en Straale, der
+inde i Krystallen følger en af Straaleakserne,
+hører der uden for Krystallen uendelig mange
+Straaleretninger, fordelte over en Kegleflade
+(ydre konisk Refraktion), og omvendt er der
+to bestemte Retninger af den indfaldende
+Straale, hvortil der inde i Krystallen hører uendelig
+mange Straaleretninger, fordelte over en
+Kegleflade, der indeholder en af de optiske Akser
+(indre konisk Refraktion). Disse Fænomener var
+forudsagte og beskrevne af <sp>Hamilton</sp>, før
+de blev iagttagne af <sp>Lloyd</sp>. De vises bedst ved
+Arragonit, hvor Kegletopvinklen har en rimelig
+Størrelse. - Ikke dobbeltbrydende faste
+Stoffer bliver dobbeltbrydende, naar der fremkaldes
+Spændinger i dem, saaledes Glas, naar det
+underkastes Tryk ell. bøjes ell. opvarmes
+uensartet; denne D. er i Reglen ret svag. Varig D.
+fremkaldes i Glas ved hurtig Afkøling, hvorved
+der opstaar blivende Spændinger. D. bliver her
+meget indviklet, da den er ulige stærk paa
+forskellige Steder i Glasset. Vædsker kan gøres
+dobbeltbrydende ved at anbringes i et stærkt
+elektrisk Felt (elektrooptisk Kerr-Effekt, se
+<sp>Elektrooptik</sp>). Til Undersøgelse af, om et Legeme
+er dobbeltbrydende, bruges de forsk.

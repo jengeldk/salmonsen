@@ -1,0 +1,142 @@
+Lens Regiment, 1781 Chef for Savolaks-Brigaden.
+Han var uden Tvivl i Besiddelse af militær
+Duelighed, men var letsindig og karakterløs.
+Paa Rigsdagen 1786 var han en af Lederne for
+Gustaf III's Tilhængere i Ridderhuset. I Krigen
+1788 beordredes H. til først at gaa over
+Grænsen og belejrede Nyslott. Det foregivne russ.
+Anfald ved Pumala, der skulde give officiel
+Anledning til Krigen, var ganske sikkert paa
+Gustaf III's Befaling arrangeret ved H. selv.
+Anjala-Forbundet indvirkede paa Aanden og
+Sindsstemningen inden for H.'s Afdeling, og H.
+havde ej heller nogen formelig Befaling fra
+Kongen til at rykke frem. Han gik derfor
+tilbage, men befandt sig nu i en ubehagelig
+Mellemstilling, udsat baade for Kongens og
+Oppositionens Mishag. Han tog da sit Parti og
+nærmede sig Russerne. Han traadte i Forbindelse
+med den i russ. Tjeneste overgaaede
+Sprengtporten, vilde gaa i russ. Tjeneste og indtil
+videre arbejde paa Finlands Adskillelse fra
+Sverige. H.'s Tilbud mødte dog ikke den
+ønskede Modtagelse, og han søgte da at holde sig
+Tilbagegangen til Gustaf III og dennes Tjeneste
+aaben. Han blev imidlertid 1790 dømt til Døden,
+men blev benaadet, rejste udenlands og blev
+virkelig til sidst russ. Brigader.
+<i>A. S.</i>
+</chapter>
+
+<chapter name="Hastighed">
+<b>Hastighed.</b> Et Legemes H. i et givet Øjeblik
+maales ved den Vej, det vilde tilbagelægge i
+hver Tidsenhed, om dets H. ikke forandredes.
+Dets Gennemsnitshastighed i en given Tid faar
+man ved at dividere den tilbagelagte Vej med
+det Antal Tidsenheder, der er forløbet. I det
+flg. nævnes nogle Eksempler paa H., angivne i
+m pr Sek. G. bet. Gennemsnitshastighed.
+<table>
+<td>Spidsen af Timeviseren paa et alm. Lommeur<td r>0,000002
+<td>Spidsen af Sekundviseren paa et alm. Lommeur<td r>0,00075
+<td>En rask Fodgænger<td r>2
+<td>Alm. Dampskibsfart<td r>c. 6
+<td>Hurtigste Rejse over Atlanterhavet før Verdenskrigen<td r>13,4
+<td>Iltog mellem Kjøbenhavn og Korsør (G. 1918)<td r>15
+<td>Store Oceanbølger (G.)<td r>c. 15
+<td>Brevduer<td r>indtil 28
+<td>Storm og høj Iltogsfart<td r>20—35
+<td>Orkan<td r>over 35
+<td>Lydens H. i Luft ved 0°<td r>332
+<td>Et Punkt af Ækvator paa Grund af Rotationen<td r>465
+<td>Moderne Geværprojektilers Begyndelseshastighed<td r>6—900
+<td>Lydens H. i Vand ved 8°<td r>1435
+<td>Jorden i sin Bane om Solen<td r>30000
+<td>Lyset<td r>300000000
+</table>
+
+(Se for øvrigt Bevægelse).
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Hastighedsmaaling">
+<b>Hastighedsmaaling.</b> Til Maaling af
+Hastigheder har man en saa stor Mængde
+forskelligartede Metoder, at der her kun kan gives en
+alm. Oversigt. Opgaven bliver nemlig forsk.
+efter Hastighedens Art og efter den Tings
+Beskaffenhed, hvis Hastighed skal maales. En
+meget alm. Metode er den, at man maaler den
+gennemløbne Vej og den anvendte Tid og deraf
+beregner Gennemsnitshastigheden for hele
+Vejen. Hvis f. Eks. et Iltog bruger 2 Timer til
+108 km, er Gennemsnitshastigheden 54 km i
+Timen ell. 15 m i Sek. Men er der
+Standsninger undervejs, bliver Gennemsnitshastigheden
+under selve Farten større, og da Farten ikke
+altid er lige stærk, maa Maksimumshastigheden
+være endnu større. — Man bestemmer paa lgn.
+Ma.ade Hastigheden ved Væddeløb, Kapsejlads,
+Dampskibes Prøveture o. s. v., idet man maaler
+den Tid, der anvendes for at tilbagelægge en
+udmaalt Bane. Sætter man Drivhjulsakslen paa
+et Lokomotiv i Forbindelse med et Tælleværk
+og paa dette aflæser det Antal Omdrejninger,
+Hjulet gør i et kortere Tidsrum, kan man
+beregne Hastigheden i dette Tidsrum, idet hver
+Omdrejning fører Toget et Stykke frem, der
+er lig Hjulets Omkreds. Ved store Hastigheder
+volder Tidsmaalingen særlige Vanskeligheder.
+Et Kanonprojektils Hastighed i Nærheden af
+Kanonmundingen kan maales ved Hjælp af et
+Antal Metaltraade, der i forsk., nøje udmaalte
+Afstande er spændte tværs over Projektilets
+Vej. Hver Gang en Traad sprænges, afbrydes
+en elektrisk Strøm, som føres gennem den, og
+man kan herved opnaa at faa et Mærke afsat
+paa en Genstand, der bevæger sig med kendt
+Hastighed (et faldende Legeme, en roterende
+Valse ell. Skive). Mærket kan frembringes ved
+elektromagnetisk Udløsning af en Spids, ved en
+Induktionsgnist ell. ved Strømmens Virkning
+paa en Lysstraale (magnetisk Drejning af
+Polarisationsplanet) i Forbindelse med
+Fotografering paa en roterende Skive. I sidste
+Tilfælde forløber der kun en aldeles umærkelig
+kort Tid mellem Traadens Sprængning og
+Mærkets Anbringelse, hvorfor Metoden er særlig
+fin. Af Mærkernes indbyrdes Afstande beregnes
+de Tider, Projektilet har brugt for at naa fra
+den ene Traad til den anden. —
+Vindhastigheder maales med et Anemometer (se
+<sp>Vindmaaling</sp>), og Hastigheden af Vandet i
+Floder kan bestemmes ved Iagttagelse af en
+Genstand, der flyder paa Overfladen, og som kan
+være i Forbindelse med et nedsænket Legeme,
+naar det er Hastigheden i dybere Lag, der skal
+maales. Om Maaling af en Stjernes Hastighed
+i Synsretningen, se <sp>Doppler Effekt</sp>. Om
+H. for <sp>Lyd</sp> og <sp>Lys</sp>, s. d. Art. — Undertiden
+benytter man et Legemes mek. Virkninger til
+H., saaledes som naar man skyder et Projektil
+ind i en ophængt Klods (ballistisk Pendul) og
+beregner dets Hastighed af Klodsens Udsving
+samt Klodsens og Projektilets kendte Masser.
+— Til Maaling af en Akses
+Omdrejningshastighed anvendes et <sp>Gyrometer</sp>. <sp>Braun</sp>'s
+Gyrometer bestaar af et lodret, i begge Ender
+lukket Glasrør, som er delvis fyldt med
+Vædske. Røret sættes i Rotation om sin egen
+lodrette Akse ved at forbindes med den
+Maskindel, hvis Omdrejningshastighed skal maales, og
+herved faar Vædskeoverfladen Form af en
+Paraboloide, hvis laveste Punkt ligger desto
+dybere, jo hurtigere Rotationen er. Mærker paa
+Glasset tillader Aflæsning af den øjeblikkelige
+Rotationshastighed. (Smlg. hermed: <sp>K. Prytz</sp>,
+»Metoder til korte Tiders, især Rotationstiders
+Udmaaling« [»Vidensk. Selsk. Skr«, 6. Rk.,
+naturvidenskabelig og mat. Afd. VII, 2]).
+<i>K. S. K.</i>
+</chapter>

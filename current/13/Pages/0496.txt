@@ -1,0 +1,138 @@
+Omdannelser ledsagede af Udsendelse af
+β-Partikler, har Atomet derved faaet samme Ladning
+og kemiske Egenskaber, som det før havde,
+men en Masse, der er 4 mindre. Der er altsaa
+dannet et med det første isotopt Stof. Da
+imidlertid langtfra alle Atomvægte er delelige med
+4, maa der være andre Bestanddele i Kernen
+end α-Partikler og Elektroner. Efter
+Rutherford's nyeste Undersøgelser, hvorved
+Atomkerner af ikke-radio aktive Stoffer skydes i
+Stykker af α-Straaler, indeholder Atomkernerne
+ogsaa Brintkerner. Den simpleste Antagelse
+vilde aabenbart være, at Brintkernen og
+Elektronen er de primære Bestanddele, hvoraf alt
+Stof, altsaa ogsaa Heliumkernen, er opbygget.
+Herimod kunde det synes at stride, at Brinten
+i Modsætning til de andre Atomer afviger
+kendeligt fra Loven om de hele Atomvægte. Hvis
+de andre Atomers Kerner er sammensat af
+Brintkerner, der er bundet sammen ved
+Kerne-Elektronernes Tiltrækning, maa Brintkernen i
+bunden Tilstand have en lidt mindre Masse,
+end naar den er fri. Men en Ændring i Massen
+i denne Retning maa netop ventes ud fra den
+af Einstein viste Proportionalitet mellem
+Energi og Masse, idet Brintkernens Energi maa
+være mindre i den bundne Tilstand end i den
+fri. Der behøver derfor heri ikke at være noget,
+der taler mod Antagelsen af Brintkernen og
+Elektronen som Urmaterien.
+
+<sp>Kanalstraaler nes Lys og dets
+Dopplereffekt</sp>. Lyset fra K. viser
+Spektret af den Luftart, der findes i Røret, dog er
+det ofte simplere end Katodelysets
+Spektrum. I Ilt f. Eks. er dette et Baandspektrum,
+medens K. giver et Liniespektrum bestaaende
+af kun fire Linier. En særlig Interesse har
+Lystet fra K. faaet ved, at det i mange Tilfælde
+viser Dopplereffekt. Naar en Lysgiver nærmer
+sig en Iagttager, vil dens Spektrum være lidt
+forskudt i Retning af de korte Bølgelængder;
+en Bevægelse bort fra Iagttageren vil give en
+Spektralforskydning i modsat Retning.
+Udsender Lysgiveren Lys af Bølgelængden λ, naar den
+er i Hvile i Forhold til Iagttageren, vil
+Forskydningen Δλ blive lig —<i>v</i>/+<i>c</i> λ, naar <i>v</i>
+betegner Hastigheden, hvormed Lysgiveren nærmer
+(—) ell. fjerner (+) sig fra Iagttageren, og <i>c</i>
+er Lysets Hastighed. Man kan altsaa ved at
+maale Forskydningen Δλ beregne Lysgiverens
+Hastighed <i>v</i>. At der kommer Dopplereffekt ved
+K., viser, at Lyset maa komme fra selve de
+bevægede Kanalstraaledele. For at faa
+Dopplereffekten frem maa K. betragtes i deres
+Bevægelsesretning; stilles Spektroskopet vinkelret
+paa denne, ser man Spektrallinierne paa deres
+sædvanlige Plads. Fig. 8 viser en fotografisk
+Optagelse i en stærk spredende Spektrograf af
+Dopplereffekten ved den blaa Brintlinie (Hγ).
+Den fine Linie til højre i Fig. er den normale
+Linie, den saakaldte »hvilende« Linie; dens
+Tilstedeværelse hidrører fra, at K. er i Stand til
+at bringe den Luftart, de gaar igennem, til at
+lyse. Den tykke Linie til venstre er den
+»bevægede« Linie, Dopplerstriben. Foran hver
+Optagelse er angivet Katodespændingen i Volt. Jo
+større denne er, desto større bliver K.'s
+Hastighed og dermed Dopplerforskydningen. Af
+Dopplerstribens relativt store Bredde kan man
+slutte, at der maa være meget forsk.
+Hastigheder i Straalen, hvad der stemmer overens
+med Resultatet fra Afbøjningsforsøgene. For at
+give en Forestilling
+om Størrelsen af
+Forskydningen skal
+anføres, at den længst
+bortliggende Kant af
+Dopplerstriben
+ligger ved 1200 Volts
+Katodespænding c. 6
+Ångström'ske
+Enheder (=
+Natriumliniernes Afstand)
+fjernet fra den hvilende
+Linie, hvad der
+svarer til en Hastighed
+af c. 500 km pr Sek.
+Denne Hastighed vil
+man ogsaa finde,
+naar man beregner,
+hvor stor en
+Hastighed et positivt
+ladet Brintatom
+vil faa ved at
+gennemløbe Katodespændingen. Ved
+nøjere Undersøgelse af Sværtningen i
+Brintliniernes Dopplerstriber finder man (hvad der
+ikke ses i Afbildningen her), at den ikke er
+ensartet, men viser to, undertiden tre Maksima,
+svarende til Hastigheder, der forholder sig som
+1:√1/2:√1/3. Disse Hastigheder maa altsaa være
+særlig stærkt repræsenterede i Brintstraalen.
+Efter de Oplysninger, som Afbøjningsforsøgene
+giver, maa dette sandsynligvis forklares ved, at
+de paagældende lysende Partikler har faaet
+deres Hastighed ved at passere Katodefaldet
+henh. som +H<sub>1</sub>, +H<sub>2</sub> og +H<sub>3</sub>. Den sidste
+Forbindelse er først iagttaget af J. J. Thomson og
+findes ikke sjældent i K. En anden
+Ejendommelighed ved Brintliniernes Dopplerstribe er, at
+den ikke forskyder sig længere end til, hvad
+der svarer til en Katodespænding paa 12000
+Volt. Fra Afbøjningsforsøgene ved man, at
+Brint-Kanalstraalerne godt kan have større
+Hastighed, men saadanne Straaler udsender
+altsaa intet Lys. Derimod bringer ogsaa de de
+hvilende Molekyler til at udsende Lys.
+
+Man har ved Forsøg med K. søgt at faa
+Klarhed over, om Atomerne under Lysudsendelsen
+er elektrisk ladede ell. neutrale. Nogen
+Afgørelse af Spørgsmaalet kan dog ikke siges at
+være naaet. Udsætter man en Brint-Kanalstraale
+for et stærkt magnetisk Felt, vil selve den
+lysende Straale ikke flytte sig, i Modsætning til
+Fluorescenspletten paa Glasvæggen. Dette var
+Grunden til, at Goldstein ansaa K. for
+upaavirkelige af Magnetfeltet. Fænomenet forklares
+naturligst ved at antage, at Brintspektret
+udsendes af neutrale Atomer, hvad der stemmer
+overens med den Bohr'ske Teori for dets
+Opstaaen. Den afbøjede Straale af positive Ioner
+vil imidlertid efterhaanden ved Omladning
+ogsaa faa neutrale Dele i sig og vil derfor begynde
+at lyse i større ell. mindre Afstand fra, hvor
+
+<img>Fig. 8</img>

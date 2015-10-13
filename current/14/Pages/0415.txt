@@ -1,0 +1,129 @@
+Ved Lokomotiver maa der gives Afkald paa
+Kondensation, da man ikke kan medføre den
+store Mængde Kølevand, der vilde udkræves.
+
+Hvor stor Besparelse, Kondensationen
+medfører, beror noget paa, hvor stort Tryk Dampen
+kommer med fra Kedlen, men selv ved stort
+Tryk er Besparelsen ingenlunde ubetydelig.
+
+I Dampmaskinens første Tid, da
+Kedeltrykket kun var lidt over Atmosfærens, var
+Kondensation absolut <sp>nødvendig</sp> for
+overhovedet at faa en Trykforskel paa Stemplet. Senere,
+da man gik over til højere Kedeltryk, blev
+Kondensationsapparatet udeladt som overflødigt, og
+i en vis Periode var Betegnelsen
+Højtryksmaskine ensgældende med Maskine uden
+Kondensation, medens K. var det samme som
+Lavtryksmaskiner. Man var tilbøjelig til at
+undervurdere Bet. af den Besparelse, som
+Kondensationen medfører, skønt denne er ganske væsentlig,
+selv om Kedeltrykket er højt. Det laa nær at
+raisonnere saaledes: Naar Dampen tilføres med
+10 Atm.'s Tryk, og Spildedampen stødes ud
+med 1 Atm., saa er det dog kun 1/10 af det
+drivende Tryk, der tabes. Men denne Betragtning
+er aldeles falsk. Om ogsaa Dampen begynder
+med 10 Atm.'s Tryk, saa synker dette Tryk
+snart, medens Dampen virker paa Stemplet,
+men samtidig udvider Dampen sig
+(ekspanderer), saa Rumfanget vokser næsten i samme
+Forhold, som Trykket synker og denne
+Rumfangsforøgelse opvejer saaledes
+Trykformindskelsen, at det er en ganske væsentlig Del af
+Arbejdet, som afgives netop ved de lave Tryk
+og store Rumfang.
+
+Nu bygger man derfor alle store
+Dampmaskiner, hvor det gælder Dampbesparelse, ikke
+blot med højt Kedeltryk, men tillige som K., f.
+Eks. Dampskibsmaskiner, og ligeledes
+Landmaskiner, hvor man blot nogenlunde let kan
+tilvejeskaffe det fornødne Kølevand. Hvor dette
+kun er sparsomt til Stede, benyttes det samme
+Vand fl. Gange og bliver efter hver Benyttelse
+afsvalet af Luften. Det kan ledes til og fra en
+tilstrækkelig stor Dam, hvortil det maaske
+endda føres som Springvand i ganske fine
+Draaber, ell. det bringes til at risle ned over en
+Opstilling af Lægter ell. Risknipper,
+hvorimellem Luften frit cirkulerer (Gradérværker), ell.
+ned gennem Køletaarne, hvori der gaar en
+livlig Luftstrøm.
+
+Afset fra ganske særlige Former
+(Straalekondensatorer) bygges Kondensatorerne
+hovedsagelig efter 2 forsk. Systemer,
+<sp>Indsprøjtnings</sp>- og
+<sp>Overfladekondensatorer</sp>. Indsprøjtningskondensatorerne er de
+enkleste og billigste, her sprøjtes det kolde Vand
+lige ind i Kondensatorens Damprum og
+fortætter Dampen ved direkte Berøring Den hele
+Vandmængde, baade Kølevandet og det ved
+Dampens Fortætning dannede Vand skal
+bortskaffes af Luftpumpen, som tillige faar en Del
+Luft at fjerne, ikke blot, hvad der er trængt
+ind gennem Utætheder, men ogsaa den Luft,
+som har været indeholdt i Kølevandet og er
+bragt ind med dette.
+
+I Overfladekondensatorer holdes Kølevand og
+Damp adskilte. Kølevandet passerer en
+Mængde Rør, som er ført igennem
+Kondensatorrummet, og Dampen fortættes paa de kolde Rør.
+Den samlede Røroverflade maa være stor, for
+at Virkningen kan blive kraftig nok, og
+Overfladekondensatorer bliver derfor store og
+kostbare. De bruges, hvor det har Bet., ikke at faa
+Fortætningsvandet blandet med Kølevandet,
+saaledes i Skibe, hvor man køler med Saltvand
+og bruger Fortætningsvandet til Kedlernes
+Forsyning.
+
+Til Overfladekondensatorer hører der
+foruden Luftpumpen, som tager
+Fortætningsvandet, endnu en Pumpe,
+<sp>Cirkulationspumpen</sp>, til at drive Kølevandet gennem Rørene.
+<i>S. C. B.</i>
+</chapter>
+
+<chapter name="Kondensationsvandafleder">
+<b>Kondensationsvandafleder.</b> Det Vand,
+Fortætningsvandet, som dannes i Dampledninger
+o. l. ved Fortætning af Damp p. Gr. a. Afkøling,
+kan volde Ulemper og maa da fjernes. Hertil
+bruges K., som automatisk skal bortskaffe
+Vandet, uden at lade Damp undslippe. Fra
+saadanne Steder i Ledningen, hvor der kan ventes at
+samle sig Vand, ell. fra særlige Vandsamlere
+føres Rør til K. Denne kan konstrueres efter
+forsk. Principper. Virkningen kan saaledes bero
+paa Legemers Udvidelse og Sammentrækning
+ved Temperaturforandringer. Naar der nemlig
+er Damp i K., vil dennes Temp. alene
+afhænge af Damptrykket, den er da varm. Er den
+derimod fuld af Vand, vil den afsvales af den
+ydre Luft, hvorved f. Eks. en Metalstang ved
+sin Sammentrækning kan aabne en Ventil,
+gennem hvilken Damptrykket driver Vandet ud;
+Dampen indtager dets Plads, Temp. stiger paa
+ny, Stangen udvider sig og lukker Ventilen,
+endnu før Dampen har naaet denne.
+
+Der kan ogsaa bruges en indesluttet Vædskes
+Udvidelse og Sammentrækning i St f.
+Metalstangens.
+
+Den i Fig. viste K. virker paa en helt anden
+Maade. I en Beholder, som ved Røret <i>E</i> er
+forbundet med Dampledningen og gennem Røret
+<i>A</i> kan give Vandet Afløb, naar Ventilen <i>v</i>
+aabnes, findes en Svømmer <i>S</i>, som ved
+Vægtstangen <i>h</i> kan aabne ell. lukke Ventilen <i>v</i>, efter
+som Svømmeren hæves ell. sænkes. Hver Gang
+der er løbet en vis Mængde Vand gennem <i>E</i>
+ned i Beholderen, løfter Svømmeren <i>h</i> sig og
+aabner Ventilen; der strømmer Vand ud
+
+<img></img>

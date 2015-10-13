@@ -1,0 +1,187 @@
+Forløberne. Ved Seksspand kommer hertil
+endnu Mellemhestene mellem S. og Forløberne.
+Er der Spandryttere paa de venstre Heste (se
+<sp>Spandkørsel</sp>), saaledes f. Eks. ved
+Forspand for Kanoner, betegnes de højre Heste
+Haandheste (Stanghaandhest o. s. v.), de
+venstre Sadelheste (Stangsadelhest o. s. v.).
+<i>(C. G. B.). O. P.</i>
+</chapter>
+
+<chapter name="Stangjern">
+<b>Stangjern</b> er Jern, der er udvalset til mere
+ell. mindre lange Stænger med et simpelt
+Tværsnit. Dette kan være cirkulært (Rundjern),
+halvcirkulært, ovalt, kvadratisk (firkantet Jern),
+rektangulært (Fladjern), 6-kantet eller
+8-kantet. S. kan inddeles efter Brugen i Smedejern
+(s. d.), Bygningsjern og Nittejern.
+<sp>Bygningsjern</sp> bruges til Jernkonstruktioner og mest i
+Form af Rund- og Fladjern. Fladjern bruges
+f. Eks. til strakte Stænger, Lameller i Hoved
+og Fod af Pladejernsdragere og til Kropplader
+i Dragere med ringe Højde. Ogsaa til
+Underlagsplader for Jernbjælker bruges Fladjern. S.
+til Jernkonstruktioner forlanges altid af blødt
+Staal, medmindre det skal svejses; i saa Fald
+bruges undertiden svensk Svejsejern. S. til
+Jernbetonkonstruktioner er undertiden
+Specialjern (s. d.).
+
+<sp>Nittejern</sp> er Rundjern, der er særlig
+sejgt og derfor egnet til Nittebrug. Materialet
+er som Regel blødt Martinstaal. Tarveligt
+Svejsejern, som det alm., tyske, kan ikke bruges,
+da det revner ved Nittehovedets Fremstilling.
+Svensk Svejsejern bruges undertiden ved
+Haandnitning og særlig til Monteringsnitter, da
+Nitningen, der under disse Forhold tager lang
+Tid, i saa Fald kan paabegyndes ved en
+højere Temp., og en eventuel Hamring paa Nitten,
+efter at den er ophørt med at gløde, ikke er
+saa farlig som ved Staalet. Ved den hurtigere
+Maskinnitning kan man derimod lettere faa
+Nitningen fuldendt ved den rette Temperatur,
+saa der bruges næsten altid blødt Staal. Til
+Dampkedelnitter bruges samme Materiale som
+til Kedelpladserne af Hensyn til Rustdannelsen,
+altsaa nu om Stunder næsten udelukkende blødt
+Staal.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Stanglak">
+<b>Stanglak,</b> se <sp>Ambala</sp>,
+</chapter>
+
+<chapter name="Stangmagnet">
+<b>Stangmagnet,</b> se <sp>Magnetisme</sp>, S. 394.
+</chapter>
+
+<chapter name="Stangombytningsmetode">
+<b>Stangombytningsmetode</b> er en
+almenanvendelig Fremgangsmaade til
+Spændingsbestemmelse for plane ell. rumlige
+Gitterkonstruktioner. Metoden, der opr. er angivet af
+<sp>Henneberg</sp> og senere videre udviklet af
+<sp>Müller-Breslau</sp>,, gaar ud paa, at man ved
+at borttage nogle Stænger og tilføje lige saa
+mange ny Stænger paa andre Punkter i
+Systemet faar dette omdannet saaledes, at en
+Spændingsbestemmelse er let at udføre, og
+dernæst vender tilbage fra det ny til det opr.
+System ved Hjælp af Betingelser, der udtrykker,
+at Spændingerne i de ny-tilføjede Stænger skal
+være Nul.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Stangpasser">
+<b>Stangpasser,</b> se <sp>Passer</sp>.
+</chapter>
+
+<chapter name="Stangplanimeter">
+<b>Stangplanimeter,</b> et af H. Prytz
+konstrueret Instrument til Maaling af Arealer paa en
+Tegning; S. er egl. kun en Stangpasser, hvis
+Ben begge er faste; det ene ender spidst, det
+andet med en buet Æg, parallel med Stangen.
+Det spidse Ben sættes omtrentlig i Arealets
+Tyngdepunkt, og den buede Ægs Plads paa
+Papiret mærkes; derefter føres Spidsen ad en ret
+Linie til Arealets Omkreds, rundt langs denne
+og tilbage til Udgangspunktet; nu mærkes den
+buede Ægs Plads igen, og Afstanden mellem
+denne Plads og den oprindelige er da en
+simpel Funktion af Arealets Størrelse.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Stangpolygon">
+<b>Stangpolygon</b> bruges undertiden som en
+anden Betegnelse for den Figur ell.
+Konstruktion, der i den grafiske Statik i Almindelighed
+kaldes <sp>Tovpolygon</sp> (s. d.), men dernæst
+ogsaa om en materiel S., hvorved forstaas en
+Konstruktion, bestaaende af en Række
+Stænger, der i deres Endepunkter er forbundne med
+hinanden ved Led, men saaledes, at der i
+hvert Led kun støder to Stænger sammen (f.
+Eks. en af Øjestænger og Bolte dannet Kæde
+for en Hængebro).
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Stangpolygonmetode">
+<b>Stangpolygonmetode</b> er en af
+<sp>Müller-Breslau</sp> angiven grafisk Konstruktion af en
+massiv Bjælkes Formforandringer, ganske
+svarende til <sp>Williot</sp>'s Forskydningsplan for
+Gitterbjælker.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Stangskov">
+<b>Stangskov</b> er et uklart Udtryk for
+mellemaldrende Bevoksninger og maa nærmest
+henføres til, at Udhugningen overvejende giver
+Stangtræ.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Stangspringning">
+<b>Stangspringning</b> er en gymnastisk Øvelse,
+under hvilken man ved en Springstok (s. d.)
+søger at springe i Højden ell. i Længden.
+Stokken fattes med Hænderne saa højt oppe som
+muligt; efter et kraftigt Tilløb og Aftryk sættes
+den mod Jorden, Kroppen hæves op, baaren af
+Armene og beskriver sammen med Stokken en
+paa det nærmeste lodret Bue. S. er en kraftig
+og smuk Øvelse, der giver megen Behændighed
+og Herredømme over Legemet. Da den er
+stærkt ensidig, bør den øves lige meget til
+begge Sider. Enkelte har drevet S. til en
+saadan Fuldkommenhed, at de kan springe 4 m i
+Højden. (Verdensrekorden er 4,24 m). For
+Friserne var den en nødvendig Øvelse, for at de
+kunde færdes paa deres af Kanaler
+gennemskaarne Enge, og endnu den Dag i Dag bruges
+S. paa lignende Maade i Marskegnene.
+<i>K. A. K.</i>
+</chapter>
+
+<chapter name="Stangsvovl">
+<b>Stangsvovl,</b> se <sp>Svovl</sp>.
+</chapter>
+
+<chapter name="Stangtorpedo">
+<b>Stangtorpedo,</b> se <sp>Torpedo</sp>.
+</chapter>
+
+<chapter name="Stangtræ">
+<b>Stangtræ</b> kaldes i Skovbruget den,
+almindeligvis bunkelagte, Vare, som dannes af
+afgrenede Træstammer, der er for tynde til at give
+alm. Kløvtræ, ɔ: tyndere end 10 cm.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Stangvik">
+<b>Stangvik,</b> Herred, Nordmøre
+Sorenskriveri, Kristiansund Politidistrikt, Møre Fylke,
+511 km<sup>2</sup> med (1920) 2168 Indb., altsaa 4,3 pr.
+km<sup>2</sup>, bestaar af Stangvik og Todalen Sogne
+under S. Præstegæld. S. Herred, der er beliggende
+ved Bunden af Halsafjorden, bestaar væsentlig
+af Fastland. Omkring Ulvund- og
+Todalsfjordene har Herredet sin mægtigste Fjeldmasse;
+bl. de højeste Fjeldtoppe kan nævnes
+Snefjeld (1469 m), Tohatten (1446 m),
+Neaadalsnota (1625 m), Troldhætta (1420 m) m. fl.;
+Fjeldene danner her til Dels mægtige
+Alpepartier, gennemskaarne af trange Dalfører.
+Bebyggelse og dyrket Mark findes kun paa
+enkelte Steder langs Kysten, paa Ulvundeidet samt
+i den nedre Del af Todal, der frembyder
+udprægede Terrassedannelser. Evig Is og Sne inden

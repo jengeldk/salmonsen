@@ -1,0 +1,142 @@
+to <sp>modsat</sp> elektriske Stænger <sp>tiltrækker</sp>
+altsaa hinanden. Det samme sker med de to
+Hyldemarvskugler, der berøres hver med sin
+Stang. Derimod vil to Kugler, som begge er
+berørte med den gnedne Glasstang ell. begge
+med den gnedne Lakstang, <sp>frastøde</sp>
+hinanden. Alle Forsøg over dette Forhold viser,
+at <sp>ensartet elektriserede Legemer
+frastøder hinanden, modsat
+elektriserede tiltrækker hinanden</sp>.
+Coulomb viste ved sin Snovægt (s. d.), at
+Tiltrækningen ell. Frastødningen mellem to
+elektriske Legemer, der er smaa i Sammenligning
+med Afstanden mellem dem, forholder sig
+omvendt som Kvadratet paa deres indbyrdes
+Afstand. Forøges denne f. Eks. til det tredobbelte,
+formindskes Kraften mellem Legemerne til en
+Niendedel. Men Kraftens Størrelse beror tillige
+paa Elektriseringens Styrke ell., som man siger,
+paa Størrelsen af Legemernes elektriske
+Ladninger. Hvis et elektrisk Legeme <i>A</i> virker paa et
+elektrisk Legeme <i>C</i> med samme Kraft som den,
+hvormed et andet elektrisk Legeme <i>B</i> vilde
+virke paa <i>C</i>, naar <i>B</i> anbragtes paa <i>A</i>'s Plads,
+siges <i>A</i> og <i>B</i> at have lige store Ladninger. Hvis
+derimod <i>B</i> virker paa <i>C</i> med en Kraft, der er
+f. Eks. 7 Gange saa stor som den, hvormed <i>A</i>
+virker, har <i>B</i> 7 Gange saa stor Ladning som <i>A</i>.
+Hvis to smaa Legemer med lige store
+Ladninger paavirker hinanden med Kraften 1 Dyn,
+naar de er 1 cm fra hinanden, har hvert af dem
+Enhed af Ladning. Loven om smaa
+elektriserede Legemers indbyrdes Tiltrækninger og
+<table>
+<td v2>Frastødninger kan skrives <i>F</i> =<td c><i>Q</i><sub>1</sub> <i>Q</i><sub>2</sub> <td v2>, hvor <i>Q</i><sub>1</sub> og
+<td c><i>r</i><sup>2</sup>
+</table>
+<i>Q</i><sub>2</sub> er de to Legemers Ladninger
+(Elektricitetsmængder), <i>r</i> deres Afstand fra hinanden maalt
+i cm og <i>F</i> Kraften maalt i Dyn. Den er en
+Frastødning, hvis <i>Q</i>1 og <i>Q</i>2 er Ladninger af
+samme Art, i modsat Fald en Tiltrækning. En
+anden Maade at sammenligne Ladninger paa
+er følgende: Paa et E.'s Plade sættes et
+Metalkar (Fig. 1), der saa vidt muligt holdes
+lukket foroven med et Metallaag. Ned i dette Kar
+fører man et isoleret elektrisk Legeme, f. Eks.
+en elektriseret Metalkugle, der hænger i en
+Silketraad. Elektroskopet vil da gøre et
+Udslag, og dette Udslag vil holde sig uforandret,
+paa hvilket Sted inde i Karret man end
+anbringer Kuglen. To Legemer <i>A</i> og <i>B</i>, som ved
+at undersøges paa denne Maade frembringer
+lige store Udslag paa Elektroskopet, har lige
+store Ladninger. Hvis et tredie Legeme <i>C</i>
+ved at anbringes i Metalkarret kan fremkalde
+samme Udslag, som <i>A</i> og <i>B</i> fremkalder, naar
+de samtidig sænkes i Karret, har <i>C</i> dobbelt saa
+stor Ladning som <i>A</i> ell. <i>B</i>. Hvis <i>A</i> og <i>C</i>
+tilsammen giver samme Udslag, som et fjerde
+Legeme <i>D</i> kan fremkalde alene, har <i>D</i> 3 Gange
+saa stor Ladning som <i>A</i> o. s. v. - To Legemer,
+der gnides paa hinanden, faar lige store og
+modsatte Ladninger, hvilket man kan vise ved
+at fæste dem hvert paa sit Glasskaft og gnide
+dem mod hinanden nede i Metalkarret;
+Elektroskopet gør intet Udslag, før det ene af dem
+tages ud af Karret, og det gør lige store Udslag,
+men med modsatte Ladninger, hvilket af dem
+der tages ud. Ladningen paa Metal ell. en anden
+Leder kan flyttes helt ell. delvis over paa et
+andet Legeme uden at forandre sin Størrelse.
+Bringer man fl. isolerede Legemer, hvoraf nogle
+er ladede, andre ikke, ned i Karret, vil
+Elektroskopets Udslag ikke forandres, naar
+Legemerne bringes til at røre ved hverandre. Den
+samlede Ladnings Størrelse bliver altsaa
+uforandret trods Omflytningen. - I Rummet uden
+om ethvert ladet Legeme virker der elektriske
+Kræfter, og Rummet kaldes derfor et
+<sp>elektrisk Felt</sp>. Anbringer man i Feltet et lille
+Legeme (en Hyldemarvskugle, en lille Stump
+Bladguld), der bærer en elektrisk Ladning, vil
+Feltet paavirke dette Legeme med en Kraft,
+der sædvanlig er forsk. i Størrelse og Retning
+paa forsk. Steder i Feltet. Den Kraft, hvormed
+Feltet paavirker et lille Legeme, der har
+Enhed af positiv Ladning, er Maal for Feltets
+<sp>Styrke</sp> ell. <sp>Intensitet</sp> i det Punkt, hvor
+Legemet findes, og den Bane,
+samme Legeme vilde
+beskrive, hvis det overalt
+uhindret kunde følge de
+elektriske Kræfters
+Paavirkning, kaldes en
+<sp>Kraftlinie</sp>. Da man har
+vedtaget, at Kraftlinien skal
+være bestemt ved et
+<sp>positivt</sp> Legemes Bevægelse,
+siger man, at den gaar <sp>fra</sp>
+et Legeme med positiv
+Ladning <sp>til</sp> et Legeme med
+negativ Ladning. Gaar man
+ud fra den Antagelse, at
+hver lille Del af en elektrisk
+Ladning virker paa enhver
+anden lille Del med en
+Kraft, der forholder sig som
+Produktet af de to
+Ladninger og omvendt som
+Kvadratet paa Afstanden
+mellem dem, kan man bevise en
+Række Sætninger om Ladningerne paa
+Ledere og om Feltet imellem dem, hvoraf
+nogle her skal anføres uden matematisk
+Bevis. Vi antager, at der ingen andre Isolatorer
+findes i Feltet end Luft; i modsat Fald bliver
+Forholdene mere indviklede. <sp>Ladningen</sp>
+paa en Leder findes kun paa dens
+<sp>Overflade</sp>; i Lederens Indre findes ingen Ladninger
+og intet elektrisk Felt. Faraday dannede en
+stor Trækasse, som han beklædte med Metal;
+han gik ind i den, forsynet med fine
+Elektroskoper, lukkede den og lod Kassen, som var
+opstillet paa isolerende Fødder, elektrisere
+stærkt. Der var intet Spor af elektriske
+Virkninger at opdage i dens Indre. Feltet findes
+altsaa kun i Luften mellem Lederne. Enhver
+Kraftlinie i det gaar fra en positiv ladet
+Overflade til en negativ ladet; den taber sig ikke i
+Luften. Positive og negative Ladninger bliver
+herefter at opfatte som Fænomener, der viser
+sig i de Grænseflader, hvor Feltet afbrydes af
+et ledende Legeme. Ved den elektriske
+<sp>Spænding</sp> (<sp>Potential</sp>) i et Punkt forstaar man
+det Arbejde, der udfordres for at føre Enhed
+af positiv Elektricitet fra Jorden hen til Punktet;
+behøves der intet Arbejde hertil, men udfører
+
+<img>Fig. 1.</img>
+
+

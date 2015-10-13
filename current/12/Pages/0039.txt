@@ -1,0 +1,147 @@
+optage Kampen med de hydrauliske. Ang.
+Sikringsforanstaltninger m. m. henvises til
+<sp>Elevator</sp>.
+<i>(G. G.).J. M.-P.</i>
+</chapter>
+
+<chapter name="hydraulisk Elevator">
+<b>hydraulisk Elevator,</b> se <sp>hydrauliske
+Hejseapparater</sp>.
+</chapter>
+
+<chapter name="hydrauliske Motorer">
+<b>hydrauliske Motorer</b>
+(<sp>Vandsøjlemaskiner</sp>). Herved forstaas alle Maskiner, som
+Vandet bevæger ved det Tryk, det er
+underkastet, medens dets Masse ingen Medvirkning
+har. De anvendes kun ved meget store
+Faldhøjder (store Tryk) og smaa Vandmængder,
+saaledes navnlig i Bjergegne (Schweiz). Fælles
+for de fleste af disse Maskiner er, at Vandet
+bevæger et Stempel i en Cylinder. De er i
+Reglen dobbeltvirkende, idet Vandet skiftevis
+paavirker den ene og den anden Side af
+Stemplet, men kan ogsaa være enkeltvirkende,
+Stemplet løftes i saa Fald kun af
+Vandtrykket, medens Nedgangen sker ved Vægten af
+Stemplet og Stempelstangen. Dennes Længde
+gøres i Reglen meget betydelig, hvorved en
+alt for hyppig Skiften af Bevægelsesretningen
+undgaas. Forøvrigt foregaar Til- og Afledning
+af Vandet ved en Glidermekanisme paa lgn.
+Maade som ved Dampen i en Dampmaskine.
+Maskinen benyttes hyppigt til Drift af Pumper,
+idet Pumpens og Maskinens Stempelstænger
+sættes i direkte Forbindelse med hinanden;
+Virkningsgraden kan anslaas til 0,8.
+
+En helt anden Art h. M., som paa en bekvem
+Maade udvikler smaa Arbejdsmængder (fra en
+Brøkdel til nogle faa H. K.), finder Anvendelse
+for den mindre Industri især i Schweiz, hvor
+der ved fl. af de større Byer findes
+højtliggende Vandsamlinger, dels naturlige, dels
+kunstigt tilvejebragte paa nærliggende Bjerge.
+Herfra føres Rør til Byen og ind til de i
+Husene installerede Maskiner. Som den bedste
+og mest anvendte Maskine af denne Art kan
+nævnes <sp>Schmidt's Motor</sp>, der er vist i
+hosstaaende Fig.
+
+<img id="5205">Hydraulisk Motor.</img>
+
+<i>A</i> er Cylinderen, <i>B</i> Stemplet, <i>C</i> Tillednings-
+og <i>D</i> Afledningsrøret. Cylinderen sidder
+saaledes paa et Par Tapper, at den kan vugge
+frem og tilbage om en Akse og derved bringe
+de paa Cylinderen siddende Kanaler vekselvis
+i Forbindelse med Til- og Afledningsrørene.
+Stempelstangen gaar vandtæt ud gennem
+Dækslet og tager fat paa en Krumtap <i>K</i> paa
+Akslen <i>E</i>, der bærer Svinghjulet, som
+vedligeholder Bevægelsen i de »døde Punkter«, d. v. s.
+de Stillinger, hvor Stemplets Bevægelse
+skifter Retning. <i>F</i> er en saakaldt Vindkedel, d. e.
+en Beholder med sammentrykket Luft, der
+forneden staar i Forbindelse med Vandet i
+Tilledningsrøret, hvorved Vandets Stød i Rørene
+forhindres.
+
+Saadanne Motorer kan kun anvendes, hvor
+de stedlige Forhold begunstiger
+Tilvejebringelsen af Trykvand paa en billig Maade. I
+Danmark har de ikke noget Sted fundet
+Anvendelse.
+<i>J. M.-P.</i>
+</chapter>
+
+<chapter name="hydraulisk Indeks">
+<b>hydraulisk Indeks</b> bruges i Frankrig til
+Karakterisering af Cementer og er den
+reciprokke Værdi af den <sp>h. Modul</sp> (s. d.)
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="hydraulisk Kalk">
+<b>hydraulisk Kalk</b> faas ved Brænding af
+lerholdig Kalksten og hærdner under Dannelse
+af ikke blot Kalciumkarbonat, men ogsaa
+Kalciumsilikat, idet Lerets ved Brændingen
+frigjorte Kiselsyre forener sig med Kalkhydratet,
+og er Kiselsyreindholdet tilstrækkelig stort, vil
+Hærdningen kunne ske uden Tilgang af
+Kulsyre, altsaa ogsaa i Vand. Kalkstenen maa
+brændes ved en noget lavere Temperatur end
+Luftkalk, da den ellers bliver dødbrændt ɔ:
+ude af Stand til at læske sig, men i øvrigt maa
+Temperaturen afpasses efter Kalkstenens
+Egenskaber; undertiden bliver Hydrauliciteten
+størst, naar det færdige Produkt endnu
+indeholder f. Eks. 10 % Karbonat, undertiden er
+det bedst, at en mindre Del af Bestanddelene
+er sintrede. H. K. adskiller sig fra
+<sp>Romancement</sp> ved at kunne læskes til Melkalk,
+men Læskningen er besværlig og erstattes ofte
+med en Maling. Ved at sammenmale læsket
+h. K. med h. <sp>Tilslag</sp> faas den saakaldte
+<sp>Ekstrakalk</sp>. H. K. brydes ved
+<sp>Klintebjerg</sp> nær Nykjøbing, Sjælland, ved
+<sp>Mariager</sp> og i <sp>Ekedalen</sp> (Skaane), men disse
+Sorter er alle saa svagt h., at de ikke kan
+bruges under Vand; derimod anvendes de til
+Muring af Huse. Da Kalciumsilikaterne binder
+Vand under deres Dannelse, tørrer Murene
+hurtigt, og i Modsætning til Bastardmørtel giver
+den h. K. ingen Udblomstringer.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="hydraulisk Kraftoverføring">
+<b>hydraulisk Kraftoverføring.</b> Naar det
+gælder om at drive adskillige Arbejdsmaskiner,
+som findes spredte over et større Areal, f. Eks.
+Kraner ell. Værktøjsmaskiner paa et
+Skibsværft, kan man enten forsyne hver af disse
+Maskiner med sin selvstændige Motor ell. drive
+dem alle fra en fælles Kraftstation. Arbejdet
+kan overføres fra denne til Arbejdsmaskinerne
+paa fl. Maader, hvoraf de vigtigste er den
+hydrauliske og den elektriske.
+
+H. K. sker saaledes, at Kraftstationens
+Motor driver et Pumpeværk, som indpumper
+Vand under højt Tryk, saasom 40—50
+Atmosfærer (jo større Tryk, desto mindre
+Vandforbrug) i en Rørledning, som forgrener sig til
+alle Arbejdsmaskinerne. Hver af disse kan
+sættes i Gang ell. standses ved at aabne ell.
+lukke en Hane ell. Ventil, hvorigennem
+Trykvandet faar Adgang til en Cylinder, hvis
+Stempel sætter Arbejdsmaskinen i Bevægelse.
+
+Idet saaledes hver Arbejdsmaskine snart
+bruger Vand, snart ikke, er det hele
+Vandforbrug vekslende; medens Kraftstationens
+Pumpeværk arbejder uafhængig heraf, maa
+Forskellen mellem indpumpet og forbrugt Vand
+udlignes. Hertil haves en <sp>hydraulisk</sp>

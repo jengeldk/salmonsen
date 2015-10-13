@@ -1,0 +1,146 @@
+Glaskar af denne Konstruktion i Fysikken i
+Almindelighed gaar under Navnet Dewar-Kar.
+<i>E. S. J.</i>
+</chapter>
+
+<chapter name="Termofon">
+<b>Termofon,</b> d. s. s. <sp>Radiofon</sp>.
+</chapter>
+
+<chapter name="Termofor">
+<b>Termofor,</b> konstrueret af <sp>Andrews</sp>,
+tjener til Sammenligning af to Vædskers
+Varmefylde. Det bestaar af en termometerlignende
+Glasbeholder, der indeholder c. 100 g
+Kvægsølv; paa Røret er der afsat to Mærker i ret
+lang Afstand fra hinanden. Beholderen
+opvarmes, til Kvægsølvet staar noget over det øverste
+Mærke; den afkøles da langsomt, hvorved
+Kvægsølvet trækker sig tilbage i Røret. Lige i det
+Øjeblik, da Kvægsølvoverfladen passerer det
+øverste Mærke, stikkes Beholderen ned i et
+Kalorimeter med Vædske, og i det Øjeblik,
+Kvægsølvet under den fortsatte Afkøling
+passerer det nederste Mærke, tages Beholderen
+igen op af Vædsken. Beholderen vil da have
+afgivet en ganske bestemt Varmemængde til
+Vædsken, og af Forholdet mellem
+Temperaturstigningen i forskellige Vædsker kan Forholdet
+mellem disses Varmefylder beregnes.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Termogalvanometret">
+<b>Termogalvanometret,</b> angivet af Duddell
+(1907), bestaar af en lukket Bøjle af
+Metaltraad, ophængt i en Kvartstraad mellem en
+Hesteskomagnets to Poler. Bøjlen er et
+Termoelement af Vismut og Antimon med det ene
+Loddested nederst i Bøjlen. Tæt under dette
+Loddested er en Modstandstraad (faa mm lang,
+Modstand 4—1000 Ohm), hvorigennem den
+Strøm, der skal maales, sendes. Derved
+opvarmes Modstandstraaden, og denne opvarmer ved
+Straaling Loddestedet, hvorved der opstaar en
+Strøm i Bøjlen, saa
+denne maa dreje sig i
+Magnetfeltet. Paa Bøjlen
+sidder et lille Spejl, saa
+man ved Spejlaflæsning
+kan maale Drejningens
+Størrelse. Følsomheden
+kan forandres dels ved
+at benytte
+Modstandstraade med forskellig
+Modstand og dels ved at
+forandre Afstanden mellem
+Modstandstraaden og Loddestedet.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="termogene Bakterier">
+<b>termogene Bakterier</b> er Bakterier, som
+kan fremkalde en stærk Ophedning af fugtigt Hø,
+Bomuld e. l. Dette beror dels paa, at der ved
+deres Livsvirksomhed udvikles en betydelig
+Varmemængde, som, naar Høet er tæt
+sammenpakket, ikke kan ledes bort, dels paa, at deres
+Vækstoptimum ligger meget højt (se
+<sp>Bakterier</sp>, Side 540).
+<i>B. J.</i>
+</chapter>
+
+<chapter name="Termograf">
+<b>Termograf,</b> et Termometer, der er
+indrettet saaledes, at dets Visning registreres
+automatisk. Overordentlig megen Anvendelse finder
+»Richard's T.«. Den bestaar af et Bourdon-Rør,
+fyldt med Spiritus, hvis Varmeudvidelse —
+henholdsvis Sammentrækning — bringer Røret
+til at rettes ud, henholdsvis bøjes mere; disse
+Bevægelser forstørres ved et Vægtstangssystem,
+hvis sidste Led er forsynet med en Pen, der
+skriver paa en roterende Tromle (se Fig. 1 og
+2). Dette Apparat er, naar det ikke udsættes
+for ganske ekstraordinære Omstændigheder
+(meget stærk Frost f. Eks.), særdeles
+driftssikkert, men har en stor Varmekapacitet, saa
+mindre eller kortvarige Temperaturvariationer
+kun registreres ufuldkomment. Apparatet
+konstrueres ogsaa med bimetallisk Varmelegeme.
+Værdien af dets Visning maa naturligvis findes
+ved Sammenligning med Kvægsølvtermometret.
+Til elektriske T. anvendes baade
+Termoelementer og Modstandstermometre; i øvrigt er der
+ogsaa konstrueret T. ved Hjælp af
+Kvægsølvtermometre med indsmeltede Elektroder,
+endda saa fuldkomne, at de nedskriver
+Temperaturen med Typer hvert Kvarter. En særdeles
+anvendelig T. er konstrueret af <sp>G. A. Rung</sp>
+og bestaar af 12 »Vendetermometre«, ophængte
+drejeligt om en vandret Akse; normalt hænger
+de med Beholderen nedad, men hver
+Klokketime vendes et af dem (af et Urværk), saa det
+faar Beholderen opad; Røret har nu en
+Indsnævring, som bevirker, at Stødet ved
+Drejningen river Kvægsølvstrengen over, saa den
+falder ned i Rørets anden Ende, og den
+øjeblikkelige Temperatur derved fastholdes til senere
+Aflæsning (Termometrets Inddelinger er afsat
+»paa Hovedet«). To Gange i Døgnets Løb
+aflæses samtlige Termometre og vendes derefter
+om.
+<i>H-P.</i>
+
+T. indrettes ogsaa til ad fotografisk Vej at
+registrerer Temperatursvingninger i Vædsker ell.
+andre Stoffer. I en Beholder kommer det Stof,
+hvis Temperatursvingninger skal undersøges,
+og heri anbringes et Termometer, hvis Skala
+og Kvægsølvsøjle belyses. Paa et lysfølsomt
+Materiale, der ved et Urværk bevæges med en
+vis Hastighed, fotograferes Termometerstanden.
+<i>C. E. A.</i>
+
+<img>Fig. 1. Termograf.</img>
+
+<img>Fig. 2.</img>
+</chapter>
+
+<chapter name="Termografi">
+<b>Termografi</b> (gr.), grafisk
+Undersøgelsesmetode og Fremstilling af Legemstemperaturen.
+</chapter>
+
+<chapter name="Termohypsometer">
+<b>Termohypsometer,</b> se <sp>Hypsometer</sp>.
+</chapter>
+
+<chapter name="Termokauter">
+<b>Termokauter</b> betegner ethvert
+Instrument, hvorved man udfører en Kauterisation
+(s. d.) ved Hede. Men for de gammeldags
+Brændejern benyttes Navnet <i>Ferrum candens</i>, for de
+ved elektrisk Strøm varmede T. benyttes
+Navnet Galvanokauter. T. er derfor forbeholdt det
+af <sp>Paquelin</sp> opfundne T. Dette bestaar af

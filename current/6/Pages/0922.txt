@@ -1,0 +1,104 @@
+i Orden og kan give lange Gnister, men man
+faar kun lidt Elektricitet i Forhold til det
+Arbejde, man maa anvende for at holde
+Maskinen i Gang, da det meste Arbejde gaar med til
+Overvindelse af Gnidningsmodstand. Meget
+større Mængde faar man af
+<sp>Influensmaskinen</sp> og af den kun lidet anvendte
+<sp>Dampelektrisermaskine</sp>.
+<i>K. S. R.</i></chapter>
+
+<chapter name="elektrisk Antændelse">
+<b>elektrisk Antændelse</b> benyttes nutildags i
+stor Udstrækning saavel i Felt- som i
+Fæstningskrigen til Antændelse af Sprængladninger
+og Miner, særlig hvor det gælder om at faa en
+samtidig Sprængning af fl. Ladninger ell.
+Miner, ligesom den ogsaa finder stor Anvendelse
+i Bjergværksindustrien og ved Udførelsen af
+større Ingeniørarbejder. Antændelse ved
+Elektricitet kræver en
+<sp>Elektricitetsfrembringer</sp>, <sp>Ledninger</sp>, en ell. fl. <sp>elektriske
+Patroner</sp> og forsk. <sp>Tætningsmidler</sp> samt
+til Undersøgelse af Ledninger og Patroner et
+<sp>Galvanometer</sp> og et <sp>Ohmmeter</sp>. I
+en moderne Hærs Ingeniørparker
+findes en rigelig Forsyning af de her
+nævnte Genstande, og ganske
+tilsvarende anvendes i Alm. i det civile Liv.
+<sp>Elektricitetsfrembringeren</sp>
+bestaar i Alm. enten af Tørelementer
+(f. Eks. à 1,5 Volt), der samles i et
+<sp>Tændbatteri</sp>, ell. af en lille
+Dynamo, der drives enten direkte ved
+Haandkraft, som f. Eks. det i den
+danske Hær anvendte Lundell's
+Tændapparat (c. 12 Volt), ell.
+indirekte ved Hjælp af en spændt
+Fjeder, der udløses, som f. Eks. det
+i den tyske Hær anvendte Apparat
+(c. 30 Volt). <sp>Ledningerne</sp>
+fører fra <sp>Arnestedet</sp>, det Sted,
+hvorfra Ladningen skal antændes,
+og ud til denne; de bestaar i Alm.
+af en isoleret Tilledning og en blank
+(ikke isoleret) Tilbageledning, begge
+af Kobbertraad. Den <sp>elektriske
+Patron</sp> (Fig. 1) dannes af et
+Kobberrør, c. 25 mm langt og c. 5,5 mm
+i Diameter, i hvis ene Ende der
+væsentlig ved Hjælp af Svovl er
+faststøbt to c. 1 m lange <sp>Patrontraade</sp>
+af Kobber paa en saadan Maade, at kun
+et lille Stykke af Traadene naar ind i
+Rørets frie Ende, hvor de er indbyrdes
+forbundne med en tynd Platintraad, og hvori der
+findes en Tændsats, i Alm. en Blanding af
+klorsurt Kali og Svovlantimon, som ved en
+Voksprop hindres i at falde ud af Røret. Den Del
+af Traadene, der rager uden for Røret, er
+isoleret og tjener til Fastgørelse af
+Ledningerne. Skal den elektriske Patron, hvad der
+meget hyppig vil være Tilfældet, bruges til
+Antændelse af brisante Ladninger, er den
+nævnte Tændsats ikke tilstrækkelig kraftig, og
+Patronerne sættes derfor i Alm. ind i en
+<sp>Knaldhætte</sp> (Knaldkviksølvhætte), der
+bestaar af et Kobberrør, c. 55 mm langt, og c.
+7 mm i Diameter, lukket i den ene Ende og
+godt halvt fyldt med Sprængsats
+(Knaldkviksølv), hvortil Patronen fastholdes ved Hjælp
+af en isolerende Tætningsmasse.
+
+For at antænde en Ladning vil det altsaa
+være nødvendigt at anbringe Patronen i denne,
+at forbinde Patrontraadene hver med sin
+Ledning og disse igen med
+Elektricitetsfrembringeren, idet Ladningen da vil bringes til
+Sprængning (Detonation) i det Øjeblik, Platintraaden
+i Patronen ved den elektriske Strøms Slutning
+bringes til at gløde og derved antænder
+Tændsatsen og denne eventuelt Knaldkviksølvet. Ved
+Antændelse af fl. Ladninger paa een Gang, f.
+Eks. ved Sprængning af en Bro, anbringes en
+Patron i hver Ladning. Den første og den
+sidste Patrons ene Patrontraad forbindes
+med henh. Til- og Tilbageledningen, medens
+alle de øvrige Patroner ved Hjælp af isoleret
+Traad forbindes indbyrdes paa en saadan
+Maade, at Strømmen maa passere hele
+Rækken fra den første gennem den 2., 3.
+Patron o. s. v. indtil den sidste. (Fig.
+2). Forinden en saadan større Sprængning, og
+for øvrigt ogsaa ved mindre Sprængninger, er
+
+<img>
+Fig. 1. Elektrisk Patron.
+</img>
+<img>
+Fig. 2.
+</img>
+<img>
+Fig. 3.
+</img>
+

@@ -1,0 +1,109 @@
+<table>
+<td><td c>Antal<td c>Personel<td c>Maskinkraft<td c>Produktionens
+<td><td c>Virksomheder<td><td c>H.K.<td c>Salgsværdi
+<td><td><td><td><td c>Mill. Kr.
+<td>Møller<td r>2422<td r>5317<td r>19800<td r>48
+<td>Bagerier og Konditorier<td r>3035<td r>12431<td r>5200<td r>-
+<td>Sukkerfabrikker<td r>28<td r>2036<td r>9169<td r>55
+<td>Slagterier og Konservesfabrikker<td r>3172<td r>10461<td r>6167<td r>175
+<td>Mejerier<td r>1462<td r>8414<td r>12795<td r>350
+<td>Bryggerier og Brænderier<td r>583<td r>7164<td r>10778<td r>55
+<td>Tobaks- og Cigarfabrikker<td r>401<td r>9427<td r>599<td r>25
+<td>Spinderier og Væverier<td r>553<td r>9121<td r>13712<td r>45
+<td>Trikotagetilvirkning<td r>581<td r>5795<td r>814<td r>10
+<td>Skrædder- og Konfektionsforretninger<td r>12014<td r>36154<td r>162<td r>-
+<td>Skomagerforretninger og Skotøjsfabrikker<td r>5791<td r>11999<td r>1250<td r>-
+<td>Brolægnings- og Entreprenørforretninger<td r>280<td r>8003<td r>5481<td r>-
+<td>Murerforretninger<td r>5874<td r>22533<td r>406<td r>-
+<td>Tømrerforretninger og Baadebyggerier<td r>5216<td r>15522<td r>4939<td r>-
+<td>Snedkerforretninger<td r>4183<td r>14692<td r>8444<td r>-
+<td>Malerforretninger<td r>3526<td r>9704<td r>30<td r>-
+<td>Sadelmager- og Tapetsererforretninger<td r>1878<td r>4068<td r>195<td r>-
+<td>Trævarefabrikker m. fl., Bødkere, Drejere<td r>2018<td r>8139<td r>13767<td r>-
+<td>Hjul- og Karetmagerforretninger<td r>1735<td r>3343<td r>3718<td r>-
+<td>Cementfabrikker<td r>8<td r>2063<td r>11317<td r>11
+<td>Teglværker og Lervarefabrikker<td r>542<td r>9048<td r>13065<td r>15
+<td>Grov- og Klejnsmede<td r>5252<td r>12697<td r>4203<td r>15
+<td>Cyklefabrikker og -værksteder<td r>991<td r>3037<td r>802<td r>-
+<td>Jernstøberier, Maskinfabrikker o. l.<td r>1261<td r>29148<td r>20818<td r>-
+<td>Elektriske Installationsforr. og Fabrikker<td r>293<td r>4818<td r>766<td r>-
+<td>Olie- og Sæbefabrikker<td r>78<td r>1697<td r>3600<td r>25
+<td>Papirfabrikker<td r>16<td r>1519<td r>7194<td r>12
+<td>Bogtrykkerier<td r>640<td r>8087<td r>3803<td r>-
+</table>
+
+<sp>Anm.</sp>: Produktionens Salgsværdi kan kun oplyses for visse Industrier; den kan kun opgives
+med omtrentlige Beløb, i hvilke Reparationsarbejde o. l. ikke er medregnede.
+
+De her anførte Fag er de største, enten m.
+H. t. Personel ell. Maskinkraft. Forholdet
+mellem Antal Virksomheder og Personel giver et
+Udtryk for, om den store ell. den lille Industri
+er overvejende i vedk. Fag; oftest er det dog
+saaledes, at Faget tæller Virksomheder af højst
+uensartet Størrelse, fordi
+Koncentrationsprocessen gaar langsomt for sig, ell. fordi Faget byder
+de smaa Virksomheder særlige Opgaver at
+varetage som f. Eks. Reparation, det snævrere
+lokale Markeds Forsyning, Industri i Forbindelse
+med Detailhandel o. s. v. Foruden de i Tabellen
+anførte større Fag er der adskillige andre, der
+kan have særligt Krav paa at nævnes, som f. Eks.
+Margarinefabrikker (43 med 1209 Personer), den
+mineralske Industris forsk. Grene (Stenhuggerier,
+Kalkværker o. s. v.), Porcelæns- og
+Fajancefabrikker (c. 1200 Personer), forsk. kem.
+Industrier (Tændstikker, Soda, Svovlsyre o. a.) samt
+endelig de for hele den øvrige Industri og for
+Samfundet som Helhed saa betydningsfulde
+Vand-, Gas- og Elektricitetsværker, der for en
+stor Del er anlagte af og ejes af Kommunerne;
+deres Antal var 1914 henh. 83, 106 og 412, deres
+Hestekraft 6745, 3990 og 89000 H. K.
+Elektricitetsværkernes Antal er i de senere Aar steget
+med c. 50 aarlig; deres Hestekraft var 1906
+5 à 6000 H. K.; Tallene herfor er dog udeladte
+i de foran angivne Tal for Industriens samlede
+Hestekraft, idet den jo delvis gaar igen i andre
+Virksomheder som Drivkraft for deres
+Elektromotorer, og i øvrigt bruges til Sporvejsdrift,
+Lysfrembringelse o. s. v.
+
+Ved Virksomhed er der i det foregaaende
+ment hver enkelt Bedrift, der tekn. set er en
+Enhed; forretningsmæssigt kan de ofte være
+forenede paa samme Haand, saaledes at samme
+Ejer, det være sig Aktieselskab, Interessentskab
+ell. enkelt Mand, driver fl. Virksomheder,
+enten i samme Fag ell. i forsk., men dog som
+oftest hinanden støttende og supplerende
+Industrier. Af <sp>Firmaer, der hver i deres
+Branche indtager en dominerende
+ell. betydningsfuld Stilling</sp>, ell. som
+er særlig store i Kraft af, at de omfatter en
+Flerhed af Virksomheder, skal nævnes (uden
+at Listen dog kan give sig ud for at være
+udtømmende) De danske Svineslagterier, De
+danske Sukkerfabrikker, Carlsberg og De forenede
+Bryggerier, De danske Bomuldsspinderier, Faxe
+Kalkbrud, kgl. Porcelænsfabrik og Bing &
+Grøndahl's Porcelænsfabrik, Kastrup Glasværk,
+Nordisk Kabel- og Traadfabrik, Burmeister & Wain,
+Helsingørs Skibsværft og Flydedokken i Kbhvn,
+Det danske Gødningskompagni
+(Svovlsyrefabrikkerne), De forenede Papirfabrikker,
+Fællesforeningen for Danmarks Brugsforeninger
+(Tobaks-, Sukkervare-, Tovværksfabrikker m. fl.),
+de milit. industrielle Etablissementer m. fl.,
+Scandia i Randers (Jernbanevogne).
+
+I adskillige Industrier findes der i og for sig
+mange Virksomheder, men største Delen af
+Produktionen er dog samlet paa et Mindretal
+af Storbedrifter; det gælder bl. a. i
+Handelsmølleriet, i Chokolade-, Sukkervare- og
+Konservesindustrien, Margarinefabrikker (saaledes
+Otto Mønsted's Fabrikker), Bryggerier (for
+skattepligtigt Øl), Brænderier; ogsaa i Tobaks- og
+Cigarindustrien findes en Række store
+Virksomheder (bl. a. Hirschsprung, C. W. Obel, E.

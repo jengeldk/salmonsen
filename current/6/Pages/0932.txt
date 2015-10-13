@@ -1,0 +1,108 @@
+<sp>Lancashire-Yorkshire</sp>-Banen gjort Forsøg
+med 3500 Volt og paa en amer. Bane med 5000
+Volt Jævnstrøm.
+
+Anvendelsen af disse høje Spændinger er
+naturligvis først blevet mulig, efter at det er
+lykkedes at konstruere dertil egnede Motorer;
+disse forbindes dog som Regel 2 og 2 i Serie
+og faar altsaa herved kun halv Netspænding;
+Strømforsyningen sker ofte fra
+Omformerstationer langs Linien, hvortil der føres højspændt
+Vekselstrøm fra Kraftstationen.
+
+<sp>Enfaset Vekselstrøm</sp> blev første
+Gang anvendt til Banedrift for c. 12 Aar siden,
+efter at det 1902 var lykkedes
+<sp>Westinghouse</sp>-Selskabet i Amerika at
+konstruere en til Banedrift egnet enfaset
+Kommutatormotor. De første Baner efter
+dette System var en Bane ved
+<sp>Schenectady</sp> i Amerika (1904) og Banen
+<sp>Niederschöneweide-Spindlersfeld</sp> (1903).
+Ligesom ved Jævnstrømssystemet anvendes her
+Skinnerne som Tilbageledning.
+Køretraadsspændingen kan uden Vanskelighed
+gøres høj, indtil 20000 Volt, idet
+Lokomotivet ell. Motorvognen da forsynes
+med en <sp>Transformator</sp>, der sætter Spændingen
+ned til den for Motorerne mest passende Spænding, 250
+-750 Volt. Igangsætning og
+Hastighedsregulering foregaar uden Tab i Modstanden, idet
+man dels regulerer Motorens Spænding ved
+Omkobling af Transformatoren, dels kan regulere
+Hastigheden ved Børsteforskydning paa
+Motoren. De enfasede Motorer er imidlertid 10
+à 20 % tungere end Jævnstrømsmotorer og som
+Følge heraf noget kostbarere end disse. Ved
+Enfasebaner kan det undertiden være
+nødvendigt at træffe særlige Foranstaltninger for at
+undgaa Forstyrrelser i nærliggende
+Svagstrømsanlæg, hidrørende fra Strømmens
+Tilbageledning gennem Skinnerne.
+
+Enfasesystemet egner sig saavel til
+Forstadsbaner med stor Hastighed og mange Stationer
+(økonomisk Igangsætning) som til Baner med
+tungere Trafik (smaa Ledningstab som Følge
+af den høje Spænding) og konkurrerer derfor
+stærkt med Jævnstrømssystemet, uden at det
+dog i Øjeblikket kan siges, i hvilken Retning
+Udviklingen vil gaa. Af Baneanlæg, der drives
+med enfaset Strøm, skal nævnes:
+<sp>Blankenese-Hamburg-Ohlsdorf</sp> (1908), 6300
+Volt, og <sp>Dessau-Bitterfeld</sp> (1911), 10000
+Volt. Ligeledes er Systemet anvendt ved den
+kendte Lötschbergbane, 15000 Volt
+(Fig. 3), og for kort Tid siden er det
+endelig bestemt, at <sp>Skt Gotthard-Banen</sp> skal
+elektrificeres efter dette Princip. Denne
+Afgørelse er truffet efter meget indgaaende
+Undersøgelser, og det er herefter sandsynligt, at
+samtlige Jernbaner i Schweiz (3000 km) vil
+blive elektrificerede efter Ænfaseprincippet.
+
+<sp>Trefaset Vekselstrøm</sp> er anvendt til
+Banedrift endnu tidligere end enfaset, idet
+Firmaet <sp>Brown-Boverii</sp> Schweiz
+allerede 1895 byggede en lille elektrisk Bane
+efter dette System ved <sp>Lugano</sp>.
+Systemet kræver 3 Tilførselsledninger, saa
+at der, selv om Skinnerne udgør den ene
+Ledning, dog kræves 2 Kontaktledninger,
+hvilket er den største Mangel ved
+Systemet, idet derved Krydsninger og Viger
+giver meget indviklede Konstruktioner.
+Som Følge heraf kan man ikke gaa
+synderlig højt op med Spændingen (indtil c.
+3000 Volt). Drivmotoren er den
+almindelige Induktionsmotor (asynkrone
+Motor); den er meget simpel i
+Konstruktionen, billig, og har en
+god Virkningsgrad. I Modsætning til
+Seriemotoren løber den med omtr. konstant
+Hastighed uafhængig af Belastningen.
+Igangsætningen sker ved Modstande i
+Rotorkredsen (se under <sp>elektriske
+Maskiner</sp>). Til Hastighedsregulering haves
+forskellige mere ell. mindre komplicerede Metoder.
+Dette er tillige med Nødvendigheden af 2
+Kontaktledninger det vanskeligste Punkt ved
+Trefasesystemet, hvorfor dette ikke har fundet
+Anvendelse ved By- og Forstadsbaner, hvor der
+netop stilles store Fordringer til
+Hastighedsreguleringen. Til Hovedbaner med
+Lokomotivdrift, svære Tog og faa Stationer er Systemet
+en Del anvendt. Strømmen føres i
+Højspændingsledninger (50-80000 Volt) langs Banelinien
+til Transformatorer, der forsyner Køretraadene
+med c. 3000 Volt. Af Baner efter
+Trefasesystemet er de kendteste en Del <sp>ital.
+Statsbaner</sp>, f. Eks. <sp>Valtelina-Banen</sp> (1902),
+3000 Volt, endvidere den bekendte Bane
+igennem <sp>Simplon</sp>-Tunnellen. Endelig skal
+
+<img>
+Fig. 4. Maskinrummet i en dieselelektrisk Motorvogn.
+75 HK. Allmänna svenska elektriska A/B.
+</img>

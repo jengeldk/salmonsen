@@ -1,0 +1,9 @@
+<img></img>
+
+Fig. 1. Elektrisk Svingningskreds. <i>L</i>, <i>R</i> en Traadrulle med Selvinduktionen <i>L Henry</i> og den effektive Modstand <i>R Ohm</i>. Kondensatoren <i>C</i> har Kapaciteten <i>C Farad</i>. <i>G</i> Gnistbane.
+— Fig. 2. Aperiodisk Udladning af en Kondensator. — Fig. 3. Forløb af Ladningen <i>q</i> og Strømmen <i>i</i> ved Udladning af en periodisk svagt dæmpet Svingningskreds. Perioden =
+Svingningstiden = <i>t</i>. — Fig. 4. Svingninger med forskellig Selektivitet eller Dekrement. <i>A</i> viser et stærkt dæmpet Svingningstog frembragt ved Udladning af en Hertz' Oscillator.
+<i>B</i> et forholdsvis svagt dæmpet Svingningstog fra en god Gnistsender. <i>C</i> fremstiller vedvarende, udæmpede eller kontinuerlige Svingninger. — Fig. 5. Nogle Arter af Kobling. <i>I</i>
+indirekte og magnetisk eller induktiv, <i>II</i> indirekte og elektrisk, <i>III</i> direkte Selvinduktionskobling, <i>IV</i> direkte og elektrisk Kobling eller Kapacitetskobling. — Fig. 6. Beliggenhed af
+Koblingsfrekvenserne (<i>m<sub>1</sub></i>, og <i>m<sub>2</sub></i>) i Forhold til de naturlige Frekvenser (<i>n<sub>1</sub></i> og <i>n<sub>2</sub></i>). — Fig. 7. Primærstrøm <i>i<sub>1</sub></i>, og Sekundærstrøm <i>i<sub>2</sub></i> i to koblede Kredse med samme naturlige
+Frekvens, — Fig 8. Primærstrøm <i>i<sub>1</sub></i> og Sekundærstrøm <i>i<sub>2</sub></i> i to koblede Kredse med samme naturlige Frekvens og med Gnistslukning til Tiden <i>t<sub>1</sub></i>.

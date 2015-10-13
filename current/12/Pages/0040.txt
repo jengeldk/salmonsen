@@ -1,0 +1,136 @@
+<sp>Akkumulator</sp>. I sin almindeligste Form, der opr.
+er angivet af <sp>Armstrong</sp>, bestaar den i
+Hovedsagen af en staaende Cylinder, der er
+forsynet med et Stempel, og hvis nedre Ende
+staar i Forbindelse med Rørledningen. Stemplet
+er belastet med en Vægt saa stor, at den
+svarer til det ønskede Tryk paa Vandet. Hvis der
+nu kun arbejder faa Arbejdsmaskiner og altsaa
+kun bruges lidt Vand, mindre end der i samme
+Tid indpumpes, gaar Overskuddet ind i
+Akkumulatoren, hvis Stempel stiger. Omvendt, hvis
+der bruges mere Vand, end der i samme Tid
+indpumpes, vil Stemplet synke. Pumpeværket
+skal netop give saa meget Vand, som svarer
+til det gennemsnitlige Forbrug. Dette opnaas
+derved, at naar Stemplet under sin Opgang
+er naaet til en vis Højde ell. under sin
+Nedgang er sunket til et vist Punkt, indstiller det
+Pumpeværket til at arbejde henh.
+langsommere ell. hurtigere. Som Sikkerhed mod, at
+Stemplet, hvis Pumpeværket gik, medens der
+intet ell. næsten intet Vand brugtes, kunde
+blive løftet ovenud af Cylinderen, aabner
+Stemplet, naar den højeste tilladte Stilling er
+naaet, en Ventil, som giver Vandet frit Udløb.
+
+H. K. bruges ikke saa meget nu som tidligere,
+da den til Dels er afløst af den elektriske
+Kraftoverføring.
+<i>S. C. B.</i>
+</chapter>
+
+<chapter name="hydraulisk Kran">
+<b>hydraulisk Kran,</b> se <sp>hydrauliske
+Hejseapparater</sp>.
+</chapter>
+
+<chapter name="hydraulisk Modul">
+<b>hydraulisk Modul</b> kaldes Vægtforholdet
+mellem en Portlandcements Indhold af Kalk
+(CaO) og hydrauliske Faktorer (SiO<sub>2</sub> , Al<sub>2</sub>O<sub>3</sub> ,
+Fe<sub>2</sub>O<sub>3</sub>). Af Hensyn til Cementens Styrke bør
+den ikke være under 1,7, af Hensyn til
+Volumenbestandigheden ikke over 2,2. Visse
+Cementer fremstillede af lerholdig Kalksten kan dog
+taale 2,4, fordi den naturligere
+Kalk-Ler-Blanding er intimere end den kunstige.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="hydraulisk Mørtel">
+<b>hydraulisk Mørtel</b> ell. <sp>Vandmørtel</sp> kan
+i Modsætning til <sp>Luftmørtel</sp> ogsaa hærdne
+under Vand. Den hydrauliske Egenskab
+betinges af Bindemidlet, der som Regel er Kalk
+med et større ell. mindre Indhold af opløselig
+Kiselsyre, der gaar i kemisk Forbindelse med
+Kalken. Kiselsyren kan tilsættes i Form af et
+<sp>hydraulisk Tilslag</sp> (s. d.), men
+hyppigst fremstilles Bindemidlet ved Brænding af
+en naturlig ell. kunstig Blanding af Kalk og
+Ler. Ved ringe Lerindhold og svag Brænding
+faas <sp>hydraulisk Kalk</sp>, ved stort
+Lerindhold og svag Brænding <sp>Romancement</sp>,
+ved stort Lerindhold og Brænding indtil
+Sintring <sp>Portlandcement</sp>. Betegnelsen h.
+M. er indført af <sp>Vicat</sp>, tidligere brugtes
+Ordet h. kun om Maskineri. Skønt allerede
+Romerne brugte Vandmørtler, blev
+Aarsagen til disses hydrauliske Egenskaber først
+paavist 1756 ved Bygningen af <sp>Eddystone</sp>
+Fyrtaarn, idet Ingeniøren <sp>John Smeaton</sp>
+opløste forsk. Kalkstenssorter i Salpetersyre og
+fandt, at de af dem, der ved Brænding fik
+hydrauliske Egenskaber, alle efterlod en uopløst
+Rest af Ler.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="hydraulisk Presse">
+<b>hydraulisk Presse</b> ell. <sp>Bramahpresse</sp>,
+en Maskine, der tjener til at frembringe store
+Tryk ved Hjælp af Vand (<sp>Bramah</sp> 1795). I
+en snæver Cylinder bevæger et
+Pumpestempel sig og driver Vand over i en vid Cylinder,
+hvor Vandets Tryk virker paa et Stempel, hvis
+Tværsnit er mange Gange større end
+Pumpestemplets. Da Vandtrykket er ens paa lige
+store Arealer af de to Stemplers Grundflader, vil
+det samlede Tryk paa en saadan Flade være
+proportionalt med Fladens Størrelse, altsaa
+mange Gange større paa det store Stempel end
+paa det lille. Paa Figuren betegner <i>S</i>
+Pumpestemplet, ved hvis op- og nedadgaaende
+Bevægelse Vand gennem Sien <i>r</i> drives fra
+Beholderen <i>bb</i> gennem Røret <i>tt</i> over i den stærke
+Cylinder <i>cc</i>. Ventilerne <i>i</i> og <i>d</i> hindrer Vandet
+i at strømme tilbage. Pressestemplet <i>pp</i>, der
+gaar vandtæt op gennem Cylinderens øverste
+Del, hæves af Vandtrykket og kan ved at løfte
+Pladen <i>nn</i> op mod Pladen <i>e</i> udøve et stort
+Tryk mod Genstande, der anbringes mellem
+disse Plader. Er Pumpestemplets Diameter <i>f</i>.
+Eks. 2 cm og Pressestemplets 40 cm, saa vil
+det sidste Stempel drives op med en Kraft, der
+er 400 Gange saa stor som den, hvormed det
+første trykkes ned, men samtidig bliver ogsaa
+Pressestemplets Bevægelse 400 Gange saa
+langsom som Pumpestemplets. H. P. har i forsk.
+Former megen Anvendelse, hvor det gælder om
+at frembringe et stort og jævnt virkende Tryk,
+f. Eks. ved Udpresning af Vædsker og
+Formning af visse Metalgenstande.
+<i>K. S. K.</i>
+
+<img id="5206">Hydraulisk Presse.</img>
+</chapter>
+
+<chapter name="hydraulisk Propel">
+<b>hydraulisk Propel</b> (<sp>Straalepropel</sp>), et
+Fremdrivningsmiddel for Skibe. Gennem en
+meget kraftig Centrifugalpumpe suges Vandet
+ind i Skibet og kastes derefter ud gennem to
+Rør, der er anbragte uden Bords midtskibs,
+eet paa liver Side. Drejes Rørene skraat
+agterefter, gaar Skibet frem; stilles de skraat
+fremefter, gaar det tilbage; stilles Rørene lige op
+og ned, ligger Skibet stille. Systemet har for
+mange Aar siden været prøvet i to eng.
+Orlogsfartøjer, en Kanonbaad og en
+Torpedobaad; men det viste sig i begge Tilfælde, at
+Straalepropellerne havde en betydelig
+daarligere Virkningsgrad end de alm.
+Fremdrivningsmidler, Skruen og Hjulet. Senere Forsøg
+har givet samme daarlige Resultat, hvilket
+ogsaa stemmer overens med anstillede teoretiske

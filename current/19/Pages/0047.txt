@@ -1,0 +1,153 @@
+Solsystem, hvor Planeternes Masser er smaa i
+Forhold til Solens. Man kan betragte i første
+Tilnærmelse en Planets Bevægelse om Solen,
+som om den og Solen alene udgør
+Solsystemet. Paa samme Vis vil Planetmaanernes
+Bevægelse om deres Planet i det hovedsageligste
+bestemmes af Planeten, idet Solen, som her er
+det perturberende Legeme, vil have liden
+Indvirkning, da Maanerne er Planeten nærmere end
+Solen. Bevægelsen vil foregaa meget nær efter
+To-Legemers-Problemet, Banen altsaa være et
+Keglesnit. Nu bestemmes Bevægelsen i dette
+Problem af visse saakaldte <sp>Elementer</sp>
+(Konstanter). Man kan da opfatte den
+perturberede Bevægelse fremdeles som en Kepler'sk
+Bevægelse (Keglesnit), men med Elementer, som
+ikke er Konstanter, men varierer
+(<sp>Konstanternes Variation</sp>), og disse Variationer i
+Elementerne kaldes
+<sp>Elementperturbationer</sp>. Man har derfor P. i Banens store
+Halvakse, Excentricitet, Periheliets Længde,
+Inklination, Knudelængden og Epoken. Men
+foruden denne Maade at tænke sig P., kunde man
+ogsaa med de konstante Elementer beregne den
+perturberende Klodes Koordinater efter det
+binære Systems Formler, og saa til disse
+Koordinater anbringe de Korrektioner, som hidrører
+fra det perturberende Legeme. Disse
+<sp>Koordinatpertubationer</sp> er P. i
+Radiusvektor, i Bredde og i Længde. Teorien for de
+sidstnævnte P. er udledet af Laplace, for de
+førstnævnte af Lagrange, men begge Slags
+hænger paa det nærmeste sammen med hinanden; i
+Hansen's Perturbationsteori er denne
+Forbindelse stærikt fremtrædende, og denne Teori er
+paa en Vis en Mellemting mellem begge.
+
+Det matematiske Udtryk for en Planets P.
+udledes i Form af en uendelig Række af Led,
+som stiger efter Potenser af Banens
+Excentricitet og Inklination. De fleste af disse Led er af
+den perturberende Masses Størrelses Orden
+eller lavere Orden og af periodisk Natur med
+Periode af samme Størrelses Orden som Planetens
+Omløbstid eller endnu lavere. Man kalder disse
+P. <sp>periodiske</sp>. Slige periodiske P. er i
+Maaneteorien, Evektionen, Variationen og den
+aarlige Ligning. Undtagelsesvis faar nogle
+periodiske P. en forholdsvis lang Periode derved, at
+to Kloders Omløbstider er nær
+kommensurable, ɔ: forholder sig til hinanden meget nær
+som to hele Tal. Af saadanne kan nævnes den
+store Ujævnhed i Jupiter's og Saturn's
+Bevægelse, hvis Periode er mere end 900 Aar. En
+lignende, men langt mindre Ujævnhed finder
+Sted ved Jorden og Venus med en Periode af 8
+Aar. Under den matematiske Analyse af
+Perturbationsproblemet kan der efter visse Metoder
+faas foruden de periodiske Udtryk
+Perturbationsled, som vokser proportionalt med Tiden;
+mian kalder disse P. <sp>sekulære</sp>, men i
+Virkeligheden kan de, gennem eksaktere
+matematisk at behandle Problemet, tilbageføres til
+periodiske Udtryk.
+
+Man inddeler P. i <sp>almindelige</sp> og
+<sp>specielle</sp> og tager herved Hensyn til Maaden at
+beregne P. paa. I første Tilfælde faas
+Beregningsresultatet gennem en fuldstændig analytisk
+Udvikling af Formlerne med derpaa følgende
+Indsætning af Størrelsens numeriske Værdi
+(med Undtagelse af Tiden t eller tilsvarende
+variabel), i andet Fald gennem en rent
+numerisk og successiv Beregning for et Antal
+Tidsmomenter, fordelte inden for et begrænset
+Tidsomraade. Uagtet de specielle P. saaledes efter
+Sagens Natur har den Svaghed, at de alene
+gælder for et begrænset Tidsrum, har de megen
+Anvendelse i Astronomien i spc. Tilfælde, f. Eks.
+naar det gælder at beregne P. for Kometer,
+hvilke udledes af den alm. Perturbationsteori
+— som giver for alle Tider gyldige Resultater
+— men p. Gr. a. Kometbanernes store
+Excentricitet for Tiden det ikke skulde være mulig
+praktisk at beregne. For Asteroiderne kunde P.
+P. Gr. a. den store Planet Jupiter blive ret
+betydelige. Man har derfor hovedsagelig p. Gr. a.
+deres store Tal udarbejdet Metoder, som gaar
+ud paa at beregne en væsentlig Del af
+Perturbationsregningen fælles for hele Grupper af smaa
+Planeter (<sp>Gruppe-P.</sp>). Specielt er den af
+Bohlin (s. d.) udarbejdede Metode bleven meget
+benyttet og anvendt i det store i det af Brendel
+(1913) i Frankfurt a/M grundede
+Planeteninstitut.
+
+Det analytiske Udtryk, som fremstiller P.,
+kan man tænke sig ordnet efter Potenser af de
+perturberende Masser. De Led, som ere
+multiplicerede med første Potens af de
+perturberende Masser, kaldtes P. af <sp>første</sp> Orden, de Led,
+der indeholder som Faktorer Kvadraterne ell.
+Produkterne to og to af de perturberende
+Masser, kaldes P. af <sp>anden Orden</sp>, o. s. v. I de
+fleste Tilfælde vil det være tilstrækkeligt at tage
+Hensyn til P. af første Orden, se
+<sp>Tre-Legemers-Problemet</sp>. (<sp>Litt</sp>.: <sp>Tisserand</sp>,
+<i>Mécanique Céleste</i>, I—IV [Paris 1889—96];
+<sp>Poincaré</sp>, <i>Les méthodes nouvelles de la
+mécanique celeste</i>, I—III [Paris 1892—97];
+<sp>Oppolzer</sp>, »Lehrbuch zur Bahnbestimmung der
+Planeten und Kometen«, II [Leipzig 1880]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Pertusaria">
+<b>Pertusaria</b> DC., Slægt af Kernesvamplaver
+med skorpeformet Løv. Inden for Løvets
+fremstaaende Vorter findes Frugterne, der helt
+indesluttes af Løvet, saa Sporelejet først ses
+ved Gennemskæring af Frugten; de store,
+ægformede Sporer kommer ud gennem Porer i
+Spidsen af Perithecierne. Arterne vokser paa
+Barken af Træer, sjældnere paa Sten. <i>P.
+communis</i> DC. (<sp>Priklav</sp>) har et meget
+foranderligt, blaagraat ell. gulgrønt Løv, der ofte
+begrænses af en sort Linie, og som er rigelig
+besat med hvidlige Knopkorn. Meget alm. i
+Danmark, især paa Bøgestammer.
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Pertussis">
+<b>Pertussis,</b> se <sp>Kighoste</sp>.
+</chapter>
+
+<chapter name="Pertyrline">
+<b>Pertyrline</b> (Søv.), et Tov eller en Kæde,
+hvori Ankeret hænger, med sin øverste Ende
+(Ankerbøjlen ell. Røringen) under Kranbjælken,
+naar det er gjort klart til at falde. P. er
+forsynet med et Slippeapparat, ved hvis Udløsning
+Ankeret falder. P. anvendes ikke ved moderne
+Ankerkonstruktioner.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Pertz, Georg Heinrich">
+<b>Pertz</b> [pærts), <sp>Georg Heinrich</sp>, tysk
+Historiker, (1795—1876), P. var Hannoveraner
+og ansattes 1823 i Arkivet i Hannover. Tidlig
+blev den preussiske Minister v. Stein's
+Opmærksomhed henledt paa ham, og denne gav ham

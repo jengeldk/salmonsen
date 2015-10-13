@@ -1,0 +1,152 @@
+<i>P, r, a + r, a ÷ r</i>, naar blot to af dem
+kendes. I Procentregningen bestaar Vanskeligheden
+i at bestemme Bet. af <i>a</i>. Eksempelvis nævnes:
+Ved Beregning af Vinding og Tab er <i>a</i>
+Indkøbet, Salgsbeløbet med Fortjeneste <i>a + r</i>
+og Salgsbeløbet med Tab <i>a ÷ r</i>, ved Beregning
+af Tara er <i>a</i> Bruttovægten; o. s. v. Forkortelse:
+pCt.; Tegn: %.
+<i>(N. J. B.). Th. O.</i>
+</chapter>
+
+<chapter name="Procentmetode">
+<b>Procentmetode</b> kaldes en af de
+Fremgangsmaader til Ordning af et Skovbrugs fremtidige
+Høst, som sammenfattes under Navnet
+»Normalforraadsmetoder«; P. hviler paa den
+vilkaarlige Forudsætning, at Forholdet mellem Høst
+og Vedforraad, begge udtrykt i Rummaal, skal
+være konstant, altsaa, idet <i>v</i> = virkelig, <i>n</i> =
+normal, <i>E</i> = Etat = Høst og <i>F</i> = Forraad, <i>v . E . / v. F .</i>
+= <i>n . E ./ n . F .</i>, <i>v . E .</i> = <i>v. F X n . E ./n . F .</i>; den sidste Brøk
+kaldes »Benyttelsesprocenten« og udregnes ved
+Hjælp af en Tilvækstoversigt for den
+paagældende Driftsklasse.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="proceres">
+<b>proceres</b> (lat.), de fornemme, Honoratiores.
+</chapter>
+
+<chapter name="Proces">
+<b>Proces,</b> Betegnelse dels for den enkelte
+Retstrætte, dels for det Indbegreb af0
+Retsregler, der behersker henh. den borgerlige
+Retspleje (se <sp>Civilproces</sp>) og Strafferetsplejen
+(se <sp>Straffeproces</sp>).
+<i>E. T.</i>
+</chapter>
+
+<chapter name="Proces, kemisk">
+<b>Proces,</b> <sp>kemisk</sp>, er den Omsætning
+mellem forsk. Molekyler, hvorved der dannes
+een ell. fl. nye kem. Forbindelser; undertiden
+kan denne P. ogsaa bestaa i en Omlejring af
+Atomerne inden for samme Molekyle, saaledes
+som naar f. Eks. Ammoniumcyanat NH<sub>4</sub>OCN
+omlejres til Urinstof CO(NH<sub>2</sub>)<sub>2</sub>.
+
+En kem. P. kan under forsk. ydre Forhold
+forløbe meget forsk., f. Eks. kan den gaa
+praktisk fuldstændig til Ende under nogle ydre
+Omstændigheder og under andre kun forløbe til en
+vis Ligevægt, hvor baade de reagerende
+Stoffer og Reaktionsprodukterne findes i Ligevægt
+i Reaktionsblandingen (se
+<sp>Massevirkningslov</sp>). Saaledes vil f. Eks. Vandets Dannelse af
+Ilt og Brint ved Temp. indtil c. 1000° være
+praktisk fuldstændig efter Ligningen 2H<sub>2</sub>+O<sub>2</sub> →
+2H<sub>2</sub>O, medens den ved Temp. over 2000° kun
+forløber til en vis Grænse, saaledes at der i den
+udreagerede Blanding findes baade Ilt, Brint
+og Vanddamp. Ophedes ren Vanddamp til den
+samme Temp., vil den dissociere delvis til Ilt
+og Brint i samme Mængder som før, saaledes
+at den samme Ligevægt indstiller sig. Vandets
+Dannelse og Vandets Dissociation er altsaa
+modsat rettede P. ell. reciproke kem. P.
+Dette udtrykkes ved Ligningen 2H2+O2 ⇆
+2H<sub>2</sub>O. Processen kan bringes til at forløbe
+baade frem og tilbage; en saadan kem. P.
+kaldes <sp>reversibel</sp>, medens en P., der kun kan
+forløbe i een Retning, kaldes <sp>irreversibel</sp>.
+
+Den kem. P. bruger en vis Tid til sit Forløb,
+men denne Tid kan være af meget forsk.
+Størrelsesorden, saaledes foregaar
+Neutralisationsprocessen mellem Syrer og Baser lige saa
+hurtigt, som det er muligt af blande Syre- og
+Baseopløsningen, medens f. Eks. Alkylsaltenes
+Forsæbning med Baser i mange Tilfælde
+forløber med saadanne Hastigheder, at P. kan
+udstrækkes over Timer. Hastigheden ved den
+kem. P. afhænger foruden af de reagerende
+Stoffers Koncentrationer (se
+<sp>Massevirkningslov</sp> og <sp>Reaktionshastighed</sp>)
+tillige af Temperaturen, idet den vokser stærkt
+med denne. Naar Reaktionshastigheden ved
+den k. P. under de forhaandenværende ydre
+Omstændigheder som Temp., Tilstedeværelse af
+Katalysatorer (se <sp>Katalyse</sp>) har en
+paaviselig Størrelse kaldes P. <sp>bevægelig</sp>. Den
+bevægelige P. forløber, indtil
+Ligevægtstilstanden er naaet, ell. indtil et ell. flere af de
+reagerende Stoffer er opbrugt. En kem. P., der
+p. Gr. a. Reaktionstræghed (d. v. s. uhyre lille
+Reaktionshastighed) ikke er bevægelig, kan
+blive dette ved Tilsætning af en Katalysator.
+Saaledes reagerer en Blanding af Ilt og Brint
+ikke er til Vand ved alm. Temp., først ved
+Opvarmning til c. 300° bliver P. bevægelig, men
+denne P. kan gøres bevægelig ved alm. Temp.
+ved at tilsætte Platinsvamp, der katalyserer
+Processen. Den kem. P. forløber altid under et
+Varmefænomen, der kan være en
+Varmeudvikling og i saa Fald kaldes P. <sp>exoterm</sp>, ell.
+det kan være en Varmeabsorption, og P. kaldes
+da <sp>endoterm</sp> (se <sp>Termokemi</sp>).
+
+Om den Retning, hvorefter en kem. P. i et
+Stofsystem, der er i bevægelig Ligevægt, vil
+forløbe, naar man forandrer Temp., Trykket
+ell. Koncentrationerne af Stofferne, siger <sp>Le
+Chateliers Princip</sp>, at P. altid vil
+forløbe saaledes, at Ændringen i de ydre
+Omstændigheder modvirkes. En høj Temp. vil
+saaledes begunstige saadanne P. i et kem. System,
+hvorved der dannes Forbindelser under
+Varmeoptagelse, endoterme Forbindelser, medens lav
+Temp. forskyder Ligevægten for en bevægelig
+P. i den Retning, at der dannes exoterme
+Forbindelser. Stort Tryk vil i et luftformigt
+System virke gunstigt paa saadanne kem. P., der
+forløber under en Aftagen af Molekylantallet,
+idet derved Trykket formindskes; saaledes vil
+Ammoniakdannelsen af Kvælstof og Brint ved
+c. 500°, hvor Processen er bevægelig, naar der
+er passende Katalysatorer til Stede, fremmes
+stærkt ved voksende Tryk, idet denne P.
+foregaar under Formindskelse af Molekylantallet,
+idet efter Ligningen N<sub>2</sub>+3H<sub>2</sub> ⇌ 2NH<sub>3</sub> 4
+Molekyler ved Processen bliver til 2 Molekyler.
+
+Forøges Koncentrationen af et Stof i et i
+kem. Ligevægt værende System, vil den kem. P.
+i Systemet forløbe saaledes, at
+Koncentrationsændringen modvirkes, d. v. s. det tilsatte Stof
+forbruges ved P.; paa lgn. Maade vil en
+Formindskelse af et af Stoffernes Koncentration
+bevirke en P., hvorved dette Stof dannes. En
+kem. P., der foregaar mellem Stoffer, der er
+opløst i hinanden ell. i et Opløsningsmiddel,
+altsaa i et homogent System, kaldes en
+<sp>homogen</sp> P. Foregaar P. derimod mellem en
+Luftart og et fast Stof, en Luftart og en Vædske,
+en Vædske og et fast Stof ell. mellem to i
+hinanden uopløselige Vædsker, altsaa paa
+Overfladen (Grænsefladen) mellem to Faser, kaldes
+P. en <sp>heterogen</sp> P. Nogle af de alm. kem. P.
+er de saakaldte Dobbeltdekompositioner,
+der kan udtrykkes ved den almene Ligning AB +
+CD ⇄ AD + CB, hvor altsaa to Molekyler

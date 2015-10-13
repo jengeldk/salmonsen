@@ -1,0 +1,140 @@
+ikke kendes noget Grundstof, af hvilket flere
+Atomer kan erstatte 1 Brintatom, har man sat
+Brintatomets V. lig med 1. Ifølge det anførte
+bliver da ogsaa Kloratomets V. lig med 1, da
+det kun forener sig med eller erstatter 1
+Brintatom, medens Iltatomets V. bliver lig 2, da
+det forener sig med 2 Brintatomer. Paa
+lignende Maade afledes Kvælstofatomets V. af
+Ammoniakkens Formel NH<sub>3</sub>; Kvælstoffets V. er
+3, og af Formelen CH<sub>4</sub>, Metan eller Sumpgas,
+ses det, at Kulstofatomet er 4-gyldigt.
+Forbindelserne ClH, OH<sub>2</sub>, NH<sub>3</sub> og CH<sub>4</sub> er <sp>typiske
+Forbindelser</sp> (se <sp>Typeteori</sp>); til dem
+svarer mange andre, f. Eks. BrH, SH<sub>2</sub>, PH<sub>3</sub>,
+SiH<sub>4</sub>, af hvis Formler det ses, at Brom, Svovl,
+Fosfor og Silicium er henholdsvis 1-, 2-, 3- og
+4-gyldige (<sp>mono</sp>-, <sp>di</sp>-, <sp>tri</sp>- og
+<sp>tetravalente</sp>). Saafremt et Grundstof ikke danner
+nogen Brintforbindelse, da kan dets V. afledes
+af Formlen for dens Klorforbindelse, da Klor
+og Brint begge har V. 1; da f. Eks.
+Aluminium ikke danner nogen Brintforbindelse, men
+forener sig med Klor til ALcL<sub>3</sub>, har det
+Gyldigheden 3. Grundstofferne kan opstilles i Grupper
+efter deres Gyldighed; saaledes er Fluor, Klor,
+Brom og Jod 1-gyldige (monovalente), da de
+forener sig med 1 Atom Brint; Ilt, Svovl, Selen
+og Tellur 2-gyldige (divalente), da de forener
+sig med 2 Atomer Brint; af tilsvarende Grunde
+er Kvælstof, Fosfor, Arsen og Antimon
+3-gyldige (trivalente), medens Kulstof og Silicium
+er 4-gyldige (tetravalente). Metallernes V.
+lader sig ogsaa bestemme ved det Antal
+Brintatomer, som de formaar at erstatte;
+eksperimentelt kan den bestemmes ved Anvendelse af
+Faraday's elektrolytiske Lov, idet man leder
+samme elektriske Strøm gennem et Voltmeter
+og Opløsninger af forskellige Metalsalte; der
+udskilles da ved de negative Poler ækvivalente
+Mængder Metal. Medens Grundstoffernes V.
+over for Brint i reglen kan udtrykkes ved et
+bestemt Tal, er deres V. over for andre
+Grundstoffer, f. Eks. over for Klor og Ilt, hyppigt
+vekslende; saaledes er Fosfor 3-gyldigt over for
+Brint, da det dermed danner Forbindelsen PH<sub>3</sub>,
+men over for Klor og Ilt kan det baade være
+3-gyldigt og 5-gyldigt, da det danner
+Forbindelserne PCL<sub>3</sub> og PCL<sub>5</sub>, P<sub>2</sub>O<sub>3</sub> og P<sub>2</sub>O<sub>5</sub>; Svovl er
+2-gyldigt over for Brint, men 4- og 6-gyldigt
+over for Ilt, hvormed det danner
+Forbindelserne SO<sub>2</sub> og SO<sub>3</sub>, i hvilke hvert Iltatom er
+2-gyldigt. V. er altsaa ikke saaledes som
+Atomvægten en absolut Egenskab hos
+Grundstofferne, men kun en relativ, idet den afhænger af
+de paa hinanden virkende Grundstoffer og af
+de Betingelser, hvorunder Virkningen foregaar.
+At der er en vis Afhængighed mellem
+Grundstoffernes V. og deres Atomvægt, ses, naar de
+ordnes efter Atomvægtens Størrelse, saaledes
+som det sker i det periodiske System (s. d.).
+Vil man særlig betegne et Grundstofs V., da
+sker det ved Anbringelse af et lille Romertal
+<table>
+<td><td c>I<td c>II<td c>III<td c>IV<td c>VI<td>
+<td>over Atomtegnet, f. Eks.<td>Cl,<td>O,<td>N,<td>C,<td>S<td>o. s. v.
+</table>
+Saa vidt bekendt optræder intet Grundstofatom
+med højere V. end 8. Paa Grund af
+Atomernes vekslende V. kan Valensteorien ikke give
+Oplysning om <sp>alle</sp> Forbindelser, som
+Grundstofferne kan danne; dog er Kendskabet til
+Atomernes Maksimalvalens et vigtigt
+Hjælpemiddel til tilnærmelsesvis Bestemmelse af
+Antallet af mulige Forbindelser af disse (se
+<sp>Struktur</sp>).
+<i>(O. C.). S. P.</i>
+
+Dette klare og skarpt definerede
+Valensbegreb er i de senere Aar udvidet paa forskellig
+Maade. De fleste af de fremsatte Teorier kan
+imidlertid kun betragtes som Overgangsstadier;
+nogle af dem er dog saa betydningsfulde og
+saa solidt underbyggede af eksperimentelle
+Kendsgerninger, at de sandsynligvis har Værdi
+i hvert Fald som Retningslinier ved Skabelsen
+af Fremtidens Valensbegreb. Stereokemien
+lærte allerede tidligere, at Kulstoffets Valenser
+maatte være »rettede« efter Linier, fordelte i
+Rummet om Atomet. Skarpere og mere alment
+fremgaar dette af Werner's Koordinationsteori,
+der er udførlig omtalt under
+Metalammoniakforbindelser (s. d.), hvis Konstitution ikke
+kunde forklares ved Hjælp af den gamle
+Valensteori. En endnu mere indgribende Betydning
+har naturligvis Bohr's Lære om Atomets
+Bygning faaet for Opfattelsen af V. Da Bohr's
+Anskuelser og Betragtninger saavel om Atomernes
+Bygning, som om hvad denne kan lære os om
+Valensbindinger, er gennemgaaet meget udførligt
+i Artiklen om det <sp>periodiske System</sp> (s. d.),
+er det her tilstrækkeligt at fremhæve nogle
+enkelte Forhold. I de inaktive Luftarters Atomer
+er Elektronbanerne, ogsaa de yderste, saa
+stabilt ordnede, at de ikke ved sædvanlige kemiske
+Kræfter lader sig ændre; deres V. er derfor
+Nul. Findes der nu i et andet Stofs Atomer
+een Elektron mere end i en inaktiv Luftarts,
+saaledes som i Natriumatomet (se Figurerne i
+Bind 18, S. 1099), vil denne ret let svinge over
+paa et andet Atom, som har een Elektron
+færre, f. Eks. et Kloratom. Der opstaar da et
+Natriumatom med en positiv Ladning (i
+Overskud) og et Kloratom med en negativ
+Ladning, men begge med Elektronbaner, der er lige
+saa stabile som de inaktive Luftarters. Disse
+to elektrisk ladede Atomer, Ioner, bindes af de
+elektriske Kræfter sammen til Natriumklorid, og
+en Krystal heraf er netop opbygget af saadanne
+Ioner, ganske regelmæssigt fordelte mellem
+hverandre. Hver Natriumion vil da være
+omgivet af, bundet til, 6 Klorioner og ikke til een
+som efter den gamle Valensteori; da hver
+Klorion ogsaa er omgivet af 6 Natriumioner, vil de
+samlede positive og negative Valenser alligevel
+forholde sig som en til en. Saadanne
+Forbindelser, hvor de to Slags Elektricitet er vel
+adskilte, kaldes heteropolare i Modsætning til de
+homopolare, der mest udpræget findes blandt de
+organiske Stoffer. Her er Elektronerne,
+Valenselektronerne, ikke gaaet helt over fra det ene
+Atom til det andet, men kun løsnede. Banerne
+er ændret i kendelig Grad og hører med til
+begge Atomers Elektronsystemer. Kunde man
+fuldt ud beregne Elektronernes Baner og deres
+Kraftfelter, havde man derved samtidig
+beregnet V.'s Størrelser, men det er der endnu en
+uoverskuelig lang Vej frem til. Da
+Valensbindingerne saaledes skyldes elektriske
+Tiltrækninger, og da der i Atomerne findes indtil 92
+Elektroner, hvoraf kun ganske faa (højst 8) kan

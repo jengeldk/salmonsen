@@ -1,0 +1,23 @@
+<img></img>
+<table>
+<td r>1.<td><i>Uldspinderi</i>
+<td r>2.<td><i>Sygehus</i>
+<td r>3.<td><i>Fabrik</i>
+<td r>4.<td><i>Frederiksvaag</i>
+<td r>5.<td><i>Seminarium, Realskole</i>
+<td r>6.<td><i>Telegrafstation</i>
+<td r>7.<td><i>Bank</i>
+<td r>8.<td><i>Posthus</i>
+<td r>9.<td><i>Skoler</i>
+<td r>10.<td><i>Kirke</i>
+<td r>11.<td><i>Sparekasse</i>
+<td r>12.<td><i>Telefonstation</i>
+<td r>13.<td><i>Lagtingshus</i>
+<td r>14.<td><i>Sorenskriverbolig</i>
+<td r>15.<td><i>Landfogedbolig</i>
+<td r>16.<td><i>Amtmandsbolig</i>
+<td r>17.<td><i>Hotel</i>
+<td r>18.<td><i>Apotek</i>
+<td r>19.<td><i>Krudthus</i>
+<td r>20.<td><i>Ting- og Arresthus</i>
+</table>

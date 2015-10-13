@@ -1,0 +1,101 @@
+cm tykt Mørtellag, hvorpaa Slidlaget lægges; et
+grovere Materiale som Ærtesten ell. Nøddesten
+er uegnet, fordi Stenene lejrer sig fast mod
+hverandre og saaledes overfører Lyden. Det
+øvre Mørtellag og Slidlaget bør ikke berøre
+Vægge og Søjler og heller ikke lodrette
+Rørledninger, hvilket kan forhindres ved Indlæg
+af Kork- ell. Filtstrimler. Lægges det haarde
+Slidlag direkte paa det bærende Gulv, vil
+Lydstrømmen gaa over i dette og først kunne
+afbrydes ved Murene, f. Eks. ved at lade
+Etageadskillelsen hvile paa Korkplader, hvorved dog
+den direkte Overføring af Lyd fra
+Etageadskillelsen til Luften under denne ikke
+forhindres. Skal Jernbetongulvet have Slidlag af Træ,
+kan dettes Strøer lægges paa Korkplader ell. i
+et Lag Slagger. Alm. Træbjælkelag isoleres
+med Ler og eventuelt Tagpap. I amer.
+Parketgulve indlægges Pap mellem Blindgulv og
+Parketgulv, medens Indskud og Lerlag udelades.
+Undertiden udføres Loftet under Gulvet som en
+selvstændig Konstruktion, der ikke berører
+Gulvet, men bæres af selvstændige Bjælker.
+
+Vil man hindre Lydovergang fra
+Etageadskillelser til Vægge og omvendt, kan Væggene
+stilles paa presset Kork og skilles fra Loftet ved
+et Lag Haarfilt. Vandret Lydforplantning
+gennem Etageadskillelsen kan hæmmes ved at
+afbryde den med en lodret Fuge under
+Tværvæggene, der i saa Fald gøres dobbelte. Fig.
+viser Længdesnit i en Bygning, hvor de nævnte
+Forholdsregler er tagne, og hvor
+Etageadskillelsens Afbrydelse er tilvejebragt ved Hjælp af
+en Bræddeflage, der opstilles inden Støbningen
+og forbliver i Konstruktionen.
+<i>E. Su.</i>
+
+<img>Lydisolerende Gulve.</img>
+</chapter>
+
+<chapter name="lydisolerende Maskinunderlag">
+<b>lydisolerende Maskinunderlag.</b> Skal Lyden
+fra en støjende Maskine lokaliseres, kræves to
+Ting: 1) Maskinen maa opstilles i et Rum, hvis
+Gulv, Loft og Vægge er egnede til at standse
+Lufthølgerne (se <sp>lydisolerende Vægge</sp>).
+2) Maskinen maa hindres i at sætte de nævnte
+faste Dele direkte i Svingning, hvilket enten
+kan ske ved at befæste Maskinen til et saa
+svært Fundament, at Svingningerne bliver
+betydningsløse, ell. ved at isolere Maskinen fra
+de faste Stoffer, saaledes at Svingningerne
+overhovedet ikke gaar over i disse. Til saadan
+Isolering er lette Stoffer med lille
+Elasticitetskoefficient bedst egnede. En lille
+Elasticitetskoefficient træffes baade hos de meget plastiske
+og hos de meget elastiske Stoffer, men da de
+første flyder ud under Maskinens Tryk, er de
+meget elastiske Stoffer med ringe Vægtfylde
+bedst egnede til Isoleringsbrug, f. Eks.
+Korkplader, Kautsjuk, Filt m. fl. For disse Stoffer
+gælder i endnu højere Grad end for fastere,
+at Lydforplantningsevnen stiger med voksende
+Trykspænding, hvorfor denne bør holdes ringe.
+Ved stærk Sammenpresning bliver Stoffet
+haardt og lydledende, et Fænomen, der er vel
+kendt ved Filt, der ligger under tunge
+Maskiner og derved i Tidens Løb mister sin
+Isoleringsevne. Ved Spændinger over 25 Atm. synes
+intet af de til Maskinunderlag brugte Stoffer at
+have en varig Virkning. Naar Klaverer
+opstilles paa tæppe- ell. linoleumklædte Gulve, bør
+der derfor lægges trykfordelende Plader under
+Benene, hvis man vil drage Nytte af det bløde
+Lag.
+
+Et meget brugt Isoleringsstof er pressede
+Korkplader. Ved Maskiner, der er løst
+opstillede paa et Gulv ell. andet Fundament,
+indlægges simpelt hen en Korkplade mellem dette og
+Maskinen. Paa tilsvarende Maade kan
+Komfurer, paa hvilke der tumles med Gryder og
+Kogehulsringe, isoleres fra Gulv og eventuelt
+Vægge, saa Lyden ikke gaar over i disse. Ved
+Isolering af Lejebukke, der fastgøres paa
+Vægge og Lofter (Fig. 1), indlægges Kork paa alle
+de Jernflader (ogsaa Boltene), der ellers vilde
+komme i Berøring med Bygningen. Ved
+Isolering af staaende Maskiner, der er fæstnede til
+Fundamentet med Ankerbolte, bør ogsaa disses
+Anlægsflader belægges med Kork, da det ellers
+kun er de nedadgaaende og ikke de
+opadgaaende Svingninger, der dæmpes. Ligger
+Maskinfundamentet i Jorden, gør man bedst i at
+adskille det helt fra Bygningen og indlægge et
+
+<table>
+<td><img>Fig. 1.</img><td><img>Fig. 2.</img><td><img>Fig. 3.</img>
+<td 3 c>Lydisolerende Maskinunderlag.
+</table>

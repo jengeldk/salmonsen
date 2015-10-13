@@ -1,0 +1,94 @@
+den klassiske Elektricitetsteori, kommer man i
+det store og hele til Overensstemmelse med
+Erfaringen, om end der ikke kan være Tvivl
+om, at Udsendelsen skal behandles efter
+Kvanteteorien og ikke efter den klassiske Teori, men
+en saadan Behandling kan endnu ikke fuldt
+gennemføres. At det er Kvanteteorien, der er
+bestemmende, følger allerede af de særlige
+Forhold vedrørende Spektrets Grænse mod korte
+Bølgebredder. Hvis den kontinuerte Straaling
+udsendes i Kvanter, hver med sin bestemte
+Bølgebredde, maa Grænsen mod korte
+Bølgebredder være bestemt ved, at det største
+Kvantum Energi, der kan udsendes ad Gangen, er en
+enkelt indfaldende Katodestraaleelektrons
+Energi. Størrelsen af et Kvantum Straalingsenergi er
+h <i>v</i>, hvor h er Planck's Konstant (se
+<sp>Kvanteteori</sp>), og <i>v</i> er Straalingens Frekvens, d. v. s.
+Antallet af Bølger pr. Sek., <i>v</i> = <i>c</i>/λ. hvor <i>c</i> er
+Lysets Hastighed. En indfaldende Elektrons
+Energi 1/2 mv<sup>2</sup> = eV (m Elektronens Masse, e
+dens Ladning, v dens Hastighed, V den
+Spændingsforskel, der driver Røret og giver
+Elektronerne Energi). Sættes dette lig hv, faas λ =
+12300/V, idet λ er maalt i Ångström Enheder =
+10<sup>-8</sup> cm. Denne Ligning bestemmer altsaa den
+korteste Bølgebredde, der efter Kvanteteorien
+kan opnaas ved en vis Spænding V Volt paa
+Røret, og dens Rigtighed er paa det nøjeste
+bekræftet af Erfaringen. De kontinuerte
+Røntgenspektres Energifordeling er afbildet i Fig.
+9; her er Abscissen Bølgebredden i Ångström,
+Ordinaten Maal for den Energimængde, der
+udsendes af de forsk. Bølgebredder, alt vist for
+3 forsk. Spændinger paa Røret, angivet i
+Kilovolt = 1000 Volt. Grænsen mod lange
+Bølgebredder er i Praksis væsentlig bestemt af
+Absorption i Glasset og er af mindre Interesse.
+Fig. viser, hvorledes Grænsen mod korte
+Bølgebredder forskydes med Spændingen efter
+Ovenstaaende Formel, og tillige, at det samlede
+R.-udbytte vokser stærkt med Spændingen (omtr.
+proportionalt med V<sup>2</sup>). En Forøgelse af
+Strømstyrken gennem Røret ændrer derimod slet ikke
+Straalingens Sammensætning ell. Kvalitet,
+forøger blot alle Ordinater i samme Forhold.
+Endelig er det samlede Straaleudbytte
+proportionalt med Antikatodens Stofs Atomnummer
+(se <sp>periodiske System</sp>). Medicinsk
+Interesse har kun Straalingen kortere end c. 1
+Ångström; de senere Aars Udvikling af
+Dybdeterapien (til Behandling af dybtliggende
+Kræftsvulster) har ført til Anvendelse af stadig
+højere Spændinger for at opnaa kortere
+Bølgebredde og derfor mere gennemtrængende
+Straaling. Hertil anvendes hyppigt Spændinger paa
+200 Kilovolt ell. mere.
+
+Den anden Del af R. fra et R.-rør,
+Antikatodemetallets karakteristiske Straaling, er
+et Liniespektrum. Hvert Grundstof har lige
+saa vel som sit karakteristiske optiske
+Spektrum et karakteristisk Røntgenliniespektrum,
+bestaaende af ret faa skarpe Linier med hver
+sin bestemte Bølgebredde. Fig. 10. viser
+skematisk de stærkeste Linier i Spektrene
+for hvert 3. Grundstof i det periodiske System.
+Foroven er angivet Bølgebredden i Ångström;
+med. Interesse har altsaa væsentlig kun det,
+der ligger længst til venstre mellem 0 og 1.
+Fig. viser, at Stoffernes Spektre falder i skarpt
+adskilte Grupper af Linier, K-, L-, M- og
+N-Gruppen; hver af disse Grupper er ikke meget
+forsk. bygget fra Stof til Stof, men
+Bølgebredden aftager ganske regelmæssigt med voksende
+Atomnummer. For de laveste Stoffer er derfor
+kun K-Straalingen haard nok til at kendes, og
+først for de højeste Stoffer kendes lidt til
+N-Gruppen. De enkelte Linier i hver Gruppe
+betegnes ved gr. Bogstaver, f. Eks. den stærkeste
+K-Linie ved Kα (den er selv dobbelt), derefter
+Kβ o. s. v. Alt hvad der har længere
+Bølgebredde end c. 2 Å, maa undersøges i
+Vakuumspektrograf, da Luften ogsaa absorberer
+saadanne bløde Straaler. Den længste iagttagne
+R.-bølgebredde ligger ved c. 14 Å. — Udsendelsen
+af det karakteristiske R.-spektrum fra
+Antikatodens Atomer foranlediges af de indfaldende
+
+<img>Fig. 9. Energifordeling i det kontinuerte
+Røntgenspektrum.</img>
+
+<img>Fig. 10. De stærkeste Linier i hvert 3. Grundstofs
+karakteristiske Røntgenspektrum.</img>

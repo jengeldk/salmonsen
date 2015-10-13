@@ -1,0 +1,138 @@
+medens <sp>Inklinationsnaalen</sp> kan dreje
+sig om en vandret Akse i en lodret Plan,
+Stedets magnetiske Meridianplan. — I mange
+Tilfælde anvender man af praktiske Grunde
+Elektromagneter, hvor man principielt lige saa godt
+kunde anvende permanente Magneter, f. Eks.
+som Feltmagneter i Dynamoer og Motorer, i
+elektr. Kraner.
+
+Paa en væsentlig anden Maade udnyttes M.,
+naar Jernet benyttes f. Eks. som Anker i
+Dynamoer og Motorer ell. i Transformatorer. Det
+vigtige er her Vekselvirkningen mellem M. og
+elektr. Strøm, og man maa derfor til disse
+Anvendelser bruge Jern med stor magnetisk
+Induktion. Men tillige bliver Jernet i disse
+Apparater ustandselig ommagnetiseret, og da der
+til hver Ommagnetisering kræves en vis
+Energimængde, er det af yderste Vigtighed for
+Apparaternes Økonomi at anvende Jernsorter med
+smal Hysteresekurve, med lille Koercitivkraft.
+Ikke blot gaar den nævnte Energimængde
+praktisk set tabt, idet den nemlig omdannes til
+Varme i Jernet, men denne Varme
+(Hysteresevarmen) kan endog gøre direkte Skade, idet
+den dels forringer Jernet i magnetisk
+Henseende og dels kan ødelægge
+Isolationsmaterialet i Strømspoler. Til at karakterisere de
+forsk. Jernsorter benyttes her den saakaldte
+<sp>Permeabilitet</sp> <i>μ</i>, der defineres som
+Forholdet mellem <i>B</i> og <i>H</i>; <i>μ</i> = <i>B/H</i>, <i>μ</i> varierer
+med <i>H</i>, idet den med voksende <i>H</i> først vokser
+og derpaa aftager for efterhaanden at nærme
+sig Værdien 1. Ved de her omhandlede
+Anvendelser af M. maa benyttes Jernsorter med
+stcr Permeabilitet; jo større <i>μ</i> er, desto
+stejlere vil nemlig <i>B—H</i>-Kurven stige op fra
+Abscisseaksen, desto mindre vil tillige det til en
+stor Værdi af <i>B</i> svarende <i>H</i> være og desto
+mindre følgelig Hysteresetabet. Man bruger i
+Alm. Siliciumstaal med et Indhold af 2—4 %
+Silicium; for dette er Koercitivkraften omkr.
+0,8 Gauss.
+Maksimalpermeabiliteten c. 4000,
+svarende til en
+Induktion paa <i>B</i>
+= 6—7000;
+Hysteresetabet er c.
+1,5 Watt pr kg
+Jern for 50
+Perioder i Sek. og
+for en
+Maksimalinduktion paa
+1000. Af Interesse
+er det, at en
+grundig
+Udglødning i Vakuum
+forøger <i>μ</i> meget
+stærkt; man har saaledes for Siliciumstaal,
+behandlet paa denne Maade fundet en
+Maksimalpermeabilitet paa 66000 og en Koercitivkraft
+paa 0,2 Gauss, samt et Hysteresetab, som kun
+var godt 1/10 af det ovf. nævnte.
+
+I en Del Apparater, f. Eks. Telefoner,
+polariserede Relais'er m. fl. bliver en Magnet
+(permanent ell. Elektromagnet) udsat for
+forholdsvis svage magnetiske Kræfter, der snart vil
+svække, snart forstærke den tilstedeværende
+Magnetisering, men som er for smaa til at
+bevirke en fuldstændig Ommagnetisering af
+Jernet. Herved vil <i>B</i> variere som vist i Fig. 6;
+har den magnetiske Kraft Værdien <i>H</i><sub>1</sub>, vil
+Induktionen være <i>B</i><sub>1</sub>, men varierer <i>H</i> mellem <i>H</i><sub>1</sub>
+og <i>H</i><sub>2</sub> vil <i>B</i> ikke ændres efter den sædvanlige
+Hysteresekurve, men derimod efter den viste
+lille Sløjfe, altsaa mellem Grænserne <i>B</i><sub>1</sub> og <i>B</i><sub>2</sub>.
+Variationens Størrelse bestemmer en ny for
+Jernsorten karakteristisk Konstant, nemlig
+<sp>den reversible Permeabilitet</sp> <i>μrev</i>,
+defineret ved <i>μrev</i> = Δ <i>B</i>/Δ <i>H</i>. Denne er entydig
+bestemt ved Jernets Magnetiseringsintensitet,
+hvorledes end denne er frembragt, og varierer
+i det hele taget ikke nær saa stærkt som den
+ovf. definerede Permeabilitet <i>μ</i>.
+Energiforbruget ved saadanne smaa Variationer af <i>H</i> er
+meget ringe; det er repræsenteret ved den lille
+Sløjfes Areal, og dette naar først en væsentlig
+Størrelse, naar Δ <i>H</i> bliver saa stor, at <i>H</i>
+skifter Retning.
+
+<sp>Dia</sp>-, <sp>para</sp>- og <sp>ferromagnetiske
+Legemer</sp>. Allerede Faraday viste, at mange
+andre Legemer end Jern paavirkes af et
+Magnetfelt. Man skelner nu mellem tre Arter af M.
+Ved de <sp>diamagnetiske Legemer</sp> er
+Susceptihiliteten negativ; som Følge heraf vil
+en Stang af et diamagnetisk Materiale, anbragt
+i et inhomogent Magnetfelt, med sine Ender
+søge hen hvor Feltet er svagest.
+Susceptibiliteten er her meget nær uafhængig af
+Temperaturen og uafhængig af den magnetiserende
+Kraft; den er altid meget lille, selv for det
+stærkest diamagnetiske Stof, Vismut, kun —
+14 · 10<sup>—6</sup>. — Ved de <sp>paramagnetiske
+Legemer</sp> er Susceptibiliteten positiv, af
+Størrelsesordenen 1—60 · 10<sup>—6</sup>. Den er omvendt
+proportional med den absolutte Temperatur,
+men uafhængig af Feltstyrken. Et
+paramagnetisk Legeme vil i et inhomogent Magnetfelt
+med sine Poler søge hen, hvor Feltet er
+stærkest. Af paramagnetiske Legemer kan nævnes
+Ilt; flydende Ilt vil derfor klæbe fast til Polerne
+af en kraftig Magnet, og en Sæbeboble fyldt
+med Ilt vil trækkes ud til en Ellipsoide. —
+Endelig betragtes de ferromagnetiske
+Legemer som en særlig Gruppe. Her er
+Susceptibiliteten ligeledes positiv, men mange
+Gange større end ved de paramagnetiske
+Legemer (den er af Størrelsesordenen 50—200);
+endvidere afhænger Susceptibiliteten ikke blot af
+den øjeblikkelige Værdi for Feltstyrken, men
+ogsaa af de umiddelbart foreg. Værdier
+(<sp>Hysterese</sp>); de ferromagnetiske Legemer
+bliver paramagnetiske ved Temperaturer over en
+vis kritisk Temperatur (ved Jern 785°). Det
+absolut vigtigste ferromagnetiske Legeme er
+Jern, men ogsaa Nikkel og Kobolt er
+ferromagnetiske: de viser Mætning og Hysterese ganske
+som Jern; saaledes er for Nikkel
+Mætningsintensiteten 400 abs. Enheder, Koercitivkraften
+15 Gauss og den kritiske Temp. 310°. Af andre
+ferromiagnetiske Stoffer maa nævnes de af <sp>F.
+Heussler</sp> 1898 fundne Legeringer af
+Mangan, Kobber og Tin;
+Magnetiseringsintensiteten afhænger meget af Behandlingen, men kan
+
+<img>Fig. 6.</img>

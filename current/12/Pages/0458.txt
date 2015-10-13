@@ -1,0 +1,102 @@
+Straalepar til det iagttagende Øje (saa
+mange, at Pupillen er udfyldt). Den ene Straale af
+hvert af disse Par har været inde i Pladen, og
+ved tilstrækkelig stor Tykkelse vil disse
+Straalers Veje inde i Pladen blive saa forsk., at
+alle Straaleparrene ikke længere kan regnes at
+have samme Faseforskel; deres noget forsk.
+Faseforskel vil da bevirke, at I.-Striberne
+forsvinder.
+
+Saadanne I.-Striber anvendes i forsk.
+Apparater, saaledes i Abbe-Fizeau's Dilatometer til
+Maaling af faste Stoffers Udvidelseskoefficient.
+I Jamin's Interferentialrefraktometer til
+Maaling især af Luftarters Brydningsforhold
+anvendes I.-Striber, der fremkommer ved to lige
+tykke og næsten parallelle Glasplader (Fig. 3).
+Lysstraalen <i>L</i> spaltes i Straalerne <i>ABCDE</i> og
+<i>A'B'C'D'E'</i>, der interfererer med hinanden, og
+da de forløber rumligt adskilt mellem Pladerne,
+kan de f. Eks. sendes gennem hver sit Rør,
+et indeholdende Luft, et andet lufttomt. Sendes
+langsomt en Luftart ind i dette Rør, ændres
+Faseforskellen mellem Straalerne, saa at
+I.-Striberne forskydes; af Forskydningen
+bestemmes Brydningsforholdet. Efter dette Princip er
+endogsaa konstrueret tekn. anvendte Apparater
+til visse Luftanalyser.
+
+<sp>I. ved stor Vejforskel</sp> (<sp>høje I.</sp>).
+Disse kræver en absolut planparallel Plade (eller
+Luftlag) og maa da iagttages i en paa parallelt
+Lys (paa »uendelig«) indstillet Kikkert ell. af
+et ikke akkomoderet Øje. I Fig. 4 er <i>PQ</i>
+Pladen og <i>L</i> Kikkertens Objektiv (Øjets »Linse«).
+I ethvert Punkt <i>F</i> af Kikkertens Brændplan
+samles et Bundt af indbyrdes parallelle
+Straalepar fra hele Pladens Overflade; paa Fig. er
+vist to saadanne Par, et optrukket og et
+punkteret. Den ene Straale af hvert af disse Par
+har været inde i Pladen, og alle disse Straaler
+(<i>BCD</i> og <i>B'C'D'</i>) har gennemløbet den i
+nøjagtigt parallelle Retninger, saa at alle
+Straaleparrene har nøjagtig samme Faseforskel og
+derfor giver samme I. i F. Men denne veksler
+med Straalebundets Hældning <i>i</i>, er altsaa en
+anden for et andet Bundt parallelle Straaler, der
+siamles i et andet Punkt i Brændplanen. Her
+vil da opstaa I.-Striber svarende til samme
+<sp>Hældning</sp>, idet bestemte Værdier af <i>i</i> giver
+stærkest Lys og andre Værdier giver Mørke;
+disse Striber staar altsaa i Modsætning til de
+ovf. omtalte I.-Striber svarende til samme
+<sp>Tykkelse</sp>. Hvor stor Vejforskel man endnu kan
+faa I.-Striber med, afhænger da kun af Lysets
+Natur. Absolut homogent Lys eksisterer ikke,
+da ingen Spektrallinie er fuldkommen skarp,
+men f. Eks. den stærkeste (grønne) Linie i
+Kvægsølvspektret er saa homogen, at den
+endnu giver skarpe I.-Striber ved mere end 1 Mill.
+Bølgebredders Vejforskel.
+
+Af de forsk. Metoder til Frembringelse af
+saadanne I.-Striber skal først omtales <sp>A. A.
+Michelson</sp>'s <sp>Interferometer</sp> (Fig. 5),
+hvormed en Række berømte fys. Undersøgelser
+er foretagne. Lysstraaler, f. Eks. Straalen <i>Q A</i>,
+falder fra venstre ind mod den svagt
+forsølvede Forside af Glaspladen <i>A</i>; her deler de sig,
+en Del reflekteres mod Spejlet <i>C</i> og derfra
+tilbage gennem <i>A</i> ind i Kikkerten <i>E</i>, en Del gaar
+gennem <i>A</i> hen til Spejlet <i>D</i> og reflekteres
+derfra og fra <i>A</i>'s Forside ind i Kikkerten, hvor de
+interfererer. (Glaspladen <i>B</i> er indskudt, for at
+begge Straaler skal faa lige lang Vej i Glas).
+Et af Spejlene, f. Eks. <i>C</i>, er indstilleligt, det
+indstilles saaledes, at dets Spejlbillede i <i>A</i> er
+nøjagtig parallelt med <i>D</i>; I. kan da siges at
+finde Sted i et planparallelt Luftlag mellem
+dette Spejlbilledes Forside og Forsiden af <i>D</i>.
+<i>C</i> kan tillige bevæges parallelt med sig selv,
+saa at den imaginære Luftplades Tykkelse kan
+varieres. Med dette Interferometer er først og
+fremmest (1881) udført det berømte (for
+<sp>Relativitetsteorien</sp> grundlæggende) Forsøg
+over Lysets Hastighed i Retning af og vinkelret
+paa Jordens Bevægelsesretning, men ogsaa en
+stor Mængde spektroskopiske o. a.
+Undersøgelser. Vigtigst af disse er Udmaalingen af
+Meteren i Lysbølgebredder, hvilket er det
+samme som en nøjagtig Udmaaling af
+Bølgebredden for det benyttede Lys, 3 Linier i
+Cadmiums Spektrum, de skarpeste kendte Linier.
+Denne Undersøgelse, der er en af de
+smukkeste Bedrifter i moderne fys. Maalekunst,
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>
+

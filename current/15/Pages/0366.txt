@@ -1,0 +1,88 @@
+Midtemeridianen bliver her rette Linier, de øvrige
+geogr. Linier derimod Cirkelbuer. Meridianerne
+konstrueres ved at dele Ækvatorlinien i lige
+store Dele og gennem hver af disse
+Delingspunkter og begge Polerne at tegne Cirkler. Paa
+samme Maade faas til Bestemmelse af hver
+Parallel 3 Punkter, idet Midtemeridianen
+saavel som Begrænsningscirklen hver deles i lige
+store Stykker. Projektionen er hverken areal-
+ell. vinkeltro, men dens Forvanskninger er dog
+forholdsvis ikke store.
+
+Af andre uægte skal nævnes: Den
+<sp>midtafstandstro Azimutalprojektion</sp>, i
+hvilken hvert Punkt afsættes i den rigtige
+Afstand og Retning fra Kortets Midtpunkt. Er
+dette Midtpunkt en af Polerne, bliver
+Meridianerne rette Linier med rigtig Længde, 
+medens Parallellerne, der er koncentriske Cirkler
+med lige store Afstande, bliver mere og mere
+for store, efterhaanden som man fjerner sig
+fra Midtpunktet. Forstørringen er dog moderat,
+for Halvkuglen som Maksimum saaledes 57 %.
+Projektionen anvendes en Del, navnlig ved
+Polarlandene.
+
+<sp>Lambert's arealtro
+Azimutalprojektion</sp> ligner den foregaaende, men
+Parallellernes Cirkler konstrueres saaledes, at
+Arealet inden for hver af dem bliver lige stort
+med den tilsvarende Kuglekalots krumme
+Overflade. Ligger Kortets Midtpunkt uden for
+Polerne (Ækvatorial- ell. Horisontprojektion),
+benyttes ved begge disse Projektioner som
+Konstruktionslinier i St f. Meridianernes Storcirkler,
+der skærer hverandre i dette Midtpunkt, og i
+St f. Parallellerne koncentriske Lillecirkler.
+Gradnettets Konstruktion bliver her mindre
+simpelt og maa særlig iberegnes. Fig. 5 viser
+sidstnævnte Projektion i ækvatorial Form.
+
+Flere azimutale Projektioner er benyttet til
+Fremstilling af hele Jordoverfladen. Af
+saadanne skal nævnes to, der begge er arealtro.
+I <sp>Mollweide</sp>'s (ogsaa kaldet Babinet's)
+Projektion (Fig. 6) fremstilles hele Jordkloden som
+en Ellipse med Midtemeridianen som Lilleakse
+og Ækvator som Storakse, dobbelt saa stor som
+Lilleaksen. Ækvator deles i lige store Stykker,
+og Meridianerne fremstilles ved Ellipser,
+trukne gennem disse Delingspunkter og begge Poler.
+Parallellerne bliver rette Linier parallelle med
+Ækvator og i en saadan Afstand, at Arealerne
+mellem dem ligesom mellem Meridianerne
+bliver lig med de tilsvarende paa Kuglen.
+<sp>Hammer's arealtro
+Azimutalprojektion</sp> (Fig. 7) er en nyere, hvis Gradnet kan
+tænkes fremstillet ved at projicere Lambert's
+arealtro Projektion (Fig. 5) paa et nyt Plan,
+der skærer det opr. efter Midtemeridianen og
+under en Vinkel paa 60°. Denne Projektion
+giver mindre Forvridninger end Mollweide's.
+
+II. <sp>Kegleprojektioner</sp> (koniske
+Projektioner). Disse tillige med de efterfølgende
+Cylinderprojektioner benævnes ogsaa
+<sp>Udfoldningsprojektioner</sp>, fordi den benyttede
+Hjælpeflade efter Overførelsen tænkes
+opskaaret og udfoldet i Planet. Hjælpefladen tænkes
+som oftest at tangere (undertiden dog at skære)
+Kuglen; dens Akse, der gaar gennem Jordens
+Centrum, kan enten være sammenfaldende med
+Polaksen, ligge i Ækvators Plan ell. være en
+vilkaarlig anden Diameter. De deraf følgende
+Former for Projektionen kaldes henh.
+<sp>normale</sp>, <sp>transversale</sp> ell. <sp>skævaksede</sp>,
+svarende til de 3 Former for
+Azimutalprojektion, Den normale Form er dog almindeligst og
+forudsættes i det flg., hvor intet andet anføres;
+den skævaksede benyttes sjældent. Fl.
+
+<img>Fig. 4. Globularprojektion.</img>
+
+<img>Fig. 5. Lamberts arealtro Azimutalprojektion.</img>
+
+<img>Fig. 6. Mollweides Projektion.</img>
+
+<img>Fig. 7. Hammers arealtro Azimutalprojektion.</img>

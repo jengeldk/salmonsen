@@ -1,0 +1,124 @@
+Bogies H.; Bogierne har oftest 2, ved Salonvogne
+undertiden 3 Aksler; for Specialvogne til
+Læsning af tunge og lange Genstande, som f. Eks.
+Kanoner, bruges dog endnu fl. Aksler.
+Godsvogne har i Reglen mindre H. end
+Personvogne, da de førstnævntes Løb ikke behøver at
+være saa roligt som de sidstnævntes. Endelig
+skal bemærkes, at H.'s Størrelse for lange
+Vognes Vedk. staar i et vist Forhold til
+Vognbredden, idet Vognen ved Passage gennem en
+Sporkurve vil indstille sig efter Korden til
+Kurven, hvorved Vognen med sin Midte og sine
+overhængende Ender vil kunne komme til at
+rage uden for det for Strækningen gældende
+fri Profil (se <sp>Fritrumsprofil</sp>); heraf
+følger: jo større H. (Afstand mellem Bogiernes
+Ceritrer), des smallere Vogn (ell. Læs). Der
+findes derfor ogsaa udfærdiget Tabeller over
+de sammenhørende Værdier af H. og
+Vogn-(Læsse-) bredde for Vogne i den internationale
+Trafik.
+<i>G. K.</i>
+</chapter>
+
+<chapter name="Hjulstue">
+<b>Hjulstue,</b> Overbygning over Vandhjul for at
+skærme dem mod Frost.
+<i>F. W.</i>
+</chapter>
+
+<chapter name="Hjulsæt ell. Hjulpar">
+<b>Hjulsæt</b> ell. <sp>Hjulpar</sp> kaldes i
+jernbaneteknisk Henseende en Aksel med de dertil
+hørende 2 Hjul. I
+Modsætning til, hvad der
+finder Sted ved alm.
+Færdselsvogne og ved
+enkelte Systemer af
+transportable Baner,
+sidder Hjulene paa
+Jernbane- (og Sporvejs-)
+Køretøjer fast paa Akslerne,
+saa at disse løher rundt
+med under Kørselen. Man
+skelner mellem
+Lokomotiv-, Tender- og
+Vognhjul; de to sidstes
+Konstruktion er ensartet,
+medens Lokomotivhjulenes
+Konstruktion er forsk.,
+efter som det er Bogie-
+(Truck-) ell. Løbehjul,
+Drivhjul ell. Kobbelhjul,
+idet de to sidstnævnte
+Typer er forsynede dels
+med de saakaldte
+»Kontravægte«, der
+afbalancerer Dampmaskinens
+bevægede Masser, dels med
+et udvidet Nav, hvori
+Driv- og Kobbeltapperne er indpressede
+(se i øvrigt <sp>Lokomotiv</sp>). Hjulene kan
+enten være <sp>Skivehjul</sp> (Fig. 1) ell.
+<sp>Stjernehjul</sp> (Fig. 2); de presses fast paa
+<sp>Akslen</sp> <i>A</i>, der er svagt konisk paa de
+paagældende Steder, ved Hjælp af f. Eks. hydrauliske
+Presser under Anvendelse af et meget stort
+Tryk (fra 40 til 140 t), og der benyttes i
+Reglen kun ved Lokomotivhjul en yderligere
+Befæstelse ved Hjælp af Kiler e. l. Paa
+Vognhjulsæt er Akslen som Regel forlænget ud gennem
+Hjulene og ender til begge Sider i Tapper —
+<sp>Akselhalsene</sp> ril. -<sp>sølerne</sp> <i>H</i>. —, til
+hvilke Køretøjets Vægt overføres gennem
+Lejerne (Lagerne), der er støvtæt indesluttede
+i Akselkasserne; paa Lokomotivhjulsæt ligger
+Akselsølerne dog hyppigst lige inden for i St
+f. uden for Hjulene. Stjernehjulet (se Fig. 2)
+bestaar af 2 Hoveddele: <sp>Hjulbandagen</sp> <i>B</i>
+(Hjulringen) og <sp>Hjulstjernen</sp>, hvis
+enkelte Dele er <sp>Navet</sp> <i>N</i>, der omslutter Akslen,
+<sp>Egerne</sp> <i>E</i> og <sp>Hjulkransen</sp> ell.
+-<sp>fælgen</sp> <i>K</i>. Ved Skivehjul er Egerne erstattede
+af en massiv <sp>Skive</sp> <i>S</i> (Fig. 1). Bandagen,
+hvis indvendige Diameter i kold Tilstand gøres
+en Ubetydelighed mindre end Hjulkransens
+udvendige Diameter (i Reglen 1 mm paa 1000
+mm Hjuldiameter), »krympes« paa Hjulet, d.
+v. s. anbringes i varm Tilstand om
+Hjulkransen, hvorom den efter Afkøling klemmer sig
+meget fast; for yderligere at sikre Bandagen
+i sin Stilling, hvis den skulde gaa løs,
+anvendtes navnlig tidligere Nagler, Skruer, koniske
+Bolte (som i Fig. 2) ell. Sikkerhedsringe,
+medens nu den paa Fig 1 og 3 viste Befæstelse ved
+en <sp>Sprængring</sp> <i>R</i> er mest alm.;
+Sprængringen valses ind i en neddrejet Rille i
+Bandagen. Denne danner Hjulets egl. Køreflade, der
+efterhaanden, som den slides under Kørslen,
+kan afdrejes, indtil Bandagen er blevet saa
+tynd, at den af Hensyn til Kørselssikkerheden
+maa aftages, hvorefter en ny og tykkere
+lægges om Hjulstjernen. Bandagen (se Fig. 3) er
+forsynet med en Styrekrans, <sp>Flangen</sp> <i>F</i>,
+som sidder paa den indvendige Side af Hjulet,
+og som skal hindre Hjulet i at løbe af
+Skinnen (ved Enskinnebaner og enkelte
+transportable Baner bruges dog 2 Flanger), medens
+selve <sp>Løbefladen</sp> <i>L</i> er konisk afdrejet med
+en Hældning af 1:16—1:20, hvorved søges
+opnaaet en roligere Gang af Køretøjet, mindre
+Slingren fra den ene Side til den anden og
+mindre Modstand ved Kørsel gennem
+Sporkurver. Bandagens Tværsnitsform er nu saa godt
+som ens for alle normalsporede europæiske
+Jernbaner og har ikke undergaaet væsentlige
+Ændringer, siden den kegleformede Løbeflade
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+

@@ -1,0 +1,51 @@
+De foran beskrevne Maskiner kaldes
+<sp>synkrone</sp>, fordi to ell. fl. parallelt gaaende
+Maskiner vil gaa fuldstændig <sp>synkront</sp>, d.
+v. s. have nøjagtig samme Periodetal, altsaa
+samme Omdrejningstal, hvis Poltallene er ens.
+Forsøger man at forøge den ene Maskines
+Omdrejningstal ved Regulering paa Kraftmaskinen,
+vil Følgen heraf kun være, at denne Maskine
+overtager noget mere af den fælles Belastning,
+samtidigt med, at de andre Maskiner aflastes.
+Hvis man omvendt forsøger at
+<sp>formindske</sp> Omdrejningstallet, vil Maskinen <sp>aflastes</sp>
+mere og mere, og gaar man videre endnu og
+helt frakobler Kraftmaskinen, vil Maskinen
+blive ved at løbe som Motor og kan afgive mek.
+Arbejde. Den <sp>synkrone Motor</sp> har den
+Pordel, at dens Omdrejningstal er konstant, kun
+afhængig af Strømmens Periodetal, der paa
+Centralen holdes meget konstant. En Ulempe
+ved den synkrone Motor er det, at den ved
+Overbelastning kan <sp>falde ud af Takt</sp>, gaa
+helt i Staa, samt at den ikke kan sætte sig selv
+i Gang, som en Jævnstrømsmotor, men maa,
+inden den sættes ind paa Nettet, ved særlige
+Anordninger bringes op paa det normale
+Omløbstal.
+
+Den trefasede <sp>asynkrone Motor</sp> eller
+<sp>Induktionsmotor</sp> (Fig. 17 og 18) har en
+<sp>Stator</sp> af samme Konstruktion som den
+synkrone Maskine, men i Stedet for Polhjulet et
+Anker, <sp>Rotoren</sp>, sammensat af Jernblik og
+forsynet med en Vikling i Noter som et
+Jævnstrømsanker, dog uden Kommutator. Virkningen
+af denne Motor er flg.: Naar Statorens tre
+Viklinger forbindes med en Strømkilde, vil der i
+de tre Viklinger gaa trefasede Strømme. Hver
+af disse tre Strømme vil frembringe sit
+Vekselfelt, men p. Gr. a. den indbyrdes
+Faseforskydning mellem Strømmene (og derfor ogsaa
+mellem Felterne) vil de tre Vekselfelter paa
+
+<img>
+Fig. 14. Turbogenerator (til venstre) med tilhørende Dampturbine (til højre), 2500 KW.
+</img>
+<img>
+Fig. 15. Trefasede Vekselstrømme.
+</img>
+<img>
+Fig. 16. »Stjerneforbindelse« og »Trekantforbindelse«.
+</img>

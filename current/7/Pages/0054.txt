@@ -1,0 +1,123 @@
+Gnist fra en Induktor vil ogsaa ved normalt
+Tryk i Alm. være en Lystaagestrøm. Derimod
+vil den intensivt lysende og stærkt knaldende
+Gnist, der fremkommer ved Udladning af
+Leydnerflasker, være en kortvarig Vekselstrømslysbue
+(se <sp>elektrisk Gnist</sp>). Foruden disse Former
+af den elektriske Udladning har man ogsaa den
+saakaldte stille Udladning, som let iagttages ved
+en Elektrisermaskine i et mørkt Værelse. Paa
+den negative Pol ser man smaa blaaligt
+lysende Pletter. Undersøger man dem i
+Mikroskop, viser de alle Katodelysets
+Ejendommeligheder, blot at dets Dimensioner p. Gr. a. det
+høje Tryk er stærkt formindskede. Særlig let
+fremkommer det blaa Lys paa en negativ Spids
+over for en Plade p. Gr. a. det stærke Felt om
+Spidsen. Er Spidsen positiv, faar Lyset den
+positive Lystaages røde Farve. Man kalder
+denne Form for den stille Udladning for
+<sp>Spidsstrøm</sp> (eng. <i>point-discharge</i>, tysk
+»Spitzenstrom«). Teorien for Fremkomsten af en
+Spidsstrøm er ganske analog med den, der er givet
+ovf. for Lystaagestrømmen. Blot er her
+Ioniseringen ogsaa for de negative Ioners Vedk.
+begrænset til Rummet umiddelbart om Spidsen —
+hvor Lysningen optræder —, hvad der let
+forstaas at være en Følge af, at Feltet der er
+meget stærkt, men at det aftager brat, naar man
+fjerner sig fra Spidsen. Da de Ioner, der gaar
+over til Pladen, ikke frembringer nye, vil
+Strømmen paa hele den mørke Del af Strømbanen alene
+bæres af Ioner med samme Fortegn som Spidsen,
+saaledes at de alle gaar i samme Retning. Ved
+Gnidning vil deres Bevægelse overføres til den
+omgivende Luft, hvorved den bekendte
+<sp>elektriske Vind</sp> fra Spidser opstaar. For at
+Spidsstrømmen skal kunne fremkomme, kræves
+der en vis mindste Spænding. Denne er for en
+Spids i 5 cm's Afstand fra en Plade c. 3200 Volt,
+naar Spidsen er positiv, og c. 2700 Volt, naar
+den er negativ. For at give en Forestilling om
+Strømstyrken skal anføres, at en
+Spændingsforskel paa 9000 Volt vil ved negativ Spids
+give c. 200 Mikroampère, ved positiv en c. 8 %
+mindre Strøm. Ved større Strømstyrker kan
+Spidstrømmen udvikle sig til en <sp>Buskstrøm</sp>
+(eng. <i>brush-discharge</i>, tysk »Büschelstrom«),
+hvor Ioniseringen og Lysningen strækker sig
+længere ud i Strømbanen, oftest forgrenende sig
+som en Kost ell. Busk, hvoraf Navnet. Denne
+Udladningsform, der er meget instabil, iagttages
+særlig let ved en positiv Spids. Den er at
+betragte som en Mellemform mellem
+Spidsstrømmen og den fuldt udviklede Lystaagegnist. Det
+er Spidsstrømme og Buskstrømme, der giver
+Anledning til den Lysning om de moderne
+Højspændingsledninger, som kaldes <sp>Coronaen</sp>, og
+som ved Kraftoverføringsanlæg med meget høj
+Spænding (50-100000 Volt) er forbundet med
+et Tab, der kan beløbe sig til nogle Kilowatt pr
+km ell. mere, hvis man ikke sikrer sig derimod
+ved et hensigtsmæssigt Valg af Traadtykkelse
+og Traadafstand.
+
+Den stille Udladning er ledsaget af en
+ejendommelig Lugt, som hidrører fra, at der dannes
+Ozon ved den. (<sp>Litt</sp>.: <sp>J. J. Thomson</sp>,
+<i>Conduction of Electricity through Gases</i> [Cambridge
+1906]; <sp>J. Townsend</sp>, <i>Ionization of Gases</i>
+[Cambridge 1916]; <sp>Müller-Pouillet</sp>,
+»Lehrbuch der Physik«, IV, 2, 3 [Braunschweig
+1914]).
+<i>E. S. J.</i>
+</chapter>
+
+<chapter name="elektrisk Strømvarme">
+<b>elektrisk Strømvarme.</b> En elektrisk Strøm
+frembringer Varme i sin Leder, og <sp>Joule</sp>
+fandt, at den Varmemængde, der udvikles i en
+vis Tid, er proportional med
+Ledningsmodstanden og med Kvadratet paa Strømstyrken, der
+maales ved Strømmens kemiske og magnetiske
+Virkninger.
+<i>Abs. L.</i>
+</chapter>
+
+<chapter name="elektrisk stød">
+<b>elektrisk Stød,</b> en pludselig Fornemmelse
+ledsaget af Muskelsammentrækninger, som man
+faar, naar en ikke alt for lille
+Elektricitetsmængde pludselig farer gennem Legemet. En
+alm. Maade at vise e. S. paa er at lade en Rk.
+Personer tage hinanden i Hænderne og lade den
+ene Fløjmand lægge sin Haand paa en ladet
+Leydnerflaskes ydre Belægning. Naar saa den
+anden Fløjmand rører ved Flaskens Knap, faar
+hele Rækken et e. S.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="elektrisk Svejsning">
+<b>elektrisk Svejsning</b> er en fælles
+Benævnelse dels paa <sp>Sammensmeltning</sp>, dels
+paa virkelig <sp>Sammensvejsning</sp> af
+Metaldele, hvor den fornødne Varme frembringes ad
+elektrisk Vej. Man skelner imellem to Systemer
+af e. S., nemlig 1) <sp>Lysbuesvejsning</sp>, som
+egl. er en Sammensmeltning af de to Metaldele,
+og 2) <sp>Modstandssvejsning</sp>, som er en
+virkelig Svejsning. Ved den første Metode
+benyttes Varmen fra den elektriske Lysbue, hvis
+Temp. er c. 3500° C. til Smeltning af Metallet.
+Den i Buen anvendte Strømstyrke og Spænding
+retter sig efter Størrelsen af de Stykker, der
+skal forenes; man anvender Strømstyrker fra
+100—800 Amp. og Spændinger fra 40—65 Volt.
+Da det saaledes er Strømme af lav Spænding
+og stor Styrke, der anvendes, er det uøkonomisk
+at tage dem fra alm. Lys- og Kraftanlæg; man
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>

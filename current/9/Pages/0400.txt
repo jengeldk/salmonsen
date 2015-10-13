@@ -1,0 +1,170 @@
+berører den anden <i>M<sub>1</sub>|SM<sub>2</sub>S</i>, og 3) hvor Metal
+berører Opløsning <i>M<sub>1</sub>|M<sub>1</sub>S</i> og <i>M<sub>2</sub>|M<sub>2</sub>S</i>.
+
+Efter Volta's Kontaktteori skulde den
+elektromotoriske Kraft opstaa, hvor Metal rører
+Metal; først meget senere, omhyggelige
+Undersøgelser har vist, at det ikke er rigtigt.
+Grunden til Volta's Fejlslutning er den, at det er
+meget vanskeligt at befri Metalplader helt for
+vedhængende Luftlag ell. Vædskelag. Ved Volta's
+Forsøg har m. a. O. Spændingen af Typen
+<i>M|MS</i> ikke været udelukket. Spændingen <i>M<sub>1</sub>|M<sub>2</sub></i>
+er saa forsvindende lille, at vi ikke her vil tage
+Hensyn til den.
+
+1889 har Nernst givet en Teori, der tillader
+at beregne Spændingerne <i>M<sub>1</sub>S|M<sub>2</sub>S</i> og <i>M|MS</i>.
+Ved at addere disse Spændinger kan hele
+Elementets elektromotoriske Kraft beregnes, og
+Beregningen stemmer fortrinligt med direkte
+Maalinger. En Forestilling om Nernst's Teori
+kan man faa paa flg. Maade: Lad os tænke os
+et Glas, hvori der forneden er Saltsyre og
+foroven Vand. Saltsyren vil da have Tilbøjelighed
+til at diffundere ud i Vandet, indtil
+Koncentrationen overalt er blevet den samme.
+Saltsyreopløsningen indeholder Brintioner og Klorioner,
+men da de positive Brintioner vandrer meget
+hurtigere end de negative Klorioner (se
+<sp>Elektrolyse</sp>), vil Følgen heraf være, at
+Brintionen kommer tidligere op i Vandet end
+Klorionen, hvilket igen vil sige, at Vandet lades
+positivt, medens Saltsyren lades negativt.
+Saaledes forklares det altsaa, at Spændingen
+<i>M<sub>1</sub>S|M<sub>2</sub>S</i> kan opstaa. Man siger, at der paa
+Grænsefladen er dannet et elektrisk Dobbeltlag. Lad
+os betragte et uædelt Metal (f. Eks. Zink), der
+dypper ned i en Vædske. At Metallet er uædelt,
+vil sige, at det har stor Tilbøjelighed til at gaa
+i Opløsning, d. v. s. til at sende Metalioner ud
+i Vædsken. Denne bliver derfor positiv,
+Metallet selv negativt. Strømretningen er fra det
+uædle Metal ind i Vædsken. Betragter vi et
+ædelt Metal, der dypper ned i Vædske, vil
+omvendt Ionerne have Tilbøjelighed til at gaa ind
+i Metallet, saa dette bliver positivt, Vædsken
+negativ. I det ovennævnte Element <i>Zn|ZnSO<sub>4</sub></i>;
+<i>CuSO<sub>4</sub>|Cu</i> bliver Strømretningen inde i
+Elementet fra Zink gennem Vædske til Kobber.
+
+Sædvanligvis er det Spændingen <i>M|MS</i>, der
+udnyttes i Elementerne; man kan dog ogsaa
+opbygge Elementer, hvor udelukkende
+<i>M<sub>1</sub>S|M<sub>2</sub>S</i> giver den elektromotoriske Kraft; saadanne
+Elementer kaldes Vædskeelementer.
+
+Da den elektromotoriske Kraft ikke alene
+afhænger af Ionernes Vandringshastigheder, men
+ogsaa af Opløsningernes Koncentration, forstaas
+det let, at konstante galvaniske Elementer maa
+besidde Opløsninger af konstant Koncentration.
+
+Dette kan opnaas ved at lade saa rigeligt
+fast Salt være til Stede, at Opløsningerne
+stadig holder sig mættede.
+
+Man kan ogsaa bygge Elementer, hvor begge
+Elektroder bestaar af samme Metal, der
+dypper ned i Opløsninger af samme Salt, men i
+forsk. Koncentration. Saadanne Elementer kaldes
+<sp>Koncentrationselementer</sp>. (<sp>Litt</sp>.:
+<sp>Lüpke</sp>, <sp>Bose</sp>, »Grundzüge der
+Elektrochemie«).
+<i>K. E.</i>
+</chapter>
+
+<chapter name="galvanisk Elektricitet">
+<b>galvanisk Elektricitet,</b> Elektricitet
+frembragt ved Hjælp af galvaniske Elementer. Den
+Elektricitet, som et galvanisk Element direkte
+leverer, vil i Alm. kun have en meget lille
+Spænding i Forhold til den, der kan faas fra
+en Elektrisermaskine. Dens elektrostatiske
+Kraftvirkninger vil derfor være svage, til
+Gengæld vil de elektromagnetiske o. a.
+Virkninger, der beror paa den elektriske Strøm, kunne
+blive meget stærkere end dem,
+Elektrisermaskinen frembringer, fordi Elementet i Alm. vil
+være i Stand til at afgive mere Elektricitet i
+den samme Tid. Til at begynde med troede
+derfor mange Fysikere, at g. E. var forsk. fra
+den Elektricitet, der frembringes ved Gnidning.
+Ved nøjagtige Forsøg er det imidlertid
+godtgjort, at al Elektricitet, paa hvilken Maade
+den end er frembragt, under kvantitative ens
+Forhold har identiske Virkninger. Betegnelsen
+g. E. er af den Grund saa godt som gaaet ud
+af Brug nu. I Stedet for galvanisk Endosmose,
+galvanisk Gnist, galvanisk Lysbue etc. siges nu
+altid elektrisk Endosmose, elektrisk Gnist etc.
+Om Opdagelsen af g. E. se Elektricitetens
+Historie under Art. <sp>Elektricitet</sp>, om Lovene
+for dens Opstaaen i <sp>galvaniske
+Elementer</sp> se denne Art.
+<i>E. S. J.</i>
+</chapter>
+
+<chapter name="galvanisk Element">
+<b>galvanisk Element,</b> se <sp>galvanisk
+Batteri</sp>.
+</chapter>
+
+<chapter name="galvanisk Farvning af Metaller">
+<b>galvanisk Farvning af Metaller,</b> se
+<sp>Metalfarvning</sp>.
+</chapter>
+
+<chapter name="galvanisk Kæde">
+<b>galvanisk Kæde,</b> d. s. s. <sp>galvanisk
+Batteri</sp>.
+</chapter>
+
+<chapter name="galvanisk Polarisation">
+<b>galvanisk Polarisation,</b> se
+<sp>elektrolytisk Polarisation</sp>.
+</chapter>
+
+<chapter name="galvanisk Strøm">
+<b>galvanisk Strøm,</b> ældre Betegnelse for
+elektrisk Strøm fra galvaniske Batterier.
+</chapter>
+
+<chapter name="Galvanisme">
+<b>Galvanisme</b> har tidligere været en alm.
+Betegnelse for Elektricitet fremkaldt ad kemisk
+Vej (»Berøringselektricitet«). Vel havde
+allerede <sp>Volta</sp> paavist, at det, hans Støtte leverede,
+var Elektricitet med ganske samme
+Egenskaber som den, man tidligere havde frembragt
+ved Gnidning, men det var først <sp>Faraday</sp>,
+der fuldt ud fik godtgjort, at al Elektricitet er
+af samme Natur, fra hvilken Kilde den end
+stammer, og at den store Forskel i Virkningen
+kun skriver sig fra, at Elektricitetens Spænding
+og Mængde i de forskellige Tilfælde kan være
+saa overmaade forskellig. Efter at dette er
+blevet erkendt, er Ord som G. og <sp>galvanisk</sp>
+i mange Forbindelser gaaet ud af Brug; man
+siger ikke mere »galvanisk Strøm«, men
+»elektrisk Strøm«, ikke »Galvanomagnet«, men
+»Elektromagnet«, og man »galvaniserer« ikke
+et Menneske, men »elektriserer« det. I visse
+Forbindelser, som <sp>Galvanometer</sp>, er
+Galvani's Navn dog beholdt overalt (Voltameter og
+Voltmeter er andre Instrumenter), og i andre,
+som <sp>Galvanisk Batteri</sp>, benyttes det i
+Skandinavien og Tyskland, medens man i
+Frankrig og England hellere, og med mere
+Ret, bruger Volta's Navn (<i>pile voltaïque</i>,
+<i>voltaic battery</i>).
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Galvano">
+<b>Galvano,</b> se <sp>Galvanoplastik</sp>.
+</chapter>
+
+<chapter name="galvanofaradisk Strøm">
+<b>galvanofaradisk Strøm</b> eller
+Watteville-Strøm, en i Fysioterapien undertiden benyttet

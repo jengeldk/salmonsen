@@ -1,0 +1,112 @@
+<table>
+<td><td c>Mænd<td c>Kvinder<td c>Ialt
+<td>Baptister<td r>3118<td r>3871<td r>6989
+<td>Kvækere<td r>5<td r>8<td r>13
+<td>Adventister<td r>1087<td r>1535<td r>2622
+<td>Unitarer<td r>101<td r>94<td r>195
+<td>Herrnhuter<td r>195<td r>268<td r>463
+<td>Andre protestantiske Samf.<td r>516<td r>783<td r>1299
+<td>Romersk-katolske<td r>9221<td r>12916<td r>22137
+<td>Græsk-Katolske<td r>237<td r>298<td r>535
+<td>Forskellige kristne Samfund<td r>89<td r>107<td r>196
+<td>Jøder<td r>2937<td r>3010<td r>5947
+<td>Mormoner<td r>233<td r>254<td r>487
+<td>Andre Trossamfund<td r>1771<td r>2171<td r>3942
+<td>Udenfor Trossamfundene<td r>9434<td r>3310<td r>12744
+<td r>I alt<td r>33292<td r>34167<td r>67459
+</table>
+<sp>Gifte og Ugifte</sp>. 
+I ægteskabelig Henseende fordelte Befolkningen sig i 1921 saaledes:
+<table>
+<td c><sp>Mænd</sp>.<td c>Ugifte<td c>Gifte<td c>Enkestand<td c>Separerede<td c>Fraskilte<td c>Uangivet<td c>Ialt
+<td>Hovedstaden<td r>175312<td r>129216<td r>9656<td r>1691<td r>1641<td r>770<td r>318286
+<td>Provinsbyerne<td r>191462<td r>133735<td r>11297<td r>792<td r>689<td r>334<td r>338309
+<td>Landdistrikterne<td r>568255<td r>331291<td r>33585<td r>688<td r>773<td r>441<td r>935033
+<td r>I alt<td r>935029<td r>594242<td r>54538<td r>3171<td r>3103<td r>1545<td r>1591628
+<td c><sp>Kvinder</sp>.
+<td>Hovedstaden<td r>209240<td r>130759<td r>35170<td r>2601<td r>3756<td r>798<td r>382324
+<td>Provinsbyerne<td r>212129<td r>134319<td r>30608<td r>1106<td r>1205<td r>265<td r>379632
+<td>Landdistrikterne<td r>523157<td r>331713<td r>57310<td r>789<td r>1033<td r>245<td r>914247
+<td r>I alt<td r>944526<td r>596791<td r>123088<td r>4496<td r>5994<td r>1308<td r>1676203
+<td c><sp>Mænd og Kvinder tilsammen</sp>.
+<td>Hovedstaden<td r>384552<td r>259975<td r>44826<td r>4292<td r>5397<td r>1568<td r>700610
+<td>Provinsbyerne<td r>403591<td r>268054<td r>41905<td r>1898<td r>1894<td r>599<td r>717941
+<td>Landdistrikterne<td r>1091412<td r>663004<td r>90895<td r>1477<td r>1806<td r>686<td r>1849280
+<td r>I alt<td r>1879555<td r>1191033<td r>177626<td r>7667<td r>9097<td r>2853<td r>3267831
+</table>
+
+<sp>Erhvervsforhold.</sp> 
+Befolkningens Fordeling efter Erhverv var 1921 saaledes:
+<table>
+<td><td>Hovedstaden<td>Provinsbyerne<td>Landdistrikterne<td>Hele Landet
+<td>Landbrug<td r>1302<td r>16723<td r>972480<td r>990505
+<td>Gartneri<td r>4520<td r>5802<td r>15400<td r>25722
+<td>Skovbrug<td r>60<td r>705<td r>20529<td r>21294
+<td>Fiskeri<td r>696<td r>10248<td r>28710<td r>39654
+<td>Haandværk og Industri<td r>303131<td r>316908<td r>322195<td r>942234
+<td>Handel og Pengeomsætning<td r>127846<td r>113522<td r>80336<td r>321704
+<td>Trafikvæsen og Kommissionsvirksomhed<td r>70367<td r>76084<td r>74839<td r>221290
+<td>Immateriel Virksomhed<td r>74739<td r>54236<td r>54832<td r>183807
+<td>Husgerning<td r>45919<td r>44409<td r>116584<td r>206912
+<td>Personer ude af Erhverv<td r>62719<td r>69606<td r>145620<td r>277945
+<td>Uangivet Erhverv<td r>9311<td r>9698<td r>17755<td r>36764
+<td r>I alt<td r>700610<td r>717941<td r>1849280<td r>3267831
+</table>
+
+<sp>Abnorme Individer</sp>. 
+Ved Folketællingen i 1921 var Antallet af
+<table>
+<td><td>Mænd<td>Kvinder<td>Tilsammen
+<td>Blinde<td r>766<td r>730<td r>1496
+<td>Døvstumme<td r>978<td r>835<td r>1813
+<td>Aandssvage<td r>2771<td r>2217<td r>4988
+<td>Sindssyge<td r>2717<td r>3538<td r>6255
+</table>
+
+I Anstalter levede 279 Blinde, 394
+Døvstumme, 2748 Aandssvage og 5624 Sindssyge.
+
+Landbruget beskæftiger nu 33,0 % af
+Befolkningen mod 36,4 % i 1911, saaledes at der har
+været en stærk Nedgang i Landbrugets Andel
+af den samlede Befolkning i Lighed med, hvad
+der har været Tilfældet i det sidste
+Aarhundrede saavel her i D. som i det øvrige Europa.
+Haandværk og Industri beskæftiger 28,8 % og
+er dermed steget med 1—1,5 % i Forhold til
+1911. De øvrige Erhverv er ogsaa steget noget,
+men navnlig er Gruppen »Personer ude af
+Erhverv« steget (8,5 % mod 6,6 % i 1911). Af
+Befolkningen blev 1524181 talt som Forsørgere,
+heraf 1026327 Mænd og 497854 Kvinder, 1743650
+var Forsørgede, heraf 565301 Mænd, 1178349
+Kvinder. Af Landbrugsbefolkningen var 670664
+optalt under Gruppen Hovedpersoner, 36884
+Funktionærer og 369627 Arbejdere. Af
+Haandværk og Industri var 259746 Hovedpersoner,
+65959 Funktionærer og 616529 Arbejdere. Under
+Handel og Pengeomsætning var 151160
+Hovedpersoner, 105407 Funktionærer, 65137 Arbejdere.
+Under Trafikvæsen m. v. var 45698
+Hovedpersoner, 92192 Funktionærer og 83400 Arbejdere.
+<i>H. S.</i>
+</chapter>
+
+<chapter name="Danmark (Statsforfatning og Statsforvaltning)">
+<b>Statsforfatning og Statsforvaltning.</b>
+
+Danmarks ny Grundlov af 5. Juni 1915
+traadte først i Kraft den 21. Apr. 1918, men blev
+dog allerede to Aar efter Genstand for en
+større Revision. Dette skyldtes det i 1915
+uforudsete Resultat af Verdenskrigen, at Danmark ved
+Versaillesfreden af 28. Juni 1919 fik en
+væsentlig Del af det i 1864 tabte Slesvig tilbage.
+Derved blev en Ændring af den ny Grundlov
+nødvendig, ikke blot for af Hensyn til Nordslesvig
+at kunne udvide Antallet af Folketingets og
+Landstingets Medlemmer, men navnlig for ved
+Opløsning af Rigsdagen straks at kunne skaffe
+de ny Folkerepræsentanter for Sønderjylland
+Sæde paa Rigsdagen, idet nemlig Landstinget
+ifølge den ny Grundlovs § 22 normalt er

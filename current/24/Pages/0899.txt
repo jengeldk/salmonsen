@@ -1,0 +1,125 @@
+<sp>Børskursen for nogle vigtigere Selskabers Aktier</sp>.
+<table>
+<td><td c>1914<br>1. Juli<td c>1914<br>31. Dec.<td c>1915<br>31. Dec.<td c>1916<br>31. Dec.<td c>1917<br>31. Dec.<td c>1918<br>31. Dec.<td c>1919<br>31. Dec.<td c>1920<br>31. Dec.<td c>1921<br>31. Dec.
+<td>Nationalbanken<td r>149<td r>140<td r>137<td r>147<td r>149<td r>162 1/2<td r>136 1/4<td r>139 3/4<td r>160
+<td>Privatbanken<td r>106 1/4<td r>100 1/2<td r>117 1/4<td r>152<td r>144 1/4<td r>164 3/4<td r>135 1/2<td r>134 1/2<td r>121 3/4
+<td>Landmandsbanken<td r>134 1/2<td r>125<td r>138<td r>166 3/4<td r>157<td r>182 1/4<td r>153<td r>136 1/4<td r>124
+<td>Handelsbanken<td r>141 3/4<td r>139<td r>149 1/2<td r>169 1/4<td r>158<td r>189<td r>153 3/4<td r>151<td r>150
+<td>Østasiatisk Kompagni<td r>130 1/2<td r>141<td r>268 3/4<td r>639 1/2<td r>578<td r>393 1/4<td r>301<td r>224 3/4<td r>179
+<td>Forenede Dampskibsselskab<td r>107 1/2<td r>110 1/2<td r>220 1/2<td r>395<td r>367<td r>392<td r>488 1/2<td r>343 1/4<td r>135
+<td>Dampskibsselskabet Dannebrog<td r>112 1/4<td r>127<td r>293 3/4<td r>550<td r>423<td r>473 1/2<td r>430<td r>247<td r>115 3/4
+<td>Dampskibsselskabet Orient<td c>—<td c>—<td c>—<td c>—<td c>—<td r>664<td r>637<td r>428<td r>338
+<td>Dampskibsselskabet Torm<td c>—<td r>128<td c>—<td r>1018<td r>943<td r>795<td r>430 1/2<td c>—<td c>—
+<td>Burmeister & Wain<td r>84 3/4<td r>90<td r>126 1/4<td r>242<td r>227 3/4<td r>224 1/2<td r>142 3/4<td c>—<td r>100
+<td>Københavns Flydedok<td r>107 1/2<td r>118<td c>—<td r>185<td r>230<td r>208<td r>92<td c>—<td r>51 3/4
+<td>Danske Sukkerfabrikker<td r>213<td r>223 1/2<td r>247 1/4<td r>265 1/4<td r>272 3/4<td r>309 1/2<td r>274 1/2<td r>209<td r>163
+<td>M. J. Ballin's Sønner etc.<td r>219<td r>235<td r>327 3/4<td r>484 1/2<td r>364 3/4<td r>227<td r>147<td r>115<td r>17 3/4
+<td>Nordiske Kabel- og Traadfabr.<td r>101 1/2<td r>102<td r>121 1/2<td r>217<td r>231 3/4<td r>412<td c>—<td c>—<td c>—
+<td>Dansk Svovlsyre- og Superfosfatf.<td r>243<td r>246 1/2<td r>329<td r>667<td r>463<td r>458 1/2<td r>270<td r>218<td r>31 1/2
+</table>
+
+Kursernes Fald i disse Maaneder hidsættes
+nedenstaaende Oversigt:
+<table>
+<td v2 c>Indekstal<td v2 c>Obligationer<td 5 c>Aktier
+<td c>Banker<br>incl.<br>Landmb.<td c>Rederier<td c>Industri<td c>Andre<td c>Ialt
+<td>1. Juli 1914<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0
+<td>Jan. 1921<td r>85,63<td r>107,5<td r>237,3<td r>77,8<td r>94,3<td r>122,5
+<td>Apr. —<td r>87,67<td r>101,9<td r>188,8<td r>74,0<td r>88,4<td r>109,4
+<td>Juli —<td r>90,21<td r>96,4<td r>148,2<td r>58,0<td r>92,2<td r>95,4
+<td>Okt. —<td r>89,47<td r>98,1<td r>112,7<td r>54,4<td r>87,3<td r>88,1
+<td>Jan. 1922<td r>89,98<td r>99,3<td r>145,6<td r>48,6<td r>85,1<td r>93,6
+<td>Apr. —<td r>93,54<td r>86,3<td r>130,0<td r>56,3<td r>89,1<td r>87,3
+<td>Juli —<td r>91,87<td r>84,5<td r>119,6<td r>51,1<td r>86,9<td r>83,0
+<td>Okt. —<td r>96,56<td r>56,5<td r>110,7<td r>49,5<td r>85,3<td r>68,0
+</table>
+
+Det skal endelig nævnes, at Fondsbørsen ved
+L. 4. Oktbr 1919 var blevet stillet under Tilsyn
+af en Børskommissær. Loven — der i øvrigt
+ikke var foranlediget af de overordentlige
+Forhold — revideredes ved L. 30. Juni 1922, jfr.
+L. 23. Decbr 1925, der gav Betingelserne for
+egentlige Terminsforretninger (jfr. ny Vedtægt
+af 10. Aug. 1922, hvorved indføres
+medio—ultimo Regulering for Udlaan af Aktier m. m.).
+
+<sp>Omsætningen af Obligationer
+og Aktier</sp>.
+<table>
+<td v2 c>Mill.<br>Kr.<td v2 c>Obligationer<td 2 c>Aktier
+<td c>Nom.<td c>Kursærdi
+<td>1913<td r>20,9<td r>232,2<td c>— 
+<td>1916<td r>75,5<td r>552,6<td r>5436 
+<td>1917<td r>60,4<td r>328,8<td r>3461
+<td>1918<td r>70,2<td r>693,6<td r>7857
+<td>1919<td r>67,4<td r>517,8<td r>3382
+<td>1920<td r>108,4<td r>241,4<td r>1027
+<td>1921<td r>735,1<td r>168,0<td r>333
+<td>1922<td r>307,4<td r>147,5<td r>246
+<td>1923<td r>259,2<td r>272,7<td r>628
+<td>1924<td r>196,9<td r>173,9<td r>433
+<td>1925<td r>214,8<td r>126,5<td r>301
+<td>1926<td r>152,1<td r>93,2<td r>209
+</table>
+
+<sp>Valutaforhold</sp>. Saa snart
+Nationalbanken var blevet fritaget for at indløse sine
+Sedler med Guld, var Kronens Værdi i den
+internationale Omsætning løst fra Forbindelse med
+Guldet. Den stærke Efterspørgsel efter Francs
+og Sterling satte da Kursen paa disse
+Valutaer i Vejret, medens tyske Mark hurtig faldt
+i Pris, til Trods for at Kursen ved
+Guldsendinger, jfr. Stigningen i Nationalbankens
+Guldforraad, søgtes afstivet. Nedenstaaende
+Oversigt viser Bevægelsen i de for den danske
+Handel vigtigste fremmede Valutaer:
+
+<sp>Vekselkurser</sp> (<i>a vista</i>) 1/7 1914 til 3/1 1927.
+<table>
+<td><td c>Stockholm<td c>Oslo<td c>Hamburg<td c>London<td c>New<br>York
+<td>1/7 1914<td c>—<td c>—<td r>89,05<td r>18,26<td r>375,50
+<td>4/1 1915<td c>—<td c>—<td r>87,35<td r>19,20<td r>404,00
+<td>2/7 —<td c>—<td c>—<td r>77,20<td r>18,15<td r>384,00
+<td>3/1 1916<td c>—<td c>—<td r>68,25<td r>17,27<td r>372,00
+<td>3/7 —<td c>—<td c>—<td r>63,00<td r>16,50<td r>350,00
+<td>3/1 1917<td c>—<td c>—<td r>61,50<td r>17,38<td r>368,00
+<td>2/7 —<td c>—<td c>—<td r>49,25<td r>16,30<td r>346,00
+<td>1/10 —<td c>—<td c>—<td r>44,50<td r>15,24<td r>323,00
+<td>2/1 1918<td c>—<td c>—<td r>65,00<td r>15,50<td r>329,00
+<td>2/4 —<td c>—<td c>—<td r>63,50<td r>15,08<td r>320,00
+<td>1/7 —<td c>—<td c>—<td r>56,75<td r>15,27<td r>324,00
+<td>1/10 —<td r>109,50 <footnote>Noteres første Gang 1/10 1918 ifl. Bek. af 28 1918.</footnote><td r>102,00 <footnote>Noteres første Gang 1/10 1918 ifl. Bek. af 28 1918.</footnote><td r>53,25<td r>16,65<td r>352,00
+<td>2/1 1919<td r>108,70<td r>104,75<td r>47,00<td r>17,73<td r>373,00
+<td>1/4 —<td r>107,00<td r>102,70<td r>36,75<td r>18,36<td r>400,00
+<td>1/7 —<td r>108,80<td r>106,15<td r>31,50<td r>19,58<td r>426,00
+<td>1/10 —<td r>113,25<td r>106,85<td r>19,25<td r>19,37<td r>461,50
+<td>2/1 1920<td r>112,25<td r>106,25<td r>10,50<td r>19,75<td r>527,00
+<td>6/4 —<td r>117,75<td r>107,00<td r>8,25<td r>21,30<td r>537,00
+<td>1/7 —<td r>134,75<td r>100,25<td r>16,10<td r>24,17<td r>612,00
+<td>1/10 —<td r>141,50<td r>101,65<td r>11,85<td r>24,82<td r>715,00
+<td>3/1 1921<td r>128,50<td r>100,00<td r>9,00<td r>22,55<td r>638,00
+<td>1/4 —<td r>127,50<td r>88,25<td r>8,95<td r>21,40<td r>546,00
+<td>1/7 —<td r>131,00<td r>84,75<td r>8,10<td r>22,18<td r>595,00
+<td>1/10 —<td r>124,25<td r>69,00<td r>4,75<td r>20,75<td r>557,00
+<td>2/1 1922<td r>125,00<td r>79,75<td r>2,80<td r>20,95<td r>497,00
+<td>1/4 —<td r>123,75<td r>84,65<td r>1,65<td r>20,80<td r>475,50
+<td>1/7 —<td r>120,60<td r>77,75<td r>1,20<td r>20,62<td r>466,50
+<td>2/10 —<td r>129,30<td r>84,20<td r>0,30<td r>21,49<td r>491,00
+<td>2/1 1923<td r>131,50<td r>91,35<td r>0,0725<td r>22,55<td r>488,00
+<td>3/4 —<td r>139,50<td r>94,70<td r>0,0265<td r>24,50<td r>525,00
+<td>2/7 —<td r>151,10<td r>93,10<td r>42,00 <footnote>Pr. Million.</footnote><td r>26,10<td r>571,50
+<td>1/10 —<td r>149,50<td r>89,35<td r>40,00 <footnote>Pr. Milliard.</footnote><td r>25,60<td r>565,50
+<td>2/1 1924<td r>150,05<td r>82,00<td c>—<td r>24,45<td r>560,00
+<td>1/4 —<td r>160,00<td r>82,15<td c>—<td r>25,95<td r>605,00
+<td>1/7 —<td r>169,35<td r>85,35<td c>—<td r>27,90<td r>638,00
+<td>1/10 —<td r>152,90<td r>81,50<td c>—<td r>25,60<td r>575,50
+<td>2/1 1925<td r>152,35<td r>85,50<td r>134,60<td r>26,82<td r>566,50
+<td>1/4 —<td r>147,40<td r>86,10<td r>130,15<td r>26,10<td r>547,50
+<td>1/7 —<td r>133,70<td r>88,60<td r>118,60<td r>24,20<td r>499,00
+<td>1/10 —<td r>111,10<td r>84,20<td r>98,30<td r>20,00<td r>414,00
+<td>2/1 1926<td r>108,55<td r>82,40<td r>96,30<td r>19,60<td r>405,00
+<td>1/7 —<td r>101,30<td r>82,90<td r>89,85<td r>18,34<td r>378,00
+<td>3/1 1927<td r>100,25<td r>95,55<td r>89,25<td r>18,10<td r>375,25
+</table>

@@ -1,0 +1,137 @@
+Kraft i de omtalte Svingninger. De sidste
+Sætninger kan udledes teoretisk (Loven om
+Energiens ligelige Fordeling), dersom den alm.
+Mekaniks Love gælder for alle Sammenstød
+mellem Elektroner og Atomer, men de støttes
+naturligvis langt stærkere derved, at Antagelse
+af deres Gyldighed giver Overensstemmelse med
+Erfaringen (se i øvrigt <sp>kinetisk
+Luftteori</sp>). - Antallet af fri Elektroner pr cm<sup>3</sup>
+saavel som den Vej, de gennemsnitlig
+tilbagelægger mellem to Sammenstød
+(Middelvejlængden), vil variere med Metallets Natur,
+maaske ogsaa med Temp. I de tidligere Arbejder
+antoges, at Sammenstødene forløb efter de
+simple Love for Stødet mellem elastiske
+Kugler, men derved naaedes ikke fuld
+Overensstemmelse med Erfaringen. <sp>N. Bohr</sp> er det
+lykkedes at gennemføre Beregningerne med
+meget mindre specielle Antagelser om de Kræfter,
+der virker under Sammenstødene (ell. rettere,
+naar Elektron og Atom er tilstrækkelig nær ved
+hinanden); men Eksperimenterne tillader ikke
+bestemt at afgøre, hvorledes de virkelige
+Kræfter er beskafne.
+
+En <sp>elektrisk Strøm</sp> i en Metaltraad
+kommer nu i Stand, ved at disse Elektroner
+strømmer gennem Traaden; frembringes der
+nemlig i den et elektrisk Spændingsfald, d. v. s.
+en elektrisk Kraft, vil der til den nu omtalte
+uordnede Bevægelse af de fri Elektroner føjes
+en ordnet Bevægelse af dem alle under
+Paavirkning af den elektriske Kraft. (Da
+Elektronerne er negativt ladede, strømmer de jo
+imod den elektriske Krafts Retning og altsaa
+ogsaa imod den Retning, man vedtægtsmæssig
+angiver som Strømmens Retning). Derved faar
+de ogsaa forøget levende Kraft; Overskuddet
+afgiver de til Metalatomerne under
+Sammenstødene, hvorved de forhøjer Metallets Temp.;
+dermed er den elektriske Strømvarme (Joulevarmen)
+forklaret. Elektricitetstransporten gennem et
+Metalstykke faar altsaa en vis overfladisk
+Lighed med Elektricitetstransporten gennem en
+ledende Vædske (en Elektrolyt, se
+<sp>Elektrolyse</sp>), men medens det dér er ladede kem.
+Atomer ell. Atomkomplekser (Ioner), der er
+Elektricitetsbærere, altsaa forsk. i forsk.
+Elektrolyter, strømmer her selve de elementære
+Elektricitetskvanter, der er ens i alle Metaller.
+At dette er rigtigt, følger af, at meget nøjagtige
+Forsøg har vist, at der ikke, naar
+Elektriciteten strømmer fra et Metal til et andet, finder
+den mindste Transport Sted af selve det ene
+Metal over i det andet. Hvad der strømmer
+gennem Berøringsfladen, maa altsaa være noget,
+der er ens for de to Metaller. -
+Varmeledningen gennem en Metalstang, der er varmere i den
+ene Ende end i den anden, kommer i Stand
+paa ganske lgn. Maade som Varmeledningen i
+Luftarter efter den kinetiske Teori. Da
+Elektronernes Hastighed (levende Kraft) vokser med
+Temp., vil de Elektroner, der kommer fra den
+varmere Del af Metallet, ved Sammenstødene
+afgive Energi til de Atomer, de støder paa og
+derved forøge disses Temp. Varmeledningen er
+altsaa en Energitransport ved Elektronerne,
+medens den elektriske Strøm var en
+Elektricitetstransport ved Elektronerne. Derved forstaas den
+nære Sammenhæng mellem disse to
+Fænomener, som Erfaringen havde vist. Erfaringen
+herom var udtrykt i to Love:
+<sp>Wiedemann</sp>-<sp>Franz</sp>' Lov, hvorefter Forholdet mellem et
+Metals Varmeledningsevne γ og dets
+Elektricitetsledningsevne σ ved samme Temp. er en
+universel Konstant (γ/σ = c. 0,75.10<sup>-10</sup> i absolut
+Maal ved 18° C.), og <sp>Lorenz</sp>' Lov, at dette
+Forholds Værdi er proportionalt med den
+absolutte Temp. Ingen af Lovene gælder dog
+fuldstændig nøjagtigt, navnlig viser de daarligt
+ledende Metaller store Afvigelser, og for
+Legeringer gælder Lovene slet ikke. Det er nu et af
+de smukkeste Resultater, som Metallernes E.
+kan opvise, at disse Love kan forklares paa
+simpel Maade. Medens det nemlig viser sig, at
+baade γ og σ afhænger foruden af
+Elektronernes kendte Egenskaber ogsaa af deres Antal
+og Middelvejlængde, hvorom man paa
+Forhaand intet véd, saa at man intet kan sige om
+Ledningsevnernes absolutte Størrelse, bliver
+Forholdet γ/σ uafhængigt af de ukendte Størrelser
+og kun bestemt ved Elektronernes kendte
+Ladning og ved Data kendte fra den kinetiske
+Luftteori, saa at dets Talværdi kan beregnes
+teoretisk. Forholdet findes proportionalt med den
+absolutte Temp., som det skal efter Lorenz'
+Lov. <sp>Drude</sp>, som først teoretisk har udledt
+Værdien af γ/σ, fik ved Beregningen meget nær
+den anførte Talværdi. Imidlertid var hans
+Beregning ikke ganske streng; nøjagtigere
+Beregninger under samme Forudsætning (elastiske
+Stød) giver ikke nær saa god
+Overensstemmelse. Opgives (efter <sp>Bohr</sp>) denne
+Forudsætning, kommer i Udtrykket for γ/σ tillige til at
+indgaa Størrelser afhængige af, hvilke Kræfter
+man antager virksomme ved Sammenstødene.
+Om man end ikke ved Sammenligning mellem
+de teoretiske og de eksperimentelle Værdier af
+γ/σ kan faa bestemte Oplysninger om disse
+Kræfters Art, faar man dog saa nær den rigtige
+Størrelsesorden ved Beregningen, at der er al
+Grund til at tro, at Teoriens Grundlag er
+rigtigt, og at det er de sædvanlige Elektroner, man
+ogsaa i Metallerne har at gøre med. -
+Imidlertid er der endnu mange Fænomener, hvis
+Forklaring staar tilbage. Saaledes først og
+fremmest de store Afvigelser fra Wiedemann-Franz'
+Lov, som mange Metaller viser. Kun for de
+sletteste Ledere, hvor γ/σ er for stor, kan
+Afvigelserne maaske forklares ved, at det faar
+Bet., at Metaller i ringe Grad ogsaa maa
+kunne lede Varmen paa anden Maade end ved fri
+Elektroner (Isolatorer, hvori der ingen fri
+Elektroner er, har jo ogsaa en om end ringe
+Varmeledningsevne); en Del af denne Varmeledning
+kan skyldes Varmestraaling fra Atom til Atom
+i Metallet (resp. i Isolatoren). Legeringernes
+afvigende Forhold kan skyldes, at den samtidige
+Tilstedeværelse af forsk. Atomer kan give
+stærkere indre Kraftfelter end i de rene Metaller,
+hvor Kræfterne i højere Grad kan tænkes at
+ophæve hverandre. En Vanskelighed for E. er
+Forklaringen af den meget stærke pludselige
+Forøgelse af den elektriske Ledningsevne ved
+yderst lave Temp., som <sp>Kamerlingh
+Onnes</sp> nylig har fundet (se <sp>elektrisk
+Ledningsmodstand</sp>). En Forklaring heraf ved

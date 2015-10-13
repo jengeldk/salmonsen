@@ -1,0 +1,173 @@
+Syre. Flg. Tabel viser Vægtfylden af E. af forsk.
+Styrke ved 15°:
+
+<table>
+<td>% E.<td>Vægtfylde
+<td r>1<td r>1,0007
+<td r>2<td r>1,0022
+<td r>3<td r>1,0037
+<td r>4<td r>1,0052
+<td r>5<td r>1,0067
+<td r>10<td r>1,0142
+<td r>20<td r>1,0284
+<td r>30<td r>1,0412
+<td r>40<td r>1,0523
+<td r>50<td r>1,0615
+<td r>60<td r>1,0685
+<td r>70<td r>1,0733
+<td r>80<td r>1,0748
+<td r>90<td r>1,0713
+<td r>100<td r>1,0658
+</table>
+
+<table>
+<td>% Vand<td 2>Fryse-<br>punkt °
+<td>0<td>+<td r> 16,7
+<td>1<td><td r>14,8
+<td>2<td><td r>13,25
+<td>2,9<td><td r>11,95
+<td>4,8<td><td r>9,4
+<td>7,4<td><td r>6,25
+<td>9,9<td><td r>3,6
+<td>10,8<td><td r>2,7
+<td>13<td>÷ <td r>0,2
+<td>15,3<td><td r>2,6
+</table>
+<td>% Vand<td 2>Fryse-<br>punkt °
+<td>19,1<td>÷ <td r>7,4
+<td>24,6<td><td r>12,8
+<td>30<td><td r>18,1
+<td>36,6<td><td r>23,9
+<td>40<td><td r>26,6
+<td>44,1<td><td r>24,3
+<td>53<td><td r>19,3
+<td>61,7<td><td r>14,7
+<td>74,6<td><td r>9,0
+<td>90,1<td><td r>3,2
+</table>
+
+Styrken af E. lader sig p. Gr. a. de nævnte
+Forhold ikke bestemme ved
+Vægtfyldebestemmelse, f. Eks. ved Hjælp af Aræometret, men
+derimod ved Titrering med Alkaliopløsning ell.,
+naar der foreligger en stærk E., ved
+Bestemmelse af Frysepunktet. Frysepunktet for E.
+synker nemlig ved Tilsætning af Vand, indtil det
+ved en Syre, der indeholder c. 40 % Vand,
+naar et Minimum paa c. ÷ 27°; ved stærkere
+Fortynding stiger Frysepunktet atter, som det
+fremgaar af foranstaaende Tabel.
+
+Underkaster man vandholdig E. Destillation,
+vil Destillatet altid være en vandholdigere Syre
+end den opr.; der gives ikke nogen vandholdig
+E., der har konstant Kogepunkt.
+
+<sp>Acidum aceticum</sp> er i <i>Pharmacopoea
+danica</i> (1893) en E. af Vægtfylde 1,042, der
+indeholder omtr. 30 % E.; <sp>Acetum</sp>, ren Eddike,
+er i samme Farmakopé en Blanding af 160 Dele
+af den nævnte E. med 840 Dele Vand og
+indeholder omtr. 4,7 % Eddike.
+
+Stærkt fortyndet E. skimler i Luften og
+sønderdeles af Skimmelsvampene i Kulsyre og
+Vand. Ved Indvirkning af Klor paa E. kan
+under visse Betingelser de 3 af Syrens
+Brintatomer efterhaanden erstattes af Klor; de
+herved dannede <sp>Kloreddikesyrer</sp> er
+krystallinske og virker ætsende. - <sp>E. Anhydrid</sp>,
+C<sub>4</sub>H<sub>6</sub>O<sub>3</sub> ell. (CH<sub>3</sub>CO)<sub>2</sub>O, dannes ved
+Indvirkning af Fosforoxyklorid paa vandfrit
+Natriumacetat; det er en farveløs Vædske, der lugter
+stikkende surt, koger ved 137° og ved Henstand
+med Vand efterhaanden omsætter sig med dette
+til E.
+
+Fortyndet E. virker ved indvendig Brug
+kølende og nedsætter ved Anvendelse af større
+Mængder Legemstemperaturen og
+Pulsfrekvensen; anvendes E. i længere Tid, indtræder
+Fordøjelsesforstyrrelser, Mangel paa Appetit,
+Koliksmerter, Bleghed og Afmagring. Ren E. virker
+stærkt ætsende og har fundet Anvendelse som
+blæretrækkende Middel (<i>Vésicatoire de
+Beauvoisin</i>) og som Ætsmiddel mod Vorter og Ligtorne.
+Den fortyndede E. (<sp>Eddike</sp>) finder foruden
+som Tilsætning til Madvarer ogsaa Anvendelse
+som blodstillende Middel m. m. I Teknikken
+finder E. Anvendelse i Farveriet og
+Katuntrykkeriet, i Anilinfabrikationen, til Fremstilling af
+Æterarter, af eddikesure Salte m. m.
+<sp>Eddikesyrens Salte</sp>, <sp>de eddikesure Salte</sp>,
+<sp>Acetaterne</sp>, er alle opløselige i Vand; ved
+Ophedning med Natronkalk sønderdeles de
+under Dannelse af Kulsyre og Metan, medens de
+ved Glødning med Arsensyrling giver
+Kakodyloxyd og ved Ophedning med Kaliumætylsulfat
+giver Ætylacetat; de to sidste Reaktioner
+anvendes til Paavisning af E., idet
+Reaktionsprodukterne skarpt karakteriseres ved deres Lugt.
+De vigtigste Acetater omtales nærmere under
+vedk. Metallers Forbindelser.
+
+E. var i Form af Vineddike allerede kendt i
+Oldtiden og blev i fortyndet Tilstand benyttet
+som kølende Drik; man vidste, at den kunde
+opløse fl. Metaller, og at den ved Berøring med
+adskillige Mineraler fremkaldte en Brusning.
+Alkemisterne lærte at fremstille E. i renere
+Tilstand; i 8. Aarh. rensede Geber E. ved
+Destillation, og i 15. Aarh. fik Basilius Valentinus
+stærkere E. ved brudt Destillation samt ved
+tør Destillation af Spanskgrønt. 1723 lod Stahl
+Eddike fryse, fjernede Isen og fik paa denne
+Maade stærkere Eddike; han fremstillede ogsaa
+E. ved Destillation af Kaliumacetat med
+Svovlsyre. Den rene krystalliserede E. blev opdaget
+1789 af Lowitz. - Allerede 1658 havde Glauber
+betegnet den Syre, der vindes ved tør
+Destillation af Træ, som E.; senere blev Identiteten
+benægtet, indtil Fourcroy og Vauquelin viste
+Rigtigheden af Glauber's Antagelse.
+<i>(O. C.). R. K.</i></chapter>
+
+<chapter name=”Eddikesyreanhydrid”>
+<b>Eddikesyreanhydrid,</b> se <sp>Eddikesyre</sp>.</chapter>
+
+<chapter name=”Eddikesyrebakterier”>
+<b>Eddikesyrebakterier,</b> se <sp>Eddike</sp>.</chapter>
+
+<chapter name=”Eddikesyregæring”>
+<b>Eddikesyregæring,</b> se <sp>Eddike</sp>.</chapter>
+
+<chapter name=”Eddikeurt”>
+<b>Eddikeurt,</b> se <sp>Esdragon</sp>.</chapter>
+
+<chapter name=”Eddikeæter”>
+<b>Eddikeæter</b> (<sp>Ætylacetat</sp>), CH<sub>3</sub>COO.C<sub>2</sub>H<sub>5</sub>,
+en sammensat Æterart, der opstaar ved visse
+Gæringer og dannes ved Indvirkning af
+Eddikesyre paa Alkohol, fremstilles ved Indvirkning
+af en Blanding af Svovlsyre og Alkohol paa
+Natriumacetat, ell. direkte af Ætylalkohol og
+Eddikesyre med Svovlsyre som Katalysator ved
+en Temp. af 130-140°. E. er en farveløs
+Vædske, der har Vægtfylden 0,9239, koger ved 77,1°
+og fryser ved ÷ 83,8°; den lugter forfriskende
+og lader sig i alle Forhold blande med Alkohol
+og med Æter. Under Navnet <sp>Æter aceticus</sp>
+finder den med. Anvendelse; i den nyere Tid
+benyttes den i store Mængder som
+Opløsningsmiddel i Fabrikationen af røgfrit Krudt.
+<i>(O. C.). R. K.</i></chapter>
+
+<chapter name=”Eddington, Arthur Stanley”>
+<b>Eddington</b> ['ed<sub>i</sub>ŋt<sub>ə</sub>n], <sp>Arthur Stanley</sp>,
+eng. Astronom, f. 28. Decbr 1882 i Kendal,
+studerede i Manchester og Oxford, blev 1906
+knyttet til Greenwich Observatoriet, efterfulgte 1913
+Darwin som Prof. i Astronomi ved Universitetet
+i Cambridge og 1914 Robert Ball som Direktør
+for Observatoriet smst. E. har i Fagtidsskrifter
+offentliggjort talrige Afh. vedrørende Stjernernes

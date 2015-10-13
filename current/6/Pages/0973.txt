@@ -1,0 +1,34 @@
+udskydes Modstanden. Lader man noget af denne
+Modstand blive staaende inde under Driften, vil
+Motorens Hastighed selvfølgelig blive
+formindsket, men der vilde gaa en Del Energi tabt i
+Modstanden som Strømvarme. Noget simpelt
+økonomisk Middel til Regulering af den
+asynkrone Motors Omdrejningstal eksisterer ikke.
+
+Baade den synkrone og den asynkrone Motor
+ligner i deres Egenskaber nærmest
+Jævnstrømsshuntmotoren. Derimod eksisterede der indtil
+for faa Aar tilbage ingen Vekselstrømsmotor
+med Jævnstrømsseriemotorens særlige Egenskaber,
+et med voksende Belastning aftagende Omdrejningstal og en
+samtidig stærkt stigende Trækkraft. Men i den
+nyere Tid er der fremkommet talrige Konstruktioner af saadanne
+<sp>Vekselstrømsseriemotorer</sp>, der hører til de
+saakaldte <sp>Kommutatormotorer</sp>,
+<sp>Vekselstrømsmotorer</sp>, hvis Ankre er
+udstyrede med Kommutator, hvorpaa der slæber
+Børster, ganske som ved Jævnstrømsmaskinerne.
+
+I Princippet er
+<sp>Vekselstrømsseriemotoren</sp> bygget ganske som en
+Jævnstrømsmotor med Anker og Magnetbevikling i Serie.
+Magnetsystemet er dog ligesom Ankeret
+sammensat af Jernblik, da det jo er Vekselfelter,
+
+<img>
+Fig. 20. Asynkron Motorgenerator, 1000 KW.
+</img>
+<img>
+Fig. 21. Etankeromformer (750 KW.) med Igangsætningsmotor.
+</img>

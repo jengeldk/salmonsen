@@ -1,0 +1,114 @@
+vise, at K. fører en negativ Ladning. Han
+benyttede hertil det paa Fig. 3 viste Apparat. K.
+gaar gennem en Aabning i den cylinderformede,
+jordafledede Anode <i>E F G H</i> og ind i
+Metalcylinderen <i>A B C D</i>, der staar i Forbindelse
+med et Elektrometer. Det viste sig da, at den
+indre Cylinder modtog en negativ Ladning,
+hvilket ikke var Tilfældet, naar K. med en Magnet
+bøjedes til Side. Det, som var det afgørende
+for, at Perrin's Forsøg førte til sikre
+Resultater, er, at Cylinderen <i>A B C D</i> skærmedes fra
+ydre elektriske Paavirkninger, og navnlig at
+K. opfangedes i et Hulrum, saaledes at
+Refleksion og Sekundærstraaling (se ndf.) ingen
+forstyrrende Indflydelse fik. S. A. som Perrin's
+Arbejde kom <sp>Røntgen</sp>'s Opdagelse af, at
+faste Stoffer, som rammes af K., udsender en
+ejendommelig Art Straaler,
+<sp>Røntgenstraalerne</sp> (s. d.). Denne Opdagelse vakte uhyre
+Opsigt; Studiet af K. tog nu stærk Fart, og
+allerede de nærmeste Aar bragte overraskende
+og for hele Fysikken yderst vigtige Resultater.
+Forsøg af <sp>Wiechert</sp>, <sp>Kaufmann</sp> og <sp>J. J.
+Thomson</sp> viste med afgørende Sikkerhed, at
+K. bestaar af smaa negativt ladede Partikler,
+for hvilke Forholdet <i>e/m</i> mellem Ladning <i>e</i> og
+Masse <i>m</i> er uafhængigt af Luftarten i
+Udladningsrøret og c. 1800 Gange saa stort som den
+Værdi, dette Forhold har for elektrolytiske
+Brintioner. Idet vægtige Grunde leder til at
+antage, at K.-Partiklernes Ladning <i>e</i> er lige stor
+med Ladningen af en Brintion, nemlig lig det
+elektriske Elementarkvantum, maa man altsaa
+tillægge K.-Partiklerne en Masse, som kun er
+c. 1/1800 af Brintatomets Masse. K.-Partiklerne
+kaldes ogsaa <sp>Elektroner</sp> (s. d.) og
+opfattes som »Atomer« af negativ Elektricitet. K.'s
+Hastighed er uhyre stor, op til c. 100000 km
+pr Sek., d. v. s. 1/3 af Lysets Hastighed.
+
+3. <sp>Bestemmelse af</sp> <i>e/m</i> og
+<sp>Hastigheden</sp> <i>v</i> <sp>for K.</sp> De Forsøg, som førte til
+Opklaringen af K.'s Natur, gik alle paa forsk. Vis ud
+paa at undersøge K.-Partiklernes Bevægelse i
+kendte elektriske ell. magnetiske Felter. En
+Partikel med Ladning <i>e</i> vil i et elektrisk Felt
+af Styrke <i>E</i> være paavirket af en Kraft <i>e E</i> i
+Feltets Retning; er Partiklens Masse <i>m</i>, vil den
+altsaa faa en Acceleration <i>eE/m</i>. Bevæger
+Partiklen sig med Hastigheden <i>v</i> i et magnetisk
+Felt af Styrke <i>H</i>, vil dette paavirke den med
+en Kraft <i>e v H</i> sin (<i>v H</i>), hvor (<i>v H</i>) betyder
+Vinklen mellem Partiklens Bevægelsesretning
+og den magnetiske Krafts Retning. Denne Kraft
+og altsaa Accelerationen <i>e/m v H sin (v H)</i> staar
+vinkelret saavel paa Partiklens Bevægelsesretning
+som paa den magnetiske Krafts Retning.
+Partiklens Bevægelse er altsaa bestemt ved <i>e/m</i>,
+Begyndelseshastigheden og Felterne. Ved at
+undersøge Bevægelsen i kendte Felter kan man
+derfor omvendt finde <i>e/m</i> og <i>v</i> for Partiklen. Her
+og i det flg. er det absolutte elektromagnetiske
+Maalesystem benyttet.
+
+Allerede <sp>Schuster</sp> havde forsøgt at
+bestemme <i>e/m</i> og <i>v</i> for K., men <sp>Wiechert</sp> (1897)
+var den første, der naaede til sikre Resultater.
+Han foretog først en Bestemmelse af K.'s
+Hastighed ved en Metode, som er antydet paa
+Fig. 4. De fra Katoden <i>K</i> udgaaende K. træffer
+Skærmen <i>B</i><sub>2</sub>, der har en spalteformet Aabning,
+saa kun et smalt Bundt kan naa den
+luminiscerende Skærm <i>G</i>. Dette forhindres dog, idet K.
+af en Magnet bøjes ned og standses af Skærmen
+<i>B</i><sub>1</sub>. Traadene <i>a b c d</i> og <i>e f g h</i> hører til et
+Kredsløb, gennem hvilket der sendes elektriske
+Svingninger, hvis Svingningstid kan varieres.
+Det er indrettet saadan, at hver Gang den
+elektriske Strøm i <i>c b</i> har sin maksimale Styrke,
+ophæver dens magnetiske Felt netop
+Virkningen af Magneten, hvorved K. en kort Tid kan
+slippe forbi Skærmen <i>B</i><sub>1</sub>. Naar K. er naaet hen
+mellem <i>B</i><sub>2</sub> og <i>G</i>, paavirkes de af Magnetfeltet
+fra Strømmen i <i>g f</i>. Er de elektriske
+Svingningers Periode nu lang i Forhold til den Tid, K.
+bruger om at gaa fra <i>B</i><sub>1</sub> til <i>B</i><sub>2</sub>, saa vil
+Strømmen i <i>g f</i> praktisk talt have sin maksimale
+Styrke, naar <i>g f</i> passeres af K., og disse vil
+derfor bøjes opad, hvilket iagttages paa
+Skærmen <i>G</i>. Gøres Svingningstiden efterhaanden
+mindre og mindre, vil Afbøjningen mellem <i>B</i><sub>2</sub> og <i>G</i>
+formindskes, og den vil blive Nul, naar
+Svingningstiden er 4 Gange saa lang som den Tid, K.
+bruger om at gennemløbe Afstanden mellem
+<i>c b</i> og <i>g f</i>. Strømmen i <i>g f</i> vil nemlig da, naar
+K. er naaet derhen, have passeret sin
+Maksimalværdi for 1/4 Svingningstid siden og altsaa have
+Styrken Nul. Ved at bestemme den
+Svingningstid, for hvilken Afbøjningen bliver Nul, faar
+man altsaa Oplysning om den Tid, K. bruger
+om at forplante sig fra <i>c b</i> til <i>g f</i>, og maales
+denne Afstand, kan da K.'s Hastighed
+beregnes. Wiechert fandt c. 3·10<sup>9</sup> cm/sek. En nedre
+Grænse for Forholdet <i>e/m</i> fandt Wiechert
+dernæst ved flg. Overvejelse. Antages det, at
+K.-Partiklerne opnaar deres Hastighed ved at
+gennemløbe det elektriske Felt i Udladningsrøret
+og navnlig det store Spændingsfald tæt ved
+Katoden, saa kan deres kinetiske Energi 1/2 <i>m</i> <i>v</i><sup>2</sup>
+højst blive lig <i>e V</i>, hvor <i>V</i> er
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>

@@ -1,0 +1,138 @@
+Spørgsmaalet om Atomernes Bygning paa en
+Maade, der er helt forsk. fra de tidligere
+anvendte. I St f. blot at søge at finde mulige
+simplel Arter af Sammenspil mellem
+Elektronerne i de enkelte Grupper stiller han det
+Spørgsmaal: Hvorledes vil Elektronerne bindes
+af Kernen, naar man, efter at have fjernet alle
+Elektronerne, lader den indfange dem igen en
+efter en? Svaret herpaa søger han at finde ved
+en konsekvent Anvendelse af K.'s Principper
+og ved at lade sig vejlede af de forsk. Stoffers
+Spektre og øvrige fys. og kem. Egenskaber.
+Korrespondensprincippet viser sig her af uhyre
+stor Bet., idet man ved dets Hjælp bliver i
+Stand til at vælge mellem de mange
+Muligheder, som paa Forhaand frembyder sig for
+Bindingen af hver enkelt Elektron. Ad denne
+Vej er det lykkedes Bohr at naa til bestemte
+Anskuelser om Bygningen af de fleste
+Grundstoffer; hans ny Atommodeller adskiller sig
+væsentlig fra tidligere Modeller og giver en
+utvungen Forklaring af den Stabilitet hos
+Atomerne, som f. Eks. giver sig til Kende ved
+Reorganisationen efter Fjernelsen af en
+Elektron, og som det var umuligt at forstaa ved
+Hjælp af de tidligere Modeller. Her skal kun
+antydes enkelte af Resultaterne af Bohr's
+Arbejde, der i øvrigt endnu ikke er ført til en
+Afslutning.
+
+Vi betragter først Bindingen af den <sp>første</sp>
+Elektron; Bindingsprocessen maa aabenbart
+være ganske analog med Bindingen af en
+Elektron til en Brintkerne, hvorved Brintatomet
+dannes, og den vil ende med, at Elektronen
+kredser om Kernen i en cirkulær 1-kvantet
+Bane, hvis Radius er lige saa mange Gange
+mindre end Radius for Elektronbanen i Brint,
+som den betragtede Kernes Ladning er større
+end Brintkernens Ladning.
+
+Den <sp>anden</sp> Elektron maa i alle Tilfælde
+antages at bindes paa lgn. Maade som den
+anden og sidste Elektron i Helium. Dettes
+Buespektrum bestaar i Modsætning til de fleste
+andre Stoffers Spektre af to fuldstændige
+Systemer af Linier, hvilket viser, at den anden
+Elektron kan bindes paa to forsk. Maader.
+Undersøgelser af <sp>Landé</sp>, <sp>Bohr</sp> og <sp>Kramers</sp>
+har vist, at det saakaldte
+<sp>Orthohelium</sp>-spektrum udsendes ved den anden Elektrons
+Overgang mellem stationære Baner, som ligger
+i samme Plan som den første Elektrons Bane
+og helt omslutter denne, medens
+<sp>Parhelium</sp> spektret udsendes ved Overgange
+mellem stationære Tilstande, i hvilke den anden
+Elektron bevæger sig i Baner, hvis Planer
+danner Vinkler med Baneplanen for den første
+Elektron. I Slutningstilstanden for den
+Bindingsproces, ved hvilken Orthoheliumspektret
+udsendes, bevæger den anden Elektron sig i
+en aflang 2<sub>1</sub> Bane uden om den første
+Elektrons Bane. Man kunde vente, at den anden
+Elektron ikke vilde opgive sin Stræben efter
+at komme Kernen saa nær som muligt, før den
+var havnet i en 1-kvantet Bane; dette vilde føre
+til en Tilstand, i hvilken de to Elektroner var
+ganske ligestillede og bevægede sig om Kernen
+i samme Cirkelbane, saaledes at de stadig
+befandt sig i diametralt modsatte Punkter af
+Banen. At Overgangen til denne
+Bevægelsestilstand ikke finder Sted, forklares ved
+Korrespondensprincippet som en Følge af den
+væsentlige Forskel, der er mellem Bevægelsernes
+Art i denne Tiistand og i Tilstande, hvor den
+ene Elektron bevæger sig helt uden om den
+andens Bane. Den Bindingsproces, under
+hvilken Elektronbanerne danner Vinkler med
+hinanden, og som giver Anledning til Udsendelsen
+af Parheliumspektret, maa derimod tænkes at
+ende med, at begge Elektroner bevæger sig i
+ens, omtr. cirkulære 1<sub>1</sub> Baner, hvis Planer
+danner en Vinkel paa 60° med hinanden. Denne
+Tilstand er Heliums Normaltilstand, medens
+Slutningstilstanden for den første
+Bindingsproces er det af <sp>Franck</sp> opdagede
+<sp>metastabile</sp> Helium. Overgang fra den metastabile
+til den normale Tilstand, i hvilken sidste den
+anden Elektron er bundet langt fastere, finder
+p. Gr. a. den fundamentale Forskel mellem
+Elektronbevægelserne i de to Tilstande ikke
+Sted af sig selv, ligesom der overhovedet ikke
+forekommer Overgange mellem Ortho- og
+Parheliumtilstande; derimod indvirker, som nævnt
+i det foregaaende, fremmede Atomer ell.
+Molekyler paa metastabilt Helium med det
+Resultat, at der dannes normalt Helium. Den
+Fasthed, hvormed Elektronerne i Helium normalt
+er bundet, er meget stor, og herved forklares
+Heliums manglende Tilbøjelighed til at
+optræde som Ion ell. indgaa i kem. Forbindelser.
+En afgørende Prøve paa Rigtigheden af de her
+antydede Anskuelser om Heliumatomets
+Bygning kan foretages ved at beregne det Arbejde,
+som maa udføres ved Fjernelsen af en af de
+to Elektroner; den beregnede Værdi skal da
+stemme med den ved Elektronstødforsøg
+fundne Værdi for Ioniseringsarbejdet. En saadan
+Beregning, der er meget vidtløftig, er endnu
+ikke gennemført med meget stor Nøjagtighed;
+saa vidt som Beregningerne hidtil er ført, taler
+de for Anskuelsernes Rigtighed. Man maa nu i
+al Alm. antage, at de to første Elektroner,
+som indfanges af en Atomkerne, bindes til
+denne i ens 1 Baner, hvis Planer hælder 60° mod
+hinanden, ligesom i det normale Heliumatom,
+og hvis Radier er desto mindre, jo større
+Kerneladningen er.
+
+Om Bindingen af den <sp>tredie</sp> Elektron
+giver Lithiumspektret Oplysning; det fortæller
+om en Række af de stationære Tilstande, for
+hvilke Kvantetallet <i>k</i> er større end ell. lig 2, og
+i hvilke Energien har omtr. samme Værdier
+som i de stationære Tilstande af Brintatomet,
+samt om en anden Række af stationære
+Tilstande for hvilke <i>k</i>=1, og hvor Energien er
+væsentlig mindre end i de tilsvarende
+stationære Tilstande af Brintatomet. Til den sidste
+Række af stationære Tilstande hører, som
+Absorptionsspektret viser, Lithiums
+Normaltilstand. Bohr forklarer dette derved, at den
+tredie Elektron, naar den bevæger sig i en stærkt
+langagtig Bane, i et kort Tidsrum af sit
+Omløb trænger saa tæt ind til Kernen, at den
+kommer denne lige saa nær som de to første
+Elektroner; som Følge heraf vil Elektronen
+være bundet langt fastere end i mindre

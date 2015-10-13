@@ -1,0 +1,164 @@
+<sp>Adhæsionskoefficienten</sp>. Størrelsen af
+denne er meget variabel og har Ydergrænserne
+0,080 og 0,35 (c. 1/12 og 1/3) ell. udtrykt i kg pr. t,
+hvad der hyppigst bruges, 80 og 350 kg pr. t, alt
+efter Beskaffenheden af Hjuls og Skinners
+Materiale og Overflade. Den største Værdi svarer
+til ru ell. sandede Skinner i tørt Vejr, den
+mindste til »fedtede« Skinner ell. Skinner
+bedækkede med Rim ell. et tyndt Lag Sne. Under
+alm. Forhold regner man med Værdier mellem
+0,135 og 0,180. Ved »fedtede« Skinner f. Eks.
+kan man forøge A. ved at strø Sand paa dem;
+Lokomotivet er derfor forsynet med en ell. fl.
+Sandkasser, hvorfra Føreren kan lade Sandet
+løbe ned paa Skinnerne foran Drivhjulene.
+<i>G. K.</i>
+
+4) (jur.), se <sp>Accession</sp> 2).
+</chapter>
+
+<chapter name="Adhæsionsbaner">
+<b>Adhæsionsbaner</b> kaldes saadanne Jernbaner,
+hvis Togs Fremførelse kun sker ved Udnyttelse
+af Friktionen mellem det trækkende
+Lokomotivs Driv- (og Kobbel-) hjul og Skinnerne,
+hvorfor de egl. burde kaldes »Friktionsbaner«. Det
+langt overvejende Antal eksisterende
+Jernbaner er A. I de Tilfælde, hvor en Banes
+Stigninger er saa store, at de ikke tillader dens
+Drift som A., maa man anvende særlige
+Indretninger for at fremkalde Bevægelse, som
+f. Eks. ved Tandhjulsbaner og Tovbaner. Som
+Regel regner man, at en normalsporet
+Hovedbane ikke med Fordel vil kunne drives som
+A., naar den har større Stigninger end 25 ‰
+(1:40), bl. a. fordi Kørslen nedad med store
+Tog vanskeliggøres ved den stærke Paavirkning,
+Bremsen er udsat for (Ophedning og stærkt
+Slid af Bremseklodserne). Der findes dog
+enkelte A. med større Stigninger; den Bane, der
+har den største Stigning, nemlig 35 ‰ (c.
+1:28,57), er Giovi-Banen (Strækning: Pontedecimo-Bussalla)
+i Italien. Paa Sidebaner, drevne med
+Damplokomotiver, kan man dog med Fordel
+anvende Stigninger paa 50 ‰; undtagelsesvis
+findes endnu stærkere Stigninger; et Eksempel
+herpaa er den normalsporede Ütli-Bjergbane
+ved Zürich, der har største Stigning 70 ‰
+(c. 1:14,3), og Markbanen: Tavaux-Pontsericourt
+i Frankrig med største Stigning 75 ‰
+(c. 1:13,3); den sidste har dog kun 1 m Sporvidde.
+Ved Smaabaner, hvor der anvendes elektriske
+Motorvogne, gaar man til endnu stærkere
+Stigninger. Den største Stigning for saadanne
+Baners Vedkommende er 115 ‰ (c. 1:8,7) og
+findes paa Linien Le Hâvre—Saint Marie i
+Frankrig. Der har i Tidernes Løb været gjort
+adskillige Forsøg paa at forøge Adhæsionen.
+Af disse bør særlig det af den engelske Ingeniør
+Fell opfundne System nævnes, idet dette fl.
+Gange har fundet Anvendelse paa Ny-Zealand,
+i Brasilien, Cantagallo og 1895 i England
+(Laxey-Sneafell) ved Baner med en Sporvidde
+paa 1,1 m og med Stigninger paa indtil 90 ‰
+(c. 1:11,1). Før Aabningen af
+Mont-Cenis-Tunnellen, var Banen over Mont-Cenis ligeledes
+bygget efter <sp>Fell's System</sp>. Dette bestod
+i, at der midt imellem de sædvanlige Skinner
+anbragtes en vandret Dobbeltskinne, ind imod
+hvilken fra begge Sider vandrette Drivhjul paa
+Lokomotivet pressedes ved Hjælp af Fjedre,
+hvorved altsaa Adhæsionen og dermed Trækkekraften
+forøgedes. Efter at Tandhjulsbanerne
+er blevne saa fuldkomne, som de nu er, vil de
+Fell'ske Baner næppe mere blive udførte ved
+Nyanlæg.
+<i>G. K.</i>
+</chapter>
+
+<chapter name="Adhæsionskoefficient (se Adhæsion 3))">
+<b>Adhæsionskoefficient</b>, se <sp>Adhæsion</sp> 3).
+</chapter>
+
+<chapter name="Adhæsionsvægt">
+<b>Adhæsionsvægt</b> kaldes den Del af et
+Lokomotivs Vægt, der gennem samtlige de af
+Maskinen drevne Hjul overføres til Skinnerne, i
+Modsætning til den »døde« Vægt, der overføres
+gennem de øvrige Hjul. (Om Bet. af A.'s
+Størrelse for Lokomotivets Trækkekraft, se
+<sp>Adhæsion</sp> 3)). Ønsker man et Lokomotiv med stor
+Trækkeevne, maa man gennem dets
+Konstruktion bl. a. sørge for en stor A., hvilket man
+kan opnaa ved at »koble« flere Hjulpar
+sammen (se <sp>Lokomotiv</sp>), saaledes at alle disse
+»Kobbelhjul« ogsaa kommer til at virke som
+Drivhjul.
+<i>G. K.</i>
+</chapter>
+
+<chapter name="a di">
+<b>a di</b> (ital.), paa samme Dag, paa Sigt.
+</chapter>
+
+<chapter name="adiabatisk">
+<b>adiabatisk</b> (gr.) kalder man i Fysikken en
+Forandring i et Legemes Tilstand, naar
+Legemet under denne Forandring hverken afgiver
+ell. modtager Varme. En <sp>pludselig</sp>
+Sammentrykning af en Luftmasse er saaledes en
+adiabatisk Forandring. Ved en saadan
+Sammentrykning stiger Luftens Temp., og Trykket
+vokser derfor hurtigere, end det vilde gøre,
+om Luften under Sammentrykningen fik Tid til
+at afgive den udviklede Varme til Omgivelserne.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Adiabene">
+<b>Adiabene</b>, gr. Omskrivning af det semitiske
+(aramaiske) Navn paa et Landskab Ø. f. Tigris
+imellem de to Floder Zab (Djab), Assyrernes
+»øvre« og »nedre Zab«, de gamle Geografers
+Lykos og Kapros. Paa Kristi Tid, rimeligvis
+allerede tidligere, dannede A. ligesom andre
+Egne af Mesopotamien, f. Eks. Edessa, egne
+Kongeriger, der var afhængige af Partherkongerne.
+En Dronning fra A., Helene, gik i den
+første Kejsertid over til Jødedommen og rejste
+til Jerusalem med sin talrige Familie, som det
+fortælles af Josefus (Jød. Hist. XX). De
+saakaldte »Kongernes Grave« lige N. f. Jerusalem
+er rimeligvis hendes Familiebegravelse. Man har
+her fundet fl. Stensarkofager, hvoraf een har
+en kort, oldsyrisk Indskrift; de fleste af disse
+er nu i Louvre.
+<i>V. S.</i>
+</chapter>
+
+<chapter name="Adiafon">
+<b>Adiafon</b> (gr.), et Musikinstrument, opfundet
+1819 af en Urmager Franz Schuster i Wien;
+det var forsynet med Staalstænger, der
+ansloges ved Hjælp af et Klaviatur og frembragte
+Toner af en orgel- ell. harmonikaagtig Klang.
+I sin opr. Skikkelse er A. nu fuldstændig ude
+af Brug; men i den senere Tid har man søgt
+at erstatte Staalstængerne med Stemmegafler af
+Staal og derved fremstillet det saakaldte
+»Gaffelklaver«, hvor Stemmegaflerne altsaa træder i
+Stedet for Strenge. Endnu har dette
+Instrument dog aldeles ingen praktisk Betydning.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Adiafora">
+<b>Adiafora</b> (gr.) betyder de ligegyldige Ting og
+anvendtes af Stoikerne som Betegnelse for det
+etisk indifferente. Da den stoiske Etiks
+Grundprincip gik ud paa, at kun Sjælens fuldkomne
+Udvikling var et Gode, blev alle andre Ting
+ligegyldige, Sundhed ell. Sygdom, Rigdom ell.
+Fattigdom, ja, selv Liv ell. Død var uden
+absolut Bet., men Stoikerne begik af Hensyn til

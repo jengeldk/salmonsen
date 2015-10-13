@@ -1,0 +1,89 @@
+<sp>Anlægssystemer</sp>. I større Byer med
+flere Brandstationer indføres de enkelte
+Brandalarmsløjfer enten alle til
+Hovedstationen (<i>H</i>), se Fig. 13, uden at berøre
+Bistationerne (<i>B</i>), ell. de indføres til
+Hovedstationen, men passerer gennem et Morseapparat
+paa den Bistation, i hvis Distrikt de ligger,
+saaledes at Bistationen modtager de den
+vedrørende Brandmeldinger samtidig med
+Hovedstationen, se Fig. 14, ell. endelig faar hver
+Station indført de Sløjfer, der ligger i dens
+Distrikt, se Fig. 15. Forbindelsen mellem
+Stationerne sker i første og sidste Tilfælde ved en
+særlig Telegraflinie med Hvilestrømsdrift,
+hvorpaa Stationerne er indskudte i Serie, saaledes
+at en Depeche samtidig modtages af alle
+Stationer. Foruden ved Telegraflinien, der benyttes
+til Ildebrandsdepecher og vigtigere Meddelelser,
+forbindes Stationerne ved Telefonlinier, der
+udgaar fra Hovedstationen, hvis Telegrafstue
+derfor faar en større Telefoncentral,
+medens de øvrige Stationers Telegrafstuer
+faar mindre Telefoncentraler med
+Omstilling til Stationernes Kontorer og
+Befalingsmænd. Hovedstationen faar
+yderligere Forbindelse til
+Byens Telefonnet, saaledes at
+Ildebrandsmeldinger ogsaa kan modtages ad
+denne Vej.
+
+I Kbhvn er anvendt det i Fig. 15
+viste System, men der er yderligere
+truffet den Foranstaltning, at de paa
+Bistationerne indgaaende
+Brandalarmmeldinger automatisk
+overføres til en Samlemorse paa
+Hovedstationen, der saaledes faar
+Meldingen samtidig med Bistationen. Til
+Overføringen er de forhaandenværende Telefonlinier
+benyttet paa en saadan Maade, at
+Telegraferingen ikke indvirker paa deres samtidige
+Benyttelse til Telefonering.
+
+<sp>Etslagklokkesystemet</sp> er fremgaaet
+af det i Nordamerika udbredte
+»Gamewell«-System, der tilsigter at gøre Betjeningen af
+Telegrafapparaterne saa simpel, at der ikke
+behøves uddannede Telegrafister. Som
+Brandalarmmærker benyttes ved dette System
+udelukkende Grupper af Prikker svarende til
+Brandalarmens Nummer, og alle
+Brandalarmerne faar fortløbende Numre. Alle Sløjfer
+indføres til en Centralstation, hvortil ogsaa
+Telefonmeldinger fra Byen indgaar, saa at samtlige
+Brandmeldinger maa videresendes fra
+Centralstationen til Bistationerne. Som
+Modtagerapparater benyttes, væsentlig af Pladshensyn,
+Morseapparater med eet Løbeværk, men med mange
+Magnetsystemer med tilhørende
+Ankervægtstænger og Farvehjul ell. Perforerapparater og en
+tilsvarende bred Papirstrimmel, saa at det kan
+modtage lige saa mange selvstændige
+Alarmsløjfer, som det har Magnetsystemer. Samtidig
+med Indløbet af Alarmmærkerne paa
+Morseapparatet underrettes Vagtmandskabet ved
+stærktlydende Klokker, der slaar eet Slag for
+hver Prik med Ophold svarende til Afstanden
+mellem Prikkerne, om Numret paa den Alarm,
+Meldingen er indgaaet fra, og Numret gengives
+med Talcifre, se Fig. 16, paa et Tableau
+(Indikatoren) i Udrykningsremisen, ligesom det og
+Klokkesignalet, der gentages nogle Gange,
+overføres til de øvrige Stationer enten ved et for
+Haanden indstilleligt Overføringsapparat ell.
+ved et automatisk Overføringsapparat. Til
+Overføringen benyttes enten selve
+Brandalarmsløjferne, for saa vidt de passerer en Station, ell.
+særlige Alarmsløjfer. For at kunne modtage en
+ny Melding, maa Indikatorerne stilles tilbage
+med Haanden. Telefonmeldinger maa overføres
+til de øvrige Stationer pr Telefon, hvilket let
+giver Anledning til Fejltagelser.
+
+<img>Fig. 13—15. Anlægsskemaer.</img>
+
+<img>Fig. 16. Gamewell's
+Indikator med Klokke.</img>
+
+<img>Fig. 17. Siemens & Halske's Viserapparatsystem.</img>

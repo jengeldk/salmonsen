@@ -1,0 +1,108 @@
+rigtigere Forestillinger om den umaadelig store
+Forskel i Absorptionen af de forsk.
+Bølgebredder). De meget haarde R. længst til venstre
+paa Fig. kan løsrive baade K-, L- og
+M-Elektroner, men de gør det sjældent, saa at de
+absorberes meget lidt. Naar λ vokser, bliver
+Sandsynligheden for Løsrivelsen især af en
+K-Elektron større, saa af Absorptionen vokser, og
+den vokser stærkt med λ, nemlig omtr.
+proportional med λ<sup>3</sup>, indtil man pludselig naar
+til saa bløde Straaler, at hv for den
+indfaldende Straaling ikke længer er stort nok til at
+løsrive en K-Elektron; saa ophører
+Fremkaldelsen af K-Spektret og dermed ogsaa denne
+Aarsag til Absorption af den indfaldende
+Straaling, saa at Absorptionen pludselig undergaar
+en meget betydelig
+Formindskelse til en 6—7
+Gange mindre Værdi.
+Hvad der nu er tilbage
+af Absorption, skyldes, at
+der tillige løsrives L-, M-
+o. s. v. Elektroner, men
+det er langt
+usandsynligere. Ved at forlænge
+den videre Kurve bagud
+paa Fig. 14 faar man en
+Forestilling om, hvor stor
+en Del af den hidtidige
+Absorption der skyldes L-
+og M-Straaling. P. Gr. a.
+for lille Maalestok er dette ikke gjort i Fig. ved
+K-Springet, men først ved de flg. Spring.
+Efterhaanden som man ved at gaa til større
+Bølgebredder kommer nærmere til L-Linierne, stiger
+Sandsynligheden, saa at Absorptionen igen
+bliver stor og meget større end før, indtil der
+pludselig atter sker Spring, naar Bølgebredden
+er bleven for stor til, at L-Elektronen længere
+kan løsrives. Men her kommer 3 Spring,
+svarende til, at der var 3 forsk. Maader at løsrive
+en L-Elektron paa, der hver krævede lidt forsk.
+Energi; selv om de indfaldende R.'s hv er for
+lille til den vanskeligste af de 3 Løsrivelser,
+kan de endnu magte de 2 andre, og først naar
+Straalingen er saa blød, at den slet ikke mere
+kan løsrive L-Elektroner, kommer det sidste Fald
+i Absorptionen. Endelig kommer der lgn.
+flerdobbelte Spring i Nærheden af M-Linierne o. s. v.
+
+Man kan altsaa ikke uden videre sige, at
+haarde R. absorberes mindre end bløde, idet
+der indtræder pludselige Ændringer i
+Absorptionen, Absorptionsdiskontinuiteter, der ligger
+ved den haardeste Linie i K-Spektret, de
+haardeste Linier i hver af Grupperne i L-Spektret
+o. s. v. Spektrenes Beliggenhed er antydet
+forneden paa Fig. 14. I Fotografier af
+Absorptionsspektre optræder de saakaldte
+Absorptionskanter. Et Stof er aabenbart særligt
+gennemstraaleligt for sine egne karakteristiske Straaler og
+særlig uigennemstraaleligt for de lidt haardere
+Straaler. Gaar vi over til at betragte et andet
+Stof, ligger Diskontinuiteterne ved andre
+Bølgebredder, for Stoffer med højere Nr ved
+haardere Straaler. Man kan for hver Bølgebredde
+tegne en Kurve, der giver
+Absorptionskoefficientens Variation med Stoffets Nr for denne
+bestemte Bølgebredde. Saadanne Kurver
+kommer til at ligne Fig. 14 meget, da τ foruden
+at være proportional med λ ogsaa er omtrent
+proportional med Atomnumret N<sup>3</sup>. Denne
+stærke Afhængighed af Atomnumret betinger, at
+Knoglerne, der bl. a. indeholder Ca, absorberer
+meget stærkere end Bløddelene.
+
+Den Del af den indfaldende R.-Energi, som
+absorberes i et Stof, fordeles altsaa mellem det
+paavirkede Atom og den derfra frigjorte
+Elektron. Hvad Atomet faar, udsendes igen som
+karakteristisk Straaling, men til alle Sider, saa
+at der dog er Tale om Absorption, Berøvelse af
+Energi fra det indfaldende Straalebundt i dets
+videre Forløb. Hvad Elektronen faar, bliver til
+Varme, dog ogsaa delvis ad Omvejen R., idet
+den løsrevne Elektron, hvis den har Fart nok,
+igen kan fremkalde R. fra andre Atomer, disse
+igen kan løsrive Elektroner o. s. v. Der er et
+stadigt Vekselspil mellem Elektroner og R.
+Hvor mange og hvilke af de ramte Atomer i
+det absorberende Stof der bliver de udvalgte,
+som mister en Elektron, raader Tilfældet for
+efter Sandsynlighedslovene. Mange Atomer
+passerer R. igennem, uden at der sker det mindste,
+men hist og her og nu og da er Betingelserne
+til Stede for Omsætning af Energi med Atomet.
+P. Gr. a. det store Antal Kvanter og det uhyre
+Antal Atomer, der altid i Praksis er Tale om,
+iagttages dog altid et jævnt Fænomen, selv for
+tynde Lag og svag Straaling; det er blot i
+Teorien, man kan tænke sig saa tynde
+absorberende Lag og saa svag Straaling, at
+Tilfældighederne gør sig gældende.
+
+<img>Fig. 14. Absorptionens Variation med Bølgebredden.</img>
+
+<img>Fig. 15. Absorptionens Variation med Bølgebredden (logaritmisk Kurve,
+skematisk).</img>

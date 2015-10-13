@@ -1,0 +1,121 @@
+<table>
+<td>Tabel 4.
+<td>I Tabellen er regnet med følgende Enhedspriser:<br>1 l Petroleum 20 Ø. 1 kg Kalciumkarbid 20 Ø.<br>1 m<sup>3</sup> Acetylengas (fra Central) 160 Ø.<br>1 m<sup>3</sup> Kulgas til Belysning 16 Ø.<br>1 K. W. Time Elektricitet 35 Ø.<td c>Omtrentlig<br>forbrug pr. time<td c>Omtrentlig Pris<br>for<br>100 hl pr. Time<td c>Størrelsen af de<br>almindeligt brugte<br>lampetyper
+<td><td c>pr. hl<td c>Ø.<td c>hl
+<td>Alm. Petroleumslampe (efter<br>Brænderkonstruktion)<td c>2,8 gr<td c>4,0—6,0<td c>10—50
+<td>Petroleumsglødelys (med Væge)<td c>0,8 gr<td c>2,0<td c>50—100
+<td>Acetylencentral, aabne Flammer<td c>0,7 l<td c>11,2<td c>20—60
+<td>—, Glødelys<td c>0,25 l<td c>4,0<td c>40—60
+<td>Lokalt Acetylenværk, Glødelys<td c>2,2 gr<br>Karbid<td c>4,4<td c>40—60
+<td>
+<td>Kulgas (alm. Lysgas)
+<td>Opadvendende Glødenet<td c>1,5 l<td c>2,4<td c>16—150
+<td>Hængende Glødenet<td c>1,0 l<td c>1,6<td c>35—110
+<td>Lamper af stor Lysstyrke, men<br>lavt Gastryk<td c>0,7 l<td c>1,1<td c>200—2000
+<td>Lamper af stor Lysstyrke, men<br>højt Gastryk (Presgas)<td c>0,5 l<td c>0,8<td c>250—5000
+</table>
+
+<table>
+<td>Elektricitet<br><td c>Omtrentlig<br>Forbrug pr. Time<br>pr. hl<td c>Omtrentlig Pris<br>for<br>100 hl pr. Time<td c>Størrelsen af de<br>almindeligst<br>brugte<br>Lampetyper
+<td><td c>Watt<td c>Ø.<td c>hl
+<td>Tantallamper<td c>1,5<td c>5,25<td c>16—50
+<td>Osram- og Wolframlamper<br>mindre Type<td c>1,0<td c>3,5<td c>16—100
+<td>Osram- og Wolframlamper<br>større Type<td c>0,8<td c>2,8<td c>200—500
+<td>Osram- og Wolframlamper<br>største Typer<td c>0,5<td c>1,75<td c>500—3000
+<td>Buelampe med Kuppel<td c>1,1<td c>3,9<td c>300—1000
+<td>Flammebuelampe m.<br>Kuppel og gult Lys<td c>0,25<td c>0,9<td c>1000—4000
+<td>Flammebuelampe m.<br>Kuppel og hvidt Lys<td c>0,33<td c>1,2<td c>700—3000
+<td>Lampe m. Kviksølvdampe<td c>0,22<td c>0,8<td c>200—1000
+</table>
+
+Reklameskilte. Til den egentlige Oplysning af
+almindelige Butiksvinduer ell. Lokaler, hvor Lyset skal
+brænde fl. Timer i Træk, maa Gassen imidlertid
+(i hvert Fald med de indtil nu fremkomne
+Typer af elektriske, mindre Lamper) siges at være
+det billigste.
+
+Ved Anlæg, hvor der skal anvendes Lamper af
+større Lysstyrke, begynder Sagen at stille sig
+anderledes. Her er man nu naaet til
+Lampetyper, hvor der er forholdsvis ringere Forskel
+i Bekostningen til selve Driftsudgiften, saa at
+andre Forhold end netop Udgiften til selve B.
+kan gøre sig gældende ved Projekteringen af
+Anlægget.
+<i>R. T.</i>
+</chapter>
+
+<chapter name="Belysningsapparater, medicinske">
+<b>Belysningsapparater,</b> <sp>medicinske</sp>. Til
+at undersøge sygelige Tilstande ved Hjælp af
+Synet er det nødvendigt, at det undersøgte Parti
+oplyses tilstrækkelig, og at Lysstraalerne fra
+det oplyste naar Undersøgerens Øje uhindret;
+disse Fordringer opnaas ved de ydre Dele som
+Regel ganske uden andre Hjælpemidler end en
+kunstig Lyskilde i Mangel af Dagslys. Ved et
+mindre gunstigt Leje af Patienten kan man
+benytte et alm. Spejl til at reflektere Lyset, der
+falder ind fra Vinduet, hen mod et maadeligt
+belyst Parti. Ved Undersøgelse af Svælget ved
+kunstig Belysning benytter man undertiden at
+forstærke Lyset ved bag ved en alm. Lysflamme
+at holde en blankpoleret Spiseske, der virker
+som Hulspejl. Ved udvendige
+Øjenundersøgelser er det ofte nødvendigt at koncentrere Lyset
+fra Vinduet ell. fra en kunstig Lyskilde ved
+Hjælp af en stærk Samlelinse, gennem hvilken
+der da kastes en skraat indfaldende Lyskegle
+fra Siden ind imod det undersøgte Øje. Det er
+dog egl. først, hvor Talen bliver om
+Undersøgelse af Dele, der ikke præsenterer sig direkte
+paa Overfladen, at der bliver Spørgsmaal om
+Anvendelsen af særlige B. Allerede for lang
+Tid siden forsøgte man paa forsk. Maade ved
+Tilbagekastning af Lyset at gøre indvendige
+Kanaler ell. Hulheder synlige; men de opnaaede
+Resultater var i Grunden temmelig tarvelige, og
+Metoderne fik ingen Udbredelse før
+<sp>Helmholz</sp>'s Opfindelse (1851) af <sp>Øjespejlet</sp>,
+<sp>Oftalmoskopet</sp> (s. d.), til Oplysning og
+Undersøgelse af Øjets indre Hinder. Dette
+efterfulgtes i de flg. Aar af <sp>Ørespejlet</sp>,
+<sp>Otoskopet</sp> (s. d.), til lgn. Undersøgelse af
+Trommehinden. Disse Apparaters Princip er ved
+Hjælp af en Spejlflade at kaste Lys ind paa den
+Flade, man vil undersøge, samtidig med at man
+anbringer sit Øje bag Spejlfladen, der da enten
+maa være gennemsigtig (uden Belægning), som
+ved Helmholz's opr. Oftalmoskop, ell.
+gennemboret i Midten som ved senere Oftalmoskoper og
+Otoskoper, der nu som Regel alle konstrueres
+som <sp>Hulspejle</sp> enten af poleret Metal ell.
+af Glas med Spejlbelægning. Som Lyskilde
+anvendes ved Øjespejlet altid en god Lampe,
+medens Ørespejlet ogsaa virker ved Anvendelsen af
+Sollys; man kan ogsaa med Fordel bruge en god
+Lampe med en Forstærkningslinse foran (f. Eks.
+en Skomagerkugle). De her omtalte Apparater
+har det tilfælles, at den til Undersøgelse oplyste
+Flade <sp>betragtes direkte</sp> af
+Undersøgeren (undertiden, og navnlig da ved
+Øjenundersøgelsen, benytter man dog forskellige Glas til
+Tydeliggørelse og Forstørrelse af de undersøgte
+Dele). Paa samme Maade ser man <sp>direkte</sp>
+paa de undersøgte Dele ved <sp>Uretroskopet</sp>
+(s. d.), til Undersøgelse af Urinrøret og ved
+<sp>Proktoskopet</sp> (s. d.), ogsaa kaldet
+<sp>Rektoskopet</sp>, til Undersøgelse af nederste Del
+af Tyktarmen. Anderledes ved de Apparater,
+hvorved man skaffer sig Indblik i Dele, der
+ligger saaledes, at de ikke direkte kan betragtes
+af Undersøgeren. Her maa man anvende
+vinkelstillede Spejle for at kunne »se om Hjørnet«.
+De Instrumenter, som her navnlig har Bet., er
+<sp>Strubespejlet</sp>, <sp>Laryngoskopet</sp> (s. d.),
+<sp>Næsespejlet</sp>, <sp>Rhinoskopet</sp> (s. d.)
+og <sp>Blærespejlet</sp>, <sp>Cystoskopet</sp> (s. d.).
+De to første af disse bestaar af et alm. Spejl
+paa c. 1 cm i Gennemsnit, der er skraat stillet
+mod et Haandtag, ved hvilket Spejlet føres ind

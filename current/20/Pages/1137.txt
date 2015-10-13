@@ -1,0 +1,96 @@
+<table>
+<td r>638,<td c>2,<td>Linie<td r>20 f. n.<td>Trevino læs: Treviso
+<td c>—<td c>2,<td c>—<td r>9 f. n.<td>Coscino læs: Cascina
+<td c>—<td c>2,<td c>—<td r>5 f. n.<td>Terno læs: Terni
+<td c>—<td c>2,<td c>—<td r>4 f. n.<td>Cita di Cartello læs: Città di Castello
+<td r>639,<td c>1,<td>Linie<td r>3 f. o.<td>Palermo læs: Salerno
+<td c>—<td c>1,<td c>—<td r>4 f. o.<td>Castella mari læs: Castellamara
+<td c>—<td c>1,<td>Linie<td r>9 f. o.<td>Biseglia læs: Bisceglia
+<td c>—<td c>1,<td c>—<td r>10 f. o.<td>Bitunto læs: Bitonto
+<td c>—<td c>1,<td c>—<td r>19 f. o.<td>Arenerini læs: Armerina
+<td c>—<td c>1,<td c>—<td r>20 f. o.<td>Alcano læs: Alcamo
+<td c>—<td c>1,<td c>—<td r>20 f. o.<td>Vistoria læs: Vittoria
+<td c>—<td c>1,<td c>—<td r>21 f. o.<td>Siacea læs: Siacca
+<td r>640,<td c>2,<td c>—<td r>9 f. o.<td>Triente læs: Trieste
+<td r>799,<td c>2,<td c>—<td r>27 f. n.<td>Fra Bygden læs: Fro Bygdaan
+<td r>895,<td c>2,<td>Linie<td r>12 f. o.<td>J. læs: J. J.
+<td r>903,<td c>2,<td c>—<td 2>19—22 er ombyttede. Tekstens Følgerække skal være Linie 21, 22, 19, 20.
+</table>
+
+<table>
+<td 5 c><sp>BIND XIII</sp>.
+<td>Side<td>Sp.
+<td r>128,<td c>1,<td>Linie<td r>24 f. o.<td><sp>Magni</sp> læs: <sp>Magnus</sp>
+<td r>285,<td c>1,<td c>—<td r>34 f. n.<td>1873 læs: 1877
+<td c>—<td c>1,<td c>—<td r>33 f. n.<td>1910 læs: 1895
+<td r>312,<td c>2,<td c>—<td r>11 f. o.<td>Appleby læs: Allenby
+<td r>413,<td c>1,<td c>—<td r>21 f. n.<td>Efter 1886 tilføjes: Efter Faderens Død (1812) kom han i Huset hos sin Svoger, Kancelliraad<br>M. Delbanco i Kbhvn.
+<td c>—<td c>2,<td>Linie<td r>13 f. o.<td>Helweg læs: Helveg
+<td c>-<td c>2,<td c>—<td r>6 f. n.<td>J. læs: T.
+<td r>435,<td c>1,<td c>—<td r>31 f. n.<td>SV. læs: SØ.
+<td r>577,<td c>2,<td c>—<td r>30 f. o.<td v2>}Portrætterne af Karl IX og Karl XI<br>skal ombyttes
+<td r>580,<td c>2,<td c>—<td r>25 f. o.
+<td r>584,<td c>2,<td c>—<td r>26 f. o.<td>1909 læs: 1709
+<td r>593,<td c>2,<td c>—<td r>9 f. o.<td>1745 læs: 1746
+<td r>730,<td c>1,<td>Linie<td r>32 f. o.<td>tilføjes: Efter den tyske
+Revolution 1918 gennemgik K. det<br>tyske Udenrigsministeriums Dokumenter angaaende Krigens Udbrud 1914;<br> paa Basis heraf tildeler han i »Wie der Krieg entstand« Tyskland en stor<br>Del af Ansvaret for Krigens Udbrud. I de sidste Aar har K. vendt sig<br>skarpt mod de bolschevistiske Teorier (bl. a. »Kommunisme und Terrorisme«,<br>»Demokratie und Diktatur«).
+<td r>735,<td c>2,<td>Linie<td r>16 f. o.<td><i>Epithlamium</i> læs: <i>Epithalamion</i>
+<td c>—<td c>2,<td>Linie<td r>16 f. o.<td><i>Faire</i> læs: <i>Faerie</i>
+<td r>736,<td c>2,<td c>—<td r>14 f. n.<td>Brooks læs: Brooke
+<td r>755,<td c>2,<td c>—<td r>7 f. o.<td>Yesler læs: Yester
+<td r>775,<td c>2,<td c>—<td r>17 f. o.<td><i>af</i> læs: <i>of</i>
+<td r>812,<td c>1,<td c>—<td r>11 f. n.<td>tilføjes: død 1916
+<td r>816,<td c>1,<td c>—<td r>19 f. n.<td>Garmann læs: Garman
+<td c>—<td c>2,<td>Linie<td r>30 f. o.<td>Ine læs: Sne
+<td c>—<td c>2,<td c>—<td r>30 f. n.<td>Garmann læs: Garman
+<td r>817,<td c>2,<td c>—<td r>30 f. n.<td>Fra 1911 er K. Prof. ved den tekn. Højskole i Trondhjem,<br>læs: 1912—18 var K. Prof. i Bygningskunst ved Norges tekn. Højskole<br>i Trondhjem: senere bosat i Kria.
+1919 paabegyndte han Udgivelsen af<br>en Serie »Norske hus og hjem. Bygningskunst og bohave«.
+<td r>829,<td c>1,<td>Linie<td r>30 f. n.<td>3. læs: 9.
+<td r>840,<td c>1,<td c>—<td r>29 f. o.<td>Eispennil læs: Eirspennil
+<td c>—<td c>1,<td>Linie<td r>30 f. o.<td>sögûr læs: sögur
+<td c>—<td c>1,<td c>—<td r>30 f. o.<td>Jönsson læs: Jónsson
+<td c>—<td c>1,<td c>—<td r>30 f. o.<td>Skalholts læs: Skálholts
+<td c>—<td c>1,<td c>—<td r>31 f. o.<td>vec. læs: etc.
+<td c>—<td c>1,<td c>—<td r>32 f. o.<td>taga læs: saga
+<td c>—<td c>1,<td c>—<td r>34 f. o.<td>diste læs: diska
+<td c>—<td c>1,<td c>—<td r>34 f. o.<td>8″ læs: 8<sup>II</sup>
+<td r>890,<td c>2,<td c>—<td r>3 f. n.<td><b>Kince,</b> se <sp>Lystfiskeri</sp> udgaar
+<td r>893,<td c>1,<td>Linie<td r>3 f. n.<td>XXXI læs: XXXV
+<td r>910,<td c>1,<td c>—<td r>35 f. n.<td>Gashell's læs: Gaskell's
+<td c>—<td c>2,<td c>—<td r>4 f. o.<td><sp>Cazamia</sp> læs: <sp>Cazamian</sp>
+<td c>—<td c>2,<td>Linie<td r>6 f. o.<td><sp>Mancott</sp> læs: <sp>Marriott</sp>
+<td r>918,<td c>1,<td>Linie<td r>33 f. o.<td><i>Butle</i> læs: <i>Beetle</i>
+<td c>—<td c>1,<td c>—<td r>11 f. n.<td><i>Naulakka</i> læs: <i>Naulahka</i>
+<td c>—<td c>2,<td c>—<td r>24 f. o.<td><i>Hetoparesa</i> læs: <i>Hetopadesa</i>
+<td c>—<td c>2,<td>Linie<td r>33 f. n.<td><sp>Gram</sp> læs: <sp>Grad</sp>
+<td c>—<td c>2,<td c>—<td r>33 f. n.<td><i>Poar</i> læs: <i>Road</i>
+<td r>919,<td c>1,<td c>—<td r>12 f. o.<td><i>Envay</i> læs: <i>Envoy</i>
+<td c>—<td c>1,<td c>—<td r>29 f. o.<td><sp>Monkshoar</sp> læs: <sp>Monkshood</sp>
+<td c>—<td c>1,<td>Linie<td r>33 f. o.<td><i>Hereties</i> læs: <i>Heretics</i>
+</table>
+
+<table>
+<td 5 c><sp>BIND XIV</sp>.
+<td>Side<td>Sp.
+<td r>17,<td c>2,<td>Linie<td r>29 f. o.<td><sp>Celsius</sp> læs: Celsus
+<td r>20,<td c>2,<td c>—<td r>11 f. o.<td>Keserjö læs: Kesergö
+<td c>—<td c>2,<td c>—<td r>34 f. o.<td>Magyarországlan læs: Magyarországban
+<td r>26,<td c>1,<td>Linie<td r>25 f. o.<td>Curzon læs: Minto
+<td r>33,<td 4>1. nederst: Rentryksdatoen skal være 15/9 1922
+<td r>65,<td c>2,<td>Linie<td r>12 f. n.<td>1362 læs: 1368
+<td r>69,<td c>1,<td c>—<td r>11 f. n.<td>Epidemisk Hospital læs: Epidemihospital
+<td r>71,<td c>1,<td>Linie<td r>34 f. o.<td>191 læs: 1914
+<td r>72,<td c>2,<td c>—<td r>26 f. o.<td>nedenst. læs: omstaaende
+<td r>75,<td c>2,<td>Linie<td r>2 f. n.<td>Hvidovre læs: Hvidøre
+<td c>—<td c>2,<td c>—<td r>1 f. n.<td>Mellefortet læs: Mellemfortet
+<td r>131,<td c>1,<td>Linie<td r>18 f. n.<td>Fig. 2 læs: Fig. 3
+<td r>131,<td c>1,<td>Linie<td r>17 f. n.<td>Fig. 3 læs: Fig. 2
+<td r>204,<td c>2,<td>Linie<td r>16 f. o.<td><sp>Knoldforraadnelse</sp> og <sp>Hvidbakteriose</sp> læs:<br><sp>Rodknoldbakterien</sp>
+<td r>226,<td c>1,<td>Linie<td r>19 f. o.<td>Sætningen »men denne
+Udg. lader meget tilbage at ønske«<br>refererer sig til »Fornmannasögur«,
+ikke til C. af Petersen's og E. Olson's<br>mønstergyldige Udg.
+<td r>254,<td c>2,<td>Linie<td r>17 f. n.<td>2. Septbr læs: 24. Aug.
+<td r>268,<td c>2,<td c>—<td r>10 f. n.<td><i>coquinaeria</i> læs: <i>coquinaria</i>
+<td r>312,<td c>2,<td c>—<td r>32 f. o.<td>Til Litteraturfortegnelsen tilføjes; <sp>G. Sticher</sp>, »Die<br>Cholera« (Abhandlungen aus der Seuchengeschichte und Seuchenlehre II) [Gieszen 1912].
+<td r>358,<td c>1,<td>Linie<td r>2 f. o.<td>kg (se Bestuvning). Efter 1867 læs; kg. Ved Lov om Skibes<br>Maaling af 1867
+</table>

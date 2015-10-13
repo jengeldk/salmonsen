@@ -1,0 +1,144 @@
+som Forbrugere ved Opladningen. Den e. K.'s
+Opstaaen i Elementerne er forklaret af <sp>Nernst</sp>
+i god Overensstemmelse med Erfaringen, se
+<sp>Akkumulatorer</sp> og <sp>galvaniske
+Elementer</sp>. I sidstn. Art. omtales ogsaa de
+saakaldte Koncentrationskæder, hvor
+Opblanding af Vædsker er det elektromotorisk
+virksomme, saa at den e. K. egl. ikke kan siges at
+fremkomme ved Omsætning med kem. Energi.
+Om den e. K. ved Elektrolyse se
+<sp>elektrolytisk Polarisation</sp>.
+
+3) I de teknisk langt vigtigste Tilfælde
+af Frembringelse af e. K. og Udnyttelse
+af elektrisk Energi, nemlig i Dynamoen og
+Motoren, baade for Jævn- og Vekselstrøm,
+frembringes den e. K. (respektive i Motoren
+den modelektromotoriske Kraft) ved
+<sp>Induktion</sp>. I de nævnte Tilfælde og i det hele, naar
+Induktionen opstaar ved Bevægelse enten af
+en Leder i et magnetisk Felt ell. omvendt, faas
+den ved Induktionen frembragte elektriske
+Energi paa Bekostning af mek. Energi, nemlig af
+det Arbejde, som det efter Lenz' Lov (se
+<sp>Induktion</sp>) koster at flytte Lederen, resp.
+Magnetfeltet. Anderledes forholder det sig i de
+Tilfælde, hvor Induktionen frembringes ikke ved
+Bevægelse af en Leder ell. et Magnetfelt, men
+ved Variation af Magnetfeltet (i Reglen ved
+Variation af den elektriske Strøm, hvorfra
+Magnetfeltet hidrører). Saadanne Tilfælde har man
+ogsaa i tekn. vigtige Apparater, saaledes i
+Vekselstrømstransformatoren, Induktoren
+(»Ruhmkorfferen«) og i de Systemer til traadløs
+Telegrafi, hvor der anvendes »koblede
+Svingningskredse«. I disse Tilfælde finder der en
+Omsætning Sted mellem Æterenergi (straalende
+Energi) og elektrisk Energi. I f. Eks.
+Vekselstrømstransformatorens primære Side omdannes
+elektrisk Energi til Æterenergi, i den sekundære
+Side omdannes Æterenergien til elektr. Energi,
+saaledes at Primærsiden er Forbruger og
+Sekundærsiden Generator. - Mekanismen ved
+Induktionen er omtalt under <sp>Elektronteori</sp>;
+se i øvrigt <sp>Induktion</sp>.
+
+Andre Tilfælde af e. K. paa Bekostning af
+mek. Energi har man i Gnidnings- og
+Fordelings (Influens-) -elektrisermaskinerne.
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Elektron">
+<b>Elektron</b> (pl. <sp>Elektroner</sp>). Talrige
+overbevisende Forsøg inden for forskellige
+Omraader af Fysikken har i den nyere Tid tvunget
+Fysikerne til at antage som en fælles
+Bestanddel af alle Atomer visse elektrisk ladede,
+udelelige Elementarpartikler, E. Alt tyder paa, at
+der kun eksisterer negativt ladede E.; deres
+Ladning har en ganske bestemt Størrelse, det
+elektriske Elementarkvantum, saa at de er en
+Slags negative Elektricitetsatomer. De har
+ogsaa alle samme Masse og er i det hele alle
+identiske; de udgør en af Grundbestanddelene af
+den materielle Verden. Den positive Elektricitet
+synes derimod ikke at være opbygget af
+identiske Bestanddele, om end den ogsaa har en
+atomistisk Bygning (se ndf.).
+
+E. kan frigøres, løsrives fra deres Forbindelse
+med Atomer paa mange Maader, og for
+saadanne fri E. kan man da bestemme deres
+karakteristiske Egenskaber, Hastigheden <i>v</i> og den
+specifikke Ladning <i>e/m</i>, Forholdet mellem deres
+Ladning og Masse. Saaledes fremkommer der
+fri E. ved elektriske Udladninger i luftfortyndet
+Rum, idet <sp>Katodestraalerne</sp>, der
+opstaar, naar Lufttrykket i Udladningsrøret har
+en passende Størrelse, bestaar af fri E.
+Undersøgelsen af Katodestraalerne, der især skyldes
+<sp>Crookes</sp>, <sp>Lenard</sp> og <sp>J. J. Thomson</sp>,
+leverede de første Beviser for Eksistensen af
+fri E. Katodestraalerne udsendes fra
+Udladningsrørets negative Pol (Katoden), idet E. slaas
+løse fra dennes Atomer af de positive Ioner,
+som deltager i Elektricitetstransporten under
+Udladningen gennem Røret og derved slynges
+mod Katoden. Efter at E. er slaaede løse, faar
+de stor Hastighed ved elektrisk Frastødning fra
+Katoden, idet de gennemløber det betydelige
+Spændingsfald i Rummet umiddelbart ved denne
+(Katodefaldet). En Række kendte Rør
+demonstrerer Katodestraalernes (det vil altsaa sige
+hurtige E.'s) vigtigste Egenskaber. Da de faar
+Glasvæggen til at lyse (fluorescere), naar de
+træffer den, kan man følge deres Vej og vise,
+at de bevæger sig retlinet, idet en Skygge giver
+i Røret kaster skarpe Skygger, naar Katoden er
+lille. Da de udgaar vinkelret fra Katodens
+Overflade, kan de koncentreres, og derved kan man
+vise, at de, naar de absorberes, frembringer
+Opvarmning, idet deres kinetiske Energi
+omdannes til Varme. Det er ogsaa direkte vist,
+at de medfører negativ Elektricitet. <sp>Lenard</sp>
+viste, at man kunde faa dem ud i Luften
+gennem et Hul i Røret overklæbet med et ganske
+tyndt Aluminiumfolie (Lenard's Vindue). I
+Luften gaar de ikke retlinet, men spredes stærkt
+ved Sammenstød med de talrige Luftmolekyler
+og bremses saa hurtigt, at de kun naar faa cm
+bort fra Vinduet. De udøver stærke kemiske
+Virkninger, sværter fot. Papir, frembringer Ozon
+o. s. v. Tillige ioniserer de Luften stærkt, idet
+de ved Sammenstød med Luftmolekylerne
+spalter disse i ladede Dele, Ioner (se <sp>elektrisk
+Strøm i Luftarter</sp>). Spaltningen foregaar
+ved, at en ell. fl. af Atomernes E. løsrives ved
+Sammenstødet. Dette gælder nu alle
+tilstrækkelig voldsomme Sammenstød mellem E. og
+Atomer, saaledes at naar hurtige E. træffer
+Materie, giver de Anledning til Udsendelse af
+langsomme E. (sekundære Katodestraaler) fra det
+trufne Stof. Tillige udsendes derved
+<sp>Røntgenstraaler</sp>, og det af to Arter, nemlig dels en
+»Bremsestraaling«, en uregelmæssig,
+elektromagnetisk Impuls, hidrørende fra E.'s Standsning,
+dels en for Stoffet <sp>karakteristisk
+Røntgenstraaling</sp>, der skyldes, at ved
+Sammenstødet sættes inde i Atomet visse E. med
+tilstrækkelig hurtig Egensvingningstid i
+Svingninger. Hertil kræves dog, at den stødende E. har
+en for hvert Stof karakteristisk, med
+Atomvægten voksende Mindstehastighed (se
+<sp>Røntgenstraaler</sp>). Alle de nævnte Egenskaber
+har E. naturligvis ogsaa inde i Røret, og det
+samme gælder alle de paa de ndf. omtalte
+Maader tilvejebragte fri E., naar deres Hastighed
+er stor nok.
+
+E.'s karakteristiske Egenskaber bestemmes ved
+inde i Røret at lade dem gennemløbe et
+elektrisk og et magnetisk Felt og maale den
+

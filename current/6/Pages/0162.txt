@@ -1,0 +1,161 @@
+<chapter name="Diffamation">
+<b>Diffamation,</b> se <sp>Ærefornærmelser</sp>.</chapter>
+
+<chapter name=”diffareatio”>
+<b>diffareatio,</b> se <sp>divortium</sp>.</chapter>
+
+<chapter name=”Differdinger-Profiler”>
+<b>Differdinger-Profiler,</b> se
+<sp>Dobbelt-T-Jern</sp>.</chapter>
+
+<chapter name="Difference">
+<b>Difference</b> [-'raissa] (fr.) ell. Differens
+(lat.). Forskel, Meningsforskel.</chapter>
+
+<chapter name=”Differenceforretning”>
+<b>Differenceforretning</b> [-raŋs<sub>ə</sub>-], en
+Leveringsforretning, der ikke afgøres ved virkelig
+Levering af de Varer ell. Effekter, hvorom
+den er afsluttet, men ved Betaling af
+Forskellen mellem den Pris, hvortil Forretningen er
+afsluttet, og den, hvortil Varerne ell.
+Effekterne noteres ved Leveringsterminen. For at en
+Forretning skulde være en D. i strengeste
+Forstand, maatte det egl. udkræves, at det skulde
+være kontraktmæssig fastsat, at den skulde
+afvikles paa den anførte Maade, men dette er
+saa at sige aldrig Tilfældet. D. udføres som
+Regel paa den Maade, at Kontrahenterne
+afslutter en virkelig Leveringskontrakt, og den,
+der ønsker at afvikle den uden virkelig
+Levering, maa saa inden Leveringsfristen »dække
+sig«, d. v. s., hvis han er Køber, maa han
+sælge, og hvis han er Sælger, maa han købe det
+samme Kvantum til Levering, henh. Modtagelse,
+i samme Termin. Om Formerne for disse
+Forretninger, se <sp>Børs</sp>, <sp>Handel</sp> og
+<sp>Terminshandel</sp>. P. Gr. a. den lette Adgang, som D.
+giver til Spekulation over Evne og særlig til
+Indvikling af Personer uden for
+Handelsstanden i Spekulationer i Varer og Papirer, som
+de mangler Kendskab til, har der ofte været
+rejst Spørgsmaal om ad Lovgivningens Vej at
+skride ind mod denne Art af Forretninger ell.
+i alt Fald mod deres Udskejelser. Navnlig har
+det i nogle Lande været betragtet som
+tvivlsomt, hvorvidt der skulde tilkendes de Krav,
+der rejser sig af D., Retsgyldighed, ell. de i
+Lighed med Fordringer iflg. Spil og Væddemaal
+skulde betragtes som ikke inddrivelige ad
+Rettens Vej. I <sp>Frankrig</sp> afviste Domstolene
+tidligere Fordringer i Anledning af D., idet de
+stilledes lige med Væddemaalsfordringer, senere
+er deres Retsgyldighed dog anerkendt. Noget
+anderledes stiller Forholdet sig i <sp>Tyskland</sp>,
+idet fl. Domme har fastslaaet, at Forretningen
+savner Retskraft, selv om Kontrakten gaar ud
+paa virkelig Levering, naar det af Sagens
+øvrige Omstændigheder fremgaar, at saadan
+Levering ikke i Virkeligheden har været tilsigtet.
+Som Kriterier i denne Henseende er der
+navnlig taget Hensyn til Kontrahentens Livsstilling
+og Formuesomstændigheder, idet man er gaaet
+ud fra, at Levering ell. Modtagelse ikke har
+været tilsigtet, naar Køberen ell. Sælgeren iflg.
+sin Livsstilling stod ganske fjernt fra virkelige
+Handelsforetagender, ell. naar han var saa
+uformuende, at Medkontrahenten maatte indse,
+at virkelig Levering ell. Modtagelse af det
+omkontraherede Kvantum var en Umulighed for
+ham. I <sp>England</sp> og <sp>Nordamerika</sp>
+følges nærmest lgn. Regler som i Frankrig. I nogle
+andre Lande (<sp>Østerrig</sp>, <sp>Italien</sp> og
+<sp>Spanien</sp>) er Differencekravenes Retsgyldighed
+ubetinget anerkendt. Ogsaa i <sp>Danmark</sp> og
+<sp>Norge</sp> maa D. anses som ubetinget
+retskraftige, saa meget mere som Væddemaal i Alm.
+antages at have Retskraft, idet Begrebet Spil
+(»Dobbel« i D. L. 5-14-55) ikke betragtes som
+omfattende Væddemaal.
+<i>(E. M.). C. Th.</i></chapter>
+
+<chapter name=”Differens”>
+<b>Differens</b> (mat.), d. s. s. Forskel. To Tals
+D. er det Tal, som lagt til det ene af Tallene
+giver det andet.
+<i>Chr. C.</i></chapter>
+
+<chapter name=”Differensforretning”>
+<b>Differensforretning,</b> d. s. s.
+<sp>Differenceforretning</sp>.</chapter>
+
+<chapter name=”Differensregning”>
+<b>Differensregning</b> er et Afsnit af den rene
+Matematik, der behandler Afhængigheden
+mellem en Funktion og dens Differenser af forsk.
+Orden, d. v. s. Differenserne mellem
+Funktionens Værdier svarende til en Række
+Værdier af den Variable, disse Differensers
+Differenser ell. Differenserne af 2. Orden o. s. v.
+(se <sp>Differensrække</sp>). Naar man i en hel
+rationel Funktion <i>f</i>(<i>x</i>) af <i>n</i>'te Grad indsætter en
+Række ækvidistante Værdier for <i>x</i> og beregner
+Differenserne, viser det sig, at de af <i>n</i>'te
+Orden bliver lige store; man kan da omvendt,
+naar blot man har bestemt een af Værdierne
+for <i>f</i>(<i>x</i>) samt een Differens af hver af de <i>n</i>
+første Ordner, finde først alle Differenserne af
+<i>n</i>-1. Orden, saa dem af <i>n</i>-2. Orden o. s. v.,
+endelig et hvilket som helst Antal af
+Funktionens Værdier svarende til Rækken af
+ækvidistante Værdier for <i>x</i>. Dette bruges med
+Fordel ved den numeriske Løsning af Ligningen
+<i>f</i>(<i>x</i>)0, hvor man bestemmer Værdien af <i>f</i>(x) for
+en Række ækvidistante Værdier af <i>x</i>, samt ved
+Beregning af Tabeller over Funktioner, hvis
+Værdier inden for mindre Intervaller har deres
+Differenser af en vis Orden tilnærmelsesvis lige
+store.
+
+D. lærer at udtrykke en Funktion, hvis
+Værdier for <i>n</i> + 1 givne Værdier af <i>x</i> kendes, ved
+et bekendt helt rationalt Polynomium + et
+Restled, der ligger mellem kendte Grænser; den
+derved fremkomne Newton'ske Formel spiller
+en stor Rolle ved Interpolation (s. d.).
+
+Det her sagte gælder ogsaa for ikke ækvidistante
+Værdier, <i>a</i>, <i>b</i>, <i>c</i>. . . . af <i>x</i>, naar man indfører
+de saakaldte dividerede Differenser, d. v. s.
+<table>
+<td v2>i St f. <i>f</i>(<i>b</i>)-<i>f</i>(<i>a</i>) sætter<td c><i>f</i>(<i>b</i>)-<i>f</i>(<i>a</i>)<td v2>, i St f. 2.
+<td c><i>b</i>-<i>a</i>
+</table>
+<table>
+<td v3>Differens sætter<td c><i>f</i>(<i>c</i>)-<i>f</i>(<i>b</i>)<td v2>-<td c><i>f</i>(<i>b</i>)-<i>f</i>(<i>a</i>)<td v3> o. s. v. - Den
+<td c><i>c</i>-<i>b</i><td c><i>b</i>-<i>a</i>
+<td 2 c><i>c</i>-<i>a</i>
+</table>
+<sp>omvendte D.</sp> gaar ud paa at bestemme en
+Funktion, hvis Differens for en vis Tilvækst
+til <i>x</i> er = en given Funktion af <i>x</i>; man maa
+her støtte sig til sit Kendskab til tidligere
+fundne Differenser af Funktioner. Indsættes i en
+Funktion <i>f</i> (<i>x</i>) for <i>x</i> de hele Tal 0, 1, 2 . . .
+<i>n</i>-1, faas en Række, hvis Sum kan findes som
+en Funktion af <i>n</i>, hvis Differens for Tilvæksten
+1 til <i>n</i> er = <i>f</i> (<i>n</i>); adskillige vigtige Rækker
+summeres paa denne Maade. I den omvendte
+D. behandles ogsaa Opgaven at bestemme en
+Funktion, naar der er givet en Ligning
+(<sp>Differensligning</sp>) mellem den og dens
+Differenser. - D.'s Begyndelsesgrunde er først
+opstillede af Taylor (<i>Methodus incrementorum
+directa et inversa</i> [1715]). Af danske
+Undersøgelser inden for D. maa nævnes Nørlund's
+over Differensligninger.
+<i>Chr. C.</i></chapter>
+
+<chapter name=”Differensrække”>
+<b>Differensrække</b> (mat.), ogsaa kaldet
+aritmetisk Række ell. aritmetisk Progression, er en

@@ -1,0 +1,156 @@
+Konti der bør anlægges, paa hvor mange Konti
+altsaa Virksomhedens Ejendele, Indtægter og
+Udgifter hensigtsmæssigst bør fordeles.
+Afgørelsen heraf vil til Dels bero paa personlig Smag
+og Tilbøjelighed for mere ell. mindre
+detaillerede Noteringer. En hensigtsmæssig
+Kontoinddeling giver Klarhed og godt Overblik, og et
+stort Antal Konti gør ikke B. mere indviklet
+end et mindre Antal.
+
+Man bruger ofte de ikke særlig heldige
+Udtryk <sp>levende</sp> og <sp>døde Konti</sp>. Ved de
+levende Konti, ogsaa kaldet <sp>personlige
+Konti</sp>, forstaas da, hvad der ovf. er betegnet
+som fremmede Konti, Regnskaberne over
+Mellemværendet med alle udenforstaaende; ved de
+døde Konti forstaas de egne Konti, Kassekonto,
+Rentekonto o. s. v. Funktionærernes Konti er
+levende Konti og fremmede Konti, idet
+Funktionærerne gennem dem som udenforstaaende
+træder i Mellemværende-Forhold til
+Virksomheden. Kun ved Kapitalkonto og Privatkonto er
+Sondringen ikke skarp. I en vis Forstand er
+de levende og fremmede Konti, gennem hvilke
+Virksomhedens Ejer ell. Ejere træder i
+Mellemværende-Forhold til Virksomheden som
+laangivende og gagenydende. Er der kun een Ejer,
+der betragter sig som eet med Virksomheden,
+vil det ligge nærmest at opfatte dem som egne
+og døde Konti.
+
+Da enhver Post stedse indføres i Hovedbogen
+samtidig paa Debetsiden af en Konto og paa
+Kreditsiden af en anden Konto, følger heraf, at
+til enhver Tid <sp>er Summen af alle
+Debetposter i Hovedbogen lig
+Summen af alle Kreditposter</sp>. Denne
+Regel benyttes til at føre Kontrol med
+Bogføringens formelle Rigtighed ved Hjælp af den
+saakaldte <sp>Raabalance</sp>. Denne bestaar i en
+Opstilling af samtlige Hovedbogens Konti under
+hinanden, idet Navnene paa alle Konti indføres
+i een Kolonne, dernæst lige ud for dem i en
+anden Kolonne Summen af alle Debetposter og
+i en tredie Summen af alle Kreditposter paa
+hver Konto. Dernæst optælles Debet- og
+Kreditkolonnerne, og hvis der ingen Fejl er begaaet, vil
+de 2 Hovedsummer vise sig at være lige store.
+Kontrollen er tilstrækkelig for alle praktiske
+Forhold, men ikke absolut. 2 lige store Fejl, den
+ene i Debet, den anden i Kredit, vil ikke blive
+opdagede; er en Post indført med det rigtige
+Beløb, men paa en fejl Konto, vil det heller
+ikke opdages. Raabalancen trækkes i Reglen
+ved Udgangen af hver Maaned og tjener ved
+Aarets Slutn. som Basis for Aarsopgørelsen.
+
+Det forudsættes, at X og Y i Forening i Beg.
+af 19 . . etablerede en Kulforretning, og at de
+flg. Forretningsbegivenheder dernæst i Aarets
+Løb finder Sted:
+
+1) X og Y indskyder hver en Kapital af
+10000 Kr.
+
+2) I Landsmandsbanken stiftes et Laan af
+20000 Kr, hvoraf der svares en Rente af 1000 Kr.
+
+3) Der købes og betales kontant en Ejendom
+til Beløb 13000 Kr og diverse Inventar til Beløb
+3000 Kr.
+
+4) Hos Bell Brothers, Newcastle, købes Kul
+til Beløb 20750 Kr 38 Øre, hvorfor der gives
+Accept, som indfries ved Forfaldstid.
+
+5) Hos I. P. Smidt & Co., Kbhvn, købes Kul
+til Beløb 21325 Kr 30 Øre, hvorpaa betales
+20000 Kr.
+
+6) I Fragt, Told, Arbejdspenge etc. paa
+Kullene betales 4174 Kr 32 Øre i alt, som tillige
+med Indkøbsprisen paa de 2 Partier Kul
+debiteres Kulbeholdningskonto. Det købte
+Kvantum Kul udgør i alt 18500 Tdr, som kalkuleres
+(se <sp>Kalkulation</sp>) 2 Kr 50 Øre pr Td.
+
+7) Af Kullene sælges, til H. Chr. Petersen &
+Co. 7500 Tdr à 3 Kr 35 Øre pr Td, ell. i alt for
+25125 Kr, til Brødrene Lundberg 5400 Tdr til
+samme Pris. Desuden modtager X og Y hver
+50 Tdr Kul af Lageret til Privatbrug, som
+beregnes dem med 3 Kr pr Td. Det samlede
+udgaaede Kvantum Kul overføres fra
+Kulbeholdningskonto til Kulsalgskonto til
+Kalkulationsprisen og krediteres Kulsalgskonto til Salgsprisen.
+
+8) X og Y hæver i Aarets Løb kontant til
+privat Forbrug hver 2400 Kr.
+
+9) H. Chr. Petersen & Co. betaler kontant
+19500 Kr. Brødrene Lundberg betaler kontant
+16000 Kr og giver for Restbeløbet — 2090 Kr —
+en Veksel, som endnu ikke er indfriet ved
+Aarets Udgang.
+
+10) Til Kørsel udgives i alt 375 Kr, til diverse
+Omkostninger 568 Kr 43 Øre, og til Kommis
+Aagaard betales i Aarets Løb en Gage af
+1200 Kr.
+
+I Henhold til, hvad der i det foregaaende er
+udviklet vil Raabalancen pr 31. Decbr 19 . .
+komme til at se saaledes ud:
+
+<table>
+<td c 5><sp>Raabalance pr 31. December 19 . .</sp>:
+<td><td>Debet<td><td>Credit
+<td>X's Kapitalkonto<td><td><td r>10000<td c>»<td>
+<td>Y's Kapitalkonto<td><td><td r>10000<td c>»
+<td>Ejendomskonto<td r>13000<td c>»
+<td>Inventariekonto<td r>3000<td c>»
+<td>Kassekonto<td r>75500<td c>»<td r>68868<td c>13
+<td>Acceptkonto<td r>20750<td c>38<td r>20750<td c>38
+<td>Vekselkonto<td r>2090<td c>»
+<td>Administrationskonto<td r>1200<td c>»
+<td>Kulsalgskonto<td r>32500<td c>»<td r>43515<td c>»
+<td>Kulbeholdningskonto<td r>46250<td c>»<td r>32500<td c>»
+<td>Kørselskonto<td r>375<td c>»
+<td>Omkostningskonto<td r>568<td c>43
+<td>H. Chr. Petersen & Co.<td r>25125<td c>»<td r>19500<td c>»
+<td>Brødr. Lundberg<td r>18090<td c>»<td r>18090<td c>»
+<td>Bell Brothers, Newcastle<td r>20750<td c>38<td r>20750<td c>38
+<td>J. P. Smidt & Co.<td r>20000<td c>»<td r>21325<td c>30
+<td>Kommis A. P. Aagaard<td r>1200<td c>»<td r>1200<td c>»
+<td>Den danske Landmandsbank<td r>1000<td c>»<td r>21000<td c>»
+<td>Rentekonto<td r>1000<td c>»
+<td>X's Forbrugskonto<td r>2550<td c>»
+<td>Y's Forbrugskonto<td r>2550<td c>»
+<td><td r>287499<td c>19<td r>287499<td c>19
+</table>
+
+Den giver, som let ses, foruden at yde
+Kontrol med Bogføringens Rigtighed, et godt
+Overblik over Forretningens Gang i det forløbne Aar.
+Af Reglen om Debetsummernes Ligestorhed med
+Kreditsummerne følger umiddelbart den Regel,
+<sp>at Summen af alle Hovedbogens
+Debetsaldoer er lig Summen af
+Kredit saldoerne</sp>. Paa Kassekonto f. Eks.
+i Ovenstaaende Balance fremkommer Saldoen i
+Debet ved at trække Kreditsummen, 68868 Kr
+13 Øre fra paa begge Sider. Og da der
+analogt paa alle andre Konti for at faa Saldoen
+frem maa trækkes lige store Beløb fra paa
+begge Sider, bliver Kolonnernes Hovedsummer

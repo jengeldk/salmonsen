@@ -1,0 +1,129 @@
+2) <sp>Relativitetsprincippet og
+Princippet om Lyshastighedens
+Konstans</sp>. Mekanikkens Love, saaledes som disse
+var blevet formuleret af Newton, er af en
+saadan Beskaffenhed, at hvis de gælder i et
+Koordinatsystem, som hviler i Forhold til en Iagttager
+<i>A</i>, saa har de ogsaa Gyldighed i et
+Koordinatsystem <i>B</i>, som bevæger sig med jævn Hastighed
+i Forhold til <i>A</i>. Et klassisk Eksempel derpaa
+findes i den velkendte Erfaring, at Fald- og
+Kastlovene er nøjagtigt de samme, hvad enten
+Iagttageren udfører sine Faldforsøg paa Jorden
+(Koordinatsystem <i>A</i>) ell. paa et Skib
+(Koordinatsystem <i>B</i>), som sejler med jævn Hastighed.
+Denne Erfaring er, hvad man nutildags gerne
+kalder »Relativitetsprincippet« i den klassiske
+Mekanik; den fastslaar, at ethvert
+Koordinatsystem <i>B</i>, som bevæger sig med jævn
+Hastighed »relativ« til <i>A</i>, er »ligeberettiget« for
+Beskrivelsen af Fænomenernes Forløb; d. v. s.
+gælder Newton's Love i <i>A</i>, saa gælder de
+automatisk ogsaa i <i>B</i>. En fælles Egenskab, hvorved
+det er let at skelne disse Koordinatsystemer fra
+alle andre tænkelige Systemer (f. Eks. drejende
+ell. accelererede Koordinatsystemer), er, at
+Inertiens Lov er gyldig i dem alle, d. v. s. den Lov,
+at et Legeme, som er helt overladt til sig selv,
+enten vil bevæge sig med jævn Hastighed ell.
+ogsaa forblive i Hvile. Gaar vi nu over til at
+betragte de elektriske og magnetiske
+Fænomener, til hvilke iflg. Maxwell's Undersøgelser
+ogsaa Lysfænomenerne maa henregnes, saa
+synes det ved første Øjekast udelukket, at
+Relativitetsprinicppet ogsaa her skulde gælde. Lyset
+f. Eks. maa opfattes som en
+Ligevægtsforstyrrelse, der udbreder sig som Bølger med den
+overordentlig store Hastighed af omtr. 300000
+km pr Sek., men det synes selvfølgeligt, at hvis
+en Iagttager i et Koordinatsystem <i>A</i> finder, at
+Lyset udbreder sig med møjagtig samme
+Hastighed i alle Retninger, kan dette ikke længere
+gælde i et Koordinatsystem <i>B</i>, som bevæger sig
+jævnt relativt til <i>A</i>. <i>A</i> indtager altsaa en
+Særstilling, nemlig som det Koordinatsystem, i
+Forhold til hvilket det hypotetiske Medium, i
+hvilket Lyset forplanter sig, den saakaldte
+»Verdensæter«, er i Hvile. Det var netop denne
+Æter, som man ogsaa havde lagt til Grund ved
+Beskrivelsen af de elektriske og magnetiske
+Fænomener overhovedet. Lovene for disse
+Fænomener maatte blive enklest for en
+Iagttager <i>A</i>, der hviler i Forhold til Æteren. For
+enhver bevæget Iagttager <i>B</i> maa Forholdene
+blive mere indviklede p. Gr. a. den »Ætervind«,
+som stryger forbi ham. Man kunde nu befrygte,
+at der inden i Æteren ogsaa kunde optræde
+Strømninger af forsk. Art, men Erfaringen
+vedrørende optiske Fænomener, først og fremmest
+Lysets Aberration, førte nødvendigvis til den
+beroligende Slutn.: de forsk. Dele af
+Verdensæteren, denne »Bærer« af alle elektriske og
+magnetiske Fænomener, er i fuldkommen Hvile
+i Forhold til hinanden (<sp>Fresnel</sp>'s og
+<sp>Lorentz</sp>' Hypotese om den »faste« Æter).
+
+Man vilde nu vente, at et og samme optiske
+Forsøg udført en Gang af en Iagttager, der
+hviler i Æteren, og en anden Gang af en Iagttager,
+der bevæger sig i Forhold til den første, ikke
+vilde give samme Resultat. Vi vil tænke os et
+Forsøg, hvor man lader en Lysstraale udgaa
+fra den ene Ende <i>P</i> af en lang Stang til den
+anden Ende <i>Q</i>, hvor et Spejl reflekterer den
+tilbage til <i>P</i> (smlg. Fig. 1). Er Stangens Længde
+<i>l</i>, og betegnes Lysets Hastighed med <i>c</i>, vil Tiden,
+der gaar mellem Lysets Udsendelse fra og
+Tilbagekomst til <i>P</i>, være lig med <i>l/c</i> + <i>l/c</i> = 2<i>l/c</i>,
+naar Stangen hviler i Æteren, medens samme
+Tidsforskel vil være <i>l/c—v</i> + <i>l/c+v</i> = 2<i>l</i>/c(1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup>),
+hvis Stangen bevæger sig gennem Æteren med
+Hastighed <i>v</i> i Retningen fra <i>P</i> til <i>Q</i>. I sidste
+Tilfælde vil nemlig Lysets Hastighed relativ til
+Stangen være <i>c—v</i> paa Vej fra <i>P</i> til <i>Q</i>, og <i>c+v</i>
+paa Vej fra <i>Q</i> til <i>P</i>. Bevæger Stangen sig
+gennem Æteren med en Hastighed <i>v</i> i en Retning
+vinkelret paa <i>P Q</i>, saa giver Beregningen, at
+den nævnte Tidsforskel vilde være lig med
+2<i>l</i>/<i>c</i>√1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup>. Paa Grund af Forskellen mellem de
+to sidste Udtryk vilde en Iagttager paa Jorden
+altsaa principielt være i Stand til gennem et
+Eksperiment af den, antydede Art at fastslaa,
+med hvilken Hastighed og i hvilken Retning
+han bevæger sig gennem Æteren; han behøver
+dertil kun at maale den omtalte Tidsforskel for
+forsk. Retninger af Stangen i Forhold til
+Jordens Overflade. <sp>Michelson</sp>'s ovenn. Forsøg
+(1881) er nu i Virkeligheden en praktisk
+Udførelse af Tanken i det her skitserede Forsøg.
+Gennem Iagttagelsen af et Interferensfænomen
+i hans Apparat, som var mere kompliceret end
+det her betragtede, var han i Stand til at
+undersøge, om den omtalte Tidsforskel ændrede sig,
+naar Stangens Retning blev ændret. Selv om en
+saadan Ændring maatte ventes at være
+overordentlig lille (<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup> er en overordentlig ringe
+Størrelse, naar vi for <i>v</i> f. Eks. indsætter Jordens
+Hastighed omkr. Solen), saa vilde den dog have
+været maalelig. Resultatet var imidlertid
+fuldkommen negativt, d. v. s. i intet af Forsøgene
+var det Michelson muligt at konstatere nogen
+Ændring, og ud fra Teorien maatte han altsaa
+slutte, at hans Apparat stod stille i Forhold til
+Æteren, et Resultat som stod i Modstrid med
+Hypotesen om den faste Æter. Ogsaa andre
+Forsøg, der delvis var af optisk, delvis af
+direkte elektrisk Natur, og der ligeledes havde
+Formaalet at eftervise »Ætervindens«
+Indflydelse paa Fænomenerne her paa Jorden, gav
+det negative Resultat, at den ventede
+Indflydelse ikke var til Stede. Det er denne
+Vanskelighed, der gav Anledning til R.
+
+Einstein stillede sig nu 1905 paa flg.
+Standpunkt. Erfaringen synes at gaa ud paa, at ikke
+alene Lovene for de rent mekaniske Fænomener
+er saaledes beskafne, at hvis de gælder i <i>A</i>,
+saa gælder de ogsaa i ethvert Koordinatsystem
+
+<img>Fig. 1.</img>

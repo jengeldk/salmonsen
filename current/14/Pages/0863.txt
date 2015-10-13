@@ -1,0 +1,142 @@
+Rimeligvis er det dette Spil — Mailspillet paa
+Is — der saa ofte fremstilles paa holl.
+Landskabsbilleder fra 17. og 18. Aarh., og som man
+her tidligere har ment var Bandyspil. Nu
+eksisterer Mailspillet ikke mere. Men foruden
+de Situationer af Spillet, der kendes fra de
+nævnte holl. Billeder, findes Spillets Navn
+endnu i Gadenavne i mangfoldige tyske, holl., eng.
+og fr. Byer, idet Alléerne, efterhaanden som
+Byerne voksede, blev inddraget og omdannet
+til Gader. En saadan Palle-Mallestrasse findes
+i Hamburg ell. Altona. (<sp>Litt</sp>.: <sp>Gutsmuths</sp>,
+»Spiele«, 8. Opl. [Hof 1893]; <sp>J. Werfel</sp>,
+»Nyeste Samling af gymnastiske Lege« [Kbhvn 1801]).
+<i>Fr. K.</i>
+</chapter>
+
+<chapter name="Kuglesprøjte">
+<b>Kuglesprøjte,</b> d. s. s. <sp>Mitrailleuse</sp>.
+</chapter>
+
+<chapter name="Kugletang">
+<b>Kugletang</b> har man fra gl Tid benævnt en
+langagtig, noget smækker Tang, hvis Bid var
+let udhulede, og som var beregnet paa at gribe
+og fremtrække Kugler af Skudsaar. Senere har
+man gjort Formen helt om i den amer. K.,
+hvor Biddet dannes af to retvinklet bøjede,
+korte spidse Kroge, der er vel egnede til at
+gribe og fastholde et Blyprojektil uden selv at
+tage megen Plads op. I øvrigt vil en Del
+forskellige Former af Tænger kunne faa
+Anvendelse ved Udtrækning af Kugler.
+<i>V. Sch.</i>
+</chapter>
+
+<chapter name="Kugletrykprøver">
+<b>Kugletrykprøver</b> er de mest brugte
+Haardhedsprøver for Metaller. De udføres med en
+hærdet Staalkugle (se Fig.) med <i>D</i> = 10 ell.
+5 mm, der trykkes ned i Materialet med saa
+stor Kraft, at Flydegrænsen overskrides, og
+der opstaar en blivende Fordybning. Divideres
+<i>P</i> med Indtryk cirklens Areal <i>f</i> = 1/4 π <i>d</i><sup>2</sup>,
+finder man Middelværdien σ af den
+Trykspænding, der har fremkaldt Flydningen. Varieres
+<i>P</i>, vil <i>f</i> vokse langsommere end <i>P</i>, saaledes
+at σ ikke holder sig konstant, men vokser med
+<i>P</i>, altsaa med Indtrykkets Dybde <i>h</i>; Flydningen
+forøger nemlig Materialets Haardhed, og jo
+dybere Kuglen presses ind, des større
+Modstand møder den. For at faa sammenlignelige
+Resultater, bør man derfor holde ikke blot <i>D</i>,
+men ogsaa <i>h</i> konstant, saa at Indtrykkene
+bliver geometrisk ens, og bruge <i>P</i> som Maal for
+Haardheden.
+
+<sp>Brinell</sp>, der har indført K., gaar den for
+Udførelsen langt nemmere Vej at holde <i>D</i> og
+<i>P</i> konstante, saa at <i>h</i> vokser med Blødheden.
+De blødere Materialer bliver derved prøvede i
+en mere deformeret ɔ: haardere Tilstand end
+de haardere, og for at forringe den Fejl, der
+derved opstaar, dividerer han ikke med <i>f</i>, men
+med Kuglekalottens Areal <i>f<sub>k</sub></i> = π · <i>D</i> · <i>h</i>, der
+vokser hurtigere med <i>P</i> end <i>f</i>, og den saaledes
+bestemte Spænding, der udtrykkes i kg/mm<sup>2</sup>,
+bruger han som Haardhedstal: <i>H</i> = <i>P</i> : <i>f<sub>k</sub></i>.
+Brinell anvender en Kugle med <i>D</i> = 10 mm,
+og Kraften, hvormed der trykkes, er 3005 kg
+for Jern, 500 kg for blødere Metaller; dens
+Størrelse kan angives ved en Indeks (<i>H</i><sub>3000</sub>).
+Til Jernbaneskinner bruges gerne større Tryk
+(50 t) og større Kugler (19 mm), der røber
+Hulrum i større Dybder. Hvorledes
+Haardhedstallet vokser med Kulholdigheden ifølge
+Brinell's Undersøgelser, viser den nederste
+Kurve i Fig., der gælder for udglødet Staal. Den
+øverste Kurve angiver Haardheden af det
+samme Staal i hærdet Tilstand, medens den
+punkterede Kurve viser Haardhedstilvæksten ved
+Hærdningen ɔ: Hærdeligheden, der ses at være
+størst ved 0,8 % C. Haardhedstallet vokser med
+faldende Temp. og kan i flydende Lufts Temp.
+være dobbelt saa stort som i Stue varme.
+Haardhedstallets Forhold til Trækstyrken er omtrent
+ens for alle undersøgte Metaller, der indsnører
+sig, før end de brydes, derimod ikke for skøre
+Metaller, som Støbejern. For de første kan
+man tilnærmelsesvis sætte Trækstyrken lig 35
+<i>H</i>. Navnlig for Jern med under 1/2 % C. er
+Overensstemmelsen saa god, at man undertiden
+vil kunne spare Trækprøven og nøjes med den
+nemme Kugleprøve, der ikke kræver nogen
+væsentlig Bearbejdelse af Prøvestykket. Helt
+kan Kugleprøven aldrig erstatte Trækprøven,
+da den ikke giver Oplysning om
+Brudforlængelsen samt om Blærer o. a. Fejl.
+
+Er Kuglediameteren givet, vil
+Indtryksdybden <i>h</i> vokse langsommere end <i>P</i>, men for smaa
+Værdier af <i>h</i> har man dog meget nær <i>h</i> =
+<i>c · P</i>, hvor <i>c</i> er en af Materialet afhængig
+Konstant. Fremfor at arbejde med konstant <i>P</i> er
+det derfor rationellere at arbejde med et
+konstant lille <i>h</i>. Som Haardhedstal kan man da
+bruge den Værdi af <i>P</i> (<i>P</i> 0,05), der kræves til
+at trykke en Kugle med 5 mm Diameter 0,05
+mm ned i Stoffet. <sp>Martens</sp> har konstrueret
+et Apparat, med hvilket <i>P</i> 0,05 let bestemmes.
+
+<sp>Træs Haardhed</sp> bedømmer Østerrigeren
+Yanka med en Staalkugle, hvis Diametralsnit
+er 1 cm<sup>2</sup>. Den presses saa dybt ind i Træet,
+at Indtrykket bliver halvkugleformet, og den
+hertil fornødne Kraft bruges som
+Haardhedstal. Dette viser sig i Alm. proportionalt med
+Vægtfylden og Trykstyrken, men som Bevis
+paa, at Prøven har en selvstændig Værdi,
+anfører han flg. Eksempel: Naaletræer, der
+vokser op under et eensidigt Vindtryk, danner
+brede Ringe paa Læsiden og smalle paa
+Vindsiden, og Træhuggerne kalder den bredringede
+Side for den haarde og den smalringede
+Side for den bløde; medens Trykforsøg viser,
+at den smalringede Side er stærkest, giver K.
+Værdier, der er i Overensstemmelse med
+Træhuggernes Erfaringer.
+<i>E. Su.</i>
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+</chapter>
+
+<chapter name="Kugletrækker">
+<b>Kugletrækker,</b> ved Forladegeværet et
+proptrækkerformet Redskab, som kunde fæstes til
+en Ladestok og brugtes til at trække Kuglen og
+Forladningen ud af Geværet.
+<i>(E. P.). C. Q.</i>
+</chapter>

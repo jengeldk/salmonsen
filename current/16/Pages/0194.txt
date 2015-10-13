@@ -1,0 +1,140 @@
+et Spektrum, der falder paa en Skærm med
+bevægelig Spalte, som kan indstilles saaledes,
+at Lys af en bestemt Bølgebredde falder paa
+<i>A</i>. Vi foretager nu flg. Forsøg:
+
+<sp>Forsøg</sp> 1. <i>B</i> er jordafledet, <i>A</i> tillige med
+Elektrometeret afledes ved Forsøgets Beg. og
+isoleres derefter. Naar <i>A</i> dernæst belyses,
+stiger dens Spænding, først hurtigt, senere
+langsomt, og naar tilsidst en konstant positiv Værdi
+<i>V</i>0, der aflæses paa Elektrometeret Af <i>V</i>0 kan
+Elektronernes maksimale Udtrædelseshastighed
+<i>V</i>0 beregnes. <i>V</i>0 tilbageholder nemlig selv de
+hastigste Elektroner, idet Spændingen i modsat
+Fald vilde stige yderligere. Disse har ved
+Udtrædelsen Bevægelsesenergien 1/2 m <i>v</i>0<sup>2</sup> — hvor
+<i>m</i> (= 8 · 10<sup>—28</sup> g) er Elektronens Masse —
+som de ved at gennemløbe Spændingsfaldet
+<i>V</i>0 Volt helt omsætter til den potentielle
+Energi 1/300 <i>V</i>0 · <i>e</i>, hvor <i>e</i> (= 4,77 · 10<sup>—10</sup> absolutte
+elektrostatiske Enheder) er Elektronens
+Ladning. Følgelig er 1/300 <i>V</i>o · e = <i>m</i>· <i>v</i>0<sup>2</sup>. Indsættes
+Værdierne for <i>m</i> og <i>e</i>, faas <i>v</i>0. = 0,595 · 10<sup>8</sup> √<i>V</i>0
+cm/sek. I Reglen foretages Omdrejningen
+til cm/sek. ikke, men Hastigheden betegnes
+ved Hjælp af »Bremsespændingencc <i>V</i>0. Som
+Eksempel skal nævnes, at 2 Volts Hastighed er
+0,595 · 10<sup>8</sup> √2 cm/sek = c. 0,9 · 10<sup>8</sup> cm/sek.
+
+<sp>Forsøg</sp> 2. Pladen <i>A</i> med Elektrometret
+jordafledes og isoleres, hvorefter den belyses.
+<i>B</i> sættes i Forbindelse med en variabel
+Spænding, der vokser fra 0 mod positive Værdier.
+Flere og flere af de fra <i>A</i> frigjorte Elektroner
+trækkes herved hen til <i>B</i>. Der gaar altsaa en
+positiv Strøm fra <i>B</i> til <i>A</i>, der maales ved
+Elektrometrets Spændingstilvækst pr Sekund.
+Strømmen vokser med Spændingen paa <i>B</i>,
+først hurtigt, senere langsommere, indtil den
+naar en konstant Værdi, uafhængig af <i>B</i>'s
+voksende Spænding. Denne Tilstand indtræder,
+naar Spændingen paa <i>B</i> er stor nok til at
+trække <sp>alle</sp> Elektroner, der frigøres pr Sek., bort
+fra <i>A</i>, og den konstante Strøm,
+»Mætningsstrømmen«, er et Maal for Antallet af disse. Den paa
+<i>A</i> faldende Lysmængde kan bestemmes ved
+Hjælp af et Termoelement, indskudt paa
+Straalernes Vej. Bølgebredden af disse er
+bestemt ved den forskydelige Spaltes Stilling.
+Optager man en Kurve over Strømmen som
+Funktion af <sp>negative</sp> Spændinger paa <i>B</i>,
+kan denne give Besked om
+Hastighedsfordelingen bl. samtlige udtraadte Elektroner. Til en
+saadan Undersøgelse vilde man dog modificere
+Apparatet en Del. Det samme gælder selvsagt
+Undersøgelser, hvor man ønsker Lyset
+vinkelret ind paa Pladen <i>A</i>. Ang. saadanne
+forsøgstekniske Enkeltheder henvises til
+Specialværker over L.
+
+d) <sp>Resultater</sp>. 1) <sp>Antallet af
+Elektroner</sp>. En given Lysmængde, indeholdende
+Bølgebredder, fordelt over hele Spektret,
+udløser et Antal Elektroner pr Sekund, <i>n</i>0, der
+afhænger stærkt af <sp>Stoffet</sp> og dettes
+<sp>Forbehandling</sp>. Bl. Metallerne giver de mest
+elektropositive — Alkalimetallerne — størst <i>n</i>0.
+Forbehandlingens Indflydelse skyldes den
+Virkning, den har, dels paa Mængden af den Luft,
+der danner et Lag <sp>paa</sp> Overfladen p. Gr. a.
+Vedhængning (<sp>ad</sp> sorberet Luft), dels paa
+Mængden af den Luft, der er opløst i Metallets
+Porer (<sp>ab</sp> sorberet Luft). Den adsorberede
+Luft absorberer en Del af de udløste
+Elektroner. Derfor stiger <i>n</i>0, naar denne fjernes ved
+passende Opvarmning og stærk Udpumpning i
+lukket Rum. Den Formindskelse af <i>n</i>0, der
+viser sig, naar en poleret Plade ældes
+(lyselektrisk Træthed) skyldes ofte Ophobning af
+adsorberet Luft, men kan ogsaa have andre
+Aarsager, f. Eks. Iltning af Overfladen. <sp>Ab</sp> sorberet
+Luft, især Brint, Ilt og Kvælstof, synes
+derimod at være en væsentlig Betingelse for
+lyselektrisk Virkning. Thi <i>n</i>0 synker til en
+minimal Værdi, naar denne Luft fjernes ved
+Ophedning til en Temp. i Nærheden af Smeltepunktet
+ell. gentagen Destillation, begge Dele i
+Vakuum, <i>n</i>0 er uafhængig af Temp. inden for vide
+Grænser (— 180° til 800° C.). Stiger Temp. over
+800°, udsender Stoffet p. Gr. a. Varmen
+Elektroner uden Medvirkning af fremmed Lys (se
+<sp>Termioner</sp>). <i>n</i>0 er proportional med den
+<sp>absorberede Lysmængde</sp> og dermed
+i Alm. med den <sp>indfaldende
+Lysmængde</sp>. Denne vigtige Lov gælder inden for vide
+Grænser, nemlig fra 6 · 10<sup>—4</sup> Meterlys (c. 10
+Gange Belysningen fra Sirius) til 30000
+Meterlys (c. 1/3 af klart Solskin). Den største
+Mætningsstrøm giver Alkalimetaller under intensiv
+Belysning. Den største maalte Mætningsstrøm
+er 10<sup>—6</sup> Amp./cm<sup>2</sup>. En Kvægsølvlampe i 25
+cm's Afstand giver med en Zinkplade 1,5 · 10<sup>—8</sup>
+Amp./cm<sup>2</sup> med en Platinplade 0,5 · 10<sup>—8</sup>
+Amp./cm<sup>2</sup>. Den udsendte Elektronenergi er kun en lille
+Brøkdel af den absorberede Lysenergi, nemlig
+f. Eks. for Natrium c. 1/200, for en særlig
+lysfølsom Kaliummodifikation c. 1/60. For samme
+Belysning med <sp>monokromatisk Lys</sp>
+vokser Elektrontallet i Alm. med aftagende
+Bølgebredde, <sp>normal lyselektrisk
+Virkning</sp>, men hos Alkalimetaller og de alkaliske
+Jordarter findes ofte en selektiv
+Virkning, hvor Antallet har Maksimum for en
+bestemt Bølgebredde. Maksimets Beliggenhed og
+Styrke afhænger af den absorberede Lufts
+Mængde og Art. F. Eks. giver Kalium med en
+passende Mængde Brint Maksimum ved
+Bølgebredden λ = 4360 Å. E. (Ångström'ske
+Enheder = 10<sup>—7</sup> mm), med Ilt ved λ = 3130
+Å. E. Men naar Luftarterne fjernes, giver det
+normal Virkning. Ved den normale Virkning
+har Lysets Indfaldsvinkel og
+Polarisationstilstand ingen Indflydelse paa Elektrontallet,
+naar dette refereres til den absorberede
+Lysmængde. Ved den selektive Virkning er
+en saadan Indflydelse fundet. For ethvert
+Stof findes en <sp>Grænsebølgebredde</sp>,
+λ<i>m</i>, saaledes, at Lys med Bølgebredde større
+end λ<i>m</i>, ikke giver lyselektrisk Virkning.
+λ<i>m</i> ligger for Alkalimetaller og de alkaliske
+Jordarter i det synlige Omraade, for andre
+Metaller i det ultraviolette. Som Eksempler paa
+λ<i>m</i> skal følgende nævnes: For Natrium er
+λ<i>m</i> = c. 6800 Å. E., for Lithium c. 5000 Å. E.,
+for Platin c. 2900 Å. E., Rubidium viser
+lyselektrisk Virkning ved Belysning med en
+rødglødende Glasstang.
+
+2) <sp>Elektronernes
+Udtrædelseshastighed</sp> har for et bestemt Stof, belyst af

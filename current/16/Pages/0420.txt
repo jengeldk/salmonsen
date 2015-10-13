@@ -1,0 +1,139 @@
+Forbindelse med et ballistisk Galvanometer.
+Sendes en elektr. Strøm gennem <i>S</i><sub>1</sub>, vil
+Galvanometret gøre et Udslag, og heraf kan
+Induktionen <i>B</i> beregnes; er denne først bekendt,
+findes Permeabiliteten af <i>μ</i> = <i>B/H</i>.
+
+<sp>M.'s Teori</sp>. Ved Hjælp af den simple
+Antagelse af at de enkelte Molekyler ell.
+Molekylgrupper i Jernet er Smaamagneter med
+konstant Magnetiseringsintensitet, kan Mætningen
+let forstaas; naar nemlig den magnetiserende
+Kraft har rettet alle Smaamagneterne saaledes,
+at de alle vender Nordpolerne i Feltets Retning,
+kan Jernet ikke blive stærkere magnetisk, selv
+om Feltet gøres aldrig saa stærkt. For at
+forklare Hysteresefænomenet antog <sp>Maxwell</sp>
+og <sp>Weber</sp> (1848), at der var en vis Modstand
+mod, at Smaamagneterne saaledes indstillede
+sig i Kraftens Retning, uden dog nærmere at
+gøre Rede for, hvorfra denne Modstand kunde
+hidrøre. Det var derfor først <sp>I. A. Ewing</sp>,
+hvem det lykkedes (1890) at give en virkelig
+Forklaring paa Hysteresen, idet han
+konsekvent gennemførte den Betragtning, at
+Modstanden mod Smaamagneternes Drejning
+hidrører fra, at de enkelte Smaamagneter
+paavirker hverandre magnetisk: ingen af dem kan
+dreje sig ud af sin Stilling uden at alle de
+omliggende vil søge at modarbejde denne
+Drejning. Ewing optog en Hysteresekurve for en
+»Magnetmodel«, bestaaende af smaa
+Kompasnaale, og den fundne Kurve havde i
+Hovedtrækkene samme Form som den i Fig. 3 viste.
+Ewing's Teori er senere bleven matematisk
+behandlet af <sp>R. Gans</sp> (1910) og <sp>K. Honda</sp>
+(1916), og navnlig denne sidste er naaet vidt,
+idet han i Hovedtrækkene kunde forklare
+Temperaturafhængigheden ved at tage Hensyn til
+de Svingninger, som Molekylerne iflg. den
+kinetiske Teori maa udføre om deres
+Ligevægtsstillinger p. Gr. a. deres Temp.
+
+Med alt dette er imidlertid selve Oprindelsen
+til Smaamagneterne ikke forklaret, idet Ewing
+og med ham Honda jo gik ud fra Eksistensen
+heraf. Kort efter at <sp>Ørsted</sp> havde opdaget
+Vekselvirkningen mellem en elektrisk Strøm og
+en Magnet, tænkte <sp>Ampère</sp> sig, at M.
+simplest kunde forklares ved at antage, at der i de
+enkelte Molekyler løb elektriske Strømme, de
+saakaldte Molekylarstrømme, saaledes at hvert
+enkelt Molekyle udadtil maatte optræde som
+en lille Magnet: løb Strømmen den ene Vej
+rundt, vilde Molekylet tiltrække en Nordpol,
+løb Strømmen den anden Vej ell. blev
+Molekylet vendt, vilde det frastøde Nordpolen. Der
+var dog herved den Vanskelighed, at man ellers
+ikke kender Strømme, der løber ustandseligt
+uden Adgang til nogen Spændingskilde.
+
+Elektronteorien ser Oprindelsen til
+Smaamagneternes M. i de Elektroner, der antages at
+kredse rundt om Atomernes positive Kerne og
+som derfor maa have samme Virkning udadtil
+som Ampère's Molekylarstrømme. Denne
+Anvendelse af Elektronteorien er navnlig
+udarbejdet af <sp>Langevin</sp> (1905), der ved at anvende
+de fra den kinetiske Teori kendte Love for
+Molekylernes Bevægelse kunde forklare
+Temperaturafhængigheden for de paramagnetiske
+Luftarters M. Hans Resultater er senere
+anvendt paa Opløsninger og yderligere udvidet
+af <sp>P. Weiss</sp> (»Magnetonteorien« 1911).
+Langevin tilskriver — næppe helt med Rette —
+Diamagnetismen Forandringer i Atomernes Indre,
+hvoraf dens Uafhængighed af Temperaturen
+nødvendigt følger. — Efter den klassiske
+Elektrodynamik maa en kredsende Elektron stadig
+udstraale Energi; overført paa magnetiske
+Forhold maa dette betyde, at en permanent
+Magnet efterhaanden maa miste sin M., idet
+Elektronerne efterhaanden vil falde ind mod
+Atomkernen. En saadan gradvis Aftagen af M. har
+man imidlertid aldrig iagttaget, og ved <sp>N.
+Bohr</sp>'s Teori for Atomets Bygning (se
+<sp>Spektralanalyse</sp>) er denne Vanskelighed da
+ogsaa udelukket. At M. skyldes kredsende
+Elektroner kan nu næppe betvivles. Da
+Elektronerne foruden deres elektriske Ladning ogsaa
+har en omend kun yderst lille Masse, maa de,
+idet de kredser hurtigt rundt i Atomet, besidde
+de for en Snurre karakteristiske Egenskaber.
+Hvis en fritbevægelig Snurre kan rotere om to
+Akser, vil den automatisk søge at indstille sig
+saaledes, at de to Akser bliver parallelle, og at
+Omløbsretningen bliver den samme om begge
+Akser (jfr <sp>Gyroskop</sp>); analogt hermed vil
+Elektronbanerne i en cylindrisk Jernstang, som
+drejes hurtigt rundt om sin Akse, søge at
+indstille sig saaledes, at deres Rotationsakser
+bliver parallelle med Cylinderaksen; de vil
+derved blive mere ordnede end før, og Jernet vil
+vise sig magnetisk. Denne Virkning blev
+paavist af <sp>Barnett</sp> (1915) og allerede før havde
+<sp>Einstein</sp> og <sp>de Haas</sp> (1915) vist, at en
+Jernstang, der magnetiseres, vil komme til at
+rotere, hvilket ogsaa forstaas ved Anvendelse
+af Gyroskopbetragtninger paa
+Elektronbevægelsen. Omend det derfor maa anses for sikkert,
+at M. skyldes kredsende Elektroner, og at den
+dybtgaaende Forskel paa de forsk. Legemers
+magnetiske Egenskaber skyldes Forskelle i
+Atombygningen, saaledes som det i de sidste
+Aar navnlig er fremhævet af <sp>Bohr</sp> og
+<sp>Kossel</sp>, saa har man dog langt fra nogen
+fyldestgørende Teori for M. Det maa i den
+Henseende fremhæves, at ingen af de opstillede
+Teorier kan forklare, hvorfor saa forholdsvis
+meget smaa Tilsætninger af fremmede Stoffer,
+f. Eks. Silicium, kan forandre Jernets
+magnetiske Egenskaber saa stærkt, som Tilfældet er.
+Man hælder her nærmest til den Anskuelse, at
+Urenheder af enhver Art i Jern forøger
+Koercitivkraften og formindsker
+Mætningsintensiteten; Siliciums heldige Virkning beror da paa, at
+den forbinder sig med allerede tilstedeværende
+Urenheder, saaledes at disse gør mindre Skade
+end før. En virkelig Sammenarbejden af
+Elektronteorien med Honda's Betragtninger er
+heller ikke foretaget.
+
+<sp>Jordmagnetismen</sp>. At der omkr.
+Jorden findes et magnetisk Felt, ses deraf, at en
+Magnetnaal, der kan dreje sig frit om sit
+Tyngdepunkt, vil stille sig i en bestemt
+Retning paa hvert Sted af Jorden, ligesom en
+Magnetnaal i Nærheden af en Magnet. Jern
+magnetiseres ogsaa i det jordmagnetiske Felt;
+man viser let ved Hjælp af en Magnetnaal, at

@@ -1,0 +1,114 @@
+nogenlunde konstant Størrelse af c. 30 mm
+Vandsøjle. En Brænders Nyttevirkning er
+nemlig størst ved et bestemt Gasforbrug. Har man
+f. Eks. et Gasglødenet, og der ledes for lidt
+Gas til det, saa bliver kun en Del af Nettet
+glødende; strømmer der for megen Gas til, saa
+brænder selve Flammen (der ved Glødenettene
+skal ophede disse, men ikke just selv lyse) op
+over Nættet, og Varmen fra denne øverste Del
+af Flammen gaar derfor til Spilde.
+
+Den Mængde Gas, der strømmer ud af
+Brænderen, er (foruden af Brænderaabningens
+Størrelse) afhængig af Trykket i Gasledningen lige
+før Brænderen. Hvis Brænderen har sin egen
+Hane, kan man, ved at lukke denne mere ell.
+mindre op, regulere Gastilførslen til
+Brænderen, men dels er det besværligt saaledes at
+indstille hver enkelt Hane, dels savner de
+Paagældende ofte den rette Forstaaelse af
+Sagen. I Reglen nøjes man derfor med at ordne
+Forholdene saaledes, at Hanerne skal lukkes
+helt op, og man anbringer i St f. Regulatorer,
+der sørger for ensartet Tryk i Gasledningen;
+disse kan saa enten være »Blusregulatorer«, der
+anbringes for hvert enkelt Blus, ell.
+»Hovedregulatorer«, der anbringes paa selve
+Stikledningen til Ejendommen ell. Komplekset, i Reglen
+nede i Kælderen lige efter Hovedhanen.
+
+Det nemmeste vilde være. om Gasværkerne
+selv altid kunde levere de forsk. Forbrugere
+Gassen med samme Tryk ved de forsk.
+Forbrugssteder, men dette lader sig iflg. Sagens
+Natur slet ikke gøre. Ganske vist findes der
+(som omtalt) paa Gasværkerne store
+Hovedregulatorer, gennem hvilke Gassen faar et
+ensartet Tryk, idet den strømmer fra Gasværket
+ud i Hovedledningerne, men i selve
+Byledningsnettet gaar Trykforholdene i Vildrede igen.
+Dette har mange Aarsager. Dels kan man ikke
+vente, at Gasforbruget paa de forsk.
+Forbrugssteder altid vil foregaa paa samme Maade, idet
+nogle Kvarterer er f. Eks. Forretningskvarterer,
+andre mere Beboelseskvarterer, dels er
+Gasforbruget i høj Grad afhængig af Tiden paa
+Aaret og Tiden paa Dagen ell. Aftenen. Endelig
+kan Terrainforholdene spille meget stor Rolle,
+hvilket ganske vist ikke gør sig overvættes
+gældende i et saa fladt Land som Danmark. For
+hver 10 m et Forbrugssted ligger højere end et
+andet, vil Trykket nemlig, p. Gr. a. at Gassen
+er lettere end Luften, stige med c. 6 mm. Hvad
+dette betyder, kan man lettest forestille sig,
+naar man tænker paa et alm. Kbhvn's
+Beboelseshus med Kælder til 5. Sal. Regnes dette f.
+Eks. at være 18 m højt, saa vil der hos Folk
+paa 5. Sal alene af den Grund være c. 11 mm
+mere Gastryk end nede i Kælderen. I Byer,
+hvor der er høje Bakker, spiller det (f. Eks. i
+Sydtyskland, Schweiz o. s. v.) en meget stor
+Rolle. Det ses altsaa, at der er mange
+Aarsager, der kan foranledige, at man ikke fra
+Gasværket kan garantere, at Gassen netop altid
+naar Forbrugsstederne med samme Tryk.
+Derfor maa man, hvor det behøves, anvende enten
+en Hovedregulator ell. Blusregulatorer. De
+Trykforandringer, der p. Gr. a. Tænding ell.
+Slukning af større ell. mindre Grupper af Blus
+opstaar i selve Husledningsnettet, kan
+selvfølgelig ikke ophæves af en Hovedregulator, da
+denne jo anbringes helt ude ved Hovedhanen. Naar
+man imidlertid ofte foretrækker at anvende en
+Hovedregulator i St f. mange enkelte
+Blusregulatorer, saa ligger det i, at Tryktabene i
+Husledningerne i Reglen kun er smaa (3—4 mm),
+naar disse er lagte af rigelige Dimensioner, og
+i, at man ved Hjælp af Hovedregulatoren i
+hvert Fald har udelukket de langt større
+Svingninger, der kan forekomme i Trykket før
+Hovedhanen. For begge Systemer gælder som
+nødvendig Betingelse, at der er Gastryk nok. Ved
+et Tryk af mindre end c. 20 mm kan en
+Blusregulator ikke virke.
+
+Som Eksempel paa en Hovedregulator kan
+nævnes den af <sp>Giroud</sp> konstruerede, se Fig.
+11. Den er indrettet paa flg. Maade: En
+cylindrisk Klokke <i>A</i> af Metalblik svømmer i et
+Bassin af Støbejern ell. Blik, til Dels fyldt med
+Vand, idet den er forsynet med en Luftkasse
+<i>B</i>, tilstrækkelig stor til at kunne bære den. Den
+styres ved en hul Stang <i>C</i>, der gaar gennem
+et Rør <i>D</i>, som er fastskruet i Bassinets Bund
+og naar op over Vandets Overflade. Den
+nederste Ende af denne Stang bærer et Stykke
+under Bassinets Bund Keglen til en Ventil <i>E</i>, der
+forbinder de to Dele af Bassinets
+cylinderformede Forlængelse, som er delt ved en
+Skillevæg <i>F</i>, hvori Ventilen sidder. Tilgangen af Gas
+findes i det øverste af disse Rum lige under
+Karrets Bund, Afgangen i det nederste, saaledes
+at al Gas maa passere Ventilens ringformede
+Aabning. Tænkes Regulatoren i Ro, saaledes at
+den ringformige Aabning ved det
+forhaandenværende Tryk netop kan lade passere den til
+Forbruget svarende Mængde Gas, vil
+Regulatoren beholde sin Stilling. Forøges Trykket, vil
+der tilføres Apparatet mere Gas, end der
+forbruges; den overskydende Gas gaar op i
+Klokken, denne hæver sig, og Ventilaabningen
+formindskes, hvorved Trykket, bag denne atter
+
+<img>Fig. 11. Girouds Gasregulator.</img>

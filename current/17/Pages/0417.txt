@@ -1,0 +1,136 @@
+modsat virkende Elektromagnetvindinger i
+Modtagerapparatet. Denne Metode
+(Differentialmetoden) fik dog først praktisk Bet. efter en
+i 1854 samtidig af Frischen og Siemens &
+Halske i Berlin angivet Forbedring, hvorved
+Kompensationsstrømmen dannedes som en af
+selve Sendebatteriet afgivet Delestrøm, der
+sluttedes gennem en som Traadrulle dannet
+»kunstig Ledning«, hvis Modstand saa nær som
+muligt svarede til den virkelige Lednings.
+Stearns i Boston 1868 og Muirhead 1874 har
+yderligere forbedret Metoden og muliggjort dens
+Anvendelighed paa længere Ledninger ved
+Indretning af den kunstige Ledning paa en saadan
+Maade, at baade Modstand og Kapacitet i den
+virkelige Ledning var taget i Betragtning. Det
+sidste er i Særdeleshed nødvendigt, naar det
+drejer sig om Dupleksekspedition paa lange
+undersøiske Telegrafkabler. Stearns'
+Forbedring medførte tillige, at en anden allerede
+af Maron 1863 angivet Metode til
+Duplekstelegrafering fik praktisk Bet. Efter denne
+(Brometoden) behøver Modtagerapparaterne ikke at
+være differentialt beviklede, idet de indskydes
+i en saakaldt Wheatstone's (s. d.)
+Broopstilling, hvori Sendestrøm og Kompensationsstrøm
+danner saadanne elektriske Forhold, at
+Egenmodtageren forbliver strømløs under
+Sendingen. Begge Metoder, og særlig den sidstnævnte,
+benyttes i udstrakt Grad i vore Dage paa alle
+vigtigere Telegrafforbindelser. — Det første
+Forslag til <sp>Diplekstelegrafi</sp>
+(<sp>Dobbelttelegrafi</sp>) er ligeledes angivet af
+Gintl (1855) og senere af Stark, Kramer o. a.
+Den af Edison 1874 indførte Metode løser
+imidlertid Problemet paa bedste Maade og bestaar
+i, at man for de to Kredsløb anvender to forsk.
+ved alm. Simplekstelegrafi ellers enkeltvis
+benyttede Telegraferingsmetoder, nemlig
+Dobbeltstrøms- og Arbejdsstrømsmetoden i
+tillempet Form. De to til Ledningen hørende
+Modtagerapparater er da indrettet saaledes, at det
+ene kun reagerer for Forandringer i
+Strømretningen (polariseret Modtager), medens det
+andet (upolariseret) kun virker ved Forandringer
+af Strømstyrken, uafhængig af dennes Retning
+(se <sp>Telegrafapparater</sp>). Dipleks alene
+anvendes sjældent, men derimod oftere i
+Forbindelse med Dupleks, hvilken Kombination
+benævnes Kvadrupleks og altsaa bestaar i
+Etablering af 4 Kredsløb paa samme Ledning,
+nemlig to i hver Retning. Den første praktisk
+anvendelige Metode hertil er angivet af Edison
+oig Prescott 1874 og udførtes som en dobbelt
+Dupleks-Broopstilling, hvori det ene Sæt
+Apparater var polariserede, det andet upolariserede.
+Yderligere Kombinationer er ikke utænkelige,
+men praktisk uigennemførlige, saa længe
+Jævnstrøm alene anvendes. Vekselstrøm alene ell. i
+Forbindelse med Jævnstrøm frembyder derimod
+større Muligheder for at adskille fl. samtidige
+Strømmie, og en stor Mængde Metoder til M.
+efter dette Princip er fremkommet omkr.
+Slutningen af forrige Aarh. og indtil den
+allerseneste Tid. Disse Metoder beror paa, at
+Modtagerapparaterne for Vekselstrøm indrettes til
+kun at reagere for Strømme med ganske
+bestemt Vekseltal (Frekvens), medens de
+forbliver upaavirkede af andre Strømme. Denne
+saakaldte Resonans opnaas ad to forsk. Veje.
+De oprindelig fremkomne Forslag benytter mek.
+Midler hertil, idet udspændte Strenge,
+Membraner e. l. sættes i Svingninger af Strømmen,
+hvorved hørlige Signaler frembringes. 1870 har
+Varley i London saaledes paa en til sædvanlig
+Morseekspedition benyttet Ledning etableret
+et ell. fl. Vekselstrømskredsløb, frembragt af
+særlige Induktorer med svingende Metaltunger.
+Et lgn. Princip anvendte Stephen Field til sin
+6-foldige Telegraf, der indrettedes ved i et
+sædvanligt Kvadruplekskredsløb af forannævnte
+Art at indføre et tredie Sæt Apparater, der
+arbejdede med vibrerende Strømme. Senere
+bar Edison, Longdon-Davies o. a. forbedret
+Systemet; den sidste har ved særlige
+Modtagerrelæer omsat de hørlige Telegraftegn i synlig
+Morseskrift paa en Papirstrimmel. Paa
+Grundlag af en af Danskeren la Cour 1875 angivet
+Metode, hvor Vekselstrømmene frembragtes af
+svingende Stemmegafler, fremkom Gray i
+Chicago 1876 med et System, der udelukkende
+arbejdede med saadanne »harmoniske«
+Strømme af forsk. Frekvenser. Det samme gælder
+den fr. Ingeniør Mercadier's 1889 indførte
+Metode, hvor indtil 12 Kredsløb af denne Art
+etableredes paa samme Ledning. Som
+Modtagerapparater fungerede her særlige afstemte
+Høretelefoner (Monotelefoner), der dog ogsaa kunde
+indrettes som Relæer, hvorigennem lokale
+Strømløb sluttedes til Skriveapparater. 1892
+blev Udviklingen bragt ind paa ny Spor, idet
+den forannævnte »mekaniske Resonans« blev
+erstattet med en tilsvarende ad ren elektrisk
+Vej opnaaet. Ved dette af Amerikaneren Pupin
+angivne Princip adskilles de forsk.
+Vekselstrømskredsløb ved elektrisk Resonans i
+saakaldte Svingningskredse, dannede af
+Selvinduktionsspoler og Kondensatorer. Den videre
+Udformning heraf har medført, at man
+efterhaanden er gaaet over til Anvendelse af
+Vekselstrømme med højere Frekvenser, idet
+man i den allernyeste Tid benytter Generatorer
+og Apparater af lgn. Art, som anvendes ved
+den traadløse Telegrafi (s. d.). — <i>B</i>) Den
+anden Hovedgruppe: vekselvis M. tager Sigte paa
+at forbedre Ledningens Økonomi dels ved at
+udnytte de Pauser, der naturligt opstaar under
+Telegraferingen p. Gr. a. Opholdene mellem de
+enkelte Telegraftegn, og dels ved at afbryde
+og atter fortsætte disse i saa hurtig
+Rækkefølge, at Modtagerapparaterne ikke forstyrres
+heraf. I begge Tilfælde staar Ledningen i hvert
+Tidsinterval til udelukkende Raadighed for et
+enkelt Kredsløb, og de Tidsrum, hvori
+Ledningen afgives til andre Kredsløb, foregaar da
+henh. enten i Takt med Afsendelsen af hvert
+enkelt Tegn ell. med saa hurtig Veksling, at de
+korresponderende Ekspedienter overhovedet
+ikke mærker Afbrydelsen. Denne Fordeling af
+Ledningen udføres mekanisk ved Hjælp af en
+Kontaktarm, der paa begge Stationer bevæger
+sig hen over en Rk. Kontakter, hvorigennem
+den afgørende Forbindelse mellem de parvis til
+indbyrdes Korrespondance bestemte Apparater
+dannes. Kontaktarmenes Bevægelse maa som
+Følge heraf foregaa absolut ens (synkront) paa

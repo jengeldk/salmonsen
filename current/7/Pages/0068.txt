@@ -1,0 +1,148 @@
+at Strømmen fra det er rettet mod den Strøm,
+der driver Elektrolysen, og altsaa svækker
+denne. At dette er rigtigt, kan ses, dersom
+Elektrolysestrømmen afbrydes, og Elektroderne
+forbindes f. Eks. med et Voltmeter; derved faar
+man maalt det opstaaede Elements
+elektromotoriske Kraft, Polarisationsspændingen <i>e</i>.
+Strømstyrken, medens Elektrolysen fandt Sted, var
+<table>
+<td v2>derfor kun <i>i</i> =<td><i>E</i>-<i>e</i><td v2>. Heraf <i>E</i>=<i>e</i>+<i>ir</i>; ved
+<td c><i>r</i>
+</table>
+Multiplikation med <i>i</i> faas <i>Ei</i>=<i>ei</i>+<i>i<sup>2</sup>r</i>. Her
+er <i>Ei</i> den af Strømkilden afgivne Energi; <i>i<sup>2</sup>r</i>
+er den Del, der omsættes til Varme i den
+samlede Ledning; Resten <i>ei</i>, der skyldes den e. P.,
+er brugt til Sønderdelingen.
+
+Det opstaaede Ilt-Brint-Element kan bevare
+sin elektromotoriske Kraft i længere Tid, dog
+vil Ilten og Brinten, som vel for største Delen
+optages, okkluderes, i Platinet, langsomt
+diffundere ud i Elektrolyten ell. videre ind i
+Elektroderne, saa at Elementet viser en vis ringe,
+spontan Depolarisation. Derimod vil Elementet
+meget hurtigt tabe sig, dersom man lader det
+give Strøm, da denne jo i Vædsken gaar i
+modsat Retning af Elektrolysestrømmen, saa at
+der udvikles Brint ved Iltpladen og omvendt,
+hvorved der gendannes Vand begge Steder, og
+Pladerne igen bliver ens.
+
+Vilde man forsøge at foretage Elektrolysen
+med en elektromotorisk Kraft <i>E</i>, der var
+mindre end Polarisationsspændingen <i>e</i>, vilde
+Strømstyrken blive Nul, idet Polarisationsspændingen
+da ogsaa kun vilde blive <i>E</i>. Ved at benytte sig
+heraf faas en rigtigere Maaling af den Værdi
+af Polarisationsspændingen <i>e</i>, som indgaar i det
+ovenstaaende Udtryk for Strømstyrken <i>i</i>; denne
+Værdi af <i>e</i> bør maaske hellere kaldes
+Sønderdelingsspændingen, den mindste Spænding, der
+kræves til den paagældende Elektrolyse; man
+lader ved Maalingen <i>E</i> vokse og iagttager, naar
+<i>i</i> pludselig begynder at vokse. Helt Nul er <i>i</i>
+dog aldrig for for smaa Værdier af <i>E</i>; der
+opstaar en ringe »Reststrøm«, da der p. Gr. a.
+den nævnte spontane Depolarisation stadig maa
+udvikles ganske minimale Ilt- og Brintmængder
+for at holde Modspændingen saa nær op til
+det givne <i>E</i> som muligt. Hvor stor
+Sønderdelingsspændingen <i>e</i> bliver netop i det
+betragtede Eksempel, er vanskeligt at angive. Den
+elektromotoriske Kraft af et Ilt-Brint-Element
+(Knaldluftelementet) kan beregnes til 1,23 Volt,
+men man finder i Reglen kun c. 1,1 Volt,
+maaske fordi der dannes et Platinilte. Men
+Sønderdelingsspændingen bestemt paa den sidstnævnte
+Maade kan med blanke Platinelektroder have
+meget større Værdier, op til 2,7 Volt; se om de
+her Indtrædende indviklede Forhold
+<sp>Overspænding</sp> (smlg. ogsaa Slutn. af
+<sp>Elektrolyse</sp>). Den nærmere Teori for den e. P., der
+ogsaa er Teorien for Elektrolysen, falder nær
+sammen med Teorien for de <sp>galvaniske
+Elementer</sp>.
+
+Ved Elektrolyse, f. Eks. af Kobbersulfat mellem
+Kobberelektroder (eller i Sølvvoltametret
+Sølvnitrat mellem Sølvanode og Platinskaaler
+Sølvlag), hvor Metallet blot flyttes fra Anode til
+Katode, bliver den e. P. Nul; der opstaar jo
+ingen kem. Forskel mellem Elektroderne, som
+kan blive elektromotorisk virksom, men der
+kræves heller ingen Energi til denne Flytning
+af Metallet. Her ser vi dog bort fra en ringe
+Polarisation hidrørende fra de opstaaede
+Koncentrationsforskelle i Elektrolyten (se om
+saadanne <sp>Koncentrationskæder</sp> under
+<sp>galvaniske Elementer</sp>). En saadan
+Elektrode som et Metal i en Opløsning af et
+af dets egne Salte (et Salt, hvor Metallet er
+Kation) kaldes en ikke polariserbar Elektrode
+(m. H. t. Kationen). En ikke polariserbar
+Elektrode af anden Art (m. H. t. Anionen) er f. Eks.
+Sølv, beklædt med Klorsølv og anbragt i en
+Opløsning, hvor Klor er Anion, f. Eks. i Kogsalt.
+Her vil med een Strømretning Klor afsættes paa
+Sølvet og danne mere Klorsølv, med den
+modsatte Strømretning noget af Klorsølvet
+reduceres til Sølv under Udtrædelse af Klorionen i
+Opløsningen. Saadanne ikke polariserbare (ell.
+reversible) Elektroder benyttes i visse af de
+konstante galvaniske Elementer (Daniell's og
+Normalelementerne). I Art. <sp>galvaniske
+Elementer</sp> omtales, hvorledes den e. P. i
+øvrigt undgaas i disse.
+
+Den e. P. har tidligere været anvendt i de
+saakaldte Polarisationsbatterier; nu gøres der en
+overmaade vigtig tekn. Anvendelse af den i
+Akkumulatoren (s. d.). (<sp>Litt</sp>.: se under
+<sp>Elektrolyse</sp>).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Elektromagnet">
+<b>Elektromagnet,</b> en Magnet, sædvanlig af
+blødt Jern, hvis Magnetisme frembringes af en
+elektrisk Strøm, der omkredser Magneten i en
+spiralformet, isoleret Ledningstraad. Denne gøres
+som Regel af Kobber, i nyere Tid undertiden
+af Aluminium. De forsk. Lag isoleres fra
+hverandre og fra Jernkernen ved at omspindes med
+Silke ell. Bomuld, ofte i Forbindelse med Lak
+ell. andre Isolatorer. Skal Magneten bære et
+<sp>Anker</sp> (<i>de paa</i> Fig.), giver man den gerne
+Form som en »Hestesko« ell. snarere som et U.
+Magnetiseringens Styrke bestemmes ved
+Produktet af Vindingernes
+Antal og Strømstyrken,
+altsaa ved Antallet af
+»Ampère-Vindinger«.
+Vindingerne <i>ac</i> bør ligge
+saa tæt ind til Jernet
+<i>b</i> som muligt, baade for
+at deres magnetiserende
+Evne fuldt ud kan
+komme Jernet til gode, og
+for at de kan blive
+saa korte og altsaa gøre
+saa lidt Modstand mod
+Strømmen som muligt.
+Skal Magneten forsynes
+med et stort Antal
+Vindinger, bliver
+Traaden lang og for
+Pladsens Skyld tillige
+nødvendigvis tynd; dens Modstand bliver stor,
+men Jernet kan ogsaa magnetiseres kraftig
+af en temmelig svag Strøm. Saadanne Magneter
+bruges i Telegrafen, ved elektriske
+Ringeapparater o. a. St., hvor Modstanden i de lange
+Ledningstraade, der forbinder Magneten med
+Strømkilden, er stor, saa man er nødt til at
+
+<img>Elektromagnet.</img>
+

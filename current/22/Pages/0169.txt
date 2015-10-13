@@ -1,0 +1,166 @@
+<chapter name="Statik">
+<b>Statik,</b> <sp>Ligevægtslære</sp>, deles i
+<sp>Aërostatik</sp> (s. d.), <sp>Hydrostatik</sp> (s. d.) og
+<sp>faste Legemers S</sp>. Et System af Kræfter,
+der virker paa et fast Legeme, er i Ligevægt,
+naar det hverken kan flytte Legemet i nogen
+Retning ell. dreje det om nogen Akse. Dette vil
+være Tilfældet, naar Summen af Kræfternes
+Projektioner paa enhver Linie er Nul, og naar
+tillige deres Momentsum m. H. t. enhver Linie
+er Nul. (En Krafts Moment m. H. t. en ret
+Linie faar man ved at projicere Kraften paa
+Liniens Normalplan og derpaa multiplicere denne
+Projektion med sin Afstand fra Linien). Det er
+tilstrækkeligt, at man undersøger
+Kraftprojektioner og Momenter m. H. t. tre Linier, hvoraf
+ikke to er parallelle; sædvanlig vælger man tre
+paa hinanden vinkelrette Linier. Som oftest vil
+en Opgave i S. forme sig saaledes: Man ved, at
+et Legeme (f. Eks. en Jernbanebro) er i
+Ligevægt, og man kender nogle af de Kræfter, der
+paavirker det (Brodelenes og Togets Vægt).
+Man skal da opstille Ligevægtsligningerne og
+deraf finde de ukendte Kræfter (Spændingerne
+i Broens forsk. Stykker). Naar det givne System
+som her bestaar af mange indbyrdes forbundne
+Stykker, hvis Spændinger alle skal findes, bliver
+Beregningen gerne overmaade sammensat. Man
+løser da ofte Opgaven lettere ved Hjælp af en
+nøjagtig Konstruktion paa Tegnebordet af
+Kræfterne, idet disse kan afbildes som rette Linier
+med bestemt Størrelse og Retning. Reglerne for
+denne Fremgangsmaade læres i den <sp>grafiske
+S.</sp> (s. d.). Om den fundne Ligevægts <sp>Art</sp> se
+under <sp>Ligevægt</sp>. Systemets <sp>Stabilitet</sp>
+er desto større, jo mere man kan ændre de
+givne Kræfter, uden at Ligevægten forstyrres (uden
+at Broen gaar itu). Om Historie og Litt. se
+<sp>Mekanik</sp>.
+<i>(K. S. K.) A. W. M.</i>
+</chapter>
+
+<chapter name="Station">
+<b>Station,</b> Sted, hvor man hviler, gør Holdt
+(af lat. <i>stare</i>, staa). Se <sp>Jernbanestation</sp>.
+</chapter>
+
+<chapter name="Station">
+<b>Station</b> kaldes i katolske Lande de ved Kors,
+Billeder ell. Kapeller mærkede Steder, ved
+hvilke Pilegrimme og andre andægtige standser for
+at forrette deres Andagt paa deres Vej op til et
+saakaldet Kalvariebjerg, en Efterligning af
+Golgatha med Frelserens og de to Røveres Kors. I
+Reglen skulde der være 14 S. i
+Overensstemmelse med Legenden om, at Jesus paa sin
+Smertensvej (<i>via dolorosa</i>) med Korset fra
+Pilatus' Hus til Golgatha maatte standse 14 Gange.
+Ofte er der kun 7 S., men man standser saavel
+ved Opgangen som paa Tilbagevejen, altsaa i
+det hele 14 Gange. Paa besøgte Valfartssteder
+er S. prydet med evigt brændende Lamper,
+ligesom de altid udstyres rigeligt med friske
+Blomster, brændende Lys o. s. v. Indretninger
+af saadanne S. skyldes især Franciskanerne. —
+S. kaldtes i Oldkirken visse gudstjenstlige
+Sammenkomster med Faste, Nattevaagen og
+liturgisk Gudstjeneste.
+<i>(V. S.). L. M.</i>
+</chapter>
+
+<chapter name="stationere">
+<b>stationere,</b> forlægge til en Plads; <sp>stationær</sp>
+(lat.), stillestaaende, hævdende sit Standpunkt.
+</chapter>
+
+<chapter name="stationær">
+<b>stationær</b> ell. <sp>stillestaaende</sp> siges en
+Planet at være, naar Retningen af dens
+tilsyneladende Bevægelse paa Himmelkuglen, set fra
+Jorden, gaar over i den stik modsatte ɔ: fra
+direkte til retrograd ell. omvendt. Se
+<sp>Planeter</sp>.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="statiske Forsøg">
+<b>statiske Forsøg</b> er Styrkeforsøg, ved hvilke
+Kraften paaføres mer ell. mindre langsomt i
+Modsætning til <sp>Slagforsøg</sp> (s. d.). Ved s. F.
+findes som Hovedregel mindre Styrke og større
+Bruddeformation end ved Slagforsøg.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Statist">
+<b>Statist</b> (lat.), stum Person i et Skuespil, en
+Figur, der vel er tavs, men som dog skal følge
+med i Handlingen, saaledes at S. bidrager til
+Helhedsvirkningen. Ved Komparser (<i>Comparse</i>;
+ital.) forstaas alle de S., som anvendes i et
+Skuespil; deraf Betegnelsen Komparseriet.
+<i>R. N.</i>
+</chapter>
+
+<chapter name="Statistik">
+<b>Statistik.</b> Ordet S. stammer fra det
+italienske <i>stato</i>, der foruden Stand ell. Tilstand
+ogsaa betyder Stat, hvorefter <i>statista</i> kommer til
+at betegne en Mand, der beskæftiger sig med
+Statsanliggender, og S. de Kendsgerninger, der
+har Interesse for en saadan. Der er i Tidens
+Løb blevet fremsat mange Definitioner paa
+Begrebet S., som atter er forladte, men det maa
+anses for givet, at et Talmateriale altid maa
+danne Grundlaget for statistiske Undersøgelser,
+og disse maa saaledes altid have talmæssig
+Karakter. Medens den videre Udvikling af
+Læren om rene Tal og deres Behandling
+(Matematikken) ikke faar noget at gøre med
+Berettigelsen af den Abstraktion, uden hvilken
+den ved enhver praktisk Anvendelse af Tal
+nødvendige <sp>Enhed</sp> ikke kan fastslaas, bliver det
+i udpræget Grad S.'s Opgave nærmere at
+undersøge Meningen i og Gyldigheden af denne
+Abstraktion. For saa vidt er der Tale om S. fra
+det Øjeblik, Sproget første Gang benytter en
+talmæssig Angivelse.
+
+Talmæssige Udtryksmaader og Angivelser har
+naturligvis, længe inden der blev Tale om en
+egl. statistisk Videnskab, haft deres
+selvstændige Værdi og Interesse. S.'s Historie viser
+imidlertid, at det varede paafaldende længe,
+inden den talmæssige Udtryksmaade fandt
+frugtbar Anvendelse ved Sammenligninger i
+større Stil, altsaa inden man opdagede
+Nytten af at <sp>gentage</sp> Iagttagelserne, enten fra
+Tid til Tid, ell. fra Sted til Sted, ell. fra
+Eksemplar til Eksemplar af givne Objekter
+(Individer), ell. endog at gentage Iagttagelsen af det
+samme Eksemplar (Maaleteknik). Delvis
+hænger Tidspunktet for Opdagelsen af
+Gentagelsens særlige Ejendommelighed sammen med
+Tidspunktet for Udbredelsen til større Kredse
+af den Anskuelse, som nu er eneherskende, at
+vor eneste Kilde til Viden om den os omgivende
+Verden er Iagttagelse i det hele taget
+(gentagen ell. ikke gentagen).
+
+Naar Iagttagelser gentages under den ene
+ell. den anden Form, opdager man i Alm., ell.
+dog ofte, en vis Regelmæssighed. Vejer man
+det samme Legeme eller maaler en Luftmasses
+Tryk gentagne Gange, saavel som naar man
+opgør det aarlige Antal Fødsler ell. Dødsfald i
+en Befolkning o. s. v., viser denne
+Regelmæssighed sig under Former, bag hvilke man aner
+noget fast og blivende. Fænomenet er saa alm.,
+at de fleste opfatter det som en Selvfølge, og
+dog er denne Regelmæssighed navnlig i
+Samfundets Ytringer paa sin Vis mærkelig og af
+den største Betydning.
+
+Med denne Regelmæssighed som
+Udgangspunkt kan man begrunde en <sp>Videnskab</sp>

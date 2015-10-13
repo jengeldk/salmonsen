@@ -1,0 +1,141 @@
+der alle er polariserede, nogle med
+Svingningerne i Kraftliniernes Retning, andre vinkelret
+derpaa og alle liggende symmetrisk om Liniens
+opr. Plads. De første Linier i Brintspektret gav
+saaledes henh. c. 22, 25 og 28 ny Linier, hvis
+Afstande fra Midtlinien alle voksede
+proportionalt med Feltstyrken; for 74000 Volt/cm var
+Afstanden mellem de yderste ny Linier for den 3.
+Brintlinie Hγ 33 Ångström'ske Enheder
+(Natriumliniernes Afstand er 6 Å. E.). Iagttages i
+Kraftliniernes Retning, ses, som man maa vente,
+kun de af de omtalte Linier, hvis Svingninger
+er vinkelrette paa Kraftliniernes Retning, og de
+er her upolariserede. Senere undersøgtes
+Heliumspektret, i hvilket fl. Linier, nemlig
+Linierne i de to diffuse ell. uskarpe Serier (se
+<sp>Spektralanalyse</sp>), ogsaa opspaltedes i et
+stort Antal nye, der dog ikke var symmetrisk
+ordnede. Opspaltningerne var noget mindre end
+for Brintlinierne, og Linierne i de andre Serier
+viste kun en meget ringe Virkning. Noget lgn.
+gælder Lithiumspektret, og af de talrige andre
+undersøgte Stoffer viste kun Kviksølv en svag
+Virkning. Fænomenet adskiller sig altsaa stærkt
+fra den tilsvarende Virkning af et magnetisk
+Felt (se <sp>Zeeman-Effekten</sp>), hvor
+Virkningen er meget mindre i de stærkeste
+Magnetfelter, man kan arbejde med, end
+Stark-Effekten er for Brintlinierne, men hvor til Gengæld
+alle Stoffernes Linier viser en Spaltning af
+nogenlunde samme Størrelsesorden og frembyder
+mere overskuelige Forhold. Stark-Effekten giver
+sandsynligvis Bidrag til Forstaaelsen af, hvorfor
+visse Spektrallinier er mere uskarpe end andre,
+idet det netop viser sig, at de uskarpe Linier
+giver størst Stark-Effekt: Uskarpheden kan da
+hidrøre fra, at Atomerne under Lysets
+Udsendelse befinder sig i molekylære elektriske Felter,
+hidrørende fra Nabomolekylerne. - En
+teoretisk Forklaring af Stark-Effekten synes i 1916
+at være vundet ud fra <sp>N. Bohr</sp>'s Opfattelse
+af Atomets Bygning. Bohr forklarede allerede
+1914 ud derfra visse Forhold ved Brintliniernes
+Opspaltning og forudsagde, før Eksperimenterne
+forelaa, at Virkningen vilde være ringe for de
+andre Stoffer undtagen Helium, Lithium og
+Kviksølv, og senere har Arbejder af
+<sp>Sommerfeld</sp> og hans Elev <sp>Epstein</sp> ved at føje en
+ny Hypotese til Bohr's Grundantagelser givet
+Forklaringen af Brintliniernes Opspaltning i
+nøjeste Overensstemmelse med Forsøgene,
+hvorved Bohr's Atommodel har faaet en særlig
+betydningsfuld Støtte. Paa Forklaringen kan her
+ikke gaas nærmere ind (smlg.
+<sp>Elektronteori</sp>, Slutn.).
+
+Virkningen paa Lysets Forplantning (den
+»<sp>elektrooptiske Kerr-Effekt</sp>«) bestaar
+i, at et gennemsigtigt Stof i et elektrisk Felt
+bliver dobbeltbrydende og forholder sig som en
+enaksig Krystal, hvis Akse ligger i den
+elektriske Krafts Retning. Man kan for at undersøge
+dette f. Eks. anbringe Stoffet mellem to
+Kondensatorplader, der, hvis det er en Vædske, kan
+være nedsænkede i Karret med Vædsken; holdes
+Pladerne opladede til høj Spændingsforskel,
+viser den omtalte Dobbeltbrydning sig, og den
+forsvinder samtidig med Feltet; den er
+nogenlunde stor for Svovlkulstof og meget betydelig
+i Nitrobenzol. For faste Stoffer, f. Eks. Glas,
+vil en Del af Virkningen skyldes mekaniske
+Spændinger (Tryk), der fremkaldes i Stoffet af
+det elektriske Felt (se <sp>Elektrostriktion</sp>), da
+man kan frembringe Dobbeltbrydning i et Legeme
+ved Tryk; hvorvidt hele Virkningen skyldes
+Trykket, er endnu tvivlsomt. For Vædsker er
+derimod Dobbeltbrydningen en direkte
+Virkning af Feltet. Den er proportional med
+Feltstyrkens Kvadrat. Teoretiske Arbejder ang.
+Kerr-Effekten skyldes især <sp>Voigt</sp> (1901) og
+<sp>Langevin</sp> (1910). Den sidstes Forestillinger
+(at Stoffets Molekyler opfører sig som smaa
+Krystaller og er elektrisk polariserede, saa at
+et elektrisk Felt vil søge at rette dem i en
+bestemt Retning, men at dette modvirkes af den
+uordnede Varmebevægelse) synes at stemme
+bedst med visse af Forsøgene. (<sp>Litt</sp>.: <sp>W.
+Voigt</sp>, »Magneto- und Elektrooptik« [Leipzig
+[1908]; Art. »Elektrooptik« af <sp>W. Voigt</sp> i
+»Handbuch der Elektrizität und des Magnetismus«, Bd
+I [Leipzig 1914]; <sp>Stark</sp>, »Elektrische
+Spektralanalyse chemischer Atome« [Leipzig 1914]).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Elektropatologi">
+<b>Elektropatologi.</b> At det levende
+Protoplasma kan være meget følsomt over for
+Paavirkning af elektriske Strømme, viser Forsøg
+saavel med Planter som med Dyr (særlig
+Protozoer). Ikke blot Aabning og Lukning af
+Strømmen, men ogsaa konstant Strøm virker som
+irritativt Moment, snart inciterende, snart
+lammende. Ved varig Paavirkning indtræder hos
+Protozoerne Henfald af Protoplasmet vekslende
+med Arten af Protozoer enten ved Anoden ell.
+ved Katoden. Ved Indvirkning paa højere Dyr
+og Mennesker maa i første Linie omtales
+Forandringer i de direkte berørte Væv. Ved
+svagere Strømme opstaar undertiden Erythem af
+Huden. Indføres Elektroderne i Vævet, finder
+der i dette en elektrolytisk Spaltning Sted,
+hvorved der ved Sønderdeling af Vand frigøres
+OH-Ioner ved Katoden og H-Ioner ved Anoden.
+Prøvepapir viser derfor alkalisk Reaktion ved
+Katoden, sur ved Anoden. Begge Steder opstaar
+Vævsdød (Nekrose), hvorfor man har brugt og
+til Dels endnu bruger elektrolytisk Paavirkning
+som Metode til Fjernelse af Væv (Svulster,
+Haar etc.). Ved Strømlæsioner og Lynslag ses
+navnlig Forbrænding af Huden, Blodudtrædning
+og undertiden Gennemhulning af Vævet, der
+kan ligne Skudlæsioner. Forbrændingen skyldes
+ikke altid ydre Hedepaavirkning (Klæderne kan
+saaledes være ganske urørte), men foraarsages
+af indre Varmeudvikling. Karakteristiske er
+ogsaa de saakaldte Lynfigurer, træagtigt
+forgrenede røde Striber, der vistnok skyldes en
+paralytisk Udvidelse af de fine Haarkar. Ogsaa de
+indre Organer kan vise sig læderede
+(Albuminuri, Gulsot, Hjertelammelse). Virkningen
+afhænger i øvrigt af Strømmens Intensitet og
+Spænding. Strømme af 100-150 Volts Spænding er
+farlige, over 200 Volt ofte, over 500 Voit næsten
+altid dødelige. Ved Vekselstrøm er Virkningen
+ikke blot afhængig af Spændingen, men ogsaa
+af det Antal Gange, Strømmen veksler. Er
+Antallet ringe (c. 50 i Sek.), er Virkningen ved
+højere Spænding ofte dødelig. Er Antallet
+meget stort (Teslastrømme), aftager Farligheden
+

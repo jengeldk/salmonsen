@@ -1,0 +1,173 @@
+da er 1/8 af den mod Jorden vendende
+Halvkugle mørk. Ved Jupiter er den største F.
+næppe synlig (1/100 af Skiven er da formørket).
+For de fjernere Planeter bliver den endnu
+mindre.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Fase (fysisk-kemisk)">
+<b>Fase</b> (fys.-kem.) betegner for et
+<sp>homogent</sp> Stof den Tilstandsform, hvori Stoffet
+optræder (Is, Vand og Damp er Vandets F.),
+for et <sp>heterogent</sp> Stof alle de Dele af dette,
+der er af samme Art, altsaa hvert af de
+homogene Stoffer, hvoraf det heterogene Stof er
+sammensat (de homogene Stoffer Feldspat, Kvarts
+og Glimmer er det heterogene Stof Granittens
+F.). De Love, efter hvilke Ligevægtsforholdene
+indstiller sig i heterogene Systemer, er
+udfundne af <sp>W. Gibbs</sp> (se <sp>Gibbs' Faselov</sp>).
+<i>R. K.</i>
+</chapter>
+
+<chapter name="Fase (elektrisk)">
+<b>Fase</b> (<sp>elektrisk</sp>). I
+Vekselstrømsmaskiners Ankre anvendes som Regel fl. (oftest 3)
+særskilte Viklinger, som dog altid er indbyrdes
+forbundne paa forsk. Maade; disse Beviklinger
+benævnes Maskinens F., og Maskinen er da
+<sp>flerfaset</sp> (3-faset) i Modsætning til den
+<sp>enfasede</sp> Maskine, der kun har een Bevikling
+paa Ankeret.
+
+I elektriske Ledningsnet for Vekselstrøm
+anvendes Betegnelsen F. for de enkelte
+Ledninger (F. 1, 2 og 3 for trefasede Anlæg); hertil
+kommer endvidere hyppigt den saakaldte
+Neutralleder ell. Nulleder. Spændingen imellem to
+af F. betegnes ved Netspændingen, medens
+Spændingen imellem en af F. og Nullederne
+betegnes ved <sp>F.-Spændingen</sp> (se i øvrigt
+<sp>elektriske Maskiner og
+Transformatorer</sp>, <sp>elektriske
+Fordelingssystemer</sp> og <sp>elektriske
+Ledningsnet</sp>).
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Faseforskydning">
+<b>Faseforskydning.</b> Naar to Vekselstrømme
+ell. to Vekselspændinger ell. en Vekselstrøm og
+en Vekselspænding med samme Periodetal ikke
+gennemløber deres maksimale Værdier paa
+samme Tidspunkt, siges de at være indbyrdes
+<sp>faseforskudte</sp>. Den Tid, der forløber
+imellem de to Strømmes Maksima, er deres
+indbyrdes F.; denne udtrykkes dog som Regel
+ikke i Sek., men i <sp>Grader</sp>, idet da den Tid,
+der medgaar til en hel Periode (svarende til
+en hel Omdrejning af en topolet Maskine)
+sættes til 360°. Har saaledes to Strømme med 50
+Perioder pr Sek. en indbyrdes F. paa 60°, bet.
+dette, at der imellem de to Strømmes Maksima
+<table>
+<td v2>forløber en Tid paa<td c>60<td v2>af Tiden for en hel
+<td c>360
+</table>
+<table>
+<td v2>Periode, altsaa<td c>60<td v2>af 1/50 Sek. =<td c>1<td v2>Sek.
+<td c>360<td c>300
+</table>
+</chapter>
+
+<chapter name="Faselis">
+<b>Faselis,</b> Søstad i Lykien ved den pamfyliske
+Bugt, grundet af doriske Udvandrere, berømt
+saavel for den Rosenessens, der tilvirkedes i Byen,
+som for sine tre Havne, ved Hjælp af hvilke F.
+hævede sig til en mægtig Søstad, Hovedstad i
+en uafhængig lille Stat. Sørøverne gjorde F.
+til en Stabelplads for deres Varer, hvorfor den
+76 f. Kr. ødelagdes af Konsulen P. Servilius
+Isauricus. Den opbygtes atter, men fik aldrig
+sin gl. Bet. Ruinerne findes ved Teldrova.
+<i>V. S.</i>
+</chapter>
+
+<chapter name="Faselov">
+<b>Faselov,</b> se <sp>Gibbs' F</sp>.
+</chapter>
+
+<chapter name="Fasemaaler">
+<b>Fasemaaler,</b> elektrisk Maaleinstrument, som
+viser Faseforskydningen φ mellem en Strøm og
+en Spænding eller mellem to Spændinger. Fig.
+viser Princippet i en F. De faste Spoler 1 og 2
+gennemløbes af Strømmen <i>J</i>. De
+to bevægelige Spoler 3 og 4, som er
+indbyrdes fast forbundne og kan
+dreje sig om en Akse, staar gennem slappe
+Tilledningsbaand i Forbindelse med
+Spændingen E. Praktisk talt er Strømmen <i>i</i><sub>3</sub> i
+Fase med Spændingen og Strømmen <i>i</i><sub>4</sub> 90° i
+Fase bagefter Spændingen. Det bevægelige
+System indstiller sig i en saadan Stilling, at de
+to Drejningsmomenter, som paavirker de to
+bevægelige Spoler, er lige store og modsatte,
+hvilket kan vises at finde Sted, naar Vinklen α er
+lig Faseforskydningsvinklen φ.
+<i>Abs. L.</i>
+
+<img>Fasemaaler.</img>
+</chapter>
+
+<chapter name="Fasespænding">
+<b>Fasespænding,</b> se <sp>Fase</sp>.
+</chapter>
+
+<chapter name="fas est et ab hoste doceri">
+<b>fas est et ab hoste doceri</b> (lat.), det er
+rigtigt ogsaa at lære af Fjenden; Citat af Ovid's
+<i>Metamorphoses</i> IV, V. 428.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="fashion">
+<b>fashion</b> ['fä∫<sub>ə</sub>n] (eng.), Mode, god Tone, Skik
+og Brug i den fine Verden; <sp>fashionabel</sp>,
+moderne, hørende med til god Tone.
+<i>fashionable news</i> ['fä∫<sub>ə</sub>ne<sub>i</sub>b£-nju.z], Nyheder fra den
+fine Verden.
+</chapter>
+
+<chapter name="Fasis">
+<b>Fasis,</b> nu <sp>Rion</sp>, Flod i Lilleasien, syd for
+Kaukasus, ofte i Oldtiden regnet for Grænseflod
+mellem Europa og Asien. Den falder ud i det
+sorte Hav. Ved Mundingen laa <sp>Byen F.</sp> (nu
+<sp>Poti</sp>), fordum Endepunkt for Handelsvejen
+til Indien. I disse Egne landede Argonauterne,
+da Iason drog ud for at vinde det gyldne Skind.
+Fra F. lærte Vesten den fasianske Fugl,
+<sp>Fasanen</sp>, at kende.
+<i>H. A. K.</i>
+</chapter>
+
+<chapter name="Faskinbænk">
+<b>Faskinbænk,</b> se <sp>Faskiner</sp>.
+</chapter>
+
+<chapter name="Faskiner">
+<b>Faskiner,</b> et ved Vandbygningsarbejder
+hyppig anvendt Byggemateriale, bestaaende af
+Grene, og benyttet i en Del forsk.
+Konstruktioner og under en Del forsk. Former. F.
+anvendes ved Vandbygningsarbejder ikke alene i
+provisoriske, men ogsaa, og væsentligst, i
+permanente Værker, hvilket har sin Grund dels i
+Grenenes store Varighed under Vand, dels i
+den Forening af Sammenhæng og
+Bevægelighed, de giver de af dem byggede Værker,
+hvorved disse bliver i Stand til at taale Synkninger
+og Sætninger af Undergrunden, hvad der især
+er af stor Bet., hvor Grunden, hvorpaa der
+bygges, er blød og eftergivende. F. bliver
+derfor et yndet Materiale ved
+Vandløbsreguleringsværker samt ved Fundering af Bygværker paa
+blød Grund. Grenene, der benyttes, og paa
+hvilke Sidegrene, Kviste og Blade er fjernede,
+ankommer til Arbejdsstedet fra Skovene bundne
+i 25-30 cm tykke, 3-4 m lange Bundter,
+ombundne paa 2-4 Steder med Baand af
+

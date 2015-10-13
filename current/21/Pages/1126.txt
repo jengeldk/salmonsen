@@ -1,0 +1,115 @@
+fuldstændig absorberet. Nogle af Resultaterne af
+Undersøgelserne af det absolut sorte Legemes
+Straaling er afbildet paa Fig. 8, hvor Abscissen
+er Bølgebredden i μ og Ordinaten proportional
+med <i>E<sub>λT</sub></i>. Hver Kurve giver Spektrets Indhold
+af de forsk. Bølgebredder for den paa Kurven
+skrevne Temp. af det straalende Legeme. Det
+synlige Spektrum mellem c. 0,4 og 0,8 μ ligger
+mellem de to punkterede Linier. Ved Figurens
+Temperaturer er Udstraalingen
+endnu ikke saa stærk i det
+synlige Spektrum, at den har
+kunnet maales; først ved betydelig
+højere Temperatur indeholder det synlige
+Spektrum en kendelig Brøkdel af hele
+Energien, for ved Solens Temperatur at
+indeholde henved Halvdelen. Den samlede
+Udstraaling, der maaltes ved Kurvernes Areal, er
+proportional med <i>T<sup>4</sup></i>, hvor <i>T</i> er den absolutte
+Temp. (Temp. i Celsiusgrader + 273) af det
+udstraalende Hulrums Vægge. Den
+Bølgebredde, som der udstraales mest af, ved hvilken
+altsaa Kurvens Top ligger, er omvendt
+proportional med <i>T</i>, rykker altsaa for stigende Temp.
+hen mod kortere Bølgebredder for ved Solens
+Temp. at være naaet et godt Stykke ind i det
+synlige Spektrum, nemlig hen i det gulgrønne.
+Endelig er Højden af Toppen proportional med
+<i>T<sup>5</sup></i>. Alle disse Sætninger kan tjene til at
+bestemme et straalende Legemes Temp., dersom
+det kan forudsættes at straale som et absolut
+sort Legeme, og giver i hvert Fald en lavere
+Grænse for dets Temp. Arbejdet paa teoretisk
+at udlede Formen af disse Kurver i deres
+Afhængighed af λ og <i>T</i> har ført til
+<sp>Kvanteteorien</sp>.
+
+Fig. 9 viser tilsvarende Resultater for
+Straalingen for blankt Platin i samme Maalestok.
+Ordinaterne er meget mindre,
+overensstemmende med Platinets ret ringe Absorptionsevne ell.
+ret store Refleksionsevne. Saadanne
+Undersøgelser har stor Bet. for Valget af Lysgivere i
+Belysningsteknikken. Den som Lys virksomme
+Del af den udstraalede Energi er jo kun den
+mellem de punkterede Linier liggende, og da
+denne vokser overmaade stærkt med Temp., er
+det indlysende, at en Lysgivers Økonomi i
+højeste Grad er afhængig af dens Temp. Den
+ideelle Lysgiver vilde være en, som i det synlige
+Spektrum havde samme Emissionsevne som det
+absolut sorte Legeme (mere kan jo ikke
+opnaas) og i det ultrarøde meget lille Emission,
+saa at der ikke spildtes
+Energi paa usynlige Bølger.
+En saadan haves i de
+lysende Insekter. Og f. Eks. i
+Auernettet har man en
+Lysgiver med ret stor selektiv
+Emission i det synlige
+Spektrum, hvad der betinger
+dets gode Lysøkonomi. I
+den ultraviolette Del er
+Udstraalingen forsvindende for
+de fleste alm. Lyskilder; der
+kræves meget høj Temp.,
+før den bliver betydelig.
+Sollysets ultraviolette Del er
+yderligere stærkt beskaaret
+ved Absorption i Luften og
+naar næppe ud over 3000 Å
+ved Jordens Overflade. Selv
+for en Kulbuelampe
+indeholder den ultraviolette Del
+af Spektret af Lyset fra de
+glødende Kul kun en
+forsvindende Del af hele
+Spektrets Energi. Naar
+Finsenbehandlingen dog kan bruge
+Buelampen, ligger det i at
+der tillige fra selve Buen
+udsendes en betydelig
+Mængde ultraviolet Lys som et Liniespektrum ell.
+rettere Baandspektrum, for hvilket Kirchhoff's
+Lov ikke gælder.
+
+2) <sp>Liniespektre</sp>, a).
+<sp>Bølgebreddemaaling</sp>. For al nøjere Undersøgelse af
+Liniespektre er nøjagtige Bølgebreddemaalinger
+af største Bet. Af det foran omtalte fremgaar,
+at denne nu altid baseres paa en Rk.
+Normallinier med kendte Bølgebredder. Det første
+nøjere Forsøg paa at skaffe saadanne Normaler
+skyldes Rowland, der, efter at han 1882 havde
+lavet sine udmærkede Konkavgittere, udgav sit
+store Atlas over Solspektret 1888. Som
+Grundlag benyttede han ret vilkaarligt Middeltallet af
+tidligere Maalinger af den ene af de to gule
+Natriumlinier, <i>D1</i> = 5896,156 Å, et Tal, som
+maatte ventes at være behæftet med en ikke
+ringe Fejl p. Gr. a. de store Vanskeligheder
+ved en absolut Bestemmelse af
+Gitterkonstanten, Afstanden mellem to Gitterridser. Baseret
+derpaa bestemte han Bølgebredden for et stort
+Antal af de Fraunhofer'ske Linier i Solspektret
+ved Koincidensmetoden og mente at have
+opnaaet en Nøjagtighed af 0,01 Å i disse Tal; det
+var da af mindre Bet., at Enheden p. Gr. a.
+Fejlen i Udgangslinien næppe var nøjagtig en
+
+<img>Fig. 8. Energifordeling i Spektret
+fra det absolut sorte Legeme.</img>
+
+<img>Fig. 9. Energifordeling i Spektret
+fra glødende Platin.</img>

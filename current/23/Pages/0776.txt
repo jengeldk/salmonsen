@@ -1,0 +1,144 @@
+oven, dels i den følgende T., og med den sidste
+Taljeløber vist op over en fast T., faas
+<sp>Potenstrisseværket</sp> (Fig. 3), saaledes
+kaldet, fordi Forholdet mellem Byrde og Kraft
+her teoretisk er som 2 i den Potens, der
+angives ved Antallet af de løse T., paa Fig. 3
+altsaa 2, eller Byrden <i>Q</i> er her 4 Gange saa stor
+som Kraften <i>P</i>. I Praksis bliver Kraften her
+som ved alle Trisseværker betydelig større,
+end den teoretiske Beregning giver; dette
+skyldes Taljeløberens Tovstivhed og
+Gnidningsmodstanden mod Skivernes Omdrejning.
+Potenstrisseværket hører nærmest hjemme i de
+fysiske Kabinetter; men det almindelige Trisseværk,
+Taljen, spiller en stor Rolle i det daglige Liv,
+saaledes navnlig om Bord. Den tyske
+Benævnelse er <sp>Flaschenzug</sp>; den fortvivlede
+danske Oversættelse heraf <sp>Flasketræk</sp> er
+heldigvis paa det nærmeste gaaet i
+Glemmebogen.
+
+I Værkstederne bruges navnlig ved
+Monteringsarbejder ofte et særegent Trisseværk,
+<sp>Differenstrisseværket</sp>, som skematisk
+er fremstillet ved Fig. 4. Det har i den øverste
+Blok to sammenhængende Skiver, en mindre,
+<i>k</i>, og en lidt større, <i>g</i>. Byrden <i>Q</i> hænger i
+Blokken <i>l</i>. Taljeløberen er her en lukket Kæde,
+Parterne <i>a</i> og <i>b</i> bærer Byrden, som løftes, naar
+man arbejder i Pilens Retning i Parten <i>d</i> med
+en Kraft, som kan kaldes <i>P</i>. Skivernes Radier
+benævnes <i>R</i> og <i>r</i>. At dreje til venstre i Pilens
+Retning tilstræber Kraften <i>P</i> med Arm <i>R</i> og
+desuden 1/2 <i>Q</i> med Arm <i>r</i>, at dreje til højre 1/2
+<i>Q</i> med Arm <i>R</i>. Man kan altsaa opstille den
+teoretiske Ligevægtsligning:
+<i>P</i> . <i>R</i>+1/2 <i>Q</i> . <i>r</i> = 1/2 <i>Q</i> . <i>R</i>, hvoraf Forholdet
+mellem Byrde og Kraft:
+<i>Q</i>/<i>P</i> = 2<i>R</i>/<i>R—r</i> = 2/1—<i>r/R</i>, som ses at blive større,
+jo større Forholdet <i>r</i>/<i>R</i> bliver, med andre Ord,
+jo mere Skiven <i>k</i> nærmer sig til Skiven <i>g</i> i
+Størrelse. Er <i>g</i> og <i>k</i> meget nær lige store, idet
+Forskellen paa deres Skivers Omkreds kun er
+eet Kædeled, vil man, naar Trækket i <i>d</i>
+ophører, og <i>P</i> altsaa bliver 0, med saa stor
+Tilnærmelse have 1/2 <i>Q</i> . <i>r</i> = 1/2 <i>Q</i> . <i>R</i>, at
+Gnidningsmodstanden vil forhindre <i>Q</i> fra at løbe ned.
+Differenstrissen eller, som den ofte benævnes,
+<sp>Differenstaljen</sp>, bliver saaledes
+selvbremsende, og skal der fires af, maa man da
+trække i Kædeparten <i>c</i>. For yderligere at
+forstørre Forholdet <i>Q</i>/<i>P</i> kan man lade <i>P</i> virke paa
+en lukket Kæde, lagt om et større Kædehjul,
+sat paa fælles Aksel med Skiverne <i>g</i> og <i>k</i> <footnote>I de nyeste Konstruktioner af
+Differenstrisseværker anvendes i Stedet for dette Kædehjul en Skrue
+uden Ende med tilhørende Hjul, de saakaldte
+Skruetaljer.</footnote>.
+Under <sp>Differenstalje</sp> er vist en saadan
+af almindelig Konstruktion, men uden
+Kædehjul. I Banden paa Skiverne <i>g</i> og <i>k</i> er der
+Lejer eller Tænder, hvori Kædens Led griber
+ind. Skiven <i>l</i> har en glat Rille.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Trissemuskel">
+<b>Trissemuskel,</b> d. s. s. <sp>Trochlearis</sp>, se
+<sp>Øjemuskler</sp>.
+</chapter>
+
+<chapter name="Trisseværk">
+<b>Trisseværk,</b> se <sp>Trisse</sp>.
+</chapter>
+
+<chapter name="Trissino, Giangiorgio">
+<b>Trissino,</b> <sp>Giangiorgio</sp>, italiensk Digter,
+f. i Vicenza 8. Juli 1478, d. i Rom 8. Decbr
+1550. Han var meget lærd, havde lært Græsk
+af Grækeren Chalkondylas, tillige en fornem
+Mand, som stod baade Kirkens og de verdslige
+Fyrster nær, tjente Paverne Leo X og Clemens
+VII som diplomatisk Sendebud og levede for
+Resten dels i sit Palads i Rom, dels paa sine
+forskellige Landejendomme. I sine Arbejder
+viser han sig som en pedantisk Efterligner af
+Antikken, saaledes i Heltedigtet <i>L'Italia
+liberata dai Goti</i> (1. Del Rom 1547; 2. Del Venedig
+1548); det er i rimfri Jamber, anlagt som
+Efterligning af Homer's Iliade og som Modstykke til
+Ariosto's romantiske Heltedigtning; Belisar er
+dets Hovedperson. Det tilegnedes Karl V, hvem
+T. selv overleverede det i Augsburg; til
+Belønning fik han en Grevetitel for sin Søn. Paa
+Dramaets Omraade optraadte T. som
+Regeldyrkeren, den bevidste klassiske Kunstdigter,
+med Tragedien <i>Sofonisba</i> (skrevet 1515,
+udgivet i Rom 1524), et Arbejde, som virkelig
+indgyder Læseren Agtelse ved ret smagfuld
+Efterligning af de græske Tragikere og ved køn
+Lyrik i Korsangene; den fik megen Betydning
+som det tidligste i sin Art i Europas nyere
+Litteratur. T.'s lyriske Digte, hvoraf mange er
+henvendte til de ikke faa Kvinder, der
+efterhaanden var Genstand for hans Kærlighed,
+vidner i Formen ogsaa om hans Lyst til
+antikiserende Forsøg. Som Grammatiker er T.
+interessant ved sine fonetiske Ideer og sit Forslag
+om at indføre ny Bogstaver i Modersmaalets
+Betskrivning, hvilket affødte megen Polemik.
+Samlede Værker ved S. Maffei (Verona 1729).
+(<sp>Litt</sp>.: <sp>B. Morsolin</sp>, <i>G. G. T.</i> [2. Udgave
+Firenze 1894]).
+<i>(E. G.). E. M-r.</i>
+</chapter>
+
+<chapter name="Tristan">
+<b>Tristan</b> [fr. tri'stã], keltisk Sagnhelt; var stor
+som Kriger, Jæger og Harpespiller, men blev
+fremfor alt berømt ved sit Kærlighedsforhold til
+Isolde. Han levede i Cornwales hos sin Onkel Marc
+og blev af denne sendt til Irland for paa hans
+Vegne at bejle til Dronningens Datter Isolde.
+Marc's Bejlen modtoges gunstig, og T. drog
+tilbage med Prinsessen, hvem hendes Moder
+havde medgivet en Trylledrik, som hun skulde
+dele med sin Ægtefælle, og som havde den
+Egenskab, at den knyttede dem, som drak den,
+sammen i en evig Kærlighed. Ved en
+skæbnesvanger Fejltagelse af Ternen Brangaine
+kommer Isolde til at dele Drikken med T., og de
+to er nu uopløselig forbundne ved en
+uovervindelig gensidig Lidenskab. Der udvikler sig
+deraf en Mængde Konflikter; til sidst jager
+Kong Marc dem begge ud i den vilde Skov,
+hvor de frister Livet kummerligt; endelig
+skilles de. T. drager bort til Amorica og ægter en
+anden Isolde, men kan aldrig glemme den
+første. Han saares i en Kamp, og kun hans første
+elskede kan helbrede Saaret; men han dør,
+inden hun kommer, og af Fortvivlelse udaander
+hun ved hans Lig. Saaledes er nogle af
+Hovedlinierne i det berømte Sagn om T. og Isolde;
+de ældste og interessanteste Behandlinger af
+det findes i to franske Digte fra 12.

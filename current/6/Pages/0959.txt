@@ -1,0 +1,57 @@
+Magnetkraften. I denne Stilling kommer Spolen og
+den med denne fast forbundne Viser i Ro.
+Da Magnetfeltet praktisk talt er ens overalt,
+bliver Udslaget proportionalt med Strømmen.
+Eksempelvis er i et Milliampèremeter
+Kobberspolen 3 cm høj, 2,5 cm bred og har 18
+Vindinger overspunden Traad af 0,4 mm Diameter.
+Magnetfeltets Styrke (i Luftrummene) er c. 1000
+Gauss. Den Strøm, som faar Spolen og dermed
+Viseren til at gøre fuldt Udslag, er c. 1/20
+Ampère. Snoningsmodstanden svarer til en Kraft
+paa 1 g virkende paa en Arm af c. 0,7 cm.
+Under Bevægelsen fremkommer der i
+Kobberrammen en Strøm, som dæmper Bevægelsen;
+ved passende Valg af Kobberrammens Tykkelse
+kan man faa Bevægelsen aperiodisk, d. v. s.
+saaledes, at Viseren, naar Strømmen sluttes,
+bevæger sig fra sin Nulstilling til den til
+Strømstyrken svarende Stilling og straks kommer i
+Ro der uden at udføre Svingninger.
+
+Fig. 3 viser et Instrument, som er skilt ad,
+idet Jernkernen og det bevægelige System er
+taget ud. I Fig. 4 er det bevægelige System
+anbragt paa Plads, og Magneten fæstet paa
+Instrumentets runde Grundplade.
+
+Til Benyttelse som Ampèremeter er
+Instrumentet altid forsynet med en Shunt, som kan
+være indbygget i Instrumentet ell. være et
+Apparat for sig. Den simpleste Forbindelse er
+skematisk vist i Fig. 5.
+
+Shunten bestaar af en ell. fl.
+Manganinstrimler, loddet ind mellem to Messingstykker, som
+hver bærer en stor Klemmeskrue til at føre
+Hovedstrømmen og en lille til Forbindelse med
+Instrumentet. Hovedstrømmen <i>I</i> deler sig i
+Shuntstrømmen <i>I</i><sub>S</sub> og Instrumentstrømmen <i>i</i>.
+
+Flere Fabrikker beregner Shunterne til et
+Spændingsfald paa 0,060 Volt (60 Millivolt) ved
+
+<img>
+Fig. 1 og 2. Snit gennem Ampèremeter med
+bevægelige Vindinger til Jævnstrøm.
+</img>
+<img>
+Fig. 3. Ampèremeter, adskilt.
+</img>
+<img>
+Fig. 4. Ampèremeter, samlet (Skala og Kappe
+aftaget).
+</img>
+<img>
+Fig. 5. Ampèremeter med Shunt. Ledningsforbindelse.
+</img>

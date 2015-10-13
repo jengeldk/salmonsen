@@ -1,0 +1,27 @@
+smelter og afbryder Strømtilførslen, naar
+Strømstyrken bliver saa stor, at Ledningen udsættes
+for en for stærk Opvarmning. Smeltesikringerne
+maa være monterede paa ildfast Underlag og
+saaledes beskyttede, at Metallet, naar det
+smelter, ikke kan gøre Skade. Som Regel anbringes
+der Sikringer overalt, hvor en Ledning
+forgrener sig fra et større til et mindre Tværsnit.
+Sker der da en Kortslutning i den svagere
+Ledning, smelter Sikringen, som er indsat foran
+denne, og Ledningen er strømløs, medens de
+øvrige Ledninger ikke berøres heraf. I St f.
+Sikringer kan ogsaa anvendes de saakaldte
+»<sp>Automatiske Afbrydere</sp>«, der er
+indrettede saaledes, at Strømmen, naar den bliver
+for stærk, ved Hjælp af en Elektromagnet
+paavirker et bevægeligt Anker, som dernæst ved
+mekaniske Mellemled aabner Afbryderen.
+Automatiske Afbrydere er hurtigere og paalideligere
+end Sikringer og har derfor vundet udstrakt
+Anvendelse. Om Sikringer og automatiske
+Afbrydere se endvidere <sp>elektriske
+Kraftstationer</sp> samt <sp>elektr. Installation
+og Installationsmateriel</sp>.
+<i>R. J. J.</i>
+</chapter>
+<img></img>

@@ -1,0 +1,121 @@
+Glasrør e. l., hvori de opbevares, idet disse ikke
+absorberer γ-Straalerne i kendelig Grad; man
+er da sikker paa, at intet Radium gaar tabt
+ved Maalingen. Præparatet maa først maales
+c. 1 Maaned efter, at det er fremstillet, thi
+det maa være kommet i Ligevægt med de
+nærmeste Efterkommere, da det især er
+γ-Straalerne fra RaC, der bruges ved Maalingen. De
+følgende Efterkommere behøver man ikke at
+afvente, da deres γ-Straaler er saa svage og
+bløde, at de ingen Bet. har for Maalingen.
+Danmark har siden 1915 en Radiumnormal paa
+9,75 mg RaCl<sub>2</sub>. I den første Tid kan man regne,
+at dens Styrke aftager 0,4 pro mille om
+Aaret.
+
+Radium haves i saa store Mængder, at dets
+Undersøgelse ikke frembyder nogen
+Vanskeligheder. Det ligner i kem. Henseende Barium
+meget og er vanskeligt at skille derfra. Man
+har fremstillet det metallisk, men i Praksis
+bruges altid Salte, Klorid, Bromid ell. Sulfat
+(se <sp>Radium</sp>).
+
+Emanationen ligner de sjældne Luftarter
+(Helium, Neon o. s. v.), idet den er kemisk
+uvirksom og har samme Type Spektrum. Den
+fortættes ved 1 Atm. Tryk ved —65°. Som
+Enhed for Emanationsmængder bruges en <sp>Curie</sp>,
+den Mængde Emanation, der er i radioaktiv
+Ligevægt med 1 g Radium; da det er en
+relativt meget stor Mængde, bruges i Reglen
+Enheden <sp>Millicurie</sp>, der er 1/1000 deraf. Paa
+lgn. Maade taler man om en Curie af de andre
+Mellemstoffer RaA o. s. v. Af
+Halveringstiderne beregnes, at en Curie Emanation vejer 0,006
+mg; den vil ved Atmosfæretryk indtage et
+Rumfang paa 0,6 mma, hvilket ogsaa er fundet
+ved direkte Maaling af Rumfanget under
+formindsket Tryk. Luft og Vand, som tages op
+af Jorden, viser sig i Reglen svagt og
+forbigaaende radioaktive hidrørende fra et ringe
+Indhold af Emanation, der maa være afgivet af
+aktive Stoffer i Jordbunden. Varme Kilder
+viser sig ofte stærkt radioaktive, saaledes de
+isl. og mange af de kendte Badesteders Kilder,
+ligeledes p. Gr. a. Indhold af Emanation.
+Nylig blev det opdaget, at fl. Kilder paa Bornholm
+er svagt radioaktive. Ved Angivelse af
+saadanne Emanationsopløsningers Indhold af
+Emanation har man i Reglen brugt den saakaldte
+<sp>Macheenhed</sp>. En Emanationsopløsning
+siges at have Styrken 1 Macheenhed, naar 1 I
+af Opløsningen indeholder saa megen
+Emanation, at den kan give en Mætningsstrøm paa
+1/1000 i elektrostatisk Maal i et Elektroskop som
+det tidligere omtalte. 1 Curie/Liter er fundet
+= 2,7 · 10<sup>9</sup> Macheenheder. Saadanne svage
+Emanationsopløsninger som de naturlige Vande
+undersøges, ved at en bestemt Mængde af
+Vandet rystes nogen Tid i en større Beholder, saa
+at en Del af den opløste Emanation undviger
+til Luften; denne bringes da ind i en Beholder
+i Forbindelse med et Elektroskop, som foran
+omtalt. Hele Apparatet kaldes undertiden et
+<sp>Fontaktoskop</sp>. Som Eksempler kan
+nævnes, at en Kilde i Gastein viser et
+Emanationsindhold paa 155 og en Kilde i Karlsbad 32
+Macheenheder. Grubevandet i Joachimstal
+indeholder c. 2000 Macheenheder. Meget smaa
+Radiummængder maales ved at uddrive og maale
+deres Emanationsindhold.
+
+<sp>Thoriumfamilien</sp>. Den anden
+radioaktive Hovedfamilie, Thoriumfamilien, viser
+megen Lighed med Uran-Radiumfamilien,
+saaledes i den Maade, hvorpaa kort- og
+længelevende Stoffer, α- og β-Stoffer, veksler med
+hinanden; Thoriumfamilien indeholder ogsaa
+en kortlevende Emanation, og ved det Stof,
+ThC, der svarer til RaC, finder der ogsaa en
+Forgrening Sted, dog i et andet
+Mængdeforhold, idet 65 % bliver til ThC<sup>1</sup>.
+
+Mesothorium 1, for hvilket ingen Straaler er
+anført, antages at udsende meget svage, ikke
+konstaterede β-Straaler. Det anvendes en Del
+i Medicinen som en billigere Erstatning for
+Radium, idet det ligesom ved Radium er
+Efterkommernes Straaling, man benytter. Men man
+kan ikke regne at kunne bruge det i mere end
+10—15 Aar.
+
+<sp>Actiniumfamilien</sp>. Actinium kendes
+ikke i ren Tilstand; det er selv et Mellemstof,
+idet Actiniumfamilien er en Sidegren af
+Uranfamilien, da Actinium altid forekommer i
+Uranmineraler og i konstant Forhold til
+Uranmængden; det umiddelbart foregaaende Stof er
+imidlertid først nylig fundet, og man ved endnu
+ikke, ved hvilket Stof i Uranfamilien
+Forgreningen finder Sted, hvorfor man heller ikke
+kender Stoffernes Atomvægte.
+
+<table>
+<td 5 c><sp>Thoriumfamilien</sp>.
+<td c>Navn<td c>Halveringstid<td c>Straaler<td c>Atomvægt<td c>Atonmummer
+<td>Thorium<td c>1,3 · 10<sup>10</sup> Aar<td c>α<td c>232<td c>90
+<td>Mesothorium 1<td c>6,7 Aar<td c>(—)<td c>228<td c>88
+<td>Mesothorium 2<td c>6,2 Timer<td c>β<td c>228<td c>89
+<td>Radiothorium<td c>2,02 Aar<td c>α (β)<td c>228<td c>90
+<td>Thorium X<td c>3,64 Dage<td c>α<td c>224<td c>88
+<td>Th-Emanation<td c>54 Sek.<td c>α<td c>220<td c>86
+<td>Thorium A<td c>0,14 Sek.<td c>α<td c>216<td c>84
+<td>Thorium B<td c>10,6 Timer<td c>β<td c>212<td c>82
+<td>Thorium C<td c>60 Min.<td c>65 % β; 35 % α<td c>212<td c>83
+<td>Thorium C'<td c>10<sup>—11</sup> Sek.<td c>α<td c>212<td c>84
+<td>Thorium Ω' (Bly)<td c>—<td c>—<td c>208<td c>82
+<td>Thorium C"<td c>3,1 Min.<td c>β<td c>208<td c>81
+<td>Thorium Ω" (Bly)<td c>—<td c>—<td c>208<td c>82
+</table>

@@ -1,0 +1,112 @@
+<table>
+<td>Antal Timer efter Forkoksningsperiodens Begyndelse<td c>1<td c>5<td c>10<td c>15<td c>20<td c>25<td c>30<td c>34
+<td>Vol % Ilt<td r>0,2<td r>0,3<td r>0,3<td r>0,4<td r>0,4<td r>0,3<td r>0,2<td r>0,2
+<td>— Kvælstof<td r>8,7<td r>8,0<td r>7,1<td r>8,3<td r>8,4<td r>9,2<td r>11,2<td r>15,6
+<td>Gassens Sammensætning i Vol %<br>omregnet til Gas fri for Ilt og Kvælstof:
+<td>Tunge Kulbrinter<td r>6,8<td r>6,4<td r>5,3<td r>4,5<td r>3,6<td r>2,2<td r>0,6<td r>0,4
+<td>Methan<td r>44,0<td r>45,3<td r>40,6<td r>38,8<td r>39,3<td r>33,5<td r>17,0<td r>11,9
+<td>Brint<td r>37,6<td r>37,7<td r>44,3<td r>46,2<td r>46,6<td r>55,8<td r>75,0<td r>80,7
+<td>Kulilte<td r>7,7<td r>6,4<td r>6,4<td r>6,8<td r>7,3<td r>6,3<td r>6,2<td r>6,5
+<td>Kulsyre<td r>3,9<td r>4,2<td r>3,4<td r>3,7<td r>3,2<td r>2,2<td r>1,2<td r>0,5
+<td>Vægtfylde, Luft = 1<td r>0,552<td r>0,539<td r>0,486<td r>0,483<td r>0,473<td r>0,415<td r>0,328<td r>0,338
+<td>Øvre Brændværdi kg°<td r>6323<td r>6339<td r>5861<td r>5614<td r>5491<td r>4893<td r>3872<td r>3186
+<td>Antal m<sup>3</sup> Gas udviklet pr. Time pr. t tørre Kul<td r>11,7<td r>9,8<td r>9,7<td r>10,3<td r>9,3<td r>9,1<td r>4,8<td r>1,3
+<td>Schreibers Forsøg<td r>6136<td r>6148<td r>5871<td r>5397<td r>4978<td r>5009<td r>3527<td r>2383
+</table>
+
+Forkoksningsperioden hersker der i Koksovnene de
+<sp>bedst mulige Betingelser</sp> for
+Udvikling af en alm. god Gas (hermed mener Forf.
+en Gas, der egner sig til at leveres videre til
+Konsumenter til Kraft, Varme ell. Lys, altsaa
+det, der ovenfor er kaldet Prima-Gas,
+Tyskernes Reich-Gas). . . . . Der danner sig i
+Koksovnen under Forkoksningen først langs de
+glødende Sidevægge et Lag paa 3 til 5 cm
+Tykkelse af smeltede Kul, der er ved at
+omdannes til Koks. De herfra dannede
+Destillationsprodukter trænger ind mod Midten af
+Kulmassen, og da denne endnu ikke er
+gennemhedet, fortættes Destillationsprodukterne
+herved for en stor Del til Tjære. Der danner sig
+i Massen en saakaldet »Forkoksningsrand« d.
+v. s. en Skillevæg paa Overgangen mellem den
+hede, allerede afgassede og forkoksede Masse
+og den indre, kun c. 100° varme Kulmasse,
+hvor Forkoksningen og Afdestillationen endnu
+ikke er begyndt. Det er af stor Bet. for et
+økonomisk godt Resultat, at der ved
+Forkoksningen virkelig danner sig saadan en Rand,
+thi denne bevirker, at Temp., i St f. at falde
+jævnt ude fra de hede Vægge og helt ind mod
+Massens Midte, danner et Spring ned der, hvor
+Randen skærmer, saa at den Del af Massen,
+der ikke er forkokset, ikke i Utide varmes for
+stærkt op (det giver daarligt Udbytte af Tjære
+og Ammoniak). I samme gunstige Retning
+virker et vist Indhold af Fugtighed i Kullene.
+Forholdet bliver netop det mest ideelle: at
+Forkoksningen, idet den skrider frem, træffer
+Kul, der ikke i Forvejen ved for høj Temp.
+er <sp>delvis afgassede</sp>, men som netop
+afgasses og forkokses <sp>samtidigt</sp>.
+
+Endnu en Fordel opnaas ved den lave Temp.,
+i den ikke afgassede Masses Indre, nemlig den,
+at de Kulbrinter, der findes i den producerede
+Gas, ikke spaltes, naar Gassen paa sin Vej bort
+fra Ovnkammeret søger bort gennem
+Kulmassen, og det trods den lange Forkoksningstid af
+henimod 36 Timer (i alm. Retortovne er
+Forkoksningstiden kun c. 8 Timer). Det bliver
+netop først henimod Forkoksningstidens
+Slutning, naar hele Massen er færdig forkokset,
+at Gassen udsættes for den stærke Varme, og
+det er ogsaa i de sidste Timer, at Gassens
+Kvalitet derfor gaar stærkt tilbage.
+
+Hvis det er <sp>Gaskul</sp>, der er anvendt, vil
+den udviklede Gas tilfredsstille de Fordringer,
+som kan stilles til alm. god Gas til
+Konsumenternes Brug, men der kræves hertil, at
+Koksværkets Ovne drives saaledes, at de holdes
+tætte, og at den Sugning, hvorved Gassen suges
+bort fra Ovnkammeret, ikke er for stærk.
+Dette er forøvrigt ogsaa indlysende af den Grund,
+at Koksovnene i dette Tilfælde arbejder paa
+ganske samme Maade som Kammerovnene
+i de store moderne Gasværker. Ved K.
+kommer nu imidlertid et Forhold til, der skal
+iagttages, nemlig at Koksenes Kvalitet bliver,
+saa disse kan bruges til Smelteovne og
+Industribrug, d. v. s. at Koksene ikke er skøre og
+let smuldrende. Den Slags Koks faas kun, naar
+Gaskullene blandes med magre Kul, ell. man
+udelukkende bruger en bestemt Slags Kul, der
+særlig egner sig hertil, men som ikke er egl.
+Gaskul. Heraf følger atter, at Gassens
+Kvalitet hurtigere bliver ringere, end naar man
+kun bruger Gaskul, og at man derfor ikke kan
+bruge al Gassen, men kun en Del af den til
+Konsumenterne. I Aachen-Egnene er der
+udviklet Gas i Koksovne af Kul med 16—18 %
+flygtige Bestanddele, og her var Brændværdien
+(øvre) af Gassen i de første 4—5 Timer af den
+25 Timer lange Forkoksningstid over 5000 kg°.
+I Distriktet Rhein-Elbe fik man af Kul med
+30 % flygtige Bestanddele Gas med
+Brændværdi 6580 kg° og nedefter. Naar man hidtil
+saa ofte kun har naaet det daarlige Resultat
+af 3500 kg°, saa skyldes dette i første Række
+ikke Kullenes Kvalitet, men mere, at der ved
+<sp>Driften</sp> af de K., der ikke skulde levere
+Gas til Konsumenter, ikke er lagt Vægt paa
+at fremstille god Gas, men kun paa at faa
+saa mange Biprodukter som muligt. Dette
+opnaas ved at suge Gassen saa hurtigt som
+muligt ud af Koksovnen, thi herved forhindres, at
+Benzol og Ammoniak spaltes og ødelægges; til
+Gengæld suges der herved en Mængde falsk
+Luft og Forbrændingsprodukter ind gennem
+Utætheder i Ovnen, og herved opspædes
+Gassen, og dens Kvalitet forringes. En Drift af

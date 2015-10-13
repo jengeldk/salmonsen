@@ -1,0 +1,121 @@
+danne et kraftigt magnetisk Felt i dette Rum.
+Feltet her er desuden temmelig ensartet, kun
+lidt stærkere nær ved Traadvindingerne end i
+Rullens Akse, og Magnetkraftlinierne er alle
+næsten parallelle med denne. Et Stykke Jern,
+der lægges ind i Rullen, bliver til en
+<sp>Elektromagnet</sp> (s. d.), og Rullen selv forholder sig
+aldeles som en Magnet. Hænger man den op
+(Fig. 3), saa den frit kan dreje sig i en vandret
+Plan, vil dens Akse indstille sig i magnetisk
+N. og S.; dens Ende <i>a</i> af Rullen, der da vender
+mod N., vil frastødes af en Magnets Nordende
+og tiltrækkes af dens Sydende o. s. v. To
+saadanne Strømspiraler ell. »Solenoïder« virker
+paa hinanden som to Magneter. Ogsaa det
+magnetiske Felt, saaledes som det afbildes ved
+Jernfilspaansfiguren, ligner ganske det, der
+frembringes af en cylindrisk Staalmagnet, der har
+samme Form og Størrelse som Strømspiralen.
+Kun i den Omstændighed, at Feltet kan
+forfølges gennem Spiralens Hulrum, viser der sig
+en Forskel. - Ophænger man en lille Stang af
+blødt Jern under den ene Skaal af en alm.
+Vægt, bringer Ligevægt til Veje og fører en
+lodret stillet Traadrulle ind under Stangen, saa
+dennes nederste Ende hænger lidt ned i Rullen,
+vil man se, at Skaalen, der bærer Stangen,
+synker, saa snart en elektrisk Strøm ledes
+gennem Rullen, og der maa lægges en vis Vægt
+paa den modsatte Skaal, for at der atter kan
+blive Ligevægt. Strømmen magnetiserer altsaa
+Jernet og søger derpaa at trække det ind i
+Rullen. Da dette sker med desto større Kraft,
+jo stærkere Strømmen er, kan man grunde en
+praktisk Maaling af Strømstyrken paa dette
+Forhold. En Strøms Virkning paa en Magnetpol
+kan findes ved Hjælp af den saakaldte
+<sp>Biot-Savart'ske Lov</sp>, der siger, at et
+Strømelement (et meget kort, retlinet Stykke af
+Strømlederen) virker paa en Magnetpol med en Kraft,
+der forholder sig ligefrem som Strømelementets
+Længde, ligefrem som Strømstyrken og
+omvendt som Kvadratet paa Afstanden mellem
+Strømelementet og Magnetpolen. Staar
+Forbindelseslinien ikke vinkelret paa Strømelementet,
+maa man desuden multiplicere med Sinus af
+Vinklen mellem disse to Linier; der er altsaa
+ingen Virkning, naar Strømmen løber lige hen
+imod Magnetpolen ell. bort fra den. Kraften
+staar vinkelret paa den Plan, der gaar gennem
+Magnetpolen og Strømelementet, og dens
+Retning findes ved Holten's Regel. Den samme
+Regel finder Anvendelse paa Elektromagneten;
+kredser Strømmene om dens Polflader, sete
+ovenfra, som Fig. 4 viser, angiver denne Regel
+Polernes Art. Lægger man en Jernstang ind i
+Magnetiseringsspiralen (Fig. 2), og gaar
+Strømmen i den forreste Del af Vindingerne nedenfra
+opad, faar Stangen Nordpol til venstre, Sydpol
+til højre. <sp>Ampère</sp> viste, at en Magnets
+Virkninger alle kan beregnes ud fra den Antagelse,
+at Jernets Molekyler indeholder smaa elektriske
+Strømkredse, der ordnes ved Magnetiseringen.
+Omvendt kan man ogsaa finde alle de
+magnetiske Virkninger af en sluttet elektrisk Strøm
+ved at tænke sig denne erstattet med en tynd
+magnetisk Plade, hvis Rand falder sammen
+med Strømlederen, og som har
+Nordmagnetisme paa sin ene Flade, Sydmagnetisme paa
+den anden.
+<i>K. S. K.</i>
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2. Magnetiseringsspiral.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4. Strømretning om Polerne.</img>
+</chapter>
+
+<chapter name="Elektrometallurgi">
+<b>Elektrometallurgi</b> omhandler de
+Udvindingsmaader for Metaller og Metallegeringer,
+ved hvilke Elektricitetens Anvendelse er af
+afgørende Retydning. Alt efter den Maade,
+hvorpaa Elektriciteten nyttiggøres for
+Formaalet, falder E. i flere Hovedafdelinger; man
+kan skelne mellem elektrotermiske Processer,
+hvor der i Ovne, der varmes med elektriske
+Lysbuer, foretages Metalreduktioner o. l. ved
+de meget høje Temp., der ad denne Vej kan
+opnaas, og elektrolytiske Processer, hvor der i
+Opløsninger ell. i smeltede Stoffer ved
+Elektrolysens (s. d.) Hjælp foretages kemiske
+Adskillelser af metallurgisk Art; i fl. Tilfælde gør
+man dog samtidig Brug af Processer, der falder
+ind under begge de nævnte Kategorier, som f.
+Eks. ved Fremstillingen af Aluminium, hvor der
+sker en Elektrolyse i en Saltblanding, der er
+smeltet ved den Varme, der opstaar ved den
+elektriske Strøms Gennemledning. E. har,
+efterhaanden som Elektrokemien er blevet
+gennemarbejdet, faaet en stadig stigende Bet., navnlig
+efter at Udnyttelsen af Vandfaldene i stor Stil
+til Fremstilling af Elektricitet har muliggjort,
+at denne kan leveres til en meget billig Pris
+til elektrometallurgiske Formaal (1 Øre og
+derunder pr Kilowatttime). Eksempler paa,
+hvorledes E. i de forskellige Tilfælde gennemføres
+i Praksis, vil findes under <sp>Aluminium</sp>,
+<sp>Guld</sp>, <sp>Jern</sp>, <sp>Kalcium</sp>, <sp>Kobber</sp>,
+<sp>Natrium</sp> og <sp>Staal</sp>.
+<i>Carl J.</i>
+</chapter>
+
+<chapter name="Elektrometeor">
+<b>Elektrometeor</b> (gr.) bruges som et
+Fællesnavn om de Fænomener i Atmosfæren, hvorved
+Elektriciteten antages at spille en Rolle, altsaa
+

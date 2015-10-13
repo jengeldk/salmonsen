@@ -1,0 +1,68 @@
+cm tyk, fæstet paa en Messingaksel, drejedes
+rundt med et Haandtag, idet Skiven passerede
+mellem Polerne paa en kraftig Staalmagnet.
+Fra en Kontaktfjeder, som trykkede mod
+Messingakslen, og en anden, som trykkede imod
+Skivens Rand, dannedes Forbindelse til et
+Galvanometer. Galvanometret gjorde da et Udslag,
+naar Skiven drejedes, og Udslaget gik til den
+modsatte Side, naar Omdrejningsretningen
+vendtes. Et andet Apparat bestod af en
+Kobberskive, som roterede om en lodret Aksel i
+Jordfeltet. Der induceredes da en
+elektromotorisk Kraft, som overalt i Skiven var rettet
+fra Centrum til Periferien, og Strømmen
+aftoges langs hele Randen ved Hjælp af en
+Kviksølvring og førtes gennem den ydre
+Ledning tilbage til Centrum gennem Akslen. Disse
+Apparater er de første
+<sp>Unipolarmaskiner</sp>, d. e. elektriske Maskiner, i hvis Ledere
+Strømmen stadig har samme Retning. Det er
+dog først i den nyeste Tid, at dette Princip er
+blevet anvendt til egl. D., og det endda kun
+i enkeltstaaende Tilfælde.
+
+Udviklingen fulgte en helt anden Retning.
+Allerede 1832 fremkom Franskmanden <sp>Pixii</sp>'s
+magnetoelektriske Maskine (Fig. 2). En
+Staalmagnet kan sættes i hurtig Rotation omkr. en
+lodret Akse. Over Magneten findes en
+hesteskoformet Jernkerne, <sp>Ankeret</sp>, med en
+Bevikling af isoleret Kobbertraad. I denne
+fremkommer der Induktionsstrømme, naar
+Magneten roterer. For at faa ensrettet Strøm i den
+ydre Ledning anbragte Pixii paa Akslen en
+Strømvender, <sp>Kommutatoren</sp>, som
+ombyttede Forbindelserne til den ydre Ledning i
+det Øjeblik, da Magnetpolerne er lige ud for
+Ankerkernerne. Strømmen fra en saadan
+Maskine er vel ensrettet, men stærkt pulserende.
+1836 fremkom <sp>Clarke</sp>'s Maskine, der har
+faststaaende Magnet og bevægeligt Anker. Den
+anvendtes til fysiol. Brug (Fig. 3). 1850 benyttede
+<sp>Nollet</sp> og <sp>van Malderen</sp> en lgn.
+Anordning til at bygge en langt kraftigere Maskine
+(Fig. 4) med 5 X 8 Stkr Staalmagneter og 64
+bevægelige Traadruller, fordelte med 16 Ruller
+paa hver af 4 Metalskiver. Under Rotationen
+bevæger Rullerne sig mellem Magnetpolerne.
+Alle Rullerne er serieforbundne. Strømmen
+aftages gennem to Kontaktringe og bliver en
+Vekselstrøm. Til at drive den anvendtes en
+Dampmaskine, og magnetoelektriske Maskiner
+af denne Art anvendtes under Navn af
+»Alliancemaskinen« i en Aarrække i Frankrig som
+Lysmaskine i Fyrtaarne.
+
+Man vil se, at der i Udviklingen fra Pixii til
+Alliancemaskinen i Virkeligheden ikke er
+kommet noget principielt nyt til, og Udviklingen i
+denne Retning standsede da ogsaa hermed.
+
+Imidlertid var der arbejdet ihærdigt af en
+hel Række Opfindere. <sp>Wheatestone</sp>
+bestræbte sig for at gøre den kommuterede Strøm
+
+<img>Fig. 2.</img>
+<img>Fig. 3.</img>
+<img>Fig. 4.</img>

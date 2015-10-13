@@ -1,0 +1,111 @@
+hvorfra den afledes. Bælgenes Bevægelse styrer
+Gliderne og overfører samtidig den frem- og
+tilbagegaaende Bevægelse, der forandres til en
+roterende Bevægelse, til en Aksel og et
+Viserværk.
+
+Endelig er der i de senere Aar fremkommet
+en eng. Konstruktion af Gasmaalere, saakaldet
+<i>rotary meter</i> med lodret staaende Akse og
+indrettet som en Slags Turbine.
+
+De saakaldte <sp>Automatgasmaalere</sp>
+skiller sig kun fra de alm. Gasmaalere ved det
+paasatte <sp>Automatværk</sp>. Ved at lægge et
+Pengestykke af en bestemt Størrelse i et
+Udsnit paa Maaleren og dreje paa et Haandtag,
+falder Mønten ned i Skuffen, medens samtidig
+en Ventil aabner sig, og Maaleren gaar i Gang,
+naar en Hane paa Afgangsledningen aabnes.
+Under Gangen vil Maaleren bevæge
+Ventilstiften frem og sluttelig lukke af for Gassen, naar
+det Kvantum, der er forudbetalt, er leveret.
+Ved paa een Gang at lægge fl. Pengestykker i,
+kan der forudbetales for et større Kvantum
+Gas. Automatgasmaalerne frembyder kun den
+Fordel, at Forbrugeren kan betale sin Gas
+efterhaanden og ikke behøver at ængstes for den
+store Udbetaling paa een Gang til
+Kvartalsgasregningen. Tillige kan Husmoderen i
+Tilfælde, hvor hun ikke selv passer Gasforbruget,
+men overlader dette til Tjenestetyende, holde
+noget igen paa alt for flot Brug af Gas ved at
+udlevere denne i smaa Portioner gennem
+Penge til Automaten. Paa den anden Side kommer
+disse Maalere let i Uorden, en Mønt kan f. Eks.
+klemme sig fast o. l., og Gastilførslen standser
+da og kan ikke bringes i Orden, før der er
+tilkaldt Folk fra Gasværket. I det sidste Aar er
+Anvendelsen af Automatmaalere ophørt i
+Kbhvn, da de stærkt varierende Gaspriser har
+gjort Nytten af dem illusorisk;
+Automatmaalere egner sig nemlig kun, naar Gasprisen, som
+Tilfældet var før Krigen, ikke ofte ændres. I
+den nyeste Tid er der dog fremkommet
+ypperlige Typer af Automatmaalere, der forholdsvis
+let kan omstilles efter de skiftende
+Gaspriser.
+
+I. <sp>Gasværkernes Størrelse</sp>.
+
+Størrelsen af Gasforbruget, der kan ventes i en
+By, er afhængigt af dennes Størrelse, og
+Aarsforbruget pr Indb. er størst i de store Byer.
+Gasværket skal anlægges, saa det (med
+tilbørligt Hensyn taget til Byens kommende
+Udvikling) kan producere den til største Døgnforbrug
+svarende Mængde Gas. Efter Schaar »Kalender
+f. d. Gasfach« (1920) kan der regnes med flg.:
+
+Døgnproduktionen varierer noget med Byens
+Størrelse, men kan for middelstore Gasværker
+sættes til c. 1/2 % af Aarsforbruget (se ndf.).
+Gasværket bør have saa mange Ovne, at det
+mindst kan producere 20 % mere end største
+Døgnproduktion. For hver 1000 m<sup>3</sup> af største
+Døgnproduktion skal Kølerne have 15 à 20 m<sup>2</sup>
+Køleflade, Vaskerne (cylindriske, med
+Træriste) c. 5—6 m<sup>3</sup> Vaskerum og Renserne
+tilsammen c. 4 m<sup>2</sup> Gulvfladeareal. Stationsmaaleren
+skal kunne registrere 1/8 af største
+Døgnproduktion. Gasbeholderne skal kunne rumme
+mindst 60 % af største Døgnforbrug. Fordeling
+og Størrelse af Gasforbruget er meget afhængig
+af Byernes Størrelse. Efter tysk Statistik
+meddeles nedenstaaende Oversigt, dels fra før
+Verdenskrigen (1911—12), dels under denne
+(1916—17).
+
+<table>
+<td c>Indbyggerantal<td 2 c>over<br>500000<td 2 c>100000—<br>500000<td 2 c>50000—<br>100000<td 2 c>10000—<br>50000<td 2 c>Under<br>10000
+<td c>Regnskabsaar<td c>16/17<td c>11/12<td c>16/17<td c>11/12<td c>16/17<td c>11/12<td c>16/17<td c>11/12<td c>16/17<td c>11/12
+<td>Antal m<sup>3</sup> Gas forbrugt pr. Aar<br>pr. Indbygger<td>128<td>112<td>104<td>92<td>93<td>72<td>77<td>65<td>76<td>70
+<td>Antal m<sup>3</sup> Gas forbrugt pr. Aar<br>pr. l. m Gadeledning<td>126<td>123<td>95<td>79<td>74<td>65<td>51<td>50<td>38<td>34
+<td>Pr. 100 m<sup>3</sup> aarligt Gasforbrug er<br><td 10>
+<td>Fordelingen saaledes:<td 10>
+<td>Gas solgt gennem Maalere m<sup>3</sup><td r>87,3<td r>85,5<td r>85,9<td r>84,0<td r>84,0<td r>81,1<td r>81,9<td r>79,9<td r>78,3<td r>78,6
+<td>Gadebelysning -<td r>5,9<td r>9,3<td r>6,3<td r>9,7<td r>6,9<td r>11,3<td r>8,0<td r>11,6<td r>11,2<td r>11,0
+<td>Gasværkernes eget Forbrug -<td r>1,3<td r>1,1<td r>0,9<td r>1,2<td r>1,3<td r>1,7<td r>1,7<td r>1,9<td r>3,5<td r>3,1
+<td>Gastab (Utætheder m. m.) -<td r>5,5<td r>4,1<td r>6,9<td r>5,1<td r>7,8<td r>5,9<td r>8,4<td r>6,6<td r>7,0<td r>7,3
+<td><td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0
+<td>Til 100 m<sup>3</sup> aarligt Gasforbrug<br>svarer et<td 10>
+<td>Højeste Døgnforbrug af m<sup>3</sup><td r>0,42<td r>0,46<td r>0,39<td r>0,40<td r>0,39<td r>0,43<td r>0,40<td r>0,44<td r>0,41<td r>0,44
+<td>Mindste — - -<td r>0,14<td r>0,13<td r>0,16<td r>0,14<td r>0,16<td r>0,15<td r>0,15<td r>0,15<td r>0,15<td r>0,15
+<td>Højeste Timeforbrug - -<td r>0,04<td r>0,05<td r>0,04<td r>0,04<td r>0,04<td r>0,04<td r>0,04<td r>0,05<td r>0,05<td r>0,05
+</table>
+
+K. <sp>Rørledningsnettet</sp>.
+
+De Rørledninger i Jorden, hvorigennem
+Gassen ledes rundt i Byen til
+Forbrugerne, er af Støbejern, sjældent af
+Smedejern eller Staal, fordi dette hurtigere
+fortæres i Jorden. Ledningerne lægges med et
+Fald paa mindst 1 : 400 og helst 1 m i Jorden,
+for at ligge frostfrit. Paa Ledningernes
+Dybdepunkter er der anbragt støbte Jernbeholdere,
+<sp>Vandsamlere</sp> (ogsaa kaldet Gassyphons),
+hvori det Vand, der har fortættet sig i
+Gasledningerne, samler sig. I Laaget paa
+Vandsamleren er anbragt et Rør, der naar op til
+Overfladen af Gaden ell. Vejen og er dækket af et

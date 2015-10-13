@@ -1,0 +1,148 @@
+idet derved den mindst mulige Del af den
+løftede Vædske faar Tid til at strømme gennem
+V. Er Løftehøjden for stor, bliver tillige
+Keglens Stød mod Sædet under Lukningen saa
+stærkt, at Holdbarheden af V. formindskes.
+Kegleventilen finder i meget stor Udstrækning
+Anvendelse ved Pumper, navnlig naar der
+arbejdes med Tryk af mere end 1 à 2 Atmosfærer;
+thi i saadanne Tilfælde er Klapventiler ikke
+brugbare.
+
+En særlig Anvendelse finder Kegleventilen ved
+<sp>Sikkerhedsventiler</sp>, hvis Opgave det
+er at aabne sig, naar et bestemt Tryk er naaet,
+og derved forhindre, at der i Dampkedler (s.
+d.), Pumper, Rørledninger o. s. v. opstaar et
+større Tryk, end man har Brug for, eller der
+af Sikkerhedshensyn kan tillades. Fig. 6 viser
+en Sikkerhedsventil. Keglen or holdes ned imod
+Sædet <i>c</i> ved Hjælp af en enarmet Vægtstang <i>d</i>,
+hvis fri Ende bærer et Lod <i>f</i>. Undertiden,
+navnlig hvor V. er udsat for stærke Bevægelser elLer
+Rystelser, f. Eks. paa Lokomotiver og i Skibe,
+anvendes en Fjeder i Stedet for Loddet, og
+man kan da ogsaa udelade Vægtstangen og lade
+Fjederen virke direkte paa Ventilkeglen.
+
+For at tilvejebringe et stort
+Gennemstrømningsareal med den mindst mulige Løftehøjde,
+altsaa for at opnaa den hurtigst mulige
+Lukning, anvender man <sp>Ringventiler</sp>, ɔ:
+Kegleventiler — med kegledannede eller plane
+Sæder — hvor »Keglen« er dannet som en Ring,
+der liggjer an mod to Sæder, foruden mod det
+sædvanlige, udvendige Sæde tillige mod et
+indvendigt. Ved at sammensætte flere saadanne
+Ringventiler kan man paa en forholdsvis ringe
+Plads og uden at gaa hverken til stor Diameter
+eller stor Løftehøjde tilvejebringe et meget
+stort Gennemstrømningsareal. Ringventilerne
+anbringes da enten i samme Plan, koncentrisk
+uden om hverandre, eller i Etager, som Fig. 7
+viser. Her findes over hverandre 3 Ventilsæder
+<i>a</i>, hvorpaa hviler de 3 Ringventiler <i>c</i>, der har
+plane, med Læder belagte Anlægsflader, og hvis
+Løftehøjde begrænses af Fremspringene <i>d</i>. Det
+er særlig ved store Vandpumper, i Vandværker
+f. Eks., at saadanne sammensatte V. anvendes.
+
+Alle de ovenfor nævnte Ventilformer tillader
+kun Gennemgang i een Retning og er
+<sp>selvvirkende</sp>, ɔ: de aabnes af det
+gennemstrømmende Stofs Tryk og lukker sig atter, naar
+dette Tryk ophører. Hvor man ønsker at lade
+Stoffet passere i begge Retninger gennem V., at
+aabne og lukke for Strømmen eller regulere
+denne, anvendes andre Former af V., ved
+hvilke Ventillegemets Bevægelse iværksættes ved
+en særlig, uden for Huset liggende Mekanisme.
+
+Af saadanne skal først nævnes
+<sp>Drosselventilen</sp> eller Drøvelklappen (Fig. 8). Denne
+har intet egentligt Sæde, men Huset <i>b</i> er glat
+udboret, og Ventillegemet er en elliptisk Plade
+<i>k</i>, der er fastgjort til en vinkelret paa Husets
+Akse og skærende denne anbragt Stang <i>a</i>, som
+gaar gennem Husets Væg. Klappens Kanter er
+saaledes tildannede, at den i en skraa Stilling
+slutter tæt til Husets Inderflade, og altsaa
+lukker for Gennemgang, medens, naar den er
+drejet hen i Husets Længderetning, V. er helt
+aaben. Drosselventilen brugtes navnlig tidligere
+meget ved Dampmaskinen, idet dens Drejning
+besørgedes af Regulatoren, som derved
+afpassede Damptilstrømningen efter Behovet til
+enhver Tid.
+
+<sp>Skydeventilen</sp> bestaar af et Ventilhus,
+i hvilket der er anbragt to Sæder tæt ved
+hinanden; mellem disse kan en Klap eller Skyder
+føres ind eller ud, oftest ved Hjælp af en
+Skrue med Haandhjul; til at optage Klappen,
+naar V. er aaben, har Huset en Udvidelse
+foroven. Klappen kan være kiledannet og slutter
+da tæt, naar den presses ind mellem de lidt
+skraat stillede Sæder, eller den kan — som
+vist i Fig. 9 (Peets V.) — bestaa af to særskilte
+Klapper, der, naar de er komne ind paa Plads
+mellem Sæderne, ved Hjælp af en kegledannet
+Udvidelse paa den til Skruen svarende Møtrik
+kan presses fast imod Sæderne.
+
+En almindelig <sp>Gennemgangsventil</sp>
+(Stopventil, Afspærringsventil) er vist i Fig. 10.
+Det er en Kegleventil, og Keglen er forbunden
+med en Stang, der paa en Del af Længden er
+skrueskaaret, og som gaar gennem en
+Stopbøsse i Ventilhusets øverste Del. Ved Hjælp af
+et Haandhjul paa Stangen kan denne drejes og
+V. derved aabnes og lukkes.
+
+Ved Pumpeværker og især ved
+Dampmaskiner (se Bind V, S. 490) anvendes ofte V., der
+bevæges af Maskinen selv og aabner og lukker
+paa bestemte Tider. Naar saadanne V. er af
+betydelig Størrelse og lukker for Vand eller
+Damp under Tryk, kræves der stor Kraft til
+at aabne dem, og man søger derfor at
+<sp>aflaste</sp> V. Dette kan ske f. Eks. ved den i Fig.
+11 viste Konstruktion, der benyttes meget ved
+Dampmaskiner. Ventillegemet <i>a</i> er rørformet
+og ligger an mod to smalle Sæder, foroven ved
+<i>c</i>, forneden ved <i>o</i>. Dampens Modstand
+indskrænkes da til Trykket paa de to Ventilsæders
+Areal, og den til Aabningen nødvendige Kraft
+formindskes derved i høj Grad. Dampen
+kommer fra det til Siden vendende Rør og deler sig
+ved V. i to Strømme, hvoraf den ene gaar
+igennem ved Sædet <i>o</i> forneden, den anden ved <i>c</i>
+foroven, og derefter gennem Hulrummet i
+Ventillegemet forener sig med den nederste Strøm
+og forlader V. gennem den nedad vendende
+Aabning.
+
+Af den store Mængde Former af V., der
+findes, er her kun anført enkelte typiske som
+Eksempler; i øvrigt maa henvises til
+Litteraturen, hvoraf særlig kan nævnes: <sp>C. Borch</sp>,
+»Maskinisere«, og <sp>Freytag</sp>, »Hilfsbuch f. d.
+Maschinenbau« (Berlin 1904) samt de under
+Dampmaskiner og Pumper anførte specielle
+Værker.
+<i>H. H. S.</i>
+</chapter>
+
+<chapter name="Ventilation">
+<b>Ventilation.</b> Enhver har gjort den Erfaring,
+at man føler sig utilpas i Rum, der er
+overfyldte med Mennesker. Utilpasheden kan stige
+til lette sygelige Symptomer som Hovedpine,
+Træthed, Sved, og i alvorligere Tilfælde kan
+der optræde Kvalme, Svimmelhed, hurtig Puls
+o. s. v. Fra ældre Tid refereres Tilfælde, hvor
+der er indtraadt Dødsfald blandt Mennesker,
+stuvede sammen i smaa Rum. Erfaringen viser
+ogsaa, at forskellige Sygdomme udbreder sig
+mere blandt Mennesker, som til Stadighed
+fører et indelukket Liv, end blandt

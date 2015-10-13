@@ -1,0 +1,93 @@
+<table>
+<td><td c>Svejsejern<td c>Blødt Staal<td c>Haardt Staal
+<td>Styrke i atm.<td c>3300—4000<td c>3400—4500<td c>4500—20000
+<td>Flydegrænse i atm.<td c>1800—2800<td c>2500—3000<td c>2800— 
+<td>Proportionalitetsgrænse i atm.<td c>1300—1700<td c>1800—2400<td c>2500—6000
+<td>Brudforlængelse i %<td c>10—20<td c>20—30<td c>0—20
+</table>
+
+Disse Tal gælder for J., naar det er
+udvalset i alm. Profiler. Ved ringere Bearbejdelse
+af Materialet ligger Brudgrænsen og navnlig
+Proportionalitets- og Flydegrænsen lavere.
+Omvendt vil stærk Bearbejdelse, som
+Traadtrækning, hæve alle Grænserne.
+Elasticitetskoefficienten er for Svejsejern 2000000, for
+Staalsorterne 2150000 atm. uafhængig af
+Bearbejdelsen, og den ændres ikke, naar Staalet hærdes.
+Flydegrænsen fremtræder meget tydeligt ved
+Svejsejern og blødt Staal, men tilsløres,
+efterhaanden som Kulholdigheden vokser, og det
+haardeste Staal har slet ingen Flydegrænse.
+Man kan tilnærmelsesvis sætte
+Proportionalitetsgrænsen = K · Trækstyrken og
+Flydegrænsen = 0,7 · Trækstyrken. Ved Tryk og
+Bøjning er Proportionalitetsgrænsen,
+Flydegrænsen og Elasticitetskoefficient de samme som
+ved Træk. Brudgrænsen ved Tryk falder
+sammen med Flydegrænsen, da Legemet ved
+denne flyder og bøjer sig. Brudgrænsen ved
+Bøjning ligger mellem Flydegrænsen og
+Brudgrænsen ved Træk, idet den paavirkes af
+Tværsnittets Form.
+
+For blødt Staal til Konstruktionsbrug
+forlanges gerne en Trækstyrke af 37—4400 atm.
+og en Brudforlængelse af mindst 20 %. For
+haardt Staal er der i de senere Aar gjort store
+Fremskridt i Retning af at forene Styrke og
+Sejghed. Naar <sp>Digelstaal</sp> bruges,
+forlanges til:
+<table>
+<td><td>Trækstyrke atm<td>Brudforlængelse %<td>Indsnøring %
+<td>Skibsaksler<td c>4500—5500<td c>25—20<td c>40
+<td>Aksler og lign. Maskindele<td c>5000—6000<td c>20<td c>35
+<td>Tender- og Vognbandager<td c>5500—6500<td c>18—15<td c>30—25
+<td>Lokomotivbandager<td c>6500—8500<td c>15—10<td c>25—15
+<td>Særlig haarde Bandager<td c>8500—9000<td 2 v2>} nuværende Maksimum
+<td>Naturhaard Kvalitet til spc. Anv.<td c>9000—10000
+</table>
+
+De samme Dele fremstilles ogsaa af
+<sp>Martinstaal</sp>, men der bruges da gerne en
+noget blødere Kvalitet, nemlig til:
+<table>
+<td><td>Trækstyrke atm<td>Brudforlængelse %<td>Indsnøring %
+<td>Aksler og lign. Maskindele<td c>4200—5000<td c>20<td c>35
+<td>Lokomotiv-, Tender- og Vognaksler<td c>5000<td c>18<td c>30
+<td>Tender- og Vognbandager<td c>5000—6000<td c>18—16<td c>35—30
+<td>Lokomotivbandager<td c>6000—7000<td c>15—12<td c>25—20
+<td>Meget haarde Bandager<td c>8000—8500<td 2 v2>} nuværende Maksimum
+<td>Meget haardt Fjederstaal<td c>9000
+</table>
+
+Af Fried. Krupp's Liste over
+<sp>Specialstaal</sp> ɔ: Staal, der ved stærk Legering med
+Nikkel, Krom, Mangan, Silicium, Wolfram,
+Molybdæn o. a. Stoffer har faaet Egenskaber,
+som det alm. Staal ikke er i Besiddelse af,
+anføres: Staal med høj Elasticitetsgrænse
+(svarende til en blivende Forlængelse af 0,03 %)
+og stor Forlængelse:
+<table>
+<td v2><td>Elasticitetsg.<td>Trækstyrke<td>Brudfl.<td>Indsnøring
+<td c>atm.<td c> atm.<td c>%<td c>%
+<td>Jernbaneaksler<td r>4460<td r>5460<td r>23,8<td r>58,4
+<td>Stempelstænger for Damphammere<td r>6900<td r>8670<td r>14,8<td r>59,0
+<td 5>Staal med usædvanlig høj Brudgrænse og Elasticitetsgrænse:
+<td>Pressecylindre<td r>6100<td r>10430<td r>14,3<td r>52
+<td>Bladfjedre (90 · 13 mm, hærdede i Olie og udglødede)<td r>12300<td r>17350<td r>4,7<td r>26
+<td>Tunger til Taagehorn (3,5 mm tykke do. do.).<td r>15830<td r>17680<td r>4,7<td r>37
+<td 5>Staal med stor Slidfasthed:
+<td>Naturhaardt<br>Digelstaal bruges til<br>Genstande, der skal<br>være haarde, men<br>paa Grund af deres<br>Form og Størrelse<br>ikke kan hærdes<br>f. Eks. Valser til<br>Kornmøller.<td v4 r>3920<br>til<br>5060<td v4 r >7860<br>til<br>9770<td v4 r>31<br>til<br>11<td v4 r>48,9<br>til<br>20
+<td>Haardtstaal bruges<br>til Gravemaskiner<br>og Knusemaskiner.
+<td>Specialstaal bruges<br>til Skinner og<br>Hjertestykker,<br>Tungeskinner og
+Bandager, naar<br>Sliddet er<br>usædvanlig stort.
+<td>Blødt Staal med ell.<br>uden Nikkel,<br>hærdet ved Indsætning,<br>bruges til
+Krumtapper og andre<br>Tapper.
+<td 5>Staal, der vanskelig ruster:
+<td>Hertil bruges meget<br>nikkelrigt Staal<br>med stor Styrke<br>og lav Elasticitetsgrænse, og som<br>ikke kan hærdes,<br>Det anvendes til<br>Skibsskruer,<br>Skruebolte og<br>Møtrikker,<br>Ventilkegler, Aksler til<br>Centrifugalpumper,<br>sømløse Rør til<br>Skibskedler o. s. v.<td r>2600<br>til<br>3710<td r>5660<br>til<br>6720<td r>45<br>til<br>34<td r>69<br>til<br>48,6
+</table>
+(<sp>Litt.</sp>, se under <sp>Jern</sp>).
+<i>E. Su.</i>
+</chapter>

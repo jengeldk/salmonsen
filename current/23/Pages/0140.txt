@@ -1,0 +1,157 @@
+og et Par Gange var han endog i Fængsel. Han
+virkede flere Steder, bl. a. i Irland, og udnævntes
+til sidst 1660 til Biskop af Down, Connor og
+Dromore. T. var en veltalende Prædikant, om
+end hans Tale kunde være kunstlet, og en from
+Kristen, men tillige en ikke ubetydelig Teolog.
+Som saadan var han dog langtfra ortodoks, og
+navnlig hans Svækkelse af Arvesyndsbegrebet
+vakte Modstand. Han var en meget frugtbar
+Forf., og to af hans Opbyggelsesskrifter <i>The
+Rule and Exercises of Holy Living</i> (1650) og
+<i>Of Holy Dying</i> (1651) holdt sig længe i den
+eng. Kirke. Hans Værker er udgivne i London
+1847-54 i 10 Bd.
+<i>A. Th. J.</i>
+</chapter>
+
+<chapter name="Taylor, Samuel">
+<b>Taylor</b> ['te<sub>i</sub>£ə], <sp>Samuel</sp>, Stenografilærer og
+Praktiker i London, f. 1749, d. 1811. Udgav
+1786 et stenografisk System <i>Universal System
+of Stenography</i>, fonetisk, uhyre kort og enkelt,
+men mindre paalidelige da saa godt som alle
+Vokaler udelodes. Taylor's System, der indtil
+Midten af forrige Aarh., da det blev fortrængt
+af Pitman's, var det mest udbredte
+Stenografisystem, er bleven oversat og praktiseret paa
+de fleste europæiske Sprog.
+<i>A. W.</i>
+</chapter>
+
+<chapter name="Taylor, Tom">
+<b>Taylor</b> ['te<sub>i</sub>£ə], <sp>Tom</sp>, engelsk Humorist og
+dramatisk Forfatter, f. 19. Oktbr 1817, d. 12.
+Juli 1880. Han studerede i Glasgow og
+Cambridge og kom derefter i Statens Tjeneste, men
+virkede i øvrigt for og i Litteraturen. Som
+Kunstkritiker ved <i>Times</i> øvede han i lang Tid
+stor Indflydelse paa Smagen. T. var i mange
+Aar knyttet til <i>Punch</i>, fra 1872 til sin Død som
+Redaktør, og skrev her sine lystige Humoresker
+og Satirer. Størst Betydning har han dog som
+meget produktiv dramatisk Forfatter. Han har
+skrevet over hundrede Skuespil og
+Bearbejdelser. Her kan nævnes: <i>Still Waters Run Deep</i>
+(1855), <i>The Victims</i> (1857), <i>Our American Cousin</i>
+(1858), <i>The Contested Election</i> (1859), <i>The
+Overland Route</i> (1860), <i>The Ticket-of-Leave
+Man</i> (1863) samt de historiske Dramaer: <i>Joan
+of Arc</i> (1870), <i>Anne Boleyn</i> (1876). Desuden har
+han udgivet Biografier af engelske Kunstnere;
+af Haydon 1853, af C. R. Leslie 1859, Sir Joshua
+Reynolds (sammen med Leslie) 1865, samt en
+<i>Catalogue of the Works of Sir J. Reynolds</i>
+(1869).
+<i>(T. L.). I. O.</i>
+</chapter>
+
+<chapter name="Taylor, Zachary">
+<b>Taylor</b> ['te<sub>i</sub>£ə], <sp>Zachary</sp>, Præsident i
+Nordamerika 1849-50, f. 24. Septbr 1784, d. 9. Juli
+1850. Han var født i Staten Virginia, men
+voksede op i Kentucky og blev 1808 Officer.
+Allerede 1812 blev han Major for at have
+udmærket sig mod Indianerne, og efter at han
+ligeledes havde kæmpet imod dem 1832—37,
+blev han Brigadegeneral. 1845 sendtes han til
+Texas for at værge dets Selvstændighed, gik
+næste Foraar over Rio Grande ind i Mexiko
+og indtog Septbr 1846 Monterey; endelig vandt
+han 22.-23. Febr 1847 en glimrende Sejr ved
+Buena Vista med 5—6000 Mand imod 20000
+under Santa Anna. Til Løn blev han 1848 af
+Whig-Partiet valgt til Unionens Præsident.
+Skønt Sydstatsbo og selv en stor Slaveejer
+arbejdede han dog for et Kompromis mellem
+Nord- og Sydstater om Slaverispørgsmaalet,
+særlig for Kaliforniens Optagelse i Unionen
+som fri Stat, men døde, forinden det kom i
+Stand. Hans Datter ægtede Jefferson Davis
+(s. d.); en Søn blev General i Sydstaternes Hær.
+(<sp>Litt</sp>.: <sp>Howard</sp>, <i>General Taylor</i> [New
+York 1892]).
+<i>E. E.</i>
+</chapter>
+
+<chapter name="Tayloria">
+<b>Tayloria,</b> se <sp>Mosser</sp>, S. 347.
+</chapter>
+
+<chapter name="Taylors Formel">
+<b>Taylors Formel</b> ['te<sub>i</sub>£əs-], ['teites-] (matematisk). Idet
+Funktionen <i>f(x)</i> og dens afledede Funktioner
+<i>f′(x)</i>, <i>f″(x)</i> ... <i>f <sup>n+1</sup> (x)</i> antages at være endelige og
+kontinuerte i Intervallet fra <i>x</i> til <i>x + h</i>, er
+ifølge T. F.:
+<i>f(x + h)</i> = <i>f(x)</i> + <i>f′(x)</i> h/1 + <i>f″(x)</i> <i>h<sup>2</sup></i> ... +
+<i>f<sup>n</sup>(x)</i> <i>h<sup>n</sup></i>/<i>[n]</i> + <i>f<sup>n+1</sup>(x + θ h)</i> <i>h<sup>n</sup>+1/[n+1]</i>, hvor θ betegner
+et positivt Tal, ikke større end 1. Den eng.
+Matematiker Brook Taylor har angivet det
+alm. Led i Udviklingen paa højre Side, medens
+det afsluttende Led, Restledet, er tilføjet af
+Lagrange. Formelen udvides i den moderne
+Funktionslære til komplekse Værdier for <i>x</i> og
+<i>h</i>. Skal T. F. anvendes til Beregning af
+<i>f(x + h)</i>, sættes denne = <i>f(x)</i> + <i>f′(x)</i> <i>h/1</i> +
+<i>f″(x)</i> <i>h<sup>2</sup></i>/1.2 ... + <i>f<sup>n</sup>(x)</i> <i>h<sup>n</sup></i>/<i>[n]</i>, hvor man da maa give
+<i>x</i> en Værdi, for hvilken Funktionen og dens
+afledede Funktioner er bekendte; hyppigst
+sættes <i>x</i> = 0, hvorved man kommer til
+Mac Laurin's og Stirling's Formel. Som Grænse for den
+begaaede Fejl har man den største Værdi, som
+Restledet kan antage. T. F. har mangfoldige
+Anvendelser i Analysen, særlig naar <i>h</i> er meget
+lille, i hvilket Tilfælde nogle faa Led af
+Udviklingen i det væsentlige giver Funktionens
+Variation i Omegnen af <i>f(x)</i>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Taylorsystem">
+<b>Taylorsystem</b> ['te<sub>i</sub>£ə-] var opr. Betegnelsen
+for et særligt Akkordløn- og Arbejdssystem,
+der fik Navn efter sin Ophavsmand, den
+amerikanske Ingeniør F. W. Taylor (s. d.); senere
+har Betegnelsen T. faaet et videre Indhold,
+idet der herunder nu forstaas en særlig
+Organisation af hele en industriel Bedrifts Ledelse;
+samtidig med denne Ændring i
+Begrebsindholdet trænges Betegnelsen T. dog tilbage af det
+mere rammende <i>Scientific Management</i>, en
+Betegnelse, der efterhaanden i nogen Grad synes
+at vinde Indpas i dansk Sprogbrug og vel
+bedst kan oversættes som »rationel
+Driftsledelse«.
+
+Taylor var ikke tilfreds med det alm.
+Akkordsystem, hvorefter Arbejderne betales med et
+vist Beløb pr produceret Vareenhed, idet han
+hævder, at Akkordprisen i Alm. sættes efter et
+Skøn over, hvad en Arbejder kan udføre i et
+vist Tidsrum. Man skal, siger Taylor, ikke
+skønne herover, man skal skaffe sig en
+videnskabelig sikker Maalestok for, hvor lang Tid
+et Arbejdes Udførelse kræver. Dette kan efter
+Taylor's Mening faas ved at opløse
+Arbejdsprocessen i alle dens Enkeltheder, og derefter
+maale den til hver enkelt lille Del af
+Arbejdsprocessen fornødne Tid; efter et Tillæg for
+uundgaaelige Forsinkelser har man da en
+Normaltid for Arbejdets Udførelse, hvorefter
+Akkorden skal sættes. Efterhaanden gik Taylor
+videre; fra at maale den Tid, der maa
+medgaa efter den sædvanlige Arbejdsmetode føres
+han ind paa en Vurdering af, paa hvilken
+Maade Arbejdet lettest og hurtigst kan
+udføres med mindst mulig Anstrengelse for

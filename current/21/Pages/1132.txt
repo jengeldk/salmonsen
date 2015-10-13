@@ -1,0 +1,131 @@
+diffus); de senere opdagede ultrarøde Linier i
+Bergmann-Serien kan skrives 3<i>d</i>—<i>mf</i> (<i>f</i> =
+fundamental, en uheldig Betegnelse), og
+endelig kan Linierne i den skarpe Serie skrives
+2<i>p</i>—<i>ms</i> (<i>s</i> = skarp). En Oversigt giver
+Skemaet Fig. 12 (analogt med Fig. 3 i Kv.), hvor
+hvert Spektralled er markeret ved en Prik,
+hvis Afstand fra Nullinien til højre er
+proportional med Leddets Værdi (Skala foroven).
+Pilene antyder de mulige Overgange, og hver
+Pil repræsenterer altsaa en Linie i Spektret;
+Pilens vandrette Projektion er proportional
+med Bølgetallet for den paagældende Linie, saa
+at en lang Pil betyder kortbølget ultraviolet Lys,
+en kort Pil (som i Bergmann-Serien) betyder
+ultrarødt Lys. At den diffuse og den skarpe
+Serie har samme Grænse, forstaas let, da
+denne Grænse er bestemt ved Afstanden fra 2<i>p</i>
+til Nullinien.
+
+De tidligere som Kombinationslinier
+betegnede Linier, der faas ved andre Kombinationer
+mellem disse Led, kan sammenfattes i lgn.
+Serier, f. Eks. en anden Hovedserie 2<i>s</i>—<i>mp</i>
+o. s. v.; at disse Liniers Seriesamhørighed ofte
+ikke var erkendt, skyldtes, at kun enkelte af
+dem ligger i det synlige Spektrum. Derimod
+viser et normalt Spektrum aldrig
+Kombinationer mellem f. Eks. <i>s</i>- og <i>d</i>- ell. mellem <i>p</i>- og
+<i>f</i>-Led, ej heller mellem to <i>s</i>-Led indbyrdes
+o. s. v., men saadanne virkelige
+Kombinationslinier fremkommer under Paavirkning af ydre
+Forstyrrelser, f. Eks. naar det lysende Atom
+er udsat for et elektrisk Felt.
+
+Et Spektrum af den nu beskrevne Type maa
+hidrøre fra et Atom, der har fl. Rk. af
+stationære Tilstande, Som omtalt i Kv.
+karakteriseres hver Tilstand, altsaa hvert Led, ved visse
+hele Tal, de saakaldte Kvantetal, hvoraf et
+Hovedkvantetal <i>n</i> vokser med 1 fra Led til Led
+i en Serie, medens Bikvantetallet <i>k</i> er fælles
+for alle Led i en Serie og = 1, 2, 3, 4 . . for
+henh. <i>s</i>-, <i>p</i>-, <i>d</i>-, <i>f</i>- . . Serien. En Forklaring paa,
+at Kombinationer, hvor <i>k</i> bliver uforandret ell.
+springer med mere end 1, ikke forekommer i
+det uforstyrrede Atoms Spektrum, men
+optræder under Paavirkning af ydre Forstyrrelser,
+giver Bohr's <sp>Korrespondensprincip</sp>
+(se <sp>Kv.</sp>).
+
+De flg. Alkalimetaller har analogt byggede
+Spektre, idet dog <i>p</i>-, <i>d</i>- . ., men ikke <i>s</i>-Leddene
+bliver dobbelte med voksende Forskel for de
+højere Alkalimetaller. Derved bliver alle Linier
+i Hovedserien ogsaa dobbelte, og Linierne i den
+diffuse Serie maatte endogsaa ventes at være
+4-dobbelte. I Virkeligheden er de kun 3-dobbelte,
+idet kun 3 af de 4 mulige Overgange mellem
+en dobbelt <i>p</i>- og en dobbelt <i>d</i>-Tilstand virkelig
+finder Sted. Dobbeltheden af disse Led kan
+der formelt redegøres for ved at tillægge dem
+forsk. Værdier af et tredje Kvantetal <i>j</i>, og
+Korrespondensprincippet kan da igen forklare,
+at visse af de mulige Kombinationer ikke
+optræder. Imidlertid er netop paa dette Punkt
+Teorien i Øjeblikket ved at undergaa en
+gennemgribende Ændring, der endnu ikke er helt
+afklaret. Et saadant Spektrum kaldes et
+Dubletspektrum. I Virkeligheden er ogsaa
+2<i>p</i>-Tilstanden i Lithium dobbelt, men med yderst
+lille Forskel paa de to tilsvarende Led.
+
+I Hovedtrækkene genfindes alle disse
+Forhold i de andre hidtil analyserede Spektre,
+men mere og mere kompliceret. I de alkaliske
+Jordarter Magnium, Calcium, Strontium og
+Barium og ogsaa i Zink, Cadmium og Kvægsølv er
+Tilstandene med Undtagelse af s-Tilstandene
+3-dobbelte, hvad der giver en Hovedserie af
+Tripletter og en diffus Serie, der kunde
+indeholde 9-dobbelte Linier, men i Virkeligheden
+kun indeholder 6-dobbelte. Desuden findes der
+et Seriesystem af enkelte Linier. De flg.
+Grupper i Grundstoffernes periodiske System har
+endnu mere komplicerede Spektre; for manges
+Vedk. er en fuldstændig Serieopløsning endnu
+ikke gennemført, om end de allersidste Aar
+har bragt overraskende Fremskridt selv for de
+meget linierige Spektre som Jerngruppens. Det
+synes, som hveranden Gruppe i det periodiske
+System har Led med lige, hveranden Gruppe
+Led med ulige Multiplicitet. I saadanne Spektre
+optræder de saakaldte <sp>Multipletter</sp>,
+Grupper af Linier fremkomne ved Kombination
+mellem to flerdobbelte Led; f. Eks. vil to 7-dobbelte
+Led give en Multiplet bestaaende af 18
+Spektrallinier. Men for saadanne Spektre er
+Udviklingen saa uafsluttet, at den ikke egner sig
+til nærmere Omtale her.
+
+d). <sp>Spektre af ioniserede Atomer</sp>
+(»<sp>Gnistspektre</sp>«). Som foran omtalt vil et
+ioniseret Atom (et Atom, der helt har mistet en
+Elektron) have et ganske andet Spektrum end
+det neutrale Atom. Det vil ogsaa besidde
+Rækker af stationære Tilstande, hvor en anden af
+Elektronerne kredser i Baner om Resten af
+Atomet, der, da den indeholder to Elektroner
+for lidt, vil have den dobbelte Ladning af
+Brintkernen. Denne Forskel betinger, at
+Rydbergkonstanten <i>K</i> i Udtrykket for de højere
+Led erstattes af Værdien 4<i>K</i>, altsaa at Leddene
+er tilnærmet 4 Gange saa store som de
+tilsvarende Brintled, idet den større Ladning i
+Atomresten fastholder Elektronen stærkere, saa at
+der kræves større Energi for at fjerne den. De
+meget større Led vil give meget større
+Bølgetal, saa at Spektrets Hovedlinier ligger langt
+ude i ultraviolet og det synlige Spektrum kun
+indeholder Linier svarende til Overgange
+mellem højere Tilstande. Men bortset herfra maa
+man vente, at det ioniserede Atoms stationære
+Tilstande har en vis Lighed med de stationære
+Tilstande for det neutrale Atom af det foreg.
+Stof i det periodiske System, da det betragtede
+ioniserede Atcm og det foreg, neutrale Atom
+har lige mange Elektroner, som derfor maa
+vise Lighed i Grupperingen. Det ioniserede
+
+<img>Fig. 12. Lithiumspektrets Spektralled.</img>

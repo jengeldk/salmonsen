@@ -1,0 +1,154 @@
+derefter enten passe (og kaste sine Kort) ell.
+melde: jeg ser dem (ɔ: Haanden, Kortene),
+hvorved han erklærer, at han holder samme
+Beløb imod, ell. højne foreg. Spillers Bud
+(ligeledes med let Beløb, der højst er lig
+Budgrænsen). De efterfølgende Spillere kan derefter
+passe, holde det sidst højnede Beløb ell.
+yderligere højne til Budgrænsen; Turen kommer
+saaledes atter til den Spiller, hvis Bud først
+blev højnet; han maa enten passe ell. højne op
+til det sidst højnede Beløb ell. højne yderligere
+indtil op til Budgrænsen. Budene fortsættes, til
+ingen yderligere højner, hvorefter de Spillere,
+som stadig er fulgt med ved Indskuddene,
+lægger deres Kort aabenlyst paa Bordet, og den,
+der har de værdifuldeste Kort, har vundet hele
+Pouillen. — De forsk. Kortkombinationer følger
+efter hinanden fra den daarligste til den
+værdifuldeste saaledes: 1) ingen Kombinationer; 2) 1
+Par (f. Eks. 2 Damer); 3) 2 Par (f. Eks. 2
+Konger, 2 Ottere); 4) 3 af een Slags (f. Eks. 3
+Syvere); 5) »Straight«, ɔ: 5 paa hinanden flg.
+Kort uden Hensyn til Farve (f. Eks. Dame, en
+10, en 9, en 6, en 2); 6) »Flush«, ɔ: 5 Kort i
+samme Farve uden Hensyn til deres Værdi (f.
+Eks. 5 Rudere); 7) »Full band«, ɔ: 3 af een Slags
+og 1 Par (f. Eks. 3 Femere og 2 Konger); 8) 4
+af een Slags (f. Eks. 4 Knægte); 9) »Straight
+flush«, ɔ: 6 paa hinanden flg. Kort i samme
+Farve (f. Eks. Spader 10, 9, 8, 7 og 6); 10)
+»Royal flush«, ɔ: straight flush, begyndende med
+et Es (f. Eks. Hjerter Es, Konge, Dame,
+Knægt, 10).
+<i>Carl Br.</i>
+</chapter>
+
+<chapter name="Pokkenholt">
+<b>Pokkenholt</b> ['påk<sub>ə</sub>nhålt], se <sp>Guajaktræ</sp>.
+</chapter>
+
+<chapter name="Pokrov">
+<b>Pokrov</b> [pa'kråf], By i Storrusland, Guv.
+Vladimir, ligger i en skovrig og sumpet Egn og
+driver nogen Handel. 3000 Indb.
+<i>N. H. J.</i>
+</chapter>
+
+<chapter name="pokulere">
+<b>pokulere</b> (af lat. <i>poculum</i>, et Bæger), drikke,
+svire.
+</chapter>
+
+<chapter name="Pol (se Poler)">
+<b>Pol,</b> se <sp>Poler</sp>.
+</chapter>
+
+<chapter name="Pol (mat.)">
+<b>Pol</b> (mat.). Ved Keglesnittene vil de Punkter,
+der tillige med et givet Punkt deler Korder
+gennem det givne Punkt harmonisk, ligge paa
+en ret Linie; det givne Punkt kaldes P. for
+Linien som <sp>Polar</sp>. Polaren gaar gennem
+Røringspunkterne for de to Tangenter fra P. til
+Keglesnittet; til hver Linie som Polar svarer
+altsaa ét Punkt som P. og omvendt. Gaar et
+Punkt A's Polar gennem et andet Punkt B, vil
+B's Polar gaa gennem A. Ved en Keglesnitsflade
+svarer til et vilkaarligt Punkt som P. en
+<sp>Polarplan</sp>, defineret paa samme Maade som
+Polaren og gaaende gennem Røringskeglesnittet
+for den om Keglesnitsfladen omskrevne
+Kegleflade, der har Toppunkt i P. Den
+<sp>reciprokke Polarfigur</sp> til en given Figur m. H. t.
+en Keglesnitsflade dannes af Polerne og
+Polarplanerne til den givne Figurs Planer og
+Punkter. Til Punkter i samme Plan ell. samme rette
+Linie i den ene Figur svarer i den anden Figur
+Planer gennem samme Punkt ell. samme rette
+Linie; Dobbeltforhold i den ene Figur er lige
+store med de tilsvarende Dobbeltforhold i den
+anden. Fra Egenskaber ved den ene Figur kan
+man altsaa slutte sig til Egenskaber ved den
+anden; denne Metode til Overførelse af
+Sætninger, der skyldes Poncelet, giver samme
+Resultater som Dualiteten (s. d.), men tænker sig en
+bestemt indbyrdes Beliggenhed af de dualistisk
+forbundne Figurer. Paa analog Maade kan man
+i en Plan danne reciprokke Polarfigurer m. H. t.
+et Keglesnit i Planen. Teorien om P. og Polar,
+hvis Grundlag allerede findes i Oldtidens gr.
+Geometri, er væsentlig opbygget af De la Hire
+og (for Keglesnitsfladerne) af Monge. Den er af
+Bobillier og Plücker udvidet til alle plane
+algebraiske Kurver og danner Fundamentet for
+disses alm. Teori. Et Punkt <i>O</i> har m. H. t. en
+Kurve af <i>n</i>'te Orden en 1. Polarkurve af Ordenen
+<i>n—1</i>, der gaar gennem Røringspunkterne for
+Tangenterne fra <i>O</i> til Kurven, en 2. Polarkurve
+af Ordenen <i>n—2</i>, der afledes af den 1. paa
+samme Maade som denne af den forelagte Kurve
+o. s. v., endelig en retlinet <i>n—1</i>'te Polar,
+<sp>Polarlinien</sp>. Paa en vilkaarlig Sekant gennem
+<i>O</i> vil den reciprokke Værdi af <i>O</i>'s Afstand fra
+Skæringspunktet med Polarlinien være
+Middeltallet af de reciprokke Værdier af <i>O</i>'s Afstande
+fra Skæringspunkterne med Kurven; falder <i>O</i>
+uendeligt fjernt, er Polarlinien Diameter (s. d.)
+for Korder i Retningen ud til <i>O</i>. Analoge
+Definitioner bruges ved de algebraiske Flader. I den
+sfæriske Geometri forstaas ved en
+<sp>Storcirkels</sp> P. Endepunkterne af Diameteren
+vinkelret paa Storcirklens Plan. Ved en <sp>P. for en
+Funktion</sp> <i>f(x)</i> forstaas et Punkt i Planen,
+hvis Punkter fremstiller <i>x</i>'s Værdier, i hvilket
+<i>f(x)</i> bliver uendelig, medens 1/<i>f(x)</i> er kontinuert i
+Punktets Omegn.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Pol, Wincenty">
+<b>Pol</b> [pål], <sp>Wincenty</sp>, polsk Digter
+(1807—72). Fra Barndomshjemmet i Lemberg var P.
+fortrolig med polske og tyske Digtere. Kun 23
+Aar gl fik han Lærestolen i tysk Litteratur i
+Vilna; grebet af den store romantiske Tro til
+Fremtiden deltog han i Oprøret 1831 og
+flygtede siden til Dresden, traf sammen med Adam
+Mickiewicz og Claudia Potocka og blev selv
+Digter. Hans Digtsamling: »Pieśni Janusza«
+(Paris 1833), »Janus' Sange«, vandt ham med
+eet Slag stort Ry. Det var hede, trodsige
+Krigssange fra Oprøret, der intet Forlig kender med
+Fjenden, Kamp til Sejr ell. Død. Fra Dresden
+kom han atter tilbage til Hjemlandet og hans
+mange Rejser overalt i de polske Landsdele
+affødte nu dels »Obrazy z życia i podróży«
+(»Billeder fra Liv og Færden«), digtede under det
+varme Indtryk af Bjergfolkets Liv i
+Karpatherne, dels hans mest læste og kendte Digt »Pieśn
+o ziemi naszej« (»Sangen om vort Land«) 1843, en
+af varm Fædrelandskærlighed inspireret Serie
+Landskabs- og Folkebilleder fra Polen. P.'s
+Patriotisme blev imidlertid mere og mere en
+blind Forgudelse af svundne Tider. En stærk
+Tendens i den Retning viste allerede hans 1839
+udgivne »Przygody Benedykta Winnickiego«
+(»Benedikt Winnickis Oplevelser«), som trods
+en øjensynlig Objektivitet dog er en Apoteose
+af gammel polsk Aandsliv. Personlige
+Oplevelser fremskyndede P.'s Udvikling i reaktionær
+Retning, og da han 1846, skønt fuldkommen
+uskyldig i den galiziske Adels Oprørsforsøg,
+sammen med sin Hustru blev mishandlet af
+den raa forbitrede Almue og siden længe sad i

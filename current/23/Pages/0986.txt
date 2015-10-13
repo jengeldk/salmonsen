@@ -1,0 +1,172 @@
+Konstruktionen hviler udelukkende paa mekaniske
+Principper, og kan karakteriseres som en Forening
+af tre forskelligartede grafiske
+Reproduktionsmaader: Skrivemaskinen, Sættemaskinen og
+Bogtrykhurtigpressen. Grundmaterialet er
+Bogtryktyper, anbragte paa omkring 9 cm lange
+Metalstave med 12 Skrifttegn paa hver.
+Skrifttegnene staar lodret under hinanden, og mellem
+hvert enkelt er der en rund Fordybning, der,
+ligesom paa Sættemaskinmatricer med to
+Skrifttegn, sammen med en Lineal regulerer
+deres vandrette Stilling paa Linierne, medens
+en paa langs gaaende Fordybning paa
+Metalstavenes ene Side styrer Stavenes frem- og
+tilbagegaaende Bevægelse under Produktionen.
+Stavene er i det fornødne Antal samlede i
+Magasiner, der let kan ombyttes med andre,
+omfattende forskellige Skriftformer og Størrelser,
+og Maskinen kan indstilles paa enhver ønskelig
+Formatbredde inden for Maksimalmaalet, og
+med forskellig Skydning mellem Linierne.
+Typerne stilles paa Plads i Reguleringslinealen
+ved Nedtrykning af Tangenter, af hvilke
+Maskinen indeholder i alt 60, der hver styrer to
+Typer. Et Klokkeslag varsler Arbejderen, naar
+den givne Linie er færdig til Videreførelse, men
+i Modsætning til Sættemaskinerne, hvor
+Reguleringen til den absolut nøjagtige Formatbredde
+iværksættes ved Ordmellemrummenes større
+eller mindre Udspiling af Kiler eller konisk
+formede Ringe, foregaar Reguleringen af
+Typarlinierne ved Ordmellemrummenes Indsnævring.
+Paa T. varsles Arbejderen nemlig først, naar
+Linien er lidt bredere end den fastsatte
+Liniebredde, og Mellemrumstyperne har derfor
+paa den ene Side en Fjeder, som, i samme
+Øjeblik Linien føres bort til Trykapparatet,
+klemmes saa meget sammen, som den rette
+Formatbredde kræver. Liniernes Indfarvning sker ved
+en Valse med almindelig Bogtrykfarve, og
+Altrykningen paa Papir foregaar ligeledes
+automatisk. Fejl anslagne Skrifttegn kan under
+Arbejdet rettes, men Korrekturændringer
+forlanger Omsætning og Aftrykning med efterfølgende
+Indklæbning paa de forskellige Steder af
+Papirstrimlerne, og Billeder, hvad enten de er
+Originaltegninger eller forud reproducerede,
+indklæbes paa samme Maade. Typaraftrykkene
+lader sig endnu ikke direkte overføre paa
+Zinkplade for senere Mangfoldiggørelse ad
+litografisk Vej, men maa først gøres egnet dertil ved
+at behandles efter Typonmetoden (se <sp>Typon</sp>).
+Herved bliver Fremstillingen lige saa
+omstændelig som i den almindelige
+Bogtrykteknik, og i kunstnerisk Henseende kan
+Typarmetoden ikke staa Maal med godt
+Boghaandværk.
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="Type">
+<b>Type</b> (græsk), Grundbillede, Forbillede,
+Mønster, Grundform.
+</chapter>
+
+<chapter name="Type (Typografiens Grundelement)">
+<b>Type,</b> Typografiens Grundelement. En T.
+bestaar af et <sp>Legeme</sp> (engelsk <i>body</i>, fransk:
+<i>corps</i>), en firkantet Stav, støbt af en
+Blylegering (se <sp>Skriftstøbning</sp>) med et
+<sp>Skriftbillede</sp> (engelsk: <i>letter</i>, fransk: <i>caractère</i>)
+paa den ene Endeflade. Typer uden
+Skriftbillede kaldes <sp>Blindtyper</sp> eller
+<sp>Udslutninger</sp> (engelsk: <i>justifiers</i>, fransk: <i>espaces</i>).
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="Typehuse">
+<b>Typehuse,</b> <sp>Standardhuse</sp>; for at opnaa
+Besparelser i Bygningsudgifterne har der i de
+sidste Aar været gjort Forsøg med at bygge T.,
+hvor de enkelte Dele fremstilles efter
+Standardmaal.
+</chapter>
+
+<chapter name="Typeteorien">
+<b>Typeteorien</b> (kemisk) var nærmest en
+Klassifikationsmaade for de kemiske
+Forbindelser og er blevet Grundlaget for Udviklingen af
+Begrebet <sp>Valens</sp> (s. d. og <sp>Kemi</sp>). De
+simpleste Brintforbindelser er de Typer, der ligger
+til Grund for Ordningen, og under dem
+indordnes alle andre Forbindelser, idet
+Brintatomerne erstattes af andre Atomer eller Radikaler.
+Oprindelig opstillede Gerhardt Typerne HH,
+ClH, OH<sub>2</sub> og NH<sub>3</sub>; det viste sig snart, at de to
+første hørte til samme Type, hvorfor ClH
+kunde bortfalde som Grundtype; derimod maatte
+man optage CH<sub>4</sub> som fjerde Grundtype. Til
+disse Grundtyper sluttede sig da ClH, SH<sub>2</sub>,
+PH<sub>3</sub>, SiH<sub>4</sub> o. s. v., og ved Erstatning af
+Brintatomerne i disse forskellige Typer med andre
+Atomer kunde mangfoldige Forbindelser
+indordnes under et fælles Skema. Saaledes afledes
+<table>
+<td>Alkohol<td r>C<sub>6</sub>H<sub>5</sub><br>H<td>} O af Vand <td>H<br>H<td>} O ved Erstatning af
+</table>
+<table>
+<td>et Brintatom med C<sub>2</sub>H<sub>5</sub>, Æter <td>C<sub>2</sub>H<sub>5</sub><br>C<sub>2</sub>H<sub>5</sub><td>} O ligeledes
+</table>
+af Vand ved Erstatning af begge Brintatomer med
+<table>
+<td>C<sub>2</sub>H<sub>5</sub>; Anilin <td c>C<sub>6</sub>H<sub>5</sub><br>H<br>H<td>} N af Ammoniak <td>H<br>H<br>H<td>}N ved
+</table>
+<table>
+Erstatning af et Brintatom med C<sub>6</sub>H<sub>5</sub> o. s. v. For
+de fleratomige Alkoholers Vedkommende indførte
+<table>
+<td>man <sp>multiple Typer</sp>, f. Eks. <td>H<sub>2</sub><br>H<sub>2</sub><td>}O<sub>2</sub>, hvoraf
+</table>
+<table>
+<td>afledes <td c>C<sub>2</sub>H<sub>4</sub><br>H<sub>2</sub><td>}O<sub>2</sub>, Glykol. Senere indførte Kekulé
+</table>
+<table>
+<td>blandede Typer f. Eks. Klorbrintevand <td r> <sub>O</sub>H<br>H<br>ClH<td>,
+</table>
+<table>
+<td>hvoraf f. Eks. kan afledes<td>O<br><br>Cl<td>}<td>H<br>SO<sub>2</sub>. Men T. var dermed
+</table>
+gaaet ud over sin egen Grænse og blev naturlig
+afløst af Valensteorien.
+<i>(O. C.). S. P.</i>
+</chapter>
+
+<chapter name="Typha">
+<b>Typha</b> [-fa], Tourn. (<sp>Dunhammer</sp>, norsk
+<sp>Dunkjevle</sp>), Slægt af Dunhammerfamilien
+med lange, liniedannede Blade uden tydelig
+Midtnerve, en valseformet Blomsterkolbe og
+haarformet Bloster samt Nødfrugt, der spredes
+ved Hjælp af det blivende Bloster. C. 12
+Arter. <i>T. latifolia</i> L. (<sp>Bredbladet D.</sp>), er
+1—2 m høj og har 10—15 mm brede Blade.
+Hunblomsterne sidder tæt neden for
+Hanblomsterne. Den vokser langs Aabredder, i Søer og
+Tørvegrave meget almindelig i Danmark,
+sjælden i Norge; blomstrer i Juli. <i>T. angustifolia</i>
+L. (<sp>Smalbladet D.</sp>) er af samme Højde og
+vokser lignende Steder som foregaaende, men
+er mindre hyppig; den kaldes sammen med
+foregaaende folkeligt <sp>Muskedonner</sp>,
+<sp>Dunnemosser</sp>, <sp>Flægkølle</sp> m. m. Bladene er
+4—8 mm brede; Han- og Hunblomster er
+adskilte ved et 2—3 cm langt Mellemrum.
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Typhaceæ">
+<b>Typhaceæ,</b> se <sp>Dunhammerfamilien</sp>.
+</chapter>
+
+<chapter name="Typhlichthys">
+<b>Typhlichthys,</b> [ty'fliktys], se <sp>Hulefisk</sp>.
+</chapter>
+
+<chapter name="Typhlops">
+<b>Typhlops</b> [-flops], se <sp>Ormeslanger</sp>.
+</chapter>
+
+<chapter name="Typhlopsylla">
+<b>Typhlopsylla</b> [-flo-], se <sp>Lopper</sp>.
+</chapter>

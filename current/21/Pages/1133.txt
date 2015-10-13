@@ -1,0 +1,139 @@
+Atoms Spektrum vil delvis være overlejret det
+neutrale Atoms Spektrum i Spektret af kraftige
+Gnister, saa at man her har Forklaringen paa,
+at Stoffernes Gnistspektre hyppigt indeholder
+fl. Linier end deres normale saakaldte
+Buespektre. Nu bruges Betegnelserne I, II, III
+o. s. v. om det neutrale, enkelt ioniserede og
+dobbelt ioniserede Atoms Spektrum o. s. v.
+Erfaringen bekræfter det her anførte. Specielt
+er Stof Nr 2 Heliums Gnistspektrum, Spektret
+<i>HeII</i>, bygget ganske som Brintspektret, blot
+med Værdien 4<i>K</i> i St f. <i>K</i> og derfor med hver
+Serie med 4 Gange kortere Bølgebredder end
+den tilsvarende Brintserie. Forklaringen
+herpaa var som omtalt i Kv. en anden af Bohr's
+Teoris tidligste Triumfer. En Mængde af de
+andre Stoffers Gnistspektre er analyseret af
+Fowler. I den nyeste Tid er det lykkedes
+Millikan at frembringe og analysere Spektre af
+4-, 5-, 6- og 7-dobbelt ioniserede Atomer, og
+han finder netop den ventede Lighed med de
+foreg. Stoffers Spektre, spec. Skiften mellem
+lige og ulige Multiplicitet. Disse Spektres
+Linier ligger p. Gr. a. de meget høje Værdier
+af Leddene i det yderste ultraviolette Omraade.
+For mange let ioniserbare Stoffer er allerede
+deres normale Spektrum en Blanding af
+Spektret af neutrale og ioniserede Atomer, hvad der
+vanskeliggør Analysen af Spektrene.
+
+3. <sp>Molekylspektre</sp>
+(<sp>Baandspektre</sp>). En lille Del af et typisk Baandspektrum,
+nemlig Cyanspektret, er vist paa Tavlen Fig. 7.
+Baandspektrene er overordentlig linierige
+Liniespektre, hvor Linierne falder i adskilte
+Grupper og inden for hver Gruppe er ordnede paa
+ganske bestemt Maade, hyppigst saaledes at de
+ophober sig tættere og tættere hen imod en
+bestemt Grænse. Hvis Baandspektret indeholder
+talrige saadanne Grupper (Baand), der igen er
+ordnet regelmæssigt, kan det set i et
+Spektroskop med lille Spredning, saa at de enkelte
+Linier især i Nærheden af Kanten ikke ses
+adskilte, faa en vis Lighed med en fra Siden
+belyst kanneleret Søjle, hvorfor saadanne
+Spektre tidligere har været kaldt kannelerede
+Spektre; smlg. Tavlens Fig. 8, der viser
+Baandspektret af Kobberklorid med lille Spredning.
+Baandspektre udsendes fra <sp>Molekyler</sp>.
+Man maa ogsaa om Molekyler antage, at
+Lysemissionen finder Sted under Molekylets
+Overgang fra en stationær Tilstand til en anden,
+men det ny, der kommer til her, er, at Molekylet,
+som indeholder fl. Atomkerner, samtidig kan
+rotere, og denne Rotation paavirker
+Lysudsendelsen, saaledes at Baandspektret fremkommer,
+som nærmere omtalt i Kv. S. 18. Desuden
+kan Svingninger af Atomkernerne i Forhold
+til hinanden give Anledning til Lysemission
+ell. Absorption, der ogsaa af Rotationen
+opløses til Baand, men disse ligger i ultrarødt.
+Endelig giver selve Rotationen meget langt ude
+i ultrarødt beliggende Rotationsbaand. Den
+kvanteteoretiske Forklaring paa disse
+Svingnings- og Rotationsbaand skyldes Bjerrum, og
+Teoriens Udvidelse til at omfatte de synlige
+Baand skyldes især Schwarzschild og
+Heurlinger. Imidlertid er hverken Teorien for ell.
+Undersøgelserne af Baandspektre saa vidt
+gennemført som for de egl. Liniespektre, men der
+er ikke Tvivl om, at den videre Udvikling af
+Kendskabet til Baandspektrene vil give lige saa
+vigtige Oplysninger om Molekylernes Bygning
+og Forhold, som Liniespektrene har givet for
+Atomerne.
+
+For at fremkalde et Stofs Baandspektrum maa
+det bringes til at lyse under saadanne
+Betingelser, at dets Molekyler kan bestaa som
+saadanne, i Reglen maa altsaa Temp. ikke være
+for høj. For nogle Grundstoffers Vedk. er
+Baandspektret lettere at fremkalde og mere
+fremtrædende end Liniespektret; det gælder
+saaledes Kvælstof. Ogsaa Brintmolekylet har
+et Baandspektrum, det saakaldte
+Mangeliniebrintspektrum; her er p. Gr. a. Brintmolekylets
+ringe Inertimoment de enkelte Linier i
+Baandene spredt saa stærkt fra hinanden, at det
+længe ikke var erkendt som et Baandspektrum.
+Kulbuelampens Spektrum indeholder vigtige
+Baand, hidrørende bl. a. fra Cyan; det er
+Energien af disse Baand i ultraviolet, der især
+betinger dens Anvendelse til Finsenbehandling.
+I mange Tilfælde optræder Baand og Linier
+sammen i et Stofs Spektrum, saaledes i
+Spektret af de fleste Kobberforbindelser; det viser,
+at under de i Lyskilden herskende Betingelser
+maa foruden Atomer ogsaa Molekyler enten af
+Grundstoffet ell. af kem. Forbindelser deltage
+i Emissionen.
+
+<sp>Absorptionsspektre</sp>. Et
+Absorptionsspektrum fremkommer, naar kontinuert
+Lys, f. Eks. fra en Buelampes glødende Kul, et
+Auernet ell. anden Lyskilde med kontinuert
+Spektrum, passerer gennem et Stof, der
+absorberer Dele af Spektret. Undersøgelsen af
+Absorptionsspektre beskæftiger sig da naturligvis
+med de Dele af Spektret, som mangler. Hvor
+i Straalernes Vej det absorberende Stof
+anbringes, er ligegyldigt, det kan anbringes mellem
+Lyskilden og Spektroskopets Spalte, inde i
+Spektroskopet ell. mellem Okularet og Øjet. En
+alm. rød Glasplade giver et
+Absorptionsspektrum, hvis synlige Del kun omfatter det røde i
+det opr. Spektrum, en blaa Glasplade ell. en
+blaa Opløsning, f. Eks. Kobbersulfat, et
+Absorptionsspektrum, hvor det blaa og
+Nabofarverne er usvækkede, og hvor især det gule er
+absorberet, saaledes at Blaadingsfarven af,
+hvad der slipper igennem, er blaat. De fleste
+faste og flydende Stoffer giver saadanne
+Absorptionsspektre med Absorption i ret brede
+Omraader af Spektret. For et bestemt Stof
+afhænger Absorptionsspektrets Udseende tillige
+af Tykkelsen af det absorberende Lag og for
+Opløsninger ogsaa af Koncentrationen. Herfor
+gælder <sp>Lambert</sp>'s Lov, at lige tykke paa
+hinanden flg. Lag af det absorberende Stof
+absorberer samme Brøkdel af det i hvert Lag
+indfaldende Lys' Intensitet, og for Opløsninger
+tillige <sp>Beer</sp>'s Lov, at Absorptionen er bestemt
+ved Produktet af Lagtykkelse og Koncentration,
+idet den alene afhænger af den Mængde opløst
+absorberende Stof, som Lyset passerer. Den
+sidste Lov er dog kun tilnærmelsesvis rigtig.
+Et tyndt Lag af en svag Opløsning af
+Kaliumpermanganat giver et Absorptionsspektrum med
+fl. uskarpe Absorptionsbaand i det grønne; ved

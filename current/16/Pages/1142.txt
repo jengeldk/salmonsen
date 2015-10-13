@@ -1,0 +1,20 @@
+<table>
+<td 7 c><sp>BIND XV</sp>.
+<td>Side<td>198,<td>Spalte<td>2,<td>Linie<td r>8 f. n.<td>1609 læs: 1600
+<td c>—<td>434,<td c>—<td>1,<td c>—<td r>23 f. o.<td>1808'erne læs; 1880'erne
+<td c>—<td>656,<td c>—<td>2,<td c>—<td r>28 f. n.<td><sp>Media</sp> læs: <sp>Medium</sp>
+</table>
+
+<table>
+<td 7 c><sp>BIND XVI</sp>.
+<td>Side<td r>22,<td>Spalte<td>2,<td>Linie<td r>20 f. o.<td v7>ell. st. E. læs: elst. E. (ɔ: elektrostatiske Enheder)
+<td c>—<td r>23,<td c>—<td>1,<td c>—<td r>34 f. o.
+<td c>—<td r>23,<td c>—<td>1,<td c>—<td r>35 f. o.
+<td c>—<td r>23,<td c>—<td>1,<td c>—<td r>28 f. n. 
+<td c>—<td r>23,<td c>—<td>1,<td c>—<td r>17 f. n.
+<td c>—<td r>23,<td c>—<td>1,<td c>—<td r>14 f. n.
+<td c>—<td r>23,<td c>—<td>1,<td c>—<td r>2 f. n.
+<td c>—<td r>59,<td c>—<td>2,<td c>—<td r>2 f. n.<td>Maksimalarbejdsuge læs: Maksimalarbejdstid
+<td c>—<td r>219,<td c>—<td>1,<td c>—<td r>6 f. n.<td>Babbinowicz læs: Rabbinowicz
+</table>
+</chapter>

@@ -1,0 +1,168 @@
+<chapter name="Vindsked">
+<b>Vindsked</b> (<sp>Vindski</sp>) (norsk), Tværfjæl
+paa Enden af et Tag.
+</chapter>
+
+<chapter name="vindskæv">
+<b>vindskæv</b> kaldes i Geometrien en Polygon
+eller Kurve, der ikke er plan, d. v. s. ikke har
+alle sine Punkter i samme Plan.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="vindskæve Flader">
+<b>vindskæve Flader</b> (mat.). En Flade kaldes
+v., naar den kan beskrives af en ret Linie,
+<sp>Frembringeren</sp>, der ikke under sin
+Bevægelse stadig rører en fast Kurve eller gaar
+gennem et fast Punkt, i hvilke Tilfælde Fladen
+bliver udfoldelig. Frembringerens Bevægelse
+er hyppig bestemt ved, at den stadig skærer
+visse <sp>Ledekurver</sp> eller rører visse
+<sp>Ledeflader</sp> bestemte Antal Gange; det samlede
+Antal af Skæringer og Berøringer maa være 3.
+Trækkes gennem et Punkt Paralleller med alle
+en v. F.'s Frembringere, danner de en
+Kegleflade, den v. F.'s <sp>Retningskegle</sp>, der
+specielt kan blive en <sp>Retningsplan</sp>. Som
+Eksempler kan nævnes de v. Hyperboloider og
+Paraboloider, der har tre rette Ledelinier;
+Konoiderne med en Retningsplan og en ret
+Ledelinie, mellem dem Kuglekonoiden med en Kugle
+til Ledeflade; de v. Skrueflader (se
+<sp>Skrueflader</sp>), hvis Retningskegle er en
+Omdrejningskegleflade. Tangentplanen i et vilkaarligt
+Punkt paa en v. F. indeholder hele den
+derigennem gaaende Frembringer, og enhver Plan
+gennem Frembringeren er Tangentplan i et af
+dens Punkter; mellem disse Planer fremhæves
+<sp>Asymptoteplanen</sp> med uendelig fjernt
+Røringspunkt og den derpaa vinkelrette
+<sp>Centralplan</sp>, hvis Røringspunkt kaldes
+<sp>Centralpunktet</sp>. Betegnes dette ved <i>C</i>, et
+vilkaarligt Punkt paa Frembringeren ved <i>A</i> og
+Vinkelen mellem Tangentplanen i <i>A</i> og
+Centralplanen ved <i>v</i>, er <i>CA</i> = <i>R. tgv</i>, hvor <i>R</i> er
+konstant for samme Frembringer. Det geometriske
+Sted for Frembringernes Centralpunkter kaldes
+Striktionslinien.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Vindslugning">
+<b>Vindslugning,</b> se <sp>Krybbebiden</sp>.
+</chapter>
+
+<chapter name="Windsor">
+<b>Windsor</b> ['win(d)zə], By i det sydlige
+England i Berkshire, 34 km Vest for London ved
+Themsens højre Bred. Ved en Bro staar W. i
+Forbindelse med den berømte Skoleby Eton paa
+venstre Themsbred. (1921) 20115 Indbyggere.
+Der findes Kavaleri- og Infanterikaserner,
+Latinskole, og i Byens Nærhed ligger Godserne
+Cumberland Lodge, Frogmore og W. Forest.
+Mest berømt er W. dog for sit kongelige Slot,
+<sp>Windsor Castle</sp>, der ligger paa en lav,
+men stejl Kalkhøjde ved Themsen og ganske
+dominerer Byen og den lave Omegn. Paa
+Skraaningerne er der i Terrasser anlagt
+Parker. Allerede de angelsachsiske Konger havde
+en Borg i W.; men det nuværende Slot skyldes
+Vilhelm Erobreren; det udvidedes af Henrik
+III, ombyggedes fuldstændig af Georg III
+omkring 1344 og restaureredes 1824 af Sir Jeffrey
+Wyatville. Slottet dækker næsten 5 ha og er
+ved det saakaldte runde Taarn delt i en øvre
+og en nedre Gaard; omkring den øvre Gaard
+ligger den kongelige Residens, i den nedre
+Gaard findes Kapeller og Buegange. Blandt
+Kapellerne bemærkes St. George's Chapel, hvor
+Hosebaandsriddere optages og Ordenskapitulet
+holdes. Det er bygget i sengotisk Stil under
+Edvard IV, fuldført under Henrik VIII,
+restaureret under Georg III, og anses for den
+smukkeste gotiske Bygning i England. Her
+ligger en Række engelske Konger og Dronninger
+begravede. Ø. f. St. George's Chapel ligger
+Albert Memorial Chapel, bygget af Henrik VII til
+Edvard Confessor, dog først fuldført af
+Dronning Victoria, hvis Gemal begravedes her 1861,
+men senere overførtes til Frogmore Mausoleum.
+1910 begravedes Edvard VII her og 1925
+Dronning Alexandra. I sit Ydre har Slottet med
+sine lave, svære, runde Taarne et strengt og
+middelalderligt Udseende, men den skønne
+Udsigt over Parkterrasserne og Themsen mildner
+Indtrykket. I N. og Ø. ligger the Home Park
+med Frogmore House. I S. ligger den 720 ha
+store W. Great Park med en 4 km lang Allé
+og en 3 1/2 km lang kunstig Sø, Virginia Water.
+— Byen W. hed tidligere Windlesore eller
+Wyndsor efter Themsens Slyngninger og
+Serpentiner. Skønt W. er af meget gammel
+Oprindelse, findes ingen betydelige Bygninger ud
+over Slottet. (<sp>Litt</sp>.: <i>Willmores new Guide to
+Windsor Castle</i>. F. Muirhead. England [<i>The
+Blue Guides</i>] 2. Udgave [London 1924]).
+<i>M. H-n.</i>
+</chapter>
+
+<chapter name="Windsor">
+<b>Windsor</b> ['win{d)za], Navn paa flere Byer
+i U. S. A., og Dominion of Canada, af hvilke
+nævnes 1) W. i Prov. Ontario, ligger ved Detroit
+River, lige over for Byen Detroit i U. S. A.
+(1921) 38391 Indb. W. ligger i en yderst frugtbar
+Egn med et behageligt Klima og driver en Del
+Handel og Industri. — 2) By i Provinsen Nova
+Scotia, ligger 55 km NV. f. Halifax ved en lille
+Forgrening fra den nordl. Del af Fundy-Bugten
+samt ved Banen fra Halifax til Annapolis og
+Yarmouth. (1921) 3591 Indbyggere. King's
+College, det ældste oversøiske engelske Universitet,
+grundedes 1788 i W., men er 1923 flyttet til
+Halifax og forenet med Dalhousie Univ. W.
+har Udførsel af Gips.
+<i>(H. P. S.). G. Ht.</i>
+</chapter>
+
+<chapter name="Vindspiller">
+<b>Vindspiller,</b> en mindre og spinklere Art
+Mynde; bruges som Stuehund.
+<i>(H. F. J.).</i>
+</chapter>
+
+<chapter name="vindstille Bælte">
+<b>vindstille Bælte,</b> se <sp>Kalmer</sp>.
+</chapter>
+
+<chapter name="Vindstyrke">
+<b>Vindstyrke</b> (Søv.). Til Søs angives V. efter
+Beaufort's Skala, saaledes kaldet efter den
+engelske Admiral Beaufort, der har konstrueret
+den. Styrken angives i Tal fra 0—12 og tillige
+efter den Sejlføring, en Raasejler kunde føre
+under bi de Vind Sejlads; saaledes at 0
+betyder Stille, 1 laber Kuling, 2 laber Bramsejls,
+3 Bramsejls, 4 Merssejls, 5 rebet Merssejls,
+6 torebet Merssejls, 7 trerebet Merssejls, 8
+klodsrebet Merssejls, 9 Undersejls Kuling, 10
+Storm, 11 orkanagtig Storm, 12 Orkan. (Smlg.
+<sp>Vind</sp> og <sp>Vindstyrkemaaler</sp>).
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Vindstyrkemaaler">
+<b>Vindstyrkemaaler,</b> <sp>Anemometer</sp>,
+<sp>Anemograf</sp>, Apparat til Maaling af Vindstyrken,
+d. e. Hastigheden af de med Vinden
+strømmende Luftmasser. Vindstyrken angives enten i m
+pr. Sekund eller efter en vilkaarlig 12-delt
+Skala. Hosstaaende Skala er den, der benyttes ved
+det danske meteorologiske Institut. V. er alle
+relative, d. v. s. de angiver ikke direkte
+Vindstyrken, men maa først justeres, d. v. s., at
+deres Visning prøves, ved at Apparatet
+anbringes i en kunstig frembragt Luftstrøm af kendt
+Styrke, se i øvrigt Artiklen <sp>Vind</sp>.

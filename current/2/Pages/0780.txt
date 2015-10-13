@@ -1,0 +1,139 @@
+altsaa betegner det umiddelbare <sp>B.-Afkom</sp>.
+Derved er at bemærke, at <i>F</i><sub>2</sub>-Generationen
+forudsættes dannet enten ved Selvbefrugtning af
+<i>F</i><sub>1</sub>-Individerne (saaledes oftest hos Planter)
+ell. ved Parring af Individer hørende til samme
+<i>F</i><sub>1</sub>-Kuld, der jo normalt har samme
+Anlægspræg (saaledes hos Dyr og særkønnede
+Planter). Dermed er Forudsætningerne givne for
+en videre Behandling af B.'s Forhold.
+
+5) Det er kun meget sjældent, at de to
+<i>P</i>-Individer blot afviger fra hinanden i en eneste
+Henseende, saaledes som i de i Art. Arvelighed,
+Side 185 omtalte Bønne- og Løvemund-B. I
+sidstnævnte Tilfælde kan <i>P</i>-Individerne, som
+det der blev anført, betegnes ved henh. <i>RR</i>
+og <i>rr</i>. Ved en saadan Betegnelse tænkes
+selvfølgelig alene paa <sp>Forskellen</sp> mellem de
+to <i>P</i>-Individers Anlægspræg; de utallige
+Overensstemmelser i Anlægspræget imellem dem
+tages der intet Hensyn til. Her foreligger
+altsaa rene Regnskabs-Formler, egnede til at
+præcisere den givne Forskel. Spaltningsforløbet
+kan nemlig nu, idet vi her, rent alment, bruger
+Bogstaverne <i>A</i> og <i>a</i> i St f. Eksemplets <i>R</i> og <i>r</i>,
+opstilles saadan:
+<table>
+<td c><sp>Generation</sp><td><sp>Individernes Anlægspræg</sp>
+<td c><i>P</i><td c><i>AA</i> og <i>aa</i>
+<td c><i>F</i><sub>1</sub><td c><i>Aa</i>
+<td c><i>F</i><sub>2</sub><td c><i>AA</i>, <i>Aa</i>, <i>aA</i> og <i>aa</i>
+</table>
+
+<i>F</i><sub>2</sub>-Generationen vil altsaa bestaa af 1 <i>AA</i> +
+2 <i>Aa</i> + 1 <i>aa</i> pro 4. Hvor <i>AA</i> og <i>Aa</i> har samme
+Fremtoningstype vil man altsaa have 3 præget
+af <i>A</i>: 1 præget af <i>a</i>. Dette Talforhold, 1:2:1 ell.
+(1:2):1. udtrykker en fundamental
+Lovmæssighed: <sp>B-Spaltningsloven</sp> ell. den
+<sp>Mendelske Regel</sp>. Til Illustration hidsættes
+hosstaaende <sp>Fig. 2</sp>, der, med et Eksempel
+fra Dyreriget, ogsaa viser Generationen <i>F</i><sub>3</sub>'s
+Forhold. Først af dette Forhold fremgaar det
+tydeligt, at Spaltningen hos <i>F</i><sub>2</sub>-Generationen
+virkelig har været »ren«, idet de afspaltede
+Individer <i>AA</i>, resp. <i>aa</i>, efter Parring med ens
+beskafne kun giver Afkom af samme Natur
+som de selv. De har altsaa været ensdobbelte
+ligesom <i>P</i>-Individerne.
+
+I disse enkle, let overskuelige Tilfælde vil
+de rene Ophavsracer tydeligvis efterhaanden
+blive mere og mere stærkt repræsenterede
+Slægtled efter Slægtled; i <i>F</i><sub>3</sub>-Generationen er
+der saaledes kun 1/4 uensdobbelte, nemlig paa
+16 kun 4 (jfr Fig. 2) mod 12 ensdobbelte, 6 af
+hver Slags. I <i>F</i><sub>4</sub> vil der kun findes 1/8, i <i>F</i><sub>5</sub>
+kun 1/16 uensdobbelte o. s. v. Alt dette under
+Forudsætning af, at der, som her, kun er et
+eneste Forskelspunkt mellem <i>P</i>-Racerne, og
+at der, vel at mærke, kun sker Selvbefrugtning
+ell. Parring af ens anlægsprægede Individer.
+Er der derimod ganske fri, tilfældig Parring,
+saa vil — som det let kan ses ved at opgøre
+de forsk. Muligheder — Forholdet fra <i>F</i><sub>2</sub>
+forblive uforandret Slægt efter Slægt. Selvfølgelig
+forudsættes lige stor Frugtbarhed hos alle
+Slags Individer  uden denne Forudsætning
+kan man naturligvis intet alment Skema
+opstille.
+
+6) De <sp>iagttagne Talforhold</sp> ved
+B.-Spaltningen er ofte i den skønneste
+Overensstemmelse med det, der kan ventes efter
+Forudsætningen om, at alle de paagældende
+Kombinationer af Anlægsprægs-Elementer er lige
+sandsynlige. <sp>Mendels</sp> eget Eksempel med
+Krydsning af to Ærteracer, hvis Frø var henh.
+gule, glatte og grønne, rynkede (se
+<sp>Arvelighed</sp>, Side 185), gav i <i>F</i><sub>2</sub> alle de fire mulige
+Kombinationer saaledes fordelt:
+
+Der fandtes bl. i alt 556 Frø:
+<table>
+<td>Gule, glatte<td r>315<td>= 9,06 paa 16.
+<td>Gule, rynkede<td r>101<td>= 2,91 paa 16.
+<td>Grønne, glatte<td r>108<td>= 3,11 paa 16.
+<td>Grønne, rynkede<td r>32<td>= 0,92 paa 16.
+</table>
+
+Dette passer meget godt med Fordelingen
+9:3:3:1 paa 16, idet Afvigelserne falder langt
+inden for de Tilfældigheds-Grænser, som
+Sandsynlighedslæren her maa betegne som
+uundgaaelige. Det nævnte Talforhold fremkommer,
+idet man kombinerer alle de her mulige
+Ægcelle-Anlægspræg med alle de mulige
+Sædcelle-Anlægspræg. Da her er Tale om to
+Forskelspunkter, der viser sig ved 
+Forskellene Gul—Grøn og Glat—Rynket, vil <i>F</i><sub>1</sub> være to Gange
+uensdobbelt, altsaa have Formlen <i>Aa</i>, <i>Bb</i> . . . .,
+naar <i>A</i> betegner det Element, der her betinger
+»Gult«, og <i>B</i> betegner det Element, der her
+betinger »Glat«. Prikkerne antyder blot, at der
+er meget mere i Anlægspræget, som vi ikke
+ved denne Beregning skal tage Hensyn til.
+Svarende til det i Art. Arvelighed, Side 185,
+anførte, vil herefter kunne opstaa 4 forsk.
+Anlægspræg hos Kønscellerne, nemlig <i>A,B</i>; <i>A,b</i>;
+<i>a,B</i> og <i>a,b</i>. Men fire forsk. Ægceller,
+kombineret med fire forsk. Sædceller, giver 16 mulige
+befrugtede Æg, som det ses af flg. Oversigt:
+<table>
+<td><sp>Ægcellens Anlægspræg</sp><td c 4><sp>Sædcellens Anlægspræg</sp>
+<td><td c>A, B<td c>A, b<td c>a, B<td c>a, b
+<td c>A, B<td c>AA, BB<td c>AA, Bb<td c>Aa, BB<td c>Aa, Bb
+<td c>A, b<td c>AA, Bb<td c>AA, bb<td c>Aa, Bb<td c>Aa, bb
+<td c>a, B<td c>Aa, BB<td c>Aa, Bb<td c>aa, BB<td c>aa, Bb
+<td c>a, b<td c>Aa, Bb<td c>Aa, bb<td c>aa, Bb<td c>aa, bb
+</table>
+
+Idet nu her ingen personlig Forskel kan ses
+imellem Ærte-Individer, der har <i>A</i> i enkelt ell.
+dobbelt Dosis — de er alle gule —, og idet det
+samme gælder m. H. t. Elementet <i>B</i> — disse
+Ærter er alle glatte —, saa ser man let, at
+Talforholdet 9:3:3:1 maa fremkomme. Thi de 9
+af de 16 Kombinationer har baade <i>A</i> og <i>B</i>,
+være sig i dobbelt ell. enkelt Dosis; 3 har alene
+<i>A</i>, dobbelt ell. enkelt; andre 3 har alene <i>B</i>, og
+1 af de 16 savner ganske baade <i>A</i> og <i>B</i>.
+
+Naar saaledes et Element i Anlægspræget kan
+gøre sig gældende, hvad enten det er enkelt ell.
+dobbelt til Stede, siges det at vise
+<sp>Dominans</sp>. Man har ogsaa ofte talt om en
+»dominerende Egenskab«. Her vil da <i>A</i> og <i>B</i> vise
+Dominans (over <i>a</i> resp. <i>b</i>), og »Gult«, resp.
+»Glat« vilde man kalde dominerende Egenskaber

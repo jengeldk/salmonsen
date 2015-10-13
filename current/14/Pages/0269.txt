@@ -1,0 +1,146 @@
+godt ske under Gangen, thi derved sker intet
+Stød, den drevne Aksel standser ikke straks,
+den løber langsommere og langsommere, indtil
+den omsider staar stille.
+
+<sp>Friktions-K.</sp> kan derimod indrykkes
+under Gangen. Den har ligesom Tand-K. to
+Dele, den ene fastkilet paa den drivende Aksel,
+den anden forskydelig paa den drevne, men
+i St f. Tænder har de to Koblingsdele Flader,
+som presses imod hinanden, og den derved
+frembragte Friktion overfører Bevægelsen.
+
+Her er der ingen Ulemper ved Indrykning
+under Gangen, idet den drevne Aksel lidt
+efter lidt gaar i Gang, indtil den fulde Hastighed
+er naaet, og indtil da glider Friktionsfladerne
+paa hinanden. Denne Glidning er uundgaaelig,
+den betinger netop den lempelige
+Igangsætning, men naar den drevne Aksel har faaet
+sin fulde Hastighed, maa der <sp>ingen
+yderligere Glidning ske</sp>, det vilde give ikke
+blot Arbejdstab, men ogsaa Varmeudvikling og
+Slid paa Friktionsfladerne, saa K. hurtigt vilde
+ødelægges. Tilspændingen maa derfor være saa
+kraftig, at den frembragte Friktion er rigelig
+stor i Forhold til den drevne Aksels
+Modstand. Der gives mange Former af Friktions-K.,
+lige fra ganske simple til ret indviklede
+Konstruktioner, der især bruges, hvor der skal
+overføres store Kræfter.
+
+En Friktions-K. kan ogsaa bruges til at
+tilvejebringe ell. ophæve Forbindelsen mellem en
+Maskindel, f. Eks. en Remskive og den Aksel,
+hvorpaa den sidder løs.
+
+Endelig, bruges Friktions-K. som
+<sp>Sikkerheds-K.</sp> til at hindre Brud paa Maskineriet,
+hvis Modstanden bliver uformodet stor.
+Saaledes indskydes ved Muddermaskiner en
+Friktions-K. mellem Motor- og Spandkæde; hvis da
+denne støder mod en Sten, der gør absolut
+Modstand, vil det kun bevirke, at
+Friktionsfladerne glider paa hinanden.
+<i>S. C. B.</i>
+</chapter>
+
+<chapter name="Kobling (i Jernbaneteknikken)">
+<b>Kobling</b> benævnes i Jernbaneteknikken
+alle de Konstruktionsdele, gennem hvilke der
+kan etableres indbyrdes Forbindelse — med et
+hvilket som helst Formaal for Øje — mellem
+de enkelte Jernbanekøretøjer. De vigtigste
+Koblingskonstruktioner er dog de saakaldte
+<sp>Trækapparater</sp>, som i Forbindelse med
+<sp>Stødapparaterne</sp> (<sp>Bufferne</sp>) tjener til at
+holde et Togs enkelte Køretøjer sammen, og
+hvorigennem altsaa Lokomotivets Trækkraft
+overføres til de efterfølgende Køretøjers de
+forplanter Bevægelsen fra det forreste til det
+bageste Køretøj og tillader efter Behov en
+Samling ell. Adskillelse af disse. Af andre K.
+kan nævnes de K., som danner Forbindelse
+mellem Jernbanekøretøjernes Ledninger for de
+automatiske, gennemgaaende Bremser, for
+Opvarmningen, for den elektriske Belysning, for
+Interkommunikationssignalerne (s. d.) m. v.
+
+Trækapparaternes Konstruktion og
+Anordning er forsk., efter som de skal anbringes
+mellem Lokomotiv og Tender ell. mellem Tender
+og Vogne samt disse sidste indbyrdes. Naar
+der ses bort fra Anvendelse af Tove, er
+Jernkæder ell. -stropper den oprindeligste Form
+for disse K.; de var fastgjorte til Køretøjernes
+Bufferplanker (se <sp>Jernbanevogne</sp>) og
+hægtedes ind i faste Kroge paa de tilstødende
+Køretøjers Bufferplanker; undertiden var
+Krogene erstattede med faste Gaffelstykker, i hvilke
+K.'s Kædeled anbragtes; en løs Bolt blev da
+stukket gennem Kædeleddet og de i Gaflen
+værende Huller. Det varede dog ikke længe, før
+man nødtes til — for at mildne Stødene under
+Igangsætning o. l. — at indskyde Fjedre mellem
+Krog (Gaffel) og Bufferplanke; denne
+Konstruktion danner Grundlaget for de nu anvendte
+elastiske Trækapparater, medens de uelastiske
+nu kun anvendes undtagelsesvis ved
+Arbejdsvogne og paa Baner af underordnet Bet. samt i
+noget større Antal paa gl., amer. Godsvogne,
+men her dog i Forbindelse med
+Midtbuffersystemet (se ndf.). Da Lokomotiv og tilhørende
+Tender som Regel danner et samlet Hele, der
+kun sjældent (f. Eks. ved forefaldende
+Reparation) skilles ad, medens Vogne derimod hyppigt
+skal kunne kobles sammen og fra hinanden,
+har der i Tidernes Løb udviklet sig 2
+Hovedarter af Trækapparater, som hver især skal
+tilfredsstille særlige Betingelser.
+
+K. mellem Lokomotiv og Tender maa være
+saaledes konstrueret, at den saa meget som
+muligt ophæver de forekommende Stød- og
+Slingrebevægelser og de to Køretøjers
+Sideforskydninger i Forhold til hinanden samtidig med,
+at den ikke hindrer de som Følge af
+Fjederophængningen (s. d.) optrædende Variationer i
+Køretøjernes indbyrdes Højdestilling. Den
+simpleste Form for en saadan K. er en Trækstang,
+hvis ene Ende er fastgjort til det ene Køretøj,
+og hvis anden Ende er forsynet med et Øje,
+der griber om en Bolt, anbragt lodret i det
+andet Køretøjs Trækkasse (se ndf.); denne K.
+kan dog kun bruges paa Banestrækninger med
+ringe Sporkrumninger. Almindeligvis anvendes
+derfor løse Koblingsstænger med et Øje i hver
+Ende, hvorigennem Koblingsboltene anbringes;
+der findes ofte fl., f. Eks. 3 Stænger, af hvilke
+saa den midterste kaldes
+<sp>Hovedtrækstangen</sp> ell. <sp>Hovedkoblingsstangen</sp>,
+medens de 2 andre anbringes i en Afstand af 150
+til 500 mm til hver Side for denne; de 2
+<sp>Sidekoblingsstænger</sp> skal kun tjene som
+Reserve, hvis Hovedkoblingen sprænges, og er
+derfor ikke saa svære; de er i den ene Ende
+forsynet med et aflangt Hul, saaledes at de
+kan tillade Lokomotivets tvangfri Passage
+gennem Sporkurverne; i St f. de 2
+Sidekoblingsstænger kan der ogsaa anvendes 2 Kæder
+(<sp>Nødkæder</sp>). Slingrebevægelserne, der
+særlig optræder, ved Lokomotiver med kort
+Hjulstand og lange overhængende Ender, har man
+paa forsk. Maade søgt mildnet, f. Eks. gennem
+Anbringelse af de saakaldte
+<sp>Slingrebuffer</sp>, hvis Konstruktion kan være forsk., idet
+f. Eks. Bufferne kan anbringes parallelt eller
+dannende en Vinkel med Lokomotivets
+Midtlinie. I øvrigt findes en Mængde forsk. K.,
+konstrueret af <sp>Pohlmeyer</sp>, <sp>Dubs</sp>, <sp>Goodal</sp>,
+<sp>Copestake</sp>, <sp>Stradal</sp>, <sp>Polonceau</sp>, <sp>v.
+Borries</sp>, <sp>Hartmann</sp>, <sp>Tilp</sp>, <sp>Behne</sp> og
+<sp>Kool</sp> m. fl. De danske Statsbaner anvender
+ved deres nyere, store Persontogslokomotiver
+den i Fig. 1 viste Konstruktion. Lokomotivets
+<sp>Trækkasse</sp> (tilhøjre) er af Staalstøbegods

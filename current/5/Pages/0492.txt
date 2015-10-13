@@ -1,0 +1,79 @@
+Brændslet teoretisk kan udvikle ved fuldstændig
+Forbrænding; denne Virkningsgrad er afhængig
+af Kedlens Konstruktion og ligger mellem 0,5
+og 0,8.
+
+De forsk. Kedeltyper, der anvendes, kan
+henføres til flg. Hovedgrupper:
+<sp>Lavtrykskedler</sp>, <sp>Cylindriske Kedler</sp>,
+<sp>Ildrørskedler</sp> og <sp>Vandrørskedler</sp>.
+Lavtrykskedlen er den ældste Kedeltype og er kun
+bestemt til Damptryk i Nærheden af Atmosfærens
+Tryk, hvorfor der ved Formens Bestemmelse
+ikke er taget særlig Hensyn til Styrken. Fig. 1
+viser Watt's Lavtrykskedel, den saakaldte
+<sp>Koffertkedel</sp>, som fremkom i Slutn. af 18.
+Aarh. og nu kun har hist. Interesse. Selve
+Kedlen <i>K</i> er indmuret og omgivet af Ildkanalerne
+<i>I</i>, som fører Røgen først ind under Kedlen og
+derpaa langs Siderne af denne til Skorstenen;
+Risten <i>R</i> er anbragt i den ene Ende under
+Kedlen.
+
+Den cylindriske Kedel, der opr. stammer fra
+England, men benyttes meget her til Lands, er
+i Alm. forsynet med indvendige Ildkanaler, som
+fører ind gennem Kedlens Vandrum, saaledes
+at Hedefladen forøges. Afhængig af Kedlens
+Størrelse findes der een ell. to indvendige
+Ildkanaler, og Kedlen benævnes derefter henh.
+<sp>Cornwall</sp>- ell. <sp>Cornisk-Kedel</sp> og
+<sp>Lancashire</sp>- ell. <sp>Fairbairn-Kedel</sp>. Fyret
+kan være anbragt under Kedlen, og Røgen gaar
+da først hen under denne, derefter gennem
+Ildkanalen og langs Kedlens Sider bort til
+Skorstenen. Det alm. er dog, at Fyret er anbragt
+i Ildkanalens forreste Ende, som vist i Fig. 2 og
+Fig. 3. Røgen passerer først gennem Ildkanalen
+og gaar derefter enten som vist i Fig. 2 gennem
+Kanaler i Murværket langs Kedlens Sider og
+ud under Bunden af Kedlen bort til
+Skorstenen, ell. ogsaa gaar den som vist i Fig. 3
+frem langs Kedlens ene Halvpart og tilbage langs
+den anden. En yderligere Forøgelse af
+Hedefladen kan opnaas ved at anbringe
+Cirkulationsrør, saakaldte <sp>Galloway-Rør</sp>, tværs gennem
+Ildkanalen, som vist i Fig. 2.
+
+Ildkanalen faar under Brugen en højere
+Temp. end Kedlens Yderskal, og dens
+Udvidelse vil da foraarsage Spændinger i Kedlens
+Endebunde og give Anledning til Utætheder.
+Ved lange Kedler kan man formindske disse
+Spændinger ved at dele Kanalen i fl. Længder
+og gøre Forbindelsen mellem de enkelte
+Længder elastisk; saaledes er paa Kedlen i Fig. 2
+Kanalernes Ender opflangede og
+sammennittede om en smal Ring, der har en noget større
+Lysning end Kanalen. Den bedste Maade at
+undgaa Spændingerne paa er dog Anvendelsen
+af en bølgeformet Ildkanal som den i Fig. 3
+viste, der ved Siden af en fuldkommen
+Elasticitet giver en større Hedeflade end den
+tilsvarende glatte Kanal. Større Kedler
+udføres nu næsten udelukkende med
+saadanne Bølgekanaler efter System
+Fox, Morison, Purves og Deighton (se
+Fig. 4). Kedlens Endebunde er i nyere
+Kedler hvælvede og forsynede med optagne Kraver til
+Forbindelse med Yderskal og Ildkanaler. Som
+Eksempel paa Dimensionerne for en
+større cornisk Kedel kan nævnes: Ydre
+Diameter 2,0 m, Længde 8,5 m og Ildkanalens
+Diameter 1,0 m. Tykkelsen af Staalpladerne er
+i Kedlens cylindriske Dele 18 mm for et
+
+<img>Fig. 1. Watt's Lavtrykskedel.</img>
+<img>Fig. 2. Cylindrisk Kedel med Galloway-Rør.</img>
+<img>Fig. 3.</img>
+<img>Fig. 4.</img>

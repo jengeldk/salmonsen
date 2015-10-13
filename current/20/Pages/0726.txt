@@ -1,0 +1,108 @@
+omdannes til R.; Resten bliver til Varme i <i>P</i>.
+En Del af Katodestraalerne reflekteres spredt
+fra <i>P</i> og træffer Glasvæggen foran <i>P</i>, hvor de
+fremkalder Fluorescens og tillige svage R., den
+saakaldte Glasstraaling, der kan genere noget
+ved Fotografering, hvor det gælder om at have
+en punktformig Straalekilde for at faa skarpe
+Skyggebilleder. Medens Kvaliteten af R. fra et
+R.-rør hovedsagelig er bestemt af den anvendte
+Spænding, er Mængden (R.'s Styrke ell.
+Intensitet) tillige bestemt af Strømstyrken. Strøm og
+Spænding lader sig imidlertid ikke regulere
+uafhængig af hinanden for et Rør som det her
+beskrevne, der kaldes et <sp>Ion</sp>- (Gas-) <sp>rør</sp> ell.
+et Rør med selvstændig Udladning. Alt kommer
+her an paa Luftresten i Røret, idet det er de
+faa altid i Luftresten tilstedeværende Ioner, der
+betinger Udladningen; de faar Fart af
+Spændingen, fremkalder ved Stød mod Luftmolekyler
+nye positive Ioner og negative Elektroner, de
+positive drives mod Katoden og frigør
+Elektroner o. s. v. (se <sp>Katodestraaler</sp>). Jo
+haardere Røret er udpumpet, altsaa jo lavere
+Lufttryk, des højere Spænding skal bruges for at
+drive Røret, og des mere gennemtrængende
+(»haardere«) R. faas. Men under Brugen
+svinder Luftresten i Røret uophørligt, adsorberes
+især af Glasvæggen, saa at man maa have en
+Regenererindretning til at slippe smaa
+Luftmængder ind i Røret under Brugen. Heraf
+haves forsk. Konstruktioner. I nogle sendes
+Udladninger gennem særlige i et Siderør anbragte
+Stoffer, der afgiver lidt Luft under
+Udladningerne; Bauer's Ventil bestaar af et lille Stykke
+porøst Stof indsmeltet i Rørvæggen, men
+normalt afspærret ved Kvægsølv; naar dette
+Kvægsølv fjernes ved Lufttryk, siver lidt Luft ind. Nu
+benyttes hyppigst Osmoregulering: i
+Glasvæggen er indsmeltet et lille, udadtil lukket
+Palladiumrør, som, naar det er glødende, lader Brint
+diffundere gennem sig. Man opvarmer det da
+blot i en lille Gasflamme, saa diffunderer Brint
+fra Flammen ind i R.-røret. En saadan
+Regulering kan ske automatisk, idet man f. Eks., naar
+Strømstyrken gennem Røret er bleven for lille,
+ved at Trykket derinde er faldet, kan lade et
+Relais slutte Strøm til en Elektromagnet, der
+aabner for Gassen, som tændes af en lille
+stadig brændende Flamme. — I Praksis anvendes
+en Mængde forsk. Rørkonstruktioner. Til
+Diagnostik kræves især en punktformig
+Straalekilde, altsaa god Samling af Katodestraalerne, for
+at faa skarpe Skyggebilleder; tillige kræves, at
+Røret i kort Tid kan taale meget store
+Belastninger. Til Terapi er Straalekildens Størrelse
+uden Bet., der kræves derimod, at Røret er
+indrettet til langvarig Drift. Den meget store
+Varmeudvikling i Antikatoden kræver virksom
+Køleindretning. Bedst er de saakaldte Kogerør,
+Fig. 2. Den hule Antikatode og en i Forbindelse
+dermed staaende Beholder <i>B</i> indeholder Vand,
+der koger under Driften og derved bortskaffer
+Varmen. Ogsaa Katoden, der rammes af de
+positive Ioner, bliver varm og maa køles ved
+Køleribber e. l. Fig. viser tillige
+Osmoreguleringen; Palladiumrøret <i>O</i> i Midten er omgivet
+af Metaltraad til Beskyttelse. Øvrige Bogstaver
+har samme Bet. som i Fig. 1. Disse Ionrør
+fortrænges nu mere og mere af
+<sp>Coolidgerørene</sp>. Et saadant er vist skematisk i Fig.
+3. Det er saa stærkt udpumpet, som Teknikken
+tillader, og indeholder da saa faa Ioner, at der
+ingen selvstændig Udladning kan finde Sted
+selv ved Anvendelse af meget høje Spændinger.
+Katoden <i>C</i> er en lille Spiral af Wolframtraad.
+Naar denne glødes ved elektrisk Strøm, f. Eks.
+fra det forneden viste Batteri, udsender den
+Elektroner i stort Tal (Termioner). Disse drives
+af den store Spændingsforskel mellem <i>C</i> og
+Antikatoden <i>A</i> over mod denne og frembringer
+R. Røret <i>M</i> dirigerer Elektronstrømmen, saa at
+den samles i en lille Plet paa <i>A</i>. I et
+Goolidgerør disponeres uafhængigt over R.'s Styrke og
+Kvalitetet. Styrken er bestemt ved
+Elektronernes Antal, altsaa ved Glødetraadens Temp., der
+reguleres ved Glødestrømmens Styrke.
+Kvaliteten er bestemt ved den anvendte
+Spændingsforskel mellem <i>C</i> og <i>A</i>, der bestemmer
+Elektronernes Fart. Fig. 4 viser et Coolidgerør til
+Diagnostik med Køleribber paa Antikatoden. I
+Reglen er Wolframklodsen indfældet i en
+Kobberstang, der giver bedre Varmeledning. Særlige
+Konstruktioner af Coolidgerør, hvor
+Elektronerne samles i en linieformet Plet paa Antikatoden,
+giver meget skarpe Skyggebilleder. Til
+videnskabelige Anvendelser bruges hyppigt R.-rør
+af Metal, kun med et Glasrør indskudt mellem
+Katode og Antikatode for Isolationens Skyld;
+Huset kan da ogsaa være vandkølet, saa at
+Røret kan taale stor Belastning og dog være
+ganske lille, saa at man kan komme tæt til
+Antikatoden og faa stor Intensitet. Nylig har
+
+<img>Fig. 2. Kogerør med Osmoregulering.</img>
+
+<img>Fig. 3. Coolidgerør, skematisk.</img>
+
+<img>Fig. 4. Coolidgerør til Diagnostik.</img>

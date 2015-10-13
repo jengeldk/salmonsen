@@ -1,0 +1,141 @@
+D. danner Overgang til <sp>Drejemaskiner</sp>,
+til hvilke for øvrigt henvises.
+<i>F. W.</i></chapter>
+
+<chapter name=”Drejeevne”>
+<b>Drejeevne.</b> Et Skibs D. er dets Evne til
+hurtig at kunne foretage en Drejning. Den maales
+ved Diameteren af den Cirkellinie, Skibet
+gennemløber under Drejningen,
+<sp>Drejningsdiameteren</sp>, og ved den Tid, der medgaar
+til en fuld Drejning paa 360°. D. er afhængig
+af Skibsformen, Størrelsen af Rorarealet,
+Skibets Hastighed og Skibets Inertimoment
+om en lodret Akse gennem Tyngdepunktet,
+samt af Skibsskruernes Virkning. En stor
+Længde, stort Dybtgaaende, skarpe For- og
+Agterskibslinier samt Slingrekøle o. l. formindsker D.
+Af to ens Skibe med ulige store Inertimomenter
+drejer det, som har det mindste Inertimoment,
+bedst (d. v. s. det Skib, som har de sværeste
+Vægte liggende nærmest ved Skibets Midte). For
+Krigsskibe, som skal sejle i Eskadre, er det
+vigtigt at kende Skibenes D. ved forsk.
+Hastigheder, og der bliver derfor med saadanne Skibe
+foretaget <sp>Drejningsprøver</sp>. Paa disse Prøver
+bestemmes a) <sp>den taktiske Diameter</sp>,
+d. v. s. Afstanden mellem Skibets Kurslinie før
+Drejningen og efter en Drejning paa 180°, b)
+Diameteren af Skibets endelige Drejningscirkel,
+<sp>Drejningsdiameteren</sp>, og c) den Tid,
+der medgaar til Drejningen.
+Drejningsdiameteren er fra 3-5 Gange Skibets Længde for
+Smaafartøjer og fra 5-10 Gange denne Længde for
+større Skibe.
+<i>H. P. C.</i></chapter>
+
+<chapter name=”Drejehage”>
+<b>Drejehage,</b> Drejestaal med et c. 600 mm
+langt Skaft, anvendes til at dreje tykke
+Spaaner af større Genstande af Metal. Selve Staalet
+er bøjet opad som en Hage; det støttes med
+sin Nakke mod Forsætteren og med Skaftet
+mod Arbejderens Skulder, saa at han har
+begge Hænder fri til at føre Værktøjet mod
+Arbejdsstykket. Alt efter Arbejdets Art
+anvendes <sp>Skrubhage</sp>, <sp>Slethage</sp> ell.
+<sp>Spidshage</sp>.
+<i>F. W.</i></chapter>
+
+<chapter name=”Drejekors”>
+<b>Drejekors</b> bruges som selvlukkende
+Spærreindretning ved Niveauovergange over en
+Jernbane. Det bestaar af en lodret Stolpe, der
+foroven bærer en Jerntap, hvorom et vandret Kors
+af to sammenbladede Stykker Tømmer kan
+dreje sig. Korset slutter med ringe Spillerum
+til Stolper ved begge Sider, saa man kun kan
+passere ved at dreje det 1/4 Omdrejning. I St
+f. D. bruges nu oftere selvlukkende Laager, som
+spærrer i hele Højden, og som Børn og mindre
+Dyr derfor vanskeligere kan passere. Paa
+Hovedbaner er D. o. l. at betragte som en Uting,
+idet den uhindrede Passage over Sporene, som
+foregaar gennem disse Indretninger, under
+Nutidens stærke Trafik i Virkeligheden
+indeholder en Fare for de Paagældende. Paa de
+danske Statsbaner findes navnlig fra ældre Tid et
+ikke ubetydeligt Antal D., men disse søges
+fjernede, efterhaanden, naar Lejlighed gives, f.
+Eks. hvor der haves Ekspropriationshjemmel
+som Følge af et Dobbeltsporanlæg.
+<i>J. F.</i></chapter>
+
+<chapter name=”Drejekurve”>
+<b>Drejekurve,</b> jernbaneteknisk Betegnelse for
+et Sporsystem, hvorved Lokomotiver, Vogne ell.
+hele Tog kan vendes - uden Brug af Drejeskive
+- saaledes at For- og Bagenden skifter Plads.
+
+Simplest, men mest pladsslugende er
+Sporsløjfen (Fig. 1). Et af de mest storstilede
+Anlæg af denne Art findes i Sydbanegaarden i
+Boston, hvor Forstadstogene i Underetagen
+gennemløber en Ring. I beskeden Form findes de
+hyppigt ved Sporveje.
+
+Mere kunstig er Sportrekanten (Fig. 2), der
+bestaar af 3 Spor, sammenløbende i 3 Spidser,
+hvor Sporene to og to forenes ved et
+Sporskifte. Et Lokomotiv, der gennemløber den i
+Fig. viste Sportrekant, f. Eks. saaledes som
+Pilene angiver, vil, naar det kommer tilbage til
+Udgangspunktet, være vendt fremefter i en
+Retning, der er modsat den tidligere. En
+Sportrekant optager ikke saa stor Plads som en
+Sporsløjfe, men den kræver et to Gange
+gentaget Retningsskifte i Bevægelsen. - En
+Sportrekant fremkommer i øvrigt ogsaa, hvor 3
+Baner skal forenes, saaledes at hver af disse
+staar i Forbindelse med begge de andre.
+<i>J. F.</i></chapter>
+
+<img>
+Fig. 1.</img>
+
+<img>
+Fig. 2.</img>
+
+<chapter name=”Drejemaskine”>
+<b>Drejemaskine</b> indbefatter i videre Forstand
+enhver til Drejning bestemt Maskine, altsaa
+saavel Drejestol som Drejebænk; særlig
+forstaas ved D. den mek. Drejebænk ell.
+Maskindrejebænken, som drives fra en Transmission
+ved et Forlagstøj, har automatisk Bevægelse af
+Staalet og hyppig store Dimensioner, - Krupp's
+dobbelte D. er 40 m lang, hans store
+Plandrejemaskine kan dreje Stykker med indtil 14 m
+Diameter, St. Chamond's kan dreje 20 m lange
+Blokke, - og Vægte op til Hundredtusinder af
+kg, medens Drejestolen kun vejer c. 1/2 kg.
+Fig. 1 viser skematisk en middelstor D.
+indrettet til Cylinderdrejning og Plandrejning,
+hvorfor den ogsaa kaldes <sp>kombineret D</sp>.
+Stillingen er af Støbejern og har tre Ben <i>a</i>1, to
+Vanger <i>A</i>, som er nedbøjede (»forkrybbede«)
+nærmest Spindelen for at muliggøre Drejning
+af et kort Arbejdsstykke, hvis Radius er større
+end Spidshøjden ɔ: Drejeaksens (<i>s</i>1-<i>s</i>2) Højde
+over Vangerne (<i>S</i>). Gabet ses ofte delvis
+udfyldt af en <sp>Bro</sp>. Vangerne har et vinkelformet
+ell. et T-formet Tværsnit, længst til venstre er
+Spindeldukken <i>B</i> fastboltet paa dem, hen ad
+deres Overflade glider Forsætteren <i>D</i>. Paa
+højre Side er den forskydelige Pinol- (egl.
+Spinol-)dukke <i>C</i> fastgjort til dem; ved
+»Længde mellem Spidserne«, der i Forbindelse med
+Spidshøjden karakteriserer D., forstaas den
+største Afstand <i>L</i>, man kan bringe Pinolspidsen
+i fra Spindelspidsen. Større D. mangler
+Fødderne <i>a</i>1, Vangerne staar altsaa paa Gulvet,

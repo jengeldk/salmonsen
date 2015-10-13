@@ -1,0 +1,74 @@
+<table>
+<td r>358,<td c>1,<td>Linie<td r>3 f. o.<td>ved Lov fastsat læs: fastsat at svare
+<td r>383,<td c>2,<td>Linie<td r>32 f. o.<td>med læs: eller
+<td c>—<td c>2,<td c>—<td r>19 f. n.<td>og læs: af
+<td r>476,<td c>1,<td>Linie<td r>22 f. n.<td>kontrære læs: kontradiktoriske
+<td r>573,<td c>2,<td>Linie<td r>31 f. n.<td>Efter »Ordførerne« indskydes »for Forslaget«
+<td r>668,<td c>2,<td>Linie<td r>21 f. o.<td>Arnold læs: Arnoldt
+<td r>736,<td c>1,<td>Linie<td r>26 f. o.<td><b>Kromann</b> læs: <b>Kroman</b>
+<td c>—<td c>1,<td c>—<td r>27 f. o.<td>Mariager læs: Maribo
+<td r>914,<td c>2,<td c>—<td r>25 f. o.<td>á læs: à
+<td c>—<td c>2,<td c>—<td r>13 f. n.<td>Celloluid læs: Celluloid
+</table>
+
+<table>
+<td 5 c><sp>BIND XV</sp>.
+<td>Side<td>Sp.
+<td r>21,<td c>2,<td>Linie<td r>8 f. n.<td>højere læs: højre
+<td r>41,<td c>2,<td c>—<td r>4 f. o.<td>Efter E. E.'s Artikel tilføjes: K. er blevet fremmet gennem<br>den fælles nordiske Familieretslovgivning, som paabegyndtes i 1910. Dette<br>gælder især Kommissionernes Udkast af 1918 til Love om Ægteskabets<br>Retsvirkninger. Disse fastholder Formuefællesskabets Idé ved under Skifte at<br>give Mand og Hustru lige Del i Formuen; men, medens Ægteskabet<br>varer, raader hver Ægtefælle over, hvad den ejede ved Vielsen ell. senere har<br>erhvervet, være sig ved Arv, Gave ell. eget Arbejde. Endvidere<br>indeholder de svenske og danske Udkast af 1918 Regler om<br>Forældremyndigheden, der stiller Ægtefællerne ganske lige. De svenske Udkast blev til Lov<br>i Juni 1920. I Norge er endnu intet forelagt om Retsvirkningerne. I<br>Danmark forelagdes i 1919 i Folketinget en hel Ægteskabslov, der bl. a.<br>omfattede Retsvirkningerne; den vedtoges i Folketinget, men kom ikke<br>videre. Det for K. saa vigtige Afsnit om Forældremyndigheden er dog<br>optaget i Loven om Umyndighed af Juni 1922.<br>V. B.
+<td r>77,<td c>1,<td>Linie<td r>4 f. o.<td>1866 læs: 1886
+<td r>89,<td c>2,<td c>—<td r>16 f. o.<td>Dværggrundform læs: Dværgrundorm
+<td r>114,<td c>2,<td>Linie<td r>8 f. n.<td>undtagen <i>a</i><sub>0</sub>, der læs: undtagen <i>a</i><sub>0</sub>, der
+<td c>—<td c>2,<td>Linie<td r>2 f. n.<td>bliver <i>a</i><sub>0</sub> det læs: bliver <i>a</i><sub>0</sub> det
+<td c>—<td c>2,<td>Linie<td r>1 f. n.<td>i <i>x</i> = <i>a</i>+1/<i>x</i><sub>1</sub> den 
+<td r>115,<td c>1,<td>Linie<td r>1 f. o.<td>Kvotients <i>x</i><sub>1</sub> > 1; <i>a</i><sub>1</sub> 
+er læs: Kvotient <i>x</i><sub>1</sub> er > 1; <i>a</i><sub>1</sub> er
+<td c>—<td c>1,<td>Linie<td r>2 f. o.<td>end <i>x</i><sub>1</sub> o. s. v. læs: end <i>x</i><sub>1</sub> o. s. v.
+<td c>—<td c>1,<td>Linie<td r>13 f. o.<td>til ð, f. Eks. <i>a</i><sub>r</sub> inklusive, læs: til f. Eks. <i>a</i><sub>r</sub> inklusive,
+<td c>—<td c>1,<td>Linie<td r>15 f. o.<td>med <i>y</i><sub>r</sub> og <i>z</i><sub>r</sub> menes læs: med <i>y</i><sub>r</sub> og <i>z</i><sub>r</sub> menes
+<td r>172,<td c>2,<td>Linie<td r>19 f. o.<td>der læs: Oder
+<td r>176,<td c>1,<td c>—<td r>26 f. o.<td>forinden læs: foruden
+<td r>198,<td c>2,<td>Linie<td r>8 f. n.<td>1609 læs: 1600
+<td r>254,<td c>2,<td>Linie<td r>1 f. o.<td>Fernei læs: Ferney
+<td c>—<td c>2,<td c>—<td r>23 f. n.<td>Saint-Beuve læs; Sainte-Beuve
+<td r>289,<td c>2,<td>Linie<td r>18 f. n.<td>Lakblad læs: Lakbad
+<td r>324,<td c>2,<td c>—<td r>26 f. n.<td>»navnlig . . . Galmyg)« udgaar
+<td r>354,<td c>2,<td>Linie<td r>19 f. o.<td>Kunstværk læs: Kortværk
+<td r>366,<td c>1,<td>Linie<td r>13 f. o.<td>Wasington læs: Washington
+<td r>434,<td c>1,<td>Linie<td r>23 f. o.<td>1808'erne læs: 1880'erne
+<td r>451,<td c>1,<td c>—<td r>3 f. n.<td>Piti læs: Pite
+<td c>—<td c>2,<td c>—<td r>27 f. o.<td>Seritofinni læs: Scritofinni
+<td c>—<td c>2,<td>Linie<td r>25 f. n.<td>Piti læs: Pite
+<td r>568,<td c>1,<td 3>er udfalden Artiklen:<br><b>Leconomantlk</b> (gr.), en Afart af Krystallomantik (s. d.), hvorved man<br>benytter smaa blanke Metalplader, der anbringes i et Kar med Vand.<br>(<i>Alfr. L.</i>).
+<td r>615,<td c>2,<td 3>Linie 33—34 f. o. de læderede Ord skal læses: mange — imod
+<td r>656,<td c>2,<td>Linie<td r>28 f. n.<td><sp>Media</sp> læs: <sp>Medium</sp>
+<td r>1029,<td c>2,<td c>—<td r>4 f. n.<td>1607 læs: 1621
+<td r>1039,<td c>2,<td c>—<td r>34 f. o.<td><sp>Skedeknæ</sp> læs: <sp>Polygonum</sp> og <sp>Pulicaria</sp>.
+</table>
+
+<table>
+<td c 5><sp>BIND XVI</sp>.
+<td>Side<td>Sp.
+<td r>22,<td c>2,<td>Linie<td r>20 f. o.<td v7 c> }ell. st. E. læs: elst. E.<br>(ɔ: elektrostatiske Enheder)
+<td r>23,<td c>1,<td c>—<td r>34 f. o.<td>
+<td c>—<td c>1,<td c>—<td r>35 f. o.<td>
+<td c>—<td c>1,<td c>—<td r>28 f. n.<td>
+<td c>—<td c>1,<td c>—<td r>17 f. n.<td>
+<td c>—<td c>1,<td c>—<td r>14 f. n.<td>
+<td c>—<td c>1,<td c>—<td r>2 f. n.<td>
+<td r>26,<td c>2,<td c>—<td r>3 f. o.<td>(under Ligningen) <i>l</i> læs: <i>h</i>
+<td c>—<td><td 3>Fig. 1 og Fig. 2 skal ombyttes
+<td r>59,<td c>2,<td>Linie<td r>2 f. n.<td>Maksimalarbejdsuge læs: Maksimalarbejdstid
+<td r>66,<td c>1,<td>Linie<td r>26 f. n.<td><sp>H. C. Lumbye</sp> har ikke skrevet Finale-Galoppen, men<br>derimod Indianerdansen af Bournonvilles Ballet »Fjernt fra Danmark«;<br>Finale-Galoppen skyldes <sp>A. F. Lincke</sp>
+<td r>219,<td c>1,<td>Linie<td r>6 f. n.<td>Babbinowics læs: Rabbinowics
+<td r>285,<td c>1.<td 3>Billedet forestiller ikke P. V. Løvenørn, men hans Sønnesøn, Admiral P. L.
+<td r>406,<td c>1,<td>Linie<td r>1 f. o.<td><sp>Novozan</sp> læs: <sp>Novozon</sp>
+<td r>603,<td c>1,<td>Linie<td r>30 f. n.<td>efter Bornholm læs: Møen og Ærø
+<td r>648,<td c>2,<td>Linie<td r>11 f. n.<td>1887 læs: 1587
+<td r>649,<td c>1,<td c>—<td r>23 f. n.<td>Henry IV læs: Henry VI
+<td r>792,<td c>2,<td c>—<td r>25 f. o.<td>(<i>E. T. A.</i>) læs: (<i>E. A. T.</i>)
+<td r>842,<td c>1,<td c>—<td r>4 f. o.<td><b>spiralis</b> læs: <b>spinalis</b>
+<td r>957,<td c>2,<td c>—<td r>22 f. o.<td>1910 o. s. v. læs: 1910 kom »Smert Pavla I« (»Paul I's Død«)<br>og 1912 (i Tidsskriftet »Russkaja mysl«) »Aleksander I«
+<td r>1064,<td c>1,<td>Linie<td r>28 f. o.<td>Samarere's læs: Samarow's
+<td r>1065,<td c>2,<td>Linie<td r>8 f. o.<td><b>Meysenburg</b> læs: <b>Meysenbug</b>
+</table>

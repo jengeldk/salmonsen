@@ -1,0 +1,139 @@
+disse. Og da vilde det Være muligt at løse
+Bevægelsesproblemet ved kendte analytiske
+Approksimationsmetoder. Allerede Lagrange er
+inde paa denne Udvidelse af Problemet. Men
+det var først, da Bruns og Poincaré havde
+offentliggjort deres fundamentale Teoremer, at
+denne Tanke blev ført ud i Livet, bl. a. af
+Gyldén. Men de Studier, der her blev gjort,
+var kun den første Begyndelse, da den anvendte
+approksimative Metode kun kan benyttes med
+Fordel, naar man har for sig forholdsvis smaa
+Afvigelser fra de eksakte Lagrange'ske
+Løsninger. For at komme videre var det
+nødvendigt at bruge andre, mere effektive, Metoder,
+og her er det, at Thiele griber banebrydende
+ind i T.-L.-P. ved at indføre den <sp>numeriske
+Integrationsmetode</sp>, som var velkendt
+før i Astronomiens Historie, nemlig i
+Perturbationsproblemet, og har spillet en stor og
+afgørende Rolle ved Beregningen af Banerne
+for de talrige Smaaplaneter og Kometer inden
+for vort Solsystem; denne og kun denne
+Metode har magtet at bringe Overensstemmelse
+i Stand mellem Teori og Observation, idet den
+numerisk Skridt for Skridt har beregnet de
+virkende Kræfter og deraf numerisk Skridt for
+Skridt de resulterende Bevægelser. Ved at
+vælge Tidsintervallet paa passende Maade er det
+lykkedes ad denne Vej at opnaa den ønskede
+Nøjagtighed i Beregningen. Men det er Thiele,
+som frugtbringende har benyttet den numeriske
+Integrationsmetode inden for almindelige
+Omraader af T.-L.-P. Begyndelsen blev gjort i
+1891 og 1894 af Østerrigeren v. Haerdtl og
+Thiele's Elev Carl Burrau, idet de hver for
+sig har besvaret Prisopgaver, Thiele havde
+stillet i »Det kgl. danske Videnskabernes Selskab«.
+Senere er Thiele's Efterfølger, Strömgren,
+gaaet videre paa den udstukne Vej, saa
+Observatoriet i Kjøbenhavn nu kan se tilbage paa
+et intens og frugtbringende Arbejde paa
+Himmelmekanikkens Omraade i de sidste 30 Aar.
+I Universitetets Festskrift: »Tre Aartier celest
+Mekanik paa Kjøbenhavns Observatorium«
+(1923) har Strömgren givet en detailleret
+og meget instruktiv Udredning af de opnaaede
+Resultater. En grafisk Fremstilling af de
+indvundne Resultater er at se i Deutsches Museum
+i München. (En Gengivelse i formindsket
+Maalestok er offentliggjort i »Ergebnisse der
+exakten Naturwissenschaften« [1925] og i
+»Nordisk astronomisk Tidsskrift« [1925]). Problemet
+er behandlet ikke alene under den
+Forudsætning, at den lille Masse — de to andre Masser
+er antaget efter Thiele at være lige store,
+hvorved Problemet bliver et <i>problème restreint</i> i
+udvidet Forstand — bevæger sig om et af de
+5 Librationspunkter (det har vist sig, at
+Hviletilstanden af den lille Masse i et
+Librationspunkt enten stedse eller under visse
+Forudsætninger kan opfattes som et Grænsetilfælde
+enten af en <sp>periodisk</sp> Bevægelse om
+vedkommende Librationspuhkt eller af en
+<sp>asymptotisk</sp> Bevægelse ind i eller ud fra samme
+Librationspunkt), men ogsaa om en af de
+endelige Masser eller omkring begge, saavel
+naar disse er i Ro, som i direkte eller
+retrograd Bevægelse. Denne <sp>systematiske</sp>
+Kalkulation af de simplere periodiske og
+asymptotiske Bevægelsesmuligheder begyndte i 1913
+og er nu paa det nærmeste bragt til
+Afslutning. Men allerede i 1900 havde Strömgren
+paabegyndt en numerisk Beregning af et
+Tilfælde af T.-L.-P. (Beregningen blev ført videre
+i 1909) med alle tre Masser af samme
+Størrelsesorden. Det Tilfælde, som Strömgren
+behandlede, er, at det ene Legeme (Centrallegeme) har en
+dobbelt saa stor Masse som de to andres; alle tre
+Masser befinder sig ved Bevægelsens Begyndelse
+paa samme rette Linie, den ene af de to lige
+store Masser i en Afstand af 7 Længdeenheder
+til venstre med Bevægelse nedad, den anden i
+10 Længdeenheder til højre med Bevægelse
+opad, og Hastigheden af de to lige store
+Masser er den, de vilde have, hvis hver for sig
+bevægede sig i en Cirkel om Centrallegemet uden
+Paavirkning af det andet Legeme. Burrau
+havde i 1913 behandlet et andet Spørgsmaal af
+samme Art, nemlig med Masser af de tre Legemer
+og deres gensidige Afstande af samme
+Størrelsesforhold (5 : 4 : 3, ɔ: <i>m</i><sub>1</sub> = 5, <i>m</i><sub>2</sub> = 4, <i>m</i><sub>3</sub>
+= 3, Begyndelsesafstanden <i>m</i><sub>2</sub> <i>m</i><sub>3</sub> = 5, <i>m</i><sub>3</sub> <i>m</i><sub>1</sub>
+= 4, <i>m</i><sub>1</sub> <i>m</i><sub>2</sub> = 3, Begyndelseshastighed = 0).
+Nu og da har man paa Observatoriet i
+Kjøbenhavn beregnet Baner inden for dette Problems
+Omraade for om muligt at finde periodiske
+Bevægelsesformer inden for det almindeligere
+Problem, men først i 1919 lykkedes det at finde
+en Løsning, som gav periodiske Bevægelser for
+et System af tre Legemer med Masseforhold
+1 : 2 : 1, og der er ogsaa beregnet et Tilfælde
+af Librationer for fire lige store Masser.
+
+Før dette systematiske Arbejde blev startet
+paa Kjøbenhavns Observatorium, havde Hill i
+1878 i sin <i>Researches in the lunar Theory</i>
+(<i>The collected Math. Works</i>, I) paavist ny
+periodiske Løsninger i T.-L.-P., de første, som
+blev fundne siden Lagrange's, og disse
+Løsninger er af betydelig større praktisk Værdi
+end de af Lagrange's Type. Men strengt
+periodiske Løsninger er Hill's Resultater ikke,
+fordi Solens perturberende Virkning ikke var
+taget i sin fulde Almindelighed. (Darwin:
+<i>Lectures on Hill's Lunar Theory. Scientific Papers</i>,
+V). Men disse Hill's Løsninger bragte Poincaré
+til et mere indgaaende Studium af Problemet,
+publiceret i forskellige betydelige Afhandlinger.
+I sit Værk <i>Les méthodes nouvelles de la
+mécanique céleste</i> har han sammenarbejdet sine
+forskellige Studier paa dette Omraade og bragt
+for Dagen mange ny og uanede Resultater, og
+Poincaré's Arbejder paa dette Omraade kan
+sidestilles med Newton's Arbejder, da han
+opdagede Gravitationsloven og grundlagde
+Himmelmekanikken. Et andet vigtigt Arbejde paa
+dette Felt leverede Darwin: <i>Periodic orbits</i>
+(<i>Scientific Papers</i>, IV) fra 1897, hvori der
+forudsættes, at den ene af Masserne er
+infinitesimal, og at de to endelige Masser staar i
+Forholdet 1 : 10 og bevæger sig i Cirkler. Der blev
+paavist talrige periodiske Baner gennem
+numerisk Integration, og Spørgsmaalet om deres
+Stabilitet blev diskuteret ved at benytte den
+Metode, Hill havde anvendt i sit fundamentale
+Arbejde om Maanen. Studiet over de periodiske
+Baner er blevet i høj Grad uddybet af Moulton
+og hans Elever. Der er studeret en hel Række
+forskellige Former af periodiske Baner, og

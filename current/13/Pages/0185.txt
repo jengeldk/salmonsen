@@ -1,0 +1,141 @@
+J. roterer i en Dag om sin Akse, og et Punkt
+ved Ækvator tilbagelægger 465 m i Sek. Ved
+denne Omdrejning forklares den tilsyneladende
+Omdrejning af Fiksstjernehimmelen, der
+foregaar i modsat Retning ɔ: fra Ø. t. V. Da
+Kopernikus opstillede denne Lære, havde han
+intet direkte Bevis at anføre herfor. Dette blev
+først leveret af Richer 1672, der fandt, at hans
+i Paris regulerede Ur i Cayenne sagtnede
+daglig omtr. 2 1/2 Minut, hvorfor han maatte
+forkorte Pendulen i Uret; da Richer kom tilbage
+til Paris, fortnede det lige saa meget, og nu
+maatte han forlænge Pendulen. Newton
+beviste, at Aarsagen hertil var den, at Tyngden
+var mindre i Nærheden af Ækvator, større, jo
+nærmere man kommer Polerne, og dette
+finder Sted, fordi J. er fladtrykt, og fordi
+Centrifugalkraften formindsker Tyngden. Talrige
+Pendulobservationer har bekræftet dette, og
+Helmert har med Benyttelse af det
+foreliggende Materiale udledet, at Sekundpendulets
+Længde i Meter kan udtrykkes ved Formlen:
+L=0,990972+0,005238 sin<sup>2</sup>φ, hvor φ er Stedets
+Bredde. Ved Ækvator er saaledes Længden
+990,972 mm, ved Polerne 996,210 mm ell.,
+anderledes udtrykt, et Sekundpendul, der gaar rigtig
+ved Ækvator, vil fortne 3 Min. 48 Sek. pr. Dag
+ved Polerne. Tyngden ved Polen er saaledes
+1/180 større end Tyngden ved Ækvator.
+Tyngdens Acceleration vil være ved Ækvator 9,78052
+m, ved Polerne 9,83221 m. Tycho Brahe og
+Riccioli gjorde den Hovedindvending mod J.'s
+Rotation, at hvis denne fandt Sted, maatte
+dette kunne paavises ved Faldforsøg (se
+<sp>Afvigelse</sp>), men først Benzenberg og senere
+Reich lykkedes det at komme til et med
+Teorien overensstemmende Resultat, hvorefter det
+frit faldende Legeme vil naa J. i et Punkt, der
+er Ø. f. det, som ligger lodret under
+Nedgangspunktet. Teorien forlanger ogsaa en ubetydelig
+Afvigelse mod Syd. Et endnu mere
+iøjnefaldende Bevis blev leveret af Foucault. Andre
+Beviser har man i Passaterne og Monsunerne.
+Beviset for J.'s Bevægelse om Solen blev givet
+af Bradley i Aberration og i 19. Aarh. i
+Paavisningen af Fiksstjernernes aarlige Parallakse.
+
+De to Punkter, hvori Jordaksen skærer
+Overfladen, kaldes Jordpoler; den, der er os
+nærmest, Nordpolen, den anden Sydpolen. Men
+denne Akse har ikke en uforandret
+Beliggenhed i J. Senere Tiders Observationer har vist,
+at der i dens Bevægelse er en dobbelt Periode,
+en paa ca. 427 Dage (Chandlerske Periode), og
+en, der falder sammen med Aarets Længde,
+men hidtil er det ikke lykkedes at give en
+definitiv Forklaring af dette Fænomen. En
+Følge af denne Bevægelse er, at et Steds
+Polhøjde ell. Bredde ikke er en konstant Størrelse,
+men underkastes smaa periodiske Variationer.
+Lægges et Plan gennem Jordaksen, skærer det
+J. efter en Meridian. Beliggenheden af et
+Punkt paa J. bestemmes ved Bredde og
+Længde.
+
+Jordaksen danner en Vinkel paa 66 1/2° med
+det Plan, hvori J. bevæger sig i sin Bane om
+Solen, og den beholder denne Stilling
+uforandret fraregnet de periodiske og sekulare
+Forandringer (se <sp>Nutation</sp> og
+<sp>Præcession</sp>). Jordaksen beskriver derfor i Aarets
+Løb en skraa Cylinderflade om Solen, og
+denne uforandrede, med sig selv parallelle
+Stilling i Forbindelse med Rotation om Aksen
+frembringer Forandringen af Aarstiderne og
+Skiften af Dag og Nat. Men da J. ikke har
+samme Hastighed i alle Punkter af sin Bane,
+tværtimod bevæger sig hurtigere, jo nærmere
+den er Solen, langsommere, jo fjernere, og
+Apsidelinien danner en skæv Vinkel med
+Jævndøgnslinien, vil Aarstiderne ikke være af
+samme Længde, og da endvidere Tiderne for
+Perihel og Foraarsjævndøgn stadig nærmer sig
+til hinanden (dog ikke hurtigere end 1 Dag i
+ca. 60 Aar), saa ses tillige, at Aarstiderne (s.
+d.) bliver lidt foranderlige. I 1925 er der fra
+Foraarsjævndøgn til Sommersolhverv 92,81
+Dage, fra Sommersolhverv til
+Efteraarsjævndøgn 93,62 Dage, fra Efteraarsjævndøgn til
+Vintersolhverv 89,72 Dage og fra Vintersolhverv til
+Foraarsjævndøgn 89,02 Dage. Sommerhalvaaret
+er saaledes 186,43 og Vinterhalvaaret 178,81
+Dage eller Sommeren næsten 8 Dage længere
+end Vinteren.
+<i>J. Fr. S.</i>
+
+I Alm. hyldes den Anskuelse, at J.
+oprindelig har været en Del af en roterende
+Stjernetaage. Ved Sammentrækninger i denne blev J.
+adskilt fra Centralmassen og begyndte sin
+Bevægelse omkr. Solen og om sin egen Akse.
+Den blev saa en i Forhold til Fiksstjernerne
+forsvindende lille, gul Stjerne og omdannedes
+derefter til en Stjerne med foranderligt Lys af
+rød Farve. Da Afkølingen var skreden længere
+frem og de sidste Udbrud af glødende
+Gasarter var ophørte, forsvandt de sidste Spor af
+J.'s eget Lys, og <sp>Jordskorpen</sp> blev
+efterhaanden saa afkølet, at Vandet kunde samle
+sig paa den i flydende Tilstand og det
+organiske Lav tage sin Begyndelse.
+
+J.'s Indre er under et uhyre Tryk, og
+rimeligvis er Temperaturen overordentlig høj. Alle
+Iagttagelser over Varmen i Jordskorpen tyder
+paa, at Varmen stiger, jo dybere man kommer
+ned. Temperaturen i de allerøverste Jordlag
+beror helt og holdent paa Luftens
+Temperatur, og disse Lag er derfor til en vis Dybde,
+soan er forsk. i de forsk. Egne, mere eller
+mindre varme om Sommeren og kolde om
+Vinteren. Man behøver dog ikke at trænge
+synderlig dybt ned (i vore Egne c. 20—25 m),
+førend man kommer til et Lag, i hvilket
+Aarstidernes Vekslen ikke længere gør sig
+gældende, men som stadig har en Temperatur,
+som omtr. er Stedets Middeltemperatur. Det
+mest kendte Eksempel herpaa er Kælderen
+under Observatoriet i Paris, i hvilken et
+Termometer, som blev anbragt af Lavoisier 1783
+i en Dybde af 27,6 m, i over Hundrede Aar
+stedse har vist 11,6°. I Troperne, hvor
+Temperaturen veksler mindre end hos os, træffes
+dette Lag allerede i en Dybde af 6 m, medens
+J. i Polaregnene er frossen til en betydelig
+Dybde. Ved Jakutsk i Østsibirien iagttoges, at
+Temperaturen i 116,5 m's Dybde under
+Overfladen var ÷ 3°. Naar man fra det Lag, som
+stadig har Stedets Middeltemperatur, trænger
+endnu dybere ned, finder man, at
+Temperaturen stiger jævnt mod Dybet. For at kunne

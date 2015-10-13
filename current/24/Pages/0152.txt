@@ -1,0 +1,169 @@
+Drikke kan medføre Fængselstraf eller
+Fortabelse af vedkommendes Næringsadkomst, samt
+at Varer, der ulovligt omføres til Salg, kan
+konfiskeres til Fordel for Anmelderen.
+<i>H. J.</i>
+</chapter>
+
+<chapter name="Ubertas">
+<b>Ubertas</b> (lat.), romersk Personifikation af
+Frugtbarhed og Overflødighed.
+<i>H. A. K.</i>
+</chapter>
+
+<chapter name="Ubertini dei Verdi, Francesco">
+<b>Ubertini dei Verdi,</b> <sp>Francesco</sp>, kaldet
+<sp>Il Bacchiacca</sp>, italiensk Maler, f. 1494 i
+Firenze, d. smst. 1557, var Elev af Perugio og
+Franciabigio, sluttede sig til Andrea del Sarto i sin
+videre Udvikling og virkede væsentlig i Firenze,
+nogen Tid i Rom. Han malede Predellabilleder
+(saaledes til Sogliani's Alterbillede i Uffizi) og
+maleriske Udsmykninger til Bryllupskister
+(<i>cassoni</i>). I Storhertug Cosimo's Tjeneste malede
+han historiske Billeder, Fresker i en
+Havegrotte ved Palazzo Pitti. Af andre Værker nævnes
+to Scener af Josef's Historie (National Galleriet,
+London), Kristi Daab og Kvindeportræt
+(Berlin), endvidere Arbejder i Dresden (bl. a. det
+langagtige Billede »Das Leichenschiessen«,
+rimeligvis fra en Kiste), Uffizi (Predellabilledet: S.
+Acasius' Historie og Korsnedtagelsen) og i Gal.
+Borghese, Rom.
+<i>(A. R.). A. Hk.</i>
+</chapter>
+
+<chapter name="Ubertis-Gray, Teresa">
+<b>Ubertis-Gray,</b> <sp>Teresa</sp>, italiensk
+Forfatterinde, f. i Frassineto 1877. Under
+Pseudonymet <sp>Teresah</sp> har hun skrevet et stort Antal
+Noveller og Romaner særlig for Ungdommen.
+Blandt hendes mest bekendte Bøger kan
+nævnes: <i>Pare un sogno</i>, <i>Al piccolo Parigi</i>, <i>I racconli
+di sorella Orsetta</i>, <i>Come Orsetta incontrò
+Fortuna</i>, <i>Il natale di Benno Claus</i>, <i>Piccoli eroi
+della grande guerra</i>, <i>La leggenda dei due
+Pierotti</i>, <i>Sette fiabe per fanciulli grandi</i> etc. Hun
+er Medarbejder ved flere Aviser og Tidsskrifter,
+gift med den bekendte Journalist Ezio M. Gray.
+<i>E. M-r.</i>
+</chapter>
+
+<chapter name="uberygtet">
+<b>uberygtet,</b> se <sp>Berygtethed</sp>.
+</chapter>
+
+<chapter name="ubesmittede Undfangelse">
+<b>ubesmittede Undfangelse,</b> nemlig Jomfru
+Maria's, er en romersk-katolsk Forestilling,
+som staar i en nær Forbindelse med denne
+Kirkeafdelings Maria-Kultus. Den kom først
+frem i Middelalderen, hvor Thomas fra Aqvino
+afviser den, medens Duns Scotus optager den.
+Herefter bliver den til et stadigt Stridspunkt
+mellem Dominikanerne og Franciskanerne, der
+begge følger deres Læremestre. I Trient blev
+der ikke truffet nogen Afgørelse. En saadan er
+først kommen ved Bullen Ineffabilis Deus af 8.
+Decbr 1854; i denne har nemlig Pius IX
+sanktioneret den franciskanske Lære. Det hedder
+her, at »den saligste Jomfru Maria i sin
+Undfangelses første Øjeblik paa Grund af en
+særegen Naade fra Guds Side, med Henblik paa
+Kristi Fortjenester, er bleven bevaret ren for
+enhver Besmittelse af Arveskylden«. Der
+statueres altsaa med andre Ord et syndfrit
+Menneske før Frelseren.
+<i>F. C. K.</i>
+</chapter>
+
+<chapter name="ubestemte Koefficienters Metode">
+<b>ubestemte Koefficienters Metode</b> (mat.)
+anvendes til at danne en Rækkeudvikling for
+en Funktion y efter Potenser af den uafhængig
+variable x. Hvis der er givet en algebraisk
+Ligning mellem y og x, indsætter man Rækken
+med foreløbig ubekendte Koefficienter i denne
+Ligning, og faar saa ved at udtrykke, at Led
+med samme Potens af x hæver hinanden,
+Ligninger til Bestemmelse af Koefficienterne. Paa
+lignende Maade kan man gaa frem, hvis
+Funktionen er givet ved sin Fundamentalligning.
+Metoden anvendes ogsaa ved de Fourier'ske
+Rækker. Hos Newton spiller de u. K. M. en stor
+Rolle, idet han for at finde Integralet af en
+Funktion udviklede den i en Potensrække og
+integrerede dennes Led.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="ubestemte Ligninger">
+<b>ubestemte Ligninger</b> (mat.) er hele,
+rationale Ligninger med hele Koefficienter, der
+søges tilfredsstillede for hele Værdier af de
+ubekendte. Ligningernes Antal maa være mindre
+end de ubekendtes. Den u. L. af 1ste Grad
+med to ubekendte, ax — by = c, har, hvis a og
+b er indbyrdes primiske, altid uendelig mange
+Løsninger af Formen x = α + m. b, y = β
++ m. a, hvor m er hel og α, β en vilkaarlig
+Løsning; en saadan kan findes ved et begrænset
+Antal Forsøg, idet af b paa hinanden følgende
+hele Tal altid et maa være en brugelig Værdi
+for x, eller ved en Anvendelse af Kædebrøk.
+Behandling af u. L. af 1ste Grad med flere
+ubekendte reduceres let hertil. Man kan videre
+ved Omformning og Anvendelse af Kædebrøk
+finde Løsningerne af u. L. af 2den Grad med to
+ubekendte; af disse er den Pell'ske Ligning (s.
+d.) særlig undersøgt. Endelig er en Mængde
+andre specielle u. L. løste ved særlige Kunstgreb.
+Se i øvrigt <sp>Talteori</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="ubestemte Straffedomme">
+<b>ubestemte Straffedomme.</b> Medens
+Gengældelsesteorien (se <sp>Straffeteorier</sp>) søger at
+bestemme Straffen i det enkelte Tilfælde i
+Forhold til den sædelige Brødes Størrelse som et
+til denne <sp>svarende</sp> Onde og derfor altid vil
+fastsætte et bestemt Maal af Lidelse (Straf) for
+hver enkelt Forbrydelse, ligger det nær for den
+Opfattelse, der gennem Straf søger at udvikle
+Forbryderen til et samfundsnyttigt Individ, at
+lade Straffens Varighed bero paa dens
+Virkninger, særlig dens Evne til at paavirke den
+enkelte Fange. Lige saa lidt som Lægen kan
+forudsige en bestemt Termin for Kurens
+Tilendebringelse, kan Kriminalisten angive, hvor lang
+Tid en Fange behøver til at opnaa
+»Socialisering«. Dommeren bør derfor i Dommen kun
+udtale: »N. N. skal underkastes Straf — over dens
+Art, Beskaffenhed og Varighed maa den
+straffuldbyrdende Myndighed skønne efter den
+dømtes Individualitet og senere Udvikling«. Over
+for Gengældelsesteoriens Tendens til selv mod
+Recidivister atter og atter at anvende
+Smaastraffe, hvor utvivlsomt Tilbagefaldet efter
+Straffens Udstaaelse end er, indeholder de u. S. en
+berettiget Opposition; men afgørende mod
+deres praktiske Brugbarhed er det, at ingen nok
+saa erfaren Psykolog med blot tilnærmelsesvis
+Sikkerhed af en Fanges Opførsel inden for
+Fængselets Mure kan drage nogen sikker Slutning til
+hans »Sociabilitet« uden for Fængselet. Det
+gaar derfor ikke an at parallelisere Læge- og
+Fængselsbehandling — de u. S. vil faktisk
+munde ud i fuldstændig Vilkaarlighed. I Resultatet
+lige saa virksomt og i den praktiske
+Gennemførelse mere betryggende er det over for visse
+Klasser af samfundsfarlige Forbrydere i
+Gentagelsestilfælde at paalægge Domstolene at
+anvende meget langvarige Frihedsstraffe, der,
+saafremt Fangen under Straffens Udstaaelse viser
+sig fortjent dertil, kan <sp>forkortes</sp> efter
+Administrationens Skøn, muligvis tillige efter
+forudgaaet ny judiciel Prøvelse. I Lovgivningerne
+er u. S. i deres rene Skikkelse intet Sted
+gennemførte. Selv i Nordamerika, hvor Staten New

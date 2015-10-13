@@ -1,0 +1,138 @@
+fjerneste, en Anskuelse, som W. Struve senere
+benyttede, og som førte ham til det Resultat, at
+Stjernerne stod desto tættere sammen i og i
+Nærheden af Mælkevejen, jo længere de var
+fjernede fra os. Heraf sluttede Struve videre,
+at Stjernesystemet bestaar af Lag af forskellig
+Tæthed, men alle parallelle med Mælkevejen.
+Argelander kommer i sine Studier over den
+tilsyneladende Fordeling af Stjernerne til det
+Resultat, at Stjerner til henved 10.
+Størrelsesklasse er fordelte i Lag, der staar omtrent
+lodret paa Mælkevejen, og som er tættest i den,
+men hurtig aftager i Tæthed paa begge Sider
+af den. Argelander finder ogsaa, hvad W.
+Herschel allerede tidligere havde bemærket, at
+Stjernerne viser en stærk Tendens til at
+danne Grupper og Partialsystemer. Gould har
+nærmere undersøgt den tilsyneladende Fordeling
+af de klarere Stjerner og Beliggenheden af vort
+Solsystem i Stjernesystemet; han finder, at der
+gives et Bælte paa Himmelen af klarere
+Stjerner, hvis Midtlinie meget nær er en Storcirkel,
+som dianner en Vinkel med Mælkevejen paa
+19°, skærende denne i Cassiopeia og Sydkorset,
+samt at der eksisterer en relativ lille
+temmelig flad Stjernehob, som bestaar af omtrent 400
+Stjerner af 1. til 7. Størrelse, og i hvilken vort
+Solsystem er beliggende excentrisk, men ikke
+langt fra Mælkevejens Plan.
+
+I nyere Tid har forskellige som Seeliger,
+Schwarzschild og Kapteyn, og i allernyeste Tid
+Shapley foretaget Undersøgelser over
+Universets Bygning. Seeliger benyttede dels »Bonner
+Durchmusterung« og Herschel's
+Stjernetællinger dels »Potsdamer Photometrische
+Durchmusterung« og fotografiske Stjernetællinger.
+Ogsaa han kom til det Resultat, at vort
+Stjernesystem har størst Udstrækning og Tæthed i
+Mælkevejen, hvor han anslog den minimale
+Middelafstand til de længst bortliggende
+Stjerner til 15000 Lysaar. Selve Stjernesystemet
+mente Seeliger indeholdt 5—10 Milliarder
+Stjerner. Schwarzschild's Undersøgelser sluttede sig
+teoretisk set nær til Seeliger's, og ved at gøre
+visse indskrænkende Forudsætninger lykkedes
+det Schwarzschild at opstille nogle faa elegante
+matematiske Formler for Stjernernes
+Fordeling. Schwarzschild havde til sin Raadighed
+Stjernetællinger for Stjerner indtil 16.
+Størrelsesklasse, endvidere Middelparallakser (πm)
+for Stjerner af tilsyneladende Størrelsesklasse
+<i>m</i>, og Middelparallakser (πm, μ) for Stjerner
+med tilsyneladende Størrelsesklasse <i>m</i> og
+Egenbevægelse μ. At man kan benytte Stjernernes
+Egenbevægelser (s. d.) til at beregne
+Middelparallakser, vil man forstaa af følgende
+Betragtning: En Stjernes Egenbevægelse
+sammensættes af to Dele, nemlig Stjernens individuelle
+Egenbevægelse og den saakaldte parallaktiske
+Forskydning, der foraarsages af Solsystemets
+Bevægelse, hvor Hastigheden er kendt i
+Kilometer pr. Sekund. Forudsætter man nu, at de
+individuelle Egenbevægelser ikke følger nogen
+bestemt Lov, men at de lige saa ofte gaar i
+een Retning som i den stik modsatte, saaledes
+at de for en større Gruppe Stjerner i
+Gennemsnit ophæver hinanden, kan man for en saadan
+Gruppe beregne dens Middelafstand ud fra de
+parallaktiske Forskydninger, der er indeholdt
+i de observerede samlede Egenbevægelser.
+Schwarzschild har selv gennemført sin Metode
+i Praksis, og senere er dette blevet gentaget af
+Schouten med forbedrede Værdier, der
+stammer fra Kapteyn. Af Undersøgelserne fremgaar
+det, at Stjernetætheden ved smaa Afstande fra
+os først er konstant, derpaa begynder at
+aftage langsomt og længere ude hurtigere, saa
+at f. Eks. Stjernetætheden ved en Afstand paa
+c. 2700 Lysaar er sunket ned til omtrent 1/3 af
+Tætheden i de indre Dele af Systemet.
+
+Kapteyn har gjort en stor Indsats til
+Løsningen af Spørgsmaalet om V.'s Bygning, idet
+han ikke indskrænkede sig til teoretisk at
+bearbejde det forhaandenværende Materiale, men
+satte et planmæssigt Arbejde i Gang for at
+skaffe rigere Observationsdata. Da han indsaa,
+at det vilde være umuligt i en overskuelig
+Fremtid at faa observeret hele Himlen,
+udvalgte han c. 200 Himmelfelter (<i>selected areas</i>),
+der skulde tjene som Stikprøver, og som man
+i rimelig Tid kunde faa undersøgt ned til de
+svageste Stjerner med Hensyn til visuelle og
+fotografiske Størrelsesklasser, Spektraltyper,
+Egenbevægelser, Radialhastigheder og
+Parallakser. Denne store Arbejdsplan er endnu ikke
+gennemført, men der foreligger dog allerede
+betydelige Mængder nyt Observationsmateriale.
+Til sine teoretiske Undersøgelser anvendte
+Kapteyn for det første direkte maalte
+Stjerneparallakser, men da disse kun er paalidelige for
+nære Stjerner, udledte han ogsaa
+Middelparallakser for større Grupper af Stjerner ud fra
+Egenbevægelserne. Hans Maal var at udlede:
+1. Hyppighedsloven, d. v. s. Antallet af
+Stjerner af en bestemt absolut Lysstyrke pr.
+Rumfangsenhed, 2. Tæthedsloven, d. v. s. Antallet
+af alle Stjerner pr. Rumfangsenhed i
+forskellige Afstande fra Solen. Kapteyn's Metode var
+rent empirisk i Modsætning til Seeliger's og
+Schwarzschild's, hvor man i Forvejen
+opstillede visse Hypoteser om Tæthedsforløbet i
+Rummet. Kapteyn fandt, at i Solens
+umiddelbare Nærhed er der flest Stjerner af den
+absolutte Størrelsesklasse 2m—3m (d. v. s. noget
+lysstærkere end Solen), endvidere at
+Stjernetætheden indtil en Afstand af c. 80 Lysaar fra
+Solen er omtrent konstant, derefter aftager den
+først langsomt, senere hurtigere og i en
+Afstand af c. 2800 Lysaar er den 0,09 af den
+konstante Tæthed. Ved større Afstande end 3000
+Lysaar kan man ikke naa paalidelige
+Resultater ud fra de forhaandenværende
+Observationer. For at naa ud til endnu større Afstande
+opstillede Kapteyn da den Hypotese, at den
+tidligere nævnte Hyppighedslov, som han
+havde fundet for Stjerner nær Solen, ogsaa gælder
+i større Afstande, og ved Hjælp af denne
+Hyppighedslov for de absolutte Størrelsesklasser og
+Antallet af Stjerner <i>N(m)</i> af en vis
+tilsyneladende Størrelse (<i>m</i>) udledte han paa
+lignende Maade som Schwarzschild Tæthederne for
+de større Afstande, hvor han nu ogsaa tog
+Hensyn til Mælkevejens Indflydelse paa
+Stjernefordelingen. Efter Kapteyn har vort
+Stjernesystem følgende Udseende: En flad Linse med
+Mælkevejen som Symmetriplan og med en svag

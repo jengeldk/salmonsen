@@ -1,0 +1,118 @@
+negative Ioner. De positive, som er gaaede til
+Katoden, har jo ikke kunnet frembringe ny, og
+Strømmen maa derfor høre op. Det indses
+heraf, at for at faa en selvstændig Strøm, maa
+Elektrodespændingen være saa stor, at ikke blot
+de negative, men ogsaa de positive Ioner er i
+Stand til at frembringe ny ved Stød.
+
+Da det elektriske Felt, som findes før
+Strømmens Beg., altid vil være stærkest ved
+Elektroderne, maa Ioniseringen begynde ved en af
+Elektroderne. Den Elektrodespænding, ved
+hvilken de positive Ioner lige netop kan ionisere
+og derved indlede Strømmen, kaldes
+Gnistspændingen. Saasnart Strømmen er begyndt, vil
+imidlertid selve Strømmen, d. v. s. Ionernes
+Vandring mod Elektroderne, bevirke, at der
+kommer fri elektriske Ladninger ved disse, der
+vil forandre det opr. Felt. P. Gr. a.
+Elektronernes store Bevægelighed vil de løbe saa
+hastigt bort fra Katoden, at der kommer et stort
+Overskud af positive Ioner omkr. denne. Den
+positive Ladning vil forstærke det opr. Felt
+umiddelbart om Katoden, men svække det i
+længere Afstand fra denne. Hvis Ioniseringen
+er begyndt ved Katoden, vil den derfor
+yderligere fremmes, hvis ikke vil den — i ethvert
+Fald ved lave Tryk — indledes derved. Ved
+Anoden kommer der paa tilsvarende Maade en
+negativ Ladning, der bevirker Anodefaldet, men
+den vil være meget mindre end Katodens. Dertil
+kommer yderligere, at p. Gr. a. Elektronernes
+store Bevægelighed er det væsentlig deres Antal,
+som er bestemmende for Ledningsevnen paa de
+forsk. Steder af Strømbanen. Da Antallet er
+mindst ved Katoden, bliver Ledningsevnen
+daarligst, Spændingsfaldet størst der. Ionernes
+Vandring vil saaledes bevirke, at det opr.
+tilstedeværende Spændingsfald forøges umiddelbart ved
+Elektroderne, særlig ved Katoden, og
+formindskes i den øvrige Del af Strømbanen. De
+positive Ioner vil derfor ikke kunne ionisere i
+denne, men kun ved Elektroderne, ved lave
+Tryk alene ved Katoden. Kun naar Luften i
+Udladningsrøret indeholder stærkt
+elektronegative Luftarter, som Klor, Brom, Jod, vil disse
+ved at forbinde sig med Elektronerne nedsætte
+deres Bevægelighed saa meget, at der ved
+Anoden optræder lgn. Fænomener som ellers ved
+Katoden (se <sp>Anodestraaler</sp>).
+
+Ifølge det ovf. staaende maa der, for at
+Strømmen skal kunne holdes vedlige, være saa
+stort et Spændingsfald ved Katoden, at de
+positive Ioner er i Stand til at ionisere. Dette
+skulde være det normale Katodefald. De
+positive Ioner faar derved Hastigheder som 50 km
+pr Sek. Skal Strømtætheden være større end
+den normale, maa der frembringes flere
+Elektroner for hvert positivt Skud, disse maa
+derfor være kraftigere, d. v. s. Spændingsfaldet, det
+anormale Katodefald maa være større. Naar
+de positive Ioner faar stor Hastighed, gælder
+det naturligvis i endnu højere Grad for de
+negative Elektroner, hvis Hastighed vil være saa
+stor, at de virker som Straaler ud fra Katoden.
+Den negative Lystaage er Resultatet heraf, idet
+Elektronerne ved at støde mod Molekylerne
+baade ioniserer dem og faar dem til at lyse.
+Navnlig ved lave Tryk og stort Katodefald vil
+Straalekarakteren være meget udpræget (se
+<sp>Katodestraaler</sp>). Naar Elektronerne er
+komne til Faraday's mørke Rum, har de
+efterhaanden tabt deres Hastighed ved
+Sammenstødene, men i den positive Lystaages større
+Spændingsfald pr cm forøges den saa meget, at de
+er i Stand til at ionisere og at fremkalde Lys.
+
+13) <sp>Den elektriske Lysbue strøm</sp>.
+Lystaagestrømmens Eksistens er betinget af, at
+de positive Ioner ved at gennemløbe
+Katodefaldet faar saa stor en Hastighed, at de derved
+kan slaa negative Elektroner ud af Katoden (se
+Afsnit 12). Hvis man paa anden Maade sørger
+for, at Katoden afgiver Elektroner, kan man
+faa en Strøm med meget mindre Katodefald.
+Man har fundet, at hvidglødende Legemer af
+sig selv udsender Elektroner, navnlig gælder det
+Ilterne af de alkaliske Jordarters Metaller. Ved
+at anvende et <sp>Wehneltrør</sp> (konstrueret af den
+tyske Fysiker A. Wehnelt), hvis Katode bestaar
+af en tynd Platinstrimmel <i>A</i> (Fig. 14),
+overtrukket med et Ilte, der glødes ved en elektrisk
+Strøm, kan man faa endog en kraftig Strøm
+igennem Røret ved en Spænding af et Hundrede
+Volt. Den frivillige Elektronudsendelse fra den
+elektriske Lysbues glødende negative Pol er
+Forklaringen paa den ringe Spænding,
+Lysbuestrømmen kræver. At det er den negative og
+ikke den positive Pols glødende Tilstand, der
+er den elektriske Lysbues Eksistensbetingelse,
+kan vises ved simple Forsøg. Søger man f. Eks.
+at danne en Lysbue mellem en Stang og en
+roterende Skive af et vilkaarligt Metal ell. af
+Kul, lykkes det kun, naar Stangen er Katode,
+fordi kun denne kan ophedes tilstrækkeligt af
+Strømmen, medens Katodefladen paa Skiven
+dannes paa stadig ny og derfor kolde Punkter.
+Ligeledes kan man kun danne en Bue imellem
+en ledende vandig Opløsning, f. Eks. af
+Kobbersulfat, og en Kulstang, naar denne sidste er
+Katode. Om Polspændingen og Lysbuens øvrige
+fys. Forhold se <sp>elektrisk Lysbue</sp>.
+
+14) <sp>Den stille Udladning</sp>,
+<sp>Spidsstrøm</sp> og <sp>Buskstrøm</sp>. Den elektriske
+
+<img>Fig. 14.</img>

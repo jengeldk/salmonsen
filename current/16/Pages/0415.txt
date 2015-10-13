@@ -1,0 +1,119 @@
+Polerne, medens der slet ingen udgaar fra dens
+Midterparti, <sp>Ligevægtsrummet</sp>. Hvor
+Kraftlinierne ligger tættest, er Feltstyrken
+størst.
+
+<sp>Magnetisering</sp>, <sp>Hysterese</sp>.
+Brækker man en Magnet over, faar begge Stumper
+hver sin Nordpol og sin Sydpol; det har i det
+hele taget vist sig umuligt at lave en Magnet,
+som ikke havde begge Poler, hvor lille end
+Magneten er. Dette har ført til Antagelsen
+af, at de enkelte Molekyler ell. Molekylgrupper
+i et Stykke Jern er smaa Magneter, der i et
+umagnetisk Jernstykke ligger ganske uordnede.
+Magnetisering af en Jernstang kommer
+herefter til at bestaa i en mere ell. mindre
+fuldstændig Ensretten af disse Smaamagneter.
+Denne Ensretten kan foregaa ved Strygning med
+Staalmagneter,
+f. Eks. saaledes
+som Fig. 2 viser.
+Strygemagneterne sættes med
+modsatte Poler
+paa Stangens
+Midte, trækkes
+langs Stangen ud
+til dens Ender,
+løftes derpaa op, sættes tilbage paa
+Midten, og Strøget gentages flere Gange. Denne
+Maade at magnetisere paa, har ikke mere
+synderlig Interesse, da man nu har saa
+let Adgang til elektriske Strømme og ved
+deres Hjælp i et Øjeblik kan frembringe
+stærkere og mere regelmæssig Magnetisering end
+paa nogen anden Maade. Jernstykket anbringes
+da inden i en Rulle af isoleret Kobbertraad,
+hvorigennem der sendes en elektrisk Strøm;
+denne frembringer i Rullens Indre en
+magnetisk Feltstyrke <i>H</i>, der, hvis Rullen er lang,
+bestemmes ved <i>H</i> = 4/10 π <i>ni</i>, hvor <i>n</i> er
+Antallet af Vindinger pr cm Længde af Rullen og
+<i>i</i> er Strømstyrken i Ampère (se <sp>Solenoide</sp>).
+Dette Felt vil søge at rette Smaamagneterne
+ind (jfr <sp>Elektromagnetisme</sp>). Ved
+<sp>Magnetiseringsintensiteten</sp> <i>J</i>
+forstaas den Mængde M., der findes paa 1 cm<sup>2</sup>
+af en Flade vinkelret paa
+Magnetiseringsretningen, ell., hvad der er det samme, Momentet
+af en Rumfangsenhed. Intensiteten afhænger
+paa en ejendommelig Maade af den
+magnetiserende Kraft <i>H</i>. Med voksende <i>H</i> vil <i>J</i> til at
+begynde med vokse proportionalt med <i>H</i>,
+derefter langt stærkere, for saa til sidst at nærme
+sig til en vis Maksimalværdi,
+Mætningsintensiteten (Fig. 3, Kurve <i>OP</i>); denne er for Jern
+omkr. 1740 abs. Enheder; stærkere kan Jern
+altsaa ikke magnetiseres, og en yderligere
+Forøgelse af <i>H</i> ud over den til <i>P</i> svarende Værdi
+nytter intet. Forholdet <i>J/H</i> kaldes
+<sp>Susceptibiliteten</sp> eller
+<sp>Magnetiseringskonstanten</sp>. Formindskes den magnetiserende
+Kraft <i>H</i> fra den til <i>P</i> svarende Værdi, vil
+Jernet ikke miste sin M. efter Kurven <i>PO</i>,
+men derimod efter Kurven <i>PRK</i>, saaledes at
+der for <i>H</i>=0 endnu er en vis Intensitet <i>OR</i>
+tilbage i Jernet. Vendes Retningen af <i>H</i>, f. Eks.
+ved, at Strømmen i den omtalte Traadrulle
+vendes, vil <i>J</i> yderligere aftage for at blive <i>O</i>
+for en vis Værdi af <i>H</i>, nemlig <i>HK</i>. Derpaa vil
+Jernet med voksende <i>H</i> magnetiseres i modsat
+Retning, faa en Nordpol, hvor der før kom en
+Sydpol og omvendt, og nærme sig Mætning ved
+<i>Q</i>, symmetrisk med <i>P</i>. Kurven <i>QSLP</i> viser
+endelig Intensitetens Variation, naar <i>H</i> atter
+aftager, bliver 0 ved <i>S</i>, vendes og vokser igen
+i den opr. Retning. Dette Fænomen kaldes
+<sp>Hysterese</sp>, og Kurven i Fig. 3 en
+<sp>Hysteresekurve</sp>.
+
+<sp>Remanens</sp> og <sp>Koercitivkraft</sp>. Ved
+Hjælp af Hysteresekurven kan et Par Størrelser
+defineres, som har den største Bet. ved M.'s
+praktiske Anvendelse. <i>OR</i> repræsenterer den
+Magnetiseringsintensitet, der bliver tilbage i Jernet
+efter at den magnetiserende Kraft er blevet <i>O</i>;
+den kaldes derfor <sp>Remanensen</sp> ell. <sp>den
+remanente Magnetisering</sp>. Uden
+Remanens kunde <sp>permanente
+Magneter</sp> — d. v. s. Magneter, som beholder deres
+magnetiske Egenskaber ogsaa efter at de er
+ført ud af det magnetiserende Felt, altsaa
+hvad man i Alm. blot kalder »Magneter« i
+Modsætning f. Eks. til »Elektromagneter«, hvor M.
+for største Delen forsvinder, naar Strømmen
+afbrydes — overhovedet ikke eksistere, da
+Magnetiseringen ellers vilde forsvinde samtidig
+med den magnetiserende Kraft. Remanensens
+Størrelse afhænger af den Intensitet, hvortil
+Jernet overhovedet har været magnetiseret, og
+den kan derfor antage alle Værdier mellem 0 og
+den til forudgaaende Mætning svarende Værdi
+<i>OR</i>. Størrelsen <i>OK</i> angiver den magnetiske
+Kraft, der skal til for at gøre Jernet
+fuldkommen umagnetisk, naar det har været
+magnetiseret; den kaldes <sp>Koercitivkraften</sp> og
+er et Maal for Jernets Evne til at holde paa
+den M., det een Gang har faaet. Enhver
+Magnet vil i Tidens Løb kunne risikere at komme
+ind i fremmede magnetiske Felter, frembragte
+af andre Magneter ell. af nærliggende elektriske
+Strømme, og disse Felter vil da søge at ændre
+Magnetens Styrke; jo større Koercitivkraften
+for vedk. Jernsort er, desto mindre vil da
+Forandringen blive. Ogsaa Koercitivkraftens
+
+<img>Fig. 2. Magnetisering ved
+Strygning.</img>
+
+<img>Fig. 3.</img>

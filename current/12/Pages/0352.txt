@@ -1,0 +1,132 @@
+kan det altsaa ske ved, at man sørger for et
+meget pludseligt Fald ell. en meget pludselig
+Stigning i Φ-Kurven. Vi skal nu i det flg.
+betragte nogle af de Maader, hvorpaa man kan
+ændre Induktionsliniestrømmen gennem en
+Leder og derved frembringe en elektromotorisk
+Kraft i Lederen.
+
+<sp>Selvinduktion</sp>. Vi betragter først en
+simpel sluttet Strømleder <i>A</i>, Fig. 2. En
+elektrisk Strøm i <i>A</i> vil som anført ovf. frembringe
+lukkede magnetiske Kraftlinier, der er kædede
+sammen med Strømlederen. De magnetiske
+Kræfter vil igen fremkalde en magnetisk
+Induktionsliniestrøm, der flyder i lukkede Baner,
+som er kædede sammen med Strømlederen,
+ganske ligesom de magnetiske Kraftlinier er
+det. Induktionsliniestrømmen gaar jo nemlig
+altid i Kraftens Retning. Forandrer man den
+elektriske Strøm, ændrer man samtidig den af
+Lederen omsluttede magnetiske Strøm, og der
+induceres følgelig i selve Lederen en
+elektromotorisk Kraft given ved Udtrykket 8"° ovf.
+Dersom Strømlederen befinder sig i det tomme
+Rum ell. indkapslet i et ikke magnetiserbart
+Stof, er den hele Induktionsliniestr., der vælder
+op gennem Lederen, proport. med
+Strømstyrken i Lederen. Den magnetiske Kraft er det
+nemlig iflg. Biot og Savart's Lov, og den
+magnetiske Induktionsliniestrøm er igen
+proportional med Kraften. Hvis Lederen ligger
+indkapslet i et magnetiserbart Stof, specielt
+Jern, ell. hvis Rummet delvis er udfyldt
+med Jern, bliver Induktionsliniestrømmen i
+Reglen for samme elektriske Strøm mange
+Gange stærkere end uden Jern, men inden for
+visse Grænser vil den ofte vedblive at være
+proportional med den magnetiske Kraft og
+dermed med Strømmen i Lederen. Man kan
+derfor i Praksis meget hyppig for den magnetiske
+Induktionsliniestrøm sætte
+10° Φ = <i>k</i> · <i>i</i>,
+hvor <i>k</i> er en Konstant og <i>i</i> Strømmen gennem
+Lederen. For Hastighederne, hvormed den
+elektriske og den magnetiske Strøm ændres,
+gælder da ganske tilsvarende
+11° <i>d</i>Φ/<i>dt</i> = <i>k</i> <i>di</i>/<i>dt</i>.
+
+Indsættes nu dette Udtryk for <i>d</i>Φ/<i>dt</i> i 8°", faas
+12° <i>e</i> = 10<sup>-8</sup> · <i>k</i> · <i>di</i>/<i>dt</i>.
+Konstanten <i>k</i> afhænger af Enheden, man
+vælger for Strømstyrken, af Lederens Form samt
+altsaa af Stoffet, der fylder Rummet ud. Vi
+antager, at <i>i</i> maales i Ampère, og sammenfatter
+10<sup>-8</sup> <i>k</i> i en enkelt Konstant <i>L</i>, idet vi sætter
+13° <i>e</i> = <i>L</i> · <i>di</i>/<i>dt</i>.
+Konstanten <i>L</i> kaldes
+<sp>Selvinduktionskoefficienten</sp> for Lederen. Idet <i>e</i> og <i>i</i>
+som forudsat maales henh. i Volt og i Ampère,
+faas <i>L</i> i en Enhed, der kaldes en <sp>Henry</sp>.
+Hvis en Leder er af en saadan Form og
+Størrelse, at der i den induceres 1 Volt, naar
+Strømmen stiger jævnt med 1 Ampère pr Sek.,
+har Lederen netop Selvinduktionen 1 Henry,
+saaledes som det fremgaar af 13°, der for <i>L</i>
+giver 1, naar <i>e</i> = 1 og <i>di</i>/<i>dt</i> = 1.
+Selvinduktionskoefficienten kan imidlertid ogsaa opfattes paa
+en ianden Maade. Af 10° følger, at <i>k</i> betyder
+det Antal magnetiske Induktionslinier, der
+omsluttes af Lederen, naar Strømmen i denne er
+1 Amp. Da <i>L</i> = 10<sup>-8</sup> <i>k</i>, betyder <i>L</i> maalt i
+Henry altsaa det Antal Linier, Lederen
+omslutter, naar Strømmen i den er 10<sup>-8</sup> Amp.
+Bestaar Lederen af fl. Vindinger, bliver
+Selvinduktionen, som man kan indse, Antallet af
+magnetiske Induktionslinier, som alle
+Vindinger tilsammen omslutter, naar Strømmen i
+Lederen er 10<sup>-8</sup> Amp. Hvis Lederen i Fig. 2
+bestaar af <i>n</i>-Vindinger af tyndere Traad i St f.
+af en enkelt tykkere Traad, vil Selvinduktionen
+af Lederen blive sat <i>n</i><sup>2</sup> Gange op. Thi for det
+første bliver Induktionsliniestrømmen for 10<sup>-8</sup> Amp.
+iflg. Biot og Savart's Lov <i>n</i> Gange saa stor ved <i>n</i>
+Vindinger som ved en, og for det andet passerer
+den magnetiske Strøm <i>n</i> Vindinger. Det
+samlede Antal omsluttede Induktionslinier bliver
+altsaa <i>n</i><sup>2</sup> Gange saa stort. Selvinduktionen
+vokser derfor med Kvadratet paa Vindingstallet.
+Ved Beregning af Selvinduktionen for Spoler af
+forsk. Tværsnit er det den ovf. antydede
+Betragtningsmaade, der lægges til Grund. Man
+søger altsaa at beregne den samlede
+Induktionsliniestrøm, der ved en vis Strøm flyder
+gennem alle Spolens Vindinger tilsammen.
+Beregningerne kan ofte medføre betydelige
+regnetekniske Vanskeligheder, men de er dog
+gennemført for en Rk. simplere Lederformer. Til
+Belysning af Dimensioner og Vindingstal
+gengives i Fig. 9 Tværsnittet
+af en Spole med
+Selvinduktionen 1 Henry.
+Spolens Viklingstværsnit er
+kvadratisk med Sider paa
+5,19 cm. Middelradius for
+Vindingerne er 9,61 cm.
+Spolen har 2316
+Vindinger af en Kobbertraad
+med en Diameter (uden
+Omspinding) paa 0,68 mm.
+Dens Modstand er c. 50
+Ohm.
+
+Ved en tredie Maade at
+anskue Selvinduktionen
+paa sætter man denne
+Konstant i Forbindelse
+med <sp>Energien i den
+magnetiske
+Induktionsliniestrøm</sp>. Denne Strøm indeholder
+nemlig en vis Energi, ligesom en Vandstrøm
+gør det. Energien maa leveres, naar Strømmen
+skal skabes, den maa fjernes, naar Strømmen
+skal bringes til Ophør. Lad <i>S</i> i Fig. 10
+forestille en Spole, gennem hvilken man kan slutte
+en elektrisk Strøm fra Strømkilden <i>B</i>. Naar
+den elektriske Strøm har naaet sin endelige
+Værdi <i>i<sub>m</sub></i>, flyder der en magnetisk Strøm
+igennem og om Spolen, og denne Strøm
+rummer altsaa Energi. Denne maa utvivlsomt være
+
+<img>Fig. 8.</img>
+

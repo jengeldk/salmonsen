@@ -1,0 +1,91 @@
+Lignende Centraler er bl. a. Odense e. K. og
+Fredericia e. K.
+
+Ved mange store Højspændingscentraler
+ligger Højspændingsanlægget og Maskinsalen i
+hver sin særskilte Bygning, idet saadanne
+Bygninger, der kan ligge forholdsvis langt fra
+hinanden, forbindes indbyrdes ved Tunneler
+ell. Kabelgrave, hvori Forbindelsesledninger
+mellem Maskinanlæg og Højspændingsanlæg
+føres. Dette er f. Eks. Tilfælde ved
+Vandkraftcentralerne ved Trollhättan og Elfkarleö i Sverige.
+
+Som Eksempel paa en Vekselstrøms e. K. skal
+omtales Vekselstrømsanlægget paa Østre Værk
+i Kbhvn, hvilket Værk i Virkeligheden er en
+e. K. for blandet Drift. Fig. 18 viser Østre
+Værks Vekselstrømsforbindelser mellem
+Maskiner, Samleskinner og Apparater. Et saadant
+Skema benævnes <sp>Fordelingsskema for
+Centralen</sp>. Fig. 19 viser et vandret Snit
+gennem Centralen. Der findes foruden
+Jævnstrømsanlægget, der ikke nærmere skal omtales,
+et Vekselstrømsanlæg, som indeholder tre
+Vekselstrømsturbogeneratorer, 2 Stkr à 2500 KW.
+6000 Volt og 1 Stk. 4000 KW. 6000 Volt. De
+drives af hver sin Dampturbine, der faar
+Damp fra et Kedelanlæg, bestaaende af 7 Stkr
+Stirlingkedler à 500 m<sup>2</sup> Hedeflade, hvilke
+Kedler dog kan sættes i Forbindelse med to mindre
+Vandrørskedler à 250 m<sup>2</sup> Hedeflade og et ældre
+Anlæg af 4 Stkr Røgrørskedler à 250 m<sup>2</sup>
+Hedeflade. Desuden findes 3 Stkr Economisere.
+Centralen er desuden Understation, idet der findes
+to Kaskadeomformere à 1000 KW., som
+omformer en Del af Vekselstrømmen til Jævnstrøm
+440 Volt (se Fordelingsskemaet, Fig. 18).
+Højspændingsrummene ligger i Forhold til
+Kedelanlægget paa modsat Side af Maskinsalen (se
+Fig. 19) og indeholder Højspændingsceller for
+Samlekinnerne og samtlige
+Højspændingsapparater. Fig. 20 viser et lodret Tværsnit gennem
+Højspændingsanlægget og en Del af Maskinsalen med
+en Dampturbine. Som det fremgaar af denne Fig.
+og Fig. 18, Fordelingsskemaet, ledes
+Vekselstrømmen fra en Vekselstrømsturbogenerator gennem
+Kabler under Maskinsalens Gulv til en Celle,
+der indeholder en Olieafbryder og
+Maaletransformatorer for Faseforskydningsmaaler,
+Ampère-, Volt- og Wattmetre og Maalere samt for
+et Beskyttelsesrelais. Fra Olieafbryderen ledes
+Strømmen gennem blanke Kobberledninger, der
+bæres af Porcelænsisolatorer paa Væggene, op
+i næste Etage, hvor Kobberledningerne leder
+Strømmen til Samleskinnerne, der er oplagte
+vandrette og anbragte over hinanden, baarne af
+Isolatorer og indbyrdes adskilte ved vandrette
+isolerende Skillevægge. Fra Samleskinnerne udgaar
+derefter dels Forbindelser til Omformerne {se Fig. 18,
+Fordelingsskemaet), og dels Fødeledningerne; en saadan
+føres som vist i Fig. 18 og 20 fra
+Samleskinnerne ned i en Højspændingscelle, der ligger i
+samme Etage som Maskinsalen, og hvori der findes en
+Olieafbryder for Fødeledningen. Denne føres fra
+Samleskinnerne til Olieafbryderen og et Stykke
+efter denne som blank Kobberledning, oplagt paa
+Isolatorer; i den nævnte Celle gaar Kobberledningen
+imidlertid over i et Kabel (alle 3 Faseledninger i samme,
+trekorede Kabel), idet der dog først tages
+Afgreninger fra Kobberledningerne til
+Maaletransformatorer for Ampèremetre, Maaler-
+og Beskyttelsesrelais i Fødeledningen (se
+Fordelingsskemaet). Kablet gaar fra
+Højspændingscellen ned i Centralens Kælder og
+derfra ud under Gaderne. Der findes et
+Synkronoskop fælles for begge Generatorer; dette
+er tilsluttet Samleskinnerne gennem en
+passende Spændingstransformator (s. d.), der ses
+under Samleskinnerne længst til højre paa
+Fordelingsskemaet. Længst til venstre paa dette er
+der over Samleskinnerne vist
+Overspændingssikringer for Centralens Samleskinner,
+Apparater og Maskiner, samt
+Isolationsprøveapparater. Naar Fødeledningerne skal sættes paa
+Spænding, tilsluttes de et Sæt Ladeskinner,
+inden de forbindes med de egl. Samleskinner.
+Ladeskinnerne sættes langsomt paa Spænding
+
+<img>
+Fig. 21. Østre Elektricitetsværk, Højspændingsrum med Olieafbryder.
+</img>

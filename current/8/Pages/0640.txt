@@ -1,0 +1,128 @@
+anvendes til F., maa være sortmalet, og alt
+fremmed Lys holdes borte under
+Indstillingerne.
+
+Et betydeligt Antal andre, mest forældede
+Konstruktioner af Fotometre til
+Lysstyrkemaaling kan ikke omtales her. Til at svække den
+ene Lyskilde i et bekendt Forhold har man
+foruden Afstandsændring benyttet forsk. andre
+Metoder. Saaledes kan Lyset fra en udstrakt
+Lyskilde svækkes ved en <sp>Blænder</sp> med en
+tilstrækkelig lille Aabning; dette maa man f.
+Eks. anvende over for Solen, naar dens Lys
+skal sammenlignes med jordiske Lyskilders.
+Undertiden bruges Irisblændere (se
+<sp>Blænder</sp>). Hyppigt bruges <sp>Absorptionen</sp> i
+røgfarvede Glas, f. Eks. Glaskiler; hvor meget
+der absorberer, kan bestemmes ved Fotometret.
+Det er dog vanskeligt at faa godt røgfarvet
+Glas, der absorberer alle Spektrets Farver i
+samme Forhold, saa at Lyskildens Farve ikke
+forandres. Endvidere anvendes den
+<sp>roterende Sektor</sp>, en uigennemsigtig hurtigt
+roterende Skive med en Sektoraabning, hvis
+Vinkeludstrækning kan varieres; man har
+endogsaa indrettet det saaledes, at denne Variation
+kan iværksættes under Rotationen. Endelig er
+det muligt at opnaa en Svækkelse af Lyset i
+kendt Forhold paa mangfoldige Maader ved
+Anvendelse af
+<sp>Polarisationsapparater</sp>, naar Lyset først er gjort polariseret (se
+<sp>Polarisation</sp>).
+
+Af Konstruktionerne af Universalfotometre,
+der tillige kan bruges til Maaling af Belysning,
+skal omtales <sp>Weber's
+Mælkeglasfotometer</sp> (Fig. 8). I det vandrette, indvendig
+sværtede Rør <i>A</i>
+befinder sig
+Sammenligningslyskilden <i>n</i> (en
+Benzinlampe), hvis
+Flammehøjde kan
+maales udefra
+ved <i>s</i>. Den
+belyser Mælkeglaspladen <i>a</i>, der kan
+forskydes udefra,
+og hvis Afstand
+fra <i>n</i> ogsaa kan
+aflæses udefra. I
+Røret <i>B</i>, der kan
+drejes om <i>A</i>'s
+Akse, befinder sig en Lummer-Brodhun Terning <i>p</i>.
+Tragten <i>k</i> skal holde Sidelys borte; Øjet holdes
+ved <i>o</i>. Skal to Lyskilder sammenlignes,
+anbringes en Mælkeglasplade ved <i>b</i>; den belyses først
+med den ene Lyskilde, derefter med den
+anden i bekendte Afstande (simplest samme
+Afstand), og <i>a</i> forskydes hver Gang, til Synsfeltet
+er ens belyst. Har man een Gang for alle
+bestemt <i>a</i>'s Stilling, naar <i>b</i> er belyst af en
+Hefnerlampe i bekendt Afstand, kan man ved en
+enkelt Maaling direkte finde en Lyskildes
+Lysstyrke i Normallys. Til meget stærke Lyskilder
+bruges fl. Mælkeglasplader ved <i>b</i>; hvor meget
+de svækker Lyset, bestemmes forud ved det
+samme Fotometer. Paa samme Maade
+bestemmes een Gang for alle, hvordan <i>n</i>'s Lysstyrke
+afhænger af Flammehøjden, saa at man kan
+korrigere for Variationer i denne. Skal
+Apparatet maale Belysningen paa et bestemt Sted,
+anbringes en mat hvid Flade paa dette Sted,
+<i>b</i> tages bort, og Apparatet rettes nogenlunde
+vinkelret mod denne Flade. Er den
+tilstrækkelig stor, bliver Afstanden uden Bet. Hvor meget
+Apparatets Visning da bet. i Lux, findes ved at
+gentage Maalingen mod den samme Flade, naar
+den belyses af en Hefnerlampe i bekendt
+Afstand. Nyere Konstruktioner efter væsentlig
+samme Princip benytter som
+Sammenligningslyskilde en lille Glødelampe med konstant
+Strøm.
+
+Lysstrømmen kan findes ved Beregning, naar
+først Lyskildens Lysstyrke i tilstrækkelig mange
+forsk. Retninger er maalt; dette kan gøres paa
+en alm. Fotometerbænk, naar Lampeholderen
+indrettes drejelig om en vandret og en lodret
+Akse. I Praksis nøjes man hyppigt med at finde
+den <sp>rumlige Middellysstyrke</sp>, d. v. s.
+den samlede Lysstrøm fra Lyskilden divideret
+med 4 π, altsaa den Lysstrøm, man vilde have
+gennem Enhed af Rumvinkel, dersom
+Lyskildens Lysstyrke var ligelig fordelt i alle
+Rummets Retninger. Denne rumlige Middellysstyrke
+kan findes ved en enkelt Maaling ved
+<sp>Ulbricht's Kuglefotometer</sp> (Fig. 9), der
+har faaet stor Udbredelse til
+Glødelampemaalinger. Det bestaar af en stor hul Kugle
+(Diameter 1—2 m ell. mere) med mat hvid
+Inderside; Lampen <i>L</i>, der skal undersøges, er
+anbragt ekscentrisk inde i Kuglen. En
+Beregning vil vise, at enhver Fladeenhed af Kuglens
+Inderside, der er skærmet mod det direkte Lys
+fra <i>L</i>, og altsaa kun belyses ved spredt
+Tilbagekastning fra den øvrige Kugle, modtager en
+Lysmængde og derved faar en Klarhed, der er
+proportional med Lampens rumlige
+Middellysstyrke. Et Hul ved <i>M</i> i Kuglevæggen er dækket
+af en Mælkeglasplade og ved Skærmen <i>b</i>
+skærmet mod det direkte Lys; denne
+Mælkeglasplades Klarhed, der altsaa bliver et direkte
+Maal for den søgte rumlige Middellysstyrke,
+findes paa sædvanlig Maade, f. Eks. ved det i
+Fig. antydede Fotometer. Apparatet, der giver
+stor Nøjagtighed og er bekvemt at bruge,
+justeres ved en Lampe, for hvilken
+Middellysstyrken forud er fundet ad anden Vej.
+
+Foruden den rumlige Middel lysstyrke taler
+man om en vandret Middellysstyrke og andre
+tilsvarende Begreber. I mange Tilfælde har man
+dog Brug for at kende en Lyskildes virkelige
+Lysfordeling, Lysstyrken i alle Retninger. Den
+fremstilles bedst grafisk, idet man i hver
+
+<img>Fig. 8. Weber's Fotometer.</img>
+
+<img>Fig. 9. Ulbricht's Kuglefotometer.</img>

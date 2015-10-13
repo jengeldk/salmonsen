@@ -1,0 +1,99 @@
+1913 opdagede Lov, at der er en simpel
+Sammenhæng mellem Grundstoffernes Atomnumre
+og Bølgelængden af Spektrallinierne i Stoffernes
+Röntgenspektre. I Fig. 1 findes <sp>Moseley's
+Lov</sp> grafisk afbildet.
+
+Som Abscisse er afsat Grundstoffernes
+Atomnumre og som Ordinat Kvadratroden af den
+reciprokke Værdi af Bølgelængden, ell. med
+andre Ord Kvadratroden af Frekvensen, af de to
+stærkeste Linier i Stoffernes Röntgenspektre.
+Naar denne Størrelse bruges som Ordinat,
+bliver Kurverne næsten retlinede.
+Röntgenspektrene for de inaktive Luftarter er ikke
+kendte, derfor er der en aaben Plads
+paa Kurverne ud for disse. Derimod
+mangler der et Grundstof ved
+Atomnummer 43, thi uden en aaben
+Plads ved Nr. 43 vilde
+Lovmæssigheden ganske blive brudt. Af andre
+manglende Grundstoffer er der nu
+kun Numrene 61, 75, 85 og 87 tilbage.
+Det manglende Nr. 72 blev i 1923
+opdaget af <sp>Coster</sp> og <sp>Hevesy</sp> og
+kaldt Hafnium.
+
+I største Modsætning til denne
+»retlinede« Lovmæssighed mellem visse
+Egenskaber hos Grundstofferne staar
+den af Kemikerne fundne Periodicitet
+i Forandringen i andre, især de kem.
+Egenskaber op gennem Rækken af
+Grundstoffer. I Fig. 2 er vist den
+allerede af <sp>Lothar Meyer</sp> opdagede
+periodiske Lov for
+<sp>Atomvoluminerne</sp>.
+
+Som Abscisse er afsat
+Grundstoffernes Atomnummer og som Ordinat Stoffernes
+Atomvolumen (s. d.), der giver et Maal for den
+relative Størrelse af Atomerne. Som det ses
+paa Fig., følger Side om Side med
+Atomvoluminets Variation Variationen af Stoffernes kem.
+Egenskaber. Et tydeligt Billede af, hvorledes
+de kem. Egenskaber forandrer sig periodisk,
+faar man ved et Skema over det p. S.,
+saaledes som det er opført i Tabel II (se næste Side).
+
+I denne er Stafferne ordnet efter stigende
+Atomnummer og deles naturligt i 6 mindre og
+større Perioder og Beg. til en 7. Periode. Ved
+denne Opstilling ordnes Stofferne i otte lodrette
+Grupper; Stofferne inden for samme lodrette
+Gruppe viser analoge kem. Forhold. Saaledes
+er alle Stoffer i Gruppe 1
+monovalente og danner Iltforbindelser af
+Typen X<sub>2</sub>O, hvor X betegner et
+Grundstof i denne Gruppe. Stofferne i
+Gruppe 2 er divalente og danner
+Ilterne XO, Grundstofferne i Gruppe
+3 er trivalente og danner Ilterne
+X<sub>2</sub>O<sub>3</sub>, o. s. v. I al Alm. er den højeste
+Valens Maksimalvalensen) af et Stof
+over for Ilt lig med Nummeret paa
+den lodrette Gruppe, Stoffet tilhører.
+Undtagelser fra den regelmæssige
+Variation af Valensen dannes kun af
+de i Tabellen indrammede Stoffer,
+nemlig den store Gruppe af
+trivalente Stoffer mellem La 57 og Cp 71,
+de sjældne Jordarter, og desuden af
+Stofferne i Jerngruppen: Fe, Co og
+Ni. I mange Henseender analoge med
+Jerngruppen er de to Grupper af
+Platinmetaller: Ru, Rh, Pd og Os,
+Ir, Pt. En særlig Stilling i det p. S.
+indtager de i 8. Gruppe opførte
+Stoffer: He, Ne, A, Kr, X og Em. Disse
+Grundstoffer er de saakaldte <sp>inaktive Luftarter</sp>,
+og der kendes ingen kem. Forbindelser af dem:
+deres Valens er derfor Nul. Undertiden
+opstilles disse Stoffer derfor i en »nulte« Gruppe
+før Gruppe 1.
+
+Medens Valensen over for Ilt vokser fra
+Gruppe 1 til Gruppe 8, vil Valensen over for Brint
+falde fra 4 i Gruppe 4 til 1 i Gruppe 7. I Tabel
+III er opført Brint- og de højeste
+Iltforbindelser af Stofferne i 3. Periode.
+
+<table>
+<td><td 8>Tabel III.
+<td>Na<sub>2</sub>O<td>MgO<td>Al<sub>2</sub>O<sub>3</sub><td>SiO<sub>2</sub><td>P<sub>2</sub>O<sub>5</sub><td>SO<sub>3</sub><td>Cl<sub>2</sub>O<sub>7</sub><td>A
+<td c>—<td c>—<td c>—<td>SiH<sub>4</sub><td>PH<sub>3</sub><td>SH<sub>2</sub><td>ClH<td>A
+</table>
+
+<img>Fig. 1. Moseley-Kurven.</img>
+
+<img>Fig. 2. Lothar Meyers Kurve.</img>

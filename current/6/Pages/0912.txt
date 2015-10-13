@@ -1,0 +1,140 @@
+Gnidningselektricitet og Galvanisme, var endnu anset for et
+aabent Spørgsmaal. Faraday viste 1833, at
+enhver kendt Virkning af E. kunde opnaas med
+dem begge. I sin næste Række Undersøgelser
+beskæftigede Faraday sig med
+<sp>Elektrolysen</sp> og fandt i 1833 og det flg. Aar de
+vigtige kvantitative Love, som indledede
+Kendskabet til den nøje Forbindelse, der hersker
+mellem E. og Stof. Fra Lederne vendte han
+sig mod Isolatorerne og opdagede 1837 deres
+<sp>dielektriske Virkning</sp>, som han Aaret
+efter forklarede ved at antage en elektrisk
+Fordeling inden for de enkelte Molekyler. Denne
+Opdagelse bestyrkede ham i hans Tro paa
+hans <sp>Kraftlinieteori</sp>, hvorved
+Hovedsædet for de elektriske og magnetiske
+Fænomener lægges ud i det omgivende Rum, saa at
+dette formidler Kraftoverføringen. Endelig
+opdagede han 1845 Magnetismens <sp>Drejning
+af Lysets Polarisationsplan</sp>, og
+samtidig ledtes han til Opdagelsen af
+<sp>Diamagnetismen</sp>, idet en Stang af tungt Glas,
+der var blevet anvendt ved Forsøgene, stillede
+sig vinkelret paa de magnetiske Kraftlinier.
+
+<sp>Elektricitet og Varme</sp>. <sp>De mat.
+Fysikere ved 19. Aarh.'s Midte</sp>.
+Sammenhængen mellem den elektriske Strømstyrke
+og dens Varmeudvikling blev paavist af <sp>Joule</sp>
+1841, Varmetoningen ved Strømmens
+Gennemgang gennem et Loddested var opdaget allerede
+1834 af <sp>Peltier</sp>, og den Varmetoning, der
+fremkommer, naar Strømmen gaar gennem en
+Ledning med Temperaturforskelle, men af
+samme Metal overalt, blev fundet af <sp>W.
+Thomson</sp> (senere <sp>Lord Kelvin</sp>) 1854, der førtes
+til Opdagelsen ved varmeteoretiske
+Betragtninger.
+
+Medens Faraday udtrykte Lovene for
+Induktionen ved Hjælp af sine Kraftlinier, gav <sp>F.
+Neumann</sp>, gaaende ud fra Ampères Teori,
+dem et mat. Udtryk ved Indførelsen af det
+elektrodynamiske Potential og Vektorpotentialet
+1845. Af Tidsalderens andre mat. Fysikere
+fremsatte <sp>W. Weber</sp> 1846 en Elektricitetsteori, der
+kan betragtes som en Forløber for den senere
+Elektronteori. <sp>H. Helmholtz</sp> og <sp>W.
+Thomson</sp> opklarede Energiforholdene ved de
+elektriske og magnetiske Fænomener. Førstnævnte
+bestemte bl. a. Konstanten i Induktionsloven
+(1847) ved Anvendelse af Energisætningen og
+(1882) Forholdet mellem den elektromotoriske
+Kraft og den kem. Proces' Varmetoning i et
+galvanisk Element. W. Thomson skyldes
+Indførelsen af den elektrokinetiske Energi 1851 og
+af de forsk. Begreber, magnetisk Induktion,
+Permeabilitet o. s. v. (1851), som vi nu
+anvender til at karakterisere et Stofs magnetiske
+Egenskaber, endvidere Teorien for den
+oscillerende Udladning (1853) og for E.'s Udbredelse
+i Kabler og langs Traade (1854). Thomson's
+Afh. om E.'s Udbredelse langs Traade blev 1857
+før videre af <sp>G. Kirchhoff</sp>, som viste, at
+Hastigheden vilde blive lig Forholdet mellem en
+elektrisk Ladnings elektrostatiske og
+elektromagnetiske Maal, og dette Forhold var Aaret
+forud blevet bestemt eksperimentelt af <sp>W.
+Weber</sp> og <sp>R. Kohlrausch</sp> og fundet meget
+nær lig Lysets Hastighed. I et Par tidligere
+Afh. havde <sp>Kirchhoff</sp> almindeliggjort Ohm's
+Lov (1848) og paavist Identiteten af Ohm's
+elektromotoriske Kraft og det elektrostatiske
+Potential (1849). Eksperimentelt blev den
+oscillerende Udladning nærmere undersøgt af <sp>W.
+Feddersen</sp> (1858).
+
+<sp>Maxwell. Hertz</sp>, <sp>den
+elektromagnetiske Lysteori</sp>. Ved at læse Faraday's
+<i>Experimental Researches</i> var <sp>J. C. Maxwell</sp>
+blevet dybt overtydet om Rigtigheden af
+Faraday's Kraftlinieteori. Udrustet, som han var,
+med en Forestillingsevne, beslægtet med
+Faraday's, og tillige med en fremragende mat.
+Begavelse, søgte han at danne sig et mekanisk
+Billede af Æteren, d. v. s. det »tomme«
+Mellemrum mellem de materielle Legemer, saaledes
+som det maatte tænkes at være, for at det
+skulde kunne frembringe de elektromagnetiske
+Fænomener. Om end dette ikke lykkedes ham,
+var det dog paa denne Maade, at han kom ind
+paa den Anskuelse, som blev Hovedpunktet i
+hans Teori, nemlig at den elektriske Krafts
+Variation med Tiden frembringer en elektrisk
+Strøm, selv i et Rum uden Ledere ell.
+dielektriske Legemer. Teorien, der udarbejdedes
+1861-62, førte bl. a. til, at elektriske Svingninger
+skulde kunne forplante sig uafhængig af
+ledende Legemer og med en Hastighed lig Forholdet
+mellem en Elektricitetsmængdes
+elektrostatiske og elektromagnetiske Maal, der som ovf.
+omtalt var fundet lig med Lysets Hastighed.
+Maxwell drog deraf den Slutning, at Lyset selv
+er elektriske Svingninger, og fremsatte denne
+<sp>elektromagnetiske Lysteori</sp> i en
+mere udviklet Form 1864. Maxwell's Teori blev
+først almindeligere kendt gennem hans
+<i>Treatise on Electricity and Magnetism</i> (1873), den
+berømteste sammenfattende teoretiske
+Behandling af Elektricitetslæren. I denne findes bl. a.
+en udførligere Omtale af de fiktive Spændinger
+i Kraftlinierne, ved hvilke han ledtes til
+Antagelsen af, at Lyset udøver et Tryk paa
+Legemer, der rammes af det, en Antagelse, der
+spiller en stor Rolle i Varmestraalingens Teori
+og i Astrofysikken, men som først er blevet
+direkte eksperimentelt bekræftet længe efter. I de
+flg. Aar førtes Teorien videre, bl. a. af <sp>H. A.
+Lorentz</sp> og af <sp>Fitz Gerald</sp>; derimod
+forelaa der ingen eksperimentel Bekræftelse.
+Ganske vist havde <sp>L. Boltzmann</sp> (1874) ved
+Maaling af Luftarternes Dielektricitetskonstant
+fundet Teoriens Forudsigelse, at denne
+Størrelse skulde være lig Kvadratet paa
+Brydningsforholdet, bekræftet, men ved andre Stoffer
+viste der sig til Gengæld store Afvigelser.
+
+Det eksperimentelle Bevis for Rigtigheden af
+Maxwell's Teori blev først givet af <sp>H. Hertz</sp>
+1888. I fl. Aar havde han beskæftiget sig med
+Tanken om et saadant, uden at han havde haft
+Held til at finde en Metode dertil, da han
+Foraaret 1886 iagttog Gnister mellem Enderne af
+en Kobbertraad, der var bøjet, saa at den
+dannede et Rektangel, naar den ved en enkelt
+Ledning var forbundet med en Ruhmkorff's
+Rulle. Dette kunde forklares ved, at E.
+brugte Tid om at løbe langs en Ledning,
+og derfor ved usymmetrisk Anbringelse af
+Tilledningen ikke kom samtidig til Kobbertraadens

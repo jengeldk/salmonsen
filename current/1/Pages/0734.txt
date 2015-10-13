@@ -1,0 +1,162 @@
+i Funktionsteorien, hvor Funktioners Variation
+anskueliggøres ved Hjælp af de Riemannske
+Flader. Som et andet under <i>A. s.</i> hørende
+Spørgsmaal kan nævnes: Hvad er det mindste
+Antal kontinuerlige Træk, hvori man kan
+gennemløbe en af sammenhængende Liniestykker
+sammensat Figur? Euler's Behandling af dette
+Spørgsmaal anvendt paa Broerne over Pregel
+i Königsberg (det königsbergske Broproblem) er
+den første kendte Undersøgelse i <i>A. s.</i> Videre maa
+fremhæves det endnu ikke løste
+Kortfarveproblem, der gaar ud paa at bestemme, hvor
+mange Farver der er nødvendige for paa et
+vilkaarligt Landkort at give hvert Land sin
+Farve, uden at to langs en Grænse
+sammenstødende Lande er farvede ens; endelig
+Opgaver, vedrørende Kurver, der er slyngede ind
+i hinanden, saaledes som f. Eks. de tre
+Borromeiske Ringe (et italiensk Adelsvaaben), der
+er kædede saaledes sammen, at de falder fra
+hinanden, hvis en vilkaarlig af dem borttages.
+<i>A. s.</i> er ogsaa udvidet til Rum med et
+vilkaarligt Antal Dimensioner. Den første
+sammenhængende Behandling af <i>A. s.</i> er givet i
+Listing's »Vorstudien zur Topologie«
+(Göttingen 1848). Den videre Udvikling skyldes bl. a.
+Riemann, Betti, Poincaré, Tait; som danske
+Dyrkere af <i>A. s.</i> maa nævnes Jul. Petersen og
+Heegaard.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Analytik">
+<b>Analytik</b> (gr. ἀναλυτικη τέχνη) betegner hos
+Aristoteles Kunsten at opløse en Tankegang og
+naa frem til alm. Principper. Kant bruger
+Ordet i samme Bet. Mere begrænset bet. den
+<sp>transcendentale A.</sp> »Opløsning af vor
+samlede aprioriske Erkendelse i den rene
+Forstandserkendelses Elementer« (»Kritik der
+reinen Vernunft«, 1781, II Del 1).
+<i>A. T-n.</i>
+</chapter>
+
+<chapter name="Analytik (se Analyse (mat))">
+<b>Analytik,</b> se <sp>Analyse</sp> (<sp>mat.</sp>).
+</chapter>
+
+<chapter name="analytisk">
+<b>analytisk</b> (gr.), opløsende, udviklende,
+forklarende; <sp>a. Metode</sp>, se <sp>Analyse</sp> (kem.).
+</chapter>
+
+<chapter name="analytiske Sprog">
+<b>analytiske Sprog</b> kaldes de Sprog, hvor de
+grammatiske Forhold ikke udtrykkes ved
+uopløselig forbundne Endelser, men i alt Fald for
+en stor Del ved mere selvstændige Elementer
+som Hjælpeverber, Præpositioner o. desl.
+Benævnelsen bruges især om de moderne romanske
+og germanske Sprog i Modsætning til vor
+Sprogæts ældre Sprogtrin, hvis mere <sp>syntetiske</sp>
+Bygning kendes f. Eks. fra Latin. Lat. <i>cantaveram</i>
+udtrykker saaledes ved eet Ord, hvad vi ell.
+Franskmændene bruger tre til: »jeg havde
+sunget«, <i>j'avais chanté</i>. Nogen fast Grænse mellem
+de to Arter Sprog lader sig ikke drage. Se i
+øvrigt <sp>Sprog</sp>.
+<i>O. Jsp.</i>
+</chapter>
+
+<chapter name="analytisk Geometri">
+<b>analytisk Geometri</b> er en algebraisk
+Behandling af Geometrien, støttet paa
+Koordinater (s. d.). I Plangeometrien kan man f. Eks.
+bruge Fremstillingen af Planens Punkter ved
+retvinklede Koordinater; man vælger to faste
+paa hinanden vinkelrette Linier, Koordinatakser,
+og et Punkts Koordinater er da Afstandene fra
+Koordinataksernes Skæringspunkt til Punktets
+retvinklede Projektioner paa Akserne. For at
+Punktet kan være entydigt bestemt ved sine
+Koordinater, regnes disse positive ell. negative,
+efter som de gaar til den ene ell. den anden Side
+fra Aksernes Skæringspunkt. En Kurve
+fremstilles ved en Ligning mellem to variable
+Størrelser, de løbende Koordinater, idet den
+indeholder alle de Punkter, hvis Koordinater
+indsatte i St. f. de løbende tilfredsstiller
+Ligningen, og ingen andre. Saaledes har en Cirkel
+med Centrum i Aksernes Skæringspunkt og
+Radius r Ligningen x<sup>2</sup>+y<sup>2</sup>=r<sup>2</sup>, hvor x og y
+betegner de løbende Koordinater. Koordinaterne
+til to Kurvers Skæringspunkter finder man ved
+at løse deres Ligninger m. H. t. de løbende
+Koordinater; Kurverne rører alm. hinanden,
+hvis to Skæringspunkter faar de samme
+Koordinater. I den plane a. G.'s Begyndelsesgrunde
+dannes Udtryk for Afstande, Vinkler,
+Polygoners Arealer, videre Ligningerne for rette
+Linier og Keglesnit samt for de sidstes Tangenter
+m. m. Et Fortrin ved a. G. er, at Vejen til at
+føre et Bevis ell. løse en Opgave, nemlig
+Opskrivningen og Behandlingen af de nødvendige
+Ligninger, frembyder sig af sig selv, medens det
+i den rene Geometri kommer an paa en heldig
+Idé. Paa den anden Side er den rene Geometris
+Løsninger ofte langt simplere, fordi man i a. G.
+tvinges til at bruge en bestemt Definition paa en
+Kurve, nemlig dens Ligning, der ikke altid er
+bekvem for den foreliggende Opgave. Denne ny
+Behandlingsmaade af Plangeometrien, der
+grundlagdes af Fermat og Descartes, særligt ved
+sidstnævntes Værk <i>La Géometrie</i> (1637), aabnede
+umaadelige Felter for Undersøgelser, f. Eks.
+de ved algebraiske Ligninger fremstillede
+Kurver. Igennem Behandlingen af de Opgaver, som
+den nødvendigt maatte løse: Bestemmelse af
+Tangenter, Krumningsradier, Buelængder,
+Arealer m. m., bidrog den mægtigt til Opfindelsen af
+Differentialregningen og til Udviklingen af denne
+og af den allerede hos Archimedes
+forekommende Integralregning. Clairault, Joh.
+Bernoulli og Euler udvidede den a. G. til Rummet,
+hvor man f. Eks. kan anvende tre paa hinanden
+vinkelrette Koordinatakser gennem samme Punkt;
+her fremstilles en Flade ved een Ligning, en
+Kurve ved to sammenhørende Ligninger, og
+støttet paa Differential- og Integralregningen
+bestemte man Tangentplaner og Tangenter,
+undersøgte Krumningsforhold og beregnede
+Buelængder, krumme Fladers Arealer samt
+Rumfang, begrænsede af krumme Flader. Medens
+a. G. i Beg. støttede sig til Parallelkoordinater,
+bragtes den efterhaanden til at omfatte de
+andre Koordinatsystemer; særlig maa nævnes
+Plücker's Indførelse af de vigtige
+Trekantskoordinater (1835). Da Bogstavbetegnelser for
+Koordinater og Konstanter i Ligninger lige godt
+kunde betyde reelle og imaginære Tal, taler
+man i a. G. om imaginære Punkter, Kurver og
+Flader, hvorved Sætningerne faar en kortere
+og mere afrundet Form; man kan f. Eks., naar
+imaginære Skæringspunkter medregnes, sige, at
+to Keglesnit alm. skærer hinanden i 4 Punkter.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="analytisk Kemi (se Analyse (kem.))">
+<b>analytisk Kemi</b> se <sp>Analyse</sp> (kem.).
+</chapter>
+
+<chapter name="analytisk Undervisning (se Undervisningsmetode)">
+<b>analytisk Undervisning,</b> se <sp>Undervisningsmetode</sp>.
+</chapter>
+
+<chapter name="Anam">
+<b>Anām</b> [alm. ↱anam] (<sp>Annam</sp>, <sp>Ngannam</sp>
+ɔ: det beroligede Syden), fr. Vasalstat paa
+Østsiden af Bagindien, grænser mod N. og S. til
+de franske Kolonier Tonkin og Kochinkina, mod
+Ø. til det sydkinesiske Hav, medens Vandskellet

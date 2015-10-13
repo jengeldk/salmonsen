@@ -1,0 +1,435 @@
+<chapter name="Rio de Barrancas">
+<b>Rio de Barrancas,</b> se <sp>Colorado</sp>, S. 139.
+</chapter>
+
+<chapter name="Rio de las Balsas">
+<b>Rio de las Balsas,</b> se <sp>Guerrero</sp> og
+<sp>Michoacán</sp>.
+</chapter>
+
+<chapter name="Rio de la Asuncion">
+<b>Rio de la Asuncion,</b> se <sp>Sonora</sp>.
+</chapter>
+
+<chapter name="Rio del Rey">
+<b>Rio del Rey,</b> se <sp>Nigeria</sp>.
+</chapter>
+
+<chapter name="Rio de Oro">
+<b>Rio de Oro</b> (maurisk El Deila es Saharia),
+Omraade i den spanske Besiddelse Sáhara
+Occidental. Se dette i Supplementet.
+<i>W. P.</i>
+</chapter>
+
+<chapter name="Rio Desaguadero">
+<b>Rio Desaguadero,</b> se <sp>Bolivia</sp> og
+<sp>Cordilleras</sp>, S. 217.
+</chapter>
+
+<chapter name="Rio Desaguadero">
+<b>Rio Desaguadero,</b> se <sp>Rio Salado</sp>.
+</chapter>
+
+<chapter name="Rio Dulce">
+<b>Rio Dulce,</b> se <sp>Rio Saladillo</sp>.
+</chapter>
+
+<chapter name="Rio Gila">
+<b>Rio Gila,</b> se <sp>Colorado</sp>, S. 139.
+</chapter>
+
+<chapter name="Rio Giparaná">
+<b>Rio Giparaná,</b> se <sp>Madeira</sp>, S. 355.
+</chapter>
+
+<chapter name="Rio Grande">
+<b>Rio Grande,</b> se <sp>Bolivia</sp>.
+</chapter>
+
+<chapter name="Rio Grande">
+<b>Rio Grande,</b> se <sp>Colorado</sp>, S. 139.
+</chapter>
+
+<chapter name="Rio Grande">
+<b>Rio Grande,</b> se <sp>Minas Geraës</sp>.
+</chapter>
+
+<chapter name="Rio Grande">
+<b>Rio Grande,</b> se <sp>Nicaragua</sp>, S. 906.
+</chapter>
+
+<chapter name="Rio Grande">
+<b>Rio Grande,</b> se <sp>Tobak</sp>, S. 540.
+</chapter>
+
+<chapter name="Rio Grande de San Francisco">
+<b>Rio Grande de San Francisco,</b> se <sp>Rio
+Bermejo</sp>.
+</chapter>
+
+<chapter name="Rio Grande do Norte">
+<b>Rio Grande do Norte.</b> Befolkningen anslaas
+1926 til 667000.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Rio Grande do Sul">
+<b>Rio Grande do Sul.</b> Befolkningen anslaas
+1926 til 2684000.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Rio Guachipas">
+<b>Rio Guachipas,</b> se <sp>Rio Salado</sp>.
+</chapter>
+
+<chapter name="Rio Guaviare">
+<b>Rio Guaviare,</b> se <sp>Colombia</sp>.
+</chapter>
+
+<chapter name="Rio Imperial">
+<b>Rio Imperial,</b> d. s. s. <sp>Cautin</sp>.
+</chapter>
+
+<chapter name="Rioja">
+<b>Rioja,</b> se <sp>spansk Vin</sp>.
+</chapter>
+
+<chapter name="Rioja, La">
+<b>Rioja,</b> <sp>La</sp>. Provinsen anslaas 1927 til at have
+93400 Indb., Byen L. R. til 12500.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Rio Jacuhy">
+<b>Rio Jacuhy,</b> se <sp>Rio Grande do Sul</sp>.
+</chapter>
+
+<chapter name="Rio Jamary">
+<b>Rio Jamary,</b> se <sp>Madeira</sp>.
+</chapter>
+
+<chapter name="Rio Juramento">
+<b>Rio Juramento,</b> se <sp>Paraná</sp>.
+</chapter>
+
+<chapter name="Rio Lao">
+<b>Rio Lao,</b> se <sp>Chile</sp>.
+</chapter>
+
+<chapter name="Rio Lempa">
+<b>Rio Lempa,</b> se <sp>San Salvador</sp>.
+</chapter>
+
+<chapter name="Rio Loa">
+<b>Rio Loa,</b> se <sp>Cordilleras</sp>, S. 217.
+</chapter>
+
+<chapter name="Rio Loa Desierto de Atacama">
+<b>Rio Loa Desierto de Atacama,</b> se
+<sp>Cordilleras</sp>, S. 217.
+</chapter>
+
+<chapter name="Riom">
+<b>Riom</b> har 10944 Indb. (1926)
+Arrondissementet R., 2316 km<sup>2</sup> med 114228 Indb. (1926), deles
+i 13 Kantoner og 238 Kommuner.
+<i>W. P.</i>
+</chapter>
+
+<chapter name="Rio Magdalena">
+<b>Rio Magdalena,</b> se <sp>Colombia</sp>.
+</chapter>
+
+<chapter name="Rio Malaquita">
+<b>Rio Malaquita,</b> se <sp>Talca</sp>.
+</chapter>
+
+<chapter name="Rio Mamoré">
+<b>Rio Mamoré,</b> se <sp>Madeira</sp>.
+</chapter>
+
+<chapter name="Rio Manu">
+<b>Rio Manu,</b> se <sp>Paucartambo</sp>
+</chapter>
+
+<chapter name="Rio Marmoré">
+<b>Rio Marmoré,</b> se <sp>Bolivia</sp>.
+</chapter>
+
+<chapter name="Rio Mayo">
+<b>Rio Mayo,</b> se <sp>Sonora</sp>.
+</chapter>
+
+<chapter name="Rio Meta">
+<b>Rio Meta,</b> se <sp>Colombia</sp>.
+</chapter>
+
+<chapter name="Rio Mexcala">
+<b>Rio Mexcala,</b> se <sp>Oaxaca</sp>, <sp>Mexiko</sp>, S.
+1043 og <sp>Tlascala</sp>.
+</chapter>
+
+<chapter name="Rio Muni">
+<b>Rio Muni,</b> nu <sp>Bata</sp>, har 68024 Indb. (1926).
+Administrationens Sæde Nuevo Bata har 900
+Indb.
+<i>W. P.</i>
+</chapter>
+
+<chapter name="Rio Negro">
+<b>Rio Negro,</b> se <sp>Nicaragua</sp>.
+</chapter>
+
+<chapter name="Rionero in Vulture">
+<b>Rionero in Vulture,</b> (1925) 11338 Indb.
+</chapter>
+
+<chapter name="Rionnit">
+<b>Rionnit,</b> se <sp>Falerts</sp>.
+</chapter>
+
+<chapter name="Rio Nun">
+<b>Rio Nun,</b> se <sp>Niger</sp>.
+</chapter>
+
+<chapter name="Rio Orton">
+<b>Rio Orton,</b> se <sp>Madre de Dios</sp>.
+</chapter>
+
+<chapter name="Rio Papaloapan">
+<b>Rio Papaloapan,</b> se <sp>Oaxaca</sp>.
+</chapter>
+
+<chapter name="Rio Pasaje">
+<b>Rio Pasaje,</b> se <sp>Rio Salado</sp>.
+</chapter>
+
+<chapter name="Rio Pilcomayo">
+<b>Rio Pilcomayo,</b> se <sp>Bolivia</sp>.
+</chapter>
+
+<chapter name="Rio Piray">
+<b>Rio Piray,</b> se <sp>Madeira</sp>.
+</chapter>
+
+<chapter name="Rio Putumayo">
+<b>Rio Putumayo,</b> se <sp>Colombia</sp>.
+</chapter>
+
+<chapter name="Rio Salado">
+<b>Rio Salado,</b> se <sp>Mexiko</sp>, S. 1042.
+</chapter>
+
+<chapter name="Rio Sali">
+<b>Rio Sali,</b> se <sp>Rio Saladillo</sp>.
+</chapter>
+
+<chapter name="Rio Securo">
+<b>Rio Securo,</b> se <sp>Madeira</sp>.
+</chapter>
+
+<chapter name="Rio Tabasco">
+<b>Rio Tabasco,</b> se <sp>Mexiko</sp>, S. 1043.
+</chapter>
+
+<chapter name="Rio Tala">
+<b>Rio Tala,</b> se <sp>Rio Saladillo</sp>.
+</chapter>
+
+<chapter name="Rio Tauamano">
+<b>Rio Tauamano,</b> se <sp>Madre de Dios</sp>.
+</chapter>
+
+<chapter name="Rio Teuco">
+<b>Rio Teuco,</b> se <sp>Rio Bermejo</sp>.
+</chapter>
+
+<chapter name="Rio Tipitapa">
+<b>Rio Tipitapa</b>, se <sp>Nicaragua</sp>, S. 906.
+</chapter>
+
+<chapter name="Rio Tono">
+<b>Rio Tono,</b> se <sp>Madre de Dios</sp>.
+</chapter>
+
+<chapter name="Rio Uaupés">
+<b>Rio Uaupés,</b> se <sp>Rio Negro</sp> 1).
+</chapter>
+
+<chapter name="Rio Ulua">
+<b>Rio Ulua,</b> se <sp>Honduras</sp>, S. 705.
+</chapter>
+
+<chapter name="Rio Uruguay">
+<b>Rio Uruguay,</b> se <sp>Rio Grande do Sul</sp>.
+</chapter>
+
+<chapter name="Rio Usumacinta">
+<b>Rio Usumacinta,</b> se <sp>Guatemala</sp>, S. 328.
+</chapter>
+
+<chapter name="Rio Waupes">
+<b>Rio Waupes,</b> se <sp>Colombia</sp>.
+</chapter>
+
+<chapter name="Rio Ventuari">
+<b>Rio Ventuari,</b> se <sp>Orinoco</sp>.
+</chapter>
+
+<chapter name="Rio Verde">
+<b>Rio Verde,</b> se <sp>Oaxaca</sp>.
+</chapter>
+
+<chapter name="Rio Yacuma">
+<b>Rio Yacuma,</b> se <sp>Madeira</sp>.
+</chapter>
+
+<chapter name="Rio Yapacani">
+<b>Rio Yapacani,</b> se <sp>Madeira</sp>.
+</chapter>
+
+<chapter name="Ripatransone">
+<b>Ripatransone,</b> (1925) 7656 Indb.
+</chapter>
+
+<chapter name="Riphaei">
+<b>Riphaei,</b> d. s. s. <sp>Ural</sp>.
+</chapter>
+
+<chapter name="Ripley">
+<b>Ripley,</b> (1927) 14110 Indb.
+</chapter>
+
+<chapter name="Ripomerancio">
+<b>Ripomerancio,</b> d. s. s. <sp>Pomarance</sp>.
+</chapter>
+
+<chapter name="Ripon">
+<b>Ripon,</b> By i det nordlige England, Yorkshire,
+(1927) 8359 Indb.
+</chapter>
+
+<chapter name="Ripon-Fald">
+<b>Ripon-Fald,</b> se <sp>Nilen</sp>, S. 963.
+</chapter>
+
+<chapter name="Riposto">
+<b>Riposto,</b> (1925) 10697 Indb.
+</chapter>
+
+<chapter name="Risano">
+<b>Risano</b> har som Kommune 3778 Indb. (1921).
+</chapter>
+
+<chapter name="Risbyholm">
+<b>* Risbyholm,</b> Hovedgaard, Nord for Køge.
+Areal c. 275 ha.
+<i>N. J.</i>
+</chapter>
+
+<chapter name="Risca">
+<b>Risca,</b> (1927) 17890 Indb.
+</chapter>
+
+<chapter name="Rise">
+<b>Rise,</b> <sp>Herred</sp>, havde (1925) 7571 Indb.
+</chapter>
+
+<chapter name="Risé">
+<b>* Risé,</b> tyrkisk Vilajet ved Lilleasiens
+Nordkyst, 4590 km<sup>2</sup> med (1927) 171667 Indb.,
+omfatter Landskabet Lasistan. Hovedstaden R. ligger
+ved Kysten og har 13701 Indb.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Risfugl">
+<b>Risfugl,</b> se <sp>Amandiner</sp>.
+</chapter>
+
+<chapter name="Risgærde">
+<b>Risgærde,</b> se <sp>Hegn</sp>.
+</chapter>
+
+<chapter name="Rishiri">
+<b>Rishiri,</b> se <sp>Japan</sp>, S. 805.
+</chapter>
+
+<chapter name="Rishton">
+<b>Rishton,</b> (1927) 7014 Indb.
+</chapter>
+
+<chapter name="Rishøj">
+<b>Rishøj,</b> se <sp>Viborg Amt</sp>.
+</chapter>
+
+<chapter name="Risle">
+<b>Risle,</b> d. s. s. <sp>Rille</sp> (Flod).
+</chapter>
+
+<chapter name="Risler, E.">
+<b>Risler,</b> <sp>E.</sp>, d. 22. Juli 1929 i Paris.
+</chapter>
+
+<chapter name="Rislev">
+<b>Rislev,</b> Jernbaneholdeplads,
+Ringsted—Næstved-Banen. (Se <sp>Danmark</sp>, Samfærdselskortet,
+<i>Suppl</i>.).
+</chapter>
+
+<chapter name="Rispebjerg">
+<b>Rispebjerg,</b> se <sp>Bornholm</sp>.
+</chapter>
+
+<chapter name="Rissa">
+<b>Rissa,</b> <sp>Herred</sp>, 3092 Indb. Antagen
+Formue 1927 var 5,3 Mill. Kr. og Indtægt 955454 Kr.
+</chapter>
+
+<chapter name="Rissa">
+<b>Rissa,</b> d. s. s. <sp>Suorsa</sp>.
+</chapter>
+
+<chapter name="Rissani">
+<b>Rissani,</b> se <sp>Tafilet</sp>.
+</chapter>
+
+<chapter name="Risskov">
+<b>Risskov,</b> Jernbaneholdeplads,
+Aarhus—Ryomgaard-Banen. (Se <sp>Danmark</sp>,
+Samfærdselskortet, <i>Suppl</i>.).
+</chapter>
+
+<chapter name="Rist, P. F.">
+<b>Rist,</b> <sp>P. F.</sp>, d. i Kjøbenhavn den 25. Juni 1926.
+</chapter>
+
+<chapter name="Ristovn">
+<b>Ristovn,</b> se <sp>Ristning</sp>.
+</chapter>
+
+<chapter name="Ristrup">
+<b>* Ristrup,</b> Sædegaard i Sabro Herred
+Nordvest for Aarhus, kendt fra 1400, ejedes i det 16.
+Aarhundrede af Erik Skram og Familien
+Rostrup, senere af Grev Valdemar
+Christian og Familierne
+Reenberg og Folsach. Areal 297 ha.
+<i>N. J.</i>
+</chapter>
+
+<chapter name="Risør">
+<b>Risør,</b> Areal 1,51 km<sup>2</sup> med
+3167 Indb. Handelsflaaden
+udgjorde i 1927 6 Dampskibe paa
+tilsammen 4787 Bruttotons og 2
+Motorfartøjer paa tilsammen 56
+t. Ejendommenes Skattetakst var
+5867000 Kr. Den antagne Formue
+5458000 Kr. og Indtægt 2222000 Kr. Ved
+Stortingsvalget i 1927 var der 1781
+stemmeberettigede, hvoraf 74,4 % afgav Stemme. R. vælger 5
+
+<img>Risør Vaaben.</img>

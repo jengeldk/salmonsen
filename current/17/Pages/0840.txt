@@ -1,0 +1,186 @@
+<chapter name="Negation">
+<b>Negation</b> (lat.). Benægtelse. Svarende til
+en bekræftende logisk Dom, f. Eks. »Rosen er
+rød«, har man den benægtende Dom »Rosen
+er ikke rød«. Den sidstnævnte Dom kan betegnes
+som N. af den første. I Overeensstemmelse med,
+at en Benægtelse af en Benægtelse er en
+Bekræftelse (<i>duplex negatio affirmat</i>), gælder, at
+N.'en af en benægtende Dom er lig den
+tilsvarende bekræftende Dom. N.'en af Dommen »Alle
+A er B« er »Nogle A er ikke B«. N.'en af
+Dommen »Nogle A er ikke B« er »Alle A er B«.
+
+To Domme, hvoraf den ene er den andens N.,
+kaldes kontradiktoriske, og der gælder i
+Overensstemmelse med Kontradiktionsprincippet om
+dem, at de ikke begge kan være sande;
+endvidere gælder det, at een af dem er sand (den
+udelukkede Midtes Grundsætning).
+
+Uden her at komme ind paa de nærmere
+Forhold vedrørende de to Former for N., kan
+det anføres, at man foruden, som anført, at
+negere en Dom, logisk kan negere et Begreb.
+Til Begrebet »rød« svarer Begrebet »ikke-rød«.
+(Se <sp>Kontradiktionsprincip</sp>).
+<i>Edg. R.</i>
+</chapter>
+
+<chapter name="negativ (mat.)">
+<b>negativ</b> (mat.). De n. Tal betegnes ved de
+positive Tal med Tegnet — (Minus) foran. Den
+første Egenskab, som man tillægger dem, er, at
+et n. Tal — <i>a</i>, »Minus <i>a</i>«, adderes til et andet
+Tal <i>b</i> ved, at man subtraherer det positive Tal
+<i>a</i> fra <i>b</i> (8 + [— 5] = 8—5 = 3). Hvorledes der
+i de andre Regningsarter skal forholdes med de
+n. Tal, fastslaas, for saa vidt det ikke følger af
+den nysnævnte Egenskab, ved ny Definitioner,
+der vælges saaledes, at Regningsreglerne bliver
+de samme som for positive Tal. De n. Tal
+danner en Udvidelse af den positive Talrække ud
+over Nul, som det laa nær at indføre, saa snart
+man kom til Subtraktioner, Tilbagetælninger,
+der fører uden for den positive Talrække; i
+en Mængde Opgaver (f. Eks. Opgørelse af en
+Formue) forekommer der Størrelser
+(Gældsposter), der ved Optællinger skal virke
+formindskende, og for saadanne afgiver de n. Tal
+hensigtsmæssige Betegnelser. Det er dog først
+hos Inderen Bhâskara (f. 1114), at man træffer
+Tilløb til Regning med n. Tal; en videre
+Udvikling fandt St. under Matematikkens
+Opblomstring i Europa omkr. Beg. af den nyere
+Tid, f. Eks. ved Chuquet og Cardano. Hudde
+var egl. den, der i et Tillæg til Descartes'
+Geometri gav de n. Tal fuld Ligestilling med de
+positive ved at lade samme Bogstav betyde
+snart den ene, snart den anden Slags Tal;
+herved simplificeredes Algebraens, særlig
+Ligningsteoriens, Lærebygning i en ganske
+overordentlig Grad.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Negativ (fot.)">
+<b>Negativ</b> (fot.) kaldes i Fotografien det Billede
+— paa Glas, Film ell. Papir —, der dannes ved
+Fremkaldelse af et i Fotografiapparatet dannet
+latent Billede (se <sp>Fotografi</sp>). Til den
+fotograferede Genstands lyse Partier svarer N.'s
+uigennemsigtige, sorte Sølvpartier, og til
+Originalens mørkeste Dele svarer N.'s klare,
+gennemsigtige Partier.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="negativ Forskydning af Strandlinien">
+<b>negativ Forskydning af Strandlinien</b>
+kaldes i Geologien en Niveauforandring, under
+hvilken Landet synes at hæves, ell. Vandet at
+synke.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Negativisme">
+<b>Negativisme</b> er et Symptom, som findes ved
+visse Sindssygdomme (<i>dementia præcox</i>) og
+viser sig ved, at vedk. Patient systematisk gør
+det modsatte af, hvad man beder ham om ell.
+giver ham Ordre til. Ogsaa hos iøvrigt
+normale Mennesker kan en vis Grad af N. optræde
+som Karakteregenskab, undertiden som Udtryk
+for en overdreven Selvhævdelse.
+<i>K. H. K.</i>
+</chapter>
+
+<chapter name="Negativlak">
+<b>Negativlak</b>, Harpiksopløsninger, der hældes
+over fot. Negativer for at beskytte dem.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="Negativpapir">
+<b>Negativpapir</b> er Papir, forsynet med en
+Hinde, som Regel af Gelatine, der indeholder
+et lysfølsomt Stof (Bromsølv m. m.). Det
+anvendes til Fremstilling af Negativer i det fot.
+Kamera ell. til forstørrede Negativer. Inden
+Kopieringen gøres N. gennemskinneligt ved
+Indgnidning med et Fedtstof.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="Negativtryk">
+<b>Negativtryk</b> anvendes af og til ved
+Trykning af Bogomslag, Plakater, Etiketter m. m. I
+St for at man ellers trykker Bogstaver og
+Tegninger med sort ell. anden Farve paa
+Papiret og lader Mellemrummene uberørte, er det
+her Grunden ell. Mellemrummene, der dækkes
+med Trykfarve, medens Bogstaver og
+Tegninger viser sig med Papirets Farve. Skal N.
+udføres i Bogtryk, maa man bruge Former ell.
+Klichéer, hvori Skriften o. s. v. staar fordybet.
+De kan udføres i Træsnit ell. ved Ætsning i
+Metal. Ved N. kan man naturligvis ogsaa bruge
+Litografi m. m.
+<i>(F. R. F.). C. E. A.</i>
+</chapter>
+
+<chapter name="Negatorieklage">
+<b>Negatorieklage</b>, i romanistisk Ret Ejerens
+Klageret imod den, der lægger Hindringer i
+Vejen for hans Brug af Ejendommen, f. Eks.
+ved at tilegne sig Udøvelsen af en Servitutret
+over den.
+<i>K. B.</i>
+</chapter>
+
+<chapter name="Negaunee">
+<b>Negaunee</b> [n<sub>i</sub>↱gå.ni.], By i U. S. A., Stat
+Michigan, ligger 20 km SV. f. Marquette midt
+iblandt meget rige Jernmalmgruber i Marquette
+Range, har store Højovne og betydelig Handel.
+(1910) 8460 Indb.
+<i>N. H. J.</i>
+</chapter>
+
+<chapter name="Negbærer">
+<b>Negbærer</b>, et Apparat, der bruges i
+Forbindelse med Selvbindere, og som bestaar af
+nogle Stænger, paa hvilke Negene opfanges,
+naar de kastes ud fra Bindebordet paa
+Høstmaskinen. Aflægningen af Negene dirigeres fra
+Kuskesædet. Paa større amer. Høstmaskiner
+anvendes ofte N., der ikke alene opsamler Negene,
+men tillige ved Aflæsningen stiller dem i Hob;
+saadanne Apparater kaldes Hobesættere.
+<i>A. C-n.</i>
+</chapter>
+
+<chapter name="Negenøjn (se Rundmunde)">
+<b>Negenøjn</b>, se <sp>Rundmunde</sp>.
+</chapter>
+
+<chapter name="Neger">
+<b>Neger</b> (lat. <i>niger</i>, ɔ: sort), Betegnelse for den
+mørkhudede indfødte Befolkning i Afrika. I
+antropologisk Henseende betegner N. et af
+Yderpunkterne for Menneskeslægtens Variation.
+Fælles for dem er plump Knoglebygning, meget
+mørk (»sort«) Hudfarve, fløjlsagtig Hud, flad,
+bred Næse, fremspringende Kæbeparti med
+tykke Læber, ejendommeligt affladet Skinneben og
+lang Hæl. Hovedskallen er hos største Delen
+lang; kun nogle Stammer i Kongo-Omraadet og
+enkelte Egne af Sudan viser Tendens til
+Kortskallethed. Lemmerne er hos de fleste meget
+lange i Forhold til Kroppen. Medens de nævnte
+Træk henviser N. til et mere opr. Trin end den
+eranske Race, er Haarets Bygning mindre
+primitiv end hos denne og betinger dets
+uldagtige Karakter. Skægvæksten er ringe.
+Legemshøjden varierer en Del, men er ofte
+betydelig (Kaffere, Stammer ved øvre Nil). Den

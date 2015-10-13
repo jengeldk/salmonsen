@@ -1,0 +1,140 @@
+mellem <i>A</i> og <i>B</i> angaaende Samtidigheden af de
+to ovenfor definerede Begivenheder, fordi en
+saadan kun vil finde Sted, naar de sker i to
+Punkter i Rummet, for hvilke Komponenten af
+Afstanden i Retningen af den relative
+Bevægelse er forsk. fra Nul. Tilbage bliver kun, den
+Indflydelse paa <i>B</i>'s Maaling, som skyldes den
+Omstændighed, at Tiden hos ham gaar
+langsommere. Denne Indflydelse gør den af <i>B</i>
+maalte Tidsforskel mindre i Forholdet √1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup>,
+og dette er netop tilstrækkeligt for at
+kompensere den Forskel, som der iflg. 2) ellers vilde
+have eksisteret mellem <i>B</i>'s og <i>A</i>'s Maaling.
+
+Den matematiske Formulering af de under
+1), 2) og 3) beskrevne Forhold bærer den af
+Poincaré foreslaaede Betegnelse
+»Lorentz-Transformationen«, fordi den for første Gang
+blev angivet af Lorentz 1904. Hvis man nu
+spørger, hvordan <i>B</i> fra sit Standpunkt vil tyde
+Resultatet af de Maalinger, som er udført ved
+<i>A</i>'s Forsøg, saa kommer vi til Resultatet, at <i>B</i>
+bedømmer <i>A</i> nøjagtigt paa samme Maade, som
+<i>A</i> bedømmer <i>B</i>, kun med den Forskel, at
+Retningen, i hvilken <i>A</i> bevæger sig i Forhold til <i>B</i>,
+er den modsatte af den, i hvilken <i>B</i> bevæger
+sig i Forhold til <i>A</i>. Fra <i>B</i>'s Standpunkt vil
+altsaa <i>A</i>'s Apparat og Maalestokke, og
+overhovedet alle Genstande i <i>A</i>'s System være forkortede
+i Bevægelsesretningen i Forholdet √1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup>; og
+Urene hos <i>A</i> og Tiden for <i>A</i> overhovedet gaar
+langsommere end hos ham selv. At dette maa
+forholde sig saadan, er en nødvendig Følge af
+Einstein's Relativitetsprincip, men ved første
+Øjekast synes det rigtignok at være en logisk
+Modsigelse uden lige. Man skulde da tro, at hvis
+<i>A</i> ser <i>B</i>'s Maalestok forkortet, saa maa <i>B</i> se <i>A</i>'s
+Maalestok forlænget. Paradokset opløser sig
+imidlertid, naar man tager den under 3) nævnte
+Relativitet af Samtidighedsbegrebet med i
+Betragtning. Ved Længden af en Stang, som er i
+Bevægelse, forstaar man nemlig Afstanden
+mellem to Punkter i Rummet, som paa et og samme
+Tidspunkt falder sammen med henh. Stangens
+Begyndelsespunkt og Endepunkt, og netop den
+Omstændighed, at to Begivenheder, som
+forekommer <i>B</i> samtidige, ikke forekommer <i>A</i>
+samtidige, forklarer Sagen, hvilket let vises ved en
+nærmere Analyse. Et analogt Forhold gør sig
+gældende ved Paradokset om Urenes Gang.
+Forestiller vi os igen, at Jernbanetogene kørte
+med en Hastighed af f. Eks. 200000 km pr Sek.,
+vilde det være en ganske alm. Erfaring, at de
+Rejsende ser Ledvogteren og hans Hus
+»forkortet« i Kørselsretningen, medens Ledvogteren
+selv ser Toget og alle Rejsende forkortet.
+
+4) <sp>Nogle vigtige Konsekvenser
+af den specielle R.</sp> Efter at Einstein
+saaledes af Erfaringen havde udledt, at der
+eksisterede mere indviklede Forhold mellem
+Resultaterrie af Længde- og Tidmaalinger hos forsk.
+Iagttagere, end man tidligere havde vidst, og at
+Lysets Hastighed spiller en saa overordentlig
+vigtig Rolle for den nærmere Beskrivelse af
+disse Forhold, krævedes der bl. a. en
+Undersøgelse af, hvilke Korrektioner Mekanikkens
+Love, som havde været udledt under alt for
+simple Forudsætninger, burde undergaa. Det
+viste sig, at Newton's berømte Lov: Kraft =
+Masse X Acceleration kun kunde bibeholdes,
+saafremt man antager, at et Legemes Masse
+ikke er en konstant Størrelse, men afhænger af
+Hastigheden paa saadan Maade, at den nærmer
+sig uendelig store Værdier, naar Legemets
+Hastighed nærmer sig Lysets Hastighed. En
+Følge deraf er, at et Legemes Hastighed
+altid maa forblive mindre end Lysets. Det
+vilde jo kræve en uendelig stor Kraft eller
+nøjagtigere udtrykt en uendelig stor
+Energimængde at gøre den lig med denne. Formlerne
+for Massens Afhængighed af Hastigheden er
+paa indgaaende Maade blevet eksperimentelt
+bekræftet, dels ved Forsøg over de meget
+hurtige elektriske Partikler, som udslynges af visse
+radioaktive Stoffer (β-Straaler), og som har
+Hastigheder, der ofte er mere end 99 % af
+Lyshastigheden, dels ved Forsøg over den finere
+Struktur af visse Spektrallinier, der tilhører
+Brint og Helium. Tydningen af disse sidste
+Forsøg har dog først været mulig paa Grundlag af
+den Bohr'ske Atomteori.
+
+Som en af de allervigtigste Konsekvenser af
+den specielle Relativitetsteori plejer Einstein
+selv at betegne den saakaldte Lov om
+Ækvivalensen af Energi og Masse. Tilfører man et
+Legeme Energi, f. Eks. ved at spænde en Fjeder,
+at sætte et Hjul i Rotation, ell. at opvarme en
+Vandmængde, saa forøges derved Legemets
+Masse, det bliver tungere. Denne Forøgelse er
+dog saa lille, at det vistnok er umuligt at
+paavise den ved direkte Forsøg; Masseforøgelsens
+Værdi er nemlig lig med Energiforøgelsen
+divideret med Kvadratet paa Lyshastigheden.
+Massen af en l Vand, som opvarmes fra 0 til 100°,
+forøges derved kun med en Femmilliontedel af
+et Milligram.
+
+For Klarlæggelsen af R.'s matematiske Love
+har den tyske Matematiker <sp>Minkowski</sp> haft
+den allerstørste Betydning.
+
+5) <sp>Den alm. R.</sp> I Jordens Tyngdefelt
+falder baade tunge og lette Legemer lige hurtigt,
+ell. — nøjagtigere udtrykt — med samme
+Acceleration. Der skal en dobbelt saa stor Kraft til
+for at give et Legeme, der har dobbelt saa stor
+»træg« Masse som et andet Legeme, den samme
+Acceleration, men efter Newton's
+Tyngdekraftteori trækkes det tungere Legeme ogsaa med
+dobbelt saa stor Kraft mod Jordens Midtpunkt, d. v.
+s. dets »tunge« Masse er ogsaa dobbelt saa stor.
+Denne Proportionalitet mellem tunge og træge
+Masser har været Udgangspunktet for Einstein's
+Tyngdekraftteori. Som nævnt i 2) gælder den
+specielle R.'s Love kun i et Koordinatsystem,
+i hvilket Galilei's Inertilov er gyldig. Som
+saadant vælger vi et Koordinatsystem, som
+er fast forbundet med en Kasse, der uden at
+rotere svæver frit et ell. andet Sted i Universet,
+langt fra Sol og Stjerner (Fig. 3). Inden i Kassen
+bevæger et hvilket som helst frit Legeme <i>L</i> sig
+iflg. Inertiloven jævnt i Forhold til Kassens
+Vægge, hvis det da ikke hviler i Forhold til
+disse. Hvis der nu trækkes med konstant Kraft
+<i>S</i> i en Snor, der er befæstet uden paa Kassen,
+faar denne en jævn Acceleration <i>a</i>, og et
+Legeme, der er frit overladt til sig selv inden i
+Kassen, vil relativt til Kassens Vægge ikke

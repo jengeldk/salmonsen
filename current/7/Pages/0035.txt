@@ -1,0 +1,75 @@
+I Praksis maa man imidlertid ogsaa regne
+Forbruget i Metaltraadsmodstanden. Man har i
+Reglen 2 Lamper i Serier paa 110 Volt ell. 4
+Lamper i Serier paa 220 Volt. Den hele
+Spænding pr Lampe inkl. Modstand kan da sættes
+til 55 Volt. Endvidere sluger den Buen
+omgivende Kuppel en Del af Lyset. I de to
+ovennævnte Eksempler kan man regne:
+
+Ved 10 Ampère: Forbrug 550 Watt, hemisfærisk
+Lysstyrke med Kuppel 670 Lys. 0,82 Watt pr Lys.
+
+Ved 40 Ampère: Forbrug 2200 Watt,
+hemisfærisk Lysstyrke med Kuppel 5000 Lys. 0,44 Watt
+pr Lys.
+
+De brugelige Kultykkelser svarer omtr. til en
+Strømtæthed af 3,3 Ampère pr cm<sup>2</sup> af det
+positive Kuls Tværsnitsareal. Eks.: for 10 Ampère
+Overkul rund Stang 20 mm i Gennemsnit.
+<table>
+<td v2>Tværsnitsareal 3,14 cm<sup>2</sup>. Strømtæthed<td c>10<td v2>= 3,2.
+<td c>3,14
+</table> 
+Det negative Kuls Tværsnitsareal er c. halvt
+saa stort som det positives.
+
+<sp>Regulermekanismen</sp> findes i Reglen
+øverst i Lampen, beskyttet af en Hætte.
+Regulermekanismen skal, naar man slutter Strøm,
+først bringe Kullene til Berøring, hvorved
+Strømmen kommer i Stand, dernæst fjerne Kullene et
+lille Stykke fra hinanden, saa at Buelængden
+bliver passende, og dernæst skal den,
+efterhaanden som Kullene brænder bort, føre
+Kulholderne nærmere sammen, saa at Buelængden
+omtr. bliver uforandret. Til at udføre disse
+Funktioner tjener ved <sp>Shuntlampen</sp> en
+Elektromagnet, hvis Bevikling, der har stor
+Modstand, er forbundet til Lampens to Klemmer,
+saaledes at den gennemløbes af en med
+Lampespændingen proportional Strøm. En saadan
+Regulermekanisme er vist i Fig. 3.
+
+Elektromagneten (<i>a</i>) tiltrækker et Jernstykke
+(<i>b</i>) (Anker), som trækkes til den modsatte Side
+af en Fjeder (<i>e</i>). Under normale Forhold holder
+de to Kræfter hinanden i Ligevægt.
+Kulholderne (og dermed Kullene) er saaledes forbundne
+med Ankeret, at Kullene nærmer sig til
+hinanden, naar Elektromagneten har Overtaget, og
+fjerner sig fra hinanden, naar Fjederen har
+Overtaget. Naar den Bevægelse, som nærmer
+Kulholderne til hinanden, har naaet en vis
+Grænse, udløses Kulholderne, som hænger i en
+Kæde over en Snorskive, <i>d</i>, fra deres faste
+Forbindelse med Ankeret, og ved Overkullets
+Overvægt nærmer de sig et Stykke til hinanden. -
+Snoreskiven <i>d</i> er ved en Række Tandhjul
+forbundet med en Aksel med fire Vinger, og
+Udløsningen finder Sted, naar en af disse, <i>f</i>,
+slipper Anslaget <i>g</i>. Bevægelsen dæmpes af en
+Luftbremse, <i>i</i>.
+
+En Shuntlampe vil iflg. sin Anvendelse af en
+som Shunt anbragt Regulermagnet søge at holde
+<sp>Lampespændingen</sp> konstant.
+Shuntlamper kan brænde indtil 4 i Serie, og
+
+<img>Fig. 5. Hovedstrømslampe med indelukket Bue.</img>
+
+<img>Fig. 6. Vekselstrømsdifferentiallampe.</img>
+
+<img>Fig. 7. Flammebuelampe.</img>
+

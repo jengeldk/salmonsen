@@ -1,0 +1,140 @@
+af disse første nøjagtige Udmaalinger af
+Stoffernes Spektre skyldes <sp>Kayser</sp> og hans Elever.
+Et nyt Grundlag for nøjagtige
+Bølgebreddemaalinger blev skabt ved <sp>Michelson</sp>'s
+Udmaaling af Bølgebredden for den røde
+Cadmiumlinie ved Interferometret (1894).
+
+Et nyt Afsnit af S. begyndte 1913 ved N.
+<sp>Bohr</sp>'s Arbejder. De andre Forskere, der har
+haft Bet. for Udvikling af Teorien i de senere
+Aar, er omtalt i Kvanteteori. For den
+eksperimentelle Undersøgelse af Spektrene og for
+Udredningen af dem har især <sp>Paschen</sp> og
+<sp>Fowler</sp> haft Bet. Paschen, der allerede
+havde udført en lang Rk. vigtige Arbejder før
+1913, skylder vi mere end nogen anden ogsaa
+Kendskabet til Stoffernes ultrarøde Spektre. For
+det meget langbølgede ultrarøde Omraade har
+<sp>Rubens</sp> været Fører. For Udviklingen af
+Kendskabet til det yderste ultraviolette var
+<sp>Schumann</sp> Pioneren. Hans Arbejder er
+fortsat af <sp>Lyman</sp> og <sp>Millikan</sp>. (<sp>Litt</sp>.:
+<sp>Kayser</sp>, »Handbuch der Spectroscopie«, Bd I
+[Leipzig 1900—12], nu delvis forældet, men
+stadig meget vigtig som Kilde for Talmateriale og
+ældre Litt. Den suppleres nu med ny Bd [Bd 7,
+1. Del 1925], hvori det ny Talmateriale bringes.
+Nyere, men ogsaa delvis forældet er <sp>Konen</sp>,
+»Das Leuchten der Gase und Dämpfe«
+[Braunschweig 1913]. For Seriefremstilling: <sp>Paschen
+& Götze</sp>, »Seriengesetze der Linienspektren«
+[Berlin 1922]; <sp>Fowler</sp>, <i>Report on Series in
+Line Spectra</i> [Lond. 1922]. For Teorien:
+<sp>Sommerfeld</sp>, »Atombau und Spektrallinien«, 4.
+Udg. [Braunschweig 1924]; <sp>Foote</sp> and
+<sp>Mohler</sp>, <i>The Origin of Spectra</i> [New York 1922].
+For Bølgebreddemaaling: <sp>Eversheim</sp>,
+»Wellenlängenmessungen des Lichtes im sichtbaren
+und unsichtbaren Spektralbereich«
+[Braunschweig 1926]. Nyere Spektralatlas:
+<sp>Hagenbach & Konen</sp>, »Atlas der Emissionsspektren
+der meisten Elemente« [Jena 1905]; <sp>Eder &
+Valenta</sp>, »Atlas typischer Spektren« [Wien
+1911]. Resultater af omfattende ensartede
+Udmaalinger af Spektre i: <sp>Exner & Haschek</sp>,
+»Die Spektren der Elemente« [Leipzig og Wien
+1911]. Ældre Maalingsresultater i <sp>Watt</sp>'s
+<i>Index of Spectra</i> [Lond. 1911]. Absorptionsspektre i:
+<sp>Uhler & Wood</sp>, <i>Atlas of Absorption Spectra</i>
+[Washington 1907]).
+<i>H. M. H.</i>
+
+(astron.) <sp>Solen</sp>. Spektret af Sollyset enten
+direkte ell. reflekteret, f. Eks. fra Maanen og
+Planeterne, er karakteristisk ved de mange
+mørke Linier i alle Dele af det regnbuefarvede
+kontinuerte Spektrum. Disse mørke Linier
+benævnes alm. »Fraunhofer's Linier«, fordi de
+blev først studerede og deres Beliggenhed
+bestemt af Fraunhofer 1814, om end fl. af disse
+allerede var bemærkede af Wollaston 1802. Han
+benævnte de mest fremtrædende med
+Bogstayerne <i>A—H</i>, de mindre fremtrædende med
+smaa Bogstayer. Beliggenheden af
+Hovedlinierne er flg,: Lidt til venstre for <i>A</i> (7594) begynder
+Spektret at blive synligt med dyb mørkerød
+Farve, som efterhaanden bliver mere levende
+omkr. <i>B</i> (6868); <i>C</i> ell. <i>Ha</i> (6563) ligger i det
+røde, men nu begynder Farven at blive mere
+gulrød (orange) og er ved <i>D</i> (5893, <i>D1</i> 5896,
+<i>D2</i> 5890) gaaet over til fuldstændig gul; dette
+Parti er tillige det; mest lysende af Spektret.
+Mellem <i>D</i> og <i>E</i> viser der sig et grønligt Skær,
+<i>E</i> (5270) ligger ganske i det grønne, og
+allerede mellem <i>E</i> og <i>F</i> ell. <i>Hβ</i> (4861) begynder
+den blaa Farve at gøre sig gældende; her har
+vi Linierne <i>b1</i> (5184), <i>b2</i> (5173), <i>b3</i> (5169), <i>b4</i>
+(5168). Farverne bliver stedse renere et langt
+Stykke over <i>f</i> = <i>Hγ</i> (4341) hen imod <i>G</i> (4308),
+hvorfra den gennemi indigo gaar over i det dybt
+violette med Linierne <i>g</i> (4227) og <i>h</i> = <i>Hδ</i> (4102),
+som til sidst hinsides Dobbeltlinien <i>H1</i> og <i>H2</i>
+(<i>H</i> og <i>K</i>, 3969 og 3934) taber sig i Mørket.
+Beliggenheden af sine Linier refererede
+Fraunhofer og de flg. Forskere til en vilkaarlig
+Skala; det var først Ångström, som i sit <i>Spectre
+normal du soleil</i> (1868) indførte Bølgelængden
+som Maal for Udstrækningerne i Spektret og
+angav for 1000 Linier Bølgelængderne i
+Enheder af 10 Milliontedels Millimeter. Hans
+System har været benyttet, til Rowland 1893
+udgav: <i>A new table of standard wavelengths</i> og
+1895—97: <i>Preliminarg tyable of solar spectrum
+wavelengths</i> med 20000 Linier fra λ = 7331 til
+λ = 2976. Disse Bestemmelser er dog, som
+Undersøgelser af Perot og Fabry, H. Kayser og
+især Hartmann har vist, behæftede med
+systematiske Fejl, saa at en Revision af det nu
+alm. benyttede Rowland's System staar paa
+Dagsordenen. <i>International Union for
+Cooperation in Solar Research</i> og <i>International
+Astronomical Union</i> har overtaget Arbejdet med en
+ny Bestemmelse af jævnt over Solspektret
+fordelte Fundamentallinier, baseret paa den røde
+Kadmiumlinie, hvis Bølgelængde efter
+Bestemmelse af bl. a. Fabry og Perot er sat til λ =
+6438,4696 (ved 15° C, 760 mm og <i>g</i> = 980,665).
+Enheden i dette ny System skal betegnes ved
+I. A. (<i>International Ångström</i>) ell. A. U.
+(<i>Ångström Unit</i>). Enkelte mindre Dele af Arbejdet
+er hidtil publicerede, saaledes Bølgelængden for
+50 Linier tilhørende Jern i Strøget λ 4282—6494,
+baseret paa Bestemmelser af Fabry og Buisson,
+Eversheim, Pfeund. Man har opnaaet en
+Nøjagtighed, svarende til en sandsynlig Fejl af
+en Tusindedel af en Ångström-Enhed. Og denne
+Nøjagtighed maa der til for at kunne prøve
+Rigtigheden af den alm. Forskydning mod det
+røde af Spektrallinierne, som fordres af den
+alm. Relativitetsteori. De Maalinger, som
+hidtil er udført af forsk. Forskere, ser ud til at
+føre til Einsteins Værdi.
+
+Den synlige Del af Solspektret strækker sig
+altsaa fra omkr. λ = 7594 til λ = 3934, men
+paa begge Sider kan Spektret forfølges
+betydelig længere. I det ultraviolette, hvor
+Grænsen afhænger af det glødende Legemes Temp.,
+vil den mod det violette voksende Absorption
+saavel i Solens som Jordens Atmosfære
+bevirke, at Spektret ikke kan følges ud over en
+bestemt Grænse. Cornu har fundet denne
+Grænse ved λ = 2950, hvilket stemmer vel
+med, at Huggins fandt, at Spektret af Vega
+standsede ved 2970. Baandspektret af Ozon (s. d.)
+i Jordatmosfæren afskærer Solspektret ved c. λ
+2900. I det infrarøde har Abney fotografisk
+kunnet følge Spektret til λ = 10750 = 1,075
+Mikron og har i Strøget herfra og til λ = 7600
+fundet 590 Absorptionslinier. Langley er med

@@ -1,0 +1,122 @@
+uforandret. Den eneste Forandring vilde være,
+at Kondensatoren havde afgivet den positive
+Varmemængde <i>Q</i>'—<i>q</i>' og at den dermed
+ækvivalente Energi var omsat til Arbejde. Men dette
+er et <i>perpetuum mobile</i> af 2. Art. <i>A</i>' kan
+imidlertid heller ikke være mindre end <i>A</i>, saa
+kunde vi lade begge Maskiner arbejde i modsat
+Retning og vilde da atter have et <i>perpetuum
+mobile</i> af 2. Art. Skal dette være umuligt, maa
+altsaa <i>A</i> og <i>A</i>' være lige store, d. v. s. <sp>den
+termiske Nyttevirkning er
+uafhængig af det arbejdende Stofs
+Natur</sp>. Denne Sætning blev fremsat af Carnot
+i 1824, men ganske vist ud fra den urigtige
+Forudsætning, at <i>Q</i> og <i>Q</i>' var lige store.
+Varmeovergangen fra den høje til den lave
+Temperatur blev derved analog med en
+Elektricitetsmængdes Overgang fra en høj til en lav
+Spænding, uden at Mængden af Elektriciteten
+forandres.
+
+Som allerede nævnt kan vi i Praksis ikke
+<sp>udføre</sp> Processer fuldstændig reversibelt,
+alligevel er det muligt at kontrolere, hvorvidt
+Sætningen er rigtig, idet vi kan <sp>beregne</sp>
+dem ud fra Maalinger af Stoffernes Damptryk,
+Damptæthed, Varmefylde og
+Fordampningsvarme. Nyttevirkningen viser sig da virkelig at
+være uafhængig af Stoffets Art i alle
+undersøgte Tilfælde, ligesom de overordentlig talrige
+andre Konsekvenser, der kan drages af 2.
+Hovedsætning, har vist sig at stemme overens
+med Erfaringen. Deraf slutter vi, at
+Forudsætningen, Varmeteoriens 2. Hovedsætning, maa
+være rigtig.
+
+<sp>Den absolutte termodynamiske
+Temperaturskala</sp>. <sp>Clapeyron's
+Formel</sp>. Da Forholdet <i>Q</i>—<i>Q</i>'/<i>Q</i> og dermed
+ogsaa Forholdet <i>Q</i>/<i>Q</i>' er uafhængigt af Stoffet og
+kun uafhængigt af Kedel- og
+Kondensatortemperaturen, ligger det nær at anvende Forholdet
+<i>Q</i>/<i>Q</i>' til en af Termometerstoffet uafhængig
+Definition af disse Temperaturer. Nu er <i>Q</i> større end,
+lig eller mindre end <i>Q</i>', efter som
+Kedeltemperaturen maalt efter den almindelige
+Temperaturskala er større end, lig eller mindre end
+Kondensatortemperaturen. Vi faar derfor en
+med den almindelige Temperaturskala
+ensløbende Skala, hvis vi definitionsmæssigt
+fastsætter Forholdet <i>T</i>/<i>T</i>' lig med <i>Q</i>/<i>Q</i>'. Til Fastlæggelse
+af Temperaturernes absolutte Talværdier føjer
+man den Bestemmelse til, at der skal være 100°
+mellem Isens Smeltepunkt (<i>T</i><sub>0</sub>) og Vandets
+Kogepunkt ved Normaltryk (<i>T</i><sub>0</sub> + 100). Den
+saaledes definerede Temperaturskala kaldes
+den absolutte termodynamiske Temperaturskala,
+og Temperaturtallet <i>T</i> betegnes ved <i>T</i>° <i>K</i> og
+benævnes <i>T</i> Grader Kelvin efter Lord Kelvin,
+som fremsatte dens Definition i 1854. Den
+absolutte Temperatur falder som nævnt i
+Indledningen nær sammen med den ved Brinttrykket
+maalte Temperatur <i>T</i><sub>b</sub>. Man kan vise, at der
+vilde være fuldstændigt Sammenfald, hvis man
+havde Brinten eller en anden udissocieret
+Luftart ved uendelig lavt Tryk, i den saakaldte
+ideale Tilstand. Den kan man naturligvis ikke
+direkte opnaa, men man kan ekstrapolere til
+den, og paa denne Maade har man fundet
+<i>T</i><sub>0</sub> = 273,2° <i>K</i> for Isens Smeltepunkt. I første
+Tilnærmelse faar man derfor den absolutte
+Temperatur ved at lægge 273,2 til
+Celsiustemperaturen efter Brinttermometret (se nærmere
+<sp>Temperatur</sp>). Med Indførelsen af de
+absolutte Temperaturer, hvorved <i>Q</i>/<i>Q</i>' = <i>T</i>/<i>T</i>″ eller
+<i>Q</i>/<i>T</i> = <i>Q</i>'/<i>T</i>″, bliver den ovenfor omtalte termiske
+Nyttevirkning ved den Carnot'ske Kredsproces
+<i>A</i>/<i>JQ</i> = <i>T</i>—<i>T</i>″/<i>T</i>. Man ser heraf, at der ikke kan
+være negative Temperaturer i den absolutte
+Skala, da dette vilde give en Nyttevirkning,
+der var større end 1. Vi kan ifølge Nernst's
+Varmeteorem (se senere) principielt ikke
+engang naa helt ned til det absolutte Nulpunkt.
+Anvendes Nyttevirkningsligningen paa 1 g Vand,
+bliver <i>Q</i> lig med Vandets Fordampningsvarme,
+som vi vil betegne ved L. Er <i>T</i>″ = <i>T</i>—Δ<i>T</i>, hvor
+Δ<i>T</i> er en lille Størrelse, bliver Arbejdet
+repræsenteret ved Arealet af den ganske smalle
+Strimmel, som er punkteret i Figuren. Er de
+mættede Dampes Tryk ved <i>T</i> og <i>T</i>″
+henholdsvis <i>p</i> og <i>p</i>—Δ<i>p</i>, bliver Højden i Strimlen Δ<i>p</i>,
+medens dens Længde er givet ved Differensen
+<i>v</i>1—<i>v</i>0 mellem Rumfanget af 1 g mættet Damp
+(<i>v</i>1) og 1 g Vand (<i>v</i>0). Indsættes dette i
+Ligningen, faar man Δ<i>p</i> (<i>v</i>1—<i>v</i>0)/<i>JL</i> = Δ<i>T</i>/<i>T</i>, eller naar man
+omformer den og gaar til Grænsen <i>dp</i>/<i>dT</i>= <i>JL</i>/<i>T</i>(<i>v</i>1—<i>v</i>0).
+Dette er Clapeyron's Formel (fremsat 1834),
+som tillader at beregne <i>d p</i>/<i>dT</i> ɔ: Damptrykkets
+Stigning pr. Grad, ved Hjælp af Størrelserne <i>L</i>,
+<i>T</i> og (<i>v</i>1—<i>v</i>0). Af Ligningens første Form ser
+man, at man af Størrelserne <i>JL</i>, <i>v</i>1—<i>v</i>0 og Δ<i>p</i>
+— der alle er uafhængige af
+Temperaturdefinitionen — kan finde Δ<i>T</i>/<i>T</i>. Ligningen kan
+derfor anvendes til at bestemme den absolutte
+Temperatur ved Iagttagelser over Vand eller
+andre Vædsker.
+
+<sp>Entropi</sp>. For den Carnot'ske Kredsproces
+gjaldt <i>Q</i>/<i>T</i> = <i>Q</i>'/<i>T</i>″. Vi kan fortolke denne Ligning
+paa følgende Maade. Hvis vi fører Systemet fra
+Begyndelsestilstanden <i>a</i> til Tilstanden <i>b</i> (se
+Fig. 3), kan vi føre det ad to Veje, ad
+Processerne (1) og (2), eller ad (4) og (3). De to
+Sider af Ligningen angiver for hver af disse
+Veje den Systemet tilførte V. divideret med
+den absolutte Temperatur, ved hvilken denne
+V. er tilført, og vi ser, at disse Udtryk er lige
+store for begge Veje. Clausius har vist, at denne
+Sætning kan generaliseres til at gælde for et
+vilkaarligt Systems Overgang fra een Tilstand
+(<i>a</i>) til en anden (<i>b</i>), saaledes at Summen af
+de af Systemet optagne Varmemængder, hver

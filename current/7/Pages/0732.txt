@@ -1,0 +1,147 @@
+kendt, optegne sine Svingninger i Form af en
+Bølgelinie paa den sværtede Cylinder, medens
+F. staar paa, har man ved Tælling af denne
+Linies Bugter mellem de to Mærker et særlig
+fint Middel til Bestemmelse af Faldtiden. Man
+finder ved slige Forsøg, at <sp>Faldvejen
+forholder sig som Kvadratet paa
+Faldtiden</sp>, at et Legeme altsaa f. Eks. i 3 Sek.
+falder 9 Gange saa langt som i 1 Sek., medens
+det i 1/10 Sek. kun falder 1/100 af den Vejlængde,
+det kan tilbagelægge i et helt Sek. Af denne
+Lov kan atter <sp>Hastigheden</sp> under F.
+beregnes. Lad nemlig Faldvejen i 1 Sek. være <i>a</i>
+cm. Den er da i <i>t</i> Sek. lig <i>at</i><sup>2</sup> cm og i <i>T</i> Sek.
+lig <i>a</i> <i>T</i><sup>2</sup> cm. Er <i>T</i> større end <i>t</i>, saa følger heraf,
+at Legemet i Tidsrummet <i>T</i>-<i>t</i> er faldet <i>a</i>(<i>T</i><sup>2</sup>-<i>t</i><sup>2</sup>)
+cm, og dividerer man denne Vej med <i>T</i>-<i>t</i>, faar
+man, at <sp>Middelhastigheden</sp> i dette
+Tidsrum har været <i>a</i>(<i>T</i>+<i>t</i>) cm pr Sek.
+Tænker man sig nu, at <i>T</i> kun er overmaade lidt,
+f. Eks. en Milliontedel Sek., større end <i>t</i>, saa
+kan man betragte den fundne Middelhastighed
+som Legemets Hastighed efter Forløbet af
+Faldtiden <i>t</i>, og idet <i>T</i> nu i Udtrykket for
+Middelhastigheden kan sættes lig <i>t</i>, faar man, at
+Legemets Hastighed efter Forløbet af <i>t</i> Sek. er 2<i>at</i>.
+Størrelsen 2<i>a</i> kaldes Tyngdens Acceleration og
+betegnes gerne ved Bogstavet <i>g</i>. Den angiver
+den Tilvækst, Faldhastigheden faar i hvert Sek.
+Denne Tilvækst er konstant og numerisk lig
+med det dobbelte af den Vej, Legemet falder i
+det første Sek. I Mellemeuropa er <i>g</i> temmelig
+nøje 981 cm. Kaldes Hastigheden efter Forløbet
+af Faldtiden <i>t</i> for <i>v</i>, saa har man altsaa <i>v</i> =
+<i>gt</i>, medens Faldvejen <i>s</i> findes af Formlen <i>s</i> =
+1/2 <i>gt</i><sup>2</sup>.
+
+Man har fundet den mærkelige Lov, at <i>g</i>,
+Tyngdens Acceleration ved det fri F., er ens
+for alle Legemer, at de altsaa alle falder lige
+hurtig i det tomme Rum. Derimod er
+Accelerationen (s. d. og <sp>Tyngde</sp>) noget forsk. paa
+forsk. Steder af Jorden. - Hvis man af
+Formlen for Faldvejen finder <i>t</i> udtrykt ved <i>s</i> og <i>g</i>,
+og indsætter denne Værdi for <i>t</i> i Udtrykket for
+Hastigheden, faar man <i>v</i> = 2<i>gs</i>, saa at den
+Hastighed, et Legeme opnaar ved sit Fald, vil
+forholde sig som Kvadratroden af den
+gennemløbne Vej. Regner vi, at <i>g</i> med et rundt Tal
+er lig 10 m, saa falder et Legeme 5 m i det
+første Sek., 4 Gange 5 m i de to første Sek.,
+9 Gange 5 m i de 3 første Sek., o. s. v. Heraf
+følger, at Faldvejene i det første, andet, tredie
+o. s. v. Sek. er: 5 m, 15 m, 25 m o. s. v.; de
+forholder sig altsaa som Rækken af de ulige Tal.
+I 8 Sek. vil et Legeme falde 64 X 5 m ell. 320
+m, i 9 Sek. 81 X 5 m ell. 405 m. I 9. Sek. vil
+det altsaa være faldet 85 m ell. 17 X 5 m. Hvis
+et Legeme falder 100 m, vil det paa denne Vej
+opnaa en Hastighed, der er 2<i>g</i> · 100 ell. omtr.
+44 m pr Sek. For at opnaa den dobbelte
+Hastighed skal det falde 4 Gange saa langt. - I Luften
+begynder et F. væsentlig paa samme Maade som
+i det tomme Rum, men efterhaanden som
+Legemets Hastighed vokser, stiger Luftens
+Modstand og gør Hastighedstillægget i hvert nyt Sek.
+mindre end i det foregaaende, indtil Luftens
+Modstand er blevet lig Legemets Vægt. Fra dette
+Øjeblik af forandres Hastigheden ikke;
+Bevægelsen bliver jævn. Regn, Sne og Hagl naar af
+denne Grund i stille Vejr Jordens Overflade med
+jævn Hastighed. At det kun er Luftens
+Modstand, der gør, at Legemerne falder ulige
+hurtig, kan man vise ved <sp>Faldrøret</sp>, et langt
+Glasrør, der kan skrues paa Luftpumpen og
+pumpes lufttomt. I Røret er der et lille Stykke
+Bly og en Fjer. Ved at vende Røret hurtig om
+kan man faa disse to Legemer til at falde
+samtidig. Er Røret godt udpumpet, vil de følges
+ad; i modsat Fald vil Blyet naa Bunden før
+Fjeren. - For et Legeme, der glider uden
+Gnidningsmodstand ned ad et Skraaplan, gælder lgn.
+Love som for det fri F., kun at <i>g</i> har en mindre
+Værdi. Er Skraaplanets skraa Længde <i>n</i> Gange
+saa stor som dets lodrette Højde, vil <i>g</i> blive <i>n</i>
+Gange saa lille som ved det fri F., og det vil
+tage Legemet <i>n</i> Gange saa lang Tid at
+gennemløbe Længden som at falde et lodret Stykke lig
+Højden. Derimod bliver den opnaaede
+Hastighed den samme, hvad enten F. sker gennem
+Længden ell. Højden. Overhovedet vil den
+Hastighed, et Legeme opnaar ved at falde fra et
+Punkt <i>A</i> til et lavere liggende Punkt <i>B</i> være
+bestemt alene ved de to Punkters Højdeforskel
+uden Hensyn til Formen af den Bane, ad
+hvilken Legemet bevæger sig, naar der da ikke er
+Gnidningsmodstande ell. andre Hindringer at
+overvinde undervejs. <sp>Galilei</sp>, der først
+angav de rigtige Faldlove, benyttede til sine
+Forsøg Kugler, som rullede ned ad skraat stillede
+Render. Et Legeme, der <sp>ruller</sp> ned ad en
+Skraaning, vil dog faa noget mindre Hastighed,
+end om det kunde glide uden Gnidning, fordi en
+Del af Tyngdens Arbejde medgaar til at
+frembringe den omdrejende Bevægelse. - Senere
+har man udtænkt forsk. <sp>Faldmaskiner</sp> til
+Paavisning af Faldlovene. Den mest kendte er
+<sp>Atwood</sp>'s (1784), der bestaar af en let Trisse,
+som bæres af en lodret Træsøjle. Over Trissen
+er lagt en Silketraad, der bærer en Vægt ved
+hver Ende. Disse to Vægte er lige tunge og
+kan altsaa ikke selv sætte sig i Bevægelse; men
+lægger man en lille Overvægt paa den ene af
+dem, synker den med voksende Hastighed, og
+man finder, at ogsaa her Faldvejen forholder sig
+som Kvadratet paa Faldtiden, der lettere kan
+maales, fordi Bevægelsen er langsom. Nogen
+nøjagtig Bestemmelse af Tyngdens Acceleration
+kan man dog ikke opnaa ved nogen
+Faldmaskine, og den Art Maskiner har derfor
+nærmest kun hist. Interesse. Derimod kan man ved
+<sp>Pendulet</sp> faa <i>g</i> meget nøjagtig bestemt. -
+Har et faldende Legeme en Hastighed i en ell.
+anden Retning ved F.'s Beg., kommer det til
+at udføre en Bevægelse, i hvilken Hastigheden
+i hvert Øjeblik kan betragtes som sammensat af
+den opr. Hastighed, og den Hastighed, som
+Tyngden under F. har givet Legemet. Se
+<sp>Kastebevægelse</sp>.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Fald (grammatik)">
+<b>Fald</b> (gramm.), se <sp>Forholdsform</sp>.
+</chapter>
+
+<chapter name="Fald (geologi)">
+<b>Fald</b> (<sp>geol</sp>.), se <sp>Lejringsforhold</sp>.
+</chapter>
+
+<chapter name="Fald (Søværn)">
+<b>Fald</b> (<sp>Søv</sp>.), 1) Tov ell. Talje, hvormed en
+Raa ell. et Sejl hejses. F. benævnes efter den
+Raa ell. det Sejl, hvortil det hører, f. Eks.
+Bram-F., til Hejsning af Bramræerne,
+Klyver-F. til Hejsning af Klyveren o. s. v.
+

@@ -1,0 +1,119 @@
+Trækket ved dets Udstramning og Temperaturen ved
+Jordoverfladen bestemmes) regne med en
+Middelfejl, der, selv under gunstige Terrainforhold
+og bortset fra Fejlen i Bestemmelsen af
+Baandets Længde, næppe kan anslaas til en mindre
+Værdi end omtrent 10 cm.
+
+For at faa Kontrol til Sikring mod grove Fejl
+og for tillige at opnaa Mulighed for gennem en
+Udjævning af de forekommende uundgaaelige
+Smaafejl at forøge Resultatets Nøjagtighed maa
+man sørge for at kunne maale et tilstrækkeligt
+Antal Vinkler ud over det til Trekantnettets
+Bestemmelse absolut nødvendige, og har
+Nettet en meget stor Udstrækning, maa man
+tillige maale to eller flere Grundlinier.
+Fejludjævningen udføres efter »mindste Kvadraters
+Metode« (s. d.), ofte dog med Undtagelse af
+Trekantnet af laveste Orden. Af den maalte
+Længde og de udjævnede Vinkelværdier beregnes
+Længden af de øvrige Trekantsider og dernæst
+Koordinaterne til samtlige Hovedpunkter, efter
+at man — ved selvstændige, større T. ad
+astronomisk Vej — har bestemt Beliggenheden af et
+af 1. Ordens Punkterne og maalt den Vinkel,
+som en fra dette Punkt udgaaende Trekantside
+danner med Nordretningen (Meridianen). Ved
+selvstændige mindre T., hvor der kan ses bort
+fra Jordkrumningen, beregnes retvinklede
+plane Koordinater, medens man ved større T. for
+de overordnede Hovedpunkters
+Vedkommende ved Beregningerne maa tage Hensyn til
+Jordens sfæroidiske Form (se <sp>Landmaaling</sp>
+og <sp>Gradmaaling</sp>).
+
+Ved Triangulationer, der kræves knyttede til
+givne Hovedpunkter af højere Orden,
+fastlægges det underordnede Nets Punkter enkeltvis
+(Punktindordning), eventuelt nogle faa Punkter
+ad Gangen (Netindordning), ved de Sigter,
+hvorved de staar i Forbindelse med de
+nærmest omliggende overordnede Punkter og
+tidligere bestemte Punkter af samme Orden. —
+Til de ved Punktindordninger anvendte
+Bestemmelsesmaader hører de saakaldte
+<sp>Skæringer</sp>, der gaar ud paa ved Vinkelmaaling
+at bestemme et Punkt, <i>P</i>, i Forhold til givne
+Punkter, <i>A, B, C,</i> . . ., paa en af følgende
+Maader: 1) ved <sp>Fremskæring</sp> ved i <i>A</i> og <i>B</i>
+(Fig. 1) at sigte til <i>P</i> og et givet Punkt og
+maale Vinklerne (<i>o</i><sub>1</sub> og <i>o</i><sub>2</sub>) mellem Sigternes
+Retninger; 2) ved <sp>Sideskæring</sp> ved i <i>A</i>
+(Fig. 2) at sigte til <i>P</i> og et givet Punkt og i <i>P</i>
+at sigte til <i>A</i> og <i>B</i> og maale Vinklerne (<i>o</i><sub>1</sub> og
+<i>o</i><sub>2</sub>) mellem Sigternes Retninger; 3) ved
+<sp>Tilbageskæring</sp> (<sp>Pothenot's Problem</sp>)
+ved i <i>P</i> at sigte til <i>A, B</i> og <i>C</i> (Fig. 3) og
+maale Vinklerne (<i>o</i><sub>1</sub> og <i>o</i><sub>2</sub>) mellem Sigternes
+Retninger. Ved en særlig Form af
+Tilbageskæring, der kan kaldes <sp>gensidig
+Tilbageskæring</sp>, men som sædvanlig benævnes
+<sp>Hansen's Problem</sp>, løses den Opgave at
+bestemme to Punkter, <i>P</i> og <i>Q</i> (Fig. 4) i
+Forhold til to givne Punkter, <i>A</i> og <i>B</i>, ved i
+<i>P</i> og <i>Q</i> at maale de Vinkler (<i>o</i><sub>1</sub>, <i>o</i><sub>2</sub>, <i>o</i><sub>3</sub> og <i>o</i><sub>4</sub>),
+hvorunder Punkternes Forbindelseslinier ses.
+— Da de under 1), 2) og 3) anførte Antal givne
+Punkter er absolut nødvendige til de
+paagældende Stedbestemmelsers Udførelse, maa man
+for at faa Prøve (og eventuelt Udjævning af
+Fejl) bestemme Retningen af et Sigte mellem
+<i>P</i> og endnu et givet Punkt, eller man
+tilvejebringer flere saadanne Overbestemmelser. —
+Punktbestemmelsen ved Tilbageskæring giver
+et større Koordinatberegningsarbejde end
+Frem- og Sideskæring, og ved dens grafiske
+Anvendelse, hvor <i>P</i> findes som Skæringspunkt
+mellem to over Linierne <i>AB</i> og <i>BC</i> (Fig. 3) som
+Korder tegnede Cirkelbuer, der rummer
+henholdsvis Vinkel <i>o</i><sub>1</sub> og <sub>o</sub><sub>2</sub>, giver den en
+forholdsvis ringe Nøjagtighed. Derimod knytter der sig
+til Tilbageskæringen den Fordel, at man kun
+behøver at maale Vinkler i det Punkt, som
+skal bestemmes, saa at de givne Punkter kan
+være utilgængelige, saasom Taarnspir og
+Dampskorstene, hvad der navnlig gør Metoden
+anvendelig til Punktbestemmelser paa Søen (med
+Vinkelmaaling ved Sekstant o. l.), ligesom den
+i den nyeste Tid har faaet en særlig Anvendelse
+ved Stedbestemmelser, der knytter sig til
+fotogrammetriske Opmaalinger fra Luftfartøjer (se
+<sp>Luftfotografering</sp>). Da Luftstationerne,
+hvorfra de fotografiske Terrainbilleder
+optages, imidlertid fordres bestemte baade ved
+deres vandrette Projektioner og ved deres Højde
+i Forhold til de givne Hovedpunkter, maa der
+altsaa ved disse Stedbestemmelser arbejdes
+med Rumkoordinater, og hvad der navnlig gør
+Opgaven sammensat, er, at der til hver enkelt
+Luftstations Stedbestemmelse paa Grundlag af
+de givne Hovedpunkters Rumkoordinater og
+det fra Luftfartøjet optagne Fotografi maa
+udledes Udtryk til Bestemmelse af det
+fotografiske Apparats Orientering i det Øjeblik, da
+Optagelsen af det fotografiske Billede fandt
+Sted.
+
+Triangulationsmetoden synes at være
+grundlagt af den belgiske Læge og Matematiker
+<sp>Rainer Gemma-Frisius</sp>, der i sit i
+1533 udgivne Skrift, <i>Libellus de locorum
+describendorum ratione</i>, angiver Forskrifter til
+Punktbestemmelser ved et Net af Trekanter bestemte
+ved Fremskæring. Men det var først den
+nederlandske Matematiker <sp>Willebrord
+Snellius</sp>, der gav Metoden dens fulde
+Udformning ved den af ham i 1614—15 udførte
+
+<img></img>

@@ -1,0 +1,151 @@
+mange Rødder i fl. Skikkelser p. Gr. a. det ikke
+helt opklarede Fænomen, der kaldes
+<sp>Rodvariation</sp>, saaledes findes for Begrebet skælve
+baade <i>tres</i> (Sanskrit <i>trásati</i>), <i>trem</i> (lat. <i>tremo</i>)
+og <i>trep</i> (lat. <i>trepidus</i>); her kalder man <i>s, m</i> og
+<i>p</i> <sp>Roddeterminativer</så>. Begrebet R. i
+den sammenlignende Sprogforskning er særlig
+formet p. Gr. a. de gamle ind. Grammatikeres
+Opfattelse; men i Tidernes Løb har man dog
+fjernet sig meget fra deres Lære. I lang Tid
+tog man det som en Selvfølge, at en R. maatte
+være enstavelses, men p. Gr. a. den nyere
+Aflydsforskning vil mange nu opstille Tostavelses-
+ell. endog Trestavelses-Rødder (undertiden
+kaldet Baser). Ogsaa Opfattelsen af R.'s Væsen og
+Rolle i Sprogudviklingen er nu anderledes end
+tidligere, da man mente, at Sprogene var
+begyndt med en Rodperiode, hvor den
+uforanderlige R. var den eneste Ordform, saa at
+Sætningerne bestod af en Række efter
+hinanden satte formløse Rødder; man fandt en Støtte
+herfor i Kinesisk, som man mente havde
+bevaret denne Sprogtype uforandret fra Urtiden.
+Dette har vist sig at være en Fejltagelse; og
+nu betragter man R. nærmest som en
+sprogvidenskabelig Abstraktion, noget, man teoretisk
+ansætter uden at tillægge det nogen Virkelighed
+som aktuelt selvstændigt levende til nogen Tid.
+Derfor betænker man sig heller ikke paa at
+anerkende saadan en R., som fr. <i>roul</i>- — i
+<i>rouler, roulant, roulement, rouleau, rouloir</i>,
+skønt man ved, at den er sekundær og
+opstaaet ved Afledning fra lat. <i>rotulare</i>, der
+kommer af <i>rota</i> (Hjul) ved et Diminutivsuffix -<i>ul</i>.
+— I de semitiske Sprog har man Rødder af en
+helt anden Type end i vor Sprogæt: de bestaar
+af tre (ell. næsten altid tre) Konsonanter, der
+udgør Ordenes leksikalske Grundstok, medens
+Ordene grammatisk bestemmes ved forsk.
+Vokaler, der sættes ind mellem, foran ell. efter
+Konsonanterne; saaledes har vi Roden <i>qtl</i>,
+dræbe, med bl. a. flg. arab. Former: <i>qatala</i>, han
+dræbte; <i>qutila</i>, han blev dræbt; <i>qutilu</i>, de blev
+dræbte; <i>uqtul</i>, dræb; <i>qatil</i>, dræbende; <i>iqtat</i>,
+ladende dræbe; <i>qatl</i>, Drab; <i>qitl</i>, Fjende; <i>qutl</i>,
+morderisk.
+<i>O. Jsp.</i>
+</chapter>
+
+<chapter name="Rod (mat.)">
+<b>Rod</b> (mat.). Et Tal, der opløftet til <i>n</i>'te
+Potens giver et andet Tal <i>a</i>, kaldes <i>n</i>'te R. af <i>a</i>
+og betegnes ved <i>a<sup>1/n</sup></i>; <i>n</i> hedder
+<sp>Rodeksponenten</sp>, <i>a</i> <sp>Potensen</sp>.
+<sp>Roduddragning</sp>, ɔ: Bestemmelse af <i>a<sup>1/n</sup></i>, er den omvendte
+Regning af Potensopløftning. Den 2. og 3. R.
+kaldes henh. <sp>Kvadrat</sp>- og <sp>Kubikrod</sp>. Er
+<i>a</i> reel, har <i>a<sup>1/n</sup></i> een reel Værdi med samme
+Fortegn som <i>a</i>, hvis <i>n</i> er ulige, to reelle
+Værdier, der er lige store med modsat Fortegn, hvis
+<i>n</i> er lige og <i>a</i> positiv; dog vil, hvis den
+numeriske Værdi af <i>a</i> ikke er et Potenstal ell. en
+Potensbrøk af <i>n</i>'te Grad, <i>a<sup>1/n</sup></i> være irrational og
+altsaa kun kunne udtrykkes med Tilnærmelse
+ved rationale Tal. Den <i>n</i>'te R. af et vilkaarligt
+komplekst Tal (s. d.), altsaa ogsaa af et
+vilkaarligt reelt Tal, har i det hele <i>n</i> Værdier, der
+kun i de ovf. anførte Tilfælde er reelle; saaledes
+har kubikrod(1) Værdierne 1, — ± kvadratrod(3)/2 kvadratrod(—1). Ifølge
+Forklaringen paa negative og brudne
+Potenseksponenter er <i>-n</i>rod(<i>a</i>) 1/<i>n</i>rod(<i>a</i>), <i>p</i>/<i>q</i>rod(<i>a</i>) = <i>p</i>rod(<i>a<sup>q</sup></i>). En
+Roduddragnings Rigtighed prøves ved
+Potensopløftning, og paa denne Maade bevises i
+Algebraen Sætningerne om Regning med
+Rodstørrelser. Om R. i Ligninger ell. Kongruenser, se
+henh. <sp>Ligninger</sp> og <sp>Talteori</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Rod (Længdemaal)">
+<b>Rod</b> [råd], Længdemaal, i Amerika = 5
+Yards = 4,572 m og i England, se <sp>Perch</sp>.
+<i>Th. O.</i>
+</chapter>
+
+<chapter name="Rod, Édouard">
+<b>Rod</b> [råd, ro(?)], <sp>Édouard</sp>, fr.-schweizisk
+Forf., f. i Nyon 1857, d. 29. Jan. 1910 i Grasse,
+studerede særlig Filologi i Bern og Berlin,
+redigerede i nogle Aar <i>La revue contemporaine</i>
+i Paris, men vendte 1887 hjem til Schweiz og
+afløste Marc Monnier som Prof. i
+sammenlignende Litteraturhstorie ved Univ. i Genève. R.
+har skrevet en Del æstetiske og kritske
+Arbejder, hvoriblandt <i>Wagner et l'esthétique
+allemande</i> (1886), <i>Giacomo Leopardi</i> (1888), <i>Les
+idées morales du temps présent</i> (1891), <i>Dante</i>
+(1891), <i>Stendhal</i> (1893), <i>Lamartine</i> (1893), <i>Essai
+sur Goethe</i> (1898) og <i>Nouvelles études sur le
+XIXe siècle</i> (1898), men har især gjort sig
+bemærket ved en Række tunge og dybe,
+analytiske Sjæleromaner, hvor hans navnlig af
+Schopenhauer paavirkede Syn stræber at naa
+til Bunds i vor Tids Mennesker og Problemer;
+udogmatisk og protestantisk frigjort er han
+bleven Talsmand for en moralsk Nykristendom. Af
+Romanerne kan fremhæves: <i>Palmgre Veulard</i>
+(1881), <i>La chute de Miss Topsy</i> (1882), <i>L'autopsie
+du Docteur Z***</i> (1884), <i>La course à la mort</i>
+(1885), <i>Tatiana Leïloff</i> (1886), <i>Névrosée</i> (1888),
+<i>Le sens de la vie</i> (1889, paa Dansk »Livets
+Gaade« 1890), <i>Scenes de la vie cosmopolite</i>
+(1889), <i>La sacrifiée</i> (1892, paa Dansk »Opofret«
+1892), <i>La vie privée de Michel Teissier</i> (1893),
+<i>La seconde vie de Michel Teissier</i> (1894), <i>Les
+roches blanches</i> (1895), <i>Le dernier refuge</i> (1896),
+<i>Là-haut</i> (1897), <i>Le ménage du Pasteur Naudié</i>
+(1898), <i>Au milieu du chemin</i> (1900) o. fl. (<sp>Litt</sp>.:
+<sp>F. Roz</sp>, <i>E. R.</i> [1906]).
+<i>S. Ms.</i>
+</chapter>
+
+<chapter name="Roda, La">
+<b>Roda,</b> <sp>La</sp> [la-'råða], By i Sydøstspanien,
+Prov. Albacete, ligger 716 m o. H., 36 km NV.
+f. Albacete og har Station paa Banelinien
+Madrid—Cartagena. (1920) 8500 Indb. R. driver
+Handel med Korn, Vin og Safran.
+<i>C. A.</i>
+</chapter>
+
+<chapter name="Roda">
+<b>Roda</b> ['ro.da], <sp>Roda Alexander</sp>, egl.
+<sp>Šandor, Friedrich Ladislas</sp>. østerr.
+Forf., f. i Puszta Zdenci i Slavonien 13. April
+1872, var først Artilleriofficer, bosatte sig 1906
+i München som Medarbejder ved
+»Simplicissimus«. Han har skrevet Noveller som »Von
+Bienen, Drohnen und Baronen« (1908), Lystspillet
+»Der Feldherrnhügel« (sammen med C.
+Roeszler), fremdeles Lystspillet »Die Sklavin aus
+Rhodus«, og en Række satiriske Farcer, der
+har gjort Lykke.
+<i>C. B-s.</i>
+</chapter>
+
+<chapter name="Rodagen">
+<b>Rodagen</b> er et Præparat, som er fremstillet
+af Mælk fra Geder, som man har berøvet
+Skjoldbruskkirtlen. Som det bringes i Handelen,
+er det blandet med Mælkesukker og finder

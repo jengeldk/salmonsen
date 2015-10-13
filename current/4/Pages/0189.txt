@@ -1,0 +1,163 @@
+Rummet. Men undertiden er B. <sp>virtuel</sp> (indbildt),
+saaledes altid ved Brydning i en plan Flade,
+idet Straaler, som f. Eks. udgaar fra et Punkt
+under en Vandflade, ikke virkeligt, men kun
+ved Forlængelse bagud skærer hinanden i
+Punkter af B.; B. ligger altsaa nede i Vandet,
+hvor Straalerne synes at have skaaret
+hinanden. Brændlinien ses smukt, naar Solstraaler
+falder skraat ned paa en ganske lav, hul,
+indvendig blank Metalcylinder (en Forlovelsesring)
+paa et hvidt Underlag.
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Brændglas">
+<b>Brændglas</b> kan man kalde enhver større
+Samlelinse, da det Solbillede, en saadan Linse
+danner, kan frembringe en betydelig
+Opvarmning. Opvarmningen er desto stærkere, jo
+større Linsen er, og jo kortere dens Brændvidde
+er; den kan yderligere forstærkes, ved at man
+bag Linsen tæt foran Brændpunktet anbringer
+en lille Samlelinse, hvorved Straalerne
+koncentreres stærkere. Linser, der kun skal bruges
+som B., behøver ikke at være udført med den
+Nøjagtighed, som kræves, naar de skal kunne
+danne skarpe Billeder. Det er bekendt, at fyldte
+Vandkarafler o. l. kan virke som B. og derved
+undertiden foraarsage Ildebrand.
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Brænding (se Brod)">
+<b>Brænding,</b> se <sp>Brod</sp>.
+</chapter>
+
+<chapter name="Brændlinie (se Brændflade)">
+<b>Brændlinie,</b> se <sp>Brændflade</sp>.
+</chapter>
+
+<chapter name="Brændoffer">
+<b>Brændoffer</b> er den sædvanlige Betegnelse
+for det israelitiske Heloffer (<i>kalil</i>; ogsaa <i>ola</i>
+»det, der kommer op (paa Altret)«. Det
+adskiller sig fra »Fredsofrene« ved, at det ikke
+er forbundet med et Maaltid, men hele Dyret
+kommer paa Altret og brændes. Som Offerdyr
+anvendes Okser, Lam, Bukke, Duer og Turtelduer.
+Hvor Menneskeoffer forekommer i gl. Test., er
+det ogsaa B. I den ældre Tid anvendtes B. ved
+særligt højtidelige Lejligheder, og ved de store
+Offerfester sammen med Fredsofre. Fra Achaz'
+Tid høres om et Brændoffer hver Morgen.
+Præsteskriftet forordnede B. af et Lam hver
+Morgen og Aften (<sp>Tamid</sp>).
+<i>J. P.</i>
+</chapter>
+
+<chapter name="Brændofferalteret (se Templet, det jerusalemske)">
+<b>Brændofferalteret,</b> se <sp>Templet</sp>, det
+jerusalemske.
+</chapter>
+
+<chapter name="Brændpunkt">
+<b>Brændpunkt,</b> det Punkt, hvori et Hulspejl
+ell. en Samlelinse forener Straaler, som udgaar
+fra et fjernt Punkt i Spejlets ell. Linsens Akse
+(parallelt indfaldende Straaler). B. ligger selv
+i Aksen; dets Afstand fra Spejlet ell. Linsen
+kaldes <sp>Brændvidden</sp>. For et Hulspejl, som
+er slebet efter en Kugleflade, er Brændvidden
+Halvdelen af Kuglefladens Radius. For en (tynd)
+Linse afhænger den af Overfladernes
+Krumningsradier og Brydningsforholdet for det Stof, Linsen
+er lavet af, efter Formlen 1/p = (n—1)(1/r'+1/r"),
+<i>p</i> er Brændvidden, <i>n</i> Brydningsforholdet og <i>r'</i>
+og <i>r"</i> de to Radier, der skal regnes positive,
+naar Fladerne er udhvælvede (konvekse).
+Brændvidden bliver altsaa desto mindre, jo stærkere
+Linsens Stof bryder Lyset, og jo stærkere de
+udhvælvede Flader er krummede. For de alm.
+Glassorter er <i>n</i> nær ved 1,5; for en bikonveks
+Linse faas derfor, dersom de 2 Radier er lige
+store, <i>p</i> omtr. lig <i>r</i>. Vilde man anvende
+Formlen for en Spredelinse, blev <i>p</i> negativ. Det
+betyder, at en Spredelinse ikke har et virkeligt
+B., hvor parallelt indfaldende Straaler forenes;
+men Straalerne fortsættes efter at have
+passeret Spredelinsen, som om de kom fra et
+Punkt i Afstanden <i>p</i> <sp>bag</sp> denne; dette Punkt
+bliver da et <sp>indbildt</sp> B. Paa samme Maade
+har et konveks Kuglespejl et indbildt B. — En
+Linse har to B., et paa hver Side i samme
+Afstand fra Linsen. Brændvidden, der bl. a. er
+bestemmende for Forstørringen ved Afb. af en
+Genstand, kan kun regnes lig Afstanden fra B.
+til Linsen, naar denne er saa tynd, at dens
+Tykkelse er uden Bet. i Forhold til
+Brændvidden, derimod ikke ved tykkere Linser ell.
+Linsesystemer, der virker som en enkelt Linse og
+altsaa ogsaa har en bestemt Brændvidde.
+Nøjagtigere er Brændvidden Afstanden fra B. til
+en vis Plan, <sp>Hovedplanen</sp> (se <sp>Linse</sp>); af
+dem har en Linse 2 svarende til de 2 B. 1/p
+den reciprokke Værdi af Brændvidden,
+benævnes <sp>Dioptrien</sp>; ved Talangivelser af
+Dioptrien forudsættes Brændvidden maalt i <sp>Meter</sp>;
+en Dioptri paa 20 (ell. »20 Dioptrier«) betyder
+altsaa en Brændvidde paa 1/20 m ell. 5 cm.
+Brilleglas' Styrke angives næsten altid i
+Dioptrier.
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Brændpunkt (mat.)">
+<b>Brændpunkt</b> (<sp>mat.</sp>). Ved et B. for en plan
+Kurve forstaas et Punkt, hvis Forbindelseslinier
+med Cirkelpunkterne tangerer Kurven. Ofte er
+der simple Relationer mellem Brændpunkternes
+Afstande fra et vilkaarligt Punkt paa Kurven,
+saaledes ved Ellipsen og Hyperblen. Et Punkt
+er B. for en Flade, naar det er Skæringspunkt
+mellem to Frembringere paa den udfoldelige
+Flade bestemt ved Fladen som Ledeflade og
+Kuglecirklen som Ledekurve; en Flades B.
+danner alm. en Kurve.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Brændsel">
+<b>Brændsel</b> kaldes saadanne Stoffer, af hvis
+Forbrænding vi benytter os til Frembringelse af
+Varme. En forholdsvis ringe Mængde B.
+benyttes til Opvarmning af Boliger, medens den langt
+overvejende Mængde finder Anvendelse i
+industrielle Øjemed, vel især til Fordampning af Vand
+til Drift af Maskiner. Det er selvfølgelig kun
+saadanne Stoffer, som kan skaffes til Veje i
+rigelig Mængde og til en tilstrækkelig billig Pris,
+der kan benyttes, hvad enten man bruger dem
+saaledes, som de forefindes færdigdannede i
+Naturen, ell. man først behandler dette
+naturlige B. paa en ell. anden Maade for at omdanne
+det med en speciel Benyttelse for Øje. B. kan
+være fast, saasom Brænde, Tørv, Brunkul,
+Stenkul, Kokes, Cinders, Trækul og Briketter, ell.
+flydende, saasom Mineralolie, Tjæreolie og
+Spiritus, ell. endelig luftformigt, som alm. Gas,
+Generatorgas, Dowson-Gas, Vandgas, den paa
+enkelte Steder af Jorden fremstrømmende
+brændbare Gas, Højovnsgas, Acetylen og Brint. Under
+alle Omstændigheder vil B. bestaa af i Naturen
+forekommende organiske Stoffer ell. af
+naturligt dannede ell. kunstigt fremstillede
+Omdannelsesprodukter af saadanne og vil derfor
+indeholde Kulstof og Brint og undertiden Svovl som
+de Bestanddele, ved hvis Forbrænding der
+udvikles Varme; tillige findes, navnlig altid i fast
+B., Ilt samt forsk. mineralske Stoffer, der ved
+Forbrændingen bliver tilbage som Aske; fast B.
+indeholder ogsaa altid en Del Vand.
+Bestemmende for et B.'s Værdi er 1)
+<sp>Letantændeligheden</sp>, 2) <sp>Flammeevnen</sp>, 3) den

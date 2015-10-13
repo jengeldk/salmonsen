@@ -1,0 +1,82 @@
+<table>
+<td>Side<td>Sp.
+<td><td><td 3>erhvervet, være sig ved Arv, Gave ell. eget Arbejde. Endvidere<br>indeholder de svenske og danske Udkast af 1918 Regler om<br>Forældremyndigheden, der stiller Ægtefællerne ganske lige. De svenske Udkast blev til Lov<br>i Juni 1920. I Norge er endnu intet forelagt om Retsvirkningerne. I<br>Danmark forelagdes i 1919 i Folketinget en hel Ægteskabslov, der bl. a.<br>omfattede Retsvirkningerne; den vedtoges i Folketinget, men kom ikke<br>videre. Det for K. saa vigtige Afsnit om Forældremyndigheden er dog<br>optaget i Loven om Umyndighed af Juni 1922.<br>V. B.
+<td r>77,<td c>1,<td>Linie<td r>4 f. o.<td>1866 læs: 1886
+<td r>89,<td c>2,<td c>—<td r>16 f. o.<td>Dværggrundform læs: Dværgrundorm
+<td r>114,<td c>2,<td>Linie<td r>8 f. n.<td>undtagen <i>a</i><sub>0</sub>, der læs: undtagen <i>a</i><sub>0</sub>, der
+<td c>—<td c>2,<td>Linie<td r>2 f. n.<td>bliver <i>a</i><sub>0</sub> det læs: bliver <i>a</i><sub>0</sub> det
+<td c>—<td c>2,<td>Linie<td r>1 f. n.<td>i <i>x</i> = <i>a</i>+1/<i>x</i><sub>1</sub> den 
+<td r>115,<td c>1,<td>Linie<td r>1 f. o.<td>Kvotients <i>x</i><sub>1</sub> > 1; <i>a</i><sub>1</sub> 
+er læs: Kvotient <i>x</i><sub>1</sub> er > 1; <i>a</i><sub>1</sub> er
+<td c>—<td c>1,<td>Linie<td r>2 f. o.<td>end <i>x</i><sub>1</sub> o. s. v. læs: end <i>x</i><sub>1</sub> o. s. v.
+<td c>—<td c>1,<td>Linie<td r>13 f. o.<td>til ð, f. Eks. <i>a</i><sub>r</sub> inklusive, læs: til f. Eks. <i>a</i><sub>r</sub> inklusive,
+<td c>—<td c>1,<td>Linie<td r>15 f. o.<td>med <i>y</i><sub>r</sub> og <i>z</i><sub>r</sub> menes læs: med <i>y</i><sub>r</sub> og <i>z</i><sub>r</sub> menes
+<td r>172,<td c>2,<td>Linie<td r>19 f. o.<td>der læs: Oder
+<td r>176,<td c>1,<td c>—<td r>26 f. o.<td>forinden læs: foruden
+<td r>198,<td c>2,<td c>—<td r>8 f. n.<td>1609 læs: 1600
+<td r>201,<td c>2,<td c>—<td r>24 f. o.<td>(Søv.) udgaar, da
+Udtrykket er almindeligt mellem alle Haandværkere og Teknikere
+<td r>254,<td c>2,<td>Linie<td r>1 f. o.<td>Fernei læs: Ferney
+<td c>—<td c>2,<td c>—<td r>23 f. n.<td>Saint-Beuvelæs; Sainte-Beuve
+<td r>278,<td c>2,<td>Linie<td r>6 f. o.<td><b>Lamanski</b> læs: <b>Lamanskij</b>
+<td r>289,<td c>2,<td>Linie<td r>18 f. n.<td>Lakblad læs: Lakbad
+<td r>324,<td c>2,<td c>—<td r>26 f. n.<td>»navnlig . . . Galmyg)« udgaar
+<td r>346,<td c>2,<td>Linie<td r>2 f. o.<td>1390 læs: 1397
+<td r>354,<td c>2,<td c>—<td r>19 f. o.<td>Kunstværk læs: Kortværk
+<td r>366,<td c>1,<td>Linie<td r>13 f. o.<td>Wasington læs: Washington
+<td r>434,<td c>1,<td>Linie<td r>23 f. o.<td>1808'erne læs: 1880'erne
+<td r>451,<td c>1,<td c>—<td r>3 f. n.<td>Piti læs: Pite
+<td c>—<td c>2,<td c>—<td r>27 f. o.<td>Seritofinni læs: Scritofinni
+<td c>—<td c>2,<td>Linie<td r>25 f. n.<td>Piti læs: Pite
+<td r>568,<td c>1,<td 3>er udfalden Artiklen:<br><b>Leconomantlk</b> (gr.), en Afart af Krystallomantik (s. d.), hvorved man<br>benytter smaa blanke Metalplader, der anbringes i et Kar med Vand.<br>(<i>Alfr. L.</i>).
+<td r>615,<td c>2,<td 3>Linie 33—34 f. o. de læderede Ord skal læses: mange — imod
+<td r>656,<td c>2,<td>Linie<td r>28 f. n.<td><sp>Media</sp> læs: <sp>Medium</sp>
+<td r>672,<td c>1,<td>Linie<td r>22 f. o.<td>(1694—1756) læs: (1694—1744)
+<td r>869,<td c>1,<td>Linie<td r>21 f. n.<td>d. 4. Marts 1885 læs: d. 9. Marts 1886
+<td r>977,<td c>2,<td>Linie<td r>30 f. o.<td>1859 læs: 1858
+<td r>1018,<td c>2,<td c>—<td r>6 f. n.<td><i>taxicob</i> læs: <i>taxicab</i>
+<td r>1029,<td c>2,<td c>—<td r>4 f. n.<td>1607 læs: 1621
+<td r>1030,<td c>2,<td c>—<td r>25 f. o.<td>den eng. Regering skænkede den 1858 til Napoleon III læs:<br>Ejendommen blev købt af Napoleon III i 1857
+<td r>1039,<td c>2,<td>Linie<td r>34 f. o.<td><sp>Skedeknæ</sp> læs: <sp>Polygonum</sp> og <sp>Pulicaria</sp>.
+<td r>1052,<td c>1,<td>Linie<td r>5 f. n.<td>(1803—51) læs: (1801—51)
+</table>
+
+<table>
+<td c 5><sp>BIND XVI</sp>.
+<td>Side<td>Sp.
+<td r>22,<td c>2,<td>Linie<td r>20 f. o.<td v7 c> }ell. st. E. læs: elst. E.<br>(ɔ: elektrostatiske Enheder)
+<td r>23,<td c>1,<td c>—<td r>34 f. o.<td>
+<td c>—<td c>1,<td c>—<td r>35 f. o.<td>
+<td c>—<td c>1,<td c>—<td r>28 f. n.<td>
+<td c>—<td c>1,<td c>—<td r>17 f. n.<td>
+<td c>—<td c>1,<td c>—<td r>14 f. n.<td>
+<td c>—<td c>1,<td c>—<td r>2 f. n.<td>
+<td r>26,<td c>2,<td c>—<td r>3 f. o.<td>(under Ligningen) <i>l</i> læs: <i>h</i>
+<td c>—<td><td 3>Fig. 1 og Fig. 2 skal ombyttes
+<td r>59,<td c>2,<td>Linie<td r>2 f. n.<td>Maksimalarbejdsuge læs: Maksimalarbejdstid
+<td r>64,<td c>2,<td>Linie<td r>18 f. n.<td>1633 læs: 1632
+<td r>66,<td c>1,<td c>—<td r>26 f. n.<td><sp>H. C. Lumbye</sp> har ikke skrevet Finale-Galoppen, men<br>derimod Indianerdansen af Bournonvilles Ballet »Fjernt fra Danmark«;<br>Finale-Galoppen skyldes <sp>A. F. Lincke</sp>
+<td r>125,<td c>2,<td>Linie<td r>8 f. n.<td>1870 læs: 1871
+<td r>219,<td c>1,<td c>—<td r>6 f. n.<td>Babbinowics læs: Rabbinowics
+<td r>285,<td c>1.<td 3>Billedet forestiller ikke P. V. Løvenørn, men hans Sønnesøn, Admiral P. L.
+<td r>406,<td c>1,<td>Linie<td r>1 f. o.<td><sp>Novozan</sp> læs: <sp>Novozon</sp>
+<td r>603,<td c>1,<td>Linie<td r>30 f. n.<td>efter Bornholm læs: Møen og Ærø
+<td r>638,<td c>1,<td>Linie<td r>16 f. n.<td><sp>Mikajlovitsch</sp> læs: <sp>Michajlovitsch</sp>
+<td r>648,<td c>2,<td>Linie<td r>11 f. n.<td>1887 læs: 1587
+<td r>649,<td c>1,<td c>—<td r>23 f. n.<td>Henry IV læs: Henry VI
+<td r>761,<td c>1,<td c>—<td r>2 f. n.<td>1847 læs: 1845
+<td r>792,<td c>2,<td c>—<td r>25 f. o.<td>(<i>E. T. A.</i>) læs: (<i>E. A. T.</i>)
+<td r>842,<td c>1,<td c>—<td r>4 f. o.<td><b>spiralis</b> læs: <b>spinalis</b>
+<td r>873,<td c>1,<td c>—<td r>9 f. n.<td>1865 læs: 1861
+<td r>957,<td c>2,<td c>—<td r>22 f. o.<td>1910 o. s. v. læs: 1910 kom »Smert Pavla I« (»Paul I's Død«)<br>og 1912 (i Tidsskriftet »Russkaja mysl«) »Aleksander I«
+<td r>1001,<td c>2,<td>Linie<td r>25 f. n.<td><b>Metalamoniakforbindelser</b> læs: <b>Metalammoniakforbindelser</b>
+<td r>1064,<td c>1,<td>Linie<td r>28 f. o.<td>Samarere's læs: Samarow's
+<td r>1065,<td c>2,<td>Linie<td r>8 f. o.<td><b>Meysenburg</b> læs: <b>Meysenbug</b>
+</table>
+
+<table>
+<td c 5><sp>BIND XVII</sp>.
+<td>Side<td>Sp.
+<td r>64,<td c>2,<td>Linie<td r>10 f. o.<td>Falcon læs: Halcon
+<td r>80,<td c>2,<td c>—<td r>9 f. o.<td>Alakalisk læs: Alkalisk
+</table>

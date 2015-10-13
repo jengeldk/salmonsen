@@ -1,0 +1,141 @@
+Aksler] koblede sammen, ell. 3/5-koblet = 5
+Aksler, hvoraf 3 koblede) ell. — som indført
+1908 ved de tyske Baner — Tal og Bogstaver
+(f. Eks. 2 C 1 = 2-akslet Bogie forrest, derefter
+3 koblede Aksler og bagest 1 Løbe aksel). Til
+denne Betegnelse kan tilføjes Cylinderantallet
+samt Angivelse af, om L. kører med alm.
+mættet ell. overhedet Damp, om det er et alm.
+Højtryks- ell. et Kompound-L. o. s. v. I
+Amerika brugtes tidligere Kendingsord (f. Eks.
+<sp>American</sp>, <sp>Atlantic</sp>, <sp>Mogul</sp>,
+<sp>Prærie</sp>, <sp>Pacific</sp> o. m. fl.), hvis Fremkomst ofte
+ikke kan eftervises; nu bruges efter Forslag af
+<sp>Whyte</sp> hyppigst kun Tal, svarende til
+Hjulantallet (f. Eks. 4—6—2 = Pacific =
+forannævnte 2 C 1-L.). Foruden disse
+Hovedtypebetegnelser bruges inden for de enkelte
+Jernbaneforvaltninger ogsaa særlige Betegnelser, f.
+Eks. som ved de danske Statsbaner Litra og
+Løbenummer, der som Regel begge paamales
+L. I Jernbanernes Barndom, hvor Antallet af
+L. ikke var saa stort, havde hvert L. gerne sit
+eget Navn. Danmarks første L. hed saaledes
+»Odin«.
+
+2. <sp>Damp-L.</sp>
+a. <sp>Beskrivelse og Konstruktion</sp>.
+
+For at et L. skal kunne bevæge sig fremad,
+naar Maskinen drejer Drivhjulene rundt, maa
+disse rulle og ikke glide (»spille«) paa
+Skinnerne. Det er <sp>Friktionen</sp>
+(Gnidningsmodstanden) — alm. kaldet <sp>Adhæsionen</sp> —
+mellem Hjul og Skinne, som forhindrer
+Hjulenes Glidning. Friktionens Størrelse afhænger af
+Trykket, som de koblede Hjul udøver mod
+Skinnerne, den saakaldte <sp>Adhæsionsvægt</sp>
+(s. d.) samt af Beskaffenheden af Hjulenes og
+Skinnernes Overflader (tørre ell. »fedtede«
+Skinner); den er altid større end Modstanden
+imod Rulning, men kan i øvrigt være meget
+foranderlig (se i øvrigt <sp>Adhæsion</sp> 3). Da
+Friktionens Størrelse under alle Forhold er
+afhængig af Adhæsionsvægten, er det
+øjensynligt af Interesse — for at opnaa den størst
+mulige Trækkekraft af L. —, at denne Vægt er
+saa stor som muligt. Sporets Styrke sætter
+imidlertid en Grænse for Belastningen af det
+enkelte Hjulsæt, og man maa derfor i Reglen
+sammenkoble to ell. fl. af L.'s Hjulsæt, saa at
+de tvinges til at rulle ell. glide samtidig, for at
+tilvejebringe den fornødne Adhæsion. L.'s
+<sp>Trækkekraft</sp> ɔ: L.-Dampmaskinens
+samlede Kraft, overført til Drivhjulenes Omkreds,
+som altsaa ikke alene tjener til at trække et
+Tog over Banen, men ogsaa til at bevæge selve
+L. fremad, bør altid være noget større end
+Friktionen, for at denne kan udnyttes fuldt ud;
+men paa den anden Side er det unyttigt at
+konstruere L.'s Dampkedel og -maskine til at
+udvikle betydelig større Trækkekraft end
+Friktionen, som man for middelgode Forhold kan
+sætte til 1/6 <i>P</i>, hvor <i>P</i> er den samlede
+Adhæsionsvægt. Trækkekraftens Størrelse, der
+afhænger af Stempeltrykket i Cylinderen
+(Stempelarealet, multipliceret med Damptrykket)
+aftager, naar L.'s Hastighed (altsaa ogsaa
+Hjulomdrejningerne ell. Stempelslagenes Antal pr
+Tidsenhed) vokser, fordi Fyldningsgraden i
+Cylinderen i saa Fald — for at Kedlen
+vedvarende skal kunne frembringe den fornødne
+Mængde Damp —, maa formindskes (ɔ: Styringen
+maa trækkes nærmere op mod sin Midtstilling),
+hvorved det paa Dampstemplet virkende
+Middeldamptryk bliver mindre.
+
+Det almindeligst anvendte Brændsel er Kul,
+men ogsaa Koks, Brunkul, Tørv og Brænde har
+fundet Anvendelse, og i de senere Aar har man
+endvidere forsøgt anvendt flydende Brændsel
+paa de saakaldte <sp>oliefyrede L.</sp>, der
+navnlig i Pennsylvanien, Sydrusland, Rumænien og
+Østerrig har faaet en Del Udbredelse.
+
+Den paa L. mest benyttede Kedelform er
+<sp>Rørkedlen</sp>, men ogsaa andre Kedelformer
+har fundet Anvendelse, saaledes i Amerika paa
+fl. Baner Kedler med bølgeformet Ildkanal
+(System <sp>Vanderbilt</sp>) og forsøgsvis, f. Eks. i
+Østerrig, Ungarn og Rusland <sp>Brotan</sp>-Kedlen,
+hvor Fyrkassen er dannet af tæt ved Siden af
+hinanden stillede Vandrør, der foroven er
+indvalset i en <sp>Overkedel</sp> og forneden i den
+hule Bundramme. Rørkedlerne, der hyppigst er
+liggende, bestaar af Rundkedlen og
+Fyrkassedelen, som kan bygges med flad (System
+<sp>Belpaire</sp> og <sp>Becker</sp>) ell. rund Topplade;
+foran Rundkedlen er <sp>Røgkamret</sp> med
+Skorstenen anbragt.
+
+Grundlaget for Nutidens Damp-L. kan føres
+tilbage til det af <sp>G.</sp> og <sp>R. Stephensen</sp> 1829
+konstruerede L. »Rocket« (se ndf. under
+Afsnittet: <sp>Historisk Udvikling</sp>), som i
+Hovedtrækkene er den samme L.-Type, som
+benyttes den Dag i Dag. Dette L.'s
+Overlegenhed fremfor de indtil da konstruerede L.
+skyldtes navnlig Anvendelse af Rørkedlen, men L.
+besad dog endnu adskillige Mangler, som det
+var forbeholdt Eftertiden at afhjælpe. Saaledes
+havde »Rocket« endnu ikke Regulerings- og
+Omstyringsindretninger. ved Hjælp af hvilke
+der kunde indledes større ell. mindre
+Dampmængder i Cylindrene, eftersom der kørtes op
+ad ell. ned ad Bakke, og som tillige kunde
+tjene til at skifte Kørselsretningen. L. kørte
+stedse med den samme Ekspansion af Dampen
+i sine Cylindre (ɔ: med samme
+<sp>Fyldningsgrad</sp> ell. -<sp>procent</sp>), og skulde Hastigheden
+varieres, kunde det kun ske ved at aabne
+Dampventilen (<sp>Regulatoren</sp>) mere eller
+mindre, saa at Dampspændingen i Cylindrene
+forandredes. Skulde Bevægelsesretningen
+skiftes, og altsaa Dampen ledes ind paa den Side
+af Stemplet, hvor den ellers skulde have været
+afledet og omvendt, maatte Glideren forskydes
+saa meget, at Cylindrenes Ind- og
+Udstrømningskanaler skiftede Funktion, og dette skete
+ved med Haanden at dreje Ekscentrikskiven,
+som i den Hensigt var anbragt løst paa Akslen
+og ved Hjælp af en udtagelig Kile kunde
+fastholdes i to Stillinger. En saadan drejelig Skive
+var imidlertid af mange Aarsager ubekvem, og
+<sp>Hawthorn</sp> i Newcastle foreslog derfor 1837
+Anvendelsen af to faste Ekscentrikskiver med
+Stænger for hver Glider, den ene for forlæns,
+den anden for baglæns Kørsel, men
+Forbindelsen mellem Ekscentrikstængerne og
+Gliderstangen var vedblivende meget utilfredsstillende og
+tillod desuden ingen Forandring af Dampens
+Ekspansionsgrad, indtil <sp>Robert</sp>

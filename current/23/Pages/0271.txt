@@ -1,0 +1,142 @@
+især Betydning for Temperaturer mellem 0 og
+÷ 100°. Derfra og ned til flydende Lufts
+Temperatur kan Petroleumsæter eller Pentan
+bruges som Termometervædske.
+
+Til videnskabeligt, internationalt Brug og i
+det hele taget som Normal-T. er man bleven
+enig om at benytte et T., hvis Beholder
+er fyldt med <sp>Brint</sp>, <sp>Helium</sp> eller
+<sp>Kvælstof</sp>. Den indespærrede Luftmasse
+afgrænses ved en Kvægsølvsøjle, der holder
+Luftens Rumfang konstant, samtidig med at
+den tjener til Maaling af Luftens Tryk. Ved 1°
+efter dette T. skal forstaas den
+Temperaturtilvækst, som forøger Trykket med 1/100 af den
+Tryktilvækst, der finder Sted, naar Luften
+under konstant Rumfang opvarmes fra Vandets
+Frysepunkt til dets Kogepunkt under
+Normaltryk. Den saaledes bestemte Temperaturskala
+falder saa nøje sammen med
+Kvægsølvtermometerets mellem 0° og 100° , at man kun ved fine
+Maalinger behøver at tage Hensyn til
+Forskellen. Ved lavere og især ved højere
+Temperaturer bliver Forskellen større. Som Beholder for
+Luften er Jenaglas 59 III det bedste indtil 450°
+Kvarts kan taale Opvarmning lige til 1000',
+men er gennemtrængeligt baade for Brint og
+Helium. Ved højere Temperaturer maa man
+bruge Metalbeholder, bedst Platinrhodium; rent
+Platin er for blødt, og Platiniridium afgiver
+Metaldampe over 1000°. Endnu ved 1600° er
+Platinmetallerne uigennemtrængelige for
+Helium, og man kan altsaa bruge Helium som
+T.-Substans lige fra de laveste til de højeste
+Temperaturer.
+
+<sp>Modstands-T.</sp>, oprindelig angivet af W.
+v. Siemens (1871), bestaar af en Spiral af
+Platintraad, som Regel 1 m lang og 0,1 mm tyk,
+opviklet paa Glimmer eller Porcelæn, der
+føres ind i det Rum, hvis Temp. skal maales; ved
+Sølvtraade er dens Ender satte i Forbindelse
+med Ledningstraadene til et Redskab, hvormed
+Platintraadens elektriske Ledningsmodstand
+kan maales (se <sp>elektrisk
+Ledningsmodstand</sp>). Modstanden stiger ret
+regelmæssig med Temperaturen, og ved
+Sammenligning med et Lufttermometer har man fundet en
+Formel, der inden for dettes store Omraade
+tillader at omregne Resultatet af
+Modstandsmaalingen til Varmegrader efter Lufttermometeret.
+Samme Formel benytter man saa ogsaa ved
+endnu højere Temperaturer. Modstands-T. kan
+bruges lige fra de laveste opnaaelige
+Temperaturer til c. 1000°, og det er det nøjagtigste
+af alle T.
+
+<sp>Termoelementet</sp> bestaar af 2 Traade
+af forskelligt Materiale; de to Ender er
+loddede sammen, og dette Loddested anbringes i
+det Rum, hvis Temperatur skal maales.
+Traadenes fri Ender loddes til to Kobbertraade, og
+disse Loddesteder holdes ved en bekendt
+konstant Temperatur, f. Eks. 0°; Kobbertraadene
+forbindes med et tilpas følsomt Apparat til
+Spændingsmaaling. Er nu Rummets
+Temperatur forskellig fra 0°, vil der opstaa en
+Spændingsforskel mellem Traadene, afhængig af
+Temperaturforskellen mellem de to Sæt
+Loddesteder (jfr <sp>Termoelektricitet</sp>), og
+denne Spændingsforskel danner derfor et Maal for
+Rummets Temperatur. T. kan bekvemt
+anvendes ved alle Temperaturer lige fra de lavest
+opnaaelige til c. 1000—1200° C., men ved højere
+Temperaturer møder man ligesom ved
+Modstandstermometret den Vanskelighed, at alle
+elektriske Isolatorer begynder at blive ledende.
+Som Materiale kan man f. Eks. anvende:
+Kobber og Konstantan (der giver en
+Spændingsforskel paa c. 40 Mikrovolt pr Grad
+Temperaturforskel), Sølv-Konstantan (ligeledes 40
+Mikrovolt pr Grad) eller ved meget høje
+Temperaturer Platin og Platinrhodium (10 Mikrovolt
+pr Grad); dette sidste Termoelement kaldes
+ofte et »Pyrometer«, idet der med denne Glose
+blot betegnes et Apparat til Maaling af høje
+Temperaturer. Ved Temperaturer over
+Platinets Smeltepunkt har man som eneste
+Middel til Temperaturmaaling Undersøgelsen af
+Legemernes <sp>Udstraaling</sp> af Lys og
+Varme. Man kan bruge en enkelt Farve, f. Eks.
+den, der ses gennem rødt Glas. Farvens
+Lysstyrke stiger med Temperaturen og kan
+bedømmes ved Sammenligning med en
+Glødelampes Kultraad, hvis Temp. ved Regulering af
+Strømmen afpasses saaledes, at Traaden bliver
+usynlig, naar den har det undersøgte Legeme
+til Baggrund (<sp>Holborn</sp> og <sp>Kurlbaum</sp>'s
+<sp>Pyrometer</sp>). Strømstyrken tjener til
+Beregning af Traadens Temp. Man kan ogsaa
+danne et Spektrum af Lyskilden og
+sammenligne to Spektralfarvers Klarhed; Forholdet
+ændres med Temperaturen og kan derfor tjene
+til Bestemmelse af denne. Endelig kan man
+maale hele Udstraalingen som Varme ved
+Termostøtte ell. Bolometer (s. d.). Bedst Resultat
+giver disse Straalemaalinger ved Bestemmelsen
+af Ovntemperaturer. Ser man nemlig gennem
+en lille Aabning ind i en glødende Ovn med ens
+Temp. overalt, vil Straalingen gennem
+Aabningen være »sort« (se <sp>Straaling</sp>) og derfor
+særlig tjenlig til Temperaturbestemmelser.
+
+T.'s særlige Former og Anvendelser er saa
+mange, at kun et Udvalg kan nævnes her.
+<sp>Maksimums</sp>- og
+<sp>Minimumstermometre</sp> tjener til Angivelse af den højeste og
+den laveste Temp., som T. har vist i en vis Tid.
+I det første driver Kvægsølvet gerne en
+Staalstift foran sig; trækker Kvægsølvet sig tilbage,
+bliver Stiften liggende, og dens bageste Ende
+viser paa Maksimumstemperaturen. Ligger T.
+vandret, kan Stiften holdes paa Plads ved sin
+Vægt og siden ved en Drejning af Røret føres
+tilbage til Kvægsølvoverfladen. Den slæbes dog
+undertiden med, naar denne Overflade gaar
+tilbage, og den maa derfor helst være
+forsynet med et Haar eller en Glastraad, som
+ved sin Spændkraft kan faa den til at
+ligge mere fast. I saa Fald maa Stiften
+føreis tilbage til Overfladen ved Hjælp
+af en Magnet. Et meget brugt
+Minimumstermometer har Vinaand i Røret, der ligger
+vandret. Inde i Vinaanden ligger en Glasstift,
+formet omtr. som en Knappenaal med et lille
+Hoved paa hver Ende. Stiften gaar med, naar
+Vinaandens Overflade gaar tilbage, men bliver
+liggende, naar Temperaturen stiger, og
+Overfladen gaar frem. Stiftens forreste Ende
+angiver Minimumstemperaturen. Drejer man T.,
+saa Beholderen kommer opad, glider Stiften
+hen til Overfladen, og T. er færdigt til en ny

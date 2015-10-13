@@ -1,0 +1,119 @@
+som Akse, og hvis halve Toppunktsvinkel for
+de røde Straaler er 42 1/2°. Da de øvrige Farver
+brydes mere, vil de, som det fremgaar af Fig.,
+efter Udgangen af Draaben ligge inden for en
+Kegleflade med mindre Toppunktsvinkel end
+42 1/2°. De forsk. Farver kommer derved til at
+gribe ind over hverandre, saaledes at R.'s
+Farver ikke er spektralrene Farver.
+<sp>Biregnbuens</sp> Farver fremkommer paa ganske lgn.
+Maade, idet blot, som Fig. 2 viser, Straalen
+tilbagekastes to Gange inde i Draaben. Efter
+Udtræden af Draaben vil de røde Straaler nu ligge
+uden for en skarpt begrænset Kegleflade med
+den indfaldende Straale til Akse, og for hvilken
+den halve Toppunktsvinkel er 51°, medens den
+til de violette Straaler svarende halve
+Toppunktsvinkel er 54°; ogsaa her vil altsaa de
+enkelte Farver gribe ind over hverandre. —
+Fig. 3 viser nu skematisk, hvorledes R.
+dannes; <i>S</i> er de fra Solen, kommende Straaler, <i>Ø</i>
+er Øjet. Fremkomsten af en R. er ene og alene
+afhængig af, om Øjet kan træffes af det
+tilbagekastede farvede Lys; de Draaber, hvortil
+Synslinien danner en Vinkel paa 42 1/2° med
+Retningen fra Solen til Øjet, ses røde, o. s. fr.
+for de andre Farver, idet hver enkelt Draabe
+i Regnskyen viser sig med sin bestemte Farve.
+— Ved endnu flere Tilbagekastninger inde i
+Draaberne kan der fremkomme flere
+Biregnbuer, men de bliver mere og mere lyssvage og
+iagttages kun meget sjældent. — Ved Randen
+af den Lyskegle, der udgaar fra hver Draabe,
+optræder, ganske som naar Lyset gaar igennem
+et Hul i en Skærm, Interferensfænomener,
+saaledes at der opstaar Lysmaksima og Lysminima
+i afvekslende Rækkefølge; Afstanden mellem de
+enkelte Lysmaksima er ligefrem proportional
+med Lysets Bølgebredde, altsaa størst ved de
+røde og mindst ved de violette Straaler, og den
+er desto større, jo mindre Draaben er. Til hver
+enkelt Farve i det hvide Sollys svarer et helt
+System af saadanne Lysmaksima og -minima,
+og R.'s Farve fremkommer som Resultat af
+Blandingen af alle disse; derfor vil kun den
+røde Rand være en ren Spektralfarve, men de
+øvrige Blandingsfarver. Da ved Hovedregnbuen
+den største Afbøjningsvinkel for hver Farve er
+ganske uforanderlig, vil den ydre Radius for
+Hovedregnbuen altid være den samme; af
+tilsvarende Grund vil den indre Radius for den
+første Biregnbue altid være den samme. Men
+da Interferensstribernes Afstande afhænger af
+Draabestørrelsen i Regnskyen, saa kan R.'s
+Bredde og Farver variere stærkt fra een R. til
+en anden. Er Draabestørrelsen under 0,1 mm,
+vil de første Lysmaksima for hver Farve i det
+væsentlige dække hverandre; derfor kan der i
+Taageskyer med saa smaa Draaber forekomme
+en hvid R. i St f. den sædvanlige farvede.
+<i>A. W. M.</i>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+</chapter>
+
+<chapter name="Regnbueørred">
+<b>Regnbueørred,</b> se <sp>Fiskeavl</sp>, S. 144 og
+<sp>Ørredavl</sp>.
+</chapter>
+
+<chapter name="Regndag">
+<b>Regndag</b> er efter meteorologisk Sprogbrug
+en Dag, da der er maalt mindst 0,1 mm Regn.
+</chapter>
+
+<chapter name="Regnebræt">
+<b>Regnebræt</b> er et Hjælpemiddel ved
+Udførelse af simple Regninger, særlig Addition og
+Subtraktion. R. er forsynet med parallelle
+Render med forskydelige
+Mærker eller Strenge
+med forskydelige
+Kugler; hver Rende eller
+Streng svarer til sin
+decimale Enhed. Ved
+Addition f. Eks. skydes
+paa enhver Streng.
+Kugler i de Antal, som
+Addendernes Cifre paa
+den tilsvarende Enheds
+Plads angiver, hen til
+Strengens ene Ende,
+idet naturligvis 10
+Kugler paa en Streng
+erstattes af 1 paa den
+nærmest højere Enheds
+Streng. De forskudte
+Kugler fremstiller saa
+Cifrene i Summen. R.
+brugtes under Navnet
+ἄβαξ eller <i>abacus</i> hos de gl. Grækere og
+Romere; nu anvendes det kun i enkelte Lande,
+f. Eks. Rusland og Kina, og mest ved
+Undervisningen.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Regnekunst">
+<b>Regnekunst</b> kræver først og fremmest
+Færdighed i de alm. simple Regneoperationer og
+Sikkerhed i Brugen af de forsk. Tabeller, som
+tjener til Lettelse af Beregninger. Ved
+Regning med tilnærmede Tal (afkortede
+Decimalbrøker) maa man kunne afgøre, hvor stor en
+Tilnærmelse man skal bruge, og hvilken
+Nøjagtighed man tør tillægge Resultatet. Er der
+Tale om mere sammensatte Beregninger, bør
+man straks lægge en Plan for Udførelsen, d.

@@ -1,0 +1,149 @@
+Elektroderne. Forklaringen af E. er givet af
+<sp>Coehn</sp>. E. hænger sammen med den negative
+Ladning, som Glasvæggen i Revnerne antager ved
+den <sp>elektriske Endosmose</sp> (s. d.);
+derved tiltrækkes de positive Metalioner. Hvis de kem.
+Forhold nu er saaledes, at det først udskilte
+Metal, der delvis overtager
+Elektricitetstransporten gennem Revnen, kan vokse paa sin
+Katodeside uden at aftage paa Anodesiden, faas
+E. Den udvikles derfor kun ved visse Metaller,
+f. Eks. Sølv, og kun ved visse af deres Salte.
+(<sp>Litt</sp>.: <sp>Müller-Pouillet</sp>, »Lehrbuch der
+Physik u. Meteorologie«, 10. Udg., Bd IV, 1
+[Braunschweig 1909]).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Elektrostriktion">
+<b>Elektrostriktion,</b> et dielektrisk Legemes
+Rumfangsændring i et elektrisk Felt. E. for en
+Glassort kan f. Eks. paavises ved, at man af
+denne danner en Beholder med et snævert
+Kapillarrør som Hals. Beholderen fyldes med en
+ledende Vædske indtil noget op i Kapillarrøret og
+omgives desuden udvendig med Vædsken, saaledes
+at det hele danner en Leydnerflaske med
+Glasset som Isolator og Vædsken som Belægningerne.
+Sætter man nu en Spændingsforskel paa mellem
+den indre og ydre Vædske, vil Vædsken i
+Kapillarrøret i Alm. stille sig lidt lavere og viser
+derved, at Beholderen har udvidet sig ved
+Elektriseringen. Virkningen hidrører her væsentligst
+fra, at de tiltrækkende Kræfter mellem de to
+Belægningers Ladninger har udøvet et rent
+mekanisk Tryk paa Glasset. Nøjagtige Maalinger
+har imidlertid vist, at man ikke helt kan
+forklare Forsøget derved, men at det foruden maa
+antages, at selve Elektriseringen af Dielektriket
+fremkalder en Rumfangsændring, den egl. E. Man
+kan teoretisk vise, at der maa komme en saadan
+ved alle Stoffer, hvis Dielektricitetskonstant
+forandrer sig med Rumfanget. Formindskes
+Dielektricitetskonstanten, naar Rumfanget formindskes,
+vil Elektrisering fremkalde en Forøgelse, i
+modsat Tilfælde - som f. Eks. ved Luftarterne -
+en Formindskelse af Rumfanget. (<sp>Litt</sp>.: <sp>L.
+Graetz</sp>, »Handbuch der Elektrizität und des
+Magnetismus« [Leipzig 1914]).
+<i>E. S. J.</i>
+</chapter>
+
+<chapter name="Elektroteknik">
+<b>Elektroteknik,</b> Elektricitetens Anvendelse i
+Teknikken og Læren herom, har sine Rødder i
+Beg. og Midten af forrige Aarh. Det er for
+allerstørste Delen Anvendelsen af den
+elektriske Strøm, og de ældste Former er
+<sp>Galvanoplastik</sp>, <sp>Buelys</sp> og <sp>Telegrafi</sp>.
+Skulde man sætte noget Tidspunkt for
+Begyndelsen af E. i moderne Forstand, maatte det
+blive Aaret 1881, da der i Paris afholdtes en
+international elektrisk Udstilling, hvor man
+foruden Buelys tillige saa Edison's <sp>elektriske
+Glødelampe</sp> og et Utal af <sp>Dynamoer
+for Jævnstrøm</sp>, og som i mange Tilfælde
+gav betydningsfulde Impulser til
+Dynamobygningens Udvikling. I 1880'erne og 1890'erne
+undergaar den <sp>elektriske Belysning i
+Byerne</sp> en rivende Udvikling. Omkr. 1885
+fremkom de første
+<sp>Vekselstrømstransformatorer</sp>. 1888 fremsatte <sp>Ferrari</sp>
+Teorien om det magnetiske Drejefelt, og c. 1890
+fremkom det siden saa overordentlig meget
+anvendte <sp>3-fasede System</sp> for Vekselstrøm.
+I 1890'erne og Beg. af dette Aarh. opstod de
+<sp>elektriske Sporveje</sp>. I dette Aarh.
+falder den rivende Udvikling af
+<sp>Højspændingsanlæg</sp>, dels i store Byer, dels til
+Kraftoverføring paa lange Afstande. Saavel ved
+Jævnstrøm som ved den 3-fasede Vekselstrøm har
+Anvendelsen af <sp>Motorer</sp> til de forskelligste
+Formaal faaet en overordentlig stor Udbredelse
+i den lille Industri, i Landbruget, i Fabrikker
+og til specielle Formaal, saasom <sp>Elevatorer</sp>
+og <sp>Kraner</sp>. <sp>Elektriske Lamper</sp> har
+i de sidste 10 Aar befundet sig i en rivende
+Udvikling (Metaltraadslamper,
+Metaltraadslamper med Kvælstoffylding). <sp>Elektrisk
+Varme</sp> anvendes dels som Luksusopvarmning, dels
+til Strygejern o. l. og Loddekolber. Elektrisk
+Varme anvendes desuden til <sp>Svejsning</sp> og
+i <sp>Elektrometallurgien</sp> til Udvinding
+af Jern. Man er her ved Grænseomraader, hvor
+Hovedsagen (Metalfremstillingen) ligger uden
+for E., medens de dertil nødvendige Maskiner og
+Apparater falder inden for E. Noget lgn.
+gælder den <sp>elektriske Udvinding af
+Luftens Kvælstof</sp>, hvor dog de
+elektriske Anlæg med tilhørende Kraftanlæg udgør en
+betydelig Del af det hele.
+
+Den Del af E., som væsentlig angaar
+Fremstillingen af elektrisk Energi, dens Fordeling og
+dens Anvendelse, navnlig til Lys og Kraft,
+kaldes i Reglen
+<sp>Stærkstrømselektroteknikken</sp> i Modsætning til den Del af E., som
+væsentlig angaar Overføring af Signaler og
+Impulser, saasom <sp>Telegrafi</sp>, <sp>Telefoni</sp> og
+<sp>elektrisk Jernbanesignalvæsen</sp>,
+der sædvanlig kaldes
+<sp>Svagstrømselektroteknik</sp>.
+
+I Stærkstrømsanlæg anvendes dog ogsaa
+Indretninger, der nærmest hører under
+Svagstrømsteknikken, f. Eks. <sp>Trykknapstyring</sp> ved
+Elevatorer og <sp>elektrisk Fjernstyring</sp>
+af Afbrydere og Regulerapparater i
+Elektricitetsværker, ligesom der ogsaa i
+Svagstrømsanlæg anvendes Stærkstrømsindretninger i
+Telefoncentraler, f. Eks. Omformermaskineri og
+Akkumulatorbatteri til Mikrofonstrøm.
+
+<sp>Den traadløse Telegrafering</sp>
+henregnes sædvanlig til Svagstrømsteknikken,
+endskønt den i Afsenderapparaterne anvender
+Strømme og Spænding af Størrelse som i store
+elektriske Centraler. Til Svagstrøm henregnes
+i Reglen ogsaa <sp>galvaniske Elementer</sp>,
+til Stærkstrøm henregnes <sp>Akkumulatorer</sp>.
+Elektriske <sp>Kabelfabrikker</sp> fabrikerer i
+Reglen baade Stærkstrøms- og
+Svagstrømskabler og Ledninger.
+
+Det centrale i Stærkstrømselektroteknikken
+som <sp>Undervisningsfag</sp> er Læren om de
+elektriske Maskiner. Denne bygger paa de
+fundamentale Love om Elektromagnetisme og
+magnetisk Induktion, men benytter i øvrigt specielle
+Metoder og Fremgangsmaader. For
+Jævnstrømsmaskinernes Vedk. skal navnlig fremhæves den
+af Brødrene <sp>Hopkinson</sp> (<i>Phil. Transactions</i>
+I 331, 1886) givne Teori til Beregning af den
+magnetiske Kreds. For Ankerbeviklingens Vedk.
+<sp>Arnold</sp>'s Teori (»Die Ankerwickelung der
+Gleichstromdynamomaschinen« [Berlin 1891] og
+senere i Arnold's Lærebøger). Ved Behandling
+af Vekselstrømsproblemer dominerer
+Benyttelsen af <sp>Vektordiagrammer</sp>, som paa en
+

@@ -1,0 +1,146 @@
+behøver at være bøjelige, bruger tykke Traade
+af ringe Styrke (Fig. 3), bruger man til
+Ophejsningstove tynde Traade af stor Styrke (Fig.
+2), og Materialet er da gerne Digelstaal af
+Hensyn til dettes større Sejghed. Ofte erstattes
+Dukternes Hampesjæl med Jerntraade (Fig. 1,
+d—m), hvorved faas et mindre bøjeligt, men
+stærkere Tov, der ikke forlænger sig saa
+meget under Brugen, og derfor egner sig til
+Kraftoverføring paa store Afstande. Naar en enkelt
+Kernetraad bruges, og Traaddiameteren holdes
+ensartet (d, e og f), kommer der 6 Traade
+uden om Kernetraaden, og derefter kommer
+der 6 Traade til i hvert Lag (svarende til 2π).
+Brugen af en enkelt Kernetraad medfører i
+øvrigt den Ulempe, at den anstrenges mere
+end de øvrige Traade, da den er mindre snoet;
+dette kan modvirkes ved at udgløde den eller
+ved at erstatte den med flere sammensnoede
+Traade (Fig. 1, g—h). I Kabler til Hængebroer
+er der slet ikke Hamp, idet Kernen ogsaa
+dannes af en Jerntraadsdukt. Naar Dukten
+bestaar af fl. Traadlag, er Snoningsretningen
+gerne modsat i de enkelte Lag; Stigningsvinklen
+maa være den samme, da Traadene ellers faar
+forsk. Spændinger, naar Tovet belastes. En
+stor Stigningsvinkel paavirker Tovets
+Egenskaber i samme Retning som en Jernsjæl, en svag
+Stigning giver Bøjelighed og bruges ved
+Fortøjningstrosser. Som Regel er
+Snoningsretningen modsat i Dukterne og Tovet
+(<sp>Krydsslag</sp>), men ved Transmissionstove er den
+undertiden ens (hvilket i Tyskland benævnes
+<sp>Albertslag</sp>, i England <sp>Lang's Patent</sp>), da
+Tovet derved faar en jævnere Overflade og
+berører Tovskiven i fl. Punkter, saa at Sliddet
+formindskes. Saadanne Tove er imidlertid
+tilbøjelige til at sno sig op, naar Enden er fri,
+og egner sig derfor kun til Ophejsningstove,
+saafremt Byrden er styret (Elevatorer). Hvor
+den størst mulige Bøjelighed ønskes, bruges
+<sp>kabelslaaede</sp> Tove. Hver Dukt er da selv
+et Tov, der f. Eks. bestaar af 6 sekundære
+Dukter uden om Hampesjælen. De sekundære
+Dukter benævnes <sp>Kordeler</sp>. Bøjeligheden
+kan yderligere forøges ved at erstatte
+hveranden Kordel med en Hampesnor. Kabelslaaet
+Tovværk bruges undertiden i svære Taljer og
+som Fortøjningstrosser.
+
+Transmissionstove fremstilles ogsaa af 5
+flade, ellipseformede Dukter uden om en
+Hampekerne; de slides mindre end de
+almindelige, da de berører Tovskiven i fl. Punkter.
+Helt flade Tove slides derimod hurtigere end
+de runde, men er mere bøjelige; de bruges ved
+Hejseværker i Miner. Tove med trekantet
+Tværsnit bruges undertiden til Tovskiver med
+kileformet Rille p. Gr. a. deres bedre Anlæg.
+Hampeklædte Transmissionstove har hiver
+Dukt omgivet med Hamp, hvorved Jerntraaden
+slides mindre, og Friktionen mod Tovskiven
+bliver større, saa at der kan overføres mere
+Kraft gennem Tovet. En særlig Slags runde
+Tove er de »lukkede« Traadtove, der bestaar
+af tykke Traade, dels runde, dels med specielle
+Former, der griber saaledes ind i hverandre,
+at en Traad ikke kan springe frem af Tovet,
+selv om den brydes (Fig. 4), og at de indre
+Traade er godt beskyttede mod Fugtighed. De
+anvendes, hvor Overfladen skal være særlig glat
+f. Eks. til Luftbaners Løbetove, ell. hvor en
+særlig stor Styrke er nødvendig, saaledes
+navnlig til Hængebroer, men ogsaa til
+Ophejsningsapparater, naar man vil sikre sig mod
+Opsnoning. Diameteren ligger gerne mellem 20
+og 45 mm, og Traadene har en Styrke af 5600
+Atm., men ved Brokabler har man været oppe
+paa en Diameter af 132 mm og benyttet
+Digelstaaltraad af indtil 20000 Atm. Styrke. I
+Amerika fremstilles Tove til Hængebroer ved at
+omvikle et Bundt parallelle Traade med tynd
+Traad; der bruges 4—6,5 mm tykke
+Digelstaaltraade med Trækstyrke c. 12000 Atm. og
+Brudforlængelse 4 %, og den tilladelige
+Paavirkning sættes til 3000—3500 Atm. Kraften lader
+sig imidlertid vanskeligt fordele ensformig over
+et saadant Tov, hvis Traade ikke er snoede.
+
+J. benævnes ofte efter deres Omfang i eng.
+Tommer. Et Tov som Fig. 2 ell. 3 kan faas
+med mange forsk. Diametre, idet man lader
+Traadens Diameter variere paa samme Maade
+som Tovets. Ved Undersøgelse af J. prøves de
+enkelte Traade (se <sp>Traadprøvning</sp>), og
+desuden prøves hele Tovets Trækstyrke; i
+Kataloger over J. opgives denne som Summen af
+de enkelte Traades Brudstyrke, i Virkeligheden
+er den c. 9 % ringere.
+<i>E. Su.</i>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+</chapter>
+
+<chapter name="Jerntræ">
+<b>Jerntræ</b> er en Fællesbetegnelse for en
+Mængde forsk. oversøiske Træsorter, der udmærker
+sig ved stor Haardhed. Som Stamplanter kan
+nævnes forsk. Arter <i>Casuarina</i>, <i>Sideroxylon</i>,
+<i>Eucalyptus</i>, <i>Metrosideros</i>, <i>Maba</i>, <i>Messua</i>,
+<i>Toddalia</i>, <i>Argania</i>, <i>Colubrina</i>, <i>Ægiphila</i>, <i>Ixora</i>,
+<i>Fagara</i>, <i>Coccoloba</i>, <i>Carpinus</i>, <i>Cliftonia</i>, <i>Hypelata</i>,
+<i>Reynosia</i>, <i>Condalia</i>, <i>Notelæa</i>.
+<i>K. M.</i>
+</chapter>
+
+<chapter name="Jerntveilte">
+<b>Jerntveilte,</b> <sp>Jernoxyd</sp>,
+<sp>Jernsesquioxyd</sp>, <sp>Ferrioxyd</sp>, Fe<sub>2</sub>O<sub>3</sub>, findes i Naturen
+som <sp>Jernglans</sp> og <sp>Rødjernsten</sp> samt
+som Bestanddel af mange Mineraler og
+Bjergarter. J. fremstilles ved Glødning af
+Jerntveiltehydrat (Ferrihydroxyd) ell. af Jernvitriol; den
+sidstnævnte Forbindelse giver ved Glødning
+rygende Svovlsyre; J. vindes da som Biprodukt
+ved Fremstillingen af denne Syre og kommer i
+Handelen under forsk. Navne (Todtenkopf,
+Dodenkop, <i>Caput mortuum</i>, Colchotar). J. har
+forsk. Farve, alt efter som det er fremstillet paa
+den ene ell. den anden Maade; det kan være
+rødt, brunt, brunviolet ell. næsten sort; man
+har det saavel krystallinsk som amorft. Det er
+uopløseligt i Vand, men kan opløses i Saltsyre;
+dog gaar dette vanskelig, naar J. har været
+stærkt glødet. Ophedes det til høje
+Temperaturer, bliver det til Jernmellemilte, og ved 3000°
+kan det fordampe i ringe Mængde. — Ved
+Glødning i Brint ell. med Kul giver det metallisk
+Jern. Det bruges til Slibning og Polering af
+Glas og Metal, til Porcelænsfarve, Farvning af
+Glas og Malerfarve (<sp>Engelsk Rødt</sp>,
+<sp>Jernrødt</sp>, <sp>Berlinerrødt</sp>). I tidligere Tid var

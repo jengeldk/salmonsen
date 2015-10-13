@@ -1,0 +1,152 @@
+Togene kører i Stationsafstand. Men den
+stigende Trafik gjorde det nødvendigt at anvende
+Mellemposter paa Linien, saaledes at
+Stationsintervallerne deltes i mindre Liniestykker, og
+Togene derfor kunde følge tættere paa
+hinanden. Og Spørgsmaalet blev da, hvorledes
+man skulde tilrettelægge Tjenesten paa disse
+Poster. Deres Betjening stiller naturligvis
+færre Krav end Pasningen af Stationernes
+sammensatte Drifts- og Ekspeditionsforretninger,
+og derfor vil der ved denne kunne anvendes
+en ringere uddannet Arbejdskraft. Man greb
+da til den Udvej at mekanisere Betjeningen.
+Da Togenes Gang skal ledes af de stadige
+Apparatmeldinger, ligger det jo ogsaa nær at
+gøre Signalernes Indstilling afhængig af
+Apparaterne. Og hertil kræves kun et Blokapparat,
+der spærrer det tilhørende Signal i
+Stop-Stillingen, naar Sporet er besat. Saadanne Anlæg
+er nu overordentlig udbredte paa de tyske
+Linier, og ved B. forstaar man i Tyskland
+almindeligvis den paa Anvendelsen af
+signalspærrende Blokapparater grundede
+Driftsordning. — De tyske Blokapparater kan i
+Hovedsagen betegnes som elektro-magnetiske
+Spærrer, forbundne med et Tableauapparat. Naar
+et Tog har passeret en Post — der
+almindeligvis benævnes Blokpost — sætter denne sit
+Signal paa Stop og »blokerer« det straks i
+Stopstillingen. Det vil sige, den betjener
+Spærret ved at nedtrykke en til vedk. Signal
+svarende Blokknap og dreje et Induktorsving
+rundt. Ved Blokknappen trykkes en Blokstang
+i mekanisk Indgriben med Signalhaandtaget og
+fastholder dette i Stillingen — hvad der kun
+kan ske, naar Signalet staar paa Stop. Og
+Strømmen fra Induktoren omstiller et elektrisk
+Spærre, der holder Blokstangen nede, naar
+Trykknappen atter slippes. Signalet staar da
+bundet og kan ikke sættes paa »Kør«. Naar
+den flg. Post er passeret, blokerer denne sit
+Signal, og Strømmen fra den paagældende
+Induktor løber da tilbage i Linien og paavirker
+Spærret paa den foreg. Derved stilles dette
+tilbage i sin opr. Stilling, Blokstangen springer
+tilbage, og Signalet er atter frit.
+Signalspærringen flyttes saaledes fremefter fra Post til
+Post bag ved det løbende Tog. Og dette er
+stadig dækket i Ryggen af et Signal, der er
+bundet i Stillingen »Stop«. Undlader en Post
+at blokere sig, er Følgen blot, at den foreg.
+Post ikke bliver løst, og Dækningen holder da
+her. Det tyske Blokapparat er i sin moderne
+Form en meget sammensat Indretning, idet
+sindrige Sikringer er tilbyggede for at
+frembringe en rigtig Betjening. Anlæggene er opr.
+beregnede paa dobbeltsporede Linier, men
+bliver nu ogsaa udført for enkeltsporede
+Strækninger. Her skal ikke blot Togene i samme
+Retning, men ogsaa Togene i modsat Retning
+dækkes mod hinanden, og Blokanlæggene for de
+to Togretninger er derfor gjort indbyrdes
+afhængige.
+
+I Frankrig er man ligesom i Tyskland, og
+snarest tidligere end der, kommet ind paa at
+anvende signalspærrende Blokapparater, men
+den fr. Udførelse er vidt forsk. fra den tyske.
+Det ejendommeligste for Frankrig er, at man
+paa fl. Strækninger bruger den betingede
+Blokordning, idet det, som foran anført, tillades
+Tog under Iagttagelse af visse
+Forsigtighedshensyn at køre ind paa besatte Blokstykker.
+Dette er f. Eks. Tilfældet paa den fr. Nordbane.
+Her findes der ved Posterne et Tælleapparat,
+hvorved Signalpasseren kan kontrolere, hvor
+mange paa hinanden flg. Tog der er kørte
+ind paa det besatte Stykke.
+
+Naar man imidlertid vil gøre
+Signalindstillingen afhængig af Apparaterne, bliver det et
+rimeligt Spørgsmaal, om ikke
+Betjeningsmandskabet paa Mellemposterne fuldstændig kan
+undværes, ell. m. a. O. om man ikke kan
+indrette selvvirkende Blokanlæg. I Amerika, hvor
+den menneskelige Arbejdskraft anses for
+særlig kostbar, har man udformet fl. Anlæg af
+denne Art. Ved de mere fuldkomne styres
+Signalerne fra Sporet ved særlige
+Skinnestrømløb. Skinnerne er isolerede, hvert
+Strækningsstykke er en Helhed, elektrisk adskilt fra de
+tilstødende. Naar et Tog kører ind paa et
+Blokstykke, bliver der gennem dets Aksler
+dannet en Forbindelse mellem Skinnerne, og denne
+afbrydes atter, naar Toget forlader Blokstykket.
+Derved omstyres Strømløbene, og dette
+paavirker Signalerne. Toget dækkes stadig af
+Stopsignal i Ryggen. Ordningen har dog en
+Grundmangel. Staar et Signal paa »Stop«,
+betyder det almindeligvis, at den foranliggende
+Strækning er spærret. Men det kan ogsaa
+betyde, at det paagældende Signal er i Uorden.
+Paa Linier med selvvirkende Blokanlæg maa
+der da gælde den Driftsregel, at et Stopsignal
+kan passeres efter en given Tidsfrist. Paa
+disse gælder saaledes altid den <sp>betingede</sp>
+Blokordning. (<sp>Litt.</sp>: <sp>J. Falck</sp>,
+»Jernbanernes Sikringsvæsen« [»Tekn. Tidsskr.« 1914, heri
+videre Litt.-Henvisninger]).
+<i>J. F.</i>
+</chapter>
+
+<chapter name="Bloktrin">
+<b>Bloktrin</b> er et Trappetrin af massivt
+Tømmer, i Lighed med et Granittrin; de anvendes
+næsten aldrig mere, da man til moderne
+Trapper foretrækker en vandret Trinplanke og et
+lodret Stødbræt.
+<i>(E. S.). C. B-r.</i>
+</chapter>
+
+<chapter name="Bloktræ">
+<b>Bloktræ</b> kaldes runde, afkortede
+Træstammer, der kun er afkvassede, ikke yderligere
+tilhuggede. Det anvendes f. Eks. til Huggeblokke,
+Amboltstokke, Vandtrug o. l. ell. opskæres med
+Sav, særlig Bloksav (s. d.).
+<i>K. M.</i>
+</chapter>
+
+<chapter name="Blokvogn">
+<b>Blokvogn,</b> meget stærkt bygget Vogn,
+bestemt til at transportere store Byrder, f. Eks.
+Dampkedler, svære Kanoner, grov Ammunition.
+B. benyttes fortrinsvis af Artilleriet og da i to
+Hovedformer, <sp>Fæstnings-B.</sp>, som er
+bestemt til at bruges paa forholdsvis gode Veje og
+kortere Afstande, hvorfor den har lave Hjul,
+hvad der letter Paa- og Aflæsning, og
+<sp>Belejrings-B.</sp>, som for at komme frem paa
+mindre gode Veje har høje Hjul
+(Belejringslavetten).
+<i>H. H.</i>
+
+I <sp>Skoven</sp> bruges ofte B. til Flytning af
+store Kævler (Blokke), som ikke maa saves i
+Stykker paa Stedet. Undertiden bruger man
+den sædvanlige Form med 4 lave Hjul, idet
+Kævlen lægges oven paa Hjulakslerne; men
+hyppigst har B. 2 til Gengæld høje Hjul, hvis
+Aksel kan være bøjet opad; Kævlen hænger
+da i Kæder under Hjulakslen; i sidste Tilfælde

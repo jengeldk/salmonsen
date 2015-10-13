@@ -1,0 +1,136 @@
+en tilført Varmemængde helt ell. delvis gaar til
+at forøge M.'ernes Hastighed (se <sp>kinetisk
+Teori</sp>). I Vædskerne bevæger M.'erne sig
+ogsaa om mellem hverandre, men der virker
+Kræfter mellem dem, der holder dem sammen,
+saa at Afstanden mellem to Molekyler ikke
+ændres synderlig, selv naar der tilføres Varme,
+saa at Temperaturen og dermed deres
+Bevægelseshastighed og Energi vokser. I faste
+Stoffer bevæger M.'erne sig ikke kendeligt i
+Forhold til hverandre.
+
+M.'ernes relative Vægt, <sp>Molekylvægten</sp>,
+M.'ernes Vægt i Forhold til Brintatomet, idet
+dettes Masse sættes til 1,008 (se
+<sp>Molekylvægt</sp>) og Brintmolekylet altsaa til 2,016, kan
+f. Eks. findes udfra <sp>Avogadro's Lov</sp> (s. d.),
+om at lige store Rumfang af de forsk.
+Luftarter ved samme Temperatur og Tryk
+indeholder lige mange M. Saaledes vil 1
+Grammolekyl Brint, d. v. s. 2,016 g Brint, 1 Grammolekyl
+Ilt, d. v. s. 32 g Ilt, 1 Grammolekyl Kuldioxyd,
+d. v. s. 44,005 g Kuldioxyd alle ved 0° og 760
+mm's Tryk fylde Molekylarrumfanget
+(<sp>Molekylvoluminet</sp>), det saakaldte
+Normalrumfang, 22,4 l og indeholde lige mange M.
+
+En Bestemmelse af, hvor mange M. der er i
+et Grammolekyle, kan faas ud fra den
+kinetiske Teori. Man kan her beregne, at den
+translatoriske Energi et Luftmolekyle har ved
+en given Temperatur er <i>E</i> = 1/2 <i>m</i> <i>v</i><sup>2</sup> = 3<i>RT</i>/2<i>N</i>;
+hvor <i>E</i> er Energien, <i>m</i>, M.'s absolutte Vægt; <i>v</i>
+M.'s Middelhastighed, <i>R</i> er Gaskonstanten for
+et Grammolekyle, <i>T</i> den absolute Temperatur
+og <i>N</i> Antallet af M. i et Grammolekyle den
+saakaldte <sp>Avogadros Konstant</sp>. Man
+ser af Ligningen, at Energien er den samme for
+alle Slags M. ved samme Temperatur, det
+gælder ikke alene i Luftarter, men ogsaa i
+Vædsker. Dette har <sp>Perrin</sp> anvendt til
+Bestemmelse af <i>N</i>, idet han drog den Slutning, at
+Sætningen ogsaa maatte gælde for en kolloid
+Opløsning (se <sp>Diffusion</sp>), saaledes at den
+translatoriske Energi de kolloide Partikler har,
+og som giver sig Udslag i de Brown'ske
+Bevægelser, er den samme som
+Vædskemolekylernes, og den samme som en Luftarts ved samme
+Temperatur. Energien maatte derfor være
+udtrykt ved samme Ligning som ovenfor, idet <i>m</i>
+er de kolloide Partiklers Masse; denne kan
+forholdsvis let bestemmes eksperimentelt, idet det
+ved Centrifugering er muligt at skaffe sig
+Partikler af samme Størrelse; maales saa deres
+Vægtfylde, faas Massen af Vægtfylde = Vægt/Rumfang;
+dersom nu <i>v</i>, der er Partiklernes Hastighed,
+maales, kan <i>N</i> altsaa beregnes; men <i>v</i> kan
+ikke maales direkte, idet Partikelbevægelserne
+er alt for sammensatte. Perrin gik derfor en
+noget anden Vej, der dog beror paa samme
+Princip, idet han undersøgte og talte de
+kolloide Partiklers Fordeling i Vædskens forsk.
+Lag. Molekylbevægelserne vil søge at sprede de
+kolloide Partiker ensartet i alle Vædskelag,
+mens Tyngdekraften vil søge at trække
+Partiklerne til Bunds. Der vil derved, naar Tilstanden
+er blevet stationær, optræde den samme
+Fordeling af de kolloide Partikler som af M.'erne
+i en Luftsøjle, men Højden af Kolloidopløsningen
+er mange Gange mindre end den dertil
+svarende Luftsøjle, fordi de kolloide Partiklers
+Masse er mange Gange større end Luftmolekylernes
+Masse, saaledes at Tyngden vil trække
+meget stærkere ned. Er nu Antallet af Partikler
+i to Lag med Afstanden <i>h</i>, i det nederste <i>n</i>
+og i det øverste <i>n'</i> kan man vise, at
+<i>n'</i>/<i>n</i> = 1 ÷ <i>Nmgh</i>/<i>RT</i> (1 — <i>D</i>/<i>d</i>),
+hvor <i>N</i>, <i>som før</i> er Avogadro's Konstant, <i>m</i> Massen
+af de enkelte Partikler, <i>g</i> Tyngdens
+Acceleration, <i>D</i> Partiklernes Vægtfylde, <i>d</i> Vædskens
+Vægtfylde, <i>R</i> Gaskonstanten og <i>T</i> den absolutte
+Temperatur; heraf kan <i>N</i> beregnes, idet <i>n'</i> og
+<i>n</i> bestemmes direkte ved Tælning i et
+Mikroskop, og <i>m</i> bestemmes som tidligere nævnt. Der
+faas for <i>N</i> Værdier omkr. 6 · 10<sup>23</sup>. Perrin har
+ved sine Arbejder leveret et direkte Bevis for
+M.'s Eksistens og for den kinetiske Teoris
+Gyldighed. Dette har som nævnt sin store
+Bet.; idet Termodynamikkens stærke Udvikling
+havde bragt <sp>Varmeteoriens anden
+Hovedsætning</sp>, <sp>Entropiloven</sp> (se
+<sp>Entropi</sp>) stærkt frem i Forgrunden, og det viste
+sig, at anvendte man den paa et enkelt M.,
+hvis Bevægelse man kunde forklare ud fra den
+kinetiske Teori, saa svigtede Entropiloven;
+og nu troede man paa Entropiloven og var
+derfor tilbøjelig til at lade den kinetiske Teori
+falde. Imidlertid er det let at indse, hvorfor
+Entropiloven svigter i et saadant Tilfælde,
+anvendt paa et enkelt M. Man tænker sig en
+Partikel udføre Brown'ske Bevægelser, Tyngden vil
+søge at faa Partiklen til at falde, men ved Stød
+af Vædskemolekylerne kan den pludselig stige.
+Vædskemolekylerne mister derved Energi, d. v.
+s. deres Hastighed bliver mindre, det vil igen
+sige at de afkøles. Der vil altsaa blive taget
+Varme fra et Legeme, der har Omgivelsernes
+Temperatur, og denne Varme omdannes til
+mekanisk Arbejde. Men dette strider mod
+Entropiloven. — Betragter man imidlertid ikke et
+enkelt Partikel, men en stor Mængde Partikler,
+vil der være et eller andet Antal, der forholder
+sig somt den førstnævnte Partikel, men der vil
+være lige saa mange, der tilfører Varme til
+Vædsken, idet de p. Gr. a. de Brown'ske
+Bevægelser falder med større Hastighed end den.
+Tyngden giver dem. Taget som et Hele vil
+Vædskens Temperatur hverken forøges ell.
+formindskes, og Entropiloven gælder derfor for
+Systemet som Helhed. Endvidere gælder den
+ogsaa for den enkelte Partikel, naar den følges
+gennem lang Tid, idet den snart vil stødes op,
+snart ned, saaledes at den Varme den faar fra
+Vædsken alt i alt bliver Nul. Dette viser altsaa,
+at Entropiloven er en Sandsynlighedsov, der
+gælder for et stort Antal M., men ikke gælder
+for de enkelte Elementarprocesser imellem M.
+Men nu vil f. Eks. 1 cm<sup>3</sup> Luft, selv naar den er
+fortyndet saa stærkt, man overhovedet kan, saa
+Trykket er c. 10<sup>—5</sup> mm Kvægsølv, indeholde c.
+10<sup>11</sup> M., saaledes at Antallet altid er mere end
+nok til, at Entropiloven gælder med saa stor
+Sandsynlighed, at den bliver eksakt.
+
+En anden Metode til Bestemmelse af
+ovenomtalte <i>N</i> har man ud fra Bestemmelse af det

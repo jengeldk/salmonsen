@@ -1,0 +1,136 @@
+en vis Sammenhæng mellem i hvert Fald
+Vestens R. f. og den apostoliske Trosbekendelse i
+dennes gammelromerske Form. Om R. f. har
+været anvendt ved Daaben som
+Daabsbekendelse, er ogsaa et Spørgsmaal, men det er vel
+nok det sandsynligste. Grundene til Dannelsen
+af R. f. er letforstaaelige. Man har villet give
+de Enfoldige en kort og jævn Betegnelse af,
+hvad Kristendom var, og man har villet
+præcisere Kirkens Hovedlærdomme over for
+kætterske Anskuelser. Men netop derfor kan
+Formuleringen have været noget forsk. til forsk.
+Tid og paa forsk. Sted. (<sp>Litt</sp>.: I »Bibliothek d.
+Symbole und Glaubensregeln der alten Kirche«
+[Breslau 1897] har <sp>Hahn</sp> og <sp>Harnack</sp>
+givet en Materialsamling, omfattende alle
+Kirkelærernes Udtalelser; <sp>J. Kunze</sp>,
+»Glaubensregel, Heilige Schrift und Taufbekenntniss«
+[Leipzig 1899]; <sp>F. Kattenbusch</sp>, »Lehrbuch
+der vergleichenden Konfessionskunde« I
+[Tübingen 1892]; <sp>Samme</sp>, »Das apostolische
+Symbol«, I—II [Leipzig 1894 og 1900]; S. A. Becker,
+»Regula veritatis« [1910]).
+<i>A. Th. J.</i>
+</chapter>
+
+<chapter name="Regula multiplex">
+<b>Regula multiplex</b> (lat.) = sammensat Regula
+de tri.
+</chapter>
+
+<chapter name="Regula Ptolemaica">
+<b>Regula Ptolemaica,</b> se <sp>Triquetrum</sp>.
+</chapter>
+
+<chapter name="Regularitet">
+<b>Regularitet</b> (lat.), Regelmæssighed.
+</chapter>
+
+<chapter name="Regulativ">
+<b>Regulativ</b> (lat.), Reglement, Forskrift.
+Anordning: Rettesnor.
+</chapter>
+
+<chapter name="Regulator">
+<b>Regulator</b> (lat.) er en fælles Benævnelse
+for saadanne mek. Indretninger, der tjener til
+at holde Bevægelsen af en Maskine, et Urværk
+e. l. jævn. Til R. kan regnes Vindfang,
+Svinghjul, Bremser, Modvægte, ved Ure tillige
+Pendulet og Uroen; i øvrigt anvendes Navnet paa
+en Slags særlig nøjagtig gaaende Ure og
+enkelte andre Ting. Ved Lokomotiver kaldes en
+Glider, der er anbragt i Damprøret, for R. (se
+næste Artikel).
+
+Særlig ved Kraftmaskinerne spiller R. en stor
+Rolle, idet den automatisk skal forhindre
+saavel, at Maskinen løber løbsk, naar
+Belastningen formindskes, som at den gaar i Staa, naar
+Belastningen forøges. Den løser denne Opgave
+og den endnu videre gaaende, at holde
+Omdrejningshastigheden saa nær som muligt
+konstant, ved at give det Stof, hvorved Maskinen
+drives (Damp, Vand, Gas o. s. v.), Adgang til
+Maskinen i en efter Modstanden stadig afpasset
+Mængde.
+
+Af de til Kraftmaskinerne anvendte R. maa i
+første Række nævnes
+<sp>Centrifugalregulatorerne</sp>. En saadan bestaar af en, oftest
+lodret, Aksel, til hvilken er befæstet to ell. fl.
+Arme, der undertiden er fjedrende, og som
+hver bærer et, hyppigst kugledannet, Lod; naar
+Akslen sættes i omdrejende Bevægelse, vil disse
+Lodder svinge ud fra Akslen, mere ell. mindre
+efter Omdrejningshastigheden, og de vil ved
+deres Bevægelse bevirke, at et med dem eller
+med Armene forbundet Hylster, der omslutter
+Akslen, glider paa denne. Fra Hylstret
+bevæges atter en Maskindel, der ved sin Stilling
+bestemmer Dampens (Gassens, Vandets o. s. v.)
+Adgang til Maskinen. En navnlig tidligere
+meget anvendt R. af denne Art, opfundet af James
+Watt og opkaldt efter ham, er afbildet og
+beskrevet under <sp>Dampmaskine</sp>. R. virker
+her paa et Spjæld (Drøvelklap) i Damprøret,
+men i økonomisk Henseende er det bedre at
+lade den virke paa Ekspansionsglideren,
+hvorved man faar den »automatisk variable
+Ekspansion«. For at opnaa større Nøjagtighed i
+Reguleringen og for at give R. større Evne til
+at overvinde Friktions- og andre Modstande i
+de af den paavirkede Styringsdele er der
+efterhaanden fremkommet en meget stor
+Mængde forsk. Konstruktioner af
+Centrifugalregulatorer. De fleste af disse har ligesom Watt's
+Lodder, der bevæger sig i en gennem Akslens
+Midtlinie gaaende Plan, saaledes Kley's,
+Porter's, Proell's, Buss', Cosinus-R. m. fl., men der
+findes ogsaa, og anvendes hyppig ved
+hurtiggaaende Dampmaskiner R., hvis Lodder
+bevæger sig i en paa Akslen vinkelret Plan; disse
+kaldes <sp>Aksel</sp>- eller
+<sp>Svinghjulsregulatorer</sp>, og deres Aksel er i Reglen
+vandret. Fig. 1 viser en saadan R., anbragt paa en
+Dampmaskines Krumtapaksel. Lodderne <i>s</i> er
+anbragte paa Arme, bevægelige om Tappe, der
+sidder paa Svinghjulets ell. en Remskives
+Arme, og Lodderne holdes ved Fjedrene <i>b</i> ind
+imod Krumtapakslen. Stængerne <i>c</i> er
+forbundne saavel med Loddernes Arme som med
+Ekscentrikken <i>d</i>; denne kan dreje sig paa
+Krumtapakslen, og det ses, at dens Stilling og
+dermed den anvendte Fyldningsgrad vil afhænge
+af Loddernes Udsving, hvilket atter varierer
+med. Omdrejningshastigheden. Formindskes
+Belastningen paa Maskinen, vil
+Omdrejningshastigheden vokse, Lodderne bevæge sig udefter og
+Ekscentrikken drejes, saa at Fyldningsgraden
+formindskes; omvendt, hvis Belastningen
+forøges.
+
+R. som de her omtalte kaldes <sp>direkte
+virkende</sp>. Undertiden er den Modstand, der
+skal overvindes for at variere Tilførslen af det
+drivende Stof, for stor til, at R. selv kan
+præstere den hertil fornødne Energi, f. Eks. ved
+Bevægelsen af et Stigbord for et Vandhjul; man
+lader da R. ved største og mindste tilladelige
+Hastighed sætte en Hjælpekraft i Gang, og
+denne Hjælpekrart udfører da Bevægelsen af
+Stigbordet. Ved Dampmaskiner benyttes
+undertiden R. med Dampenergi, ɔ: R. aabner
+
+<img>Fig 1.</img>

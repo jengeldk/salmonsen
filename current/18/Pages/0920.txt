@@ -1,0 +1,177 @@
+af Elementerne, men Batteriets indre Modstand
+er kun 1/<i>n</i> af den indre Modstand i et enkelt
+Element, saaledes at Batteriet kan sende langt
+stærkere Strømme gennem smaa ydre
+Modstande, end et enkelt Element kan gøre. Er den
+ydre Modstand stor i Sammenligning med
+Elementets indre Modstand, vil man derimod faa
+stærkest Strøm ved at benytte Rækkeforbindelse
+af Elementer (jfr <sp>galvanisk Balleri</sp>). —
+Modstandene i et elektrisk Kredsløh er
+forbundne parallelt, naar Strømmen fra
+Elektricitetskilden maa dele sig mellem de forsk.
+Modstande for efter Gennemgang gennem
+Forgreningen atter at blive samlet til en enkelt Strøm.
+I Forgreningen vil Strømmen være stærkest i
+de Grene, hvor Modstanden er mindst, og den
+samlede Modstand <i>R</i> i en P. af
+Enkeltmodstandene <i>r<sub>1</sub></i> <i>r<sub>2</sub></i> . . . bestemmes ved 1/<i>R</i> = 1/<i>r<sub>1</sub></i> + 1/<i>r<sub>2</sub></i>
++ ... — Ogsaa forskelligartede elektriske
+Apparater siges at være parallelle, naar den
+elektriske Strøm maa dele sig i flere Dele, hvoraf
+hver Del løber gennem sit Apparat; i en
+elektrisk Svingningskreds er saaledes en
+Kondensator og en Selvinduktionsrulle arrangerede
+parallelt.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Parallelforskydning">
+<b>Parallelforskydning</b> (mat.). Hvis man ud
+fra en Figurs Punkter trækker lige lange og
+parallelle Liniestykker til samme Side, vil de
+Punkter, som man derved kommer til, danne
+en med den givne kongruent Figur, som siges
+at være fremgaaet af den givne ved en P., hvis
+Størrelse og Retning er angiven ved et af de
+nævnte Liniestykker.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Parallelisme">
+<b>Parallelisme</b> (gr.), Jævnstillen af forskellige
+Steder i en Bog (Bibelsteder), der forklarer
+hinanden (Parallelsteder); Lighed i Forhold og
+Egenskaber (smlg. næste Art).
+</chapter>
+
+<chapter name="Parallelisme">
+<b>Parallelisme</b> (gr.), i Poesien et poetisk
+Virkemiddel, der er beslægtet med Gentagelsen
+og bestaar i, at en Tanke ell. et Vers følges af
+en anden ell. andet, der udsiger det samme,
+men paa en lidt anden Maade, med andre Ord,
+i et Billede ell. antitetisk. Saaledes forstærker
+man ligesom dvælende den første Tanke. »Det
+vilde Bryst maa saares, mens det saarer — Den
+kække Ørn maa over Fjeldet gaa« (C. Bagger).
+Særlig benyttet er P., der ogsaa træffes i
+Folkevisen, i den hebraiske Poesi. Verset er da
+bygget saaledes, at det indeholder een Tanke og
+falder i to i rytmisk Ligemaal satte Led, der
+svarer saaledes til hinanden i Form og Indhold,
+at det andet gentager det første i synonyme ell.
+antitetiske Udtryk. Eks.: Dommernes Bog 14,
+14 »Fra Æderen gik Spise ud; Sødme kom fra
+den stærke«. Ordsprogene: »Mat Sjæl træder
+paa Honningkage; men alt bittert er sødt for
+en hungrig Sjæl«.
+<i>Cl. W.</i>
+</chapter>
+
+<chapter name="Parallelkæder">
+<b>Parallelkæder,</b> Bjergkæder, der er opstaaet
+ved Foldning, danner i Reglen flere parallelle
+Kæder. Ofte er den ene udpræget som
+Hovedkæde, de andre som P. til denne. I andre
+Tilfælde er de alle P. i Forhold til hverandre.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="parallelle Kræfter">
+<b>parallelle Kræfter,</b> se <sp>Kræfters
+Sammensætning</sp>, <sp>Tyngdepunkt</sp> og
+<sp>Vægtstang</sp>,
+</chapter>
+
+<chapter name="parallelle Kurver og Flader">
+<b>parallelle Kurver og Flader</b> (mat.).
+Afsættes hen ad enhver Normal til en given plan
+Kurve fra Normalens Fodpunkt <i>P</i> paa Kurven
+et givet Stykke <i>r</i> til begge Sider, vil de
+Punkter <i>A</i> og <i>B</i>, som man derved kommer til, til
+geometrisk Sted have en Kurve. der siges at
+være <sp>parallel</sp> med den givne. Den parallelle
+Kurve kan ogsaa fremkomme som
+Indhyllingskurve (s. d.) for en Cirkel med Radius <i>r</i>, hvis.
+Centrum glider paa den givne Kurve. En
+Cirkels parallelle Kurve bestaar altsaa af to
+Cirkler, koncentriske med den. Den parallelle
+Kurves Tangenter i <i>A</i> og <i>B</i> er parallelle med den
+givne Kurves Tangent i <i>P</i>; de to Kurver har
+altsaa samme Normaler, samme Evolut, samme
+Krumningscentrer. Paa lign. Maade kan man
+konstruere en parallel Flade til en given Flade
+ved at afsætte et konstant Stykke hen ad
+Normalerne, ell. man kan danne den som
+Indhyllingsflade for en Kugle med konstant Radius,
+hvis Centrum glider paa den givne Flade;
+Tangentplanerne i til hinanden svarende Punkter
+bliver parallelle.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Paralleller">
+<b>Paralleller</b> er Skytte- eller Færdselsgrave,
+der løber parallelt med Stillingen; brugtes i
+tidligere Tid særlig som Betegnelse for de Grave,
+der af Angriberen anlagdes paa Angrebsfronten
+af en belejret Fæstning, efterhaanden som
+Angriberen rykkede ind paa denne, og hvorfra
+<sp>Approcherne</sp>, d. v. s.
+Fremrykningsgravene, udgik. Man skelnede mellem 1., 2., 3. o. s.
+v. Parallel, mellem hvilke der atter kunde
+findes <sp>Halvparalleller</sp> (se
+<sp>Fæstningskrig</sp> II).
+<i>Sch. P.</i>
+</chapter>
+
+<chapter name="Parallellineal">
+<b>Parallellineal</b> (Søv.), En Lineal, der kan
+forskydes parallelt med sig selv. Den anvendes
+meget i Navigationen til Opmaaling og
+Afsætning af Retninger i Søkortene i Forbindelse
+med de i Kortene trykte Kompasroser ell. en
+Transportør (s. d.). Undertiden er P. forsynet
+med Kompasinddeling, hvorved Transportøren
+kan undværes.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Parallelogram">
+<b>Parallelogram</b> (mat.) kaldes en Firkant,
+hvori hvert Par modstaaende Sider er parallelle.
+I et P. er modstaaende Sider lige store, ligesaa
+modstaaende Vinkler; der er to Diagonaler, som
+halverer hinanden. To modstaaende Siders
+Afstand kaldes <sp>Højde</sp> i P., svarende til en af de
+modstaaende Sider som <sp>Grundlinie</sp>.
+Antallet af Kvadratmeter i et P. er Produktet af
+Antallene af Meter i en Højde og i den tilsvarende
+Grundlinie. Særlige Former for P. er Rektangel,
+Rombe, Kvadrat (s. d.).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Parallelogram, Kræfternes">
+<b>Parallelogram, Kræfternes,</b> se
+<sp>Kræfters Sammensætning</sp>.
+</chapter>
+
+<chapter name="Parallelskruestik">
+<b>Parallelskruestik,</b> se <sp>Skruestik</sp>.
+</chapter>
+
+<chapter name="Parallelsteder">
+<b>Parallelsteder</b> kaldes i det teologiske Sprog
+Sætninger ell. Sætningskomplekser fra de bib.
+Skr (enten fra forsk. ell. fra det samme Skr.),
+som m. H. t. Tanken ell. enkelte Ord er
+parallelle, ensartede. Eksempler fra det Ny Test.:
+Joh. 1, 18; 3, 16; 1. Joh. 4, 9 er P. m. H. t.
+Udtrykket »den Enbaarne« om Kristus. Ef. 3. 8;
+3. Joh. 4 er P. m. H. t. dobbelt Komparation af
+et gr. Adj. Rom. 5, 19; Fil. 2, 8; Hebr. 5, 8 er
+P. m. H. t. Kristi Lydighed mod Gud. Navnlig,
+de synoptiske Evangelier indeholder talrige P.;
+ja lange parallelle Stykker. Vor autoriserede

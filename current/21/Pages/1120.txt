@@ -1,0 +1,112 @@
+Flintglas med stor Dispersion, og i Kikkerten <i>F</i>
+danner nu hver Farve sit Spaltebillede, der
+tilsammen udgør Spektret. I Fig. 2 er vist
+Straalegangen for to Farvestraaler, den mere
+brydbare er optrukket, den mindre brydbare
+punkteret. Spektret iagttages gennem Kikkertens
+Okular, hvor der kan være anbragt Traadkors
+som vist i Fig. 2. Spaltebredden kan i Reglen
+varieres ved en Skrue; den afpasses efter
+Liniernes Styrke og Tæthed. Vil man sammenligne
+to Spektre, kan de frembringes samtidig i
+Spektroskopet ved foran Spalten at anbringe et lille
+retvinklet Glasprisme <i>p</i>, der kun dækker
+Spaltens halve Højde. Den anden Lyskilde <i>Q'</i>
+anbringes da til Siden, saa at Lyset fra den ved
+Totalrefleksion fra Prismets Hypotenuseflade
+sendes ind gennem f. Eks. Spaltens øverste
+Halvdel; det giver da et Spektrum under
+Spektret fra <i>Q</i>, da Billederne af Spalten er
+omvendte. Hvis der er en Lysart fælles for de to
+Spektre, vil de to tilsvarende Spektrallinier
+ligge i hinandens Forlængelse. Oftest er
+Spektroskopet tillige udstyret med Skala, for at man
+kan angive Spektralliniernes Plads. Skalaen
+<i>sk</i>, der er ridset i en forsølvet Glasplade, saa
+at kun Streger og Tal er gennemsigtige, er
+anbragt i Brændplanen for Linsen <i>L'</i> i
+Skalarøret <i>R</i>. Bag <i>sk</i> stilles en Lyskilde. Lyset fra
+hver Streg i Skalaen bliver af <i>L'</i> gjort til et
+Parallelbundt, der delvis reflekteres fra
+Prismets Forflade (uden Brydning) ind i Kikkerten,
+som danner et Billede af Skalaen bestaaende af
+lysende Linier og Tal paa Spektrets Plads.
+Skalaen kan forskydes lidt tværs paa Røret,
+saa at en bestemt Spektrallinie kan bringes til
+at falde paa en vedtagen Streg; alle andre
+Spektrallinier falder da ogsaa altid paa de
+samme Steder af Maalestokken, saa at man herved
+faar en entydig Angivelse af Linierne. Men den
+gælder kun for dette bestemte Apparat. Hvis
+man skal kunne sammenligne Resultater fra
+forsk. Spektroskoper, maa man i St f. at
+angive Liniernes Plads paa en vilkaarlig Skala
+angive Bølgebredden for det Lys, som udgør
+Linien. Bølgebreddeh bestemmes ved Gittere, som
+omtales nedfr. Spektroskopets Maalestoks
+Angivelser justeres i Bølgebredde ved at aflæse et
+tilstrækkeligt Antal kendte Liniers Plads, og
+Sammenhængen mellem Skalaaflæsning og
+Bølgebredde fremstilles derefter grafisk.
+
+Spektroskopet i Fig. 3 bestaar af en Trefod,
+der bærer et Bord til Prismet og Arme til
+Kikkert (til venstre), Kollimator (foran til højre)
+og Skalarør (ud mod Læseren). En Lyskilde,
+der skal undersøges, staar ud for Spalten, og
+et Lys belyser Skalaen. I alle bedre Apparater
+er Spektrets Udstrækning for stor til at kunne
+overses paa een Gang; Kikkerten er da drejelig
+om Instrumentets lodrette Akse. I Reglen er
+Prismet dækket af en Hætte, der holder
+fremmed Lys borte.
+
+Nær beslægtet med Spektroskopet er
+<sp>Spektrometret</sp>, der er indrettet til
+Vinkelmaalinger. Det er forsynet med en vandret inddelt
+Cirkelring med Centrum i Apparatets Akse.
+Baade Kikkert og Bord er frit drejelige og
+forsynede med Indeks og Midler til Aflæsning af
+Drejningen (Nonius og Lupe, paa finere
+Spektrometre Aflæsemikroskop). Skalarøret
+mangler. Ved Kikkertens Indeks kan Vinklen mellem
+Kollimatorens og Kikkertens Akser bestemmes
+nøjagtigt, og derved kan en Spektrallinies
+Beliggenhed findes. Bordets Indeks gør det tillige
+til et <sp>Goniometer</sp> til Maaling af
+Prismevinkler, Krystalvinkler o. l. Det kan derfor
+ogsaa bruges til Bestemmelse af et Stofs
+Brydningsforhold. I St f. Prisme kan bruges Gitter.
+
+I det ovf. beskrevne Spektroskop anvendes
+undertiden et <sp>ligesigtende</sp> Prisme (<i>P. à
+vision directe</i>), en Kombination af afvekslende
+Kron- og Flintglasprismer med de brydende
+Kanter til modsat Side. De to Glassorters
+meget forsk. Dispersion (smlg. ogsaa
+<sp>Akromatisme</sp>) bevirker, at man paa denne Maade
+kan lave et Prisme, som giver Farvespredning,
+men saaledes at en Farve midt i Spektret ikke
+afbøjes. Man undgaar derved den knækkede
+Konstruktion, saa at man gennem Kikkerten
+sigter direkte mod Lyskilden. Et saadant
+ligesigtende Prisme ses i Fig. 4 (<i>FlCr</i>), der viser et
+lille saakaldt Lommespektroskop. Spalten er
+anbragt ved <i>s</i>. Man ser mod Lyskilden gennem
+Aabningen ved <i>g</i> til højre i Røret <i>r</i>, der
+indeholder Prismerne og en Linse, og som kan
+forskydes, til Spalten ses skarpt. Begge Ender
+er lukkede med Glasplader <i>g</i> for at beskytte
+Spalte og Prisme mod Støv.
+
+Efter det i Fig. 2 viste Princip er de
+allerfleste Spektroskoper konstruerede, om end med
+mange Afvigelser i Enkeltheder. I S.'s første
+Tid konstrueredes store Spektroskoper med
+mange Prismer for at faa stærk Spredning og
+ofte med sindrige Mekanismer for at holde alle
+Prismerne i Hovedstilling, naar Kikkerten
+
+<img>Fig. 3. Spektroskop.</img>
+
+<img>Fig. 4. Lommespektroskop.</img>

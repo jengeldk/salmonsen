@@ -1,0 +1,129 @@
+paa Pladen, ved at man forlænger
+Eksponeringstiden, saa at Undersøgelsen af Spektret
+bliver fuldstændigere. Men Hovedsagen er, at
+derved udstrækkes det tilgængelige Omraade af
+Spektret i meget betydelig Grad. Den Del af
+Spektret, der kan undersøges direkte med Øjet,
+det synlige Spektrum, omfatter Bølgebredder
+mellem c. 0,00076 mm for det yderste røde og c.
+0,0004 mm for det yderste violette (henh. c.
+7600 og c. 4000 <sp>Ångstrøm Enheder</sp>, den
+alm. spektroskopiske Længdeenhed, en
+Hundredmilliontedel cm). Ganske vist kan man
+under gunstige Omstændigheder se noget
+kortere Bølgebredder, men det er uden Bet. for
+Undersøgelserne. Fot. tilgængeligt er foruden
+det synlige hele det ultraviolette Omraade af
+Spektret under 4000 Å; f. T. er man naaet ned
+til Lysbølgebredder paa c. 130 Å. For at gøre
+det gule og røde fot. virksomt maa Pladerne
+sensibiliseres (se <sp>Farvefotografi</sp>), og ved
+særlige Sensibilisatorer er det ogsaa lykkedes
+at fotografere en Del af det ultrarøde Omraade
+til omtr. 10000 Å (0,001 mm). Overalt hvor
+Fotografering kan anvendes, foretrækkes den,
+men i det ultraviolette Omraade er den omtr.
+eneraadende. Ganske vist kan man benytte de
+ultraviolette Straalers Evne til at fremkalde
+Fluorescens og lade Spektret falde paa en
+fluorescerende Skærm, f. Eks. en
+Uranglasplade; man ser da Spektret ved det udsendte
+Fluorescenslys. Men det er lyssvagt og egner
+sig kun til orienterende Undersøgelser,
+Indstillinger o. l.
+
+Da Glas er uigennemstraaleligt for
+ultraviolet Lys med kortere Bølgebredder end c. 3600
+Å, kan Spektrografer til ultraviolet Lys ikke
+have Prisme og Linser af Glas. Visse
+Glassorter (Uviolglas) gaar dog til c. 3000 Å.
+Derunder bruges især Kvarts, der er
+gennemstraaleligt til c. 1800 Å og har stor
+Dispersion i ultraviolet. Men af eet Stof kan
+ikke laves akromatiske Linser, saa at man
+maa tage Ændringen af Linsens Brændvidde
+med Bølgebredden med i Købet og stille
+Pladen skraat, eventuelt ogsaa krumme den. Paa
+denne Maade er det lykkedes at konstruere
+Spektrografer, der fotograferer det ultraviolette
+og synlige Spektrum skarpt fra c. 2000 til c.
+7500 Å paa een Plade med betydelig
+Dispersion. Men alle Indstillinger for at finde den
+Stilling af Prisme, Linser, Plade o. s. v., der
+giver skarpt Spektrum, maa naturligvis foretages
+fot. og bliver derved besværlige og tidsspildende.
+Undertiden er brugt akromatiske Linser af
+Kvarts-Kalkspat, men Kalkspats
+Gennemstraalelighed strækker sig ikke saa langt ud i
+det ultraviolette som Kvartsens. Man kan
+ogsaa lave akromatiske
+ultravioletgennemstraalelige Linser af Kvarts-Flusspat, men Flusspat
+forekommer kun sjældent i store vandklare
+Stykker, saa at saadanne Linser bliver meget
+dyre. Flusspat, der er gennemstraalelig til c.
+1200 Å, er derimod det Materiale, der erstatter
+Kvartsen til Undersøgelser under 1800 Å. Men
+allerede for Bølgebredder noget over 1800 Å
+ophører atmosfærisk Luft at være
+gennemstraalelig; derfor maa en Flusspatspektrograf til det
+yderste ultraviolette være lufttom, være en
+<sp>Vakuumspektrograf</sp>, hvilket igen
+betyder en overordentlig Forøgelse af
+Vanskelighederne ved alle Arbejder dermed.
+Saadanne Vakuumspektrografer er først byggede af
+Schumann. Lyskilden maa staa umiddelbart op
+til en Flusspatrude, der er kittet lufttæt til
+Spalten. For det alleryderste ultraviolette er
+selv dette ikke tilstrækkeligt; Absorptionen i
+det tynde Luftlag mellem Lyskilde og Spalte
+bliver for stor. Da maa Lyskilden og
+Spektrografen være sammenbyggede, saaledes at der er
+meget lavt Lufttryk i dem begge. Men ved saa
+korte Bølgebredder ophører ogsaa Flusspats
+Anvendelighed, saa at man maa bruge
+Gitterapparater, der i det hele nu har fortrængt
+Prismeapparaterne fra Vakuumspektroskopien.
+Da Gelatinen i de fot. Plader ogsaa absorberer
+ultraviolet Lys under c. 2000 Å, maa der i
+Vakuumspektrografer anvendes næsten
+gelatinefri Plader, saakaldte Schumannplader.
+Undertiden kan man nøjes med at bruge alm. Plader
+oversmurt med Olie, der fluorescerer, saa at
+Pladen paavirkes ikke af selve Spektret, men
+af det af dette fremkaldte Fluorescenslys.
+
+For ultrarøde Straaler er Glas ogsaa
+uigennemstraaleligt, saa at man maa bruge
+Spektroskoper med Prisme og Linser af Flusspat,
+Stensalt ell. Sylvin; det sidste kan anvendes op
+til Bølgebredder paa c. 20 μ (200000 Å). Da man
+vanskeligt kan skaffe akromatiske Linser,
+foretrækkes det i Reglen at bruge Hulspejle (Fig.
+6). <i>L</i> er Lyskilden, <i>S</i> Spalten, <i>I</i>
+Kollimatorspejlet, <i>P</i> f. Eks. et Stensaltprisme, <i>II</i>
+Kikkertspejlet, der afbilder Spektret i <i>RV</i>. Okularet
+<i>O</i> kan bruges ved Indstilling paa den synlige
+Del af Spektret; naar man gaar over til den
+ultrarøde Del, maa det erstattes af et af de i
+det flg. omtalte Midler til Paavisning af
+ultrarøde Straaler. For det Omraade, der ved at
+sensibilisere Pladen kan optages fot., giver
+denne Metode størst Nøjagtighed, men den gaar
+kun til c. 10000 Å. Derudover maa man
+benytte sig af direkte Energimaaling, idet man
+anbringer et følsomt Termometer i <i>B</i> (Fig. 6);
+naar Prismet drejes ell. Termometret
+forskydes hen ad <i>RV</i>, vil det vise Opvarmning, hver
+Gang det rammes af en Spektrallinie, hvis
+Tilstedeværelse saaledes konstateres, og samtidig
+er Opvarmningen direkte et Maal for Liniens
+Styrke. I et kontinuert Spektrum viser
+Termometret naturligvis Stigning gennem hele
+Spektret, men forsk. efter den forsk. Intensitet
+i de forsk. Dele af Spektret. Anvendelsen af et
+Termometer er i det hele taget den principielt
+simpleste Maade at undersøge og udmaale et
+Spektrum paa, selv om dens Udførelse i
+
+<img>Fig. 6. Spektroskop til Undersøgelser i det ultrarøde
+Omraade (skematisk).</img>

@@ -1,0 +1,145 @@
+faaet Anvendelse ved
+<sp>Jernbanetelegrafer</sp>, hvor en Ledning passerer et stort Antal
+Mellemstationer, og hvor det er af Vigtighed, at
+Ledningsfejl ell. anden ekstraordinær
+Afbrydelse af det sluttede Kredsløb straks observeres.
+Findes kun et færre Antal ell. ingen
+Mellemstationer (indskudte i Serie ell. som Bro,
+Shunt, mellem Ledningen og Jord), eller er
+Ledningen af forholdsvis stor Længde,
+foretrækkes Arbejdsstrømsmetoden, hvor
+Vanskeligheder ved Telegrafering under daarlige
+Isolationsforhold (Afledning) lettere overvindes.
+Paa meget lange Forbindelser benyttes
+Telegrafering ved Ændring af Strømretningen, den
+saakaldte <sp>Dobbeltstrømsmetode</sp>, der
+muliggør Anvendelse af hurtigere og mere
+paalidelige Modtagerapparater (se
+<sp>Telegrafapparater</sp>).
+
+Strømmen til Telegraferingen produceres i
+Alm. i Batterier, d. v. s. Grupper af galvaniske
+Elementer. I ældre Tid benyttedes ofte
+Induktionsstrømme, idet man med de daværende
+mindre gode Ledninger bedre kunde overføre
+kraftige Strømstød fra Magneto- ell.
+Galvano-Induktorer og samtidig begrænsede Ulemperne med
+Brugen af de vaade Elementer, der alene
+kendtes. I Nutiden anvendes mest Tørelementer ell.
+Akkumulatorer og paa større Telegrafstationer
+undertiden Dynamomaskiner. Endelig er man
+i de senere Aar atter gaaet over til Anvendelse
+af Vekselstrømme med højere Frekvenser (se
+<sp>Multiplekstelegrafi</sp>).
+
+Batterispændingen retter sig efter
+Ledningsmodstanden og Modtagerapparaternes
+Følsomhed. I Reglen benyttes Spændinger fra 20—100
+Volt og Strømstyrker fra 5—20 Milliampere,
+hvilket dog varierer meget efter Forholdene.
+(Ved Kabeltelegrafi kan Strømmene saaledes
+blive ganske minimale). Formaar de udsendte
+Strømme (p. Gr. a. stor Ledningsmodstand ell.
+Afledning) ikke at paavirke Modtagerapparatet
+med fornøden Styrke, indskydes et mere
+følsomt Relais (s. d.), der slutter Forbindelsen
+gennem Modtagerapparatet til et paa selve
+Modtagerstationen opstillet Batteri. Dette
+benævnes <sp>Lokalbatteriet</sp> i Modsætning til
+det egl. ved Telegraferingen benyttede
+<sp>Liniebatteri</sp>. Relaiset kan ogsaa slutte
+Forbindelsen fra Modtagerstationens Liniebatteri til en
+ny udgaaende Ledning, hvorved Telegrafering
+over meget store Afstande muliggøres (se
+<sp>Overdragning</sp>).
+
+Telegrafiske Kredsløb indrettes i Reglen som
+<sp>Enkeltledninger</sp>, idet Jorden benyttes
+som Returledning (angivet af Steinheil 1838).
+Liniebatteriets ene Pol (ved
+Dobbeltstrømstelegrafering: Midtpunktet af det todelte Batteri)
+er derfor forbundet med en i Jorden
+(Grundvandet) nedgravet Plade af Kobber ell. oftere
+galvaniseret Jern. Mellem denne og en lgn.
+<sp>Jordplade</sp> paa Modtagerstationen dannes
+ved Strømovergang til de vandførende Jordlag
+Tilbageledning (ell. rettere Afledning) for
+Kredsløbet. Vigtigere Telegrafforbindelser paa
+kortere Strækninger (særlig i Kabelledninger)
+udføres undertiden som
+<sp>Dobbeltledninger</sp> for at udelukke Forstyrrelser fra
+nærliggende Kredsløb (se <sp>Telegrafledninger</sp>).
+Forinden Ledningen forlader Stationen,
+passerer den et saakaldt Krydsfelt, hvor
+Omstillinger mellem forsk. Ledninger, Apparater og
+Spændinger let kan foretages. I Krydsfeltet
+findes desuden Sikringsanordninger af forsk.
+Art (se <sp>Smeltesikring</sp>) samt
+Maaleapparater for Undersøgelse af Ledningsfejl. (<sp>Litt</sp>.:
+<sp>Th. Karras</sp>, »Geschichte der Telegraphie«
+[Braunschweig 1909]; <sp>T. E. Herbert</sp>,
+<i>Telegraphy</i> [Lond. 1916]).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telegraf">
+<b>Telegraf</b> (græsk), gennemgaaende optisk,
+paa Jernbaner, et i Jernbanernes første Dage i
+Tyskland udviklet Signalsystem, der havde sit
+Forbillede i den almindelige optiske T.
+Ordningen havde til Formaal at tilvejebringe en
+telegrafisk Forbindelse mellem Stationerne
+indbyrdes og mellem disse og Strækningen, og en
+Forudsætning for dens Gennemførelse var, at der
+langs Banen fandtes et passende Antal
+Vogterposter, beliggende saa tæt, at man fra hver af
+Posterne kunde se begge Naboposter. Dette var
+i Tyskland forholdsvis let at opnaa, da
+skærende Veje her sædvanligvis blev ført over
+Banen i Skinnehøjde, og der derfor langs Banen
+oprettedes et betydeligt Antal Ledvogterposter,
+medens det modsatte var Tilfældet i England,
+hvor Banerne principmæssigt lagdes ude af
+Niveau med Vejene (smlg. <sp>Bevogtning</sp>,
+Jernbanernes).
+
+De anvendte Signalindretninger var
+almindeligvis overordentlig simple. Hyppigt brugtes
+Haandsignaler eller dog Signaler med
+Haandflag, andre Steder brugtes Signaler med Skiver
+eller Kurve, som hejsedes op paa en Mast, og
+endelig anvendtes Vingesignaler i højst
+forskellig Udførelse; i Mørke brugtes Signallygter med
+hvidt Glas eller med farvet Glas. Signaltegnene
+gjaldt ikke for Bogstaver som i den almindelige
+optiske T., men udtrykte et vist Signalbegreb,
+f. Eks. »Tog kommer«. Paa Strækninger med
+Kurvsignaler kunde saaledes een Kurv hejst
+melde Tog i den ene Retning, og to Kurve hejst
+melde Tog i den modsatte Retning. Naar et Tog
+skulde afgaa, signaleredes dette ved den
+optiske T. paa den paagældende Station til den
+foranliggende Strækning og gentoges her af
+Posterne, saaledes at Meldingen gennemløb
+Linien fra Vogterpost til Vogterpost indtil næste
+Station og forberedte paa Togets Komme. Dog
+skulde Posterne forinden hver for sit
+Banestykke forvisse sig om, at Ledene for
+Overkørslerne var lukkede og Banen i øvrigt i
+Orden, saaledes at Lokomotivføreren, naar han
+mødte Signalet ved Vogterposten, deraf kunde
+se, om Toget frit kunde passere. Var Banen
+ikke i Orden, f. Eks. paa Grund af Sporarbejde,
+eller fulgte Toget for tæt ind paa et
+forudgaaende Tog, viste Posten i Stedet »Kør langsomt«
+eller »Stop«. — Paa tilsvarende Maade brugtes
+de gennemgaaende Signaler til at sende
+Meldinger fra Strækningen til Stationerne, f. Eks.
+ved Tilkaldelse af Hjælpelokomotiv til et Tog,
+der var kørt i Staa mellem Stationerne.
+
+En Hovedmangel ved det gennemgaaende
+optiske Telegrafsystem var det imidlertid, at
+Signalgivningen ganske svigtede i Taage og
+usigtbart Vejr. Lyssignalerne erstattedes da ofte
+med Horn- eller Fløjtesignaler, men i stærkere

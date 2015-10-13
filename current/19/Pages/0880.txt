@@ -1,0 +1,140 @@
+1 Voit af Gitterspændingen vil have samme
+Indflydelse paa Pladestrømmen som en
+Ændring paa <i>k</i> Volt i Pladespændingen, <i>k</i> kaldes
+derfor Gitterets ell. Rørets
+Voltforstærkningsfaktor, og er den for Rørets Anvendelse
+betydningsfuldeste Konstant.
+
+Betingelsen for, at Røret kan optræde som
+Generator for kontinuerlige elektromagnetiske
+Svingninger, er, at det er saaledes forbundet
+med elektriske Strømløb og en ell. flere
+Svingningskredse, at Røret over for Forandringer i
+Pladestrømmen optræder som en »negativ
+Modstand« (se ovf. S. 651), der kan opveje eller
+kompensere de Modstande, som i øvrigt findes i
+det svingende System, saaledes at det med
+Svingningernes Opretholdelse forbundne Tab
+dækkes af den af Røret til det svingende System
+leverede Svingningsenergi. Fig. 32 tjener til
+Belysning af disse Forhold: I Pladeløbet er
+indskudt en Traadrulle med Selvinduktion <i>L</i> og i
+Gitterløbet en anden Traadrulle, der er koblet
+med <i>L</i> gennem den gensidige Induktion <i>M</i>, idet
+Forbindelsen er ordnet saaledes, at en
+Strømtilvækst i Pladeløbet bevirker en (positiv)
+Tilvækst i Gitterspændingen. I saa Fald vil
+Pladens Spændingsformindskelse p. Gr. a.
+Variationen i Strømmen i Pladeløbet være givet ved
+<i>L</i> X (Hastigheden af Pladestrømmens Tilvækst),
+samtidig vil Gitterets Spænding forøges med
+<i>M</i> X (Hastighed af Pladestrømmens Tilvækst).
+Betingelsen for, at Rørets Modstand er negativ
+over for Pladeløbet, er, at Pladestrømmen
+stiger, naar Pladespændingen aftager; men iflg.
+det foregaaende stiger Pladestrømmen kun for
+saa vidt (—<i>L</i> + <i>kM</i>) > 0; man maa altsaa
+nødvendigvis have, at <i>kM</i> > <i>L</i>. Er dette
+Tilfældet, vil der opstaa Svingninger i en
+Svingningskreds, der paa passende Maade er knyttet
+til Plade- ell. Gnistløb. Selve den
+diagrammæssige Opstilling kan ordnes paa mange Maader,
+af hvilke den i Fig. 32 viste, — hvor en
+Kondensator <i>C</i> anbringes parallelt med den i
+Pladeløbet anbragte Selvinduktion (<i>L</i>) — er en af de
+simpleste. Det principielle Moment ligger i den
+omtalte Sammenknytning, Kobling, mellem Plade-
+og Gitterløb. Jo større Modstanden er i det
+svingende System, desto mere maa Værdien af
+<i>M</i> overskride Værdien 1/<i>k</i> L. Koblingen (<i>M</i>)
+kan dog ogsaa gøres for fast, men en nærmere
+Diskussion heraf vilde føre for langt.
+
+Rørgeneratoren kan indskydes i direkte
+Tilknytning til Antennen, idet Antennen simpelt
+hen indskydes i St f. Kondensatoren <i>C</i> i Fig. 32.
+For at formindske Udsendelsen af »Overtoner«
+indskydes dog som Regel en ell. fl.
+Mellemkredse. Gælder det om at holde Svingningstallet
+(ell. Bølgelængden) meget konstant, selv om
+Antennens Egenskaber varierer — navnlig dens
+Kapacitet vil undergaa større ell. mindre
+Ændringer i Blæsevejr — kan man gaa frem paa
+den Maade, at der bygges en lille særlig
+<sp>Styresender</sp>, hvis Svingningskreds (<i>L</i>, <i>C</i>)
+kan holdes fuldstændig konstant. De frembragte
+Svingninger forstærkes derefter ved Hjælp af
+særlig dertil indrettede, store Forstærkere —
+hvortil ligeledes benyttes Elektronrør, se senere
+— saaledes at Svingningerne først efter
+stedfunden Forstærkning overføres til Antennen. I
+saa Fald vil den udsendte Bølges Længde kun
+i ringe Grad være afhængig af Forandringer i
+Antennens Tilstand, medens disse derimod i
+nogen Grad kan faa Indflydelse paa de
+udsendte Bølgers Styrke.
+
+Elektronrørgenerator er kan bygges i alle
+Størrelser lige fra en Brøkdel af en Watt og op
+til fl. Hundrede Kilowatt. Længden af de
+frembragte Bølger kan varieres fra omkr. 1 m op
+til en hvilken som helst Værdi bestemt ved de
+elektriske Konstanter af de tilknyttede
+Strømløb. Ved de ganske smaa Bølgelængder kan de
+dog kun præstere smaa Energimængder.
+
+<sp>Antenner</sp>. <sp>Bølgernes Udstraaling
+(Radiation) og Vandring
+(Transmission)</sp>.
+
+Den aabne, udstraalende Kreds (Antennen)
+bestaar som Regel af en Lufttraad ell. et Luftnet.
+Effekten, der udstraales (radieres) fra et
+saadant Luftnet, afhænger foruden af den effektive
+Strømstyrke (<i>A</i>) i Antennens Fodpunkt, tillige
+af dennes virksomme (effektive) Højde <i>H</i> og af
+Længden (λ) af de udstraalede Bølger. Den
+nævnte Effekt <i>W</i> ell. Radiationen er bestemt
+ved <i>W</i> = 1600 <i>H<sup>2</sup></i>/λ<sup>2</sup> · <i>A<sup>2</sup></i> = <i>R<sub>rad</sub></i> · <i>A<sup>2</sup></i> (Watt),
+hvor <i>R<sub>rad</sub></i> = 1600 <i>H<sup>2</sup></i>/λ<sup>2</sup> (Ohm) kaldes
+Antennens Radiationsmodstand.
+
+Er dennes totale Modstand ved den benyttede
+Bølgelængde lig med <i>R<sub>tot</sub></i> saa er Antennens
+Virkningsgrad = <i>R<sub>rad</sub></i>/<i>R<sub>tot</sub></i>
+
+Det fremgaar heraf, at, alt i øvrigt lige, bliver
+Antennens Virkningsgrad og den udstraalede
+Effekt desto større, jo større Antennens
+virksomme Højde er. Særlig for lange Bølger kan
+man kun faa en nogenlunde tilfredsstillende
+Virkningsgrad af Antennen, naar denne er høj.
+Eks.: λ = 10000 m og <i>R<sub>tot</sub></i> = 2 Ohm giver
+kun en Antennevirkningsgrad paa 8 % for
+<i>H</i> = 100 m, og Virkningsgraden gaar endda
+ned til 2 % for <i>H</i> = 50 m. Antennens
+virksomme Højde maa derfor gøres stor i de Tilfælde,
+hvor man benytter lange Bølger. Ved store
+Stationer kommer man derfor ofte op paa en
+Højde af 200 à 250 m for de Master ell. Taarne,
+der bærer Antennen, og Anlægsudgifterne til
+disse er hyppig den største Del af den samlede
+Udgift til Stationens Opførelse. Eks. paa et
+saadant Antenneanlæg er vist i Fig. 33.
+
+Luftnettets virksomme Højde er endda altid
+mindre end dets maksimale Højde og paa det
+nærmeste lig med Højden over Jordoverfladen
+af Nettets »elektriske Tyngdepunkt«. I Fig. 34
+er vist nogle simple Antenneformer med
+Angivelse af den omtrentlige Værdi for den
+virksomme Højde.
+
+Antennens Virkningsgrad kan ogsaa forøges
+ved at gøre dens totale Modstand mindre,
+altsaa ved at formindske alle elektriske Tab i
+Antennen. Af stor Bet. i saa Henseende er
+Antennens Jordforbindelse, hvad enten denne er
+direkte, idet Antennens nederste Ende er
+forbunden til et udstrakt, underjordisk Net, ell.
+indirekte, idet Forbindelsen sker til et

@@ -1,0 +1,118 @@
+Stilling og skal til at gaa nedad, der skal da
+allerede være aabnet et lille Stykke, <sp>det
+lineære Forspring</sp>, af Kanalen <i>a</i><sub>1</sub> til
+Kraftdampens Indstrømning over Stemplet. Dette
+gaar nedad under Dampens Tryk, medens <i>a</i><sub>1</sub>
+først aabnes mere og mere, men saa atter
+indknibes og lukkes helt, naar Stemplet har
+gennemløbet en vis Del af sin hele Vej.
+<sp>Indstrømningsperioden</sp> er da forbi,
+<sp>Ekspansionsperioden</sp> begynder, under
+hvilken Stemplet drives videre ved Dampens
+Udvidekraft under aftagende Tryk. Endelig, før
+Stemplet er kommet helt ned, skal der aabnes
+Forbindelse mellem <i>a</i><sub>1</sub> og <i>a</i><sub>3</sub>, saa den brugte
+Damp kan begynde at strømme bort.
+Samtidig har der, lige fra det betragtede
+Stempelslag begyndte, været Forbindelse mellem <i>a</i><sub>2</sub> og
+<i>a</i><sub>3</sub>, saa den i forrige Slag brugte Damp under
+Stemplet kan strømme bort: først naar
+Stemplet kun mangler lidt i at være kommet helt
+ned, lukkes der for <i>a</i><sub>2</sub>, og medens Stemplet
+gaar videre, sammentrykkes den endnu
+tilstedeværende Damp,
+<sp>Kompressionsperioden</sp>, og endelig, før Stempelslaget er helt
+forbi, aabnes der allerede Adgang for
+Kraftdampen til Cylinderens Underside, som
+Forberedelse til næste Stempelslag, opad.
+
+Naar Dampens Ekspansionskraft ret skal
+udnyttes, vil den simple Skuffe-G., der er ene om
+hele Dampfordelingen, vanskelig gøre Fyldest.
+Der bruges da sædvanlig to G., <sp>Hoved-G.</sp>, der
+besørger Ind- og Udledning af Kraft- og
+Spildedamp, og <sp>Ekspansions-G.</sp>, som kun skal
+bevirke Ekspansionens Indtræden.
+
+Fig. 2 viser <sp>Meyer's G.</sp> Hoved-G. <i>A</i> er
+længere end Skuffe-G. og har to Kanaler <i>a</i><sub>0</sub>,
+medens Ekspansions-G. bestaar af to Plader
+ell. Klodser, som glider bag paa Hoved-G. og
+ved Møtrikker er fæstede paa den
+skrueskaarne G.-Stang. G. bevæges hver fra sin
+Ekscentrik. Naar Ekspansionen skal begynde ved den
+ene ell. ved den anden Ende af Cylinderen,
+skyder Ekspansions-G. sig hen og dækker den
+tilhørende Kanal i Hoved-G. Tidspunktet for
+Ekspansionens Indtræden varieres ved at skrue
+Klodserne til ell. fra hinanden, og dette kan
+gøres ved at dreje G.-Stangen med
+Haandhjulet ved <i>d</i>; den ene Skrue er nemlig
+højreskaaren, den anden venstreskaaren. Derved
+indstilles Maskinen til at give større ell. mindre
+Hestekraft. Ønsker man, at denne Indstilling
+skal ske ved Regulatoren, bruges andre
+G.-Former, som Regulatoren lettere og hurtigere
+kan indstille, saaledes <sp>Rider's G.</sp>, der kan
+indrettes som Fig. 3 viser. Gennem Hoved-G.
+gaar der to Kanaler, ligesom ved Meyer's G.,
+men de udmunder som skraatstillede Spalter
+i G.'s Bagside, der har en hul cylindrisk Form.
+Mod denne passer Ekspansions-G., der har
+Form af et Stykke af en Cylinder, og er skraat
+afskaaret for Enderne, parallelt med
+Spalterne, saa den er bredere ved den ene Side end
+ved den anden. Den trækkes frem og tilbage
+af sin G.-Stang og lukker derved snart den
+ene, snart den anden Spalte, og den indstilles
+ved, at Regulatoren drejer den saaledes, at
+snart et bredere, snart et smallere Sted
+kommer ud for Spalterne. Regulatoren drejer
+G.-Stangen ved Vægtstangen <i>v</i>, saaledes at denne
+Drejning ikke hindrer G.-Stangens Bevægelse
+frem og tilbage.
+
+G. gives i øvrigt mange forsk. Former, ved
+hvilke man søger opnaaet en ell. anden Fordel.
+Ved <sp>Farcot's G.</sp> opnaas en enklere
+Mekanisme, idet Ekspansions-G.'s Ekscentrik med
+Tilbehør udelades og selve Ekspansions-G., der
+ligesom Meyer's bestaar af to Klodser,
+bevæges af Hoved-G., der simpelthen slæber
+Klodserne med ved Friktionen et Stykke frem og
+tilbage. Klodsernes Bevægelse baade udad og
+indad begrænses af Stoppere. Ekspansionens
+Indtræden kan varieres efter Behov, derved,
+at de indre Stoppere dannes af en urund Skive,
+som kan drejes af Regulatoren. Mekanismen
+regnes dog for at være mindre paalidelig, da
+Klodsernes Bevægelse ikke er <sp>mek. bundet</sp>,
+men beror paa, om Friktionen har en passende
+Størrelse. Til Nutidens hurtiggaaende Maskiner
+kan den slet ikke bruges.
+
+Nu søger man nærmest ved særlige
+G.-Former at opnaa enten en hurtigere og
+pludseligere Oplukning og Tillukning af
+Dampkanalerne (<sp>Trick's G.</sp>, Dobbeltportet G.) ell. en
+Formindskelse af det Tryk, hvormed Dampen
+presser G. ind mod G.-Spejlet, og som ved
+store G. kan medføre Ulemper (aflastede G.,
+Slempel-G.). Til at arbejde med Damp af høj
+Spænding ell. med overhedet Damp egner G.
+sig ikke.
+<i>S. C. B.</i>
+
+<img>Fig. 2. Meyers' Gliderstyring.</img>
+
+<img>Fig. 3. Rider's Gliderstyring.</img>
+</chapter>
+
+<chapter name="Gliderstyring">
+<b>Gliderstyring,</b> se <sp>Glider</sp>.
+</chapter>
+
+<chapter name="Gliedermann">
+<b>Gliedermann</b> ['gli.d<sub>ə</sub>rman] (tysk), en
+Træfigur med bevægelige Ledemod, som
+Kunstneren kan benytte til at kaste Draperier over

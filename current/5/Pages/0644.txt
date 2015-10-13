@@ -1,0 +1,112 @@
+<table>
+<td c>Type<td c>Navn<td>Længde m<td>Bredde m<td>Dybgaaende fuldt udrustet m<td>Tilsvarende Deplacement Tons<td>Hestekraft<td>Tilsvarende Fart i Knob<td>Sat i Vandet<td>Besætning<td>Armering
+<td v3 c>Inspektionsskibe<td>Islands Falk<td>55,95<td>8,93<td>4.47<td>769<td>1100<td>13<td>1906<td>52<td>
+<td>Beskytteren<td>43,42<td>7,96<td>3,37<td>447<td>620<td>11<td>1900<td>36<td>
+<td>Absalon<td>40,92<td>6,13<td>2,70<td>297<td><td>11<td c>-<td c>-<td>
+<td v2 c><i>Transportfartøjer</i><td>Torpedotransportbaad Sleipner<td>22,26<td>4,50<td>1,79<td>-<td>110<td><td>1882<td>6<td>
+<td>10 Troppetransportbaade<td c>-<td c>-<td c>-<td c>-<td c>-<td><td c>-<td c>-<td>
+<td v3 c><i>Kaserneskibe</i><td>Fyen<td>73,76<td>13,86
+<td>Depotskib Esbern Snare<td>45,77<td>7,92<td>2,80<td><td><td><td>1862
+<td>Logiskib Hekla<td>72,26<td>10,36<td><td><td><td><td>1890
+<td c><i>Flyvebaade</i>.
+<td c><i>Fartøjer til</i>
+<td c><i>Orlogsværftets</i>
+<td c><i>Brug samt</i>
+<td c><i>Skibe</i>
+<td c><i>henhørende til</i>
+<td c><i>Fyr- og</i>
+<td c><i>Vagervæsenet</i>
+</table>
+
+<b>Mønt, Maal og Vægt.</b>
+
+D.'s nuv. <sp>Møntvæsen</sp> er baseret paa
+Møntloven af 23. Maj 1873, der traadte i Kraft fra
+1. Jan. 1875, og paa Møntkonventionerne af 26.
+Juni 1873 med Sverige og af 16. Oktbr 1875
+med Norge. Iflg. disse Konventioner har de
+3 skandinaviske Lande ikke alene fælles
+Møntsystem, men endvidere er de i hvert af de 3
+Lande prægede Mønter lovligt Betalingsmiddel i
+de 2 andre Lande i samme Omfang som disses
+egne Mønter. Ved Møntloven indførtes
+<sp>Guldmøntfod</sp> med Sølv- og Bronzemønt som
+Skillemønt, medens man tidligere havde haft
+Sølvmøntfod. Der udmøntes 2 Hovedmønter, den
+ene saaledes, at 124 Stkr indeholder et kg fint
+Guld, den anden saaledes, at 248 Stkr
+indeholder et kg fint Guld. Tiendedelen af
+sidstnævnte Mønt er Regningsenhed og kaldes en
+<sp>Krone</sp>. Den deles i 100 Øre. Af Skillemønt
+udmøntes i Sølv Stykker paa 2 og 1 Kroner, 25
+og 10 Øre og i Bronze (95 Vægtdele Kobber, 4
+Vægtdele Tin og 1 Vægtdel Zink) Stykker paa
+5, 2 og 1 Øre. Endvidere giver Møntloven
+Bemyndigelse til at præge Sølvmønter paa 50 og
+40 Øre. Guldmønterne har en Finhed af 9/10,
+de større Sølvmønters Finhed er 3/5, medens
+Smaamønterne udmøntes med ringere Finhed.
+Hovedmønterne (Tyve- og Tikronestykker) er
+lovligt Betalingsmiddel for et hvilket som helst
+Beløb. Af Skillemønt er derimod ingen pligtig
+til i een Betaling at modtage mere end 20 Kr i
+1- og 2-Kronestykker, 5 Kr i mindre Sølvmønt
+og 1 Kr. i Bronzemønt. Medens Udprægningen af
+Skillemønt kun foregaar for Statskassens Regning,
+staar Adgangen til at faa Hovedmønt udmøntet
+aaben for enhver, der indleverer Guld til
+Mønten, imod Erlæggelse af et Prægningsgebyr, der
+udgør 1/4 % for Tyvekronestykker og 1/3 % for
+Tikronestykker. Endvidere er Nationalbanken i
+Kbhvn forpligtet til at afkøbe enhver fine
+Guldbarrer til en Pris af 2480 Kr pr kg fint Guld
+med Fradrag af 1/4 %. Af Møntsteder findes i
+D. kun eet, nemlig den kgl. Mønt i Kbhvn, hvis
+Møntmærke er et Hjerte. Alle Mønter præges
+med ophøjet Rand. Guldmønterne og de større
+Sølvmønter præges i riflet Ring, 25- og 10-Ører
+samt Bronzemønterne i glat Ring. Guldmønterne
+ophører at være lovligt Betalingsmiddel Mand
+og Mand imellem, naar de ved Slid har mistet
+over 1/2 % af deres opr. Vægt. Over for
+Statskassen vedbliver de danske Guldmønter at være
+lovligt Betalingsmiddel uanset det Vægttab, de
+har lidt ved Slid, de norske og svenske derimod
+kun, for saa vidt de ikke ved Slid har tabt over
+2 % af deres Vægt. Skillemønter ophører først
+at være lovligt Betalingsmiddel over for
+Statskassen, naar de er saa slidte, at det ikke med
+Sikkerhed kan kendes, for hvilket Riges
+Regning de er udpræget, men lige over for andre,
+saa snart Præget ved Slid er blevet utydeligt.
+For saa vidt Mønterne har lidt voldsom eller
+ulovlig Beskadigelse, er Finansministeren
+bemyndiget til at give Erstatning, naar det maa
+antages, at Ihændehaveren har modtaget
+Mønterne i god Tro. Det samme gælder m. H. t.
+falske Mønter. Mønter, der er lovligt
+Betalingsmiddel over for Statskassen, men ikke Mand og
+Mand imellem, kan faas ombyttet med gangbar
+Mønt. Endvidere kan man faa et hvilket som
+helst med 10 Kr deleligt Beløb i Skillemønt
+ombyttet med Hovedmønt. Af
+<sp>Pengerepræsentativer cirkulerer kun
+Nationalbankens Sedler</sp>. Den i Omløb
+værende Seddelmængde var ved Udgangen af
+Decbr 1915 220,4 Mill. Kr. M. H. t. Bankvæsenet
+henvises i øvrigt til <sp>Bank</sp>.
+<i>(E. M.). Th. O.</i>
+
+<sp>Maal og Vægt</sp>. Ved L. af 4. Maj 1907 er
+det metriske System for Maal og Vægt indført
+i D. og paa Færøerne; paa Island (fra 1. Jan.
+1910) ved en i Hovedbestemmelserne
+tilsvarende L. af 16. Novbr 1907. I Dansk Vestindien
+anvendes vedblivende gl dansk Maal og Vægt i
+Forbindelse med eng. Maal.
+
+Ved kgl. Anrd. af 10. Juli 1909
+(Bekendtgørelse af 28. Juli 1909 fra Ministeriet for
+Handel og Søfart) er det fastsat, at metrisk Maal
+og Vægt udelukkende skal benyttes ved
+Beregning af Told o. a. offentlige Afgifter fra 1. Apr.

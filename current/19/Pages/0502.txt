@@ -1,0 +1,153 @@
+Petrograd 1893—94]; <i>La cour de Catherine II.
+Ses collaborateurs</i> [Petrograd 1899]).
+<i>(C. F.). C. A. T.</i>
+</chapter>
+
+<chapter name="Potens (mat.)">
+<b>Potens</b> (mat.). Et Produkt af <i>n</i> lige store
+Faktorer, hver = <i>a</i>, betegnes ved <i>a<sup>n</sup></i> og
+kaldes den <i>n</i>'te P. af <i>a</i>. <i>a</i> kaldes <sp>Roden</sp>, <i>n</i>
+<sp>Eksponenten</sp>; den Regning, der udføres
+med <i>a</i>, hedder <sp>Potensopløftning</sp>, <i>a</i><sup>2</sup> og
+<i>a</i><sup>3</sup> kaldes <i>a</i>'s <sp>Kvadrat</sp> og <sp>Kubus</sp>. Er <i>a</i>
+positiv, bliver <i>a<sup>n</sup></i> det ogsaa; er <i>a</i> negativ, vil
+<i>a<sup>n</sup></i> blive positiv ell. negativ, efter som <i>n</i> er lige
+ell. ulige. Af Hensigtsmæssighedshensyn har
+man ogsaa tillagt <i>a<sup>n</sup></i> Betydning for <i>n</i> = 0 og
+<i>n</i> negativ, idet man sætter <i>a</i><sup>0</sup> — 1, <i>a</i><sup>—p</sup> = 1/<i>a<sup>p</sup></i>:
+man ledes til disse Definitioner ved at lade
+Reglen <i>a<sup>n</sup></i>: <i>a<sup>p</sup></i> = <i>a<sup>n—P</sup></i>, der bevises for <i>n</i> > <i>p</i>,
+gælde for <i>n</i> = <i>p</i> og <i>n</i> < <i>p</i>. Videre har man
+indført brudne Eksponenter, idet <i>a<sup>q</sup></i> sættes =
+<i>q</i>√<i>a<sup>p</sup></i> (se <sp>Roduddragning</sp>) i
+Overensstemmelse med den for <i>p</i> delelig med <i>q</i> beviste
+Regel (<i>p</i>/<i>a<sup>q</sup></i>)<sup>q</sup> = <i>a<sup>p</sup></i>. Sætningerne om Regning
+med P., der udvikles i den elementære
+Aritmetik, bliver ved disse Definitioner de samme
+for alle Eksponenter. Om Potensopløftning af
+komplekse Tal s. d. Allerede Diofantos brugte
+Betegnelser for de laveste P. med hele positive
+Eksponenter; 2. P. kaldte han δυναμις, og den
+lat. Oversættelse heraf, <i>potentia</i>, er
+Oprindelsen til Navnet P. P. med brudne
+Eksponenter og Regning med dem findes første Gang hos
+Oresme (14. Aarh.). Den nuv. Potensbetegnelse
+skyldes Descartes. Ved et Punkts P. m. H. t.
+en Cirkel ell en Kugle forstaas Produktet af
+Stykkerne paa en Sekant gennem Punktet,
+regnede fra Punktet til Sekantens Skæringspunkter
+med Cirkelen ell. Kuglen, hvilket Produkt er
+det samme paa alle Sekanter gennem Punktet.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Potens">
+<b>Potens</b> (lat.), Kraft, Evne, anvendes i
+Medicinen særlig som Betegnelse for Evnen til at
+udøve Kønsfunktionerne (Jfr <sp>Impotens</sp>).
+<i>(E. P-n.). K. H. K.</i>
+</chapter>
+
+<chapter name="potensere">
+<b>potensere</b> (lat.), forstærke, forhøje.
+</chapter>
+
+<chapter name="Potensrækker">
+<b>Potensrækker</b> (mat.), se <sp>Rækker</sp>.
+</chapter>
+
+<chapter name="Potenstallene">
+<b>Potenstallene</b> af <i>n</i>'te Grad (<i>n</i> positiv hel)
+vil sige de <i>n</i>'te Potenser af Talrækkens hele
+positive Tal. For <i>n</i> = 2 og <i>n</i> = 3 faas Kvadrat-
+og Kubiktallene.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Potentat">
+<b>Potentat</b> (middellat.), Magthaver, Suveræn.
+</chapter>
+
+<chapter name="Potential">
+<b>Potential,</b> et matematisk-fysisk Begreb, der
+finder Anvendelse ved Beregning af Kræfterne
+i visse Kraftfelter: Gravitationsfelter,
+elektrostatiske og magnetiske Felter. Ved
+<sp>Potentialforskellen</sp> mellem to Punkter i for
+Eksempel et elektrostatisk Felt forstaas det
+<sp>Arbejde</sp>, som Feltkræfterne maa udføre for at
+føre en positiv elektrostatisk Enhed af
+Elektricitet fra det ene Punkt til det andet, og ganske
+analog Definition af Potentialforskel gælder i
+de åndre Felter. Som Følge af denne Definition
+har P.-Begrebet kun praktisk Interesse i
+saadanne Felter, hvor Arbejdet ved Transporten
+af f. Eks. den elektriske Enhedsladning er
+uafhængig af den Bane, ad hvilken Ladningen føres
+fra det ene Punkt til det andet og eentydig
+bestemt ved de to Punkters Plads i Feltet; dette
+er altid Tilfældet i de saakaldte
+<sp>Kildefelter</sp>, d. v. s. Felter, hvor Kraftlinierne ikke er
+lukkede Kurver, men har bestemt
+Udspringssted (i Massepunkter, i positive elektriske
+Ladninger ell. i magnetiske Nordpoler). I mange
+andre Felter er Kraftlinierne imidlertid lukkede
+Kurver; dette er saaledes Tilfældet i det
+magnetiske Felt uden om en Ledning, hvori der
+gaar en elektrisk Strøm. Potentialforskellen
+mellem to Punkter i et saadant Felt er ikke
+eentydig bestemt ved de to Punkters
+Beliggenhed i Feltet, men afhænger ogsaa
+af, hvor mange Gange og i hvilken
+Retning den positive Enhed for Magnetisme
+(d. v. s. en Nordpol med Magnetismemængden
+1) under Transporten fra det ene Punkt til det
+andet har omkredset Strømmen, idet Arbejdet
+ved Transporten for hver saadan Omgang
+forandres med 4π/10 <i>i</i> Erg, hvis Strømstyrken
+i Lederne er <i>i</i> Ampère. — Ved P. ell.
+<sp>Spændingen</sp> i et Punkt i et Kildefelt forstaar
+man Arbejdet ved Transporten af en
+Enhedsmasseladning eller -pol fra det betragtede
+Punkt til et Sted, hvor Feltstyrken er 0 ell.,
+som man siger, uendelig langt borte. Alle de
+Punkter, for hvilke P. har samme Værdi,
+ligger paa en Flade, <sp>Niveaufladen</sp> eller
+<sp>Ækvipotentialfladen</sp> for denne
+Værdi. Til en Værdi, der er lidt større ell.
+mindre, svarer en anden Niveauflade, der ligger nær
+ved den første, men intet Sted skærer ell. rører
+den. Man kan nu tænke sig Feltet delt ved et
+Sæt af Niveauflader, der svarer til
+Potentialværdier med smaa, lige store Differenser.
+Kraften i ethvert Punkt af Rummet staar vinkelret
+paa Niveaufladen gennem Punktet, og dens
+Størrelse findes ved at dividere
+Potentialforskellen mellem to paa hinanden følgende
+Niveauflader i Punktets Omegn med
+Fladernes indbyrdes Afstand. Mellem
+<sp>Kraftlinierne</sp> (s. d.) i Feltet og Niveaufladerne
+findes der altsaa den Forbindelse, at de overalt
+skærer hinanden under rette Vinkler. Den
+rolige Havflade er en Niveauflade svarende til
+det Kraftsystem, der dannes af Tyngden, hvis
+Retning overalt staar vinkelret paa Havfladen.
+En <sp>Niveaulinie</sp> fremkommer ved en
+Niveauflades Skæring med en anden Flade;
+Højdekurverne paa Generalstabens Kort er
+Niveaulinier dannede ved Skæring mellem Tyngdens
+Niveauflader og Jordens Overflade. — Den mat.
+Fordel ved Indførelsen af P.-Begrebet ligger i,
+at P. er et Arbejde, altsaa en Størrelse uden
+Retning, en Skalar, medens Kraften er en
+Retningsstørrelse, en Vektor. Skønt Kraften i alle
+Kildefelter er bestemt ved ganske simple Love
+(Newton's Lov, Coulomb's Lov), vil
+Beregningen af Kraftens Størrelse og Retning i et
+vilkaarligt Punkt i Feltet direkte ud fra disse
+Love hyppigst være overordentlig indviklet og
+langsommelig ell. endog umulig at gennemføre.
+Derimod kan P. i et Punkt i Feltet ofte findes
+forholdsvis let, og naar dette er kendt, kan
+Kraftens Størrelse i en vilkaarlig Retning let
+findes ved Differentiation.

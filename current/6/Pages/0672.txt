@@ -1,0 +1,117 @@
+Tabel 6. Dødelighedstavle for de 2 første
+Leveaar, Berlin 1895.
+
+<table>
+<td 2 v2>Alder<td 2 c>Drenge<td 2 c>Piger
+<td>Antal Overlevende<td>Dødelighed p. m.<td>Antal Overlevende<td>Dødelighed p. m.
+<td 2>Nyfødte<td r>10000<td r>74,5<td r>10000<td r>60,0
+<td r>1<td c>Maaned<td r>9255<td r>34,5<td r>9400<td r>29,4
+<td r>2<td c>Maaneder<td r>8936<td r>31,1<td r>9131<td r>23,4
+<td r>3<td c>-<td r>8658<td r>29,5<td r>8917<td r>23,6
+<td r>4<td c>-<td r>8403<td r>25,2<td r>8707<td r>19,0
+<td r>5<td c>-<td r>8191<td r>21,1<td r>8534<td r>19,5
+<td r>6<td c>-<td r>8018<td r>18,3<td r>8368<td r>16,4
+<td r>7<td c>-<td r>7871<td r>18,2<td r>8231<td r>15,9
+<td r>8<td c>-<td r>7728<td r>15,3<td r>8100<td r>14.3
+<td r>9<td c>-<td r>7610<td r>15,8<td r>7984<td r>12,8
+<td r>10<td c>-<td r>7490<td r>12,8<td r>7882<td r>11,8
+<td r>11<td c>-<td r>7394<td r>11,5<td r>7789<td r>9,4
+<td r>12<td c>-<td r>7309<td r>10,9<td r>7716<td r>8,9
+<td l>1 1/4<td c>Aar<td r>7104<td r>6,9<td r>7527<td r>6,9
+<td l>1 1/2<td c>-<td r>6973<td r>5,1<td r>7387<td r>5,1
+<td l>1 3/4<td c>-<td r>6874<td r>3,9<td r>7283<td r>3,9
+<td l>2<td c>-<td r>6807<td r>1,8<td r>7205<td r>1,7
+</table>
+
+Aarets 12 Maaneder (reduceret til samme
+Dageantal).
+
+Det er saaledes særlig Overgangen fra Vinter
+til Foraar, der er farlig; for ældre er Foraaret,
+for smaa Børn især Eftersommeren,
+skæbnesvanger.
+
+Tabel 7. Fordeling af 1200 Dødsfald paa Aarets
+12 Maaneder.
+
+<table>
+<td><td>Md.<td>Kv.
+<td>Januar<td r>107<td r>112
+<td>Februar<td r>113<td r>121
+<td>Marts<td r>117<td r>123
+<td>April<td r>116<td r>119
+<td>Maj<td r>110<td r>108
+<td>Juni<td r>101<td r>95
+<td>Juli<td r>95<td r>89
+<td>August<td r>89<td r>86
+<td>September<td r>86<td r>82
+<td>Oktober<td r>83<td r>80
+<td>November<td r>89<td r>89
+<td>December<td r>94<td r>96
+</table>
+
+Til Forstaaelse af Dødelighedens Afhængighed
+af Alder etc. er det nødvendigt at gaa nærmere
+ind paa Dødsaarsagerne; desværre støder
+Undersøgelser i denne Retning imidlertid paa store
+Vanskeligheder; bl. disse er Manglen af en fast
+og ensartet
+<sp>Dødsaarsags-Nomenklatur</sp>, navnlig ved internationale
+Sammenligninger, i særlig Grad generende; men selv om man
+indskrænker sig til Sammenligninger inden for
+et enkelt Land, vil den Omstændighed, at
+Lægevidenskaben stadig naar frem til en dybere
+Erkendelse af Sygdommens Art og Virkning, efter
+som Tiden gaar, paavirke baade Betegnelserne
+og den Mængde Tilfælde, der paa et givet
+Tidspunkt henføres til en bestemt Dødsaarsag.
+Medens endvidere mange Lande allerede længe har
+haft en nogenlunde fuldstændig
+Dødsaarsagsstatistik, mangler andre en saadan; saaledes
+omfatter denne Statistik i Danmark kun
+Bybefolkningen, idet der paa Landet kan benyttes læge
+Ligsynsmænd, hvorved de af disse udstedte
+Dødsattester ikke kan give paalidelig Oplysning
+om Dødsaarsagen.
+
+I hosstaaende Tabel 8 er anstillet en
+Sammenligning mellem Bet. af 4 forsk. Hovedgrupper af
+Dødsaarsager i 10 forsk. Lande. Tallene angiver
+efter Erfaringerne i Femaaret 1906-10
+Antallet af Døde pr 100000 Indb. Tillige er anført det
+samlede Antal Døde pr 100000 Indb., d. v. s.
+den summariske Dødelighedskvotient, og
+Landene er ordnede efter denne Kvotients Størrelse.
+Som det fremgaar af Tallene, gør denne Tabel
+imidlertid kun Bede for Dødsaarsagen imellem
+Trediedelen og Halvdelen af samtlige Dødsfald.
+I de øvrige Tilfælde er Dødsaarsagen enten af
+forholdsvis ringe Bet. ell. maa betragtes som
+saa usikkert betegnet, at en Sammenligning ikke
+kan foretages.
+
+Tabel 8. Antallet af Dødsfald pr 100000 Indb.
+i Tiden 1906-10, foraarsagede ved
+
+<table>
+<td c>i<td c>Tuberkulose af enhver Art<td c>Kræft af enhver art<td c>Bronchitis, Lungebetændelse o. lgn. Sygdomme<td c>Selvmord<td c>Samlet Antal Dødsfald pr. 100000 Indb.
+<td>Norge<td r>240<td r>97<td r>150<td r>5<td r>1384
+<td>Danmark<td r>162<td r>136<td r>209<td r>22<td r>1428
+<td>Holland<td r>175<td r>103<td r>243<td r>7<td r>1432
+<td>England-Wales<td r>157<td r>94<td r>256<td r>10<td r>1470
+<td>Schweiz<td r>247<td r>126<td r>212<td r>22<td r>1602
+<td>Frankrig<td r>221<td r>76<td r>276<td r>22<td r>1918
+<td>Tyskland<td r>207<td r>78<td r>262<td r>22<td r>1991
+<td>Japan<td r>202<td r>61<td r>302<td r>17<td r>2081
+<td>Italien<td r>167<td r>64<td r>403<td r>8<td r>2122
+<td>Østerrig-Ungarn<td r>305<td r>78<td r>213<td r>18<td r>2237
+</table>
+
+For Danmarks Vedk. findes som ovf. nævnt
+ingen Dødsaarsagsstatistik, der omfatter hele
+Landet, derimod foreligger der for
+Bybefolkningen Tabeller over Dødsaarsagerne for hvert af
+Aarene fra 1860. I Tabel 9 er anført nogle Tal
+til Belysning af den Rolle, som 4 Hovedgrupper
+af Sygdomme, der forekommer saa hyppigt, at
+de har befolkningsstatistisk Interesse, har

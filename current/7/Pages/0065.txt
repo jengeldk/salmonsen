@@ -1,0 +1,124 @@
+reciproke Værdi af Modstanden i Ohm af en
+Terning paa 1 cm<sup>3</sup> (smlg. <sp>elektrisk
+Ledningsmodstand</sp>). Ang. Bestemmelse af σ,
+se <sp>Elektrolyters Ledningsevne</sp>.
+Divideres σ med Koncentrationen (maalt ved
+Antallet af Gramækvivalenter i 1 cm<sup>3</sup> af
+Opløsningen), faas Ækvivalentledningsevnen Λ,
+der kun er afhængig af Dissociationsgraden og
+Ionernes Bevægelighed, altsaa for en bestemt
+Elektrolyt proportional med Dissociationsgraden.
+For en uendelig stærkt fortyndet Opløsning maa
+Dissociationen være fuldstændig, da Ionernes
+indbyrdes Afstande bliver saa store, at de ikke
+paavirker hverandre; den dertil svarende
+Ækvivalentledningsevne betegnes ved Λ∞. For de
+godt ledende og altsaa stærkt dissocierede (de
+»stærke«) Elektrolyter (mange Salte og de
+stærke Syrer og Baser) kræves der ikke urimelig
+stor Fortynding for praktisk talt at naa denne
+Værdi. For en anden Koncentration faas da
+Dissociationsgraden som Forholdet Λ: Λ∞. (Den
+saaledes bestemte Dissociationsgrad passer ret
+godt med de ad andre Veje, f. Eks. ved Maaling
+af osmotisk Tryk ell. af de derved bestemte fys.
+Egenskaber, fundne, smlg. <sp>Ionteori</sp>). Flg.
+Tabel, der gælder for Klorkalium (KCl), skal
+give en Forestilling om Dissociationsgradens
+Variation med Koncentrationen, maalt ved
+Antal Gramækvivalenter i Literen.
+Tilnærmelsesvis gælder Tabellen for alle andre Salte af
+monovalente Ioner, da de alle er nogenlunde lige
+stærkt dissocierede. Dog har <sp>Bjerrum</sp> nylig
+paapeget, at meget tyder paa, at de stærke
+Elektrolyter altid er praktisk talt fuldstændig
+dissocierede, selv i koncentrerede Opløsninger;
+Variationen i Ledningsevne og de andre
+Egenskaber, som man hidtil har forklaret ved at antage
+Forandring i Dissociationsgraden med
+Koncentrationen, skyldes da Ionernes gensidige
+Indvirkninger.
+
+<table>
+<td>Koncentration<td>Dissociationsgrad
+<td>1<td>0,75
+<td>0,1<td>0,85
+<td>0,01<td>0,93
+<td>0,001<td>0,97
+<td>0,0001<td>0,99
+</table>
+
+Betydeligt svagere dissocierede er Salte, der
+som ZnSO<sub>4</sub> og CuSO<sub>4</sub> spaltes i 2 divalente Ioner;
+saaledes er Dissociationsgraden for disse Salte
+for Koncentrationen 1 kun c. 25 %. Bl. Syrerne
+og Baserne med monovalente Ioner træffes
+meget store Forskelligheder; nogle som Saltsyre ell.
+Kalium- og Natriumhydroxyd er lige saa stærkt
+dissocierede som de førstnævnte Salte, medens
+mange især organiske Syrer, som Eddikesyre,
+ell. svage Baser som Ammoniak kun er yderst
+svagt dissocierede (for Koncentrationen 0,1 kun
+et Par Procent). For Stoffer, der som Svovlsyre
+spaltes i mere end 2 Ioner, kan simple Regler
+ikke angives; her er Mulighed for trinvis
+Dissociation.
+
+Selve Ledningsfylden σ vokser for
+fortyndede Opløsninger med Koncentrationen, da i
+Beg. Koncentrationsforøgelsen virker stærkere
+end den formindskede Dissociation, men
+Tilvæksten bliver langsommere og langsommere,
+saa at σ for de Stoffer, der er tilstrækkelig
+opløselige, naar et Maksimum, hvorfra den igen
+aftager. For Svovlsyre-Vandblandinger ligger
+Maksimum af σ ved 30 % Svovlsyre; for
+stærkere Syrer aftager σ igen hurtigt, og for ren
+Svovlsyre er den som omtalt overordentlig lille.
+Tabel over σ for nogle vigtige Elektrolyter
+findes i Art. <sp>Elektrolyters
+Ledningsevne</sp>.
+
+Hvad Ionernes Bevægelighed angaar, faas
+Forholdet mellem Anionens og Kationens
+Hastigheder ved at bestemme de før omtalte
+Koncentrationsændringer, som ledsager Strømmens
+Gennemgang; dette blev allerede gjort af
+Hittorf. Sammenhængen oplyses af den skematiske
+Fig. 5. I skal fremstille den opr. Opløsning med
+8 positive og 8 negative Ioner; Anoden befinder
+sig ved <i>A</i> og Katoden ved <i>K</i>; det midterste af
+Vædsken tænkes afgrænset ved f. Eks. to porøse
+Skillevægge. Vi tænker os først, at Anion og
+Kation gaar lige hurtigt. II viser da Forholdet,
+naar Strømmen har gaaet saa længe, at en Ion
+af hver Slags er passeret igennem Skillevæggene;
+der er da blevet udskilt 2 Ioner ved hver af
+Elektroderne; Opløsningen i Midten er
+uforandret, men omkr. Elektroderne er den blevet
+fortyndet, og lige stærkt ved begge, thi i
+St f. 3 Ioner findes der nu kun 2 af hver Slags.
+III viser Forholdet, naar Kationen gaar
+dobbelt saa hurtigt som Anionen, og naar
+Strømmen har gaaet saa længe (fra Tilstanden I), at
+en Anion og altsaa 2 Kationer har passeret
+Skillevæggene. Der er da udskilt 3 Ioner ved
+hver af Elektroderne; Opløsningen i Midten er
+stadig uforandret, men nu er Opløsningen
+blevet stærkere fortyndet ved Anoden end ved
+Katoden, idet der er forsvundet 2 Ioner ved <i>A</i>
+mod kun 1 ved <i>K</i>. Det indses, at i alle Tilfælde
+er Forholdet mellem Anionens og Kationens
+Hastighed lig Forholdet mellem
+Koncentrationsformindskelsen ved Katoden og ved Anoden.
+Her er dog forudsat, at de Ioner, der har
+afgivet deres Ladning, udskilles; hvis man f. Eks.
+elektrolyserer CuSO<sub>4</sub> mellem Kobberelektroder,
+vil de ved Anoden udskilte SO<sub>4</sub>-Ioner forene sig
+med Kobberet og gendanne CuS0<sub>4</sub>, saa at
+Opløsningen tværtimod vil blive mere koncentreret
+ved Anoden; begge Koncentrationsændringerne
+iagttages særlig let netop i dette Tilfælde.
+
+<img>Fig. 5.</img>
+

@@ -1,0 +1,161 @@
+<table>
+<td c>- -<td><td c>- -
+<td>SO<td><sub>4</sub>-Ionerne ikke kan udskilles, faas kun <td>O-,
+</table>
+<table>
+<td><td c>-<td>
+<td>eventuelt <td>OH<td>-Ioner, saa at Processen ikke er den
+</table>
+tidligere beskrevne, men en heftig E. bliver
+rigtignok (især ved smaa Elektroder) først
+mulig, naar Spændingen er stor nok til at
+udskille ogsaa S0<sub>4</sub>-Ioner, de eneste, der findes
+nok af. (<sp>Litt</sp>.: <sp>Nernst</sp>, »Theoretische
+Chemie«, 7. Udg. [Stuttgart 1913];
+<sp>Müller-Pouillet</sp>, »Lehrbuch der Physik und
+Meteorologie«, 10. Udg., Bd IV, 1. [Braunschweig
+1909]).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Elektrolyt">
+<b>Elektrolyt</b> er en Vædske, der leder den
+elektriske Strøm, og som indeholder positive og
+negative Ioner. Vædsken kan enten være en
+ren kem. Forbindelse, f. Eks. et smeltet Salt,
+ell. en Opløsning. De almindeligste E. er
+vandige Opløsninger af Syrer, Baser ell. Salte.
+Se <sp>Elektrolyse</sp> og <sp>Opløsningers
+Teori</sp>.
+<i>K. E.</i>
+</chapter>
+
+<chapter name="Elektrolyters Ledningsevne">
+<b>Elektrolyters Ledningsevne.</b> Her skal kun
+omtales <sp>Maaling af E. L.</sp>; i øvrigt henvises
+til <sp>Elektrolyse</sp>. Maalingen, der principielt
+ikke er forsk. fra anden Modstandsmaaling (se
+<sp>elektrisk Ledningsmodstand</sp>),
+kompliceres ved den elektrolytiske Polarisation, som
+altid vil frembringes af den til Maalingen
+anvendte elektriske Strøm, og som vil bevirke en
+tilsyneladende Forøgelse af Modstanden, som
+er denne uvedkommende. Polarisationens
+Indflydelse kan undgaas ved at bruge flyttelige
+plane Elektroder i f. Eks. et rektangulært Kar
+og kun maale Modstandsforandringen ved en
+Flytning af Elektroderne, da Polarisationen ikke
+forandres derved. Den undgaas dog nu næsten
+altid ved efter <sp>Kohlrausch</sp> til Maalingen
+at anvende Vekselstrøm, i Reglen fra et lille
+Induktorium. Hvert Strømstøds Polarisation
+ophæves da af det efterfølgende modsat rettede.
+Maalingen kan foretages paa de sædvanlige
+Maader ved Sammenligning med
+Normalmodstande, f. Eks. ved Hjælp af en Wheatstone's
+Bro, idet man som Nulinstrument dog ikke kan
+bruge et Galvanometer, men oftest anvender en
+Telefon, der giver en hørlig Lyd selv for en
+meget svag Vekselstrøm. Elektrolyten anbringes
+i et Kar med Elektroder af Platin, i Reglen
+overtrukne med Platinsort for at forøge
+Overfladen og derved yderligere formindske
+Virkningen af en eventuel lille Polarisation. Karrene
+kan have mange Former, se Fig. 1-3. Kun ved
+Maaling af meget slet ledende Vædsker, altsaa
+yderst fortyndede Opløsninger, bruges blanke
+Elektroder, der er lettere at holde rene, her
+hvor de mindste Urenheder kan forøge
+Ledningsevnen betydeligt; hertil bruges Formen
+Fig. 1.
+
+I Reglen søges Modstandsfylden ρ,
+Modstanden i Ohm i en Terning paa 1 cm<sup>3</sup> af
+Elektrolyten, eller Ledningsfylden σ, den reciproke
+Værdi af ρ. Men en geom. Udmaaling af
+Karrets Dimensioner er sjældent mulig med større
+Nøjagtighed. Man bestemmer derfor først
+Modstanden i Karret af en Elektrolyt med kendt
+Ledningsfylde og beregner deraf Karrets
+Modstandskapacitet, den Modstand, en Vædske med
+ρ=1 vilde have i Karret. Som Normalvædsker
+bruges f. Eks. en mættet Kogsaltopløsning (σ
+=0,216 ved 18°), en mættet Gipsopløsning (σ=
+0,00189 ved 18°) o. fl. Den sidste bruges til Kar
+til slet ledende Vædsker. En Ulempe ved alle
+Maalingerne er den stærke Variation af ρ og σ
+med Temp.
+
+Tabel over σ for nogle Elektrolyter ved 18° C.;
+hvor Opløsningens Koncentration ikke er
+angivet, er den 10 %; Enheden er reciproke Ohm.
+
+<table>
+<td>H2SO<sub>4</sub><td>(Svovlsyre)<td>0,392
+<td c>»<td>bedst ledende (30 %)<td>0,740
+<td>HCl<td>(Saltsyre)<td>0,630
+<td c>»<td>bedst ledende (18 %)<td>0,787
+<td 2>NaOH (Natriumhydroxyd)<td>0,309
+<td 2>NaCl (Kogsalt)<td>0,121
+<td>ZnSO<sub>4</sub><td>(Zinksulfat)<td>0,032
+<td c>»<td>bedst ledende (23 %)<td>0,048
+<td 2>Alm. destilleret Vand<td>2 · 10<sup>÷6</sup>
+<td 2>Reneste Vand<td>0,04 · 10<sup>÷6</sup>
+</table>
+<i>H. M. H.</i>
+
+<img>Fig 1.</img>
+
+<img>Fig 2.</img>
+
+<img>Fig 3.</img>
+</chapter>
+
+<chapter name="elektrolytisk Celle">
+<b>elektrolytisk Celle,</b> et Kar, hvori
+Elektrolyse foretages.
+</chapter>
+
+<chapter name="elektrolytiske Processer">
+<b>elektrolytiske Processer</b> faar,
+efterhaanden som Kendskabet til Elektrokemien uddybes
+og som Muligheden for at fremskaffe
+Elektricitet til en meget billig Pris vokser, en stadig
+stigende Bet. inden for den tekn. Kemi, en hel
+Række Fabrikationer er ved Elektrolysens Hjælp
+undergaaet revolutionerende Ændringer. Se
+navnlig ang. Elektrolysens Bet. for den kem. Industri:
+<sp>Kaliumklorat</sp>, <sp>Klor</sp>, <sp>Natronhydrat</sp>
+og <sp>Soda</sp>, endvidere
+<sp>Elektrometallurgi</sp>.
+<i>Carl J.</i>
+</chapter>
+
+<chapter name="elektrolytisk Polarisation">
+<b>elektrolytisk Polarisation.</b> Under
+<sp>Elektrolyse</sp> er omtalt, at Ohm's Lov i Reglen
+ikke gælder for den elektriske Strøms
+Gennemgang gennem en Elektrolyt; Aarsagen hertil er
+den e. P., den modelektromotoriske Kraft, der
+opstaar p. Gr. a., at Elektroderne
+<sp>polariseres</sp> (smlg. <sp>elektromotorisk Kraft</sp>), og
+som bevirker, at den elektriske Strøm afgiver
+den Energi, som bruges til Elektrolytens
+Sønderdeling. Vi betragter som Ekspl.
+Vandsønderdelingen, Elektrolyse af fortyndet Svovlsyre med
+Platinelektroder. Lige i det Øjeblik Strømmen
+sluttes, vil Strømstyrken i have den Værdi, der
+beregnes efter Ohm's Lov af det anvendte
+Elements elektromotoriske Kraft <i>E</i> og den
+samlede Modstand <i>r</i> i Element, Ledning og
+<table>
+<td v2>Elektrolyt, nemlig <i>i</i> =<td><i>E</i><td v2>, men den synker næsten
+<td><i>r</i>
+</table>
+øjeblikkelig til en bestemt lavere Værdi, fordi
+der udskilles Ilt paa Anoden og Brint paa
+Katoden; derved bliver Elektroderne polariserede,
+bliver som to forsk. Metaller, anbragte i
+Elektrolyten. I det derved dannede
+Ilt-Brint-Element er Iltelektroden (Anoden) positiv Pol, saa
+

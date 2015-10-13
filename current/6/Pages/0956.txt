@@ -1,0 +1,139 @@
+staaende ved disse <sp>teoretiske
+Definitioner</sp> af dem. Enhederne er jo nemlig ikke
+definerede med større Nøjagtighed end den;
+hvormed de absolutte Maalinger, som kræves af
+deres Definitioner, kan udføres, men man kan
+sammenligne forsk. Strømme ell. forsk.
+Modstande indbyrdes med betydelig større
+Nøjagtighed; derfor maa man have Enhederne defineret
+nøjagtigere. Tilmed er det overordentlig
+vanskeligt at bruge disse Definitioner. Maaling af
+en Strøm i Ampère (ell. absolutte Enheder),
+der f. Eks. maa gøres med Tangensboussolen
+(s. d.), kræver saaledes nøjagtige Udmaalinger af
+dennes Dimensioner, Bestemmelse af
+Jordmagnetismens Intensitet paa Stedet o. s. v.,
+altsammen vanskelige Bestemmelser, og endnu
+ugunstigere stiller det sig for absolut
+Modstandsmaaling. Forholdet er analogt ved Længde- og
+Vægtenheden. 1 m er opr. defineret som en
+bestemt Brøkdel af Jordkvadrantens Længde
+og 1 kg som Vægten af et bestemt Rumfang
+Vand, men disse Definitioner er ogsaa
+ubrugelige i Praksis; Enhederne defineres nu ved
+de internationale Prototyper, en bestemt
+Maalestok og et bestemt Vægtlod af meget nær de
+teoretisk rigtige Størrelser (se <sp>Metersystemet</sp>).
+For de e. M. har man imidlertid ikke valgt at
+fastslaa Prototyper, hvilket maaske nu kunde
+have ladet sig gøre for Ohmen og Volten, men
+man har valgt at give saadanne <sp>praktiske
+Definitioner</sp>, at Enhederne let og med
+stor Nøjagtighed lader sig reproducere overalt.
+Hertil blev Grunden ogsaa lagt ved den omtalte
+Kongres, og denne Fremgangsmaade er stadig
+udviklet, om end med nogen Vaklen, paa de flg.
+Kongresser.
+
+Ampèren defineres ved
+<sp>Sølvvoltametret</sp> (se <sp>Elektrolyse</sp>) som den
+Strømstyrke, der i 1 Sek. udfælder 1,118 mg Sølv af
+en Sølvopløsning; alle de Forhold, der her
+kommer i Betragtning, er nøje fastslaaede i den
+internationale Definition. (En Coulomb er da
+den Elektricitetsmængde, som udfælder 1,118 mg
+Sølv; et Voltameter er egl. et Coulombmeter,
+der for at give Strømstyrken tillige kræver en
+Tidsmaaling, og Strømstyrken maa være
+konstant i længere Tid). Tallet 1,118 er saaledes
+bestemt, at Ampèren svarer saa nøje som
+muligt til den teoretiske Definition; det er fundet
+ved at maale samme Strøm med
+Sølvvoltametret og ved dens magnetiske Virkninger (ved
+Tangensboussole ell. Strømvægt). Dette Tal har
+været uforandret, siden det (ved Kongressen i
+Chicago 1893) blev fastslaaet som Ampèrens
+Definition; paa Kongressen i 1908 vedtog man dog
+at erstatte det med 1,11800 for derved at
+udtrykke, at man ikke agter at forandre
+Definitionen af Ampèren, selv om nøjagtigere
+Bestemmelser skulde føre til en lidt anden Værdi.
+Betydningen heraf er altsaa, at en (international)
+Ampère ikke længere er defineret som 1/10
+absolut Enhed, men ved det Sølv, den kan
+udfælde; det samme gælder de flg. Enheder. I de
+fleste Staters Lovgivning omtales da heller ikke
+de teoretiske Definitioner, men kun de
+praktiske. For øvrigt er Tallet 1,118 utvivlsomt meget
+nær rigtigt; de nyeste Bestemmelser har givet
+1,11804.
+
+Hvad Modstandsenheden angaar, var før 1881
+to Enheder i Brug, Siemens' Enhed, der var
+Modstanden i en 1 m lang Kviksølvsøjle, 1 mm<sup>2</sup>
+i Tværsnit og af Temp. 0°, og <i>British
+Association</i>'s Enhed (B. A. U.), der skulde være lig 10<sup>9</sup>
+Gange den absolutte Enhed, altsaa lig vor Ohm,
+men man vidste, den havde en betydelig Fejl.
+Den første ganske vilkaarlige Enhed havde den
+Fordel at være let og sikkert reproducerbar.
+1881 vedtog man derfor, at en Ohm skulde
+repræsenteres af Modstanden i en
+<sp>Kviksølvsøjle</sp>, og at en international Kommission
+skulde fastslaa ved Forsøg, hvor lang denne
+skulde være. I Kommissionen var <sp>L. Lorenz</sp>
+dansk Medlem; den af ham angivne Metode til
+absolut Modstandsmaaling, hvormed han
+udførte fl. absolutte Ohmbestemmelser, anses nu
+alm. for den bedste. 1884 forelaa der allerede
+en Række Ohmbestemmelser, som imidlertid
+ikke stemte synderlig godt overens; man enedes
+da om, at 1 Ohm skulde repræsenteres af
+Modstanden i en Kviksølvsøjle, 106 cm lang, 1 mm<sup>2</sup>
+i Tværsnit og af Temp. 0°. Den saaledes
+definerede Ohm kaldes den legale. Det viste
+sig dog snart, at 106 cm var for kort; 1893
+ændredes derfor den praktiske Definition af
+Ohmen derhen, at Længden skulde være 106,3 cm.
+Denne Ohm kaldes den <sp>internationale</sp>.
+1908 ændredes Tallet for Længden til 106,300 cm
+af samme Grund som for Ampèren; samtidig,
+fastsloges Søjlens Vægt i St f. dens Tværsnit.
+En international Ohm er altsaa nu bestemt som
+Modstanden i en Kviksølvsøjle af konstant
+Tværsnit, af Længde 106,300 cm, af Vægt 14,4521 g og
+af Temp. 0°. Udtrykt i denne Enhed er den
+legale Ohm 0,9972 Ohm, 1 Siemens = 0,9407 Ohm
+og 1 B. A. U. = 0,9866 Ohm. Den internationale
+Ohm stemmer ikke fuldt saa godt med sin
+teoretiske Værdi som Ampèren, idet en
+Ohmbestemmelse, der nylig er udført i London med
+et med overordentlige Midler udført
+Lorenz-Apparat, har givet, at Kviksølvsøjlen skulde
+have været 106,215 cm lang for at være 10<sup>9</sup> Gange
+den absolutte Enhed; den internationale Ohm
+er altsaa c. 1/2 ‰ for stor, men som nævnt
+agtes Definitionen alligevel ikke mere ændret.
+
+Da heller ikke en Kviksølvsøjle er særlig
+bekvem at arbejde med, bruges ved
+Modstandsmaaling næsten altid sekundære Normaler,
+Normalmodstande ell. Modstandskasser, der er
+afpassede ved Sammenligning gennem fl. ell. færre
+Led med en Kviksølvmodstand (se <sp>elektrisk
+Ledningsmodstand</sp>). Disse laves af
+Manganin, saa at deres Modstand er næsten
+uafhængig af Temp. Man har nu saa lang Tids
+Erfaring med saadanne
+Manganin-Normalmodstande, at man tør regne, at de besidder en
+overordentlig høj Grad af Konstans, saa at de
+i og for sig godt kunde bruges som Prototyper
+til at definere Modstandsenheden. Det gør de
+næsten ogsaa i Praksis, for saa vidt som de
+offentlige Prøveanstalter som Repræsentant for
+deres Modstandsenhed bruger Middelværdien af
+et større Antal saadanne Normalmodstande, der
+opbevares og bruges med al tænkelig
+Forsigtighed. De er opr. sammenlignede med
+Kviksølvmodstande, og denne Sammenligning gentages,
+med Mellemrum.

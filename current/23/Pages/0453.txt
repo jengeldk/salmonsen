@@ -1,0 +1,108 @@
+1906. Efter en af disse to Anvisninger, der begge
+leder til samme Udtryk for Vandstanden,
+beregnes nu Vandstandsobservationer optegnede
+af registrerende Mareografer, opstillede i visse
+Havne, og paa Grundlag af de saaledes
+tilvejebragte Konstanter udregnes der
+Tidevandstabeller, der udgives aarlig af de større
+søfarende Nationer (fra 1833 i England, 1839 i
+Frankrig, 1853 i De forenede Stater, 1878 i Tyskland)
+og angiver for disse Havne for hver Dag i
+Aaret Højvandets Indtræden samt for en
+Del andre Havne Havnetiden samt
+Flodhøjdens Størrelse ved Spring og Nip. Blandt
+disse Tabeller er de amerikanske <i>Tide
+tables</i> og de af det engelske Admiralitet
+udgivne de righoldigste (I udkommer hvert
+Aar, II indeholder de vigtigste Konstanter for
+de større Havne over hele Jorden og udkommer
+som Regel hvert 5. Aar). Til Forudberegningen
+er der konstrueret særegne Maskiner. Den
+første blev udtænkt af Lord Kelvin 1872 og
+færdigbygget 1876. Den befinder sig nu i South
+Kensington Museum. En anden Maskine blev
+konstrueret af E. Roberts og er brugt i mange
+Aar til Forudberegning af T. i Indien. Den er
+i London (<i>National Physical Laboratory</i>). 1881
+konstruerede Ferrel en Maskine, benyttet i
+Amerika til Beregning af T.-Tabellerne
+1883—1910; den blev 1910 afløst af en ny og større
+Maskine. I Tyskland har man i Hamburg en
+Maskine af nyeste Konstruktion fra 1919. Ved
+Siden af disse Tidevandstabeller er der i
+enkelte Havne opsat egne Apparater, hvorpaa
+man direkte kan aflæse den i Øjeblikket
+stedfindende Vandstand i Forhold til Højvandets
+Indtræden samt Flodhøjden. De beregnede
+Tabeller forudsætter roligt Vejr og
+Middelbarometerstand. Paa stormfulde Dage med lav
+Barometerstand kan derfor T.'s Indtræden og
+Flodhøjden komme til at afvige betydeligt fra
+det forud beregnede. Lav Barometerstand
+betinger høj Vandstand og omvendt. For at faa
+en Oversigt over Flodbølgens Vandring over
+Oceanet har man efter Whewell trukket Linier
+gennem de Steder, som har Højvande ved Ny-
+ell. Fuldmaane i samme absolutte Tid,
+almindelig Klokkeslæt i Maanedøgnet gældende for
+Greenwich Meridian; disse Linier benævnes
+<sp>Isorachier</sp> (af Berghaus) eller med et
+engelsk Udtryk: <i>cotidal lines</i> (af Whewell); man
+vil finde saadanne Kort dels som Generalkort
+gældende for den hele Jord, dels som
+Specialkort gældende for et mindre Omraade, f. Eks.
+Nordsøen (»Atlas der Gezeiten und
+Gezeitenströme für das Gebiet der Nordsee und der
+Britischen Gewässer«, Hamburg 1921), optagne
+i de større fysikalske Atlasser og i de ovenfor
+nævnte <i>Tide tables</i>. Studerer man nærmere
+Anordningen af disse <i>cotidal lines</i>, vil man
+finde, at denne sine Steder er afhængig af
+Havdybet og følger denne; dette benævnes
+Orthochroni. Er den derimod uafhængig af
+Havdybet, benævnes denne for Pseudochroni, men
+her skelner man mellem følgende Forhold: 1)
+<i>cotidal lines</i> ligger langt fra hinanden ɔ:
+Eurochroni; det ekstreme Tilfælde, at der er større
+Flader, som har samme Havnetid, benævnes:
+Homochroni; 2) de ligger tæt ind paa
+hverandre ɔ: Stenochroni.
+
+I Danmark og Norge har der gennem
+længere Tid været holdt i Gang registrerende
+Vandstandsmaalere i en Del Havne. Det
+derved erhvervede Materiale til Studiet af T. paa
+Danmarks og Norges Kyst er blevet bearbejdet
+efter den harmoniske Analyse, i Danmark af
+Dr. Crone for det meteorologiske Institut,
+
+<table>
+<td v2 2><td c>Middelvandstand<td c>Flodhøjde<td c>Springflod<td c>Nipflod<td 2 c>Gennemsnitlig<br>Havnetid<td c>Springflodens<br>Indtræden
+<td c>cm<td c>cm<td c>cm<td c>cm<td c>T.<td c>Min.<td c>Dage
+<td v10>Danske<br>Havne<td>Esbjerg<td>— 20<td r>120<td r>148<td r>91<td r>1<td r>59<td r>+ 2,7
+<td>Hirtshals<td>— 29<td r>22<td r>28<td r>15<td r>4<td r>0<td r>— 1,9
+<td>Frederikshavn<td>— 28<td r>24<td r>31<td r>18<td r>5<td r>33<td r>— 2,0
+<td>Aarhus<td>— 27<td r>27<td r>36<td r>19<td r>10<td r>31<td r>— 1,4
+<td>Fredericia<td>— 26<td r>23<td r>30<td r>17<td r>11<td r>32<td r>— 1,6
+<td>Korsør<td>— 22<td r>22<td r>28<td r>15<td r>0<td r>21<td r>— 0,9
+<td>Slipshavn<td>— 25<td r>24<td r>32<td r>16<td r>0<td r>5<td r>— 1,0
+<td>Gjedser<td>— 24<td r>7<td r>9<td r>6<td r>6<td r>36<td r>+ 0,7
+<td>Hornbæk<td>— 23<td r>14<td r>18<td r>9<td r>8<td r>58<td r>— 1,5
+<td>Kjøbenhavn (Fortet Prøvesten)<td>— 22<td r>3<td><td><td r>9<td r>44<td r>— 1,1
+<td v4 c>Islandske<br>Havne><td>Thorshavn<td>+<td r>21<td r>32<td r>10<td r>6<td r>8<td r>+ 0,8
+<td>Reykjavik<td>+<td r>275<td r>404<td r>147<td r>4<td r>23<td r>+ 2,0
+<td>Stykkisholm<td>+<td r>285<td r>394<td r>177<td r>5<td r>15<td r>+ 1,2
+<td>Havnefjord<td>+<td r>251<td r>350<td r>152<td r>4<td r>48<td r>+ 1,6
+<td>Færøerne:<td>Seydisfjord<td>+<td r>97<td r>131<td r>62<td r>0<td r>8<td r>+ 1,8
+<td v2 c>Grønlandske<br>Havne<td>Nennortalik<td>+<td r>177<td r>252<td r>102<td r>5<td r>34<td r>+ 1,7
+<td>Godthaab<td>+<td r>272<td r>366<td r>178<td r>6<td r>39<td r>+ 1,5
+<td v9 c>Norske<br>Havne<td>Oslo<td>+ 11<td r>22<td r>30<td r>15<td r>4<td r>50<td r>— 4,4
+<td>Drøbak<td>— 13<td r>28<td r>38<td r>18<td r>4<td r>28<td r>— 3,7
+<td>Arendal<td>— 3<td r>17<td r>22<td r>11<td r>3<td r>26<td r>— 3,7
+<td>Stavanger<td>+ 15<td r>29<td r>42<td r>16<td r>9<td r>46<td r>+ 2,0
+<td>Bergen<td>+ 8<td r>88<td r>119<td r>56<td r>10<td r>16<td r>+ 1,5
+<td>Bodø<td>— 112<td r>173<td r>233<td r>113<td r>12<td r>17<td r>+ 1,6
+<td>Fineide<td><td r>106<td r>136<td r>75<td r>1<td r>58<td r>+ 2,0
+<td>Kabelvaag<td>+ 11<td r>182<td r>247<td r>116<td r>0<td r>8<td r>+ 1,6
+<td>Vardø<td>+ 143<td r>201<td r>257<td r>145<td r>5<td r>38<td r>+ 1,8
+</table>

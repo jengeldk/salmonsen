@@ -1,0 +1,122 @@
+i Lampen. Paa dette e. l. Princip er baseret
+en Rk. Systemer og Opfindelser, af hvilke fl.
+har vundet Udbredelse, og som kan anvendes
+baade til indendørs Belysning af større
+Etablissementer (Butikker, Restaurationer o. l.) og
+til Gade- ell. Pladsbelysning.
+
+De forsk. Metoder kan deles i
+
+1) <sp>Presgas</sp> (<sp>Trykgas</sp>), hvor Gas føres
+ind i en Kompressor, der sender den videre til
+Lamperne under et Tryk fra 200—1400 mm
+Vandsøjle efter Systemets Art (Keith-Lys,
+Milleniumslys, Pharos-Lys m. fl.).
+
+2) <sp>Presluftgasanlæg</sp>, hvor de enkelte
+Lamper faar Gas tilledet under alm. lavt Tryk,
+men der ledes en Strøm af komprimeret Luft
+til Lampen; herved rives G. med, og der
+foregaar en intensiv Blanding. Ved denne Art
+Anlæg kan alm. Lamper og Lamper med Presgas
+bruges i Flæng, Forskellen er blot, at kun de
+sidstnævnte faar Tilslutning til
+Trykluftledningen. Presluftgasanlæg egner sig bedst i de
+Tilfælde, hvor det gælder om under samme
+Anlæg at samle forsk. Konsumenter, hvis
+Gasforbrug indbyrdes varierer stærkt. Selaslyset (se
+ndf.) egner sig, hvor det gælder mere
+afsluttede Anlæg som Fabrikker o. l.
+
+3) <sp>Selaslyset</sp>, hvor Luft og Gas i
+Forvejen blandes sammen i et passende Forhold
+(1 Gas + 2 Luft ved lavere Tryk [c. 90 mm]
+og 1 Gas + 1 Luft ved højere Tryk indtil c.
+800 mm), og denne Blanding komprimeres saa
+og sendes til Lamperne. Sugningen og
+Blandingen sker med en Elektromotor, Vandmotor e. l.,
+der driver en Blæser, som automatisk gaar i
+Gang, efter som den Gasbeholder bevæger sig,
+hvori den komprimerede Blanding opsamles.
+Ved Anlæg med Tryk paa c. 800 mm bruges en
+Pumpe med Ventiler i St f. Blæseren. Naar
+der ikke bruges Gas, pumpes der i Kredsløb
+(smlg. ndf. ved Milleniumslys).
+
+4) <sp>Systemer uden særlig
+Drivkraft</sp> (Lucas-Lampen, Scott-Snell-Lampen).
+Ved <sp>Lucas-Lampen</sp> er Glasset uden om
+Nettet forlænget med en høj Skorsten, der
+giver saa stor Træk, naar Lampen brænder, at
+Gasluftblandingen suges saa hastig op gennem
+Skorstenen, at Tilbageslag af Flammen
+forhindres, medens samtidig selve Blandingen af
+Luft og Gas bliver mere intensiv i Lampen.
+Ved <sp>Scott-Snell-Lampen</sp> virker den ved
+Forbrændingen udviklede Varme paa en
+tallerkenformet Beholder med et Stempel i, som
+automatisk gaar i Gang, naar Lampen brænder,
+og pumper den Gas, der tilføres, op til et vist
+Tryk.
+
+Som Eksempler paa, hvorledes
+Presgasanlæggene virker, anføres: <sp>Keith-Lyset</sp>. En lille
+Motor, der drives med Vandtryk, er stillet i
+Forbindelse med Husvandledningen paa en
+saadan Maade, at den automatisk gaar i Gang,
+naar en lille Gasbeholder, hvori den
+komprimerede Blanding opsamles, synker p. Gr. a.
+Gasforbruget. Omvendt: naar Beholderen er
+fyldt med komprimeret Gas, spærrer den selv
+af og standser Motoren.
+
+Gastrykket er c. 200 mm og Vandforbruget
+c. 25—40 l pr Kbm Gas.
+
+<sp>Milleniumslyset</sp> (Fig. 18).
+Kompressoren bestaar her af en dobbeltvirkende
+Stempelpumpe, der staar i Forbindelse med en
+gastæt Beholder til Opsamling af Gas. Beholderen
+er ved Skillevæggen <i>b</i> delt i Rummene <i>c</i> og <i>d</i>,
+og gennem den nedhængende Cylinder <i>f</i> er der
+Forbindelse med <i>c</i>. Beholderen er fyldt med
+Vand, evt. blandet med Glycerin, hvis der er
+Farefior, at Vandet kunde fryse.
+
+Stempelpumpen suger fra Gasmaaleren Gas
+md gennem Gummiposen <i>i</i>, trykker Gassen
+videre gennem <i>g</i> ind i Rummet <i>d</i>, hvorved
+Vædsken stiger op mod Svømmeren <i>e</i>. Hvis
+deltages mindre Gas bort til Forbrug (gennem
+Ledning <i>h</i>), end der pumpes ind, saa vil Vædsken
+stadig stige i <i>c</i> og til sidst løfte <i>e</i>, men herved
+trækkes Stangen <i>m</i> op, og de to Ventilkegler
+ved I og II bevæges saaledes, at der kommer
+direkte Forbindelse mellem Stempelets
+Forside og Bagside, saa at der nu pumpes i et
+lille Kredsløb, og efter som I og II aabnes
+mere ell. mindre, løber hele Gasmængden ell.
+kun en Del af den rundt uden at presses til
+Beholderrummet <i>d</i>. Der vil paa denne Maade
+være Regulering tilvejebragt, og Trykket i
+Rørnettet holdes altid ens. Den Maskine, der
+driver Pumpen, er yderligere ved en Regulator
+sat i Forbindelse med Beholderen saaledes, at
+Maskinen standser, naar det rette Tryk er
+naaet, og gaar i Gang, naar det synker under
+en vis Grænse. Ved Milleniumslys kan
+fremstilles Blus med Lysstyrke fra 100—1800
+Hefner-Lys. Trykket er i Reglen c. 1300 mm, og der
+bruges c. 1,0 à 0,8 l Gas (maalt før
+Komprimeringen) pr Time pr Hefner-Lys. Brænderne har
+en særegen Konstruktion, og der bruges et
+dobbelt Glødenet, det ene puttet ind i det andet.
+Tændingen sker med Vaageblus, der om Dagen
+brænder ved alm. Tryk.
+
+<sp>Faros-Lyset</sp> beror paa lgn. Princip som
+Milleniumslyset og er kun forsk. ved den
+Maade, hvorpaa Trykket frembringes. Det har
+i Tyskland vundet en Del Udbredelse.
+
+<img>Fig. 18. Milleniumslys.</img>

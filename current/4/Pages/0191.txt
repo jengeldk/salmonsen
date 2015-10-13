@@ -1,0 +1,137 @@
+B. finder Sted ved en Platintraad, som bringes
+til at gløde ved en elektrisk Strøm, der tilføres
+gennem de isolerede Ledninger <i>a</i> og <i>b</i>.
+Bomben staar i en Beholder med Termometer og
+Omrøreapparat og fyldt med en afvejet
+Vandmængde; for at forhindre, at der under
+Forsøget sker en Varmeudveksling med
+Omgivelserne, er Kalorimetret omgivet med en
+blankpoleret Metalbeholder, der atter er sat ned i en
+dobbeltvægget Kobberbeholder, fyldt med Vand
+af tilnærmelsesvis samme Temp. som Lokalet;
+det hele er dækket med et Laag; i Reglen vil
+det være nødvendigt at foretage en særlig
+Korrektion for den tilførte ell. afgivne
+Varmemængde. Det store Ilttryk er nødvendigt for at
+tilvejebringe en helt igennem fuldstændig
+Forbrænding; i atmosfærisk Luft og i Ilt af lavere
+Tryk vil navnlig visse af Tjærebestanddelene
+i Kullene kun forbrænde højst ufuldstændigt,
+ligesom ogsaa en Kuliltedannelse vanskelig vil
+undgaas, hvorved der i begge Tilfælde vil
+udvikles mindre Varme end ved den fuldstændige
+Forbrænding. Apparatet, der i Reglen
+benævnes Berthelot-Mahler's Kalorimeter, har i de
+senere Aar faaet en meget stor Udbredelse;
+det er let at betjene, og en
+Brændværdibestemmelse kan ved dets Hjælp udføres i omtr. een
+Time; det har derved bidraget meget til, at
+man i vide Kredse inden for Industrien har
+faaet Øjnene op for den store Bet., det har at
+forvisse sig om, at man virkelig faar den størst
+mulige Valuta for de enorme Summer, der
+aarlig udgives til B.; den Tid er maaske ikke
+fjern, da B. ikke mere vil blive solgt efter
+Vægt — det ganske forkastelige Salg af B.
+efter Rummaal, som kun er egnet til at give
+Forbrugerne ganske forkerte Begreber om
+Forholdet mellem et B.'s Pris og Værdi, finder kun
+Sted ved Salg til de mindre Forbrugere —,
+men efter »Millioner Kalorier« e. l. Her skal
+kun tilføjes, at Apparatet ogsaa finder
+Anvendelse ved Bestemmelsen af Brændværdi af
+flydende B., der i saa Tilfælde indesluttes i en
+lille Platindigel, der anbringes ved <i>c</i>; luftformig
+B.'s Brændværdi bestemmes ved Junker's
+Kalorimeter (s. d.) ell. beregnes ud fra en Analyse; dette
+kan her lade sig gøre, da det luftformige B.
+er en ren mekanisk Blanding af i Reglen ret
+faa, simpelt sammensatte kemiske Forbindelser,
+hvis Brændværdier alle kendes meget nøjagtigt,
+og Blandingens Brændværdi kan derfor
+udregnes, naar de procentvise Mængder af
+Bestanddelene først er bestemte.
+
+Som nævnt ovf. angiver Brændværdien en
+Grænseværdi, som i Praksis aldrig vil naas,
+dels p. Gr. a., at Forbrændingen her aldrig vil
+være fuldstændig, dels fordi en Del af den
+udviklede Varme benyttes til Opvarmning af
+Murværket omkring Kedlen, af Røgen, der
+gaar bort gennem Skorstenen, o. s. v.; navnlig
+det saakaldte Skorstenstab vil ofte være meget
+betydeligt, men lader sig ikke undgaa, bl. a.
+fordi det er takket være den opvarmede
+Luftsøjle i Skorstenen, at »Trækken« i Ildstedet
+fremkommer. Ved et Dampkedelanlæg kan man
+ikke paaregne at faa Nytte af mere end 50—60
+% af Brændværdien. Det maa ogsaa erindres,
+at man paa Grund af den Maade, hvorpaa
+Bestemmelsen af Brændværdien udføres, vil
+faa udnyttet til Opvarmning af Vandet i
+Kalorimetret den ikke ubetydelige
+Varmemængde, der frigøres, naar den i
+Brændslet indeholdte Fugtighed og det ved
+Forbrændingen af dets Brintindhold dannede Vand gaar
+over fra at være Vanddamp til flydende Vand,
+medens den tilsvarende Varme ikke vil
+nyttiggøres i et alm. Fyrapparat p. Gr. a.
+Skorstensluftens høje Temp. (mindst 250—300°). Man
+tager ofte i Praksis Hensyn hertil ved at
+fradrage den eksperimentelt bestemte
+Brændværdi 600 Kalorier for hvert kg Vanddamp,
+Forbrændingsprodukterne indeholder, hvilken
+Vandmængde enten kan bestemmes ved Beregning
+ud fra Elementæranalysen, ell. ved at maale
+det i Bomben under Forbrændingen dannede
+Vand. Den ved de to Formler fundne
+Brændværdi er undergaaet denne Reduktion.
+
+Den Temp., et B. kan udvikle ved sin
+Forbrænding, den saakaldte pyrometriske
+Brændværdi, lader sig rent teoretisk beregne ud fra
+den kem. Sammensætning under Forudsætning
+af, at Forbrændingen foregaar i ren Ilt. Man
+kan nemlig da beregne, hvor meget Kulsyre,
+Vand og eventuelt Svovlsyrling der vil dannes,
+og ved at multiplicere disse Mængder med de
+paagældende Stoffers Varmefylde og dividere
+Produkternes Sum ind i Brændværdien, faar
+man den Temp., der vilde opnaas under disse
+Forhold. Imidlertid foregaar Forbrændingen jo
+almindeligvis ikke i ren Ilt, men i Luft, der
+kun indeholder c. 21 Volumenprocent Ilt, og en
+Del Varme medgaar derfor til Opvarmning af
+de c. 79 % Kvælstof, der ledsager Ilten,
+hvorved Temp. vil nedsættes betydelig; Beregningen
+vanskeliggøres dog meget ved, at Varmefylderne
+af de paagældende Luftarter varierer stærkt med
+Temp. og ikke er nøjagtig kendte ved de høje
+Temp., der her er Tale om. En yderligere
+Nedgang i Temp. fremkommer i Praksis derved,
+at man ved fast B., for at opnaa en saa vidt
+muligt fuldstændig Forbrænding, maa lade
+denne foregaa i en Luftmængde, der er langt
+større end den teoretisk nødvendige. For at
+opnaa en saa høj Temp. som muligt, hvilket
+spiller en stor Rolle i Metallurgien, ved
+Glas- og Porcelænsfabrikationen o. a. St., maa man
+derfor arbejde saaledes, at man tilfører B. et
+saa lille Overskud af Luft ud over den teoretisk
+nødvendige Mængde som muligt. Dette i
+Forbindelse med en fuldstændig Udnyttelse af B.
+lader sig lettest opnaa ved Anvendelsen af
+luftformigt B., idet Luften let og fuldstændig
+lader sig blande med dette, saaledes at den
+kommer i Berøring med hver enkelt Del deraf,
+noget, der ved fast B. kun lader sig gøre ved
+Anvendelsen af et meget stort Luftoverskud.
+Det Varmetab, som opstaar ved, at
+Forbrændingsprodukterne gaar i Skorstenen med en vis
+Temp., der ikke kommer den Genstand, der
+skal opvarmes, til gode, er selvfølgelig større,
+jo højere Temp. man søger at opnaa paa selve
+Forbrændingsstedet; i saadanne Tilfælde søger
+man ved at udnytte en Del af Skorstensluftens
+Varme til Forvarmning af B. og af den til
+Forbrændingen nødvendige Luftmængde at naa en

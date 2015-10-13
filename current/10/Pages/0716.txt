@@ -1,0 +1,122 @@
+magnetiske Felts <sp>Variation</sp> med Tiden,
+men derimod af Magnetfeltet selv. Virkningen
+er stærkest, naar Pladen er af Vismut. Er
+Slrømretningen af <i>I</i> den paa Fig. viste, og er
+den betragtede Pol en Nordpol, saaledes at
+altsaa Kraftlinierne gaar vinkelret ud fra
+Papirets Plan, vil ved en saadan Plade
+Strømmen i Galvanometerkredsen gaa i Retningen
+<i>BGD</i>. Lader man enten Feltet ell. Strømmen
+gaa i modsat Retning, skifter ogsaa den
+elektromotoriske Kraft Retning; forandrer man
+baade Felt- og Strømretning, bliver den
+derimod uforandret. Den i Ledningsstykket <i>BD</i>
+fremkaldte elektromotoriske Kraft er pr cm
+lig <i>RjH</i>, hvor <i>H</i> er Magnetfeltets Styrke, <i>j</i>
+Strømtætheden i Pladen, ɔ: Strømmen <i>I</i>
+divideret med Pladens Tværsnitsareal vinkelret
+paa Strømretningen, og <i>R</i> er en Konstant, den
+Hall'ske Konstant. Maales <i>H</i> i absolutte
+magnetiske Enheder, Strøm og elektromotorisk
+Kraft i absolutte elektromagnetiske Enheder,
+bliver <i>R</i> for Vismut 7. Er ved Forsøget
+Feltstyrken f. Eks. 1000 Gauss, Vismutpladens
+Tykkelse 1/20 cm, dens Bredde 2 cm og Strømmen
+10 Ampère lig 1 absolut Enhed, beregnes heraf
+den samlede elektromotoriske Kraft paa hele
+Strækningen fra <i>D</i> til <i>B</i> til 1,4 · 10<sup>5</sup> absolutte
+Enheder lig 1,4 Millivolt, en Størrelse, der let
+kan paavises ved et Galvanometer. Retningen
+af den Hall'ske elektromotoriske Kraft i
+Vismut har man vedtaget at betegne som negativ.
+Denne Retning har Effekten ogsaa i de fleste
+andre Metaller, blot er <i>R</i> gennemgaaende 10<sup>4</sup>
+Gange mindre end i Vismut, hvorfor man til
+Maaling af Effekten maa anvende stærke
+Magnetfelter og meget tynde Plader, i hvilke man
+kan opnaa stor Strømtæthed. I enkelte
+Metaller, f. Eks. Antimon og Jern, har den
+elektromotoriske Kraft dog positiv Retning; i
+sidstnævnte Metal, i hvilket <i>R</i> er c. 1/100, er den
+ikke proportional med Feltstyrken, men med
+Magnetiseringsintensiteten.
+
+Efter Elektronteorien forklares H.-E. ved, at
+den elektriske Strøm <i>I</i> bestaar i en Strøm af
+negative Elektroner i modsat Retning, altsaa
+fra <i>C</i> til <i>A</i>. Disse Elektroner vil paavirkes af
+det magnetiske Felt paa samme Maade som
+Strømelementer og vil derved afbøjes ned mod
+<i>D</i>, saaledes at de drives gennem
+Galvanometerkredsen i Retningen <i>D G B</i>, hvad der er
+ækvivalent med en elektrisk Strøm i modsat
+Retning. Den negative Retning af H.-E. finder
+altsaa sin Forklaring i, at Elektronerne er
+negativt ladede. Den positive Retning, som Effekten
+har i nogle enkelte Metaller, skyldes dog
+sikkert ikke, at Elektronerne i disse er positive,
+da alle Erfaringer andet Steds fra taler imod
+saadanne Elektroners Eksistens. Forklaringen
+maa rimeligvis søges i Paavisningen fra de
+elektriske og magnetiske Atomfelter, som
+Elektronerne bevæger sig i. Da vi foreløbig kun kender
+meget lidt til disse Felter, kan Metallernes
+Elektronteori kun i grove Træk forklare H.-E.
+saavel som de dermed beslægtede Fænomener.
+
+Foruden den Hall'ske elektromotoriske Kraft
+mellem <i>B</i> og <i>D</i> frembringer Magnetfeltet ogsaa
+en Temperatdrforskel mellem disse Punkter,
+den saakaldte <sp>v. Ettinghausen-Effekt</sp>.
+Ved en Vismutplade bliver <i>D</i> varmere end <i>B</i>;
+denner Retning af Effekten betegnes som
+positiv. Temperaturforskellen pr cm i Retningen
+<i>BD</i> kan sættes lig <i>PIH</i>, hvor <i>I</i> og <i>H</i> har
+samme Bet. som ovf. og <i>P</i> er en Konstant, der
+for Vismut har Værdien 3,5 · 10<sup>-6</sup>. Med samme
+Forsøgsbetingelser som ovf. beregnes heraf en
+Temperaturforskel mellem <i>B</i> og <i>D</i> paa 0,07°
+C. Den kan paavises ved at lade et
+Termoelements to Loddesteder isoleret berøre Stederne
+<i>B</i> og <i>D</i>. For Antimon
+er <i>P</i> lig 2 · 10<sup>-6</sup>, men for
+de fleste andre Metaller
+er Effekten saa lille, at
+den vanskelig lader sig
+maale nøjagtigt.
+
+H.-E. og v.
+Ettinghausen-Effekt udgør de
+galvanomagnetiske Tværeffekter. De tilsvarende
+termomagnetiske
+Tværeffekter faar man frem,
+hvis man erstatter den
+elektriske Strøm <i>I</i> med
+en Varmestrøm.
+Varmestrømmen frembringer
+man f. Eks. ved til
+Siderne <i>A</i> og <i>C</i> at have loddet
+to Rør, gennem hvilke der sendes henholdsvis
+Damp og Isvand. Virkningerne er ogsaa her
+stærkest ved en Vismutplade. De bestaar dels
+i en elektromotorisk Kraft — Nernst-Effekten
+— i Retningen <i>DB</i>, hvorved altsaa <i>B</i> faar
+større Spænding end <i>D</i>, dels i en
+Temperaturforskel — Leduc-Effekten —, hvorved Temp. i
+<i>B</i> bliver større end i <i>D</i>. Nernst-Effektens
+elektromotoriske Kraft pr cm kan udtrykkes ved
+<i>Q H</i> <i>T<sub>c</sub></i>—<i>T<sub>a</sub></i>/<i>a</i>, Leduc-Effektens Temperaturfald
+pr cm ved <i>S H</i> <i>T<sub>c</sub></i>—<i>T<sub>a</sub></i>/<i>a</i>, hvor <i>T<sub>c</sub></i> og <i>T<sub>a</sub></i> er
+Temp. af Siderne <i>C</i> og <i>A</i> og <i>a</i> deres indbyrdes
+Afstand, <i>T<sub>c</sub></i>—<i>T<sub>a</sub></i>/<i>a</i> altsaa Temperaturfaldet pr cm
+i Retningen <i>AC</i>, <i>H</i> er Feltstyrken i Gauss, og
+<i>Q</i> og <i>S</i> er Konstanter, der for Vismut er henh.
+0,18 og 5 · 10<sup>-6</sup>. Er Vismutpladen 2 cm i
+Kvadrat, <i>T<sub>c</sub></i>—<i>T<sub>a</sub></i> = 100° og H som ovf. 1000 Gauss,
+beregnes heraf Spændings- og
+Temperaturforskellen mellem <i>B</i> og <i>D</i> til henh. 0,18 Millivolt
+og 0,5° C. I de fleste andre Metaller er
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>

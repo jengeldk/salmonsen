@@ -1,0 +1,141 @@
+<table>
+<td><td c>Købstæder<td c>Landdistr.<td c>Ialt
+<td>Jönköpings Len<td r>69401<td r>161557<td r>230958
+<td>Kronobergs Len<td r>9595<td r>146560<td r>156155
+<td>Kalmar Len<td r>46024<td r>185499<td r>231523
+<td>Gotlands Len<td r>10572<td r>46808<td r>57380
+<td>Blekinge Len<td r>43924<td r>102341<td r>146265
+<td>Kristianstads Len<td r>24301<td r>221477<td r>245778
+<td>Malmöhus Len<td r>249424<td r>259633<td r>509057
+<td>Hallands Len<td r>42217<td r>107770<td r>149987
+<td>Göteborgs og Bohuslen<td r>284889<td r>1691831<td r>454720
+<td>Älvsborg Len<td r>80715<td r>232230<td r>312945
+<td>Skaraborgs Len<td r>46996<td r>196338<td r>243334
+<td>Värmlands Len<td r>45822<td r>223638<td r>269460
+<td>Örebro Len<td r>45370<td r>174629<td r>219999
+<td>Västmanland Len<td r>48989<td r>113073<td r>162062
+<td>Kopparbergs Len<td r>29025<td r>221504<td r>250529
+<td>Gävleborgs Len<td r>58379<td r>221527<td r>279906
+<td>Västernorrlands Len<td r>37504<td r>239858<td r>277362
+<td>Jämtlands Len<td r>14455<td r>119995<td r>134450
+<td>Västerbottens Len<td r>15457<td r>186613<td r>202070
+<td>Norrbottens Len<td r>23496<td r>173914<td r>197410
+<td r>I alt<td r>1970951<td r>4149129<td r>6120080
+</table>
+
+Af den samlede Befolkning var 3007946 Mænd
+og 3112134 Kvinder. For Købstæderne skal
+meddeles følgende Indbyggertal, ligeledes for
+Begyndelsen af 1930.
+<table>
+<td>Stockholm<td r>486672
+<td>Göteborg<td r>241561
+<td>Malmö<td r>119778
+<td>Norrköping<td r>61270
+<td>Helsingborg<td r>55299
+<td>Gävle<td r>39183
+<td>Örebro<td r>37427
+<td>Borås<td r>37062
+<td>Eskilstuna<td r>32273
+<td>Jönköping<td r>30649
+<td>Uppsala<td r>30292
+<td>Västerås<td r>29921
+<td>Linköping<td r>29185
+<td>Karlskrona<td r>26369
+<td>Lund<td r>24240
+<td>Halmstad<td r>23669
+<td>Karlstad<td r>20605
+<td>Kalmar<td r>19392
+<td>Landskrona<td r>18536
+<td>Sundsvall<td r>18014
+<td>Mölndal<td r>17470
+<td>Trollhättan<td r>15509
+<td>Uddevalla<td r>14731
+<td>Södertälje<td r>14513
+<td>Östersund<td r>14455
+<td>Falun<td r>13285
+<td>Kristiansstad<td r>13256
+<td>Trälleborg<td r>12822
+<td>Västervik<td r>12665
+<td>Kristinehamn<td r>12510
+<td>Nyköping<td r>12122
+<td>Härnösand<td r>11769
+<td>Söderhamn<td r>11763
+<td>Ystad<td r>11470
+<td>Lidingö<td r>11283
+<td>Luleå<td r>11258
+<td>Umeå<td r>10869
+<td>Skövde<td r>10628
+<td>Visby<td r>10572
+</table>
+
+Vedrørende Befolkningens Bevægelser skal
+anføres følgende Tal:
+<table>
+<td c>Antal<td c>Ægteskaber<td c>Fødsler<td c>Dødsfald
+<td c>1925<td c>37419<td c>106292<td c>70918
+<td c>1926<td c>38268<td c>102007<td c>71344
+<td c>1927<td c>38999<td c>97847<td c>77120
+<td c>1928<td c>40622<td c>97605<td c>73274
+<td c>1929<td c>41734<td c>92619<td c>74571
+<td 3>pr. 1000 Indb.
+<td c>1925<td c>6,2<td c>17,6<td c>11,7
+<td c>1926<td c>6,3<td c>16,8<td c>11,8
+<td c>1927<td c>6,4<td c>16,1<td c>12,7
+<td c>1928<td c>6,7<td c>16,0<td c>12,0
+<td c>1929<td c>6,8<td c>15,2<td c>12,2
+</table>
+
+Fødselshyppigheden har fortsat den stærke
+Nedgang, saaledes at S. stadig har den laveste
+Fødselspromille i Europa. Udvandringen og
+Indvandringen har de senere Aar været af omtrent
+samme Størrelse; for 1929 er Tallene
+henholdsvis 11019 og 6336.
+</chapter>
+
+<chapter name="Sverige (Samfærdselsmidler)">
+<b>Samfærdselsmidler.</b>
+
+<sp>Jernbanernes</sp> samlede Længde var 16722
+km ved Udgangen af 1929, heraf 6483 km
+Statsbaner, 6456 km normalsporede Privatbaner og
+3783 km smalsporede Privatbaner. Banernes
+Anlægsomkostninger andrager 1900 Mill. Kr.
+(heraf Staten over 1100 Mill. Kr.); Indtægterne
+var 362 Mill. Kr., Udgifterne 293 Mill. Kr.
+Antallet af <sp>Postkontorer</sp> var steget til 321
+i 1929, 3521 Poststationer og 352 Postbureauer i
+Tog eller paa Skibe. Det samlede Personale var
+13000. Indtægterne androg 75 Mill. Kr.,
+Udgifterne 60 Mill. Kr. Antal <sp>Automobiler</sp> var
+i 1929 steget til 136827, heraf 99144
+Personautomobiler, 2511 Omnibusser og 34591
+Lastautomobiler. Desuden 54846 Motorcykler.
+Automobilafgifterne udgjorde 40 Mill. Kr. i 1929, heraf
+den egentlige Motorafgift 14,7 Mill. Kr., Skat
+paa Automobilringe 6,7 Mill. Kr. og Benzinskat
+18,4 Mill. Kr.
+</chapter>
+
+<chapter name="Sverige (Handel og Skibsfart)">
+<b>Handel og Skibsfart.</b>
+
+Handelsomsætningen med Udlandet fremgaar
+af følgende Oversigt.
+<table>
+<td v2><td 2 c>Indførsel<td 2 c>Udførsel
+<td c>1928<br>1000 Kr.<td c>1929<br>1000 Kr.<td c>1928<br>1000 Kr.<td c>1929<br>1000 Kr.
+<td>Kornvarer<td r>156480<td r>125066<td r>22492<td r>21098
+<td>Kolonialvarer<td r>135490<td r>152958<td r>369<td r>272
+<td>Andre Nærings- og Nydelsesmidler<td r>132792<td r>142608<td r>117652<td r>145041
+<td>Tekstilvarer<td r>315492<td r>311861<td r>29229<td r>31264
+<td>Huder, Olier m. v.<td r>235962<td r>231065<td r>77460<td r>71516
+<td>Trævarer<td r>19262<td r>17407<td r>313346<td r>337611
+<td>Papirmasse og Papir<td r>13462<td r>14865<td r>365588<td r>464914
+<td>Mineraler og Arbejder deraf<td r>210080<td r>248703<td r>186459<td r>274834
+<td>Metaller og Arbejder deraf<td r>156657<td r>198610<td r>182299<td r>198502
+<td>Fartøjer, Automobiler, Maskiner m. v.<td r>217230<td r>218870<td r>263695<td r>245059
+<td>Andre Varer<td r>115047<td r>110478<td r>16075<td r>15644
+<td r>I alt<td r>1707954<td r>1772491<td r>1574664<td r>1805755
+</table>

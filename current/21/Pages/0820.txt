@@ -1,0 +1,156 @@
+S.'s Temp., ganske uanset den Temp. de enkelte
+Bestanddele havde, da Blandingen blev lavet;
+én jævn Blanding af Is og Vand har altid
+Temp. 0°. — Tilstedeværelse af fremmede
+Stoffer (Urenheder) vil altid bevirke en Sænkning
+af S. I Overensstemmelse hermed ligger
+<sp>Legeringers</sp> S. lavere end de rene Stoffers og
+laver end den Temp., der ved sædvanlig
+Gennemsnitsregning vilde findes af Bestanddelenes
+S. — S. afhænger noget af det ydre Tryk;
+saaledes vil Isens S. (0°) synke 0,0075° for hver
+Gang Trykket paa Isen forøges med 1 Atm.
+Jfr. <sp>Frysepunkt</sp>, <sp>Kuldeblanding</sp> og
+<sp>Regelation</sp>.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Smeltesikring">
+<b>Smeltesikring</b> kaldes særlige
+Sikringsanordninger, der indskydes i elektriske Kredsløb
+for automatisk Afbrydelse af den heri gaaende
+Strøm, naar denne overskrider en vis Grænse.
+Ved Stærkstrømsanlæg benyttes i Reglen S. af
+Bly ell. Sølv, formet som Traade eller Strimler
+af passende Tykkelse, der gennemsmelter i
+korteste Tid, naar den bestemte
+Maksimalstrømstyrke indtræder (se <sp>elektriske
+Sikringer</sp>). Til Beskyttelse af Svagstrømsanlæg
+(Telegraf- og Telefonkredsløb) benyttes lgn; S., der
+afbryder Forbindelsen, hvis Ledningerne ved
+Brud e. l. kommer i Berøring med
+Stærkstrømsledninger (Lysledninger, Sporvejskøretraade
+etc.), hvorved Fare for Forbrænding af
+Apparater ell. Personer opstaar.
+
+Indretning af S. for Svagstrøm vanskeliggøres
+ved, at de forholdsvis lave
+Maksimalstrømstyrker i Reglen umuliggør Fremstillingen af
+passende simple Smeltetraade. Ved de tilladelige
+Strømstyrker omkr. 1/2 Ampère vil Traadens
+Diameter blive saa ringe, at mek. ell.
+atmosfæriske Paavirkninger gør S. praktisk
+uanvendelig, idet Traadlængden maa være af en vis
+Størrelse, saaledes at Lysbuedannelse ved
+Overbrændingen forhindres. Den af Bose i Stuttgart
+(1895) angivne S. indrettes som to skruevundne
+Fjedre af 0,15 mm Kruppintraad, der
+sammenloddes med en letsmeltelig Legering (Wood's
+Metal) og anbringes i et (c. 4 cm langt)
+Beskyttelsesrør af Glas, forsynet ved Enderne med
+Metalhætter, hvortil Forbindelserne føres. Ved
+Paavirkning af varende Strømme paa 0,2—0,5
+Ampère smelter Loddemassen og Fjedrene
+trækker sig sammen, hvorved Forbindelsen
+afbrydes. I en noget ændret Udførelsesform
+dannes den ledende Forbindelse mellem to med
+Wood's Metal sammenloddede Metalstykker,
+omgivet med en (isoleret) Traadrulle,
+hvorigennem Strømmen ledes. Naar Strømstyrken
+overskrider det tilladelige, smelter Loddestedet p.
+Gr. a. Varmeudviklingen i Traadrullen, og
+Metalstykkerne fjernes ved Fjederkraft fra
+hinanden. Den sidstnævnte S. kan indrettes
+saaledes, at Metalstykkerne ved Loddemassens
+Smeltning kun forskyder sig i Forhold til
+hinanden, men stadig forbliver i indbyrdes
+Berøring, medens Fjederen, der bevirker
+Forskydningen, slipper sin Indgribning og afbryder
+Kredsløbet. Naar Fjederen efter
+Kortslutningens Afhjælpning atter bringes i Indgribning, er
+Loddemassen stivnet og S. saaledes atter
+tjenlig til Brug.
+
+En Ulempe ved de nævnte S. er, at den
+elektriske Modstand i Traadfjedre ell. Spoler maa
+være ret betydelig for at medføre tilstrækkelig
+Opvarmning. Da dette ofte er en Gene —
+særlig hvis S. er anbragt i et Telefonkredsløb —
+søger nuan at indrette S. med mindst mulig
+Modstand, hvilket atter bevirker, at
+Maksimalstrømstyrken vælges saa stor som mulig (1/2—
+1/4 Ampère, hvortil svarer en Modstand paa c.
+10—40 Ohm).
+
+Foruden S. anbringes i Svagstrømskredsløb
+tillige Sikringer mod atmosfæriske Udladninger.
+Saadanne »Lynafledere« udføres som Metal- ell.
+Kulelektroder, hvoraf den ene forbindes med
+Ledningen, medens den anden er ført til en
+Jordplade, hvortil Overspændingen ved
+Lynnedslag afledes ved Gnistdannelse gennem det ringe
+Luftrum mellem Elektroderne. Lynaflederne
+anbringes paa den udadgaaende Ledning foran
+S. for sat undgaa, at denne paavirkes af
+Strømmene fra de ofte stedfindende atmosfæriske
+Udladninger, hvilket vilde medføre hyppige
+Ledningsafbrydelser ved S.'s Overbrænding. For
+dog at forhindre, at der ved Lysbuedannelse i
+Lynaflederen opstaar varige Strømme i den
+udvendige Ledning, hvis denne skulde komme i
+Berøring med Højspændingsledninger, anbringes
+foran Lynaflederen endnu en S. — den
+saakaldte »Grovsikring«, der udføres som en
+enkelt Smeltetraad i Glasrør og indrettes for en
+noget højere Maksimalstrømstyrke end
+Finsikringen (som oftest 2 Ampère).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Smeltning">
+<b>Smeltning</b> er et Stofs Overgang fra fast til
+flydende Tilstandsform alene p. Gr. a.
+Varmetilførsel, altsaa forsk. fra <sp>Opløsning</sp>. For
+at et Stof kan smelte, maa det først opvarmes
+til sit Smeltepunkt, og derefter maa der
+yderligere tilføres det Varme. Under S. holder
+dets Temp. sig, til Trods for den stadige
+Varmetilførsel, konstant, og der maa altsaa bindes
+Varme ved S. Den Varmemængde, maalt i
+Gramkalorier, der skal til for at smelte 1 g af
+et Stof, som i Forvejen er opvarmet til sit
+Smeltepunkt, kaldes Stoffets <sp>Smeltevarme</sp>;
+Smeltevarmen bruges altsaa udelukkende til
+Stoffets S., men ikke til Opvarmning af Stoffet,
+hverken før ell. efter S. Ved Størkning frigøres
+denne Varme igen, og den kaldes derfor ofte
+for latent Varme. Smeltevarmen bestemmes
+ved Hjælp af et Kalorimeter. Smeltevarmen er
+for Is 80, for Aluminium 77, Kobber 43, Jern 30,
+Sølv 22, Tin 14,6 og Bly 5,4. Is har den højeste
+Smeltevarme, man kender; derfor varer det
+længe, inden Isen smelter om Foraaret, men
+ogsaa længe inden Vandet fryser om Vinteren.
+—- Ved S. sker der altid en
+Rumfangsforandring; de fleste Stoffer udvider sig ved S., men
+f. Eks. Is og Støbejern trækker sig sammen
+ved S.; af rene Metaller forholder kun Vismut
+sig som Is. — Ikke alle Stoffer kan smeltes, idet
+nogle Stoffer sønderdeles ved Opvarmningen
+(f. Eks. Træ og mange andre organiske Stoffer)
+ell. fordamper uden at smelte (f. Eks. Kul). Jfr.
+<sp>Frysning</sp>.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Smeltevarme">
+<b>Smeltevarme,</b> se ovf.
+</chapter>
+
+<chapter name="Smeraldina">
+<b>Smeraldina,</b> kvindelig Type fra den ital.
+Maskekomedie; det er en kæphøj Tjenestepige
+e. l. Forekommer i saa godt som alle Carlo
+Gozzi's <i>Fiabe</i>.
+<i>E. G.</i>
+</chapter>

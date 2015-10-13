@@ -1,0 +1,103 @@
+kun muligt her at omtale enkelte Grundtræk og
+Resultater.
+
+Under Indfangningen af en Elektron af en
+Kerne bevæger Elektronen sig i Spring mellem
+stationære Tilstande for til sidst at ende i den
+Bane, der svarer til den stærkest mulige
+Binding af Elektronen. Et uforstyrret Brintatom
+bestaar derfor af en Brintkerne og en Elektron
+i en 1<sub>1</sub>-Bane. I Helium (Atomnummer 2) maa
+man antage, at to Elektroner bevæger sig i
+symmetriske 1<sub>1</sub>-Baner. Ved Lithium
+(Atomnummer 3) vil to Elektroner bevæge sig paa samme
+Maade som i He i 1<sub>1</sub>-Baner, hvorimod den
+tredie Elektron ikke mere kan faa Plads til at
+bevæge sig i en 1<sub>1</sub>-Bane, men maa bevæge sig i
+den større 2<sub>1</sub>-Bane. Denne Bane er nemlig den
+Bane, der næst efter 1<sup>1</sup>-Banerne vil svare til
+den stærkeste Binding af Elektronen. En Følge
+af den tredie Elektrons Særstilling, og løsere
+Binding end de to øvrige Elektroner, bliver, at
+Lithium let mister denne Elektron, og altsaa er
+monovalent og elektropositivt. At Elektronen
+bindes i en elliptisk 2<sub>1</sub>-Bane og ikke i en
+cirkulær 2<sub>2</sub>-Bane ses, iflg. den Bohr'ske Teori,
+direkte af Lithiums Spektrum (se
+<sp>Spektralanalyse</sp>).
+
+Ved næste Stof Beryllium (Atomnummer 4) er
+de to inderste Elektroner stadig bundne i
+1<sub>1</sub>-Baner, medens de to andre er løsere bundne i
+2<sub>1</sub>-Baner. Af Spektret af Kulstof (6) kan det
+ses, at i Kulstof er to Elektroner i 1<sub>1</sub>-Baner, to
+i 2<sub>1</sub>- og to i 2<sub>2</sub>-Baner. Fortsættes gennem de
+næste Stoffer møder man ved Neon (10) en i
+n-<sp>aktiv Luftart</sp> ligesom Helium. Disse
+Stoffers kem. Inaktivitet føres tilbage til, at der i
+disse Stoffer findes en saadan
+Elektronkonfiguration, at det ikke, som i de kem. aktive
+Grundstoffer, er let at fjerne en ell. flere af de
+Elektroner, der danner Atomets »Overflade«, men at
+de yderst liggende Elektroner alle er temmeligt
+fast bundne. Dette kan iflg. Bohr's Teori bedst
+tænkes at hidrøre fra, at der i Ordningen af
+Elektronbanerne er en saadan høj Grad af
+Symmetri til Stede, at der opstaar et saa nøje
+Sammenspil mellem de enkelte
+Elektronbevægelser, at de Kræfter, der sædvanlig kommer
+til Virksomhed under kem. Processer, er for
+smaa til at bryde en saadan symmetrisk
+Elektronkonfiguration. I Heliumatomet var det
+saaledes en Gruppe paa to 1<sub>1</sub>-Elektronbaner. I
+Neon findes uden om den »afsluttede«
+symmetriske Gruppe paa to 1<sub>1</sub>-Baner en anden
+Gruppe paa fire 2<sub>1</sub>-Baner og fire 2<sub>2</sub>-Baner. At en
+saadan Gruppe paa 4 + 4 Elektroner maa
+besidde en høj Grad af Symmetri, forstaas ud fra
+den Betragtning, at to Tetraedre kan anbringes
+smukt symmetrisk i hinanden.
+
+Den store Stabilitet og særegne »afsluttede«
+Beskaffenhed af Elektronkonfigurationen hos de
+inaktive Luftarter ses ogsaa tydeligt af de
+omkringliggende Grundstoffer. Som det fremgaar
+af det periodiske System, <sp>mister</sp> Grundstoffer
+med et Atomnummer højere end en inaktiv
+Luftart let de overskydende Elektroner og
+danner en positiv Ion med en Elektronkonfiguration,
+der fuldstændig svarer til en inaktiv Luftarts.
+Grundstoffer med et Atomnummer lavere end
+en inaktiv Luftart <sp>optager</sp> let en ell. fl.
+Elektroner i et saadant Antal, at der kan dannes
+en symmetrisk afsluttet Elektrongruppe.
+
+Efter Neon følger i det p. S. Natrium
+(Atom-nummer 11). Na-Atomet bestaar af 10
+Elektroner i Neonkonfiguration og en løsere bundet
+ellevte Elektron; denne kan ikke bevæge sig i
+Baner svarende til de otte 2<sub>1</sub>- og 2<sub>2</sub>-Elektroners
+Baner og kan derfor kun, som Spektret viser,
+bindes i den større 3<sub>1</sub>-Bane. I Fig. 3 er
+skematisk vist Atombygningen hos Neon, Natrium og
+Argon. Paa Figuren er alle Banerne tegnet i
+Planet, hvorimod Banerne i Atomerne jo er
+fordelt symmetrisk i Rummet. I de efter Na flg.
+Stoffer er de ydre Elektroner bundne i 3<sub>1</sub>- og
+3<sub>2</sub>-Baner indtil Argon (18), hvor det er flg.
+symmetriske Konfiguration: to 1<sub>1</sub>-, fire 2<sub>1</sub>- og fire
+2<sub>2</sub>- samt fire 3<sub>1</sub>- og fire 3<sub>2</sub>-Baner (smlg. Fig. 3).
+Efter Argon kommer Kalium (19). Den løsest
+bundne Elektron i K bindes <sp>ikke</sp> i en 3<sub>3</sub>-Bane,
+som det maaske kunde ventes; men baade
+Spektret og Kaliums store Analogi med Na og
+Li viser, at den 19. Elektron i Kalium, maa
+findes i en Bane, hvis Bikvantetal k er lig med
+1. Af saadanne Baner vil den, hvori Elektronen
+bindes fastest, og som ikke allerede er besat,
+være en 4<sub>1</sub>-Bane. I Kalcium (20) findes uden
+om de 18 Elektroner i Argonkonfiguration to
+Elektroner i 4<sub>1</sub>-Baner svarende til Kalciums
+divalente Egenskaber.
+
+<img>Fig. 3. Hovedtræk af Atombygningen, skematisk.</img>

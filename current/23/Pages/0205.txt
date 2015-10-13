@@ -1,0 +1,130 @@
+fundet Anvendelse. Dog benyttes her i Reglen
+5-Enhedsalfabetet i Forbindelse med
+Multiplekstelegrafi paa induktionsfri Dobbeltledninger.
+(<sp>Litt</sp>.: <sp>Th. Karrass</sp>, »Geschichte der
+Telegraphie« [Braunschweig 1909]; <sp>A. Kraatz</sp>,
+»Maschinen-Telegraphen« [Braunschweig 1905].
+Forsk. Afh. i <i>Telegraph and Telephone Age</i>
+1923—25; <sp>J. Hermann</sp>, »Die elektrische
+Telegraphie mit Drahtleitung« [Berlin und
+Leipzig 1926]).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telegrafbaaker">
+<b>Telegrafbaaker,</b> Sømærker opsatte ved
+Telegraf- og Telefonkablers Landingspunkter til
+Advarsel for Søfarende mod
+Beskadigelse af Kablerne ved
+Opankring, Trawling e. l. (Dansk
+L. af 15. Febr 1895). Naar
+Mærkerne ses over eet, ved
+Skipperen, at han er ved Kablet.
+Medens tidligere mange forskellige
+Typer benyttedes, indførtes 1905
+først i Danmark, siden i Sverige,
+Normalbaaker, hvis Form
+svarer til det internationale
+Advarselssignal for Kabelskibe, idet de
+set over eet øverst har en rød,
+rund Skive, derefter en hvid
+Firkant med lodret Diagonal og
+nederst en rød, rund Skive.
+Skivernes Diameter varieres
+efter Forholdene fra 2—4 m (se
+Fig.).
+
+<i>(Telegrafingeniør C. E. Krarup.). A. C. G.</i>
+</chapter>
+
+<chapter name="Telegrafering uden Traad">
+<b>Telegrafering uden Traad,</b>
+se <sp>Radiotelegrafi</sp>.
+</chapter>
+
+<chapter name="Telegrafhemmelighed">
+<b>Telegrafhemmelighed.</b> Der
+paahviler enhver ved
+Telegrafvæsenet ansat eller i fast
+Arbejde værende Person
+Tavshedspligt m. H. t. Telegrammers og
+Telefonsamtalers Afsender,
+Adressat og Indhold samt med de
+Forhold, han bliver bekendt med under sin Tjeneste.
+Bestemmelse herom findes i L. Nr 84 om
+Telegrafer og Telefoner af 11. Maj 1897 og Lov om
+Statens Tjenestemænd Nr 489 af 12. Septbr 1919 (§ 7).
+Taushedspligten sikres gennem Aflæggelse af et
+Løfte, i Danmark i Henhold til kgl. Resolution
+af 26. Septbr 1905. I Norge indførtes et lignende
+Løfte allerede fra Januar 1898, og
+Tavshedspligten er fastsat i Rikstelegrafreglementet. For
+international Telegraf- og
+Telefonkorrespondance er Tavshedspligten fastsat ved
+Telegrafkonventionen af 10., henholdsvis 22. Juli 1875 § 2.
+Tavshedspligten gælder ogsaa, efter at
+vedkommende er udtraadt af Tjenesten. Udlevering af
+Telegrammer og Oplysning om Telefonsamtalers
+Indhold meddeles kun til Domstole og Politi i
+Henhold til forud afsagt Retskendelse (Lov om
+Rettens Pleje af 11. April 1916).
+
+Tavshedspligten gælder ogsaa
+koncessionerede Telefonselskabers Personale.
+
+For Radiotelegrafering og Radiotelefonering
+gælder Tavshedspligten ogsaa, men er under
+Hensyn til, at Hemmeligholdelse i alt Fald
+hidtil har været praktisk uigennemførlig, uden
+Betydning.
+<i>M. G.</i>
+
+<img>Telegrafbaake.</img>
+</chapter>
+
+<chapter name="telegrafisk Billedoverføring">
+<b>telegrafisk Billedoverføring</b> ved
+Omsætning til sædvanlig Bogstavtelegrafering er
+foreslaaet af Amerikanerne Stolfi og Bissiri (1910)
+og forbedret af Italieneren Ellero (1922) o. a.
+Metoden gaar ud paa, at Billedet inddeles i
+mange Smaafelter (Kvadrater), hvis Farvetoner
+(sort, mørkegraat, graat, lysegraat og hvidt)
+skønnes og betegnes med forsk. Bogstaver, der
+sammenstilles i Række og aftelegraferes som
+en alm. Telegramtakst, idet særlige Bogstaver
+angiver Beg. og Slutn. for hver Linie i
+Feltinddelingen. Telegrammets Modtager kan atter
+omsætte Teksten til Billede ved Afskrivning
+paa en særlig Skrivemaskine, der i St f.
+Bogstavtyper aftrykker større ell. mindre
+Kvadrater, saaledes at Billedet Punkt for Punkt
+reproduceres (se Fig.).
+
+Metoden har først praktisk Betydning, naar det
+besværlige og langsomme Skøn over
+Farvetonerne af det store Antal Felter erstattes med
+automatisk Registrering og Omsætning til
+Bogstavtekst. Som angivet af Tyskeren Korn kan
+dette udføres paa lgn. Maade som ved direkte
+Billedtelegrafering (s. d.), idet Billedfelterne
+ved fotoelektrisk Virkning frembringer
+varierende Strømme i et lokalt Kredsløb til en
+automatisk Perforator (se
+<sp>Telegrafapparater</sp>), der fremstiller en perforeret
+Papirstrimmel, hvis forsk. Hulgrupper repræsenterer
+Felternes Farvetoner. Strimlen benyttes
+derefter ved Telegraferingen med de sædvanlige
+automatiske Telegrafsystemer, hvor
+Modtagerapparatet fremstiller en lgn. Hulstrimmel, der
+i en mek. Skrivemaskine af ovenn. Art
+omsættes til Billede. Modtagerstrimlen kan ogsaa i
+en automatisk virkende Linotype-Maskine
+benyttes til Fremstilling af en Kliché, hvilket
+særlig for Pressetrafik kan være af Betydning. —
+Sammenligning med direkte Billedtelegrafering
+har den indirekte Overføring den Fordel, at de
+korresponderende Parter (Presse-, Politi- e. l.
+Bureauer) ikke behøver at være direkte
+
+<img>Telegrafisk Billed.</img>

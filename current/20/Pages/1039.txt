@@ -1,0 +1,132 @@
+<table>
+<td v2 c>Navn<td v2 c>Størrelse<td v2 c>Afstand<td 4 c>Omløbstid<td v2  c>Diameter<td v2 c>Opdager<td v2 c>Datum
+<td>Dag<td>T.<td>M.<td>Sek.
+<td>Mimas<td r>12,1<td r>3,1<td r>0<td r>22<td r>37<td r>5<td r>470<td c>W. Herschel<td r>18. Juli 1789
+<td>Enceladus<td r>11,6<td r>3,9<td r>1<td r>8<td r>53<td r>7<td r>594<td c>—<td r>29. Aug. 1789
+<td>Tethys<td r>10,7<td r>4,9<td r>1<td r>21<td r>18<td r>26<td r>916<td c>G. D. Cassini<td r>21. Marts 1684
+<td>Dione<td r>10,7<td r>6,2<td r>2<td r>17<td r>41<td r>10<td r>871<td c>—<td r>21. Marts 1684
+<td>Rhea<td r>10,1<td r>8,7<td r>4<td r>12<td r>25<td r>12<td r>1197<td c>—<td r>23. Decbr 1672
+<td>Titan<td r>8,6<td r>20,2<td r>15<td r>22<td r>41<td r>25<td r>4370<td c>Huygens<td r>25. Marts 1655
+<td>Themis<td r>17,5<td r>24,2<td r>20<td r>20<td r>—<td r>—<td r>60<td c>W. H. Pickering<td r>16. April 1904
+<td>Hyperion<td r>12,9<td r>24,5<td r>21<td r>6<td r>38<td r>20<td r>310<td c>G. P. Bond<td r>16. Septbr 1848
+<td>Japetus<td r>10,8<td r>58,9<td r>79<td r>7<td r>55<td r>25<td r>783<td c>G. D. Cassini<td r>25. Oktbr 1671
+<td>Phoebe<td r>16-17<td r>214,4<td r>550<td r>11<td r>—<td r>—<td r>70<td c>W. H. Pickering<td r>16. August 1898
+</table>
+
+Navnene er givne af J. Herschel, undtagen
+for Themis og Phoebe. Størrelsen er udledet
+af Pickering og gælder for Middelopposition.
+Afstanden fra S.'s Centrum, udtrykt i dens
+Ækvatorradius, samt Omløbstiden er bestemte
+af H. Struve. Diametren, udtrykt i km, er
+beregnet af Lysstyrken under Forudsætning af,
+at Drabanterne har samme Albedo som S. Kun
+for Titan foreligger der mikrometriske
+Maalinger af Diameteren, og disse giver en Værdi
+c. det dobbelte af, hvad man har fundet
+fotometrisk (2260 km). Ved Japetus har man
+bemærket en periodisk Forandring i dens
+Lysstyrke med Maksimum og Minimum omkring
+dens vestlige og østlige Elongation; Forskellen
+gaar op til 1,8 Størrelsesklasse. For at forklare
+denne Variation i Lysstyrken har Pickering
+ligesom tidligere Forskere antaget, at
+Drabanten har en bunden Rotation, og at de forsk.
+Partier af dens Overflade reflekterer Lyset
+forskelligt. Pickering holder det heller ikke for
+udelukket, at Drabanten kan afvige betydelig
+fra Kugleformen og derved under Rotationen
+vise Skive af forsk. Størrelse. For de andre
+Satelliter har man ogsaa fundet Variation i
+Lysstyrken; dog er denne mindre, saa at sikre
+Slutninger vanskelig kan udledes. Ved Thetys,
+Dione og Rhea var ogsaa en Forandring af
+Lysstyrken paaviselig med et Minimum ved hver
+Konjunktion og et Maksimum ved hver
+Elongation. Gennemgaaende fandt man, at disse Maaner
+lyste omtr. 0,8 Størrelsesklasse stærkere, end
+det var fundet tidligere, bl. a. af Pickering.
+Alle Drabanter undtagen Japetus, Themis og
+Phoebe bevæger sig paa det nærmeste i S.'s
+Ækvatorplan, men disse 3 har en Inklination
+af henholdsvis 14°, 11° og 149° ɔ: Bevægelsen
+er retrograd. Enceladus, Tethys, Dione og Rhea
+bevæger sig paa det nærmeste i en Cirkel om S.
+Ved Mimas, Titan og Japetus er
+Ekscentriciteten fra 0,02 til 0,03, ved Hyperion er den 0,104.
+Ved Phoebe er den 0,166 og ved Themis 0,23,
+dog er dennes Elementer endnu meget usikre,
+da man hidtil kun har haft Adgang til
+Observationer fra 1904. Man har fundet enkelte
+Relationer mellem Omløbstiden af de 4 inderste
+Drabanter. d'Arrest har paavist en Periode paa
+465,75 Dage, efter hvilken de igen indtager den
+samme Stilling til hinanden. I denne Tid har
+Mimas gjort 494 Omløb, Enceladus 340, Tethys
+247 og Dione 170. Kalder man den daglige
+Bevægelse af disse 4 Drabanter henh. n1, n2, n3,
+n4, har Kirkwood fundet flg. Relation: 5
+(n1—n2) + (n3—n2) + 4,4 (n4—n2) = 0.
+
+Teorien for Saturndrabanternes Bevægelse er
+studeret fornemlig af Laplace, Newcomb og H.
+Struve. Laplace indskrænkede sig til at
+undersøge Perturbationerne i Japetus' Baneplan. Ved
+at benytte alle Observationer har H. Struve
+fundet, at dens Knudelinie gaar omtrent 1,5′
+aarlig, og at Banens Inklination mod S.'s
+Ækvatorplan aftager med 0,5 pr Aar. Newcomb har
+vist, at Hyperion er underkastet en
+perturbation fremkaldt ved Titan, hvorved dens
+Apsidelinie altid holder sig omkr. Konjunktionslinien
+med Titan med en tilbagegaaende Bevægelse
+af 18,663° pr Aar. H. Struve har fundet af sine
+Observationer af S.'s Drabanter i Pulkovo
+1884—93, fortsatte i Berlin 1916—23 af ham
+og hans Søn G. Struve, at Konjunktionen
+af Mimas og Tethys altid finder Sted i
+Nærheden af et Punkt, som ligger midt imellem
+deres Baners opstigende Knuder paa S.'s
+Ækvatorplan. Den kan fjerne sig fra dette Punkt
+omtr. 45° og udfører denne Oscillation i omtr.
+70 Aar. Ved Enceladus og Dione har H. Struve
+paavist, at deres Konjunktion altid falder
+sammen med Enceladus' Perisaturnium. For Rhea
+og Titan har G. Struve fundet, at
+Perisaturniumslængden af Rhea p. Gr. a. Perturbationer af
+Titan er lig Titans Perisaturniumslængde, men
+oscillerer om dette Punkt i 38 Aar. Denne
+Mærkelighed i disse Satellitters Bevægelse har
+sin Grund i, at deres gennemsnitlige
+Bevægelser er nær kommensurable. Saaledes er
+Halvparten af Thetys' Omløbstid meget nær lig
+Mimas', paa samme Vis er det med Dione og
+Enceladus, og Titans Omløbstid er nær 3/4 af
+Hyperions. H. Struve har ogsaa udledet
+Masserne for Satellitterne og er kommet til flg.
+Værdier med Saturns-Masse som Enhed:
+Mimas 1 : 16340000, Enceladus 1 : 4000000, Tethys
+1 : 921500, Dione 1 : 536000, Rhea 1 : 250000,
+Titan 1 : 4700, Japetus 1 : 113000. Hyperions
+Masse er højst ubetydelig. Sammenlignet med
+Maanens Masse er Titans 1,6 Gange denne,
+Japetus' kun 1/15 og Mimas' mindre end 1/2000
+af Maanens Masse. Satellitterne synes at have
+desto større Albedo, jo nærmere de er
+Planeten. (<sp>Litt</sp>.: <sp>G. W. Hill</sp>, <i>A new theory of
+Jupiter and S.</i> [Washington 1890]; <sp>Samme</sp>,
+<i>Tables of S.</i> [smst 1895]; <sp>H. Struve</sp>,
+»Beobachtungen der Saturnstrabanten« [Petrograd
+1898]: <sp>G. Struve</sp>, »Neue Untersuchungen im
+Saturnsystem 1. Die Bahn von Rhea« [1924];
+<sp>Tisserand</sp>, <i>Mécanique céleste</i> II, IV [Paris
+1891 og 1896]; <sp>A. Gaillot</sp>, <i>Tables rectifiées
+du movuement de Saturne</i> [1904]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Saturnalia">
+<b>Saturnalia</b> (af <i>Satúrnus</i>, s. d.), den rom.
+Midvinterfest, der fra gl Tid fejredes i en Rk.
+Dage, oftest 7, fra 17. Decbr. Det var en
+fornøjelig Glædesfest, som vor Julefest, med en

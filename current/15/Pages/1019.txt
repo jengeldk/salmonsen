@@ -1,0 +1,151 @@
+Turbinen, som er en kombineret Aktions- og
+Reaktionsturbine med 2 Aktionsskovlhjul og en
+konisk Reaktionsskovltromle (se nærmere under
+<sp>Dampturbiner</sp>), løber ved en
+Kørehastighed af 110 km i Timen 9200 Omdrejninger pr
+Minut, og den arbejder med Damptryk fra 18
+til 0,1 Atmosfærer samt yder maksimalt 2000
+H. K. Rotationen overføres gennem 2
+Tandhjulsudvekslinger til en Blindaksel; paa begge
+Ender af denne sidder en Krumtap, hvis
+Bevægelse gennem Kobbelstænger overføres til
+Drivhjulsættene.
+
+3. <sp>Andre L.-Arter</sp>.
+
+Foruden Damp har man forsøgt andre
+Stoffer, som Trykluft, forsk. Gasarter og
+Elektricitet som Drivkraft for L. Medens elektriske L.
+i de senere Aar har fundet større og større
+Udbredelse, har de andre L.-Arter kun fundet
+Anvendelse i forholdsvis faa Tilfælde og under
+særlige Forhold.
+
+<sp>Trykluft-L.</sp> arbejder med komprimeret
+atmosfærisk Luft, der under et Tryk. af c. 30
+Atmosfærer presses ind i et Antal paa L.
+anbragte Beholdere, hvorfra den efterhaanden
+føres til Cylindrene. Den Kulde, der udvikles,
+naar den sammenpressede Luft strømmer ud,
+foraarsager imidlertid store Vanskeligheder
+ved L. af denne Art.
+
+<sp>Gas-L.</sp> er L., der drives af
+Eksplosionsmotorer for Gasarter ell. andet Brændsel, der
+kan fordampe. De hidtil fremkomne
+Konstruktioner har nærmest hist. Interesse. Ved
+<sp>Haedicke'</sp>s, <sp>Montclar</sp>'s og <sp>Crossley</sp>'s
+Konstruktioner blev Maskinen sat i Gang ved
+Hjælp af komprimeret Luft ell. Presgas, og først
+derefter blev Motoren omskiftet til
+Eksplosionsmotor. 1888 fremstillede Firmaet <sp>Benz & Co.</sp>
+i München et Gas-L. for Petroleum, og et Par
+Aar senere blev en Udstillingsbane i Wien
+drevet af <sp>Petroleums-L.</sp>
+(<sp>Daimler-Motorer</sp>). I den nyeste Tid — efter Diesel-Motorens
+Fremkomst — er det dog fra omkr. 1913
+lykkedes at fremstille brugelige L., drevne ved
+Hjælp af Forbrændingsmotorer. Disse saakaldte
+<sp>Diesel-L.</sp> ell. <sp>Thermo-L.</sp> er bl. a. bygget
+af Firmaerne <sp>A. Borsig</sp> og <sp>Gebrüder
+Sulzer</sp> og er f. Eks. blevet anvendt paa
+Strækningen Berlin—Potsdam—Magdeburg. De
+er symmetrisk byggede med 2 Førerhuse, 2
+Bogier og 2 Drivaksler i Midten; disse sidste
+drives ikke direkte af Dieselmotoren, men
+gennem en Blindaksel; en anden Dieselmotor
+driver en Luftpumpe, der presser Luft ind i en
+Trykluftbeholder; Trykluften bruges til
+Igangsætning og Manøvrering af L. I England har
+<sp>Dunlop</sp> konstrueret et Slags Diesel-L., hvis
+Dieselmotor driver en Luftpumpe; den
+frembragte Trykluft er den egl. Drivkraft, idet
+Drivakslen drives af Trykluftmotorer. Endelig
+benyttes Forbrændingsmotorer til at fremstille
+elektrisk Energi ved Hjælp af Dynamoer; i saa
+Tilfælde haves <sp>Dieselelektriske L.</sp> (se
+<sp>elektriske Jernbaner</sp>).
+
+<sp>Elektriske L.</sp> bestaar af en Undervogn,
+hvis Hjul drives med Elektromotorer, og
+Førerhuset ovenpaa; de er i Reglen ens i begge
+Ender og beregnede til at køre lige godt begge
+Veje, Med saadanne L. anstilledes de første
+Forsøg midt i 1890'erne, baade i Amerika og
+Europa, og navnlig efter 1900 har
+Konstruktion og Anvendelse af dem taget Fart. Der
+skelnes mellem elektriske L., hvor Kraftkilden
+findes paa selve L., og saadanne, hvor den
+højspændt elektriske Strøm tilføres fra en
+stationær Centralstation ad en Kontaktledning,
+hvorfra den gennem en Strømaftager ledes til L.'s
+Transformator, hvor Spændingen nedsættes til
+den for Motorerne passende Spænding. Til de
+første hører <sp>Akkumulator-L.</sp>, hvor
+Strømmen tages fra Akkumulatorbatterier, der maa
+oplades paa ny med Elektricitet, naar de er
+afladede; endvidere <sp>dampelektriske L.</sp>,
+som f. Eks. <sp>Heilmann's L.</sp>, som er forsynet
+med en alm. L.-Kedel, fra hvilken Dampen
+føres til en meget økonomisk arbejdende
+Dampmaskine med tredobbelt Ekspansion, der driver
+en Dynamomaskine, fra hvilken den elektriske
+Strøm føres til de Elektromotorer, som driver
+Hjulakslerne, og endelig
+<sp>Dieselelektriske L.</sp> (se ovf.). De elektriske L., der faar
+tilført elektrisk Strøm ude fra, kan være
+konstrueret for Jævnstrøm samt <sp>enfaset</sp>
+eller <sp>trefaset Vekselstrøm</sp>. Anvendelse
+af elektriske L., der konstrueres med en
+Ydeevne af 1000—4000 H. K., har i de senere Aar
+taget et stort Opsving, navnlig i de Lande, hvor
+der i Vandfald og Floder findes megen
+Vandkraft til billig Fremstilling af Elektricitet. De
+har, foruden andre Fordele, den Fordel, at
+man undgaar Røg og Damp, hvad der har stor
+Bet. for Baner med mange Tunneler. Se i
+øvrigt nærmere under <sp>elektriske
+Jernbaner</sp>. (<sp>Litt</sp>.: <sp>L. Troske</sp>, »Allgemeine
+Eisenbahnkunde für Studium und Praxis«, 2. Del
+[Leipzig 1907]; <sp>Röll</sp>, »Enzyklopädie des
+Eisenbahnswesens«, 2. Udg. [Berlin—Wien
+1912—21]).
+<i>G. K.</i>
+</chapter>
+
+<chapter name="Lokomotivremise">
+<b>Lokomotivremise,</b> Bygning med Sporplads
+for Lokomotiver, der efter endt Løb kan
+henstaa her, beskyttede mod Vind og Vejr, til de
+paany skal i Tur. Under Opholdet i L. efterses
+og pudses Lokomotiverne, ligesom den
+periodiske Udblæsning af Røgrørene og Udvaskning
+af Kedlen foretages her. Til L. er desuden som
+Regel knyttet et Værksted for mindre
+forefaldende Reparationer. Under hver
+Lokomotivplads findes i Sporet en c. 1 m dyb
+Eftersynsgrube — en saakaldt Fyrgrav (s. d.) —, og
+over hver Plads er der indrettet Aftræk for
+Lokomotivrøgen. Desuden er der indlagt Vand
+med Haner til Brug ved Udvaskningen.
+Udenfor L. opføres som Regel en ell. fl. udvendige
+Fyrgrave, som Lokomotiverne passerer paa
+Vejen, og hvor de renser Fyr og Røgkammer,
+inden de gaar i Remise. Oftest findes tillige
+Anlæg for Lokomotivernes Kul- og
+Vandforsyning samt en Drejeskive. L. er ofte firkantede,
+og Forbindelsen til de forsk. Lokomotivpladser
+naas da ved Sporforgreninger ell. skaffes ved
+Drejeskiver ell. Skydebroer. I andre Tilfælde
+er de runde, og Sporene til Lokomotivpladserne
+udstraaler da fra en Drejeskives Centrum.
+<i>J. F.</i>
+</chapter>
+
+<chapter name="Lokrer">
+<b>Lokrer,</b> se <sp>Lokri</sp> og <sp>Lokris</sp>.
+</chapter>
+
+<chapter name="Lokri">
+<b>Lokri,</b> gr. Koloni i Syditalien i Oldtiden,
+beliggende i Bruttiernes Land ved det ioniske

@@ -1,0 +1,75 @@
+Turbiner (<sp>Radialturbiner</sp>), i hvilke
+Dampens Gennemstrømning sker i et Plan vinkelret
+paa Akslen. Som Eksempler paa disse kan
+nævnes <sp>Elektra-Turbinen</sp> og
+<sp>Ljungström's Turbine</sp>. Elektraturbinen er vist
+i Fig. 10. Dampen strømmer ind i Turbinen
+gennem <i>a</i>, ekspanderes i Ledetuden <i>p</i> og
+gennemstrømmer derpaa Løbeskovlene 4 Gange,
+idet den mellem hver Gang vendes i
+Ledetudene <i>g</i>. Turbinen er saaledes en
+Enstrykturbine med 4 Hastighedstrin.
+Ljungström's Turbine er en
+Overtrykturbine, Dampens Virkemaade er som i
+Parsons-Turbinen, men Løbe- og Ledeskovle er
+anbragte i koncentriske Ringe paa to mod
+hinanden vendende Hjul, der begge kan
+rotere. Dampen føres ind i Centrum af
+Turbinehjulene og strømmer derpaa under
+gradvis Ekspansion udefter i radiel Retning.
+Skovlene paa det ene Hjul virker herunder som
+Ledeskovle for Skovlene paa det andet Hjul, og
+den relative Hastighed mellem dem bliver
+saaledes ved samme Periferihastighed dobbelt saa
+stor, som hvis Ledeskovlene var stationære. Som
+Følge heraf kan en stor Del af Dampenergien
+omsættes i hvert Trin, og Turbinen bliver let og
+økonomisk.
+
+D. har vundet overordentlig stor Udbredelse
+til Drift af Dynamoer og som
+Fremdrivningsmaskiner i Skibe, der skal kunne løbe med
+stor Hastighed (Krigsskibe, Hurtigdampere),
+idet de til disse Formaal er
+Stempeldampmaskinerne overlegne m. H. t. Dampøkonomi
+(Forbrug c. 6 kg pr E. H. K. T.) og endvidere
+lader sig udføre i meget store Enheder, fordrer
+mindre Pasning, bruger mindre Smøreolie,
+tager mindre Plads op, har ringere Vægt og kan
+arbejde i lang Tid uden Fare for varme
+Slidflader. I den seneste Tid har man ogsaa med
+godt Resultat anvendt D. til Drift af
+langsomtgaaende Skibe, idet man i disse enten har
+overført Turbinens Kraft til Skrueakslen gennem en
+Tandhjulsudveksling (Parson) ell. gennem en
+hydraulisk Transformator (Föttinger) samt i
+enkelte Tilfælde ved Hjælp af Elektricitet, der
+frembringes af en Dynamo, drevet af Turbiner,
+og omsættes til Arbejde i en Elektromotor paa
+Skrueakslen. Ved disse Anordninger kan
+Turbinen løbe med højt og Skibsskruen med lavt
+Omdrejningsantal, saaledes at baade Turbinen
+og Skruen opnaar en god Virkningsgrad. (<sp>Litt</sp>.:
+<sp>A. Stodola</sp>, »Die Dampfturbinen«;
+<sp>Sasnowski</sp>, <i>Roues et tourbines à vapeur</i>; <sp>Bauer</sp> und
+<sp>Lasche</sp>, »Schiffsturbinen«; <sp>A. H. M.
+Rasmussen</sp>, »Læren om Skibsdampmaskinen«).
+<i>Værftsingeniør J. A. Christensen.</i>
+
+<img>Fig. 9 a.</img>
+<img>Fig. 9 b.</img>
+<img>Fig. 10.</chapter></img>
+
+<chapter name=”Damptærskemaskine”>
+<b>Damptærskemaskine,</b> se
+<sp>Tærskemaskiner</sp>.</chapter>
+
+<chapter name=”Damptæthed”>
+<b>Damptæthed.</b> Dividerer man Vægten af et
+vist Rumfang Damp med Vægten af det samme
+Rumfang Vand ved 4°, faar man en Brøk, der
+kaldes Dampens Tæthed ell. Vægtfylde. Dette
+Tal er meget forsk., efter som Dampen har forsk.
+Temp. og Tryk. Af 1 kg Vand bliver der 1673 l
+mættet Vanddamp ved 100°, og D. er følgelig
+1/1673. Ved højere Temp. er mættet Vanddamps

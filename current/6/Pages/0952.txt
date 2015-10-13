@@ -1,0 +1,107 @@
+Elektricitetsværk. Endelig viser Fig. 24-27 en
+Del af de ovf. omtalte Apparater for
+Vekselstrømscentraler.
+
+Strømforbruget fra e. K. er meget variabelt,
+saavel paa de forsk. Aarstider som paa de forsk.
+Tider af Døgnet. For Landoentralers Vedk.
+indtræffer den største Belastning i Reglen i
+Tærsketiden om Efteraaret, om Dagen og altsaa, naar
+Kraftforbruget er størst, medens den for
+Byernes Vedk. i Reglen indtræffer i Decbr Maaned,
+og da om Aftenen, d. v. s. at Lysforbruget er
+størst. For Oplandscentraler falder
+Maksimalbelastningen paa lidt forsk. Tid af Aaret,
+afhængigt af Oplandets Art. Belastningsmaksimum
+for Kbhvn's Vedkommende faldt saaledes 1914
+21. Decbr Kl. 5 Eftm. og var i alt 13900 KW.
+Belastningsmaksimum for alle øvrige danske
+Provinsbyer med Elektricitetsværk faldt for
+næsten alles Vedk. mellem 18. og 23. Decbr. For
+Oplandscentralen Svinninge Højspændingsværk
+i Nordvestsjælland, hvilken Central næsten
+udelukkende forsyner Landsbyer og Omegn, indtraf
+Maksimalbelastningen 24. Aug., altsaa i
+Tærsketiden. I Løbet af et Døgn
+varierer Belastningen paa en
+Central stærkt. Om Natten
+er den som Regel
+forsvindende, hvorfor man paa
+mindre Jævnstrømsværker
+ofte lader
+Akkumulatorbatteriet overtage hele Natdriften
+alene fra c. Kl. 11 Aften til
+Kl. 5 Morgen, medens man
+paa større Jævn- og
+Vekselstrøms e. K. ofte anvender
+en mindre, elektrisk Maskine
+til Natdrift, for derved at
+opnaa bedre Økonomi. Har en e. K. flere
+Maskiner, holdes kun saa mange samtidigt i
+Drift som nødvendigt af Hensyn til Belastningens
+Størrelse, thi foruden at skulle dække de Tab,
+der gaar tabt i Form af Ledningstab,
+Overgangstab og Omsætningstab i Transformatorer
+og Maskiner, maa Centralen selv bære de Tab,
+der repræsenteres ved Hovedmaskinernes
+Tomgangstab, hvorfor det i første Linie gælder om
+at holde disse Tab saa smaa som mulige. Det
+opnaas bl. a. ved at indskrænke det Antal
+Timer, Maskintimerne, Maskinerne er i Drift, til
+det mindst mulige. Centralens Udgifter er,
+foruden Dækning af disse Tab, Udgifter til
+Afskrivning af Anlægskapital, Henlæggelse til
+Fornyelse, Forsikring og Amortisation af eventuelle
+Laan, hvilke Udgifter benævnes <sp>uegentlige
+Driftsudgifter</sp>, medens de <sp>egentlige
+Driftsudgifter</sp> er Udgifter til Brændsel,
+Køle- og Fødevand, Smøreolie, Lønninger,
+Vedligeholdelse o. l. Udgifterne til Brændsel er i
+Reglen kun smaa i Forhold til de samlede
+Udgifter; saaledes var i Kbhvn 1914 Udgifterne pr
+produceret Kilowatttime 2,54 Øre.
+Driftsudgifterne pr solgt Kilowatttime var 6,54 Øre, medens
+de samlede Udgifter pr solgt Kilowatttime var
+10,3 Øre. En Central vilde have naaet
+Højdepunktet af økonomisk Drift, saafremt dens
+Maskiner, for at kunne tilfredsstille Forbruget,
+maatte gaa fuldt belastede hele Aaret rundt.
+Dette er dog aldrig Tilfældet. Kaldes den Tid,
+samtlige Maskiner paa en Central maatte gaa
+fuldt belastede for at fremstille Centralens
+aarlige Produktion af Elektricitet, for <i>T</i>, da er, idet
+Aarets samlede Timetal er 8760, Størrelsen
+T/8760 et Maal for Udnyttelsen af Centralen og
+kaldes Centralens <sp>Udnyttelsesgrad</sp>.
+Denne er sjældent over 0,25. For Kbhvn's Vedk. var
+den 1914 0,211. For de øvrige Købstæders e. K.
+her i Landet laa den i s. A. mellem 0,068 og
+0,272, varierer altsaa stærkt; størst var den for
+Frederikshavn og Hillerød, henh. 0,272 og 0,259.
+(Se i øvrigt <sp>Elektricitetsforsyning</sp>).
+
+Størrelsen af en Central bestemmes paa
+Grundlag af det tilsluttede Antal KW. For
+danske Byers Vedk. ligger Centralens
+Maksimalbelastning mellem 15 og 30 % af det tilsluttede
+Antal KW. hos Forbrugerne. Denne
+Maksimalbelastning skal Centralens Maskiner kunne bære,
+hvorfor de dimensioneres efter denne, ofte
+saaledes, at der findes to Maskiner, der tilsammen
+kan bære denne Maksimalbelastning, og desuden
+en lige saa stor Maskine som Reserve, e. K.
+anlægges altid med Udvidelsesmuligheder for
+Øje. Ved Jævnstrømscentraler anvendes i alle
+danske Købstæder Akkumulatorbatteri.
+
+<img>
+Fig. 24 Ledningsadskiller.
+</img>
+
+<img>
+Fig. 25 a. Olieafbryder, a lukket; b med Oliebeholderen nedsænketa
+</img>
+
+<img>
+Fig. 25 b
+</img>

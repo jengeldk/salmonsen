@@ -1,0 +1,130 @@
+Vingespidscirklens Udfyldning med Vinger og
+viser, hvorledes Energiudbyttet pr. Fladeenhed
+gaar ned med stigende Vingeantal — er
+saaledes den teoretiske Ydelse pr. Kvadratmeter
+Vingeflade og pr. Meter Vindhastighed 96
+Grammeter pr. Sekund, saa falder denne ved
+Udfyldningsgrad 1/12, d. v. s. 2 Vinger til 85
+Grammeter ved Udfyldningsgrad 1/6, d. v. s.
+4 Vinger til 73 Grammeter og ved 1/2, d. v. s.
+8 Vinger, til 46 Grammeter. Endvidere omtaler
+la Cour Betydningen af større eller mindre
+Udfyldning for Drejningsmomentet og gør
+opmærksom paa, at de stærkt udfyldte og derfor
+langsomt gaaende Vindfang, Vindroserne, ikke
+saa let gaar i Staa og har lettere ved at sætte
+i Gang end de svagt udfyldte og derfor
+hurtigere gaaende Vindfang, og endelig nævner
+han, at man sikkert kan forene de bedste
+Egenskaber hos de svagt og de stærkt udfyldte
+Vindfang ved at gøre Vingefladen drejelig om
+en Aksel parallel med Vingebjælken saaledes,
+at man har stort Smig ved Igangsætning og
+ringe Smig og derfor større Hastighed ved
+normal Gang. Hvad Udnyttelsen af Energien
+angaar, saa hvilede la Cour's System paa
+Fremstilling af Jævnstrøm og Anvendelse af et
+Akkumulatorbatteri. Selv om der navnlig i
+Danmark er udført en Del Anlæg efter dette
+System, var Petroleums- og Oliemotorer dog saa
+haarde Konkurrenter, at Systemets
+Anvendelighed blev ret begrænset.
+
+Naar der nu kan være Anledning til at nære
+Haab om Nyttiggørelse af den i saa rigt Maal
+tilstedeværende Vindkraft, ligger det jo bl. a.
+deri, at en meget væsentlig Del af al
+Energiforsyning foregaar fra de Vekselstrømsnet, som
+Aar for Aar spredes tættere over alle Lande,
+og kan man levere den Energi, man udvinder
+fra Vindkraften heri, vil den Fordyrelse, der i
+stammede fra, at Anlægget paa Grund af
+Akkumulatorbatteriets begrænsede Størrelse ikke
+kunde udnyttes fuldt ud, undgaas, og saa vilde
+man ved at koble flere Vindmotoranlæg til det
+samme Net opnaa en vis Regelmæssighed, som
+det enkelte Anlæg ikke giver. Det er ud fra
+denne Tankegang, at man siden 1918 fra dansk
+Side har slaaet til Lyd for at lade V. med
+egnede Generatorer arbejde parallelt med et
+Vekselstrømsnet.
+
+Hvad selve Vindfanget angaar, er det jo
+saaledes, at man ved langt mere om
+Luftbevægelsernes Love nu end paa la Cour's Tid, og
+navnlig er der en Lov, som man først i de senere
+Aar har faaet rigtig Kendskab til — den siger,
+at naar et Legeme bevæger sig i en
+fuldkommen flydende Vædske paa en saadan Maade,
+at der ikke optræder Hvirvler eller Friktion,
+men Strømningslinierne overalt følger Legemets
+Overflade, saa vil Vædskens Tryk paa Legemet
+være vinkelret paa Strømningsretningen og vil
+ikke have nogen Komposant i
+Strømningsretningen. Det har nu vist sig ved Forsøg med
+Aëroplanvinger, at denne Sætning har en Del
+praktisk Betydning, og yderligere har det vist sig
+muligt at behandle todimensionale Strømninger
+omkring et Profil teoretisk og at bestemme
+Trykfordelingen; dette er gjort af Russeren
+Tschapligin, og Forsøg har vist god
+Overensstemmelse med Beregningerne; i øvrigt maa
+paa dette Omraade særlig nævnes N.
+Joukowsky og Kutta.
+
+I Hvilken Betydning dette har for Vindfanget,
+vil fremgaa af det følgende. Det, der foregaar i
+Vindfanget, er i Korthed det, at Vinden
+retarderes og herved afgiver levende Kraft. 1 m<sup>3</sup>
+Luft, som har en Hastighed af <i>v1</i> m/sec.,
+indeholder en Energimængde, som er 1/2 m <i>v1</i><sup>2</sup> eller
+1/2 1.22/9.81 <i>v1</i><sup>2</sup> = 1/16 <i>v1</i><sup>2</sup> kgm, idet 1,22 kg er
+Vægten af 1 m<sup>3</sup> Luft og 9,81 m/sec.<sup>2</sup> er Tyngdens
+Acceleration. Berøves der denne Luftmængde
+en Del af dens Hastighed, saaledes at
+Hastigheden reduceres til <i>v2</i>, bliver dens
+Energiindhold kun 1/16 <i>v2</i><sup>2</sup> kgm, og, bortset fra Tab, er
+Forskellen det, der er vundet ved at retardere
+Luftstrømmen. Foran Vindfanget kommer
+Vinden med Hastigheden <i>v1</i>, og i Vindfanget
+retarderes denne saaledes, at Hastigheden bag
+Vindfanget er nedsat til <i>v2</i>. Denne Overgang
+kan nu imidlertid ikke ske pludselig, da der jo
+ogsaa maa foregaa en Tilvækst i
+Luftstrømmens Tværsnit, fordi Luftmængden pr.
+Tidsenhed er den samme, saaledes at Produktet
+af Tværsnit og Hastighed er uforandret.
+Forandringen foregaar paa den Maade, at
+Luftstrømmen allerede opstuves og faar forøget
+Tryk foran Vindfanget, den kommer derefter
+til Vindfanget med formindsket Hastighed, men
+med forøget Tryk. Ved Gennemgangen gennem
+Vindfanget lides et Tryktab, og bag Vindfanget
+fortsættes Hastighedsformindskelsen, idet
+Hastighedsenergien omsættes til Tryk, indtil der
+igen er normalt Lufttryk. Den Hastighed,
+hvormed Luftstrømmen gaar gennem Vindfanget, er
+derfor hverken <i>v1</i> eller <i>v2</i>, men en Hastighed
+<i>v'</i>, der ligger derimellem, og som man kan vise
+gennemsnitlig er lig <i>v1</i>+<i>v2</i>/2. Af de Forhold,
+der kan spille en Rolle ved Gennemgangen
+gennem Vindfanget, skal nævnes
+Centrifugalkræfterne og den Tværbevægelse, der kommer, og
+som bidrager til at sætte <i>v'</i> op, men da der
+ogsaa forvoldes Tab, regnes der som oftest,
+som om disse Forhold opvejer hinanden. Har
+et Vindfang Arealet <i>F</i> = π <i>D</i><sup>2</sup>/4 m<sup>2</sup>, vil den
+Energimængde, man ved Hjælp af dette kan
+udtage, være 1/16 π <i>D</i><sup>2</sup>/4 (<i>v1</i>+<i>v2</i>)/2 (<i>v1</i><sup>2</sup>+<i>v2</i><sup>2</sup>). Den
+Energimængde, der indeholdes i Luftstrømmen,
+naar dens Hastighed er <i>v1</i>, er 1/16 <i>D</i><sup>2</sup>/4 · <i>v1</i> · <i>v1</i><sup>2</sup>,
+og Forholdet mellem denne Energimængde og
+den Del af den, som udtages ved Hjælp af
+Vindfanget, afhænger af, hvor stor <i>v2</i> er i
+Forhold til <i>v1</i>. Beregnes Forholdet for
+forskellige Værdier af <i>v2</i>/<i>v1</i>, finder man, at det
+gunstigste er, naar <i>v2</i> er en Trediedel af <i>v1</i>, og i dette
+Tilfælde tager Vindfanget 2/3·<i>v1</i>·8/9 <i>v1</i><sup>2</sup> / <i>v1</i><sup>3</sup> = 16/27 ∼ 60
+% af Energien i hele Luftstrømmen eller 0,000388
+<i>v3</i> <i>D</i><sup>2</sup> HK = 0,000285 <i>v</i><sup>3</sup> <i>D</i><sup>2</sup> kW, naar <i>v</i> er
+Hastigheden i m pr. Sek. og <i>D</i> Vingespidscirklens

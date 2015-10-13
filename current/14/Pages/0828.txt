@@ -1,0 +1,153 @@
+Bølgebredder er af meget smaa Dimensioner, der
+nogenlunde svarer til Afstanden mellem de
+enkelte Bygningselementer i Krystallerne, og som
+Følge deraf lider Røntgenlyset meget
+karakteristiske Afbøjelser ved at gaa igennem en
+Krystal. Undersøgelsen foretages paa forsk.
+Maade; den Laue'ske Metode bestaar i, at man
+lader et meget snævert Bundt Røntgenlys
+passere gennem en Krystalplade og derefter
+paavirke en fotografisk Plade, paa hvilken der da
+dannes et Billede af en stor Mængde
+Lyspunkter, ordnede efter Krystallens
+Symmetriegenskaber. Den Bragg'ske Metode bestaar i, at
+Lyset reflekteres fra en Krystalflade,
+hvorefter dets Intensitet under forsk.
+Indfaldsvinkler bestemmes, af hvilken man da kan gøre
+sig vigtige Slutninger ang. K.'s Struktur. Det
+har nu vist sig, at de enkelte
+Bygningselementer i K. ikke er de kemiske Molekuler, men de
+enkelte Atomer, som er ordnede paa en for
+hvert enkelt Stof ganske bestemt Maade.
+Molekulerne og de alm. antagne Bindinger inden for
+disse kan ikke antages at eksistere i det
+krystalliserede Stof.
+
+Der er efterhaanden bleven undersøgt en
+hel Del Stoffer, naturligvis særlig saadanne,
+der har en forholdsvis simpel kemisk
+Sammensætning og regelmæssig Krystalform. Det vil
+føre for vidt her at gennemgaa fl. af disse, og
+Forholdene skal derfor oplyses ved et enkelt
+Eksempel. Kogsalt (Klornatrium) er opbygget
+i et simpelt Terningnet, som vist i Fig. 5, hvor
+hverandet Punkt maa tænkes at være et
+Natriumatom og hverandet et Kloratom.
+Herved bliver hvert Natriumatom nærmest
+begrænset af 6 forsk. Kloratomer i nøjagtig
+samme Afstand og omvendt, og det vilde bryde
+enhver Symmetri, hvis man vilde tænke sig et
+enkelt Natrium- og et enkelt Kloratom
+forbundne til et Molekule. Afstanden mellem to
+nærmest til hinanden grænsende Atomer er
+0,000000549 mm.
+<i>(N. V. U.). O. B. B.</i>
+</chapter>
+
+<chapter name="Krystalakse">
+<b>Krystalakse,</b> se <sp>Krystal</sp>.
+</chapter>
+
+<chapter name="Krystaldannelse">
+<b>Krystaldannelse,</b> se <sp>Krystal</sp>.
+</chapter>
+
+<chapter name="Krystalelektricitet">
+<b>Krystalelektricitet,</b> se
+<sp>Pyroelektricitet</sp> og <sp>Piezoelektricitet</sp>.
+</chapter>
+
+<chapter name="Krystalformer">
+<b>Krystalformer.</b> Man skelner hos
+Krystallerne mellem Enkeltformer og Kombinationer.
+De første dannes af en hvilken som helst
+Krystalflade i Forening med alle de Flader,
+som i Medfør af Symmetrien (se <sp>Krystal</sp>)
+maa ledsage den; en terningformet
+Kogsaltkrystal er saaledes en Enkeltform. Alle
+Fladerne paa samme Enkeltform er kongruente,
+naar Krystallen er helt regelmæssig udviklet;
+deres Antal kan være desto større (indtil 48),
+jo højere en Grad af Symmetri der findes;
+omvendt er, naar Symmetri mangler, hver Flade
+en Enkeltform. De fleste Krystaller er
+Kombinationer ɔ: begrænsede af mere end een
+Enkeltform; eksempelvis er Kalkspatkrystallen, Fig. 1,
+en Kombination af een Enkeltform med 6
+Flader (<i>a</i>) og een med 2 (<i>c</i>); de sidste følges ikke
+altid med de første, Fig. 2 viser saaledes en
+anden alm. Kombination hos samme Mineral.
+Antallet af Enkeltformer i en Kombination kan
+være meget stort.
+
+Efter K.'s forsk. Grad af Symmetri inddeles
+de i <sp>Klasser</sp>. Af saadanne gives der som
+Følge af Parameterloven kun et begrænset
+Antal, nemlig 32; de sammenfattes i
+Hovedafdelinger, de saakaldte <sp>Krystalsystemer</sp>.
+Forskellen mellem disse ligger i Aksekorsets
+Art; dette vigtige Hjælpemiddel for
+Beskrivelsen vælges ikke vilkaarlig, men paa bestemt
+vedtagne Maader, navnlig saaledes, at det
+letter Overblikket over Symmetriforholdene og
+for sig alene bliver mindst lige saa symmetrisk
+som vedk. Krystal. Til hvert System hører da
+fl. Klasser, som har visse Symmetriegenskaber
+fælles; den mest symmetriske Klasse i hvert
+System betegnes som den <sp>holoedriske</sp>;
+i de øvrige, mindre symmetriske Klasser har
+en Del af Enkeltformerne kun 1/2 ell. 1/4 saa
+mange Flader som de tilsvarende i den
+holoedriske Klasse og kan afledes af disse ved, at:
+man paa bestemte Maader udelader 1/2 ell. 3/4
+af Fladerne. Man taler derfor om
+<sp>hemiedriske</sp> (halverede) og <sp>tetartoedriske</sp>
+(Fjerdedels-)- Former og Klasser. Denne
+Afledningsmaade benyttes meget, fordi de
+holoedriske Former p. Gr. a. deres større
+Regelmæssighed lettere fæstner sig i Bevidstheden;
+i hvert Krystalsystem lægger man da
+Hovedvægten paa de holoedriske Former. En Del
+Enkeltformer er i de fleste Systemer fælles for
+alle Klasserne. Krystalsystemerne er flg.:
+
+I. Det <sp>regulære</sp> System har 3 paa
+hverandre vinkelrette, lige lange Akser. I den
+holoedriske Klasse er her ikke mindre end 9
+Symmetriplaner, og her forekommer de
+fladerigeste Enkeltformer i Krystalverdenen. Der er 7
+Slags Enkeltformer (se Fig. 3—9), nemlig
+<sp>Terning</sp> (Fig. 3), <sp>Oktaeder</sp> (Fig. 4),
+<sp>Rombedodekaeder</sp> ell. <sp>Granatoeder</sp> (Fig.
+5), <sp>Pyramideterning</sp> (Fig. 6),
+<sp>Pyramideoktaeder</sp> (Fig. 7), <sp>Ikositetraeder</sp>
+(Fig. 8) og <sp>Heksakisoktaeder</sp> (Fig. 9).
+Eks. paa Kombinationer giver Fig. 11
+(Blyglans; de 3 førstnævnte Enkeltformer) og Fig.
+12 (Granat; Rombedodekaeder og
+Ikositetraeder). — Af Systemets øvrige Klasser er de
+vigtigste den <sp>tetraedrisk-hemiedriske</sp>,
+i hvilken bl. a. Oktaederet er erstattet af den
+halverede Form, det regulære Tetraeder, og
+den <sp>pentagonal-hemiedriske</sp>, hvor
+Pyramide terningen er erstattet af
+<sp>Pentagonaldodekaederet</sp> (Fig. 10; Eks.
+Svovlkis).
+
+II. I det <sp>heksagonale</sp> System benyttes
+undtagelsesvis 4 Akser, hvoraf de 3, Biakserne,
+er lige lange, ligger i samme Plan og danner
+60° med hinanden, medens den 4.,
+Hovedaksen, er af afvigende Længde og vinkelret
+paa de andre. Hovedaksen stilles lodret. I
+Systemets holoedriske Klasse er der 7
+Symmetriplaner; af Enkeltformerne har nogle en
+regelmæssig 6-kantet Grundflade, nemlig den
+<sp>heksagonale Pyramide</sp> (rettere
+Dobbeltpyramide) Fig. 13 og det <sp>heksagonale
+Prisme</sp>, Fig. 14, som siges at være af
+<sp>første Art</sp> (ell. <sp>Proto</sp> pyramide og -prisme),
+naar de saaledes som de afbildede har
+Biakserne gaaende ud til Vinkelspidserne af
+Grundfladens Sekskant; de kan ogsaa være saaledes
+stillede, at Biakserne gaar ud til Midten af

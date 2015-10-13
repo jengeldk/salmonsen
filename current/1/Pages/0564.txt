@@ -1,0 +1,141 @@
+men 96,38 l Spiritus. Man har derfor været nødt
+til at foretage Tusinder af Vægtfyldebestemmelser
+af Blandinger af bekendt Styrke og har
+paa Grundlag af disse udregnet Tabeller, efter
+hvilke man direkte kan aflæse det til en bestemt
+Vægtfylde svarende Alkoholindhold. Saadanne
+Tabeller er først udregnede af Gilpin 1794,
+efter at han 1790 var fremkommet med en
+foreløbig Meddelelse desangaaende. Paa dette
+Grundlag er senere andre Tabeller udførte, saasom
+Tralles' 1811, Gay-Lussac's 1824, Fownes' 1874,
+Mendelejev's 1869, Hehner's 1880 o. fl. Da
+enhver Vædskes Vægtfylde forandrer sig med
+Temperaturen, saa maa enhver saadan Bestemmelse
+ske ved en bestemt Temperatur. Denne
+Temperatur — <sp>Normaltemperaturen</sp> — er
+forskellig valgt, idet den i nogle Tabeller er
+15 5/9°, i andre 15°.
+
+Indholdet af Alkohol kan enten angives i
+<sp>Vægtprocenter</sp> ell. i <sp>Volumen-
+(Rumfangs-) procenter</sp>. I første Tilfælde finder
+man, at 100 Vægtdele (f. Eks. kg) indeholder x
+Vægtdele (kg) absolut Alkohol, i andet Tilfælde,
+at 100 Rumfang (f. Eks. l) indeholder x
+Rumfang (l) Alkohol. Blander man saaledes 100 l
+Alkohol og 100 l Vand, saa faar man 192,76 l
+Blanding. Da der nu i disse 192,76 l findes 100
+l Alkohol, saa findes der i 100 l af Blandingen
+51,88 l Alkohol, d. v. s. Blandingen indeholder
+51,88 Volumenprocenter. De 100 l Vand vejer
+100 kg, de 100 l Alkohol 79,46 kg, og Blandingens
+Vægt er altsaa 179,46 kg; men naar 179,46
+kg indeholder 79,46 kg Alkohol, saa indeholder 100
+kg af Blandingen 44,27 kg Alkohol, d. v. s.
+Blandingen indeholder 44,27 Vægtprocent Alkohol.
+Medens den sidste Angivelse er aldeles
+utvetydig, fremkommer der i den første en vis
+Usikkerhed, som først bortfalder, naar samtidig
+Temperaturen angives; thi medens denne
+ingen Indflydelse har paa Vægten, har den en
+stor Indflydelse paa Rumfanget. Man kan imidlertid
+let omregne Volumenprocent til Vægtprocent,
+idet man blot behøver at multiplicere de
+fundne Volumenprocenter med Vægtfylden af
+absolut Alkohol og dividere det udkomne Produkt
+med den forelagte Blandings Vægtfylde. I nogle
+Tabeller, som f. Eks. Herner's, findes opgivet
+baade Volumen- og Vægtprocent.
+
+Vægtfylden bestemmes i Praksis ved Hjælp af
+et <sp>Aræometer</sp> (s. d.), til videnskabelig Brug
+ved nøjagtigere Instrumenter. De Aræometre,
+som finder Anvendelse i Handelen, angiver
+imidlertid ikke Vægtfylden, men det til Vægtfylden
+svarende Alkoholindhold, saa at man derved
+undgaar Brugen af Tabeller. Et saaledes
+indrettet Aræometer kaldes <sp>Alkoholometer</sp>, og
+maa som ovf. nævnt være konstrueret til at
+bruges ved en bestemt Temperatur,
+Normaltemperaturen. Denne er i Danmark, Tyskland,
+Østerrig-Ungarn, Frankrig, Belgien, Holland,
+Norge, Sverige og Portugal 15°, i Italien,
+Schweiz og de forenede Stater er den 15 5/9° og
+omtrent det samme i Rusland. I Spanien er
+den 12 1/2°, i England 10 5/9°. For at
+undgaa den Ulejlighed at bringe Alkohol, der skal
+undersøges, nøjagtig paa denne Temperatur, er
+Fremgangsmaaden i Praksis den, at man
+maaler Styrken ved den forhaandenværende
+Temperatur (<sp>den tilsyneladende Styrke</sp>)
+og samtidig maaler Alkoholens Temperatur; ved
+Hjælp af Tabeller, der følger med Alkoholometrene,
+kan deraf beregnes Styrken ved
+Normaltemperaturen (<sp>den sande Styrke</sp>). Kun i
+Tyskland er (efter 1888) et Alkoholometer i
+Brug, der angiver Vægtprocenter; i alle andre
+Lande bruges endnu Volumen-Alkoholometre.
+I Norge og Sverige benyttes Gay-Lussac's
+Alkoholometer, der angiver Volumenprocent,
+i Danmark Tralles'. I England bruges <sp>Syke</sp>'s
+Hydrometer, der angiver Styrken i
+Forhold til <i>proof-spirit</i>, d. v. s. en Spiritus,
+der indeholder 57,27 Volumenprocent Alkohol.
+F. Eks. 20° <i>over-proof</i> angiver, at 100 Rumfang
+af vedk. Spiritus maa fortyndes til 120
+Rumfang for at give <i>proof-spirit</i>; 20 <i>under-proof</i>
+angiver, at den foreliggende Spiritus indeholder
+80 Volumenprocent <i>proof-spirit</i>.
+
+Man har ogsaa forskellige Metoder, ved hvilke
+man ad kemisk Vej kan bestemme Alkoholindholdet,
+naar der kun er Vand og ren Alkohol
+til Stede; men af disse er dog kun <sp>Röses</sp> Metode
+ved Titrering med Kaliumpermanganat af Bet.
+
+Skal man ved Tilsætning af Vand til en
+Alkohol frembringe en svagere Alkohol, kan man
+ikke ved simpel Proportionsberegning se, hvor
+mange Rumfang der skal tilsættes, idet
+Sammentrækningen her spiller en stor Rolle, men
+man benytter da særlige til dette Brug
+udarbejdede Tabeller. Har man med Vægte og
+Vægtprocent at gøre, bortfalder denne
+Vanskelighed.
+
+Bestemmelsen af Alkohol i Vin, Øl, Likører
+o. l. kan som nævnt ikke ske alene ved Hjælp
+af Vægtfylden, men man maa destillere
+Vædsken og kan da undersøge Destillatet, der alene
+bestaar af Alkohol og Vand. Har man f. Eks.
+taget <i>a</i> g Vin i Arbejde, deraf fremstillet <i>b</i> g
+Destillat og fundet, at dette indeholder <i>c</i>
+Vægtprocent Alkohol, saa indeholder Vinen <i>bc : a</i>
+Vægtprocent Alkohol. Kommer det ikke an paa
+saa stor Nøjagtighed, kan man ogsaa hjælpe
+sig paa den Maade, at man bestemmer den
+opr. Vædskes Vægtfylde, inddamper den, indtil
+al Alkoholen er forflygtiget, bringer den
+tilbage til det opr. Rumfang ell. Vægt ved
+Tilsætning af destilleret Vand og igen bestemmer
+Vægtfylden, der nu er større end før. Ved
+Hjælp af forskellige Formler, af hvilke ingen
+er ganske rigtige, kan man da af disse Data
+beregne Vædskens Alkoholindhold. Man har
+ogsaa konstrueret Apparater til direkte
+Bestemmelse af Alkohol i blandede Vædsker. Det
+vigtigste af disse er <sp>Ebullioskopet</sp>, der
+grunder sig paa, at Blandinger af Vand og
+Alkohol har et lavere Kogepunkt end Vand og
+saa meget des lavere, jo mere Alkohol
+Blandingen indeholder. Den første brugbare
+Konstruktion er Frøken <sp>Brossard-Vidal</sp>'s,
+der har holdt sig til nu med nogle Ændringer,
+af hvilke <sp>Malligand</sp>'s er den mest brugte
+og bl. a. benyttes ved Ølkontrollen i Danmark.
+Man støtter sig her til de af Prof. Waage i Kria
+særlig for Øl gjorte Undersøgelser og paa
+Grundlag heraf udarbejdede Tabeller.
+Apparatet bestaar af et Kar, i hvilket Vædsken
+bringes i Kog, og igennem hvis Laag der gaar

@@ -1,0 +1,117 @@
+<sp>Detailpriser for nogle vigtige Varer</sp>.
+<table>
+<td><td c>Enhed<br>pr.<td c>April<br>1914<br>gsnstl.<br>Øre<td c>April<br>1915<br>gsnstl.<br>Øre<td c>April<br>1916<br>gsnstl.<br>Øre<td c>April<br>1917<br>gsnstl.<br>Øre<td c>April<br>1918<br>gsnstl.<br>Øre<td c>April<br>1919<br>gsnstl.<br>Øre<td c>April<br>1920<br>gsnstl.<br>Øre<td c>Oktb.<br>1920<br>gsnstl.<br>Øre<td c>April<br>1921<br>gsnstl.<br>Øre<td c>April<br>1922<br>gsnstl.<br>Øre<td c>Jan.<br>1923<br>gsnstl.<br>Øre
+<td>Rugbrød<td c>4 kg<td r>56<td r>88<td r>86<td r>89<td r>91<td r>64<td r>91<td r>102 <footnote>Maksimalpris.</footnote><td r>104 <footnote>Maksimalpris.</footnote><td r>116<td r>106
+<td>Franskbrød<td c>kg<td r>36<td r>47<td r>49<td r>77<td r>80<td r>81<td r>105<td r>144 <footnote>Maksimalpris.</footnote><td r>144 <footnote>Maksimalpris.</footnote><td r>91<td r>79
+<td>Flormel, bedste danske<td c>—<td r>24<td r>36<td r>36<td r>50<td r>51<td r>51<td r>70 <footnote>Maksimalpris.</footnote><td r>95 <footnote>Maksimalpris.</footnote><td r>95 <footnote>Maksimalpris.</footnote><td r>46<td r>43
+<td>Farin, lyst, Nr. 1.<td c>—<td r>33<td r>35<td r>41<td r>59<td r>48 <footnote>Maksimalpris.</footnote><td r>40 <footnote>Maksimalpris.</footnote><td r>62 <footnote>Maksimalpris.</footnote><td r>64 <footnote>Maksimalpris.</footnote><td r>65 <footnote>Maksimalpris.</footnote><td r>62<td r>70
+<td>Kaffe<td c>—<td r>246<td r>244<td r>259<td r>273<td r>480 <footnote>Maksimalpris.</footnote><td r>415<td r>541<td r>563<td r>454<td r>392<td r>403
+<td>Smør, lurmærket<td c>—<td r>232<td r>277<td r>302<td r>337<td r>320 <footnote>Maksimalpris.</footnote><td r>300 <footnote>Maksimalpris.</footnote><td r>670<td r>771<td r>604<td r>432<td r>496
+<td>Vegetabilmargerine<td c>—<td r>119<td r>144<td r>150<td r>189<td c>—<td r>270 <footnote>Maksimalpris.</footnote><td r>325<td r>325<td r>244<td r>190<td r>167
+<td>Dansk Svinefedt<td c>—<td r>124<td r>176<td r>187<td r>187<td r>168 <footnote>Maksimalpris.</footnote><td r>168 <footnote>Maksimalpris.</footnote><td r>445<td r>471<td r>327<td r>220<td r>221
+<td>Æg, nylagte, danske<td c>Snes<td r>170<td r>232<td r>244<td r>223<td r>401<td r>469<td r>413<td r>887<td r>376<td r>258<td r>453
+<td>Sødmælk<td c>Liter<td r>16<td r>17<td r>19<td r>23<td r>34<td r>38<td r>48 <footnote>Maksimalpris.</footnote><td r>59<td r>45<td r>33<td r>35
+<td>Fersk Svinebov<td c>kg<td r>138<td r>156<td r>120 <footnote>Maksimalpris.</footnote><td r>120 <footnote>Maksimalpris.</footnote><td r>165 <footnote>Maksimalpris.</footnote><td r>125 <footnote>Maksimalpris.</footnote><td r>362<td r>459<td r>394<td r>241<td r>248
+<td>Mørbrad<td c>—<td c>—<td r>222<td r>288<td r>295<td r>477<td r>596<td r>626<td r>753<td r>661<td r>451<td r>432
+<td>Torsk<td c>—<td r>48<td r>56<td r>78<td r>92<td r>92<td r>94<td r>88<td r>109<td r>89<td r>65<td r>69
+<td>Kartofler<td c>—<td r>244<td r>483<td r>333<td r>518<td r>633<td r>850<td r>741<td r>945<td r>709<td r>637<td r>494
+<td>Petroleum<td c>Liter<td r>16<td r>19<td r>19<td r>24<td r>64<td r>48<td r>56<td r>73<td r>70<td r>34<td r>30
+<td>Skotske Nøddekul<td c>hl<td r>192<td r>320<td r>451<td c>—<td r>1207<td r>1100<td r>1331<td r>1914<td r>657<td r>473<td r>391
+<td>Knuste Koks, leveret<td c>—<td r>144<td r>201<td r>299<td c>—<td r>885<td r>7-800<td r>1090<td r>1502<td r>460<td r>391<td r>319
+</table>
+
+Varen fra Fremstiller til Fremstiller, fra
+Importør til Importør, fra Mellemhandler
+(Grossist) til Mellemhandler, fra Detailhandler til
+Detailhandler etc. eller ved Handeler, der
+fører Varen tilbage i den nævnte
+Omsætningsrække.
+
+Ved Bek. 24. Maj 1917 blev det forbudt at
+blande en Vare, hvorpaa der var
+Maksimalpris, med andre Varer, medmindre der for alle
+Blandingsvarer gjaldt Maksimalpris, samt
+Forbud mod at avertere om Salg af
+Fordelingsmærker, om Salg eller Bytte af forskellige
+Nødvendighedsvarer og af Maksimalprisvarer
+uden Angivelse af den Averterendes Navn og
+Bopæl, Bek. 11. Juni 1917, jfr. 12. Septbr 1917.
+Endelig skal nævnes L. 17. Juli 1915, der
+fastsatte Straf for den, som offentlig i Skrift eller
+Tale ubeføjet sigter danske Statsmyndigheder
+for ikke at iagttage Upartiskhed i Spørgsmaal
+om Landets Ind- og Udførsel.
+
+De fleste af disse Bekendtgørelser hævedes
+21. Jan. 1921.
+
+<sp>Brødkorn, Kartofler og
+Foderstoffer</sp>. Regeringens Synspunkt over for
+Befolkningens Forsyning med Brødkorn var,
+at dansk Korn i første Række skulde komme
+Befolkningen tilgode og til en overkommelig
+Pris. Den første Korntælling c. 1. Novbr 1914
+viste, at der vilde mangle c. 44000 t Rug og
+52000 t Hvede til Befolkningens normale
+Forbrug. Og da normalt over Halvdelen af den
+hjemmeavlede Rug og Hvede anvendes til
+Kreaturfoder, var Vanskeligheden øjensynlig.
+
+Den 6. Aug. var Udførsel af Foderstoffer,
+Korn, Kartofler, Mel og Gryn blevet forbudt,
+den 27. Aug. opfordredes Landmændene til at
+fremskynde Tærskningen, den 28. Aug. jfr. 31.
+Aug. udstedtes Bek. om, at Staten mod fuld
+Erstatning overtog de i Hovedstaden
+værende Hvedebeholdninger, der den 1. Septbr
+overdroges Kjøbenhavns Kommune. Den 25.
+Septbr udstedtes Bek. om, at det er forbudt
+at anvende aftærsket Hvede og Rug undtagen
+Smaasæd til Fodring, jfr. Plakat 23. Oktbr
+1914; Undtagelsen hæves ved Bek. af 9. Novbr,
+og Forbudet gælder nu ogsaa utærsket Korn.
+Fra 17. Novbr straffes Overtrædelser. Det
+forbydes at anvende Rug og Hvede til
+Spiritusfremstilling — dog Dispensation for Rug til
+Fremstilling af Brødgær. Den 17. Decbr
+overtager Staten 50 t Rug i 3 Amter for at faa
+konstateret Prisen, hvorefter der den 31. Decbr
+1914 fastsættes en Maksimalpris af 19 1/2 Kr.
+pr. 100 kg dansk Rug (118 Pd hollandsk), og
+ved Bek. 28. Jan. 1915 sattes Maksimalpris
+paa dansk Hvede til 21 1/2 Kr. pr. 100 kg (128
+Pd. hollandsk) og paa Hvedeklid (17 Kr.).
+Efter Maksimalprisens Fastsættelse kom der
+ingen Rug frem, hvorfor Amtmændene fik Ordre
+til at opkøbe, eventuelt beslaglægge, Lagre for
+at sikre en Reservebeholdning. Den 11. Jan.
+1915 udstedtes Bek. om Mølleres og Bageres
+Forsyning med Rug ved Ekspropriation, og 18.
+Jan. 1915 overtager Staten Beholdninger af
+udenlandsk Hvedemel (25 Mill. kg). Samtidig
+indkøber Staten Korn fra Udlandet.
+Angaaende Brødprisen afsluttes en Overenskomst
+imellem Indenrigsministeriet, Kjøbenhavn og
+Frederiksberg og Rugbrødsfabrikkerne om en
+Rugbrødspris paa 93 Øre pr. 4 kg fra 8. Febr
+til 1. Septbr 1915, senere forlænget til 1. Novbr
+1915, hvorefter Prisen nedsattes til 89 Øre
+indtil 30. Juli 1916, medens Fintbrødsprisen
+forhøjedes fra 14. Apr. 1916. Fra 20. Septbr 1916
+forhøjedes Hvedebrødsprisen paa ny,
+Franskbrød saaledes fra 15 til 20 Øre. Staten og
+Kommunerne delte i Fællesskab Udgiften ved at
+sælge Rugen under dens Indkøbspris. Ved Bek.
+25. Septbr og 21. Decbr 1914 gaves Regler om
+fast Vægt paa Brød over 350 g, jfr.
+Raadstueplakat 27. Oktbr, 3. Novbr og 1. Decbr 1914, og
+Amtmændene opfordredes ved Cirkulære af
+28. Jan. 1915 til at fastsætte Maksimalpriser
+paa Rugmel og Rugbrød.
+
+Samtidig med at Kornet søgtes forbeholdt
+Befolkningen som Brødkorn, maatte der
+skaffes Udveje for Foderstoffer. England
+beslaglagde straks »en Del Ladninger for Danmark,
+men i Oktbr—Decbr opnaaedes frigivet c.
+95000 t Majs m. v.

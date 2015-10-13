@@ -1,0 +1,143 @@
+α) <sp>Hastighedstrin</sp>. I Fig. 3 er f. Eks.
+vist et Tryktrin med to Hastighedstrin. I
+Ledetudene <i>D</i> ekspanderes Dampen, saaledes at
+Trykket falder efter Kurven <i>p</i> og Hastigheden
+stiger efter Kurven <i>c</i>. I hver af de to
+Løbeskovlskranse <i>L</i><sub>1</sub> og <i>L</i><sub>2</sub> afgives Halvdelen af den
+samlede Hastighed, og Ledeskovlene <i>V</i> mellem
+Løbehjulene vender Dampstraalerne, saa de
+træder ind i <i>L</i><sub>2</sub>, saa vidt muligt uden Stød.
+
+β) <sp>Tryktrin</sp>. I Fig. 4 er vist en
+Enstrykturbine med to Tryktrin. Dampens Varmefald
+er i hvert af de to Sæt Ledetude <i>D</i><sub>1</sub> og <i>D</i><sub>2</sub> kun
+Halvdelen af det samlede Varmefald, og
+Dampens største Hastighed er derfor kun Halvdelen
+af den til det samlede Varmefald svarende
+Hastighed (Trykkurve <i>p</i>, Hastighedskurve <i>c</i>).
+
+I den samme Turbine omsættes Damptrykket
+ofte trinvis til Hastighed, og denne udnyttes
+derpaa inden for hvert Tryktrin i fl.
+Hastighedstrin. Som Eksempel kan anføres
+<sp>Curtis-Turbinen</sp>, der er blevet anvendt meget til
+direkte Drift af Dynamoer (indtil c. 10000 H. K.).
+Fig. 5 viser en saadan Turbine med to Tryktrin,
+hver med to Hastighedstrin. <i>A</i> er Ledetudene,
+<i>B</i> Løbehjulene, der bærer Løbeskovlene, og <i>C</i>
+er Spildedampaabningen, gennem hvilken
+Dampen ledes til Kondensatoren.
+
+I Enstrykturbiner kan Løbehjulene være
+<sp>delramte</sp>, d. v. s. Ledetudene er kun
+anbragte paa et Stykke af Periferien, saaledes at
+kun en Del af Løbeskovlene samtidigt paavirkes
+af Dampstrømmen. Løbehjulene kan derfor have
+stor Diameter, saa Skovlhastigheden bliver
+forholdsvis stor, og der i hvert enkelt Trin kan
+omsættes en betydelig Del af det samlede
+Trykfald. Enstrykturbiner er derfor korte, men
+hvert enkelt Løbehjul maa løbe i et særligt Rum,
+og Skillevæggene (<sp>Mellembundene</sp>)
+mellem dem maa aftættes mod de omløbende Dele.
+Den Hastighed, Dampen opnaar ved
+Ekspansionen gennem Ledetuden, er afhængig af
+Trykket før og efter Tuden og er større, jo større
+Trykforskellen er. Er Trykket efter Tuden
+minde end c. 0,58 af Trykket før Tuden, maa
+Ledetuden være forsynet med en Indsnævring
+(Strube), efterfulgt af et divergerende Stykke.
+Denne Tudform anvendes i Laval-Turbinen og
+ofte i det første Trin af
+Flertrin-Enstrykturbiner. Deles Trykfaldet, saaledes at Trykket
+efter Tuden bliver større end ovf. anført,
+forsynes Ledetuden ikke med denne Indsnævring
+og det divergerende Stykke. Som Eksempler paa
+Turbiner, hvor dette anvendes, kan nævnes
+<sp>Zoelly-Turbinen</sp> og
+<sp>Rateau-Turbinen</sp>, som kun adskiller sig fra hinanden ved
+Detailler i Konstruktionen. Fig. 6 fremstiller en
+Zoelly-Turbine i Snit, saa at man kan se
+Løbehjulene og Mellembundene, der bærer
+Ledetudene. Turbinen er delt i to Dele, forbundne
+med et fælles Rør for Kraftdampen.
+
+2) <sp>Overtrykturbiner</sp>. I disse har
+Kanalerne mellem Løbeskovlene mindre Tværsnit
+ved Udløbet end ved Indløbet, og som Følge
+heraf finder der ogsaa i disse en Omsætning
+af Damptrykket til Hastighed Sted. Dampen
+yder derfor af denne Grund et yderligere
+Reaktionstryk mod Løbeskovlene; Forholdet mellem
+Energiomsætningen i Løbeskovlene og hele
+Energiomsætningen benævnes
+<sp>Reaktionsgraden</sp>, denne er som oftest 1/2. Overtrykturbiner
+udføres kun til trinvis Udnyttelse af
+Damptrykket. Fig. 7 viser Lede- og Løbeskovlene i to
+Trin af en Overtrykturbine samt Forløbet af
+Dampens Trykkurve <i>p</i> og Hastighedskurve <i>c</i>
+under dens Ekspansion gennem Turbinen. Den
+vigtigste af denne Type Turbiner er
+<sp>Parson-Turbinen</sp>, der i stor Udstrækning anvendes
+til Drift af Dynamoer samt som
+Fremdrivningsmaskine i Skibe. Fig. 8 giver et Billede af
+en saadan Turbine med aftagen Overdel.
+Trommelen med Løbeskovlskransene hviler paa sin
+Plads i Underdelen, og paa den nedenunder
+liggende Overdel ses Ledeskovlene.
+
+Da der findes forsk. Tryk paa de to Sider af
+Løbeskovlene i Overtrykturbiner, maa i disse
+straks det første Trin være <sp>fuldramt</sp>, d. v.
+s. Ledeskovlene er anbragt hele Periferien rundt.
+Turbinens Diameter bliver af denne Grund
+forholdsvis lille. I hvert Trin af en
+Overtrykturbine kan der af Hensyn til Turbinens
+Virkningsgrad kun omsættes en ringe Brøkdel af
+Dampens samlede Energi, der bliver derfor
+mange Trin, og Længden af Turbinen bliver
+stor. P. Gr. a. Trykforskellen af Dampen før
+og efter Løbeskovlene opstaar paa Trommelen
+et Tryk i Retning af Akslen. Dette Tryk
+udlignes i Landturbiner ved Hjælp af
+Udligningsstempler, ell. ved at Dampen ledes ind paa
+Midten af Turbinen og strømmer ud ved begge
+Ender. I Skibsturbiner ophæves det til Dels af
+Skruens Tryk.
+
+I den nyere Tid forener man ofte Fordelene
+ved Enstryktrin og Overtrykstrin i
+<sp>kombinerede Turbiner</sp>, hvorved forstaas
+Turbiner, i hvilke Højtrykdelen bestaar af et ell.
+fl. Enstryktrin og Lavtrykdelen af
+Overtryktrin. Saadanne Turbiner bygges f. Eks. af
+Allgemeine Elektricitäts Gesellschaft (A. E. G.
+Turbiner), Melms & Pfenninger, John Brown,
+Yarrow, Schichau, Gebrüder Sulzer o. a. Fig. 9a
+viser f. Eks. en kombineret Skibsturbine. <i>A</i> er
+Løbehjulet, der bærer Enstryk-Løbeskovlene, <i>B</i>
+er Trommelen, hvorpaa Overtryk-Løbeskovlene
+er anbragt, <i>C</i> Spildedamprøret. I den Ende af
+Turbinen, hvor sidstnævnte Aabning findes,
+anordnes i Skibsturbiner en særlig Bakturbine, der
+i dette Tilfælde ligeledes er forsynet med et
+Enstryktrin og en Overtrykdel. Fig. 9 b viser,
+hvorledes Turbinens Aksel ved Hjælp af en
+<sp>Labyrintpakdaase</sp> er ført damptæt ud
+gennem Turbinehusets Endebunde. Tætningen
+frembringes ved Hjælp af en Række Ringe, der
+er anbragt i Turbinehuset, og med et meget
+lille Spillerum passer ned mellem tilsvarende
+Neddrejninger paa Akslen. Skovlenes
+Dimensioner og Antal retter sig efter Turbinens
+Størrelse. Deres Længde er i det første Højtrykstrin
+kun nogle faa cm, i Lavtryksdelen findes i de
+største Skibsturbiner Skovle indtil 60 cm lange.
+Bredden langs Turbinens Akse er fra 1 til 5
+cm. Antallet af Skovle kan i et stort Skibsanlæg
+være over et Par Millioner.
+
+Alle ovenn. Turbiner er <sp>Aksialturbiner</sp>,
+idet Dampens Strømretning gennem dem
+hovedsageligt sker i Akslens Retning. Denne Type er
+den almindeligste, men der findes enkelte

@@ -1,0 +1,47 @@
+enkeltvirkende Firtakt-Motorer med Trunkstempler, i
+de senere Aar fremstilles ogsaa Totakt-Motorer
+af forsk. udenlandske Fabrikker, og til
+Skibsbrug anvendes nu mest Motorer med
+Stempelstang og Krydshoved samt i enkelte Tilfælde
+dobbeltvirkende Totakt-Motorer.
+
+En <sp>Firtakt-D.</sp> arbejder paa flg. Maade:
+Under det første Stempelslag mod
+Krumtapakslen indsuges i <sp>Arbejdscylinderen</sp>
+Luft af Atmosfærens Tryk gennem en
+<sp>Luftventil</sp>, der ligesom nedennævnte Ventiler er
+anbragt i Tappen af Cylinderen. I andet Slag
+sammentrykkes denne Luft til et Tryk af c.
+35 kg/cm<sup>2</sup> og opvarmes derved til en
+Varmegrad af c. 600°, der er betydeligt over
+Brændstoffets Antændelsespunkt. Under første Del af
+3. Slag, <sp>Arbejdsslaget</sp>, sprøjtes
+Brændstoffet gennem <sp>Brændstofventilen</sp> ind
+i Cylinderen ved Hjælp af Luft,
+sammentrykket i en særlig Luftpumpe til c. 60 kg/cm<sup>2</sup>.
+Brændstoffet antændes af den varme Luft i det
+Øjeblik, det træder ind i Cylinderen, og dets
+Tilførsel reguleres saaledes, at Forbrændingen
+sker gradvis under konstant Tryk.
+Brændstoftilførslen ophører, naar Stemplet har vandret
+c. 12 % af Slaget, og Resten af Arbejdsslaget
+forløber derefter under Ekspansion af
+Forbrændingsgassen. Under fjerde Slag uddrives
+Spildegassen af Cylinderen gennem
+<sp>Udstødsventilen</sp>.
+
+I <sp>Totakt-D.</sp> foregaar Arbejdsgangen under
+to Stempelslag. Brændstoffets Antændelse og
+Forbrænding sker som i Firtakt-Motoren ved
+Hjælp af Luft sammentrykt til c. 35 kg/cm<sup>2</sup>,
+men denne Lufts Indførelse i Cylinderen og
+Spildegassens Uddrivning af denne sker paa
+afvigende Maade. Spildegassens Udstød sker
+gennem <sp>Udstødsporte</sp>, der er anbragte i
+Cylindervæggen umiddelbart over Stemplet,
+naar dejtte staar i nederste Stilling. Til
+Spildegassens Uddrivning og Brændstoffets
+Forbrænding bruges Luft, Skylleluft, der er
+sammentrykket til c. 0,4 kg/cm<sup>2</sup> i en
+
+<img>Fig. 1. Snit gennem firtakt Landdieselmotor.</img>

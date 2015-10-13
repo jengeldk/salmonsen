@@ -1,0 +1,199 @@
+<chapter name="Kilo">
+<b>Kilo,</b> græsk tusinde, i Sammensætninger med
+Størrelsesbenævnelser i det metriske System,
+f. Eks. Kilogram = 1000 g, Kilometer =
+1000 m.
+<i>Th. O.</i>
+</chapter>
+
+<chapter name="Kiloampère">
+<b>Kiloampère</b> [aŋ'pær<sub>ə</sub>], 1000 Ampère, se
+<sp>elektriske Maalenheder</sp>.
+</chapter>
+
+<chapter name="Kilogram">
+<b>Kilogram</b> = 1000 g.
+</chapter>
+
+<chapter name="Kilogramkalorie">
+<b>Kilogramkalorie,</b> se <sp>Kalorie</sp>.
+</chapter>
+
+<chapter name="Kilogrammeter">
+<b>Kilogrammeter</b> (kgm), d. s. s.
+Meterkilogram (mkg), er det Arbejde som udfordres til
+at løfte et Kilogramlod 1 m lodret opad. Smlg.
+<sp>Energi</sp>, S. 191.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Kiloliter">
+<b>Kiloliter</b> = 1000 l.
+</chapter>
+
+<chapter name="Kilometer, en">
+<b>Kilometer,</b> <sp>en</sp> = 1 km = 1000 m. I
+Jernbanestatistikken anvendes adskillige
+sammensatte kilometriske Begreber og Udtryk for at
+betegne visse Enheder, der danner Grundlag for
+Bedømmelsen af en Jernbanes Driftsresultater,
+som — da de fl. Enheder er internationalt
+vedtagne — gennem disse direkte kan
+sammenlignes med andre Baners Resultater. Af disse
+Enheder er flg. de væsentligste: 1 <sp>Bane-K.</sp> =
+1 km af Banenettets Længde, 1 <sp>Lokomotiv</sp>-,
+<sp>Tog</sp>-, <sp>Vogn</sp>-, <sp>Aksel</sp>-, <sp>Ton</sp>-,
+<sp>Vognladnings</sp>-, <sp>Person</sp>- og <sp>Plads-K.</sp> =
+henholdsvis 1 Lokomotiv, 1 Tog, 1 Vogn, 1 Aksel,
+1 Ton, 1 Vognladning (= 10 Tons), 1 Person og
+1 Personvognsplads befordret over en
+Strækning af 1 km. Ønsker man f. Eks. at udregne
+de i et vist Tidsrum paa en vis Banestrækning
+præsterede Vogn-Akselkilometre, faas de som
+Summen af hver enkelt over Strækningen
+indenfor det givne Tidsrum befordret Vogns
+Akselantal multipliceret med det samlede Antal
+km, hvorover den paagældende Vogn er
+befordret paa Strækningen. De forannævnte Enheder
+kan specificeres ud i forsk. Grupper, f. Eks.
+kan Tog-K. deles i <sp>Plantog</sp>-, <sp>Særtog</sp>-,
+<sp>Ballasttog</sp>-, <sp>Persontog</sp>-, <sp>Godstog-K.</sp>
+o. fl. og Lokomotiv-K. i f. Eks.
+<sp>Toglokomotiv</sp>-, <sp>Forspands</sp>-, <sp>Rangerings</sp>-,
+<sp>Reserveholds-K.</sp> o. s. v.; heraf fremgaar, at
+de under en Jernbaneforvaltning ell. paa en
+bestemt Banestrækning i et vist Tidsrum
+præsterede, samlede Antal Lokomotiv-K. som Regel
+ikke er lig med de præsterede Tog-K. Da de af
+Lokomotiverne virkelig tilbagelagte km ved f.
+Eks. Rangeringstjeneste ikke kan udregnes
+direkte, bliver disse km beregnet efter den Tid,
+hvori der er rangeret, og efter en ganske
+bestemt Omsætningsskala; saaledes regnes ved
+de danske Statsbaner 1 Rangeringstime = 10
+km; paa samme Maade forholder man sig m.
+H. t. Reservehold (ɔ: Lokomotivet staar under
+Damp som Reserve i Remisen), idet en
+Reserveholdstime sættes = 2 km.
+
+Foruden Ton-K. anvendes de mere
+specificerede Enheder, <sp>Nettoton</sp>-, <sp>Taraton</sp>- og
+<sp>Bruttoton-K.</sp> De under en Jernbane
+forvaltning i Løbet af et vist Tidsrum præsterede
+Nettoton-K. faas som Summen af Egenvægtene
+af de indenfor Tidsrummet befordrede
+Rejsende, Gods m. v. (Nyttelasten), hver især
+multipliceret med det samlede Antal km, hvorover
+den paagældende Rejsende, henholdsvis Stk.
+Gods m. v. er blevet befordret, eller kortere
+sagt: er lig med Summen af Produkterne af
+Egenvægtene af de befordrede Rejsende og
+Gods m. v. og deres respektive, samlede
+Befordringslængder inden for Tidsrummet. Paa
+samme Maade bliver de præsterede Taraton-K.
+lig med Summen af Produkterne af Egen (Tara-)
+vægtene af Lokomotiver, Tendere, Vogne og
+øvrige Køretøjer (inkl. Vand, Brændsel,
+Betjeningsmandskab m. v.) og deres respektive,
+samlede Befordringslængder inden for
+Tidsrummet. Bruttoton-K. bliver lig med Summen
+af de to foregaaende K.
+
+Endelig benyttes i forsk. Lande, hvor særlige
+Forhold gør sig gældende, forsk. lokale
+Enheder; her i Danmark, hvor Færge- og
+Skibssejlads indgaar som Led i Statsbanernes Drift,
+regnes saaledes yderligere med
+<sp>Overfarts-K.</sp> og <sp>Sejlads-K.</sp>, hvis Bet. fremgaar af
+Benævnelsen, samt f. Eks. 1 <sp>Færgespor-K.</sp> =
+1 m Spor paa Færge, bevæget over en
+Strækning af 1 km.
+<i>G. K.</i>
+</chapter>
+
+<chapter name="Kilovoltampère">
+<b>Kilovoltampère</b> [-aŋ'pær<sub>ə</sub>], forkortet
+Betegnelse kVA, 1000 Voltampere, praktisk Enhed
+for tilsyneladende elektrisk Effekt. Benyttes til
+Angivelse af Vekselstrømsmaskiners Størrelse.
+<i>Abs. L.</i>
+</chapter>
+
+<chapter name="Kilowatt">
+<b>Kilowatt</b> [-'vat-], forkortet Betegnelse kW,
+1000 Watt, praktisk Enhed for elektrisk Effekt.
+Benyttes til Angivelse af elektriske Maskiners
+Størrelse. 0,736 kw = 1 HK.
+<i>Abs. L.</i>
+</chapter>
+
+<chapter name="Kilowatttime">
+<b>Kilowatttime</b> [-'vat-], forkortet Betegnelse
+kWh, 1000 Wattimer, praktisk Enhed for
+elektrisk Energi; anvendes ved Opgørelse af
+Betaling for Elektricitetsforbrug.
+<i>Abs. L.</i>
+</chapter>
+
+<chapter name="Kilpatrick">
+<b>Kilpatrick</b> [k<sub>i</sub>£'pätr<sub>i</sub>k], to Byer i det vestlig
+Skotland, Dumbartonshire. 1) <sp>Old</sp> ell.
+<sp>West-K.</sp> ligger ved Udmundingen af Forth-Kanalen
+i Clyde og har (1921) 55668 Indb. 2) <sp>New</sp> ell.
+<sp>East-K.</sp> ligger længere mod Ø., har (1921)
+10057 Indb. og Bomuldsindustri.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="kilre">
+<b>kilre</b> (Søv.). Et Udtryk for, at Sejlene
+bevæger sig frem og tilbage, naar Vindens
+Indfaldsvinkel bliver saa lille, at Sejlet ikke kan
+fyldes.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Kilrush">
+<b>Kilrush</b> [k<sub>i</sub>£'ra∫], Søstad i det sydvestlige
+Irland, Grevskabet Clare, ved Mundingen af
+Shannon, har c. 5000 Indb., en Havn, Handel
+med Fisk og Tørv.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Kilsyth">
+<b>Kilsyth</b> [k<sub>i</sub>£'sa^iþ], By i Mellemskotland,
+Stirlingshire, har (1921) 10364 Indb., betydelige
+Væverier og Ruiner af et gl. Slot.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Kilt">
+<b>Kilt,</b> Højskotternes Skørt.
+</chapter>
+
+<chapter name="Kilung">
+<b>Kilung</b> (<sp>Kelung</sp>, <sp>Kelong</sp>), Havnestad i
+Japan paa Nordøstkysten af Formosa, ligger
+ved en rummelig Bugt og har 10000 Indb.
+Havnen er aabnet for udenlandsk Handel. Byen
+udfører Kamfer, Te, Indigo, Sesam og Fisk samt
+Kul fra de nærliggende Miner. En Jernbane
+forbinder den med Tamsui, 30 km længere mod
+V.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Kilwa">
+<b>Kilwa</b> (<sp>Quiloa</sp>), to Havnestæder paa
+Afrikas Østkyst, britisk Koloni Tanganyika
+Territory (tidligere Tysk Østafrika).
+<sp>K.-Kivindje</sp> er en vigtig Havneplads, til Trods for
+at den ligger paa en flad, usund Kyst, hvor
+Skibene maa ankre langt fra Stranden, men
+den er Udgangspunkt, for en vigtig Karavanvej
+til Nyassa-Søen; c. 10000 Indb. —
+<sp>K.-Kissivani</sp> er nu kun en ubetydelig By, men en af
+de ældste Fremmedkolonier paa Afrikas
+Østkyst. Den blev grundlagt af Araberne omkr.
+1000, men besat af Portugiserne (1498), der ejede

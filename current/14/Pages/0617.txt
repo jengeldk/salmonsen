@@ -1,0 +1,143 @@
+Det ses, at den tilføjede Mængde Vanddamp
+(30 %) har sat Temp. fra 1350° ned til
+904°, og synderlig længere bør man ikke gaa
+ned, hvis Gassen skal anvendes som
+Generatorgas til Fyring. Ved forøget Tilsætning af
+Vanddamp glider det fremstillede Produkt
+mere og mere over til at blive den egl. K.
+(Generatorvandgas, Halvvandgas, Dowsongas), der
+med sin lavere Temp. og mindre Mængde <sp>fri</sp>
+Varme er fordelagtigst til Motorbrug (se ovf.
+under Afsnit 1). Til yderligere Forstaaelse af
+de nærmere Forhold ved Gasfyring kan tillige
+henvises til den eng. <i>Gas-Journal</i>, 17. og 24.
+Juni 1919, hvor der findes en teoretisk-praktisk
+Redegørelse, ledsaget af Tabeller over
+Gassammensætninger, Brændværdier, Varmefylde m.
+m. Som Resumé anfører den nævnte Artikel
+følgende:
+
+Ved Gasfyring gælder det om 1) det mest
+mulige at udnytte de bortgaaende
+Forbrændingsprodukters Varme og helst til hermed at
+forvarme den sekundære Forbrændingsluft (ɔ:
+<sp>Rekuperatorsystemet</sp>). 2) Gassen
+skal afkøles mindst muligt, inden den
+bruges (ɔ: Generator, Ovnrum og Rekuperator skal
+sammenbygges det mest mulige, hvis der ikke
+af andre Grunde vælges en enkelt Generator
+til fl.. Ovne). 3) Der skal vaages nøje over
+Anlæggets Drift og stadig sørges for rette
+Forhold mellem Primærluft, tilsat Vanddamp
+(hvor saadan tilsættes ud over, at Primærluften
+stryger hen over en Vandkasse), udviklet
+Gasmængde og tilført Sekundærluft. Der anbefales
+Kontrolapparater til Hjælp for den Fyrende til
+dette Brug, Disse er enten optiske (Bedømmelse
+af Flammens Udseende) ell. angiver ad mek.
+Vej (f. Eks. ved en Differential-Trækmaaler)
+Forholdet mellem Gasmængden og Mængden af
+tilført Sekundærluft.
+
+4) <sp>Kraftgas og Fyringsgas af
+bituminøst Brændsel</sp>.
+
+I Generatoren er der højest Temp. i
+Brændselsmassens underste Del, og hvis Brændslet er
+bituminøst, f. Eks. Kul, vil den hede
+Gasblanding, der stiger op fra Brændselsmassens
+underste Del, ophede og afgasse de øverste
+Brændselslag paa en Maade, der nærmest svarer til
+Produktionen af alm. Stenkulsgas i Retorterne.
+Resultatet bliver derfor en Gasblanding, der
+kan karakteriseres som alm. K. af Koks tilsat
+Kulbrinter og Tjæredampe, og denne
+Gasblanding egner sig baade til Fyring og, efter at den
+er befriet for Tjæredampene, til Kraft.
+
+For at befri Gasblandingen for Tjære kan
+man f. Eks. koble to Generatorer efter
+hinanden, saa at den udviklede tjæreholdige Gas
+føres ind i en Generator med glødende Koks,
+hvorved Tjæredampenes tunge Kulbrinter dels
+spaltes, dels forbrænder. Det samme kan
+opnaas i een Generator, en Slags
+»Dobbelt-Generator«, naar denne særligt indrettes dertil. Fig. 5
+viser en af Prof. Strache (Wien) angivet
+Konstruktion: Her sker først en fuldstændig
+Forbrænding af Destillationsgassen, hvorved der
+dannes Vanddampe og Kulsyre, der ved at føres
+sammen med den af det af gassede Brændsel
+udviklede Gas spaltes til Brint og Kulilte.
+Brændslet (Kullene) fyldes ned gennem en
+aaben Tragt og glider ned paa den skraat stillede
+Rist <i>T</i>, hvorigennem alm. Luft suges ind; de
+nærmest Risten liggende Kul kommer herved i
+Brand, Varmen af gasser de ovenover liggende
+Kul, og som Koks glider hele Brændselsmassen
+langsomt og stadig ned i Underdelen af
+Generatoren. Destillationsgassen antændes og
+forbrændes af Sekundærluften, der suger ind ved
+<i>S</i>, og naar Spjældet <i>K</i> er lukket, tvinges den
+dannede Gas, der
+indeholder en Del Kulsyre
+og Vanddamp, ned til
+Reduktionsrummet <i>R</i>, og
+her spaltes Kulsyren og
+Vanddampene til
+Kulilte og Brint. Hvis det
+er stærkt bituminøst
+Brændsel, der er
+benyttet, udvikles der ikke
+paa denne Maade
+Varme nok til, at al
+Vanddampen og Kulsyren kan
+reduceres. Man lader
+da <sp>nogle</sp> af,
+Destillationsgassens
+Forbrændingsprodukter undvige
+op gennem Skorstenen
+<i>K</i>, og ved Passagen op
+gennem denne
+forvarmes herved den
+Vanddamp og Luft, der da i
+<sp>dette Tilfælde</sp>
+gennem <i>D</i> føres ind i
+Forvarmeren <i>U</i> og gennem
+Kanalen <i>u</i> ned til
+Reduktionsrummet <i>R</i>.
+Gasblandingen trækkes saa
+gennem
+Brændselsmassen og ud ved <i>O</i>. Det kan
+ikke ventes, at
+Brændselsmassen i Højde med
+<i>O</i> er helt udnyttet; Slaggerne kan endnu
+indeholde Kulstof, og for helt at udnytte dette
+suges der gennem Bundristen <i>A</i> Luft ind, som
+danner Gas af den Koksmasse, der passeres,
+og denne Gas blander sig med den ovenfra
+kommende Gasstrøm, saa det samlede
+fremstillede Produkt kan føres ud ved <i>O</i>. Generatoren
+har altsaa Lufttilførsel paa 3 Steder, nemlig <i>T</i>
+(til Brændslets Af gasning) og <i>S</i> (til
+Destillationsgassens Forbrænding) samt <i>A</i> (til
+fuldstændig Forbrænding af det Kulstof, der ikke er
+forbrændt, inden Brændslet er sunket ned forbi
+O.). Man har altsaa ved denne Konstruktion
+opnaaet i den samme Generator direkte at
+fremstille en Gasblanding, hvor Tjæredampene er
+helt dekomponerede.
+
+I den nyeste Tid er man imidlertid kommet
+ind paa i St f. at indvinde Tjæren. Det er
+navnlig under Verdenskrigen konstateret, hvilke
+uhyre Værdier der ved nærmere
+Forarbejdning kan udvindes af Tjæren og Ammoniakken
+(Tjæren giver Olier, der til Dels erstatter
+Mineralolierne, Benzol kan indvindes m. m.).
+Desuden er den Gasblanding, der udvindes af
+bituminøst Brændsel, selv om man fjerner
+Tjæren, af indtil 15 % højere Brændværdi end den
+Gas, der udvindes af Koks, thi der bliver altid
+
+<img>Fig. 5.</img>

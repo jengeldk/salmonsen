@@ -1,0 +1,158 @@
+<chapter name="Skærgaardsflaade">
+<b>Skærgaardsflaade,</b> en særlig til Forsvar af
+en Skærgaard anvendt Flaadeafdeling,
+bestaaende af mindre, til dette Øjemed konstruerede
+Skibe. I Sverige har tidligere et saadant Værn
+været stærkt udviklet.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Skærgaards Halvøen">
+<b>Skærgaards Halvøen,</b> Grønlands Østkyst,
+68° 07′ n. Br., ligger, omgivet af en Mængde
+smaa Øer og Skær, paa Østsiden af den
+mægtige Isfjord Kangerdlugsuak, lidt inden for dens
+Munding. Det er en c. 125 m høj Halvø,
+bestaaende af kullede, glatslebne og afrundede
+Gnejsklipper, der ved en lav, smal Tange
+forbindes med det bagved liggende høje og stejle
+Basaltlandskab. Paa Halvøens Sydside fandt
+Amdrup, paa sin Baadrejse 1900, 8 Husruiner,
+hvoraf 4 meget gl., 6 Teltpladser og talrige
+Grave, der ved Udgravning gav et rigt
+etnografisk Udbytte. (<sp>Litt</sp>.: »Medd. om Grønland«,
+XXVII og XXVIII).
+<i>G. F. H.</i>
+</chapter>
+
+<chapter name="Skærgaardssild">
+<b>Skærgaardssild</b> er et Navn for den Sild,
+som lever i Østersøen.
+<i>Ad. J.</i>
+</chapter>
+
+<chapter name="Skæring med Ilt">
+<b>Skæring med Ilt.</b> Lader man en
+koncentreret Iltstraale strømme mod glødende Jern
+forbrænder dette under Varmeudvikling og
+Dannelse af et Ilte, der sprøjtes bort af den
+tilledede Ilt, idet Iltet har lavere Smeltepunkt
+end det opr. Materiale. Varmeudviklingen er
+tilstrækkelig til at holde det nærmest
+underliggende Jern rødglødende, saaledes at
+Processen kan fortsættes indtil Jernet er brændt
+ell. skaaret igennem.
+
+Denne Egenskab ved Jernet benytter man sig
+af ved den autogene Skæring ell. Skæring med
+Ilt. Værktøjet, man benytter, har stor Lighed
+med en Svejsebrænder, se Fig., der viser en
+<sp>Skærebrænder</sp>, hvor Skære-Ilten
+strømmer ud gennem et centralt Mundstykke, medens
+Forvarmeflammen (som Regel Acetylen og Ilt)
+faar sit Brændstof gennem et ringformet
+Udløb anbragt uden om Skære-Iltens Mundstykke.
+Man har ogsaa Skærebrændere bestaaende af
+en alm. Svejsebrænder forsynet med et
+Mundstykke for Skære-Ilt. Forvarmeflammen maa
+stadig være i Funktion under Skæringen for at
+kunne forvarme Overfladen af Jernet
+efterhaanden som Brænderen føres frem.
+
+Under Skæringen er det nødvendigt at føre
+Brænderen med den størst mulige Sikkerhed
+af Hensyn til Snitoverfladens Jævnhed; bedst
+er det at anvende en mekanisk Fremføring;
+Snittet bliver herved smukkere og Arbejdet
+billigere. Som Føringsanordning kan man
+anvende et Par Ruller anbragt paa
+Brændermundstykket, se Fig. Brænderen maa
+indstilles saaledes i Forhold til Rullerne, at
+Mundstykket befinder sig nogle mm fra Godsets
+Overflade, tillige kan Brænderen danne en ell.
+anden Vinkel med Hullernes Aksel saaledes at
+man kan skære skraa Snit. Der kan anvendes
+forsk. andre Føringer saasom Stangpasser,
+Pantograf, Forsættere af forsk. Konstruktion,
+Skabioner o. s. v.
+
+Den autogene Skæring finder udstrakt
+Anvendelse i det praktiske Liv, saaledes i
+Skibsbyggerier til Udskæring af Panserplader, af
+Døre i Skodder, Mandehuller o. s. v., i
+Maskinfabrikker f. Eks. til Udskæring af
+Krumtapbugter m. m., ved Nedbrydning af gl.
+Jernkonstruktioner, Ophugning af udrangerede
+Skibe, Demontering af nedlagte Fæstninger
+(Pansertaarne og Skyts) o. s. v., o. s. v.
+
+Ved Hjælp af en Luftklokke dannet af
+Trykluft, tilledet gennem et ringformet Mundstykke
+udenom Forvarmeflammen, er det lykkedes at
+skære autogent under Vand, hvilket kan have
+Bet. for Bjergningsselskaber, Dykkere etc.
+
+Støbejern, Kobber og dets Legeringer, samt
+Aluminium kan ikke skæres autogent uden at
+benytte særlige Kunstgreb. Her er det Iltet,
+der har højere Smeltepunkt end det opr.
+Materiale, saaledes at dette beskyttes af det
+usmeltede Ilt mod Forvarmeflammen. Ved
+Kobber er det særlig den store
+Varmeledningsevne, der vanskeliggør Skæringen. De forsk.
+Specialstaalsorter yder ligeledes større ell.
+mindre Modstand mod den autogene Skæring.
+<i>D. H. B.</i>
+
+<img>Skæring med Ilt.</img>
+</chapter>
+
+<chapter name="Skæringskurve">
+<b>Skæringskurve</b> (mat.) mellem to Flader
+er den Kurve, som Fladerne har fælles (se
+<sp>Kurver</sp>).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Skæringspunkt">
+<b>Skæringspunkt</b> (mat.) mellem to Kurver
+vil sige et Punkt, som er fælles for Kurverne;
+paa samme Maade forstaas S. mellem en Kurve
+og en Flade ell. mellem tre Flader. Den
+analytiske Geometri undersøger Antallet af S.
+mellem Kurver og Flader, som i
+Parallelkoordinater fremstilles ved algebraiske Ligninger, idet
+imaginære og uendelig fjerne (se <sp>uendelig</sp>)
+S. medregnes, og der holdes Regnskab med,
+hvor mange S. der falder sammen i
+Røringspunkter ell. særegne Punkter. Antallet bliver for to
+Kurver i samme Plan, for en Kurve og en Flade
+ell. for tre Flader lig med Produktet af de
+respektive Kurvers og Fladers Ordener; har tre
+Hader en Kurve fælles, vil dog Antallet af egl.,
+uden for Kurven liggende S. blive lavere. To
+Rumkurver skærer alm. ikke hinanden; udgør
+de tilsammen den fuldstændige Skæringskurve
+mellem to Flader, har de et Antal S., der kan
+udtrykkes ved Fladernes og Kurvernes
+Plücker'ske Tal.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Skærising">
+<b>Skærising,</b> se <sp>Flynderfisk</sp>.
+</chapter>
+
+<chapter name="Skærm">
+<b>Skærm</b> (bot.) er en Blomsterstand med
+midtpunktsøgende Udspringning, kort
+Hovedakse og stilkede Blomster; den er især
+ejendommelig for Skærmplanterne, hos hvilke S.
+oftest er sammensat.
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Skærmaks">
+<b>Skærmaks</b> (<i>Setaria</i> Beauv.), Slægt af
+Græsfamilien (Hirse-Gruppen) med en cylindrisk og
+tætblomstret Dusk af 1—2-blomstrede og

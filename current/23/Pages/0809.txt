@@ -1,0 +1,94 @@
+<img></img>
+<b>Forbindelsesled, Havneanlæg-. Bygninger etc.</b>
+<table>
+<td 2><b>Hovedbyen, A.</b>
+<td>1.<td><i>Bispegaden</i>
+<td>2.<td><i>Kjøbmandsgaden</i>
+<td>3<td><i>Voldgaden</i>
+<td>4.<td><i>Erling Skakkes Gd.</i>
+<td>4b.<td><i>Thomas Angells Stiftelse</i>
+<td>5.<td><i> Kongens Gd.</i>
+<td>5b.<td><i>Norges Bank</i>
+<td>6.<td><i>Dronningens Gd.</i>
+<td>6b.<td><i>Posthus</i>
+<td>7.<td><i>Teatret</i>
+<td>8.<td><i>Olav Trygvasons Gd</i>
+<td>9.<td><i>Sandgd</i>
+<td>9b.<td><i>Hospitalet</i>
+<td>10.<td><i>Fjordgd.</i>
+<td>11.<td><i>Søndre Gd.</i>
+<td>12.<td><i>Nordre Gd</i>
+<td>13.<td><i>Munkegd. med Torvet</i>
+<td>14.<td><i>Prinsens Gd.</i>
+<td>15.<td><i>Kalvskindsgd.</i>
+<td>16.<td><i>Erkebiskopgaarden</i>
+<td>17.<td><i>St. Olavs katolske Kirke</i>
+<td>18.<td><i>Vaisenhusskolen</i>
+<td>19.<td><i>Domkirken</i>
+<td>20.<td><i>Stiftsarkivet</i>
+<td>21.<td><i>Døvstummeskolen</i>
+<td>22.<td><i>Kalvskindets Folkeskole</i>
+<td>23.<td><i>Tekniske Læreanstalt</i>
+<td>24.<td><i>Katedralskolen</i>
+<td>24b.<td><i>Eksercerhuset</i>
+<td>25.<td><i>Videnskabernes Selskab</i>
+<td>26.<td><i>Hospitalskirken</i>
+<td>27.<td><i>Stiftsgaarden</i>
+<td>27b.<td><i>Telegrafstation</i>
+<td>28.<td><i>Vor Frue Kirke</i>
+<td>28b.<td><i>Politikammer</i>
+<td>29.<td><i>Realskolen</i>
+<td>30.<td><i>Raadhus og Brandstat.</i>
+<td>31.<td><i>Nordenfjeldske Kunstindustrimuseum</i>
+<td>32.<td><i>Bakke Bro</i>
+<td>33.<td><i>Den ældre Elvehavn</i>
+<td>34.<td><i>Bybroen</i>
+<td>35.<td><i>Elgsæter Bro</i>
+<td>36.<td><i>Gangbro</i>
+<td 2><b>Jernbanetomter, Kajer og Havneanlæg, B.</b>
+<td>37.<td><i>Jernbanernes Hovedstat., Merakerbanen østover, Rørosbanen sydover</i>
+<td>38.<td><i>Godsstationer</i>
+<td>39.<td><i>Ydre bassin med kajer og Moler</i>
+<td>40.<td><i>Vestre Kanalhavn med St. Olavs Bro</i>
+<td>41.<td><i>Østre Kanalhavn med Merakerbroen</i>
+<td>42.<td><i>Bralørbroen</i>
+<td>43.<td><i>Øvre Elvehavn med Kajer</i>
+<td>44.<td><i>Nedre Elvehavn med Kajer og Moler</i>
+<td>45.<td><i>Skandsen Holdestation</i>
+<td 2><b>Ila, C.</b>
+<td>46.<td><i>Ila Kirke</i>
+<td>47.<td><i>Ila Folkeskole</i>
+<td>48.<td><i>Trælasttomter med Mole</i>
+<td>49.<td><i>Jesu Hjertes kat. Kirke</i>
+<td>50.<td><i>Nyvejen</i>
+<td>51.<td><i>Aasvejen</i>
+<td>◇<td><i>Elektriske Sporvejs vestl. Endepunkt ved »Hjorten«</i>
+<td 2><b>Østbyen.</b>
+<td>D.<td><i>Øia</i>
+<td>52.<td><i>Klostergd.</i>
+<td>53.<td><i>Elgsætergd.</i>
+<td>54.<td><i>Valan</i>
+<td>55.<td><i>Kommunale Sygehus</i>
+<td>56.<td><i>Gløshaugens Døvstummeskole o. Tekn. Højskole</i>
+<td>E.<td><i>Singsaker</i>
+<td>F.<td><i>Baklandet</i>
+<td>57.<td><i>Øvre Baklandet</i>
+<td>58.<td><i>Nedre Baklandet</i>
+<td>59.<td><i>Baklandets Folkeskole</i>
+<td>60.<td><i>bakke kirke</i>
+<td>61.<td><i>Mek. Værksted m. Dokker</i>
+<td>G.<td><i>Møllenberg, Kirkesletten og Rosenborg</i>
+<td>62.<td><i>Kristiansten Fæstning</i>
+<td>63.<td><i>Kirkegaden</i>
+<td>64.<td><i>Nedre Møllenberggd.</i>
+<td>65.<td><i>Øvre Møllenberggd.</i>
+<td>66.<td><i>Bispehaugens Folkeskole</i>
+<td>67.<td><i>Rosenborg Bassinet</i>
+<td>H.<td><i>Lademoen</i>
+<td>68.<td><i>Indherredsvejen med</i>
+<td>◉<td><i>elektriske Sporvejs østl. Endepunkt ved »Buran«</i>
+<td>69.<td><i>Lademoen Holdestation</i>
+<td>70.<td><i>Strandvejen</i>
+<td>71.<td><i>Lademoens Kirke</i>
+<td>72.<td><i>Lademoens Folkeskole</i>
+</table>

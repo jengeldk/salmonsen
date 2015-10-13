@@ -1,0 +1,61 @@
+Motor, sættes i Gang fra Vekselstrømssiden,
+hvilket er en Fordel paa Steder, hvor ingen
+anden Jævnstrømskilde findes.
+
+I den nyeste Tid har de saakaldte
+<sp>Ensrettere</sp> faaet en Del Anvendelse. Den mest
+anvendte er <sp>Kviksølvensretteren</sp> (Fig.
+23), hvis Virkning beror paa den Omstændighed,
+at et med Kviksølvdampe under lavt Tryk fyldt
+Rør, der er forsynet med to indsmeltede
+Elektroder, hvoraf den ene er Kviksølv, den anden
+f. Eks. Jern, kun tillader Strømmen at passere
+igennem sig i een bestemt Retning, nemlig fra
+Kviksølvkatoden til Jernanoden. Søger man
+at sende Vekselstrøm igennem Røret, kan
+saaledes kun hveranden Halvbølge (der vil give
+Strøm i ovennævnte Retning) slippe igennem.
+Forsyner man Røret med to Anoder, kan man
+ved Hjælp af to Transformatorer, der dog
+kan sammenbygges til een, indrette sig saaledes,
+at den ene Transformator i hveranden halve
+Periode sender Strøm fra Katoden til den ene
+Anode, den anden Transformator i hveranden
+halve Periode sender Strøm fra Katoden til den
+anden Anode. Ledningen til Katoden bliver da
+gennemløbet af en pulserende Strøm, men en
+Strøm, der stadig har samme Retning;
+indskyder man i denne Ledning f. Eks. et
+Akkumulatorbatteri, vilde dette blive opladet. Disse
+Ensrettere kan ogsaa bygges for Trefasestrøm og
+faar da tre Anoder.
+
+En særlig Art Omformere er de ved
+Baneanlæg undertiden anvendte
+<sp>Periodeomformere</sp>, der omformer Vekselstrøm af eet
+Periodetal til Vekselstrøm af et andet Periodetal,
+og som bestaar af to sammenkoblede synkrone
+Maskiner, hvoraf den ene gaar som Motor, den
+anden som Generator, og hvis Poltal forholder
+sig til hinanden som de to Periodetal.
+
+<sp>Transformatorer</sp> er Apparater, som
+benyttes til at omsætte, <sp>transformere</sp>, en
+Vekselstrøm af en Spænding til en
+Vekselstrøm af en anden Spænding, men af samme
+Periodetal. Ved Kraftoverføring paa lange
+Afstande maa man, for at undgaa for store Tab i
+Ledningsnettet, anvende højspændt Vekselstrøm,
+
+<img>
+Fig. 23 a. Kviksølvensretter. Skematisk Billede.
+</img>
+<img>
+Fig. 23 b. Kviksølvensretter. Fotografi.
+</img>
+<img>
+Fig. 24. Enfaset Kernetransformator
+</img>
+<img>
+Fig. 25. Enfaset Kappetransformator.
+</img>

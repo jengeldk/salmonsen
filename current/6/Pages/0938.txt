@@ -1,0 +1,111 @@
+bruger 0,5-1,2 Watt pr Lys, kan man gøre sig
+Begreb om, hvilken Forbedring i Økonomi
+Metaltraadslampen medførte for elektriske Anlægs
+Vedk. og navnlig for disses Betingelser for at
+tage Konkurrencen op med Gasværker o. l. De
+e. K. kan efter Art deles i 1)
+<sp>Jævnstrømscentraler</sp>, 2)
+<sp>Vekselstrømscentraler</sp> og 3) <sp>Centraler, der dels
+fremstiller Jævnstrøm, dels
+Vekselstrøm</sp>. Efter Størrelse og Beliggenhed kan
+e. K. deles i Bycentraler, Landcentraler og
+Oplandscentraler. En Landcentral er en e. K.,
+der forsyner nogle faa ell. en Landsby med
+Omegn med Elektricitet; en Bycentral er en
+e. K., der, som Ordet betegner, forsyner en By,
+og en Oplands- ell. Overlandscentral er en e. K.,
+der (i Reglen under Anvendelse af højspændt
+Vekselstrøm) forsyner et udstrakt Omraade med
+mange Landsbyer og eventuelt med een ell. fl.
+Købstæder. Jævnstrømscentraler er som Regel
+Landcentraler, Centraler til Sporvejs- ell.
+mindre Banedrift samt mindre og ældre
+Bycentraler. Kbhvn's e. K. var saaledes alle opr.
+Jævnstrømscentraler, men efterhaanden som Byen
+hlev større i Udstrækning, blev Kravene til
+Anvendelsen af enten sværere Ledningsnet ell.
+højere Spænding (2 X 220 Volt) større og større,
+hvorfor man 1907 anbragte
+Vekselstrømsmaskiner paa Østre Elektricitetsværk, hvilke
+Vekselstrømsmaskiner producerer Vekselstrøm med
+Spænding 6000 Volt, hvormed Byens
+Yderdistrikter forsynes. Lavspændingsnettet, der er
+knyttet til denne Højspænding, fører 3 X 127 Volt,
+nedtransformeret i Transtformatortaarne,
+anbragte i Gaderne. Opr. anvendte man til denne
+Vekselstrømsproduktion paa Østre Værk Omformere,
+der blev drevne ved Jævnstrøm; men Kravene til
+Udvidelse af Kbhvn's Værker blev stadig større
+og større, og man besluttede da at opsætte
+Vekselstrømsgeneratorer paa Østre Værk og
+lade den af disse udviklede Vekselstrøm paa
+3 X 6000 Volts Spænding drive Omformere,
+anbragte paa alle tre Værker. Disse Omformere
+omformer Vekselstrømmen til Jævnstrøm med
+enten 2 X 220 Volts Spænding til Lys og Kraft
+ell. 550 Volt til Sporvejsdrift. Der opstilledes
+3 Generatorer paa Østre Værk, henh. paa 2500,
+2500 og 4000 KW. Den udviklede Vekselstrøm
+driver 2 Stkr Omformere à 1000 KW og 1 Stk.
+à 250 KW paa Østre Værk, een Omformer à
+1000 KW paa Gothersgades Værk og 6
+Omformere à 1000 KW paa Vestre Værk.
+Vekselstrømmen ledes til sidstn. Værker gennem
+Kabler, nedlagte i Kbhvn's Gader. 1915 indrettedes
+der yderligere en Understation i Bragesgade,
+hvilken Station har 3 Omformere à 350 KW og
+en Omformer à 250 KW. Anvendelsen af
+Generatorer paa Østre Værk og Omformere paa
+alle Værker fremfor Anvendelsen af Generatorer
+paa alle Værker skyldes det, at større
+Generatorer har større Virkningsgrad og er billigere
+pr KW end smaa Generatorer, saaledes at
+Fordelene ved Anvendelsen af faa, større Maskiner
+paa Østre Værk muliggør, at man med den
+ovf. nævnte Drift kan fremstille Elektriciteten
+billigere, end hvis man anvendte
+Jævnstrømsdynamoer, drevne af Kraftmaskiner paa alle
+Værker.
+
+1) <sp>Jævnstrømscentraler</sp> anvendes
+som Regel, hvor Afstanden til den længst
+bortliggende Forbruger ikke er over 3-4 km. De
+næst anvendte Driftspændinger er 65 Volt, 110
+Volt, 220 Volt og 2 X 65 Volt, 2 X 11O Volt samt
+2 X 220 Volt, sidstn. langt den overvejende
+anvendte. Valg af Spænding maa foretages under
+Hensyn til Afstande til Forbrugerne og bør ikke
+vælges for lav af Hensyn til mulig senere
+Udvidelse af den e. K. Den udstrakte Anvendelse
+af Jævnstrømscentraler skyldes dels
+Jævnstrømsmotorernes Overlegenhed over
+Vekselstrømsmotorerne, idet førstnævnte, baade hvad
+Regulering, Igangsætning og Overbelastning angaar
+stiller sig betydelig gunstigere end de sidste,
+hvilket især har stor Bet. ved Bane- og
+Sporvejsdrift, og dels det, at man kan drage Fordel
+af Anvendelsen af Akkumulatorbatterier.
+Fordelen ved saadanne er især den, at de kan
+arbejde uden Tilsyn om Natten og paa denne Del
+af Døgnet overtage den relativt kun ringe
+Belastning uden at fordre Tilsyn; navnlig anvendt
+ved Centraler, der forsyner Baner og Sporveje
+med Elektricitet, er Akkumulatorbatteriet næsten
+uvurderligt (se ndf.). Paa Jævnstrømscentraler
+udvikles Jævnstrømmen i Jævnstrømsdynamoer,
+der drives af Kraftmaskiner af en ell. anden
+Art, saasom Dampmaskiner, Dampturbiner,
+Dieselmotorer, Sugegasmotorer, Dowsongasmotorer,
+Petroleumsmotorer e. l. Dynamo- og
+Kraftmaskinerne kobles direkte sammen, kun sjældent
+
+<img>
+Fig. 4. Toledersystem, Jævnstrøm.
+</img>
+<img>
+Fig. 5. Treledersystem, Jævnstrøm.
+</img>
+<img>
+Fig. 6. Udligningsmaskine. U Udligningsmaskine,
+M Magnetbevikling.
+</img>

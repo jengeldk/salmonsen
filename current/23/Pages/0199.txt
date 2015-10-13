@@ -1,0 +1,139 @@
+Modtagerorganet, idet Tegnene frembragtes ved
+elektrolytisk Virkning mellem en Jernstift og
+en forbiløbende Papirstrimmel, vædet med
+Ferrocyankalium, der ved Strømgennemgang
+udskiller Farvestoffet Berlinerblaat. I
+Sendeapparatet benyttede Bain en Papirstrimmel med
+Morsetegn i Form af kortere ell. længere
+Udskæringer, hvorigennem en Slæbefjeder
+dannede tilsvarende Kontaktslutninger. Systemet,
+der senere er forladt p. Gr. a. Ulemperne ved
+den kem. Præparering af Papiret, fik en Del
+Udbredelse i England og Amerika og har
+ligeledes været benyttet til automatiske
+Bogstavskrive-T. ved Kopiering af Metaltyper paa
+lignende Maade som ved Billedtelegrafering (s. d.).
+Bain's T., der i Laboratoriet kunde arbejde med
+flere Hundrede Ord i Minuttet, viste ved Brug
+under virkelige Forhold, at ikke alene
+Apparaternes, men ogsaa Telegrafledningens
+Egenskaber var af væsentlig Indflydelse paa den i
+Praksis opnaaelige Sendehastighed. Paa lange
+Ledninger, hvor Sendehastigheden af
+økonomiske Grunde netop ønskes saa stor som mulig,
+har hurtige Strømstød i samme Retning en
+Tilbøjelighed til at »udtværes«, idet Ledningen
+forholder sig som en Leydnerflaske (Kapacitet),
+hvis Op- og Afladning kræver en kendelig Tid.
+Forholdene stiller sig betydeligt bedre, naar
+Strømretningen veksler, saaledes at man f.
+Eks. udsender Tegnelementerne som
+Strømimpulser i een Retning og fremhæver
+Mellemrummene ved modsat rettede Strømme.
+Modtagerapparaterne ved denne
+<sp>Dobbeltstrømstelegrafering</sp> maa være
+<sp>polariserede</sp>, d. v. s. indrettede paa en
+saadan Maade, at de
+skiftende
+Strømretninger i
+Apparatet frembringer
+forskellige
+Virkninger. Fig. 9
+viser Princippet for
+en polariseret
+Modtager.
+Elektromagneten <i>m</i> og <i>m<sup>1</sup></i>
+og det om Stiften
+<i>B</i> drejelige Anker
+<i>C</i> er anbragt paa
+henh. Nord- og
+Sydpol af den
+permanente Magnet <i>N
+S</i>. Ved den magnetiske Induktion bliver
+Polskoene <i>n</i> nordmagnetiske og den mellem disse
+liggende Ende af Ankeret sydmagnetisk. Sendes en
+Strømimpuls gennem Elektromagnetvindingerne,
+vil Nordmagnetismen i den ene Polsko
+svækkes, medens den forstærkes i den anden.
+Ankeret vil da bevæge sig mod den stærkeste
+Pol, og forblive i denne Stilling, indtil en
+modsat rettet Impuls passerer Vindingerne. De
+polariserede Apparater kan arbejde meget
+hurtigt, da Ankerets Bevægelse foregaar uhindret
+af Fjedre e. l. Hæmning. Af de ældre
+automatiske T. har det af Englænderen Wheatstone
+1858 patenterede og senere noget ændrede
+System faaet størst Udbredelse.
+<sp>Wheatstonesystemet</sp> bestaar af 3 Hovedled. 1)
+<sp>Perforatoren</sp>, med hvilken Telegrammerne
+forberedes til Afsendelse i Form af en
+gennemhullet (perforeret) Papirstrimmel. 2)
+<sp>Transmitteren</sp>, en automatisk Nøgle for
+Dobbeltstrøm, og 3) Modtagerapparatet,
+<sp>Receiveren</sp>, der er indrettet som en
+Morse-Farveskriver med polariseret Anker. Perforatoren,
+Fig. 10, har tre Taster henh. svarende til
+Morsetegnelementerne »Prik«, »Streg« og
+»Mellemrum«. Ved Nedtrykning af en Tast bevæges
+Staalstempler, der gennemhuller Papiret,
+saaledes at der for en »Prik« perforeres to lige
+over for hinanden staaende Huller, medens en
+»Streg« udføres som to skraat for hinanden
+staaende Huller (smlg. Fig. 11 a). Ved
+Paavirkning af Mellemrumstasten flyttes Strimlen et
+Interval frem. Den midterste Række mindre
+Huller, der perforeres samtidig, tjener til
+Fremføring af Strimlen i Transmitteren. Dennes
+moderniserede Udseende fremgaar af Fig. 12.
+Naar Strimlen indsættes, griber et af Urværk
+eller Elektromotor drevet Tandhjul i
+Førehullerne og bevæger Papiret forbi to paa
+Vægtstænger anbragte »Naale«, der holdes i
+regelmæssig op- og nedadgaaende Bevægelse. Efter
+som Naalene gaar igennem de perforerede
+Huller ell. hindres i Bevægelsen af Papiret,
+indstilles en Kontaktanordning, Switch,
+saaledes at der paa Ledningen udsendes de til
+Tegn og Mellemrum svarende Strømimpulser
+af vekslende Retning og Længde, der af
+Modtagerstationens Receiver nedskrives som
+sædvanlige Morsetegn (Fig. 11 b). I St f.
+Wheatstone-Receiveren benyttes i den nyere Tid ofte
+den af Danskeren Lauritsen konstruerede
+<sp>Undulator</sp>, Fig. 13, hvis polariserede Anker
+bærer et let Glas- ell. Sølvrør, der hviler mod
+Papiret og bevæger sig i dettes Plan vinkelret
+paa Fremføringsretningen. Rørets modsatte
+ombukkede Ende dypper i en Beholder med
+Farve, der ved Hævertvirkningen flyder ud og
+afsættes paa Strimlen som en Bølgelinie,
+»Slangeskrift« (Fig. 11 c). Som Maal for de automatiske
+Systemers Sendehastighed, Speed, benyttes i
+Reglen det pr Min. ekspederede Antal
+Normalord »Paris« (Fig. 11). Wheatstone's T. kunde
+allerede i de ældre Udførelsesformer arbejde
+med <i>Speed</i> omkr. 100—120, medens de nyere
+Apparater i Forbindelse med Undulatoren
+under gode Ledningsforhold muliggør den tre-
+ell. firedobbelte Sendehastighed. Dette
+udmærkede Resultat tilfredsstillede for en længere
+Aarrække de Krav, der stilledes til
+Telegraferingen, og Wheatstonesystemet indførtes paa
+et stort Antal mellemrigske Telegrafledninger i
+Europa. Fremkomsten af den traadløse
+Telegrafering i Slutn. af forrige Aarh. bragte dog
+fornyet Interesse for Forbedring af
+Traadtelegrafiens Driftsforhold af Hensyn til den mulige
+Konkurrence mellem de to Systemer. Creed i
+Skotland og Murray i Australien søgte omtr.
+samtidigt (omkr. 1903) at undgaa den
+besværlige og forsinkende manuelle Omskrivning af
+Receiver- ell. Slangeskrift ved Fremstilling af
+Modtagerapparater i Form af automatiske
+Perforatorer, hvis Strimler bagefter mek. kan
+omsættes til Bogstavtryk. I <sp>Creed's Receiver</sp>
+styrer det polariserede Anker en Ventil, der
+ved Hjælp af Trykluft bevæger
+
+<img>Fig. 9. Princip for polariseret
+Magnetsystem.</img>

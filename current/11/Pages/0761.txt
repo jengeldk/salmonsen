@@ -1,0 +1,75 @@
+<chapter name="Horsens (Bykort)">
+<img>Horsens. </img>
+
+<table>
+<td r>1.<td><i>Alderdomshjem</i><td r>C 4
+<td r>2.<td><i>Apotek, Helms</i><td r>C 4
+<td r>3.<td><i>— , Nørre</i><td r>C 3
+<td r>4.<td><i>— , Svane</i><td r>C 4
+<td r>5.<td><i>Bank for Horsens og Omegn samt Spare-og Laanekassen</i><td r>B 4
+<td r>6.<td><i>Bank, Horsens</i><td r>C 4
+<td r>7.<td><i>— , Horsens Haandværker-</i><td r>B 4
+<td r>8.<td><i>Bryggeri, Horsens</i><td r>B 2-3
+<td r>9.<td><i>Christiansholm</i><td r>B 6
+<td r>10.<td><i>Cikorietørreri</i><td r>A 3
+<td r>11.<td><i>Dampmølle, Horsens</i><td r>C 3-4
+<td r>12.<td><i>— , Nørrebros</i><td r>B 2
+<td r>13.<td><i>Elektricitetsværk</i><td r>E 5
+<td r>14.<td><i>Fabrik, Crome & Goldschmidts</i><td r>B 3
+<td r>15.<td><i>— Elektromekanisk</i><td r>A 3
+<td r>16.<td><i>— , Trævare-, „Thor“</i><td r>B 5
+<td r>17.<td><i>Forsamlingsbygn., Haandv.- og Industriforeningens</i><td r>B 3
+<td r>18.<td><i>— , Horsens Landbrugsforen.</i><td r>B 4
+<td r>19.<td><i>Gasværk</i><td r>E 5
+<td r>20.<td><i>Godsbanegd., Odderbanens</i><td r>C 5
+<td r>21.<td><i>Good-Templar Loge</i><td r>D 4
+<td r>22.<td><i>Hospital, Kommune-</i><td r>G 4
+<td r>23.<td><i>— , Sct. Josephs</i><td r>D 3
+<td r>24.<td><i>Hotel, Horsens</i><td r>C 4
+<td r>25.<td><i>— , Jernbane-</i><td r>B 4
+<td r>26.<td><i>— , Jørgensens</i><td r>C 4
+<td r>27.<td><i>— , Missions-</i><td r>B 4
+<td r>28.<td><i>— , Soeles-</i><td r>C 3
+<td r>29.<td><i>Højskolehjem</i><td r>B 4
+<td r>30.<td><i>Imprægneringsanstalt</i><td r>D 5
+<td r>31.<td><i>Jernstøberi og Maskinfabrik</i><td r>B 4
+<td r>32.<td><i>Jernstøberi og Maskinfabrik</i><td r>C 5
+<td r>33.<td><i>Kalkværk</i><td r>C 2
+<td r>34.<td><i>Kirke, Metodist- „Gethsemane“</i><td r>B 4
+<td r>35.<td><i>— , Hospitals-</i><td r>B 5
+<td r>36.<td><i>— , Kloster-</i><td r>D 5
+<td r>37.<td><i>— , Katolsk, Sct. Josephs</i><td r>C 4
+<td r>38.<td><i>— , Vor Frelsers</i><td r>C 4
+<td r>39.<td><i>Kirkegaard, Mosaisk</i><td r>D 3
+<td r>40.<td><i>Kvindeseminarium</i><td r>B 2
+<td r>41.<td><i>Museum</i><td r>E 4
+<td r>42.<td><i>Odd-Fellow Loge</i><td r>C 4-5
+<td r>43.<td><i>Pavillon</i><td r>E 4
+<td r>44.<td><i>Pavillon (Folkets Lund)</i><td r>E 3
+<td r>45.<td><i>Postkontor, Telegraf- og Statstelefonst.</i><td r>B 4
+<td r>46.<td><i>Raad-, Ting- og Arresthus</i><td r>C 4
+<td r>47.<td><i>Retsbygning</i><td r>C 5
+<td r>48.<td><i>Sct. Stefanshjemmet</i><td r>B 3
+<td r>49.<td><i>Skole, Nordre Kommune-</i><td r>A 2
+<td r>50.<td><i>— , Vestre Kommune-</i><td r>B 4
+<td r>51.<td><i>— , Østre Kommune-</i><td r>D 4
+<td r>52.<td><i>— , Stats-</i><td r>D 4
+<td r>53.<td><i>— , Teknisk</i><td r>D 5
+<td r>54.<td><i>Sparekasse, Landbo-</i><td r>B 4
+<td r>55.<td><i>Stiftelse, Arendzens Minde</i><td r>E 5
+<td r>56.<td><i>— , Borger- og Nitschkes</i><td r>C 4
+<td r>57.<td><i>— , Krags</i><td r>F 4
+<td r>58.<td><i>— , Den Levyske</i><td r>B 4
+<td r>59.<td><i>Svendehjem</i><td r>D 5
+<td r>60.<td><i>Slagteri, Kaupmanns</i><td r>C 6
+<td r>61.<td><i>— , Svine-</i><td r>A og B 4
+<td r>62.<td><i>Slagtehuse, Offentlige</i><td r>C 1-2
+<td r>63.<td><i>Stalde, Eksport</i><td r>D 5-6
+<td r>64.<td><i>Teater</i><td r>C 4
+<td r>65.<td><i>Telefonstation</i><td r>C 4
+<td r>66.<td><i>Toldkammer</i><td r>D og E 5
+<td r>67.<td><i>Tvangsarbejdsanstalt</i><td r>B 1
+<td r>68.<td><i>Vandtaarn</i><td r>E 3
+<td r>69.<td><i>D. F. D. S.s Bygning</i><td r>B 5
+</table>
+</chapter>

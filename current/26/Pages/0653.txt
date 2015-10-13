@@ -1,0 +1,365 @@
+<chapter name="kromaffine Celler">
+<b>kromaffine Celler,</b> se <sp>Binyrer</sp>.
+</chapter>
+
+<chapter name="Kroman, K. F. V.">
+<b>Kroman,</b> <sp>K. F. V.</sp>, d. 27. Juli 1925.
+</chapter>
+
+<chapter name="Kromann, K. F. V.">
+<b>Kromann,</b> <sp>K. F. V.</sp> Rettelse, læs: <sp>Kroman,
+K. F. V.</sp> — L. 2 f. o.: f. i Mariager, læs: f. i
+Maribo
+</chapter>
+
+<chapter name="Kromatisk Aberration">
+<b>Kromatisk Aberration,</b>
+<sp>Farveafvigelse</sp>, se <sp>Akromatisme</sp>.
+</chapter>
+
+<chapter name="Kromatisme">
+<b>Kromatisme,</b> se <sp>Plantepatologi</sp>,
+S. 222.
+</chapter>
+
+<chapter name="Kromatokinese">
+<b>Kromatokinese,</b> d. s. s. <sp>Karyorrhexis</sp>.
+</chapter>
+
+<chapter name="Kromatolyse">
+<b>Kromatolyse,</b> d. s. s. <sp>Karyolyse</sp>.
+</chapter>
+
+<chapter name="Kromau">
+<b>Kromau,</b> se <sp>Mähren</sp>.
+</chapter>
+
+<chapter name="Kromforilte">
+<b>Kromforilte,</b> <sp>svovlsurt</sp>, se
+<sp>Kromosalte</sp>.
+</chapter>
+
+<chapter name="Kromforiltesalte">
+<b>Kromforiltesalte,</b> se <sp>Kromosalte</sp>.
+</chapter>
+
+<chapter name="Kromkloryr">
+<b>Kromkloryr,</b> se <sp>Kromosalte</sp>.
+</chapter>
+
+<chapter name="Kromoacetat">
+<b>Kromoacetat,</b> se <sp>Kromosalte</sp>.
+</chapter>
+
+<chapter name="Kromofosfat">
+<b>Kromofosfat,</b> se <sp>Kromosalte</sp>.
+</chapter>
+
+<chapter name="Kromofotografi">
+<b>Kromofotografi,</b> se (ogsaa) <sp>Heliokromi</sp>.
+</chapter>
+
+<chapter name="Kromokarbonat">
+<b>Kromokarbonat,</b> se <sp>Kromosalte</sp>.
+</chapter>
+
+<chapter name="Krompecter">
+<b>Krompecter,</b> se <sp>Epitheliom</sp>.
+</chapter>
+
+<chapter name="Kromsesqvioxyd">
+<b>Kromsesqvioxyd,</b> d. s. s. <sp>Kromioxyd</sp>.
+</chapter>
+
+<chapter name="kromsurt Ammoniak">
+<b>kromsurt Ammoniak,</b> se <sp>Kromsyre</sp>.
+</chapter>
+
+<chapter name="kromsurt Baryt">
+<b>kromsurt Baryt,</b> se <sp>Kromsyre</sp>.
+</chapter>
+
+<chapter name="kromsurt Kali">
+<b>kromsurt Kali,</b> d. s. s. <sp>Kaliumkromat</sp>.
+</chapter>
+
+<chapter name="Kromtveilte">
+<b>Kromtveilte,</b> <sp>salpetersurt</sp>, d. s. s.
+<sp>Krominitrat</sp>.
+</chapter>
+
+<chapter name="Kromtveilte">
+<b>Kromtveilte,</b> <sp>svovlsurt</sp>, d. s. s.
+<sp>Kromisulfat</sp>.
+</chapter>
+
+<chapter name="Kronberg, J. J.">
+<b>Kronberg,</b> <sp>J. J.</sp>, d. 17. Oktbr 1921 i Stockholm.
+</chapter>
+
+<chapter name="Kronbælte">
+<b>Kronbælte,</b> se <sp>Hov</sp>, S. 778.
+</chapter>
+
+<chapter name="Krone">
+<b>Krone,</b> se <sp>Brystværn</sp>.
+</chapter>
+
+<chapter name="Kronesav">
+<b>Kronesav,</b> se <sp>Rundsav</sp>.
+</chapter>
+
+<chapter name="Kronesøm">
+<b>Kronesøm,</b> se <sp>Hoved</sp>, S. 787.
+</chapter>
+
+<chapter name="Kroningen">
+<b>Kroningen,</b> se <sp>Glaciskroningen</sp>.
+</chapter>
+
+<chapter name="Kronobergs Län">
+<b>Kronobergs Län,</b> (1928) 157430 Indb. Länet
+deles i 4 Domsagor og 5 Tingslag samt 4
+Fogderier. Der findes een Købstad (Växjö), 3
+Flækker (Tingsryd, Elmhult og Markaryd).
+<i>M. H-n.</i>
+</chapter>
+
+<chapter name="Kronobäck">
+<b>Kronobäck,</b> se <sp>Öresten</sp>.
+</chapter>
+
+<chapter name="Kronstadt">
+<b>Kronstadt</b> (paa Øen Kotlin), Guvernement
+Leningrad, R. S. F. S. R., (1926) 31197 Indb.
+</chapter>
+
+<chapter name="Kronstadt">
+<b>Kronstadt</b> (rumænsk Brasov, ungarsk
+Brasso), 50000 Indb. (1925), hvoraf 1/3 Rumænere,
+1/3 Magyarer og 1/3 Tyskere.
+</chapter>
+
+<chapter name="Kroonstad">
+<b>Kroonstad,</b> se <sp>Oranje-Fristaten</sp>,
+S. 568.
+</chapter>
+
+<chapter name="Krophule">
+<b>* Krophule.</b> Hos mange Dyreformer, f.
+Eks. hos Hvirveldyrene, findes inden for
+Kropvæggen en rummelig K., et Coelom, hvori
+Indvoldene har deres Plads, I andre Tilfælde,
+f. Eks. hos Bløddyr og Igler, er K.'s Rum
+stærkt reduceret, og endelig findes der Former,
+saasom Fladormene, hos hvilke en K. ganske
+mangler, og hvor alle Organerne ligger
+indlejrede i en blød, parenkymagtig Masse.
+<i>R. H. S.</i>
+</chapter>
+
+<chapter name="Kroplus">
+<b>Kroplus,</b> se <sp>Lus</sp>.
+</chapter>
+
+<chapter name="Kropsvulst">
+<b>Kropsvulst,</b> d. s. s. <sp>Struma</sp>.
+</chapter>
+
+<chapter name="Krosno">
+<b>Krosno,</b> (1921) 12536 Indb.
+</chapter>
+
+<chapter name="Kroumen">
+<b>Kroumen,</b> d. s. s. <sp>Kru</sp>.
+</chapter>
+
+<chapter name="Krugersdorp">
+<b>Krugersdorp,</b> fejlagtigt i Hovedudgaven
+stavet <sp>Krügersdorp</sp>, (1926) 14524 Indb., se
+<sp>Transvaal</sp>, S. 698.
+</chapter>
+
+<chapter name="Kruk">
+<b>Kruk,</b> d. s. s. <sp>Kodille</sp>.
+</chapter>
+
+<chapter name="Krumau">
+<b>Krumau</b> (tschekkisk: Český-Krumlov) i
+Departementet České Budejovice, har 8324
+romersk-katolske Indb. (1921). Noget over 50 %
+af Indbyggerne er Tyskere.
+<i>W. P.</i>
+</chapter>
+
+<chapter name="Krumlinde, Carl Olof Theodor">
+<b>* Krumlinde,</b> <sp>Carl Olof Theodor</sp>,
+svensk Maler, f. 1856 i Ängelholm, studerede
+paa Akademiet i Stockholm og i Udlandet og
+malede Landskaber og Søstykker (bl. a. fra
+Kullaberg). Arbejder af K. bl. a. i Malmö
+Museum og i Konviktoriet i Lund.
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Krumlovcessky">
+<b>Krumlovcessky,</b> d. s. s. <sp>Krumau</sp>.
+</chapter>
+
+<chapter name="Krungerup">
+<b>Krungerup,</b> Jernbaneholdeplads,
+Nykøbing F.—Maribo-Banen. (Se <sp>Danmark</sp>,
+Samfærdselskortet, <i>Suppl</i>.).
+</chapter>
+
+<chapter name="Krusaa">
+<b>* Krusaa,</b> Sædegaard i Lundtofte Herred.
+Areal 321 ha.
+<i>N. J.</i>
+</chapter>
+
+<chapter name="Krusaa">
+<b>Krusaa,</b> se <sp>sønderjyske Landsdele</sp>,
+S. 1044.
+</chapter>
+
+<chapter name="Kruse, F. V.">
+<b>Kruse,</b> <sp>F. V.</sp>; senere Arbejder: »Tinglysning
+samt nogle Spørgsmaal i vor Realkredit« (1923),
+»Ejendomsrettens Overgang« (1924),
+»Kommentar til Tinglysningsloven« (1927).
+</chapter>
+
+<chapter name="Kruse, John Erik">
+<b>* Kruse,</b> <sp>John Erik</sp>, svensk
+Kunsthistoriker, f. 13. Oktbr 1865 i Malmö, d. 15. Juli 1914
+i Djursholm, skrev Bøger om Rembrandt,
+Wickenberg og Carl Larsson, udgav Tegninger i
+Stockholms Nationalmuseum m. v.
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Kruse, Ole Valdemar Thisenius">
+<b>* Kruse,</b> <sp>Ole Valdemar Thisenius</sp>,
+svensk Maler, f. 1868 i Haderslev, har, i Olie
+og Vandfarve, malet religiøse Billeder under
+Indflydelse fra gammel Kunst. Værker af K.
+ses bl. a. i Göteborg Museum.
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Krusenstern-Strædet">
+<b>Krusenstern-Strædet,</b> se <sp>Japan</sp>, S. 806.
+</chapter>
+
+<chapter name="Kruset">
+<b>Kruset,</b> d. s. s. <sp>Krøllerne</sp>.
+</chapter>
+
+<chapter name="Krusevac">
+<b>Krusevac,</b> (1921) 6499 Indb.
+</chapter>
+
+<chapter name="Krusevo">
+<b>Krusevo,</b> (1921) 3862 Indb.
+</chapter>
+
+<chapter name="Krückau">
+<b>Krückau,</b> se <sp>Holsten</sp>, S. 675.
+</chapter>
+
+<chapter name="Kryds">
+<b>Kryds,</b> se <sp>Anker</sp>.
+</chapter>
+
+<chapter name="Krydsbaand">
+<b>Krydsbaand,</b> se <sp>Knæ</sp>, S. 227.
+</chapter>
+
+<chapter name="Krüger, P.">
+<b>Krüger,</b> <sp>P.</sp>, d. 15. Maj 1926.
+</chapter>
+
+<chapter name="Krügersdorp">
+<b>Krügersdorp,</b> Rettelse: <sp>Krugersdorf</sp>,
+(1926) 14524 Indb.
+</chapter>
+
+<chapter name="Krylenko, Abraham">
+<b>* Krylenko</b> [kri'ljænkå], <sp>Abraham</sp>, f. 15.
+Maj 1885, russisk Politiker, fra 1904 virksom i
+den revolutionære Bevægelse, har under det
+bolsjevikiske Styre beklædt høje Poster, særlig
+som Forsvarsminister og Overgeneral Novbr
+1917—Marts 1918.
+<i>H. J-n.</i>
+</chapter>
+
+<chapter name="Krym">
+<b>Krym,</b> d. s. s. <sp>Krim</sp>.
+</chapter>
+
+<chapter name="Kryoplankton">
+<b>Kryoplankton,</b> se <sp>Snealger</sp>.
+</chapter>
+
+<chapter name="kryptomer">
+<b>kryptomer,</b> se <sp>faneromer</sp>.
+</chapter>
+
+<chapter name="Krysoaspider">
+<b>Krysoaspider,</b> se <sp>Argyraspider</sp>.
+</chapter>
+
+<chapter name="Krystalstjerner">
+<b>Krystalstjerner,</b> se <sp>Krystaller</sp>.
+</chapter>
+
+<chapter name="Krytja">
+<b>Krytja,</b> d. s. s. <sp>Krykje</sp>.
+</chapter>
+
+<chapter name="Krzemieniec">
+<b>Krzemieniec,</b> d. s. s. <sp>Kremenets</sp>.
+</chapter>
+
+<chapter name="Kraepelin, E.">
+<b>Kraepelin,</b> <sp>E.</sp>, d. 7. Oktbr 1926.
+</chapter>
+
+<chapter name="Krødsherad">
+<b>Krødsherad,</b> <sp>Herred</sp>, Ringerike
+Politidistrikt, 2352 Indb. Areal 392,9 km<sup>2</sup>. Antagen
+Formue (1920) var 15,5 Mill. Kr. og Indtægt 2,1
+Mill. Kr. (<sp>Litt</sp>.: <sp>Ivar Sæter</sp>, »K.
+Jubilæumsskrift« [1914]).
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Krøs">
+<b>Krøs,</b> se <sp>Fræse</sp>.
+</chapter>
+
+<chapter name="Krøs">
+<b>Krøs,</b> se <sp>Lugge</sp>.
+</chapter>
+
+<chapter name="Krøskirtler">
+<b>Krøskirtler,</b> se <sp>Lymfekar</sp>.
+</chapter>
+
+<chapter name="Kschayarscha">
+<b>Kschayarscha,</b> d. s. s. <sp>Xerxes</sp>.
+</chapter>
+
+<chapter name="Kteinofytter">
+<b>Kteinofytter,</b> se <sp>Snylteplanter</sp>.
+</chapter>
+
+<chapter name="Ktesifon">
+<b>Ktesifon,</b> By ved Tigris. Af Tak-i-Kesra, der
+efter en nyere Opfattelse opførtes allerede i det
+3. Aarhundrede e. Kr., er Facaden til højre for
+den store aabne Hvælving forsvundet; den
+undermineredes af Højvande og styrtede ned i
+1888. Den venstre Façadedel var længe truet,

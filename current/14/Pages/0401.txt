@@ -1,0 +1,145 @@
+<chapter name="komparere">
+<b>komparere</b> (lat.), at give Møde (for Ret ell.
+Øvrighed).
+</chapter>
+
+<chapter name="Kompas">
+<b>Kompas.</b> (Hertil 1 Tavle med
+Illustrationer). Et Instrument, der tjener til at
+angive Retninger (Kurser og Pejlinger). Som
+Retningsangiver benyttes i Alm. Magnetnaale,
+der ophængt drejeligt vil angive Retningen af
+den misvisende Nord- og Sydlinie. Et
+Skibskompas i sin simpleste Form bestaar af flg.
+Dele. Koppen, der er en skaal- ell.
+cylinderformet Metalbeholder, og selve Retningsviseren,
+»Rosen«, der er en rund Skive af Papir eller
+tyndt Metal, paa hvilken Magneterne og
+Kompasinddelingen er anbragt. Rosen er ophængt
+i Koppen ved, at en i dens Midte værende Dop
+forsynet med en Ædelsten, hviler paa en hærdet
+Spids af en fra Midten af Koppens Bund
+opstaaende Metalpivot. Koppen er lukket med et
+Glaslaag og ophængt i dobbelt Balance
+(kardansk Ophængning), for at K. kan blive
+upaavirket af Skibets Slingringer. Magneterne, som
+Regel een paa hver Side af Doppen, er
+anbragte paa Rosens Underside, hvilket bidrager
+til at give Rosen stadig Ligevægt, ved at dens
+Tyngdepunkt kommer under
+Ophængningspunktet. Paa Rosens Overkant findes
+Kompasinddelinger, der bestaar af flg. 32 Kompasstreger,
+der har Navn efter Verdenshjørnerne:
+<table>
+<td>Nord<td c>betegnes<td c>med<td>N.
+<td>Nord til Øst<td c>—<td c><td>N. t. E.
+<td>Nord Nord Øst<td c>—<td c><td>NNE.
+<td>Nordøst til Nord<td c>—<td c><td>NE. t. N.
+<td>Nordøst<td c>—<td c><td>NE.
+<td>Nordøst til Øst<td c>—<td c><td>NE. t. E.
+<td>Øst Nord Øst<td c>—<td c><td>ENE.
+<td>Øst til Nord<td c>—<td c><td>E. t. N.
+<td>Øst<td c>—<td c><td>E.
+<td>Øst til Syd<td c>—<td c><td>E. t. S.
+<td>Øst Syd Øst<td c>—<td c><td>ESE.
+<td>Sydøst til Øst<td c>—<td c><td>SE. t. E.
+<td>Sydøst<td c>—<td c><td>SE.
+<td>Sydøst til Syd<td c>—<td c><td>SE. t. S.
+<td>Syd Syd Øst<td c>—<td c><td>SSE.
+<td>Syd til Øst<td c>—<td c><td>S. t. E.
+<td>Syd<td c>—<td c><td>S.
+<td>Syd til Vest<td c>—<td c><td>S. t. W.
+<td>Syd Syd Vest<td c>—<td c><td>SSW.
+<td>Sydvest til Syd<td c>—<td c><td>SW. t. S.
+<td>Sydvest<td c>—<td c><td>SW.
+<td>Sydvest til Vest<td c>—<td c><td>SW. t. W.
+<td>Vest Syd Vest<td c>—<td c><td>WSW.
+<td>Vest til Syd<td c>—<td c><td>W. t. S.
+<td>Vest<td c>—<td c><td>W.
+<td>Vest til Nord<td c>—<td c><td>W. t. N.
+<td>Vest Nord Vest<td c>—<td c><td>WNW.
+<td>Nordvest til Vest<td c>—<td c><td>NW. t. W.
+<td>Nordvest<td c>—<td c><td>NW.
+<td>Nordvest til Nord<td c>—<td c><td>NW. t. N.
+<td>Nord Nord Vest<td c>—<td c><td>NNW.
+<td>Nord til Vest<td c>—<td c><td>N. t. W.
+</table>
+
+Det er blevet international Brug at anvende
+eng. Bogstaver i Forkortelserne. Hver
+Kompasstreg er atter delt i halve og kvart Streger.
+Indvendig i Koppens Forkant findes en lodret
+Streg ud for Rosen (Styrestregen) anbragt
+saaledes, at Linien gennem Rosens
+Ophængningspunkt og Styrestregen ligger i ell. er
+parallel med Skibets Diametralplan (det lodrette
+Plan gennem Skibets Længdeakse). Den
+Inddeling af Rosen, der ligger ud for Styrestregen,
+angiver saaledes Skibets Kurs, og skal der
+styres en bestemt Kurs, gøres dette ved at dreje
+Skibet, til Styrestregen ligger ud for denne
+Kurs. K. er opstillet i Overkant af et
+cylinderformet Træ- ell. Messinghus, <sp>K.-Huset</sp>, der
+foroven kan dækkes af en Messinghætte (Nathuset)
+med Ruder paa Agterkant og Lampeholdere
+for Oplysning af Rosen om Natten. I K.-Huset
+anbringes tillige Magneterne til
+K.'s Kompen-sation (se <sp>kompensere</sp>). K. i sin ovf.
+beskrevne Form havde fl. Mangler, der særligt
+blev fremtrædende efter Jernets og Maskinernes
+Indf. i Skibene: det var ikke i Besid. af
+tilstrækkelig Indstillingskraft, og det var for uroligt. I
+Tredserne i forrige Aarh. konstruerede
+Englænderen William Thomsen, senere adlet som
+Lord Kelvin, et K., der var i Besiddelse af
+saavel stor Indstillingskraft som Ro. Dette
+opnaaedes ved i St f. to kraftige Magneter at
+anvende mange strikkepindsformede Magneter,
+der ophængtes i Silketraade under Rosen;
+denne gjordes saa let som muligt ved at afskære
+hele Partiet mellem Doppen og Yderkanten,
+hvorpaa Inddelingen var anbragt. Rosen vejede
+kun c. 15 g. Koppen havde et hult Rum,
+forneden fyldt med Olie, hvorved dens
+Bevægelser afdæmpedes; den var tillige ophængt i
+horisontale Spiralfjedre. De mange kraftige
+Magneter, Rosens store Lethed og Magneternes
+Fordeling under hele Rosens Underkant gav
+Rosen stor Indstillingskraft og p. Gr. a. den
+gode Afbalancering et stort Træghedsmoment
+d. v. s. saa lidet paavirkelig som muligt over
+for Kræfter, der vil bringe den ud af sin
+Ligevægt. Inddelingen blev foruden i Streger
+foretaget i Grader. Ved denne er Rosen delt 4X90°
+med. 0° ved N. og S. og 90° ved Ø. og V. ell.
+i den seneste Tid i 360° flg. Urviserens Gang
+fra N. (0°) gennem Ø. (90°), S. (180°) og V.
+(270°) til N.
+
+Lord Kelvin's K. var en stor Forbedring,
+men det kunde dog ikke helt modstaa de store
+Paavirkninger, som foraarsagedes ved moderne
+Skibes svære Rystelser under høj Fart og i
+Krigsskibene under Affyring af svære Kanoner
+m. m. Dette førte til Indførelsen af
+Vædske-K. I disse er Koppen fyldt med en Blanding af
+Spiritus og Vand, i hvilken Rosen, der er
+forfærdiget som en flad hvælvet Beholder, flyder,
+saa den kun hviler med ringe Vægt paa
+Pivoten. Magneterne er anbragte inden i
+Beholderen, og Inddelingen ovenpaa. Ved denne
+Foranstaltning vindes, at Magneterne kan gøres
+større og kraftigere, da Vægten bæres af
+Vædsken, hvorved ogsaa Friktionen mod Pinden
+forringes, og at Rystelserne fra Skibet, der
+overføres fra Pinden til Rosen, bliver stærkt
+afdæmpet af Vædsken.
+
+K. er som nævnt til at styre efter, og dets
+naturlige Plads er foran Rattet, saa
+Rorgængeren stadig kan have det for Øje; det
+benævnes <sp>Styre-K.</sp> ell. tillige <sp>Bro-K.</sp>, hvis Rattet
+er paa Broen. P. Gr. a. Skibets magnetiske
+Egenskaber, Nærværelse af elektriske
+Strømme m. m. er det ikke altid, at Styre-K. har
+en for dets paalidelige Visning gunstig Plads.

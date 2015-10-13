@@ -1,0 +1,116 @@
+saa Tilfælde en Beholder, der oftest opvarmes
+udvendig fra ved Damp, og ind i hvilken man
+leder Vanddamp ved Hjælp af et gennemhullet
+Rør; der overdestilleres da en Blanding af
+æterisk Olie og Vand, hvilket sidste samler sig
+nederst i Destillatet og kan tappes ud forneden
+af det særlig dertil indrettede Forlag.
+
+Medens en D. som Regel ingen Vanskelighed
+frembyder, naar det gælder om at skille en
+Vædske fra et fast Stof ell. en meget let flygtig
+Vædske, som f. Eks. Æter, fra en meget tungt
+flygtig, som f. Eks. Olie, bliver Forholdet et
+andet, naar Talen er om at adskille to Vædsker,
+der har nær ved hinanden liggende
+Kogepunkter. Dette er et Tilfælde, der hyppig indtræder
+i Industrien, f. Eks. ved Fabrikationen af
+Alkohol og ved Tjæredestillationen, idet det her
+kommer an paa at skille Alkohol fra Vand ell.
+Benzol fra Tjæreolier, der
+er omtr. lige saa let flygtige
+som dette. De udviklede
+Dampe indeholder i saa
+Tilfælde altid foruden den
+lettest flygtige tillige betydelige
+Mængder af de øvrige
+Bestanddele, saaledes at en
+fuldstændig Adskillelse ved
+en enkelt D. er umulig. Det
+er indlysende, at man slet
+intet opnaar, naar man
+fortsætter D. saa længe, indtil
+alt er fordampet, da
+Destillatet i saa Tilfælde har
+samme Sammensætning som den
+opr. Vædske; for at faa et
+Destillat, der er rigere paa
+let flygtige Bestanddele end
+Vædsken i
+Destillationskarret, maa man afbryde D. paa
+et passende Tidspunkt. Ved
+paa ny at underkaste
+Destillatet en D., faar man et stærkere
+Destillat, som yderligere kan forstærkes paa
+samme Maade. En saadan gentagen D.
+kaldes <sp>Rektifikation</sp>, og den udføres i
+Praksis altid paa den Maade, at man
+leder de fra en Del af Vædsken udviklede
+Dampe gennem en anden Del, hvorved de til
+Dels fortættes og samtidig opvarmer Vædsken,
+saaledes, at denne afgiver Dampe, der
+indeholder mere af den letflygtige Bestanddel end
+den selv; disse Dampe ledes igennem en ny
+Del Vædske o. s. fr. Oftest anvendes
+Rektifikationen i Forbindelse med en Fremgangsmaade,
+der kaldes <sp>Deflegmation</sp>, og som bestaar
+i en delvis Fortætning af de rektificerede
+Dampe. Man troede tidligere, og finder endnu alm.
+antaget, at man ved en saadan delvis
+Fortætning opnaaede at faa Dampene adskilte i
+Vædske, der indeholdt mere af den tungtflygtige, og
+Dampe, der indeholdt mere af den letflygtige
+Bestanddel. En saadan Adskillelse finder
+ganske vist ogsaa til Dels Sted, men den vigtigste
+Virkning af Deflegmationen er den, at den
+fortættede Vædske igen bringes til at fordampe
+og derved igen afgiver letflygtige Dampe.
+Finder en saadan gentagen Fordampning ikke Sted,
+bliver Virkningen af Deflegmationen meget
+ringe. Af Destillationsapparater, der arbejder med
+Rektifikation og Deflegmation, er der
+konstrueret en overordentlig stor Mængde, af hvilke
+her kun som Typer omtales to Konstruktioner.
+Et af de ældste Apparater, der imidlertid mange
+Steder endnu er i Brug i talrige Modifikationer,
+er <sp>Pistorius</sp>' Apparat (Fig. 5). Den
+Vædske, der skal destilleres - forgæret Mæsk, af
+hvilken Alkoholen skal indvindes -, fyldes paa
+Forvarmeren <i>c</i>, løber herfra gennem et Rør til
+den anden Destillationskedel <i>b</i> og herfra til den
+første Kedel <i>a</i>, i hvilken der tilledes Damp
+gennem Røret <i>i</i>. De i <i>a</i> udviklede Dampe ledes til
+<i>b</i> og bringer Vædsken her til at fordampe, og
+de i <i>b</i> udviklede Dampe ledes gennem Røret <i>f</i>
+til Beholderen <i>h</i>, hvor der finder en
+Fortætning Sted og, saa snart Vædsken er steget op
+over Mundingen af Røret <i>f</i>, en Rektifikation p.
+Gr. a. de stadig tilstrømmende Dampe;
+Dampene ledes videre gennem Røret <i>g</i> til den egl.
+Rektifikator <i>d</i>, i hvis Bund en Del fortætter sig
+og derpaa gennemstrømmes af de efterflg.
+Dampe. Fra <i>d</i> ledes endelig Dampene til
+<sp>Deflegmatoren</sp>, der bestaar af tre over hinanden
+anbragte linseformede Beholdere, de saakaldte
+<sp>Pistorius Bækkener</sp>, i hvilke er indsat
+Mellembunde af Form som flade, omvendte
+Skaale, hvorved Dampene tvinges til at bevæge
+sig langs Bækkenernes Bund og Laag. Herved
+finder en delvis Fortætning Sted, idet Bundene
+afkøles af den ydre Luft, Laagene, der er
+forsynede med en opstaaende Kant, af
+tilstrømmende Vand, der ledes bort gennem Rørene <i>e</i>.
+<i>a</i>, <i>b</i> og <i>c</i> er forsynede med Røreapparater <i>k</i>.
+De ikke fortættede Dampe ledes fra
+Deflegmatoren til et Svaleapparat for at forlade dette
+som færdigt Produkt, medens den fortættede
+Vædske løber tilbage til <i>d</i> og, naar den er
+stegen op over Røret <i>g</i>'s Munding, gennem dette
+til <i>h</i>. Her samler der sig til sidst en stærk
+fuselholdig Vædske, medens Vædsken i <i>a</i> er helt
+berøvet sin Alkohol, og den i <i>b</i> kun indeholder
+lidt deraf. Det her beskrevne Apparat og
+talrige Modifikationer deraf samt de ligeledes
+meget benyttede af <sp>Siemens-Hohenheim</sp>
+
+<img>Fig. 5.</img>

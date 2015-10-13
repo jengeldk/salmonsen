@@ -1,0 +1,156 @@
+<table>
+<td>Baten kaitos<td>ζ <i>Ceti</i>
+<td>Bellatrix<td>γ <i>Orionis</i>
+<td>Benetnash<td>η <i>Ursæ maj.</i>
+<td>Betelgeuze<td>α <i>Orionis</i>
+<td>Canopus<td>α <i>Carinæ (Argus)</i>
+<td>Capella<td>α <i>Aurigæ</i>
+<td>Caph<td>β <i>Cassiopeiæ</i>
+<td>Castor<td>α <i>Geminorum</i>
+<td>Cebalrai<td>β <i>Ophiuchi</i>
+<td>Cor Caroli<td>α <i>Can. ven.</i>
+<td>Cursa<td>β <i>Eridani</i>
+<td>Deneb<td>α <i>Cygni</i>
+<td>Deneb Algedi<td>δ <i>Capricorni</i>
+<td>Deneb kaitos<td>β og ι <i>Ceti</i>
+<td>Denebola<td>β <i>Leonis</i>
+<td>Dubhe<td>α <i>Ursæ maj.</i>
+<td>El Nath<td>β <i>Tauri</i>
+<td>El tanin<td>γ <i>Draconis</i>
+<td>Enif<td>ε <i>Pegasi</i>
+<td>Fomalhaut<td>α <i>Pisc. austr.</i>
+<td>Giedi<td>α <i>Capricorni</i>
+<td>Gemma<td>α <i>Cor. bor.</i>
+<td>Gomelza<td>β <i>Can. min.</i>
+<td>Hamal<td>α <i>Arietis</i>
+<td>Izar<td>ε <i>Bootis</i>
+<td>Kochab<td>β <i>Urs. min.</i>
+<td>Marfik<td>λ <i>Ophiuchi</i>
+<td>Markab<td>α <i>Pegasi</i>
+<td>Meboula (Mebsuta)<td>ε <i>Geminorum</i>
+<td>Megrez<td>δ <i>Urs. maj.</i>
+<td>Menkalinan<td>β <i>Aurigæ</i>
+<td>Menkar<td>α <i>Ceti</i>
+<td>Merak<td>γ <i>Arietis</i>
+<td>Mesartim<td>β <i>Urs. maj.</i>
+<td>Mintaka<td>δ <i>Orionis</i>
+<td>Mira<td>ο <i>Ceti</i>
+<td>Mirac<td>β <i>Andromedæ</i>
+<td>Mirak<td>ζ <i>Urs. maj.</i>
+<td>Mizar<td>ζ <i>Urs. maj.</i>
+<td>Muphrid<td>η <i>Bootis</i>
+<td>Nair al Saif<td>ι <i>Orionis</i>
+<td>Nakkar<td>β <i>Bootis</i>
+<td>Phecda<td>γ <i>Urs. maj.</i>
+<td>Polaris<td>α <i>Urs. min.</i>
+<td>Pollux<td>β <i>Geminorum</i>
+<td>Prokyon<td>α <i>Can. min.</i>
+<td>Præsepe<td>ε <i>Cancri</i>
+<td>Ras algethi<td>α <i>Herculis</i>
+<td>Ras alhague<td>α <i>Ophiuchi</i>
+<td>Regulus<td>α <i>Leonis</i>
+<td>Rigel<td>β <i>Orionis</i>
+<td>Risha<td>α <i>Piscium</i>
+<td>Sa'dalmelik<td>α <i>Aquarii</i>
+<td>Sa'dalsuud<td>β <i>Aquarii</i>
+<td>Sadr<td>γ <i>Cygni</i>
+<td>Sa'iph<td>κ <i>Orionis</i>
+<td>Scheat<td>β <i>Pegasi</i>
+<td>Schedar<td>α <i>Cassiopeiæ</i>
+<td>Sharatan<td>β <i>Arietis</i>
+<td>Shaula<td>λ <i>Scorpii</i>
+<td>Sirius<td>α <i>Can. maj.</i>
+<td>Sirrah<td>α <i>Andromedæ</i>
+<td>Skat<td>δ <i>Aquarii</i>
+<td>Spica<td>α <i>Virginis</i>
+<td>Tejat<td>μ og η <i>Gem.</i>
+<td>Thuban<td>α <i>Draconis</i>
+<td>Unuk<td>α <i>Serpentis</i>
+<td>Vega<td>α <i>Lyræ</i>
+<td>Vindemiatrix<td>ε <i>Virginis</i>
+<td>Wasat<td>δ <i>Geminorum</i>
+<td>Wezen<td>δ <i>Can. maj.</i>
+<td>Yad<td>δ og ε <i>Ophiuchi</i>
+<td>Zau'rak<td>γ <i>Eridani</i>
+<td>Závijava<td>β <i>Virginis</i>
+<td>Zubenelgenubi<td>α <i>Libræ</i>
+<td>Zubeneschamali<td>β <i>Libræ</i>
+</table>
+(<sp>Litt</sp>.: <sp>Allen</sp>, <i>Star-names and their
+meanings</i> [New York 1899]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="stjernenervet">
+<b>stjernenervet</b> er et Blad med flere kraftige
+Nerver, der udgaar fra et Punkt inden for
+Bladets Rand.
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Stjerneparallakse">
+<b>Stjerneparallakse,</b> se <sp>Parallakse</sp>.
+</chapter>
+
+<chapter name="Stjernepolyeder">
+<b>Stjernepolyeder,</b> se <sp>Polyeder</sp>.
+</chapter>
+
+<chapter name="Stjerneroset">
+<b>Stjerneroset,</b> en kive, som ved
+Ovaldrejning (se <sp>Drejemaskine</sp>, Fig. 5) anbringes
+paa en Spindel, og hvis Omkreds svarer til den
+Form, man vil give Arbejdsstykket. Ved S.
+giver man enten den Spindel, der bærer Stykket,
+ell. — som antydet paa den nævnte Fig. —
+Staalet Bevægelsen i radial Retning.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Stjerneskud">
+<b>Stjerneskud</b> er smaa Legemer, der pludselig
+blusser op og med stor Fart farer hen over
+Himmelen for faa Øjeblikke efter atter at
+forsvinde. Man har ogsaa Eksempler paa, at S.
+kun synes at være et lysende Punkt. De er af
+forsk. Lysstyrke, og deres Farve er for det
+meste hvid eller gul, sjælden rød; nogle lyser lige
+saa stærkt som Venus, naar den er i sin største
+Glans, andre kan kun ses i Kikkert. Er S. saa
+store, at de har en mærkbar Diameter ell.
+oplyser Synskredsen om Natten, kaldes de
+<sp>Ildkugler</sp> ell. Bolider, Farven er som oftest rød
+ell. grøn; naar disse frem til Jordens Overflade,
+falder de, ofte efter stærke Eksplosioner, ned som
+<sp>Meteorstene</sp> (se <sp>Meteor</sp>) ell.
+<sp>Aerolitter</sp>. S. er faste Legemer, <sp>Meteoritter</sp>,
+da de giver et kontinuert Spektrum, hvori det
+grønne er mere fremtrædende; det er lykkedes
+i den senere Tid paa Harvard Observatoriet og
+Blajko i Moskva ved Hjælp af Objektivprismer
+at faa fot. Spektra; hidtil har man ikke kunnet
+identificere Emissionslinierne. Den Vej, S.
+tilbagelægger over Himmelen, er ofte kun 1°—2°,
+hyppig 8°—10° lang, undertiden kan den være
+længere. Niessl finder, at den gennemsnitlige
+Længde af en S.bane er 57 km, af en
+Ildkuglebane 319 km. Den længste hidtil bekendte
+S.-bane er den fra 9. Febr 1913. Efter Chant har
+denne i 4 til 5 Tidsminutter tilbagelagt en
+Vejstrækning paa 4000 km i en Højde af 50 til 60
+km. Den Tid, et S. lyser, er som Regel meget
+lille, alm. kun Brøkdele af et Sek., sjælden 3 til
+4 Sek., yderst sjælden mere. S. slukkes
+pludselig; om de ogsaa pludselig lyser op, kan kun
+iagttages, hvis man tilfældig har Øjet rettet
+mod det Punkt, hvor de først viser sig. Som
+oftest vil de have lyst en lille Brøkdel af et
+Tidssekund, før man bliver dem var. Banen er
+alm. retliniet ɔ: et Stykke af en Storcirkel, men
+den kan være krummet, og nu og da har man
+set S. drage hen over Himmelen i Slyngegang
+ell. pludselig dreje af og fortsætte i en anden
+Retning ell. stoppe op et Øjeblik for atter at
+gaa videre i samme Retning o. s. v. Men disse
+Uregelmæssigheder kan være dels reelle,
+hidrørende fra, at S. ikke har en regelmæssig

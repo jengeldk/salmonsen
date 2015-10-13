@@ -1,0 +1,163 @@
+tilbage i en elektrisk Ledning og i Størrelse
+varierer mellem to lige store Maksimalværdier
+med modsat Fortegn. V.'s effektive Værdi (se
+<sp>elektriske Maaleinstrumenter</sp>)
+udtrykkes i Ampère med et Tal, der er lig
+med Styrken af den Jævnstrøm, der sendt
+igennem en almindelig ohmsk Modstand udvikler
+samme Varmemængde pr. Sek. i denne som
+Vekselstrømmen. For sinusformig V. er
+Forholdet mellem Maksimalværdien og
+Effektivværdien = kvadratrod(2). Det samme gælder for
+effektiv Værdi af Vekselspænding. At en
+Vekselspændings effektive Værdi er 220 Volt vil
+saaledes sige, at Spændingen svinger periodisk
+imellem Værdierne ± 310 Volt.
+
+V. frembringes i Vekselstrømsgeneratorer (se
+<sp>elektriske Maskiner</sp>) og kan være
+enfaset eller flerfaset. hyppigst 3-faset (se
+samme Artikel). Hvis V. forløber i en Strømkreds,
+der kun har ohmsk Modstand, vil Strøm og
+Spænding have Maksimalværdier paa samme
+Tids d. v. s. de ligger i samme <sp>Fase</sp> (s. d.).;
+findes der derimod Selvinduktion i Kredsen,
+vil Strømmen i Fase ligge efter Spændingen, og
+er der Kapacitet i Kredsen, vil Strømmen i
+Fase ligge forud for Spændingen. Der er i
+begge Tilfælde <sp>Faseforskydning</sp> (s. d.)
+imellem Strøm og Spænding. Selvinduktion og
+Kapacitet kan være til Stede i et saadant
+Forhold, at de ophæver hinandens faseforskydende
+Virkning; i saa Tilfælde siger man, at der er
+Resonans til Stede, og der vil da paa enkelte
+Steder i Kredsen optræde Spændinger, der kan
+være betydeligt større end
+Vekselstrømsgeneratorens Spænding.
+
+V. lader sig i Transformatorer (se
+<sp>elektriske Maskiner</sp>) omsætte til høje
+Spændinger, der er anvendelige til Kraftoverføringer
+over meget lange Afstande (se <sp>elektriske
+Kraftstationer</sp>, <sp>elektrisk
+Kraftoverføring</sp> og <sp>elektrisk
+Ledningsmateriel</sp>). Der findes nu baade i Europa og
+Amerika Kraftoverføringsanlæg, der drives med
+220000 Volt. Paa det Sted, hvor Energien skal
+anvendes, bliver den igen i Transformatorer
+omsat til den for Anvendelsen passende
+Spænding.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Vekselvinkler">
+<b>Vekselvinkler</b> (matematisk) eller
+<sp>Alternatvinkler</sp>. Naar en Linie <i>a</i> overskæres af
+to andre
+Linier <i>b</i> og <i>c</i>,
+forstaas ved
+V. saadanne
+Vinkler som
+<i>x</i> og <i>y</i>
+(udvendige V.)
+eller <i>u</i> og <i>v</i>
+(indvendige
+V.), hvis paa
+<i>a</i> liggende
+Ben gaar i
+modsat
+Retning, medens de
+andre Ben
+ligger paa modsatte Sider af <i>a</i>. Hvis to V. er lige
+store, er i den euklidiske Geometri <i>b</i> og <i>c</i>
+parallelle og omvendt.
+<i>Chr. C.</i>
+
+<img></img>
+</chapter>
+
+<chapter name="Vekselvirkning">
+<b>Vekselvirkning.</b> To eller flere Emner viser
+sig at staa i V., naar en Ændring vedrørende det
+ene medfører en Ændring vedrørende det
+andet og omvendt. Skovbevoksning og
+Regnmængde staar i V., thi en Ændring i
+Skovbevoksning medfører en Ændring i Regnmængde, og
+en Ændring i Regnmængde medfører en
+Ændring i Bevoksningen. Vedrørende V. mellem
+Sæl og Legeme, se Art. <sp>Psykologi</sp>, S. 683.
+<i>Edg. R.</i>
+</chapter>
+
+<chapter name="Vekselværk">
+<b>Vekselværk,</b> Mekanisme, ved hvilken det
+arbejdende Organ paa en Maskine kan bevæges
+snart i den ene, snart i den modsatte Retning,
+idet der styres om. V.'s Konstruktion retter sig
+efter de særlige Forhold; ved Dampmaskinen
+bruges saaledes Stephenson's Kulisse (se
+<sp>Dampmaskine</sp>), ved Høvlemaskiner anvendtes
+tidligere overvejende Hjulværker til at bevæge
+Planet frem og tilbage (se <sp>Høvlemaskiner</sp>);
+det kan ved disse ogsaa forekomme, at et V.
+drejer Forsætterens Staal, og den døde
+Tilbagegang af Bordet saaledes forvandles til nyttig
+Arbejdsgang; ved Valseværker med Vekselgang
+frembringes denne ved Omstyring af
+Dampmaskinen.
+
+Navnlig tidligere forstod man ved V. ethvert
+Organ, hvorved Maskinens Arbejdsgang
+forandres, saaledes det Hjulværk, der sidder bag
+Spindelen paa Drejebænken, i Forbindelse med
+Spindelens Hjul (se nærmere under
+<sp>Drejemaskine</sp>), eller endnu simplere de
+sammenhørende Hjul af det Sæt Vekselhjul, som
+enhver bedre Drejebænk har, for at
+Ledespindelens Omdrejningshastighed kan varieres; efter
+dette kan ogsaa to sammenhørende
+Trappeskiver betragtes som et V.
+
+V. i Ure er det Værk, der driver Viserne
+med forskellig Hastighed (1 : 12) om det fælles
+Omdrejningspunkt.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Vekserlaas">
+<b>Vekserlaas,</b> se <sp>Laas</sp>.
+</chapter>
+
+<chapter name="Vekslerbord">
+<b>Vekslerbord,</b> se <sp>Telefon</sp>.
+</chapter>
+
+<chapter name="Vektor">
+<b>Vektor</b> (mat.). I Fysikken forekommer to
+Arter af Størrelser, saadanne, der er bestemte
+alene ved en Talangivelse (f. Eks. Masse,
+Energi, Temperatur o. s. v.), og som kaldes
+<sp>Skalarer</sp>, og saadanne, der til deres Bestemmelse
+foruden en Talværdi tillige kræver Angivelse af
+en bestemt Retning (f. Eks. Forskydning,
+Hastighed, Acceleration, Kraft o. s. v.), og som
+kaldes V. En V. kan f. Eks. bestemmes ved sine
+3 Komposanter paa de 3 Akser i et
+almindeligt retvinklet Koordinatsystem. Den afbildes i
+Reglen som en Pil, hvis Længde er
+proportional med V.'s Talværdi, og hvis Retning angiver
+V.'s Retning. I Tryk betegnes V. enten ved
+gotiske Bogstaver ([*]) eller ved fede
+Antikva-Bogstaver (<b>A</b>), i Skrift betegnes de
+bekvemmest ved at sætte en Streg under eller over det
+paagældende Bogstav. Talværdien af en V. <b>A</b>
+betegnes |<b>A</b>| eller ved det tilsvarende latinske
+Bogstav <i>A</i>. Ved en Enhedsvektor forstaas en
+V. med Talværdi 1, den betegnes <b>A</b>1. Man har
+følgelig <b>A</b> = A<b>A</b>1.
+
+<sp>Vektoralgebra</sp>. Man <sp>adderer</sp> en V.
+<b>B</b> til en anden V. <b>A</b> ved at parallelforskyde <b>B</b>,
+til den faar <b>A</b>'s Endepunkt til
+Begyndelsespunkt; Summen er da den V., der fremstilles
+ved en Linie fra <b>A</b>'s Begyndelsespunkt til <b>B</b>'s

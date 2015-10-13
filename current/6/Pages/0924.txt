@@ -1,0 +1,87 @@
+Overfladebelægning paa Pladen, som er saaledes fordelt, at
+den i alle sine Virkninger i Rummet over
+Pladen kan erstattes af en Ladning ÷ Q,
+anbragt under Pladen i det med P symmetriske
+Punkt. Metoden er fundet af <sp>William
+Thomson</sp> (<sp>Lord Kelvin</sp>) og har Bet. for
+Elektrodestatikkens mat. Behandling. En anden
+Art e. B. er omtalt under Dugbilleder.
+<i>E. S. J.</i></chapter>
+
+<chapter name="elektriske Bølger">
+<b>elektriske Bølger,</b> se
+<sp>elektromagnetiske Svingninger</sp> og
+<sp>Radiotelegrafi</sp>.</chapter>
+
+<chapter name=”elektriske Enheder”>
+<b>elektriske Enheder,</b> se <sp>elektriske
+Maaleenheder</sp> og <sp>Elektrostatik</sp>.</chapter>
+
+<chapter name=”elektriske Figurer”>
+<b>elektriske Figurer,</b> se <sp>elektriske
+Støvfigurer</sp> og <sp>Nobilis Ringe</sp>.</chapter>
+
+<chapter name=”elektriske Fisk”>
+<b>elektriske Fisk,</b> se <sp>elektriske
+Organer</sp>.</chapter>
+
+<chapter name=”elektriske Fordelingssystemer”>
+<b>elektriske Fordelingssystemer.</b> Efter den
+i elektriske Anlæg anvendte Forbindelsesmaade
+mellem Forbrugere og Kraftstation skelner man
+mellem e. F. med <sp>Serieforbindelse</sp> og
+e. F. med <sp>Parallelforbindelse</sp>. Ved
+<sp>Serieforbindelse</sp> er alle Forbrugere
+forbundne i Serie (Fig. 1), saaledes at der kun er
+en enkelt sluttet Strømkreds. Serieforbindelsen
+har den Ulempe, at en Forbruger ikke kan
+udskydes paa anden Maade af Nettet end ved, at
+de paagældende Lamper ell. Maskiner enten
+kortsluttes direkte, hvad der fordrer stadig
+Spændingsregulering paa Centralen, idet
+Serieforbindelse kræver konstant Strøm, ell.
+kortsluttes over en Modstand, der yder samme
+Spændingstab som Lampen ell. Maskinen, og
+saaledes giver Anledning til Energitab.
+Serieforbindelse kræver Agtpaagivenhed over for
+Spændingsvariationer. I Schweiz har man forsøgt
+anvendt Serieforbindelse ved et enkelt elektrisk
+Kraftanlæg, hvor direkte sammenkoblede og i
+elektrisk Henseende serieforbundne
+Jævnstrømsseriemaskiner forbandtes i Serie og gav i alt
+en Jævnstrømsspænding paa 20-30000 Volt, der
+dog ikke kan anvendes direkte hos Forbrugerne,
+men omformes til lavspændt Jævnstrøm i
+Omformere, hvis Motorsider hver bestod af flere
+sammenkoblede, serieforbundne Seriemaskiner,
+medens Dynamosiderne bestod af en enkelt
+Shuntdynamo. Vekselstrømsserieforbindelse har
+fundet nogen Udbredelse ved elektrisk
+Gadebelysning i England og Amerika, men anvendes
+
+<img>
+Fig. 1. Seriesystem.
+</img>
+<img>
+Fig. 2. Parallelsystem, Toleder.
+</img>
+<img>
+Fig. 3. Treledersystem.
+</img>
+<img>
+Fig. 4. Femledersystem.
+</img>
+<img>
+Fig; 5. Trefasesystem; Trekantforbindelse.
+</img>
+<img>
+Fig. 6. Trefasesystem; Stjerneforbindelse med 0 Leder.
+</img>
+<img>
+Fig. 7. Transformator. Højspændingssiden trekantforbunden
+Lavspændingssiden stjerneforbunden med 0 Leder.
+</img>
+<img>
+Fig. 8. Transformator. Højspændingssiden
+stjerneforbunden, Lavspændingssiden stjerneforbunden med 0 Leder.
+</img>

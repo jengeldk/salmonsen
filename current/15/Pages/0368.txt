@@ -1,0 +1,124 @@
+samme Vinkel. I denne Projektion, som siden
+Slutn. af 16. Aarh. har været stærkt anvendt
+ved Søkort, vokser Maalestoksforholdet meget
+stærkt fra Ækvator mod Polerne (Fig. 10).
+
+Ved Valget mellem de mange
+Kortprojektioner kommer, som alt antydet, L.'s
+hovedsagelige Benyttelse i Betragtning. Ved mindre
+Arealer spiller Projektionen en mere underordnet
+Rolle, men for større Dele af Jorden har det
+afbildede Areals Form ogsaa Bet. For et
+sammentrængt Areal vil saaledes en
+Azimutalprojektion passe bedst, medens et langstrakt
+fremstilles bedre ved en Udfoldningsprojektion med
+Tangering midt gennem Arealet i dettes
+Længderetning. I nyere Tid har man med Held
+undertiden anvendt Kombinationer af Projektionerne,
+saaledes at ingen af Hovedegenskaberne strengt
+gennemførtes, men modificeredes for at opnaa
+Fordele i de andre Retninger.
+
+<sp>Kortindholdet</sp>. I det konstruerede
+geografiske Net indlægges nu alt, hvad L. skal
+indeholde, deriblandt ogsaa Terrainets Højde
+og Form. Fremgangsmaaden herved er forsk.
+efter Kortets Art og det foreliggende
+Grundmateriale, der ved de udførligste topografiske
+Kort bestaar af selve den orginale Opmaaling,
+og i øvrigt principmæssigt af Kort i større
+Maalestok end det nye, af hvilke de efter
+Forholdene mindst betydende Enkeltheder
+udelades. Geografiske L. udarbejdes om muligt efter
+foreliggende topografiske og i øvrigt efter meget
+forsk. Materiale. Anvendes Kobberstik ell.
+Litografi, udarbejdes Kortet i den endelige
+Maalestok, men til Reproduktion ved Fotolitografi,
+Heliogravure, Zinkotypi o. l. udføres
+Haandtegningen sædvanlig i en noget større Maalestok
+og nedsættes ved Fotograferingen. Et større
+Kortværk kan bestaa af mange enkelte Blade,
+og deres Størrelse afpasses saaledes, at de er
+bekvemme for Brugen, kan udarbejdes i en
+rimelig Tid og uden Vanskelighed trykkes.
+Kortbladet begrænses enten af en rektangulær
+Ramme ell. af geografiske Linier, i sidste Tilfælde
+bliver det alm. trapezformet.
+
+De enkelte Punkter kan altid indlægges i
+Gradnettet ved Hjælp af deres geogr. Længde
+og Bredde, som fremgaar ell. kan udledes af
+Grundmaterialet. Denne Metode er ogsaa
+anvendelig ved Overgang til en anden Projektion,
+idet Gradnettet i begge i fornøden Grad kan
+findeles. Ved Overføring af Punkter og Linier
+fra et Kort i samme Projektion kan benyttes
+Pantograf ell., som nu alm., Fotografering,
+
+Indholdet af et L. bestaar af tre
+Hoveddele: <sp>Situationsfremstillingen</sp>,
+<sp>Terrainfremstillingen</sp> og <sp>Skriften</sp>.
+Under »Situation« forstaas alt, som ikke falder ind
+under de andre Kategorier, saaledes Kyst- og
+Samfærdselslinier, politiske og administrative
+Grænser, Vandløb, Bebyggelse,
+Arealbeskaffenhed og Bevoksning m. m. Saa vidt muligt søges
+Genstandene fremstillet ved deres Grundrids i
+rigtigt Maalestoksforhold; men selv paa de
+udførligste topografiske Kort maa Bredden af
+Veje, Jernbaner og tildels Vandløb overdrives,
+og kun indtil c, 1:50000 kan Bygninger helt ell.
+tilnærmelsesvis gengives rigtigt. I mindre
+Maalestokke maa Størrelsen betydelig overdrives og
+efterhaanden erstattes med <sp>Signaturer</sp>
+(Korttegn). Disse er tildels konventionelle og
+minder sædvanlig i nogen Grad om det, de skal
+fremstille; ogsaa for Arealernes Beskaffenhed
+og Bevoksning anvendes Signaturer, og naar de
+enkelte Bygninger ikke kan gengives, benyttes
+ligeledes en Signatur, der tilnærmelsesvis viser
+Omkredsen ell., hvor dette ejheller, er muligt,
+et Tegn, som er ens for alle af samme Klasse,
+(Landsby, Sogneby, Flække, Købstad af forsk.
+Størrelse), men forsk. for hver Kategori; som
+oftest benyttes hertil smaa forsk. udstyrede
+Kredse. Jernbaner og Veje gives gerne forsk.
+Bredde og Udstyr efter deres Bet.
+
+<sp>Terrainfremstillingen</sp>, som altid
+hører til et fuldstændigt, men ofte mangler paa
+tarvelige L. kan være udført efter forsk.
+Metoder, der dog hyppigt kombineres. Højden og
+Formerne fremstilles nøjagtigst og mest
+rationelt ved <sp>Horisontalkurver</sp>, ɔ: Linier
+trukne gennem Punkterne med samme Højde
+over Havfladen, og som altsaa viser de
+vandrette Snit gennem den ujævne Jordoverflade.
+Kurverne lægges ordentligvis med samme
+indbyrdes Højdeforskel (ækvidistante), forsk. efter
+Kortets Maalestok og Terrainets Beskaffenhed,
+og de danner Grundlaget for de andre
+Fremstillingsmaader. Metoden, der først er anvendt
+i Frankrig (Dupain Triel 1728), benyttes ikke
+alene som Regel ved alle topografiske
+Opmaalinger og paa topografiske Kort i større
+Maalestok, men ogsaa hyppigt i de
+mindre Maalestokke sammen med andre Metoder.
+Naar Horisontalkurverne ligger tæt, kan de
+ved deres »Skygning« umiddelbart give et vist
+plastisk Indtryk af Terrainet, men dette kan
+dog bedre fremkaldes ved andre Midler,
+saaledes <sp>Bakkestreger</sp>, der tegnes i Retning
+af det stærkeste Fald, altsaa vinkelret paa
+Horisontalkurverne. Ved Stregernes Tykkelse
+ell. Tæthed kan tillige Hældningens Stejlhed
+vises, idet Forholdet mellem Sort og Hvidt
+afpasses efter den Belysning, Skraaningen vilde
+faa ved lodret indfaldende Lys. Denne Metode
+er 1799 udviklet af den sachsiske Major
+<sp>Lehmann</sp>, som anvendte forsk. Stregtykkelse i
+Zoner for hver 5° Hældning indtil 45° og
+derefter fuldstændig Sort. Lehmann's Metode har
+med forsk. Modifikationer siden været meget
+
+<img>Fig. 10. Mercators Projektion.</img>

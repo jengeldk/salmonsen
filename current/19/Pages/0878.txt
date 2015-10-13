@@ -1,0 +1,142 @@
+<sp>Højfrekvenskreds</sp>; disse Svingninger induceres derfra
+gennem de viste Traadruller over i Antennen, hvoraf
+en Del er vist med tynde Linier til højre i
+Figuren. Ved saadanne koblede Kredse vil der, som
+nævnt, opstaa 2 Svingninger med forsk.
+Svingningstal, hvilket bevirker, at Energien svinger
+ell vandrer frem og tilbage mellem de to
+Kredse (smlg. Fig. 7), saa Antennen udstraaler
+Energien stødvis, hvilket i høj Grad
+formindsker Følsomheden og Afstemmeligheden.
+Gnistsystemerne har modvirket dette uheldige
+Forhold ved at anvende de saakaldte
+»Tonegnister«. Ved særlige Konstruktioner af
+Gnistbanen opnaas, at Gnisterne slukkes saa hurtigt,
+at man kan anvende 500—1000 Gnister pr Sek.;
+Navnet hidrører fra, at dette i Modtageren
+høres som en Tone.
+
+Den hurtige Gnistslukning i de til »Tonegnist«
+benyttede Gnistbaner kan tilvejebringes paa fl.
+Maader. Her skal nævnes M. Wien's delte
+Seriegnistbane, Fig. 20, hvor Virkningen beror
+paa en Deling af Gnisten i fl. mindre, ganske
+korte Gnister, hvorved en hurtig Afkøling og
+Afionisation af Gnisten lettes, saaledes at
+Gnistbanen i Løbet af meget kort Tid efter
+Udladningens Ophør gaar over i den uledende Tilstand.
+Gnisten vil derfor slukkes i det Øjeblik, hele
+Svingningsenergien har forladt Primærkredsen
+og befinder sig i Antennen. Derved sættes
+Primærkredsen ud af Virksomhed, og Antennen
+svinger videre med sit eget Svingningstal og sin
+egen Dæmpning, ganske som om
+Primærkredsen ikke eksisterede, se Fig. 8 og 21. En ganske
+lgn. Virkning kan opnaas ved Anvendelse af en
+roterende Gnistbane, hvor Gnistdannelsen
+finder Sted mellem et Par fastsiddende Elektroder
+og nogle regelmæssig fordelte »Knaster« paa et
+roterende Gnisthjul (Marconi).
+
+Tonegniststationer anvendes i stor
+Udstrækning bl. a. i Handelsmarinen, men vil
+formentlig i Tidens Løb blive fortrængt af C.
+W.-Sendere. Til Nødsendere vil man dog vistnok i lang
+Tid foretrække Gnistsystemet.
+
+Selv om Tonegnistsystemet hetyder et meget
+stort Fremskridt i Forhold til det opr.
+Knaldgnistsystem, hæfter der dog stadig en Del
+væsentlige Mangler ved selv de bedste
+Gnistsystemer. Af disse skal nævnes: Stationernes ringe
+Afstemmelighed, der bevirker, at kun faa
+Stationer kan arbejde uafhængig af hverandre
+inden for samme Omraade. Bølgernes forholdsvis
+ringe »Rækkeevne«, der hænger sammen med,
+at de ikke er vedvarende (se senere). Det er
+vanskeligt at bygge meget store Gnistsendere,
+der virker paa fuldt tilfredsstillende Maade.
+Gnistsystemet egner sig ikke til Hurtigtelegrafi
+og er uanvendeligt til traadløs Telefoni. Disse
+Mangler hænger sammen med de udsendte
+Bølgers Karakter, deres Diskontinuitet, og
+Manglerne forsvinder ved Anvendelse af vedvarende,
+kontinuerlige Bølger. En Mellemting mellem
+Gnistsendere og C. W.-Sendere danner de
+Sendere, der arbejder med <sp>styrede Gnister</sp>
+(<i>Timed Spark</i>), men dette System har aldrig
+fundet nogen større Anvendelse.
+
+Den første <sp>Generator for
+vedvarende kontinuerlige</sp>,
+<sp>elektromagnetiske Svingninger</sp> skyldes Valdemar
+Poulsen, der 1902 opfandt Buegeneratoren og
+i Løbet af de flg. Aar (1902—09) udviklede den
+til praktisk Brugbarhed. Udgangspunktet var en
+af William Duddell (1899) tilfældig gjort
+Iagttagelse, nemlig at en alm. med Jævnstrøm født
+Buelampe, parallel med hvilken er indskudt en
+Selvinduktion <i>L</i> og en Kapacitet <i>C</i>, se Fig. 22,
+under visse Forhold synger med en Tone, hvis
+Svingtal <i>n</i> ligger i Nærheden af <i>n</i> = 1/2 π √<i>LC</i>.
+
+Buens Syngen skyldes, at der opstaar
+Vekselstrømme i den af Buen (<i>B</i>), Selvinduktionen
+(<i>L</i>) og Kondensatoren (<i>C</i>) dannede
+Svingningskreds. Duddell konstaterede, at dette
+ejendommelige Forhold hang sammen med, at Buens
+Karakteristik er faldende. Ved Karakteristik
+forstaar man den Kurve, der fremstiller
+sammenhørende Værdier af Strøm (<i>i</i>) i og Spænding (<i>v</i>)
+over en Leder. For en metallisk Leder er
+Karakteristikken en ret Linie gennem
+Begyndelsespunktet, se Fig. 23. For Buen har
+Karakteristikken derimod det ved Kurve <i>apb</i> i Fig. 24
+viste Forløb. Karakteristikken er faldende, d.
+v. s., at Buespændingen aftager, naar
+Buestrømmen vokser.
+
+For smaa Variationer af Strøm og Spænding
+i Nærheden af den ved Punktet <i>p</i>
+repræsenterede Tilstand optræder Buen, som om den
+havde en »negativ« Modstand, —<i>r<sup>1</sup></i>, hvis
+numeriske Værdi er given ved <i>r<sup>1</sup></i> = <i>tg</i>φ. Er
+Modstanden i Resten af Buekredsen lig med <i>R</i>,
+saa vil der opstaa Svingninger i Buekredsen,
+hvis <i>R</i> = <i>r<sup>1</sup></i>, altsaa hvis Summen af Buens
+negative og Buekredsens (positive) Modstand er
+negativ ell. lig med Nul. Er Summen derimod
+positiv, vil Buen være stabil og brænde med
+konstant Strøm og Spænding. Duddellbuen
+kunde dog kun frembringe ganske svage
+Svingninger med lavt Svingningstal. Poulsen iagttog nu,
+at Svingningernes Intensitet steg betydelig, og
+at man samtidig kunde gaa op til meget højere
+Svingningstal, naar man lod Buen brænde: 1)
+i en stærk brintholdig Atmosfære (f. Eks. i en
+Spritflamme, se Fig. 22, men endnu bedre i et
+lukket Kammer, der er fyldt med Brint,
+Belysningsgas e. l.). 2) i et stærkt transversalt
+magnetisk Felt. Som Regel dannes den positive
+Elektrode (Anoden) af vandkølet Kobber, medens
+den negative (Katoden) er af Kul, der af
+Hensyn til Sliddets regelmæssige Fordeling holdes
+i langsom Rotation. Man kan dog ogsaa benytte
+Kul til den positive Elektrode og en roterende,
+vandkølet Kobberelektrode som Katode.
+
+En Buegenerator af ældre Type er vist i Fig.
+25, medens Fig. 26 viser en nyere 500 KW
+Buegenerator. Den største hidtil byggede
+Buegeneratorer til c. 3500 KW.
+
+Tidligere indskød man som Regel Buen
+direkte i Antennen, se Fig. 27, og
+Telegraferingen blev tilvejebragt gennem en lille Ændring i
+Længden af den udsendte Bølge, frembragt ved,
+at man ved Hjælp af Nøglen (<i>N</i>) ell. en
+automatisk Sender (<i>AS</i>) kortsluttede og atter aabnede
+nogle faa Vindinger af den i Antennen anbragte
+Traadrulle. Der telegraferes nu ofte paa anden
+Maade, og man anvender hyppig en
+Mellemkreds ell. særlig Buekreds, der kobles til

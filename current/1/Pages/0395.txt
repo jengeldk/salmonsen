@@ -1,0 +1,81 @@
+I elektriske Centraler med Jævnstrøm benyttes
+i udstrakt Grad store Akkumulatorbatterier.
+I <sp>Lyscentraler</sp> anvendes de til
+Udjævning af den Døgnet rundt varierende
+Belastning, idet man oplader dem om Dagen, naar
+Forbruget er ringe, og udlader dem paa den Tid,
+da Forbruget er størst. Derved bliver Udnyttelsen
+af Maskinanlægget mere økonomisk. Da
+Cellernes Spænding som nævnt ændrer sig med
+Ladetilstanden, maa man variere Antallet af Celler
+i Strømkredsen for at kunne holde den hele
+Spænding konstant. Dette udfører man ved
+Hjælp af en saakaldt Celleskifter med tilhørende
+Celleskifterledninger. I Centraler til Drift af
+Sporveje ell. Baner anvendes Akkumulatorer
+paa en væsentlig anden Maade som
+<sp>Pufferbatteri</sp> til Udjævning af den fra det ene
+Øjeblik til det andet varierende Belastning. Man
+kan opnaa, at Maskinernes Belastning kun
+varierer forvoldsvis lidt, medens Batteriet
+automatisk snart lades, snart udlades. Pufferbatterier
+kunne ganske simpelt uden Anvendelse af
+Celleskifter være forbundne parallelt med Dynamoen.
+Ofte er der dog i Batterikredsen indskudt en
+Hjælpedynamo med Differentialmagnetisering,
+hvis Spænding snart adderer sig til snart
+subtraherer sig fra Batterispændingen.
+
+<img>Fig. 5. Stor Akkumulatorcelle.</img>
+
+<sp>Stationære A.</sp> er forholdsvis tunge, da
+de derved bliver holdbare, medens den større
+Vægt ikke spiller nogen synderlig Rolle. En
+stationær A. giver for hver fuldstændig
+Udladning eksempelvis 8 Watt-Timer for hvert
+kg Totalvægt. Varigheden kan eksempelvis
+sættes til 10 Aar.
+
+<sp>Transportable A.</sp> anvendes
+eksempelvis til Undervandsbaade, Togbelysning, til
+Belysning og Start af Automobiler, til Drivkraft
+for Automobildrosker, Sygevogne og Postvogne,
+i enkelte Tilfælde ogsaa til Banedrift.
+Transportable A. gøres ofte væsentlig lettere end
+stationære, men bliver da mindre holdbare.
+Eksempelvis anvendes til Undervandsbaade A.,
+der giver 15—20 Watt-Timer pr. kg. Den
+praktisk mulige Grænse ligger ved 30 Watt-Timer
+pr. kg Totalvægt.
+
+<sp>H. J. Hannover</sp> anvender til Fabrikation
+af Akkumulatorplader porøst Bly, fremstillet
+ved Udslyngning af den ikke størknede Del af
+en smeltet Legering, der er saa vidt afkølet,
+at en Del er størknet som en sammenhængende
+krystallinsk Masse. Se <sp>Poremetal</sp>.
+
+<img>Fig. 6. Negativ. Fig. 7. Positiv.
+ Plader af Edisonakkumulator.</img>
+
+<sp>Den alkaliske A.</sp> Edison fabrikerer A.,
+der som Elektroder anvender Jern og Nikkel
+og som Vædske anvender en Opløsning af
+Kalihydrat i Vand. Fig. 6 viser en negativ
+Plade. Den bestaar af 24 smaa Kapsler af
+fintperforeret Jern, fyldt med en Blanding af
+Jernoxyd og Kviksølvoxyd. Kapslerne er
+indfattede i en Jernplade med Udskæring til hver
+Kapsel. Fig. 7 viser en positiv Plade, som er
+sammensat af Rør, der hver for sig er
+vundet af en spiralformig perforeret
+Jernstrimmel og fyldt med Nikkelhydrat og tynde
+Nikkelspaaner. Ved Ladning og Udladning
+er den fri Kalihydratmængde uforandret,
+hvorfor kun meget lidt Vædske er
+nødvendig. Fig. 8 viser det Ydre af en
+Edison-Celle. Beholderen er af forniklet
+Jernblik. Indvendig er der afvekslende positive
+og negative Plader, adskilte fra hinanden
+
+<img>Fig. 8. Edisonakkumulator.</img>

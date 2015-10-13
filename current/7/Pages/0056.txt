@@ -1,0 +1,87 @@
+imellem de to Kulstænger <i>K</i> og blæses af
+Elektromagneten <i>E</i> ned imod Svejsfugen. Denne
+Metode ligner meget <sp>autogen Svejsning</sp>.
+Godset omgives, som vist paa Fig. 3, under
+Svejsningen med Formsand e. l., dels for at ikke
+det smeltede Metal skal flyde bort, dels for at
+holde paa Varmen. Paa Fig. 4 er vist det
+færdigsvejsede Stykke. Den elektriske Lysbue kan
+anvendes til »<sp>Overskæring</sp>« af Plader paa
+lgn. Maade som ved autogen Skæring. Til
+Smeltning af 1 kg Jern anvendes c. 2 Kilowatttimer.
+<sp>Modstandssvejsningen</sp> er en egentlig
+Svejsning. De to Flader, der skal samles,
+holdes ved denne Metode fast trykkede imod
+hinanden, og igennem Berøringsfladen sendes en
+Strøm paa undertiden fl. Tusinde Ampère;
+herved sker en fuldstændig ensartet Opvarmning
+af Svejsefugen, som fortsættes, indtil Svejsvarme
+er opnaaet; derefter afbrydes Strømmen. Der
+benyttes altid Vekselstrøm, idet man ved
+<sp>Transformatorer</sp> har et simpelt Middel til at
+opnaa de store Strømme og smaa Spændinger
+(se under <sp>elektr. Maskiner</sp>).
+Sekundærviklingen udføres som Regel som en enkelt
+Vinding, hvori de to Svejsestykker indgaar, som
+vist paa Fig. 5. En Regulering af Strømstyrken
+kan dels opnaas ved at regulere paa
+Transformatorens Primærspænding, dels ved at benytte
+flere ell. færre Vindinger af Primærviklingen.
+En <sp>Svejsemaskine</sp> til svært Gods er vist
+i Fig. 6. Den kan præstere indtil 200 KW.
+Godset indspændes i de to viste, svære
+Skruestikker, som kan trykkes mod hinanden ved to
+Vægtstænger. Selve Transformatoren er skjult
+i Maskinens bageste Del. Elektrisk
+Modstandssvejsning anvendes en Del i
+<sp>Kædefabrikationen</sp>, de hertil konstruerede Maskiner
+arbejder til Dels automatisk, Arbejderen skal blot,
+naar han ser, at den rigtige Svejsvarme er
+opnaaet, trykke paa et Haandtag; herved
+afbrydes først Strømmen, hvorefter Maskinen selv
+anbringer et nyt Led i Svejsebakkerne og slutter
+Strømmen. Til at give et Begreb om
+Energiforbruget ved denne Svejsemetode kan
+anføres, at der til Svejsning af to Flader paa
+hver 1000 mm2 kræves c. 0,8 Kilowatttimer. Til
+Erstatning for Nitning anvendes ved tyndere
+Blikarbejder den saakaldte
+<sp>Punktsvejsning</sp>, idet man frembringer en Række smaa
+Svejsninger, hvor man
+ellers skulde anbringe
+Nitterne. En saadan
+Punktsvejsning skal være
+betydelig stærkere end
+en Sammennitning,
+udført med Nitter i samme
+Antal og af samme
+Tværsnit som Svejsningerne.
+Svejsningen udføres som
+vist i Fig. 7. De
+sekundære Ender af den i
+Maskinen anbragte
+Transformator er ført til to
+Arme, der hver ender i
+en
+Indspændingsmekanisme, hvori der
+fastspændes to cirkulære
+Elektroder af samme
+Tværsnit. Imellem disse
+lægges de to Plader, der
+skal sammensvejses, og
+Armene trykkes fast
+sammen, samtidig med at
+Strømmen sluttes.
+Opvarmningen af Pladerne
+bliver ganske lokal, saa
+»Svejsepunktet«
+omtrentlig faar samme Diameter
+som Elektroderne. Hvis man erstatter de to
+Elektroder med to under Svejsningen sammentrykkede
+<sp>Ruller</sp>, hvorimellem Godset føres kontinuerligt,
+faas en sammenhængende <sp>Svejselinie</sp>, der
+i Modsætning til Punktsvejsningen jo giver en
+
+<img>Fig. 7.</img>
+
+<img>Fig. 8.</img>

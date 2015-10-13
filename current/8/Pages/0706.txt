@@ -1,0 +1,80 @@
+<table>
+<td>Departementer<td c>Størrelse<br>km<sup>2</sup><td c>Folketal<br>1911<td c>Indb.<br>pr. km<sup>2</sup><td>Departements Hovedstæder og større Byer
+<td>Pas de Calais<td r>6752<td r>1068155<td r>158.2<td>Calais 72322, Boulogne-sur-Mer 53128, <sp>Arras</sp> 26080.
+<td>Nord<td r>5774<td r>1961780<td r>339.7<td><sp>Lille</sp> 217807, Tourcoing 82644, Dunkerque 38891, Douai 36314.
+<td>Somme<td r>6277<td r>520161<td r>82.9<td>Roubaix 122723, <sp>Amiens</sp> 93207.
+<td>Aisne<td r>7428<td r>530226<td r>71.4<td>Saint-Quentin 55571, <sp>Laon</sp> 16262.
+<td>Ardennes<td r>5253<td r>318896<td r>60.7<td><sp>Mézières</sp> 10403.
+<td>Seine-Inférieure<td r>6342<td r>877383<td r>138.4<td>Le Havre 136159, <sp>Rouen</sp> 124987, Dieppe 23973.
+<td>Oise<td r>5887<td r>411028<td r>69.8<td><sp>Beauvais</sp> 19841.
+<td>Eure<td r>6037<td r>323651<td r>53.6<td><sp>Evreux</sp> 18957.
+<td>Eure-et-Loire<td r>5940<td r>272255<td r>45.8<td><sp>Chartres</sp> 24103.
+<td>Seine-et-Oise<td r>5659<td r>817617<td r>144.5<td><sp>Versailles</sp> 60458.
+<td>Seine<td r>480<td r>4154042<td r>8664.5<td><sp>Paris</sp> 2888110, Saint-Denis 71759, Levallois-Perret 68703, Vincennes 38568, Neuilly-sur-Seine 44616, Clichy 46676, Boulogne-sur-Seine 57027.
+<td>Seine-et-Marne<td r>5931<td r>363561<td r>61.3<td><sp>Melun</sp> 14861.
+<td>Marne<td r>8205<td r>436310<td r>53.2<td>Reims 115178, <sp>Chalons-s.-M.</sp> 31367.
+<td>Meuse<td r>6241<td r>277955<td r>44.5<td><sp>Bar-le-duc</sp> 17068, Verdun 21701.
+<td>Meurthe-et-Moselle<td r>5280<td r>564730<td r>107.0<td><sp>Nancy</sp> 119949.
+<td>Vosges<td r>5903<td r>433914<td r>73.5<td><sp>Epinal</sp> 30042.
+<td>Haute Saône<td r>5375<td r>257606<td r>47.9<td><sp>Vesoul</sp> 10539.
+<td>Belfort (Territoire de)<td r>608<td r>101386<td r>166.6<td><sp>Belfort</sp> 39371.
+<td>Doubs<td r>5260<td r>299935<td r>56.9<td><sp>Besançon</sp> 57978.
+<td>Jura<td r>5055<td r>252713<td r>50.0<td><sp>Lens-le-Saunier</sp> 13927.
+<td>Saône-et-Loire<td r>8627<td r>604441<td r>70.1<td><sp>Mâcon</sp> 19779.
+<td>Cote d'Or<td r>8787<td r>350044<td r>39.8<td><sp>Dijon</sp> 76847.
+<td>Haute-Marne<td r>6257<td r>214765<td r>34.3<td><sp>Chaumont</sp> 14870.
+<td>Aube<td r>6026<td r>240755<td r>39.9<td><sp>Troyes</sp> 55486.
+<td>Yonne<td r>7461<td r>303889<td r>40.7<td><sp>Auxerre</sp> 21929.
+<td>Loiret<td r>6812<td r>384061<td r>53.4<td><sp>Orléans</sp> 72096.
+<td>Loir-et-Cher<td r>6422<td r>271231<td r>42.2<td><sp>Blois</sp> 23955.
+<td>Calvados<td r>5693<td r>396318<td r>69.6<td><sp>Caen</sp> 46934.
+<td>Orne<td r>6144<td r>307433<td r>50.0<td><sp>Alençon</sp> 17383.
+<td>Manche<td r>6412<td r>476119<td r>74.3<td>Cherbourg 43731, <sp>St. Lô</sp> 11855.
+<td>Côte-du-Nord<td r>7218<td r>605523<td r>83.9<td><sp>St. Brieuc</sp> 23945.
+<td>Finisterre<td r>7029<td r>809771<td r>115.2<td>Brest 90540, <sp>Quimper</sp> 19367.
+<td>Morbihan<td r>7092<td r>578400<td r>81.5<td><sp>Vannes</sp> 23748.
+<td>Ille-et-Vilaine<td r>6992<td r>608098<td r>86.9<td><sp>Rennes</sp> 79372.
+<td>Mayenne<td r>5212<td r>297732<td r>57.1<td><sp>Laval</sp> 30252.
+<td>Sarthe<td r>6245<td r>419370<td r>67.1<td><sp>Le Mans</sp> 69361.
+<td>Loire-Inférieur<td r>6980<td r>669920<td r>95.7<td><sp>Nantes</sp> 170535, St. Nazaire 38267.
+<td>Maine-et-Loire<td r>7218<td r>508149<td r>70.4<td><sp>Angers</sp> 83786.
+<td>Indre-et-Loire<td r>6158<td r>341205<td r>55.4<td><sp>Tours</sp> 73398.
+<td>Cher<td r>7304<td r>337810<td r>46.3<td><sp>Bourges</sp> 45735.
+<td>Nièvre<td r>6888<td r>299312<td r>43.4<td><sp>Nevers</sp> 27706.
+<td>Vendée<td r>7016<td r>438520<td r>62.5<td><sp>Laroche-sur-Yon</sp> 14885.
+<td>Deux-Sèvres<td r>6054<td r>337627<td r>55.8<td><sp>Niort</sp> 23775.
+<td>Vienne<td r>7044<td r>332276<td r>47.2<td><sp>Poitiers</sp> 41242.
+<td>Indre<td r>6906<td r>287673<td r>41.1<td><sp>Chateauroux</sp> 26095.
+<td>Allier<td r>7381<td r>406291<td r>55.0<td><sp>Moulins</sp> 21990.
+<td>Creuse<td r>5606<td r>266188<td r>47.5<td><sp>Guéret</sp> 8241.
+<td>Haute-Vienne<td r>5555<td r>384736<td r>69.2<td><sp>Limoges</sp> 92181.
+<td>Charente<td r>5972<td r>346424<td r>58.0<td><sp>Angoulème</sp> 38211.
+<td>Charente Inférieure<td r>7232<td r>450871<td r>62.3<td><sp>La-Rochelle</sp> 36371, Rochefort 35019.
+<td>Puy-de-Dôme<td r>8016<td r>525916<td r>65.6<td><sp>Clermont-Ferrand</sp> 65386.
+<td>Loire<td r>4799<td r>640549<td r>133.5<td><sp>Saint-Etienne</sp> 148656.
+<td>Rhõne<td r>2859<td r>915581<td r>322.0<td><sp>Lyon</sp> 523796.
+<td>Ain<td r>5826<td r>342482<td r>58.8<td><sp>Bourg</sp> 20545.
+<td>Haute-Savoie<td r>4598<td r>255137<td r>55.5<td><sp>Annecy</sp> 15622.
+<td>Savoie<td r>6188<td r>247890<td r>40.0<td><sp>Chambéry</sp> 22958.
+<td>Isère<td r>8237<td r>555911<td r>67.5<td><sp>Grenoble</sp> 77438.
+<td>Haute-Loire<td r>5001<td r>303838<td r>60.9<td><sp>le Puy</sp> 20944.
+<td>Cantal<td r>5779<td r>223361<td r>38.6<td><sp>Aurillac</sp> 18036.
+<td>Lozère<td r>5180<td r>122738<td r>23.7<td><sp>Mende</sp> 7005.
+<td>Ardèche<td r>5556<td r>331801<td r>59.9<td><sp>Privas</sp> 7290.
+<td>Drôme<td r>6561<td r>290894<td r>44.3<td><sp>Valence</sp> 28706.
+<td>Hautes-Alpes<td r>5643<td r>105083<td r>18.6<td><sp>Gap</sp> 10647.
+<td>Basses-Alpes<td r>6988<td r>107231<td r>15.3<td><sp>Digne</sp> 7317.
+<td>Alpes-Maritimes<td r>3736<td r>356338<td r>95.4<td><sp>Nice</sp> 142940, Cannes 29656, Menton 18001.
+<td>Var<td r>6023<td r>330755<td r>54.9<td>Toulon 104582, <sp>Draguignan</sp> 9974.
+<td>Vaucluse<td r>3578<td r>238656<td r>66.7<td><sp>Avignon</sp> 49304.
+<td>Bouches-du-Rhône<td r>5248<td r>805532<td r>153.5<td><sp>Marseille</sp> 550619, Aix 29836, Arles 31010.
+<td>Gard<td r>5881<td r>413458<td r>70.3<td><sp>Nîmes</sp> 80437.
+<td>Hérault<td r>6224<td r>480484<td r>77.2<td><sp>Montpellier</sp> 80230, Cette 33049.
+<td>Aude<td r>6342<td r>300537<td r>47.4<td><sp>Carcassonne</sp> 30689.
+<td>Pyrenées-Orientales<td r>4144<td r>212986<td r>51.4<td><sp>Perpignan</sp> 39510.
+<td>Tarn<td r>5780<td r>324090<td r>56.1<td><sp>Albi</sp> 25100.
+<td>Aveyron<td r>8771<td r>369448<td r>42.1<td><sp>Rodez</sp> 15386.
+<td>Lot<td r>5226<td r>205769<td r>39.4<td><sp>Cahors</sp> 13650.
+<td>Corrèze<td r>5888<td r>309646<td r>52.6<td><sp>Tulle</sp> 15942.
+<td r>At overføre<td r>459502<td r>35814367
+</table>

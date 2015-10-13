@@ -1,0 +1,138 @@
+efter Fjernvirkningsteorien - øjeblikkelig være
+til Stede overalt i Rummet, men vil begynde
+inde ved Elektricitetsmængden og derfra brede
+sig ud i Rummet. Det er nu den overraskende
+Konsekvens af de Maxwell'ske Ligninger, at
+den Hastighed, hvormed Udbredelsen sker,
+bliver lig Forholdet mellem en
+Elektricitetsmængdes elektrostatiske og elektromagnetiske Maal,
+et Forhold, der ved Forsøg er fundet at være
+lige saa stort som det Forhold mellem Længde
+og Tid, der udtrykker Lysets Hastighed. En
+svingende elektrisk Ladning vil derfor
+frembringe elektriske Svingninger ɔ: Svingninger
+af den elektriske Kraft, der vil brede sig ud
+som en Bølgebevægelse med Lyshastighed, og
+at dette virkelig finder Sted, blev
+eksperimentelt paavist af <sp>H. Hertz</sp>. Det var imidlertid
+ikke blot de Maxwell'ske Ligninger, men ogsaa
+den nærliggende Konsekvens af dem, som
+Maxwell havde draget, at Lyset selv var elektriske
+Bølger, som derved fandt en eksperimentel
+Bekræftelse, idet baade de elektriske Bølger viste
+sig at have Egenskaber, som Lysbølger af stor
+Bølgelængde maatte antages at have, og
+omvendt Lysbølgerne at have Egenskaber som
+elektriske Svingninger (se <sp>Lysteori</sp>).
+Elektricitetslæren var saaledes blevet Grundlaget for
+Lyslæren.
+
+Af epokegørende Betydning for E.'s
+Tilknytning til Stoffet blev Opdagelsen af
+<sp>Elektronerne</sp> ved 19. Aarh.'s Slutn. Det paavistes
+derved, at den mindste for sig eksisterende
+negative Ladning er en konstant Størrelse, det
+elektriske Elementarkvantum, og at Bæreren af
+denne Ladning, Elektronen, indgaar som en
+fælles Bygningssten i alle Atomer (se
+<sp>Elektron</sp>). Ved at anvende Grundligningerne paa
+Feltet om en Elektron førtes man til
+Opdagelsen af, at E. var i Stand til at forklare
+Dynamikkens (træge) Massebegreb, hvorved E.'s
+fundamentale Karakter yderligere understregedes.
+De allersidste Aars Undersøgelser over
+radioaktive Stoffer og deres Straaling har befæstet
+og udvidet disse Anskuelser i en saa
+overordentlig Grad, at der nu synes at aabne sig
+Mulighed for igennem den
+<sp>Rutherford-Bohrske</sp> Atommodel i ethvert Tilfælde i store Træk
+at kunne angive Grundstoffernes Opbygning af
+Elektricitetsatomer og at forklare deres
+Egenskaber ud derfra. Hertil kræves der dog
+yderligere Antagelser ud over de ovf. givne
+Grundligninger, men da vor Viden om disse
+Spørgsmaal endnu ikke har faaet nogen afsluttende
+Karakter, skal der ikke her gaas ind paa disse.
+(<sp>Litt</sp>.: Samlede Fremstillinger med
+Hovedvægten paa det <sp>eksperimentelle</sp>:
+Müller-Pouillet, »Lehrbuch der Physik«, IV. Bd, 10.
+Opl., ved W. Kaufmann o. a. [Braunschweig
+1909-14] [en let læselig, fortrinlig, moderne
+Haandbog paa c. 1500 Sider]. - H. Starke,
+»Experimentelle Elektrizitätslehre«, 2. Udg.
+[Leipzig 1910] [662 Sider, mindre Stofmængde end i
+foreg., udmærket som Lærebog]. - »Handbuch
+der Elektrizität und des Magnetismus« [Leipzig
+1912-16] [udførligste, strengt videnskabelige
+Haandbog, ikke afsluttet]. - »Handbuch der
+Physik«, IV og V Bd, 2. Udg. [Leipzig 1905-07].
+- Gode Oversigtsartikler findes i
+»Handwörterbuch der Naturwissenschaften« [Jena 1911-15].
+<sp>Teoretiske</sp> Fremstillinger: J. J.
+Thomsen, <i>Elements of the Mathematical Theory
+of Electricity and Magnetism</i>, 4. Udg.
+[Cambridge 1909]; P. Drude, »Physik des Aethers«,
+2. Opl. ved W. König [Stuttgart 1912]; J. H.
+Jeans, <i>Electricity and Magnetism</i>, 3. Udg.
+[Cambridge 1915]; M. Abraham [und A. Föppl],
+»Theorie der Elektrizität«, I og II, henh. 4. og
+3. Opl. [Leipzig 1912-14]; O. W. Richardson,
+<i>The Electron Theory of Matter</i> [Cambridge
+1914]).
+
+<sp>Elektricitetslærens Historie</sp>.
+
+<sp>Elektrostatikken</sp>. Allerede i den gr.
+Oldtid var det bekendt, at gnedet Rav
+tiltrækker lette Genstande, og den samme Egenskab
+kendtes hos »Lynkurion«, formodentlig en Slags
+Ædelsten. Foruden om Lyn og Torden findes
+der fra Oldtiden Efterretninger om det
+Fænomen, der senere fik Navnet Skt Elm's Ild.
+Endelig var det bekendt, at den elektriske Rokke
+(<i>raja torpedo</i>) kunde frembringe ejendommelige
+Stød; men man anede selvfølgelig ikke
+Forbindelsen mellem saa forsk. Ting som Ravets
+Tiltrækning og den Kraft, der virker i
+Tordenvejret. Et Skridt fremad blev først gjort 1600,
+da Dronning Elisabeth's Livlæge <sp>Gilbert</sp> i
+sit Skr. »De Magnete« etc. viste, at alle
+Stoffer kan deles i to Klasser, de »elektriske«, der
+som Ravet ved Gnidning faar Evnen til at
+tiltrække, og de »uelektriske«, der savner denne
+Evne. Navnet elektrisk dannede han af Ravets
+gr. Navn Elektron. Han viste, at den
+elektriske Tiltrækning er forsk. fra den magnetiske.
+1672 offentliggjorde <sp>Otto von Guericke</sp>
+sine nogle Aar ældre elektriske Undersøgelser.
+Han havde lavet en Slags Elektricermaskine af
+en Svolvkugle, der kunde drejes om en Akse,
+og han hørte en Knitren, naar Fingeren
+nærmedes til den gnedne Kugle. Nogen tydelig
+Gnist har han næppe set. Han saa, at et Dun
+blev tiltrukket og derpaa frastødt, men ingen
+førte hans Arbejde videre. Spredte Forsøg af
+<sp>Boyle</sp>, <sp>Newton</sp> o. a. i den flg. Tid bragte
+intet nyt af Bet. Englænderne <sp>Wall</sp> og
+<sp>Hawksbee</sp> iagttog omkring 1700 en virkelig
+<sp>Gnist</sp>; den sidste ved at gnide en Glaskugle,
+hvori Luften var fortyndet. Han saa tillige, at
+Luften i Kuglen lyste under Gnidningen, og
+førte derved en Iagttagelse videre, som allerede
+1675 var gjort af <sp>Picard</sp>, nemlig at det
+næsten lufttomme Rum over Kviksølvet i
+Barometret kan lyse i Mørke, naar Kviksølvet
+bevæger sig i Røret. - Fart og Sammenhæng i
+Udviklingen kom der først, da <sp>Stephan
+Gray</sp> 1729 fandt Forskellen mellem <sp>Ledere</sp>
+og <sp>Isolatorer</sp>. Alle mulige Stoffer skulde
+nu undersøges med dette Forhold for Øje, og
+den ene Opdagelse fulgte efter den anden.
+<sp>Dufay</sp> fandt, at Legemerne kunde blive
+elektriske paa to forsk. Maader; et Guldblad, der
+holdtes svævende i Luften ved Frastødning fra
+en gneden Glasstang, blev tiltrukket af gnedet
+Lak. En Række Fysikere tog sig af
+<sp>Elektrisermaskinen</sp>, gav den Gnidetøj og
+Konduktorer, ombyttede Glaskuglen med en
+Glascylinder ell. Skive, og ved 18. Aarh.'s Midte

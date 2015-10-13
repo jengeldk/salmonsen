@@ -1,0 +1,178 @@
+(f. Eks. »Peter saa Stine« = »ham saa hun«,
+forsk. fra »han saa hende«). Tilbøjeligheden til
+I. er forsk. i de forsk. Sprog; i Dansk er den
+saaledes langt større end i Fransk, hvor man
+i Reglen kun har uegentlige I. (»<i>C'est</i> Chrétien
+<i>que</i> j'ai vu«; »Chrétien, je <i>l'</i>ai vu«; »<i>pour</i> vieille
+elle l'est«).
+<i>O. Jsp.</i>
+</chapter>
+
+<chapter name="Inversion">
+<b>Inversion</b> (<sp>Omkrængning</sp>) benyttes
+navnlig i <sp>Lægevidenskaben</sp> om en
+særlig Formforandring af Livmoderen (<i>I. uteri</i>),
+hvorved dette Organ krænges ud — ganske som
+en Handskefinger — saaledes at den indvendige
+slimhindeklædte Overflade derved kommer til
+at rage ned i Modenskeden (der ogsaa ofte
+omkrænges). I. opstaar hyppigst umiddelbart efter
+en Fødsel (før ell. efter Efterbyrdens
+Udstødelse), men kan ogsaa opstaa i den usvangre
+Livmoder ved Svulstdannelse i denne. Medens
+I. her navnlig har Bet., fordi den let kan
+overses og da kan give Anledning til Beskadigelse
+af Livmoderen, naar man vil fjerne Svulsten
+ved Operation, er I. ved Fødselen i og for sig
+overordentlig farlig, da den giver Anledning
+til voldsomme Blødninger, der ofte straks
+medfører Døden. Overlever Kvinden selve I.'s
+Indtræden, vedbliver der dog at opstaa hyppige
+og stærke Blødninger. Behandlingen gaar ud
+paa at føre Omkrængningen tilbage
+(<sp>reinvertere</sp> Livmoderen), hvad ofte let lykkes
+snart efter dens Opstaaen. Har I. bestaaet
+længere Tid, lykkes Omkrængning med Haanden
+sjældnere, selv i Narkose. Man anvender da
+længere fortsat Tryk mod det omkrængede
+Organ (f. Eks. med en i Moderskeden indlagt,
+udspilet Kautsjukblære), men lykkes
+Reinversionen heller ikke herved, maa man søge at
+gennemføre den ad operativ Vej ell. endog
+bortskære det omkrængede Organ.
+<i>(Lp. M.). J. P. H.</i>
+</chapter>
+
+<chapter name="Inversion (Geometri)">
+<b>Inversion</b> er i <sp>Geometrien</sp> en
+Metode til at omdanne en Figur til en anden, den
+saakaldte <sp>inverse</sp>. Idet der er givet et fast
+Punkt <i>O</i>, <sp>Inversionscentret</sp>, samt
+<sp>Inversionspotensen</sp> <i>k</i>, konstruerer man
+det inverse Punkt <i>B</i> til et Punkt <i>A</i> ved hen ad
+Linien gennem <i>O</i> og <i>A</i> at afsætte <i>OB</i> bestemt
+ved <i>OA.OB</i> = <i>k</i> i Retningen <i>OA</i> ell. den
+modsatte, efter som <i>k</i> er positiv ell. negativ. I
+Planen er de inverse Figurer til en ret Linie og
+en Cirkel henh. en Cirkel gennem <i>O</i> og en
+Cirkel, der ikke indeholder <i>O</i>, og i Rummet
+gælder det analoge for Planer og Kugler. To
+Kurver ell. Flader skærer hinanden under
+samme Vinkel som deres inverse Figurer. I.
+anvendes til at reducere en Opgave til en
+simplere. Skal man f. Eks. tegne en Cirkel, der
+gaar gennem et givet Punkt og rører to givne
+Cirkler, kan Opgaven ved en I. med
+Inversionscentrum i det givne Punkt reduceres til
+den: at trække de fælles Tangenter til to
+Cirkler. I. er et spc. Tilfælde af de saakaldte
+kvadratiske Transformationer (se
+<sp>Transformationer</sp>).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Inversion (militær)">
+<b>Inversion</b> (milit.) opstaar, naar der i en
+Afdeling sker Afvigelse fra Grundopstillingen —
+der anviser hver enkelt Mand og hver enkelt
+Underafdeling en bestemt Plads, efter gl
+Sædvane nummereret i Nummerorden fra højre til
+venstre og fra den forreste til den bageste —
+saaledes, at Underafdelingerne ikke længere
+staar i den i denne fastsatte Nummerorden;
+f. Eks. fremkommer I., naar en Afdeling
+svinger ud med Underafdelinger til højre og
+opmarcherer til samme Side. I. betragtedes i
+tidligere Tid som værende identisk med Uorden.
+Ældre Reglementer erkendte, at I. ikke altid
+kunde undgaas, men gav ikke I. nogen
+Berettigelse i Kampen. De i Nutiden indførte simple
+Evolutioner og de store Fordringer, der stilles
+til Afdelingerne i vore Dage, har foranlediget,
+at man nu ser med andre Øjne paa I. og
+forlanger, at Afdelingens Evoleringsdygtighed ikke
+paavirkes af denne. Den hyppige Fremkomst
+af I. har bevirket, at Underafdelingerne i de
+nyere Reglementer foruden at have et fast
+Nummer tillige under Evoleringen benævnes
+efter den Plads, som de i Øjeblikket indtager,
+f. Eks. højre Fløjkompagni (Deling), højre
+Midtekompagni (Deling), forreste —
+næstforreste Deling o. s. v.
+<i>B. P. B.</i>
+</chapter>
+
+<chapter name="Inversion (kemi)">
+<b>Inversion</b> (kem.), d. s. s. <sp>Invertering</sp>.
+</chapter>
+
+<chapter name="Inversion (musik)">
+<b>Inversion</b> (mus.). En i Fuger o. a.
+imiterende Musikformer anvendt »Omvending« af et
+musikalsk Tema, hvorved de stigende
+Intervaller bliver faldende og omvendt.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="invers Metamorfose">
+<b>invers Metamorfose</b> ell. <sp>Inversion</sp>
+kaldes undertiden den Indvirkning, som udøves
+paa gennembrydende Eruptiver af de
+tilgrænsende ell. gennembrudte Aflejringer.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Invertase">
+<b>Invertase,</b> <sp>Invertin</sp>, et i næsten alle
+Gærsvampe, i fl. Skimmelarter og Bakterier samt
+i talrige Plante- og Dyreceller forekommende
+Enzym, der hydrolyserer 1 Mol. Rørsukker til
+1 Mol. Glykose og 1 Mol. Fruktose (se
+<sp>Invertering</sp>). I. af forsk. Oprindelse synes ikke
+at være identiske; den bedst undersøgte I.,
+Gærinvertasen, har sin største Virkning paa
+en Rørsukkeropløsning ved en Temp. af 53-56°
+og en Surhedsgrad, svarende til
+Brintioneksponenten 4,4—4,6.
+<i>R. K.</i>
+</chapter>
+
+<chapter name="Invertebrata">
+<b>Invertebrata</b> ['en-], hvirvelløse Dyr
+omfattende alle de flercellede Dyr, der ikke er
+forsynede med en Hvirvelsøjle; disse føres i Modsætning
+til I. sammen i en anden stor Afdeling
+<i>Vertebrata</i>, Medens <i>Vertebrata</i>, der falder i 5
+Klasser: Fisk, Padder, Krybdyr, Fugle og Pattedyr,
+danner et naturligt og sammenhørende Hele, er
+dette ikke Tilfældet med I., idet de store
+Afdelinger, hvori disse inddeles: Leddyr, Orme,
+Bløddyr, Pighude og Polypdyr, ikke frembyder
+saadanne Overensstemmelser i Bygningsplanen,
+som Tilfældet er med Vertebraternes
+Afdelinger. Begrebet I. kan derfor næppe siges at
+have nogen systematisk Værdi, men anvendes
+dog stadig for derved at betegne alle Dyr, der
+ikke er forsynede med en Hvirvelsøjle.
+<i>C. W.-L.</i>
+</chapter>
+
+<chapter name="invertere">
+<b>invertere</b> (lat.), vende om, foretage en
+Inversion.
+
+At i. en Figur er at konstruere dens inverse
+Figur (se <sp>Inversion</sp>).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="inverterede Gasglødelamper">
+<b>inverterede Gasglødelamper,</b> d. s. s.
+nedadbrændende G., se <sp>Kulgas</sp>, Afsnit L. I. β.
+</chapter>
+
+<chapter name="Invertering">
+<b>Invertering</b> er den Proces, hvorved
+Rørsukker ved Hydrolyse spaltes i Glykose
+(Druesukker) og Fruktose (Frugtsukker), idet der
+

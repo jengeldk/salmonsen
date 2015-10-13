@@ -1,0 +1,55 @@
+<b><sp>DAMPSKIB</sp></b>
+
+Forklaring til Fig. 5 paa foregaaende Side, Længdesnit af Dampskibet »<sp>Frederik VIII</sp>«
+<table>
+<td r>1.<td>Styrehus
+<td r>2.<td>Kaptajn
+<td r>3.<td>Musiksalon 1. Kahyt
+<td r>4.<td>Konversationssalon
+<td r>5.<td>Luksuskamre (bestaaende af Dagligværelse, Soveværelse og Badeværelse)
+<td r>6.<td>Passagerkamre 1. Kahyt
+<td r>7.<td>Rygesalon 1. Kahyt
+<td r>8.<td>Verandakafé 1. Kahyt
+<td r>9.<td>Nøddynamo
+<td r>10.<td>Traadløs Telegrafstation
+<td r>11.<td>Forhal 1. Kahyt
+<td r>12.<td>Rygesalon 2. Kahyt
+<td r>13.<td>Konversationssalon 2. Kahyt
+<td r>14.<td>Rygesalon 2. Kahyt
+<td r>15.<td>Nedgang til 3. Kahyt
+<td r>16.<td>Dækssalon 3. Kahyt
+<td r>17.<td>Rygesalon 3. Kahyt
+<td r>18.<td>Spisesalon 1. Kahyt
+<td r>19.<td>Vestibule 1. Kahyt
+<td r>20.<td>Børneværelse 1. Kahyt
+<td r>21.<td>Spisesalon 2. Kahyt
+<td r>22.<td>Passagerkamre 2. Kahyt
+<td r>23.<td>Vestibule 2. Kahyt
+<td r>24.<td>Damesalon 3. Kahyt
+<td r>25.<td>Indgangssalon 3. Kahyt
+<td r>26.<td>Passagerkamre 3. Kahyt
+<td r>27.<td>Spisesalon 3. Kahyt
+<td r>28.<td>Anretningsrum 3. Kahyt
+<td r>29.<td>Slagteri
+<td r>30.<td>Kartoffelskrællerum
+<td r>31.<td>Bageri
+<td r>32.<td>Kabys (Køkken)
+<td r>33.<td>Opvaskningsrum 2. Kahyt
+<td r>34.<td>Kamre for Kokke
+<td r>35.<td>Messe for Maskinmestre
+<td r>36.<td>Kamre for Maskinmestre
+<td r>37.<td>Proviantrum
+<td r>38.<td>Kølerum for Proviant
+<td r>39.<td>Messe for Fyrbødere
+<td r>40.<td>Bagagerum
+<td r>41.<td>Postrum
+<td r>42.<td>Lastrum
+<td r>43.<td>Rørtunnel til Forskib
+<td r>44.<td>Kulkasser
+<td r>45.<td>Kedler
+<td r>46.<td>Fyrpladser
+<td r>47.<td>Maskinrum
+<td r>48.<td>Skrueakseltunnel
+<td r>49.<td>Vandballastrum
+<td r>50.<td>Kædekasse
+</table>

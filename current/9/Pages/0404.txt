@@ -1,0 +1,153 @@
+Træbeholdere med Blybeklædning finder
+Anvendelse. Strømkilden var i ældre Tid altid
+elektriske Elementer, som oftest Daniell- ell.
+Bunsens-Elementer, nu vel altid Dynamomaskiner
+med 2—4 Volts Spænding; for at kunne
+arbejde med den rette Spænding — 1 1/2—2 Volt
+— maa hvert Bad være forsynet med en
+passende variabel Modstand. Foruden Kobber
+anvendes i G. ogsaa Sølv, Guld, Jern, Nikkel etc.,
+dog kun i væsentlig ringere Udstrækning.
+
+En vigtig Operation ved alle galvanoplastiske
+Arbejder er Fremstillingen af den negative Form,
+Matricen, der som ovf. nævnt kun sjældent
+fremstiles ad galvanoplastisk Vej. Som Materiale kan
+anvendes saa at sige ethvert fast Materiale, som ad
+Afstøbningens ell. Aftrykningens Vej kan bringes
+til at antage Originalens ydre Form saa nøje
+som muligt, og som er uopløseligt i det til den
+elektrolytiske Operation anvendte Bad. Ved
+grovere Arbejder kan anvendes Gibs, med
+hvilket Stof der paa sædvanlig Maade tages en
+Afstøbning af den i Olie indsmurte Genstand.
+Langt finere Kopier giver Guttaperka, der —
+blødgjort i kogende Vand — under et ret høj
+Tryk spændes ind mod Genstanden og lades
+i Berøring med denne, indtil det er afkølet og
+dermed hærdet. Ogsaa letsmeltelige Metaller
+som Woods Metal, Roses Metal etc., og blødere
+Metaller, særlig Bly, Voks, Parafinblandinger,
+Lim med Tilsætning af Sirup o. s. v., finder
+Anvendelse til Matrice-Fremstilling. Af hvilket
+Stof nu end Matricen er fremstillet, maa den,
+forinden Metaludfældningen kan finde Sted,
+gøres ledende, hvad der som oftest sker ved
+at overtrække den med Grafit, sjældnere med
+fint fordelt Bly ell. Guldbronzepulver; dette kan
+foretages med en Børste ell. ved særlige
+Grafiteringsmaskiner. Formen ophænges nu i Badet
+paa en saadan Maade, at Strømmen kan naa
+ud til Matricens ledende Overflade, og man vil
+snart se, at der begynder at udfælde sig et
+Metallag paa Overfladen, hvis Tykkelse
+efterhaanden vil forøges. Alt efter Formaalet
+varierer den anvendte Strømtæthed og Varigheden
+af Behandlingen betydeligt og dermed ogsaa
+Tykkelsen af det erholdte Metallag; man kan
+i c. 10 Timer opnaa omtr. 1 mm's Lagtykkelse,
+naaar der arbejdes med en nogenlunde stor
+Strømtæthed (c. 7 Amp. pr dcm<sup>2</sup>). Tilsidst tages
+Formen op af Badet, afskylles og tørres,
+Matricen skilles fra Metallaget og dette styrkes
+ved, at der støbes et Lag af et letsmelteligt
+Metal paa Bagsiden, om fornødent eftergaas
+Overfladen for mindre Uregelmæssigheder med
+Gravstik, Fil etc.
+
+G. beror paa Iagttagelser af de i Daniell's
+Elementet foregaaende Kobberudfældningers
+Egenskab nøjagtig at gengive Overfladen af den
+Metalelektrode, de er udfældet paa, som er
+gjort af de la Rue i 1836 og Jacobi i 1838. Dun
+fik hurtig stor Bet. til Fremstilling af Kopier
+af Mønter, Antikviteter, Relieffer etc.; for Tiden
+Udføres den navnlig i stor Maalestok i
+Reproduktionstekniken til Fremstilling af Trykplader,
+f. Eks. til Heliogravurer, Jerngalvanos,
+Nikkelklichéer o. s. v.
+<i>Carl J.</i>
+</chapter>
+
+<chapter name="Galvanopunktur">
+<b>Galvanopunktur,</b> se <sp>Akupunktur</sp> og
+<sp>Elektropunktur</sp>.
+</chapter>
+
+<chapter name="Galvanoskop">
+<b>Galvanoskop,</b> Redskab, hvormed man kan
+paavise Tilstedeværelsen af en elektrisk Strøm
+og bestemme dens Retning, men ikke maale
+dens Styrke. Se <sp>Galvanometer</sp>.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Galvanostegi">
+<b>Galvanostegi,</b> den galvanotekniske
+Operation, hvorved man forsyner en Genstand med
+et fastsiddende metallisk Overtræk ad
+elektrolytisk Vej. Det er klart, at det først og
+fremmest maa være af Betydning, at Laget
+slutter fuldstændig tæt til Overfladen og
+hæfter godt fast ved denne; for at dette
+kan være muligt, maa Overfladen, inden
+Genstanden nedsænkes i Badet, gøres
+fuldstændig fedtfri (se <sp>Affedtning</sp>), hyppig
+underkastes den ogsaa en Gulbrænding. Varerne
+hænges ved Hjælp af Metaltraade, der ogsaa
+tjener som Tilledning for den elektriske Strøm,
+op i Metalstænger, der er anbragt over Badene;
+lige over for dem hænges paa lignende Maade
+de som positiv Pol tjenende Metalplader,
+Anodepladerne. Beholderne, hvori Badene indeholdes,
+kan være af Træ, bedst Lærketræ, der ved en
+særlig Behandling er gjort upaavirkelig for
+Indvirkning af Badvædsken, der ofte indeholder sure
+ell. alkaliske Bestanddele; Beholderne
+fremstilles nu ogsaa ofte af Glas, Stentøj ell. emailleret
+Støbejern. Som Strømkilde anvendes nu altid
+Dynamomaskiner, i Reglen drevet med
+Elektromotorer; Strøm fra en Centralstation kan
+ikke anvendes direkte, da man i G. kun
+arbejder med et Par Volts Spænding, og
+Centralstationens høje Spænding maa derfor
+nedsættes til en passende lav Størrelse;
+Vekselstrøm kan ikke anvendes uden først at
+omsættes til Ligestrøm. Da ved større Anlæg de
+Strømstyrker, der arbejdes med, er ret
+betydelige, kan det være nødvendigt som
+Tilledningstraade til Karrene at anvende ret tykke
+Kobberstænger. Hvert Kar maa, for at man kan
+tilvejebringe den passende Spænding, forsynes
+med Reguleringsmodstand og
+Spændingsmaaler, ogsaa en Strømmaaler kan det være
+formaalstjenligt at disponere over. Naar
+Metallaget er blevet tilstrækkelig tykt, tages
+Genstandene op af Badet, afskylles og tørres, i
+Reglen i Savsmuld; ofte vil det være
+formaal's-tjenligt at tage dem op af Badet og at give dem
+en Afbørstning med en roterende
+Messingtraadbørste en enkelt ell. flere Gange under
+Udfældningens Forløb, da Metallaget herved i
+Reglen vil blive smukkere. Tilsidst
+underkastes Varerne Polering, Lakering el. l. Ang. den
+særlige Udførelse af G. ved de enkelte
+Metaller se <sp>Forgyldning</sp>, <sp>Forsølvning</sp>,
+<sp>Forblyning</sp>, <sp>Forkobring</sp> og
+<sp>Forzinkning</sp>. (<sp>Litt</sp>.: <sp>Pfanhauser</sp>,
+»Galvanotechnik«).
+<i>Carl J.</i>
+</chapter>
+
+<chapter name="Galvanoteknik">
+<b>Galvanoteknik,</b> Kunsten at udfælde
+Metaller af vandige Opløsninger af deres Salte ved
+Hjælp af den elektriske Strøm i et ensartet,
+tæt, godt sammenhængende metallisk Lag af
+større ell. mindre Tykkelse. Dette udføres
+ved at anbringe vedk. Genstand, der skal
+overtrækkes med Metallet, som den ene —
+den negative — Pol i et Bad af en passende
+Sammensætning, medens der som den anden
+Pol — altsaa den positive — anbringes i Badet
+en Metalplade, i Reglen af samme Metal som

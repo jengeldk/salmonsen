@@ -1,0 +1,108 @@
+<chapter name="elektrisk Strøm i Luftarter">
+<b>elektrisk Strøm i Luftarter.</b>
+<sp>Indledning</sp>. Under normale Forhold er Luftarterne
+nogle af de bedste Isolatorer, der kendes. At den
+atmosfæriske Luft dog kan lede Elektriciteten,
+om end i overordentlig ringe Grad, blev først
+paavist af <sp>Coulomb</sp> (1785), ved at han
+iagttog Ladningstabet af et elektrisk ladet Legeme,
+der var ophængt i isolerende Traade. At Luften
+under særlige Forhold kan blive en god Leder,
+kendes fra den elektriske Gnist (opdaget
+omkring 1700) og navnlig fra den elektriske
+Lysbue, der først blev fremstillet af <sp>Davy</sp> 1821.
+
+Analogt med den elektriske Strøm i
+Elektrolyterne antager man, at den elektriske Strøm i
+Luftarterne foregaar ved en Vandring af
+elektrisk ladede Molekyler ell. Molekyldele, de
+saaakaldte Ioner (d. e. Vandrere), der ogsaa er til
+Stede i Luft af normal Tilstand, om end i
+forsvindende ringe Antal. I Fig. 1 er givet en
+skematisk Fremstilling af den elektriske Strøm i
+Luft. <i>A</i> og <i>B</i> forestiller to parallelle
+Metalplader med Luft imellem sig. Giver man <i>A</i> en
+positiv, <i>B</i> en negativ Ladning, vil Ionerne, som
+det er antydet paa Figuren, af de elektriske
+Kræfter fra Ladningerne føres hen til Pladerne
+og derved aflade disse, medens de ikke spaltede
+Molekyler forbliver upaavirkede. Denne Teori
+blev fremsat allerede 1882 af <sp>W. Giese</sp> for at
+forklare Flammers Ledningsevne, men den har
+først igennem <sp>J. J. Thomson</sp>'s og <sp>E. 
+Rutherford</sp>'s Undersøgelser i Slutn. af
+1890-erne vundet alm. Tilslutning. I det flg. skal
+først omtales de eksperimentelle Beviser for
+Teorien samt Ionernes Egenskaber, dernæst de
+forsk. Maader at ionisere ɔ: frembringe Ioner,
+endelig de lysende elektriske Udladninger: den
+elektriske Lystaagestrøm, Lysbuestrøm,
+Spidsstrøm og Buskstrøm. Disse Former af den
+elektriske Strøm igennem Luft kaldes ogsaa
+selvstændige, fordi de selv frembringer de Ioner, der
+bærer Strømmen. For Oversigtens Skyld er Artiklen
+delt i flg. nummererede Afsnit: 1) Beviser for
+Ionteorien, 2) Ionernes Bevægelighed, 3)
+Ionernes taagedannende Evne, 4) Ionernes Ladning,
+5) Ionernes Masse, 6) Ionantallet i atmosfærisk
+Luft, 7) Luftens Ionisering, den uselvstændige
+elektriske Strøm, 8) Den selvstændige elektriske
+Strøm, Stødionisering, 9) Den elektriske
+Lystaagestrøm, 10) Spændingsfordelingen i
+Lystaagestrømmen, 11) Forsk. Anvendelser af
+Udladningsrør, 12) Teorien for Lystaagestrømmen,
+13) Den elektriske Lysbuestrøm, 14) Den stille
+Udladning, Spidsstrøm og Buskstrøm.
+
+1) <sp>Beviser for Ionteorien</sp>. I Fig. 2
+er <i>R</i> et Røntgenrør, fra hvis Antikatode <i>A</i>
+Røntgenstraalerne udgaar. De skal tjene til at
+gøre Luften ledende. Den ioniserede Luft suges
+ved Hjælp af en Pumpe gennem Røret <i>B</i>, hvor
+den ikke længere er udsat for Bestraaling, og
+passerer mellem Metalpladerne <i>P</i> og <i>P<sub>1</sub></i> af en
+Kondensator. <i>P</i> er afledet til Jord, <i>P<sub>1</sub></i> er i
+Forbindelse med Elektrometret <i>E</i>, saa at dens
+Spænding kan maales. Saa snart Røntgenrøret
+sættes i Virksomhed, bliver Luftstrømmen
+ledende, hvad der giver sig til Kende ved, at
+Pladen <i>P<sub>1</sub></i> og dermed Elektrometret hurtigt
+taber sin Spænding. Af Hastigheden, hvormed
+dette sker, i Forbindelse med Kendskabet til
+Kondensatorens Kapacitet, lader den elektriske
+Strøm fra <i>P<sub>1</sub></i> til <i>P</i> sig beregne. Man finder da
+den ved Kurven i Fig. 3 antydede
+Sammenhæng mellem Strømmen <i>I</i> og
+Spændingsforskellen <i>V</i> mellem Pladerne. Som man ser, er
+det kun for smaa
+Spændingsforskelle, at der er
+Proportionalitet mellem Spænding og
+Strøm, saaledes som man er
+vant til ved almindelige
+Ledere, der følger Ohm's Lov.
+For større Spændinger bliver
+Strømmen konstant, altsaa
+uafhængig af Spændingen.
+Dette Forhold kan let
+forklares ved Ionteorien. Jo
+større Spændingen er, desto
+større er den Kraft, der
+virker paa Ionerne, og
+desto hurtigere føres de hen til Pladerne. For
+smaa Spændinger, hvor Ionernes Hastighed er
+saa lille, at kun en lille Brøkdel af dem vil naa
+hen til Pladerne i den Tid, Luftstrømmen er om
+at passere Kondensatoren, vil derfor Strømmen
+vokse proportionalt med Spændingen. Naar
+Spændingen derimod er blevet saa stor, at alle
+de Ioner, som Luften indeholder, opfanges af
+Pladerne, kan Strømmen ikke vokse yderligere,
+og vi faar den konstante Maksimalstrøm, den
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+

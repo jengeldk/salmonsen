@@ -1,0 +1,54 @@
+<img></img>
+
+<table>
+<td r>1.<td><i>Kaserne</i>
+<td r>2.<td><i>Militært Sygehus</i>
+<td r>3.<td><i>Syge- og Epidemihus</i>
+<td r>4.<td><i>Alderdomshjem</i>
+<td r>5.<td><i>Haandværkerforeningens Stiftelse</i>
+<td r>6.<td><i>Toldkammer</i>
+<td r>7.<td><i>Offentligt Slagtehus</i>
+<td r>8.<td><i>Seminarium</i>
+<td r>9.<td><i>Missionshotellet</i>
+<td r>10.<td><i>Teknisk Skole</i>
+<td r>11.<td><i>Stiftelse for Borgere</i>
+<td r>12.<td><i>Posthus og Telegrafstation</i>
+<td r>13.<td><i>Jernbanehotellet</i>
+<td r>14.<td><i>Bethania</i>
+<td r>15.<td><i>Landbrugs- og Handelsbanken</i>
+<td r>16.<td><i>Hotel Valdemar</i>
+<td r>17.<td><i>Mejeri</i>
+<td r>18.<td><i>Borgerskole</i>
+<td r>19.<td><i>Raad-, Ting- og Arresthus</i>
+<td r>20.<td><i>Hotel Tange</i>
+<td r>21.<td><i>Alderdomshjem</i>
+<td r>22.<td><i>Sømands Stiftelse</i>
+<td r>23.<td><i>Slotsstation</i>
+<td r>24.<td><i>Alderdomshjem</i>
+<td r>25.<td><i>Gaasetaarn</i>
+<td r>26.<td><i>Slotsbanke</i>
+<td r>27.<td><i>Gaasetorv</i>
+<td r>28.<td><i>Apotek</i>
+<td r>29.<td><i>Sparekasse</i>
+<td r>30.<td><i>Den sjæll. Bondestands Sparekasse</i>
+<td r>31.<td><i>Dommerbolig</i>
+<td r>32.<td><i>Frederik VII's Buste</i>
+<td r>33.<td><i>Kirketorv</i>
+<td r>34.<td><i>Kirke</i>
+<td r>35.<td><i>Realskole</i>
+<td r>36.<td><i>Borgmesterkontor</i>
+<td r>37.<td><i>Asyl</i>
+<td r>38.<td><i>Banken for Vordingborg og Omegn</i>
+<td r>39.<td><i>Simonsens Hotel</i>
+<td r>40.<td><i>Kirkeskov</i>
+<td r>41.<td><i>Vandtaarn</i>
+<td r>42.<td><i>Gas-, Vand- og Elektricitetsværk</i>
+<td r>43.<td><i>Kommuneskole</i>
+<td r>44.<td><i>Kommuneskole</i>
+<td r>45.<td><i>Toldkammer</i>
+<td r>46.<td><i>Posthus og Telegrafstation</i>
+<td r>47.<td><i>Hotel Masnedsund</i>
+<td r>48.<td><i>Jernbanehotellet</i>
+<td r>49.<td><i>Svineslagteri</i>
+<td r>50.<td><i>Færgegaard</i>
+<td 2 c>Situationsplan over Vordingborg.

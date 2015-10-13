@@ -1,0 +1,139 @@
+dybtgaaende Undersøgelser særlig i
+Spørgsmaalet om deres Nulpunkters Beliggenhed,
+hvorved der, for de hele transcendente Funktioner,
+er fremkommet interessante Udvidelser af
+Sætninger om Rødder i algebraiske Ligninger
+(Hadamard, Landau, Jensen, Bohr). Udviklingen af
+Differential- og Integralregningen i
+Sammenhæng med Funktionsteorien er bleven fortsat,
+særlig maaske paa Differentialligningernes
+Omraade; Variationsregningen har faaet et nyt
+Grundlag af Weierstrass, og vigtige Opgaver i
+matem. Fysik har fremkaldt Løsninger af
+Integralligninger (Hilbert, Fredholm). Inden for
+Funktionsteorien har Opmærksomheden i denne
+Periode været stærkt henvendt paa reelle
+Funktioner af reelle variable i udvidet Forstand,
+hvor Afhængigheden ikke er analytisk udtrykt.
+Allerede tidligere havde man fremstillet
+saadanne Funktioner ved trigonometriske Rækker
+(Fourier) og undersøgt disses Konvergens
+(Dirichlet). Nu er man kommet ind paa en alm.
+Behandling af Funktioner af denne Art, hvor
+Afhængigheden f. Eks. i forsk. Intervaller
+følger forsk. Regler, særlig er Spørgsmaalet om
+Differentiation og Integration blevet undersøgt
+(Weierstrass, Lebesgue). Geometrien har, til
+Dels ansporet af Funktionsteorien, arbejdet paa
+Udviklingen af de algebraiske Kurvers og
+Fladers Teori, hvorved Antalgeometrien er
+opstaaet (Cayley, Chasles, Zeuthen, Schubert); ogsaa
+den abstrakte Udvidelse til Rum med fl.
+Dimensioner er bleven dyrket (Grassmann, Segre),
+ligesaa Studiet af de geometriske Formers
+Realitetsegenskaber (Zeuthen, Klein) og <i>Analysis
+situs</i>. Plücker og Kummer har opstillet
+Liniegeometrien, der behandler analytisk bestemte
+Samlinger af rette Linier i Rummet. Den
+rene Geometri har man søgt at frigøre for
+ethvert algebraisk Grundlag (v. Staudt).
+Karakteristisk for denne Periode er den store
+Interesse for Undersøgelser af M.'s
+Forudsætninger og af dens Lærebygnings Uangribelighed i
+det hele. I Geometrien er Prøvelsen af
+Aksiomerne bleven fortsat (Hilbert, Hjelmslev),
+ogsaa gennem Udvikling af den ikke euklidiske
+Geometri (Cayley, Riemann, Helmholz, Lie). I
+Erkendelse af, at de euklidiske Definitioner og
+Forudsætninger ikke passer nøjagtigt paa de i
+Praksis (paa Tegninger og Genstande)
+forekommende Punkter, Linier og Flader, har man for
+disse opstillet en Virkelighedens Geometri, i
+hvilken Hensyn tages til Afvigelserne fra
+Eukleides' Grundlag (Klein, Pasch, Hjelmslev). Ved
+Siden deraf staar den analytiske Geometri, i
+hvilken — for Planens Vedk. — Punkter er
+Talpar, Linier Ligninger af 1. Grad o. s. v.,
+som en aritmetisk Disciplin, der geometrisk
+fortolket er i fuld Overensstemmelse med
+Eukleides. I Lighed med Udvidelsen af
+Funktionsbegrebet har man undersøgt Kurver og Flader,
+som ikke er analytisk fremstillelige, og har,
+støttet paa visse indskrænkende Forudsætninger,
+kunnet vise, at de er i Besiddelse af mange af
+de analytiske Kurvers og Fladers Egenskaber
+(Juel, Hjelmslev). Bestræbelserne for M.'s
+Aritmetisering har ogsaa spillet en betydelig Rolle
+(G. Cantor, Dedekind, Weierstrass), og
+Analysen har som Genstand for sine Undersøgelser
+brugt ikke blot den sædvanlige Talrække, men
+ogsaa vilkaarlige »Talmængder« (G. Cantor). —
+Den første virkelige Behandling af M.'s
+Historie skyldes Montucla; af dens Dyrkere i den
+nyere Tid kan nævnes M. Cantor og P. Tannery
+samt i Skandinavien Zeuthen, Heiberg,
+Eneström.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="matematiske Tegn">
+<b>matematiske Tegn</b> bruges som afkortede
+Betegnelser for Størrelser og Figurer, for
+Operationer med dem og Relationer mellem dem.
+Til m. T. hører Cifrene med Betegnelsen ∞
+for et uendeligt stort Tal og Bogstaver med og
+uden Indeks (se <sp>Bogstavregning</sp> og
+<sp>Indeks</sp>) som Betegnelser for vilkaarlige ell.
+ubekendte Tal ell. for hyppig forekommende
+bestemte Tal som π, Forholdet mellem en
+Cirkels Omkreds og dens Diameter, <i>i</i> (√—1), <i>e</i>,
+de naturlige Logaritmers Grundtal. |<i>a</i>| betyder
+for <i>a</i> reel den numeriske Værdi, for <i>a</i>
+kompleks Modulus. Ved Størrelsers indbyrdes
+Sammenligning bruges Lighedstegnet =,
+Identitetstegnet ≡ og Ulighedstegnene: ≠, forsk. fra,
+>, større end, <, mindre end. Om de m. T.
+for de alm. Operationer: Addition med
+Summation af Rækker, Subtraktion, Multiplikation
+med Bestemmelse af uendelige
+Produktudviklingers Værdier, Division, Potensopløftning,
+Roduddragning, Differentiation, Integration,
+saavel som om Betegnelserne for alm. og spc.
+Funktioner henvises til Artiklerne om de resp.
+Operationer og Funktioner. Som særlige
+geometriske Tegn kan nævnes Betegnelserne ∆ og
+< for en Trekant og en Vinkel, Betegnelserne
+for Længde-, Flade- og Rumfangsenheder og
+for Vinkelenheder (Grader, Minutter og
+Sekunder); videre Tegnene ≠ parallel med, ⊥ :
+vinkelret paa, ∽ : ligedannet med, ≅ :
+kongruent med. — M. T. findes allerede hos
+Ægypterne, men i den højt udviklede gr. Matematik,
+der fremstillede Operationerne ved Figurer
+med Tekst, stod Tegnsproget stille lige til
+Diofantos, der brugte Bogstavbetegnelser for
+ubekendte Størrelser og deres laveste Potenser i
+Opgaver, hvor der kun forekom een ubekendt;
+Araberne og Inderne udvidede denne
+Betegnelsesmaade til fl. ubekendte. Diofantos
+indsatte Talværdier for bekendte Størrelser;
+Addender skrev han simpelt hen ved Siden af
+hinanden, og som Minustegn brugte han et
+omvendt Ψ. Ved Middelalderens Slutning var af m.
+Operationstegn kun p og m for + og — og
+enkelte andre i alm. Brug, idet de m. T., som f.
+Eks. Oresme og Chuquet dannede, ikke vandt
+Indgang. Under Algebraens raske Udvikling i
+den nyere Tids første Aarh. opstod
+efterhaanden de nu brugelige m. T. for de allerede i den
+foregaaende Periode kendte Operationer, dog
+naturligvis ikke uden mange Forsøg, som ikke
+slog an; som virksomme paa dette Omraade
+kan nævnes Stevin, Harriot, Girard. Kun
+langsomt veg i den skrevne Matematik
+Fremstillingen ved Ord, delvis afkortede; den findes endnu
+hos Viète. Denne sidste skyldes det vigtige
+Fremskridt: at betegne Tal, der skal kunne have
+en hvilken som helst given Værdi, ved
+Bogstaver. Her indskrænker han sig dog til
+rationale Tal, da han i Overensstemmelse med

@@ -1,0 +1,34 @@
+Oversigt over Maskingeværer i forskellige Stater.
+
+<table>
+<td c>Stat<td c>Løbvidde mm<td c>Navn (System)<td c>Funktioneringsmaade<td c>let<br>eller<br>tungt<td c>Patrontilbringning<td c>Pibeafkøling<td c>Affutering<td c>Vægt af Gevær<br>og Affutage kg<td c>Største<br>Skudantal<br>pr.<br>Minut<td c>Transportmaade<td c>Bemærkninger
+<td>Danmark<td>8<td>Rekylgevær (Madsen)<td>Pib erekyle<td c>let<td>Magasin m. 20 P.<td c>Luft<td>1 Mundingsstøtte<br>2 Støtteben<br>1 Kolbestøtte<td r>7,5<td c>250<td>Skytten<td>Tunge M. er til Prøve.
+<td>Norge<td>6,5<td>Hotchkiss<td>Gasafledning<td c>tungt<td>Patronbaand m. 250 P.<td c>Luft<td>Trefod<td r>45<td c>400<td>1-sp. Karre.<td>Desuden findes Madsen-M.
+<td v2>Sverige<td>6,5<td>Hotchkiss<td>Gasafledning<td c>tungt<td>
+Ladeskinne m. 30 P.<br>Patronbaand m. 250 P.<td c>Luft<td>Trefod<td r>50<td c>400<td>1-sp. Karre<td>Desuden findes Madsen-M.
+<td>6,5<td>M. 14 (Schwarzlose)<td>Bundstykkerekyle<td c>tungt<td>Patronbaand m. 250 P.<td c>Vand<td>Trefod<td r>43<td c>450—500<td>1-sp. Karre og Pakhest.<td>
+<td>Rusland<td>7,62<td>Vickers, Maxim<td>Piberekyle<td>tungt<td>Patronbaand m. 250 P.<td c>Vand<td>Slæde med smaa Hjul<td r>66<td c>450—500<td>2-sp. Karre.<br>4-sp.Vogn.<td>Desuden findes Madsen-M.
+<td v3>Tyskland<td>7,9<td>M. 08 (Maxim)<td>Piberekyle<td c>tungt<td>Patronbaand m. 250 P.<td c>Vand<td>Slæde eller Trefod<td r>66<td>400—500<td>2- og 4-sp. Vogne<td v3>Desuden anvendtes under<br>Verdenskrigen: M. 14<br>(Parabellum); M. 15 (Bergmann); Madsen-M.;<br>Dreyse-M. — alle lette M. med<br>Støtteben- Særlige Typer af<br>lette. M. i Flyvemaskiner.
+<td>7,9<td>M. 08/15<td>Piberekyle<td c>let<td>Patronbaand m. 250 P.<br>Tromle m. 100 P.<td c>Vand<td>Støtteben<td r>17<td c>500<td v2>2-sp. Vogn; i Ildzonen<br>Haandvogn ell- Skytten.
+<td>7,9<td>M. 08/18 (Bergmann)<td>Piberekyle<td c>let<td>Patronbaand m. 250 p.<br>Tromle m. 50—100 P.<td c>Luft<td>Støtteben<td r>13<td c>500
+<td v3>Frankrig<td>8<td>M. 07<td>Gasafledning<td c>tungt<td>Ladeskinne m. 24 P.<br>Patronbaand m. 300 P.<td c>Luft<td>Trefod<td r>58<td c>600<td v2>Vogn og Bæredyr.<td v3>Desuden anvendtes under<br>Verdenskrigen af tunge M.:<br>
+Puteaux-M. og Vickers-M.;<br>af lette M. Hotchkiss<br>(Vægt 9,5 kg).
+<td>8<td>M. 14 (Hotchkiss)<td>Gasafledning<td c>tungt<td>Ladeskinne m. 24 P.<br>Patronbaand m. 251 P.<td c>Luft<td>Trefod<td r>47<td c>400
+<td>8<td>Fusil mitrailleur (Chauchat)<td>Piberekyle<td c>let<td>Magasin m. 20 P.<td c>Luft<td>Støtteben<td r>	9<td c>250<td>Skytten
+<td>Schweiz<td>7,5<td>Maxim<td>Piberekyle<td c>tungt<td>Patronbaand m. 250 P.<td c>Vand<td>Trefod<td r>46<td>400—500<td>Bæredyr.<td>
+<td>Østrig<td>8<td>M. 07 (Schwarzlose<td>Bundstykkerekyle<td c>tungt<td>patronbaand m. 250 P.<td c>Vand<td>Trefod<td r>39<td>400—50<td>Bæredyr og Vogne.
+<td v2>England<td>7,7<td>Maxim, Vickers<td>Piberekyle<td c>tungt<td>Patronbaand m. 250 P.<td c>Vand<td>Trefod<td r>40<td>400—500<td>2- og 4-sp. Vogne.<td v2>
+<td>7,7<td>Lewis<td>Gasafledning<td c>let<td>Magasin m. 47 P.<td c>Luft<td>Støtteben<td r>14—15<td c>400<td>Bæredyr og Skytten.
+<td v2>Italien<td>6,5<td>M. 14 (Fiat)<td>piberekyle<td c>tungt<td>Magasin m. 50 P.<td c>Vand<td>Trefod<td r>43<td c>?<td>Karre eller Bæredyr.<td v2>Desuden findes M. af Maxims<br> Revellis Systemer
+<td>6,5<td>M. 18<td>Gasafledning<td c>let<td>Magasin m. 50 P.<td c>Luft<td>let Affutage<td r>10,7<td c>400<td>Skytten.
+<td v2>De Forenede Stater<br>i Nordamerika<td>7,62<td>Browning<td>Piberekyle<td c>tungt<td>Patronbaand m. 250 P.<td c>Vand<td>Trefod<td r>40<td c>500<td>Bæredyr og Vogne.<td v2>
+<td>7,62<td>Browning<td>Gasafledning<td c>let<td>Magasin m. 20 ell. 40 P.<td c>Luft<td>Som et alm.<br>Fodfolksgevær<td r>6,75<td c>200<td>Skytten.
+<td>Japan<td>6,5<td>Hotchkiss<td>Gasafledning<td c>tungt<td>Patronbaand m. 250 P.<br>Ladeskinne m. 30 P.<td c>Luft<td>Trefod<td r>40<td c>500<td>Bæredyr.<td>
+</table>
+
+Af de øvrige Stater har <i>Rumænien</i>: 6,5 mm Maxim-M.; <i>Holland</i>: 6,5 mm Schwarzlose- og Hotchkiss-M. og Madsen-M i Kolonierne; <i>Belgien</i>: 7,65 mm Maxim- og Hotchkiss-M.; <i>Spanien</i>: 7 mm
+Maxim- og Hotchkiss-M.; <i>Portugal</i>: 6,5 mm Maxim-M.; <i>Tyrkiet</i>: 7,65 mm Hotchkiss- og Maxim-M.: <i>Grækenland</i>: 6,5 mm Schwarzlose-M.; <i>Serbien</i>: 7 mm Maxim-M.; <i>Bulgarien</i>: 8 mm Maxim-og Madsen-M.
+
+Foruden de anførte M. findes der i de fleste Lande et større eller mindre Antal af andre M., navnlig i de Lande, der deltog i Verdenskrigen, fordi Behovet af M. her var saa stort, at man maatte
+indføre saa at sige alle de M., man kunde faa fat paa. Desuden maa man regne med, at lette M. — svarende til det danske Rekylgevær, det franske Fusil-mitrailleur, det engelske Lewis-M., det amerikanske
+lette Browning-M. o. s. v. — er til Prøve eller allerede indført i de fleste Hære.

@@ -1,0 +1,92 @@
+drives Dynamoen ved Remtræk. Dynamo og
+Drivmaskine udgør, eventuelt sammen med nogle
+mindre Hjælpemaskiner, Centralens
+Maskinanlæg. Centralen har desuden et elektrisk
+Apparatanlæg ell. Tavleanlæg, hvori saavel
+Strømmen som Spændingen og den afgivne Energi
+maales og kontroleres. Jævnstrømsdynamoer er
+enten Shuntdynamoer, Seriedynamoer ell.
+Compounddynamoer. Seriedynamoer anvendes
+meget sjældent, og kun hvor man enten stadig
+afgiver samme Strøm (f. Eks. til Forsyning af
+Buelamper), ell. hvor man af en ell. anden
+Grund ønsker meget høje
+Jævnstrømsspændinger, i hvilket Øjemed i Række forbundne
+Seriedynamoer har fundet nogen Anvendelse. Da
+det i de senere Aar er lykkedes at fremstille
+Jævnstrømsshuntmaskiner med indtil 5000 Volts
+Spænding, maa den sidste specielle Anvendelse
+af Seriedynamoer sikkert siges at have ringe
+Udviklingsmuligheder. Compounddynamoer
+anvendes hyppigt ved Centraler til Bane- og
+Sporvejsdrift samt ved Krandriftanlæg; men langt
+den almindeligste Anvendelse finder
+<sp>Shunt</sp>-dynamoen. Ved næsten alle e. K. er det af
+Vigtighed at holde Spændingen konstant ell.
+omtr. konstant uden Hensyn til Belastningens
+(Strømmens) Størrelse. Der maa derfor findes
+Midler til Regulering af Spændingen, idet denne,
+saafremt Regulering ikke foretages, varierer med
+Strømmen, grundet paa Ohm'ske Spændingstab.
+Saadanne Midler er som Regel
+Reguleringsmodstande, der indskydes i Dynamoens
+Magnetiseringsstrømløb og ved at forandres efter
+Forholdene svækker ell. forstærker Strømmen i
+Dynamoens Magnetvikling og dermed
+Magnetiseringen, hvorved Spændingen stiger ell. falder.
+Regulering af Spændingen ved Regulering af
+Omdrejningstallet bruges meget sjældent, da
+Drivmaskinerne, der trækker Dynamoerne, som
+Regel har konstant Omdrejningstal, ens for alle
+Belastninger. En Reguleringsmodstand af nævnte
+Art kaldes en Shuntreguleringsmodstand (se i
+øvrigt under <sp>elektriske Maskiner</sp> og
+<sp>Transformatorer</sp>). Hvor Anvendelsen af
+Shuntreguleringsmodstand ikke er nok, fordi Dynamoen
+ikke giver tilstrækkelig Spænding, naar
+Shuntreguleringsmodstanden er helt udskudt, kan man
+anvende en mindre Dynamo,
+<sp>Spændingsforhøjer</sp>, der forbindes i Serie med
+Hoveddynamoen, saaledes at dens Spænding adderes
+til dennes. Spændingsforhøjerens Spænding kan
+reguleres fra 0 Volt til en ønsket afpasset
+Spænding, bestemt efter Forholdene. Skal f. Eks.
+en 440 Volts Central afgive Strøm af 490 Volt
+Spænding, medens dens Dynamo af en ell. anden
+Grund kun kan udvikle 470 Volt, indskyder man,
+enten i Fødeledningen, der skal have nævnte
+Spænding, ell. i Forbindelsen mellem Dynamo
+og Samleskinner (se ndf.) en
+Spændingsforhøjer, der kan give 490÷470 = 20 Volt, og
+som kan taale at gennemløbes af hele
+Dynamostrømmen (ell. Strømmen i Fødeledningen). En
+Spændingsforhøjer kan være enten en Serie-
+ell. en Shuntdynamo, eventuelt en
+Compounddynamo. For at kunne drive en e. K. med
+tilstrækkelig Sikkerhed maa man have
+Maaleapparater, hvormed Strøm, Spænding og Energi
+(elektrisk) kan maales (se <sp>elektriske
+Maaleinstrumenter</sp>), og Apparater,
+Maksimalafbrydere og Smeltesikringer, der udskyder
+Dynamoen af det elektriske Kredsløb, saafremt
+Strømmen vokser over en bestemt Grænse.
+Saadanne Maaleapparater og
+Sikkerhedsindretninger er anbragte i Centralens Apparat- ell.
+Tavleanlæg, hvortil Strømmen ledes fra Dynamoerne
+gennem Kabler e. l., der forbindes med et paa
+langs gennem Apparatanlægget gaaende Sæt
+Kobberskinner, der er fastgjorte paa Isolatorer
+og isolerede godt fra Jord og fra alle i ledende
+Forbindelse med Jorden værende Dele (dette
+gælder som Regel altid ved Centraler, der ikke
+anvendes til Banedrift; ved saadanne er den
+ene af disse Kobberskinner ofte jordforbundet).
+Nævnte Kobberskinner benævnes
+<sp>Samleskinner</sp> og er det centrale, »Hovednerven« i
+Centralen. Fra Samleskinnerne udgaar dels
+
+<img>
+Fig. 7. Fuldstændigt Strømskema for en Jævnstrømscentral. D. Dynamo, R. Regulermodstand,
+K. Kabler, S. Sikringer, a. Afbrydere, A. Ampèremetre, V. Voltmetre, U. Udligningsmaskine, L. Lademaskine,
+I. Igangsætningsmodstand, M. Maaler.
+</img>

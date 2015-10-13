@@ -1,0 +1,130 @@
+af hans »Kommentarer«, der gennem
+»Tegnebøger« fra Arkitekterne Giuliano di San Gallo
+og Schedel (barberinske Bibliotek - München)
+er bevarede i Kopi, har Værd, idet mange af de
+af C. beskrevne og tegnede Mindesmærker ikke
+mere er til ell. er ødelagte.
+<i>H. A. K.</i></chapter>
+
+<chapter name="Ciris">
+<b>Ciris,</b> et lat. Digt, som er overleveret under
+Vergil's Navn, men skyldes en anden, ukendt
+Forfatter fra samme Tid. Digtet fortæller det
+gr. Sagn om den megariske Konge Nisos' Datter
+Skylla, der til Straf for et Forræderi blev
+forvandlet til Havfuglen C.
+<i>C. B.</i></chapter>
+
+<chapter name="Cirkassien">
+<b>Cirkassien,</b> <sp>Tscherkessien</sp>,
+Tscherkessernes Land, omfatter den vestlige Del af
+Kaukasus' Nordskraaning samt noget af
+Sortehavskysten. Den tscherkessiske Befolkning er for
+største Delen udvandret til Tyrkiet og erstattet
+med russ. Kolonister.
+<i>M. V.</i></chapter>
+
+<chapter name="Cirkel">
+<b>Cirkel</b> (lat. <i>circulus</i>) er en lukket plan krum
+Linie, hvis Punkter alle har samme Afstand, fra
+et fast Punkt, <sp>Centrum</sp> (<i>O</i>). Ved C. menes
+ogsaa ofte den af den krumme Linie begrænsede
+Del af Planen, og den krumme Linie selv kaldes
+da <sp>C.'s Periferi</sp> ell. <sp>Omkreds</sp>.
+Punkternes Afstand fra Centrum kaldes <sp>Radius</sp>; en
+Korde <i>CD</i> gennem Centrum kaldes
+<sp>Diameter</sp>. En Cirkelbues Forhold til hele
+Omkredsen udtrykker man ved at maale den med
+<table>
+<td v2>Enhederne en Grad (1°) = <td c>1<td v2>af Omkredsen,
+<td c>360
+<td v2>et Minut (1') =<td c>1<td v2>° og et Sekund (1") = <td c>1<td v2>'.
+<td c>60<td c>60
+</table>
+En Centervinkel, der dannes af to Radier, har
+samme Gradantal som Buen mellem Radiernes
+Endepunkter; en Periferivinkel, der dannes af
+to fra samme Punkt af Cirklen udgaaende
+Korder, har halvt saa mange Grader som den Bue,
+dens Ben afskærer. En ret Linie kan højst
+skære C. i to Punkter; Tangenten <i>CE</i> har kun
+Berøringspunktet <i>C</i> fælles med C. og staar
+vinkelret paa Radius til dette Punkt. En
+Diameter <i>CD</i> vinkelret paa en Korde <i>AB</i> halverer
+Korden og de til Korden svarende Buer <i>ACB</i>
+og <i>ADB</i>; en Tangentvinkel, ɔ: Vinklen mellem
+de to Tangenter, der fra et Punkt kan
+trækkes til C., halveres af Linien fra Punktet til
+Centrum. Centrum for den C., der kan tegnes
+gennem 3 givne Punkter, faas som
+Skæringspunkt mellem Linierne vinkelrette paa
+Punkternes Forbindelseslinier i deres Midtpunkter;
+der kan tegnes 4 C., der rører 3 givne rette
+Linier, og deres Centrer faas som
+Skæringspunkter mellem Halveringslinierne til
+Vinklerne mellem de givne Linier. Gaar en C. gennem
+alle en Polygons Vinkelspidser, er den
+<sp>omskrevet</sp> om Polygonen og Polygonen
+<sp>indskrevet</sp> i den; omvendt hvis den tangerer
+alle Polygonens Sider. Enhver regelmæssig
+Polygon har baade en omskreven og en indskreven
+C. To C. skærer hinanden i højst to Punkter;
+falder disse sammen til eet, siges C. at berøre
+hinanden. Af Hensyn til Astronomien søgte man
+meget tidlig at <sp>beregne Korder</sp> i en C.
+med givet Radius (se <sp>Trigonometri</sp>). Man
+fandt saaledes forsk. Sider i regulære
+indskrevne Polygoner, saasom 4-kantsiden = r*sqrt(2),
+6-kantsiden = r, 10-kantsiden r*(sqrt(5)÷1)/2,
+hvor r betyder C.'s Radius, og kunde derfra
+gaa over til andre ved Formlerne:
+
+K = k*sqrt(4-(k/r)<sup>2</sup>) og k = r*sqrt(2-sqrt(4-(K/r)<sup>2</sup>))
+<img></img>
+hvor <i>k</i> og <i>K</i> betyder Korderne til en Bue og til
+den dobbelt saa store Bue, samt ved den paa
+den ptolemæiske Læresætning støttede Formel:
+
+c = (a/2)*sqrt(4-(b/r)<sup>2</sup>) +/- (b/2)*sqrt(4-(a/r)<sup>2</sup>)
+
+hvor <i>a</i> og <i>b</i> betegner Korderne til to vilkaarlige
+Buer, medens <i>c</i> er Korden til Buernes Sum ell.
+Differens, efter som øverste ell. nederste Tegn
+læses. Udtrykkene for de saaledes fundne
+Polygonsider er kun irrationale ved Kvadratrod, og
+Siderne kan altsaa konstrueres ved Passer og
+Lineal (se <sp>Konstruktion</sp>). Man kan da
+ogsaa ved Konstruktion dele C. i <i>n</i> lige store Dele,
+hvis <i>n</i> er en af de omtalte Polygoners
+Sideantal; en saadan Deling af C. vil i det hele,
+som Gauss har vist, være mulig for <i>n</i>=2<sup>q</sup>
+Gange et Produkt af indbyrdes forsk. Primtal
+af Formen 2<sup>p</sup>+1 (specielt et enkelt saadant
+Primtal), idet <i>p</i> og <i>q</i> betegner et helt positivt
+Tal ell. 0. Korderne anvendtes ogsaa til
+Beregning af C.'s <sp>Areal</sp> og <sp>Længden af dens
+Periferi</sp>. Denne sidste bestemtes som den
+Grænse, hvortil Omkredsen af den indskrevne
+ell. omskrevne regelmæssige <i>n</i>-Kant nærmer
+sig, naar <i>n</i> vokser i det uendelige. Da
+Periferien er proportional med Diametren, kom det
+an paa at bestemme det konstante Forhold
+mellem disse to, som betegnes ved π. Periferien
+er da = 2π<i>r</i>, og Arealet, der ved de
+omskrevne Polygoner er = C.'s Radius X
+Polygonens halve Omkreds, bliver her = r . 1/2 . 2π<i>r</i>
+= π<i>r</i><sup>2</sup>. For π, der med 10 Decimaler er =
+3,1415926536, er der beregnet mange forsk.
+Tilnærmelsesværdier. Saaledes fandt Ægypterne
+(15/9)<sup>2</sup>, Archimedes 22/7, Aryabhata 62832/20000; Vieta
+havde 9 rigtige Decimaler, men Ludolph van
+Ceulen fandt 35, en Nøjagtighed, der var saa
+meget større end, hvad der tidligere var
+opnaaet, at man undertiden efter ham har kaldt π
+det <sp>Ludolphiske Tal</sp>. I de to sidste Aarh.
+er Beregningen af π lettet meget ved Anvendelse
+af Rækkeudviklinger, og man har bestemt fl.
+Hundrede Decimaler. De tidligere
+Tilnærmelsesværdier maa for største Delen være fundne ved
+Beregning af Polygonomkredse (Archimedes gik
+

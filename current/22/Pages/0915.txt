@@ -1,0 +1,186 @@
+<chapter name="symmetrisk">
+<b>symmetrisk</b> (mat.). To Figurer siges at ligge
+s. med Hensyn til en Plan,
+<sp>Symmetriplanen</sp>, naar til hvert Punkt i den ene Figur
+svarer eet Punkt i den anden, saaledes at til
+hinanden svarende Punkters Forbindelseslinie
+staar vinkelret paa Planen og halveres af den;
+en Figur og dens Spejlbillede ligger saaledes s.
+med Hensyn til den spejlende Flade.
+Geometrien behandler ogsaa s. Beliggenhed med
+Hensyn til et Punkt, <sp>Symmetricentret</sp>, hvor
+Forbindelseslinien mellem to til hinanden
+svarende Punkter altid gaar gennem Punktet og
+halveres af det. To Figurer, der kan bringes
+i een af de her beskrevne, ens gældende s.
+Beliggenheder, siges at være s.; denne af
+Beliggenheden uafhængige Forbindelse mellem dem
+kaldes <sp>Symmetri</sp>. En enkelt Figur siges at
+være s. ell. <sp>selvsymmetrisk</sp>, naar den
+kan deles i to Dele, der er i s. Beliggenhed.
+To s. plane Figurer kan bringes i s.
+Beliggenhed i samme Plan enten med Hensyn til en
+ret Linie, <sp>Symmetriakse</sp>, eller med
+Hensyn til et Symmetricentrum, idet Definitionerne
+her er de samme som i Rummet; s.
+Planfigurer karl altid bringes til at dække
+hinanden. Derimod er to ikke plane s. Figurer ikke
+kongruente uden i spec. Tilfælde, f. Eks. naar
+de er selvsymmetriske. S. Figurer har ligesom
+kongruente til hinanden svarende Afstande og
+Vinkler lige store; medens visse Stykkers
+Ligestorhed i to Figurer ofte i Plangeometrien,
+hvor Symmetri og Kongruens falder sammen,
+med Nødvendighed medfører Figurernes
+Kongruens, tør man altsaa ved ikke plane Figurer
+af en saadan Ligestorhed kun slutte, at der er
+Kongruens eller Symmetri (Eks.: sfæriske
+Trekanter).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="symmetriske Funktioner">
+<b>symmetriske Funktioner</b> (mat.) vil sige
+Funktioner, der ikke forandres ved nogen
+Ombytning af de variable. I de algebraiske
+Ligningers Teori spiller de s. F. af en Lignings
+Rødder en betydelig Rolle.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="symmetriske Ligninger">
+<b>symmetriske Ligninger</b> (mat.). En Ligning
+kaldes symmetrisk, naar den ikke forandres
+ved nogen Ombytning af de ubekendte. Ved
+Løsningen af saadanne Ligninger indfører man
+hyppig ny ubekendte, der er symmetriske
+Funktioner af de oprindelige.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Symmoria">
+<b>Symmoria</b> kaldtes i det antikke Athen en
+Gruppe af skattepligtige Borgere, idet hver
+S. tilnærmelsesvis omfattede den samme
+Brøkdel af Skatteformuen. Særlig Bet. havde denne
+Inddeling m. H. t. den Forpligtelse til
+Udredning af Krigsskibe (Trierer), der paahvilede
+de 1200 rigeste Borgere, som inddeltes i 20 S.,
+hver paa 60 Medlemmer.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="Symonds, John Addington">
+<b>Symonds</b> ['sim<sub>ə</sub>n(d)z ell. 'sa^i-], <sp>John
+Addington</sp>, eng. Kritiker (1840—95). Han gik i
+Skole i Harrow og studerede i Oxford, hvor
+han gjorde en straalende Karriere, der dog
+blev hurtig afbrudt af hans svage Helbred, som
+tvang ham til at opholde sig i Udlandet, mest
+i Davos, hvor han havde bygget sig en Villa.
+Af hans Værker, der for største Delen
+behandler ital. og gr. Emner, kan nævnes: <i>An
+Introduction to the Study of Dante</i> (1872), hans
+udmærkede <i>Studies of the Greek Poets</i>
+(1873—76); hans Hovedværk: <i>The Renaissance in
+Italy</i> (i 7 Bd, 1875—86), lægger væsentlig Vægt
+paa Tidens æstetiske Side. Foruden de nævnte
+har han skrevet Shakespeare's <i>Predecessors in
+the English Drama</i> (1884), <i>Ben Jonson</i> (1886),
+<i>Walt Whitman, a Study</i> (1893). Endnu kan
+nævnes, at han i Serien <i>English Men of
+Letters</i> har skrevet Biografier af Shelley 1878 og
+Sir Philip Sidney 1886. S. har ogsaa udg. en
+Del Digte og en fortrinlig Overs. af Benevenuto
+Cellini's Selvbiografi. (<sp>Litt</sp>.: <sp>Van Wyck
+Brooks</sp>, <i>J. A. S., A biographical study</i> [1915];
+<sp>Horatio F. Brown</sp>, <i>J. A. S. Letters and
+Papers</i> [1923]).
+<i>I. O.</i>
+</chapter>
+
+<chapter name="Symons, Arthur">
+<b>Symons</b> ['sim<sub>ə</sub>nz ell. 'sa^i-], <sp>Arthur</sp>, eng.
+Digter og Kritiker, f. i Wales 1865. Han blev
+privat opdraget og tilbragte meget af sin
+Ungdom i Frankrig og Italien. Hans første
+Digtsamling Days and Nights (1889) viser
+Paavirkning fra Browning, hvis Værker han har
+analyseret i <i>An Introduction to the Study of
+Browning</i> (1886). Senere sluttede han sig til den
+symbolistiske Bevægelse, hvis Organ <i>The Savoy</i>
+han redigerede, og som bl. sine Medarbejdere
+ogsaa talte Yeats og Aubrey Beardsley. Hans
+Digte f. Eks. i Samlingerne Silhouettes (1892)
+og <i>London Nights</i> (1895) viser Paavirkning fra
+keltisk og fr. Litteratur, især Verlaine. Af hans
+kritiske Arbejder er <i>The Symbolist Movements
+in Literature</i> (1899) det betydeligste.
+<i>I. O.</i>
+</chapter>
+
+<chapter name="sympatetisk">
+<b>sympatetisk</b> (gr.), ogsaa sympatisk,
+medlidende, deltagende; tiltalende, vækkende
+Sympati.
+<i>K. H.</i>
+</chapter>
+
+<chapter name="sympatetisk Blæk">
+<b>sympatetisk Blæk,</b> se <sp>Blæk</sp>.
+</chapter>
+
+<chapter name="Sympathicus">
+<b>Sympathicus</b> [-tikus], Betegnelse for
+sympatiske Nervesystem (s. d.).
+</chapter>
+
+<chapter name="Sympati">
+<b>Sympati</b> (gr.) kaldes i daglig Tale en
+Følelse af Velvillie, Interesse, som man, ofte ved
+første Øjekast og ofte uden nærmere at kunne
+angive Grundene derfor, kan have over for en
+Person eller Sag; man siges i saa Tilfælde at
+være <sp>sympatisk stemt</sp> over for Personen
+eller Sagen. Modsætningen hertil er
+<sp>Antipati</sp> (s. d.).
+<i>(Alfr. L.). Edg. R.</i>
+</chapter>
+
+<chapter name="Sympatimidler">
+<b>Sympatimidler.</b> Lægemidler, hvis Virkning
+skal bero ikke paa deres fysikalske Egenskaber,
+men paa en formodet, overnaturlig Egenskab,
+der staar i »sympatisk« Forhold til vedk.
+Patient og derfor hos denne fremkalder betydelige
+Virkninger, særlig paa Nervesystemet. En Kur
+med S. kaldes sympatisk Kur; i Virkeligheden
+henhører en Mængde saakaldte Kure
+(<i>faith cure</i>; <i>christian-science</i>-Kur; Kur ved
+Haandspaalæggelse o. s. v.) hertil.
+<i>(Lp. M.). P. H.</i>
+</chapter>
+
+<chapter name="sympatisere">
+<b>sympatisere</b> (fr.), føle med nogen, stemme
+overens, ligne hinanden i Følelser og
+Tilbøjeligheder; have Sympati (s. d.) med.
+</chapter>
+
+<chapter name="sympatisk">
+<b>sympatisk,</b> se <sp>sympatetisk</sp>.
+</chapter>
+
+<chapter name="sympatiske Nervesystem">
+<b>sympatiske Nervesystem.</b> Medens
+Sansningen og de vilkaarlige Bevægelser foregaar
+gennem Hjernen og Rygmarven, reguleres alle
+Kirtelafsondringer og alle uvilkaarlige
+Muskelbevægelser (Hjertet, Tarmene, Pupillerne o. s.
+v.) gennem et særligt System af Nerver, man
+kalder det vegetative Nervesystem, og som
+igen bestaar af to Systemer, det sympatiske og
+det parasympatiske (ell. autonome).
+
+1) Det s. N.'s Anatomi. Det s. N. bestaar
+hovedsagelig af en Række Nerveknuder, de

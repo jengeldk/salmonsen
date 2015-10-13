@@ -1,0 +1,123 @@
+<table>
+<td 5 c><sp>Actiniumfamilien</sp>.
+<td c>Navn<td c>Halveringstid<td c>Straaler<td c>Atomvægt<td c>Atonmummer
+<td>(Uran?)<td><td><td><td>
+<td>Uran Y<td c>1,04 Dage<td c>β<td c>—<td c>90
+<td>Protactinium<td c>12000 Aar<td c>α<td c>—<td c>91
+<td>Actinium<td c>20 Aar<td c>(—)<td c>—<td c>89
+<td>Radioactinium<td c>19,5 Dage<td c>α (β)<td c>—<td c>90
+<td>Actinium X<td c>11,4 Dage<td c>α<td c>—<td c>88
+<td>Ac-Emanation<td c>3,9 Sek.<td c>α<td c>—<td c>86
+<td>Actinium A<td c>2.10<sup>—3</sup> Sek.<td c>α<td c>—<td c>84
+<td>Actinium B<td c>36,1 Min.<td c>β<td c>—<td c>82
+<td>Actinium C<td c>2,15 Min. 0,2 % β; 99,8 %<td c>α<td c>—<td c>83
+<td>Actinium C'<td c>5.10<sup>—3</sup> Sek.<td c>α<td c>—<td c>84
+<td>Actinium Ω' (Bly?)<td c>—<td c>—<td c>—<td c>82
+<td>Actinium C"<td c>4,71 Min.<td c>β<td c>—<td c>81
+<td>Actinium Ω" (Bly)<td c>—<td c>—<td c>—<td c>82
+</table>
+
+Her finder ogsaa en Forgrening Sted ved det
+Stof, AcC, der svarer til RaC og ThC, men her
+følger kun 1/5 % β-Omdannelsen. Naar man
+har fundet Forgreninger, ved hvilke der
+dannes saa lidt af det ene Stof, er det ikke
+udelukket, at der sker Forgreninger ved endnu fl.
+Stoffer. Nylig har man fundet et nyt
+Forgreningsprodukt UranZ, og fra ThC udsendes
+ganske faa α-Straaler med den meget store
+Rækkevidde 11,3 cm, hvilket ogsaa tyder paa en
+Forgrening, men her mangler endnu nærmere
+Opklaring. Ogsaa RaC synes at udsende nogle
+faa α-Partikler med større Rækkevidde end
+normalt, nemlig 9,3 cm.
+
+Foruden Stofferne i disse 3 Familier er
+endnu 2 Stoffer radioaktive, nemlig
+Alkalimetallerne <sp>Kalium</sp> og <sp>Rubidium</sp>, der begge
+udsender β-Straaler. Kaliums Straaler er de
+hurtigste, men Rubidium udsender flere. Deres
+Halveringstider er sandsynligvis meget store,
+men endnu ikke kendte, og man ved heller
+ikke, til hvilke Stoffer de omdannes.
+
+<sp>De radioaktive Stoffers Stilling
+i det periodiske System</sp>. De
+radioaktive Stoffer kan ikke anbringes i
+Grundstoffernes periodiske System ordnet efter deres
+Atomvægt, da der ikke er ledige Pladser nok
+mellem Uran og Bly; tillige vilde Pladserne i
+saa Fald ikke komme til at passe med
+Stoffernes kem. Egenskaber. En Anbringelse i Systemet
+bliver derfor kun mulig, naar der anbringes fl.
+Stoffer paa samme Plads, men det var ogsaa
+givet derved, at adskillige af de radioaktive
+Stoffer ikke har kunnet adskilles ved nogen
+kem. Metode, saa at de maa antages at være
+kem. identiske. Dette er f. Eks. Tilfældet med
+RaD og Bly. Uddrages Blyet af et Uranmineral,
+vil dette Bly tillige indeholde hele Mineralets
+RaD-Indhold, saa at det er radioaktivt; til
+RaD's svage Aktivitet føjer sig efterhaanden
+Aktiviteten af det RaE og -F, der opstaar ved
+RaD's Omdannelse; saadant Bly kaldtes
+tidligere <sp>Radiobly</sp>. Det har ikke ved
+Anvendelse af nogen kem. Adskillelsesmetode været
+muligt at skille dette RaD fra Blyet, hvorfor
+det er naturligt at anbringe disse to Stoffer paa
+samme Plads i det periodiske System.
+Derimod er det let at fjerne det efterhaanden
+opstaaende RaE og -F. Ganske tilsvarende er
+Forholdet med f. Eks. Thorium og Ionium. Nogle
+af Uranmineralerne indeholder kun ganske lidt
+Thorium, men dersom man fremstiller denne
+ringe Mængde Th af dem, er dette Th næsten
+en Million Gange mere aktivt pr g end alm.
+Th, fordi man sammen med Thoriumet har
+faaet udskilt hele Mineralets Ioniumindhold.
+De to Stoffer har fulgtes ad kvantitativt ved
+alle de kem. Processer under
+Thoriumfremstillingen, og de bliver sammen i samme Forhold,
+hvad man end gør ved dem. Dette er Aarsagen
+til, at Ionium som tidligere nævnt ikke kendes
+i ren Tilstand.
+
+Foruden for de forud kendte Urstoffer Uran
+og Thorium samt for Radium har man kunnet
+fastslaa de kem. Egenskaber for de
+nogenlunde længelevende Mellemstoffer tilstrækkelig
+nøjagtigt til at bestemme deres Plads i
+Systemet. Derved fandt <sp>Russell</sp>, <sp>Soddy</sp> og
+<sp>Fajans</sp> (1913) den Lovmæssighed, at ved en
+Omdannelse, hvor der udsendes α-Straaler,
+faar det ny Stof saadanne kem. Egenskaber, at
+dets Plads i det periodiske System bliver 2
+Pladser lavere end før, men ved en
+β-Straale-Omdannelse rykker det ny Stof en Plads frem
+i Systemet. Anvendes denne Lov ogsaa paa de
+kortlevende Stoffer i Uran-Radiumfamilien,
+faar de de i hosstaaende Opstilling viste
+Pladser i det periodiske System; vandrette Pile
+angiver β-Omdannelser og skraa Pile
+α-Omdannelser. Pladsernes Nummer er angivet i
+Parentes (Se Tabellen S. 832).
+
+Iflg. Tabel over den sidste Del af det
+periodiske System er alle de radioaktive Stoffer
+anbragt paa Plads.
+
+Saadanne Stoffer, der trods forsk. Atomvægt
+staar paa samme Plads i det periodiske System,
+fordi de er kemisk identiske og uadskillelige,
+kaldes <sp>isotope</sp> Stoffer, og en Samling af
+isotope Stoffer, der staar paa samme Plads,
+f. Eks. de under Nr 82 anførte, kaldes en
+<sp>Plejade</sp>, denne saaledes Blyplejaden.
+
+En afgørende Støtte for Rigtigheden af denne
+Anbringelse af de radioaktive Stoffer fik man
+ved Atomvægtsbestemmelser for Bly,
+fremstillet af radioaktive Mineraler. Medens almindeligt
+Blys Atomvægt er 207,2, giver Blyet fra rene
+Uranmineraler, f. Eks. krystallinsk Begblende,
+hvis Blyindhold maa antages udelukkende at

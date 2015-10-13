@@ -1,0 +1,141 @@
+kan Tessaren og de andre tilsvarende fot.
+Objektiver i Reglen gøre Fyldest, naar de blændes
+passende af, da det skarpe Billedfelt derved
+vokser betydeligt. Men for de alleryderste
+Fordringer til Synsfelt eksisterer der en særegen
+<sp>Hypergon-Dobbeltanastigmat</sp> fra
+Goerz (med c. 1:22. Fig. 13); den har et
+Billedfelt paa 140°, saa at den med f. Eks. 20 cm
+Brændvidde endnu tegner en 60×70 cm Plade
+randskarp. Et saa overordentligt Synsfelt
+kræver Stjerneblænder, naar Lysstyrken ikke skal
+aftage for meget mod Randen.
+
+Ovf. er anført Synspunkter for Valg af
+Objektivets Lysstyrke. Hvad Valg af Brændvidde
+angaar, er tidligere fremhævet de korte
+Brændvidders Bet., naar man sørger for det rigtige
+Perspektiv ved Betragtningen af det færdige
+Billede. Som Hovedregel kan man tage
+Brændvidden lig Pladens Diagonal, altsaa for en 9X12
+cm Plade f = 15 cm. Synsfeltets Udstrækning
+bliver i dette Tilfælde 4/5 af Afstanden, saa at
+f. Eks. i 1000 m Afstand omfattes 800 m af
+Objektet. Portræt, Gruppeoptagelser o. l.
+kræver naturligvis større Brændvidde i Forhold til
+Formatet, og Arkitektur- ell. f. Eks.
+Maskinoptagelser kræver oftest adskillig mindre
+Brændvidde.
+
+Hvad <sp>Objektivfatningen</sp> angaar,
+viser Fig. 6 en Indstillingsskrue, hvormed
+Objektivet kan forskydes i sin Fatning, til den
+rigtige Indstilling er opnaaet. Alle de andre
+afbildede fot. Objektiver er i fast Fatning til at
+skrue paa Kameraets Forside; Indstillingen sker
+da ved at forskyde Kameraets Bagside
+(Matskiven). Men i de bedste moderne
+Haandkameraer bruges igen at indstille ved at flytte
+Objektivet ved en Fatning med Sneglegang;
+Kameraet faar da fast Udtræk, saa at det kan
+bygges langt stabilere, men det kan ikke
+bruges i Forbindelse med andre Objektiver.
+
+<sp>Teleobjektivet</sp> bestaar af en
+Samlelinse <i>L</i><sub>1</sub> (Fig. 14) med længere og en
+Spredelinse <i>L</i><sub>2</sub> med kortere Brændvidde, anbragt i
+nogen Afstand fra hinanden; hyppigst er
+Afstanden variabel. Et saadant System faar en
+lang Brændvidde, men Hovedplanerne, hvorfra
+Brændvidden regnes, er rykket langt til venstre
+for <i>L</i><sub>1</sub>; Fordelen derved er, at man faar de til
+den lange Brændvidde svarende stærkt
+forstørrede Billeder med et forholdsvis meget kort
+Kameraudtræk. Lad <i>L</i><sub>1</sub> have Brændpunktet <i>F</i>;
+Straaler som <i>SS</i><sup>1</sup>, der er parallelle med Aksen
+og altsaa kommer fra et meget fjernt Punkt i
+denne, vilde samles i <i>F</i>, men af <i>L</i><sub>2</sub> bøjes de bort
+fra Aksen, saa at de først samles i <i>B</i>. I denne
+Afstand falder altsaa Billedet af meget fjerne
+Genstande. Forlænges det sidste Stykke af
+Straalerne bagud, skærer de den indfaldende
+Straale i <i>HH</i><sup>1</sup>; Teleobjektivet har derfor en
+Brændvidde lig Afstanden fra <i>HH</i><sup>1</sup>> til <i>B</i>, idet
+<i>HH</i><sup>1</sup> bliver den ene Hovedplan (se <sp>Linse</sp>).
+<i>L</i><sub>1</sub>'s Brændvidde er altsaa blevet meget forøget,
+men Forøgelsen falder for en væsentlig Del
+foran <i>L</i><sub>1</sub> og kun for en ringe Del (nemlig <i>FB</i>)
+bag <i>L</i><sub>1</sub>; kun med denne sidste Del skal
+Kameraudtrækket forlænges. En videre Fordel er,
+at den resulterende Brændvidde og dermed
+Billedstørrelsen kan ændres inden for vide
+Grænser ved en lille Ændring af Afstanden mellem
+<i>L</i><sub>1</sub> og <i>L</i><sub>2</sub> (smlg. det tidligere anførte Udtryk til
+Beregning af den resulterende Brændvidde; <i>f</i><sub>2</sub>
+er her negativ).
+
+Hyppigst etableres et saadant Teleobjektiv ved
+til et alm. fot. Objektiv at føje en særlig dertil
+konstrueret spredende Linsekombination, et
+<sp>Telenegativ</sp>, der er indrettet til at befæstes
+og forskydes i det opr. Objektivs Fatning. Med
+de gængse Typer kan man ved at forlænge
+Udtrækket ubetydeligt, opnaa fra c. 3 til c. 8
+Gange saa stor Forstørring som uden
+Telenegativ. At dette er af den største Bet. for
+Fotografering af fjerne Objekter, f. Eks.
+Udsigter, af Dyr i det fri, af vanskeligt
+tilgængelige Arkitekturdetailler og ikke mindst for
+Fotografering fra Ballon og Aëroplan, er
+indlysende. Men ogsaa som Portrætobjektiv
+anvendes Teleobjektivet; her er det navnlig en
+Fordel, at man saa let varierer Brændvidden og
+dermed Billedets Størrelse, uden at ændre
+Afstand og Perspektiv. Der er dog ogsaa Ulemper
+forbundne med Anvendelsen af Teleobjektiver.
+Lysstyrken sættes stærkt ned (9 Gange ved 3
+Ganges ekstra Forstørring), saa at
+Øjebliksbilleder praktisk talt er udelukkede; der
+kræves altsaa Stativ og rolig Luft. Endvidere gaar
+naturligvis Synsfeltet stærkt ned.
+
+Disse Ulemper har ført
+til, at man har
+konstrueret faste Teleobjektiver,
+saaledes <sp>Magnar</sp> fra
+<sp>Zeiss</sp> og <sp>Bis-Telar</sp>
+fra <sp>Busch</sp> (Fig. 15),
+hvor det samlende
+Objektiv ikke er korrigeret
+for sig og altsaa ikke kan
+anvendes for sig, men
+kun i fast Forbindelse
+med det spredende. Man
+giver herved Afkald paa
+fl. af det opr.
+Teleobjektivs Fordele, men har til
+Gengæld naaet en betydelig Lysstyrke (1:7 for
+Bis-Telar), som under gunstige Forhold tillader
+Frihaandsoptagelser, og tillige naaet større
+Skarphed. Med en Brændvidde paa 45 cm (for
+Magnar) er Udtrækket kun 15 cm.
+Sandsynligvis er disse Objektiver, der er af den største
+Bet. for Aëroplan-Optagelser, undergaaet
+yderligere Fremskridt i de sidste Aar. (<sp>Litt</sp>.:
+Foruden de større fot. Haandbøger og større
+Lærebøger i Optik: <sp>H. Harting</sp>, »Optisches
+Hilfsbuch für Photographierende« [Berlin 1909]; <sp>M.
+v. Rohr</sp>, »Theorie und Geschichte des
+photographischen Objektivs« [Berlin 1899]. Ogsaa de
+større Firmaers Prislister).
+<i>H. M. H.</i>
+
+<img>Fig. 14. Teleobjektiv.</img>
+
+<img>Fig. 15.
+Busch's Bis-Telar.</img>
+</chapter>
+
+<chapter name="Fotogram">
+<b>Fotogram</b> er et ved Hjælp af et særligt
+Fotografiapparat fremstillet perspektivisk

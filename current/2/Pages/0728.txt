@@ -1,0 +1,141 @@
+end ved Foden af Bjerget. Hermed var det
+endelig godtgjort, at Luftens Vægt var
+Aarsagen til Lufttrykket, og at det var dette Tryk,
+der atter var Aarsag til de Fænomener, man
+tidligere havde betragtet som Følge af <i>horror
+vacui</i>. Torricelli's Forsøgsanordning var det
+første B.; efter ham kaldtes et B. af den ovf.
+beskrevne Type ofte et Torricellisk Rør, ligesom
+det tomme Rum oven over Kviksølvet i
+Glasrøret har faaet Navnet det Torricelliske
+Vacuum.
+
+Allerede Torricelli lagde Mærke til, at
+Kviksølvet ikke altid stod lige højt i B., men at
+Kviksølvhøjden kunde variere nogle cm, og han
+lagde Mærke til, at denne Variation stod i en
+vis Forbindelse med Vejrforholdene, saaledes
+at en stor Kviksølvhøjde var det almindeligste
+i godt Vejr og en lille Højde almindeligst i
+blæsende, regnfuldt Vejr. Paa denne
+Omstændighed hviler B.'s store Anvendelse og
+Udbredelse, og herfra stammer B.'s danske, tidligere
+ofte benyttede Navn, <sp>Vejrglas</sp>.
+
+I Tidens Løb har der været mange forsk.
+Detail-Konstruktioner af B. De B., man
+anvender nu til Dags, kan væsentlig deles i 3
+Hovedgrupper, nemlig 1) Kviksølvbarometrene,
+hvori Lufttrykket, som ovf. beskrevet, holder
+Ligevægt umiddelbart mod <sp>Vægten</sp> af en
+<sp>Kviksølvsøjle</sp>. 2) Aneroidbarometrene, der
+først blev konstruerede af Englænderen Vidi
+(1847), og hvori Lufttrykket, som det ndf. skal
+beskrives, holder Ligevægt mod en Fjeder af
+en ell. anden Form ell. mod en ophængt Vægt.
+3) Kogebarometre, det er Instrumenter, ved
+Hjælp af hvilke man kan foretage en nøjagtig
+Bestemmelse af Vandets Kogepunkt, af hvilken
+Bestemmelse Lufttrykket nemlig kan findes (se
+<sp>Hypsometer</sp>).
+
+Af de egl. B., Kviksølvs-B. og Aneroid-B., er
+Kviksølvsbarometrene uden Sammenligning
+de nøjagtigste og mest tilforladelige. I Princippet
+virker de alle som Torricelli's opr. Apparat, og
+de afviger kun fra hinanden i det ydre,
+saaledes i Formen af den til Luften aabne
+Kviksølvsbeholder, i Formen, Anbringelsen og
+Inddelingen af Skalaen til Aflæsning, i Apparatets
+Tilpasning til Rejsebrug (f. Eks. med
+Lukkemekanismer for Kviksølvet, saaledes at B. kan
+transporteres i en hvilken som helst Stilling),
+ell. til Brug paa Skibe (med Indsnævringer paa
+Glasrøret, saaledes at Kviksølvet ikke skvulper
+under Skibets Bevægelser i Søen). Paa
+meteorologiske Stationer saavel som overhovedet til
+videnskabeligt Brug anvendes saa at sige
+udelukkende Kviksølv-B. Efter Formen af
+Kviksølvbeholderen taler man om <sp>Hævert</sp>-,
+<sp>Kapsel</sp>- og <sp>Kar</sp>-B. I Hævert-B. udgøres den
+aabne Beholder af selve B.-Røret, der er
+ombøjet, saa den aabne, korte Rørende vender
+opad. I Kapsel-B. er Beholderen som Regel
+saa lukket, at Luften kun har Adgang gennem
+et lille Hul, og Kapslens Rumfang kan være
+foranderligt, idet en Del af dens Vægge er
+forfærdiget af Skind e. l., der kan bevæges ved
+en Skrue, hvorved man kan indstille saaledes,
+at Kviksølvoverfladen i Kapslen netop rører en
+fast Spids, der svarer til Maalestokkens
+Nulpunkt. I Kar-B. har den aabne Beholder som
+Regel et stort Tværsnit, hvorved opnaas, at
+Kviksølvoverfladen i denne Beholder kun er
+meget lidt forsk. ved forsk. Barometerstande,
+medens hele Ændringen i Kviksølvhøjden vil
+give sig til Kende i selve B.-Røret. Den
+Maalestok, paa hvilken Barometerstanden aflæses,
+inddeles efter forsk. Principper og med forsk.
+Enheder. I nogle B. benyttes en alm.
+Maalestoksinddeling, medens andre B. er forsynede
+med saakaldt reduceret Skala, d. v. s. en
+Inddeling, der ikke er en egl. Gengivelse af de
+benyttede Længdeenheder, men hvor disse er
+saaledes formindskede, at der er taget Hensyn
+til, at Kviksølvoverfladen i den aabne Beholder
+synker noget, naar Kviksølvet stiger i selve
+B.-Røret. Inddelingen var tidligere som Regel
+Pariser Linier ell. eng. Tommer, nu bruges i
+de fleste Lande kun Millimeterinddelinger. Til
+Hjælp ved nøjagtige Aflæsninger af B. er disse
+ofte forsynede med en Nonius. Ved nogenlunde
+nøjagtige Bestemmelser af Barometerstanden
+maa der tages Hensyn til Temp.'s Indflydelse
+og Tyngdens Indflydelse. Sædvanligvis
+reduceres derfor Aflæsningen af B. til Forholdene ved
+en Temp. paa 0° og Tyngden ved 45° Bredde
+og Havets Niveau. Reduktionen for Temp. er
+proportional med Barometerstanden og for 760
+mm og for alm. B. c. 1 mm for hver 8° C.
+Reduktionen skal trækkes fra, dersom Temp. er
+over 0°, og adderes til den aflæste Stand,
+dersom Temp. er under Frysepunktet.
+Reduktionen for Tyngden retter sig efter
+Tyngdekraftens Størrelse paa det Sted, hvor B aflæses.
+Foruden af lokale Særegenheder skyldes
+Tyngdekraftens Afvigelse fra Tyngden ved 45°
+Bredde væsentlig Centrifugalkraften p. Gr. a.
+Jordens daglige Omdrejning og Tyngdens
+Variation med Højden. Korrektionen til Tyngden
+ved 45° Bredde er proportional med
+Barometerstanden og for 760 mm paa flg. Bredder (φ)
+<table>
+<td>φ =<td c>45<td c>50<td c>55<td c>60<td c>65<td c>70<td c>75<td c>80<td c>85<td c>90
+<td>φ =<td c>45<td c>40<td c>35<td c>30<td c>25<td c>20<td c>15<td c>10<td c>5<td c>0
+<td>Korr.<td c>0,00<td c>0,34<td c>0,67<td c>0,98<td c>1,27<td c>1,51<td c>1,70<td c>1,85<td c>1,94<td c>1,97<td>mm.
+</table>
+Korrektionen skal adderes til Aflæsningen,
+efter som B. findes paa højere Bredder end 45
+og subtraheres fra Aflæsningen, dersom B.
+findes mellem de to 45° Breddecirkler.
+
+Korrektionen til Tyngden ved Havets Niveau
+skal altid trækkes fra den aflæste
+Barometerstand. Korrektionen er forsk. i den fri Atm.
+(f. Eks. paa Ballonfarter) og paa Bjergstationer,
+og er ved de gennemsnitlige Barometerstande i
+1, 2 og 3 km Højde henh. 0,13, 0,23 og 0,31 mm i
+den fri Atm. og 0,08, 0,15 og 0,19 mm paa
+Bjergstationer. En B.-aflæsning paa 690,00 mm,
+foretaget i en Ballon 1 km o. H. paa 55° Bredde og
+ved en Temp. paa 8° C. svarer altsaa efter det
+foreg. paa det nærmeste til en reduceret
+Barometerstand paa 690,00 ÷ 1,0 (690/760) + 0,67 (690/760)
+÷ 0,13 = 689,57 mm.
+
+Det bemærkes, at Reduktionen for Tyngden
+kun skal anbringes, dersom Barometerstanden
+skal repræsentere Lufttrykket, men at
+Reduktionen ikke skal anvendes, saafremt
+Barometerstanden skal repræsentere Luftmassen over
+lagttagelsesstedet.

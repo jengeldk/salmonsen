@@ -1,0 +1,173 @@
+medens den anden staar lodret paa denne. Den
+første Akse kaldes Timeaksen, den anden
+Deklinationsaksen, Ved denne Montering vil
+Kikkerten kunne følge Stjernen i dens daglige
+Bevægelse, idet Kikkertten kun behøver at drejes
+om Timeaksen. Denne Bevægelse udføres alm.
+af et Urværk, naar Kikkerten i længere Tid
+som ved Fotografering skal være rettet mod
+Stjernen.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="parallaktisk Ligning">
+<b>parallaktisk Ligning</b> kaldes en
+Perturbation i Maanens Bevægelse, der fremkaldes ved,
+at Maanen ved Nymaane bliver tiltrukken lidt
+stærkere af Solen end ved Fuldmaane. Maanens
+Afstand fra Jorden er derfor lidt større og dens
+Hastighed lidt mindre i Nymaane end i
+Fuldmaane. Den p. L. er afhængig af Forholdet
+mellem Maanens og Solens Afstand fra Jorden.
+Omvendt kam dette Forhold findes af den p. L.,
+naar denne er bekendt af Observationer. Da
+Maanens Afstand kendes med stor Nøjagtighed,
+kan denne Perturbation benyttes til
+Bestemmelse af Solens Afstand ell. Solens
+Horisontalparallakse. Hansen fandt paa denne Maade
+Solens Horisontalparallakse = 8,92″.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="parallaktisk Lineal">
+<b>parallaktisk Lineal,</b> se <sp>Triquetrum</sp>.
+</chapter>
+
+<chapter name="parallaktisk Vinkel">
+<b>parallaktisk Vinkel</b> kaldes Vinklen mellem
+en Stjernes Deklinations- og Højdecirkel. Er
+Stjernens Deklination δ, Højde <i>h</i>,
+Iagttagelsesstedets Polhøjde φ, saa er den p. V. = <i>p</i> givet af
+Ligningen: <i>cos p</i> = <i>sin φ — sin δ sin h</i>  / <i>cos δ cos h</i>.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Parallel (mat.)">
+<b>Parallel</b> (mat.). To rette Linier siges at
+være p., naar de ligger i samme Plan og ikke
+skærer hinanden, hvor langt de end forlænges.
+Euklid beviste, at to Linier i samme Plan, der
+skærer en tredje saaledes, at Summen af de
+indvendige Vinkler, som de danner med den
+tredje Linie til samme Side, er = to Rette, er
+p. Ved denne Sætning var altsaa Eksistensen af
+p. Linier godtgjort, og Euklid supplerede
+Sætningen ved Opstilling af flg. ubeviste
+Forudsætning (5. Postulat, i »Elementerne« i nogle
+Udmarver opført som 11. Aksiom): hvis de nævnte
+indvendige Vinklers Sum er < 2 Bette, skærer
+de to Linier hinanden til den Side, hvor
+Vinklerne ligger. Denne Forudsætning,
+<sp>Parallelaksiomet</sp>. og Forudsætningen om, at
+Summen af Vinklerne i en Trekant er = 2 Rette,
+kan let reduceres til hinanden. Der er gjort
+mange Forsøg paa at bevise Parallelaksiomet
+ud fra Euklid's øvrige Forudsætninger, men
+det er ikke lykkedes. Legendre godtgjorde, at
+Vinkelsummen i en Trekant ikke er større end
+to Rette. Lobatschevsky og Bolyai har opstillet
+en »ikke euklidisk Geometri«, hvori
+Parallelaksiomet mangler, uden deri at støde paa nogen
+Modsigelse, der kunde godtgøre Aksiomets
+Nødvendighed. — I den euklidiske Geometri
+afskærer to p. Linier samme Længde, deres
+<sp>Afstand</sp>, paa alle Linier vinkelrette paa dem
+begge. En Linie siges at være p. med en Plan,
+naar den aldrig skærer denne. En saadan Linie
+kan faas ved at tegne en P. med en Linie i
+Planen. Lægges en Plan gennem to hinanden
+skærende Linier, der er p. med en anden Plan, er
+de to Planer p., ɔ: de skærer aldrig hinanden;
+alle Linier vinkelrettte paa den ene er ogsaa
+vinkelrette paa den anden, og paa den alle
+afskæres det samme Stykke, Planernes
+<sp>Afstand</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Parallel (jernbaneteknisk)">
+<b>Parallel</b> bruges i jernbaneteknisk Henseende
+ofte i St f. Betegnelsen <sp>Lineal</sp> for den
+Maskindel paa et Lokomotiv, som danner Styr for
+Krydshovedet under dettes frem- og
+tilbagegaaende Bevægelser (se ogsaa <sp>Lokomotiv</sp>).
+<i>G. K.</i>
+</chapter>
+
+<chapter name="Parallelcirkler">
+<b>Parallelcirkler</b> (mat.), se
+<sp>Omdrejningsflade</sp>.
+</chapter>
+
+<chapter name="Parallelcirkler">
+<b>Parallelcirkler</b> kaldes de Lillecirkler paa
+en Kugleflade, hvis Planer er parallelle med
+et givet Storcirkelplan. Alle P.'s Centre ligger
+paa en ret Linie, der gaar gennem
+Storcirkelens Centrum og staar lodret paa denne;
+Liniens Endepunkter er <sp>Poler</sp> for Storcirkelen
+og P. Paa Himmelen er P. Lillecirkler
+parallelle med Ækvator; deres Poler er
+Verdenspolerne, og Linien lodret paa P. er
+Verdensaksen. Stjerner, som ligger paa samme P., har
+samme Deklination (s. d.). Paa Jorden er P.
+parallelle med Jordens Ækvator, deres Akse er
+Jordaksen. Steder paa Jorden paa samme P.
+har samme Bredde, derfor kaldes ofte P.
+Breddeparallel.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Paralleldragere, Parallel-Gitterdragere">
+<b>Paralleldragere, Parallel-Gitterdragere,</b>
+se <sp>Broer</sp>, S. 52.
+</chapter>
+
+<chapter name="Parallelepipedum">
+<b>Parallelepipedum</b> (mat.) er et Polyeder
+begrænset af seks Parallelogrammer. To af
+disse, f. Eks. <i>ABCD</i> og <i>A<sub>1</sub>B<sub>1</sub>C<sub>1</sub>D<sub>1</sub></i>, der ikke har
+nogen Side fælles, kaldes <sp>modstaaende</sp>
+Sideflader;
+de er
+kongruente, og deres
+ensliggende
+Sider er
+parallelle. Tages
+en Sideflade
+til
+<sp>Grundflade</sp> for
+P., forstaas
+ved den
+tilsvarende <sp>Højde</sp> Afstanden til den
+modstaaende Sideflade. P. har fire Diagonaler <i>AC<sub>1</sub></i>, <i>BD<sub>1</sub></i>,
+<i>CA<sub>1</sub></i>, <i>DB<sub>1</sub></i>, der alle gaar gennem samme Punkt
+<i>O</i>, P.'s <sp>Midtpunkt</sp>. Antallet af Kubikmeter
+i P. er Produktet af Antallet af Kvadratmeter
+i en Grundflade og Antallet af Meter i den
+tilsvarende Højde. Det retvinklede P. ell.
+<sp>Kassen</sp> er begrænset af seks Rektangler; en
+speciel Form, hvor Sidefladerne alle er
+Kvadrater, er det regulære <sp>Heksaeder</sp>, ogsaa
+kaldet <sp>Kubus</sp> ell. <sp>Terning</sp>.
+<i>Chr. C.</i>
+
+<img></img>
+</chapter>
+
+<chapter name="Parallelforbindelse">
+<b>Parallelforbindelse</b> kaldes en ved
+elektriske Anlæg meget anvendt Forbindelse af flere
+enkelte ensartede Dele til et samlet Hele.
+Leydnerflasker o. a. Kondensatorer forbindes
+parallelt ved at forbinde alle de indre
+Belægninger indbyrdes og alle de ydre Belægninger
+indbyrdes; den samlede Kapacitet af det hele
+System bliver da lig Summen af alle de enkelte
+Kondensatorers Kapaciteter (smlg. <sp>elektrisk
+Batteri</sp>). — Elementer forbindes parallelt,
+naar alle de positive Poler indbyrdes forbindes
+og ligeledes alle de negative Poler; er <i>n</i> ens
+Elementer saaledes forbundne til et Batteri,
+bliver dettes samlede elektromotoriske Kraft lig
+med den elektromotoriske Kraft af hvert enkelt

@@ -1,0 +1,127 @@
+at Kredsen er i <sp>Resonans med</sp> eller
+<sp>afstemt til</sp> de ankommende Bølger.
+
+Stor Interesse har endvidere Forholdene i
+Nærheden af Resonanspunktet, hvor
+Paavirkningens Frekvens og Kredsens Egenfrekvens
+ligger i Nærheden af hinanden. Til Belysning
+heraf sætter vi: <i>h</i> = ω + <i>s</i>ω, ell. <i>s</i> — <i>h</i>/ω — 1,
+hvor <i>s</i> er <sp>den relative Afvigelse</sp>
+mellem Paavirkningens Frekvens og Kredsens
+Egenfrekvens, <i>s</i> kaldes ogsaa
+<sp>Forstemningen</sp>. Det forudsættes, at Afvigelsen fra
+Resonanspunktet er saa ringe, at <i>s</i> er meget
+mindre end 1, saaledes at man har <i>h<sup>2</sup></i> = ω<sup>2</sup> +
+2 <i>s</i> ω<sup>2</sup>. Strømmens Amplitude (<i>J<sub>m</sub></i>) og den
+tilførte Effekt (<i>P</i>) vil da afhænge af Værdien
+af <i>s</i>. For svagt dæmpede Kredse — og saadanne
+har især Interesse i Radioteknikken — er denne
+Afhængighed givet ved:
+
+<i>I<sub>m</sub></i> = <i>E<sub>m</sub></i>/ R√1+<i>s</i><sup>2</sup> <i>S</i><sup>2</sup>, og <i>P</i> = <i>E<sub>m</sub>2</i> / 2 <i>R</i> (1 + <i>s</i><sup>2</sup>  <i>S</i><sup>2</sup>).
+
+Til Fremstilling af Forholdene i Nærheden af
+Resonanspunktet benyttes ofte Kredsens
+<sp>Resonanskurve</sp>, hvorved vi forstaar en Kurve,
+der fremstiller Værdien af Forholdet <i>P/P<sub>max</sub></i>
+mellem den Effekt, der tilføres, naar Kredsen
+er indstillet, saaledes at <i>h</i> = ω + <i>s</i>ω, og
+Maksimumsværdien for den tilførte Effekt, der
+som foran faas for <i>h</i> = ω ell. <i>s</i> = 0, idet
+Værdien af Forholdet <i>P/P<sub>max</sub></i> afsættes som
+Funktion af <i>s</i>. Resonanskurvens Ligning er da
+<i>P/P<sub>max</sub></i> = I<sub>m<sup>2</sup></sub> / I<sup>2</sup><i><sub>mmax</sub></i> = 1/1+<i>s<sup>2</sup></i> <i>S<sup>2</sup></i> = 1/1+(2π<i>s</i>/δ)<sup>2</sup>.
+
+En saadan Resonanskurve er vist i Fig. 11
+for Forstemningen <i>s</i> beliggende mellem + 2/<i>S</i>
+= δ/π og — 2/<i>S</i> = — δ/π. Som Abscisser er
+tillige foruden Forstemningen <i>s</i> afsat Forholdet
+<i>h</i>/ω = <i>n/f</i> = √<i>C<sub>r</sub></i>/<i>C</i>, mellem Kredsens Egenfrekvens
+og Paavirkningens Frekvens, hvilket Forhold
+tillige er lig med Kvadratroden af Forholdet
+mellem <sp>Resonanskapaciteten</sp> <i>C<sub>r</sub></i> og
+den indstillede Kapacitet <i>C</i>. I Punkterne <i>b</i> og <i>d</i>
+af Resonanskurven har Forstemningen en
+saadan Værdi, af den tilførte Effekt er lig med
+Halvdelen af den maksimale. Kaldes de til
+Punkterne <i>b</i> og <i>d</i> svarende Forstemninger
+—<i>s<sub>b</sub></i> og <i>s<sub>d</sub></i>, saa er øjensynlig
+<i>s<sub>b</sub></i> + <i>s<sub>d</sub></i> = 2/<i>S</i> = δ/π = <i>R</i> √<i>C/L</i>
+
+Kaldes de tilsvarende
+Kondensatorindstillinger <i>C<sub>b</sub></i> og <i>C<sub>d</sub></i> saa har man med god
+Tilnærmelse for svagt dæmpede Kredse (se Fig. 11)
+<i>c<sub>b</sub></i>—<i>C<sub>d</sub></i>/2 <i>C<sub>r</sub></i> = <i>C<sub>b</sub></i>—<i>C<sub>d</sub></i>/<i>C<sub>b</sub></i>+<i>C<sub>d</sub></i> — 2/<i>S</i> = δ/π = <i>R</i> √<i>C/L</i>
+
+Har man ved Maaling bestemt enten <i>S<sub>b</sub></i> + <i>s<sub>d</sub></i>
+ell. <i>C<sub>b</sub></i> og <i>C<sub>d</sub></i>, saa giver de to foregaaende
+Ligningssæt Værdien af Selektiviteten <i>S</i> og det
+logaritmiske Dekrement δ. Ved Hjælp af de
+foran givne Formler for δ ell. <i>S</i> kan man da, naar
+man kender Værdierne af δ og <i>C<sub>r</sub></i>, regne sig
+til Værdien af Kredsens <sp>effektive
+Højfrekvensmodstand</sp> <i>R</i> for den
+omhandlede Vinkelfrekvens ω. Denne Metode til
+Bestemmelse af <i>R</i> er opr. (1891) angivet af <sp>V.
+Bjerknes</sp> og var da den eneste praktisk
+anvendelige Metode, man da havde til Maaling
+af denne Størrelse.
+
+Det fremgaar al det foregaaende, at jo større
+Kredsens Selektivitet (<i>S</i>) er, desto »skarpere«
+forløber Resonanskurven, idet Afstanden <i>bd</i>
+mellem de Indstillinger, for hvilke
+Resonanskurvens Ordinater er faldne til Halvdelen af
+Resonanspunktets Ordinat, er omvendt
+proportional med Selektiviteten. Er f. Eks. <i>S</i> = 200,
+saa er <i>s<sub>b</sub></i> + <i>s<sub>d</sub></i> = 0,01 og <i>C<sub>b</sub></i> — <i>C<sub>d</sub></i> — 0,02 <i>C<sub>r</sub></i>.
+En Forstemning paa 0,5 % og en Afvigelse paa
+1 % af Kondensatorværdien fra <i>C<sub>r</sub></i> vil saaledes
+i dette Tilfælde nedsætte den af Kredsen
+optagne Effekt til det halve.
+
+Det følger af selve Resonanskurvens
+Definition, at den altid har Værdien 1 i
+Resonanspunktet, samt at dens Ordinator i øvrigt er
+desto mindre, jo større Kredsens Selektivitet er,
+se Fig. 12, I. Afsætter man derimod selve den
+modtagne Effekt (<i>P</i>) som Funktion af
+Frekvensforholdet <i>h</i>/ω — ell. som Funktion af
+Forstemningen <i>s</i> —, saa vil Effektkurven komme til at
+ligge desto højere, jo større Selektiviteten er,
+se Fig. 12, H. Jo større Selektivitet en Kreds
+har — jo mindre dæmpet den er — desto større
+Effekt optager den, naar Forstemningen i alle
+Tilfælde er den samme.
+
+Kender man paa Forhaand Værdierne af <i>L</i>
+og <i>C</i> for disses forsk. Indstillinger og indskydes
+i Kredsen en Strømindikator uden kendelig
+Selvinduktion ell. Kapacitet, saa kan man benytte
+Resonansindstillingen af en saadan Kreds til
+Bestemmelse af Frekvensen af den paavirkende
+E. M. K. og følgelig ogsaa til Maaling af dennes
+Bølgelængde (λ = 6 π X 10<sup>8</sup> √<i>L C</i>). En saadan
+Opstilling kan derfor benyttes som
+<sp>Frekvens</sp>- ell. <sp>Bølgemaaler</sp>. Til en saadan
+Benyttelse af en Svingningskreds kræves dog,
+at enten Kapaciteten ell. Selvinduktionen, ell.
+eventuelt begge, kan varieres paa kendt Maade.
+
+De foran omtalte inducerede Svingninger
+giver Kredsen en vis elektromagnetisk Energi, der
+vel afhænger af Forholdene, men i hvert Fald
+har en endelig Værdi. De inducerede
+Svingninger kan derfor ikke opstaa i samme Øjeblik,
+Paavirkningen begynder, men deres
+Frembringelse kræver en vis <sp>Indsvingningstid</sp>.
+Svingningernes Forløb under denne afhænger
+af, hvorvidt Kredsen er i Resonans med
+Paavirkninger (<i>h</i> = ω), ell. dette ikke er Tilfældet
+(<i>h</i> ⋜ ω).
+
+I første Tilfælde, hvor <i>h</i> = ω, vokser
+Svingningernes Amplitude jævnt fra Nul ved
+Paavirkningens Beg. op til den inducerede
+Svingnings endelige Amplitude, der teoretisk først
+naas i Løbet af en uendelig lang Tid.

@@ -1,0 +1,117 @@
+stærkt simplificeret og forgrovet Objektiv. Fig.
+viser den tolinsede Kondensor med Apertur,
+1,2, tillige findes en trelinset med Apertur 1,4 og
+finere aplanatiske og akromatiske Kondensorer.
+Irisblænderen kan i Reglen klappes til Siden og
+Kondensoren klappes ud; tilbage bliver da kun
+en anden Irisblænder lige under Præparatet;
+den bruges ved svag Forstørring.
+Belysningsapparatet tjener til at afpasse Belysningen
+efter Formaalet; bruges lille Blænderaabning,
+faas et smalt Straalebundt, der da efter
+Blænderens Plads kan sendes lodret ell. skraat
+gennem Præparatet. Kun ved at have
+Kondensor med stor Apertur, opnaar man, at
+Præparatet, der jo næsten aldrig er selvlysende,
+udsender saa skraa Straaler, at Objektiver med
+stor Apertur kan udnyttes, men for at drage
+Nytte af den store Kondensorapertur maa der
+ogsaa anbringes Olie mellem Kondensoren og
+Præparatglasset.
+
+I visse Tilfælde, saaledes navnlig ved
+metalmikroskopiske Undersøgelser, hvor Præparaterne
+ikke er gennemsigtige, maa de iagttages i
+paafaldende Lys. Dertil tjener Vertikalilluminatoren,
+der anbringes over Objektivet. Lyset
+sendes da gennem et Hul i Siden af Tubus
+ind enten mod en skraatstillet, svagt forsølvet
+Glasplade ell. et lille Refleksionsprisme, der
+dækker Halvdelen af Rørets Lysning; herfra
+sendes Lyset ned gennem Objektivet, der da
+tillige tjener som Kondensor. Hertil er
+konstrueret særlige Stativer, hvor Højdeindstillingen
+sidder paa Bordet i St f. paa Tubus,
+for at undgaa at flytte dette i Forhold til
+Lyskilden. Om Mørkegrundsbelysning, se ndf.
+Til specielle Anvendelser er konstrueret en
+Mængde Hjælpeapparater ell. særlige M., saaledes
+M. med Polarisationsapparater til mineralogiske
+Iagttagelser, binokulære M. (se <sp>Dobbeltmikroskop</sp>)
+til stereoskopiske Iagttagelser o. s. v.
+
+<sp>Maalinger med M</sp>. Størrelsen af et
+mikroskopisk Objekt findes lettest med
+Okularmikrometer, en Glasmaalestok delt i 1/5 eller
+1/10 mm, der anbringes paa Blænderne i
+Okularet. Hertil maa bruges særlige Mikrometerokularer,
+hvis Øjelinse er forskydelig i Forhold
+til Blænderen, saa at man kan indstille
+skarpt paa Mikrometret. Hele M. indstilles da
+saaledes, at det reelle Billede af Objektet
+falder i Mikrometrets Plan, og man finder
+direkte Objektets Størrelse, naar man forud har
+fundet Betydningen af en Inddeling paa
+Okularmikrometret ved som Objekt at bruge et
+Objektmikrometer, en Glasmaalestok, f. Eks.
+1 mm, delt i 100 Dele. Ved finere Maalinger er
+Okularmikrometret et Skruemikrometer med
+Traadkors, der kan forskydes ved en Mikrometerskrue.
+M. med Okularskruemikrometer er en
+vigtig Del af mange fys. Maaleinstrumenter,
+saaledes Komparatoren til Undersøgelse af
+Maalestokke, og de bruges f. Eks. til Aflæsning
+af Delekredsen paa astron. Instrumenter o. s. v.
+Undertiden udmaales direkte Objektets
+Størrelse, ved at enten Tubus ell. bedre Bordet er
+forskydeligt ved Mikrometerskrue; paa denne
+Maade udmaales fotografiske Optagelser af
+Spektre ell. af Stjernehimlen o. l.
+
+<sp>Tegneapparater</sp>. Af de forsk.
+Konstruktioner af Tegneapparater (<i>Camera lucida</i>)
+er Abbe's (Fig. 9) det bedste. Over M.'s Okular
+anbringes Glasterningen <i>P</i>, bestaaende af to
+sammenklæbede Prismer, der er forsølvede paa
+Berøringsfladen undtagen paa en lille
+cirkelrund Flade i Midten, som er fuldkommen
+gennemsigtig. Spejlet <i>S</i> er anbragt c. 10 cm til
+Siden for <i>P</i>. Hullet i Sølvlaget skal falde paa
+Okularringens Plads. Gennem det gaar da
+Straalerne fra Objektet under M. op i Øjet,
+medens Straalerne fra Papir og Blyant ved Siden
+af M. reflekteres fra <i>S</i> og fra Sølvlaget uden om
+Hullet op i Øjet. Man ser altsaa Objekt og Papir
+tilsyneladende paa samme Sted, idet Papiret
+maa ligge i samme Afstand
+fra Øjet som Billedet i M., saa at de ses uden
+Parallakse. M. maa derfor ved Brugen af
+Tegneapparat indstilles saaledes, at Billedet falder
+omtr. i Arbejdsafstanden fra Øjet. Det er
+vigtigt, at Papiret og Synsfeltet i M. ogsaa ses
+omtr. lige klare, hvorfor man ved Røgglas <i>R</i>
+kan svække Lyset paa Papiret. M.'s <sp>Forstørring</sp>
+findes lettest ved Tegneapparatet, idet
+man aftegner Billedet af f. Eks. 1/10 mm af et
+Objektmikrometer og bagefter udmaaler
+Billedets Størrelse. Forstørringen maa da
+omregnes til 25 cm Afstand. Forstørringen kan ogsaa
+findes ved med det ene Øje at se gennem M.
+paa Billedet af f. Eks. 1/10 mm og samtidig
+med det andet Øje direkte mod en Maalestok
+og saaledes sammenligne Billederne. I nyere
+Tid spiller Tegning af Præparaterne en
+mindre Rolle, da Mikrofotografi har naaet saa høj
+Udvikling. Skal man fotografere Billedet af et
+Objekt, forandres M.'s Indstilling saa meget,
+at Okularet danner et reelt Billede over M.,
+nemlig paa Malskiven, resp. den fotografiske
+Plade. Skønt de sædvanlige Okularer ogsaa
+kan bruges hertil, anvendes dog med Fordel
+særlige dertil konstruerede Projektionsokularer.
+
+<img>Fig. 8. Abbe'sk Belysningsapparat med tolinset
+Kondensor.</img>
+
+<img>Fig. 9. Abbe'sk
+Tegneapparat, skematisk.</img>

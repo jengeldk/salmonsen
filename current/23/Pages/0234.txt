@@ -1,0 +1,151 @@
+<table>
+<td>Sølv, Frysepunkt<td>+ 960,5
+<td>Guld, Frysepunkt<td>+ 1063
+<td>Palladium, Frysepunkt<td>+ 1557
+<td>Platin, Smeltepunkt<td>+ 1770
+<td>Molybdæn, Smeltepunkt<td>+ 2620
+<td>Wolfram, Smeltepunkt<td>+ 3380
+<td>Kulstof, Smeltepunkt<td>+ 3490
+</table>
+
+Man har til Fikspunkter valgt
+Omdannelsespunkter — Frysepunkt, Smeltepunkt eller
+Kogepunkt ved et Tryk paa 760 mm Kvægsølv,
+reduceret til 0° C. og normal
+Tyngdeacceleration 980,665 cm-sek.<sup>2</sup> — for saadanne Stoffer, der
+kan skaffes tilstrækkelig rene, og for hvilke
+Omdannelsen er tilstrækkelig brat, uden jævn
+Overgang mellem de forskellige
+Tilstandsformer. Det højeste Fikspunkt, man har forsøgt
+at bestemme direkte med Lufttermometret, er
+Palladiums Frysepunkt, 1557° C.
+
+For ethvert Stof er der fl. karakteristiske T.,
+nemlig dets <sp>Smeltepunkt</sp> (s. d.), dets
+<sp>Kogepunkt</sp> (se <sp>Kogning</sp>) og dets <sp>kritiske T.</sp>
+Herved forstaas en Grænsetemperatur, under
+hvilken Stoffet har tydelig adskilte
+Tilstandsformer, medens der ved T. over den kritiske ikke
+er nogen paaviselig Overgang fra een
+Tilstandsform til en anden. Er Trykket ikke meget højt,
+vil Stoffet da være utvivlsom Luftart; stiger
+Trykket, vokser Tætheden, og ved tilstrækkelig
+store Tryk faar Stoffet Lighed med en Vædske,
+kun at det ligesom en Luftart altid fylder hele
+den Beholder, hvori det er indespærret, og
+altsaa ikke viser nogen fri Overflade. Ved det
+<sp>kritiske Tryk</sp> forstaas det største Tryk,
+et Stof kan frembringe, naar det er til Stede
+som en Blanding af Vædske og Damp. Dette
+Tryk naas, naar Blandingen opvarmes til den
+kritiske T. Stoffets Tæthed kaldes da den
+<sp>kritiske Tæthed</sp>, og Rumfanget af et Gram
+(maalt i Kubikcentimeter) det <sp>kritiske
+Rumfang</sp>. Disse »kritiske« Størrelser er
+særlig karakteristiske for et Stof, da de ikke
+som Kogepunkt og Smeltepunkt er afhængige
+af ydre Tryk. Se forøvrigt Artiklerne
+<sp>Straaling</sp>, <sp>Temperaturmaaling</sp>,
+<sp>Termometer</sp>, <sp>Varme</sp> og <sp>Varmeteori</sp>.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Temperatur, (tempereret Stemning)">
+<b>Temperatur,</b> <sp>tempereret Stemning</sp>
+(fr. <i>tempérament</i>), den i den praktiske Musik
+anvendte Afvigelse fra Intervallernes mat. ell.
+akustiske Renhed. Samtlige musikalsk
+anvendelige Toner kan, saavel for den absolutte
+Tonehøjdes Vedk. som m. H. t. deres
+indbyrdes Forhold som Intervaller, udtrykkes ved
+eksakte Talforhold. Menneskestemmen og
+Strygeinstrumenterne, der jo kan modificere
+Tonehøjden ganske vilkaarlig, vilde for alle
+Tonarters Vedk. kunne anvende de rene
+Intervaller; men Tangentinstrumenterne, der er i
+Besiddelse af en mek. bestemt Tonerække, vilde,
+saafremt der skulde findes en særlig Tangent
+for hver enkelt Tone i det moderne
+Tonesystem, kræve et saa stort Antal Tangenter,
+at Spillemaaden praktisk set vilde blive
+umulig. Da det menneskelige Øre nu ikke stiller
+samme strenge Fordringer til Tonehøjdernes
+absolutte Bestemthed som den eksakte
+Videnskab, kunde Vanskeligheden løses derved, at
+man slog flere hinanden nærliggende Toner (f.
+Eks. <i>cis</i> og <i>des</i>) sammen til een og samme
+(se <sp>enharmonisk</sp>). Allerede i 15.—16.
+Aarh. søgte man en Udvej, idet man stemte
+Intervallerne i enkelte Tonarter (særlig
+C-Dur) rene, hvilket havde til Følge, at
+Intervallerne i de andre, fjernere Tonarter blev
+saa meget mere urene. Denne, den saakaldte
+<sp>uligesvævende T.</sp>, kunde til Nød
+anvendes, saa længe man holdt sig til faa og
+nærbeslægtede Tonarter; men efterhaanden som
+Anvendelsen af de forsk. Tonarter tiltog i
+Rigdom og Mangfoldighed, maatte den vige
+Pladsen for den <sp>ligesvævende T.</sp>, der blev
+sat i System af Werckmeister (»Musikalische
+Temperature« [1691]), og som inddeler
+Oktaven i 12 matematisk lige store Dele og
+fordeler Forstemningen jævnt paa alle Intervaller,
+saaledes at intet Interval, med Undtagelse af
+Oktaven, bliver fuldstændig rent (Kvinten en
+Ubetydelighed for lav, Tertsen lidt for høj),
+men heller intet ulideligt urent. (<sp>Litt</sp>.:
+<sp>Helmholtz</sp>, »Die Lehre von den
+Tonempfindungen« [4. Opl., Braunschweig 1877]; <sp>M.
+Hauptmann</sp>, <i>Opuscula</i> [Leipzig 1874]).
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Temperaturens Indflydelse paa Planter">
+<b>Temperaturens Indflydelse paa Planter.</b>
+Det Temperaturinterval, inden for hvilket
+Planternes Livsytringer kan foregaa, er i
+Virkeligheden meget begrænset, idet Yderpunkterne for
+Planteverdenen som Helhed ligger mellem
+÷ 1-÷ 2° paa den ene og 70° (eventuelt 80°)
+paa den anden Side, og for den enkelte Plante
+er Temperaturintervallet endnu langt snævrere.
+Vi vil i det følgende først undersøge Planternes
+Livsytringer ved forskellige almindelige
+Temperaturer og senere deres Forhold ved ekstreme
+Temperaturer, d. v. s. saadanne, der ligger
+oven over eller neden under de Temperaturer,
+ved hvilke Livsytringerne kan foregaa.
+
+For Vækst og Udvikling af hver enkelt Plante
+gælder det, at der findes en
+Minimumstemperatur, d. v. s. den laveste Temperatur, ved
+hvilken der kan foregaa en Udvikling, en
+Optimumstemperatur, ved hvilken Udviklingen
+foregaar med størst Hastighed, og en
+Maksimumstemperatur, ved hvilken Udviklingen
+hører op. Men Beliggenheden af disse 3
+saakaldte Kardinalpunkter er meget forskellig for
+de forskellige Planter. Gennemgaaende har
+Planterne fra koldere Egne et lavere Optimum
+end Planterne fra varme Egne. Saaledes har
+visse Ishavsalger formentlig deres Optimum i
+Nærheden af 0°, medens de fleste Planter fra
+tempererede Egne har Minimum ved nogle faa
+Gradevr over 0°, Optimum ved 20—25° og
+Maksimum ved 30—40°. Visse termofile Bakterier har
+Optimum ved 50—55°.
+
+Ogsaa naar vi undersøger Temperaturens
+Virkning paa de enkelte Livsprocesser, kan vi
+konstatere Tilstedeværelsen af et Minimum,
+Optimum og Maksimum; men Beliggenheden af disse
+tre Kardinalpunkter er forskellig for de
+forskellige Livsprocesser og falder ikke sammen med
+Beliggenheden af Kardinalpunkterne for
+Plantens Udvikling som Helhed. Under Artiklerne
+<sp>Aandedræt</sp>, <sp>Kulsyreassimilation</sp>,
+<sp>Spiring</sp> og <sp>Vækst</sp> vil man finde
+Temperaturens Virkning paa disse Processer omtalt.
+
+Temperaturen kan ogsaa give Anledning til
+Bevægelser. Saaledes vil en

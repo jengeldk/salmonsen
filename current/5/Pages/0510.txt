@@ -1,0 +1,106 @@
+<sp>Dampforbruget</sp> pr indiceret
+Hestekrafttime (I. H. K. T.) er i Nutidens Højtryksmaskiner
+12-20 kg (med Overhedning 7-9 kg), ved Høj-
+og Lavtryksmaskiner 7-9 kg (med Overhedning
+4-5,5 kg) og ved Tre- og Firgangsmaskiner 5-7
+kg (med Overhedning og særlig gunstige
+Forhold c. 4 kg).
+
+<sp>Kulforbruget</sp> pr I. H. K. kan sættes til 0,5
+-1 kg. Selv i bedste Tilfælde bliver kun 10-15
+% af den i Kullene indeholdte Energi
+omdannet til nyttigt Arbejde. Kedlerne
+kan saaledes kun udnytte c. 70 % af
+Kullenes Brændværdi, Cylindrene kun c. 18
+% af Dampens Energi og Maskineriet p.
+Gr. a. Gnidningstab kun c. 90 % af den i
+Cylindrene udviklede Energi; det samlede
+Resultat bliver følgelig i dette Tilfælde, at
+0,7 X 0,18 X 0,9 = 0,11 ell. 11 % af den i
+Kullene indeholdte Energi omsættes til nyttigt
+Arbejde.
+
+<sp>D.'s Historie</sp>. Allerede i Oldtiden søgte
+man at udnytte udstrømmende Damps
+Bevægelsesenergi. <sp>Heron</sp> (120 f. Kr.) beskriver
+saaledes et Apparat, <sp>Æolipilen</sp>, se Fig. 27,
+bestaaende af en drejelig ophængt Kugle med
+to knæbøjede Rør. I Kuglen findes Vand, der
+bringes i Kog. Dampen vil da strømme ud
+gennem Knærørene og bringe Kuglen til at rotere
+om sine to Ophængningstappe modsat Dampens
+Udstrømningsretning. Man kan ogsaa anvende
+en særlig Kedel og derfra lede Damp ind i
+Kuglen. Dette Apparat maa - ligesom
+<sp>Giovanni Branca's Damphjul</sp> (1629) -
+betragtes som en primitiv Forløber for
+Dampturbinen og fik ingen praktisk Bet.
+
+Iflg: Leonardo da Vinci skal det være forsøgt
+af <sp>Archimedes</sp> (c. 250 f. Kr.) at anvende
+Dampens Trykenergi i en Art <sp>Dampkanon</sp>.
+Men først i 17. Aarh. begyndte forsk. Opfindere
+at anvende Damptryk til Løftning af Byrder,
+f. Eks. Vand, særlig efter at Torricelli's og Otto
+v. Guericke's bekendte Forsøg ang. Luftens Tryk
+var afholdte. 1690 fremkom Fysikeren
+<sp>Denis Papin</sp> med sin »atmosfæriske Maskine«,
+cler bestod af en i Bunden lukket Cylinder, hvori
+et Stempel kunde vandre op og ned. Mellem
+Bunden og Stemplet anbragtes Vand, der ved
+Opvarmning fordampedes og trykkede Stemplet i
+Vejret. I denne Stilling blev Stemplet fastholdt,
+medens Dampen fortættedes ved Afkøling af
+Cylinderen, saaledes, at der blev Undertryk i
+denne. Naar Stemplet frigjordes, bevægede
+Atmosfærens Tryk det nedad, og ved Tovtræk e. l.
+kunde Stemplet bringes til at løfte Byrder. -
+Cylinderen var saaledes samtidig Kedel,
+Arbejdscylinder og Kondensator. 1698 fik
+Englænderen <sp>Thomas Savery</sp> Patent paa en
+Maskine, bestaaende af en lukket Beholder, i
+hvilken Vand blev <sp>suget</sp> op ved, at Damp,
+udviklet i en særlig Kedel, fortættedes i
+Beholderen, hvorefter Vandet <sp>trykkedes</sp> videre
+ved Hjælp af frisk Damp, altsaa en Suge- og
+Trykpumpe uden Stempel. (Lignende
+Apparater anvendes i vore Dage under Navnet
+<sp>Pulsometre</sp>). - 1707 konstruerede Papin
+en Trykpumpe uden Stempel og uden
+Fortætning, men bygget efter et lgn. Princip som
+Savery's. Det oppumpede Vand kunde drive et
+Vandhjul, saa at man derved kunde faa en
+roterende Bevægelse frembragt. 1705 begyndte
+<sp>Thomas Newcomen</sp> at afholde Forsøg
+med en ny <sp>atmosfærisk D.</sp>, der var en
+Kombination og Forbedring af Papin's og
+Savery's Maskiner. Under Forsøgene blev han støttet
+(dog nærmest økonomisk) af <sp>Cawley</sp>, og 1712
+var han saa vidt, at den første Newcomen'ske
+Maskine (se Fig. 28) kunde tages i Brug til
+Vandpumpning i en Kulgrube i Dudley Castle.
+<i>A</i> er Dampkedlen, <i>B</i> Cylinderen med Stemplet
+<i>D</i>, og <i>C</i> det med Hane forsynede Damprør, der
+forbinder Kedel og Cylinder. Stemplet hænger
+ved Stangen <i>E</i> og Kæden <i>F</i> paa den ene Ende
+af en toarmet Vægtstang, Balancen, hvis anden
+Ende ved Kæden <i>H</i> bærer Modvægten <i>K</i> og
+Pumpestangen <i>I</i>. Stangen <i>M</i> fører til en
+særskilt lille Pumpe, der gennem Ledningen <i>N</i>
+forsyner Beholderen <i>L</i> med Vand. Billedet
+viser Maskinen paa det Tidspunkt, da Cylinderen
+<i>B</i> er blevet fyldt med Damp, Hanen ved <i>C</i>
+lukket og Hanen paa Røret <i>P</i> aabnet et Øjeblik,
+for at det herfra indsprøjtede kolde Vand kan
+fremskynde Dampens Fortætning. Den ydre Luft
+trykker nu Stemplet nedad (deraf Navnet
+»Atmosfærisk Maskine«), hvorved Pumpestængerne
+altsaa løftes. Vandet strømmer fra Cylinderen
+ud gennem Røret <i>RS</i>. Naar Stemplet er
+kommet helt ned, aabnes Damphanen paa <i>C</i>, og
+det gaar atter i Vejret. I Beg. fremskyndedes
+Dampfortætningen alene ved, at der fra Renden
+omkr. Cylinderens øverste Kant rislede Vand
+
+<img>Fig. 27. Æolipilen.</img>
+<img>Fig. 28. Newcomen's atmosfæriske Dampmaskine.</img>

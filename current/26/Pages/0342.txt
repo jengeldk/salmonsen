@@ -1,0 +1,179 @@
+<table>
+<td 2><td c>Tidspunkt<br>for Tællingen<td c>Areal i<br>km<sup>2</sup><td c>Befolkning<td c>Indb. pr.<br> km<sup>2</sup>
+<td 2>Estland<td c>1926<td r>47549<td r>1117270<td r>24
+<td 2>Finland<td c>1920<td r>388279<td r>3364807<td r>9,8
+<td 2>Frankrig<td c>1926<td r>550986<td r>40743851<td r>74
+<td 2>Grækenland<td c>1923<td r>127992<td r>5973721<td r>47
+<td 2>Holland<td c>1920<td r>34261<td r>6865314<td r>200,3
+<td 2>Island<td c>1920<td r>102846<td r>94690<td r>0,9
+<td 2>Italien<td c>1926<td r>310135<td r>40548666<td r>131
+<td 2>Jugoslavien<td c>1921<td r>248665<td r>11996791<td r>48
+<td 2>Letland<td c>1927<td r>65791<td r>1870520<td r>28
+<td 2>Liechtenstein<td c>1921<td r>159<td r>11500<td r>72
+<td 2>Litauen + Memel<td c>1927<td r>55899<td r>2257211<td r>40,4
+<td 2>Luxemburg<td c>1927<td r>2586<td r>285165<td r>110,3
+<td 2>Monaco<td c>1923<td r>21<td r>22153<td r>1054,9
+<td 2>Norge<td c>1920<td r>323795<td r>2649775<td r>8
+<td 2>Polen<td c>1920<td r>388390<td r>27176717<td r>70
+<td 2>Portugal<td c>1920<td r>91948<td r>6032991<td r>66
+<td 2>Rumænien<td c>1925<td r>294967<td r>17500000<td r>59
+<td 2>Rusland<td c>1926<td r>4701114<td r>114409406<td r>24,3
+<td r>1)<td>R. S. F. S. R., europæisk Del<td><td r>4122592<td r>80405218<td r>19,5
+<td><td>Europæiske Del i snævrere Forstand<td><td r>3749894<td r>70539973<td r>18,8
+<td><td>Krim<td><td r>25310<td r>714081<td r>28,2
+<td><td>Nordkaukasien<td><td r>293176<td r>8363086<td r>28,5
+<td><td>Dagestan<td><td r>54212<td r>788078<td r>14,5
+<td r>2)<td>Hviderusland<td><td r>126792<td r>4983884<td r>39,3
+<td r>3)<td>Ukraine<td><td r>451730<td r>29020304<td r>64,2
+<td 2>San Marino<td c>1927<td r>61<td r>13013<td r>216
+<td 2>Schweiz<td c>1920<td r>41295<td r>3880320<td r>94
+<td 2>Spanien<td c>1920<td r>505152<td r>22338381<td r>42
+<td 2>Sverige<td c>1926<td r>448460<td r>6074368<td r>15
+<td 2>Tschekkoslovakiet<td c>1921<td r>140394<td r>13613172<td r>97
+<td 2>Tyrkiet (europæisk Del)<td c>1927<td r>23554<td r>1203151<td r>51
+<td 2>Tyskland<td c>1925<td r>470656<td r>63178619<td r>134,2
+<td 2>Ungarn<td c>1920<td r>92951<td r>7984558<td r>86
+<td 2>Østerrig<td c>1923<td r>83833<td r>6555363<td r>78
+<td 2 r>I alt<td><td r>10080342<td r>472779947<td r>46,9
+</table>
+<i>M. H-n.</i>
+</chapter>
+
+<chapter name="Europe">
+<b>Europe,</b> se <sp>Okeanider</sp>.
+</chapter>
+
+<chapter name="Eurybia">
+<b>Eurybia,</b> se <sp>Havguder</sp>.
+</chapter>
+
+<chapter name="eurykefal">
+<b>eurykefal,</b> se <sp>Hoved</sp>, S. 789.
+</chapter>
+
+<chapter name="Euskirchen">
+<b>Euskirchen,</b> (1925) 14603 Indb.
+</chapter>
+
+<chapter name="Euthycomi">
+<b>Euthycomi,</b> se <sp>Euplocomi</sp>.
+</chapter>
+
+<chapter name="eutrof">
+<b>eutrof,</b> se <sp>Sø</sp>, S. 968.
+</chapter>
+
+<chapter name="Evagoras">
+<b>Evagoras,</b> d. s. s. <sp>Euagoras</sp>.
+</chapter>
+
+<chapter name="Ewald, R. J.">
+<b>Ewald,</b> <sp>R. J.</sp>, d. 22. Juli 1921 i Konstanz.
+</chapter>
+
+<chapter name="Evanger">
+<b>Evanger,</b> <sp>Herred</sp>, Voss Sorenskriveri,
+Hordaland Politidistrikt, Hordaland Fylke med
+(1920) 1772 Indb. Af Arealet 590 km<sup>2</sup> er 7,9 km<sup>2</sup>
+Ager og Eng, 50,9 km<sup>2</sup> Skov, 11 km<sup>2</sup> Ferskvand,
+Resten er Udmark, Fjeld og Myr. Antagen
+Formue 1927 var 3,8 Mill. Kr. og Indtægt 892000 Kr.
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Evans, A. J.">
+<b>Evans,</b> <sp>A. J.</sp>, fra 1909 ekstraordinær
+Professor i Arkæologi i Oxford. Som første Del af
+Hovedredegørelsen for Udgravningerne paa
+Kreta udkom: <i>The Palace of Minos</i>. I—II (1 og 2
+part), 1922, 1928.
+<i>H. A. K.</i>
+</chapter>
+
+<chapter name="Evans, G.">
+<b>Evans,</b> <sp>G.</sp> Rettelse, L. 4 f. n.: 1882 læs: 1822
+</chapter>
+
+<chapter name="Evans, R. D.">
+<b>Evans,</b> <sp>R. D.</sp> Paabegyndte et Togt med
+Atlanterhavs-Flaaden Jorden rundt, men maatte
+1908 fratræde Kommandoen paa Grund af
+Sygdom.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Evanston">
+<b>Evanston,</b> 1) (1920) 37234 Indb., 2) 3479 Indb.
+</chapter>
+
+<chapter name="Evansville">
+<b>Evansville,</b> (1920) 85284 Indb.
+</chapter>
+
+<chapter name="Evaæbletræ">
+<b>Evaæbletræ,</b> se <sp>Tabernæmontana</sp>.
+</chapter>
+
+<chapter name="Evenes">
+<b>Evenes,</b> <sp>Herred</sp>, Steigen Sorenskriveri,
+Narvik Politidistrikt, Nordland Fylke med (1920)
+5593 Indb. Af Arealet 741,6 km<sup>2</sup> er 14,5 km<sup>2</sup>
+Ager og Eng, 12,9 km<sup>2</sup> Skov, Resten er Udmark,
+Fjeld og Myr. Antagen Formue 1927 var 1,0
+Mill. Kr. og Indtægt 753000 Kr.
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Evenlode">
+<b>Evenlode,</b> se <sp>Thames, The</sp>.
+</chapter>
+
+<chapter name="Evensen, H.">
+<b>Evensen,</b> <sp>H.</sp>, udgav 1921 »Haandbok i
+Sindssykepleie« og, sammen med F. Harbitz, 1924
+»Veiledning i retsmedicinske Undersøkelser«.
+<i>Wt. K.</i>
+</chapter>
+
+<chapter name="Everett">
+<b>Everett,</b> 1) (1920) 40120 Indb., 2) 27644 Indb.
+</chapter>
+
+<chapter name="Everghem">
+<b>Everghem,</b> (1921) 8696 Indb.
+</chapter>
+
+<chapter name="everse Øjne">
+<b>* everse Øjne.</b> De for Synsorganerne
+karakteristiske Sanseceller har en langstrakt,
+prismatisk Form og er i den ene Ende
+udformede til en Sansestift. Med Hensyn til disse
+Cellers Stilling i Øjet møder vi det
+ejendommelige Forhold, at de, f. Eks. hos Snegle
+og Børsteorme, vender Sansestiften udefter,
+medens de derimod hos Igler, Fladorme og
+Hvirveldyr er omvendt orienterede, saaledes at
+Lyset først træffer Sansestiften efter at have
+passeret hele Cellens øvrige Del. I første Tilfælde
+taler man om everse, i sidste om inverse Øjne.
+<i>R. H. S.</i>
+</chapter>
+
+<chapter name="Evershed, J.">
+<b>Evershed,</b> <sp>J.</sp>, tog 1923 Afsked som Direktør
+for Observatoriet Kodaikanal. E. fik 1918 <i>Royal
+Society</i>'s Guldmedaille for sine astrofysiske
+Arbejder særlig med Henblik paa hans
+Undersøgelser af Solpletters Radialbevægelse.
+<i>J. M. V. H.</i>
+</chapter>
+
+<chapter name="Evesham">
+<b>Evesham,</b> (1927) 8541 Indb.
+</chapter>
+
+<chapter name="Evje">
+<b>Evje,</b> <sp>Herred</sp>, Setesdal Sorenskriveri,
+Kristiansand Politidistrikt, Aust-Agder Fylke. (1920)
+1363 Indb. Af Arealet 176,8 km<sup>2</sup> er 5,4 km<sup>2</sup> Ager
+

@@ -1,0 +1,108 @@
+gennem et Ræsonnement, som er os opbevaret, at
+opfinde K. paa ny. Og med denne gjorde han
+alle de Opdagelser paa Himlen, som med eet
+Slag skaffede ham et Navn (se <sp>Galilei</sp>).
+Galilei's første K. forstørrede 3 Gange, de senere
+8, og han drev det til 33 Gange. Denne K. er
+nu som Observationskikkert ganske fortrængt af
+den af Kepler 1611 opdagede og efter ham
+benævnte <sp>Kepler'ske</sp> eller <sp>astron. K.</sp>, der
+har som Objektiv en Samlelinse. Det af denne
+dannede omvendte reelle og formindskede
+Billede <i>ab</i> (Fig. 2) iagttages gennem Okularet som
+gennem en Lupe; dette er derfor en
+Samlelinse, og man faar derved et virtuelt forstørret
+og omvendt Billede <i>a'b'</i> af Genstanden <i>AB</i>.
+Kepler synes ikke at have lavet sig en saadan K.;
+man ved, at han havde forfærdliget sig en
+Galilei'sk. Pater Scheiner blev den, som c. 1613
+forfærdigede den første astron. K., som han
+benyttede til objektiv Fremstilling af Solbilledet.
+Ulempen ved, at Billedet var omvendt, havde
+Kepler afhjulpet, idet han viste, at man fik
+Billedet opret ved at anbringe nok en Linse
+mellem Objektivet og Okularet, saaledes som
+Pater Schyrlaeus i Klostret Rheit 1645 lod
+udføre.
+
+Den Kepler'ske K. fortrængte snart den
+Galilei'ske; thi denne staar bl. a. i <sp>Synsfelt</sp> —
+det Rum, som begrænses af en Kegleflade, hvis
+Spids er i Objektivets Midte, og hvis
+Grundflade er Okularet — betydelig under den astron.
+K., og da Synsfeltet aftager, naar man øger
+<sp>Forstørrelsen</sp> — det Forhold, der
+bestaar mellem den Vinkel, hvorunder Genstanden
+ses i Kikkerten, og med det blotte Øje, hvilket
+tilnærmelsesvis er lig Forholdet af Objektivets
+og Okularets Brændvidder — vil den
+Galilei'ske K. kun taale en svag Forstørrelse. Nu
+bruges denne K. kun, hvor man ikke forlanger
+større Forstørrelse, og dets kortere Rør —
+Røret er lig Differensen mellem Brændvidden af
+Objektivet og Okularet — gør den til en hændig
+Haandkikkert (Teaterkikkert). Til
+videnskabeligt Brug benyttes kun den Kepler'ske. Denne
+søgte man straks efter dens Opfindelse at gøre
+bedre og bedre, men man stødte straks paa
+Vanskeligheder, som ikke ganske kunde
+overvindes. Den ved Linsen optrædende sfæriske
+Aberration (se <sp>Linse</sp> og <sp>Spejle</sp>) søgte
+Cartesius at ophæve ved at gøre Linsens Flader
+parabolske ell. elliptiske, uden at han
+opnaaede noget bedre Resultat. Huygens fik denne
+Fejl reduceret ved at gøre Brændvidden ved
+samme <sp>Aabning</sp> ell. <sp>Apertur</sp> af
+Objektivet, ɔ: dets Diameter, saa meget desto større.
+Huygens, Cassini og Hevel konstruerede og
+benyttede K. af 30, 40 og 50 m's Brændvidde, og
+mange byggede simpelt hen saakaldte
+<sp>Luft-K.</sp> (<i>telesc. aëriens</i>), der først blev bragte i
+Forslag af Huygens 1684; de indeholdt kun
+Objektiv og Okular uden Kør, men man forbandt de
+to Linser med en lang Stang ell. anbragte
+Objektivet paa en høj Søjle, medens Okularet var
+i Nærheden af Jorden. Men disse K. af lige til
+200 m's Brændvidde var saa ubekvemme at
+arbejde med, at det ikke er at undres paa, at
+man saa sig om efter et andet Middel til at
+kunne se fjerne Genstande under stor
+Forstørrelse. Og da nu Newton havde paavist, at
+Hovedaarsagen til Billedernes store Mangler ikke
+var at søge i den sfæriske, men i den
+kromatiske Aberration (se <sp>Linse</sp>), og han tillige kom
+til det Resultat, at denne Fejl ikke vilde kunne
+hæves, saa fandt han videre Forsøg med at
+forbedre Refraktorerne for frugtesløse. I
+Spejlteleskoperne, som allerede 1616 var konstruerede
+af Zucchi, og hvor den kromatiske Aberration
+ikke optraadte, vilde man efter hans Mening
+opnaa, hvad man forgæves havde stræbt efter ved
+Linse-K. Selv gik Newton 1668 i Gang med at
+konstruere et Spejlteleskop. De ældste havde
+den Ulempe ved sig, at Iagttageren vendte
+Ryggen til det Objekt, han betragtede i Teleskopet.
+Dette havde Gregory 1663 afhjulpet ved at
+anbringe et lidet Hulspejl i Aksen af
+Objektivspejlet og lade det fra dette reflekterede Billede
+blive betragtet gennem et Okular, der er
+anbragt i Midten af det store Spejl, som der er
+gennemboret. Short indførte senere den
+Forbedring at anbringe det lille Spejl i Forbindelse
+med en Stang (<i>mn</i> Fig. 3), hvorved dets
+Stilling lettere kunde reguleres. Cassegrain brugte
+i Stedet for det lille konkave Spejl et konveks.
+Men begge disse Konstruktioner gav ikke det
+ønskede Resultat. Newton forlod derfor disse
+Typer, beholdt det store Spejl ubeskaaret, men
+anbragte i dets Akse et Planspejl under 45°
+med Aksen (Fig. 4), hvorved Billedet af
+Genstanden kastedes ud til Siden og her blev
+betragtet gennem et Okular. Det var med et
+saadant Spejlteleskop, at Herschel gjorde sine
+
+<img>Fig. 2. Den astronomiske Kikkert.</img>
+
+<img>Fig. 3. Gregory's Spejlteleskop.</img>
+
+<img>Fig. 4. Newion's Spejlteleskop.</img>

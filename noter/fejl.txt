@@ -1,0 +1,93 @@
+* Facon staves mest som Façon, men der er en fem steder hvor det staves Facon:
+salmonsen/2/5/Pages/0378.txt:7:Længder, de Faconstykker, hvormed Stelrørene
+salmonsen/2/8/Pages/0360.txt:61:Faconer, naar de kom paa Almuens Fødder,
+salmonsen/2/10/Pages/0700.txt:142:efterligne Meyerbeer's Facon. H.'s kunstneriske
+salmonsen/2/14/Pages/0962.txt:84:Støbejerns Faconblokke. Ved moderne Ovne sker
+salmonsen/2/19/Pages/0547.txt:3:den i den ønskede Facon, som vist paa Gulvet
+
+* Opslagene Dessintraad, Façontraad og Profiltraad, omhandler til dels det samme,
+
+<chapter name="Dessintraad">
+<b>Dessintraad</b> [de'sæŋ-] (<sp>Façontraad</sp>,
+<sp>Profiltraad</sp>) kaldes en Metaltraad, hvis
+Tværsnit har en hvilken som helst anden Form
+end Cirklens, f. Eks. halvrund, kvadratisk,
+rektangulær, trekantet, trapezisk, oval,
+halvmaanedannet, riflet, stjerneformet, hjerteformet,
+rosetformet o. l.
+<i>Carl J.</i></chapter>
+
+
+<chapter name="Profiltraad">
+<b>Profiltraad,</b> Façontraad, Dessintraad kaldes
+Traad, hvis Tværsnit ikke er cirkulært, men
+f. Eks. halvrundt (bruges til Splitter), ovalt,
+ottetalsformet, kvadratisk (bruges til Traadsøm
+ell. Traadstifter og kaldes derfor ogsaa
+Sømjern), rektangulært, 3-, 6- og 8-kantet,
+stjerneformet (bruges til Staaldrev i Ure). Ogsaa til
+Fremstilling af Paraplystel og Briller bruges P.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Façontraad">
+<b>Façontraad,</b> d. s. s. <sp>Dessintraad</sp>.
+</chapter>
+
+Forfattere:
+
+Einar Lea er nævnt som Dr. phil. Lea i forfatterlisten, men Einar Lea i signaturen:
+salmonsen/2/11/Pages/0950.txt:<i>Einar Lea.</i>
+
+Ingeniør Frichs er ikke umiddelbart at finde i bind 15:
+salmonsen/2/15/Pages/0008.txt: Ingeniør <i>Frichs</i>.
+
+A. M. Benedictsson staves på to forskellige måder, mon ikke Benedictsson er rigtig?
+salmonsen/2/25/Pages/0956.txt:<i>Benedictssen, A. M.</i>, Cand. mag. <i>(A. M. B.)</i>
+salmonsen/2/25/Pages/0958.txt:<i>A. M. B.</i>: Cand. mag. A. M. Benedictsson.
+
+Bøving-Petersen mangler et '.' i signaturen:
+salmonsen/2/25/Pages/0956.txt:<i>Bøving-Petersen</i>, Cand. mag. <i>(B-P.)</i>
+Alle andre steder B.-P. er brugt er det korrekt:
+salmonsen/2/12/Pages/0008.txt:<i>Bøving-Petersen</i>, Cand. mag. (<i>B.-P.</i>)
+salmonsen/2/12/Pages/0084.txt:<i>(B.-P.). R. H. S.</i>
+salmonsen/2/15/Pages/0008.txt:<i>Bøving-Petersen</i>, Lektor <i>(B.-P.)</i>
+salmonsen/2/15/Pages/0965.txt:<i>(B.-P.). N. H. J.</i>
+salmonsen/2/25/Pages/0958.txt:<i>B.-P.</i>: Cand. mag. Bøving-Petersen.
+
+Lütz-Høppermanns signatur staves på to måder: "C. L.-H." er rigtig.
+salmonsen/2/22/Pages/0007.txt:<i>Lütz-Høppermann, C.</i>, Inspektør <i>(C. L-H.)</i>
+salmonsen/2/22/Pages/0609.txt:<i>C. L.-H.</i>
+salmonsen/2/25/Pages/0955.txt:<i>Lütz-Höppermann, C.</i>, Inspektør <i>(C. L.-H.)</i>
+salmonsen/2/25/Pages/0958.txt:<i>C. L-H.</i>: Inspektør C. Lütz-Höppermann.
+
+Fred. Riise mangler i den alfabetiske signatur oversigt:
+salmonsen/2/24/Pages/0008.txt:<i>Riise, Fred.</i>, Generalkommissær <i>(F. R-e.)</i>
+salmonsen/2/24/Pages/0947.txt:<i>F. R-e.</i>
+salmonsen/2/25/Pages/0955.txt:<i>Riise, Fred.</i>, Generalkommissær <i>(F. R-e.)</i>
+
+Kaptajn H. Ewald mangler i den alfabetiske signatur oversigt:
+
+Hlg. P. og Holg. P. samme Holg. Pedersen:
+salmonsen/2/20/Pages/0007.txt:<i>Pedersen, H.</i>, Professor <i>(Hlg. P.)</i>
+salmonsen/2/25/Pages/0955.txt:<i>Pedersen, H.</i>, Professor, Dr. phil. <i>(Holg. P.)</i>
+
+Fr. V. Meyer mangler i den alfabetiske signatur oversigt:
+salmonsen/2/25/Pages/0955.txt:<i>Meyer, Fr. V.</i>, Ingeniør <i>(Fr. V. M.)</i>
+
+Bonaparte artiklen salmonsen/2/3/Pages/0685-690:
+Har en kompliceret struktur, med rigtig mange familiemedlemmer i samme artikel,
+nogle er fremhævet med fed andre ikke.
+
+Shiitter, Shiisme, shiitisk osv staves på to forskellige måde med c: Schiit og uden Shiit
+
+Diverse stavefejl:
+
+salmonsen/2/19/Pages/0900.txt:21:(Palazzo Pitti, Firenzze), der ved Holdningens
+
+salmonsen/2/1/Pages/0011.txt:Formlen for den saakaldte <sp>tavtologiske Dom</sp>
+  tautologisk er stavet med u alle andre steder.
+
+salmonsen/2/16/Pages/0853.txt
+<b>»Meddelelser om Grønland,</b> udgivne af
+et '»' for meget eller et '«' for lidt

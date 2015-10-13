@@ -1,0 +1,75 @@
+<table>
+<td>Side<td>Sp.
+<td r>527,<td c>2,<td>Linie<td r>12 f. o.<td><b>Störk</b> læs: <b>Stoerk</b>
+<td r>537,<td c>1,<td c>—<td r>32 f. n.<td><sp>Litt.</sp>: læs: <sp>Litt.</sp>: <sp>Adolf Stölzel</sp>, »C. G. S.« [Berlin 1885]
+<td r>544,<td c>1,<td>Linie<td r>12 f. o.<td>(1843—1903) læs: (1843—1908)
+<td r>564,<td c>2,<td>Linie<td r>9 f. n.<td>19 læs: 18
+<td r>674,<td c>1,<td c>—<td r>15 f. o.<td>1888 læs: 1880
+<td c>—<td c>1,<td c>—<td r>26 f. o.<td>Se Tommelise <sp>udgaar</sp>.
+<td r>675,<td c>1,<td>Linie<td r>20 f. o.<td>Gudesamtale læs: Gaadesamtale
+<td r>789,<td c>2.<td>Linie<td r>2 f. n.<td>1. April læs: 18. April
+<td r>790,<td c>2,<td>Linie<td r>12 f. o.<td><b>Swietochowski</b> læs: <b>Swiçtochowski</b>
+<td r>795,<td c>1.<td 3>Billedunderskriften. <i>Porcu</i> læs: <i>Porcus</i>
+<td r>1048,<td c>2,<td>Linie<td r>30 f. o.<td><b>Sønddmør</b> læs: <b>Søndmør</b>
+</table>
+
+<table>
+<td 5 c><sp>BIND XXIII</sp>.
+<td>Side<td>Sp.
+<td r>49,<td c>1,<td>Linie<td r>9 f. o.<td>1905 læs: 1903
+<td r>103,<td c>1,<td c>—<td r>8 f. o.<td>(<i>H. P. P.</i>) læs: (<i>H. P. S.</i>)
+<td r>115.<td c>2<td c>—<td r>9 f. o.<td>Bd 1-2 blev udg. 1768-73. Bd 3 kom 1784. og først<br>1848 udgaves af Pogodin Bd 4. læs: Bd 1-3 blev udg. 1768—74, Bd 4<br>kom 1784 og først 1848 udgaves af Pogodin Bd 5.
+<td r>164,<td c>2,<td>Linie<td r>27 f. n.<td>i G. A. Hagemannsgade 2, Kbhvn, <sp>udgaar</sp>.
+<td c>—<td c>2,<td>Linie<td r>5 f. n.<td>C. Busck-Nielsen læs: G. Busck-Nielsen.
+<td r>215,<td c>1,<td>Linie<td r>32 f. n.<td><i>H. H. G.</i> læs: <i>H. H. S.</i>
+<td r>280,<td c>1,<td c>—<td r>7 f. n.<td>1690 læs: 1700
+<td c>—<td c>1,<td c>—<td r>6 f. n.<td>1708 i Händel's »Rodrigo« i Firenze, og 1709 i hans<br>»Agrippina« i Venedig <sp>udgaar</sp>.
+<td r>336,<td c>1,<td>Linie<td r>11 f. n.<td>1772 læs: 1774
+<td r>363,<td c>1,<td c>—<td r>4 f. o.<td>(1874—1913) læs: (1874—1918)
+<td r>448,<td c>2,<td>Linie<td r>22 f. n.<td>efter [Oslo 1900] tilføjes: <sp>Jantzen</sp>, »Tidsbetragtning«<br>[Kria. 1919].
+<td r>451,<td c>1,<td>Linie<td r>23 f. n.<td>hvor Josija falder læs: jfr. Jer. 46, 2, 36, 9
+<td r>523,<td c>2,<td>Linie<td r>8 f. o.<td>(Præstelønningsloven af 4. Oktbr 1919 § 21) læs: (Lov om<br>Folkekirkens Lønningsvæsen indenfor Kjøbenhavn og Frederiksberg af 30. Juni 1922, § 33)
+<td r>527,<td c>1,<td>Linie<td r>11 f. n.<td>§ 6 læs: § 2
+<td c>—<td c>2,<td c>—<td r>27 f. o.<td>Forretningsmyndighed læs: Forvaltningsmyndighed
+<td r>528,<td c>2,<td>Linie<td r>16 f. n.<td>føres tilbage læs: fører tillige
+<td r>530,<td c>1,<td>Linie<td r>12 f. o.<td>Uafsættelighed, nemlig derved læs: Uafsætteligheden, nemlig derved
+<td r>531,<td c>1,<td>Linie<td r>2 f. o.<td>Staten læs: Etaten
+<td r>529,<td c>1,<td c>—<td r>13 f. o.<td>§ 20 læs: § 10
+<td r>692,<td c>1,<td c>—<td r>15 f. n.<td><i>D. H.-B.</i> læs: <i>D. H. B.</i>
+<td r>708,<td c>1,<td c>—<td r>12 f. o.<td>(<i>J. F.</i>) læs: (<i>Joh. F.</i>)
+<td r>747,<td c>2,<td c>—<td r>9 f. n.<td> <i>L. H.</i> læs: <i>(L. H.) P. F.</i>
+<td r>786,<td c>1,<td c>—<td r>7 f. o.<td>Juni læs: Januar
+<td r>833,<td c>2,<td c>—<td r>6 f. o.<td><i>D. B. B.</i> læs: <i>D. H. B.</i>
+<td r>885,<td c>1,<td c>—<td r>6 f. o.<td>under russisk Jødeforfølgelse læs; under en russisk<br>Jødeforfølgelse
+<td r>943,<td c>1,<td>Linie<td r>19 f. o.<td>Overskridelse læs: Overskridelser
+<td c>—<td c>1,<td>Linie<td r>20 f. o.<td>Justitsforordningen læs: Juliforordningen
+</table>
+
+<table>
+<td 5 c><sp>BIND XXIV</sp>.
+<td>Side<td>Sp.
+<td r>49,<td c>2,<td>Linie<td r>7 f. n.<td>1908 læs: 1909
+<td r>200,<td c>2,<td c>—<td r>12 f. n.<td>von læs: van
+<td c>—<td c>2,<td c>—<td r>11 f. n.<td>Eskino læs: Eskimo
+<td r>253,<td c>1,<td c>—<td r>21 f. o.<td><sp>Underretsdommer</sp> (stundom forkortet til Underdommer<br>eller blot Dommer) læs: <sp>Dommer</sp>
+<td r>266,<td c>1,<td>Linie<td r>34 f. o.<td>Kolding læs: Kallundborg
+<td r>593,<td c>2,<td>Linie<td r>ll f. o.<td><b>Vassilkov,</b> By læs: <b>Vasilkov,</b> By i
+<td r>606,<td c>2,<td>Linie<td r>26 f. o.<td>1874 læs: 1774
+<td r>667,<td c>1,<td c>—<td r>10 f. o.<td>sorterer læs: sorterer,
+<td c>—<td c>1,<td c>—<td r>25 f. o.<td>Anlæg. læs: Anlæg,
+<td c>—<td c>2,<td c>—<td r>22 f. n.<td>uden læs: enten
+<td c>—<td c>2,<td c>—<td r>12 f. n.<td>Klinterveje læs: Klinkerveje
+<td r>670,<td c>1,<td>Linie<td r>7 f. o.<td>bejdere, læs: bejder
+<td c>—<td c>1,<td c>—<td r>17 f. o.<td>Bivejen læs: Bivejene
+</table>
+
+<table>
+<td 5 c><sp>BIND XXV</sp>.
+<td>Side<td>Sp.
+<td r>136,<td c>1,<td>Linie<td r>12 f. o.<td>nærmest karakteriseres som teistisk læs: karakteriseres som<br>filosofisk-teistisk
+<td c>—<td c>1,<td>Linie<td r>15 f. o.<td>Guden læs: Gud
+<td r>463,<td c>1,<td c>—<td r>22 f. n.<td><i>F. F.</i> læs: <i>O. F.</i>
+<td r>572,<td c>2,<td c>—<td r>29 f. o.<td>Alexander læs: Alexandra
+<td c>2,<td>Linie<td 2>17 og 11 f. n.<td>Bankony læs: Bankowy
+</table>
+</chapter>

@@ -1,0 +1,83 @@
+Kul, den anden Elektrode er en svær
+Kulstang, der rager ned i den smeltede Masse, som
+altsaa er ledende for Strømmen.
+
+Fig. 6 viser en <sp>Karborundovn</sp>, skematisk
+fremstillet: Karborund (s. d.) fremstilles ved i
+en elektrisk Ovn at ophede en Blanding af
+Kiselsyre og Kulstof til høj Temp. Denne Blanding
+<i>D</i> (Fig. 6) pakkes uden om en Kerne <i>C</i> af
+granuleret Kul. Strømmen tilføres igennem
+Elektroderne <i>b</i>, der er opbyggede af Kulplader med
+mellemlagte Kobberplader (for at faa godt
+ledende Forbindelser til Kulpladerne). Naar
+Processen er forbi, er der uden om Kulstangen <i>C</i>
+(Fig. 7) dannet en Cylinder <i>S</i> af Karborund,
+medens den største Del af Blandingen er
+uforandret og kun har tjent til Varmeisolation. Fig.
+8 viser endelig en Karborundovn i Drift.
+
+Medens man ved de hidtil beskrevne Ovne
+benytter Vekselstrøm, kan til
+<sp>Aluminiumsovne</sp> kun benyttes Jævnstrøm, idet man her
+foruden Smeltning af
+Raamaterialet tillige tilsigter en
+Elektrolyse af dette. Uden
+nærmere at komme ind paa
+Fremstillingen af
+Aluminiumovne (se under
+<sp>Aluminium</sp>) skal kun her vises et
+skematisk Billede af en Ovn
+(Fig. 9). Ned i den smeltede
+Masse (Kryolit) dyppes
+Kulelektroderne (Anoder), der
+bæres af Kobberstænger. Selve
+den smeltede Masse
+indeholdes i en Smedejernskasse, i
+hvis Bund der er indbygget
+en Kulplade, hvorigennem
+Strømmen føres bort. Den
+viste Ovn er beregnet til en
+Strømstyrke af 3200 Ampère
+og en Spænding paa 7,5 Volt.
+Kraftforbruget af Ovnen er
+c. 1400 HK pr t
+Dagsproduktion ved 24 Timers Drift ell.
+c. 34 HK-Timer pr kg
+Aluminium. Lgn. Ovne finder
+Anvendelse til Fremstilling af Kalcium, Baryum, |
+Natrium o. a. Metaller.
+
+<sp>Induktionsovne</sp> er hovedsagelig
+angivne af Svenskeren <sp>Kjellin</sp>. Princippet i
+disse Ovne er, at den smeltede Substans, som
+skal holdes opvarmet, og hvori eventuelt faste
+Dele kan smeltes, flyder i en ringformet Rende
+og saaledes danner en lukket Ring af smeltet
+(elektrisk ledende) Materiale, hvilken Ring
+danner den kortsluttede Sekundærbevikling paa en
+Transformator (se <sp>elektriske Maskiner</sp>
+og <sp>Transformatorer</sp>), hvis Jernkerne
+omsluttes af ovenn. Ring, og hvis
+Primærbevikling er anbragt et ell. andet Sted i
+Transformatorens magnetiske Kredsløb, helst inden i
+Ringen af det smeltede Materiale, idet man
+herved faar den bedste Virkningsgrad af
+Transformatoren. Dennes Primærbevikling kan
+afpasses i Forhold til den forhaandenværende
+Spænding, der kan vælges ret høj, og man
+bliver derved fri for at anvende de svære
+Tilledninger, som jo er nødvendige ved de Ovne,
+hvor den til Opvarmningen nødvendige store
+Strømstyrke skal tilføres direkte. Den
+Omstændighed, at man her undgaar direkte
+
+<img>
+Fig. 8. Karborundovn i Drift.
+</img>
+<img>
+Fig. 9. Aluminiumovn.
+</img>
+<img>
+Fig. 10. Kjellin Ovn.
+</img>

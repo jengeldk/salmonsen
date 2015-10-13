@@ -1,0 +1,142 @@
+Kraftmaskiner, ligesom ogsaa i
+Arbejdsmaskiner som Kompressorer (f. Eks. Kølemaskiner)
+og Pumper. Ved saadanne Maskiner kan man
+med I. undersøge, dels hvor meget Arbejde
+der udvikles i Kraftmaskinerne ell. forbruges
+af Arbejdsmaskinerne, dels om disse Maskiner
+arbejder, som de skal, hvad man kan se paa
+Diagrammernes Form, ligesom man ogsaa ofte,
+naar de har Fejl, kan opdage disse ved Hjælp
+af Indikatordiagrammerne. Tillige anvendes I.
+til Undersøgelse af Trykvariationer i
+Ledninger for Vædsker, navnlig Vand, og for Luft,
+særlig i
+Blæseledninger. I saadanne
+Tilfælde er de i
+Forbindelse med et
+Urværk, der bevæger
+den Papirstrimmel,
+hvorpaa Diagrammet
+tegnes, forbi
+Skrivestiften, medens de,
+naar de anvendes til
+Undersøgelse af
+Maskinerne, er
+indrettede paa en saadan
+Maade, at Papiret
+bevæges frem og
+tilbage forbi
+Skrivestiften af en i
+Forbindelse med
+Maskinens Stempel
+staaende Maskindel, f. Eks.
+Stempelstangen eller
+Krydshovedet.
+
+Da Variationerne i
+Tryk i en Maskines
+Cylinder ofte kan
+være glanske pludselige og voldsomme, er
+det af Vigtighed, at Stemplet i I. baade
+er let og har en kort Vandring, idet
+ellers Skrivestiften p. Gr. a. Stemplets levende
+Kraft vil gøre for store Udslag og
+Diagrammet vise Uregelmæssigheder, som ikke har
+noget tilsvarende i Trykket i Cylinderen. Paa den
+anden Side ønsker man ogsaa at kunne faa et
+saa tydeligt Billede af Trykvariationerne som
+muligt, og man sætter derfor Stemplet paa
+en saadan Maade i Forbindelse med
+Skrivestiften, at denne viser Stemplets Udslag i
+forstørret Maalestok paa Diagrammet. Fig. 1 viser
+en I. saaledes, som den sædvanlig bruges til
+Undersøgelse af Trykforholdene i en Kraft ell.
+Arbejdsmaskines Cylinder, <i>b</i> er Stemplet, hvis
+Underside er i Forbindelse med
+Maskincylinderens Indre, medens dets Overside paavirkes
+af en Fjeder. Paa I., der skal anvendes ved
+Dampmaskiner, der arbejder med overhedet
+Damp, anbringes Fjederen ovenover
+Indikatorcylinderen, da dens Elasticitetsforhold ellers
+vilde blive forandrede ved den stærke
+Ophedning. Stempelstangen er ved en lille Plejlstang,
+<i>mH</i>, bragt i Forbindelse med Stangen <i>Hs</i>, der
+bærer Skrivestiften <i>s</i>, og denne Stang er atter
+ved Stængerne <i>R</i> og <i>a</i> styret paa en saadan
+Maade, at Skrivestiften, naar Stemplet <i>b</i>
+bevæger sig op og ned, beskriver en <sp>ret
+Linie</sp>, der er parallel med Stemplet <i>b</i>'s Akse.
+Om denne Akse kan det Dæksel, der foroven
+afslutter Cylinderen <i>d</i>, og som bærer
+Stængerne <i>R</i>, <i>a</i> og <i>Hs</i>, bevæges, og man er saaledes
+Herre over at kunne nærme Skrivestiften til
+Tromlen <i>T</i> ell. fjerne den derfra. Papiret,
+hvorpaa Stiften <i>s</i> tegner Diagrammet, lægges
+om Tromlen <i>T</i> og fastholdes af Fjedrene <i>f</i>;
+Tromlen drejes, ved at en Snor <i>i</i> er lagt om
+dens nederste Del og over Styrerullerne <i>rr</i> er
+ført hen til den Maskindel, hvorfra I. skal
+bevæges. Under Maskinstemplets Bevægelse
+drejes Tromlen omtr. een Omgang frem og
+tilbage. Man maa som Regel — f. Eks. ved
+Anbringelse af en »Reduktionsrulle« — sørge for,
+at Maskinstemplets Bevægelse i formindsket
+Maalestok overføres til Papirsrullen. Skete
+dette ikke, vilde man dels faa meget lange
+Diagrammer, dels vilde man risikere, at Tromlens
+levende Kraft gjorde sig gældende og paa
+samme Maade som ovf. omtalt for Stemplets
+Vedk. gav Anledning til Uregelmæssigheder.
+Ved hurtiggaaende Maskiner maa man endda
+træffe særlige Foranstaltninger, nemlig enten
+anvende meget smaa Papirstromler ell. gøre
+dem meget lette; ofte udføres de derfor af
+Aluminium. Forinden man lader I. tegne
+Diagrammet, bringer man Rummet under dens
+Stempel i Forbindelse med Yderluften — Hanen
+L er i dette Øjemed indrettet som
+Tregangshane — og man kan da lade Stiften tegne den
+til Yderluftens Tryk svarende Linie. Denne
+kaldes den <sp>atmosfæriske Linie</sp> og tjener
+som Udgangspunkt for Diagrammets
+Udmaaling.
+
+Den i Fig. viste I. er konstrueret af
+Rosenkranz. Der findes adskillige andre, saaledes
+Richard's vel den første I., som blev
+alm. anvendt af Maskinfabrikanter
+og Ingeniører, Thompson's og
+Crosby's m. fl. De er i Princippet ens,
+men afviger indbyrdes i Retning af
+Maaden, hvorpaa Skrivestiften er styret.
+Fjederens Anbringelse og andre
+konstruktive Enkeltheder, der for øvrigt kan have stor
+Bet. En særlig Form af Richard's I. tillader, at
+man efter hverandre tager en Række
+Diagrammer, der ikke dækker hverandre, men er
+indbyrdes forskudte paa samme Papir, saa at
+hvert enkelt fremtræder tydelig.
+
+Et vigtigt Hjælpemiddel er den ovf. omtalte
+Reduktionsrulle, ved hvilken Snoren fra
+Krydshovedet virker paa en større Rulle, medens
+Snoren til Papirströmlen gaar over en mindre
+Rulle, begge paa samme Aksel, og som tillader
+ved Ombytning af den mindre Rulle at benytte
+samme I. til Maskiner med meget forsk.
+Slaglængde. Haves ingen Reduktionsrulle, kan man
+ved at benytte et Vægtstangssystem opnaa det
+samme, dog paa en mindre bekvem og mere
+omstændelig Maade, der tilmed næppe giver
+saa nøjagtige Resultater.
+
+Ved et Indikatordiagram (Fig. 2) angiver
+Abscisserne Maskinstemplets Stilling i hvert
+givet Øjeblik og Ordinaterne de hertil svarende
+Tryk i Cylinderen. Hvilket Tryk der svarer til
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+

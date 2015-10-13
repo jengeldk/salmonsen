@@ -1,0 +1,144 @@
+Grundstoffet Selens elektriske Modstandsændring ved
+Lyspaavirkning bevirkede, at et stort Antal
+Forskere beskæftigede sig med Problemet
+elektrisk Overføring af Synsindtryk, paa samme
+Maade som Telefonen overfører Lyde.
+Fremstillingen af et saadant »elektrisk Øje«, der
+opfanger og gennem en Ledningsforbindelse til et
+fjernt Modtagerapparat umiddelbart synliggør
+Billeder som i et <i>Camera obscura</i>, støder paa
+overordentlige tekn. Vanskeligheder. De fleste
+Projekter til Muliggøreise af T. helt til de
+seneste Aar har derfor i Hovedsagen været
+praktisk uigennemførlige af saavel økonomiske
+som mekaniske Aarsager og som oftest kun
+rene Fantasier uden laboratoriemæssig
+Begrundelse. En tilfredsstillende Løsning af Opgaven
+foreligger næppe endnu udover en primitiv
+Tilnærmelse, der dog i nogen Grad lader Haab
+om, at Teknikken ogsaa med Tiden vil
+virkeliggøre denne Menneskeaandens gl. Drøm.
+
+Ganske som ved Billedtelegrafering (s. d.)
+maa ved T. en Overføring af Billedelementer
+finde Sted; kun er Kravet her langt mere
+omfattende, idet Afsenderobjektet ikke foreligger
+som en færdig fotografisk Reproduktion, men
+som et optisk Billede, f. Eks. projiceret paa
+Matglasskiven i et Kamera. Desuden maa
+Gengivelsen af Billedet i Modtagerapparatet ske
+paa lgn. umiddelbar Maade uden fotografisk
+Mellemled, saaledes at samtlige Billedelementer
+til enhver Tid er synlige som Lyspunkter, hvis
+varierende Intensitet bibringer Tilskueren et
+Slags kinematografisk Indtryk af
+Afsenderobjektet. Selv med en meget grov Tilnærmelse,
+hvor hvert Billedelement har en Størrelse paa
+1 mm<sup>2</sup>, vil dette med en Billedplan paa 5 X 5
+cm nødvendiggøre Overførelse af 2500
+Elementer. Da Øjet endvidere kræver omkr. 10
+Indtryk pr Sek. for at opfatte en vekslende
+Lystilstand som et samlet Hele, maa Apparatet
+følgelig kunne registrere mindst 25000
+Billedelementer i Sek. Efter Forslag af Senlecq,
+Coblyn o. m. a. tænkes Omsætningen af
+Billedelementer til elektriske Strømme udført paa
+forsk. Maader, der ligger mellem de to
+Yderligheder: enten at anvende lige saa mange
+lysfølsomme Celler (Selen e. l.) som
+Billedelementer ell. ogsaa lade disse i Rækkefølge paavirke
+en eneste Celle. Tilsvarende er
+Strømoverføringen til Modtagerapparatet foreslaaet udført
+enten med et stort Antal samtidige Kredsløb
+ell. med et enkelt Kredsløb, hvor Impulserne i
+Rækkefølge udsendes. Den teoretisk simpleste
+Løsning, hvor hvert Billedelement har sin
+særlige lyselektriske Celle med tilhørende
+Ledningsforbindelse, er selvsagt praktisk
+uoverkommelig. Heller ikke tillader Tekniken i sin
+nuv. Udvikling, at det nødvendige Antal
+Kredsløb med en af de kendte Metoder til
+Multiplekstelegrafi (s. d.) etableres paa samme
+Ledningsforbindelse. Gunstigere stiller Udsigterne
+sig ved traadløs Telegrafering, naar
+Bekostningshensyn og tekn. Vanskeligheder med
+Tiden overvindes, saaledes at samtidig
+Overføring af et stort Antal Tegn med forskellige
+Bølgelængder muliggøres. Resultater med T.
+er opnaaet med det af Mihály i Ungarn
+(1922) konstruerede Apparat, <sp>Telehor</sp>, der
+benytter en enkelt og meget følsom og
+hurtigt virkende Selencelle, paa hvilken det af
+et Objektiv dannede Billede ved Hjælp af et
+System af bevægelige Spejle reflekteres
+saaledes, at kun et enkelt Billedelement (c. 1 mm<sup>2</sup>)
+ad Gangen paavirker Cellen. Dennes
+varierende Modstand bevirker tilsvarende
+Forandringer af Strømstyrken i et elektrisk Kredsløb til
+Modtagerapparatet, hvor Strømmene efter at
+være forstærket gennem flere Termionrør (se
+<sp>Telefonforstærker</sp>) passerer en følsom
+Oscillograf, d. v. s. en ganske tynd (0,006 mm)
+Platintraad dannet som en Sløjfe, der er
+ophængt i et kraftigt Magnetfelt. Traadsløjfens
+Bevægelser under Strømpaavirkningen
+overføres til et let Spejl, der reflekterer en
+Lysstraale paa en Skærm med en særlig formet
+Udskæring (Diafragma), gennem hvilken der
+ved forsk. Stillinger af Spejlet passerer større
+ell. mindre Lysmængde. Lyset fra Diafragmaet
+samles af en Linse og projiceres paa en
+Billedplan ved Hjælp af et lgn. bevægeligt
+Spejlsystem som paa Afsenderstationen. Gennem
+pulserende Strømme i lokale Kredsløb fra
+enssvingende Stemmegafler af det fra la Cour's
+<sp>Tonehjul</sp> (s. d.) kendte Princip holdes
+Afsender- og Modtagerapparatets Spejlsystemer i
+nøjagtig samme Bevægelsestilstand
+(Synkronisme). Den paa Modtagerskærmen projicerede
+Lysplet vil derfor bevæge sig over
+Billedplanen og samtidig i hver Stilling have en
+Intensitet, der svarer til den øjeblikkelige Lysstyrke
+af det tilsvarende Billedelement af
+Afsenderobjektet. Bevægelsen sker endvidere saa
+hurtigt, at Lyspletten i Løbet af 1/10 Sek. har
+passeret samtlige Punkter i Billedplanen. Paa
+denne vil derfor vise sig et Billede af den
+Genstand, der holdes foran Afsenderapparatets
+Objektiv. Med Mihály's Telehor og i den aller
+nyeste Tid med Apparater, konstrueret af
+Englænderen Baird, er overført primitive
+Synsbilleder (Bogstaver og simple geometriske
+Figurer) ved Laboratorieforsøg. (<sp>Litt</sp>: <sp>D. v.
+Mihály</sp>, »Das elektrische Fernsehen und das
+Telehor« [Berlin 1923]).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telezker Sø">
+<b>Telezker Sø</b> [-'læts-], <sp>Teletzkoje</sp>
+[tje'ljætskåj<sub>æ</sub>], tatarisk <sp>Altynnor</sp> ell. -<sp>kul</sp> (den
+gyldne Sø), Sø i det vestlige Sibirien, Guv.
+Tomsk, ligger 163 km ØSØ. f. Biisk, 434 m
+o. H. mellem de teletzkiske og abakaniske
+Bjerge og er 478 km<sup>2</sup> stor. Søen, der er delt
+i to Afsnit og kendt for Fiskerigdom,
+gennemstrømmes af Bija eller Tsulychman.
+<i>(H. P. S.). M. V.</i>
+</chapter>
+
+<chapter name="Telford, Thomas">
+<b>Telford</b> ['te£fəd], <sp>Thomas</sp>, eng. Ingeniør,
+f. 9. Aug. 1757 i Westerkirk, Dumfriesshire, d.
+2. Septbr 1834 i London, var Søn af meget
+fattige Forældre og maatte tidlig begynde at
+gøre Nytte ved at vogte Kvæg. Han kom i
+Murerlære, blev Svend og gjorde sig i 30 Aars
+Alderen saa bemærket af en formaaende Mand,
+for hvem han arbejdede, at han ved dennes
+Hjælp blev <i>surveyor of public works</i> i
+Shropshire. 1793 valgtes han til Ingeniør ved
+Bygningen af Ellesmere-Kanalen, der forbinder
+Mersey, Dee og Severn, og efter at have
+fuldendt dette Arbejde, hvorved der forefaldt flere
+vanskelige Opgaver, navnlig

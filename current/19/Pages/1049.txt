@@ -1,0 +1,163 @@
+Iagttagerens Vertikal. Følgelig tager man ikke
+Hensyn til, at Luftlagene som Niveauflader til
+Jordellipsoiden er fladtrykte, og hvorved de
+over hverandre liggende Lag hælder noget mod
+hverandre, samt at den hydrostatiske Ligevægt
+ikke strengt finder Sted p. Gr. a. de langs
+Niveaufladerne stedfindende Lufttryk- og
+Temp.-anomalier. Herved vil der være en Forskel
+mellem den virkelige og den beregnede R. Har man
+saaledes et Temperaturfald ell. Barometerfald
+i Iagttagerens Vertikal, vil Lagene ikke være
+koncentriske. Der vil optræde en R. i Zenit. En
+større Fejlkilde har man deri, at de fleste
+Observationer foretages i Rum, der har en Temp.
+forsk. fra den ydre Luft, og denne Fejlkilde er
+af dobbelt Natur, idet der finder en Brydning
+Sted p. Gr. a. Temperaturforskellen ude og
+inde, og dernæst kan Luftlag af forsk. Temp.
+have en anden Beliggenhed mod Horisonten,
+hvorved der ligeledes kan opstaa forsk.
+Brydning. Det ideale vilde være, at ethvert
+Instrument stod fuldstændig i fri Luft, at altsaa dets
+Opbevaringshus kunde skydes ganske til Side.
+En tredie Fejlkilde har man i Foranderligheden
+af Temp.'s Aftagelse med Højden, altsaa en
+Forandring i Atmosfærens Konstitution. Heller
+ikke vil Luftens Dispersion være uden
+Indflydelse paa R.'s Størrelse. Ved Reduktion af
+Fotografier af himmelske Objekter maa der
+anvendes en anden Refraktionskonstant. Med de nu
+benyttede Værdier for Luftens
+Brydningseksponent vil den fot. R. konstant være 1,015 Gange
+den optiske; flg. maa den optiske R.
+multipliceres med denne Størrelse for at give den
+fotografiske. Af disse nævnte Fejlkilder vil
+Perturbationen i Luftlagene være den eneste, som
+kommer til at gøre sig gældende, naar man ikke
+observerer i større Zenitdistance end 70°. Fra
+85° virker alle disse Fejlkilder i en saadan
+Grad, at det ikke vil være muligt at gøre
+eksakte Observationer ved saa store Zenitdistancer.
+Som Regel kan man sætte, at i Zenitdistancer
+større end 80° bør der ikke anstilles astron.
+Observationer. De mest benyttede
+Refraktionstabeller er konstruerede af Bessel, Gyldén og
+Radau. Da Luftens Tæthed er større end
+Verdensrummets, vil Lysstraalen blive brudt til
+Indfaldsloddet, og Lysets Gang i Atmosfæren vil
+være en plan Krumlinie, hvis Konveksitet er
+vendt mod Vertikallinien gennem Iagttageren,
+og som er helt beliggende i Vertikalplanet
+gennem Stjernen. R. vil følgelig forandre Stjernens
+Højde og bevirke, at den observerede Højde er
+større end den sande Højde. Alle Stjerner viser
+sig altsaa for højt, og vi vil se dem, før de er
+komne over Horisonten. R. vil altsaa forlænge
+Stjernens Dagbue og forkorte dens Natbue.
+Forlængeisen afhænger af Stjernens Deklination =
+δ og Stedets Bredde = φ Sættes
+Horisontalrefraktionen til 35′, vil Dagbuens Forlængelse
+være = 4,7 Min. X √sec (φ+δ) <i>sec</i> (φ — δ). Ved
+Ækvator vil Forlængelsen ved R. ikke være fuldt
+5 Min., ved 50° Bredde gennemsnitlig 9 Min. Ved
+Polen forlænges p. Gr. a. R. den Tid, Solen er
+over Horisonten, med 2 Dage 22 Timer. I de
+polare Egne vil R. i Horisonten ofte være c. 1 1/2°,
+fordi de nederste Luftlag er meget tætte p. Gr.
+a. den lave Temp.
+
+P. Gr. a. R. vil Solen og Maanen i Horisonten
+vise sig meget fladtrykte, idet den vertikale
+Diameter forkortes med omtr. 6′, medens den
+horisontale bliver uforandret. Er nemlig den
+nedre Rand i Horisonten (R. = 35′), vil den
+øvre være i 89,5° Zenitdistance, hvor R. = 29′.
+(<sp>Litt</sp>.: <i>Table de refraction de l'Observatoire
+de Poulkovo</i> [1905]; <sp>Bemporad</sp>, »Refraktion
+und Extinktion, Encl. der math.
+Wissenschaften«, VI, 2., Astronomie, I, 6. [1905—23]; <sp>L. de
+Ball</sp>, <i>Tables de refraction</i> [1906]; <sp>Jordan</sp>,
+»Handbuch der Vermessungskunde« II
+[Stuttgart 1914]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Refraktionsanomalier">
+<b>Refraktionsanomalier</b> er en
+Fællesbetegnelse for de forsk. Brydningsforhold i Øjet, der
+afviger fra Emmetropi (s. d.). R. omfatter Myopi
+(s. d.), Hypermetropi (s. d.) og Astigmatisme
+(s. d.).
+<i>G. N.</i>
+</chapter>
+
+<chapter name="Refraktometer">
+<b>Refraktometer</b> er et Apparat til Maaling
+af Lysbrydningskoefficienten hos Vædsker og
+Opløsninger. Saadanne Apparater er
+konstruerede vl. a. af <sp>Abbe</sp> og af <sp>Pulfrich</sp>. I den
+kem. Analyse anvendes de f. Eks. til Smør- og
+Mælkeundersøgelser og kan anvendes til at
+bestemme Mængden af bestemte Stoffer i
+Opløsninger, idet Brydningskoefficienten ændrer sig
+med Stoffets Koncentration i Opløsningen;
+f. Eks. kan Glycerinindholdet i vandige
+Opløsninger ell. en vandig Opløsnings Indhold af
+Vinaand bestemmes med R.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Refraktor">
+<b>Refraktor,</b> se <sp>Kikkert</sp>.
+</chapter>
+
+<chapter name="Refrangibilitet">
+<b>Refrangibilitet</b> (lat.), Brydbarhed, Evne til
+at brydes, se <sp>Brydning</sp>, Lysets.
+</chapter>
+
+<chapter name="Refrigerantia">
+<b>Refrigerantia</b> (lat.), kølende Lægemidler —
+udvendig, f. Eks. Blyvand, Coldcream;
+indvendig de forsk. Julaper, kølende Pulver o. s. v.
+</chapter>
+
+<chapter name="Refrigerator">
+<b>Refrigerator,</b> se <sp>Kølemaskiner</sp>, S. 160.
+</chapter>
+
+<chapter name="Refs">
+<b>Refs,</b> <sp>Herred</sp> i det nordvestlige
+Nørrejylland, Tisted Amt, omfatter den sydlige Del af
+Ty med Halvøen Tyholm og begrænses mod N.
+af Hassing Herred, medens det i øvrigt omgives
+af Limfjorden (Visby Bredning, Næssund,
+Skibsted Fjord, Kaas Bredning, Oddesund og
+Nissum Bredning) og Vesterhavet, idet Aggertangen
+N. f. Tyborøn Kanal og Nordspidsen af
+Harboøre Tangen S. f. Konalen ogsaa hører
+til Herredet (det sidste Stykke grænser til
+Ringkøbing Amt, Vandfuld Herred). Til
+Herredet hører Jegindø. Medens Vestsiden af
+Herredet forløber temmelig ensformig, er
+Østkysten ret uregelmæssig og en Del
+indskaaren, navnlig af Skibsted Fjord, der næsten helt
+afskærer Tyholm, som kun forbindes med Ty
+ved den smalle Tange Draget. Dets Udstrækning
+fra NV. til SØ. er 32 km med en største Bredde
+af c. 12 km. Hele Arealet er 237,1 km<sup>2</sup>, og 1. Febr
+1921 fandtes her 2940 Gaarde og Huse med
+13332 Indb. (1901: 117S2, 1850: 8495, 1801: 5101),
+altsaa 56 pr. km<sup>2</sup>, hvilket efter vestjydske
+Forhold er særdeles godt. Den Del af Ty (s. d.),
+der hører til Herredet, er i Midten temmelig
+højtliggende med Ty's højeste Punkt, Ashøj
+(93 m), og i det hele bølgeformet; Tyholms
+Overflade er mere lavtliggende (højeste Punkt er
+Vagthøj, 41 m). I Nordgrænsen ligger Flade Sø
+og Ørum Sø. Jorderne er af forsk. Beskaffenhed,
+dog for en stor Del gode, stærkt lerede.
+Herredet er skovfattigt, men har dog flere nyere
+Plantager. M. H. t. Frugtbarhed hører det til
+Amtets bedste Herreder, idet der i Gennemsnit

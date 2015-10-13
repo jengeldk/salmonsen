@@ -1,0 +1,84 @@
+ovenfra. Det bevægelige System er ophængt i
+et tyndt Metalbaand. Forneden er der en
+Aluminiumskive, som gaar gennem Luftrummet af
+en Staalmagnet og tjener til at dæmpe
+Bevægelsen. Ved Jævnstrømsanlæg er der den
+Fordel ved at anvende statiske Voltmetre til
+Maaling af Spændingen i Fødepunkter, at
+Maaleledningernes Modstand ikke spiller nogen
+Rolle, da Voltmetret ingen Strøm bruger.
+Mellem de bevægelige og faste Dele er der en vis
+ringe Kapacitet. Ved Vekselstrøm bruger
+Voltmetret derfor en lille Ladestrøm, men den er
+i Reglen praktisk talt forsvindende lille, hvad
+der er en stor Behagelighed ved adskillige
+Anvendelser, ligesom statiske Instrumenter inden
+for meget vide Grænser viser rigtigt uden
+Hensyn til Periodetal og Kurveform.
+
+Ved meget høje Spændinger bruges
+som Laboratorieinstrumenter statiske
+Voltmetre, der i Hovedsagen bestaar
+af en fast Plade og en derovenover
+ophængt bevægelig Plade, som hænger
+i en Fjedervægt. Begge Elektroder
+befinder sig i Olie. Fig. 20 viser et
+saadant Voltmeter fra Siemens &
+Halske til 150000 Volt. Hele Apparatet er
+c. 2 m højt. Man ser ikke de
+virksomme Plader, men kun forneden et
+Metalfad og foroven en Kuglekalot, som er
+ledende forbundet med henh. den faste
+og den bevægelige Plade, og som
+tjener til at befri de
+virksomme Plader for de ved Randen
+optrædende Uregelmæssigheder.
+
+5) <sp>Induktionsinstrumenter</sp>. Fig.
+21 viser skematisk Princippet i et saadant
+Instrument af Siemens & Halske's Konstruktion.
+Vekselstrømmen i den tykke Bevikling og
+Vekselstrømmen i den tynde Bevikling paa de to
+Par Polben frembringer i den centrale
+Jernkerne to paa hinanden vinkelrette Felter. Hvis
+de to Felter er lige store og det ene i Fase
+forskudt 1/4 Periode i Forhold til det andet, vil
+de tilsammen frembringe et roterende Felt, som
+i Jernkernen drejer sig en Omdrejning i Løbet
+af en Periode. I en Aluminiumstromle, som er
+skudt ind over Jernkernen og bevægelig om en
+Akse, vil der opstaa inducerede Strømme
+(Hvirvelstrømme), som søger at trække den med
+rundt. Dette hindres ved Fjedre. Ved
+Ampèremetre og Voltmetre er de to Sæt Beviklinger
+parallelt forbundne (se Fig. 21), og Fjedrene
+virker paa en med Udslaget voksende Arm.
+Ved Wattmetre benyttes de to Sæt henholdsvis
+som Strømspolen og Spændingsspolen i Fig. 11.
+Ved at kombinere Spændingsspolen med en
+stor Induktionsspole og en Modstand kan man
+opnaa, at der bliver 1/4 Periodes
+Faseforskydning mellem de to Felter, naar Strøm og
+Spænding har samme Fase. Wattmetret vil da vise
+rigtigt ved en hvilken som helst Faseforskydning
+mellem Strøm og Spænding.
+
+6) <sp>Kaloriske Instrumenter</sp>. Fig.
+22 viser et kalorisk Voltmeter af Hartmann &
+Braun's Fabrikat. Strømmen gaar gennem en
+Forlagsmodstand og en tynd vandret Metaltraad
+(Platin-sølv-legering c. 0,06 mm Diam., 16 cm
+
+<img>
+Fig. 20. Statisk Voltmeter til 150000 Volt.
+</img>
+<img>
+Fig. 21. Induktionsinstrument.
+</img>
+<img>
+Fig. 22. Kalorisk Ampèremeter, Skalaen svinget til Siden.
+</img>
+<img>
+Fig. 23. Symmetrisk Anordning af Metalbaand ved
+Ampèremeter til meget højt Periodetal.
+</img>

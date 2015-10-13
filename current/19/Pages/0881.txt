@@ -1,0 +1,16 @@
+<sp>RADIOTELEGRAFI</sp>. III.
+
+<img></img>
+
+Fig. 28. 3-Elektroderør. <i>B<sub>f</sub></i> Glødebatteriet, der tjener til Opvarmning af Glødetraaden <i>f</i>; <i>B<sub>g</sub></i> Gitterbatteriet, der giver Gitteret Spændingen <i>V<sub>g</sub></i> i Forhold til Glødebatteriets negative
+Pol. <i>B<sub>p</sub></i> Plade- eller Anodebatteriet, der giver Pladen Spændingen <i>V<sub>p</sub></i>. Den tilsvarende Pladestrøm er <i>J<sub>p</sub></i>. Gitterspændingen er hyppig negativ, og i saa Fald gaar der ingen Elektroner
+over til Gitteret, saaledes at Gitterstrømmen <i>Jg</i> bliver Nul eller i hvert Fald meget ringe. — Fig. 29. Skematisk Fremstilling af Elektronrør med 3 Elektroner. Naar Gitteret er
+tilstrækkelig negativt, afbryder det Strømmen gennem Røret. — Fig. 30. Elektronrør, hvis Anode bestaar af en udvendig Kobbercylinder. — Fig 31 2- (<i>J<sub>p</sub></i> <i>V<sub>g</sub></i>) Karakteristikker for
+de konstante Pladespændinger <i>V<sub>o</sub></i>, <i>V<sub>o</sub></i> + <i>k</i> og <i>V<sub>o</sub></i> + 2<i>k</i> Volt. <i>k</i> Rørets Voltforstærkningsfaktor. <i>Js</i> Emissions- ell. Mætningsstrømmen (se <sp>Termionemission</sp>) — Fig 32 Skematisk
+Diagram til Belysning af Fremkomsten af Rørets negative Modstand. Efter Tilføjelse af den med punkterede Linier viste Kondensator <i>C</i> fremkommer Diagrammet for en simpel
+Rørgenerator, hvis Svingningers Frekvens er bestemt ved den af <i>L</i> og <i>C</i> dannede Svingningskreds. — Fig. 33. Maste- og Antenneanlæg paa Bordeauxstationen. Der findes 8 Stk. 250 m
+høje Taarne i en indbyrdes Afstand af 400 m. Antennens Længde er saaledes 1200 m, dens Bredde 400 m. — Fig. 34 Forskellige Typer af Antenner. <i>I</i>. Simple Lufttraade, benyttet af
+Marconi i de første Forsøg paa baade Sender og Modtager. <i>IIa</i> og <i>b</i>. T-Antenne med 4 vandrette Traade; sker Tilledningen til den ene Ende af den vandrette Del som antydet ved
+Linien <i>xy</i>, kaldes Nettet en L-Antenne <i>III</i>. En Paraply-Antenne. <i>IV</i>. Eksempel paa en Ballon-Antenne. <i>V</i>. Eksempel paa en Antenne til en Flyvemaskine (Todækker) <i>H</i> angiver den
+omtrentlige Værdi af den virksomme Højde. (I Fig. 34 V. er den virksomme Højde 2 <i>H</i>). I Stedet for de viste Gnistbaner vil ofte indgaa Traadruller, ved hvis Hjælp Svingningerne
+fra en Primærkreds overføres til selve Luftnettet. — Fig. 35. Parabolsk Cylinder som Radiospejl. Antennen <i>A</i> befinder sig i Parablens Brændpunktslinie.

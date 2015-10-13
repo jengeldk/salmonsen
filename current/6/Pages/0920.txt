@@ -1,0 +1,128 @@
+Hvirvelstrømme og Felter, og ved rigtig Indstilling bliver
+Drejningskraften proportional med Produktet
+Strøm X Spænding X cosinus til
+Faseforskydningen mellem Strøm og Spænding, d. v. s.
+Effekten. - Naar Skiven drejer sig,
+bremses den af den permanente
+Staalmagnet, ganske som ved andre
+Maalere med en Kraft, der er
+proportional med
+Omdrejningshastigheden. Denne bliver derfor
+proportional med Effekten, og
+Tælleværkets Fremgang i en vis Tid
+proportional med Effekten X Tiden, d. v.
+s. med Forbruget i Watttimer (ell.
+Kilowatttimer). - Til Kompensation
+af Gnidningsmodstanden giver man
+Spændingsmagneten en Usymmetri ved Tilføjelse af et lille
+Stykke Jern, som kan indstilles forsøgsvis.
+Derved kan man nemlig opnaa, at Spændingsfeltet
+alene paavirker Skiven til Drejning, og denne
+Paavirkning indregulerer man, indtil den netop
+opvejer Gnidningsmodstanden.
+
+Ved Maalere til 3-faset Strøm (uden
+Nulleder) udkræves to trækkende
+Vekselstrømssystemer, der forbindes til det 3-fasede Net som
+vist paa Fig. 13. - De to Systemer kan enten
+virke paa samme Skive ell. paa to Skiver, som
+er fæstede over hinanden paa samme Akse. En
+3-faset Maaler af sidstnævnte Form med aftaget
+Kappe er vist paa Fig. 14.
+
+E. viser naturligvis aldrig helt rigtigt.
+Fig. 15 giver et Begreb om, hvilke Fejl
+man med Rimelighed maa finde sig i, idet
+den for fire virkelig prøvede
+Vekselstrømsmaalere, betegnede 2, 4, 5 og 6, i Kurveform
+angiver, hvor mange % vedk. Maaler viser for
+meget ell. for lidt, lige fra 2 % af den
+nominelle fulde Belastning, til 20 % over fuld
+Belastning. De punkterede Linier viser Grænserne
+for, hvilke Fejl man anser for tilladelige fra
+5-100 % af fuld Belastning. Mellem Maaler 2
+og Maaler 6 er der en karakteristisk Forskel.
+Nr 6 viser for lidt ved ganske smaa Belastninger.
+Kompensationen af Gnidningsmodstanden er
+utilstrækkelig. Ved Nr 2 er derimod
+Kompensationen for kraftig, hvorfor Maaleren viser en
+Del for meget ved ganske smaa Belastninger.
+Naar der slet intet Forbrug finder Sted, gaar
+Maaleren dog ikke rundt, da der paa et
+enkelt Sted af Omdrejningen er en Hindring i
+Form af et lille Stykke Jern fæstet paa
+Bremseskiven, som ikke kan komme forbi
+Bremsemagneten, uden der gaar en vis ringe
+Strøm. For Elektricitetsværkerne er det
+navnlig af Interesse, at Maalerne i Lysinstallationer
+allerede gaar i Gang. selv naar kun en enkelt
+lille Glødelampe er tændt.
+<i>Abs. L.</i></chapter>
+
+<img>
+Fig. 15. Fejlkurver.</img>
+
+<chapter name=”Elektricitetsmængde”>
+<b>Elektricitetsmængde,</b> se <sp>elektriske
+Maaleenheder</sp> og <sp>Elektrostatik</sp>.</chapter>
+
+<chapter name=”Elektricitetsværk”>
+<b>Elektricitetsværk,</b> se <sp>elektriske
+Kraftstationer</sp>.</chapter>
+
+<chapter name=”Elektriker”>
+<b>Elektriker</b> kaldes en Haandværker, som er
+specielt uddannet i Udførelsen af elektriske
+Arbejder: Ophængninger af Ledninger,
+Montering af Brugsgenstande, Maskiner o. l. Til
+selvstændig Udførelse af elektriske Anlæg
+kræves nu overalt særlig Autorisation, som
+for alm. Installationers Vedk. efter en forud
+aflagt Prøve gives af de forsk.
+Elektricitetsværker, medens der
+til Udførelse af
+Højspændingsanlæg samt Installationer i særlig
+farlige (fugtige) Rum kræves
+Autorisation af
+Elektricitetskommissionen.
+<i>R. J. J.</i></chapter>
+
+<chapter name=”elektrisere”>
+<b>elektrisere,</b> gøre elektrisk.</chapter>
+
+<chapter name=”Elektrisermaskine”>
+<b>Elektrisermaskine,</b> en
+Maskine, der frembringer
+Elektricitet ved Gnidning ell. elektrostatisk
+Fordeling. I
+Gnidningsmaskinerne er det sædvanlig en Glasskive (<i>A</i> i Fig.
+1), der gøres elektrisk ved Gnidning. Ved Hjælp
+af Haandtaget <i>k</i> drejes den om Aksen <i>i</i>, der
+bæres af Glasstængerne <i>h h</i>. Den yderste Del
+af Aksen er af Glas og kan støttes af en
+Træsøjle. Man gør dog ogsaa ofte baade Aksen og
+dens Støtter af Træ. Skiven gnides mellem to
+Læderpuder, der er indfedtede og bestrøede
+med en pulveriseret Blanding af Tin, Zink og
+Kviksølv (»Amalgam«). Ved en Metalbøjle, der
+bæres af Glasstangen <i>f</i>, og hvis Evne til at
+optage Elektricitet er forstørret ved
+Tilføjelse af de to Metallegemer <i>c c</i>,
+der danner den negative »Konduktor«, trykkes
+Gnidepuderne ind mod Skiven. Ved Gnidningen
+bliver Skiven positiv elektrisk,
+medens Gnidetøjet faar en lige saa
+stor negativ Ladning. For at Skiven ikke før
+Tiden skal tabe sin Ladning, anbringer man
+ofte en Silkehætte <i>e</i> omkr. det Parti af den,
+der under Omdrejningen bevæger sig fra
+Gnidetøjet hen til »Kammene« <i>b d</i>. Disse dannes af
+to Metalgrene, undertiden formede som Ringe,
+der tilsammen danner en Gaffel, som griber
+ind over Skivens Rand. Grenene er paa den
+Side, der vender mod Glaspladen, besatte med
+Metalspidser, der peger ind mod Skiven uden
+at berøre den. Den positive Skive trækker
+
+<img>
+Fig. 1. Gnidningsmaskine.</img>

@@ -1,0 +1,64 @@
+Strømtilledning til Badet, medfører tillige den Fordel,
+at dette ikke forurenes af det destruerede
+Elektrodemateriale; man faar et særdeles rent
+Produkt ved denne Metode. Induktionsovnene har
+navnlig vundet Udbredelse i Staalfabrikationen.
+Fig. 10 viser Udførelsen af en <sp>Kjellin-Ovn</sp>
+rent skematisk. <i>C</i> er Transformatorens
+Jernkerne, <i>D</i> er Primærbeviklingen, som naturligvis
+paa passende Maade maa beskyttes imod
+den i den smeltede Masse herskende høje
+Temp. <i>A</i> er den cirkulære Rende, hvori den
+smeltede Masse befinder sig, og hvori altsaa de
+sekundære Strømme forløber. Aftapningen
+af det færdige Staal sker igennem den paa
+Fig. viste Tud. For at undgaa unødvendigt
+Varmetab og Iltning af det smeltede Staal er
+Renden <i>A</i> lukket med Dækslerne <i>B</i>. En
+større Ovn til 1000 HK Energiforbrug er
+vist i Fig. 11. Transformatorens ene
+Jernkerne bære her en Drejekran, som benyttes
+til at løfte Dæksierne <i>B</i> (Fig. 10). Da den
+sekundære Staalvinding i Transformatoren dels
+p. Gr. a. det store Tværsnit, dels og
+hovedsagelig p. Gr. a. sine magnetiske Egenskaber
+frembyder stor induktiv Modstand imod
+Strømmen, anvender man i Reglen ved disse Ovne
+lave Periodetal: 5-15 Perioder pr Sekund,
+hvilket derfor kræver særlige dertil konstruerede
+Generatorer. Der angives for en 1000 HK-Ovn
+flg. Data: 736 KW, 4800 Volt, 5 Perioder pr
+Sek., cos φ = 0,63. Energiforbruget i disse
+Ovne retter sig naturligvis efter Ovnenes
+Størrelse, idet de procentvise Varmetab
+aftager med voksende Ovnstørrelse; saaledes
+angives Energiforbruget pr t Staal til 1200 KWT
+ved en 61 KW's Ovn, medens det ved en 1000
+KW's Ovn kun er 600 KWT.
+
+Ved <sp>elektriske Lysbueovne</sp> sker
+Opvarmningen ved Hjælp af en elektrisk Lysbue,
+dannet imellem to Elektroder, der enten kan
+bestaa af det Materiale, der skal ophedes
+(smeltes), ell. den ene Elektrode kan være Kul, den
+anden det smeltede Materiale, ell. endelig kan
+begge Elektroderne være Kulstænger, saaledes at
+den af Lysbuen udviklede Varme ved Straaling
+ell. Ledning overføres til det Materiale, der skal
+ophedes. Lysbueovne er meget anvendte. Til
+Fremstilling af <sp>Karbid</sp> anvendes en Ovn (Fig.
+12), der meget ligner den tidligere omtalte
+Modstandsovn (Fig. 5). Den adskiller sig fra denne
+derved, at Kulelektroden <i>C</i> efter at være
+dyppet ned i det smeltede Materiale trækkes et
+lille Stykke op igen, hvorved der dannes en
+Lysbue; der kan da anvendes en højere
+Spænding og tilsvarende mindre Strømstyrke end ved
+Modstandsevnen. Efterhaanden, som Kulstangen
+
+<img>
+Fig. 11. Kjeliin Ovn, 1000 HK.
+</img>
+<img>
+Fig. 12. Lysbueovn til Karbidfremstilling.
+</img>

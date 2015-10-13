@@ -1,0 +1,99 @@
+Størrelse afhænger af den Intensitet, hvortil
+Jernet overhovedet har været magnetiseret, og
+den kan have alle Værdier mellem 0 og den
+til forudgaaende Mætning svarende Værdi <i>OK</i>.
+De forsk. Jernsorter har meget forsk. Værdier
+for Remanens og Koercitivkraft, alt efter deres
+kem. Sammensætning. Fig. 4 viser 4
+Hysteresekurver; som Abscisse er afsat den
+magnetiserende Kraft <i>H</i>, som Ordinat
+Magnetiserings-intensiteten <i>J</i>. Kurve 1 gælder for meget blødt
+Jern; Kurve 2 for uhærdet Staal med et
+Kulstofindhold paa 0,7 %, altsaa omtr. af den
+Sammensætning, som anvendes i alm.
+Hammerhoveder; Kurve 3 for en god Type Magnetstaal,
+Wolframistaal; Kurve 4 for Manganstaal med
+10 % Mangan.
+
+<sp>Den magnetiske Induktion B.</sp> Det
+magnetiske Felt inden i en Magnet maa være
+meget uensartet, idet det f. Eks. i to meget
+nærliggende Punkter maa kunne gaa i helt
+modsatte Retninger, alt efter Punkternes Plads
+i Forhold til de nærmeste Smaamagneter. Man
+indfører derfor to praktisk vigtige
+Middelværdier: den magnetiske Kraft <i>H</i> og den
+magnetiske Induktion <i>B</i>. <sp>Den magnetiske
+Kraft</sp> <i>H</i> inde i Jernet bestemmes ved
+Coulomb's Lov, idet man ser bort fra alle de
+enkelte Smaamagneter og i Stedet derfor regner
+med den tilsvarende fri M. Er en Jernstang
+saaledes homogent magnetiseret, d. v. s. er
+alle Smaamagneterne lige stærke og ordnede
+i parallelle Rækker, vil der kun være fri M.
+paa Jernstangens Ender, idet sammenstødende
+Poler af to Nabo-Smaamagneter vil ophæve
+hinanden; man faar da <i>H</i> bestemt overalt i
+Rummet, baade uden for og inden i Jernet,
+ved at tænke sig Magneten fjernet og erstattet
+med et Lag Nord-M. og et Lag Syd-M., anbragt
+paa Polernes Plads, og indeholdende lige saa
+megen M. som de opr. Poler; <i>H</i> beregnes da
+som den fra disse Lag og fra mulig
+tilstedeværende andre Magneter og elektriske
+Strømme hidrørende Kraft. Anbringes et Stykke
+blødt Jern i et magnetisk Felt, vil Kraften <i>H</i>
+i et Punkt inde i Jernet være mindre, efter at
+Jernet er anbragt, end den var i samme Punkt
+i Feltet, før Jernet kom; de inducerede Poler
+paa Jernstykket virker med en
+<sp>afmagnetiserende Kraft</sp> paa Jernstykket selv. Idet
+Feltet repræsenteres ved Kraftlinier baade
+uden for og inden i Jernet, maa disse ifølge
+Definitionen altid begynde i Nord-M. og ende
+i Syd-M.; herfra maa dog undtages de fra
+elektriske Strømme hidrørende Kraftlinier, der
+altid er lukkede Kurver. Middelværdien <i>H</i> er
+indført, fordi det er den, som har Interesse
+ved Beregningen af Magnetfeltet om en
+elektrisk Strømleder. <i>H</i> kan tænkes maalt ved
+i Jernet at bore en snæver Kanal i
+Magnetiseringsretningen, anbringe en Nordpol derinde
+og maale den Kraft, hvormed den paavirkes.
+<sp>Den magnetiske Induktion</sp> <i>B</i>
+defineres nu ved Ligningen <i>B=H-4 π J</i>. Lægges
+en Spalte gennem et Punkt i en Magnet
+vinkelret paa Magnetiseringsretningen, vil der paa
+en Nordpol anbragt i det dannede Mellemrum
+virke to Kræfter, nemlig baade den magnetiske
+Kraft <i>H</i>, bestemt som ovf. omtalt, og den
+Kraft, som kommer fra de Smaamagnetpoler,
+som blev fri ved Overskæringen; denne sidste
+Kraft kan vises at være <i>4 π J</i>, hvor <i>J</i> er
+Magnetiseringsintensiteten paa Snitfladen, og den
+samlede Kraft bliver derfor <i>H+4 π J</i>. Som det
+ndf. skal omtales, er i Virkeligheden alle
+Legemer noget magnetiserbare, om end som Regel
+kun yderst svagt. Man opretholder derfor den
+givne Definition af Induktionen <i>B</i> i <sp>alle</sp>
+Legemer, idet saa <i>J</i> betyder
+Magnetiseringsintensiteten paa en Snitflade vinkelret paa
+Magnetiseringsretningen og gaaende gennem det
+betragtede Punkt, hvilket Legeme dette end
+befinder sig i. For Praksis har denne Udvidelse
+ikke synderlig Interesse, for saa vidt som <i>J</i>
+praktisk talt er 0 for alle Legemer, undtagen
+Jern; derfor bliver for langt de fleste Legemer
+<i>B=H</i>; dette er saaledes Tilfældet i Luft; men
+Udvidelsen har meget stor teoretisk Værdi. —
+Anbringes et Stykke blødt Jern i et magnetisk
+Felt, vil begge Kræfterne <i>H</i> og <i>4 π J</i> gaa i
+samme Retning inde i Jernet; den magnetiske
+Induktion i Jernet vil derfor være større, i
+Praksis mange Gange større, end den
+magnetiske Kraft i det paagældende Punkt i
+Jernet. Da <i>B</i> er en Kraft ligesom <i>H</i>, kan dens
+Forløb repræsenteres ved Kurver,
+<sp>Induktionslinier</sp>; disse Linier ligger altsaa
+
+<img>Fig. 4.</img>

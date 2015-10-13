@@ -1,0 +1,164 @@
+Trindybden 1 mm, vil Opløsningsevnen være c.
+500000. Naar den her bliver saa stor, skønt det
+samlede Antal Spalter kun er 20, ligger det i, at
+Vejforskellen mellem Straaler fra paa hinanden
+flg. Spalter bliver meget betydelig, hvad der
+svarer til en meget høj Orden af Spektrene.
+Til Gengæld har Gitret den Ulempe, at
+Spektrene af de forsk. Ordener griber forstyrrende
+ind over hverandre, hvorved Tolkningen af, hvad
+der ses, bliver vanskelig.
+
+De Bøjningsfænomener, der omtaltes i
+Indledningen, er Gitterfænomener. Man vil ogsaa let
+blive opmærksom paa Spektrene i Striberne fra
+en Lygte. Af Gittervirkninger, der forekommer
+i Naturen, kan nævnes Farvespillet paa
+Perlemor, paa visse Fugles Fjer og paa visse
+Insekters, f. Eks. Træbukkes, fint ridsede
+Lydapparater.
+
+Af andre Bøjningsfænomener, der hyppigt kan
+iagttages i Naturen, maa særlig nævnes dem, der
+skyldes Bøjning om smaa meget nær ens store
+Partikler. Idet disse i Alm. vil være
+fuldstændig uregelmæssig fordelte, bliver det
+Bøjningsfænomen, der her fremkommer, det samme
+som det, den enkelte Smaadel vil frembringe
+— modsat, hvad der finder Sted ved Gitret,
+hvis Bøjningsbillede er helt forsk. fra den
+enkelte Spaltes — blot saa mange Gange
+lysstærkere, som der er Smaadele. Eksempler er
+de smaa Ringe om Sol og Maane, der kan
+skyldes Taagedraaber, Ispartikler ell. vulkansk Støv.
+Jo finere Partiklerne er, desto bredere bliver
+Ringene, jo mere ens de er i Størrelse, desto
+renere bliver Farverne. Ogsaa fin Dug, især i
+frossen Tilstand, paa en Rude kan vise
+Bøjningsringe. Ligesom ved andre
+Bøjningsfænomener ligger den violette Farve i Ringene
+nærmest Midten, den røde yderst. (<sp>Litt.</sp>: <sp>I
+Winkelmann</sp>'s »Handbuch der Physik«, Bd V,
+Optik, findes en indgaaende Behandling af B.
+med Litteraturhenvisninger. Anbefales kan: <sp>R.
+W. Wood</sp>, »Physical Optics« med talrige
+eksperimentelle Vink. En god, ret populær
+Fremstilling i <sp>Müller-Pouillet</sp>, »Lehrbuch der
+Physik«, Bd 2. Optik).
+<i>E. S. J.</i>
+</chapter>
+
+<chapter name="Bøjning (Bjælke)">
+<b>Bøjning.</b> En Bjælke siges at være paavirket
+til B., naar den angribes af Kræfter, der er
+vinkelrette paa Længderetningen, Den hermed
+følgende Formforandring bestaar i en
+Nedbøjning af Bjælken, og herved vil nogle (de
+nederste) Fibre i Bjælken forlænges, altsaa paavirkes
+til Træk, andre (de øverste) forkortes,
+sammentrykkes, medens et enkelt Fiberlag, den
+neutrale Flade, vil beholde sin Længde. Under
+visse tilnærmende Forudsætninger kan man nu
+ad teoretisk Vej finde Paavirkningens Størrelse
+i alle Bjælkens forsk. Punkter som Funktion af
+Længden, Understøtningsmaaden, Belastningen
+og Bjælkens Tværsnit, og omvendt kan man
+bestemme Dimensionerne saaledes, at
+Paavirkningens Størrelse intet Sted overskrider det
+tilladelige. Man finder saaledes, at Bæreevnen for
+en Bjælke med rektangulært Tværsnit er
+ligefrem proportional med Bredden i 1., derimod
+med Højden i 2. Potens, saa f. Eks. en Planke
+bærer langt mere paa Højkant end paa
+Fladen. For Jernbjælker gælder det at skaffe størst
+mulig Bæreevne med mindst mulig Jernvægt,
+hvilket opnaas ved at fjerne Materialet saa
+meget som muligt fra den neutrale Akse, hvorved
+man ledes til Anvendelsen af I-formede
+Tværsnit.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Bøjning (se Fleksion)">
+<b>Bøjning,</b> se <sp>Fleksion</sp>.
+</chapter>
+
+<chapter name="Bøjningsforsøg">
+<b>Bøjningsforsøg</b> tjener til at bestemme et
+Materiales Bøjningsstyrke ell. Bøjningselasticitet.
+Prøvebjælken understøttes ved Enderne og
+belastes hyppigst paa Midten ell. i
+Trediedelspunkterne. Bjælken ender med at knække som Følge
+af Trækspændingerne i den konvekse Side
+(Støbejern, Træ, Sten, Beton) ell. med at bøje sig
+stærkt (blødt Staal). Naar Spændingen i et
+Punkt forudsættes at være proportional med
+Punktets Afstand fra den neutrale Flade, kan
+største Træk- og Trykspænding beregnes, og
+naar Forsøget gøres med Bjælker, der er
+symmetriske m. H. t. den neutrale Flade, bliver
+disse Spændinger lige store og kaldes
+Bøjningsstyrken. Da nævnte Proportionalitet ikke er til
+Stede, vil Bøjningsstyrken afvige fra
+Trækstyrken og for rektangulære Bjælker af Støbejern,
+Sten og Beton være c. dobbelt saa stor som, for
+Træ mindre end denne; for I-Bjælker af blødt
+Staal er Bøjningsstyrken lig ell. mindre end
+Trækstyrken. Som praktisk Kvalitetsmaalestok
+ved Materielleverancer benyttes B. kun over for
+Støbejern og Beton.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Bøjten">
+<b>Bøjten</b> (Søv.; af det holl. <i>buiten</i>), en
+Benævnelse paa »Ydre«, der navnlig tidligere brugtes
+til Søs i forsk. Forbindelser, f. Eks. <sp>B.-Skøde</sp>
+i St. f. <sp>Yderskøde</sp> paa Læsejl.
+<i>H. E.</i>
+</chapter>
+
+<chapter name="Böjyk-dere (se Bujukdere)">
+<b>Böjyk-dere</b>, se <sp>Bujukdere</sp>.
+</chapter>
+
+<chapter name="Bökel, Willemm (se Beukelsz)">
+<b>Bökel,</b> <sp>Willemm</sp>, se <sp>Beukelsz</sp>.
+</chapter>
+
+<chapter name="Bølgebevægelse">
+<b>Bølgebevægelse</b> (<sp>Undulation</sp>) er
+Navnet paa en Bevægelsestilstand, der skrider frem
+gennem et Legeme ell. en Række Legemer og
+efterlader de Dele, den har truffet, i deres opr.
+Tilstand og væsentlig paa det Sted, hvor de var,
+før B. traf dem. Vindbølger paa en Kornmark
+viser dette Forhold tydelig. Medens Bølgen med
+Vindens Fart løber fra den ene Ende af Marken
+til den anden, udfører Straaene Svingninger,
+idet de skiftevis bøjer og rejser sig. Bl. de
+mange Slags B. er især de af Interesse, hvor
+Forstyrrelserne følger efter hinanden med lige
+store Tidsmellemrum og forplanter sig med
+konstant Hastighed. Fremkommer B. ved
+regelmæssige Stød, er Tiden, der forløber mellem to paa
+hinanden flg. Stød, <i>t</i> Sekunder, og vandrer B. <i>v</i>
+m i Sekundet, saa vil den flytte sig <i>vt</i> m i de
+<i>t</i> Sekunder; Stødene løber altsaa gennem
+Mediet med den indbyrdes Afstand <i>vt</i> m, der
+kaldes <sp>Bølgelængden</sp>; <i>t</i> kaldes
+<sp>Svingningstiden</sp>. Altsaa er Bølgelængden <i>L = vt</i>,
+hvilken Ligning gælder for al B. af den nævnte
+Art. Det er uvæsentligt, om B., som vi her har
+tænkt os, bestaar af enkelte, fra hinanden
+adskilte Stød, ell. om den, som det gerne er
+Tilfældet, dannes af en sammenhængende Række
+Forstyrrelser, saa at Mediets Dele under B.
+aldrig kommer helt i Ro.
+
+Som de vigtigste Egenskaber ved al B. maa
+nævnes, at den kan <sp>kastes tilbage</sp>, naar
+den møder en Hindring, at den dels kastes
+tilbage, dels <sp>brydes</sp> ɔ: forandrer
+Forplantningsretning, naar den gaar over fra et Medium til et
+andet, og endelig, at Mediet samtidig kan

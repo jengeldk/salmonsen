@@ -1,0 +1,169 @@
+<chapter name="Ekshalationer">
+<b>Ekshalationer</b> kaldes de Luftudviklinger,
+der ledsager Vulkanudbruddene, og som netop
+bevirker disses voldsomme Karakter; dog
+vedvarer E. længe efter, at selve Udbruddet er hørt
+op, og kan endogsaa fortsættes, efter at den
+vulkanske Virksomhed helt er ophørt paa
+Stedet. De Luftarter, der fremkommer, er af meget
+forsk. Art; det synes, at Hovedmassen er
+Vanddamp, men desuden findes Kvælstof, Ilt, Brint,
+Kulbrinter, Kulsyre, Klorbrinter, Svovlbrinte,
+Svovlsyrling o. m. a.; endvidere forsk. Salte
+(Klornatrium, Salmiak, Jernklorid). En Del af
+de udviklede Luftarter omsætter sig efter
+Fremkomsten med Vanddamp ell. med Luftens Ilt;
+saaledes bliver Svovlbrinte til Svovl ell.
+Svovlsyrling, Jernklorid til Jerntveilte (Jernglans). De
+forsk. sublimerede Bestanddele slaar sig ned i
+Kraterets nærmeste Omgivelser, der derved
+oftest faar stærkt skrigende Farver, hvortil ogsaa
+bidrager den Sønderdeling, som Bjergarterne
+undergaar ved Indvirkning af de forsk. kraftig
+reagerende Luftarter. Af Steder, hvor der
+stadig foregaar E., maa særlig nævnes Solfatara
+og Hundegrotten ved Neapel. Undertiden har
+de ved E. fremkomne Produkter tekn. Bet.,
+saaledes Borsyren i Toskana, Svovlet paa Island
+o. a.
+<i>O. B. B.</i></chapter>
+
+<chapter name=”ekshalere”>
+<b>ekshalere</b> (lat.), udaande, uddunste;
+<sp>Ekshalation</sp>, Udaanding, Uddunstning; smlg.
+ovenfor.</chapter>
+
+<chapter name=”Ekshaustionsbevis”>
+<b>Ekshaustionsbevis</b> (<sp>mat</sp>.), en Bevisform,
+der forekommer f. Eks. hos Eukleides og
+Archimedes, men som man i øvrigt hos Eudoxes
+træffer en af de første tydelige Fremstillinger af.
+17. Aarh.'s Matematikere gav E. dets Navn, der
+kommer af det lat. <i>exhaurire</i>, udtømme; E., der
+anvendes ved Sætninger om Forhold mellem
+Arealer, Rumfang og i det hele Størrelser, der
+bestemmes ved infinitesimale Betragtninger,
+godtgør nemlig, at et saadant Forhold har en
+vis Værdi, ved at gennemgaa alle herimod
+stridende Antagelser og paavise deres Umulighed.
+Skal man f. Eks. vise, at Forholdet mellem 2
+Cirklers Arealer <i>A</i> og <i>B</i> er = Forholdet <i>a</i><sup>2</sup> : <i>b</i><sup>2</sup>
+mellem deres Radiers Kvadrater, tænker man
+sig, at <i>a</i><sup>2</sup> : <i>b</i><sup>2</sup> er = <i>A</i> : <i>C</i>, og viser saa, at <i>C</i>
+hverken kan være > <i>B</i> ell. < <i>B</i>. Det sidste f.
+Eks. ses saaledes: Man indskriver i de to
+Cirkler regulære Polygoner med Arealerne <i>A</i><sup>1</sup> og
+<i>B</i><sup>1</sup> og med samme Side antal, hvilket iflg. en af
+Eukleides' Forudsætninger kan vælges saa stort,
+at <i>B</i><sup>1</sup> > <i>C</i>; da skulde man have <i>A</i><sup>1</sup> : <i>B</i><sup>1</sup> = <i>a</i><sup>2</sup> : <i>b</i><sup>2</sup>
+= <i>A</i> : <i>C</i>, men dette er umuligt, da <i>A</i><sup>1</sup> < <i>A</i> og
+<i>B</i><sup>1</sup> > <i>C</i>. Beviset vil vedblive at gælde, naar <i>A</i>
+og <i>B</i> betegner vilkaarlige Størrelser, der er
+Grænseværdier for to uendelige Rækker
+Tilnærmelsesværdier (her de indskrevne
+Polygoner), som parvis har et konstant Forhold
+(<i>a</i><sup>2</sup> : <i>b</i><sup>2</sup>).
+<i>Chr. C.</i></chapter>
+
+<chapter name=”Ekshaustor”>
+<b>Ekshaustor</b> kaldes et Apparat, hvis
+Konstruktion og Virkemaade ganske ligner en
+Blæsers; men ved hvis Anvendelse man særlig har
+Apparstets sugende Virkning for Øje.
+<i>Fr. V. M.</i></chapter>
+
+<chapter name=”Ekshaustor”>
+<b>Ekshaustor</b> kaldes den roterende
+Sugepumpe, der i Kulgasværkerne tjener til at suge
+den dannede Kulgas bort fra Retorterne, saa der
+ikke i disse opstaar nævneværdigt Overtryk (ell.
+Undertryk) under Gasudviklingen. Exhausteren
+frembringer ligeledes, paa Tryksiden, det Tryk,
+der tjener til at drive den dannede Kulgas
+gennem de forsk. Vaske- og Renseapparater m. m.
+ud i Beholderne. Se <sp>Kulgas</sp>.
+<i>R. T.</i></chapter>
+
+<chapter name=”eksheredere”>
+<b>eksheredere</b> ['æks-] (lat,), gøre arveløs;
+<sp>Eksheredation</sp>, Arveløsgørelse.</chapter>
+
+<chapter name=”ekshortere”>
+<b>ekshortere</b> (lat.), formane, opmuntre;
+<sp>Ekshortation</sp>, Formaning, Opmuntring;
+<sp>ekshortativ</sp>, formanende;
+<sp>Ekshortatorium</sp>, Formaningsskrivelse.</chapter>
+
+<chapter name=”ekshumere”>
+<b>ekshumere</b> (lat.), grave op igen (et Lig),
+drage frem fra Forglemmelse;
+<sp>Ekshumation</sp>, Ligopgravning.</chapter>
+
+<chapter name=”eksigere”>
+<b>eksigere</b> (lat.), fordre, forlange, inddrive
+(en Gæld); <sp>Eksigéns</sp>, Fordringsfuldhed,
+Fornødenhed.</chapter>
+
+<chapter name=”eksigibel”>
+<b>eksigibel</b> (<sp>jur</sp>.), fremtvingelig ved
+Eksekution (s. d.).</chapter>
+
+<chapter name=”Eksil”>
+<b>Eksil</b> (lat. <i>exsilium</i>), Forvisning. Herved
+betegnede man i Oldtiden dels en Borgers
+frivillige Gaaen i Landflygtighed for at undgaa en
+ophidset Folkestemning ell. en truende
+Strafforfølgning, dels Forvisningsstraffen, der ikendes
+for visse grovere Forbrydelser, særlig
+Højforræderi. Bekendt er ogsaa den ejendommelige
+Art af Landsforvisning, der fældedes over Mænd,
+som ikke havde gjort sig skyldige i
+Forbrydelser, men hvis Magt og Indflydelse mentes at
+gøre dem farlige for Statens Frihed og
+Sikkerhed (se <sp>Ostracisme</sp>). I Rom drog i de
+første Aarh. efter Byens Grundlæggelse E., i
+Lighed med den saakaldte <i>aquæ et ignis interdictio</i>
+(Fredløshed), Virkninger efter sig som en
+borgerlig Død og medførte Tabet af alle borgerlige
+Rettigheder (<i>capitis diminutio maxima</i>); senere
+kunde dog den Landsforviste (<i>exsul</i>) i Reglen
+vende tilbage og genvandt da igen sine alm.
+borgerlige Rettigheder. Under Kejserdømmet
+gik den egl. Landsforvisning af Brug, og E.
+indskrænkedes til en Forvisning til et bestemt
+Sted i Riget (jfr saaledes Digteren Ovid's
+Forvisning til Tomi ved det sorte Hav), snart under
+den mildere Form som Relegation, snart under
+den strengere som Deportation til usunde ell.
+mere afsides Egne og paa Livstid. Om nyere
+Former for E., se <sp>Landsforvisning</sp>.
+<i>K. B.</i></chapter>
+
+<chapter name=”Eksinanition”>
+<b>Eksinanition</b> ['æks-] (egl. Udtømmelse)
+betegner i Teologien den Selvindskrænkning, til
+hvilken Jesus ved sin Menneskeblivelse gaar
+ind (Fil. 2, 6 ff.). Se <sp>Jesus Kristus</sp>.
+<i>F. C. K.</i></chapter>
+
+<chapter name=”Eksingedalen”>
+<b>Eksingedalen</b> i Hosanger Herred, Søndre
+Bergenhus Amt. Dalen danner en Fortsættelse
+af Hosanger Fjord, den er skovbevokset og
+spredt bebygget. Offentlig Kørevej gaar 20 km
+op gennem Dalen. E.-Elven danner fl. Vande
+og betydelige Fossefald.
+<i>M. H.</i></chapter>
+
+<chapter name=”Eksistens”>
+<b>Eksistens.</b> Man kan tildels klargøre, hvad
+der menes med E., ved at fremhæve, at der i
+Udtrykket, at et Emne eksisterer, ligger, at det
+hører et ell. andet Sammenhæng til, der maa
+antages nærmere at kunne karakteriseres ved
+indbyrdes Lighed i en bestemt Henseende
+mellem alle dets Emner. Et saadant bestemt
+Sammenhæng kan kaldes en Verden. Man taler bl.
+a. om Omverdenen, om en indre, en ydre og
+en Ideernes Verden, en Erindringens,
+Fantasiens, Drømmenes Verden, Pligtens, Tallenes,

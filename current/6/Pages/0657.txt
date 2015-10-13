@@ -1,0 +1,134 @@
+Varigheden af den astron. D. vil afhænge af den Tid,
+der medgaar, inden Solen om Aftenen naar
+Dæmringscirklen, og denne Tid bestemmes af
+den Stilling, Solens Dagcirkel indtager til
+Stedets Horisont, saaledes at jo mindre Vinklen
+er mellem Dagcirklen og Horisonten, desto
+længere varer D. Ved Jordens Ækvator staar
+Dagcirklen næsten lodret paa Horisonten, og der
+varer de astron. D. 70-76 Min., ved 40° Br.
+varer D. ved Jævndøgn 92 Min., paa Aarets
+korteste Dag 99 og paa Aarets længste Dag 124
+Min. Ved 50° er D. ved Jævndøgn 111 Min., paa
+den korteste Dag 121 Min., og paa den
+længste Dag vil Solen ikke naa Dæmringscirklen, men
+kun 16 1/2°  under Horisonten, Aften- og
+Morgendæmring vil gaa over i hinanden, og man vil
+da have D. hele Natten. Disse Nætter kaldes
+specielt <sp>lyse Nætter</sp>, og de varer ved 50°
+n. Br. 1. Juni-12. Juli, ved 60° 22. Apr.-21.
+Aug., ved 70° 26. Marts-18. Septbr, ved 80°
+28. Febr-14. Oktbr og ved Nordpolen 30. Jan.
+-14. Novbr. P. Gr. a. D. vil man altsaa ved
+Polen have en 2 Maaneders Nat, medens man
+uden den vilde have haft en Nat paa 6
+Maaneder (se <sp>Dag</sp>). For at afgøre, naar de lyse
+Nætter begynder for en bestemt Bredde, har
+man i Udtrykket: 90-δ-p=18° (hvor δ er
+Solens Deklination og p Stedets Bredde) at finde,
+hvilken Værdi af Solens Deklination (δ) der gør
+venstre Side lig 18°. Saaledes vil for 60° en
+Deklination større end 12° lade Aften- og
+Morgendæmring gaa over i hinanden. Af det samme
+Udtryk vil det fremgaa, at man mellem Ækvator
+og 48 1/2° Br. ikke har de lyse Nætter (paa
+Aarets længste Dag er Solens Deklination 23 1/2°,
+og indsættes denne Værdi af δ i Udtrykket,
+finder man, at paa den Dag strækker de lyse
+Nætter sig fra Polarcirklen til 48 1/2° Br.). Af
+Interesse er det at erfare, naar paa et bestemt
+Sted D. er <sp>kortest</sp>, og hvor længe den da
+varer. Dette Problem har i Astronomiens
+Historie spillet en ikke lille Rolle ved den
+Vanskelighed, man i tidligere Dage havde for at faa
+det løst, hvilket først lykkedes Nonius (Nuñez)
+i <i>De crepusculis</i> (Olyssipone 1542); senere er
+dette Spørgsmaal blevet behandlet bl. a. af J.
+Bernoulli og d'Arrest. Varigheden af den
+korteste D. er givet ved Udtrykket:
+<table>
+<td v2><i>sin</i><td c>t<td v2>= <i>sin</i> 9° <i>sec p</i> (<i>t</i> = Tiden, <i>p</i> - Bredde),
+<td c>2
+</table>
+og den Deklination, hvorved den finder Sted,
+findes af: <i>sin</i>δ = -<i>tg</i> 9° <i>sin p</i>. Heraf faar
+man for:
+<i>p</i>=55°: <i>t</i>=127 Min. og δ=-7° (2. Marts og 11. Okt.)
+<i>p</i>=60°: <i>t</i>=146 Min. og δ=-8° (28. Febr. og 14. Okt.)
+<i>p</i>=70°: <i>t</i>=218 Min. og δ=-9° (26. Febr. og 17. Okt.)
+
+Ovf. er nævnt, at D. hovedsagelig afhænger
+af den Stilling, Solens Dagcirkel indtager. Men
+foruden denne bidrager ogsaa Luftens større
+Renhed, Fugtighed og Ro samt Refraktionen
+(s. d.) til at forlænge D., og derfor vil paa
+samme Sted til forsk. Tider D.'s Varighed være
+højst forsk.
+
+Den Omstændighed, at den astron. D.
+ophører, naar Solens Depression er 18°, er
+benyttet allerede af Alhazen og Kepler til at udlede
+Atmosfærens Højde. Hvis nemlig i Fig. <i>B</i> er et
+Punkt paa Jordoverfladen, der modtager det
+sidste Dæmringslys, maa Luftpartiklen <i>C</i>
+tilhøre de højest liggende Luftlag, der er i Stand
+til at reflektere Lyset. Højden:
+<i>CE</i> = 2 <i>r</i> · <i>sin</i><sup>2</sup> 4 1/2° <i>sec</i> 9° = 0,0125 · <i>r</i> =
+<table>
+<td c>1<td v2>· <i>r</i> = 80 km (<i>r</i> = Jordens Radius).
+<td c>80
+</table>
+
+De <sp>Farvefænomener</sp>, som optræder
+under D., er blevne indgaaende undersøgte af v.
+Bezold og senere af Battelli i Cagliari, som i
+det store og hele har bekræftet den af v.
+Bezold givne Skildring af D.'s Forløb. Nærmer
+Solen sig en skyfri Aften Horisonten, bliver den
+nederste Del af Himlen i Vest gulfarvet, og i
+Øst bemærker man en smudsig gul Zone, der
+opad gaar over i et mørkt, purpurfarvet Lag,
+som efter Atmosfærens Beskaffenhed naar en
+Højde af 6°-12° og højere oppe taber sig i
+Himlens vanlige blaa Farve. Men saa snart
+Solen er dukket under Horisonten, hæver den
+askefarvede Jordskygge sig paa Østhimlen i
+Form af et mørkt Segment, <i>anticrepuscule</i> ell.
+<sp>Gegendämmerung</sp>, som den kaldtes af
+Mairan, der først har beskrevet den; af v.
+Bezold har den faaet Navnet <sp>den første
+østlige Dæmringsbue</sp>. Samtidig vil man i
+V. se den gule Farve i Horisonten mere og
+mere gaa over i orange og i en Højde af c. 25°
+bemærke en i Førstningen hvid Plet, der
+hurtig udvider sig til en Cirkel, som synker ned
+bag det gule Segment og efterhaanden faar et
+purpurfarvet Anstrøg, som ved videre Synken
+af Solen tiltager i Styrke og naar sit Maksimum,
+<sp>det første Purpurlys</sp>, naar Solen er 2-
+4° under Horisonten. Det har da Form af en
+Cirkel, hvis Centrum ligger lidt over det gule
+Segment, og hvis nederste Del er skjult af
+dette. Hurtig forandrer det dog sin Form og
+danner en smal Zone af ubetydelig Højde, skarpt
+afgrænset fra det klare gule Segment. Denne
+Grænse er den <sp>første vestlige
+Dæmringsbue</sp>. Ikke mange Min. efter tager Dagslyset
+rask af, og naar Solen er kommet 6° under
+Horisonten, hvorved den borgerlige D. som
+nævnt indtræder, er den hele Farvepragt
+forsvundet i V., og man vil kun i Ø. se Himlen
+svagt farvet, og et øvet Øje vil bemærke et
+andet mørkt Segment. Men snart efter, naar
+Solens Depression er 7°, optræder <sp>den
+anden vestlige Dæmringsbue</sp> og over
+denne <sp>det andet Purpurlys</sp> omtrent i
+samme Højde som det første, men betydelig
+svagere end dette, og naar det er forsvundet
+(Solens Dybde er da 12°), bliver Himlen ganske
+mørk, og Jordskyggen vil til Slut udslukke de
+sidste gule Striber i Vesthorisonten.
+Morgendæmringen viser naturligvis de samme
+
+<img></img>
+

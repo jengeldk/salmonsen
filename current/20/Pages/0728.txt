@@ -1,0 +1,133 @@
+vigtigt Afsnit af fysikken,
+Røntgenspektroskopien, med en Række praktiske Anvendelser,
+foruden at det har givet Mineralogien Midler til
+at udforske Krystallernes Bygning. — Forsøgene
+viste, at det er Atomerne, der er ordnede i
+Rumgitter, og at Molekylebegrebet ingen Bet.
+har for de alm. Krystaller. En regulær Krystal,
+f. Eks. Kogsalt (NaCl) har efter disse
+Undersøgelser den i Fig. 6 viste Bygning, hvor
+Cirklerne f. Eks. er Klor-
+og Prikkerne
+Natriumatomer. Ethvert
+Na-atom er knyttet
+lige nøje til 8 forsk.
+Cl-atomer og
+omvendt, og man kan
+følgelig for en saadan
+Krystal ikke tale om
+NaCl-molekyler.
+Kantlængden i de smaa
+Tærninger er for
+NaCl c. 0,28
+Milliontedel mm (μμ); den
+kan beregnes nøjagtigt, da man kender
+Antallet af Molekyler i et Grammolekyle med
+stor Nøjagtighed. En saadan Krystal kan
+opfattes som et saakaldt tredimensionalt Gitter,
+en Stabel af Gitre, hvert med Ridser i to paa
+hinanden vinkelrette Retninger. Beregningen af
+Bøjningen fra et saadant Gitter gøres lettest
+ved med W. H. og W. L. Bragg at opfatte det,
+der sker, som en Reflektion af R. Fig. 7
+forestiller lidt af en saadan regulær Krystal, idet
+Prikkerne betyder de regelmæssigt ordnede
+Atomer. Den øverste Atomplan <i>MN</i> er ikke
+selve Krystallens Overflade, der, selv om det er
+en naturlig Spalteflade ell. en fint poleret
+Overflade, vil vise Ujævnheder mange Gange større
+end Afstanden mellem to Naboatomer. Hver
+Atomplan vil virke som Spejl for R., idet hvert
+Atom, der rammes af R., vil udsende dem igen
+til alle Sider; men kun i en Retning, der
+danner samme Vinkel med Planen som den
+indfaldende Straaleretning, vil alle de spredte
+Straaler kunne forstærke hinanden, da
+Afstanden fra R.-rør til Samlingspunkt langs f. Eks.
+Straale 11 og Straale 22 da er lige store, saa
+at alle Straaler fra de forsk. Atomer i Planen
+træffer hinanden i samme Fase. I alle andre
+Retninger tilintetgør de spredte Straaler
+hinanden, saa at der ingen resulterende
+Tilbagekastning kommer. Afstanden mellem to
+Naboatomer er saa kort, at Straaler, der kommer
+fra et blot nogle faa cm fjernet R.-rør og
+samles igen nogle cm borte fra Krystallen, i
+Figurens Maalestok vil være parallelle.
+Tilbagekastningen er imidlertid meget svag fra en enkelt
+Atomplan, men da R. let trænger langt ned i
+Krystallen, kan ogsaa en Mængde af de flg.
+Planer reflektere. Man faar da kun en virkelig
+Spejling af R., naar alle Straaler fra alle de
+Planer, der kommer i Betragtning, træffer
+hinanden med samme Fase, saa at de ogsaa
+forstærker hinanden. Betingelsen derfor er, at det
+Stykke DCD1, som Straale 33 er længere end
+11, netop er et helt Antal Bølgebredder λ.
+Kaldes Planafstanden, den omtalte Tærningkant
+(Gitterkonstanten) d, haves, at DCD1 = 2d · sin φ
+skal være lig m λ, hvor m er et helt Tal.
+R. af en bestemt Bølgebredde kan altsaa kun
+reflekteres, naar de falder ind under en saadan
+Vinkel φ, at denne Betingelse er tilfredsstillet,
+og indeholder de indfaldende R. alle
+Bølgebredder inden for et vist
+Omraade, reflekteres for hvor
+Indfaldsvinkel kun en bestemt
+af de indeholdte
+Bølgebredder. Her er dog kun regnet
+med Reflektionen svarende til
+m = 1 (1. Orden), der i Alm.
+er langt den stærkeste, saa
+at de flg. Ordner spiller
+mindre Rolle. Herved er givet
+Mulighed for at
+konstruere et
+Røntgenspektroskop, hvori R.
+gennem en Spalte sendes
+hen mod en Krystal og
+derfra hen til
+en fot. Plade
+ell. et
+Ioniseringskammer,
+hvor Styrken
+af de
+reflekterede R. kan
+maales. Vil
+man
+efterhaanden undersøge et større Omraade af
+Spektret, maa Krystallen drejes og
+Ioniseringskammeret flyttes. Fig. 8 viser et
+Røntgenspektroskop skematisk; <i>A</i> er Antikatoden i R.-røret, <i>B</i>
+Spalten i en tyk Blyplade, <i>K</i> den drejelige
+Krystal, <i>J</i> Ioniseringskamret, hvori man maaler,
+f. Eks. hvor hurtigt et med den isolerede
+Midterstang forbundet Elektroskop taber sin
+Ladning til den jordforbundne Kammervæg; vil
+man fotografere Spektret, anbringes Pladen paa
+Kammerets Plads. Enkelthederne i
+Konstruktionen af Spektroskoperne, der for langbølgede
+Straaler maa være lufttomme, maa forbigaas her.
+
+<sp>Røntgenspektroskopiens
+Resultater</sp>. R. fra Antikatoden i et R.-rør bestaar
+af to Dele, den kontinuerte Straaling ell.
+Bremsestraalingen og de for Antikatodens Stof
+karakteristiske R. Den kontinuerte Straaling, der
+er vigtigst for de praktiske Anvendelser, giver,
+som Navnet antyder, et kontinuert Spektrum,
+svarer altsaa til »hvidt« Lys, idet den
+indeholder alle Bølgebredder inden for visse Grænser.
+Den fremkommer, naar Katodestraalerne
+bremses i Antikatoden, idet Bremsning ell.
+Igangsætning af elektriske Ladninger altid giver
+Anledning til Udsendelse af elektromagnetisk
+Straaling. Beregnes den udsendte Straaling efter
+
+<img>Fig. 6. Klornatriums
+Rumgitter.</img>
+
+<img>Fig. 7. Røntgenstraaleinterferens i Krystalgitter.</img>
+
+<img>Fig. 8. Røntgenspektroskop,
+skematisk.</img>

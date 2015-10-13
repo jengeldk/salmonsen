@@ -1,0 +1,105 @@
+opløses, erstattes det ved Efterfyldning fra
+Fødebeholderen <i>F</i>. Naar Maaleren er løbet ud, ɔ:
+naar Kviksølvet i den nedre Beholder staar ved
+Skalaens Top, vendes der op og ned paa
+Beholderen, saaledes at alt Kviksølvet igen løber
+op i Fødebeholderen. Da den ovf. beskrevne
+elektrolytiske Celle kun kan maale
+Strømstyrker op til c. 1/20 Ampère, indskydes den som
+Shunt til en
+Hovedstrømsmodstand,
+saaledes at kun en
+bestemt Brøkdel af
+Strømmen passerer
+Cellen. Fig. 2 viser
+det virkelige
+Udseende af en lignende
+Maaler af Lux'
+Fabrikat.
+
+2) <sp>Pendulmaalere</sp>. En
+Pendulmaaler er skematisk
+vist i Fig. 3. Gennem
+to Traadruller <i>P<sub>1</sub></i> og
+<i>P<sub>2</sub>,</i> der er ophængte
+som Penduler for to
+Urværker, og
+Forlagsmodstanden <i>R</i> sendes
+en med Spændingen
+proportional ganske
+svag Strøm <i>i</i>. Forbrugsstrømmen <i>J</i> sendes gennem
+to faststaaende Spoler <i>S<sub>1</sub></i> og <i>S<sub>2</sub></i>. Ved
+Tiltrækningen ell. Frastødningen mellem de ophængte og
+de faste Spoler paavirkes det ene Pendul til
+at gaa hurtigere, det andet til at gaa
+langsommere. De to Urværkers Gangforskel
+registreres af Tælleværket, idet Tandhjulet <i>T<sub>3</sub></i>
+bliver paa sin Plads, hvis de to Tandhjul <i>T<sub>1</sub></i> og
+<i>T<sub>2</sub></i> gaar lige hurtigt (til modsatte Sider), men
+flytter sig, naar <i>T<sub>1</sub></i> og <i>T<sub>2</sub></i> gaar ulige hurtigt.
+Gangforskellen bliver praktisk talt proportional
+med Produktet af Strøm og Spænding, og
+Tælleværkets Fremgang bliver følgelig
+proportional med Energimængden. Pendulmaaleren er
+en Watttimemaaler. Pendulmaalere fabrikeres af
+<sp>Aron</sp>. De kan anvendes baade ved 2-Leder og
+3-Leder Jævnstrøm og ved 1- og 3-faset
+Vekselstrøm. De anvendes sjældent hos Forbrugere,
+men mere som Maalere paa selve Centralen.
+Fig. 4 viser en saadan Aron-Maaler. Den er i
+Virkeligheden noget mere kompliceret, end Fig.
+3 viser. For det første har den en
+Elektromagnet, som automatisk trækker Urfjedren op
+c. hvert Minut, og dernæst er der en
+Indretning, ved hvilken de to Pendulers Funktion
+ombyttes med Mellemrum af c. 10 Minutter, saa
+at Forskelle i Svingningstiden, som ikke
+hidrører fra Forbruget, ikke faar nogen
+Indflydelse paa Aflæsningen.
+
+Medens Forbrugsstrømmen i Pendulmaalere
+nøjes med at ændre Bevægelsen, maa den i de
+allerfleste andre Maalere selv frembringe
+Bevægelsen, som oftest saaledes, at den driver
+en Art Motor, hvis Omdrejningshastighed bliver
+proportional med Forbruget. Denne Art
+Maalere kaldes <sp>Motormaalere</sp>.
+
+Meget anvendte er <sp>Kviksølvmaalere</sp>
+og <sp>Shunt-Maalere</sp> ved Jævnstrøm,
+<sp>elektrodynamiske
+Maalere</sp>, baade
+ved Jævnstrøm og
+Vekselstrøm, og
+<sp>Induktionsmaalere</sp> ved Vekselstrøm.
+
+3) <sp>Kviksølvmaalere</sp>. Fig. 5
+viser skematisk en
+Ferranti
+Kviksølvmaaler, hvor
+Forbrugsstrømmen ell. en Del
+af den gaar ind i
+Randen og ud ved
+Centrum af en
+Kobberskive, som kan
+rotere inden i en med
+Kviksølv fyldt Kapsel.
+Kviksølvet tjener blot som Kontakt for
+Strømmen. Den bevægende Kraft hidrører fra, at
+Kobberskiven befinder sig i det magnetiske
+Felt mellem Polskoene <i>N</i> og <i>S</i> af en
+Staalmagnet, og at Strømlinierne paavirkes
+af de magnetiske Kraftlinier i en saadan
+Retning, at Skiven bringes til at rotere. Den
+drejende Kraft er proportional med
+Strømstyrken. Ved Rotationen opstaar der en
+Bremsekraft, som er proportional (ell. omtr.
+proportional) med Omdrejningshastigheden, idet der
+nemlig i Kobberskiven paa de Steder, hvor den
+
+<img>
+Fig. 5. Kviksølvmaaler.
+</img>
+<img>
+Fig. 6. Shuntmaaler med Skiveanker.
+</img>

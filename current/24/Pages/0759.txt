@@ -1,0 +1,150 @@
+grovere vævet Stof, udspændt paa forskellige
+Maader, eller kan bestaa af Bomuld, Koks eller
+Kies, der fastholdes mellem Traadnet, udspændt
+i Rammer; ogsaa Filtre, bestaaende af et
+Vandtæppe, frembragt ved Trykvandets Udstrømning
+gennem Sprededyser, anvendes. Ved Passagen
+gennem saadanne Filtre kan ogsaa en
+paakrævet Befugtning foregaa, medens Tørring kan ske
+ved en Nedsvaling af Luften ved Køleflader, saa
+det indeholdte Vand udskilles, og en derpaa
+følgende Opvarmning. Efter at Luften er
+renset, passerer den de til dens Opvarmning
+beregnede Varmeflader (eventuelt afkøles den; se
+under <sp>Køleanlæg</sp>) og fordeles derpaa
+gennem Fordelingsledninger til de enkelte Rum.
+Med Hensyn til Fordelingsledningernes
+Placering er man forholdsvis frit stillet, men
+Ledningsnettet bør naturligvis søges tilvejebragt
+paa en saa simpel og let overskuelig Maade
+som muligt. Ledningerne kan være indbyggede
+i Murene eller være udførte af Jernplader, og i
+frit ophængte, men i begge Tilfælde bør deres
+Indre være saa glat, og alle Afbøjninger saa
+jævne som muligt, for at der ikke skal ydes
+større Modstand mod Luftens Bevægelse end
+højst nødvendig og saaledes, at deres
+Renholdelse — Rensning bør foretages mindst een Gang
+om Aaret — ikke volder for store
+Vanskeligheder. Til Ventilatorernes Drift anvendes
+hyppigst Elektromotorer, navnlig ved direkte
+Tilkobling. Benyttes Remtræk, hvilket særlig
+finder Sted ved større Anlæg, hvor Pladsen ikke
+er alt for knap tilmaalt, ser man ogsaa
+Dampturbiner anvendt, og Spildedampen brugt til
+Opvarmning af Ventilationsluften. Ved
+Placering af Ventilatorerne, der kan finde Sted enten
+foran eller bag ved de til Luftens Rensning
+m. v. installerede Aggregater, alt efter den
+Vægt, der i de enkelte Tilfælde maa tillægges
+de Fordele og Ulemper, som klæber ved de
+respektive Opstillingsmaader, maa man sørge
+for, at der ikke gennem Fundamenterne
+overføres Lyde og Rystelser til Bygningen.
+Overgangen mellem Ventilator og Kanalsystem maa
+af samme Grund foregaa jævnt; undertiden
+anvendes elastiske Overgangsstykker.
+
+Betjeningen af større V. foregaar nu til Dags
+centralt, d. v. s. at den, hvem den daglige Drift
+er underlagt, fra et bestemt Rum er i Stand til,
+ved Hjælp af specielle i det paagældende Rum
+installerede, fjerntvirkende Instrumenter og
+Haandgreb, at observere og i det væsentlige at
+regulere de vigtigere Rums Temperaturer og
+Lufttryk, Lufthastigheden i Kanalerne,
+Ventilatorernes Omdrejningstal etc.
+
+Om Anlæggenes Beregning gælder, at denne
+først kan foregaa, naar Størrelsen af den
+Luftfornyelse, der ønskes opnaaet, samt Pladsen
+for Luftkanalerne og for de øvrige efter det
+paagældende Anlægs Art nødvendige Rum til
+Opstilling af Filtre og Varmeflader m. m., er
+bestemt. Beregningen deler sig i Kanalers,
+Filtrers og Varmefladers Dimensionering samt for
+de med Ventilatorer drevne Anlægs
+Vedkommende i Bestemmelse af Ventilatorens Art
+Størrelse, Drivkraft etc., hvorved mange Forhold,
+saasom Hensynet til Lydløshed, Økonomi og
+Reguleringsmulighed nøje maa overvejes.
+Medens Størrelsen af den Drivkraft, som man
+ved Kanalberegningen for de ved
+Temperaturdifferens drevne Anlægs Vedkommende bygger
+paa, er givet ved Ventilationsluftens
+Temperatur i Forbindelse med den højeste ydre
+Temperatur, ved hvilken Anlægget skal yde fuld
+Ventilation, bestemmer for Ventilatoranlæggenes
+Vedkommende Lufthastigheden, der for
+Hovedledningernes Vedkommende ikke bør overskride
+2 à 3 m pr. Sekund og for Sideledningernes
+Vedkommende bør være betydelig mindre,
+Drivkraftens og Kanalernes Størrelse. Litteraturen
+om V. er nøje knyttet til Litteraturen om
+Opvarmningsanlæg, hvortil henvises.
+<i>A. C. L. F.</i>
+
+<img>Fig. 2. Skrueventilator med direkte tilkoblet
+elektrisk Motor.</img>
+</chapter>
+
+<chapter name="Ventilationshætte">
+<b>Ventilationshætte,</b> se <sp>Røghætte</sp> og
+<sp>Ventilationsanlæg</sp>,
+</chapter>
+
+<chapter name="Ventilationsovn">
+<b>Ventilationsovn,</b> en Kappeovn, der
+benyttes til Ventilation (se
+<sp>Ventilationsanlæg</sp>), idet frisk Luft indføres mellem Kappen
+og Ovnens Varmeflade.
+<i>A. Bj.</i>
+</chapter>
+
+<chapter name="Ventilatorer">
+<b>Ventilatorer</b> kaldes de Appaiater, som ved
+visse Ventilationsanlæg (s. d.) benyttes direkte
+til at føre frisk Luft ind i eller forurenet Luft
+ud af de Rum, der skal ventileres. Nogle
+Teknikere anvender særlig Betegnelsen V. for de
+af disse Apparater, som fører Luft ind i
+Rummene, medens de kalder Apparater, der fører
+Luft ud af Rummene, <sp>Ekshaustorer</sp>.
+<i>(Fr. V. M.). A. Bj.</i>
+</chapter>
+
+<chapter name="Ventilceller">
+<b>Ventilceller,</b> se <sp>Ensrettere</sp>.
+</chapter>
+
+<chapter name="ventilere">
+<b>ventilere,</b> at tilvejebringe Ventilation (s. d.).
+</chapter>
+
+<chapter name="Ventilhorn">
+<b>Ventilhorn,</b> se <sp>Horn</sp>.
+</chapter>
+
+<chapter name="Ventilluftpumpe">
+<b>Ventilluftpumpe,</b> <sp>Luftpumpe</sp> (s. d.) med
+Ventiler, i Modsætning til f. Eks.
+Kvægsølvluftpumpen, Diffusionspumper e. l.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Ventiltrompet">
+<b>Ventiltrompet,</b> se <sp>Trompet</sp>.
+</chapter>
+
+<chapter name="Ventimiglia">
+<b>Ventimiglia</b> [venti'mil<sub>j</sub>a], fransk
+<sp>Vintimille</sp>, By og Grænsefæstning i det
+nordvestlige Italien, Provins Porto Maurizio, ligger 14 km
+VSV. f. San Remo paa Riviera di Ponente ved
+Mundingen af Roja og 6 km fra den franske
+Grænse. (1921) 14100 Indbyggere. V. ligger
+amfiteatralsk paa Bjergskraaningen og har talrige
+Villaer. Yderligere findes en gotisk Domkirke,
+der ligger paa samme Sted som et romersk
+Juno-Tempel, samt et Raadhus med en Samling
+af romerske Oldsager. Byen er Bispesæde, har

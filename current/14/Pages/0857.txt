@@ -1,0 +1,133 @@
+lige i Værdi med en Ko. K. benyttes meget
+baade i den ældre og nyere Tid som
+Værdibetegnelse.
+<i>B. Th. M.</i>
+</chapter>
+
+<chapter name="Kugle (mat. og Symbol for Jorden)">
+<b>Kugle</b> (mat.) er et Legeme, hvis Overflade,
+<sp>Kuglefladen</sp>, er geometrisk Sted for
+Punkter med given Afstand fra et fast Punkt,
+<sp>K.'s Centrum</sp>; den givne Afstand kaldes K.'s
+<sp>Radius</sp>. <sp>Kuglefladens</sp> Skæringskurve
+med en Plan er en Cirkel, der kaldes
+<sp>Storcirkel</sp>, hvis Planen gaar gennem Centrum,
+ellers <sp>Lillecirkel</sp>; Cirklens Centrum er
+Kuglecentrets Projektion paa Planen. Planen
+vinkelret paa en Radius i dens Endepunkt <i>P</i>
+er <sp>Tangentplan</sp>, da den indeholder alle
+Tangenter i <i>P</i> til Kurver paa K. gennem dette
+Punkt. To Kuglefladers Skæringskurve er en
+Cirkel, hvis Centrum ligger i K.'s Centerlinie,
+og hvis Plan er vinkelret paa denne. Svinder
+Skæringscirklen ind til et Punkt i Centerlinien,
+siges K. at <sp>røre</sp> hinanden i dette,
+<sp>udvendig</sp> ell. <sp>indvendig</sp>, efter som Centrene
+ligger paa modsat ell. samme Side af
+Røringspunktet. En Kegle- ell. Cylinderflade siges at
+være omskreven om en K., naar dens
+Frembringere alle tangerer Kuglefladen; den er
+en Omdrejningsflade, hvis Akse gaar gennem
+K.'s Centrum, og Røringskurven er en Cirkel
+(ved Cylinderfladen en Storcirkel). Gennem 4
+givne Punkter, der ikke ligger paa samme
+Cirkel, kan alm. lægges 1 og kun 1 Kugleflade;
+dens Centrum faas som Skæringspunkt mellem
+Planerne vinkelrette paa Punkternes
+Forbindelseslinier i deres Midtpunkter. Der er 8 K.,
+der rører 4 vilkaarlig givne Planer, og deres
+Centrer bestemmes som Skæringspunkter mellem
+de Planer, der halverer Vinklerne mellem de
+givne Planer. To parallelle Planer afskærer
+imellem sig af Kuglefladen og K. henholdsvis
+et <sp>Kuglebælte</sp> og en <sp>Kugleskive</sp>, der,
+naar den ene Plan bliver Tangentplan, gaar
+over til en <sp>Kuglekalot</sp> og et
+<sp>Kugleafsnit</sp> (<sp>Kuglesegment</sp>). De parallelle
+Planers Afstand kaldes <sp>Højden</sp>. Betegnes
+denne ved <i>h</i> og K.'s Radius ved <i>r</i>, er
+Fladeindholdet af Kuglebæltet ell. Kuglekalotten
+2π<i>rh</i>. Rumfanget af et Kugleafsnit er π<i>h</i><sup>2</sup>
+(<i>r</i> — 1/3 <i>h</i>); Rumfanget af en Kugleskive er
+π/2 <i>h</i> (<i>a</i><sup>2</sup> + <i>b</i><sup>2</sup>) + π/6 <i>h</i><sup>3</sup>, hvor <i>a</i> og <i>b</i> er Radierne
+i de begrænsende Cirkler eller π<i>hm</i><sup>2</sup>—π/12 <i>h</i><sup>3</sup>,
+hvor <i>m</i> er Radius i et Snit i K. lagt parallelt
+med de begrænsende Planer og midt imellem
+dem. Arealet af hele Kuglefladen er 4π<i>r</i><sup>2</sup>,
+og K.'s Rumfang er 4/3 π<i>r</i><sup>3</sup>. Rumfanget af et
+Legeme begrænset af en Kegleflade med
+Toppunkt i Centrum og en Del af Kuglefladen med
+Arealet <i>A</i> er 1/3 <i>rA</i>. Er den begrænsende Del
+af Kuglefladen en Kalot, kaldes Legemet
+<sp>Kugleudsnit</sp> ell. <sp>Kuglesektor</sp>, og
+Rumfanget bliver 2/3 π<i>r</i><sup>2</sup><i>h</i>, hvor <i>h</i> er Kalottens
+Højde. Den Del af en K., der kan frembringes
+ved Drejning af et Cirkelafsnit om en
+Diameter i Cirklen, der ikke gennemskærer
+Afsnittet, har Rumfanget π/6 <i>hk</i><sup>2</sup>, hvor <i>k</i> er
+Afsnittets Korde, <i>h</i> Kordens Projektion paa
+Diameteren. Ang. Figurer paa Kuglefladen, særlig
+dem, der dannes af Cirkler som f. Eks.
+sfæriske Polygoner, henvises til <sp>Sfærisk
+Geometri</sp> og <sp>Sfærisk Trigonometri</sp>. Se
+ogsaa <sp>Potens</sp>.
+<i>Chr. C.</i>
+
+K. (Globen) bruges fra gl Tid som Symbol
+paa Jorden, der har Kugleform; ogsaa Himlen
+synes at have Form som en K. Efter at
+Kristendommen havde sejret, afbildede man oftere
+Kristus som Verdens Hersker, tronende oven
+paa en K. Ofte sattes der oven paa K. et Kors.
+Jesus-Barnet paa Moderens Skød afbildes
+hyppig, saaledes paa Middelalderens Altertavler
+(ogsaa i Danmark), med en K. (med Korset)
+i Haanden, for at betegne, at han er Verdens
+Herre. Konger og Fyrster holder paa samme
+Maade ved meget højtidelige Lejligheder en K.
+i Haanden, Rigsæblet, der henhører til
+Rigsklenodierne.
+<i>V. S.</i>
+</chapter>
+
+<chapter name="Kugle (se Skarp)">
+<b>Kugle,</b> se <sp>Skarp</sp>.
+</chapter>
+
+<chapter name="Kugleafsnit">
+<b>Kugleafsnit,</b> se <sp>Kugle</sp>.
+</chapter>
+
+<chapter name="Kugleakacie">
+<b>Kugleakacie,</b> se <sp>Robinia</sp>.
+</chapter>
+
+<chapter name="Kuglearmbrøst">
+<b>Kuglearmbrøst,</b> en Armbrøst til
+Udskydning af Kugler, i Reglen af Bly ell. Sten.
+Anvendtes især til Jagt og navnlig til Hest, da
+Kuglen ikke som Pilen faldt af Armbrøsten
+under Hestens Galopering. Den kunde saaledes
+medføres i fuldstændig skudfærdig Stand
+under Ridtet, ja endog affyres under dette,
+medens Armbrøsten med Pil kun kunde affyres
+fra Stedet, og Pilen maatte da først lægges
+paa Buens Skæfte. Senere indførtes vel en
+Fjer, der holdt Pilen nogenlunde fast under
+Ridtet; men det viste sig aldrig ganske
+paalideligt.
+
+Strengen paa K. var dobbelt, og de to
+enkelte Strenge blev holdte ude fra hinanden
+ved to smaa Stykker af Elfenben ell. en haard
+Træsort. Ved Midten var disse to Strenge
+atter forbundne ved to smaa Tværstrenge, der
+atter var forbundne ved en Strop. I den af
+Hovedstrengene og de to smaa Tværstrenge
+dannede firkantede Aabning klemtes Kuglen
+fast. De fuldkomneste af disse Buer spændtes
+ved en paa Skæftet fastsiddende Art
+Vægtstang, hvis Hage, naar den førtes frem, greb
+Tværstroppen og derefter førte Strengen
+
+<img>Kuglearmbrøst.</img>

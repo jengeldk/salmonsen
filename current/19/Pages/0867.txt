@@ -1,0 +1,93 @@
+er muligt ved Brug af særlige Antenner at
+bestemme Retningen til en afsendende
+Radiostation. Man kan saaledes fra Skib bestemme
+Retningen til en Station i Land ell. paa et
+Fyrskib og omvendt, og ved Udsætning i Søkort af
+de fundne Retninger kan Skibets Plads
+bestemmes. Der kræves hertil to Pejlinger, der
+krydser hinanden paa passende Maade. Ved Hjælp
+af Undervandssignal i Forbindelse med
+Radiosignal, f. Eks. fra et Fyrskib, kan saavel
+Retning til som Afstand fra Fyrskibet bestemmes,
+det sidste ved Observation af Tidsforløbet
+mellem Modtagelsen af de samtidigt afgivne
+Signaler.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Radiotelefoni">
+<b>Radiotelefoni,</b> <sp>Telefonering uden
+Traad</sp>. Straks efter Fremkomsten af den
+traadløse Telegraf forsøgte man ogsaa at
+konstruere en traadløs Telefon; men Forsøget
+mislykkedes og maatte nødvendigvis mislykkes med
+de tekn. Hjælpemidler, man da havde til
+Raadighed. Først efter Fremkomsten af
+Poulsen-Generatoren for kontinuerlige elektromagnetiske
+Bølger var man i Stand til at løse Opgaven. Alle
+Generatorer, der kan frembringe kontinuerlige
+Svingninger, kan benyttes til traadløs Telefoni.
+Til Radiofoni (<i>Broadcasting</i>), hvortil som Regel
+benyttes korte Bølger, anvendes fortrinsvis
+Elektronrørgeneratorer.
+
+En Afsender for traadløs Telefoni adskiller
+sig i Hovedsagen kun fra en Afsender for
+traadløs Telegrafi derved, at der ikke findes nogen
+Telegrafnøgle, hvorimod der paa
+hensigtsmæssig Maade er indskudt en Mikrofon, hvis
+Modstandsvariation paavirker den udsendte Bølges
+Amplitude. Fremgangsmaaden kan være flg.:
+Antennen sættes i Svingning ved Induktion fra
+en Generatorkreds, der gennemløbes af
+højfrekvente Strømme. Strømamplituden i Antennen
+afhænger af dennes samlede Modstand, altsaa
+ogsaa af Mikrofonens Modstand, naar denne er
+indskudt enten direkte i Antennen, ell. naar
+den, som vist i Fig. 1, gennem en Forstærker
+og under Benyttelse af en findelt Jernring (<i>R</i>)
+varierer den effektive Modstand af en i
+Antennen indskudt Vikling, der tillige omslutter R.
+(Viklingens effektive Modstand vil da være
+afhængig af Jernringens Magnetiseringstilstand,
+der varierer i Overensstemmelse med
+Mikrofonens Modstandsvariation). Taler man i
+Mikrofonen, forandres dens Modstand i
+Overensstemmelse med Talen; følgelig forandrer
+Amplituden af de højfrekvente Strømme i Antennen
+sig ogsaa i Overensstemmelse med Talen, og
+det samme bliver Tilfældet med de fra
+Antennen udsendte elektromagnetiske Bølger, idet
+disses Modulering kommer til at svare til Talen,
+se Fig. 2.
+
+Ved Elektronrørgeneratorer anvendes hyppig
+andre Fremgangsmaader ved Moduleringen. Et
+Eksempel herpaa er vist skematisk i Fig. 3.
+
+Ofte anvendes mere komplicerede
+Moduleringsmetoder, der frembyder særlige Fordele.
+
+Modtagerstationen kan være indrettet ganske
+som en alm. simpel Modtagerstation for
+traadløs Telegrafi med Tonegnist, idet
+
+<img>Fig. 1. Skematisk Billede af Lyngby
+Radiotelefonsender.</img>
+
+<img>Fig. 2. Princip for Radiotelefonsender (Bølgernes
+Modulering). Den midterste Kurve angiver den
+højfrekvente Strøm i Antennen, naar Mikrofonen er i
+Ro (»Bærebølgen«), den øverste Kurve er
+Telefonstrøm. Den nederste Kurve viser den højfrekvente
+Strøm moduleret i Overensstemmelse med
+Telefonstrømmen.</img>
+
+<img>Fig. 3. Modulering ved Hjælp af Røret <i>T</i>. <i>M</i> er
+Mikrofonen, <i>HG</i> den Højfrekvensgenerator, der giver
+Bærebølgen. En Del af Rørets Karakteristik <i>ABC</i> er
+vist ved <i>I</i>. Ved <i>II</i> ses Telefonstrømmen (<i>bsin2πmt</i>),
+over hvilken er lejret Bærebølgen (<i>asin2πnt</i>). Kurve
+<i>III</i> fremstiller den til <i>II</i> svarende modulerede
+Pladsstrøm, medens <i>IV</i> fremkommer af <i>III</i> ved at udelukke
+de langsomme Frekvenser gennem Kondensatoren <i>C</i>.</img>

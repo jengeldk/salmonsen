@@ -1,0 +1,150 @@
+<chapter name="Liglugt">
+<b>Liglugt,</b> en ejendommelig vammel Lugt,
+som allerede faa Timer efter Døden udvikles
+af Lig paa Grund af den begyndende
+Forraadnelse.
+<i>S. B.</i>
+</chapter>
+
+<chapter name="Ligne">
+<b>Ligne</b> [lin<sub>j</sub>], gammel belg. Adelsslægt, som
+stammer fra den lille By Ligne i Hainaut og
+allerede nævnes i Slutn. af 11. Aarh. Den
+ophøjedes 1545 til Rigsgreve- og 1602 til
+Fyrstestand. <sp>Adolf</sp> af L., kaldet »den sorte Djævel«
+for sin Tapperhed, blev allerede 1513 af den
+eng. Kong Henrik VIII ophøjet til Fyrste af
+Mortagne. <sp>Karl Josef</sp> af L., f. 23. Maj 1735
+i Bryssel, d. 13. Decbr 1814 i Wien, udmærkede
+sig i Syvaarskrigen som østerr. Officer (blev
+Oberst 1764), og brugtes senere i diplomatiske
+Sendelser, saaledes 1780 og 1786 til Rusland.
+Han vandt her Katharina II's Yndest, fulgte
+hende paa Rejsen til Krim og fik et stort Gods
+her. Han ledsagede 1787 Fyrst Potemkin paa
+Toget mod Oczakov og medvirkede 1789 som
+Felttøjmester til Belgrads Indtagelse. Efter
+Josef II's Død 1790 var han uden Indflydelse, om
+han end 1808 blev Feltmarskal. Han stod i
+Brevveksling med Tidens store Aander
+(Voltaire, Rousseau, Laharpe, Goethe, Schlegel o.
+fl.), og havde Ry som en udmærket og
+aandfuld Selskabsmand (han sagde saaledes om
+Wien-Kongressen: »den skrider ikke frem, men
+den danser«). Han skrev <i>Mélanges militaires,
+litteraires et sentimentaires</i> (34 Bd, 1795—1811),
+hvortil senere kom <i>Œuvres posthumes</i> (6 Bd,
+1817); endvidere <i>Vie du prince Eugène de
+Savoie</i> (1809). Mad. de Staël udgav <i>Lettres et
+pensées</i> (2 Bd, 1809) og Malte-Brun <i>Œuvres
+choisies</i> (2 Bd, 1817). — Hans Sønnesøn
+<sp>Eugène Lamoral</sp>, Fyrste af L. (1804—80),
+var 1830 af et Parti udset til at blive Konge i
+Belgien; var 1843—48 Sendemand i Paris og
+1848—49 i Italien, valgtes 1851 til Senatet og
+var 1852—79 dets Formand.
+<i>E. E.</i>
+</chapter>
+
+<chapter name="Lignelse">
+<b>Lignelse,</b> et figurligt Tankeudtryk, et
+Billede, hvorved en Forestilling belyses og
+anskueliggøres ved en anden p. Gr. a. et
+Sammenligningspunkt, noget overensstemmende
+mellem de to Forestillinger (<i>tertium
+comparationis</i>). Eks. »Ungdommen er Livets Foraar« (se
+<sp>Billede</sp>). L. adskiller sig fra Metaforen
+derved, at medens i denne Billedet dristig sættes
+for Hovedforestillingen (som naar jeg siger
+»Livets Foraar« og mener Ungdommen), bliver
+i L. Hovedforestillingen staaende ved Siden af
+Billedet. Det belysende Billede kan udføres
+mere ell. mindre; udspindes L. videre til en
+Fortælling, faar vi Parabelen. De bibelske L.
+er udførte Parabler.
+<i>Cl. W.</i>
+</chapter>
+
+<chapter name="Lignières">
+<b>Lignières</b> [li'n<sub>j</sub>æ.r], By i det mellemste
+Frankrig, Dept Cher, Arrond. St Amand, ligger
+ved Arnon, har et Slot, Møllestensbrud og 2900
+Indb.
+<i>N. H. J.</i>
+</chapter>
+
+<chapter name="Lignin">
+<b>Lignin,</b> det organiske Stof, som ved at
+gennemtrænge Cellulosehinden i Plantecellernes
+Vægge bevirker, at disse bliver »træagtige« (se
+nærmere <sp>Træstof</sp>).
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Ligning (mat.)">
+<b>Ligning</b> (mat.) dannes af to Størrelser,
+forbundne med et Lighedstegn. Indeholder de to
+Størrelser, der kaldes <sp>L.'s Sider</sp>, Bogstaver,
+kan de enten være lige store for alle
+Værdier af disse, og L. siges da at være
+<sp>identisk</sp> (en Formel), ell. kun for visse Værdier,
+og L. udsiger da noget om Bogstaverne, som i
+saa Tilfælde kaldes <sp>L.'s ubekendte</sp>. At
+bestemme de Værdier for de ubekendte, som gør
+forelagte L. rigtige, kaldes at <sp>løse L.</sp> og er
+en af Hovedopgaverne i Matematikken, da
+almindeligvis det, der er givet til søgte
+Størrelsers Bestemmelse, bliver udtrykt i L. L. deles
+i <sp>algebraiske</sp>, hvis Sider kan dannes alene
+ved at udføre algebraiske Regningsoperationer
+med de ubekendte, og <sp>transcendente</sp>.
+
+De <sp>algebraiske</sp> L. behandles i et
+særligt Afsnit af Matematikken, L.'s Teori. (Et kort
+Omrids af dennes Udviklings Historie findes
+under <sp>Algebra</sp>). En algebraisk L. kaldes
+<sp>hel</sp>, hvis de ubekendte ikke forekommer i
+nogen Nævner, <sp>rational</sp>, hvis de ikke
+forekommer under Rodtegn. En saadan hel,
+rational L.'s Sider er altsaa Summer af Led, af
+hvilke ethvert er et Produkt af en Koefficient
+og Potenser af de ubekendte med hele, positive
+Eksponenter. Ved et Leds <sp>Grad</sp> forstaas
+Summen af Eksponenterne til de ubekendte; L.'s
+<sp>Grad</sp> er den højeste af Leddenes Grader. Er
+alle Leddene af samme Grad, kaldes L.
+<sp>homogen</sp>. En algebraisk L., der ikke er hel
+og rational, søger man at bringe paa denne
+Form ved at bortskaffe Nævnere og Rodtegn,
+men man er da udsat for at faa Løsninger, der
+ikke passer i den forelagte L., og maa derfor
+foretage Prøve. Den alm. Form for en L. af
+<i>n</i>'te Grad med een ubekendt er:
+<i>x<sup>n</sup></i> + <i>a</i><sub>1</sub><i>x</i><sup>n—1</sup> + <i>a</i><sub>2</sub><i>x</i><sup>n—2</sup> + ... + <i>a</i><sub>n</sub>—1<sup><i>x</i></sup> + <i>a</i><sub>n</sub> = 0.
+De Tal, der tilfredsstiller den, kaldes dens
+<sp>Rødder</sp>. L.'s venstre Side kan paa een
+Maade skrives som et Produkt af <i>n</i> lineære
+Faktorer:
+
+(<i>x</i>—<i>x</i><sub>1</sub>) (<i>x</i>—<i>x</i><sub>2</sub>) (<i>x</i>—<i>x</i><sub>3</sub>) . . . (<i>x</i>—<i>x</i><sub>n</sub>);
+<i>x</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>x</i><sub>3</sub> . . . <i>x</i><sub>n</sub> er da L.'s Rødder, hvis
+Antal altsaa er <i>n</i>, forudsat, at man, hvis <i>x</i><sub>1</sub>=<i>x</i><sub>2</sub>=
+<i>x</i><sub>3</sub> . . . =<i>x</i><sub>p</sub>, bruger det Udtryk, at der er <i>p</i>
+lige store Rødder=<i>x</i><sub>1</sub>. L. siges da at have
+<sp>lige Rødder</sp>; <i>x</i><sub>1</sub> er <i>p</i>—1 Gange Rod i den
+afledede L. ɔ: den, som man faar ved at
+differentiere den forelagte L. med Hensyn til <i>x</i>,
+og ved Hjælp af denne Sætning kan man
+bortdividere de til lige Rødder svarende Faktorer
+af L. Sammenligner man de to Udtryk for L.'s
+venstre Side, vil man se, at —<i>a</i><sub>1</sub>= Røddernes
+Sum, <i>a</i><sub>2</sub>= Summen af Produkterne af
+Rødderne tagne to og to, —<i>a</i><sub>3</sub> = Summen af
+Produkterne af Rødderne tagne tre og tre o. s. v.
+Ligningen af 1. Grad <i>ax</i>+<i>b</i>=0 har Løsningen
+<i>x</i> = —=<i>b/a</i>. Den kvadratiske L. <i>x</i><sup>2</sup>+<i>a</i><sub>1</sub><i>x</i>+<i>a</i><sub>2</sub>=0
+har Rødderne — <i>a</i><sub>1</sub>/2 ±√(<i>a</i><sub>1</sub>/2)<sup>2</sup> —<i>a</i><sub>2</sub>. For at løse
+den <sp>kubiske</sp> L. <i>x</i><sup>3</sup> + <i>a</i><sub>1</sub><i>x</i><sup>2</sup>+<i>a</i><sub>2</sub><i>x</i>+<i>a</i><sub>3</sub>=0
+bringer man den først ved Substitutionen <i>x</i>=<i>y</i>—
+<i>a</i><sub>1</sub>/3 paa Formen: <i>y</i><sup>3</sup> + <i>ay</i> + <i>b</i> = 0. Hvis
+(<i>b</i>/2)<sup>2</sup> + (<i>a</i>/3)<sup>3</sup> >0, har L. kun een reel Rod =

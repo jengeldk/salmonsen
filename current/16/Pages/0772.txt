@@ -1,0 +1,136 @@
+Talskrivningen. I Middelalderen træffer man hverken hos
+de europ. Folkeslag ell. hos de ved
+Folkevandringen indkomne nogen mat. Virksomhed, før
+de gennem Araberne kom i Berøring med den
+gr. og ind. M., som Araberne havde opbevaret
+i Overs. paa deres eget Sprog, og paa enkelte
+Punkter, særlig i Trigonometrien, udviklet
+videre. Denne Paavirkning fremkaldte omtr. fra
+Aar 1200 en Opvaagnen af M. i Europa; her
+kan nævnes Leonardo da Pisa, Oresme,
+Chuquet. Berigelserne var vel i Beg. ikke store,
+men Kendskabet til det tidligere fundne
+udbredtes; de gr. Forf. studeredes, og det
+Gennembrud forberedtes, som fandt Sted ved
+Algebraens stærke Udvikling, særlig i Italien, i 16.
+Aarh. (Tartaglia, Cardano, Ferrari, Vieta).
+Samtidig uddannedes det mat. Tegnsprog (se
+<sp>matematiske Tegn</sp>), og
+Bogtrykkerkunsten satte de forsk. Landes Lærde i lettere
+Forbindelse med hverandre. Opfindelsen af
+Logaritmerne (Neper) i Beg. af 17. Aarh. hidførte
+en umaadelig Lettelse i Talregninger. Den
+vigtige Metode til Dannelse af
+Tilnærmelsesværdier, Kædebrøksudvikling, der ogsaa havde
+beskæftiget tidligere Matematikere, førtes et stort
+Skridt frem af Huygens. Den gr. M. øvede
+stadig stærk Indflydelse: Studiet af Diofantos
+bragte Fermat ind paa hans talteoretiske
+Undersøgelser; af Forbindelsen mellem den ny
+Algebra og den gr. Geometri fremgik Descartes'
+analytiske Geometri (1637) med dens
+Overførelse til Rummet. Desargues og Pascal
+undersøgte Keglesnittene stereometrisk. Pascal og
+Fermat lagde Grunden til
+Sandsynlighedsregningen; Ligningernes Teori førtes videre af
+Descartes o. a. De vigtige infinitesimale
+Problemer, som frembød sig, navnlig i den analytiske
+Geometri og i Mekanikken, behandledes af
+Kepler, Fermat, Cavalieri, Pascal, Wallis,
+Barrow m. fl.; deres Metoder samledes af Newton
+og Leibniz til Differentialregningen og
+Integralregningen. Det uhyre Stof, som herved var
+tilført M., optog naturligvis i høj Grad
+Matematikerne i den første Del af 18. Aarh.
+(Bernoullierne, Taylor og fremfor alle Euler); af anden
+videnskabelig Virksomhed inden for M. i denne
+Periode kan nævnes foruden mangfoldige
+geniale Ydelser af Euler: Taylor's Grundlæggelse
+af Differensregningen, Bezout's Udvidelse af
+Ligningernes Teori samt Lambert's talteoretiske
+og geom. Undersøgelser. Arbejdet paa
+Infinitesimalregningen fortsattes i Slutn. af 18. og
+første Del af 19. Aarh. af en Række glimrende
+Matematikere, der tillige brød Banen paa
+forskellige andre Punkter inden for M.
+Aritmetikken, Talteorien og den dermed
+sammenknyttede Teori for de algebraiske Former førtes et
+mægtigt Skridt fremad af Gauss, Legendre og
+Dirichlet, og dens Omraade udvidedes ved
+Indførelsen af højere komplekse Tal.
+Determinantteorien udvikledes, Lagrange opfandt
+Variationsregningen, Gauss de mindste Kvadraters
+Metode, og Laplace gav en samlet Fremstilling
+af Sandsynlighedsregningen. Ligningernes
+Teori, hvis Behandling lettedes umaadelig ved
+Indførelsen af de komplekse Tals geom.
+Fremstilling (Gauss, Wessel, Argand), dyrkedes med
+glimrende Resultater, særlig hvad angaar
+Spørgsmaalet om Muligheden af Ligningers
+algebraiske Løsning, af Lagrange, Gauss, Abel,
+Galois, Cauchy, idet samtidig den for disse
+sidste Undersøgelser uundværlige
+Substitutionsteori udvikledes. Metoder til Røddernes
+tilnærmede Bestemmelser gaves af Sturm, Horner,
+Graeffe. De Abel'ske og de derunder
+indbefattede elliptiske Funktioner, hvortil man lededes
+ved Integralregningen, behandledes
+udtømmende af Legendre, Abel, Jacobi; ligeledes
+undersøgtes forsk. for den mat. Fysik vigtige
+Funktioner, der defineredes ved
+Differentialligninger (Laplace, Lamé, Beosel). Ansporet af
+Monge's Deskriptivgeometri tog Geometrien, støttet
+paa Projektivitet og Dualitet, et mægtigt
+Opsving baade som syntetisk Geometri (Poncelet,
+Steiner, Chasles) og som analytisk (Möbius,
+Plücker). Trang til at fæstne M.'s Fundamenter
+ledede til Undersøgelser af uendelige Rækkers
+og Produkters Konvergens (Cauchy, Abel,
+Kummer) og til en begyndende »Aritmetisering« af
+M., idet man forkastede Beviser i Analysen,
+der støttede sig paa visse ubeviste, som evident
+rigtige ansete, Forudsætninger om geom.
+Størrelser, f. Eks. at en plan Figur har et éntydigt
+bestemt Areal (Cauchy). Tillige prøvede man
+de geometriske Aksiomers indbyrdes
+Uafhængighed ved at bortkaste enkelte af dem og
+opføre en geometrisk Lærebygning paa de andre
+(Lobatschewsky's ikke euklidiske Geometri). I
+sidste Halvdel af 19. og den forløbne Del af 20.
+Aarh. er vistnok en større Del af det
+videnskabelige Arbejde faldet paa M. end nogen
+Sinde tidligere. Denne Periodes Hovedværk er
+den moderne Funktionsteori, som, støttet paa
+Sætninger af Cauchy om komplekse variable i
+Integralregningen, er bleven udviklet af
+Riemann, Weierstrass, Klein, Mittag-Leffler,
+Schwarz, Fuchs, Picard, Poincaré, N. Nielsen.
+I Aritmetikken og Talteorien er navnlig
+Egenskaberne ved de algebraiske og transcendente
+Tal samt de talteoretiske Funktioner blevne
+undersøgte (Liouville, Hermite, Lindemann,
+Hilbert, Riemann, Kronecker, Weierstrass,
+Tchebycheff, Gram). De algebraiske Tallegemers
+Teori er blevet grundlagt af Kummer og
+Dedekind og udviklet videre af Hilbert.
+Iagttagelseslæren er bleven behandlet under ny Synspunkter
+af Thiele. I Algebraen er der skabt Midler til
+Udnyttelsen af ikke konvergente Rækker
+(Cesáro), og uendelige Determinanter er blevne
+undersøgte (Hill, v. Koch). Funktionsteorien har
+fremmet Integrationen af Differensligninger
+(Appell, Picard, Nørlund). Den vigtige Rolle,
+som de lineære Transformationer var
+komne til at spille i Geometriens sidste
+Udvikling, har fremkaldt Inviariantteorien (Cayley,
+Sylvester, Gordan, Hermite), ligesom andre for
+Geometrien vigtige Transformationer er blevne
+undersøgte (Cremona, Noether, Cayley) saavel
+som Transformationsgrupperne (Jordan, Klein,
+Lie, Wimann, Valentiner), og der er opstaaet
+en alm. Gruppeteori (Cayley, Dehn). De
+algebraiske Ligningers Teori er bleven behandlet af
+Brioschi, Hermite, Kronecker, Jul. Petersen,
+Sylow. Visse ved Rækker definerede
+Funktioner, f. Eks. den for Primtalteorien vigtige
+Riemann'ske Zetafunktion, er blevne underkastede

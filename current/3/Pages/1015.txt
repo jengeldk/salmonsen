@@ -1,0 +1,166 @@
+<chapter name="Forkortelser">
+<sp>FORKORTELSER</sp>.
+<table>
+<td>a<td c>betyder<td>Ar (Flademaal)
+<td>Aarg<td c>—<td>Aargang
+<td>Aarh.<td c>—<td>Aarhundrede
+<td>Adj.<td c>—<td>Adjektiv
+<td>admin.<td c>—<td>administrativt
+<td>Adv.<td c>—<td>Adverbium
+<td>Afb.<td c>—<td>Afbildning
+<td>Afh.<td c>—<td>Afhandling
+<td>Akk.<td c>—<td>Akkussativ
+<td>Alm., alm.<td c>—<td>Almindelighed, almindelig
+<td>amer.<td c>—<td>amerikansk
+<td>anat.<td c>—<td>anatomisk
+<td>ang.<td c>—<td>angaaende
+<td>anon.<td c>—<td>anonymt
+<td>Anrd.<td c>—<td>Anordning
+<td>Apr.<td c>—<td>April
+<td>arab.<td c>—<td>arabisk
+<td>aritm.<td c>—<td>aritmetisk
+<td>arkæol.<td c>—<td>arkæologisk
+<td>Art.<td c>—<td>Artikel
+<td>ass.<td c>—<td>assyrisk
+<td>astron.<td c>—<td>astronomisk
+<td>Atm.<td c>—<td>Atmosfære
+<td>Aug.<td c>—<td>August
+<td>bab.<td c>—<td>babylonisk
+<td>Bd<td c>—<td>Bind
+<td>bearb.<td c>—<td>bearbejdet
+<td>Beg.<td c>—<td>Begyndelsen
+<td>belg.<td c>—<td>belgisk
+<td>Bet.<td c>—<td>Betydning
+<td>bib.<td c>—<td>bibelsk
+<td>Biogr.<td c>—<td>Biografi
+<td>biol.<td c>—<td>biologisk
+<td>bl.<td c>—<td>blandt
+<td>bl. a.<td c>—<td>blandt andet
+<td>bl. fl.<td c>—<td>blandt flere
+<td>bot.<td c>—<td>botanisk
+<td>Br.<td c>—<td>Brev
+<td>br.<td c>—<td>bred
+<td>bras.<td c>—<td>brasiliansk
+<td>bøhm.<td c>—<td>bøhmisk
+<td>C.<td c>—<td>Celsius
+<td>c.<td c>—<td>circa.
+<td>cg<td c>—<td>Centigram
+<td>cl<td c>—<td>Centiliter
+<td>cm<td c>—<td>Centimeter
+<td>cm<sup>2</sup><td c>—<td>Kvadratcentimeter
+<td>cm<sup>3</sup><td c>—<td>Kubikcentimeter
+<td>d.<td c>—<td>død
+<td>da.<td c>—<td>dansk
+<td>dag<td c>—<td>Dekagram
+<td>dgl.<td c>—<td>daglig
+<td>dal<td c>—<td>Dekaliter
+<td>dam<td c>—<td>Dekameter
+<td>Dat.<td c>betyder<td>Dativ
+<td>d. e.<td c>—<td>det er
+<td>Dept<td c>—<td>Departement
+<td>desl.<td c>—<td>deslige
+<td>dg<td c>—<td>Decigram
+<td>Decbr<td c>—<td>December
+<td>dl<td c>—<td>Deciliter
+<td>dm<td c>—<td>Decimeter
+<td>dm<sub>2</sub><td c>—<td>Kvadratdecimeter
+<td>dm<sup>3</sup><td c>—<td>Kubikdecimeter
+<td>Dr.<td c>—<td>Doktor
+<td>dram.<td c>—<td>dramatisk
+<td>d. s. s.<td c>—<td>det samme som
+<td>D. L.<td c>—<td>Danske Lov
+<td>Doll.<td c>—<td>Dollars
+<td>d. v. s.<td c>—<td>det vil sige
+<td>d. y.<td c>—<td>den yngre
+<td>d. æ.<td c>—<td>den ældre
+<td>e. Kr.<td c>—<td>efter Kristus
+<td>Eftm.<td c>—<td>Eftermiddag
+<td>egl.<td c>—<td>egentlig
+<td>ekskl.<td c>—<td>eksklusive
+<td>e. l.<td c>—<td>eller lignende
+<td>ell.<td c>—<td>eller
+<td>eng.<td c>—<td>engelsk
+<td>etc.<td c>—<td>et cetera
+<td>etn.<td c>—<td>etnologisk
+<td>europ.<td c>—<td>europæisk
+<td>f.<td c>—<td>født
+<td>Fam.<td c>—<td>Familie
+<td>farm.<td c>—<td>farmakologisk
+<td>f. Kr.<td c>—<td>før Kristus
+<td>Febr<td c>—<td>Februar
+<td>f. Eks.<td c>—<td>for Eksempel
+<td>fem.<td c>—<td>femininum
+<td>ff.<td c>—<td>og følgende (Sider, Paragraffer etc.)
+<td>Fig.<td c>—<td>Figur
+<td>filos.<td c>—<td>filosofisk
+<td>fl.<td c>—<td>flere
+<td>flg.<td c>—<td>følgende
+<td>fl. St.<td c>—<td>flere Steder
+<td>folkl.<td c>—<td>folkloristisk
+<td>folkr.<td c>—<td>folkeretlig
+<td>foreg.<td c>—<td>foregaaende
+<td>Forf.<td c>—<td>Forfatter
+<td>fork.<td c>—<td>forkortet
+<td>Form.<td c>—<td>Formiddag
+<td>forsk.<td c>—<td>forskellig
+<td>forst.<td c>—<td>forstørret
+<td>fot.<td c>—<td>fotografisk
+<td>fr.<td c>—<td>fransk
+<td>frc.<td c>—<td>francs
+<td>Frd.<td c>—<td>Forordning
+<td>f. T.<td c>betyder<td>for Tiden
+<td>Ft.<td c>—<td>Flertal
+<td>fys.<td c>—<td>fysisk
+<td>fysiol.<td c>—<td>fysiologisk
+<td>Gen.<td c>—<td>Genetiv
+<td>geogr.<td c>—<td>geografisk
+<td>geol.<td c>—<td>geologisk
+<td>geom.<td c>—<td>geometrisk
+<td>gl<td c>—<td>gammel
+<td>gr.<td c>—<td>græsk
+<td>Gramm.<td c>—<td>Grammatik
+<td>gramm.<td c>—<td>grammatikalsk
+<td>g<td c>—<td>Gram
+<td>Grl.<td c>—<td>Grundlov
+<td>Grw.<td c>—<td>Greenwich
+<td>Guv.<td c>—<td>Guvernement
+<td>Gymn.<td c>—<td>Gymnastik
+<td>ha<td c>—<td>Hektar
+<td>hebr.<td c>—<td>hebraisk
+<td>henh.<td c>—<td>henholdsvis
+<td>her.<td c>—<td>heraldisk
+<td>hg<td c>—<td>Hektogram
+<td>hist.<td c>—<td>historisk
+<td>H. K.<td c>—<td>Hestes Kraft
+<td>hl<td c>—<td>Hektoliter
+<td>hm<td c>—<td>Hektometer
+<td>holl.<td c>—<td>hollandsk
+<td>hydr.<td c>—<td>hydrografisk
+<td>hyg.<td c>—<td>hygiejnisk
+<td>ibd.<td c>—<td>ibidem (lat.) ɔ:paa samme Sted
+<td>iflg.<td c>—<td>ifølge
+<td>i H. t.<td c>—<td>i Henhold til
+<td>ind.<td c>—<td>indisk
+<td>Indb.<td c>—<td>Indbyggere
+<td>inkl.<td c>—<td>inklusive
+<td>intern.<td c>—<td>international
+<td>irl.<td c>—<td>irlandsk
+<td>isl.<td c>—<td>islandsk
+<td>i St. f.<td c>—<td>i Stedet for
+<td>ital.<td c>—<td>italiensk
+<td>Jan.<td c>—<td>Januar
+<td>jap.<td c>—<td>japanesisk
+<td>jur.<td c>—<td>juridisk
+<td>jfr<td c>—<td>jævnfør
+<td>Kap.<td c>—<td>Kapitel
+<td>kat.<td c>—<td>katolsk
+<td>Kbhvn<td c>—<td>Kjøbenhavn
+<td>kem.<td c>—<td>kemisk
+<td>kin.<td c>—<td>kinesisk
+<td>kir.<td c>—<td>kirurgisk
+<td>kg<td c>—<td>Kilogram
+<td>km<td c>—<td>Kilometer
+<td>km<sup>2</sup><td c>—<td>Kvadratkilometer
+<td>kgl.<td c>—<td>kongelig
+<td>Kr.<td c>—<td>Kroner
+</table>

@@ -1,0 +1,90 @@
+<sp>Skylleluftpumpe</sp>. Luften indføres enten gennem
+Porte i Cylindervæggen paa modsat Side af
+Udstødsportene ell. gennem Ventiler paa
+Toppen af Cylinderen. Motorens Virkemaade er
+flg.: Naar Stemplet staar i sin nederste
+Stilling, strømmer Skylleluften ind i Cylinderen,
+uddriver Spildegassen fra det foregaaende
+Arbejdsslag og fylder Cylinderen. Stemplet gaar
+derpaa opefter, og der lukkes for
+Udstødsporte og Skylleluft,
+saaledes at Luften sammentrykkes
+til c. 35 kg/cm<sup>2</sup> ved Enden af
+Slaget. Brændstoffet indsprøjtes og
+forbrænder under den første Del
+af næste Slag, Arbejdsslaget,
+ligesom i Firtakt-Motoren, men lidt
+før Stemplet er ved Enden af
+dette Slag, aabnes for
+Udstødsportene, og Udstrømningen af
+Gasarterne begynder.
+Brændstofforbruget er i
+<sp>Firtakt-D.</sp> fra 0,16-0,2 kg pr E. H. K. T.;
+i <sp>Totakt-D.</sp> er det c. 10 %
+større.
+
+Indtil omkr. 1910 blev D. næsten
+udelukkende anvendt til Drift af
+elektriske Dynamoer ved
+Landanlæg, nu anvendes den desuden
+meget som Fremdrivningsmaskine
+i Skibe, særlig i
+Undervandsbaade og i Handelsskibe paa
+Ruter, hvor Brændstoffet kan faas
+billigt. Fordelene ved D. i
+Sammenligning med Dampmaskineri
+er hovedsagelig større økonomisk
+Virkningsgrad, mindre Vægt,
+Pladsbehov og
+Betjeningsmandskab samt hurtig Igangsætning,
+Manglerne er: Brændstoffet er
+dyrere end Kul og kan ikke faas
+overalt, D. er dyrere at fremstille
+end Dampmaskineriet, og
+Ydelsen pr Cylinder er stærkt
+begrænset. Af sidstnævnte Grund
+maa større Skibsmotorer udføres
+med 6 à 8 Cylindre, hvorved en
+maksimal Ydelse af indtil c. 4600
+E. H. K. pr Motor er opnaaet.
+Forsøgsvis er fremstillet enkelte
+Cylindre paa 2000 E. H. K., men
+Havarier paa Cylinderen er
+indtraadt efter kort Tids Forløb,
+og D. er derfor endnu ikke
+anvendelig til større Krigsskibe og
+Hurtigdampere, hvor stor
+Hestekraft er nødvendig.
+
+I Fig. 1 a, b og c er vist en
+Enkeltcylinder, firtakt
+Landdieselmotor, <i>a</i> er
+Arbejdscylinderen, <i>b</i> Trykluftspumpen, der i to Trin
+sammentrykker Indblæsningsluften til c. 60 kg/cm<sup>2</sup>,
+<i>c</i> er Luftventilen, <i>d</i> Udstødsventilen, <i>e</i>
+Brændstofventilen, <i>f</i> Gangsætningsventilen, igennem
+hvilken Luft af c. 20 Atm. Tryk indlades over
+Stemplet, naar Motoren skal sættes i Gang.
+Ventilerne bevæges af Vippearme, der svinger
+om en faststaaende Aksel paa Cylindertoppen,
+naar de paavirkes af Kammene paa Skiverne
+<i>g</i> paa Kamakslen <i>h</i>. Denne drejes gennem en
+Tandhjulsforbindelse fra Krumtapakslen.
+Omkring Arbejds- og Luftpumpecylindre findes et
+Hulrum, <sp>Kølekappe</sp>, hvorigennem pumpes
+Vand til Afkøling af Cylindervæggene.
+Brændstofolien pumpes fra en Forbrugsbeholder op
+til Brændstof ventilen ved Hjælp af en lille
+Pumpe, der trækkes af Motoren.
+
+I Fig. 2 ses et Snit gennem en firtakt
+Skibsdieselmotor af Firmaet Burmeister & Wain's
+Konstruktion. Den er i Modsætning til
+Landmotoren forsynet med Stempelstang og
+Styreplan, og Kamakslen er anbragt ved den
+nederste Ende af Cylinderen. Bevægelsen overføres
+derfor til Vippearmene gennem lange
+Stødstænger. For at Motoren kan drive Skibet baade
+frem og tilbage, er der til Bevægelse af hver
+
+<img>2. Snit gennem firtakt Skibsdieselmotor.</img>

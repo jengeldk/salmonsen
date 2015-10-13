@@ -1,0 +1,170 @@
+dansk forkortet Bearbejdelse ved Wm.
+Rasmussen, Kbhvn 1861), »Allgemeine Beschreibung
+und Statistik der Schweiz« (3 Bind, Zürich
+1870—75), »Die Krisis in der Landwirtschaft«
+(Berlin 1881), »Das Geld« (Leipzig 1884) og »Die
+Quellen des Reichstums« (Köln 1886). W.
+indtager et Mellemstandpunkt mellem den tyske
+Frihandelsretning og den historisk-etiske,
+socialreformatoriske Skole. Han anbefaler en
+moderat Toldbeskyttelse, en af Staten organiseret
+Arbejdsanvisning og Statens Overtagelse af
+Jernbanerne. Han er stærkt paavirket af Bastiat
+og Carey.
+<i>(K. V. H.). Sv. N.</i>
+</chapter>
+
+<chapter name="Virton">
+<b>Virton</b> [vir'tå], By i belgisk Provins
+Luxembourg tæt ved Vire og Tons Sammenløb, 210 m
+o. H., er Jernbaneknudepunkt, har Jern- og
+Bomuldsindustri, Latinskole, Realskole,
+Lærerindeseminarium. — (1924) 3036 Indb. De gamle,
+af Karl V anlagte Fæstningsværker ødelagdes
+1688 af Franskmændene.
+<i>(M. Kr.). M. H-n.</i>
+</chapter>
+
+<chapter name="Virtsjärv">
+<b>Virtsjärv</b> ['vertsjærv], Vörtsjärv, Sø
+i det sydlige Estland, ligger omtrent midtvejs
+mellem Rigabugten og Peipus-Søen, om hvilken
+sidste den minder i sin Form. Den har fra N.
+til S. en Længde af 35 km og en største Bredde
+af 14 km. Dens Størrelse er 276 km<sup>2</sup>, dens
+største Dybde 7,3 m, og den ligger 43 m o. H.
+V. har lave, snart sandede, snart sumpede
+Bredder, der i øvrigt er temmelig tæt
+befolkede, mod N. af Ester og mod S. af Letter. V.
+er fiskerig, men lidet sejlbar paa Grund af
+Sandbanker. Gennem Ema-jogi (Embach) har
+den Ø. paa Afløb til Peipus-Søen, og den
+optager øvre Embach fra S. samt Tennasilm
+fra NV.
+<i>(H. P. S.). N. H. J.</i>
+</chapter>
+
+<chapter name="Virtualitet">
+<b>Virtualitet</b> (nylat.), Virkeevne.
+</chapter>
+
+<chapter name="virtuel">
+<b>virtuel</b> (lat.) kalder man en Ting eller en
+Tilstand, der endnu ikke er til Stede eller i
+hvert Fald ikke er virksom, men som kan
+komme til Stede eller blive virksom. Eks.: v.
+Billede, d. s. s. indbildt Billede, se <sp>Linse</sp> og
+<sp>Spejl</sp>. V. Hastighed eller v. Arbejde, se
+følgende Artikel.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="virtuelle Arbejders Princip">
+<b>virtuelle Arbejders Princip</b> benyttes ved
+Beregning af Ligevægtsopgaver og kan
+udtrykkes i Sætningen: »Naar et System af Legemer
+paavirkes af ydre Kræfter, er det en
+<sp>nødvendig</sp> Betingelse for Ligevægt, at disse
+Kræfter udfører Arbejdssummen Nul ved
+enhver lille tænkt (virtuel) Forskydning, der er
+mulig under de givne Betingelser og kan
+foregaa uden Gnidningsmodstand. Betingelsen er
+<sp>tilstrækkelig</sp>, naar man til ydre Kræfter
+medregner Kræfter mellem saadanne Punkter
+i Systemet, der ved Forskydningen forandrer
+deres indbyrdes Afstand«. Ved en <sp>ydre</sp> Kraft
+forstaar man en Kraft, der virker mellem et
+Punkt af det behandlede System og et Punkt
+uden for det. En Krafts Arbejde under
+Forskydningen er Produktet af Kraften og dens
+Angrebspunkts Forskydning i Kraftens Retning
+— eller, hvad der er det samme, hele
+Forskydningen multipliceret med Kraftens
+Projektion paa Forskydningsretningen. Arbejdet
+regnes positivt, naar Vinklen mellem
+Kraftretningen og Forskydningsretningen er mindre end
+en ret Vinkel; i modsat Fald er det negativt.
+Indeholder Systemet elastiske Legemer, der ved
+Forskydningen forandrer Form eller Rumfang,
+maa de Kræfter, der udøves af saadanne
+Legemer, tages med i Regningen som ydre Kræfter,
+hvorimod man ikke behøver at tage Hensyn til
+Tryk og Spændinger i Led, der med den
+Nøjagtighed, som Opgaven fordrer, kan betragtes
+som uforanderlige i Form og Rumfang.
+Gnidningsmodstande mellem faste Legemer ændrer
+Betingelserne paa den Maade, at Systemet
+vedbliver at være i Ligevægt, selv om de ydre
+Kræfter, der virker paa det, afviger noget fra
+de Forhold, hvori de skulde staa til hinanden
+for at frembringe Ligevægt uden
+Gnidningsmodstandens Hjælp. Gnidning i Vædsker nytter
+derimod ikke til at skaffe Ligevægt til Veje, da den
+Modstand, den kan frembringe, er afhængig
+af Hastigheden og nærmer sig til Nul med
+denne. V. A. P. er fundet efterhaanden ved
+Induktion; det er anvendt paa simple Tilfælde
+allerede af <sp>Galilæi</sp> og <sp>Stevin</sp> og videre
+udformet af <sp>Lagrange</sp>. Et simpelt
+Eksempel paa Anvendelsen har man i et Trisseværk
+(se <sp>Trisse</sp>). Man ser af Værkets Bygning, at
+Byrden, der løftes, maa bevæge sig lige saa
+mange Gange langsommere end Kraften, som
+Byrden, naar der er Ligevægt, er større end
+Kraften, d. v. s. at Produktet af Kraften og
+Kraftens Vej er lig Produktet af Byrden og
+Byrdens Vej. Da Byrden løftes <sp>imod</sp> Tyngden,
+medens Kraftens Angrebspunkt gaar <sp>med</sp>
+Kraften, er Byrdens Arbejde negativt, og Kraftens
+positivt, og Summen af de to Arbejder er Nul.
+Den almindelige Diskvægt (Roberval's Vægt),
+hvis Vægtstangsystem liger skjult i Fodstykket,
+er et Eksempel paa, at v. A. P. giver en særlig
+nem Løsning. Man ser, at de to Skaale
+bevæger sig lige store Veje i modsatte Retninger,
+naar Vægten svinger, og heraf følger, at de
+maa belastes lige stærkt, for at der skal være
+Ligevægt. Ved Decimalvægten (s. d.) flytter
+Loddernes Skaal sig derimod 10 Gange saa
+lang en Vej som det Bræt, Vejningsgenstanden
+staar paa; følgelig maa denne Genstand veje
+10 Gange saa meget som Lodderne, naar der
+skal være Ligevægt.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="virtuelle Hastigheders Princip">
+<b>virtuelle Hastigheders Princip,</b> uheldig
+Betegnelse for virtuelle Arbejders Princip
+(s. d.).
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Virtuos">
+<b>Virtuos</b> (italiensk <i>virtuoso</i>, egentlig
+mesterlig, af lat. <i>virtus</i>, Kraft, Dygtighed), en Person,
+som har drevet det til overlegen Færdighed i
+Udøvelsen af en eller anden Kunst, særlig
+Musikken. <sp>Virtuositet</sp>, fremragende
+Dygtighed, overlegen Færdighed, der med Lethed
+overvinder alle, særlig tekniske,
+Vanskeligheder.
+<i>(S. L.). W. B.</i>
+</chapter>
+
+<chapter name="Virtus">
+<b>Virtus,</b> se <sp>Honos</sp> og <sp>Virtus</sp>.
+</chapter>
+
+<chapter name="Wirtz, Paul">
+<b>Wirtz</b> [verts] (<sp>Würtz</sp>, <sp>Würtzen</sp>), <sp>Paul</sp>,
+tysk-svensk Kriger, f. 30. Oktbr 1612, d. Natten
+til 23.-24. Marts 1676, var Søn af en
+Kreaturhandler i Husum (Slesvig), men opdroges
+katolsk i Wien og traadte først i kejserlig, senere
+i svensk Krigstjeneste, steg til Oberst under
+Karl Gustafs Overbefaling, brugtes ogsaa som
+Diplomat, udnævntes 1654 til Generalmajor og
+Kommandant i Stade, 1655 til Kommandant i
+Krakow, modstod her gentagne Gange
+Fjendens Belejring, men indgik 1657 paa en meget

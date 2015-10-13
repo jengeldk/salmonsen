@@ -1,0 +1,29 @@
+<chapter name="RETTELSER OG TILFØJELSER">
+<h1><sp>RETTELSER OG TILFØJELSER</sp></h1>.
+(De i hvert Bind opførte Rettelser og Trykfejl vil blive samlede i sidste Bind.)
+
+<table>
+<td 7 c><sp>BIND XXI</sp>.
+<td>Side<td>110,<td>Spalte<td>1,<td>Linie<td r>6 f. n.<td>Udførslens læs: Indførslens
+</table>
+
+<table>
+<td 7 c><sp>BIND XXII</sp>.
+<td>Side<td>174,<td>Spalte<td>2,<td>Linie<td r>14-15 f. o.<td>Udgiverne af S. er Kammerherre S. Hennings' Arvinger <sp>udgaar</sp>
+<td c>—<td>174,<td c>—<td c>2,<td c>—<td r>30 f. o.<td>448 <sp>læs</sp>: 791
+<td c>—<td>174,<td c>—<td c>2,<td c>—<td r>34 f. n.<td>gennemføres <sp>læs</sp>: gennemføres saagodtsom
+<td c>—<td>174,<td c>—<td c>2,<td c>—<td r>24 f. n.<td><sp>tilføjes</sp>: [<sp>Litt</sp>.: <sp>H. Kochendörffer</sp>: Die dän. Hof und Staatskalender i »Nordelbingen«, V, Flensburg 1926].
+<td c>—<td>674,<td c>—<td c>1,<td c>—<td r>26 f. o.<td>Se Tommelise <sp>udgaar</sp>.
+<td c>—<td>675,<td c>—<td c>1,<td c>—<td r>20 f. o.<td>Gudesamtale <sp>læs</sp>: Gaadesamtale.
+<td c>—<td>790,<td c>—<td c>2,<td c>—<td r>12 f. o.<td><b>Swietochowski</b> <sp>læs</sp>: <b>Swiçtochowski</b>
+</table>
+
+<table>
+<td 7 c><sp>BIND XXIII</sp>.
+<td>Side<td>115,<td>Spalte<td>2,<td>Linie<td r>9 f. o.<td>Bd 1—2 blev udg. 1768—73, Bd 3 kom 1784, og først 1848<br>udgaves af Pogodin Bd 4. <sp>læs</sp>: Bd 1—3 blev udg.<br>1768—74, Bd 4 kom 1784 og først 1848 udgaves Pogodin Bd. 5.
+<td c>—<td>164,<td c>—<td c>2,<td c>—<td r>27 f. n.<td>i G. A. Hagemannsgade 2, Kbhvn. <sp>udgaar</sp>.
+<td c>—<td>164,<td c>—<td c>2,<td c>—<td r>5 f. n.<td>C. Busck-Nielsen <sp>læs</sp>: G. Busck-Nielsen
+<td c>—<td>280,<td c>—<td c>1,<td c>—<td r>7 f. n.<td>1690 <sp>læs</sp>: 1700
+<td c>—<td>280,<td c>—<td c>1,<td c>—<td r>6 f. n.<td>1708 i Händels »Rodrigo« i Firenxe, og 1709 i hans<br>»Agrippona« i Venedig <sp>udgaar</sp>.
+</table>
+</chapter>

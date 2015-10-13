@@ -1,0 +1,131 @@
+eenbasisk, Svovlsyre, H<sub>2</sub>SO<sub>4</sub>, er tobasisk og
+Eddikesyre, CH<sub>3</sub>COOH, er eenbasisk, idet de
+tre Brintatomer i Metylgruppen ikke er
+ionogene. Nogle S. er iltfri, f. Eks. Haloidsyrerne og
+de komplekse S. som Brinttinklorid,
+Brintplatinklorid og Ferrocyanbrinte. De fleste S. er
+iltholdige, og de basiske Brintatomer er da
+bundet til Ilt i Hydroxylgrupper f. Eks. Svovlsyre,
+(OH)<sub>2</sub>SO<sub>2</sub>, og Fosforsyre (OH)<sub>3</sub>PO. Man
+skelnede tidligere mellem Metalloid- og Metalsyrer,
+eftersom Centralatomet var et Metalloid eller
+et Metal; til de sidste hørte Manganoversyre,
+HMnO<sub>4</sub>, og Kromsyre, H<sub>2</sub>CrO<sub>4</sub>. Da Metalatomet
+her har saa høje Valenser, at det forholder sig
+som et Metalloid, er Adskillelsen uberettiget. I
+næsten alle organiske S. findes den ionogene
+Brint i Karboxylgruppen COOH. Efter Antallet
+af disse kaldes disse S. for Mono-, Di- og
+Trikarbonsyrer eller en-, to- og trebasiske.
+Valenserne regnes derimod efter Antallet af alle
+Hydroxylgrupper. I de organiske Sulfonsyrer
+findes den ionogene Brint i Gruppen SO<sub>2</sub>OH,
+der som Regel er betydeligt stærkere
+dissocieret end COOH. Syreradikalet er den med
+Hydroxyl forbundne Del af Syren, f. Eks.
+Sulfuryl, SO<sub>2</sub>, for Svovlsyre og Acetyl, CH<sub>3</sub>CO, for
+Eddikesyre. Navnene ender paa yl. Disse
+Radikaler kan forene sig med elektronegative
+Atomer og Radikaler, f. Eks. Acetylklorid, CH<sub>2</sub>COCl
+og Acetamid, CH<sub>3</sub>CONH<sub>2</sub>.
+
+Ligesom S. er dissocieret i positive Brintioner
+og negative Syrerestioner, er Baserne
+dissocieret i negative Hydroxylioner og positive
+Baserestioner, der hyppigst er Metalioner. En
+Syre siges at blive neutraliseret, naar den
+blandes med den ækvivalente Mængde Base,
+hvorved Brintionerne forener sig med
+Hydroxylionerne til Vand, og man kunde da formode, at
+en Opløsning var neutral, naar den hverken
+indeholdt Brint- eller Hydroxylioner. En
+saadan eksisterer imidlertid ikke. Det har nemlig
+vist sig, at selv det reneste Vand er, omend i
+ringe Grad, dissocieret i Brint- og
+Hydroxylioner; ved 20° er der i 10 Mill. l Vand kun
+dissocieret eet Gramækvivalent Vand, det
+bliver 10<sup>-7</sup> Gramækvivalenter i een l, og da der
+maa være lige saa mange positive som negative
+Ioner, bliver Koncentrationen af hver Slags
+altsaa 10<sup>-7</sup>. Hvor ubetydelig denne Mængde end
+kan synes at være, er det dog den, der
+betinger Ioniseringsforholdene i vandige
+Opløsninger. Massevirkningsloven lærer os nemlig, at
+Produktet af Koncentrationerne (egentlig
+multipliceret med hver sin Aktivitetskoefficient) af
+de to Ioner altid skal være det samme, hvad
+end Opløsningen ellers indeholder. Enhver
+vandig Opløsning maa derfor indeholde baade
+Brint- og Hydroxylioner, og 30 flere der er af
+den ene Slags, jo færre maa der være af den
+anden Slags. Er der lige mange af hver, er
+Opløsningen neutral, er der flest Brintioner, er den
+sur, er der flest Hydroxylioner, er den basisk
+eller, som det ogsaa kaldes, alkalisk. Man faar
+saaledes en kontinuerlig Overgang fra de sure
+Vædsker med de mange Brintioner gennem de
+neutrale til de basiske med de mange
+Hydroxylioner og derfor faa Brintioner; man angiver
+derfor som Regel kun Brintionkoncentrationen
+og i St f. selve Koncentrationen kun
+Logaritmen til den reciprokke Værdi af denne. Denne
+Størrelse kaldes pH, og er da 7 for neutrale
+Vædsker, mindre end 7 for sure og større end
+7 for basiske. F. Eks. er
+Brintionkoncentrationen i en normal Natriumhydroxydopløsning c.
+10<sup>-14</sup> (Gramækvivalenter pr l), og altsaa pH c.
+14, en Koncentration, der, skønt den er langt
+under, hvad en kemisk Analyse kan paavise,
+dog kan maales elektrometrisk med stor
+Nøjagtighed; iøvrigt findes der endnu c. 6 Mill.
+Brintioner i hver cm<sup>3</sup>. En Opløsnings
+Brintionkoncentration, der ofte blot kaldes pH, maales
+enten kolorimetrisk ved Hjælp af Farvestoffer,
+hvis Farver ændres betydeligt med pH, eller
+mere nøjagtigt elektrometrisk ved den
+elektriske Spænding, som opstaar mellem
+Opløsningen og en med Brint mættet Platinplade, der
+neddyppes deri. Blandes en Syre- med en
+Baseopløsning, vil Produktet af Koncentrationerne
+af Brint- og Hydroxylioner blive større end
+10<sup>-14</sup>, og følgelig maa der dannes Vand af de
+to Ioner, indtil Produktet igen bliver 10<sup>-14</sup>.
+Er der lige saa mange Gramækvivalenter Syre
+som Base, vil Blandingen blive neutral,
+saafremt Syren og Basen er lige stærkt
+dissocierede, ellers bliver den sur, naar Syren er
+stærkest, og basisk, naar Basen er stærkest
+dissocieret. En saadan Opløsning er ganske identisk med
+en Opløsning af et Salt (se <sp>Salte</sp>), og dennes
+pH er da afhængig af Forholdet mellem
+Styrkerne af den til Saltet svarende Base og Syre.
+Afgørende for den kemiske og fysiologiske
+Virkning af pH er den saakaldte Stødpudevirkning,
+der beror paa, at Salte modvirker, at
+Koncentrationen af Brintioner ændres ved Tilsætning
+af S. eller Baser. Alle Salte virker i samme
+Koncentration lige stærkt, men praktisk
+Betydning som Stødpuder har kun Salte af svage S.
+eller svage Baser. Virkningen er nemlig i høj
+Grad afhængig af pH, den er stærkest ved det
+pH, ved hvilket netop Halvdelen af Syren —
+eller Basen — er dissocieret, og aftager
+hurtigt til begge Sider. Virkningen af Citronsyre er
+saaledes omtrent Nul, hvor den af Borsyre er
+Maksimum og omvendt. Næsten alle de kemiske
+Processer, der betinger Livet, foregaar kun ved
+ganske bestemte og for hver Proces særegne
+pH, og disse frembringes og opretholdes netop
+ved passende Stødpuder. Saaledes indeholder
+Blodet rigelige Mængder af Fosforsyre og
+Kulsyre, der med stor Energi fastholder Blodets
+pH i Nærheden af Neutralpunktet; ændres dette
+pH blot ganske lidt, forstyrres en Mængde
+Processer i Organismen, og Individet dør. For
+Enzymerne er Indflydelsen af pH særlig nøje
+studeret, saaledes virker Pepsinet i Maven kun
+ved et pH, der er omtrent 2, medens Trypsinet,
+der bearbejder Føden i den første Del af
+Tarmen, virker bedst ved 8; Osteløben, som
+Mejeristen fælder Mælkens Kasein ud med, arbejder
+bedst ved 6 og saaledes videre. Man forstaar,

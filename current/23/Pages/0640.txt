@@ -1,0 +1,158 @@
+ud over Proportionalitetsgrænsen (se
+<sp>Elasticitet</sp>). For en saadan T. kan man regne, at
+Cylinderens Længde og Diameter ikke forandres
+kendelig, og at man kan betragte Cylinderen
+som sammensat af Rør, der har fælles Akse og
+alle snos samme Vinkel uden ellers at paavirke
+hverandre. Heraf følger for et cylindrisk Rør
+med indre Radius <i>r</i> og ydre Radius <i>R</i>, at <i>M</i> =
+<i>TV(R<sup>4</sup>—r<sup>4</sup></i>). Torsionskonstanten <i>T</i> bestemmes
+for Stænger paa den Maade, at man spænder
+Stangens ene Ende fast og vrider Stangen ved
+Hjælp af et maalt Kraftpar, der virker paa
+Stangens anden Ende. Den Snoningsvinkel, som
+dette Kraftpar frembringer, kan maales ved
+Hjælp af en Viser, der sidder fast paa
+Stangen og peger paa en fast opstillet, inddelt
+Cirkelbue. For tynde Traade finder man <i>T</i> ved at
+hænge et Legeme af kendt Vægt og Form op
+ved den nederste Ende af Traaden, medens den
+øverste er fastgjort. Af Svingningstiden for de
+ligetidige Snoningssvingninger, det ophængte
+Legeme bringes til at udføre, samt af Traadens
+Dimensioner kan Snoningskonstanten beregnes.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="Torsion (i Lægevidenskab)">
+<b>Torsion</b> betyder i Lægevidenskaben flere
+forskellige Ting eller Forhold, hvor Snoning,
+Vridning eller Drejning er det afgørende: 1)
+Ved Blodstandsning har man forsøgt i St. f.
+Underbinding at sno (<sp>torkvere</sp>) Pulsaarene
+og derved fremkalde deres Tillukning. Metoden,
+som er opfundet af Amussat, og til hvilken der
+er opfundet forskellige »Torsionspincetter«, er
+dog i det hele at anse for opgivet (smlg.
+<sp>Blodstandsning</sp>). 2) Ved Brud af Knogler
+forekommer det, at den Kraftvirkning, der
+fremkalder Brudet, virker drejende, hvorved Brudet kan
+faa en skæv, undertiden spiraldrejet Form,
+T.-Brud. 3) Tarmslyng (Volvulus) kan opstaa ved
+en Drejning ɔ: T. af et Stykke af Tarmen med
+dens Krøs. 4) En stilket Svulst eller et eller
+andet stilket Organ (Nyre, Milt, Ægstok,
+Testikel) kan undergaa en T., idet Stilken snos.
+Smerte og andre alvorlige Symptomer, maaske
+Koldbrand af det saaledes paavirkede Organ,
+kan blive Følgen. 5) Ved Indretning af
+forvredne Led kan man ved Siden af andre
+Metoder ogsaa anvende Vridning eller Drejning,
+T. — Om man anvender T. eller Synonymet
+<sp>Torkvering</sp>, er nærmest en Smagssag. T.
+er dog nu almindeligere end Torkvering, og
+dette kan næppe anvendes ved saa mange
+Forhold som T.
+<i>(E. A. T.). V. Sch.</i>
+</chapter>
+
+<chapter name="Torsion (mat.)">
+<b>Torsion</b> (mat.), se <sp>Krumning</sp>.
+</chapter>
+
+<chapter name="Torsion (i Plantepatologi)">
+<b>Torsion</b> (<sp>Tvangssnoning</sp>) er i
+Plantepatologien Betegnelse for en Misdannelse, der
+viser sig ved, at Stængelen vrides om sin
+Længdeakse, saaledes at fremspringende
+Lister o. l. paa dens Yderflade viser sig som
+spiralsnoede Linier. T. er arvelig, og man har
+af Kartebolle (<i>Dipsacus</i>) og flere Arter kunnet
+fremstille tvangssnoede Racer; stærk
+Kvælstofgødskning begunstiger Fremkomsten af T. hos
+disse. (<sp>Litt</sp>.: <sp>H. de Vries</sp> i Pringsheim's
+»Jahrbücher«, Bd XXVIII).
+<i>(F. K. R.). C. F.</i>
+</chapter>
+
+<chapter name="Torsionsinstrumenter">
+<b>Torsionsinstrumenter.</b> Da en cylindrisk
+Traads Modstand mod <sp>Torsion</sp> (s. d.)
+forholder sig som fjerde Potens af Radius, medens
+Bæreevnen forholder sig som Tværsnitsarealet,
+altsaa som anden Potens, vil meget tynde Traade
+frembyde en Snoningsmodstand, der er meget
+lille i Sammenligning med deres Bæreevne.
+Dette Forhold benytter man i adskillige fysiske
+Instrumenter, hvor man ønsker at faa en
+Genstand ophængt saaledes, at den med stor
+Lethed kan dreje sig, og at de Kræfter, der
+frembringer en vis Drejning, kan maales. Bryder
+man sig ikke om at faa Kraften maalt, men
+kun om at paavise dens Tilstedeværelse, vil et
+Silkespind som oftest gøre god Nytte som
+Ophængningstraad; skal der udføres egentlige
+Maalinger, maa man benytte Metaltraad, eller,
+naar der stilles meget store Fordringer til
+Følsomheden, Traade trukne af halvsmeltet Kvarts.
+Disse Traade, som kan gøres mange Gange
+finere end et Silkespind, viser næsten ideale
+Elasticitetsforhold, idet de inden for rimelige
+Grænser er helt fri for elastisk Eftervirkning
+(se <sp>Elasticitet</sp>), der gør f. Eks. et
+Silkespind temmelig uanvendeligt ved Maalinger,
+hvor Udslagets Størrelse skal benyttes til
+Beregning af den virkende Kraft. Som Eksempler
+paa T. kan nævnes forskellige Former af
+<sp>Galvanometre</sp> (s. d.) samt
+<sp>Snovægten</sp> (s. d.). Thomson's
+<sp>Kvadrantelektrometer</sp> (se <sp>Elektrometer</sp>) er et T.,
+og det samme kan siges om et <sp>Lommeur</sp>,
+der reguleres ved en Staalfjeders
+Snoningssvingninger.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="Torsionsspasme">
+<b>Torsionsspasme</b> er en arvelig Nervesygdom,
+beslægtet med Wilson's Sygdom (s. d.), som
+begynder i Barnealderen og væsentlig viser sig
+ved Stivhed af Musklerne og stærke Vridninger
+af Kroppen.
+<i>K. H. K.</i>
+</chapter>
+
+<chapter name="Torsk">
+<b>Torsk</b> eller <sp>Torskefisk</sp> (<i>Gadidæ</i>), en
+Familie af de afysostome Benfisk. Legemet er
+noget langstrakt, med smaa, glatte Skæl. Een,
+to eller tre Rygfinner, der indtager næsten hele
+Ryggens Længde; een eller to Gatfinner;
+Halefinnen sædvanlig adskilt fra de andre uparrede
+Finner; Bugfinnerne sidder <sp>foran</sp>
+Brystfinnerne. Alle Finnestraalerne er leddede.
+Kæberne forsynede med Tænder. Gællespalterne vide.
+Torskefamilien omfatter c. 35 Slægter og
+omtrent 120 Arter; nogle hører Dybhavet til og
+er udbredte over alle Oceaner; men de fleste
+holder til ved Kysterne af de nordlige Have;
+kun et Par Arter forekommer i Ferskvand.
+T. er Rovfisk, men ernærer sig til Dels ogsaa
+af Krebsdyr, Bløddyr, Orme og Pighude. Flere
+Arter er af stor økonomisk Betydning, da de
+har et velsmagende, let fordøjeligt Kød og
+optræder i uhyre Mængde. —
+Torskeslægten (<i>Gadus</i>) har tre Rygfinner og to Gatfinner.
+Man kender en Snes Arter, der alle tilhører
+den nordlige Halvkugle. Torsken (<i>G.
+callarias</i> eller <i>G. morrhud</i>): Underkæben naar ikke
+saa langt frem som Overkæben; under Hagen
+sidder en temmelig lang Føletraad; Halefinnen
+næsten lige afskaaren; Sidelinien hvidlig,
+noget bøjet; talrige runde mørke Pletter paa
+Sider og Ryg (se i øvrigt ndf. om T.'s Biologi
+og Torskefiskerierne). <sp>Kulleren</sp>, norsk
+<sp>Hyse</sp> og <sp>Kolje</sp> (<i>G. æglefinus</i>): Underkæben naar
+ikke saa langt frem som Overkæben;
+Hagetraaden kort; Sidelinien sortagtig, noget buet;
+Halefinnen tydelig indadbuet; en stor mørk Plet

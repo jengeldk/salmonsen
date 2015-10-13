@@ -1,0 +1,146 @@
+til Kedlens højeste Punkt for at faa saa tør
+Damp som mulig og lægges i Reglen derfra med
+Fald i Dampens Bevægelsesretning. Paa lange
+Ledninger anbringes hyppigt Vandsamlere for
+det fortættede Vand paa Ledningens laveste
+Punkt i Nærheden af Maskinen. Af Hensyn til
+Rørenes Længdeforandringer ved
+Temperaturvekslinger indskydes Ekspansionsmuffer (s. d.)
+paa Ledningen, hvor det ikke er muligt at
+opnaa den nødvendige Elasticitet ved at give Røret
+en større jævn Krumning. For at beskytte D.
+mod Varmeudstraaling beklædes den med
+isolerende Lag; hertil anvendes Ler og Fæhaar,
+Filt, Asbest, Glasuld, Kiselgur, Lerrør ell.
+Blikrør med Luftisolering o. fl.
+<i>H. P. C.</i></chapter>
+
+<chapter name="Dampmaskine">
+<b>Dampmaskine</b> er en Maskine, der kan
+omsætte den i Vanddamp indeholdte Energi til
+mek. Arbejde. Det har været forsøgt at
+anvende andre Damparter end Vanddamp (f. Eks.
+Æter-, Ammoniak-, Svovlsyrling- ell.
+Kviksølvdampe) i de saakaldte Kolddampmaskiner, uden
+at dette dog har faaet praktisk Bet.
+
+D. kan deles i <sp>Stempeldampmaskiner</sp>
+og <sp>Dampturbiner</sp> (s. d.). De førstnævnte
+bestaar i deres simpleste Form af en for
+Enderne lukket Cylinder, hvori et Stempel bevæges
+frem og tilbage, ved at automatiske
+Dampfordelingsmekanismer (Glidere, Ventiler e. l.)
+skiftevis leder Damp til og fra de to
+Cylinderender, saaledes at Trykket bliver større paa
+den ene end paa den anden Side af Stemplet.
+Til den ene Cylinderende ledes Kraftdamp fra en
+Dampkedel, medens den anden Cylinderende
+sættes i Forbindelse enten med Atmosfæren ved
+den saakaldte <sp>Højtryksmaskine</sp> ell. med
+en <sp>Kondensator</sp> med <sp>Vakuum</sp> (d. v. s.
+Tryk lavere end Atmosfærens) ved den
+saakaldte <sp>Lavtryksmaskine</sp>. Kondensatoren
+er et særligt Rum, som ved Rørledninger kan
+sættes i Forbindelse med Cylinderen, og i hvilket
+Vakuum dannes ved Dampens Afkøling og
+Fortætning. Dampens Fortætning kan enten ske,
+ved at Dampen blandes med koldt Vand, og
+Kondensatoren benævnes da en
+<sp>Indsprøjtningskondensator</sp>, ell. ogsaa ved at
+Dampen kommer i Berøring med Overfladen af
+en stor Mængde vandafkølede Rør i en
+<sp>Overfladekondensator</sp>. Det ved Dampens
+Fortætning dannede Vand (eventuelt tillige
+Indsprøjtningsvandet) fjernes fra Kondensatoren
+ved Hjælp af en særlig Pumpe,
+<sp>Luftpumpen</sp>, der desuden bortskaffer Luften fra
+Kondensatoren og derigennem forbedrer Vakuum'et.
+Maskiner, hvor Dampen kun arbejder i en
+enkelt Cylinder, kaldes <sp>simple Maskiner</sp>,
+medens Maskiner, hvor den samme Damp
+arbejder i fl. Cylindre i Rækkefølge, kaldes
+<sp>Flergangsmaskiner</sp>.
+
+Stemplets frem- og tilbagegaaende Bevægelse
+overføres af en <sp>Stempelstang</sp>, <i>A</i>, se Fig.
+1, til et Led, <sp>Krydshovedet</sp>, <i>B</i>, der i
+Reglen er styret ved Hjælp af særlige
+<sp>Styreplaner</sp>. En <sp>Forbindelsesstang</sp> (eller
+Plejlstang), <i>C</i>, og en <sp>Krumtap</sp>, <i>D</i>, giver
+<sp>Krumtapakslen</sp>, <i>E</i>, en roterende
+Bevægelse. Paa Akslen findes i Alm. et
+<sp>Svinghjul</sp>, hvis Bevægelsesenergi bringer
+Mekanismen over Dødpunkterne <i>F</i> og <i>G</i> og gør
+Maskinens Gang jævnere. Er Svinghjulet stort, er
+det tilstrækkeligt at lade Dampen bevæge
+Stemplet i den ene Retning og at lade
+Svinghjulet besørge Tilbageføringen. En saadan
+Maskine kaldes <sp>enkeltvirkende</sp> i
+Modsætning til den ovf. nævnte <sp>dobbeltvirkende D</sp>.
+En kort Maskine faas ved at gøre Bevægelsen
+<sp>tilbagevirkende</sp> (se Fig. 4) i St f.
+<sp>direktevirkende</sp> ell. ved at forsyne Stemplet
+med en rørformet Stempelstang, <sp>Trunk</sp> (se
+Fig. 2). Der anbringes undertiden Trunk i begge
+Ender af Cylinderen (se Fig. 3). I den
+<sp>vuggende D.</sp> (oscillerende D.) svinger Cylinderen
+om to Tappe, saaledes at Forbindelsesstangen
+kan udelades, og D. bliver derved meget kort
+(se Fig. 5). I nogle D., f. Eks. Pumper,
+Damphamre o. l., kan Omsætningen fra op- og
+nedadgaaende til roterende Bevægelse helt undgaas.
+
+Efter Cylinderaksens Stilling skelner man
+mellem den <sp>liggende D.</sp> (Fig. 21), den
+<sp>skraatstillede D.</sp> og den <sp>staaende D</sp>. I de to
+sidstnævnte kan Cylinderen enten være foroven
+(staaende D. af denne Type, f. Eks. Fig. 23 og
+25 kaldes <sp>Hammermaskiner</sp>) ell.
+forneden. Undertiden kan Cylinderakserne danne
+en V-Form ell. en Stjerne (se Fig. 11).
+
+Dampen, der anvendes i D., har et
+Begyndelsestryk af 1-20 kg/cm<sup>2</sup>, afhængig af
+Maskintypen. Højt Tryk giver en økonomisk Maskine,
+men kræver god Konstruktion og
+Forarbejdning samt kyndig Pasning. Anvendelse af
+<sp>overhedet Damp</sp> (se <sp>Damp</sp>) med Temp. indtil
+350° forbedrer Maskinens Økonomi, men gør
+Konstruktionen vanskeligere, og den Smøreolie,
+der skal benyttes, maa være af en særlig Art
+for at kunne taale saa høje Temperaturer.
+
+For at bevæge Stemplet fra den ene Ende af
+Cylinderen til den anden, er det ikke
+nødvendigt at indlade Damp under hele <sp>Slaget</sp>
+(Stemplets Vandring). Det er tilstrækkeligt, at
+der er Dampindstrømning de første 10-70 % af
+Slaget, hvorefter man under Resten af Slaget
+kan lade den indesluttede Damp udvide sig
+(<sp>Ekspansion</sp>). Derved falder Trykket
+gradvis, og Stemplets Arbejde bliver noget mindre,
+end ved fuld <sp>Fyldning</sp>; men Dampforbruget
+er samtidig blevet meget mindre, og der opnaas
+derved en betydelig Besparelse. I moderne
+Maskiner anvendes derfor en saa vidt dreven
+Ekspansion, som de praktiske Forhold tillader.
+
+Da Trykfald er ensbetydende med
+Temperaturfald, vilde en vidt dreven Ekspansion i en
+enkelt Cylinder bevirke meget store
+Temperatursvingninger i denne og foraarsage store
+Tab p. Gr. af Dampens Fortætning (<sp>Nedslag</sp>)
+i Cylinderen. Man lader derfor som oftest
+Dampen arbejde i 2, 3 ell. 4 Cylindre efter hinanden
+(i Serie) i de saakaldte
+<sp>Flergangsmaskiner</sp>, der afhængig af Cylindertallet benævnes
+henh. <sp>Togangs</sp>- (<sp>Høj- og Lavtryks-</sp> ell.
+<sp>Compound</sp>-), <sp>Tregangs</sp>-
+(<sp>Tripleekspansions</sp>-) ell. <sp>Firgangs</sp>-
+(<sp>Quadrupleekspansionsmaskiner</sp>). Den første
+Cylinder kaldes Højtryks- (HT.-) Cylinderen, den
+sidste Lavtryks- (LT.-) Cylinderen. Denne har
+det største Stempelareal, da Trykket her er
+mindre end i HT-Cylinder en, og da man ønsker
+at faa det samme Arbejde udrettet i de forsk.
+

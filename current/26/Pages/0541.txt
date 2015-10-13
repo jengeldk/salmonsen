@@ -1,0 +1,107 @@
+Landmandsbanken, 2 Afholdshjem, Brugsforening, Møller,
+Savværk, Elektricitetsværk, Andelsmejeri, flere
+Købmandsforretninger, Postekspedition og
+Telegrafstation samt Telefoncentral. — I <sp>Koldby</sp>,
+som ligger 2,5 km østligere ved Hovedlandevejen
+Tisted—Oddesund, var der 1929 360 Indb., og
+her er Kommuneskole (4 Klasser),
+Amtssygehus, Apotek, Læge, Dyrlæge, Brugsforening,
+Afholdshjem, Brevsamlingssted og Telefoncentral
+samt Handlende m. m. — I <sp>Sognet</sp> ligger
+Hovedgaarden Irup, og desuden var der 1929
+28 Gaarde, 81 Landbrugshuse og i alt 133
+Beboelseshuse med 1247 Indb. — H. er
+Bitingsted i 75. Retskreds
+(Hassing-Revs
+Herreder).
+<i>M. S.</i>
+</chapter>
+
+<chapter name="Høreapparater">
+<b>Høreapparater</b> for
+Tunghøre er
+lydforstærkende Apparater, bygget
+efter to vidt forskellige
+Principper, nemlig de
+rent <sp>akustiske H.</sp>,
+Tragte, Høreslanger o.
+l., i hvilke
+Lydforstærkningen beror paa
+Lydbølgernes Reflektion
+eller Resonans, og
+<sp>elektriske H.</sp>, i hvilke
+Lydimpulserne omsættes
+til elektriske
+Strømvariationer ved Hjælp af en
+<sp>Mikrofon</sp>, og disse
+igen ved Hjælp af en
+<sp>Telefon</sp> omsættes til
+kraftig mekanisk
+Bevægelse af en Membran, hvilket atter frembringer
+Trykvariationer i Luftrummet i det ydre Øre.
+
+De akustiske H.'s lydforstærkende Evne
+afhænger af deres Størrelse; naar de skal være
+effektive, bliver de noget uhandelige. Lige
+siden Graham Bell's Opfindelse af Telefonen
+(1876), der i første Tanke var et Hjælpemiddel
+i Døvstummeundervisningen, er der, bl. a. af
+Western Electric Co. i Amerika og Siemens & Halske i
+Europa, arbejdet paa at forbedre de elektriske H.,
+og navnlig gøre dem følsomme og smaa i
+Dimensionerne, to vanskeligt forenelige Krav.
+Mikrofonen bestaar af en Metal- eller
+Kulmembran, der lukker for et Kulkammer, fyldt med
+Kulkorn af forskellig Størrelse og Antal efter
+Fabrikatet. Ved Lydbølgernes Tryk mod
+Membranen sættes denne i Svingninger, og
+Kulkornenes Tryk
+indbyrdes og mod Membran og
+Kamrets Vægge
+forandres og dermed
+Mikrofonens elektriske
+Modstand. Disse
+Modstandsvariationer frembringer
+Strømvariationer i den
+i Række med Mikrofon
+og Batteri (3—4, 5 Volt
+Tørelement) forbundne
+Telefon. Denne bestaar
+af en Staalmembran og
+en bagved liggende
+Elektromagnet, hvis Spoler
+gennemløbes af den af
+Mikrofonen varierede
+Strøm; Magneten
+tiltrækker derfor
+Staalmembranen i Takt med den
+opfangne Tale (Musik), og
+Membranen sætter
+Luften foran i Lydsvingninger.
+
+Som omtalt andetsteds (se <sp>Telefon</sp>, S. 170)
+har Kulkornsmikrofonen ved Siden af sin store
+Følsomhed dog visse Mangler, der viser sig i
+udpræget Grad ved H., som Fremhæven af de
+Toner, der ligger omkring Membranens eget
+Svingningstal, samt som en ikke lige kraftig
+Forstærkning af svage og stærke Lyde. Ogsaa
+Telefonmembranen giver nogen Forvrængning,
+og en Kvalitetsgengivelse af Tale og Toner er
+derfor ikke mulig paa Teknikkens nuværende
+Standpunkt (navnlig er Kulkornsmikrofonen
+mangelfuld), men Forstærkningen i de bedste
+H. (foruden de nævnte Fabrikater findes
+Acousticon, Akustik m. fl.) er i mange Tilfælde
+tilstrækkelig god til at være en værdifuld Hjælp
+for en svigtende Hørelse. Nogen Tilvænning til den
+særlige Klangfarve, og den tit noget generende
+
+<img>Fig. 1. Elektrisk Høreapparat med Dobbeltmikrofon (<i>a</i>), ekstra Forstærker
+(<i>b</i>), Batteri (<i>c</i>), Telefon af lille Type (<i>d</i>); (<i>e</i>) ektra Telefon af større Type
+med Bøjle. (Fabrikat: Siemens & Halske).</img>
+
+<img>Fig. 2. Elektrisk Høreapparat med Mikrofon (<i>a</i>), Afbryder og
+Styrkeregulator (<i>b</i>), Batteri (<i>c</i>), Telefon af lille Type (<i>d</i>); (<i>e</i>) Ørestykker af forskellig
+Form. (Fabrikat: Western Electric Co.).</img>
+

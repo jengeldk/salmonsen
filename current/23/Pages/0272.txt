@@ -1,0 +1,165 @@
+Maaling. <sp>Six</sp>' T. er baade Maksimums- og
+Minimumstermometer. Det bestaar af et
+Termometerrør, der er ombøjet i Form af et U
+med lange, parallelle Grene. I Rørets
+nederste Halvdel er der Kvægsølv; foroven
+ender Grenene i to lukkede Beholdere <i>A</i>
+og <i>B</i>. <i>A</i> er helt og <i>B</i> halvt fyldt med Alkohol
+ell. anden passende Termometervædske, der
+altsaa i begge Grene staar over
+Kvægsølvet. I hvert Rør ligger der over dettes
+Overflade en lille Jernnaal, der p. Gr. a. sin
+Forbindelse med en elastisk Traad, som spænder
+den svagt mod Rørvæggen, kan blive siddende
+paa det Sted i Røret, hvor Kvægsølvet ved sin
+Bevægelse skyder den hen. Damptrykket over
+Vædsken i <i>B</i> tvinger hele Vædskesøjlen til at
+holde sammen og slutte til Glasvæggen. Den
+nederste Ende af Naalen i <i>B</i> viser Maksimum,
+den anden Naals nederste Ende Minimum.
+Efter Aflæsningen fører man begge Naale ned til
+Kvægsølvoverfladerne ved Hjælp af en Magnet.
+Det er sikrest at holde T. vandret, da ellers
+Stifterne kan forskydes ved tilfældige Rystelser.
+<sp>Lægetermometeret</sp> er et
+Maksimumstermometer, hvorpaa kun nogle faa Grader
+over og under Legemets Normaltemperatur
+(c. 37,5°) er afsatte. Herved opnaas, at man
+kan faa Plads til at afsætte Tiendedele
+Grader. Da den cylindriske Beholder ikke er stor,
+maa Røret være meget snævert, for at
+Graderne paa Røret kan blive lange nok, og
+Kvægsølvet bevæger sig derfor trangt i Røret.
+Naar det af Legemets Varme er drevet saa
+højt op, som det ved den givne Temp. kan
+komme, og T. derpaa tages ud af Legemet,
+trækker Kvægsølvet i Beholderen sig vel
+sammen, men Traaden i Røret følger ikke med;
+den skilles fra tæt oven for Beholderen, hvor
+Røret er stærkt indsnævret, og den bæres
+altsaa af Kvægsølvets Overfladespænding. Efter
+Aflæsningen maa Kvægsølvtraaden ved en
+passende Haandbevægelse bringes ned mod
+Beholderen, før T. kan bruges igen.
+
+<sp>Selvregistrerende</sp> T. benyttes især i
+to Udførelsesformer.
+<sp>Bimetaltermografen</sp> bestaar af en lang Strimmel, bestaaende
+af Messing og Invar, sammensvejsede i hele
+Længden; Strimlen er bøjet som en
+Proptrækker, med Invar paa Ydersiden og Messing paa
+Indersiden af Vindingerne. Den ene Ende af
+Proptrækkeren gøres nu fast, medens den
+anden Ende forbindes med en lang Arm, hvorpaa
+der findes en Skrivestift. Temperaturændringer
+vil da, paa Grund af de to Metallers forskellige
+Varmeudvidelse, sno Proptrækkeren mere eller
+mindre op og derved føre Skrivestiften op eller
+ned langs et Stykke Papir, anbragt paa en
+Valse, der drejes af et Urværk.
+<sp>Bourdontermografen</sp> bestaar af et Rør, hvis
+Tværsnit har Form af en meget flad Ellipse, og hvis
+Længdesnit er en Cirkelkvadrant; Røret er
+helt fyldt med Sprit. Den ene Ende af Røret
+er fast, den anden Ende er forbundet med en
+Skrivestift ganske som ved
+Bimetaltermografen. Naar Temperaturen stiger, vil Spritten
+udvide sig og derved forøge Rørets Rumfang;
+dette medfører, at Røret retter sig lidt ud, saa
+Skrivestiften flyttes.
+
+<sp>Teletermometre</sp> (Fjern-T.) tjener til
+Aflæsning af Temperaturer paa Steder, der i
+Øjeblikket ikke er tilgængelige for Iagttageren;
+der benyttes hertil næsten udelukkende
+Modstandstermometre. Teletermometre findes f.
+Eks. Anvendelse, hvor man fra et enkelt
+Ingeniørkontor ønsker at kunne kontrollere
+Temperaturen i Kølerum uden at gaa derind og
+derved forstyrre Temperaturforholdene i
+Kølerummet.
+
+Det første T. (egl. kun Termoskop) skyldes
+<sp>Galilei</sp>, der i Slutn. af 16. Aarh. dannede
+det af et Glasrør med tilblæst Beholder.
+Glasrørets aabne Ende stod i Vand, der steg og
+sank i Røret, efter som Temperatur (og
+Lufttryk) skiftede. <i>Accademia del Cimento</i>
+(1657—67) i Firenze fik dannet de første
+virkelig brugelige Vædsketermometre. Den første
+betydelige Termometermager er
+<sp>Fahrenheit</sp> (s. d.), der, muligvis under Paavirkning
+af Ole Rømer, 1720 begyndte at bruge
+Kvægsølv som Vædske i T. <sp>Réaumur</sp> (s. d.) og
+<sp>Celsius</sp> (s. d.) har knyttet deres Navne
+til to førnævnte Skalaer, men har for øvrigt
+ikke haft væsentlig Del i Termometriens
+Udvikling.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Termometri">
+<b>Termometri</b> (græsk), d. s. s.
+<sp>Temperaturmaaling</sp>, se <sp>Termometer</sp>.
+</chapter>
+
+<chapter name="Termomikrofon">
+<b>Termomikrofon,</b> se <sp>Telefon</sp>.
+</chapter>
+
+<chapter name="Termonasti">
+<b>Termonasti,</b> se <sp>Bevægelser, Planters</sp>.
+</chapter>
+
+<chapter name="Termonde">
+<b>Termonde,</b> se <sp>Dendermonde</sp>.
+</chapter>
+
+<chapter name="Termoskop">
+<b>Termoskop</b> (gr.), Redskab til Sammenligning
+af Temperaturer. Se <sp>Termometer</sp>.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="Termopenetration">
+<b>Termopenetration</b> kaldes den Metode, som
+i Medicinen anvendes til at opvarme de dybere
+liggende Væv. Medens Varmen ved Varmepude,
+Omslag etc. ikke trænger dybere end til Hudens
+overfladiske Lag og kun virker gavnlig ved den
+Fluksion af Blod, der fremkommer, kan man
+ved højfrekvente Vekselstrømme, som det er
+omtalt under <sp>Diatermi</sp>, opnaa en
+dybtgaaende Virkning.
+<i>H. I. B.</i>
+</chapter>
+
+<chapter name="Termostat">
+<b>Termostat</b> (gr.), Redskab til at holde
+Genstande paa konstant Temperatur. Mest konstant
+bliver denne, hvis man kan benytte Legemernes
+konstante Smelte- eller Kogepunkter, men
+derved kan man ikke skaffe sig enhver som helst
+Temperatur. Dette kan imidlertid opnaas paa
+forskellig Maade. Badet, hvori Genstanden
+findes, kan f. Eks. opvarmes ved Hjælp af en
+Gasflamme; Gastilstrømningen reguleres ved Hjælp
+af Vædskehøjden i et Slags Termometer, hvis
+Beholder er anbragt inde i T. Naar Vædsken i
+Røret har naaet en vis Højde, lukker den mere
+eller mindre for Gasstrømmen. Gennem en lille
+Aabning, der sidder saa højt, at den ikke kan
+lukkes, strømmer der altid saa megen Gas ud,
+at Flammen ikke helt slukkes. Paa ganske
+tilsvarende Maade kan Opvarmning ved
+Elektricitet reguleres. T. holder altsaa ikke egentlig
+Temperaturen konstant, men ved Hjælp af
+Regulatoren afbrydes Varmetilførslen, naar
+Temperaturen er lidt for høj, og den sættes først i
+Gang, naar Temperaturen igen er bleven lidt
+for lav. Temperaturen vil altsaa stadig svinge
+lidt om den ønskede Temperatur, men disse
+Svingninger, kan gøres meget smaa, f. Eks.
+mindre 1/20°.
+<i>A. W. M.</i>
+</chapter>

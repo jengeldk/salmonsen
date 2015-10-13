@@ -1,0 +1,137 @@
+fremgaa af flg. Eksempel: en Bane regner
+Transportafgiften proportionalt til 1 Øre pr
+100 kg pr km med et Ekspeditionsgebyr af
+10 Øre. Fragten bliver da saaledes pr
+100 kg:
+<table>
+<td>for<td>10<td>km<td r>20<td>Øre,<td>altsaa<td>egl.<td>pr<td>km<td>2<td>Øre
+<td c>-<td>20<td c>-<td r>30<td c>-<td c>-<td c>-<td c>-<td c>-<td>1,5<td c>--
+<td c>-<td>50<td c>-<td r>60<td c>-<td c>-<td c>-<td c>-<td c>-<td>1,2<td c>--
+<td c>-<td>90<td c>-<td r>100<td c>-<td c>-<td c>-<td c>-<td c>-<td>1,11<td c>-
+</table>
+
+Ekspeditionsgebyrets forsk. Virkning paa de
+forsk. Afstande medfører saaledes, at Taksten
+bliver faldende, og man ser aldeles bort fra
+Ekspeditionsgebyret, naar man alligevel kalder
+Taksten proportional. Dette begrundes ved, at
+Gebyret søger sin Berettigelse i de
+Omkostninger, som Behandlingen af Godset paafører
+Jernbanen paa Afgangs- og Bestemmelsesstationen,
+og dette Gebyr kunde saaledes godt opkræves
+særligt. Da Ekspeditionsgebyret virker meget
+kraftigt paa de korte Afstande, er fl. Baner
+gaaede over til at beregne Gebyret efter en
+stigende Skala, saa at det først ved en vis Afstand
+opkræves med sit fulde Beløb. Dette er maaske
+ret praktisk, men teoretisk uholdbart, idet
+selvfølgelig Omkostningerne paa Afgangs- og
+Bestemmelsesstationen er lige høje, hvad enten
+Godset befordres langt ell. kort. Den faldende
+Skala er for Tiden det alm. System for
+Godstakster, i langt højere Grad end for
+Persontakster. Dette System er ogsaa teoretisk det
+mest holdbare. Jernbanens Omkostninger ved
+Transporten er nemlig forholdsvis mindre for
+længere Afstande end for korte. Man maa ved
+Jernbanernes Udgifter sondre mellem de faste
+og de foranderlige. De faste er de, der er
+uafhængige af Trafikkens Omfang: Forrentning og
+Amortisation af Anlægskapitalen og en Del af
+Driftsomkostningerne, nemlig et vist Slid paa
+Banelegemet, Materiel og Bygninger som
+Følge af Vind og Vejr, Frost og Hede og et vist
+Minimum af Material- og Arbejdsforbrug, der
+overhovedet er nødvendigt for at kunne drive
+en Jernbane. Disse faste Udgifter er
+forholdsvis mindre ved lange Transporter end ved
+korte, idet Udgifterne maa fordeles efter
+<sp>Godsmængden</sp> uden Hensyn til Befordringsvejen,
+eftersom disse faste Udgifter er ens, hvad
+enten Godset befordres kort ell. langt. De
+foranderlige Omkostninger er de, der vokser
+sammen med Trafikken, saaledes f. Eks. Forbruget
+af Brændsel og Smørelse m. m. Men heller
+ikke disse Udgifter vokser proportionalt med
+Vejlængden. Naar en Maskine og en Vogn først er
+satte i Gang, stiger Udgiften til Brændsel og
+Smørelse ikke proportionalt for hver km, der
+køres. Af særlig Vigtighed bliver
+Spørgsmaalet om Materiellets Udnyttelse, naar der er
+Tale om de foranderlige Omkostninger; det er
+givet, at Udnyttelsen af Materiellet er meget
+daarligere ved korte Transporter end ved
+lange, idet den Tid, Vognen er under Rangering,
+Paa- og Aflæsning er uforholdsmæssig stor over
+for den Tid, Vognen ved korte Transporter er
+undervejs og bringer Indtægt. Den faldende
+Skala er tillige det mest formaalstjenlige
+System for Banerne. En Vare kan nemlig i
+Reglen befordres saa langt, som den kan sælges.
+Salgsmuligheden betinges af Prisen paa
+Forbrugsstedet; denne maa ikke overstige en vis
+Højde. Men Prisen paa Forbrugsstedet er —
+navnlig for det mindre værdifulde Massegods
+— i meget væsentlig Grad betinget af
+Transportomkostningerne. Fragten er saaledes for
+lange Afstande ofte afgørende for
+Salgsmuligheden og som Følge deraf for
+Transportmuligheden. Jernbanen staar derfor tit over for
+Valget mellem at nedsætte Fragten for længere
+Afstande ell. at give Afkald paa Transporten.
+Men at gøre Taksterne paa lange Afstande
+billige med Bibeholdelse af det proportionale
+System medfører uhyre billige Takster paa korte
+Afstande, hvorved Jernbanen løber en Risiko,
+den maaske ikke kan taale. Derfor foretrækkes
+i Alm. den faldende Skala.
+
+Foruden for alm. Gods indeholder
+Godstarifferne, som nævnt foran, i Reglen Takster for
+<sp>Køretøjer</sp> og <sp>Lig</sp>. For Køretøjers Vedk.
+skelnes som oftest mellem 1) Køretøjer, der
+befordres paa egne Hjul, og 2) Køretøjer, der
+er læssede paa Jernbanevogne. For de
+sidstnævnte beregnes i Alm. Fragt efter de alm.
+Godstakster, for de førstnævnte fastsættes i
+Reglen en særlig Takst pr Ton og km ell. pr
+Aksel og km. For Lig beregnes Fragten ret
+forsk.; paa de danske Statsbaner betales der
+for et Lig Fragt af 5000 kg efter den alm.
+Vognladningsklasse, i Sverige betales som for
+Sporvogne o. l. Køretøjer. Bestemmelserne om
+Lig findes for enkelte Landes Vedk. i
+Persontarifferne.
+
+Taksterne i <sp>Kreaturtarifferne</sp> kan
+selvfølgelig ligesom Person- og Godstaksterne
+være opstillede proportionalt, efter en faldende
+Skala og efter Zonesystemet. Af Hensyn til
+Vognudnyttelsen sondres der i Reglen mellem
+Dyr i hele Vognladninger og enkelte Stykker
+Dyr. Fragtberegningen for Vognladninger er i
+Tidens Løb sket efter mange forsk. Systemer;
+det almindeligste System for Tiden er at
+beregne Fragten pr m<sup>2</sup> af den <sp>leverede</sp> Vogns
+Grundflade. — Styktaksterne er ofte meget
+vilkaarlig fastsatte. Det mest rationelle turde vel
+være at udregne omtrentlig, hvor stor Plads de
+enkelte Arter Dyr optager af en Vogns
+Bundflade, og da fastsætte Fragten i Forhold til
+Vognladningstaksten, kun med en vis
+Forhøjelse, eftersom Transporten af enkelte Stykker
+Dyr foraarsager Jernbanen uforholdsmæssige
+Udgifter, da man ofte vil mangle baade Tid og
+Lejlighed til at læsse fl. Smaasendinger i
+samme Vogn, endsige læsse Vognen fuld.
+
+Som nævnt under Persontaksterne var ved
+Verdenskrigens Udbrud i <sp>Danmark</sp> ogsaa
+for Godstaksternes og Kreaturtaksternes Vedk.
+L. af 13. Maj 1911 om Statsbanernes Takster
+m. m. Grundlaget for Taksterne. I Henhold til
+L. af 13. Oktbr 1917 blev Taksterne summarisk
+forhøjede med 25 %, medens der i Henh. t.
+L. af 21. Decbr 1918 foretoges en rationel
+Ændring af Taksterne. De paa denne Lovs
+Grundlag og efter en faldende Skala fastsatte

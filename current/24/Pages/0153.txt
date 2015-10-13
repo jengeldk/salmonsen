@@ -1,0 +1,136 @@
+York i <i>Elmira Reformatory</i> (s. d.) har gjort et
+Tilløb til u. S. (<i>indeterminate sentence</i>), er det
+legale Straffemaksimum for Domfuldtes
+Forbrydelse ubetinget Grænse for Straffens Varighed.
+Norsk Straffelov § 65, som ved en Række grove
+Forbrydelser giver Adgang til i Dommen at
+foreskrive Forbryderens Tilbageholdelse i
+Fængselet »saalænge det findes fornødent«,
+foreskriver desuagtet — ligesom de amerikanske Love
+— et bestemt Maksimum (det tredobbelte af den
+fastsatte Straffetid og i intet Tilfælde mere end
+15 Aar ud over samme). I dansk Lovgivning
+findes ingen tilsvarende Forskrift, hvorimod den
+i de senere Aar i Teori og Praksis stigende
+Tendens til over for visse Forbrydere at erstatte
+Straf med <sp>Sikkerhedsforanstaltning</sp>
+(s. d.) i dansk Ret har sat Frugt dels i
+Straffelovskommissionens Udkast af 1923, dels i den
+gældende Interneringslov af 11. Apr. 1925.
+Domme afsagte paa saadant Grundlag er dog ikke
+u. S., da de netop hviler paa Erkendelsen af, at
+Straf over for det paagældende Individ er en
+utilstrækkelig eller uhensigtsmæssig
+Foranstaltning. Snarere er de beslægtede med Domme,
+der hjemler Indlæggelse paa Sindssygeanstalt af
+farlige og forbryderske Sindssyge.
+<i>A. Gl.</i>
+</chapter>
+
+<chapter name="ubestemte Størrelser">
+<b>ubestemte Størrelser</b> (mat.). En Funktion
+<i>F(x)</i> vil, naar <i>x</i> konvergerer med <i>a</i>, i
+Almindelighed selv konvergere mod <i>F(a)</i>. Men det
+kan ske, at <i>F(a)</i> antager Form af en u. S., der
+intet lærer om Grænsen for <i>F(x)</i>. Saaledes vil
+Brøkerne <i>x</i><sup>3</sup> +  - 2 / 2<i>x</i><sup>2</sup> - <i>x</i> - 1 og <i>sin x</i> / <i>x</i> (<i>x</i> = Vinklen
+udtrykt i Tal) for henholdsvis <i>x</i> = 1 og <i>x</i> =
+0 begge antage Formen 0/0, der ikke har nogen
+bestemt Værdi; den første Brøk ses imidlertid,
+efter ved Forkortning med <i>x</i> - 1 at være bragt
+paa Formen <i>x</i><sup>2</sup> + <i>x</i> + 2/ 2x + 1, at have Grænsen 4/3,
+medens den anden i Trigonometrien vises at
+konvergere mod 1. Disse Grænser kaldes de
+u. S.s <sp>sande Værdier</sp>. Andre ubestemte
+Former er ∞/∞, 0.∞, ∞ — ∞, 0<sup>0</sup>, ∞<sup>0</sup>, 1<sup>∞</sup>; som
+Eksempel paa Bestemmelse af sande Værdier
+kan nævnes: 3<i>x</i> + 4 / 5<i>x</i> + 2 antager for <i>x</i> = ∞
+Formen ∞/∞ og ses ved Omformning til 3 + 4/<i>x</i> / 5 + 2/<i>x</i>
+at have den sande Værdi. 3/5, (1 + p/n)<sup>n</sup> faar
+for <i>n</i> voksende i det uendelige Formen 1<sup>∞</sup> og
+konvergerer mod Grænsen <i>e<sup>p</sup></i> , hvor <i>e</i> er de
+naturlige Logaritmers Grundtal.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="ubevidst Sjæleliv">
+<b>ubevidst Sjæleliv.</b> Medens Psykologien
+ifølge Sagens Natur som Udgangspunkt for sine
+Undersøgelser maa tage de sjælelige
+Fænomener, der umiddelbart kan blive Genstand for
+Iagttagelse, idet Individet bliver sig dem
+bevidst, saa er det ved den nyere Tids indgaaende
+psykologiske Undersøgelser hævet over enhver
+Tvivl, at der foruden de bevidste sjælelige
+Fænomener findes visse Virksomheder, der i
+alle andre Henseender forholder sig som de
+sjælelige, men som Individet blot ikke bliver sig
+bevidst. Naar en given Bevidsthedstilstand
+hverken kan være foraarsaget ved en ydre
+Sansepaavirkning eller ved en anden
+Bevidsthedstilstand, maa den være Resultat af en
+»under Bevidsthedens Tærskel« forløben Proces.
+saadanne Virksomheder, hvis Natur endnu er
+os fuldstændig ubekendt, men som, saa langt
+Erfaringen rækker, synes at følge de for de
+bevidste sjælelige Fænomener gældende Love,
+kalder man ubevidste eller underbevidste,
+subliminale. Og paa Grund af den væsentlige
+Overensstemmelse mellem det ubevidste og det
+bevidste sjælelige taler man gerne om et u. S.,
+hvilket for saa vidt er uberettiget, som det aldeles
+ikke lader sig bevise, og vel endog er ret
+usandsynligt, at det ubevidste overhovedet er noget
+sjæleligt. Dette og analoge Udtryk (ubevidst
+Sansning, ubevidste Forestillinger o. s. v.) er
+imidlertid uundgaaelige, naar man ikke vil
+lave ganske vilkaarlige Navne til Betegnelse af
+Fænomenerne.
+
+Ytringer af det u. S. er velbekendte fra det
+daglige Liv. Er Opmærksomheden fuldstændig
+optagen af et eller andet, vil en
+Sansepaavirkning, f. Eks. Synet af en Bekendt paa Gaden,
+et Spørgsmaal, der rettes til en, e. l., ofte ikke
+straks kunne naa til Bevidstheden, men først
+efter nogen Tids Forløb, naar Opmærksomheden
+er mindre stærkt koncentreret. Paavirkningen
+maa altsaa have fremkaldt en Proces i
+Hjernen, der dog ikke ledsages af noget
+Bevidsthedsfænomen, før den ved
+Opmærksomhedskoncentrationen foraarsagede Hemning
+bortfalder; der foreligger saaledes her en ubevidst
+Sansning. Meget almindeligt er det, at et Navn
+e. l., som man ikke kan huske, melder sig
+ligesom af sig selv, naar man blot giver sig til at
+tænke paa noget andet. I dette Tilfælde
+foregaar der altsaa under Bevidsthedens Tærskel en
+Reproduktionsproces, af hvilken kun det
+endelige Resultat bliver bevidst. Men endnu mere
+komplicerede sjælelige Virksomheder, virkelige
+Overvejelser, synes at kunne foregaa ubevidst.
+Ved at »sove paa« en Sag opnaar man ofte, at
+den den følgende Dag viser sig i et ganske nyt
+Lys; tilsyneladende er der saaledes under
+Søvnen anstillet Betragtninger, som Individet
+aldeles ikke kan gøre sig Rede for. Endelig kan
+ogsaa Handlinger udføres ubevidst, automatisk.
+Man kan saaledes undertiden ved
+Eksamensbordet se Folk, der er fuldt optagne af at
+besvare Eksaminators Spørgsmaal, samtidig
+skrive lange Sætninger eller tegne ret indviklede
+Figurer, der ikke i mindste Maade vedkommer
+det, hvorom der tales. Alle de her eksempelvis
+anførte Fænomener kan iagttages hos
+fuldstændig normale Mennesker; hos Hysterikere og
+andre Neuropater kan det u. S. imidlertid spille
+en langt mere fremtrædende Rolle, idet der
+ofte uden for eller under Bevidstheden kan
+danne sig et eller flere ny Jeg'er, som under
+særlige Forhold — Ekstase, Trance (s. d.) — kan
+beherske Organismen. Individet synes da at
+være besat (s. d.) af en fremmed Aand. Et
+saadant Anfald af Besættelse hører i
+Almindelighed op efter faa Timers Forløb, men det kan
+ogsaa vedvare i Uger eller Maaneder, saa at
+Individet saa længe fuldstændig har skiftet

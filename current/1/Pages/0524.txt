@@ -1,0 +1,162 @@
+Tegnsprog og gav talrige Eksempler paa Løsning af
+ubestemte Ligninger. Ogsaa Differens- og
+Kvotientrækker forekommer i den græske
+Matematik. De indiske Matematikere Brahmagupta
+(f. 598 e. Kr.) og Bhaskara (f. 1114 e. Kr.)
+behandlede bestemte Ligninger af 1. og 2. Grad
+samt ubestemte Ligninger. Ogsaa Araberne
+kendte den kvadratiske Lignings Løsning, hvad
+der fremgaar af et Skr. af Muhammed ibn Musa
+(9. Aarh. e. Kr.), og fra dem kom A. til Italien;
+særlig Fortjeneste heraf har Leonardo fra Pisa,
+der omkr. 1200 berejste Orienten. Brudne
+Potenseksponenter indførtes af Franskmændene
+Oresme (14. Aarh.) og Chuquet (15. Aarh.). 1494
+udkom den første trykte Lærebog i A., forfattet
+af Franciskaneren Luca Paciuolo, og nu fulgte
+i 16. Aarh. fl. vigtige algebraiske Opdagelser:
+den kubiske Lignings Løsning, fundet af Scipio
+Ferro fra Bologna og Tartaglia fra Venedig,
+offentliggjort 1545 af Cardano fra Milano, og
+den bikvadratiske Lignings Løsning, fundet af
+Cardano's Discipel, Ferrari. Cardano var
+opmærksom paa, at den kubiske Ligning kan have
+3 reelle Rødder, idet han ogsaa tog Hensyn til
+negative Rødder, medens man tidligere kun
+havde tænkt paa de positive; han beskæftigede
+sig i øvrigt ogsaa med imaginære Rødder. Stifel
+gav (1544) en Metode til Dannelse af
+Binomialkoefficienterne. En overordentlig Bet. for A.
+havde Franskmanden Vieta (f. 1540), bl. a.
+ved hans Udvikling af den algebraiske Formel
+og Tegnsproget. En almindelig Teori for
+Ligninger grundlagdes, idet Englænderen Harriot
+(f. 1560) viste, at en Lignings venstre Side
+kan opløses i lineære Faktorer, og
+Nederlænderen Girard (1629) fandt Sætningen om
+Koefficienternes Afhængighed af Rødderne; dog
+betragtede de begge kun de reelle Rødder.
+Gennem Descartes' analytiske Geometri fik
+Algebraen en grafisk Fremstilling af en Lignings
+Rødder, der fremmede dens Udvikling meget.
+Leibnitz anvendte Determinanter; Newton
+udvidede Binomialformlen til alle Eksponenter og
+berigede Ligningernes Teori paa flere Punkter.
+Denne Teori gik især stærkt frem efter
+Indførelsen af den geometriske Fremstilling af de
+komplekse Tal (Wessel 1797, Gauss 1799);
+Fundamentalsætningen: en Ligning af <i>n</i>'te Grad har
+<i>n</i> Rødder, bevistes (d'Alembert, Gauss, Argand,
+Cauchy). Opmærksomheden var naturligvis
+stadig henvendt paa Spørgsmaalet om, hvorvidt
+den almindelige Ligning af <i>n</i>'te Grad kan løses
+algebraisk, d. v. s. hvorvidt dens Rødder kan
+udtrykkes ved Koefficienterne gennem
+algebraiske Operationer. Den binome Ligning, der
+tidligere var løst af Moivre, blev løst algebraisk af
+Gauss; Abel viste, at den er indbefattet i en
+almindeligere Klasse Ligninger, der kan løses
+algebraisk, samt at en almindelig Ligning
+af højere end 4. Grad ikke kan løses
+algebraisk. Videre Undersøgelser af Abel,
+Galois, Hermite og Kronecker har i det væsentlige
+besvaret Spørgsmaalet. Flere Ligninger med fl.
+ubekendte er blevne behandlede af Euler,
+Bézout, Poisson og Sylvester. Som andre Afsnit af
+A., der er blevne stærkt udviklede i 18. og
+19. Aarh., kan nævnes: Læren om de
+lineære Transformationer (Cayley, Sylvester, Hesse,
+Aronhold, Clebsch, Hermite), og om andre
+entydige Transformationer (S. Kantor, Wiman),
+Substitutionsteorien (Lagrange, Cauchy, Galois)
+og Læren om uendelige Determinanter (Hill,
+Poincaré, Koch). Ligningers Teori søges udvidet
+ved Undersøgelser over hele transcendente
+Funktioners Nulpunkter (Jensen).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="algebraisk Funktion (se Funktion)">
+<b>algebraisk Funktion,</b> se <sp>Funktion</sp>.
+</chapter>
+
+<chapter name="algebraisk Kurve (se Kurver)">
+<b>algebraisk Kurve,</b> se <sp>Kurver</sp>.
+</chapter>
+
+<chapter name="algebraisk Ligning (se Ligning)">
+<b>algebraisk Ligning,</b> se <sp>Ligning</sp>.
+</chapter>
+
+<chapter name="Algeciras">
+<b>Algeciras</b> [alкæ↱þiras], By i Sydspanien, Prov.
+Cadiz, ligger 7 km V. f. Gibraltar paa Vestsiden
+af A.-Bugten (Bahia de A.), der undertiden
+kaldes Gibraltar-Bugten. (1900) 13131 Indb. A. er
+en venlig og velbygget By, der driver en livlig
+Kysthandel. A. er Sæde for General- og
+Marinekommandanten over Campo de San Roque ell.
+det efter Byen San Roque benævnte Grænsedistrikt
+mod Gibraltar. Syd for A. ligger den
+befæstede Ø Isla verde. Ved A. fik Maurerne
+først Fodfæste ved deres Indfald i Spanien 711,
+og A. var maurisk, indtil den 1344 erobredes af
+Alfons XI af Kastilien. Ved A. indtraf 1801 et
+Par Træfninger mellem den engelske og den
+fransk-spanske Flaade. Fra 16. Jan. til 7. Apr.
+1906 afholdtes her den saakaldte A.-Konference,
+i hvilken deltog Udsendinge fra 11 europæiske
+Stater samt fra U. S. A. og Marokko til
+Drøftelse af sidstnævnte Stats politiske Stilling.
+<i>H. P. S.</i>
+</chapter>
+
+<chapter name="Algemeen handelsblad">
+<b>Algemeen handelsblad</b> [↱a£g<sub>ə</sub>me.n-hand<sub>ə</sub>£s-b£at],
+en i Amsterdam tre Gange dgl. udkommende,
+politisk Tidende af progressiv-liberal
+Retning; som Dagblad begyndt 1831 under
+Titlen »Nieuwe Amsterdamsche Courant«. Det er
+Hovedstadens mest indflydelsesrige, politiske
+Organ.
+</chapter>
+
+<chapter name="Algemesi">
+<b>Algemesi</b> [alkæ↱mæsi], By i det østlige Spanien,
+Prov. Valencia, ligger 5 km NNØ. f. Alcira.
+(1900) 8026 Indb. I Omegnen dyrkes Ris og
+Oranger paa vandet Terrain og endvidere Oliven
+og Johannesbrød. A. er kendt for sin Produktion
+af Cacahuetes, en Pistacieart, der anvendes til
+Olie.
+<i>H. P. S.</i>
+</chapter>
+
+<chapter name="Algenib (se Pegasus og Perseus)">
+<b>Algenib,</b> se <sp>Pegasus</sp> og <sp>Perseus</sp>.
+</chapter>
+
+<chapter name="Alger">
+<b>Alger</b> (<i>Algæ</i>) (hertil en farvetrykt Tavle
+»Alger«), en Række Grupper af Løvplanter,
+som kun har dette ene tilfælles, at de ved
+Hjælp af Bladgrønt er i Stand til at assimilere
+Kulsyre, en Egenskab, der stiller dem i
+Modsætning til Løvplanternes andre Afdelinger,
+Bakterierne og Svampene. Nogen systematisk
+Enhed ell. blot noget beslægtet tør Alger i det
+videste Omfang ikke betegne. Mest konsekvent
+vilde det være helt at stryge denne Betegnelse
+og at indordne de forskellige Grupper i
+sideordnede Rækker. Dette lader sig dog for Tiden
+ikke gøre og er vel næppe helt berettiget. Det
+foreløbig mest korrekte Standpunkt er
+formentlig dette, at beholde Algenavnet for de Grupper,
+som fra ældst Tid har baaret dette Navn, som
+ogsaa for en mere populær Betragtning træder
+frem som noget særegent, og, som dannende
+Bestanddelene af visse Plantesamfund, i
+økologisk Henseende staar hverandre nær. Dette
+Standpunkt, der i det væsentlige deles af den
+nyere Tids Algologer, følges her, og Algenavnet
+kommer da kun til Anvendelse for 3 Grupper:

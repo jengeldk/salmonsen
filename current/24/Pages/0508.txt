@@ -1,0 +1,149 @@
+samle sig i større eller mindre Mængde i det v.
+Lag, idet det stadig paa Grund af
+Tyngdekraften søger saa langt nedad som muligt. I
+Danmark bestaar de v. Lag især af Sand og Grus.
+Ogsaa tætte Jordlag kan blive v., naar der i
+dem findes Sprækker; dette er saaledes
+Tilfældet med den øverste Del af Saltholmskalken i
+Kbhvns Omegn.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Vandføring">
+<b>Vandføring,</b> den Mængde Vand, udtrykt i
+Kubikmeter, som i et Sekund strømmer gennem
+et Profil af en Ledning eller et Vandløb.
+<i>(C. Ph. T.). J. M-P.</i>
+</chapter>
+
+<chapter name="Vandgang">
+<b>Vandgang</b> (Søv.), den Linie paa Skibets
+Skrog, der skæres af Vandspejlet. Efter som
+Skibet er mere eller mindre dybtlastet, rykker
+V. selvfølgelig højere eller mindre højt op fra
+Kølen.
+<i>(C. W. L.). C. B-h.</i>
+</chapter>
+
+<chapter name="Vandgas">
+<b>Vandgas</b> dannes ved i en saakaldt
+<sp>Generator</sp> at lede Vanddamp gennem glødende
+Koks. Herved spaltes Vanddampene, Brinten
+frigøres, og Ilten forbinder sig med Kulstoffet i
+Koksene til Kulsyre, der paa Vejen videre op
+gennem de glødende Koks reduceres til Kulilte
+(se Artiklen <sp>Kraftgas</sp>, Bd 14 S. 583 og 585).
+Samlet i eet er den kemiske Proces C + H<sub>2</sub>O =
+CO + H<sub>2</sub>, saa at Vandgas teoretisk set bør
+indeholde 50 Vol. % CO + 50 Vol. % H<sub>2</sub>. I
+Praksis er Sammensætningen eksempelvis saaledes:
+4,7 % Kulsyre + 39,7 % Kulilte + 50,8 % Brint
++ 0,8 % Methan + 4,0 % Kvælstof;
+Vægtfylden er 0,437, naar Luft = 1. Den øvre
+Brændværdi er 2855 kg° pr. m<sup>3</sup>, og der behøves til
+fuldstændig Forbrænding af 1 m<sup>3</sup> Gas 2 1/4 m<sup>3</sup>
+Luft, naar den netop nødvendige Luftmængde
+anvendes.
+
+Den ovennævnte Dannelsesproces foregaar
+under stærkt Varmetab, saa Kokslaget i
+Generatoren i Løbet af nogle Minutter bliver for koldt
+til, at Processen kan foregaa. Naar dette
+Tidspunkt naaes, standses derfor
+Vanddamptilførslen, og der blæses nu Luft gennem Generatoren.
+Herved udvikles i denne <sp>Generatorgas</sp>,
+der ved sin Forbrænding i Generatoren i Løbet
+af faa Minutter atter bringer Kokslaget i
+Generatoren op til saa høj Temperatur, at
+Vandgasproduktionen igen kan paabegyndes.
+Fabrikationen sker derfor i Perioder (saakaldt
+diskontinuerlig Drift). Det rette Tidspunkt, paa
+hvilket Skiftningen skal foregaa, kan læres
+erfaringsmæssigt under Driften eller endnu bedre
+kontrolleres ved Hjælp af dertil særligt
+konstruerede Tryk- og Hastigheds-Maaleapparater
+og bestemmes efter visse Udslag paa nogle
+Trykmaalere, saa at Arbejderen let kan følge
+Driftens Gang. Særlig snildt virker en af
+Stracke, Wien, angivet »Dampfschlussmelder«,
+hvor Arbejderen gennem et Klokkesignal
+underrettes om, naar Tidspunktet til Omskiftning er
+inde, og dette Klokkesignals Udløsning udføres
+af Generatoren selv, naar Forholdene i denne
+har naaet en saadan Tilstand, at Omskiftning
+bør ske. Det er altsaa ikke saadan at forstaa,
+at Klokkesignalet blot lyder med bestemt
+afmaalte Tidsmellemrum; det er den virkelige
+Tilstand i Generatoren under Produktionen, der
+udløser Signalet (nærmere herom se »Handbuch
+der Gastechnik« Bd IX S. 149 ff.).
+
+Da Trykket i Generatorerne under
+Vandgasproduktionen er flere Hundrede Millimeter
+Vandsøjle, bruger man ved
+Vandgasproduktionen altid Generatorer, hvor den murede
+Ydervæg yderst er dækket af en Jernkappe. I
+modsat Fald vilde Gassen under Produktionen let
+kunne undslippe gennem Utætheder i
+Murværket. I Hovedtrækkene er de forskellige Typer
+Vandgasgeneratorer ens, dog afviger de i ret
+betydningsfulde Detailler. De mest kendte
+Systemer er den af »Europäische Wassergas-A/G«
+brugte Type: dernæst Dellwick-Fleischer
+Generatoren og især Stracke-Wassergas-Generatoren
+(Stracke er en meget kendt Gastekniker i Wien).
+Navnlig Stracke har specielt arbejdet med
+Problemet Vandgasproduktion. De forskellige
+Typer findes nærmere beskrevet i »Handbuch der
+Gastechnik« Bd IX. Nutildags anvendes
+karbureret V. ikke meget; før Gasglødelysets
+Opfindelse, dengang det ved Belysning med Gas var
+Gassens <sp>egen</sp> lysende Flamme, det kom an
+paa, var karbureret V. et skattet Hjælpemiddel
+for de store Gasværker, hvis en Bunke Kul gav
+daarligt lysende Gas eller et pludseligt Krav om
+større Produktion hurtigt skulde efterkommes.
+Vandgasværket kunde nemlig ret hurtigt gøres
+driftsklar, og ved at karburere V. med Olie og
+blande denne Gas i Kulgassen, kunde en stærkt
+lysende Gas faas. Nutildags gælder det om, at
+den producerede Gas kan give høj
+Flammetemperatur, og at dens Varmeevne er saa ensartet
+som muligt. Ved Belysning med Gasglødenet er
+det den udviklede Hede, der bringer Nettet i
+Glød og gør dette lysende. Karbureringen
+foretages ved, at den »blaa« ɔ: ukarburerede V., idet
+den er færdig produceret i Generatoren, sendes
+videre gennem en anden stor, murværksforet
+Beholder af lignende Størrelse som
+Generatoren. Denne saakaldte <sp>Karburator</sp> er fyldt
+med en stor Mængde over hverandre stillede
+ildfaste Sten af Form som almindelige Mursten.
+Disse Sten har under »<sp>Blæstperioden</sp>«
+været gennemstrømmet af
+Forbrændingsprodukterne fra den under Blæstperioden dannede
+<sp>Generator</sp> gas. Stenene er derfor glødende.
+Øverst i Karburatoren findes en lille roterende
+(eller fast) »Oliespreder«, gennem hvilken
+Massutholie eller Petroleumsolie som en Regn
+sendes ud over Karburatorens øverste Flade og
+daler ned over Stenene. Da disse er gloende,
+spaltes Olien i stærkt lysende Kulbrinter, og
+disse Gasarter blandes i V., idet denne passerer
+Karburatoren. Den karburerede V. passerer
+derpaa en Beholder af ganske lignende
+Opbygning som Karburatoren og ligesom denne fyldt
+med gloende Sten. Her spaltes Oliedampenes
+Kulbrinter i simpelt sammensatte Kulbrinter, for
+saa vidt de ikke allerede i Karburatoren er
+omdannede til saadanne, og Betydningen af at
+lade Gassen passere denne saakaldte
+»<sp>Overheder</sp>« er, at Gasblandingen kun skal bestaa
+af <sp>permanente Gasarter</sp> ɔ: saadanne,
+der vedbliver at være i Luftform, selv om
+Gasblandingen senere afkøles til almindelig
+Temperatur. Ved ukarbureret V. foretages der en
+Rensning af den færdig producerede Gas. Det
+er navnlig medreven Flyveaske og Spor af
+Kiselsyre, det gælder at fjerne. Den
+karburerede V. skal ogsaa renses og vaskes, og den

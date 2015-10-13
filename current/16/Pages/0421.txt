@@ -1,0 +1,136 @@
+den nederste Ende af enhver Jernkakkelovn er
+en Nordpol, den øverste en Sydpol. En lodret
+Stang af blødt Jern har en Nordpol forneden,
+en Sydpol foroven; vender man den, skifter
+Polerne. Kompasnaalens <sp>Deviation</sp> i
+Jernskibe er en Følge af, at Skibet magnetiseres af
+Jordmagnetismen. Man kender det
+jordmagnetiske Felt paa et givet Sted, naar man kender
+Kraftliniernes Retning og Feltets Styrke.
+Retningen angives af en Magnetnaal, der kan dreje
+sig frit om sit Tyngdepunkt, men man
+foretrækker at foretage to Bestemmelser, nemlig af
+<sp>Deklinationen</sp> (Misvisningen) og
+<sp>Inklinationen</sp> (Hældningen). Den første bestemmes
+ved Hjælp af Deklinationsnaalen, en
+Magnetnaal, der kan dreje sig frit i et vandret Plan,
+enten om en Staalspids ell. om en usnoet
+Silketraad, der er fastgjort til dens Midte, saa den
+svæver vandret. Et lodret Plan gennem denne
+Naals magnetiske Akse, naar Naalen staar i sin
+Hvilestilling, kaldes Stedets magnetiske
+Meridian, og Vinkelen mellem denne
+Meridian og Stedets geografiske Meridian er
+Deklinationen. Den er i Danmark c. 8° vestlig, ɔ:
+Magnetnaalens Nordende peger 8° V. f. N. Til
+nøjagtig Bestemmelse af Deklinationen bruges
+et <sp>Deklinatorium</sp>, der gerne indeholder
+en Magnetnaal ophængt i eet ell. fl. Silkespind.
+Paa Magnetnaalen er fastgjort et let Spejl, og en
+Kikkert er opstillet saaledes, at man gennem
+den i Spejlet ser Billedet af en Maalestok, der
+er anbragt under Kikkerten. Selv yderst smaa
+Forandringer i Deklinationens Værdi kan
+herved opdages. Sætter man Apparatet i Stand til
+selv at optegne Naalens Bevægelser, bliver det
+til en <sp>Deklinograf</sp>. Dette kan ske ved, at
+man lader en
+Lysstraale træffe
+Spejlet, der
+sender Straalen hen
+paa en Strimmel
+lysfølsomt Papir,
+som bevæges
+jævnt af Sted i
+sin egen
+Længderetning af et
+Urværk. Naar
+Magnetnaalen svinger, flytter
+Lyspletten paa
+Papiret sig paa
+tværs af Papirets
+Bevægelsesretning, og herved
+faar man paa
+Papiret fotograferet en Kurve, der viser
+Naalens Bevægelser. — Inklinationen er
+den Vinkel, som Inklinationsnaalens
+magnetiske Akse danner med Stedets
+Horisontalplan. Inklinationsnaalen er en Magnetnaal
+(se Fig. 9), der kan dreje sig om en vandret
+Akse, der gaar gennem dens Tyngdepunkt og
+indstilles vinkelret paa den magnetiske
+Meridian, i hvilket Plan Naalen altsaa kommer til
+at dreje sig. En inddelt lodret Kreds tillader
+Aflæsning af Naalens Stilling. Redskabet kaldes
+et <sp>Inklinatorium</sp> og kan omdannes til en
+<sp>Inklinograf</sp> paa lgn. Maade, som
+Deklinatoriet bliver til en Deklinograf. — Det
+jordmagnetiske Felts <sp>Styrke</sp> ell. <sp>Intensitet</sp>
+bestemmes lettest paa den Maade, at man
+maaler Styrken i vandret Retning
+(<sp>Horisontalintensiteten</sp>) og heraf og af Inklinationen
+beregner hele Styrken
+(<sp>Totalintensiteten</sp>). Alle de jordmagnetiske Størrelser
+forandrer sig fra Sted til Sted. Man fremstiller
+Tilstanden ved at tegne Kort, hvor alle de
+Punkter, i hvilke den Størrelse, Kortet gælder,
+har samme Værdi, er forbundne ved Linier.
+Fig. 10 forestiller et Deklinations- ell.
+Isogonkort, beregnet for Aaret 1885. Linierne med
+samme Misvisning kaldes <sp>Isogoner</sp>; Linien
+med Misvisningen Nul hedder <sp>Agonen</sp>; den
+skiller Steder med vestlig Misvisning fra Steder
+med østlig. Atlanterhavet, Vesteuropa og
+Afrika har vestlig Misvisning, Asien og det stille
+Hav østlig, dog med Undtagelse af en stor Plet
+i Østasien, hvor Misvisningen er vestlig. Man
+maa ikke Betragte Isogonkortet som et
+anskueligt Billede af Jordens magnetiske Tilstand;
+Isogorierne fremkommer jo derved, at man til
+Genstand for Fremstillingen har valgt en
+Vinkel (Deklinationen) mellem to Retninger, den
+magnetiske og den geografiske S.—N.-Retning,
+der intet bar med hinanden at gøre. Et mere
+anskueligt Billede af Tilstanden giver et Kort,
+der viser <sp>Magnetkraftlinier</sp>
+(Duperrey's Linier) og <sp>Isokliner</sp>. De første
+angiver de Veje, man vilde komme til at følge,
+om man bestandig rejste i den Retning, hvori
+Kompasnaalen peger. Linierne svarer til
+Jernfilspaanskurverne omkr. en Magnet. De løber
+sammen i to Punkter, Jordens nordlige og
+sydlige <sp>Magnetpol</sp>. Disse Punkter udmærker
+sig tillige derved, at Inklinationsnaalen her
+staar lodret. Isoklinerne forbinder Punkter
+med samme Inklination; de danner Kredse
+omkring de magnetiske Poler, omtrent
+ligesom Breddecirklerne omkring de
+geografiske, men som alle Forhold, der angaar
+Jordmagnetismen, er Isoklinerne noget
+uregelmæssige. Den Isoklin (<sp>Aklinen</sp>), hvor
+Inklinationen er Nul, kaldes den
+<sp>magnetiske Ækvator</sp>. Den ligger omtrent i
+samme Afstand fra begge Magnetpolerne, S. f.
+den geografiske Ækvator paa den vestlige
+Halvkugle og N. f. den paa den østlige. Den
+skærer den geografiske Ækvator omtr. paa
+Gibraltar-Strædets og Berings-Strædets Meridianer.
+Den nordlige Magnetpol blev funden 1831 af
+James Roos; den antages at ligge paa Halvøen
+Beothia Felix, paa c. 69° n. Br. og 96° v. L. f.
+Grw., medens den sydlige Magnetpol maa ligge
+omtr. S. f. Tasmanien paa 72° 50′ s. Br. og 156°
+25′ ø. L. f. Grw. Polernes Beliggenhed er ikke
+sikkert bestemt, da de ligger i meget
+utilgængelige Egne. <sp>Isodynamer</sp> er Linier gennem
+Steder, hvor Jordmagnetismen har samme
+Styrke. Totalintensiteten er størst N. f.
+Hudsons-Bugten, hvor den naar 0,70. Noget S. f.
+Austral-Landet gaar den op til 0,69, og i
+Mellemsibirien er der et tredje, svagere Maksimum
+paa 0,60. Den mindste Værdi, 0,26, findes i
+Atlanterhavet Ø. f. Sydamerika ved den sydlige
+Vendekreds. <sp>Horisontalintensiteten</sp>
+er Nul ved Magnetpolerne (Kompasset er altsaa
+
+<img>Fig. 9. Inklinatorium.</img>

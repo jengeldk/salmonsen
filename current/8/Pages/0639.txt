@@ -1,0 +1,83 @@
+2 og 3. uden at have dets Ulemper. Den
+uigennemsigtige Skærm <i>ik</i>, der er mat hvid paa
+begge Sider (f. Eks. en Gipsplade ell. en Plade,
+beklædt med hvidt Papir paa begge Sider),
+staar vinkelret paa Fotometerbænkens
+Længderetning <i>mn</i>, saa at hver af Skærmens Sider
+<i>l</i> og λ belyses af sin af de to Lyskilder, der
+skal sammenlignes, <i>f</i> og <i>e</i> er to Spejle, der
+kaster Lyset fra henh. <i>l</i> og λ ned mod
+Katetefladerne <i>dp</i> og <i>bc</i> af de to retvinklede
+Glasprismer <i>AB</i>, der er pressede saa haardt
+sammen, at Lys kan gaa usvækket gennem
+Berøringsfladen, som om Prismerne var en
+sammenhængende Glasmasse. Af <i>A</i>'s
+Hypotenuseflade er bortslebet saa meget, at Berøringen
+kun finder Sted paa en cirkulær ell. oval Flade
+<i>rs</i> midt paa <i>ba</i>. Øjet ved <i>o</i> ser gennem Linsen
+<i>w</i> et skarpt Billede af denne Flade; det Lys,
+Øjet modtager fra Berøringsfladen <i>rs</i>, er gaaet
+gennem begge Prismer og stammer fra venstre
+Side (<i>l</i>) af Skærmen, og altsaa fra Lyskilden
+<i>m</i>, medens Lyset fra den Del af Fladen, der
+ligger uden om Berøringsfladen, stammer fra
+højre Side (λ) af Skærmen, d. v. s. fra
+Lyskilden <i>n</i>, og er kastet fuldstændig tilbage fra
+Prismefladen <i>ab</i>. Er højre Side af Skærmen
+stærkest belyst, ses derfor en mørk Plet paa
+lysere Grund; omvendt, hvis venstre Side er
+stærkest belyst. Er begge Sider ens belyst,
+smelter Pletten sammen med Grunden til en
+ensformigt lysende Flade. Fladen <i>ab</i> med
+Berøringsfladen <i>rs</i> svarer altsaa til Skærmen med
+Fedtpletten i Bunsen's Fotometer. Det hele er som
+vist omgivet af et indvendig sværtet Hylster.
+En ringe Mangel paa Symmetri elimineres ved
+at lægge Fotometret om og gentage Maalingen.
+
+Endnu større Følsomhed faas ved Lummer
+og Brodhun's <sp>Kontrastfotometer</sp>, hvor
+de Felter, der skal gøres lige klare, fremhæves
+af en Baggrund af en anden Klarhed. Man
+plejer at have 4 Felter, der 2 og 2 skal have
+ens, men parvis forsk. Klarhed. Man kan dertil
+bruge et Prisme som i Fig. 6, idet to smaa
+Glasplader ved Tilbagekastning svækker to af
+Straalebundterne c. 8 %. I det ene Prisme er Dele
+af Hypotenusefladen bortslebet som vist.
+Synsfeltet ser da ved rigtig Indstilling ud som vist
+i 2; hyppigst giver man dog Felterne den i 3
+viste Form. Indretningen er i øvrigt som i
+Fig. 5.
+
+Med Lummer-Brodhun's Fotometer kan
+under gunstige Forhold og ved Øvelse naas en
+Nøjagtighed af c. 1 %, med Kontrastfotometret
+maaske indtil 1/2 %, naar Lyskilderne har
+samme Farve (se ndf.). Efter Fechner's (Weber's)
+Lov skulde Nøjagtigheden være uafhængig af,
+om Felterne er stærkt ell. svagt belyst, men i
+Virkeligheden bliver Nøjagtigheden mindre
+baade ved for svag og for stærk Belysning.
+
+En typisk <sp>Fotometerbænk</sp> er vist i
+Fig. 7. Her skal Hefnerlampen <i>h</i> sammenlignes
+med Lampen <i>l</i> ved Hjælp af et
+Lummer-Brodhun Fotometer <i>G</i>. Indstillingen sker ved at
+flytte <i>G</i>, der er monteret paa en lille Vogn, og
+Afstanden kan da aflæses paa den inddelte
+Skinne. Inddelingerne kan naturligvis ogsaa
+indrettes til direkte at give Forholdet mellem
+Lyskilderne. Bænkens Længde er gerne 2—3
+m. Paa en saadan Fotometerbænk kan alle de
+omtalte Fotometre med Undtagelse af Fig. 2
+anvendes. Hyppigst og til alle finere
+Undersøgelser benyttes nu vistnok
+Lummer-Brodhun's Kontrastfotometer. — Værelset, der
+
+<img>Fig. 5. Lummer og Brodhun's Fotometer.</img>
+
+<img>1. 2. 3.
+Fig. 6. Kontrastfotometer.</img>
+
+<img>Fig. 7. Fotometerbænk.</img>

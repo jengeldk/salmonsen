@@ -1,0 +1,75 @@
+Tillægsspænding til denne ell. oplader
+Regulercellerne i Batteriet (om Regulerceller og
+Celleskifter se <sp>Akkumulatorer</sp>), medens
+Hoveddynamoen kun oplader Batteriets Stamme.
+Efter den Maade, hvorpaa Ladningen af
+Akkumulatorbatteriet sker, skelner man mellem
+Centraler med a)
+<sp>Dobbeltspændingsdynamo</sp>, d. v. s. Centraler, der ingen særlig
+Ladedynamo har, men hvor Hoveddynamoerne
+ell. en af disse kan udvikle 1 1/2 Gang den
+nor-niale Spænding og saaledes alene oplade
+Batteriet, b) <sp>Lademaskine i Seriekobling</sp>,
+hvor Lademaskinen giver Tillægsspænding til
+Hoveddynamoen under Ladning (40-50 % af
+dennes Spænding) og c) Lademaskine i
+Gruppekobling, hvor Lademaskinen
+oplader Regulercellerne, Hoveddynamoen Stammen
+i Batteriet. At beskrive hver af disse Systemer
+lader sig ikke gøre her, men i Fig. 7 er vist et
+saakaldt Fordelingsskema for en elektrisk
+Central med to Hoveddynamoer <i>D</i>,
+Udligningsmaskiner <i>U</i>, Akkumulatorbatteri <i>A</i> og to
+Lademaskiner <i>L</i>. Det viste Skema er i
+Hovedtrækkene det, der almindeligst lægges til Grund for
+Forbindelserne i en elektrisk Jævnstrømscentral
+til Lys- og Kraftforsyning. Strømmen ledes fra
+Dynamoerne <i>D</i> til Smeltesikringer <i>S</i>, gaar
+igennem disse og Maskinkabler <i>K</i> til elektriske
+Afbrydere <i>a</i>, der tjener til at afbryde Dynamoen
+fra Forbindelse med Samleskinnerne. Fra
+Afbryderen gaar Strømmen til Samleskinnerne
+og fra disse gennem Fødeledningerne (se
+<sp>elektriske Ledningsnet</sp>) ud til
+Fordelingsnettet i det Omraade, der skal forsynes.
+Batteriet er paa lgn. Maade forbundet med
+Samleskinnerne gennem Ledninger, der fører
+over Smeltesikringer <i>S</i> og Afbrydere <i>a</i>.
+Batteriet er delt i to Dele, og de indbyrdes
+forbundne Ender af disse (+Polariteten paa den
+ene Batteridel og ÷Polariteten paa den anden
+Batterihalvdel) er forbundne med
+Nul-Samleskinnerne gennem en Ledning, der ikke
+indeholder nogen Smeltesikring, men kun en
+Afbryder. Dynamoer og Batteri arbejder parallelt
+paa + og ÷ Samleskinnerne, og der gaar under
+ensartet Belastning paa Systemets to Halvdele
+ingen Strøm gennem Nulledningen og
+Nul-Samleskinnen. Er Belastningen paa Nettets to
+Halvdele ikke lige stor, vil den Halvdel af
+Batteriet, der ligger paa den stærkest belastede
+Halvdel, afgive mere Strøm end den anden
+Halvdel, saaledes at der gaar Strøm i
+Systemets Nulledere. Udligningsmaskinerne træder
+samtidig i udlignende Virksomhed.
+Lademaskinerne trækkes af Udligningsmaskinerne og
+oplader Regulercellerne i hver sin Batterihalvdel,
+naar Ladning foregaar; Hoveddynamoen eller
+Hoveddynamoerne oplader samtidig Stammen
+i begge Batterihalvdele og overtager desuden
+hele Centralens Belastning under Opladningen
+af Batteriet; Opladningen foretages derfor kun,
+naar Centralens Belastning er forholdsvis lille.
+Dynamo-Strømmene maales i Ampèremetre,
+indskudt i deres Forbindelser til Samleskinnerne,
+Batteristrømme maales paa Dobbeltampàremetre
+<i>A</i>, medens Batteriets afgivne (afladede)
+Ampèretimer maales paa Ampèretimemaalere <i>M</i> i
+Afladesiden, dets modtagne (opladede) Ampèretimer paa
+Ampèretimemaalere <i>M</i> i Ladesiden. For hver
+Dynamo og for Batteriet findes der et
+Voltmeter <i>V</i>, og desuden to saadanne
+(Hovedvoltmetrene), der maaler de to
+
+<img>
+Fig. 11. Ny Maskinsal i Gothersgade Elektricitetsværk (der findes nu ialt 4 lige store Dampdynamoer).</img>

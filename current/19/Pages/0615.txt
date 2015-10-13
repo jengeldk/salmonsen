@@ -1,0 +1,112 @@
+rette Linie (se <sp>uendelig</sp>); ved
+<sp>Cirkelpunkterne</sp> forstaas de imaginære Punkter,
+hvori denne Linie skæres af Linier, som i et
+retvinklet Koordinatsystem i Planen har
+Retningskoefficienterne ± <i>i</i>, altsaa de for Planens
+Cirkler fælles uendelig fjerne Punkter.
+Abscisserne til Skæringspunkterne mellem en Linie med
+Ligningen <i>y</i> = <i>ix</i> + <i>q</i> og en vilkaarlig Cirkel
+med Ligningen <i>x<sup>2</sup></i> + <i>y<sup>2</sup></i> + <i>ax</i> + <i>by</i> + <i>c</i> = 0
+bestemmes nemlig ved, en Ligning, hvori Leddet
+med <i>x<sup>2</sup></i> mangler; den ene Abscisse er følgelig
+uendelig stor og det tilsvarende Skæringspunkt
+uendelig fjernt. Da vil, som Laguerre har vist,
+en Vinkel være = <i>i</i>/2 Gange Logaritmen til
+Dobbeltforholdet mellem Vinkelbenene og
+Toppunktets Forbindelseslinier med
+Cirkelpunkterne. Lige store Vinkler projiceres altsaa som
+saadanne, hvis Bens Skæringspunkter med den
+uendelig fjerne rette Linies
+Projektion har samme
+Dobbeltforhold med
+Cirkelpunkternes Projektioner. Idet lige
+store parallelle Liniestykker
+er modstaaende Sider i et
+Parallelogram, og lige store
+Liniestykker med et fælles
+Endepunkt er sammenstødende
+Sider i et Parallelogram, hvis
+Diagonaler er vinkelrette paa
+hinanden, og man ved
+Betragtning af to vilkaarlige lige
+store Liniestykker <i>AB</i> og <i>CD</i>
+altid kan indskyde et tredie
+<i>CE</i>, der er = og ≠ <i>AB</i>, vil
+to Liniestykkers Ligestorhed
+medføre en kendt Egenskab
+ved deres Projektioners
+Stilling til Projektionen af den
+uendelig fjerne rette Linie og
+Cirkelpunkterne. I Rummet,
+hvor de uendelig fjerne
+Punkter betragtes som liggende i
+en uendelig fjern Plan (se
+<sp>uendelig</sp>), danner alle
+Planernes Cirkelpunkter en
+imaginær Cirkel i denne Plan,
+<sp>Kuglecirkelen</sp>.
+Rummets Kugler kan defineres som Fladerne af
+2den Orden gennem Kuglecirkelen. Altsaa vil,
+naar en Figur i Rummet transformeres ved
+Homologi, ogsaa dens <sp>metriske</sp> Egenskaber
+omformes til bekendte Egenskaber ved den ny
+Figurs Stilling til de til den uendelig fjerne
+Plan og Kuglecirkelen svarende Figurdele.
+Cay-ley har .almindeliggjort dette ved i St f.
+Cirkel-punkterne at sætte et Keglesnit. I Definitionen
+paa en Vinkel træder saa i St f. Linierne til
+Cirkelpunkterne Tangenterne til Keglesnittet, og
+et Liniestykkes Længde defineres som <i>i</i>/2 Gange
+Logaritmen til Dobbeltforholdet mellem
+Endepunkterne og Liniens Skæringspunkter med
+Keglesnittet, altsaa dualistisk tilsvarende til
+Vinkelens Definition. Klein har endelig vist,
+hvorledes denne projektive og dualistiske
+»Maalgeometri« kan udvides til Rummet og
+anvendes i de ikke-euklidiske Geometrier.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Projektor">
+<b>Projektor,</b> et af eng. Kaptajn Livens under
+Verdenskrigen opfundet Skydevaaben, ved
+Hjælp af hvilket man udkastede saakaldte
+<sp>Gasminer</sp>, d. v. s. tyndvæggede Projektiler,
+fyldt med flydende Gas ell. en let fordampelig
+Vædske (f. Eks. Fosgen), der ved Projektilets
+Sprængning omdannedes til giftige Gasarter i
+Luftform. Projektorerne, der p. Gr. a. deres
+simple Konstruktion (se Fig.) var forholdsvis
+billige, nedgravedes gerne i stort Antal i
+Jorden paa den Front, paa hvilken Gasangrebet
+skulde føres, saaledes at kun Mundingen var
+synlig. Skudvidden var kun 2 à 3 km, og
+Projektoren var saaledes nærmest et, særlig til
+Stillingskrigen egnet, Nærkampvaaben,
+svarende til de egl. Minekastere (s. d.), der
+udkastede Miner med brisant Sprængstof,
+Projektoren affyredes ved Hjælp af en elektrisk
+Ledning, som udefra førte ind til en elektrisk
+Tændpatron, der antændte Mineladningen.
+Denne Anordning muliggjorde paa en simpel
+Maade den samtidige og overraskende Affyring
+af et større Antal Projektorer i det Øjeblik,
+Gasangrebet skulde aabnes.
+<i>C. H. R.</i>
+
+<img>Projektor.</img>
+</chapter>
+
+<chapter name="Projektør">
+<b>Projektør</b> [prosjæk'tø'r] er et
+Belysningsapparat, ved hvilket man er i Stand til at
+samle det fra en Lyskilde i alle Retninger
+udgaaende Lys til et af mere eller mindre
+parallelle Straaler bestaaende Straalebundt og
+give dette intenst koncentrerede Lys en
+vilkaarlig Retning.
+
+Til at samle de fra Lysgiveren udgaaende
+Straaler anvender man enten et Linse- og
+Prismesystem ell. et Hulspejl, og P. benævnes
+derefter Linse- ell. Spejlprojektører. Størrelsen

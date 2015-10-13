@@ -1,0 +1,158 @@
+Som Eksempler fra Læren om P. kan (uden
+Beviser) anføres følgende: En Kugle, hvis
+Tæthed er ens i alle de Punkter, der har samme
+Afstand fra Centrum, virker paa et Punkt uden
+for sin Overflade, som om alle dens virksomme
+Dele var samlede i Centrum, for saa vidt
+Virkningen kun angaar Kræfter, der virker efter de
+to foran nævnte Love. Derfor kan man f. Eks.
+ved Beregning af Solens Tiltrækning paa
+Jorden ell. Jordens paa Maanen regne med, at
+hele Klodens Masse er samlet i dens Centrum.
+— Har en kugleformet Leder en jævnt fordelt
+<sp>elektrisk</sp> Ladning <i>e</i>, og er dens Radius <i>R</i>,
+saa vil dens Overflade have P. (»Spændingen«)
+<i>e</i>: <i>R</i>, hvis den er saa langt fra alle andre
+Legemer, at disses elektriske Indflydelse ikke
+mærkes. I et Punkt uden for Kuglen i
+Afstanden <i>r</i> fra dens Centrum vil P. under samme
+Forudsætning være <i>e : r</i>; i ethvert Punkt inden
+for Kuglens Overflade har P. samme Værdi som
+i selve Overfladen, uanset om Kuglen er hul ell.
+massiv. — Ved Anvendelser paa den alm.
+Tiltrækning kommer der en Talfaktor ind.
+Medens nemlig to elektrostatiske Enhedsladninger
+i Afstanden 1 cm i Henhold til Definitionen af
+Elektricitetsmængden 1 frastøder hinanden med
+en Kraft paa 1 Dyn, saa vil to kugleformede
+Masseenheder (Gramlodder) i 1 cm's indbyrdes
+Afstand tiltrække hinanden med en Kraft, der kun
+er 6,667 . 10<sup>—8</sup> Dyn, altsaa 15 Millioner Gange
+saa lille. Solens Masse er omtr. 2 . 10<sup>33</sup> g, og til
+at fjerne et Gramlod fra Afstanden <i>a</i><sub>1</sub> cm (fra
+Solcentret) til Afstanden <i>a</i><sub>2</sub> cm imod Solens
+Tiltrækning udfordres der derfor iflg.
+Potentialteorien Arbejdet 2 . 10<sup>38</sup> . 6,667 . 10<sup>—8</sup> .
+(1/<i>a</i><sub>1</sub> — 1/<i>a</i><sub>2</sub>) Dyncentimeter (Erg). Sætter man <i>a</i><sub>2</sub>
+uendelig stor og <i>a</i><sub>1</sub> lig Solens Radius (c. 69000 Mill.
+cm), følger heraf, at der skal et Arbejde lig 1900
+Billioner Dynoentimeter til at føre et g fra
+Solens Overflade til et uendelig fjernt Punkt.
+Langt den største Del af dette Arbejde bliver
+udført inden for Planetsystemets Omraade.
+Falder en Meteorsten fra Planetsystemets
+Grænser ind paa Solen, vil hvert g i den p. Gr. a.
+Solens Tiltrækning undervejs modtage den
+samme Arbejdsmængde, der ved Gnidningen i
+Solatmosfæren vil omsættes til Varmet. Da 42 Mill.
+Dyncentimeter svarer til een Gramkalorie, vil
+der altsaa for hvert g af Meteorstenen udvikles
+45 Mill. Gramkalorier ell. c. 6000 Gange saa
+meget, som der udvikles ved Forbrænding af
+1 g Stenkul. (<sp>Litt</sp>.: <sp>B. O. Peirce</sp>,
+Newtonian Potential Function [London]; <sp>Mathieu</sp>,
+<i>Théorie du Potential</i> [Paris]; <sp>Klein</sp>,
+»Vorlesungen über die Potentialtheorie«).
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Potential">
+<b>Potential.</b> Fysikens P. anvendes ogsaa i
+Matematiken, idet maa definerer dem ved visse
+partielle Differentialligninger, som de
+tilfredsstiller. Deres Teori, der spiller en betydelig
+Rolle, er udviklet af Riemann,
+Lejeune-Dirichlet, F. og C. Neumann, Appell o. a. Hvis en
+Funktion <i>f(z)</i> af dem komplekse variable <i>z</i> =
+<i>x</i> + <i>iy</i> skrives <i>f(z)</i> = <i>u</i> + <i>iv</i>, hvor <i>u</i> og <i>v</i> er
+reelle Funktioner af de reelle variable <i>x</i> og <i>y</i>,
+vil <i>u</i> og <i>v</i> være P. Da <i>v</i> kan findes, naar <i>u</i> er
+bekendt, beror Bestemmelsen af <i>f(z)</i> ud fra
+givne Betingelser paa Bestemmelsen af et
+Potential.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Potentialfunktion">
+<b>Potentialfunktion</b> bruges undertiden i
+samme Bet. som <sp>Potential</sp>. <sp>Green</sp> har
+indført Navnet P. for den Størrelse, der i den
+foregaaende Artikel er behandlet under Navn
+af <sp>Potential</sp>: <sp>Gauss</sp> gav den dette Navn,
+der nu almindeligst bruges. Dog bruger f. Eks.
+<sp>Clausius</sp> (»Die Potentialfunction und das
+Potential«, 4. Udg. 1885) Navnet P. om den
+efter Green, og ved Potential forstaar han et
+Systems <sp>potentielle Energi</sp>.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="Potentialis">
+<b>Potentialis,</b> se <sp>Verbum</sp>.
+</chapter>
+
+<chapter name="potentiel">
+<b>potentiel,</b> noget, der udtrykker en
+<sp>Mulighed</sp> i Modsætning til <sp>aktuel</sp>, noget, der i
+Øjeblikket er virksomt.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="potentiel Energi">
+<b>potentiel Energi,</b> se <sp>Energi</sp>.
+</chapter>
+
+<chapter name="Potentil">
+<b>Potentil,</b> se <sp>Potentilla</sp>.
+</chapter>
+
+<chapter name="Potentilla">
+<b>Potentilla</b> L. (<sp>Potentil</sp>, norsk <sp>Mure</sp>),
+Slægt af Rosenfamilien (Potentil-Gruppen), mest
+fleraarige Urter med opret eller krybende
+Stængel, haand- ell. fjersnitdelte Blade og
+hyppigst gule Blomster, der sidder enkeltvis i
+Bladhjørnerne ell. i Kvaste. Blomsterne har 4
+ell. 5 Yderbægerblade, Bæger- og Kronblade,
+c. 20 Støvblade og talrige Frugtblade, der
+sidder paa den stærkt hvælvede, tørre ell.
+svampede og ufarvede Del af Blomsterbunden
+(Frugtbunden). Smaafrugterne er Nødder. C. 200
+Arter, de fleste i nordlig tempererede Egne. Kun
+de hyppigste af de nordiske Arter nævnes her.
+<i>P. anserina</i> L. (<sp>Gaase-P.</sp>, <sp>Gaase-M.</sp>) er
+krybende og har mellembrudt fjersnitdelte, især
+paa Undersiden mere ell. mindre sølvglinsende
+Blade og store, gule Blomster, der sidder
+enlig. Meget alm. i Danmark og Norge paa tørre
+Steder langs Stranden, langs Veje, paa Enge
+o. a. St.; den blomstrer i Maj—Juli og er paa
+mange lave Jorder et ubehageligt Ukrud, der
+bedst fordrives ved god Afvanding og rigelig
+Gødning. <i>P. reptans</i> L. (<sp>Krybende P.</sp>,
+<sp>Femfingerurt</sp>) adskiller sig fra foregaaende
+især ved de haandsnitdelte (ell. femfingrede)
+Blade; den vokser ved Veje og Gærder og paa
+Marker og er alm. i Danmark, meget sjælden
+i Norge; blomstrer i Juni—Aug. <i>P. erecta</i> (L.)
+Hampe (<sp>Opret P.</sp>, <sp>Tormentil</sp>, norsk
+<sp>Tepperod</sp>) har ligesom foregaaende en tyk,
+træet Rodstok, der her er indvendig rød
+(<sp>Blodrod</sp>); herfra udgaar de 10—30 cm høje spinkle
+Skud med 3-delte Stængelblade og smaa,
+4-tallige Blomster. Alm. baade i Danmark og
+Norge paa Heder, tørveholdige Enge, i Skove og
+Krat; den blomstrer i Juni—Aug. Rodstokken
+har været meget anvendt til Garvning; kaldes
+ogsaa <sp>Hedenødder</sp>. <i>P. palustris</i> (L.) Scop.
+(<i>Comarum palustre</i> L., <sp>Kragefod</sp>, norsk
+<sp>Myrhat</sp>) er 30—80 cm høj og har
+fjersnitdelte, paa Undersiden blaagrønne Blade og
+brunrøde Blomster med en tyk og svampet
+Frugtbund. Hyppig i Moser og Sumpe i
+Danmark og Norge (lige til Nordkap og i
+betydelige Højder); den blomstrer i Juni—Juli.
+Tidligere var baade Blade og Rod officinelle; nu
+bruges den sidste undertiden til Rødfarvning
+af Uldvarer. <i>P. argentea</i> L. (<sp>Sølv-P.</sp>,
+<sp>Sølv-M.</sp>) har en opret, 15—30 cm høj Stængel, der

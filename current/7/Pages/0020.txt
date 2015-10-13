@@ -1,0 +1,77 @@
+Elektrodeafstand. Ved endnu mindre Afstande skulde
+Spændingen atter stige. Dette gælder dog ikke,
+naar Elektrodeafstanden bliver mindre end c.
+0,005 mm. Gnistspændingen (<i>V</i>) vil da atter
+være proportional med Elektrodeafstanden (<i>d</i>)
+og blive Nul sammen med denne, saa at man
+kan sætte <i>V</i> = <i>kd</i>, hvor <i>k</i> er en Konstant,
+der afhænger af Elektrodemetallet, men
+derimod ikke af Luftarten, altsaa lige modsat af, hvad der
+gælder for større Elektrodeafstande. <i>k</i> er af
+Størrelsesordenen 10<sup>6</sup>, naar <i>d</i>
+maales i mm, <i>V</i> i Volt.
+
+<sp>Gnistspændingen i faste og flydende
+Isolatorer</sp> afhænger i høj Grad af Stoffernes
+Renhed. Til at give 1 mm's Gnist fordres i Glas 26000-
+60000 Volt, i Terpentinolie 48000, i Benzol 58000 (i Luft
+4700 Volt). Urenheder kan nedsætte Gnistspændingen
+indtil 10 Gange.
+
+<sp>Gniststrømmens Natur</sp>. Naar
+Gnistspændingen er naaet, nedbrydes Isolatorens Modstand
+pludselig, og den elektriske Gnistudladning finder Sted.
+Karakteren af den elektriske Strøm i Gnisten kan
+være en Lystaagestrøm ell. en Lysbuestrøm (se
+<sp>elektrisk Strøm i Luftarter</sp>). Ved den
+første vil Gnistens Lys alene hidrøre fra Luften selv, ved
+Lysbuegnisten derimod vil
+Elektroderne fordampe og give et for
+Elektrodemetallet karakteristisk Gnistspektrum.
+
+<sp>Lystaagegnister</sp> faas i Almindelighed
+ved direkte Gnister fra mindre Induktorer og
+har i atmosfærisk Luft en blaalig Farve. Korte
+Gnister er lige; lange Gnister viser
+Forgreninger, der minder om Lynet. Er Elektroderne
+spidse, bliver Udladningen oftest mere
+kompliceret, idet der forud for den egl. Lystaagegnist
+gaar en Spids- ell. Buskstrøm. Desuden kan
+Gnisten for samme Spænding blive længere end
+ved større Elektroder (smlg. Gnistspændingen
+ved forsk. Kugler i Fig. 2 og Afsnittet
+Glidegnister). Er Elektroderne forsk., viser Gnisten
+Unipolaritet. Mellem en Spids og en Plade kan
+Gnisten saaledes blive fl. Gange længere, naar
+Spidsen er positiv, end naar den er negativ,
+hvad der hænger sammen med, at
+Buskstrømmen saa let udvikler sig paa en positiv Spids.
+
+<sp>Lysbuegnister</sp>. Udlader man et Batteri
+af Leydnerflasker, faar man en stærkt knaldende
+og lysende Gnist. Set i Spektroskop viser Lyset
+foruden Kvælstoffets Liniespektrum intensive
+Linier hidrørende fra Elektrodemetallets
+Dampe. Spektret er delvis forsk. fra Metallets alm.
+Lysbuespektrum, særligt er det rigt paa stærke
+ultraviolette Linier. Forskellen beror
+sandsynligvis paa, at Ionisationen i denne Form af
+Gnisten er større end i den alm. Lysbue, saaledes
+at Metalatomerne er i Stand til at tabe mere
+end een Elektron. Den Hastighed, hvormed de
+glødende Metaldampe udsendes fra Elektroderne,
+har man kunnet bestemme ved at fotografere
+Spektret paa en meget hurtigt bevæget Film.
+Hastigheden er af Størrelsesordenen 1 km pr
+Sek. Man kan ogsaa bestemme den ved at
+betragte Gnisten i et hurtigt roterende Spejl. Man
+ser da tillige, at Udladningen er periodisk
+vekslende med et Svingningstal (af Størrelsesordenen
+10<sup>5</sup>-10<sup>6</sup> Svingninger pr Sek.), der lader sig beregne
+af Batteriets Kapacitet og Ledningens
+
+<img>Fig. 1.
+Gnistspænding i Luft, Kulsyre (CO<sub>2</sub>) og Brint (H<sub>2</sub>) for p=750 mm Kvægsølvtryk (efter <i>Orgler</i>). Kuglernes Diameter=2,5 cm.</img>
+
+<img>Fig. 2.</img>
+

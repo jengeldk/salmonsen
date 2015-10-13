@@ -1,0 +1,100 @@
+automatiske Afbrydere, Tilbagestrømsafbrydere, der
+afbryder Omformernes Jævnstrømssider fra
+Jævnstrømssamleskinnerne, hvis Jævnstrømmen
+gennem Omformerne skifter Retning. I øvrigt
+svarer Forbindelser og Apparater i en
+Omformerstations Vekselstrømsanlæg nøje til
+Forbindelser og Apparater i Vekselstrømscentralers
+Vekselstrømsanlæg, og Højspændings- og
+Tavleanlægget anbringes og indrettes paa lgn. Maade
+som i disse. Jævnstrømsanlæggets Apparater,
+Samleskinner og Forbindelser ligger i et
+Tavleanlæg, hvorfra Reguleringsmodstande,
+Igangsættere og Afbrydere kan betjenes. Ligeledes
+anbringes samtlige Maaleinstrumenter for samme
+Omformer i et og samme Tavlefelt. I store
+Omformerstationer anbringes Apparater og
+Maaleinstrumenter ofte i Pulte ell. paa Apparatsøjler.
+Saadanne bærer som Regel Betjeningshaandtag
+for Omformernes Igangsætningsmodstande og
+Afbrydere samt Volt- og Ampèremetre, undertiden
+tillige Faseindikatorer og Haandhjul til Betjening
+af Reguleringsmodstande for Omformerne. De
+har den Fordel fremfor Pulte og Tavler, at de
+tager ringe Plads op og kan anbringes frit
+staaende paa passende Steder, hvorfra man
+bekvemt kan iagttage Maskinernes Gang. Fig. 5
+viser Maskinsalen og Fig. 6 et Længdesnit
+gennem Omformerstationen <sp>Skt Knudsværk</sp>
+paa Frederiksberg. Denne Omformerstation
+indeholder to Stkr synkrone Motor-Generatorer,
+hver paa 400 KW, 440 Volt Jævnstrøm; den
+drives med trefaset Vekselstrøm af 6000 Volts
+Spænding, der tilføres Omformerstationen fra
+Frederiksbergs Elektricitetsværk over
+Hortensiaværk, som ogsaa er Omformerstation, tillige
+Jævnstrømscentral. Paa Hortensiaværk findes
+der Tilbagestrømsafbrydere i de til Skt
+Knudsværk førende Højspændingsledninger, som
+tilføres Skt Knudsværk i to trekorede Kabler (Fig.
+6), der føres ind i Omformerstationen i
+Kabelgrave gennem dennes ene Gavl og derfra
+gennem Ledningsadskillere og over Afgreninger
+til Overspændingsbeskyttelsesapparater videre
+til Olieafbrydere, hvilke Apparater alle findes i
+Højspændingsrummets underste Etage; gennem
+Olieafbryderne fører Højspændingsledningerne
+over Maaletransformatorer for Maksimalrelaiser
+til de to Olieafbrydere op i
+Højspændingsanlæggets øverste Etage, hvor de to ankommende
+Højspændingsledninger er indbyrdes forbundne
+gennem vandrette Forbindelsesledninger, der i
+Fig. 6 viser sig som de tre nederste af de i
+Højspændingscellen øverst til højre viste seks
+over hverandre anbragte, ved vandrette
+Skillevægge adskilte, vandrette Ledninger. De tre
+øverste af disse er Samleskinnerne (enkelt
+Samleskinnesystem), der er forbundne med de tre
+underliggende Ledninger og derved med
+Højspændingskablerne over en Totalisator, der indeholder
+Maaler, Ampèremeter, Voltmetre og Faseindikator,
+Faseforskydningsmaaler og Frekvensmaaler; fra
+Samleskinnerne udgaar Forbindelser til
+Omformerne over Ledningsadskillere,
+Maaletransformatorer for Maksimalrelaiser, Ampèremetre
+og Faseindikator, til Olieafbrydere, fra hvilke de
+føres direkte til Omformernes
+Vekselstrømsmotorer gennem Maskinkabler, nedlagte i Grave i
+Omformerstationens Gulv. De synkrone Motorer
+er 6000 Volts Maskiner. Jævnstrømmen ledes
+fra Omformerne til et foran
+Højspændingsanlægget anbragt Tavleanlæg (Fig. 5-6), der
+indeholder tre Jævnstrømssamleskinner +, ÷ og
+Nul samt automatiske Afbrydere for
+Jævnstrømsanlægget. Tavlerne er af hvidt Marmor
+og bærer Maaleinstrumenterne,
+Jævnstrømsknivafbryderne og Fjernstyringer til
+Reguleringsmodstandene og de automatiske Afbrydere
+i saavel Jævn- som Vekselstrømsanlægget.
+Omformernes Igangsætningsmodstande er anbragte
+paa et Galeri over Tavleanlægget (se Fig. 5 og
+6) og betjenes fra en Søjle (Fig. 6), hvorfra
+Omformerne sættes i Gang med Jævnstrøm.
+Over Højspændingsrummene og Maskinsalen
+findes der i hele Stationens Udstrækning
+Akkumulatorrum. Akkumulatorbatteriet arbejder
+parallelt med Omformernes Jævnstrømsside paa
+Lys- og Kraftforsyning med 440 Volt.
+
+Omformerstationer, der anvendes til
+Banedrift, indeholder som Regel altid
+Pufferbatteri med Piranimaskine (<i>booster</i>). Fig.
+7 viser Maskinsalen, Fig. 8
+Apparatanlægget i en Omformerstation i Adelaide i
+Australien. Omformerstationen driver Sporvogne
+i nævnte By og indeholder fem
+Etankeromformere, hver paa 500 KW. - 600 Volt
+Jævnstrøm. Hver af disse Omformere forsynes med
+
+<img>Fig. 9. Plan af Bragesgades Understation i Kjøbenhavn.</img>
+

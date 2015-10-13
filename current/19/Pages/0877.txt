@@ -1,0 +1,133 @@
+Koblingskonstanter mellem 0 og 4 og for begge Kredse
+afstemte til Paavirkningens Frekvens (<i>x<sub>2</sub></i> = 0,
+<i>x<sub>2</sub></i> = 0). Kun for <i>y</i> = 1 kan <i>P<sub>2</sub></i> i dette
+Tilfælde naa op til <i>P<sub>2max</sub></i>.
+
+Til yderligere Belysning af disse Forhold er
+i Fig. 17 vist nogle Eksempler paa, hvorledes
+<i>P<sub>2</sub></i> afhænger af Kredsenes Indstillinger. De
+fuldt optrukne Kurver viser, hvorledes <i>P<sub>2</sub></i>
+varierer, naar Koblingskonstanten holdes
+konstant, nemlig <i>y<sub>1</sub></i> = 1, 2 og 3, medens
+Forstemningskonstanterne varierer, idet man dog hele
+Tiden holder <i>x<sub>1</sub></i> = <i>x<sub>2</sub></i>. Hvis de to Kredse har
+samme Selektivitet, vil man praktisk talt faa
+samme Forløb af <i>P<sub>2</sub></i> Kurverne, hvis man holder
+Kredsenes Egenfrekvens konstant, men
+varierer Frekvensen af den paavirkende E. M. K.
+De fuldt optrukne Kurver er derfor i det
+Tilfælde, hvor <i>S<sub>1</sub></i> = <i>S<sub>2</sub></i>, det koblede Systems
+Resonanskurver. Disse Resonanskurver kan dog
+ikke karakteriseres ved Angivelse af en
+bestemt Selektivitet eller et bestemt Dekrement.
+Holdes derimod Primærkredsens Egenfrekvens
+hele Tiden lig med Paavirkningens Frekvens
+(<i>x<sub>1</sub></i> = 0), medens man varierer
+Sekundærkredsens Afstemning, saa faar man for <i>y</i> = 2 og 3
+de punkterede Kurver, der kan betegnes som
+det koblede Systems Resonanskurver for
+Variation af Sekundærkredsens Afstemning. Fig. 17
+viser, at disse sidste Resonanskurver for fast
+Kobling har et meget fladt Forløb, og desto
+fladere, jo fastere Koblingen er.
+
+Særlig Interesse har den Indstilling, for
+hvilken <i>y</i> = 1 og samtidig <i>x<sub>1</sub></i> = <i>x<sub>2</sub></i> = 0, altsaa
+den løseste Kobling, ved hvilken man kan faa
+overført den maksimale Effekt til
+Sekundærkredsen. Denne Indstilling betragtes derfor lidt
+nærmere, idet det tillige forudsættes, at
+Primærkredsen er en hel Del stærkere dæmpet end
+Sekundærkredsen, saaledes at <i>S<sub>1</sub></i> >> <i>S<sub>2</sub></i>. I saa
+Fald er Selektiviteten <i>S<sub>12</sub></i> af det koblede
+System bestemt ved <i>S<sub>12</sub></i> = 1/2 (<i>S<sub>2</sub></i> — <i>S<sub>1</sub></i>)
+
+Det koblede Systems Selektivitet er saaledes
+i dette Tilfælde altid mindre end Halvdelen af
+Selektiviteten af den ukoblede Sekundærkreds,
+men vil, naar Sekundærkredsen er meget svagt
+dæmpet i Forhold til Primærkredsen, være en
+hel Del større end Primærkredsens Selektivitet.
+
+Dernæst skal — under samme Forudsætning,
+altsaa <i>y</i> = 1, <i>x<sub>1</sub></i> = <i>x<sub>2</sub></i> = 0 — Spørgsmaalet
+om Modtageorganets Effekttilførsel behandles.
+Er dette indskudt i Sekundærkredsen og er dets
+Modstand lig med <i>pR<sub>2</sub></i>, hvor <i>R<sub>2</sub></i> er
+Sekundærkredsens totale Modstand, og hvor <i>p</i>
+selvfølgelig er mindre end 1, saa er den Effekt,
+<i>PMS</i>, der tilføres Modtageorganet, bestemt ved
+<i>PMS</i> = <i>p</i> <i>E<sub>1</sub><sup>2</sup>m</i>/8 <i>R<sub>1</sub></i>, og dette er den største Effekt,
+der overhovedet kan tilføres Modtageorganet,
+naar dette indskydes i Sekundærkredsen, og
+naar dets Modstand er lig med <i>pR<sub>2</sub></i>.
+
+Udelades derimod Sekundærkredsen og
+indskydes Modtageorganet direkte i
+Primærkredsen, saa vil dette optage den største Effekt, hvis
+dets Modstand gøres lig med Primærkredsens
+opr. Modstand <i>R<sub>1</sub></i>, idet denne sidste paa
+Forhaand kan antages at være gjort saa lille, som
+Forholdene tillader. Denne maksimale Effekt,
+<i>PMP</i> er bestemt ved <i>PMP</i> = <i>E<sub>1</sub><sup>2</sup>m</i>/8 <i>R<sub>1</sub></i> = <i>P<sub>2max</sub></i>.
+
+Forholdet mellem de maksimale Effekter, der
+kan tilføres Modtageorganet, naar dette
+indskydes henh. i Sekundær- og i Primærkreds, er
+følgelig bestemt ved <i>PMS/PMP</i> = <i>p</i>, og da <i>p</i>
+nødvendigvis er mindre end 1, saa taber man altid
+Energi ved Anvendelse af Transformering
+sammenlignet med Modtageorganets direkte
+Indkobling i Primærkredsen. Fordelen ved
+Anvendelsen af koblede Kredse ligger i den
+større Selektivitet, der kan naas, uden at
+Effekten reduceres for meget. Til Belysning
+heraf anføres flg. Eksempel:
+
+Primærkredsen alene har Selektiviteten <i>S<sub>1</sub></i> =
+60; indskydes Modtageorganet i denne Kreds,
+gaar Selektiviteten ned til <i>S<sub>1M</sub></i> = 30.
+Sekundærkredsen (med Modtageorganet indskudt)
+antages at have Selektiviteten <i>S<sub>2</sub></i> = 600.
+Selektiviteten <i>S<sub>12</sub></i> af det koblede System med
+Modtageren i Sekundærkredsen er da bestemt ved
+<i>S<sub>12</sub></i> = 1/2 (600 — 60) = 270. Da <i>S<sub>12</sub></i>/<i>S<sub>1M</sub></i> = 9,
+opnaar man i dette Tilfælde ved Koblingen en
+9 Gange saa stor Selektivitet som den, man
+fik ved at indskyde Modtageorganet direkte i
+Primærkredsen. Fig. 18 viser de tilsvarende
+Resonanskurver.
+
+<sp>Generatorer og Sendere</sp>.
+
+Efter Arten af de frembragte Svingninger
+falder Senderne i to adskilte Grupper:
+Gnistsendere og Sendere for kontinuerlige Bølger (de
+sidste kaldes ofte C. W.-Sendere efter den eng.
+Betegnelse for Bølgerne: <i>Continous Wawes</i>).
+
+Ved <sp>Gnistsendere</sp> indskydes
+Generatoren enten direkte i Antennen (Marconi's opr.
+Opstilling), ell. den kobles dertil, f. Eks.
+gennem et Par Selvinduktionsruller, saa Energien
+induceres fra Generatorkredsen over i
+Antennen; denne sidste Metode er angivet af
+Tyskeren Braun og Englænderen Oliver Lodge.
+Den frembyder i Sammenligning med Marconi's
+opr. Arrangement betydelige Fordele i Retning
+af større Rækkevidde og »Afstemmelighed«,
+hvorved de udsendte Svingninger fortrinsvis kun
+paavirker den ell. de Modtager stationer, der er
+afstemte efter Afsenderen (smlg. <sp>Resonans</sp>).
+
+Fig. 19 viser en Afsenderstation efter dette
+System, Knaldgnist- ell. Enkeltgnistsystem. <i>V G</i>
+er Vekselstrømsgeneratoren, indskudt i
+Højspændingstransformatorens Primærkreds, der
+indeholder Telegrafnøglen <i>N</i>, og den variable
+Selvinduktion <i>D</i>. Gennem Transformatoren
+induceres Vekselspændingen over i
+Sekundærkredsen med Gnistrummet <i>G</i>, saaledes at der,
+saa snart der slaar en Gnist over i <i>G</i>, opstaar
+elektriske Svingninger i den tykt optrukne Del
+af Kredsen, den <sp>primære</sp>

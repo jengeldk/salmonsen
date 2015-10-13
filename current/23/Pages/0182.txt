@@ -1,0 +1,141 @@
+Ekspeditionen benyttes <sp>Hovedtelefon</sp> og
+<sp>Brystmikrofon</sp> (Fig. 4).
+
+Forinden Abonnentledningerne indføres til
+Vekslerbordene, passerer de en særlig Afdeling,
+<sp>Krydsfeltet</sp>, hvor Omkoblinger ell.
+Fejlmaalinger let kan foretages, og hvor tillige
+forsk. Sikringsanordninger er anbragt (se
+<sp>Smeltesikring</sp>).
+
+C.-E.-Systemet har i de senere Aar fortrængt
+Magnetosystemet ved Indretningen af T. i de
+fleste større Byer Verden over. Fordelene ved
+Systemet er særlig Letheden, hvormed
+Centralbetjeningen overvaager Forbindelserne p. Gr. a.
+de automatiske Kalde- og Slutsignaler.
+Desuden undgaar man det stadige Eftersyn af et
+stort Antal Abonnentbatterier, saaledes at
+Driftssikkerheden forøges, idet Fejl ved
+Ledninger og Apparater hurtigere observeres.
+C.-E.-Systemet kræver derimod bedre isolerede
+Ledninger, da disse stadig er under
+Paavirkning af Centralbatterispændingen. Som Følge
+heraf er man i næsten alle de større Byer gaaet
+over til Anvendelse af underjordisk
+Ledningsnet (se <sp>Telefonledninger</sp>). De væsentlig
+større Anlægsudgifter til Central- og
+Ledningsinstallationen ved C.-E.-Systemet i
+Sammenligning med Magnetosystemet opvejes dog noget af
+de enklere og billigere C.-E.-Abonnentapparater
+og i det hele taget af Forholdene ved den
+centraliserede Drift.
+
+Meget store Byer er i Reglen forsynet med flere
+T., der indbyrdes forbindes med et passende
+Antal Ledninger. I Fig. 3 ses Jackerne for
+saadanne <sp>mellemcentrale Ledninger</sp>
+i Feltet mellem Multipel- og Kaldejacker. Lgn.
+Forbindelsesledninger
+(<sp>Interurbanledninger</sp>) benyttes ved Sammenstillingen
+mellem Abonnenter i forsk. Byer. Her i Landet er
+Forholdet saaledes, at forsk. Telefonselskaber
+besørger Telefonkorrespondancen i Byerne og
+desuden inden for et vist Landomraade, medens
+Forbindelser mellem disse og med Udlandet
+samt den gennemrigske Trafik besørges af
+Statstelefonen, der sorterer under
+Statstelegrafvæsenet. Fra de lokale T. findes derfor
+Forbindelsesledninger til Statstelefoncentralerne,
+hvorigennem en vilkaarlig Abonnentledning kan
+komme i Forbindelse med enhver af de
+interurbane Telefonledninger (Tillige findes særlige
+Statstelefonabonnenter, hvis Ledning kun
+benyttes til Interurbantrafik).
+
+Interurbanafdelingens Vekslerborde er
+indrettet noget anderledes end Lokalbordene, idet
+der fra hvert Bord kun betjenes et forholdsvis
+ringe Antal Interurbanledninger, der til
+Gengæld søges udnyttet det mest mulige. Bordene
+er ofte forsynet med særlige Apparater til
+Modtagelse og Afgivelse af Vækkesignaler, idet fl.
+Stationer (i forsk. mindre Byer) undertiden
+benytter samme Interurbanledning og derfor maa
+have hver sit Kaldesignal (een eller flere
+Ringninger eller et bestemt Telegraftegn). Paa stærkt
+trafikerede Interurbanledninger foregaar hele
+den nødvendige Korrespondance mellem
+Ekspedienterne telegrafisk samtidig med
+Telefoneringen paa Ledningen (se
+<sp>Multiplekstelegrafi</sp>).
+
+Monteringen af store Lokal-T. medfører
+betydelige Udgifter, der paa forsk. Maade søges
+begrænset dels ved Indretning af
+<sp>Fordelingssystemer</sp>, der manuelt eller
+automatisk fordeler »Opringningerne« ligeligt
+mellem Ekspedienterne, hvorved disse kan
+betjene et større Antal Kaldejacker, og dels ved
+Reduktion af Multipelfelterne, saaledes at flere
+Abonnenter er fælles om en Ledning med
+tilhørende Multipeljacker (se
+<sp>Partstelefoner</sp>). Desuden har man tidligt forsøgt at spare
+Udgiften til Betjeningspersonale ved Indretning
+af T., hvor Sammenstillingerne mellem
+Abonnentledningerne sker automatisk. Allerede 1879,
+d. v. s. 3 Aar efter Telefonens Opfindelse
+udtoges de første Patenter paa saadanne
+<sp>automatiske</sp> T. af Conolly og Mc. Tighe i
+Amerika. Senere har et stort Antal Opfindere
+(Strowger, Lorrimer o. fl. a.) beskæftiget sig
+med Opgaven, der dog p. Gr. a. de
+overordentlige praktiske Vanskeligheder først er løst paa
+tilfredsstillende Maade i de senere Aar omkr.
+Aarh.'s Begyndelse. Grundtanken for de
+mange forsk. automatiske Systemer beror paa, at
+der fra Abonnentens Telefonapparat foretages
+en Række Strømslutninger og Afbrydelser af et
+elektrisk Kredsløb paa Ledningen til Centralen,
+hvor en Elektromagnet foraarsager visse
+Bevægelser af et Kontaktsystem, <sp>Vælger</sp>, der
+bevirker Indstillingen til den ønskede Ledning.
+Fig. 5 viser en Vælger af Strowgersystemet i
+en nyere Udførselsform (af Mix og Genest i
+Berlin). Vælgerkontakterne, der omfatter 100
+Abonnentledninger, er anbragt i tre
+halvcirkelformede Kontaktsæt hver med 10 Rk. à 10
+Ledninger (De to underste Sæt svarer til
+Dobbeltledningens to Traade, medens det øverste
+Sæt er »Testledninger«, gennem hvilke en
+Ledning, der staar i Samtale, blokeres og
+signalerer »optaget« ved en Tone i Telefonen).
+Oven over Vælgerkontakterne er anbragt
+Styremagneterne, der paavirkes af de fra
+Abonnentapparatet frembragte Strømimpulser paa
+Ledningen. Impulserne udsendes ved Hjælp af en
+paa Apparatet monteret Fingerskive (Fig. 6),
+der efterhaanden indstilles svarende til de
+forsk. Cifre i det ønskede Nummer, idet man
+begynder ved det højeste Ciffer. Naar
+Fingerskiven, slippes og af en Fjeder drejes tilbage,
+fremkommer det til Indstillingen hørende
+Antal Strømimpulser, der gennem Vælgerens
+Styremagnet først løfter den lodrette
+Vælgeraksel til den rette Kontaktrække (svarende til
+Nummerets Tier) og dernæst drejer
+Kontaktarmene, indtil Forbindelsen (svarende til
+Nummerets Ener) er etableret, hvorefter der
+udsendes Ringestrøm. Naar Abonnenterne efter
+Samtalen lægger Telefonerne, gaar Vælgeren
+atter i Rostilling. Paa mindre Automatcentraler
+findes for hver Abonnentledning en saadan
+<sp>Ledningsvælger</sp>, hvis Kontaktsæt er
+multiplet gennem de øvrige. Paa Centraler
+med et større Antal Abonnentledninger inddeles
+disse i Grupper, der hver forsynes med et
+passende Antal Ledningsvælgere (i Reglen 10 for
+hver Gruppe paa 100 Ledninger). Hver
+Abonnentledning er her forbundet med en særlig
+<sp>Forvælger</sp> (af simplere Konstruktion), der
+automatisk (naar Abonnenten afløfter sin

@@ -1,0 +1,138 @@
+lægge Hovedpunkterne saaledes i Terrainet, at
+Trekanterne bliver saa nær som muligt
+ligesidede, og at man saa vidt muligt kan maale alle
+Trekantvinklerne. — T. kan enten være
+selvstændig (lokal), eller den kan kræves knyttet
+til Hovedpunkter, hvis Beliggenhed i Forvejen
+er bestemt. — Ved T., der skal danne
+Grundlaget for selvstændige, mindre Opmaalinger,
+f. Eks. en Landsbys Jorder, vil Nettet oftest
+bestaa af ganske faa Trekanter med
+Sidelængder paa højst nogle faa km, medens det ved
+Opmaalinger af større Landomraader,
+Landsdele eller hele Lande, vil være sammensat af
+et stort Antal Trekanter, og i sidste Tilfælde
+maa man da til Sikring imod en for stærk
+Ophobning af de ved Maalingen uundgaaelige
+Smaafejl først bestemme et System af
+Hovedpunkter med store indbyrdes Afstand, indtil 50
+km eller mere, i Forhold til dette dernæst et
+underordnet System af Hovedpunkter med
+kortere indbyrdes Afstande og saaledes trinvis
+nedad, indtil man har faaet tilvejebragt et
+System af Hovedpunkter med saa korte indbyrdes
+Afstande (mellem 1 og 2 km), at man i
+Forhold til dette ved andre Maalemetoder (se
+<sp>Landmaaling</sp>) kan bestemme et
+underordnet Linienet, hvortil Terrainpunkterne kan
+knyttes. De i den anførte Trinfølge bestemte
+Hovedpunkter siges at være af henholdsvis 1.,
+2., 3. o. s. v. Orden. De overordnede
+Hovedpunkter afmærkes i Terrainet paa en meget
+solid Maade, f. Eks. med svære, tilhugne
+Granitsten, faststøbte i Beton, de underordnede efter
+deres forskellige Betydning oftest med mindre
+Granitsten, Cementblokke, Jernrør eller
+Træpæle, og under Vinkelmaalingen forsynes
+Punkterne desuden med Signaler, f. Eks.
+Tømmerkonstruktioner af forskellig Størrelse,
+hvortil der kan sigtes fra Nabopunkterne.
+
+Vinkelmaalingen udføres i Punkterne af
+højere Orden altid med en Teodolit (s. d.), hvis
+Finhed er afpasset efter Trekantsidernes
+Længde, og Maalingerne gentages i de større
+Trekanter et større Antal Gange end i de
+mindre, f. Eks. i den danske Landstriangulations
+1. og 2. Ordens Punkter henholdsvis 36 og 18
+Gange. Ved Vinkelmaalingen i Punkterne af
+laveste Orden anvender man ved økonomiske
+Maalinger oftest Teodolitten (undertiden
+Maalebordet (s. d.), undtagelsesvis Sekstanten (s. d.)
+o. l.), medens man ved topografiske Maalinger
+sædvanlig benytter Maalebordet. — Ved
+Landstriangulationerne er 1. Ordens Nettet i de fleste
+Lande bestemt af Gradmaalingerne, og medens
+Fejlene i de herhen hørende nyere
+Vinkelmaalinger kan anslaas til en Middelværdi af kun
+omtrent 1/2 Sekund, vil Middelfejlen ved
+Vinkelmaalinger med Teodolit i Punkterne af
+laveste Orden oftest ligge mellem 1/3 og 1/3.
+
+Den Side, som skal maales, <sp>Grundlinien</sp>
+eller <sp>Basis</sp>, maa vælges saaledes i Terrainet,
+at den egner sig til nøjagtig Maaling. Ved
+større Triangulationer vil der næppe findes en
+saadan Side i selve Hovednettet, og man maa
+da opsøge en kortere Linie, som tilfredsstiller
+den nævnte Fordring, og derefter ved en eller
+flere Trekanter (<sp>Basisnettet</sp>) af den
+gunstigst mulige Form sætte den i Forbindelse
+med en af Hovednettets Trekantsider.
+Længdemaalingen udføres ved selvstændige, mindre
+T. oftest med Staal-Maalebaand (se
+<sp>Maalebaand</sp>) eller Træstænger (se
+<sp>Maalestænger</sp>), medens man ved større T., hvor det
+gælder om at opnaa en særdeles stor
+Nøjagtighed, anvender et af Metalstænger eller
+Metaltraade bestaaende Maaleredskab, det saakaldte
+<sp>Basisapparat</sp>. Som Eksempel paa
+Maaleredskaber med Metalstænger skal nævnes det
+<sp>Bessel'ske Basisapparat</sp>, der har
+været meget anvendt, og med dette er det
+danske Gradmaalingsnets Grundlinie, som har en
+Længde af omtrent 2700 m, i 1838 maalt.
+Apparatet bestaar af 4 Maalestænger, hver af
+omtrent 4 m Længde og sammensat af en Jern- og
+en Zinkstang, saaledes forbundne, at Forskellen i
+deres fra Temperaturen hidrørende
+Længdeforandringer kan bestemmes og Temperaturens
+Indflydelse paa Maalingsresultatet deraf
+beregnes. Under Maalingen bliver Stængerne paa
+Bukke nøjagtig lagt i Basisliniens Retning og
+Afstandene mellem dem maalt med
+Glasmaalekiler, hvorved der skønnes indtil Tusindedele
+af Millimeter. Imidlertid tager saadanne
+Maalinger meget lang Tid og giver dog ikke en
+tilstrækkelig nøjagtig Bestemmelse af
+Temperaturens Indflydelse. Disse Ulemper er i den
+nyeste Tid i en væsentlig Grad blevne afhjulpne
+ved den af den svenske Geodæt <sp>E. Jäderin</sp>
+angivne Metode til Basismaaling med
+Metaltraade, efter at man i Legeringen <sp>Invar</sp>
+(s. d.) har fundet et Materiale, der har en
+yderst ringe Varmeudvidelses- og
+Strækningskoefficient, og som ved sin Konsistens egner sig
+til Fremstilling af forholdsvis lange
+Maaleredskaber. Det <sp>Jäderin'ske
+Basisapparat</sp>, som bestaar af 4 Invartraade, hver af
+omtrent 24 m Længde og omtrent 1,7 mm
+Tykkelse og ved begge Ender forsynet med en
+lille i Millimeter inddelt Invarplade, er bragt
+til Anvendelse i flere Lande og er i 1911 af den
+danske Gradmaaling benyttet til en ny Maaling
+af Grundlinien paa Amager og to Aar senere
+til Maaling af en ny Grundlinie i den udtørrede
+Del af Lammefjord. Under Maalingen
+udspændes Traadene i Grundliniens Retning over
+Spændbukke ved Hjælp af Vægtlodder, og
+Bestemmelsen af hver Traadlængde sker derved,
+at to Maalere samtidig ved begge Traadender
+ved Hjælp af Lupe i halve Tiendedele af
+Millimeter aflæser Millimeterdelingens Stilling
+i Forhold til Mærker paa Stativer, som i
+Forvejen er anbragte i Linien. Ved de nævnte
+Basismaalinger med Invartraade blev Linien
+maalt en Gang i hver Retning med hver af de
+4 Traade og dens Længde bestemt som
+Middeltal af de 8 Maalingsresultater med en
+Nøjagtighed, der svarer til en Middelfejl af noget under
+1 mm for en Strækning af 1 km's Længde, og
+denne Nøjagtighed er fuldt saa stor som den,
+der med Anvendelse af meget længere Tid er
+opnaaet ved den enkelte Maaling med de
+bedste Basisapparater med Metalstænger. — For
+Staal-Maalebaandets Vedkommende maa man
+for den enkelte Maaling af en Strækning af 1
+km Længde (forudsat, at Baandet under
+Maalingen beskyttes mod Solbestraaling, og at

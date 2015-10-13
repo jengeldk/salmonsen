@@ -1,0 +1,106 @@
+<h1>E</h1>
+<chapter name="elektriske Sporveje">
+<b>elektriske Sporveje.</b> Herved forstaas en
+Sporvej, hvor Elektriciteten under en ell. anden
+Form benyttes som Drivkraft. De første Forsøg
+paa e. S. stammer fra 1835, men fik ingen
+praktisk Bet. Paa Berlin-Udstillingen 1879
+fandtes en af <sp>Siemens & Halske</sp> anlagt lille
+e. S., hvor 3 Vogne, hver med 6 Siddepladser, 
+blev trukne af et lille Lokomotiv, og 2 Aar efter
+aabnedes den første virkelige e. S.
+<sp>Berlin-Lichterfelde</sp>. Det blev dog Amerika, der
+kom til at gaa i Spidsen. 1884 aabnedes her
+den første e. S. i <sp>Cleveland, Ohio</sp>, og i
+Løbet af nogle Aar, navnlig efter 1888, blev den
+elektriske Sporvejsdrift indført i en Række
+amer. Byer. Udviklingen har i de siden da
+forløbne Aar været rivende, og der findes
+nutildags e. S. i alle de større Byer Verden over.
+Som Bevis paa, hvilken enorm Rolle den
+elektriske Sporvejsdrift nu spiller, kan anføres, at
+der alene i Tyskland nu findes over 5000 km
+e. S. og c. 14000 elektriske Motorvogne, og at
+det samlede Antal Passagerer, der befordres
+om Aaret, beløber sig til c. 3000 Mill.
+
+I den elektriske Sporvejsdrifts første Tid
+anvendtes en Del Steder de saakaldte
+<sp>Akkumulatorvogne</sp>. Vogne, forsynede med et
+Akkumulatorbatteri (anbragt f. Eks. under
+Vognsæderne), som leverede Strøm til Motorerne, og
+som saa med visse Mellemrum opladedes. Men
+dels var Akkumulatorbatteriet tungt, hvorved
+Kørslen fordyredes, dels viste det sig
+vanskeligt at bygge transportable Batterier
+tilstrækkeligt holdbare. Endvidere var selvfølgelig
+Syrelugten generende for Passagererne, hvorfor
+Akkumulatorvognenes Rolle hurtigt udspilledes.
+
+Næsten alle e. S. drives nutildags ved
+Strømmen fra en Centralstation, tilført Vognene
+igennem en ell. anden <sp>Kontaktledning</sp>. Der
+anvendes hyppigst Jævnstrøm med en
+Spænding 500-700 Volt. Centralen kan afgive 
+Strømmen direkte med den rigtige Spænding, ell. den
+kan - hvis det drejer sig om store Afstande
+og store Energimængder - levere højspændt
+Vekselstrøm til Understationer, hvor Strømmen
+omformes til Jævnstrøm af passende Spænding
+og derpaa sendes ud i Kontaktledningerne. Ved
+større Anlæg maa man, for at undgaa for store
+Spændingstab, føre Strømmen til
+Kontaktledninger i fl. <sp>Fødepunkter</sp>, til hvilke der
+fra Centralen føres særlige Fødeledninger
+(Luftledninger ell. Kabler).
+
+<sp>Strømaftagningen</sp> fra
+Kontaktledningen til Vognen kan ske paa 3 forsk. Maader:
+
+1) <sp>Overjordisk Strømtilførsel</sp> (Fig.
+1). Midt over Sporet er udspændt en blank
+Traad, »<sp>Køretraaden</sp>«, bestaaende af
+Kobber ell. Bronze. Fra denne Traad ledes
+Strømmen gennem Vognens Strømaftager og
+Manøvreapparater m. m. til <sp>Motorerne</sp> og derfra
+igennem Hjulene til Skinnerne for ad disse at
+vende tilbage til Centralen. - Da Skinnerne
+ligger i Jorden, vil naturligvis en Del af
+Strømmen igennem den fugtige Jord søge over til
+nærliggende Gas- og Vandrør, hvorfra den,
+efter at have fulgt Rørene en vis Strækning,
+igen maa gaa tilbage til Skinnerne nærmere ved
+Centralen. Idet Strømmen forlader Rørene,
+sker der et galvanisk Angreb paa disse,
+hvorfor de i Tidens Løb er udsatte for Ødelæggelse.
+Man maa derfor saavidt muligt undgaa disse
+saakaldte »<sp>vagabonderende Strømme</sp>«,
+hvorfor man tilstræber en saa god elektrisk
+Ledningsevne af Sporet som muligt, f. Eks. ved
+at anbringe Kobberforbindelser imellem hver to
+sammenstødende Skinner. Oftest nedlægges
+desuden i Jorden et særligt Kabelsystem,
+»<sp>Returkablerne</sp>«, som fra forsk. Punkter af
+Skinnesystemet fører Strømmen tilbage til
+Centralen; herved kan Spændingsforskellen imellem
+de forsk. Punkter af Skinnesystemet holdes nede
+paa en passende lav Værdi.
+
+2) <sp>Underjordisk Strømtilførsel</sp>
+(Fig. 2). I en Kanal langs Sporet, enten midt
+i dette ell. ved den ene Skinne, lægges paa
+Porcelænsisolatorer en Kontaktskinne, der erstatter
+Køretraaden ved det overjordiske System. En
+Arm rager fra Vognen igennem en smal Slidse
+i Kanalens Loft ned i denne og bærer et paa
+Skinnen glidende Kontaktstykke. Systemet
+anvendes, hvor man af æstetiske ell. andre Grunde
+ikke vil anbringe Luftledninger. Det anvendes
+bl. a. i Buda-Pest, Wien o. fl. Steder i Berlin.
+Undertiden haves to underjordiske
+Kontaktskinner (New York, Washington), hvoraf den
+ene da er Fødeskinne, den anden Returskinne, 
+idet Sporene ikke benyttes til Tilbageledning af
+Strømmen. Det underjordiske System er
+selvfølgelig dyrere end det overjordiske og ikke
+

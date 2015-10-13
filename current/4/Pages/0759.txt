@@ -1,0 +1,108 @@
+<chapter name="Centrifugalventilator">
+<b>Centrifugalventilator</b> kalder man en
+Centrifugalblæser (se <sp>Blæsere</sp>), naar den
+anvendes til Ventilation.
+</chapter>
+
+<chapter name="Centrifuge">
+<b>Centrifuge</b> kaldes en Maskine, med hvilken
+det er muligt ved Hjælp af Centrifugalkraften,
+at skille faste Stoffer fra flydende, og Vædsker
+med forsk. Vægtfylde fra hinanden. I disse
+Øjemed finder C. udstrakt Anvendelse i mange
+industrielle Virksomheder, f. Eks. Sukkerfabrikker,
+Stivelsefabrikker, Parafinfabrikker, Vaskerier,
+Garverier, ligeledes i Vinfabrikationen og til
+Udslyngning af Honning o. l. I disse o. lgn.
+Virksomheder skal C. hyppigst skille Vædsker
+fra faste Stoffer, og er da i Alm. en lodret
+stillet Cylinder, der kan sættes i meget hurtig
+Omdrejning, og hvis Væg er fint gennemhullet,
+saaledes at Vædskerne under Omdrejningen
+slynges ud gennem Væggen, medens de faste
+Stoffer tilbageholdes. I øvrigt er saadanne C.
+noget forsk. byggede, efter det Formaal hvortil
+de skal anvendes. Fig. 1 viser en C., der
+anvendes i Sukkerfabrikationen til Rensning af
+Raasukker. Denne C. bestaar af en cylindrisk
+Støbejernsbeholder, hvori er anbragt en lodret
+stillet roterende Aksel, som støttes af to Lejer
+og forneden er forsynet med Remskive til
+Forbindelse med Drivakslen og foroven bærer en
+cylindrisk, aaben Tromle af Jernblik, hvis
+lodret stillede Vægge er forsynede med et stort
+Antal fine Huller og indvendig beklædt med
+Messingvæv. Under Centrifugeringen slynges
+Siruppen ud gennem Tromlens Vægge og kan
+derpaa aftappes fra den ydre Beholder,
+medens Sukkerkrystallerne tilbageholdes som et
+Lag paa Tromlens Inderside, hvorfra de med
+passende Mellemrum fjernes.
+
+Det er dog i Særdeleshed i Mælkeribruget, at
+C. har faaet Bet., thi det var først med dens
+Anvendelighed til Adskillelse af Mælk og Fløde,
+at det blev muligt at give Mejerierne den Form,
+hvori de nu er velkendte, og i denne
+Virksomhed har C. gennemløbet en meget lang
+Udviklingsskala, forinden den naaede sin nuværende
+Skikkelse, i hvilken den repræsenterer en
+betydelig Sum af konstruktivt Snille i præcis
+Udførelse.
+
+De første alm. kendte Forsøg paa at benytte
+Centrifugalkraften til Flødens Udskillelse gaar
+tilbage til 1859, da Prof. <sp>Fuchs</sp> i Karlsruhe
+byggede et mindre Centrifugalapparat til
+Mælkeundersøgelse, men fem Aar senere (1864)
+forctoges i München, af Bayreren <sp>Prandtl</sp>,
+de første Forsøg paa egl. Skumning af Mælk
+ved Centrifugalkraft. Prandtl's C. var meget
+simpel, idet den kun bestod af en lodret,
+roterende Aksel, i Forbindelse med hvilken der var
+ophængt Spande med Mælk saaledes, at de, naar
+Akslen drejedes hurtig rundt, svingede ud i
+vandret Stilling; under fortsat Bevægelse i
+denne Stilling dreves de mindre vægtfyldige
+Flødepartikler indad mod Mælkens Overflade,
+saaledes, at naar C. standsedes, fandtes Fløden
+i et Lag oven paa Mælken i Spandene, paa
+samme Maade, som det vilde være sket ved rolig
+Henstand af Mælken i længere Tid.
+
+Lgn. Forsøg med Spandecentrifuger blev i
+1873 foretagne her i Landet, men der klæbede
+ved denne Form for C. saa mange Ulemper, at
+man maatte opgive at gaa frem ad den Vej,
+og allerede Aaret forud (1872) havde daværende
+<i>Cand. polyt.</i>, nuv. Prof. <sp>V. Storch</sp> ogsaa
+udkastet Tanken om at bygge en C. i Form af en
+lodret stillet Cylinder. Løsningen af dette
+Problem beskæftigede da adskillige Teknikere i de
+flg. Aar, og 1876 blev den første cylindriske C.
+prøvet her i Danmark; den var bygget af
+Mekanikus <sp>P. Vinstrup</sp>. Aaret efter (1877)
+fremkom Ingeniørfirmaet <sp>Lefeldt & Lentz</sp>
+i Schöningen med en lgn. cylindrisk C. Begge
+disse C. var, hvad man kalder »diskontinuerlige«,
+d. v. s., at de maatte standses, for hver Gang
+en vis Portion Mælk var behandlet. Princippet
+var imidlertid rigtigt; men for at C. kunde faa
+den fulde Bet. for Praksis, maatte de være
+»kontinuerlige«, d. v. s., de maatte bygges saaledes,
+at der uafbrudt under Gangen kunde strømme
+Sødmælk til, og Fløde og Skummetmælk fra C.
+En saadan C. byggedes 1878 paa Maglekilde
+Maskinfabrik ved Roskilde af Konstruktør <sp>L. C.
+Nielsen</sp>. Den gjorde 1500 Omdrejninger pr.
+Min. og kunde skumme 5 à 600 Pund Mælk pr.
+Time. I de flg. Aar fremkom nu fl. kontinuerlige
+C., af hvilke de vigtigste var Svenskeren
+<sp>de Laval</sp>'s »Separator«, og <sp>Koefoed &
+Hauberg</sp>'s C. 1881 købte Burmeister &
+Wain's Maskinfabrik Patentet paa Maglekilde C.
+og forbedrede den paa mange Maader, saaledes
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>

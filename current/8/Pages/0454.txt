@@ -1,0 +1,134 @@
+<table>
+<td 2>Aarlig Udgift pr. Familie<td>Land-<br>arbejdere<td>Landhaand-<br>værkere<td>Husmænd<td>Købstad-<br>arbejdere<td>Hovedstads-<br>arbejdere<td>Gaardmænd
+<td><td><td c>Kr<td c>Kr<td c>Kr<td c>Kr<td c>Kr<td c>Kr
+<td c>til<td>Føde<td r>563<td r>552<td r>619<td r>673<td r>785<td r>789
+<td c>-<td>Spiritus og Tobak<td r>25<td r>25<td r>23<td r>30<td r>47<td r>50
+<td c>-<td>Beklædning og Vask<td r>109<td r>133<td r>137<td r>187<td r>199<td r>282
+<td c>-<td>Anskaffelser og Vedligeholdelse<td r>17<td r>27<td r>26<td r>43<td r>47<td r>87
+<td c>-<td>Bolig<td r>68<td r>83<td r>78<td r>162<td r>254<td r>194
+<td c>-<td>Brændsel og Belysning<td r>53<td r>67<td r>64<td r>85<td r>83<td r>119
+<td c>-<td>Forsikring, Læge, Medicin<td r>23<td r>37<td r>36<td r>77<td r>84<td r>99
+<td c>-<td>Foreningsbidrag<td r>2<td r>3<td r>4<td r>36<td r>44<td r>11
+<td c>-<td>Undervisning, Bøger, Blade<td r>9<td r>12<td r>23<td r>28<td r>29<td r>51
+<td c>-<td>Adspredelser og Rejser<td r>10<td r>23<td r>30<td r>41<td r>77<td r>105
+<td c>-<td>personlige Skatter<td r>6<td r>13<td r>17<td r>28<td r>22<td r>95
+<td c>-<td>Gaver og Velgørenhed<td r>7<td r>16<td r>17<td r>14<td r>15<td r>54
+<td c>-<td>Andet<td r>28<td r>55<td r>42<td r>50<td r>77<td r>151
+<td c><td r>Udgift i alt<td r>920<td r>1046<td r>1116<td r>1454<td r>1763<td r>2087
+<td 2>heraf i Procent til
+<td c><td>Føde<td r>61,2<td r>52,8<td r>55,5<td r>46,3<td r>44,5<td r>37,8
+<td c><td>Husleje<td r>7,4<td r>7,9<td r>7,0<td r>11,2<td r>14,4<td r>9,3
+<td c><td>Brændsel og Belysning<td r>5,7<td r>6,4<td r>5,7<td r>5,9<td r>4,8<td r>5,7
+</table>
+
+Fødevareprocentens Aftagen med den samlede
+Udgifts Stigen træder tydeligt frem. Forskellen
+i Udgift til Bolig for henh. Land- og
+Byarbejdere, Forskellen i Foreningsbidrag o. a.
+karakteristiske Træk skal her blot paapeges. Fra
+Middelstands-Regnskaberne af 1916 meddeles
+flg. Tabel:
+
+<table >
+<td v2 2>Aarlig Udgift pr. Familie<td c4>Middelstandsfamilier o. a.<br>med en Indtægt af:
+<td c>2—3000<br>Kr<td c>3—4000<br>Kr<td c>4—5000<br>Kr<td c>5—10000<br>Kr
+<td 2>Fødevarer<td r>835<td r>1039<td r>1248<td r>1563
+<td 2>heraf til Brød, Mel, Gryn<td r>164<td r>198<td r>247<td r>275
+<td><td>Kartofler, Grønsager, Frugt<td r>69<td r>79<td r>118<td r>152
+<td><td>Sukker, Urtekramvarer<td r>140<td r>169<td r>205<td r>248
+<td><td>Kød, Flæsk, Fisk<td r>216<td r>275<td r>315<td r>421
+<td><td>Smør, Fedt, Mælk o. l.<td r>246<td r>318<td r>363<td r>467
+<td 2>Stærkt Øl, Spiritus, Tobak<td r>46<td r>67<td r>74<td r>106
+<td 2>Beklædning og Vask<td r>399<td r>470<td r>486<td r>640
+<td 2>Fodtøj<td r>82<td r>111<td r>117<td r>155
+<td 2>Husgeraad, Anskaffelser<br>og Reparationer<td r>142<td r>181<td r>205<td r>253
+<td 2>Brændsel og Belysning<td r>181<td r>222<td r>278<td r>424
+<td 2>Husleje<td r>325<td r>424<td r>493<td r>741
+<td 2>Skatter<td r>87<td r>126<td r>174<td r>291
+<td 2>Læge, Forsikring m. m.<td r>192<td r>269<td r>354<td r>577
+<td 2>Bøger, Aviser, Undervisning<td r>66<td r>127<td r>196<td r>288
+<td 2>Tyendeløn o. l.<td r>39<td r>84<td r>163<td r>277
+<td 2>Andet<td r>229<td r>351<td r>524<td r>858
+<td r 2>Udgift i alt<td r>2623<td r>3471<td r>4312<td r>6172
+<td 2>heraf i Procent til
+<td><td>Fødevarer<td r>31,8<td r>29,0<td r>28,9<td r>25,3
+<td><td>Beklædning m. v.<td r>18,3<td r>16,7<td r>14,0<td r>12,9
+<td><td>Bolig, Belysning og Brændsel<td r>19,3<td r>18,6<td r>17,9<td r>18,9
+</table>
+
+Ihvorvel disse Regnskaber maa være
+paavirkede af de unormale Tilstande, som
+Krigsforholdene medførte i 1916, giver Tabellen dog
+et værdifuldt Billede af, hvorledes
+Mellemstanden bruger sine Indtægter, og hvorledes
+Indtægtsstigningen anvendes i ulige Grad paa de
+forsk. Behov.
+
+De anførte Tabeller viser kun Pengenes
+Anvendelse, ikke de forbrugte Varemængder, der,
+særlig for Fødevarerne, frembyder selvstændig
+Interesse. Forbruget kan naturligvis beregnes
+pr Familie af Gennemsnitsstørrelse, men i F.
+har man for at eliminere Familiernes forsk.
+Sammensætning og den forsk. Forbrugsevne hos
+Individer af forsk. Køn og Alder sædvanlig
+anvendt den Metode at beregne Forbruget pr
+Forbrugerenhed (Engel har foreslaaet Betegnelsen
+»Quets« herfor til Minde om Quetelet). Til
+Omsætningen af Individer til Forbrugerenheder
+er opstillet og anvendt forsk. Skalaer, der dog
+alle sætter den voksne Mands Forbrug = 1.
+De ældre tyske Skalaer af Engel og Rubner og
+nyere af Zuntz m. fl. er meget detaillerede og
+forudsætter en Nøjagtighed i Beregningen, som
+ikke kan foreligge hverken i fysiol. ell. i stat.
+Henseende. Skalaen blev simplificeret i den
+amer. F. (Atwater's Skala m. fl.), og den nu
+alm. benyttede er flg.: Barn, 1—4 Aar = 0,3,
+5—9 Aar = 0,7, 10—14 Aar = 0,9, Kvinder over
+14 Aar = 0,9, Mænd over 14 Aar = 1,0. En
+Familie bestaaende af Mand, Hustru og tre
+Børn paa 4, 8 og 11 Aar udgør altsaa 3,8
+Enheder. Hele den danske Befolkning 1916
+(2921000 Personer) udgør c. 2450000
+Forbrugsenheder. Fødevareforbruget pr Enhed i
+Danmark har Lægerne Hindhede og Povl Hejberg
+særlig beskæftiget sig med til
+ernæringsfysiologiske Undersøgelser. Efter Hindhede gengives
+nedenstaaende Forbrug pr Enhed pr Dag i
+Arbejderfamilier (I) og i velstillede Familier
+(II) (1911—14).
+
+<table>
+<td>Forbrug i Gram<td c>I<td c>II
+<td>Okse- og Kalvekød <td r>50<td r>99
+<td>Svinekød<td r>22<td r>46
+<td>Fjerkræ<td r>1<td r>16
+<td>Slagteriaffald, Fars<td r>30<td r>22
+<td>Paalæg<td r>22<td r>28
+<td>Fisk<td r>39<td r>56
+<td>Flæsk<td r>15<td r>10
+<td>Smør<td r>22<td r>19
+<td>Margarine<td r>33<td r>61
+<td>Fedt, Klaret<td r>11<td r>6
+<td>Sød Mælk<td r>170<td r>371
+<td>Skummet Mælk<td r>148<td r>60
+<td>Rugbrød<td r>220<td r>104
+<td>Sigtebrød<td r>43<td r>26
+<td>Franskbrød<td r>65<td r>73
+<td>Kager<td r>18<td r>40
+<td>Gryn, Mel, Ærter<td r>58<td r>84
+<td>Sukker<td r>72<td r>85
+<td>Kartofler<td r>207<td r>181
+<td>Ost<td r>15<td r>14
+<td>Æg<td r>18<td r>32
+<td>Frugt<td r>55<td r>146
+<td>Rodurter<td r>14<td r>32
+<td>Grønsager<td r>35<td r>60
+<td>Hvidtøl<td r>90<td r>85
+<td>Bajersk Øl<td r>9<td r>17
+<td>Vin og Spiritus<td r>3<td r>14
+<td>Kaffe<td r>10<td r>13
+<td>The<td r>1<td r>2
+<td>Chokolade<td r>1<td r>7
+</table>

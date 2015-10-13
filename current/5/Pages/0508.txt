@@ -1,0 +1,73 @@
+Fabrikanlæg og Elektricitetsværker, forlanger
+man, at Omdrejningstallet holdes konstant,
+hvorfor de maa forsynes med paalidelige
+Regulatorer.
+
+I Fig. 21 er vist en D. til et Elektricitetsværk.
+Det er en Tregangsmaskine med to LT-Cylindre,
+hvoraf den ene er i
+Tandem med HT-, den anden
+med MT-Cylinderen. Der
+anvendes Ventilstyring
+med Centrifugalregulator.
+Kondensatoren er anbragt
+under D. og er i
+Forbindelse med 2 Luftpumper,
+der bevæges ved en
+Krumtap og en
+Balancebevægelse. Ved c. 110
+Omdrejninger pr Minut
+(O/M) udvikler D. 1200
+indicerede Hestekræfter
+(I. H. K.).
+
+Til overhedet Damp er
+<sp>Schmidt-Motoren</sp>
+(Fig. 22) særlig egnet. Det
+er en Tamdem-D., hvor HT-Stemplet er direkte
+forbundet med LT-Stemplet
+(Differentialstempel). Ved Enden af HT-Cylinderen findes en
+Damp-Indstrømnings- og en
+Udstrømningsventil; fra sidstnævnte gaar Dampen (efter at have
+trykket Stemplet frem) gennem det ringformede
+Rum omkr. LT-Cylinderen til Mellemkamret <i>R</i>.
+Trykforskellen paa Differentialstemplet vil
+bevæge dette tilbage. Under næste Slag gaar
+Dampen ind i LT-Cylinderen gennem en
+Ventil foroven samtidig med, at der indlades
+frisk Damp i HT-Cylinderen; under det flg.
+Slag forlader Dampen LT-Cylinderen
+gennem en Ventil forneden. Ved denne
+Konstruktion undgaas det saaledes, at den
+overhedede Damp kommer i Berøring med
+nogen Pakdaase.
+
+<sp>Stempel-D. i Skibe</sp> er nutildags i
+Reglen en staaende Flergangsmaskine,
+oftest en Tregangsmaskine, med
+Overfladekondensation. I moderne Maskiner anvendes
+ofte overhedet Damp og undertiden
+Ventilstyring ell. Jævnstrøms-D.; Gliderstyring
+med Stephenson's Kvadrant er det
+almindeligste. D. er direkte koblet til
+Fremdrivningsmidlet, der saa godt som altid er en
+Drivskrue. Der kan findes 1-4 Skruer;
+hver Skrueaksel bevæges af eet, sjældnere
+to, Sæt Maskiner. Paa Akslen indskydes et
+<sp>Trykleje</sp>, der overfører Skruens
+Drivtryk til Skibet. I moderne Oceandampere
+findes ofte baade D. og Dampturbiner, idet
+de sidstnævnte udnytter D.'s Spildedamp.
+
+Foruden Hovedmaskineriet findes -
+særlig i Passager- og Krigsskibe - et stort
+Hjælpemaskineri (Pumper, elektriske
+Generatorer, Spil, Styremaskiner, Ventilatorer m.
+m.). Til Drift af dette anvendes smaa
+hurtiggaaende D. (se Fig. 23), eventuelt
+Elektromotorer ell. Forbrændingsmotorer.
+
+D. i Handelsdampere bygges solidt, og der
+
+<img>Fig. 25 a. Staaende Tregangs-Skibsmaskine (set fra Enden).</img>
+<img>Fig. 25 b. Staaende Tregangs-Skibsmaskine (Længdesnit set fra Siden).</img>

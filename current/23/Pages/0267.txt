@@ -1,0 +1,146 @@
+fordelagtigere at benytte Platin til
+Normalmetal, da det kan fremstilles meget rent og kan
+bruges inden for langt større
+Temperaturomraade end Bly. I hosstaaende Tabel er denne
+Termokraft mod Platin anført for en Række
+Metaller; under Maaling og ved de praktiske
+Anvendelser er oftest baade Metallet og
+Platintraaden loddede til to ens Traade, som Regel
+Kobbertraade, og i Tabellen er forudsat, at
+disse to Loddesteder har Temperatur 0° C.
+Termokraften regnes positiv, hvis den frembragte
+Strøm ved Loddestedet mellem Platin og
+Metallet løber fra Metallet til Platin. Tabellen
+forudsætter endelig, at dette Loddested er
+opvarmet til 100°.
+<table>
+<td c>Metal<td c>Termokraft<br>Millivolt
+<td>Vismut, parallel med Aksen<td r>+ 15,8
+<td>— , vinkelret paa Aksen<td r>+ 7,3
+<td>Konstantan (60 % Cu, 40 % Ni)<td r>+ 3,5
+<td>Nikkel<td r>+ 1,7
+<td>Platin<td r>0
+<td>Bly<td r>— 0,4
+<td>Aluminium<td r>— 0,4
+<td>Platinrhodium (90 % Pt, 10 % Rh)<td r>— 0,6
+<td>Manganin (84 % Cu, 4 % Ni, 12 % Mn)<td r>— 0,65
+<td>Kobber<td r>— 0,7
+<td>Sølv<td r>— 0,75
+<td>Guld<td r>— 0,75
+<td>Jern<td r>÷ 1,5 til — 1,9
+<td>Antimon<td r>— 2,7 til — 3,0.
+</table>
+
+For et vilkaarligt Par Metaller faas
+Termokraften som Forskellen mellem de anførte Tal;
+saaledes er for Konstantan-Kobber
+Termokraften = 3,5 — (—0,7) = 4,2 Millivolt. Den nævnte
+Spændingsrække gælder kun for det angivne
+Temperaturomraade; for andre Temperaturer
+kan ikke blot Størrelsen af Termokraften, men
+ogsaa Metallernes Rækkefølge, forandres.
+Fuldstændig Overblik faar man derfor først, naar
+man kender Termokraftens Størrelse for alle
+Temperaturer af Loddestedet.
+
+T. finder praktisk Anvendelse dels til
+Temperaturmaaling ved Termoelementer (se
+<sp>Termometer</sp>) og dels i <sp>Termosøjlen</sp>
+(Termostøtten). En saadan dannes ved at
+sammenlodde Traade af to Metaller, M1 og M2, til en
+sammenhængende Ledning efter Ordenen M1
+M2 M1 M2 M1 o. s. v. Ledningen ombøjes
+saaledes, at alle Loddestederne M1 M2
+vender til den ene Side, M2 M1 til den
+anden. Ved Brugen opvarmes den ene Side,
+altsaa hverandet Loddested, og den
+elektromotoriske Kraft, hele Støtten
+frembringer, vil da være Summen af Kræfterne i de
+enkelte Elementer, hvert bestaaende af to
+Traade. Termosøjlen anvendes især til Maaling
+af Straaling (s. d.), navnlig paa Grund af dens
+ringe Varmekapacitet; man sværter da ofte de
+med Straalekilden vendende Loddesteder, for
+at gøre Absorptionen af Straalingen saa
+fuldkommen som mulig. I nær Forbindelse med den
+omtalte Virkning staar <sp>Peltiereffekten</sp>
+og <sp>Thomsoneffekten</sp>.
+
+Peltiereffekten bestaar i følgende: Sendes en
+elektrisk Strøm gennem to Metaltraade, der er
+loddede sammen, vil der i Loddestedet ske en
+Varmetoning; denne vil altid være saadan, at
+den søger at frembringe en Strøm modsat den
+oprindelige. Sendes saaledes en Strøm fra en
+Jerntraad over i en Konstantantraad, saa vil
+Loddestedet opvarmes; thi ifølge Tabellen
+ovenfor vil en Opvarmning af et Loddested
+mellem Jern og Konstantan give en Strøm med
+Retning Konstantan -> Jern, altsaa modsat
+den oprindelige Strøm. Varmetoningen er
+proportional med Strømstyrken og afhænger
+selvfølgelig af Metallernes Natur.
+
+Princippet i Thomsoneffekten er følgende:
+opvarmer man en Metaltraad paa Midten, medens
+Enderne holdes ved konstant lavere
+Temperatur, og sender man samtidig en elektrisk Strøm
+gennem Traaden, saa forskydes
+Temperaturmaksimet i en Retning, afhængig af Metallets
+Natur. For nogle Metaller, f. Eks. Antimon,
+Zink og Kobber, flyttes Maksimet med
+Strømmen, for andre Metaller, som Vismut og Platin,
+forskydes Maksimet imod Strømretningen. I Bly
+er Thomsoneffekten praktisk talt 0, og det er
+Aarsagen til, at man tidligere brugte Bly som
+Normalmetal i den termoelektriske
+Spændingsrække. Thomsoneffekten bestaar altsaa i, at der
+i Metaltraade foruden den sædvanlige
+Strømvarme sker en Varmetoning paa de Steder,
+hvor der er Temperaturvariationer;
+Varmetoningen er proportional med Strømstyrken og
+med Temperaturvariationen.
+
+Fremkomsten af den termoelektriske Kraft
+forklares ved Elektronteorien ud fra den
+Forudsætning, at der i Metallerne findes fri
+Elektroner, der bevæger sig med en
+Gennemsnitshastighed, svarende til Temperaturen. Loddes
+to Metaller sammen, vil Grænsefladen rammes
+af Elektroner fra begge Sider, og hvis Antallet
+af fri Elektroner pr cm<sup>3</sup> er forskelligt i de to
+Metaller, vil der opstaa en Spændingsforskel
+mellem dem. Ved Forandring af Loddestedets
+Temperatur forandres baade Antallet af fri
+Elektroner og disses Gennemsnitshastighed, og
+Spændingsforskellen vil følgelig ogsaa forandres.
+Ogsaa Peltiereffekten og Thomsoneffekten er
+søgt forklaret ved Elektronteorien.
+Varmeteorien giver en Sammenhæng mellem alle tre
+termoelektriske Fænomener. (<sp>Litt</sp>.: <sp>K.
+Baedecker</sp>, »Die elektrische Erscheinungen in
+metallischen Leitern«; <sp>Geiger & Scheel</sp>,
+»Handbuch der Physik«, Bind XIII).
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Termoelement">
+<b>Termoelement,</b> se <sp>Termometer</sp> og
+<sp>Termoelektricitet</sp>.
+</chapter>
+
+<chapter name="Termoflaske">
+<b>Termoflaske,</b> en dobbeltvægget, forsølvet
+Glasflaske med lufttomt Rum mellem de to
+Vægge, hvorved Flaskens Indhold varmeisoleres
+fra Omgivelserne. Paa Grund af det stærkt
+udpumpede Luftmellemrum mellem Væggene er
+Varmeledningen praktisk talt forsvindende.
+Varmeovergangen sker derfor kun ved
+Straaling fra Væg til Væg, og den er reduceret
+stærkt ved, at Overfladerne er forsølvede. T.
+finder Anvendelse til Opbevaring af varme Drikke
+og er da i Reglen beskyttet ved et omgivende
+Metalhylster. Den nævnte Art Varmeisolation
+er først anvendt af den engelske Fysiker J.
+Dewar til Opbevaring af flydende Luft, hvorfor

@@ -1,0 +1,149 @@
+<sp>Beboelseshuse</sp>.
+
+
+<table>
+<td 5 c>Antallet af Huse er for 1911 opgjort til:
+<td><td 2 c>Antal Beboelseshuse i 1911<td 2 c>Beboere pr. beboet Hus
+<td><td r>beboede<td r>ubeboede<td c>1911<td c>1901
+<td>England-Wales<td r>7141800<td r>446800<td c>5.05 <td c>5.20
+<td>Skotland<td r>1103400<td r>93800<td c>4.70<td c>4.82
+<td>Irland<td r>861900<td r>72600<td c>5.09<td c>5.20
+</table>
+
+Antallet af Beboelseshuse er forholdsvis meget
+stort i alle 3 Lande, og Antallet af Beboerne
+pr Hus omvendt lavt, selv i England, hvor
+Storbyerne er dominerende, men man har heri et
+Udtryk for, i hvilken Grad hver Familie har sit
+eget Hus, og da Familiernes
+Gennemsnitsstørrelse er nedadgaaende, formindskes ogsaa
+Antallet af Beboerne pr Hus.
+
+<sp>Aldersfordeling</sp>. Befolkningens
+Fordeling efter Alder fremgaar af følgende
+Tabel (1911):
+
+<table>
+<td><td 6 c>Antal i 1000
+<td><td><td><td><td c 3>United Kingdom <footnote>Indbefattet Øen Man og Kanaløerne.</footnote><td>
+<td>Alder<td>England og Wales<td>Skotland<td>Irland<td>Mænd<td>Kvinder<td>Ialt<td>Forholdstal
+<td>Under 5 Aar<td r>3854<td r>533<td r>436<td r>2431<td r>2404<td r>4835<td r>106.5
+<td>5-10 Aar<td r>3697<td r>514<td r>438<td r>2333<td r>2329<td r>4662<td r>102.8
+<td>10-15 -<td r>3500<td r>490<td r>427<td r>2220<td r>2211<td r>4431<td r>97.7
+<td>15-20 -<td r>3337<td r>462<td r>423<td r>2110<td r>2126<td r>4236<td r>93.4
+<td>20-25 -<td r>3176<td r>420<td r>376<td r>1902<td r>2082<td r>3984<td r>87.8
+<td>25-35 -<td r>5957<td r>741<td r>636<td r>3506<td r>3850<td r>7356<td r>162.1
+<td>35-45 -<td r>4845<td r>601<td r>536<td r>2909<td r>3093<td r>6002<td r>132.3
+<td>45-55 -<td r>3528<td r>447<td r>394<td r>2114<td r>2272<td r>4386<td r>96.7
+<td>55-65 -<td r>2298<td r>296<td r>283<td r>1367<td r>1521<td r>2888<td r>63.6
+<td>65-70 -<td r>807<td r>104<td r>146<td r>484<td r>578<td r>1062<td r>23.4
+<td>70-75 -<td r>554<td r>80<td r>168<td r>345<td r>461<td r>806<td r>17.8
+<td>75-85 -<td r>454<td r>63<td r>111<td r>262<td r>369<td r>631<td r>13.9
+<td>85 og over<td r>64<td r>10<td r>16<td r>34<td r>57<td r>91<td r>2.0
+<td>Ialt <td r>36071<td r>4761<td r>4390<td r>22017<td r>23353<td r>45370<td r>1000
+<td>Kvinder pr. 1000 Mænd<td r>1067.6<td r>1062.0<td r>1002.8<td r>»<td r>»<td r>1060.6<td r>»
+</table>
+
+De anførte Forholdstal gælder for alle tre
+Lande under eet; den eng. Befolknings
+Aldersfordeling svarer meget nær dertil, men den
+skotske og irske afviger begge noget derfra, hver
+til sin Side, idet Skotland har forholdsvis flere
+unge, Irland fl. i de højere Aldersklasser:
+
+<table>
+<td>Af 100 af Befolkningen var:<td>England<td>Skotland<td r>Irland
+<td>under 15 Aar<td r>30,6 <td r>32,3 <td r>29,6
+<td>over 45 -<td r>21,4 <td r>21,0<td r>25,4
+</table>
+
+I Talforholdet mellem de to Køn staar E. og
+Skotland med et højt Tal for Kvinder, ligesom
+f. Eks. Danmark og Norge (af Englands mandlige
+Befolkning befinder mange sig i Kolonierne,
+paa Havet ell. andetsteds uden for Landets
+Grænser), i Irland er der derimod omtr. lige
+mange Mænd og Kvinder.
+
+<sp>Fødested</sp>.
+
+Befolkningen paa de britiske Øer er i høj
+Grad hjemmefødt og rummer kun forholdsvis
+faa fremmede Elementer. Fordeles 100 Indh. i
+hvert af Landene efter Fødested, viser det sig,
+at af 100 Indbyggere i E., Skotland. Irland er
+født i:
+
+<table>
+<td>England<td r>96,6<td r>3,5<td r>2,1
+<td>Skotland<td r>0,9<td r>91,7<td r>0,9
+<td>Irland<td r>1,0<td r>3,7<td r>96,4
+<td>Andetsteds<td r>1,5<td r>1,1<td r>0,6
+<td><td r>100,0<td r>100,0<td r>100,0
+</table>
+
+Skotland synes i nogen Grad at drage de
+andre Landes Befolkning til sig; 7 % af
+Befolkningen i Skotland er født i E. ell. Irland. Af
+Befolkningen i hele Storbritannien var c. 180000
+født i Kolonierne, deraf var c. 70000 fra Indien,
+23000 fra Australien, 20000 fra Kanada og
+18000 fra Sydafrika. Født i fremmede Lande var c.
+400000, hvoraf c. 120000 fra Rusland, c. 60000
+fra Tyskland. Alle de her anførte Tal er fra
+Folketællingen 1911, og for den fremmede
+Befolknings Vedk. nu under og efter Krigen kun af
+hist. Interesse.
+
+<sp>Sprogforhold</sp>.
+
+Det eng. Sprog, det mest udbredte
+Verdenssprog, er naturligvis det ganske
+dominerende i sit Hjemland. I
+Wales og det dertil grænsende
+Monmouthshire var der dog
+1911: 190300 Personer ell. 8 %
+af Befolkningen, der kun kunde
+tale Walisisk, 787000 ell. 32 %
+talte baade Engelsk og
+Walisisk; uden for disse Egne
+havde det gamle kelt. Sprog kun
+meget ringe Udbredelse i det
+egl. E., om end der f. Eks. i
+Cornwall og paa Man kan
+findes Rester deraf. Ogsaa i
+Skotland er der kun faa Rester
+tilbage af det keltiske Sprog; der
+var 1911: 18400 Personer, der
+kun kunde tale Gælisk, 184000,
+der talte baade Engelsk og
+Gælisk; her, som i E., er det
+gl. Sprog trængt tilbage til tyndtbefolkede Egner
+som den nyere Kultur kun langsomt er naaet
+frem til: de nordskotske Højlande (Inverness,
+Ross, Argyll). I Irland har det opr. Sprog bedre
+kunnet hævde sin Stilling over for Engelsk:
+16900 talte kun Irsk og 565600 talte baade Irsk
+og Engelsk; 13,3 % af Befolkningen i 1911 kunde
+tale Irsk; 1901 var % 14,4, 1891 14,5; det irske
+Sprogs Udbredelse er altsaa i en langsom, men
+stadig Tilbagegang.
+
+<sp>Trossamfund</sp>.
+
+Af Befolkningens Fordeling efter
+Trossamfund er der for E.'s og Skotlands
+Vedkommende ikke foretaget nogen egentlig Opgørelse
+siden 1871. Den frembyder i alle 3 Lande et
+ret broget Billede, hvis Hovedtræk der her skal
+gøres nogle statistiske Bemærkninger om. I E.
+hører de fleste til Statskirken: den anglikanske
+ell. biskoppelige, hvis Overhoved er Landets
+Regent, og hvis øverste Gejstlige er
+Ærkebiskopperne i Canterbury og York. Landet er delt i
+c. 14000 Sogne med c. 16000 Kirker ell. Kapeller,
+Af de c. 14000 Præsteembeder er der 8500,
+hvortil Kaldsretten indehaves af private Personer
+(Godsejere o. a.), medens de øvrige besættes
+af Kongen, Biskopperne, Univ. e. a.
+Myndigheder. Man kan regne, at omtr. 60 % af

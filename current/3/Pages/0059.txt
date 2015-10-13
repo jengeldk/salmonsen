@@ -1,0 +1,63 @@
+<img>BERLIN.</img>
+
+<table>
+<td r>1.<td><i>Abgeordnetenhaus</i><td r>D 3
+<td r>2.<td><i>Kgl. Bibliotek</i><td r>C 3
+<td r>3.<td><i>Anhalter Banegaard</i><td r>C 4
+<td r>4.<td><i>Augustahospital</i><td r>B 1
+<td r>5.<td><i>Bartholom. Kirke</i><td r>E 2
+<td r>6.<td><i>Bellevue</i><td r>A 3
+<td r>7.<td><i>Bethlehemkirke</i><td r>C 3
+<td r>8.<td><i>Bjergakademi</i><td r>C 2
+<td r>9.<td><i>Botanisk Have</i><td r>B 5
+<td r>10.<td><i>Brandenbarger Thor</i><td r>C 3
+<td r>11.<td><i>Bygningsakademi</i><td r>D 3
+<td r>12.<td><i>Børs</i><td r>D 2
+<td r>13.<td><i>Charité</i><td r>C 2
+<td r>14.<td><i>Kristuskirke</i><td r>C 4
+<td r>15.<td><i>Dankeskirche</i><td r>B 1
+<td r>16.<td><i>Deutsches Theater</i><td r>C 2
+<td r>17.<td><i>Domkirke</i><td r>D 3
+<td r>18.<td><i>Dorotheenkirche</i><td r>C 3
+<td r>19.<td><i>Elisabethhospital</i><td r>B 4
+<td r>20.<td><i>Franske Kirke</i><td r>C 3. D 3
+<td r>21.<td><i>Frdr.-Wilh. Hospital</i><td r>F 3
+<td r>22.<td><i>— Theater</i><td r>C 1
+<td r>23.<td><i>Goethemonument</i><td r>B 3
+<td r>24.<td><i>Hedwigskirche</i><td r>C 3
+<td r>25.<td><i>Helligkorskirke</i><td r>D 5
+<td r>26.<td><i>Herrenhaus</i><td r>C 3
+<td r>27.<td><i>Invalidehospital</i><td r>B 2
+<td r>28.<td><i>Jerusalemskirke</i><td r>D 4
+<td r>29.<td><i>Klosterkirke</i><td r>D 3
+<td r>30.<td><i>Kunstindustrimuseum</i><td r>C 4
+<td r>31.<td><i>Landbrugsakademi</i><td r>C 2
+<td r>32.<td><i>Marienkirche</i><td r>D 2
+<td r>33.<td><i>Moabithospital</i><td r>A 2
+<td r>34.<td><i>Monbijou</i><td r>D 2
+<td r>35.<td><i>Museum. Alt. og Neues</i><td r>D 2
+<td r>36.<td><i>— etnogr.</i><td r>C 4
+<td r>37.<td><i>— naturhist.</i><td r>C 2
+<td r>38.<td><i>Mønt, kgl.</i><td r>D 3
+<td r>39.<td><i>Nationalgalleri</i><td r>D 2
+<td r>40.<td><i>Nikolaikirke</i><td r>D 3
+<td r>41.<td><i>Observatorium</i><td r>C 4
+<td r>42.<td><i>Opera</i><td r>C 3
+<td r>43.<td><i>Palæ, Rigskansleren</i><td r>C 3
+<td r>44.<td><i>Palæ, Kejser Vilhelm I's</i><td r>C 3
+<td r>45.<td><i>— Kronprinsens</i><td r>D 3
+<td r>46.<td><i>Petrikirke</i><td r>D 3
+<td r>47.<td><i>Raadhus</i><td r>D 3
+<td r>48.<td><i>Rigsbank</i><td r>D 3
+<td r>49.<td><i>Rigsdagsbygning</i><td r>B 3
+<td r>50.<td><i>Sangakademi</i><td r>C 3
+<td r>51.<td><i>Sejrssøjlen</i><td r>B 3
+<td r>52.<td><i>Skuespilhus</i><td r>C 3
+<td r>53.<td><i>Slot. kgl.</i><td r>D 3
+<td r>54.<td><i>Trefoldighedskirke</i><td r>C 3
+<td r>55.<td><i>Tøjhus</i><td r>D 3
+<td r>56.<td><i>Universitetet</i><td r>C 3
+<td r>57.<td><i>Werderske Kirke</i><td r>D 3
+<td r>58.<td><i>Zionskirke</i><td r>D 1
+<td r>59.<td><i>Zoologisk Have</i><td r>A 3, 4
+</table>

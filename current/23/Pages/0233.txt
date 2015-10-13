@@ -1,0 +1,154 @@
+Kunstnerselskab <i>The Tempera Society</i>, der ved
+Udstillinger i Stiftelsesaaret og senere har søgt at bane
+Vej for T.'s Genfødelse. (Jfr. <i>The Studio</i> XXIII
+og XXXV London 1901 og 1905).
+<i>(A. R.). A. Hk.</i>
+</chapter>
+
+<chapter name="Temperamaleri">
+<b>Temperamaleri,</b> se <sp>Tempera</sp>.
+</chapter>
+
+<chapter name="Temperament">
+<b>Temperament</b> [-'maŋ]. Ordet T., der
+hidrører fra Oldtidens Lægekunst, betyder
+Blanding, og den Blanding, der tænkes paa, er
+Blandingen af »Legemets fire Safter«: Khole eller
+(lys Galle), Melankoli eller mørk Galle, Flegma
+eller Slim, Sangvis eller Blod. Nu bruges T.
+ofte til at betegne visse formentlig typiske
+Maader at forholde sig paa. Man inddeler i fire
+Temperamenter: det koleriske eller opfarende,
+det flegmatiske eller uforstyrlige, det
+melankolske eller mørkt seende, det sangvinske eller
+lyst seende. Større videnskabelig Interesse har
+hverken denne Lære eller nyere Forsøg paa at
+udvide den.
+<i>Edg. R.</i>
+</chapter>
+
+<chapter name="Temperanceselskaber">
+<b>Temperanceselskaber</b> ['temprens-], se
+<sp>Afholdssagen</sp>.
+</chapter>
+
+<chapter name="Temperatur">
+<b>Temperatur.</b> Ved Undersøgelser af
+Legemernes fysiske Egenskaber viser det sig, at
+disse næsten alle ikke blot forandres med de
+to fundamentale Størrelser: Legemets Rumfang
+og Tryk, men ogsaa med dets Varmetilstand
+eller som man siger: dets T. Man kan altsaa
+afgøre, om to Legemer har samme T., ved at
+undersøge, om Legemernes fysiske Egenskaber
+ændres, ved at de bringes til at berøre
+hinanden, saa der kan gaa Varme fra det ene
+Legeme til det andet, ligesom man kan benytte
+Ændringens Størrelse som Maal for
+Temperaturforskellen mellem Legemerne. Hvilke
+fysiske Egenskaber, man her benytter,
+Legemernes Rumfang, Tryk, Ledningsevne for
+Elektricitet, Udstraalingsevne o. s. fr., er i og for sig
+ligegyldigt; blot maa man naturligvis kræve,
+at den skal være entydig bestemt, saaledes at
+samme T. altid giver samme Talværdi for
+vedkommende Egenskab. Fastlæggelsen af en
+T.-Skala kræver derfor en lang Række
+Undersøgelser, paa Grundlag af hvilke man maa
+vedtage, hvilket Legeme der skal bruges som
+Termometer ved Temperaturmaalingen, hvilken
+Egenskab hos dette Legeme, hvis Variation skal
+tjene til Registrering af T., det skal være, og
+endelig maa selve Skalaen, altsaa
+Talbetegnelserne for T. vedtages. Det er ingenlunde let
+at træffe Valget her. Dels maa man jo ønske,
+at den valgte Egenskab ved Legemet skal kunne
+benyttes inden for et saa stort T.-Omraade som
+muligt, og her støder man straks paa de
+Vanskeligheder, der følger af Legemernes
+Forandring af Tilstandsform ved Opvarmning eller
+Afkøling. Yderligere er Forholdet det, at selv
+om man f. Eks. vedtog at benytte et Legemes
+Rumfangsforandring som Maal for T. og lavede
+to Termometre, det ene med f. Eks. Kvægsølv
+og det andet med Sprit, og inddelte hver af
+Termometrene med lige lange Grader og
+saaledes, at de stemte overens ved 0° og 50° —
+saa vilde de to Termometre alligevel ikke
+angive andre T. ved samme Tal, idet for de to
+Vædsker Rumfanget varierer paa forskellig
+Maade med T. Valget af Stof til Termometre
+har stor Betydning.
+
+En Udvej fra alle disse Vanskeligheder
+frembød sig, da Lord Kelvin (1855) viste, at man ved
+Hjælp af Varmeteorien kunde definere T.
+ganske uafhængig af det tilfældige Stof, der
+benyttes til Maalingen, idet T. blev defineret ved
+Hjælp af Varmemængder. Varmeteorien viste
+endvidere, hvorledes der var Mulighed for en
+eksperimentel Sammenligning mellem den
+saaledes definerede absolutte termodynamiske
+T.-Skala og de Rumfangs- og Trykændringer der
+sker med Luftarterne ved T.-Forandringer,
+altsaa med Lufttermometerskalaen. Og endelig gav
+Varmeteorien en Sammenhæng mellem den nye
+Skala og Varmeudstraalingen fra det absolut
+sorte Legeme, saaledes at Skalaen kunde
+realiseres i Praksis langt ud over de Grænser,
+inden for hvilke Lufttermometret kan bruges.
+Selve den Talskala, hvori T. maales, er
+selvfølgelig principielt ganske vilkaarlig. Af
+praktiske Grunde har man imidlertid valgt at bringe
+den absolutte T.-Skala i saa nær
+Overensstemmelse som muligt med Celsiusskalaen, saaledes
+at der i begge Skalaer er 100° imellem Vandets
+Frysepunkt og dets Kogepunkt ved 760 mm's
+Kvægsølvtryk. I saa Fald faar den absolutte
+T.-Skala sit Nulpunkt ved ÷ 273,20° Celsius, og
+en lavere T. end dette absolutte Nulpunkt
+eksisterer overhovedet ikke. Et Legemes absolutte
+T. bliver altsaa lig dets T. i Celsiusgrader plus
+273,20.
+
+Forholdet er altsaa nu følgende: T. defineres
+ved Hjælp af Varmeteorien, og T.-Maalingen
+realiseres først og fremmest ved
+Lufttermometret med konstant Rumfang. Da imidlertid et
+Lufttermometer er uegnet til praktisk Brug og
+i det hele taget kun kan bruges i et vist
+T.Omraade, afhængig af de valgte Materialier, har
+man konstrueret mange forskellige praktiske
+Arter af Termometre, byggende paa
+Variationer af forskellige af Legemernes fysiske
+Egenskaber. Disse Termometre sammenlignes da
+direkte eller ved passende Mellemled med
+Lufttermometret, og derigennem henføres deres
+Angivelser til den absolutte termodynamiske Skala.
+For at lette denne Sammenligning har man især
+bestræbt sig for at bestemme visse let
+reproducerbare T. saa nøje som muligt i den absolutte
+T.-Skala. Hosstaaende Tabel giver en Oversigt
+over de vigtigste af disse termometriske
+Fikspunkter; T. er omregnet til Celsiusskalaen:
+<table>
+<td>Brint, Kogepunkt<td>÷ 252,78
+<td>Kvælstof, Kogepunkt<td>÷ 195,81
+<td>Ilt, Kogepunkt<td>÷ 183,00
+<td>Æthylæter, Frysepunkt<td>÷ 123,5
+<td>Svovlkulstof, Frysepunkt<td>÷ 112,0
+<td>Toluol, Frysepunkt<td>÷ 95,0
+<td>Kultveilte Sublimation<td>÷ 78,51
+<td>Kloroform, Frysepunkt<td>÷ 63,5
+<td>Klorbenzol, Frysepunkt<td>÷ 45,5
+<td>Kvægsølv, Frysepunkt<td>÷ 38,87
+<td>Vand, Frysepunkt<td>÷ 0,00
+<td>Vand, Kogepunkt<td>+ 100,00
+<td>Naftalin, Kogepunkt<td>+ 217,00
+<td>Tin, Kogepunkt<td>+ 231,85
+<td>Benzofenon, Kogepunkt<td>+ 305,0
+<td>Kadmium, Frysepunkt<td>+ 320,95
+<td>Zink, Frysepunkt<td>+ 419,45
+<td>Svovl, Kogepunkt<td>+ 444,60
+<td>Antimon, Frysepunkt<td>+ 630,5
+</table>

@@ -1,0 +1,77 @@
+og Dimensionerne af Delta-Isolatorerne er
+meget stærkt voksende med Spændingen (en 60000
+Volts Isolator vejer c. 13 kg), benyttes gerne
+ved højere Spændinger, de saakaldte
+<sp>Kædeisolatorer</sp>, der dels anvendes som
+Ophængnings-, dels som Endetræksisolatorer. De
+bestaar af Kæder af enkelte mindre Isolatorer,
+samlede bevægeligt med Metalstykker (Fig. 15).
+Saadanne Kæder kan naturligvis udføres af et
+til enhver Driftsspænding passende Antal enkelte
+Isolatorer.
+
+Ledningerne fastgøres til Bæreisolatorerne med
+tynd, blød Bindetraad (Kobber) og til
+Endetræksisolatorerne ved en Bøjle om denne og
+Snoning af Traadenden eller Fastspænding af denne
+ved en Klemme. Til Samling af de to
+Ledningsstykker benyttes Sammenlægning af
+Traadenderne og Omvikling af disse med tynd Traad
+og paafølgende Lodning. Endvidere kan
+anvendes <sp>Nitteforbindere</sp> (Fig. 16),
+bestaaende af flade Rørstykker, hvorigennem
+Traadenderne føres og presses op imod Siderne
+af Røret ved Hjælp af Nitter, saa at der bliver
+stor Modstand mod Glidning, samt
+<sp>Konusforbindere</sp> (Fig. 17), hvor Traadenderne
+ved indlagte kegleformede Stykker presses op
+imod Forbindernes Sidevægge og derved
+hindres i at glide ud. Ved <sp>Afgreninger</sp> af
+Ledninger sker Forbindelsen ved Klemmer, der
+sammenpresser de krydsende Traade. Ved
+saadanne Punkter, hvor Nettet deler sig i flere
+Dele, indskydes ved Lavspændingsledninger
+ægformede Isolatorer, hvorom de to Ledningsdele
+er førte isolerede fra hinanden. Ledningerne
+forbindes da enten ved Metalskinner ell. ved
+Sikringstraade. Ved Højspændingsledninger
+anbringer man paa saadanne Steder enten de saakaldte
+<sp>Masteafbrydere</sp>, der kan betjenes nedefra,
+ell. man fører Ledningerne ind i et Hus
+med Olieafbrydere (se under <sp>e.
+Kraftstationer</sp>). <sp>Masteafbrydere</sp> (Figur
+18), der sjældent anvendes til Spændinger
+over 20-25000 Volt, er
+Knivafbrydere, monterede paa store Isolatorer;
+oftest er saavel Knivene som de tilhørende
+Kontaktstykker forsynede med et Par bøjede
+opretstaaende Traade (Horn), der er stillede
+som et V i Forhold til hinanden, og ved
+Hjælp af hvilke den ved Afbrydningen
+indledede Lysbue føres til Vejrs og
+slukkes; herved undgaas Forbrænding af
+selve Afbrydningskontakterne.
+
+Til Efterspænding af Luftledninger anvendes
+de saakaldte <sp>Strammeskruer</sp>, der
+indskydes ved Endetrækkene og i øvrigt med
+passende Mellemrum langs Ledningen.
+Strammeskruerne bestaar af en med Øje forsynet
+Højreskrue og en do Venstreskrue, som er indskruede
+i en flad aflang Bøjle.
+
+Ved Højspændingsledninger anvendes ofte ved
+Ledningernes Endepunkter ell. ved Overgang
+imellem Luftledninger og Kabler særlige
+Apparater til Overspændingsbeskyttelse. Meget
+anvendt til Beskyttelse af Ledningen imod
+atmosfæriske Udladninger er en oven over
+
+<img>Fig. 12. Endetræksisolator for Lavspænding.</img>
+
+<img>Fig. 13. Ægisolator.</img>
+
+<img>Fig. 14. Deltaisolator, 15000 Volt.</img>
+
+<img>Fig. 15. Kædeisolator.</img>
+

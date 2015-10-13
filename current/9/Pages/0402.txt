@@ -1,0 +1,139 @@
+magnetiske Virkninger. Undertiden
+indskrænker man Begrebet G. til kun at gælde
+Maaleapparater for svage Strømme. Et meget
+fintmærkende G. viser Fig. 1. Paa en Træramme
+er viklet en Kobbertraad, som er isoleret ved
+Omspinding med Silke, og hvis Ender er
+fæstede til de to
+Klemskruer,
+der ses uden
+for den
+Glasklokke, der
+dækker
+Apparatets finere
+Dele.
+Vindingernes Planer
+er lodrette, og
+inde i Rammen
+er der saa
+megen Plads, at
+en lille,
+vandret
+Magnetnaal frit kan
+svinge her.
+Denne Naal er
+i fast
+Forbindelse med en
+lignende Naal,
+der ses paa
+Figuren oven over
+den inddelte Skive. De to Naale er parallelle,
+men vender Polerne modsat Vej, og da de tillige
+gøres saa vidt muligt lige stærke, bliver
+Jordmagnetismens Evne til at dreje dette »astatiske«
+Naalepar hen mod en bestemt Stilling meget
+ringe. Naalene bæres af et lodret Silkespind,
+der er ophængt paa en Metalbøjle og kan
+hæves og sænkes ved en Skrue. Instrumentet
+opstilles saaledes, at Traadvindingernes Planer
+er parallelle med Naalene, og naar man nu
+sender en elektrisk Strøm gennem
+Traadrullen, vil Dobbeltnaalen dreje sig til den Side,
+som Holten's Regel, anvendt paa den indre
+Naal, angiver (se <sp>Elektromagnetisme</sp>).
+Den øverste Naal vil af Strømmen drejes til
+samme Side som den nederste, men med
+mindre Kraft. Da Naalen er yderst let bevægelig,
+og da alle Vindingernes Virkninger adderes,
+kan selv en Strøm paa en Milliontedel Ampère
+ell. mindre frembringe kendeligt Udslag.
+Traadrullen kaldes paa Grund af sin Evne til at
+forstærke Strømmens Virkning for
+Multiplikator, hvilket Navn undertiden overføres paa
+hele Instrumentet. Dette G. er dog mindre
+egnet til egl. Maaling, fordi en forholdsvis lille
+Ændring i en enkelt Naals Magnetisme kan
+gøre Dobbeltnaalens Retningsevne, der jo
+beror paa Differencen mellem de to Naales
+Styrke, flere Gange større ell. mindre. Derimod er
+det fortrinligt som <sp>Galvanoskop</sp> ɔ: som
+Redskab til at paavise Tilstedeværelsen af en
+svag Strøm. Til Maaling nøjes man hellere
+med en enkelt Naal og maa da paa anden
+Maade forøge Følsomheden. Man kan saaledes
+erstatte den øverste Naal med et lodret Spejl,
+dannet af en tynd, forsølvet Glasplade paa
+Størrelse som en lille Mønt. Foran Spejlet, i et Par
+Meters Afstand fra det, opstilles en Lampe,
+der skinner gennem en lodret Spalte hen paa
+Spejlet, og ved Hjælp af en Linse kan man
+samle de Straaler, der kastes tilbage fra
+Spejlet, til et skarpt Billede af Spalten. Dette
+Billede falder paa en vandret Maalestok, og
+naar Spejlet drejer sig, vandrer Billedet til
+den ene ell. den anden Side. Da det er
+ubekvemt at dreje hele Instrumentet, til
+Vindingerne er parallelle med Naalen, foretrækker
+man at tvinge Naalen til at stille sig parallelt
+med Vindingerne ved Hjælp af en Styremagnet,
+en lille vandret Magnet, der anbringes lodret
+oven over Naalen paa en saadan Maade, at
+man baade kan forandre dens Afstand fra
+Naalen og dreje den om en lodret Akse. Efter
+dette Princip har William Thomson bygget sit
+Spejlgalvanometer, der kan anvendes som
+Modtager for de meget svage Strømme, der
+bruges ved undersøisk Telegrafering. Her og
+ved andre Anvendelser vilde det være meget
+generende, om Naalen fik Lov til at svinge
+frem og tilbage i længere Tid om sin ny
+Ligevægtsstilling, hver Gang en Strøm driver den
+bort fra Hvilestillingen. Svingningerne maa
+derfor dæmpes, og dette sker ved Hjælp af en
+svær, lodret Kobberring, inden i hvilken
+Naalen svinger. Ved Svingningerne induceres der
+Strømme i Ringen, som altid søger at hindre
+Naalens Bevægelser (se <sp>Induktion</sp>) og
+derfor hurtig bringer den i Ro. For at gøre
+Naalens Udslag større kan man anbringe en
+Magnet i nogen Afstand fra Instrumentet i en
+saadan Stilling, at den næsten ophæver
+Jordmagnetismens Virkning paa Naalen; man opnaar
+herved omtrent det samme som ved at anvende
+astatisk Dobbeltnaal. Den skarpeste Aflæsning
+af smaa Udslag faar man ved Kikkertens
+Hjælp. Foran G. opstilles en vandret Kikkert,
+der peger mod Spejlet, og hvis Akse staar
+vinkelret paa Spejlfladen, naar Naalen er parallel
+med Vindingerne. Under ell. over Kikkerten er
+anbragt en vandret Maalestok, hvis Midtstreg
+ligger i det lodrette Plan gennem Kikkertaksen.
+Spejlet indstilles ved Styremagneten saaledes,
+at Billedet i Spejlet af denne Streg ses midt i
+Kikkertens Synsfelt. Inde i Kikkerten, i dens
+»Billedplan«, er udspændt en fin, lodret Traad,
+der halverer Synsfeltet, og ved dens Hjælp kan
+man meget skarpt bestemme Beliggenheden i
+Kikkertens Synsfelt af Maalestokkens Billede.
+Ledes der nu en svag Strøm gennem G., vil
+Spejlet dreje sig en vis Vinkel; iflg. Loven for
+Lysets Tilbagekastning vil en fra Spejlet
+tilbagekastet Straale dreje sig den dobbelte
+Vinkel, og man vil i Kikkerten se Maalestokkens
+Inddelinger glide hen over den faste Traad.
+Af Forskydningen og Maalestokkens bekendte
+Afstand fra Spejlet kan dettes Drejning
+beregnes. Ofte indretter man et Spejlgalvanometer
+efter det omvendte Princip, idet man
+ophænger Traadrullen bevægelig mellem Polerne paa
+en stor Staalmagnet. Rullen er i fast
+Forbindelse med Spejlet og hænger i et tyndt
+Metalbaand, der tjener som Tilledning for Strømmen.
+I Hvilestillingen staar Rullens Akse vinkelret
+paa Kraftlinierne mellem Magnetens Poler.
+Sendes en Strøm gennem Rullens
+Traadvindinger, vil denne søge at dreje sig saaledes, at
+dens Akse faar samme Retning som disse
+
+<img>Fig. 1. Galvanometer med
+astatisk Dobbeltnaal.</img>

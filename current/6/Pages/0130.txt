@@ -1,0 +1,151 @@
+Udgave, som er væsentlig forsk. fra alle
+tidligere; den er besørget af Genaro Garcia,
+bekostet af den meksikanske Stat, og er et ordret
+Aftryk af Forf.'s Originalmanuskript, der
+opbevares i Guatemala. Det har ved denne
+Lejlighed vist sig, at den ældste trykte Udg., som
+de øvrige - samt Overs. - følger, er meget
+ukorrekt og ved sine Udeladelser og
+Tilsætninger giver et paa adskillige Punkter falsk
+Billede. Paa Grundlag af Garcia's Udg. er nu den
+danske Overs. (ved E. Gigas) udarbejdet, som
+»Selskabet til hist. Kildeskrifters Overs.« har
+udsendt (Kbhvn 1906-09). Derefter udkom 1908
+-12 Alfred Percival Maudslay's eng. Overs.
+(London, 4 Bd, udg. af <i>The Hakluyt Society</i>).
+<i>E. G.</i></chapter>
+
+<chapter name=”Diazoaminobenzol”>
+<b>Diazoaminobenzol</b> [-so--'so'l], C<sub>6</sub> H<sub>5</sub>. N<sub>2</sub>.
+NHC<sub>6</sub>H<sub>5</sub> (se <sp>Diazoforbindelser</sp>),
+danner gule, bladede Krystaller, uopløselige i Vand,
+tungtopløselige i kold, lettere opløselige i varm
+Vinaand, letopløselige i Æter, der smelter ved
+91° og forpuffer ved højere Temp.
+<i>(O. C.). R. K.</i></chapter>
+
+<chapter name=”Diazoaminoforbindelser”>
+<b>Diazoaminoforbindelser</b> [-so-], se
+<sp>Diazoforbindelser</sp>.</chapter>
+
+<chapter name=”Diazobenzol”>
+<b>Diazobenzol</b> [-so--'so'l], se
+<sp>Diazoforbindelser</sp>.</chapter>
+
+<chapter name=”Diazoforbindelser”>
+<b>Diazoforbindelser</b> [-so-], organiske kemiske
+Forbindelser, der indeholder den togyldige
+(divalente) Atomgruppe -N:N-, Diazogruppen, og
+er af stor teoretisk og tekn. Bet., kendes baade
+inden for de alifatiske og de aromatiske
+Forbindelsers Rækker; de to Rækker D. viser i
+mange Forhold stor Overensstemmelse, men
+adskiller sig fra hinanden derved, at i de
+alifat. Forbindelser er Diazogruppens to fri
+Valenser bundne til samme Kulstofatom, medens
+i de aromatiske Forbindelser den ene Valens er
+bundet til et Kulstofatom, den anden til et
+andet Atom. 1883 fremstillede <sp>Curtius</sp> en Rk.
+<sp>Diazofedtsyreætere</sp>, specielt
+Diazoeddikeæter, dannet ved Indvirkning af
+Natriumnitrit paa Aminoeddikesyrens Ætylæter
+(Glycinæter) i saltsur Vædske, som en gul,
+eksplosiv Olie af ejendommelig Lugt og af
+<table>
+<td v3>Sammensætningen<td>N<td v3> > CH.COOC<sub>2</sub>H<sub>5</sub>. Forbindelsen er
+<td>||
+<td>N
+</table>
+i Besiddelse af stor Reaktionsevne og i Stand til
+talrige Omsætninger, der forløber ad 3 Veje.
+Dels afgives Diazogruppen som frit Kvælstof,
+idet den ombyttes med andre Atomer ell.
+Atomgrupper; ved Behandling af Forbindelsen med
+fort. Syrer ombyttes saaledes N<sub>2</sub> med H.OH
+under Dannelse af Glykolsyrens Ætylæter, CH<sub>2</sub>
+OH.COOC<sub>2</sub>H<sub>5</sub>, en Reaktion, som <sp>Bredig</sp> fandt
+fremmes saa stærkt af fri Brintioner, at han
+derpaa grundede en kvantitativ Bestemmelse
+af Brintionkoncentrationen. Dels løses den ene
+af de to Bindinger, hvormed N<sub>2</sub>-Gruppen er
+bundet til Kulstofatomet, hvorved dannes
+<sp>Pyrazolderivater</sp>, og dels endelig løses ved
+Addition af Atomer ell. Atomgrupper den
+dobbelte Binding mellem N-Atomerne og erstattes
+med en enkelt Binding.
+
+Medens Overførelse af Aminoforbindelser til
+D., en Proces der benævnes <sp>Diazotering</sp>,
+er begrænset til den omtalte specielle Art alif.
+Aminoforbindelser, foregaar den alm. for de
+arom. Aminers Vedkommende. <sp>F. Griess</sp>
+opdagede 1860 de <sp>aromat. D.</sp>, hvis
+Konstitution klarlagdes af <sp>Kékulé</sp>, senere navnlig af
+<sp>Hantzsch</sp>. De falder i to Hovedgrupper:
+<sp>Diazoniumsaltene</sp>, der har Karakter
+af Ammoniumsalte og maa antages at
+indeholde et pentavalent og et trivalent Kvælstofatom
+<table>
+<td v3>og at have Sammensætningen N=N < <td>X<td v3>,
+<td>||
+<td>C<sub>6</sub>H<sub>5</sub>
+</table>
+og <sp>Diazoforbindelser af
+azolignende Karakter</sp>, der har
+Sammensætningen C<sub>6</sub>H<sub>5</sub>.N=N.X, altsaa kun indeholdende
+trivalent Kvælstof. Begge har betydelig
+Reaktionsevne, men den første har langt den største
+Bet. som Gennemgangsled ved Fremstilling af
+talrige Forbindelser. Diazoniumsaltene
+fremstilles ved Indvirkning af Salpetersyrling paa
+Salte af de aromat. Aminer: C<sub>6</sub>H<sub>5</sub>.NH<sub>2</sub>.HNO<sub>3</sub>+
+HNO<sub>2</sub>=C<sub>6</sub>H<sub>5</sub>.N<sub>2</sub>.NO<sub>3</sub>+2H<sub>2</sub>O; de ej yderst
+eksplosive, isoleres derfor ikke, men anvendes i
+den Opløsning, hvori de dannes, til de
+tilsigtede Omsætninger. Disse beror dels paa
+Reaktioner, hvorved Diazogruppen udtræder af
+Molekylet som frit Kvælstof, idet den erstattes af
+Atomer ell. Atomgrupper som Brint, Klor, Svovl,
+Cyan, Hydroxyl o. l., der bindes til
+Benzolkernen med en enkelt Binding, og dels paa
+Reaktioner, hvorved Diazogruppen forbliver i
+Molekylet. Dette sidste er Tilfældet, naar
+Diazoniumsalte behandles med aromatiske Aminer
+i sur Vædske ell. med Fenoler i alkalisk
+Opløsning, hvorved dannes talrige yderst vigtige
+Forbindelser; indvirker saaledes primære ell.
+sekundære arom. Aminer paa Diazoniumsalte,
+dannes <sp>Diazoaminoforbindelser</sp>,
+gule, krystal. Stoffer, der ikke forener sig med
+Syrer, men som er mere bestandige end
+Diazoniumsaltene; saaledes dannes
+<sp>Diazoaminobenzol</sp> af Benzoldiazoniumklorid og Anilin:
+C<sub>6</sub>H<sub>5</sub>N<sub>2</sub>.Cl. + H<sub>2</sub>NC<sub>6</sub>H<sub>5</sub> = C<sub>6</sub>H<sub>5</sub>N<sub>2</sub>.NHC<sub>6</sub>H<sub>5</sub> + HCl.
+Indvirker derimod tertiære aromat. Aminer paa
+Diazoniumsalte, dannes de med
+<sp>Diazoaminoforbindelser</sp> isomere
+<sp>Aminoazoforbindelser</sp> (f. Eks. <sp>Dimetylaminoazobenzol</sp>
+af Benzoldiazoniumklorid og Dimetylanilin), der
+ogsaa dannes af Diazoaminoforbindelser ved
+Behandling med saltsure, primære aromat.
+Aminer (saaledes omdannes Diazoaminobenzol
+til Aminoazobenzol). Talrige af
+<sp>Aminoazo</sp>-forbindelserne, ligesom Aminoazobenzolet selv,
+hører til de vigtige <sp>basiske
+Azofarvestoffers</sp> Række. Behandles Diazoniumsalte i
+alkalisk Opløsning med Fenoler, dannes paa
+lgn. Maade <sp>Oxyazoforbindelser</sp> (f. Eks.
+<sp>Oxyazobenzol</sp> C<sub>6</sub>H<sub>5</sub>.N<sub>2</sub>.C<sub>6</sub>H<sub>4</sub>OH af
+Diazobenzolklorid og Fenol), der udgør de vigtige
+sure <sp>Azofarvestoffer</sp> (s. d.).
+Saadanne <sp>Azoforbindelser</sp> er ved deres større
+Bestandighed, deres Farve o. l. forsk. fra
+Diazoforbindelserne; ogsaa den kem. Konstitution er
+forsk., idet de sidstnævnte indeholder
+Diazogruppen -N:N- bundet kun een Gang til den
+aromatiske Rest, Azoforbindelserne derimod
+Gruppen bundet to Gange til denne;
+<sp>Diazobenzol</sp> er saaledes C<sub>6</sub>H<sub>5</sub>.N<sub>2</sub>.OH, Azobenzol C<sub>6</sub>H<sub>5</sub>.N<sub>2</sub>.
+C<sub>6</sub>H<sub>5</sub>. - Ogsaa de Omsætninger, hvorved
+N<sub>2</sub>Gruppen vel forbliver i Molekylet, men den
+

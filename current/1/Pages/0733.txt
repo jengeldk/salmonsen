@@ -1,0 +1,153 @@
+saadanne er konstrueret et Mikrogoniometer.
+Mangesidig Anvendelse finder Mikroskopet især
+i den <sp>zookemiske A.</sp>, der undersøger de
+kemiske Bestanddele af dyriske Stoffer og
+frembyder store Vanskeligheder. Denne A. betjener
+sig ogsaa af mange andre Hjælpemidler, f. Eks.
+<sp>Dialyse</sp>, der gaar ud paa at adskille Stoffer,
+der besidder en forskellig Diffusionsevne, f. Eks.
+<sp>Krystalloider</sp> og <sp>Kolloider</sp>, idet
+Krystalloiderne diffunderer, medens Kolloiderne
+efterlades (se i øvrigt <sp>Dialyse</sp>).
+
+Hvor en Adskillelse af to Stoffer er forbundet
+med Vanskelighed, f. Eks. ved Bestemmelsen
+af smaa Mængder af Brom- og Jodforbindelser
+i Klorforbindelser, anvender man <sp>indirekte
+A.</sp>; i nævnte Tilfælde fælder man Klor og Brom
+samtidig med en bekendt Mængde
+salpetersurt Sølvilte; af Mængden af den derved
+dannede Blanding af Klor- og Bromsølv,
+sammenlignet med den Mængde af rent Klorsølv, som
+den anvendte Mængde Sølv skulde have givet
+efter Beregningen, finder man Mængden af
+tilstedeværende Brom. Det kræves, at de Stoffer,
+der skal bestemmes, har Atomtal, der afviger
+tilstrækkelig fra hinanden. Jo større Differensen
+mellem Atomtallene er, desto større er den
+Nøjagtighed, der opnaas.
+
+Sluttelig maa nævnes de analytiske Metoder,
+der kun beror paa <sp>fysiske</sp> Forhold. Ved den
+<sp>densimetriske A.</sp> bestemmes Vægtfylden
+af Vædsker, hvoraf disses Indhold af et
+bestemt Stof atter beregnes, idet der forudsættes,
+at ingen andre Forbindelser er til Stede. Til
+Udførelsen af saadanne Undersøgelser benyttes
+i Reglen et <sp>Aræometer</sp> (s. d.). Den
+densimetriske Metode kan ogsaa finde Anvendelse
+paa faste Legemer; man kan saaledes af
+Kartoflers Vægtfylde drage Slutn. m. H. t. deres
+Indhold af Stivelse.
+
+Den <sp>kolorimetriske A.</sp> gaar ud paa at
+bestemme Mængden af et Stof efter
+Intensiteten af den Farve, som dets Opløsning viser;
+ved Sammenligning af en saadan Opløsnings
+F'arvestyrke med Farvestyrken af en Opløsning
+af bekendt Indhold, idet man forandrer
+Tykkelsen af det Vædskelag, der undersøges, indtil
+der opnaas samme Intensitet, ell. idet man
+fortynder den Opløsning, der skal undersøges,
+indtil den viser samme Intensitet som
+Normalopløsningen, kan man beregne Opløsningens
+Styrke. Til Udførelsen af saadanne A. har man
+konstrueret særlige Apparater (<sp>Kolorimetre</sp>).
+Metoden finder Anvendelse til
+Bestemmelse af Metaller, Undersøgelse af Farvestoffer,
+Sukkersirup o. a.
+
+Ogsaa A. ved Hjælp af <sp>Polarisationsinstrumentet</sp>
+spiller en betydelig Rolle,
+og denne Metode kan ogsaa udvikles til at
+omfatte optisk uvirksomme Stoffer, idet saadanne
+Stoffer ved deres Nærværelse ofte kan
+modificere de optisk virksomme Stoffers
+Drejningsevne i betydelig Grad. (Se i øvrigt
+<sp>Polarisation</sp>).
+
+<sp>Lysbrydningsevnen</sp> hos Opløsninger
+ell. Blandinger kan ogsaa finde Anvendelse til
+Bestemmelse af visse Stoffers Mængde i
+saadanne Opløsninger ved Hjælp af
+<sp>Refraktometret</sp> (s. d.).
+
+Ved den saakaldte <sp>termometriske A.</sp>
+anvender man den ved en bestemt Reaktion og
+under bestemte Forhold frembragte Varmevirkning
+til kvantitative Bestemmelser. Hvis f. Eks.
+to Salte, naar de opløses i Vand, bringer dettes
+Temp. til at synke i forsk. Grad, da kan
+Sammensætningen af en Blanding af disse Salte
+beregnes, naar man maaler den Temperatursænkning,
+som Blandingen frembringer ved sin Opløsning.
+Metoden er meget simpel, men ikke
+særlig nøjagtig; den finder Anvendelse i Alun-
+og Salpeterfabrikationen. Det maa ved denne
+Metode erindres, at Reaktionens Hurtighed,
+Karrenes Størrelse og Rumfang etc. har stor
+Indflydelse, og at man maa foretage Forsøgene
+under ensartede Forhold.
+
+Af ganske særlig Interesse er <sp>Spektralanalysen</sp>
+(s. d.). (<sp>Litt</sp>: <sp>C. T. Barfoed</sp>,
+»Lærebog i den analytiske Kemi« [2. Udg.,
+Kbhvn 1881]; <sp>samme</sp>, »De organiske Stoffers
+kvalitative Analyse« [Kbhvn 1878]; <sp>H. Topsøe</sp>,
+»Vejledning i uorganisk Analyse« [6. Udg.
+Kbhvn 1910]; <sp>Fresenius</sp>, »Anleitung zur
+qualitativen chemischen Analyse« [Braunschweig];
+<sp>samme</sp>, »Anleitung zur quantitativen Anayse«
+[Braunschweig 1873—85]; <sp>Hoppe-Seyler</sp>,
+»Handbuch der physiologischen und
+pathologischen chemischen Analyse« [Berlin];
+<sp>Bunsen</sp>, »Gasometrische Methoden« [2. Opl.,
+1877]; <sp>Hempel</sp>, »Gasanalytische Methoden«
+[4. Udg., 1913, Braunschweig]).
+<i>O. C.</i>
+</chapter>
+
+<chapter name="Analyse, harmonisk (se Tidevand)">
+<b>Analyse, harmonisk,</b> se <sp>Tidevand</sp>.
+</chapter>
+
+<chapter name="analysere">
+<b>analysere</b> (af fr. <i>analyser</i>, dannet af græsk
+ἀνάλυσις), opløse, forklare, foretage en Analyse.
+</chapter>
+
+<chapter name="Analysis situs">
+<b>Analysis situs</b> (<sp>Topologi</sp>) er et Afsnit af
+Geometrien. Den behandler Figurer, hvis
+Beskrivelse alene indeholder Angivelse af, hvor
+mange Punkter, Kurvestykker, Fladestykker,
+Dele af Rummet de bestaar af, samt hvorvidt
+disse Figurdele har Punkter fælles, begrænser
+hinanden o. s. v., medens Figurdelene i øvrigt
+kan være af vilkaarlig Beskaffenhed, og udleder,
+støttet paa denne Beskrivelse, sine Sætninger,
+der nærmest angaar Antallene af Grupper af
+Figurdele med bestemt indbyrdes Beliggenhed.
+Et godt Eksempel er den i <i>A. s.</i> meget vigtige
+Eulerske Sætning, der for konvekse Polyedre
+lyder saaledes: Det samlede Antal af Hjørner
+og Sideflader er = Kanternes Antal forøget
+med 2. Denne rent topologiske Sætning gælder
+almindeligere om en Figur, bestaaende af et
+Antal Punkter, forbundne ved Buer (Kanter),
+hvilken ved en med Figurens Beskrivelse
+stemmende Omformning kan gaa over i et
+konvekst Polyeders Kantsystem, og angiver saa
+Antallet af i sig selv tilbageløbende Kantrækker
+analoge med Sidefladernes Begrænsninger. En
+lukket Flade, hvorpaa der er tegnet et Net af
+Buer, kan betragtes som et Polyeder. Er Fladen
+f. Eks. ringformet, saa at Polyedret ikke bliver
+konvekst, kan man uden at dele Fladen lægge
+Snit i den, der enten løber tilbage i sig selv
+ell. forbinder Punkter af andre Snit. Det højest
+mulige Antal af saadanne Snit indgaar i en
+modificeret Eulersk Formel og ses derved at
+være uafhængigt af, hvorledes Snittene lægges;
+dette Antal bestemmer Fladens <sp>Sammenhæng</sp>,
+hvilken spiller en overordentlig Rolle

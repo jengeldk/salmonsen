@@ -1,0 +1,154 @@
+delvis <sp>dissocieret</sp>, d. v. s. spaltet i
+Na+-Ioner og Cl÷-Ioner, Baryumklorid i en
+Ba++-Ioner og to Cl÷-Ioner; og denne Dissociation
+bliver desto fuldstændigere, jo mere fortyndet
+Opløsningen er. Efter Arrhenius skal den
+elektriske Strøm ved Elektrolysen ikke spalte
+Elektrolytens Molekyler i Ioner, da Molekylerne
+allerede i Forvejen er dissocierede i positiv
+ladede Ioner <sp>Kationer</sp> og negativt ladede
+Ioner <sp>Anioner</sp>. Det Arbejde, Strømmen
+udfører, idet den passerer gennem Opløsningen,
+bestaar dels i at overvinde Vandets
+Gnidningsmodstand mod Ionernes Vandring, henh. til
+Katoden og Anoden, dels i at aflade de Ioner,
+der ankommer til Elektroderne. At en Opløsning
+leder Strømmen, er derfor betinget af
+Tilstedeværelsen af fri Ioner, medens tilstedeværende
+ikke dissocierede Molekyler ingen Del tager i
+Ledningen. Da en Opløsnings elektriske
+Ledningsevne saaledes maa afhænge af det Antal
+af det opløste Stols Molekyler, der er
+dissocieret i Ioner, har man, ved en eksperimentel
+Bestemmelse af Ledningsevnen, et Middel til
+Beregning af <sp>Dissociationsgraden</sp>, d.
+v. s. den Brøkdel af det opløste Stofs
+Molekyler, der er spaltet i Ioner. Det viser sig nu,
+at de Værdier, man finder for
+Dissociationsgraden, ud fra Opløsningernes
+Kogepunktsforhøjelse og Frysepunktssænkning, for en stor
+Gruppe Stoffer stemmer godt med de Værdier,
+man finder ud fra den elektriske
+Ledningsevne. De Stoffer, der saaledes viser
+Overensstemmelse, er de <sp>svage Elektrolyter</sp>,
+saadanne som Eddikesyre, Ammoniumhydroxyd
+o. m. a., der er lidt dissocierede i Opløsning,
+hvorimod saadanne Stoffer som Saltsyre,
+Svovlsyre, Natriumhydroxyd o. m. a., de saakaldte
+<sp>stærke Elektrolyter</sp>, der er stærkt
+dissocierede, viser betydelige Afvigelser. Disse
+og flere andre Forhold har ført til, at den
+danske Kemiker <sp>Niels Bjerrum</sp> har opstillet
+Teorien om de <sp>stærke Elektrolyters
+fuldstændige Dissociation</sp>. Han
+antager, at de stærke Elektrolyter er praktisk
+talt fuldstændig dissocierede, og at det, vi
+maaler som den tilsyneladende Dissociationsgrad,
+ved Bestemmelse af Kogepunktsforhøjelse,
+Frysepunktssænkning og elektrisk Ledningsevne,
+skyldes de stærkt ladede Ioners gensidige
+Indvirkning, og denne behøver ikke at give sig ens
+Udslag, naar det er saa forsk. Fænomener, vi
+lægger til Grund for Maalingen, som en
+Ledningsevne og et Frysepunkt, og vi faar derfor
+forsk. Værdier for den tilsyneladende
+Dissociation. Bjerrum's Teori har vist sig meget
+frugtbar for de senere Aars Udvikling af
+Opløsningernes Teori. En Ting, der ogsaa kan
+gøre sig gældende i Opløsningen, er, at Ionerne
+kan omgive sig med, ell. binde Vandmolekyler,
+kan »hydratere« sig, og under deres
+Bevægelser i Opløsningen slæbe denne Vandkappe
+med sig.
+
+Ved den elektrolytiske Dissociation dannes
+altsaa positivt og negativt elektrisk ladede
+Atomer ell. Atomgrupper, Ioner, som vi kalder
+dem, men altid saaledes, at Summen af alle
+Ladningerne er Nul, d. v. s. at Opløsningen er
+elektrisk neutral udadtil. At disse Ioner ikke,
+p. Gr. a. den elektrostatiske Tiltrækning,
+forener sig til uelektriske Komplekser, skyldes, at
+de elektriske Kræfter mellem dem formindskes
+meget stærkt af Vandet, der har en stor
+Dielektricitetskonstant. Det viser sig ogsaa, at en
+Vædskes Evne til at virke dissocierende paa
+Elektrolyler, der opløses i den, vokser med
+Vædskens Dielektricitetskonstant. — Aarsagen
+til den elektrolytiske Dissociation var, dengang
+Arrhenius opstillede sin Teori, ganske
+uforklarlig, men i Løbet af den sidste halve Snes
+Aar har man faaet en klarere Forstaaelse
+deraf. Ved Undersøgelser af Røntgenstraalernes
+Bøjning, naar de gaar gennem en Krystal, f.
+Eks. af Natriumklorid, har man fundet, at
+denne er opbygget af Natriumatomer og
+Kloratomer ordnede saaledes, at hvert
+Natriumatom er omgivet af 6 Kloratomer, og hvert
+Kloratom omgivet af 6 Natriumatomer, og disse
+maa tænkes kædede sammen af elektriske
+Kræfter. Efter den Rutherford-Bohr'ske Atommodel
+er Atomerne opbyggede af en positiv ladet
+Kerne, der indeholder Atomets Masse, uden om
+den kredser lige saa mange negativt ladede
+Elektroner, som Kernen har positive
+Ladninger; disse Elektroner er ordnede i Ringe eller
+»Skaller« i forsk. Afstande fra Kernen. Nu har
+Bohr ud fra forsk. Betragtninger og ved
+Sammenligning med det periodiske System (s. d.)
+vist, at en yderste Elektronskal med 8
+Elektroner vil være den mest stabile. Nu
+indeholder Kloratomet i sin yderste Elektronskal 7
+Elektroner og Natriumatomet indeholder 1,
+men i sin næstyderste Skal 8 Elektroner.
+Kloratomet har derfor stor Tendens til at forene
+sig med en Elektron og derved komplettere sin
+yderste Elektronskal, den tager derfor
+Natriumatomets yderste, løst bundne Elektron, og
+bliver derved negativt ladet, medens
+Natriumatomet bliver positivt ladet. Herved bindes
+Natrium- og Kloratomerne i
+Natriumkloridkrystallen, og opløser vi Natriumkloridet i Vand,
+vil de elektriske Kræfter formindskes saa
+stærkt p. Gr. a. Vandets store
+Dielektricitetskonstant, at den regelmæssig opbyggede
+Krystals Byggestene bliver løsnede, og vi har da
+i Opløsningen Klorioner og Natriumioner
+fritbevægelige mellem hinanden.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Opløsningstegn">
+<b>Opløsningstegn,</b> ♮ (Musik), ophæver
+Virkningen af et forudgaaende ♯ ell. ♭. Se
+<sp>Fortegn</sp>.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Opmaaling, Norges geografiske">
+<b>Opmaaling, Norges geografiske,</b> se
+<sp>Norges geografiske Opmaaling</sp>.
+</chapter>
+
+<chapter name="Opmand">
+<b>Opmand</b> kaldes i Retssproget den Person,
+der fører Forsædet under en Voldgift, saaledes
+at hans Stemme bliver den afgørende for
+Voldgiftssagens Udfald. Undertiden udnævnes O. af
+Parterne, samtidig med at disse vælger
+Voldgiftsmændene, og dette vil i Alm. være den
+mest hensigtsmæssige Fremgangsmaade; ofte
+overlades det dog Voldgiftsmændene at udpege
+en O., saafremt de ikke selv kan enes om Sagens
+Paakendelse. O. i egl. Forstand kommer kun til
+Anvendelse ved Voldgift, der hviler paa
+kontraktmæssig Vedtagelse; ved de iflg. Lov
+oprettede offentlige Voldgiftsretter bruges en fast
+beskikket Formand.
+<i>K. Hch.</i>
+</chapter>
+
+<chapter name="Opmarch">
+<b>Opmarch</b> [-marsj] (milit.). Man skelner
+mellem <sp>strategisk</sp> og <sp>taktisk</sp> O. Ved den
+strategiske O. forstaar man Sammendragning af

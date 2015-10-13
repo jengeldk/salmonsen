@@ -1,0 +1,31 @@
+<chapter name="Rettelser og Trykfejl">
+RETTELSER OG TRYKFEJL.
+
+*
+
+<sp>BIND  I</sp>.
+
+Side 224, Spalte 2, Linie 30 f. o. Udskrænkning læs: Udskænkning
+
+<sp>BIND  II</sp>.
+<table>
+<td>Side<td>255,<td>Spalte<td>1,<td 2>Aspelm, J. R., d. 29. Maj 1915
+<td c>— <td>383,<td c>—<td>1,<td>Linie 6 f. n.<td>AEGYPTIOS læs:  AEGYPTOS
+<td c>— <td>755,<td c>—<td>2,<td 2>Bauditz, S. G., † 16. Aug. 1915
+<td c>— <td>760,<td c>—<td>1,<td>Linie 5 f. n.<td>Penneberg læs:  Pinneberg
+</table>
+
+<sp>BIND III</sp>.
+<table>
+<td>Side<td r>20,<td>Spalte<td>1,<td>Linie<td r>1 f. n.<td>Aug. læs: Juli
+<td c>—<td c>—<td c>—<td>2,<td c>—<td r>1 f.  o.<td>tilføjes: † 16. Juni 1915
+<td c>—<td r>103,<td c>—<td>1,<td c>—<td r>1 f. n.<td>kunstigt læs: hurtigt
+<td c>—<td r>232,<td c>—<td>2,<td c>—<td r>30 f. n.<td>16 læs:  24
+<td c>—<td r>682,<td c>—<td>1,<td c>—<td r>12 f. o.<td>en ikke ringe læs: ingen betydelig
+<td c>—<td r>694,<td c>—<td>2,<td c>—<td r>25 f. o.<td>efter § 79 tilføjes: (nu § 77)
+<td c>—<td r>695,<td c>—<td>1,<td c>—<td r>29 f. o.<td>nugældende Grl.'s § 79 læs: § 77 i Grl. af 1915
+<td c>—<td c>—<td c> —<td> 2,<td c>—<td r>22 f. o.<td>1909 læs: 1900
+<td c>— <td r>771,<td c>—<td>1,<td c>—<td r>14 f. o.<td>457 læs: 475
+<td c>— <td r>828,<td c>—<td>2,<td c>—<td r>4 f. o.<td>Se — læs: Sem —
+</table>
+</chapter>

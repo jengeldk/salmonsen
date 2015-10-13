@@ -1,0 +1,139 @@
+<sp>Faraday-Maxwell'ske</sp> Nærvirkningsteori, der betød
+et saa væsentligt Fremskridt fra den gl.
+Fjernvirkningsteori (smlg. <sp>Elektricitet</sp>), var,
+især i den Skikkelse, som <sp>H. Hertz</sp> gav den,
+en udpræget fænomenologisk Teori. Den
+betragtede nærmest Elektriciteten som et »Fluidum«
+og beskrev Stoffernes elektriske og magnetiske
+Forhold ved at tillægge dem en bestemt
+Dielektricitetskonstant, en bestemt elektrisk
+Ledningsevne og en bestemt magnetisk Permeabilitet,
+hvilke Egenskaber alle maatte bestemmes
+eksperimentelt i deres Afhængighed af Stoffets Tilstand
+(Temperatur o. s. v.).; I Længden kan en saadan
+Teori ikke tilfredsstille, man vil tilstræbe en
+mere atomistisk Behandlingsmaade, søge at
+trænge ind i Fænomenernes Mekanisme, at
+finde, hvad der bag de iagttagelige Fænomener
+foregaar i selve Stoffernes Atomer, og derved
+ogsaa vinde en Forstaaelse af de nævnte
+Egenskabers Variation med de ydre
+Omstændigheder. E. bet. en saadan Indførelse af en
+atomistisk Behandlingsmaade i Elektricitetslæren.
+Der var saa meget mere Grund til at søge ud
+over Maxwell's Teori, som der var opstaaet
+store Vanskeligheder for Gennemførelsen af
+denne over for de optiske Fænomener, der
+efter dens Opfattelse skulde henhøre under
+Elektrodynamikken; Teorien kræver, at et Stofs
+Brydningsforhold skal være lig Kvadratroden af
+dets Dielektricitetskonstant, hvilket havde
+fundet glimrende Bekræftelse for Luftarterne, hvis
+Brydningsforhold kun afhænger meget lidt af
+Lysets Bølgebredde (Farve), men der er i
+denne Teori ikke Plads for den Variation af
+Brydningsforholdet med Bølgebredden, som alle
+andre gennemsigtige Stoffer viser, saa at alle de
+Fænomener, der staar i Sammenhæng med
+Stoffernes Dispersion, i Virkeligheden slet ikke
+passede ind i Teorien. Paa dette Punkt har E.
+betydet et afgørende Fremskridt. Det maa dog
+betones, at Antagelsen af E. ikke bet., at
+Maxwell's Teori omstødes; den er stadig Grundlaget,
+hvorpaa der bygges videre; den gælder helt
+uforandret for den fri Æter, blot over for
+Materien havde den vist sig utilstrækkelig ved
+Fænomenernes fineste Enkeltheder, ved de i
+ganske korte Tider ell. i ganske smaa Rum
+forløbende Fænomener, men det er jo ikke
+underligt, at der over for dem maatte en atomistisk
+Betragtningsmaade til. E. udformedes i Beg. af
+1890'erne og er først og fremmest knyttet
+til <sp>H. A. Lorentz</sp>' Navn, men ogsaa
+<sp>Wiechert</sp> og <sp>Larmor</sp> har taget vigtig og
+uafhængig Del i dens Udvikling og <sp>Riecke</sp>,
+<sp>Drude</sp> og <sp>J. J. Thomson</sp> i dens specielle
+Anvendelse paa Metaller. Hvad Udviklingen af
+dens eksperimentelle Grundlag angaar, se
+<sp>Elektron</sp>, hvilken Artikel her forudsættes kendt.
+
+E. antager, at Elektriciteten er atomistisk
+opbygget, bestaar af adskilte, meget smaa
+elektrisk ladede Partikler, Elektroner. Alle
+elektriske Virkninger er Virkninger mellem
+saadanne Partikler indbyrdes, Resultater af deres
+Lejring og Bevægelse; Virkningerne formidles
+gennem Rummet uden om dem, det der
+betegnes ved Symbolet den fri (hvilende) Æter.
+Elektronerne er altsaa singulære Steder i Æteren,
+Kildepunkter for den elektriske Kraft (Steder,
+hvorfra Kraftlinierne udgaar, ell. hvori de
+forsvinder), og Hovedsagen i E. er Paastanden om,
+at den elektriske Kraft har saadanne adskilte
+Kildepunkter i et uforanderligt Antal og ikke
+udgaar fra et kontinuert Fluidum. Ved de fleste
+Anvendelser kan man nøjes med at behandle
+Elektronerne som Punkter, men undertiden maa
+man tillægge dem Udstrækning og gøre
+bestemte Antagelser om deres Form og om,
+hvorledes Ladningen er fordelt paa dem. Hvilke
+Kræfter, der er Aarsag til, at disse elementære
+Elektricitetsmængder holder sammen og ikke
+følger den gensidige Frastødning, som sagtens
+ogsaa virker i dem, har man ingen
+Forestilling om. (Eksperimentelt er der jo ført Bevis
+for Eksistensen af negative Elektroner; at der
+ikke eksisterer tilsvarende positive Elektroner,
+men at den positive Elektricitet sandsynligvis er
+opbygget af lige saa mange forsk. Slags
+Elementarpartikler, som der er Grundstoffer, bet.
+for Teorien ikke nogen væsentlig Komplikation).
+Elektronerne maa antages at fastholdes i
+Atomerne af visse Kræfter, saa at de beskriver
+bestemte Baner ell. faar bestemte
+Ligevægtsstillinger, hvorom de kan udføre Svingninger. Disse
+Svingninger betinger, som ndf. omtalt,
+Stoffernes optiske Egenskaber. Underkastes en
+Isolator, bestaaende af saadanne Atomer, en
+elektrisk Kraft, vil Elektronerne forskydes fra deres
+opr. Ligevægtsstillinger til ny, saa at hvert Atom
+bliver elektrisk polariseret; herved er vundet en
+Forstaaelse af Mekanismen i den dielektriske
+Forskydningsstrøm i Isolatorer (ikke af
+Forskydningsstrømmen i Æteren); et Stofs
+Dielektricitetskonstant maa herefter afhænge af, hvor
+mange Elektroner dets Atomer indeholder, og
+hvor stærkt de fastholdes til deres
+Ligevægtsstillinger. I Metallerne maa man yderligere
+antage, at der er et Antal frit bevægelige
+Elektroner til Stede; de kan antages spontant at
+afgives fra Metallets Atomer. Det er dem, der
+betinger Metallernes elektriske Ledningsevne.
+Endelig maa Magnetismen søges forklaret som
+Virkning af Elektroner, der inde i Atomerne
+udfører kredsende Bevægelser.
+
+E.'s <sp>Grundligninger</sp> er de
+Maxwellske Ligninger i den Form, de havde for den fri
+Æter, hvortil kommer et Udtryk for, at den
+Kraft, der virker paa en Elektron i Bevægelse,
+er sammensat af den elektriske Kraft paa Stedet
+og af den Virkning, som den magnetiske Kraft
+paa Stedet i Overensstemmelse med Ørsted's
+Opdagelse maa have paa den elektriske Strøm,
+som den bevægede Elektron repræsenterer. Den
+sidste Kraft staar vinkelret baade paa den
+magnetiske Kraft og paa Elektronens
+Bevægelsesretning. E. kender foruden de hypotetiske
+»Forskydningsstrømme i Æteren« ikke andre Arter
+af elektriske Strømme end saadanne
+Konvektionsstrømme, bestaaende af Elektroner i
+Bevægelse.
+
+E.'s første Triumfer vandtes inden for
+<sp>Optikken</sp> ved Forklaringen af den normale
+Zeeman-Effekt (et Magnetfelts Virkning paa
+Lysudsendelsen, se <sp>Elektron</sp>). Det maa ved
+Zeeman-Effekten anses for bevist, at i det
+mindste Stoffernes Liniespektre udsendes fra
+Elektroner, der i Atomernes Indre udfører

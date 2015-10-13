@@ -1,0 +1,160 @@
+<chapter name="Dagbog">
+<b>Dagbog,</b> i Bogholderi en Bog, som benyttes
+til dgl. Indførsel af visse Noteringer. Benævnelsen
+D. bruges snart ensbetydende med <sp>Memorial</sp>,
+<sp>Primanota</sp>, hyppigere dog ensbetydende
+med <sp>Kladde</sp>, <sp>Pakhusbog</sp>, <sp>Salgsbog</sp>.
+Se <sp>Bogholderi</sp>. Smlg. ogsaa
+<sp>Skibs-D</sp>.
+<i>(C. V. S.). Th. O.</i></chapter>
+
+<chapter name=”Dagbrud”>
+<b>Dagbrud</b> drives paa saadanne Lejesteder, der
+kan afbygges ved aabne Arbejdssteder i Dagen.
+Nogle nyttige Mineraler udvindes altid paa denne
+Maade; andre kan først vindes ved D., førend
+den egl. Grubedrift begynder. Bl. de førstnævnte
+er Tørv, de alm. Stenarter, Jernmalm
+(Elba, Spanien, Sverige, Algier, Norge), kobberholdig
+Svovlkis (Riotinto, Spanien), Alluvialguld
+(Kalifornien), Tin, diamantførende Jordlag o. fl.
+D. drives enten i Bjergskraaninger ligesom Stenbrud
+ell. i Sænkninger, og Afbygninger foretages
+i Trappeafsatser, <sp>Strosser</sp>, hvis Højde er
+afhængig af Fjeldets Fasthed. Ved de Lejesteder,
+som er dækkede af unyttige Masser, bliver
+der Tale om Valg mellem D. ell. Grube, og
+man maa da veje Omkostningerne ved Afrydning
+af disse Masser og de Vanskeligheder, Vejrliget
+lægger i Vejen for Driften, mod de mange
+Fordele, som D. frembyder, nemlig at spare
+Muring, Fortømring, Belysning og Udgifter ved
+Vejrveksling og Gensætning af det værdifulde
+Mineral.
+<i>A. G.</i></chapter>
+
+<chapter name=”Dagbrydning”>
+<b>Dagbrydning</b> (<sp>Dagbygning</sp>, tysk <sp>Tagebau</sp>),
+Drift af Dagbrud.
+<i>A. G.</i></chapter>
+
+<chapter name=”Dagbue”>
+<b>Dagbue</b> benævnes den Del af Dagcirklen, der
+ligger over Horisonten, i Modsætning til Natbue,
+den Del, som ligger under Horisonten. D.'s
+Længde afhænger af vedk. Steds Polhøjde og
+Stjernens Deklination, dens halve Værdi beregnes efter Formlen
+<i>cos t</i> = ÷ <i>tg φ tg δ</i>.
+Ved Jordens Ækvator er D. og Natbue lige lange, da
+alle Dagcirkler staar lodret paa Horisonten
+(<i>sphæra recta</i>), ved dens Nord- (Syd-) pol har
+alle Stjerner paa den nordlige (sydlige) Halvkugle
+kun D., alle Stjerner paa den sydlige
+(nordlige) Halvkugle kun Natbue (<i>sphæra paralella</i>).
+For alle andre Punkter af Jorden vil kun
+de Stjerner, som staar i Ækvator (Deklination
+= 0°), have lige saa lang D. som Natbue, medens
+de øvrige Stjerner vil have længere D. end
+Natbue, hvis Stedets Polhøjde og Stjernens Deklination
+begge er nordlige (+) ell. begge sydlige (÷);
+er derimod den ene nordlig, den anden
+sydlig, vil D. være mindre end Natbuen (<i>sphæra
+obliqua</i>). For vore Bredder vil D.'s Længde
+fremgaa af flg. Tabel; ved Beregningen af denne
+er der ikke taget Hensyn til D.'s Forlængelse
+p. Gr. a. Refraktionen.
+
+<table>
+<td 11 c>Nordlig Bredde.
+<td>Dekl.<td c 2>50°<td c 2>55°<td c 2>60°<td c 2>65°<td c 2>70°
+<td><td c>T.<td c>Min.<td c>T.<td c>Min.<td c>T.<td c>Min.<td c>T.<td c>Min.<td c>T.<td c>Min.
+<td r>÷ 40°<td r>0<td r>0
+<td r>÷ 35°<td r>4<td r>28<td r>0<td r>0
+<td r>÷ 30°<td r>6<td r>12<td r>4<td r>36<td r>0<td r>0
+<td r>÷ 25°<td r>7<td r>30<td r>6<td r>26<td r>4<td r>49<td r>0<td r>0
+<td r>÷ 20°<td r>8<td r>34<td r>7<td r>49<td r>6<td r>47<td r>5<td r>10<td r>0<td r>0
+<td r>÷ 15°<td r>9<td r>31<td r>9<td r>0<td r>8<td r>19<td r>7<td r>19<td r>5<td r>41
+<td r>÷ 10°<td r>10<td r>23<td r>10<td r>3<td r>9<td r>38<td r>9<td r>2<td r>8<td r>8
+<td r>÷  5°<td r>11<td r>12<td r>11<td r>3<td r>10<td r>50<td r>10<td r>33<td r>10<td r>9
+<td r>   0°<td r>12<td r>0<td r>12<td r>0<td r>12<td r>0<td r>12<td r>0<td r>12<td r>0
+<td r>+  5°<td r>12<td r>48<td r>12<td r>57<td r>13<td r>10<td r>13<td r>27<td r>13<td r>51
+<td r>+ 10°<td r>13<td r>37<td r>13<td r>57<td r>14<td r>22<td r>14<td r>58<td r>15<td r>52
+<td r>+ 15°<td r>14<td r>29<td r>15<td r>0<td r>15<td r>41<td r>16<td r>41<td r>18<td r>19
+<td r>+ 20°<td r>15<td r>26<td r>16<td r>11<td r>17<td r>13<td r>18<td r>50<td r>24<td r>0
+<td r>+ 25°<td r>16<td r>30<td r>17<td r>34<td r>19<td r>11<td r>24<td r>0
+<td r>+ 30°<td r>17<td r>48<td r>19<td r>24<td r>24<td r>0
+<td r>+ 35°<td r>19<td r>32<td r>24<td r>0
+<td r>+ 40°<td r>24<td r>0
+</table>
+
+Finder man i Almanakken, at Jupiter har Deklination
++ 10°, vil dens D. være for Kbhvn
+(φ = 55°) 13 Timer 57 Min., for Kria (φ =
+60°) 14 Timer 22 Min., for Hammerfest (φ
+= 70°) 15 Timer 52 Min. o. s. v.
+<i>J. Fr. S.</i></chapter>
+
+<chapter name=”Dagbygning”>
+<b>Dagbygning,</b> se <sp>Dagbrydning</sp>.</chapter>
+
+<chapter name=”Dagcirkel”>
+<b>Dagcirkel</b> kaldes den med Himlens Ækvator
+parallelle Cirkel, en Stjerne beskriver under
+Himmelhvælvingens tilsyneladende daglige Omdrejning.
+<i>J. Fr. S.</i></chapter>
+
+<chapter name=”Dagden”>
+<b>Dagden,</b> se <sp>Dagø</sp>.</chapter>
+
+<chapter name=”Dag Eilifssøn”>
+<b>Dag Eilifssøn,</b> norsk Lendermand paa Kong
+Magnus Barfod's og hans Sønners Tid, gift
+med Agmund Skoftessøn's Datter Ragnhild, var
+bosat paa Bratsberg og havde store Besiddelser
+paa Grenland og paa Vestfold. Han ledsagede
+Kong Magnus paa hans andet Vesterhavstog, og
+under Irernes Overfald paa Nordmændene kæmpede
+han ved Kongens Side og var efter dennes
+Fald en af de sidste, som flygtede. Under Sigurd
+Jorsalfar's Regering skal han have stiftet Gimsø
+Nonnekloster, hvis første Abbedisse hans Datter
+Baugeid var. Hans Sønner var Vatnorm og Gregorius
+Dagssøn.
+<i>(O. A. Ø.). Edv. B.</i></chapter>
+
+<chapter name=”Dagen, se Dagø”>
+<b>Dagen,</b> se <sp>Dagø</sp>.</chapter>
+
+<chapter name=”Dagen, dansk Avis”>
+<b>Dagen,</b> dansk Avis, var ved Siden af »Berlingske
+Tidende« det eneste danske Dagblad af
+virkelig Bet. i de første Aartier af 19. Aarh.
+Det blev stiftet og forlagt af Boghandler K. H.
+Seidelin 1803. Sammen med ovenn. Blad nød D.
+det Privilegium at maatte meddele udenrigspolitiske
+Nyheder, hvad der skaffede det en ikke
+ringe Læsekreds. 1811-44 virkede Rahbek som
+dets Redaktør; derefter gik det over til et Bogtrykkerfirma,
+Brødr. Rostock, under hvilket det
+fl. Gange skiftede Redaktør. Den, som holdt
+længst ud, var Nationaløkonomen, Etatsraad Fr.
+Thaarup (1822-35), der for øvrigt lod sin Søn
+bestyre det. Under hans Ægide kulminerede
+D.; i Format stod det ikke tilbage for »Statstidende«
+(ɔ: »Berl. Tidende«), men overfløj endogsaa
+dette ved at udsende Nummer hver Dag
+undtagen Søndag. Men fra Slutn. af 1830'erne
+dalede dets Bet.; det havde nu faaet fl. Konkurrenter,
+og det hjalp ikke, at man lod medfølge
+Tillæg (1836-41 og 1843 »Søndagen«, 1838 »Polit.
+Supplementsblad«). 1841 overtoges D. af Justitsraad
+L. I. Fribert, som havde høje Tanker om
+at gøre Bladet til konservativt Regeringsblad;
+han skuffedes imidlertid i sine Forventninger,
+holdt sig da skadesløs for sine hafte Udgifter
+ved Kassesvig og flygtede til Nordamerika. Dermed
+var D.'s Skæbne afgjort. (<sp>Litt</sp>.: <sp>J. Clausen</sp>,
+»Kulturhistoriske Studier over Heiberg's
+Vaudeviller« [Kbhvn 1891]).
+<i>J. Cl.</i></chapter>
+

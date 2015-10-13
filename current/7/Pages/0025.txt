@@ -1,0 +1,147 @@
+Elektricitetsforsyning direkte fra Højspændingsnettet, forsynes
+Forbrugerne i et mindre Omraade, f. Eks. i en
+ell. to Landsbyer med Omegn, derfor gennem et
+<sp>Lavspændingsfordelingsnet</sp>, der
+udgaar fra den sekundære Side af en
+Transformator ell. Omformer (s. d.), hvis primære Side
+er tilsluttet Højspændingsnettet.
+Lavspændingsnettet lægges paa lignende Maade som
+Jævnstrømsfordelingsnet (se ovf. under <sp>e. K. ved
+Jævnstrøm</sp>), medens
+Højspændingsnettet trækkes fra Transformator til
+Transformator ad den kortest mulige Vej, dog saaledes
+at det saa vidt muligt følger Markveje,
+Markskel og Diger, men <sp>ikke</sp> Sogneveje, Biveje ell.
+Hovedlandeveje, hvilke Færdselsaarer
+Højspændingsledninger vel maa skære, men her i
+Landet ikke følge. Højspændingsnettet anbringes
+uden for Byer paa Master, Træmaster ell.
+Betonmaster. Alle tre Faser føres saavel ved
+Lavspænding som ved Højspænding paa samme
+Master, og findes der Nulleder, føres denne i
+Reglen øverst (se <sp>e. Ledningsnet</sp>).
+Omformerstationer anvendes kun i Byer og paa
+Steder, hvor man omdanner et ældre
+Jævnstrømsværk for Tilslutning til et
+Højspændingsanlæg. De tilsluttes dette enten direkte eller
+over Transformatorstationer. I
+Omformerstationerne omsættes den højspændte Vekselstrøm
+som Regel til 440 Volts Jævnstrøm, der ledes
+gennem et Jævnstrømsfordelingsnet ud til
+Forbrugerne. Transformatorstationerne tilsluttes
+Højspændingsnettet direkte og transformerer
+Højspændingen om til Lavspænding 3 X 220
+Volts Fasespænding ell. 380 Volt mellem
+Yderlederne. Ude i Landet anvender man i Reglen
+Mastetransformatorer op til 50 KW; disse
+bæres af 2 ell. 4 Master og tilsluttes Høj- og
+Lavspændingsnettene gennem passende elektriske
+Apparater, anbragte i ell. ved Transformatorerne
+(se <sp>elektriske Understationer</sp>).
+Transformatorer over 50 KW anbringes i Reglen i Taarne,
+i Kældere i Huse ell., naar de er særlig store,
+i særskilte Huse (Transformatorstationer). I
+Byer maa højspændt Vekselstrøm ikke føres i
+Luftledninger, men skal føres i Kabel. Ved e. K.
+over meget store Arealer bliver man ofte nødt
+til at anvende to ell. fl. forsk. Højspændinger.
+Oplandet, der skal forsynes, deles i nogle faa
+særskilte Distrikter ell. mindre Oplande, der
+forsynes fra en Transformatorstation, som
+lægges centralt i vedkommende Distrikt og
+tilsluttes Kraftstationen gennem fra denne udgaaende
+Højspændingsledninger, der i saa Tilfælde ofte
+fører meget høje Spændinger, f. Eks. 50000-
+100000 Volt. Disse Spændinger omdannes i
+Transformatorstationerne til mindre
+Højspændinger (sekundære Højspændinger), f. Eks.
+10000-20000 Volt, der fra Understationerne
+ledes ud i et sekundært Højspændingsnet, hvortil
+Mastetransformatorerne sluttes. Fra disse sidste
+udgaar da det Forbrugerne direkte forsynende
+Lavspændingsnet. Grunden til, at man maa
+anvende fl. Højspændinger ved e. K. over meget
+store Afstande, 50-100-200 km, er den, at
+Anvendelsen af en eneste, mindre Højspænding,
+f. Eks. 10000 Volt, vilde give et for dyrt
+Ledningsnet, grundet paa Anvendelsen af svære
+Ledninger, medens f. Eks. 30000 Volt anvendt
+overalt til Gengæld vilde give dyre Maskiner
+og Transformatorer. Man gaar derfor den Vej
+at anvende den mindre Spænding, f. Eks. 10000
+Volt, inden for et begrænset Opland og slutte
+disse mindre, begrænsede Oplande til hver sin
+Transformatorstation. Som Eksempel paa e. K.
+skal anføres den e. K. fra den store
+Vandkraftcentral i Elfkarleö ved Gäfle i Sverige.
+Dette elektriske Kraftanlæg ligger ved
+Dalelven og udnytter Elfkarleö-Faldet i denne. Fra
+Kraftstationen udgaar 20000 Volts Ledninger, der
+forsyner det nærmeste Opland med Lys og Kraft,
+bl. a. til Gäfle By, en c. 154 km lang 70000 Volts
+Ledning til Västerås over Dannemora, Upsala,
+Enköping, hvilken Ledning afgrenes i
+Dannemora med en 51 km lang Linie til Byen Hallsta,
+hvor der findes Understation. Saadanne findes
+tillige i Dannemora, Västerås og Upsala. I
+Upsala afgrenes Linien til Rotebro, c. 50 km, i
+Enköping til Södertelje over Strängnäs, hvorfra
+Linien atter afgrenes til Eskilstuna. Fra
+Centralen udgaar tillige en c. 87 km lang 40000 Volts
+Linie til Hofors og Stjärnsund. 70000 Volts
+Ledningerne føres paa Jernmaster med Spændvidde
+165-200 m og er lagt af Kobberledninger af
+35-70 mm<sup>2</sup> Tværsnit. Der findes
+Understationer i alle de større Byer, som ligger ved 70000
+Volts Linien, saaledes findes der i Upsala og
+Västerås to 5000 KW's Transformatorstationer,
+i Dannemora og Enköping 2 Stkr 2000 KW
+Transformatorer. Fra hver af Understationerne
+forsynes det omliggende Opland gennem 20000
+Volts Ledningsnet og dertil knyttede
+Lavspændingsnet.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="elektrisk Kæde">
+<b>elektrisk Kæde,</b> se <sp>galvaniske
+Elementer</sp>.
+</chapter>
+
+<chapter name="elektrisk Lampe">
+<b>elektrisk Lampe,</b> se <sp>elektrisk Lys</sp>.
+</chapter>
+
+<chapter name="elektrisk Ledningsmateriel">
+<b>elektrisk Ledningsmateriel.</b> Som
+Ledningsmateriale benyttes i Stærkstrømsteknikken
+væsentligst <sp>Kobber</sp> og <sp>Aluminium</sp>, i
+sjældnere Tilfælde <sp>Bronze</sp>. Under
+Verdenskrigen har endvidere blank ell. galvaniseret
+<sp>Jerntraad</sp> fundet en Del Anvendelse til
+overjordiske Ledninger, <sp>Luftledninger</sp> for
+Jævnstrøm. I Amerika anvendes til
+Luftledninger hyppigt det saakaldte <sp>Monnotmetal</sp>.
+<sp>Kobberet</sp> skal være rent, elektrolytisk
+udfældet og have en Ledningsevne paa mindst 57
+Gange Kvægsølvets. Kobbertraad bruges i tre
+Haardheder, <sp>blød</sp>, <sp>halvhaard</sp> og <sp>haard</sp>.
+<sp>Blød</sp> udglødet Traad anvendes som
+Bindetraad samt undertiden i Jordkabler, men
+sjældent til Luftledninger. <sp>Halvhaard</sp> Traad
+(Brudgrænse 30-33 kg/mm<sup>2</sup>, Flydegrænse c.
+0,8 af Brudgrænsen) bruges til isolerede Kabler
+(snoet af fl. tynde Traade) og til Luftledninger,
+enten som massiv Traad med højst 70 mm<sup>2</sup>
+Tværsnit ell. som Tove, snoede af Traade af
+indtil 3 mm Diameter. <sp>Haard</sp> Traad
+(Brudstyrke 43-45 kg/mm<sup>2</sup>, Flydegrænse c. 0,8 af
+Brudgrænsen), bruges mest til
+Højspændingsluftledninger. <sp>Aluminiumstraade</sp> har en
+Ledningsevne af c. 35 Gange Kvægsølvets eller
+0,6 Gange Kobberets Ledningsevne. (Brudstyrke
+18-20 kg/mm<sup>2</sup>, Flydegrænse 14-15 kg/mm<sup>2</sup>).
+Det anvendes som Traade med indtil 3 mm
+Diameter, ved større Tværsnit som snoede Tove
+(til Luftledninger). Aluminium er betydelig mere
+

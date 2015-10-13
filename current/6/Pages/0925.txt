@@ -1,0 +1,141 @@
+i øvrigt kun sjældent og da saa at sige altid
+til Drift af Buelamper e. l. Ved
+<sp>Parallelsystemet</sp> ell. <sp>Parallelforbindelse</sp>
+føres baade den positive og den negative Leder
+(se <sp>elektriske Kraftstationer</sp>)
+gennem hele det elektriske Anlæg. Forbrugerne
+indskydes parallelt mellem de to Ledere (Fig. 2).
+Strømmen i et saadant System er ikke konstant,
+idet den varierer med Forbrugernes Antal.
+Derimod er Spændingen konstant ell. tilnærmet
+konstant. Ved dette System er Forbrugerne
+uafhængige af hverandre, og dette System er
+derfor det, der finder almindeligst Anvendelse.
+Det simpleste Parallelsystem er
+Toleder-Systemet (Fig. 2). Det anvendes baade ved
+Jævnstrøm og Vekselstrøm, ved sidstnævnte især i
+de eng. Kolonier, og til elektrisk, enfaset
+Banedrift. Da den gennem Lederne gaaende Strøm
+og det Spæridingstab, der maksimalt tillades, er
+bestemmende for Ledernes Tværsnit, har man
+forsøgt at finde Ledningssystemer, ved hvilke
+man med samme Spænding paa Lamper o. l.
+kan anvende mindre Ledningstværsnit end ved
+Toleder-Systemet. Man kom derved ind paa
+det af <sp>Hopkinson</sp> fundne
+<sp>Treledersystem</sp> (Fig. 3), der nu saa godt som altid
+benyttes ved elektrisk Lys- og Kraftforsyning
+med Jævnstrøm. Det indeholder foruden de to
+spændingsførende Ledere, som ogsaa findes i
+Toleder-Systemet, tillige en tredie Leder,
+<sp>Nullederen</sp> (se <sp>elektriske
+Kraftstationer</sp>), der i Reglen har et Tværsnit halvt saa
+stort som en af de andre Lederes,
+<sp>Yderlederes</sp>, Tværsnit. Ved Treledersystemet (Fig. 3) er
+Forbrugerne delte i to lige store Antal, der hver
+for sig indskydes mellem Nullederen og hver
+sin Yderleder; man opnaar derved en betydelig
+Besparelse i Ledningsmateriale, idet det samlede
+Ledertværsnit for Treledersystemets tre Ledere
+er 2,5 Gange mindre end det samlede
+Ledertværsnit for Toledersystemets to Ledere, idet
+der forudsættes samme samlede Belastning paa
+Centralen og samme Spænding, tilladelige
+Spændingstab og Ledningslængde. Ved
+Treledersystemet indskydes Motorer altid mellem
+Yderlederne, hvorfor de faar dobbelt saa høj
+Spænding som Lamper o. l., der indskydes mellem
+Nulleder og Yderledere. En videre Udvikling
+af Treledersystemet er
+<sp>Femledersystemet</sp> (Fig. 4), der bl. a. har fundet Anvendelse
+i Wien og Paris. Man kan kombinere Parallel-
+og Seriesystemet og faar da et blandet System.
+Treledersystemet er egl. et saadant. Af
+<sp>Vekselstrømsfordelingssystemer</sp> har
+man forskellige, der hovedsagelig kan deles i
+tre, 1) <sp>Toledersystemet</sp>, der ganske
+ligner Jævnstrøms-Toledersystemet, 2)
+<sp>Polygonsystemet</sp> og 3) <sp>Stjernesystemet</sp>.
+Til disse to sidste hører de almindeligst
+anvendte <sp>Trefasesystemer</sp> med 1)
+<sp>Trekantforbindelse</sp> (Fig. 5) og 2)
+<sp>Stjerneforbindelse</sp> med Nulleder
+(Fig. 6). Regner man med samme
+Belastning paa Centralen, samme Spænding og
+Ledningslængde samt samme tilladelige
+Spændingstab ved Trekant- og
+Stjerneforbindelsessystemerne, vil man finde, at det samlede
+Ledertværsnit for Stjerneforbindelse med Nulleder
+(Fig. 6), ved hvilket Forbrugerne er delte i tre
+lige store Antal, der indskydes mellem
+Nullederen og hver sin af de tre Faseledninger, er
+halvt saa stort som det samlede Ledertværsnit
+for Systemer med Trekantforbindelse, ved hvilke
+Forbrugerne er ligeligt fordelte mellem to og to
+af de tre Faseledninger (Fig. 5). Man anvender
+derfor overalt, hvor det kan lade sig gøre,
+Stjerneforbindelse med Nulleder, saaledes bl. a.
+ved Lavspændingsvekselstrømsnet. Tilsluttede et
+Toledersystem vil samme Forbrugere fordre
+et godt 2,5 Gange saa stort samlet
+Ledertværsnit som ved sidstnævnte System. Hvor
+Lavspændingsnet tilsluttes Højspændingsnet gennem
+Transformatorer, kan der blive Tale om at
+anvende forsk. Kombinationer af Forbindelser paa
+Høj- og Lavspændingssiden i Transformatorerne.
+Hyppigst benyttes den paa Fig. 7 viste
+Forbindelse, hvor Højspændingssiden er
+trekantforbundet, Lavspændingssiden stjerneforbundet med
+Nulleder. Man er nemlig ofte udsat for ret store
+Belastningsskævheder paa Lavspændingsnettet,
+hidrørende fra Lampebelastningen; men en
+saadan Skævhed vil ved »Trekant-Stjerne-Systemet«
+(Fig. 7) delvis udlignes paa Højspændingssiden
+og derfor give mindre Spændingstab i
+Højspændingsledningerne, end hvis man f. Eks. anvendte
+det paa Fig. 8 viste »Stjerne-Stjerne-System«.
+Her vil der nemlig ikke finde nogen
+Belastningsudjævning Sted i selve Transformatoren. Et lgn.
+Resultat som ved »Trekant-Stjerne-Systemet«
+kan opnaas ved det saakaldte
+»Siksak-Stjerne-System«. Her er Højspændingssiden af hver
+af de tre Faseviklinger delt i to lige store
+Halvdele, som er anbragte paa hver sin af
+Transformatorens Jernkerner. (Se <sp>elektriske
+Maskiner</sp> og <sp>Transformatorer</sp>.) Hver
+Jernkerne kommer saaledes til at bære en
+Lavspændingsvikling og to til forskellige Faser
+hørende halve Højspændingsviklinger. En
+Belastning i den paagældende Lavspændingsvikling vil
+saaledes indvirke paa to forsk.
+Højspændingsviklinger og derved bevirke Udligning af
+Belastningsskævheder. Dette System giver noget
+dyrere Transformatorer med noget lavere
+Virkningsgrad end de to andre Systemer, men har
+ikke desto mindre vundet en Del Udbredelse.
+<i>R. J. J.</i></chapter>
+
+<chapter name="elektriske Installationer og
+Installationsmateriel">
+<b>elektriske Installationer og
+Installationsmateriel.</b> Ved <sp>Installationer</sp>
+forstaas i dgl. Tale den Del af det elektriske
+Ledningsanlæg, som hos den enkelte
+Elektricitetsforbruger fører Strømmen fra
+Forsyningsledningen i Gaden til Forbrugsapparaterne,
+Lamper, Motorer o. s. v.
+
+Fra Kablet ell. Luftledningen i Gaden føres
+<sp>Stikledninger</sp> til en <sp>Hovedsikring</sp>
+(om Sikringer se <sp>elektriske Sikringer</sp>),
+der anbringes saa nær som muligt ved
+Génnemføringsstedet i Muren. Herfra fører saa
+<sp>Maalerledningen</sp> videre til en
+<sp>Klemmekasse</sp> ved <sp>Elektricitetsmaaleren</sp>.
+Hos Enkeltforbrugere med fl. Maalere samles
+disse oftest paa et tilgængeligt Sted nær ved
+Hovedsikringen, hvorved Maalerledningen bliver
+ganske kort. I Beboelseshuse, hvor hver
+Lejlighed har sin egen Maaler, lægges en fælles
+Maalerledning, Stigeledningen,
+

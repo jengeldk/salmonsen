@@ -1,0 +1,143 @@
+to Øjne ser Genstandene fra to forsk.
+Standpunkter; de to Billeder, der dannes paa
+Øjnenes Nethinder, bliver herved lidt forskellige,
+ikke blot derved, at Formerne afbilder sig
+noget forskellig, men ogsaa p. Gr. a., at
+Overfladernes Glans ofte tager sig ret forskellig ud
+for de to Øjne, hvad man f. Eks. kan
+overbevise sig om ved at se paa en blank
+Bordplade, hvori forskellige Genstande i Stuen
+spejler sig. Vor Bevidsthed tyder disse
+Forskelligheder i de to Nethindebilleder saaledes, at vi
+faar en Forestilling om Rummets Dybde. For
+at frembringe den samme Virkning ved en
+Afbildning gør man denne dobbelt, men saaledes,
+at de to Billeder viser Genstanden set fra to
+forskellige Steder, svarende til de to Øjnes
+Plads. Disse to Billeder skal nu bringes til at
+vise sig som eet. <sp>Wheatstone</sp> (1833)
+opnaaede dette ved at stille Billederne ud for
+hver sit af to Spejle, der dannede en ret
+Vinkel med hinanden, og i en saadan Afstand fra
+Spejlene, at de to Spejlbilleder kom til at
+ligge paa samme Sted i Rummet. Stillede man
+sig nu saaledes foran den lodrette Linie, hvori
+Spejlfladerne stødte sammen, at man med det
+ene Øje saa ind i det ene Spejl, med det andet
+Øje i det andet Spejl, fik man et lgn. Indtryk,
+som naar man saa paa Genstanden selv med
+begge Øjne. Dette Spejlstereoskop er dog omtrent
+fortrængt af <sp>Brewster</sp>'s Linsestereoskop
+(1843). Her ligger de to Billeder ved Siden af
+hinanden i samme Plan, og man ser paa dem
+gennem to Linser, der dels forstørrer
+Billederne, dels frembringer det Indtryk, at Afstanden
+til dem er større, idet Linserne virker som
+Luper. Linserne virker tillige som Prismer, idet
+de er tykkere i den ene Side end i den anden;
+man kan af en større Samlelinse danne to
+Stereoskoplinser ved at skære den midt over. Idet
+Lihsestykkerne stilles saaledes i S.'s forreste
+Væg, at deres tynde Rande vender mod
+hinanden (mod Næsen af Iagttageren), bryder de
+Lyset saaledes, at de to Billeder let ses som
+eet. En Skillevæg, der forhindrer det højre Øje
+i at se det venstre Billede — og omvendt —
+letter Illusionen. Brewster's S. er bygget ud fra
+den Anskuelse, at det er S.'s Opgave at bringe
+de to indbildte Billeder, der dannes af de to
+Luper, til at dække hinanden i den tydelige
+Synsviddes Afstand, d. v. s. normalt c. 25 cm
+fra Øjet. Men naar S. frembringer det
+Indtryk, at vi ser f. Eks. et Landskab 25 cm foran
+Øjet, saa mister vi ganske den tilstræbte
+Illusion, at det er Landskabet selv, vi betragter;
+det gør i saa Fald Indtryk af, at vi ser paa en
+lille Model af Landskabet. S. bør derfor
+konstrueres saaledes, at de indbildte Billeder
+rykkes langt bort, saa langt, at Øjet skal
+akkommodere lige meget, hvad enten det betragter
+Billederne ell. det virkelige Landskab. Denne
+Betingelse er i Praksis i de fleste Tilfælde (ved
+Landskaber altid) opfyldt, naar de indbildte
+Billeder rykker uendelig langt bort, idet et paa
+uendelig akkommoderet Øje kan se alle
+Genstande uden for en Afstand paa 10 m skarpt.
+Efter dette Princip er <sp>H. v. Helmholtz</sp>'s
+S. konstrueret; her benyttes i St f. de to
+Linsehalvdele i Brewster's S. to sammensatte Luper,
+hver bestaaende af to Samlelinser. S. dannes
+snart som en lukket Kasse, snart som et aabent
+Stativ, Billederne fremstilles nu som Regel ved
+Hjælp af Fotografi (s. d. S. 585).
+
+S.-Princippet har fundet Anvendelse paa
+mange forsk. Omraader. Det benyttes af
+Militæret til Afstandsmaaling (Stereokomparator,
+Stereotelemeter). Det er anvendt til Maaling af
+Maanebjerges Højde, idet der tages to
+Fotografier af Maanen paa to hinanden følgende
+Nætter; indsættes disse Fotografier i S., ses
+Bjergene plastisk, og ved Udmaaling af
+Billederne kan Højden findes. En saadan
+Udmaaling kan let ske, idet der i S. er indsat to
+smaa Stifter, een ved hvert Billede og begge
+forskydelige langs Billederne. Hvis de indbildte
+Billeder af de to Stifter dækker hinanden, vil
+de vise sig som een Stift; hvis den ene Stift
+flyttes lidt langs Billedet, vil det se ud, som
+om Stiften nærmer sig til ell. fjerner sig fra
+Iagttageren; bringes Stiften til tilsyneladende
+først at dække een Genstand i det betragtede
+Billede, og derefter en anden, kan man af
+Forandringen i Stifternes indbyrdes Afstand
+beregne Afstanden mellem de to Genstande. —
+S. er ogsaa benyttet til Opdagelse af
+Smaaplanter, Planetoider; samme Del af Himlen
+fotograferes i to paa hinanden flg. Nætter, og
+betragtes de to Fotografier da i S., ses
+Planetoiderne »springe frem« paa Baggrund af de
+Millioner af Gange fjernere Fiksstjerner.
+
+I mange moderne binokulare Kikkerter
+(Prismekikkerten, Reliefkikkerten) er den
+stereoskopiske Virkning kunstig forøget. Virkningen
+beror som nævnt paa Forskellen mellem
+Nethindebillederne i de to Øjne, og denne Forskel
+maa vokse med Afstanden mellem Øjnene. Man
+bygger derfor disse Kikkerter saaledes, at
+Afstanden mellem de to Objektiver er større, ofte
+endog mange Gange større end den normale
+Øjeafstand. Lyset passerer da et System af
+Prismer, der sluttelig sender det gennem
+Kikkertens Okularer ind i Øjnene, og Forskellen
+mellem Nethindebillederne bestemmes da ved
+Objektivafstanden i St f. ved Øjeafstanden.
+
+En stereoskopisk Virkning kan ogsaa opnaas
+ved flg. Metode (de magiske Briller). Der
+benyttes et Par Briller med f. Eks. et rødt og et
+grønt Glas, og der betragtes som sædvanlig to
+Billeder, optagne fra lidt forsk. Stade, men det
+ene Billede er her rødt, det andet grønt. Gennem
+det røde Brilleglas vil man da kun se det røde
+Billede og gennem det grønne Brilleglas kun det
+grønne Billede, og de to Nethindebilleder
+bliver derfor lidt forskellige. Den stereoskopiske
+Virkning kan selvfølgelig ikke blive helt ideal
+ved saa simple Midler; men Metoden har den
+Fordel, at de to Billeder kan trykkes oven
+paa hinanden i en Bog eller en Avis, eller de
+kan projiceres som Lysbilleder oven paa
+hinanden paa en Skærm og saaledes vises
+samtidig for en større Forsamling.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Stereoskopfotografi">
+<b>Stereoskopfotografi</b> fremstilles ved Hjælp
+af et Fotografiapparat med to Objektiver. Der
+dannes derved samtidig to Fotografier, som ikke
+er ens, men udviser den samme Forskel, som
+der er i de to Billeder, som et Menneskes
+to Øjne opfatter. Ved at se de to Fotografier

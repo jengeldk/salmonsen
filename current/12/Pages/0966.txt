@@ -1,0 +1,71 @@
+Længde af de i Drift værende Jernbaner ved Slutningen af Aar:
+<table>
+<td><td>1845<td>1855<td>1865<td>1875<td>1885<td>1895<td>1905<td>1910<td>1913<td 2 c>Antal<br>Banekilometer<br>i 1913<td>1917
+<td><td 9 c>Kilometer<td>pr.<br>100<br>km<sup>2</sup><td>pr.<br>10000<br>Indb.<td>Kilometer
+<td><i>Europa</i>:
+<td>Storbritannien og Irland<td r>3277<td r>13411<td r>21382<td r>26803<td r>30843<td r>34058<td r>36760<td r>37579<td r>37717<td r>12.0<td r>8.3<td r>38135
+<td>Belgien<td r>576<td r>1349<td r>2254<td r>3499<td r>4409<td r>5687<td r>7258<td r>8510<td r>8814<td r>29.9<td r>11.9<td r>8814
+<td>Holland<td r>153<td r>314<td r>694<td r>1132<td r>2438<td r>3102<td r>3142<td r>3194<td r>3256<td r>9.8<td r>5.6<td r>3400
+<td>Luxembourg<td r>—<td r>—<td r>171<td r>275<td r>362<td r>—<td r>460<td r>512<td r>525<td r>20.2<td r>21.3<td r>525
+<td>Tyskland<td r>2315<td r>8352<td r>14762<td r>28087<td r>37572<td r>46413<td r>56477<td r>61148<td r>63730<td r>11.8<td r>9.5<td r>64987
+<td>Østrig-Ungarn, Bosnien, Herzegovina<td r>728<td r>2145<td r>5858<td r>16680<td r>22789<td r>30880<td r>39918<td r>44371<td r>46195<td r>6.8<td r>9.0<td r>46195
+<td>Frankrig<td r>833<td r>5535<td r>13562<td r>21547<td r>32491<td r>40230<td r>46466<td r>49385<td r>51188<td r>9.5<td r>13.0<td r>51431
+<td>Schweiz<td r>2<td r>210<td r>1322<td r>1986<td r>2854<td r>3509<td r>4289<td r>4701<td r>4863<td r>11.7<td r>13.7<td r>5299
+<td>Italien<td r>157<td r>1211<td r>4374<td r>7709<td r>10484<td r>15057<td r>16284<td r>16960<td r>17634<td r>6.1<td r>5.1<td r>18245
+<td>Spanien<td r>—<td r>475<td r>4823<td r>6134<td r>8933<td r>12052<td r>14430<td r>14994<td r>15350<td r>3.1<td r>8.2<td r>15350
+<td>Portugal<td r>—<td r>37<td r>700<td r>919<td r>1529<td r>2340<td r>2571<td r>2909<td r>2983<td r>3.2<td r>5.5<td r>2983
+<td>Rumænien<td r>—<td r>—<td r>—<td r>1217<td r>1682<td r>2741<td r>3179<td r>3603<td r>3763<td r>2.9<td r>5.5<td r>3843
+<td>Serbien<td r>—<td r>—<td r>—<td r>—<td r>385<td r>540<td r>610<td r>795<td r>1021<td r>2.1<td r>3.6<td r>1572
+<td>Tyrkiet, Bulgarien, Rumelien<td r>—<td r>—<td r>66<td r>1234<td r>1394<td r>2254<td r>3142<td r>3449<td r>3925<td r>—<td r>—<td r>4731
+<td>Montenegro<td r>—<td r>—<td r>—<td r>—<td r>—<td r>—<td r>—<td r>—<td r>—<td r>—<td r>—<td r>18
+<td>Grækenland<td r>—<td r>—<td r>—<td r>—<td r>323<td r>930<td r>1241<td r>1580<td r>1609<td r>2.5<td r>6.1<td r>1628
+<td>Danmark<td r>—<td r>30<td r>419<td r>1266<td r>1942<td r>2267<td r>3288<td r>3527<td r>3771<td r>9.8<td r>14.6<td r>4252
+<td>Norge<td r>—<td r>68<td r>270<td r>594<td r>1562<td r>1779<td r>2550<td r>3092<td r>3092<td r>1.0<td r>13.2<td r>3179
+<td>Sverige<td r>—<td r>—<td r>1285<td r>3681<td r>6892<td r>9755<td r>12684<td r>13882<td r>14491<td r>3.2<td r>26.5<td r>14951
+<td>Rusland og Finland<td r>144<td r>1048<td r>3940<td r>19584<td r>26847<td r>37717<td r>55006<td r>59559<td r>62198<td r>1.2<td r>4.8<td r>62198
+<td>Malta, Jersey, Man<td r>—<td r>—<td r>—<td r>—<td r>102<td r>110<td r>110<td r>110<td r>110<td r>10.0<td r>3.0<td r>110
+<td r>Europa<td r>8235<td r>34185<td r>75882<td r>142494<td r>195833 <td r>251421<td r>309865<td r>333848<td r>346235<td r>3.5<td r>7.9<td r>351846
+<td>
+<td><i>Asien</i>:
+<td>Sibirien og Mantshuriet<td r>—<td r>—<td r>—<td r>—<td r>—<td r>1753<td r>9116<td r>10846<td v2 r>15910<td v2 r>—<td v2 r>—<td v2 r>} 15910
+<td>Transbaikal<td r>—<td r>—<td r>—<td r>—<td r>500<td r>1433<td r>2669<td r>6544
+<td>Kina<td r>—<td r>—<td r>—<td r>—<td r>11<td r>200<td r>3616<td r>8724<td r>9854<td r>0.09<td r>0.3<td r>11004
+<td>Japan og Korea<td r>—<td r>—<td r>—<td r>64<td r>559<td r>3600<td r>8922<td r>9806<td r>10986<td r>1.7<td r>1.7<td r>14251
+<td>Lilleasien, Syrien, Arabien, Cypern<td r>—<td r>—<td r>77<td r>372<td r>372<td r>1770<td r>3575<td r>5037<td r>5468<td r>0.3<td r>2.8<td r>5468
+<td>Britisk Ostindien<td r>—<td r>350<td r>5412<td r>10489<td r>19308<td r>31322<td r>46054<td r>51647<td r>55761<td r>1.1<td r>1.8<td r>56773
+<td>Persien<td r>—<td r>—<td r>—<td r>—<td r>—<td r>54<td r>54<td r>54<td r>54<td r>0.003<td r>0.06<td r>54
+<td>Siam<td r>—<td r>—<td r>—<td r>—<td r>144<td r>718<td r>1026<td r>1130<td r>0.2<td r>1.2<td r>1570
+<td>Cochinchina, Pondichery. Kambodja, Annam, Tonkin o. s. v.<td r>—<td r>—<td r>—<td r>—<td r>83<td r>323<td r>2781<td r>3506<td r>3697<td r>—<td r>—<td r>3697
+<td>Nederlandsk Indien (Java, Sumatra)<td r>—<td r>—<td r>—<td r>261<td r>1150<td r>2076<td r>2373<td r>2497<td r>2854<td r>0,5<td r>1.0<td r>2854
+<td>Portugisisk Indien<td r>—<td r>—<td r>—<td r>—<td r>—<td r>82<td r>82<td r>82<td r>82<td r>2.2<td r>1.4<td r>82
+<td>Ceylon<td r>—<td r>—<td r>—<td r>146<td r>289<td r>478<td r>751<td r>928<td r>971<td r>1.5<td r>2.4<td r>1080
+<td>Malajiske Stater (Borneo, Celebes)<td r>—<td r>—<td r>—<td r>—<td r>13<td r>140<td r>719<td r>1219<td r>1380<td r>1.6<td r>19.2<td r>1380
+<td r>Asien<td r>—<td r>350<td r>5489<td r>11332<td r>22285<td r>43375<td r>81421<td r>101916<td r>108147<td r>—<td r>—<td r>114123
+<td>
+<td><i>Afrika</i>: 
+<td>Ægypten<td r>—<td r>144<td r>477<td r>1494<td r>1500<td r>2027<td r>5204<td r>5913<td r>5946<td r>0.6<td r>5.3<td r>6375
+<td>Algier og Tunis<td r>—<td r>—<td r>50<td r>606<td r>2061<td r>3301<td r>4906<td r>5044<td r>6382<td r>0.7<td r>9.5<td r>6791
+<td>Sydafrikanske Union<td r>—<td r>—<td r>106<td r>354<td r>2979<td r>6569<td r>7950<td r>11996<td r>13756<td r>—<td r>—<td r>14114
+<td>Rhodesiske Baner, engelske, tyske, franske, italienske, portugisiske og belgiske Kolonier<td r>—<td r>—<td r>122<td r>122<td r>492<td r>1250<td r>7673<td r>13901<td r>18225<td r>—<td r>—<td r>20873
+<td r>Afrika<td r>—<td r>144<td r>755<td r>2576<td r>7032<td r>13147<td r>26211<td r>36854<td r>44309<td r>—<td r>—<td r>48153
+<td>
+<td><i>Amerika</i>:
+<td>De forenede Stater<td r>7454<td r>29566<td r>56452<td r>119220<td r>207508<td r>292431<td r>351503<td r>388173<td r>410918<td r>4.4<td r>42.3<td r>418768
+<td>Kanada<td r>351960<td r>3590<td r>7153<td r>16330<td r>25712<td r>33147<td r>39792<td r>47150<td r>0.5<td r>60.8<td r>49549
+<td>Mexiko<td r>—<td r>16<td r>142<td r>526<td r>5600<td r>11890<td r>19678<td r>24559<td r>25492<td r>1.3<td r>17.5<td r>25492
+<td>New Foundland<td r>—<td r>—<td r>—<td r>—<td r>145<td r>750<td r>1072<td r>1072<td r>1238<td r>1.1<td r>52.2<td r>1407
+<td>Mellemamerika (Guatemala, Salvador, Costarica, Nicaragua, Honduras og Panama)<td r>—<td r>—<td r>—<td r>111<td r>618<td r>1000<td r>1916<td r>2573<td r>3227<td r>—<td r>—<td r>3227
+<td>Columbias forenede Stater<td r>—<td r>77<td r>77<td r>105<td r>265<td r>520<td r>661<td r>821<td r>1000<td r>0.08<td r>2.2<td r>1139
+<td>Venezuela<td r>—<td r>—<td r>—<td r>90<td r>153<td r>1020<td r>1020<td r>1020<td r>1020<td r>0.1<td r>4.2<td r>1020
+<td>Brasiliens forenede Stater<td r>—<td r>60<td r>600<td r>1660<td r>7062<td r>12064<td r>16805<td r>21370<td r>24985<td r>0.3<td r>10.0<td r>26646
+<td>Argentina<td r>—<td r>—<td r>289<td r>1887<td r>5484<td r>14119<td r>19971<td r>28636<td r>33215<td r>1.2<td r>67.9<td r>35904
+<td>Paraguay<td r>—<td r>—<td r>72<td r>72<td r>72<td r>253<td r>253<td r>253<td r>373<td r>0.1<td r>5.9<td r>468
+<td>Uruguay<td r>—<td r>—<td r>—<td r>317<td r>500<td r>1800<td r>1948<td r>2488<td r>2638<td r>1.5<td r>25.3<td r>2638
+<td>Chile<td r>—<td r>81<td r>543<td r>991<td r>2100<td r>3166<td r>4643<td r>5675<td r>6370<td r>0.8<td r>19.2<td r>8069
+<td>Peru<td r>—<td r>13<td r>90<td r>1136<td r>1309<td r>1667<td r>1909<td r>2550<td r>2766<td r>0.2<td r>5.8<td r>2781
+<td>Bolivia<td r>—<td r>—<td r>—<td r>56<td r>70<td r>1000<td r>1129<td r>1217<td r>2418<td r>0.2<td r>10.7<td r>2418
+<td>Ecuador<td r>—<td r>—<td r>—<td r>60<td r>69<td r>300<td r>300<td r>527<td r>1049<td r>0.4<td r>7.5<td r>1049
+<td>Britisk og nederlandsk Guyana<td r>—<td r>—<td r>35<td r>35<td r>35<td r>35<td r>182<td r>227<td r>227<td r>—<td r>—<td r>227
+<td>De Store og smaa Antiller<td r>194<td r>644<td r>644<td r>679<td r>1926<td r>2596<td r>4061<td r>5420<td r>6022<td r>—<td r>—<td r>6057
+<td r>Amerika<td r>7683<td r>32417<td r>62534<td r>134098<td r>249246<td r>370370<td r>460196<td r>526382<td r>570108<td r>—<td r>—<td r>586859
+</table>

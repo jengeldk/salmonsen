@@ -1,0 +1,114 @@
+længere bevæge sig jævnt, men besidde en
+Acceleration mod den ved <i>B</i> betegnede Sidevæg (Fig.
+4). Denne Acceleration vil altid være den
+samme uafhængig af Legemets Natur, idet den
+øjensynligt netop er lig med <i>a</i>. Inden i Kassen
+hersker der derfor Forhold, som er nøjagtig
+analoge med Forholdene i et Tyngdefelt, og en
+Iagttager inden i Kassen vil ikke være i Stand
+til at opdage, at hans Tyngdefelt kun er
+frembragt ad kunstig Vej og ikke er et »virkeligt«
+Tyngdefelt; i alt Fald vil han ikke kunne opdage
+det ved Hjælp af mekaniske Forsøg inden i
+Kassen. Einstein postulerer nu, at denne
+Ækvivalens mellem et kunstigt og et virkeligt
+Tyngdefelt ikke alene gælder for Forløbet af
+mekaniske Fænomener, men ogsaa for Forløbet
+af et hvilket som helst (f. Eks.
+elektro-magnetisk ell. optisk) Forsøg (Einstein's
+Ækvivalensprincip, 1907).
+
+Heraf følger først og fremmest, at en
+Lysstraale i et Tyngdefelt ikke længere vil beskrive
+en retliniet Bane, men p. Gr. a. Tyngdens
+Virkning vil blive afbøjet. Dette indses let, naar
+man bemærker, at i den ovenbeskrevne kunstigt
+accelererede Kasse en Lysstraale vil beskrive en
+svagt krummet Bane, fordi den ligesom en
+hvilken som helst anden fri Bevægelse vil være
+accelereret relativt til Kassens Vægge. Denne
+Afbøjning af Lyset i et Tyngdefelt er i Alm.
+overordentlig ringe, men Einstein kunde
+udregne (1916), at Lyset fra en Stjerne, der paa
+sin Vej mod Jorden passerer tæt forbi Solens
+Overflade, maatte p. Gr. a. Solens Tiltrækning
+blive afbøjet saa meget fra sin opr. Retning
+(1,7 Buesek.) (sml. Fig. 5), at den dermed
+forbundne Forskydning af Stjernens tilsyneladende
+Plads paa Himlen vilde være iagttagelig med
+Hjælp af de moderne Hjælpemidler. Forsøget
+kan kun gøres ved under en total
+Solformørkelse at iagttage den Plads, som en Stjerne, der
+ses tæt ved Solens Rand, indtager i Forhold til
+andre Stjerner, og at sammenligne denne med
+Pladsen, den indtager paa Tider, hvor Solen
+staar et helt andet Sted paa Himlen. Einstein's
+Forudsigelser blev paa slaaende Maade
+bekræftet ved de Observationer, der er udført af to
+eng. Solformørkelsesekspeditioner Maj 1919, og
+ved Ekspeditionerne, der fandt Sted 1923.
+
+En anden elementær Konsekvens af
+Ækvivalensprincippet, som Einstein allerede paa et
+tidligt Tidspunkt gjorde opmærksom paa (1911),
+bestaar i, at en Iagttager, som hviler i et
+Tyngdefelt, og som observerer Urenes Gang og
+overhovedet Processernes Tidsforløb paa et Punkt
+i Tyngdefeltet, der ligger et Stykke »lavere«
+end han selv, vil komme til det Resultat, at
+Tiden gaar »langsommere« i dette Punkt end
+hos ham selv. Dette følger umiddelbart, naar
+man betragter Forholdene i det »kunstige«
+Tyngdefelt i den accelererede Kasse i Fig. 4;
+tænker vi os f. Eks. at to Lyssignaler bliver
+udsendt fra <i>B</i> mod <i>A</i> med en Tidsforskel paa
+1 Sekund, saa vil Signalerne indtræffe i Punktet
+<i>A</i> med en Tidsforskel, som er <i>a</i> X <i>l</i> / <i>c</i><sup>2</sup> Sekund
+større, hvor <i>l</i> betyder Afstanden mellem <i>A</i> og
+<i>B</i>. Ved at forfølge denne Tanke kunde Einstein
+slutte, at Tidsforløbet af en Proces paa Solens
+Overflade, iagttaget fra Jorden, vil foregaa
+1000002 Gange langsommere end samme Proces
+vil forløbe her paa Jorden. Det interessante er
+nu, at dette virkelig kan prøves, ved nøjagtigt
+at sammenligne Bølgelængderne af de
+Frauenhofer'ske Linier i Solspektret med
+Bølgelængderne af de tilsvarende Spektrallinier, naar
+disse bliver frembragt i en Lyskilde her paa
+Jorden. Iflg. Einstein burde de Frauenhofer'ske
+Linier være en ganske lille
+Smule forskudt mod rødt. De
+sidste Aars meget nøjagtige
+Undersøgelser synes at tale
+for Eksistensen af denne
+saakaldte Einstein-Effekt.
+
+Einstein har forstaaet at
+forene Ækvivalensprincippet og
+den specielle R. til en
+sammenhængende Tyngdekraftsteori. Denne kaldes for
+den alm. R., fordi et af dens
+væsentlige Træk er, at den betragter
+Koordinatsystemer, hvis Bevægelser relativt til hinanden er
+af fuldt almindelig Beskaffenhed (jfr ovenst.
+Eksempel med Kassen), medens den specielle
+R. kun betragter Koordinatsystemer, der
+bevæger sig med konstant Hastighed i Forhold
+til hinanden.
+
+Grundtanken i Teorien er, at den specielle
+R.'s Love paa alle Steder i Universet, hvor
+der hersker hvad man plejer at kalde et
+Tyngdefelt, ikke maa anvendes i et
+Koordinatsystem, som hviler i dette Tyngdefelt, men
+kun i et System, i hvilket Inertiloven
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<img>Fig 5. St. = Stjernens Plads. S. = Solen.
+J<sub>1</sub> og J<sub>2</sub>, er to Punkter, som Jorden passerer i sin Bane omkring Solen.
+L<sub>1</sub> og L<sub>2</sub>, Lysstraalernes Vej fra Stjernen til Jorden.
+L<sub>2</sub> er krummet i Nærheden af Solen paa Grund af dennes Tiltrækning.
+St' = Stjernens tilsyneladende Plads, naar Jorden er i J<sub>2</sub>.</img>

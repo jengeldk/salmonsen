@@ -1,0 +1,123 @@
+<i>La cryptographie dévoilée</i> (1875). Ny Systemer
+fremkommer ofte. Et fra Revolutionstiden
+benævnes efter Mirabeau, et noget yngre efter
+Napoleon I, et fra de senere Aar tilskrives
+Nihilisterne og siges først at være blevet dannet
+og benyttet af dem. Andre Systemer skyldes
+Grev Gronfeld, Krohn o. a. I Danmark er ny
+Arter L. opfundne af Prof. Jul. Petersen
+(<i>Système cryptographique</i> [Kbhvn 1875]), af
+Ingeniør Köhl o. a. Som Eksempler paa L.,
+bestaaende af vilkaarlig valgte Tegn, kan anføres
+de Bogstavtegn, der lader sig danne af
+Figurerne <img></img> og <img>yC</img> dels uden, dels med
+Prikker i. Ordet »Post« vil saaledes skrives
+<img></img> idet man fordeler
+Bogstaverne i det danske Alfabet imellem de
+Tegn, Figuren indeholder, saaledes:
+<img></img>
+Selvfølgelig kan Bogstaverne ogsaa fordeles
+paa mange andre Maader og benyttes til L.,
+kun at man har underrettet sin
+Korrespondent derom, og man er vis paa, at han rigtig
+har modtaget Meddelelsen. Vil man derimod
+benytte de sædvanlige Bogstavtegn, men
+saaledes, at de ikke har deres alm. Bogstavværdi,
+kan man bl. a. gaa ud fra flg. Skema (<i>table
+carrée</i> ell. »Multiplikationstabellen«):
+<table>
+<td c>a<td c>b<td c>c<td c>d<td c>e<td c>f<td c>g<td c>h<td c>i<td c>j<td c>k<td c>l<td c>m<td c>n<td c>o<td c>p<td c>q<td c>r<td c>s<td c>t<td c>u<td c>v<td c>x<td c>y<td c>z<td c>æ<td c>ø
+<td c>b<td c>c<td c>d<td c>e<td c>f<td c>g<td c>h<td c>i<td c>j<td c>k<td c>l<td c>m<td c>n<td c>o<td c>p<td c>q<td c>r<td c>s<td c>t<td c>u<td c>v<td c>x<td c>y<td c>z<td c>æ<td c>ø<td c>a
+<td c>c<td c>d<td c>e<td c>f<td c>g<td c>h<td c>i<td c>j<td c>k<td c>l<td c>m<td c>n<td c>o<td c>p<td c>q<td c>r<td c>s<td c>t<td c>u<td c>v<td c>x<td c>y<td c>z<td c>æ<td c>ø<td c>a<td c>b
+<td c>d<td c>e<td c>f<td c>g<td c>h<td c>i<td c>j<td c>k<td c>l<td c>m<td c>n<td c>o<td c>p<td c>q<td c>r<td c>s<td c>t<td c>u<td c>v<td c>x<td c>y<td c>z<td c>æ<td c>ø<td c>a<td c>b<td c>c
+</table>
+og saa fremdeles indtil sidste Alfabet:
+ø a b c d e f g h i j k l m n o p q r s t u v x y z æ.
+
+Man har kun at meddele sin Korrespondent,
+hvilket Alfabet man vil bruge, hvad der sker
+ved, at man betegner, i hvilken af de
+vandrette Linier det findes. Det fjerde (begyndende
+med <i>d</i>) svarer nærmest til det af Jul. Cæsar
+anvendte lat. Alfabet. Vil man efterhaanden
+benytte fl. Alfabeter, kan man udtrykke det
+ved et Ord. Vælger man f. Eks. Ordet bed,
+viser man, at man først vil bruge det andet
+(hvor <i>b</i> staar for <i>a</i>), derpaa det femte og til
+sidst det fjerde Alfabet o. s. v.
+
+Et andet System, der i det væsentlige skal
+gaa tilbage til Kircher, bestaar af
+Kombinationer af Bogstaver og Tal efter flg. Tabel:
+<table>
+<td><td c>a<td c>b<td c>c<td c>d<td c>e<td c>f<td c>g<td c>h<td c>i<td c>j<td c>k<td c>l<td c>m<td c>n<td c>o<td c>p<td c>q<td c>r<td c>s<td c>t<td c>u<td c>v<td c>x<td c>y<td c>z<td c>æ<td c>ø
+<td>A<td c>1<td c>2<td c>3<td c>4<td c>5<td c>6<td c>7<td c>8<td c>9<td c>10<td c>11<td c>12<td c>13<td c>14<td c>15<td c>16<td c>17<td c>18<td c>19<td c>20<td c>21<td c>22<td c>23<td c>24<td c>25<td c>26<td c>27
+<td>B<td c>2<td c>3<td c>4<td c>5<td c>6<td c>7<td c>8<td c>9<td c>10<td c>11<td c>12<td c>13<td c>14<td c>15<td c>16<td c>17<td c>18<td c>19<td c>20<td c>21<td c>22<td c>23<td c>24<td c>25<td c>26<td c>27<td c>1
+<td>C<td c>3<td c>4<td c>5<td c>6<td c>7<td c>8<td c>9<td c>10<td c>11<td c>12<td c>13<td c>14<td c>15<td c>16<td c>17<td c>18<td c>19<td c>20<td c>21<td c>22<td c>23<td c>24<td c>25<td c>26<td c>27<td c>1<td c>2
+<td 10>o. s. v. indtil:
+<td>Ø<td c>27<td c>1<td c>2<td c>3<td c>4<td c>5<td c>6<td c>7<td c>8<td c>9<td c>10<td c>11<td c>12<td c>13<td c>14<td c>15<td c>16<td c>17<td c>18<td c>19<td c>20<td c>21<td c>22<td c>23<td c>24<td c>25<td c>26
+</table>
+
+Naar man vil sende en Meddelelse, maa man
+først meddele sin Korrespondent det Ord eller
+den Sætning, der skal tjene til Nøgle, og hvis
+Bogstaver det ene efter det andet opsøges i
+den øverste vandrette Linie (med de smaa
+Bogstaver); hvert Tal staar da i samme
+vandrette Linie som det søgte Tal. Eksempel. Nøgle:
+Dyd belønnes: Meddelelse: Te stegen 10 Kr=
+23. 1. 22. 21. 9. 18. 4. 27. 6. 13. 2. 21; nemlig:
+under <i>d</i> staar 23 ud for T, under <i>y</i>: 1 ud for
+E, under <i>d</i>: 22 ud for S, under <i>b</i>: 21 ud for
+T, under <i>e</i>: 9 ud for E, under <i>l</i>; 18 ud for G,
+under <i>ø</i>: 4 ud for E, under <i>n</i>: 27 ud for N,
+under <i>n</i>: 6 ud for T, under <i>e</i>: 13 ud for I,
+under <i>s</i>: 2 ud for K, under <i>d</i>: 21 ud for R (man
+begynder nemlig, naar Nøglen er helt anvendt,
+forfra igen, altsaa her med <i>d</i>).
+
+I sidste Halvdel af 19. Aarh. har L. ved Siden
+af den tidligere Brug ved Oversendelsen af
+Budskaber, affattede i grafiske Tegn, faaet en
+helt ny, særdeles vid Anvendelse, takket være
+den umaadelige Udvikling, som Telegrafens
+Brug har naaet i alle civiliserede Lande. L.
+har derved fundet stor Anvendelse i Kredse,
+som tidligere kun havde liden ell. ingen Brug
+for L. Medens det forhen mest var officielle
+Personligheder, Diplomater, militære
+Embedsmænd o. l., som anvendte L., bruges L. i vore
+Dage, foruden af disse, særdeles meget saavel
+af Journalister som især af Købmænd.
+Journalisten er det altid om at gøre at opspore
+Nyheder, saavel Efterretninger om nylig skete
+Begivenheder som Beslutninger, tagne af
+Autoriteter, for derpaa hurtigst muligt at
+underrette sit Blad derom, helst saaledes, at
+Hemmeligheden ikke røbes undervejs; og
+Købmanden maa, naar han erfarer Forandring i
+Konjunktur, snarest sende sine Ordrer, saa godt
+skjulte, at ingen undervejs før ham kan
+benytte sig deraf. Ved Affattelsen af
+Telegrammer, særlig naar de sendes fra ell. til fjerne
+Lande, spiller Hensynet til Bekostningen en
+stor Rolle. Det gælder om paa een Gang at
+udtrykke sig kort og tillige saaledes, at
+Meddelelserne ikke er let gennemskuelige af alle
+og enhver. Hyppig brugte Sætninger udtrykkes
+derfor ofte med et enkelt, forud aftalt Ord.
+Man har nu trykte Hjælpemidler, en Art
+Ordbøger med hensigtsmæssige Gengivelser ved
+Ord ell. Tal af hele Sætninger o. l. En saadan
+Bog, der naturligvis er beregnet paa
+international Brug, kaldes <i>Code</i>. Den anvendes ofte
+uforandret, men for større Sikkerheds Skyld
+aftales oftere adskillige Forandringer og
+Ombytninger. Herved bliver en saadan <i>Code</i> en
+virkelig L., hvad en uforandret <i>Code</i> kun til
+Dels kan siges at være. Det følger for øvrigt
+af sig selv, at man ikke har saa stor Frihed,
+naar man benytter L. til telegrafiske
+Meddelelser, som naar man sender skriftligt Budskab.
+Man maa naturligvis rette sig efter de Landes
+Love og Forskrifter, som Depechen skal

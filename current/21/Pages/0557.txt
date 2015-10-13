@@ -1,0 +1,102 @@
+Koefficient, der er et Maal for Finheden af Skibets
+Form, varierer mellem 0,4 for slanke Skibe som
+Torpedobaade og Yachter, og 0,8 for fyldige
+Skibe som langsomtgaaende Fragtdampere.
+
+Med <sp>Stabilitet</sp> betegnes Skibets Evne
+til at vende tilbage til sin oprejste Stilling, naar
+det af ydre Kræfter (Vind og Sø) krænges over
+i en skraa Stilling. Er denne Egenskab til Stede
+i stor Udstrækning, kalder man et saadant Skib
+et <sp>stift Skib</sp>, medens et Skib, som kun i
+ringe Grad har denne Egenskab, benævnes
+<sp>rankt</sp>. Betingelsen for, at et Skib kan
+svømme i Ligevægt paa Vandet, er, som tidligere
+anført, at Skibets Vægt er lig Opdriften af det
+fortrængte Vand, og at Skibets Tyngdepunkt <i>G</i>
+ligger i samme lodrette Linie som
+Opdriftscentret <i>B</i>. Skibets Vægt <i>P</i> virker lodret nedefter
+gennem Tyngdepunktet <i>G</i> og Opdriften <i>P1</i>
+lodret opefter gennem Opdriftscentret <i>B</i> (Fig. 2).
+
+Krænges Skibet, ved Paavirkning af ydre
+Kræfter omkr. sin Længdeakse, Vinklen θ, saa
+at det flyder ved Vandlinie <i>V1L1</i>, vil, da
+Vægten er konstant, Deplacementet ligeledes være
+konstant, medens Deplacementets Form er
+ændret. Kilevolumenet <i>LOL1</i> vil derfor være lig
+Kilevolumenet <i>VOV1</i>. Skibets Tyngdepunkt <i>G</i> har
+ikke ændret sin Stilling ved Krængningen,
+medens Opdriftscentret er rykket fra Stillingen <i>B</i>
+til <i>B1</i>, hvor <i>BB1</i> er parallel med Linien <i>bb1</i>,
+der forbinder Tyngdepunkterne i
+Kilevolumenerne, og Afstanden <i>BB1</i> er lig
+
+Kilevolumen X <i>bb1</i> / Deplacement.
+
+Skibets Vægt virker lodret nedefter gennem
+<i>G</i>, medens den lige saa store Opdrift virker
+lodret opefter gennem <i>B1</i>, saaledes, at der
+opstaar et Kraftpar, hvis Moment <i>P . Gz</i> virker
+til at bringe Skibet tilbage til den lodrette
+Stilling. Skæringspunktet <i>M</i> mellem Opdriftslinien
+gennem <i>B1</i> og den oprindelige Opdriftslinie
+kaldes <sp>Metacentret</sp>. Af Tegningen ser man,
+at Beliggenheden af <i>M</i> er bestemmende for
+Skibets Ligevægtstilstand, idet denne er stabil,
+ligegyldig ell. ustabil, efter som <i>GM</i> er positiv, Nul
+ell. negativ. Punktet <i>M</i>'s Beliggenhed er
+afhængig af Skibets Form, idet <i>M</i> rykker højere
+op, jo længere Opdriftscentret <i>B1</i> flytter sig ud
+fra <i>B</i> ved Overkrængningen, d. v. s., Højden af
+<i>M</i> forøges, naar Skibets Bredde forøges.
+Stabilitetsmomentet <i>P . Gz</i> er proportionalt med
+Stabilitetsarmen <i>Gz</i>, som ved smaa
+Krængningsvinkler kan sættes lig <i>GMsinθ</i>, saaledes at
+Metacenterhøjden <i>MG</i> er et Maal for Skibets
+Begyndelsesstabilitet. For større Krængningsvinkler
+over 10—15 rykker Metacentret ud fra
+Diametralplanet, og <i>Gz</i> maa for saadanne Vinkler
+beregnes ved Hjælp af Kilevolumenerne. Ved
+at afsætte de fundne Værdier af <i>P . Gz</i> ved de
+forsk. Krængningsvinkler faar man en statisk
+Stabilitetskurve for Skibet (Fig. 3). Integreres
+denne Kurve til en bestemt Krængningsvinkel
+<i>α</i>, finder man Skibets dynamiske Stabilitet, ell.
+den Energi, som er nødvendig for at krænge
+Skibet Vinklen α over.
+
+Tyngdepunktet <i>G</i> bestemmes ved
+Projekteringen kalkulatorisk; naar Skibet er færdigt,
+foretages et <sp>Krængningsforsøg</sp> for at finde
+den nøjagtige Beliggenhed af <i>G</i>.
+Krængningsforsøget udføres ved, at en kendt Vægt flyttes
+fra den ene Side af Skibet til den anden,
+samtidig med at den derved opstaaede
+Krængningsvinkel maales. Paa Grundlag af disse
+Observationer kan den nøjagtige
+Metacenterhøjde <i>GM</i> beregnes, og da
+<i>M</i> forud er bestemt ved
+Beregning, findes Beliggenheden af <i>G</i>. Den tværskibs
+Metacenterhøjde har særlig Bet. for Skibets
+Bevægelse i Søen, idet en for stor Metacenterhøjde
+bevirker, at Skibet faar haarde, pludselige
+Bevægelser, medens en for ringe Metacenterhøjde
+ikke yder tilstrækkelig Sikkerhed mod
+Overkrængniing. En passende Metacenterhøjde for
+normale Skibe, som skal have bløde Bevægelser
+i Søen, er 0,5 m, men for specielle Skibe, som
+f. Eks. Jernbanefærger, der skal føre stor Last
+paa Dækket, maa Metacenterhøjden være
+betydelig større, hvorfor saadanne Færger har
+haarde Bevægelser, naar de sejler uden
+Dækslast. — Metacenterhøjden som ovf. behandlet er
+Skibets <sp>tværskibs Metacenterhøjde</sp>,
+som gælder for Drejning af Skibet om en
+langskibs Akse, men paa tilsvarende Maade kan
+man bestemme Skibets <sp>langskibs</sp>
+
+<img>Fig. 2. Tværsnit af Skib, overkrænget for
+Stabilitetsundersøgelse.</img>
+
+<img>Fig. 3. Statisk Stabilitetskurve.</img>

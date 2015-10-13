@@ -1,0 +1,104 @@
+den saaledes udviklede Belysningsteknik, der
+navnlig skylder Mænd som <sp>Auer</sp>,
+<sp>Drehschmidt</sp>, <sp>Bertelsmann</sp> o. fl. sin
+Fremkomst. — Man skelner mellem <sp>naturlig</sp> og
+<sp>kunstig</sp> Belysning.
+
+Den <sp>naturlige</sp> Belysning er Solens Lys,
+Dagslyset; dette tilføres Rummene enten direkte
+gennem Vinduerne sammen med Lys og
+Solvarme ell. indirekte gennem Lyskasser,
+Lysgaarde o. l.
+
+<sp>Kunstig</sp> Belysning faas af forsk. Lyskilder,
+saasom: a) Vokslys, Tællelys, Stearinlys o. l.
+b) Olier (vegetabilske ell. mineralske), c) Forsk.
+Gasblandinger, hvoraf den almindeligste er
+<sp>Stenkulsgas</sp> (i Reglen kun benævnet »Gas«
+ell. »Kulgas«), dernæst Acetylengas, Luftgas
+m. m., d) elektrisk Lys.
+
+1) <sp>Belysningens Styrke</sp>. En
+Lyskilde udstraaler samtidigt Lys i mange
+forskellige Retninger, men man maa ingenlunde tro,
+at Udstraalingen i de forskellige Retninger
+er ens.
+
+For at danne sig et Skøn over Lysets Styrke
+maa man sammenligne denne med Lyset fra en
+<sp>Lysenhed</sp>. Saaledes at maale Lysstyrken
+kaldes at <sp>fotometrere</sp> (Fotometri,
+Lysstyrkemaaling), og det <sp>Normallys</sp>, der bruges
+som Enhed, er i Reglen et <sp>Hefnerlys</sp>,
+ɔ: den Lysmængde, der udsendes fra den med
+Amylacetat brændende <sp>Hefnerlampe</sp> ell.
+<sp>Amylacetatlampe</sp> (s. d.), der har en
+bestemt vedtagen Konstruktion, Flammehøjde
+o. s. v.
+
+Et Hefnerlys betegnes i Reglen HL ell. L og
+kan nu betragtes som den almindeligst brugte
+Enhed; dog anvendes der i England ogsaa et
+»eng. Normal-Spermacetlys«, der kan regnes at
+være c. 13 % mere end 1 HL.
+
+Eftersom Lyskilden er mere ell. mindre
+fjernet fra den Flade, der skal belyses, bliver
+Belysnings<sp>graden</sp> mindre ell. større, og som
+Enhed for den <sp>Belysningsgrad</sp>, en Flade
+modtager, regnes almindeligvis en Lux, ɔ: den
+Grad af Belysning, en hvid Flade modtager,
+naar den belyses af 1 HL, ophængt 1 m lodret
+over Fladen.
+
+Til Forstaaelse af, hvor meget de forsk.
+Belysningsgrader svarer til i Lux, skal anføres:
+
+Ude i det Fri kan Belysningen fra den
+mørkeste Vinterdag til den klareste Sommerdag
+svinge fra c. 700 til c. 150000 Lux. En Plads
+ved Vinduet i en alm. Stue har paa en alm. klar
+Dag c. 2000 Lux. Selv den klareste
+Maaneskinsaften giver kun, naar al kunstigt Lys mangler,
+c. 0,4 Lux. I en Hovedgade med kunstig
+Belysning er der om Aftenen, naar alt er tændt,
+i Reglen 2—4 Lux, i Sidegader 0,5—1,0 Lux (se
+i øvrigt Tabel 2).
+
+At vi finder os til Rette under alle disse
+forsk. Forhold viser, i hvor høj Grad det
+menneskelige Øje ejer Tilpasningsevne for de forsk.
+Grader af Belysning.
+
+For at kunne bedømme, hvorledes en Lampe
+vil virke, maa man vide, hvor meget Lys den
+udsender i de forsk. Retninger. Dette
+undersøges ved Fotometrering, og Resultatet angives
+nutildags i Reglen grafisk ved, at man ud ad
+forsk. Radier, svarende til den Vinkel,
+hvorunder der er maalt, afsætter det fundne
+Resultat. Den saaledes fremkomne Kurve kaldes
+Lampens <sp>Polarkurve</sp> ell. <sp>Lyskurve</sp>, og
+Fig. 1 viser en saadan Kurve for en 1200 Lys
+Presgaslampe. Af Polarkurven fremgaar, at der
+lodret under denne bestemte Lampe udsendes
+c. 825 L, at den stærkeste Lysmængde udsendes
+under c. 45° med den lodrette og er over 1300 L,
+at der vandret ud fra Lampen udstraaler 1000
+L o. s. v.. Da det i Reglen er den Nytte, der
+haves af Lampens underste Halvdel, det
+kommer an paa, angives i Reglen den Middelværdi,
+hele den fra den nederste »Hemisfære« udsendte
+Lysmængde har (det bemærkes, at denne
+Middelsværdi <sp>ikke</sp> er det aritmetiske Middeltal,
+men maa udledes ad andre Veje efter bestemte
+Regler, som det vil være for vidtløftigt at
+meddele her), og for den i Fig. 1 omtalte Lampe
+har dette Middeltal været c. 1200, og Lampen
+er derfor benævnt en »1200 Lys Lampe«.
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>

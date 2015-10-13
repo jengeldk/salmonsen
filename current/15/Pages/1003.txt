@@ -1,0 +1,139 @@
+<sp>Stephenson</sp> 1843 opfandt den efter ham benævnte
+<sp>Kulissestyring</sp>. Ved den Stephenson'ske
+Kulissestyring er Enderne af Forlæns- og
+Baglænsekscentrikstængerne forbundne med en
+<sp>Kulisse</sp> ell. <sp>Kvadrant</sp>, bestaaende af en efter
+en Cirkelbue formet svær Jernplade, der
+vender Konkaviteten mod Ekscentrikakslen, og som
+er forsynet med en Udskæring, hvori en med
+Gliderstangen fast forbunden Klods, den
+saakaldte <sp>Kulissesten</sp> ell.
+<sp>Kvadrantklods</sp>, kan forskydes. Ved Hjælp af
+<sp>Omstyrinigsstangen</sp> med dertil hørende
+Stangforbindelser kan man fra Førerpladsen
+sænke ell. hæve Kvadranten, saaledes at
+Kvadrantklodsen, og dermed Glideren kommer til
+at indtage forsk. Stillinger, og der køres forlæns
+ell. baglæns, efter som Glideren paavirkes af
+den øverste ell. nederste Ekscentrikstang. Staar
+Kvadrantklodsen i Midterstillingen, vil Glideren
+staa stille og helt afspærre for Dampen, i alle
+andre Stillinger aabner Glideren mere eller
+mindre for Dampkanalerne, ɔ: der arbejdes
+med større ell. mindre Ekspansion i Cylinderen
+(se nærmere under <sp>Dampmaskine</sp>). De to
+Cylindres Kvadranter er naturligvis saaledes
+forbundet med hinanden, at de bevæges
+samtidig, saa at begge Gliderne indstilles i det
+rette Forhold til hinanden. Ved Stephenson's
+Styring forandres Gliderens Forspring
+(<sp>Foriling</sp>) med Ekspansionsgraden. Ved den
+af <sp>Gooch</sp> angivne modificerede Styring
+vender Kvadranten Konkaviteten mod Glideren og
+forskydes ikke, hvorimod den Del af den
+leddede Gliderstang, som er forbundet med
+Kvadrantklodsen, kan hæves ell. sænkes; ved
+denne Styring har Glideren samme Forspring ved
+alle Eksipansionsgrader. Ved <sp>Allan</sp>'s (<sp>Trick</sp>'s)
+Styring er Kvadranten retlinet, og baade
+Kvadrant og den drejelige Del af Gliderstangen
+forskydes i indbyrdes modsatte Retninger;
+denne Styring arbejder paa samme Maade som
+Stephenson's. <sp>Heusinger von Waldegg</sp>
+har konstrueret en Styring til Anbringelse uden
+for Lokomotivhjulene. Denne Styring har kun
+een Ekscentrik, der er kilet paa en
+Kontrakrumtap (<sp>Vingekrumtap</sp>), som er anbragt
+udvendig paa Drivhjulet og forsat 90° bag ud
+for Stemplets Krumtap ved Fremadkørsel.
+Ekscentrikstangen er i Indgribning med den ene
+Ende af en Kvadrant, som kan dreje sig om
+sit Midtpunkt. Paa Gliderstangen er anbragt
+drejeligt en nedadrettet Stang, hvis anden
+Ende er leddet forbundet med et Fremspring paa
+Krydshovedet, og som under Gliderstangen
+ligeledes er i leddet Forbindelse med
+Kvadrantklodsen ved Hjælp af en Stang, hvis Længde
+er lig med Kvadrantens Radius, saa at
+Gliderstangens Bevægelse bliver Resultanten af
+Krydshovedets og Kvadrantens Bevægelser;
+Gliderens Forspring er konstant ligesom ved
+Gooch's Styring. Styringen kaldes ogsaa
+<sp>Walschaert</sp>'s. I Tidernes Løb er der i øvrigt
+fremkommet en hel Del andre
+Styringskonstruktioner, f. Eks. af <sp>Helmholtz</sp>, <sp>Joy</sp>,
+<b>Klose</b>, <sp>Koppel</sp> m. fl., ligesom man ogsaa
+har forsøgt Styringer med
+<sp>Dobbeltglidere</sp> (<sp>Haberkorn</sp> i Amerika),
+<sp>Corliss-Drejeglidere</sp>
+(<sp>Durrant-Lancauchez</sp> paa Orléans-Banen i Frankrig) og
+<sp>Ventilstyringer</sp> (<sp>Lentz</sp>'s Styring f. Eks. i
+Forbindelse med <sp>Stumpf</sp>'s
+Jævnstrømsdampmaskine), men nogen særlig Udbredelse har
+disse Styringer dog ikke faaet. Som Glidere
+anvendes alle de fra stationære Dampmaskiner
+kendte Arter af <sp>Planglidere</sp>
+(<sp>Kasseglidere</sp>, <sp>Trick's Kanalglider</sp>) og
+<sp>Stempel</sp>- (<sp>Rund</sp>-) <sp>glidere</sp> (<sp>Vauclain</sp>'s,
+<sp>Hochwald</sp>'s m. fl.); (nærmere angaaende
+Styringer og Glidere, se <sp>Dampmaskine</sp>).
+
+Da L.'s Dampmaskine arbejder meget
+uøkonomisk p. Gr. a. den ugunstige Dampfordeling,
+som Brugen af enkelt Glider medfører, og da
+man helst undgaar Anvendelsen af
+Ekspansionsglidere, fordi Maskineriet herved kompliceres
+for meget, hvad der er uheldigt ved de store
+Hastigheder, hvormed et L. skal kunne køre,
+har man efterhaanden forsøgt fl. Udveje for at
+indføre Forbedringer og opnaa større Økonomi.
+Til disse Foranstaltninger hører Anvendelsen af
+<sp>Høj- og Lavtryks</sp>-
+(<sp>Kompound</sp>-)<sp>princippet</sp> og af <sp>overhedet Damp</sp>, og nu i
+den allernyeste Tid af <sp>Dampturbiner</sp> i
+St f. Stempeldampmaskiner, idet Dampens
+Nyttevirkning er større i hine end i disse
+sidste. Desuden har man gennem Indførelse af
+<sp>Damptørrere</sp> og
+<sp>Fødevandsforvarmere</sp> o. a. Detailkonstruktioner ogsaa søgt at
+opnaa bedre Økonomi.
+
+Ved <sp>Kompoundsystemet</sp> lader man
+Dampen ekspandere først i een Cylinder og
+Spildedampen herfra dernæst i en anden og
+som Regel større Cylinder, inden den gaar i
+Skorstenen. Paa sin Vej mellem de to Cylindre
+passerer Spildedampen et Forbindelsesrør ell.
+en Beholder (<sp>Receiveren</sp>), der — for at
+undgaa Afkøling af Dampen — i Reglen
+anbringes i Røgkamret. Ved dette System opnaas, at
+den samlede Ekspansion af Dampen kan gøres
+større end efter Højtrykssystemet, og man
+bliver derved ogsaa i Stand til at udnytte et
+større Kedeldamptryk, f. Eks. 15 à 16 kg pr cm<sup>2</sup> i
+St f. 12 kg pr cm<sup>2</sup>, som ellers er alm. En anden
+Fordel er, at den skadelige Fortætning af Damp
+til Vand i Cylindrene ikke bliver saa stor.
+Virkningen heraf er en Formindskelse af
+Dampforbruget, som i Forbindelse med Fordelen ved
+Anvendelsen af det højere Kedeldamptryk
+frembringer en Kulbesparelse, der kan anslaas til
+10 à 12 %.
+
+Den anden Fremgangsmaade til at opnaa
+forbedret Økonomi var gennem <sp>Overhedning</sp>
+af Dampen, Allerede 1863 forsøgte <sp>Petiet</sp> at
+overhede Damp. 1870 prøvede <sp>Chicago</sp>,
+<sp>Burlington and Quincy</sp>-Banen en
+Overheder, ved hvilken Dampen blev ledet omkr. de
+fremspringende Ender af Kedelrørene i
+Røgkamret. Da det opnaaede Resultat ikke stod i
+noget passende Forhold til Udgiften, døde
+Sagen hen. 1879 og 1880 udtog <sp>Riot</sp> og
+<sp>Seillière</sp> et fr. Patent paa en L.-Overheder, som
+imidlertid ikke fik nogen praktisk Anvendelse.
+Først Civilingeniøren <sp>Wilhelm Schmidt</sp>
+i Wilhelmshöhe ved Kassel, som allerede havde
+indlagt sig stor Fortjeneste ved Anvendelse af
+overhedet Damp i stationære Maskiner,
+lykkedes det 1898 at udfinde en simpel og udmærket

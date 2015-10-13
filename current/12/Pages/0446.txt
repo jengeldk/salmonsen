@@ -1,0 +1,122 @@
+Pigmentpapir, hvorefter man kopierer det
+samme Stykke Pigmentpapir under en Glasplade,
+der er forsynet med et meget fint System af
+Linier. Pigmentpapiret, der saaledes i sin
+Hinde indeholder Billedet baade af Diapositivet
+og af Liniesystemet, overføres paa en
+Kobberplade ell. paa en Kobbercylinder, hvorpaa der
+ætses med Jernklorid ganske som ved
+Fotogravure. I.-Pladen ell. -Cylinderen kan
+anvendes i Hurtigtrykpresse; en Trævalse forsyner
+stadig Trykoverfladen med Farve, hvorefter en
+Skraber borttager den overflødige Farve,
+inden Gravuret trykkes.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="intakt">
+<b>intakt</b> (lat.), uberørt, ren, ubesmittet.
+Tropper, der ikke har været i Kamp, kaldes i.
+</chapter>
+
+<chapter name="Intarsia">
+<b>Intarsia</b> ell. <sp>Tarsia</sp> (ital., opr. maaske
+samme Ord som Tausia, Damascering)
+betegner særlig den ital. Renaissancestils
+Dekupørarbejde. Under Gotikken, i 14. Aarh., dyrkedes
+Træindlægning som Certosamosaik og holdt sig
+til enkle, geometriske Mønstre. I 15. Aarh. gik
+man over til at bruge Renaissancens
+Ornamentik, især Akantusmotiver, og videre til hele
+Billeder, Figurscener og Portrætter, men ikke
+mindst yndede man perspektiviske Fremstillinger
+af Idealbygninger. Selv berømte Kunstnere
+dyrkede denne Teknik. Udmærkede, smagfulde
+Arbejder forekommer allerede i den tidligste
+florentinske Ungrenaissance; endnu mere
+kunstfærdige er de fra Tiden henimod 1500 stammende
+Værker i Norditalien, Bologna, Verona, Venedig
+og andetsteds. Bl. mange kendte Kunstnernavne
+kan fremhæves Giovanni da Verona, der iflg.
+Vasari skal have opfundet at farve og nuancere
+Træsorterne ved kem. Midler. Paa
+Senrenaissancens og Barokkens Tid var Interessen for den
+sirlige I. stærkt svækket, men c. 1500 trængte
+Teknikken frem N. f. Alperne, blev meget
+populær i Sydtyskland og naaede ogsaa til
+Norden. Heroppe benyttedes meget hyppigt
+Maureskmotiver, og her holdt Teknikken sig et
+Stykke ind i 17. Aarh. og mødtes med
+Barokkens Bruskværk. De berømteste danske
+Eksempler er Stolestaderne i Frederiksborg
+Slotskirke, hvor der mellem overdaadigt rig
+Ornamentik ogsaa findes de her i Norden sjældne
+Arkitekturperspektiver. (<sp>Litt</sp>.: <sp>C. V.
+Nielsen</sp>, »I.« [Kbhvn 1909]; <sp>Chr. Scherer</sp>,
+»Technik und Gesch. der I.« [Leipzig 1891]).
+<i>C. A. J.</i>
+
+<img>Intarsia.</img>
+</chapter>
+
+<chapter name="Intarsiamaleri">
+<b>Intarsiamaleri,</b> moderne Erstatning for det
+kostbare og vanskelige Intarsia,
+Vandfarvemaleri, der efterligner de til Indlægning
+bestemte Træsorters Farver; efter at være
+blevet tørt, beskyttes det ved et Gummiovertræk
+ell. ved Politur. (<sp>Litt</sp>.: <sp>S. Meyer</sp>, »Die
+Liebhaberkünste« [Leipzig 1891]).
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="intavolere">
+<b>intavolere,</b> sætte i <sp>Tabulatur</sp>.
+</chapter>
+
+<chapter name="integer vitæ scelerisque purus">
+<b>integer vitæ scelerisque purus</b> [-skele
+'riskv<sub>ə</sub>-] (lat.), uskyldig af Vandel og ren for
+Brøde; Begyndelsesord af en bekendt Ode af
+Horats (I, 22).
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="Integral">
+<b>Integral,</b> se <sp>Integralregning</sp>.
+</chapter>
+
+<chapter name="Integralfotometer">
+<b>Integralfotometer,</b> se Kuglefotometret
+under <sp>Fotometri</sp>.
+</chapter>
+
+<chapter name="Integralregning">
+<b>Integralregning,</b> et Afsnit af den højere
+Matematik, gaar i første Linie ud paa at
+bestemme Funktioner, naar man har givet
+deres Differentialkvotienter ell. mere
+alm. Ligninger mellem Funktionerne,
+deres Differentialkvotienter og de
+uafhængige Variable Differentialligninger.
+I.'s Opgave er saaledes den omvendte
+af Differentialregningens. De søgte Funktioner
+kaldes <sp>Integraler</sp> af de forelagte
+Differentialkvotienter ell. Differentialligninger, og at
+bestemme dem kaldes at <i>integrere</i> ell.
+udføre <sp>Integrationen</sp>. Er φ (<i>x</i>) et
+Integral af <i>f</i> (<i>x</i>), gælder det samme om φ (<i>x</i>)
++ C, hvor <i>C</i> er en vilkaarlig Konstant, men
+alm. ikke om andre Funktioner; φ (<i>x</i>) + <i>C</i>
+kaldes det <sp>ubestemte Integral</sp> af <i>f</i> (<i>x</i>)
+og betegnes ved ∫ <i>f</i> (<i>x</i>) <i>dx</i>. Man kan ogsaa
+integrere en Funktion af fl. Variable
+efterhaanden m. H. t. disse og kommer derved til
+<sp>flerdobbelte Integraler</sp>, for hvilke bruges
+Betegnelser som ∫ ∫ <i>f</i> (<i>x,y</i>) <i>dxdy</i>. For
+Integrationen af forelagte Funktioner kan ikke
+gives nogen alm. Regel, men man maa der
+væsentlig støtte sig paa sit Kendskab til tidligere
+fundne Differentialkvotienter; af at
+
+<img></img>

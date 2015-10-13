@@ -1,0 +1,93 @@
+ned ad Cylinderens Yderflade og over Stemplet;
+men en Dag (saaledes fortælles der) gik
+Maskinen hurtigere end sædvanlig, og da man
+søgte Aarsagen, viste den sig at være en i
+Stemplet opstaaet Revne, hvorigennem
+Kølevandet kunde slippe ind i Cylinderen. Man
+indrettede da Indsprøjtningen, hvorved Dampens
+Fortætning fremskyndedes, og Vandforbruget
+væsentlig formindskedes. Det fortælles, at
+Newcomen havde endnu et Held med sin
+Maskine, idet den Dreng, der var sat til at passe
+de to Haners rettidige Op- og Tillukning, fandt
+paa at lade Maskinen selv besørge dette
+Arbejde ved Hjælp af Snoretræk fra
+Vægtstangsarmen. <sp>Humphrey Potter</sp> blev
+derved Opfinder af den første selvstyrende D.
+Leupold beskriver (1725) i <i>Teatrum Machinarum
+hudraulicarum</i> en D. med to Cylindre
+anbragte over Kedlen ligesom Newcomen's
+ene. I Dampledningen, der var fælles for dem
+begge, var anbragt en særegen Hane, der
+vekselvis satte den ene i Forbindelse med fri
+Luft, den anden med Kedlen. Maskinen
+skulde altsaa arbejde uden Fortætning, alene ved
+Dampens Tryk, og skiller sig heri væsentlig fra
+sine Forgængere. Newcomen's D. blev
+efterhaanden forbedret, især af <sp>Smeaton</sp> (c. 1770).
+De største Maskiner af denne Type kunde
+udvikle c. 75 H. K. og gjorde 9 Slag pr Minut,
+men de var overordentlig høje (c. 18 m) og
+meget uøkonomiske, idet de brugte c. 20 kg Kul
+pr I. H. K. i Timen.
+
+Den videre Udvikling af D. skyldes den
+geniale <sp>James Watt</sp>, som paa Grundlag af sine
+Forsøg med D., foretaget ved Univ. i Glasgow
+1759-69, gjorde fl. meget betydelige Opfindelser,
+paa hvilke han 5. Jan. 1769 lod udtage Patent.
+Watt's Opfindelser bestod i Hovedsagen i: 1)
+at Dampen blev fortættet i et særligt Rum,
+<sp>Kondensatoren</sp>, og ikke i selve
+Dampcylinderen; 2) at Dampcylinderen stadig blev holdt
+varm ved Anvendelse af en <sp>Damptrøje</sp>; 3) at
+Vacuum i Kondensatoren blev opnaaet ved Hjælp
+af en særlig Pumpe, <sp>Luftpumpen</sp>, og 4) at
+Dampen udnyttedes bedre ved Anvendelse af
+<sp>Ekspansion</sp> i Cylinderen. Kort Tid efter
+kom Watt til at arbejde sammen med
+<sp>Boulton</sp>, og i deres Fabrik i Soho ved Birmingham
+virkede Watt nu videre. 1778 byggedes den første
+Ekspansionsdampmaskine, som arbejdede med et
+Damptryk af 1,5 kg/cm<sup>2</sup>. 1782 udgik fra
+Fabrikken den første dobbeltvirkende D., hvortil Watt
+i fl. Aar havde haft Ideen. 1784 lod han sit
+<sp>Parallelogram</sp> afløse den
+uhensigtsmæssige Ordning med Kædetrækket til Balancen.
+Svinghjul, Krumtap og Forbindelsesstang, som
+Watt p. Gr. a. et tidligere udtaget Patent havde
+maattet erstatte med et »Sol- og Planethjul«,
+toges i Brug. Watt tog Patent paa Anvendelsen
+af Centrifugalregulatoren til D.'s Regulering, og
+saaledes fulgte Opfindelse paa Opfindelse. Watt's
+Virksomhed gav Stødet til andre Opfindelser
+paa D.'s Omraade. <sp>Murdoc</sp> i Soho anvendte
+1799 en Glider i St f. de af Watt benyttede
+Ventiler, og <sp>Murray</sp> i Leeds konstruerede en
+forbedret Glidertype, den saakaldte Skuffeglider
+ell. Kasseglider og benyttede Ekscentrikskive
+til at bevæge den.
+
+I England blev D. hurtig alm.; allerede 1810
+fandtes der saaledes 5000 D., medens der i
+Frankrig var 200, i Tyskland kun 1 og i
+Danmark ligeledes 1. I Fig. 29 er vist en Watt-D. fra
+1835. Stemplets Bevægelse overføres ved Watt's
+Parallelogram, <i>abus</i>, til Balancen <i>ace</i> og derfra
+til Krumtappen <i>X</i>. En Ekscentrik, <i>S</i>, paa
+Krumtapakslen bevæger Glideren <i>AB</i>. Damprøret er
+forsynet med et Spjæld, <i>q</i>, der reguleres af
+Centrifugalregulatoren <i>N</i>. Spildedamprøret <i>q</i> er
+ført til Indsprøjtningskondensatoren <i>K</i>, hvortil
+Vand suges fra en omgivende Beholder gennem
+Hanen <i>e</i>. Luftpumpen <i>L</i> pumper Vandet til
+Beholderen <i>E</i> (Varmvandsbrønden), hvorfra
+Fødepumpen <i>M</i> fører Vandet til Kedlerne. De to
+Pumper bevæges af Trækstænger fra Balancen.
+
+Saadanne D. udviklede 10-50 I. H. K. ved
+15-25 O/M. Kulforbruget pr I. H. K. var 3-5
+kg i Timen, og altsaa langt mindre end for
+Newcomen's Maskine.
+
+<img>Fig. 29. Watt's Dampmaskine 1835.</img>

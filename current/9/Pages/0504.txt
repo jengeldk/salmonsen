@@ -1,0 +1,146 @@
+Chef for »Städtische Irren- und Siechenhaus«.
+Han har skrevet en Mængde Arbejder over
+Hjerne- og Nerveanatomi og enkelte kliniske
+Arbejder, deriblandt »Über einen eigenartigen
+hysterischen Dämmerungszustand« (Arch. for
+Psykiatrie, XXX).
+<i>J. S. J.</i>
+</chapter>
+
+<chapter name="Gauss, Johann Carl Friedrich">
+<b>Gauss</b> [ga^us], <sp>Johann Carl Friedrich</sp>,
+tysk Matematiker og Astronom, f. 30. Apr.
+1777 i Braunschweig, d. 23. Febr 1855 i
+Göttingen. Han studerede først i Göttingen,
+senere i
+Helmstedt. Fra 1807
+til sin Død
+var han
+Professor i
+Matematik ved
+Universitetet i
+Göttingen og
+Direktør for
+Observatoriet
+smst. G. har
+maaske mere
+end nogen
+anden brudt ny
+Baner inden
+for
+Matematikken og
+Astronomien.
+I sit berømte
+Værk
+<i>Disquisitiones arithmeticæ</i> (1801) har han lagt
+Grunden til den moderne Talteori, blandt andet
+ved sin Behandling af Kongruenser og
+kvadratiske Former; smst. findes hans
+algebraiske Løsning af de binome Ligninger og
+hans allerede 1796 fundne Sætning om
+Muligheden af at dele Cirkelperiferien i lige store
+Dele ved Konstruktion med Passer og Lineal (se
+<sp>Cirkel</sp>). I sin Dissertation (1799) anvendte han
+ved Beviset for Sætningen om Antallet af en
+Lignings Rødder den nu sædvanlige geometriske
+Fremstilling af de komplekse Tal, og denne
+Idé er utvivlsomt original fra hans Haand. G.
+har (1795) opfundet »De mindste Kvadraters
+Metode«, men først offentliggjort den i sit Værk
+<i>Theoria motus</i> (1809); senere har han
+(1821—26) udførligere udviklet den i 3 Afhandlinger,
+der findes overs. paa Fransk i Bertrand's
+<i>Méthode des moindres carrés</i> (Paris 1855). De
+saakaldte G.'ske Logaritmer (Additions- og
+Subtraktionslogaritmer) er opfundne af
+Italieneren Leonelli, men G. har beregnet de
+første Tavler over dem (offentliggjorte 1812).
+
+G. har tidligere end Abel og Jakobi kendt
+Hovedsætningerne i de elliptiske Funktioners
+Teori, men er her som paa andre Punkter
+gaaet glip af Prioriteten ved at lade sine
+vigtige Opdagelser vente for længe paa
+Offentliggørelsen. Dette maa tilskrives, at han i sin
+store Kærlighed til selve den videnskabelige
+Forskning glemte at tænke paa sin egen
+Berømmelse.
+
+I Læren om Rækker, om bestemte Integralers
+Beregning, om Interpolation, i Trigonometrien
+o. fl. St. har han ligeledes ydet store Bidrag.
+G. beskæftigede sig ogsaa med Geodæsi og
+fortsatte den danske Gradmaaling fra Altona
+til Göttingen (1821—24); han har til geodætisk
+Brug opfundet et Apparat, Heliotropen, til at
+give Signaler med i store Afstande. Geodæsien
+ledede ham til en Behandling af Fladers
+Krumning i <i>Disquisitiones generales circa
+superficies curvas</i> (1827), hvor han indførte det efter
+ham benævnte Krumningsmaal; han har ogsaa
+til Brug ved Konstruktion af Kort givet en
+Løsning af Opgaven: at afbilde to Flader
+saaledes paa hinanden, at de til hinanden
+svarende uendelig smaa Dele bliver ligedannede, som
+blev prisbelønnet af det danske Videnskabernes
+Selskab og senere offentliggjort i Schumacher's
+»Astron. Nachrichten« (1825). G. har forud for
+Bolyai og Lobatschevsky udviklet en ikke
+euklidisk Geometri, men han har intet
+offentliggjort derom. Göttinger Akademiet har
+foranstaltet en samlet Udg. af G.'s Værker, hvoraf
+7 Bd er udkomne 1863—74, 8. Bd 1900, 9. Bd
+1903, medens et 10. afsluttende Bd er under
+Udarbejdelse.
+<i>Chr. C.</i>
+
+I sin <i>Theoria motus corporum coelestium</i>
+(1809; overs. paa Engelsk, Fransk og Tysk) har
+G. i al Detail fremstillet sin berømte Løsning
+af Opgaven: at bestemme Banen af et
+Himmellegeme, som bevæger sig om Solen efter
+Newton's Lov — en Løsning, han allerede havde
+1801, og som han benyttede for paa Grundlag
+af de af Piazzi i 40 Dage anstillede
+Observationer af Asteroiden Ceres, hvilke kun strakte
+sig over 9° af dens Baner, at beregne
+Planetens Elementer, hvorved den blev fundet igen
+af Zach 7. Decbr 1801 og af Olbers 1. Januar
+1802. Dette Arbejde er den Dag i Dag
+Fundamentet for den teoretiske Astronomi, og
+Efterverdenen har haft saare lidet at føje til
+det, G. har leveret. Det er optaget i 7. Bd af
+hans »Werke«, der tillige indeholder hans saml.
+teoretiske »Astronomischer Nachlass«,
+hvoraf nævnes hans »Störungen der Pallas«. Af
+G.'s øvrige astron. Arbejder er der i 6. Bd af
+hans »Werke« samlet hans talrige mindre Afh.,
+Beregninger og Observationer. Da W. Weber
+var blevet hans Kollega i Göttingen, kastede
+G. sig med al sin Kraft over Studiet af
+Jordmagnetisme, fik sammen med denne dannet
+»Magnetischer Verein«, til regelmæssig
+Observation af de magnetiske Elementer med de af
+G. konstruerede Apparater Unifilar- og
+Bifilarmagnetometer; Resultaterne foreligger i 6 Bd
+(Göttingen 1837—38, Leipzig 1838—43) og førte
+G. til hans vigtige Afh.: »Allgemeine Theorie
+des Erdmagnetismus«, »Atlas des
+Erdmagnetismus« og »Allgemeine Lehrsätze in Beziehung
+auf die im verkehrten Verhältnisse des Quadrats
+der Entfernung wirkenden Anziehungs- und
+Abstosungs-Kräfte«; hans Fundamentalarbejde
+<i>Intensifas vis magneticæ</i> er fra 1832. Ved disse
+sine magnetiske Studier blev G. den
+videnskabelige Opdager af den elektromagnetiske
+Telegraf og anlagde den første Ledning — 8000
+m lang — fra det 1833 byggede magnetiske
+Observatorium til det fysikalske Institut. Ved
+Siden af denne Gren af Fysikken har G. ogsaa
+beskæftiget sig med Optik og i sine »Dioptrische
+Untersuchungen« (1841) leveret et
+grundlæggende Arbejde for den geometriske Optik. Disse
+Afh. vedrørende den mat. Fysik er optaget i
+5. Bd af »Werke«. — Foruden de ovf. nævnte
+
+<img>J. C. F. Gauss.</img>

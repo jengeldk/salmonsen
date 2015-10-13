@@ -1,0 +1,155 @@
+Luftfotografi, optaget over Kbhvn. Der anvendtes
+ofte steoroskopisk Undersøgelse ved Studiet af
+Luftfotografierne, der i denne Hensigt var
+taget med »Overgribning«. Efter Krigen
+anvendes L. i Topografiens Tjeneste som en
+værdifuld Hjælp ved Kortrevision og til
+Nyopmaalinger, navnlig i vanskeligt tilgængeligt Terræn.
+Til Udmaaling af den fotografiske Plade
+benyttes særlige Instrumenter (Komparator ell.
+Clichétheodolit). L. finder stadig større og
+mangfoldigere Anvendelse i det praktiske Liv,
+saaledes ved Ingeniørarbejder, Dæmnings-,
+Jernbane- og Brobygning, ved Planer til
+Bybebyggelse, som Undervisningsmateriale i Fag-,
+Høj- og Folkeskoler m. m. I Reklameøjemed
+anvendes Luftfotografier hyppigt af industrielle
+Virksomheder, Bade- og Kursteder o. s. v.
+<i>M. Kofoed-Jensen.</i>
+</chapter>
+
+<chapter name="Luftfugtighed">
+<b>Luftfugtighed,</b> se <sp>Fugtighed</sp>.
+</chapter>
+
+<chapter name="Luftgang">
+<b>Luftgang</b> (bot.), d. s. s. Intercellularrum.
+</chapter>
+
+<chapter name="Luftgas">
+<b>Luftgas</b> er en brændbar, lysende
+Gasblanding, der faas ved at tilsætte alm. atmosfærisk
+Luft Dampe af letflygtige Kulbrinter, saadanne,
+der er flydende ved alm. Temp., og som har
+lavt liggende Kongepunkt. Det er navnlig den
+saakaldte <sp>Petroleumsbenzin</sp>, der
+anvendes; dette er ikke et bestemt kem. Stof, men
+bestaar af de mest flygtige af de Produkter,
+der faas ved Rektifikation af Petroleum. Det
+er Stoffer som Pentan, Hexan o. l. ell. andre,
+der optræder med »Patentnavne«, som »Solin«,
+»Hydrisin«, »Gasolin« o. a., der anvendes, alle
+er de »Benzinarter«, hvis Kogepunkt ligger
+mellem c. 35 og 80° C. og Vægtfylde mellem 0,64
+og 0,69.
+
+Den atm. Luft maa ikke <sp>mættes</sp> med
+Benzindampene. Der maa kun tilføres saa meget
+Benzin, at alle Kulbrinterne fordamper, og at
+Fordampningen kun sker i saadan Mængde, at
+ingen af dem igen kan udskille sig i
+Vædskeform, selv ved den i Rørledningsnettet lavest
+forekommende Temp. I Praksis kan denne
+regnes at være 0°, fordi man allerede af Hensyn
+til at forhindre Frysning af Vanddampene til
+Is i Ledningerne aldrig vil føre Gasledninger
+gennem Rum, der er udsatte for Frost, uden
+at isolere Ledningerne, og altid vil lægge
+Ledningerne i Jorden saa dybt, at de er frostfri
+(c. 3/4 à 1 m). For øvrigt er det mest
+driftssikkert, hvis den Luft, der anvendes til L.,
+først tørres ved at ledes gennem Klorkalcium.
+Herved nedsættes Mængden af Fugtighed, der
+kan danne Is, til det mindst mulige.
+
+Ved Anlæg til L. spiller Opbevaringen af
+Raastoffet, »Benzinen«, en vis Rolle. Denne
+Opbevaring maa ske paa saadan Maade, at
+Brandfare og Eksplosionsfare er udelukket saa
+vidt muligt, og der findes lovbefalede
+Forskrifter, der skal følges, og som varierer efter de
+lokale Forhold.
+
+Gasblandingen fremstilles ved, at man med en
+Blæser ell. Luftpumpe pumper Luft ind i en
+Beholder under Tryk af c. 125—150 mm
+Vandsøjle. Blæseren staar i Forbindelse med
+Benzinbeholderen ved Hjælp af en Luftkanal. I
+Benzinbeholderen findes et ved Snækkehjul drevet
+Stempel, hvis Hastighed reguleres af Blæseren,
+og som driver Benzinen med mere ell. mindre
+Hastighed over i Forgasningsrummet. Paa
+denne Maade vil Luft og Benzin under
+Forgasningen altid være afpasset i rette
+Mængdeforhold (250 g Benzin pr m<sup>3</sup> Luft).
+Benzinbeholderen er saa stor, at Apparatet uden
+Efterfyldning kan virke 8—10 Timer.
+Forgasningsrummet dannes af en Beholder, hvori der findes,
+over hinanden liggende Plader, mellem hvilke
+Luften stryger op, og samtidig blandes den
+med de Benzindampe, der dannes, idet
+Benzinen draabevis drypper ned paa de omtalte
+Plader. Den færdige Gas føres gennem et
+Siderør bort fra Forgasningsrummet. Apparatet
+skal være konstrueret saaledes, at den
+dannede, færdige Gas <sp>ikke</sp> kan gaa tilbage til
+Luftbeholderen, naar Blæseren ikke virker, thi
+i saa Fald fyldes Luftbeholderen med en
+farlig, eksplodibel Blanding. Blæserne drives ved
+smaa Anlæg i Reglen af Urværker med
+Lodder, der trækkes op en Gang i Døgnet. Ved
+større Anlæg anvendes Vandmotorer,
+Elektromotorer o. l. Selve Pasningen af Anlægget er
+ret ringe; den bestaar nærmest i at holde
+Apparaterne fri for Smuds og i alm. Orden.
+Som Eksempel paa Sammensætningen i Vol.-%
+anføres efter Strache: Pentan 8,0, Kvælstof 73,0,
+Ilt 19,0; Brandværdi pr m<sup>3</sup> i kg°, højere 3200,
+lavere 2970; Vægt pr m<sup>3</sup> 1,45 kg; Vægtfylde
+(Luft = 1) 1,12. Til Forbrænding af 1 m<sup>3</sup>
+bruges af ren Ilt 0,64 m<sup>3</sup>, af atm. Luft 3,05 m<sup>3</sup>.
+For hver m<sup>3</sup> Luft, der er brugt til
+Forbrænding uden Luftoverskud, udvikles 1050 kg°.
+
+Efter disse Principper er der konstrueret en
+Rk. forsk. Apparater, der dels efter det forsk.
+Kaburationsmiddel, dels efter deres indbyrdes,
+afvigende tekn. Detailler har givet Anledning
+til forsk. Patenter, og som anvendes under
+forsk. Navne saasom: Aerogengas, der
+karbureres med en Benzinart, Solin, Pentangas,
+Hydrisingas, Siriusgas, Ekscelsiorgas, Benoidgas,
+o. s. v.
+
+Luftgasapparaterne bygges i Reglen af
+saadan Størrelse, at de passer til Forsyning af
+større Herregaarde, Fabrikker paa Landet,
+Landstationer ell. Landsbyer, der er for smaa
+til at have eget Kulgasværk ell. for langt borte
+til at faa Tilslutning til et saadant. Dog har
+man i de senere Aar forsynet enkelte Smaabyer
+med Luftgasanlæg.
+
+Det er navnlig Acetylen, L. her konkurrerer
+med. L. kan anvendes til Lys og til Kogning;
+(se ndf.) og til industrielt Brug anvendes det i
+mange Fabrikker, der <sp>ikke har Adgang</sp>
+til Stenkulsgas ell. Vandgas. De høje
+Benzinpriser lader nemlig L. blive tilbage i
+Konkurrencen med disse Gasarter, leverede fra større
+Centraler ell. større egne Gasværker. Allerede,
+hvis Fabrikken skal bruge op mod en halv Snes,
+m<sup>3</sup> Gas pr Time, vil Vandgas ell. eventuelt
+Acetylen sikkert blive billigst. Rent teknisk set
+kan L. i Industrien anvendes paa omtrent
+samme Maade som Stenkulsgas.
+
+Til Motorbrug medgaar c. 0,9 à 1,0 m<sup>3</sup> pr
+HK. pr Time. Til Kogning bruges c. 50 l L,
+for at bringe 1 l Vand i Kog, saa
+Dampudviklingen er godt i Gang.
+
+Tidligere anvendtes L. til Belysning i alm.
+Fedtstensbrændere, men nu bruges saa godt som
+altid Glødenetsbelysning. De alm. anvendte
+Lampestørrelser af opretstaaende

@@ -1,0 +1,142 @@
+er muligt at løse dem uden paa et helt nyt
+Grundlag. Der er her en karakteristisk Forskel
+fra de Forhold, der førte til E.'s Opstilling.
+Medens det da kun drejede sig om at supplere
+den herskende Maxwell'ske Teori i atomistisk
+Retning, men saaledes at den stadig var det
+urokkede Grundlag, tyder alt nu paa, at det er
+Maxwell's Teori, hvis fulde Gyldighed maa
+opgives, medens ingen kan tænke paa at rokke
+ved Grundantagelsen i E., Elektricitetens
+atomistiske Konstitution. Elektronernes reale
+Eksistens er jo objektivt godtgjort; Zeeman-Effekten
+har leveret Bevis for, at det er Elektroner, der
+i Atomerne udsender Lys, hvordan man saa end
+nærmere maa forklare Effekten, og ogsaa i
+Metallernes E. er Overensstemmelsen med
+Erfaringen af en saadan Art, at Grundantagelsen
+dér, at det er alm. Elektroner, der besørger
+Elektricitets- og Varmetransporten, maa anses
+for bevist. Derimod har ved de senere Aars
+Arbejde paa Udformning af E. og Sammenligning
+af dens Resultater med Erfaringen den
+Overbevisning mere og mere fæstnet sig, at Maxwell's
+Teori, Grundlaget for Elektrodynamikken, og
+samtidig dermed den alm. Mekanik ikke kan
+have Gyldighed for alle Processer inde i
+Atomet. De er kun opstillede ud fra Kendskabet til
+de langt grovere Fænomener, som i Alm. er
+Genstand for vore Iagttagelser, og som er Resultater
+af en Samvirken af uhyre mange
+Atomprocesser; det er da forstaaeligt, at de ikke gælder
+for alle Enkeltheder af det, der foregaar i selve
+de enkelte Atomer. Men Spørgsmaalet bliver saa
+naturligvis, hvad der skal sættes i Stedet.
+Herpaa synes der i de sidste Aar at være givet i
+hvert Fald Begyndelsen til et Svar, langt
+hurtigere, end det var rimeligt at vente det.
+
+Det første afgørende Skridt skyldes <sp>Planck</sp>,
+der for teoretisk at komme til en med
+Erfaringen stemmende Straalingslov, et Udtryk for,
+hvorledes Energien i Udstraalingen fra et
+absolut sort Legeme ved forskellige Temp. er
+fordelt paa de forsk. Bølgebredder i det udsendte
+Lys, nødtes til at antage, at Energiomsætningerne
+i Atomet foregik diskontinuert i bestemte endelige
+Kvanter (se <sp>Varmestraaling</sp>). Dette
+synes ikke alene at gælde Straalingsprocesserne,
+men alle Energiomsætninger i Atomet. Det
+fundamentale videre Fremskridt skyldes <sp>N. Bohr</sp>,
+der kombinerede den Planck'ske
+Kvantehypotese med Rutherford's Atommodel og dertil
+føjede en simpel, men dristig Hypotese om Atomets
+nærmere Opbygning og om Straalingsprocesserne
+i dette. Han antager, at Elektronerne i Atomet
+kredser uden Straaling i visse stationære Baner,
+for hvilke, bortset fra Manglen paa Straaling,
+den alm. Mekanik og Elektrodynamik kan
+anvendes, men at Udstraalingen finder Sted ved
+Elektronernes Overgang mellem saadanne
+stationære Baner, og det efter ganske ny Love.
+Denne Bohr's Atommodel forklarer Brintspektret
+og Dele af Heliumspektret i fuldkommen
+kvantitativ Overensstemmelse med Erfaringen (i det
+hele er Atommodellen endnu nærmest
+udformet for Brint, Helium og de øvrige Stoffer
+med de letteste og derfor simpleste Atomer [med
+færrest Elektroner]). Videre er det lykkedes
+<sp>Sommerfeld</sp> ved endnu en Tilføjelse til
+Teoriens Grundlag at forklare de enkelte
+Liniers finere Opbygning, helt at forklare
+Stark-Effekten (se <sp>Elektrooptik</sp>) og at gøre
+væsentlige Skridt til Forklaring af
+Zeeman-Effekten. Det synes endvidere, at Bohr's Atommodel
+kan forklare visse alm. Træk ved Stoffernes
+Spektre, forklare Stoffernes Røntgenspektre, give
+Forstaaelse af Grundstoffernes periodiske kem.
+Egenskaber, saaledes som de har faaet Udtryk i
+Grundstoffernes periodiske System, og føre til
+nøjagtige Forestillinger om de simplere
+Molekylers Opbygning af saadanne Atomer. Endnu er den
+ikke rationelt anvendt paa Stoffernes Absorption
+og Dispersion. Det er næppe en Overdrivelse,
+at den teoretiske Fysiks Arbejde i Øjeblikket er
+koncentreret om den videre Udformning af
+denne Atomhypotese, og alt tyder paa, at de
+nærmeste Aar vil bringe ny betydningsfulde
+Resultater. Den nærmere Omtale af Atommodellen
+og dens Resultater opsættes derfor til
+<sp>Spektralanalyse</sp>, da Forholdene til den Tid
+sagtens vil have klaret sig betydeligt. (<sp>Litt</sp>.:
+<sp>H. A. Lorentz</sp>, <i>The Theory of Electrons</i>, 2.
+Udg. [Leipzig 1916]; <sp>Richardson</sp>, <i>The
+Electron Theory of Matter</i> [2. Udg., Cambridge 1916];
+<sp>N. Bohr</sp>, »Studier o. Metallernes Elektronteori«
+[Kbhvn 1911]; Bohr's Arbejder ang.
+Atommodellen er fremkomne i Afhandlinger i <i>Phil. mag.</i>
+for 1913 og flg. Aar, Sommerfeld's Arbejder i
+<i>Ann. d. Phys.</i> 1916).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Elektrooptik">
+<b>Elektrooptik,</b> Læren om de Forandringer,
+som et Legemes optiske Egenskaber undergaar,
+ved at det anbringes i et elektrisk Felt, d. v. s.
+underkastes Paavirkning af elektriske Kræfter.
+Forandringerne kan dels bestaa i en Forandring
+af det Lys, som Legemet udsender, altsaa en
+Virkning paa <sp>Emissionen</sp>, dels i en
+Forandring i Legemets Forhold over for Lys, der
+passerer det, altsaa en Virkning paa Lysets
+<sp>Forplantning og Absorption</sp>; den
+første Art Virkninger er opdagede 1913 af
+<sp>Stark</sp> og, trods talrige betydningsfulde
+Arbejder af ham og hans Elever i de flg. Aar,
+naturligvis endnu ikke tilfredsstillende
+undersøgte, men af den største teoretiske Interesse;
+den anden Art Virkninger, der fandtes 1875 af
+<sp>Kerr</sp>, er i det hele af mindre Interesse. Hvad
+først Virkningen paa Emissionen
+(»<sp>Stark-Effekten</sp>«) angaar, da var der længe teoretisk
+ventet en svag Virkning, men Undersøgelsen
+frembød store Vanskeligheder, da de Lyskilder,
+der kunde komme i Betragtning (Flammer o. l.),
+er ledende for Elektricitet, og et elektrisk Felt
+af betydelig Styrke kun kan opretholdes i
+Isolatorer. Stark naaede positive Resultater ved
+at anvende Kanalstraalerør som Lyskilder (s.
+d.), idet de Partikler, der udgør de positive
+Straaler (Kanalstraaler), lyser med det for
+Luftarten i Røret karakteristiske Spektrum; i et
+saadant Rør kunde han ved et Kunstgreb
+vedligeholde stærke elektriske Felter (op til c.
+100000 Volt/cm). Det Lys, der udsendtes fra
+Partiklerne, medens de befandt sig i det
+elektriske Felt, viste sig nu forandret paa
+karakteristisk Maade og væsentlig anderledes end ventet.
+Først undersøgtes Brintspektret. I Retning
+vinkelret paa Feltets elektriske Kraftlinier blev hver
+Brintlinie spaltet i et betydeligt Antal ny Linier,
+

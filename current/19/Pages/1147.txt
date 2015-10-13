@@ -1,0 +1,53 @@
+<chapter name="RETTELSER OG TILFØJELSER">
+<h1><sp>RETTELSER OG TILFØJELSER</sp></h1>.
+De i hvert Bind opførte Rettelser og Trykfejl vil blive samlede for hvert femte Bind.
+
+<table>
+<td 7 c><sp>BIND I</sp>.
+<td>Side<td>141,<td>Spalte<td>2,<td>Linie<td r>6 f. n.<td>y læs: a
+<td c>—<td>767,<td c>—<td c>2,<td c>—<td r>10 f. o.<td r>Sondringen o. s. v. til Sjæletroen udgaar
+</table>
+
+<table>
+<td 7 c><sp>BIND XII</sp>.
+<td>Side<td>638,<td>Spalte<td>2,<td>Linie<td r>25 f. n.<td>Monzi læs: Monza
+<td c>—<td>638,<td c>—<td>2,<td c>—<td r>23 f. n.<td>Vizevani læs: Vigevano
+<td c>—<td>638,<td c>—<td>2,<td c>—<td r>20 f. n.<td>Trevino læs: Treviso
+<td c>—<td>638,<td c>—<td>2,<td c>—<td r>5 f. n.<td>Terno læs: Terni
+<td c>—<td>639,<td c>—<td>1,<td c>—<td r>3 f. o.<td>Palermo læs: Salerno
+<td c>—<td>639,<td c>—<td>1,<td c>—<td r>4 f. o.<td>Castella mari læs: Castellamare
+<td c>—<td>639,<td c>—<td>1,<td c>—<td r>19 f. o.<td>Arenerini læs: Armerina
+<td c>—<td>639,<td c>—<td>1,<td c>—<td r>20 f. o.<td>Alcano læs: Alcamo
+<td c>—<td>640,<td c>—<td>2,<td c>—<td r>9 f. o.<td>Triente læs: Trieste
+</table>
+
+<table>
+<td 7 c><sp>BIND XIV</sp>.
+<td>Side 204,<td>Spalte<td>2,<td>Linie<td>16 f. o.<td><sp>Knoldforraadnelse</sp> og <sp>Hvidbakteriose</sp> læs: <sp>Rodknoldbakterien</sp>
+</table>
+
+<table>
+<td 7 c><sp>BIND XV</sp>.
+<td>Side<td r>77,<td>Spalte<td>1,<td>Linie<td r>4 f. o.<td>1866 læs: 1886
+<td c>—<td r>1039,<td c>—<td>2,<td c>—<td r>34 f. o.<td><sp>Skedeknæ</sp> læs: <sp>Polygonum</sp> og <sp>Pulicaria</sp>.
+</table>
+
+<table>
+<td 7 c><sp>BIND XVI</sp>.
+<td>Side<td>957,<td>Spalte<td>2,<td>Linie<td>22 f. o.<td>1910 o. s. v. læs: 1910 kom »Smert Pavla I« (»Paul I's Død«) og 1912 (i Tidsskriftet »Russkaja mysl«) »Aleksander I«
+</table>
+
+<table>
+<td 7 c><sp>BIND XVII</sp>.
+<td>Side<td>407,<td>Spalte<td>2,<td>Linie<td r>18 f. n.<td>1920 læs: 1910
+<td c>—<td>724,<td c>—<td>2,<td c>—<td r>21 f. o.<td>edsret læs: edsoret
+<td c>—<td>724,<td c>—<td>2,<td c>—<td r>27 f. o.<td>Krkeretten læs: Kirkeretten
+<td c>—<td>724,<td c>—<td>2,<td c>—<td r>29 f. n.<td>Handbock læs: Handbok
+<td c>—<td>937,<td c>—<td>1,<td c>—<td r>7 f. n.<td>af læs: og
+</table>
+
+<table>
+<td 7 c><sp>BIND XVIII</sp>.
+<td>Side<td r>62,<td>Spalte<td>2,<td>Linie<td>14 f. n.<td><sp>Marborerne</sp> læs: <sp>Marvborerne</sp>
+<td c>—<td r>906,<td c>—<td>1,<td c>—<td>14 f. n.<td>1896 læs: 1796
+</table>

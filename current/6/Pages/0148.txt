@@ -1,0 +1,167 @@
+Meters Bølgelængde er som først vist af H. O. G.
+Ellinger Brydningsforholdet c. 9, altsaa
+stemmende med Teorien.
+
+Maalingen af D. kan ske ved at maale
+Kapaciteten af en Kondensator med og uden det
+paagældende Stof mellem sine Plader.
+Forholdet er da iflg. Definitionen lig D. Naar
+undtages saa fortrinlige Isolatorer som f. Eks. Svovl,
+Lak, Parafin og de forsk. Luftarter, vil
+Stoffernes elektriske Ledningsevne komplicere
+Maalingen, idet Kondensatoren vil virke som en
+Kapacitet og en dermed parallel forbunden
+Modstand. Ved Hjælp af Vekselstrøm lader hver af
+disse Størrelser sig i Alm. maale og derved er det
+muligt at bestemme D. selv for saa godt ledende
+Legemer som vandige Saltopløsninger. Kun naar
+Ledningsevnen er saa stor som Metallernes,
+bliver det umuligt at bestemme Kapaciteten.
+Metallernes D. er derfor ubekendt; ikke uendelig,
+som det undertiden angives, fordi et Stykke
+Metal i et elektrostatisk Felt tilsyneladende
+opfører sig som et Stof med D. uendelig.
+Forskellen kan dog vises; hvis Metallet bestaar af
+to Dele, der tages fra hinanden, medens
+Metallet er i et elektrisk Felt, vil de enkelte Dele
+kunne indeholde virkelige Ladninger, d. v. s.
+Overskud af positiv ell. negativ Elektricitet; det
+vil derimod ikke være Tilfældet med et
+tilsvarende isolerende Dielektrikum med D. uendelig.
+Forklaringen er, at Fordelingen i Metallet er
+opstaaet ved de frie Elektroners Vandring ud
+til Metallets Overflade, medens den dielektriske
+Fordeling kun er en Forskydning af
+Elektronerne inden for de Molekyler, hvortil de er
+bundne.
+
+Ogsaa ved at maale de Kræfter, hvormed de
+dielektriske Legemer som ovf. omtalt paavirkes,
+i et elektrisk Felt, lader D. sig
+bestemme. Endelig kan man gaa ud fra
+Sammenhængen mellem D. og Brydningsforholdet for
+elektriske Bølger, og bestemme dette sidste ved
+at maale Bølgelængden, dels i Dielektriket (λ<sup>D</sup>)
+<table>
+<td v2>og dels i Luft (λ<sup>L</sup>). Forholdet<td>λ<sup>L</sup><td v2>er da lig
+<td>λ<sup>D</sup>
+</table>
+Brydningsforholdet, der atter er lig
+Kvadratroden af D.
+
+Saavel ved Anvendelsen af elektriske
+Svingninger som ved Vekselstrøm (langsomme
+elektriske Svingninger) viser det sig, at D. ofte
+varierer lidt med Svingningstiden (Bølgebredden),
+i Reglen aftager, naar denne aftager. Ved
+enkelte Stoffer findes endog ved visse
+Svingningstider ret bratte Variationer svarende til
+Brydningsforholdets Forløb ved anormal Dispersion
+(se <sp>Dispersion</sp>). For et bestemt Stof
+afhænger D. desuden af Tætheden ρ, saaledes at
+<table>
+<td v2>Udtrykket<td>ε-1<td v2>•<td>1<td v2>med Tilnærmelse vil være
+<td>ε+2<td>ρ
+</table>
+konstant (Clausius-Mosotti). For en Del alm.
+Isolatorer er D. angivet i flg. Tabel:
+<table>
+<td>Spejlglas<td>6-7
+<td>Kronglas<td>5-7
+<td>Flintglas<td>7-10
+<td>Ebonit<td>c. 2,8
+<td>Kautschuk<td>c. 2,2
+<td>Parafin<td>2-2,3
+<td>Lak<td>1,8-2,6
+<td>Glimmer<td>4-8
+<td>Svovl<td>3,6-4,3
+<td>Petroleum<td>2,0-2,2
+<td>Parafinolie<td>4,6-4,8
+<td>Vaselinolie<td>1,9
+<td>Luft ved 0° og 760 mm<td>1,00059
+</table>
+Om visse anormale, dielektriske Forhold, se
+<sp>Restladning</sp>. (<sp>Litt</sp>.: »Handbuch der
+Elektrizität und des Magnetismus« I, Leipzig
+1914).
+<i>E. S. J.</i></chapter>
+
+<chapter name=”Dielektrika, dielektriske Legemer”>
+<b>Dielektrika, dielektriske Legemer,</b> en af
+Faraday indført Betegnelse for Isolatorer. Se
+<sp>Dielektricitetskonstant</sp>.</chapter>
+
+<chapter name=”dielektrisk Hysterese”>
+<b>dielektrisk Hysterese.</b> Sendes en
+Vekselstrøm gennem en Kondensator, der har et fast
+ell. flydende Stof til Dielektrikum, vil dette
+opvarmes (Siemens Varme). Se <sp>elektrisk
+Kondensator</sp>. Der maa altid komme en
+Varmeudvikling, naar Dielektriket ikke er
+fuldstændigt isolerende; det mærkelige er
+imidlertid, at den maalte Varmemængde er meget
+større, end den, der kan beregnes af
+Kondensatorens Ledningsevne. Man har til Forklaring
+heraf antaget, at den dielektriske Polarisation
+ikke fulgte helt med den elektriske Kraft, men
+viste Hysterese ligesom den magnetiske
+Polarisation (Intensitet), saa at den iagttagne
+Varmeudvikling var analog med Hysteresevarmen ved
+Jernets Magnetisering og Ommagnetisering i et
+Vekselfelt. Den d. H. maa dog være af en anden
+Natur end den magnetiske. Ved denne vil
+nemlig Jern, der har været udsat for stærke
+magnetiske Kræfter, som derefter har ophørt at
+virke, <sp>blivende</sp> beholde en Del af den
+Magnetisme, det har modtaget, medens den
+dielektriske Polarisation meget hurtigt
+forsvinder.
+<i>E. S. J.</i></chapter>
+
+<chapter name=”dielektrisk Tab, dielektrisk Tabsvinkel”>
+<b>dielektrisk Tab, dielektrisk Tabsvinkel,</b>
+se <sp>elektrisk Kondensator</sp>.</chapter>
+
+<chapter name=”Diels, Hermann Alexander”>
+<b>Diels</b> [di.ls], <sp>Hermann Alexander</sp>,
+tysk Filolog, f. i Biebrich 18. Maj 1848, har
+siden 1882 virket som Prof. i klassisk Filologi i
+Berlin. Han har især virket for at fremdrage
+og udgive Kilder til gr. Filosofis Historie og
+har saaledes ledet Udgivelsen af de antikke
+Kommentarer til Aristoteles' Skr. ligesom han
+leder Udgivelsen af <i>Corpus medicorum
+græcorum</i>. Desuden har han udg. <i>Doxographi
+græci</i> (1879), »Sibyllinische Blätter« (1890),
+Poetarum philosophorum fragmentet (1902) og »Die
+Fragmente der Vorsokratiker« (1903, 3. Oplag
+1912).
+<i>H. H. R.</i></chapter>
+
+<chapter name=”Diemen, Anton van”>
+<b>Diemen</b> [fan-'di.m<sub>ə</sub>n], <sp>Anton van</sp>, holl.
+Embedsmand, f. i Kuylenburg 1593, d. i Batavia
+1645. Han traadte tidlig ind i Raadet for det
+ostindiske Kompagni, hvor han 1632 blev
+Generaldirektør og 1636 Generalguvernør over de
+holl. Besiddelser i Ostindien. I denne Stilling
+har han særlig gjort sig fortjent som Udsender
+af den store Ekspedition under Abel Tasman
+(1642), der omsejlede Australlandet, og den
+store Ø, der i lang Tid bar hans Navn,
+<sp>Van-Diemens-Land</sp>, nu alm. kaldet Tasmanien
+efter Opdageren. Aaret efter udsendte han M.
+de Vries paa en Opdagelsesrejse til de jap.
+Øer.
+<i>C. A.</i></chapter>
+
+<chapter name=”Diémer, Louis”>
+<b>Diémer</b> [d<sub>i</sub>e'mæ.r], <sp>Louis</sp>, fr. Musiker, f.
+14. Febr 1843 i Paris, uddannede sig fra ganske
+ung som Klaverspiller ved Konservatoriet og
+blev 1888 Lærer ved dette Institut. D., der
+baade som Koncertspiller og som Lærer nyder
+stor Anseelse, har uddannet en lang Række
+Elever og har desuden virket som Komponist
+(dels af Klaverværker, dels af Kammermusik),
+i som Udgiver af gl fr. Klavermusik

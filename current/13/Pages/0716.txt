@@ -1,0 +1,141 @@
+rammer et fast Stof. Maaler man den
+Opladning, en Metalplade faar, naar den træffes af
+et K.-Bundt under forsk. Indfaldsvinkler,
+finder man i Alm., at den negative Opladning af
+Pladen aftager med voksende Indfaldsvinkel.
+For en vis Størrelse af denne bliver
+Opladningen Nul, og for større Indfaldsvinkler oplades
+Pladen positivt. Dette hidrører fra, at de
+primære K., foruden at de delvis kastes tilbage,
+fremkalder en Udsendelse af <sp>sekundære</sp>
+K. fra Pladen. Disse skelnes fra de
+reflekterede primære K. derved, at de, som
+Afbøjningsforsøg viser, har en meget mindre
+Hastighed end de primære. De sekundære K.'s
+Hastighed kan f. Eks. svare til et accelererende
+elektrisk Felt paa 10—20 Volt. Den er alene
+afhængig af Stoffets Art og uafhængig af de
+primære Straalers Hastighed. For at der skal
+fremkomme sekundære K., maa de primære K.
+have en Hastighed, som ligger over en af
+Stoffets Art afhængig Værdi. Med voksende
+Hastighed af de primære K. vokser Antallet af
+sekundære Elektroner, indtil dette naar en
+Maksimalværdi. Dette sker, naar de primære
+K.'s Hastighed har naaet en Værdi, som svarer
+til et Felt paa nogle faa Hundrede Volt; for
+større Hastigheder af de primære K. aftager
+Sekundærstraalingen med voksende Hastighed.
+
+Naar K. med tilstrækkelig Hastighed træffer
+et Stof, udsender dette, som omtalt,
+<sp>Røntgenstraaler</sp>.
+
+Naar K. gaar gennem et Stof, vil der
+<sp>absorberes</sp> en Del af Straalerne, og K. vil
+endvidere blive mere ell. mindre <sp>diffuse</sp> eller
+<sp>spredte</sp>, idet Elektronernes
+Bevægelsesretninger ændres ved Sammenstød med
+Molekylerne. <sp>Lenard</sp> har foretaget omfattende
+Undersøgelser af disse Forhold. Han fandt, at
+naar K.'s Hastighed blot er tilstrækkelig stor,
+vil Absorptionskoefficienten med Tilnærmelse
+alene afhænge af Stoffets Vægtfylde og være
+uafhængig af dets Art ell. Tilstandsform.
+Absorptionen aftager med voksende Hastighed af
+K. Den er saa lille, at man deraf kan slutte,
+at Elektronerne er i Stand til at passere
+gennem mange Atomer, uden at fastholdes af disse
+ell. at afbøjes synderlig. K. <sp>bremses</sp> noget
+ved at gaa gennem Stof; jo større deres
+Hastighed er, desto mindre er Hastighedstabet.
+
+For <sp>langsomme Elektroner</sp>, d. v. s.
+Elektroner, hvis Hastighed svarer til ca. 0—50
+Volts accelererende Felt, er Forholdene meget
+indviklede og højst forsk. for forsk. Stoffer;
+men i de senere Aar er det ved en Række
+vigtige eksperimentelle Undersøgelser lykkedes at
+skaffe en Mængde detaillerede Oplysninger
+om, hvad der sker ved <sp>Sammenstød
+mellem en Elektron og et Atom eller
+et Molekyle</sp>. Her skal kun et Par af de
+anvendte Metoder antydes. I Alm. anvendes et
+Apparat i Lighed med det i Fig. 7 skitserede.
+<i>K</i> er en Elektronkilde, f. Eks. en glødende
+Wolframtraad, <i>N</i> et Metaltraadnet og <i>P</i> en
+Metalplade, som staar i Forbindelse med et
+Elektrometer ell. Galvanometer, saaledes at
+man kan maale den Strøm, der gaar til <i>P</i>.
+Mellem <i>K</i> og <i>N</i> og <i>N</i> og <i>P</i> kan der
+tilvejebringes passende elektriske Felter. <i>K</i>, <i>N</i> og <i>P</i> er
+indesluttet i en Beholder, som indeholder den
+Luftart ell. Damp, der skal undersøges, under
+et passende lavt Tryk. <sp>Lenard</sp> anvendte
+følgende Metode. Mellem <i>N</i> og <i>P</i> er der en ret
+stor Spændingsforskel saadan rettet,
+at Feltet vil drive Elektroner fra <i>P</i>
+mod <i>N</i>, og mellem <i>K</i> og <i>N</i> en
+mindre, modsat rettet variabel
+Spændingsforskel <i>V</i>. De Elektroner, som
+udgaar fra
+Katoden <i>K</i>,
+vil, saafremt
+de ikke
+bremses ved
+Sammenstød med Luftmolekyler, naa
+til Nettet <i>N</i> med en kinetisk Energi
+1/2 <i>m</i> <i>v</i><sup>2</sup> = <i>e V</i>, og en Del af dem
+vil gaa gennem Nettets Masker ind
+i Feltet mellem <i>N</i> og <i>P</i>; her vil de
+bremses og drives tilbage og altsaa
+forhindres i at naa Pladen <i>P</i>. For smaa Værdier
+af <i>V</i> iagttager man da heller ingen Opladning af
+<i>P</i>, men lader man <i>V</i> vokse, begynder der for en
+bestemt Værdi af <i>V</i> at gaa en <sp>positiv</sp> Strøm
+til <i>P</i>. Lenard antog, at denne skyldes positive
+Ioner, som dannes, idet Elektronerne ved
+Sammenstød med Luftmolekyler <sp>ioniserer</sp>
+disse, d. v. s. sønderslaar dem, saa der dannes
+ny frie Elektroner og positive Molekyl- eller
+Atomrester. Forsøget viser da, at K. maa have
+en ganske bestemt Hastighed for at kunne
+ionisere Luftarten; den Spændingsforskel, som er
+nødvendig for at give dem denne
+Hastighed, kaldes <sp>Ioniseringsspændingen</sp>.
+<sp>Franck</sp> og <sp>Hertz</sp> o. a. foretog
+omhyggelige Bestemmelser af Ioniseringsspændingen
+efter Lenard's Metode og fandt forsk. Værdier
+af denne for forsk. Luftarter og Dampe. Det
+har dog senere vist sig, at det, man maaler
+paa denne Maade, ikke er
+Ioniseringsspændingen, idet den positive Strøm ikke skyldes
+positive Ioner, men hidrører fra, at Elektronerne
+ved deres Stød mod Luftmolekylerne faar disse
+til at udsende elektromagnetisk Straaling,
+hvoraf en Del træffer <i>P</i> og løsriver Elektroner fra
+dens Overflade. Det, man faar bestemt, er
+altsaa den Hastighed, som Elektronerne maa have
+for at faa Luftmolekylerne til at udsende
+Straaling. At denne Forklaring er rigtig, har <sp>Davis</sp>
+og <sp>Goucher</sp> vist eksperimentelt ved en
+Metode, ved hvilken der benyttes ikke eet, men
+to Net mellem <i>K</i> og <i>P</i>. Lader man <i>V</i> vokse
+over den Værdi, for hvilken den positive
+Opladning af <i>P</i> begynder at vise sig, vil
+Strømmen til <i>P</i> vokse ret jævnt, indtil den virkelige
+loniseringsspænding er naaet, hvilket giver sig
+til Kende ved en meget brat Stigning i
+Strømmen. Vil man undersøge, hvilken Virkning
+Sammenstødene har paa de stødende
+Elektroner, kan dette ske ved at bestemme
+Hastighedsfordelingen bl. Elektronerne, efter at de
+har passeret gennem Luftarten. Man benytter
+hertil en lgn. Anordning som den paa Fig. 7
+viste, <i>N</i> maa dog ligge ret tæt ved <i>P</i>. Man
+holder <i>V</i> konstant og maaler for forsk. Værdier
+af det bremsende Felt den Strøm, som gaar
+til <i>P</i>. For Metaldampe ell. enatomige Luftarter
+findes da flg. Resultater. Naar <i>V</i> er mindre
+
+<img>Fig. 7.</img>

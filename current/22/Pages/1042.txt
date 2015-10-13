@@ -1,0 +1,156 @@
+1,5542418 X a, 0,25 X b; fra denne Sum subtraheres
+0,003177794 X A, og det udkomne sættes =M+m,
+hvor M er de hele Tal og m Decimalbrøken.
+Benyttes B, har man at erstatte det først
+nævnte Tal med 20,0955878 og at multiplicere 0,003177794
+med B. De øvrige Tal bliver uforandrede.
+Derpaa multipliceres A med 3, b med 5, disse to
+Tal samt M og 5 lægges sammen, og Summen
+divideres med 7; Resten benævnes c. Benyttes
+B i Stedet for A, har man at danne Summen
+M+3 B+5 b+1, som divideres med 7; Resten
+benævnes c. Nu har man at skelne mellem
+følgende 4 Tilfælde:
+
+1) Er c=2 ell. 4 ell. 6, saa er Paaskedag
+(M+1) Marts, ell. hvis M. er større end 30 :
+(M—30) Apr. gammel Stil. 2) Er c=1 og tillige
+a større end 6 og desuden m lig ell. større end
+0,63287037, saa er Paaskedag (M+2) Marts ell.
+(M—29) Apr. gammel Stil. 3) Er c=0 og tillige
+a større end 11 og desuden m lig ell. større end
+0,89772376, saa er Paaskedag (M+1) Marts ell.
+(M—30) Apr. gammel Stil. 4) I alle øvrige
+Tilfælde er Paaskedag M Marts (ell. (M—31) Apr.
+gammel Stil.
+
+For 1926 finder man a=1, b=2, c=2, M=16,
+m=0,0293984, altsaa Paaskedag (16+1) Marts
+gammel Stil = 30. Marts ny Stil. Af disse
+Regler kan man tillige bestemme Nytaarsdagen,
+som altid falder 163 Dage efter Paasken det
+foregaaende Aar. Aaret A er et alm. Aar paa
+12 Maaneder, hvis a er mindre end 12,
+derimod et Skudaar paa 13 Maaneder, hvis a
+er større end 11. (<sp>Litt</sp>.: <sp>R. W. Bauer</sp>,
+»Calender for Aarene fra 601 til 2200 efter Kristi
+Fødsel« [Kbhvn 1868]; <sp>Honoratus
+Bonnevie</sp>, »Den julianske og den gregorianske
+Kalender« [Oslo 1886]; <sp>Mahler</sp>, »Handbuch der
+jüdischen Chronologie« [Leipzig 1916]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Søndagsforeninger">
+<b>Søndagsforeninger,</b> Foreninger, som
+arbejder for den rette Helligholdelse af
+Søndagen. I Danmark stiftedes 1885 en S. under
+Navnet »Foreningen til Fremme af Søndagens
+rette Brug«.
+<i>A. Th. J.</i>
+</chapter>
+
+<chapter name="Søndagsjæger">
+<b>Søndagsjæger.</b> I Jagtsproget en Person,
+der ikke forstaar Jagten, men alligevel vil
+udøve den.
+<i>S. F.</i>
+</chapter>
+
+<chapter name="Søndagsskoler">
+<b>Søndagsskoler,</b> Skoler, som Kirken har
+oprettet for at samle Børnene hver Søndag om
+Evangeliet til Belæring og til Gudstjeneste.
+Betegnelsen <sp>Børnegudstjeneste</sp> er omtr.
+enstydig med Betegnelsen S.; dog ligger der i
+Navnet S. angivet, at Børnene ikke alene
+samles til aktiv Gudstjeneste, men ogsaa for at
+modtage Menighedens Vejledning og Belæring.
+S. skal altsaa dels supplere den alm.
+Skoleundervisning paa det religiøse Omraade, dels
+gennem Samtale med Børnene, Salmesang o.
+s. v. arbejde paa at fremme det religiøse Liv
+hos Børnene og derved baade støtte den
+religiøse Opdragelse i Hjemmet og forberede
+Præstens Gerning ved Konfirmationsforberedelsen.
+Formerne, hvorunder S. arbejder, er i øvrigt
+forsk. S.'s egl. Stifter er Robert Raikes, der
+begyndte Arbejdet 1780 i Gloucester i England.
+1784 oprettede Præsten Rowland Hill den
+første S. i London, og snart kom flere efter. 1785
+dannedes i London et Selskab til Understøttelse
+af Sagen efter Raikes' Tilskyndelse, og endnu
+inden 18. Aarh.'s Udgang var Tanken gaaet til
+andre Lande og til de forskelligste
+protestantiske Kirkesamfund. Nu har alle Lande, hvor
+Evangeliet prædikes, S. I Norden optog
+<sp>Sverige</sp> Tanken forsøgsvis 1847 i Göteborg og
+med fuld Kraft 1851 i Sthlm. I <sp>Danmark</sp>
+var der smaa Begyndelser til S. i 1830'erne og
+1840'erne, navnlig havde Præsten P. O. Boisen
+en kort Tid S. i Kbhvn. 1861 oprettede
+Metodisterne en S. i Kbhvn. 1868 begyndte Enkefru
+Brunskov under Pastor Hohlenberg's Tilsyn en
+folkekirkelig S., og 1869 fulgte Skolebestyrer
+Axel Jacobsen efter med en anden S. »Kirkelig
+Forening for indre Mission i Kbhvn« optog
+Søndagsskolesagen, og nu kom der Fart i
+Bevægelsen. Ogsaa ude i Landet kom man med.
+S. er nu blevne indførte i alle Byer og de fleste
+Steder paa Landet. (<sp>Litt</sp>.: <sp>H. Ussing</sp>,
+»Søndagsskolen« [1888]).
+<i>A. Th. J.</i>
+
+I <sp>Norge</sp> begyndte man i det smaa med en
+S. i Stavanger henimod 1850. 1864 dannede
+Præsten H. E. Hansen den første S. i Oslo.
+1889 stiftedes »Norsk Søndagsskoleforbund«
+med det Formaal bl. a. at samle de inden for
+Landskirken bestaaende kristelige S. Forbundet
+tæller 1926 c. 1500 S. med over 4900 Lærere
+og Lærerinder og c. 95000 Børn. Forbundet
+udgiver »Barnebiblioteket« og »Norsk
+Søndagsskoleblad«. Ved Siden heraf arbejder i Norge
+»Norsk Søndagsskoleunion«, der omfatter en
+Del af Dissenterne, medens Frikirken,
+Metodisterne og Frelsesarmeen har deres egne
+Organisationer.
+<i>(K. F.). Wt. K.</i>
+</chapter>
+
+<chapter name="Søndeled">
+<b>Søndeled,</b> <sp>Herred</sp>, Holt Sorenskriveri,
+Risør Politidistrikt, Aust-Agder Fylke, 188,6
+km<sup>2</sup>, hvoraf 8,5 km<sup>2</sup> Ferskvand, (1920) 3130
+Indb., altsaa c. 18 Indb. pr km<sup>2</sup> Land, udgøres
+af S. Præstegæld med Ytre S. og Indre S.
+Sogne og omgives af Herrederne Dybvaag, Holt,
+Vegaardshei, Gjerstad, Sannidal og Skaatøy.
+Herredet, inden for hvilket Risør By (s. d.)
+ligger, ligger paa begge Sider af
+Søndeledfjorden og Sandnesfjorden; det bestaar væsentlig
+af Fastland med en Del (i alt 102) Øer og
+Holme, af hvilke Barmen (8,5 km<sup>2</sup>) er den
+største. Herredet er stærkt kuperet med
+skovdækkede Aaser og Fjeldmasser; Fjeldene, der som
+Regel er stejle, men med afrundede Former,
+naar sjælden over 200—250 m's Højde.
+Troldfjeld og Heiberg (243 m). Af Herredets Elve
+er de største Gjerstadelven, Vegaardselven og
+Molandselven; bl. Herredets Indsøer, hvoraf
+der findes 48, er de største Dalsvand (1,6 km<sup>2</sup>)
+og Skarvand (1,6 km<sup>2</sup>). Af Arealet er 8,5 km<sup>2</sup>
+Ager og Eng, 103,4 km<sup>2</sup> Skov, 8,5 km<sup>2</sup>
+Ferskvand; Resten er Udmark, Snaufjeld og Myr.
+Fjeldene er for det meste skovdækkede, men
+Skoven er adskillig udhugget; Skovdriften er
+af stor Bet. for dette Herred, hvor der findes
+adskillige større Damp- og Vandsavbrug; et
+Par mindre Kanaliseringsanlæg for
+Tømmerdriften er udførte. Af andre industrielle Anlæg
+findes Mølle og Bryggeri, Skibsværft med
+Dampsav samt flere Baadbyggerier, Træsliberi:
+Isforretning og Trætøffelfabrik. Bebyggelsen
+ligger fornemmelig langs Kysterne, til Dels
+ogsaa spredt i Dalene; større Husansamlinger
+findes ved Randvik-Korstveit og ved Buviken.

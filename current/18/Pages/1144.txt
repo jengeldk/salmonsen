@@ -1,0 +1,176 @@
+<chapter name="Periode (i Astronomi)">
+<b>Periode.</b> I <sp>Astronomien</sp> bruges ofte P.
+i Bet. af Omløbstid, deraf <sp>periodiske</sp>
+Kometer, ɔ: Kometer, hvis Bane er lukket
+(Ellipse), og som derfor viser sig igen i Modsætning
+til de Kometer, der gaar i parabolske Baner.
+Ved foranderlige Stjerner er P. Varigheden af
+Stjernens Veksling i Lysstyrke. I Kronologien
+bruges P. om et længere Tidsrum (se
+<sp>Cyklus</sp>). Om Hundestjerneperioden se
+<sp>Kalender</sp> (Ægypterne). Om Sarosperioden se
+<sp>Solformørkelse</sp>.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Periodedrift">
+<b>Periodedrift</b> er et nydannet Ord, som skal
+betegne vor hidtil alm. Højskovsdrift i
+Modsætning til de i de senere Aar opstaaede
+Driftsformer, ved hvilke Træsamfundet paa den
+enkelte Afdeling er sammensat af ulige høje
+Træer.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Periodeflade">
+<b>Periodeflade</b> kaldes i Skovbruget det, oftest
+samlede Areal, hvis Bevoksning skal forynges i
+et vist Tidsrum, en Planlægningsperiode
+(10—30 Aar). Tidligere inddelte man paa een Gang
+hele Skovdistriktet i lige store P., men det er
+man de fleste Steder kommet bort fra, da det
+viste sig at medføre store Ulemper, og at P.'s
+Grænser ofte ikke kunde opretholdes. Nu
+forekommer P. kun paa Papiret.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Periodekort">
+<b>Periodekort</b> kaldes det Kort over et
+Skovdistrikt, paa hvilket der for hver Afdeling er
+angivet, i hvilken Periode, regnet fra Nutiden,
+Afdelingens Bevoksning tænkes forynget; P.
+udfærdiges oftest kun skitsemæssig.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Periodicitet">
+<b>Periodicitet</b> (lat.), Kredsløb, regelmæssig
+Tilbagevenden inden for bestemte Tidspunkter.
+</chapter>
+
+<chapter name="periodisk Decimalbrøk">
+<b>periodisk Decimalbrøk,</b> se <sp>Decimalbrøk</sp>.
+</chapter>
+
+<chapter name="periodiske Forandringer">
+<b>periodiske Forandringer</b> kaldes i
+Astronomien saadanne, ved hvilke en Størrelse efter
+en bestemt, forholdsvis kort Tid vender tilbage
+til samme Værdi, som Nutationen, Aberrationen
+o. a. i Modsætning til de <sp>sekulære</sp>
+Forandringer som Præcessionen, Forandring af
+Ekliptikskraaheden o. a., der dog i Virkeligheden er
+periodiske, men i langt større Perioder. Se
+<sp>Perturbation</sp>.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="periodiske Funktioner">
+<b>periodiske Funktioner</b> (mat.). En Funktion
+siges at være <sp>periodisk</sp> med <sp>Perioden</sp>
+ell. <sp>Periodicitetsmodulen</sp> <i>a</i>, hvis dens
+Værdi ikke forandres, naar den uafhængige
+variable forøges med <i>a</i>. Ligningen <sp>tgx</sp> = <i>tg</i>(<i>x</i>
++ π) viser saaledes, at <i>tgx</i> har Perioden π.
+Har en Funktion flere Perioder, vil en Sum af
+Multipla af disse atter være en Periode; naar
+man taler om Antallet af en Funktions Perioder,
+tænkes kun paa saadanne, som ikke paa den
+nævnte Maade kan sammensættes af hverandre,
+medens alle andre Perioder kan sammensættes
+af dem. En entydig analytisk Funktion kan i
+denne Forstand højest have to Perioder, og
+deres Forhold kan ikke være reelt. Som
+Eksempler paa Funktioner med een Periode kan
+nævnes foruden de trigonometriske ogsaa den
+eksponentielle, der er sammenknyttet med de
+trigonometriske ved Ligningen <i>e<sup>xi</sup></i> = <i>cosx</i> + <i>i sinx</i>
+og har Perioden 2π. Dobbeltperiodiske er f. Eks.
+de elliptiske Funktioner.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="periodiske Livsytringer">
+<b>periodiske Livsytringer.</b> Parallelt med
+Svingningerne i de ydre Kaar, hvorunder
+Planterne lever, fremtræder der periodiske
+Svingninger i mange af Plantens Livsprocesser.
+Nogle af disse er inducerede ɔ: de fremkaldes
+direkte af de ydre Kaar. Saaledes vil de daglige
+Svingninger i Temperaturen fremkalde
+Svingninger i Respirationsintensitet og
+Væksthastighed, fremdeles vil Kulsyreassimilationen kun
+foregaa om Dagen, fordi den er betinget af
+Lyset. En stor Del af de p. L. (og deriblandt
+mange, om hvilke man ikke skulde vente det)
+er dog autonome ɔ: de forløber paa lgn. Maade
+som ude i Naturen, selv om Planten befinder sig
+under konstante ydre Kaar, og maa derfor
+skyldes indre Aarsager i Planten. Dette gælder om
+de forsk. Faser under Udviklingen af en
+eenaarig Plante, Spiring, vegetativ Udvikling,
+Blomstring, Frøsætning. Ogsaa Hvileperioderne, som
+vi finder hos næsten alle fleraarige Planter, er
+autonome. Hvileperioden hos vore Træer falder
+ikke bort, selv om de henflyttes til en Lokalitet
+med ensartet Klima. Til de p. L. hører ogsaa
+fotonastiske Bevægelser ell. Søvnbevægelser, som
+vi kender f. Eks. fra Mimosa, Kløver,
+Surkløver og mange andre Planter. Disse Bevægelser
+fremkaldes til en vis Grad af det daglige Skifte
+mellem Lys og Mørke, men til Dels er de
+autonome, hvad der fremgaar af, at Bevægelserne
+fortsættes i nogen Tid, selv om de befinder sig
+i konstant Lys.
+<i>B. J.</i>
+</chapter>
+
+<chapter name="periodiske Opkastninger">
+<b>periodiske Opkastninger</b> træffer man af
+og til i Barnealderen, visende sig ved pludselig
+opstaaende, heftige Opkastninger, der
+indtræffer efter Indtagelse af al Slags Føde, selv efter
+Vand. Opkastningerne, som kan vedvare i flere
+Døgn og afkræfter Barnet meget, standser saa
+atter pludselig, for derefter, hvad der er det
+særegne ved Sygdommen, uden nogen
+paaviselig Aarsag igen at indtræffe som Regel efter 1
+ell. flere Maaneders Forløb. Samtidig med
+Opkastningen konstateres en sødlig, frugtagtig
+Lugt fra Barnets Udaandingsluft, stammende
+fra et Stof, kaldet Aceton, der ogsaa kan
+paavises i Urinen. Aarsagen til Sygdommen er ikke
+ganske klar; der er dog meget, der taler for,
+at det skulde dreje sig om en Stofskiftelidelse,
+hvor Fedtet skulde spille den skadelige Rolle;
+man har da ogsaa kunnet bringe Anfaldene til
+snarlig Ophør ell. til at formindskes ved at
+sætte Barnet paa en fedtfri Kost.
+<i>P. H.</i>
+</chapter>
+
+<chapter name="periodiske System">
+<b>periodiske System.</b> Det er i Kemien en
+velkendt og fundamental Lov, at
+Grundstoffernes kem. Egenskaber er en periodisk Funktion
+af Atomvægten. Ordnes Grundstofferne efter
+stigende Atomvægt, vil man med visse bestemte
+Mellemrum (Perioder) træffe Stoffer med
+analoge Egenskaber. Inden for Perioderne vil de
+kem. Egenskaber forandres paa regelmæssig
+Maade fra Stof til Stof. Det er disse
+Lovmæssigheder, der har fundet deres tydeligste Udtryk
+i Opstillingen af det p. S. ell., som det ofte
+kaldes, <sp>Grundstoffernes naturlige
+System</sp>.
+
+Allerede 1829 viste <sp>J. W. Döbereiner</sp>,
+hvorledes adskillige af de da kendte
+Grundstoffer kunde ordnes i »Triader«, bestaaende af 3
+Grundstoffer med analoge kem. Egenskaber, og
+hvor desuden Atomvægten af det midterste Stof
+var omtr. lig med Middeltallet af de to andre.
+Saadanne Triader dannes f. Eks. af Stofferne
+Kalcium-Strontium-Barium og Klor-Brom-Jod.

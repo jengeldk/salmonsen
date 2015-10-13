@@ -1,0 +1,150 @@
+Subjektsbegrebet (»Kritik der reinen Vernunft«, 1781,
+Indledning). Kant's Sondring beror paa en
+Forveksling af det logiske og det psykologiske
+Synspunkt; logisk set er alle Dommene
+analytiske, idet de udtrykker en Identitet.
+<i>A. T-n.</i>
+</chapter>
+
+<chapter name="Analyse (sprogvidenskab)">
+<b>Analyse</b> (<sp>sprogv.</sp>) betegner enhver
+Udskillen af et Sprogstofs Elementer. Man kan
+saaledes foretage en <sp>fonetisk A.</sp> af et Ord,
+idet man bestemmer de forskellige Lyd, hvoraf
+det bestaar. Ved <sp>etymologisk A.</sp> fastslaar
+man ad sproghistorisk Vej, f. Eks. af hvilken
+Rod og Endelser vedk. Ord opr. er dannet, og
+oplyser i det hele, hvilke Faktorer der har
+virket til at meddele Ordet dets givne Form.
+Sædvanlig menes der med A. dog kun
+<sp>syntaktisk A.</sp>, hvorved man forstaar
+Bestemmelse af de enkelte Ords Funktion i Sætningen
+og Sætningernes indbyrdes Forhold.
+<i>V. D.</i>
+</chapter>
+
+<chapter name="Analyse (matematisk)">
+<b>Analyse</b> (<sp>mat.</sp>). Ved en Opgaves A.
+forstod de gamle Grækere den Fremgangsmaade at
+tænke sig Opgaven løst og saa udlede saadanne
+Forbindelser, som virkelig kunde give
+Løsningen. A. gav <sp>alle</sp> Løsninger, saaledes at ingen
+blev glemt; at de fundne Løsninger ogsaa
+virkelig var rigtige, sikrede man sig ved
+<sp>Syntesen</sp>, d. v. s. ved at føre Beviserne. Nu
+bruges Ordet i Matematikken nærmest i
+Forbindelserne <sp>algebraisk A.</sp> (de endelige
+Størrelsers A.), d. v. s. Algebra og Funktionslære,
+og den <sp>højere A.</sp> (det uendeliges A.),
+der indbefatter Differential-, Integral- og
+Variationsregning. Ved den ubestemte A. ell.
+<sp>Ana1ytik</sp> forstaas Læren om de ubestemte
+Ligninger; den kaldes ogsaa undertiden den
+<sp>diofantiske A.</sp> p. Gr. a. de Bidrag, Diofantos
+har givet til den.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Analyse (kemisk)">
+<b>Analyse</b> (<sp>kemisk</sp>). Den kemiske A.'s
+Formaal er at udforske de nærmere Bestanddele
+i et forelagt Legeme; den gaar ud paa at
+bestemme Bestanddelene efter deres <sp>Art</sp> eller
+efter deres <sp>Mængde</sp>; i første Tilfælde kaldes
+den <sp>kvalitativ</sp>, i sidste <sp>kvantitativ A.</sp>;
+den sidste kan udføres efter Vægt ell. efter
+Rumfang. I Reglen beror A.'s Udførelse
+derpaa, at man lader det Legeme, der skal
+undersøges, paavirkes af andre Stoffer,
+<sp>Reagenser</sp> (Prøvemidler), hvis Egenskaber er
+bekendte, og af de Fænomener, <sp>Reaktioner</sp>,
+som herved viser sig, drages Slutninger m. H.
+t. Nærværelsen af visse Stoffer, for hvilke disse
+Reaktioner er karakteristiske. Reagenserne er
+i Reglen Syrer, Baser ell. Salte og vælges
+oftest saaledes, at de angiver Nærværelsen af
+et bestemt Stof ved Dannelsen af et Bundfald,
+altsaa af en uopløselig Forbindelse, ell. ved
+at der fremtræder en karakteristisk Farvning
+af Opløsningen, idet der dannes farvede
+Forbindelser. Visse Reagenser forholder sig
+overensstemmende over for hele Grupper af kem.
+Forbindelser ell. Grundstoffer; saadanne
+Reagenser kan altsaa ikke tjene til paa Forhaand at
+drage Slutninger m. H. t. Nærværelsen af et
+enkelt, bestemt Stof, men de benyttes som
+<sp>Gruppereagenser</sp> til at isolere en bestemt
+Gruppe af Stoffer i Form af et Bundfald,
+som derefter kan undersøges nærmere ved
+Hjælp af særlige Reagenser, ved hvis Hjælp de
+enkelte, i en saadan Gruppe tilstedeværende
+Stoffer kan paavises. Skal de Slutninger, som
+man drager af Reaktionerne, være paalidelige,
+maa alle Forhold tages nøje i Betragtning, og
+alle de Betingelser, under hvilke Reaktionen
+forløber tydeligst, maa nøjagtig opfyldes. Til
+Udførelsen af kemiske A. fordres derfor gode,
+kemiske Kundskaber og megen Omhu,
+Taalmodighed og Samvittighedsfuldhed; uden Øvelse
+vil man ikke opnaa paalidelige Resultater. Ved
+Udførelsen af A. maa det erindres, at Beviset
+for, at det forelagte Legeme ikke indeholder
+visse Stoffer, bør være lige saa fyldestgørende
+som Beviset for, at det indeholder visse andre.
+
+<sp>Kvalitativ A.</sp> Den kvalitative A. af et
+forelagt Legeme kan være mere ell. mindre
+fuldstændig alt efter det Formaal, der tilsigtes;
+ofte gælder det kun om Paavisning af et
+enkelt Stof i en forelagt Forbindelse; i dette
+Tilfælde er Undersøgelsen meget simpel. Vil man
+derimod paavise fl. Stoffer i en forelagt
+Forbindelse ell. Blanding, da bliver Undersøgelsen
+mere indviklet, og saafremt det gælder om at
+bestemme alle Bestanddele i et Legeme af
+ubekendt Sammensætning, da maa man gaa
+systematisk frem for ikke at overse nogen
+Bestanddel.
+
+Ved en saadan systematisk Undersøgelse er
+det af Vigtighed først at underkaste det
+forelagte Legeme nogle <sp>foreløbige Prøver</sp>,
+idet man undersøger Legemets fysiske
+Egenskaber, dets Forhold ved Ophedning med ell.
+uden Luftens Adgang ell. ved Smeltning med
+Salpeter ell. Boraks ell. med Kul og Soda for
+Blæserøret. Ogsaa de saakaldte
+<sp>Flammereaktioner</sp> kan tjene som foreløbige
+Prøver, idet man opheder yderst smaa Mængder
+af Stoffet paa en fin udglødet Platintraad i
+bestemte Dele af den ikke lysende Flamme fra
+en Bunsensk Lampe. For nogle Stoffers Vedk.
+er disse Flammereaktioner meget karakteristiske
+p. Gr. a. den Farve, Flammen antager.
+Mest følsom er Iagttagelsen af den farvede
+Flamme i Spektroskopet (se <sp>Spektralanalyse</sp>).
+Undertiden er det tilstrækkeligt alene
+at udføre A. ved Hjælp af de nævnte foreløbige
+Prøver ɔ: <sp>ad den tørre Vej</sp>; hyppigst
+udføres den dog <sp>ad den vaade Vej</sp>, efter at
+man har udført nogle foreløbige Prøver. Man
+bringer i saa Tilfælde det forelagte Legeme i
+Opløsning ved Hjælp af Vand ell. en Syre, ell.,
+saafremt dette ikke lader sig gøre, sønderdeler
+man det først ved Smeltning med Natriumkarbonat
+ell. med andre Stoffer, der kan overføre
+det til opløselige ell. let sønderdelelige
+Forbindelser. Den dannede Opløsning gøres svagt sur,
+og man tilleder Svovlbrinte, hvorved fældes
+Arsen, Antimon, Tin, Guld, Platin, Kviksølv, Bly,
+Sølv, Vismut, Kobber og Kadmium som
+Svovlforbindelser; det dannede Bundfald behandles efter
+Udvadskning med gult Svovlammonium,
+hvorved Arsen, Antimon, Tin, Guld og Platin gaar
+i Opløsning, idet der dannes opløselige
+Sulfosalte, medens de øvrige Svovlforbindelser bliver
+uopløste tilbage. Efter Filtrering fældes de
+nævnte fem Grundstoffers Svovlforbindelser af
+Opløsningen ved Tilsætning af fortyndet
+Svovlsyre og adskilles derpaa ved deres forskellige
+Forhold over for Reagenser. For Guld og Platin

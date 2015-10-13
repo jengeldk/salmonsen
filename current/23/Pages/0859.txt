@@ -1,0 +1,164 @@
+Arbejdslinien her er skildrede, passer de paa
+sejge Jernsorter, Svejsejærn og blødt Staal. De
+andre sejge Materialer vil i Hovedsagen
+forholde sig paa samme Maade, idet de forlænger
+sig mer eller mindre stærkt og snører sig ind,
+før de brydes, men i den første Del af
+Arbejdslinien kan der være betydelige Afvigelser.
+Saaledes er Flydegrænsen kun skarpt markeret
+hos de bløde Jernsorter og nogle
+Zink-Kobber-Legeringer, de andre Stoffer har en mere jævn
+Overgang mellem Arbejdsliniens stejle og dens
+flade Del; specielt gælder dette for alle
+Metaller (ogsaa Staal), som er udstøbte uden
+derefter at blive mekanisk bearbejdede. Det er
+ogsaa de færreste Stoffer, der har en
+Proportionalitetsgrænse; i Reglen (saaledes ved
+Zinkstøbegods, Kobber, Legeringer m. m.) vokser
+Forlængelserne fra Begyndelsen hurtigere end
+Spændingerne paa samme Maade som ved de
+skøre Stoffer. Til Gengæld er der enkelte skøre
+Materialer, som meget haardt Staal, der har
+en Proportionalitetsgrænse.
+
+<sp>Forsøgshastigheden</sp> har Indflydelse
+paa Arbejdsliniens Form og dermed paa
+Styrke, Brudforlængelse m. m. Jo hurtigere man
+vil fremtvinge en vis Deformation, des mere
+vokser den indre Friktion, og des større
+Spænding kræves der til at overvinde den. Et
+Eksempel haves i Beg, der under Tyngdens
+Indflydelse langsomt flyder ud til en flad Kage,
+mens det springer som et skørt Legeme, hvis
+man hurtigt paatvinger det en Formforandring.
+Brudstyrken stiger og Brudforlængelsen
+aftager med voksende Hastighed.
+Forsøgshastigheden har stor Indflydelse paa Styrken af Tin
+(ved et normalt Trækforsøg bærer en Tinstang
+c. 20 Gange mere end ved et yderst langsomt
+Forsøg), Bly, Træ og Læder, og det samme
+gælder for alle Metaller, naar Forsøget gøres
+ved høj Temperatur, over 2—300°. Jernets
+Flydegrænse og de tilstødende Dele af
+Arbejdslinien ligger ogsaa højere ved et hurtigt end
+ved et langsomt Forsøg, men paa Jernets
+Styrke og Brudforlængelse har Forsøgsvarigheden
+kun ringe Indflydelse. Om dynamiske T. se
+<sp>Slagforsøg</sp>.
+
+Mellem Forlængelse pr. Længdeenhed, ε,
+og Tværforkortelsen pr. Længdeenhed, μ,
+bestaar der et Forhold, der er forskelligt for de
+elastiske og de blivende Formforandringer; for
+de første haves ε : μ = c. 3,5, for de sidste
+haves ε : μ — c. 2. Naar en Stang strækkes,
+vil 1 cm<sup>3</sup> af den forandre sit Volumen til <i>V</i> =
+(1 + ε) (1 — μ), der ved Bortkastelsen af
+smaa Størrelser af 2den Orden bliver til:
+
+<i>V</i> = (1 + ε) · (1 - 2 μ) — 1 + ε - 2 μ.
+(1) Er Formforandringen ren elastisk, faas: <i>V</i>
+= 1 + 3,5 μ — 2 μ = 1 + 1,5 μ ɔ: en
+Volumenforøgelse. Ved Trykforsøg skifter ε og μ
+Fortegn, saa at en elastisk Sammentrykning
+medfører en Volumenformindskelse. Et
+Legemes Vægtfylde vil altsaa formindskes, naar der
+kommer Trækspændinger i det, og forøges, naar
+der kommer Trykspændinger i det. Ligesom
+hos Luftarterne er den elastiske
+Sammentrykning forbunden med Opvarmning og den
+elastiske Udvidelse med Afkøling. Ved at maale
+Temperaturændringerne i en bøjet Bjælke paa
+forskellige Steder kan den neutrale Akses
+Beliggenhed findes. (2) Er hele Formforandringen
+blivende, faas <i>V</i> = 1 + 2 μ — 2 μ = 1; en
+Stangs Volumen forandres altsaa ikke, selv om
+den trækkes over. Dette stemmer dog ikke helt;
+ved Traadtrækning bliver Metallernes
+Vægtfylde forringet, medmindre de udglødes efter
+Trækningen. Den plastiske Formforandring
+fremkommer ved, at den indre Friktion i Materialet
+overvindes, og er altid forbundet med en
+Varmeudvikling baade ved Træk- og Trykforsøg.
+Mens Støbejern ved et Trækforsøg afkøles, lige
+indtil Bruddet sker, har de sejge Metaller et
+meget skarpt Vendepunkt, hvor Temperaturen
+gaar over fra at falde til at stige, hvilket Punkt
+svarer til Flydegrænsen. Naar man maaler
+Stangens Temperatur under Forsøget og
+optegner den grafisk, fremtræder dette Punkt meget
+tydeligt.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Trækfugl">
+<b>Trækfugl,</b> se <sp>Træk</sp>.
+</chapter>
+
+<chapter name="Trækfærge">
+<b>Trækfærge,</b> et bredt, i Reglen fladbundet
+Fartøj, som besørger Overskibning af
+Mennesker, Dyr og Genstande over Aaløb, Floder e. l.,
+hvor der ingen Broforbindelse findes. T.'s Frem-
+og Tilbagefart foregaar saaledes, at der fra den
+ene Strandbred til den anden fører et Tov, en
+Kæde eller Jerntraad saa lang, at den kan ligge
+paa Bunden af Vandet. Naar T. skal bevæges
+fra een Bred til en anden, føres Tovet over
+Ruller i For- og Agterenden af Færgen, og denne
+hales da med Haand- eller Dampkraft frem og
+tilbage.
+<i>(C. L. W.). C. B-h.</i>
+</chapter>
+
+<chapter name="Trækharmonika">
+<b>Trækharmonika,</b> se <sp>Harmonika</sp>.
+</chapter>
+
+<chapter name="trække">
+<b>trække</b> (Søv.); et Sejl siges at t. naar det
+staar fuldt, hvorved det driver Skibet fremad.
+»At have til, alt hvad t. kan«: at have alle Sejl
+tilsatte; <sp>t. paa Aarerne</sp>; at ro til af alle
+Kræfter; <sp>t. sammen</sp>, siges om Luften, naar
+den tykner til og faar et uroligt Udseende; <sp>t.
+Vand</sp>, lække.
+<i>(C. L. W.). C. B-h.</i>
+</chapter>
+
+<chapter name="Trækkebænk">
+<b>Trækkebænk,</b> Apparat til Fremstilling af
+Metaltraad og Metalrør, til Fremstilling af
+profilerede Lister af Metalblik og af Træ. T.'s
+Indretning retter sig selvfølgelig efter dens
+Opgave.
+<i>D. H. B.</i>
+</chapter>
+
+<chapter name="Trækkejern">
+<b>Trækkejern,</b> den ved Fremstilling af
+Metaltraad (s. d.) brugte Staalplade, gennem hvis
+dobbeltkoniske Huller Traaden trækkes. Ved
+hurtig Trækning af tynde Traade er Hullerne
+forede med en gennemboret haard Sten
+(Diamant, Rubin, Safir).
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Trækkekraft">
+<b>Trækkekraft</b> betegner i jernbanemæssig
+Henseende den samlede af et Lokomotivs
+Dampmaskine udviklede Kraft, henført til
+Drivhjulenes Omkreds. Da denne T. tjener dels til
+at trække et Tog over Banen, dels til at bevæge
+selve Lokomotivet (eventuelt med Tender), maa
+den være større end den T., som virker i
+Lokomotivets (Tenderens) Trækkrog, den saakaldte
+<sp>effektive T.</sp>, der medgaar til Bevægelse af
+selve Vogntoget. T. beregnes f. Eks. for et
+almindeligt Højtryks - Tvilling - Lokomotiv efter
+Formlen: <i>T</i> = <i>pm</i> · <i>d</i><sup>2</sup> · <i>l</i> / <i>D</i> kg, hvor <i>pm</i> = det
+indicerede Middeldifferenstryk i kg pr cm<sup>2</sup> af
+Dampstemplets Areal, <i>d</i> = Stemplets Diameter i
+cm, <i>l</i> = Stemplets Slaglængde i m og <i>D</i> =
+Drivhjulenes Diameter i m; da imidlertid

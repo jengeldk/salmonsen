@@ -1,0 +1,151 @@
+<chapter name="Præceteris">
+<b>Præceteris,</b> se <sp>Laudabilis</sp>.
+</chapter>
+
+<chapter name="Præcipitat">
+<b>Præcipitat</b> (lat.), Bundfald fremkommet ved
+Fældning. <sp>Hvidt P.</sp>, HgNH<sub>2</sub>Cl, et hvidt
+Bundfald, som fremkommer ved Tilsætning af
+Ammoniakvand til en Opløsning af Merkuriklorid.
+Thomas' P., se <sp>Thomas' SLakke</sp>.
+<i>(O. C.). R. K.</i>
+</chapter>
+
+<chapter name="Præcipitation">
+<b>Præcipitation,</b> se <sp>Præcipitin</sp>.
+</chapter>
+
+<chapter name="Præcipitatsalve">
+<b>Præcipitatsalve,</b> <sp>rød</sp>, d. s. s. rød
+Kvægsølvsalve, <sp>hvid</sp>, en Blanding af hvidt
+Kvægsølvpræcipitat og Fedt, bruges mod
+Hudsygdomme og Øjenlidelser.
+<i>E. K.</i>
+</chapter>
+
+<chapter name="Præcipitin">
+<b>Præcipitin.</b> Herved forstaas et Antistof
+(s. d.), der frembringer en Udfældning,
+<sp>Præcipitation</sp>, i en Opløsning af det til P.
+svarende (homologe) Antigen (s. d.). Fænomenet
+er første Gang iagttaget af <sp>R. Kraus</sp> (1897),
+der saa, at et specifikt Immunserum
+frembringer en Udfældning i en klar, ved Centrifugering
+for Bakterier befriet Næringsbouillon, hvori den
+til Immunserum svarende Bakterieart har vokset
+nogen Tid. Under Væksten er en Del af
+Bakterierne døde og gaaet i Opløsning, og det er af
+disse frigjorte Æggehvidestoffer, resp.
+Forbindelser mellem disse og Lipoider, der sammen
+med Antistoffet, P., i Immunserum frembringer
+Udfældningen. Det viste sig snart, at det nævnte
+Tilfælde kun var et Enkelttilfælde inden for en
+alm. gældende Regel: et specifikt med
+Proteinstof (resp. Lipoid-Proteinstof) fremstillet
+Immunserum frembringer en Udfældning i en
+Opløsning af det homologe Antigen og kun i en
+saadan. Herved kunde Princippet bruges i en
+diagnostisk Metode til Identificering af
+Proteinstoffer af forsk. Oprindelse. Navnlig i
+Retsmedicinen har dette faaet Bet. (indført af
+<sp>Uhlenhuth</sp>), idet man ved Hjælp af altid til Stede
+værende Immunsera kan afgøre, om f. Eks. en
+given Blodplet hidrører fra, et Menneske ell. et
+Dyr, resp. hvilken Dyreart. Ogsaa til
+Paavisning af Forfalskning af Næringsmidler har
+Metoden fundet Anvendelse, f. Eks. til Paavisning
+af Hestekød, Katte- ell. Hundekød i saadanne
+Fødemidler (Pølser, Fars etc.), der gives ud
+for at være fremstillet af dyrere Kødsorter. Paa
+lgn. Maade kan det paa vises, om f. Eks.
+Honning er ægte Bihonning ell. Kunsthonning, o.
+s. v. Som Kuriosum kan anføres, at Personer,
+der har simuleret (Kassationsgrund for
+Værnepligtige) Nyrebetændelse derved, at de til
+deres Urin har tilsat et ell. andet dyrisk
+Æggehvidestof, er blevet af sløret ved Hjælp af P.
+Metoden. I visse Tilfælde kan man ved Hjælp
+af P.-holdigt Immunserum paavise
+Tilstedeværelse af en bestemt Bakterieart i inficerede
+Dyrs (resp. Menneskers) Organer, saaledes ved
+Snive og Miltbrand.
+<i>O. T.</i>
+</chapter>
+
+<chapter name="præcis">
+<b>præcis</b> (lat.), nøje, punktlig, bestemt;
+præcisere, udtrykke noget nøje og bestemt.
+</chapter>
+
+<chapter name="Præcision">
+<b>Præcision,</b> Nøjagtighed, fyndig Bestemthed,
+skarp Opfattelse.
+</chapter>
+
+<chapter name="Præcisionsmaal">
+<b>Præcisionsmaal,</b> Talstørrelser, der beregnes
+af Resultaterne af Indskydning (s. d.) af
+Skydevaaben, og som tjener til Bedømmelse af disses
+<sp>Skudsikkerhed</sp>. Som P. bruges den
+sandsynlige Højdeafvigelse <i>r<sub>h</sub></i> og den sandsynlige
+Sideafvigelse <i>r<sub>s</sub></i> samt Spredningsradius <i>R</i>.
+Udskydes der, under de gunstigst mulige
+Omstændigheder, mod en lodret staaende Skive f. Eks.
+10000 Skud, vil disses Anslag paa Skiven
+gruppere sig omkr. et Middeltræffepunkt
+(»Middelkuglen«) efter en bestemt matematisk Lov, den
+saakaldte Fejllov. Drages der paa Skiven en
+vandret og en lodret Akse gennem
+Middeltræffepunktet, og inddeles Skiven ved Linier,
+parallelle med disse Akser, i lige brede
+vandrette og lodrette Bælter (<i>aa, bb, cc, dd, ee, ff,
+gg, hh</i> . . . . . .), hvis Bredde er henh. <i>r<sub>h</sub></i> og
+<i>r<sub>s</sub></i> (se Fig.), vil Træfferprocenterne i Bælterne
+<table>
+<td><td><td c><i>e</i><td c><i>f</i><td c><i>g</i><td c><i>h</i>
+<td><i>d</i><td c>2 pCt.<td r>50<td r>32<td r>14<td r>4<td><i>d</i>
+<td><i>c</i><td c>7 —<td r>175<td r>112<td r>49<td r>14<td><i>c</i>
+<td><i>b</i><td c>16 —<td> rr00<td r>256<td r>112<td r>32<td><i>b</i>
+<td><i>a</i><td>25 — <i>r<sub>h</sub></i>{<td r>625<td r>400<td r>175<td r>50<td><i>a</i>
+<td><td><td><i>r<sub>s</sub></i> 25 —<td>16 —<td>7 —<td>2 pCt.
+<td><td><td c><i>e</i><td c><i>f</i><td c><i>g</i><td c><i>h</i>
+</table>
+
+gruppere sig som vist paa Figuren med 25, 16,
+7 og 2, og de to Bælter, der ligger nærmest
+Akserne, vil indeholde Halvdelen af Træfferne.
+Hver Fjerdedel af Skiven indeholder, hvis der
+er affyret 10000 Skud, 2500 Træffere, og det
+ses af Figurens øverste Fjerdedel, hvorledes
+disse grupperer sig i de enkelte Rektangler,
+der fremkommer paa Skiven ved Skæringen af
+de vandrette og lodrette Linier. Jo smallere
+Bælterne er, d. v. s. jo mindre <i>r<sub>h</sub></i> og <i>r<sub>s</sub></i> er,
+desto mere samlet sidder Skuddene i Skiven,
+desto større Præcision har Geværet. Ved Hjælp
+af P. kan man for et Maal af en vis Størrelse
+beregne Træfningssandsynligheden. Er Maalets
+Højde og Bredde f. Eks. 2<i>r<sub>h</sub></i> og 2<i>r<sub>s</sub></i>, og falder
+Middeltræffepunktet midt paa Maalet, vil hver
+Fjerdedel af dette blive ramt af 625 Skud, det
+hele Maal af 4 X 625 = 2500, ɔ: der er
+Sandsynlighed for, at 1/4 af Skuddene vil træffe
+Maalet. P. tjener til at sammenligne forskellige
+Vaabens Skudsikkerhed og den Skudsikkerhed,
+der med samme Vaaben kan opnaas paa forsk.
+Afstande. Hvorledes Skudsikkerheden er vokset,
+efterhaanden som Gevær og Ammunition er
+blevne forbedrede og Løbets Kaliber
+formindsket, ses af nedenstaaende P. svarende til en
+Skudafstand af 234 m:
+<table>
+<td c>Gevær<td c>Projektilvægt<br>i g<td c>Løbets<br>Kaliber<br>i mm<td c><i>r<sub>h</sub></i><br>(i m)<td c><i>s</i><br>(i m)
+<td>Glatløbet (1819)<td r>21,5<td r>16,8<td r>1,18<td r>0,74
+<td>Remington (1867)<td r>25,0<td r>11,4<td r>0,11<td r>0,10
+<td>8 mm Gevær (1889)<td r>12,7<td r>8,0<td r>0,06<td r>0,06
+</table>
+
+Ved Spredningsradius <i>R</i> forstaas Radius til
+den Cirkel, der, draget om
+Middeltræffepunktet som Centrum, omslutter 50 % af Træfferne.
+

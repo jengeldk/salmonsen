@@ -1,0 +1,186 @@
+Vædsken og dels i destilleret Vand ved 4° C.;
+Forholdet mellem disse Tab giver V. Men til
+Bestemmelsen haves for øvrigt ogsaa andre
+Metoder (se <sp>Aræometer</sp> og
+<sp>Pyknometer</sp>). — En <sp>Luftarts V.</sp> bestemmer man
+ved at veje en større Beholder, hvis Rumfang
+er kendt, fyldt med Luftarten og lufttom;
+Differensen giver Luftartens Vægt, og af denne og
+Rumfanget findes V. (<sp>Litt</sp>.: <sp>Scheel</sp>,
+»Praktische Metronomie« [Braunschweig 1911]; <sp>K.
+Prytz</sp>, »Fysiske Maalemetoder« [Kbhvn 1914]).
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Vægtklasser">
+<b>Vægtklasser,</b> se <sp>Fjervægt</sp>.
+</chapter>
+
+<chapter name="Vægtlod">
+<b>Vægtlod,</b> se <sp>Vejeredskaber</sp> og
+<sp>Normaler</sp>.
+</chapter>
+
+<chapter name="Vægtskaal">
+<b>Vægtskaal,</b> se <sp>Vejeredskaber</sp>.
+</chapter>
+
+<chapter name="Vægtstang">
+<b>Vægtstang.</b> I Fysikken forstaar man ved V.
+ethvert Legeme, der er bundet til at dreje sig
+om en fast Akse. For at finde Virkningen af de
+Kræfter, der angriber en V., opløser man hver
+Kraft i to Komposanter (se <sp>Kræfters
+Sammensætning</sp>), hvoraf den ene er parallel
+med Aksen, og den anden ligger i et Plan, som
+staar vinkelret paa Aksen. Kun den sidste
+bidrager til Drejning af Vægtstangen. For at
+finde dens Evne til at dreje V. multiplicerer
+man den med dens Arm, d. v. s. Afstanden fra
+Kraften til Aksen, maalt vinkelret paa dem
+begge. Produktet kaldes Kraftens <sp>statiske
+Moment</sp>. Alle de »Momenter«, der søger at dreje
+Legemet samme Vej rundt (f. Eks. med Uret,
+naar man ser paa Legemet fra et vilkaarlig
+valgt Punkt af Aksen), lægges sammen for sig;
+de Momenter, der drejer den modsatte Vej,
+lægges sammen for sig, og Drejningen vil da
+foregaa til den Side, for hvilken
+Momentsummen er størst. Betingelsen for <sp>Ligevægt</sp>
+bliver, at de to Momentsummer skal være lige
+store. En særlig simpel Form for V. har man
+i en lige Stang, der kan drejes om en vandret
+Akse vinkelret paa Stangens Længderetning.
+Staar Stangen vandret, og paavirkes den kun
+af Kræfter, der enten gaar lodret nedad eller
+lodret opad, bliver hver Krafts Arm d. s. s.
+Afstanden fra Aksen til Kraftens Angrebspunkt.
+Paavirkes Stangen af to Kræfter, der ligger
+lige langt fra Aksen, hver paa sin Side af den,
+kaldes V. <sp>ligearmet</sp> og <sp>toarmet</sp>; er
+Armene ulige store, er den <sp>uligearmet</sp>,
+og virker Kræfterne endelig paa samme Side
+af Armen, kaldes V. <sp>enarmet</sp>. I saa Fald
+kan der kun være Ligevægt, naar Kræfterne
+virker i modsatte Retninger. Disse Inddelinger
+har dog kun Betydning, saa længe man
+betragter de simpleste Tilfælde; de gaar let over i
+hinanden eller bliver meningsløse, naar man
+behandler V. i Almindelighed. Læren om V.
+benytter man for at finde Beliggenheden af
+<sp>parallelle Kræfters</sp> (se <sp>Kræfters
+Sammensætning</sp>) Resultant. Dennes
+Afstand fra en vilkaarlig valgt Akse, der staar
+vinkelret paa Kræfterne, er nemlig bestemt
+ved, at Resultantens Moment med Hensyn til
+Aksen er lige stort med Summen af
+Kræfternes Momenter. — Anvendelsen af
+Vægtstænger er overmaade udbredt. Tænger, Sakse,
+Brækjern, Døre, Trisser, Vinder o. m. a. kan
+behandles som een eller flere Vægtstænger, og
+overalt gælder det, at en Kraft har desto større
+Evne til at dreje Stangen, jo længere Arm den
+har at virke paa. — Benyttelsen af V. er
+begyndt før den historiske Tid, og allerede
+Archimedes kendte Ligevægtsloven for to
+Legemer, der er ophængte paa en uligearmet V.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="Vægtstangsarm">
+<b>Vægtstangsarm,</b> se <sp>Vægtstang</sp>.
+</chapter>
+
+<chapter name="Vægttermometer">
+<b>Vægttermometer,</b> et Redskab til at
+bestemme en Temperatur ved Hjælp af en
+Vædskemasses Vægt. Det bestaar i sin simpleste
+Form af en Glasflaske, hvis Hals er trukket
+ud i en fin Spids. Flasken fyldes med
+Kvægsølv ved en Temperatur, som er lavere end
+den, der skal bestemmes. Stiger Temperaturen,
+løber en Del af Kvægsølvet ud, og man kan
+senere ved Vejning faa at vide, hvor meget der
+er løbet ud, og hvor høj følgelig den højeste
+Temperatur har været, som V. har været udsat
+for. Det er altsaa et Maksimumstermometer.
+Som Anvendelse kan nævnes Bestemmelse af
+Temperaturen i en vilkaarlig Dybde i et
+artesisk Borehul.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="Vægtæpper">
+<b>Vægtæpper,</b> se <sp>Gobelin</sp>.
+</chapter>
+
+<chapter name="Währing">
+<b>Währing</b> ['væ.reŋ], se <sp>Wien</sp>.
+</chapter>
+
+<chapter name="Vähäkyrö">
+<b>Vähäkyrö</b> ['væhækyrö], svensk Lillkyro,
+Sogn i Vasa Län, Finland, ved Kyrö älv
+(Kyronjoki). 190 km<sup>2</sup> med (1925) 5513 finsktalende
+Indbyggere.
+<i>M. H-n.</i>
+</chapter>
+
+<chapter name="Väinämoinen">
+<b>Väinämoinen</b> ['væ^ina'mö^inæn], se
+<sp>Kalevala</sp>.
+</chapter>
+
+<chapter name="vække">
+<b>vække.</b> For i langvarige Isvintre at undgaa
+Kvælning af Fiskebestanden kan det i Søer med
+lavt Vand og meget Dynd eller, hvor Vandet
+forurenes med iltforbrugende Stof, være
+heldigt at v. ɔ: hugge Vaager; i disse anbringes
+gerne et Rør- eller Halmknippe.
+<i>C. V. O.</i>
+</chapter>
+
+<chapter name="Vækkelsesmøder og Vækkelsesprædikant">
+<b>Vækkelsesmøder</b> og
+<sp>Vækkelsesprædikant</sp>. Ved V. forstaas saadanne kirkelige
+Møder, der sigter paa at kalde den enkelte
+Tilhører til Omvendelse. De kan holdes i
+Kirken, i Missionshuse eller andre Lokaler eller i
+fri Luft, og anvendtes meget af Metodismen, da
+den opstod. Senere har andre Kirkeafdelinger
+brugt dem. I Danmark anvendes V. navnlig af
+Indre Mission. Vækkelsesprædikant er en
+saadan Præst eller Lægmand, som har den
+særlige Naadegave at kunne tale til den Enkeltes
+Samvittighed.
+<i>A. Th. J.</i>
+</chapter>
+
+<chapter name="Vækkerø">
+<b>Vækkerø,</b> Herregaard i Aker Herred,
+Akershus Fylke, 4 km Vest for Oslo ved Oslofjorden.
+Gaarden er opført 1880 i hollandsk Stil med
+Trappegavle. V. har fra og med Sorenskriver
+Morten Lauritsen's Tid fulgt Bogstad og har
+tjent som Udskibningssted for Bogstads Ejeres
+Skove. Nu er det Udskibningssted for
+Løvenskiold's Skovejendomme i Nordmarken.
+Ejendommen har en Skyld af 9,27. Da
+Justitsraadinde Karen Anker (f. Elieson) besad Gaarden,
+var der vakre engelske Parkanlæg. Hun boede
+der som Enke fra 1763—1806. Fra Anker gik
+Ejendommen ved Indgifte over i Slægterne
+Wedel Jarlsberg og Løvenskiold's Eje.
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Vækst">
+<b>Vækst</b> (bot.). Ved V. forstaar man en
+blivende Rumfangsforøgelse i Modsætning til de
+Rumfangsforøgelser, der kan indtræde som
+Følge af Udbulning (f. Eks. hos tørre Ærter, som
+lægges i Vand) eller som Følge af
+Saftspænding (hos levende Stængeldele, der lægges i
+Vand), og som gaar tilbage, naar det optagne
+Vand atter afgives.

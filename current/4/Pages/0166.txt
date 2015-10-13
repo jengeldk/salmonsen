@@ -1,0 +1,146 @@
+Straale ligger i Indfaldsplanen, og at
+Forholdet mellem sinus til Indfaldsvinklen og
+<i>sinus</i> til Brydningsvinklen er konstant.
+Indfaldsplanen er Planen gennem den indfaldende
+Straale og Indfaldsloddet <i>df</i>, der er en Linie
+tegnet igennem Indfaldspunktet <i>n</i> vinkelret paa
+Vandoverfladen. I denne Plan (Figurens)
+forbliver altsaa Straalen efter Brydningen.
+Indfaldsvinklen er Vinklen <i>i</i> mellem den
+indfaldende Straale og Indfaldsloddet, Brydningsvinklen
+er Vinklen <i>r</i> mellem den brudte Straale og
+Indfaldsloddet. Det konstante Forhold, der iflg.
+Brydningslovens 2. Del hersker mellem <i>sinus</i>
+til disse to Vinkler, kaldes Brydningsforholdet
+(d. s. s. Brydningsindeks, -eksponent ell.
+-koefficient); det er for Lysets Overgang fra Luft
+til Vand meget nær lig 4/3. Brydningsloven
+fandtes 1621 af Hollænderen <sp>W. Snell</sp>.
+
+Uden Kendskab til den trigonometriske
+Funktion sinus kan man forstaa Indholdet af
+Brydningslovens 2. Del ud fra Fig. 1. <i>a</i> og <i>b</i> er 2
+Punkter af de 2 Straaler i samme Afstand fra
+Indfaldspunktet <i>n</i>, altsaa paa en Cirkel med <i>n</i>
+som Centrum. Disse to Punkters Afstande fra
+Indfaldsloddet, henh. <i>ad</i> og <i>bf</i>, staar i samme
+Forhold til hinanden som <i>sinus</i> til de 2
+Vinkler. Efter Brydningsloven skal derfor Forholdet
+mellem <i>ad</i> og <i>bf</i> være det samme, hvilken end
+Indfaldsvinklen er; gaar Straalerne fra Luft til
+Vand, er Forholdet 4/3, som forudsat i Fig.
+Kendes Brydningsforholdet, kan man ad denne
+Vej finde det til en bestemt indfaldende
+Straale svarende Punkt <i>b</i> og altsaa konstruere den
+tilhørende brudte Straale.
+
+Brydningsforholdets Størrelse afhænger af de
+2 Stoffer, mellem hvilke Lysets Overgang sker;
+naar et Stofs Brydningsforhold angives, menes i
+Reglen Brydningsforholdet ved Lysets Overgang
+fra Luft til Stoffet. Tillige afhænger
+Brydningsforholdet af Lysets Farve. For det gule
+Natriumlys (D-Linien i Solspektret) er
+Brydningsforholdet for:
+
+<table>
+<td>Vand<td>1,333
+<td>Alkohol<td>1,362
+<td>Benzol<td>1,503
+<td>Svovlkulstof<td>1,629
+<td>Alm. Spejlglas<td>1,51
+<td>Kronglas<td>1,46—1,62
+<td>Flintglas<td>1,51—1,96
+<td>Flusspat<td>1,434
+<td>Diamant<td>2,417
+</table>
+
+For rødt Lys bliver Tallene for alle de
+anførte Stoffer og i det hele for de allerfleste
+gennemsigtige Stoffer lidt mindre, for violet
+lidt større, idet Brydningsforholdet for de forsk.
+Spektralfarver vokser i den Rækkefølge, hvori
+de ligger i Normalspektret. Visse stærkt
+farvede Stoffer afviger dog fra denne Regel, se
+herom under <sp>Dispersion</sp>. De anførte Tal
+gælder for Temp. 18° C. For de faste Stoffer
+ændrer Brydningsforholdet sig kun meget lidt
+med Temp.; for alle Vædsker aftager det lidt
+med stigende Temp. Værdierne for Kron- og
+Flintglas er Ydergrænserne for
+Brydningsforholdene for den store Mængde Glassorter, man nu
+har fremstillet til Brug i optiske Instrumenter
+(smlg. <sp>Akromatisme</sp>). — Ogsaa Luftarterne
+bryder Lyset, om end meget svagt; for dem
+angives Brydningsforholdet for Lysets Overgang
+fra det tomme Rum til den paagældende
+Luftart; deres Brydningsforhold er altsaa meget nær
+ved 1, saaledes for atmosfærisk Luft ved 0° og
+760 mm Tryk 1,00029 for Natriumlys. Det er
+derfor praktisk talt ligegyldigt, om et angivet
+Brydningsforhold for et ell. andet Stof gælder
+for Lys' Overgang fra Luft ell. fra det tomme
+Rum til Stoffet. — Vil man bestemme et
+gennemsigtigt fast Stofs Brydningsforhold, sliber
+man et <sp>Prisme</sp> (s. d.) deraf og maaler ved
+Hjælp af et Spektrometer den Afbøjning, som en
+Lysstraale lider ved at gaa gennem dette;
+Vædsker anbringes i et Hulprisme, et prismeformet
+Kar med planparallelle Glasvægge, der ikke selv
+giver Lyset nogen Retningsforandring (smlg.
+ndf.). Bestemmelser af Brydningsforholdet er
+vigtige; man maa kende Glassorternes
+Brydningsforhold for forsk. Farvestraaler for at
+kunne konstruere akromatiske Objektiver til
+Mikroskoper, Kikkerter og Fotografiapparater,
+og Bestemmelse af Vædskers Brydningsforhold
+kan tjene til at identificere dem og konstatere
+deres Renhed. Til saadanne Bestemmelser har
+man dog bekvemmere Apparater,
+<sp>Refraktometre</sp>, hvormed bestemmes den ndf.
+omtalte Grænsevinkel; især anvendes talrige
+specielle Refraktometre til Undersøgelse af Smør,
+Mælk, Øl, Brændevin o. a.
+
+Da en Lysstraales Vej altid kan vendes om,
+vil en Straale, der kommer nede fra Vandet i
+Retningen <i>sn</i>, over Vandet have Retningen <i>nl</i>;
+Brydningsforholdet ved denne Overgang er
+derfor 3/4, den reciproke Værdi af
+Brydningsforholdet ved den omvendte Overgang. Da <i>i</i> er større
+end <i>r</i> (<i>da</i> større end <i>bf</i>), vil for en vis Værdi
+af Vinkel <i>r</i>, der ved denne Overgang er
+Indfaldsvinkel, Vinkel <i>i</i> blive 90°, saa Straalen, der
+kommer nede fra Vandet, vil strejfe hen langs
+Vandets Overflade. Bliver Vinkel <i>r</i> endnu større,
+vil der ikke eksistere nogen til den paagældende
+Straale hørende brudt Straale, men hele
+Lysmængden bliver kastet tilbage i Vandoverfladen
+efter den sædvanlige Tilbagekastningslov (se
+<sp>Spejling</sp>). Dette Fænomen kaldes den
+<sp>fuldstændige Tilbagekastning</sp>
+(<sp>Totalrefleksion</sp>). Den nævnte Værdi af <i>r</i> kaldes
+Grænsevinklen for den fuldstændige
+Tilbagekastning; den er for Vand c. 48°. (Grænsevinklen <i>g</i>
+bestemmes af Formlen sin <i>g</i> = 1/<i>n</i>, hvor <i>n</i> er
+Stoffets sædvanlige Brydningsforhold). Fig. 2
+viser Gangen af Straaler, der kommer fra et
+Punkt <i>A</i> under Vand. Tænkes omvendt et
+opadrettet Øje ved <i>A</i>, vil det indses, at for det er
+kun en vis kredsrund Plet af Vandets
+Overflade gennemsigtig, nemlig en saa stor Plet, at
+en Straale fra dens Rand til Øjet danner en
+Vinkel paa 48° med Indfaldsloddet. Gennem
+denne kredsrunde Plet, der virker som et
+Vindue, kan imidlertid ses alt, hvad der befinder
+sig over Vandoverfladen, ogsaa f. Eks. en Søs
+Bredder, men i et ejendommeligt fortrukket
+Perspektiv (Fiskeperspektivet). I
+Vandoverfladen uden om Vinduet ses Spejlbilleder af de
+fjernere Genstande under Vandfladen uden
+Lystab ved Spejlingen. — Jo stærkere et Stof
+bryder Lyset, desto lettere indtræder
+Totalrefleksion; saaledes er Grænsevinklen for
+Spejlglas c. 42°, for Diamant kun c. 24°; Facetterne
+paa en sleben Diamant kommer derfor let til
+at give stærke indvendige Spejlinger.

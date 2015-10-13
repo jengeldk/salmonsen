@@ -1,0 +1,148 @@
+Grupper. K. behandler Systemer, der har en
+meget stor fælles Overflade, hvorfor
+Kapillarkræfterne spiller en dominerende Rolle.
+
+Ved et disperst System forstaas et System,
+der bestaar af fra hinanden adskilte
+Partikler, den disperse Fase, svævende, i et
+sammenhængende Medium. Dispersionsmediet. Alt
+efter Komponenternes Tilstandsform kan vi faa
+forsk. Typer frem. Er Dispersionsmediet
+luftformigt, taler vi om <sp>Røg</sp>, hvis den disperse Fase
+er fast, om <sp>Taage</sp>, hvis den disperse Fase
+er flydende. Er Dispersionsmediet flydende, kan
+vi f. Eks. have et <sp>Suspensoid</sp>, hvis den
+disperse Fase er fast, et <sp>Emulsoid</sp>, hvis
+den disperse Fase er flydende, og <sp>Skum</sp>,
+saafremt den disperse Fase er luftformig. Paa
+tilsvarende Maade kan faas 3 ny Systemer,
+saafremt Dispersionsmediet er fast.
+
+Man kan næsten ikke læse en kolloidkemisk
+Afh. uden at støde paa Ordet Dispersitetsgrad;
+dette er en Størrelse, der faar desto større
+Talværdi, jo mindre Partiklerne i den disperse
+Fase er. Dispersitetsgradens talmæssige Udtryk
+kan man faa et Begreb om ved Betragtning af
+nedenstaaende Tabel:
+
+Overfladevæksten af Terninger, der Gang paa
+Gang deles i 1000 ny Terninger.
+<table>
+<td 3 c>Sidelængde<td c>Antal<br>Terninger<td 2 c>Saml. Overflade
+<td c>1<td c>cm<td><td>1<td>6<td>cm<sup>2</sup>
+<td>10<sup>—1</sup><td c>-<td><td>10<sup>3</sup><td>6.10<td c>-
+<td>10<sup>—2</sup><td c>-<td><td>10<sup>6</sup><td>6.10<sup>2</sup><td c>-
+<td>10<sup>—3</sup><td c>-<td><td>10<sup>9</sup><td>6.10<sup>3</sup><td c>-
+<td>10<sup>—4</sup><td c>-<td><td>10<sup>12</sup><td>6.10<sup>4</sup><td c>-
+<td>10<sup>—5</sup><td c>-<td>100 Millimikron<td>10<sup>15</sup><td>6.10<sup>5</sup><td c>-
+<td>10<sup>—6</sup><td c>-<td><td>10<sup>18</sup><td>6.10<sup>6</sup><td c>-
+<td>10<sup>—7</sup><td c>-<td>1 do.<td>10<sup>21</sup><td>6.10<sup>7</sup><td c>-
+<td>10<sup>—8</sup><td c>-<td><td>10<sup>24</sup><td>6.10<sup>8</sup><td c>-
+<td>10<sup>—9</sup><td c>-<td><td>10<sup>27</sup><td>6.10<sup>9</sup><td c>-
+</table>
+
+Tallene i Tabellens sidste Kolonne angiver
+Dispersitetsgraden; denne er følgelig defineret
+som den samlede Overflade af 1 cm<sup>3</sup> af den
+disperse Fase. Man ser ligeledes af Tabellen, at
+der til en bestemt Partikelstørrelse svarer en
+bestemt Dispersitetsgrad. Indskrænker vi os til
+at betragte Systemer, hvor Dispersionsmediet
+er flydende, kan disse henføres til flg. 3 store
+Grupper, nemlig: Grove Opslemninger, Kolloide
+Opløsninger og Ægte Opløsninger. Det er da
+meget vigtigt at lægge Mærke til, at der ikke
+er nogen Væsensforskel mellem disse 3; de
+grove Opslemninger gaar jævnt over i de
+kolloide Opløsninger, og disse sidste gaar jævnt
+over i de ægte Opløsninger. Af praktiske
+Grunde har man draget kunstige Skillelinier mellem
+de 3 Grupper. Partikler, der er større end
+100 Millimikron, danner grove Opslemninger.
+Partikler af denne Størrelse vil nemlig synke
+til Bunds ell. stige til Vejrs i
+Dispersionsmediet, efter som dette sidste henholdsvis har en
+mindre ell. større Vægtfylde end Partiklerne.
+Partikler, der er større end c. 100 Millimikron,
+holdes tilbage af Filtrerpapir, medens mindre
+Partikler gaar igennem. Endelig kan man i et
+Mikroskop se Partikler, der er større end 100
+Millimikron, medens mindre Partikler ikke kan
+synliggøres ved dette Instrument.
+
+Paa lgn. Maade har man sat Grænsen
+mellem kolloide Opløsninger og ægte Opløsninger
+ved 1 Millimikron. De ægte Opløsninger
+diffunderer f. Eks. ind i Gelatine, Kolloiderne gør
+det ikke. De ægte Opløsninger kan dialysere,
+d. v. s. diffundere gennem en Membran,
+Kolloiderne ikke. Endelig viser de kolloide
+Opløsninger Tyndailfænomenet i Modsætning til de
+ægte Opløsninger. Fænomenet er velkendt; det
+er det samme, der fremkommer, naar
+Solstraalernes Gang kan iagttages i et let støvfyldt
+Værelse. Lysstraalen fra en Buelampe ses
+tydeligt paa sin Vej gennem en kolloid
+Opløsning, medens der intet iagttages i en ren
+Vædske ell. en ægte Opløsning. Betragtes en
+vandret Tyndallkegle f. Eks. ovenfra gennem et
+lodret Mikroskop, ligner hele Opstillingen den,
+der har ført til Konstruktionen af
+Ultramikroskopet. Af det direkte Lys vil intet naa ind i
+Mikroskopet; men hver Partikel, der rammes
+af Lys. vil selv sende Lys ud i alle Retninger.
+I Mikroskopet vil Partiklerne følgelig ses lyse
+paa mørk Baggrund. Ved Hjælp af denne
+Metode kan man synliggøre Partikler paa c. 1
+Millimikron.
+
+Sender man en elektrisk Strøm gennem en
+ledende ægte Opløsning, sker der jo som
+bekendt en Stoftransport baade mod den positive
+og den negative Pol, og Fænomenet kaldes
+Elektrolyse. Forsøges det samme med en
+kolloid Opløsning, finder kun en ensidig
+Stoftransport Sted, idet Partiklerne enten vil
+vandre mod den positive ell. mod den negative Pol.
+Fænomenet kaldes Kataforese.
+
+Efter det Ovenstaaende definerer man altsaa
+de kolloide Opløsninger som disperse Systemer,
+hvis Partikelstørrelse kan variere mellem 1 og
+100 Millimikron. Dispersitetsgraden kommer
+derved (smlg. Tabellen) til at svinge mellem
+6.10<sup>5</sup> og 6.10<sup>7</sup>.
+
+Der gives to Hovedmetoder til Fremstilling
+af kolloide Opløsninger: Dispersionsmetoden,
+der gaar ud fra større Partikler og gør disse
+mindre. Et Eksempel herpaa er Udrivning af
+Tusch i Vand. Kondensationsmetoden gaar ud
+fra mindre Partikler og gør disse større. Et
+Eksempel herpaa er Reduktion af en fortyndet
+Guldkloridopløsning med en fortyndet
+Garvesyreopløsning. P. Gr. a. Fortyndingen vokser
+de udskilte Guldpartikler sig ikke saa store, at
+der kan dannes et Bundfald og der opstaar
+en blaa, violet ell. rubinrød kolloid Opløsning.
+
+Man kender intet Stof, om hvilket man paa
+Forhaand kunde sige, at det umuligt vilde
+kunne lade sig overføre til den kolloide Tilstand.
+Derfor taler man nu ikke som tidligere om
+kolloide Stoffer, men om den kolloide Tilstand,
+anerkendende denne som en almen Tilstand for
+Materien.
+
+K. behandler foruden disse Systemers
+Fremstilling og Egenskaber tillige Systemernes
+Tilstandsændringer, af hvilke de vigtigste er:
+Adsorption, Koagulation, Gelatinering og
+Kvældning. K. har i de senere Aar vundet udstrakt
+praktisk Anvendelse, og mange tekn.
+Problemer, man tidligere stod uforstaaende overfor,
+har gennem K. faaet deres Forklaring.
+
+Det røde Rubinglas indeholder kolloide
+Partikler. Guld- og Sølvspejle kan fremstilles ved

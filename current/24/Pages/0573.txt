@@ -1,0 +1,165 @@
+Vands Varmefylde varierer ligesom andre
+Legemers med Temperaturen; den er ved:
+<table>
+<td r>0°<td>1,005
+<td r>15°<td>1,000
+<td r>30°<td>0,9979
+<td r>50°<td>0,9996
+<td r>100°<td>1,010
+<td r>200°<td>1,062
+<td r>300°<td>1,155.
+</table>
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Varmegrad">
+<b>Varmegrad,</b> se <sp>Temperatur og
+Termometer</sp>.
+</chapter>
+
+<chapter name="Varmekapacitet">
+<b>Varmekapacitet</b> bruges undertiden som
+ensbetydende med et Legemes Evne til at
+optage Varme, altsaa som Produktet af Vægt
+og Varmefylde. Produktet betegnes ogsaa som
+Legemets Vandværdi.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="Varmekilder">
+<b>Varmekilder,</b> Legemer, hvorfra der vindes
+Varme. Se <sp>Brændsel</sp>, <sp>elektrisk
+Strømvarme</sp>, <sp>Gas</sp>, <sp>Petroleum</sp>, <sp>Solen</sp>,
+<sp>Stenkul</sp> o. s. v.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Varmekobling">
+<b>Varmekobling,</b> se <sp>Jernbanevogne</sp>, S.
+22, og <sp>Kobling</sp>, S. 249.
+</chapter>
+
+<chapter name="Varmeledere">
+<b>Varmeledere,</b> se <sp>Varmeledning</sp>.
+</chapter>
+
+<chapter name="Varmeledning">
+<b>Varmeledning</b> bestaar i en
+Varmeudveksling mellem to Legemer, der er i umiddelbar
+Berøring med hinanden; Varmen gaar altid fra
+det varmere til det koldere Legeme. V.
+adskiller sig saaledes principielt fra Varmestrømning,
+hvor der samtidig med Transport af Varme sker
+en Stoftransport, og fra Varmestraaling, hvor
+Varmetransporten sker ved elektromagnetiske
+Bølger. Den Varmemængde <i>Q</i>, som i Tiden <i>T</i>
+ledes igennem en Plade af Størrelsen <i>F</i> og
+Tykkelse <i>d</i> og med en Temperaturforskel <i>t</i>1°—<i>t</i>2°
+mellem Pladens Sideflader, er
+
+<i>Q</i>=<i>k</i> . <i>t</i>1-<i>t</i>2/<i>d</i> . <i>F</i> . <i>T</i>.
+
+Her er <i>k</i> en Konstant, Varmeledningsevnen,
+der afhænger af det betragtede Materiale og
+desuden vokser lidt med Temperaturen. I
+Fysikken bruges i Almindelighed Enhederne
+Gramkalorier, cm og Sek., og med disse Enheder er
+Talværdien for <i>k</i> i hosstaaende Tabel anført for
+nogle Legemer. I Teknikken bruges hyppigst
+Enhederne Kilogramkalorier, m og Time, og
+Talværdierne for <i>k</i> bliver da 360 Gange saa
+store.
+<table>
+<td>Sølv<td>1,0
+<td>Kobber<td>0,83—0,94
+<td>Jern<td>0,11—0,14
+<td>Bly<td>0,08
+<td>Glas<td>0,002
+<td>Kork<td>0,00013
+<td>Kvægsølv<td>0,018
+<td>Alkohol<td>0,0037
+<td>Vand<td>0,0014
+<td>Brint<td>0,000417
+<td>Alm. Luft<td>0,000006
+</table>
+
+Tabellen viser — og det er ogsaa bekendt fra
+mange daglige Erfaringer — at der er stor
+Forskel paa de forskellige Legemers
+Varmeledningsevne. Gode Ledere er Metallerne og bedst
+af disse Sølv og Kobber; daarlige Ledere eller
+Isolatorer er Stoffer som Træ, Glas og Kork.
+Fuldstændig uledende er kun det absolut tomme
+Rum, men ogsaa Luft er en meget slet Leder;
+denne Luftens Isolationsevne faar imidlertid
+kun Interesse, naar Luftrummet er saa lille,
+at der ikke kan opstaa Varmestrømninger i det;
+i modsat Fald vil nemlig den ringe V. ganske
+overskygges af den forholdsvis store Transport
+af Varme ved Strømning. Derfor er alle porøse
+Legemer gode Isolatorer for Varme. Som
+Eksempler paa Anvendelsen af daarlige
+Varmeledere kan nævnes Dyrenes Pels, Fuglenes
+Fjederdragt, vore Klæder, Varmerørs Indpakning
+i Asbest, Infusoriekisel e. l., Ydermures
+Beklædning med Korkplader, dobbelte Vinduer;
+se endvidere <sp>Afkøling</sp>, <sp>Ishus</sp> og
+<sp>Opvarmningsanlæg</sp>. Af andre Anvendelser
+maa nævnes Porcelæns- eller Træhaandtag paa
+varme Metalgenstande som f. Eks. Strygejern
+og Kakkelovnslaager. To lige varme Legemer
+med forskellig Varmeledningsevne, f. Eks. Jern
+og Træ, føles ikke lige varme, naar de berøres,
+fordi de fører Varmen til eller fra Haanden
+ulige hurtigt; jo større <i>k</i> er, desto mere
+mærkes Temperaturforskellen mellem Legemet og
+Haanden. Er Legemerne varmere end Haanden,
+vil Jernet føles varmere end Træet; er de
+koldere end Haanden, vil Jernet føles koldere end
+Træet.
+
+V. forstaas principielt meget let ud fra den
+kinetiske Teori (s. d.). I et varmt Legeme vil
+Molekylerne i Henhold til denne Teori nemlig
+være i livligere Bevægelse end Molekylerne i et
+koldt Legeme; naar derfor et varmt Legeme
+berører et koldt, vil der ved Sammenstød
+mellem Molekylerne paa begge Sider af
+Berøringsfladen overføres Energi fra det varme Legeme
+til det kolde, hvorved det varme Legeme
+afkøles, medens det kolde opvarmes.
+
+Den Varmemængde, der under V. passerer
+gennem den ene Sideflade af en Plade, vil i
+Almindelighed bruges til to Ting: en Del af
+den vil medgaa til Opvarmning af Pladen,
+medens Resten gaar bort gennem den modsatte
+Sideflade; denne sidste Del afhænger baade af
+den tilførte Varmemængde og af Pladens
+Varmekapacitet. Ved Maalinger af
+Varmeledningsevnen sørger man som oftest for, at
+Temperaturfaldet gennem Pladen bliver stationært, d.
+v. s. at hvert Punkt af Pladen holder sin
+Temperatur uforandret, saaledes at intet af den
+tilførte Varme bruges til Opvarmning af Pladen.
+Maales da <i>Q</i> og Temperaturfaldet gennem
+Pladen, kan <i>k</i> beregnes af den ovenstaaende
+Formel; men disse Maalinger volder tit meget store
+praktiske Vanskeligheder, navnlig naar det
+gælder absolutte Maalinger, mindre, naar det kun
+gælder om at sammenligne to Legemers
+Varmeledningsevne. Ved Luftarter og Vædsker
+kompliceres Maalingerne særlig af de optrædende
+Varmestrømme.
+
+For Metaller gælder med Tilnærmelse en af
+Wiedemann og Franz fremsat Lov: Forholdet
+mellem Varmeledningsevnen for to Metaller er
+lig med Forholdet mellem de to Metallers
+elektriske Ledningsevne; Metaller, der leder
+Varmen godt, leder altsaa ogsaa Elektriciteten godt.
+Endvidere gælder Lorenz's Lov: For et
+vilkaarligt Metal forandres Forholdet mellem
+Metallets Varmeledningsevne og dets elektriske
+Ledningsevne med Temperaturen, idet dette
+Forhold er proportionalt med den absolutte

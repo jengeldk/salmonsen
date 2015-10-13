@@ -1,0 +1,49 @@
+Effekt ved et Trefaseanlæg fra en Central til et
+Forbrugssted, kan dette gøres med 60 %
+mindre Kobbervægt end ved enfaset Overføring,
+selv om Spændingstab og Energitab i begge
+Tilfælde er lige store.
+
+De tre Viklinger, <sp>Faser</sp>, paa en trefaset
+Generator, kan forbindes paa forsk. Maade, som
+vist i Fig. 16. De 3 Viklingers Endepunkter (som
+paa Maskinen er 2/3 Poldeling forskudt for
+hinanden, idet Spændingerne jo skal være
+forskudte 1/3 Periode i Forhold til hinanden, og
+idet man endvidere faar en hel Periode
+gennemløbet, hver Gang man har passeret en
+Nordpol og en Sydpol), kan forbindes sammen
+til et <sp>Neutralpunkt</sp>, hvorfra
+<sp>Nullederen</sp> føres ud, medens de tre <sp>Yderledere</sp>
+føres fra Begyndelsespunkterne af de tre
+Beviklinger. Denne Forbindelse kaldes
+<sp>Stjerneforbindelsen</sp> og anvendes hyppigst ved
+Lavspændingsnet, idet man da kan indskyde
+sine Lamper imellem Nullederen og en af
+Yderlederne, hvor man har en forholdsvis lav
+Spænding, Motorerne sluttes til de 3
+Yderledere, hvorimellem Spændingen er højere. Er
+Lampespændingen 220 Volt = Spændingen i den
+enkelte Fase i Maskinen, bliver Motorspændingen
+380 Volt. Ved <sp>Trekantforbindelsen</sp>
+forbinder man Endepunktet af den ene Fase
+til Beg. af den næste o. s. v. og fører
+Ledningerne ud fra de tre Forbindelsespunkter; her
+faar man saaledes ingen Neutralleder.
+Spændingerne paa Nettet bliver = Spændingerne i
+Maskinens enkelte Faser; Strømmene paa
+Nettet bliver derimod større end Strømmene
+i Maskinen, idet Strømmen i en enkelt Ledning sammensættes af
+Strømmen i to af Maskinens Faser (er
+Fasestrømmen i Maskinen 10 Ampère, bliver
+Netstrømmen c. 17,3 Ampère).
+
+<img>
+Fig. 12. Vekselstrømsgenerator, 1200 KWA., 12000 Volt, 300 Omdr. i Min.
+</img>
+<img>
+Fig. 13 a. Anker (Stater) til Turbogenerator.
+</img>
+<img>
+Fig. 13 b. Polhjul (Rotor) til Turbogenerator.
+</img>

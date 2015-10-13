@@ -1,0 +1,151 @@
+anvendes en Betalingsmaade, efter hvilken der
+fastsættes Betaling for Forbrug indtil en vis
+Størrelse i kW, uafhængig af Antallet af
+Benyttelsestimer og spærres for større Forbrug,
+»Pauschaltarif«, f. Eks. 4 à 5 Kr pr Lampe à
+25 Normallys pr Aar.
+
+Hvad Kraftforbrug angaar, saa vil kun en
+stor Produktion kunne gøre Strøm hertil
+billig nok, men hvor dette er Tilfældet, finder man
+stadig, ogsaa her i Landet, fl. og fl. Eksempler
+paa, at Fabrikker gaar bort fra selv at have
+Kraftanlæg og i Stedet køber Kraften i Form af
+elektrisk Strøm. De Priser, der her er Tale
+om, er fra 3-4 til 9-10 Øre pr kWh. Der
+findes endvidere, navnlig i Udlandet, mange
+Eksempler paa, at Byer køber hele deres
+Elektricitetsforbrug i St f. at producere selv, og
+endelig finder man Eksempler paa, at
+Oplandscentraler, i St f. som hidtil at producere selv,
+køber hos en Leverandør, der kan sælge
+billigt nok. Det skal nævnes, at f. Eks. Göteborg
+køber hele sit Forbrug - 25 à 30 Mill. kWh. pr
+Aar - af Trollhätte-Kraftværket og betaler
+50 Kr pr kW af Maksimalbelastningen og
+desuden 0,5 Øre pr kWh. Med en
+Maksimalbelastning paa 5 à 6000 kW bliver
+Gennemsnitsprisen lidt under 2 Øre pr kWh. Endvidere
+skal det nævnes, at Nordsjællands Sporvejs- og
+Elektricitets A/S. 1914-15 har nedlagt Kabler
+mellem Helsingør og Helsingborg og nu køber
+Strøm fra Sydsvenska Kraftaktiebolagets
+Kraftværk ved Lagan. Tendensen maa utvivlsomt
+siges overalt at gaa i Retning af faa og store
+Elektricitetsværker (Oplandscentraler). En af
+de Opgaver, der ofte volder
+Vanskeligheder, er E. af udprægede Landdistrikter,
+fordi saadanne i Reglen giver relativt
+store Maksimalbelastninger og smaa
+Aarsforbrug. Da det har stor Værdi for Landbruget at
+kunne faa en saa let anvendelig Drivkraft som
+den elektriske til en billig Pris, har man flere
+Steder, f. Eks. i Sverige, hvor »Kungl.
+Vattenfallsstyrelsen« og private Kraftaktiebolag har
+vist Spørgsmaalet megen Interesse, taget meget
+rationelt fat paa Løsningen af denne Opgave
+og det synes, som om Løsningen ligger deri
+at medtage Landdistrikterne i større
+Omraader, Byer, Fabrikker o. s. v., der forsynes med
+højspændt Drejestrøm fra store Kraftværker.
+Der er kun den Vanskelighed, at
+Anlægskapitalen til Ledningsnettet bliver høj (2-3000 Kr
+pr 1 km); det imødegaas ofte ved, at
+Forbrugerne paa Landet er sammensluttede i
+Andelsselskaber, der bygger Lavspændingsnettene og
+køber Strømmen lige fra Transformatoren. I
+Danmark er man for fl. Egnes Vedkommende -
+Nordsjælland, Nordvestsjælland og
+Sydøstsjælland - inde paa de samme Veje. Fra ældre Tid
+findes her i Landet en hel Del smaa
+Elektricitetsværker (lidt over 300) til Forsyning af
+Landsbyer o. l., men de opviser
+gennemgaaende kun daarlige økonomiske Resultater.
+
+Den Vigtighed, det har at kende Forbruget,
+d. v. s. at kunne dimensionere Anlægget -,
+hvilket for øvrigt kan belyses derved, at af et
+Kraftværks aarlige Udgifter er kun c. en
+Trediedel egl. Driftsudgifter, medens c. to
+Trediedele medgaar til Forrentning og Afskrivning af
+Anlægget - har ført til, at der i de fleste
+Lande hvert Aar samles statistiske Oplysninger
+om de eksisterende Værkers Drift og om de
+Forbrug, der er tilknyttede disse. For
+Danmarks Vedk. udkommer der hvert Aar
+statistiske Oplysninger om Byværkerne (Kbhvn og
+Frederiksberg undtagne) og desuden
+Oplysninger for alle Landets Værker (saavel
+Byværkerne som Kbhvn og Frederiksberg samt
+Landværkerne) i »Teknisk Tidsskrift«. For øvrigt
+indhenter den tyske Statistik ogsaa Oplysning
+om de største danske Værker.
+
+Af de Tal, der anvendes som Udtryk for et
+Forsyningsomraades Egenskaber og Centralers
+Udnyttelse, skal nævnes flg.:
+
+Benyttelsestid paa Maksimalbelastningen, d.
+v. s. det aarlige Forbrug i kWh. divideret med
+den største forekommende Belastning i kW.
+Denne Værdi andrager fra c. 600 Timer for
+Landsbyers Vedk. til op imod 2000 for
+Oplandscentrers Vedk. For Fabrikker o. l.
+Storforbrugere kan den være adskilligt større.
+
+Udnyttelsesgrad, d. v. s. producerede kWh.
+pr Aar divideret med Værkets Maskineffekt X
+8760 Timer. Denne Værdi andrager fra c. 5 %
+for smaa Forsyningsomraader til c. 35 % og
+mere for store (Oplandscentraler).
+
+Som et summarisk Maal anvendes undertiden:
+Producerede kWh. pr Aar, divideret med
+Anlægskapital i Kr. For godt udnyttede Værker
+er denne Værdi oftest fra c. 1 til c. 1,3 eller
+lidt mere. I elektriske Anlæg i Danmark var
+1915 anbragt en Kapital paa c. 112 Mill. Kr,
+og det aarlige solgte Antal kWh. beløb sig til
+c. 87 Mill. kWh.
+<i>Cand. polyt. Povl Vinding.</i></chapter>
+
+<chapter name=”Elektricitetskommissionen”>
+<b>Elektricitetskommissionen</b> er oprettet i
+Henhold til L. om elektriske Stærkstrømsanlæg
+af 19. Apr. 1907 § 2. Dens Opgave er at
+varetage Tilsyn med Udførelsen og Driften af
+elektriske Stærkstrømsanlæg og at bistaa Ministeriet
+for offentlige Arbejder ved Afgivelse af
+Betænkning ang. Sager vedrørende elektriske
+Stærkstrømsanlæg. E. bestaar af en af Kongen
+udnævnt Formand og 4 af Ministeriet udnævnte
+Medlemmer; det ene af Medlemmerne skal være
+kvalificeret til at have Sæde i Overretterne, og
+3 skal have elektroteknisk Sagkundskab. De
+udnævnes for 6 Aar ad Gangen.
+<i>M. G.</i></chapter>
+
+<chapter name=”Elektricitetsmaalere”>
+<b>Elektricitetsmaalere</b> er Apparater, som til
+Opgørelse af Betaling af Elektricitetsforbrug
+viser den i en Installation forbrugte elektriske
+Energi. Enheden er enten Kilowatttimer eller
+Hektowatttimer. Tælleværket er i Reglen
+fortløbende, saa at f. Eks. Forbruget fra 1. Jan.
+til 1. Apr. fremkommer ved, at man trækker
+Aflæsningen 1. Jan. fra Aflæsningen 1. Apr.
+
+Til Jævnstrøm kan anvendes 1)
+<sp>elektrolytiske Maalere</sp>, hvor enten hele
+Strømmen ell. kun en Brøkdel af Strømmen passerer
+en Elektrolyt, ved hvis ene Elektrode der finder
+en Udfældning Sted.
+
+En kendt elektrolytisk Maaler er <sp>Wright's
+Kviksølvmaaler</sp>.
+
+Denne (Fig. 1) bestaar af en lukket Glasbeholder,
+der i Hovedtrækkene er sammensat af en øvre
+Kuppel <i>K</i>, som nedadtil ender i et tykt Rør <i>T</i>.
+Kuplen <i>K</i> danner i Bunden en ringformet
+Beholder <i>A</i>, inden for hvis Rand der findes en

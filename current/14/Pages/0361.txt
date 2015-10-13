@@ -1,0 +1,70 @@
+<table>
+<td>(Cameroun, Gabon, Moyen Congo,<br>Oubangi-Chari, Tchad).
+<td>Somalikyst (Obok)<td r>120000<td c>km<sup>2</sup><td c>med<td r>272858<td c>Indb.<td c>(—)
+<td>Madagaskar<td r>585530<td c>—<td c>—<td r>3545575<td c>—<td c>(19)
+<td>Comorer og Mayotte<td r>2168<td c>—<td c>—<td r>97600<td c>—<td c>(14)
+<td>Réunion<td r>1980<td c>—<td c>—<td r>173822<td c>—<td c>(11)
+<td>St Paul, Kerguelen, Ny Amsterdam, Crozet<td r>3740<td c>—<td c>—<td c>—<td c> —
+<td r>I alt i Afrika<td r>c. 11232000<td c>km<sup>2</sup><td c>med<td r>35900000<td c>Indb.
+<td 7>
+<td 7><tab>I <sp>Asien</sp>:
+<td>I Forindien<td r>513<td c>km<sup>2</sup><td c>med<td r>268499<td c>Indb.<td c>(16)
+<td>(Pondichéry, Karikol, Yanaon, Mahé,<br>Chandernagor).
+<td>I Bagindien<td r>803050<td c>—<td c>—<td r>16990229<td c>—<td c>(11)
+<td>(Cochinchina, Cambodja, Anam, Tonkin).
+<td r>I alt i Asien<td r>c. 803563<td c>km<sup>2</sup><td c>med<td r>17258728<td c>Indb.
+<td 7>
+<td 7><tab>I <sp>Amerika</sp>:
+<td>St Pierre og Miquelon<td r>241<td c>km<sup>2</sup><td c>med<td r>4652<td c>Indb.<td c>(11)
+<td>Guadeloupe m. m.<td r>1780<td c>—<td c>—<td r>212430<td c>—<td c>(—)
+<td>Martinique<td r>987<td c>—<td c>—<td r>193000<td c>—<td c>(11)
+<td>Fransk Guyana<td r>88200<td c>—<td c>—<td r>49000<td c>—<td c>(11)
+<td>I alt i Amerika<td r>c. 91200<td c>km<sup>2</sup><td c>med<td r>459000<td c>Indb.
+<td 7>
+<td 7><tab>I <sp>Australien</sp>:
+<td>Ny Caledonien med Loyalty<td r>16921<td c>km<sup>2</sup><td c>med<td r>50608<td c>Indb.<td c>(11)
+<td>Selskabsøer, Lave Øer (Markesasøer)<td r>4395<td c>—<td c>—<td r>31477<td c>—<td c>(11)
+<td>Wallis, Futuna, Clipperton<td r>226<td c>—<td c>—<td r>6000<td c>—<td c>(—)
+<td r>I alt i Australien<td r>c. 21542<td c>km<sup>2</sup><td c>med<td r>88100<td c>Indb.
+<td r>I alt Franske Kolonier<td r>c. 12070000<td c>km<sup>2</sup><td c>med<td r>53700000<td c>Indb.
+<td 7>
+<td 7 c><sp>Holland</sp>.
+<td 7><tab>I <sp>Asien</sp>:
+<td>Java med Madura<td r>131508<td c>km<sup>2</sup><td c>med<td r>3415383<td c>Indb.<td c>(17)
+<td>Andre indiske Besiddelser med hollandsk Ny Guinea<td r>1765029<td c>—<td c>—<td r>13046256<td c>—<td c>(17)
+<td r>I alt i Asien<td r>c. 1896537<td c>km<sup>2</sup><td c>med<td r>47203639<td c>Indb.
+<td 7>
+<td 7><tab>I <sp>Amerika</sp>:
+<td>Curaçao<td r>1130<td c>km<sup>2</sup><td c>med<td r>57195<td c>Indb.<td c>(18)
+<td>Surinam<td r>129100<td c>—<td c>—<td r>105039<td c>—<td c>(—)
+<td r>I alt i Amerika<td r>c. 130230<td c>km<sup>2</sup><td c>med<td r>162234<td c>Indb.
+<td r>I alt Hollandske Kolonier<td r>c. 2026767<td c>km<sup>2</sup><td c>med<td r>47365873<td c>Indb.
+<td 7>
+<td 7 c><sp>Spanien</sp>.
+<td 7><tab>I <sp>Afrika</sp>:
+<td>Rio del Oro<td r>258000<td c>km<sup>2</sup><td c>med<td r>30000<td c>Indb.
+<td>Besiddelser paa Guineakysten<td r>26633<td c>—<td c>—<td r>140000<td c>—<td c>
+<td>Annobon<td r>17<td c>—<td c>—<td r>1224<td c>—<td c>
+<td>Fernando Po<td r>2100<td c>—<td c>—<td r>20542<td c>—<td c>
+<td>Corisco<td r>14<td c>—<td c>—<td r>1432<td c>—<td c>
+<td>Elobey<td r>22<td c>—<td c>—<td r>331<td c>—<td c>
+<td>Spansk Marokko (Prot.)<td r>28000<td c>—<td c>—<td r>404000<td c>—<td c>
+<td>Presidios paa Marokkos Nordkyst (Melilla,<br>Ceuta m. m.)<td r>213<td c>—<td c>—<td r>68041<td c>—<td c>
+<td r>I alt Spanske Kolonier<td r>c. 312800<td c>km<sup>2</sup><td c>med<td r>642000<td c>Indb.<td c>(19)
+<td 7>
+<td 7 c><sp>Portugal</sp>:
+<td><tab>I <sp>Afrika</sp>:
+<td>Capverdiske Øer<td r>3927<td c>km<sup>2</sup><td c>med<td r>149793<td c>Indb.<td c>(17—18)
+<td>Port. Guinea<td r>36125<td c>—<td c>—<td r>289000<td c>—<td c>(—)
+<td>St Thomé, Principe<td r>944<td c>—<td c>—<td r>58907<td c>—<td c>(—)
+<td>Angola<td r>1255775<td c>—<td c>—<td r>4120000<td c>—<td c>(—)
+<td>Mosambik<td r>760000<td c>—<td c>—<td r>3120000<td c>—<td c>(—)
+<td r>I alt i Afrika<td r>c. 2057000<td c>km<sup>2</sup><td c>med<td r>7738000<td c>Indb.
+<td 7>
+<td 7><tab>I <sp>Asien</sp>:
+<td>Besiddelser i Forindien (Goa m. m.)<td r>3807<td c>km<sup>2</sup><td c>med<td r>548500<td c>Indb.
+<td>Macao<td r>10<td c>—<td c>—<td r>74866<td c>—<td c>
+<td>Timor og Kambing<td r>19000<td c>—<td c>—<td r>377800<td c>—<td c>
+<td r>I alt i Asien<td r>c. 22800<td c>km<sup>2</sup><td c>med<td r>1001600<td c>Indb.
+<td r>I alt Portugisiske Kolonier<td r>c. 2080000<td c>km<sup>2</sup><td c>med<td r>8740000<td c>Indb.
+</table>

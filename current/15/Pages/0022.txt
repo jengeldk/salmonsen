@@ -1,0 +1,138 @@
+sammen med, at Linierne i den principale Serie
+aif Natriumspektret som bekendt er
+Dobbeltlinier; for hver Prik i den anden Række i Fig.
+3 skulde der egl. have været tegnet to Prikker,
+som dog ikke med den benyttede Maalestok
+vilde kunne skelnes fra hinanden. Vi skal ikke
+gaa ind paa disse Forhold, men nøjes med at
+meddele, at Forsøgene i alle Enkeltheder
+bekræftede de Anskuelser, man efter K. har om
+Emissionen af Liniespektre.
+
+<sp>Sammenstød mellem Elektroner
+og Atomer</sp>. Som omtalt under
+<sp>Katodestraaler</sp> har <sp>Franck</sp> og <sp>Hertz</sp>,
+<sp>Davis</sp> og <sp>Goucher</sp> o. a. udarbejdet Metoder,
+hvorved Sammenstød mellem Atomer og
+Elektroner af forsk. Hastighed kan undersøges, og
+man har herved, navnlig gennem Arbejder af
+J. Franck og forsk. Medarbejdere, opnaaet
+Resultater, som er af meget stor Bet. for K. Det
+har vist sig, at naar et Atom af en enatomig
+Luftart ell. Damp rammes af en Elektron, hvis
+Hastighed er saa ringe, at Elektronens
+kinetiske Energi er mindre end den Energimængde,
+som udkræves for at føre Atomet fra dets
+normale stationære Tilstand, i hvilken Atomets
+Energi har sin mindst mulige Værdi, til den
+stationære Tilstand, som svarer til den
+næstmindste Værdi af Atomenergien, vil
+Sammenstødet være »elastisk«, d. v. s. Elektronen
+forlader Atomet uden at have afgivet ell.
+modtaget Energi og uden at have frembragt
+Blivende Forandringer i Atomet. Er
+Elektronhastigheden større, vil Sammenstødet kunne
+resultere i, at en af de ydre Elektroner i Atomet
+føres ud i en stationær Bane, som ligger
+længere fra Kernen end dens normale Bane, og
+den stødende Elektron vil da netop have
+afgivet saa meget af sin kinetiske Energi, som er
+fornødent hertil. Maaler man de stødende
+Elektroners Hastigheder før og efter, at de har
+passeret Luftarten og lidt Sammenstød med dens
+Atomer, vil de Hastighedstab, som
+Elektronerne har lidt, give direkte Oplysninger om
+Energiforskellene mellem Atomets stationære
+Tilstande. Har de stødende Elektroner en kinetisk
+Energi, som er større end ell. lig det Arbejde,
+som udkræves for at fjerne en Elektron helt
+fra Atomet, vil dette kunne ske ved
+Sammenstødet; Atomet siges da at <sp>ioniseres</sp> ved
+Elektronstødet. Ved at iagttage, hvor star en
+Hastighed Elektronerne maa have for at
+frembringe Ionisation af Luftarten, faar man
+Oplysning om Størrelsen af Ioniseringsarbejdet ell.
+den Fasthed, hvormed den ell. de ydre, løsest
+bundne Elektroner er bundet. At den her
+givne Tydning af Elektronstødforsøgene er
+rigtig, fremgaar af, at man for
+Ioniseringsarbejdet og Energiforskellene mellem stationære
+Tilstande i alle Tilfælde, hvor disse Størrelser i
+Forvejen var kendt, f. Eks. fra
+Absorptionsspektret, har fundet Værdier, som udmærket
+stemte med de allerede kendte. I enkelte
+Tilfælde, f. Eks. for Helium, har de Oplysninger,
+som Elektronstødforsøgene har givet, været
+overordentlig værdifulde for Spørgsmaalet om
+Atomets Bygning, idet de Linier, som udsendes
+ell. absorberes ved Overgange til ell. fra den
+normale, mest stabile, stationære Tilstand,
+ligger saa langt ude i det ultraviolette, at de ikke
+var iagttaget ved optiske Metoder. Naar en af
+de ydre Elektroner i et Atom ved
+Elektronstød er ført ud i en stationær Bane med større
+Energi end dens normale Bane, vil den i Alm.
+kun bevæge sig der en forholdsvis kort Tid,
+hvorefter den søger tilbage til sin normale
+Bane under Udsendelse af elektromagnetisk
+Straaling. Elektronstødene giver altsaa
+Anledning til Lysemission, og forøger man
+efterhaanden de stødende Elektroners Hastighed, vil der,
+naar ganske bestemte Hastighedsværdier naas,
+fremkomme ny Linier i det Spektrum, som
+udsendes. Som oftest benytter man den ved
+Elektronstødene fremkaldte Straalings lyselektriske
+Virkning til Bestemmelse af de
+Energimængder, som kan overføres fra en stødende
+Elektron til en vis enatomig Luftarts Atom. I
+enkelte Tilfælde har man fundet, at et Atom ved
+Elektronstød kan føres over i en stationær
+Tilstand, hvorfra det ikke uden ydre Paavirkning
+kan vende tilbage til Normaltilstanden; en
+saadan stationær Tilstand siges at være metastabil.
+Saaledes vil Heliumatomer, naar de rammes af
+Elektroner, der har en saa stor Hastighed,
+som den de opnaar ved at passere et elektrisk
+Felt paa 20,5 Volt, som opdaget af J. Franck,
+kunne føres over i en metastabil Tilstand. For
+at iagttage dette Fænomen maa man anvende
+yderst ren Helium, da selv meget smaa
+Forureninger af fremmede Luftarter vil bevirke,
+at de metastabile Heliumatomer ret hurtigt
+efter deres Dannelse omdannes til normale
+Heliumatomer under Udsendelse af Straaling.
+Opdagelsen af metastabilt Helium har haft stor
+Bet. for Spørgsmaalet om Heliumatomets
+Opbygning; man har nu saa nøje Kendskab
+hertil, at man ved Hjælp af
+Korrespondensprincippet kan indse, at Sandsynligheden for en
+Overgang fra den metastabile til den normale
+Tilstand maa være yderst ringe. Forsøgene
+over Sammenstød mellem Elektroner og Atomer
+har tydelig vist, at de Love, som er fundet for
+alm. Legemers Vekselvirkning, slet ikke har
+Gyldighed for Vekselvirkningen mellem
+Elektroner og Atomer ell. disse indbyrdes, og
+Forsøgene har givet Bohr's Teori om stationære
+Tilstande en meget haandgribelig Bekræftelse.
+
+<sp>Røntgenspektre</sp>. Et Grundstofs
+Buespektrum udsendes, som det fremgaar af det
+foregaaende, ved en Proces, hvorved den
+yderste ell. sidste Elektron bindes fastere og fastere
+i Atomet og til sidst havner i sin normale, mest
+stabile stationære Bane. I Modsætning hertil
+maa man antage, at Stoffets karakteristiske
+Røntgenspektrum (se <sp>Røntgenstraaler</sp>)
+fremkommer ved Processer i Atomets Indre.
+De grundlæggende Arbejder over
+Røntgenspektre skyldes <sp>Moseley</sp>, der ganske kort
+efter Bohr's første Arbejde over Atomtbygning
+gjorde den overordentlig vigtige Opdagelse, at
+Svingningstallet <i>v<sub>K</sub></i> for den stærkeste Linie i den
+mest kortbølgede, saakaldte <i>K</i>-Gruppe af Linier
+varierer yderst regelmæssigt, naar man gaar
+fra Stof til Stof i den Rækkefølge, hvori disse
+er ordnet i det periodiske System, og at det
+samme gælder for den stærkeste Linie i den
+saakaldte <i>L</i>-Gruppe. Han fandt, at

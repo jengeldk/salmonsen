@@ -1,0 +1,107 @@
+Adgang for Dampen til en lille Cylinder, hvis
+Stempel besørger Ekspansionsglideren indstillet.
+
+I den nyeste Tid anvendes ikke sjælden de
+saakaldte <sp>Inertiregulatorer</sp>, som
+adskiller sig fra de ældre Centrifugalregulatorer
+derved, at der paa R.'s Aksel er anbragt et
+lille Svinghjul, der kan dreje sig paa Akslen
+og er sat i Forbindelse med Lodderne paa en
+saadan Maade, at dets Stilling i Forhold til
+Akslen er bestemt ved disses. Dette Svinghjul
+virker ved sin »Inerti«, idet det, naar
+Omdrejningshastigheden forandres, udøver et Træk
+ell. Tryk paa Lodderne, som, naar
+Forbindelsen er rigtig indrettet, vil hjælpe til med at
+føre Lodderne hen i den ny Stilling, som de
+skal indtage, svarende til den forandrede
+Belastning paa Kraftmaskinen. Et saadant
+Svinghjul forøger R.'s Evne til at overvinde
+Modstandene i de af den paavirkede Maskindele
+og bringer altsaa R. til at virke hurtigere og
+finere.
+
+Ved mindre Gas- og Petroleumsmaskiner
+anvendes ikke sjælden en <sp>Pendulregulator</sp>
+(Fig. 2), hvis Virkning ligeledes beror paa en
+tung Masses Inerti. Den bestaar af et Pendul
+<i>a</i>, der er ophængt paa og kan dreje sig om en
+Tap <i>b</i>, som atter sidder paa en om <i>c</i> drejelig
+Arm, der af Maskinen føres frem og tilbage;
+en Fjeder <i>e</i> holder Pendulet ind mod en
+Stopper <i>f</i>; men overskrider Maskinens Hastighed
+den normale, overvinder Pendulets
+Inertimoment Fjederens Kraft, og Pendulet svinger
+noget ud. Et paa Pendulet fastgjort, vandret Næb
+<i>g</i> støder, saa længe Maskinens Hastighed er
+under den normale, imod Gas- ell.
+Petroleumsventilens Stilk <i>h</i> og aabner Ventilen. Bliver
+Hastigheden større, saa at Pendulet svinger
+ud, gaar Næbbet neden under Ventilstilken,
+Ventilen forbliver lukket og Maskinens Fart
+formindskes, idet een ell. fl. Eksplosioner
+udelades. R., hvis Virkemaade karakteriseres ved,
+at Næbbet afvekslende rammer Ventilstilken og
+gaar forbi denne, kaldes af Englænderne <i>hit
+and miss governor</i>.
+
+En ganske særegen Art af R. er den af
+Professor Poul la Cour opfundne <sp>Kratostat</sp>.
+Dens Bestemmelse er at overføre Kraften fra
+en Motor, der gaar ujævnt, f. Eks. en
+Vindmølle, et Vandhjul, en Hestegang, paa en
+saadan Maade til en Aksel ell. Arbejdsmaskine, at
+dennes Hastighed bliver saa vidt muligt jævn.
+Kratostaten har faaet en Del Udbredelse i
+Møllerne og kan regulere med meget stor
+Nøjagtighed. Den har ogsaa været forsøgt om
+Bord paa Dampskibe — hvor den særlig skulde
+modarbejde Maskinens Tilbøjelighed til at løbe
+løbsk, naar Skruen kommer over Vandet i
+Søgang — og ligeledes i Forbindelse med alm.
+Dampmaskiner i St f. en Centrifugalregulator,
+dog uden hidtil at vinde større Udbredelse paa
+disse Omraader. Kratostaten kan have
+mangfoldige Skikkelser. Paa vedføjede Tegning (Fig.
+3) er den vist skematisk i Forbindelse med en
+ujævnt gaaende Motor, fra hvilken en
+Centrifuge skal drives. Remskiverne <i>A</i> og <i>B</i>'s Aksler
+hviler i faste Lejer; over Skiverne er lagt en
+Rem, i hvis to nederste Bugter er ophængte
+løse Trisser, <i>a</i> og <i>b</i>, der bærer Vægtene <i>L</i> og
+<i>M</i>. Paa <i>B</i> sidder Vindfanget <i>V</i>, og dette drives
+rundt med en Kraft 1/2 (<i>L—M</i>) paa Skiven <i>B</i>'s
+Omkreds. Remskiven <i>A</i> drives rundt af en fra
+Forlagsakslen udgaaende Rem over Skiven <i>R</i>;
+Pilene angiver Omdrejningsretningen. Det vil
+nu ses, at naar der paa <i>A</i> opvikles lige saa
+stor en Remlængde, som der afvikles af <i>B</i>,
+vil Trissen <i>b</i>, og altsaa ogsaa <i>a</i>, holdes
+svævende i en bestemt Højde. Vindfangets
+Modstand, der afhænger af dets Hastighed, svarer
+da netop til Kraften 1/2 (<i>L—M</i>); da man ved at
+lægge Lodder paa <i>M</i> ell. <i>L</i> kan give denne
+Kraft en hvilken som helst Størrelse, kan
+ogsaa Vindfangets normale Hastighed gives
+enhver Størrelse. Gaar nu <i>A</i> p. Gr. a. en
+Forøgelse af Motorens Hastighed blot lidt hurtigere
+rundt, vil Trækket i den Rempart, der løber
+paa <i>A</i>, vokse, og dermed Vindfangets
+Hastighed. Modstanden af Vindfanget vokser
+imidlertid langt stærkere end Hastigheden, og Følgen
+vil blive, at Trissen <i>b</i> hæves, medens <i>a</i> synker.
+<i>b</i> staar ved Snoren <i>t</i> i Forbindelse med en
+Stramrulle <i>s</i>, og naar <i>b</i> hæves, formindskes det
+Tryk, som Stramrullen udøver imod Remmen
+<i>M</i>, der overfører Kraften fra Motoren til
+Forlaget. Denne Rem vil da glide, og Motorens
+Hastighedstilvækst vil derfor kun i ringe Grad
+blive overført til Forlaget og til den fra dette
+drevne Centrifuge. Formindskes Motorens
+Hastighed, synker Trissen <i>b</i>, og Stramrullen <i>s</i>
+trykkes stærkere mod Remmen <i>M</i>; denne
+glider ikke saa stærkt og tager Forlaget bedre
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>

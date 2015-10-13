@@ -1,0 +1,74 @@
+<img>AALBORG</img>
+
+<table>
+<td r>1.<td><i>Kommuneskole</i><td r>B 1
+<td r>2.<td><i>Tekstilfabrik</i><td r>B 2-C 2
+<td r>3.<td><i>Drengehjem</i><td r>A 3
+<td r>4.<td><i>Kommuneskole</i><td r>C 3
+<td r>5.<td><i>Alderdomshjem</i><td r>B 3
+<td r>6.<td><i>Vor Frelsers Kirke</i><td r>C 3
+<td r>7.<td><i>Caroline Smiths Stiftelse</i><td r>C 3
+<td r>8.<td><i>Tabor</i><td r>C 3
+<td r>9.<td><i>Skt Jørgensgaard Fattiggaard</i><td r>C 4
+<td r>10.<td><i>Katedralskole</i><td r>C 4
+<td r>11.<td><i>Kommuneskole</i><td r>C 3
+<td r>12.<td><i>Dampmøller</i><td r>C 2
+<td r>13.<td><i>Navigationsskole</i><td r>C 2
+<td r>14.<td><i>Obels Tobaksfabrik</i><td r>D 2
+<td r>15.<td><i>Landmandsbanken</i><td r>E 3
+<td r>16.<td><i>Byfogedkontor. Politistation</i><td r>E 3
+<td r>17.<td><i>Toldkammer</i><td r>E 3
+<td r>18.<td><i>Haandværkerforeningen</i><td r>E 3
+<td r>19.<td><i>Ellen Marsvins Gaard</i><td r>E 3
+<td r>20.<td><i>Bejers Hotel</i><td r>E 3
+<td r>21.<td><i>Immanuelskirke</i><td r>D 3
+<td r>22.<td><i>Kommunehospital</i><td r>D 3
+<td r>23.<td><i>Hotel Føniks</i><td r>D 3-4
+<td r>24.<td><i>Maskinfabrik</i><td r>D 4
+<td r>25.<td><i>Hotel National</i><td r>D 4
+<td r>26.<td><i>Hospitalet (Stiftelse)</i><td r>E 3
+<td r>27.<td><i>Badeanstalt</i><td r>E 3
+<td r>28.<td><i>Diskontobanken</i><td r>E 4
+<td r>29.<td><i>Post- og Telegrafkontor</i><td r>E 4
+<td r>30.<td><i>Raadhus</i><td r>E 4
+<td r>31.<td><i>Budolfi Kirke</i><td r>E 4
+<td r>32.<td><i>Museum</i><td r>E 4
+<td r>33.<td><i>Bispegaard</i><td r>E 4
+<td r>34.<td><i>Teater</i><td r>D 4
+<td r>35.<td><i>K. F. U. M.</i><td r>D 4
+<td r>36.<td><i>Teknisk Skole</i><td r>E 4
+<td r>37.<td><i>Odd-Fellow Palæ</i><td r>E 4
+<td r>38.<td><i>Kommun. Administrationsbygn.</i><td r>E 4
+<td r>39.<td><i>Brandstation</i><td r>E 4
+<td r>40.<td><i>Borgerskole</i><td r>E 5
+<td r>41.<td><i>Synagoge</i><td r>E 4
+<td r>42.<td><i>Landbosparekassen</i><td r>F 4
+<td r>43.<td><i> Amtsstue. Sparekasse</i><td r>E 4
+<td r>44.<td><i>Handelsforeningen</i><td r>E 3-4
+<td r>45.<td><i>Chr. IXs Rytterstatue</i><td r>E 3
+<td r>46.<td><i>Hotel Kong Frederik</i><td r>F 3
+<td r>47.<td><i>Havnekontor</i><td r>F 3
+<td r>48.<td><i>Telefoncentral</i><td r>F 4
+<td r>49.<td><i>Hovedvagt</i><td r>F 4
+<td r>51.<td><i>Ting- og Arresthus</i><td r>F 5
+<td r>52.<td><i>Lille Eksercerplads</i><td r>F 4
+<td r>53.<td><i>Havneingeniørkontor</i><td r>F 4
+<td r>54.<td><i>Good Templar Loge</i><td r>F 4
+<td r>55.<td><i>Vor Frue Kirke</i><td r>F 5
+<td r>56.<td><i>Koncertsal og Varieté</i><td r>F 5
+<td r>57.<td><i>Menighedshjem</i><td r>E 5
+<td r>58.<td><i>Højskolehjem</i><td r>E 5
+<td r>59.<td><i>Hotel Hafnia</i><td r>E 5
+<td r>60.<td><i>Kreditforening</i><td r>E 5
+<td r>61.<td><i>Pigeskole</i><td r>D 6
+<td r>62.<td><i>Bethel</i><td r>F 5
+<td r>63.<td><i>Haandværkerstiftelsen</i><td r>F 5
+<td r>64.<td><i>Militært Depot</i><td r>G 5
+<td r>65.<td><i>Kommuneskole</i><td r>G 5
+<td r>66.<td><i>Militært Sygehus</i><td r>G 5
+<td r>67.<td><i>Grand Hotel</i><td r>G 4
+<td r>68.<td><i>Kvægtorv</i><td r>G 4
+<td r>69.<td><i>Elektricitetsværk</i><td r>G 4
+<td r>70.<td><i>Præstebolig</i><td r>G 4
+<td r>71.<td><i>Katolsk Kirke. Klinik</i><td r>D 2
+</table>

@@ -1,0 +1,123 @@
+Afbrydelse bringes til at arbejde som Dynamoer, hvis
+Strøm sendes gennem forskellige kortsluttede
+Modstande. Togene bestaar af 1 til 3 Vogne.
+Signalsystemet er et automatisk virkende
+Bloksystem med røde og grønne, baade ved Dag og
+Nat brændende Signallygter. Hele Kraftanlægget
+er udført som to fuldstændig adskilte Systemer,
+saaledes at det ene danner Reserve for det
+andet, hvorved opnaas, at Driften ikke
+forstyrres ved indtrædende Fejl i det ene System. Ved
+større Trafik løber et Tog hvert 2. à 2 1/2 Minut;
+der kan hermed befordres indtil 4500 Personer
+i hver Retning pr Time. I Driftsaaret 1911-12
+befordredes 15,067 Millioner Rejsende ell. 4,71 pr
+Vognkilometer, og Driftsudgifterne beløb sig til
+26,36 Pfennig pr Vognkilometer.
+Anlægsudgifterne har været 450000-500000 Rm. pr km,
+inklusive Funderingen og Holdepladserne, men
+eksklusive det rullende Materiel, med dette
+henved 700000 Rm. pr km. Foruden den
+her beskrevne Bane, har der været gjort
+Udkast til Hængebaner over Bybanen i Berlin samt
+mellem Hamburg og Berlin; disse er dog hidtil
+ikke komne til Udførelse. Som en særlig Art
+af enskinnede Hængebaner kan <sp>Tovbanerne</sp>
+betragtes, idet den faste Skinne her er erstattet
+med et Tov. Ang. disse Baner se <sp>Tovbaner</sp>.
+
+Til den anden Art af egl. E.,
+<sp>Gyroskopbanerne</sp>, hører <sp>Brennan</sp>'s (Fig. 3) og <sp>Scherl</sp>'s
+System; disse er dog hidtil ikke komne til
+Udførelse, naar undtages nogle
+Forsøgsstrækninger (Brennan: 1909-10 i Gillingham; Scherl:
+1909-10 i Berlin og Brooklyn). Som Navnet
+antyder, benyttes her Princippet for Gyroskopet
+til at holde Køretøjerne i Ligevægt i lodret
+Stilling. Alle de ovf. nævnte Fordele ved Anlæg
+af E. gælder ogsaa her, en Del af dem endog
+i særlig udpræget Grad. Der kan nemlig opnaas
+Besparelser i Udgifterne til
+Grunderhvervelserne, fordi Banelegemets Bredde kan indskrænkes,
+og da Banerne kan anlægges med større
+Stigninger og stærkere Sporkurver end toskinnede
+Jernbaner, bliver Jordarbejdet ved
+Gennemskæringer og Dæmninger mindre omfattende og
+kostbart. Da Paavirkningen paa Banelegemet
+ved passende Valg af Svelleform endvidere er
+meget gunstig, kan Ballastens Kvalitet være
+ringere. Afvandingen bliver bedre;
+Sporforbindelserne simplere, og Bortfald af alle
+Sporkrydsninger og Hjertestykker bevirker en
+Simplificering i Konstruktionen af Sporskifter og
+Apparater til disses Betjening; endelig kan Broer og
+de øvrige Konstruktioner gøres lettere. Vognene
+hviler med deres Hovedtværdragere paa de to
+Bogiers Drejetapper, som her maa gøres særlig
+solide, fordi Vognene mangler Støtte i Siderne.
+prejetapperne, der er kugleformede, maa tillade
+Vognkassens Drejning om en lodret Akse og en
+vandret Tværakse, men derimod ikke om dens
+vandrette Længdeakse. Bogierne indeholder 2
+ell. 3 Aksler; Paavirkningen af saavel disse som
+Hjul og Skinner er gunstig, til Trods for, at kun
+een Række Hjul skal optage hele Lasten. Under
+Vognkassen findes ude til Siderne 4 med smaa
+Ruller forsynede lodrette Stempler, som hurtig
+kan udløses saaledes, at de danner Støtter for
+Vognen, naar denne staar stille, og Gyroskopet
+er sat ud af Virksomhed. Gyroskopet drives
+elektrisk; afbrydes Strømmen, medens
+Gyroskopet løber 50 Omdrejninger i Sek., kan
+Apparatet holde Vognen opret endnu i en halv Time.
+Paa <sp>Brennan</sp>'s Vogne driver en
+Jævnstrømsmotor gennem Tandhjulsudveksling to Aksler,
+som begge ved en Krumtapmekanisme og
+Kobbelstænger er forbundne med den indre
+Hjulaksel paa en af de toakslede Bogier.
+Gyroskopets Omdrejningsakse er vandret og tværs paa
+Vognens Længderetning, medens det i øvrigt
+kan svinge om en lodret Akse. Selve
+Gyroskopets Vægt er 750 kg, og dets Omdrejningstal
+er normalt 3000 pr Min. I Anordningen af
+Gyroskopet og dettes Stilling adskiller Brennan's
+System sig væsentligst fra <sp>Scherl</sp>'s System,
+idet Gyroskopet ved dette sidste anbringes med
+lodret Omdrejningsakse, medens det i øvrigt
+kan vugge om en vandret Tværakse. En Aksel i
+hver Bogie drives af en Elektromotor, der faar
+sin Strøm gennem en Kobberledning ved Siden
+af Køre- ell. Bæreskinnen. Hver Vogn er
+forsynet med 2 Gyroskoper, der er saaledes koblede
+sammen med hinanden gennem Krumtapper,
+Vinkelvægtstænger, Trykstænger, Tandbuer m.
+v., at deres Bevægelse og Indstilling følges
+nøjagtig ad, men altid modsat hinanden. Denne
+Anordning er truffet for at ophæve den
+Paavirkning til Sporafløb, som et enkelt Gyroskop
+vil give Vognen i Forbindelse med sin
+Hovedvirkning at rejse Vognen, naar denne svinger
+ud af Ligevægtsstillingen, idet de to
+Gyroskoper her modarbejder hinanden, medens deres
+Rejsningsmoment altid virker i samme Retning.
+Opr. fordredes 37 HK til at holde begge
+Gyroskoper i Bevægelse, men ved at indkapsle dem
+fuldstændigt i Hylstre og suge Luften ud deraf,
+gik Kraftforbruget ned til 0,37 HK for hvert
+Gyroskop. Gyroskopets Vægt er 62 kg, dets
+Omdrejningstal 8000 pr Min. Angaaende selve
+Princippet for Gyroskopet s. d.; her skal kun
+nævnes, at et Stød paa dets Omdrejningsakse
+vil bringe denne til at svinge ud i en Plan
+vinkelret paa Stødets Retning. Betragter vi Scherl's
+Vogn, er Omdrejningsaksen lodret; paavirkes
+Vognen til Væltning til en af Siderne, vil
+Gyroskopets Akse svinge ud i Vognens lodrette
+Længdeplan; dette Udsving benyttes til at
+paavirke en Oliepumpe, der atter sætter en Motor
+i Gang, som søger at forøge Udsvinget; men
+ved denne nye Paavirkning vil Aksen søge ud
+til modsat Side af den, hvortil Vognen hælder,
+
+<img>Fig. 3. Gyroskopbane; Brennan's System.</img>
+

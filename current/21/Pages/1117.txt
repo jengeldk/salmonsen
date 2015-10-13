@@ -1,0 +1,152 @@
+Den Brøkdel af det indfaldende Lys, som
+tilbagekastes fra Grænsefladen mellem to
+gennemsigtige Legemer, afhænger baade af de to
+Legemers Brydningsforhold, af Indfaldsvinklens
+Størrelse og af Retningen af den elektriske
+Kraft i den ankommende Lysbølge i Forhold til
+Indfaldsplanet. Sammenhængen mellem disse
+Størrelser er givet ved <sp>Fresnel's
+Formler</sp>. Staar den elektriske Kraft i den
+indfaldende Straale <i>S1</i> (Fig.) vinkelret paa
+Indfaldsplanet, bliver Forholdet <i>k1</i> mellem Intensiteterne
+af den tilbagekastede Straale <i>S2</i> og Straalen
+<i>S1</i> bestemt ved <i>k1</i> = sin<sup>2</sup>(i—b)/sin<sup>2</sup>(i+b), hvor
+Indfaldsvinklen i og Brydningsvinklen <i>b</i> er
+sammenknyttede ved Brydningsloven <i>n1.sin i</i> = <i>n2 . sin b</i>,
+idet de to Legemers Brydningsforhold
+betegnes ved <i>n1</i> og <i>n2</i>. Ligger derimod den
+elektriske Kraft i selve Indfaldsplanet, bliver
+det tilsvarende Forhold bestemt ved <i>k2</i> =
+<i>tg<sup>2</sup>(i—b)</i>/<i>tg<sup>2</sup>(i+b)</i>. For naturligt Lys, hvor den
+elektriske Kraft stadig skifter Retning, bliver
+Forholdet <i>k</i> =1/2 . (<i>k1</i> + <i>k2</i>). For meget smaa
+Indfaldsvinkler bliver Brøken i alle Tilfælde lig
+[<i>n1—n2/n1+n2</i>]<sup>2</sup>; er det ene Stof Luft, det andet Vand, kan
+man sætte <i>n1</i> = 1 og <i>n2</i> = 1 1/3 og faar da
+Brøken lig 0,02, saaledes at kun 1/50 af det indfaldende
+Lys kastes tilbage; i Overensstemmelse hermed
+er det Spejlbillede, man ser, naar man spejler
+sig i Vand, meget lyssvagt. For Diamant er
+<i>n2</i> = 2,5, og Forholdet bliver da 0,18, altsaa
+omtr. 10 Gange saa stort som for Vand; i
+Overensstemmelse hermed »Straaler« Diamanter
+stærkt. For store Værdier af <i>i</i> (<i>i</i> = c. 90°)
+bliver Forholdet lig 1; dette viser sig f. Eks.,
+naar Bredden af en stille Sø spejler sig i
+Vandet; fra den modsatte Bred vil man da se selve
+Kysten og dens Spejlbillede næsten lige
+lysstærke, saa det paa et Fotografi kan være
+svært at kende Forskel paa »op og ned«.
+Medens <i>k1</i> aldrig kan blive 0, saa bliver <i>k2</i> = 0
+for en Indfaldsvinkel, bestemt ved <i>tg i</i> = <i>n2/n1</i>;
+under disse Forhold tilbagekastes kun Lys, i
+hvilket den elektriske Kraft staar vinkelret
+paa Indfaldsplanet, d. v. s. Lyset er plant
+polariseret (jfr. <sp>Polarisation</sp>). Til
+Undersøgelse af de herhen hørende Forhold har
+Fresnel's Parallelepipedum spillet en stor Rolle.
+
+Fresnel's Formler gælder kun for
+Tilbagekastningen fra Grænsefladen mellem
+gennemsigtige Legemer. Spejlende Metalflader
+tilbagekaster en væsentlig større Brøkdel af det
+indfaldende Lys; ved vinkelret Bestraaling (<i>i</i> = 0)
+tilbagekaster et Sølvspejl saaledes c. 90 % og
+amalgamerede Glasspejle c. 60 %. For saa
+vidt Metallet er farvet, vil den tilbagekastede
+Brøkdel ogsaa afhænge af Farven af det
+indfaldende Lys, idet Metallet tilbagekaster særlig
+meget Lys af dets egen Farve.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Spejljern">
+<b>Spejljern,</b> hvidt, mangan- og kulrigt
+Raajern af sølvhvid Farve, som kan gaa over i
+staalgraa og tinhvid, storbladet, krystallinsk, og
+skinnende i Brudet. S. fremstilles af en
+Blanding af Jern- og Manganmalme, er meget
+haardt og skørt, slaas let itu med Hammeren
+og har en stærk Klang. S. anvendes ikke til
+Brugsgenstande, men kun som Tilsætning ved
+Staalfabrikation, idet det virker afiltende og
+kuliende ved S.'s Indhold af Mangan og Kul (se
+<sp>Bessemerprocessen</sp>, S. 114—15). S.
+med under 10 % Mangan kaldes alm. S., med
+10—20 % Mangan stærkt manganholdigt S.; er
+der mere Mangan, benævnes Raajernet ikke S.,
+men Manganjern, Ferromangan. Manganets
+Tilstedeværelse bevirker, at Kulstoffet, hvoraf
+der kan være 4—6 %, holdes kemisk bundet,
+saa det ikke kan udskille sig som Grafit.
+<i>(F. W.). E. Su.</i>
+</chapter>
+
+<chapter name="Spejlkabinetter">
+<b>Spejlkabinetter.</b> Svetonius fortæller, at
+Horats havde et S., hvori han til alle Sider
+kunde se Gengivelser af det, der gik for sig.
+Da større Spejlglas blev tilgængelige,
+genopstod S. De ældste blev sammensatte af smaa
+Tavler, fattede i Rammer, der gjordes saa
+usynlige som muligt. Da den sp. Gesandt
+<sp>Rebolledo</sp>, der var akkrediteret ved det
+danske Hof fra 1648—59, 1653 havde Audiens hos
+Frederik III paa Kbhvn's Slot, førte Kongen
+Gesandten ind til Dronning Sofie Amalie, der
+opholdt sig i et S. Her fandtes smukke og
+kostbare Sager. Rebolledo har i en Sonet
+beskrevet dette Rum, som var beklædt med Spejle
+paa Loft og Vægge. 1654 saa han paa
+»Hersholme« et andet S., »der ser ud, som om det
+var en udhulet Stjerne«.
+
+Det tredie danske S., vi kender, er til endnu
+paa Rosenborg og omtales første Gang i
+Bygningsregnskaberne fra 1707, hvor det ses, at et
+enkelt Stykke Glas kostede 9 Rd. 2 ß kurant.
+Kronprins Frederik skriver i sin Dagbog fra
+1692, at han i Palazzo Borghese i Rom saa et
+meget kostbart S. S. begyndte som en
+fyrstelig Luksus; først henimod Slutn. af 19. Aarh.
+optoges de i Vokskbainetterne og blev saaledes
+Allemands Ejendom.
+<i>(Bernh. O.). J. O.</i>
+</chapter>
+
+<chapter name="Spejlkarpe">
+<b>Spejlkarpe,</b> se <sp>Karpe</sp>.
+</chapter>
+
+<chapter name="Spejlmaaling">
+<b>Spejlmaaling,</b> se <sp>Spejlapparater</sp>.
+</chapter>
+
+<chapter name="Spejlmetal">
+<b>Spejlmetal</b> (<sp>Spejlbronze</sp>), binær Bronze
+af Kobber (67—70 %) og Tin (33—30 %), ofte
+med en lille Tilsætning af Arsen ell. Nikkel,
+særlig egnet synes en Legering at være af
+Sammensætningen 66 Dele Kobber, 33 Dele Tin og
+1 Del Arsen. For store Mængder Arsen
+bevirker, at Legeringen hurtig taber sin Højglans.
+S. var allerede kendt i Oldtiden med lgn.
+Sammensætning, som nu anvendes. Det har et
+meget fint Brud, hvid Farve og stor Haardhed
+og kan antage Højglans ved Polering; dets
+Anvendelse til plane Spejle er for længst bragt til
+Ophør ved Indførelsen af Glasspejle; derimod
+har det selv i den nyere Tid haft en Del
+Anvendelse til Spejlteleskoper. Nu anvendes dog
+hellere til saadanne et Glasunderlag, der
+forsølves, idet der paa de fint slebne og polerede Glas
+flader ad kemisk Vej udfældes et tyndt Lag
+Sølv. (<sp>Litt</sp>.: <sp>Laurids Madsen</sp>, »Optiske
+Linser«).
+<i>Carl J.</i>
+</chapter>
+
+<chapter name="Spejlniveauet">
+<b>Spejlniveauet</b> [-ni'vo'<sub>ə</sub>ð], se
+<sp>Haandniveau</sp>.
+</chapter>

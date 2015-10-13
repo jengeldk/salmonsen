@@ -1,0 +1,130 @@
+Disse Absorptionsdiskontinuiteter har den
+største Bet. for mange af R.'s Virkninger, idet
+Forholdet altid er det, at kun absorberet
+Straaling kan frembringe en Virkning. Naar
+der derfor ved et bestemt λ indtræder en
+Diskontinuitet i Absorptionen, vil den Virkning,
+der er betinget af denne Absorption, vise den
+samme Diskontinuitet. Det gælder saaledes
+Fotograferingen. De R., der sværter Bromsølvet i
+Plader ell. Films, er kun de R., der absorberes
+deri, og derfor er R.'s fotografiske Virkning
+væsentlig knyttet til de to Bølgeomraader lige
+under de to K-Diskontinuiteter for Br og Ag.
+Medens Maaling af den fot. Sværtning kan
+være et meget brugbart Middel til Bestemmelse
+af R.'s Intensitet, naar der er Tale om at
+sammenligne samme Slags R., gaar det slet ikke
+for forsk. Slags R., idet ved Sammenligning af
+to Bølgebredder, en lidt kortere og en lidt
+længere end Diskontinuitetens Bølgebredde,
+samme Sværtning betyder mange Gange større
+Intensitet af den blødere end af den haardere.
+Lgn. Forhold gør sig gældende ved Brugen af
+Forstærkningsskærme og ved den i Medicinen
+meget benyttede Sabouraud-Noiré Tablet,
+hvorved man afmaaler en vis Dosis R. derved, at
+den fremkalder en bestemt Farveændring i
+Tablettens Bariumplatincyanur. Her kan man
+begaa meget store Fejl ved ikke at tage Hensyn
+til Ba's og Pt's Diskontinuiteter. For de letteste
+Stoffer, saaledes alle Bestanddele af
+Organismerne, ligger derimod Diskontinuiteterne ved
+saa bløde Straaler, at de ingen Bet. har i Praksis.
+
+R.'s <sp>Spredning</sp>. Naar R. passerer et Stof,
+vil alle Elektroner i alle de passerede Atomer
+blive sat i Medsvingning i Takt med den
+indfaldende Straalings Svingninger, og dette giver
+Anledning til, at de udsender R. af samme Art
+som de indfaldende, men de udsendes i alle
+Retninger. Da den Energi, der saaledes
+udsendes spredt, jo er taget fra det indfaldende
+Straalebundt, bliver dette Fænomen som nævnt
+en ny Aarsag til Svækkelse af R. ved
+Gennemgang gennem Stof. Da Antallet af Elektroner i
+et Atom, der jo er lig Stoffets Atomnummer,
+omtr. er lig det halve af Atomvægten, bliver
+Antallet af Elektroner pr g passeret Stof det
+samme, uafhængig af Stoffets Art og derfor
+ogsaa Spredningen σ/ρ pr g den samme for alle
+Stoffer. Tillige skal den ventes at være uafhængig
+af Bølgebredden. Begge Dele stemmer i store
+Træk med Erfaringen for de letteste Stoffer. En
+nærmere Behandling af Teorien viser, at det ikke
+kan ventes at gælde for de tunge Stoffer, hvor
+Elektronerne er tæt pakket sammen; de vil da
+give forholdsvis større Spredning, og tillige vil
+Bølgebredden faa nogen Indflydelse, saaledes at
+bløde Straaler spredes noget mere end haarde.
+Den simple Teori giver ogsaa en bestemt
+Fordeling af den spredte Straaling uden om den
+indfaldende, men Forsøgene giver en mere
+skæv Fordeling med større Spredning i
+Straalernes Retning end bagud, især for haard
+Straaling. Herfor kan der dog ogsaa gøres
+Rede. I flg. Tabel er angivet den samlede
+Svækkelse μ/ρ for nogle vigtige Stoffer. Det konstante
+Led giver Spredningen, det af λ afhængige
+Absorptionen. For Bly gælder Udtrykket kun
+for λ større end K-Kanten, for de andre
+Stoffer for λ mindre end denne. Forsk. Forf.'s
+Tal afviger dog noget fra hinanden.
+<table>
+<td 3 c>Tabel II.
+<td c>μ/ρ for<td>Kulstof<td r>1,0 λ<sup>3</sup> + o,18
+<td c>—<td>Vand<td r>2,5 λ<sup>3</sup> + 0,18
+<td c>—<td>Aluminium<td r>15,3 λ<sup>3</sup> + 0,16
+<td c>—<td>Kobber<td r>169 λ<sup>3</sup> + 0,29
+<td c>—<td>Sølv<td r>660 λ<sup>3</sup> + 0,47
+<td c>—<td>Bly<td r>471 λ<sup>3</sup> + 0,82
+</table>
+
+Tallene viser, at for bløde R. og Stoffer med
+høj Atomvægt er Spredningen uden Bet. i
+Forhold til Absorptionen. Omvendt er for haarde
+R. og især for lette Stoffer Spredningen den
+altovervejende Svækkelsesaarsag. Dette gælder
+især for Vand og Kul og altsaa for alle de
+vigtigste Bestanddele af Organismerne. For de
+letteste Stoffer vil altsaa for meget haard
+Terapistraaling Svækkelsen ikke afhænge meget af
+Bølgebredden.
+
+Ved Spredning optræder tillige en
+(<sp>Polarisation</sp> af R., allerede opdaget 1905 af
+Barkla. Fig. 16 viser skematisk en Opstilling til
+Paavisning af Polarisationen. Fra Antikatoden A
+udgaar de primære R. R<sub>1</sub>, der træffer det
+spredende Legeme, f. Eks. en Paraffinkugle P<sub>1</sub>. De
+spredte R. R<sub>2</sub> fra denne i Retningen vinkelret
+paa de primære Straaler maa ventes kun at
+indeholde Svingninger vinkelret paa Papirets
+Plan (antydet ved Prikker, smlg.
+<sp>Polarisation</sp>), idet Elektronerne i P<sub>1</sub> sættes i
+Svingning af de elektriske Kræfter i R<sub>1</sub>, men
+Kræfterne i Papirets Plan kan ingen Straaling give
+i Retningen R<sub>2</sub>. Dette paavises ved at lade dem
+træffe Paraffinkuglen P<sub>2</sub>. De sekundære (eller
+rettere tertiære) Straaler fra P<sub>2</sub> vil da være
+stærkest i de Retninger, der ligger i Tegningens
+Plan, men være Nul i de to Retninger vinkelret
+paa denne. At det virkelig var Tilfældet, viste
+Barkla ved, at et Elektroskop, anbragt i disse
+Retninger, beholdt sin Ladning, men tabte den
+i alle andre Stillinger og hurtigst, naar det stod
+i Planen gennem R<sub>1</sub> og R<sub>2</sub>. Man kunde formode,
+at ogsaa de primære R. vilde være
+polariserede, da de opstaar ved Standsning af
+Elektroner, der alle har samme opr.
+Bevægelsesretning. Dette var ogsaa Tilfældet, men kun i ret
+ringe Grad, thi dels ændrer mange Elektroner
+Retning inde i A, inden de bremses helt, dels
+er den karakteristiske R. i R<sub>1</sub> upolariseret.
+
+1922 opdagede A. H. Compton, at der ved R.'s
+Spredning dog under visse Omstændigheder
+indtræder en Ændring af Bølgebredden. Naar
+haarde R. spredes fra et let Stof, er de spredte
+
+<img>Fig. 16. Spredte Røntgenstraalers Polarisation.</img>

@@ -1,0 +1,106 @@
+fuld Strøm. I Serie med den bevægelige Spole
+er der i Reglen en Forlagsmodstand <i>R</i><sub>f</sub>, som
+afpasses, indtil Instrumentet gør fuldt Udslag
+ved 60 Millivolt. Instrumentet passer da
+praktisk talt til enhver Shunt.
+
+Ved Laboratorieinstrumenter er der ofte i
+selve Instrumentet indbygget en Shunt, saaledes
+at Instrumentet gør fuldt Udslag ved 0,150
+Ampère, og tilføjet en lille Modstand, saaledes at
+Modstanden fra Klemme til Klemme gennem
+Instrumentet bliver nøjagtig 1 Ohm.
+Instrumentet gør følgelig fuldt Udslag ved en
+Spænding af 0,150 Volt. Da Skalaen gaar fra 0-150°,
+betyder 1° Udslag 1 Millivolt ell. 1 Milliampère.
+Til Benyttelse som Ampèremeter kombineres
+Millivoltmetret med Shunter, hvis Modstand
+skal være som anført i flg. Tabel.
+<table>
+<td>Fuldt Udslag<td c>1,5<td c>15,0<td c>75,0<td c>150<td c>300<td>Ampère
+<td>Shunt<td c>1/9<td c>1/99<td c>1/499<td c>1/999<td c>1/1999<td>Ohm
+</table>
+
+Et Milliampèremeter kan benyttes som
+Voltmeter, naar det serieforbindes med en passende
+stor Modstand; men i Reglen foretrækker man
+til Benyttelse som Voltmetre særlige
+Instrumenter med fl. Vindinger og tyndere Traad,
+saa at den til fuldt Udslag nødvendige Strøm
+bliver mindre. Et Voltmeter har eksempelvis
+200 Vindinger af 0,1 mm Traad, og gør fuldt
+Udslag ved c. 0,01 Ampère. Forlagsmodstandene
+afpasses, saa at Instrumentet gør fuldt Udslag
+ved den ønskede Spænding, og beløber sig til c.
+100 Ohm for hver Volt.
+
+Et Voltmeter til 150 Ohm har da i alt en
+Modstand paa c. 15000 Ohm. Modstandens
+nøjagtige Værdi varierer noget fra det ene
+Instrument til det andet.
+
+Den, der har Æren af først at have udviklet
+denne Art Instrumenter til tekn.
+Fuldkommenhed, er <sp>Weston</sp>. Ved kunstig Ælde af
+Magneter og Spiralfjedre har man
+opnaaet, at Instrumenterne i
+Aarevis vedbliver at vise
+rigtigt. Princippet, permanente
+Magneter og bevægelige
+Vindinger, er til Galvanometre for
+svage Strømme først anvendt af
+<sp>Déprez</sp> og <sp>d'Arsonval</sp>. Fig.
+6 viser det ydre Udseende af et
+Millivoltmeter til
+Laboratoriebrug med tilhørende Shunter.
+
+Ved Benyttelsen bør man
+sørge for en passende indbyrdes
+Afstand (c. 40 cm) mellem forsk.
+Instrumenter, da deres
+Magneter ellers paa virker hinanden.
+Endvidere bør man holde dem
+borte fra større Jernmasser og
+fra Ledninger, som fører stærke
+elektriske Strømme.
+
+2) <sp>Elektrodynamiske Instrumenter</sp>
+anvendes som Præcisionsampèremetre,
+Voltmetre og Wattmetre ved Vekselstrøm. I
+Hovedsagen bestaar disse Instrumenter af en
+fast Spole og en bevægelig Spole som vist
+skematisk i Fig. 7. Strømmen ledes til og fra den
+bevægelige Spole gennem to Spiralfjedre, der
+tillige giver den til Indstillingen nødvendige
+Modkraft imod den Drejningskraft, som
+Strømmen i den faste Spole udøver paa Strømmen i
+den bevægelige Spole.
+
+Drejningskraften er til enhver Tid
+proportional med Produktet af de to Strømme. Naar det
+er Vekselstrøm, vil Drejningskraften variere
+periodisk, saaledes at den veksler mellem en
+Maksimalværdi og en Minimalværdi, der kan
+være Nul, hvis de to Strømme samtidig gaar
+gennem Nul, ell. negativ, hvis der er
+Faseforskydning mellem de to Strømme. Med
+Vekselstrøm af 50 Perioder i Sek. vil
+Drejningskraften blive Maksimum 100 Gange i Sek. og
+Minimum (Nul ell. negativ) 100 Gange i Sek.
+Den bevægelige Spole og den dermed forbundne
+Viser hverken kan ell. maa følge denne
+Variation i Drejningskraften, men gør et Udslag,
+som er bestemt ved Middelkraften.
+
+Ved et Voltmeter er den faste Spole viklet
+med tynd Traad og forbundet i Serie med den
+
+<img>
+Fig. 6. Millivoltmeter med Transportkasse og forsk. løse Shunter.
+</img>
+<img>
+Fig. 7. Elektrodynamisk Instrument.
+</img>
+<img>
+Fig. 8. Elektrodynamisk Voltmeter.
+</img>

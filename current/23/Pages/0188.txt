@@ -1,0 +1,138 @@
+Taleoverføring saaledes mulig gennem
+Luftledninger af 3 mm Kobbertraad paa en Afstand af c.
+900 km, medens et guttaperkaisoleret Kabel
+med Kobberledere af samme Diameter kun
+tillader Telefonering paa omkr. 1/5 af denne
+Afstand. Hertil kommer endvidere, at Kablerne
+af Bekostningshensyn i Reglen maa indrettes
+med tyndere Ledere, hvilket yderligere
+formindsker Rækkevidden. En Forbedring af
+Taleoverføringen er derfor ved de nyere
+Kabelkonstruktioner søgt opnaaet dels ved
+Formindskelse af Kapaciteten og dels ved Modvirkning
+af denne gennem en Forøgelse af
+Selvinduktionen. Kapaciteten formindskes ved at erstatte
+Guttaperkaisolationen med Papir, der vikles
+løst om Kobberlederne, saaledes at disse delvis
+er adskilt ved et Luftmellemrum, hvis
+Dielektricitetskonstant (og dermed Lederens
+Kapacitet) er henved 4 Gange mindre end for
+Guttaperka. Under iøvrigt lige Forhold forøges
+Telefoneringsafstanden gennem Kablet herved til
+omkr. det dobbelte. De papir-luftisolerede
+Ledere snos sammen to og to (med forsk.
+Skruegangshøjde for de forsk. Dobbeltledninger) og
+ordnes i koncentriske Lag, hvorefter samtlige
+<sp>Korer</sp> omvikles med Lærred og ompresses
+med en vandtæt Beklædning som oftest af Bly.
+<sp>Jordkabler</sp> af denne Art fremstilledes 1893
+i Amerika og benyttes nu (undertiden
+indeholdende fl. Hundrede Dobbeltledninger) i stor
+Udstrækning til Abonnent- og Centralledninger i
+Byer (Fig. 3). Ledningsdiameteren er her
+sædvanligvis ringe (0,6—0,7 mm), da Rækkevidden
+ikke behøver at være stor (Maksimum c. 35 km).
+Abonnentkabler trækkes i Reglen gennem
+Rørledninger sammensat af Betonblokke, der
+anbringes i nøjagtig Forlængelse af hinanden
+(Hultmann's System). Med passende
+Mellemrum (100—200 m) udmunder Blokledningen i
+<sp>Kabelbrønde</sp>, der tjener til at lette
+Kabeltrækningen og til Anbringelse af Forbindelses-
+og Forgreningsmuffer af forsk. Art. Da det er
+af stor Vigtighed for Kablets Isolation, at
+Fugtighed holdes borte fra Papiret, maa Mufferne
+paa Samlingsstederne være tilloddede ell.
+tilsmeltede med Isolationsmasse. Det samme
+gælder Endemufferne ved Kablets Indføringssteder,
+hvor der ofte benyttes <sp>Olieisolation</sp> (Fig.
+4). Abonnentkabler af lgn. Konstruktion (dog
+sjældent indeholdende over 100
+Dobbeltledninger) anbringes ogsaa som <sp>Luftkabler</sp>, der
+ophænges ved Hjælp af Bærebøjler med 3/4 à 1
+m Mellemrum i en Bæretrosse af
+sammensnoede Staaltraade udspændt mellem Stativer
+paa Hustage o. l. i 50—100 m indbyrdes
+Afstand. I St f. Blyrør anvendes ved Luftkabler
+ogsaa en Beklædning af Okonit (sammensat af
+Kautsjuk, Svovl og forsk. Metalilter). Under
+Kablet udspændes i Reglen en Staaltraad, der
+danner Beskyttelse mod Slid hidrørende fra
+Traadtrækning paa tværs under Kablet (Fig.
+5). Da Luftkabler er ret udsat for mekaniske
+Beskadigelser, anvendes de forholdsvis sjældent
+(f. Eks. til midlertidige Anlæg, der ønskes
+etableret hurtigt).
+
+Til indvendige Ledningsinstallationer hos
+Abonnenter og paa Telefoncentraler finder
+Kabler af lgn. Konstruktion udstrakt
+Anvendelse. Som Isolation benyttes ved saadanne
+<sp>Forgreningskabler</sp> ofte Gummi eller
+Okonit beskyttet med en Omfletning af
+Bomuld. <sp>Monteringskabler</sp> til
+Centralinstallationer udføres i Reglen med Bomulds- eller
+Silkeisolation og indrettes saavel med Blykappe
+som med Beskyttelsesdække af Blyfolie
+(Staniol) og Traadfletning. Forgreningskabler
+indeholder sædvanligvis 20 Dobbeltledninger;
+Monteringskabler 20 Treledere, hvor den tredie
+Traad benyttes til Testledning (se
+<sp>Telefoncentralstationer</sp>).
+
+Medens Kapacitetsformindskelsen ved
+Papir-Luftisolationen som Regel vil være
+tilstrækkelig til Abonnentledninger, kommer ved længere
+interurbane Jord- og Søkabler tillige den
+nævnte Selvinduktionsforøgelse til Anvendelse.
+De mange forsk. Bestræbelser paa Fremstilling
+af effektive Interurbankabler har resulteret i to
+henh. af Amerikaneren <sp>Pupin</sp> (1900) og
+Danskeren <sp>Krarup</sp> (1902) angivne Metoder. Efter
+førstnævntes Forslag indskydes i Ledningen
+med bestemte Mellemrum (1 à 2 km)
+Traadspoler med ringe Modstand og høj
+Selvinduktion. Spolernes Konstruktion og Anbringelse
+kræver indgaaende Beregninger og maa nøje
+afpasses efter de foreliggende Forhold, da et
+gunstigt Resultat ellers ikke opnaas. Efter
+Krarup's Metode frembringes en jævnt fordelt
+Forøgelse af Selvinduktionen, idet hver
+Kobberleder gennem hele Længden omvikles med et ell.
+flere Lag tynd (0,1—0,5 mm) Jerntraad i tætte
+Vindinger. Begge Metoder og særlig Pupin's
+forbedrer i betydelig Grad Taleoverføringen
+gennem Kablet. Jerntraadsbeviklingen ved
+Krarup-Systemet medfører en Kapacitetsforøgelse,
+der i nogen Grad modvirker den af
+Selvinduktionen frembragte Virkning. I den nyere Tid
+foretrækkes derfor Pupinkabler, hvis
+Rækkevidde (med Papirisolation) kan bringes op til
+mere end det 4-dobbelte af den tidligere mulige
+Telefoneringsafstand gennem de ældre
+guttaperkaisolerede Kabler. Til Søkabler har
+Krarup's Metode en Tid været foretrukket p. Gr. a.
+den mere besværlige Udlægning af det med
+Pupinspoler forsynede Kabel. Teknikken har
+dog i de senere Aar overvundet denne
+Vanskelighed, saaledes at ogsaa Pupinsøkabler, der
+kan fremstilles billigere, efterhaanden vinder
+Udbredelse. Ved Anvendelse af visse
+Legeringer med Silicium ell. Nikkel i St f. ren
+Jerntraad forøges Virkningen af Krarupbeviklingen.
+Dette Forhold har særlig faaet Bet. ved
+Fremstillingen af meget lange undersøiske
+Telegrafkabler (se <sp>Telegrafledninger</sp>). —
+Interurban-Telefonkabler indrettes efter
+Forholdene med Kobberledere fra 1 til 3 mm i
+Diameter. Ledningsantallet overskrider ved
+Søkabler i Reglen ikke c. 20 Dobbeltledninger og
+er ved længere Kabler betydeligt lavere (2—6
+Dobbeltledninger). Jordkabler, der udføres med
+større Antal Ledere (indtil 2 à 300
+Dobbeltledninger), lægges dels direkte i Jorden (i en
+Dybde af 3/4 à 1 m) og dels (i den nyere Tid)
+som <sp>Rørkabler</sp> gennem lgn. Blokledninger
+som Abonnentkabler. Hvor Blokledning ikke
+anvendes, beskyttes Blykappen med et Lag
+Hamp og en Bevikling af flade trapezformede

@@ -1,0 +1,137 @@
+at bestemme ved Maaling, er det <sp>elektriske
+Potential</sp> i forsk. Højde over Jordens
+Overflade og saa Luftens <sp>Ledningsevne</sp>.
+Til Potentialmaalingerne benytter man et
+justeret Elektroskop ell. et Elektrometer, der
+sættes i ledende Forbindelse med en
+»Elektrode« ell. »Kollektor«, anbragt paa det Sted,
+hvis Potential ønskes maalt. Ved en
+»Elektrode« forstaas her en Indretning, som antager
+samme Potential som det Sted i et isolerende
+Medium, hvor den befinder sig. Af saadanne
+Elektroder findes fl. forsk.: Lord Kelvin's
+Draabeelektrode bestaar af en Vandbeholder,
+forsynet med en Hane, hvoraf Vandet flyder
+draabevis ud; Beholderen og Elektroskopet,
+der er i Forbindelse dermed, vil da
+efterhaanden lades op, indtil de har antaget
+Draabestedets Potential. Af en anden Natur, men
+indbyrdes beslægtede, er Flammeelektroden
+(benyttet allerede af Volta) og den radioaktive
+Elektrode, som bestaar henh. af en lille
+Flamme af et Lys ell. en Lampe og af en
+Metalplade, belagt med et radioaktivt Stof; idet disse
+begge til Stadighed er omgivet af en lille, stærkt
+ioniseret Luftmasse, antager de hurtigt
+Stedets Potential. Til Maalingen kan anvendes
+ethvert Elektrometer ell. justerbart Elektroskop;
+disse er til de radioaktive Maalinger udviklede
+til en høj Grad af Fuldkommenhed; dog maa
+særlig omtales det <sp>Bendorf'ske</sp>
+registrerende Elektrometer, da det har faaet udstrakt
+Anvendelse ved de luftelektriske Maalinger; det
+er et Kvadrantelektrometer, forsynet med en
+Viser, som svinger over et bevægeligt
+Papirsbaand; hvert Minut trykkes Viseren ved en
+elektromagnetisk Indretning ned mod Papiret
+og afmærker ved Hjælp af et Farvebaand sin
+Stilling derover ved et Punkt; Papiret bevæges
+imidlertid saa langsomt, at de enkelte Mærker
+praktisk talt flyder sammen til en Kurve. I
+øvrigt kan jo Elektroskoperne let gøres
+registrerende ad fotografisk Vej.
+
+At faa et virkeligt Maal for Luftens
+Ledningsevne volder betydelig større Vanskelighed; de
+første Undersøgelser herover er <sp>Coulomb</sp>'s
+ovennævnte Udladningsforsøg (1785); disse
+blev gentaget af <sp>Elster</sp> og <sp>Geitel</sp>
+(1899). Ud fra de moderne Forestillinger
+om, at et elektrisk Legemes Udladning
+skyldes positive ell. negative elektr. »Ioner«'s
+Tilstedeværelse i Luften og disses Tiltrækning
+til det ladede Legeme, anvendte de et
+Elektroskop, forsynet med en 10 cm lang
+Metalcylinder som »Spredningslegeme«; for at unddrage
+de udladende Ioner Paavirkning af Jordens ell.
+andre elektr. Felter, omgives
+Spredningslegemet af en anden, noget større Metalcylinder.
+Luften, som skal undersøges, bringes ind i
+Rummet mellem de to Cylindre, og idet
+Elektroskopet med Spredningscylindren lades op,
+maales den Tid, hvori dets Spænding
+derefter falder med et vist Beløb. Man finder da,
+ligesom allerede Coulomb, at Udladningen ell.
+»Spredningen« foregaar efter en
+Eksponentiallov, d. v. s., at Spændingsfaldet i en konstant,
+kort Tid er proportionalt med den Spænding,
+Spredelegemet har i Maaleøjeblikket; og ved at
+maale Størrelsen af dette Fald i forsk.
+Luftprøver, faas et Maal for disses forsk.
+Ledningsevner, den saakaldte »Spredningskoefficient«;
+efter som Elektroskopet har været positiv ell.
+negativ ladet, faas en positiv ell. negativ
+Spredningskoefficient, hidrørende henh. fra de
+negative og positive Ioner. Det maa dog her
+erindres, at de saaledes fundne Talværdier er
+afhængige af Apparatets Dimensioner, saa de kun
+kan sammenlignes, naar de hidrører fra ens
+Apparater. — Idet Luftens virkelige
+Ledningsevne maa antages at være bestemt ved Antallet
+af Ioner pr cm<sup>3</sup> — positive og negative —, disses
+Ladning og deres Bevægelighed (d. e. den
+Hastighed, de faar under Paavirkning af en vis
+elektr. Kraft). ell. rettere ved Produktet af
+disse tre Størrelser, er det jo imidlertid mere
+rationelt at søge maalt disse Størrelser ell.
+dette Produkt. Ionernes Ladning gaar man ud
+fra er det elektr. Elementarkvantum, 4,8 X
+10<sup>—10</sup> ell. st. E., selv om der utvivlsomt
+kan forekomme Multipla deraf. Antallet af
+Ioner pr cm<sup>3</sup> maa tænkes i Virkeligheden at
+være Resultatet af en stadig forløbende
+Dannelse af ny Ioner (Ionisering) og Forsvinden
+af gamle, idet disse forener sig to og to til
+uelektriske Partikler (Molisering). Heraf kan
+man saa danne sig flg. Forestillinger om den
+Strøm, der kan opstaa i Luften som Følge af
+et elektrisk Felt (se Fig.); Saa længe dette
+er saa svagt, at de Ioner, Strømmen fjerner,
+erstattes lige saa hurtigt ved Nydannelse, bliver
+Strømmen proportional med Spændingen,
+ligesom efter Ohm's Lov (Afsn. I paa Fig.).
+Bliver Spændingen derimod saa stor, at
+Nydannelsen af Ioner ikke kan »holde Trit« med
+Afgangen p. Gr. a. Strømmen, stiger denne
+langsommere, end den skulde efter Ohm's Lov
+(Afsnit II), og til sidst kan man naa en saa stor
+Spænding, at en yderligere Forøgelse ikke er
+i Stand til at forøge Ionernes
+Elektricitetstransport, saa Strømmen bliver konstant trods
+stigende Spænding (»Mætningsstrøm«, Afsnit
+III). Det vil heraf ses, at naar man holder sig
+til saa svage Felter, at man faar »ohm'sk
+Strøm«, kan man ligefrem bestemme
+Ledningsevnen efter Ohm's Lov. Der kan hertil
+anvendes fl. forsk. Apparatopstillinger; særlig
+bekvemt er vel <sp>Gerdien</sp>'s transportable
+Apparat, der bestaar af et Elektroskop med en
+20—30 cm lang, vandret Metalstang som
+Spredningslegeme; omkr. denne er anbragt —
+naturligvis godt isoleret fra Elektroskopet — en
+længere, vid Metalkappe, som altsaa sammen med
+Stangen udgør en Cylinderkondensator; i den
+ene Ende af Kappen findes en Ventilator, som
+kan suge Luften langsomt ind i
+Kondensatoren. Naar Elektroskopet lades til en passende
+Spænding, vil dets Udladning foregaa efter
+Ohm's Lov, og af Spændingen, Udladetiden og
+Apparatets Dimensioner kan da Luftens
+Ledningsevne beregnes; efter som Ladningen har
+været positiv ell. negativ, faar man
+Ledningsevnen for de negative ell. positive Ioner. Dette
+Apparat har <sp>Ebert</sp> modificeret noget, saa
+man dermed direkte kan bestemme Antallet af
+Ioner pr cm<sup>3</sup> (egl. den elektr. Ladning pr cm<sup>3</sup>,
+hvoraf igen Iontallet beregnes ved Division
+med 4,8 X 10<sup>—10</sup>); og endelig kan man ved at

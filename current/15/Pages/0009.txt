@@ -1,0 +1,119 @@
+<h1>K</h1>
+
+<chapter name="Kvadratrod">
+<b>Kvadratrod</b> (mat.). Et Tal <i>N</i>'s K. er et Tal,
+som opløftet til 2. Potens giver <i>N</i>; den
+betegnes ved √<i>N</i>. Er <i>N</i> positiv, faar K. to og kun
+to reelle Værdier, der er lige store med modsat
+Tegn; √9 f. Eks. er = ± 3. Værdierne er
+irrationale, hvis <i>N</i> ikke er opstaaet ved
+Kvadrering af et helt Tal ell. en Brøk. Er √<i>N</i> negativ,
+har K. ingen rational ell. irrational Værdi og
+kaldes imaginær. Beregningen af √<i>N</i> for <i>N</i>
+positiv kan udføres ved Logaritmer, ved
+Udvikling i Kædebrøk ell. i Rækker efter
+Binomialformelen, idet man sætter √<i>N</i> = (<i>a</i><sup>2</sup> + <i>x</i>)<sup>1/2</sup>
+hvor <i>a</i><sup>2</sup> er Kvadrattallet nærmest lavere end
+<i>N</i>, endelig ved successiv Bestemmelse af
+Cifrene gennem Forsøg paa flg. Maade. <i>N</i>
+forudsættes foreløbig hel, og det hele Tal i K.
+betegnes ved 10 <i>a</i> + <i>b</i>, hvor <i>b</i> er Enernes Ciffer
+og <i>a</i> Tallet skrevet med de foranstaaende
+Cifre. (10<i>a</i> + <i>b</i>)<sup>2</sup> er altsaa Kvadrattallet nærmest
+lavere end <i>N</i>; kan dette ikke findes i en
+Kvadrattalstavle, søger man at faa Ligningen <i>N</i>
+= (10<i>a</i> + <i>b</i>)<sup>2</sup> + <i>R</i> = 100<i>a</i><sup>2</sup> + 20<i>ab</i> + <sp>b</sp><sup>2</sup> +
+<i>R</i> tilfredsstillet saaledes, at <i>a</i> er et helt
+positivt Tal, <i>b</i> et Ciffer, <i>R</i> positiv, idet tillige <i>R</i>
+skal blive negativ, hvis <i>b</i> forhøjes med 1 · <i>a</i><sup>2</sup>
+maa være Kvadrattallet nærmest lavere end
+det Tal <i>N</i><sub>1</sub>, der faas ved af <i>N</i> at bortkaste de
+to sidste Cifre, og findes enten ved en
+Kvadrattalstavle ell. ved at behandle <i>N</i><sub>1</sub> paa
+samme Maade som <i>N</i>. <i>b</i> maa være mindre end
+<i>N</i> — 100<i>a</i><sup>2</sup> / 20<i>a</i>; man prøver med det nærmest
+lavere Ciffer, gør det <i>R</i> negativ, prøves med
+det derunder liggende o. s. v. Regningen kan
+for <i>N</i> = 78 46 89 opstilles i flg. Skema, hvor
+den første Del gaar ud paa at finde K. 88 af
+<i>N</i><sup>1</sup> = 78 46, og hvor Nullerne paa Tallenes
+sidste Pladser er udeladte:
+√78|46|89 = 885
+64 = 100<i>a</i><sup>2</sup>
+14 46 = <i>N</i> — 100<i>a</i><sup>2</sup>
+(16 = 20<i>a</i>)
+12 8 = 20<i>ab</i>
+64 = <i>b</i><sup>2</sup>
+13 44
+1 02 89 = N — 100<i>a</i><sup>2</sup>
+(176 = 20<i>a</i>)
+88 = 20<i>ab</i>
+25 = <i>b</i><sup>2</sup>
+88 25
+14 65 = <i>R</i>.
+
+Vil man bestemme √<i>N</i> med <i>p</i> Decimaler,
+uddrages K. af <i>N</i> efterfulgt af 2<i>p</i> Nuller, og der
+afskæres <i>p</i> Decimaler i Resultatet. K. af en
+Decimalbrøk findes ved, at man tilføjer Nuller,
+indtil Decimalantallet bliver et Multiplum 2<i>p</i>
+af 2, uddrager K. paa ovenangivne Maade uden
+Hensyn til Kommaet og afskærer <i>p</i> Dec. i det
+fundne Tal. Se i øvrigt <sp>Rod</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Kvadratskat">
+<b>Kvadratskat,</b> se <sp>Bygningsafgift</sp>.
+</chapter>
+
+<chapter name="Kvadratskrift">
+<b>Kvadratskrift,</b> se <sp>hebræisk Skrift</sp>.
+</chapter>
+
+<chapter name="Kvadrattal">
+<b>Kvadrattal</b> (mat.) er Talrækkens hele Tal
+opløftede til 2. Potens (se <sp>Kvadrat</sp>).
+</chapter>
+
+<chapter name="Kvadratur (astron.)">
+<b>Kvadratur</b> (astron.), se <sp>Aspekter</sp>.
+</chapter>
+
+<chapter name="Kvadratur (mat.)">
+<b>Kvadratur</b> (mat.) vil sige Bestemmelse af
+plane og krumme Fladers Fladeindhold.
+<sp>Plane Fladers K.</sp> udfører man alm. ved
+at dele dem i Dele med tidligere fundne
+Fladeindhold, ell. betragte dem som Grænsetilfælde
+af Figurer, der kan deles paa denne Maade.
+Geometrien begynder med K. af Rektanglet,
+der enten kan sammensættes af Fladeenheder
+og Brøkdele deraf ell. behandles som Grænsen
+for et saaledes sammensat Rektangel; en
+retvinklet Trekant er halv saa stor som
+Rektanglet med Kateterne til Sider, og enhver anden
+Trekant kan, ved at man trækker en Højde,
+fremstilles som en Sum ell. Differens af to
+retvinklede. En Polygon deles i Trekanter ved
+Diagonaler ell., hvis den er regulær, ved
+Radier til Vinkelspidserne. Cirkelen betragtes som
+Grænse for en ind- ell. omskreven regulær
+Polygon, hvis Sideantal vokser i det uendelige.
+Et Areal begrænset af en Bue paa en Kurve,
+der i et retvinklet Koordinatsystem fremstilles
+ved Ligningen <i>y</i> = φ(<i>x</i>), Ordinaterne i Buens
+Endepunkter og det mellem disse Ordinater
+liggende Stykke af Abscisseaksen er udtrykt
+ved ∫ <i>b</i> <i>ydx</i> <i>a</i> = ∫ <i>b</i> φ (<i>x</i>) <i>dx</i>, (se <sp>Integralregning</sp>), hvor <i>a</i> og <i>b</i> er Endepunkternes
+Abscisser, idet dog forudsættes, at Buen ikke skærer
+Abscisseaksen ell. nogen af Ordinaterne til
+dens Punkter; Arealet er her fundet som en
+Sum af Rektangler, hvori to sammenstødende
+Sider er det uendelig lille Stykke <i>dx</i> paa
+Abscisseaksen og Ordinaten <i>y</i> til Buen i
+Stykkets ene Endepunkt. Alle plane Fladers Arealer
+kan dannes ved Addition ell. Subtraktion af
+Arealer som det her bestemte. En Bue paa en
+Kurve, der i Polarkoordinater har Ligningen
+<i>r</i> = φ (θ), og Radii vectores til Buens

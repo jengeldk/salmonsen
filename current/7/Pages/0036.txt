@@ -1,0 +1,122 @@
+Strømstyrken indstilles ved, at man afpasser den
+Modstand, som er i Serie med Lamperne, og den
+kan forandres inden for rimelige Grænser, uden
+at man behøver at ændre noget ved selve
+Lamperne. Ved Overgang til en større Strømstyrke
+vil man dog indsætte andre Kulholdere.
+
+Hvis man i en Shuntlampe erstatter
+Fjederens Træk med Trækket af en Elektromagnet,
+hvis Bevikling gennemløbes af Hovedstrømmen,
+fremkommer en <sp>Differentiallampe</sp>. En
+saadan er vist paa Fig. 4. Ved en
+Differentiallampe er Ligevægten betinget
+af, at Trækket paa Ankeret fra
+Hovedstrømsmagneten og fra Shuntmagneten
+holder hinanden i Ligevægt. Ændrer man
+Strømmen (for Eks. ved Ændring af
+Forlagsmodstanden), vil Kullene indstille sig
+saaledes, at Spændingen ændrer sig tilsvarende.
+Lampen regulerer paa konstant Forhold mellem
+Spænding og Strøm. Da nu Lampespændingen
+maa have en bestemt Værdi (godt 40 Volt), for
+at Lampen skal brænde normalt, ser man, at
+det er nødvendigt at lade en Differentiallampe
+brænde ved den for vedk. Lampe normale
+Strømstyrke. Ønsker man i en Installation med
+Differentiallamper at sætte Strømstyrken op,
+maa man give Lamperne ny Strømspoler med
+tilsvarende færre Vindinger. Differentiallamper
+egner sig godt til at brænde mange i Serie.
+
+<sp>Hovedstrømslamper</sp> er saadanne,
+hvor Reguleringen udføres af en Elektromagnet,
+hvis Bevikling gennemløbes af Lampestrømmen.
+Denne Reguleringsmaade anvendes
+hovedsagelig i <sp>Lamper med indelukket Bue</sp>;
+en saadan Lampe, Janduslampen, er vist i Fig.
+5. Overkullet hænger i et Rør, som bæres af en
+konisk Jernkerne, <i>a</i>, der hæves af en Solenoide,
+som gennemløbes af Lampestrømmen. Ved
+normal Strøm kan Solenoiden lige netop bære
+Jernkernen med Kullet. Naar Kullet forkortes ved
+Afbrænding, synker Jernkernen tilsvarende
+nedad. Denne Bevægelse fortsættes dog kun over
+en Strækning af c. 1 cm, hvorefter det Rør,
+hvori Overkullet er fæstet, udløses fra sin
+Forbindelse med Jernkernen og falder nedad, indtil
+Kullene rører hinanden. Jernkernen hæver sig da
+atter og tager Røret (og Overkullet) med sig.
+Røret hænger i Jernkernen ved Hjælp af en
+Krans af smaa Ringe, <i>c</i>, som klemmer sig fast
+mellem Rørets ru Overflade og den skraa Kant,
+<i>d</i>, af en med Jernkernen fast forbundet Ring.
+I Jernkernens nederste Stiling møder Ringene
+<i>c</i> et Anslag, som tvinger dem ud fra Røret,
+som derved frit kan falde.
+
+Det væsentlige ved denne Lampe, bortset fra
+Regulermekanismen, er, at Buen er omsluttet
+af en indre Glasklokke, som næsten afspærrer
+Buen fra den ydre Luft. Naar den i den indre
+Klokke værende Ilt er forbrugt, brænder Buen
+derefter praktisk talt i Kvælstof.
+Buelysfænomenet bliver derved væsentligt anderledes. Der
+bliver intet bestemt Krater, Kullene vedbliver
+at beholde deres Form, selve Buen kan gøres
+meget lang og giver da en væsentlig Del af
+Lyset, som derved bliver stærkt violet og rigt
+paa fotografisk virkende Straaler. Man har
+Lamper med indelukket Bue, som brænder
+enkeltvis paa indtil 220 Volt. Kullene brænder
+mange Gange langsommere bort end ved alm.
+Buelamper.
+
+I alm. <sp>Vekselstrømsbuelamper</sp> er
+Over- og Underkul ens, og begge brænder omtr.
+ens til, idet de for hver Strømveksling bytter
+Rolle. Fordelingen af det fra Kullene og Buen
+udgaaende Lys er ens opad og nedad, men som
+Regel anbringes der tæt oven for Buen en
+Reflektor, som kaster største Delen af det
+opadgaaende Lys diffust nedad. Lysstyrken synker
+langt ned, for hver Gang
+Strømmen under
+Vekslingen passerer Nul. Dette
+giver sig tydelig til
+Kende, naar man betragter
+en af en
+Vekselstrømslampe belyst Genstand,
+som bevæges nogenlunde
+hurtigt. Man ser da en
+hel Række Omrids af
+Genstanden tæt ved Siden
+af hinanden.
+Vekselstrømmen har som Regel 50
+Perioder i et Sekund;
+Lyset vil da være svagt
+100 Gange pr Sekund, og Over- og Underkul
+skiftevis lyse stærkt, hver af dem 50 Gange pr
+Sekund. Under alm. Forhold lægger Øjet ikke
+Mærke til denne Flimren. - Alm.
+Vekselstrømsbuelampers Økonomi er væsentlig daarligere
+end Jævnstrømslampens.
+
+Regulermekanismen ved
+Vekselstrømsbuelamper kan være indrettet som ved
+Jævnstrømslamper med den Forskel, at Jernkernerne
+i Magneterne er lamellerede ell. dannede som et
+opskaaret Rør; men som oftest anvendes en
+særlig Regulerindretning, som er vist i Fig. 6.
+Hovedstrømmen gaar gennem den med tyk
+Traad viklede Magnet. En Shuntstrøm gaar
+gennem den med tynd Traad viklede Magnet.
+Hver af Magneterne fremkalder ved Induktion
+Hvirvelstrømme i en Aluminiumsskive, som
+derved paavirkes til Drejning til modsatte Sider af
+de to Magneter. Skivens Bevægelser overføres
+
+<img>Fig. 8. Flammebuelampe.</img>
+
+<img>Fig. 9. Kvægsølvlampe.</img>
+

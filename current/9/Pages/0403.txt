@@ -1,0 +1,145 @@
+Kraftlinier, men denne Drejning modvirkes af
+Ophængningsbaandets Elasticitet.
+Fintmærkende Spejlgalvanometre tillader Aflæsning af
+Udslag for Strømstyrker paa en
+Hundredmilliontedel Ampère ell. endnu, mindre. —
+Instrumenter med en Traad i mange Vindinger tæt ved
+Magneten udmærker sig ved deres Følsomhed;
+men det er i Reglen uoverkommeligt at
+beregne, hvilke absolutte Værdier for
+Strømstyrken der svarer til de forsk. Udslag. For at faa
+dette bestemt maa man »kalibrere« sit G. ved
+at lede Strømme, hvis Styrke er maalt paa
+anden Maade, gennem det og derved faa
+bestemt, hvilke Strømstyrker der svarer til en
+Række Udslag. Et G., der tillader en virkelig
+Maaling, har man i
+<sp>Tangensgalvanometret</sp> eller <sp>Tangensbussolen</sp> (Fig.
+2.). Den lodrette Ledningskreds har een ell.
+nogle faa Vindinger og
+danner en cirkelformet
+Ring. Magnetnaalen,
+hvis
+Ophængningspunkt falder i
+Centrum, er flere Gange
+kortere end Ringens
+Radius, der helst maa
+gøres temmelig stor;
+herved opnaas, at
+Naalen ikke kommer
+uden for det ret
+regelmæssige Magnetfelt,
+der findes omkr.
+Centrum. Ringens Plan
+indstilles i den
+magnetiske Meridianplan,
+hvori Naalen af sig
+selv stiller sig, og naar
+man nu sender en
+Strøm gennem
+Instrumentet, vil denne søge at stille Naalen vinkelret
+paa Ringens Plan. <sp>Tangens</sp> af den Vinkel,
+Naalen drejes bort fra sin Hvilestilling, er
+proportional med Strømstyrken, og naar
+man kender denne Vinkel, Ringens Radius
+og Jordmagnetismens Styrke i vandret Retning,
+kan man finde Strømstyrken udtrykt i Ampère
+ved en simpel Formel. Udslagsvinkelen maales
+gerne ved en let Viser, der er fæstet til
+Naalen og bevæger sig hen over en inddelt Kreds;
+den kan ogsaa maales ved Kikkert og Spejl.
+Efter at man i nyere Tid har faaet galvaniske
+Normalelementer med nøje kendt
+elektromotorisk Kraft, og man tillige har let Adgang til
+nøjagtig Bestemmelse af elektrisk
+Ledningsmodstand, kan man ved Hjælp heraf sende
+Sirømme af nøje kendt Styrke gennem sit G.
+og derved faa Betydningen af dets Udslag
+bestemt, hvorved Tangensgalvanometret som
+Normalinstrument bliver overflødigt. — Til
+praktisk Brug behøver man Instrumenter, der
+tillader umiddelbar Aflæsning af Strømstyrken
+uden Beregninger og uden vanskelige
+Indstillinger, og som ofte skal tillade Maaling af
+stærke Strømme, hvortil de før nævnte
+Instrumenter ikke saa godt egner sig. Om
+Indretningen af saadanne G. til teknisk Brug
+(Ampèremetre) se <sp>elektriske
+Maleinstrumenter</sp>.
+
+Blandt de mange Varianter af G. kan nævnes
+<sp>Differentialgalvanometret</sp>, der
+blev angivet af den ældre Becquerel, og som i
+sin Tid havde betydelig Anvendelse. I Stedet
+for den enkelte Ledningstraad findes her to
+Traade, der ligger ved Siden af hinanden, er
+ganske ens og ens stillede med Hensyn til den
+bevægelige Magnetnaal. Den ene Traads Ender
+gaar til Klemskruerne A og A<sub>1</sub>, den anden
+Traad til B og B<sub>1</sub>. Den ene Ende af
+Dobbelttraaden fører til A og B, den anden til A<sub>1</sub> og B<sub>1</sub>.
+Forbinder man et galvanisk Elements ene Pol
+med A og B<sub>1</sub>, dets anden Pol med A<sub>1</sub> og B, vil
+de to Ledninger gennemløbes af lige stærke
+Strømme i modsatte Retninger, og Naalen gør
+intet Udslag. Indskydes lige store Modstande i
+de to Strømkredse, forstyrres Ligevægten
+ikke, men er Modstandene ulige store, bliver
+Strømmene ulige stærke, og Naalen slaar ud.
+Apparatet kan altsaa bruges til Maaling af
+elektrisk Ledningsmodstand. Det kan gøres
+meget følsomt, men det er vanskeligt at faa de to
+Ledningstraade tilstrækkelig ens.
+<i>K. S. K.</i>
+
+<img>Fig. 2.
+Tangensgalvanometer.</img>
+</chapter>
+
+<chapter name="Galvanoplastik">
+<b>Galvanoplastik</b> er en vigtig Del af
+Galvanoteknikken og gaar ud paa ved den elektriske
+Strøms Hjælp paa Overfladen af Genstande,
+der er nedsænket i en Opløsning af et
+Metalsalt, at danne et Overtræk af vedkommende
+Metal, der er saa sammenhængende, at det,
+naar det er blevet tilstrækkeligt tykt, kan
+fjernes samlet fra Genstanden og da giver en tro
+Afbildning af dennes ydre Form. Det er
+øjensynligt, at man paa denne Maade maa faa et
+omvendt Aftryk, et »Negativ«; ønsker man en
+virkelig naturtro, »positiv« Afbildning maa man
+enten gentage Processen endnu en Gang, idet
+man foretager en fornyet Udfældning paa
+Negativet, ell. man maa først ved Afstøbning ell.
+paa anden Maade danne et Negativ — en
+saakaldt Matrice —, som tro, om end omvendt,
+gengiver Genstandens ydre Form, og derpaa
+tage en galvanoplastisk Kopi af denne. Metoden
+har under vekslende Former fundet stor
+Udbredelse i vidt forsk. Grene af Teknikken,
+takket være den overordentlig store Skarphed,
+hvormed de saaledes fremstillede Kopier
+gengiver enhver Detaille i Originalens ydre Form.
+Alt efter Formaalet veksler de Former,
+hvorunder Udførelsen foregaar, særdeles meget; her
+kan derfor kun gives nogle enkelte typiske
+Træk.
+
+Det Metal, der oftest anvendes i G., er
+Kobber; den store Lethed, hvormed det udfældes
+galvanisk i regelmæssig, sammenhængende
+Form med en glat metallisk Overflade gør det
+særligt egnet hertil. Der anvendes næsten altid
+et surt kobbersulfatholdigt Bad — f. Eks. 200 g
+krystalliseret Kobbersulfat og 30 g koncentreret
+Svovlsyre til 1 l Vand. Ved galvanoplast.
+Udfældninger, der skal gaa særligt hurtigt og hvor der
+derfor maa anvendes stor Strømstyrke,
+anvendes f. Eks. 250 g krystalliseret Kobbersulfat og
+7,5 g Svovlsyre til 1 l Vand. Som Anoder
+anvendes Plader af rent Kobber, bedst
+Elektrolytkobber, som under Elektrolysens Løb vil opløse sig
+i Badet, saa at dettes Kobberindhold stadig
+holdes oppe paa samme Størrelse. Som Beholdere
+anvendes i Reglen Stentøjsfade, ogsaa

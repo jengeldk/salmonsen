@@ -1,0 +1,140 @@
+Ledninger føres tilbage til Kedlen. Man skelner
+mellem Højtryks-, Lavtryks- og
+Vacuum-Damp-O. og mener med Højtryks-Damp-O. saadanne,
+hvor Kedelanlægget (se <sp>Dampkedler</sp>) er
+underkastet offentligt Tilsyn og almindeligvis
+anbringes i særligt Kedelhus. I Lavtryks-O. maa
+Kedeltrykket ifølge Lovbestemmelse ikke
+overstige 1 kg pr cm<sup>2</sup>, og i Vacuum-Damp-O. holdes
+Trykket ved en for Enden af Anlægget anbragt
+Luftpumpe under Atmosfærens Tryk.
+
+Udelukkende til Opvarmningsøjemed vilde
+man vel nu kun indrette Højtryksanlæg, naar
+det drejede sig om Overføring af særlig store
+Varmemængder, paa meget lange Afstande, som
+det har været praktiseret i Nordamerika, hvor
+hele Bykvarterer forsynes med Damp til
+Opvarmning m. m. fra et Centralkedelanlæg, og
+selv i saadanne Tilfælde har dog Damp-O. en
+stærk Konkurrent i de tidligere beskrevne
+Varmtvands-O. med Pumpedrift. Men i mange
+Tilfælde har man, saaledes til Kogning af Mad,
+Vask ell. i tekn. Øjemed, Brug for
+Højtryksdamp, og det falder da naturligt ogsaa at
+anvende den til Opvarmning enten direkte eller
+til Opvarmning af Luft ell. Vand, henholdsvis
+i et saakaldt Damp-Luft-O. ell.
+Damp-Varmtvands-O. Højtryksdampen som saadan ledes
+undertiden direkte til Ovne ell. Kaloriferer i
+Fabriksbygninger, men ellers vil man altid før
+Anvendelsen i Opvarmningsøjemed ved Hjælp af
+Reduktionsventiler nedsætte Dampens Tryk paa
+Forbrugstederne, hvortil dem føres i
+Højtryksdampledninger (se <sp>Dampledninger</sp>).
+Den reducerede Damp og det i Ovnen dannede
+Kondensationsvand føres til og fra disse ved
+Hjælp af Ledningsnet — ganske svarende til de
+under Varmtvands-O. omtalte. Dog maa
+Returledningerne forsynes med
+Afspærringsindretninger, de saakaldte Damplaase ell.
+Vandudladere, der hindrer ufortættet Damp fra at
+trænge ind i Returledningerne, ligesom der
+maa træffes Foranstaltninger til at bortskaffe
+den Luft, der altid, naar Anlægget er ude af
+Funktion, trænger ind i det. Undertiden samles
+Returvandet i lokale Returvandsbeholdere, i
+før det gennem Hovedreturvandsledninger
+føres til Kedelhuset, der helst maa ligge paa
+Forbrugsomraadets laveste Punkt, da man
+i modsat Tilfælde ofte nødes til at pumpe det
+tilbage. Returledninger er særlig udsatte for
+Tæring af Rust, hvorfor Hovedledningerne
+oftest udføres af Støbejern og Ledningerne i
+Lokalanlæggene undertiden af Kobber. De egl.
+Lavtryks-Damp-O. kendetegnes ved, at
+Damptrykket er saa lille, at Kondensvandet fra Ovnen
+kan føres direkte tilbage til Kedlen, uden at
+det er nødvendigt at anvende særlige
+Apparater til at skaffe Vandet ind i Kedlen. Kedlen
+maa da stilles saa dybt, at dens Vandspejl
+under Drift ligger under de laveste Ovne. Denne
+Dybde er afhængig af delt Tryk, hvormed
+Anlægget skal drives, og hvortil det er beregnet,
+men bør dog helst aldrig være under c. 1 m.
+Er det ikke muligt (f. Eks. p. Gr. a.
+Afvandingsforholdene) at anbringe Kedlen tilstrækkelig
+dybt, og der dog af bestemte Grunde skal
+indrettes et Lavtryks-Damp-O., kommer
+Anlægget til at ligne et Højtryksanlæg, idet der da
+maa træffes særlige Foranstaltninger for at
+bringe Kondensvandet tilbage til Kedlen.
+Lavtryksdampkedler udføres saavel af Støbejern som
+Smedejern med Magasin- ell. Skaktfyring og
+med Trækregulator ganske som ved
+Varmtvandskedler, men de maa desuden være forsynede
+med de lovbefalede Sikkerhedsforanstaltninger,
+saasom aabent Standrør og Sikkerhedsventil,
+eller begge Dele, alt efter Kedlens Størrelse og
+det til dens Fremstilling benyttede Materiale.
+Rørledningsarrangementet er i sine Hovedtræk
+ganske som ved Varmtvands-O., ligesom ogsaa
+Ovnene er de samme, som anvendes i
+Varmtvands-O. Dampen føres i Alm. ind i Ovnen foroven,
+saaledes at den tungere Luft, der ved hver
+Driftsafbrydelse straks trænger ind i Anlægget, kan
+undvige gennem Returledningerne og en med
+dem lidt over højeste Kedelvandstand
+forbunden særlig Luftledning, der staar i Forbindelse
+med Atmosfæren. Man har dog ogsaa
+undertiden ført Luften til en Slags Luftklokke, saa at
+Anlægget, naar Driften igen blev afbrudt,
+kunde fyldes med den samme Luft, hvorved man
+mente at kunne modvirke den Tæring af Rust,
+der finder Sted indvendig i Rørene.
+Virkningen af denne Anordning har dog ikke været
+kendelig, og den anvendes nu sjælden. Medens
+Reguleringen af Ovntemperaturen ved et
+Varmtvands-O. foregaar centralt, hvad der er en af
+Systemets store Fordele, er man ved Damp-O.
+trods mange Forsøg paa at finde en praktisk
+anvendelig Centralireguleringsmaade stadig
+henvist til at regulere med Ovnventilerne. Herved
+opnaas ganske vist, at kun den øverste Del af
+Ovnen bliver varm, men den varme Del har
+stadig den fulde Dampvarme, d. v. s. en
+Temperatur omkr. 100°, hvad der hygiejnisk set er
+for meget. Staar Damp-O. i de nævnte
+Henseender tilbage for Vand-O., har de dog ogsaa
+Fortrin fremfor disse. Bl. andet foregaar
+Opvarmningen af Rummene langt hurtigere, hvad
+der ofte er af stor Betydning, og der gaar kun
+en ringe Mængde Varme til Spilde, naar Ovnene
+i Lokaler, der kun benyttes med større eller
+mindre Mellemrum, afspærres.
+Lavtryks-Damp-O. egner sig derfor særlig for Forsamlingshuse,
+Skoler, Hoteller o. l., og anvendes da ogsaa,
+trods den stærke Konkurrence fra Vand-O.,
+stadig i ret udstrakt Grad.
+
+Spildedamps-O. er en særlig Slags
+Lavtryks-Damp-O., i hvilke Spildedampen fra Maskinen
+anvendes efter at være befriet for Olie. Da
+Spildedampen alene sjælden slaar til, maa der
+i Alm. ved særlige Ventilarrangementer skabes
+Mulighed for samtidig at kunne sendes frisk
+Kedeldamp i Anlægget.
+
+Vacuum-Damp-O. anvendes navnlig i
+Nordamerika og har bl. a. den Fordel, at
+Ovntemperaturerne ligger under 100° og kan varieres
+svarende til det i Systemet ved Pumpningen
+skabte Vacuum — i Praksis dog kun inden for
+ret snævre Grænser. Her i Landet er
+Vacuum-Damp-O. anvendt paa Rosenborg Slot, som det
+for Samlingerne i flere Henseender mest
+farefri O.
+
+Det er under Omtalen af de enkelte
+Central-O. antydet, under hvilke Forhold de forsk. O.
+i Alm. finder deres naturlige Anvendelse, men

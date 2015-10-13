@@ -1,0 +1,109 @@
+<table>
+<td><td r>Side
+<td>Hibiscus<td r>432
+<td>Hieroglyffer<td r>441—45
+<td>Hillerød (Tekstkort)<td r>461
+<td>— Bymærke<td r>462
+<td>Hilsen<td r>464
+<td>Himation<td r>468
+<td>Himmel<td r>470
+<td>Hindenburg, v., P. (Portræt)<td r>478
+<td>Hippokamp<td r>490
+<td>Hippurit<td r>493
+<td>Hjelmstierne, H. (Portræt)<td r>523
+<td>Hjerne (Fig. 1—4)<td r>532—33
+<td>Hjerte (Fig. 1—3)<td r>541
+<td>Hjertemuslinger<td r>546
+<td>Hjertestykke<td r>547
+<td>Hjort, P. (Portræt)<td r>552
+<td>Hjorte (Fig. 1—4)<td r>554—57
+<td>Hjuldyr<td r>563
+<td>Hjulspindere (Fig. 1—3)<td r>565
+<td>Hjulsæt (Fig. 1—3)<td r>567
+<td>Hjælm (Fig. 1—4)<td r>569
+<td>Hjælpevinkel<td r>572
+<td>Hjørne<td r>574
+<td>Hjørring Bymærke<td r>574
+<td>— (Tekstkort)<td r>575
+<td>Hoatzin<td r>578
+<td>Hobbes, T. (Portræt)<td r>579
+<td>Hobro Bymærke<td r>582
+<td> (Tekstkort)<td r>583
+<td>Hoche, L. L. (Portræt)<td r>584
+<td>Hofer, A. (Portræt)<td r>592
+<td>Hofer, B. (Portræt)<td r>593
+<td>Hoffmann, E. T. A. (Portræt)<td r>596
+<td>Hogarth, W. (Portræt)<td r>608
+<td>Hokkofugle<td r>615
+<td>Holbein, H. (Portræt)<td r>618
+<td>Holberg, L. (Portræt)<td r>621
+<td>Holbæk Bymærke<td r>627
+<td>— (Tekstkort)<td r>628
+<td>Holckenhavn<td r>634
+<td>Holger Danske (Fig. 1—2)<td r>636—37
+<td>Holm, P. E. (Portræt)<td r>648
+<td>Holmblad's Mørtelprøve<td r>651
+<td>Holmens Kirke<td r>655
+<td>Holmestrand (Tekstkort)<td r>657
+<td>Holst, H. P. (Portræt)<td r>662
+<td>Holstebro Bymærke<td r>665
+<td>— (Tekstkort)<td r>666
+<td>Holstein, J. L. (Portræt)<td r>670
+<td>Holstein, J. L. C. C. T. (Portræt)<td r>670
+<td>Holstein, L. H. C. H. (Portræt)<td r>672
+<td>Holsteinborg<td r>674
+<td>Holtzendorff, v., J. W. F. P. (Portræt)<td r>684
+<td>Homer<td r>689
+<td>Honningfugle<td r>709
+<td>Honningsvamp<td r>710
+<td>Hoplitter<td r>720
+<td>Horn (Fig. 1—4)<td r>729
+<td>Horn (mus.)<td r>731
+<td>Horn, A. B. (Portræt)<td r>733
+<td>Horneman, J. O. E. (Portræt)<td r>739
+<td>Hornkoraller (Fig. 1—2)<td r>743
+<td>Hornnød<td r>743
+<td>Horos (Fig. 1—2)<td r>748
+<td>Horoskop<td r>749
+<td>Horsens Bymærke<td r>750
+<td>Horten Bymærke<td r>754
+<td>— (Tekstkort)<td r>755
+<td>Horæ<td r>757
+<td>Hospital (Fig. 1—3)<td r>762—63
+<td>Hostrup, J. C. (Portræt)<td r>766
+<td>Hov (isl.)<td r>776
+<td>Hov (Fig. 1—5)<td r>777—78
+<td>Hovbeslag (Fig. 1—15)<td r>781—84
+<td>Hoved (Fig. 1—7)<td r>788
+<td>Hovedbedækning (Fig. 1—7)<td r>790
+<td>Hovedvandsæg<td r>796
+<td>Howard, J. (Portræt)<td r>801
+<td>Howitz, F. J. A. C. (Portræt)<td r>804
+<td>Hoya<td r>805
+<td>Hugo, V. M. (Portræt)<td r>832
+<td>Hugorm (Fig. 1—3)<td r>837—38
+<td>Huitfeldt, A. (Portræt)<td r>841
+<td>Huitfeldt, I. (Portræt)<td r>842
+<td>Hukkert<td r>844
+<td>Hulefisk<td r>847
+<td>Hulepadde<td r>848
+<td>Hultmann, F. V. (Portræt)<td r>851
+<td>Humboldt, v., F. W. H. A. (Portræt)<td r>853
+<td>Hume, D. (Portræt)<td r>857
+<td>Humle (Fig. 1—2)<td r>862—63
+<td>Hunde (Fig. 1—12)<td r>868—74
+<td>Hundegræs<td r>878
+<td>Hundestejler (Fig. 1—2)<td r>880
+<td>Hunnestad-Monumentet<td r>886
+<td>Hurtigpresse (Fig. 1—8)<td r>895
+<td>Hurtigskydende Skyts<td r>899
+<td>Hus, J. (Portræt)<td r>904
+<td>Huse (Fig. 1—2)<td r>914
+<td>Huxley, T. H. (Portræt)<td r>930
+<td>Huygens, C. (Portræt)<td r>931
+<td>Hvalbaad<td r>932
+<td>Hvalros<td r>940
+<td>Hvaløgler (Fig. 1—2)<td r>941
+<td>Hvede (Fig. 1—7)<td r>942—43
+</table>
+</chapter>

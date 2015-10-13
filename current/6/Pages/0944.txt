@@ -1,0 +1,94 @@
+Forbindelser til Maskinerne i Centralen (alle
+Forbindelser med ensbenævnte Polariteter, f. Eks.
+plus, for samtlige Dynamoer forbindes med
+samme Samleskinne), dels Forbindelser,
+Fødeledninger til Ledningsnettet (se <sp>elektrisk
+Kraftoverføring</sp>). Desuden udgaar der
+fra Samleskinnerne Forbindelser til
+Akkumulatorbatteriet, Centralens egen Lysinstallation og
+egne Maskiner og Centralens vigtigste
+Maaleapparater (Hovedmaaler, Samleskinnevoltmeter).
+
+Strømfordelingen i Jævnstrømscentraler kan
+ske paa mange Maader, i Reglen dog efter det
+saakaldte Parallelsystem d. v. s. alle Maskiner
+arbejder i elektrisk Henseende parallelt paa
+samme Sæt Samleskinner, og Forbrugerne er
+indskudte parallelt paa Nettet. Seriesystemet
+bruges meget sjældent til Kraftfordelingen (se
+<sp>Ledningssystemer</sp>). I Reglen anvender
+man som nævnt Parallelsystemet og enten
+Toleder ell. Treleder-Systemet, næsten aldrig
+Systemer med fl. Ledere (Flerledersystemer). Ved
+Toleder-Systemer (Fig. 4) er samtlige Maskiners
+og det som Regel anvendte Akkumulatorbatteris
+positive Poler alle forbundne med den ene,
+samtlige negative Poler med den anden af to
+Samleskinner. Det samme er Tilfældet ved
+Treleder-Systemer (Fig. 5), men her findes foruden
+disse to Samleskinner, de spændingsførende,
+tillige en tredie, Nul-Samleskinnen, der oftest er
+jordforbundet og altid forbundet med
+Akkumulatorbatteriets Midte, saaledes at dette elektrisk
+set deles i to lige store Dele, den positive og
+den negative Halvdel, der hver har den halve
+Spænding af hele Batteriet; Spændingen mellem
+den positive og den negative Samleskinne deles
+herved i to lige store Halvdele af
+Nul-Samleskinnen; er der f. Eks. 440 Volt mellem den
+positive og den negative Samleskinne (Fig. 5),
+vil der mellem hver af disse og
+Nul-Samleskinnen være 220 Volt henh. + 220 Volt og ÷ 220
+Volt. Ved Treleder-Systemer kan man i St f.
+at benytte en (ell. fl.) Dynamo, der arbejder
+med hel Spænding (d. v. s. arbejder parallelt
+paa de spændingsførende Samleskinner)
+anvende to Dynamoer, der hver har den halve
+Spænding og arbejder mellem hver sin af disse
+Samleskinner og Nul-Samleskinnen. I St f. ell.
+foruden Akkumulatorbatteriet kan man - for
+at udjævne mulige Spændingsdifferenser mellem
+Samleskinnesystemets to Spændinger, hvilke
+Spændingsdifferenser optræder ved uensartet
+Belastning paa Ledningsnettets to med hver sin
+af Samleskinnesystemets to Sider forbundne
+Halvdele - anvende de saakaldte Udligningsmaskiner. Disse
+bestaar af to direkte sammenkoblede
+Jævnstrømsshuntmaskiner, hvis
+Ankerviklinger <i>U</i> indskydes mellem
+hver sin af en af de
+spændingsførende Samleskinner (Fig. 6) og
+Nul-Samleskinnen. Disse to Ankerviklinger bliver
+saaledes serieforbundne. Udligningsmaskinernes
+Magnetviklinger <i>M</i> indskydes
+ligeledes paa hver sin Halvdel af
+Samleskinnesystemet, bedst saaledes, at
+den ene Maskines Ankervikling og
+den andens Magnetvikling ligger
+mellem samme to Samleskinner. Naar
+Belastningen paa Centralen er ensartet fordelt paa
+Systemets to Halvdele, løber begge
+Shuntmaskiner som Motorer, idet de tilsammen kun
+forbruger saa megen Energi, som er nødvendig
+for at overvinde deres Tomgangstab. Optræder
+der imidlertid Belastningsskævhed, vil den af
+Udligningsmaskinerne, hvis Anker ligger i den
+svagest belastede Halvdel, gaa som Motor, idet
+Spændingen i denne Halvdel bliver lidt højere
+end i den anden, og drive den anden
+Udligningsmaskine, der da gaar som Dynamo og
+virker udlignende. Udligningsmaskinerne
+beregnes i Reglen saaledes, at de kan udligne
+Spændingsdifferenser ved 15 %'s
+Belastningsskævhed; dog gøres de ofte noget større, hvor
+de anvendes til at drive Ladedynamoer for
+Akkumulatorbatteriet. Dette maa nemlig oplades
+regelmæssigt, men da dets Ladespænding er
+betydelig højere end dets Afladespænding,
+anvender man oftest under Ladning foruden en af
+Centralens Hoveddynamoer tillige en ell. to
+saakaldte Ladedynamoer, der enten giver en
+
+<img>
+Fig. 8. Tavleanlæg fra Gothersgade Elektricitetsværk.
+</img>

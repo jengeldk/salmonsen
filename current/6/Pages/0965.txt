@@ -1,0 +1,113 @@
+lang). Denne holdes strammet af en lodret
+Traad, som atter holdes strammet af en vandret
+Traad, der er lagt over en Snorskive paa en
+Akse, som bærer en Viser. Naar der gaar
+Strøm gennem Varmetraaden, udvider denne
+sig, og Udvidelsen overføres paa den nævnte
+Maade til Viseren. - Ved Ampèremetre er
+Varmetraaden tykkere, og til større Strømstyrker
+gaar største Delen af Strømmen gennem en
+Shunt. - Til højfrekvente Vekselstrømme (f.
+Eks, 100000 Perioder pr Sek.) ved traadløs
+Telegrafering anvendes specielle kaloriske
+Ampèremetre (Fig. 23), hvor Strømmen deler sig
+ligeligt gennem fl. symmetrisk anordnede tynde
+Metalbaand, som udvider sig ens, idet kun et
+enkelts Udvidelse overføres til Viseren. Ved saa
+høje Periodetal er nemlig ogsaa den geometriske
+Form af Bet. for Strømdelingen.
+<i>Abs. L.</i></chapter>
+
+<chapter name="elektriske Maskiner og Transformatorer">
+<b>elektriske Maskiner og Transformatorer.</b>
+De elektriske Maskiner kan inddeles i følgende
+Grupper: <sp>Generatorer</sp> (Dynamoer), der
+modtager mek. Energi fra Kraftmaskiner og
+omsætter denne til elektrisk Energi, enten
+Jævnstrøm eller Vekselstrøm; <sp>Motorer</sp>, der
+modtager elektrisk Energi enten som Jævnstrøm
+ell. som Vekselstrøm fra et Ledningsnet og
+omsætter denne til mek. Energi (Drivkraft til
+Arbejdsmaskiner o. l.); <sp>Omformere</sp>, som
+modtager elektrisk Energi af een Strømart og
+afgiver elektrisk Energi af en anden Strømart
+(omformer Vekselstrøm til Jævnstrøm ell.
+omvendt); samt <sp>Transformatorer</sp>, der
+omformer Vekselstrøm af høj Spænding til
+Vekselstrøm af lav Spænding ell. omvendt.
+
+Virkningen i de e. M. beror dels paa den af
+<sp>Ørsted</sp> 1820 gjorte Opdagelse, at en
+<sp>elektrisk Strøm frembringer et
+Magnetfelt</sp>, dels paa den af Faraday opdagede
+<sp>elektromagnetiske Induktion</sp>: Naar en
+lukket elektrisk Leder omslutter et Magnetfelt,
+et vist Antal »<sp>Kraftlinier</sp>«, og dette Antal
+Kraftlinier forandres, enten ved at Lederen
+bevæges i Forhold til den Magnet, der udsender
+Kraftlinierne (ell. omvendt), ell. ved at denne
+Magnets Styrke periodisk forandres
+(Transformatorer), vil der i den lukkede Leder
+frembringes (induceres) en elektrisk Spænding,
+som atter i Lederen frembringer en elektrisk
+Strøm. Størrelsen af den inducerede Spænding
+afhænger dels af Styrken af det af Lederen
+omsluttede Felt, dels af den Hastighed, hvormed
+Feltstyrken varieres. Den Spænding, der
+induceres i en enkelt Vinding i en elektrisk Maskine,
+er forholdsvis ringe (10-50 Volt), hvorfor man,
+da man jo som Regel har Brug for højere
+Spændinger, maa forbinde flere Vindinger i
+Serie. Medens man tidligere udelukkende var
+henvist til galvaniske Elementer som
+Strømkilde, blev man ved Faraday's Opdagelse i
+Stand til af mek. Arbejde at frembringe
+Elektricitet, nemlig ved at lade Kobberledere rotere
+i et magnetisk Felt.
+
+<sp>Jævnstrømsmaskiner</sp>. De første
+Forsøg paa at bygge elektriske Generatorer efter
+dette Princip (»Grammes Ring«) benyttede store
+permanente Hesteskomagneter til Frembringelse
+af Feltet (Fig. 1). Kobberlederne, hvori
+Spændingen induceredes, var lagt i Vindinger omkr.
+en Jernring, det saakaldte Anker, som bragtes
+til at rotere imellem Magneternes Poler.
+Betragter man en enkelt Vinding, vil den i denne
+Vinding inducerede Spænding uafbrudt veksle,
+baade i Størrelse og Retning, nemlig for hver
+Gang Vindingen passerer fra en Nordpol til en
+Sydpol ell. omvendt; det vil blive en
+»Vekselspænding«. Imidlertid forstod man ikke
+dengang at udnytte en saadan Spænding ell. Strøm;
+(man havde jo udelukkende sit Kendskab til
+Elektricitetens Virkninger fra de galvaniske
+Elementer). Man <sp>ensrettede</sp> derfor
+Strømmen ved at føre Forbindelser fra hver enkelt
+Vinding (Spole) til en i fast Forbindelse med
+Ankeret anbragt Strømvender ell.
+<sp>Kommutator</sp>. Fra denne blev Strømmen aftaget ved
+to paa Kommutatoren slæbende Metalbørster,
+som altsaa kom til at danne Maskinens
+elektriske Poler. En Kommutator i sin simpleste
+Form, 1 Spole og 2 Lameller, er vist i Fig. 2.
+Det vil ses, at den Retning, hvori Spolen er
+indskudt i Serie med den ydre Strømkreds,
+skifter to Gange for hver Omdrejning.
+
+I Modsætning til disse saakaldte
+<sp>magnetoelektriske Maskiner</sp> frembringes i de
+moderne Jævnstrømsdynamoer det magnetiske
+Felt af <sp>Elektromagneter</sp>, hvorved man
+kan opnaa langt stærkere Felter, hvilket igen
+har til Følge, at Maskinerne bliver mindre i
+Forhold til Effekten (Fig. 3). Magnetsystemet
+
+<img>
+Fig. 1. Magnetoelektrisk Maskine (Alliancemaskine).
+</img>
+<img>
+Fig. 2. Skema af en topolet
+Dynamo med een Spole og to
+Kommutatorlameller.
+</img>

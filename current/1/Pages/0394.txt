@@ -1,0 +1,121 @@
+af en regelmæssig forekommende Vending, i
+hvilken Udstederen anmoder den fremmede
+Regering om at skænke Gesandtens Forsikringer
+Tiltro. Kreditivet overrækker Gesandten i
+højtidelig Audiens til vedkommende Statsoverhoved
+ell., hvis han som <i>Chargé d'affaires</i> kun er
+akkrediteret hos Udenrigsministeren, til denne.
+Naar Gesandten kun har det Hverv at
+forhandle om et enkelt bestemt Forhold, erstattes
+Kreditivet af en Fuldmagt (<i>plein-pouvoir</i>).
+<i>P. J. J.</i>
+</chapter>
+
+<chapter name="Akkumulation">
+<b>Akkumulation</b> (lat.), Ophobning,
+Sammenhobning: <sp>akkumulere</sp>, sammenhobe,
+opdynge.
+</chapter>
+
+<chapter name="Akkumulatorer">
+<b>Akkumulatorer,</b> 1) (hydrauliske) er Samlere
+for Trykvand i hydrauliske Kraftoverføringsanlæg,
+og tjener til at udligne Forskellene
+mellem Trykvandspumpernes Ydelse og
+Arbejdsmaskinernes Forbrug; se i øvrigt <sp>Hydraulisk
+Kraftoverføring</sp>.
+<i>E. Th.</i>
+
+2) (elektriske) er et elektrokemisk Apparat,
+som ved Ladning modtager elektrisk Energi
+og ved Udladning afgiver elektrisk Energi. Det
+er ikke ligefrem Elektriciteten, der opsamles,
+men der er til Ladningen knyttet kemiske
+Omdannelser, som ved Udladningen gaar tilbage
+igen. Den opsamlede Energi er følgelig til
+Stede som kem. Energi. Den almindeligst
+anvendte A. er <sp>Blyakkumulatoren</sp>, som
+i sin simpleste Form bestaar af to Blyplader,
+nedsatte i et Glas med fortyndet Svovlsyre,
+hvilket dog først bliver til en brugelig A., naar
+Pladerne er »formerede«. Den første egl. A.
+fremstilledes af <sp>Planté</sp> (1859). Planté
+»formerede« Pladerne ved langsomme Ladninger
+og Udladninger i svag Svovlsyreopløsning;
+derved bliver den positive Plades Overflade indtil
+en vis Dybde omdannet til aktiv Masse, der,
+naar Pladen er opladet, i det væsentlige bestaar
+af Blyoverilte. Naar de samme Processer
+gentages med modsat Strømretning, vil ogsaa den
+anden Plade blive formeret. Naar Pladerne
+derefter benyttes normalt, vil i opladet Tilstand
+den positive Plades aktive Masse i det
+væsentlige bestaa af Blyoverilte, medens den negative
+Plades aktive Masse bestaar af Blysvamp. Ved
+Udladning omdannes efterhaanden den aktive
+Masse af begge Plader til Blysulfat. Til
+Sulfatdannelsen forbruges noget af Svovlsyren, hvis
+Koncentration derfor falder under Udladning.
+Ved Ladning gaar alle Processer den modsatte
+Vej, Syrekoncentrationen stiger, og Sulfatet i
+begge Plader omdannes, i den positive Plade
+til Blyoverilte, i den negative Plade til
+Blysvamp. Den positive Plade er da meget mørk,
+næsten sort, den negative Plade lysegraa.
+
+<img>Fig. 1. Udsnit af en Overfladeplade.</img>
+
+Plader af væsentlig samme Slags som Planté's
+anvendes endnu, men man giver dem en stor
+Overflade, idet man f. Eks. støber dem med
+en Mængde fine Ribber paa Højkant (Fig. 1).
+Saadanne Plader kaldes <sp>Overfladeplader</sp>.
+Formeringsprocessen foregaar nu ved en enkelt Opladning, idet
+der til Syreopløsningen sættes visse Kemikalier.
+Fig. 2 viser en moderne Overfladeplade.
+
+<img>Fig. 2. Positiv Overfladeplade.</img>
+
+1880 fik <sp>Faure</sp> den Idé i Stedet for
+»formerede« Plader at anvende rene Blyplader belagte
+med et Lag af passende Blyforbindelser. Dette
+var Beg. til den anden Hovedtype af Plader,
+<sp>fyldte Plader</sp> ell. <sp>Masseplader</sp>. En
+moderne Masseplade ses paa Fig. 3. Den bestaar
+af et Skelet af Blyribber, hvori er indsat
+firkantede Briketter af en Masse bestaaende af
+Blyforbindelser sammenholdt ved et ell. andet
+Bindemiddel. Pladen, Fig. 3. har 64 saadanne
+Briketter, hver c. 4 cm x 4 cm. Yderst er
+Briketterne dækkede med en tynd perforeret
+Blyplade. Hyppigt benytter man Overfladeplader
+som positive Plader, og Masseplader som
+negative Plader. Man kan ogsaa anvende enten
+Overfladeplader alene ell. Masseplader alene til
+begge Polariteter.
+
+<img>Fig. 3. Negativ Masseplade.</img>
+
+I en enkelt <sp>Akkumulatorcelle</sp> er der
+mindst 1 positiv og 2 negative Plader. Fig. 4
+viser en saadan mindre Celle. I Regelen
+er der fl. afvekslende positive og negative
+Plader. Alle positive for sig og alle
+negative for sig er da indbyrdes forbundne
+ved en Blyskinne. Medens smaa Celler
+i Regelen har Glasbeholdere, er store
+Celler anbragte i blybeslaaede Trækasser.
+Fig. 5 viser en saadan stor Celle. Den
+har 25 positive og 26 negative Plader,
+Pladestørrelse 50 cm x 50 cm. Cellens hele
+Vægt er c. 2000 kg. Den kan give 2500
+Amp. i 3 Timer. Dens Kapacitet er altsaa 7500
+Ampèretimer.
+
+<img>Fig. 4. Lille Akkumulatorcelle.</img>
+
+En enkelt Akkumulatorcelle giver en Spænding
+af c. 2 Volt, Ved Ladning med fuld Strøm
+stiger Spændingen til c. 2,7 Volt. Ved
+Udladning med fuld Strøm er det tilladt at lade
+Spændingen gaa ned til 1,85 Volt.

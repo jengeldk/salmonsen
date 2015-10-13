@@ -1,0 +1,36 @@
+<chapter name="Rettelser og Trykfejl">
+<h1>RETTELSER OG TRYKFEJL.</h1>
+
+<h1>BIND I.</h1>
+<table>
+<td>Side<td c>155,<td 4 >under Billederne staar<td><i>Adonsonia</i><td>læs:<td><i>Adansonia</i>
+<td c>—<td c>289,<td c>Spalte<td c>2,<td c>Linie<td c>5 f. n.<td>afskaaret<td c>—<td>ved at blive afskaaret
+<td c>—<td c>649,<td c>—<td c>1,<td c>—<td c>33 f. n.<td><i>Bacsa</i><td c>—<td><i>Ba'sa</i>
+<td c>—<td c>716,<td c>—<td c>2,<td c>—<td c>24 f. n.<td>1801<td c>—<td>1805
+<td c>—<td c>718,<td c>—<td c>2,<td c>—<td c>33 f. n.<td>rejst<td c>—<td>projekteret
+</table>
+
+<h1>BIND II.</h1>
+<table>
+<td>Side<td c>28,<td c>Spalte<td c>1,<td c>Linie<td c>33 f. n.<td>Décanville<td>læs:<td>Décauville
+<td c>—<td c>—<td c>—<td c>1,<td c>—<td c>3 f. n.<td>Planrum<td c>—<td>Planum
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>1 f. n.<td>paalægges<td c>—<td>maa lægges
+<td c>—<td c>348,<td c>—<td c>1,<td c>—<td c>3 f. n.<td><i>Barristor</i><td c>—<td c><i>Barrister</i>
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>23 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>34 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>9 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>27 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>6 f. n.<td><i>sollicitor</i><td c>—<td c><i>solicitor</i>
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>13 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>18 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>25 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>2,<td c>—<td c>5 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>349,<td c>—<td c>1,<td c>—<td c>1 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>1,<td c>—<td c>6 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>533,<td c>—<td c>2,<td c>—<td c>11 f. n.<td>forneden<td c>—<td>foroven
+<td c>—<td c>609,<td c>—<td c>2,<td c>—<td c>25 f. n.<td>1813<td c>—<td>1913
+<td c>—<td c>690,<td c>—<td c>2,<td c>—<td c>7 f. n.<td><i>sollicitor</i><td c>—<td c><i>solicitor</i>
+<td c>—<td c>691,<td c>—<td c>1,<td c>—<td c>2 f. n.<td c>do.<td c>—<td c>do.
+<td c>—<td c>—<td c>—<td c>1,<td c>—<td c>9 f. n.<td c>do.<td c>—<td c>do.
+</table>
+</chapter>

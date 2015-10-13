@@ -1,0 +1,128 @@
+altsaa alle Stjerner i Løbet af en Dag at dreje
+sig rundt. Hastigheden i Parallelcirklen er
+jævn; men da alle Stjerner i samme Tid skal
+svinge rundt, bliver Hastigheden større, jo
+større Parallelcirklen er.
+
+Den Retning, hvorefter Tyngden virker,
+kaldes <sp>Vertikallinien</sp>; forlænget opad
+træffer den Himmelkuglen i et Punkt, som kaldes
+<sp>Zenit</sp> (Issepunktet) <i>Z</i>, nedad i <sp>Nadir</sp>
+(Fodpunktet) <i>Z'</i>. Lægges et Plan lodret paa
+Vertikallinien gennem Himmelkuglens Centrum, <i>O</i>,
+kaldes det <sp>Horisonten</sp> (<i>S V N Ø</i>); den er
+altsaa en Storcirkel, hvis Akse er Vertikallinien,
+og hvis Poler er Zenit og Nadir. Lægges
+et Plan gennem Vertikallinien (<i>Z Z'</i>), kaldes
+dette et <sp>Vertikalplan</sp> og dets Snitlinie
+med Himmelkuglen en <sp>Vertikalcirkel</sp>
+(<i>Z T T'</i>), der altsaa er en Storcirkel gennem
+Zenit og Nadir og lodret paa Horisonten;
+gaar det gennem H.'s Poler, kaldes det
+<sp>Meridianen</sp> (<i>Z P N A' Z' P' S Z</i>). Den
+Linie, hvori Meridianen skærer Horisonten,
+kaldes <sp>Middagslinien</sp> (<i>S O N</i>), denne
+træffer Himmelkuglen i to Punkter,
+<sp>Nordpunktet</sp> <i>N</i> (nærmest Nordpolen) og
+<sp>Sydpunktet</sp> <i>S</i>. Den Vinkel, som Vertikalplanet gennem
+Stjernen (<i>T</i>) danner med Meridianen, er
+Stjernens <sp>Azimut</sp>, og den udmaales paa
+Horisonten fra Sydpunktet (<i>S</i>) mod V. til det Punkt,
+hvor Verticalcirklen skærer Horisonten (<i>S T'</i>).
+Den Vinkel, Retningen af Synslinien til
+Stjernen danner med Horisonten, er Stjernens
+<sp>Højde</sp> (<i>T O T'</i>), som udmaales ved den Bue af
+Stjernens Vertikalcirkel, der ligger mellem
+Stjernen og det Punkt, hvori Vertikalcirklen
+skærer Horisonten (<i>T T'</i>). Højden regnes
+positiv fra Horisonten mod Zenit. Komplementet
+til Højden er Stjernens <sp>Zenitdistance</sp> ɔ:
+Vinklen mellem Vertikallinien og Synslinien til
+Stjernen (<i>Z O T</i>). Ved Højde og Azimut er en
+Stjernes Plads paa Himlen i Forhold til
+Horisonten og Meridianen fuldstændig bestemt.
+Lægges et Plan gennem Verdensaksen, skærer det
+Himmelkuglen efter en Storcirkel, som kaldes
+en <sp>Deklinationscirkel</sp>; denne gaar
+gennem begge Poler og staar lodret paa
+Ækvator (<i>P T U</i>). En Stjernes Deklination er
+Vinklen mellem Retningen af Synslinien til
+Stjernen og Ækvators Plan (<i>T O U</i>) og
+udmaales ved den Bue af Deklinationscirklen gennem
+Stjernen, der ligger mellem Ækvators
+Skæringspunkt med Deklinationscirklen og
+Stjernen (<i>U T</i>), positiv fra Ækvator mod
+Nordpolen og negativ fra Ækvator mod Sydpolen.
+En Stjernes <sp>Poldistance</sp> er Vinklen
+mellem Retningen til Stjernen og Himmelaksen
+(<i>T O P</i>); den er Komplementet til
+Deklinationen. Vinklen mellem en Stjernes
+Deklinationscirkels Plan og Meridianens Plan er Stjernens
+<sp>Timevinkel</sp>, og den udmaales paa
+Ækvator fra Meridianen i S. mod V. (<i>A U</i>). Ved
+Timevinkel og Deklination ell. Poldistance er en
+Stjernes Sted utvetydig bestemt i Forhold til
+Ækvator og Meridianen.
+
+Ækvators og Horisontens indbyrdes Stilling
+betemmes ved den Vinkel, deres Planer eller
+Akser danner med hinanden, og ved Retningen
+af Skæringslinien mellem deres Planer. Den
+Vinkel, Himmelaksen danner med Horisonten,
+kaldes Stedets <sp>Polhøjde</sp> (<i>P O N</i>). Vinklen
+mellem Horisontens og Ækvators Plan kaldes
+<sp>Ækvatorhøjden</sp> (<i>A O S</i>); den er
+Komplementet til Polhøjden. Den fælles
+Skæringslinie mellem Ækvator og Horisonten staar
+lodret paa Meridianen, fordi Meridianen staar
+lodret paa Ækvator og Horisonten, og gaar
+gennem H.'s Centrum. De Punkter, hvor den
+træffer Himmelkuglen, kaldes <sp>Østpunktet</sp> (<i>Ø</i>)
+og <sp>Vestpunktet</sp> (<i>V</i>). Vertikalcirklen
+gennem disse Punkter kaldes <sp>første Vertikal</sp>.
+
+Under Himmelkuglens daglige Bevægelse er
+Deklinationen uforandret, Timevinklen
+forandrer sig jævnt. Højden derimod vokser paa
+Østsiden af Meridianen og aftager paa Vestsiden.
+Den vokser og aftager hurtigst, naar Stjernen
+er i første Vertikal; men efter som Stjernen fra
+Østsiden nærmer sig Meridianen, vokser den
+langsommere og langsommere, indtil Stjernen
+kommer i Meridianen. Stjernen har nu naaet
+sin største Højde og siges at <sp>kulminere</sp> ell.
+at være i <sp>øvre Kulmination</sp> (hos os i
+S.). Derpaa aftager Højden først langsomt, saa
+stærkere, og stærkest, naar Stjernen passerer
+første Vertikal, og nu begynder Højden igen at
+forandre sig langsommere og langsommere.
+Gaar Stjernen ikke ned, men er
+<sp>cirkumpolar</sp>, vil den dale langsommere og
+langsommere, indtil den kommer i Meridianen mod N.
+(hos os) under Polen. Her naar den sin mindste
+Højde og siges da at være i <sp>nedre
+Kulmination</sp>, hvorpaa Stjernen begynder at stige
+paa Østhimlen først langsomt, derpaa hurtigere.
+Azimuts Forandring er forsk., efter som
+Stjernen (Polhøjden antages nordlig) i øvre
+Kulmination passerer S. f. ell. N. f. Zenit. I første
+Fald er Azimut 0°, naar Stjernen er i
+Meridianen i S., og vokser, men ingenlunde jævnt,
+efter som Stjernen bevæger sig V. over, er 90°
+i første Vertikal mod V., 180° i nedre
+Kulmination og 270° i første Vertikal mod Ø. I andet
+Fald er Azimut 180° i øvre Kulmination,
+hvorpaa Azimut aftager, til Stjernens Vertikalcirkel
+tangerer dens Parallelcirkel, da er Stjernen i
+<sp>største vestlige Digression</sp>; nu
+vokser Azimut igen til 180° i nedre
+Kulmination og vokser videre, til Stjernens
+Vertikalcirkel atter tangerer dens Parallelcirkel, den
+største østlige Digression; derpaa
+begynder Azimut at aftage, til den atter bliver
+180° i øvre Kulmination.
+
+I St f. den sig jævnt forandrende Timevinkel
+kan man indføre for enhver Stjerne ved Siden
+
+<img></img>

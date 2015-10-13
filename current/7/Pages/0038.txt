@@ -1,0 +1,131 @@
+Watt pr Lys, saaledes at f. Eks. en 16-Lys
+Lampe bruger godt og vel 50 Watt.
+Kultraadslamper anvendes p. Gr. a. dette store Forbrug
+nu praktisk talt ikke mere til alm. Belysning.
+De fortjener dog stadig en Plads, hvor det
+drejer sig om en behagelig Belysning, da deres
+Lys er mindre hvidt end Metaltraadslampernes.
+
+<sp>Temperaturstraaling</sp>. Det teoretiske
+Grundlag, som man har bygget paa ved
+Forbedring af Glødelamper, er Lovene om
+Temperaturstraaling. Ved en ell. anden højere
+Temp., <i>T</i>, vil et glødende Legeme udsende
+Straaler af alle Bølgebredder, stærkest af en
+Bølgebredde λ max og svagere baade ved
+mindre og større Bølgebredder. Fig. 12 viser den
+omtrentlige Fordeling af Intensiteten paa de
+forsk. Bølgebredder ved en Temp. af c. 1550°
+absolut for et Legeme med det »absolut sorte«
+Legemes Egenskaber for hvilket
+<table>
+<td v2><i>T</i> absolut =<td c>2940<td v2>.
+<td c>λ max 
+</table>
+
+Kun de Straaler, der ligger inden for det
+skraverede Areal (fra c. 0,4 til c. 0,8
+Tusindedelsmillimeter), giver Lysindtryk paa Øjet.
+Energien af de synlige Straaler kan sættes lig det
+skraverede Areal, naar Energien af samtlige
+Straaler sættes lig det hele Areal mellem den
+vandrette Linie og Kurven. Forholdet mellem
+det skraverede Areal og det hele Areal er da
+et Maal for Lysgiverens Virkningsgrad, som det
+gælder om at faa saa stor som mulig, naar man
+tilstræber at faa meget Lys ved et lille
+Elektricitetsforbrug. Ved Glødelamper med lufttom
+Pære gaar saa godt som al den af den
+elektriske Strøm udviklede Varme bort ved
+Straaling og kun en ganske ringe Del ved
+Varmeledning. Det hele Areal er derfor praktisk talt
+bestemt ved den elektriske Effekt, som tilføres
+Lampen.
+
+Opvarmer man det glødende Legeme til en
+højere Temp., vokser Intensiteten af alle
+Straaler, men mest for de korte Bølgebredders Vedk.
+Maksimum paa Kurven flytter sig i Retning
+af de korte Bølgebredder. Det skraverede Areal
+vil vokse forholdsvis mange Gange stærkere end
+det hele Areal. Vil man derfor forbedre en
+Glødelampes Økonomi, skal man søge efter en
+Traad, som i Længden kan taale en højere
+Temp. I en Kultraadsglødelampe taaler Traaden
+praktisk talt ikke over c. 2000° G. Ved denne
+Temp. synker Lysstyrken 20 % i 500 Timer
+væsentligst p. Gr. a., at fine Kulpartikler slaar
+sig ned paa Glasset og sværter dette. Man kan
+meget vel brænde en Kultraadslampe ved en
+betydelig højere Temp. og med fl. Gange forøget
+Virkningsgrad, men Fornøjelsen varer ikke længe,
+idet Glasset hurtig sværtes. En Kultraadslampe
+til 110 Volt, der anvendes ved 220 Volt, vil en
+lille Tid give et Lys, der med et rundt Tal er
+100 Gange stærkere, men den sværtes i Løbet af
+nogle faa Sekunder, og Traaden brænder over
+efter en ganske kort Tids Forløb.
+
+Det »absolut sorte« Legeme er et saadant, som
+absorberer alle de Straaler, der rammer det,
+og som følgelig hverken tilbagekaster Straaler
+ell. lader Straaler gaa igennem sig. Efter
+Kirchhoff's Lov vil et Legeme som Lysgiver
+fortrinsvis udsende de Straaler, som det selv
+absorberer, naar det bestraales. En Lysgiver, f. Eks.
+en Kultraad ell. en Metaltraad, vil derfor for
+en ell. anden Temp. vel kunne udsende mindre
+Lys af en ell. anden Bølgebredde, men ikke mere
+end det absolut sorte Legeme (for lige Størrelse
+af den lysende Overflade). Det er heldigt, at
+baade Kultraade og navnlig Metaltraade viser
+saadanne selektive Egenskaber, at det navnlig
+er Straaler af store Bølgebredder
+(Varmestraaler), som er svagere end i det absolut sorte
+Legemes Straaling. Deres Virkningsgrad som
+Lysgiver er følgelig bedre end det absolut sorte
+Legemes. Ogsaa dette Forhold er af Bet. ved
+Bestræbelserne for at skaffe mere økonomiske
+Glødelamper.
+
+<sp>Fabrikation af
+Metaltraadslamper med trukken Traad</sp>. Fig. 13 med
+de enkelte Afb. 1-17, som er gengivne efter
+N. L. Müller, »Die Fabrikation und Eigenschaften
+der Metalldrahtlampen«, viser de forsk. Stadier
+i en Metaltraadslampes Fabrikation. 1 er et
+Stykke Glasrør, skaaret af et længere Rør; i en
+hed Flamme gøres Røret blødt i den ene Ende
+og udvides til Formen 2. 3 er et afskaaret
+Stykke Glasrør, hvorpaa der smeltes to Kraver,
+som vist i 4 og 5. 6 viser en Nikkeltraad
+og en Kobbertraad forbundne med et kort Stykke
+Platintraad. To saadanne sammensatte Traade
+indsmeltes i Glasstykket 2, som ligeledes
+forlænges med Glasrøret 5, hvorved 7 fremkommer. I
+de to Kraver paa Glasstangen indsættes i
+Glødhede smaa Metalkroge som vist i 8, de to
+Gennemføringstraade bøjes, 9, og den til Lysgiver
+bestemte tynde Metaltraad klemmes fast i en
+Ombøjning paa den ene Gennemføringstraad og
+trækkes dernæst i Siksak over Metalkrogene,
+og Enden klemmes fast til den anden
+Gennemføringstraad som vist ved 10. 11 viser
+Glasbeholderen, som den kommer fra Glasværket.
+12 viser, at der er stukket et Hul i den med
+en spids Flamme. 13 og 14 viser den, efter at
+der er tilsmeltet et Rør, og den nederste Del
+er skaaret lige af. 15 viser Metaltraaden paa
+sin Bærer, 10, indsat i Glasbeholderen, 14.
+Den nederste Rand af Kraven paa Traadbæreren
+er i en hed Flamme blæst sammen med
+Glasbeholderens Rand. Denne Sammensmeltning
+foregaar paa en Maskine. Efter at Traaden
+saaledes er sat ind i Beholderen, pumpes denne
+lufttom og tilsmeltes foroven som vist paa 16.
+Endelig viser 17 den færdige Lampe. De to
+Gennemføringstraade er loddede henh. til
+Bundpladen og til den med Gevind forsynede
+
+<img>Fig. 12. Energifordeling ved Temperaturstraaling.</img>
+

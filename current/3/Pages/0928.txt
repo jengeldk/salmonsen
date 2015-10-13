@@ -1,0 +1,125 @@
+Indikatorskabet et med dens Nummer forsynet
+Faldklaprelais, der er indskudt parallelt med Sløjfen,
+hvis elektriske Modstand er ringe, saa at den
+saa at sige kortslutter Faldklaprelaiset. De
+interne Brandalarmer bestaar f. Eks. af en inden
+for en Glasrude anbragt Trykkontakt, ved hvis
+Indtrykken der indskydes en stor Modstand, c.
+1000 Ohm, i Brandalarmsløjfen. Strømmen i den
+bliver derved stærkt svækket, medens
+Strømmen i Faldklaprelaiset forstærkes saa meget,
+at det kan tiltrække sit Anker, og Klappen
+falder. Herved udløses et andet Faldklaprelais
+med Paaskriften »Brand«, et Transparent med
+samme Paaskrift belyses, og Klokkesignaler
+afgives, hvorhos en i Sløjfen til
+Hovedbrandalarmens Udløsemagneter indskudt Modstand
+kortsluttes, saa at Strømmen gennem dem bliver
+saa stærk, at de udløser Alarmen. Ved
+Strømafbrydelse som Følge af Traadbrud finder
+ingen Alarmering Sted. Dette opnaas ved et paa
+Alarmsløjferne indskudt Relais, der taber sit
+Anker ved Strømafbrydelse, men ikke ved
+Strømsvækkelse. Ved Ankerets Fald omskiftes
+Faldklapkontakterne til Lyssignalet og
+Faldklaprelaiset »Traadbrud« og til et andet
+Klokkesignal, og Modstanden i Sløjfen til
+Hovedalarmen kortsluttes ikke. Ved Hjælp af endnu
+et Relais angives Isolationsfejl og stærkere Fald
+i Liniebatterispændingen ved et tredie
+Faldklaprelais og Lyssignal med Paaskriften »Fejl«,
+saa at Anlægget er under god Kontrol. I St f.
+ell. i Forbindelse med de interne Brandalarmer
+kan anbringes <sp>automatiske
+Brandalarmer</sp>. Disse er enten Maksimalmeldere,
+der alarmerer, naar en forud bestemt højere
+Temp. er opstaaet i Lokalet, ell.
+Differentialmeldere, der alarmerer ved en pludselig
+opstaaet Temperaturstigning i Lokalet. Siemens
+& Halske's nyere Maksimalmeldere bestaar af en
+U-formigt bukket Blikstrimmel (se Fig. 20), der
+er dannet af to Metaller med meget forsk.
+Udvidelseskoefficient, som er sammenvalsede og
+svejsede under højt Tryk. Lægges Metallet med
+den største Udvidelseskoefficient paa Indersiden
+af Bøjlen, vil denne aabne sig ved Opvarmning
+og derved kunne aabne en foroven paa dens
+Inderside anbragt Kontakt, saa at den gennem
+Melderen gaaende Strøm svækkes, idet den da
+kun kan passere gennem en parallelt med
+Melderen indskudt stor Modstand.
+Temperaturindstillingen, sædvanlig mellem Grænserne
+40°—90°, sker ved at give Bøjlen en større ell.
+mindre Spænding ved Drejning af en paa den faste
+Kontaktdel virkende Ekscentrik. Fig. 21 viser
+Udseendet af den færdigmonterede Melder, hvis
+Beskyttelseshylster dog er borttaget.
+Leipziger-Firmaet Schöppe's Meldere, der ogsaa har ret
+stor Udbredelse i Tyskland, er konstruerede
+efter et lgn. Princip som Siemens & Halske's.
+
+En Differentialmelder (»Autopyrofonen«), der
+nu fabrikeres af Siemens & Halske, men er
+opfundet af Danskeren Hilkier, er vist skematisk
+tilvenstre i Fig. 22. Den bestaar af et
+U-formigt, lukket Glasrør, hvis Grene er fyldte til
+over Halvdelen med Kviksølv. Over Kviksølvet
+findes i begge Grene, af hvilke Luften er
+uddrevet før Tilsmeltningen, en ringe Mængde af
+en let fordampelig Vædske. I Glasset er
+indsmeltet Platintraade, hvortil
+Tilførselsledningerne loddes. Den ene Gren bestaar af tykkere
+Glas end den anden, saa at den ved hurtig
+Temperaturstigning ikke opvarmes saa hurtigt
+som den tyndere Gren. Vædskedampene i den
+tyndere Gren faar derfor ved hurtig
+Temperaturstigning større Tryk end Dampene i den
+tykkere Gren, saa at Kviksølvet trykkes over
+i den. Synker Kviksølvet ned under den
+strømførende Platintraad, afbrydes den gennem
+Kviksølvet gaaende Del af Strømmen i Alarmsløjfen,
+der herefter kun kan passere gennem den
+parallelt med Melderen indskudte store Modstand
+og derfor svækkes. Ved langsom
+Temperaturstigning, som f. Eks. kan fremkaldes af ulmende
+Ild, kan det risikeres, at Kviksølvet ikke synker
+saa langt, at Strømmen afbrydes, idet begge
+Grene da opvarmes temmelig ens. Siemens &
+Halske kombinerer derfor stedse
+Differentialmelderen med en Maksimalmelder, se Fig. 22.
+Fig. 23 og 24 viser Udseendet af de
+færdigmonterede, kombinerede Meldere, set forfra og
+fra Siden, idet dog Beskyttelseshylstret er
+borttaget.
+<i>Brandinspektør V. Bentzon.</i>
+
+<img>Fig. 20.</img>
+
+<img>Fig. 21.</img>
+
+<img>Fig. 22.</img>
+
+<img>Fig. 23.</img>
+
+<img>Fig. 24.</img>
+Automatiske Brandalarmer.
+</chapter>
+
+<chapter name="Brandtit">
+<b>Brandtit,</b> et farveløst Mineral fra Harstigen
+i Värmland; det er sammensat af
+Ca<sub>2</sub>MnAsO<sub>4</sub>.2H<sub>2</sub>O
+og krystalliserer triklint.
+<i>O. B. B.</i>
+</chapter>
+
+<chapter name="Brandvagt (i Bygninger med videre)">
+<b>Brandvagt</b> kaldes Folk, der er udstillede i
+Bygninger ell. paa Steder, hvor Ilds Udbrud
+kan befrygtes, for at opdage Ilden og enten
+ved egen Hjælp slukke den ell. tilkalde Hjælp.
+B. kan være til Stede stadig, i Reglen dog kun
+om Natten, ell. det kan være den paalagt med
+visse Mellemrum at passere igennem den ell.
+de Bygninger ell. Territorier, hvormed den har
+Tilsyn; i sidste Tilfælde anbringes da, for at

@@ -1,0 +1,136 @@
+paa en Knap, der findes ved Døren til
+E.-Rummet. Først naar Stolen er kommet, kan
+Døren aabnes, og man kan træde ind i
+E.-Stolen. Denne er forsynet med en Række
+Trykknapper, een for hvert Stoppested med vedk.
+Paaskrift. Ved kortvarigt Tryk paa en af disse
+Knapper sættes E.-Stolen paa ny i Bevægelse
+og standser paa det ønskede Sted.
+
+I Kupeen anbringes undertiden ogsaa en
+særlig »Stopknap«, ved Hjælp af hvilken E. kan
+standses naar som helst under Farten.
+
+Der kræves ved E. af denne Art mange
+Sikkerhedsforanstaltninger mod Ulykkestilfælde, og
+navnlig er det nødvendigt, at alle Dørene til
+E.-Rummet er saaledes indrettede, at de ikke
+kan aabnes undtagen, naar Stolen staar lige
+ud for dem, og at Stolen ikke kan fjernes fra
+en Døraabning, inden Døren er lukket.
+
+Der gives forsk. Systemer, hvorefter saadanne
+E. bygges. Iflg. Sagens Natur er Anlægget ret
+kompliceret. Her skal kun eksempelvis gives
+Grundtrækkene af en saadan Anordning.
+
+Da det gælder om at betjene Maskinerne paa
+lang Afstand, er <sp>Elektromagneter</sp>
+benyttede i stor Udstrækning. Naar der ved Tryk
+paa, en Knap ledes Strøm til en saadan
+Elektromagnet, tiltrækkes et Anker, og dette kan
+benyttes til at afbryde ell. slutte en elektrisk
+Strøm (i det flg. vil Elektromagneter for
+Kortheds Skyld blive betegnede med <i>M</i>).
+
+Selve E.-Spillet har 2 <i>M</i>, <i>a</i> og <i>b</i>, af hvilke den
+ene slutter (ell. afbryder) Strømmen, naar
+Spillets Motor gaar i den ene Retning (Stolen opad),
+og den anden virker for den modsatte Retning.
+Til Udskydning af Igangsætningsmodstanden og
+til Betjening af Bremsen findes desuden som
+Regel 2 andre <i>M</i> paa Spillet.
+
+Endvidere findes der i <sp>E.-Spillets
+Nærhed</sp>, ell. direkte paa dette en Samling <i>M</i> i et
+Antal, svarende til Stolens Stoppesteder. Idet vi
+betegner disse <i>M</i> ved Tallene: 1, 2, 3, 4, kan
+vi antage, at Nr 3 svarer til 3. Sal. Naar der
+ledes Strøm til en af disse <i>M</i>, vil dennes Anker
+slutte en Strøm til en af de før nævnte <i>M</i>
+paa Spillet <i>a</i> ell. <i>b</i>, og derved sættes Stolen i
+Bevægelse.
+
+Strømmen til Nr 3 kan sluttes med en Knap
+ved Døren paa 3. Sal, ell. ved en tilsvarende
+Knap i Stolen.
+
+Den Strøm, som kræves til at bevæge disse
+<i>M</i>, kaldes <sp>Manøvrestrømmen</sp> og kan
+tages fra en hvilken som helst Strømkilde.
+
+Naar man har trykket paa Knappen med et
+kortvarigt Tryk, og Magneternes Ankre er
+tiltrukne, dannes der samtidig en ny
+Ledningsforbindelse uden om Trykknappen - denne er
+kortsluttet - og Ankrene holdes derved
+fremdeles tiltrukne, indtil Stolen har naaet sit
+Bestemmelsessted; men saa snart
+Manøvrestrømmen brydes, falder samtlige Ankre ned, og
+Spillet standses.
+
+Det fremgaar heraf, at, naar man trykker
+paa Trykknappen ved 3. Sal, paavirkes <i>M</i> Nr 3,
+og denne sætter derefter Spillet i Bevægelse.
+Det maa jo imidlertid bemærkes, at E.-Stolen
+enten kan være over ell. under 3. Sal, naar den
+hidkaldes, og heraf afhænger det, om <i>M</i> Nr 3
+skal lede Strøm til Motoren gennem <i>M</i>.
+
+Dette <sp>kan</sp> afgøres ved, at E.-Stolen paa sin
+Vandring forbi hvert Stoppested paavirker
+Strømomskiftere saaledes, at Strømmen altid
+ledes til den rette af de 2 <i>M</i> - <i>a</i> ell. <i>b</i> - paa
+Spillet, men almindeligvis sker det ved, at man
+lader en i Forbindelse med Spillet siddende
+Maskindel beskrive Stolens Vandring i
+formindsket Maalestok og udføre den fornødne
+Omskiftning, samt afbryde Manøvrestrømmen, naar
+Stolen er naaet til Bestemmelsesstedet.
+
+Endnu skal tilføjes, at de førnævnte
+Sikkerhedsforanstaltninger ved Dørene opnaas paa den
+Maade, at hver Dør forsynes med en
+<sp>mekanisk Laas</sp>, som altid holder den lukket og
+<sp>kun</sp> kan aabnes af selve Stolen, idet den
+passerer vedk. Etage, og tillige med en
+<sp>elektrisk Laas</sp> ɔ: en Afbryder i
+Manøvrestrømmen, som er sluttet, naar Døren er lukket, men
+afbrudt, naar Døren er aaben.
+
+P. Gr. a. denne sidste Laas kan E.-Stolen
+altsaa i Henhold til, hvad forud er udviklet, ikke
+sættes i Gang, inden Døren er lukket, idet
+Manøvrestrømmen først da kan sluttes.
+
+
+<sp>Kontinuerlige E.</sp> anvendes saavel til
+Varetransport (særligt til løse Masser) som til
+Persontransport. I begge Tilfælde bygges de
+efter samme Princip, idet der paa en ell. fl.
+endeløse Kæder ell. Remme anbringes en Række
+Spande, Bægre ell. Kupeer, som tjener til
+Optagelse henh. af Varer ell. Personer.
+
+E. til <sp>Personbefordring</sp> finder særlig
+Anvendelse i offentlige Bygninger og i større
+Forretningshuse, hvor der er stærk og stadig
+Frekvens i begge Retninger, og de er i
+Henseende til Ydeevne, ɔ: i Antallet af befordrede
+Personer i samme Tidsrum, de alm. E.
+betydeligt overlegne.
+
+De bygges i Princippet som ovf. nævnt og
+naturligvis saaledes, at Kupeerne til Optagelse
+af Personerne er ophængte paa en saadan Maade
+i Kæderne, at de under hele Bevægelsen hænger
+i samme lodrette Stilling. De anordnes saaledes,
+at den ene Række Kupeer bevæger sig lodret
+opad og den anden Række lodret nedad ved
+Siden af hinanden og derved passerer
+Adgangsaabningerne i de forsk. Etager. Disse
+Adgangsaabninger er ikke lukkede med Døre, og
+Kupeerne bevæger sig ret tæt op imod Rummets
+Forvæg. Hastigheden er ringe, i Reglen ikke over
+
+<img>Fig. 2.</img>

@@ -1,0 +1,87 @@
+elektriske Ligevægt, i hver af dem skal opstaa to
+Sæt elektriske Svingninger, et Sæt, der har
+Kredsens egen Svingningstid ændret mere ell. mindre
+ved Tilstedeværelsen af den anden Kreds, og et
+Sæt, der har den anden Kreds' Svingningstid
+ligeledes noget ændret. I Fig. 18 ser man ret
+tydeligt de to Sæt i den primære
+Svingningskreds. Først finder man efter Afbrydningen de
+Svingninger, der fremkommer under
+Kortslutningen af Sekundærkredsen ved Gnisten. Efter
+et Par Sving er Gnisten slukket, og nu følger
+nogle lange lave Bølger, overdækkede til at
+begynde med af kortere Bølger. De lange
+Bølger svarer til Primærkredsens egne
+Svingninger, de korte til Sekundærkredsens. Endnu
+tydeligere fremtræder de to Sæt Bølger i Fig. 19,
+hvor Gnisten er slukket straks, ell. hvor
+overhovedet ingen Gnist har været dannet. Paa den
+retlinede opvoksende Del af de sidste
+Oscillogrammer ser man forneden Bølger af
+aftagende Højde. Disse Bølger afspejler simpelthen
+Sekundærkredsens Svingninger, der sættes i
+Gang ved det »Stød«, som Strømslutningen i
+den primære Kreds giver Anledning til.
+
+Fig. 20 og 21 viser endnu to ejendommelige
+Strømkurver, som er optaget ved korte
+Gnistlængder. Bølgerne, som kommer efter
+Afbrydelsen, svinger nu ikke om Strømmen Nul, men
+om en Strømværdi, som efterhaanden nærmer
+sig til Nul. Teorien for I. forudsiger denne
+ejendommelige Skævhed, men gør det tillige
+forstaaeligt, at den kun træder tydeligt frem, naar
+Modstanden i den sekundære Kreds er lille,
+d. v. s., naar Gnisten er kort. Gnisten
+fremtræder da omgivet af en matlysende gulrød
+Kappe, Aureolen, der kan blæses bort fra den
+egl. klare Gnist. Ved saa kort Gnistlængde, at
+ogsaa Strømslutningsspændingen, altsaa den
+relativt lave Spænding, der induceres i
+Sekundærspolen under Strømmens Opvoksen i
+Primærspolen — giver Gnist, er det hele Bundt
+af paa hinanden flg. Gnister ved fortsat Drift
+indhyllet i en fælles gulrød Lyskappe. Fig.
+22 gengiver et Fotografi af Udladningen, der
+har Karakter af en gul Flamme. Fig. 23
+endelig viser i mindre Maalestok et Bundt af lange
+Gnister. Hver enkelt Gnist træder her tydeligt
+og skarpt frem.
+
+B. <sp>Induktorens Konstruktion</sp>.
+<sp>Afbrydere</sp>. I Fig. 24 er vist et noget
+skematisk Billede af en I. Den primære Spole er
+<i>P</i>, den sekundære <i>S</i>. Den primære omslutter en
+Kerne <i>K</i>, dannet af Traade ell. Blik af blødt
+Jern, der er elektrisk isolerede fra hinanden.
+Hvis denne Opdeling ikke anvendtes, vilde en
+meget stor Del af den i Induktionsstrømmen
+opmagasinerede Energi omsættes til Varme i
+Jernkernen, idet den vilde inducere stærke
+elektriske Strømme, saakaldte Hvirvelstrømme,
+i den massive Jernmasse. Hvirvelstrømmene
+vilde kredse om Kernens Akse. De hindres
+altsaa ved, at man splitter Kernen op paa langs.
+Spolen <i>P</i> ligger indesluttet i et lukket
+Ebonitrør <i>R</i>. Paa den ene Ende af dette sidder
+Polskruerne <i>k1</i> og <i>k2</i> for <i>P</i>. Ebonitrøret kan skydes
+ind i den sekundære Spole <i>S</i>. Dennes Vikling
+er fremstillet af et Antal skiveformede
+Enkeltspoler, der er samlede paa et Ebonitrør og for
+Enderne beskyttede ved Ebonitskiver. Ved
+denne Viklingsmaade undgaar man, at Traade,
+der ved Induktionen faar en stor
+Spændingsforskel, kommer tæt sammen, hvad der vilde
+
+<img>Fig. 18.</img>
+
+<img>Fig. 19.</img>
+
+<img>Fig. 20.</img>
+
+<img>Fig. 21.</img>
+
+<img>Fig. 22.</img>
+
+<img>Fig. 23.</img>
+

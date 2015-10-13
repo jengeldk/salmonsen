@@ -1,0 +1,15 @@
+<chapter name="Rodfrugter (Planche)">
+<sp>RODFRUGTER</sp>
+<img></img>
+1. Runkelroe (Foderbede), Barres (<i>Beta vulgaris campestris</i>).
+2. Runkelroe (Foderbede), Eckendorfer (<i>Beta vulgaris campestris</i>)
+3. Sukkerroe (Sukkerbede), (<i>Beta vulgaris saccharifera</i>).
+4. Kaalroe (Rutabaga), Shepherd (<i>Brassica napus rapifera</i>).
+5. Kaalroe (Rutabaga), Bangholm (<i>Brassica napus rapifera</i>).
+6. Turnips, Yellow Tankard (<i>Brassica campestris rapifera</i>).
+7. Turnips, Østersundom (<i>Brassica campestris rapifera</i>).
+8. Turnips, Bullock (<i>Brassica campestris rapifera</i>).
+9. Turnips, Fynsk Bortfelder (<i>Brassica campestris rapiera</i>).
+10. Gulerod, Champion (<i>Daucus arota sativa</i>).
+11. Gulerod, Stensballe (<i>Daucus carota sativa</i>).
+</chapter>

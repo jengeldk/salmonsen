@@ -1,0 +1,34 @@
+<img>Kjøbenhavn efter Ceneralstabens Kort 1853.</img>
+
+<table>
+<td r>1.<td>Ryssenstens<td c>Bast.
+<td r>2.<td>Holcks<td c>—
+<td r>3.<td>Gyldenløves<td c>—
+<td r>4.<td>Schacks<td c>—
+<td r>5.<td>Helmers<td c>—
+<td r>6.<td>Hahns<td c>—
+<td r>7.<td>Ahlefeldts<td c>—
+<td r>8.<td>Stadsoberstens<td c>—
+<td r>9.<td>Rosenborgs<td c>—
+<td r>10.<td>Quitzows<td c>—
+<td r>11.<td>Peuklers<td c>—
+<td r>12.<td>Rosenkrands<td c>—
+<td r>13.<td>Grønlands<td c>—
+<td r>14.<td>Kongens<td c>—
+<td r>15.<td>Prindsens<td c>—
+<td r>16.<td>Prindsessens<td c>—
+<td r>17.<td>Grevens<td c>—
+<td r>18.<td>Dronningens<td c>—
+<td r>19.<td>Christ. Quinti<td c>—
+<td r>20.<td>Charl. Am.<td c>—
+<td r>21.<td>Frederiks<td c>—
+<td r>22.<td>Carls<td c>—
+<td r>23.<td>Vilhelms<td c>—
+<td r>24.<td>Sophie Hedvigs<td c>—
+<td r>25.<td>Ulriks<td c>—
+<td r>26.<td>Løvens<td c>—
+<td r>27.<td>Elefantens<td c>—
+<td r>28.<td>Panthers<td c>—
+<td r>29.<td>Enhorns<td c>—
+<td r>30.<td>Kalvebod<td c>—
+</table>

@@ -1,0 +1,83 @@
+<sp>Telegraf</sp>). Ankeret er da enten ophængt
+under fremspringende Polsko paa
+Elektromagneten ell. ogsaa forbundet med
+Skriveindretningen ved et Led, saaledes at Skriften
+fremkommer, naar Magneten er strømløs. Desuden
+kan et sædvanligt for Arbejdsstrøm indrettet
+Apparat indskydes i Lokalkredsløb fra et
+Relais (s. d.), der slutter Forbindelse til
+Modtagerstationens Lokalbatteri, naar
+Hvilestrømmen paa Linien afbrydes. Morseapparatet
+anvendes ofte uden Skriveanordning, idet
+Tegnene umiddelbart nedskrives med Haanden
+efter Lyden af Ankerbevægelsen. En saadan
+»Lydskriver« (<sp>Sounder</sp>) kan ogsaa indrettes som
+en »Summer«, der afgiver Tegnene som
+kortere ell. længere Toner. — Morsesystemet mødte
+ved sin Indførelse i Europa (omkring 1847) i
+Begyndelsen en Del Modstand, idet man fandt
+Overgangen fra Viser-T. og de allerede kendte
+Tryk-T. til Skrive-T. uheldig p. Gr. a.
+Vanskeligheden ved Anvendelsen af det særlige
+Tegnsystem, der nødvendiggjorde spec.
+Uddannelse som Telegrafist. Man forsøgte derfor at
+fremstille Modtagerapparater, der skrev
+sædvanlige Bogstaver. Flere Forslag til saadanne
+<sp>Bogstavskrive-T.</sp> af Bain, Bonelli o. a.
+baseret paa elektrokemiske Virkninger førte
+ikke til brugbare Resultater. Mest fuldkommen
+var et af Hipp 1851 konstrueret Apparat, hvor
+Bogstaverne blev skrevet af en Pen, der
+mekanisk holdtes i uafbrudt Bevægelse og
+elektromagnetisk ved Hjælp af Strømimpulser af
+passende Antal og Varighed bragtes i Berøring
+med Papiret, saaledes at de til det
+paagældende Bogstav hørende Skrifttræk blev
+nedskrevet. Med Hipp's Apparat kunde
+telegraferes indtil 25 Ord i Min. Indretningen var
+dog meget kompliceret, hvorfor de forsk.
+Bogstavskrive-T. efterhaanden ganske fortrængtes
+af Morsesystemet, der med øvede Ekspedienter
+tillod en lgn. Sendehastighed. — Fordelen ved
+at modtage Telegrammerne direkte i en for
+Publikum læselig Form, saaledes at
+Omskrivning forinden Udsendelsen til Adressaten
+kunde undgaas, bevirkede imidlertid, at mange
+Opfindere fortsatte med Forsøgene paa
+Fremstillingen af brugelige Tryk-T. Indtil 1870
+fremkom ikke mindre end c. 50 forskellige
+Forslag, af hvilke kun Amerikaneren Hughes'
+(1855) har faaet Betydning. For at bringe
+Sendehastigheden i Vejret, erstattede Hughes den
+tidligere trinvise Bevægelse af Typehjulet med
+en uafbrudt Rotation, idet der i St f. en
+Rækkefølge af Strømimpulser for hvert Tegn kun
+udsendtes en eneste, der bevirkede Trykningen
+netop i samme Øjeblik som det paagældende
+Bogstav under Typehjulets Rotation befandt sig
+umiddelbart ud for Papiret. Fig. 6 viser
+Apparatets Udseende (1860). Ved Nedtrykning af en
+Tangent paa Sendeklaviaturet løftes en Stift
+gennem en af Udskæringerne i den cirkulære
+Skive <i>A</i>. Over denne roterer om en lodret
+Aksel Kontaktarmen <i>S</i>, der gennem
+Elektromagneten <i>E</i> og Telegrafledningen er forbundet
+med Elektromagneten i et ganske tilsvarende
+Apparat paa Modtagerstationen. Naar
+Kontaktarmen under Omdrejningen berører den
+løftede Stift, sluttes Forbindelse til Liniebatteriet,
+og der udsendes en kort Strømimpuls paa
+Telegrafledningen. Idet Strømmen passerer
+Elektromagneterne, udløser disse den af
+Drivværket bevægede Trykmekanisme <i>o</i>,
+der bringer Papirstrimlen <i>p</i> i kortvarig
+Berøring med det roterende Typehjul <i>a</i>,
+hvorefter Strimlen flyttes en Bogstavbredde
+frem. Begge Stationer faar saaledes en
+trykt Gengivelse af Telegrammet. For at
+
+<img>Fig. 4. Morsetelegrafapparat.</img>
+
+<img>Fig. 5. Morsetelegrafnøgle.</img>
+
+<img>Fig. 6. Hughes' Tryktelegraf (1860).</img>

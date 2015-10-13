@@ -1,0 +1,130 @@
+i Berlin 1865 etablerede R.-Anlæg indførtes et
+System med Dobbeltrør (65 mm Diameter) og
+komprimeret Luft i Kredsstrømning, hvorved
+Lufttrykket fra Hovedstationens Pumpeanlæg
+benyttedes til Frem- og Tilbagesendelse af
+Hylstre mellem flere Stationer. De gode
+Resultater med disse og med de omtr. samtidig i
+Paris udførte Anlæg medførte, at R.
+efterhaanden vandt større Udbredelse (i Wien 1875,
+München og New York 1876 o. fl.) og findes nu i
+betydelig Udstrækning i de fleste større europ.
+og amer. Byer.
+
+Man skelner ved moderne R. mellem Anlæg
+til Befordring paa kortere Strækninger inden
+for samme Bygning (Hus-R.) og Anlæg med
+underjordiske Ledninger til fjerntliggende
+Stationer (By-R.).
+
+Til Hus-R. benyttes i Reglen Messingrør med
+cirkulært Tværsnit fra 30—70 mm; til særlig
+Brug (f. Eks. for Transport af Bankbøger o. l.)
+anvendes ovale Rør.
+
+Hylstrene, der benyttes under Transporten,
+udføres af Læder, Fiber, Celluloid o. l. eller
+Metal (se Fig. 1). Ved en særlig Art Hus-R.
+for Befordring af ensartede Smaasedler
+benyttes ikke Hylstre, men de paagældende Papirer
+anbringes med en ombukket Kant (Fig. 2)
+direkte i Rørledningen, der har et fladt
+rektangulært Tværsnit. Ledningslængden ved
+Hus-R. overskrider i Reglen ikke 500 m (ved
+Seddel-R. 100 m).
+
+Til By-R., der etableres paa Strækninger af
+indtil 2 à 3 km, benyttes cirkulære Rør af
+Smedejern ell. Staal. Mest anvendt er
+Tværsnit paa 65—80 mm; ved amer. Anlæg for
+Brevbefordring benyttes dog Ledninger af indtil
+3—400 mm's Diameter.
+
+Som Drivkraft benyttes saavel Tryk- som
+Sugeluft enten hver for sig ell. samtidig efter
+forannævnte Kredsstrømningssystem. Ved
+Hus-R. anvendes Over- ell. Undertryk fra 0,1—0,3
+Atm. (ved Seddel-R. noget mindre). By-R.
+kræver betydelig højere Trykdifferens og større
+Luftmængde; i Reglen benyttes her Spændinger
+paa c. 1 Atm. Overtryk og 1/2 Atm. Undertryk.
+Til de større Anlæg benyttes Stempel- eller
+Kapselkompressorer, drevet af Dampmaskiner,
+Forbrændings- ell. Elektromotorer paa indtil
+50—200 H. K. Ved mindre Anlæg (og
+Seddel-R.) anvendes Centrifugalblæsere paa 2—4 H. K.
+Befordringshastigheden er ved Hus-R. fra 6—15
+m i Sek., ved By-R. noget større (indtil 20 m).
+
+Ved omfattende Anlæg af begge Arter
+indrettes en Centralstation (Fig. 3, 4 og 5), hvor
+Forsendelserne samles og omdirigeres ad
+forskellige Ledninger, idet Hylstrene er mærket
+paa en saadan Maade, at
+Centralbetjeningspersonalet umiddelbart kan se, til hvilken Station
+de ankommende Hylstre skal videresendes. Ved
+enkelte nyere Anlæg finder denne Omdirigering
+helt ell. delvis Sted automatisk. Hylstrene er
+da forsynet med et særligt Indstillingsorgan,
+der ved Passagen gennem de i Rækkefølge paa
+samme Rørledning anbragte Stationer kun
+paavirker et enkelt af Modtagerapparaterne,
+saaledes at Forsendelsen udlades paa den
+Station, hvortil Indstillingen er foretaget.
+
+Den totale Ledningslængde for de i Europa
+og Amerika etablerede R.-Anlæg er henimod
+3000 km, hvoraf c. Halvdelen benyttes til
+Fjernbefordring. (<sp>Litt</sp>.: <sp>H. Schwaighofer</sp>,
+»Rohrpost—Fernanlagen« [München 1916]).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Rørpresning">
+<b>Rørpresning</b> foregaar under forsk. Former.
+1) Udpresning af en plastisk Masse gennem et
+rørformet Mundstykke (se <sp>Lerrør</sp> og
+<sp>Strengpresning</sp>); 2) Ehrhardt's Metode
+(se <sp>Presning</sp>); 3) Oppresning af en
+cirkulær Metalplade, kold ell. glødende, til en høj
+Krukke, der behandles videre ved Valsning ell.
+Trækning; paa denne Maade fremstilles ofte
+Kobberrør og i Amerika Kulsyreflasker o. l.,
+vide Staalrør. 4) Cylindriske Rør med Bund,
+fremstillede efter 3) eller paa anden Maade,
+strækkes og indsnævres ved varm Presning,
+idet man anbringer en Dorn i Røret og presser
+begge Dele gennem stadig snævrere Trækhuller.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Rørprøvning">
+<b>Rørprøvning.</b> A. <sp>Metalrør</sp>. Ved
+Modtagelse af Metalrør bruges flg. Prøver: 1)
+<sp>Besigtigelse</sp> af Rørene, Eftermaaling af
+Dimensioner og Form samt Vejning. 2)
+<sp>Ætseprøver</sp> paa en Tværsnitsflade for at afgøre,
+om Røret er sømløst, lapsvejset ell. stuksvejset.
+3) <sp>Bøjelighedsprøver</sp> bruges ved
+svejste Jernrør til Damp-, Gas- og Vandledninger
+for at undersøge Svejsningens Godhed. Røret
+fyldes med fint Sand (for at det ikke skal
+klemmes fladt) og lukkes for Enden med
+Træpropper, hvorefter det bøjes saaledes, at Svejsfugen
+lægges i det vandrette Midterplan, hvor
+Forskydningsspændingerne er størst. Røret
+understøttes paa drejelige Træklodser og belastes i
+Midten med en Trædorn, hvis Radius (maalt
+inderst i Rillen) er 3 ell. 4 Gange
+Rørdiameteren (Fig. 1). Man maaler Bøjningsvinklen i det
+Øjeblik, Svejsfugen aabner sig ell. selve
+Materialet revner. Lgn. Prøver udføres med
+Kobberrør i saavel varm som kold; Tilstand og med
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4—7.</img>

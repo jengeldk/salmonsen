@@ -1,0 +1,140 @@
+2) <sp>Isoterm Sammentrykning</sp>. Vi
+begynder ved samme Begyndelsestryk og
+Temperatur som i 1), altsaa i <i>a</i>, men Cylinderen
+tænkes nu anbragt i en stor
+Kalorimeterbeholder med Vand. Vi trykker atter Luften
+sammen til det halve af det oprindelige Rumfang,
+men denne Gang langsomt, saaledes at Luftens
+Temperatur ikke forøges kendeligt, idet
+Luftmassen faar Tid til at afgive V. til
+Kalorimetret. En Proces, der forløber ved konstant
+Temperatur, kaldes isoterm. Den beskrives her ved
+Kurven 2. Ligesom ved Sammentrykningen
+under 1) er der tilført Luftmassen Arbejde, men
+det er mindre end før, fordi Luftmassens Tryk
+ved den lavere Temperatur er mindre.
+Undersøges den V., som Luftmassen samtidig har
+afgivet til Kalorimetret, viser den sig at være
+ækvivalent med det Luften tilførte Arbejde,
+saaledes at Luftens egen Energiforøgelse Δ<i>U</i>
+beregnet efter Ligningen bliver Nul. Vi kommer
+altsaa til det overraskende Resultat, at
+Luftmassen ved samme Temperatur har samme
+indre Energi i sammentrykket Tilstand som ved
+Atmosfæretryk. En Luftmasse, for hvilken det
+strengt er opfyldt, at dens indre Energi ved
+konstant Temperatur ikke ændrer sig med
+Rumfanget, kaldes en ideal Luftart. Ved
+tilstrækkeligt lavt Tryk bliver alle Luftarter ideale
+(forudsat, at de ikke dissocieres). For Luftarter
+som Brint eller Kvælstof gælder Sætningen med
+Tilnærmelse, selv om vi trykker dem sammen
+til f. Eks. 20 Atmosfærer. Nu er der jo ikke
+Tvivl om, at det vilde være meget lettere at
+faa en stærkt sammenpresset Luft til at udføre
+Arbejde og dermed bevise sin Energi end den,
+der kun har Atmosfæretryk. Vi ser heraf, at
+den indre Energi ikke altid er lige let
+tilgængelig, et Spørgsmaal, som skal behandles
+nærmere under Varmeteoriens 2. Hovedsætning.
+
+3) <sp>Opvarmning ved konstant
+Rumfang</sp>. Vi fortsætter med Luftmassen i
+Sluttilstanden <i>c</i> ovenfor og tænker os, at vi sætter
+Cylinderen over i et andet Temperaturbad, der
+er afpasset saaledes, at Luften netop opnaar
+den Temperatur, de halvt hundrede Grader,
+hvormed første Forsøg afsluttedes, men
+samtidig tænkes Stemplet fastholdt i sin Stilling,
+saa at Luftens Arbejde bliver Nul, da
+Stempelvejen er Nul. Derimod tilføres der Luften V.
+fra Temperaturbadet, og da Arbejdet er Nul,
+maa Luftens Energiforøgelse blive ækvivalent
+med den tilførte Varmemængde. Ved at
+foretage Processerne 2) og 3) i Fortsættelse af
+hinanden — altsaa <i>acb</i> — er vi kommet fra
+samme Begyndelses- til samme Slutningstilstand
+som ved Processen 1). Hver af disse Veje giver
+forskellige Værdier for tilført V. og Arbejde —
+ved 1) var jo f. Eks. <i>Q</i> = 0, hvad det ikke er
+ved 2) og 3) — men de eksperimentelle
+Bestemmelser viser, at skønt <i>J Q</i> og <i>A</i> taget for
+sig er forskellige ad de to Veje, giver de dog
+samme Værdi for <i>J Q</i>—<i>A</i>. Det er dette i alle
+undersøgte Tilfælde bekræftede Forhold, som
+beviser Realiteten af den indre Energi.
+
+<sp>Indre Energi af faste og
+flydende Legemer</sp>. <sp>Kemisk Energi</sp>. Af
+Formlen for den indre Energi fremgaar, at vi
+eksperimentelt kun kan bestemme Energiforskelle,
+medens den indre Energis absolutte Størrelse
+er os ubekendt. Dette er dog ikke nogen
+væsentlig Ulempe, da man ogsaa i Anvendelserne
+af Varmeteorien kun har Brug for at kende
+Energiforskelle. Vi vil tage et kort Overblik
+over, hvorledes den indre Energi af Legemerne
+ændrer sig med deres Tilstand, og begynder med
+Legemet i fast Form. Har Legemet
+Varmefylden <i>c</i> og opvarmes det <i>t</i> Grader, kræves
+pr. g en Varmetilførsel af et Kalorier.
+Energiforøgelsen pr. g af Legemet vil da meget nær
+ogsaa blive <i>ct</i> Kalorier eller <i>Jct</i> Erg, idet det
+ydre Arbejde, som Legemet udfører ved at
+udvide sig med den ydre Lufts Tryk
+(Barometerstanden), paa Grund af den yderst ringe
+Varmeudvidelse er forsvindende lille i Forhold til
+<i>Jct</i>. Med samme Motivering kan Formlen ogsaa
+anvendes ved Vædskers Opvarmning, ligeledes
+bliver Energiforøgelsen ved Smeltning praktisk
+talt ækvivalent med Smeltevarmen. Først naar
+vi kommer til Fordampningen, hvor Legemet i
+Dampform indtager et mangfoldigere Gange
+større Rumfang (for Vanddamp ved 100° f.
+Eks. c. 1600 Gange Vandets Rumfang), og hvor
+det altsaa maa tilbagetrænge et tilsvarende
+Rumfang Luft, bliver det udførte Arbejde en
+væsentlig Korrektion. For Overgangen 1 g Vand
+ved 100° til 1 g mættet Damp ved 100° er det
+udførte Arbejde udtrykt i Kalorier c. 40,
+medens den tilførte Fordampningsvarme er 537
+Kalorier. Dampen har altsaa c. 500 Kalorier
+større Energi end Vædsken. Med Dampen er
+vi naaet over i Lufttilstanden, hvor som
+tidligere nævnt den indre Energi i det væsentlige
+er uafhængig af Rumfanget. Med Temperaturen
+forøges den pr. g med Produktet af
+Temperaturstigningen og Varmefylden ved konstant
+Rumfang. Vi har her fulgt Energiens
+Ændringer ved Legemernes fysiske
+Tilstandsforandringer, de største Forskelle i indre Energi
+forekommer dog, naar Legemerne indgaar kemisk
+Forbindelse med hinanden. Saaledes vil f. Eks.
+Forbrændingen af 1 g Kul til Kultveilte ved
+almindelig Temperatur afgive en Varmemængde
+paa 8137 Kalorier, saa meget mindre er
+Energiindholdet i den dannede Kultveilte.
+
+Vi har stadig talt om <sp>indre</sp> Energi i
+Legemerne, skønt det kunde ligge nær at benævne
+denne Energiform Varmeenergi, eftersom den
+i de fleste Tilfælde optages og afgives som V.
+Grunden dertil er den, at der — som omtalt i
+forrige Afsnit — til en bestemt Forøgelse i
+indre Energi ikke fordres nogen bestemt tilført
+Varmemængde, men kun en bestemt Sum af
+tilført V. og Arbejde (begge maalt i samme
+Slags Enheder), saaledes at Benævnelser som
+Varmeenergi eller Varmeindhold kunde give
+Anledning til Mistydning. I den mekaniske
+Varmeteori taler man derfor kun om V. som tilført
+eller afgivet V., ganske analogt med tilført
+eller afgivet Arbejde, medens det, som derved
+ændres i Legemerne, benævnes indre Energi.
+
+<sp>V. er molekylært uordnet
+Arbejde</sp>. Hvorledes man skal forestille sig den indre
+Energi, giver den mekaniske Varmeteori ingen
+nærmere Oplysning om. Men her træder den
+kinetisk Teori anskueliggørende til og viser,
+at den indre Energi bestaar dels i kinetisk

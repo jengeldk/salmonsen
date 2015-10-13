@@ -1,0 +1,130 @@
+Differentialkvotienten af <i>x</i><sup>n+1</sup> er = (<i>n</i>+1) <i>x<sup>n</sup></i>, følger
+saaledes (for <i>n</i>+1 forsk. fra 0) ∫ <i>x<sup>n</sup>dx</i> = <i>x<sup>n</sup></i>+1 / <i>n</i>+1 +c.
+Hvis et Integral ikke kan udtrykkes ved
+bekendte Funktioner, er det altsaa selv en ny
+Funktion; som Eksempler paa saaledes
+definerede Funktioner kan nævnes de af Abel
+undersøgte Integraler af algebraiske Funktioner.
+Til Integration af Differentialligninger, til
+hvilke saa mange vigtige Problemer i Geometri
+og Mekanik fører, kan der heller ikke gives
+nogen alm. Anvisning, naar undtages enkelte
+specielle Klasser af Ligninger; her saavel som
+ved Integration af forelagte Funktioner kan
+man dog alm. danne Rækkeudviklinger for de
+søgte Integraler. Den største praktiske Bet.
+har I. gennem sin Metode til Bestemmelse af
+<sp>Summer af uendelig mange
+uendelig smaa Størrelser</sp>. En Sum af
+Formen: <i>f(d)</i> (<i>x<sub>1</sub>—a</i>)+<i>f(x<sub>1</sub>)</i> (<i>x<sub>2</sub>—x<sub>1</sub></i>)+<i>f(x<sub>2</sub>)</i>
+<i>(x<sub>3</sub>—x<sub>2</sub>)</i> . . . . +<i>f</i>(<i>x<sub>n</sub></i>)<i>(b—x<sub>n</sub>)</i>, hvor <i>f(x)</i> er en reel
+Funktion af den reelle Variable <i>x</i>, der er endelig
+og kontinuert for alle Værdier af <i>x</i> mellem de
+givne Tal <i>a</i> og <i>b</i>, medens <i>x</i><sub>1</sub><i>x</i><sub>2</sub><i>x</i><sub>3</sub> . . <i>x<sub>n</sub></i> er en
+Række mellem <i>a</i> og <i>b</i> indskudte Tal, vil nærme
+sig til en endelig entydigt bestemt Grænse,
+naar <i>x</i>'ernes Antal forøges i det uendelige,
+medens de Dele, hvori de deler Intervallet fra
+<i>a</i> til <i>b</i>, aftager til <i>o</i>, og denne Grænse kan
+alm. findes ved, at man i et Integral af <i>f(x)</i>
+indsætter først <i>b</i>, saa <i>a</i> og subtraherer
+Resultaterne. Det her sagte vil ogsaa gælde, naar
+<i>f(x)</i> er diskontinuert i et endeligt Antal
+Punkter ell. endog — under visse Betingelser — i
+uendelig mange Punkter. Den nævnte Grænse,
+det <sp>bestemte Integral</sp> af <i>f(x)</i> fra <i>a</i>
+til <i>b</i>, betegnes ved <i>b</i>∫<i>a</i> <i>f(x)dx</i>; Tegnet ∫ var
+opr. et <i>S</i> (Sum), og <i>f(x)dx</i>, hvor <i>dx</i> ligesom i
+Differentialregningen betegner en uendelig
+lille Tilvækst til <i>x</i>, giver den almindelige
+Form for Addenderne. Flerdobbelte bestemte
+Integraler som <i>d</i>∫<i>c</i> <i>b</i>∫<i>a</i><i>f(x,y)dxdy</i> er paa lignende
+Maade Udtryk for de Summer af uendelig smaa
+Størrelser, som man faar ved at kombinere de
+mellem Grænserne indskudte Værdier paa alle
+mulige Maader i <i>f(x,y)</i>. Er <i>f(z)</i> en Funktion af
+en kompleks Variabel <i>z=x+iy</i>, defineres
+<i>b</i>∫<i>a</i> <i>f(z)dz</i> paa lgn. Maade som ovf., idet man i
+en Plan, hvis Punkter fremstiller de
+komplekse Tal (s. d.), vælger en Bue med
+Endepunkter i de til <i>a</i> og <i>b</i> svarende Punkter og
+indskyder et i det uendelige voksende Antal
+Punkter paa Buen. Forsk. Valg af Buen giver
+Værdier for Integraler, som enten er lige store
+ell. afviger fra hinanden ved Multipla af visse
+ved Integralet bestemte Tal. Mangfoldige
+vigtige Størrelser er definerede som Summer af
+uendelig smaa Addender, saaledes Buelængder
+(som Grænser for omskrevne brækkede Linier),
+Rumfang, krumme Arealer (som Grænser for
+omskrevne Polyederflader), Momenter,
+Inertimomenter. Man maa ofte for at bringe disse
+Summer paa den Ovenstaaende Form ombytte
+Addenderne med andre, hvis Afvigelser fra de
+opr. er uendelig smaa i Sammenligning med
+disse; derved vil Summens Værdi ikke
+forandres. Et simpelt Eksempel er det, der ledede
+til I., nemlig Bestemmelsen af Arealet <i>ABCD</i>,
+begrænset af Kurven med Ligningen <i>y—f(x)</i>,
+Ordinaterne <i>AB</i> og <i>DC</i> svarende til
+Abscisserne <i>a</i> og <i>b</i> samt Abscisseaksen. Man kan dele
+dette Areal i Strimler ved indskudte Ordinater
+og derpaa i disse Strimlers Sum ombytte hver
+Strimmel som <i>MPQS</i> med Rektangelet <i>MPNS</i>,
+der netop er = <i>f</i>(<i>x</i><sub>4</sub>) (<i>x</i><sub>5</sub>—<i>x</i><sub>4</sub> idet <i>x</i><sub>4</sub> og <i>x</i><sub>5</sub>
+er Abscisserne til <i>P</i> og <i>Q</i>. Grænsen for den
+saaledes ændrede Sum, altsaa <i>b</i>∫<i>a</i> <i>f(x)dx</i>, vil være
+Udtrykket for Arealet <i>ABCD</i>. Til
+approksimativ Beregning af bestemte Integraler haves
+Tilnærmelsesformler (se <sp>Simpson's Formel</sp>)
+og mek. Metoder (se <sp>Planimeter</sp>). Allerede
+Archimedes foretog f. Eks.
+Rumfangsbestemmelser ved Deling i uendelig smaa Dele og
+disses ovf. omtalte Ombytninger med andre, men
+kunde kun ved særegne Kunstgreb udføre
+Summationen, og det samme gjaldt endnu de store
+Matematikere, der i 17. Aarh. banede Vejen for
+Infinitesimalregningen, Keppler, Cavalieri,
+Fermat, Pascal, Wallis. Den vigtige Opdagelse, at
+Kvadraturen ɔ: Arealberegningen er den
+omvendte Operation af Differentiationen og altsaa
+kan udføres ved Integration, skyldes Newton,
+der ogsaa foretog Integrationer ved at udvikle
+Funktionen under Integraltegnet i Række (se
+dog <sp>Barrow</sp>. I.). Leibniz indførte Tegnet ∫,
+og det var ham og Newton, der først
+opstillede Regler for Integration og derfor maa
+regnes for I.'s Skabere. De senere store
+Matematikere, saasom Bernoulli'erne, Euler,
+d'Alembert, Lagrange, Abel, Jacobi o. m. a., har alle
+knyttet deres Navne til vigtige Fund inden for
+I. Overgangen fra Betragtningen af det
+bestemte Integral som et Areal til den ovf. givne
+almindeligere algebraiske Definition skyldes
+Riemann; et mere omfattende Integralbegreb
+er i den nyeste Tid opstillet af Lebesgue.
+Endelig har Gauss og Cauchy udvidet I. til
+komplekse Variable og derved skabt Grundlaget for
+den moderne Funktionsteori. Mellem de
+Matematikere, der har udviklet Læren om
+Differentialligningers Integration, maa fremhæves
+Cauchy og Lie. (<sp>Litt</sp>.: Som et nyt og meget
+omfattende Værk over I. kan nævnes <sp>Jordan</sp>,
+<i>Cours d'analyse de l'École Polytechnique</i> [3.
+Opl. 1900]).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Integrator">
+<b>Integrator</b> (mat.), et Apparat til mek.
+Udførelse af Integrationer (se <sp>Planimeter</sp>).
+En eng., mere sammensat I., ved hvilken man
+kan danne Rækkeudviklinger for grafisk
+fremstillede Funktioner, findes beskrevet i »Tidsskr.
+f. Matematik« 1888—89.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="integrere">
+<b>integrere</b> (lat.), se <sp>Integralregning</sp>.
+</chapter>

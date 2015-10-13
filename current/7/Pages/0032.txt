@@ -1,0 +1,144 @@
+ringe Tilsætning af den ene Bestanddel bevirke
+en meget betydelig Formindskelse i
+Ledningsevnen, og disse Legeringers e. L. har da tillige
+en meget lille Temperaturafhængighed. Til
+denne Gruppe hører f. Eks. Legeringer af Guld og
+Sølv og tillige alle de praktisk vigtige
+Legeringer, som anvendes til Modstandsmateriale
+(Manganin, Konstantan o. s. v., se Tabellen); de er
+særlig anvendelige til Normalmodstande p. Gr.
+a. deres lille Temperaturafhængighed, og til
+andre Modstande p. Gr. a. deres store
+Modstandsfylde, saa at der ikke kræves alt for lange ell.
+tynde Traade. Kan endelig Bestanddelene
+danne kemiske Forbindelser med hinanden, og
+blandes de i det rette Forhold, faas betydelig større
+Modstand end for de rene Metaller, men omtr.
+samme Temperaturafhængighed; blandes de i
+andre Forhold, kan Resultaterne blive meget
+indviklede.
+
+<sp>Modstandsmaaling</sp>. Efter Ohm's Lov
+kan en Modstand maales, ved at man maaler
+Spænding og Strøm, f. Eks. paa henh. et
+Volt- og et Ampèremeter. Efter lgn. Principper har
+man konstrueret direkte visende <sp>Ohmmetre</sp>.
+Skal der opnaas større Nøjagtighed, vil man i
+Reglen være henvist til Sammenligning med en
+bekendt Modstand, og da Kvægsølvmodstande
+ikke er praktiske, bruges ved de alm. Maalinger
+<sp>Normalmodstande</sp>. Disse udføres
+hyppigst som Modstandskasser (se Fig. 1 og 2), hvor
+de enkelte Modstande ind- og udskydes ved
+Propper. <i>A</i> <i>B</i> <i>C</i> er Metalstykker, der er anbragte
+paa Ebonit og forbundne ved Traadene 1 og 2
+med kendte Modstande. Traadene er nu altid af
+Manganin; de lægges dobbelt (bifilart) og vikles
+paa Ruller. Sendes en Strøm ind ved <i>A</i> og ud
+ved <i>C</i>, og tages Proppen 1 ud, nødes
+Strømmen til at gaa gennem Modstanden 1, medens
+den, naar Proppen er inde, praktisk talt kun
+gaar gennem denne, hvis Modstand er
+forsvindende. I Modstandskasser findes Modstande paa
+0,1, 0,2, 0,2, 0,5, 1, 2, 2, 5 Ohm o. s. v. Ved meget
+nøjagtige Maalinger bruges enkelte
+Normalmodstande (Fig. 3); denne Type anvendes altid
+til de mindste Modstande 0,01-0,0001 Ohm;
+Modstandene er her af Manganinblik. Ved selve
+Sammenligningen mellem den ubekendte og bekendte
+Modstand bruges særlige Anordninger,
+<sp>Wheatstone's Bro</sp>, <sp>Thomson's Bro</sp>,
+<sp>Differentialgalvanometret</sp> o. s. v. De
+særlige Forhold ved Maaling af Vædskers
+(Elektrolyters) Modstand er omtalt i <sp>Elektrolyters
+Ledningsevne</sp>.
+
+Modstandsmaaling hører til de nøjagtigste
+fysiske Maalinger; 2 nær lige store Modstande
+kan sammenlignes saa nøjagtigt, at Fejlen bliver
+mindre end 1 Milliontedel af deres Værdi.
+
+Andre og mangfoldige forsk. Typer af
+Modstande anvendes til Regulering af Strømstyrker
+(Regulermodstande) og til Opvarmning (i
+Kogeapparater, elektriske Strygejern, til
+Husopvarmning), i elektriske Ovne o. s. v. Talrige tekniske
+og videnskabelige Apparater er baserede paa
+Maaling ell. Anvendelse af Forandring i den e.
+L. under de forskelligste Paavirkninger. I
+<sp>Modstandstermometret</sp>, det nøjagtigste
+Termometer, og det, der nu anvendes som
+Grundlag for den praktiske
+Temperaturdefinition, bestemmes Temperaturen ved Maaling af
+en Platintraads Modstandsforandringer. I
+<sp>Bolometret</sp> maales de ringe Energimængder,
+der indeholdes i Varmestraaling, ved at den
+falder paa en sværtet Strimmel Platinfolie, hvis
+Modstandsændring ved Opvarmningen maales.
+Krystallinsk <sp>Selens</sp> Modstand formindskes
+stærkt, naar det belyses, sandsynligvis fordi
+det under Lysets Paavirkning omdannes til en
+bedre ledende Modifikation; herpaa er en Form
+for Billedtelegrafi og en optisk Telefon grundet.
+I <sp>Mikrofonen</sp> benyttes
+Modstandsforandringer i Kulpulver, der underkastes skiftende
+Tryk fra den Membran, som Talen sætter i
+Svingninger. Vismuts Modstand forøges ret
+stærkt, naar det anbringes i et Magnetfelt;
+herpaa er grundet en Metode til Maaling af et
+Magnetfelts Styrke (Vismutspiral). Manganins
+Modstand vokser med Trykket; herpaa grundes
+et Manometer til Maaling af meget høje
+Tryk.
+
+Tabel over Modstandsfylder ved 18° C.
+
+I Tabellen er under <i>A</i> i St f. selve
+Modstandsfylden ρ angivet en 10000 Gange saa stor Værdi,
+altsaa Modstanden i Ohm i en Traad af Stoffet
+1 m lang og 1 mm<sup>2</sup> i Tværsnit. Under <i>B</i> er
+angivet, hvor mange Promille Modstanden vokser
+pr Grads Temperaturstigning. Et ÷ her betyder,
+at Modstanden aftager med voksende Temp.
+Modstanden i Traade af andre Dimensioner
+beregnes let. F. Eks. har en Kobbertraad af 2
+<table>
+<td v2>mm<sup>2</sup> Tværsnit<td c>0,017<td v2>= 0,0085 Ohm pr m, og
+<td c>2
+</table>
+altsaa f. Eks. pr km 8,5 Ohm.
+
+<table>
+<td><td c>A<td c>B
+<td>Sølv<td>0,016<td>4
+<td>Kobber<td>0,017<td>4
+<td>Guld<td>0,023<td>4
+<td>Platin<td>0,108<td>3,9
+<td>Aluminium<td>0,032<td>3,6
+<td>Zink<td>0,061<td>3,7
+<td>Jern<td>0,09-0,15<td>indtil 6
+<td>Staal<td>0,15-0,5<td>
+<td>Vismut<td>1,2<td>4,2
+<td>Kvægsølv<td>0,958<td>0,92
+<td>Konstantan <footnote>60% Kobber og 40% Nikkel.</footnote><td>0,49<td>÷0,03 til +0,05
+<td>Manganin <footnote>84% Kobber, 12% Mangan og 4% Nikkel.</footnote><td>0,42<td>højst 0,03
+<td>Nysølv<td>0,16-0,40<td>0,6 til 0,23
+<td>Messing<td>0,07-0,09<td>
+<td>Retortkul<td>50<td>÷0,02 til ÷0,8
+<td>Bedstledende Svovlsyre<td>13500<td>÷16
+<td>Bedstledende Zinksulfat-Opløsning<td>208000<td>÷26
+<td>Ebonit o. l. gode Isolatorer<td>10<sup>16</sup>-10<sup>18</sup><td>
+</table>
+
+De for Metallerne anførte Værdier gælder i
+Alm. for rene, bløde Metaller.
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="elektrisk Lodning">
+<b>elektrisk Lodning.</b> Ved e. L. forstaas i
+Almindelighed Lodning med en elektrisk
+opvarmet Loddekolbe, idet de Metoder, hvorved
+Loddested og Loddemateriale opvarmes direkte
+ved Hjælp af den elektriske Strøm, i Alm.
+

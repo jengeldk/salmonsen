@@ -1,0 +1,191 @@
+Ligningen <i>r</i> = <i>f</i> (Θ, ψ) vil, hvis Polen ligger inden
+for Fladen, fremstilles ved ∫2π o ∫π 1/2 o [(Θ,ψ)]<sup>3</sup> sinΘ
+<i>d</i>Θ · <i>d</i>ψ. Med Hensyn til selve Udtrykkene
+for de forsk. Rumfang henvises til Artiklerne
+om de respektive Legemer.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Kubba">
+<b>Kubba</b> (arab.) betyder hvælvet Bygning,
+Hvælving og bruges særlig som Betegnelse for
+de i hvælvet Form opførte
+Gravmindesmærker. Det er det samme Ord, som i en anden
+Bet. og med vedføjet Artikel gennem det sp.
+<i>alcoba</i> har udviklet sig til vort <i>Alkove</i>, egl.
+Tilbygning, tilbygget Rum.
+<i>J. Ø.</i>
+</chapter>
+
+<chapter name="Kube ell. Kuge">
+<b>Kube</b> ell. <sp>Kuge</sp> kaldes den tenformede,
+af Vidier flettede Kurv med tragtformet
+Indgang (Kalv) i den ene ell. i begge Ender, som
+bruges til Aalefangst; den anvendes enten som
+Afslutning paa Aaleruser, hvilken Brug dog er
+aftaget meget i de senere Aar, ell. som
+selvstændigt Fiskeredskab, hvor Ruser vanskeligt
+kan anbringes (Havne, Bornholms Klippekyst).
+<i>C. V. O.</i>
+</chapter>
+
+<chapter name="Kubebeolie">
+<b>Kubebeolie,</b> d. s. s. <sp>Cubebeolie</sp>.
+</chapter>
+
+<chapter name="Kubeber">
+<b>Kubeber,</b> se <sp>Peber</sp> og <sp>Peberfamilien</sp>.
+</chapter>
+
+<chapter name="Kubelik, Jan">
+<b>Kubelik,</b> <sp>Jan</sp>, bøhmisk Violinvirtuos, f. i
+Michl ved Prag 5. Juli 1880, studerede under
+Sevčik ved Prag-Konservatoriet og har
+foretaget omfattende Koncertrejser baade i den gl.
+og den ny Verden.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Kubera">
+<b>Kubera,</b> se <sp>Kuvera</sp>.
+</chapter>
+
+<chapter name="kubere">
+<b>kubere</b> (mat.) et Tal vil sige at opløfte det
+til 3. Potens (se <sp>Kubus</sp>); at k. et Legeme er
+at bestemme dets Rumfang (se <sp>Kubatur</sp>).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Kubetshi">
+<b>Kubetshi</b> [ku'bæt∫<sub>i</sub>], <sp>Kubatshi</sp>, et lille
+Kaukasus-Folk, hørende til Lesghierne, bor i
+Souleukas Dal i Prov. Daghestan. Den største
+By er K. med c. 6000 Indb., fabrikerer Klæde,
+Sjaler, Vaaben etc.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Kubikenhed">
+<b>Kubikenhed,</b> d. s. s. <sp>Rumfangsenhed</sp>,
+se <sp>Rumfang</sp>.
+</chapter>
+
+<chapter name="Kubikindhold, Kubikmaal">
+<b>Kubikindhold, Kubikmaal</b> (mat.). Et
+Legemes K. er deits Rumfang udtrykt ved en kubisk
+Rumfangsenhed.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Kubikrod">
+<b>Kubikrod</b> (mat.) af et Tal <i>N</i> kalder man et
+Tal, som opløftet til 3. Potens giver <i>N</i>; den
+betegnes ved ∛<i>N</i>. Er <i>N</i> reel, har K. altid een
+og kun een reel Værdi, hvis Fortegn er det
+samme som <i>N</i>'s; K. er irrational, medmindre
+<i>N</i> er den 3. Potens af et helt Tal ell. en Brøk.
+Tilnærmelsesværdier til ∛<i>N</i> kan beregnes ved
+Logaritmer ell. ved flg. Metode, hvor <i>N</i>
+foreløbig forudsættes positiv hel. Betegnes det hele
+Tal i K. ved 10<i>a</i> + <i>b</i>, hvor <i>b</i> er Enernes
+Ciffer og <i>a</i> Tallet skrevet med de foranstaaende
+Cifre, skal Ligningen <i>N</i> = (10<i>a</i> + <i>b</i>)<sup>3</sup> + <i>R</i> =
+1000 <i>a</i><sup>3</sup> + 300 <i>a</i><sup>2</sup> <i>b</i> + 30 <i>ab</i><sup>2</sup> + <i>b</i><sup>3</sup> + <i>R</i> søges
+tilfredsstillet saaledes, at <i>a</i> er positiv hel, <i>b</i> et
+Ciffer, <i>R</i> positiv, idet tillige <i>R</i> skal blive
+negativ, hvis <i>b</i> forhøjes med en Enhed, <i>a</i><sup>3</sup> er
+Kubiktallet nærmest lavere end det Tal, <i>N</i><sub>1</sub>,
+der faas ved af <i>N</i> at bortkaste de 3 sidste
+Cifre; kan <i>a</i><sup>3</sup> ikke bestemmes ved en
+Kubiktalstavle, maa man behandle <i>N</i><sub>1</sub>, som her <i>N</i>
+o. s. v. <i>b</i> maa være mindre end <i>N</i> — 1000 <i>a</i><sup>3</sup> / 300 <i>a</i><sup>2</sup>.
+Man prøver med det nærmest lavere Ciffer;
+gør det <i>R</i> negativ, prøver man med det næste
+under dette o. s. v. Regningen kan for <i>N</i> =
+834516 opstilles saaledes, idet Nuller paa
+Tallenes sidste Pladser bortkastes:
+<table>
+<td r>∛8341516<td>=<td>94
+<td r>7291<td>=<td>1000 <i>a</i><sup>3</sup>
+<td r>105 516<td>=<td><i>N</i> — 1000 <i>a</i><sup>3</sup>
+<td r>(243<td>=<td>300 <i>a</i><sup>2</sup>)
+<td r>972<td>=<td>300 <i>a</i><sup>2</sup> <i>b</i>
+<td r>432<td>=<td>30 <i>ab</i><sup>2</sup>
+<td r>64<td>=<td><i>b</i><sup>3</sup>
+<td r>101 584<td>=<td>
+<td r>3932<td>=<td><i>R</i>.
+</table>
+
+Vil man finde ∛<i>N</i> med <i>p</i> Decimaler, maa man
+uddrage K. af <i>N</i> efterfulgt af 3<i>p</i> Nuller paa
+ovenangivne Maade og i Resultatet afskære <i>p</i>
+Decimaler. Er <i>N</i> en Decimalbrøk, tilføjer man
+Nuller, indtil Decimalantallet bliver et
+Multiplum 3<i>p</i> af <i>p</i>, uddrager K. uden Hensyn til
+Kommaet og afskærer <i>p</i> Decimaler i
+Resultatet. Om K.'s imaginære Værdier henvises til
+<sp>komplekse Tal</sp> og om K.'s Behandling i
+øvrigt til <sp>Rod</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Kubiktabel">
+<b>Kubiktabel</b> er en Tabel over Cylindres ell.
+retvinklede, 4-sidede Prismers Rumindhold;
+aim. er der i en K. dobbelt Indgang: vandret
+for Tværmaalet og lodret for Længden; K.
+bruges meget i Skovbruget, Træhandelen og
+Trævarefabrikationen til at give Oplysning om
+Træstammers ell. Tømmerstykkers Indhold af
+Ved.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Kubiktal">
+<b>Kubiktal</b> (mat.) er de 3. Potenser af
+Talrækkens hele Tal.
+</chapter>
+
+<chapter name="Kubin, Alfred">
+<b>Kubin</b> ['ku.bi.n], <sp>Alfred</sp>, tysk-østerr. Tegner
+og Illustrator, f. 1877 i Böhmen. Han blev
+uddannet paa Salzburg Kunstindustriskole og i
+München (under Schmitt & Raute) og vakte megen
+Opsigt 1903 med en Mappe med Tegninger af
+stærkt samfundskritisk Art. I disse Arbejder
+har han udfoldet de Egenskaber, der saa
+nogenlunde kendetegner ogsaa hans senere Værker:
+en frodig Fantasi, Idérigdom og digterisk
+Kraft, som hans formende Evne ikke staar
+Maal med. Senere blev han især Illustrator og
+viste her Paavirkning fra vidt forsk. Side;
+Beardsley, Klinger, Rops m. fl., derefter
+Slevogt; han illustrerede især Poe, ogsaa sit eget
+Værk »Die andre Seite«, »Profeten Daniel« m.
+v. Bl. Tegninger og Raderinger kan nævnes
+Suiten »Totentanz«. Paa Deutsche Werkbunds
+Udstilling 1918 i Kbhvn saas en Del
+Raderinger af K.: Tigre, Tyv m. v. (<sp>Litt</sp>.: <sp>H.
+Esswein</sp>, »A. K.« [1919]).
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Kubinskoje">
+<b>Kubinskoje</b> ['kub<sub>i</sub>nsk<sub>å</sub>j<sub>ə</sub>], <sp>Osero</sp>, Sø i det
+nordlige Rusland, Guv. Vologda, er 435 km<sup>2</sup> stor
+og har Afløb gennem Dvina's vestlige Kildeflod
+Suchona. Søen er meget lavvandet, saa at der
+kun er et smalt sejlbart Løb i Midten; den
+spiller derfor kun ringere Rolle for Trafikken, men
+større ved sin store Fiskerigdom.
+<sp>K.-Kanalen</sp> forbinder Dvinas og Volgas Flodsystemer.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="kubisk">
+<b>kubisk</b> (mat.), terningformet. Et Polynomium
+ell. en Ligning af 3. Grad kaldes k. (se
+<sp>Kubus</sp>).
+<i>Chr. C.</i>
+</chapter>

@@ -1,0 +1,150 @@
+<chapter name="Centralantændelse">
+<b>Centralantændelse</b> ved Metalpatroner til
+Bagladegeværer bestaar deri, at Tændsatsen er
+anbragt i en Fænghætte, der udvendig fra er
+indsat i et Fænghætteleje i Bunden af
+Patronhylstret. Fænghættelejet er formet som en lille
+Ambolt, mod hvilken Slagstiften ved Skuddets
+Affyring bringer Tændsatsen til Eksplosion, og
+fra hvis Fod der gennem Patronens Bund er
+udboret Ildkanaler, gennem hvilke Eksplosionen
+forplantes ind til Krudtladningen. C. har p. Gr.
+a. Antændelsens større Hurtighed og Sikkerhed
+og Tændsatsens nøjagtigere bestemte Størrelse
+nu overalt fortrængt <sp>Randantændelse</sp>
+(s. d.).
+<i>(E. P.). C. Q.</i>
+</chapter>
+
+<chapter name="Centralasien">
+<b>Centralasien,</b> et til forsk. Tider meget forsk.
+opfattet geografisk Begreb, betegner hos Karl
+Ritter det egl. Asien i Modsætning til Halvøerne
+og Øerne, hos Alexander Humboldt
+Strækningerne mellem Altaï og Himalaya og hos russ.
+Forskere Landene Turan og Østturkestan. En
+videnskabelig, om end maaske noget ensidig
+Afgrænsning er i den nyeste Tid forsøgt af F. v.
+Richthofen paa Grundlag af de hydrografiske
+Forhold; i sit Værk over Kina (1877) definerer
+han C. som den Del af det østasiatiske Højland,
+der i den sidste geologiske Periode ikke har
+haft Afløb til Havet. Fra dette Synspunkt faar
+C. en Størrelse af c. 6,5 Mill. km<sup>2</sup>, og Grænserne
+bliver mod N. Altai, mod Ø. Khinganbjergene
+og Vandskellet for de kinesiske Floder
+Jang-tse-kiang og Hoangho, mod S. Tibets Højland, mod
+V. Pamir. Som Modsætning til det egl. C.
+opstiller han endvidere de <sp>periferiske</sp> Egne ɔ:
+de Landstrækninger, hvis Vand enten har Afløb
+til Havet ell. til saadanne Indsøer, der indtil en
+geologisk set ny Tid har været Dele af Havet
+(Kaspiske Hav, Aralsøen). Det indre af C.
+bestaar af talrige, mere ell. mindre skilte
+Lavninger. Da det ved Forvitringen frembragte
+Materiale ikke skylles bort, men samler sig i
+Lavningerne, er C. Genstand for et rask
+fremskridende Nivellement. Under Indflydelse af det
+tørre Klima er Steppe- og Ørkennaturen næsten
+overalt fremherskende, Plante- og Dyrelivet er
+ringe, og de faa Beboere lever enten som
+Oasebeboere ved Bjergenes Fod ell. som Nomader.
+<i>(C. C. C.). M. V.</i>
+</chapter>
+
+<chapter name="Centralbanegaard (se Banegaard)">
+<b>Centralbanegaard,</b> se <sp>Banegaard</sp>.
+</chapter>
+
+<chapter name="Centralbevægelse">
+<b>Centralbevægelse,</b> den Bevægelse, et Legeme
+udfører, naar det kun paavirkes af en Kraft,
+<sp>Centralkraften</sp>, der er
+rettet mod et fast
+Punkt (Centrum).
+Lad dette Punkt
+være <i>O</i>, og lad
+Legemet være ved
+<i>A</i> og have en
+Hastighed, der i
+Øjeblikket er rettet
+mod <i>B</i>.
+Tiltrækningen fra <i>O</i> vil
+da aldrig kunne
+bringe Legemet
+ud af den Plan
+(Figurens Plan),
+der er bestemt ved Linien <i>AB</i> og Punktet <i>O</i>; den
+Bane, Legemet kommer til at gennemløbe,
+bliver følgelig <sp>plan</sp>. Forbindelseslinien mellem
+Legemet og <i>O</i> kaldes <i>Radius vektor</i> ell.
+<sp>Ledestraalen</sp>; om denne Linie kan bevises, at
+den <sp>i lige lange Tider beskriver
+lige store Arealer</sp>, altsaa, at de
+Arealer, den beskriver, forholder sig som de dertil
+anvendte Tider, hvilken Sætning, anvendt paa
+Planetbevægelsen, kaldes Kepler's anden Lov.
+For at bevise dette, kan man tænke sig, at
+Kraften, i St f. at virke stadig, virker som en
+Række Stød, der følger efter hverandre med
+lige store Tidsmellemrum. Lad <i>AB</i> være den
+Vej, Legemet vilde tilbagelægge i en saadan
+lille Tidsdel, om det var overladt til sig selv,
+og lad det i <i>A</i> faa et Stød rettet mod <i>O</i>, der
+giver det en Hastighed, som i samme Tid vilde
+føre det til <i>C</i>. Legemet vil da p. Gr. a. de to
+samvirkende Hastigheder, det har, gennemløbe
+Diagonalen <i>AD</i> i Parallelogrammet <i>ABDC</i>. Blev
+Legemet nu overladt til sig selv, vilde det i
+den næste Tidsdel gaa fra <i>D</i> til <i>E</i>, og da
+Hastigheden ikke vilde forandres, er <i>DE</i>=<i>AD</i>.
+Men i <i>D</i> faar det et nyt Stød, der giver det en
+Hastighed, som i samme Tid vilde føre det til
+<i>F</i>, hvorfor dets virkelige Bane bliver
+Diagonalen <i>DG</i> o. s. v. Men Trekanten med <i>AD</i> til
+Grundlinie og <i>O</i> til Toppunkt er lige stor med
+den Trekant, der har, <i>DE</i> til Grundlinie og
+ligeledes <i>O</i> til Toppunkt, fordi <i>AD</i> og <i>DE</i> er lige
+store. Den sidste Trekant <i>ODE</i> er atter lige
+stor med Trekanten <i>ODG</i>, fordi de har <i>OD</i> til
+fælles Grundlinie og lige store Højder, eftersom
+<i>GE</i> er parallel med <i>OD</i>. Følgelig er Trekanten
+<i>OAD</i>, der blev beskrevet i den første Tidsdel,
+lige stor med <i>ODG</i>, der beskreves i den anden,
+o. s. fr. for alle Trekanter, der beskrives i de flg.
+lige store Tidsdele. Da Sætningen gælder, hvor
+smaa Tidsrummene end tages, maa den ogsaa
+gælde, naar Kraften virker uafbrudt; i dette
+Tilfælde gaar den nys betragtede, af rette
+Linier sammensatte Bane over til at blive krum,
+som den altid er ved de virkelige <i>C</i>. For en
+Planet, der drejer sig om sin Akse samtidig
+med, at den gaar rundt om Solen, kan
+Arealsætningen selvfølgelig ikke anvendes paa
+Planetens enkelte Dele, men den gælder for
+Planetens Midtpunkt (Tyngdepunkt). For Maanen
+og Jorden, der i Forening kredser om Solen,
+gælder den med stor Tilnærmelse om de to
+Kloders fælles Tyngdepunkt.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Centralbygning">
+<b>Centralbygning</b> kaldes en Bygning, som
+ikke er langagtig, men er grupperet omkr. et
+Midtpunkt; den kan være rund, firkantet ell.
+mangekantet, den kan dækkes af et Tag ell. en
+Kuppel. Dens Ejendommelighed er det sluttede
+i Anlægget og det symmetriske i Opbygningen.
+C. kendtes allerede i Oldtiden (Pantheon i Rom,
+Termerne, Mausoleerne), blev hyppig anvendt i
+den kristelige Kunst til Daabs-, Grav- o. a.
+Kapeller, sjældnere til store Kirker p. Gr. a.
+konstruktive Vanskeligheder (dog kan nævnes
+Sofiekirken i Konstantinopel, Münster i Aachen,
+Peterskirken i Rom før Langhusets Tilbygning
+etc.). I den verdslige Bygningskunst findes C.
+anvendte til Villaanlæg i den ital. Renaissance,
+f. Eks. Villa Rotonda ved Vicenzia,
+Udstillingsbygninger, Cirkusbygninger, Panoramaer etc. i
+Nutiden. I Sverige findes en Række moderne

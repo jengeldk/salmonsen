@@ -1,0 +1,138 @@
+Perforatorstemplerne. Efter Perforeringen indsættes
+Strimlen i en automatisk Skrivemaskine, <sp>Printer</sp>,
+der ligeledes arbejder med Trykluft. Printerens
+Virkemaade er temmelig kompliceret, men
+beror i Hovedsagen paa, at en Del oven paa
+hinanden liggende forskydelige Linealer ved Hjælp
+af »Søgernaale«, der indgriber i Hullerne paa
+den perforerede Strimmel, indstilles paa en
+saadan Maade, at forsk. Udskæringer i
+Linealerne tilsammen danner en Kanal,
+hvorigennem Passagen aabnes for Trykluften. Denne
+paavirker, da et Stempel, der atter bevæger
+den paagældende Typearm paa Skrivemaskinen,
+som saaledes Tegn for Tegn omsætter den
+perforerede Tekst til Bogstavtryk (Fig. 11 d). I
+nyere Apparater (Fig. 14) sker Omsætningen
+ad ren mek. Vej uden Anvendelse af
+Trykluft. Da Creed-Systemet arbejder med
+Strimler ganske lgn. Wheatstone's, kan det uden
+videre indføres paa Forbindelser, hvor
+sidstnævnte System i Forvejen er indarbejdet. Det
+benyttes bl. a. her i Landet paa Forbindelserne
+til England, Sverige og Norge.
+<sp>Murray-Systemet</sp> anvender derimod et fra Wheatstone-
+(d. v. s. Morse-) alfabetet afvigende Tegnsystem,
+hvor samtlige Bogstaver og Tal m. v. er af ens
+Længde og hver dannet af 5 Strømenheder,
+hvoraf ved forsk. Kombinationer af positive og
+negative Enheder i alt kan sammensættes 2<sup>5</sup> =
+32 Tegn. Den perforerede Murraystrimmels
+Udseende fremgaar af Fig. 11 e, hvor Tegnenes
+ensartede Længde er anskueliggjort ved
+Tilføjelse af de punkterede Linier.
+Murray-Transmitteren er indrettet paa lignende Maade som
+Wheatstone's (Fig. 12), dog kun med en enkelt
+Naal, svarende til den ene Hulrække i Strimlen.
+I Modtagerapparatet paavirker Strømmene et
+polariseret Relais, der slutter Forbindelse til en
+Elektromagnet, hvis Ankerbevægelse udløser
+et af en Elektromotor drevet
+Perforeringsstempel. Med samme Antal Strømenheder pr Min.
+bliver <i>Speed</i>'et med Murrayalfabetet væsentlig
+højere end ved Wheatstone's, hvor Tegnene
+er af ulige Længde og desuden adskilte ved
+Mellemrum. Murraysystemet har dog i sin
+oprindelige Form kun faaet ringe Udbredelse;
+derimod har det i den nyere Tid faaet Bet. ved
+Indretning til Multiplekstelegrafi (s. d.). — Til
+Fremstilling af den ved Afsendelsen benyttede
+Strimmel har Murray konstrueret en
+skrivemaskinelignende Perforator. Da en saadan kan
+arbejde hurtigere end den tretastede
+Wheatstoneperforator (Fig. 10), er denne ligeledes i
+den nyere Tid søgt erstattet med Perforatorer,
+hvor Tegnene dannes ved en enkelt
+Nedtrykning af en til Bogstavet svarende Tast. Fig.
+15 viser en saadan af <sp>Kleinschmidt</sp>
+konstrueret Klaviaturperforator.
+
+Creed- og Murray-Systemet har foruden den
+maskinelle Bogstavtypering tillige den Fordel,
+at Modtagerperforatorens Strimler ogsaa kan
+benyttes til Afsending (Overdragning), hvilket
+undertiden kan være af stor Bet. for
+Gennemgangs-Korrespondance (Transit). Ligeledes
+medfører Perforeringen en betydelig Besparelse af
+manuelt Arbejde, saafremt et større Antal
+enslydende Telegrammer skal udsendes paa forsk.
+Ledninger (f. Eks. Pressetelegrammer), hvor
+den samme Strimmel da benyttes i de forsk.
+Transmittere. Skal Transitering ikke finde
+Sted, er Omsætning fra Perforatorstrimmel til
+Bogstavtryk derimod et fordyrende og
+forsinkende Mellemled, hvorfor flere Opfindere har
+forsøgt at fremstille Modtagerapparater, der
+direkte udfører Bogstavtryk. Vanskeligheden ved
+automatiske Systemer af denne Art, saakaldte
+<sp>Maskin-T.</sp>, skyldes særlig Indretningen af
+en tilstrækkelig hurtigt virkende
+Trykmekanisme, der uden Forsinkelse kan arbejde
+umiddelbart for de fra Ledningen kommende
+Strømimpulser. I Amerikaneren <sp>Buckingham's
+Maskin-T.</sp> er Modtager-Typehjulet formet
+som en 8-kantet Tromle med 5 ved Siden af
+hinanden liggende Typekranse, hvorved
+opnaas, at Drejningsvinklen for Indstilling til et
+Bogstav bliver mindre, end hvis alle Bogstaver
+og Taltyper var anbragt i Randen paa et
+enkelt Hjul. Under Paavirkning af
+Strømimpulserne forskydes Tromlen i Længderetningen
+og drejes samtidig, indtil det rette Bogstav
+befinder sig over en Trykhammer, der løfter
+Papiret op mod Typen. Apparatet, der trykker
+Telegrammerne direkte paa Blanketter, er
+temmelig kompliceret og har ingen større
+Udbredelse faaet. <i>Speed</i> omkr. 100. En meget stor
+Sendehastighed er naaet med det af de
+ungarske Ingeniører <sp>Pollak</sp> og <sp>Virag</sp> 1902
+konstruerede Apparat, hvor Tegnregistreringen
+sker ad fotografisk Vej. Modtagerapparatet
+bestaar af en Elektromagnet, der paa lgn. Maade
+som i en Telefon (s. d.) paavirker en
+Membran, hvis minimale Bevægelser overføres til
+et lille Spejl og synliggøres ved
+Tilbagekastning af en Lysstraale paa en roterende Tromle
+beklædt med lysfølsomt Papir. Ved Anvendelse
+af to Membraner, hver hørende til sit elektiske
+Kredsløb, er det lykkedes at give Spejlet
+saadanne Drejninger om to paa hinanden
+vinkelrette Akser, at Lyspunktet beskriver sædvanlige
+Bogstaver paa Papiret, som derefter
+gennemgaar den sædvanlige fotografiske
+Fremkaldelsesproces og udsendes til Adressaten. Fig. 11 f viser
+en Skriftprøve med Apparatet, med hvilket der
+paa gode Telefondobbeltledninger er opnaaet
+<i>Speed</i> paa 6 à 700. Fotografisk Modtagning
+blev ligeledes anvendt ved et af <sp>Siemens &
+Halske</sp> (1903) konstrueret
+Maskin-Telegrafsystem, der kun kræver Enkeltledning.
+Modtagerapparatet har en roterende Skive med
+skabelonagtig udhuggede Bogstavtyper, der
+projiceres paa lysfølsomt Papir ved Lyset fra
+passende elektriske Gnistudladninger. Trods sin
+forholdsvis store Ydeevne (<i>Speed</i> 3—400) har
+Systemet ingen Udbredelse faaet, da
+Opretholdelsen af den nødvendige synkrone Gang
+mellem de meget hurtigt roterende Afsender- og
+Modtagerapparater er vanskelig med de
+sædvanlig i Praksis forekommende varierende
+Ledningsforhold.
+
+Bedre Resultat er opnaaet med det senere
+af samme Firma (1912) udførte Apparat, hvor
+den fotografiske Metode er ombyttet med den
+tidligere Aftrykning ved Hjælp af Typehjul.
+Systemet benytter et 5-Enhedsalfabet af
+lignende Art som Murrayalfabetet. Den perforerede
+Strimmel har dog et andet Udseende, idet de

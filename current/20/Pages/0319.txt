@@ -1,0 +1,71 @@
+<img>ROM</img>
+
+<table>
+<td><i>Accademia di Francia</i><td r>F 2
+<td><i>Aquarium</i><td r>J 6
+<td><i>Banca Nazionale</i><td r>G 5
+<td><i>Børsen</i><td r>E 4
+<td><i>Cancelleria</i><td r>C D 5
+<td><i>Circus Maximus</i><td r>E F 8
+<td><i>Cloaca Maxima (Munding)</i><td r>E 7
+<td><i>Collegio Romano</i><td r>E 5
+<td><i>Deputeretkammer</i><td r>E 4
+<td><i>Engelsborg (Mausoleo d'Adriano)</i><td r>C 3
+<td><i>Hovedbanegaard</i><td r>J 5
+<td><i>Justitspalads</i><td r>D 3
+<td><i>Kolosseum</i><td r>G 7
+<td><i>Museo Capitolino</i><td r>E F 6
+<td><i>Museo Urbano</i><td r>G 8 
+<td><i>Museo Vaticano di Belvedero</i><td r>A 2
+<td><i>Palazzo Altieri</i><td r>E 5
+<td>— <i>Barberini</i><td r>G 4
+<td>— <i>Borghese</i><td r>E 3
+<td>— <i>Cenci</i><td r>D 6
+<td>— <i>Colonna</i><td r>F 5
+<td>— <i>Doria</i><td r>E 5
+<td>— <i>Farnese</i><td r>C 5
+<td>— <i>Giraud</i><td r>B 3
+<td>— <i>Madama (Senat)</i><td r>D 4
+<td>— <i>Massimi</i><td r>D 5
+<td>— <i>Rospigliosi</i><td r>F G S
+<td>— <i>Sciarra</i><td r>E F 5
+<td>— <i>Spada</i><td r>C D 6
+<td>— <i>di Venezia</i><td r>E 5
+<td><i>Post- og Telegrafstation</i><td r>F 4
+<td><i>Quirinalet</i><td r>F G 5
+<td><i>Sant' Agostino</i><td r>D 4
+<td><i>Sant' Andrea della Valle</i><td r>D 5
+<td><i>Santa Cecilia</i><td r>D 7
+<td><i>San Clemente</i><td r>H 8
+<td><i>Santi Cosma e Domiano</i><td r>E 7
+<td><i>San Crisogono</i><td r>D 7
+<td><i>San Giovanni in Laterano</i><td r>J 8
+<td><i>Santa Maria degli Angeli</i><td r>J 4
+<td>— <i>in Araceli</i><td r>E F 6
+<td>— <i>di Loreto</i><td r>F 5
+<td>— <i>Maggiore</i><td r>H J 6
+<td>— <i>del Popolo</i><td r>E 1
+<td>— <i>in Trastevere</i><td r>C 7
+<td>— <i>della Vittoria</i><td r>H 4
+<td><i>San Martino di Monti</i><td r>H 6
+<td><i>San Pietro in Vaticano</i><td r>A 3
+<td>— <i>in Vincoli</i><td r>G 6
+<td><i>Santa Prassede</i><td r>H 6
+<td><i>Santissima Trinita de Monti</i><td r>F 3
+<td><i>Teatro Drammatico Nazionale</i><td r>F 5
+<td><i>Terme Dioclettane</i><td r>J 4
+<td><i>Terme di Tito</i><td r>G 7
+<td><i>Terme di Trajano</i><td r>H 7
+<td><i>Universitet</i><td r>D 5
+<td><i>Vatikanet</i><td r>A 2. 3
+<td><i>Villa Aldobrandini</i><td r>F G 5. 6
+<td>— <i>Barberini</i><td r>B 3
+<td>— <i>Borghese</i><td r>G 1
+<td>— <i>Corsini</i><td r>B 6
+<td>— <i>Farnesina</i><td r>C 5
+<td>— <i>Massimi</i><td r>J 8
+<td>— <i>Medici</i><td r>F 2
+<td>— <i>Mills</i><td r>F 8. 7
+<td>— <i>Sciarra</i><td r>B 7. 8
+</table>
+

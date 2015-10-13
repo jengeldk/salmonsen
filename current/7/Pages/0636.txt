@@ -1,0 +1,168 @@
+<chapter name="Evoë">
+<b>Evoë</b> ['e'-], se <sp>Euoi</sp>.
+</chapter>
+
+<chapter name="Evokation">
+<b>Evokation</b> (lat.), hos Romerne 1)
+Udskrivning af Mandskab til Krig (<i>evocatio militiæ</i>), 2)
+Besværgelse af Afdødes Aander (<i>evocatio
+inferorum, manum, mortuorum</i>), 3) en højtidelig
+Ceremoni, hvorved rom. Præster foran en
+fjendtlig By besvor dennes Skytsguder om at forlade
+den og drage over til Romerne. I Middelalderen
+betegnede E. Pavens Ret til at drage
+Retssager bort fra Hjemlandets Domstole under sin
+egen Myndighed og Domsmagt; i det tyske Rige
+betegnede E. en lgn. Ret for Kejseren til at
+drage Retssager fra de til Riget hørende Stater
+ind under sig, mod hvilket Staterne søgte at
+værge sig. I Frankrig er E. (<i>évocation</i>) en
+Overrets Ret til at drage en Sag til sig, inden den
+er afgjort af Underretten, og undersøge den.
+<i>(V. S.). H. H. R.</i>
+</chapter>
+
+<chapter name="Evolena">
+<b>Evolena</b> (<sp>Évolène</sp>), Landsby i Schweiz,
+Kanton Wallis, ligger mellem høje Bjerge 18
+km SØ. f. Sion (Sitten), i Val d'Hérens eller
+Eringer-Dalen 1378 m o. H. (1910) 1261 kat.
+Indb., der driver Kvægavl og desuden har stor
+Indtægt af de mange Gæster, der opholder sig
+her p. Gr. a. Stedets sunde Klima og den
+storartede Bjergnatur.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="evolere">
+<b>evolere,</b> se <sp>Evolution</sp>.
+</chapter>
+
+<chapter name="Evolut">
+<b>Evolut,</b> se <sp>Evolvent</sp>.
+</chapter>
+
+<chapter name="Evolution">
+<b>Evolution</b> (lat.) er en Bevægelse med en
+sluttet Afdeling paa Øvelses- ell. Valpladsen,
+der har en Formationsforandring til Maal. -
+<sp>evolere</sp>, foretage en E.
+<i>B. P. B.</i>
+
+E. (<sp>Søv</sp>.), en samlet Manøvre med Skibene
+i en Eskadre, hvorved denne forandrer Kurs
+ell. overgaar fra en Orden til en anden. De
+almindeligste Ordener, i hvilke en Eskadre
+sejler, er Kølvands-, Front- ell. Kolonneorden. Da
+Afstanden mellem Skibene i en Eskadre i
+Reglen er meget ringe, kræver <sp>Evolering</sp> stor
+Agtpaagivenhed fra Skibschefernes Side for at
+undgaa Kollision. Som Sikkerhedsforanstaltning
+lukkes der derfor altid i Skibene »vandtæt
+overalt«, naar der <sp>evoleres</sp>. Udførelsen af de
+E., som en Eskadre ved Signaler fra
+Eskadrechefen faar Ordre til at foretage, findes
+angivet i en <sp>Evolutionsbog</sp>.
+<i>H. E.</i>
+</chapter>
+
+<chapter name="Evolution, Evolutionslære">
+<b>Evolution, Evolutionslære,</b> se
+<sp>Udviklingslære</sp>.
+</chapter>
+
+<chapter name="evolutio spontanea">
+<b>evolutio spontanea</b> (lat.),
+<sp>Selvudvikling</sp>, kaldes den særegne Maade, hvorpaa et
+i Skraaleje liggende Foster kan fødes. Først
+kommer Skulderpartiet frem, saa trænges den
+sammenbøjede Krop ned forbi Hovedet, og dette
+fødes sidst. Noget saadant er kun muligt ved
+døde, opblødte (macererede) Fostre, ell. meget
+smaa levende Fostre; er Fostret større, vil der
+være stor Fare for Moderen, og Fostret vil dø.
+<i>Lp. M.</i>
+</chapter>
+
+<chapter name="Evolvent">
+<b>Evolvent</b> (<sp>mat</sp>.). Tænker man sig, at der
+om Cirklen paa Fig. er viklet en uendelig tynd
+Snor, hvis Endepunkt falder i <i>A</i>, og at man
+dernæst tager fat i dette Endepunkt og vikler
+Snoren af saaledes, at det fri Snorestykke <i>RB</i>
+stadig tangerer Cirklen, vil Endepunktet
+beskrive den saakaldte Cirkelevolvent ell.
+Cirkelafvikler (<i>AB</i>). For hvert nyt Valg af Punktet <i>A</i>
+faas en ny E., og foregaar Afviklingen til den
+modsatte Side, faas en Gren <i>AC</i> symmetrisk med
+den første m. H. t. Linien gennem <i>O</i> og <i>A</i>.
+Sættes i St f. Cirklen en Polygon med et meget
+stort Sideantal, vil <i>B</i>, naar Snoren under
+Afviklingen drejer sig fra en Side hen paa den
+næstes Forlængelse, beskrive en lille Cirkelbue
+med de to Siders fælles Vinkelspids som
+Centrum, altsaa stadig bevæge sig i en Retning
+vinkelret paa Snoren, og dette vil vedblive
+at gælde, naar man gaar over til Cirklen
+igen ved at gøre Polygonens Sider
+uendelig smaa; <i>BR</i> er følgelig E.'s Normal i <i>B</i>,
+og da dens Skæringspunkt med den umiddelbart paafølgende
+Normal falder i <i>R</i>, vil <i>R</i> være E.'s Krumningscentrum. Cirklen
+kaldes E.'s <sp>Evolut</sp> eller <sp>Afviklede</sp>. Paa
+samme Maade har enhver plan Kurve
+uendelig mange E. eller Afviklere og een Evolut,
+hvis E. den er, og som tangeres af dens
+Normaler og er geometrisk Sted for dens
+Krumningscentrer. En Rumkurve har ligeledes
+uendelig mange E., og ved i hver af dens Punkter
+at vælge en Normal saaledes, at Rækken af
+valgte Normaler tangerer samme Kurve, faar
+man en Evolut til den, ɔ: en Rumkurve, for
+hvilken den givne Kurve er E., men Evolutten
+vil her ikke indeholde den givne Kurves
+Krumningscentre.
+<i>Chr. C.</i>
+<img></img>
+</chapter>
+
+<chapter name="Evolventhjul">
+<b>Evolventhjul,</b> se <sp>Tandhjul</sp>.
+</chapter>
+
+<chapter name="evolvere">
+<b>evolvere</b> (lat.), udvikle, udfolde; udbrede sig.
+</chapter>
+
+<chapter name="Évora">
+<b>Évora</b> ['ævur<sub>ə</sub>], By i det sydlige Portugal,
+Ærkebispesæde og Hovedstad i Prov.
+Alemtejo, ligger paa en Højde af 115 km SØ. f.
+Lissabon, 278 m o. H. ved en frugtbar Slette,
+der gennemstrømmes af Sadãqs Biflod Xamarra.
+(1900) 16020 Indb. Byen ligger omgivet af gl.
+Mure, hvorover dens mange Kirker og det gl.
+højtliggende Kastel rager, og desuden omgives
+den af ny, men ufuldendte Fæstningsværker. I
+det Indre findes snævre og smudsige Gader og
+gl., mest i got. Stil byggede Huse. Af Kirkerne
+fremhæves Domkirken, det tidligere
+Augustinerklosters Kirke samt Franciskanerklostrets Kirke.
+Byen har fl. Klostre, hvoraf dog en Del ligger
+i Ruiner, medens andre er omdannede til andet
+Brug. Byen har fl. Gange været Kongeresidens
+og har ogsaa haft et Univ., som stiftedes 1550,
+men blev ophævet i 18. Aarh., da Pombal
+fordrev Jesuiterordenen; nu er det omdannet til
+et Kollegium og et teol. Seminarium. Desuden
+har É. et Mus. for rom. Oldsager og fl.
+Oldtidslevninger, deriblandt en c. 4 km lang
+Akvædukt, der endnu forsyner Byen med
+Drikkevand, og Resterne af et Diana-Tempel. der nu
+benyttes som Slagtehus. Byen er Hovedstad i
+<sp>Distriktet É.</sp>, der er 7400 km<sup>2</sup> med (1900)
+128062 Indb. ell. 17 pr km<sup>2</sup>. - É. er det gl.
+keltiberiske <sp>Ebura</sp>, der som rom. Municipium
+kaldtes <i>Liberalitas Julia</i>. Under Vestgoterne blev
+É. (Ebora) Bispedømme og Fæstning; 712 blev
+den erobret af Araberne; 1166 tilbageerobredes
+

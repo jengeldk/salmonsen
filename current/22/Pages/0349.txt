@@ -1,0 +1,147 @@
+ændret Banen og uden Tvivl spredt
+Meteoritterne ud over et større Rum; tvivlsomt er det
+derfor, om de vil vise sig oftere. Allerede 1741
+saa man Bieliderne, senere 1798, 1830, 1838, 1847
+og 1867. Kometen skal have opløst sig i
+Meteoritter. 1892 og 1899 viste Sværmen sig 4 Dage
+tidligere p. Gr. a. Perturbation af Juppiter
+1889—91. Antager man nu Kometerne for at bestaa
+af en Samling af faste Smaalegemer — kosmisk
+Sky —, vil Solens ulige Tiltrækning paa de
+forsk. Dele virke som en opløsende Kraft, idet
+hver af de smaa Partikler vil faa nogenlunde
+de samme Baner, men passere Perihel til forsk.
+Tider. Kometens Stof vil for en Del ved dens
+Nærmelse til Solen blive tværet ud i Kometens
+Bane, og saafremt denne er elliptisk, vil dette
+gentage sig, hver Gang Kometen passerer
+Perihel; hvis Kometen kommer i Nærheden af en
+af de større Planeter, vil Opløsningen kunne
+blive paaskyndet. Paa denne Maade vil
+Kometens Stof blive ligesom strøet ud over dens Bane
+og danner i Tidens Løb en sammenhængende
+Ring. Skærer Jorden denne Ring, vil der vise
+sig periodiske S. fra et bestemt Radiationspunkt
+enten hvert eneste Aar paa den Dag, Jorden
+passerer Ringen, hvis denne er
+sammenhængende som ved Perseiderne, ell. med visse Aars
+Mellemrum, hvis Stoffet kun er fordelt over et
+mindre Stykke som ved Leoniderne. Ser man
+flere Nætter i Rad S. fra samme
+Radiationspunkt, viser dette, at Ringen har en betydelig
+Tykkelse, ell. at de enkelte Meteoritters Baner
+i Tidens Løb er blevne ikke lidet forsk. Efter
+denne Hypotese, som væsentlig skriver sig fra
+Schiaparelli og Weiss, skulde altsaa Kometerne
+være de primære og S. deres opløste Dele. Men
+hertil er det at bemærke, at flere
+Stjerneskudsværme har man kendt, længe før vedk. Komet
+blev synlig. Saaledes mener Egenitis at kunne
+forfølge Bieliderne helt til Aar 532, og for
+Leoniderne har man større Sværme 902, 1002, 1202
+og 1602, men Kometen viste sig først 1866, hvis
+ikke Kometen fra 1366 skulde være identisk
+med denne. Desuden kan ikke den
+Omstændighed, at Biela-Kometen er forsvunden, berettige
+til at antage, at den er opløst, fordi man har
+været Vidne til, at den har delt sig. Der gives
+nemlig ikke saa faa Tilfælde, hvor periodiske
+Kometer ikke er sete igen, og man har
+Eksempler paa, at Kometer har vist sig igen, men med
+en betydelig Formindskelse i Lysstyrken,
+hvilket kun kan hidrøre fra en partiel Opløsning.
+Man kan derfor ikke uden videre antage, at
+hver Stjerneskudsværm er Resultatet af en
+Opløsning af en Komet. Meget mere ligger det nær
+at antage, at man har med et Kredsløb af
+Fænomener at gøre, der dels er af konstituerende,
+dels af destruerende Natur. (<sp>Litt</sp>.:
+<sp>Schiaparelli</sp>, »Entwurf einer astronomischen Theorie
+d. Sternschnuppen« [Stettin 1871];
+<sp>Lehmann-Filhés</sp>, »Die Bestimmung v. Meteorbahnen«
+[Berlin 1883]; <sp>Charles P. Olivier</sp>,
+»Meteors« [1925]; <sp>Schiaparelli</sp>, <i>Le stelle
+cadenti, Astronomia populare</i> [1925]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Stjerneskærm">
+<b>Stjerneskærm,</b> se <sp>Astrantia</sp>.
+</chapter>
+
+<chapter name="Stjerneskøre">
+<b>Stjerneskøre,</b> se <sp>Kernekløft</sp>.
+</chapter>
+
+<chapter name="Stjernestrømme">
+<b>Stjernestrømme,</b> se <sp>Egenbevægelse</sp>.
+</chapter>
+
+<chapter name="Stjernestørrelse">
+<b>Stjernestørrelse</b> er Maal for den
+Lysmængde, en Stjerne udsender. Ordnes de Tal,
+hvormed Stjernernes Størrelse angives, i en
+aritmetisk Række, vil de Tal, som angiver de
+tilsvarende Lysmængder, følge en geometrisk
+Række (Fechner's fotometrisk-psykofysiske Lov).
+Betegner saaledes L0 den Lysmængde, som en
+Stjerne af Størrelse M0 udsender, og er K
+Kvotienten i den geometriske Række,
+svarende til Differensen 1 i den aritmetriske, saa vil
+følgelig en Stjerne af Størrelse M0—1 give
+Lysmængden KL0, til Størrelse M0—2 vil der svare
+K<sup>2</sup>L0 o. s. v. Følgelig vil en Stjerne af
+Størrelse M give Lysmængden : L = K<sup>M0—M</sup> . L0
+ell. log (L : L0) = (M0—M) log K.
+Overensstemmende med Erfaring sættes gerne (efter
+Pogson's Forslag) log K = 0,4, hvortil svarer
+K = 2,512, og man faar da den alm.
+Forbindelse mellem Lysmængde (Lysstyrke) og
+Størrelse : log (L : L0) = 0,4 (M0—M). Vokser
+saaledes Størrelsen ved <sp>Addition</sp> med 1,
+mindskes Lysmængden ved <sp>Division</sp> med 2,512,
+og Forskellen mellem to Stjerners Lysstyrke er
+følgelig proportional <sp>ikke</sp> med Forskellen
+mellem deres Lysmængder (Lysstyrke), men
+mellem Forskellen i Logaritmen for deres
+Lysstyrke. Er saaledes Forskellen mellem to
+Stjerners Størrelse 6 ɔ: den ene Stjerne er 6
+Størrelseklasser lysstærkere end den anden, vil
+Lysstyrken af den klareste være 251 Gange
+Lysstyrken af den svageste. Er omvendt
+Intensitetsforholdet 15 : 2, vil Forskellen mellem
+Størrelsen være 2,19. Men den Lysstyrke, man
+direkte observerer, er den <sp>visuelle</sp> (den
+apparente), og den afhænger af Stjernens Afstand og
+dens specifikke (indre) Lysstyrke. Den
+Størrelse, Stjernerne vilde have, hvis de alle var i
+samme Afstand fra Solen, kaldes den
+<sp>absolutte</sp>. Sættes denne Afstand efter Kapteyn til
+rundt 32,6 Lysaar (Parallaksen 0,1″ ell. 10
+Parsek), vil Relationen mellem den absolutte
+(M) og den apparente (m) Størrelse være,
+naar Stjernens Parallakse betegnes med π,
+M = m + 5 + 5 . log π. Vælges Afstanden til
+3,36 Lysaar (Parallaksen 1″ = 1 Parsek), bliver
+Relationen M = m + 5 . log π. Nu lyser
+Solen 60000 Mill. Gange stærkere end Stjernen
+Capella, hvis Parallakse er 0,08″ og Størrelse
+0,2. Udtrykt i Størrelseklasse lyser Solen 26,9
+stærkere end Capella, eller Solen vilde
+være en Stjerne af Størrelse —26,7. I Capellas
+Afstand vilde Solen være en Stjerne af
+Størrelse 5,4 i Afstanden 0,1″ af Størrelse 4,9. Ved
+Angivelse af Lysstyrken (<sp>Luminositet</sp>)
+sættes Solen som Enhed. Nu er den apparente
+(visuelle) Lysstyrke ikke et Maal for Stjernens
+totale Energi i Form af Lys; den er kun et
+Maal for vor Jugering af denne. Har vi saaledes
+to Stjerner i samme Afstand, og den ene
+udsender Lys hovedsagelig fra den usynlige
+infrarøde Del af Spektret, medens den anden har sit
+Maksimum uden for det blaa, vil den sidste
+vise sig meget lysstærkere end den første.
+Endnu stærkere vil Forskellen komme til Syne,
+hvis vi ikke opfanger Lyset med Øjet, som er
+mest ømfindtligt for de gule Straaler (λ 560 μμ),
+men med den fotografiske Plade, som er mest

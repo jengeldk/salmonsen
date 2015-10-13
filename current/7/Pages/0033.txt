@@ -1,0 +1,122 @@
+henføres under elektrisk Svejsning (s. d.). En
+elektrisk Loddekolbe kan som den paa Fig. 1 viste
+indeholde en <sp>Varmepatron</sp>, en i Emaille
+indstøbt Traadspiral, som opvarmes af
+Strømmen og saa afgiver sin Varme til Kolbens
+Kobberspids. Paa Fig. 2 er vist et skematisk Billede
+af en elektrisk Loddekolbe med
+Lysbueopvarmning. Den ene Ledning sættes i Forbindelse med
+Kobberspidsen <i>b</i>, den anden med den
+bevægelige Kulstang, der er anbragt i Midten af
+Kulholderen <i>g</i>. Naar Kullet løftes lidt, tændes der
+imellem dette og Kobberet en Lysbue, der
+opvarmer Kobberet. Kulstangen brænder
+efterhaanden bort og maa derfor stadig indstilles.
+<i>R. J. J.</i>
+
+<img>Fig. 1. Elektrisk Loddekolbe med Modstandsopvarmning.</img>
+
+<img>Fig. 2. Elektrisk Loddekolbe med Lysbueopvarmning.</img>
+</chapter>
+
+<chapter name="elektrisk Lugt">
+<b>elektrisk Lugt,</b> se <sp>Ozon</sp>.
+</chapter>
+
+<chapter name="elektrisk Lys">
+<b>elektrisk Lys.</b> Der er væsentligt to Arter
+af elektrisk Lys, Buelys og Glødelys. Buelyset
+er det ældste og gaar hist. set tilbage til
+Englænderen <sp>Humphry Davy</sp>, som i Beg. af
+forrige Aarh. bemærkede, at naar han fra et
+galvanisk Batteri sendte en elektrisk Strøm
+gennem to ved Siden af hinanden anbragte
+Kulstykker og derpaa fjernede Kulstykkerne lidt
+fra hinanden, opstod der mellem dem en stærkt
+lysende Flamme, som p. Gr. a. Lufttrækket
+blæste opad og dannede en lysende Bue. Derfra
+hidrører Navnet, som bibeholdtes ogsaa for
+Lamper, hvor Kullene har Form af Stænger, der
+anbringes over hinanden, og hvor det ledende
+Luftrum mellem Stængerne aldeles ikke har
+Bueform. Buelamper anvendtes enkeltvis til
+Fyrtaarne i Midten af forrige Aarh. Strømmen
+leveredes af magnetoelektriske Maskiner, en for
+hver Lampe (se <sp>Dynamo</sp>). I 1870'erne fik
+Buelamperne praktisk talt den Form, de har endnu.
+Epokegørende var <sp>Hefner v. Alteneck</sp>'s
+Differentiallampe, hvis Regulermekanisme tillod fl.
+Lamper at faa Strøm fra samme elektriske
+Maskine. Den første praktiske Form for
+<sp>Glødelamper</sp> er <sp>Edison</sp>'s Kultraadslampe,
+som første Gang saas paa Pariserudstillingen
+1881. Indtil c. 1900 er der ingen principielle
+Fremskridt at notere. - Paa Paris-Udstillingen
+1900 fremkom <sp>Bremer</sp> med en Buelampe af
+enorm Lysstyrke, ophængt i Eiffeltaarnet. Den
+bestod af fire Lysbuer. Kulstængerne var
+anbragte skraat ved Siden af hinanden, og Buen
+blæstes af en Magnet nedad som en Flamme.
+Til Kullene var der sat et stort Indhold af
+Metalsalte, som gav Lyset en stærk Farve (gul ell.
+rødlig). Den gav for samme Strømforbrug c. 3
+Gange saa meget Lys som alm. Buelamper.
+Saadanne Lamper fabrikeres under Navn af
+Effektlamper ell. Flammebuelamper af de fleste
+Buelampefabrikker.
+
+Imidlertid har dette Fremskridt paa
+Buelysets Omraade ikke faaet den Bet., som man
+straks var tilbøjelig til at vente. Derimod har
+de sidste 15 Aar været Vidne til en Udvikling
+paa Glødelysets Omraade, som betegner en hel
+Omvæltning, og som for de alm. Anvendelser af
+elektrisk Lys rimeligvis vil overflødiggøre
+Buelyset, der dog stadig vil beholde sin
+Anvendelighed til specielle Formaal, f. Eks. til
+Projektører til medicinske og fotografiske
+Anvendelser. Det begyndte med
+<sp>Nernstlampen</sp>, hvis lysende Del er en Stift
+af en porcelænsagtig Masse, som først
+leder Elektriciteten, naar den er
+varmet op. Nernstlampen gav dobbelt saa
+meget Lys som Kultraadslampen ved samme
+Forbrug af Elektricitet; men ogsaa denne
+Lampe er nu at betragte som slaaet af Marken af
+<sp>Glødelamper med Metaltraad</sp>. De
+første af disse var <sp>Dr. Auer</sp>'s
+<sp>Osmiumlampe</sp> og Siemens & Halske's
+<sp>Tantallampe</sp>. Til Fremstilling af Lampetraade af
+Metal er der patenteret en Række Metoder, der
+dog nu alle er forældede og uden Bet., efter at
+det er lykkedes General Electric Company i
+Amerika at <sp>trække Wolfram til
+Traade</sp>, ligesom det tidligere var lykkedes Siemens
+& Halske at trække Tantal til Traade.
+
+Glødelamper vil i Øjeblikket praktisk talt sige
+Wolframlamper med trukket Traad, og
+Strømforbruget er c. 1,0-1,2 Watt pr Lys (3 Gange
+mindre end for Kultraadslamper). Det nyeste er
+Wolframlamper med <sp>Kvælstoffyldning</sp>,
+som for store Lysstyrker driver det til et
+Forbrug af kun c. 1/2 Watt pr Lys.
+
+Nærmest henhørende under Buelamper er de
+i de senere Aar fremkomne
+<sp>Kvægsølvlamper</sp>, hvor Strømmen gaar gennem et evakueret
+Rør, hvori der kun er Kvægsølvdamp. Disse er
+blevne væsentlig forbedrede ved Anvendelse af
+Kvarts som Materiale til Røret, hvorved det har
+været muligt at drive Temp. betydeligt
+højere op.
+
+<sp>Buelamper.</sp>
+
+I alm. Buelamper for Jævnstrøm anvendes
+Kulstænger af haardt, kunstig forarbejdet Kul.
+Det øverste Kul er i Forbindelse med den
+positive, det nederste med den negative Ledning,
+og i Strømkredsen er desuden altid indskudt en
+
+

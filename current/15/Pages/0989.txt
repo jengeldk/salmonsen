@@ -1,0 +1,157 @@
+Tavler (1614), at L. trængte igennem. Neper
+tænkte sig et Punkt <i>P</i> bevægende sig paa en ret
+Linie <i>AB</i> fra <i>A</i> til <i>B</i>, og samtidig et Punkt <i>R</i>
+bevægende sig med jævn Hastighed hen ad en
+anden ret Linie fra Punktet <i>O</i>. Til Stillinger af
+<i>R</i>, for hvilke Stykkerne <i>OR</i> danner en
+Differensrække, svarer Stillinger af <i>P</i>, for hvilke
+Stykkerne <i>PB</i> danner en Kvotientrække, og de
+to Punkters Begyndelseshastigheder er lige
+store. Udtrykker man Længderne ved Tal,
+saaledes at <i>AB</i> = 1, vil <i>OR</i> være L. til <i>PB</i> for et
+Grundtal 1/<i>e</i>, hvor <i>e</i> er et (ikke algebraisk)
+irrationalt Tal, hvis første Cifre er 2,71828. <i>e</i>
+optræder mangfoldige St. i Matematikken og er
+Grundtal for de <sp>naturlige L.</sp>, der betegnes
+ved <i>l</i> og ogsaa kaldes de <sp>hyperbolske</sp>,
+fordi ved den ligesidede Hyperbel med
+Ligningen <i>xy</i> = 1 Arealet mellem Kurven,
+Abscisseaksen og to Ordinater er = Differensen mellem
+Abscissernes naturlige L. Neper satte <i>AB</i> = 10<sup>7</sup>
+og beregnede saa paa Grundlag af den her
+givne Definition en Antilogaritmetavle, <i>Tabula
+radicalis</i>, hvori Tallene danner en Kvotientrække
+med Kvotienten 1 — 1/10<sup>7</sup>; denne Tavle vil ved
+Division af baade Tal og L. med 10<sup>7</sup> svare til
+Grundtallet 1/<i>e</i>, bortset fra en Regnefejl uden
+Betydning. Af <i>Tabula radicalis</i> udledede Neper
+en Tavle over Logaritmerne til de
+trigonometriske Funktioner af givne Vinkler. Briggs
+benyttede Ligningen <i>log</i> (1 + <i>x</i>) = <i>x</i> · 0,4342, der
+gælder tilnærmelsesvis for smaa Værdier af <i>x</i>,
+til at beregne L. til Tal nær ved 1; et
+vilkaarligt Tal <i>a</i>'s L. fandt han ved gennem fortsatte
+Kvadratrodsuddragninger at bestemme 2<i>n</i>√<i>a</i>, der
+for <i>n</i> tilstrækkelig stor bliver et Tal nær ved 1,
+hvis L. han saa multiplicerede med 2<sup><i>n</i></sup>. Denne
+Fremgangsmaade nævner i øvrigt allerede
+Neper. Senere er der dannet forsk.
+Rækkeudviklinger til Beregning af L. for et vilkaarligt
+Grundtal <i>a</i>; ved dem alle maa man først
+bestemme den naturlige L., som saa multipliceret
+med 1/<i>la</i> giver den søgte L. I Funktionslæren
+(s. d.) undersøges L. til et hvilket som helst
+Tal for et hvilket som helst Grundtal, og det
+vises, at den har uendelig mange komplekse
+Værdier, der danner en Differensrække med
+Differensen 2π<i>i</i>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Logaritmetavle">
+<b>Logaritmetavle,</b> se <sp>Logaritme</sp>.
+</chapter>
+
+<chapter name="logaritmisk Dekrement">
+<b>logaritmisk Dekrement,</b> se
+<sp>Svingninger</sp>.
+</chapter>
+
+<chapter name="logaritmisk Linie">
+<b>logaritmisk Linie</b> (mat.), en Kurve, hvis
+Ligning i retvinklede Koordinater er <i>y=a · e<sup>x/a</sup></i>,
+hvor <i>e</i> er de naturlige Logaritmers Grundtal.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="logaritmisk Spiral">
+<b>logaritmisk Spiral</b> (mat.), en Kurve, der i
+polære Koordinater er fremstillet ved
+Ligningen Θ = <i>a · lr</i>, hvor <i>lr</i> betyder den naturlige
+Logaritme til <i>r</i>. Den snor sig i uendelig mange
+Vindinger om Koordinatsystemets Pol, saaledes
+at man ved at følge den i den ene Retning
+bestandig nærmer sig til Polen og kan komme
+denne isaa nær, som man vil, medens
+Vindingerne i den anden Retning bestandig fjerner
+sig fra Polen og strækker sig ud i det
+uendelige. Drejes Spiralen en Vinkel = <i>a</i> · <i>lk</i> om
+Polen, faar den Ligningen Θ — <i>a</i> · <i>lk</i> = <i>a</i> · <i>lr</i>
+ell. Θ = <i>a</i> · <i>l(kr)</i>; den er nu ligedan beliggende
+med den opr. Stilling med Fællespunkt i Polen
+og Ligedannethedsforholdet <i>k</i>. Denne Egenskab,
+der kunde bruges som Definition for l. S.,
+medfører, at Tangentens Vinkel med Radius vektor
+er konstant, at Krumningsradius er
+proportional med Radius vektor, at Evolut og
+Brændlinie med det lysende Punkt i Polen ogsaa er
+l. S., m. m. Bevæger et Punkt sig fra en
+Begyndelsesstilling med Radius vektor = <i>r</i>, langs
+den l. S. ind til Polen, vil den gennemløbne
+Buelængde og det af Punktets Rad. vekt.
+beskrevne Areal til Grænseværdier have √1+<i>a</i><sup>2</sup>·<i>r</i>
+og <i>a</i>/4 · <i>r</i><sup>2</sup>. Se <sp>Jak. Bernoulli</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Logau, Friedrich von">
+<b>Logau</b> ['lo.ga^u], <sp>Friedrich von</sp>, tysk
+Friherre og Epigramdigter, Pseudonym Salomon
+v. Golow, f. i Schlesien i Juni 1604, d. i Liegnitz
+24. Juli 1655. Han var Jurist og
+Regeringsembedsmand hos Hertugen af Liegnitz; som
+Digter tilhørte han den »første Schlesiske Skole«
+og var fra 1648 Medlem af »Die fruchtbringende
+Gesellschaft«. Hans Epigrammer er, til Trods
+for Opitz' umiskendelige Indflydelse, meget
+originale og tyder paa en ualmindelig
+selvstændig og nobel Karakter, medens de
+gennemgaaende udtrykker Digterens Sorg og Melankoli
+over Landets materielle og aandelige Forfald.
+De er saa betydelige for deres Tid, at Lessing
+omplantede dem paa klassisk Tysk
+(»Sinngedichte«, 1759; 2. Opl., 2 Bd, 1791). En
+fuldstændig Udgave af L.'s Digte besørgedes af Eitner
+(»Litterar. Verein« [1872]); desuden Eitner,
+»Sinngedichte von Fr. v. L.« (»Deutsche
+Dichter des 16. Jahrh.«, 3. Bd 1870, med Levned
+og Litt.).
+<i>(C. A. N.). C. B-s.</i>
+</chapter>
+
+<chapter name="logaødisk">
+<b>logaødisk</b> (gr., af λόγος, Tale, og άοιδή,
+Sang) kaldes i den antikke Metrik et
+Versemaal, hvori der er en Overgang fra
+udprægede Versefødder til saadanne, der ligger
+Talesprogets Rytme nærmere, navnlig fra
+Daktyler (— ⌣⌣) til Trokæer (— ⌣), f. Eks. det
+glykoniske Vers.
+<i>K. H.</i>
+</chapter>
+
+<chapter name="Logbræt">
+<b>Logbræt</b> (Søv.), et primitivt Regnebræt, ved
+Hjælp af hvilket Skibets udløbne Distance i en
+Vagt kan udtages. Benyttes nu meget sjældent.
+Ogsaa Benævnelse for en Tavle, der benyttes
+som Kladde for Logbogen (Journalen).
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Loge">
+<b>Loge</b> ['lo.sj<sub>ə</sub>; fr. lå.з] (fr., ital. <i>loggia</i>)
+benyttes foruden i Bet. af Loggia (s. d.) om
+mindre, afgrænsede Rum med Brystning og
+Siddepladser, anbragte i Teatre i to ell. fl. Rk. over
+hverandre i en Halvkreds lige over for Scenen,
+saa at Tilskuerne derfra kan se ud over
+Hovederne af de paa Gulvet siddende. L.
+anvendes tillige som Betegnelse for mindre Rum,
+hvorfra man har Udsigt med bestemt Formaal,
+f. Eks. Portnerloge. I Frankrig er L. desuden
+det aflukkede Rum, hvor de unge Kunstnere
+arbejder, naar de konkurrerer til en Pris. —
+Om L. hos Frimurerne, se <sp>Frimureri</sp>.
+<i>(E. S.). C. B-r.</i>
+</chapter>

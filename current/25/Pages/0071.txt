@@ -1,0 +1,66 @@
+<img>Situationsplan over Viborg.</img>
+
+<table>
+<td r>1.<td>Sygehus for Viborg Amt og By
+<td r>2.<td>Alderdomshjem
+<td r>3.<td>Slagtehuse
+<td r>4.<td>Svineslagteri
+<td r>5.<td>Jernbaneholellet
+<td r>6.<td>Elektricitetsværk
+<td r>7.<td>Privat Mellem- og Realskole
+<td r>8.<td>Skt Mathias Apotek
+<td r>9.<td>Højskolehotel
+<td r>10.<td>Toldkammer
+<td r>11.<td>Kreditforeningen
+<td r>12.<td>Hans Tausens Hus
+<td r>13.<td>Tobaksfabrik
+<td r>14.<td>Alderdomshjem
+<td r>15.<td>Arbejdsanstalt
+<td r>16.<td>Vandtaarne
+<td r>17.<td>Militærbarakker
+<td r>18.<td>Krudthus
+<td r>19.<td>Radiomaster
+<td r>20.<td>Krudthus
+<td r>21.<td>Badeanstalter
+<td r>22.<td>Børneoptagelseshjem
+<td r>23.<td>Fattiggaard
+<td r>24.<td>Stiftefse (Lars Worres Minde
+<td r>25.<td>Haandværkerforeninens Stiftelse
+<td r>26.<td>Teknisk Skole
+<td r>27.<td>Hovedvagt
+<td r>28.<td>Provinsarkiv
+<td r>29.<td>Garnisonssygehus
+<td r>30.<td>Kommuneskole
+<td r>31.<td>Kommunens Alderdomshjem
+<td r>32.<td>Raad-, Ting- og Arresthus med Dommer- og Borgmesterkontor
+<td r>33.<td>Vestre Landsret, Stiftsbibliotek
+<td r>34.<td>Mindestøtte for A. S. Ørsted
+<td r>35.<td>Anlæg
+<td r>36.<td>Hospital
+<td r>37.<td>Børneasyl
+<td r>38.<td>Arbejdernes Spare- og Laanekasse
+<td r>39.<td>Kommandantskabsknt.
+<td r>40.<td>Teater
+<td r>41.<td>Afholdshjem, Højskolehotel
+<td r>42.<td>Svaneapotek
+<td r>43.<td>Viborg Stiftsøvrighed
+<td r>44.<td>Amtmandsbolig
+<td r>45.<td>Kommunekontor
+<td r>46.<td>Borger- og Haandværkerforening
+<td r>47.<td>Domkirke
+<td r>48.<td>Bispegaard
+<td r>49.<td>Mindestøtte for St. St. Blicher
+<td r>50.<td>Museum
+<td r>51.<td>Militær Administrationsbygning
+<td r>52.<td>Amtsbibliotek
+<td r>53.<td>Hedeselskabet
+<td r>54.<td>Hjultorvets Apotek
+<td r>55.<td>Preislers Hotel
+<td r>56.<td>Hotel »Phønix«
+<td r>57.<td>Posthus, Telegraf- og Telefonstation
+<td r>58.<td>Privatbanken for Viborg og Omegn
+<td r>59.<td>Handelsbanken
+<td r>60.<td>Amtstue
+<td r>61.<td>Viborg Bys og Omegns Sparekasse
+<td r>62.<td>Sønder Sogns Kirke
+</table>

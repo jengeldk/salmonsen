@@ -1,0 +1,176 @@
+Egenskaber: med Mod og Snildhed værnede hun
+sin Søns Arv, Forli, imod de sammensvorne, der
+havde myrdet hendes Mand (1488), og siden
+forsvarede hun Byen mod Cesare Borgia, af hvem
+hun vel blev fangen, men den fr. Konge, Ludvig
+XII, gengav hende Friheden.
+<i>(E. G.). E. M-r.</i>
+</chapter>
+
+<chapter name="sforzando">
+<b>sforzando</b> [sfår'tsando] (ital.), <sp>sforzato</sp>,
+forkortet <i>sf.</i>, <i>sfz.</i> ell. <i>fz.</i>, mus.
+Foredragsbetegnelse: med stærkt Eftertryk, stærkt fremhævet,
+antyder, at den enkelte Node ell. Akkord, ved
+hvilken Betegnelsen staar, skal fremhæves,
+accentueres stærkt.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Sfragistik">
+<b>Sfragistik,</b> se <sp>Segl</sp>.
+</chapter>
+
+<chapter name="Sfumato">
+<b>Sfumato</b> (af ital. <i>sfumare</i> ɔ: fordampe)
+bruges i den kunstneriske Terminologi som
+betegnende den Malemaade, der gaar ud paa at
+give Farverne den fineste Aftoning og gøre alle
+Konturer saa blødt fordrevne som muligt. S. kan
+først med Rette bruges som kendetegnende for
+Malerkunsten paa det Tidspunkt i Kunsthistorien,
+hvor Interessen for Billedets maleriske
+Holdning og Fylde vinder Overhaand over Interessen
+for Linievirkningen i det. I ital. Renaissance
+sker dette Omslag ved Beg. af 16. Aarh., og
+særlig staar Andrea del Sarto og Giorgione som
+Gennembrudsmændene i Retning af Billedfladens
+og Konturernes Opløsning i Farve og Lys.
+<i>(A. R.). A. Hk.</i>
+</chapter>
+
+<chapter name="Sfygmograf">
+<b>Sfygmograf</b> [svy-] (gr.), se <sp>Puls</sp>.
+</chapter>
+
+<chapter name="Sfygmologi">
+<b>Sfygmologi</b> [svyg-] (gr.), Læren om Pulsen.
+</chapter>
+
+<chapter name="Sfære">
+<b>Sfære</b> ['svæ.r<sub>ə</sub>] (af gr. <i>sphaira</i>), Kugle,
+særlig Himmelkuglen; i overført Bet. Virkekreds,
+Omraade.
+</chapter>
+
+<chapter name="Sfærernes Harmoni">
+<b>Sfærernes Harmoni</b> ['svæ.-], se
+<sp>Pythagoras</sp>.
+</chapter>
+
+<chapter name="sfærisk Afstand">
+<b>sfærisk Afstand</b> ['svæ'-], se <sp>sfærisk
+Geometri</sp>.
+</chapter>
+
+<chapter name="sfæriske Koordinater">
+<b>sfæriske Koordinater</b> ['svæ'-], se
+<sp>Koordinater</sp>.
+</chapter>
+
+<chapter name="sfæriske Polygoner">
+<b>sfæriske Polygoner</b> ['svæ'-], se <sp>sfærisk
+Geometri</sp>.
+</chapter>
+
+<chapter name="sfærisk Geometri">
+<b>sfærisk Geometri</b> ['svæ'-] (mat.). Ligesom
+man har en Geometri i Planen, kan man
+opstille en Geometri omhandlende Figurer paa en
+vilkaarlig ved en Ligning fremstillet Flade; i
+denne spiller de geodætiske Kurver en noget
+lignende Rolle som de rette Linier i
+Plangeometrien. Geometrien paa Kuglefladen, hvis
+geodætiske Linier Storcirklerne er, kaldes den s. G.
+I denne forstaas ved to Punkters <sp>sfæriske
+Afstand</sp> den korteste Storcirkelbue mellem
+dem, maalt i Grader. Punkter paa Kuglefladen
+med samme sfæriske Afstand <i>a</i> fra et fast Punkt
+<i>P</i> ligger paa en Cirkel, hvis Plan er vinkelret
+paa Kuglediameteren gennem <i>P</i>; <i>P</i> kaldes
+Cirkelens <sp>sfæriske Centrum</sp>, <i>a</i> dens
+<sp>sfæriske Radius</sp>. Er <i>a</i> = 90°, bliver Cirkelen en
+Storcirkel og <i>P</i> en af dens Poler. Cirklerne paa
+Kuglefladen kan have de samme forsk.
+Stillinger til hinanden og til Storcirkler, som Planens
+Cirkler har til hinanden og til de rette Linier.
+Vinkelen mellem to Storcirkler er Vinkelen
+mellem deres Tangenter i et Skæringspunkt ell.
+mellem deres Planer. En <sp>sfærisk
+Polygons</sp> Omkreds dannes af Storcirkelbuer,
+<sp>Siderne</sp>; som i Planen kan man have konvekse
+og ukonvekse Polygoner, regulære Polygoner,
+ind- og omskrevne Cirkler. Særegen for den
+s. G. er Tokanten, der begrænses af to halve
+Storcirkler og har to lige store Vinkler.
+<sp>Polygonvinklerne</sp> regnes som i Planen, men
+Vinkelsummen i en konveks sfærisk Polygon er
+altid større end i en plan Polygon med samme
+Sideantal; de to Vinkelsummers Forskel <i>E</i>
+kaldes den <sp>sfæriske Eksces</sp> (det sfæriske
+Overskud). Den sfæriske Polygons Areal er <i>E</i>/720°
+Gange Kuglefladens. Sfæriske Trekanter, hvis
+Behandling lettes meget ved Anvendelse af
+Polartrekanter (s. d.), er med en enkelt
+Indskrænkning kongruente ell. symmetriske, naar de har
+tre ens beliggende Stykker stykkevis lige store.
+En Kugleflade skæres af en cirkulær Kegleflade
+med Toppunkt i dens Centrum i et <sp>sfærisk
+Keglesnit</sp>, der har mange Egenskaber
+fælles med et plant. Til Konstruktioner paa
+Kuglefladen benytter man naturligvis en Passer, og
+man har undersøgt, hvor vidt der kan naas
+alene ved Tegning paa Kuglefladen med denne
+uden Kendskab til Kuglens Radius (se f. Eks.
+en Afh. af T. Bonnesen i »Nyt Tidsskrift for
+Matematik« [1899]). Om Koordinatgeometri og
+Trigonometri paa Kuglefladen, se <sp>Koordinater</sp>
+og <sp>sfærisk Trigonometri</sp>. Allerede den
+gr. Oldtids Matematikere beskæftigede sig med
+s. G. som det nødvendige Grundlag for astron.
+Beregninger; her maa nævnes Eratosthenes' og
+Hipparch's sfæriske Koordinater og Menelaos'
+Sætning. Polartrekanten omtales allerede af
+Perseren Narîr Eddin (d. 1274), men af europ.
+Matematikere er Snellius den, der først klart
+har fremstillet dens Egenskaber. Den sfæriske
+Polygons Areal er angivet af Girard i <i>Invention
+nouvette en algèbre</i> (1629).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="sfærisk Sted">
+<b>sfærisk Sted</b> ['svæ'-] af et Himmellegeme
+angiver Retningen af Synslinien fra
+Himmellegemet til Iagttagerens Øje.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="sfærisk Trigonometri">
+<b>sfærisk Trigonometri</b> ['svæ'-] (mat.) giver
+Metoderne til af tre givne Stykker i en sfærisk
+Trekant (se <sp>sfærisk Geometri</sp>) at finde
+de tre andre, idet den opstiller Relationer
+mellem trigonometriske Funktioner af fire hvilke
+som helst af Stykkerne (Eks.: <i>cos a</i> = <i>cos b cos c</i>
++ <i>sin b sin c cos A</i>, <i>sin a/sin A</i> = <i>sin b/sin B</i> = <i>sin c/sin C</i>, hvor
+<i>a, b, c</i> betegner Siderne, <i>A, B, C</i> de modstaaende
+Vinkler i Trekanten). Relationerne udledes i
+Lærebøgerne ved Anvendelse af Hjørnet, hvis
+Kanter er Radierne til Trekantens
+Vinkelspidser, og af Polartrekanten, og bringes paa de for
+Beregningen, der udføres ved de trigonometriske
+Tavler, hensigtsmæssigste Former. S. T. lærer
+ogsaa at finde andre Trekanten vedk. Størrelser
+som Arealet, omskrevne Cirkels Radius,
+Berø-ingscirklernes Radier, Højderne m. m. De
+første Spor af s. T. træffes hos Hipparch og
+Menelaos. Ptolemaios' Almagest indeholder
+Relationerne mellem tre Sider og mellem to Sider og
+en Vinkel i den retvinklede sfæriske Trekant,
+udledede ved Menelaos' Sætning; Relationerne
+mellem to Vinkler og en Side træffer vi først
+hos sene arab. Forf. (Om Overgangen fra
+Korder til trigonometriske Funktioner, se disse
+sidste). Regiomontanus behandler i <i>De triangulis
+omnimodis libri quinque</i> (1533) s. T. som en

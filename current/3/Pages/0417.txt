@@ -1,0 +1,121 @@
+<chapter name="Bladgrupper">
+<b>Bladgrupper</b> er særlig egnede for ikke helt
+smaa Haver og beplantes med Bladplanter, der
+i Karakter og Voksemaade passer sammen. For
+at en B. skal kunne gøre den tilsigtede
+Virkning, er det en Hovedsag, at Planterne er i
+yppig Vækst. Det er derfor nødvendigt ved
+vedholdende Tørke at vande rigelig og jævnlig,
+saaledes at Væksten aldrig gaar i Staa, og
+under Planternes Tiltrækning maa der ligeledes
+drages Omsorg for, at de er i uafbrudt kraftig
+Udvikling. Saa ofte Vejrforholdene tillader det,
+vandes med flydende Gødning.
+<i>L. H.</i>
+</chapter>
+
+<chapter name="Bladgrønt eller Klorofyl">
+<b>Bladgrønt</b> ell. <sp>Klorofyl</sp> er Navnet paa
+det Farvestof, som giver grønne Planter deres
+Farve. B. er uopløseligt i Vand, men opløseligt
+i Alkohol og Æter. Ekstraheres grønne Blade,
+som er dræbte ved Neddypning i kogende Vand,
+med stærk Alkohol, faas en Opløsning af B.
+Denne Opløsning er stærkt fluorescerende; i
+gennemfaldende Lys er den grøn, i
+tilbagekastet Lys derimod blodrød. Dens
+Absorptionsspektrum (se <sp>Spektralanalyse</sp>) er
+meget karakteristisk (Fig. 1); navnlig findes der
+et meget fremtrædende Absorptionsbaand i den
+røde Del af Spektret (mellem B og C).
+Absorptionen i den blaa Del af Spektret hidrører
+hovedsagelig fra Carotin, et gult Farvestof, der,
+som det ndf. skal omtales, ledsager B.
+
+Den Opløsning af B., man faar ved
+Ekstraktion med Alkohol, indeholder nemlig fl.
+Farvestoffer. Naar man udryster Opløsningen
+med Benzin, faar man de opløste Farvestoffer
+adskilt i to Dele, et grønt Farvestof, det egl.
+B., der gaar over i Benzinen, og et ell. fl.
+gule Farvestoffer, som gaar over i Alkoholen.
+De gule Farvestoffer bestaar af Carotin, en
+Kulbrinte med Sammensætningen C<sub>40</sub>H<sub>56</sub>, som
+er meget udbredt i Planteriget og f. Eks. findes
+i Gulerødder, og sandsynligvis fl. andre gule
+Farvestoffer (f. Eks. Xantofyl). Det egl. B.
+bestaar igen af to hinanden nærstaaende
+Farvestoffer; dets Sammensætning er [C<sub>31</sub>H<sub>29</sub>N<sub>4</sub>Mg]
+(CO<sub>2</sub>CH<sub>3</sub>) (CO<sub>2</sub>H) (CO<sub>2</sub>C<sub>20</sub>H<sub>39</sub>). B. er altsaa en
+sammensat Æterart, bestaaende af en Kerne,
+C<sub>31</sub>H<sub>29</sub>N<sub>4</sub>Mg, der kaldes Fytokromin, og 3
+Karboxylgrupper, af hvilke det første er forbundet
+med Metylalkohol, medens det andet er frit,
+og det tredie er forbundet med en Alkohol,
+C<sub>20</sub>H<sub>39</sub>OH, der kaldes Fytol. Klorofyllet
+indeholder altsaa ikke, som man tidligere troede,
+Jern, men derimod Magnium. Ved Tilsætning af
+Syre afspaltes Magnium, den grønne Farve
+forsvinder, og Opløsningen antager en brunlig
+Farve. I stærkt Lys antager Opløsningen
+efterhaanden en lgn. Farve.
+
+Dannelsen af B. i Planterne foregaar i Reglen
+kun, naar der er Lys til Stede. Af denne Grund
+faar Kimplanter af Frø, som spirer i Mørke,
+en gullig Farve; men de grønnes hurtigt, saa
+snart de udsættes for Lys. Endvidere dannes
+der kun B., naar der er Ilt til Stede; naar
+Kimplanter, som er spirede i Mørke, belyses i et
+iltfrit Rum, beholder de deres gule Farve. Jern
+er ogsaa en nødvendig Betingelse for
+B.-Dannelse. Hvis man dyrker Kimplanter af Majs i
+en vandig Næringsopløsning, som ikke
+indeholder Jern, bliver Bladene bleggule
+(saakaldt Blegsot), men en Tilsætning af et
+Jerntveiltesalt til Opløsningen bringer dem
+hurtigt til at antage deres normale grønne Farve.
+
+B. forekommer inde i Plantecellerne i Reglen kun i
+særlig afgrænsede Dele af Protoplasmaet,
+de saakaldte B.-Korn ell. Klorofylkorn. Disse
+formerer sig ved Deling. Deres Form er noget
+forskellig, hos højere Planter er de
+hyppigt linseformede. Deres
+finere Bygning er endnu ret ubekendt; hyppigt
+synes de at have en porøs Struktur paa
+lignende Maade som en Vaskesvamp.
+B.-Kornene har en meget stor Betydning for
+Planterne, idet det er ved Hjælp af dem, at
+Luftens Kulsyre omdannes til organisk Stof (se
+<sp>Kulsyreassimilation</sp>). Det organiske
+Stof, der dannes, er hyppigt Stivelse, og man
+træffer derfor i Blade, der i nogen Tid har
+været belyst, hyppigt Bladgrøntkornene fulde af
+Stivelsekorn (Fig. 2). Bladgrøntkornene kan i
+mange Tilfælde forandre Stilling inde i Cellen.
+I svagt Lys samler de sig langs de Cellevægge,
+som staar vinkelret paa Lysets Retning
+(Fladestilling), hvorved de frembyder den størst
+mulige Flade for Lyset; i stærkt Lys samler de
+sig derimod paa de Cellevægge, som ligger
+
+<img>Fig. 1. Bogstaverne betegner Fraunhofer'ske Linier,
+Tallene Bølgebreddeskalaen. Romertallene under
+Spektret angiver de Steder i dette, hvor Lysstraalerne
+fortrinsvis absorberes, og som derfor viser sig mørke
+(»Absorptionsbaand«). Særlig vigtig er Absorptionsbaandet
+<i>I</i> i det røde Lys mellem <i>B</i> og <i>C</i> (Skematisk,
+efter <i>Kraus</i>).</img>
+
+<img>Fig. 2. En Celle af et Mosblad;
+i Protoplasmaet ses Bladgrøntlegemer. De lyse
+Pletter i disse er Stivelsekorn. Tilhøjre (<i>b-b″</i>) et
+Bladgrøntlegeme, der deler sig; <i>e</i>
+et saadant, opfyldt med Stivelsekorn.
+Stærk Forstørrelse.</img>
+
+<img>Fig. 3. Skema for Bladgrøntlegemernes
+Stillingsforandringer. Pilene angiver Lysretningen.
+<i>A</i> en svagt, <i>B</i> en stærkt belyst Celle. I <i>A</i> har
+Bladgrøntlegemerne »Fladestilling«, i <i>B</i> »Profilstilling«.</img>

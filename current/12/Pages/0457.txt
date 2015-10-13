@@ -1,0 +1,112 @@
+en Linse ell. et Øje, interfererer de med en
+Faseforskel bestemt ved Forskellen mellem
+Vejene <i>B E</i> og <i>B D B'</i>, idet der tages Hensyn til,
+at Lysets Bølgebredde i Glasset er <i>n</i> Gange
+mindre end i Luft (<i>n</i> er Brydningsforholdet for
+den betragtede Farve) og tillige til, at der
+fremkommer en Faseforskel paa 1/2 hidrørende fra,
+at <i>BC</i> er reflekteret i Luft, <i>BD</i> derimod i
+Glasset. Paa Vejen fra <i>E</i> og <i>B'</i> til Straalernes
+Foreningspunkt bag Linsen ell. i Øjet indføres
+ingen yderligere Faseforskel; dette gælder altid
+for en Linse, idet Forskellen i Straalernes Veje
+kompenseres af, at den korteste Straale har
+mest af sin Vej liggende i Linsens Glas, hvor
+Bølgebredden er kortere, saa at
+Forplantningstiden bliver den samme. Den resulterende
+Faseforskel kommer da til at afhænge af Lysets
+Bølgebredde (Farve), Pladens Tykkelse og Stof
+og af Indfaldsvinklen φ Belyses Pladen med
+hvidt Lys, vil der i det reflekterede Lys
+mangle de Farver, for hvilke Faseforskellen er et
+ulige Antal halve; er Pladen saa tynd, at der
+kun mangler et enkelt ell. nogle faa Omraader
+af Spektret, viser den i reflekteret Lys livlige
+Farver, medens en tykkere Plade, for hvilken
+der mangler adskillige af Spektrets Farver, af
+de ovf. omtalte Grunde ikke mere viser
+Farver. Ogsaa i det gennemgaaende Lys
+optræder Farver, komplementære til dem i det
+reflekterede og fremkomne ved I. mellem
+Straalerne <i>D D D'</i>; disse Farver er dog langt
+svagere, da der er iblandet meget hvidt Lys
+hidrørende fra den første brudte Straale, der er
+langt stærkere end alle de flg. Straaler.
+
+Er Pladen ikke lige tyk overalt, men f. Eks.
+kileformet, ser man i reflekteret Lys mørke
+I.-Striber parallelle med Kilekanten, idet der
+kommer Mørke paa de Steder af Pladen, hvor
+Tykkelsen er en saadan, at den resulterende
+Faseforsel bliver 1/2, altsaa hvor den samlede
+optiske Vejforskel under Hensyntagen til de
+nævnte Omstændigheder er et ulige Antal
+halve Bølgebredder. En Forudsætning for at
+iagttage alle disse I.-Fænomener er, at Lyskilden
+er udstrakt; endvidere maa den i sidstnævnte
+Tilfælde udsende homogent Lys, hvis Pladen
+ikke er overordentlig tynd. Den nøjagtige Teori
+for disse Striber er meget indviklet; kun naar
+Lyset falder næsten vinkelret ind mod Pladen,
+gælder det her fremsatte tilnærmelsesvis, saa
+at Striberne synes at ligge i selve Pladen.
+
+Mest kendt af de herhenhørende
+I.-Fænomener er <sp>Newton's Ringe</sp>. Newton
+frembragte et tyndt Luftlag af vekslende Tykkelse
+ved at lægge en svagt krummet Konvekslinse <i>L</i>
+(Fig. 2) paa en plan Glasflade <i>P</i>. Belyses de fra
+oven, giver Luftlaget I.-Striber, der faar Form
+af koncentriske Cirkler, idet Steder med
+samme Tykkelse af Luftlaget ligger i en Cirkel om
+Berøringspunktet som Centrum. Beregningen af
+Faseforskellen er her let; af to Straaler, der
+interfererer med hinanden, og hvoraf den ene
+altsaa reflekteres fra et bestemt Punkt af <i>L</i>'s
+Underside, den anden fra det lige derunder
+liggende Punkt af <i>P</i>'s Overside, har den sidste
+gennemløbet en Vej, som er det dobbelte af
+Luftlagets Tykkelse paa dette Sted længere end
+den andens Vej. Til det Antal Bølgebredder,
+som indeholdes i denne Vej for skel, skal, som
+nævnt, adderes 1/2 p. Gr. a. den forsk.
+Refleksion. I Berøringspunktet er Luftlagets
+Tykkelse 0 og den resulterende Faseforskel altsaa
+1/2, saa at Berøringspunktet og den nærmeste
+Omegn er sorte i reflekteret Lys. Belyses med
+homogent Lys, f. Eks. Natriumlys, er hele
+Arealet i øvrigt dækket af afvekslende lyse og
+mørke Ringe (se Fig.); de sidstes Radier
+forholder sig som Kvadratrødderne af Tallene 1, 2, 3
+. . ., og for Lys af forsk. Bølgebredder er
+Radius i en Ring af bestemt Nummer
+proportional med Kvadratroden af Bølgebredden.
+Belyses med hvidt Lys, faas derimod af den oftere
+omtalte Grund kun faa Ringe med den
+karakteristiske Farvefølge uden om den sorte
+Midterplet; ser man paa dette Ringsystem gennem
+et rødt Glas, faas atter et stort Antal
+afvekslende røde og mørke Ringe, gennem et blaat
+Glas et stort Antal afvekslende blaa og mørke
+Ringe med mindre Radier end for de
+tilsvarende røde; med hvidt Lys kan man da opfatte
+Ringsystemet som en Overlejring af alle de
+enkelte Farvers Ringsystemer, der nær Centrum
+giver de faa farvede Ringe og længere borte
+praktisk talt hvidt Lys, fordi der paa hvert St.
+mangler for mange jævnt fordelte Omraader af
+Spektrets Farver, til at det mærkes.
+
+Løftes Linsen langsomt op fra Pladen,
+skrumper Ringene sammen, medens der ved Randen
+stadig dannes ny. Dog vil ved stor Tykkelse af
+Luftlaget Ringene forsvinde, og i det hele de
+her behandlede I.-Fænomener forsvinde ved
+stor Pladetykkelse, fordi der fra, et bestemt
+Punkt af Pladens (Glaspladen i Fig. 1 ell.
+Luftpladen ved Newton's Ringe) Overflade naar fl.
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+

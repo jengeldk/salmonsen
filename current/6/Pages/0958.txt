@@ -1,0 +1,143 @@
+i Teddington og <i>Bureau of Standards</i> i
+Washington, der stod i nært indbyrdes Samarbejde
+indtil 1914), sikrer, at man overalt maaler med
+de samme Enheder, saa at Resultater fra de
+forsk. Steder og Tider direkte kan
+sammenlignes. Samtidig har det store Tal af nøjagtige
+og bekvemme elektriske Maaleapparater, som
+nu er konstruerede for alle i Betragtning
+kommende elektriske Størrelser, gjort det muligt
+at foretage de fleste elektriske Maalinger
+overmaade let og nøjagtigt. (<sp>Litt</sp>.: Foruden de
+større Lærebøger i Elektricitetslære, Rapporter
+fra de elektriske Kongresser og Afhandlinger
+fra de omtalte Prøveanstalter: Foredrag af
+<sp>Absalon Larsen</sp> om L. Lorenz i »Ingeniøren«
+og »Fysisk Tidsskr.« 1915).
+<i>H. M. H.</i></chapter>
+
+<chapter name=”elektriske Maaleinstrumenter”>
+<b>elektriske Maaleinstrumenter.</b> De i
+Teknikken mest anvendte Maaleinstrumenter er
+<sp>Ampèremetre</sp>, <sp>Voltmetre</sp> og
+<sp>Wattmetre</sp> til Maaling af henh. Strøm, Spænding
+og Effekt. Disse 3 behandles i denne Artikel.
+Wattmetre anvendes i Reglen kun ved
+Vekselstrøm (en- ell. flerfaset). Ved Vekselstrøm
+anvendes desuden <sp>Fasemaalere</sp>,
+<sp>Synkronoskoper</sp> og <sp>Frekvensmaalere</sp> (se
+disse Artikler).
+
+De nævnte Instrumenter er enten indrettede
+til Anbringelse paa en Instrumenttavle,
+<sp>Tavleinstrumenter</sp>, og bestemte til Dagen
+igennem at give den Vagthavende ved elektriske
+Anlæg Midler til at kontrollere Driften, eller de
+er <sp>Laboratorieinstrumenter</sp>, som
+kan lægges ell. stilles paa et Bord og anvendes
+ved Forsøg. Laboratorieinstrumenter anvendes
+ikke blot i elektrotekniske Fabrikkers
+Prøverum, men ogsaa i Undervisnings- og
+Forsøgsanstalter og er af stor Bet. som Hjælpemidler
+ved naturvidenskabelig Forskning. Dette afgiver
+et interessant Eksempel paa Vekselvirkningen
+mellem Teknik og Videnskab, idet det for
+Maaleapparaterne til Grund liggende Princip i
+Reglen stammer fra Fysikken, medens
+Apparaternes fabrikationsmæssige Fremstilling og
+Fuldkommengørelse har været Teknikkens Sag.
+
+Tavleinstrumenter er som oftest <sp>runde</sp>,
+Indesluttede i et Messinghus med Glas paa
+Forsiden, hvorigennem man ser den paa hvid
+Grund tegnede Skala og Viseren, hvis Stilling
+angiver den maalte Størrelse. Undertiden
+anvendes saakaldte <sp>Profilinstrumenter</sp>,
+der delvis er indbyggede i Tavlen og vender
+Siden fremad.
+
+Laboratorieinstrumenterne er i Reglen
+monterede paa et Grundbræt af Mahognitræ.
+Desuden adskiller de sig fra Tavleinstrumenterne
+derved, at Viseren er stillet paa Højkant, og at
+der langs med Skalaen er anbragt et Spejl.
+Man sørger da for at holde sit Øje saaledes,
+at Viserens Spejlbillede dækkes af Viseren selv;
+man vil da se vinkelret ind paa Skalaen og
+følgelig undgaa Aflæsefejl hidrørende fra, at
+man ser skraat ind. Præcisions-Ampèremetre og
+Voltmetre bærer i Reglen en Skala med
+Inddeling fra 0 til 150. Med nogen Øvelse kan man
+bedømme Viserens Stilling med en Nøjagtighed
+af omtr. 1/10 af Afstanden mellem to
+Inddelinger, og ved gode Instrumenter er Instrumentets
+Fejl i Reglen ingen Steder over 1/5 af Afstanden
+mellem to Naboinddelinger.
+
+Som Tilbehør til Jævnstrømsampère- og
+Voltmetre anvendes henh. <sp>Shunter</sp>- og
+<sp>Forlagsmodstande</sp>, der dog kan være
+indbyggede i selve Instrumentet. Som Tilbehør til
+Vekselstrømsinstrumenter anvendes desuden
+<sp>Strømtransformatorer</sp> (s. d.) og
+<sp>Spændingstransformatorer</sp> (s. d.).
+
+Ved en Beskrivelse af Instrumenternes
+Virke-maade er det naturligt at gaa frem efter det
+til Grund for Instrumentet liggende Princip. Ved
+de alm. Jævnstrømsampèremetre og Voltmetre
+anvendes 1) <sp>en permanent
+Staalmagnet</sp> og en Strømspole af Kobbervindinger, som
+under Strømmens Indvirkning drejer sig i
+Forhold til Magneten. - Præcisionsampère-,
+Voit- og Wattmetre til Vekselstrøm er 2)
+<sp>Elektrodynamometre</sp>, d. v. s. de har en fast
+og en bevægelig Spole, som paavirker hinanden,
+naar der gaar Strøm igennem dem. - En tredie
+Art Instrumenter er 3) de saakaldte
+<sp>Blødtjernsinstrumenter</sp>, hvor en ganske
+lille Jernkerne magnetiseres og paavirkes af en
+Spole. - Hovedsagelig som Voltmetre ved høje
+Spændinger anvendes 4) <sp>statiske
+Instrumenter</sp>, hvor den virkende Kraft
+fremkommer ved den elektrostatiske Tiltrækning mellem
+en fast og en bevægelig Plade e. l. -
+Udelukkende til Vekselstrøm anvendes 5)
+<sp>Induktionsinstrumenter</sp>, hvor den virkende
+Kraft fremkommer ved Vekselvirkning mellem
+magnetiske Vekselfelter og elektriske Strømme,
+fremkaldte ved Induktion. - Ved de nævnte
+Arter af Instrumenter er det i Reglen en
+Metalfjeder (Spiralfjeder), som paavirkes af den
+virkende Kraft og giver en med voksende Udslag
+voksende Modkraft. Viserens Indstilling er da
+betinget af, at de to Kræfter holder hinanden
+i Ligevægt. - Ved 6) <sp>kaloriske
+Instrumenter</sp> er det derimod en termisk Ligevægt,
+som betinger Udslaget, idet Strømmen
+opvarmer en Traad (e. l.), som derved udvider sig,
+indtil dens Temp. er naaet saa højt, at der er
+Ligevægt mellem den tilførte og den afgivne
+Varme.
+
+1. <sp>Instrumenter med faste
+Magneter og bevægelige Vindinger</sp>.
+Fig. 1 og 2 viser skematisk et saadant Instrument,
+<i>a</i> er en permanent Staalmagnet, <i>b</i>, <i>b</i> Polsko af
+blødt Jern, udborede med et cylindrisk Rum
+imellem sig. I dette er anbragt en nøjagtig
+afdrejet og centreret Jernkerne <i>c</i>. Igennem en
+central Udboring i <i>c</i> gaar en Akse <i>d</i>, som
+bærer en paa en Kobberramme viklet Spole af
+Kobbervindinger, <i>e</i>. Strømmen ledes til og fra
+Spolen gennem to Spiralfjedre af Bronze,
+<i>f</i>. Jernkernen er befæstet til Messingstykker,
+som er skruede paa Polskoene. Aksen
+bærer ved Enderne fine Staaltappe, som gaar
+i Stenlejer (Urmagerarbejde): - Naar en
+(svag) Strøm sendes ind igennem Spolen,
+bliver denne af de magnetiske Kraftlinier
+mellem Polsko og Jernkerne paavirket med
+en Kraft, som drejer Spolen, indtil
+Spiralfjedrene er snoede saa meget, at deres
+Snoningsmodstand holder Ligevægt med

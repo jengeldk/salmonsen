@@ -1,0 +1,141 @@
+Antennen, hvorved bl. a. opnaas, at den udsendte
+Bølge bliver renere, og at dens Længde bliver
+praktisk talt uafhængig af Antennens
+Kapacitetsvariationer hidrørende fra Antennens
+(mekaniske) Svingninger o. l. Bølgelængdens
+Konstans kan dog ogsaa opretholdes paa anden
+Maade.
+
+Foruden Buegeneratoren er en Rk. andre
+Generatorer for kontinuerlige højfrekvente
+Svingninger udviklede til stor Fuldkommenhed.
+Ved Løsningen af Opgaven er man gaaet to
+forsk. Veje: Højfrekvensmaskinerne og
+Elektronrøret. Højfrekvensmaskinerne er udviklede
+paa Grundlag af de fra Stærkstrømsteknikken
+kendte Vekselstrøtmsgeneratorer. Men medens
+de sidste kun giver 25, 50 ell., naar det kommer
+højt, 100 Perioder pr Sek., saa skal
+Højfrekvensmaskinerne op til omkr. 20000 Perioder
+pr Sek. og derover. Dette Problem frembyder
+overordentlig store Vanskeligheder, og den
+eneste, der paa tilfredsstillende Maade har løst det
+direkte, er den sv. fødte amer. Ingeniør <sp>E.
+Alexanderson</sp>. Hans Løsning er uden
+Tvivl, set fra et mekanisk Synspunkt, et
+Mesterværk. Man kommer ved hans Generator
+op paa Omkredshastigheder af de roterende
+Dele, der ligger omkr. 300 m pr Sek.
+
+En Rk. andre Konstruktører har undgaaet
+de med de store Hastigheder forbundne
+Vanskeligheder ved at lade selve
+Vekselstrømsmaskinen frembringe en Strøm med et noget
+mindre Periodetal og saa ad anden Vej forhøje
+dette f. Eks. ved Hjælp af stillestaaende
+»Frekvensfordoblere« ell. »Frekvensmultiplikatorer«,
+der som Regel beror paa Jernets ejendommelige
+magnetiske Forhold. Til disse hører de af
+»Telefunken« og »C. Lorenz« konstruerede
+Højfrekvensmaskiner.
+
+I den fr. Béthenod-Latour Maskine foretages
+»Frekvensforhøjelsen« i selve Maskinen.
+
+Ved Højfrekvensmaskinerne er
+Svingningernes Frekvens og derfor ogsaa de udsendte
+Bølgers Længde bestemt ved Maskinens
+Omløbshastighed; denne maa derfor ved særlige
+Hjælpemidler holdes meget konstant. Ved
+Buegeneratorerne og Elektronrørgeneratorerne, der
+omtales ndf., er Svingningstal og Bølgelængde
+bestemt ved de elektriske Forhold i de
+tilknyttede elektriske Svingningskredse. De to
+sidstnævnte Typer af Generatorer har overhovedet
+mange Lighedspunkter.
+
+I <sp>Elektronrørgeneratoren</sp> eller
+<sp>Termiongeneratoren</sp> danner
+Elektronrøret Grundlaget (se <sp>Termioneraission</sp>)
+paa tilsvarende Maade, som den elektriske Bue
+danner Udgangspunktet for Buegeneratoren, og
+Virkemaaden er i fl. Henseender analog. De
+benyttede Elektronrør har som Regel 3
+Elektroder: Den ene af disse er Glødetraaden (<i>f</i>, se
+Fig. 28), der holdes glødende fra Batteriet <i>Bf</i>,
+og hvorfra Elektronemissionen foregaar.
+Glødetraaden bestaar for ganske smaa Generatorrør
+af en tynd Metaltraad, som Regel af Volfram,
+der ved Strømmen fra et Par Elementer
+opvarmes til den fornødne, høje Temp. Ved store
+Generatorrør kan Glødetraaden bestaa af tykke
+Volframstraade ell. -stænger, der f. Eks. kan
+opvarmes ved lavfrekvent Vekselstrøm, der
+tages fra en særlig dertil indrettet
+Transformator. Glødetraaden er Rørets Katode.
+
+Den anden Elektrode bestaar af Gitteret (<i>g</i>),
+der som Regel anbringes mellem Glødetraaden
+og den tredje Elektrode, Pladen (<i>p</i>). Gitteret
+kan bestaa af et Traadnet, en gennemhullet
+Plade ell. være formet paa anden Maade. Dets
+Opgave er at styre, regulere eller kontrolere
+Værdien af Pladestrømmen, og Styringen
+tilvejebringes ved at ændre Gitterets Potential som
+omtalt nærmere ndf., se ogsaa Fig. 29.
+
+Pladen (<i>p</i>) danner den tredje Elektrode og er
+Rørets Anode. Pladen optager de Elektroner,
+der fra Glødetraaden passerer Gitteret, og da
+disse Elektroner ved deres Fald ind imod og
+ind i Pladen har en til Pladespændingen
+svarende stor Hastighed, saa vil de ved
+Sammenstødet med Pladen tilføre denne Energi, og dens
+Temp. vil derfor stige. Pladens Varmeafgivelse
+foregaar paa to Maader, nemlig dels gennem
+Straaling, dels ved Ledning gennem
+Tilledningstraaden. Ingen af disse Afkølingsmuligheder er
+dog særlig virksomme, hvorfor Pladens Temp.
+ved Omsætning af større Energimængder i
+Røret bliver høj. For smaa Rør er denne
+Vanskelighed dog uden Bet., og for store Rør er det
+i den nyeste Tid lykkedes at forme »Pladen«
+som et Kobberrør, der forbindes lufttæt med
+Glasbeholderen, gennem hvilken den isolerede
+Tilledning til Glødetraad og Gitter kan finde
+Sted. Varmeafledningen kan da foregaa fra
+Kobbercylinderens udvendige, fri Overflade
+og kan uden Vanskelighed gøres tilstrækkelig
+effektiv. Glødetraaden (en Volframstang)
+»anbringes da i Cylinderens Akse og Gitteret i
+Mellemrummet mellem Glødetraad og
+Kobbercylinderen. Fig, 30 viser et Fotografi af et
+saadant Rør. Et enkelt Rør af denne Konstruktion
+vil formentlig kunne bygges til Optagelse af fl.
+Hundrede Kilowatt.
+
+Elektronrørets Virkemaade som Generator for
+elektromagnetiske Svingninger beror paa
+3-Elektroderørets ejendommelige elektriske
+Egenskaber, der paa den simpleste Maade
+fremstilles ved Hjælp af Rørets Karakteristikker. Det
+vigtigste Sæt af disse fremstiller
+Pladestrømmens Afhængighed af Gitterspændingen. I Fig.
+28 er angivet de forsk. Betegnelser for
+Spændinger og Strømme, medens Fig. 31 viser
+Pladestrømmens (<i>J<sub>p</sub></i>) Afhængighed af
+Gitterspændingen (<i>V<sub>g</sub></i>) for de 3 konstante Pladespændinger
+<i>V<sub>p</sub></i> = <i>V<sub>o</sub></i>, <i>V<sub>p</sub></i> = <i>V</i> + <i>k</i> og <i>V<sub>p</sub></i> = <i>V<sub>o</sub></i> + 2 <i>k</i>
+Volt. De 3 Kurver er altsaa
+Pladestrøms-Gitterspændings-Karakteristikker [<i>J<sub>p</sub></i>, <i>V<sub>g</sub></i>) — Karakteristikker]. Naar Pladespændingen er saa stor,
+at Kurvernes krumme Del svarer til negative
+Gitterspændinger, saa vil de 3 Kurver have
+samme Form og kun være parallelforskudte i
+Forhold til hverandre paa en saadan Maade,
+at den til <i>V<sub>p</sub></i> = <i>V<sub>o</sub></i> + <i>k</i> svarende Kurve er
+forskudt et Stykke til venstre for <i>V<sub>o</sub></i>-Kurven
+og (<i>V<sub>o</sub></i> + <i>k</i>)-Kurven et lige saa stort Stykke
+til venstre for (<i>V<sub>o</sub></i> + <i>k</i>)-Kurven. I Fig. 31 er
+Forholdene valgt saaledes, at den omtalte
+Forskydning, maalt i Gitterspænding, er lig med 1
+Volt. Det fremgaar heraf, at en Ændring paa

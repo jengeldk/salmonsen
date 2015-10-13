@@ -1,0 +1,134 @@
+giver for nogle Stoffers Vedk. Anledning til
+Udsendelse af γ-Straaler.
+
+Som Eksempel paa en saadan radioaktiv
+Omdannelse vil vi først betragte Urans Forhold. Har
+dette Metal ligget urørt i længere Tid,
+udsender det baade α- og β-Straaler. Opløses det i
+en Syre, kan det fældes ved Tilsætning af
+kulsur Ammoniak, men det opløses igen ved
+Overskud af Fældningsmidlet, hvorved der dog
+bliver en lille Rest af uopløste Urenheder
+tilbage. Skiller man Resten fra, og fremstiller man
+Uranet paa ny af Opløsningen, vil det vise sig,
+at det nu kun udsender α-Straaler, medens
+β-Straalerne udsendes fra den uopløste Rest;
+denne indeholder da ogsaa et radioaktivt Stof,
+som kaldes Uran X (UX). Naar det for UX
+befriede Uran ligger hen nogle Maaneder,
+forholder det sig, som før Fældningsprocessen
+fandt Sted; det udsender igen baade α- og
+β-Straaler, og der kan atter udskilles UX af det;
+men samtidig vil man finde, at det først
+udskilte UX er ophørt med at udsende Straaler.
+Maaler man β-Straaleaktiviteten af det
+fraskilte Uran X og det for sit UX-Indhold befriede
+Uran hver for sig, vil man finde, at den første
+tager af, og den anden tager til efter Kurverne
+i Fig. 3. Efter 25 Dages Forløb har UX kun
+sin halve β-Straaleaktivitet, men samtidig har
+Uranet genvundet Halvdelen af sin opr.
+β-Straaleaktivitet. Uranets α-Straaleaktivitet
+holder sig hele Tiden uforandret. Sammenhængen
+er da følgende: For hver α-Partikel, Uranet
+udsender, bliver et Uranatom til et Atom UX,
+og denne Produktion af UX foregaar med
+konstant Hastighed, da den foregaar langsomt nok
+til, at det ikke svinder kendeligt i Antallet af
+uomdannede Uranatomer. Atomerne af UX er
+imidlertid ogsaa instabile og omdannes efter
+nogen Tids Forløb under Udseende af en
+β-Partikel til et tredie Stof. Nu er
+Omdannelseshastigheden for UX mangfoldige Gange større
+end for Uran; i Uran, der har henligget urørt
+i længere Tid, vil der derfor være en vis lille
+Ligevægtsmængde UX til Stede, nemlig saa
+meget, at der i et vist Tidsrum omdannes lige
+saa mange UX-Atomer, som der nydannes fra
+Uranet. Dette Uran vil da have en konstant
+β-Straaleaktivitet, medens den er variabel for
+hvert af Stofferne, naar de isoleres. Naar UX
+isoleres, har det ingen Mulighed for at faa
+dækket Afgangen bl. Atomerne, hvorfor
+Aktiviteten maa aftage; den er til enhver Tid
+proportional med det endnu tilstedeværende
+Antal uomdannede UX-Atomer. Det for UX
+befriede Uran udsender i første Øjeblik ingen
+β-Straaler, men da Produktionen af UX foregaar
+uforandret, vokser β-Straaleaktiviteten igen.
+Den vokser langsommere og langsommere, idet
+de nydannede UX-Atomer ogsaa efterhaanden
+omdannes, og den naar til sidst den ovenn.
+Ligevægtsværdi. Man siger da, at de 2 Stoffer,
+Uran og UX, er i <sp>radioaktiv Ligevægt</sp>.
+De to Kurver i Fig. 3 er symmetriske, fordi der
+i hvert Tidsrum gendannes lige saa meget nyt
+UX i Uranet, som der forsvinder i det fraskilte
+UX; enten UX er skilt fra Uranet ell. ej, vil
+der til enhver Tid være lige meget deraf.
+
+Tilsvarende Omdannelser finder Sted i alle
+radioaktive Stoffer, men med højst forsk.
+Hastigheder. For ethvert Stof gælder det, at der
+pr Sek. gaar en ganske bestemt Brøkdel af
+samtlige uomdannede Atomer itu, saa at det
+tager en for hvert Stof karakteristisk Tid, før
+Halvdelen af den tilstedeværende Stofmængde
+er omdannet; denne Tid kaldes
+<sp>Halveringstiden</sp> og er det bedste Karakteristikum for
+et radioaktivt Stof. Halveringstiderne varierer
+for de forsk. Stoffer fra Milliarder Aar til
+nogle Billiontedele af et Sek. For Uranet selv
+er den 5 Milliarder Aar.
+
+Mellemstofferne er p. Gr. a. deres sædvanlig
+korte Levetid kun til Stede i saa ringe Mængde,
+at man ikke kan veje dem; deres
+Tilstedeværelse kan derfor i Reglen kun paavises ved
+de Straaler, som de udsender. I radioaktiv
+Ligevægt forholder Mængderne af de
+tilstedeværende Stoffer sig som deres Halveringstider.
+Til 1 g Uran hører altsaa 10 Billiontedele g
+UX, der endnu kan paavises ved Straalingen.
+Naar saa smaa Mængder Stof kan paavises,
+skyldes det de store Energimængder, der
+frigøres ved de radioaktive Omdannelser. Vi maa
+antage, at Atomerne i deres Indre besidder
+uhyre Forraad af Energi; lidt deraf frigøres
+ved Omdannelsen, saa at det nydannede Atom
+har et mindre Energiindhold. Der er altsaa
+ingen Modstrid mod Loven om Energiens
+Bevarelse. Af den tidligere omtalte
+Varmeudvikling fra Radium i Forbindelse med dets
+Halveringstid 1700 Aar findes, at 1 g Radium, naar
+det helt er bleven omdannet, har udviklet i alt
+3 Milliarder Gramkalorier. Af denne Energi
+hidrører dog kun c. 18 % fra selve Radiums
+Omdannelse, Resten fra de første kortlevende
+Mellemstoffers Omdannelser, der omtales ndf.
+Til Sammenligning skal anføres, at 1 g Brint
+ved Forbrænding udvikler godt 30000 Kalorier
+ell kun 1/100000 af Omdannelsesenergien for 1
+g Radium.
+
+Den foran omtalte Grundlov for alle
+radioaktive Omdannelser, at der i hvert Sek.
+omdannes en ganske bestemt (men for de forsk. Stoffer
+forsk.) Brøkdel af samtlige tilstedeværende
+uomdannede Atomer, betyder, at der i hvert Øjeblik
+er nøjagtig den samme Sandsynlighed for, at et
+hvilket som helst af Atomerne skal være det
+næste, der omdannes. Omdannelsen er altsaa
+ikke Resultatet af en langsomt forløbende
+Udvikling i Atomet, naar Sandsynligheden for
+Atomets Død ikke som i den organiske Verden
+stiger med Alderen. Loven maa dog ikke tages
+bogstaveligt; der er, som i alle Tilfælde, hvor
+Sandsynlighedslovene regerer, Svingninger i
+Antallet af Atomer, der omdannes pr Sek.,
+saaledes at det anførte gælder for Middeltallet af
+de pr Sek. omdannede, men disse Svingninger
+faar ved de meget store Antal af Atomer, der
+næsten altid er Tale om, ingen Bet. Ved smaa
+
+<img>Fig. 3. Aktivitetens Forløb for Uran og Uran X.</img>

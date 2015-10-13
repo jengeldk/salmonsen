@@ -1,0 +1,115 @@
+en saadan Shunt-Maaler fra Siemens & Halske.
+Børsterne er haarfine Metaltraade, som ligger
+an imod Kommutatoren med et konstant ringe
+Tryk. Aksen hviler med en Staaltap paa et
+Stenleje. Kommutatoren er det ømme Punkt
+ved denne Art Maalere.
+
+Maalerne 1, 3 og 4 er Ampèretimemaalere.
+Paa Cifferbladet er der dog altid multipliceret
+med den konstante Spænding, ved hvilken
+Maaleren skal
+anvendes, saaledes, at man
+aflæser Watttimer (ell.
+Kilowatttimer). Men
+Maalernes Visning
+paavirkes i
+Virkeligheden ikke af
+Spændingen.
+
+5) <sp>Elektrodynamiske Maalere</sp>. Princippet i
+denne Art Maalere er
+vist skematisk i Fig.
+8. Hovedstrømmen <i>J</i>
+gennemløber to
+Spoler <i>Sp</i>, som derved frembringer et
+magnetisk Felt i Rummet mellem sig, hvor der
+befinder sig et af 3 Spoler bestaaende Anker <i>a</i>,
+som kan rotere om en lodret Akse. Ankeret
+er forbundet i Serie med en stor Modstand <i>Rf</i>
+og gennemløbes af en ganske svag Strøm <i>i</i>,
+som er proportional med den mellem de to
+Ledninger herskende Spænding <i>E</i>. Feltet
+mellem Strømspolerne paavirker Ankeret til
+Drejning med en Kraft, som er proportional med
+Strøm X Spænding. Paa Ankerets Akse sidder
+en Aluminium skive <i>Sk</i>, som passerer mellem
+Polerne af en Staalmagnet <i>M</i>. Ved Rotationen
+opstaar der Hvirvelstrømme, som bremser med
+en Kraft, som er
+proportional med
+Omdrejningshastigheden.
+Da Bevægelsen
+indstiller sig saaledes, at
+Drivkraft og
+Bremsekraft er lige store og
+modsatte, bliver
+Omdrejningshastigheden
+proportional med
+Produktet Strøm X
+Spænding. Tælleværket
+opsummerer følgelig
+Produktet Strøm X
+Spændin X Tid, og Maaleren
+er derfor en virkelig <sp>Watttimemaaler</sp>.
+
+Ved alle roterende Maalere vil den mek.
+Gnidning i Lejet, ved Tælleværket og eventuelt
+ved Kommutatoren bevirke, at Maaleren viser
+forholdsvis mindre ved smaa Belastninger og
+staar stille, naar Forbruget ligger under en vis
+Grænse. Ved denne Art Maalere bliver denne
+Fejl ophævet derved, at Ankerstrømmen, som
+i Anlæg med konstant Spænding er praktisk
+talt konstant, gennemløber en fast Spole <i>K</i>, som
+indstilles saaledes, at den derfra hidrørende
+Drivkraft vejer op imod Gnidningsmodstanden.
+Fig. 9 viser det virkelige Udseende af en
+elektrodynamisk Maaler fra Bergmann.
+
+6) <sp>Induktionsmaalere</sp>.
+Induktionsmaalere. er kun anvendelige ved Vekselstrøm.
+Den bevægelige Del bestaar simpelthen af en
+Kobber- ell. Aluminiumskive <i>Sk</i> (Fig. 10), fæstet
+paa en med Tælleværket <i>T</i> forbundet Akse.
+Skiven drives rundt
+af et System af to
+Vekselstrømsmagneter <i>Sp</i> og <i>St</i>.
+Den førstes
+Bevikling bestaar af
+mange Vindinger
+tynd Traad(f. Eks.
+5000 Vindinger
+Kobbertraad 0,1 mm
+Diameter) og forbindes til de to Ledninger
+saaledes, at den gennemløbes af en svag
+Vekselstrøm <i>i</i>, der praktisk talt er proportional med
+Spændingen og begrænset af Spolens
+Selvinduktion. Den kaldes Spændingsspolen. Beviklingen
+paa den ånden Vekselstrømsmagnet <i>St</i>
+gennemløbes af Forbrugsstrømmen <i>J</i> og kaldes
+Strømspolen. Fig. 11 og 12 anskueliggør, hvorledes
+Drivkraften fremkommer. Spændingsmagnetens
+magnetiske Vekselfelt <i>F</i>1 fremkalder i Skiven
+Hvirvelstrømme <i>S</i>1 (Fig. 11), som paavirkes til
+Drejning af Strømmagnetens Vekselfelt <i>F</i>2,
+medens omvendt Strømmagnetens Vekselfelt <i>F</i>2
+frembringer Hvirvelstrømme <i>S</i>2 (Fig. 12), som
+paavirkes til Drejning af Spændingsmagnetens
+Felt <i>F</i>1. - Strømmen i i Spændingsspolen er
+stærkt faseforsinket i Forhold til Spændingen. Ved
+forsk. Midler kan man ændre noget paa
+Faseforskydningen mellem de forsk.
+
+<img>
+Fig. 11. Spændingsfeltets Hvirvelstrømme.
+</img>
+<img>
+Fig 12. Strømfelternes Hvirvelstrømme.
+</img>
+<img>
+Fig. 13. 3-faset Maaler.
+</img>
+<img>
+Fig. 14. 3-faset Maaler.
+</img>

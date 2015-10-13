@@ -1,0 +1,173 @@
+stærkt, inden det bliver muligt at aflæse dem.
+Ved nogle Apparater nøjes man med at kunne
+aflæse de enkelte Angivelser, andre er
+indrettede til selv at kunne optegne Resultaterne (er
+selvregistrerende). De første brugelige
+Spændingsmaalere er konstruerede af de franske
+Ingeniører <sp>Dupuy</sp> (1877) og Manet (1878) og
+af den tyske Prof. <sp>Fränkel</sp> (1881,
+selvregistrerertde). Efterhaanden er der indført talrige
+Forbedringer, uden at det dog endnu kan
+paastaas, at man er naaet til et i alle Henseender
+tilfredsstillende Resultat. De nu til Dags
+hyppigst brugte Apparater er
+<sp>Manet-Rabut-Mantel</sp>'s, <sp>Okhuizen</sp>'s, <sp>Berry</sp>'s
+Ekstensometer (opr. angivet af <sp>Howard</sp> og
+modificeret af flere) og adskillige andre. Ved forskellige
+af de Maalinger, der kan blive Tale om, ligger
+Vanskeligheden i, at der kræves optegnet
+hurtige Svingninger, og at Apparaternes egen
+Inerti saa let bliver for stor. Der er gjort
+Forsøg paa at komme uden om denne
+Vanskelighed ved at benytte, ikke et materielt
+Vægtstangssystem, men en Lysstraale, der kastes
+tilbage fra et lille Spejl og optegner Resultatet
+paa en fotografisk Plade (til Forstørrelsen
+<sp>Fereday-Palmer</sp>).
+
+De første større Rækker af S. paa færdige Broer
+er udførte af <sp>Rabut</sp> i Slutn. af forrige Aarh.,
+og herved henledtes Opmærksomheden paa det
+baade praktiske og videnskabelige Udbytte, man
+kan naa ad denne Vej. Af senere større
+Forsøgsrækker skal nævnes: <sp>Turneaure</sp> (1898)
+og <i>American Railway Engineering Association</i>
+(1907—10), <sp>Mesnager</sp> (1896—99), eng.
+Maalinger, foranledigede af <i>Ministry of Transport</i>
+(1921), schweiziske Undersøgelser (»Techn.
+Kommission des Verbandes schweiz.
+Brückenbau-Fabriken«, T. K. V. S. B., <sp>Roš</sp>, <sp>Bühler</sp>,
+<sp>Hübner</sp>, 1917—25), o. fl. Nu til Dags
+foretages saadanne Undersøgelser af de fleste
+større Administrationer, der har Ansvaret for
+Bygning og Vedligeholdelse af Broer. Det er
+navnlig Studiet af saadanne Spørgsmaal som
+Sekundærspændinger, den bevægelige Belastnings
+Stødvirkninger, den fordelende Virkning af
+Brobanekonstruktionens Kontinuitet o. lgn., der
+har nydt godt af denne nye
+Undersøgelsesmaade.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Spændingsrække">
+<b>Spændingsrække,</b> se <sp>elektrisk S</sp>.
+</chapter>
+
+<chapter name="Spændingstransformatorer">
+<b>Spændingstransformatorer.</b> Ved
+Højspændingsanlæg er det ikke muligt at føre
+Ledninger direkte fra Maskinerne til de for
+Maalingen af Spændingen nødvendige Voltmetre, dels
+fordi disse ikke kan bygges for de høje
+Spændinger, dels fordi man derved vilde udsætte
+Betjeningspersonalet for Livsfare. Man
+indbygger da imellem Maskiner og Voltmetre smaa
+Transformatorer, de saakaldte S., hvis
+Omsætningsforhold er kendt, og fører Ledninger fra
+S.'s Lavspændingsside til Voltmetrene. Disses
+Skala udføres da saaledes, at Tallene derpaa
+direkte angiver Værdien af Højspændingen paa
+Maskinen.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Spændvidde">
+<b>Spændvidde</b> betegner opr. Afstanden
+mellem en Hvælvings Vederlag, altsaa Størrelsen
+af den Aabning, Hvælvingen spænder over.
+Efterhaanden er det ogsaa blevet ret almindeligt
+at anvende Betegnelsen, naar Talen er om
+Bjælker, men Betydningen er ikke ganske
+faststaaende; snart kan der menes den fri Aabning,
+snart Bjælkens.teoretiske Længde.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Spær (se Lanse)">
+<b>Spær,</b> se <sp>Lanse</sp>.
+</chapter>
+
+<chapter name="Spær (i en Tagkonstruktion)">
+<b>Spær</b> er i en Tagkonstruktion de
+skraatstillede Stykker Tømmer, som danner
+Underlaget for Tagfladerne og bærer Tagdækningen.
+<i>C. B-r.</i>
+</chapter>
+
+<chapter name="Spærhage">
+<b>Spærhage</b> ell. <sp>Pal</sp> kaldes en Stopper, som
+ved sin egen Vægt forhindrer et Spil fra at gaa
+tilbage, idet den griber ind i Tænderne paa et
+<sp>Spærhjul</sp>. S. med Fjeder findes ved
+Fjederhuset i Lomme- og Taffelure, ved
+Baglademekanismer i Kanoner for at forhindre Kilen
+fra at gaa ud, ved Spil, Dunkrafte o. l. Hos
+Blikkenslageren er S. d. s. s. Spærhorn.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Spærhjul">
+<b>Spærhjul,</b> se <sp>Spærhage</sp>.
+</chapter>
+
+<chapter name="Spærhorn">
+<b>Spærhorn,</b> se <sp>Ambolt</sp>.
+</chapter>
+
+<chapter name="Spærlagen">
+<b>Spærlagen,</b> se <sp>Gardin</sp>.
+</chapter>
+
+<chapter name="Spærrefort">
+<b>Spærrefort</b> skal i Modsætning til et af
+Forterne i en Fortfæstning kæmpe alene og maa
+derfor gøres saa modstandsdygtigt som muligt
+og være udstyret med rigelige Forsyninger af
+enhver Art, idet det ikke kan vente Tilførsler,
+efter at Kampen er begyndt. S. anvendes
+særlig paa Landegrænser i Bjergegne til Forsvar
+af vigtige Overgange og bygges med rigelig
+Anvendelse af Panser og Beton. Medens
+Fortfæstningerne i det væsentlige og ogsaa adskillige
+Spærreforter skuffede de Forventninger, man
+forinden Verdenskrigen havde stillet til dem,
+lykkedes det dog Spærreforterne paa Frankrigs
+Østgrænse for saa vidt at løse deres Opgave,
+som de ikke blev angrebne af Tyskerne med
+Undtagelse af Fort Manonviller Ø. f. Nancy,
+der erobredes 27. August 1914, men som efter
+at være sprængt i Luften atter blev rømmet 12.
+Septbr 1914, og Fort Camp de Romain ved
+Saint-Mihiel, der Var i tysk Besiddelse fra 5. Septbr
+1914 til Krigens Slutning.
+<i>Sch. P.</i>
+</chapter>
+
+<chapter name="Spærreild">
+<b>Spærreild</b> (fr. <i>tir de barrage</i>) er Navnet paa
+en af de i og siden Verdenskrigen anvendte
+mange Former for Artilleriild. Ved S.
+tilsigter man, som Navnet antyder, ved Beskydning
+af et vist Areal at danne en Spærring
+(»Ildbarriere«), som Modstanderen ikke kan passere
+uden uforholdsmæssigt store Tab. Forsvareren
+lægger saaledes en S. over et vist Terrænafsnit
+foran Forsvarslinien for at hindre Angriberen
+i at trænge frem til denne. Angriberen lægger
+sin S. over Fjendens Ildlinier og
+Maskingeværstandpladser for at holde Besætningen borte
+fra dem under Angrebet, ell. han lægger S. bag
+Forsvarerens forreste Linie for at hindre
+Fjendens Reserver i at blive trukne frem til denne.
+Under det videre Angreb lægges S. som en
+»vandrende Jernmur« 100 à 200 m foran de
+forreste Angrebstropper for at blive stationær
+nogle Hundrede Meter paa den anden Side af
+de sidste Angrebsmaal.
+
+Det karakteristiske ved S., i hvilken i øvrigt
+saavel svært Skyts som Maskingeværer kan
+deltage, er Udskydningen af en betydelig
+Ammunitionsmængde mod et bestemt Terrænafsnit,
+uden at Ilden i saa høj Grad som ved anden

@@ -1,0 +1,89 @@
+2) <sp>Elektriske
+Omformerstationer</sp> indeholder roterende elektriske Maskiner,
+saakaldte elektriske Omformere (se
+<sp>elektriske Maskiner og
+Transformatorer</sp>). Saadanne Stationer omformer enten
+Vekselstrøm af en Spænding eller et
+Periodetal til Vekselstrøm af en anden Spænding
+eller et andet Periodetal, eller Jævnstrøm til
+Vekselstrøm eller, langt det hyppigste
+Vekselstrøm til Jævnstrøm. Omformning af
+Jævnstrøm til Vekselstrøm finder kun forholdsvis
+sjældent Sted, i Reglen kun, hvor et
+Jævnstrømsværk skal forsyne et fjerntliggende
+Distrikt, til hvis Forsyning Jævnstrømsspændingen
+er for lav. Man omformer da en Del af
+Jævnstrøm til højspændt Vekselstrøm i Omformere
+og sender denne Vekselstrøm ud i det
+paagældende Distrikt. Paa denne Maade foregik
+Kjøbenhavns Yderdistrikters Forsyning med
+Elektricitet en Tid lang fra Østre Elektricitetsværk
+i Kbhvn (se <sp>elektriske
+Kraftstationer</sp>). Omformning af Jævnstrøm til Vekselstrøm
+har fundet nogen Anvendelse ved Natdrift paa
+enkelte Vekselstrømscentraler og blandede
+Centraler, hvor Akkumulatorbatteri anvendes.
+Omformere, der drives ved Jævnstrøm fra Batteriet,
+producerer Vekselstrøm, som sendes ud i
+Vekselstrømsnettet, saaledes at Driften af større
+Vekselstrømsgeneratorer kan undgaas om Natten.
+Langt den hyppigste Anvendelse finder
+Omformerstationer dog i Tilknytning til
+Højspændingsværker, altsaa som Vekselstrøms-Jævnstrøms
+Omformerstationer. Omformerstationer er altid
+murede Bygninger, der kan have ret anselige
+Størrelser, og finder Anvendelse saavel til Lys
+og Kraftforsyning med Jævnstrøm, som til
+Forsyning af elektriske Jævnstrømsbaner og
+Sporveje. Som Omformere benyttes hyppigst
+Etankeromformeren, den asynkrone
+Motor-Generator og Kaskadeomformeren, mindre hyppigt
+den synkrone Motor-Generator (se
+<sp>elektriske Maskiner</sp>). Etankeromformeren er
+dog den Omformer, der hidtil har fundet størst
+Anvendelse, dels fordi den er lettere, billigere,
+har bedre Virkningsgrad og tager mindre Plads
+op end de øvrige Omformertyper, og dels fordi
+det gennem talrige Forsøg er lykkedes at
+bringe denne Maskine til en saadan teknisk
+Fuldkommenhed, at den i Drift er omtr. ligesaa
+paalidelig som den asynkrone Omformer, der egl.
+er den i Drift paalideligste Maskine, men har
+den Mangel, at den ved Belastning løber
+langsommere end ved Tomgang, hvad der fordrer
+idelig Spændingsregulering. Den synkrone
+Motor-Generator løber synkront ligesom
+Etankeromformeren og Kaskadeomformeren, men har
+den Fejl, at den ikke godt taaler stærke og
+voldsomme Belastningsvariationer, over for
+hvilke den er yderst følsom. I denne Retning
+har den asynkrone Motor-Generator absolut de
+bedste Egenskaber, og finder derfor udbredt
+Anvendelse i Omformerstationer, der driver
+Anlæg med stærkt svingende Belastninger, f. Eks.
+i Stationer til Kran- og Banedrift. Hvor
+Anvendelsen af Svinghjulsomformere er nødvendig,
+hvilket ofte er Tilfældet ved Krananlæg, er
+den asynkrone Motor-Generator den eneste
+anvendelige Omformer. Da den tillige er let
+at betjene og ikke fordrer stadigt Tilsyn,
+anvendes den en Del i smaa Omformerstationer,
+hvor det gælder om at spare Udgifter til
+Betjeningspersonale. Den synkrone
+Motor-Generator anvendes en Del til Lys- og Kraftforsyning,
+hvor Belastningsvariationerne er jævne og smaa,
+men da den er den af Omformertyperne, der er
+vanskeligst at sætte i Gang og derfor fordrer
+paalideligt og øvet Personale, har den fundet
+mindre Anvendelse end de to andre synkrone
+Omformere, der begge anvendes saavel ved
+Banedrift som ved Lys- og Kraftforsyning. En
+Omformerstation har saavel et
+Vekselstrømsanlæg som et Jævnstrømsanlæg, hvis Apparater
+og Maaleinstrumenter som Regel kan betjenes,
+henholdsvis aflæses, fra samme Sted
+(Tavleanlæg, Pulte, Søjler e. l.). Vekselstrømsanlægget
+er oftest et Højspændingsanlæg, hvis
+
+<img>Fig. 6. Skt Knudsværk paa Frederiksberg. Længdesnit.</img>
+

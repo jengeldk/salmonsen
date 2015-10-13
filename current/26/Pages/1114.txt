@@ -1,0 +1,60 @@
+<h1>X</h1>
+
+<chapter name="Xalapa">
+<b>Xalapa,</b> d. s, s, <sp>Jalapa</sp>.
+</chapter>
+
+<chapter name="Xalisco">
+<b>Xalisco,</b> d. s. s. <sp>Jalisco</sp>.
+</chapter>
+
+<chapter name="Xanthoma">
+<b>Xanthoma,</b> d. s. s. <sp>Xanthelasma</sp>.
+</chapter>
+
+<chapter name="Xanthopikrit">
+<b>Xanthopikrit,</b> se <sp>Berberin</sp>.
+</chapter>
+
+<chapter name="Xátiva">
+<b>Xátiva,</b> d. s. s. <sp>Játiva</sp>.
+</chapter>
+
+<chapter name="Xavea">
+<b>Xavea,</b> d. s. s. <sp>Javea</sp>.
+</chapter>
+
+<chapter name="xenomorf">
+<b>xenomorf,</b> se <sp>idiomorf</sp>.
+</chapter>
+
+<chapter name="Xenos">
+<b>Xenos,</b> Insektslægt, hørende til <i>Stylopsidæ</i>
+(s. d.).
+</chapter>
+
+<chapter name="Xenotim">
+<b>Xenotim,</b> se <sp>Metaller</sp> (sjældne).
+</chapter>
+
+<chapter name="Ximenes, Ettore">
+<b>* Ximenes</b> [ki'mænæs], <sp>Ettore</sp>, italiensk
+Billedhugger, f. 1855 i Palermo, d. 1926. X.,
+Søn af Billedhuggeren Antonio X., studerede
+paa Akademiet i sin Fødeby, i Napoli under
+Morelli, senere paa Statsstipendium i Firenze
+og blev Professor ved og Direktør for
+Akademiet i Urbino. Han har skabt »Kristus og
+Horkvinden«, »Nana«, »Judaskysset«, »Cæsar's
+Mord«, det store Uafhængighedsmonument i Rio
+Janeiro o. m. m.
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Xiphosura">
+<b>Xiphosura,</b> se <sp>Dolkhaler</sp>.
+</chapter>
+
+<chapter name="Xr.">
+<b>* Xr.</b> = Kreuzer, ældre Østerrigsk Mønt.
+</chapter>

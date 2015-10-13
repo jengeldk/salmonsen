@@ -1,0 +1,119 @@
+i hurtig Omdrejning tæt foran den første. Paa
+Bagsiden af den faste Skive er der klæbet to
+Stykker Papir, Armaturerne, <i>A</i> og <i>A1</i>. Mellem
+Papiret og Glasset ligger et mindre Tinblad,
+hvis Form ses paa Figuren. Fra Armaturerne
+udgaar Metalbøjlerne <i>B</i> og <i>B1</i>, der bøjer uden
+om begge Skivers Rand, og hver Bøjle bærer
+en lille Kost af bløde Metalstrimler, der
+berører den roterende Skives Forflade. Foran
+denne Skive findes desuden to Kamme, <i>e</i> og <i>e1</i>,
+hvis vandrette Tænder peger ind imod Skiven.
+Kammene er fæstede til Metalstængerne <i>E</i> og
+<i>E1</i>, der kan forskydes i deres egen
+Længderetning. Stængernes inderste Ender er
+forsynede med Metalkugler, deres yderste med
+isolerende Haandtag. De danner Maskinens
+»Elektroder« ell. »Poler« og staar i Forbindelse med
+de indre Belægninger af to smaa
+Leydnerflasker (ikke tegnede), der tjener som
+Opsamlingsapparater, og hvis ydre Belægninger kan
+forbindes med hinanden. Endelig staar der
+foran Skiven en skraatstillet Tværstang <i>T</i> af
+Metal, hvis Ender bærer Kamme, der peger
+ind mod Skiven. Paa denne sidder der en
+Krans af Metalknapper, af hvilke Fig. kun
+viser en enkelt, <i>K</i>. Vi antager, at Skiven løber
+rundt, som Pilen viser, og at <i>K</i> har faaet en
+lille positiv Ladning. Ved at komme ind under
+<i>B</i>'s Kost afgives denne Ladning til <i>B</i> og
+Armaturen <i>A</i>. Naar <i>K</i> derefter kommer ind under
+Kammen <i>e</i>, vil denne Ladning virke
+fordelende, saa <i>K</i> faar en lille negativ Ladning; det
+samme gentager sig, naar <i>K</i> passerer <i>T</i>. Paa
+Skivens øverste Del vil <i>K</i> altsaa være negativ,
+og naar den passerer Kosten paa <i>B1</i>, Kammen
+<i>e1</i> og den nederste Ende af <i>T</i>, gentager
+nysnævnte Fænomener sig, kun at Ladningerne
+nu er af modsat Art. <i>K</i> kommer altsaa atter
+positiv over til <i>B</i>, forstærker herved <i>A</i>'s
+positive Ladning, kommer selv stærkere negativt
+ladet fra <i>T</i> over til <i>B1</i>, lader <i>A1</i> stærkere o. s.
+v. Paa samme Maade forholder alle de andre
+Knapper sig og til Dels ogsaa selve Glasfladen
+mellem dem. Efter nogle Omdrejninger har
+Maskinen arbejdet sig op til en betydelig
+Spænding. <i>E</i>, der stadig afgiver negativ Elektricitet,
+er positiv Pol, <i>E1</i> negativ Pol, og Gnister slaar
+i hurtig Følge over mellem Polkuglerne, naar
+de ikke er for langt fra hinanden. Da det er
+vanskeligt for Armaturerne at drage negativ
+Elektricitet bort fra <i>E</i> og positiv fra <i>E1</i>, efter
+som disse er henh. positiv og negativ
+elektriske, vil Knapperne først blive tilstrækkelig
+ladede ved at passere Tværstangen <i>T</i>, hvis
+Spænding stadig holdes paa Nul, da den
+afgiver modsat Elektricitet fra sine to Ender. —
+I Reglen behøves ikke nogen Tilførsel af
+fremmed Elektricitet, for at Maskinen skal begynde
+at virke, da de første smaa Ladninger
+frembringes under Gangen ved Gnidning. Om <i>E</i> ell.
+<i>E1</i> skal blive positiv Pol, beror paa
+Tilfældigheder. Standser man Farten, drejer et Øjeblik
+til modsat Side og derpaa videre i den opr.
+Retning, vil Maskinen som Regel have skiftet
+Poler. Drejning til forkert Side (mod Pilen)
+vil aflade Maskinen. Selv temmelig smaa
+Maskiner af denne Art kan give smukke
+Lysfænomener i Geisslerrør, ja endog gøre god
+Nytte ved Frembringelsen af Röntgen-Straaler,
+om de end staar tilbage for større
+Induktionsapparater, ikke mindst fordi de i fugtigt Vejr
+ofte nægter at gøre Tjeneste. Maskinens Ydelse
+afhænger af Omdrejningshastighed, Størrelse og
+Vejrforhold. En Maskine, hvis roterende Skive har
+en Diameter paa 25 cm, kan under gode Forhold
+give en Strøm paa 10—20 Milliontedele Ampère,
+naar Polerne forbindes med hinanden gennem
+et følsomt Galvanometer, altsaa 30 à 60000
+elektrostatiske Enheder i Sekundet. —
+<sp>Wimshurst</sp>'s Maskine (1883), skematisk fremstillet
+i Fig. 2, har to parallelle Skiver, der ved Hjælp
+af Snorløb roterer til modsatte Sider om
+samme Akse. Foran den forreste Skive staar en
+skraatstillet Metalstang <i>A A1</i>, der paa hver
+Ende bærer en Kost, som vender ind mod
+Skiven. Bag ved den bageste Skive er opstillet en
+lgn. Stang <i>BB1</i>, der med <i>AA1</i> danner en Vinkel
+paa 60°. To Metalbøjler <i>C</i> og <i>D</i> griber om
+begge Skiver og er indvendig forsynede med
+Tænder. De staar i Forbindelse med
+Polkuglerne <i>P</i> og <i>P1</i>, mellem hvilke Udladningerne
+finder Sted. Den forreste Skive antages at dreje
+mod, den bageste med Urviseren. Skravering
+med Linier, der hælder til højre, angiver
+positiv Elektricitet paa Forsiden af den forreste
+Skive, Linier med modsat Hældning positiv
+Elektricitet paa Bagsiden af den bageste.
+Uskraveret Areal angiver negativ Ladning. Det
+ses da, at hvis Tilstanden i et givet Øjeblik er,
+som Figuren viser, vil den givne
+Elektricitetsfordeling forstærkes ved Omdrejning. Thi <i>A</i>
+paavirkes af tre negative Udsnit og kun af eet
+positivt; følgelig afgiver den positiv
+Elektricitet, og højre Side af den forreste Skive faar
+sin positive Ladning forstærket. <i>A1</i> paavirkes
+af tre positive Udsnit, afgiver negativ
+Elektricitet og forstærker den negative Ladning paa
+Skivens anden Halvdel. En tilsvarende
+Virksomhed mellem <i>BB1</i> og Bagsiden af den
+bageste Skive vil ogsaa her forstærke de givne
+Ladninger. Følgelig vil Bøjlen <i>C</i> spænde om
+Glasflader med negativ Ladning; den afgiver
+derfor gennem Spidserne positiv Elektricitet til
+Skiverne, saa <i>P</i> bliver negativ Pol, medens
+Bøjlen <i>D</i> afgiver negativ Elektricitet, og <i>P1</i>
+bliver positiv. Glaspladerne er i Reglen belagte
+
+<img>Fig. 2. Wimshurst's Maskine.</img>
+

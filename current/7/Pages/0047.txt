@@ -1,0 +1,92 @@
+saakaldte Mætningsstrøm. Det er muligt ud fra
+Teorien at beregne Kurvens Form, som viser
+sig at stemme overens med den iagttagne Kurve.
+Ved Ionteorien forklares ogsaa let flg.
+Forsøg. Man lader Luftstrømmen først passere
+en anden Kondensator, hvor man anvender saa
+stærk en Spænding, at man opnaar
+Mætningsstrøm. Man finder da, at Luften, naar den
+bagefter kommer ind i Maalekondensatoren, har
+mistet sin Ledningsevne, idet Ionerne allerede
+er blevet den berøvet. Ogsaa uden at anvende et
+elektrisk Felt, kan Ledningsevnen formindskes.
+Formindsker man blot Luftstrømmens
+Hastighed, saaledes at der forløber længere Tid
+mellem dens Ionisering ved Røntgenstraalerne og
+dens Undersøgelse i Maalekondensatoren, finder
+man dens Ledningsevne mindre. Dette
+forklares ved, at de modsat ladede Ioner, der jo maa
+tiltrække hverandre, da faar mere Tid til at
+forene sig til neutrale Molekyler. Man har af
+Teorien beregnet den Lov, hvorefter
+Ledningsevnen maa aftage med Tiden, og fundet den
+bekræftet ved Forsøg. Endelig finder man, at
+Ledningsevnen formindskes stærkt, naar
+Luften passerer et Filter af Glasuld e. l. I de
+talrige snævre Passager kommer Ionerne tæt ind
+til det faste Stof, tiltrækkes af dette og afgiver
+deres Ladninger. Ogsaa ved denne Iondiffusion
+har den teoretiske Behandling givet rigtige
+Resultater.
+
+De anførte Forsøg gør allerede Ionteorien
+meget sandsynlig, og denne Sandsynlighed er ved
+de mange senere, der har haft til Formaal
+nærmere at undersøge Ionernes Natur, vokset
+til Vished. Her skal kun omtales nogle faa
+Forsøg, der viser Muligheden af at maale Ionernes
+Hastighed og Ladning.
+
+2) <sp>Ionernes Bevægelighed</sp>. I Fig. 4
+er <i>A</i> og <i>B</i> to parallelle Metaltraadnet. <i>A</i> er
+forbundet med et Elektrometer, <i>B</i> holdes ved
+konstant Spænding ved at forbindes med den ene
+Pol af et Batteri, f. Eks. den positive. Ioniseres
+Luften mellem <i>A</i> og <i>B</i> ved Hjælp af
+Røntgenstraalerne <i>R</i>, vil <i>A</i> - som ved Forsøgets Beg.
+antages uladet - efterhaanden faa en positiv
+Ladning hidrørende fra, at de positive Ioner
+af den elektriske Kraft føres fra <i>B</i> til <i>A</i>. Man
+kan forhindre denne Opladning ved at blæse
+en Luftstrøm <i>L</i> af passende Hastighed fra <i>A</i>
+mod <i>B</i>. Den Hastighed, hvorved Opladningen
+lige netop forhindres, maa være lig den
+Hastighed, som de positive Ioner vilde faa fra det
+elektriske Felt, hvis Luftstrømmen ikke var der.
+Paa samme Maade kan de negative Ioners
+Hastighed bestemmes. Man finder, at Ionernes
+Hastighed er proportional med den elektriske Kraft
+og med Luftens absolutte Temperatur og
+omvendt proportional med dens Tryk. Hastigheden
+ved normalt Tryk og Stuetemp. (18° C.) for
+den elektriske Kraft 1 Volt pr cm kaldes
+Bevægeligheden. Den er i atmosfærisk Luft 1,35
+og 1,82 cm i Sek. for henh. de positive og de
+negative Ioner. I de fleste andre Luftarter er
+<sp>Bevægeligheden</sp> af samme
+Størrelsesorden som i Luft; en Undtagelse danner de
+negative Ioners Bevægelighed i yderst tør og ren
+Kvælstof, Argon og Helium, hvor den er henh.
+120, 200 og 500 cm i Sek.
+
+3) <sp>Ionernes taagedannende Evne</sp>.
+Beholderen <i>B</i> i Fig. 5 indeholder Luft mættet
+med Vanddamp. Frembringes en pludselig
+Fortynding af Luften, f. Eks. ved et Træk i
+Stemplet <i>S</i>, vil man se en Taage, som synker
+langsomt ned. Gentages Forsøget nogle Gange,
+bliver Taagen for hver Gang svagere og kommer
+til sidst ikke frem. Aarsagen til Taagens
+Dannelse er, at Luften afkøles ved Udvidelsen, og
+til den lavere Temp. svarer et mindre
+Mætningstryk af Vanddamp. Med den
+forhaandenværende Vanddamp er Luften derfor
+overmættet, og Overskuddet vil søge at udskille sig som
+Draaber. Draabedannelsen sker om
+Støvpartiklerne i Luften, og naar disse er berøvede den
+ved, at Taagen har taget dem med sig til
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>
+

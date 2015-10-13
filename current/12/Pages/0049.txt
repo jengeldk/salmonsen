@@ -1,0 +1,152 @@
+Formforandringer. En terningformet Del af Vædsken,
+der er saa lille, at dens Vægt ikke er kendelig
+i Sammenligning med Trykkene paa dens
+Sideflader, maa modtage lige store Tryk paa alle
+sine 6 Flader, og en lille Kugle maa trykkes
+ens paa alle Steder af sin Overflade, hvis de
+ikke skal forandre deres Form. Trykket i et
+Punkt af en Vædske er derfor <sp>ens i alle
+Retninger</sp>, ɔ: at en lille plan Flade, der
+indeholder Punktet, vil modtage samme Tryk
+fra den omgivende Vædske, hvorledes den end
+er stillet. Trykket maa desuden staa vinkelret
+paa Fladen, da det ellers vil fremkalde
+Strømme langs med Fladen, saaledes som Vinden
+gør, naar den blæser hen over en Sø.
+
+Trykket i en hvilende Vædske skyldes dels
+Vædskens Vægt, dels Tryk fra det Kar, hvori
+Vædsken er indesluttet, dels Lufttryk paa
+Vædskens Overflade. Trykket i en hvilende
+Vædske er <sp>ens i alle Punkter af
+samme vandrette Plan</sp>. En tynd, vandret
+Vædskecylinder vil nemlig ikke kunne flyttes
+i sin Længderetning enten af Tyngden ell. af
+den omliggende Vædskes Tryk paa
+Cylinderfladen, da alle disse Kræfter staar vinkelret
+paa den nævnte Retning. Tilbage bliver
+Trykkene paa Cylinderens to Endeflader, der maa
+være lige store for at holde hinanden i
+Ligevægt. — Kender man Vædskens Vægtfylde og
+Trykket i et bestemt vandret Plan, kan man
+let finde Trykket i ethvert andet Plan, hvis
+Afstand fra det første er kendt. Lad en
+vilkaarlig valgt Kvadratcm. af et vandret Plan i
+Vædsken hedde <i>A</i>, og lad Vædsketrykket paa
+denne Kvadratcm, være <i>P</i> g. En anden
+Kvadratcm., <i>B</i>, der ligger lige under <i>A</i>, vil da
+modtage Trykket <i>P</i> plus Vægten af det
+mellemliggende Vædskeprisme. Er dettes Højde <i>H</i>
+cm, og vejer hver Kbcm. af Vædsken <i>d</i> g
+(<i>d</i> er Vædskens Vægtfylde), saa vejer
+Vædskeprismet <i>Hd</i> g, og Trykket paa hver
+Kvadratcm. af det vandrette Plan gennem <i>B</i> vil være
+<i>P</i>+<i>Hd</i> g. 1 Kbcm. Vand vejer (ved 4°) 1
+g, og for hver cm, man gaar ned ell. op i
+Vand, vil Trykket vokse eller aftage med 1
+g pr Kvadratcm. Til en Højdeforskel paa
+10 1/3 m svarer en Trykforskel paa 1 1/30 kg pr
+Kvadratcm. ell. een Atmosfæres Tryk. Forøges
+Trykket paa en Vædskes Overflade, vil
+Trykket overalt i Vædsken forøges lige saa meget.
+Man kan derfor let sprænge en Flaske, der er
+helt fyldt med Vædske, naar man slaar paa
+Flaskens Prop; thi det Tryk, som Proppen
+derved kommer til at udøve mod Vædsken, vil
+forplantes gennem Vædsken til Flaskens
+Vægge. — Vædsketryk fremkaldt ved Vædskens
+Vægt beregnes af det nys udviklede. Hele
+Trykket paa et Kars vandrette Bund er lige
+stort med Vægten af et Vædskeprisme, der
+har Karrets Bund til Grundflade og Afstanden
+mellem Bunden og Overfladen til Højde. Er
+Karret snævrere foroven end forneden,
+frembringer Vædsken altsaa et Bundtryk, der er
+større end dens Vægt. Denne Sætning, hvis
+Rigtighed er paavist af Blaise Pascal ved
+Forsøg, er bleven kaldt for et <sp>hydrostatisk
+Paradoks</sp>. Det mærkelige falder dog bort,
+naar man erindrer, at Vædsken ikke alene
+trykker nedad paa Bunden, men ogsaa opad
+paa Karrets Sidevægge, naar de hælder indad,
+saa Karrets Forøgelse i Vægt, naar man
+hælder Vædske i det, ikke bliver lig Bundtrykket,
+men netop lig Vædskens Vægt. —
+Vædsketrykket paa en plan Flade, der ikke er vandret, er
+ikke saa simpelt at beregne, da Fladen ikke
+trykkes lige stærkt overalt. Det kan vises at
+være ligt med Vægten af et Vædskeprisme,
+der har Fladen til Grundflade, og hvis Højde
+er lig Afstanden fra Vædskens Overflade til
+Fladens Tyngdepunkt. Dette sidste Punkt
+falder dog ikke sammen med Trykkets
+Angrebspunkt, der ligger dybere. — Et Legeme, der er
+<sp>nedsænket</sp> i Vædsken, paavirkes af
+Vædsken med en Kraft, der søger at løfte Legemet,
+fordi Vædsketrykket paa Legemets underste
+Dele er større end paa dets øverste. Denne
+»Opdrift« er lig med Vægten af den
+Vædskemasse, som Legemet har fortrængt
+(<sp>Archimedes' Princip</sp>), og dens Resultant
+virker lodret opad gennem denne Vædskemasses
+Tyngdepunkt. Opdriften skyldes nemlig den
+samlede Virkning af Vædsketrykkene paa de
+enkelte Dele af Legemets Overflade. Var det
+Rum, Legemet indtager, fyldt med Vædske,
+vilde denne modtage de samme Tryk fra
+Omgivelserne som Legemet, og da den vilde være
+i Hvile, maa disse Tryk have en Resultant,
+der netop kan holde Ligevægt med
+Vædskemassens Vægt. Legemet vil kunne svæve i
+Vædsken, hvis det har samme Vægtfylde som
+denne; er Vægtfylden større, vil det synke, er den
+mindre, vil det stige. Et Legeme, der <sp>flyder</sp>
+paa en Vædske, et Skib f. Eks., synker saa
+dybt, at det uddriver en Vædskemasse, der
+vejer lige saa meget som Legemet selv, og det
+lægger sig saaledes, at Legemets Tyngdepunkt
+og Tyngdepunktet af den fortrængte
+Vædskemængde ligger i samme lodrette Linie. Ligger
+Legemets Tyngdepunkt dybest, er Ligevægten
+altid stadig; men den kan ogsaa godt være
+stadig, selv om Legemets Tyngdepunkt ligger
+højere end den fortrængte Vædskemasses.
+Begynder Legemet at vælte, vil den fortrængte
+Vædskemasses Tyngdepunkt nemlig som Regel
+flyttes, og det beror paa dets ny Stilling til
+Legemets Tyngdepunkt, om Væltningen skal
+fortsættes ell. ikke.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="hydrostatisk Paradoks">
+<b>hydrostatisk Paradoks,</b> se <sp>Hydrostatik</sp>
+og <sp>Pascal's Vaser</sp>.
+</chapter>
+
+<chapter name="hydrostatisk Vand">
+<b>hydrostatisk Vand</b> kaldes det Vand
+(Overfladevand og Grundvand) paa og i
+Jordskorpen, som p. Gr. a. Tyngdekraften er i synkende
+Bevægelse, indtil det standses af et
+uigennemtrængeligt Jordlag ell. løber ud i en Sø ell.
+Havet.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="hydrostatisk Vægt">
+<b>hydrostatisk Vægt,</b> en Vægtskaal indrettet
+til at bestemme Legemers Vægttab i Vand ell.
+andre Vædsker, saaledes som det f. Eks. sker
+ved Bestemmelser af Legemers <sp>Vægtfylde</sp>.
+Den behøver ikke at være forsk. fra en alm.
+Vægt uden derved, at der under den ene Skaal
+findes en Krog, hvori det Legeme kan
+ophænges, der skal vejes i Vædsken.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Hydrostereider">
+<b>Hydrostereider</b> (<sp>bot</sp>.) betegner i Vævlæren
+prosenkymatiske, tykvæggede Vedelementer
+med ringporede Vægge. De har dels mekanisk,

@@ -1,0 +1,144 @@
+Traadnet. Over en rund Brænderaabning paa
+omkr. 1 mm's Diameter holdes et fint Net af
+Metaltraad. Man lader Gasstrømmen fra
+Aabningen gaa op gennem Nettet og tænder den
+over dette; er Nettet fintmasket, slaar
+Flammen ikke ned gennem det. Saa længe Nettet
+holdes nær Brænderaabningen, brænder Gassen
+med rolig, lysende Flamme, men naar det
+hæves til en vis Højde, bliver Flammen urolig,
+støjende og svagt lysende. Sænker man nu
+Nettet saa meget, at Flammen netop kan brænde
+rolig, trækker den sig pludselig sammen og
+gaar over til den urolige Form, naar man
+udtaler L. <i>S</i> i dens Nærhed, river et Stykke
+Papir itu ell. frembringer en anden hvislende
+L. Flammen kan let gøres saa følsom, at den
+kan »høre« et <i>S</i>, der udtales i Værelset ved
+Siden af, selv om Døren mellem de to
+Værelser er lukket. Et Rør af passende Dimensioner
+holdt over den støjende Flamme synger med
+stærk Tone.
+
+Den mest umiddelbare Bestemmelse af en
+Stemmegaffels Svingningstal faar man ved at
+lade den optegne sine Svingninger paa en
+Cylinder, der drejes rundt af et Urværk med
+nøjagtig kendt Gang, ell. som forsynes med
+Tidsmærker paa den Maade, at et Pendul med
+nøjagtig kendte Mellemrum afbryder en
+elektrisk Strøm, og derved giver Anledning til, at
+der hver Gang springer en Gnist over paa
+Cylinderen (smlg. <sp>Induktor</sp>).
+Stemmegaffelens ene Gren bærer en fin Spids, der, medens
+Gaffelen svinger, og Cylinderen drejer sig,
+tegner en Bølgelinie i et tyndt Lag Sod, som man
+har forsynet Cylinderens Overflade med ved at
+dreje den over en sodende Flamme. Man tæller
+til sidst, hvor mange Bølger Spidsen har tegnet
+paa en Cylinderomkreds ell. mellem to
+Tidsmærker, og kan heraf beregne Svingningstallet.
+Cylinderens Akse er forsynet med Skruegænger,
+der griber ind i Skruegænger i et Tapleje, saa
+Cylinderen under sin Bevægelse forskydes lidt
+paa langs. Herved undgaar man, at de forsk.
+Omgange af Bølgelinien kommer til at dække
+hinanden. Ved et elektromagnetisk Arrangement
+kan man holde Stemmegaffelen i Svingning, saa
+længe det skal være. Har man paa en ell. anden
+Maade bestemt en Stemmegaffels Svingningstal
+nøjagtig, kan man bestemme Svingningstallet
+for en Lydgiver, hvis Tone ligger nær ved
+Gaffelens, idet man tæller, hvor mange Stød
+de to Lydgivere frembringer i en vis Tid. Hvis
+de i et vist Øjeblik svinger saaledes, at de
+samtidig sender Svingningstilstande af samme Art,
+f. Eks. Fortætninger, ind i Øret, vil de
+tilsammen give stærkere L. end en enkelt af dem.
+Hvis der er en ringe Forskel paa deres
+Svingningstal, vil den ene Lydgiver tabe ell. vinde
+i Forhold til den anden, og efter nogen Tids
+Forløb vil den ene Lydgiver sende Fortætninger
+ind i Øret samtidig med, at den anden sender
+Fortyndinger. De to Toner vil da svække
+hinanden. Efter lige saa lang Tids Forløb vil den
+ene Lydgiver have gjort netop een Svingning
+mere end den anden, og Tonen er atter stærk.
+Det er denne Stigen og Synken i Tonens
+Styrke, man kalder Stød. Frembringes der <i>N</i> Stød
+i Sek., gør altsaa den ene Lydgiver <i>N</i>
+Svingninger mere end den anden pr. Sek. Er den
+undersøgte Stemmegaffels Svingningstal <i>n</i>, saa
+er den anden Lydgivers <i>n</i> + <i>N</i> ell. <i>n</i> — <i>N</i>, efter
+i som dens Tone er højere ell. dybere end
+Gaffelens. Kun naar <i>N</i> er lille, kan Metoden bruges,
+da Stødene ellers ikke kan tælles.
+
+En L. maa paa ethvert St. udføre
+Svingninger, der er en Gengivelse af Lydgiverens, og
+Svingningstallet, altsaa ogsaa Tonhøjden, kan
+derfor ikke forandres ved L.'s Vandring
+gennem Rummet. Det Svingningstal, som Øret
+iagttager, kan dog være forsk. fra det, som
+Lydgiveren udsender, naar Lydgiver og Øre
+bevæger i Forhold til hinanden (se <sp>Doppler
+Effekt</sp>). Naar L. forandrer sin Karakter
+ved at gaa lange Veje, sker det ved, at visse
+Toner i den dør bort før andre; en
+usammensat Tone forandres ikke. Høje Toner forsvinder
+hurtigere end dybe, selv om de nær ved
+Lydgiveren synes fuldt saa stærke. Derfor vil al
+L., der naar os fra saa fjerne St., at selv en
+opr. stærk L. kun netop er hørlig, fortrinsvis
+bestaa af dybe, bløde Toner. Havets ell.
+Tordenens Bulder er et bekendt Eks. herpaa.
+
+Om mus. Forhold og Instrumenter henvises
+til de særlige Art. (<sp>Litt</sp>.: Ordnede fra det
+populære Foredrag til den dybtgaaende mat.
+Analyse, kan nævnes: <sp>Tyndall</sp>, <i>Sound</i> [1.
+Udg. 1867; fl. senere]; <sp>Poynting</sp> og <sp>J. J.
+Thomson</sp>, <i>Sound</i> [2. Udg. 1900];
+<sp>Helmholtz</sp>, »Die Lehre von den Tonempfindungen«
+(4. Udg. 1877]; <sp>Rayleigh</sp>, <i>Theory of Sound</i>
+[3 Bd 1888]).
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Lyd (sprogl.)">
+<b>Lyd</b> (sprogl.). Bl. de i Naturen
+forekommende Lyd indtager Sproglydene en ganske særlig
+Plads p. Gr. a. den store Rolle, de spiller som
+Meddelelsesmiddel for menneskelige Tanker og
+Følelser. Uden den fyldige Mulighed, der ved
+Taleorganernes forsk. Bevægelser og Stilling er
+givet for Frembringelsen af rigt nuancerede
+Lydkombinationer, vilde et hørligt Sprog være
+utænkeligt, men som det er, har vi gennem
+Lydsproget ell. Talesproget faaet et fortrinligt
+Medium for Samfundsliv og aandelig Udvikling,
+i Sammenligning med hvilket alle andre Arter
+af »Sprog« er enten fattige (Gestus o. l.) ell.
+afledede (Skriftsprog). Man maa vel vogte sig
+for den gængse Forblanding af L. og Bogstaver
+(af Tale og Skr.). At de to Ting ikke dækker
+hinanden i de alm. Retskrivninger, lærer den
+simpleste Betragtning af disse i alle Sprog, hvor
+det bl. a. vrimler af stumme Bogstaver (<i>h</i> og <i>d</i>
+i dansk <i>hvidt</i>; <i>k</i>, <i>w</i> og <i>e</i> i eng. <i>knowledge</i>; <i>e</i>
+og <i>h</i> i tysk <i>Vieh</i>; <i>m</i>, <i>p</i> og <i>s</i> i fr. <i>temps</i>), og
+hvor vigtige lydlige Forskelle enten ikke
+udtrykkes (f. Eks. den mellem <i>Kost</i> med aabent
+og <i>Kost</i> med lukket <i>o</i>) ell. med de
+forhaandenværende Midler ikke engang kan udtrykkes
+(smlg. f. Eks. <i>angaa</i> og <i>Langaa</i>, en <i>Møller</i> og
+Hr. <i>Møller</i>). Men selv med den fineste, mest
+detaillerede, til videnskabeligt Brug uddannede
+Lydskrift (s. d.) er det umuligt at faa alt det
+med, som spiller en Rolle i Talesproget (f. Eks.
+individuelle Formninger af de enkelte L.,
+Finesser i Tonefald o. l.), fordi L. og Tegnene som
+henvendende sig til to forsk. Sanser
+overhovedet hører til to artsforsk. Verdener.
+
+Den videnskabelige Behandling af Sproglyd

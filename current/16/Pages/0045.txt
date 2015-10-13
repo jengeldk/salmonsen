@@ -1,0 +1,104 @@
+saa stort. Man har ændret Stempelpumpen paa
+mangfoldige Maader, f. Eks. ved at give den to
+Pumperør og to Stempler, af hvilke det ene
+gaar op, naar det andet gaar ned. Det
+skadelige Rum bliver man dog ikke fri for,
+medmindre man bruger en Vædske til Stempel.
+Dette sker ved <sp>Kvægsølvluftpumpen</sp>,
+beskrevet af <sp>Geisler</sp> 1858, senere forbedret
+af Töpler m. fl. Princippet i denne L. vil
+fremgaa af Fig. 2; <i>A</i> er en stor Glasbeholder, der
+ender i et vidt, omtr. 1 m langt Rør <i>B</i>, som
+med en Gummislange er forbundet med
+Beholderen <i>D</i>, der er fyldt med Kvægsølv. Tæt over
+<i>A</i> findes en Hane <i>E</i> med to Gennemboringer,
+hvorved man efter Behag kan sætte <i>A</i> i
+Forbindelse med Røret <i>F</i> og dermed med den
+Beholder, der skal udpumpes, ell. med Røret
+<i>G</i>, der udmunder i den fri Luft. Pumpningen
+sker ved, at man drejer Hanen <i>E</i> til
+Forbindelsen <i>A—G</i> og hæver <i>D</i>, saa <i>A</i> fyldes med
+Kvægsølv helt op til Hanen. Derpaa drejes
+Hanen, saa begge Rørene <i>F</i> og <i>G</i> er afspærrede
+fra <i>A</i>, og <i>D</i> sænkes, hvorefter Hanen drejes til
+Forbindelse <i>A—F</i>, saa der strømmer Luft fra
+den Beholder, der skal udpumpes, over i <i>A</i>;
+hvis man tilvejebringer denne Forbindelse <i>A—F</i>
+for tidligt, d. v. s. inden <i>D</i> er sænket
+tilstrækkelig langt under <i>A</i>, risikerer man, at der
+strømimer Kvægsølv fra <i>A</i> over i Beholderen. Derpaa
+afspærres <i>A</i> fra <i>F</i>, <i>D</i> hæves igen, <i>E</i> drejes til
+Forbindelse <i>A—G</i> o. s. fr., og Fortyndingen kan
+paa denne Maade drives meget vidt, til omkr.
+0,00003 mm Kvægsølvtryk; men Pumpen
+arbejder meget langsomt, og det er anstrengende
+stadig at skulle hæve og sænke den store
+Kvægsølvmasse i <i>D</i>. Det betød derfor et stort
+Fremskridt, da man fik de roterende Pumper, der
+kunde trækkes af en Motor; derved er Bet. af
+de ældre Kvægsølvpumper — og af disse
+fandtes fl. a. Former end den her omtalte, f. Eks.
+<sp>Sprengel's Faldpumpe</sp>, hvor Kvægsølv
+ved at falde ned gennem et snævert Rør river
+Luft med sig fra et Siderør — i Hovedsagen
+indskrænket til, at de kan benyttes til at
+overføre en Luftmasse fra een Beholder (forbundet
+med <i>F</i>) til en anden Beholder (forbundet med
+<i>G</i>). — Af de roterende Pumper maa nævnes
+den af <sp>Gaede</sp> 1908 konstruerede
+<sp>Kapselpumpe</sp> (Fig. 3). Den bestaar af en Metalblok,
+i hvis cylindriske Hulrum en Cylinder <i>A</i>
+bringes i hurtig Rotation af en Motor. Cylindren er
+anbragt ekscentrisk i Hulrummet, saaledes at
+dens Endeflader slutter tæt til Hulrummets
+Endeflader og dens Overside ligeledes tæt til
+Hulrummets Overside, medens der derimod er
+et Mellemrum forneden, som vist i Fig. 3. I et
+Par Riller i Cylindren <i>A</i> er anbragt to
+Staalskinner <i>S</i>, der presses fra hinanden af
+Spiralfjedre, saa deres yderste Ender under
+Rotationen stadig glider hen over Hulrummets
+Inderside. Under Rotationen fører disse Skinner
+stadig Luften fra Røret <i>C</i> til <i>D</i>, naar <i>A</i> drejes
+rundt i Pilens Retning og dermed ud i fri Luft;
+i <i>D</i> hindrer en Ventil <i>a</i> Luften i at gaa tilbage
+igen. Med en god Kapselpumpe, der ikke er
+slidt, kan man bringe Trykket i en Beholder
+ned til c. 0,01 mm Kvægsølvtryk. — Meget
+lavere Tryk kan man opnaa ved to andre af
+Dr. Gaede konstruerede roterende Pumper. I
+den ene, den saakaldte <sp>Gaedepumpe</sp> (1905)
+roterer en Porcelænstromle delvis nedsænket i
+Kvægsølv; Tromlen er bygget efter lgn. Princip
+som Tromlen i en Gasmaaler: medens det her
+er Gassen, der under sin Fart gennem
+Gasmaaleren drejer Tromlen rundt og derved
+holder Maaleren i Gang, saa er det ved
+Gaedepumpen en Motor, der drejer Tromlen og
+denne, der fører Luften med sig. Gaedepumpen
+kræver en »Forpumpe«, d. v. s. en
+Hjælpepumpe, der skiller Gaedepumpen af med den
+Luft, den suger til sig; som Forpumpe
+anvendes hyppigt en Kapselpumpe, og man kan da
+naa ned paa Tryk paa c. 0,00001 mm
+Kvægsølvtryk og det i en Tid, der kun er en lille
+Brøkdel af den Tid, en af de ældre
+Kvægsølvpumper maatte bruge for at bringe Trykket
+ned til den lavest mulige Værdi. Den anden af
+Gaede konstruerede »Højvakuumpumpe« er
+Molekylarpumpen (1911); en Metalskive
+roterer her meget hurtigt, c. 8000
+Omdrejninger ell. fl. endnu pr Minut, inde i et Hulrum,
+hvis Vægge slutter nogenlunde tæt til Skiven;
+to Siderør fører udefra ind til dette snævre
+Mellemrum. Ved den hurtige Rotation river
+Skiven Luftmolekylerne med sig og suger
+derved Luften ud af det ene Siderør og over i det
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>

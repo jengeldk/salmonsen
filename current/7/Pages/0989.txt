@@ -1,0 +1,43 @@
+<chapter name="RETTELSER OG TRYKFEJL">
+<h1>RETTELSER OG TRYKFEJL.</h1>
+
+<table>
+<td 7 c><b><sp>BIND I.</sp></b>
+<td>Side<td r>7,<td>Spalte<td r>2,<td>Linie<td>6 f. o.<td>Synsfeltblænder læs: Aperturblænder
+<td c>-<td r>58,<td c>-<td r>2,<td c>-<td r>3 f. n.<td>88° læs: 78°
+<td 7 c><b><sp>BIND II.</sp></b>
+<td>Side<td r>185,<td>Spalte<td r>2,<td>Linie<td r>9 f. n.<td>13 og 17 læs: 15 og 16
+<td 7 c><b><sp>BIND III.</sp></b>
+<td>Side<td r>8,<td>Spalte<td r>1,<td>Linie<td r>7 f. n.<td>Berby Herregaard tilhører siden 1890 Jens M. Golden.
+<td c>-<td r>410,<td c>-<td r>1,<td c>-<td r>11 f. n.<td>Iflg. Jeppe Aakjær's »St. St. Blichers Livstragedie« III Side
+<td 6><td>280 ff foreligger der ingen Beviser for, at B. mod
+<td 6><td>Slutningen af sit Liv »hyppigere og hyppigere tog sin Tilflugt
+<td 6><td>til alkoholiske Drikke« og at dette var Grunden til, at
+<td 6><td>han fik sin Afsked.
+<td c>-<td r>607,<td c>-<td 5>1 og 2 Fig. 1 og 2 skal ombyttes.
+<td c>-<td c>-<td c>-<td r>2,<td>Linie<td 2 l>1 f. o. ø læs: e
+<td c>-<td r>705,<td c>-<td r>2,<td c>-<td r>10 f. n.<td><sp>Fassano</sp> læs: 
+<sp>Fossano</sp>
+<td 7 c><b><sp>BIND V.</sp></b>
+<td>Side<td r>452,<td>Spalte<td r>2,<td>Linie<td>17 f. n.<td>F. W. Foster læs: J. W. Foster
+<td c>-<td r>520,<td c>-<td r>2,<td c>-<td r>15 f. n.<td>tilføjes: (Litt. <sp>L. Bobé</sp>, Chr. Lunds Relation til Kong
+<td 6><td>Frederik III om D. D.'s tre Rejser til Grønland 1652-54
+[Danske Magazin 6 R. II].)
+
+
+<td 7 c><b><sp>BIND VI.</sp></b>
+<td>Side<td r>386,<td>Spalte<td r>1,<td>Linie<td>4 f. o.<td>Ved Lodseriet er nu i Stedet for Lodsinspektøren ansat en
+<td 6><td>Lodsoldermand.
+<td c>-<td c>-<td c>-<td r>1,<td c>-<td r>19 f. o.<td>Ved kgl. Resol. af 1. Marts 1910 er disse Vedtægter ophævede,
+<td 6><td>og den kommunale Forfatning er nu i Overensstemmelse
+<td 6><td>med de for Landkommuner gældende Love og Bestemmelser.
+<td c>-<td r>611,<td c>-<td r>1,<td c>-<td r>31 f. n.<td>Artikelordet <b>Dyslali</b> er udfaldet.
+<td c>-<td r>881,<td c>-<td r>2,<td c>-<td r>8 f. o.<td>Ordene <sp>første</sp> og <sp>anden</sp> ombyttes.
+<td 7 c><b><sp>BIND VII.</sp></b>
+<td>Side<td r>226,<td>Spalte<td r>1,<td>Linie<td r>12-10 f. n.<td>tre Valgreformer . . . »Parlamentsloven« af 1911 læs:
+<td 6><td>fire Valgreformer af 1832, 1867-68, 1884-85 og 1918,
+<td 6><td>samt »Parlamentsloven« af 1911.
+<td c>-<td r>227,<td c>-<td r>1,<td c>-<td r>11 f. n.<td>(1910) c. 200 læs: (1918) c. 300
+<td c>-<td r>429,<td c>-<td r>2,<td c>-<td r>27 f. o.<td>Erlandsen, A. W. E. † 10. Jan. 1918.
+</table>
+</chapter>

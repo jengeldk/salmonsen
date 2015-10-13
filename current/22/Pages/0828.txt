@@ -1,0 +1,107 @@
+Røntgenstraalerne og de radioaktive Stoffers
+<i>v</i>-Straaler elektromagnetiske Bølger, opstaaet
+ved — ell. i hvert Fald knyttet sammen med —
+svingende Elektronbevægelser i Atomerne. Det
+vil derfor ses, at den svingende Bevægelse
+spiller en overordentlig vigtig Rolle i Fysikken.
+For Oversigtens Skyld deles Artiklen i følgende
+Hovedafsnit: 1) <sp>Harmoniske
+Svingninger</sp>. 2) <sp>Dæmpede harmoniske
+Svingninger</sp>. 3) <sp>Tvungne harmoniske
+Svingninger</sp>. 4) <sp>Ikke-harmoniske
+Svingninger</sp>. 5) <sp>Svingninger med
+2 Frihedsgrader, koblede
+Svingninger</sp>. 6) <sp>Svingninger med
+uendelig mange Frihedsgrader</sp>.
+
+1) <sp>Harmoniske Svingninger</sp>. Naar
+man skal beskrive den svingende Bevægelses
+Natur nøjere, vil det være naturligt at begynde
+med den enkleste Form af S., den simple ell.
+harmoniske S. af en enkelt Massedel. Ved
+denne vil Massedelen <i>m</i> (Fig. 1) bevæge sig
+frem og tilbage langs den rette Linie <i>AOB</i>
+omkring Midterstillingen,
+<sp>Ligevægtsstillingen</sp>, <i>O</i> og med Yderstillingerne i <i>A</i> og <i>B</i>, hvor
+Afstandene <i>OA</i> og <i>OB</i> er lige store = <i>a</i>.
+<i>a</i> kaldes den svingende Bevægelses
+<sp>Amplitude</sp>. Den simpleste Forestilling om
+Bevægelsens Forløb faar man ved at tænke sig et
+Punkt <i>P</i> løbe rundt med <sp>jævn</sp> Hastighed i
+Cirklen <i>ACB</i>. Fodpunktet af den vinkelrette
+fra <i>P</i> ind paa Linien <i>AB</i> vil da give den
+svingende Massedels Plads til de forskellige Tider.
+Naar <i>P</i> i Tiden <i>T</i> Sekunder er gaaet Cirklen
+een Gang rundt, har Massedelen <i>m</i> svinget
+Banen <i>AB</i> een Gang frem og tilbage og er paa
+samme Sted og har samme Hastighed som for
+<i>T</i> Sekunder siden. Man kalder derfor <i>T</i> for
+Massedelens (hele) <sp>Svingningstid</sp> eller
+Periode. (Ved Pendulet forstaar man dog som
+oftest ved Svingningstiden det halve af den her
+definerede Tid, altsaa den Tid som Pendulet
+er om at gaa fra størst Udsving til den ene
+Side til størst Udsving til den anden Side). Den
+reciproke Værdi af <i>T</i>, altsaa Størrelsen 1/<i>T</i>,
+angiver Antallet af S. pr Sekund og kaldes
+<sp>Frekvensen</sp>.
+
+Matematisk udtrykkes Bevægelsen ved, at
+Massedelens Afstand <i>x</i> fra <i>O</i> til en vilkaarlig
+Tid <i>t</i> er givet ved Ligningen <i>x</i> = <i>a sin</i> [<i>2πt</i>/<i>T</i> + φ);
+Størrelsen <i>2πt</i>/<i>T</i> + φ benævnes ofte <sp>Fasen</sp>.
+φ, som er Fasen til <i>t</i> = 0,
+<sp>Fasekonstanten</sp>. Størrelsen 2π/<i>T</i> benævnes
+<sp>Vinkelfrekvensen</sp>. Massedelens Hastighed er givet
+ved Udtrykket a · 2π/<i>T</i> <i>cos</i> (<i>2πt</i>/<i>T</i> + φ), dens
+Acceleration ved — 4π<sup>2</sup>/<i>T<sup>2</sup></i> <i>a sin</i> (<i>2πt</i>/<i>T</i> + φ). Ved at
+sammenligne det sidste Udtryk med Udtrykket for
+<i>x</i> ser man, at Accelerationen kan skrives som
+— 4π<sup>2</sup>/<i>T<sup>2</sup></i> <i>x</i>. Accelerationen er altsaa proportional
+med Massedelens Afstand fra
+Ligevægtsstillingen, det negative Fortegn viser, at den er rettet
+ind mod denne. Det samme maa være Tilfældet
+med den paa Massedelen virkende resulterende
+Kraft, idet den ifølge Newton's 2.
+Bevægelseslov er lige stor med Produktet af
+Accelerationen og Legemets Masse.
+
+Dette Resultat er vigtigt. Det viser, at skal
+et Legeme udføre en harmonisk S., maa det
+være paavirket af saadanne Kræfter, at de,
+naar Legemet fjernes fra sin Ligevægtsstilling,
+vil søge at føre det tilbage til denne, idet deres
+Resultant er rettet ind mod Ligevægtsstillingen
+og vokser proportionalt med Legemets Fjernelse
+fra denne. I selve Ligevægtsstillingen er den
+resulterende Kraft altsaa Nul, og er Legemet
+i Hvile der, vil det vedblive at være det. Har
+Legemet Massen <i>m</i> g, og er den resulterende
+Kraft i Afstanden <i>x</i> fra Ligevægtsstillingen
+<i>kl</i> · <i>x</i>, kan Svingningstiden vises at være 2π kvadratrod (<i>m/k1</i>),
+Svingningstiden er altsaa afhængig af <i>m</i> og <i>k1</i>,
+derimod ikke af Amplituden. Man kalder
+saadanne S. <sp>ligetidige</sp> eller <sp>isokrone</sp>.
+
+Et Eksempel paa et Legeme, der er
+underkastet en Kraft af ovennævnte Art, er et Lod
+ophængt i en Snor. Hænger Loddet stille, er
+Snoren lodret, og de to paa Loddet virkende
+Naturkræfter, Tyngdekraften og den spændte
+Snors Træk i Loddet, er lige store og modsat
+rettede og ophæver derfor hinanden. Fører vi
+Loddet bort fra Ligevægtsstillingen, forbliver
+Tyngdekraften paa Loddet uforandret i
+Størrelse og Retning, medens Snorens Træk maa
+skifte Retning med Snoren. Ved
+Sammensætning af de to Kræfter fremkommer en
+resulterende Kraft, der er rettet ind mod
+Ligevægtsstillingen og proportional med Fjernelsen,
+forudsat at Fjerningsvinkelen ikke er for stor.
+Hænges et Lod op i en passende Spiralfjeder,
+afgiver det et Eksempel paa et Legeme, der
+kan udføre lodrette harmoniske Svingninger.
+
+Ved en harmonisk Bevægelse er Legemets
+
+<img>Fig. 1.</img>

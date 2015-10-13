@@ -1,0 +1,146 @@
+Afgørelsen af, om Tal er Primtal. Af Sætninger
+om Delelighed maa nævnes Fermat's: et
+Primtal <i>p</i>, der ikke gaar op i et helt Tal <i>a</i>, gaar op
+i <i>a<sup>P</sup></i><sup>-1</sup> -1, og Wilson's: et Primtal <i>p</i> gaar op
+i 1 . 2 . 3 ... (<i>p</i>—1) + 1. Fermat's Sætning gav
+Stødet til Gauss' Opstilling af Teorien om de
+saakaldte <sp>Kongruenser</sp>. At to hele Tal <i>a</i>
+og <i>b</i> er <sp>kongruente</sp> for Modulus <i>p</i>, vil
+sige, at de giver samme Rest ved Division med
+<i>p</i>, og det skrives saaledes: <i>a</i>≡<i>b</i> (Mod. p). De
+mest undersøgte Kongruenser har Formen
+<i>x<sup>p</sup></i><i> ≡ <i>1</i> (Mod. <i>p</i>), hvor <i>p</i> er et Primtal; de
+tilfredsstilles iflg. Fermat's Sætning af <i>x</i> = 1,
+2, 3, . . . (<i>p</i> — 1) (Kongruensens Rødder).
+Vælges en vilkaarlig Modulus <i>M</i>, og sættes i
+Kongruensen Eksponenten lig Antallet af Tal
+mindre end <i>M</i> og primiske med <i>M</i>, vil disse
+sidstnævnte Tal alle være Rødder i Kongruensen
+iflg. en af Euler given Udvidelse af Fermat's
+Sætning. T. behandler Spørgsmaalet om,
+hvilke af en saadan Kongruenses Rødder der er
+primitive, ɔ: ikke er Rødder i nogen Kongruens
+af samme Form, men med lavere Eksponent,
+ved hvilken Undersøgelse den vigtige
+Reciprocitetssætning kommer til Anvendelse, og
+medtager ogsaa Kongruenser af den mere
+almindelige Form: et i <i>x</i> helt og rationalt
+Polynomium med hele Koefficienter ≡ 0 for en vis
+Modulus. Kongruenserne er specielle Tilfælde
+af de ubestemte Ligninger, hvorved forstaas
+hele, rationale Ligninger med hele
+Koefficienter, der søges tilfredsstillede af hele Værdier
+for de ubekendte. I nær Forbindelse med disse
+Ligningers Teori staar Behandlingen af de
+aritmetiske Former, ɔ: Polynomier, der er hele,
+rationale og homogene m. H. t. nogle variable
+og har hele Koefficienter. Man har undersøgt
+disse Formers — særlig de kvadratiskes —
+Transformation til hinanden og Muligheden af
+at fremstille et forelagt helt Tal ved en saadan
+Form for hele Værdier af de variable; her
+bevises saaledes Sætningen, at et Primtal af
+Formen 4<sub><i>n</i></sub> ÷ 1 altid er en Sum af to Kvadrattal.
+Disse Undersøgelser skyldes i særlig Grad
+Gauss, Dirichlet og Kronecker, hvilken sidste
+anvender de elliptiske Funktioners Teori. T.
+omhandler videre forsk. talteoretiske
+Funktioner, saasom Antallet af Tal mindre end et
+givet Tal og primiske med det (den Euler'ske
+Funktion), Antallet og Summen af et Tals
+Faktorer m. m. Primtallenes Fordeling i
+Talrækken har beskæftiget mange Matematikere
+(se <sp>Primtal</sp>). Et nyere Afsnit af T.
+behandler de saakaldte '»Tallegemer«, særlig de
+algebraiske; et algebraisk Tallegeme dannes af
+alle rationale Funktioner med rationale
+Koefficienter af en opgiven Samling algebraiske Tal
+(se <sp>Tal</sp>). En Ligning med én Ubekendt og
+rationale Koefficienter, der er irreduktibel, d. v. s.
+ikke kan deles i Ligninger af lavere Grader
+med rationale Koefficienter, kan være
+reduktibel i visse Tallegemer; saaledes er <i>x</i><sup>2</sup> — 3 =
+0 reduktibel i Tallegemet bygget over kvadratrod(3), idet
+den deler sig i <i>x</i> + kvadratrod(3)= 0 og <i>x</i> — kvadratrod(3) = 0. Denne
+Reduktion til lavere Grader spiller en betydelig
+Rolle for Spørgsmaalet om Ligningers
+algebraiske Opløselighed. Her maa ogsaa nævnes
+Kronecker's aritmetiske Teori for de algebraiske
+Størrelser, der behandler algebraiske
+Problemer ved talteoretiske Metoder (Werke 2, p.
+237). — Spor af T. findes tidlig, saaledes
+allerede hos Kineserne, der beskæftigede sig med
+Tryllekvadrater (s. d.). Hos Grækerne træffer
+vi Dannelsen af retvinklede Trekanter med
+rationale Sider, altsaa Løsningen af den
+ubestemte Ligning <i>x</i><sup>2</sup>+<i>y</i><sup>2</sup>=<i>z</i><sup>2</sup>, samt Opstillingen
+af fuldkomne og venskabelige Tal (s. d.)
+(Pytagoræerne og Eukleides) og af Figurtal
+(Nichomachos), videre Summation af Kvadrattallene
+(Archimedes) og Kubiktallene. Eratosthenes
+gav en Metode til Optælling af Primtallene.
+Eukleides viser Metoden til Bestemmelse af
+Tals største fælles Maal. Diofantos behandlede
+ubestemte Ligninger, idet han dog kun krævede
+rationale Løsninger, ikke hele; hans
+Undersøgelser har virket meget befrugtende paa
+senere Talteoretikere. Inderne gav
+Fremgangsmaader til Løsninger af ubestemte Ligninger i
+hele Tal. Araberne beskæftigede sig med
+Tryllekvadrater, Potenstals Summation og Dannelsen
+af venskabelige Tal; Alchodshandi viste, at
+Ligningen <i>x</i><sup>3</sup>+<i>y</i><sup>3</sup>=<i>z</i><sup>3</sup> ikke har rationale
+Løsninger. Under Matematikkens Genopvaagnen i
+Europa i Slutn. af Middelalderen og den flg.
+Tid træffer vi en Behandling af ubestemte
+Ligninger hos Leonardo fra Pisa, Vieta, Bachet
+de Méziriac, der havde en virkelig Teori for
+ubestemte Ligninger af første Grad, og
+Regiomontanus. Fermat, der studerede Diofant meget
+nøje, fik en overordentlig Betydning for T.'s
+Udvikling først og fremmest ved hans ovf. omtalte
+Teorem, men ogsaa gennem en Mængde andre
+Sætninger, af hvilke adskillige meddeltes uden
+Bevis og saaledes ansporede senere
+Matematikere til talteoretiske Undersøgelser; et
+Eksempel herpaa er den endnu ikke helt beviste
+Sætning, at Ligningen <i>x<sup>n</sup></i> + <i>y<sup>n</sup></i> = <i>z<sup>n</sup></i> (<i>n</i>>2) ikke kan
+tilfredsstilles af hele Tal. Fermat's Arbejder
+blev grundig gennemgaaede af Euler, der
+supplerede dem med adskillige Beviser og ogsaa
+paapegede Fejl, saaledes ved Eksempler
+godtgjorde, at 22 + 1 ikke altid, som paastaaet af
+Fermat, er et Primtal. Gauss' berømte Værk
+Disquisitiones Aritmeticæ med sin Behandling
+af Kongruenser og Indførelse af komplekse Tal
+i T. er grundlæggende; Legendre's <i>Théorie des
+nombres</i> giver en ordnet Fremstilling af T. og
+indeholder af nyt hans Reciprocitetssætning. Af
+berømte Navne i T. maa endnu nævnes
+Lagrange, Eisenstein, Dirichlet, Kummer, Sylvester,
+Tschebyscheff, Hermite, Hilbert, Minkowski,
+Dedekind.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Talus">
+<b>Talus</b> [ta'ly] (geologisk) kaldes undertiden
+den nederste jævnt skraanende Del af Klinter
+eller andre stejle Gennemskæringer af
+Jordlagene. T. bestaar i Reglen af løse nedskredne
+Masser af de højere liggende Jordlag.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Talus">
+<b>Talus</b> (lat.), Rulleben, se <sp>Fod</sp>.
+</chapter>
+
+<chapter name="Talweg">
+<b>Talweg</b> ['ta.lve.k], egentlig <sp>Dalvej</sp>,
+<sp>Dalføre</sp>, Sejlløbet i en Flod, en Betegnelse, der
+fra Tysk er optaget i andre Sprog. I
+Overensstemmelse med den ældre Teori delte
+Nabostater tidligere Grænsefloder efter Midtlinien,
+en Regel, der ogsaa findes optaget i enkelte
+nyere Traktater, f. Eks. den lettisk-russiske af

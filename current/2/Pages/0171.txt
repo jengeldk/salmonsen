@@ -1,0 +1,10 @@
+<chapter name="Artemis (Planche)">
+<h1>ARTEMIS</h1>
+<img>Artemis med Vilddyr, Françoisvasen.</img>
+
+<img>Statue fra Pompeji, Napoli.</img>
+
+<img>Statue fra Gabii, Louvre.</img>
+
+<img>„Diana fra Versailles“, Louvre.</img>
+</chapter>

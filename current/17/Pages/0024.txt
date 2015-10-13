@@ -1,0 +1,119 @@
+Arbejdsdeling Sted, saa at Objektivet udfører
+den første og Okularet den anden Funktion,
+hvorved Muligheden for fuldkomne Billeder er
+given. Af disse meget forsk. Funktioner følger
+de væsentlig forsk. Fordringer, der maa
+stilles til Ophævelse af Linsefejl i de to Systemer.
+
+For Okularet kommer det væsentlig an paa
+at ophæve Astigmatismen og opnaa vinkeltro
+Afbildning foruden ogsaa at opnaa en vis
+Akromasi, nemlig samme Brændvidde og derfor
+samme Forstørring for forsk. Farver. Det
+Huyghen'ske Okular tilfredsstiller disse
+Betingelser i tilstrækkelig Grad, naar begge linser
+er plankonvekse med den plane Side opad, og
+viser herved yderligere sin Overlegenhed over
+en enkelt Okularlinse. Saaledes vil en »hvid«
+Straale, der rammer <i>K</i> (Fig. 1) spaltes, idet
+den violette Del brydes mere end den røde,
+men derfor træffer den violette Del <i>F</i> nærmere
+ved Aksen og brydes i <i>F</i> saa meget mindre
+end den røde, at de gaar ud parallelt.
+Ogsaa for Formindskelse af den sfæriske
+Aberration er det sammensatte Okular gunstigt,
+idet Straaler fra samme Punkt <i>A</i> krydser
+hinanden mellem Linserne, saa at den yderste,
+der brydes for meget i <i>K</i>, brydes tilsvarende
+mindre i <i>F</i>.
+
+Til Objektivet, navnlig til de stærkere Systemer
+med kort Brændvidde maa der stilles langt
+større Fordringer, saa at de bliver meget
+kompliceret byggede og dyre. Da der anvendes
+Straalebundter med saa stor Aabning, bliver
+især Ophævelsen af den sfæriske Aberration
+vigtig; desuden maa den kromatiske Aberration
+ophæves og Sinusbetingelsen tilfredsstilles
+(se <sp>Linse</sp>). Den historiske Udvikling af
+Objektiverne skal forbigaas. Fælles for alle moderne
+stærkere Objektiver er, at den nederste Linse,
+Frontlinsen, er halvkugle formet; Objektet
+ligger da i Kuglens aplanatiske Punkt
+(se <sp>Linse</sp>), hvorved man opnaar den første
+Divergensformindskelse for Straalebundterne uden
+sfærisk Aberration (Amici's Princip). Undertiden
+anvendes dette Princip fl. Gange ved at
+indskyde en konkavkonveks Linse efter
+Frontlinsen. Derefter kommer altid fl. akromatiske
+Linsesystemer i Objektivet. Ved de stærkere
+Objektiver spiller ogsaa Dækglasset (se
+<sp>mikroskopisk Præparat</sp>) en betydelig Rolle
+(højre Halvdel af Fig. 3). <i>P</i> er et Objektpunkt
+beliggende umiddelbart op til Dækglasset.
+Straalerne fra <i>P</i> brydes i Dækglassets øverste
+Flade og gaar videre ind i Objektivets Frontlinse,
+ikke som om de kommer fra et bestemt Punkt,
+men fra en saakaldt kaustisk Flade. Der er
+altsaa allerede indtraadt en Art sfærisk Aberration,
+før Straalerne naar ind i Objektivet. Den
+kan nu imidlertid tages med i Beregningen af
+dette og derved for største Delen ophæves, men
+kun for en bestemt Dækglastykkelse. De
+stærkere Objektiver maa da enten altid bruges
+ved en bestemt Dækglastykkelse ell. have saakaldt
+Korrektionsfatning (Fig. 4, der viser et moderne
+saakaldt akromatisk Objektiv i naturlig Størrelse),
+idet man korrigerer for Indflydelsen af en
+Forandring i Dækglastykkelse ved at forskyde en Del
+af Linsesystemet (i Fig. de 2 øverste akromatiske
+Linser) i Forhold til Resten ved at skrue paa
+Ringen med Inddelingerne. Disse Ulemper undgaas
+helt ell. delvis ved <sp>Immersionsobjektiverne</sp>,
+der tillige frembyder andre vigtige Fordele.
+Ved Immersionsobjektiver (i Modsætning til de
+hidtil omtalte »Tørsystemer«) indskydes
+mellem Dækglasset og Frontlinsen en Vædske
+(Immersionsvædsken, venstre Halvdel af Fig 3);
+som saadan bruges undertiden Vand, hyppigst
+Cedertræolie, der er noget inddampet, saa at den
+har faaet samme Brydningsforhold som Glas
+(homogen Immersion, <sp>Abbe</sp>), undertiden
+ogsaa andre Vædsker, Monobromnaftalin o. fl.
+Da der herved finder langt mindre ell. slet ingen
+Brydning Sted ved Dækglassets Overflade,
+bliver Aberrationen fra Dækglasset saa lille, at
+den let ophæves, ell. helt Nul ved den
+homogene Immersion. Endvidere forhøjes den
+numeriske Apertur (<i>n</i>sin<i>u</i>) p. Gr. a. det større
+Brydningsforhold, hvorved baade Klarheden og
+Opløsningsevnen forøges. Fig. viser direkte, at
+Lysstraaler, der i højre Side ikke naar ind i
+Objektivet ell. endog lider fuldstændig
+Tilbagekastning ved Dækglassets Overflade, i venstre
+Side opfanges af Objektivet. Endvidere undgaar
+man det ikke uvæsentlige Lystab, som ogsaa de
+Straaler, der slipper ind i Tørsystemet, lider
+ved delvis Refleksion fra Glasfladerne. For et
+Tørsystem kan Aperturen definitionsmæssig
+ikke overstige 1 og i Praksis højst naa 0,95,
+hvorimod et Vandimmersionsobjektiv (der mest
+bruges til Iagttagelser under Vand, idet Objektivet
+direkte føres ned i Vandet, saa at Dækglasset
+udelades) kan naa 1,2, og et Objektiv til homogen
+Immersion 1,35—1,4. Immersionsobjektiverne
+skyldes ogsaa Amici. Det væsentligste nyere
+Fremskridt i Objektivernes Konstruktion
+skyldes Abbe, der indførte <sp>Apokromat</sp> objektiverne;
+i disse er det sekundære Spektrum (se
+<sp>Akromatisme</sp>), der altid bliver tilovers i
+alm. akromatiske Objektiver, praktisk talt
+forsvundet, og den sfæriske Aberration er ophævet
+for 2, d. v. s. praktisk talt alle Farver.
+Apokromaterne giver saa fuldkomne Billeder, at
+
+<img>Fig. 3. Dækglassets Indflydelse, Immersion.</img>
+
+<img>Fig. 4. Akromatisk
+Objektiv med Korrektionsfatning
+(naturlig Størrelse).</img>

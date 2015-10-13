@@ -1,0 +1,170 @@
+Gnidningsmodstanden i selve
+Lokomotivdampmaskinen forbruger noget af den indicerede Kraft,
+og da Middeltrykket bl. a. er afhængig af
+Dampindstrømningens Varighed og derfor kun
+er en Brøkdel af det effektive Kedeltryk <i>p</i>, kan
+Ovenstaaende Formel, gældende for den
+<sp>maksimale T.</sp> (for største Flydningsprocent i
+Cylindrene) erfaringsmæssigt ændres til <i>T</i> = 0,65 .
+<i>p</i> . <i>d</i><sup>2</sup> . <i>l</i> / <i>D</i> kg. Denne T. kan et Lokomotiv kun
+udvikle, saa længe det kører langsomt;
+efterhaanden som Hastigheden vokser, maa
+Fyldningsprocenten formindskes (Styringen trækkes
+nærmere op imod sin Midtstilling), thi ellers
+vilde Dampkedlen ikke vedvarende kunne
+frembringe den fornødne Dampmængde. Naar
+Fyldningsprocenten formindskes, bliver det
+indicerede Middeldifferenstryk <i>p</i> mindre, og derfor
+aftager T., naar Lokomotivets Hastighed
+vokser. Hvis man kender den største T., som et
+Lokomotiv er i Stand til at udvikle ved en
+bestemt Hastighed, kan man beregne
+Lokomotivets maksimale Ydelse <i>N</i>, maalt i H. K. ved
+den paagældende Hastighed ved Formlen: <i>N</i> =
+<i>T</i> · <i>M</i> / 75, hvor <i>M</i> = det Antal Meter, som
+gennemløbes i 1 Sekund. For at kunne nyttiggøre
+den af Maskinen udviklede T., er det
+nødvendigt, at Gnidningsmodstanden mellem Driv- og
+Kobbelhjul og Skinner er tilstrækkelig stor;
+denne Modstand varierer stærkt med
+Skinnernes Tilstand (tørre eller »fedtede«), men kan
+for middelgode Forhold anslaas til c. 1/6 <i>P</i>,
+hvor <i>P</i> er den samlede <sp>Adhæsionsvægt</sp>
+(s. d.) — d. v. s. den Del af Lokomotivets Vægt,
+der overføres til Skinnerne gennem samtlige
+Driv- og Kobbelhjul. 1/6 <i>P</i> er altsaa den største
+Værdi, som T. kan antage under normale
+Forhold, uden at Hjulene begynder at »spille«
+(dreje rundt paa Stedet) paa Skinnerne. Man
+kan forøge Gnidningsmodstanden til en vis Grad
+ved at sprede Sand paa Skinnerne (se
+<sp>Sandstrøapparat</sp>), hvilket ofte er nødvendigt,
+dels ved Igangsætning, dels under Kørsel paa
+»fedtede« Skinner.
+
+Ved Fremførelse af et Tog har Lokomotivets
+T. en hel Række Modstande at overvinde.
+Foruden Lokomotivmaskinens egne Modstande kan
+nævnes f. Eks. Modstanden mod Hjulenes
+Rulning paa Skinnerne, Gnidningsmodstanden
+mellem Akselhalsene og deres Lejer samt
+Luftmodstanden; denne sidste er den mest
+foranderlige, idet den vokser stærkt med
+Kørselshastigheden; til de nævnte Modstande, som altid er
+til Stede under Kørselen, kommer yderligere
+Stigningsmodstanden og Kurvemodstanden, som
+fremkommer henholdsvis paa Banens
+Stigninger og i Sporets Kurver. Stigningsmodstanden
+er fremkaldt af Tyngdekraften, medens
+Kurvemodstanden navnlig hidrører fra en forøget
+Gnidningsmodstand mellem Hjulene
+(Hjulflangerne) og Skinnerne, men ogsaa opstaar ved
+Glidning af Hjulene paa Kurvens Inderskinne,
+fordi disse Hjul paa Grund af den faste
+Forbindelse med Akslerne maa løbe lige saa mange
+Gange rundt som Hjulene paa Yderskinnen,
+skønt de har en kortere Vejlængde at
+gennemløbe. Alle de her nævnte Modstande kaldes
+under eet for <sp>Togmodstanden</sp>. Udvikler
+Lokomotivet netop en Kraft, der er lig
+Togmodstanden i det givne Øjeblik, vil hele T. medgaa
+til Togmodstandens Overvindelse, og der vil
+intet Overskud af Kraft blive til at forøge
+Togets Hastighed. Er T. større end
+Togmodstanden, vil Togets Hastighed kunne forøges, indtil
+T. og Togmodstand igen er lig hinanden,
+hvorefter Hastigheden bliver konstant. Omvendt vil
+Hastigheden aftage, hvis T. er mindre end
+Togmodstanden, indtil T. og Togmodstand bliver
+lige store igen (se iøvrigt <sp>Lokomotiv</sp>, Side
+985).
+<i>G. K.</i>
+</chapter>
+
+<chapter name="Trækkepenge">
+<b>Trækkepenge</b> (Søv.). Den Del af en
+Sømands Hyre, der efter truffen Aftale udbetales
+til hans paarørende i Land.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Trækkrog">
+<b>Trækkrog,</b> se <sp>Kobling</sp>, S. 246.
+</chapter>
+
+<chapter name="Trækkrogen">
+<b>Trækkrogen,</b> se <sp>Ryddekrog</sp>.
+</chapter>
+
+<chapter name="Trækning">
+<b>Trækning,</b> mekanisk Proces, ved hvilken man
+formindsker en Genstands Tværsnit, idet dens
+Længde forøges. T. forudsætter en vis Styrke
+hos den behandlede Genstand, for at den ikke
+skal rives over under Processen; den egentlige
+T. anvendes derfor næsten udelukkende paa
+Metaller af betydelig Strækkelighed og fremfor
+alt ved Fremstilling af Traad, se <sp>Jerntraad</sp>,
+<sp>Metaltraad</sp>. T. finder ogsaa ofte
+Anvendelse ved Fremstilling af Rør (s. d.). Det, som
+karakteriserer Operationen, er, at Genstanden
+føres gennem en Aabning, <sp>Trækkehullet</sp>,
+i sin mindste Form kaldet <sp>Øjet</sp>.
+Benævnelsen T. finder derfor ogsaa Anvendelse i visse
+Tilfælde, hvor Længdedimensionen lades
+uforandret, medens Tværsnittet enten alene
+underkastes en Formforandring, som ved
+Fremstilling af profilerede Lister af Metalblik, eller
+en Tildannelse af Overfladen, hvorved det
+overflødige fjernes, som ved Guldlisternes
+Gennemgang gennem Trækkejernet (se <sp>Guldlister</sp>).
+
+I Bygningsteknikken forstaas ved T. f. Eks.
+Frembringelse af Profil paa Gesimser o. l., hvor
+en profileret Skabelon føres hen ad den med
+Puds forsynede Murflade.
+<i>(F. W.). Carl J.</i>
+</chapter>
+
+<chapter name="Trækningskoefficient">
+<b>Trækningskoefficient</b> [-ef-], se
+<sp>Metaltraad</sp>.
+</chapter>
+
+<chapter name="Træk- og Stødapparater">
+<b>Træk- og Stødapparater,</b> de som Regel
+paa hver Ende paa Jernbanekøretøjer,
+Sporvogne m. fl. anbragte Konstruktionsdele, der
+tjener til dels at overføre Træk fra det ene
+Køretøj til de følgende, dels at holde
+Køretøjerne sammen med passende indbyrdes Afstand
+(se <sp>Kobling</sp> og <sp>Buffere</sp> samt
+<sp>Jernbanevogne</sp>, S. 18).
+<i>G. K.</i>
+</chapter>
+
+<chapter name="Trækonservering">
+<b>Trækonservering,</b> se <sp>Træ</sp>.
+</chapter>
+
+<chapter name="Træksigte">
+<b>Træksigte,</b> se <sp>Sigte</sp>.
+</chapter>
+
+<chapter name="Trækskøjte">
+<b>Trækskøjte,</b> et mindre Fartøj, der
+anvendes paa Floder i Holland og føres frem mod
+Strømmen ved Hjælp af Tove, som fra
+Stævnen vises ind paa Bredden, hvor Mennesker
+eller Heste spændes for, medens Fartøjet ved
+Hjælp af Roret holdes ude fra Bredden.
+<i>(C. L. W.). C. B-h.</i>
+</chapter>
+
+<chapter name="Trækstyrken">
+<b>Trækstyrken</b> af et Materiale findes som
+angivet under Trækforsøg. Dens Størrelse hos
+smedeligt Jern findes under <sp>Jern</sp>, S. 901.
+Metallernes T. aftager med voksende
+Temperatur, kun smedeligt Jern danner en Undtagelse,
+idet dets T. stiger ved en Opvarmning fra

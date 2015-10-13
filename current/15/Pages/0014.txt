@@ -1,0 +1,138 @@
+Temperaturen, blev et stort Arbejde saavel
+eksperimentelt som teoretisk sat ind paa at
+bestemme Straalingsenergien og dens Fordeling
+over de forsk. Svingningstal ved forsk. Temp.
+<sp>O. Lummer</sp> og <sp>E. Pringsheim</sp> foretog
+1897—1900 meget omhyggelige eksperimentelle
+Bestemmelser. Forinden havde <sp>W. Wien</sp>
+opstillet en teoretisk begrundet Straalingsformel,
+og Lord <sp>Rayleigh</sp> opstillede en anden
+Formel; men ingen af disse passede helt med
+Maalingerne; den første var kun brugelig for høje,
+den anden for lave Svingningstal. Planck satte
+et stort Arbejde ind paa at udlede en
+Straalingslov saa eksakt og paa saa sikkert
+Grundlag som muligt. Da Temperaturstraalingen er
+uafhængig af Arten af Atomerne, tænkte han sig
+disse saa simple som muligt; han antog, at
+Elektronerne i Atomerne svinger retlinet og
+under Paavirkning af Kræfter, der er
+proportionale med Afstanden fra Ligevægtsstillingen.
+Svingningstallet ω for en saadan Elektron (en
+»Planck's Oscillator«) vil være konstant,
+uafhængigt af Oscillatorens Energi. Ved at
+anvende Elektrodynamikkens og
+Termodynamikkens Love paa et stort Antal af saadanne
+Oscillatorer førtes Planck til Wien's
+Straalingsformel, og der syntes overhovedet ikke at være
+Mulighed for at naa til en med Erfaringen
+stemmende Straalingslov, saa længe
+Rigtigheden af de klassiske elektrodynamiske og
+termodynamiske Grundlove fastholdes. Det
+lykkedes derimod Planck at udlede en
+Straalingslov, som nøje stemmer med Maalingerne, naar
+han — i Strid med de nævnte Love — antog,
+at en Oscillator ikke til Stadighed Straaler,
+men at Straalingen udsendes diskontinuert,
+saadan at der, hver Gang Udstraaling finder Sted,
+udsendes en Energimængde af Størrelse <i>h</i>ω,
+hvor ω er Oscillatorens Svingningstal og <i>h</i> en
+Konstant, c. 6,55 · 10<sup>÷27</sup> Erg. Sek. (Planck's
+Konstant). Tænkes Absorption af Straaling at
+foregaa diskontinuert paa lgn. Maade, skal
+Oscillatorens Energi altsaa ikke kunne have alle
+Størrelser, men stedse være et helt Multiplum
+af <i>h</i> ω. Foruden Konstanten <i>h</i> indgaar der i
+Planck's Straalingsformel en anden Konstant,
+den saakaldte Boltzmann's Konstant, der efter
+den alm. statistiske Mekanik bestemmer en
+vilkaarlig i Varmebevægelsen deltagende
+Partikels Middelenergi ved en given Temp. Ogsaa
+efter Fremkomsten af Planck's Teori er der
+gjort mange Forsøg paa at forstaa den
+eksperimentelt fundne Straalingslov paa
+Grundlag af de klassiske elektrodynamiske og
+statisk-mekaniske Teorier, men alle saadanne
+Forsøg har kun yderligere styrket
+Overbevisningen om disse Teoriers Uholdbarhed.
+Samtidig viste Planck's Forestillinger sig egnede
+til Forklaring af fl. a. fysiske Fænomener,
+ogsaa saadanne, som er af ikke-statisk Natur.
+
+<sp>Anvendelser af Planck's Teori</sp>.
+Stokes' Lov for Fluorescensen, som
+siger, at Svingningstallet <i>v</i><sub>2</sub> for Fluorescenslyset
+altid er mindre end Svingningstallet <i>v</i><sub>i</sub> for det
+Lys, som frembringer Fluorescensen, forstaas
+saaledes umiddelbart, naar man antager, at
+Lyset med Svingningstallet <i>v</i><sub>1</sub> absorberes i
+Energikvanta af Størrelsen <i>hv</i><sub>1</sub> og at der for
+hvert Kvantum Lys, som ved at absorberes
+giver Anledning til Fluorescens, udsendes en
+Energimængde <i>hv</i><sub>2</sub> af Fluorescenslys.
+<sp>Einstein</sp> anvendte K. paa den lyselektriske
+Virkning, d. v. s. Frigørelsen af
+Elektroner fra Metaller ell. andre Stoffer ved
+Bestraaling med elektromagnetiske Bølger (Lys,
+Røntgenstraaler etc.). Han tænkte sig, at der
+for hver Elektron, som frigøres, absorberes et
+Energikvantum <i>hv</i> af Lyset, og sluttede deraf,
+at Elektronerne vil forlade den Overflade, fra
+hvilken de frigøres, med en kinetisk Energi,
+som højest er <i>hv</i>÷<i>A</i>, hvor <i>A</i> er det Arbejde,
+som medgaar til at frigøre en Elektron fra
+Overfladen. Nøjagtige Maalinger af
+Elektronhastigheden for forsk. Svingningstal af det Lys,
+hvormed der bestraales, er udført af
+<sp>Millikan</sp>, og hans Maalinger bekræftede Einstein's
+Lov og gav en Værdi for <i>h</i>, som nøje stemmer
+med den af Varmestraalingsmaalingerne
+bestemte. For Frembringelse af elektromagnetisk
+Straaling, f. Eks. Røntgenstraaler ved
+Elektronstød, gælder lgn. Forhold, idet man har fundet,
+at de stødende Elektroner for at kunne
+frembringe Straaling af Svingningstal <i>v</i>, naar de
+rammer et Legeme, maa have en kinetisk
+Energi, som mindst er <i>hv</i>v. Røntgenstraalingen
+udsendes altsaa i Kvanta af Størrelsen <i>hv</i>, som
+hver for sig frembringes ved en enkelt
+Elektrons Stød. Forsøg af denne Art, ved hvilke
+saavel de stødende Elektroners Hastighed
+som den frembragte Straalings Svingningstal
+maales, kan tjene til meget nøjagtige
+Bestemmelse af Planck's Konstant. Einstein's Teori
+for den lyselektriske Virkning førte ham til at
+opstille en tilsvarende Teori for de
+<sp>fotokemiske</sp> Fænomener, hvorpaa der dog ikke
+skal gaas nærmere ind.
+
+Ogsaa til Forklaring af andre fysiske
+Fænomener end Straalingsfænomener viste K. sig
+overordentlig værdifuld. Af stor Bet. er
+saaledes Einstein's Anvendelse af K. til at udvikle
+en <sp>Varmefyldeteori for faste
+Legemer</sp>. Tænker man sig, at hvert enkelt
+Atom i et fast Legeme er bundet til en
+Ligevægtsstilling, hvorom det kan udføre elastiske
+Svingninger, fører den fra den statiske
+Mekanik velkendte Lov om Energiens Ligedeling
+til, at hvert Atom i Middel har samme Energi
+og en Energi, som er uafhængig af Legemets
+Art og lig 3 <i>kT</i>, hvor <i>T</i> betyder den absolutte
+Temp. og <i>k</i> Boltzmann's Konstant (= c.
+1,35 · 10<sup>÷16</sup> Erg/Grad). Heraf følger, at
+Atomvarmen, d. v. s. den Varmemængde pr Atom,
+som skal tilføres Legemet for at opvarme det
+1 Grad, er ens for alle Stoffer og uafhængig af
+Temp. (Dulong og Petit's Lov). Denne Lov
+stemmer ganske vist nogenlunde med
+Erfaringen for et stort Antal Stoffer, men der findes
+dog betydelige Afvigelser fra den, og det har
+for alle undersøgte Stoffer vist sig, at den slet
+ikke gælder ved meget lav Temp., idet
+Atomvarmen ved saadanne Temp. aftager meget
+stærkt med aftagende Temp. Einstein antog
+derfor, at Sætningen om Energiens Ligedeling
+ikke har alm. Gyldighed, men at et svingende
+Atoms Middelenergi afhænger af dets
+Svingningstal og af Temp. paa samme Maade som

@@ -1,0 +1,136 @@
+tilbage med sig, hvorved Buen spændtes. Et Tryk
+paa Aftrækkeren ell. Snelleren frigjorde
+Hagen, der drejede sig nedad. Herved slap
+Stroppen ud over Hagen; Strengen for frem, og
+Kuglen udslyngedes. Disse Buer var hyppigst
+forsynede med Sigtekorn, en lille Kugle eller
+Perle anbragt paa en Silketraad, der var
+udspændt mellem to op staaende tynde Stænger,
+anbragte paa Skæftets Forende. Paa Skæftets
+bageste Del ell. hyppig paa
+Vægtstangsforbindelsen var anbragt et Klap visér med Kærv.
+Vaabnet kom op efter Midten af 16. Aarh. og
+holdt sig langt ned i Tiden, særlig til
+Gemsejagt, og brugt af Krybskytter, da det jo var
+lydløst. Fig. viser Buen under Spænding.
+
+Populært benævnedes de ofte <sp>Laasbuer</sp>
+p. Gr. a. Spændingsmaaden. Ved en Laasbue
+forstaas dog enhver Armbrøst, fordi Skuddets
+Afgang bevirkes ved en Laasemekanisme.
+<i>C. H.</i>
+</chapter>
+
+<chapter name="Kuglebakterier">
+<b>Kuglebakterier,</b> se <sp>Bakterier</sp>, S. 537.
+</chapter>
+
+<chapter name="Kuglebane">
+<b>Kuglebane,</b> den Linie, som <sp>Skarpet</sp> —
+der ogsaa kaldes <sp>Projektilet</sp> ell. <sp>Kuglen</sp>
+— følger paa sin Flugt fra Skytsmundingen,
+til det slaar i Jorden. Tænktes Skydningen
+foretaget i et lufttomt Rum, vilde K. blive en
+Parabel med lodret Akse, d. v. s. Banens op-
+og nedadgaaende Grene vilde blive
+ligedannede, K.'s Toppunkt ligge midt imellem
+Skytsmunding og Nedslagspunkt; Udgangs- og
+Nedslagsvinkler bliver lige store. Ved Skydning i
+Luften afviger K. (Fig. 1) betydeligt fra
+Parabelen. P. Gr. a. Luftmodstanden taber Skarpet,
+efterhaanden som det skrider frem i sin Bane,
+mere og mere af sin Hastighed, medens
+Tyngdekraften virker paa det omtr. som i lufttomt
+Rum. Som Følge heraf bliver den opad- og den
+nedadgaaende Gren af K. forskelligtformede,
+den opadgaaende <i>m t</i> fladere end den
+nedadgaaende <i>t n</i>; K.'s Toppunkt <i>t</i> ligger nærmere
+Nedslags- end Udgangspunktet;
+Nedslagsvinklen ψ bliver større end Udgangsvinklen φ og
+Slutningshastigheden betydelig mindre end
+Begyndelseshastigheden. — K. bestemmes i
+Reglen (se <sp>Indskydning</sp>) ved sine Ordinater
+i et retvinklet Koordinatsystem, hvis <i>X</i>-Akse er
+Sigtelinien (Fig. 1 <i>m n</i>), og hvis
+Begyndelsespunkt er Skytsmundingen <i>m</i>. I Tabellerne over
+Geværkuglebaner opføres i Reglen
+Ordinaterne for hvert 100 ell. 50 m af <i>X</i>-Aksen og for
+en successiv Række af K., hver svarende til sin
+Skudvidde fra 100 m til 2000 m (Fig. 1 viser
+1100 m K.'s Ordinater for hver 100 m). — Ved
+K. mærkes det <sp>raserende Stykke</sp> ɔ:
+den Del af K.'s nedadgaaende Gren, hvis
+Ordinater er lig med ell. mindre end Mandshøjde,
+1,75 m. Ved Skydning paa de kortere Afstande,
+hvor K. endnu er fladere, er det raserende
+Stykke længere (Fig. 2) end ved Skydning paa
+de større Afstande (Fig. 3). Den helt
+raserende K. er den, hvis højeste Ordinat er
+Mandshøjde, 1,75 m (Fig. 4 <i>ab</i>). Det er af stor
+taktisk Bet., at denne K. er lang, og i det hele
+taget at K.'s <sp>Rasance</sp> ɔ: den større ell.
+mindre Længde af de til de enkelte Afstande
+svarende raserende Stykker er saa stor som
+muligt. Jo mere dette er Tilfældet, desto lavere
+gaar Kuglerne hen over Terrainet, og desto
+virksommere vil dette blive beskudt.
+Bestræbelserne ved Forbedringer af Ildvaabnene har
+derfor ogsaa stedse gaaet ud paa at gøre
+Skarpet egnet til at overvinde Luftmodstanden,
+saaledes at Hastighedstabene bliver saa smaa som
+muligt, og at give det den størst mulige
+Begyndelseshastighed. Medens de 11 mm's
+Geværer, der brugtes i 1870'erne og 1880'erne,
+havde en helt raserende K. paa 350 à 360 m,
+er denne ved de moderne 6,5—8 mm's
+Geværer vokset til 600 à 700 m, ligesom Skarpets
+Begyndelseshastighed er vokset fra 400 m ved
+de 11 mm's Geværer til 700 à 800 m ell. mere
+ved de moderne Vaaben.
+<i>(E. P.). C. Q.</i>
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+</chapter>
+
+<chapter name="Kuglebaneneg">
+<b>Kuglebaneneg,</b> <sp>Skudneg</sp>
+(Geschossgarbe, <i>gerbe des trajectoires</i>) kaldes ved
+Infanteriets <sp>Masseskydning</sp> det Bundt af
+Kuglebaner, som fremkommer, naar en
+Afdelings Ild rettes imod samme Maal. Den ved
+Masseskydningen fremkaldte Spredning af
+Kuglerne er betydelig større, end naar der skydes
+<sp>Præcisionsskydning</sp>. Idet Skytterne
+med forsk. Nøjagtighed sigter paa det fælles
+Maal for Ilden, fremkommer der en stor
+Spredning af Kuglerne. Denne Spredning holder sig
+dog, naar man ikke medregner de Skud, der
+affyres vildt og uden Sigte, inden for ret faste
+Grænser. Skydeforsøg, ved hvilke
+Troppeafdelinger har beskudt feltmæssige Maal af
+Troppeskiver, har vist, at K., naar alle
+Skytter har samme Visér indstillet paa Geværerne,
+begrænses af Kuglebaner, der paa mellemstore
+Afstande, 1100—1200 m, er henh. 100 m
+kortere og 100 m længere end den til Viseret
+svarende Afstand. K. for 1200 m's Visér (Fig. 1)
+omfatter saaledes alle de Kuglebaner, der
+beskrives af de Skarp, som ikke nøjagtig afgives
+med 1200 m's Visér. For at faa en mere
+udstrakt Ildvirkning i Terrainet bruger man ved
+Skydning paa de længere Afstande, hvor det
+er vanskeligere nøjere at bestemme Maalets
+Plads, samtidig 2 ell. fl. Viserhøjder med 100
+m's Forskel, saaledes at Halvdelen af
+Troppeafdelingen skyder f. Eks. med 1200 m's Visér,
+Halvdelen med 1300 m's. Det dertil svarende
+K. begrænses nu omtrentlig forneden af 1100
+m's, foroven af 1400 m's Kuglebanerne og
+
+<img>Fig. 1.</img>

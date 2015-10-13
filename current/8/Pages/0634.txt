@@ -1,0 +1,86 @@
+Billede, der tjener som Grundlag for Opmaaling
+(se <sp>Fotogrammetri</sp>).
+</chapter>
+
+<chapter name="Fotogrammetri">
+<b>Fotogrammetri</b> (gr.) er en
+Opmaalingsmetode, ved hvilken man konstruerer Kort paa
+Grundlag af Fotografier af vedk. Terrain.
+Metoden gør ikke Fordring paa stor Nøjagtighed,
+men den er anvendelig ved topografiske
+Arbejder og finder navnlig Anvendelse i
+utilgængelige Bjergegne.
+
+F.'s Grundtanke er af <sp>Jordan</sp> udtrykt
+saaledes: »Det maa være muligt af to
+perspektiviske Billeder af en Genstand at
+fremstille selve Genstanden geom. i Rummet.
+Tænker vi os to plane, perspektiviske Billeder
+i orienteret Stilling,
+d. v. s. saaledes, at
+alle Lysstraaler fra
+begge Øjepunkter
+til Objektpunkterne
+i Rummet træffer
+Billedplanerne i de
+rigtige Punkter, da
+vil ikke alene
+Konstruktionen være
+mulig, men der vil
+ved Konstruktionen
+af hvert enkelt
+Punkt som to Synsliniers Skæringspunkt
+opstaa en Prøve derved, at disse rette Linier
+maa skære hinanden i Rummet«.
+
+Til Brug ved fotogrammetriske Opmaalinger
+benyttes en <sp>Fototeodolit</sp>, ɔ: en
+Teodolit (Fig. 1, skematisk i Fig. 2), i hvilken der
+paa Kikkertens Plads er anbragt et Kamera,
+hvis Linses Hovedakse er parallel med en
+ekscentrisk Kikkert <i>K</i>'s Bevægelsesplan og vinkelret
+paa den præparerede Plade. Teodoliten er
+forsynet med Horisontalkreds <i>HH</i> og
+Vertikalkreds <i>VV</i>. Under Brugen stilles den
+præparerede Plade lodret. I den Ramme, som optager
+den præparerede Plade, er anbragt tynde
+Spidser (Fig. 3), saaledes at <i>HH</i> angiver Horisonten,
+medens <i>VV</i> angiver en Vinkelret paa denne
+gennem Hovedpunktet, ɔ: det Punkt, i hvilket
+Linsens Hovedakse træffer den præparerede
+Plade.
+
+Fremgangsmaaden ved fotogrammetrisk
+Opmaaling forstaas af et ganske simpelt Eksempel.
+Fra Standpladserne <i>A</i> og <i>A</i><sub>1</sub> (Fig. 4), hvis
+Afstand er bekendt, fotograferes en tresidet
+Pyramide, <i>1<</i>, <i>2</i>, <i>3</i>, <i>4</i>, og Vinklerne <i>v</i> og <i>v</i><sub>1</sub> maales;
+herved opstaar to Billeder, <i>B</i> og <i>B</i><sub>1</sub> paa de
+præparerede Plader, som paa Fig. tænkes
+nedlagte i Papirets Plan. Konstruktionen foregaar
+nu saaledes (Fig. 5): Punkterne <i>A</i> og <i>A</i><sub>1</sub>
+afsættes paa Kortet i det forlangte Maalestoksforhold,
+Vinklerne <i>v</i> og <i>v</i><sub>1</sub> afsættes, og Linierne <i>AM</i>
+og <i>AM</i><sub>1</sub> trækkes, hvorefter <i>AM</i> og <i>AM</i><sub>1</sub> afsættes
+i sand Størrelse lig Billedvidden. Linierne
+<i>HH</i> og <i>H</i><sub>1</sub><i>H</i><sub>1</sub> tegnes gennem <i>M</i> og <i>M</i><sub>1</sub> vinkelrette
+paa henh. <i>AM</i> og <i>AM</i><sub>1</sub>,
+og Fotografierne
+fastklæbes saaledes paa
+Papiret, at
+Horisonterne falder ud ad <i>HH</i> og
+<i>H</i><sub>1</sub><i>H</i><sub>1</sub>. Paa begge Billeder
+fældes fra Pyramidens
+Hjørner Perpendikulærer paa <i>HH</i> og <i>H</i><sub>1</sub><i>H</i><sub>1</sub>, og
+fra Perpendikulærernes Fodpunkter <i>1</i>, <i>2</i>, <i>3</i>, <i>4</i>
+trækkes Straaler til vedk. Øjepunkt (<i>A</i> og <i>A</i><sup>1</sup>),
+Skæringspunktet mellem to tilsvarende Straaler
+angiver vedk. Punkts Sted paa Kortet.
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>

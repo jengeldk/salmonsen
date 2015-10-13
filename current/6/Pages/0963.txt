@@ -1,0 +1,92 @@
+Elektrodynamiske Instrumenter viser i
+Princippet ens ved Jævnstrøm og ved Vekselstrøm,
+naar denne sidste ikke er af et Periodetal, som
+er meget højere end det sædvanlige ved
+Lysanlæg anvendte, nemlig 50 pr Sek. Man
+kontrolerer derfor elektrodynamiske Instrumenter
+ved Sammenligning med
+Præcisionsjævnstrømsinstrumenter. Ved denne Sammenligning maa
+det dog erindres, at de elektrodynamiske
+Instrumenter paavirkes stærkt af ydre magnetiske
+Felter. Ogsaa ved deres Anvendelse til
+Vekselstrøm maa man agte paa at holde forskellige
+Instrumenter fjernet et passende Stk. fra
+hinanden og fra strømførende Ledninger.
+
+3) <sp>Blødtjernsinstrumenter</sp> bestaar
+i Hovedsagen af en Spole, som magnetisk
+paavirker et ganske lille Stykke Jern, som er
+fæstet til ell. virker paa en Akse, der bærer
+Viseren. Som Modkraft anvendes enten Viserens
+Vægt, ell. ogsaa er Viseren afbalanceret, og
+Modkraften hidrører fra en Spiralfjeder, som
+ved de foregaaende Instrumenter. Fig. 14 viser
+det bevægelige System af et
+Blødtjernsinstrument af Siemens & Halske's Fabrikat. Viseren
+hænger lige nedad. Den bøjede Arm bærer
+yderst et Stempel til Luftdæmpning. Selve
+Jernkernen er den sorte Skive til venstre for
+Aksen. Fig. 15 viser hele Instrumentet samlet.
+Man ser et bøjet Rør, hvori bevæger sig det
+paa forrige Fig. viste til Luftdæmpning tjenende
+Stempel, og den flade Spole, i hvilken
+Jernkernen trækkes ned. Det afbildede Instrument
+er et Voltmeter. En Del af Forlagsmodstanden
+ses paa en Træspole. Den øvrige Del ligger
+bagpaa. Kappen er taget af og Skalaen
+fjernet. - Samme Instrumenttype kan vikles som
+Ampèremeter med en til den ønskede
+Strømstyrke passende Tykkelse af Traad ell. Baand,
+medens det bevægelige System er det samme.
+
+En anden Konstruktion er anskueliggjort ved
+den skematiske Fig. 16. Det bevægelige Systems
+Akse ligger i Aksen af en rund Spole og bærer
+paa en lille Arm en cylindrisk bøjet tynd
+Jernplade. Inde i Spolen er der tillige en
+cylindrisk bøjet fast Jernplade. - Naar der
+sendes Strøm gennem Spolen, frastøder de to
+Plader hinanden, og Viseren gør et Udslag.
+- Ved at ændre Formen af Jernstykkerne
+kan man ændre Skalaens Form, der
+nærmest har kvadratisk Karakter. -
+Blødtjernsinstrumenter anvendes
+mest ved Vekselstrøm som
+Tavleinstrumenter, til hvilket Brug de egner sig
+fortrinligt, da de er billige og temmelig robuste.
+I den seneste Tid har Weston Co. imidlertid
+bragt et Blødtjernsinstrument paa Markedet, der
+anvendes som Præcisionsinstrument. - Et
+saadant ses paa Fig. 17. I den flade Æske bevæger
+sig en paa Aksen siddende Vinge til Dæmpning.
+Egetforbruget i Ampèremetrene varierer mellem
+0,6 Watt og 3 Watt. Drejningskraften ved fuldt
+Udslag c. 1/10 g X cm.
+
+Ved Jævnstrøm viser Blødtjernsinstrumenter
+noget forsk. ved Op- og Nedgang og ikke
+ganske som ved Vekselstrøm.
+
+4) <sp>Statiske Instrumenter</sp> benyttes i
+Teknikken væsentligst som Voltmetre. Til
+forholdsvis lave Spændinger er det mest kendte
+Kelvin's Multicellularvoltmeter, som er vist paa
+Fig. 18 i den Udførelse, som det har faaet hos
+Hartmann & Braun. Paa en lodret Akse er
+fæstet en Række tynde Aluminiumsblade, som
+tiltrækkes af faste Metalstykker med vandrette
+Skillerum, der deler Rummet i »Celler«, som
+de bevægelige Blade gaar ind i. Den ene
+Polaritet forbindes med det bevægelige System, den
+anden med det faste Cellesystem. Fig. 19 viser
+skematisk Instrumentets virksomme Dele set
+
+<img>
+Fig. 17. Westons Blødtjernsinstrument.
+</img>
+<img>
+Fig. 18. Statisk Multicellularvoltmeter.
+</img>
+<img>
+Fig. 19. Statisk Multicellularvoltmeter.
+</img>

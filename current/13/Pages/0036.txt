@@ -1,0 +1,124 @@
+bort fra Trækspændingerne i Betonen, er i
+Hovedtrækkene opstillet af de franske
+Ingeniører <sp>Coignet</sp> og <sp>Tedesco</sp> i 1894 og af
+Østerrigeren <sp>v. Emperger</sp> i 1897.
+
+I de oprindelige Monierplader bestod
+Armeringen af et Net af to hinanden krydsende Lag
+af Rundjernsstænger (se Fig.), Bærestængerne
+(de sværeste) i Konstruktionens Hovedretning,
+de spinklere Fordelingsstænger vinkelret
+herpaa og i større indbyrdes Afstande,
+sammenbundne med Bærestængerne i
+Krydsningspunkterne. Dette Net indlagdes i den Side af
+Betonpladen, der fortrinsvis paavirkedes til Træk,
+og der anvendtes kun ét saadant Net. I de nu
+udførte J.-Konstruktioner er Princippet ganske
+vist i Hovedsagen det samme, men med
+Anvendelsernes Mangfoldighed har man ogsaa
+maattet variere Detailanordningen paa mange
+Punkter. Hovedsagen er, at Armeringen overalt maa
+anbringes saaledes, at den kan optage de
+Trækspændinger, der ellers vilde fremkomme
+i Betonen, og at man maa sikre Jernets og
+Betonens Samvirken (hindre en Glidning af
+Armeringen). I Bjælker og Plader maa man
+derfor ofte bøje Armeringsjernene op fra den
+ene Side til den anden ell. indlægge en
+Armering i hver Side, og der maa foruden de skraa
+Opbøjninger tilføjes Bøjler (i Alm. lodret
+stillede, enten af Baandjern — efter Hennebique
+— ell. Rundjern) for at optage Forskydnings-
+ell. Hovedspændingerne og forøge Adhæsionen.
+Af sidstnævnte Aarsag har man ogsaa forsøgt
+at gaa bort fra den udelukkende Anvendelse
+af Rundjern og i Stedet benytte Jern af andre
+Former. Til Plader har man saaledes brugt et
+flettet Jernnet (<sp>Cottancin</sp>), hvad dog er
+mindre heldigt, ell. det af Amerikaneren
+<sp>Golding</sp> opfundne »Strækmetal« (<i>Expanded metal</i>),
+der ved en speciel Maskine udklippes af en
+Jernplade efter et lgn. Princip som det, der
+anvendes ved Klipning af de bekendte Papirnet
+til Juletræspynt. Endvidere har man i St. f.
+Rundjern til Bærestængerne anvendt andre
+Profiler, enten Normalprofiler som ⊥ ell. I
+ell. specielle usymmetriske Armerings-Profiljern
+som de tyske »Bulbeisen« (<sp>Pohlmann</sp> o. fl.);
+Fordelen herved skulde dels være bedre
+Adhæsion af Betonen til Jernet p. Gr. a. den større
+Overflade, men denne er i Alm. stor nok for
+det simplere Rundjern, dels undertiden en
+Besparelse paa Stillads for Forskallingen under
+Støbningen (f. Eks. <sp>Pohlmann</sp>-Lofter,
+<sp>Melan</sp>-Konstruktioner til Buebroer). Mere
+bestemt Sigte paa at forøge Adhæsionen har man
+navnlig i Nordamerika, taget ved at bruge
+Armeringsjern med ujævn Overflade, saaledes
+<sp>Ransome</sp>'s vredne Firkantjern (ved
+Vridningen i kold Tilstand hæves ogsaa Jernets
+Flydegrænse, saaledes at der kan tillades en
+højere Paavirkning), efterlignet i Tyskland af
+<sp>Thomas</sp> & <sp>Steinhof</sp> med
+Spiral-Fladjern, <sp>Thatcher</sp>'s Specialjern med
+bølgeformede Indknibninger og Udvidelser, <sp>Johnson</sp>'s
+Knudejern (dette og Efterligninger deraf er
+nu næsten det eneste, der spiller nogen
+Rolle), <sp>Kahn</sp>-Jern, hvor Bøjlerne er i ét
+med selve Længdejernet, <sp>Golding</sp>'s
+8-Talformede Jern, hvor Bøjlerne klemmer sig fast
+i de to Riller langs Siderne, o. m. fl. Paa det
+europæiske Kontinent, hvor der endnu saa godt
+som udelukkende bruges alm. Rundjern, søger
+man at naa det samme Maal ved at anvende
+særlig Omhu paa Jernets Forankring i Betonen
+ved Enderne. I St f. Opspaltning af
+Jernenderne, der næsten ganske er gaaet af Brug,
+anvender man nu retvinklede ell. spidse
+Ombøjninger (Kroge) af Jernenderne ell. mere og
+mere, og navnlig ved alle svære
+Jerndimensioner, jævnt rundede Ombøjninger, hvor Jernet
+er bøjet efter en Halvcirkel og endda
+fortsættes med et retlinet Stykke ud over Bøjningen
+(Considère'ske Kroge).
+
+Foruden til Optagelse af Træk- og
+Forskydningsspændingerne kan en Armering ogsaa
+anvendes til at forstærke Betonen over for
+Trykpaavirkninger. Den simpleste Tryk-Armering
+bestaar af Længdejern, der holdes paa Plads og
+hindres i at bøje sig ud til Siden ved Bøjler;
+f. Eks. i en firkantet Søjle anbringes mindst
+ét saadant Længdejern i hvert Hjørne, og de
+4 Jern forbindes i ikke for store Afstande ved
+Søjlebaand rundt langs Periferien; paa
+lignende Maade forankres Jernene i en Bjælkes
+Trykside ved Bøjler ind i Betonen. — En yderligere
+Forstærkning over for Tryk kan opnaas ved
+den af <sp>Considère</sp> (1902) angivne
+»Bevikling«, hvorefter forholdsvis spinkelt Rundjern
+vikles op efter en Skruelinie med nogenlunde
+tæt liggende Vindinger (Skruegangshøjden højst
+1/5 af Diameteren) og indstøbes i Betonen.
+Beviklede Søjler gøres gerne runde ell. 8-kantede,
+og Beviklingen faar lidt mindre Diameter end
+Søjlen, saaledes at den kun dækkes af et Par
+cm Beton; den inden for Beviklingen liggende
+Betonkerne hindres herved i at udvide sig paa
+tværs under Trykket, og dens Bæreevne
+forøges derfor betydeligt. I St f. en skrueformet
+Bevikling kan man ogsaa bruge en Række
+enkelte lukkede Ringe, og der er i det hele
+angivet forsk. Modifikationer, som dog i Alm.
+staar tilbage for den opr. Considère*ske
+Konstruktion. Beviklingen anvendes altid i
+Forbindelse med en alm. Længdearmering, og den
+kan ogsaa indlægges i Tryksiden af Bjælker
+og i a. l. Tilfælde, ikke blot i Søjler. —
+Endelig har <sp>v. Emperger</sp> 1912 angivet en
+Trykarmering, hvorved man kan nøjes med endnu
+spinklere Dimensioner. I Betonkernen inden
+for Beviklingen indlægges en Længdearmering
+af <sp>Støbejern</sp> (i St f. det ellers sædvanlige
+
+<img>Jernbeton.</img>

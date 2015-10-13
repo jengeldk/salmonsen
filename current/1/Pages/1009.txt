@@ -1,0 +1,26 @@
+<chapter name="Rettelser og Trykfejl">
+<h1>RETTELSER OG TRYKFEJL.</h1>
+
+<table>
+<td c>Side<td>202,<td>Spalte<td>1,<td>Linie<td r>18 f. o.<td>Skarphed<td>læs:<td> Skraahed
+<td c>—<td c>—<td c>—<td>1,<td c>—<td r>32 f. n.<td>ogsaa<td c>—<td>altsaa
+<td c>—<td c>—<td c>—<td>2,<td c>—<td r>31 f. o.<td>angiver<td c>—<td>angaar
+<td c>—<td c>—<td c>—<td>2,<td c>—<td r>35 f. o.<td>Trapyes<td c>—<td>Trappes
+<td c>—<td>215,<td c>—<td>2,<td c>—<td r>14 f. o.<td>.<td c>—<td>,
+<td c>—<td c>—<td c>—<td>2,<td c>—<td r>14 f. o.<td>Tilslaget<td c>—<td>udgaar
+<td c>—<td>276,<td c>—<td>1,<td c>—<td r>23 f. o.<td>Konses<td c>—<td>Konsens
+<td c>—<td>285,<td c>—<td>1,<td c>—<td r>23 f. n.<td>Boruvini<td c>—<td>Bravais
+<td c>—<td c>—<td c>—<td>1,<td c>—<td r>22 f. n.<td>Roggenbach<td c>—<td>Riggenbach
+<td c>—<td>387,<td c>—<td>2,<td c>—<td r>31 f. n.<td>Tiesserenc<td c>—<td>Teisserenc
+<td c>—<td>417,<td c>—<td>2,<td c>—<td r>34 f. o.<td>Avtiodese<td c>—<td>Artrodese
+<td c>—<td c>—<td c>—<td>2,<td c>—<td r>35 f. o.<td>Stimulation<td c>—<td>Stimulantia
+<td c>—<td>564,<td c>—<td>2,<td c>—<td r>20 f. o.<td>naturligvis<td c>—<td>da som Regel
+<td c>—<td c>—<td c>—<td>2,<td c>—<td r>21 f. o.<td>da som Regel<td c>—<td>naturligvis
+<td c>—<td>722,<td c>—<td>1,<td c>—<td r>28 f. o.<td>Udannelse<td c>—<td>Uddannelse.
+<td c>—<td>731,<td c>—<td>2,<td c>—<td r>8 f. o.<td>Aand<td c>—<td>And
+<td c>—<td>778,<td c>—<td>1,<td c>—<td r>27 f. o.<td>Processer<td c>—<td>Principper
+<td c>—<td>856,<td c>—<td>1,<td c>—<td r>2 f. n.<td>Nordsøen<td c>—<td>Nordøen 
+</table>
+
+<sp>Skt Petersborg</sp>, Ruslands Hovedstad, blev Septbr 1914 omdøbt til <sp>Petrograd</sp>.
+</chapter>

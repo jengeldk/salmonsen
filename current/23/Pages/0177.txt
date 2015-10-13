@@ -1,0 +1,129 @@
+Forbedringer. I den nu almindeligst benyttede Form
+(angivet af Hunning 1878) dannes
+Berøringskontrakterne mellem en Kulmembran og en
+Del Kulkorn indesluttet i en Beholder, gennem
+hvis Bundplade Strømtilførslen til Membranen
+finder Sted (<sp>Kulkornsmikrofon</sp>, Fig.
+4). Til sædvanlig Brug sammenbygges
+Mikrofonen ofte med en Daasetelefon paa et fælles
+Haandtag, den saakaldte <sp>Mikrotelefon</sp>,
+der i Fig. 5 er vist gennemskaaret. Til den
+praktiske
+Opstilling hører
+endvidere forskellige
+Anordninger for
+Strømtilførsel og
+Signalering (se
+<sp>Telefonapparater</sp>)
+Ved T.'s
+Fremkomst benyttedes i
+Reglen
+<sp>Enkeltledninger</sp>,
+idet
+Returledningen ganske som
+ved telegrafiske
+Kredsløb
+erstattedes med
+Jordledning (se
+<sp>Telegraf</sp>). Da
+Telefonkredsløb er
+meget følsomme over
+for Forstyrrelser
+udefra, anvendes i
+den nyere Tid hovedsagelig
+<sp>Dobbeltledninger</sp>, der bedre kan indrettes
+saaledes, at forstyrrende Indvirkninger fra
+nærliggende Kredsløb og lignende
+udelukkes (se <sp>Telefonledninger</sp>). For bedre
+at udnytte længere, mellembys
+Telefonledninger har man paa forsk. Maade forsøgt at
+indrette flere <sp>samtidige</sp> Kredsløb paa
+Ledningen. Ved <sp>Duplekstelefonering</sp>
+benyttes saaledes to Telefondobbeltledninger til
+Dannelse af en tredie Telefondobbeltledning som
+skematisk antydet paa Fig. 6.
+Dobbeltledningerne <i>L1</i> og <i>L2</i> er ved Enderne forbundet med
+saakaldte <sp>Duplekstransformatorer</sp> <i>D1</i>
+og <i>D2</i>, hvis anden Bevikling er ført til
+Telefonapparaterne <i>T1</i> og <i>T2</i>. Transformatorerne
+tillader Taleoverføring uden nævneværdig Tab,
+idet Strømmene let induceres fra den ene
+Transformatorhalvdel til den anden. Gennem
+Midtpunktet af de to Transformatorers yderste
+Beviklinger kan nu dannes et tredie (af de
+andre uafhængigt) Kredsløb til
+Telefonapparaterne <i>T1</i>, idet de heri gaaende Strømme vil
+fordele sig ligeligt over begge Ledningstraade i
+hver Dobbeltledning og saaledes ikke
+frembringer nogen Induktionsvirkning i de
+Transformatorhalvdele, der er forbundet med Apparaterne
+<i>T1</i> og <i>T2</i>. Ved at fortsætte paa lgn. Maade,
+saaledes at to Duplekskredsløb kombineres til en
+ny Dobbeltledning, kan 4 Dobbeltledninger
+benyttes til ialt 7 samtidige Kredsløb. Teoretisk
+kan paa 2 <i>n</i> Dobbeltledninger indrettes 4 <i>n</i> ÷ 1
+indbyrdes uafhængige Kredsløb. Kombinationer
+over alm. Dupleks stiller dog store Krav til
+Ledningernes ensartede Isolation, Modstand m.
+v. og benyttes derfor sjældent. — Ved
+<sp>Multiplekstelefoni</sp> benyttes <sp>een</sp>
+Dobbeltledning til flere samtidige Kredsløb, idet man
+anvender Vekselstrømme af høj Frekvens
+(Vekseltal) som »Bærestrømme« for de egl.,
+lavfrekvente Telefonstrømme. Gennem Mikrofonen
+og en særlig Opstilling af Svingningskredse
+(Transformatorer og Kondensatorer) paavirkes
+(»moduleres«) Vekselstrømmen fra en
+Højfrekvensgenerator saaledes, at der i Takt med
+Mikrofonmembranens Svingninger sker en
+Variation af Styrken (Amplituden) af de paa
+Ledningen udsendte Strømme med konstant (høj)
+Frekvens. I Modtagerapparatet findes en
+saakaldt Detektor, der kun tillader Passage af
+Strømme i en bestemt Retning. De ved
+Detektorvirkningen frembragte hurtige
+Strømimpulser af forsk. Styrke og ens Retning tilføres nu
+Modtagertelefonen og fremkalder i denne en
+lgn. Virkning som længere varende
+Strømimpulser med Frekvens svarende til
+Amplitudevariationen. Da denne sker i Takt med
+Modulationen i Afsendermikrofonen, gengives Talen som
+ved et sædvanligt Telefonkredsløb. Ved
+Anvendelse af »Bærestrømme« med forsk. Frekvens
+kan paa samme Ledning etableres et større
+Antal (6 ell. flere) samtidige Kredsløb, idet
+Ledningen ved Enderne forgrenes til saakaldte
+elektriske »Filtre« (Systemer af
+Selvinduktionsspoler og Kondensatorer), der kun tillader
+Passage af Vekselstrømme inden for et ganske
+bestemt Frekvensomraade, hvorved de forsk.
+til Kredsløbene hørende Bærestrømme
+adskilles. De ved Multiplekstelefoni benyttede
+Generatorer, Detektorer m. v. er af lgn. Art, som
+anvendes ved den traadløse Telefonering (s. d.),
+hvor Energiforbruget dog er mange Gange
+større end ved den liniebundne
+Højfrekvenstelefoni (Samtidig Telefonering og Telegrafering
+paa samme Ledning: se
+<sp>Multiplekstelegrafi</sp>).
+
+Med sædvanlige Telefonapparater og
+overjordiske Ledninger er Taleoverføring mulig
+paa 1000—2000 km's Afstand, svarende til
+Ledningens Godhed. Ønsket om en Forøgelse af
+Telefoneringsafstanden har ført til Fremstilling
+af kraftigere virkende Mikrofontyper, hvoraf
+skal nævnes den af Svenskerne Egnér og
+Holmström konstruerede
+<sp>Stærkstrømsmikrofon</sp> (1910), der er forsynet med en stor
+Membran og fl. i et lufttæt Rum indesluttede
+parallelt forbundne Kulkornsbeholdere. Strømmen
+gennem Mikrofonen er desuden forøget til 1 à
+2 Ampère (i alm. Mikrofoner er Strømmen i
+Reglen under 0,1 Amp.), hvorfor særlige
+Foranstaltninger til Bortledning af den ved
+Strømpassagen udviklede Varme er truffet (f. Eks.
+
+<img>Fig. 5. Mikrotelefon.</img>
+
+<img>Fig. 6. Skema for Duplekstelefonering.</img>

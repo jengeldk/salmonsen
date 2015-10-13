@@ -1,0 +1,133 @@
+Gren er lukket, medens den lange er aaben.
+I den korte og lidt af den lange Gren er der
+hældt Kviksølv, men over Kviksølvet i den
+korte Gren er der lidt af den Vædske, der skal
+undersøges. Ved Opvarmning f. Eks. i Olie
+bringes Vædsken til at udvikle D., Kviksølvet i
+den lange Gren stiger, og Damptrykket maales,
+naar Kviksølvet er kommet i Ro, ved
+Forskellen mellem Kviksølvhøjderne i de to Grene
+plus Barometerstanden, der angiver den ydre
+Lufts Tryk. Har man over Kviksølvet i et
+Barometerrør (Fig. 1) lidt Vædske, medens
+Resten af Rummet er mættet med dens D., vil
+man ved at hæve ell. sænke Røret (Fig. 2) se,
+at Kviksølvet bliver staaende i samme Højde;
+Damptrykket retter sig altsaa ikke efter det
+Rum, man byder D., men kun efter Temp.
+Formindsker man Rummet, vil en Del af D.
+fortættes, og forøger man det, vil der fordampe
+mere Vædske, saa Trykket ikke forandres. At
+derimod umættet D. følger <sp>Boyle</sp>'s Lov som
+andre Luftarter, vises ved det samme Apparat;
+sænkes Røret, vil ogsaa Kviksølvoverfladen deri
+synke, men samtidig bliver D.'s Rumfang
+mindre, og Produktet af D.'s Rumfang og Tryk vil
+vise sig at være uforandret. Da mættet D.'s
+Tryk alene afhænger af Temp. og tillige er D.'s
+Maksimumstryk, har det særlig Interesse. For
+Vanddamp er det med stor Nøjagtighed maalt
+af <sp>Regnault</sp> 1847 op til 230°, og 1891 har
+<sp>Cailletet</sp> og <sp>Colardeau</sp> ved Hjælp af
+det 300 m høje Kviksølvmanometer paa
+Eiffeltaarnet i Paris fortsat Maalingerne lige op til
+Vandets kritiske Temp. (365°).
+
+I nedenstaaende Tabel over mættet
+Vanddamps Tryk betegner <i>t</i> Temp. i Celsiusgrader,
+<i>p</i> Trykket i mm Kviksølv. Tallene for Temp.
+mellem 0° og 200° skyldes nyere tyske
+Maalinger paa »Reichsanstalt«.
+
+<table>
+<td c><b>t</b><td c><b>p</b>
+<td><td c>mm
+<td r>0°<td r>4,58
+<td r>10°<td r>9,20
+<td r>20°<td r>17,31
+<td r>30°<td r>31,71
+<td r>40°<td r>55,13
+<td r>50°<td r>92,30
+<td r>60°<td r>149.19
+<td r>70°<td r>233,53
+<td r>80°<td r>255,1
+<td r>90°<td r>525,8
+<td r>100°<td r>760,0
+<td r>110°<td r>1074,5
+<td r>120°<td r>1488,9
+<td r>130°<td r>2025,6
+<td r>140°<td r>2709,5
+<td r>150°<td r>3568,7
+<td r>160°<td r>4633
+<td r>170°<td r>5937
+<td r>180°<td r>7514
+<td r>190°<td r>9404
+<td r>200°<td r>11647
+</table>
+
+De angivne Tryk omregnes til »Atmosfærers
+Tryk« ved Division med 760 og til Trykmaalet i
+kg pr cm<sup>2</sup> ved Division med 735. - Ved højere
+Temp. stiger Damptrykket stærkt. Det naar 39,2
+Atmosfærer ved 250°, 86,2 Atm. ved 300°, 167,5
+Atm. ved 350° og 200,5 Atm. ved 365°.
+
+Forsk. Vædsker har ved samme Temp. meget
+forsk. Damptryk. Medens mættet Vanddamps
+Tryk ved 20° er 17,4 mm Kviksølvtryk, er
+Trykket for Alkohol 44,5 mm, for Æter 433 mm
+og for Kulsyre 59 Atm.'s Tryk.
+
+Til at omdanne en Vædske til D. bruges der
+en stor Mængde Varme. Sætter man Vand i en
+aaben Kedel over Ilden, vil Vandets Varmegrad
+stige, til det begynder at koge; men derefter
+vil Varmegraden holde sig uforandret ved
+omtrent 100°, fordi al den Varme, der føres fra
+Ilden til Vandet, forbruges til Dampdannelsen.
+Brænder Ilden ens hele Tiden, vil det vare
+omtrent 5 1/2 Gang saa længe for at faa alt Vandet
+fordampet som for at faa det opvarmet fra 0°
+til 100°. At der forbruges Varme ved
+Fordampningen, blev først paavist af Black (1757), der
+ogsaa bestemte den forbrugte Varmemængde
+temmelig rigtig. Den Mængde Varme, der maa
+tilføres 1 kg af et Stof for at forvandle det til
+mættet D., uden at Temp. forandres, kaldes
+Stoffets <sp>Fordampningsvarme</sp>. Regnault
+maalte denne for Vand ved at undersøge, hvor
+megen Varme en vis Vægt af Damp afgav ved
+sin Fortætning og paafølgende Afkøling til
+Omgivelsernes Temp. I nyere Tid er der udført
+mere direkte Bestemmelser ved at tilføre
+Vandet en nøje beregnet Varmemængde ad
+elektrisk Vej og maale, hvor meget Vand der
+herved forvandles til mættet Damp ved et givet
+Tryk (hvorved atter Temp. er bestemt). Efter
+Regnault udfordres der 606,5 + 0,305 <i>t</i> Kalorier
+til at opvarme 1 kg Vand fra 0° til <i>t</i>° og
+derpaa forvandle det til mættet Damp ved denne
+Temp. Ser man bort fra, at Vandets
+Varmefylde varierer lidt med Temp., følger heraf, at
+selve Fordampningsvarmen er 606,5 ÷ 0,695 <i>t</i>
+Kalorier, idet en Kalorie er den Varmemængde,
+der udfordres til at opvarme 1 kg Vand 1°.
+Ved 100° skulde da Vandets
+Fordampningsvarme være 537. Efter Maalinger paa
+»Reichsanstalt« er den 538,7, naar man regner med
+Kalorien som den Varmemængde, der skal til
+for at opvarme 1 kg Vand fra 14 1/2° til 15 1/2°.
+Af denne store Varmemængde bruges en Del
+(40 Kalorier ved 100°) til at udføre »ydre«
+Arbejde, idet D., der indtager langt større Rum
+end det Vand, hvoraf den er dannet, maa
+skyde Luften til Side for at faa Plads. Resten
+medgaar til »indre« Arbejde, d. v. s. til selve
+den Omdannelse, der maa ske med Vandets
+mindste Dele, for at det kan gaa over fra
+
+<img>Fig. 1.</img>
+<img>Fig. 2.</img>
+<img>Fig. 3.</img>
+<img>Fig. 4.</img>
+

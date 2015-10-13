@@ -1,0 +1,120 @@
+magnetiske Krafts Retningsforandringer i
+Rummet ved at tegne en Kurve, en saakaldt
+Kraftlinie, der overalt har Kraftens Retning. Gør man
+det, følger af den lige anførte Regel og af 3°,
+at de magnetiske Kraftlinier hidrørende fra
+Strømmen i en Leder danner lukkede Kurver,
+som omslutter Lederen. Hvis Strømlederen er
+lukket, danner Lederen og en Kraftlinie
+to Kredse, der er forbundne som
+to Led i en Kæde. I Fig. 2 forestiller
+<i>A</i> en Leder, der fører Strøm i den
+ved Pilen antydede Retning, og <i>K</i>
+forestiller en af de magnetiske
+Kraftlinier frembragt ved
+denne Strøm. Vi vil betragte <i>K</i> som en
+Vej, ad hvilken en absolut Enhed af
+Nordmagnetisme bliver ført rundt i den magnet.
+Krafts Retning d. v. s. i Pilens Retning. I
+Punktet <i>a</i> af Banen er den magnetiske Kraft
+<i>H1</i>. Her virker der altsaa paa den nævnte
+Enhed en mekanisk Kraft <i>H1</i> dyn. Lad <i>dl1</i>
+betegne et lille Stykke af Banen regnet fra <i>a</i>.
+Det skal være saa lille, at det kan betragtes
+som retliniet. Arbejdet, som Kraften <i>H1</i>
+udfører paa Vejlængden <i>dl1</i>, er da <i>H1</i>. <i>dl1</i>, og det
+hele Arbejde, der udføres, naar Enheden af
+Magnetisme føres hele Vejen rundt, bliver en
+Sum af saadanne Arbejder udført langs
+Smaastykkerne <i>dl1</i> <i>dl2</i> o. s. v. af Banen. Summen
+skrives i det mat. Tegnsprog som ∫ <i>H dl</i>
+(Integralet af <i>H dl</i>). Om dette hele Arbejde
+<i>W</i> ved Omkredsning af en elektrisk Strøm i
+gælder nu, at det altid, ganske uafhængig af
+Lederens Form, er bestemt ved
+4° <i>W</i> = 1/10 4π<i>i</i>,
+naar Strømmen maales i Ampère. I
+Virkeligheden er Banens Form ogsaa ligegyldig; den
+behøver altsaa ikke at være en Kraftlinie. Den
+eneste Betingelse er, at den er kædet sammen
+med Strømkredsen. Ligger Banen helt udenfor
+Strømkredsen, er Arbejdet, som udføres af de
+paa den magnetiske Enhed virkende Kræfter
+Nul, dersom Enheden føres helt rundt i Banen.
+
+<sp>Den magnetiske
+Induktionsliniestrøm</sp>. Man forestiller sig nu, at de
+magnetiske Kræfter omkr. Magneter og elektriske
+Strømme frembringer en Art Strømning i
+Rummet, d. v. s. noget, der kan lignes ved en
+Vandstrøm. <sp>Den magnetiske Strøm</sp> flyder
+altid i Retning af den magnetiske Kraft. Man
+kan give et Billede af den ved Hjælp af Linier
+ell. Kurver, de saakaldte magnetiske
+<sp>Induktionslinjer</sp>. Svarende hertil bruger man
+ikke sjældent Navnet
+<sp>Induktionsliniestrøm</sp> for den magnetiske Strøm. Linierne
+angiver ved deres Retning Strømmens
+Retning. Man lægger dem desto tættere, jo
+stærkere Strømmen er. Det viser sig, at
+man maa forestille sig Tætheden af Linierne,
+altsaa Strømmens Styrke, i det tomme Rum
+nøjagtig proportional med Kraften. Som Maal
+for Linietætheden og derved for
+Induktionsliniestrømmens Styrke kan man tage Antallet
+<i>B</i> af Linier gennem 1 cm<sup>2</sup> vinkelret paa
+Strømmens Retning. Man betegner <i>B</i> som <sp>den
+magnetiske Induktion</sp>. For det tomme Rum
+gælder altsaa
+5° <i>B</i> = <i>c1 H</i>,
+naar <i>c1</i> er en Konstant. Man vedtager at vælge
+Enheden for <i>B</i> saaledes, at <i>c1</i> = <i>1</i>, altsaa
+saaledes, at Styrken af den magnetiske
+Induktionsliniestrøm i det tomme Rum maales ved
+samme Tal som den magnetiske Kraft. For det
+tomme Rum gælder altsaa
+5°' <i>B</i> = <i>H</i>.
+Samme Udtryk gælder med stor Tilnærmelse
+ogsaa, naar Rummet er udfyldt med Stof,
+forudsat at Stoffet ikke er et af de saakaldte
+magnetiserbare Stoffer, hvortil først og
+fremmest Jern hører. I Jern bliver
+Induktionsliniestrømmen i Alm. mange Gange stærkere end i
+Luft, saaledes at man kan sætte
+6° <i>B</i> = μ<i>H</i>,
+hvor μ f. Eks. kan naa Værdier paa fl.
+Hundrede. Man betegner μ som Jernets
+<sp>Permeabilitet</sp>. Det maa bemærkes, at μ ikke alene
+afhænger af Jernsorten, men tillige af den
+magnetiske Krafts Størrelse. Herpaa behøver
+vi dog ikke paa dette St. at komme nærmere
+ind.
+
+Det følger af det nu anførte, at hvis man
+kan beregne de magnetiske Kræfter i et Rum,
+og hvis man for de magnetiserbare Stoffer, der
+evt. fylder Dele af Rummet ud, kender
+Permeabiliteten, kan man beregne
+Induktionsliniestrømmens Styrke i Rummets forsk. Dele og
+tegne Liniebilleder af Strømmen. Saadanne
+Billeder spiller en betydelig Rolle ved
+Konstruktion af elektriske Maskiner. Man kan
+skaffe sig Billeder af Induktionsliniestrømmen
+i et Rum ved at fremstille en Model af dette
+og gennem Modellen presse en Vædske, ind i
+hvilken der sprøjtes Farvestof i fine Traade.
+Farvetraadene vil da ved deres Form og
+Tæthed gengive Induktionsliniestrømmen i det
+virkelige Rum. Fig. 3 viser et saadant Billede af
+Strømmen gennem og omkr. de Nedskæringer
+i et Dynamoanker, hvori Traadene nedlægges.
+Af Induktionsstrømmen i det tomme ell. i et
+luftfyldt Rum skaffer man sig meget let
+Billeder ved Hjælp af Jernfilspaaner paa en
+Glasplade ell. et Stykke Papir. Fig. 4 viser et
+Billede af Strømmen omkr. Polerne af en
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+

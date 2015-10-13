@@ -1,0 +1,149 @@
+<sp>Petroleumsmotor</sp> ell. Elektricitet, benævnes E.
+efter Drivkraften; <sp>Haandelevatorer</sp>,
+<sp>mekaniske</sp> ell. <sp>elektriske E</sp>. Platformen er
+i Reglen kontrabalanceret ved een ell. to
+Kontravægte, der bevæger sig op og ned ved
+Siderne. Den her beskrevne Type, hvor Platformen er
+ophængt og bevæges ved Tov ell. Kæde, er den
+almindeligst anvendte ved ovenn. Drivkraft.
+Elektriske E. findes dog ogsaa udført saaledes,
+at Drivmekanismen er anbragt direkte under
+selve Platformen og forsynet med 4 Tandhjul,
+der griber ind i lodretstaaende Tandstænger og
+derved bevæger Platformen op ell. ned, naar
+Maskineriet sættes i Gang.
+
+Naar hydraulisk Kraft anvendes som
+Drivkraft (E. kaldes da <sp>hydraulisk E</sp>.), faar E.
+en noget anden Konstruktion. Af hydrauliske E.
+haves 2 Slags, de <sp>indirekte</sp> og de
+<sp>direkte</sp>. Ved de <sp>indirekte</sp> hydrauliske E.
+er Platformen ophængt, ligesom ved den ovf.
+beskrevne Type, men Ophejsningskæden eller
+-tovet, hvori Platformen hænger, er i Reglen
+ikke ført om en Tromle, men bevæges ved at
+være ført over 2 Systemer af Trisser, et fast
+System, anbragt paa den hydrauliske Cylinders
+Bund, og et løst System, anbragt paa
+Stempelstangen; ved Stemplets Bevægelse løftes og
+sænkes da Platformen.
+
+Der findes dog ogsaa hydrauliske E., hvor
+Stemplets Bevægelse gennem Tandstang og
+Tandhjul overføres til en Aksel, hvorpaa er
+fastgjort en Tromle, til hvilken Tovene da
+føres som ovf. omtalt.
+
+Ved de <sp>direkte hydrauliske E.</sp> hviler
+Platformen direkte paa Enden af den
+hydrauliske Cylinders Stempelstang og bevæges op og
+ned med denne. Den hydrauliske Cylinder staar
+da selvfølgelig lodret under Midten af
+Platformen.
+
+For at forebygge Ulykker ved Brugen af E.
+forsynes disse næsten altid med en Del
+Sikkerhedsforanstaltninger, og de fleste Landes
+Lovgivning indeholder bestemte Forskrifter i saa
+Henseende, mere eller mindre omfattende, alt
+efter som det gælder Transport af Personer ell.
+Varer.
+
+Sikkerhedsforanstaltningerne kan henføres til
+6 Slags: 1) Apparater til at hindre Ulykker ved
+Brud paa Bæremidlet, de saakaldte
+»Gribeindretninger«, 2) Apparater til automatisk
+Standsning af Platformen i øverste og nederste Punkt
+af Banen, 3) Apparater til at standse Tromlen
+automatisk og derved forebygge, at Bæretovet
+slappes, hvis Platformen møder en uventet
+Hindring under Farten nedad, 4) Apparater til at
+forhindre, at den normerede Hastighed
+overskrides, 5) Apparater til at sikre sig imod
+Skaktdørenes Aabning i Utide og imod
+Igangsætning af Elevatoren, medens Dørene er aabne,
+6) Apparater til at fastholde Platformen, medens
+denne lastes ell. aflastes, de saakaldte
+»Stoppere« (disse sidste anvendes dog næsten ikke
+mere, da de vanskelig kan kombineres med de
+foran omtalte Sikkerhedsforanstaltninger, som
+desuden til en vis Grad har overflødiggjort
+dem).
+
+Den <sp>første</sp> Slags
+Sikkerhedsforanstaltninger, der gaar ud paa at forhindre Platformen i
+at styrte ned, selv om Ophejsningskæden eller
+-tovet maatte springe, bestaar i Reglen enten af
+Kiler, der klemmer mod Styreskinnerne, ell. af
+Kløer, der griber ind i disse. Saa længe
+Platformen hænger i sine Kæder ell. Tove, holdes
+Kilerne ell. Kløerne tilbage, men brister
+Ophejsningstovet ell. -kæden, bringes Kilerne eller
+Kløerne i Virksomhed ved Hjælp af stærke
+Fjedre ell. paa anden Maade, og Platformen
+fastholdes saaledes herved i sin Stilling. Denne
+Slags Sikkerhedsforanstaltninger kræves
+nutildags ved saa godt som alle E. med Undtagelse
+af de direkte virkende hydrauliske E. og de
+foran omtalte elektriske E. med
+Drivmaskineriet anbragt under selve Platformen, ved
+hvilke de er overflødige.
+
+Den <sp>anden</sp> Slags Sikkerhedsforanstaltninger
+bestaar i Alm. deri, at Platformen selv
+paavirker Styreorganet og derved bringer
+Drivmekanismen til Standsning i rette Tid. Ofte dubleres
+Sikkerheden dog ved, at selve Drivmekanismen
+forsynes med en af Styreorganet uafhængig
+Udrykkermekanisme, som først kommer i
+Virksomhed, hvis den førstnævnte Anordning af en
+ell. anden Grund svigter.
+
+Den <sp>tredie</sp> Slags bestaar af en Mekanisme,
+som i paakommende Tilfælde bringes til at
+indvirke paa det under 2) nævnte Styreorgan og
+derved standser Maskineriet, inden Bæretovet
+bliver saa meget slappet, at der kan opstaa
+farlige Paavirkninger af det, hvis Platformen
+pludselig bliver fri af den fremkomne Hindring.
+
+Den <sp>fjerde</sp> Slags bestaar i Alm. af en
+Centrifugalregulator, der paa passende Maade
+sættes i Forbindelse med Platformens
+Gribeindretning ell. med Drivmekanismen og derved
+bringer E. til at standse, hvis dens Hastighed
+overskrider en nærmere bestemt Grænse.
+
+Den <sp>femte</sp> Slags,
+Sikkerhedsforanstaltningerne ved Skaktdørene, bestaar af forsk.
+Indretninger, hvorved man dels opnaar, at kun den
+Dør, som Platformen staar lige ud for, kan
+aabnes, og dels, at E. ikke kan sættes i Gang,
+forinden samtlige Døre er lukkede. Der haves
+mange forsk. Konstruktioner heraf, men en
+nærmere Beskrivelse af disse vilde dog føre for
+vidt her (se i øvrigt ndf. under »Trykknap-E.«).
+
+E. forsynes endvidere ofte med et
+<sp>Viserapparat</sp>, der i alle Etager angiver, hvor
+Platformen befinder sig. Disse Apparater kan
+enten være rent mek. ell. elektriske;
+undertiden udføres de som Vædskesøjler, der ved
+Vædskens op- og nedadgaaende Bevægelse i
+tynde Glasrør angiver Platformens Stilling.
+Samtlige Udførselsformer gengiver Platformens
+Vandring i stærkt formindsket Maalestok.
+
+Hosstaaende Fig. 1 viser en elektrisk
+Personelevator.
+
+<sp>Trykknap-E</sp>. P. Gr. a. Elektricitetens
+store Udvikling har de elektriske Personelevalorer
+i de senere Aar faaet en stor Udbredelse, og
+særlig elektriske <sp>E. uden Fører</sp>, de
+saakaldte <sp>automatiske E.</sp> ell. E. med
+<sp>Selvbetjening</sp>. Disse E. benævnes ogsaa
+<sp>Trykknap-E.</sp>, idet Betjeningen foregaar ved Hjælp
+af Trykknapper paa den Maade, at man, naar
+man vil køre med E., hidkalder E.-Stolen til
+den paagældende Etage ved et kortvarigt Tryk

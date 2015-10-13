@@ -1,0 +1,102 @@
+det rette Bogstav kan blive aftrykt, maa de
+to Apparater rotere synkront, d. v. s. saavel
+Omdrejningshastighed som Stilling af
+Kontaktarm og Typehjul i Forhold til hinanden
+maa stadig være i nøje Overensstemmelse. Ved
+de ældre med Lodder drevne Apparater blev
+Synkronismen opretholdt ved Hjælp af den
+paa Fig. viste Staaltunge <i>x</i>, der holdtes i
+Pendelsvingninger ved Indgribning af en Spærhage
+i Tandhjulet <i>n</i>. Gennem forskydelige
+Vægtlodder paa Staaltungen reguleredes dennes
+Svingningstid og derved Apparaternes Synkronisme.
+Senere erstattedes Staaltungen med en
+Centrifugalregulator (af lignende Art som kendt fra
+Dampmaskiner) til Frembringelse af en
+Bremsevirkning ell. ved de nyere Apparater (med
+Elektromotor) til elektrisk Regulering af
+Omdrejningshastigheden. Hughes' Apparat, der
+baade var driftssikkert og ret hurtigt virkende
+(c. 30 Ord i Min.), fik en betydelig Udbredelse
+og anvendes endnu i flere europ. Lande (dog ikke
+Skandinavien). — Tryk-T. har p. Gr. a. deres
+lette Betjeningsmaade faaet en særlig
+Anvendelse til indenbys Korrespondance mellem
+Telegrafstationen og forsk. private Abonnenter.
+Da der til dette Brug ikke kræves større
+Sendehastighed og desuden ønskes den simplest
+mulige Mekanik, har de tidligere Metoder med
+trinvis Bevægelse af Typehjulet faaet Bet. her.
+Fig. 7 viser et af Siemens & Halske (1903)
+udført Apparat, der bl. a. benyttes af
+Telegrafabonnenter i Kjøbenhavn. Systemet kan
+benyttes i Forbindelse med en Central,
+hvorfra eet Afsendeapparat samtidig kan udsende
+Telegrammer, f. Eks. Børs- eller
+Pressemeddelelser til flere Abonnenter. Sendehastigheden
+er c. 20—25 Ord i Min. — Kravet om Tryk-T.,
+hvis Ydeevne er større end Hughes-Apparatets
+(uden dog at naa de senere automatiske
+Systemers), har i den nyere Tid fremkaldt fl.
+forsk. Former, hvoraf en enkelt, <sp>Morkrum
+Teletype</sp>, af amer. Konstruktion er vist i
+Fig. 8. Princippet er her noget anderledes end
+ved Hughesapparatet, idet Tegnene udsendes
+som forsk. Kombinationer af 5 efter hinanden
+følgende strømførende ell. strømløse Intervaller
+(ell. Strømenheder af vekslende Retning, der
+gennem en Elektromagnet i Modtagerapparatet
+efterhaanden indstiller 5 mekaniske
+Vælgerorganer, Selektorer, og bevirker, at et
+stillestaaende Typehjul indkobles til en enkelt
+Omdrejning, under hvilken Bogstavet aftrykkes i rette
+Øjeblik, bestemt ved Selektorindstillingen.
+Apparatet benyttes her i Landet paa enkelte
+indenrigske Forbindelser, hvor Korrespondancen
+ligger noget over Morsesystemets Ydeevne
+(30—40 Ord i Min.). En lgn. afbrudt (synkron)
+Rotation (saakaldt Start—Stop ell.
+Pendelmetode) benyttes ved flere andre manuelle Tryk-T.,
+bl. a. af Siemens & Halske og Western Electric
+Co.'s Konstruktion. Sidstnævnte, der trykker
+Telegrammerne paa Papirruller i
+Blanketbredde, har dog særlig faaet Anvendelse i
+Forbindelse med Multiplekstelegrafi (s. d.).
+
+<sp>Automatiske</sp> T. Hughes- og særlig
+Morsesystemets Indførelse fremkaldte en stærk
+Stigning af Telegrafkorrespondancen i sidste
+Halvdel af forrige Aarh. Ved Bestræbelserne paa
+at udnytte de bestaaende Ledningsanlæg mest
+muligt gik man ad to forsk. Veje, idet man
+dels med T. af allerede kendt Type indrettede
+flere samtidige Kredsløb paa samme Ledning
+(se <sp>Multiplekstelegrafi</sp>), og dels
+fremstillede ny Systemer, hvor den tidligere
+forholdsvis langsomme Manipulation af Nøgle ell.
+Klaviatur erstattedes med automatiske
+Sendeapparater. Allerede 1833 anvendte Morse
+Metaltyper, formede som Morsetegn, og anbragt
+i en forskydelig Slæde til Frembringelse af
+Kontaktslutninger i St f. Haandnøgle. Hensigten
+var dog nærmest at opnaa en regelmæssig og
+lettere læselig Telegrafskrift, hvorfor Metoden
+atter blev opgivet, efterhaanden som
+Morsesystemet indarbejdedes. (I Nutiden benyttes et
+lignende Princip ved <sp>Brand-T.</sp>). I senere
+mek. Sendeapparater (Siemens & Halske, Bain
+o. a.) benyttedes indstillelige Kontaktstifter paa
+Kæder ell. roterende Tromler. For at opnaa
+en væsentlig Forøgelse af Sendehastigheden
+maa dog ogsaa Modtagerapparaterne indrettes
+med Henblik paa de hurtige Strømimpulser.
+De sædvanlige Morseapparater med
+fjederpaavirket Anker tillader kun ret begrænset
+Arbejdshastighed og vil derfor ikke med Fordel
+kunne anvendes i Forbindelse med automatiske
+Sendere. Bain søgte 1846 at afhjælpe denne
+Mangel ved helt at udelade bevægelige Dele i
+
+<img>Fig. 7. Siemens & Halske's Tryktelegraf.</img>
+
+<img>Fig. 8. Morkrum Tryktelegraf (Teletype).</img>

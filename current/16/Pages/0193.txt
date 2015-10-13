@@ -1,0 +1,137 @@
+Emmik Kaas, Morten Schinkel (til 1589),
+Henning Sparre, Gabriel Schinkel (1594—1600),
+Ditlev Holck til Eskildstrup, Melchior Ulfstand
+til Axelvold i Skaane (1601—12), Ernst
+Normand til Palsgaard (1613—15), Thomas Nold
+(1615—35), Jægermester Otto von Termo, Oluf
+Brockenhuus, Kjeld Krag, Bjørn Ulfeld til
+Møllerød i Skaane og derefter Kansler Christoffer
+Urne og Rigsadmiral Henrik Bjelke. Efter
+Enevældens Indførelse blev Klostergodset ved
+aabent Brev af 12. Juli 1661 som brugeligt
+Pant overladt Stiftsskriver <sp>Nils Hanssøn
+Schmidt</sp> for et Laan af 28675 Rdl., hvormed
+denne havde forstrakt Kronen under den
+forudgaaende Krig, og under 23. Aug. 1670 blev det
+ham tilskødet som Ejendom. Efter hans Død
+gik Godset i Arv til hans Børn, der i Aaret
+1700 solgte det til Handelsmand i Bergen
+<sp>Jakob Anderssøn Viding</sp>, der døde straks
+efter og overlod det til sin Enke <sp>Anna
+Michelsdatter</sp>, fra hvem det gik over til
+Sønnen <sp>Jakob Viding</sp>. Denne solgte 1723
+Godset til <sp>Hans Henrikssøn Formann</sp>,
+i hvis Tid den nuv. Hovedbygning er opført.
+
+Fra denne gik Godset over til dennes
+Efterkommere, i hvis Eje det var indtil 1871, da det
+blev splittet. Endnu 1847 var L. den største
+samlede Ejendom i Norge. Af Klostret staar
+nu kun Grundmurene igen; dog er et Stykke af
+Muren med et Buevindue endnu bevaret.
+Stenene i de gl. Mure blev i sin Tid benyttede til
+andre Bygninger, saaledes til Slottet ved
+Bergenhus (1560), til Kronborg (1577), og endelig
+er en Del Sten blevet ført til Kbhvn (1643); men
+endnu 1715 var der dog saa meget igen af
+Klostrets Mure, at Folk, iflg. Jonas Rasmus,
+boede deri. Flere Stenkister med Dele af
+Skeletter er fundne i Klostret. Flere Gravstene
+o. a. Sager er forærede til Bergens Mus.;
+andre Genstande opbevares i Klosterruinerne, der
+er beskyttede ved et Hegn med laasfærdig Port.
+Klostret har haft megen Lighed med
+Hovedøens Kloster. Mest Lighed har det dog haft med
+ovenn. Fountains Abbedi i England. Det ser
+endog ud til at have været nøjagtig bygget efter
+dette. Det har været prægtig udstyret med
+glaserede Gulvfliser og vakkert forarbejdede
+Kapitæler. Klostret har haft et betydeligt
+Omfang, alene Kirken er 42 m lang og 11 m bred.
+Til Bygningen har man anvendt Klæbersten,
+der er tagne fra et Brud, som ligger NØ. f.
+Klostret. (<sp>Litt</sp>.: <sp>Chr. Lange</sp>, »Norske
+Klostres Historie«; »Norges Land og Folk«:
+»Søndre Bergenhus Amt« af <sp>Joh. Vibe</sp> [Kria
+1896]; <sp>G. Storm</sp>, <i>Monumenta historica
+Norvegiæ</i>, S. 169—176; <sp>N. Nicolaysen</sp>, »Om L.
+og dets Ruiner« [Kria 1890]).
+<i>(J. F. W. H.). Edv. B.</i>
+</chapter>
+
+<chapter name="Lyseklyne">
+<b>Lyseklyne,</b> se <sp>Tørv</sp>.
+</chapter>
+
+<chapter name="Lyselektricitet">
+<b>Lyselektricitet,</b> Frigørelse af Elektricitet i
+Form af Elektroner ved Belysning. L.
+demonstreres ved flg. Opstilling (se Fig.). I et
+udpumpet Glasrør (Tryk 10<sup>—7</sup> mm Kvægsølv) er
+indsmeltet to Metaltraade, der bærer Pladerne <i>A</i>
+og <i>B</i> af et Metal, f. Eks. Zink. <i>A</i> er blank
+poleret og forbundet med et Elektroskop, <i>B</i>
+afledet til Jord. Giver man <i>A</i> en negativ Ladning,
+vil denne forsvinde — hvilket viser sig ved, at
+Elektroskopets Blade falder sammen — saa
+snart <i>A</i> gennem Kvartsruden <i>C</i> belyses med
+ultraviolet Lys. Er <i>A</i> uladet i Beg., faar den
+ved Belysning en svag positiv Ladning. Lyset
+løsriver altsaa negativ Elektricitet fra <i>A</i>. De
+løsrevne Dele kan vises at være Elektroner,
+idet <i>e/m</i>, Forholdet mellem Delenes
+Elektricitetsmængde <i>e</i> og Masse <i>m</i>, bestemmes ved de
+Metoder, der er omtalt under Katodestraaler. Dette
+er det lyselektriske Grundforsøg.
+
+For at lette Overblikket er Fremstillingen af
+L. delt i flg. Afsnit: a) L.'s Historie, b)
+Lyselektrisk virksomme Stoffer, c)
+Undersøgelsesmetoder, d) Resultater, e) L.'s Teori, f) Det
+lyselektriske Fotometer, g) Særlige
+lyselektriske Fænomener.
+
+a) <sp>Historie</sp>. 1887 opdagede <sp>Hertz</sp> ved
+sine Undersøgelser over hurtige
+elektromagnetiske Svingninger, at Gnistlængden under ellers
+ens Omstændigheder forøgedes, naar
+Elektroderne belystes med ultraviolet Lys.
+Umiddelbart efter viste <sp>Ebert</sp> og <sp>Wiedemann</sp>, at
+Belysning af Katoden var tilstrækkelig til at
+fremkalde Virkningen, og endnu s. A. opdagede
+<sp>Hallwachs</sp>, at en poleret Zinkplade mistede
+negativ Ladning ved ultraviolet Belysning, en
+positiv Plade bevarede sin Ladning, en neutral
+ladedes op til en svag positiv Spænding. Den
+lyselektriske Virkning kaldes derfor ogsaa
+undertiden Hallwachs-Effekten. 1899 viste
+<sp>Lenard</sp> og <sp>J. J. Thomson</sp> samtidigt, at Lyset
+løsrev Elektroner fra Metalpladen. Disses
+Udtrædelseshastighed fra en neutral Plade var
+kun c. 1/300 af Lysets og ikke rettet efter
+Pladenormalen. Lyset skabte altsaa en Slags
+langsomme Katodestraaler. 1902 viste Lenard, at
+Hastigheden var uafhængig af den paa Pladen
+faldende Lysmængde. En Teori for L.
+opstilledes 1905 af <sp>Einstein</sp>, der udledte en
+Formel for Elektronernes maksimale
+Udtrædelseshastighed som Funktion af Lysets Bølgebredde.
+Denne er senere bekræftet ved Forsøg.
+
+b) <sp>Lyselektrisk virksomme
+Stoffer</sp> er alle Metaller (undtagen maaske Uran og
+Thorium), en Mængde Metalforbindelser, en Del
+Vædsker og bl. Luftarterne Ilt, Kvælstof og
+atmosfærisk Luft.
+
+c) <sp>Undersøgelsesmetoder</sp>.
+Opstillingen i Figuren kan anvendes, naar Glasrørets
+Inderside beklædes med et Sølvlag, der afledes
+til Jorden til Beskyttelse mod elektrostatiske
+Felter og sodes for at undgaa Lysreflektion fra
+Væggene. Lyskilden kan være en Buelampe, en
+Kvartskvægsølvlampe ell. et Gnistrum med
+Zinkelektroder, da alle disse giver rigeligt
+ultraviolet Lys. Lyset opløses ved Kvartsprismer i
+
+<img>Lyselektricitet.</img>

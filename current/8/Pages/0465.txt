@@ -1,0 +1,196 @@
+Instrumenter, Afbrydere og Sikringsapparater, der
+tjener til at føre den elektriske Energi fra
+Generatorerne til de fra Centralen udgaaende
+Ledninger (Fødeledningerne). Ved
+Jævnstrømscentraler føres <sp>Maskinkablerne</sp> direkte
+til <sp>Fordelingstavlen</sp>, der bærer
+Afbrydere og Instrumenter for hver Maskine og gaar
+igennem disse til de umiddelbart bag ved
+Tavlen anbragte <sp>Samleskinner</sp>, hvorfra igen
+føres de fra Centralen afgaaende
+Fødeledninger, hvis Afbrydere, Instrumenter og
+Sikringsapparater kan være anbragte paa samme Tavle
+ell. paa en særlig <sp>Fødeledningstavle</sp>.
+Ved Centraler for højspændt Vekselstrøm føres
+saavel Maskinkablerne som Fødeledningerne
+ikke til Fordelingstavlen, men til
+<sp>Højspændingsrummet</sp>, der indeholder
+Samleskinnerne samt de nødvendige Olieafbrydere,
+Ledningsadskillere og Maaletransformatorer,
+eventuelt Apparater for Overspændingsbeskyttelse.
+<sp>Fordelingstavlen</sp> kommer da kun til at
+indeholde de Instrumenter, der er tilsluttede
+Maaletransformatorerne, samt
+Manøvreapparater for Olieafbryderne og de til Maskinerne
+hørende Reguleringsmodstande. Undertiden
+samles de til den enkelte Generator hørende
+Apparater paa en særlig <sp>Manøvresøjle</sp>.
+Fordelingstavlen er oftest anbragt i selve
+Maskinsalen, men kan dog (oftest ved
+Vekselstrømscentraler) være anbragt i et særligt
+<sp>Fordelingsrum</sp> ell. i en særlig
+<sp>Fordelingsbygning</sp>, der da oftest tillige indeholder
+Højspændingsrummene. Benævnelsen
+<sp>Fordelingsrum</sp> anvendes dog ofte ved
+Jævnstrømscentraler med særlige
+Fødeledningstavler for det Rum, hvori disse er anbragte (se i
+øvrigt <sp>elektriske Kraftstationer</sp> og
+<sp>elektriske Understationer</sp>).
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Fordelingsledningsnet">
+<b>Fordelingsledningsnet</b> benævnes den Del
+af et elektrisk Ledningsnet, hvortil de enkelte
+Forbrugere er tilsluttede, og som modtager
+Strømmen fra de fra Centralen udgaaende
+<sp>Fødeledninger</sp>, der er forbundne til
+Fordelingsnettet i <sp>Fødepunkterne</sp> (se
+<sp>elektriske Ledningsnet</sp>).
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Fordelingsmaskiner (se Influensmaskiner)">
+<b>Fordelingsmaskiner,</b> se
+<sp>Influensmaskiner</sp>.
+</chapter>
+
+<chapter name="Fordelingsrum (se Fordelingsanlæg)">
+<b>Fordelingsrum,</b> se <sp>Fordelingsanlæg</sp>.
+</chapter>
+
+<chapter name="Fordelingsskema">
+<b>Fordelingsskema</b> er en skematisk
+Fremstilling af en Centrals samlede Fordelingsanlæg
+(et F. er vist under »elektriske Kraftstationer«).
+</chapter>
+
+<chapter name="Fordelingstal">
+<b>Fordelingstal</b> kaldes den Valgkvotient,
+hvormed ved Forholdstalsvalg de enkelte
+Valggruppers (Partiers) Stemmetal deles for at udfinde,
+hvor mange Repræsentanter der tilkommer hver
+Valggruppe. Efter den rene Andræ'ske
+Forholdstalsvalgmaade, saaledes som denne indførtes i
+den foreløbige Valglov for Rigsraadet af 2. Oktbr
+1855 § 22 og i Valgloven af 12. Juli 1867 § 82
+ved Valgene af Landstingsmænd, fremkommer
+F. derved, at det samlede Antal af afgivne
+Stemmer deles med Antallet af de
+Repræsentanter, der skal vælges, og det derved
+fremkomne Forholdstal med Bortkastelse af Brøken
+lægges til Grund for Valget. Er Stemmetallet 100,
+og skal der vælges 10 Repræsentanter, er F.
+altsaa 10, saaledes at hver Valggruppe opnaar
+een Repræsentant for hver 10 Stemmer, den
+raader over. Til F. kræves altsaa her fuld
+Kvotient. I Valgloven 10. Maj 1915 nøjes man
+derimod ved Valgene af Landstingsmænd med
+den »tilstrækkelige Kvotient«, idet efter § 76
+Antallet af Stemmesedlerne i Landstingskredsen
+skal deles med een mere end Antallet af de
+Landstingsmænd, der skal vælges for Kredsen,
+og det derved fremkomne Forholdstal, forhøjet
+til det paafølgende hele Tal, lægges da som F.
+til Grund for Valget.
+<i>K. B.</i>
+</chapter>
+
+<chapter name="Fordelingstavle (se Fordelingsanlæg)">
+<b>Fordelingstavle,</b> se <sp>Fordelingsanlæg</sp>.
+</chapter>
+
+<chapter name="fordelt (se Fordeling)">
+<b>fordelt,</b> se <sp>Fordeling</sp>.
+</chapter>
+
+<chapter name="for de Vind">
+<b>for de Vind</b> [holl. fo.r-d<sub>ə</sub>-↱vent] (<sp>Søv.</sp>), at
+sejle med Vinden agter — ell. næsten agter
+ind.
+<i>H. E.</i>
+</chapter>
+
+<chapter name="Fordicidia">
+<b>Fordicidia</b> (lat.), Fest, der i Oldtiden fejredes
+i Rom til Ære for Jordens Gudinde Tellus, og
+ved hvilken man bad om et frugtbart Aar. Paa
+Festdagen, 15. Apr., ofrede Kurierne en
+drægtig Ko (<i>forda</i>), efter hvilket Offer Festen havde
+Navn.
+<i>C. B.</i>
+</chapter>
+
+<chapter name="Fordobling">
+<b>Fordobling</b> (bot.), ogsaa kaldet
+<i>dédoublement</i>, er det Fænomen, at der i St f. eet Organ
+optræder to; F. er ikke sjælden i Blomsten,
+særlig bl. Støvbladene. De fordoblede Organer
+er altid indbyrdes ens og staar altid ved Siden
+af hinanden (lateral F.), f. Eks. Støvdragerne
+hos Skræppe. I den vegetative Del af Planten
+optræder F. kun som Misdannelse.
+<i>V. A. P.</i>
+</chapter>
+
+<chapter name="Fordraaber">
+<b>Fordraaber,</b> d. s. s. stærk Vinaand, nemlig
+det først indvundne Destillat ved
+Vinaandsfabrikationen. Betegnelsen er ved at gaa af
+Brug.
+<i>E. K.</i>
+</chapter>
+
+<chapter name="Fordrag">
+<b>Fordrag,</b> ældre Udtryk for Forlig,
+Overenskomst, Traktat.
+</chapter>
+
+<chapter name="Fordring (se Obligationsret)">
+<b>Fordring,</b> se <sp>Obligationsret</sp>.
+</chapter>
+
+<chapter name="Fordringshaver (se Obligationsret)">
+<b>Fordringshaver,</b> se <sp>Obligationsret</sp>.
+</chapter>
+
+<chapter name="Fordringsret (se Obligationsret)">
+<b>Fordringsret,</b> se <sp>Obligationsret</sp>.
+</chapter>
+
+<chapter name="Fordæk">
+<b>Fordæk</b> (Søv.) benævnes den Del af øverste
+Dæk i et Skib, som ligger forude mellem
+Fokkemasten og Forstævnen. Denne Del af Dækket
+benævnes undertiden ogsaa <sp>Bakken</sp>.
+<i>H. P. C.</i>
+</chapter>
+
+<chapter name="Fordøjelse">
+<b>Fordøjelse.</b> Alle levende Væsener optager,
+omdanner og udskiller Stoffer, og ved den kem.
+Omdannelse af den optagne Føde produceres
+fri Energi (Varme og Arbejde), og
+Organismernes egne Væv opbygges (se nærmere under
+<sp>Stofskifte</sp>). Den kem. Omdannelse af den
+optagne Føde foregaar successivt i fl. Trin.
+De første Trin af Omdannelsesprocessen bestaar
+i, at de optagne Fødemidler knuses mek. og
+deres Stoffer undergaar en indledende kem.
+Nedbrydning. Denne indledende Omdannelse
+kaldes F. Den er ikke forbundet med noget
+nævneværdigt Tab af kem. Energi
+(Næringsværdi) af Fødemidlernes brugelige Stoffer, men
+disse omdannes til lettere opløselige og
+simplere sammensatte Substanser end de fortærede.
+
+Hos de laveststaaende Organismer, f. Eks.
+hos de eencellede (Amöber o. a.) optages
+Føden af Cellen, og inde i denne foregaar saavel
+de indledende Omdannelser af Føden
+(intracellulær F.), som de senere indgribende kem.
+Omdannelser (Stofskifte). Hos alle højere Dyr
+foregaar F. i en F.-Kanal, der strækker sig som
+et Rør gennem Dyret, med en Indgangsaabning
+(Mund) og en Udgangsaabning (Gat). Denne
+simple Form har F.-Kanalen f. Eks. hos mange

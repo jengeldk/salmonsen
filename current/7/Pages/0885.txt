@@ -1,0 +1,178 @@
+Brandmænd, Officerer) og i det afgørende Øjeblik
+unddrager sig sin Pligt. Det samme gælder
+ogsaa om Embedsmænd, der skal paatage sig
+det med en afgørende Bestemmelse forbundne
+Ansvar, som de søger at slippe for.
+<i>Alfr. L.</i>
+</chapter>
+
+<chapter name="Fejhed (militært)">
+<b>Fejhed.</b> Den Militær, der før ell. under en
+Fægtning, under en Belejring ell. under andre
+lgn. Forhold krænker sin Tjenestepligt af Frygt
+for personlig Fare, straffes saavel efter den
+danske som efter den norske Straffelov for
+Krigsmagten med strenge Straffe, efter
+Omstændighederne endog med Livsstraf. Straffene
+for Pligtovertrædelse af F. kan dog - efter
+dansk Ret - efter Krigsrettens Skøn nedsættes
+ell. endog eftergives, naar den Skyldige, førend
+Dom afsiges, giver Prøve paa udmærket Mod.
+<i>A. Gl.</i>
+</chapter>
+
+<chapter name="Fejl">
+<b>Fejl</b> (ved en leveret Vare), se <sp>Mangler</sp>
+og <sp>Skjulte Fejl</sp>.
+</chapter>
+
+<chapter name="Fejlgrænse (matematisk)">
+<b>Fejlgrænse</b> (<sp>mat</sp>.). Naar en Størrelse er
+udtrykt med Tilnærmelse ved et Tal, angiver
+F. de numerisk største positive og negative
+Afvigelser, der kan være mellem Størrelsens
+virkelige Værdi og det tilnærmede Tal. For et
+<table>
+<td v2>afrundet Tal vil F. være<td>+<td v2> 1/2 Enhed paa det
+<td>÷
+</table>
+sidste Ciffer, der medtages.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Fejlgrænse (eller Tolerance)">
+<b>Fejlgrænse</b> eller <sp>Tolerance</sp> kaldes det
+Spillerum, inden for hvilket Mønter,
+Længdemaal, Rummaal, Vægtlodder, Vægte o. s. v. tør
+afvige fra den i Møntloven, Justerreglementet
+o. s. v. foreskrevne nøjagtige Størrelse, uden
+at der kan gøres Indsigelse derimod.
+<i>H. J. N.</i>
+</chapter>
+
+<chapter name="Fejllære">
+<b>Fejllære,</b> <sp>Fejlteori</sp> (<sp>mat</sp>.). Naar en
+Størrelse maales, vil Maalingerne alm. være
+behæftede med <sp>Fejl</sp>. De Fejl, hvis Oprindelse
+kendes, maa rettes. Undersøgelsen af de
+øvrige, saakaldte <sp>tilfældige</sp>, Fejls Fordeling
+efter Størrelse er F.'s Indhold. En foreløbig
+Vurdering af Maalingernes Paalidelighed kan
+støttes paa <sp>Middelfejlen</sp>, hvorved
+forstaas Kvadratroden af Middeltallet af Fejlens
+Kvadrater. Som den rimeligste Værdi for en
+fl. Gange maalt Størrelse tager man Maalenes
+<sp>Middeltal</sp>, hvis Omstændighederne ikke
+taler for et andet Valg. Fejlene bliver da
+Maalenes Afvigelser fra Middeltallet; som en
+Tilnærmelse til Middelfejlen bruger man
+Kvadratroden af Summen af Afvigelsernes Kvadrater,
+divideret med Maalenes Antal formindsket med
+1. En Fremstilling af de tilfældige Fejls
+Fordeling - en faktisk Fejllov - faar man i F.
+f. Eks. ved at tegne en Kurve, <sp>Fejlkurve</sp>,
+hvis Areal mellem to Ordinater er proportionalt
+med Hyppigheden af Fejl, der i Værdi ligger
+mellem de tilsvarende Abscisser. Fejlkurven vil
+hyppigst meget nær have Formen fremstillet
+ved Ligningen <i>y</i> = <i>a.e</i> <sup>÷<i>h</i><sup>2</sup><i>x</i><sup>2</sup></sup>, hvor
+<table>
+<td v2>Middelfejlen er =<td>1<td v2>; denne Fejllov kaldes den
+<td>h *kvadratrod(2)*
+</table>
+<sp>eksponentielle</sp>. F. udleder ogsaa
+Fejllovene for Funktioner af Maalinger med
+bekendte Fejllove. Endelig giver F. Regler for
+den saakaldte Udjævning (s. d.).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Fejlskrift">
+<b>Fejlskrift.</b> Iflg. L. om Aftaler m. m. af 8. Maj
+1917 § 32 er en Villieserklæring, som ved F.
+har faaet et andet indhold end tilsigtet, alligevel
+bindende, medmindre den, til hvem Erklæringen
+er afgivet, indsaa ell. burde indse, at der forelaa
+en Fejltagelse. Hvis det derimod drejer sig om
+et Telegram, som er forvansket ved Fejl fra
+Telegrafvæsenets Side, er Afsenderen ikke
+bunden, selv om Modtageren var i god Tro. Dog
+maa Afsenderen ogsaa i dette Tilfælde, naar
+han har faaet Kundskab om Forvanskningen,
+uden ugrundet Ophold give Modtageren
+Underretning derom, da han ellers bliver bunden
+ved Telegrammet med det Indhold, det har
+faaet.
+<i>N. C.</i>
+</chapter>
+
+<chapter name="Fejlslagning">
+<b>Fejlslagning</b> betegner i den bot. Formlære
+et Organs ell. en Organdels totale Udebliven ell.
+partielle Mangelfuldhed i Udviklingen. Man
+skelner her mellem Abort, hvor Organet vel
+anlægges, men under de øvriges videre Udvikling
+ganske gaar til Grunde, - og Ablast, hvor et
+egl., legemligt Anlæg slet ikke finder Sted,
+men hvor kun Sammenligningen med homologe
+Dele hos beslægtede Væsener viser, at et
+bestemt Organ ligesom er udeblevet i Anlægget.
+Ærenpris har saaledes kun to Støvdragere; de
+tre siges at være fejlslagne, fordi fem Støvblade
+er typiske for den Fam., hvortil den hører;
+Salvien har fire Støvblade, men de to er
+fejlslagne og yderst uudviklede, og kun to er blevne
+til Støvdragere; paa hver af disse slaar
+ligeledes den ene Støvknaphalvdel fejl. Egen har
+seks Æg i sin Frugtknude, men de fem slaar
+fejl, befrugtes slet ikke, og kun eet bliver til
+Frø. - Organer, som under Organismernes
+normale Udvikling slaar fejl, kommer ofte frem
+i Tilfælde af Misdannelse, f. Eks. een ell. fl.
+af de manglende Støvdragere hos Ærenpris, og
+omvendt, f. Eks. i mange mere ell. mindre
+»fyldte« Haveblomster, hvori Støvdragerne slaar
+ganske fejl og bliver til Kronblade (se
+<sp>Metamorfose</sp>).
+<i>V. A. P.</i>
+</chapter>
+
+<chapter name="Fejlslutning">
+<b>Fejlslutning</b> udgør ell. indeholdes i
+saadanne Tankegange, der ret beset viser sig ikke at
+stemme overens med dem, der anses for logisk
+gyldige. En ufrivillig F. benævnes en
+Paralogisme. En bevidst F. kaldes en Sofisme, et
+Eks. paa en saadan er: En Sten kan ikke flyve,
+Nille kan ikke flyve, altsaa er Nille en Sten. En
+F. kan meget vel føre til et rigtigt Resultat.
+<i>Edg. R.</i>
+</chapter>
+
+<chapter name="Fejltællingspenge">
+<b>Fejltællingspenge</b> er et Beløb, Kassereren
+i Pengeinstitutter oppebærer som Tillæg til sin
+Løn og som Vederlag for Risikoen ved fejlagtige
+Udbetalinger. Ofte deponeres Beløbet for
+Kassererens Regning og udbetales først, naar det
+efter en længere Aarrække viser sig, at der
+ikke er paaført Kassen noget Tab.
+<i>C. Th.</i>
+</chapter>
+
+<chapter name="Fejning">
+<b>Fejning</b> kaldes i Skovbruget den Skade,
+Hjortene (Kronvildt, Daavildt, men især
+Raavildt) øver paa Træerne, naar de gnider deres
+nydannede Takker mod dem for at afgnide den
+indtørrede Hud, der har dækket Takkerne
+under Væksten. Ved F. flænges og løsnes Barken
+paa Træernes Stamme, saa det blottede
+Kambiallag udtørres, og hele Planten kan dø; i
+ethvert Fald bliver den misdannet. Kron- og
+Daahjorte <sp>fejer</sp> oftest paa Grene ell. paa
+Buske som Tjørn o. l. og gør derfor ikke følelig
+Skade ved deres F.; Raabukken derimod
+foretrækker unge, slanke Stammer, især af
+
+

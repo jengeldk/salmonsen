@@ -1,0 +1,141 @@
+sensibel for de violette Straaler (λ 440 μμ).
+Man faar da Stjernens <sp>fotografiske</sp>
+Størrelse. Denne vil være afhængig af Stjernens
+Spektraltype (ell. Farve). Fastsætter man nu
+vilkaarlig, at den fotografiske og visuelle
+Størrelse af en Stjerne af Typen A0 skal være den
+samme, saa er den i Størrelsesklasse udtrykte
+Forskel : fotografisk minus visuel Størrelse, til
+en vis Grad et Maal for Stjernens Spektraltype
+ell. Farve. Denne Forskel kaldes
+<sp>Farveindeks</sp>. Den er negativ for de
+Spektralklasser, som gaar foran A, altsaa i O og B (Bo : —
+0,24), positiv for de øvrige Klasser (F0 : + 0,28,
+G0 : + 0,56, K : 1,00 og M0 : + 1,35). Den
+fotografiske Størrelse vil følgelig være mindre for
+Spektralklassen O og B, større end den
+visuelle for Klassen F til M. Foruden denne egl.
+fotografiske Størrelse har man i den senere
+Tid søgt ad fotografisk Vej at bestemme
+Stjerners Lysstyrke ved at benytte ortokromatiske
+Plader, anbragt bag et Gulfilter. Herved skulde
+man faa Maalinger, som var meget nær
+ækvivalente med de visuelle. Disse saaledes bestemte
+Størrelser kaldes fotovisuelle, og man
+vil kunne faa saadanne Maalinger ved at
+benytte Objektiver, som kun er optisk
+akromatiseret. Reflektoren kan selvforstaaelig
+benyttes uden videre for alle Egne af Spektret, men
+den har lige over for Refraktoren den Mangel
+ved sig, at de maalte Størrelser er stærkt
+afhængige af Stjernens Afstand fra den
+optiske Akse. Da den selektive Absorption af
+Atmosfæren, Objektivet eller Spejlet influerer paa
+Bestemmelsen af S., har man vedtaget at
+referere de erholdte Maalinger til fundamentale
+Stjerner i Nærheden af Nord- ell. Sydpolen.
+
+I den sidste Tid har man indført Begrebet
+<sp>bolometrisk</sp> Størrelse som et Maal for en
+Stjernes totale Straaling, medens de hidtil
+nævnte, visuelle, fotografiske og fotovisuelle
+kun er et Maal for den Del af Straalingen, som
+vi kalder Lys. Nu er den totale Straaling
+proportional med Stjernens Overflade og 4. Potens
+af dens effektive Temperatur. Vælger man nu
+som Enhed Solen, hvis absolutte visuelle
+Størrelse er + 4,9, og hvis effektive Temp. er 5800°
+C., vil den bolometriske Størrelse og den
+absolutte visuelle være den samme for denne. En
+Stjernes bolometriske Størrelse bliver, da: M<sub>bol</sub> = 4,9
+—5 log D—10 log (T/5800), hvor D er Stjernens
+Overflade og T dens effektive Temperatur,
+M<sub>vis</sub>-M<sub>bol</sub> = 10 log [T/5800) + J, hvor
+J er Forskellen mellem Stjernens og
+Solens Fladelysstyrke, udtrykt i Stjernestørrelse;
+denne har man udledet dels af
+Formørkelsesvariable, af Forskel i Farveindeks og af
+Interferometermaalinger af Stjernediametre. For
+Kæmpe- og Dværgstjerner er M<sub>vis</sub>—-M<sub>bol</sub> for
+B0 : +2,2 A0 : + 0,3, F0 : + 0,1, G0 : 0,0,
+K0 : + 0,6 og + 0,3 samt for M0 : + 1,5.
+
+Den første fotometriske Katalog over S. er
+leveret af Seidet med 208 Stjerner (1863), og
+paa den fulgte flere, omfattende et større
+Antal Stjerner. Den betydeligste Katalog blev
+leveret af Pickering (1884): <i>Harvard
+Photometry</i>, som giver S. af alle Stjerner til 6.
+Størrelse, foruden en Del svagere, i alt 4260 fra
+Nordpolen til 30° sydlig Deklination. S. er
+bestemt med Meridianfotometer med
+Polarstjernen som Referensstjerne. 1885 udgav
+Pritchard: <i>Uranometria nova Oxoniensis</i> med 2784
+Stjerner mellem Nordpolen og 10° sydlig
+Deklination og ordnet efter Stjernebillederne. S.
+er her bestemt med Kilefotometret. Pickering
+har fortsat sine Maalinger og udgivet en Række
+mindre Fortegnelser, som han har samlet i to
+store Kataloger, benævnt: <i>The Revised Harvard
+Photometry</i> (1908), som indeholder 9110
+Stjerner til 6,5 Størrelse, fordelt over hele Himmelen
+— fra Nord- til Sydpolen — og 36682 Stjerner,
+svagere end 6,5 (Harvard Annals 50 og 54). Fra
+Potsdam foreligger der en Katalog over S. af
+14199 Stjerner til 7,5 Størrelse mellem
+Nordpolen og Ækvator: »Potsdamer Photometrische
+Durchmusterung«. Dette Arbejde er udført af
+Müller og Kempf med Zöllner's Fotometer,
+fortsat af Tass og Terkan til 10° sydlig
+Deklination (1916). Af de fotografisk-fotometriske
+Maalinger af S. foreligger der foruden talrige
+mindre Arbejder (bl. a. af Hertzsprung) tre
+større Kataloger: »Göttinger Aktinometri« af
+Schwarzschild med 3522 Stjerner mellem
+Ækvator og 20 nordlig Deklination, <i>Yerkes
+actinometry</i> (1912) af J. A. Parkhurst med 630
+Stjerner i Polzonen + 73° til + 90° (begge
+disse Kataloger gaar til 7,5 Størrelse), og den
+fra Greenwich publicerede Katalog over den
+fotografiske Lysstyrke af polnære Stjerner,
+lysstærkere end 9. Størrelse, i alt 2329 Stjerner
+(1913—15). Turner har i en Række
+Afhandlinger diskuteret <i>The stellar magnitude scales of
+the Astrographic Catalogues</i>. Se for øvrigt
+<sp>Fiksstjerner</sp> og <sp>Astrofotometri</sp>.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Stjernesøpunge">
+<b>Stjernesøpunge,</b> se <sp>Søpunge</sp>.
+</chapter>
+
+<chapter name="Stjernetaage">
+<b>Stjernetaage</b> kaldes en lille Plet (Flek), der
+viser sig paa Himmelen i et mat dæmrende Lys
+som en tynd Smaasky. Saadanne Pletter blev
+bemærkede allerede i Oldtiden, men hvad
+Hipparchos, Ptolemaios o. a. kaldte S., var i
+Virkeligheden Stjernehobe (s. d.). Den eneste S.,
+som er synlig for det blotte Øje, er
+Andromeda-Taagen, der ikke nævnes i Almagest. Al-Sûfi er
+den første, som omtaler den. Da altsaa S. er
+saa svage, at de ikke kan ses med det blotte
+Øje, tilhører Kendskabet til disse Dannelser den
+teleskopiske Tid. Saaledes blev
+Andromeda-Taagen opdaget paa ny af Simon Marius 1612,
+og Orion-Taagen blev fundet af Peiresc 1610,
+men opdaget paa ny 1618 af Cysat og 1656 af
+Huygens, som har givet den første Tegning
+og Beskrivelse af denne glimrende S. Nævnes
+de 16 S., som Hevel fandt, og de 43 S. fra den
+sydlige Himmel, som Lacaille 1750—52 gav en
+Fortegnelse over, samt de to kendte Kataloger
+paa tilsammen 103 S. og Stjernehobe, som
+Messier udgav 1771 og 1777, er hermed alt omtalt,
+før W. Herschel 1779 begyndte sin systematiske
+Opsøgning af S. I 3 Kataloger fra 1786, 1789
+og 1802 har han sammenstillet 2500 hidtil
+ukendte S.; Antallet blev 1833 øget af hans Søn
+J. Herschel med 2307 ny og 1847 med 1708,
+hovedsagelig fra den sydlige Himmel, hvor

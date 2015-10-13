@@ -1,0 +1,160 @@
+Banegaardene er forbundet med næsten uovervindelige
+Vanskeligheder, og at Driften paa hele Banen
+standser, naar blot en af Pumpemaskinerne
+kommer i Uorden. Trods disse store praktiske
+Ulemper har de a. (og pneumatiske) J.
+principmæssig set dog deres Berettigelse ved Siden af
+Jernbaner med Lokomotivdrift, og af flg. Grunde:
+ved de sidstnævnte aftager Brændslets
+Nyttevirkning meget hurtig med voksende
+Kørehastighed, ved a. J. tiltager den, om end langsomt, og
+ved disse aftager Nyttevirkningen ikke saa
+hurtigt ved Stigninger som for Lokomotivdrift. For
+at kunne bedømme Forholdet mellem a. og
+pneumatiske J. kan bemærkes, at Nyttevirkningen
+for begge aftager meget hurtigt med tiltagende
+Fortyndings- ell. Fortætningsgrad, hvoraf
+følger, at pneumatiske Baner med deres store
+Stempelflader (hvorpaa Lufttrykket virker) i
+Forhold til den bevægede Togvægt kan drives
+med ringere Fortyndings- ell. Fortætningsgrad
+ell. langt mere rationelt end a. J.
+<i>G. K.</i>
+</chapter>
+
+<chapter name="atmosfærisk Elektricitet">
+<b>atmosfærisk Elektricitet.</b> Forbinder man
+paa passende Maade et Elektrometer (Redskab
+til at maale elektriske Spændingsdifferenser)
+med den nederste Ende af en lang, isoleret
+Metalstang, der rager lodret i Vejret under aaben
+Himmel, vil Elektrometret sædvanligvis gøre et
+Udslag. Stangen maa foroven bære en fin Spids
+ell., hvad der er bedre, en Flamme ell. et
+radioaktivt Stof, hvorigennem der udveksles
+Elektricitet med den omgivende Luft, indtil hele
+Stangen har faaet samme elektriske Spænding
+(Potential) som det Luftlag, der ligger i Højde med
+dens øverste Ende. Elektrometrets Udslag er
+Tegn paa, at denne Spænding er forsk. fra den,
+der findes ved Jordens Overflade, hvor
+Elektrometret er anbragt. I klart, roligt Vejr er Luften
+altid positiv elektrisk i Forhold til Jorden, og jo
+højere man gør Stangen, desto større bliver
+Elektrometrets Udslag. Luftens positive
+Elektricitet tiltager altsaa i Styrke med Højden, og
+hæver man Flammen meget højt ved en Ballon
+ell. Drage, fra hvilken en Metaltraad føres ned
+til Jorden, uden dog at være i ledende
+Forbindelse med den, kan Spændingsforskellen mellem
+Traaden og Jorden blive saa stor, at der springer
+en vedvarende Rk. Gnister over mellem Traadens
+nederste Ende og et Legeme, der nærmes til den
+og er i ledende Forbindelse med Jorden. Allerede
+i 100 m's Højde vil Luftens positive Spænding
+ofte være lige saa stærk som den, der
+frembringes af en Rk. paa 10—20000 kraftige galvaniske
+Elementer; men den er i høj Grad foranderlig,
+stærkere om Vinteren end om Sommeren og
+forsk. til forsk. Tider af Døgnet. I klart Vejr
+vokser Elektrometrets Udslag hurtig om
+Morgenen og naar et Maksimum nogle Timer efter
+Solopgang; derefter tager det af, bliver mindst
+noget over Middag, for atter at vokse til et nyt
+Maksimum, der indtræder et Par Timer efter
+Solnedgang. Udslaget tager da atter af og naar
+sit natlige Minimum mellem Midnat og Morgen.
+— Ved overtrukken Himmel er Luften snart
+positiv, snart negativ elektrisk, hyppigst det
+sidste, og naar der falder Nedbør paa
+Observationsstedet ell. i Nærheden deraf, skifter Tilstanden
+paa den mest uregelmæssige Maade. Lenard har
+(1892) fundet, at rent Vand, der draabevis falder
+paa et fast ell. flydende Underlag, sender
+betydelige Mængder af negativ Elektricitet ud i
+Luften; en stærk Regn maa da kunne fylde de
+lavere Luftlag med enorme Mængder heraf, og
+den Formindskelse, Regnfald derfor frembringer
+i Luftens sædvanlige, positive Spænding, har man
+kunnet spore i fl. Hundrede km's Afstand. —
+Aarsagen til Luftelektriciteten er ukendt. Man
+har tænkt paa Fordampning og Plantevækst
+(Pouillet), paa magneto-elektrisk Induktion ved
+Jordmagnetismen og Jordrotationen (Edlund),
+paa Havbølgers og Havbrændingers Virkning;
+den uophørlige Regn af <sp>salt</sp> Vand, som herved
+fremkaldes over store Strækninger, vil sende
+<sp>positiv</sp> Elektricitet ud i Luften (Lenard).
+Faraday har vist, at Gnidning mellem Vand og
+Is frembringer Elektricitet, og en saadan
+Gnidning kan muligvis finde Sted i visse Luftlag.
+Luftens elektriske Ledningsevne er meget ringe,
+og for elektriske Ledningstraade, hvis Spænding
+ikke er ualmindelig høj, vil Elektricitetstabet til
+Luften være umærkeligt. Først naar Traadens
+Spænding naar op omkr. 100000 Volt, bliver
+Tabet kendeligt, og ved endnu højere Spændinger
+kan det blive meget stort, idet Traaden selv
+frembringer en Forandring (»Ionisation«) i
+Luften, hvorved den bliver ledende. Et ringe Spor
+af Ledningsevne har Luften dog altid, og ethvert
+elektrisk Legeme, der befinder sig i fri Luft, vil
+derfor langsomt afgive sin Ladning til Luften,
+Man antager, at denne Ledningsevne, der
+varierer med Dagstiden, Aarstiden,
+Barometerstanden og Vejret, dels skyldes Paavirkning fra
+Solstraalingen, dels Udstrømning af radioaktiv Luft
+fra Jordbunden. Paa Grund af den høje positive
+Spænding i de højere Luftlag vil der følgelig
+bestandig strømme positiv Elektricitet fra
+Atmosfæren til Jorden. Nogen fyldestgørende
+Forklaring af, at Spændingsforskellen mellem Luft
+og Jord alligevel vedligeholdes, har man ikke
+kunnet give. — Ved hurtig Fortætning af
+Vanddamp i Luften i Forbindelse med stærke op- og
+nedgaaende Luftbevægelser kan der ske saa
+voldsomme Forskydninger i Luftelektriciteten, at
+Spændingsforskellen udlader sig i Lyn (se
+<sp>Tordenvejr</sp>). At Tordenskyer er elektriske, viste
+Franklin o. a. 1752, og s. A. fandt Lemonnier, at
+Luften ogsaa under alm. Forhold er elektrisk.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Atmosfærografi">
+<b>Atmosfærografi</b> (gr.), Beskrivelse af
+Atmosfæren (se <sp>Klimatologi</sp>).
+</chapter>
+
+<chapter name="Atmosfærologi">
+<b>Atmosfærologi</b> (gr.), Læren om Atmosfæren,
+se <sp>Meteorologi</sp>.
+</chapter>
+
+<chapter name="Atnedalen">
+<b>Atnedalen,</b> en Sidedal til Glommendalen paa
+dennes vestre Side, dannes af Elven <sp>Atna</sp>, som
+har sit Udspring mellem <sp>Rondane</sp>. Dalen er
+c. 30 km lang.
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Atofan">
+<b>Atofan,</b> C<sub>16</sub>H<sub>11</sub>NO<sub>2</sub>,
+2-Fenyl-4-Kinolinkarbonsyre, er et gullighvidt Krystalpulver, som er
+uopløseligt i rent Vand, men opløseligt i alkaliske
+Vædsker, og som smager bittert. Det anvendes
+som Lægemiddel mod Gigt og Leddegigt i Doser
+paa 0,5—1 g.
+<i>E. K.</i>
+</chapter>
+
+<chapter name="Atoll (se Koraller)">
+<b>Atoll,</b> se <sp>Koraller</sp>.
+</chapter>
+
+<chapter name="Atom">
+<b>Atom</b> (af gr. ἄτομσς, det udelelige). Allerede
+for mere end to Aartusinder siden førte de gr.
+Filosoffer en levende Strid om, hvorvidt
+Materien fuldstændig udfyldte det Rum, den indtog,

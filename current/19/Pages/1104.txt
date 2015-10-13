@@ -1,0 +1,180 @@
+Ved Cirkelperiferien anvendes saaledes
+indskrevne regulære Polygoner. I retvinklede
+Koordinater bestemmes plane Buers Længder ved
+
+∫√1+(<i>dy/dx</i>)<sup>2</sup> <i>dx</i>, Rumkurvers ved
+∫√1+(<i>dy/dx</i>)<sup>2</sup>+(<i>dz/dx</i>)<sup>2</sup> <i>dx</i>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Rektor">
+<b>Rektor</b> (lat.: Leder, Styrer) var i det rom.
+Rige efter Konstantin den Store's Tid
+Benævnelse for de Præfekten ell. Eksarken
+underordnede Statholdere i Provinserne. Nu
+betegnes derved den øverste Lærer ved en lærd ell.
+anden højere Skole, der tillige leder og styrer
+Skolen. Ogsaa Univ.'s Leder benævnes <i>Rector
+magnificus</i>. Endelig bruges i England ogsaa R.
+som Titel for Præster, der selvstændig
+forestaar en Menighed.
+<i>Cl. W.</i>
+</chapter>
+
+<chapter name="Rektoskop">
+<b>Rektoskop,</b> Betegnelse for
+<sp>Rektalspekulum</sp>, <sp>Endetarmsspejl</sp> (se
+<sp>Belysningsapparater</sp>), et Apparat, bestaaende
+af to ell. tre rendeformede Klapper, der kan
+indføres i Endetarmen, hvor de ved at være
+indbyrdes bevægelige ved Hængsler kan spærres
+ud fra hverandre, saa de tillader Indblik i
+Endetarmen for Undersøgelse ell. Operation i
+denne. I vore Dage benyttes oftest et langt
+rørformet Instrument, som ved den indvendige Ende
+er forsynet med en Mignonlampe til Belysning
+af Tarmen (<sp>Proktoskop</sp>). Tarmen opblæses
+forsigtigt med Luft, og der faas da ved Hjælp
+af dette Instrument et fuldstændigt Overblik
+over Tarmen i den Udstrækning, i hvilken
+Instrumentet indføres.
+<i>(E. A. T.). V. Sch.</i>
+</chapter>
+
+<chapter name="Rektovaginalfistel">
+<b>Rektovaginalfistel,</b> en Fistel mellem
+<sp>Endetarm</sp> (<i>Rektum</i>) og <sp>Moderskeden</sp>
+(<i>Vagina</i>). Opstaar hyppigst ved Fødsel, idet
+Væggen mellem de to nævnte Organer ødelægges
+ved Tryk af Fosterhovedet. Der kan ogsaa
+opstaa R. ved Operationer ell. ved Gennembrud
+af Saar fra det ene Organ til det andet.
+Patienten lider ved, at Ekskrementerne fra
+Tarmen træder ud gennem Moderskeden. Den
+eneste Vej til R.'s Helbredelse er Operationer; ikke
+farlige, men besværlige.
+<i>(E. A. T.). V. Sch.</i>
+</chapter>
+
+<chapter name="Rektum">
+<b>Rektum</b> (lat.), d. s. s. Endetarm, se <sp>Tarm</sp>.
+</chapter>
+
+<chapter name="Rekul">
+<b>Rekul</b> [-'kyl], d. s. s. <sp>Rekyle</sp>.
+</chapter>
+
+<chapter name="Rekuperator">
+<b>Rekuperator,</b> se <sp>Ovn</sp>.
+</chapter>
+
+<chapter name="Rekurrenstyfus">
+<b>Rekurrenstyfus,</b> se <sp>Typhus recurrens</sp>.
+</chapter>
+
+<chapter name="rekurrente Rækker">
+<b>rekurrente Rækker</b> (mat.). En Række Tal
+<i>y<sub>0</sub>y<sub>1</sub>y<sub>2</sub>y<sub>3</sub></i> . . siges at være rekurrent, naar hvilke
+som helst <i>n</i> + 1 paa hinanden følgende Led
+tilfredsstiller en lineær Ligning: <i>y</i><sub>x</sub> +
+<sub>n</sub> — 1 + <i>a</i><sub>2</sub><i>y</i><sub>x</sub> + <i>n</i> — 2 + ... + <i>a<sub>n</sub>y<sub>x</sub></i>=0, hvor
+<i>a</i>'erne er af <i>x</i> uafhængige Tal. Er disse givne,
+og man vælger Værdier for <i>y<sub>0</sub>y<sub>1</sub>y<sub>2</sub></i> ... <i>y<sub>n</sub></i>—1, kan
+man ved Hjælp af Ligningen beregne <i>y<sub>n</sub> y<sub>n</sub></i> + 1...;
+Differensregningen lærer ved Integration af
+Ligningen, der er en lineær Differensligning af
+<i>n</i>'te Orden, at udtrykke det alm. Led <i>y<sub>x</sub></i> i
+Rækken ved <i>a</i>'erne og <i>y<sub>0</sub>y<sub>1</sub>y<sub>2</sub></i> ... <i>y<sub>n—1</sub></i>. R. R,
+fremkommer f. Eks. ved Udvikling af en
+Brøk af Formen: <i>b<sub>0</sub></i> + <i>b<sub>1</sub>x</i> + <i>b<sub>2</sub>x<sup>2</sup></i> ... + <i>b<sub>r</sub>x<sup>r</sup></i>/<i>c<sub>0</sub></i> + <i>c<sub>1</sub>x</i> + <i>c<sub>2</sub>x<sup>2</sup></i> ... + <i>c<sub>n</sub>x<sup>n</sup></i>
+i en Potensrække <i>A<sub>0</sub></i> + <i>A<sub>1</sub>x</i> + <i>A<sub>2</sub>x<sup>2</sup></i> + ... Ved
+at sætte Koefficienterne til samme Potens af
+<i>x</i>, <i>x<sup>p</sup></i>, i Tælleren og i Produktet af Nævneren
+og Potensrækken lige store faar man Ligninger
+af Formen: <i>b<sub>p</sub></i> = <i>c<sub>0</sub></i> <i>A<sub>p</sub></i> + <i>c<sub>1</sub></i> <i>A<sub>p</sub>—1</i> + . . . +
+<i>c<sub>n</sub>A<sub>p—n</sub></i> (<i>p</i> = 0, 1, 2 . . .) til Bestemmelse af
+<i>A</i>'erne. Her er <i>b<sub>p</sub></i> = 0 for <i>p</i> > <i>r</i>, og Led, der
+indeholder <i>A</i> med en negativ Indeks, maa
+udelades. Naar <i>p</i>≧<i>r</i> og tillige <i>p—n</i> pos. ell. 0,
+faas : <i>A<sub>p</sub></i> = <i>c<sub>1</sub></i>/<i>c<sub>0</sub></i> . <i>A<sub>p—1</sub></i> — <i>c<sub>2</sub></i>/<i>c<sub>0</sub></i>. <i>A<sub>p—2</sub></i> — — — <i>c<sub>n</sub></i>/<i>c<sub>0</sub></i> <i>A<sub>p—n</sub></i>,
+der er en Differensligning af den ovenfor
+angivne Form.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="rekurrere">
+<b>rekurrere</b> (lat.), <sp>til</sp>, tage sin Tilflugt til,
+holde sig til, lade sig holde skadesløs af, søge
+Regres hos, ogsaa: føre Klage hos nogen over
+en anden.
+</chapter>
+
+<chapter name="rekurrerende Feber">
+<b>rekurrerende Feber,</b> se <sp>Feber</sp>.
+</chapter>
+
+<chapter name="Rekurs">
+<b>Rekurs</b> (lat.), Tilflugt, Skadesløsholdelse,
+Regres, Klage.
+</chapter>
+
+<chapter name="Rekviem">
+<b>Rekviem,</b> Sjælemessen for de døde (<i>Missa
+pro defunctis</i>), saaledes kaldt efter
+Begyndelsesordet af denne Messes Indledning: <i>Requiem
+æternam dona eis, domine</i>. R. indeholder
+samme Afdelinger som den sædvanlige kat. Messe,
+kun at <i>Gloria</i> og <i>Credo</i> bortfalder og at den
+gamle Bodssalme <i>Dies iræ, dies illa</i> afsynges
+mellem Epistlen og Evangeliet. Den
+inspirerende Kraft i denne gamle Dødssalme gaar igen
+hos de mange Komponister (Mozart, Cherubini,
+Hector Berlioz, Verdi, Sgambati, Asger
+Hamerich m. fl.), som har sat disse storslaaede
+Dommedagssyner i Musik.
+<i>A. H.</i>
+</chapter>
+
+<chapter name="Rekvirent">
+<b>Rekvirent</b> (lat.), alm. Betegnelse for den,
+der forlanger en Foged-, Auktions-, Konkurs-
+e. l. Forretning foretaget. Den, mod eller i
+Forhold til hvem saadan Forretning forlanges
+foretaget, benævnes <sp>Rekvisitus</sp>.
+<i>K. Hch.</i>
+</chapter>
+
+<chapter name="rekvirere">
+<b>rekvirere</b> (lat.), begære, fordre anskaffet,
+inddrive.
+</chapter>
+
+<chapter name="Rekvisit">
+<b>Rekvisit</b> (lat.), Fornødenhed, fornøden
+Brugsgenstand i et ell. andet Øjemed (f. Eks.
+Genstande, fraregnet Dekoration og Garderober,
+der behøves til Opførelse af et Teaterstykke).
+</chapter>
+
+<chapter name="Rekvisition">
+<b>Rekvisition</b> (af lat. <i>requirere</i>, kræve), Krav
+om Levering, i Folkeretten Krav om
+Naturalydelser fra Befolkningen paa et okkuperet
+Omraade, i Modsætning til Pengeydelser (se
+<i>Kontribution</i>). Medens fjendtlig Privatejendom
+i Søkrig stadig er uden Beskyttelse mod
+Tilegnelse fra den anden krigsførende Part, har
+Grundsætningen om Privatejendommens
+Ukrænkelighed under Krig til Lands fæstnet sig siden
+18. Aarh. En af Undtagelserne er R., der finder
+Anvendelse under Besættelse af fjendtligt
+Territorium, og som maa opfattes som en Levning
+af den tidligere anerkendte Adgang til
+Plyndring. Betingelserne for at udøve R., der for en
+Del er angivet i de amer. Nordstaters
+Krigsretsregler under Borgerkrigen mod Sydstaterne
+1863, i Bryssel-Deklarationen af 1874 og i det af
+<i>Institut de droit international</i> udarbejdede
+Forslag til Krigsretsregler af 1881, er iflg. Art. 52 i
+det paa Haag-Konferencerne 1899 og 1907
+vedtagne Landkrigsreglement flg.: R. <i>in natura</i> og

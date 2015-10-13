@@ -1,0 +1,127 @@
+Reglen kun en Megohm (1 Million Ohm) og
+undertiden en Mikroohm (1 Milliontedel Ohm).
+En anden Maade at definere Enhed for
+Modstand paa er ved at benytte Joule's Lov: at
+Varmeudviklingen <i>Q</i> af den elektriske Strøm <i>I</i>
+er proportional med I<sup>2</sup>. Skrives den saaledes:
+<i>Q</i> - <i>R I</i><sup>2</sup>, og maales <i>Q</i> i Joule (10<sup>7</sup> Gange
+den absolutte Enhed Erg) og <i>I</i> Ampère, faas
+igen Ohmen. Denne Definition er mere
+fundamental, da den ogsaa gælder for variable
+Strømme (Vekselstrømme, se <sp>Impedans</sp>). -
+Modstanden i en cylindrisk Ledning af Længde <i>l</i>
+og Tværsnitsareal <i>q</i> er efter det anførte <i>R</i> =
+<table>
+<i>l</i><td v2>ρ; Konstanten ρ kaldes <sp>Modstandsfylden</sp>
+<td><i>q</i>
+</table>
+(ell. den specifikke Modstand) for det
+paagældende Materiale; ρ er i ualmindelig høj Grad
+forsk. for de forsk. Stoffer og afhænger tillige
+af Temp. (Derved kan Modstanden indirekte komme til
+at afhænge af Strømstyrken paa Grund af Ledningens
+Opvarmning; direkte afhænger Modstanden
+ikke af Strømmens Styrke eller Retning).
+Modstandsfylden ρ er Modstanden i Ohm i en
+Terning af Stoffet med 1 cm Kantlængde,
+naar Strømmen gaar parallelt med en Kant.
+Den ligger for de alm. Metaller mellem 10<sup>-6</sup>
+og 10<sup>-5</sup> Ohm; saaledes beregnes for Kviksølv
+<table>
+<td v2>af de anførte Data ρ =<td c>1<td v2>Ohm. For
+<td>10630
+</table>
+Metaller angives derfor i Reglen Modstanden i en
+Traad af 1 m Længde og 1 mm<sup>2</sup> Tværsnit; den
+bliver 10<sup>4</sup> Gange saa stor som ρ, altsaa for
+<table>
+<td v2>Kvægsølv<td c>1<td v2> Ohm (se iøvrigt Tabellen
+<td>1,0630
+</table>
+nedenfor). Hyppigt angives i Stedet for ρ den
+<table>
+<td v2>reciproke Værdi σ =<td c>1<td v2>, der kaldes
+<td>ρ
+</table>
+<sp>Ledningsfylden</sp> (ell. den specifikke Ledningsevne). Den
+er følgelig for Kvægsølv 10630 (Enheden Ohm<sup>-1</sup>
+har ikke faaet noget Navn, men der er foreslaaet
+Navnet <sp>Siemens</sp>). ρ varierer med
+Metallernes Struktur, idet f. Eks. Hamring, Valsning og
+Trækning gør ρ større, og Udglødning gør den
+mindre. Iblanding af selv smaa Mængder
+Urenheder gør i Reglen ρ betydelig større. Langt
+større Værdier af ρ end Metallerne viser de
+ledende Vædsker (Elektrolyterne); for dem
+angives hyppigere Ledningsfylden σ, der for mange
+1/1-normale Saltopløsninger ligger omkr. 0,1 , saa
+at de altsaa leder c. 1 Mill. Gange daarligere end
+Kviksølv (se <sp>Elektrolyse</sp> og
+<sp>Elektrolyters Ledningsevne</sp>). Til de egl.
+Isolatorer ell. Dielektrika henregnes Stofferne med
+ρ større end 10<sup>12</sup> (Rav, Parafin, Lak, Glas,
+Ebonit o. s. v.), men i Teknikken regnes ogsaa
+Stoffer med ρ > 10<sup>6</sup> til Isolatorer (tørt Træ, Skifer,
+Marmor, Fiber o. s. v.). Imellem disse og
+Lederne staar Halvlederne som Træ, Papir, Vand,
+Alkohol o. s. v. Ang. Luftens e. L., der normalt
+er meget stor, se <sp>elektrisk Strøm i
+Luftarter</sp>.
+
+De fleste rene Metallers Modstandsfylde vokser
+c. 0,4 % pr Grads Temperaturstigning. Kvægsølvs
+og mange Legeringers mindre. For Elektrolyter
+aftager Modstanden c. 2 % pr Grads
+Opvarmning, for Isolatorer aftager den endnu langt
+stærkere, saa at næsten ingen Stoffer isolerer i
+Glødhede. Ogsaa for visse Halvledere aftager
+Modstanden meget stærkt ved Opvarmning;
+hertil hører maaske den Blanding af Metalilter, som
+<sp>Nernst</sp> anvendte til Glødestift
+i Nernstlampen (dog er den muligvis snarere en
+Elektrolyt). For Metaller er
+Ledningsevnen for Varme og
+Elektricitet proportionale (Wiedemann-Franz' Lov,
+se <sp>Elektronteorien</sp>). Ved de meget
+lave Temperaturer, som er frembragte i den
+nyeste Tid gennem Heliums Fortætning, viser
+mange Metallers e. L. mærkelige Forhold. Ved
+meget lave Temperaturer synes de fleste
+Metallers Modstand at blive konstant
+uafhængig af Temp., og f. Eks. for
+Platin gælder dette til de allerlaveste
+Temp. c. ÷270° C. ell. 2°-3°
+absolut; den konstante Værdi er
+for Platin kun lidt over 1 % af
+Modstanden ved 0°. For adskillige
+andre Metaller har det derimod
+vist sig, at ved en ganske bestemt yderst
+lav Temperatur springer Modstanden
+pludselig ned til en umaalelig ringe Værdi,
+saaledes for Kvægsølv ved c. ÷269° C. ell.
+4° absolut; derunder er Kvægsølvs Modstand i
+<table>
+<td v2>hvert Fald mindre end<td c>3<td v2>af Værdien ved
+<td>100000
+</table>
+0°; noget lgn. gælder for Guld, Bly, Tin o. fl.
+Metallerne betegnes i denne Tilstand som
+Supraledere. Sandsynligvis er Supraledernes Forhold
+det normale; de afvigende Stoffer som Platin
+maa da indeholde Urenheder.
+
+Metallegeringers Modstandsforhold er
+temmelig indviklede. Dersom Legeringens Bestanddele
+blandes uden at være opløselige i hinanden, som
+f. Eks. Bly og Cadmium, sammensættes
+Ledningsevnen additivt af Bestanddelenes. Men,
+dersom Metallerne er opløselige i hinanden i alle
+Forhold (faste Opløsninger), saa at de kan
+danne isomorfe Blandingskrystaller, vil allerede en
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2. Modstandskasse.</img>
+
+<img>Fig. 3. Normalmodstand.</img>
+

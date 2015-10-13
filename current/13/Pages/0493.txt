@@ -1,0 +1,124 @@
+men i selve Feltet vil den være en
+Kasteparabel, idet Partiklen der er underkastet den
+konstante Kraft <i>e E</i>, som giver den Accelerationen
+<i>eE</i>/<i>m</i>; da Partiklen er <i>l</i>/<i>v</i> Sekunder om at passere
+Feltet, vil den i Løbet af denne Tid blive ført
+Stykket <i>bb'</i>=<i>d<sub>e</sub></i>=1/2 · <i>eE</i>/<i>m</i> · <i>l</i><sup>2</sup>/<i>v</i><sup>2</sup> til Siden.
+Afbøjningen maales i Alm. ikke umiddelbart ved Feltets
+Ende, men i nogen Afstand (<i>L</i>) derfra. Den
+maalte Forskydning <i>D</i> bliver da betydelig
+større; der skal dog ikke her gives nogen
+Formel for, hvor stor den bliver, men kun
+bemærkes, at den altid vil blive proportional med <i>d<sub>e</sub></i>,
+til hvilken Størrelse vi alene vil henholde os.
+Vi lægger da først Mærke til, at for samme Art
+Partikler, d. v. s. samme <i>e</i>/<i>m</i>, vil Afbøjningen
+blive desto større, jo mindre Hastigheden <i>v</i> er,
+endvidere, at Nævneren i Udtrykket for <i>d<sub>e</sub></i> er
+proportional med den levende Kraft (1/2 <i>m</i> <i>v</i><sup>2</sup>)
+af Kanalstraalepartiklen. Af dette sidste følger,
+at Partikler med samme levende Kraft og
+samme Ladning <i>e</i> vil faa samme Afbøjning. Nu vil
+en Kanalstraalepartikel med en enkelt
+Elementarladning og en Katodestraalepartikel, der jo
+er en Elektron, begge have samme absolutte
+Ladning (men forsk. i Fortegn), og da de som
+omtalt begge faar Hastighed af Katodefaldet,
+vil deres levende Kraft og dermed deres
+Afbøjning i samme elektriske Felt være ens (ell.
+i hvert Fald af samme Størrelsesorden, idet
+Kanalstraaledelene ikke alle har deres positive
+Ladning gennem hele Katodefaldet).
+
+Anderledes forholder det sig med den
+magnetiske Afbøjning. Havde Feltet været
+magnetisk i St f. elektrisk og haft Styrken <i>H</i>, vilde
+den afbøjende Kraft have været <i>e v h</i>/<i>c</i>, hvor <i>c</i>
+er Lysets Hastighed. Her er altsaa Kraften
+proportional med Hastigheden <i>v</i> og derfor
+meget mindre for de langsommere
+Kanalstraalepartikler end for Katodestraalernes Elektroner.
+Kraften hidrørende fra Magnetfeltet vil altid
+være vinkelret paa Partiklens øjeblikkelige
+Hastighed; naar imidlertid Afbøjningen som ved
+K. er lille, vil Banen med god Tilnærmelse
+kunne betragtes som en Kasteparabel, og
+Afbøjningen bliver <i>d<sub>m</sub></i> = 1/2 <i>e v h</i>/<i>m c</i> · <i>l</i><sup>2</sup>/<i>v</i><sup>2</sup>. Den vil gaa
+vinkelret ind mod Papirets Plan under
+Forudsætning af, at +A og —A nu betyder henh.
+Nordpolen og Sydpolen af en Elektromagnet.
+
+Ofte underkaster man Straalen samtidig et
+elektrisk og et magnetisk Felt, idet den
+yderste Del af Polskoene er isoleret fra den øvrige
+Magnet og kan gives den fornødne
+Spændingsforskel. Derved kommer Kraftlinierne i de to
+Felter til at gaa i samme Retning, og de
+Afbøjninger, de frembringer, vil gaa vinkelret paa
+hinanden. Opfanger man Straalen paa en
+fluorescerende Skærm (ved <i>D</i>) ell. endnu bedre paa
+en fotografisk Plade, kan man paa den udmaale
+Afbøjningerne
+hidrørende fra de to Felter,
+og da man tillige kan
+bestemme Felternes
+Styrke, faar man ved
+Indsætning i de ovf.
+givne Formler bestemt
+saavel Forholdet <i>m</i>/<i>e</i>
+som Hastigheden <i>v</i> af
+Kanalstraaledelene. I
+Fig. 4 er gengivet en
+saadan fotografisk
+Optagelse af
+Kanalstraalernes Afbøjning i et
+med ren Brint fyldt
+Rør. Til Forklaring af
+Billedet tjener den
+tilsvarende skematiske
+Tegning i Fig. 5. Midt
+i Figuren ses en stærk
+Sværtning <i>O</i>,
+hidrørende fra de neutrale og
+derfor uafbøjede Dele
+af Straalen. Som
+omtalt i forrige Afsnit vil
+de neutrale Dele ofte være i Overvægt. De
+positivt ladede Dele har faaet en Afbøjning til højre
+af det elektriske Felt og er samtidig afbøjet
+opad af det magnetiske. I Fig. angiver +H
+det Sted, hvor Straaler af positive Brintatomer
+føres hen. Hvis de
+alle havde haft
+samme Hastighed,
+vilde der være
+fremkommet en
+punktformet
+Sværtning, men da
+de ikke har det,
+trækkes Straalen
+ud til en Streg,
+som kan vises at
+være en Del af
+en Parabel. De
+mindst afbøjede
+Dele af denne er frembragt af de hurtigste
+Brintatomer. Ved +H<sub>2</sub> er antydet en anden Parabel,
+som hidrører fra positivt ladede Brintmolekyler.
+Man lægger Mærke til, at den mindste
+elektriske Afbøjning er ens for begge Parabler, idet
+de begynder i samme lodrette Linie. Dette
+betyder efter den ovf. givne Teori, at den
+levende Kraft er ens for de to Straaledele, hvad der
+forklares ved, at de begge med samme Ladning
+har gennemløbet hele Katodefaldet. Hver Art
+af Partikler vil tegne sin Parabel, hvis
+Beliggenhed kun afhænger af Forholdet <i>m</i>/<i>e</i>. Da <i>e</i>
+er lig det elektriske Elementarkvantum ell. et
+lille Multiplum deraf, vil <i>m</i>/<i>e</i> være proportional
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>

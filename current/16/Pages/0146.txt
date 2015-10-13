@@ -1,0 +1,137 @@
+Tonehøjde, f. Eks. for Toner fra forsk.
+Musikinstrumenter.
+
+L.'s <sp>Hastighed</sp> er væsentlig bestemt ved
+det Stof, hvori L. forplanter sig. Der kan ikke
+paavises nogen Afhængighed af Tonhøjde og
+Kvalitet; høje og dybe Toner forplanter sig
+altsaa lige hurtig. Derimod spiller Styrken for
+saa vidt en Rolle, som meget voldsomme
+Forstyrrelser i Luften, f. Eks. den, en Kanon
+frembringer i sin Nærhed ved Affyringen, forplanter
+sig med større Hastighed end alm. L. Bortset
+herfra er Hastigheden ikke i nogen paaviselig
+Grad afhængig af Lydstyrken, og i Luft af given
+Beskaffenhed er der altsaa en enkelt, bestemt
+Værdi for L.'s Hastighed. Allerede omkr.
+Midten af 17. Aarh. blev der gjort Forsøg paa at
+bestemme denne Hastighed, men de første
+nøjagtige Maalinger skyldes en Kommission,
+nedsat af Paris-Akademiet, der 1738 anstillede
+Forsøg i Nærheden af Paris. Paa en Station blev
+en Kanon affyret med regelmæssige Mellemrum,
+og paa et Antal andre Stationer iagttog man
+den Tid, der forløb, fra man saa Glimtet af
+Kanonen, til man hørte Knaldet. Da Iagttagerne
+stod i forsk., nøjagtig udmaalte Afstande fra
+Kanonen, kunde L.'s Hastighed i forsk.
+Retninger beregnes. Man fandt, at Hastigheden er
+uafhængig af Baromterstanden, at den vokser
+med Luftens Temp. og at den er den samme i
+forsk. Afstande fra Lydgiveren, altsaa
+uafhængig af Lydstyrken. L. gaar hurtigere med
+Vinden end mod Vinden, og dens Hastighed i
+stille Luft fandtes at være 337 m i Sek. Da
+Temp. var nogle Grader over Nul, vil heraf
+følge en Lydhastighed af omtr. 332 m ved 0°.
+Senere Forsøg har givet lgn. Resultater. 1871
+fandt Stone ved Forsøg, der udførtes i
+Nærheden af Kapstaden under Iagttagelse af alle
+Forsigtighedsregler, at Hastigheden i tør Luft
+ved 0° er 332,4 m i Sek. Tidligere havde
+Regnault ved Forsøg over L.'s Hastighed i lange
+Rør fundet, at Hastigheden i fri Luft ved 0°
+skal være 330,6 m, men der er Grund til at tro,
+at denne Værdi er lidt for lav. Af
+Hastigheden ved 0° beregnes Hastigheden ved enhver
+anden Temp., idet Teori og Forsøg
+overensstemmende giver, at Hastigheden skal være
+proportional med Kvadratroden af den
+absolutte Temp., ɔ: Temp. efter
+Celsius-Termometeret plus 273°. Herved faas, at Hastigheden ved
+÷ 20° er 320,0 m, ved ÷ 10° 326,3 m, ved 0°
+332,4 m, ved 10° 338,4 m, ved 20° 344,3 m og ved
+30° 350,2 m. Mellem ÷ 10° og + 20° kan man
+altsaa regne, at Hastigheden stiger med 0,6 m for
+hver Grads Temperaturstigning. Forsøg i
+Alperne har vist, at Højdeforskellen mellem
+Stationerne ikke har anden Indflydelse paa L.'s Hastighed
+end den, der skyldes Temp. — En
+<sp>Beregning</sp> af L.'s Hastighed paa Grundlag af
+Luftens Elasticitet og Tæthed er først udført af
+Newton. En saadan Beregning fører til det
+Resultat, at L.'s Hastighed, maalt i Centimeter pr.
+Sek., er lig Kvadratroden af Forholdet mellem
+Mediets absolutte Elasticitetskoefficient og
+Tætheden. Elasticitetskoefficienten er Forholdet
+mellem et vilkaarligt Rumfang af Mediet og den
+Formindskelse, dette Rumfang lider ved en
+Tryktilvækst af 1 Dyn. pr. cm<sup>2</sup>. Tætheden er
+Antallet af Gram i en cm<sup>3</sup>. Ved Beregning af
+Elasticiteten maa man erindre, at Mediets
+Rumfangsforandringer sker saa hurtig, at der ingen
+kendelig Varmeudveksling med Omgivelserne
+kan finde St.; herved bliver for Luften (se
+<sp>Luft</sp>) Modstanden mod smaa
+Sammentrykninger 1,405 Gange saa stor, som den vilde være,
+hvis Luften holdt sin Temp. uforandret under
+Sammentrykningen. Dette Forhold, som
+Newton ikke kendte, blev først paavist af Laplace.
+— I <sp>Vand</sp> er L.'s Hastighed iflg. Colladon og
+Sturm's Forsøg paa Genfersøen (1826) 1435 m
+i Sek. ved 8,1°. Dette stemmer ret godt med
+Teorien, men nyere Forsøg har vist, at for
+voldsomme Lydbølger, fremkaldte ved
+Eksplosion af Skydebomuld under Vand, er
+Hastigheden betydelig større, indtil over 2000 m.
+Mellem L.'s Hastighed <i>v</i>, Bølgelængden <i>L</i> og
+Svingningstiden <i>t</i> bestaar den sædvanlige
+Sammenhæng (se <sp>Bølgebevægelse</sp>), der
+udtrykkes ved Ligningen <i>L</i> = <i>vt</i>. Indføres
+<sp>Svingningstallet</sp> <i>n</i>, ɔ: Antallet af Svingninger i
+et Sek., kan Ligningen skrives <i>v</i> = <i>nL</i>. Kan
+man bestemme Bølgelængden og
+Svingningstallet, har man altsaa herved et Middel til at finde
+Hastigheden. Bølgelængden kan bestemmes ved
+<sp>Resonans</sp>. En Stemmegaffel, hvis
+Svingningstal kendes, anslaas og holdes tæt over
+Mundingen af et højt, nogle faa Centimeter vidt
+Cylinderglas. Som Regel vil Tonen ikke derved
+blive kendelig stærkere. Hælder man nu
+langsomt Vand i Glasset, vil man finde, at naar
+Vandet har naaet en vis Højde, bliver Tonen
+meget stærkere, men naar man hælder endnu
+mere i, svækkes den atter. Er Glasset højt nok,
+vil Tonen atter forstærkes, naar Vandfladen har
+naaet en vis ny Højde o. s. v. Stemmegaffelen
+fremkalder nemlig i Røret staaende
+Svingninger, hvis <sp>Knuder</sp> findes paa de St., hvor
+Luftdelene ikke flytter sig, men hvor derimod
+Trykket skifter i Takt med Stemmegaffelens
+Svingninger. Rørets Bund, ɔ: Vandets
+Overflade, er altid en Knudeflade, naar der er
+Resonans, og da Afstanden mellem to Knuder er
+en halv Bølgelængde, vil Højdeforskellen
+mellem to Vandflader, der svarer til god Resonans,
+være et helt Antal halve Bølgelængder. Fylder
+man Røret med Kulsyre, vil Knudefladerne
+rykke nærmere sammen til Tegn paa, at L.'s
+Hastighed er mindre i denne Luftart, nemlig
+omtrent 4/5 af Hastigheden i Atmosfæren.
+I Brint er Hastigheden derimod efter
+Regnault 3,8 Gange Hastigheden i Luft. Medens en
+Tone, der gør 34 Svingninger i Sek., har Bølger
+paa ca. 10 m's Længde ved alm. Stue temp., vil
+der til en Tone, som udfører 34000
+Svingninger, svare Bølgelængder paa kun 1 cm. Men
+selv disse korte Lydbølger er 20000 Gange saa
+lange som Lysbølger fra den grønne Del af
+Spekteret, og denne Forskel i Størrelse gør, at
+L. viser andre Forhold end Lys ved
+Tilbagekastning, Brydning og Evne til at danne
+Straaler og bøje om Hjørner. Det er nemlig en alm.
+Regel (smlg. <sp>Bøjning</sp>), at en Bølgebevægelse
+kun tydelig følger de simple Love for
+Tilbagekastning og Brydning, naar de Genstande, den
+træffer, er store i Sammenligning med en
+Bølgelængde. Forholdsvis smaa Genstande lader

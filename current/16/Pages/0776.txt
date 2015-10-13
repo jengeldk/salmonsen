@@ -1,0 +1,110 @@
+Statsanstalter som Statsprøveanstalten (s. d.) i
+Kbhvn, Statens Provningsanstalt i Sthlm,
+medens Højskolernes M. kun bruges til
+videnskabelige Undersøgelser og Undervisning. Der
+findes ogsaa private M., der, ligesom Statens,
+udfører alle begærede Undersøgelser mod
+Betaling, og store Virksomheder har undertiden
+M. udelukkende til eget Brug.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Materialprøvemaskiner">
+<b>Materialprøvemaskiner</b> bruges til at
+undersøge de i Teknikken anvendte faste Stoffers
+Styrke, Elasticitet, Sejghed, Haardhed,
+Slidfasthed o. s. v.
+
+Styrkeprøvemaskinerne danner den største
+Gruppe. De skal som Regel kunne udvikle en
+meget stor Kraft og maa samtidig være
+forsynet med Apparater, der maaler denne Kraft
+med en Nøjagtighed af 1—2 %. Det er i
+Hovedsagen Maaden, hvorpaa Kraften maales, der
+adskiller Maskinerne fra hverandre, medens
+Kraftens Frembringelse enten sker ved et
+hydraulisk drevet Stempel ell. en mekanisk drevet
+Skrue. Kraften skal stige jævnt, uden Stød,
+medmindre man netop vil prøve Stødkræfters
+Virkning (se <sp>Slagforsøg</sp>). Der haves
+Maskiner, der udelukkende er bestemt til enten
+Træk-, Tryk- ell. Bøjningsforsøg og
+udelukkende til et bestemt Materiale, f. Eks. Metaltraad
+(se <sp>Traadprøvning</sp>) eller Mørtel (se
+<sp>Mørtelstyrke</sp>), og saadanne
+Specialmaskiner er naturligvis at foretrække, naar
+samme Prøve skal udføres ofte, men her skal
+navnlig omtales de saakaldte
+Universalmaskiner, d. v. s. Trækprøvemaskiner, der mere ell.
+mindre let kan ombygges til Tryk og Bøjning,
+og hvis Bygning som Regel er meget kraftig,
+hyppigt svarende til en Maksimalydelse af 50 t.
+
+Den simpleste Maade at udføre et Trækforsøg
+paa, er at ophænge Prøvestangen lodret og
+belaste dens nedre Ende med Lodder, der da
+samtidig frembringer og afvejer Kraften.
+Denne Fremgangsmaade er meget paalidelig, men
+besværlig, naar Prøvelegemerne ikke er meget
+svage. Ved noget stærkere Legemer han man
+lade Lodderne virke gennem et
+Vægtstangsapparat, der forøger deres Virkning, og dette
+bruges f. Eks. ved Trækforsøg med
+Cementmørtel (se <sp>Mørtelstyrke</sp>), men ved de
+fleste M. er Kraftens Frembringelse og
+Maaling uafhængige af hinanden. Kraften
+frembringes enten ved en hydraulisk Presse ell. en mek.
+drevet Skrue, medens den maales ved et
+Vægtstangsapparat ell. ved et Manometer. Rent
+skematisk er en saadan Anordning vist i Fig. 1;
+<i>P</i> betegner her Prøvestangen, der skal trækkes
+over; dens nederste Ende er forbundet med
+Stemplet i en hydraulisk Presse, den øverste
+Ende med Vægtstangen <i>AOB</i>
+(Omdrejningspunkt <i>O</i>), der holdes vandret ved Forøgelse af
+Lasten paa Vægtskaalen, efterhaanden som
+Trykket i Pressen vokser. Fra dette simple
+Princip er der imidlertid mange Afvigelser i
+de virkelig udførte Maskiner; Prøvestykket kan
+anbringes i lodret ell. vandret Stilling,
+hvorefter Maskinen kaldes staaende ell. liggende;
+Kraftfrembringeren og Kraftmaaleren kan have
+fat ved samme Ende af Prøvestykket begge to
+(Fig. 3) ell. som i Fig. 1 ved hver sin Ende;
+de Vægtstangssystemer, der maaler Kraften,
+kan enten være indrettede som Bismere med
+forskydeligt Lod (Fig. 2), som
+Vinkelvægtstænger med løse Lodder (<i>W</i> i Fig. 3) ell. som
+Pendulvægte.
+
+De kraftigste M. findes bl. de hydrauliske,
+saaledes har Prøveanstalten i Berlin en
+Maskine, der kan trykke med 3000 t og trække
+med 1500 t, og <i>Bureau of Standards</i> i
+Washington har en 4530 t Presse (Tinius Olsen), den
+stærkeste M., der eksisterer. Ved hydrauliske
+M. kan Kraften maales ved et paa den
+hydrauliske Cylinder anbragt Fjermanometer, men
+dette maaler ogsaa Stempelfriktionen og er ikke
+meget paalideligt og derfor lidet anvendt;
+naar Fjermanometret erstattes med et aabent
+Kvægsølvmanometer ell. et Pendulmanometer,
+og Stemplet gøres friktionsløst, opnaas derimod
+gode Resultater (Amsler). Navnlig ved de
+hydrauliske, men ogsaa ved de mekaniske M.
+bruges i stigende Grad <sp>Maaledaaser</sp> (s.
+d.) som Kraftmaalere.
+
+Af M. med Kraftskrue og Vægtstangsapparat
+til Kraftmaaling kan nævnes: Gravenstaden,
+Mohr & Federhaff (Fig. 2), Düsseldorfer
+Maschinenbau Aktiengesellschaft, Tarnogrocky,
+Schopper, Fairbanks, Avery, Riehle, Tinius
+Olsen; de to sidste anvendes næsten overalt i
+U. S. A., og ogsaa meget i Europa.
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2. Mohr & Federhaff's Materialprøvemaskine.</img>
+
+<img>Fig. 3. Werder's Materialprøvemaskine.</img>

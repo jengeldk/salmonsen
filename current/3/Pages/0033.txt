@@ -1,0 +1,42 @@
+<h1>BERGEN</h1>
+<img></img>
+
+<table>
+<td r>1.<td><i>Katten.</i>
+<td r>2.<td><i>Fredriksberg.</i>
+<td r>3.<td><i>Toldboden.</i>
+<td r>4.<td><i>Nykirken.</i>
+<td r>5.<td><i>Sygehus.</i>
+<td r>6.<td><i>Teater.</i>
+<td r>7.<td><i>Museum.</i>
+<td r>8.<td><i>Johannes Kirke.</i>
+<td r>9.<td><i>St. Pauli Kirke.</i>
+<td r>10.<td><i>Jernbanestation, gl.</i>
+<td r>11.<td><i>Marine-Etablissement.</i>
+<td r>12.<td><i>Bergenhus Fæstning.</i>
+<td r>13.<td><i>St. Marie Kirke.</i>
+<td r>14.<td><i>Børsen.</i>
+<td r>15.<td><i>Korskirken.</i>
+<td r>16.<td><i>Raadhus.</i>
+<td r>17.<td><i>Tugthus.</i>
+<td r>18.<td><i>Domkirken.</i>
+<td r>19.<td><i>St. Jørgens Hospital.</i>
+<td r>20.<td><i>Stadsporten.</i>
+<td r>21.<td><i>Plejestiftelsen for Spedalske Nr. 1.</i>
+<td r>22.<td><i>Lungegaardshospitalet.</i>
+<td r>23.<td><i>Basar.</i>
+<td r>24.<td><i>Sverresborg.</i>
+<td r>25.<td><i>Sandvikens Kirke.</i>
+<td r>26.<td><i>Haakons-Hallen.</i>
+<td r>27.<td><i>Walkendorfs Taarn.</i>
+<td r>28.<td><i>Biologisk Station.</i>
+<td r>29.<td><i>Jernbanestation, ny.</i>
+<td r>30.<td><i>Det nye Teater.</i>
+<td r>31.<td><i>Kunstindustrimuseum.</i>
+<td r>32.<td><i>Triangelen.</i>
+<td r>33.<td><i>Fiskebryggen.</i>
+<td r>34.<td><i>Logen.</i>
+<td r>35.<td><i>Norges Bank.</i>
+<td r>36.<td><i>Latinskolen.</i>
+<td r>37.<td><i>Tekniske Skole</i>
+</table>

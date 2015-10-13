@@ -1,0 +1,130 @@
+<sp>Koblingsfrekvenserne</sp> <i>m<sub>1</sub></i> og <i>m<sub>2</sub></i>, i
+begge Kredse. For disse gælder, at den
+mindste af Koblingsfrekvenserne er mindre end den
+mindste og den største større end den største
+af de naturlige Frekvenser. Selv i det Tilfælde,
+hvor <i>n<sub>1</sub></i> — <i>n<sub>2</sub></i>, hvor altsaa de to Kredse <sp>før</sp>
+Koblingen har samme naturlige Frekvens,
+opstaar der dog to forsk. Frekvenser i det
+koblede System, se Fig. 6. Forskellen mellem <i>m<sub>1</sub></i>
+og <i>m<sub>2</sub></i> er desto større, jo fastere Koblingen er.
+
+Samvirkningen af de to Koblingssvingninger
+med forsk. Frekvens, der findes i begge Kredse,
+resulterer i, at den ikke forbrugte Del af
+Svingningsenergien — i hvert Fald delvis — vandrer
+frem og tilbage mellem Primær- og
+Sekundærkreds. For <i>n<sub>1</sub></i> = <i>n<sub>2</sub></i> er Energivandringen
+fuldstændig, saaledes at hver af de to Kredse
+periodevis i et Øjeblik er i Besiddelse af hele den
+resterende Svingningsenergi, medens den
+andens Energi samtidig er lig med Nul, se Fig. 7.
+Afbrydes Primærstrømmen paa det Tidspunkt
+<i>t<sub>1</sub></i>, hvor hele Svingningsenergien befinder sig i
+Sekundærkredsen, saa maa Energien forblive i
+denne, der da svinger ganske, som om
+Primærkredsen ikke var til Stede, altsaa med
+Frekvensen <i>n<sub>2</sub></i>, se Fig. 8. Afbrydningen af
+Primærkredsen kan ske ved at »slukke« Gnisten, hvorom
+senere. Disse Forhold har stor Bet. for koblede
+Gnistsendere.
+
+<sp>Diskontinuerlige og
+kontinuerlige Svingninger</sp>.
+
+Karakteristisk for de foran omhandlede,
+diskontinuerlige Svingningstog er, at hele
+Svingningsenergien ved Svingningens Beg. befinder
+sig i det svingende System. De med
+Svingningens Opretholdelse forbundne Energitab
+(Opvarmning af Lederne, Gnisttab, Udstraaling m.
+m.) maa derfor tages fra den opr.
+Svingningsenergi, og Svingningernes Amplitude maa som
+Følge deraf stadig aftage. Man faar altsaa
+<sp>aftagende</sp>, <sp>dæmpede</sp>,
+<sp>diskontinuerlige Svingningstog</sp>. Ved
+<sp>kontinuerlige</sp>, <sp>vedvarende Svingninger</sp>
+tilføres derimod i <sp>hver</sp> Periode den til
+Svingningernes Opretholdelse i <sp>een</sp> Periode
+nødvendige Energi, saaledes at Svingningernes
+Amplitude opretholdes uforandret. Forholdene
+er vist skematisk i Fig. 9. For kontinuerlige,
+vedvarende Svingninger benyttes ofte, men ikke
+helt korrekt, Betegnelsen <sp>udæmpede</sp>.
+Svingningernes Opretholdelse vil altid være
+forbundet med et vist Energitab, en vis Dæmpning;
+men ved de kontinuerlige Svingninger
+kompenseres dette Energitab inden for hver Periode
+af den i Løbet af samme Tid tilførte Energi.
+
+<sp>Inducerede Svingninger i en
+enkelt Kreds</sp>.
+
+Den E. M. K. virker i Kredsen i Serie med
+Traadrulle og Kondensator.
+
+En enkelt Kreds, der indeholder Selvinduktion
+(<i>L</i>), Modstand (<i>R</i>) og Kapacitet (<i>C</i>), paavirkes
+af en ren Vekselspænding med den E. M. K.
+<i>e</i> = <i>E <sub>m</sub>cosωt</i>, der er i Serie med <i>L</i>, <i>R</i> og <i>C</i>
+(se Fig. 10).
+
+Denne Paavirkning kan fremkomme paa flere
+Maader, af hvilke der i Fig. 10 er vist to. Vi
+betragter foreløbig kun det Tilfælde, hvor den
+E. M. K., Kredsens Traadrulle (<i>L</i>) samt
+Kondensatoren (<i>C</i>) alle 3 er i Serie, ω kaldes
+Paavirkningens Vinkelfrekvens og <i>f</i> = ω/2π dens
+Frekvens.
+
+Har den E. M. K. <i>e</i> = <i>E<sub>m</sub> cosωt</i> virket saa
+længe, at de Egensvingninger i Kredsen, der
+eventuelt fandtes i ell. opstod ved
+Paavirkningens Beg., kan betragtes som fuldstændig
+hendøde, vil der i Kredsen findes en induceret ell.
+paatvunget Svingning med samme Frekvens som
+Paavirkningen. Amplituden <i>Q<sub>m</sub></i> af Ladningen
+paa Kondensatoren og Strømamplituden <i>J<sub>m</sub></i> er
+bestemt ved:
+
+<i>Q<sub>m</sub></i> = <i>E<sub>m</sub></i>/ω <i>R</i> √1 + (1/C—ω <i>L</i>/ω <i>r</i>)<sup>2</sup>
+og 
+<i>I<sub>m</sub></i> = <i>E<sub>m</sub></i>/<i>R</i> √1 + (1/C—ω <i>L</i>/ω <i>r</i>)<sup>2</sup>.
+
+Den Effekt, <i>P</i>, der tilføres Kredsen, er
+bestemt ved
+
+<i>P</i> = 1/2 <i>I<sub>m</sub></i><sup>2</sup> = 1/2 · <i>E<sub>m</sub>2</i>/<i>R</i>(1+(1/<i>C</i> — ω<sup>2</sup> <i>L</i>/ω <i>R</i>)<sup>2</sup>).
+
+Tænker vi os, at Paavirkningens Frekvens
+holdes konstant, og at Kredsens Selvinduktion
+og Modstand ligeledes forbliver uforandret,
+medens vi varierer Værdien af Kondensatoren <i>C</i>,
+saa vil den inducerede Strøms Amplitude (<i>J<sub>m</sub></i>)
+og som Følge deraf ogsaa den til Kredsen
+afgivne Effekt (<i>P</i>) afhænge af Værdien af <i>C</i>,
+altsaa af <sp>Kredsens Indstilling</sp> eller
+<sp>Afstemning</sp>, idet Kredsens Egenfrekvens er
+afhængig af <i>C</i>. For (1/C — ω<sup>2</sup> <i>L</i>) = 0, altsaa for
+<i>h</i> = ω, antager <i>J<sub>m</sub></i> og <i>P</i> deres største
+Værdier, nemlig: <i>I<sub>mmax</sub></i> = <i>E<sub>m</sub></i>/<i>R</i> og <i>P<sub>max</sub></i> = <i>E<sub>m</sub>2</i>/2 <i>R</i>.
+
+Den inducerede Strøm har i dette Tilfælde
+nøjagtig samme Forløb og den tilførte Effekt
+samme Værdi, som de vilde have, hvis Kredsen
+hverken indeholdt Selvinduktion ell. Kapacitet,
+men kun Modstanden <i>R</i>. Spændingsamplituden
+<i>V<sub>mmax</sub></i> over Kondensatoren har i dette
+Tilfælde for svagt dæmpede Kredse Værdien
+
+<i>V<sub>mmax</sub></i> = 1/2 <i>S E<sub>m</sub></i> = π/δ <i>E<sub>m</sub></i>.
+
+<i>V<sub>mmax</sub></i> kan for meget selektive Kredse blive
+meget større end Amplituden <i>E<sub>m</sub></i> af den
+paavirkende E. M. K. Man siger derfor ogsaa, at
+Kredsen i dette Tilfælde er i
+<sp>Spændingsresonans</sp> (ell. simpelthen <sp>Resonans</sp>) med
+Paavirkningen, ell. udtrykt paa anden Maade,
+at Kredsen er <sp>afstemt</sp> til Paavirkninger
+Frekvens. Skyldes Kredsens Paavirkning udefra
+kommende elektromagnetiske Bølger, siger man,

@@ -1,0 +1,107 @@
+<table>
+<td v2><td c>Samlet<br>Indførsel<td c>Udførsel af<br>indenlandske<br>Varer<td c>Udførsel af<br>fremmede<br>Varer
+<td c>1000 Kr.<td c>1000 Kr.<td c>1000 Kr.
+<td>Skind, Huder, Haar, Fjer, Ben m. m.<td r>36619<td r>28757<td r>5982
+<td>Arbejder af Haar, Skind, Ben m. m.<td r>5592<td r>110<td r>257
+<td>Talg, Olie, Kautsjuk m. v.<td r>105331<td r>50843<td r>11502
+<td>Arbejder af Kautsjuk  m. v.<td r>19529<td r>2206<td r>1261
+<td>Træ, ubearbejdet eller groft forarbejdet<td r>51332<td r>512<td r>994
+<td>Træ, forarbejdet<td r>27733<td r>2756<td r>873
+<td>Forskellige Plantestoffer<td r>114139<td r>1976<td r>625
+<td>Papir og Arbejder heraf<td r>28369<td r>1602<td r>791
+<td>Andre Fabrikater af Plantestoffer<td r>1982<td r>335<td r>119
+<td>Kemisk-tekniske Artikler o. l.<td r>26466<td r>8902<td r>1280
+<td>Gødningsstoffer<td r>64984<td r>396<td r>182
+<td>Mineralske Brændselsstoffer<td r>118374<td r>201<td r>259
+<td>Andre raa eller groft bearbejdede Mineralier<td r>21589<td r>24256<td r>182
+<td>Varer af Sten, Ler, Glas<td r>27876<td r>3519<td r>1484
+<td>Raat eller groft forarbejdet Jern o. l.<td r>73385<td r>5167<td r>1297
+<td>Mere forarbejdede Jernvarer<td r>38159<td r>12848<td r>3378
+<td>Andre raa Metaller og groft forarb. Varer heraf<td r>26456<td r>4827<td r>456
+<td>Mere forarb. Varer af andre Metaller end Jern<td r>17265<td r>5897<td r>1186
+<td>Skibe<td r>4204<td r>36506<td r>-
+<td>Vogne o. l., Maskiner, Instrumenter, Ure<td r>139466<td r>85241<td r>14534
+<td>Andre Varer<td r>30406<td r>14589<td r>3232
+<td r>I alt<td r>1792348<td r>1610412<td r>96690
+</table>
+
+Nu som før Krigen faar vi omtrent 1/3 af vor
+Indførsel fra Tyskland og sender 3/5 af vor
+Udførsel til England. I øvrigt henvises til
+følgende Tabel over Handelsomsætningen i 1929:
+<table>
+<td><td c>Samlet<br>Indførsel<br>1000 Kr.<td c>Samlet<br>Udførsel<br>1000 Kr.
+<td>Tyskland<td r>587680<td r>339651
+<td>Storbritannien<td r>263167<td r>962023
+<td>Norge<td r>38242<td r>66222
+<td>Sverige<td r>123333<td r>108979
+<td>Finland<td r>15319<td r>29145
+<td>Rusland<td r>36311<td r>5239
+<td>Polen og Danzig<td r>35252<td r>15787
+<td>Tscekkoslovakiet<td r>18017<td r>4566
+<td>Holland<td r>72729<td r>12159
+<td>Belgien<td r>42600<td r>7835
+<td>Frankrig <td r>68980<td r>11776
+<td>Schweiz<td r>13769<td r>15174
+<td>Italien<td r>13381<td r>8373
+<td>U. S. A.<td r>239046<td r>18541
+<td>Andre Lande<td r>224522<td r>101632
+<td r>I alt<td r>1792348<td r>1707102
+</table>
+
+<sp>Handelsflaade</sp>. Under Krigen led den
+danske Handelsflaade svære Tab som Følge af
+Torpederinger, Søminer etc. Tabene fremgaar af
+følgende Oversigt:
+<table>
+<td><td>1915<td>1916<td>1917<td>1918
+<td>Antal krigsforliste Skibe<td r>10<td r>38<td r>81<td r>17
+<td>Brutto Registertonnage<td r>18157<td r>54738<td r>117397<td r>32738
+<td>Skibenes Assurance i 1000 Kr.<td r>3265<td r>26666<td r>84853<td r>31697
+<td>Tab af Menneskeliv<td r>2<td r>10<td r>154<td r>72
+</table>
+
+I de følgende Aar er Flaaden dog atter
+genopbygget og havde ved Udgangen af 1928
+følgende Størrelse:
+<table>
+<td><td c>Antal<br>Skibe<td c>Registertons<br>brutto
+<td>Dampskibe<td r>602<td r>733271
+<td>Motorskibe uden Sejl<td r>120<td r>285398
+<td 3>Sejlmotorskibe:
+<td><tab>Til Fiskeribrug<td r>356<td r>11326
+<td><tab>Andre<td r>571<td r>39224
+<td>Sejlskibe<td r>160<td r>26925
+<td r>I alt<td r>1809<td r>1096144
+</table>
+
+Bemærkelsesværdig er den stærke Stigning
+siden Krigen i Tallene for Motorskibe.
+Ovenstaaende Tal omfatter kun Skibe med en
+Tonnage paa over 20 Reg.-T.; af Skibe med en
+Tonnage paa 5—20 Reg.-T. findes henimod 3000
+med c. 28000 Reg.-T. Den samlede Fiskerflaade
+udgjorde ved Udgangen af 1927: 7960 Damp-,
+Motor- og Sejlfartøjer og 7666 Robaade og
+Pramme.
+
+<sp>Skibsfarten</sp> mellem danske Havne
+indbyrdes (Kystfarten) fremgaar af følgende Tal
+for 1928.
+<table>
+<td c>Indgaaende til<br>dansk Havn fra<br>dansk Havn<td c>Registertonnage<br>1000 R. T.<td c>Godsmængde<br>1000<br>Vægttons
+<td>Dampfærgefart<td r>22146<td r>1655
+<td>Rutefart med almindelige Dampskibe<td r>3745<td r>596
+<td 3>Anden Fart med Dampskibe:
+<td><tab>med Ladning<td r>292<td r>492
+<td><tab>uden Ladning<td r>347<td r>0
+<td 3>Fart med Sejlskibe:
+<td><tab>med Ladning<td r>758<td r>147
+<td><tab>uden Ladning<td r>455<td r>0
+</table>
+
+Den indgaaede Godsmængde fra Udlandet
+med Fordeling paa de forskellige Lande er for
+1928 belyst i følgende Tabel, hvor desuden er
+tilføjet den Procentdel af Godset, som er
+transporter et med danske Skibe:

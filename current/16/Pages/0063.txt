@@ -1,0 +1,157 @@
+Luften, vil Trykket mod Pladen staa vinkelret
+paa Pladen og dets Angrebspunkt
+(Trykcentret) falder i Pladens Midtpunkt; c. 2/3 af det
+samlede Tryk vil stamme fra Trykket mod
+Forsiden, c. 1/3 fra Sugningen ved Bagsiden;
+Trykkets Størrelse afhænger af Pladens Form
+og Størrelse; det er større ved et Kvadrat end
+ved en Cirkel. Bevæger den plane Flade sig
+skraat mod Luften, vil der ske en Art
+Ophobning af Luft ved Forkanten af Pladen, saa
+Trykket ikke mere fordeler sig symmetrisk over
+Pladen; Trykcentret vil derfor ikke mere ligge
+i Pladens Midtpunkt, men være forskudt frem
+mod Pladens Forkant; denne Forskydning er
+desto større, jo mindre Vinkel Pladen danner
+med Bevægelsesretningen; i Drager bør
+Træksnoren være fastgjort i Trykcentret. Endvidere
+vil det resulterende Tryk ikke mere staa
+vinkelret paa Pladen; idet Luftdelene under Farten
+glider henad Pladen, vil der komme en
+Gnidningsmodstand, saa det resulterende Tryk
+bliver en Kraft, der med Trykcentret til
+Angrebspunkt hælder lidt bagud i Forhold til Normalen
+til Pladen. Skal f. Eks. en Flyvemaskine bringes
+til at hæve sig ved at føres vandret frem mod
+Luften, maa den lodrette Komposant af dette
+skraat bagud rettede Tryk mod Bæreplanerne
+være større end Tyngdens Træk nedad i
+Maskinen; for at faa størst mulig Bæreevne, maa
+Bæreplanerne have en passende Hældning, og
+det viser sig, at man faar den største
+Kraftvirkning, naar Bæreplanerne halverer Vinklen
+mellem Vindretningen (her vandret) og
+Bevægelsesretningen (skraat opad), samt at
+Bæreplanernes Vinkel med Bevægelsesretningen skal
+være desto mindre, jo større Hastigheden er.
+Dette finder ogsaa Anvendelse ved
+Konstruktionen af Propellerne (Luftskruen). Delene
+nærmest Aksen har en mindre Hastighed end de
+yderste Dele, og maa derfor danne en større
+Vinkel med Omdrejningsplanet end de yderste;
+herved begrundes Propellernes velkendte
+vindskæve Form. — Skal en Plade kunne bevæge sig
+gennem Luften i »Glideflugt«, altsaa f. Eks. under
+Tyngdens Paavirkning glide skraat ned gennem
+Luften, maa Trykcentret falde sammen med
+Pladens Tyngdepunkt; dette kan bl. a. søges
+opnaaet ved at give Pladen en passende
+Hældning, idet Trykcentrets Beliggenhed som nævnt
+afhænger heraf. Falder de to Punkter ikke
+sammen, vil L. og Tyngden tilsammen give et
+Drejningsmoment, saa der fremkommer den
+hvirvlende Bevægelse, som f. Eks. en
+Papirstump udfører, naar den svirrer ned gennem
+Luften. L. er af afgørende Bet. for Sejlskibenes
+Fremdrift gennem Vandet, for Vindmøller og
+for Flyvemaskiner. Smlg. <sp>Vindtryk</sp>. (<sp>Litt</sp>.:
+<sp>la Cour</sp>, »Forsøgsmøllen«, I—IV [1900—03];
+<sp>F. W. Lanchester</sp>, <i>Aeodynamics</i> [London
+1909]; <sp>Samme</sp>, <i>Aerodonetics</i> [London 1910]).
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Lufttrykbaner">
+<b>Lufttrykbaner,</b> se <sp>pneumatiske Baner</sp>.
+</chapter>
+
+<chapter name="Lufttræ">
+<b>Lufttræ,</b> se <sp>Amaranttræ</sp>.
+</chapter>
+
+<chapter name="Lufttræk">
+<b>Lufttræk.</b> Under hvilke Betingelser en
+Luftbevægelse føles som Træk, lader sig ikke alm.
+angive; det beror vel væsentligst paa den
+bevægede Lufts Temp. og Hastighed, men er dog
+ogsaa afhængigt af individuelle Forskelligheder.
+Særlig naar den Luftstrøm, som træffer
+Legemet, er kold, opstaar Trækfornemmelsen; men
+selv naar den har en Temp. som den, ved
+hvilken vi i Alm. befinder os vel, kan den, naar
+den har en forholdsvis stor Hastighed,
+frembringe Kuldefornemmelse, navnlig fordi den
+bevirker en livligere Fordampning fra Hudens
+Aabninger. L. fra Vinduer har man søgt at
+hindre ved forsk. Konstruktioner, der skulde gøre
+Lukket særlig tæt; i samme Øjemed anvendes
+ogsaa Tætningslister af Filt e. l. og dobbelte
+Vinduer. Døre mellem det fri og Opholdsrum
+giver næsten altid ved deres Aabning
+Anledning til L. og bør derfor helst undgaas; lader
+dette sig ikke gøre, kan de værste Ulemper
+fjernes, naar man uden om Døren, der bør
+være selvlukkende, indbygger i Opholdsrummet
+et Slags Forstue, et »Vindfang«, med Vægge af
+c. 2 m's Højde og med særlig Dør til Rummet.
+Lgn. Forstuer, hvor Væggene dannes af
+Tæpper, der kan slaas til Side, kan ogsaa gøre
+nogen Nytte. Ved Ventilationsanlæg, hvor den
+friske Luft tilføres Lokalerne gennem særlige
+Aabninger i deres Vægge, Loft ell. Gulv, maa
+L. søges undgaaet ved en hensigtsmæssig
+Anbringelse af Lufttilførselsaabningerne. Opgaven
+bliver særlig vanskelig, naar den tilførte Luft
+skal bevirke en Afkøling af vedk. Lokale og
+derfor maa være forholdsvis kold.
+<i>Fr. V. M.</i>
+</chapter>
+
+<chapter name="lufttæt">
+<b>lufttæt</b> kalder man et Stof, gennem hvilket
+ingen Luft kan trænge. Som et meget
+paalideligt Stof benyttes Glas, f. Eks. til elektr.
+Glødelamper. Ogsaa Metalplader kan være
+fuldkommen tætte, især i kold Tilstand. Gennem
+Kvægsølv trænger ingen Luft, men andre Vædsker,
+der absorberer Luft (se <sp>Absorption</sp>), kan
+ogsaa lade Luft gaa gennem sig; saaledes
+passerer Kulsyre temmelig let gennem en
+Sæbeboble.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="lufttørt">
+<b>lufttørt</b> kaldes Træ, der har henligget saa
+længe i fri Luft uden for Skoven og beskyttet
+mod Nedbør og Jordfugtighed, at Vægten er
+bleven konstant, ell. rettere at Vægten kun
+varierer periodisk med den omgivende Lufts
+Fugtighedsgrad. Jo mindre Træstykkerne er,
+des før naas dette Punkt, og desuden spiller
+Veddets Karakter en Rolle. Det l. Træ
+indeholder endnu 10—20 % Vand, u. H. t. om
+det er Kerne ell. Splint. Brædder bliver l. i
+Løbet af 2—3 Sommermaaneder, Gulvbjælker af
+Fyr kræver en fuld Sommer, svært Tømmer
+fl. Somre.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Luftudviklingsapparater">
+<b>Luftudviklingsapparater.</b> Alt efter de
+forskellige Fremstillingsmaader for Luftarterne
+anvender man forsk. Apparater til Udvikling af
+disse. Naar det drejer sig om Luftarter, som
+kan udvikles ved Indvirkning af visse Stoffer
+paa hinanden ved alm. Temp., anvender man
+i Laboratoriet hyppig tohalsede Flasker
+(Wulfiske Flasker), som lukkes lufttæt med Propper;
+i den ene af disse anbringes en
+Tilgydningstragt, hvis Rør naar næsten til Flaskens Bund,
+i den anden et Afledningsrør, gennem hvilket
+den udviklede Luftart kan passere bort. Vil
+man i dette Apparat f. Eks. udvikle Brint, da
+kommer man i Forvejen Zinkspaaner i Flasken
+og hælder derpaa fortyndet Svovlsyre gennem
+Tilgydningstragten, saaledes at dennes

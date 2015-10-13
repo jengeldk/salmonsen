@@ -1,0 +1,152 @@
+En Dosisangivelse har efter det her
+udviklede imidlertid ikke megen Værdi uden
+samtidig Kvalitetsangivelse, og herfor ligger
+Forholdene næsten endnu vanskeligere. Idealet
+vilde være at kende den anvendte Straalings
+Energifordeling paa de forsk. Bølgebredder
+(Fig. 9), men i Praksis maa man nøjes med
+meget mindre. Bedst er det at opgive
+Grænsebølgebredden (bestemt spektroskopisk eller af
+Spændingen) samt Absorptionskoefficienten ell.
+Halveringstykkelsen i et bestemt Stof, Al eller
+Cu. Lettere Stoffer kan ikke bruges for haard
+Straaling, da Svækkelsen saa bliver ret
+uafhængig af λ. Om Straalingen er praktisk talt
+homogen, undersøges ved at bestemme
+Absorptionen i et tykkere Lag af det samme Stof;
+faar man samme Absorptionskoefficient i den
+sidst passerede Del af Stoffet som i den første,
+er Straalingen tilstrækkelig homogen. For de
+bløde Straaler, der anvendes ved
+Hudbehandling o. l., er en saadan Angivelse næppe nok,
+men man har endnu ikke noget bedre. I al
+anden Terapi bruges stærkt filtreret Straaling, d.
+v. s., den passerer først en fl. mm tyk Al-Plade
+ell. en 1/2 ell. 1 mm tyk Cu- ell. Zn-Plade.
+Derved afskæres hovedsagelig den blødeste Del af
+Spektret, som vilde paavirke de yderste Lag af
+Organismen skadeligt, men ikke kunde trænge
+i Dybden. En nogenlunde kvalitativ Angivelse af
+Straalingen har man da allerede ved at angive
+Spændingen og det benyttede Filter.
+
+I den daglige Praksis er den foran omtalte
+Sabouraud-Tablet et meget anvendt bekvemt
+Maaleapparat. Men den maa bruges med
+Forsigtighed; kun naar R. altid har samme
+Sammensætning, kan man stole paa dens Angivelser.
+Et andet bekvemt Maaleapparat er
+Fürstenau-Intensimetret, der benytter R.'s Virkning paa
+Selen; det kan faas justeret i R-Enheder.
+Imidlertid er der nu konstrueret meget bekvemme
+Ioniseringsmaaleapparater, dels en Række, hvor
+det lille Ioniseringskammer er forbundet med
+et Elektroskop, og hvor man maaler Tiden for
+et vist Fald af Elektroskopets Blad e. l., dels i
+nyeste Tid Apparater, hvor den yderst lille
+Ioniseringsstrøm ved Elektronrør forstærkes op
+til at kunne maales paa et Visergalvanometer,
+saa at disse Apparater bliver direkte visende.
+Det første er indført af Siemens; justeret giver
+det direkte Antal R-Enheder pr Sek. Ing. A.
+Johnsen har i Samarbejde med Dr. C.
+Baastrup (1925) konstrueret et lgn. Apparat, der
+frembyder forsk. Fordele, saaledes især, at det
+kan kombineres med en Afbryder og indstilles
+til at afbryde Bestraalingen, naar en vis Dosis
+er naaet.
+
+<sp>Praktiske Anvendelser af R.</sp>
+Langt de vigtigste Anvendelser er de
+medicinske, der omtales særskilt. I Skotøjsforretninger
+optages R.-Billeder af Foden i Skoen for at
+undersøge, om Skoen passer. At
+R.-Spektroskopien har givet Mineralogien Middel til at
+undersøge Krystallernes Bygning, er omtalt ovf.
+R.-Spektrenes Simpelhed gør
+R.-Spektralanalysen lettere anvendelig end den alm. optiske
+Spektralanalyse ved kvalitative kem. Analyser.
+Tillige giver den Mulighed for kvantitative
+Analyser ved Maaling enten af Liniernes ell.
+Absorptionens Styrke, Anvendelser, der tegner til
+at faa stor Bet., da de f. Eks. tillader
+kvantitative Mineralanalyser, uden at de forsk.
+Bestanddele først er adskilte. Den
+røntgen-spektroskopiske Udforskning af Krystaller har
+ogsaa faaet stor Bet. for Metallografien, saaledes
+til at forfølge de indre Omdannelser i Jern ved
+Opvarmning o. s. v., og for Studiet af en
+Mængde organiske Stoffers Strukturændring
+under forsk. Forhold; heraf gøres der f. Eks.
+Brug i Kautsjuk- og Kunstsilkefabrikationen.
+Ved Siden heraf har der udviklet sig en vigtig
+Gren af Materialundersøgelser, der blot
+benytter sig af at optage sædvanlige
+R.-Absorptionsbilleder. Man kan saaledes undersøge en
+Sammensvejsnings Godhed, idet Revner i det indre
+af Metallet straks ses paa Billedet. Paa lgn.
+Maade undersøges de enkelte Dele af
+Aeroplaner efter deres Samling, endvidere elektriske
+Kabler, elektriske Isolermaterialer for Indhold
+af ledende Stoffer, endogsaa Golfbolde o. m. a.
+Ved alle saadanne Undersøgelser er Fordelen
+den, at Fejl i det færdige Arbejdes Indre kan
+opdages, selv om Arbejderen har dækket
+derover ved Maling ell. paa anden Maade, hvad
+der naturligvis ogsaa er af betydelig moralsk
+Værdi. Endelig kan man opdage Forfalskninger
+af Perler og Ædelstene ved Sammenligning med
+ægte, og af Malerier. Da de ældre Malerfarver
+gerne indeholder stærkt absorberende Stoffer i
+Modsætning til de nu anvendte, kan ny
+Overmalinger afsløres paa denne Maade, idet et
+overmalet Maleris Røntgenbillede vil vise det
+underliggende Billede uden Spor af de senere
+Overmalinger. Af Anvendelserne til
+Materialundersøgelser kan der ventes en yderligere rig
+Udvikling. (<sp>Litt</sp>.: <sp>E. Marx</sp>, »Handbuch der
+Radiologie«, Bd V [Leipzig 1919], meget
+udførlig, men noget forældet. En Række moderne,
+mere kortfattede, Monografier er <sp>G. W. C.
+Kaye</sp>, <i>X-Rays</i>, 4. Udg. [London 1924]; <sp>P.
+Cermak</sp>, »Die Röntgenstrahlen« [Leipzig 1923]; <sp>M.
+de Broglie</sp>, <i>Les Rayons X</i> [Paris 1922]; <sp>A.
+Dauvillier</sp>, <i>La Technique des Rayons X</i>
+[Paris 1924]. En kortfattet populær
+Fremstilling er <sp>Hj. Taliqvist</sp>, »Röntgenstrålarna«
+[Helsingfors 1923]. Specialværk om
+Spektroskopien: <sp>M. Siegbahn</sp>, »Spektroskopie der
+Röntgenstrahlen« [Berlin 1924]. Af de talrige
+Værker, der behandler R.'s Fysik med særligt
+Henblik paa de med. Anvendelser, kan nævnes
+<sp>J. Rosenthal</sp>, »Praktische Röntgenphysik
+und Röntgentechnik« [Leipzig 1925]; <sp>H.
+Meyer</sp>, »Lehrbuch der Strahlentherapie«, Bd I
+[Berlin 1925]; »Ergebnisse der medizinischen
+Strahlenforschung«, Bd I [Leipzig 1925]).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Rønvik">
+<b>Rønvik,</b> Sindssygeanstalt i Bodin Herred, 3
+km Ø. f. Bodø, bygget 1895—1902 efter Plan af
+Medicinaldirektør Holmboe og Arkitekt L.
+Solberg, bestemt for 230 Syge, Halvparten af hvert
+Køn, fortrinsvis fra Tromsø Stift, aabnet 22.
+Septbr 1902.
+<i>(J. Scharffenberg.). Wt. K.</i>
+</chapter>
+
+<chapter name="Rør (bot.)">
+<b>Rør</b> (hot.) betegner gerne den nedre,
+rørformede Del af et sambladet Bloster (se <sp>Blomst</sp>,
+S. 462).
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Rør (for Vædsker og Luftarter">
+<b>Rør</b> bruges til Ledninger for Vædsker og
+Luftarter, og Metalrør desuden til Fremstilling
+af lette og dog stærke Konstruktioner
+(Automobiler, Cykler, Luftfartøjer). Materialet kan være
+Asfalt, Beton, Cement, Glas, Jernbeton (se

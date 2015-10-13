@@ -1,0 +1,144 @@
+Telefon) opsøger en ledig <sp>Gruppevælger</sp>.
+Denne paavirkes nu af den første Impulsrække
+for Abonnentens Fingerskive og opsøger
+(eventuelt gennem flere i Række efterhaanden
+indkoblede Gruppevælgere) en ledig Ledningsvælger
+i den til Nummeret svarende Gruppe,
+hvorefter den fortsatte Indstilling dirigerer
+Ledningsvælgeren, indtil Nummerets to sidste Cifre
+(Tier og Ener) er opsøgt. Til Monteringen af
+større automatiske T. hører desuden mange
+sindrige og meget komplicerede Vælger- og
+Relaisanordninger. Fig. 7 viser en Del af
+Opstillingen paa en Automatcentral (af Ericsson's
+System). — Vanskeligheden ved Overgangen fra
+manuelle til automatiske T. har bevirket
+Fremkomsten af de saakaldte
+<sp>halvautomatiske Systemer</sp>, hvor Indstillingen af de
+mekaniske Vælgere ikke foretages direkte af
+Abonnenten, men derimod af den Telefonist,
+der paa sædvanlig Maade besvarer Abonnentens
+Opringning. Det halvautomatiske System
+kræver saaledes en Del Centralbetjeningspersonale,
+dog væsentligt mindre end det rent manuelle
+System, idet Indstillingen til Vælgerne udføres
+let og hurtigt ved Nedtrykning af en Række
+Nummerknapper i Ekspeditionsbordet, hvor
+samtidig det pladstagende Multipelfelt kan
+udelades. — Automatiske T. er i de senere Aar
+indrettet i et stort Antal amer. og europ. Byer
+(ved Kbhvn's Telefonaktieselskab findes de
+automatiske T. Amager og Hellerup).
+
+Den første Telefoncentral aabnedes 1878 i
+New Haven og Aaret efter de første T. i London
+og Paris. Udviklingen er senere sket
+overordentlig hurtigt, saaledes at Jordens samlede
+Telefonabonnentantal (1924) er over 24 Mill.,
+hvoraf c. 17 Mill. i Amerika og c. 6,5 Mill. i
+Europa. Telefonens Udbredelse i forsk. Lande
+fremgaar af nedenst. Tabel, der viser, at
+Danmark her indtager en førende Stilling i Europa.
+<table>
+<td c>Aar 1924<td c>Antal<br>install.<br>Telefonapparater<br>ialt<td c>pCt.<br>af<br>hele<br>Verden<td c>Antal<br>install.<br>Telefonapp. pr<br>1000 Indb.
+<td>De forenede Stater i Nordamerika<td r>15369454<td r>62,54<td r>137
+<td>Kanada<td r>1009203<td r>4,11<td r>110
+<td>Danmark<td r>292770<td r>1,19<td r>87
+<td>Sverige<td r>402389<td r>1,64<td r>67
+<td>Norge<td r>167008<td r>0,68<td r>61
+<td>Schweiz<td r>180280<td r>0,73<td r>46
+<td>Tyskland<td r>2242332<td r>9,12<td r>38
+<td>Nederlandene<td r>193268<td r>0,79<td r>27
+<td>Storbritannien og Nord Irland<td r>1148095<td r>4,67<td r>25
+<td>Finland<td r>c. 80000<td r>0,32<td r>23
+<td>Østerrig<td r>135839<td r>0,55<td r>21
+<td>Frankrig<td r>603786<td r>2,45<td r>15
+<td>Belgien<td r>114807<td r>0,47<td r>15
+<td>Ungarn<td r>75207<td r>0,31<td r>9
+<td>Tschekkoslovakiet<td r>103606<td r>0,42<td r>7
+<td>Italien<td r>142603<td r>0,58<td r>4
+<td>Spanien<td r>c. 90000<td r>0,37<td r>4
+<td>Rumænien<td r>31615<td r>0,13<td r>2
+<td>Rusland<td r>130278<td r>0,53<td r>1
+<td>Grækenland<td r>c. 5400<td r>0,02<td r>1
+</table>
+
+Størst Udbredelse har Telefonen i San
+Francisco, hvor der findes 288 Telefonapparater for
+hver 1000 Indb. Herefter følger flere amer. Byer
+med lgn. Antal. I Europa er de tilsvarende
+Tal for Sthlm: 246, Kbhvn: 151, Oslo: 137,
+Berlin: 98, Paris: 70, London: 54. (<sp>Litt</sp>.: <sp>F.
+Lübberger</sp>, »Die Schaltungsgrundlagen der
+Fernsprechanlagen mit Wählerbetrieb«
+[München und Berlin 1920]; <sp>R. G. Kloeffler</sp>,
+Thelephone communication systems [New York
+1925]).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telefonering uden Traad">
+<b>Telefonering uden Traad,</b> se
+<sp>Radiotelefoni</sp>.
+</chapter>
+
+<chapter name="Telefonforstærker">
+<b>Telefonforstærker,</b> Apparat til
+Forstærkning af Telefonstrømme. Forsøgene paa at
+fremstille et Apparat, der paa lgn. Maade som
+ved Telegrafering muliggør en Forøgelse af
+Rækkevidden ved Forstærkning (Regeneration)
+af de svage elektriske Strømme ved Enden af
+en længere Telefonledning blev allerede
+indledet kort Tid efter den elektriske Telefons
+Opfindelse. I Modsætning til Telegrafering, hvor
+det kun drejer sig om simpel Strømslutning og
+Afbrydelse af et Kredsløb, maa ved Telefonering
+Forstærkningen ske saaledes, at saavel Styrke
+som Periodetal af de opr. fra Afsenderen
+udgaaende hurtigt vekslende Telefonstrømme
+stadig nøje gengives paa Modtagerstationen,
+hvilket medfører betydelige Vanskeligheder.
+
+Man har forsøgt at overføre en
+Telefonmembrans Bevægelser mekanisk til Membranen i en
+Mikrofon, der gennem et lokalt opstillet
+Batteri udsender de fornyede Strømme, ganske som
+om Talens Lydsvingninger var den direkte
+Bevægkraft. En saadan <sp>mekanisk T.</sp>, den
+saakaldte <sp>Telemikrofon</sp>, er angivet af S.
+G. Brown og forbedret af Siemens & Halske.
+Modtagertelefonens Membran er her dannet
+som en Staaltunge, der er forbundet med
+Membranen i en kraftig Kulkornsmikrofon. P. Gr. a.
+de svingende Deles Inerti, der foraarsager
+Forvrængning af Taleoverføringen, kan med
+mekaniske T. kun opnaas en temmelig begrænset
+Forstærkningsgrad. Den fra Telemikrofonen
+udsendte Strøm vil i Reglen ikke kunne gøres
+mere end 7 à 8 Gange stærkere end den
+ankommende Strøm, hvilket svarer til en mulig
+Forøgelse af Telefoneringsafstanden med c.
+Halvdelen. For at opnaa bedre Resultater har
+man derfor tidligt søgt efter Midler, hvor
+Omsætningen af de meget svage Energimængder i
+Forstærkeren sker med mindst mulig mekanisk
+Træghed. De mange forsk. Forslag (i Aarene
+1900—1910) til <sp>elektrisk T.</sp> baseret paa
+elektromagnetiske e. l. Virkninger har ikke
+bragt tilfredsstillende Løsning af
+Forstærkningsproblemet, der først i de allerseneste Aar
+er lykkedes paa praktisk anvendelig Maade ved
+Hjælp af <sp>Audionforstærkeren</sp>. Det til
+Grund for denne liggende fysiske Fænomen er
+allerede iagttaget af Hittorf, Crookes o. a., der
+omkr. Midten af forrige Aarh. foretog
+Undersøgelser af elektriske Udladninger i
+luftfortyndet Rum ved Anvendelse af de saakaldte
+Geissler'ske Rør, d. v. s. lukkede Glasrør, i hvis
+Endevægge to med et kraftigt Batteri forbundne
+Elektroder er indsmeltet. Naar
+Luftfortyndingen i Røret er naaet under en vis Værdi,
+fremkommer <sp>Katodestraaler</sp>, dannet af
+elektrisk ladede Partikler med ganske ringe Masse,
+<sp>Elektroner</sp>, der udslynges med stor

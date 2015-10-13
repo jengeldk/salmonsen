@@ -1,0 +1,149 @@
+meget lavt Tryk. Naar Cellen træffes af Lys,
+frigøres der fra Kaliumbelægningen et Antal
+Elektroner, der — indenfor visse Grænser —
+er proportionalt med den Lysmængde, som
+træffer Cellen. Hvis der tilvejebringes en
+passende Spændingsforskel imellem
+Kaliumbelægningen og Traadgitteret, idet Traadgitteret gøres
+positivt, vil alle Elektronerne flyde over til
+Traadgitteret, og der vil saaledes i
+Tilledningerne flyde en elektrisk Strøm, hvis Styrke er
+proportional med Fotocellens Belysning. Det
+fremgaar heraf, at der i Kredsen <i>B<sub>1</sub> Fc R</i> (Fig.
+1) vil gaa en Strøm, der forløber paa samme
+Maade som Belysningen paa Fotocellen og
+derfor faar samme Form som vist i Fig. 3 c.
+Da Spændingen over Modstanden <i>R</i> paavirker
+Gitteret i første Elektronrør i Forstærkeren <i>F</i>,
+vil man i Udgangskredsen af Forstærkeren faa
+en Strøm af Form som vist i Fig. 3 d. Denne
+Strøm kan karakteriseres som en Vekselstrøm
+(»Bærebølge«), der er moduleret i
+Overensstemmelse med Lys- og Skyggeovergangene i
+Billedet (angaaende Modulation, se Artiklen om
+<sp>Radiotelefoni</sp>).
+
+Den modulerede Vekselstrøm sendes ud paa
+Linien til Modtagerstationen, hvis Indretning
+fremgaar af den nederste Del af Fig. 1. Lyset
+fra Metaltraadslampen <i>M<sub>2</sub></i> passerer igennem
+Linsen <i>L<sub>4</sub></i>, et Lysrelais bestaaende af to
+<sp>Nicholske Prismer</sp> (s. d., <i>Suppl</i>.) <i>N<sub>1</sub></i> og <i>N<sub>2</sub></i>,
+imellem hvilke er anbragt en Kerr-Celle <i>K</i>, derfra
+videre gennem Linsen <i>L<sub>3</sub></i>, Prismerne <i>P<sub>3</sub></i> og <i>P<sub>4</sub></i> og
+koncentreres af Linsen <i>L<sub>6</sub></i> i et Punkt paa en
+fotografisk Film, der er viklet omkring Valsen <i>V<sub>2</sub></i>.
+<i>V<sub>2</sub></i> roterer synkront med Afsenderens Valse <i>V<sub>1</sub></i>,
+og <i>L<sub>6</sub></i> og <i>P<sub>4</sub></i> forskydes i Retning af Valsens
+Akse paa samme Maade som <i>P<sub>2</sub></i> og <i>L<sub>3</sub></i> paa
+Afsenderen. Kerr-Cellen bestaar af et Glaskar
+fyldt med Nitrobenzol, hvori der er anbragt to
+Kondensatorplader, og den er anbragt saaledes,
+at Lysbundtet passerer imellem
+Kondensatorpladerne. Det første Nicholske Prisme <i>N<sub>1</sub></i>
+stilles saaledes, at det gennemgaaende Lys er
+polariseret i et Plan, der danner en Vinkel
+paa 45° med Kondensatorpladerne, det andet
+<i>N<sub>2</sub></i> stilles paa Mørke. Hvis man bibringer
+Kondensatorpladerne en Spændingsforskel, vil
+Nitrobenzolen blive dobbeltbrydende, og des mere
+jo større Spændingsforskellen er. Det Lys, der
+er passeret <i>K</i>, vil derfor være elliptisk
+polariseret, og en Del af Lyset vil trænge igennem
+<i>N<sub>2</sub></i>. Fig. 4 viser den Lysmængde, der trænger
+igennem Systemet i Afhængighed af
+Spændingen mellem Kondensatorpladerne.
+
+Den fra Afsenderstationen modtagne
+modulerede Vekselstrøm tilføres Forstærkeren <i>F<sub>2</sub></i>
+(Fig. 1), hvis Udgangsklemmer over
+Polarisationsbatteriet <i>B<sub>2</sub></i> er tilsluttet
+Kondensatorpladerne i Kerr-Cellen. Polarisationsspændingen
+er valgt saaledes, at Kerr-Cellens Arbejdspunkt,
+naar der ikke modtages Signaler, er <i>α</i>, Fig. 4
+(omkring 200 Volt). Hvis der nu modtages en
+Vekselstrøm, vil de positive Halvbølger
+aabenbart give Lys gennem Lysrelaiset, medens de
+negative er uden Virkning. Har
+Vekselstrømmen Form som Fig. 3 d, vil Lysstrømmen
+igennem Nicholprismerne, og dermed
+Belysningen i Billedpunktet paa <i>V<sub>2</sub></i>, forløbe som Fig.
+3 c. Da Bærefrekvensen er saa høj, at Valsen
+kun bevæger sig ganske lidt i Løbet af en
+Periode, vil Filmen efter Fremkaldelse udvise
+en Sværtning, der stemmer overens med
+Kurven Fig. 3 b, og saaledes danne et Negativ til
+Billedet paa Afsenderstationen. Det er iøvrigt
+muligt at faa positive Billeder paa Modtageren.
+Dette opnaas ved at indskyde en ekstra
+Fotocelle paa Afsenderen med Bagsiden mod <i>Fc</i>,
+saaledes at den rammes af en Del af Lyset
+fra <i>L<sub>3</sub></i>; de to Fotoceller forbindes i en
+Wheatstones Bro, hvor <i>R</i> er Diagonalforbindelse,
+saaledes at Strømmen igennem <i>R</i> bliver afhængig
+af Forskellen imellem Belysningen paa de to
+Fotoceller.
+
+Synkronismen imellem Omdrejningerne af
+Valserne paa Afsender og Modtager opnaas
+derved, at der paa Akslerne er anbragt smaa
+Synkronmotorer af lignende Konstruktion som
+la Cour's Tonehjul; Vekselstrømmen, der
+driver disse, faas fra elektrisk drevne
+Stemmegafler, der er afstemt nøjagtig ens, og som ved
+Termostatindretninger holdes paa konstant
+Temperatur. Den egentlige Drivkraft leveres af
+Jævnstrømsmotorer, og Synkronmotorerne
+virker accelererende, hvis Omdrejningstallet bliver
+for lavt, retarderende, hvis Omdrejningstallet
+bliver for højt.
+
+Da saavel Fotocellen som Kerr-Cellen er
+praktisk talt uden Træghed, og Forstærkerne
+kan bygges til meget høje Frekvenser, sættes
+Grænsen for den Hastighed, hvormed
+Billederne kan overføres, af de Ledninger, der
+benyttes til Overførelsen. Ved Telefonkabler
+benyttes en Bærefrekvens paa 1125 Perioder pr.
+Sekund; et Billede paa 18 X 26 cm overføres
+paa 19 Minutter ved en Linietæthed paa 0,2
+mm. Ved Anvendelse af Radioforbindelse kan
+man ved Benyttelse af korte Bølger opnaa
+langt større Overføringshastighed.
+
+I De Forenede Stater i Nordamerika har et
+af <i>Western Electric</i> udviklet System fundet
+Anvendelse. Systemet adskiller sig fra Karolus'
+væsentligst derved, at Modtagerens Lysrelais
+bestaar af et Strenggalvanometer, hvis Udslag
+bringes til at aabne mere eller mindre for
+Lyset, og derved, at Synkroniseringen opnaas
+ved at sende Vekselstrøm til
+Synkronmotorerne ad Ledningen fra den ene Station til den
+anden; endvidere sker Bærebølgens
+Modulering ad elektrisk Vej, og ved Afsendelsen
+benyttes gennemfaldende Lys, hvilket
+nødvendiggør Fremstillingen af en gennemsigtig Kopi
+af det Billede, der skal sendes.
+
+B. kan ventes at faa Betydning, ikke blot til
+Overføring af Billeder, men ogsaa til
+Telegrafering af Dokumenter i Facsimile, endvidere
+til Telegrambefordring, idet det er muligt at
+overføre et givet Ordantal hurtigere og
+billigere ved B. end ved almindelig Telegrafering,
+ligesom Fejltelegrafering er udelukket.
+<i>Fr. Heegaard.</i>
+</chapter>
+
+<chapter name="Billesborg">
+<b>* Billesborg,</b> Herregaard i Bjeverskov
+Herred, hed oprindelig Egøjegaard, blev af Fru
+Kirsten Munk nedbrudt og gjort til Ladegaard,
+genopbygget 1653 af Rigsraad Christen Skeel,
+der kaldte den Rudholt efter sin Hustru. Fru
+Kirsten Bille opførte den nuværende
+Hovedbygning, og efter hende fik Gaarden det
+nuværende Navn. Areal 323 ha. Ejer Vallø Stift.
+<i>N. J.</i>
+</chapter>

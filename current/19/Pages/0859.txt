@@ -1,0 +1,117 @@
+<table>
+<td 5 c><sp>Uran-Radiumfamilien</sp>.
+<td c>Navn<td c>Halveringstid<td c>Straaler<td c>Atomvægt<td c>Atonmummer
+<td>Uran I<td c>4,7 · 109 Aar<td c>α<td c>238<td c>92
+<td>Uran X<sub>1</sub><td c>24,6 Dage<td c>β<td c>234<td c>90
+<td>Uran X<sub>2</sub><td c>1,15 Min.<td c>β<td c>234<td c>91
+<td>Uran II<td c>2 · 10<sup>6</sup> Aar<td c>α<td c>234<td c>92
+<td>Ionium<td c>69000 Aar<td c>α<td c>230<td c>90
+<td>Radium<td c>1690 Aar<td c>α (β)<td c>226<td c>88
+<td>Ra-Emanation<td c>3,85 Dage<td c>α<td c>222<td c>86
+<td>Radium A<td c>3,0 Min.<td c>α<td c>218<td c>84
+<td>Radium B<td c>26,8 Min.<td c>β<td c>214<td c>82
+<td>Radium C<td c>19,5 Min.<td c>99,97 % β; 0,03 % α<td c>214<td c>83
+<td>Radium C'<td c>10<sup>—6</sup> Sek.<td c>α<td c>214<td c>84
+<td>Radium D<td c>16,5 Aar<td c>β<td c>210<td c>82
+<td>Radium E<td c>5,0 Dage<td c>β<td c>210<td c>83
+<td>Radium F<td c>136 Dage<td c>α<td c>210<td c>84
+<td>Radium Ω' (Bly)<td c>—<td c>—<td c>206<td c>82
+<td>Radium C"<td c>1,4 Min.<td c>β<td c>210<td c>81
+<td>Radium Ω" (Bly?)<td c>—<td c>—<td c>210<td c>82
+</table>
+
+For Radium selv og et Stof i hver af de 2
+andre Familier (smlg. de to flg. Tabeller) er
+foruden α- ogsaa anført β-Straaler; disse
+β-Straaler stammer dog ikke fra Kernen og er
+altsaa ikke som de andre β-Straaler
+Vidnesbyrd om en Kerneomdannelse, men er en Art
+sekundære β-Straaler, som α-Straalerne
+udløser af det Kernen omgivende Elektronsystem.
+Det ovf. som Radium C bemævnte Stof er en
+Blanding af 3 Stoffer RaC, RaC' og RaC". Ved
+RaC finder en Forgrening af Familien Sted;
+største Delen af RaC-Atomerne omdannes under
+Udsendelse af en β-Partikel til RaC', men
+omtr. 1 Atom af hver 3000 bliver under
+Udsendelse af en α-Partikel til RaC", hvis
+Efterkommer ikke er kendt, men ogsaa maa være
+Bly. For et Stof med saa overordentlig kort
+Halveringstid som RaC' kan den ikke
+bestemmes direkte, men da det har vist sig, at for
+alle α-Straalestoffer er der en simpel
+Sammenhæng mellem Logaritmen til Halveringstiden
+og til Rækkevidden, er den anførte korte
+Halveringstid beregnet af Rækkevidden. Paa samme
+Maade er Halveringstiden for Uran II
+beregnet, da dette Stof ikke kan fremstilles rent (se
+ndf.). Uranets meget store Halveringstid er
+beregnet dels ved Tælling af α-Partiklerne fra
+det, dels ud fra Forholdet mellem Mængderne
+af Uran og Radium i Mineralerne; begge
+Metoder giver samme Værdi. I et gammelt
+Uranmineral befinder alle de nævnte Stoffer sig i
+radioaktiv Ligevægt og er følgelig til Stede i
+Mængder, der kan beregnes af
+Halveringstiderne. Betragtes saa meget Mineral, at det
+indeholder 1 g Radium, maa det saaledes indeholde
+3 t Uran I, 1 kg Uran II og 60 g Ionium. Af
+de kortlevende Stoffer indeholdes
+overordentlig smaa Mængder, af RaA nogle Milliontedele
+mg og af RaC mindre end en Billiontedel mg,
+men f. Eks. af RaF 0,2 mg.
+
+Radium er det vigtigste af Stofferne og
+indtager i Praksis en Særstilling, selv om det
+naturligvis ikke gør det teoretisk. Det skyldes
+dels, at det har en passende Halveringstid, kort
+nok til at det er stærkt aktivt, men alligevel
+lang nok til at der kan fremstilles rimelige
+Mængder af det, dels at det har en Række
+kortlevende og derfor stærkt aktive Stoffer til
+umiddelbare Efterkommere, saa at man hurtigt
+faar deres Aktivitet med i et nyfremstillet
+Præparat, hvorved man faar den stærke
+Aktivitet. Herpaa beror dets vigtige medicinske
+Anvendelser, som omtales ndf. Det er derfor et
+vigtigt praktisk Spørgsmaal at maale
+Radiummængder, da man ikke kan bruge Vejning, fordi
+Radium sjældent fremstilles helt rent. Tidligere
+maatte man Radium i »Uranenheder«, idet man
+angav, hvor mange Gange Præparatet var
+stærkere aktivt end den samme Vægtmængde
+Uran, men dette Forhold lader sig ikke let
+bestemme nøjagtigt, saa at der herskede
+temmelig stor Forvirring, da Handelen fik større
+Omfang, indtil en Kongres i Bryssel (1910) ordnede
+Spørgsmaalet. Det gjaldt at skaffe en
+Radiumnormal, ligesom man har Normalmeter o. s. v.
+Dertil brugtes c. 22 mg Radiumklorid (RaCl<sub>2</sub>),
+som Fru <sp>Curie</sp> havde fremstillet saa rent som
+muligt og derefter vejet til 21,99 mg og smeltet
+ind i et lille tyndvægget Glasrør. Man vedtog
+nu, at dette Rør indeholdt 21,99 mg rent RaCl<sub>2</sub>,
+hvorved der i hvert Fald er tilvejebragt en
+veldefineret Enhed for Radiummængder.
+Samtidig havde man i Wien fremstillet, vejet og
+indsmeltet 3 andre Præparater, og ved
+Sammenligning med Fru Curie's viste deres
+Aktivitet, omregnet til lige Vægtmængder sig at
+stemme overens paa 1/3 %, saa at det sikkert
+virkelig har været meget rent Radium. Fru
+Curie's Præparat er den internationale
+Hovednormal og opbevares i Paris, et af
+Wien-Præparaterne er sekundær Normal og opbevares i
+Wien, og Staterne skulde ad officiel Vej i Wien
+kunne købe Normaler (»Radiumstandarder«),
+der er sammenlignede med de internationale.
+Efter Krigen er det dog tvivlsomt, om man
+kan faa selve Radium'et til Normalen i Wien,
+men en indsendt Normal vil sikkert stadig
+kunne blive prøvet og faa sit officielle Certifikat.
+Naar man har en Radiumnormal, er en
+Bestemmelse af en Radiummængde let, idet man
+blot sammenligner dens γ-Straaleaktivitet med
+Normalens ved det ovenfor omtalte Elektroskop.
+Ved at bruge γ-Straalerne opnaas, at
+Præparaterne kan blive liggende i de tilsmeltede

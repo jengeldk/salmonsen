@@ -1,0 +1,18 @@
+<chapter name="Mumierbilleder (Tavle)">
+<h2>MUMIEBILLEDER.</h2>
+
+<img>Portrætter malede i Kejsertiden enkaustisk paa Træplader, forestillende en Mand og en Kvinde,
+fundet af Arabere i Fajjûm, erhvervet af Tæppehandler Th. Graf fra Wien paa Stedet og solgt
+til Antiksamlingen.
+</img>
+
+<img>Portræt af en Mand, malet i Kejsertiden enkaustisk paa
+en Træplade og anbragt foran den afdødes Ansigt,
+opdaget i Havara af Flinders Petrie og sendt som Gave fra
+Finderen til afdøde Brygger Jacobsen og til Ny
+Carlsberg Glyptothek.</img>
+
+<img>Billede af Dame fra det romerske Ægypten, fundet
+ved Havara af Petrie, malet enkaustisk paa en
+Træplade, nu i Kairo Museum.</img>
+</chapter>

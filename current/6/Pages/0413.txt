@@ -1,0 +1,20 @@
+<img>DRAMMEN.
+
+M: 1:10000</img>
+<table>
+<td>1<td>Brandstation
+<td v3>2{<td>Börsen
+<td>Postkontor
+<td>Telegraf
+<td>3<td>Raadhuset
+<td>4<td>Teatret
+<td>5<td>Lazaret
+<td>6<td>Gasverk
+<td>7<td>Park
+<td>8<td>Jernbanestation
+<td>9<td>Skole
+<td>10<td>Toldbod
+<td>11<td>Katolsk Kirke
+<td>12<td>Katolsk-Apost. Kirke
+</table>
+

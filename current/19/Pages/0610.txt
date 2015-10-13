@@ -1,0 +1,145 @@
+gælder Smedejern (<i>v</i> er P.'s Anslagshastighed
+i <i>m</i>, <i>p</i> dets Vægt i kg, <i>c</i> Kaliberet i cm, <i>t</i>
+Pladetykkelsen i cm):
+
+<sp>Gavre</sp>-Formlen (det fr. Marineartilleri):
+<i>pv<sup>2</sup>/c</i> = 10190 <i>t</i> <sup>1,4</sup>.
+
+<sp>de Marres</sp> Formel:
+<i>pv<sup>2</sup>/c</i> 1,5 = 2597 <i>t</i> <sup>1,2</sup>.
+
+<sp>Krupp</sp>'s Formel (1880—87):
+<i>pv<sup>2</sup> = 370 <i>c t</i><sup>2</sup> + 1171 <i>c<sup>2</sup>t</i>.
+
+Den danske Generalmajor <sp>V. H. O. Madsen</sp>'s
+Formel:
+
+<i>p</i> (<i>v</i>/100)<sup>2</sup> = 0,008 <i>t c</i> (10 <i>t</i> + 4 <i>c</i>).
+
+Den danske Oberstløjtnant <sp>N. E. Lomholt</sp>'s
+Formel:
+
+<i>pv<sup>2</sup></i> = 450 <i>c t<sup>2</sup></i> + 900 <i>c<sup>2</sup>t</i>.
+
+<sp>Tresidders</sp> Formel:
+<i>pv<i>2</i>/c</i> = 545100 <i>t<sup>2</sup></i>.
+
+Formlerne er alle dannede under
+Forudsætning af vinkelret Anslag. Ved skraat Anslag
+bliver Indtrængelsesevnen mindre, og P.
+sønderbrydes lettere end ved vinkelret Anslag.
+Finder Anslaget Sted under en Vinkel med
+Normalen, der er større end Projektilogivalens
+halve Topvinkel, vil P. i Alm. prelle af.
+Bestaar en Panserplade af fl. Lag
+Smedejernsplader, der er lagt uden paa hinanden enten
+umiddelbart ell. med et Mellemlæg af Træ, det
+saakaldte <sp>Sandwich-Panser</sp>, bliver den
+væsentlig svagere, end om Pladen var i eet Stykke
+af samme Tykkelse. Dersom Smedejernspladen
+er støttet af et Underlag af Træ og en
+Inderhud af Jern, kan man ved Beregning tage
+Hensyn hertil ved at forøge den virkelige
+Pladetykkelse med 8 % af Jernets Tykkelse og 90 %
+af Inderhudens.
+
+Gennembrydningsformlerne for Smedejern
+har ikke stor direkte Interesse nu, da
+Smedejernspanser ikke længere anvendes;
+Formlerne vil imidlertid kunne benyttes over for
+moderne mere modstandsdygtige
+Pansermaterialer, naar de fundne Pladetykkelser
+reduceres i et passende Forhold. Ved Compound os
+haardt Staalpanser kan man erfaringsmæssigt
+regne med en Modstandsevne, svarende til
+25—30 % tykkere Smedejernsplader, medens de
+tilsvarende Tal for cementerede Staalplader
+er 50—60 %. Virkningen mod Staalpanser er ikke
+saa regelmæssig som Virkningen mod
+Smedejernspanser, og ved Siden af selve
+Gennemtrængelsesfænomenet optræder der ofte
+Bivirkninger, der ytrer sig som en Sønderslagning af
+Pladen, idet større Stykker af denne revner og
+løsner sig. Disse Bivirkninger er ofte mere
+kompromitterende for Pladens Holdbarhed end
+selve P.'s Indtrængelse. Ved som ovf. nævnt at
+dække en Del af ell. hele P.'s Forpart med en
+<sp>Hætte</sp> (af nogle kaldet Kappe) af blødt Staal,
+har man i høj Grad formindsket
+Pansergranatens Tilbøjelighed til at sønderbrydes
+under Indtrængeren. Spiren til denne
+Fremgangsmaade ligger saa langt tilbage som 1878, da
+man ved en Forsøgsskydning i England mod
+Compound-Panser (sammensat af en
+Frontplade af haardt Staal og en Bagplade af blødt
+Staal) gjorde den Opdagelse, at P. sloges i
+Stykker, naar de udskødes imod Pladens
+Frontside, medens de gik glat igennem Pladen, naar
+denne vendtes om, saaledes at P. først
+gennembrød den bløde Plade, inden den traf den
+haarde. Et haardstøbt Projektil, hvis Spids var
+dækket med en Smedejernskappe, gik ligeledes
+glat gennem Pladen. Man drog dog foreløbig
+ingen Nytte af Erfaringen fra dette Forsøg,
+fordi det hurtig lykkedes at fremstille
+Staalprojektiler, som kunde taale Anslaget imod
+Datidens Staalpansere. Men efter Fremkomsten af
+det cementerede Panser nødtes man til at
+hætteklæde P., for at forhindre disse i at blive
+sønderslaaede af det haarde Panser. Nutildags
+er alle Panser granater hætteklædte.
+
+Hensynet til Pansergranatens Styrke
+bevirker, at dens Hulrum kun bliver lille; man
+regner, at en Pansergranat kun kan optage en
+Sprængladning, hvis Vægt svarer til 3 % af
+Projektilvægten. Sprængladningen er ved
+moderne Pansergranater altid brisant; det
+almindeligst anvendte Sprængstof er Trinitrotoluol i
+støbt ell. presset Tilstand.
+
+En Overgang imellem Pansergranaterne og
+de egl. Granater (s. d.) danner de saakaldte
+<sp>Halvpansergranater</sp> (Fig. 4), der
+benyttes til Skydning imod de svagere pansrede
+Dele af Skibene, og hvis Vægtykkelse derfor
+er saa meget nedsat, at Hulrummet kan
+optage en Sprængladning paa 7 à 8 % af P.'s
+Vægt. Ogsaa Halvpansergranaterne er ofte
+fortil forsynede med en Hætte.
+
+Inden Verdenskrigen var der i flere Stater
+Bestræbelser fremme for at simplificere
+navnlig det lette Feltskyts Ammunitionsbeholdning,
+idet man tilstræbte Tilvejebringelsen af P., som
+i sig forenede Granatens og Granatkardæskens
+Egenskaber. Det mest kendte af saadanne P.
+var den af den holl. Artilleriofficer <sp>van
+Essen</sp> konstruerede <sp>Brisantshrapnell</sp>
+(Fig. 5) (herhjemme benævnt
+<sp>Enhedsprojektil</sp>), som bestod af en Granatkardæsk (s.
+d.), mellem hvis Kugler der var anbragt
+Brisantsprængstof, og som fortil var forsynet med
+et Hoved, bestaaende af et med et særligt
+dobbeltvirkende Brandrør forsynet Staallegeme.
+Dette indeholdt en Brisantsprængladning, der
+ved Hjælp af Brandrørets Tidsmekanisme
+bragte P. til at springe i Luften, hvorved
+Granatkuglerne udsendtes i Luften paa sædvanlig
+Maade, medens P.'s Hoved fortsatte sin Vej
+igennem Luften og blev bragt til Eksplosion ved
+Anslaget mod Jorden. Vilde man benytte
+Enhedsprojektilet som ren Brisantgranat, blev
+Brandrøret indstillet, saa at det først virkede,
+naar P. slog mod Jorden. P. af denne Art blev
+benyttet under Verdenskrigen, bl. a. til
+Tyskernes lette Felthaubits; deres Rolle blev dog
+hurtigt udspillet, dels fordi P., der var et
+Kompromis mellem en Brisantgranat og en
+Granatkardæsk, stod tilbage for hver af disse
+Projektilsorter, dels fordi dets Fabrikation var for
+vanskelig og kostbar.
+
+I Modsætning til den ovenfor nævnte
+Tendens i Retning af en Simplificering af
+Projektilsorterne er der under Verdenskrigen til

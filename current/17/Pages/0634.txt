@@ -1,0 +1,129 @@
+Søjlerne, saaledes at den ikke kan dreje sig,
+presses mod Terningen. Ved derpaa at drive
+Stemplet i Vejret, knuses Terningen. Stemplet
+er nøjagtigt indslebet i Cylinderen, hvis
+Hulrum gennem et Rør staar i Forbindelse med
+den lille, øverst tilhøjre viste Cylinder, der,
+ligesom den store og Røret, er fyldt med Olie.
+Naar nu Tandhjulet, der er vist nederst
+tilhøjre, og som danner Møtrik for Skruen, drejes
+rundt, gaar denne ind i den lille Cylinder, og
+Olien her presses over i den store Cylinder, saa
+at dennes Stempel stiger. Trykket i Cylinderen
+maales med et aabent Kvægsølvmanometer,
+men ikke direkte, da Manometeret saa maatte
+være meget højt; først reduceres Trykket
+derved, at Cylinderens Olie, i St f. at presse
+direkte paa Manometerets Kvægsølv, presser paa
+et tyndt Stempel, der atter trykker paa et
+større Stempel; under dette er der først et Lag
+Olie og for Resten Kvægsølv, der gennem et Rør
+staar i Forbindelse med det af gennemsigtigt
+Celluloid forfærdigede Manometerrør.
+Kvægsølvsøjlens Højde reduceres derved i et
+Forhold, der er lig med Forholdet mellem de to
+sidstnævnte Stemplers Arealer. Paa Kvægsølvets
+Overflade svømmer et lille Lod, der ved en
+Traad over en Trisse foroven er kontrabalanceret
+af et andet Lod. I det Øjeblik Bruddet
+sker, synker Kvægsølvet pludseligt, men Loddet
+bliver hængende og angiver Brudlasten, idet
+der langs Manometerrøret er anbragt to
+Skalaer, af hvilke den tilhøjre angiver det totale
+Tryk paa Prøvelegemet, den tilvenstre dette
+Tryk divideret med 50. De Cementterninger, for
+hvilke Pressen fortrinsvis er bestemt, har
+nemlig et Tværsnit af 50 cm<sup>2</sup>, saa man direkte kan
+aflæse Brudspændingen i Atm. Afstanden
+mellem Delestregerne svarer til henh. 100 kg og
+1 Atm. Det mest karakteristiske ved den
+Amsler'ske Presse er de indslebne Stempler, der
+passer saa nøjagtig i Cylindrene, at Olien ikke
+kan passere Mellemrummet. Denne Konstruktion
+giver en langt ringere Friktion end de
+atm. Stempelkonstruktioner, hvor Friktionen
+tilmed ofte er ujævn og f. Eks. lader sig ophæve
+et Øjeblik af en Rystelse. For yderligere at
+formindske Friktionen bliver det nederste, hule
+Stempel stadig drejet frem og tilbage om sin
+egen Akse ved Hjælp af et mekanisk Apparat.
+
+Trækstyrken bestemmes hyppigst ved Hjælp
+af Frühling-Michaëlis' Apparat (Fig. 3). Det
+er et Vægtstangsapparat med Omsætningsforhold
+50, idet den nedre og øvre Vægtstang er
+delte henh. i Forholdet 1 : 5 og 1 : 10.
+Prøvelegemet anbringes mellem de to Kløer, af
+hvilke den nedre ved Hjælp af en Skrue kan hæves
+ell. sænkes, indtil den lange Vægtstangs
+Overside staar noget over en Streg paa Opstanderen
+bagved; Stregen angiver Vægtstangens
+vandrette Stilling, i hvilken Stangen helst maa
+befinde sig i Brudøjeblikket. Den lange
+Vægtstang bærer en Spand, over hvilken Udløbet for
+en Beholder med Hagl befinder sig. Aabningen
+ind til Beholderen lukkes og aabnes ved
+Hjælp af en Skyder, der er fastgjort til en
+tung Ramme (se Snit <i>A—B</i>), i hvis Underside
+der sidder en Stang med et Hak i Enden. Naar
+Skyderen løftes helt op, svipper en Spærhage
+ind i dette Hak og holder Skyderen løftet,
+indtil Bruddet sker, og Spanden ved sit Fald
+udløser Spærhagen. Efter Bruddet hægtes
+Spanden af og vejes; vejer den 1,6 kg, har Trækket
+i Prøvelegemet været 1,6 · 50 kg, og da dettes
+Brudtværsnit er 5 cm<sup>2</sup>, bliver Brudspændingen
+1,6 · 50 : 5 = 1,6 · 10 at, altsaa lig det
+10-dobbelte af Spandens Vægt.
+
+Iflg. Normerne skal der udføres 10 Tryk- og
+10 Trækforsøg, og Middelstyrken maa herved
+ikke vise sig mindre end henh. 200 at og 16 at
+for langsomt størknende Cement; for hurtigt
+størknende Cement er der ingen Styrketal
+fastsat. De nævnte Styrketal er sat ret lavt. Som
+Gennemsnit for de paa Statsprøveanstalten
+1905—21 undersøgte Cementer fandtes:
+
+<table>
+<td><td c>3 Døgn<td c>7 Døgn<td c>28 Døgn<td c>3 Mdr.
+<td>Tryk<td c>121<td c>218<td c>354<td c>456
+<td>Træk<td c>15,6<td c>21,1<td c>26,9<td c>32,1
+</table>
+
+Skal Cementen bruges til stærkt belastede
+Konstruktioner, har dens Styrke naturligvis
+stor økonomisk Bet., da en stærk Cement
+taaler en større Spænding ell. en større
+Sandtilsætning end en svag. Det er navnlig
+Trykstyrken, der har Bet., da Mørtlen i Praksis
+hovedsagelig paavirkes til Tryk. I Tyskland har man
+derfor strøget Trækprøven. Jo stærkere
+Cementen er brændt, og jo finere den er malet,
+des stærkere bliver den. Man gør ofte Forsøg
+med yngre Legemer, f. Eks. 7 Døgn gl., og
+saadanne Forsøg har stor Værdi for
+Cementfabrikkerne, der kender Forholdet mellem 7
+og 28 Døgns Styrken af deres Produkt, og
+altsaa hurtigere kan konstatere, om Kvaliteten er
+normal; men ogsaa Forbrugerne har Nytte af
+denne Prøve, naar de kender det paagældende
+Forhold. Derimod kan man ikke slutte, at to
+forsk. Cementer, der har samme Styrke efter
+7 Døgn, ogsaa har det efter 28 Døgn, thi
+Hærdningen foregaar med forsk. Hurtighed.
+
+Aarsagen til, at man bruger Normalsand i
+St. f. at prøve den rene Cements Styrke, er, at
+to Cementer, der har samme Styrke, naar de
+prøves uden Sand, kan have meget forsk.
+Styrker, naar de prøves med Sand, og da man i
+Praksis næsten altid bruger sandblandede
+Mørtler, har man ogsaa valgt en saadan til
+Prøvningen. Ganske vist kan der ogsaa være en
+væsentlig Forskel paa Mørtlens Styrke, efter
+som den er fremstillet af Normalsand ell.
+naturligt Sand, men Forskellen er dog ikke saa
+stor, som i det andet Tilfælde. Grunden til, at
+
+<img>Fig. 3.</img>

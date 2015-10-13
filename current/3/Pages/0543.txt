@@ -1,0 +1,155 @@
+man føler sig ikke mere blændet. Kommer man
+omvendt fra stærkt Lys ind i et mørkt Rum,
+føler man, at man er blændet og intet kan
+se, og først lidt efter lidt vænner Øjet sig til
+Mørket (adapteres). Blænding fremkommer
+altsaa ved stærk og pludselig Skiften af Lysets
+Styrke. En Del Blændingsfænomener kan
+opfattes som en Træthed af Nethinden, og man
+har i de senere Aar ved Blænding kunnet
+paavise forsk. fysiol. Processer i Nethinden, hvis
+Bet. dog endnu ikke er fuldstændig godtgjort.
+Bl. Blændingsfænomenerne spiller
+Efterbillederne (s. d.) en betydelig Rolle. Ved den
+saakaldte Sneblindhed (s. d.) har det vist sig, at
+den væsentligst skyldes Lysets kem. virkende
+Straaler.
+<i>G. N.</i>
+</chapter>
+
+<chapter name="Blænder">
+<b>Blænder,</b> Plade med en i Reglen cirkelrund
+Gennemboring (ringformet Plade), som
+anbringes i optiske Instrumenter tværs paa
+Instrumentets Akse for at tilbageholde de Straaler,
+som man ikke ønsker at have til at medvirke
+ved Billeddannelsen. B. er vigtige Bestanddele
+af de optiske Instrumenter, hvor de har ret
+forskelligartede Funktioner. I <sp>Kikkert</sp>- og
+<sp>Mikroskoprør</sp> maa saaledes anbringes B.
+med en
+Gennemboring
+kun lidt
+mindre end
+Rørdiametren for at
+tilbageholde
+de Straaler,
+der træffer
+Rørvæggen
+og
+reflekteres af denne
+hen mod
+Okularet,
+idet det er
+meget vanskeligt at sværte Rørets Indre saa mat
+sort, at det ikke reflekterer en Del af disse næsten
+strejfende indfaldende Straaler. — Inde i et
+<sp>Mikroskopokular</sp> og foran et
+<sp>Kikkertokular</sp> (mellem dette og Objektivet),
+nemlig der, hvor det reelle Billede falder, som
+Objektivet danner, anbringes en B.
+(<sp>Synsfelt-B.</sp>), hvis Gennemboring netop er saa stor,
+at den kun lader Straaler slippe igennem fra
+de Punkter af Billedet, der kan sende fuld
+Lysmængde ind i Øjet; derved opnaas, at hele det
+Billede, man paa een Gang kan overse (hele
+Synsfeltet), ses i samme Klarhed. Da der intet
+reelt Billede dannes i er Teaterkikkert
+(Galilei's Kikkert), kan man ikke deri anbringe en
+Synsfelt-B., saa dens Billeder er omgivne af en
+lyssvagere Rand, hvor Klarheden aftager
+udefter, saaledes som man let ser, naar Kikkerten
+rettes mod en jævnt lysende Grund (graa
+Himmel). I Synsfelt-B. i en Kikkert
+anbringes Traadkors, Mikrometer o. l., og i et Mikroskop
+Okularmikrometret. — I <sp>fotografiske
+Objektiver</sp> anbringes B. i Reglen inde i det
+sammensatte Objektiv, altsaa mellem de
+Linsesystemer, hvoraf det bestaar, saaledes altid i
+de symmetriske Dobbeltobjektiver, hvor B.
+sidder midt mellem de to ens Halvdele af
+Objektivet; sjældnere anbringes den foran
+Objektivet. B. tjener her til at regulere den
+Lysmængde, som fra hvert Punkt af Genstanden
+samles i det tilsvarende Billedpunkt paa den
+fotografiske Plade, idet denne Lysmængde er
+proportional med B.-Aabningens Areal (smlg.
+<sp>Aabningsforhold</sp>). B.-Aabningen maa derfor
+kunne varieres; det opnaas i Reglen ved at
+anvende en <sp>Iris-B.</sp> (se Fig.), dannet af en Del
+tynde Metal- ell. Ebonitplader (i Fig. findes 7),
+hvis ene Ende er fæstet i en fast Metalring <i>B.</i>,
+medens den anden Ende er fæstet i en anden
+Metalring, der kan drejes inden i den første
+ved Haandtaget <i>A</i>; drejes <i>A</i> opad, bliver
+B.-Aabningen større. Ellers har man B. af forsk.
+Størrelse til at stikke ind i Objektivet ell. en
+drejelig Plade med Gennemboringer af forsk.
+Størrelse, der kan drejes hen foran Objektivet.
+Naar B.-Aabningen indsnævres, saa
+Lysmængden forringes og Ekspositionstiden forøges, faar
+Objektivet tillige større Evne til at afbilde
+Genstande i forsk. Afstand tilstrækkelig skarpt
+samtidig paa den fotografiske Plade (større
+»Dybde«). Et Punkt afbildes kun skarpt paa Pladen,
+naar den tilsvarende Lyskegle fra Objektivet
+netop har sin Spids (sit Toppunkt) paa Pladen;
+falder Spidsen lidt foran ell. bagved, bliver
+Billedet en Lysplet, nemlig Skæringsfladen
+mellem den fotografiske Plade og Lyskeglen ell.
+dens Forlængelse. For en bestemt Indstilling af
+Pladen vil kun Punkter i en bestemt Afstand
+afbildes skarpt paa den, alle fjernere og
+nærmere Punkter vil give Lyskegler, hvis Spids
+ligger henh. foran og bag ved Pladen, men jo
+mindre B.-Aabningen er, desto smallere er
+Lyskeglen fra et bestemt Punkt, og desto
+længere kan dens Spids falde uden for Pladen,
+uden at Lyspletten bliver saa stor, at
+Uskarpheden bliver kendelig. B. til Regulering af
+Belysningen anvendes ogsaa i Mikroskopet, hvor
+den anbringes under Belysningsapparatet
+(Kondensoren) ell. ved svage Forstørringer, hvor
+Kondensor ikke bruges, under Objektet; i
+Reglen anvendes Iris-B.
+<i>H. M. H.</i>
+
+<img>Iris-Blænder.</img>
+</chapter>
+
+<chapter name="Blænding (d. s. s. Blænder)">
+<b>Blænding,</b> d. s. s. <sp>Blænder</sp> (s. d.).
+</chapter>
+
+<chapter name="Blændglas (d. s. s. Helioskop)">
+<b>Blændglas,</b> d. s. s. <sp>Helioskop</sp>.
+</chapter>
+
+<chapter name="Blændklap">
+<b>Blændklap</b> (<sp>Søv.</sp>), et tæt Dæksel, der
+anbringes foran Lysglas og Skylighter i
+Krigsskibe om Natten, for at hindre Lyset i at trænge
+ud og røbe Skibet, naar det skal gaa i Angreb
+med »blændede Lanterner«. B. udføres af Metal
+ell. Træ og males med en mat sort Farve. Man
+siger, at et Skib sejler med »blændede
+Lanterner«, naar alle Skibslysene er tildækkede, saa
+at man i Mørket ikke er i Stand til at se
+Skibet. Dette anvendes særlig i Torpedobaade,
+naar de om Natten skal udføre et
+overraskende Angreb mod en fjendtlig Styrke.
+<i>H. P. C.</i>
+</chapter>
+
+<chapter name="Blændværk">
+<b>Blændværk</b> kaldes enhver Iagttagelse, som
+et Menneske mener at have gjort, men som ved
+nærmere Prøve viser sig at være urigtig,
+i Strid med Virkeligheden. Til B. kan saaledes
+regnes alle de rent indbildte Iagttagelser,
+Hallucinationer (s. d.), som opstaar uden ydre
+Paavirkning og kun skyldes sygelige Tilstande
+hos Individet. Langt hyppigere beror B. paa,
+at Mennesket hildes i en Illusion (s. d.). I saa
+Fald fremkaldes det ved Ting, Handlinger ell.
+Naturfænomener, der dels p. Gr. a. deres egen

@@ -1,0 +1,143 @@
+<table>
+<td c v2>Len<td c v2>Areal<br><td 2 c>Befolkning
+<td c>Købstæder<br>1000'er<td c>Landet<br>1000'er
+<td>Gotlands Len<td r>3160<td r>10<td r>47
+<td>Blekinge Len<td r>3039<td r>43<td r>105
+<td>Kristianstads Len<td r>6456<td r>24<td r>220
+<td>Malmöhus Len<td r>4847<td r>241<td r>258
+<td>Hallands Len<td r>4923<td r>36<td r>114
+<td>Göteborgs og Bohuslen<td r>5047<td r>271<td r>169
+<td>Älvsborgs Len<td r>12730<td r>74<td r>236
+<td>Skaraborgs Len<td r>8480<td r>45<td r>202
+<td>Värmlands Len<td r>19235<td r>44<td r>227
+<td>Örebro Len<td r>9223<td r>44<td r>179
+<td>Västmanland Len<td r>6756<td r>49<td r>117
+<td>Kopparbergs Len<td r>30015<td r>28<td r>227
+<td>Gävleborgs Len<td r>19728<td r>58<td r>218
+<td>Västernorrlands Len<td r>25532<td r>36<td r>237
+<td>Jämtlands Len<td r>51734<td r>15<td r>122
+<td>Västerbottens Len<td r>58934<td r>11<td r>182
+<td>Norrbottens Len<td r>105520<td r>23<td r>166
+<td r>Hele Riget<td r>439381<td r>1847<td r>4189
+</table>
+
+Købstadbefolkningen udgør herefter 1,8 og
+Landbefolkningen, inkl. Köpingarne, 4,2 Mill. I
+hele første Halvdel af forrige Aarh. udgjorde
+Bybefolkningen kun c. 10 % af Landets
+Befolkning; først 1880 naaede den 15 %, men
+derefter har dens Andel af Befolkningen været
+i stærk Stigning: 1900 21 % og 1924 30 %. De
+største Byer og deres Folketal 1850, 1900 og
+1924 er anført nedenstaaende:
+<table>
+<td v2>Købstæder<td 3 c>Folketal
+<td c>1924<td c>1900<td c>1850
+<td>Stockholm<td r>438896<td r>300624<td r>93070
+<td>Göteborg<td r>229638<td r>130619<td r>26084
+<td>Malmö<td r>116144<td r>60857<td r>13087
+<td>Norrköping<td r>59917<td r>41008<td r>16916
+<td>Hälsingborg<td r>50484<td r>24670<td r>4140
+<td>Gävle<td r>39018<td r>29522<td r>9261
+<td>Örebro<td r>36323<td r>22013<td r>5177
+<td>Borås<td r>31439<td r>15837<td r>2733
+<td>Eskilstuna<td r>30409<td r>13663<td r>3961
+<td>Västerås<td r>29920<td r>11999<td r>3780
+<td>Jönköping<td r>29874<td r>23143<td r>6008
+<td>Uppsala<td r>29829<td r>22855<td r>6952
+<td>Linköping<td r>28705<td r>14552<td r>5240
+<td>Karlskrona<td r>28021<td r>23955<td r>14097
+<td>Lund<td r>23760<td r>16621<td r>6709
+<td>Karlstad<td r>19731<td r>11869<td r>3807
+<td>Landskrona<td r>19463<td r>14399<td r>4139
+<td>Halmstad<td r>18450<td r>15362<td r>2761
+<td>Kalmar<td r>17797<td r>12715<td r>6634
+<td>Sundsvall<td r>17023<td r>14831<td r>2837
+<td>Trollhättan<td r>16384<td r>—<td r>—
+<td>Mölndal<td r>16062<td r>—<td r>—
+<td>Södertälje<td r>14664<td r>8207<td r>1245
+<td>Östersund<td r>14562<td r>6866<td r>817
+<td>Uddevalla<td r>14035<td r>9442<td r>3832
+<td>Falun<td r>13340<td r>9606<td r>4463
+<td>Kristianstad<td r>13037<td r>10318<td r>5440
+<td>Trälleborg<td r>12343<td r>3037<td r>—
+<td>Västervik<td r>12298<td r>8299<td r>4346
+<td>Nyköping<td r>11959<td r>7375<td r>3806
+<td>Kristinehamn<td r>11905<td r>6775<td r>2056
+<td>Ystad<td r>11757<td r>9862<td r>5089
+<td>Söderhamn<td r>11602<td r>11258<td r>1757
+<td>Härnösand<td r>11589<td r>7890<td r>2738
+<td>Luleå<td r>10914<td r>9484<td r>1257
+</table>
+
+Derefter har 33 Byer 5—10000, 43 Byer
+under 5000 Indb. Köpingarnes samlede Befolkning
+udgør 77800; de største er Lidingö (10500) og
+Sundbyberg (6600), begge Forstæder til Sthlm.
+Af bymæssige Bebyggelser, der udgør Dele af
+Landkommuner, er der c. 200, der betegnes
+Municipalsamhällen og i visse Henseender har
+en selvstændig Forvaltning; deres samlede
+Befolkning udgør 237000; bl. disse kan anføres
+Hagalund, Saltsjöbaden og Nynäshamn i
+Stockholms Len, Höganäs ved Kullen, Älvsborg ved
+Göteborg og Kiruna (c. 9000 Indb.) i
+Norrbottens Len. Lægges disse Byers Befolkning til
+Købstædernes, faar man en Bybefolkning paa
+2,1 Mill. ell. c. 35 % af Landets samlede
+Befolkning.
+
+Befolkningen er i etnografisk og national
+Henseende meget ensartet. I det nordlige S.
+lever en Del Lapper, c. 7000, og i Torneå m. fl.
+St. ved den finsk-svenske Grænse et noget
+større Antal Finner, c. 30000. Af fremmede
+Landes Undersaatter med Ophold i S. var
+Antallet 1920 i alt 23000. Langt større er Antallet
+af Svenskere (svenskfødte) med Ophold i
+Udlandet, vel c. 800000, hvoraf de 650000 findes i
+U. S. A. ell. Kanada, 47000 i Norge og 36000 i
+Danmark.
+
+I Henseende til Befolkningens Fordeling efter
+Køn er der for hver 1000 Mand 1036 Kvinder;
+Kvindernes talmæssige Overvægt har været i
+stadig jævn Tilbagegang; 1750 var Forholdet
+1000 : 1127. Efter Alder og Ægtestand er
+Fordelingen flg.: (1920)
+<table>
+<td 2 c>1000'er<td c>Mænd<td c>Kvinder<td c>Tilsammen
+<td 2>under 15 Aar<td r>884<td r>849<td r>1733
+<td>over 15 Aar<td>, ugifte<td r>906<td r>919<td r>1825
+<td c>—<td>, gifte<td r>986<td r>992<td r>1978
+<td c>—<td>, Enker<td r>122<td r>246<td r>368
+<td 2 r>Tilsammen<td r>2898<td r>3006<td r>5904
+</table>
+
+Befolkningens Erhvervsfordeling er i sine
+Hovedtræk flg. (1920):
+<table>
+<td><td c>1000'er<td c>pCt.
+<td>Jordbrug<td r>2272<td r>38,5
+<td>Industri<td r>1847<td r>31,3
+<td>Handel og Samfærdsel<td r>760<td r>12,9
+<td>Offentlig Tjeneste og liberale Erhverv<td r>272<td r>4,6
+<td>Husligt Arbejde<td r>219<td r>3,7
+<td>Ude af Erhverv<td r>534<td r>9,0
+<td r>Ialt<td r>5904<td r>100,0
+</table>
+
+Om Befolkningens Bevægelser, hvorom som
+alt nævnt den sv. Statistik indeholder meget
+fyldige Oplysninger, der gaar langt tilbage i
+Tiden, skal her kun anføres nedenstaaende
+Tabel angaaende Ægteskaber, Fødsler og
+Dødsfald i Forhold til hver Periodes Middelfolketal.
+De absolutte Antal var 1925 af Ægteskaber
+37400, af levende Fødsler 106000, af Dødfødsler
+2700 og af Dødsfald 71000. Af Skilsmisser er
+det aarlige Antal nu c. 1200. Bl. Fødslerne er
+c. 15 % udenfor Ægteskab; begge disse Tal
+har gennem de senere Aar vist en ret stærk
+Stigning; 1900 var Skilsmissernes Antal
+saaledes c. 400, Fødslerne udenfor Ægteskab 11 %.

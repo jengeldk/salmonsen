@@ -1,0 +1,137 @@
+at Pupillen falder sammen med <sp>Okularringen</sp>,
+det virkelige Billede af Objektivet,
+som Okularet danner, og som ligger lidt over
+Okularet, hvor det ses som en lille cirkelrund
+lysende Plet, naar der sendes Lys op gennem
+M. Da Okularringen ved nogenlunde stærk
+Forstørring altid er mindre end Pupillen, faar man
+ved at anbringe Øjet dér alt det Lys ind i Øjet,
+som er passeret gennem M.
+
+M.'s <sp>Forstørring</sp> defineres som Forholdet
+mellem de Synsvinkler, hvorunder en
+bestemt Del af Objektet ses henh. i M. og uden
+dette, naar Objektet i sidste Tilfælde er anbragt
+i Arbejdsafstanden 25 cm (den konventionelle
+tydelige Synsvidde), der skal gælde for
+den mindste Afstand, som Øjet i længere Tid kan
+akkomodere paa uden generende Anstrengelse.
+Forstørrinigen bliver Δ/<i>p</i><sub>1</sub> × <i>s</i>/<i>p</i><sub>2</sub>
+hvor <i>p</i><sub>1</sub> og <i>p</i><sub>2</sub> er henh. Objektivets og Okularets
+Brændvidder, Δ Afstanden mellem Objektivsystemets
+øverste og Okularsystemets nederste Brændpunkt,
+den saakaldte optiske Tubuslængde, og <i>s</i>
+Arbejdsafstanden. Δ ligger gerne omkr. 15 cm.
+De største Forstørringer (2—3000 Gange)
+opnaas især ved at gøre <i>p</i><sub>1</sub> lille, indtil 1,5 à 2 mm.
+Om Maaling af Forstørringen, se ndf.
+
+M.'s <sp>Synsfelt</sp> er det Areal af Objektet,
+der kan overses. Dets Størrelse bestemmes ved,
+at der paa det virkelige Billedes Plads <i>A</i><sub>1</sub><i>B</i><sub>1</sub> er
+anbragt en Blænder, en tynd sværtet
+Metalplade med et cirkelrundt Hul. Man kan følgelig
+overse den Del af Objektet, hvis Billede falder
+inden for dette Hul; lad Hullets Diameter netop
+være <i>A</i><sub>1</sub><i>B</i><sub>1</sub>, da vil man altsaa kunne overse en
+Del af Objektet med Diameteren <i>AB</i>. Synsfeltet
+kan altsaa siges at bestemmes af en Kegleflade
+med Toppunkt i Objektivets optiske Midtpunkt
+og med Grundfladen <i>A'B'</i>, der er det indbildte
+Billede, som Kollektivlinsen <i>K</i> danner af
+Blænderaabningen. (Da Objektivet ogsaa er et
+Linsesystem, maa denne Definition egl. modificeres
+lidt). Blænderaabningen maa være afpasset
+saaledes efter Øjelinsens Diameter, at alle
+Straaler, der slipper gennem Aabningen, ogsaa kan
+komme gennem Linsen. Men i Virkeligheden
+bestemmes Blænderaabningens Størrelse af,
+hvor langt ud til Siden fra M.'s Akse
+Objektivbilledet endnu er tilstrækkelig skarpt, og
+Okularlinsernes Størrelse afpasses saa derefter.
+Her viser det sammensatte Okulars vigtigste
+Fordel sig. Skulde man opnaa samme Synsfelt som
+vist i Fig. ved en enkelt Okularlinse <i>F</i> (uden <i>K</i>),
+maatte <i>F</i> være større end <i>A'B'</i> (der saa
+vilde angive Blænderens Plads og Størrelse),
+og saa stor Linse kunde ikke have saa kort
+Brændvidde Og altsaa ikke give saa stor
+Forstørring som her opnaaet. Kollektivlinsen bøjer
+Straalebundterne ind mod Aksen, saa at man
+opnaar samme Synsfelt med væsentlig mindre
+Øjelinse og derfor større Forstørring. — En
+nærmere Undersøgelse viser let, at alle de
+Elementer, der er bestemmende for Forstørringen,
+paavirker Synsfeltets Størrelse i modsat
+Retning, saa at stor Forstørring naturligvis altid
+vil medføre lille Synsfelt. M.-Billedets <sp>Klarhed</sp>
+(Lysmængden pr Fladeenhed af Nethindebilledet)
+er bestemt ved, at den Lyskegle, som
+fra en lille Del af Objektet sendes ind gennem
+M., inde i Øjet fordeles over det forstørrede
+Billede af <i>A</i>. Sammenlignet med Forholdene
+ved det ubevæbnede Øje er Lyskeglens
+Lysindhold ved blot nogenlunde stærk Forstørring
+langt fra forøget i samme Forhold som Arealet
+af den Flade paa Nethinden, som Lyset skal
+udbredes over, saa at Klarheden vil være ringe,
+hvorfor det er vigtigt at bruge stærk Belysning
+af Objektet. Klarheden kan vises at være
+omvendt proportional med Kvadratet paa
+Forstørringen og ligefrem proportional med Kvadratet
+paa Objektivets <sp>numeriske Apertur</sp>,
+<i>a</i> = <i>n</i>sin<i>u</i>, hvor <i>u</i> er den halve Toppunktsvinkel
+i den Lyskegle, som fra et Objektpunkt i Aksen
+sendes gennem M. (Fig. 2. hvor <i>O</i> er den
+nederste Linse i Objektivet, der oftest vil være den,
+som begrænser Lyskeglen), og <i>n</i> er
+Brydningsforholdet for det Stof, der ligger mellem
+Objekt og Objektiv. Af dette Udtryk
+fremgaar allerede Betydningen af,
+at de anvendte Objektiver har stor numerisk Apertur,
+men denne er tillige bestemmende for, hvor fine
+Enkeltheder man kan se i M. (M.'s Opløsningsevne,
+se nedenfor).
+
+Fordelene ved at bruge det sammensatte M.
+er mangfoldige. Stærk Forstørring vilde kræve
+en enkelt Linse af meget lille Brændvidde og
+derfor meget smaa Dimensioner, imedens
+Forstørringen her fordeles paa 2 Systemer, der
+begge derfor kan være væsentlig svagere og
+større, hvad der frembyder tekniske Fordele
+ved Fremstillingen. Endvidere kommer Øje og
+Ansigt længere fra Objektet, hvilket i visse
+Tilfælde betyder mindre Fare for Iagttageren.
+Ogsaa den frie Objekt afstand, Afstanden fra
+Objektet til Objektivets forreste Linse, bliver større,
+og da denne ved stærk Forstørring alligevel er
+meget lille (helt ned til 0,1 mm), er dette ogsaa
+en vigtig praktisk Fordel. Endelig kan man ved
+at kombinere samme Objektiv med forsk.
+Okularer ell. omvendt opnaa en Række forsk.
+Forstørringer. Da der dannes et reelt Billede inde
+i M., kan man paa Billedets Plads anbringe
+Traadkors, Maalestok, Mikrometer og lignende,
+saa at M. kan bruges som Sigte- og
+Maleinstrument. Eller man kan underkaste
+Billedet fysiske Forandringer (Polarisation,
+spektral Opløsning, Absorption o. s. v.).
+Vigtigere end alle disse praktiske Fordele er
+imidlertid, at Delingen medfører en
+afgørende Forbedring af Billedernes Kvalitet.
+Under <sp>Linse</sp> er omtalt, at man ved et enkelt
+Linsesystem kun kan opnaa enten at afbilde et
+Objekt, der er lille i Forhold til Systemets
+Brændvidde, ved Hjælp af Straalebundter af
+stor Vinkeldivergens (Aabning) ell. et mere
+udstrakt Objekt ved snævre Straalebundter.
+For at opnaa stor Klarhed og stor Opløsningsevne
+maa bruges Straalebundter med stor Aabning,
+men for at faa stor Forstørring maatte disse til
+sidst bringes til at danne store Vinkler med
+Aksen; dette lader sig altsaa ikke opnaa ved
+en enkelt Linse. Men i M. finder nu netop en
+
+<img>Fig. 2.
+Apertur.</img>

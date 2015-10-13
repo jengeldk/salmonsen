@@ -1,0 +1,143 @@
+<i>escompte en dedans</i>) regnes paa samme Maade
+som Rente, se <sp>Rentesregning</sp>, men
+Diskonto af Veksler o. l. Fordringer regnes i
+Praksis i Alm. anderledes. Banker o. a.
+Diskontenter regner Diskontoen, der ligesom Rente
+betinges procentvis for et Aar (Diskontofod), af
+Vekselsummen for Tiden fra
+Diskonteringsdagen til Forfaldsdagen ell. i Lande, hvor der
+indrømmes Respit- eller Løbedage,
+Betalingsdagen. Denne Tid, Diskontotiden, angives i
+Dage, hvis Antal bestemmes efter forsk. Regler
+paa de forsk. Vekselpladser. Nogle regner
+Aaret til 365 og andre til 360 Dage. I Kbhvn og
+Kria sættes Aaret i D. i Reglen til 360 Dage og
+Maaneden til 30 Dage, medens Diskontotiden
+bestemmes paa flg. Maade: Man gaar ud fra
+Diskonteringsdagen, og for hver Gang denne
+Dato naas i den Tid, Vekslen løber, regnes en
+Maaned eller 30 Dage, medens Resten af Tiden
+frem til Forfaldsdagen regnes efter Kalenderen.
+Fra 15. Aug. (Diskonteringsdag) til 10. Novbr
+(Forfaldsdag) er der saaledes 86 Dages
+Diskontotid, idet man mellem de nævnte Datoer
+træffer 15. Septbr og 15. Oktbr, hvortil der er
+2 Maaneder ell. 60 Dage, og til disse lægges de
+26 Dage, som findes fra sidstnævnte Dato til
+10. Novbr. Hvis man regner aritmetisk
+Diskonto, skal denne, da Vekselsummen er
+sammensat af Kontantværdi (Kapital) og Rente,
+tages af Kontantværdien, men man regner
+hyppigst Vekseldiskonto (eng. <i>mercantile discount</i>,
+fr. <i>escompte en dehors</i>), som tages af hele
+Vekselsummen, og derfor vil det, naar denne
+Beregningsmaade skal anvendes, for at undgaa
+Misforstaaelser være heldigst at betegne
+Vekselsummen ved <i>V</i> og Diskontobeløbet ved <i>D</i>,
+medens Generaldivisor og Dagantal ligesom i
+Rentesregning betegnes ved henh. <i>g</i> og <i>d</i>. Derved
+faar man flg. Formel for Veksel-D.
+<table>
+<td c><i>V</i><td v2>=<td c><i>D</i><td v2>=<td c><i>V</i>÷<i>D</i><td v2>.
+<td c><i>g</i><td c><i>d</i><td c><i>g</i>÷<i>d</i>
+</table>
+<table>
+<td v2><i>D</i>=<td c><i>Vd</i><td v2>=<td>(<i>V</i>÷<i>D</i>) <i>d</i><td v2>
+<td c><i>g</i><td c><i>g</i>÷<i>d</i>
+</table>
+
+Eks. 1. Den 15. Septbr diskonteres en Veksel,
+der forfalder 5. Decbr, hvor meget bliver
+Diskontoen til 4 1/2 %?
+<table>
+<td v2><i>D</i>=<td c>7000 x 80<td v2>= 70
+<td c>8000
+</table>
+
+For Vekslen betales 7000 Kr ÷ 70 Kr =
+6930 Kr.
+
+Eks. 2. En 3 Maaneders Veksel skal ved
+Diskontering til 6 % give 9000 Kr kontant, hvilket
+Diskontobeløb skal man da lægge hertil for at
+faa Vekselsummen?
+<table>
+<td v2><i>D</i>=<td c>9000 x 90<td v2>= 137,06
+<td c>5910
+</table>
+
+Vekselsum = 9000 Kr + 137,06 Kr =
+9137,06 Kr.
+
+Diskonteres fl. ulige store Veksler med
+forskellig Løbetid samme Dag til samme
+Diskontofod, findes Diskontobeløbet af flg. Formel:
+<table>
+<td v2><i>D</i>=<td c><i>V</i><sub>1</sub><i>d</i><sub>1</sub>+<i>V</i><sub>2</sub><i>d</i><sub>2</sub>+<i>V</i><sub>3</sub><i>d</i><sub>3</sub> . . . .
+<td c><i>g</i>
+</table>
+
+Tællerens Led i Ligningens højre Side kaldes
+Diskontotal.
+
+Eks. 3. Beregningen af Diskontoen af fig. 3
+Veksler, som diskonteres 15. Septbr til 3 %,
+kan opstilles saaledes:
+
+<table>
+<td 8 c><i>Nota.</i>
+<td><td 2>Vekselsummer<td 2>Forfaldsdag<td>Dage<td 2>Diskontotal
+<td c>Kr.<td r>3000<td><td r>1.<td c>Oktbr.<td c>16<td r>480<td>(00)
+<td c>-<td r>2000<td><td r>1.<td c>Novbr.<td c>47<td r>940<td>(00)
+<td c>-<td r>1000<td><td r>15.<td c>-<td c>60<td r>600<td>(00)
+<td c>Kr.<td r>16<td>83<td><td><td><td r>2020<td>
+<td c>-<td r>5983<td>17<td 5 c>Diskonto 2020:120
+</table>
+
+Dette Beløb udbetales 15. Septbr.
+<i>(N. J. B.). Th. O.</i></chapter>
+
+<chapter name=”Diskontør”>
+<b>Diskontør,</b> en Forretningsmand, der
+beskæftiger sig med at diskontere Veksler.
+Populært bruges Udtrykket D. ofte som synonymt
+med Aagerkarl.
+<i>C. Th.</i></chapter>
+
+<chapter name=”diskordant”>
+<b>diskordant</b> (lat.), ikke samstemmende,
+skurrende, falsk.</chapter>
+
+<chapter name=”diskordant”>
+<b>diskordant</b> siges i Geologien en Aflejring
+at ligge i Forhold til en anden, naar dens
+Lagstilling afviger fra dennes, d.
+<sp>Parallelstruktur</sp>, se <sp>Diagonallejring</sp>. Se i
+øvrigt <sp>Lejringsforhold</sp>.
+<i>J. P. R.</i></chapter>
+
+<chapter name=”Diskos”>
+<b>Diskos</b> (gr.), rund Kasteskive, som Oldtidens
+Grækere benyttede ved gymnastiske Øvelser. I
+den hist. Tid var den sædvanlig af Bronze. De
+bevarede Eksemplarer har for største Delen et
+Tværmaal af 0,17-0,22 m, en Tykkelse af indtil
+0,013 m; som oftest er Randen ikke saa tyk som
+Midten. Vægten er sædvanlig omkr. 2 kg. Dog
+kendes ogsaa større og sværere D. (indtil en
+Vægt af 4,758 kg). Enkelte Stykker er prydede
+med indridsede Figurer; Afb. gengiver en paa
+Sicilien fundet D. med Billedet af en Atlet med
+Springvægte i Hænderne. - D.-Kastning var fra
+den ældste Tid yndet Sport i Grækenland; den
+nævnes jævnlig hos Homer og er benyttet som
+Motiv i fl. gl. Sagn (jfr <sp>Akrisios</sp>,
+<sp>Hyakinthos</sp>, <sp>Fokos</sp>); den hører til de »fem
+Legemsøvelser« (Pentathlon), hvori der ved de
+olympiske o. a. offentlige Fester afholdtes
+Væddekampe. Mange antikke Kunstværker giver
+Fremstillinger af D.-Kastningen. Atleten greb
+Kasteskiven med venstre Haand, søgte godt
+
+<img>
+Bronze-Diskos funden paa Sicilien.</img>

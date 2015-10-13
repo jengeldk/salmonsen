@@ -1,0 +1,139 @@
+forekomme baade i en højredrejende og en
+venstredrejende Modifikation, hvad man forstaar
+ved at tænke sig Kulstofatomet som en regulær
+tresidet Pyramide (Tetraeder) med en
+Atomgruppe i hvert af de 4 Hjørner; de 4 forsk.
+Grupper kan da altid ordnes paa 2 Maader,
+der ikke er symmetriske, og hvoraf den ene
+svarer til den højredrejende, den anden til den
+venstredrejende Modifikation, der i Reglen
+ogsaa har noget forsk. fys. og kem. Egenskaber.
+En Blanding af lige mange Molekyler af begge
+Modifikationer er optisk neutral, men kan paa
+forsk. Maader spaltes i 2 optisk aktive Former
+(er »racemisk«). En saadan Spaltning lykkedes
+første Gang <sp>Pasteur</sp> (1848) ved Druesyre,
+der spaltedes i den naturligt forekommende
+Højrevinsyre og en Venstrevinsyre. Da Vinsyre
+indeholder 2 ens assymetriske Kulstofatomer i
+Molekylet, eksisterer ogsaa en optisk uvirksom
+Form, Mesovinsyre, der ikke kan spaltes i 2
+aktive Former; de 2 Halvdele af dens
+Molekyle virker lige stærkt i modsat Retning. Disse
+af <sp>van't Hoff</sp> (1874) indførte stereokemiske
+Betragtninger har været overordentlig
+frugtbare: Anvendelsen af Polarisationsplanens
+Drejning i den kem. Analyse er ikke engang
+indskrænket til optisk aktive Stoffer, idet ogsaa
+andre tilstedeværende Stoffer har en
+Indvirkning paa Drejningen. Desuden har
+Undersøgelser af Drejningen faaet stor Anvendelse
+i Praksis til Bestemmelser af det virkelige
+Sukkerindhold i Handelsvarerne. I de fleste
+Lande, saaledes ogsaa i Danmark, er Toldsatserne
+for Sukker baseret paa en saadan polarimetrisk
+Bestemmelse af det virkelige Sukkerindhold.
+
+En særegen Drejning er den <sp>magnetiske</sp>,
+der fremkommer, naar Lyset gennemløber et
+gennemsigtigt Stof i Retning af Kraftlinierne i
+et stærkt Magnetfelt, hvori Stoffet er anbragt
+(<sp>Faraday</sp> 1846); man taler her om
+<sp>magnetisk aktive</sp> Stoffer til Forskel fra de
+omtalte naturligt aktive Stoffer. Drejningen er
+proportional med Feltstyrken og Lagets
+Tykkelse og gaar for de fleste Stoffer i samme
+Retning som den elektriske Strøm, der kunde
+fremkalde Magnetfeltet; da det altsaa er
+ligegyldigt, hvad Vej Lyset gaar, kan man forøge
+Drejningen ved at sende Lyset frem og tilbage
+gennem Stoffet i Magnetfeltet, hvilket ikke er
+muligt ved den naturlige Drejning. Den
+magnetiske Drejning vokser ogsaa i Reglen med
+aftagende Bølgebredde; som Eks. paa
+Drejningens Størrelse skal nævnes, at Natriumlys i et
+Felt paa 1000 Gauss drejes c. 7° i et 10 cm
+tykt Svovlkulstoflag og c. 2° i et lige saa tykt
+Vandlag. For de magnetiske Metaller er
+Drejningen overordentlig stor, men de er jo kun
+gennemsigtige i yderst tynde Lag. I enkelte
+Tilfælde er den magnetiske Drejning brugt til
+Udmaaling af Magnetfelters Styrke.
+
+Andre vigtige Anvendelser af
+Polarisationsapparaterne er til Undersøgelser af
+dobbeltbrydende Stoffer, især i Mineralogien til
+Krystalundersøgelser. Anbringes mellem Polarisator og
+Analysator i et Polarisationsapparat, der er
+stillet paa Mørke, en Plade af en
+dobbeltbryderde Krystal, bliver Synsfeltet i Alm. ogsaa
+lyst og for tynde Plader farvet, men man
+kender let dette Fænomen fra Drejningen, da man
+ikke her kan laa Mørke ved at dreje
+Analysatoren, selv naar man bruger ensfarvet Lys,
+og i Modsætning til, hvad der var Tilfældet ved
+en Plade af et drejende Stof, ændres dette
+Fænomen, naar man drejer Pladen om
+Lysstraalen som Akse. Det indfaldende plant
+polariserede Lys spaltes inde i Pladen i 2
+Straaler, som er polariserede vinkelret paa hinanden
+og i Alm. forplanter sig med forsk. Hastighed
+gennem Pladen. Naar disse 2 Straaler træder
+ud af Pladen, har deres Svingninger derfor
+faaet en Faseforskel (se <sp>Interferens</sp>), saa
+at de ikke længere sammensættes til plant
+polariseret, men til <sp>elliptisk polariseret</sp>
+Lys. Af Fig. 2 fremgaar, at medens de 2
+Svingninger, hvori en retlinet Svingning kan opløses,
+har samme Fase (passerer f. Eks. samtidig
+Ligevægtsstillingen) ell. Faseforskellen 1/2,
+nemlig dersom Svingningerne havde ligget i det
+andet Vinkelrum, vil de 2 Svingninger, hvori
+en elliptisk Svingning kan opløses, have en
+anden vilkaarlig Faseforskel; specielt er for
+Cirklen Faseforskellen 1/4 ell. 3/4, og de 2
+Svingningskomposanter har her tillige lige store
+Udsving. Omvendt vil 2 lineære Svingninger med
+vilkaarlig Faseforskel, som dem, der træder ud
+af den betragtede dobbeltbrydende Plade,
+sammensættes til en elliptisk Svingning, altsaa give
+elliptisk polariseret Lys; ved et elliptisk
+polariseret Straalebundt forstaar man et
+Straalebundt, hvor Svingningerne i alle Straaler
+foregaar i ligedannede og ens liggende Ellipser.
+Saadant Lys kan ikke udslukkes af en Nicol
+ell. anden Analysator; det giver sig til Kende,
+ved at Lysstyrken varierer under Nicolens
+Drejning uden nogensinde at blive Nul, ganske som
+for delvis polariseret Lys. Kun for de bestemte
+Stillinger af Pladen, hvor den indfaldende
+Straale har en af de i Pladen mulige
+Svingningsretninger, gaar dens Svingninger
+uforandrede igennem; tillige vil for Plader af de
+bestemte Tykkelser, der giver Faseforskelle paa
+0, 1 o. s. v., de udtrædende Straaler igen
+sammensættes til lineært polariseret Lys med den
+opr. Svingningsretning, og for de Tykkelser, der
+giver Faseforskelle paa 1/2, 3/2 o. s. v., vil det
+udtrædende Lys ogsaa være lineært
+polariseret, men med en anden Svingningsretning. I
+de 2 første Tilfælde slukkes altsaa Lyset af
+Analysatornicolen, der staar paa Mørke, og i
+det sidste Tilfælde kan det slukkes ved at dreje
+denne.
+
+Elliptisk polariseret Lys undersøges ved
+Hjælp af en <sp>Kompensator</sp>, en tynd
+Kvartskile, slebet parallel med den optiske Akse. Ved
+at forskyde Kilen ved en Mikrometerskrue,
+indtil det Sted, som Lyset passerer, netop har den
+rette Tykkelse til at give saa megen yderligere
+Faseforskel, at den samlede bliver 0, 1 o. s. v.,
+opnaas, at Lyset bliver lineært polariseret.
+Kendetegnet herpaa er, at det kan slukkes af
+Nicolen, og i saa Fald finder man
+Faseforskellen af Kompensatorstillingen og Forholdet
+mellem Svingningskomposanterne af Nicolens
+Stilling, hvorved Ellipsen er helt kendt. Ved en
+saadan Undersøgelse kan man altsaa skelne
+elliptisk polariseret Lys fra delvis polariseret.

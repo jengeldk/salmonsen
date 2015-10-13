@@ -1,0 +1,114 @@
+<table>
+<td>Tabel I.<td 11 c><sp>Produktionsmængde ved den norske Grubedrift</sp>.
+<td v2><td 4 c>Gennemsnitlig aarlig<td 7>
+<td c>1896-1900<br>t<td c>1901-05<br>t<td c>1906-10<br>t<td c>1911-15<br>t<td c>1916<br>t<td c>1917<br>t<td c>1918<br>t<td c>1919<br>t<td c>1920<br>t<td c>1921<br>t<td c>1922<br>t
+<td>Sølvmalm<td r>514<td r>868<td r>2170<td r>5623<td r>7515<td r>7147<td r>8599<td r>8947<td r>8018<td r>8832<td r>11765
+<td>Jernmalm<td r>6510<td r>51452<td r>102311<td r>508092<td r>417900<td r>302739<td r>95887<td r>89757<td r>79208<td r>57419<td r>258815
+<td>Kobbermalm<td r>36956<td r>38134<td r>36940<td r>55824<td r>28670<td r>39298<td r>50034<td r>21974<td r>6809<td r>14135<td r>1059
+<td>Svovlkis<td r>87867<td r>129739<td r>265108<td r>440578<td r>295354<td r>328694<td r>338849<td r>309011<td r>333011<td r>231123<td r>396411
+<td>Nikkelmalm<td r>422<td r>4512<td r>8492<td r>46795<td r>79903<td r>69639<td r>24150<td r>10050<td r>12482<td r>2141<td r>3050
+<td>Feldspat<td r>15568<td r>20331<td r>33489<td r>31225<td r>12811<td r>4435<td r>3488<td r>5166<td r>6397<td r>9348<td r>11765
+<td>Andre Malme og Mineraler<td r>2031<td r>3171<td r>4925<td r>4210<td r>11890<td r>17647<td r>14321<td r>9907<td r>3566<td r>4028<td r>12489
+<td>Grubeproduktion i alt<td r>149868<td r>248207<td r>453435<td r>1092347<td r>854043<td r>769599<td r>522441<td r>454812<td r>449491<td r>327026<td r>695354
+</table>
+
+<table>
+<td>Tabel II.<td 11 c><sp>Produktionsværdi af Bjergværksdriften i Norge</sp>.
+<td v2><td 4 c>Gennemsnitlig aarlig<td 7>
+<td c>1896-1900<br>Kr.<td c>1901-05<br>Kr.<td c>1906-10<br>Kr.<td c>1911-15<br>Kr.<td c>1916<br>Kr.<td c>1917<br>Kr.<td c>1918<br>Kr.<td c>1919<br>Kr.<td c>1920<br>Kr.<td c>1921<br>Kr.<td c>1922<br>Kr.
+<td>Sølv og Sølvmalm<td r>382000<td r>479000<td r>510000<td r>690000<td r>715000<td r>980000<td r>1120000<td r>1794000<td r>1772000<td r>880000<td r>823000
+<td>Kobber og Svovlkis<td r>3442000<td r>5265000<td r>8448000<td r>14070000<td r>20415000<td r>28185000<td r>36207000<td r>24637000<td r>16551000<td r>12498000<td r>12667000
+<td>Jern og Jernmalm<td r>152000<td r>432000<td r>1047000<td r>7446000<td r>10545000<td r>10950000<td r>6137000<td r>2369000<td r>3115000<td r>1819000<td r>6988000
+<td>Nikkel og Nikkelmalm<td r>22000<td r>201000<td r>165000<td r>1876000<td r>3635000<td r>2650000<td r>1600000<td r>1110000<td r>1862000<td r>118000<td r>91000
+<td>Andre Malme og Mineraler<td r>65000<td r>117000<td r>135000<td r>296000<td r>2232000<td r>5121000<td r>4495000<td r>919000<td r>376000<td r>147000<td r>616000
+<td>Apatit<td r>81000<td r>91000<td r>91000<td r>45000<td r>142000<td r>320000<td r>960000<td r>158000<td c>—<td r>139000<td c>—
+<td>Feldspat<td r>216000<td r>295000<td r>478000<td r>457000<td r>277000<td r>188000<td r>307000<td r>364000<td r>502000<td r>464000<td r>497000
+<td r>I alt<td r>4360000<td r>6880000<td r>10874000<td r>24880000<td r>37961000<td r>48394000<td r>50826000<td r>32351000<td r>24178000<td r>16065000<td r>21682000
+</table>
+
+Man vil se, at Produktionsværdien fra
+Aarhundredskiftet, da den udgjorde omkr. 5 Mill.
+Kr, steg til det 10-dobbelte, nemlig 50 Mill. Kr,
+i 1918. Aarsagen til den store Forøgelse i
+Produktionsværdien er naturligvis for en stor Del
+at søge i de under Krigen raadende
+Højkonjunkturer paa Metaller og Erts, men som
+allerede før nævnt var der ogsaa en betydelig
+Stigning i Produktionsmængden. Efter Krigen er
+den aarlige Produktionsværdi gaaet betydelig
+ned, saa den 1922 udgjorde c. 20 Mill. Kr.
+
+For at belyse Driften ved de enkelte
+Bjergværker i de sidste 20 Aar, vil det antagelig være
+hensigtsmæssigst at gruppere de enkelte
+Værker efter Produktionens Art.
+
+<sp>Sølvværk</sp>. Bl. de norske Bjergværker
+indtager <sp>Kongsberg Sølvværk</sp> fremdeles
+en Hædersplads. Der er i Løbet af de sidste 20
+Aar foretaget en Rk. betydelige Forbedringer
+ved saavel Grube- som Hyttedriften. Den
+aarlige Produktion i Femaaret 1911—15 gik op til
+10000 kg fint Sølv, men p. Gr. a. forsk.
+Omstændigheder er Produktionen i de sidste Aar blevet
+adskillig mindre, hvilket har medført, at Værket
+i nogle Aar har gaaet med stort Underskud.
+Ved Hjælp af de udførte Forbedringer er der
+imidlertid et begrundet Haab om, at Værket
+fremtidig vil kunne drives med Ballance. —
+Foruden Statens Sølvværk har det private Værk i
+Kongsberg-Feltet <sp>Vinoren</sp> (<sp>Trollerud</sp>)
+Værk været i Drift lige til for nogle faa Aar
+siden, da Værket nedlagdes. Andre Sølvværk
+har ikke været i Drift i den forløbne Del af
+indeværende Aarh.
+
+<sp>Kobberværk og Svovlkisværk</sp>. Af
+de gl. Kobberværk har <sp>Røros Værk</sp> været i
+uafbrudt Drift, fra det optoges 1644 og lige til for
+c. 3 Aar siden, da Kobberproduktionen indtil
+videre blev indstillet, og Driften i Gruberne
+væsentlig indskrænkedes. Før Driften blev
+indstillet, gav Røros Værk en aarlig Produktion af
+c. 600 t Kobber og c. 10000 t Svovlkis. — Det gl.
+<sp>Meldalen</sp> ell. <sp>Løkken Værk</sp> gik i Beg.
+af indeværende Aarh. over til et nyt Selskab,
+<sp>Orkla Grubeaktiebolag</sp>, som har
+bygget en elektrisk Jernbane til Orkedalsøren og
+for øvrigt udført store Anlæg, hvorved man har
+kunnet sætte Stordrift i Gang. Dette Værk er
+f. T. Norges største Svovlkisværk og havde 1922
+en Produktion af henimod 200000 t Eksportkis,
+ell. omtr. det halve af Landets samlede
+Svovlkisproduktion. — Et andet betydeligt Værk, som
+nu har været i Drift en Rk. Aar, er
+<sp>Sulitelma Værk</sp>. Under Krigen var her en meget
+betydelig Produktion af saavel Kobber som
+Svovlkis, nemlig et Aar endog op til 1300 t
+Kobber og 130000 t Svovlkis. Efter Krigen er
+imidlertid Driften blevet indskrænket, og
+Produktionen er i de sidste Aar sunket betydelig.
+1922 var den 82000 t Svovlkis; Kobber er i de
+senere Aar ikke blevet produceret ved dette
+Værk. — Et andet Værk, som producerede
+metallisk Kobber under Krigen, er <sp>Birtavarre
+Værk</sp> i Lyngen. Ved dette Værk har
+imidlertid al Drift hvilet nu nogle Aar. Videre maa
+nævnes, at metallisk Kobber ogsaa er blevet
+fremstillet ved <sp>Kristiansands
+Nikkelraffineringsværk</sp>, hvor man under
+Krigen havde en aarlig Produktion af over 500 t
+Kobber.
+
+Ved det gl. Foldals Værk igangsattes
+1907 en stor Drift paa Svovlkis, og Produktionen
+kom nogle Aar efter op til henimod 70000 t
+aarlig. I de sidste Aar er imidlertid
+Produktionen sunket betydelig og udgjorde 1922 c. 21000 t.
+Af de andre Forekomster, hvor der har været
+produceret Svovlkis i de sidste 20 Aar, maa
+nævnes <sp>Undals Værk</sp>, <sp>Kjøli</sp>,
+<sp>Killingdal</sp>, <sp>Ytterøen</sp> og <sp>Meraker</sp>, alle
+Forekomster i Trøndelagen, samt <sp>Røstvangen</sp> i
+Kvikne. Driften ved fl. af disse Forekomster
+har til Dels været noksaa betydelig, men er i de

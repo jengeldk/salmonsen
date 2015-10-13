@@ -1,0 +1,135 @@
+<sp>Aneroïd-B.</sp> bestaar i Hovedsagen af
+lukkede Daaser af tyndt Bølgeblik ell. af lukkede,
+krumme, tyndvæggede Metalrør, der forandrer
+Form, naar Lufttrykket udenom ændres.
+Formforandringen bliver gennem et Vægtstangssystem
+overført til en Viser, der peger paa en inddelt
+Skala, hvis Inddelinger er afsatte ved
+Sammenligninger med et Kviksølv-B. Daaser og Rør er
+praktisk talt lufttomme for at undgaa den
+Komplikation, som Temperaturvariationers
+Indflydelse paa den indesluttede Luft ellers vilde
+medføre. Aneroid-B. er langtfra saa
+paalidelige som Kviksølv-B. De paavirkes som Regel
+af Temperaturvariationer og ændrer sig i
+Tidens Løb, hvorfor de af og til maa kontrolleres
+ved Sammenligninger med Kviksølv-B. De er
+lettere at transportere og haandtere og desuden
+som Regel billigere end Kviksølv-B., og de er
+i de fleste Tilfælde tilstrækkelige til Brug i det
+praktiske Liv. De kan fremstilles saa smaa,
+at de kan bæres i en Lomme. Hvert Aneroid-B.
+har sin Temperaturkorrektion. Tyngdens
+Ændringer har derimod ingen Indflydelse paa
+disse B.'s Angivelse af Lufttrykket.
+
+Saavel Kviksølv-B. som Aneroid-B. kan
+fremstilles som selvregistrerende Apparater og
+kaldes da <sp>Barografer</sp> ell.
+<sp>Barometrografer</sp>. Et Kviksølv-B.'s Stand kan
+registreres enten ad fot. ell. mekanisk Vej, det sidste
+atter enten ved en Registrering af Vægten af
+Kviksølv i det Torricelliske Rør ell. ved Hjælp
+af en Svømmer paa Kviksølvoverfladen. Mindre
+nøjagtige, men til praktisk Brug som Regel
+fuldstændig tilstrækkelige er de Barografer, der er
+byggede efter Aneroïdprincippet. Paa
+Aneroïd-B.'s Viser er i saa Tilfælde anbragt en Pen,
+der til enhver Tid optegner Standen paa et
+Papir, der af et Urværk føres forbi Pennen.
+Saadanne Apparater har fundet meget stor
+Udbredelse ogsaa i det praktiske Liv p. Gr. a.
+det let overskuelige og lærerige Billede,
+saadanne Registreringer giver, af Forandringerne
+i Lufttrykket. Medens man ved Jordens
+Overflade saa at sige udelukkende anvender
+Kviksølvbarografer til videnskabeligt Brug, er man
+til Undersøgelser i de højere Luftlag henvist
+til at benytte Aneroïdbarografer. Disse
+Instrumenter bygges da meget lette, og man maa
+sørge for, at Temp.'s Indflydelse paa Apparatet
+bliver saa lille ell. saa regelmæssig som mulig.
+Ofte sammenbygges disse Registratorer med
+Registratorer for Temp. (<sp>Barotermograf</sp>),
+ell. desuden med Registratorer for Fugtighed
+(<sp>Barotermohygrograf</sp>). Ved saadanne
+Sammenbygninger tegner alle skrivende
+Organer paa samme Tromle, hvorved man kan
+nøjes med et Urværk.
+<i>D. la C.</i>
+
+<img>Fig. 2. Gennemsnit.</img>
+
+<img>Fig. 3. Grundrids. Aneroïd-Barometer.
+I Fig. 2 og 3 er <i>b</i> en praktisk talt lufttom Metalæske
+med bølgeformet Laag. Æsken er forneden fastgjort
+til Grundpladen <i>a</i> og forhindres af Fjederen <i>c</i> i at
+trykkes sammen af Lufttrykket. Fjederen <i>c</i> er
+nemlig med Skruen <i>f</i> fæstet til Midten af Æskens Laag
+og bærer derfor Lufttrykket paa dennes Laag. Stiger
+Lufttrykket, vil Fjederen <i>c</i> give noget efter, og den
+derved betingede Bevægelse af Skruen <i>f</i> overføres
+ved Hjælp af Vægtstangsystemet <i>g</i>, <i>h</i>, <i>i</i>, <i>k</i> og <i>m</i> samt
+Kædetrækket <i>n</i> til Aksen <i>o</i>, hvortil Viseren z er fæstet.</img>
+</chapter>
+
+<chapter name="Barometermaksimum">
+<b>Barometermaksimum</b> kaldes i Meteorologien
+Barometerstanden paa et saadant Sted i Atm.,
+hvor Lufttrykket er højere end i Omgivelserne
+i samme Niveau (se <sp>Anticyklon</sp>).
+<i>D. la C.</i>
+</chapter>
+
+<chapter name="Barometerminimum">
+<b>Barometerminimum</b> kaldes i Meteorologien
+Barometerstanden paa et saadant Sted i Atm.,
+hvor Lufttrykket er lavere end i Omgivelserne
+i samme Niveau (se <sp>Cyklon</sp>).
+<i>D. la C.</i>
+</chapter>
+
+<chapter name="Barometerstand">
+<b>Barometerstand</b> er den Skalaværdi,
+Barometret angiver. »Den reducerede B.« er den
+aflæste B., korrigeret for Instrumentfejl og
+reduceret til Kviksølvets Vægtfylde ved 0° C.
+og til Tyngden ved Havets Niveau paa 45° Br.
+</chapter>
+
+<chapter name="Barometri">
+<b>Barometri</b> (gr.), Læren om Barometret, om
+de Resultater, som Iagttagelsen af dette giver,
+samt om de deraf dragne Slutninger.
+</chapter>
+
+<chapter name="Barometrograf (se Barometer)">
+<b>Barometrograf,</b> se <sp>Barometer</sp>.
+</chapter>
+
+<chapter name="Barometz">
+<b>Barometz</b> er de paa Rodstokkene af
+forskellige Bregner siddende Haar. I Middelalderen
+indførtes fra Asien de hele Rodstokke under
+Navn af <i>frutex tartareus</i> og benyttedes som
+blodstillende Middel; senere tildannedes de ofte
+i Form af et Dyr med fire Ben og Hale, hvilke
+dannedes af Bladstilkene, og kaldtes da <i>agnus
+scythicus</i>. Nu indføres Haarene især fra
+Sumatra under Navn af <sp>Pengavar Djambi</sp>
+og fra Java som <sp>Paku Kidang</sp>, førstnævnte
+af <i>Cibotium B.</i>, sidstnævnte af <i>Alsophila lurida</i>
+o. fl. Haarene er gule til mørkebrune, indtil
+0,03 mm brede, meget tyndvæggede og
+luftfyldte. De kan indsuge store Mængder Vand og
+benyttes derfor som blodstillende Middel (<i>Pili
+Cibotii</i>), idet de med stor Kraft berøver Blodet
+det meste Vand og derved frembringer en
+hurtig Koagulation og Standsning af Blødningen.
+Fra Sandwich-Øerne udføres betydelige
+Mængder, stammende fra forsk. Arter <i>Cibotium</i>, under
+Navn af <sp>Pulu</sp>, og baade disse og de
+førstnævnte benyttes en Del til Stopning af Puder
+og Madrasser.
+<i>K. M.</i>
+</chapter>

@@ -1,0 +1,145 @@
+vandret Lag Korkplader saa langt nede, at
+Ankerboltene ikke gennembryder Laget (Fig.
+2); den stive Forbindelse mellem Fundament og
+Maskine vil dæmpe dennes Svingninger, og
+Korken vil hindre Svingningerne i at forplante sig
+gennem Jorden til Bygningens Fundamenter. Ofte
+omgiver man ogsaa Fundamentets Sider med
+Korkplader (Fig. 2) ell. tilvejebringer en
+Luftfuge, men en Tilfyldning med løs Jord er
+formentlig tilstrækkelig iil at hindre væsentlig
+Lydoverføring ad denne Vej. Derimod bør
+Betongulvet og Slidlaget holdes adskilt fra
+Fundamentet ved en lodret Luft- ell. Korkfuge, der
+eventuelt kan kantes med Jern ell. overdækkes
+med en løs Jernplade ell. et Bræt. Man kan
+ogsaa indlægge et Kautsjukbaand i Slidlaget.
+
+Skal Maskinen fastboltes til en
+Etageadskillelse, i hvilken Boltene kan indstøbes, men som
+ikke tillader, at Boltene isoleres, kan hele
+Isolationssystemet anbringes over Gulvet og købes
+færdig i Form af <sp>Svingningsdæmpere</sp>,
+af hvilke Fig. 3 viser en Udførelsesform.
+Maskinen A er fastboltet til Støbejernsklokken B,
+der hviler paa en skrueformet Staalfjer, og
+hvis Sidebevægelser og opadgaaende
+Bevægelser dæmpes af Korkindlægget D. Ved
+Indstilling paa Skruerne C kan Staalfjeren paa
+Forhaand spændes mer ell. mindre stærkt sammen,
+efter som de Kræfter, hvormed Maskinen
+virker, er større ell. mindre, saaledes at
+Svingningerne holdes inden for passende Grænser.
+Det ydre Hylster er tvedelt (E og F) af Hensyn
+til Klokkens Indførelse; de to Dele spændes
+sammen og fast til Gulvet med 4 Hjørnebolte
+H, og til yderligere Dæmpning indskydes
+Korkpladen G.
+
+Maskiner med store, langsomt svingende
+Masser, der ikke er kontrabalancerede, kan,
+saafremt de er funderede paa Flydesand ell. et
+lgn. bevægeligt Underlag, frembringe Bølger
+paa dettes Overflade, svarende til Vandbølger,
+der breder sig i alle Retninger og kan sætte
+Nabobygninger paa samme Underlag i en
+vuggende Bevægelse. Bygningens Grundplan
+bestemmer Svingningsretningen, idet denne staar
+vinkelret paa den Akse, om hvilken
+Tværsnittets Inertimoment er mindst. Udsvingene er
+kun smaa, men Akcelerationen kan være meget
+betydelig, i et enkelt Tilfælde er den maalt til
+12 m/Sek<sup>2</sup> i øverste Etage af en Bygning med
+et meget smalt Grundrids. Disse Bølgers
+Opstaaen kan ikke hindres ved at stille Maskinen
+paa et Korkunderlag, dette egner sig kun til
+Dæmpning af de langt hurtigere
+Lydsvingninger. Enten maa Maskinen stilles paa fast Bund,
+f. Eks. Pæle, ell. ogsaa maa de svingende
+Masser omhyggeligt afbalanceres.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="lydisolerende Vægge">
+<b>lydisolerende Vægge</b> skal baade være
+uigennemtrængelige for den Lyd, der overføres
+til dem ved Berøring med andre faste Legemer,
+og for den Lyd, der rammer dem i Form af
+Luftbølger, a) Ved Væggens Berøring med Gulv,
+Loft o. a. Vægge kan der overføres
+Lydsvingninger til den. Dette hindrer man bedst ved at
+indlægge lydabsorberende Stoffer i
+Berøringsfladerne (se <sp>lydisolerende
+Maskinunderlag</sp>) ell. ved helt at bygge Væggen af
+slige Stoffer, b) Ved Bankning paa selve
+Væggen kan der skabes Lyd, der forplanter sig
+igennem den. Dette hindrer man bedst ved at
+beklæde Væggen med et ikke lydgivende Stof
+og ved at fremstille den helt ell. delvis af
+lydabsorberende Stoffer ell. ved at udføre den som
+Dobbeltvæg. c) Endelig kan Lyden naa Væggen
+i Form af Luftsvingninger, og Betingelsen for
+Lydtæthed er, at Væggen enten tilbagekaster
+Lyden uden selv at komme i Svingning, ell. at
+den absorberer Lyden. Det sidste er principielt
+at foretrække, da Lyden dermed er tilintetgjort.
+Naar Lyden fra Menneskers Tale ell. en
+Maskines Snurren rammer en Væg i Form af
+Luftbølger, vil Væggen kunne forplante Lyden til
+Naborummet paa 3 Maader:
+
+1) Ved Lydsvingninger i Væggens Luftporer,
+thi har Væggen Revner og Sprækker, ell. er
+den porøs, gaar Luftbølgerne igennem den som
+saadanne. Lydgennemtrængeligheden varierer
+som Luftgennemtrængeligheden, vokser med
+aftagende Vægtykkelse, med Porernes Diameter,
+med Porøsitetsgraden og desuden med
+Tonehøjden. Tæpper o. a. groft porøse Stoffer er
+derfor daarlige Isolatorer over for Luftlyd,
+deres Lydgennemtrængelighed er direkte
+proportional med deres Luftgennemtrængelighed.
+Ogsaa Murværk, Beton o. l. isolerer des bedre,
+jo lufttættere Massen er. Er Porerne vandfyldte
+(f. Eks. friskt Murværk), er Lydtætheden (og
+samtidig Reflektionsevnen), større, end naar
+Porerne er luftfyldte. Løse Fyldstoffers
+Lydtæthed vokser med Lejringstætheden; jo mere
+Stoffet komprimeres, des bedre isolerer det mod
+Lyd. Ved stærk Komprimering viser
+Tørveplader og Tørvestrøelse en stor Isoleringsevne,
+fordi Luftgennemtrængeligheden da bliver saa
+ringe, at disse Stoffers store Absorptionsevne
+kan gøre sig gældende.
+
+2) Ved Lydsvingninger i Vægmaterialet. Er
+Væggen saa tyk ell. saa stiv, at Lydbølgerne
+ikke kan bøje den, forbliver dens Tyngdepunkt
+i Hvile, og er den desuden uporøs med glat
+Overflade, vil den tilbagekaste Lydbølgerne i
+næsten usvækket Tilstand og praktisk talt være
+lydtæt. Luftmolekylernes Stød mod Væggen
+virker ganske vist som Hammerslag og sender
+Fortætningsbølger ind i Væggen, men disse
+Bølger bliver meget svage dels p. Gr. a. den ringe
+Energi, der er i Luftbølgerne, dels fordi den
+indre Friktion i Materialet dæmper dem. Selv
+et ganske tyndt, fast Lag er tilstrækkeligt til at
+absorbere Svingningerne, og Lydforplantning ad
+denne Vej er derfor uden praktisk Bet.
+
+3) Ved Bøjningssvingninger af Væggen som
+Helhed. Naar Lyden forplanter sig gennem en
+lufttæt Væg, er det, fordi Væggen kommer i
+Svingning som Helhed og derved sætter Luften
+paa den anden Side i Svingning. Udsvinget
+behøver kun at være 1 : 1000000 mm for at
+sætte Luften i hørlige Svingninger. Tænker man
+sig en Væg uden Tykkelse svingende
+modstandsløst paa ganske samme Maade, som Luften
+vilde svinge, hvis Væggen var borte, møder
+Lyden ingen Modstand, intet tilbagekastes, og
+alt føres videre. Er Væggen fastholdt langs
+Randene, og har den tilfældigvis en saadan
+Tykkelse, at den svinger i Takt med Lydgiveren,
+f. Eks. en Maskine, kan den virke forstærkende

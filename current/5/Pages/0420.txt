@@ -1,0 +1,134 @@
+Øjeblik, Solen er i øvre Kulmination. 2) Naar
+Solen er i Sommersolhvervspunktet (22. Juni), 6
+Timer før Solen er i øvre Kulmination. 3) Naar
+Solen er i Høstjævndøgnspunktet (23. Septbr) i
+det Øjeblik, da Solen er i nedre Kulmination.
+4) Naar Solen er i Vintersolhvervspunktet (22.
+Decbr), 6 Timer efter at Solen har været i øvre
+Kulmination. I Tiden fra Solen er i Foraarsjævndøgnspunktet,
+til den atter kommer tilbage
+til dette Punkt, gennemløber dens Kulmination
+saaledes alle Stjernedagens Klokkeslet. Men da
+vi har indrettet vort Liv efter Solen, vil det
+være naturligere at regulere Tiden efter Solens
+Bevægelse, at regne efter Soldage, og ikke efter
+Stjernedage, efter <sp>Soltid</sp> og ikke efter Stjernetid.
+Man definerer den <sp>sande Soldag</sp> som
+den Tid, der forløber mellem to paa hinanden
+flg. øvre (ell. nedre) Kulminationer af Solens
+Centrum. Den begynder i det Øjeblik, Solens
+Centrum staar i øvre Kulmination, og da har
+man <sp>sand Middag</sp>. Men dette Tidsrum er af
+2 Grunde ikke til alle Tider af samme Længde.
+For det første bevæger Solen sig p. Gr. a.
+Jordbanens elliptiske Form ikke med jævn
+Hastighed; i Decbr, hvor Solen og Jorden er hinanden
+nærmest, er Hastigheden størst, i Juni, da de er
+længst fra hinanden, er denne mindst, saaledes,
+at medens Tiden mellem to paa hinanden flg.
+Kulminationer af s. N. i Gennemsnit er 24 Timer
+3 Min. 57 Sek. (Stjernetid), er den i Decbr 24
+Timer 4 Min. 5 Sek., i Juni 24 Timer 3 Min.
+49 Sek. Den anden Aarsag til Soldagenes ulige
+Længde ligger i, at Solen ikke bevæger sig i
+Ækvator ell. en dermed parallel Cirkel, men i
+Ekliptikken, der danner en Vinkel med Ækvator,
+og denne Grund vejer mere end den første.
+Thi selv om Solen bevægede sig med jævn Hastighed
+i Ekliptikken, maa Projektionerne af
+denne Solens Bevægelse ɔ: dens Længdeforandring
+paa Ækvator, langs hvilken Tiden regnes,
+snart være større, snart mindre end Længdeforandringerne
+selv. Omkr. Jævndøgn danner
+nemlig Retningen af Solens Bevægelse en Vinkel
+paa 23 1/2° med Ækvator ell. Retningen af den
+daglige Bevægelse, og som Følge heraf er paa
+disse Tider, Marts og Septbr, Soldagene 20 Sek.
+kortere end gennemsnitlig; omkr. Solhverv i
+Juni og Decbr, hvor Solen er en af Polerne
+23 1/2° nærmere, vil den paa Ækvator projicerede
+Længdeforandring blive større end den gennemsnitlige
+og som Følge deraf Soldagen blive længere.
+Begge de nævnte Grunde vil tilsammen
+bevirke, at Soldagen vil være 51 Sek. længere
+ved Vintersolhverv end ved Efteraarsjævndøgn.
+Saa længe Urene endnu i deres daglige Gang
+kunde have Fejl paa over 20 Sek., gav disse
+Afvigelser ikke Anledning til nogen Ubehagelighed.
+Men da med Huygens Pendulurene kom
+i Brug, og derved Udmaalingen af Tiden kunde
+gøres med større Nøjagtighed end tidligere,
+maatte den ujævne Bevægelse af Solen virke
+forstyrrende. Vilde man, at Uret skulde følge
+Solen, maatte det snart gaa langsommere, snart
+hurtigere. For at undgaa dette regner man ikke
+efter den sande Sol, men efter en tænkt Sol,
+som bevæger sig i Ækvator med jævn Hastighed,
+og som gør et Omløb i samme Tid, som
+Solen gaar Himlen en Gang rundt i Ekliptikken.
+Tiden mellem to paa hinanden flg. øvre
+(ell. nedre) Kulminationer af den tænkte Sol,
+<sp>Middelsolen</sp> kaldet, benævnes en
+<sp>Middelsoldag</sp>,
+der begynder i det Øjeblik, Middelsolen
+er i øvre Kulmination (Middelmiddag).
+1780 blev denne Middelsoltid indført i Genf; i
+London 1792; i Berlin 1810; i Paris 1816; i
+Zürich 1832 etc. Efter Newcomb er Rektascensionen
+af Middelsolen for 1900 Jan. 0, Greenwich
+Middelmiddag 18 Tim. 38 Min. 45,836 Sek.
+Da man nu kender Middelsolens Rektascension
+fra et bestemt Tidspunkt, har man for at finde
+den til en hvilken som helst anden Tid kun nødig
+at kende dens daglige Tilvækst, da dens
+Forandring er jævn, og denne findes paa flg.
+Maade. Middelsolen, ligesom den sande Sol, bevæger
+sig Himlen rundt, 360° i et tropisk Aar,
+der indeholder 365,2422 Middelsoldage; i 1 Middelsoldag
+vil altsaa Middelsolen bevæge sig
+360° / 365,2422 = 59' 8",33 = 3 Min. 56,56 Sek.
+(Stjernetid); af denne daglige Tilvækst kan man
+altsaa beregne Middelsolens Rektascension ell.,
+hvad der kommer ud paa det samme, Stjernetid
+i Middelmiddag for enhver Tid. Da saavel
+Middelsoldagen som Stjernedagen er af uforanderlig
+Længde, kan man finde deres indbyrdes
+Længde ved at undersøge, hvor mange Middelsoldage
+og hvor mange Stjernedage eet og samme
+Tidsrum indeholder. Et tropisk Aar er det
+Tidsrum, hvori Antallet af Middelsoldage og
+Stjernedage kendes med største Nøjagtighed, og
+da dette indeholder 365,2422 Middelsoldage og
+366,2422 Stjernedage, saa er 1 Stjernedag =
+365,2422 / 366,2422 = 1 Middelsoldag ÷ 3
+Min. 55,9094 Sek. Middeltid, og 1 Middelsoldag =
+366,2422 / 365,2422 = 1 Stjernedag + 3 Min.
+56,5554 Sek. Stjernetid. Middelsolen vil altsaa
+kulminere 3 Min. 56,56 Sek. senere for hver Dag
+efter et Ur, som er nøje reguleret efter Stjernetid.
+Denne Størrelse kaldes derfor ogsaa <sp>Fiksstjernernes
+Acceleration</sp>. Regner
+man som i det daglige Liv Tiden efter Middelsoltid,
+vil Foraarsjævndøgnspunktet kulminere 3
+Min. 55,91 Sek. Middeltid tidligere end den foregaaende
+D. Til eet og samme Klokkeslet efter
+Middelsoltid vil altsaa efterhaanden forsk. Stjerner
+staa i Meridianen, forsk. Partier af Stjernehimlen
+være over Horisonten; og i Løbet af et
+Aar vil saaledes hele Stjernehimlen synes at
+dreje sig om sin Akse i samme Retning som
+den daglige Bevægelse. Det er denne Bevægelse,
+som altsaa bevirker, at de Stjerner, vi om
+Efteraaret ser paa Vesthimlen ved Aftenstid,
+om Foraaret maa søges paa Østhimlen om Aftenen,
+og som først har ledet Tanken hen paa
+Solens aarlige Bevægelse, hvoraf denne er et
+Spejlbillede, og det er denne, som har tjent til
+at bestemme Solaarets Længde.
+
+I Aarets Løb vil Middelsolen kulminere snart
+tidligere, snart senere end Solen, Middelmiddag
+vil indtræffe snart før, snart efter sand Middag;
+og for nu at finde, naar Middelmiddag indtræffer,
+har man til Klokkeslettet for sand Middag,
+der findes ved at observere det Tidsøjeblik,

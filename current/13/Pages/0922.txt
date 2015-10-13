@@ -1,0 +1,137 @@
+de to Atomer antages fast arrangerede med en
+ganske bestemt indbyrdes Afstand; et saadant
+Atom har 5 Frihedsgrader, idet der kræves 3
+Koordinater til Bestemmelse af det første Atoms
+Plads, men derefter, p. Gr. a. den bestemte
+Afstand mellem dem, kun 2 Koordinater til
+Bestemmelse af det andet Atoms Plads. En
+toatomig Luftart faar som Følge heraf <i>c<sub>v</sub></i> = 5,
+<i>c<sub>p</sub></i> = 7 og <i>k</i> = <i>c<sub>p</sub></i>/<i>c<sub>v</sub></i>  = 7/5 = 1,40. Ogsaa dette
+stemmer saa nogenlunde med Erfaringen.
+
+Et treatomigt Molekyle har 6 Frihedsgrader,
+idet Atomerne antages at sidde i
+Vinkelspidserne af en Trekant med uforanderlige
+Sidelængder. Ogsaa alle fleratomige Molekyler faar 6
+Frihedsgrader, da hele Molekylet anses som
+fast; det svarer ganske til, at f. Eks. et helt
+Bord staar »paa Plads«, naar blot 3 af dets
+Ben er anbragte paa Plads. For alle 3- og
+fleratomige Luftarter skulde man altsaa have
+<i>c<sub>v</sub></i> = 6, <i>c<sub>p</sub></i> = 8 og <i>k</i> <i>c<sub>p</sub></i>/<i>c<sub>v</sub></i> = 1,333. Dette
+stemmer saa nogenlunde for de 3-atomige
+Luftarter, men for fleratomige er <i>k</i> altid mindre,
+saaledes for Benzol 1,11 og Ætylæter 1,06.
+
+Det viser sig altsaa, at den k. T. i den her
+udviklede Form ikke kan gøre Rede for
+Luftens Varmefyldeforhold, og dette er ogsaa
+ganske naturligt. For at simplificere Regningerne
+forudsatte man, at Molekylerne kunde opfattes
+som glatte, fuldkommen elastiske Kugler; men
+man har derved i Virkeligheden formindsket
+Antallet af Frihedsgrader, idet man ser bort
+fra enhver Form forkinetisk og potentiel
+Energi af Atomerne inden for Molekylet og fra
+Rotationer af selve Molekylet som Helhed. De
+Energimængder, der under Opvarmningen
+forbruges til disse Frihedsgrader, lades ganske
+ude af Betragtning. Det vilde her ikke hjælpe,
+om man tænkte sig Forbindelsen mellem
+Atomerne i »Haandvægten« elastisk. Med en
+fuldstændig fast Afstand mellem Atomerne fik et i
+toatomigt Molekyle 5 Frihedsgrader, med en
+variabel Afstand 6; <i>c<sub>v</sub></i> skulde altsaa enten være
+5 ell. 6, Mellemværdier kunde ikke eksistere.
+Men Forsøg har vist, at <i>c<sub>v</sub></i> for toatomige
+Luftarter vokser jævnt fra c. 5, ved alm. Temp.
+til c. 6 ved 2000° C. Ogsaa ved meget lave
+Temp. viser der sig Vanskeligheder; saaledes
+har det toatomige JBrint ved ÷ 225° C. en
+Varmefylde <i>c<sub>v</sub></i> = 3, altsaa ganske som et
+eenatomigt Stof. Først Kvanteteorien synes at have
+løst disse Vanskeligheder.
+
+10) <sp>Ikke-ideale Luftarter</sp>; v. d.
+<sp>Waal's Tilstandsligning</sp>. Det blev
+ovf. omtalt, at den k. T. direkte fører til
+Mariottes Lov og Tilstandsligningen for ideale
+Luftarter, hvis man ser bort fra Kræfterne
+mellem Molekylerne indbyrdes. Erfaringen har nu
+imidlertid vist, at ingen af de virkelige Luftarter
+er ideale: de viser alle Afvigelser fra Mariotte's
+Lov. Por disse Luftarter har man opstillet fl.
+Tilstandsligninger, af hvilke den berømteste er
+v. d. Waal's: (<i>p</i> + <i>a</i>/<i>v</i><sup>2</sup> · (<i>v</i>—<i>b</i>) = <i>R T</i>, hvor <i>p</i>
+er det ydre Tryk, <i>v</i> Rumfanget, <i>T</i> den absolutte
+Temp. og <i>a</i>, <i>b</i> og <i>R</i> Konstanter, afhængige af
+den paagældende Luftarts Natur. Den k. T.
+fører imidlertid netop til denne Lov, naar man
+tager Hensyn baade til de tiltrækkende og de
+frastødende Kræfter imellem Molekylerne, og
+Teorien giver tillige et værdifuldt Bidrag til
+Forstaaelsen af Bet. af Konstanterne <i>a</i> og <i>b</i>.
+Betragtes en Luftmasse i en Cylinder, vil
+Molekylerne p. Gr. a. deres gensidige Tiltrækning
+ikke trykke saa stærkt imod Væggene, som de
+vilde, hvis der ingen indbyrdes Tiltrækning var.
+Denne tilsyneladende Formindskelse af
+Trykket maa aftage stærkt, naar Rumfanget og
+dermed Molekylafstanden vokser, og herigennem
+finder Leddet <i>a</i>/<i>v</i><sup>2</sup> sin naturlige Forklaring.
+Endvidere kan Luftens Rumfang aabenbart ikke
+formindskes ubegrænset. For det første tager
+selve Molekylerne Plads op, og Rumfanget kan
+derfor under alle Omstændigheder ikke
+formindskes længere, end til Molekylerne ligger tæt
+sammenpakkede. Men ikke engang saa lille
+kan Rumfanget blive; thi naar Molekylerne
+kommer saa tæt sammen, bliver de frastødende
+Kræfter imellem dem uhyre store. Det
+Rumfang, der i Virkeligheden lader sig ændre efter
+Trykket <i>p</i>, bliver derfor ikke hele Luftrummet
+<i>v</i>, men kun <i>v</i>—<i>b</i>, hvor <i>b</i> p. Gr. a. de
+frastødende Kræfter bliver større end selve
+Molekylernes egl. Rumfang, det saakaldte
+Kernevolumen. Beregningen viser, at <i>b</i> bliver 4
+Gange saa stort som dette Rumfang.
+
+B. <sp>Faste Legemer og Vædsker</sp>. Den
+k. T. er ikke paa langt nær saa udarbejdet i
+Enkelthedern& for faste Legemer og Vædsker
+som for Luftarter; de matematiske
+Vanskeligheder har vist sig for store. Men Teorien kan
+rent kvalitativt forklare en Række af disse
+Legemers karakteristiske Forhold.
+
+I de faste Legemer holder som nævnt de
+gensidige tiltrækkende og frastødende Kræfter
+de enkelte Molekyler bundne til at vibrere om
+en vis Ligevægtsstilling. Efterhaanden som
+Temp. vokser, bliver Svingningsenergien og
+dermed Udsvingene større og større: Molekylet
+kræver mere Plads, Legemet udvider sig. I
+Vædskerne glider Molekylerne frit om mellem
+hverandre uden dog helt at kunne slippe bort
+fra de tiltrækkende Kræfter fra Naboerne; men
+Molekylerne kan kun naa denne relative
+Frihed, naar de ved Tilførsel af Varme,
+Smeltevarmen, har faaet Energi nok.
+
+Et Molekyle i det Indre af en Vædske vil
+gennemsnitlig være udsat for lige store Kræfter fra
+alle Sider; men befinder Molekylet sig i
+Vædskens Overflade, er der hovedsagelig
+Tiltrækning nedad, en Tiltrækning, som Molekylerne i
+Alm. ikke har Energi nok til at overvinde.
+Enkelte Molekyler vil dog p. Gr. a. heldige Stød
+kunne faa saa stærk Fart opad, at de helt kan
+slippe bort fra Vædsken; et saadant Molekyle
+vil da fortsætte sin Tilværelse som
+»Damp«-Molekyle; hvis det under sin Siksakbevægelse
+mellem Luftmolekylerne atter rammer Vædsken,
+bliver det indfanget og atter Vædske. Med
+voksende Temp. forøges Molekylernes Energi,
+og fl. og fl. af dem vil da være i Stand til at
+slippe bort: Fordampningshastigheden vil vokse.
+Da det kun vil være de hurtigste Molekyler,

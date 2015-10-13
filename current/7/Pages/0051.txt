@@ -1,0 +1,88 @@
+negative Lys, medens det positive Lys trækker sig
+tilsvarende tilbage, samtidig med at det deler
+sig op i en hel Række ækvidistante Lag, hvis
+Afstande tiltager med aftagende Tryk. Ved
+meget lave Tryk (Fig. 10 <i>d</i>)
+forsvinder det positive Lys helt,
+samtidig har det negative Lys,
+der nu er blevet blaalig hvidt
+og kun svagt lysende, bredt sig
+straaleformet fra Katoden ud
+over hele Røret, hvis Vægge
+fluorescerer grønt, hvor de
+rammes af det. Om Egenskaberne
+ved denne Straaling,
+<sp>Katodestraalerne</sp>, s. d.
+
+10) <sp>Spændingsfordelingen i
+Lystaagestrømmen</sp>. Hvorledes
+Spændingen fordeler sig langs
+Lystaagestrømmens Bane, kan
+man faa at vide ved Sonder af
+tynde Platintraade. Den
+typiske Spændingsfordeling er
+gengivet i Kurverne i Fig. 11. Paa
+det korte Stykke imellem
+Katoden og det negative Taagelys
+finder man et stort
+Spændingsfald, det saakaldte Katodefald.
+Derefter følger Faraday's mørke
+Rum med et ringe
+Spændingsfald pr cm, der vokser hen imod den positive
+Lystaage, hvor det bliver konstant, endelig et
+Anodefald, der dog er langt mindre end Katodefaldet.
+
+Størrelsen af <sp>Katodefaldet</sp> er nøje
+knyttet til Katodelysets Udseende. Saa længe
+Strømmen er svag, vil
+Katodelyset kun dække en Del
+af Katodens Overflade. Er
+Katoden traadformet,
+danner det en lysende Hætte
+uden om den. Forøges
+Strømstyrken, vil
+Lyshætten brede sig over et nyt
+Stykke af Katoden,
+saaledes at den bedækkede
+Overflade er proportional
+med Strømstyrken,
+derimod vil Lyshættens
+Tykkelse ikke forandres. Dette
+sker først, naar Strømmen
+er blevet saa stærk, at
+hele Katoden er dækket
+af Lys, og man finder da
+samtidig, at Katodefaldet
+vokser stærkt med
+Strømstyrken, medens det for
+de svagere Strømme ved
+ikke helt bedækket
+Katode er uafhængigt af
+Strømstyrke og Tryk. Ved
+smaa Strømstyrker er
+Katodefaldet derfor en
+Konstant, <sp>det normale
+Katodefald</sp>, der er
+karakteristisk for
+Luftarten og
+Elektrodemetallet. Ved
+Magniumelektroder er det normale
+Katodefald i atm. Luft c. 350,
+i Kvælstof 220 (jfr Fig. 11).
+
+For de fleste Luftarter og Metaller
+ligger det omkring 2—300 Volt, i Helium
+over for en Kaliumkatode er det kun c.
+80 Volt.
+
+Saa længe Katodefaldet er normalt, vil der
+
+<img>Fig. 10.
+<i>a</i> Udladningsrøret.
+<i>b</i> 2,11 mm Kvægsølvtryk, 1000 Volt, 2 Milliampère.
+<i>c</i> 0,34 mm Kvægsølvtryk, 550 Volt, 2 Milliampère.
+<i>d</i> 0,10 mm Kvægsølvtryk, 800 Volt, 2 Milliampère
+<i>e</i> Maalestok.</img>
+
+<img>Fig. 11.</img>
+

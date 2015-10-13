@@ -1,0 +1,81 @@
+kan aabnes mod det fri, og denne bruges indtil
+Generatoren er tilstrækkelig varm til at give K.
+Først naar dette er Tilfældet, tager
+Sugegasværkets egl. Drift sin Beg., og Motoren suger
+selv Luften gennem Generatoren.
+
+Et mere kompliceret Anlæg (System Körting)
+med indskudt Renser er vist paa Fig. 7. Der er
+her taget specielt Hensyn til Anvendelse af
+bituminøst Brændsel. Generatoren er foroven
+dækket af et løst sluttende Dæksel, saa der
+kan suges Luft ind ad den Vej. Brændslet hviler
+paa en Rist, og der kan ogsaa suges Luft ind
+gennem denne. Kullene oven i Generatoren
+afdestilleres, Destillationsgassen forbrændes og
+reduceres ved at trække ned gennem det
+glødende Brændsel. Den nederste Halvdel af
+Brændselsmassen danner Generatorgas
+(Generatorvandgas, K.) ved at passeres af Luften
+fra Risten (samt Vanddamp), og den samlede
+Gasblanding suges bort fra Midten af
+Generatoren. Denne har altsaa 2 Brændezoner, en
+øvre og en nedre. Gassen føres videre gennem
+Vaskeren og tillige gennem en Renser, fyldt
+med Savsmuld, der er dannet af haardt Træ
+og lige saa fint fordelt som Mel. Ved at filtreres
+herigennem kan det fine Kiselstøv, der er saa
+ødelæggende for Cylindrene i Motorerne, fordi
+det slider og sliber disses Vægge, helt fjernes.
+
+8) <sp>K.'s Anvendelse ud over de alm.
+Tryk- og Sugegasværker</sp>.
+
+K. (Halvvandgassen, Dowsongassen) har en
+højere Brændværdi og produceres ved en
+lavere Temp. end Generatorgassen, og den
+indeholder derfor mindre fri Varme end
+Generatorgassen. Af den Grund lader det sig lettere gøre
+at køle K. af og vaske den ren og endda
+udnytte det meste af dens fri Varme til
+Forvarmning og Fordampning. Den rensede, afkølede
+K. kan saa gennem Rørledninger ledes til
+Forbrugsstedet, hvad enten det nu er til
+Motorbrug, til Fyring ell. til begge Dele. Ved
+Anvendelse til Fyring er det værd at bemærke,
+at K. brænder med forholdsvis ringe
+Luftoverskud, medens alm. Ristfyringer i Reglen
+behøver c. 100 % Luftoverskud. K. er tillige langt
+renligere end direkte Kulfyring og bedækker
+ikke i saa høj Grad Varmekammerets Vægge
+med Sod og Støv. Hvis Gassen er under Tryk, er
+der næsten ubegrænset Mulighed for, hvor
+langt borte og paa hvor mange St. man vil
+benytte den, og man er p. Gr. a. Trykket
+desuden uafhængig af Skorstenstræk.
+Anvendelserne af K. er meget forsk.; foruden til Kraft
+(Motorer) bruges den til Glødning og Smeltning
+af Metaller, i Glasværkerne til Lodde- og
+Blæseovne o. s. v. Endogsaa Opvarmning af
+Værelser med K. er udført (Pintch). Til Ophedning
+af Gasglødenet egner K. (og Generatorgas) sig
+ikke saa godt, og til at erstatte
+
+Til Brug ved kommende Overvejelser tilføjes nedenstaaende Oversigt over forsk. af de ovenn.
+Gasblandingers Sammensætning, Brændværdi m. m. (se Strache: »Gasbeleuch u. Gasindustrie«):
+
+<table>
+<td v2 c>Gasblandingens Art<td 7 c>Middelsammeosætning i Volum %<td v2 c>Vægtfylde<br>Luft = 1<td v2 c>Vægt i kg<br>pr. m<sup>3</sup><td 2 c>Brændværdi<br>i kg°<br>pr. m<sup>3</sup><td 2 c>Til Forbrænding<br>af 1 m<sup>3</sup><br>Gas bruges<td v2 c>Pr. m<sup>3</sup> anvendt<br>Luft<footnote>brændt uden Luftoverskud.</footnote> udvikles<br>kg°
+<td c>Brint<td c>Kulilte<td c>Methan<td c>Æthylen<td c>Tunge<br>Kulbrinter<td c>Kulsyre<td c>Kvælstof<td c>øvre<td c>nedre<td c>ren Ilt<br>m<sup>3</sup><td c>atm.<br>Luft<br>m<sup>3</sup>
+<td>Generatorgas af Koks<td r>2,0<td r>29,0<td c>—<td c>—<td c>—<td r>2,0<td r>67,0<td r>0,97<td r>1,25<td r>950<td r>940<td r>0,155<td r>0,74<td r>1280
+<td>Generatorgas af Kul<td r>3,0<td r>27,0<td r>2,0<td c>Spor<td c>—<td r>2,0<td r>66,0<td r>0,94<td r>1,23<td r>1110<td r>1070<td r>0,190<td r>0,90<td r>1230
+<td>Halvvandgas (Kraftgas) Koks<td r>11,0<td r>25,0<td r>1,5<td c>—<td c>—<td r>4,5<td r>58,0<td r>0,89<td r>1,15<td r>1250<td r>1180<td r>0,210<td r>1,00<td r>1245
+<td>Halvvandgas (Kraftgas) Kul<td r>12,0<td r>24,0<td r>4,5<td r>0,5<td c>Spor<td r>5,0<td r>54,0<td r>0,87<td r>1,13<td r>1610<td r>1530<td r>0,285<td r>1,36<td r>180
+<td>Højovnsgas<td r>3,0<td r>26,0<td r>1,0<td c>—<td c>—<td r>10,0<td r>6,0<td r>0,99<td r>1,29<td r>980<td r>960<td r>0,165<td r>0,79<td r>1240
+<td>Vandgas af Koks<td r>53,0<td r>40,0<td r>1,5<td c>—<td c>—<td r>2,5<td r>3,0<td r>0,50<td r>0,64<td r>3000<td r>2730<td r>0,495<td r>2,36<td r>1270
+<td>Vandgas af Kul<td r>60,0<td r>28,0<td r>2,0<td c>Spor<td c>—<td r>4,0<td r>6,0<td r>0,44<td r>0,57<td r>2900<td r>2590<td r>0,480<td r>2,28<td r>1270
+<td>Mondgas af Kul<td r>26,0<td r>10,0<td r>3,0<td c>Spor<td c>Spor<td r>16,0<td r>45,0<td r>0,81<td r>1,05<td r>1400<td r>1240<td r>0,240<td r>1,14<td r>1220
+<td>Alm. Stenkulsgas<td r>53,0<td r>8,0<td r>31,0<td r>2,0<td r>1,0<td r>2,0<td r>3,0<td r>0,41<td r>0,53<td r>5500<td r>4910<td r>1,060<td r>5,05<td r>1090
+</table>
+
+<img>Fig. 7.</img>

@@ -1,0 +1,102 @@
+Kondensatorens Kapacitet <i>C</i> i Forvejen er udmaalt.
+Sammenligner man herefter de to saaledes fundne
+Værdier, finder man imidlertid, at de er helt
+forsk., den første kan f. Eks. være 6—8 Gange
+større end den amden. Hermed hænger det
+saaledes sammen. Selvinduktionen i den primære
+Spole paavirkes af Tilstedeværelsen af den
+sekundære Spole og afhænger i højeste Grad af,
+om denne er sluttet ell. ej, og paa hvilken
+Maade den er sluttet. Er den kortsluttet, øver
+den størst Indflydelse paa den primære
+Selvinduktion, som sættes ned.
+
+For at forstaa denne Tilbagevirkning, maa
+man for det første erindre, at den
+elektromotoriske Kraft, der induceres i Sekundærspolen
+ved en Forandring af Induktionsliniestrømmen,
+er saaledes rettet, at den, hvis den faar Lov at
+give Strøm, vil modvirke Forandringen, d. v.
+s. holde Induktionsliniestrømmen oppe, hvis den
+er i Færd med at tage af, og svække den, hvis
+den er i Færd med at vokse op. Dernæst maa
+det bemærkes, at den samme Forandring i
+Induktionsliniestrømmen, som inducerer den
+elektromotoriske Kraft i den sekundære Spole,
+ogsa inducerer i den primære og her
+frembringer en elektromotorisk Kraft, der vil hindre den
+Strømforandring, som udefra søges paaført
+Spolen, f. Eks. hindre Strømmens Opvoksen
+efter Strømslutning. Naar nu Forandringerne
+i Induktionsliniestrømmen formindskes ved en
+sekundær Strøm, betyder det øjensynlig, at der
+induceres en mindre modelektromotorisk Kraft
+til at modsætte sig Strømforandringerne i den
+primære Spole. Udtrykker man den
+modelektromotoriske Kraft, som det ovenfor er sket,
+ved <i>L</i> <i>di</i>/<i>dt</i>, ses det, at <i>L</i> formindskes. Under
+Strømmens Opvoksen er den sekundære Spole
+nu ikke sluttet; derfor har den primære Spole
+(med Tilnærmelse) sin opr. Selvinduktion.
+Umiddelbart efter Afbrydningen sluttes den
+sekundære Spole gennem Gnisten, der virker som
+en Leder med en vis relativt ringe Modstand,
+Der kan altsaa nu induceres Strøm i Spolen
+med det Resultat, at den primære Spoles
+Selvinduktion tilsyneladende formindskes til en
+Brøkdel af sin virkelige Værdi. Gør man
+Afstanden mellem den sekundære Spoles Poler
+meget lille, kan den relativt lave Spænding, der
+induceres i Sekundærspolen under Strømmens
+Opvoksen i Primærspolen, og som i Fig. 8 er
+vist ved den lave Kurve under Aksen, ogsaa
+give Anledning til en Udladning, og man ser
+da, at den primære Strøm stiger langt stejlere
+end uden Gnist. I Fig. 13 gengives et normalt
+Oscillogram, naar Strømslutningen ikke giver
+Anledning til en Gnist, og i Fig. 14 er der vist
+et Billede af Strømmen ved samme I., naar
+Strømslutningen bevirker en Gnist. Det er
+meget ejendommeligt at lægge Mærke til, at den
+blotte Nærværelse af Sekundærspolen har
+Indflydelse paa Strømmen i Primærspolen, selv om
+Sekundærspolen ikke er sluttet gennem nogen
+Gnist. Efter at Sekundærspolen var fjernet, fik
+man for den ovenfor antydede I.'s
+Primærstrøm et Billede som det, der er vist i Fig. 15.
+Efter Paasætningen af Sekundærspolen var
+Oscillogrammet som vist i Fig. 16. Som det ses,
+stiger Strømmen kendelig stejlere i Vejret i
+sidste Tilfælde end i første. Forklaringen herpaa
+maa søges i, at den sekundære Spole, selv om
+den ikke er sluttet gennem en Gnist ell.
+Ledningstraad, dog i en vis Forstand er sluttet,
+saaledes at der kan induceres Strøm i den.
+En stor Spole har nemlig en kendelig
+Kapacitet, d. v. s. den virker som en (kapacitetsfri)
+Spole, sluttet gennem en Kondensator, saaledes
+som det er antydet i Fig. 17. Slaar en Gnist
+over mellem Spolens Poler, kortsluttes
+Kondensatoren gennem Gnistmodstanden, og
+den inducerede Strøm kan da blive væsentlig
+større end med Kondensatoren alene.
+
+Af den sidste Forklaring følger, at
+Sekundærspolen, naar den ikke er sluttet, virker
+som en elektr. Svingningskreds med en vis
+Selvinduktion og en vis Kapacitet. Efter at Gnisten er
+slukket, har man to Svingningskredse, der kan
+virke paa hinanden ell., som man siger, er
+koblede til hinanden. Teorien for saadanne koblede
+Kredse viser, at der ved en Forstyrrelse af den
+
+<img>Fig. 12.</img>
+
+<img>Fig. 14.</img>
+
+<img>Fig. 15.</img>
+
+<img>Fig. 16.</img>
+
+<img>Fig. 17.</img>
+

@@ -1,0 +1,141 @@
+Euler; det næste Skridt i Løsningen af
+Problemet var Laplace's Opdagelse af det
+<sp>invariable Plan</sp> ɔ: det Plan, som gør
+Summen af Produkterne af Masserne og
+Projektionerne af Arealerne til et Maksimum. I
+Solsystemet danner dette Plan en Vinkel af c. 2° med
+Ekliptikken, og dets opstigende Knude har en
+Længde af c. 286°, men da man ikke nøjagtig
+nok kender alle Planeters Masser, er disse
+Data for Tiden mindre sikre; Jacobi har vist,
+at hvis man kender alle Integraler paa 2 nær,
+kan disse to altid findes, forudsat at de
+gensidige Tiltrækninger kun afhænger af
+Koordinaterne alene, og der eksisterer en
+Potentialfunktion. Disse Betingelser er altid opfyldte i
+<i>n</i>-Legemers-Problemet.
+
+Hidtil er det ikke lykkedes at udlede mere
+end de nævnte 10 Integraler. Bruns har
+imidlertid vist (<i>Acta Mathematica</i>, XI), at der ikke
+eksisterer ny algebraiske Integraler, forudsat at
+de rektangulære Koordinater er valgt som
+afhængig variable. Dette udelukker ikke
+Muligheden af algebraiske Integraler, hvis andre
+variable benyttes. Poincaré har paavist (<i>Acta
+Mathematica</i>, XIII), at der i T.-L.-P. ikke
+eksisterer ny uniforme transcendente Integraler,
+selv om Masserne af to af Legemerne er meget
+smaa sammenlignet med det tredie. I dette
+Teorem er de afhængige variable
+Baneelementerne, der undergaar stadige Variationer
+paa Grund af Legemernes gensidige
+Tiltrækning. Men heraf følger ikke, at der ikke
+eksisterer Integraler af Poincaré's Type, hvis der
+benyttes andre afhængige variable. Saaledes
+har Levi-Civita paavist Eksistensen af denne
+Klasse Integraler i et specielt Problem, som
+hører ind under Poincaré's Teorem, naar
+passende variable benyttes. I det hele er den
+praktiske Følge af Bruns' og Poincaré's Teoremer
+ofte blevet overvurderet, idet man ikke altid har
+haft for Øje de Betingelser, under hvilke de
+holder Stik. Men da man intet ved om
+Legemernes absolutte Bevægelse, kun observerer
+deres relative Positioner, vil det for Studiet af
+Planeternes Bevægelse i vort Solsystem være
+en bydende Nødvendighed at referere disse til
+Centrallegemet i dette System ɔ: Solen. Man
+henlægger da Koordinatsystemets
+Begyndelsesgrunde til Solen og integrerer de under denne
+Forudsætning opstillede Differentialligninger.
+Antallet af Integraler bliver da i Stedet for 6<i>n</i>
+i den absolutte Bevægelse reduceret til 6<i>n</i> —6;
+men i dette Tilfælde kan kun 4 Integraler
+findes, nemlig de 3 Fladeintegraler og den levende
+Krafts Integral, hvilket reducerer Problemet
+til Ordenen 6<i>n</i> —10.
+
+I sin Almindelighed kan T.-L.-P. endnu ikke
+løses, naar alle Masser og alle Distancer er af
+samme Størrelsesorden. Om Sundman's Løsning
+af T.-L.-P., se denne. Men i visse Specialtilfælde
+af Problemet simplificeres
+Differentialligningerne; saaledes naar de tre Legemer altid
+bliver i et Plan, idet Legemerne selv og tillige
+deres Bevægelsesretninger i et bestemt
+Tidspunkt laa i et Plan — det <sp>plane</sp> T.-L.-P.
+Et andet specielt Tilfælde er det restringerte
+T.-L.-P. (<i>problème restreint</i>), som lyder
+saaledes: Hvis to Legemer <i>A</i> og <i>B</i> bevæger sig i
+cirkulære Baner om deres fælles Tyngdepunkt,
+kun paavirket af deres gensidige Tiltrækning,
+altsaa efter To-Legemers-Problemets Love, da at
+bestemme Bevægelsen af et tredie Legeme <i>C</i>
+(ofte benævnt <sp>Planetoid</sp>), hvis Masse er saa
+liden, at den kan sættes ud af Betragtning lige
+over for de to andre Masser (den perturberer
+altsaa ikke Bevægelserne af <i>A</i> og <i>B</i>); det
+bliver tiltrukket af begge disse Masser efter
+Newton's Lov og bevæger sig i samme Plan som
+<i>A</i> og <i>B</i>. Dette Problem blev først studeret af
+Jacobi, senere af andre Forskere, specielt
+Poincaré, som forudsatte, at den ene af de to
+endelige Masser skulde være meget liden i
+Forhold til den anden analogt med Problemerne
+om Planeternes Bevægelser, hvor man stadig
+har en dominerende Masse (Solen). Man har
+bevist, at der eksisterer <sp>periodiske</sp>
+Løsninger ɔ: Banekurven er sluttet. Poincaré har
+ogsaa paavist en anden interessant Type af
+Bevægelser, de saakaldte <sp>asymptotiske</sp>
+Løsninger. Men den enkleste og tidligste
+periodiske Løsning af T.-L.-P. blev fundet af
+Lagrange i 1772; denne var ukendt for Jacobi.
+
+Lagrange delte T.-L.-P. i to Dele: 1)
+Bestemmelsen af de 3 Sider i Trianglet mellem
+de 3 Kloder som Funktion af Tiden, 2) forudsat
+at 1) var løst, da at bestemme Beliggenheden af
+Triangelplanet i Rummet og Orienteringen af
+Trianglet i Planet. For at løse 1) var det
+nødvendigt at opstille 3 Differentialligninger, som
+indeholdt de 3 gensidige Afstande som
+afhængig variable. Han fandt 3 Ligninger, hvoraf
+den ene var af 3. Orden og de øvrige 2 hver
+af 2. Orden, hvorved hele Problemet blev
+reduceret til 7. Orden. De 10 Integraler
+reducerer det almindelige T.-L.-P. til 8. Orden.
+Lagrange reducerede altsaa Problemet med en
+Enhed. Han fandt da, at han kunde integrere
+Differentialligningerne fuldstændig ved at
+forudsætte, at Forholdet mellem de gensidige
+Afstande var <sp>konstant</sp>. I det Tilfælde vil de
+tre Legemer enten stadig danne et <sp>ligesidet</sp>
+Triangel i et fast Plan, eller de vil stadig
+befinde sig paa en <sp>ret</sp> Linie, men denne Løsning
+betinger en ganske bestemt Begyndelsestilstand,
+og Bevægelsen bliver <sp>periodisk</sp> ɔ: de tre
+Legemer vil med bestemte, nøjagtig lige store
+Tidsintervaller stadig og for altid indtage
+nøjagtig samme Stillinger i Forhold til hverandre.
+Man faar i alt 5 Librationspunkter; de 3 ligger
+paa samme rette Linie som de to Masser, og
+deres Beliggenhed afhænger af Forholdet
+mellem Masserne; de to yderligere danner med de
+to Masser et ligesidet Triangel. Lagrange
+ansaa dette Tilfælde for rent fiktivt, senere Tider
+har ved Opdagelsen af de trojanske
+Smaaplanter vist, at der i vort Solsystem findes
+en Gruppe Himmellegemer (for Tiden kendes
+6), som til en vis Grad svarer til Lagrange's
+Forudsætning, men det fundamentale i
+Løsningen af dette specielle Tilfælde har i den senere
+Tid dannet Udgangspunktet for de væsentligste
+af de Fremskridt, vort konkrete Kendskab til
+Bevægelsesmuligheden inden for det
+almindelige T.-L.-P. har gjort til vore Dage. Var end
+det specielle Tilfælde mindre tænkeligt, laa det
+dog nær at forudsætte, at de tre Legemers
+Anordning ikke eksakt svarede til de af
+Lagrange forudsatte, men dog holdt sig tæt op til

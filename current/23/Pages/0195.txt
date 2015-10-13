@@ -1,0 +1,129 @@
+Blæst lod disse sig ikke opfatte, og
+Forbindelsen mellem Posterne var da i Virkeligheden
+afbrudt. Et bedre Hjælpemiddel fremkom med
+den elektriske T., hvortil i Tyskland knyttedes
+elektriske Ringeanlæg paa Strækningsposterne
+(se <sp>Signalvæsen</sp>, Jernbanernes, S. 384),
+og som i denne Udførelse efterhaanden
+fortrængte den gennemgaaende optiske T.
+
+I Danmark er Banen fra Kjøbenhavn til
+Roskilde (1847) og Strækningerne fra Kjøbenhavn
+til Lyngby og Klampenborg (1861) oprindeligt
+anlagt med gennemgaaende optisk T.,
+Kurvsignaler paa Roskildebanen og Vingesignaler
+paa Klampenborgbanen. Roskildebanens
+Fortsættelse til Korsør (1855) fik derimod straks
+elektrisk T., og Klokkeindretninger paa
+Vogterposterne. Paa Roskildebanen nedlagdes den
+gennemgaaende optiske T. paa Strækningen
+Vest for Vigerslev i 1866, men i øvrigt
+bibeholdtes Anlæggene paa Linierne i Nærheden af
+Kjøbenhavn endnu i en Aarrække. Aarsagen
+hertil var den tættere Toggang, der
+nødvendiggjorde Anvendelsen af Signalposter paa den fri
+Bane, og Betingelserne for Nedlægning af det
+optiske Telegrafanlæg kom derfor først med
+Indførelsen af elektrisk Linieblok (se
+<sp>Bloksystem</sp>) paa Strækningen (1878). Signalerne
+mellem Blokposterne fik derefter kun lokal
+Betydning som Signaler ved Vejskæringerne.
+<i>J. F.</i>
+</chapter>
+
+<chapter name="Telegraf">
+<b>Telegraf</b> (Søv.), 1) Signalapparat i
+Krigsskibe til Lettelse af Flagsignalering. Det bestaar
+af to Spredholter, mellem hvilke Flaglinerne er
+skaaren, det nederste Spredholt er fastgjort i
+en Kasse og det øverste hejses tilvejrs under
+Brugen, saa Linerne, paa hvilke Signalflagene
+er fastgjorte, bliver stramme. Udenfor Brug
+fires det hele ned i Kassen. — 2) Indretninger,
+der anvendes til Overføring af Meddelelser
+mellem fjerntliggende Steder i Skibet. T. til
+Maskine, Ror, Kanontaarne, Torpedorum m. m.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Telegrafapparater">
+<b>Telegrafapparater</b> indrettes som Afsender-
+og Modtagerapparater dels til alm.
+Telegrambefordring og dels til specielt Brug som
+Jernbane-T., Brand-T. e. l. simplere
+Signalapparater (Hus-T., Ringeledningsanlæg m. v.). De i
+den nyere Tid anvendte elektriske T. (hist.
+Udvikling, se <sp>Telegraf</sp>) kan efter Maaden,
+hvorpaa Telegraftegnene modtages, deles i
+Viser-T., Tryk-T. og Skrive-T., medens der
+efter Afsenderapparaternes Betjeningsmaade
+endvidere skelnes mellem manuelle og
+automatiske Telegrafsystemer.
+
+<sp>Manuelle T.</sp> Efter Fremkomsten af
+Naaletelegraferne (s. d.) opstod hurtigt Ønsket
+om lettere betjenlige T. og i Særdeleshed
+saadanne, der ikke nødvendiggjorde Anvendelse af
+et særligt Telegrafalfabet. Bestræbelserne
+resulterede i de saakaldte <sp>Viser-T.</sp>, hvor de
+telegraferede Bogstaver og Taltegn umiddelbart
+udpegedes ved en Visers Bevægelse over en
+inddelt Skive. I det af Cooke 1836 konstruerede
+Apparat passerede de udsendte
+Telegrafstrømme Vindingerne i en Elektromagnet, hvis
+Anker udløste et mek. Drivværk, der indstillede
+Viseren. Systemet krævede en vis Samtidighed
+(Synkronisme) mellem Afsender og
+Modtagerapparatets bevægelige Dele, idet Varigheden af
+en udsendt Strømimpuls var bestemmende for
+Indstillingen af den med jævn Hastighed
+bevægede Viser. P. Gr. a. Vanskeligheden ved at
+opretholde den synkrone Gang gik man ved de
+senere af Wheatstone, Siemens & Halske o. fl. a.
+konstruerede Apparater over til en afbrudt
+Bevægelse af Viseren, saaledes at denne af et
+Urværk ell. et direkte af Strømmen paavirket
+elektromagnetisk Echappement Trin efter Trin
+indstilledes, naar et til Bogstavet svarende
+Antal Strømimpulser udsendtes paa Ledningen.
+Viser-T. fik, da Betjeningen ikke
+nødvendiggjorde særlig Faguddannelse, en betydelig
+Udbredelse i Jernbane- og Brandvæsenets
+Tjeneste omkr. Midten af forrige Aarh. Fig. 1 viser
+et saadant til Lokalkorrespondance i England
+(omkr. Slutn. af 1860'erne) benyttet Apparat,
+hvor der ved Indstillingen anvendes
+Induktionsstrømme, frembragt ved Drejning paa
+Haandsvinget <i>H</i>. I Nutiden benyttes Viser-T. af
+særlig Konstruktion til Skibsbrug ved Signalering
+mellem Kommandobro og Maskinrum. — En
+Mangel ved Viser-T. er, at de ikke danner
+blivende Tegn. Man forsøgte derfor paa forsk.
+Maader at fæstne disse bl. a. ved at erstatte
+Viseren med et Typehjul, der aftrykkede
+Bogstavet paa Papir, naar den rette Indstilling
+var foretaget af Strømimpulserne. Det
+tidligste af disse <sp>Tryk-T.</sp> fremstilledes allerede
+1837 af Amerikaneren Vail, men først det af
+Englænderen Wheatstone 1841 konstruerede
+Apparat var nogenlunde driftsikkert. Forsk.
+Ulemper ved den komplicerede og ret langsomt
+arbejdende Trykmekanisme ved dette o. fl. lgn.
+Apparater bevirkede, at et andet Princip for
+Tegnskrivningen efterhaanden vandt Indpas.
+Efter dette nedskrives Bogstaverne lidt efter lidt
+ved Sammensætning af en Række
+Tegnelementer i Modsætning til Tryk-T., hvor Gengivelsen
+sker ved en enkelt Aftrykning for hvert Tegn.
+Disse <sp>Skrive-T.</sp> kan være af væsentlig forsk.
+Art, idet Skrifttegnene enten kan udføres i et
+særligt Telegrafalfabet ell. som alm.
+Bogstavskrift og endelig som en nøjagtig Gengivelse af
+det originale Telegrams skriftlige Form. Den
+sidstnævnte Maade er først fremkommet i de
+senere Aar og har til ganske specielt Brug
+fundet en Del Anvendelse (se <sp>Telautograf</sp>).
+Af alle Skrive-T. har det af Amerikaneren
+Samuel Morse 1832 angivne Apparat med
+
+<img>Fig. 1. Wheatstone's Visertelegraf.</img>

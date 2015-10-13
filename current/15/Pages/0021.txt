@@ -1,0 +1,123 @@
+enatomig Luftart foregaar paa lgn. Maade som
+Lysemissionen, saaledes at et Atom, hver Gang
+Absorption finder Sted, absorberer et Kvantum
+Straalingsenergi <i>hv</i> = <i>E</i><sub>2</sub>—<i>E</i><sub>1</sub>, hvorved en af de
+yderste og løsest bundne Elektroner fjernes fra
+en stationær Bane med Energien <i>E</i><sub>1</sub> til en
+længere fra Kernen forløbende stationær Bane med
+Energien <i>E</i><sub>2</sub>, maa man slutte, at
+Absorptionsspektret bestaar af Linier, som findes i
+Emissionsspektret; men at det ikke indeholder alle
+dettes Linier, men kun de Linier, som
+udsendes ved Overgang til den ell. de stationære
+Tilstande, hvori Atomet normalt befinder sig.
+Dette stemmer med Erfaringen. Betragter vi
+f. Eks. Natriumspektret, fremstilles dette
+overskueligt ved et Diagram som Fig. 3. For hvert
+Spektralled er der tegnet en Prik, hvis
+Afstand fra Linien <i>aa</i> angiver Leddets Størrelse
+ell. det Arbejde, som maa udføres, naar
+Elektronen skal fjernes fra den til Spektralleddet
+svarende stationære Bane til et Punkt, som
+ligger langt fra det øvrige Atom. Prikkerne er
+for Oversigtens Skyld ordnede i vandrette
+Rækker, saaledes at Led, for hvilke
+Kvantetallet <i>k</i> er det samme, staar i samme Række.
+Kvantetallet <i>k</i> er anført ud for hver Række.
+Bogstaverne <i>S</i>, <i>P</i>, <i>D</i> og <i>B</i> refererer sig til de
+sædvanlige spektroskopiske Betegnelser (se
+<sp>Spectralanalyse</sp>). Det ved hver Prik
+anførte Tal er Hovedkvantetallet <i>n</i> for den
+stationære Bane; Fastsættelsen af
+Hovedkvantetallene skal omtales ndf. De indtegnede Pile
+angiver de Overgange, ved hvilke de forsk.
+Linier i Spektret fremkommer. Ved Overgange
+fra de stationære Tilstande, for hvilke <i>k</i>=2,
+og som fremstilles ved <i>P</i>-Rækken til Tilstanden
+<i>n</i>=3, <i>k</i>=1, der fremstilles ved det yderste
+Punkt i <i>S</i>-Rækken, fremkommer den saakaldte
+principale Serie, hvis mest langbølgede Linie
+er den velkendte gule <i>D</i>-Linie. Ved Overgange
+fra Tilstande, for hvilke <i>k</i>=1, <i>n</i>≧4. til
+Tilstanden <i>n</i>=3, <i>k</i>=2, ell. med den kortere
+Betegnelse 3<sub>2</sub>, fremkommer den »skarpe« Serie
+o. s. v. I Absorptionsspektret for
+Natriumdamp forekommer kun den principale Serie,
+hvilket viser, at den stationære Tilstand 3<sub>1</sub> er
+Atomets normale Tilstand, og at kun meget
+faa af Natriumatomerne under alm Forhold
+befinder sig i andre stationære Tilstande. Et
+Grundstofs Absorptionsspektrum giver altsaa
+Oplysning om Atomets normale stationære
+Tilstand; den kortbølgede Grænse for dets Linier
+angiver direkte det Arbejde, som udkræves for
+at fjerne en af de ydre løsest bundne
+Elektroner, ell., som man ogsaa udtrykker det, den
+Fasthed, hvormed en saadan Elektron er
+bundet i Atomet. Absorptionsspektret for Natrium
+bestaar foruden af den principale Serie af et
+kontinuert Spektrum, som begynder ved den
+kortbølgede Grænse for denne Serie og
+strækker sig mod endnu kortere Bølgebredder. Man
+maa tænke sig, at dette fremkommer derved,
+at Lys af et Svingningstal <i>v</i>, der er saa stort,
+at et Energikvantum <i>hv</i> er større end den
+Energimængde <i>P</i>, som medgaar til at fjerne en
+af de ydre Elektroner helt fra Atomet,
+absorberes paa en saadan Maade, at en af de ydre
+Elektroner slynges bort fra det øvrige Atom
+med en kinetisk Energi <i>hv</i>—<i>P</i>, et Fænomen,
+der er af ganske lgn. Art som den lyselektriske
+Virkning paa Metaloverflader. Andre
+Grundstoffer udviser lgn. Forhold som
+Natrium.
+
+<sp>Fluorescensstraaling</sp>.
+Herved forstaas en Straaling, som et Stof
+bringes til at udsende ved at bestraales
+med kontinuert Lys ell. Lys af
+passende Frekvens. Bestraaler man f. Eks.
+Natriumdamp ikke med kontinuert
+Lys, men med monokromatisk Lys af
+samme Svingningstal som den første
+Linie i den principale Serie (<i>D</i>-Serien),
+vil Natriumdampen, som <sp>Wood</sp> har vist,
+til alle Sider udsende Lys, der kun
+bestaar af denne Linie. Dette Fænomen
+kaldes <sp>Resonansstraaling</sp>, og det
+forklares efter K. ved, at den ydre
+Elektron, der under Absorptionsprocessen er ført
+ud i en 3<sub>2</sub> Bane, der fremstilles i Fig. 3 ved
+den første Prik i den anden Række, efter at
+have bevæget sig der i en forholdsvis kort Tid,
+under Emission af den gule Linie falder
+tilbage i sin normale, mest stabile Bane. At
+Absorptionen og Emissionen er to adskilte
+Processer, bekræftes deraf, at
+Resonansstraalingen ikke viser sig at have samme Polarisation
+som det Lys, hvormed der bestraales. Strutt
+bestraalede Natriumdamp med Lys af samme
+Svingningstal som den anden Linie i den
+principale Serie og fandt det fra den klassiske
+Teoris Standpunkt meget overraskende, at
+Natriumdampen udsendte Lys, der vel indeholdt
+den Linie, hvormed det blev bestraalet, men
+for største Delen bestod af den gule Linie.
+Dette viser, at naar Natriumatomet ved.
+Bestraalingen er ført over i den Tilstand, som
+afbildes ved den anden Prik i anden Række
+i Fig. 3, saa kan det fra denne Tilstand gaa
+direkte tilbage i Normaltilstanden, men
+Sandsynligheden er større for, at det først gaar
+over i Tilstanden svarende til anden Prik i
+første Række, derfra til den Tilstand, som
+fremstilles ved første Prik i anden Række, og
+endelig herfra under Udsendelse af den gule
+Linie tilbage til Normaltilstanden. De
+Spektrallinier, som udsendes ved de to første
+Overgange, er endnu ikke iagttaget, da de ligger
+langt ude i det ultrarøde. I Virkeligheden var
+disse Forsøg mere detaillerede, end det
+fremgaar af det her antydede; dette hænger
+
+<img>Fig. 3.</img>

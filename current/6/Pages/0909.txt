@@ -1,0 +1,141 @@
+Retninger, uden at der nogetsteds forsvinder
+ell. opstaar ny Linier. Det kan vises at være
+en Konsekvens af Coulomb's Lov, at de elektriske
+Kraftlinier i et hvilket som helst Felt kun
+kan begynde og ende i elektriske Ladninger
+(ell. eventuelt i det uendelig Fjerne). Man kan
+derfor kalde de elektriske Ladninger for
+Kildepunkter for de elektriske Kraftlinier. Saalænge
+E.-Mængden bliver den samme, vil der ogsaa
+udgaa det samme Antal Kraftlinier fra den.
+Ved Hjælp af de elektriske Kraftlinier lader nu
+ethvert elektrostatisk Problem sig løse, idet
+disse, for at Elektriciteten skal være i Hvile,
+maa tilfredsstille visse Betingelser, f. Eks. maa
+de gaa vinkelret fra og til en Leders Overflade,
+men ikke fortsættes ind i Lederen. Resultatet
+bliver dog det samme, hvad enten man
+benytter de Faraday-Maxwell'ske Kraftlinier ell. den
+Coulomb'ske Fjernvirkningslov, saa længe man
+kun behandler hvilende elektriske Systemer.
+
+Gaar vi til elektriske Ladninger i Bevægelse
+ɔ: den elektriske Strøm, er de elektriske
+Kraftlinier ikke længere tilstrækkelige til at
+karakterisere Feltet. Ved <sp>Ørsted</sp>'s Opdagelse af
+<sp>Elektromagnetismen</sp> føjedes nemlig den ny
+Fundamentalegenskab til E., at en bevæget
+E.-Mængde frembringer et Magnetfelt uden om sig,
+der for stationære Strømme kan beregnes ved
+<sp>Biot</sp> og <sp>Savart</sp>'s Lov. Foruden de
+elektriske Kraftlinier maa der derfor yderligere
+tilføjes <sp>magnetiske Kraftlinier</sp>, der
+bestemmes paa analog Maade ved den mek.
+Kraft paa en Enhedsnordpol. Ved en enkelt,
+jævnt bevæget elektrisk Ladning vil de
+elektriske Kraftlinier for Hastigheder, der er smaa
+i Forhold, til Lysets, straale ud i alle Retninger,
+omtr. som om E.-Mængden havde været i Hvile,
+medens de magnetiske Kraftlinier vil være
+Cirkler vinkelret paa Bevægelsens Bane og med
+Centrerne i denne. Dette Magnetfelt har ingen
+Lighed med en alm. permanent Stangmagnets,
+men, som først vist af <sp>Ampère</sp>, vil den
+elektriske Strøm i en lukket Bane, f. Eks. en
+Traadrulle, frembringe et Magnetfelt, der udadtil
+ganske ligner de permanente Magneters.
+Ampère antog derfor, at disses Magnetfelt ogsaa
+var frembragt ved elektriske Strømme, nemlig
+ved Strømme i Jernets Molekyler, og ganske
+nye Undersøgelser har direkte bekræftet denne
+Antagelse. Herefter maa da det magnetiske
+Felt opfattes som en Egenskab, der alene er
+knyttet til bevæget E. De magnetiske
+Kraftlinier fra Strømme vil altid løbe tilbage
+i sig selv, altsaa hverken have Beg. ell. Ende.
+Da virkelige magnetiske Kildepunkter saaledes
+ikke eksisterer, eksisterer der heller ingen egl.
+Magnetpoler. Naar vi alligevel taler om
+Magnetismemængder, er det, fordi det er bekvemme
+Hjælpestørrelser, men nogen reel Eksistens har
+de ikke.
+
+<sp>Faraday</sp>'s Opdagelse af <sp>Induktionen</sp>
+føjede endnu den Vekselvirkning til imellem det
+elektriske og magnetiske Felt, at et Magnetfelt,
+der forandrer sig, fremkalder, inducerer,
+elektriske Kræfter. I Alm. iagttages Induktionen
+derved, at der paa det betragtede Sted findes
+en sluttet Ledningskreds, hvori de inducerede
+elektriske Kræfter frembringer en
+Induktionsstrøm, men selv om der ingen Ledningskreds
+findes, vil de elektriske Kræfter alligevel være
+til Stede. De elektriske Kraftlinier, der opstaar
+ved Induktionen, er i Modsætning til de
+elektrostatiske uden Kildepunkter; de er Hvirvellinier,
+der løber i sig selv ligesom de magnetiske
+Kraftlinier.
+
+Til disse elektromagnetiske Grundlove, der
+hviler paa direkte Forsøg, har nu <sp>Maxwell</sp>
+føjet den Antagelse, at analogt med, at en
+Forandring (med Tiden) af den magnetiske Kraft
+paa et Sted frembringer en elektrisk Hvirvel
+om sig, vil ogsaa, en Forandring af den
+elektriske Kraft frembringe en magnetisk Hvirvel.
+En saadan findes som omtalt ogsaa omkring
+strømmende E., og en Forandring af den
+elektriske Kraft skal derfor efter Maxwell virke
+som en elektrisk Strøm, den saakaldte
+<sp>elektriske Forskydningsstrøm.</sp> Ved at
+tage Forskydningsstrømmen med bliver alle
+Strømme sluttede Strømme. Naar saaledes
+en Kondensator lades, fortsættes den
+elektriske Strøm i Tilledningstraadene som en
+Forskydningsstrøm i det isolerende Mellemrum
+mellem Kondensatorens Belægninger, og efter
+Maxwell skal ogsaa den have et magnetisk Felt
+om sig. Dette Magnetfelt er vel blevet paavist
+ved direkte Forsøg, men da disse er saa
+vanskelige, at de kun kan udføres med ringe
+Nøjagtighed, maa det egl. Bevis for Rigtigheden
+af Maxwell's Antagelse søges i Bekræftelsen af
+de Konsekvenser, der kan drages deraf.
+
+<sp>De elektromagnetiske
+Grundligninger</sp>. Vi kan nu formulere
+Grundligningerne for den moderne Elektricitetsteori, de
+berømte <sp>Maxwell'ske Ligninger</sp>, idet
+disse kun er matematiske Udtryk for de fire
+Grundlove, som vi ovf. har omtalt, og som i
+Kraftliniesproget kvalitativt kan gengives
+saaledes: 1) Elektriske Kraftlinier kan kun
+begynde i positiv og ende i negativ E.
+2) Magnetiske Kraftlinier er altid kildefri. 3) En
+bevæget Elektricitetsmængde ell. en
+Forskydningsstrøm frembringer en magnetisk Hvirvel om sig.
+4) En Indtrædende Forandring af den
+magnetiske Kraft (en magnetisk Forskydningsstrøm)
+frembringer en elektrisk Hvirvel om sig. 5)
+Hertil slutter sig endelig i Elektronteorien et
+Udtryk for, at en bevæget Elektricitetsmængde
+ikke blot paavirkes mekanisk af den elektriske
+Kraft, men ogsaa - i Egenskab af
+Strømelement - af den magnetiske Kraft.
+
+Som man ser, er der i disse Ligninger ingen
+Tale om Æteren og dens mek. Tilstand. Vi
+er absolut uvidende om, hvorledes denne er,
+og vi er derfor ogsaa ganske ude af Stand til
+at give en mek. Forklaring af E. Teorien gør
+blot det magnetiske Felt paa et Sted afhængig
+af Ændringerne af det elektriske Felt paa
+<sp>samme</sp> Sted og omvendt, men det er i denne
+Sammenknytning - hvis mekaniske Forstaaelse
+vilde kræve en ell. anden Art »Æter« - at
+den Faraday-Maxwell'ske Teoris store
+Fremskridt ligger lige over for
+Fjernvirkningsbetragtningen. Tænker vi os f. Eks., at en
+hvilende Elektricitetsmængde sættes i
+Bevægelse, vil den som omtalt skabe et magnetisk
+Felt om sig; men dette Felt vil ikke - som

@@ -1,0 +1,107 @@
+omvikles med et Lag ren Paragummi ell.
+imprægneret Bomuld, hvorefter den vulkaniserede
+Kautsjuk presses om. Yderst kommer saa et
+Beskyttelseslag, der alt efter Ledningens
+Anvendelse kan bestaa af Traadbespinding, en
+Blykappe, Jernbaandsarmering e. l. (nærmere
+se <sp>elektrisk Ledningsmateriel</sp>). -
+Vulkaniseret Gummi taaler ikke højere Temp.,
+hvorfor det ikke kan anvendes til Isolation i
+Maskiner. Jo mere Svovl det vulkaniserede
+Kautsjuk indeholder, des fastere bliver det;
+man kan drive Vulkaniseringen saa vidt, at
+Gummiet bliver fuldstændig haardt, og faar da
+<sp>Ebonit</sp>, som er et ganske fortrinligt e. I.,
+Gennemslagsspænding c. 100000 Volt pr cm.
+Stoffet er dog ikke varmebestandigt, men bliver
+blødt allerede ved 70° C.; det kan da formes
+ved denne Temp. Til Erstatning for Kautsjuk
+har man fremstillet en Del kunstige Substanser,
+<sp>Okonit</sp>, og andre, som har ret udstrakt
+Anvendelse. Endelig skal nævnes, at det er
+lykkedes at fremstille en Art <sp>Emaille</sp> saa
+elastisk, at den lader sig anvende til Isolation
+af tynde Traade (til Magnetspoler o. l.).
+Emailletraad taaler en højere Temp. end alm.
+isolerede Traade.
+<i>R. J. J.</i></chapter>
+
+<chapter name="elektriske Jernbaner">
+<b>elektriske Jernbaner.</b> De e. J. er
+opstaaede som en naturlig Udvikling af de
+elektriske Sporveje og i mange Tilfælde i direkte
+Forbindelse med disse. Efterhaanden som der
+ved de større Byer opstod Forstadskvarterer,
+skabtes samtidig Trangen til et hurtigt
+Befordringsmiddel til disse, hvortil den elektriske
+Drift særlig egnede sig. Herved opstod de
+elektriske <sp>Forstadsbaner</sp>, meget nær
+beslægtede med <sp>Sporvejene</sp>. Forskellen fra
+Sporvejene bestaar nærmest i Anvendelsen af
+sværere Materiel, færre Stoppesteder og større
+Hastighed. Mange Forstadsbaner befordrer
+tillige Gods.
+
+Det næste Skridt blev Indførelsen af
+elektrisk Drift paa Baner mellem nærliggende Byer;
+herved opstod de saakaldte <sp>elektriske
+Lokalbaner</sp>. Allerede 1898 fremkom disse
+Baner i Amerika, opr. kun til Persontrafik, senere
+indførtes særlige Godstog. Materiellet til disse
+Baner er naturligvis af samme Art som ved
+Forstadsbanerne.
+
+Med elektrisk Drift paa <sp>Hovedbaner</sp>,
+altsaa Baner med længere Trafik, baade af
+Personer og Gods, anstilledes der allerede 1895
+Forsøg baade i Amerika (Baltimore og Ohio)
+og i Europa (Tyskland). Det var dog først efter
+1900, at man for Alvor begyndte at indføre
+elektrisk Drift paa de egl. Jernbaner. Saaledes
+elektrificeredes 1901-02 i Norditalien
+<sp>Valtelina-Banen</sp> og Linien
+<sp>Milano-Varese-Portoberesio</sp>, og i Amerika er der
+i de sidste 15 Aar dels elektrificeret en Del
+Dampbaner, dels bygget en Mængde ny
+elektriske Baner. Der anvendes mest
+<sp>Lokomotivdrift</sp>, bl. a. under Hensyn til, at det
+gl. Vognmateriel i mange Tilfælde skal
+benyttes.
+
+Endelig skal som den sidste Art e. J. nævnes
+<sp>de elektriske Bybaner</sp>. Ved disse
+Baner, der oftest udføres som <sp>Højbaner</sp> eller
+<sp>underjordiske Baner</sp>, anvendes ret
+store Tog med kort Afstand imellem
+Stationerne og dog ret stor Middelhastighed. De
+Fordringer, der ved forsk. Arter af Trafik
+stilles til Drivkraften, er meget forsk., hvilket
+naturligvis er afgørende ved Valget af det
+anvendte <sp>Strømtilførselssystem</sp>. Først
+skal omtales de Systemer, hvor Strømtilførslen
+sker fra en Centralstation ad en
+Kontaktledning. Man anvender her 3 forsk. Systemer:
+<sp>Jævnstrøm</sp>, <sp>enfaset Vekselstrøm</sp>
+og <sp>trefaset Vekselstrøm</sp>.
+
+<sp>Jævnstrømssystemet</sp> er det ældste af
+de nu anvendte Systemer og er det, der
+naturligst frembyder sig, dels p. Gr. a. Seriemotorens
+fremragende Egenskaber som Banemotor, dels
+fordi Systemet ved Bygningen af de første
+Baner fandtes gennemprøvet fra Sporvejsdriften.
+Hertil kommer endvidere, at man ved dette
+System kan anvende <sp>Pufferbatterier</sp> paa
+Centralen, hvorved den stærkt varierende
+Belastning paa Generatorerne udlignes. En
+Mangel ved Jævnstrømssystemet er Nødvendigheden
+af Anvendelse af Igangsætningsmodstande for
+Motorerne, idet der jo derved tabes en Del
+Energi; denne er dog forsøgt anvendt til
+Opvarmning af Vognene. Efterhaanden som
+Trafikken paa Banerne voksede, og disse byggedes
+af større Udstrækning, blev det nødvendigt at
+
+<img>
+Fig. 1. Tog fra Banen Helsingborg-Råå-Ramlösa (Jævnstrøm 650 Volt).
+</img>

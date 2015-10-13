@@ -1,0 +1,135 @@
+Rækken. Som nævnt er det største Spejlteleskop
+forfærdiget af Earl of Rosse. Spejlet har en
+Diameter af 1,8 m og en Brændvidde af 17 m
+og opbevares nu i South Kensington Museet i
+London. Da det altid vil være forbundet med
+store Vanskeligheder at slibe saa store
+Metalspejle, har Foucault 1857 fremstillet større
+Reflekterer med forsølvede Glasspejle. Det
+største, han udførte (Spejlet har 1,2 m's Diameter
+og 7,5 m's Brændvidde), er opstillet paa
+Observatoriet i Paris (1875). Af andre større
+Reflektorer kan nævnes Common's i Ealing af
+Newton's Konstruktion med Sølvglasspejl af 1,53 m's
+Diameter (1888) og Grubb's i Melbourne af
+Cassegrain's Konstruktion, Spejlet har en
+Diameter af 1,22 m, samt de to paa Mount Wilson
+Observatory i Kalifornien opstillede
+Spejlteleskoper med Spejle af 1,52 m Diameter, 7,6 m
+Brændvidde, og Vægt 865 kg og af 2,5 m
+Diameter, 12,7 m Brændvidde og Vægt c. 4000 kg.
+Det sidstnævnte er Verdens største
+Spejlteleskop. Herschel's Kæmpeteleskop, Spejlet havde
+en Diameter af 1,22 m og en Brændvidde af 12
+m, ligger nu nedpakket i Slough. Lassell's
+mægtige Teleskop, der i sin Tid var opstillet
+paa Malta, blev ødelagt af Ejeren kort før hans
+Død.
+
+Ved Siden af disse til visuelt Brug bestemte
+K. har man i den sidste Tid konstrueret K.,
+der er bestemte til at fotografere Himlen, og
+disse er akromatiserede for de Fraunhofer'ske
+Linier <i>H</i><sub>γ</sub> og <i>H</i><sub>ε</sub> medens de hidtil nævnte er
+akromatiserede for Linierne <i>D</i> og <i>F</i> (se
+<sp>Spektralanalyse</sp> og <sp>Himmelfotografi</sp>).
+Den største K. af denne Art er i Potsdam, 79
+cm's Aabning og 12 m's Brændvidde, fra
+Steinheil (1890). Af andre større findes to i
+Greenwich (71 cm og 8,5 m og 66 cm og 6,6 m),
+begge fra Grubb (1894 og 1897), i Meudon (62
+cm og 15,9 m) fra Henry (1891), paa Kap (61
+cm og 6,9 m) fra Grubb (1897), i Paris (60 cm
+og 18 m) fra Henry (1889), <i>équatorial coudé</i>,
+foruden alle de, som deltager i det
+internationale Arbejde med at fotografere Himlen.
+Mindre fotografiske K. har man i Kbhvn, Upsala
+o. a. St.
+
+Okularet ved de visuelle K. er alm. befæstet
+i et eget Rør, der ved Tandstang og Drev kan
+forskydes i det Rør, hvori Objektivet er
+anbragt. Herved opnaas der, at de af Okularet
+udtrædende Straaler bliver parallelle,
+divergerende ell. konvergerende, alt efter som
+Iagttageren har normalt Syn, er nærsynet eller
+langsynet. Okularet selv bestaar ikke af een
+Linse, men af to, hvorved man opnaar at faa
+et overalt lige skarpt Billede paa Øjets
+Nethinde. De hidtil benyttede Former er Huygens'
+Okular ell. negativt Okular, hvor de to
+plankonvekse Linser er stillede saaledes, at begge
+vender deres Konveksitet mod Objektivet og
+Billedet ligger mellem de to Linser, samt
+Ramsden's Okular ell. positivt, hvor de to
+Linser vender deres Konveksitet mod hinanden og
+Billedet falder lidt foran (nærmere Objektivet
+end) den første Linse. P. Gr. a. denne
+Konstruktion vil Huygens' Okular ikke være heldigt
+at bruge, naar K. skal benyttes som
+Maaleinstrument, thi Fokalplanets Beliggenhed vil
+skifte med Okularet. Ved Ramsden's Okular
+beholder derimod Fokalplanet sin Beliggenhed
+uforandret, og i dette kan da anbringes et
+Mikrometer, hvormed Vinkelmaalingen kan
+udføres. Ofte kaldes Huygens' Okular ogsaa for
+Campani'ske; dette har ingen Hjemmel, thi
+Campani's Okular bestod af 3 Linser. Ved
+astron. Maalinger kan det blive ligegyldigt, om
+Billedet er omvendt ell. ej. Skal man derimod
+bruge den astron. K. til terrestrisk Brug, kan
+det være bekvemmere, at Billedet er opret.
+Dette opnaas ved at benytte et svagt
+forstørrende Mikroskop af negativ Brændvidde som
+Okular, ell. man benytter en Sammenstillen af
+2 ell. fl. enkelte plankonvekse Linser, der
+anbringes mellem Objektivet og Okularet
+(terrestrisk Okular) som i de alm. Marine-K. (Fig. 6).
+
+For at man med en K. skal faa gode Billeder,
+maa den være justeret ɔ: Objektivets optiske
+Akse maa gaa gennem Okularets Midtpunkt.
+Er dette ikke Tilfældet, vil man ved at bevæge
+Okularet ud og ind faa en pæreformet Lysplet,
+hvis smalleste Ende er den lysstærkeste.
+Objektivet maa da rettes i sin Indfatning i Røret,
+indtil Billedet bliver symmetrisk til
+Brændpunktet. Desuden maa den kromatiske
+Aberration være saaledes hævet, at de lysstærkeste
+Straaler i Spektret ɔ: fra <i>C</i> til <i>F</i> ved en
+Forstørrelse af 20 til 30 Gange forener sig paa Øjets
+Nethinde, og K. være fri for Astigmatismus ɔ:
+alle Straaler, som træffer Objektivet i samme
+Afstand fra Aksen, skal brydes paa samme
+Vis; er dette ikke Tilfældet, vil Billedet ikke
+være cirkelformet, men elliptisk. Det
+sekundære Spektrum skal være bragt ned til et
+Minimum. Men selv om nu Refraktoren i alle
+Dele nærmer sig det ideale, vil der være en
+bestemt Grænse for, hvad man kan se med den,
+og denne Grænse sættes bl. a. af Diffraktionen,
+der ved stigende Forstørrelser gør Billedet
+uklart og ubestemt. Man har derfor fundet, at
+man ikke vil vinde noget ved at benytte
+stærkere Forstørrelser end 40 paa hver cm
+Aabning, saa at en K. paa 20 cm's Aabning ikke
+vil taale en stærkere (Forstørrelse end 800
+Gange. Dog er det tvivlsomt, om man uden for
+Dobbeltstjerneobservationer vil se stort bedre
+end med 25 paa cm, i det anførte Tilfælde 500
+Ganges Forstørrelse. Som nævnt er
+Forstørrelsen lig Objektivets Brændvidde, divideret
+med Okularets. Sætter man nederste Grænse
+for Okularets Brændvidde til 1/2 cm, saa skulde
+Grænsen være det dobbelte af
+Objektivbrændvidden, denne udtrykt i Centimeter, og dette
+skulde give 12,5 som Forhold mellem
+Objektivets Brændvidde og dets Aabning; alm.
+varierer dette Forhold mellem 15 og 18, saaledes
+som det fremgaar af de ovf. nævnte
+Talstørrelser ved de største K. Ved de fotografiske K.
+har man alm. valgt Forholdstallet 10.
+
+Spørgsmaalet, om de dioptriske ell.
+
+<img>Fig. 6. Terrestrisk Kikkert.</img>

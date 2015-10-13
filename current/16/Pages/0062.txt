@@ -1,0 +1,153 @@
+udvisket i samme Forhold, som Solstraalernes
+direkte Virkning formindskes ved et stort
+Skydække, lav Solstand (om Vinteren, under høje
+Breddegrader), ell. hvor der ofte finder
+regelmæssige Vindskifter Sted i Døgnets Løb.
+
+Den aarlige Gang, der er betinget af Solens
+varierende Højde fra Dag til Dag, viser et
+betydeligt regelmæssigere Forløb end den
+daglige (se Figur); dog er der ogsaa der en
+betydelig Skævhed, idet L. stiger hurtigere
+om Foraaret end den falder om Efteraaret;
+baade Maksimum og Minimum — og navnlig
+det sidste — indtræder en Del senere end
+henh. højest og lavest Solhøjde. Den aarlige
+Gang varierer naturligvis stærkt med
+Breddegraden, fordi Forandringerne i Solhøjden
+varierer dermed; ligeledes giver regelmæssigt
+indtrædende Vejrforhold (som »Regntider«) sig
+til Kende deri. Endelig faar lokale geografiske
+Forhold og klimatiske Forskelligheder i det
+hele et stærkt Udtryk saavel i Forskel mellem
+Maksimum og Minimum (Amplituder) og
+deres Beliggenhed, som i Kurvens alm. Form.
+Som Modsætning til den afbildede L.-Kurve
+for Aaret for Kbhvn kan saaledes anføres, at
+man mellem de to Vendekredse finder Tendens
+til 2 Maks. og 2 Min., svarende til, at Solen
+kommer i Zenith 2 Gange i Aarets Løb.
+
+Betragter man L.'s Fordeling over hele
+Jordens Overflade, er det indlysende, at hvis
+Jorden var fuldkommen ens over det hele, vilde
+Isotermerne, f. Eks. for en bestemt Maaned,
+blive et System af Cirkler, parallelle med
+Breddecirklerne; og paa lgn. Maade vilde
+Isotermerne for et bestemt Tidspunkt blive
+regelmæssige, bølgeformede Kurver, der skyder sig
+mod Polerne paa Jordens Dagside og mod
+Ækvator paa Natsiden. Men p. Gr. a. den
+uregelmæssige Fordeling af Land og Vand o.
+a. Forskelligheder i Jordoverfladens fysiske
+Beskaffenhed, bliver Isotermernes Forløb paa
+den virkelige Jord overordentlig uregelmæssigt,
+som det tydeligt kan ses af hosstaaende
+Eksempel paa Isotermkort over hele Jorden; ikke
+alene udviser Isotermerne store Udbugtninger
+mod N. og S., i St f. at følge Breddecirklerne,
+men der forekommer endog helt lukkede
+Isotermer over mindre Omraader. En mærkelig
+Følge af disse Forhold er, at hvis man
+forsøger at beregne en Gennemsnitstemperatur
+for hele Jordens Overflade, bliver denne ret
+forsk. for de forsk. Maaneder; skønt <sp>hele</sp>
+Jorden dog modtager omtr. samme
+Varmemængde i samme Tid; heller ikke har de til
+hinanden svarende Maaneder samme
+Middeltemperatur paa den nordlige og den sydlige
+Halvkugle, som hosstaaende Tabel udviser.
+
+<table>
+<td><td>Januar<td>Juli<td>Aaret
+<td>Nordlige Halvkugle<td r>8,0°<td r>22,5°<td r>15,2°
+<td>Sydlige Halvkugle<td r>17,3°<td r>10,3°<td r>13,4°
+<td>Hele Jorden<td r>12,6°<td r>16,4°<td r>14,3°
+</table>
+
+Paa Grundlag af Isotermkortene har man
+beregnet en gennemsnitlig L. for hver
+Breddecirkel; og naar man fra et bestemt Steds
+Middeltemperatur, f. Eks. for Aaret, trækker
+Gennemsnitstemperaturen for Stedets Breddecirkel,
+faas Stedets <sp>termiske Anomali</sp>. Kurver
+gennem Steder med samme termiske Anomali
+kaldes <sp>Isanomaler</sp>, og Kort herover er,
+som det vil forstaas, et værdifuldt Supplement
+til de alm. Isotermkort.
+<i>H.-P.</i>
+</chapter>
+
+<chapter name="lufttomt">
+<b>lufttomt</b> kalder man et Rum, hvori der
+ingen Luft findes; sædvanlig bruges Ordet i
+samme Bet. som <sp>Vakuum</sp>, tomt Rum. Om der
+findes noget Rum, som er absolut frit for Luft
+(o. a. Stoffer), vides ikke. Vel findes der ikke
+saa megen Luft i Verdensrummet, at den kan
+hindre Planeternes Bevægelse, men da det
+viser sig, at de store Kloder (Solen, Jupiter)
+holder en stor Atmosfære fast, de middelstore
+(Jorden, Mars, Venus) en mindre, og de smaa
+(Maanen) liden ell. ingen, ligger den Tanke
+nær, at hver Klode netop har den Atmosfære,
+som den kan samle sammen fra
+Verdensrummet. Visse Forhold i Sammensætningen af
+Jordens og Solens Atmosfære synes at tyde i
+samme Retning.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Lufttorpedo">
+<b>Lufttorpedo,</b> et torpedoformet Projektil, der
+udkastes fra Luftfartøjer.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Lufttryk">
+<b>Lufttryk.</b> Atmosfæren uden om Jorden
+virker paa en vandret Flade med et Tryk lig
+Vægten af den oven over liggende Luftmasse
+(jfr <sp>Aerostatik</sp> og <sp>Lufthavet</sp>).
+Indespærret Lufts Tryk varierer med Luftens
+Temperatur og Rumfang i Overensstemmelse med
+Luftens Tilstandsligning (se <sp>Luft</sp>). Om
+Oprindelsen til disse Tryk af stillestaaende Luft, se
+<sp>kinetisk Teori</sp>. L. maales ved et
+<sp>Barometer</sp> ell. et <sp>Manometer</sp>; dets Størrelse
+angives i g ell. kg pr cm<sup>2</sup> ell. ved Længden
+af den Kvægsølvsøjle, der vilde udøve det
+samme Tryk; Kvægsølvsøjlen antages da at have
+Temp. 0° C. og ved Beregningen af dens Vægt
+benyttes Tyngde accelerationen ved 45° n. Br.
+og Havets Overflade (»reduceret
+Kvægsølvhøjde«). — Naar Luften bevæger sig imod et
+Legeme ell. dette imod Luften, opstaar der paa
+Legemets Forside et Tryk, og paa dets Bagside
+en Sugning, og disse to Kræfter tilsammen
+giver den Luftmodstand, som Legemet
+møder. Denne <sp>Luftmodstand</sp> afhænger i høj
+Grad af Legemets Form og Størrelse og dets
+Hastighed i Forhold til Luften. Jo mere
+uforstyrret Legemet efterlader den Luft, det under
+sin Bevægelse kløver, desto mindre vil
+Modstanden blive; følgelig vil Legemer, der er
+tilspidsede ell. afrundede baade fortil og bagtil,
+saa der ikke bliver Hvirveldannelse i Luften
+om Kanter, møde forholdsvis ringe Modstand.
+Er Hastigheden kun lille, vil Luftmodstanden
+være proportionel med Hastigheden (Stoke's
+Lov); er et Legeme kun paavirket af Tyngden
+og Luftmodstanden, vil Legemets Faldhastighed
+vokse indtil en vis Maksimalværdi, hvor de to
+Kræfter er lige store, og derefter vil
+Hastigheden være konstant, Bevægelsen jævn;
+Støvpartikler, Tobaksrøg og smaa Regndraaber
+falder derfor med konstant Hastighed gennem
+Luften. Bliver Hastigheden større, vokser
+Luftmodstanden stærkere end Hastigheden; ligger
+denne mellem Grænser, der svarer til svag
+Vind og til Storm, forholder Modstanden sig ret
+nøje som Hastighedens Kvadrat, men ved større
+Hastighed vokser Modstanden endnu stærkere.
+— Bevæger en plan Plade sig vinkelret mod

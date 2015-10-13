@@ -1,0 +1,157 @@
+saa overraskende simpel Maade kan give et
+klart Billede af selv ret indviklede Problemer,
+f. Eks. <sp>Heyland</sp>'s Diagram for den
+asynkrone Motor.
+
+Jævnsides med en til de mindste Enkeltheder
+gennemarbejdet <sp>Teorier</sp> i E. gaaet en
+tilsvarende Udvikling af <sp>Maaleapparater</sp> og
+<sp>Maalemetoder</sp>, og ligesom
+<sp>Prøvestuen</sp> i Fabrikkerne danner et
+værdifuldt Korrektiv til <sp>Beregnings</sp>- og
+<sp>Konstruktionsstuen</sp> er det
+<sp>elektrotekniske Laboratorium</sp> ved den
+elektrotekniske Undervisning det Sted, hvor de
+teoretiske Begreber omsættes til Virkelighed. -
+Foruden i Læren om elektriske Maskiner
+spiller den teoretiske Behandling ogsaa en
+dominerende Rolle paa mange andre
+Omraader af E. Ved Behandling af
+<sp>Højspændingsteknikkens</sp> Problemer er
+Elektrostatikken atter kommet til Ære og Værdighed.
+Ved <sp>Telefonering paa meget lange
+Afstande</sp> har Teorien været af afgørende
+Bet. for de store Fremskridt, som de senere
+Aar har at opvise.
+
+Den elektrotekniske Litt. er meget stor og
+ofte stærkt specialiseret. En ret omfattende
+Haandbog paa Dansk er
+»Stærkstrømselektroteknik« af E. v. Holstein-Rathlou, nærmest
+beregnet til Brug ved Eksamen for Installatører.
+Paa Svagstrømsomraadet findes paa Dansk P.
+O. Pedersen: »Telefonledningernes Teori«.
+<i>Abs. L.</i>
+</chapter>
+
+<chapter name="Elektrotekniker">
+<b>Elektrotekniker</b> kaldes den, der studerer
+Elektroteknik ell. beskæftiger sig med Arbejder
+inden for Elektroteknikkens Omraade.
+Betegnelsen anvendes dog nu hyppigst for saadanne,
+som efter at have modtaget Undervisning i
+Elektroteknik ved de saakaldte »Teknikum«'er
+(her i Landet de tekniske Skoler i Kbhvn,
+Aarhus og Helsingør) beskæftiges som
+Elektrokonstruktører e. l.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Elektroterapi">
+<b>Elektroterapi</b> er Behandling af Sygdomme
+med Elektricitet. I videre Forstand indbefatter
+E. ogsaa indirekte Anvendelse af Elektricitet,
+f. Eks. Ætsning med en Platinnaal, der er
+gjort glødende ved elektrisk Strøm (se
+<sp>Galvanokaustik</sp>) ell. Indførelse af
+Medikamenter gennem Huden ved Hjælp af Elektricitet
+(se <sp>Kataforese</sp>).
+
+I Alm. mener man med E. den direkte
+Paavirkning af Muskler ell. Nerver med
+Elektricitet. Grundlaget for Behandlingen er, at den
+elektriske Strøm dels er i Stand til at
+fremkalde Muskelsammentrækninger, dels kan
+irritere ell. berolige baade Føle- og Bevægenerver.
+
+Elektriciteten anvendes i forskellige Former.
+Den <sp>galvaniske</sp> Strøm, som har været
+brugt i over et halvt Aarhundrede, benyttes
+fortrinsvis ved organiske Nervelidelser. Den
+største (indifferente) Elektrode anbringes paa
+Ryggen ell. Brystet, den anden (aktive)
+Elektrode, som er lille, og hvorfra Virkningen skal
+udfoldes, anbringes paa den Nerve ell. Muskel,
+der skal behandles. Virkningen er forsk., efter
+som den aktive Elektrode er positiv ell. negativ;
+den negative virker irriterende og anvendes
+derfor ved Lammelse og Følelsesløshed, mens den
+positive virker beroligende og bruges til
+Behandling af Smerter og lokaliserede
+Muskelkramper. Sin Hovedanvendelse har den
+galvaniske Strøm ved perifere Nervelammelser, f.
+Eks. den reumatiske Ansigtslammelse og ved
+Følgerne af Børnelammelsen samt ved
+Nervesmerter.
+
+Den <sp>faradiske</sp> Strøm,
+Induktionsstrømmen, og den i de senere Aar anvendte
+sinusoidalfaradiske Strøm, som egl. er en galvanisk
+Vekselstrøm, bruges til Dels som rent
+gymnastisk Middel, idet den ved at frembringe
+Sammentrækninger i Muskler, som er delvis, men
+ikke helt lammede, kan opøve Bevægeligheden
+af disse. Dens Evne til at frembringe
+Muskelsammentrækninger anvendes ogsaa over for
+hysteriske Lammelser, endvidere over for
+Svækkelse af Musklerne i de indre Organer
+(Obstipation, Blæresvækkelse). Ogsaa ved Lidelser
+paa vasomotorisk Grundlag kan den udfolde
+god Virkning. Endelig bruges den faradiske
+Strøm til at fremkalde Irritation af Huden
+(faradisk Pensel) ved mangfoldige funktionelle,
+særlig hysteriske Lidelser.
+
+Den faradiske Strøm (sjældnere den
+galvaniske) anvendes undertiden i Form af
+<sp>elektrisk Bad</sp>, sædvanligt det saakaldte
+Fircellebad, hvor Patientens Hænder og Fødder
+anbringes i hver sin Skaal med Vand og
+Strømmen derved ledes gennem hele Legemet.
+
+Den <sp>statiske Elektricitet</sp>,
+Franklinisationen, benyttedes allerede i 18. Aarh., men
+p. Gr. a. Apparaternes Ufuldkommenhed og
+det mere usikre Kendskab til Nervesygdommene
+gik den igen af Brug. I den senere Tid har
+den atter faaet en begrænset Anvendelse,
+fortrinsvis som beroligende Middel ved Neurasteni
+og smertestillende ved forskellige
+Hovedpineformer.
+
+I de senere Aar har man ogsaa anvendt
+<sp>højspændte Strømme</sp> (Tesla-Strømme efter
+Opfinderen, Ingeniør Tesla) til den saakaldte
+d'Arsonvalisation (efter Fysiologen d'Arsonval).
+d'Arsonvalisationen anvendtes til at begynde
+med ved Aareforkalkning p. Gr. a. dens
+formentlig blodtryknedsættende Virkning; denne
+er dog meget omstridt. Derimod synes
+Tesla-Strømmen at have en søvndyssende og
+smertestillende Virkning og bruges derfor foruden til
+Behandling af en Del neurasteniske og
+hysteriske Lidelser ogsaa ved forskellige Slags
+Nervesmerter.
+
+Behandling med Elektricitet kræver
+indgaaende Sagkundskab med Hensyn til de
+Sygdomme, der skal behandles, ogsaa til, hvilke
+Strømme der skal anvendes, og Strømmenes
+Styrke; ellers vil Behandlingen let blive enten
+virkningsløs ell. skadelig; særlig uheldig er
+Anvendelsen ved akutte Nervelidelser,
+Nervebetændelse, Apopleksi, Børnelammelse i de
+første Stadier og i det hele ved alle febrile
+Sygdomme. Et rent humbugsmæssigt Forsøg paa
+Anvendelse repræsenterer de saakaldte
+elektriske Styrkebælter, Volta-Kors o. l., som
+overhovedet ikke frembringer nogen Elektricitet, der
+paavirker Organismen.
+<i>K. H. K.</i>
+</chapter>
+
+<chapter name="Elektrotypi">
+<b>Elektrotypi</b> kaldes den Gren af
+Galvanoplastikken, ved hvilken der ved
+Kobberudfældning fremstilles Reliefkopier af Typesats,
+

@@ -1,0 +1,154 @@
+Mangel paa Staldgødning er denne som
+Varmegiver i den nyere Tid søgt erstattet ved
+Tilledning af Damp i Rørsystemer under
+Varmebedsanlægget, hvor man ikke helt er gaaet over til
+Kultur i Væksthuse.
+<i>P. F.</i>
+</chapter>
+
+<chapter name="Varmebehandling">
+<b>Varmebehandling,</b> Opvarmning af Legemet
+ved udefra tilført Varme. Behandlingen kan
+være universel, hvorved hele Legemet
+opvarmes, eller lokal, hvor Behandlingen
+indskrænkes til visse Dele af Legemet. En stor Del af
+de Badeformer, der anvendes i Terapien, er
+Varmebehandlinger, saaledes det varme
+Karbad, Dampbadet, det romerske Bad, elektrisk
+Lysbad o. s. v. (se <sp>Bad</sp>, S. 489). Som lokal
+V. anvendtes tidligere meget Grødomslag, nu
+mere det varme Vandomslag, ogsaa varme
+Sandposer, elektrisk Varmepude (s. d.), endvidere
+Pakninger med varm Gytje, Fango eller
+Uldtapper, opvredne i varmt Vand, samt
+Dampstraale og Hedluft. Ved Diatermi anvendes
+højfrekvente Strømme til Fremkaldelse af
+stærk lokal Varmepaavirkning. V. virker
+smertestillende og muskelslappende og fremkalder
+forøget Blodtilførsel til de behandlede Dele,
+hvorfor den særlig anvendes ved mange
+Former af Gigt, Reumatisme og andre smertende
+Lidelser. De mere universelle V. er tillige det
+mest brugte Middel til Fremkaldelse af Sved,
+som finder Anvendelse ved mange Sygdomme.
+<i>E. F.</i>
+</chapter>
+
+<chapter name="Varmebælte">
+<b>Varmebælte,</b> se <sp>Zone</sp>.
+</chapter>
+
+<chapter name="Varmebænk">
+<b>Varmebænk,</b> d. s. s. <sp>Varmebed</sp>.
+</chapter>
+
+<chapter name="Varmedunk">
+<b>Varmedunk</b> kaldes en Beholder, sædvanlig
+af Gummi, en Metallegering eller af brændt
+Ler, som kan fyldes med varmt Vand, lukkes
+og derefter benyttes til lokal Opvarmning, f.
+Eks. af en Seng, en Skammel i en Jernbanevogn
+o. s. v. Som V. kan man ogsaa benytte
+Termoforer.
+<i>(Fr. V. M.). A. Bj.</i>
+</chapter>
+
+<chapter name="Varmeenhed">
+<b>Varmeenhed,</b> en Varmemængde, der tjener
+som Maalenhed til Sammenligning med andre
+Varmemændger. Se <sp>Kalorie</sp>.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Varmeflaske">
+<b>Varmeflaske,</b> se <sp>Jernbanevogne</sp>, S. 22.
+</chapter>
+
+<chapter name="Varmefylde">
+<b>Varmefylde</b> (<sp>specifik Varme</sp>). Ved et
+Stofs V. forstaas det Antal Gramkalorier, der
+skal til for at opvarme 1 g af Stoffet 1 Grad C.
+Da V. afhænger af Temperaturen, taler man
+jævnlig om Middel-V. inden for et vist
+Temperaturomraade; Middel-V. mellem 0° og 100° C
+faas ved at dividere 100 op i den
+Varmemængde, der skal til for at opvarme 1 g Stof fra 1
+til 100° C. Tilfører man et Stof en vis
+Varmemængde, vil denne som Regel ikke udelukkende
+bruges til at forøge Legemets Temperatur; en
+Brøkdel af Varmen tjener til at udvide
+Legemet og derved udføre et Arbejde mod en ydre
+Kraft og det ydre Tryk. Hvis man paa en eller
+anden Maade forhindrer denne Udvidelse,
+falder den nævnte Brøkdel bort, og hele den
+tilførte Varme bruges til Temperaturforøgelsen.
+For at opnaa samme Temperaturforøgelse maa
+man altsaa i første Tilfælde tilføre mere Varme
+end i sidste Tilfælde, hvor Legemets Rumfang
+holdes konstant. Man skelner derfor mellem to
+forskellige V., den ene, <i>c<sub>p</sub></i>, hvor Indeks <i>p</i>
+betegner, at det ydre Tryk paa Legemet holdes
+konstant, den anden <i>c<sub>v</sub></i>, hvor Indeks <i>v</i> betegner,
+at Legemets Rumfang holdes konstant; <i>c<sub>p</sub></i> er
+større end <i>c<sub>v</sub></i>. Ved <sp>faste og flydende
+Legemer</sp> er Varmeudvidelsen forholdsvis
+lille og som Følge deraf Forskellen mellem <i>c<sub>p</sub></i>
+og <i>c<sub>v</sub></i> kun ringe. Ved Hjælp af Varmeteorien
+kan man beregne Forskellen mellem <i>c<sub>p</sub></i> og <i>c<sub>v</sub></i>,
+men kun <i>c<sub>p</sub></i> kan maales, og kun den har
+praktisk Interesse. Ved Luftarterne er der derimod
+en stor Varmeudvidelse og af den Grund ogsaa
+stor Forskel paa <i>c<sub>p</sub></i> og <i>c<sub>v</sub></i>. Baade <i>c<sub>p</sub></i> og <i>c<sub>v</sub></i> kan
+bestemmes eksperimentelt, og desuden vil
+Forholdet <i>c<sub>p</sub></i>/<i>c<sub>v</sub></i> kunne maales; teoretisk har dette
+Forhold for enatomige Luftarter Værdien 5/3, for
+toatomige Luftarter Værdien 1,40 (jfr.
+<sp>kinetisk Teori</sp>), og disse Værdier er ogsaa
+fundne eksperimentelt. — Dulong & Petit opstillede
+1819 paa Grundlag af mange Forsøg den Lov, at
+Atomvarmen for alle Grundstoffer i fast Form
+har samme Værdi, nemlig 6,4; ved
+Atomvarmen forstaas da den Varmemængde, der skal
+til for at opvarme 1 Gramatom 1° C, altsaa
+Produktet af Stoffets Atomvægt og V., ganske
+analogt med at man ved et Stofs
+Molekylarvarme forstaar Produktet af Stoffets
+Molekylvægt og V. Denne Lov har imidlertid
+efterhaanden mistet sin væsentligste Værdi, efter at de
+nyere Forsøg har vist, at V. afhænger stærkt
+af Temperaturen, navnlig naar denne er lav.
+Saaledes er V. for Kobber ved ÷ 250° kun
+c. 1/25 af Værdien ved Stuetemperatur. Paa
+samme Maade gaar det med V. for de fleratomige
+Luftarter; Brint, der ved alm. Temperatur har
+<i>c<sub>v</sub></i> = 2,4, har ved ÷ 181° <i>c<sub>v</sub></i> = 1,7 og ved
+Temperatur under ÷ 213° <i>c<sub>v</sub></i> = 1,5 (jfr.
+<sp>Kvanteteori</sp>, S. 6). — Eksperimentelt
+bestemmes V. ved Hjælp af Kalorimetre (s. d.). —
+I følgende Tabel er anført V. for en Del alm.
+Stoffer ved alm. Temperatur.
+<table>
+<td 2 c>A. <sp>Faste Legemer</sp>:
+<td>Aluminium<td r>0,21
+<td>Glas<td r>0,2
+<td>Is<td r>0,50
+<td>Jern<td r>0,11
+<td>Kobber<td r>0,09
+<td>Sølv<td r>0,055
+<td>Zink<td r>0,092.
+<td>
+<td 2 c>B. <sp>Vædsker</sp>:
+<td>Alkohol<td r>0,58
+<td>Kvægsølv<td r>0,0333
+<td>Petroleum<td r>0,51
+<td>Vand<td r>1,000
+</table>
+<table>
+<td 7 c>C. <sp>Luftarter</sp>:
+<td>Atmosfærisk Luft<td><i>c<sub>p</sub></i><td>=<td>0,241<td>;<td><i>c<sub>p</sub></i>/<i>c<sub>v</sub></i><td>=<td>1,40
+<td>Brint<td c>-<td>=<td>3,40<td>;<td c>-<td>=<td>1,40
+<td>Helium<td c>-<td>=<td>1,26<td>;<td c>-<td>=<td>1,66
+<td>Ilt<td c>-<td>=<td>0,218<td>;<td c>-<td>=<td>1,40
+<td>Kultveilte<td c>-<td>=<td>0,202<td>;<td c>-<td>=<td>1,29
+<td>Kvælstof<td c>-<td>=<td>0,249<td>;<td c>-<td>=<td>1,40
+</table>

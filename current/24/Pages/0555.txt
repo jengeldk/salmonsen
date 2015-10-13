@@ -1,0 +1,139 @@
+<chapter name="Variabilitet">
+<b>Variabilitet</b> (lat.) kaldes i Biologien det
+Forhold, at Organismer af samme Afstamning,
+eller af samme Art, viser større eller mindre
+Afvigelser (»Variation«) fra deres Ophav
+(ganske bortset fra Generationsskifte, s. d.) og fra
+hverandre indbyrdes. Artsafgrænsningen er
+imidlertid en meget vanskelig Sag, og det
+forstaas let, at V. kommer til at faa noget
+forskellig Betydning, efter som man ved Art forstaar
+de snævreste Inddelings-Grupper (Biotyper, se
+<sp>Varietet</sp>) eller de mere omfattende Arter,
+som Linné opstillede, og inden for hvilke man
+atter kan opstille et større eller mindre Antal
+af Underafdelinger. Og da der ved
+Krydsninger fremkaldes forskellige Kombinationer af
+Ophavsformernes Karakterer, hvorved
+Individernes indbyrdes Afvigelser trods samme
+Afstamning yderligere forøges, bliver det klart, at V.
+omfatter ret forskellige Ting. Man skelner da
+oftest mellem følgende Kategorier.
+
+1) De Linné'ske Arters større eller mindre
+Rigdom paa forskellige, hver for sig faste
+Typer af Organismer. Jo mere man studerer
+Arterne i Naturen eller i tam, respektive dyrket
+Tilstand, desto flere tydelig forskellige Typer
+finder man, saaledes at de gamle Arter ligesom
+opløses, »pulveriseres«, i forskellige, typisk
+konstante eller netop spaltende Livstyper (se
+<sp>Varietet</sp>). Dette betegnes ofte som <sp>Arternes
+Formrigdom</sp> (Polymorfi). Om eller
+hvorledes der er kødeligt (genealogisk) Slægtskab
+mellem disse i Naturen og blandt Husdyr eller
+Kulturplanter fundne selvstændige Typer, kan
+ikke altid præciseres sikkert.
+
+2) Den <sp>fluktuerende V.</sp>, ogsaa kaldet
+<sp>svingende Afvigelighed</sp>. Herved
+forstaas det Forhold, at Individerne af en given
+nok saa snæver Slægtskabskreds (endog
+Søskende, der er Afkom af selvbefrugtende Planter!)
+afviger indbyrdes med Hensyn til <sp>Graden af
+de Egenskaber, der hører til den
+paagældende Organismetype</sp>. Og
+derved er at mærke, at denne V. ytrer sig
+overalt, selv hvor man søger at gøre Livs-Kaarene
+saa ensartede som muligt. Som Eksempler kan
+nævnes de overalt forekommende Svingninger
+med Hensyn til <sp>Dimensioner</sp>; endvidere
+i procentisk Indhold af et eller andet Stof
+(Farvestof, Fedtstof, Melstof o. s. v.), i
+Væksthastighed eller i det hele taget i de fysiologiske
+Processers <sp>Intensitet</sp>; fremdeles i Antallet
+af saadanne Organer (Blade, Blomster o. s. v.
+og f. Eks. Finnestraaler eller Hvirvler hos
+Fisk), hvis Tal ikke er skarpt fikseret ved den
+typiske Udviklingsgang. Betragtes hver
+Egenskab for sig, vil man oftest iagttage, at de for
+de enkelte Individer fundne Tal eller Maal
+grupperer sig paa ret regelmæssig Maade
+omkring det under de givne almene Naturforhold
+gennemsnitlige »Middelmaal«. Det viser sig
+nemlig atter og atter, at der er flest Individer,
+der har Middelmaalet eller dog staar dette nær,
+medens Individer, som afviger fra
+Middelmaalet, bliver sjældnere og sjældnere, jo mere man
+fjerner sig fra dette. Til Eksempel: 9440
+Bønner, der høstedes i samme Bed, og som alle var
+Børnebørnsbørn af en eneste Bønne, fordelte
+sig i Breddemaalsklasser med 1/2 mm's
+Spillerum saaledes:
+<table>
+<td>Breddemaal i mm<td r><6,5<td r>7<td r>7,5<td r>8<td r>8,5<td r>9
+<td>Antal Bønner<td r>14<td r>242<td r>1927<td r>5321<td r>1883<td r>53
+<td>Procentisk<td r>(0,1)<td r>3<td r>20<td r>56<td r>20<td r>1
+</table>
+
+Middelmaalet var c. 8 mm, og det ses af
+Tabellen, at Bønnernes Maal grupperes ret
+symmetrisk omkring Middelmaalsklassen.
+Individer, hvis Maal overskrider det paagældende
+Middelmaal, kaldes Plus-Varianter
+(Plus-Afvigere), de, der ikke naar dette, kaldes
+Minus-Varianter (Minus-Afvigere). Den nærmere
+Undersøgelse af de Fordelinger, som Varianterne i de
+forskellige Tilfælde udviser, behandles i den
+biologiske Variationsstatistik (s. d.). Ved
+<sp>Variationsvidden</sp> forstaar man Differencen
+mellem de yderste Plus-Afvigeres og de yderste
+Minus-Afvigeres Maal. Men denne Bestemmelse
+er værdiløs, fordi Variationsvidden stiger med
+det stigende Antal Individer, der undersøges.
+Thi jo flere der maales, desto større bliver
+Udsigten til at finde Repræsentanter for de
+sjældnere, stærkt afvigende Plus- eller
+Minus-Afvigere. Det letteste (og i mange Tilfælde ogsaa
+et tilstrækkelig godt) Maal for den fluktuerende
+V. faas ved at bestemme de to Grænser, der
+afskærer henholdsvis de yderste Minus-Afvigere
+og de yderste Plus-Afvigere, saaledes, at den
+nedre Grænse afskærer den Fjerdedel af
+samtlige undersøgte Individer, der har lavest Maal,
+og den øvre Grænse afskærer den Fjerdedel,
+der har højest Maal. Disse to
+Fjerdedelsgrænser, sædvanlig betegnede ved <i>q1</i> og <i>q3</i>, omfatter
+da den midterste Halvdel af alle Maalene. Ved
+ganske symmetrisk Fordeling ligger
+Middelmaalet, <i>M</i>, lige midt mellem de to nævnte
+Fjerdedelsgrænser. <i>q3</i> ÷ <i>M</i> bliver da = <i>M</i> ÷ <i>q1</i> =
+(<i>q3</i> ÷ <i>q1</i>): 2, og denne Størrelse er »Kvartilet«,
+<i>Q</i>, der er det søgte Variationsmaal. Selv hvor
+Fordelingen ikke er strengt symmetrisk,
+bestemmes <i>Q</i> dog som (<i>q3</i> ÷ <i>q1</i>): 2. Kvartilet
+forandres ikke ved Forøgelse af det undersøgte
+Materiale og kan derfor bruges. Et langt bedre
+Maal for Afvigelsernes Størrelse har man dog i
+<sp>Middel-Afvigelsen</sp>, der beregnes af en
+Variationsrække paa ganske samme Maade som
+»Middelfejlen paa Individet« (se <sp>Fejllære</sp>)
+af en hvilken som helst Række Maalinger.
+Middel-Afvigelsen, σ, divideret med Middelmaalet
+giver et ubenævnt Tal, der, multipliceret med
+100, kaldes Variationskoefficienten: <i>V</i> = 100 (σ:
+M). Ved denne kan man direkte
+sammenligne ganske forskellige Variationsrækker
+indbyrdes.
+
+Der forekommer ikke faa Tilfælde, hvor den
+fluktuerende V. er <sp>ensidig</sp>, ɔ: hvor
+Afvigelserne fra det Maal, der maa anses som typisk
+under de givne Kaar, kun viser sig i een
+Retning, enten blot som Plus-Variationer eller som
+Minus-Variationer, regnet ud fra det typiske
+Maal, der i saa Fald ikke er det
+gennemsnitlige. Saaledes viste 769 Bygplanter af samme
+Afstamning følgende Fordeling af Individerne
+med Hensyn til det procentiske Antal af
+fejlslagne Frugter i Aksene:

@@ -1,0 +1,124 @@
+Halvtoneskridtet i Dybden. Allerede tidlig forbandt man
+dog to Tetrakorder til et større Hele.
+<sp>Terpander</sp> forøgede Lyraens Strenge til 7 ved
+at forbinde to saadanne doriske Tetrakorder,
+saaledes at den midterste Tone var fælles:
+
+<i>d c b^a</i> | <i>a g f^e</i> (Halvtoneskridtet er her og
+i de flg. Eks. markeret med en Bindebue). Skønt
+denne Skala er musikalsk unaturlig, fordi den
+mangler en Tone i Oktaven, holdt dog Dorerne
+med stor Sejghed fast ved den, og først i 6.
+Aarh. mener man, at Systemet blev suppleret
+til en Oktav ved Sammenstilling af to
+Tetrakorder, som var adskilte (<i>diezeugmenon</i>) og
+ikke havde Tone fælles: <i>edc^h</i> | <i>agf^e</i>.
+Dette er den <sp>doriske Skala</sp> i dens
+endelige Skikkelse. Af denne Skala dannede man
+da det »fuldkomne« System (<i>Systema teleion</i>)
+ved at sætte to ganske ligedannede Tetrakorder
+til henh. foroven og forneden (med
+Forbindelsestonen fælles) og endelig som Grundtone
+tilføje Tonen <i>A</i>. Man fik herved 4 Tetrakorder
+foruden Tonen <i>A</i>:
+<table>
+<td><i>a g f^e</i><td><i>Tetrachordon</i><td><i>hyperbolaion</i> (den høje),
+<td><i>e d c^h</i><td c>»<td><i>diezeugmenon</i> (den adskilte),
+<td><i>a g f^e</i><td c>»<td><i>meson</i> (den midterste),
+<td><i>e d c^H</i><td c>»<td><i>hypaton</i> (den dybe),
+<td c><i>A</i><td 2><i>Proslambanomenos</i> (den tilføjede),
+</table>
+et System, som giver det samme som vor
+<i>A</i>-moll-Skala i nedadgaaende Bevægelse gennem
+to Oktaver.
+
+Vilde man modulere til Underkvintens
+Toneart, maatte man i St f. Tonen <i>h</i> benytte Tonen
+<i>b</i>, hvilket gav alternativt en femte Tetrakord,
+nemlig i Stedet for <i>Tetrachordon diezeugmenon</i>:
+<i>d c b a</i> <i>Tetrachordon synemmenon</i> (den
+forbundne), hvis Anvendelse gav Systemet Navn
+af <i>Systema metabolon</i> (det foranderlige) i
+Modsætning til det ovf. anførte <i>Systema teleion</i>.
+
+Navnene paa de nævnte 16 Toner (resp. 18
+Toner, naar Tetrakorden <i>synemmenon</i> tages
+med) var:
+<table>
+<td><i>a</i><td><i>Nete hyperbolaion</i>,<td>den højeste,
+<td><i>g</i><td><i>Paranete</i> »<td>næsthøjeste,
+<td><i>f</i><td><i>Trite</i> »<td>tredje,
+<td><i>e</i><td><i>Nete diezeugmenon</i><td>højeste,
+<td><i>d</i><td><i>Paranete</i> »<td>næsthøjeste
+<td><i>c</i><td><i>Trite</i> »<td>tredje,
+<td><i>h</i><td><i>Paramese</i><td>næstmidterste,
+<td><i>b</i><td><i>Trite synemmenon</i><td>tredje,
+<td><i>a</i><td><i>Mese</i><td>midterste,
+<td><i>g</i><td><i>Lichanos meson</i><td>Pegerfingertone,
+<td><i>f</i><td><i>Parhypate</i> »<td>næstdybeste,
+<td><i>e</i><td><i>Hypate</i> »<td>dybeste,
+<td><i>d</i><td><i>Lichanos hypaton</i><td>Pegefingertone,
+<td><i>c</i><td><i>Parhypate</i> »<td>næstdybeste,
+<td><i>H</i><td><i>Hypate</i> »<td>dybeste,
+<td><td><i>A</i><td><i>Proslambanomenos</i><td>tilføjede.
+</table>
+
+De her og i det flg. anførte Navne angiver
+kun den relative Tonehøjde, ikke den
+absolutte, hvilken var afhængig af vedk. »Toneart«
+(<i>Tonos</i>, se ndf.). Man antager, at Stemningen
+var omtr. en lille Terts, altsaa 1 1/2 Tone lavere
+end vor nuv., at saaledes <i>a</i> i Ovenstaaende
+Tabel omtr. vilde stemme med vort <i>fis</i>.
+
+Ved Siden af den gl-gr., »doriske« Tetrakord
+anvendtes andre, indførte Tetrakorder med
+ændret Sammensætning af Tonerne, nemlig den
+<sp>frygiske</sp> <i>g f^e d</i> med Halvtoneskridtet i
+Midten og den <sp>lydiske</sp> <i>f e d c</i> med
+Halvtoneskridtet i Højden. Forbindes to Tetrakorder,
+opstaar ny Skalaer (<sp>Oktavrækker</sp>), idet
+Halvtoneskridtet ligger paa forskellige Steder
+i Rækken. Af saadanne Oktavrækker
+(<i>Harmonial</i>) var de vigtigste flg. 4:
+<table>
+<td><img></img><td>Dorisk
+<td><img></img><td>Frygisk
+<td><img></img><td>Lydisk
+<td><img></img><td>Mixolydisk
+</table>
+
+Efter gr. Opfattelse ligger i disse Skalaer
+Kvinten i den øverste, Kvarten i den underste
+Halvdel. Flytter man Kvintafsnittet en Oktav
+ned ell. Kvartafsnittet en Oktav op, faar man
+4 ny Oktavrækker, dannede af de før nævnte
+og med samme Navn med Tilføjelse af
+Stavelsen »hypo« (under):
+
+<table>
+<td><img></img><td>Hypodorisk
+<td><img></img><td>Hypofrygisk
+<td><img></img><td>Hypolydisk
+<td><img></img><td>Hypomixolydisk
+</table>
+
+Den sidste, hypomixolydisk, er lig med den
+første (dorisk) i Omfang, men, som det vil ses,
+ikke i Inddeling.
+
+Moduleringen af Melodien havde sin
+særskilte Karakter for hver af disse Oktavrækker,
+der indbyrdes var lige saa forsk. som vore nuv.
+to Tonekøn, Dur og Moll. »Dorisk« gjaldt for
+alvorsfuld og mandig, »Frygisk« for bakkantisk
+og lidenskabelig, »Lydisk« for behagelig og
+indsmigrende, »Mixolydisk« for øm og klagende.
+
+Noget andet end disse Oktavrækker var de
+<sp>gr. Tonearter</sp> (<i>Tonoi</i>). I Lighed med vore
+Tonearter udgjorde disse gr. <i>Tonoi</i> forsk.
+Transpositionsskalaer af den samme Grundskala,
+nemlig hin A-moll-Skala, der dannedes af
+<i>Systema teleion</i>. Denne transponeredes paa alle
+diatoniske og kromatiske Tonetrin og gav

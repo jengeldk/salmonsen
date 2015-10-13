@@ -1,0 +1,125 @@
+Temperatur, forudsat at der i dem kun foregaar
+en simpel Opvarmning.
+
+<sp>Entropiflytning, den samlede
+Entropisum vokser</sp>. Betragter vi Proces (1)
+ved Carnot's Proces, forøges Entropien af
+Vandmassen i Cylinderen med <i>Q</i>/<i>T</i>. Samtidig har
+Kedlen, der jo ogsaa har Temperaturen <i>T</i>,
+mistet Entropimængden <i>Q</i>/<i>T</i>. Den samlede
+Entropisum er altsaa forblevet uforandret. Det
+samme gælder Kondensatorprocessen, hvor
+Cylinderen afgiver Entropimængden <i>Q</i>'/<i>T</i>″ til
+Kondensatoren. Da <i>Q</i>/<i>T</i> = <i>Q</i>'/<i>T</i>″, har Vandmassen i
+Cylinderen efter Processen samme Entropi som
+til at begynde med, og hele Ændringen bestaar
+blot i, at der er flyttet en Entropimængde
+<i>Q</i>/<i>T</i> = <i>Q</i>'/<i>T</i>″ fra Kedel til Kondensator. Lod vi
+Maskinen arbejde i modsat Retning som
+Kuldemaskine, vilde den flytte en tilsvarende
+Entropimængde fra Kondensator til Kedel. Den
+Carnot'ske Kredsproces bestaar altsaa i en
+Flytning af Entropi, hvorunder den samlede Sum
+af Entropi bevares uforandret. Dette vil i det
+hele taget være Tilfældet ved alle reversible
+Processer. Er Processen derimod irreversibel,
+vil Entropisummen altid vokse. Ved en
+almindelig irreversibel Varmeafgivelse vil V. (<i>Q</i>) gaa
+fra et Legeme med højere Temperatur <i>T</i>1 til
+et Legeme med lavere Temperatur <i>T</i>2 det
+første mister da <i>Q</i>/<i>T</i>1, det andet modtager <i>Q</i>/<i>T</i>2, som
+er større end <i>Q</i>/<i>T</i>1, paa Grund af, at Nævneren
+er mindre. Den samlede Entropisum er altsaa
+vokset. Ved Gnidning omsættes mekanisk
+Energi, som ikke har Entropi, til indre Energi, som
+har. Det er netop det ejendommelige ved
+Entropien, at den viser os, at Naturens Processer
+har et ensidigt Forløb, idet de foregaar
+saaledes, at den samlede Entropisum af alle
+Legemer aldrig aftager. Den kan forblive konstant,
+nemlig hvis Processerne foregaar reversibelt,
+men da strengt reversible Processer ikke
+eksisterer i Virkeligheden, betyder det, at den
+samlede Entropisum stadig vokser.
+
+<sp>Entropiens Forøgelse er
+Energiens Forringelse</sp>. <sp>Varmedøden</sp>.
+Vi vil nærmere undersøge, hvorledes Sætningen
+om Entropiens stadige Voksen karakteriserer
+Udviklingsretningen i Naturen. Vi vil betragte
+Entropiens Ændring i et vilkaarligt isoleret
+System (<i>A</i>) af Legemer, der har Energisummen
+<i>U</i> og Entropisummen <i>S</i>. Vi tænker os
+endvidere, at vi har et Hjælpesystem (<i>B</i>) bestaaende
+af en stor Varmebeholder med Temperaturen
+<i>T</i>0, en vis mekanisk Energikilde, i Figuren
+symboliseret ved et hævet Lod, samt en Cylinder
+med en ved et Stempel afspærret Luftmasse.
+Ved Hjælp af dette Hjælpesystem vil vi være
+i Stand til reversibelt at tilføre det egentlige
+System <i>A</i> baade mekanisk Arbejde og V., det
+sidste ved en Carnot'sk Kredsproces, hvori
+Varmebeholderen agerer Kedel. Vi vil først antage,
+at der i det isolerede System <i>A</i> er sket visse
+Ændringer, hvorved Entropien <i>S</i> er <sp>aftaget</sp>
+til den mindre Værdi <i>s</i>. Vi kan nu ved
+Hjælpesystemet <i>B</i> paa reversibel Maade faa <i>status
+quo ante</i> genoprettet. Vi maa da tilføre
+Systemet den positive Entropimængde <i>S-s</i>, som,
+da den tages fra Varmebeholderen ved
+Temperaturen <i>T</i>0, maa betyde, at denne afgiver en
+Varmemængde <i>Q</i>0, bestemt ved <i>S—s</i> = <i>Q</i>0/<i>T</i>0. Da
+Systemet <i>A</i> er bragt tilbage til sin oprindelige
+Tilstand, er dets Energi den samme som før,
+ifølge Energisætningen maa da ogsaa
+Hjælpesystemets Energisum være uforandret. Men
+Varmebeholderen har afgivet <i>Q</i>0, skal derfor
+Energien være den samme, kan det kun ske
+ved, at Loddet ved Arbejdet paa Genoprettelsen
+af System <i>A</i>'s oprindelige Tilstand har vundet
+en med <i>Q</i>0 ækvivalent potentiel Energimængde,
+saa at det altsaa er hævet højere op end før.
+Men dette vilde netop være et <i>perpetuum mobile</i>
+af 2. Art, som jo er umuligt. Altsaa kan
+Entropien i et isoleret System ikke aftage. Derimod
+kan den udmærket godt vokse, og vil vi i saa
+Fald atter føre Systemet tilbage til den
+oprindelige Tilstand ved Hjælpesystemets
+Medvirkning, da vil et med Ovenstaaende analogt
+Ræsonnement vise, at saa vil Loddet efter
+Processens Udførelse være sunket, den disponible
+mekaniske Energi altsaa formindsket.
+Sætningen om Entropiens Voksen betyder altsaa, at
+Forraadet af disponibel Energi i Naturen stadig
+aftager. Har Entropien til sidst naaet sit
+absolutte Maksimum, naar alle af sig selv
+forløbende kemiske Omsætninger har fundet Sted,
+og der overalt er samme Temperatur, saa vil
+der til Trods for det uforandrede
+Energiindhold dog ikke være nogen Mulighed for dets
+praktiske Udnyttelse, og det synes altsaa, som
+om Naturen stræber imod en vis Sluttilstand,
+som man har kaldt <sp>Varmedøden</sp>, hvor al
+Virksomhed vil være umuliggjort. En saadan
+sidste Konsekvens af Entropiloven er dog meget
+problematisk, særlig naar man tager den
+statistisk-mekaniske Tolkning af Entropibegrebet
+i Betragtning (se senere i Art.).
+
+<sp>Nernst's Varmeteorem</sp>. 1. og 2.
+Hovedsætning danner tilsammen den klassiske
+Termodynamik. En supplerende 3. Sætning danner
+det <sp>Nernst</sp>'ske Varmeteorem, opstillet af
+W. Nernst i 1906. Det kan formuleres paa
+forskellig Maade, vi følger her den
+<sp>Planck</sp>'ske Formulering, der hævder, at Entropien
+af ethvert kemisk homogent fast Legeme er
+Nul ved det absolutte Nulpunkt. Derved bliver
+Absolutværdien <i>S</i> af Entropien af 1 g af et fast
+Legeme ved Temperaturen <i>T</i> lig <i>T</i>∫<i>o</i> <i>c d T</i>/<i>T</i>, hvor
+<i>c</i> er Varmefylden. For at dette Udtryk skal
+være endeligt, maa Varmefylden <i>c</i> blive Nul
+ved det absolutte Nulpunkt, hvad man finder
+eksperimentelt bekræftet. Betydningen af
+Sætningen ligger særlig deri, at naar man kender
+Entropiens Absolutværdi for faste Stoffer, kan

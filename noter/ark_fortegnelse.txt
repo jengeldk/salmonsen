@@ -1,0 +1,7 @@
+bind I
+side 3 0011.txt Rentrykt 9/12 1914 1*
+side 17 0027.txt Salmonsens Konversationsleksikon. 2. Ug. Bind I. 2 Rentrykt 3/12 1914
+side 33 0045.txt Salmonsens Konversationsleksikon. 2. Ug. Bind I. 3 Rentrykt 23/6 1914
+side 49 0061.txt Salmonsens Konversationsleksikon. 2. Ug. Bind I. 4 Rentrykt 1/7 1914
+side 65 0079.txt Salmonsens Konversationsleksikon. 2. Ug. Bind I. 5 Rentrykt 23/6 1914
+side 81 0097.txt Salmonsens Konversationsleksikon. 2. Ug. Bind I. 6 Rentrykt 6/7 1914

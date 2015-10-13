@@ -1,0 +1,164 @@
+Tykkelse og altid bares under Eksercits. Denne
+F. er endnu ikke forsvundet fra den eng. Hær.
+— Paa Tysk bet. at fugtle ogsaa at fægte.
+<i>Bernh. O.</i>
+</chapter>
+
+<chapter name="Fugtighed">
+<b>Fugtighed</b>. Et fast Legeme siges at
+indeholde F., naar det i sine Porer indeholder
+flydende Dele af et andet Legeme (i Reglen Vand);
+paa tilsvarende Maade kaldes en Luftart for
+fugtig, naar den mellem sine Molekuler
+indeholder Dampe af et andet Stof (ligeledes i
+Reglen Vand). For at skelne mellem forsk.
+Grader af F. skelner man for de faste
+Legemers Vedk. mellem vaadt, lufttørt og tørt,
+hvorved forstaas, at Legemet p. Gr. a.
+Fordampningen henh. vil tabe i Vægt, bevare sin
+Vægt uforandret, ell. tiltage i Vægt ved at
+henligge i Luften.
+
+Luftens Indhold af Vanddamp angives i
+Meteorologien paa en af flg. Maader:
+
+1) <sp>Den absolutte F.</sp> Herved forstaas
+Vægten af Vanddamp i g pr m<sup>3</sup>. (I en Sky er
+Vægten af alt det tilstedeværende Vand altsaa
+større end den absolutte F.).
+
+2) <sp>Den specifikke F.</sp>, det er Vægten af
+Vanddamp i g pr kg fugtig Luft (benyttes ofte
+ved teoretiske Undersøgelser).
+
+3) <sp>Damptrykket</sp>. Damptrykket af den
+forhaandenværende Vanddamp angives som
+Regel, ligesom Lufttrykket i mm Kvægsølv, men
+i den nyere Tid dog ogsaa i Millibar.
+Damptrykket i mm betegnes som oftest ved <i>e</i> er
+Luften mættet med Vanddamp, betegnes
+Damptrykket som Regel med <i>E</i>.
+
+4) <sp>Den relative F.</sp> ell.
+<sp>Fugtighedsgraden</sp> betegner Forholdet mellem det
+tilstedeværende Damptryk (<i>e</i>) og Damptrykket <i>E</i>
+af mættet Vanddamp ved den forhaandenværende 
+Luft temperatur. Den relative F.
+angives som Regel i %.
+
+5) <sp>Den ækvivalente F.</sp>, d. v. s.
+Forholdet mellem det i Luften tilstedeværende
+Damptryk (<i>e</i>) og det Damptryk, der svarer
+til, at Dampen vilde være mættet ved et givet
+Legemes Overflade (altsaa ved dette Legemes
+Temp., Overfladeform og Beskaffenhed).
+
+6) <sp>Mætningsrest</sp> (tysk Sättigungsdefizit),
+d. e. Differencen mellem <i>E</i> og <i>e</i>, og
+Mætningsresten angiver altsaa, hvor stort et Damptryk
+der mangler i, at Luften er mættet med
+Vanddamp. Mætningsresten betragtes alm. som et
+Udtryk for den Hastighed, hvormed en
+Fordampning vil foregaa. Det skal dog bemærkes,
+at denne Hastighed rigtigere lod sig bestemme
+af Differencen mellem Damptrykket i
+Vandoverfladen og <i>e</i> (d. v. s. den ækvivalente
+Mætningsrest). Mellem nogle af disse Størrelser findes
+flg. Relationer:
+
+<tab><tab>                   Specifik F.                   E.
+Temp.    absol. F.            Lufttryk
+<tab> <tab> <tab>        760  <tab> 600  <tab> 400
+<tab><tab>     <sup>1</sup>)  <tab>  <sup>1</sup>)  <tab>  <sup>1</sup>)  <tab>  <sup>1</sup>)  <tab>  <sup>1</sup>)  <tab>  <sup>2</sup>)
+-25° C. <tab> 0.71 <tab> 0.41 <tab> 0.52 <tab> 0.78 <tab> 0.61 <tab> 0.48
+-10 -   <tab> 2.38 <tab> 1.64 <tab> 2.08 <tab> 3.11 <tab> 2.16 <tab> 1.97
+  0 -   <tab> 4.85 <tab> 3.77 <tab> 4.78 <tab> 7.19 <tab> 4.58 <tab> 4.58
+ 10 -   <tab> 9.39 <tab> 7.53 <tab> 9.53 <tab>14.35 <tab> 9.21
+ 20 -   <tab>17.33 <tab>14.35 <tab>18.64 <tab>27.48 <tab>17.54
+ 30 -   <tab>30.66 <tab>26.23 <tab>  -   <tab>  -   <tab>31.83
+
+1) mættet Damp over Vand.
+2)  -      -    -     Is.
+
+Det ses, at den absolutte F. og Damptrykket
+angives omtr. med samme Tal, og de to
+Angivelser benyttes da ogsaa meget ofte i Flæng.
+
+De mættede Dampes Tryk afhænger af en
+eventuelt tilstedeværende Vandoverflades Form
+(p. Gr. a. Overfladespændingen). Endvidere er
+de mættede Dampes Tryk lavere over Is end
+over Vand. Man vil derfor i Skyer af smaa
+Vanddraaber finde et abnormt højt Danmtryk
+(er Temp. 0° og Draabediameteren 5.10—5mm,
+vil den relative F. være 105 %) og i Skyer af
+Ispartikler vil man — navnlig ved meget lave
+Temp. — Finde et abnormt lavt Damptryk (er
+Temp. -50° C, vil den relative F. være 61 %).
+
+Da Vanddamp har en Vægtfylde paa c. 5/8
+af den atmosfæriske Luft, er fugtig Luft lettere
+end tør Luft. Vægtforskellen mellem en m<sup>3</sup> tør
+Luft og dampmættet Luft er ved 760 mm Tryk:
+<tab>ved <tab> 0 <tab> 10 <tab> 20° C.
+  <tab>  <tab> 3 <tab>  6 <tab> 11  g
+
+Selv en ringe Opvarmning af Luften gør
+altsaa denne lige saa let, som om Luften mættes
+med Vanddamp.
+
+I Naturen er den atmosfæriske Luft intet
+Sted absolut tør, men dens Indhold af F. er
+meget forsk. Den absolutte F. kan variere fra
+Brøkdele af 1 g til henved 50 g pr m<sup>3</sup> Luft,
+og den relative F. kan variere fra faa % til
+over 100 %.
+
+I det store og hele er Luftens Indhold af F.
+større i de Egne og paa de Aarstider, hvor
+Temp. er høj, end hvor Temp. er lav.
+Fordelingen over Jorden af Luftens F. er i store
+Træk udtrykt i flg. Tabel:
+
+Nordlige Halvkugle
+Bredde ... 70—60 40—30 10—Ækvator
+Temp.  ..  -7.0  15.3   25.5 °C.
+absolut F.  3.1   9.7   18.9  gr/m<sup>3</sup>
+relativ F. 82     70    79    %
+
+Svdlige Halvkugle
+
+Bredde...........  20 — 30  50 — 60
+Temp.............    19.7     2.1  °C.
+absolut F........    13.2     4.5  gr/m3
+relativ F........    77.     81    %
+
+Der er herefter Minima i den relative F. paa
+c. 30°, saavel nordlig som sydlig Bredde.
+
+F. aftager gennemsnitlig i Højden i et
+stærkere Forhold end Temp. Kaldes Dampspændingen 
+ved Jordoverfladen <i>l<sub>o</sub></i> og Dampspændingen
+i <i>h</i> m Højde over Jorden for <i>e<sub>h</sub></i> vil Formlerne
+
+<i>e<sub>h</sub></i> = 
+<i>l<sub>o</sub></i>*10-<i>h</i>/6300                                  
+og
+<i>e<sub>h</sub></i> = 
+<i>l<sub>o</sub></i>*10-<i>h</i>/5000
+
+tilnærmelsesvis gælde henh. for Luften i
+Bjergene og for den fri Atmosfære.
+
+Som Regel er der saavel en daglig som en
+aarlig Gang i Luftens F., men Gangen er forsk.
+i de forsk. Klimaer. Den absolutte F. har over
+Havene som Regel Maksimum og Minimum
+samtidigt med Temp.; over Kontinenterne
+fremkommer derimod ofte to Maksima, nemlig
+Morgen og Aften, medens Hovedminimum
+indtræffer paa den varmeste Tid af Døgnet, idet
+Vertikalbevægelserne i Atmosfæren da bringer
+meget forholdsvis tør Luft ned til Jorden. Den
+relative F. er som Regel mindst paa den
+varmeste Tid af Dagen.

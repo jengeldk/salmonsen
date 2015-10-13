@@ -1,0 +1,141 @@
+de være uden Skærm, men aftager meget
+hurtigt og uden Striber, naar vi fjerner os fra
+Randen. I større Afstand, hvor Belysningen altsaa
+praktisk talt er Nul, kan den vises at være
+proportional med Bølgebredden.
+
+Endnu mærkeligere Bøjningsfænomener
+fremkommer ved Skyggegivere ell. Huller af ringe
+Udstrækning. I Fig. 2 er saaledes gengivet
+Skyggen af en 1 mm tyk Traad, Afstandene fra
+Traaden til Lysgiveren og Skyggen er som ovf. Man
+lægger her særlig Mærke til de kraftige lyse
+Striber inden for den geom. Skygge.
+
+Bøjningsfænomener er første Gang iagttaget
+af <sp>Grimaldi</sp> i Midten af det syttende Aarh.,
+men en tilfredsstillende Forklaring er først givet
+af <sp>Fresnel</sp> paa Grundlag af Lysets
+Bølgeteori særlig i en omfangsrig Prisafh. indleveret
+til det fr. Akademi 1818. Fresnel gik ud fra
+Huygens' Princip (se <sp>Bølgebevægelse</sp>),
+hvorefter hvert Punkt i en Bølge kan betragtes
+som Udgangspunkt for ny Bølger; naar derfor
+en Bølge under sin Fremskriden træffer en
+Skærm, der delvis hindrer dens Udbredelse, vil
+de Dele af Bølgen, som skrider videre, sende
+ny Bølger ud ogsaa ind i Rummet bag
+Hindringen. Det Huygens'ske Princip forbandt Fresnel
+nu med den Antagelse, at de fra de forsk.
+Steder kommende Bølger vilde interferere (se
+<sp>Interferens</sp>) med hverandre, og derved paa
+nogle Steder ophæve hverandre, give Mørke,
+paa andre forstærke hverandre, give Lys.
+Fresnel viste, hvorledes dette kunde gøres til
+Genstand for Beregning, og gennemførte
+Beregningen for fl. Tilfælde, hvorved det viste sig, at
+Teori og Iagttagelse stemmede fuldstændig
+overens. Efter denne Betragtningsmaade blev ogsaa
+Skærmens materielle Natur uden væsentlig
+Indflydelse, hvad den i Virkeligheden er, medens
+man efter Emissionsteoriens Forklaring,
+hvorefter Bøjningen skulde fremkomme ved
+Skærmrandens Tiltrækning og Frastødning paa de
+forbifarende Lysdele, skulde vente, at den havde
+en betydelig Indflydelse. Fresnel's Undersøgelse
+blev derfor en Sejr for Bølgeteorien, der endda
+kom til at fejre en uventet Triumf.
+Matematikeren Poisson, der skulde afgive Betænkning over
+Afh., opdagede nemlig, at Fresnel's Teori førte
+til den Konsekvens, at der i Centrum af en
+cirkulær Skives Skygge altid skulde være en lys
+Plet, hvad der jo syntes ret absurd; men
+Fresnel og Arago gjorde Forsøget, som fuldstændigt
+bekræftede Fresnel's Opfattelse. I Fig. 3 er en
+saadan Skygge gengivet. For at Forsøget skal
+lykkes, maa Skærmen være nøjagtigt cirkulær.
+
+Saa grundlæggende Fresnel's
+Beregningsmaade end er, vil vi dog ikke her gaa nærmere ind
+paa den, da de af ham betragtede Tilfælde:
+Bøjningsfænomener med Lyskilde og Skærm i
+endelig Afstand (<sp>Fresnel'ske
+Bøjningsfænomener</sp>), hvorpaa Fig. 1—3 har givet Eksempler,
+har haft mindre Anvendelse end de af
+<sp>Fraunhofer</sp> fire Aar senere undersøgte, hvor
+Bøjningsfænomenerne iagttages i Brændplanen af
+en Linse, der er stillet umiddelbart bag den
+bøjende Aabning, medens Lyskilden er
+uendelig langt borte — optisk talt —, hvad der kan
+opnaas ved at anbringe en Linse foran den
+med sin Brændplan gaaende gennem Hullet ell.
+Spalten, hvorfra Lyset udgaar
+(<sp>Fraunhoferske Bøjningsfænomener</sp>). Bøjningsbilledet
+i Brændplanen vil være en formindsket
+Gengivelse af det, der ved Linsens Fjernelse vilde
+fremkomme paa en uendelig fjern Skærm. Dette,
+at baade Lysgiver og Billede kan betragtes som
+uendelig fjerne, gør den teoretiske Behandling
+af disse Fænomener meget simplere. Vi vil
+begynde med at betragte en enkelt snæver Spalte
+<i>a b</i>, der træffes vinkelret af Straaler fra et
+uendelig fjernt ensfarvet Lyspunkt. Den punkterede
+Linie <i>a b</i> forestiller da en Bølgeflade, idet
+Svingningerne er ens for alle Punkter, da de har
+samme Afstand fra Lyspunktet. Hvert af <i>a b</i>'s
+Punkter betragtes som Udgangspunkt for en ny
+Bølgebevægelse. De Smaabølger, som gaar videre
+i den opr. Retning, vil af Linsen forenes i
+Brændpunktet <i>B</i>, hvor de vil danne et Billede
+af det lysende Punkt. Skønt de forsk. Bølger
+tilbagelægger ulige lange Veje, før de naar
+dertil, vil de dog komme der samtidigt. Jo længere
+Vej Bølgerne nemlig har at gaa, des kortere
+bliver til Gengæld det Stykke af Vejen, de gaar
+i Linsen, hvor
+deres Hastighed er
+mindre (se
+<sp>Brydning</sp>) end i Luft,
+og Linsen afpasser
+Forsinkelsen netop
+saaledes, at de alle
+samtidig naar
+Billedpunktet. Det maa
+fremhæves, at dette
+ikke er noget
+specielt for
+Brændpunktet, men at det
+gælder ganske alm.,
+at Lysbølgernes forsk. Veje fra det lysende Punkt
+til dets Billede alle er lige hurtige. Netop derved
+er bølgeteoretisk set Billedpunktet bestemt; thi
+kun da vil de krydsende Smaabølger alle være
+i samme Fase, hvad der er Betingelsen for at
+opnaa det stærkest mulige Lys. I <i>B</i> vil
+Smaabølgernes Fase derfor være den samme som i
+<i>a b</i>, altsaa ens for dem alle, og derfor give Lys.
+I et vilkaarligt andet Punkt, <i>B'</i>, i Brændplanen
+vil ifølge det ovf. sagte de Smaabølger, der gaar
+i Retning <i>a c</i>, for hvilken <i>B'</i> er Billedpunkt,
+krydse hverandre med samme Faseforskel, som
+de har i den paa <i>a c</i> vinkelrette Plan <i>c b</i>. Den
+største Faseforskel i denne er den, der svarer
+til Vejen <i>a c</i>. Er den netop en hel Bølgebredde
+λ, vil man kunne tænke sig Planen <i>c b</i> delt i to
+Halvdele, hvor den ene Halvdels Smaabølger er
+nøjagtigt en halv Bølgebredde efter den andens,
+altsaa i modsat Svingningstilstand, hvorfor de
+vil ophæve hverandre, give Mørke, i
+Foreningspunktet. Ved samme Ræsonnement indses det,
+at der maa komme Mørke i Retninger svarende
+til, at <i>a c</i> er et vilkaarligt helt Antal (n)
+Bølgebredder. Er Spaltens Bredde <i>s</i>, vil disse
+Retninger med den opr. Straaleretning danne
+Vinklerne Θ, bestemt ved <i>s.sin</i> (Θ) = <i>n</i>·λ. I de
+mellemliggende Retninger vil der komme noget Lys om
+end mindre end i den centrale Plet <i>B</i>, og desto
+mindre, jo større Bøjningsvinklen bliver. Vi faar
+altsaa en lys Plet i <i>B</i> og til begge Sider svagere
+lyse Pletter med mørke Mellemrum. Havde vi
+
+<img>Fig. 3.</img>

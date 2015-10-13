@@ -1,0 +1,93 @@
+korteste Vej mellem de to Elektroder) af det
+vinkelret paa Buen gaaende Magnetfelt (ikke
+vist paa Fig.) blive tvunget opad; i den næste
+halve Pericde tvinges den nedefter, men det
+hele foregaar saa hurtigt, at Øjet faar
+Indtrykket af en lysende cirkulær Skive, medens der
+altsaa i Virkeligheden kun eksisterer en halv
+Skive ad Gangen. Denne skiveformede Lysbue
+indesluttes imellem to isolerende Vægge af
+Murværk (<i>a</i> og <i>b</i> i Fig. 15), hvorimellem den Luft,
+der skal omdannes, ledes. Tilledningen sker ved
+Røret <i>m</i>, Bortledningen ved <i>n</i>; <i>f</i> og <i>g</i> er de to
+Elektroder, <i>l</i> og <i>k</i> er Polerne for
+Magneten, hvis Beviklinger er
+Spolerne <i>i</i> og <i>h</i>. Det er af Bet.
+for Processen, at den bortledede
+Luft afkøles saa hurtig som
+muligt, hvorfor man i Forbindelse
+med Ovnen benytter et
+Regenerationssystem, hvorved den
+allerede behandlede Luft afgiver en
+Del af sin Varme til den Luft,
+der skal behandles; herved
+formindskes naturligvis ogsaa
+Energiforbruget til Opvarmning af
+Luften. Fig. 16 viser en af de
+store Ovne i Notodden. De
+største hidtil fremstillede Ovne er
+paa 2000 KW, 5000 Volt. Det
+angives, at man ved denne
+Ovnkonstruktion kan præstere 110 g
+Salpetersyre pr KWT.
+
+En anden Ovn til Fremstilling
+af Kvælstofilte er angivet af
+Schönherr (Fig. 17). Ovnen
+bestaar hovedsagelig kun af et
+langt, forholdsvis snævert Jernrør,
+inden i hvis Midte der brænder
+en indtil 8 m lang Lysbue.
+Luften blæses ind forneden gennem
+tangentielt borede Huller og gaar
+derfor i skrueformet Bevægelse
+opefter. Luften vil paa en Maade
+centrifugeres, den kolde Luft
+stiller sig yderst ved Rørets Vægge,
+den varme Luft kommer inde ved Buen. Der
+dannes endvidere ved denne Centrifugering en ringe
+Luftfortynding inde i Midten af Røret; her vil
+Buen helst holde sig, og man maa heri søge
+Forklaringen paa, at det virkelig er muligt at
+holde en saa lang Lysbue brændende inden i et
+Jernrør, hvis indvendige Diameter kun er c. 20
+cm. Man skulde vente, at Buen vilde søge over
+til Jernrøret i Nærheden af Polerne. Schönherr's
+Ovn skal kunne præstere 140 gr Salpetersyre pr
+Kilowatttime, altsaa være noget mere økonomisk
+end Birkeland-Eyde's.
+<i>R. J. J.</i></chapter>
+
+<img>
+Fig. 16. Birkeland-Eyde Ovn.
+</img>
+<img>
+Fig. 17. Schönherrs Ovn.
+</img>
+
+<chapter name="elektriske Penduler">
+<b>elektriske Penduler,</b> Hyldemarvskugler,
+ophængte i Silketraade ell. i fine Metaltraade.
+Egner sig godt til Paavisning af elektriske
+Tiltrækninger, i første Tilfælde ogsaa af
+Frastødningerne.
+<i>K. S. K.</i></chapter>
+
+<chapter name="elektriske Ringeapparater">
+<b>elektriske Ringeapparater,</b> se
+<sp>Ringeapparater</sp>.</chapter>
+
+<chapter name="elektriske Sikringer">
+<b>elektriske Sikringer</b> anbringes i elektriske
+Ledninger for at gøre disse strømløse, naar
+Strømmen af en ell. anden Grund, f. Eks.
+Kortslutning, bliver saa stærk, at det kan befrygtes,
+at Isolationslaget vil blive beskadiget, ell. at
+Ledningen vil blive saa varm, at der kan opstaa
+Brandfare. Sikringerne tjener saaledes dels til
+at beskytte selve Ledningerne og dels til at
+beskytte Genstande i Ledningernes Nærhed. I
+Reglen benyttes saakaldte
+»<sp>Smeltesikringer</sp>«, der bestaar af Traade og Baand, som
+Regel af Sølv, der indskydes i Ledningerne, og
+hvis Tværsnit er saaledes afpasset, at de

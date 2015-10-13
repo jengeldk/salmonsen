@@ -1,0 +1,126 @@
+Omløbstal. Antagelsen fører til Udtrykket
+<i>K</i> = 2π<sup>2</sup> <i>m</i> <i>e</i><sup>4</sup> / <i>h</i><sup>3</sup>, hvor <i>m</i> betyder Elektronens
+Masse, <i>e</i> dens Ladning og <i>h</i> Planck's Konstant, og
+indsættes Talværdierne for disse Størrelser, faas
+en Talværdi for <i>K</i>, som stemmer med den af
+Spektret fundne Værdi saa godt, som man
+kunde vente, naar den Nøjagtighed, hvormed de
+indsatte Størrelser er bestemt, tages i
+Betragtning.
+
+Foruden Linier, som indeholdes i Formlen <i>v</i> =
+<i>K</i> (1/n<sub>2</sub><sup>2</sup>—1/n<sub>1</sub><sup>2</sup>), tilskrev man Brinten andre
+Linieserier, som var fundet af <sp>Pickering</sp> og
+<sp>Fowler</sp>. Bohr viste, at disse ikke er
+Brintlinier, men maa tilskrives Helium, som ved
+Ionisation har mistet den ene af disse to
+Elektroner. Et ioniseret Heliumatom, d. v. s. en
+Heliumkerne, hvorom der kredser en enkelt
+Elektron, ligner ganske et Brintatom; den
+eneste Forskel er, at Heliumkernens Masse er 4
+Gange saa stor og dens positive Ladning
+dobbelt saa stor som Brintkernens. Dette sidste
+medfører, at Energiværdierne i de stationære
+Tilstande bliver 4 Gange saa stor som de
+tilsvarende Energiværdier for Brint. Det
+Spektrum, som et ioniseret Heliumatom
+udsender kan følgelig fremstilles ved Formlen <i>v</i> =
+4<i>K</i> (1/n<sub>2</sub><sup>2</sup>—1/n<sub>1</sub><sup>2</sup>), der netop indeholder de af
+Pickering og Fowler fundne Linier. At denne
+Tydning af disse Linier var rigtig, førte Bohr et
+meget slaaende Bevis for. En nøje Udmaaling
+af Spektrene viste, at Faktoren i Formlen ikke
+var nøjagtig 4, men 4,0016; Bohr viste, at denne
+Uoverensstemmelse hidrørte fra, at Kernernes
+Masse var regnet at være uendelig stor i
+Sammenligning med Elektronmassen. Regner man
+med de rigtige Værdier for Brint- og
+Heliumkernens Masse, finder man Faktoren 4,00163,
+der nøje stemmer med den eksperimentelt
+fundne. Senere har ogsaa direkte Forsøg vist, at
+Linierne er Heliumlinier; de udgør, hvad man
+kalder Helium's <sp>Gnistspektrum</sp>.
+
+<sp>Brintliniernes Finstruktur</sp>. Den
+Simpelhed, som udmærker den omtalte Teori
+for Brintspektret, har navnlig sin Grund deri,
+at Elektronens Bevægelse antoges at være
+periodisk. <sp>A. Sommerfeld</sp> viste imidlertid
+1915, ved i
+Beregningen af
+Brintelektronens Bevægelse
+at tage Hensyn til
+de Ændringer, som
+en Elektrons Masse
+iflg.
+Relativitetsteorien undergaar,
+naar dens
+Hastighed forandres, at
+Bevægelsen i
+Virkeligheden ikke er
+fuldkommen periodisk, men en Centralbevægelse
+som antydet i Fig. 2. Elektronen bevæger sig
+meget nær i en Ellipse; men Baneellipsens Storakse
+ligger ikke ganske fast i Rummet, men drejer
+sig med konstant Omdrejningshastighed i
+Ellipsens Plan. I Figuren er denne Drejning
+overdrevet uhyre stærkt. Den Betingelse, som
+Elektronbevægelsen efter den simple Teori for
+Brintatomet skal opfylde for at være stationær,
+kan f. Eks. udtrykkes derved, at Størrelsen
+<i>I</i> = 2 ∫σ ο <i>T</i> <i>dt</i>, hvor <i>T</i> betegner den Værdi, som
+Elektronens kinetiske Energi har, i det
+uendelig lille Tidsrum <i>dt</i>, og hvor Integrationen er
+udstrakt over den Tid σ, som Elektronen
+bruger om et Omløb, skal være lig et
+vilkaarligt helt Tal <i>n</i> Gange Planck's Konstant; <i>n</i> er
+Tilstandens Kvantetal. (M. H. t. Bet. af det her
+benyttede matematiske Symbol, se
+<sp>Integralregning</sp>). Sommerfeld viste, at de stationære
+Tilstande, naar Elektronen udfører en
+Centralbevægelse, er karakteriseret ikke ved en
+enkelt, men ved to Betingelser. Elektronens
+kinetiske Energi kan deles i to Led <i>T</i><sub>1</sub> og <i>T</i><sub>2</sub>,
+hvoraf <i>T</i><sub>1</sub> kun afhænger af den Hastighed,
+hvormed Elektronens Afstand <i>r</i> fra Kernen
+varierer med Tiden, medens <i>T</i><sub>2</sub> kun afhænger
+af den Hastighed, hvormed Vinklen φ, som
+Forbindelseslinien mellem Kerne og Elektron
+danner med en fast ret Linie i Baneplanen,
+varierer. Sommerfeld antog, at de
+stationære Tilstande er bestemt ved Betingelserne
+<i>I</i><sub>1</sub> = 2∫ <i>T</i><sub>1</sub> <i>dt</i>=<i>n</i><sub>1</sub> <i>h</i> og <i>I</i><sub>2</sub> = 2∫ <i>T</i><sub>2</sub> <i>dt</i>=<i>kh</i>, hvor
+første Integral skal beregnes for det Tidsrum,
+som forløber mellem to paa hinanden flg.
+Tidspunkter, i hvilke Afstanden <i>r</i> har sin største
+(ell. mindste) Værdi, medens det andet Integral
+skal udstrækkes over den, som Vinklen φ
+bruger om at gennemløbe alle Værdier mellem
+0 og 360° · <i>n</i><sub>1</sub> og <i>k</i> er vilkaarlige hele Tal, og
+<i>h</i> Planck's Konstant. Energien i de saaledes
+bestemte stationære Tilstande, og ligeledes
+Storaksen i den roterende Baneellipse, vil i
+første Tilnærmelse være bestemt alene ved
+<i>I</i>=<i>I</i><sub>1</sub> <i>I</i><sub>2</sub>, altsaa ved Tallet <i>n</i> = <i>n</i><sub>1</sub> + <i>k</i>, der
+kaldes Hovedkvantetallet. Størrelsen <i>I</i><sub>2</sub> er lig
+Elektronens Bevægelsesmængdemoment om
+Kernen multipliceret med 2π; den anden
+Kvantebetingelse udsiger altsaa, at
+Bevægelsesmængdemomentet i de stationære Tilstande er et
+helt Mangefold af <i>h</i>/2π.
+Bevægelsesmængdemomentet bestemmer, naar Storaksen er givet,
+Ekscentriciteten ε af den roterende
+Baneellipse. Manglen paa Periodicitet i Elektronens
+Bevægelse medfører følgelig, at Ekscentriciteten
+af Baneellipsen ikke er vilkaarlig, men kun kan
+have ganske bestemte Værdier. For
+Hovedkvantetallet <i>n</i>=1 maa man ogsaa have <i>k</i>=1,
+idet <i>k</i>=0 vil give en Bevægelse, som bringer
+Elektron og Kerne til at støde sammen og
+derfor ikke kan være en stationær Bevægelse;
+hertil svarer ε=0, d. v. s. en cirkulær
+Bane. Dette er den normale, mest stabile,
+stationære Tilstand af Brintatomet. Er <i>n</i>=2, kan
+man enten have <i>k</i>=1 ell. <i>k</i>=2; til den første
+
+<img>Fig. 2.</img>

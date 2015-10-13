@@ -1,0 +1,85 @@
+leveret af Strømkilden, den eneste
+tilstedeværende Energikilde. Men det er ogsaa let at se,
+at <i>B</i> maa levere Energi for at faa Strømmen
+til at vokse op. Der opstaar jo nemlig i Spolen,
+som vi har set, en elektromotorisk Kraft <i>L</i> · <i>di</i>/<i>dt</i>
+rettet mod <i>B</i>'s Spænding. At drive en
+elektrisk Strøm i op mod en elektromotorisk Kraft
+<i>L</i> · <i>di</i>/<i>dt</i> i Tiden <i>dt</i> koster et Arbejde, der er
+<i>i</i> · <i>L</i> · <i>di</i>/<i>dt</i> · dt.
+
+Under Strømmens Opvoksen ændres saavel <i>i</i>
+som <i>di</i>/<i>dt</i>. Vil man have det hele Arbejde, som <i>B</i>
+afgiver, maa man dele Tiden i smaa Dele <i>dt</i>,
+danne det anførte Produkt for hver af disse
+Dele og lægge det hele sammen. Gøres det,
+finder man, at Arbejdet bliver
+16° <i>W</i> = 1/2 <i>L</i> <i>i</i><i><sub>m</sub></i><sup>2</sup>,
+naar <i>i<sub>m</sub></i>, som antydet, er den Værdi, som den
+elektriske Strøm ender med at have. Dette er
+altsaa Udtrykket for den i
+Induktionsliniestrømmen opmagasinerede Energi. Denne
+Energi betegnes ogsaa som den
+strømførende Leders <sp>elektrokinetiske
+Energi</sp>. Vil man have at vide, hvorledes
+Strømmen vokser op til sin endelige Værdi <i>i<sub>m</sub></i>,
+maa man gøre sig klart, at Strømmen i ethvert
+Øjeblik under den elektriske Strøms Opvoksen
+skyldes Differencen mellem de to
+elektromotoriske Kræfter e<sub>0</sub> og <i>L</i> <i>di</i>/<i>dt</i>, hvor <i>e</i><sub>0</sub> er <i>B</i>'s
+Spænding. Ohm's Lov siger da, at Strømmen
+i et vilkaarligt valgt Øjeblik er givet ved
+Ligningen
+17° <i>e</i><sub>0</sub> - <i>L</i> · <i>di</i>/<i>dt</i> = <i>ir</i>,
+naar <i>r</i> betegner Strømkredsens samlede
+Modstand. Ligningen 17° er en saakaldt
+Differentialligning. At løse den bet. at finde et Udtryk
+for Strømmen <i>i</i>'s Variation med Tiden <i>t</i>, der
+tilfredsstiller 17°. Gengiver man Udtrykket ved
+en Kurve, finder man, at denne har en Form
+som vist i Fig. 11. Strømmen vokser lige efter
+Strømslutningen forholdsvis hurtigt i Vejret,
+derefter langsommere og langsommere, til den
+endelige Værdi <i>i<sp>m</sp></i> er naaet. Jo mindre
+Selvinduktion en Leder har, og jo højere
+Spændingen <i>e</i><sub>0</sub> er, desto hurtigere naas praktisk set
+den endelige Værdi. Har en Spole en
+Selvinduktion paa 1 Henry og en Modstand paa 1
+Ohm, vil der medgaa c. 4,6 Sek., inden
+Strømmen er vokset op til 99/100 af den endelige Værdi.
+Er Modstanden kun 1/10 Ohm, tager det 10
+Gange saa lang Tid, altsaa 46 Sek. Enhver
+Strømkreds har Selvinduktion, men hvis Kredsen ikke
+indeholder Spoler, vil Selvinduktionen i Alm.
+være meget lille. Det forklarer, at man i Alm.
+ikke bemærker den gradvise Opvoksen af
+Strømmen. Spoler med større ell. mindre
+Selvinduktion, saakaldte Dæmperspoler, spiller en
+stor Rolle i Elektrotekniken. De virker som
+Regulatorer til Udjævning af
+Uregelmæssigheder i den elektriske Strøm i en Kreds,
+ligesom Svinghjulet virker til at udjævne
+Uregelmæssighederne i en Maskines
+Omdrejningshastighed. Denne Virkning af Spolen forstaas
+umiddelbart, naar det erindres, at enhver
+Formindskelse af Strømmen gennem Spolen
+frembringer en elektromotrisk Kraft, der søger at
+holde Strømmen oppe, og enhver Forøgelse en
+elektromotorisk Kraft, der søger at trykke
+Strømmen ned. De tekn. Dæmperspoler er
+undertiden jernfri. Hyppigst vikler man dem dog
+paa en særlig bygget Jernkerne, for derved at
+opnaa en større Selvinduktion, end man ved
+samme Dimensioner og Modstand vilde faa
+uden Jern.
+
+<sp>Gensidig I</sp>. I Fig. 12 er vist en lukket
+Leder <i>A2</i> anbragt i den magnetiske Strøm,
+hidrørende fra en anden strømførende Leder
+<i>A1</i>. Ændrer man den elektriske Strøm i <i>A1</i>,
+
+<img>Fig. 10.</img>
+
+<img>Fig. 11.</img>
+
+<img>Fig. 12.</img>

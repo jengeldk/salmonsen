@@ -1,0 +1,148 @@
+at M. først angribes af Syrer ved Opvarmning.
+Farven er hvid, brunlig ell. graa. M.
+forekommer hyppig sammen med Serpentin (saaledes
+ved Snarum i Norge); den kan ogsaa træffes i
+Talkskifer og Lerskifer. Den benyttes jævnlig
+til Fremstilling af ren Kulsyre til Brug i
+Mineralvandsfabrikker og endvidere til Fremstilling
+af Magnesiacement og ildfaste Varer. Det
+meste M. kommer fra Østerrig og Grækenland.
+<i>(N. V. U.). O. B. B.</i>
+</chapter>
+
+<chapter name="Magnesitgulve">
+<b>Magnesitgulve,</b> se <sp>Linotol</sp>.
+</chapter>
+
+<chapter name="Magnesium">
+<b>Magnesium,</b> d. s. s. <sp>Magnium</sp> (s. d.). Om
+<sp>M.-Forbindelser</sp>, se de tilsvarende
+<sp>Magniumforbindelser</sp>.
+</chapter>
+
+<chapter name="Magnet">
+<b>Magnet,</b> se <sp>Magnetisme</sp>.
+</chapter>
+
+<chapter name="Magnetiseringskurve">
+<b>Magnetiseringskurve,</b> se <sp>Magnetisme</sp>.
+</chapter>
+
+<chapter name="magnetisk Deklination, Induktion, Inklination, Intensitet, Kraftlinie, Magasin, Meridian, Moment, Ækvator">
+<b>magnetisk Deklination, Induktion,
+Inklination, Intensitet, Kraftlinie, Magasin,
+Meridian, Moment, Ækvator,</b> se
+<sp>Magnetisme</sp>.
+</chapter>
+
+<chapter name="magnetisk Detektor">
+<b>magnetisk Detektor</b> benyttedes tidligere
+en Del i Radiotelegrafien; dens Virkning beror
+paa Jernets magnetiske Hysterese, og dens
+Princip er angivet af <sp>E. Rutherford</sp>. Den
+praktiske Udformning skyldes navnlig
+<sp>Marconi</sp>.
+<i>P. O. P.</i>
+</chapter>
+
+<chapter name="magnetisk Kur">
+<b>magnetisk Kur,</b> se <sp>dyrisk
+Magnetisme</sp>.
+</chapter>
+
+<chapter name="Magnetisme">
+<b>Magnetisme.</b> Visse naturligt forekommende
+jernholdige Krystaller, »Magnetsten«, navnlig
+Magnetit (se <sp>Jernmalme</sp>) har den
+Egenskab at kunne tiltrække lette Jern- og
+Staalstykker; man siger, at de er magnetiske, men
+saadanne »naturlige Magneter« har for øvrigt
+nu ingen Interesse: deres Form er for
+uregelmæssig og deres Virkning for svag til, at de
+kan anvendes til videnskabelige Undersøgelser
+ell. praktiske Formaal. Man anvender nu
+»kunstige Magneter«, der kan fremstilles paa
+forskellig Maade og let gives en til Anvendelsen
+passende Form og Styrke.
+
+<sp>M.-mængde</sp>. <sp>Coulomb's Lov</sp>. Hænges
+en stangformet Staalmagnet op i en Traad,
+saa den frit kan dreje sig i en vandret Plan,
+vil den indstille sig omtrentlig i Retning
+N.—S. Den Ende, der peger mod N., kaldes
+Nordenden ell. Nordpolen, den anden Sydenden
+ell. Sydpolen. Ved at nærme en anden Magnet
+til den bevægelige, finder man, at to Nordpoler
+frastøder hinanden, to Sydpoler ligeledes,
+medens en Nordpol og en Sydpol tiltrækker
+hinanden. Kraften bestemmes ved <sp>Coulomb's
+Lov</sp>: den er ligefrem proportional med
+Produktet af Magnetismemængderne i de to Poler
+og omvendt proportional med Afstandens
+Kvadrat, <i>K</i> = <i>m</i><sub>1</sub> · <i>m</i><sub>2</sub> / <i>r</i><sup>2</sup>. Kraften virker i Retning
+af Forbindelseslinien mellem de to Poler; den
+er en Frastødning, hvis <i>m</i><sub>1</sub> og <i>m</i><sub>2</sub> har samme
+Fortegn, ellers en Tiltrækning; man regner
+sædvanlig M. i Magnetens Nordende for
+positiv, den i Sydenden for negativ. Coulomb
+fandt (1784) Loven ved Snovægtsforsøg,
+udførte efter lgn. Princip som de Forsøg, der
+førte ham til at opstille den tilsvarende Lov
+for Kraften mellem elektriske Ladninger (jfr
+<sp>Elektrostatik</sp> og <sp>Snovægt</sp>). Coulomb's
+Lov gælder eksakt kun for punktformig
+Ladning, der befinder sig i lufttomt Rum. I en
+Magnet vil M. imidlertid ikke være samlet i
+to diskrete Punkter, men findes dels paa
+Yderfladen af de to Ender og dels fordelt i
+Magnetens Indre som fri, rumlig M. Ved Magnetens
+Poler forstaar man da de Punkter i Magneten,
+hvor al denne fri M. kan tænkes samlet,
+Nord-M. for sig og Syd-M. for sig, saaledes at
+Virkningen udadtil bliver uforandret. Polerne vil
+i en Stangmagnet ligge et Stykke inden for
+Endefladerne. En Linie gennem de saaledes
+definerede Poler kaldes Magnetens
+<sp>magnetiske Akse</sp>, og Produktet af M.-Mængden <i>m</i>
+i en af Polerne og Polernes Afstand <i>l</i> kaldes
+dens <sp>magnetiske Moment</sp>: <i>M</i> = <i>m</i> · <i>l</i>.
+— Coulomb's Lov tjener til Definition af
+<sp>Enheden for M.-Mængde</sp> i absolut Maal,
+idet en M.-Mængde har Størrelsen 1 abs.
+magnetisk Enhed, hvis den frastøder en lige saa
+stor M.-Mængde i Afstanden 1 cm med en Kraft
+paa 1 Dyn.
+
+<sp>Magnetisk Felt</sp>. Overalt i Rummet uden
+om en Magnet vil der virke magnetiske
+Kræfter, d. v. s. Rummet er et magnetisk Felt. Ved
+Kraftretningen i et Punkt af Feltet forstaas den
+Retning, hvori en Nordpol vil paavirkes af
+Magneten, og den bestemmes som Resultant af
+de fra Magnetens to Poler hidrørende Kræfter.
+Kraftens Størrelse bestemmes ved Coulomb's
+Lov. Ved <sp>Feltstyrken</sp> <i>H</i> i et Punkt i
+Feltet forstaas den mekaniske Kraft, maalt i
+Dyn, der vilde virke paa en M.-Mængde <i>1</i> abs.
+Enhed anbragt i det paagældende Punkt;
+Enheden for Feltstyrke kaldes <sp>Gauss</sp>. En
+<sp>Kraftlinie</sp> er en Kurve i Feltet, saaledes
+beliggende, at Kraftretningen altid er Tangent
+til Kurven; en fritbevægelig Nordpol (en
+saadan kendes dog ikke; se ndf.) vil altsaa under
+Magnetens Paavirkning følge en Kraftlinie fra
+Magnetens Nordpol ud i Feltet og hen til
+Magnetens Sydpol. Et smukt Billede af
+Kraftlinieforløbet i Feltet om en Magnet faas ved at
+lægge et Stykke hvidt Papir over Magneten,
+drysse Jernfilspaaner derpaa og banke let
+paa Papiret; Spaanerne vil af Feltet
+magnetiseres med en Nordpol i den ene Ende og en
+Sydpol i den anden, og ved Bankningen vil de
+ordne sig i Rækker efter Kraftlinierne. Fig. 1
+viser et saadant Kraftliniebillede om en
+Stangmagnet; de indtegnede Pile angiver
+Kraftretningen. Det ses, at langt den overvejende
+Del af Kraftlinierne udgaar fra og ender i
+
+<img>Fig. 1. Kraftlinier omkring en Stangmagnet.</img>

@@ -1,0 +1,52 @@
+<h1>BIND XIII.</h1>
+Side 918, Spalte 1, Linie 11 f. n. <i>Naulakka</i> læs: <i>Naulahka</i>
+
+<h1>BIND XIV.</h1>
+<table>
+<td c>Side<td>131,<td c>Spalte<td>1,<td c>Linie<td>18 f. n.<td>Fig. 2 læs: Fig. 3
+<td c>—<td>131,<td c>—<td>1,<td c>—<td>17 f. n.<td>Fig. 3 læs: Fig. 2
+<td c>—<td>254,<td c>—<td>2,<td c>—<td>17 f. n.<td>2. Septbr læs: 24. Aug.
+<td c>—<td>476,<td c>—<td>1,<td c>—<td>22 f. n.<td>kontrære læs: kontradiktoriske
+<td c>—<td>668,<td c>—<td>2,<td c>—<td>21 f. o.<td>Arnold læs: Arnoldt
+</table>
+
+<h1>BIND XV.</h1>
+<table>
+<td c>Side<td>354,<td c>Spalte<td>2,<td c>Linie<td r>19 f. o.<td>Kunstværk læs: Kortværk
+<td c>—<td>451,<td c>—<td>1,<td c>—<td r>3 f. n.<td>Piti læs: Pite
+<td c>—<td>451,<td c>—<td>2,<td c>—<td r>27 f. o.<td>Seritofinni læs: Scritofinni
+<td c>—<td>451,<td c>—<td>2,<td c>—<td r>25 f. n.<td>Piti læs: Pite
+</table>
+
+<h1>BIND XVI.</h1>
+<table>
+<td c>Side<td r>285,<td c>Spalte<td>1.<td 3>Billedet forestiller ikke P. V. Løvenørn, men hans Sønnesøn, Admiral P.-L.
+<td c>—<td r>603,<td c>—<td>1,<td c>Linie<td r>30 f. n.<td>efter Bornholm, læs: Møen og Ærø
+<td c>—<td r>792,<td c>—<td>2,<td c>—<td r>25 f. o.<td><i>(E. T. A.)</i> læs: <i>(E. A. T.)</i>
+<td c>—<td r>842,<td c>—<td>1,<td c>—<td r>4 f. o.<td><b>spiralis</b> læs: <b>spinalis</b>
+<td c>—<td r>1064,<td c>—<td>1,<td c>—<td r>28 f. o.<td>Samarere's læs: Samarow's
+<td c>—<td r>1065,<td c>—<td>2,<td c>—<td r>8 f. o.<td><b>Meysenburg</b> læs: <b>Meysenbug</b>
+</table>
+
+<h1>BIND XVII.</h1>
+<table>
+<td c>Side<td r>80,<td c>Spalte<td>2,<td c>Linie<td r>9 f. o.<td>Alakalisk læs: Alkalisk
+<td c>—<td r>267,<td c>—<td>1,<td c>—<td r>3 f. n.<td><sp>exegim.</sp> læs: <sp>exegi</sp> m.
+<td c>—<td r>518,<td c>—<td>1,<td c>—<td r>1 f. n.<td>Trivotum læs: Tritovum
+<td c>—<td r>705,<td c>—<td>1,<td c>—<td r>28 f. n.<td>6 læs: C
+<td c>—<td r>705,<td c>—<td>1,<td c>—<td r>21 f. n.<td>Formlen skal lyde: Na<sub>2</sub>Cr O<sub>4</sub> + H<sub>2</sub> SO<sub>4</sub> = Na<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> o. s. v.
+<td c>—<td r>705,<td c>—<td>2,<td c>—<td r>28 f. o.<td>Formlen skal lyde: Na<sub>3</sub> PO<sub>4</sub> o. s. v.
+<td c>—<td r>705,<td c>—<td>2,<td c>—<td r>29 f. n.<td>Phenolphtalin læs: Phenolphtalein
+<td c>—<td r>705,<td c>—<td>2,<td c>—<td r>26 f. n.<td>skal være: (<sp>Mononatriumfosfat</sp>) Na H<sub>2</sub> PO<sub>4</sub> o. s. v.
+<td c>—<td r>706,<td c>—<td>1,<td c>—<td r>2 f. o.<td>Formlen skal lyde: Zn = Na<sub>2</sub> S<sub>2</sub> O<sub>4</sub> + Zn o. s. v.
+<td c>—<td r>706,<td c>—<td>1,<td c>—<td r>19 f. o.<td>Natriumsulfoxyd læs: Natriumsulfoxylat
+<td c>—<td r>707,<td c>—<td>2,<td c>—<td r>22 f. o.<td><i>The lenpand</i> læs: <sp>Thelenpander</sp>
+<td c>—<td r>708,<td c>—<td>1,<td c>—<td r>34 f. n.<td><sp>Torristen</sp> læs: <sp>Tornsten</sp>
+<td c>—<td r>708,<td c>—<td>1,<td c>—<td r>1 f. n.<td>Magnium, saltholdigt læs: magniumsaltholdigt
+<td c>—<td r>710,<td c>—<td>1,<td c>—<td r>30 f. n.<td>vulkanisere læs: afvulkanisere
+<td c>—<td r>944,<td c>—<td>1,<td c>—<td 5>26 udgaar
+<td c>—<td r>951,<td c>—<td>2,<td c>—<td r>30 f. n.<td>Kobbersalte læs: Koboltsalte
+<td c>—<td r>952,<td c>—<td>1,<td c>—<td r>6 f. o.<td><sp>kiselsurt</sp> læs: <sp>kulsurt</sp>
+<td c>—<td r>952,<td c>—<td>2,<td c>—<td r>14 f. o.<td><sp>Nikkeloxyd</sp> læs: <sp>Nikkelooxyd</sp>
+</table>
+</chapter>

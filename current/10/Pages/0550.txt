@@ -1,0 +1,97 @@
+<table>
+<td 2 v2 c>Afgrødens Art<td c>Afgrødens<br>Størrelse<td c>Kvælstof<td c>Fosforsyre<td c>Kali<td c>Kalk<td c>Magnesia<td c>Øvrige<br>Askebestanddele
+<td 7 c>kg pr. ha
+<td v2>Hvede<td>Kerne<td r>4000<td r>83,2<td r>31,6<td r>20,8<td r>2,0<td r>8,0<td r>4,8
+<td>Halm<td r>7000<td r>33,6<td r>15,4<td r>44,1<td r>18,9<td r>7,7<td r>235,9
+<td v2>Rug<td>Kerne<td r>3000<td r>52,8<td r>25,5<td r>17,4<td r>1,5<td r>6,0<td r>3,3
+<td>Halm<td r>6000<td r>24,0<td r>15,0<td r>51,6<td r>18,6<td r>7,2<td r>136,8
+<td v2>Byg<td>Kerne<td r>3000<td r>48,0<td r>23,4<td r>14,1<td r>1,3<td r>6,0<td r>21,6
+<td>Halm<td r>4000<td r>25,6<td r>7,6<td r>42,8<td r>13,2<td r>4,8<td r>115,2
+<td v2>Havre<td>Kerne<td r>3500<td r>61,6<td r>23,8<td r>16,8<td r>3,5<td r>6,6<td r>42,7
+<td>Halm<td r>5000<td r>28,0<td r>14,0<td r>81,5<td r>21,5<td r>11,5<td r>179,5
+<td v2>Boghvede<td>Kerne<td r>2000<td r>28,8<td r>11,4<td r>5,4<td r>1,0<td r>3,0<td r>2,8
+<td>Halm<td r>3500<td r>45,5<td r>21,3<td r>84,7<td r>33,2<td r>6,6<td r>35,0
+<td v2>Ærter<td>Kerne<td r>2500<td r>83,5<td r>21,0<td r>25,2<td r>2,7<td r>4,7<td r>4,7
+<td>Halm<td r>3500<td r>36,4<td r>12,2<td r>34,6<td r>55,6<td r>12,2<td r>36,0
+<td v2>Hestebønner<td>Kerne<td r>3000<td r>122,4<td r>36,3<td r>38,7<td r>4,5<td r>6,6<td r>6,9
+<td>Halm<td r>4000<td r>65,2<td r>11,6<td r>77,6<td r>48,0<td r>10,4<td r>32,0
+<td v2>Fodervikker<td>Kerne<td r>2000<td r>88,0<td r>19,8<td r>16,0<td r>4,4<td r>4,8<td r>8,2
+<td>Halm<td r>3000<td r>36,0<td r>8,1<td r>18,9<td r>46,8<td r>11,1<td r>47,4
+<td v2>Lupiner<td>Kerne<td r>2000<td r>113,2<td r>28,4<td r>22,8<td r>5,6<td r>9,0<td r>8,2
+<td>Halm<td r>3000<td r>28,2<td r>7,5<td r>53,1<td r>29,1<td r>10,2<td r>27,9
+<td v2>Raps<td>Frø<td r>2000<td r>62,4<td r>33,2<td r>19,2<td r>11,0<td r>9,2<td r>5,8
+<td>Halm<td r>4000<td r>22,4<td r>10,0<td r>45,2<td r>46,8<td r>10,0<td r>53,2
+<td v2>Hør<td>Frø<td r>1500<td r>49,2<td r>20,2<td r>15,0<td r>3,9<td r>7,0<td r>2,7
+<td>Stængler<td r>3000<td r><td r>12,6<td r>29,1<td r>20,7<td r>6,0<td r>24,9
+<td v2>Runkelroer<td>Rod<td r>60000<td r>108,0<td r>48,0<td r>288,0<td r>18,0<td r>24,0<td r>168,0
+<td>Blade<td r>15000<td r>45,0<td r>15,0<td r>67,5<td r>24,0<td r>20,0<td r>92,5
+<td v2>Sukkerroe<td>Rod<td r>40000<td r>64,0<td r>36,0<td r>152,0<td r>16,0<td r>24,0<td r>60,0
+<td>Blade<td r>12000<td r>36,0<td r>8,4<td r>48,0<td r>37,2<td r>20,4<td r>69,6
+<td v2>Turnips<td>Rod<td r>50000<td r>90,0<td r>40,0<td r>145,0<td r>35,0<td r>10,0<td r>90,0
+<td>Blade<td r>10000<td r>30,0<td r>9,0<td r>28,0<td r>39,0<td r>5,0<td r>38,0
+<td v2>Kaalrabi<td>Rod<td r>60000<td r>126,0<td r>66,0<td r>210,0<td r>54,0<td r>30,0<td r>90,0
+<td>Blade<td r>12000<td r>40,0<td r>24,0<td r>33,6<td r>78,0<td r>9,6<td r>90,0
+<td v2>Gulerod<br>(Foder)<td>Rod<td r>60000<td r>132,0<td r>66,0<td r>180,0<td r>54,0<td r>24,0<td r>168,0
+<td>Blade<td r>15000<td r>76,5<td r>15,0<td r>43,5<td r>118,5<td r>12,0<td r>169,5
+<td v2>Kartofler<td>Knolde<td r>30000<td r>102,0<td r>48,0<td r>174,0<td r>9,0<td r>15,0<td r>39,0
+<td>Stængler<td r>3500<td r>17,1<td r>5,6<td r>15,0<td r>22,4<td r>11,5<td r>12,3
+<td v2>Cikorie<td>Rod<td r>30000<td r>75,0<td r>24,0<td r>78,0<td r>15,0<td r>9,0<td r>75,0
+<td>Blade<td r>5000<td r>17,5<td r>5,0<td r>21,5<td r>16,5<td r>2,0<td r>37,5
+<td 2>Agerhø (Kløver og Græs)<td r>6000<td r>106,8<td r>31,8<td r>128,0<td r>28,0<td r>11,5<td r>131,1
+<td 2>Enghø, godt<td r>5000<td r>77,5<td r>21,5<td r>80,0<td r>47,5<td r>20,5<td r>129,5
+<td 2>Rødkløver (i Blomst, tørret)<td r>6000<td r>118,2<td r>33,6<td r>111,6<td r>120,6<td r>37,8<td r>42,0
+<td 2>Lucerne (i Blomst, tørret)<td r>7000<td r>161,0<td r>37,1<td r>102,2<td r>176,4<td r>21,7<td r>97,0
+<td 2>Hundegræs (tørret)<td r>6000<td r><td r>21,6<td r>100,2<td r>18,6<td r>8,4<td r>156,0
+<td 2>Rajgræs (tørret)<td r>4000<td r>65,2<td r>24,8<td r>80,8<td r>17,2<td r>5,2<td r>104,8
+</table>
+
+En anden og billigere Form for
+Grøngødskning bestaar i, at man straks efter Høst pløjer
+og besaar Stubmarkerne med en hurtig
+voksende Afgrøde; herved hindrer man en Del
+Plantenæring, særlig Salpetersyre, i at gaa tabt
+ved Udvadskning, idet den ringe Afgrøde
+optager Salpetersyren af Jorden, efterhaanden
+som den dannes. Ved Siden heraf faar man
+tillige en Del mulddannende Materiale
+produceret. Man anvender til dette Brug ofte Gul
+Sennep, Raps, Boghvede eller andre
+hurtigvoksende Planter. Fordelen ved paa denne
+Maade at dyrke disse Ikke-Bælgplanter er dog
+ofte meget tvivlsom. Større Nytte vilde
+Bælgplanter ogsaa her gøre; men disses Vækst er
+i dette Tilfælde for langsom i Forhold til den
+forholdsvis dyre Udsæd. Undertiden saas
+Sneglebælg ell. Rundbælg i en Kornmark i Foraaret
+for at nedpløjes om Efteraaret, idet disse
+Bælgplanter vokser godt til, efter at Kornet er
+høstet. Størst Udbredelse har Anvendelsen af
+Grøngødning i Nordtysklands Sandegne. I
+Danmark har den kun ringe Udbredelse.
+<i>K. H-n.</i>
+</chapter>
+
+<chapter name="Gødningsbænk">
+<b>Gødningsbænk,</b> se <sp>Varmebed</sp>.
+</chapter>
+
+<chapter name="Gödöllö">
+<b>Gödöllö</b> ['gødøl.ø], By i det ung. Komitat
+Pest, 25 km NØ. f. Budapest ved Jernbanelinien
+Budapest—Hatvan, har c. 6000 hovedsagelig kat.
+magyariske Indb. samt et kgl. Slot, der er
+bygget paa Maria Theresia's Tid og tjener som
+Sommerresidens siden 1868, da det blev købt af
+den ung. Rigsdag som Statsdomæne for Kongen.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Gøge">
+<b>Gøge</b> (<i>Cuculidæ</i>), en Fam. af Skrigefugle
+med henved 200 Arter, udbredte over hele
+Klodens Tropeegne, kun med enkelte Arter i det
+tempererede Bælte; deres nærmeste Slægtninge
+er <sp>Maddikeæderne</sp> (<i>Crotophagidæ</i>), der
+ofte kun regnes som en Underfamilie af G., og
+<sp>Turako'erne</sp> (<i>Musophagidæ</i>). Det er
+middelstore Fugle — de mindste som en Lærke, de

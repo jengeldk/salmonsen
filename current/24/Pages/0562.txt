@@ -1,0 +1,144 @@
+man nu, at naar der som her forudsat er
+Ligevægt og Gnidningsfrihed, saa maa man have
+<i>K</i> . <i>k</i> = <i>B</i> . <i>b</i>. Det vil sige, at Energiens
+Størrelse er forblevet uforandret, den er blot
+gennem Arbejde flyttet fra <i>K</i> til <i>B</i>. Ethvert
+Arbejde er en Energiflytning.
+
+<sp>Varme og Arbejde,
+Varmeækvivalent</sp>. Med den ovenfor beskrevne Vinde
+(Fig. 1) vil vi nu tænke os Loddet <i>K</i>'s
+Bevægelse gentaget, men denne Gang <sp>uden</sp> Loddet
+<i>B</i>, hvis Kraft tænkes erstattet af en
+Bremseklods <i>B</i>' (punkteret), som med et passende
+Tryk gnider mod Vinden, saa at Bevægelsen af
+<i>K</i> forløber jævnt og langsomt ganske som før.
+Naar Bevægelsen er endt, har Loddet <i>K</i> mistet
+sin Energi. Det har udført samme Arbejde som
+før, men denne Gang kan vi ikke genfinde
+Energien i nogen synlig Form. Det eneste, der er at
+spore, er en yderst svag Opvarming af de
+gnidende Flader. Det er i denne V., vi maa se
+Erstatningen, Ækvivalentet, for den tabte
+Energi, og Begrundelsen af denne Opfattelse ligger
+i, at der altid findes et konstant Forhold
+mellem denne og Varmemængden, og at det samme
+Forhold genfindes, naar Omsætningen gaar i
+modsat Retning fra V. til Arbejde. Tænker vi
+os Vinden omgivet af et Kalorimeter til
+Maaling af Varmemængden, har vi i det væsentlige
+den Forsøgsordning, ved hvilken Joule
+bestemte Varmeækvivalentet, hvorved forstaas det
+Arbejde, som skal til for at frembringe en
+Varmeenhed. Efter de nyeste og bedste
+Bestemmelser er 1 Kalorie ækvivalent med 4,1863 . 10<sup>7</sup>
+Erg, hvilket Tal i Formler ofte betegnes med
+J. I det tekniske Maalesystem er 1
+Kilogramkalorie ækvivalent med 426,6 Kilogrammeter.
+Vi kan anskueliggøre os Størrelsesforholdet ved
+denne Omsætning ved at tænke os en Spand
+med Vand hævet 427 m, altsaa c. 1/2 km, til
+Vejrs. Hvis Vandet styrter ned fra denne
+Højde, og hele den tabte Beliggenhedsenergi
+omsættes til V. i Vandet selv, vil dets Temperatur
+stige — een Grad. Denne lille Varmemængde
+forklarer, hvorfor man kunde være lidt tøvende
+med at anerkende V. som en Erstatning for
+den mekaniske Energi.
+
+<sp>Varmeteoriens 1. Hovedsætning</sp>.
+<sp>Indre Energi</sp>. Der kan nu gaas over til
+at formulere Varmeteoriens 1. Hovedsætning.
+Vi har set, at et Legeme, som udfører Arbejde
+(jfr. <i>K</i> Fig. 1), afgiver en Energimængde lig
+med det udførte Arbejde, omvendt, at et
+Legeme, der modtager Arbejde — d. v. s.
+udfører et negativt Arbejde, som <i>B</i> ved
+Løftningen — modtager en tilsvarende Energimængde.
+I den rene, d. v. s. den gnidningsfri, Mekanik
+sker Energiflytning alene gennem Arbejde, og
+den samlede Energisum forbliver konstant. Saa
+snart vi forlader den rene Mekanik, gælder
+denne Sætning om Energiens Konstans ikke
+længere, hvis vi holder os til de ydre
+mekaniske (og elektriske) Energiformer alene, men
+det konstante Ækvivalensforhold viser os, at vi
+kan opretholde den, saafremt vi tillige regner
+med en indre Energi i Legemerne, som ændres
+ikke blot ved udført eller modtaget Arbejde,
+men lige saa godt ved afgivet eller tilført
+Varmemængde. Modtager et Legeme
+Varmemængden <i>Q</i> Kalorier, forøges dets Energi derved med
+<i>J Q</i> Erg, hvor <i>J</i> er Varmeækvivalentet; udfører
+det samtidig Arbejdet <i>A</i> Erg, formindskes den
+med <i>A</i> Erg. Legemets samlede Energitilvækst
+Δ<i>U</i> maa derfor kunne skrives som
+
+<i>J Q</i> — <i>A</i> = Δ<i>U</i>
+
+Denne Ligning er den matematiske
+Formulering af Varmeteoriens 1. Hovedsætning. Man
+kan fortolke den som
+en Anvisning paa,
+hvorledes vi skal
+komme til Kendskab
+om den i Legemerne
+skjulte indre Energi.
+Vi kan ikke direkte
+iagttage denne, men
+vi kan efter
+Ligningen regne os til den
+ved at maale de
+direkte iagttagelige
+Størrelser: den
+tilførte Varmemængde
+<i>Q</i>, som bestemmes
+ved Kalorimetret, og
+det udførte Arbejde
+<i>A</i>, der bestemmes
+ved Produktet af den
+maalte Kraft og Vej.
+Her skal ved et Par
+Eksempler vises
+Anvendelsen af
+Ligningen til en saadan
+Beregning af indre Energi.
+
+<sp>En Luftmasses indre Energi</sp>. Vi
+tænker os en vis Luftmasse indespærret i en
+Cylinder med et bevægeligt Stempel, saaledes at vi
+er i Stand til at sammentrykke den efter Behag.
+
+1) <sp>Adiabatisk Sammentrykning</sp>.
+Til at begynde med er Luftmassen ved
+almindelig Tryk og Omgivelsernes Temperatur.
+Man trykker nu hastigt Stemplet ind, saa
+Rumfanget formindskes, f. Eks. til det halve.
+Luftmassens Temperatur vil da stige noget som et
+halvt hundrede Grader. Hvor meget er derved
+Luftmassens Energi blevet forøget? Luften er
+blevet varm, men der er <sp>ikke</sp> ført V. til den,
+tværtimod, hvis der er sket nogen
+Varmetransport, maa der være gaaet V. bort fra den
+varmere Luftmasse til de koldere Omgivelser.
+Afgivelsen af en vis Varmemængde kræver
+imidlertid ikke blot Temperaturforskel, men ogsaa
+Tid, og hvis Sammentrykningen er sket meget
+hurtigt, kan vi i første Tilnærmelse se bort fra
+den afgivne V. En Proces, ved hvilken
+Varmeudvekslingen er Nul (<i>Q</i> = 0), kaldes
+adiabatisk. Derimod har Luften modtaget Arbejde,
+fordi Stemplet er bevæget imod Luftmassens
+Tryk — <i>A</i> bliver derfor en positiv Størrelse,
+som her angiver Luftens Energiforøgelse. Man
+kan afbilde de samhørende Værdier, som
+Luftmassens Tryk (<i>p</i>) og Rumfang (<i>v</i>) har
+gennemløbet ved Kurve 1 i et <i>p</i>-<i>y</i>-Koordinatsystem.
+Et saadant Diagram kaldes et Arbejdsdiagram,
+fordi Arbejdet ved en Proces direkte angives
+ved det Areal, som ligger mellem Processens
+Kurve og <i>v</i>-Aksen — altsaa her <i>a b b' a' a</i>. I
+Teknikken tegnes Arbejdsdiagrammet
+automatisk ved Watt's Indikator.
+
+<img>Fig. 1.</img>

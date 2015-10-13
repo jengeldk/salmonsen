@@ -1,0 +1,124 @@
+af P. — dens Kaliber — angives ved
+Diameteren (i cm) af Linse-Prismesystemet eller af
+Spejlet.
+
+Medens P. med Linse-Prismesystem næsten
+udelukkende anvendes i Fyrvæsenet og er
+beskrevet under dette, anvendes Spejlprojektører
+— i alt Fald for de størres Vedk. —
+udelukkende i Militærteknikken; de smaa
+Spejlprojektører har dog ogsaa fundet stor Anvendelse i
+Civilteknikken, særlig til Automobilbelysning.
+
+I Militærteknikken anvendes <sp>elektriske
+Projektører</sp> og <sp>Gasprojektører</sp>.
+I <sp>den elektriske Projektør</sp> bestaar
+Lyskilden af et elektrisk Buelys ell. en
+Buelampe for de større Kalibres Vedk.; i mindre,
+elektriske P., der skal være let transportable,
+anvendes en ell. fl. Glødelamper med stor
+Lysstyrke; der konstrueredes saaledes i Tyskland
+under Krigen Glødelamper med en Lysstyrke
+paa 30000 Lys, men disse Lamper havde kun
+en ringe Levetid.
+
+En fritstaaende Lyskildes Straaler spreder sig
+til alle Sider i Rummet. Den derved frembragte
+Belysning er end ikke fra den kraftigste
+elektriske Lysbue stærk nok til at kunne gøre
+Fyldest over for de Opgaver, som stilles den ved
+dens Anvendelse i Krigsøjemed. Først ved at
+samle Lysstraalerne ved Hjælp af et Hulspejl
+bliver man i Stand til at belyse
+Terraingenstande, Skibe m. m. i stor Afstand paa
+tilstrækkelig effektiv Maade.
+
+Ved at benytte et <sp>parabolsk</sp> Hulspejl, d.
+v. s. et Spejl, der er formet efter en
+Omdrejningsparaboloide, opnaar man den bedste
+Samling af Lyset, idet de Straaler, der udgaar fra
+en Lyskilde, anbragt i Paraboloidens
+Brændpunkt, iflg. denne Flades Form vil tilbagekastes
+indbyrdes parallelle og i Paraboloideaksens
+Retning. Man var fra Beg. klar over dette
+Forhold, men da det viste sig teknisk umuligt at
+fremstille et parabolsk Hulspejl af <sp>Glas</sp>, lod
+man sig foreløbig nøjes med kugleformede
+Spejle. Parabolske Spejle af <sp>Metal</sp> var det
+ganske vist lykkedes at konstruere, men dels
+var disse meget dyre, dels tabte de hurtigt deres
+blanke Overflade, og de fandt derfor ikke videre
+Anvendelse. De alm. <sp>kugleformede</sp> Spejle
+har meget
+betydelige Mangler;
+særlig uheldigt er det,
+at man, for ikke
+at faa for stor
+Straalespredning,
+maa gøre deres
+Diameter lille i
+Forhold til
+Lyskildens Afstand fra
+Spejlets Midte.
+<sp>Nyttevinklen</sp>,
+d. v. s. den Vinkel,
+der er bestemt ved to diametralt modsatte Punkter
+af Spejlranden og Lyskilden, bliver derfor kun
+ringe. Den fr. Ingeniøroberst <sp>Mangin</sp>
+paaviste imidlertid, at man vilde opnaa langt bedre
+Resultater, naar Kuglespejlets Glasmasse blev
+slebet som en svag konkav-konveks Linse (se
+Fig. 1). Saa længe Spejlets Diameter er mindre
+end Brændvidden, kan de af Spejlets Bagflade
+tilbagekastede Straaler faa en saadan
+Brydning gennem Forfladen, at Spredningen næsten
+ophæves. Med saadanne Spejle har man
+opnaaet en Nyttevinkel paa indtil 60°. De
+Mangin'ske Spejle finder endnu militær Anvendelse
+bl. a. ved vore ældre P.
+
+1886 lykkedes det <sp>Schuckert</sp> i Nürnberg
+at fremstille <sp>parabolske Glasspejle</sp> i
+eet Stykke. Schuckert's Spejle var derefter i
+lange Tider de eneste paa Markedet; men efter
+Udløbet af Firmaets Patenter har ogsaa andre
+beskæftiget sig med Fremstilling af denne Art
+Spejle og med udmærkede Resultater. Bl.
+saadanne Firmaer Skan nævnes Officine Galileo i
+Firenze og Zeiss i Jena.
+
+Som et Maal for et Projektørspejls Evne til
+at tilbagekaste Lyset benytter man i Reglen
+Spejlets <sp>Forstærkningsgrad</sp>, der i
+Praksis med tilstrækkelig Nøjagtighed kan
+udtrykkes ved Forholdet <i>D<sup>2</sup></i>/<i>d<sup>2</sup></i>, hvor <i>D</i> er
+Diameteren af det parabolske Spejl og <i>d</i> Diameteren
+af Krateret i det positive Buelampekul, der er
+anbragt saaledes, at det viser lige ind mod
+Spejlet. Da Lyskilden (Krateret) ikke er
+punktformig, men har en vis Udstrækning, kan
+Straalerne dog ikke alle være parallelle (se
+Fig. 2). Den største Vinkel, som de fra Spejlet
+ved koncentreret Lys udgaaende Straaler
+danner med hinanden, kaldes P.'s <sp>Lysvinkel</sp>;
+den er ved en Schuckert's P. henimod 3°.
+Nyttevinklen gaar ved denne P. op til c. 140°.
+Det er af største Vigtighed, at Slibningen af
+det parabolske Spejl udføres med stor
+Nøjagtighed. Spejlet, der paa begge Sider er slebet efter
+en Omdrejningsparaboloide, har overalt samme
+Tykkelse. Paa sin udvendige Side er det
+forsynet med en Sølvbelægning, og det er denne
+og ikke Glasset selv, der tilbagekaster
+Straalerne. Flytter man Lyskilden nærmere Spejlet,
+vil Straalerne ikke tilbagekastes parallelt, men
+derimod spredes kegleformigt; man belyser
+da et større Omraade, men Belysningen er
+svagere. Ved Tilbagekastningen fra Spejlet
+tabes c. 10 % af Lyset fra Lysgiveren, og det
+af Spejlet reflekterede Lys lider desuden et
+Tab ved at passere det Dækglas (se ndf.), der
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>

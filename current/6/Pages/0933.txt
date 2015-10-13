@@ -1,0 +1,86 @@
+nævnes, at det ved Hjælp af <sp>Faseomformere</sp>,
+anbragte paa Lokomotivet, er muligt at lade
+Trefasemotorer arbejde med Strøm fra et
+enfaset Ledningsnet. I den allernyeste Tid har
+endvidere den af <sp>Cooper-Hervitt</sp>
+opfundne <sp>Kviksølvensretter</sp>, der kan omforme
+saavel <sp>enfaset</sp> som <sp>trefaset
+Vekselstrøm</sp> til <sp>Jævnstrøm</sp>, opnaaet en saa
+stor Driftssikkerhed, at der synes Mulighed for
+udstrakt Anvendelse af den til Banedrift (se
+<sp>elektriske Maskiner</sp> og
+<sp>Transformatorer</sp>).
+
+Af elektriske Banesystemer, hvor Kraftkilden
+findes paa selve Motorvognen ell. Lokomotivet,
+skal nævnes Drift med
+<sp>Akkumulatorvogne</sp> og med <sp>dieselelektriske Vogne</sp>.
+
+<sp>Akkumulatorvogne</sp> har, efter at de
+transportable Akkumulatorer i de senere Aar
+er blevne betydeligt forbedrede, vundet en Del
+Indpas paa Lokal- og Forstadsbaner med tynd
+Trafik, samt paa Hovedbaner til at optage den
+lokale Trafik, og saaledes supplere de
+gennemgaaende Hurtigtog. Vognene er tunge, og deres
+Aktionsradius er naturligvis begrænset af
+Batteriets Kapacitet. Systemet anvendes en Del af
+de preuss. Statsbaner. De nyere Vogne har i alt
+118 Pladser (II, III og IV Klasse), vejer i tom
+Tilstand c. 84 t og drives af 2 Motorer à 90
+HK. Hastigheden er c. 60 km pr Time, og
+Vognen kan paa een Opladning køre c. 180 km
+paa flad Bane. Ogsaa i Sverige har disse
+Vogne med <sp>Jungner-Akkumulatorer</sp> faaet
+en Del Anvendelse.
+
+<sp>Dieselelektriske Vogne</sp> (Fig. 4)
+udføres paa den Maade, at Motorvognen forsynes
+med en Dieselmotor, der er direkte koblet til
+en Jævnstrømsgenerator, som igen leverer
+Strømmen til Drivmotorerne.
+Hastighedsreguleringen foregaar uden Tab i Modstanden, idet
+man kun regulerer paa Dieselmotorens
+Omløbstal og Generatorens Magnetisering. Disse
+Vogne er bl. a. byggede af
+<sp>Almännasvenska elektriska</sp> A/B.; efter de hidtil
+vundne Resultater synes de at være yderst billige i
+Drift. Vognene kan medføre Brændselsolie til
+1500 km. Ogsaa i Amerika er der bygget lignende
+Vogne med Forbrændingsmotorer som
+Kraftkilde.
+
+<sp>Den anvendte Kørehastigheder</sp>
+for <sp>Forstadsbaner</sp> 10-15 km inde i Byen,
+indtil 20 km paa fri Strækninger og op til 30
+km uden for Byen. Ved <sp>Lokalbaner</sp> er
+Hastigheden 50-70, undertiden op til 90 km
+pr Time. Der anvendes her hyppigst Drift med
+<sp>Motorvogne</sp> med Motorer paa 50-200 HK.,
+sjældnere Lokomotiver. <sp>Køretraaden</sp>
+ophænges som Regel ved den saakaldte
+<sp>Kædelinieophængning</sp>, idet den ved Stænger
+af forsk. Længde er befæstet til en oven over
+dem udspændt Bæretraad (se f. Eks. Fig. 3 og
+5), hvorved den kommer til at hænge
+fuldstændig vandret. <sp>Strømaftageren</sp>, der
+hyppigst er den i Fig. 1 viste simple Bøjle ell. et
+fjedrende Parallellogramsystem (Fig. 3), kan
+derfor uden Vanskelighed følge Kontakttraaden,
+og selv ved store Hastigheder sikres god
+Kontakt. Medens <sp>Forstads</sp>- og <sp>Lokalbaner</sp>
+hyppigst drives med Jævnstrøm, anvendes alle
+3 beskrevne Systemer ved <sp>Hovedbaner</sp>. I
+Amerika staar Kampen nærmest imellem
+højspændt Jævnstrøm og enfaset Vekselstrøm, i
+Europa mellem enfaset og trefaset Vekselstrøm.
+Der anvendes <sp>Lokomotivdrift</sp> med
+Lokomotiver paa 1000-4000 HK. <sp>Elektriske
+Bybaner</sp> drives hyppigst med Jævnstrøm,
+500-1500 Volt. Strømmen tilføres som Regel
+gennem en <sp>tredie Skinne</sp>, der lægges paa
+Porcelænsisolatorer parallelt med Sporet og
+
+<img>
+Fig. 5. 2100 t Ertstog fra Riksgränsbanen.
+</img>

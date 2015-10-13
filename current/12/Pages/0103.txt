@@ -1,0 +1,83 @@
+Abscisse og Temp. som Ordinat, hvorved hvert
+Punkt af Planen kommer til at repræsentere
+en Staalsort af bestemt Kulholdighed og ved
+en bestemt Temp. I det smeltede Staal er
+Kullet jævnt fordelt, og det forbliver saadan ved
+Størkningen. Det størknede Staal er en mere
+ell. mindre koncentreret, fast Opløsning af
+Jernkarbid i Jern; i denne Tilstandsform, der
+benævnes <sp>Austenit</sp>, er alt det Staal, der
+ligger over Kurven <i>abcd</i>. Tidligere betegnedes
+denne Tilstandsform som <sp>Martensit</sp>, og af
+Grunde, der senere vil forstaas, er dette Navn
+bibeholdt i Fig. Naar Staalet afkøles yderligere,
+og det sker langsomt, vil Austenitten søge at
+ændre sin Sammensætning, saaledes at dens
+Kulindhold bliver c. 0,9 %; er Kulindholdet
+mindre, vil den derfor udskille rent ell.
+næsten rent Jern, der benævnes <sp>Ferrit</sp>; er
+Kulindholdet større, vil den udskille
+Jernkarbid, der i denne selvstændige Form benævnes
+<sp>Cementit</sp>. Disse Udskillelser begynder
+under Kurven <i>abcd</i> og fortsætter sig, indtil Temp.
+er sunket til c. 700° (Kurven <i>ecf</i>); den
+resterende Austenit vil da indeholde c. 0,9 % Kulstof,
+og naar Kurven passeres, fikserer den sig i Form
+af tynde Lameller af Ferrit og Cementit, der
+under Mikroskopet ses som fine Streger med
+Perlemorsglans over og derfor benævnes
+<sp>Perlit</sp>. Fig. 2 viser Perlit (stribet) og Ferrit (hvid)
+i stærk Forstørring. Langsomt afkølet Staal er
+altsaa en Legering af Jern (Ferrit) og
+Jernkarbid (Cementit) og Perlitten er den
+eutektiske Legering af disse to Stoffer. Staal med c.
+0,9 % Kulstof kaldes derfor eutektisk Staal og
+bestaar udelukkende af Perlit, medens
+<sp>undereutektisk</sp> Staal bestaar af Perlit og Ferrit,
+og <sp>overeutektisk</sp> Staal af Perlit og
+Cementit. Af de tre Bestanddele er Ferritten den
+blødeste, Cementitten den haardeste.
+
+Hvis Staalet ikke afkøles langsomt, men
+hurtigt, faar Karbidet ikke Tid til at udskille sig,
+saaledes at det hede Staals Tilstandsform
+fikseres. Ved Afkøling fra Temp., der ligger over
+Kurven <i>abcd</i>, vil da alt Karbidet forblive
+opløst, og man faar en meget haard Masse, der
+kaldes <sp>Martensit</sp>. Den fremtræder under
+Mikroskopet med en ensartet Struktur (Fig. 3)
+af fine Naale, almindeligvis krydsende
+hverandre under 60°. Ligger Temp. under Kurven
+<i>abc</i>, faas en Blanding af Martensit og Ferrit,
+ligger den under Kurven <i>cd</i>, faas en Blanding
+af Martensit og Cementit; ligger Temp. under
+Kurven <i>efg</i>, er al Karbidet udskilt, og en
+hurtig Afkøling har ingen Indflydelse paa
+Strukturen. En Hærdning vil altsaa kun indtræde
+ved hurtig Afkøling fra en Temp. af over c.
+700° (i Praksis 750°). Ved undereutektisk
+Staal maa man for at undgaa den bløde Ferrit
+og faa fuldkommen Hærdning opvarme til over
+Kurven abc<i>.</i> Ved overeutektisk Staal behøver
+man kun at overstige Kurven <i>cf</i>, thi
+Cementitten er haardere end Martensitten og derfor
+gavnlig, naar blot Mængden ikke er saa stor,
+at den danner et sammenhængende Netværk,
+thi i saa Fald bliver Staalet meget skørt. Af
+Hensyn til, at Staalet ikke skal blive
+<sp>forbrændt</sp> (s. d.), opvarmes ikke væsentlig
+stærkere end paakrævet, navnlig ikke, naar
+Staalet er kulrigt. Den i Praksis brugte Temp.
+ligger c. 50° over Kurven <i>abcf</i>. Grunden til, at
+man ved Hærdningen faar dannet Martensit
+og ikke Austenit, er flg.: Diagrammet Fig. 1
+er i Virkeligheden mere sammensat end vist;
+naar Austenitten afkøles, gennemløber den en
+Række Tilstandsformer, af hvilke den første er
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+

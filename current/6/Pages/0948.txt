@@ -1,0 +1,78 @@
+Højspændingsapparater (denne Omformer, der er anbragt i
+Maskinsalens østlige Ende under Galeriet, er
+ikke vist paa Tegningen). Paa Fig. 11 og 12 er
+vist nogle Fotografier fra Værket.
+
+2) Vekselstrømscentraler ell. e. K.
+for Vekselstrøm er i overvejende Grad
+Højspændingscentraler. Vekselstrømscentraler, der
+udelukkende producerer lavspændt Vekselstrøm
+og sender den direkte ud til Forbrugerne,
+bygges kun undtagelsesvis. Vekselstrømmen
+produceres i synkrone Vekselstrømsgeneratorer, der
+drives af Kraftmaskiner, som enten er
+Dampturbiner, Dampmaskiner, Vandkraftmaskiner
+ell. flercylindrede Dieselmotorer. Andre
+Kraftmaskiner finder kun ringe ell. ingen Anvendelse
+som Drivmaskiner, da Vekselstrømsdrift fordrer
+stor Regelmæssighed i Drivmaskinernes Gang.
+Vekselstrømmen ledes paa lgn. Maade som
+Jævnstrømmen i Jævnstrømscentraler til
+Samleskinner, der ved Vekselstrømscentraler med
+Lavspænding er anbragte i et Tavleanlæg lgn.
+det, der alm. anvendes i Jævnstrømscentraler
+(se foran). I Vekselstrømsapparatanlæg findes
+der, ligesom ved
+Jævnstrømsapparatanlæg, Maaleapparater, Afbrydere,
+Sikringer og Reguleringsmodstande for
+Generatorernes Magnetiseringsstrømkredse;
+disse Apparater er alle anbragte og
+anvendte paa lgn. Maade som ved
+Jævnstrøm. Ved Højspændingscentraler
+er Samleskinnerne derimod anbragte i
+et særligt Rum, Højspændingsrum, og
+de til Apparatanlægget knyttede
+Afbrydere, der ved Højspænding er
+indbyggede i Oliekasser, de saakaldte
+<sp>Olieafbrydere</sp>, og Apparater er
+indbyggede i særlig afgrænsede
+<sp>Højspændingsceller</sp>. Samtlige
+Højspænddngsceller og
+Højspændingsrum indtager som Regel deres
+særskilte Del af Centralens
+Bygninger og benævnes under eet:
+<sp>Højspændingsanlægget</sp>.
+Ved Anbringelse af
+Højspændingsapparater maa der omhyggeligt
+vaages over, at al Isolering er
+paalidelig, og Organer, der fører
+forsk. Spændinger, anbragte i
+tilbørlig Afstand fra Vægge og fra
+hinanden, eventuelt adskilte ved
+Skillevægge af isolerende
+Materiale, f. Eks. Kokolit. Alle
+spændingsførende Dele i
+Højspændingscentraler maa være saaledes
+anbragte i aflukkede Rum, at det er
+umuligt at komme i direkte
+Berøring med dem, naar de er i
+Brug. Da Højspændingscentraler
+anvendes til Forsyning af
+vidtstrakte Oplande (se <sp>elektrisk
+Kraftoverføring</sp>), er de
+derfor ofte meget store, ligesom
+de anvendte Maskinenheder kan
+
+<img>
+Fig. 15. Enkelt Samleskinnesystem. G. Generator, A. Afbryder,
+L. Ledningsadskiller, S. Samleskinner, F. Fødeledninger.
+</img>
+<img>
+Fig. 16. Dobbelt Samleskinnesystem. G. Generator, A. Afbryder,
+L. Ledningsadskiller, S. Samleskinner, F. Fødeledninger.
+</img>
+<img>
+Fig. 17. Ringsamleskinnesystem. G. Generator,
+A. Afbryder, L. Ledningsadskiller, S. Samleskinner,
+F. Fødeledninger.
+</img>

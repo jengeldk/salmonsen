@@ -1,0 +1,136 @@
+for en Kugle, vil ethvert Steds Vertikallinie
+være Forlængelsen af den til Stedet gaaende
+Jordradius. Det geocentriske Zenit falder
+sammen med det apparente Zenit, og den
+geocentriske og apparente Højde vil ligge i samme
+Plan. Den daglige P. vil saaledes ingen
+Indflydelse have paa et Himmellegemes Azimut,
+kun paa Højden; den daglige P. kaldes derfor
+<sp>Højdeparallakse</sp>, og den geocentr. Højde er
+lig Summen af den apparente Højde og
+Højdeparallaksen. Staar Himmellegemet i Horisonten,
+har Højdeparallaksen sin største Værdi og
+kaldes da <sp>Horisontal-P.</sp> Er Himmellegemets
+Afstand fra Jordens Gemtrum = <i>R</i>, Jordradien
+= <i>r</i>, den apparente Højde = <i>h</i>, saa findes
+Højdeparallaksen (π) af Ligningen <i>sin</i> π =
+<i>r/R cos h</i>. Kaldes Horisontalparallaksen for Π, er
+<i>sin</i> Π = <i>r/R</i>. Kendes Himmellegemets
+Horisontalparallakse, kan følgelig dets Afstand
+beregnes. Kender man dets Afstand og maaler dets
+angulære (tilsyneladende) Diameter (2 <i>β</i>), kan
+man beregne den virkelige Diameter (2<i>b</i>) : <i>b</i> =
+<i>R sin β</i>. For Maanen er Horisontalparallaksen
+i Gennemsnit = 57,0′ (i Maksimumu 61,5′, i
+Minimum 53,9′), altsaa <i>R</i> = 60,3<i>r</i>; dens angulære
+Halvdiameter i Gennemsnit = 15,5′ (varierer
+fra 16,8′ til 14,7′), altsaa <i>b</i> = 0,00451 · <i>R</i> =
+0,2725 · <i>r</i>. Horisontalparallaksen kan findes ved
+at maale vedkommende Himmellegemes Højde
+i Meridianen fra to Punkter, der har samme
+Længde (ligger Iagttagelsesstederne ikke under
+samme Meridian, og finder Iagttagelserne ikke
+Sted samtidig, kan man tage Hensyn til det
+ved Beregningen), ell. i St f. at maale Højden
+at maale Forskellen mellem Himmellegemets
+og en Stjernes Højde i Meridianen. Paa denne
+Maade er Maanens Horisontalparallakse bleven
+funden; den samme Metode kan benyttes for
+Mars og andre nære Planeter. G. D. Cassini
+benyttede den for Mars 1671, idet Richer
+sendtes til Cayenne, medens Picard og Ole Rømer
+observerede i Paris. Af den saaledes udledede
+Mars-P. kan man gennem den tredje
+Kepler'ske Lov finde <sp>Solparallaksen</sp>. Foruden
+Mars har man benyttet enkelte Planetoider som
+Victoria, Sappho og i den sidste Tid Eros.
+Halley foreslog at benytte Venus' Passeren
+over Solskiven til at udlede Solparallaksen.
+Man har fundet ved disse forsk. Metoder, at
+Solens P. kan sættes = 80,80″. For
+Fiksstjernerne fandt man allerede i Oldtiden, at deres
+P. var umærkelig, og med den geocentriske
+Betragtning af Verdenssystemet havde man
+intet Middel til nærmere at bestemme deres
+Afstande. Bevægede derimod effter Kopernicus
+Jorden sig omkr. Solen, maatte denne
+Bevægelse afspejle sig i Stjernerne, idet deres
+Bevægelse vilde være parallel med Jordens, men
+i modsat Retning. I Løbet af et Aar vilde da
+Stjernen komme tilbage til sit opr. Sted efter
+at have beskrevet en lukket Kurve, der vilde
+være desto mindre, jo fjernere Stjernen var
+fra Jorden. Denne tilsyneladende Bevægelse af
+Fiksstjernerne kalder man deres
+<sp>parallaktiske</sp> Bevægelse, og ved en Stjernes P.
+forstaas den Vinkel ved Stjernen, som
+Synslinierne fra Stjernen til Solen og Jorden danner
+med hinanden, den <sp>aarlige</sp> P. Naar
+Stjernen, set fra Jorden, er i Opposition med Solen,
+vil p. Gr. a. den aarlige P. dens Bredde være
+størst; er den i Konjunktion, vil dens Bredde
+være mindst, medens Længden i begge Tilfælde
+vil have sin gennemsnitlige Værdi; i Kvadratur
+vil derimod Bredden have sin gennemsnitlige
+Værdi, medens Længden vil være mindst efter
+Opposition, størst efter Konjunktion. Er
+Stjernen i Ekliptikkens Pol, vil den synes at
+beskrive en Cirkel; er den i Ekliptikken, vil den
+synes at beskrive en ret linie frem og tilbage
+i Aarets Løb. Ud fra dette Ræsonnement søgte
+man at finde Fiksstjernernes P., men først 1836
+lykkedes det W. Struve tilnærmelsesvis at finde
+P. for α <i>Lyrae</i> ved mikrometrisk at maale dens
+Afstand fra nærliggende Stjerner. Næsten
+samtidig fandt Bessel P. af Dobbeltstjernen 61
+<i>Cygni</i> ved Hjælp af to Sammenligningsstjerner.
+Man finder saaledes ikke den <sp>absolutte</sp> P.,
+men den <sp>relative</sp> P. af den ene Stjerne i
+Forhold til den anden. Men er
+Sammenligningsstjernerne mange Gange længere borte, vil den
+relative P. kunne anses som absolut. Denne
+Metode blev bragt i Forslag allerede af Galilei i
+hans <i>Dialogo sopra</i> i <i>due massimi sistemi del
+mondo</i>. Ved Maaling af P. har man ogsaa
+fundet <sp>negativ</sp> P., hvilket betyder i Tilfælde af
+absolutte Maalinger, at Retningslinierne fra de
+diametrale Punkter af Jordbanen ikke
+konvergerer mod et bestemt Punkt, Stjernen, men
+divergerer, ɔ: der gives ingen Afstand af
+Stjernen, som tilfredsstiller Observationerne. Ved
+relative P. behøver Grunden ikke at være
+Observationsfejl, men den kan hidrøre fra, at
+Sammenligningsstjernen er os nærmere end
+den Stjerne, hvis P. man vil bestemme.
+Hidtil kender man med Sikkerhed P. af
+omtrent 50 Fiksstjerner, men har alle en P.
+af under 1″ og over 0,15″. De nærmeste
+Stjerner er <i>Proxima Centauri</i> (en af Innes opdaget
+svag Ledsager til α <i>Centauri</i> af 11. Størrelse i
+2° 11′ Afstand fra denne og med samme
+Egenbevægelse) med P. 0,77″, α <i>Centauri</i>, dens P.
+er 0,76″, og Barnard's Pilstjerne i Ophiuchus
+med den hidtil største kendte Egenbevægelse af
+10″ aarlig, den har P. af 0,53″; for 61 <i>Cygni</i> er
+P. 0,32″, Sirius 0,37″. <i>Procyon</i> 0,31, α <i>Aurigae</i>
+0,07″, α <i>Aquilae</i> 0,21″, α <i>Tauri</i> 0,06″, α <i>Lyrae</i>
+0,12″ ell. 8,3 par sec., Polarstjernen 0,07. Kaldes
+den aarlige P. for <i>q</i>, og Jordens Afstand
+fra Solen for <i>R</i>, saa er Stjernens Afstand =
+206265/<i>q</i>. <i>R</i> eller den Tid, som Lyset behøver
+for at naa frem fra Stjernen = 3,26/<i>q</i> Aar,
+altsaa er Lystiden for α Centauri 4,3 Aar, Sirius
+8,7 Aar. En Afstand af 206265 Jordbaneradier,
+som svarer til en P. af 1″ kalder man
+»Sternweile« ell. <i>parsec</i>. Den parallaktiske Bevægelse
+af en Stjerne, som hidrører fra Solens
+Bevægelse i et Aar, kaldes Stjernens <sp>sekulære</sp> P.
+Forholdet mellem den aarlige og sekulære P.
+er 0,257.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="parallaktisk">
+<b>parallaktisk</b> siges en Kikkert at være
+opstillet, naar den lader sig bevæge om to Akser,
+hvoraf den ene er parallel med Verdensaksen,

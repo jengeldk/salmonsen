@@ -1,0 +1,78 @@
+Samleskinnespændinger. <i>R</i>. er Shuntreguleringsmodstande for
+Dynamoerne for Lademaskinerme, <i>I</i> er
+Udligningsmaskinernes Igangsætningsmodstande.
+Akkumulatorbatteriets Spændinger reguleres
+med Celleskiftere. Den i Centralen udviklede
+Energi bortgaar gennem Fødeledningerne.
+Hver af disse bestaar af to Kobberledninger
+(ell. Kabler), der tilsluttes hver sin af
+Samleskinnerne + og ÷ og føres ud til centrale
+faste Punkter (Fødepunkter) i Ledningsnettet
+(se <sp>elektrisk Kraftoverføring</sp>).
+Undertiden indeholder Fødeledningerne tillige hver
+en Nulleder, der forbindes med
+Nulsamleskinnen og føres paa samme Maade som de to
+andre Ledere i Fødeledningen ud til
+Knudepunkterne i Nettet. Som oftest indeholder dog kun
+en Del af en Centrals Fødeledninger Nulledere
+(f. Eks. 50-75 %). Paa Centralen findes der
+Afbrydere i hver af en Fødelednings to
+Ledninger samt Smeltesikringer (Fig. 7).
+Centralens samlede afgivne Effekt maales paa
+en Kilowatttimemaaler, indskudt i
+Samleskinnerne mellem Fødeledninger og Maskiner med
+Batteriet. Jævnstrømscentraler til Sporvogns- og
+Banedrift har ikke Nulleder. Den ene
+Samleskinne er i Reglen jordforbundet (den negative)
+den anden forbundet med Køretraaden,
+Kontaktskinner e. l. paa Banelegemet. Saadanne
+Centralers Dynamoer gaar saa vidt muligt
+stadig fuldt belastet. Belastningen svinger jo
+stærkt for disse e. K. Er Belastningen mindre
+end den, Maskinerne kan taale, giver disse
+foruden til Nettet ogsaa Strøm til Batteriet,
+saaledes at dette oplades. Er Belastningen større,
+end Maskinerne kan taale, overtager Batteriet
+den overskydende Belastning, i Reglen under
+Medvirkning af en særlig elektrisk Maskine
+(<i>booster</i>), der er indskudt i
+Akkumulatorbatteriets ene Samleskinneforbindelse og giver dette
+en Tillægsspænding, afpasset saaledes, at den
+tvinger Batteriet til altid at overtage den Del,
+Belastningen er større end Hoveddynamoernes
+samlede Effekt, og Batteriet fungerer da som
+Pufferbatteri.
+
+En Jævnstrømscentrals elektriske Apparater
+anbringes i en samlet Konstruktion:
+Tavleanlægget (se Fig. 8, der viser Forsiden af et
+saadant). Dette bestaar oftest af en
+Jernkonstruktion, der bærer alle Forbindelsesledninger, i
+Apparatanlægget, Samleskinnerne,
+Reguleringsmodstand o. l. Tavleanlægget anbringes ved en
+af Væggene i Centralens Maskinsal, ell. paa et
+over dennes Niveau anbragt Galeri, saaledes at
+Maskinsalen kan overses fra Tavleanlægget. Den
+mod Maskinsalen vendende Side af
+Tavleanlægget er beklædt med Skifer- ell.
+Marmortavler, der dog paa Tavlens nederste Del i
+Reglen erstattes med Jernplader; alle elektriske
+Maaleinstrumenter, Afbrydere og Haandhjul e.
+l. til Bevægelse af Reguleringsmodstande er
+anbragte i ell. paa Marmor- ell. Skifertavlerne,
+medens alle andre Dele af Apparatanlægget er
+anbragte bag ved og skjulte af disse. Al Kontrol
+af Belastninger, Regulering og Aflæsning
+foregaar ved Tavleanlægget, hvorfra ligeledes alle
+elektriske Maskiner og Akkumulatorbatteriet
+kan sættes ind i ell. ud af Virksomhed.
+Akkumulatorbatteriet anbringes altid i et særskilt
+Rum, oftest bag den Væg i Maskinsalen, ved
+hvilken Tavleanlægget findes.
+
+Som Eksempel paa en større
+Jævnstrømscentral er paa Fig. 9 og 10 gengivet
+
+<img>
+Fig. 12. Nyt Kedelhus i Gothersgade Elektricitetsværk.
+</img>

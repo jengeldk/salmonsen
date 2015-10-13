@@ -1,0 +1,145 @@
+Pladerne er store og stillede nær sammen. Men
+Elementet er ikke saa konstant som Bunsen's,
+og Zinken angribes saa stærkt af Vædsken, at
+den maa løftes op af denne, naar man ikke
+bruger Elementet. Ofte giver man det Form
+af et »Flaskeelement« (Fig. 3), hvor en
+Zinkplade, der kan trækkes op af Vædsken, er
+anbragt mellem to Kulplader, der staar i
+Forbindelse med samme Klemskrue i Flaskens Laag
+og tilsammen danner den positive Pol.
+Elementet egner sig til Frembringelse af stærke
+Strømme i kortere Tid. — De saakaldte <sp>tørre</sp>
+Elementer er mest Ændringer af Leclanche's,
+idet Vædsken ved Fyldning med Gips, Klister
+ell. andre Stoffer er forhindret i at løbe ud,
+naar Elementet vælter. Som et meget anvendt
+Tørelement maa nævnes <sp>Hellesen</sp>'s.
+
+Ved nøjagtige elektriske Maalinger har man
+ofte Brug for et <sp>Normalelement</sp>; hvis
+E. K. er meget nøje kendt. I ældre Tid brugtes
+Daniell's Element en Del som Normalelement,
+og Enhed for E. K. kaldtes ofte en »Daniell«.
+Til finere Maalinger anvendes nu <sp>Latimer
+Clark</sp>'s Element (1,433 Volt ved 15° C.) ell.
+<sp>Weston</sp>'s Element (1,0183 Volt ved 20° C.).
+Glaskarret, hvori et saadant Element befinder
+sig, har ofte Form som et H, d. v. s., det
+bestaar af to lodrette Rør forbundne paa Midten
+ved et vandret Rør. De lodrette Rør er
+tilsmeltede forneden og her forsynede med en
+indsmeltet Platintraad, der tjener som
+Tilledning. Foroven er de tæt tilproppede. Indholdet
+af Latimer Clark's Element er flg.: Den
+positive Poltraad er dækket med rent Kvægsølv,
+den negative med Zinkamalgam. Over
+Kvægsølvet ligger en Dejg af Merkurosulfat (Hg<sub>2</sub>SO<sub>4</sub>),
+over Zinkamalgamet et Lag Krystaller af
+Zinksulfat (ZnSO<sub>4</sub>), og oven over disse Lag i begge
+Rør en mættet Opløsning af Zinksulfat, der
+ogsaa fylder det vandrette Forbindelsesrør.
+Weston's Element har samme Indretning, kun
+er Zinken overalt erstattet af Kadmium (Cd).
+Begge Elementer er særdeles paalidelige, naar
+de fremstilles og behandles paa rette Maade,
+men Weston's har den Fordel, at dets E. K.
+kun forandres yderst lidt med Temp. Den
+synker ved Stuetemp. kun 40 Milliontedele Volt
+for 1° Temperaturstigning, medens det ældre
+Clark-Element forandres c. 30 Gange saa stærkt
+og derfor fortrænges af Weston's.
+
+Naar fl. Elementer forbindes saaledes, at de i
+Forening sender Strøm gennem en ydre Ledning,
+danner de et <sp>Batteri</sp>. Et Batteri (Kæde) af 3
+Bunsen-Elementer er vist i Fig. 4. Kulstangen
+i hvert Element er forbundet med Zinkpladen i
+Naboelementet; den yderste Kulstang til
+venstre og den yderste Zinkplade til højre bliver
+Batteriets Poler. Elementerne siges at være
+forbundne i <sp>Række</sp>; de lægger deres
+elektromotoriske Kræfter sammen, men ogsaa deres
+Modstande, saa at en Række af <i>n</i> Elementer
+baade har <i>n</i> Gange saa stor E. K. og <i>n</i> Gange
+saa stor Modstand som et enkelt Element.
+Denne Forbindelse er god, naar der er stor
+Modstand i den ydre Ledning; det skader da ikke
+meget, at Batteriets Modstand er noget
+forøget, og man behøver en stor E. K. Vil man
+derimod sende en stærk Strøm gennem en
+Ledning, hvis Modstand er ringe i Sammenligning
+med et enkelt Elements, forbindes Elementerne
+<sp>parallelt</sp>, ɔ: alle Zinkpladerne forbindes
+med hinanden ved en tyk Metaltraad, alle
+Kulstængerne ligesaa, og fra disse to Metaltraade
+udgaar den ydre Ledning. Batteriets E. K. er
+ikke større end et enkelt Elements, men
+Modstanden er <i>n</i> Gange saa lille som Elementets.
+Efter Ohm's Lov er Strømstyrken lig Batteriets
+E. K., divideret med Ledningskredsens
+samlede Modstand. Da denne Modstand er Summen
+af Batterimodstanden og den ydre Lednings
+Modstand, er det nyttigt at formindske den
+første, naar den anden er meget lille, selv om det
+sker paa Bekostning af Batteriets E. K. For
+øvrigt bør man her som overalt søge at gøre
+Modstanden i Strømgiveren lille i Forhold til
+Modstanden i den ydre Ledning, da Strømmen
+ellers til ingen Nytte vil anvende en for stor
+Del af sin Energi til at opvarme Strømgiveren
+(Batteriet; en Dynamos Anker). — Som Kilde
+til Energi er et g. B. for saa vidt økonomisk, som
+den Energi, der udvikles ved den kem.
+Virksomhed i Elementerne, næsten helt kan gøres
+nyttig i den ydre Ledning, som Varme (til
+Frembringelse af elektrisk Lys) ell. som
+Arbejde ved Drift af en Elektromotor, medens en
+Dampmaskine maa være god for at kunne
+omsætte 10 % af Kullenes Forbrændingsvarme til
+Arbejde. Men de Stoffer, der forbruges i
+Elementerne, er saa kostbare i Forhold til Kul,
+at det ikke kan betale sig at anvende et g. B.
+til elektrisk Belysning, Sporvognsdrift e. l.
+
+Forsøg paa at anvende billigere Stoffer,
+navnlig Kul i en ell. anden Forbindelse, har hidtil
+ikke ført til praktiske Resultater. — Et
+Elements Kapacitet maales ved det Antal
+Ampèretimer, det kan give, inden Spændingen
+er sunket saa langt ned, at Elementet maa
+regnes for ubrugeligt. Gode Tørelementer kan
+give omkr. 50 Ampèretimer for hvert kg af
+deres Vægt, naar de udlades langsomt.
+
+Naar et g. E. skal modtage Strøm fra en
+fremmed Kilde for at blive virksomt, kaldes
+det et <sp>sekundært Element</sp>. Det virker
+da som et elektrisk Opsamlingsapparat eller
+»Akkumulator« (s. d.). 
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="galvaniske Elementers Teori">
+<b>galvaniske Elementers Teori.</b> I et
+galvanisk Element er det Berøringsfladerne, der
+er karakteristiske for den elektromotoriske
+Krafts Opstaaen, og det er let at indse, at der
+findes 3 forsk. Arter af Berøringsflader. Lad os
+f. Eks. betragte et Element, der bestaar af en
+Zinkstang, der er dyppet i en
+Zinksulfatopløsning. Denne er ved en porøs Skillevæg (f. Eks.
+en Lercylinder) skilt fra en
+Kobbersulfatopløsning, hvori en Kobberstang er neddyppet.
+Elementet kan vi tænke os sluttet ved Hjælp af en
+Kobbertraad, der forbinder Kobberstangen og
+Zinkstangen. Elementet kan kort betegnes:
+<i>Zn|ZnSO<sub>4</sub></i> ⋮ <i>CuSO<sub>4</sub>|Cu</i>.
+
+I Alm. kan et Element af denne Type
+betegnes:
+<i>M<sub>1</sub>|M<sub>1</sub>S</i> ⋮ <i>M<sub>2</sub>S|M<sub>2</sub></i>,
+hvor <i>M<i>1</i></i> og <i>M<sub>2</sub></i> er de to Metaller, <i>S</i> den for
+begge fælles Syrerest. De 3 Berøringsflader
+fremkommer: 1) hvor det ene Metal berører
+det andet <i>M<sub>1</sub>|M<sub>2</sub></i>. 2) hvor den ene Opløsning

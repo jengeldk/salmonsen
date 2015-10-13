@@ -1,0 +1,135 @@
+bagved Legemet ses en Skygge nøjagtig
+ligedannet med Legemet; af dette sidste Forsøg
+indses tillige, at Lysstraalerne har Retning,
+nemlig bort fra Lyskilden. Sendes Sollyset ind
+gennem et lille Hul f. Eks. i en Vinduesskodde,
+vil man paa en Skærm, holdt vinkelret paa
+Straaleretningen, se et cirkulært Billede af
+Solen; paa Skovbunden ser man hyppig
+saadanne Solbilleder, idet Solen kan skinne ned
+gennem smaa Huller i Løvtaget; oftest er disse
+Solbilleder dog elliptiske, da Skovbunden ikke
+staar vinkelret paa Straaleretningen. Under en
+partiel Solformørkelse antager Solbillederne
+samme Form som den lysende Del af Solen.
+Alle disse Forhold forstaas let, naar L. gaar i
+rette Linier, men denne Regel gælder dog kun
+med en vis, ganske vist overordentlig stor,
+Tilnærmelse (se <sp>Bøjning</sp>). — At L. bevæger sig
+med en vis endelig <sp>Hastighed</sp> og ikke
+uendelig hurtigt, blev første Gang paavist 1676
+af Ole Rømer ved Iagttagelse af
+Formørkelserne af en af Jupiters Maaner. Han maalte
+Omløbstiden for denne Maane, medens Jorden
+stod nærmest Jupiter, og beregnede heraf,
+hvornaar Formørkelserne skulde indtræffe hele
+Aaret rundt; det viste sig imidlertid, at
+Formørkelserne indtraf senere og senere i hele den
+Periode (godt 1/2 Aar), i hvilken Jorden fjerner
+sig fra Jupiter; Forsinkelsen var størst (c. 1000
+Sek.), da Jorden var længst borte fra Jupiter,
+og blev derefter mindre og mindre og til sidst
+Nul, naar Jorden igen stod nærmest Jupiter.
+Rømer sluttede heraf, at L. maatte bruge 1000
+Sek. til at gennemløbe Jordbanens Diameter,
+og fandt saaledes L.'s Hastighed (L.'s »Tøven«).
+1727 opdagede Bradley Fiksstjernernes
+Aberration, der ogsaa skyldes L.'s endelige Hastighed;
+men hverken denne ell. Ole Rømer's Metode
+egner sig til eksakt Bestemmelse af
+Lyshastigheden, da de indgaaende Afstande (Jordbanens
+Diameter, Stjernernes Afstande fra Jorden) er
+for daarligt bekendte. Først 1849 lykkedes det
+Fizeau at maale Hastigheden af L. fra en
+jordisk Lysgiver; dette er derefter gjort gentagne
+Gange efter en af Foucault (1862) angivet
+Metode, der senere er betydelig forbedret af
+Michelson (1879) og Newcomb (1882). Princippet
+i denne Metode er flg.: Fra en Spalte sendes en
+Lysstraale hen paa et Spejl <i>S</i><sub>1</sub>, som kan drejes
+hurtigt rundt. Fra <i>S</i><sub>1</sub> gaar Straalen til et fast
+Spejl <i>S</i><sub>2</sub>, kastes derfra tilbage til <i>S</i><sub>1</sub> og videre
+tilbage til Spalten. Naar nu Spejlet <i>S</i><sub>1</sub> roterer
+meget hurtigt, vil dets Stilling, naar det træffes
+af det fra det faste Spejl <i>S</i><sub>2</sub> tilbagekastede L.,
+være lidt forsk. fra den, det havde, første Gang
+Lysstraalen traf det, og følgelig vil den
+tilbagekastede Straale ikke træffe selve Spalten, men
+lidt ved Siden af den. Af denne Flytning,
+Spejlets kendte Omløbstid og Afstanden mellem i
+Spejlene <i>S</i><sub>1</sub> og <i>S</i><sub>2</sub> kan L.'s Hastighed beregnes.
+Resultatet af disse Maalinger er, at
+Hastigheden i det tomme Rum er 29986 · 10<sup>10</sup> cm
+pr Sek. eller meget nær 300000 km i Sek., idet
+denne Hastighed er ens for L. af alle Farver.
+Ved at anbringe et langt Rør med Vand
+mellem Spejlene <i>S</i><sub>1</sub> og <i>S</i><sub>2</sub> viste Foucault,
+at L.'s Hastighed i Vand kun er 3/4 af
+Hastigheden i det tomme Rum; senere er
+saadanne Forsøg ogsaa udførte ved enkelle andre
+Vædsker, bl. a. Svovlkulstof, hvor man direkte
+kunde maale, at Hastigheden er mindre for de
+violette Straaler end for de røde; dette er saa
+meget mere mærkeligt, som man ikke har
+fundet en tilsvarende Hastighedsforskel ved Toner
+af forsk. Højde. Forholdet mellem L.'s
+Hastighed i det tomme Rum og i et ell. andet Legeme
+kaldes vedk. Legemes <sp>Brydningsforhold</sp>;
+dette er altsaa for Vand 4/3, men varierer noget
+med L.'s Farve, idet det er større for de
+violette end for de røde Straaler.
+Brydningsforholdets Størrelse er bestemmende for den
+Retningsforandring, som en Lysstraale lider, naar
+den gaar fra et Medium over i et andet (se
+<sp>Brydning</sp>), og derfor vil ogsaa de forsk.
+Farver afbøjes ulige meget: rødt mindst, violet
+mest. Falder der hvidt L. ind mod en saadan
+Grænseflade, vil det derfor opspaltes i forsk.
+Farver: rødt, orange, gult, grønt, blaat og
+violet med de mellemliggende Overgangsfarver (se
+<sp>Dispersion</sp>). Disse Forhold er først
+undersøgte af Newton, der tillige viste, at hver
+enkelt af Farverne ikke kan opspaltes yderligere
+i ny Farver, samt at alle Farverne igen kan
+forenes til hvidt L.
+
+<sp>Lysteorier</sp>. Ang. L.'s Natur udviklede
+Newton den Hypotese, at det selvlysende
+Legeme udsendte Smaapartikler, som ved deres
+Stød mod Nethinden fremkaldte et
+Lysindtryk. Af denne Emissionsteori følger
+L.'s retlinede Gang som en Selvfølge: saa længe
+Partiklerne gaar i eet og samme Medium, maa
+de i H. t Inertien's Lov følge retlinede Baner.
+Naar de derimod nærmer sig til Grænsefladen
+til et andet Legeme, vil nogle af dem frastødes
+af dette, medens andre tiltrækkes, og paa denne
+Maade lader L.'s Tilbagekastning og Brydning
+sig forklare. Ogsaa Farvespredningen kan
+forklares, idet man tilskriver Partiklerne forsk.
+Masse. Ikke desto mindre er Newton's
+Emissionsteori nu ganske forladt; den fører nemlig
+til, at L. maa gaa hurtigere i et Stof som f.
+Eks. Glas ell. Vand end i det tomme Rum, idet
+jo Glas og Vand skulde tiltrække nogle af
+Partiklerne; men de direkte Hastighedsmaalinger
+af Foucault o. a. viste, at Hastigheden netop er
+mindre i Vand end i det tomme Rum. Omtr.
+samtidig med Newton udviklede Huygens sin
+Bølgeteori (1690). Efter denne Teori er L.
+en Bølgebevægelse, der antoges at foregaa i et
+tænkt Stof, Æteren, som maa gennemtrænge
+alle gennemsigtige Legemer, og alle de for
+enhver Bølgebevægelse (s. d.) gældende Love maa
+derfor finde Anvendelse paa L. Bølgebevægelsen
+karakteriseres særlig ved en endelig
+Udbredelseshastighed, samt ved sin Bølgebredde og
+Amplitude. Udbredelseshastigheden svarer ganske
+til L.'s Hastighed. Tilbagekastning, Brydning og
+dermed Farvespredning forstaas ud fra
+Huygens Princip, nemlig at hvert enkelt Punkt af
+en Bølgeflade kan betragtes som Udgangspunkt
+for ny Elementarbølger, idet der saa tages
+Hersyn til, at den Del af Bølgen, som trænger
+ind i Legemet, vandrer langsommere fremad
+end Bølgerne i det tomme Rum. L.'s forsk.

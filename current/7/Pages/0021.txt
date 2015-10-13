@@ -1,0 +1,133 @@
+Selvinduktionskoefficient. Gnisten er at betragte som
+en kortvarig Vekselstrømslysbue, idet
+Elektrodefladerne holder sig glødende i den korte Tid,
+den varer. At den i spektroskopisk Henseende
+skiller sig noget fra den alm.
+Jævnstrømslysbue, beror paa dens mange Gange større
+Strømstyrke, der er af Størrelsesorden 1000 Ampère.
+Den Varmeudvikling, der finder Sted i Gnisten,
+betyder et Energitab, der gør, at de elektriske
+Svingninger hurtigt dør hen. - Foruden Gnisten
+ved elektriske Svingninger kan ogsaa Gnisten
+fra store Induktorer have Karakter af en
+kortvarig Lysbue. Omvendt kan Gnister, der faas
+ved Udladning af et Leydnerbatteri, godt være
+en Lystaagegnist, hvis man blot sørger for, at
+der er tilstrækkelig stor Modstand i
+Elektrodetilledningerne.
+
+<sp>Glidegnister</sp>. Meget lange Gnister,
+saakaldte Glidegnister, kan man faa ved
+Udladninger langs en fast Isolators ell. Halvleders
+Overflade. Hvis man f. Eks. lader Udladningen mellem
+to spidse Poler (<i>a</i> og <i>b</i>} ske langs en (c. 2 mm tyk)
+Glasplade (<i>G</i>), der paa Bagsiden er belagt med
+Stanniol, med hvilket den ene Pol (<i>a</i>) er i
+Forbindelse (se den skematiske Fig. 3), kan Gnisten
+ved en Spænding paa c. 50000 Volt blive over
+1 m lang, medens den samme Spænding mellem
+to frie Kugler knap vilde give en 2 cm lang
+Gnist. Man forklarer dette saaledes: Naar
+Spændingen sættes pludseligt paa Polerne, af hvilke
+vi for Simpelheds Skyld tænker os <i>b</i> positiv,
+og <i>a</i> og Belægningen afledet til Jord, vil der
+opstaa en Buskstrøm om <i>b</i>. Den Elektricitet, der
+derved strømmer bort fra <i>b</i>, vil bindes af
+Belægningen under Glaspladen, idet denne sammen
+med Gnistbanen danner en Slags Leydnerflaske,
+til hvis Opladning der medgaar en betydelig
+Elektricitetsmængde. Buskstrømmen bliver
+derfor usædvanlig stærk, og dette bevirker atter,
+at dens Bane bliver særlig godt ledende. - Den
+Ejendommelighed, at Ledningsevnen af Luft
+vokser med Strømmen, kendes f. Eks. ogsaa fra
+den elektriske Lysbue. - Naar Buskstrømmen
+<i>bc</i>'s Bane derfor først er dannet, vil der p. Gr.
+a. den gode Ledningsevne kun være ringe
+Spændingsfald i den, og det vil omtr. være som
+om den anvendte Spændingsforskel findes
+mellem Polen <i>a</i> og Buskens Spids <i>c</i>. Denne vil nu
+virke som en ny Elektrode, hvorfra
+Buskstrømmen forplanter sig videre, indtil den naar hen
+til Polen <i>a</i>. Den Hastighed, hvormed
+Udbredelsen sker, er maalt at være af Størrelsesordenen
+100 km/sek. Ogsaa andre lange Gnister, der
+indledes ved stærke Buskstrømme, maa antages
+at udbrede sig paa en lgn. Maade. Hertil hører
+f. Eks. Lynet.
+
+<sp>Kemiske Virkninger af den
+elektriske Gnist.</sp> Den vigtigste af disse i
+atmosfærisk Luft er, at Ilten forener sig med
+Kvælstoffet til Kvælstofilter, en
+Fremstillingsmaade af Kvælstofilter, som nu anvendes i det
+store i den norske Salpeterindustri. (<sp>Litt</sp>.:
+<sp>Müller-Pouillet</sp>, »Lehrbuch der Physik«
+IV, 2, 3 [Braunschweig 1914]).
+<i>E. S. J.</i>
+
+<img>Fig. 3.</img>
+</chapter>
+
+<chapter name="elektrisk Influens">
+<b>elektrisk Influens,</b> d. s. s. <sp>elektrisk
+Fordeling</sp>. Se <sp>Elektrostatik</sp>.
+</chapter>
+
+<chapter name="elektrisk Kapacitet">
+<b>elektrisk Kapacitet,</b> se <sp>Elektrostatik</sp>.
+</chapter>
+
+<chapter name="elektrisk Klokke">
+<b>elektrisk Klokke,</b> se <sp>Ringeapparater</sp>.
+</chapter>
+
+<chapter name="elektrisk Klokkespil">
+<b>elektrisk Klokkespil,</b> se
+<sp>Elektrisermaskine</sp>.
+</chapter>
+
+<chapter name="elektrisk Kondensator">
+<b>elektrisk Kondensator</b> er et til Optagelse
+af en statisk Ladning egnet Apparat, e. K. har
+en meget forsk. Form efter den Anvendelse,
+den er beregnet paa.
+
+<sp>En Glimmerkondensator</sp> bestaar af
+afvekslende Lag af Stanniol og Glimmerblade,
+anbragt oven paa hinanden. Hvert andet
+Stanniolblad er forbundne og danner Kondensatorens
+ene Belægning; de øvrige forbindes og danner
+den anden Belægning. Det hele er presset
+sammen og indstøbt i Parafin. Fig. 1 viser en
+Glimmerkondensator i 4 Afdelinger til Maalebrug.
+En saadan Glimmerkondensator kan taale nogle
+Hundrede Volt.
+
+<sp>Papirkondensatorer</sp> med Papir i
+St f. Glimmer anvendes f. Eks. til
+Telefonanlæg. Fig. 2 viser en ganske billig
+Papirkondensator (hundrede Gange billigere end Fig. 1). Fig.
+3 viser en Kondensator, bestaaende af
+<sp>Metalplader i Olie</sp>. Hver Metalplade danner en
+Sektor paa lidt mindre end 180°. Hver anden
+Plade er forbundne til en Akse, ved hvis Drejning
+Kapaciteten kan varieres. En saadan Kondensator
+er for Eksempel anvendelig ved traadløs
+Telegrafi. - Som Beskyttelsesmiddel ved
+<sp>Højspændingsanlæg</sp> imod momentant
+optrædende farlige Spændinger, der f. Eks. kan
+hidrøre fra atmosfæriske Udladninger,
+Kortslutninger ell. pludselige Afbrydninger, benyttes i
+moderne Anlæg <sp>Kondensatorer</sp>. Der er
+til dette Brug fremstillet Papirkondensatorer,
+der er forarbejdede ved Oprulning af Papirlag
+og Stanniollag under stort Tryk. De fremstilles
+f. Eks. til Driftsspændinger paa 20000 Volt. En
+
+<img>Fig. 1. Glimmerkondensator i 4 Afdelinger.</img>
+
+<img>Fig. 2. Billig Papirkondensator.</img>
+
+
+

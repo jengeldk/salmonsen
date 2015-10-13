@@ -1,0 +1,138 @@
+Udslag er et Maal for Spændingsforskellen
+mellem Kondensatorpladerne, ser man, at denne
+formindskes ved Svovlets Tilstedeværelse. Da <i>B</i>
+er isoleret, er dens og Elektroskopets samlede
+Ladning uforandret. Iflg. Definitionen paa en
+Kondensators Kapacitet som Forholdet
+mellem dens Ladning og Spænding, maa Kapaciteten
+derfor være blevet forøget ved Indførelsen af
+Svovlet. Denne Evne hos Isolatorerne til at
+forøge en Kondensators Kapacitet udtrykkes ved
+deres Dielektricitetskonstant, der defineres som
+det Antal Gange en Luftkondensators Kapacitet
+forøges, naar man lader det paagældende Stof
+helt opfylde Rummet mellem dens Plader. Som
+det senere vil omtales, kan den samme
+Definition ogsaa anvendes overfor ledende Stoffer.
+Forholdet er uafhængigt af Kondensatorens
+Form og Størrelse og udtrykker altsaa alene en
+Ejendommelighed hos Stoffet. For Svovl er D.
+c. 4. D. er her defineret i Forhold til Luft;
+absolut defineres den ved Kapacitetsforøgelsen af
+en lufttom Kondensator; da Luftens D. ved
+normalt Tryk og Temperatur kun er meget lidt
+forsk. fra det tomme Rums (som
+definitionsmæssig er 1), nemlig 1,0006 spiller denne
+Forskel i Alm. ingen Rolle.
+
+Ved Indførelsen af det isolerende Stof med
+D. ε, forøges altsaa Kondensatorens
+Kapacitet ε Gange. Holdes dens <sp>Ladning</sp>
+konstant, bliver dens Spænding ε Gange mindre,
+og da dens elektrostatiske Energi er lig det
+halve Produkt af dens Ladning og Spænding,
+formindskes ogsaa Energien ε Gange. Er det
+isolerende Stof flydende, saa at det kan slutte
+til Pladerne uden Luftmellemrum, vil man
+tillige finde, at den mek. Kraft, hvormed disses
+Ladninger tiltrækker hinanden, er blevet ε
+Gange mindre. Dette kan i øvrigt indses at være
+en Følge af Energiens Formindskelse. Den
+elektriske Energi i Kondensatoren kan nemlig
+tænkes omdannet til Arbejde, ved at man benytter
+sig af den tiltrækkende Kraft paa f. Eks.
+Pladen <i>B</i>, idet <i>B</i> bevæger sig over til Berøring
+med <i>A</i>. Energien maa derfor være lig den
+tiltrækkende Kraft Gange Kraftens Vej, som er
+Pladeafstanden, men da denne er uafhængig
+af det isolerende Stof, maa det være Kraften,
+der er bleven ε Gange mindre.
+
+Holdes derimod <sp>Spændingen</sp> konstant
+ved f. Eks. at forbinde <i>B</i> med et galvanisk
+Batteri, vil ved Isolatorens Indførelse
+Ladningen og dermed ogsaa Energien og den
+tiltrækkende Kraft <sp>forøges</sp> ε Gange.
+
+Denne Isolatorernes Indflydelse paa de
+elektriske Fænomener er fundet af Faraday (1837).
+Det er ogsaa ham, der har givet Isolatorerne
+Navnet, Dielektrika, de dielektriske Legemer,
+for derved at karakterisere dem som de vigtige
+Medier, hvorigennem den tilsyneladende
+elektriske Fjernvirkning udbreder sig. Faraday
+tænkte sig et Dielektrikum som en Samling
+smaa ledende Partikler adskilte ved et absolut
+isolerende Stof. Naar det dielektriske Legeme
+bringes ind i det elektriske Felt mellem
+Kondensatorpladerne, frembringes der en elektrisk
+Fordeling, den dielektriske Polarisation, i hver
+af de smaa ledende Dele, saaledes som det
+er antydet i Figuren. Da Ladningen i
+Smaadelene vil vende i modsat Retning af Pladernes,
+maa de svække de fra disse hidrørende
+elektriske Kræfter og dermed ogsaa Spændingen af
+<i>B</i>. Teorien forklarer saaledes paa en simpel
+Maade Grundforsøget, og det er ogsaa denne
+Teori, blot i en moderniseret Form, som nu er
+alm. antaget. Molekylerne med deres positive
+Kerner og Kredse af negative Elektroner, der
+i normal Tilstand neutraliserer hinandens
+Virkninger udadtil er traadt i Stedet for de
+ledende Smaadele. Under Paavirkning af den
+ydre elektriske Kraft (fra
+Kondensatorpladerne) forskydes disse Ladninger fra deres
+normale Ligevægtsstilling til nye inden for samme
+Molekyl de positive med, de negative modsat
+den elektriske Krafts Retning, hvorved den
+dielektriske Polarisation fremkommer. Jo større
+denne er for en given elektrisk Kraft, desto
+større er D. I nogle Tilfælde, hvor Molekylet
+allerede i normal Tilstand p. Gr. a. usymmetrisk
+Bygning har elektriske Poler, sker der tillige
+en Drejning af Molekylet, ligesom
+Smaamagneterne i Jern drejes ved Magnetisering. De
+dielektriske Legemers Forhold i et elektrisk Felt
+viser i det Hele mange Analogier med de
+magnetiserbare Legemers i et magnetisk Felt.
+Analogt med at Jern trækkes derhen, hvor det
+magnetiske Felt er stærkest, virker der ogsaa
+paa de dielektriske Legemer Kræfter, der søger
+at bevæge dem hen, hvor det elektriske Felt
+er stærkest, i det ovennævnte Forsøg altsaa
+ind mellem Kondensatorpladerne. Derved
+forklares det tilsyneladende Energitab, der fandt
+Sted; den tabte elektrostatiske Energi er omsat
+til Arbejde, idet disse Kræfter har hjulpet til at
+trække Svovlpladen ind imellem
+Kondensatorpladerne. Denne Tiltrækning kan vises paa en
+simpel Maade, hvis de to Plader staar ned i en
+isolerende Vædske, som f. Eks. ren
+Terpentinolie, idet den Del af Overfladen, der befinder
+sig mellem Pladerne, vil hæve sig, saa snart
+Kondensatoren lades. Pladeafstanden maa være
+lille og Spændingsforskellen stor (fra en
+Elektrisermaskine), for at Virkningen skal være
+let iagttagelig.
+
+En særlig Interesse har
+Dielektricitetskonstanten faaet siden Maxwell's Fremsættelse af
+den nu alm. antagne elektromagnetiske
+Lysteori (1863), idet D. iflg. denne er lig
+Kvadratet paa Brydningsforholdet for (uendelig)
+lange elektriske Bølger, naar disse ikke
+absorberes meget stærkt af Stoffet, i hvilket
+Tilfælde Sammenhængen er mindre simpel, og
+dette har ogsaa vist sig at passe. De mange
+Tilfælde, hvor Loven ikke syntes opfyldt, har
+beroet paa fejlagtig Ekstrapolation for
+Brydningsforholdet for Lysbølger til uendelig lange
+Bølger. Et særligt slaaende Eksempel er Vandet,
+hvis Dielektricitetskonstant er c. 81, medens
+Brydningsforholdet for Lysbølger er c. 1,3. En
+Ekstrapolation paa Grundlag af
+Brydningsforholdets Forløb i det synlige Spektrum vilde
+give et endnu mindre Tal. Forklaringen er, at
+Vand viser anormal Dispersion (se
+<sp>Dispersion</sp>) p. Gr. a. dets stærke Absorption i
+Ultrarødt. For elektriske Bølger med nogle

@@ -1,0 +1,134 @@
+Varmeækvivalent; Varmeteoriens 1.
+Hovedsætning, indre Energi; en Luftmasses indre
+Energi; indre Energi af faste og flydende Legemer.
+Kemisk Energi; V. er molekulært uordnet
+Arbejde; Varmeteoriens 2. Hovedsætning;
+reversible og irreversible Processer; Carnot's
+Kredsproces; den absolutte termodynamiske
+Temperaturskala. Clapeyron's Formel; Entropi;
+Entropien af Legemerne i forskellige
+Tilstande; Entropiflytning, den samlede Entropisum
+vokser; Entropiens Forøgelse er Energiens
+Forringelse, Varmedøden; Nernst's Varmeteorem;
+den mekaniske Varmeteoris Anvendelser; den
+kinetiske Varmeteori. Statistisk Mekanik;
+Energisætningen; Entropisætningen, en
+Sandsynlighedssætning. — <sp>Varmelærens Historie</sp>.
+Litteraturfortegnelse.
+
+<sp>Indledning</sp>, <sp>Temperatur og
+Varmemængde</sp>. Vor V.- og Kuldesans viser
+os erfaringsmæssigt, at Legemerne har
+Mulighed for en kontinuerlig Skala af
+Varmetilstande, Temperaturer, som vi karakteriserer ved
+Benævnelser som hedt, varmt, lunkent, koldt
+o. s. v. Det er endvidere en dagligdags
+Erfaring, at et Legeme ved Berøring med et andet,
+varmere Legeme vil blive opvarmet, medens
+det varmere vil afkøles, saaledes at der foregaar
+en Udjævning i deres Varmetilstand. Vi
+bringes derved til at betragte V. som noget, der
+ved Berøring overføres, ledes, fra det varmere
+til det koldere Legeme. Faar Legemerne Lov til
+at være tilstrækkelig længe i Berøring med
+hinanden, og føres der ikke udefra V. til eller fra
+dem, vil de ende med en vis
+Varmeligevægtstilstand.
+
+Saa længe vi er henvist til vore
+Temperatursanser alene, naar vi ikke ud over saadanne
+almindelige kvalitative Erfaringer om V. Først
+den Iagttagelse, at Legemerne udvider sig ved
+V., har muliggjort en kvantitativ
+Karakterisering af Legemernes Varmetilstand. Denne
+Udvidelse er størst og derfor lettest iagttagelig
+hos Luftarterne og kendtes allerede i Oldtiden.
+Den er meget nær ens for alle Luftarter og
+beløber sig ved en Opvarmning ved konstant
+Tryk fra Isens Smeltepunkt til Vandets
+Kogepunkt til Brøkdelen 100/273 af det oprindelige
+Rumfang ved Isens Smeltepunkt. Vædskernes
+Udvidelse, der er forskellig for de forskellige
+Vædsker — Vand trækker sig som bekendt endog
+sammen ved Opvarmning fra 0° til 4° C. —
+er gennemsnitlig noget som 10 Gange mindre
+end Luftarternes. Den blev i 17. Aarhundrede
+anvendt i de første egentlige Termometre, der
+var Sprittermometre. Grunden til at
+foretrække Vædsketermometre for Lufttermometre til
+Trods for Vædskernes mindre Varmeudvidelse
+maa søges i det rent praktiske Forhold, at et
+Vædsketermometer kan udføres som et meget
+mindre Apparat, der er lettere at anvende. De
+faste Legemers Udvidelse er atter c. 10 Gange
+mindre end Vædskernes og er derfor
+vanskeligere at maale. Til Gengæld bevirker netop
+den lille Udvidelse af den faste Beholder, at
+Udvidelsen af Vædsken i den lettere iagttages.
+
+Som et Hovedresultat af Forsøgene med
+Vædsketermometre i Løbet af det 17. og
+Begyndelsen af det 18. Aarhundrede maa først
+nævnes den fundamentale Erfaring, at Legemer i
+indbyrdes Varmeligevægtstilstand viser samme
+Temperatur, maalt ved Termometret. Denne
+Ligevægtslov er noget, som Sanseiagttagelserne
+kun ganske groft fører til, idet
+Sanseindtrykket er betinget ikke blot af Legemets
+Temperatur, men ogsaa af dets Varmeledningsevne.
+Det er saaledes vel bekendt, at naar Metal og
+Træ er i Varmeligevægt ved almindelig
+Temperatur, føles Metallet koldere end Træet. Ved
+Indførelsen af det objektive Temperaturmaal
+forsvandt i det hele taget efterhaanden alle
+saadanne Forestillinger om V., som er begrundet
+i vore Sanseiagttagelsers subjektive Natur, som
+f. Eks. at Kældere skulde være varmere om
+Vinteren end om Sommeren (se
+<sp>Antiperistasis</sp>), eller at nogle Legemer »i sig selv«
+er varme eller kolde, som f. Eks. henholdsvis
+Peber og Salpeter. Endelig gjorde man den for
+Temperaturskalaens Fastlæggelse saa vigtige
+Iagttagelse, at Isens Smeltepunkt og Vandets
+Kogepunkt (ved Normaltryk) er fastliggende
+Temperaturer.
+
+Hvilke Temperaturtal man vil tillægge disse
+Temperatur, og hvilket Legeme man vil
+vælge som Termometerlegeme, er i og for sig
+vilkaarligt, men det var naturligt, at Valget ved
+den internationale Fastsættelse i 1887 faldt paa
+Luftarten Brint. Af de da kendte Luftarter var
+Brinten den mest »ideale« — hvorom senere i
+denne Artikel — og ved at sætte henholdsvis
+0 og 100 ved de omtalte faste Punkter fulgte
+man den ved videnskabelige Maalinger mest
+anvendte Celsiusskala. Det er dog ikke
+Brintens Rumudvidelse, men dens Trykstigning ved
+konstant holdt Rumfang, der definerer
+Temperaturen. Er Brintmassens Tryk ved Isens
+Smeltepunkt <i>p</i><sub>o</sub> (= 1000 mm Kvægsølv), og
+iagttages et Tryk <i>p</i><sub>t</sub>, er Brintmassens Temperatur
+<i>t</i> defineret ved <i>p</i><sub>t</sub> — <i>p</i><sub>o</sub> / <i>p</i><sub>o</sub> = <i>β t</i>, hvor <i>β</i> er en
+Konstant lig 1/273, bestemt ved Iagttagelsen af
+Brintens Tryk ved 100°-Punktet. Sættes
+<i>p</i><sub>t</sub>/<i>p</i><sub>o</sub> = <i>β</i> <i>T</i><sub>b</sub>, bestemmer man derved et andet
+Temperaturtal <i>T</i><sub>b</sub> lig 273 + <i>t</i>, som meget nær
+falder sammen med den senere hen i denne
+Artikel omtalte absolutte termodynamiske
+Temperatur.
+
+Ogsaa andre fysiske Egenskaber, som
+elektrisk Ledningsevne, termoelektrisk Kraft,
+Varmestraaling, kan anvendes til
+Temperaturbestemmelse (se <sp>Termometer</sp>).
+
+Det andet fundamentale Begreb i
+Varmelæren er Størrelsen <sp>Varmemængde</sp>. Det blev
+først klarlagt i sidste Halvdel af 18.
+Aarhundrede. Før den Tid tænkte man sig gerne, at
+lige store Rumfang af forskellige Legemer ved
+samme Temperatur indeholdt samme Mængde
+V. Til Maaling af Varmemængde maa man
+vælge sig et bestemt Normallegeme, som man
+meddeler den Varmemængde, der ønskes maalt, og

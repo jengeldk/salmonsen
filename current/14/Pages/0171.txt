@@ -1,0 +1,157 @@
+<chapter name="Klokkelyd">
+<b>Klokkelyd</b> anvendes som Betegnelse for
+Tidspunktet for Arbejdets Paabegyndelse og
+Afslutning paa Orlogsværftet. K. finder Sted ved
+Værftets Indgange fra 5 Minutter før og til den
+reglementerede Arbejdstid samt fra den
+reglementerede Arbejdstids Ophør i 5 Minutter.
+Tidligere fandt K. ogsaa Sted ved Nyboders Vagt.
+</chapter>
+
+<chapter name="Klokkelyng">
+<b>Klokkelyng,</b> se <sp>Erica</sp>.
+</chapter>
+
+<chapter name="Klokkemetal">
+<b>Klokkemetal,</b> se <sp>Klokke</sp>.
+</chapter>
+
+<chapter name="Klokkeonsdag">
+<b>Klokkeonsdag,</b> dansk og sv. gl. Navn paa
+Onsdag før Paaske; Klokkens Knebel var da
+fastbunden, saa at Klokken ikke kunde lyde.
+</chapter>
+
+<chapter name="Klokkepolypper">
+<b>Klokkepolypper,</b> se <sp>Gopler</sp>.
+</chapter>
+
+<chapter name="Klokker">
+<b>Klokker,</b> se <sp>Kirkebetjente</sp>.
+
+I <sp>Norge</sp> blev K. ell. <sp>Kirkesangeren</sp>
+før Enevældens Indførelse regelmæssig ansat af
+Almuen. Efter den norske Kirkeordinans skulde
+der vælges 6 Valgmænd, som sammen med
+Sognepræsten til Formand udkaarede K. Da
+Menighedsvalget senere faldt bort, blev det
+Biskoppen, ;som beskikkede K.; dette er fremdeles
+Tilfældet. Mg. N. L. 2—15—1 skulde K. om
+mulig være Student, og dette blev overholdt
+i Byerne og i en Del større Bygder paa
+Østlandet i adskillig Udstrækning til ind i 19.
+Aarh. Kirkesangerbestillingerne paa Landet er
+nu som alm. Regel forenet med Lærerposter i
+Folkeskolen; dette er derimod sjælden Tilfældet
+i de større Byer. K.'s Lønningsforhold er
+ordnet ved den gejstlige Lønningslov af 14. Juli
+1897, 6. Kap.
+<i>K. Ø.</i>
+</chapter>
+
+<chapter name="Klokkeringning">
+<b>Klokkeringning.</b> Der gøres Forskel paa
+<sp>Kimning</sp>, den egl. K., hvor hele Klokken
+sættes i Bevægelse, og <sp>Klemtning</sp>, hvor
+Klokken staar stille, og Knebelen slaar mod
+den. Kimningen anvendes ved Gudstjenesten,
+Klemtning som Signal, f. Eks. for Fare
+(Oversvømmelse, Ildsvaade); hvor Klokkerne ikke er
+indrettede til Klemtning, anvendes Kimning
+ogsaa som Signal.
+<i>F. W.</i>
+</chapter>
+
+<chapter name="Klokkeslæt">
+<b>Klokkeslæt</b> er et bestemt Tidsøjeblik
+udtrykt i Timer, Minutter og Sekunder.
+Astronomisk talt er K. det Himmellegemes ell. det
+Punkts Timevinkel, hvorefter Tiden regnes, f.
+Eks. K. efter Middeltid er Middelsolens
+Timevinkel (se <sp>Dag</sp> og <sp>Længdeforskel</sp>).
+</chapter>
+
+<chapter name="Klokkeslæts Observation">
+<b>Klokkeslæts Observation</b> ell.
+<sp>Urstandsobservation</sp> kaldes den Observation, der
+foretages for at komme til Kendskab om
+Kronometrenes (Søurenes) Stand og daglige Gang,
+d. v. s., hvor meget de er forud ell. bagud for
+Greenwichs Middelklokkeslæt, og hvor meget
+de vinder ell. taber hver Dag. Da dette
+Kendskab er nødvendigt til
+Beregning af forsk. Observationer,
+f. Eks. Skibets Længde, maa
+K. anstilles saa ofte, der gives
+Lejlighed dertil. De
+almindeligste K. er flg.: 1)
+Sammenligning med et Normalur, hvis
+nøjagtige Stand og Gang er
+kendt. Et saadant Ur findes f.
+Eks. i Havnevæsenets Bygning
+paa Kbhvn's Toldbod. 2)
+Tidssignal, der bestaar i, at et
+Signal afgives til et bestemt
+Klokkeslæt, som Regel
+Middelmiddag i Greenwich. Signalerne
+er: Kanonskud (ikke nøjagtigt), elektriske
+(telegrafiske eller radiotelegrafiske)
+Lydsignaler, Fald af Kugler ved elektrisk
+Paavirkning m. fl. 3) Observation af
+Himmellegemer. Enhver K. er baseret paa en saadan
+Observation, der, p. Gr. a. den Nøjagtighed,
+der fordres ved Udførelsen, helst maa udføres
+paa et Observatorium, hvorfra Klokkeslættet ad
+en af de ovf. nævnte Veje bringes til alm.
+Kendskab. Paa afsides liggende Steder kan det
+dog blive nødvendigt for Navigatøren selv at
+anstille en K. Observationen foretages i Land
+paa et Sted, hvis nøjagtige Længde og Bredde
+kendes, og bestaar i at finde Stedets
+Klokkeslæt, og dermed Klokkeslættet i Greenwich, da
+Længden kendes, samtidig med at
+Kronometerets Visning noteres. Den almindeligste K. er
+som en Længdeobservation. Solens Højde
+maales over en kunstig Horisont, og ved Hjælp af
+Solens Højde og Deklination samt Stedets
+Bredde beregnes Solens Timevinkel, hvoraf
+Sandtiden udledes, der, rettet for Tidsækvationen og
+Længden, giver Middelklokkeslættet i
+Greenwich. En anden god K. er »korresponderende
+Højder«; den bestaar i at finde Kronometerets
+Visning i det Øjeblik, da Solen kulminerer (er
+paa sit højeste), altsaa Sandmiddag paa Stedet,
+hvilken rettet for Tidsækvationen og Længden
+giver Middelklokkeslættet i Greenwich. Da
+Solen forandrer sin Højde meget lidt, naar den
+er paa sit højeste, kan
+Kulmimationsklokkeslættet ikke bestemmes ved Højdemaaling paa dette
+Tidspunkt, men Observationen maa foretages
+ved at maiale en Række lige store Højder før
+og efter Middag samtidig med, at Urvisningen
+noteres. Den halvforløbne Urtid mellem
+Observationerne lagt til Urvisningen om Formiddagen
+og rettet for en mindre Rettelse p. Gr. a. Solens
+Deklinationsforandrihg giver Urets Visning
+Sandmiddag. Da Kronometrene ikke maa tages i Land,
+maa der, saavel før som efter Observationerne,
+tages en Sammenligning mellem Kronometrene
+og Observationsuret for at bestemme
+Kronometerets Visning i Observationsøjeblikket. K.
+indføres i Observations journalen og benyttes til
+den daglige Beregning af Kronometrenes Stand
+og Gang, der ligeledes indføres i Journalen.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Klokkespil">
+<b>Klokkespil,</b> se <sp>Carillon</sp>; K.,
+<sp>elektrisk</sp>, se <sp>Elektrisermaskine</sp>.
+</chapter>
+
+<chapter name="Klokkestol">
+<b>Klokkestol,</b> Stillads, i hvilket større
+Klokker ophænges og svinger (se Fig.). Da ved
+Ringningen hele Taarnet sættes i Svingninger, maa
+
+<img>Klokkestol.</img>

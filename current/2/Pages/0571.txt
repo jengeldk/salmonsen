@@ -1,0 +1,121 @@
+<img>Bakkehuset.</img>
+
+<chapter name="Bakkestjerne (se Erigeron)">
+<b>Bakkestjerne</b>, se <sp>Erigeron</sp>.
+</chapter>
+
+<chapter name="Bakkesvale">
+<b>Bakkesvale</b> (Digesvale), se <sp>Svaler</sp>.
+</chapter>
+
+<chapter name="Bakketidsel (se Carlina)">
+<b>Bakketidsel</b>, se <sp>Carlina</sp>.
+</chapter>
+
+<chapter name="Bakony Skoven">
+<b>Bakony Skoven</b> [↱båkon<sub>j</sub>], delvis skovbevokset
+Højdedrag i Ungarn, strækkende sig i nordøstlig
+Retning langs Balaton-Søen hen imod
+Donau-Knæet, 80—110 km langt og 30—50 km
+bredt, gennem Komitaterne Zala og Veszprem,
+dannende Grænsen mellem den lille og den store
+ungarske Slette. B. indeholder mange
+Basaltbjerge. De højeste Toppe ligger mod V.
+(Kørøshegy, 713 m, og Somhegy, 653 m). I de
+lavere Dele af B. drives Agerbrug, paa
+Skraaningerne Vinavl og i Skovene en betydelig
+Svineavl. Marmor brydes i flere Stenbrud. —
+B. fortsættes mod NØ. af Vértes-Bjergene.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Baksdæk">
+<b>Baksdæk</b> (Søv.), et Dæk, der ligger oven over
+øverste Dæk forude i Skibet. B. strækker sig fra
+Forstævnen og et Stykke agterefter.
+<i>H. P. C.</i>
+</chapter>
+
+<chapter name="bakse">
+<b>bakse</b> (Søv.), at løfte ved Hjælp af en
+Haandspage e. l. en tung Genstand og forskyde den
+hen ad et Dæk. I gl. Dage <sp>baksede</sp> man
+Kanonerne, ɔ: drejede dem i Siden ved Haandspager
+ell. Taljer; nutildags benævnes Kanonens
+Indstilling i Siden dens <sp>Baksning</sp>, f. Eks.
+skarpeste Baksning forefter vil sige, at Kanonen er
+drejet saa langt forefter, som Skydefriheden
+tillader.
+<i>H. E.</i>
+</chapter>
+
+<chapter name="Baksebom">
+<b>Baksebom</b> kaldes en Bom, sædvanlig af Træ,
+der benyttes til at vugte, bakse ell. løfte
+Kanoner o. l.
+<i>H. H.</i>
+</chapter>
+
+<chapter name="Baksehorn">
+<b>Baksehorn</b> kaldes ved Lavetter en Bolt, der
+staar ud fra Siden af Lavetten og danner en
+Slags Horn, der bruges til at lade en Baksebom
+virke mod, naar man skal flytte Bagenden af
+Lavetten.
+<i>H. H.</i>
+</chapter>
+
+<chapter name="Bakserulle">
+<b>Bakserulle</b> kaldtes ved de ældre Slædeaffutager
+en Rulle, der var anbragt bag paa Raperten
+og tjente til at gøre Bevægelsen rullende i St. f.
+glidende, naar man vilde have Raperten trukket
+tilbage paa Slæden ell. efter Affyringen af et
+Skud igen vilde have den bragt frem paa Slæden.
+Rullen var ikke i Berøring med Slæden, men
+kunde, naar man tyngede ned i en i et Hylster
+paa Rullen anbragt Haandspig, bringes til at
+berøre Slæden, saa at Bagenden af Raperten kom
+til at hvile paa Slæden ved Hjælp af Rullen og
+saaledes, foruden fortil, hvor den altid hvilede
+paa et Par Ruller, ogsaa bagtil kom til at hvile
+paa en saadan.
+<i>H. H.</i>
+</chapter>
+
+<chapter name="Baksgast">
+<b>Baksgast</b> (Søv.), en Mand, der — særlig i
+Sejlskibe — gør Tjeneste forude (paa Bakken og
+Fordækket), i Modsætning til en <sp>Agtergast</sp>,
+der er ansat til Arbejde paa Agterdækket
+(Skansen og Kobryggen).
+<i>H. E.</i>
+</chapter>
+
+<chapter name="Baktericidi">
+<b>Baktericidi</b> (<sp>Bakteriedrab</sp>). Bakterier
+kan dræbes ved saavel kemisk som fysisk
+Paavirkning af meget forsk. Art, men dette regner
+man almindeligvis ikke ind under Begrebet B.
+Dette forbeholdes for Bakteriedrab foraarsaget
+af specifikke Serumbestanddele. B. bliver 
+saaledes nøje beslægtet med <sp>Bakteriolyse</sp>
+(s. d.), om end ikke identisk. Bakteriolyse
+(Opløsning af Bakterier) er altid forbundet med B.,
+hvorimod B. kan findes, uden at Bakterierne
+forandres morfologisk, og da kun lader sig
+konstatere ved Paavisning af de paavirkede Bakteriers
+manglende Forplantningsdygtighed.
+<i>O. T.</i>
+</chapter>
+
+<chapter name="Bakteriefilter">
+<b>Bakteriefilter</b> anvendes til Adskillelse af i
+flydende Medie (f. Eks. Bakteriekultur i Bouillon)
+suspenderede Bakterielegemer og de i
+Vædsken opløste Bakterie-Stofskifteprodukter.
+Da Princippet i B.'s Konstruktion er Opnaaelse af
+et porøst Materiale, hvis Porer er saa smaa,
+at Bakterierne ikke kan gaa igennem, kan B.
+ogsaa benyttes til Sterilisering af Vædsker
+(Vand, Serum etc.). B. bestaar af to

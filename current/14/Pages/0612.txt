@@ -1,0 +1,141 @@
+udelukkende findes Kulilte. Forudsætningen er
+selvfølgelig, at en passende Luftmængde
+indføres i Generatoren og med en passende
+Hastighed, thi Processens hele Forløb afhænger heraf
+og af Kokslagets Højde.
+
+Er Kokslaget for lavt, vil der slaa blaalige
+Flammer ovenud af det, og dette er Tegn paa,
+at <sp>Overskud</sp> af Luft forbrænder den i
+Koksmassens øverste Del værende Kulilte til
+Kulsyre. Er Kokslaget noget højere, men ikke
+højt nok til at reducere den nedenfra kommende
+Kulsyre til Kulilte, vil den producerede
+Gasblanding indeholde for megen Kulsyre
+sammen med Kulilten. Der findes derfor en
+passende Højde, Kokslaget helst skal have. Der
+spiller imidlertid ogsaa andre Forhold ind, og
+navnlig det, at Kulilten ved for lav Temp. igen
+danner Kul og Kulsyre. Dette finder St., naar
+den stærkt ophedede Gasblanding fra
+Koksmassens nederste, stærkest varme Lag naar op til
+de mindre varme Koks oven i Koksmassen, idet
+den varme Gas afkøles ved Passagen gennem
+de mindre varme Koks. Den stedfindende
+Omdannelse af Kulilte til Kulsyre og Kul i
+Koksmassens øverste Lag finder dog St. meget
+langsommere, end Kulilten dannedes i de varmere
+Lag længere nede, og den Gasblanding, der
+undviger ovenud af Koksmassen, vil derfor i
+Virkeligheden indeholde <sp>mere Kulilte</sp>, end
+man egl. at dømme efter Middeltemperaturen i
+Generatoren skulde vente at faa. For øvrigt
+spiller Koksenes Varmeledningsevne ogsaa en
+stor Rolle; ved porøse Koks gaar Varmen
+langsommere ind mod Midten af Koksstykket end
+ved de tætte Koks; ved porøse Koks bliver
+derfor Overfladen hurtig varm, naar
+Gasblandingen stryger forbi, og lette porøse Koks giver
+derfor <sp>hurtigere</sp> Gas med megen Kulilte,
+altsaa god, brændbar Gas, end tætte Koks
+gør.
+
+Jo højere Temp. der holdes i Generatoren,
+des mere undgaas Kulsyre i Gasblandingen, der
+kommer ovenud af Koksmassen, men Temp. er
+meget uensartet fordelt i Generatoren. Underst,
+hvor Luften kommer ind, er der hedest, thi her
+foregaar der fuldstændig Forbrænding; længere
+oppe, hvor det kun er
+Forbrændingsprodukternes Varme, der varmer Koksene op, er Temp.
+lavere, og desto lavere, jo kortere Tid det er,
+siden der sidst fyredes og kolde Koks blev
+fyldt i Generatoren. Den Temp., hvormed
+Gasblandingen gaar bort ovenud af Koksmassen, er
+lavere, jo højere et Lag Koks der er passeret.
+Den svinger oftest mellem 1200—1500° C (der
+erindres om, at der her er Tale om egl.
+Generatorgas).
+
+Teoretisk set vil der, naar tør atmosfærisk
+Luft blæses gennem glødende Koks, dannes en
+Gasblanding indeholdende 34,7 Vol. % CO +
+65,3 Vol. % N<sub>2</sub>, hvilket altsaa bliver
+Sammensætningen af »teoretisk Generatorgas«. I
+Praksis indeholder Koks (og navnlig Kul) andre
+Bestanddele end rent Kulstof, og der vil desuden
+altid være nogen Vanddamp i Generatoren
+sammen med Luften, dels fordi Koksene selv har
+nogen Fugtighed i sig, dels fordi man for at
+kunne løsne Slagger fra Risten maa have nogen
+Vanddamp (f. Eks. en Kasse med Vand, der
+fordamper alene ved Ristens
+Udstraalingsvarme, ell. ved at glødende Koksstykker falder
+ned i Vandet gennem Risten) med op gennem
+Risten. Dette bevirker, at der kommer Brint i
+Generatorgassen, foruden Kulilte og Kvælstof.
+Desuden vil den indeholde Flyveaske, Kul- ell.
+Kokspartikler o. a. (se ndf., Afsnit 3).
+
+Hvis man beregner, hvor meget af det
+anvendte Brændsels Varmeværdi der genfindes i
+den producerede Gas, vil det vise sig at være
+c. 70 %, men dette er <sp>inklusive</sp> den »fri«
+Varme, den producerede Gas indeholder, fordi
+den forlader Generatoren med en høj Temp.
+Hvis Gassen paa Vejen hen til Forbrugsstedet
+køles af, saa er det Tab af Varmeværdi, og
+man maa derfor søge al anvende Gassen saa
+nær Generatoren som muligt. Derfor søger man
+ved Fyring, der navnlig foretages med den her
+under a) omtalte Generatorgas (Fyringsgas), at
+indbygge Generatoren i selve den Ovn, der skal
+ophedes, hvis det ikke af andre Grunde er
+ønskeligt at have Generatoren adskilt fra
+Ovnen. I saa Fald søger man at udnytte den »fri
+Varme« i Gassen til Forvarmning ell. paa
+anden Maade. Det bemærkes, at der ved de ndf.
+under c) (og b) omtalte Produktionsmetoder
+(K., Halvvandgas og Vandgas) opnaas, at den
+producerede Gasblanding ikke har saa megen
+»fri Varme«, fordi den Temp., hvormed Gasser
+forlader Generatoren, ikke er saa høj som ved
+den her under a) omtalte Produktionsmetode.
+Derfor kan Halvvandgas og Vandgas bedre
+ledes længere bort, inden den benyttes, naar
+blot der er sørget for i saa høj Grad som
+muligt under de spec. lokale Forhold at udnytte
+den forholdsvis mindre Mængde »fri Varme«
+til Forvarmning ell. paa anden Maade. Det er
+i Virkeligheden denne Forskel paa det
+udviklede Gasprodukts forholdsvise Indhold af »fri
+Varme« (den Varme, der gaar bort, naar
+Gassen afkøles) og af »bunden Varme« (den
+Varmeværdi, der udvikles, naar Gassen
+forbrændes), der betinger Væsensforskellen
+mellem Gas, der nærmest kun egner sig til Fyring,
+og Gas, der tillige egner sig til Kraft ell. andet
+Brug. Ved Generatorgas vil f. Eks. c. 30 % af
+den til det anvendte Brændsel svarende
+Brændværdi være »fri Varme«, der altsaa kan
+tabes paa Vej til Forbrugsstedet, hvis man ikke
+sørger for, at den udnyttes. Selve den »bundne
+Varme«, Generatorgassens Brændværdi, er c.
+1000 kg ° pr m<sup>3</sup>. For Halvvandgas er den c.
+1200 kg ° og for ukarbureret Vandgas c.
+2300—2800 kg ° (alt af Koks, og Tallene svinger
+forøvrigt stærkt).
+
+Det omtaltes ovf., at man ved Produktion af
+Generatorgas er nødt til af Hensyn til at løsne
+Slaggerne paa Risten at tilsætte nogen
+Vanddamp. Dette bevirker tillige en noget lavere
+Temp. i den underste Del af Brændselsmassen,
+hvad der skaaner det ildfaste Murværk i høj
+Grad. Uden Vanddamp (det er nok at have
+den omtalte Vandkasse under Risten) vilde der
+dannes et gloende hedt Bælte i Generatoren
+lige over Risten. Sætter man mere Vanddamp
+til (f. Eks. Damp, udviklet særlig til dette Brug),
+forskyder Produktionsresultatet sig hen mod
+det under c) omtalte Tilfælde. For bedre

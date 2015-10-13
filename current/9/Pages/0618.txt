@@ -1,0 +1,178 @@
+algebraiske Kurver og Flader ikke er knyttede til
+den algebraiske Karakter.
+
+Det 19. Aarh.'s Matematikere har beskæftiget
+sig meget med de til Grund for Eukleides'
+G. liggende Aksiomer. Af særlig Interesse
+er de ikke-euklidske G.: de hyperbolske
+(Gauss, Lobatschevsky, Bolyai) og den
+elliptiske (Riemann), der viser Undværligheden af
+den euklidske (parabolske) G.'s Parallelaksiom.
+I Stedet for dette, der udsiger, at der gennem
+et Punkt uden for en ret Linie i den ved
+Punktet og Linien bestemte Plan kan trækkes een
+og kun een Linie, som ikke skærer den givne,
+sættes de Antagelser, at der er henh.
+uendelig mange eller ingen ikke skærende Linier,
+medens de andre euklidske Aksiomer i det
+væsentlige opretholdes. En alm. Undersøgelse af
+Aksiomernes indbyrdes Uafhængighed har
+Hilbert givet i »Grundlagen der Geometrie« (1899).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Geometridæ">
+<b>Geometridæ,</b> se <sp>Maalere</sp>.
+</chapter>
+
+<chapter name="geometriske Stils Tid">
+<b>geometriske Stils Tid,</b> en Stil- og
+Tidsperiode i Ornamentikken i oldgræsk
+Kunstindustri, 10.—8. Aarh. f. Kr. F. Den tilhører
+Tiden efter den »mykeniske« Periode og falder i
+det væsentlige sammen med Jernalderens
+Begyndelse og ældste Tid, sagnhistorisk med den
+»doriske Vandring«. G. S. kendes dels fra
+Metalarbejde, dels navnlig i vid Udstrækning fra
+malede Vaser. Ejendommelig for denne Stilart
+er den overvejende Brug af det regelmæssige
+Linieornament: lige Linier og Baand, ofte
+omløbende, Cirkler, Trekantmønstre. Ikke
+usandsynligt er den opstaaet fra det ældgamle, simple
+Stenaldersornament, som har været trængt
+tilbage i den mykeniske Tid, men faar Udvikling,
+da den mykeniske, ægæiske Kultur opløses og
+forsvinder. I den ældste, »geometriske« Tid
+virker Mønstrene vel primitivt, men Teknikken
+staar højt, antagelig taget i Arv fra den
+mykeniske. Det gælder den rene
+Fabrikationsteknik, som ogsaa Formgivningen. Der
+fremstilledes saavel ganske smaa, som meget store Kar,
+op til 1 3/4 m høje, i mangfoldige Former,
+hvoraf de fleste, lidt ændrede, kan genfindes i den
+klassiske Tid. Der kendes forsk.
+Fabrikationscentrer, i en ældre Tid bl. a. Thera, i senere
+Tid ganske særlig Attike. Af de attiske Kar
+er adskillige fremdragne paa
+Dipylongravpladsen ved Athen, hvorefter hele Perioden længe
+bar Navn.
+
+De første Udviklingstrin betegnes af Kors,
+Hagekors, Skakbrætmønstre, samt
+Mæanderbaand, der efterhaanden blev overordentlig
+yndede. Allerede tidligt er der Fasthed og
+Klarhed i Anvendelsen af de simple Motiver; væsentlig
+begrænses Ornamentikken til Karrets øverste
+Halvdel og ordnes her i Bælter og firsidede
+Felter. Der er over Stilen adskilligt af det samme,
+som præger god Bondekunst. Grunden er i
+Reglen gullig, Ornamentet i brunlig, mørk
+Farve. Idet Stilen udvikler sig, indføres Dyr (fra
+det Virkelige, daglige Liv: Hus- og Jagtdyr,
+ikke Løver og Fantasivæsener). Navnlig i den
+senere attiske Kunst kommer hertil undertiden
+Menneskefigurer i Række ell. simple Scener:
+Begravelsesoptog o. l. (de store Kar havde ofte
+Anvendelse ved Begravelser), men ogsaa
+Figuren behandles ornamentalt; kun Liniespillet
+viser Evnen til Iagttagelse af Virkeligheden.
+Plantemotiver mangler næsten helt. Bronzer er
+bl. a. fundne i dybe Lag i Olympia.
+Karakteristisk er den næsten matematiske Strenghed.
+Men der er tillige et alm. Præg af god
+Opbygning, Orden og Fordeling, som siden særtegner
+den store gr. Kunst. Derfor har g. S. T. sin
+særlige Bet. I 7. Aarh. fremkommer en ny,
+orientaliserende Stilart.
+<i>H. A. K.</i>
+</chapter>
+
+<chapter name="geometrisk Middeltal">
+<b>geometrisk Middeltal</b> (mat.) for <i>n</i> Tal er
+den n'te Rod af deres Produkt.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="geometrisk Optik">
+<b>geometrisk Optik,</b> det Afsnit af Lyslæren
+(Optikken), hvori man (i Modsætning til den
+fysiske Optik) uden at gøre sig bestemte
+Forestillinger om Lysets Natur behandler de optiske
+Fænomener saa vidt, som det kan gøres ud fra
+flg. 4 Erfaringssætninger af rent geometrisk
+Indhold: 1) Loven om Lysets retlinede
+Forplantning, 2) Tilbagekastningsloven, 3)
+Brydningsloven, 4) Loven om de enkelte Lysstraalers
+Uafhængighed af hverandre. Paa dette
+Grundlag kan behandles Læren om alle optiske
+Afbildninger (ved Spejl og Linser) og derved om
+de optiske Instrumenter (Lupe, Mikroskop,
+Kikkert, Fotografi- og Projektionsapparat o. s. v.).
+Men Lysstraalerne, som man opererer med i
+den g. O., er kun Abstraktioner, idet jo
+snævrere man gør et Straalebundt, i desto ringere
+Grad følger dets Forplantning de nævnte 4 Love
+paa Grund af Lysets <sp>Bøjning</sp>. Denne er en
+Følge af Lysets Bølgenatur og kan kun
+behandles nærmere, naar man gør sig bestemte
+Forestillinger om denne Natur, altsaa forlader den
+g. O. Derfor kan intet af de nævnte Fænomener
+behandles eksakt i den g. O., og det er
+nødvendigt at kontrollere Resultaternes Rigtighed,
+ell. rettere undersøge, hvor stor Tilnærmelse
+de har til Virkeligheden, ved at gennemføre
+den strengere »fysiske« Behandling, saavidt det
+er muligt. Man finder da, at i de fl. Tilfælde
+giver den g. O.'s Resultater en for Praksis
+tilstrækkelig Tilnærmelse, men over for
+Spørgsmaalet om, hvor fine Enkeltheder de optiske
+Instrumenter kan skelne (Opløsningsevnen for
+Kikkert og Mikroskop), svigter den ganske.
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="geometrisk Progression">
+<b>geometrisk Progression,</b> d. s. s.
+<sp>Kvotientrække</sp>.
+</chapter>
+
+<chapter name="geometrisk Række">
+<b>geometrisk Række,</b> d. s. s.
+<sp>Kvotientrække</sp>.
+</chapter>
+
+<chapter name="geometrisk Sted">
+<b>geometrisk Sted,</b> Alle de Punkter i en
+Plan, der har en vis Egenskab, vil alm. danne
+en Kurve, der indeholder dem og ingen andre
+Punkter; denne Kurve kaldes deres g. S. Paa
+lignende Maade vil i Rummet Punkter med en
+vis Egenskab til g. S. have en Flade. Saaledes
+er det g. S. for Punkter med en given Afstand
+fra et givet Punkt i Planen en Cirkel, i Rummet
+en Kugle, begge med Centrum i det givne
+Punkt. Ved det g. S. for rette Linier med en
+vis Egenskab i en Plan forstaas disse Liniers
+Indhyllingskurve.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Geomys">
+<b>Geomys,</b> se <sp>Gopher</sp>.
+</chapter>
+
+<chapter name="Geonim">
+<b>Geonim,</b> se <sp>Gaon</sp>.
+</chapter>
+
+<chapter name="Geonomi">
+<b>Geonomi,</b> se <sp>Petrografi</sp>.
+</chapter>
+
+<chapter name="Geophagus">
+<b>Geophagus</b> [-fa-], se <sp>Flodlæbefisk</sp>.
+</chapter>
+
+<chapter name="Geophilidæ">
+<b>Geophilidæ</b> [-fi-], se <sp>Skolopendre</sp>.
+</chapter>

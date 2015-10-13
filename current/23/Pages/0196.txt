@@ -1,0 +1,58 @@
+hørende Tegnsystem faaet størst Udbredelse.
+Efter indgaaende Prøver i Aarene 1832—43
+lykkedes det Morse at opnaa Kongressens
+Bevilling paa 30000 Doll. til Oprettelse af en
+Forsøgslinie mellem Washington og Baltimore (c.
+64 km). Forsøgene resulterede i, at
+<sp>Morsesystemet</sp> 1846—47 indførtes overalt i
+Amerika og senere i Europa, hvor det i væsentlig
+Grad har bidraget til
+Telegrafkorrespondancens stærke Tilvækst i Slutn. af forrige Aarh.
+Princippet for en Morsetelegrafforbindelse er
+antydet i Fig. 2. De to Stationer I og II er
+ganske ens indrettede og hver forsynede med et
+Sendeapparat, den saakaldte <sp>Morsenøgle</sp>
+<i>N</i>, et Modtagerapparat <i>M</i> og Batteriet <i>B</i>.
+Morsenøglen er dannet som en Vægtstang, der ved
+Paavirkning med Haanden kan bevæges mellem 
+to Anslagskontakter, hvoraf den ene,
+Arbejdskontakten, er forbundet med Batteriets ene Pol,
+medens den anden, Hvilekontakten, i Nøglens
+Hvilestilling danner Forbindelse gennem
+Modtagerapparatet til Jordpladen <i>J</i>, hvortil
+Batteriets anden Pol er forbundet. I den paa Fig.
+viste Stilling er <i>I</i> i Øjeblikket Sendestation,
+idet Nøglen er nedtrykket. Den udsendte
+Strøm passerer Modtagerapparatets
+Elektromagnet, hvis bevægelige Jernanker <i>A</i> bærer
+en Staalstift, der afsætter et Mærke i en
+forbiløbende Papirstrimmel. Naar Afsenderen
+slipper Nøglen, afbrydes Strømmen og
+Modtagerapparatets Anker trækkes tilbage af
+Fjederen <i>F</i>, saaledes at Længden af det paa
+Papiret afsatte Mærke bestemmes af
+Strømimpulsens Varighed. I Forbindelse med sit
+Apparat angav Morse et Tegnsystem,
+sammensat af forsk. Grupper af kortere og længere
+Impulser. Den nuv. internationale Form for
+dette saakaldte <sp>Morsealfabet</sp> fremgaar
+af Fig. 3. Morsesystemet har p. Gr. a. sin
+Simpelhed og Driftssikkerhed holdt sig
+vedblivende i Brug paa de fleste Forbindelser, hvor
+Trafikken ikke nødvendiggør Anvendelsen af
+de senere fremkomne Systemer. Fig. 4 viser
+en nyere Udførelsesform for Morseapparatet;
+Skrivestiflen er her erstattet med en ombøjet
+Kant paa Ankervægtstangen, der løfter
+Papirstrimlen op mod et roterende Hjul, hvis Rand
+vædes med Farve fra en Filtvalse (angivet af
+Digney 1858). I St f. Stangnøglen i Fig. 2
+benyttes nu ofte Fjedernøglen, Fig. 5, hvor
+Vægtstangen bærer en Bladfjeder, der bevæges
+mellem de to Anslagskontakter. Morsesystemet
+anvendes ofte (særlig ved Jernbanetjeneste) i
+Forbindelse med Hvilestrømsmetoden (se
+
+<img>Fig. 2. Skema for Morsetelegrafforbindelse.</img>
+
+<img>Fig. 3. Morsealfabet.</img>

@@ -1,0 +1,169 @@
+<chapter name="Horgen">
+<b>Horgen</b> ['hårg<sub>ə</sub>n], Flække i schweizisk
+Kanton Zürich, 17 km S. f. Zürich ved den vestl.
+Bred af Zürich-Sø og ved Jernbanelinien
+Zürich—Linththal. (1910) 8000 Indb. H., der er
+omgivet af Enge, Vin- og Frugtbjerge, har
+betydelig Silkevæveri samt Møbelfabrikation.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Horgos">
+<b>Horgos</b> ['horgo∫], Bykommune i det
+mellemste Ungarn, Komitatet Csongrád, Knudepunkt
+paa Banen Szegedin—Maria Theresiopel, med
+c. 7500 magyariske Indb.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Horisont">
+<b>Horisont</b> (gr., af όριζω, begrænser),
+benævnes den Cirkel, hvori det for en Iagttager, der
+befinder sig ude paa aabent Hav, ser ud som
+den halvkugleformede Himmel og
+Jordoverfladen træffer hinanden — den synlige
+(naturlige) H. ell. <sp>Kimmingen</sp>. Iagttageren staar
+i denne Cirkels Centrum. I Astronomien
+forstaar man ved H. den Cirkel, hvorefter et paa
+Vertikallinien lodret Plan gennem
+Himmelkuglens Centrum skærer denne. Lægges Planet
+gennem Iagttagelsespunktet ved Jordens
+Overflade, har man den <sp>apparente</sp> H.; gaar det
+gennem Jordens Centrum, har man den <sp>sande</sp>
+H. For Fiksstjernerne falder p. Gr. a. deres
+store Afstande den apparente og sande H.
+sammen; for Himmellegemer, der er Jorden
+nærmere, er dette ikke mere Tilfældet, og
+en saadan Klode kan allerede være over den
+sande H. og samtidig et Stykke under den
+apparente. Den Vinkel, et Himmellegeme maa
+staa over den sande H. for at ses lige i den
+apparente H., kaldes dets
+<sp>Horisontalparallakse</sp> (se <sp>Parallakse</sp>); for Maanen
+er den 57′. H. skærer Meridianen i Nord- og
+Sydpunktet, Ækvator i Øst- og Vestpunktet.
+For at maale en Stjernes Afstand fra H. ɔ:
+dens Højde, bruges ofte ved
+Refleksionsinstrumenter, f. Eks. Spejlsekstant, til Lands en
+<sp>kunstig</sp> H., som bestaar af et horisontalt
+Planspejl. Lettest tilvejebringes dette ved
+Hjælp af en Vædske, f. Eks. Kvægsølv, hvis
+Overflade, naar den er i Ro, p. Gr. a.
+Tyngden altid stiller sig horisontalt. Til Søs maales
+Højden fra den synlige H. — Grænsen mellem
+Himmel og Hav —; men da denne ligger
+under den astron. H., maa den maalte Højde
+formindskes med den Vinkel, Sigtelinien til den
+synlige H. danner med Sigtelinien til den
+astron. — <sp>Depressionen</sp> eller
+<i>Kimmingdalingen</i> (<i>K</i>). Denne afhænger af
+Øjets Højde over Jorden og Jordens Radius;
+p. Gr. a. Refraktionen vil imidlertid
+Kimmingdalingens sande Værdi være mindre end
+dens teoretiske, i Middel omtr. 1/16 af den af
+den teoretiske Formel <i>cos</i> <i>K</i> = <i>R</i>/(<i>R</i> + <i>h</i>)
+udledede Værdi, hvor <i>h</i> er Øjets Højde og <i>R</i>
+Jordens Radius. Angives H. i m, kan <i>K</i> sættes
+= 1,93 √<i>b</i>, men da Refraktionen varierer
+baade med Dags- og Aarstiden, vil den af dette
+Udtryk beregnede Værdi for Kimmingdalingen
+kunne afvige i større ell. mindre Grad fra
+den sande; for en Højde ikke over 10 m vil
+dog Usikkerheden sjælden overstige 0,5′.
+Kimmingens Afstand, udtrykt i Sømile (1 Sømil =
+1852 m), er = 2,07 √<i>h</i>, hvor <i>h</i> er udtrykt i
+m. I dette Udtryk er der taget Hensyn til
+Refraktionen, men ikke til Jordens Afvigelse
+fra Kugleformen, der først ved meget
+betydelige Højder vil have mærkbar Indflydelse.
+Udtrykket for Kimmingens Afstand kan benyttes
+til at beregne, hvor langt man er fra en
+Fjeldtop ell. et Fyr, som man netop ser i
+Kimmingen, og som har en Højde over Jorden = <i>h'</i>,
+medens man selv staar i en Højde = <i>h</i>. Den
+søgte Afstand, udtrykt i Sømile, er = 2,07
+(√<i>h'</i> + √<i>h</i>). I Søkalendere og nautiske
+Haandbøger er der Tabeller for Kimmingdalingens
+Størrelse efter Øjets Højde.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="horisontal">
+<b>horisontal</b> (vandret). Et Plan, der er
+vinkelret paa Tyngderetningen (Lodlinien), siges
+at være vandret; stillestaaende Vands
+Overflade angiver et vandret Plan. En Linie, der er
+vinkelret paa Tyngderetningen, siges ligeledes
+at være vandret; den ligger altsaa i et vandret
+Plan.
+<i>H. V. N.</i>
+</chapter>
+
+<chapter name="Horisontalboremaskine">
+<b>Horisontalboremaskine,</b>
+Cylinderboremaskine med vandret liggende Borstang.
+<i>F. W.</i>
+</chapter>
+
+<chapter name="Horisontalpendul">
+<b>Horisontalpendul,</b> et Pendul, som drejer
+sig om en Akse, der er meget nær lodret,
+modsat det alm. Pendul, der drejer sig om en
+vandret Akse. Var Aksen fuldkommen lodret,
+vilde H.'s Tyngdepunkt være bundet til at
+bevæge sig i et vandret Plan, og Pendulet vilde
+være i Hvile i enhver af sine Stillinger, naar
+da ikke mdre Kræfter end Tyngden virkede
+paa det. Lader man Aksen hælde lidt, vil
+Tyngdepunktets Bevægelsesplan ogsaa komme
+til at hælde, og Pendulet søger over til den
+Side af Planet, der ligger lavest. Bevægelser
+af Aksen, der ligger i det lodrette Plan
+gennem Aksen, vil ikke ændre Pendulets
+Beliggenhed, men faar Aksen en lille Hældning til
+højre ell. venstre Side af dette Plan, vil
+Pendulet dreje sig for at opsøge den Stilling, der
+nu er lavest. Er Opstillingen meget fin, Aksen
+altsaa fra først af meget nær lodret, kan et H.
+gøre kendelige Udslag for en Forandring i
+Aksens Retning, der kun beløber sig til en
+Brøkdel af et Buesekund. Et H. i Forbindelse med
+en Indretning til ad fotografisk Vej at optegne
+dets Bevægelser kan derfor bruges til
+Paavisning af meget smaa Forandringer i Lodliniens
+Retning ell. Bevægelser i Jordskorpen
+fremkaldte ved fjerne Jordskælv, ved Tidevande
+ell. andre Aarsager.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Horisontalplan">
+<b>Horisontalplan</b> kaldes et Plan, der er
+vinkelret paa Tyngderetningen (Lodlinien).
+</chapter>
+
+<chapter name="Horisontalprojektion">
+<b>Horisontalprojektion,</b> en Figurs Projektion
+ell. Billede paa et horisontal (vandret) Plan,
+idet Sestraalerne er lodrette (se
+<sp>Deskriptivgeometri</sp>).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Horisontaltryk">
+<b>Horisontaltryk</b> kaldes det vandrette
+Sidetryk, som en Hvælving ell. Jernbue udøver paa
+Pillerne. Størrelsen af H. kan kun i de
+færreste Tilfælde (ved Tre-Charniers-Buer)
+bestemmes ved de statiske Ligevægtsbetingelser alene,
+men medens man nu er klar over, at man i
+saa Fald maa tage de alm. Elasticitetsligninger
+til Hjælp, har man tidligere hjulpet sig med
+forsk. Postulater, f. Eks. om »det mindste H.«
+o. l.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Horisontalvinkel">
+<b>Horisontalvinkel</b> er egentlig en Vinkel, hvis
+Ben begge ligger i samme vandrette Plan, men

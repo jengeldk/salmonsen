@@ -1,0 +1,96 @@
+mere jævn og opnaaede dette ved at bygge 5
+Maskiner, som Clarke's, sammen paa samme
+Aksel. Hvert Anker havde sin todelte
+Kommutator. De 5 Ankre var drejede saaledes i
+Forhold til hverandre, at de kommuterede
+efterhaanden, og de var alle forbundne i Serie. Det
+næste Skridt var, at Staalmagneterne i saadanne
+Maskiner erstattedes af Elektromagneter, som fik
+Strøm fra et Batteri af galvaniske Elementer.
+
+1851 foreslog Nordmanden <sp>Sindsteden</sp>
+at anvende en lille magnetoelektrisk Maskine til
+at magnetisere Elektromagneten paa en større
+Maskine og eventuelt anvende denne til
+Magnetisering af en endnu større Maskine.
+
+1851 fremkom Danskeren <sp>Søren Hjorth</sp>,
+som i England havde bygget en Elektromotor,
+og nu havde Brug for en kraftig
+Elektricitetskilde til at levere Strøm til Motoren, med
+Forslag om et »tørt Batteri«, som han kaldte det,
+en elektrisk Generator, ved hvilken han
+<sp>anvendte Generatorens egen Strøm
+til Magnetisering af dens
+Elektromagneter</sp>. (Ang. Søren Hjorth henvises til
+<sp>Sigurd Smith</sp>: »Søren Hjorth,
+Dynamoprincippets Opfinder«, udg. af elektroteknisk
+Forening, Kbhvn 1911).
+
+Imidlertid lykkedes det ikke Søren Hjorth at
+føre sin Opfindelse ud i Livet, og først en
+Aarrække senere blev Dynamoprincippet
+genopfundet og bragt til Anvendelse omtr. samtidig 1867
+af <sp>Wheatestone</sp> i England og <sp>Werner
+Siemens</sp> i Tyskland. Siemens indførte
+Benævnelsen dynamoelektrisk Maskine for Maskiner
+med Selvmagnetisering til Forskel fra de
+magnetoelektriske Maskiner med Staalmagneter.
+
+I øvrigt er det Siemens' Fortjeneste at have
+opfundet en ny Form for Anker. Medens man
+hidtil havde anvendt den allerede fra Clarke
+kendte Form, opfandt Siemens 1856 det
+saakaldte <sp>Dobbelt-T-Anker</sp> (Fig. 5), der bestaar
+af en Jerncylinder med to brede Noter, hvori
+Beviklingen er lagt paa langs, idet man vikler
+frem gennem den ene Not, derpaa tværs over
+Endefladen og tilbage gennem den anden Not
+o. s. v. Jerntværsnittets Form har givet
+Ankeret Navn. Det anvendes endnu den Dag i
+Dag til Ringeinduktorer i Telefonapparater, til
+Gnisttænding ved Benzinmotorer o. l. Siemens'
+Anker betød et væsentligt praktisk Fremskridt,
+idet Magnetkraftlinierne samledes mere gennem
+Ankeret og saaledes udnyttedes bedre end før.
+
+Imidlertid blev dette ikke den endelige
+Ankerform. 1861 byggede Prof. <sp>Pacinotti</sp> i Pisa
+en lille Elektromotor (Fig. 6), i hvilken Ankeret
+bestaar af en Jernring med 16 Tænder. I
+Mellemrummene mellem Tænderne, adskilte ved
+Trækiler, vikledes 16 Spoler, alle i samme
+Retning, og alle Spoler forbandtes fortløbende.
+Nedenunder anbragtes en Kommutator med 16
+Lameller, hver forbundet med Slutn. af en Spole
+(og Beg. af den næste). Strømmen førtes til og
+fra Ankerbeviklingen gennem to Metalfjedre,
+som berørte diametralt modsatte Punkter af
+Kommutatoren. Elektromagneten havde
+cirkelbueformede Polsko, der sluttede til Ringen fra
+modsatte Sider med et smalt Luftrum imellem.
+<sp>Pacinotti's Ringanker</sp> kom dog ikke
+til praktisk Anvendelse.
+
+1869 genopfandt <sp>Gramme</sp> uafhængig af
+Pacinotti <sp>Ringankeret</sp>. Gramme havde
+som Svend arbejdet ved »Alliance«-Selskabet i
+Paris (Nollet's Maskine) og var derved kommet
+til at spekulere over Forbedringer af de
+elektriske Maskiner. Hans Anker var et glat
+Ringanker (uden Tænder). Det lykkedes Gramme at
+finde forstaaende Mænd, som skaffede Kapital til
+Veje til Udnyttelse af Opfindelsen. Fig. 7 viser
+en D. omtr. saadan, som den udførtes af
+Gramme-Selskabet. Som man ser, er den fuldt ud
+teknisk gennemarbejdet.
+
+Med Siemens Dobbelt-T-Anker som
+Udgangspunkt opfandt <sp>Hefner v. Alteneck</sp> 1873
+<sp>Tromleankeret</sp>, ved hvilket Beviklingen
+er lagt paa Overfladen af en Cylinder fordelt
+i et Antal Spoler, af hvilke enhver begynder
+
+<img>Fig. 5.</img>
+<img>Fig. 6.</img>
+<img>Fig. 7.</img>

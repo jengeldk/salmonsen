@@ -1,0 +1,128 @@
+have, at <i>e E</i> = <i>e v H</i> ell. <i>v</i> = <i>E/H</i>. Naar <i>v</i> er
+fundet, bestemmes dernæst <i>e/m</i>.
+
+Foruden de her nævnte Metoder har man
+anvendt fl. andre, der dog ikke skal omtales.
+Nyere Præcisionsbestemmelser af <i>e/m</i> er udført
+af <sp>Bestelmeyer</sp>, <sp>Bucherer</sp>,
+<sp>Classen</sp> o. a. De har givet Værdien <i>e/m</i> = 1,76·10<sup>7</sup>,
+der antages at være rigtig med en Nøjagtighed
+af c. 1 %.
+
+4. <sp>Frembringelse ell. Forekomst
+af Elektronstraaler</sp>. a) <sp>Alm. K.</sp>
+Eksperimenter af <sp>Villard</sp> synes at vise, at
+Elektronerne frigøres fra Katoden i et alm. K.-Rør,
+derved at denne bombarderes af positive Ioner.
+Det stærke Felt tæt ved Katoden giver
+Elektronerne deres store Hastighed, b)
+<sp>Sekundære K</sp>. I et Udladningsrør kan K. dog ogsaa
+opstaa paa anden Maade. Har Røret en
+Indsnævring, vil der her danne sig et stærkt Felt,
+i hvilket de ved Ionisation af Luftmolekylerne
+frigjorte Elektroner opnaar en betydelig
+Hastighed (<sp>Striktions-K.</sp>). Gennembores Anoden,
+faas bag denne en Strøm af Elektroner, som i
+Anodefaldet har opnaaet stor Hastighed
+(<sp>Anodekanalstraaler</sp>). Bestraales et fast Stof
+med K., vil det i Alm. udsende sekundære
+Elektronstraaler, hvis Hastighed er betydelig
+mindre end de primæres (se ndf.). c)
+<sp>Lyselektriske K.</sp> Alle Stoffer udsender ved
+Bestraaling med elektromagnetiske Bølger (Lys-,
+Røntgen- ell. γ-Straaler) Elektroner med en
+kinetisk Energi, som vokser proportionalt med
+Straalingens Frekvens (se
+<sp>Lyselektricitet</sp>). Med synligt ell. ultraviolet Lys er
+Elektronernes Hastighed meget ringe i Forhold til
+Hastigheden af alm. K., men man kan let give
+dem enhver ønsket Hastighed ved at lade dem
+løbe gennem et passende elektrisk Felt. Ved at
+passere gennem en Spændingsforskel <i>V</i> opnaar
+en Elektron, der opr. ingen kendelig kinetisk
+Energi har, en kinetisk Energi 1/2 <i>m</i> <i>v</i><sup>2</sup> = <i>e V</i>
+og altsaa en Hastighed <i>v</i> = √2 <i>e/m</i> <i>V</i>. Indsættes
+Værdien for <i>e/m</i>, faas <i>v</i>—5,95·10<sup>8</sup> √<i>V</i> cm/set, hvor
+Talfaktoren dog er beregnet, saaledes at <i>V</i> er tænkt
+maalt i Volt. I St f. at anføre Elektroners
+Hastighed anfører man ofte den Spændingsforskel,
+gennem hvilken de maa løbe for at opnaa
+Hastigheden, d) <sp>Gløde-K.</sp> Glødende Legemer
+afgiver Elektroner i et Antal, som vokser uhyre
+stærkt med stigende Temp. <sp>Richardson</sp>,
+som har underkastet denne Elektronemission
+indgaaende Undersøgelser, angiver for
+Størrelsen af den Elektronstrøm, som kan afgives fra
+en Overfladeenhed af et glødende Legeme,
+Formlen <i>I</i> = <i>A</i> √<i>T e</i>÷<i>B/T</i>, hvor <i>A</i> og <i>B</i> er
+Konstanter, som afhænger af Stoffets Art og
+Overfladens Beskaffenhed, og <i>T</i> den absolutte
+Temperatur. Den gennemsnitlige Hastighed, hvormed
+Elektronerne udsendes, stiger med
+Temperaturen, men den er i alle Tilfælde forsvindende i
+Forhold til Hastigheden af alm. K. Efter
+<sp>Wehnelt</sp> anvendes ofte som Katode en glødende
+Platinstrimmel, hvorpaa er anbragt en Plet af
+et Metaloxyd; dette forøger nemlig
+Elektronemissionen i høj Grad. Nu anvendes dog
+næsten altid Glødekatoder, bestaaende af en
+Traad af et tungtsmelteligt Metal, f. Eks.
+Wolfram. Traaden holdes glødende ved en
+elektrisk Strøm. Ved tilstrækkelig høj Temperatur
+kan man faa Elektronstrømme paa fl. Ampère
+pr cm<sup>2</sup> af Glødekatodens Overflade. I Praksis
+vil dog ofte den Strøm, man faar, ikke være
+bestemt af Glødetraadens Temp., naar denne
+blot ikke er for lav, men af
+Spændingsforskellen mellem Katoden og Anoden, Afstanden
+mellem dem og deres Form. Dette Forhold er
+opdaget af <sp>Langmuir</sp>, som har vist, at det
+skyldes Frastødning mellem Elektronerne
+indbyrdes. Naar Elektronstrømtætheden er stor,
+vil der foran Katoden være en stor rumlig
+Tæthed af Elektroner, som vil virke frastødende
+paa de Elektroner, som frigøres ved Katoden,
+og derved forhindre en større ell. mindre Del
+af dem i at forlade denne. De under c) og d)
+omtalte Metoder til Fremstilling af K. har stor
+Bet. derved, at K. kan frembringes i vilkaarlig
+højt Vakuum. Med lysbestraalet Katode ell.
+Glødekatode har man den Fordel, at man let
+kan give K. den Hastighed, man ønsker. Til
+Fremstilling af K. anvendes nu oftest
+Glødekatode, da man med en saadan kan opnaa
+stærke Elektronstrømme, d) Ved mange
+<sp>kemiske Processer</sp> frigøres Elektroner. Disse
+Forhold er kun daarlig undersøgt og skal ikke
+omtales nærmere, e) <sp>β-Straaler</sp>. Disse
+Straaler, som udsendes af en stor Del af de
+radioaktive Stoffer, har vist sig at bestaa af
+Elektroner med meget store Hastigheder, op til
+over 99 % af Lyshastigheden. De vil blive
+nærmere omtalt under Radioaktivitet.
+
+5. <sp>Elektronmassens
+Afhængighed af Hastigheden</sp>. At alle de ovenfor
+omtalte Straaler virkelig ligesom alm. K.
+bestaar af frie Elektroner, fremgaar deraf, at
+man for dem alle ved Afbøjningsforsøg har
+fundet samme Værdi for Forholdet <i>e/m</i> mellem
+deres Ladning og Masse som det, der var
+fundet for <sp>K. Kaufmann</sp> fandt dog 1901, at
+<i>e/m</i> for β-Straaler er noget mindre end for alm.
+K., og at det er desto mindre, jo hurtigere
+β-Straalerne er. Senere har man ogsaa for
+alm. K. fundet en svag Variation af <i>e/m</i> med <i>v</i>,
+og man forklarer disse Forhold ved at antage,
+at en Elektrons Masse ikke er konstant, men
+vokser med Elektronens Hastighed. Massens
+Variation er kun ringe, saa længe
+Elektronhastigheden er lille i Forhold til
+Lyshastigheden, men naar Elektronens Hastighed
+nærmer sig Lysets Hastighed, vokser Massen
+hurtig mod uendelig. Nærmere herom, se under
+<sp>Elektron</sp>.
+
+6. <sp>Vekselvirkning mellem K.</sp> og
+<sp>Materie</sp>. Som omtalt finder der en delvis
+<sp>diffus Refleksion</sp> af K. Sted, naar de

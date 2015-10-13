@@ -1,0 +1,45 @@
+Fortegnelse over nye Navne, som Gader,
+Broer m. m. har faaet efter Revolutionen.
+
+<table>
+<td c>Gamle Navne:<td c>Nye Navne:
+<td>Aleksandrovskij Park<td>Park Imeni Lenina
+<td>Aleksandrovskij Prospekt<td>Prospekt Pis. Dobroljubova
+<td>Aleksandrovskij Sad<td>Sad Trudjashchikhsja
+<td>Bassejnaja Ulica<td>Ulica Nekrasova
+<td>Besborodkinskij Prospekt<td>Kondrakewskij Prospekt
+<td>Birzhevoj Most<td>Most Stroitelej
+<td>Bolshoj Prospekt (Petr. st.)<td>Prospekt Karla Libknechta
+<td>Bolshoj Prospekt (Vassilij Ostrov)<td>Prospekt Proletarskoj Pobedy
+<td>Dvorsovyj Most<td>Respublikanskij Most
+<td>Galernaja Ulica<td>Krasnaja Ulica
+<td>Gorokhovaja Ulica<td>Kommisarovskaja Ulica
+<td>Izmajlovskij Prospekt<td>Prospekt Krasnykh Komandirov
+<td>Kadetskaja Linaja<td>S'ezdovskaja Ulica
+<td>Kalashnikovskij Prospekt<td>Prospekt Bakunina
+<td>Kamennoostrovskij Prospekt<td>Ulica Krasnykh Zor
+<td>Kavalergardskaja Ulica<td>Ulica Krasnoj Konnicy
+<td>Litejnyj Prospekt<td>Prospekt Volodarskogo
+<td>Most Petra Velikogo<td>Okhtenskij Most
+<td>Nevskij Prospekt<td>Prospekt 25. Oktjabrja
+<td>Nikolaevskaja Nab.<td>Nab. Lejt. Shmidta
+<td>Nikolaevskaja Ulica<td>Ulica Marata
+<td>Nikolaevskij Most<td>Most Lejtenanta Shmidta
+<td>Njustadskaja Ulica<td>Lesnoj Prospekt
+<td>Rizhskij Prospekt<td>Prospekt Ogorodnikova
+<td>Sadovaja Ulica<td>Ulica 3. Ijulja
+<td>Sampsonievskij Most<td>Most Svobody
+<td>Sergievskaja Ulica<td>Ulica Kompozit. Chajkovskogo
+<td>Shpalernaja Ulica<td>Ulica Voinova
+<td>Suvorovskij Prospekt<td>Sovetskij Prospekt
+<td>Tavrichekaja Ulica<td>Ulica Sluckogo
+<td>Troickij Most<td>Most Raventsva
+<td>Universitetskaja Linija<td>Linija Im. Prof. Mendeleeva
+<td>Voznesenskij Prospekt<td>Prospekt Majorova
+<td>Zabalkanskij Prospekt<td>Mezhdunarodnyj Prospekt
+</table>
+Most = Bro.
+Naberezhnaja (Nab.) = Kaj.
+Prospekt = bred og lang, lige Gade.
+
+<img></img>

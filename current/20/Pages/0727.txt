@@ -1,0 +1,107 @@
+Firmaet Philips indført Metalcoolidgerør i
+Praksis, men endnu haves næppe videre
+Erfaring dermed. I Coolidgerør kommer ingen
+Fluorescens af Glasvæggen eller Glasstraaling,
+da Væggen lades positivt og derfor frastøder
+Elektronerne. Da Røret er lufttomt, tabes
+Ladningen paa Glasvæggen ikke. — Den nødvendige
+høje Spænding til Drift af R.-rør faas fra en
+Induktor ell. Højspændingstransformator.
+Induktoren (mest med Gasafbryder) er bedst
+egnet til Drift af Ionrør, især
+Symmetriinduktoren, der bestaar af to ens Halvdele,
+hvorimellem Røret indskydes. Derimod egner den sig
+mindre godt til Coolidgerør. Hertil bruges
+Højspændingstransformatoren, der leverer
+højtspændt Vekselstrøm op til 200000 Volt (200
+Kilovolt) ell. mere. Da et Coolidgerør kun tillader
+Strøm at passere den rigtige Vej, idet der ellers
+ingen Elektroner er til Raadighed, behøves ikke
+særlig Ensretter, men den bruges dog hyppigst.
+Den er enten en saakaldt mekanisk roterende
+Ligeretter, der drives af en Motor, der løber
+synkront med Vekselstrømmen (eventuelt selve
+Vekselstrømsgeneratoren) og skifter den
+højtspændte Strøm paa de rette Tidspunkter, eller
+et Elektronrør (Kenotron), der er indrettet
+omtr. som et Coolidgerør. Indskydes tillige store
+Kondensatorer (Leydnerflasker e. l.), kan der
+leveres praktisk talt konstant højtspændt Strøm.
+Saadanne Anlæg, der først er indført i større
+Stil af Siemens & Halske (»Stabilivolt«, Fig. 5)
+for faa Aar siden; leveres nu af mange Firmaer
+og vinder mere og mere Udbredelse, da de
+frembyder mange Fordele. I Amerika bruges
+de dog endnu ikke meget, hvorimod
+Transformatorer med roterende Ligeretter der har
+naaet en meget høj Udvikling.
+
+R.'s <sp>Egenskaber</sp>. R.'s Tilstedeværelse
+konstateres, ved at de kan paavirke en fot.
+Plade og i det hele har kem. Virkninger, ved
+at de kan fremkalde Fluorescens, d. v. s. faa
+visse Stoffer (Bariumplatincyanur og
+Kalciumwolframat) til at udsende Lys, og endelig ved
+at de gør Luften, som de passerer igennem,
+ledende for Elektricitet, ioniserer den. De to
+første Virkninger benytter man sig af ved nogle
+af de vigtigste praktiske Anvendelser, men den
+tredie egner sig bedst til kvantitative Maalinger.
+Princippet i saadanne Maaleanordninger er
+omtalt i <sp>elektrisk Strøm i Luftarter.</sp>
+En anden i Medicinen anvendt Metode til
+Maaling af R.'s Styrke beror paa, at de har samme
+Virkning paa Stoffet Selen som Lys, nemlig at
+nedsætte dets elektriske Ledningsmodstand.
+Ogsaa andre af deres kem. Virkninger benyttes til
+Maalinger, saaledes deres Evne til at afvande
+Bariumplatincyanur og derved ændre dets
+Farve. Anvendelsen af R.'s Evne til at fremkalde
+Fluorescens sker i (Radioskopien) saaledes, at
+der foran R.-røret og vinkelret paa Straalerne
+holdes en Papskærm belagt paa Forsiden med
+Bariumplatincyanur; mellem Røret og Skærmen
+og tæt op til denne anbringes det Lem e. l.,
+som skal undersøges, og man iagttager
+Skyggebilledet paa Skærmen. I Radiografien erstattes
+Skærmen af en fot. Plade, der er beskyttet
+mod Lysets Paavirkning ved at ligge i en
+særlig Kasette ell. være indpakket i sort Papir.
+Eksponeringstiden nedsættes meget betydeligt
+ved sammen med Pladen at indpakke en
+fluorescerende Skærm (Forstærkningsskærm), saa at
+Fluorescenslyset tillige virker paa Pladen.
+Tillige kan Pladen ell. Filmen have et meget tykt
+Lag Emulsion, da R. ikke svækkes meget ved
+Passagen, saa at hele Lagtykkelsen udnyttes; af
+samme Grund anvendes hyppigt Film med
+Emulsion paa begge Sider. R.'s biol. Virkninger
+omtales i en særlig Artikel.
+
+R.'s <sp>Natur</sp> blev endeligt opklaret i 1912 af
+v. Laue i Samarbejde med Friedrich og
+Knipping. De viste, at R. er elektromagnetiske
+Svingninger af samme Art som Lys, men med meget
+kortere Bølgebredde. Beviset førtes ved at
+bestemme R.'s Bølgebredde med et Krystalgitter.
+Under <sp>Bøjning</sp> er omtalt, hvorledes Lysets
+Bølgebredde bestemmes ved Gitre, Glasplader
+eller Spejle, hvorpaa der er ridset et meget
+stort Antal parallelle Ridser med samme
+Mellemrum. Jo kortere Bølgebredde der skal
+maales med Gitret, des tættere skal Ridserne være,
+og af delvis fejlslagne Forsøg paa at fremkalde
+Bøjning af R. vidste man, at deres Bølgebredde
+var saa kort, at man ikke kunde gøre sig Haab
+om at lave Gitre fine nok dertil. Laue's Idé var
+da at bruge et Stykke af en Krystal som Gitter.
+I en Krystal antog man, at Molekylerne var
+ordnet regelmæssigt i et saakaldt Rumgitter
+med samme Symmetri som Krystallen og netop
+med passende Afstand, til at man kunde vente
+en iagttagelig R.-Bøjning. Resultatet svarede til
+Forventningen og har givet Anledning til
+Udvikling af et nyt, allerede meget omfattende og
+
+<img>Fig. 5. »Stabilivolt«-Anlæg til Drift af Røntgenrør
+med konstant Spænding.</img>

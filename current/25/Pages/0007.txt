@@ -1,0 +1,160 @@
+<chapter name="FORKORTELSER">
+<h1>FORKORTELSER.</h1>
+<table>
+<td>a<td>betyder<td>Ar (Flademaal)
+<td>Apr.<td c>—<td>April
+<td>Aug.<td c>—<td>August
+<td>bl. a.<td c>—<td>blandt andet
+<td>bl. fl.<td c>—<td>blandt flere
+<td>C<td c>—<td>Celsius
+<td>c.<td c>—<td>circa.
+<td>cg<td c>—<td>Centigram
+<td>cl<td c>—<td>Centiliter
+<td>cm<td c>—<td>Centimeter
+<td>cm<sup>2</sup><td c>—<td>Kvadratcentimeter
+<td>cm<sup>3</sup><td c>—<td>Kubikcentimeter
+<td>d.<td c>—<td>død
+<td>dag<td c>—<td>Dekagram
+<td>dal<td c>—<td>Dekaliter
+<td>dam<td c>—<td>Dekameter
+<td>Dept<td c>—<td>Departement
+<td>dg<td c>—<td>Decigram
+<td>Decbr<td c>—<td>December
+<td>dl<td c>—<td>Deciliter
+<td>dm<td c>—<td>Decimeter
+<td>dm<sup>2</sup><td c>—<td>Kvadratdecimeter
+<td>dm<sup>3</sup><td c>—<td>Kubikdecimeter
+<td>Dr.<td c>—<td>Doktor
+<td>d. s. s.<td c>—<td>det samme som
+<td>D. L.<td c>—<td>Danske Lov
+<td>Doll.<td c>—<td>Dollars
+<td>d. v. s.<td c>—<td>det vil sige
+<td>d. y.<td c>—<td>den yngre
+<td>d. æ.<td c>—<td>den ældre
+<td>e. Kr.<td c>—<td>efter Kristus
+<td>e. l.<td c>—<td>eller lignende
+<td>etc.<td c>—<td>et cetera
+<td>f.<td c>—<td>født
+<td>Fam.<td c>—<td>Familie
+<td>f. Kr.<td c>—<td>før Kristus
+<td>Febr<td c>—<td>Februar
+<td>f. Eks.<td c>—<td>for Eksempel
+<td>ff.<td c>—<td>og følgende (Sider, Paragraffer etc.)
+<td>Fig.<td c>—<td>Figur
+<td>frc.<td c>—<td>francs
+<td>f. T.<td c>—<td>for Tiden
+<td>g<td c>—<td>Gram
+<td>Guv.<td c>—<td>Guvernement
+<td>ha<td c>—<td>Hektar
+<td>hg<td c>—<td>Hektogram
+<td>H. K.<td c>—<td>Hestes Kraft
+<td>hl<td c>—<td>Hektoliter
+<td>hm<td c>—<td>Hektometer
+<td>ibd.<td c>—<td>ibidem (lat.) ɔ:paa samme Sted
+<td>iflg.<td c>—<td>ifølge
+<td>i H. t.<td>betyder<td>i Henhold til
+<td>i St. f.<td c>—<td>i Stedet for
+<td>Jan.<td c>—<td>Januar
+<td>jur.<td c>—<td>juridisk
+<td>jfr<td c>—<td>jævnfør
+<td>Kbhvn<td c>—<td>Kjøbenhavn
+<td>kg<td c>—<td>Kilogram
+<td>km<td c>—<td>Kilometer
+<td>km<sup>2</sup><td c>—<td>Kvadratkilometer
+<td>kgl.<td c>—<td>kongelig
+<td>Kr<td c>—<td>Kroner
+<td>Kria<td c>—<td>Kristiania (Oslo)
+<td>L.<td c>—<td>Lov
+<td>l<td c>—<td>Liter
+<td>lgn.<td c>—<td>lignende
+<td>Litt.<td c>—<td>Litteratur
+<td>£ St.<td c>—<td>Pund Sterling
+<td>m<td c>—<td>Meter
+<td>m. a. O.<td c>—<td>med andre Ord
+<td>m<sup>2</sup><td c>—<td>Kvadratmeter
+<td>m<sup>3</sup><td c>—<td>Kubikmeter
+<td>m. fl.<td c>—<td>med flere
+<td>m. fl. St.<td c>—<td>med flere Steder
+<td>mg<td c>—<td>Milligram
+<td>m. H. t.<td c>—<td>med Hensyn til
+<td>Mill.<td c>—<td>Million
+<td>mm<td c>—<td>Millimeter
+<td>mm<sup>2</sup><td c>—<td>Kvadratmillimeter
+<td>mm<sup>3</sup><td c>—<td>Kubikmillimeter
+<td>m. m.<td c>—<td>med mere
+<td>mrm<td c>—<td>Metermil
+<td>m. v.<td c>—<td>med videre
+<td>N.<td c>—<td>Nord
+<td>n. Br.<td c>—<td>nordlig Bredde
+<td>ndf.<td c>—<td>nedenfor
+<td>N. f.<td c>—<td>Nord for
+<td>N. L.<td c>—<td>Norske Lov
+<td>Novbr<td c>—<td>November
+<td>o. a.<td c>—<td>og andre
+<td>o. a. St.<td c>—<td>og andre Steder
+<td>o. desl.<td c>—<td>og deslige
+<td>o. f.<td c>—<td>og følgende
+<td>o. fl.<td c>—<td>og flere
+<td>o. fl. l.<td c>—<td>og flere lignende
+<td>Oktbr<td c>—<td>Oktober
+<td>o. l.<td c>—<td>og lignende
+<td>o. m.<td c>—<td>og mere
+<td>o. m. a.<td c>—<td>og mange andre
+<td>o. s. fr.<td c>—<td>og saa fremdeles
+<td>o. s. v.<td c>—<td>og saa videre
+<td>p. a.<td c>—<td>pro anno
+<td>%<td c>—<td>pro Cent
+<td>Pd<td c>—<td>Pund
+<td>p. Gr. a.<td>betyder<td>paa Grund af
+<td>Plur.<td c>—<td>Pluralis (Flertal)
+<td>‰<td c>—<td>pro Mille
+<td>Prof.<td c>—<td>Professor
+<td>Prov.<td c>—<td>Provins
+<td>R.<td c>—<td>Reaumur
+<td>Rdl.<td c>—<td>Rigsdaler
+<td>Reg. T.<td c>—<td>Register-Ton
+<td>Reskr.<td c>—<td>Reskript
+<td>Resol.<td c>—<td>Resolution
+<td>resp.<td c>—<td>respektive
+<td>R. af Dbg.<td c>—<td>Ridder af Dannebrog
+<td>R. af Elef.<td c>—<td>Ridder af Elefanten
+<td>Rm.<td c>—<td>Reichsmark
+<td>S.<td c>—<td>Syd
+<td>s. a.<td c>—<td>sine anno
+<td>s. Br.<td c>—<td>sydlig Bredde
+<td>s. d.<td c>—<td>se denne (dette)
+<td>Sek.<td c>—<td>Sekund(er)
+<td>Septbr<td c>—<td>September
+<td>S. f.<td c>—<td>Syd for
+<td>sh.<td c>—<td>shillings
+<td>Sing.<td c>—<td>Singularis (Enkelttal)
+<td>Skt<td c>—<td>Sankt
+<td>Slutn.<td c>—<td>Slutning
+<td>smlg.<td c>—<td>sammenlign
+<td>smst.<td c>—<td>sammesteds
+<td>spc.<td c>—<td>specielt
+<td>St<td c>—<td>Saint
+<td>Sthlm<td c>—<td>Stockholm
+<td>Stk.<td c>—<td>Stykke
+<td>Strfr.<td c>—<td>Strafret
+<td>Subst.<td c>—<td>Substantiv
+<td>Suppl.<td c>—<td>Supplement
+<td>t<td c>—<td>Tons
+<td>Td.<td c>—<td>Tønde
+<td>Tdr<td c>—<td>Tønder
+<td>T. Dr.<td c>—<td>Tons Drægtighed
+<td>Tidsskr.<td c>—<td>Tidsskrift
+<td>u. A.<td c>—<td>uden Aarsangivelse
+<td>undt.<td c>—<td>undtagen
+<td>V.<td c>—<td>Vest
+<td>vedk.<td c>—<td>vedkommende
+<td>V. f.<td c>—<td>Vest for
+<td>v. L.<td c>—<td>vestlig Længde
+<td>Ø.<td c>—<td>Øst
+<td>Ø. f.<td c>—<td>Øst for
+<td>ø. L.<td c>—<td>østlig Længde
+<td>Ø.<td c>—<td>Øre
+<td>♂<td c>—<td>Han
+<td>♀<td c>—<td>Hun
+</table>
+</chapter>

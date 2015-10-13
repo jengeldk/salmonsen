@@ -1,0 +1,171 @@
+Antydninger af, i hvilken Retning den skal
+forbedres.
+
+En vigtig Bestanddel af Atomerne maa
+udgøres af Elektroner (Elementarkvanta af
+negativ Elektricitet), som man kender i fri Tilstand
+fra Katodestraaler og de radioaktive β-Straaler.
+I Optikken har man naaet vidtgaaende
+Overensstemmelse med Erfaringen ved at antage, at
+Lyset udsendes fra saadanne Elektroner, der i
+Atomet udfører svagt dæmpede Svingninger om
+en Ligevægtsstilling, og at Lys, der passerer
+gennem et Legeme, absorberes, ved at Lysets
+Energi bruges til at sætte disse Elektroner i
+Svingning ved Resonans; Opdagelsen af
+Zeeman-Effekten (s. d.) har ført til, at man i visse
+Tilfælde direkte har kunnet godtgøre, at de
+Elektroner, der udsender Spektrallinierne, er
+identiske med de frie Elektroner i Katode- og
+β-Straaler. De sidste udsendes jo ogsaa fra og
+maa derfor indeholdes i Atomer af i alt Fald
+visse Stoffer.
+
+Af stor Interesse har en A. været, som skyldes
+Lord <sp>Kelvin</sp>, og som især <sp>I. I. Thomson</sp>
+har udformet nærmere. Han antager, at Atomet
+bestaar af en Kugle, der indeholder jævnt
+fordelt positiv Elektricitet, og fordelt i denne
+Kugle saa mange negative Elektroner, at hele
+Atomet bliver elektrisk neutralt. Antallet af
+negative Elektroner i et Atom kan kun være 2—3
+Gange saa stort som Atomvægten. Da
+Elektronernes Masse er meget lille (c. 1/1800 af det
+letteste Atoms, Brintatomets Masse), maa altsaa
+næsten hele Atomets Masse være knyttet til den
+positive Elektricitet. Thomson har især
+undersøgt, hvilke Anordninger af de negative
+Elektroner, der er stabile; befinder de sig i en Plan,
+vil de ordne sig i koncentriske Ringe; er de
+rumligt fordelte, vil de ordne sig i kugleformede Lag
+som Lagene i et Løg. Saadanne Atomer vil
+have adskillige af de Egenskaber, man maa
+tillægge de virkelige Atomer. I de mulige
+Anordninger af Elektronerne viser der sig saaledes
+en Periodicitet svarende til Periodiciteten i det
+periodiske System af Grundstoffer. Her kan i
+øvrigt hverken gaas nærmere ind paa, hvor
+vidtgaaende Analogien med de virkelige Atomer er,
+ell. paa hvilke Punkter den svigter.
+Vanskeligheder volder især Forklaringen af Atomets
+optiske Egenskaber. Visse Resultater af radioaktive
+Undersøgelser synes overhovedet ikke at kunne
+forliges med denne A. Derfor antager
+<sp>Rutherford</sp> (1911), at den positive Elektricitet og det
+meste af Atomets Masse er koncentreret i en
+Kerne af meget ringe Udstrækning, uden om
+hvilken Elektroner er grupperede i et Antal
+omtr. lig Halvdelen af Atomvægten, nemlig lig
+Stoffets Nummer i det periodiske System. Denne
+Rutherford'ske A. frembyder megen Interesse,
+idet den ud fra faa og simple Hypoteser synes at
+forklare mange af Atomernes kendte
+Egenskaber og føre til nye vigtige Resultater, men
+Arbejdet paa at udforme den er endnu i sin
+Vorden.
+
+Af en anden endnu dyberegaaende Art end
+disse A. er Lord Kelvin's berømte
+Hvirvelhypotese, ifølge hvilken Atomerne er
+Hvirvelbevægelser i en ideal Vædske, der maa antages
+at udfylde Verdensrummet. Saadanne
+Hvirvelbevægelser vil, naar de først er opstaaede, holde
+sig uforandrede. De forsk. Arter af Atomer maa
+da være fl. saadanne Hvirvler, kædede sammen
+paa forsk. Maade. Den videre Udformning af
+denne Hypotese er overordentlig vanskelig, og
+den har nu væsentlig kun hist. Interesse. (<sp>Litt.</sp>:
+<sp>I. I. Thomson</sp>, <i>The corpuscular theory of
+matter</i> [London 1907; ogsaa oversat til Tysk];
+Afh. af <sp>Rutherford</sp> i <i>Philosophical
+Magazine</i> 1911 og af N. Bohr, smst. 1913).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Atomtal">
+<b>Atomtal.</b> Da der i lang Tid har hersket
+betydelig Usikkerhed m. H. t. det nøjagtige
+Forbindelsesforhold mellem Grundstofferne Ilt og
+Brint, og da Iltens Forbindelsesforhold med
+andre Grundstoffer dannede det
+eksperimentelle Udgangspunkt for mangfoldige
+Atomtalbestemmelser, kom der ved Omregningen af
+Grundstoffernes A. fra Iltens A. som Grundlag
+til Brintatomet som Enhed en ikke ringe
+Usikkerhed i Resultaterne, og da nogle Kemikere
+regnede A. paa Grundlag af H = 1, medens
+andre beregnede dem paa Grundlag af O = 16,
+og det virkelige Forhold mellem Brintens og
+Iltens A. ikke er 1 : 16, men efter de nyeste
+Undersøgelser nærmest 1 : 15,88, opstod der ikke
+saa sjælden Forvekslinger og Usikkerhed saavel
+i videnskabelige som i praktisk-analytiske
+Beregninger. For at gøre en Ende paa denne
+Tilstand blev der nedsat en international
+Kommission med det Formaal at bringe Orden i det
+nævnte Spørgsmaal, og man bestemte sig da til
+altid at benytte de A., som var beregnede paa
+Grundlag af O = 16 ved saavel videnskabelige
+som praktisk-kem. Arbejder, da de allerfleste
+Grundstoffers A. faktisk bestemmes med deres
+Iltforbindelser som Grundlag. Kommissionen
+reviderer hvert Aar den saaledes udarbejdede
+Tabel over A. paa Grundlag af de Nybestemmelser,
+som i Aarets Løb har fundet Sted, og udsender
+ved hvert Aars Beg. en international
+Atomvægtstabel med O = 16 som Grundlag. Brintens
+i A. bliver da 1,008.
+
+Ndf. anføres den internationale
+Atomvægtstabel for 1914:
+
+<table>
+<td>Aluminium<td r>27,1
+<td>Antimon<td r>120,2
+<td>Argon<td r>39,88
+<td>Arsen<td r>74,96
+<td>Barium<td r>137,37
+<td>Beryllium<td r>9,1
+<td>Bly<td r>207,10
+<td>Bor<td r>11,0
+<td>Brint<td r>1,008
+<td>Brom<td r>79,92
+<td>Cerium<td r>140,25
+<td>Cæsium<td r>132,81
+<td>Dysprosium<td r>162,5
+<td>Erbium<td r>167,7
+<td>Europium<td r>152,0
+<td>Fluor<td r>19,0
+<td>Fosfor<td r>31,04
+<td>Gadolinium<td r>157,3
+<td>Gallium<td r>69,9
+<td>Germanium<td r>72,5
+<td>Guld<td r>197,2
+<td>Helium<td r>3,99
+<td>Holmium<td r>163,5
+<td>Ilt<td r>16,00
+<td>Indium<td r>114,8
+<td>Iridium<td r>193,1
+<td>Jod<td r>126,92
+<td>Jern<td r>55,84
+<td>Kadmium<td r>112,40
+<td>Kalcium<td r>40,07
+<td>Kalium<td r>39,10
+<td>Klor<td r>35,46
+<td>Kobber<td r>63,57
+<td>Kobolt<td r>58,97
+<td>Krom<td r>52,0
+<td>Krypton<td r>82,92
+<td>Kulstof<td r>12,00
+<td>Kvægsølv<td r>200,6
+<td>Kvælstof<td r>14,01
+<td>Lanthan<td r>139,0
+<td>Lithium<td r>6,94
+<td>Lutetium<td r>174,0
+<td>Magnium<td r>24,32
+<td>Mangan<td r>54,93
+<td>Molybdæn<td r>96,0
+<td>Natrium<td r>23,00
+<td>Neodym<td r>144,3
+<td>Neon<td r>20,2
+</table>

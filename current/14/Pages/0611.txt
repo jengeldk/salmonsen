@@ -1,0 +1,128 @@
+Norge«, en paa det store Publikum beregnet,
+forkortet Omarbejdelse af det store Værk, udgav
+han 1845—48; og endelig fortsatte han ved
+Optegnelser og en udstrakt Brevveksling i sit hele
+Liv Samlinger til et nyt Litteraturleksikon for
+Norge efter 1814. Disse Samlinger blev efter
+hans Død redigerede og udgivne af Chr. Lange
+m. fl. som »Norsk Forfatter-Lexikon 1814—56«
+(1857—63), hvis Indhold nu i sin Helhed er
+optaget i det af J. B. Halvorsen udgivne
+Forfatterleksikon.
+<i>(J. B. H.). Edv. B.</i>
+</chapter>
+
+<chapter name="Kraftenhed">
+<b>Kraftenhed,</b> se <sp>Kraft</sp>.
+</chapter>
+
+<chapter name="Kraftfoder">
+<b>Kraftfoder,</b> se <sp>Foder</sp>.
+</chapter>
+
+<chapter name="Kraftfordeling">
+<b>Kraftfordeling,</b> d. s. s.
+<sp>Kraftoverførelse</sp>.
+</chapter>
+
+<chapter name="Kraftgas">
+<b>Kraftgas.</b> Ved at bringe Koks, Kul ell. andet
+Brændsel i Glød i en saakaldt Generator kan
+der fremstilles en brændbar Gasblanding, hvis
+Sammensætning, Egenskaber og Anvendelighed
+foruden af det anvendte Brændsels Art i
+Hovedsagen afhænger af, hvorvidt der under
+Fremstillingsprocessen er tilsat Vanddamp, samt i
+hvilken Mængde dette er sket.
+
+Hvis der <sp>slet ikke ell. kun i ringe
+Mængde</sp> er tilsat Vanddamp, kaldes den
+fremstillede Gasblanding <sp>Generatorgas</sp> og
+egner sig navnlig til Fyringsgas (Ophedning af
+Smelteovne o. s. v.).
+
+Bruges der <sp>rigeligere med
+Vanddamp</sp>, faas <sp>Halvvandgassen</sp>, ogsaa
+kaldet <sp>Gerneratorvandgas</sp>, Dowsongas
+ell. i al Alm. K. og den egner sig til at drive
+Gasmotorer (hvoraf Navnet), men ogsaa til
+Fyring.
+
+Dannes Gassen ved <sp>kun at tilføre
+Vanddamp</sp> og lade denne dekomponeres i
+Forbindelse med det glødende Brændsel, faas
+den egl. <sp>Vandgas</sp>, der dels i Industrien
+anvendes til Svejsning o. l., dels bruges sammen
+med alm. Stenkulsgas, blandet med denne, til
+alm. Husholdnings- og Industribrug.
+
+<sp>Generatorgas</sp> og <sp>Gasfyring</sp> er
+allerede omtalt under de nævnte Artikler, men fl. af
+de der nævnte Forhold maa her nødvendigvis
+igen paapeges, fordi Fremstillingen af
+Generatorgas og K. (Generatorvandgas, Halvvandgas)
+til en vis Grad glider over i hinanden, ligesom
+K. ogsaa er anvendelig til Fyring. Kun ved at
+behandles fra et sammenlignende Synspunkt
+kan Forskellighederne helt forstaas. I det flg.
+er derfor omtalt de i Generatoren foregaaende
+<sp>Processer</sp>, baade naar der laves
+Generatorgas, K. og Vandgas. Dernæst omtales den
+praktiske Fremstilling af K. og dens Anvendelse.
+Fremstilling af særlige Arter som Mondgas,
+Mooregas o. l. er kun berørt i Princippet;
+Detaillerne skal søges under de paagældende
+Artikler. Ligeledes skal Vandgassens praktiske
+Fremstilling samt dens Anvendelse søges
+under selve Emnet.
+
+1. <sp>De i Generatorerne foregaaende
+Processer</sp>.
+
+En Generator er som Regel en stor cylindrisk
+Beholder af Jern- ell. Staalplader, udforet med
+Vægge af ildfast Materiale og indeholdende en
+Rist, hvorpaa Brændslet kan ligge. Foroven er
+anbragt en Indfyringstragt med dobbelt Dæksel,
+indrettet saaledes, at Brændslet kan fyldes i,
+uden at Gassen slipper ud, naar der under
+Driften behøves mere Brændsel. Vi tænker os
+nu Generatoren i Drift og Risten dækket med
+glødende Brændsel, og det forudsættes foreløbig,
+at dette er rent Kulstof, hvad man i Praksis
+kan regne <sp>Koks</sp> for at være; naar der i det
+flg. tales om <sp>Koks</sp>, menes der hermed
+Brændsel uden særlig bituminøst Indhold. Det
+skal nu undersøges, hvilke Processer der
+foregaar i Generatoren, dels naar der kun blæses
+atmosfærisk Luft gennem denne, dels naar der
+tilsættes mindre ell. mere Vanddamp, dels kun
+føres Vanddamp gennem den.
+
+a) <sp>Der blæses kun atmosfærisk
+Luft igennem</sp>. Hosstaaende Fig. 1 er taget
+fra »Handb. d. Gastechnik« 1919, Bd IX, hvortil
+ogsaa kan henvises, hvis der ønskes nærmere
+Detailler, baade teoretiske og praktiske (Prof.
+Strache fra Wien). Fig. 1 viser Forholdene,
+som de vil fremkomme, naar der paa Risten
+ligger et Lag glødende Koks af en vis Højde,
+og der sendes Luft op gennem dette Lag.
+
+Underst, lige over Risten, findes Luft, der,
+idet den berører de glødende Koks, brænder
+til Kulsyre. Da Kulsyren stadig er i Berøring
+med ny glødende Kulstof, reduceres den til
+Kulilte, som atter videre uden om Kulstykket
+brænder til Kulsyre. Den herved udviklede Varme
+bringer den ovenover liggende Koksmasse i
+Glød, saa Kulsyren, naar den maar op i disse
+øverstliggende Lag, igen reduceres til Kulilte.
+Det vil derfor i Reglen overvejende være
+Kulilte, der findes øverst i Kokslaget, blot dette er
+tykt nok. Allerede en Snes cm ell. saa over
+Risten er Luftens Ilt bunden, og der findes
+kun Kulsyre og Kulilte, og gaar man yderligere
+en Snes cm op i Laget, vil der saa godt som
+
+<img>Fig. 1.</img>

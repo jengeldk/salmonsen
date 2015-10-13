@@ -1,0 +1,144 @@
+Større Hustelefonanlæg indrettes ogsaa paa
+lgn. Maade som automatiske Centraler, hvor
+der til hvert Apparat kun er ført een
+Dobbeltledning (se <sp>Telefoncentralstationer</sp>).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telefonautomat">
+<b>Telefonautomat,</b> et til offentlig Brug
+opstillet Telefonapparat, hvor Betaling for hver
+Samtale erlægges ved Indkastning af et
+Pengestykke i en Afgiftsbøsse. Naar
+Centralekspedienten paa sædvanlig Maade har besvaret
+Opringningen fra en T., sker ved Møntens
+Passage forbi en Kontaktfjeder i Apparatet en
+Variation af Strømmen i Telefonledningen,
+hvilket fremkalder en bestemt Lyd i
+Ekspedientens Telefon og tjener som Kontrol for, at
+Betalingen har fundet Sted. Systemet er ofte
+saaledes, at Centralen først kan kaldes efter
+Indkastningen af Pengestykket, der (ved
+Paavirkning af en Trykknap) gives tilbage,
+saafremt den ønskede Abonnent er optaget.
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telefoncentralstationer">
+<b>Telefoncentralstationer,</b> hvor
+Sammenstillinger mellem forsk. Telefonabonnentledninger
+udføres, indrettes efter <sp>Magneto</sp>- ell.
+<sp>Centralenergisystem</sp> (se
+<sp>Telefonapparater</sp>). Det førstnævnte ældre System
+benyttes ved mindre T. og Landtelefonanlæg med
+længere (særlig overjordiske) Ledninger. Paa
+Centralen føres de indkommende
+Abonnentledninger til en <sp>Kaldeklap</sp> (Fig. 1) bestaaende
+af en lille Elektromagnet, gennem hvis
+Vindinger Ringestrømmen fra Abonnentens
+Magnetoinduktor passerer, Magneten tiltrækker herved
+et fjedrende Anker, hvis Bevægelse udløser en
+Faldklap, der i Hvilestillingen holdes oppe af
+en Spærhage. Forinden Ledningen forbindes
+med Kaldeklappen, passerer den et System af
+Kontaktfjedre, en saakaldt <sp>Jack</sp> (underst i
+Fig. 1), der benyttes ved Sammenstillingen med
+andre Ledninger. Samtlige til Centralen
+hørende Abonnentjacker og Kaldeklapper
+anbringes i en Opsats paa Bordpladen foran
+Betjeningspersonalet. Fig. 2 viser et saadant
+mindre <sp>Telefonvekslerbord</sp> beregnet for
+50 Abonnenter. Øverst i det lodrette Felt findes
+de 50 Kaldeklapper og i Feltet under disse de
+tilsvaernde Abonnent jacker. I Bordpladen er
+anbragt en Række Kontaktpropper, der to og to
+er forbundne gennem de under Bordet
+hængende isolerede Ledninger (<sp>Snører</sp>). Til
+hvert Snørepar hører en (ligeledes i
+Bordpladen anbragt) <sp>Omkaster</sp>, ved Hjælp af
+hvilken Ekspedienten kan indkoble sin Mikrotelefon
+paa Forbindelsen. Ekspeditionsgangen er flg.:
+Naar en Abonnent ringer op og Kaldeklappen
+falder (i Fig. 2: Abonnent Nr 5), indkobler
+Ekspedienten en Snøreprop i Jacken og stiller
+den til Snøreparret hørende Omkaster i
+»Talestilling«. Ved Proppens Indsætning bevæges
+Jackfjedrene en Smule og afbryder
+Forbindelsen til Kaldeklappen, og Ledningen er nu
+gennem Snøren og Omkasteren forbundet med
+Ekspedientens Mikrotelefon. Efter at have
+modtaget Besked om den ønskede Samtale
+indsætter Ekspedienten Snøreparrets anden Prop
+i den paagældende Abonnentjack (Nr 48 i Fig.
+2) og udsender Ringestrøm paa dennes
+Ledning. Opringningen sker ved Hjælp af den til
+højre under Bordpladen anbragte
+Magnetoinduktor, der indkobles, idet Omkasteren
+stilles til modsat Side (»Ringestilling«), hvorefter
+Forbindelsen er etableret, naar Omkasteren
+atter bringes i Hvilestilling. Under Samtalens
+Forløb er som nævnt Forbindelserne til begge
+Abonnenters Kaldeklapper afbrudt. I St f. er
+paa Snøreparret fast indkoblet en lgn.
+»<sp>Slutklap</sp>« (underst i det lodrette Felt, Fig. 2), der
+bringes i Funktion, naar Abonnenterne ringer
+af, hvorefter Snørerne nedkobles.
+
+Ved <sp>Centralenergi</sp>- (C.-E.-)<sp>systemet</sp>
+er Ekspeditionsgangen ganske lignende.
+Opkald af Centralen sker her automatisk, naar
+Abonnenten afløfter sin Telefon, idet den fra
+Centralbatteriet udsendte Mikrofonstrøm
+passerer Kaldeklappen. Paa større Centraler
+benyttes i Reglen <sp>Kaldelamper</sp>, d. v. s. smaa
+elektriske Glødelamper, der bliver
+strømførende gennem forsk. med Ledningen og Jacken
+forbundne Relaiser (s. d.). Saadanne Lamper,
+der tager mindre Plads end Klapperne og giver
+tydeligere Signaler, benyttes ogsaa som
+»<sp>Slutlamper</sp>«, idet et Relais med tilhørende
+Lampe, der anbringes ved hver Snøre, bliver
+strømførende, naar Abonnenterne efter endt
+Samtale hænger Telefonerne i Ro. Paa større
+Centraler udsendes Ringestrømmen ved Hjælp
+af motordrevne Generatorer, der indkobles i
+Omkasterens Ringestilling ell. automatisk, naar
+Snøren opsættes i den kaldte Abonnents Jack.
+Som Centralbatteri anvendes i Reglen
+Akkumulatorer (20—24 Volt), der oplades fra stedlige
+Stærkstrømsanlæg. Flere (udenlandske) T.
+anvender dog ogsaa spec. konstruerede
+Jævnstrømsmaskiner som Strømkilde til
+Mikrofonerne. — Man regner i Reglen, at en
+Centralekspedient kan betjene omkr. 100
+Abonnentledninger. Centraler med større Abonnentantal (ofte
+flere Tusinde) indrettes derfor med flere
+Vekselborde, der hver indeholder Grupper paa c.
+100 Kaldelamper og Jacker. Da enhver til
+Centralen hørende Abonnentledning skal kunne
+sammenstilles med en hvilken som helst af de
+øvrige, passerer samtlige Ledninger et særligt
+Jackfelt (<sp>Multipelfelt</sp>) i hvert
+Vekslerbord, saaledes at den paagældende Ekspedient
+fra sin Plads kan etablere den ønskede
+Sammenstilling. Et saadant større
+Multipelvekslerbord er vist i Fig. 3. Nederst i det lodrette
+Felt findes Kaldelamper og Jacker for ialt 350
+Abonnentledninger, der besvares af 3
+Ekspedienter. I Feltet ovenover findes Multipeljacker
+for 2800 Ledninger, der gentages (multiples)
+gennem de øvrige lgn. Centralborde. De mørke
+Felter foroven er beregnet for Udvidelse til
+10500 Abonnentledninger. Naar Centralen er
+fuldt monteret, kræves der saaledes ialt 30
+Vekslerborde (hvert med 3 Ekspedienter) for
+at kunne betjene samtlige Abonnenter. Da en
+Ekspedient ved et Multipelvekslerbord ikke
+umiddelbart kan se, om en Abonnentledning i
+Multipelfeltet er optaget i et af de øvrige
+Centralborde, indrettes den saakaldte »<sp>Test</sp>«,
+idet en optaget Multipeljack staar
+spændingsførende i alle Borde, saaledes at Ekspedienten
+ved Berøring af Jackringen med Propspidsen
+hører et Knæk (ell. ved Indkobling af et
+»Testrelais«: en Tone) i Telefonen. For at lette

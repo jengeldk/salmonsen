@@ -1,0 +1,139 @@
+tykkere Lag ell. stærkere Opløsning breder
+disse Baand sig ud og flyder sammen, saa at
+kun den røde og den blaa og violette Del af
+Spektret bliver tilbage. Angaaende den nøjagtige
+Definition af den Størrelse,
+Absorptionskoefficienten, som bruges til Karakterisering af
+Absorptionen, se <sp>Absorption</sp> 2. Til
+fuldstændigt Kendskab til et Stofs Absorptionsspektrum
+kræves Kendskab til Absorptionskoefficienten
+for alle Bølgebredder. Vigtige
+Absorptionsspektre af den omtalte Art er Blodets Spektrum,
+der forandres paa karakteristisk Maade f. Eks.
+ved Kulilteforgiftning, som derved kan paavises,
+endvidere Bladgrønts Spektrum med stærk
+Absorption især i det røde. Det er denne
+Absorption, der betinger, at Bladgrønt af Sollyset
+optager Energi til at opbygge organisk Stof af
+Luftens Indhold af Kuldioxyd. I det hele er
+enhver Virkning af Lys (kem., spec. fotogr.,
+Frembringelse af Fluorescens o. s. v.) betinget
+af, at der finder Absorption Sted, idet
+naturligvis kun den absorberede Energi er virksom.
+Heraf benytter man sig ved Sensibilisering af
+fotogr. Plader (ortokromatiske Plader, se
+<sp>Farvefotografi</sp>), idet man ved Tilsætning
+af passende Farvestoffer til den fotogr. Hinde
+opnaar, at ogsaa andre Dele af Spektret
+absorberes og derved bliver fotogr. virksomme
+end de, som absorberes i Bromsølvet. Ved
+kvantitative Undersøgelser af Absorptionen i
+forsk. Dele af Spektret benyttes
+Spektralfotometret (se <sp>Fotometri</sp>). Saadanne
+Undersøgelser og grovere, hvorved blot Farven af en
+Opløsning sammenlignes med en
+Normalopløsning (Kolorimetri), har betydelig Anvendelse til
+kem. Analyser.
+
+Til fuldstændig Undersøgelse af et Stofs
+Absorptionsspektrum kræves naturligvis, at ogsaa
+Absorptionen i den ultraviolette og ultrarøde
+Del af Spektret undersøges. Gennemsigtige
+Stoffer, som kun viser meget svag Absorption
+i det synlige Spektrum, viser Absorption i
+ultraviolet og ultrarødt, nogle som Glas allerede
+nær ved det synlige Spektrums Grænser til
+begge Sider, andre f. Eks. Kvarts som tidligere
+omtalt først langt ude i de usynlige Dele af
+Spektret. Vand absorberer kun meget
+kortbølget ultraviolet Lys, men har stærk
+Absorption i ultrarødt nær det synlige og ogsaa ret
+stærk Absorption i rødt, hvorfra Vandets
+grønne Farve i tykke Lag hidrører. I nøjeste
+Sammenhæng med Absorptionen staar
+Stoffernes <sp>Dispersion</sp> (s. d.). I nogle Tilfælde viser
+Stofferne meget stærk selektiv Absorption for
+bestemte Bølgebredder, en Absorption af samme
+Størrelse som Metallernes over hele Spektret.
+Man taler da ogsaa om metallisk Absorption
+(se <sp>Reststraaler</sp>).
+
+Særlig Interesse har Absorptionen i Luftarter
+og Dampe, hvis Absorptionsspektre viser
+skarpe Absorptionslinier. For farvede Luftarter,
+som Bromdamp, Joddamp og NO<sub>2</sub> ligger
+saadanne Absorptionslinier i stort Antal i det
+synlige Spektrum, mens farveløse Luftarter kun
+absorberer i ultrarødt (f. Eks. Vanddamp og
+Kuldioxyd) og ultraviolet. For lysende
+Luftarter viste Kirchhoff, at de absorberer de
+samme Bølgebredder, som de selv udsender, altsaa
+at deres Absorptionsspektre er saa at sige det
+omvendte af deres Emissionsspektre. Anbringes
+f. Eks. en svag Natiriumflamme (Sprit- ell.
+Gasflamme farvet med Kogsalt) mellem en stærk
+kontinuert Lyskilde (Buelampe) og
+Spektroskopets Spalte, ses i det kontinuerte Spektrum en
+mørk Dobbeltlinie paa det Sted, hvor
+Natriumemissionsspektrets egen gule Dobbeltlinie
+(<i>D</i>-Linien) ligger, fordi selv en ganske svag og
+tynd Flamme absorberer alt det Lys af disse
+Bølgebredder, som Buelampen udsender, dens
+Absorptionskoefficient for disse bestemte
+Bølgebredder er meget høj. Da Flammen naturligvis
+ogsaa udsender sit sædvanlige Lys i dette
+Tilfælde, er Forudsætningen for at iagttage
+Fænomenet, at det kontinuerte Lys skal være saa
+meget stærkere i denne Del af Spektret, at
+Flammens Emissionslinier ikke kan ses paa
+den stærkt lysende Baggrund i Spektret.
+Kirchhoff sluttede heraf, at om end hans foran
+omtalte Lov næppe altid gælder kvantitativt for
+Luftarters Emission, der kan finde Sted
+saaledes, at den ikke sker alene paa Bekostning af
+Luftartens Varmeenergi, kan Loven i det
+mindste anvendes kvalitativt, og han vandt derved
+Forklaringen paa det vigtigste af alle
+Absorptionsspektre, Solspektret o. l. Stjernespektre (se
+den astronomiske Del af nærværende Artikel).
+Men Forholdet har dog senere vist sig meget
+mere indviklet, idet der er mange
+Emissionslinier, som ikke er ledsaget af lgn. stærk
+Absorption. Fuld Opklaring har ogsaa her Bohr's
+Kvanteteori givet. Naar et Atom absorberer
+Straalingsenergi, sker det ogsaa i Kvanter og
+paa en Maade, der er en Art Omvending af
+Emissionsprocessen, idet Atomet under
+Absorptionen gaar over til ny stationære Tilstande
+med højere Energiindhold, og følgelig kan kun
+saadanne Bølgebredder absorberes, som svarer
+til de mulige Overgange i Atomet. Den
+karakteristiske Forskel mellem Emissions- og
+Absorptionsspektre fremkommer nu ved, at i en
+ikke lysende Damp er Atomet normalt kun i
+den »inderste« stationære Tilstand med mindst
+Energi (Normaltilstanden), og følgelig kan kun
+de Linier absorberes, som omvendt udsendes
+ved Overgange, der ender i denne
+Normaltilstand. Er Dampen derimod lysende, vil et vist
+Antal af Atomerne være i alle de andre mulige
+Tilstande, saa at ogsaa Absorption af alle de
+andre Emissionslinier kan finde Sted, om end
+altid i meget ringere Grad. Heraf forstaas
+Betydningen af Undersøgelser især af ikke
+lysende Damps Absorptionsspektrum, idet man ad
+denne Vej kan fastslaa, hvilke Linier der
+svarer til Overgange endende i Normaltilstanden.
+Af Kirchhoffs Lov er der altsaa strengt taget
+ikke meget tilbage for Dampes Absorption, for
+saa vidt som et Atom aldrig kan absorbere det
+samme Slags Lys, som det kan udsende, idet
+det skal være i to forsk. Tilstande (altsaa være
+to forsk. »Stoffer«) for at kunne absorbere,
+henh. udsende en bestemt Linie. Men Lovens
+kvalitative Gyldighed i forsk. Grad for forsk.
+Linier forstaas umiddelbart.
+
+Den foran omtalte <sp>Selvabsorption</sp>,
+som mange Linier viser, bestaar deri, at Linien,
+som i Emission har en vis Bredde, i Midten

@@ -1,0 +1,139 @@
+fremtræder med et brunligt Anstrøg, maa de
+»forskønnes«, d. v. s. gøres dybsorte ved
+Tilsætning af farvekraftigt Blaat, Indigo, Miloriblaa
+eller Anilin, opløst i Fedt- eller Linoliesyre.
+
+Farvestofferne for de brogede T. er for det
+meste tilvejebragte af Plante-, Jord-, Metal- og
+de glimrende, men uholdbare Anilinfarver;
+nogle af Farveemnerne maa først ved Smeltning
+eller Udglødning gøres brugbare for Formaalet.
+(<sp>Litt</sp>: <sp>Otto Würzberger</sp>, »Die Farben
+für graphischen Zwecke« [Frankfurt a. M.,
+1920]).
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="Trykforsøg">
+<b>Trykforsøg</b> tjener til at bestemme Legemers
+Trykstyrke og Trykelasticitet (Samhørigheden
+mellem Trykspænding og Sammentrykning). T.
+udføres ofte i hydrauliske Presser (se
+<sp>Materialprøvemaskiner</sp> og Fig. 2 under
+<sp>Mørtelstyrke</sp>). Trykker man et cylindrisk
+Legeme paa dets
+Endeflader, vil det
+forkorte sig, og
+Forkortelserne
+vokser i Reglen
+hurtigere end
+Trykket, medens
+der dog hos nogle
+Stoffer og
+deriblandt smedeligt
+Jern, er
+Proportionalitet mellem
+Tryk og
+Forkortelse op til en vis Spænding,
+Proportionalitetsgrænsen; over denne vokser Forkortelserne
+hurtigere. Det yderligere Forløb af et Trykforsøg er
+forskelligt for de skøre og for de sejge Legemer.
+Ved de første vil Forkortelserne vokse i stærkere
+og stærkere Forhold, indtil Sammenhængskraften
+pludselig ophæves, og Legemet knuses. Ved de
+sidste vil der komme et Punkt, Flydegrænsen,
+ved hvilket Legemet forkorter sig særlig stærkt,
+uden at Sammenhænget dog ophæves, til Trods
+for at Formforandringen er langt større end
+den, der fremkalder Brud ved de skøre
+Legemer. Samtidig med at Legemet
+sammentrykkes, breder det sig i Tværretningen, stærkest
+paa Midten og aftagende hen mod Enderne,
+hvor Friktionen mellem Legemet og
+Trykpladerne forhindrer en Tværudvidelse. Fig. 1 viser
+et Snit i et oprindelig cylindrisk Legeme
+dannet af 5 lige tykke Blyskiver. Man ser,
+hvorledes Friktionen har holdt sammen paa
+Endeskiverne, medens Materialet i den midterste
+Skive, der har været mindst hindret i sine
+Bevægelser, er trængt ud til Siderne. Som
+Følge af at det indre Materiale saaledes presses
+udad, opstaar der tangentielle
+Trækspændinger i Legemets Overflade, baade i Trykkets
+Retning og vinkelret derpaa, og et fladt
+Prøvelegeme af et meget strækkeligt Materiale (et
+Stykke Vidskelæder) kan bringes til at revne
+i det vandrette Midterplan. Ophæves Friktionen,
+bliver Tværudvidelsen ens overalt. De
+blivende Formforandringer foregaar ved porefri
+Legemer saaledes, at Legemets Volumen forbliver
+konstant, og Tværudvidelsen bliver derfor først
+rigtig stærk, naar Flydegrænsen overskrides.
+Mangler Friktionen, vil Forholdet, <i>m</i>, mellem
+Længde- og Tværdeformation være det samme
+som ved Trækforsøg. For de blivende
+Deformationer haves <i>m</i> = c. 2, for de elastiske
+varierer <i>m</i> stærkt med Materialets Art og er for
+blødt Staal 3,5, for Beton indtil 8.
+
+<sp>Brudmaaden</sp> afhænger dels af
+Prøvelegemets Form, dels af Materialets Sejghed.
+(1) <sp>Udbøjningsbrud</sp> forekommer, naar
+Legemet er saa slankt, at det ikke kan forblive
+retliniet under Forsøget, men bøjer sig ud til
+Siden. Slige Legemer kaldes Søjler. Ved
+Prøvning af korte Stykker Rør med ringe
+Vægtykkelse kan en ejendommelig Søjlevirkning
+indtræde, idet Røraksen forbliver retliniet, mens
+Rørvæggen folder sig, som naar man skyder
+en Harmonika sammen. (2)
+<sp>Forskydningsbrud</sp> er den almindeligste Form for Brud i
+skøre Legemer, naar Slankheden er saa ringe,
+at en Udbøjning ikke finder Sted. Slige
+Legemer kaldes Prismer. Forskydningen sker enten
+langs en enkelt Flade (Fig. 2) eller langs flere
+Flader under Dannelse af de saakaldte
+Trykpyramider (Fig. 3). Er Prismets Tværsnitsareal
+<i>F</i>, bliver Arealet af den skraa Flade: <i>F</i>/<i>sin v</i>,
+og den forskydende Spænding pr. Arealenhed
+af denne Flade:
+τ = <i>P/F</i> · <i>cos v</i> · <i>sin v</i> = 1/2 · <i>P/F</i> · <i>sin 2v</i>,
+der bliver Maksimum for <i>v</i> = 45°. Bruddet
+sker imidlertid under en mindre Vinkel,
+hvilket man forklarer ved at antage, at
+Forskydningsstyrken vokser med det Normaltryk, som
+presser de to Flader sammen.
+Normalspændingen i Snittet er σ = <i>P/F</i> · <i>sin<sup>2</sup>v</i>, altsaa aftagende
+med <i>v</i>, og Bruddet sker derfor under en
+Vinkel, ved hvilken τ ikke har sin Maksimalværdi,
+men hvor til Gengæld Fladerne er mindre
+belastede, end de er for <i>v</i> = 45°. Som Regel er
+Dobbeltpyramidens Højde 2—3 Gange Prismets
+Sidelinie, tg <i>v</i> altsaa 1/2 — 1/3; i de saaledes
+bestemte Planer maa derfor
+Forskydningsmodstanden være mindst, og naar Prøvelegemets.
+Højde, som ved Terningeforsøg, er saa ringe,
+at de naturlige Brudflader ikke kan danne sig,
+finder man følgelig en for stor Styrke. Ved
+Terningeforsøg griber de to Trykpyramider ind
+i hinanden, og Bruddet sker ved, at de fire
+Sideflager løsner sig, mens der bliver et mer
+eller mindre sammenhængende Legeme,
+dannet af to Pyramidestubbe, tilbage (Fig. 4); er
+Prøvelegemet cylindrisk, faar man Keglestubbe.
+Disse benævnes undertiden
+<sp>Skridningskeglerne</sp>. (3) <sp>Trækbrud</sp> eller Brud som
+Følge af Tværudvidelsen kan forekomme i
+Stoffer med ringe Trækstyrke. Saaledes flækker
+høje Granitcylindre ofte i 2 eller 3 Stykker, og
+en Svejsejerns Cylinder med lodrette Fibre kan
+revne eensidigt, fordi Trækstyrken er ringe
+tværs paa Fibrene. Hvis man ved Forsøg med
+lave Legemer kunde ophæve Friktionen langs
+Trykpladerne, maatte man vente, at Bruddet
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>

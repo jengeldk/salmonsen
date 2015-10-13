@@ -1,0 +1,148 @@
+efter hinanden altid giver samme Resultat som
+Anvendelsen af en tredie T. i Samlingen, kaldes
+en <sp>Gruppe</sp>. Figurer eller Funktioner, der
+gaar over i hinanden ved at underkastes T. i
+en Gruppe, kan i Spørgsmaalet om Egenskaber,
+der er invariante lige over for Gruppens T.,
+behandles under eet, og man vinder derved et
+udmærket Grundlag for en Inddeling af
+Matematikkens Undersøgelsesobjekter. Størst Rolle
+spiller de <sp>lineære T.</sp> Disse erstatter ved
+Funktioner med 1 variabel <i>x</i> denne med et
+Udtryk af Formen <i>a x' + b</i> / <i>c x' + d</i>, hvor <i>x'</i> er den ny
+variable, <i>a, b, c, d</i> Konstanter. Er der forelagt
+Funktioner, som er homogene Polynomier i
+flere variable, giver de lineære
+Transformationsligninger for hver af de oprindelige
+variable et homogent, lineært Udtryk ved de ny.
+Undersøgelsen af de saakaldte <sp>Invarianter</sp>
+og <sp>Kovarianter</sp>, ɔ: saadanne Funktioner
+henholdsvis af de forelagte Funktioners
+Koefficienter og af deres Koefficienter og variable,
+der ved den lineære T. af den forelagte
+Funktion ikke lider anden Forandring end at blive
+multipliceret med en kun af
+Transformationsligningernes Konstanter afhængig Faktor, er
+Hovedemnet for den <sp>moderne Algebra</sp>,
+der væsentlig er udviklet af Cayley, Sylvester
+og Aronhold. Som Eksempel paa Invarianter
+kan nævnes Dobbeltforhold (s. d.). Stor
+Betydning har de lineære T. for Geometriens
+Behandling ved Trekants- og
+Tetraederkoordinater (se <sp>Koordinater</sp>), idet de her svarer
+til Overgangen fra en Figur til en homografisk
+eller til en reciprok Polarfigur. Ændring af
+Koordinatsystem sker ogsaa ved lineære T. I
+Geometrien anvendes videre i stort Omfang
+T., hvis Transformationsligninger er af højere
+end første Grad, særlig de af Cremona opstillede
+<sp>entydige T.</sp>, hvor den oprindelige og den
+transformerede Figurs Punkter svarer entydigt
+til hinanden. Enhver entydig T. kan
+sammensættes af T. af anden Grad (<sp>kvadratiske T.</sp>);
+til disse sidste hører <sp>Inversionen</sp>. Kurver,
+der i Kraft af en T. svarer til hinanden Punkt
+for Punkt, har ifølge en Sætning, der er bevist
+af Riemann og er en Specialisering af en af
+Zeuthen funden almindeligere Sætning, samme
+Slægt (se <sp>Kurver</sp>); for enhver Samling af
+saadanne Kurver har Brill og Nöther bestemt
+Normalkurven ɔ: Kurven af lavest Orden i
+Samlingen. Ikke mindre vigtige Anvendelser af
+T. findes i de algebraiske Ligningers Teori, hvor
+ligninger bringes i en for Løsningen bekvem
+Skikkelse, i Talteorien ved Behandlingen af de
+algebraiske Former, i Integralregningen ved de
+elliptiske Integralers Reduktion til
+Normalformerne og ved deres T. til elliptiske Integraler
+med andre Moduler (se <sp>Modulus</sp>), hvilke
+bestemmes ved de saakaldte
+<sp>Modularligninger</sp>. Grupperne, indeholdende et endeligt
+Antal lineære T., er for to og tre variable
+bestemte af Klein, Gordan og H. Valentiner; de
+endelige Grupper af entydige T. i Planen er
+undersøgte af S. Kantor og Wiman. De af S.
+Lie (s. d.) opstillede <sp>kontinuerte
+Transformationsgrupper</sp> indeholder
+uendelig mange T., der gaar over i hverandre ved
+kontinuerlig Variation af
+Transformationsligningernes Konstanter; som Eksempel kan
+nævnes Grupperne, dannede af et Legemes
+Bevægelser i Rummet, hvilke Jordan har bestemt.
+<i>Chr. C.</i>
+</chapter>
+ 
+<chapter name="Transformatorer">
+<b>Transformatorer,</b> se <sp>elektriske
+Maskiner</sp> og <sp>Transformatorer</sp>.
+</chapter>
+ 
+<chapter name="transformere">
+<b>transformere</b> (lat.), omdanne, omforme,
+forvandle.
+</chapter>
+ 
+<chapter name="transfundere">
+<b>transfundere</b> (lat.), overgyde.
+</chapter>
+ 
+<chapter name="Transfusion">
+<b>Transfusion</b> (lat.). Ved T. tænker man i
+Reglen paa Blod-T., og herved forstaar man,
+at Blod fra et Individ overføres i et andet
+Individs Blodkarsystem.
+ 
+De første Forsøg paa T. blev udført paa
+Hunde af Englænderen Richard Lower i 1665
+og vakte stor Opsigt, til Dels p. Gr. a. den
+megen Overtro, der knyttede sig til Blodet. Man
+tænkte sig Muligheden af at overføre Dyrs
+Egenskaber til Mennesker ved Blod-T. og
+lignende Urimeligheder. Londons medicinske
+Selskab maatte udtale, at Blod-T. kunde være
+nyttig til at redde et Menneskes Liv efter store
+Blodtab, men at fremmed Blod ikke ændrede
+Naturen hos det Individ, paa hvilket det blev
+sprøjtet ind. Muligvis har Joh. Daniel Major
+allerede i 1666 udført T. af Blod fra et rask
+Menneske paa et svageligt, men den første
+Blod-T. til et Menneske, som blev bekendt,
+udførtes 1667 af Jean Denis, og Blodet, som
+indførtes i Aarerne paa det syge Menneske,
+stammede ikke fra et andet Menneske, men fra et
+Lam. Patienten blev imidlertid syg igen, og
+efter en ny T. med Lammeblod fik han
+alvorlige Sygdomssymptomer (Blod i Urinen m. m.)
+og døde. Da der indtraf flere lignende
+Ulykker efter T. til Mennesker af Lammeblod, blev
+T. forbudt i Paris og i Rom (af Paven). T.
+med Lammeblod udførtes dog undertiden i den
+følgende Periode, men efterhaanden blev man
+klar over de store Farer, som var forbundet
+med T. af Blod fra et Dyr til et Menneske og
+overhovedet med T. af Blod fra den ene
+Dyreart til den anden. Farerne beror især paa, at
+den ene Dyrearts Blodvædske ofte har Evne
+til at faa Blodlegemerne hos et andet Dyr til
+at klumpe sig sammen i Hobe (agglutinere) og
+derefter opløse Blodlegemerne (Hæmolyse).
+Disse Processer fremkalder farlige
+Sygdomssymptomer, der kan ende med Døden. Den
+danske Fysiolog P. L. Panum har særlig
+studeret disse Forhold (1863—76) og gjorde sig,
+ligesom mange andre, til Talsmand for, at man
+aldrig maa indføre Dyreblod i et Menneskes
+Blodkarsystem, men kun Blod fra et andet
+Menneske. Da der er Fare for, at det indførte,
+fremmede Menneskeblod størkner (koagulerer)
+og derved danner »Blodpropper« (Thromber,
+Emboli), gjorde Panum (og andre) opmærksom
+paa, at Menneskeblodets Størkning (Koagulation)
+maatte hindres ved Defibrinering (se <sp>Blod</sp>,
+S. 429), inden det anvendtes til T. paa et
+andet Menneske. Den af Panum (og senere af
+Landois o. a.) uddannede Metode til T. af
+defibrineret Blod fra et Menneske til et andet
+anvendtes en Del i 1870'erne især som
+Middel mod de farlige Følger af store
+Blodtab, men efterhaanden blev T. forladt igen,

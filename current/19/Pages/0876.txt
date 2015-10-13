@@ -1,0 +1,10 @@
+<sp>RADIOTELEGRAFI</sp>. II.
+
+<img></img>
+
+Fig. 20. M. Wien's delte Gnistbane eller Seriegnistbane. Pladerne er af Kobber, <i>g</i> er Glimmerringe (omkring 0,2 mm tykke). Flangerne <i>f</i> tjener til at forøge Luftkølingen, der
+yderligere kan øges ved Hjælp af en Blæser. — Fig. 21. Diagram for Tonegnistsender. <i>a</i>, <i>b</i> Ledninger fra Spændingskilden. <i>L<sub>1</sub></i> <i>C<sub>1</sub></i> = <i>L<sub>2</sub></i> <i>C<sub>2</sub></i>; ændres Bølgelængden ved Variation af <i>L<sub>2</sub></i>'
+og <i>L<sub>1</sub></i> forbliver Koblingsgraden uforandret. — Fig. 22. Valdemar Poulsens første Forsøg. Den viste Spritlampe forøger Svingningernes Intensitet. — Fig. 23. Karakteristik for en
+metallisk Leder, der følger Ohms Lov: <i>u</i> = <i>Ri</i>; <i>R</i> = <i>tgα</i>. — Fig. 24. Statisk Karakteristik for en elektrisk Bue. Karakteristikken er faldende. I Nærheden af Punktet <i>p</i> har man
+<i>v</i>—<i>V<sub>0</sub></i> = <i>tgφ</i>. (<i>i—J<sub>0</sub></i>) eller Δ  = —<i>r<sup>1</sup></i>. Δ <i>i</i>, hvor <i>r<sup>1</sup></i> = <i>tgτ</i> — Fig. 25. Ældre 20 KW. Buegenerator. — Fig. 26. 500 KW. Buegenerator. — Fig. 27. Strømdiagram for Buegeneratoren,
+indskudt direkte i Antennen.

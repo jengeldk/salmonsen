@@ -1,0 +1,117 @@
+Aksen, ikke lide nogen Retningsforandring ved
+Gennemgangen, men kun en Flytning parallelt
+med sig selv, som om den var gaaet skraat
+gennem en Spejlglasrude. Kun Aksestraalen
+gaar helt ubrudt igennem. De Punkter af
+Aksen, <i>H</i> og <i>H</i><sub>1</sub>, mod hvilke den indfaldende og
+den udtrædende Straale sigter, kaldes L.'s
+første og andet <sp>Hovedpunkt</sp>. Disse Punkter
+er faste Punkter, ɔ: de ligger paa samme Sted,
+hvilken Vinkel end Straalen <i>P</i><sub>2</sub><i>OP</i><sub>1</sub> danner
+med Aksen, naar kun denne Vinkel er <sp>lille</sp>.
+Enhver Straale, der træffer en Linseflade under
+en lille Vinkel med Aksen og sigter mod det til
+Fladen hørende Hovedpunkt, vil inde i L. gaa
+gennem det optiske Midtpunkt og træde ud af
+L., som om den kom fra det andet
+Hovedpunkt. Disse Forhold maa benyttes ved
+nøjagtigere Konstruktioner af Straalens Gang. Ved
+tynde L. kan man dog uden større Fejl regne,
+at en Straale, der uden for L. peger mod dens
+optiske Midtpunkt, gaar ubrudt igennem.
+Holder man en L. saaledes, at dens Akse
+peger mod et fjernt Lyspunkt, vil Straalerne
+fra dette Punkt til L. være parallelle med dens
+Akse, og efter at være gaaede gennem L. vil
+de samles i et Punkt af Aksen, <i>B</i><sub>1</sub> ell. <i>B</i><sub>2</sub>, efter
+som de kommer fra højre ell. venstre Side.
+Disse Punkter kaldes <sp>Brændpunkterne</sp>,
+fordi Solstraaler, der samles i dem, kan
+frembringe stærk Opvarmning. Et Brændpunkts
+Afstand fra L. kaldes <sp>Brændvidden</sp>;
+nøjagtigere forstaar man ved Brændvidden
+Afstanden fra Brændpunktet til den tilsvarende
+Hovedplan, medens Afstanden til den nærmeste
+Linseflade kaldes <sp>Snitvidden</sp>.
+Brændvidderne er altid lige store, naar der er samme
+Stof paa begge Sider af L. (her Luft). Er L.
+tynd, vil Snitvidderne ogsaa være omtr. lige
+store og nær lig Brændvidden, saa at man i
+Praksis regner Brændvidden til
+Linseoverfladen. Kaldes Érændvidden <i>p</i>, medens
+Kuglefladernes Radier er <i>r</i><sub>1</sub> og <i>r</i><sub>2</sub> og Glassets
+Brydningsforhold <i>n</i> (se <sp>Brydning</sp>), har man
+1/<i>p</i> = (<i>n</i>—1) (1/<i>r</i><sub>1</sub> + 1/<i>r</i><sub>2</sub>). Fig. 1 er tegnet under
+Forudsætning af, at <i>n</i>=1,5 og <i>r</i><sub>1</sub> dobbelt saa
+stor som <i>r</i><sub>2</sub>; <i>p</i> er da lig 2/3 <i>r</i><sub>1</sub> ell. 4/3 <i>r</i><sub>2</sub>.
+
+En L.'s Tværmaal <i>AB</i> kaldes dens
+<sp>Diameter</sp> ell. <sp>Aabning</sp>. At en L. kan samle
+Straalerne fra det fjerne Lyspunkt, saa de alle
+mødes i Brændpunktet, beror paa, at jo længere
+fra Aksen det Sted ligger, hvor en Straale gaar
+gennem L., desto større er her den Vinkel, som
+de to Linseflader danner mod hinanden, og
+desto mere bliver følgelig Straalen brudt. Om
+ethvert Straalepunkt <i>S</i> (Fig. 2), der enten
+ligger i L.'s Akse ell. nær ved denne, gælder det,
+at alle de Straaler, det sender til L., efter
+Gennemgangen vil samles i et Punkt <i>F</i>, der
+kaldes Billedet af <i>S</i>. Ligger <i>S</i> lidt uden for
+Aksen, kan man let ved Konstruktion finde <i>F</i>.
+En Straale <i>SD</i>, der er parallel med Aksen, vil
+nemlig gaa gennem Brændpunktet <i>B</i><sub>2</sub>, der ligger
+bag ved L., og en Straale <i>SO</i>, der er rettet mod
+det optiske Midtpunkt, vil ikke brydes. De to
+Straaler mødes i <i>F</i>. Paa Fig. er tillige vist
+Gangen af Straalen <i>SB</i><sub>1</sub> gennem det forreste
+Brændpunkt; denne Straale, der efter
+Gennemgangen gennem L. bliver parallel med Aksen,
+kan ogsaa benyttes ved Konstruktionen af
+Foreningspunktet <i>F</i>. Da <i>SD</i>: <i>OB</i><sub>2</sub>=<i>SF</i>: <i>OF</i>, og <i>SD</i>
+kan regnes lig med <i>SO</i>, Straalepunktets Afstand
+<i>a</i> fra L., medens <i>OB</i><sub>2</sub>=<i>p</i>, og <i>OF</i> er
+Foreningspunktets Afstand <i>f</i>, har man <i>a : p</i>=(<i>a</i> + <i>f</i>) : <i>f</i>, der
+kan skrives 1/<i>a</i> + 1/<i>f</i> = 1/<i>p</i>. Da denne Ligning
+giver samme Værdi for <i>f</i>, hvor nær end <i>S</i>
+ligger ved Aksen, vil et Punkt <i>S</i><sub>1</sub> i Aksen, der
+ligger lige saa langt fra L. som <i>S</i>, have sit
+Billede i <i>F</i><sub>1</sub>, der ligger i Aksen i samme
+Afstand fra L. som F. Linien <i>FF</i><sub>1</sub> er Billedet af
+<i>SS</i><sub>1</sub>. Det er omvendt og mindre end <i>SS</i><sub>1</sub>, naar
+<i>a</i> er større end 2<i>p</i>; det er lig <i>SS</i><sub>1</sub> naar <i>a</i> =
+2<i>p</i> og <sp>f</sp> følgelig lig <sp>a</sp>, og det vokser hurtig
+i Størrelse, naar <i>SS</i><sub>1</sub> nærmer sig <i>B</i><sub>1</sub>. Forholdet
+mellem <i>SS</i><sub>1</sub> og dens Billede <i>FF</i><sub>1</sub> er det samme
+som mellem Afstandene <i>a</i> og <i>f</i>, og fra L.'s
+optiske Midtpunkt ses Genstand og Billede under
+samme Synsvinkel. Et af de største
+Kikkertobjektiver, man har fremstillet, er Objektivet
+paa en Kikkert, udstillet paa
+Pariserudstillingen 1900; dets Diameter er 125 cm og
+Brændvidden 57 m. Det Solbillede, et saadant
+Objektiv danner, ser altsaa i 57 m's Afstand lige saa
+stort ud som Solen (tilsyneladende Diameter
+1924 Buesekunder) og maa derfor have en
+Diameter paa c. 53 cm. — Ligger et Straalepunkt
+i en Afstand fra L., der er lig Brændvidden,
+vil Foreningspunktet være uendelig fjernt, ɔ: de
+af L. udtrædende Straaler danner et parallelt
+Bundt. Er endelig <i>a</i> mindre end <i>p</i>, giver
+Formelen en negativ Værdi for <i>f</i>, hvilket betyder,
+at L. ikke mere kan bringe Straalerne til at
+løbe sammen i et <sp>virkeligt</sp> (reelt)
+Foreningspunkt, men at de udtrædende Straaler
+gaar saaledes, at de synes at komme fra et
+Punkt, der ligger paa samme Side af L. som
+Straalepunktet, men længere fra den. Et
+saadant Foreningspunkt kaldes <sp>indbildt</sp> eller
+virtuelt. Dette Tilfælde er vist i Fig. 3, hvor
+<i>S</i> er Straalepunktet og <i>F</i> det indbildte
+Foreningspunkt. Straalernes Retning er antydet
+ved Pile. Til Konstruktionen er som før
+benyttet en Straale <i>SD</i> parallel med Aksen og en
+
+<img>Fig. 2. Billeddannelse.</img>
+
+<img>Fig. 3. Indbildt Billede.</img>

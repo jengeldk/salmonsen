@@ -1,0 +1,128 @@
+Den hele Indsvingningstid bliver herefter
+altid uendelig lang og giver saaledes ikke noget
+Billede af den Hurtighed, hvormed de
+inducerede Svingninger opstaar. Vi vil derfor ved
+<sp>Indsvingningstiden</sp> (<i>T</i>) forstaa den
+Tid, der hengaar fra Paavirkningens Beg. og
+indtil de inducerede Svingninger har naaet
+Halvdelen af deres endelige Amplitude, se Fig.
+13. Den saaledes bestemte Indsvingningstid har
+Værdien <i>T</i> = <i>L/R</i> · 2 <i>logn</i> 2 = 1,4
+<i>L/R</i> = 0,7/<i>n</i> δ
+
+Antallet (<i>N</i>) af Svingninger, der udføres i
+Løbet af denne Tid, Indsvingningstallet, er
+bestemt ved <i>N</i> = <i>logn</i> 2/δ = 0,7/δ = 0,11 <i>S</i>.
+
+For meget svagt dæmpede Kredse har
+Indsvingningstiden ofte stor Bet., og den sætter
+en Grænse for, hvor svagt dæmpet de
+benyttede Kredse kan være.
+
+I det Tilfælde, hvor Kredsen ikke er i
+Resonans med Paavirkningen, vokser Svingningernes
+Amplitude ikke jævnt op til den endelige
+Værdi, men Tilvæksten foregaar afvekslende
+langsommere og hurtigere, idet der opstaar Stød
+mellem den inducerede Svingning og Kredsens
+Egen svingning. Dette Tilfælde har dog ikke saa
+stor Interesse.
+
+Vi gaar nu over til at behandle det Tilfælde,
+hvor den E. M. K. virker i et særligt, ydre
+Strømløb, til hvilket Svingningskredsen er
+knyttet paa en saadan Maade, at Kondensator og
+Traadrulle er i Parallel. Dette Tilfælde, der er
+fremstillet i Fig. 14, spiller paa forsk. Maade
+en betydelig Rolle i Radioteknikken, men er
+noget mere indviklet end det foran
+behandlede; vi skal derfor indskrænke os til at
+betragte Forholdene i Nærheden af Resonans for
+svagt dæmpede Kredse, altsaa for <i>R</i> << 2 <i>L/C</i>.
+I saa Fald vil Forholdet mellem Spændingens
+Amplitude <i>E<sub>m</sub></i> og Amplituden <i>J<sub>m</sub></i> af Strømmen
+i Tilledningen fra den E. M. K. til Klemparret
+<i>ab</i> være givet ved
+<i>E<sub>m</sub></i>/<i>I<sub>M</sub></i> = |<i>Z<sub>ab</sub></i>|= <i>L/RC</i> · 1/√1+(2π<i>s</i>/δ)<sup>2</sup> = <i>L/RC</i> · 1/√1+<i>s<sup>2</sup></i> <i>S<sup>2</sup></i>,
+idet <i>Z<sub>ab</sub></i> betegner Kredsens Impedans maalt
+mellem Klemmerne <i>a</i> og <i>b</i>, medens δ og <i>S</i> som
+sædvanlig betegner Kredsens Dekrement og
+Selektivitet og <i>s</i> Forstemningen.
+
+Forholdet mellem Amplituden <i>J<sub>1m</sub></i> af
+Strømmen <i>i<sub>1</sub></i> i Traadrullen og Strømamplituden <i>J<sub>m</sub></i>
+i Tilledningen er bestemt ved 
+<i>I<sub>1m</sub></i>/<i>I<sub>m</sub></i> = 1/<i>R</i> √<i>L/C</i> · 1/√1+(2π<i>s</i>/δ)<sup>2</sup> = 1/<i>R</i> √<i>L/C</i> · 1/ √1+<i>s<sup>2</sup></i> <i>S<sup>2</sup></i>.
+
+I Tilfælde af Resonans — altsaa for <i>h</i> = ω
+og <i>s</i> = 0 — er
+<i>E<sub>m</sub></i>/<i>I<sub>m</sub></i> = |<i>Z<sub>ab</sub></i>| = <i>L/RC</i> og <i>I<sub>1</sub>m</i>/<i>I<sub>m</sub></i> = 1/<i>R</i> √<i>L/C</i>.
+
+En meget svagt dæmpet Kreds frembyder
+saaledes, indskudt paa den her omhandlede
+Maade, en meget stor Impedans over for
+Vekselstrømme, hvis Frekvens falder sammen med
+Kredsens Egenfrekvens, og Strømmen i Kredsen
+bliver i dette Tilfælde mange Gange stærkere
+end Strømmen i Tilledningen. Man betegner
+derfor ofte dette Tilfælde som
+<sp>Strømresonans</sp>, ligesom man ogsaa ser Betegnelsen
+<sp>Antiresonans</sp> anvendt.
+
+<sp>Inducerede Svingninger i
+koblede Kredse</sp>.
+
+Koblede Kredse anvendes i stor Udstrækning
+i Radiomodtagere, og Kendskab til deres
+Virkemaade er derfor af Bet. for Radioteknikken,
+men da Spørgsmaalet er meget indviklet, gives
+der i det flg. i Hovedsagen kun en Oversigt
+over nogle af de relativt simple Forhold, der
+gælder for to koblede Kredse, hvis Indstillinger
+ligger i Nærheden af Resonanspunktet.
+
+Den ene Kreds, <sp>Primærkredsen</sp> <i>P</i> (se
+Fig. 15) med Konstanterne (<i>C<sub>1</sub></i>, <i>L<sub>1</sub></i>, <i>R<sub>1</sub></i>)
+paavirkes af den E. M. K. <i>e<sub>1</sub></i> = <i>E<sub>1m</sub>cosωt</i> indskudt
+i Serie i Kredsen og er gennem den gensidige
+Induktion <i>M</i> koblet til
+<sp>Sekundærkredsen</sp> <i>S</i>, der har Konstanterne <i>C<sub>2</sub></i>, <i>L<sub>2</sub></i>, <i>R<sub>2</sub></i>.
+Koblingen kan tilvejebringes paa fl. Maader, men
+her behandles kun den i Fig. 15 viste,
+induktive Kobling.
+
+Til at kendetegne Koblingens Styrke er det
+ved inducerede Svingninger hensigtsmæssigt at
+benytte <sp>Koblingskonstanten</sp> <i>y</i>,
+bestemt ved <i>y</i> = ω <i>M</i>/<i>R<sub>1</sub></i> <i>R<sub>2</sub></i>. Koblingen er <sp>løs</sp>,
+naar 0 < <i>y</i> < 1 og <sp>fast</sp> for <i>y</i> > 1. Til
+Angivelse af Kredsens Indstilling benyttes
+<sp>Forstemningskonstanterne</sp> <i>x<sub>1</sub></i> og <i>x<sub>2</sub></i>,
+bestemt ved
+
+<i>x<sub>1</sub></i> = <i>L<sub>1</sub></i>/ω<i>R<sub>1</sub></i> (<i>h<sub>1</sub><sup>2</sup></i> — ω<sup>2</sup>) = 2π<i>s</i><sub>1</sub>/δ<sub>1</sub> = <i>s<sub>1</sub></i> <i>S<sub>1</sub></i>
+og <i>x<sub>2</sub></i> = <i>L<sub>2</sub></i>/ω<i>R<sub>2</sub></i> (<i>h<sub>2</sub><sup>2</sup></i> — ω<sup>2</sup>) = 2π<i>s</i><sub>2</sub>/δ<sub>2</sub> = <i>s<sub>2</sub></i> <i>S<sub>2</sub></i>,
+hvor <i>s<sub>1</sub></i>, δ<sub>1</sub> og <i>S<sub>1</sub></i> er Forstemning, logaritmisk
+Dekrement og Selektivitet for den ukoblede, fri
+Primærkreds, og <i>s<sub>2</sub></i>, δ<sub>2</sub> og <i>S<sub>2</sub></i> de tilsvarende
+Størrelser for Sekundærkredsen.
+
+Det viser sig, at den højeste Effekt <i>P<sub>2max</sub></i>,
+der kan overføres til Sekundærkredsen, er
+hestemt ved <i>P<sub>2max</sub></i> = <i>E<sub>1</sub><sup>2</sup>m</i>/8 <i>R<sub>1</sub></i>, og man kan kun
+naa op til denne Effekt ved fast Kobling,
+altsaa for y ≧ 1. Bortset fra Tilfældet <i>y</i> = 1 er
+Opnaaelsen af den maksimale Effekt i
+Sekundærkredsen tillige betinget af, at begge Kredse
+forstemmes til <sp>samme Side</sp>, altsaa <sp>begge</sp>
+har lavere eller <sp>begge</sp> højere
+Egenfrekvens end den paavirkende E. M. K.
+Endvidere skal Forstemningskonstanterne have
+samme Værdi for de to Kredse og være desto
+større, jo fastere Koblingen er. Betingelsen for
+Opnaaelsen af <i>P<sub>2max</sub></i> er nemlig
+
+<i>x<sub>1</sub></i> = <i>x<sub>2</sub></i> = ± √<i>y<sup>2</sup></i>—1.
+
+Disse Forhold er fremstillede i Fig. 16, der
+tillige viser Værdien af <i>P<sub>2</sub></i> for

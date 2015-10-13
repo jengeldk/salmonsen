@@ -1,0 +1,144 @@
+vil nemlig Instrumentets mindre nøjagtige
+Stilling og Delenes indbyrdes Forandring under
+forskellige Stillinger kun i en meget ringe Grad
+komme til at forringe Resultaternes
+Nøjagtighed, da Fejlene i to nærliggende Stillinger af
+Instrumentet og deres Virkninger er meget nær
+de samme. Fastklemmer man Æ.'s
+Deklinationscirkel og drejer Instrumentet om
+Timeaksen, saa vil under denne Drejning
+Sigtelinien stadig danne samme Vinkel med
+Himmelaksen eller med Ækvator, og følger saaledes
+stadig den samme Parallelcirkel paa
+Himmelen. Denne Egenskab ved Æ.'s (saakaldte
+parallaktiske) Opstilling tillader dets Kikkert at
+forfølge en Stjerne i dens daglige Bevægelse
+ved en Drejning om en eneste Akse, Timeaksen.
+Tidligere maatte man med Haanden lade
+Kikkerten gøre denne Drejning, nu har man altid
+som Tilbehør til Æ. et Urværk, som drejer det,
+og er Urværket saaledes reguleret, at Æ. drejes
+med jævn Hastighed. 360° i 24 Timer, vil en
+Stjerne, Kikkerten er rettet paa, vise sig paa
+samme Sted i dens Felt, saa længe Urværket
+virker. Alle større Kikkerter, bortset fra
+Meridiankredsen, hvad enten de skal benyttes
+visuelt eller fotografisk, har af denne Grund en
+parallaktisk Opstilling.
+
+Hvad Opstillingen selv angaar, skelner man
+mellem den ældste, engelske og den nu
+almindelig uden for England og ved enkelte
+fotografiske Kikkerter benyttede tyske Opstilling.
+Den førstnævnte bestaar deri, at Timeaksen
+er anbragt i Lejer, der er saaledes beliggende,
+at dens Retning bliver parallel med
+Verdensaksen. Herved opnaas, at Instrumentet ikke
+behøver at lægges om, naar man gaar over fra
+den østlige Himmel til den vestlige, hvilket
+man i de fleste Tilfælde er nødt til efter den
+tyske Opstilling. Dette kan være til stor
+Ulempe, naar man skal eksponere gennem flere
+Timer. Blandt Manglerne ved denne engelske
+Opstilling kan nævnes, at man som Regel er
+afskaaret fra at kunne rette Kikkerten mod
+Egnen om Himmelens Pol. Ved den tyske
+Opstilling er Polaraksen fast anbragt i sin Stilling
+paa den Monolith eller Jernsøjle, som bærer
+hele Instrumentet. Til den øvre Ende af
+Polaraksen er Deklinationsaksen fæstet med
+Kikkerten anbragt i dennes ene Ende og en
+Kontravægt i den anden. Det Punkt, hvor de to
+Akser mødes, Bevægelsens Centrum, der tillige
+er det samlede Tyngdepunkt for Kikkerten,
+Deklinationsaksen og Modvægten, ligger i
+Søjlens forlængede Akse. Grubb har indført en
+Modifikation, saa at dette Punkt falder noget
+inden for Søjlens nordre Sideflade. Man har
+fundet paa at anvende en bøjet Søjle til at
+bære Kikkerten, hvorved man undgaar de
+Ulemper, der knytter sig til de to nævnte
+Monteringsmaader, idet man med et saadant
+Instrument kan observere baade i Zenit og ved
+Polen. Denne Montering har vist sig at være
+udmærket for middelstore Instrumenter indtil
+4 m's Længde.
+
+Opstillingen af de i den senere Tid anskaffede
+større Kikkerter (s. d.) har haft mange
+tekniske Vanskeligheder at overvinde.
+Konstruktionen af den drejelige Kuppel, som skulde
+beskytte Kikkerten, af bekvemme
+Observationsstole, hvorved man let kunde komme til alle
+Dele af Instrumenter o. l., har i ikke ringe
+Grad fordyret Anskaffelsen af alle disse større
+Æ. For at reducere en Del af disse
+Omkostninger konstruerede Loewy i Paris i
+Begyndelsen af 1880'erne det af ham benævnte:
+<i>Équatorial coudé</i>, et Æ., der i sin Bygning minder
+en Del om de Kikkerter, der benyttes som
+Passageinstrument (s. d.), og som bestaar af to
+paa hinanden lodrette Rør. Ved Loewy's
+Instrument er det ene Rør fast opstillet parallelt
+med Jordaksen og kan kun drejes om sin Akse.
+Det derpaa lodrette Rør med Objektivet vil
+da ved Drejning af det første bevæge sig
+parallelt med Ækvator. Okularet er anbragt i den
+øvre Ende af det førstnævnte Rør, i dets anden
+Ende er der et Spejl, hvorved den Stjerne
+i Ækvator, Instrumentet er indstillet paa, vil
+kunne ses af Iagttageren ved Okularenden. Ved
+Hjælp af et drejeligt Spejl ved Objektivet kan
+man benytte Instrumentet i alle Egne af
+Himmelen. Ved denne Opstilling vil Iagttageren
+altid have den samme Plads foran Kikkerten,
+uanset hvilken Stjerne han observerer, og man
+behøver ikke de for store Kikkerter saa
+kostbare Kupler for at beskytte Instrumentet, men
+det har den Ulempe, at det kræver to kostbare
+Spejle, der svækker det gennemgaaende Lys
+betydeligt, og som fordrer hyppige og
+besværlige Justeringer, særlig hvis Instrumentet er
+stort, og Instrumentet er ikke kommet til at
+spille den Rolle, man maaske havde ventet sig.
+Loewy har benyttet dette Æ. til at bestemme
+Konstanten for Refraktionen, Aberrationen o.
+a., og til at fotografere Maanen. Dette
+Instrument findes foruden i Paris ogsaa i Nizza,
+Toulouse, Lyon, Wien, Cambridge etc. Se for
+øvrigt <sp>astronomiske Instrumenter</sp>.
+(<sp>Litt</sp>.: <sp>Ambronn</sp>, »Handbuch der
+astronomischen Instrumentenkunde«, II [Berlin 1899]).
+<i>(J. Fr. S.). J. M. V. H.</i>
+</chapter>
+
+<chapter name="ækvatorial Modstrøm">
+<b>ækvatorial Modstrøm,</b> se
+<sp>Ækvatorialstrøm</sp>.
+</chapter>
+
+<chapter name="Ækvatorialstrøm">
+<b>Ækvatorialstrøm,</b> 1) Ældre Betegnelse for
+<sp>Passatdrift</sp>, nordlig og sydlig, Strømme,
+der findes i Oceanernes Passatbælter og skyldes
+de der blæsende, stadige Nordøst- og
+Sydøstvinde, Passaterne. Af Passatdrifter findes i alt
+fem: to i det Stille Ocean, to i Atlanterhavet og
+een i det sydlige Indiske Ocean. I det nordlige
+Indiske Ocean findes kun om Vinteren en
+Passatdrift fra Ø. mod V. Om Sommeren, naar
+Sydvestmonsunen blæser, erstattes den af en
+<sp>Monsundrift</sp> fra V. til Ø. Ved de tropiske
+Vestkyster, hvor Passaten driver Vandet bort
+fra Land, finder en stærk Sugning Sted, der
+giver Anledning til Tilstrømning af Vand langs
+Kysten og tillige til Opstigning af koldt
+Bundvand langs Kysten. Ved de tropiske Østkyster,
+hvor Passaten driver Vandet mod Land, deler
+Passatdriften sig i Strømme langs Kysten, men
+tillige finder en vertikal Strømning Sted af
+varmt Overfladevand, der presses ned til
+betydelige Dybder. 2) <sp>Ækvatoriale
+Modstrømme</sp> findes i Oceanerne under
+Ækvator, hvor der hersker svage og ubestemte Vinde
+(Kalmebæltet). Det skyldes Passatdrifternes

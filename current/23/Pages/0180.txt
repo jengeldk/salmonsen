@@ -1,0 +1,36 @@
+Mikrofonstrømmene mindre afhængige af
+Ledningsmodstanden til forsk. beliggende
+Abonnenter benyttes ved Centralenergisystemet
+Mikrofoner med forholdsvis høj Modstand (100—300
+Ohm) og tilsvarende større Batterispænding
+(20—24 Volt) i Modsætning til Magnetosystemet,
+hvor der med den lavere Batterispænding (2 à
+3 Volt) anvendes Mikrofoner med lille
+Modstand (30—50 Ohm). T. for Centralenergisystem
+findes i mange forsk. Udførelsesformer, hvoraf
+Fig. 6 og 7 viser to, der benyttes her i Landet
+(sidstnævnte af Statstelefonabonnenter i Kbhvn).
+
+For at spare Betjeningspersonale ved
+<sp>Hustelefonanlæg</sp>, der omfatter flere T.,
+indrettes disse ofte saaledes, at samtlige
+Ledninger passerer hvert enkelt Apparat, hvorfra
+Forbindelsen til en vilkaarlig Ledning kan
+indstilles ved Drejning af en Kontaktarm (Fig. 8).
+
+<img>Fig. 3. Magnetoinduktor.</img>
+
+<img>Fig. 4. Bordtelefonapparat
+(Magnetsystem).</img>
+
+<img>Fig. 5. Skema for Vægtelefonapparat efter
+Centralenergisystem.</img>
+
+<img>Fig. 6. Vægtelefonapparat
+(Centralenergisystem).</img>
+
+<img>Fig. 7. Bordtelefonapparat
+(Centralenergisystem).</img>
+
+<img>Fig. 8. Selvvælgertelefonapparat for
+Hustelefonanlæg.</img>

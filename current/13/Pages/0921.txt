@@ -1,0 +1,126 @@
+Molekyler imellem Pladerne, at et Molekyle kan
+naa over fra <i>B</i> til <i>A</i> uden at træffe andre
+Molekyler ell. i hvert Fald kun efter meget faa
+Sammenstød, vil den overførte
+Bevægelsesmængde og altsaa ogsaa den indre Gnidning
+aabenbart være proportional med Antallet af
+Molekyler; thi hvert enkelt
+Molekyle naar <i>A</i> med praktisk talt
+selve <i>B</i>'s tangentielle Hastighed, og
+Virkningen maa da vokse med
+Antallet af Stød mod <i>A</i>. Saaledes er
+Forholdet, naar Luften er saa
+fortyndet, at Middelvejlængden for
+Molekylerne er stor i Forhold til
+Afstanden mellem Pladerne, og den indre
+Gnidning er da proportional med Antallet af
+Molekyler og altsaa med Trykket. Naar imidlertid
+Trykket bliver stort, vil et Molekyle, som rammer
+<i>B</i>, praktisk talt aldrig naa over til <i>A</i>; det vil
+støde sammen med de nærmest liggende
+Molekyler, disse igen med de næste o. s. fr. Den
+tangentielle Hastighed vil derved efterhaanden
+aftage, og de Molekyler, der rammer <i>A</i>, vil kun
+have en Brøkdel af <i>B</i>'s Hastighed, og
+Virkningen af hvert enkelt Stød mod <i>A</i> vil altsaa blive
+formindsket. Men paa den anden Side vil <i>A</i>
+modtage desto fl. Stød, jo fl. Molekyler der
+findes i Mellemrummet, og Beregningen viser, at
+den indre Gnidning ved højere Tryk, d. v. s.
+naar Middelvejlængden er lille i Sammenligning
+med Pladeafstanden, er uafhængig af Trykket.
+Dette overraskende Resultat blev fundet ad
+teoretisk Vej af Maxwell og er senere godtgjort
+ved Forsøg.
+
+8) <sp>Varmeledning</sp>. Naar Varme ledes
+fra et varmere til et koldere Sted, sker det
+efter den k. T. ved, at de varme Molekyler med
+den til deres højere Temp. svarende Energi
+støder sammen med Molekyler med lavere
+Temp. og altsaa med mindre Energi. Derved
+udlignes Energien efterhaanden, idet de varme
+Molekyler afleverer Energi til de kolde. M. H.
+t. Varmeledningen kan ganske de samme
+Betragtninger gøres gældende som ovf. ved den
+indre Gnidning; det drejer sig her om
+Transport af Energi, og der om Transport af
+Bevægelsesmængde. En Luftmasse tænkes at befinde
+sig mellem to plane parallelle Vægge, af hvilke
+den ene holden paa en højere Temp. end den
+anden. Saa længe der i Mellemrummet mellem
+Væggene kun er faa Molekyler, kan et
+Molekyle naa fra den varme til den kolde Væg efter
+faa ell. ingen Sammenstød, altsaa med hele den
+til den højere Temp. svarende Energi i
+Behold. Naar derimod Antallet af Molekyler er
+stort, vil Molekylerne genere hverandre: de
+vil kun ramme den kolde Væg med en Brøkdel
+af den Energi, de havde, da de forlod den
+varme Væg, idet Resten efterhaanden er
+fordelt til de mellemliggende Molekyler;
+Virkningen af et enkelt Stød mod den kolde Væg er
+saaledes formindsket, men samtidig er Antallet
+af Stød forøget. Den nærmere Beregning
+giver, at Varmeledningsevnen ligesom den indre
+Gnidning ved lave Tryk er proportional med
+Trykket, men ved højere Tryk er uafhængig
+af dette, og dette er fuldkommen bekræftet ved
+Forsøg. Teorien viser imidlertid ogsaa, at
+Forholdet mellem Varmeledningsevnen og den
+indre Gnidning netop skal være lig vedk. Luftarts
+Varmefylde ved konstant Rumfang. Dette har
+Forsøgene imidlertid ikke bekræftet, men
+Afvigelsen kan i det mindste delvis skyldes flg.
+af Martin Knudsen opdagede Forhold: et
+Molekyle vil ved et enkelt Stød mod en varm Væg
+ikke antage hele den til Væggens Temp.
+svarende Energi, og heller ikke ved Stød mod en
+bevæget Plade opnaa hele dennes
+Bevægelseshastighed; der maa indføres en
+»Akkomodationskoefficient«, karakteristisk for de forsk.
+Luftarter. Der skal imidlertid ikke gaas nærmere
+ind herpaa.
+
+9) <sp>Varmefylde</sp>. Tilføres der en
+Luftmasse en vis Varmemængde, idet Luftens
+Rumfang holdes konstant, vil Varmen bruges dels
+til at forøge den translatoriske Energi og dels
+til at forøge den indre Energi af
+Luftmolekylerne. Holdes ikke Rumfanget, men Trykket,
+konstant, vil en Del af den tilførte Varme
+bruges til at forøge Luftens Rumfang: er den
+indesluttet i en Cylinder under et Stempel, vil
+dette løftes, hvortil kræves Energi. Til 1 Grads
+Opvarmning kræves altsaa i sidste Tilfælde mere
+Varmetilførsel end i første. Betegnes Luftens
+Varmefylde pr Grammolekyle ved konstant
+Tryk ved <i>c<sub>p</sub></i> og Varmefylden ved konstant
+Rumfang ved <i>c<sub>v</sub></i>, giver Termodynamikken, at <i>c<sub>p</sub></i> —
+<i>c<sub>v</sub></i> bliver lig Gaskonstanten <i>R</i> = 1,986
+Gramkalorier ell. rundt regnet 2 Gramkalorier.
+
+Opfattes nu som ovf. omtalt eenatomige
+Luftarter som fuldkommen faste Kugler uden indre
+Energi, giver den k. T. <i>c<sub>v</sub></i> = 3 Gramkalorier;
+<i>c<sub>p</sub></i> bliver altsaa lig 5 Gramkalorier og
+Forholdet mellem dem <i>k</i> = <i>c<sub>p</sub></i>/<i>c<sub>v</sub></i> = 5/3
+ = 1,666. Disse
+af Teorien beregnede Værdier passer ganske
+med Forsøgsresultaterne.
+
+For at kunne beregne Varmefylden for to-
+og fleratomige Molekyler indfører den k. T.
+Begrebet »Frihedsgrader«; henføres alle
+Molekylerne til et retvinklet Koordinatsystem, er et
+eenatomigt Molekyles Plads fuldkommen
+bestemt, naar man kender dets 8 Koordinater. Et
+eenatomigt Molekyle siges derfor at have 3
+»Frihedsgrader«, og da <i>c<sub>v</sub></i> fandtes lig 3, kan
+man sige, at der tilkommer hver Frihedsgrad
+en Varmefylde paa 1 Gramkalorie, idet der
+ingen Grund er til, at den ene Frihedsgrad
+skulde have mere end de andre. Et toatomigt
+Molekyle sammenlignes med en »Haandvægt«:
+
+<img>Fig. 5.</img>

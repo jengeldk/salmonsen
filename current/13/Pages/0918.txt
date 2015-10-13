@@ -1,0 +1,127 @@
+kan Molekylerne som Helhed rotere om en ell.
+fl. Akser, ligesom ogsaa Atomerne indenfor
+Molekylet kan udføre Svingninger og Rotationer.
+Alle disse Energiformer afhænger af Legemets
+Temp., og for et frit bevægeligt Molekyle
+antages det, at dets translatoriske Energi er
+direkte proportional med dets absolutte Temp.,
+saaledes at man som Grundligning for hele
+Teorien har 1/2 <i>m</i> <i>c</i><sup>2</sup> = <i>K T</i>. Her er <i>m</i>
+Molekylets Masse, <i>c</i> dets Middelhastighed og <i>T</i> dets
+absolutte Temp.; <i>K</i> er en Konstant, ens før
+alle Legemer; dens Værdi er <i>K</i> = 1,37·10<sup>-16</sup>.
+Af Grundligningen ses, at alle Molekyler ved
+samme Temp. gennemsnitlig har samme kinetiske
+Energi, uanset Materialet, og endvidere at
+Molekyler af forsk. Legemer ved samme Temp. har
+desto større Middelhastighed, jo mindre deres
+Masse er.
+
+Teorien er i Hovedsagen uddannet af
+Clausius (1867), Maxwell (1873) og Boltzmann (1875),
+samt i den nyeste Tid Gibbs (1902), Nernst og
+Einstein.
+
+Medens man selvfølgelig er ude af Stand til
+at se de enkelte Molekyler og derved direkte
+overbevise sig om, at de bevæger sig paa den
+omtalte uordnede Maade, saa har man i de
+Brown'ske Bevægelser et groft Billede af
+Molekylbevægelsen. Disse Bevægelser, der er
+opkaldte efter den eng. Botaniker Robert Brown,
+som. opdagede dem 1827, ses ved Smaadele,
+opstemmede i en Vædske, f. Eks. ved Gummigut,
+udrørt i Vand. Iagttages en saadan Opslemning
+i et Mikroskop ell. bedre et Ultramikroskop, ses
+de opstemmede Partikler at være i en meget
+livlig Bevægelse: de dirrer ustandseligt og
+bevæger sig tilsyneladende fuldkommen planløst
+frem og tilbage i Vædsken. Ved at anvende den
+k. T. paa disse Partikler er det lykkedes
+Einstein og Schmoluckowsky at beregne, hvor langt
+en Partikel gennemsnitlig vandrer i en vis Tid,
+og det fundne Udtryk er fuldt ud bekræftet
+ved Maalinger af Perrin, Svedberg m. fl. Fig. 1
+viser en Tegning af Perrin; en
+Gummigutopslemning blev undersøgt under Mikroskopet og
+en enkelt Partikel iagttaget gennem længere Tid;
+hvert 30. Sekund blev Partiklens Plads
+afmærket paa et Stykke Papir og Mærkerne derefter
+forbundne med rette Linier. Figuren giver paa
+ngen Maade Partiklens virkelige Bane: hver
+af de rette Linier er i Virkeligheden en lige
+saa indviklet Siksaklinie som hele Figuren selv;
+men den viser hele Bevægelsens uregelmæssige
+Karakter, og Liniestykkernes gennemsnitlige
+Længde stemmer nøjagtig med det teoretisk
+fundne Udtryk. Figuren giver endvidere et —
+om end kun svagt — Indtryk af selve
+Molekylernes Bevægelse; Gummigutpartiklerne maa
+være forholdsvis store;, for at man overhovedet
+kan se dem, men de har følgelig ogsaa
+forholdsvis lille Hastighed, og deres Bevægelse
+bliver derfor langt mere afdæmpet end selve
+Molekylernes. Ogsaa Partiklernes roterende
+Bevægelse samt Variationen ideres Antal i forsk.
+vandrette Lag er undersøgt eksperimentelt, og
+man har ogsaa her fundet nøje
+Overensstemmelse med Teorien.
+
+I denne Forbindelse skal ogsaa nævnes en
+Række Eksperimentalundersøgelser af Martin
+Knudsen ved Luftarter ved saa lave Tryk, at
+man kan se bort fra Sammenstødene mellem
+de enkelte Molekyler. Ogsaa ved disse
+Undersøgelser er Teorien blevet bekræftet i alle sine
+Hovedtræk. Teoriens Grundlag støttes nu af en
+overvældende Fylde af eksperimentelt
+fastslaaede Kendsgerninger.
+
+I det flg. skal nu omtales Teoriens Anvendelse
+paa forsk. af Legemernes fys. Forhold, idet
+Behandlingen deles i flg. Afdelinger: A.
+Luftarterne, med Underafsnittene 1) Ekspansionen; 2)
+Diffusionen; 3) Luftens Tryk, Mariotte's og
+Gay-Lussac's Love; 4) Avogadro's Lov; 5)
+Hastighedsfordelingsloven; 6) Stødtallet, den fri
+Middelvejlængde; 7) Den indre Gnidning; 8)
+Varmeledning; 9) Varmefylde; 10) Ikke-ideale
+Luftarter, v. d. Waal's Tilstandsligning. B.
+Faste Legemer og Vædsker. C. Anvendelse af
+Kvanteteorien.
+
+A. <sp>Luftarterne</sp>. Alle de karakteristiske
+Egenskaber, ved hvilke Luftarterne adskiller
+sig fra de faste Legemer og Vædskerne,
+forklares simpelt og naturligt ud fra den k. T,
+
+1) <sp>Ekspansionen</sp>. Er en Luftmasse
+indesluttet i en Cylinder under et Stempel, vil
+Molekylerne under deres Bevægelse støde
+sammen baade indbyrdes og med Cylindervæggene
+og Stemplet. Trækkes Stemplet pludselig ud, vil
+Molekylerne følge efter, da der jo intet mere
+er til at standse dem paa Stemplets gl. Plads.
+P. Gr. a. Molekylernes store Hastighed vil det
+for os se ud, som om Luften øjeblikkelig
+udfylder hele det disponible Rum.
+
+2) <sp>Diffusionen</sp>. Er to (ell. fl.)
+Luftarter anbragte i en Beholder, f. Eks. saaledes, at
+den letteste er øverst og den tungeste nederst,
+saa vil Molekylerne paa begge Sider af
+Grænsefladen fare over denne og ind i
+Naboluftarterne; Luftarterne vil saaledes diffundere ind i
+hverandre.
+
+Et Forhold, der slaaende viser, at
+Luftmolekylerne maa have en Egenbevægelse, er
+Luftens Diffusion gennem porøse Vægge. I Fig. 2
+er <i>A</i> en porøs Lercylinder, lukket tæt med en
+Prop, hvorigennem der gaar et Glasrør, der
+udmunder under Vand, <i>B</i>; over Lercylinderen
+er anbragt et Glas <i>G</i> med Bunden opad. Ledes
+nu f. Eks. Brint ind under Glasset, vil den
+diffundere gennem Lercylinderen, saaledes at der
+
+<img>Fig. 1.</img>

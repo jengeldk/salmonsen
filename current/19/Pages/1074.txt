@@ -1,0 +1,150 @@
+Agnater. Det vil som oftest være den Kognat,
+som staar nærmest ved den sidst afdøde Agnat,
+f. Eks. hans ældste Datter, men det afgørende
+kan ogsaa være Nærheden ved den
+successionsberettigede Slægts Stamfader, saaledes at den
+foretrukne bliver den ældste i den ældste fra
+ham udgaaende kvindelige Linie. Saadanne
+Efterkommere efter Kognater, der tidligere har
+været udelukkede af Agnaterne, kaldes R.
+<i>P. J. J.</i>
+</chapter>
+
+<chapter name="Regres">
+<b>Regres</b> (lat.), Gensøgningsret,
+Skadesløsholdelseskrav, Krav paa at faa en vis Udgift
+dækket af en anden. Saaledes vil gerne den
+Kautionist, der har maattet indfri Gælden, have
+R. til Hoveddebitor for hele sit Udlæg, medens
+den af fl. sideordnede solidariske Skyldnere,
+der har maattet udrede hele Beløbet, jævnlig vil
+have R. til de andre for sit Udlæg efter
+Fradrag af den Del, der skal falde paa ham.
+<i>E. T.</i>
+</chapter>
+
+<chapter name="Regression">
+<b>Regression,</b> se <sp>Niveauforandringer</sp>.
+</chapter>
+
+<chapter name="regressiv">
+<b>regressiv</b> (lat.), tilbageskridende, modsat:
+progressiv.
+</chapter>
+
+<chapter name="regressive Forandringer">
+<b>regressive Forandringer,</b> se
+<sp>Plantepatologi</sp>, S. 221.
+</chapter>
+
+<chapter name="Regula de tri">
+<b>Regula de tri</b> [alm. regula'de.tri] (lat.) er
+en Regel for Behandling af saadanne
+Regnestykker, som satte i Ligning giver en
+Proportion med 3 bekendte Led og den søgte
+Størrelse som 4. Led. Lyder Spørgsmaalet f. Eks.
+saaledes: naar 3 Pd koster 8 Kr, hvor mange
+Kroner koster saa 5 Pd?, bliver Proportionen,
+da Varemængde og Pris er ligefrem
+proportionale (se <sp>Proportional</sp>), 3/8 = 5/<i>x</i>, naar <i>x</i>
+betegner det søgte Antal Kroner; heraf faas
+<i>x</i> = 5·8/3, og R. d. t. bestaar i, at man, idet
+Regnestykket opstilles saaledes: 3 Pd — 8 Kr
+— 5 Pd — ?, skal dividere 2. og 3. Leds.
+Produkt med første Led (Benævningen bortkastes).
+Opgaven: et Arbejde kan af 6 Arbejdere
+udføres i 5 Dage, hvor længe er 7 Arbejdere om
+det?, opskrives saaledes: 6 Arbejdere — 5 Dage
+— 7 Arbejdere —?; her er Arbejdernes Antal
+og den anvendte Tid omvendt proportionale,
+saa at Proportionen bliver 6/7 = <i>x</i>/5, hvoraf
+<i>x</i> = 6·5/7, Produktet af 1. og 2. Led divideret
+med 3. (<sp>omvendt</sp> R. d. t.). I <sp>sammensat</sp>
+R. d. t. anvendes R. d. t. gentagne Gange;
+saaledes kan Opgaven: hvor mange Arbejdsdage
+à 15 Timer bruger 60 Arbejdere til at udføre et
+Arbejde, naar det af 45 Arbejdere kan
+udføres i 30 Dage à 12 Timer?, løses ved følgende
+Regula-de-tri-Opstillinger, hvor <i>x</i> er det søgte
+Tal og <i>y</i> Antallet af Dage à 12 Timer,
+som 60 Arbejdere behøver: 12 Timer — <i>y</i>
+Dage — 15 Timer — <i>x</i> Dage (omvendt R. d. t.),
+45 Arbejdere — 30 Dage — 60 Arbejdere — <i>y</i>
+Dage (omvendt R. d. t.); man finder <i>y</i> = 30·45/60
+og <i>x</i> = 45·12·30/60·15. Beregningen opstilles
+hyppig saaledes, at man paa den ene Side af en
+lodret Streg skriver under hinanden de Tal,
+der skal staa i <i>x</i>'s Tæller, paa den anden Side
+Nævnerens Faktorer (den Reesiske Regel); de
+første Tal kendes paa, at man ved at tillægge
+dem større Værdier faar <i>x</i> til at vokse, medens
+det modsatte gælder om Tallene paa den
+anden Side af Stregen. Baade enkelt og
+sammensat R. d. t. træffes allerede i den gamle indiske
+Matematik.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Regula falsi">
+<b>Regula falsi</b> (mat.) kan anvendes, naar man
+skal finde en Værdi for en ubekendt Størrelse <i>x</i>,
+der giver en vis Funktion af <i>x</i> en opgiven
+Værdi <i>b</i>; den gaar ud paa, at man vælger en Værdi
+α for <i>x</i> i Nærheden af den rigtige, beregner
+Funktionen for denne Værdi, og saa søger at
+afgøre, hvilken Rettelse man skal foretage ved
+α, for at Funktionens Værdi skal blive
+forandret til <i>b</i>. Allerede Ægypterne anvendte R. f.
+ved Opgaver, som vi vilde løse ved en Ligning
+af Formlen <i>ax</i> = <i>b</i>; hvis Forsøg (med <i>x</i> = α
+gav <i>c</i> i Stedet for <i>b</i>, var Løsningen <i>x</i>=α · <i>b/c</i>.
+Diofantos udvidede Metoden til andre mere
+indviklede Tilfælde. <i>Regula duorum falsorum</i>,
+hvor der bruges to Forsøgsværdier, træffer vi
+allerede hos Inderne ved Opgaver, som vi vilde
+løse ved Ligningen <i>ax+b=c</i>; hvis <i>x</i>=α og
+<i>x</i>=β gav Værdierne <i>d</i> og <i>e</i> i Stedet for <i>c</i>, blev
+x= α (<i>c—e</i>) — β (<i>c—d</i>) / (<i>c—e</i>) — (<i>c—d</i>). Denne Metode, der
+ganske stemmer med vor simple Interpolation, ser
+vi tidlig anvendt ved Lejligheder, hvor vi ogsaa
+vilde bruge den, saaledes af Alkarchi ved
+Kvadratrodsuddragning, af Leonardo da Pisa ved
+Kubikrodsuddragning, af Chuquet ved
+Løsningen af en eksponentiel Ligning.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Regula fidei">
+<b>Regula fidei</b> (lat.: »Trosregel« ell.
+»Trosnorm«) ell. »Sandhedens Regel«, et Udtryk hos
+Kirkefædrene i 2. og 3. Aarh. til Betegnelse af
+Kristendommens Hovedindhold, i Virkeligheden
+formelt identisk, med det senere, fra Beg. af 4.
+Aarh. anvendte Udtryk <sp>Symbol</sp>. Navnlig
+Irenæus og Tertullian, hævder R. f. og erklærer
+den for Kirkens Fællesejendom, der er
+overleveret fra Apostlene ell. endog fra Kristus
+gennem Presbyternes Succession, og som er
+uforanderlig og irreformabel. Den, som ikke bøjer
+sig for Kirkens R. f., er en Kætter. I øvrigt
+havde Gnostikerne, bl. a. Valentinianerne, ogsaa
+en Regula, der blev udgivet for at være
+apostolsk. Hvilket Indhold Kirkens R. f. havde,
+lader sig imidlertid ikke med Sikkerhed
+godtgøre, skønt netop dette Spørgsmaal i nyere
+Tid er blevet overordentlig grundig behandlet,
+først og fremmest af Caspari, men dernæst
+ogsaa af Harnack og mange senere. Ikke mindst
+i Danmark har Spørgsmaalet været
+brændende, fordi der fra grundtvigsk Side er blevet
+hævdet, at R. f. er identisk med den
+<sp>apostoliske Trosbekendelse</sp> og med den
+apostoliske Trosbekendelse i den Form, hvori vi
+har den. Dette er dog højst usandsynligt. Skønt
+Kirkefædrene kun giver løse Antydninger eller
+Brudstykker af R. f., idet de nemlig anser den
+for alm. kendt, lader det dog til, at R. f. ikke
+har været nogen ensartet Formel til alle Tider
+og paa alle Steder. En fælles Grundtype
+skimter man dog bag det hele, og der er vistnok
+

@@ -1,0 +1,10 @@
+<sp>GLAS</sp>
+
+<img>Stadier af en Kandes Tilblivelse.</img>
+
+<img>Owens Maskine. Hellerup Glasværk.</img>
+
+<table>
+<td><img></img><td><img></img>
+<td 2 c>Maskinel Fremstilling af Valser til Vinduesglas.
+</table>

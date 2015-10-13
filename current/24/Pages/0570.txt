@@ -1,0 +1,135 @@
+paavirker hverandre med Kræfter. Deres
+potentielle Energi vil derfor være uafhængig af
+deres indbyrdes Afstand, altsaa uafhængig af
+Luftmassens Rumfang. Dette forklarer, at
+Luftarternes indre Energi, som er en Sum af den
+kinetiske og den potentielle Energi, bliver
+uafhængig af Rumfanget. I Vædsketilstanden er
+den kinetiske Middelenergi i det væsentlige den
+samme som i Lufttilstanden; den store
+Energitilvækst, som Fordampningsvarmen viser der
+maa være ved Overgangen fra Vædske til
+Damp- altsaa Lufttilstand, maa derfor
+forklares som Tilvækst i potentiel Energi, vundet
+ved Overvindelse af Tiltrækningskraften mellem
+Molekylerne. Dens Størrelse giver os Oplysning
+om de overordentlig stærke Kræfter, hvormed
+Molekylerne er knyttet sammen i de faste og
+flydende Legemer. Efter den klassiske Mekanik
+skulde ogsaa den kinetiske Energi af
+Molekylerne i de faste Legemer følge den samme Lov
+som for Luftarterne, men her finder man store
+og systematiske Afvigelser ved lave
+Temperaturer, der kun kan forklares ved
+Kvantemekanikken. De faste Legemers ringe kinetiske
+Energi ved de lave Temperaturer betinger den
+tidligere omtalte Forsvinden af deres Varmefylde
+ved det absolutte Nulpunkt.
+
+<sp>Entropisætningen, en
+Sandsynlighedssætning</sp>. Medens Varmeteoriens
+1. Hovedsætning kun er en Overførelse af
+Energisætningen fra molekylære til almindelige
+Dimensioner, har 2. Hovedsætning en helt anden
+Karakter. Den er en statistisk
+Sandsynlighedssætning, begrundet i det uhyre Antal af
+Enkeltmolekyler, hvoraf Legemerne er opbygget. Da
+vi ved vore Iagttagelser af Tryk, Temperatur
+o. s. v. kun iagttager Middelværdier af talløse
+Molekylers Virkninger og aldrig de individuelle
+Molekylers Enkelvirkninger, forstaar man, at
+der til en ved almindelig Iagttagelse fastlagt
+Tilstand kan svare et meget stort Antal fra et
+molekylært Standpunkt betragtet højst
+forskellige Bevægelsestilstande. Man kalder dette Antal
+for den paagældende Tilstands statistiske
+Sandsynlighed <i>N</i>. Boltzmann har nu vist, at
+Tilstandens Entropi <i>S</i> kan beregnes som <i>S</i>=<i>k log<sub>nat</sub></i> . <i>N</i>,
+hvor <i>k</i> er den ovenfor omtalte
+Boltzmann'ske Konstant. <i>N</i> vil i Almindelighed være
+et overordentlig stort Tal, kun ved et
+krystallinsk Legeme ved det absolutte Nulpunkt, hvor
+alle Molekyler ligger absolut stille i de ved de
+molekylære Kræfter bestemte Stillinger, og hvor
+altsaa al Vilkaarlighed i Opbygningen er
+udelukket, bliver <i>N</i> = 1, hvad der giver Entropien
+Nul i Overensstemmelse med det Nernst'ske
+Varmeteorem. Sætningen om Entropiens stadige
+Voksen bliver efter denne Fortolkning den
+naturlige Sætning, at Molekylordningen stadig
+gaar mod mere og mere sandsynlige
+Fordelinger.
+
+For at belyse dette ved et simpelt Eksempel
+vil vi betragte den tidligere omtalte irreversible
+Proces, hvor en Luftart fra en Beholder <i>A</i>
+strømmer over i en lige saa stor lufttom
+Beholder <i>B</i>, indtil Trykkene i de to Beholdere er
+bleven lige store. Som vi har omtalt under
+Entropiberegningerne, vokser Luftens Entropi
+med Rumfanget. Entropien forøges altsaa ved
+Processen, i Overensstemmelse med at den er
+irreversibel. Fra et statistisk Synspunkt
+betragtet, er det ogsaa klart, at den afsluttende
+Tilstand, hvor der er omtrent lige mange
+Molekyler i de to Beholdere, er en meget
+sandsynligere Tilstand end Begyndelsestilstanden, hvor
+de alle var samlet i den ene Beholder. Tænker
+man sig, at man slog Plat og Krone om de
+enkelte Molekylers Fordeling mellem <i>A</i> og <i>B</i>,
+saa vilde der gennemsnitlig kun være een af
+2<sup>n</sup> Sæt Lodkastninger — hvor <i>n</i> er
+Molekylantallet —, der vilde give en Tilstand som
+Begyndelsestilstanden, medens de allerfleste vilde
+give en Fordeling med praktisk talt lige mange
+i hver. Da nu <i>n</i> er af Størrelsesordenen 10<sup>22</sup>,
+vil det sige, at Forholdet mellem de statistiske
+Sandsynligheder af Begyndelses- og
+Sluttilstanden vil være som 1 til et Tal, der skrives med
+noget som 10<sup>22</sup> Cifre, d. v. s. flere Cifre, end
+der er Bogstaver i samtlige Jordens Bøger og
+Blade! Man forstaar derfor, at hvis vi ikke netop
+paa kunstig Maade — ved at have Hanen
+mellem Beholderne lukket — frembringer den
+usandsynlige Begyndelsestilstand, saa vil den
+praktisk talt aldrig nogensinde indtræffe, naar
+det er overladt til Tilfældighedernes Spil. Hvis
+derimod en Intelligens kunde gribe ind i de
+enkelte Molekylers Bevægelse, stiller Sagen sig
+anderledes. Tænker man sig saaledes med
+Maxwell, at man raadede over et mikroskopisk
+intelligent Væsen, som kunde iagttage de enkelte
+Molekylers Bevægelse, og som ved en lille
+gnidningsfri Skydeventil kunde aabne og lukke
+for de enkelte Molekyler, saa vilde det være let
+at lade kun de Molekyler passere, der gik fra
+<i>B</i> til <i>A</i>, eller at samle de hurtige Molekyler i
+den ene, de langsomme i den anden Beholder
+og derved faa Entropien til at aftage. Man
+kunde tænke sig Muligheden af, at der i den
+levende Natur kunde være en
+entropiformindskende Virkning at spore; noget saadant er
+dog ikke iagttaget. En Proces som Planternes
+Kulsyreassimilation virker nok til at forsinke
+Entropiens Voksen, men faar den ikke til at
+aftage. Men selv om der saaledes under
+almindelige Forhold, ikke rokkes ved
+Entropisætningens Gyldighed, ved at den er bleven reduceret
+til en Sandsynlighedssætning, saa følger paa den
+anden Side med Nødvendighed af den
+statistiske Natur, at Entropien ogsaa i en
+Ligevægtstilstand stadig maa undergaa smaa
+Svingninger, eftersom baade Luftens Tæthed og
+Temperatur spontant undergaar Svingninger. Man
+kan vise, at hvis den ene Beholder normalt
+indeholder <i>n</i> Molekyler, saa vil
+Middelafvigelsen fra dette Gennemsnitstal paa Grund af
+Molekylbevægelsen være kvadratrod(<i>n</i>). De relative
+Tæthedssvingninger bliver altsaa 1/kvadratrod(<i>n</i>) ɔ: c. 1/10<sup>11</sup>,
+langt under Grænsen for almindelig Iagttagelse.
+For et rumligt Omraade, som er saa lille, at <i>n</i>
+ikke længere er noget særlig stort Tal, vil der
+derimod kunne være store Svingninger. For et
+Omraade f. Eks. af Lysbølgelængdedimensioner
+vil de være noget som 1 ‰ ved almindelig
+Tryk. Med Tætheden vil ogsaa

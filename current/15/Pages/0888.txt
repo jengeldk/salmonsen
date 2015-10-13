@@ -1,0 +1,178 @@
+den fjendtlige Ild, bag enkelte Terraingenstande
+(Gærder, Terrainbølger o. l.) finder den lettere
+Dækning; men den er mindre bevægelig,
+kommer i gennemskaaret Terrain let i Uorden,
+Kræfterne holdes ikke saa godt samlede, og
+den kan ikke saa let foretage Frontforandring.
+L. har i Tidernes Løb været anvendt baade
+som Opstillings- og Kampformation.
+
+Efter at den spredte Orden er blevet
+<sp>Fodfolkets</sp> Hovedkampform, idet den saavel indleder
+som gennemfører Kampen, og efter Fodfolkets
+Forsyning med Maskinskyts, finder den
+sluttede L. kun Anvendelse ved Opstilling til
+Parade og lignende, men ikke som
+Kampformation.
+
+For <sp>Rytteriets</sp> Vedk. er L. stadig
+Angrebsformationen, naar Rytteriet angriber til
+Hest, idet det gælder om at bringe saa mange
+blanke Vaaben som muligt til Anvendelse,
+ligesom den lange Kampfront er af stor Bet. af
+Hensyn til Omfatning. Ved Artilleriet er
+L. eneste Kampformation.
+
+Er en større Troppestyrkes mindre Led
+formerede i Kolonner, og disse opstilles paa
+samme Frontlinie med ensartede — men
+varierende — Mellemrum, benævnes Formationerne, alt
+efter Leddenes og Mellemrummenes Størrelse,
+<sp>Kolonnelinie</sp>, <sp>Kolonnemasse</sp> m. m.
+
+2) M. H. t. <sp>Værnepligten</sp> anvendes L.
+i Alm. som Betegnelse for de yngste Aargange.
+<i>E. C.</i>
+</chapter>
+
+<chapter name="Linie (jur.)">
+<b>Linie</b> (jur.), se <sp>Slægtskab</sp>.
+</chapter>
+
+<chapter name="Liniebatteri">
+<b>Liniebatteri,</b> se <sp>Telegraf</sp>.
+</chapter>
+
+<chapter name="Liniebundt">
+<b>Liniebundt</b> (mat.) kaldes Systemet af rette
+Linier i en Plan gennem samme Punkt.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Liniedaab">
+<b>Liniedaab,</b> en Ceremoni ell. Leg, som paa
+Søtogter anvendes over for Personer, der første
+Gang passerer Ækvator. Efter
+Omstændighederne udføres L. med større ell. mindre
+Optog, i hvilke Neptun spiller en fremtrædende
+Rolle; de paagældende indsæbes og barberes
+med primitive Redskaber, hvorefter de dyppes
+i en Balle Vand, ell. der hældes Pøse med
+Vand over dem, indtil de køber sig fri. Særlig
+i Orlogsmænd, hvor Besætningerne er store,
+gøres der undertiden meget ud af denne Fest;
+den bekendte Bournonville'ske Ballet »Fjernt
+fra Danmark« er væsentlig bygget over Optrin,
+hentede fra saadanne Folkeforlystelser.
+<i>C. W.-S.</i>
+</chapter>
+
+<chapter name="liniedannet">
+<b>liniedannet</b> (bot.) kaldes et smalt og oftest
+langt Blad, hvis Sider er rette og indbyrdes
+helt ell. næsten parallelle. Eks.: Bladene hos
+Græsser. <sp>Linieformet</sp> benyttes mest om
+andre Organer end Blade, Legemer, der ej er
+flade, f. Eks. mange Skulper hos
+Korsblomstrede.
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Linieforstyrrelse">
+<b>Linieforstyrrelse,</b> se <sp>Telegraf</sp>- og
+<sp>Telefonledninger</sp>.
+</chapter>
+
+<chapter name="Liniegeometri">
+<b>Liniegeometri</b> (mat.) behandler
+Egenskaberne ved Systemer af Linier i Rummet. I
+analytisk Geometri indgaar i en Linies Ligninger
+fire indbyrdes uafhængige Konstanter; opgiver
+man 1, 2 ell. 3 Ligninger mellem disse,
+bestemmes derved et Liniesystem, og det er
+naturligt at lægge Antallet af saaledes givne
+Ligninger til Grund for en Inddeling af
+Liniesystemerne. Er der givet 1 Ligning, faar man
+<sp>Liniekomplekset</sp>; som Eksempel paa
+et saadant kan nævnes en Flades Tangenter
+ell, de Linier, der skærer en given Kurve. 2
+Ligninger mellem en Linies Konstanter
+bestemmer en Kongruens. Dennes Linier rører
+alle en fast Flade to Gange ell. to faste Flader
+hver een Gang; disse bestemmende Flader kan
+spc. svinde ind til Kurver, som Linierne
+skærer. En spc. Kongruens er Systemet af
+Normaler til en Flade. 3 Ligninger mellem en
+Linies Konstanter bestemmer en vindskæv
+Flade. Som hensigtsmæssige Koordinater for
+en Linie gennem to Punkter med
+Tetraederkoordinaterne (α β γ δ) og (α<sup>1</sup> β<sup>1</sup> γ<sup>1</sup> δ<sup>1</sup>)
+bruges Determinanterne <i>a</i> = |β γ β<sup>1</sup> γ<sup>1</sup>|, <i>b</i> = |γ α γ<sup>1</sup> α<sup>1</sup>|,
+<i>c</i> = |α β α<sup>1</sup> β<sup>1</sup>|, <i>f</i> = |α δ α<sup>1</sup> δ<sup>1</sup>|, <i>g</i> = |β δ β<sup>1</sup> δ<sup>1</sup>|, <i>h</i> =
+| <sup>1</sup> <sup>1</sup>|, ell. de dermed proportionale Værdier,
+der faas, naar man for Punktkoordinaterne
+indsætter Koordinaterne til to Planer gennem
+Linien. Da disse Liniekoordinaters Forhold
+bestemmer Linien, og de identisk tilfredsstiller
+Ligningen: <i>af</i> + <i>bg</i> + <i>ch</i> = 0, kan man i
+Virkeligheden her kun vælge fire bestemmende
+Størrelser vilkaarlig. L. er grundlagt i
+Plücker's »Neue Geometrie des Raumes gegründet
+auf die Betrachtung der geraden Linie als
+Raumelement« (Leipzig 1868) og (for
+Kongruensernes Vedk.) i Kummer's »Über die
+algebraischen Strahlensysteme« (i »Abh. der Königl.
+Akademie der Wissenschaften zu Berlin«
+[1866]).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Liniekoordinater">
+<b>Liniekoordinater,</b> se <sp>Koordinater</sp> og
+<sp>Liniegeometri</sp>.
+</chapter>
+
+<chapter name="Linielyn">
+<b>Linielyn,</b> se <sp>Lyn</sp>.
+</chapter>
+
+<chapter name="Linien">
+<b>Linien,</b> 1) populært Udtryk for Ækvator. 2)
+Betegnelse for større Trafikanlæg
+(Jernbanelinie o. l.) ell. for Ruter (Dampskibslinie o. l.).
+3) d. s. s. Linietropper.
+</chapter>
+
+<chapter name="Linieornamentik">
+<b>Linieornamentik,</b> se <sp>Ornamentik</sp>.
+</chapter>
+
+<chapter name="Linierapparat">
+<b>Linierapparat,</b> Redskab, med hvilket
+Kobberstikkere og Litografer udfører Bølgelinier,
+Cirkler, Ovaler o. s. v. L. er ogsaa forsøgt til
+Træsnit. Til Afstregning af Skrivebøger,
+Protokoller o. l. anvendes en <sp>Liniermaskine</sp>,
+der trækker Streger med flydende Farve.
+Pennene kan indstilles i forsk. indbyrdes Afstand
+og faa Farve fra et Stykke Tøj ell. Filt, som er
+mættet dermed. Linierne kan afbrydes. I nyere
+Maskiner erstattes Pennene med Messingskiver,
+der sidder paa en Aksel og holdt paa Afstand
+ved indskudte Zinkskiver; Farven gives af
+elastiske Valser, som fødes fra Farvekasser.
+Samme Maskine kan have indtil 3 Sæt Valser og
+Farvekasser, saa at man samtidig linierer med
+3 Farver. De nyeste Maskiner bliver hyppigst
+fremstillet som en Kombination af Penne- og
+Skiveliniermaskinen og ofte forsynet med et
+Trykapparat parallelt med Skivernes Aksel
+saaledes, at man er i Stand til paa Papiret at
+fremstille et Liniatur af hinanden krydsende
+Linier.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Liniermaskine">
+<b>Liniermaskine,</b> se <sp>Linierapparat</sp>.
+</chapter>

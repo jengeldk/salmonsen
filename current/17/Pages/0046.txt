@@ -1,0 +1,143 @@
+automatisk nedskrives paa en Papirstrimmel.
+Paa lange, bagudgaaende Linier med stor
+Trafik anvendes Transmitter og Undulator til
+Sending og Modtagning af Hurtigtelegrafi. Selve
+Telegraferingen kan dog kun udføres af særligt
+Mandskab, hvis Uddannelse kræver lang Tid.
+De anvendte Telegrafapparater er af den
+i civil Meddelelsestjeneste anvendte Art.
+Som Ledning anvendes i stor Udstrækning de
+eksisterende, permanente Telegraflinier, supplerede
+med Feltlinier byggede som Enkeltlinie af blank
+Traad, ophængt godt isoleret paa særligt
+tildannede Stænger eller Lægter.
+Kun undtagelsesvis anvendes Feltkabel.
+Tillige anvendes Telegrafdupleks paa Telefonledninger
+ved Indskydning af Differentialruller eller 5-Klemmes
+Transformatorer paa Telefondobbeltledninger.
+
+<sp>Telefoni uden Traad</sp> anvendes kun
+undtagelsesvis ved en Hær i Kamp, fordi Talen
+let kan opfanges og forstaas paa de fjendtlige
+Lyttestationer. I Hovedsagen anvender kun
+Flyvere traadløs Telefoni, og de giver i saa
+Tilfælde deres Meddelelse ved at udtale nogle
+faa Bogstaver, hvis Betydning Modtageren
+søger i sin Kodebog. For at hindre Misforstaaelse
+af enslydende Bogstaver, f. Eks. <i>b</i> og <i>p</i>, udtales
+Bogstaverne ved Hjælp af Navne, f. Eks. Betty
+og Polly.
+
+<sp>Telegrafi uden Traad</sp> anvendes dels
+til Forbindelse mellem Flyvemaskiner (Balloner)
+og Jord, dels mellem Enhederne paa Jorden.
+Forbindelsen mellem Flyvemaskiner
+(Balloner) og Jord tillader disse hurtigt at
+afgive indhentede Oplysninger om fjendtlige
+Bevægelser m. m. samt navnlig at afgive
+Artilleriobservationer. Det er alm., at Flyvemaskiner
+kun er forsynet med Sender; kun enkelte
+Maskiner har baade Sender og Modtager.
+Den anvendte Stationstype er endnu hyppigt
+Gniststationer med roterende Gnisthjul og en
+Rækkevidde af 50—200 km. Dog træffes mere og
+mere Rørsendere med Rækkevidde op til 300 km.
+Ved Modtagning i Flyvemaskiner anvendes altid
+Lavfrekvens-, ofte tillige Højfrekvensforstærkning.
+Antennen er en enkelt Kobbertraad
+af c. 70 m Længde, der, naar den ikke bruges,
+er rullet op om et Hjul. Antennens Modvægt
+er Maskinens Stel. — Til Forbindelse mellem
+de paa Jorden kæmpende Enheder oprettes
+forsk. Radioforbindelsesnet, nemlig:
+
+— Arméradionet, der omfatter Forbindelsen
+mellem Armeen og det store Hovedkvarter,
+Naboarmeerne, Armékorpsene o. a. Enheder,
+der er direkte underlagt Chefen for Armeen.
+Dette Net omfatter kun Stationer, der sender
+udæmpede Bølger; som Regel anvendes
+Rørsendere med Rækkevidde mindst 300 km. Den
+anvendte Antenne er enten en Paraplyantenne
+med en 20—30 m høj Mast af Jern ell. Træ, ell.
+en T-Antenne dannet af en enkelt 50 m lang
+Traad, der bæres af to 16—20 m høje Master.
+Til Jordforbindelse anvendes en Modvægt,
+bestaaende af nogle Stk. Maatter af Kobber- ell.
+Messingtvist. Alt Stationsmateriel transporteres
+paa Automobiler. Stationen oprettes og
+afbrydes i Løbet af højst 30 Min.
+
+— Armékorpsradionet, der omfatter Forbindelsen
+mellem Armékorpset og de underlagte
+Divisioner, samt Flyverafdelingen. Endvidere
+Divisionernes Forbindelse med Nabodivisionerne
+og med Flyverafdelingen. De anvendte
+Stationstyper er som ovenfor beskrevet, men
+gennemgaaende mindre, idet der kun forlanges en
+Rækkevidde af omtr. 50 km.
+
+— Divisionsradionet, der omfatter Forbindelsen
+mellem Divisionen og dens Brigader, dens
+fremskudte Meldecentral, Kampvogne og
+Flyvere. De anvendte Stationstyper er som
+ovenfor beskrevet, men der forlanges kun en
+Rækkevidde af 30 km.
+
+— Endelig findes et Radionet, der omfatter
+Forbindelsen mellem Regimenter indbyrdes og
+mellem Regiment og Brigade. Tillige er det
+Regimenterne underlagte Artilleri forsynet med
+Radiomodtagere, saa Regimenterne kan
+paakalde dets Hjælp ad traadløs Vej.
+De anvendte Stationstyper er Gniststationer, hvor
+Gnistspændingen frembringes ved et Induktionsapparat.
+Modtageren er forsynet med Krystaldetektor.
+Rækkevidden er 4—6 km. Antennen er
+en enkelt 30 m lang Traad, der bæres af 2 et
+Par m høje Bambusstænger. — Den samtidige
+Anvendelse af et stort Antal Radiostationer paa
+et begrænset Omraade nødvendiggør en strengt
+regelbunden Organisation af Tjenesten for at
+undgaa Forvirring i de forsk. Net. For hvert
+Net fastsættes en bestemt Bølgelængde, for
+hver Station et bestemt Kaldesignal. Hver
+Meddelelse, der afsendes ad traadløs Vej, skal
+forinden Afsendelsen være omsat til
+Kodesprog. En særlig Afdeling af Radiotjenesten er
+Radiolyttestationer, der kun har til Opgave at
+opsnappe fjendtlige Telegrammer, og
+Radiopejlestationer, hvis Opgave er at bestemme
+Retningen til fjendtlige Stationer. Er Retningen
+bestemt af to eller fl. Pejlestationer, kan den
+fjendtlige Stations Plads nøje bestemmes.
+
+<sp>Jordtelegrafi</sp> anvendes kun i de
+forreste Linier til Forbindelse mellem
+Batailloner og deres Regiment, mellem Batterier og
+deres Artilleriafdelinger, eventuelt ogsaa til
+deres Observatører samt mellem Regimenter og
+Divisionens fremskudte Meldecentral. Senderen
+er et Induktionsapparat, hvis Primærkreds
+fødes med en Strøm paa 3 à 4 Ampère fra et
+Akkumulatorbatteri med 10 Volts Spænding.
+Strømmen afbrydes og sluttes med en Telegrafnøgle.
+Sekundærkredsens to Klemmer forbindes
+hver med en gummiisoleret Ledning af Længde
+25—50 m; disse to Ledninger lægges ud paa
+Jorden (f. Eks. i Bunden af en Skyttegrav) til
+hver Side af Senderen, og deres frie Ende
+forbindes med fl. Jordpinde til Jord. Den saaledes
+udlagte 50—100 m lange Ledning kaldes
+Senderens Basis, og dens Retning bør være
+vinkelret paa den Retning, i hvilken Sendingen
+skal foregaa. Den elektriske Modstand i Basis
+(Linie- og Jordmodstand) maa højst være 100
+Ohm. Naar der trykkes paa Telegrafnøglen,
+gennemstrømmes Basis af en Vekselstrøm, der
+mellem de to Jordforbindelser frembringer et
+Kraftliniefelt, hvis Kraftlinier breder sig ud
+gennem Jorden. Anbringes nu i nogen Afstand
+fra Senderen og parallel med dennes Basis en
+tilsvarende Basis til Modtagning, vil nogle af
+Kraftlinierne gennemstrømme denne. Indskydes

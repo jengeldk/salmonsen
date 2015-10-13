@@ -1,0 +1,150 @@
+<chapter name="Landmaaler">
+<b>Landmaaler,</b> se <sp>Landinspektør</sp>.
+</chapter>
+
+<chapter name="Landmaaling">
+<b>Landmaaling.</b> Jordens mat. Overflade ɔ:
+Grundformen for Jordens Overflade, saaledes
+som denne maatte se ud, dersom Jorden var
+fuldstændig omgivet af Vand, og ingen ydre
+Kræfter virkede paa den, er tilnærmelsesvis
+en <sp>Omdrejningsellipsoide</sp> og
+benævnes <sp>Sfæroiden</sp>.
+
+Ved Opmaaling af Jordens naturlige
+Overflade projiceres dennes enkelte Punkter,
+<sp>Terrainpunkter</sp> paa den mat. Jordoverflade,
+idet man gennem hvert Punkt tænker fældet
+en Normal paa denne. Punktet vil da være
+fuldstændig bestemt, naar man angiver 1) dets
+Projektions Beliggenhed paa den mat.
+Jordoverflade, og 2) den projicerende Linies
+Længde. Bestemmelsen af Beliggenheden af
+Terrainpunkters Projektion benævnes L. (i snævrere
+Forstand), medens Bestemmelsen af de
+projicerende Liniers Længde benævnes
+<sp>Nivellering</sp> (s. d.).
+
+Da Sfæroiden er en dobbelt, krum Flade, og
+altsaa uudfoldelig, vil de paa denne projicerede
+Punkter ikke kunne overføres paa et Plan,
+altsaa heller ikke kunne fremstilles paa et
+Kort, uden at der opstaar Fejl,
+<sp>Forvanskning</sp>; men paa den anden Side er det
+indlysende, at naar vedk. Del af Jordoverfladen
+gøres tilstrækkelig lille, vil Forvanskningen
+kunne blive saa ringe, som man ønsker. Hvor
+store Landstrækninger man kan fremstille paa
+et enkelt Plan, beror paa, hvor stor en
+Forvanskning man med det foreliggende Formaal
+for Øje kan taale. Efter de forsk. Maader, paa
+hvilke Projiceringen udføres, opstaar der Kort
+med forsk. Egenskaber, se <sp>Landkort</sp>,
+<sp>Kortprojektioner</sp>. Forvanskningen kan f. Eks.
+vise sig derved, at Kortet vel paa de enkelte
+smaa Arealer er ligedannet med den
+fremstillede Del af Jordoverfladen, men at
+Maalestoksforholdet er forsk. paa de forsk. Steder.
+
+Resultatet af en Opmaaling foreligger i Alm.
+i Talform i de i Marken førte Maalebøger, paa
+Grundlag af hvilke der som et andet Haands
+Resultat kan fremstilles Kort; men ved
+<sp>Maalebord</sp> (s. d.) foreligger Resultatet dog
+direkte i grafisk Form, altsaa som et Kort.
+
+Ogsaa for Nivellementer er det primære
+Resultat Optegnelserne i Maalebogen, medens den
+grafiske Fremstilling er det sekundære
+Resultat. En Linie fremstilles grafisk ved sin
+<sp>Profil</sp> ɔ: en Udfoldning af det lodrette Snit, der
+indeholder Linien. Højderne tegnes i Reglen i
+større Maalestoksforhold end Længderne, ofte
+bruges 1/200 for Højder og 1/2000 for Længder.
+Højdeforholdene i et Terrain fremstilles i
+Reglen grafisk ved <sp>ækvidistante
+Horisontalkurver</sp>, som er Kurver, der indeholder
+alle de Punkter, der har samme Højde over
+den mat. Jordoverflade, og hvis indbyrdes
+Højdeforskel er konstant. Man kan skelne mellem
+3 Arter af Opmaaling:
+
+I. <sp>Den geodætiske Opmaaling</sp> har
+det rent videnskabelige Formaal at bestemme
+Jordens Størrelse og Form; men under
+Løsningen af denne Opgave tilvejebringer den et
+System af Hovedpunkter, hvis Beliggenhed er
+bestemt med den højeste Grad af Nøjagtighed,
+og som derfor danner et fortrinligt Grundlag
+for de senere Opmaalinger og Nivellementer.
+
+II. <sp>Den topografiske Opmaaling</sp>
+har det Formaal at tilvejebringe Oversigtskort
+over større Dele af Jordoverfladen. Da de
+topografiske Kort i Reglen udarbejdes i smaa
+Maalestoksforhold, kan de ikke gøre Fordring
+paa stor Nøjagtighed m. H. t. de enkelte
+Terrainpunkters Bestemmelse.
+
+III. <sp>Den økonomiske Opmaaling</sp>
+tilsigter en detailleret Opmaaling af større ell.
+mindre Landstrækninger, oftest med
+Ejendomsforhold (Matrikulsforhold),
+Administrationsforhold ell. tekn. Formaal for Øje. I Reglen
+forlanges Resultatet af Opmaalingen grafisk
+fremstillet ved Kort i stort Maalestoksforhold. Disse
+Opmaalinger udføres paa Grund af de enkelte
+Terrainpunkters store Bet. (Skelpunkter) med
+minutiøs Nøjagtighed.
+
+Opmaaling af store Arealer, hele Lande ell.
+Landsdele, maa knytte sig til et System af
+Hovedpunkter, Fikspunkter (s. d.), hvis
+Beliggenhed paa Sfæroiden bestemmes med al den
+Nøjagtighed, som Videnskaben og Teknikken
+kan tilvejebringe.
+
+De forsk. Trin af Opmaalingsarbejdet bliver
+da: Triangulation, Polygonmaaling,
+Linietriangulation og Detailmaaling. Ved
+<sp>Triangulation</sp> (s. d.) bestemmes et System af
+Hovedpunkter derved, at man lader dem indgaa som
+Vinkelspidser i et Trekantnet, hvis Vinkler
+maales med Theodolit (s. d.), hvorved dets Form er
+bestemt, medens dets Størrelse bestemmes ved
+Maaling af en enkelt Side i Nettet. Den
+grundlæggende Triangulation, ved hvilken der
+bestemmes Hovedpunkter med store indbyrdes
+Afstande (30—60 km ell. stundom meget mere),
+siges at være af 1. Orden; den udføres i de
+fleste Lande af Gradmaalingen (s. d.). Til 1.
+Ordens Nettet knyttes Trekantnet af 2. Orden
+o. s. v. helt ned til 5.—6. Orden, hvor Punkternes
+Afstand bør være et Par km. Ved 1. Ordens
+Triangulationen bestemmes, foruden
+Hovedpunkternes relative Beliggenhed, ad astron.
+Vej et enkelt Hovedpunkts absolutte
+Beliggenhed paa Jordoverfladen, hvilken angives ved
+Punktets Længde og Bredde, samt en fra dette
+Punkt udgaaende Retnings <sp>Azimut</sp>, ɔ: den
+Vinkel, som Retningen danner med
+Nordretningen (Meridianen). Triangulationsnettet
+udjævnes efter »Mindste Kvadraters Metode«
+(s. d.). Ved Triangulationsnettene af lavere
+Orden gaar man over til at angive Punkternes
+Beliggenhed ved retvinklede, plane Koordinater,
+idet man sørger for, at det enkelte
+Koordinatsystem, hvis Abscisse — ell. Ordinatakse —
+falder sammen med Meridianen, ikke bliver
+større, end at Forvanskningen kan betragtes
+som forsvindende ved Siden af de uundgaaelige
+Maalefejl.
+
+<sp>Polygonmaaling</sp>. Er der givet to
+Fikspunkter, <i>A</i> og <i>B</i> (se Fig.), idet man kender
+deres Koordinater i et retvinklet, plant
+Koordinatsystem, og Azimuterne for to, henh. fra
+<i>A</i> og <i>B</i> udgaaende Retninger <i>A</i>—<i>M</i> og <i>B</i>—<i>N</i>,
+kan man bestemme Beliggenheden af en Række
+Punkter, <sp>Polygonpunkter</sp>, 1, 2, 3 . . . <i>n</i>
+ved Maaling af <sp>Polygonvinklerne</sp>

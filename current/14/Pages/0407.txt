@@ -1,0 +1,148 @@
+[<i>r</i>(<i>cos</i> Θ + i <i>sin</i> Θ)] <sup>1/<i>n</i></sup>
+=<i>n</i>√<i>r</i> (<i>cos</i> Θ+<i>2pπ</i>/<i>n</i> + <i>i</i> <i>sin</i>  Θ+<i>2pπ</i>/<i>n</i>)
+paa højre Side i St f. <i>p</i> at sætte alle hele Tal
+faar man <i>n</i> og kun <i>n</i> forsk. Værdier for
+Rodstørrelsen paa venstre Side. I øvrigt danner
+man en Funktions Værdi for k. Værdier af de
+Variable ved at indsætte disse Værdier i
+Funktionens Rækkeudvikling. Der vil efter de her
+opstillede Definitioner blive regnet med de k.
+T. efter de for reelle Tal gældende Regneregler;
+saaledes vil Koordinaterne til det Punkt, der
+fremstiller Summen af <i>a+bi</i> og <i>m+ni</i>, være
+<i>a+m</i>, <i>b+n</i>, stemmende med, at <i>a+bi+m+ni</i>
+<i>=a+m+(b+n)</i> <i>i</i>. Al Regning med k. T. fører
+til Tal af samme Form. Den ældste
+Matematik betragtede kun de reelle Tal, men man traf
+efterhaanden fl., og fl. Funktioner, f. Eks.
+Rødder i Ligninger, Logaritmer, hvis Værdier ikke
+altid var reelle (se <sp>imaginære Tal</sp>), og
+det lykkedes at vise, at saadanne ikke reelle
+Funktionsværdier kunde skrives paa Formen
+<i>a+bi</i>, naar man regnede med Tal af denne
+Form som med reelle. Den fulde Nytte af de
+k. T. fik man dog først, efter at deres
+Fremstilling ved Planens Punkter var opfunden af
+Gauss og Nordmanden Caspar Wessel (1799) og
+senere af Argand (1806). I hvilken Grad
+Optagelsen af de k. T. i Talrækken har fremmet
+Matematikkens Udvikling og gjort Systemet
+simplere, ses bedst i Ligningers Teori (og som
+Følge deraf i analytisk Geometri) og i
+Funktionsteorien; derved muliggjordes f. Eks.
+Opstillingen af Algebraens Fundamentalsætning:
+en Ligning af <i>n</i>'te Grad med én Ubekendt har
+<i>n</i> Rødder. De alm. k. T. er egl. Talpar (<i>a b</i>);
+man har paa lgn. Maade indført højere k. T.
+i Betydningen Grupper af <i>n</i> reelle Tal (<i>a</i><sub>1</sub> <i>a</i><sub>2</sub>
+<i>a</i><sub>3</sub> . . . <i>a</i><sub>n</sub> ). Disse k. T. skrives saaledes: <i>a</i><sub>1</sub> +
+<i>a</i><sub>2</sub> <i>i</i> . . . + <i>a</i><sub>n</sub> <i>l</i>; her er <i>i</i>, <i>j</i> . . . <i>l</i> Symboler,
+der ved at knyttes til de forsk. Tal <i>a</i> angiver,
+hvilken Rolle disse Tal spiller i det k. T. Der
+opstilles saa Regler for Behandlingen af disse
+Symboler under Regning med de k. T. Størst
+Interesse har her de saakaldte Kvaternioner
+(s. d.).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Komplement (mat.)">
+<b>Komplement</b> (lat.) (mat.). To Vinkler kaldes
+hinandens <sp>Komplementvinkler</sp>, naar
+de tilsammen udgør 90°. Et Tals <sp>dekadiske</sp>
+K. faas ved at trække Tallet fra en Potens af
+10. En Regning som: 9387—5214 + 109—311
+kan i det væsentlige indskrænkes til Addition
+ved at omskrives til: 9387 + 4786—10000 +
+109+9689—10000 = (9387+4786+109+9689)—
+20000; man har her taget de dekadiske K. til
+5214 og 311, hvad sker hurtigt ved at trække
+det sidste Ciffer fra 10 og de andre fra 9.
+Denne Fremgangsmaade bruges hyppig ved
+Logaritmer, hvis dekadiske K. kaldes
+<sp>Komplementlogaritmer</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Komplement (om Blod)">
+<b>Komplement.</b> Herved forstaas en Funktion
+i friskt normalt Blodserum ell. Blodplasma,
+visende sig ved Blodvædskens Evne til at opløse
+Celler (f. Eks. Bakterier, røde Blodlegemer etc.),
+der i Forvejen er behandlede med et for
+Cellen specifikt Antistof (Amboceptor, s. d.).
+K. lader sig ikke isolere, det er bundet til
+Æggehvidestoffer, specielt Globulinfraktioner i
+Serum, resp. Plasma. Det findes i forsk.
+Mængde i de forsk. Dyrearters Blodvædske, særlig
+rigeligt er det i Marsvineblod. Det ødelægges
+hurtigt, f. Eks. ved faa Minutters Opvarmning
+til 55° C., og ved nogle Timers Henstand ved
+20° svækkes det betydeligt, bedst bevares det
+ved Temp. under 0°. P. Gr. a. den lette
+Destruktion ved højere Temp. siges det at være
+<sp>termolabilt</sp>. Det er en af de virksomme
+Komponenter ved den specifikke Opløsning af
+Bakterier og Celler i Alm. (Bakteriolyse resp.
+Cytolyse). Se i øvrigt <sp>Alexin</sp>.
+<i>O. T.</i>
+</chapter>
+
+<chapter name="Komplementar">
+<b>Komplementar</b> (fr. <i>complémentaire</i>), i et
+Kommanditselskab den fuldt ud ell. personlig
+hæftende Interessent i Modsætning til den alene
+med sit Formueindskud hæftende Interessent
+(Kommanditisten); i et »stille Selskab« er K.
+Forretningens Indehaver i Modsætning til den
+stille ell. passive Interessent, se
+<sp>Kommanditselskab</sp>.
+<i>K. B.</i>
+</chapter>
+
+<chapter name="Komplementbinding.">
+<b>Komplementbinding.</b> En serologisk
+Metode, der har faaet stor Bet. i
+Immunitetsforskningen i diagnostisk Øjemed. Princippet er det,
+at ethvert Proteinstof sammen med sit
+specifikke Antistof binder Komplement (s. d.) til sig.
+Om Komplement er blevet bundet i det givne
+Tilfælde, undersøges ved, at man til
+Blandingen sætter »sensibiliserede« røde Blodlegemer
+af en ell. anden Dyreart (oftest benyttes
+Faareblod). (Ved sensibiliseret forstaas, at
+Blodlegemerne har bundet til sig det specifikke Stof,
+»Amboceptor« [s. d.], der gør Blodlegemerne
+opløselige af Komplementet). Viser det sig nu,
+at de sensibiliserede Blodlegemer ikke kan
+opløses, betyder dette, at Komplementet i
+Blandingen ikke er disponibelt, det er altsaa forud
+bundet til tilstedeværende Proteinstof + dettes
+specifikke Antistof. Manglen af Blodets
+Opløsning (Hæmolyse) er da et Tegn paa, at der
+forud samtidig fandtes et Proteinstof samt dettes
+Antistof. Indtræder derimod Hæmolyse, betyder
+det, at Komplementet ikke var bundet, men var
+disponibelt til de sensibiliserede Blodlegemer,
+og altsaa kunde der i Blandingen ikke samtidig
+være et Proteinstof + dettes Antistof. Det vil
+da forstaas, at man ved Hjælp heraf kan
+paavise, 1) om et givet Serum (Blodvædske) af et
+Menneske ell. Dyr indeholder Antistof for et
+bestemt Proteinstof, f. Eks. Æggehvidestoffet i
+Tyfusbaciller. Man maa hertil arbejde med
+sikkert Tyfusproteinstof, hvad man lettest faar ved
+at tage en Kultur af Tyfusbaciller. Indtræder
+altsaa under de nævnte Forsøgsbetingelser
+ingen Hæmolyse, saa indeholdt Individets Serum
+Tyfusantistof, hvilket er ensbetydende med, at
+han er ell. kort forud har været inficeret med
+Tyfusbakterier. Indtræder derimod Hæmolyse,
+betyder det, at Tyfusantistof mangler i
+Individets Serum, og dette taler altsaa imod en
+foreliggende Infektion. 2) Paa tilsvarende
+Maade kan man, naar man arbejder med et
+Serum, der vides at indeholde Tyfusantistof,
+afgøre, om en given Bakterie er en
+Tyfusbacil eller ej. K. indtræder jo nemlig kun,
+naar Proteinstoffet forenes med sit specifikke

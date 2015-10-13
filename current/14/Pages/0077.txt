@@ -1,0 +1,140 @@
+<img>Kjøbenhavn ved Midten af 17. Aarh. (De stiplede Linier antyder Gaderne, som de endelig blev udlagt i den nye By).</img>
+
+<table>
+<td 2>Kjöbenhavn
+<td r>1<td>Vester Port
+<td r>2<td>Nørre Port
+<td r>3<td>Øster Port
+<td r>4<td>Amager Port
+<td r>5<td>Slottet
+<td r>6<td>Kgl. Stald
+<td r>7<td>Cancelliet
+<td r>8<td>Proviantgaard
+<td r>9<td>Bryggers
+<td r>10<td>Tøjhuset
+<td r>11<td>Løngangen
+<td r>12<td>Børsen
+<td r>13<td>Vandmølle Taarn
+<td r>14<td>Raadhus
+<td r>15<td>Frue Kirke
+<td r>16<td>St. Nicolai Kirke
+<td r>17<td>Helligaands Kirke
+<td r>18<td>St. Petri Kirke
+<td r>19<td>Trinitatis Kirke
+<td r>20<td>Holmens Kirke
+<td r>21<td>Toldboden
+<td r>22<td>Gartnerhuset i Haven
+<td r>23<td>Nørregade
+<td r>24<td>Lars Lejstr.
+<td r>25<td>Teglgaardsstr.
+<td r>26<td>Vestervold
+<td r>27<td>Nørrevold
+<td r>28<td>St. Pederstræde
+<td r>29<td>Studiestr.
+<td r>30<td>Store Lars Bjørnsstr.
+<td r>31<td>Lille Lars Bjørnsstr.
+<td r>32<td>Klokkehøjen
+<td r>33<td>Raadhusstr.
+<td r>34<td>Vombadstuestr.
+<td r>35<td>Lavendelstr.
+<td r>36<td>Lille St. Klemensstr.
+<td r>37<td>Store St Klemensstr.
+<td r>38<td>Mikkel Bryggersgade
+<td r>39<td>Helligkorsstr.
+<td r>40<td>Farvergade
+<td r>41<td>Smedebakken
+<td r>42<td>Slutter el. Svendegade
+<td r>43<td>Hestemøllestr.
+<td r>44<td>Vandkunsten
+<td r>45<td>Vandmøllestr.
+<td r>46<td>Vestergade
+<td r>47<td>Nytorv
+<td r>48<td>Gl. Torv
+<td r>49<td>St. Gjertrudsstr.
+<td r>50<td>Kjøbmagergade
+<td r>51<td>P. Hvitfeldtstr.
+<td r>52<td>Mikkel Vibesgade
+<td r>53<td>Fiolstr.
+<td r>54<td>Kirkestr.
+<td r>55<td>Skidenstr.
+<td r>56<td>Rosengaarden
+<td r>57<td>Store Kannikestr.
+<td r>58<td>Lille Kannikestr.
+<td r>59<td>Skindergade
+<td r>60<td>Klædeboderne
+<td r>61<td>Graabrødre
+<td r>62<td>Løvstr.
+<td r>63<td>Tugthusporten
+<td r>64<td>Helliggejststr.
+<td r>65<td>Klosterstr.
+<td r>66<td>Vimmelskaft
+<td r>67<td>Skoboderne
+<td r>68<td>Stenboderne
+<td r>69<td>Amagertorv
+<td r>70<td>Brolæggerstr.
+<td r>71<td>Compagnistr.
+<td r>72<td>Læderstr.
+<td r>73<td>Snaregade
+<td r>74<td>Gl. Strand
+<td r>75<td>Magstr.
+<td r>76<td>Knabrostr.
+<td r>77<td>Badstuestr.
+<td r>78<td>Naboløs
+<td r>79<td>Hyskenstr.
+<td r>80<td>Højbrostr.
+<td r>81<td>Landemærket
+<td r>82<td>Pustervig
+<td r>83<td>Aabenraa
+<td r>84<td>Slippen
+<td r>85<td>Springgade
+<td r>86<td>Vognmandsgade
+<td r>87<td>Brøndstr.
+<td r>88<td>Møntergade
+<td r>89<td>Klareboderne
+<td r>90<td>Grønnegade
+<td r>91<td>St. Antoniestr.
+<td r>92<td>Silkegade
+<td r>93<td>Østergade
+<td r>94<td>Pilestræde
+<td r>95<td>Gl. Mønt
+<td r>96<td>Kristenbernikovstr.
+<td r>97<td>Regnegade
+<td r>98<td>Lille Kongensgade
+<td r>99<td>Vingaardsstr.
+<td r>100<td>Dybensg.
+<td r>101<td>Nellikestr. nuv. Asylg.
+<td r>102<td>Laxegade
+<td r>103<td>Hummergade
+<td r>104<td>P. Madsensgang
+<td r>105<td>Ved Stranden
+<td r>106<td>Admiralgade
+<td r>107<td>Skvaldergade
+<td r>108<td>Ulkegade
+<td r>109<td>Fortunstr.
+<td r>110<td>Navnløs
+<td r>111<td>Henr. Møllers Kirkestr.
+<td r>112<td>L. Færgestr.
+<td r>113<td>St. Færgestr.
+<td r>114<td>St. Kirkestr.
+<td r>115<td>L. Kirkestr.
+<td r>116<td>Bag Børsen
+<td r>117<td>Ny Børs
+</table>
+
+<table>
+<td 2>Christianshavn.
+<td r>a<td>Strandgade
+<td r>b<td>Torvegade
+<td r>c<td>Kongensgade
+<td r>d<td>Kanalgade o. Vandet
+<td r>e<td>Kanalgade n. Vandet
+<td r>f<td>St Annagade n. Vandet
+<td r>g<td>Baadsmandsg. n. Vandet
+<td r>h<td>Baadsmandsg. o. Vandet
+<td r>i<td>St. Torvegade
+<td r>k<td>Dronningensgade
+<td r>l<td>Portstr.
+<td r>m<td>Sofiegade o. Vandet
+<td r>n<td>St. Annagade o. Vandet
+</table>
+

@@ -1,0 +1,136 @@
+spiralsnoet Platintraad. Kassen uden om
+Naalen er kun delt i to Dele, Binanterne, til hvilke
+den søgte Spændingsforskel sættes. Naalen og
+Kassen er ikke plane, men dannede som
+koncentriske Kugleflader (Fig. 9), hvorved man
+opnaar, at Naalen ikke let slæber paa. Udslaget
+er proportionalt med Spændingsforskellen lige
+op til Udslag paa lidt over 80°. Det egner
+sig derfor godt til Viserinstrument; en saadan
+Form er vist i Fig. 10. For Hjælpespændinger
+op til c. 200 Volt er Følsomheden den samme
+som for Kvadrantelektrometret, ved større
+Spændinger synker Kvadrantelektrometrets
+Følsomhed, medens Binantelektrometrets vedbliver
+at stige.
+
+<sp>Det absolutte E</sp>. Det mest bekendte af
+denne Type er konstrueret af Lord <sp>Kelvin</sp> (W.
+Thomson). I Fig. 11 er vist en simpel Form af
+Kelvin's E. Princippet i Maalingen er at
+bestemme den elektrostatiske Tiltrækning mellem
+to Kondensatorplader ved Hjælp af en Vægt. Den
+øverste Kondensatorplade er delt i to Dele <i>B</i>
+og <i>C</i>, af hvilke kun den midterste <i>C</i> er ophængt
+i Vægten. Den ringformede Del <i>B</i>, den saakaldte
+Beskyttelsesring, er fast og tjener kun til at
+gøre det Felt, der paavirker <i>C</i>, homogent og
+derfor let beregneligt. Højden af den underste
+Plade er mikrometrisk forstillelig. Den søgte
+Spænding sættes til Klemmen <i>p</i>, medens <i>B</i> og
+<i>C</i> er afledet til Jord. Er der Ligevægt ved <i>p</i> <i>g</i>'s
+Belastning, naar Afstanden mellem <i>A</i> og <i>B</i>, <i>C</i>
+er <i>a</i> cm, og er Arealet af Pladen <i>C S</i> cm<sup>2</sup>, giver
+Teorien Spændingen <i>V</i> i absolut elektrostatisk
+<table>
+<td v2>Maal udtrykt ved: <i>V</i> = <i>a</i> kvadratrod(<td>8 π <i>p</i> <i>G</i><td v2>), hvor <i>G</i> er
+<td c><i>S</i>
+</table>
+Tyngdeaccelerationen i cm/sec<sup>2</sup> paa det
+paagældende Sted. Ved nøjagtigere Apparater er
+der sat en jordafledet Metalkasse om <i>C</i>'s
+Overside for at udelukke elektriske Paavirkninger
+paa denne. E. har faaet forskellige andre
+Former. Det absolutte E. anvendes nærmest kun
+til Justering af høje Spændinger, da det er ret
+ufølsomt og mere omstændeligt i Brugen end de
+andre E. (<sp>Litt</sp>.: »Handbuch der Elektrizität
+und des Magnetismus« I [Leipzig 1912]).
+<i>E. S. J.</i>
+
+<img>Fig. 11.</img>
+</chapter>
+
+<chapter name="Elektromotorer">
+<b>Elektromotorer,</b> se <sp>elektriske
+Maskiner og Transformatorer</sp>.
+</chapter>
+
+<chapter name="elektromotorisk Kraft">
+<b>elektromotorisk Kraft</b> (hyppigt afkortet til
+EMK; internationalt Symbol <i>E</i>), den
+Virksomhed, som alle elektriske Maskiner i videste
+Forstand udøver paa Elektriciteten, som gaar
+igennem dem, og hvorved der tildeles denne
+Elektricitet en Energiforøgelse ell. et Tab af Energi,
+hvilket ogsaa kan udtrykkes ved, at den faar
+henh. en forøget og en formindsket Spænding
+(Potential). Giver Maskinen Elektriciteten
+forøget Energi (forhøjet Spænding), kaldes den
+en <sp>Generator</sp>; den forbruger altsaa andre
+Energiformer. Forbruger derimod Maskinen
+Elektricitetens Energi, saa at den nedsætter
+dens Spænding, kaldes den en <sp>Forbruger</sp>,
+og man taler om dens modelektromotoriske
+Kraft; en saadan Maskine udvikler andre
+Energiformer. Da Energiændringen erfaringsmæssig
+er proportional med den Elektricitetsmængde,
+der passerer Maskinen, bruges til Maal for den
+e. K. Energiændringen pr Enhed af
+Elektricitetsmængde ell. den dermed proportionale
+Spændingsændring. Bruges det praktiske Maalesystem
+(se <sp>elektriske Maaleenheder</sp>), hvor
+Enheden for Elektricitetsmængde er en
+Coulomb, bliver Enheden for e. K.
+Spændingsenheden en Volt; en elektrisk Generator, hvis e. K.
+er en Volt, giver en Elektricitetsmængde paa
+en Coulomb, der passerer den, en
+<table>
+<td v2>Energiforøgelse paa en Joule (10<sup>7</sup> Erg ell.<td c>1<td v2> kgm). Har
+<td c>9,81
+</table>
+den en e. K. paa <i>E</i> Volt, og passerer <i>Q</i> Coulomb
+igennem den, er Energiforøgelsen <i>E</i> · <i>Q</i> Joule.
+Gennemløbes den af en Strømstyrke paa <i>I</i>
+Ampère (d. v. s. <i>I</i> Coulomb pr Sek.), bliver
+Energiomsætningen pr Sek. (Arbejdshastigheden eller
+Effekten) <i>EI</i> Watt (Joule pr Sek.). I det
+følgende gives en kort Oversigt over de vigtigste
+Arter af e. K. I de fleste Tilfælde har man
+ud fra de nyere Elektricitetsteorier,
+<sp>Elektronteorien</sp> (s. d.) og den
+<sp>elektrolytiske Dissociationsteori</sp> (se
+<sp>Elektrolyse</sp> og <sp>Ionteori</sp>), faaet en anskuelig
+Forestilling om og Forstaaelse af Mekanismen
+ved den e. K.'s Opstaaen.
+
+1) Det vigtigste Tilfælde af Vekselvirkning
+mellem <sp>Varmeenergi</sp> og elektrisk Energi
+har vi i den Opvarmning, der finder
+Sted i enhver Leder, hvorigennem der
+gaar elektrisk Strøm. Enhver saadan
+Leder er altsaa en Forbruger;
+Spændingsfaldet hen ad Lederen eller Forbrugerens
+modelektromotoriske Kraft er efter Ohm's Lov
+<i>E</i> = <i>IR</i>, hvor <i>I</i> er Strømstyrken og <i>R</i>
+Modstanden. Energiomsætningen bliver da <i>EI</i> = <i>RI</i><sup>2</sup>
+Joule pr Sek. (Watt), saa at den udviklede
+<table>
+<td v2>Varmemængde bliver<td c><i>RI</i><sup>2</sup><td v2> Gramkalorier pr
+<td c>4,2
+</table>
+Sek. (<sp>Joule's Lov</sp>). Mekanismen ved den
+elektriske Strømvarme (»Joulevarmen«) er
+omtalt i <sp>Elektronteorien</sp>. - Andre vigtige
+Tilfælde er de termoelektriske Fænomener,
+nemlig foruden selve Termoelektriciteten,
+Peltier-Effekten og Thomson-Effekten, hvis Mekanisme
+ogsaa forstaas ud fra Elektronteorien (se
+<i>Termoelektricitet</i>).
+
+2) Nogle af de tekn. vigtige e. K. fremkommer
+ved Omsætning med <sp>kemisk Energi</sp>; det
+er saaledes Tilfældet i de galvaniske Elementer
+og Akkumulatorerne. De sidste optræder
+naturligvis som Generatorer ved Udladningen, men
+

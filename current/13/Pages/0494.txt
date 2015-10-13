@@ -1,0 +1,131 @@
+med »Forholdet mellem Ionens Atom- (ell.
+Molekyl-) vægt og dens Antal af Elementarladninger;
+dette Forhold kaldes Ionens elektriske Atom-
+(ell. Molekyl-) vægt. Jo mindre den elektriske
+Atomvægt er, desto højere vil Parablen være
+beliggende. For at faa skarpe Parabelbilleder
+er det nødvendigt at forhindre, at der sker
+Omladninger i de afbøjende Felter. Man maa
+derfor (se Afsnittet: Kanalstraaledelenes
+Omladning) gøre Felterne korte og stærke og
+tillige have meget lavt Tryk i Røret. Den sidste
+Betingelse vil imidlertid vanskeliggøre
+Udladningen. For at undgaa denne Vanskelighed har
+W. Wien adskilt Udladningsrøret fra det Rør,
+hvori K. undersøges, ved at indføre et
+Kapillarrør imellem dem umiddelbart bag Katoden.
+Kapillarrøret lader vel K. passere ind i
+Undersøgelsesrøret, som holdes paa et meget lavt
+Tryk ved kraftig Pumpning, men frembyder
+saa betydelig en Diffusionsmodstand mod
+Luftens Bevægelse, at Luften i Udladningsrøret
+kan holdes paa et passende højere Tryk.
+Igennem Kapillarrøret strømmer altsaa Luften
+stadig bort fra Udladningsrøret og maa derfor
+stadig fornyes i dette. Metoden kaldes af den
+Grund ofte Gennemstrømningsmetoden.
+
+<sp>Elektrisk
+Atomvægtsbestemmelse, isotope Grundstoffer</sp>. Vi har i
+forrige Afsnit set, at en samtidig Afbøjning i
+et elektrisk og et magnetisk Felt af en K. gør
+det muligt at bestemme den elektriske
+Atomvægt af de i K. optrædende Ioner. Den
+elektriske Atomvægtsbestemmelse efter dette
+Princip har særlig gennem J. J. Thomson's
+Arbejder givet interessante Resultater ang. Ionerne
+i K. Disse er langt mangfoldigere, end man
+vilde have ventet efter K.'s Spektrum. I et Rør
+med Kvælstof, fremstillet af atmosfærisk Luft,
+fandtes saaledes flg. Ioner +H, ++H<sub>2</sub>, ++N,
++C, +N, +N<sub>2</sub>, +Ar, ++Hg, +Hg, —H. —C,
+—O. Endnu interessantere er imidlertid
+Opdagelsen af, at mange af de sædvanlige
+Grundstoffer i Virkeligheden er Blandinger af Grundstoffer
+med forsk. Atomvægt, men med samme kemiske
+Egenskaber, saakaldte isotope Grundstoffer,
+samt at Atomvægtene for disse egl.
+Grundstoffer er hele Tal. Isotope Grundstoffer er man
+først stødt paa ved Undersøgelsen af de
+radioaktive Stoffer. Den første Isotopi hos et
+ikke-radioaktivt Grundstof blev fundet af J. J.
+Thomson, idet Luftarten Neon, der har Atomvægten
+20,2, ved Kanalstraaleanalyse viste sig at give
+to adskilte Parabler svarende til Atomvægtene
+20 og 22. Nogen stor Nøjagtighed i Atom
+vægtsbestemmelsen giver Parabelmetoden imidlertid
+ikke, og de ovf. omtalte Opdagelser er først
+blevet mulige ved, at F. W. Aston (1920) ved
+en helt ny Metode har forøget Nøjagtigheden
+saaledes, at den elektriske
+Atomvægtsbestemmelse nu kan foretagesmed en relativ
+Nøjagtighed af 1 ‰. Princippet i Aston's Metode har en
+vis formel Lighed med Princippet i den
+akromatiske Pfismekombination. Naar et snævert
+Bundt hvidt Lys sendes igennem et Prisme, vil
+det afbøjes, men da Afbøjningen ikke er helt
+éns for alle de Straaler, hvoraf det hvide Lys er
+sammensat, vil Lysbundtet foruden, at afbøjes
+tillige spredes noget efter de forsk.
+Farvestraaler. Baade Afbøjningen og Spredningen er i
+første Tilnærmelse proportionale med Prismets
+brydende Vinkel, men afhænger tillige af
+Prismets Materiale. Har et Prisme af Flintglas
+samme brydende Vinkel som et Prisme af
+Kronglas, vil de omtrent afbøje Lyset lige
+meget, men Spredningen vil være dobbelt saa
+stor i Flintglasprismet som i Kronglasprismet.
+Man kan derfor ophæve Spredningen ved at
+anvende et Kronglasprisme sammen med et
+Flintglasprisme af den halve brydende Vinkel
+og lade de to Afbøjninger gaa til modsatte
+Sider. Af de ovf. angivne Formler for K.'s
+Afbøjning i et elektrisk og et magnetisk Felt kan
+det vises, at naar en K. afbøjes lige meget af
+de to Felter, vil Spredningen af Straalen p.
+Gr. a., at Ionerne ikke alle har samme
+Hastighed, være dobbelt saa stor i det elektriske som
+i det magnetiske Felt. Aston lader i Analogi
+med det ovf. anførte de to Afbøjninger gaa til
+modsatte Sider og afpasser dem saaledes, at
+Spredningen ophæves. Medens ved
+Parabelmetoden et opr. snævert Bundt K. af en bestemt
+Ionart spredes ud i en Parabel, opnaar Aston
+ved sin Metode at samle alle Ioner af samme
+Art paa samme Sted uanset
+Hastighedsforskellen. Billederne bliver altsaa skarpere og
+intensivere; til det sidste bidrager yderligere, at
+Aston anvender et af to parallelle snævre
+Spalter begrænset bredt Straalebundt, medens
+Parabelmetoden var nødsaget til at anvende en
+tynd traadformet Straale. Fig. 6 viser en
+skematisk Tegning af Aston's Apparat. <i>B</i> er
+Udladningsrøret med den gennemborede Katode
+<i>K</i> og Anoden <i>A</i>. Igennem Spalterne <i>S</i><sub>1</sub> og <i>S</i><sub>2</sub>
+gaar K. (den punkterede Linie) ind i det
+elektriske Felt mellem Kondensatorpladerne +E
+og —E og bøjes derefter i modsat Retning af
+det magnetiske Felt (antydet ved den runde
+Magnetpol <i>M</i>) og samles paa den fotografiske
+Plade P. Paa hele denne Vej forløber K. i
+meget højt Vakuum, frembragt ved de to
+Beholdere <i>L</i> med Kokosnøddekul, der under
+Forsøget holdes ved flydende Lufts Temp. Ved
+denne lave Temp. absorberer Kullene alle
+Luftarter meget kraftigt. Der maa derfor stadig
+tilføres ny Luft til Udladningsrøret <i>B</i>. Den lille
+Kugle <i>D</i> tjener til at beskytte Glasvæggen mod
+Katodestraalerne fra <i>K</i>; da den er af Kvarts,
+giver den kun faa Røntgenstraaler, saaledes at
+det er let at beskytte Pladen <i>P</i> mod disse.
+
+I Fig. 7 er gengivet en Rk. Optagelser af
+Aston af K. i de luftformige Grundstoffer Neon,
+Klor, Argon, Krypton og Zenon. De vedføjede
+Tal er de elektriske Atomvægte. Da Billederne
+har en vis Lighed med Fotografier af
+Spektrallinier, kalder Aston dem for Massespektre. I
+det øverste Spektrum af Neon ser man den
+stærke Linie, der svarer til Neon med
+
+<img>Fig. 6.</img>

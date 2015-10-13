@@ -1,0 +1,141 @@
+Togvejshaandtagets Omlægning frigives det
+tilsvarende Signalhaandtag, og naar Signalet
+derefter bliver sat paa »Kør«, vil Signalhaandtaget
+omvendt fastholde Togvejshaandtaget og
+dermed Sporskifteaflaasningen, indtil Signalet atter
+sættes tilbage paa »Stop«.
+
+Den gensidige Afhængighed mellem
+Sporskifter og Signaler, der saaledes sikrer
+Togvejen, naar Signalet viser »Kør«, forhindrer
+imidlertid ikke, at Signalet tages tilbage under
+Togpassagen, saaledes at Aflaasningen kan
+hæves og Sporskiftehaandtagene frigives.
+Herved kan det hænde, at et centralbetjent
+Sporskifte omstilles mellem Hjulene paa et løbende
+Tog, og mange Jernbaneulykker er opstaaet paa
+denne Maade. I den nyere Tid indlægges
+derfor gerne for at forebygge dette særlige
+Sikringsindretninger ved de paagældende
+Sporskifter eller hele Togvejen sikres under eet. Det
+sidste er det almindeligste ved Anlæg af den
+tyske Type og kan ske ved Indlægning af et
+elektrisk Spærre i Forbindelse med
+Togvejshaandtaget; Spærret glider i Indgriben, naar
+Togvejshaandtaget omlægges, og fastholder
+dermed Aflaasningen, og udløses først elektrisk
+fra en Skinnekontakt, naar Toget har passeret
+Sporskifterne i Togvejen eller er bragt til
+Standsning. — Paa Stationer, hvor Hovedsporene
+deler sig, saaledes at flere Tog samtidigt kan
+have Ophold, er der desuden den Mulighed, at
+det senere Tog lukkes ind paa et Spor, der i
+Forvejen er besat. Navnlig for mindre
+Krydsningsstationer paa enkeltsporet Bane er dette
+en væsentlig Fare og har ikke sjældent
+foranlediget Sammenstød. For at forebygge
+saadanne Betjeningsfejl er der ved nyere Anlæg af
+den tyske Type i Centralapparatet indlagt en
+Række Spærrer, hvoraf Hovedleddet, det saakaldte
+<sp>Sporbesættelsesspærre</sp>, virker
+mellem Togvejshaandtagene for Indkørsel og
+Udkørsel. Naar der her er givet Indkørsel for et
+Tog og Signalet taget tilbage, kan der ikke
+paany vises Indkørsel for Tog til samme Spor,
+forinden der er givet Udkørsel for dette og det
+førstkomne Tog har passeret Udkørselssignalet.
+Endnu mere fuldkomment kan det samme
+opnaas ad elektrisk Vej, naar Sporet isoleres og
+inddrages i et elektrisk Strømløb, der staar i
+Forbindelse med Signalerne, men saadanne
+Anlæg egner sig bedst for store Forhold, f. Eks.
+i Forbindelse med betydelige
+Kraftbetjeningsanlæg.
+
+<sp>Kraftbetjeningsanlæg</sp>. Ved
+Kraftbetjeningsanlæg indstilles Signaler og
+Sporskifter — med tilhørende Laase — ved en Række
+Motorer, der er anbragt ved disse, en Motor
+for hvert Sporskifte eller Signal, og som styres
+ved Haandtag i Centralapparatet. Naar et
+Haandtag omlægges, bevæger Motoren sig i den
+ene Retning, naar det tilbagelægges, bevæger
+Motoren sig i den modsatte Retning, men
+Sporskifter og Signaler følger ikke som ved de
+mekaniske Anlæg ligefrem med Haandtaget
+under dettes Omlægning, og deres Stilling maa
+derfor paa anden Maade give sig til Kende i
+Centralapparatet. De almindelige Typer er de
+<sp>elektriske Betjeningsanlæg</sp>, der først er
+udformet i Tyskland af Firmaet <sp>Siemens</sp> &
+<sp>Halske</sp>, og de <sp>elektro-pneumatiske</sp>,
+der skyldes Selskabet <sp>Westinghouse</sp>, og
+som har særlig Udbredelse i de engelsk-talende
+Lande. Elektriske Betjeningsanlæg findes i
+nogle Udførelser paa de danske Baner,
+saaledes paa Kbhvn's Personbanegaard (Allgem.
+Elektricitätsgesellschaft).
+
+Ved <sp>de elektriske
+Betjeningsanlæg</sp> bliver hvert enkelt Sporskiftes Stilling
+kontrolleret ved et elektrisk Strømløb, der
+passerer fra Haandtaget i Centralapparatet til en
+Kontakt ved Sporskiftet, og som kun er sluttet,
+naar Sporskiftet staar nøjagtigt i en af sine
+Stillinger. Denne saakaldte <sp>Kontrolstrøm</sp>
+bevæger et Tableau ved det paagældende
+Haandtag, og det fremgaar af dette, om
+Kontrolstrømløbet er sluttet eller ikke. Naar et Sporskifte
+skal omstilles, omlægger man det tilhørende
+Haandtag i Centralapparatet, hvorved paa
+samme Tid Motoren sættes i Gang og
+Kontrolstrømmen afbrydes; Strømmen sluttes paany,
+naar Sporskiftet er ført over i sin nye Stilling,
+og samtidigt hermed standser Motoren af sig
+selv. Dersom Sporskiftet bliver staaende i en
+Mellemstilling, fordi der er en Hindring for
+Tungernes Bevægelse, vil Kontrolstrømløbet
+vedblive at være afbrudt, og skæres et
+Sporskifte op, afbrydes Kontrolstrømmen straks.
+Men naar Kontrolstrømmen er sluttet, vil dette
+omvendt give fuldkommen Sikkerhed for, at
+Sporskiftets Stilling svarer til Haandtagets i
+Centralapparatet. Ved en Togvejsindstilling
+omlægger man først Haandtagene for de
+Sporskifter, der ikke i Forvejen staar rigtigt, og
+derved frigøres Togvejshaandtaget, der ved et
+mekanisk Aflaasningsregister staar i
+Afhængighed af Sporskiftehaandtagene. Derefter
+omlægges Togvejshaandtaget, der i sin omlagte
+Stilling binder Sporskiftehaandtagene og slutter
+Strømløbet for et elektrisk Spærre, der hidtil
+har fastholdt Signalhaandtaget. Udløsningen
+vil dog kun ske, hvis alle Togvejens Sporskifter
+staar i nøjagtig Stilling, da Strømløbet ved de
+paagældende Sporskiftehaandtag i
+Centralapparatet maa passere en Kontakt, der kun er
+sluttet, dersom Kontrolstrømløbene er sluttet.
+Strømløbet er tillige ført over en elektrisk
+Kobling ved det tilhørende Signal, der, naar
+Kredsen sluttes, forbinder Signalet med Motoren.
+Først naar Togvejsindstillingen er fuldstændig
+i Orden, vil Signalhaandtaget saaledes kunne
+omlægges og Signalet sættes paa »Kør«, og ved
+en indtrædende Uorden, der bryder
+Kontrolstrømmen ved et af Togvejens Sporskifter, vil
+Signalkoblingen udløses og Signalet falde paa
+»Stop«. — Som Regel er der ved
+Togvejshaandtagene indlagt elektriske Spærrer til
+Fastholdelse af Togvejen for at forebygge, at et
+Sporskifte omstilles under en Togpassage; Spærret
+udføres som ved de mekaniske Anlæg og udløses
+fra en Skinnekontakt, der ofte samtidigt
+paavirker Signalarmskoblingen saaledes, at Signalet
+af sig selv gaar paa »Stop« bag et passerende Tog.
+
+Ved elektro-pneumatiske Anlæg er Motoren
+en Trykluftmotor, der styres elektrisk ved
+Haandtaget i Centralapparatet.
+
+<sp>Stationsblokanlægget</sp>. Paa
+Stationer, hvor flere Poster skal samstemme under en

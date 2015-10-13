@@ -1,0 +1,118 @@
+∛—<i>b</i>/2+√(<i>b</i>/2)<sup>2</sup>+(a/3)<sup>3</sup> +
+∛—<i>b</i>/2—√(<i>b</i>/2)<sup>2</sup>+(a/3)<sup>3</sup>
+
+(Cardan's Formel); de imaginære Rødder kan
+faas ved i dette Udtryk at multiplicere de to
+Kubikrødder med hver sin af Størrelserne — 1/2 ±
+√3/2 <i>i</i> (de imaginære Værdier for 1<sup>1/2</sup>). Hvis
+(<i>b</i>/2)<sup>2</sup> + (<i>a</i>/3)<sup>3</sup> =0, har L. to lige store Rødder
+= ∛<i>b</i>/2 og desuden Roden — 2 ∛<i>b</i>/2. Er
+endelig (<i>b</i>/2) + (<i>a</i>/<sup>3</sup> <0, er der 3 reelle
+Rødder, der faas ved i 2 √ —<i>a</i>/3 <i>cos</i> 2<i>n</i>π+θ/3,
+hvor <i>cos</i> θ = —<i>b</i>/2 / √—(<i>a</i>/3)<sup>3</sup> , at sætte <i>n</i> = 0, 1, 2;
+dette saakaldte <sp>irreduktible Tilfælde</sp>
+voldte længe Vanskelighed, efter at Cardan's
+Formel var funden, da Størrelserne under
+Kubikrodstegnene blev imaginære. Den <sp>binome</sp>
+L. <i>x<sup>n</sup></i> = <i>a</i> løses ved, at man bestemmer de <i>n</i>
+Værdier for <i>a<sup>n</sup></i> (se <sp>komplekse Tal</sp>); er <i>a</i>
+reel og positiv, kan Løsningen af <i>x<sup>n</sup></i> = ± <i>a</i>
+ved Omskrivning til <i>x</i> = <sup><i>n</i></sup>√. (± 1)<sup>1/<i>n</i></sup>
+reduceres til Bestemmelsen af Værdierne for den
+<i>n</i>'te Rod af ± 1. Den <sp>trinome</sp> L. <i>x<sup></i>2<i>n</i></sup>+<i>ax<sup>n</sup></i>
++ <i>b</i> = 0 reduceres til de binome <i>x<sup>n</sup></i> = — <i>a</i>/2 ±
+√(<i>a</i>/2)<sup>2</sup>—<i>b</i>. Størst praktisk Bet. inden for L.'s
+Teori har Metoderne til approksimativ Løsning af
+numeriske L. (L. med Talkoefficienter), ved hvilke
+man kan finde Rødderne med ethvert forlangt
+Antal Decimaler. Dette kan ske ved, at man
+prøver sig frem efter forsk. i Lærebøgerne
+angivne Metoder, ell. ad grafisk Vej, idet
+Rødderne i  <i>f(x)</i> = 0 er = Abscisserne til
+Skæringspunkterne mellem Abscisseaksen og den
+ved <i>y</i>=<i>f(x)</i> fremstillede Kurve. Ved L. med
+fl. ubekendte mener man med et <sp>Rodsæt</sp> en
+Samling Værdier, een for hver ubekendt, der
+indsatte tilfredsstiller L.; de ubekendte vil
+alm. være bestemte, hvis deres Antal er=L.'s.
+Fremgangsmaaden ved L.'s Løsning bestaar i,
+at man eliminerer de ubekendte paa een nær,
+hvad altid kan gøres ved forsk. Metoder, saa
+at man faar een L. med denne ene ubekendte,
+<sp>Endeligningen</sp>. For hver Rod, man kan
+finde i denne, faas et Rodsæt, idet de andre
+ubekendte alm. kan udtrykkes rationalt ved
+denne Rod. Antallet af Rodsæt er som Regel
+= Produktet af L.'s Grader, men kan spc. blive
+mindre. Se desuden <sp>Ubestemte
+Ligninger</sp> og <sp>Symmetriske Ligninger</sp>. I
+øvrigt henvises til Lærebøgerne i L.'s Teori, af
+hvilke kan nævnes <sp>J. A. Serret</sp>, <i>Cours
+d'algèbre supérieure</i> og <sp>Julius Petersen</sp>,
+»De algebraiske L.'s Teori«.
+
+De <sp>transcendente</sp> L. kan p. Gr. a. den
+store Mangfoldighed af Former ikke underkastes
+en saadan systematisk Behandling som de
+algebraiske. Af særlig undersøgte Klasser kan
+nævnes de <sp>trigonometriske</sp> L. (s. d.) og
+de <sp>eksponentielle</sp>, i hvilke de ubekendte
+forekommer i Eksponenter; disses simpleste
+Form <i>a<sup>x</sup></i> = <i>b</i> har Løsningen <i>x</i> = <i>logb/loga</i>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Ligning (kem.)">
+<b>Ligning</b> (kem.). Naar man forud for
+Indtrædelsen af en kem. Proces bestemmer den
+samlede Vægt af de Stoffer, som skal reagere
+paa hinanden, og efter dens Afslutning atter
+bestemmer den samlede Vægt af de ved
+Processen dannede Produkter, da finder man, naar
+Forsøget anstilles med tilbørlig Omhu, at der
+hverken har fundet nogen Vægtforøgelse ell.
+noget Vægttab Sted. Dette Forhold er udtrykt
+i <sp>Loven om Materiens Konstans</sp>:
+Vægten af de ved en kem. Proces dannede
+Forbindelser er stedse lig Summen af
+Vægtmængderne af de Stoffer, der tager Del i Processen.
+Denne Lov gør det mulig at give Forløbet af
+en kem. Proces Udtryk i en <sp>kemisk</sp> L.;
+denne er Betegnelsen for en kem. Proces ved
+Hjælp af Formlerne for de Grundstoffer ell.
+Forbindelser, der indvirker paa hinanden (se
+<sp>Formel</sp>, kem.); L. har sin Berettigelse, fordi
+vi iflg. den nævnte Lov baade før og efter
+Processen maa have den samme Stofmængde,
+altsaa de samme Atomer i det samme Antal,
+kun at disses indbyrdes Orden og
+Sammenslutning til Molekuler er forsk. L. HgS+Fe=FeS
++Hg udtrykker saaledes Reaktionen mellem
+Svovlkvægsølv og Jern og siger os, at 232 Dele
+Svovlkvægsølv med 56 Dele Jern giver 88 Dele
+Svovl jern og 200 Dele Kvægsølv, idet Hg=200,
+Fe=56 og S=32. L. tillader os altsaa ved
+Formlernes Hjælp at beregne, hvor meget af
+hvert Stof der deltager i Processen, og hvor
+stort Udbytte af de dannede Produkter der
+kan opnaas, ligesom den omvendt sætter os i
+Stand til at beregne, hvor meget
+Udgangsmateriale der skal benyttes for at fremstille en
+bestemt Mængde af det Produkt, der ønskes.
+L. udsiger i den anførte Form intet om de
+Betingelser, hvorunder Processen foregaar, og
+om de Energiytringer, der ledsager den;
+den kan imidlertid udvides til ogsaa at
+omfatte Varmetoningen ved den kemiske
+Proces. Dette vil blive nærmere omtalt i
+<sp>Termokemi</sp>. Se ogsaa <sp>Støchiometri</sp>.
+<i>(O. C.). R. K.</i>
+</chapter>
+
+<chapter name="Ligning (astron.)">
+<b>Ligning</b> (astron.) benævnes ofte Forskellen
+mellem et Himmellegemes sande Sted og dets
+Middelsted. En saadan L. er altid udtrykt som
+en Sum af Produkter, hvis ene Faktor er
+konstant, medens den anden er en sin ell. <i>cos</i> til en
+Vinkel, Argumentet. I samme Bet. som Fejl er

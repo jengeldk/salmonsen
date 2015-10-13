@@ -1,0 +1,138 @@
+en anden, der er Centralprojektion af den
+første. Det maa altsaa afgøres, dels hvilke
+Figurer der kan være hinandens
+Centralprojektioner (er projektive), dels hvilke Egenskaber der
+kan overføres. Samtidig med Projektionen
+udvikledes ogsaa de <sp>reciproke Polarers
+Metode</sp> af Brianchon og Poncelet,
+<sp>Dualiteten</sp>, navnlig af Gergonne, og
+<sp>Homologien</sp> (Poncelet). Chasles og Steiner gik
+en noget anden Vej ved deres Undersøgelser af
+Keglesnittene, idet de definerede dem f. Eks.
+som geometrisk Sted for Skæringspunktet
+mellem til hinanden svarende Linier i
+projektive Liniebundter. Paa de Sætninger, som man
+kan udlede ved at støtte sig paa disse
+Definitioner af Keglesnittene, kan baade Projektion
+og Dualitet anvendes. De nævnte Matematikere
+gav lignende Definitioner paa andre Kurver,
+baade plane og ikke plane, og paa Flader; en
+vindskæv Hyperboloide vil saaledes være det
+geometriske Sted for Forbindelseslinieirne mellem
+til hinanden svarende Punkter i to projektive
+Punktrækker, der ikke ligger i samme Plan.
+Medens Projektivgeometrien alm. bruger
+Længder i Definitionen paa <sp>Dobbeltforholdet</sp>,
+der anvendes ved Afgørelsen af, om f. Eks.
+Punktrækker er projektive, undgaar »G. der
+Lage«, grundlagt af v. Staudt (1847), der ogsaa
+er støttet paa Projektiviteten, al Benyttelse af
+Maal. Som i analytisk G. betragtes her ogsaa
+imaginære Punkter, Linier og Planer, kun
+naturligvis med andre Definitioner. <sp>Analysis
+situs</sp>, der første Gang fremtræder som
+selvstændig Disciplin i Listing's »Vorstudien zur
+Topologie« (1847), beskæftiger sig med visse
+Egenskaber ved Figurer, hvis Kurver og Flader
+ikke er bestemt definerede som i de nys omtalte
+G., mener fuldstændig vilkaarlige.
+
+Samtidig udvikledes ogsaa den analytiske G.
+videre. Man lærte at reducere de algebraiske
+Vanskeligheder ved en Opgaves Løsning
+betydelig, navnlig ved Metoder af Plücker og Lamé. Et
+stort Fremskridt var Indførelsen af Möbius'
+og Plücker's Trekantskoordinater (se
+<sp>Koordinater</sp>); en ved Hjælp af disse bevist Sætning
+vil kunne underkastes den dualistiske
+Omformning og vil gælde for enhver Centralprojektion
+af den forelagte Figur, medens et ved
+retvinklede Koordinater ført Bevis kun gælder for det
+System af ligedannede Figurer, som man faar
+ved forsk. Valg af den Enhed, hvori
+Koordinaterne er maatte. Medens man oprindelig kun
+havde anvendt Koordinater til Punkters
+Bestemmelse, indførtes nu Koordinater for andre
+Rumelementer som f. Eks. Plücker's Koordinater for
+Rummets Planer og dets rette Linier,
+Koordinater for Cirkler og Kugler m. m., og man
+anvendte disse Koordinater til Undersøgelse af
+Systemer af de paagældende Elementer. —
+Den nyere analytiske G. har særlig undersøgt
+de algebraiske Kurver og Flader ɔ: de, der i
+Punktkoordinater fremstilles ved algebraiske
+Ligninger, og har for dem bevist almindelig
+gældende Sætninger. Af disse kan fremhæves de
+Plücker'ske <sp>Ligninger</sp> mellem en Kurves
+Orden, Klasse, Slægt og Antallet af dens
+Dobbeltpunkter, Spidser, Dobbelttangenter og
+Vendetangenter (se <sp>Kurver</sp>). De her nævnte Tal
+benyttes som Inddelingsgrundlag for Kurverne
+i Antalgeometrien, der i sine
+Opgaver kun bruger Ligningernes Grader og
+som Løsninger faar Antal, hvilke altsaa, for
+saa vidt der spørges om en Kurve, kan definere
+denne. Antalgeometrien, der ogsaa er udvidet
+til Rummet, er væsentlig udviklet af Plücker,
+Cayley, Chasles, Jonquières og Zeuthen.
+Spørgsmaalet om algebraiske Kurvers Udseende, med
+hvilket allerede Newton beskæftigede sig, er
+blevet behandlet af Klein og Zeuthen. Den
+meget omfattende geometriske Metode: at
+<sp>transformere</sp> en Figur, hvoraf
+Projektionen er et specielt Tilfælde, og som bestaar i
+at danne en anden Figur, hvis Punkter paa
+bestemt Maade svarer til den forelagtes, for at
+overføre Sætninger fra den ene til den anden,
+er ogsaa blevet udviklet gennem den
+analytiske G., særlig af Cayley, Cremona, Klein og
+Lie (se <sp>Transformationer</sp>). Hvis nogle
+geometriske Figurer overføres i hinanden ved
+en Gruppe Transformationer, kan man, saa
+længe der er Tale om Egenskaber, der bevares
+under Transformationerne, indskrænke sig til
+at behandle en enkelt, særlig simpel af
+Figurerne. Ved de <sp>lineære</sp> Transformationer
+bevares de samme Egenskaber som ved
+Projektion; algebraiske Kurver, som gaar over i
+hinanden ved Cremona's <sp>entydige</sp>
+Transformationer, er af samme Stegt og kan i de vigtige
+Spørgsmaal om Punktgrupper paa dem
+behandles under eet.
+
+I den ældre G. tillagde man Punkter og
+Linier paa en Tegning de Egenskaber, som de
+iflg. de abstrakte Definitioner i <sp>Eukleides</sp>'
+G. skulde have, idet man f. Eks. saa bort fra,
+at et Punkt paa Tegningen har en vis
+Udstrækning. Denne Ukorrekthed har man i den
+senere Tid taget Hensyn til ved at danne en
+<sp>Virkelighedens G.</sp> (Klein, Pasch,
+Hjelmslev), der opererer med de Punkter, Linier,
+Planer, som frembyder sig paa virkelige Genstande,
+og benytter de Egenskaber hos dem, som de
+erfaringsmæssigt har. Det maa saa undersøges,
+inden for hvilke Grænser man kan anvende den
+teoretiske G. paa dem. Den analytiske G. kan
+betragtes som en ren aritmetisk Disciplin,
+der omhandler Grupper af to ell. tre Tal
+(Koordinaterne), hvilke Grupper kaldes Punkter; ved
+den nærliggende Udvidelse til Grupper af n Tal
+har man skabt den saakaldte <sp>G. med n
+Dimensioner</sp> (Segre) (se <sp>Dimension</sp>). Ligesom
+man i den nyere Funktionsteori tager Begrebet
+Funktion i videste Forstand, betragter man i G.
+ikke-analytiske Kurver og Flader, der f. Eks.
+foreligger tegnede og er underkastede visse
+Betingelser. Hjelmslev har i »Darstellende
+Geometrie« (1914) givet Beviser for Sætninger af
+Kurvers og Fladers Infinitesimalgeometri, der spec.
+gælder for de analytisk fremstillelige Kurver og
+Flader, men i øvrigt omfatter et langt større Felt.
+Udseendet af ikke-analytiske Kurver og Flader
+er blevet studeret af Möbius, v. Staudt,
+Kneser o. a.; Juel har indgaaende undersøgt
+saadanne Kurver og Flader af de lavere Ordner
+(Orden = det højeste Antal Skæringspunkter,
+som Kurven ell. Fladen kan faa med en ret
+Linie) og vist, at forsk. Egenskaber ved

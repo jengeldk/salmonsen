@@ -1,0 +1,166 @@
+<sp>Omslagning</sp> den Maade, paa hvilken
+Papirarkene lægges til Trykcylinderen, naar
+Modtrykket (Trykket paa Papirets anden Side) skal
+ske. Papiret vendes saaledes (omstylpes), at den
+Ende af Papirets Smalside, som før første Tryk
+ligger op til Cylinderen, ogsaa ved andet Tryk
+gør det. I Haandpressernes Tid var O. alm.,
+nu bruges den kun i visse Tilfælde. Satssidernes
+Stilling paa Trykpressernes Fundament er en
+anden, naar Papiret skal stylpes om, end naar
+det skal slaas om.
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="Omstyring">
+<b>Omstyring.</b> Medens visse Maskiner, f. Eks. af
+Kraftmaskiner: Vandhjul og Dampmaskiner i et
+Fabrikanlæg, af Arbejdsmaskiner:
+Høvlemaskiner til Træ, kun skal bevæge sig i een
+Retning, kræves det af andre, f. Eks. af
+Kraftmaskiner: Dampskibsmaskiner og Lokomotiver,
+af Arbejdsmaskiner: Høvlemaskiner til
+Metaller, at de skal kunne bevæge sig i begge
+Retninger. Hertil kræves en O., som ved
+Dampmaskinen foregaar ved en Flytning af Glideren, saa
+at Damp indledes fra modsat Cylinderende mod
+Fremgangen, idet Stemplet tænkes i
+Midtstilling, ved Arbejdsmaskiner foregaar O. som Regel
+ved en Flytning af Drivremmen, saaledes som
+det nærmere er illustreret og forklaret under
+<sp>Høvlemaskiner</sp>.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Omsætning (økonomi)">
+<b>Omsætning</b> er den økonomiske Proces,
+hvorved Værdier: Varer, fast Ejendom,
+Obligationer, Aktier, Penge etc. erhvervsmæssigt skifter
+Hænder. Sædvanlig passerer den færdige Vare
+paa sin Vej, O., fra Producenten til
+Forbrugeren eet ell. flere Mellemled, ligesom Raavarer
+ofte passerer forsk. Tilvirkningssteder. Fra
+Naturaløkonomiens Tid til vore Dage er
+Omsætningsvejen stadig blevet længere, dels p. Gr. a.
+den stedse voksende Varietet af Varer, dels p.
+Gr. a. Specialisering og Arbejdsdeling, og
+endelig p. Gr. a. vore Dages forgrenede
+Kreditgivning.
+
+Fabrikdriften med Masseproduktion krævede
+saaledes store Aftagere, der atter kunde samle
+Produkterne fra de forsk. Fabrikker i samme
+Branche (Manufaktur, Isenkram etc.) og
+fordele dem og yde Kredit til de videre
+Mellemled i Omsætningen. En direkte O. fra
+Producent til Forbruger blev umulig i
+Modsætning til den Tid, hvor Varerne fremstilledes
+haandværksmæssigt. Utvivlsomt er der til
+økonomisk Skade for Forbrugeren ved denne
+Proces sket en Forlængelse af Varens Vej, om end
+samtidig til hans Bekvemmelighed.
+
+Som Modtræk mod Mellemledene i O. opstod
+Brugsforeningerne, men ogsaa disse danner i
+Alm. kun selv Mellemled i O., og maa
+nødvendigvis gøre det. Selv hvor Fabrikker aabner
+egne Udsalg, er disse ogsaa Mellemled med
+Bestyrere, Personale, Butiksleje og øvrige
+Handelsomkostninger.
+
+I Samfundets Interesse er det, at en passende
+Begrænsning af Mellemledene finder Sted.
+Indførelsen af den fri Næring, hvor enhver uden
+Forud-Uddannelse kan etablere sig som Led i
+O., har medført en Overbelastning af denne.
+
+Selve O. har været Genstand for Beskatning,
+f. Eks. ved Stempelafgift af Regninger som i
+England, Procenter af Bruttoomsætningen som
+i Tyskland, Afgift paa »Luksusvarer« som Vin
+og Tobaksvarer som i England og Danmark,
+Omsætningsafgift paa ny Automobiler som i
+Danmark o. s. v. — I øvrigt henvises til
+<sp>Handel</sp> og <sp>Handelsbalance</sp>.
+<i>Ch. V. N.</i>
+</chapter>
+
+<chapter name="Omsætning (tekn.)">
+<b>Omsætning</b> (tekn.) siges at finde Sted, naar
+Bevægelsen overføres fra en Aksel til en anden,
+saaledes at den drevne Aksel faar et andet
+Antal Omdrejninger end den drivende. O. kan
+ske fra hurtig til langsom Gang ell. omvendt.
+O. angives som Forholdet mellem den drevne
+og den drivende Aksels Omdrejningstal. Gør f.
+Eks. den drivende Aksel 120 Omdrejninger pr
+Minut og den drevne 80, siges O. at være 80 : 120
+= 2/3. Hvis derimod den drivende Aksel gjorde
+80 og den drevne 120 Omdrejninger pr Minut,
+blev O. 120 : 80 = 3/2.
+
+O. sker mest ved Tandhjul ell. ved Remskiver
+med Rem, undertiden ved Friktionsskiver.
+
+Naar O. sker ved Tandhjul, kan der ganske
+nøjagtigt opnaas et bestemt Forhold mellem
+de to Akslers Antal Omdrejninger, nemlig,
+svarende til Forholdet mellem de to Tandhjuls
+Tandantal, medens der ved Remskiver eller
+Friktionsskiver, hvor Bevægelsens Overføring
+foregaar ved Hjælp af Friktionen, finder en
+større ell. mindre Glidning Sted, saa O. ikke
+ganske nøjagtigt svarer til Forholdet mellem
+Skivernes Diametre. I de fleste Tilfælde er dette
+uden Bet., men hvor der fordres et ganske
+nøjagtigt Omsætningsforhold, som ved
+Tælleapparater, Urværker, Drejebænke til Skrueskæring
+o. a., kan O. kun ske ved Tandhjul.
+
+Hvis O. sker ved Tandhjul og der finder et
+simpelt Forhold Sted mellem Tandantallene, vil
+hver Tand i det ene Hjul kun komme i Berøring
+med enkelte Tænder i det andet Hjul og aldrig
+med andre. Hvis f. Eks. Tandantallene
+forholder sig som 2 : 3, vil hver Tand i det lille Hjul
+kun komme i Indgribning med 3 bestemte
+Tænder i det store Hjul, og hver af sidstnævnte
+Hjuls Tænder kun med 2 Tænder i det lille
+Hjul. Da dette under visse Omstændigheder
+kan give Anledning til uens Slid, har man, naar
+der ikke fordres et aldeles nøjagtigt, simpelt
+Forhold mellem Omdrejningerne, gjort
+Tandantallene indbyrdes primiske; derved vil
+efterhaanden hver Tand i det ene Hjul komme i
+Indgribning med alle Tænderne i det andet
+Hjul. Skal f. Eks. O. være omtr. 2 : 3, kan man
+i St f. 30 og 20 Tænder, der vilde give nøjagtigt
+O. = 2 : 3, bruge Tandantallene 30 og 19 eller
+29 og 19.
+<i>S. C. B.</i>
+</chapter>
+
+<chapter name="Omsætningspapir">
+<b>Omsætningspapir,</b> se <sp>negotiabel</sp>.
+</chapter>
+
+<chapter name="Omsætningsværdi">
+<b>Omsætningsværdi</b> er Betegnelsen for den
+Værdiansættelse, som skabes for Varer ved
+normalt Salg i saadant aabent Marked, hvor der
+finder Omsætning, d. v. s. Køb og Salg Sted af
+paagældende Vare i de paagældende Mængder.
+Modsætningen hertil er
+<sp>Realisationsværdi</sp>, hvor Varerne skal sælges unormalt,
+enten ved hurtigt Bortsalg til lave Priser ell.
+ved Salg paa Auktion.
+<i>Ch. V. N.</i>
+</chapter>
+
+<chapter name="Omvalg">
+<b>Omvalg.</b> Herved forstaas et nyt Valg, der
+foretages, fordi et tidligere afholdt Valg ikke
+har ført til noget gyldigt Resultat. Dette kan
+være Tilfældet, uden at der er begaaet nogen
+Fejl ved Valgene, fordi der i Forfatningen ell.
+Valgloven kræves et absolut Flertal ell. et andet

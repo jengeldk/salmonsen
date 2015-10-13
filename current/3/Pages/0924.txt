@@ -1,0 +1,112 @@
+Modtagerapparat. Forskellen i Typehjulenes Udseende
+hidrører fra, at de skal anvendes til
+Morseapparater med henh. »amerikansk« og »tysk«
+Hvilestrøm, se det flg. De øvrige Typehjul
+frembringer kun Prikker, ordnede i Grupper, Fig. 7 f.
+Eks. Tegnet .... ... ..... , der aflæses
+som Tallet 435.
+
+Brandalarmerne forsynes med Galvanoskop,
+Lynafleder og, for saa vidt Stationens
+Modtagerapparat kan optegne Morsebogstaver, med en
+Morsenøgle til Afsendelse af telegrafiske
+Depecher til Stationen. Endvidere findes enten en
+Telefon ell. en Klinke til Indskydning af en
+Lommetelefon og, saafremt Alarmen ikke har
+Morsenøgle, en Trykkontakt, hvorved Stationen
+kan kaldes. Fig. 10 viser det Indre af
+Brandalarmen i Fig. 2.
+
+Brandalarmerne indskydes i moderne Anlæg
+i Serie paa en lukket isoleret Ledning, en
+saakaldt Sløjfe, der udgaar fra den ene Pol og
+vender tilbage til den anden Pol af et Batteri,
+der er opstillet paa Brandstationen, hvis
+Modtagerapparat naturligvis ogsaa er indskudt paa
+Sløjfen, se Fig. 11, der skematisk viser en
+Sløjfe med 3 Brandalarmer (afbildet ved
+Typehjul og Kontaktfjeder) og et Morseapparat som
+Modtagerapparat. Paa Sløjfen er indskudt en
+Strømmaaler. Strømmen i Sløjfen er normalt
+sluttet (Hvilestrømsdrift) og Strømstyrken
+udgør c. 30—40 Milliampère. Et Brud paa
+Ledningen vil straks kunne iagttages paa
+Strømmaaleren og i øvrigt paa Modtagerapparatet, der
+tillige slutter Strømmen til en elektrisk
+Signalklokke. I hver Sløjfe anbringes højst 20—30
+Brandalarmer; haves fl. Alarmer, anlægges fl.
+af hinanden uafhængige Sløjfer med hver sit
+særlige Modtagerapparat. Paa Stationen findes
+i øvrigt Apparater til Maaling af Ledningernes
+Isolationsmodstand og Batterispændingen. Ved
+hvert Batteri er i Alm. opstillet et
+Reservebatteri; ved en Skifter kan samtidig det ene Batteri
+indskydes og det andet udskydes af Sløjfen,
+uden at Strømmen afbrydes. Til Batterierne
+anvendes navnlig Akkumulatorer, Meidinger
+Elementer ell. Tørelementer.
+
+<sp>Ledningerne</sp> er i større Byer
+hovedsagelig underjordiske Kabler, der indeholder
+to ell. fl. fra hinanden isolerede
+Kobberledninger med et Tværsnit af 1,5—2,5 mm<sup>2</sup>. Isolationen
+bestaar i den nyere Tid hovedsagelig af
+vulkaniseret Gummi ell. af imprægneret Papir og
+Trævlestof, og samtlige Ledninger omgives med en
+vandtæt Blykappe, der eventuelt beskyttes ved en
+Jutebespinding og en Armering med Staaltraad
+ell. Jernbaand. Kablerne anbringes i
+Rørledninger af Beton ell. Jern ell. lægges direkte i
+Jorden. I mindre Byer anvendes ofte
+overjordiske Ledninger af 1,5—2 mm Bronzetraade
+anbragte paa Isolatorer paa Pæle ell. paa Husene.
+
+<sp>Modtagerstationerne</sp> udføres efter
+3 forsk. Systemer, nemlig Morsesystemet,
+Etslagklokkesystemet og Viserapparatsystemet.
+
+Ved <sp>Morsesystemet</sp>, der er det ældste
+og mest udbredte, anvendes som
+Modtagerapparat Morseapparater, paa hvis Papirstrimmel
+Brandalarmernes Mærker optegnes enten ved
+et Farvehjul, der alt efter Strømslutningernes
+ell. -afbrydelsernes Varighed vil skrive Prikker
+ell. Streger og derfor baade kan registrere
+Brandalarmsmærker, bestaaende af Morsetegn
+og af grupperede Prikker (Taltegn), ell. ved en
+Perforeringsmekanisme, der kun kan slaa
+Huller af een Størrelse og derfor kun kan
+registrere Taltegn. I Europa anvendes hyppigst
+Morseapparater med Farvehjul, hvorved
+opnaas, at der kan telegraferes fra
+Brandalarmerne til Stationen. Morseapparaterne er forsynede
+med Selvudløsning, og deres Magnetruller er
+enten indskudte i Brandalarmsløjfen (saakaldt
+»amerikansk« Hvilestrøm) ell. i en lokal
+Strømkreds, der normalt er afbrudt, men sluttes af
+et i Brandalarmsløjfen indskudt Relais, naar
+Strømmen i Sløjfen afbrydes (saakaldt »tysk«
+Hvilestrøm).
+
+Ved <sp>Enkelt-Morsesystemet</sp>, se Fig.
+11, anvendes eet Morseapparat for hver
+Brandalarmsløjfe; alarmeres der samtidig fra to
+Brandalarmer i samme Sløjfe, vil disses Mærker falde
+imellem hinanden paa Strimlen, saa at man ikke
+kan se, hvorfra der er alarmeret. Denne Mangel
+kan afhjælpes paa forsk. Maade, simplest ved
+<sp>Morsesikkerhedssystemet</sp>, ved
+hvilket tillige opnaas, at et Ledningsbrud ikke som
+ved Enkelt-Morsesystemet vil hindre
+Brandalarmernes Funktion. Systemet fremgaar af
+Fig. 12, der skematisk viser en Sløjfe med 2
+Brandalarmer, tilvenstre en Alarm af ældre
+Type, hvis Typehjul gør fl. Omdrejninger ved
+hver Alarmering, og tilhøjre en nyere Alarm,
+hvis Typehjul kun gør een Omdrejning. Der
+anvendes som vist 2 Morseapparater for hver
+Brandalarmsløjfe, og Batteriet, hvis Midte er
+
+<img>Fig. 10. Indre af Brandalarm. Kbhvn.</img>
+
+<img>Fig. 11. Brandalarmsløjfe efter Enkelt-Morsesystemet.</img>

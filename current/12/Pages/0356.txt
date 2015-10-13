@@ -1,0 +1,136 @@
+de paa I. i elektriske Ledere ved Bevægelse i
+Forhold til magnetiske Induktionsliniestrømme.
+M. H. t. deres praktiske Udformning henvises
+til elektriske Maskiner.
+<i>Jul. Hartmann.</i>
+</chapter>
+
+<chapter name="induktionsfri Telefonledninger">
+<b>induktionsfri Telefonledninger,</b> se
+<sp>Telefonledninger</sp>.
+</chapter>
+
+<chapter name="Induktionsspole">
+<b>Induktionsspole</b> (<sp>Drosselspole</sp>,
+<sp>Dæmpespole</sp>) anbringes i Vekselstrømsteknikken
+i St f. Modstande foran Brugsgenstande som
+Buelamper o. l., naar den til Raadighed
+staaende Spænding er for høj til vedk. Brugsgenstand.
+I. bestaar af Traadruller, der i Alm. er
+opviklede paa lamellerede Jernkerner, altsaa udførte
+omtr. som Transformatorer (se <sp>elektriske
+Maskiner</sp>) og forbruger i Modsætning til
+Forlagsmodstande praktisk talt ingen Effekt,
+men giver Anledning til Faseforskydning
+mellem Strøm og Spænding.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="induktiv Belastning">
+<b>induktiv Belastning</b> paa et
+Vekselstrømsnet er en Belastning, saaledes beskaffen, at
+Strømmen i de forsk. Faser er
+<sp>faseforskudte</sp> (se <sp>Faseforskydning</sp>) <sp>bagud</sp>
+for de tilsvarende Spændinger. En Belastning
+med en <sp>Induktionsspole</sp> alene vil give
+en Faseforskydning bagud paa omtr. 90°, en
+saadan Belastning kaldes ofte <sp>wattløs</sp>, idet
+der i saa Tilfælde ikke udvikles nogen Effekt
+af Strømmen og Spændingen. De almindeligst
+anvendte Vekselstrømsmotorer,
+<sp>Induktionsmotorerne</sp>, vil altid frembringe en noget i.
+B.; jo mindre belastet Motoren er, desto større
+vil Faseforskydningen blive. I Modsætning til i.
+B. kaldes en Belastning, hvor Strøm og
+Spænding er i Fase med hinanden, for
+<sp>induktionsfri</sp>. En saadan Belastning fremkommer
+f. Eks. ved ren
+<sp>Glødelampebelastning</sp>. Har man paa et Net baade induktiv og
+induktionsfri Belastning (baade Motorer og
+Lamper) vil Faseforskydningen selvfølgelig
+blive mindre, end hvis man udelukkende havde
+Motorbelastning.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Induktor">
+<b>Induktor.</b> A. <sp>Virkemaaden</sp>. Ved en
+I. (<sp>Induktionsrulle</sp>, <sp>Induktorium</sp>,
+<sp>Ruhmkorff's Rulle</sp>) forstaas i Alm. et
+Apparat til Frembringelse af forholdsvis høje
+elektriske Spændinger ved pludselig
+Afbrydelse af en elektrisk Strøm. Den høje Spænding
+fremkaldes ved Induktion. Om denne sidste
+elektriske Virkning maa der til Indledning
+siges nogle Ord, idet der i øvrigt henvises til
+<sp>Induktion</sp>, hvori Virkningen er beskrevet.
+
+En elektrisk Strøm fremkalder i det Rum,
+der omgiver Lederen, som Strømmen flyder
+igennem, en Forandring af samme Art som
+den, en Magnet fremkalder i sin Nærhed. Man
+kan anskue Forandringen som en Art
+Strømning i Lighed med en Vædskestrømning, og man
+kan give et Billede af Strømningen ved Hjælp
+af Linier, de saakaldte magnetiske
+Induktionslinier, idet man giver disse Strømningens
+Retning og tegner dem desto tættere, jo stærkere
+den magnetiske Strømning ell. Strøm er. I Fig.
+1 ses et Billede af Induktionsliniestrømmen
+gennem en Spole <i>S</i>, der fører en elektrisk
+Strøm. Inde i Spolen er
+Induktionsliniestrømmen relativ stærk, uden for de fleste Steder
+svag. Det har vist sig, at man i høj Grad kan
+forstærke den magnetiske Strøm ved at
+udfylde Rummet ell. blot det indre af Spolen med
+Jern. Forstærkningen kan herved f. Eks. let
+blive fl. Hundrede Gange, saaledes altsaa, at
+der i Fig. 1 med Jern i Spolen skulde tegnes
+f. Eks. 500 Gange saa mange Linier som med
+Luft ell. et andet ikke magnetiserbart
+Materiale.
+
+Faraday har paavist et overordentlig
+simpelt Middel til Frembringelse af
+elektromotoriske Kræfter ell. elektriske Spændinger og
+dermed af elektriske Strømme. Man anbringer i
+en magnetisk Strøm en lukket Leder, saaledes
+at den omslutter en Del af Strømmen, altsaa
+et Antal magnetiske Induktionslinier. En
+saadan Leder er i Fig. 1 vist som A. Forandrer
+man nu paa en ell. anden Maade det
+omsluttede Antal Linier, opstaar der, ell., som man
+siger, induceres der i den lukkede Leder en
+elektromotorisk Kraft, som er proportional med
+den Hastighed, hvormed Forandringen
+foregaar, d. v. s. med Forandringen i Antallet pr
+Sek. I det matematiske Tegnsprog skrives
+denne Lov
+1° <i>e</i> = <i>k</i> · <i>d</i>Φ/<i>dt</i>,
+naar <i>e</i> betegner den elektromotoriske Kraft,
+Φ det hele Antal Induktionslinier, der i et givet
+Øjeblik omsluttes af den lukkede Leder, dΦ
+Forandringen i dette Antal i Tiden <i>dt</i>, og <i>k</i>
+endelig en Konstant, der afhænger af de benyttede
+Enheder. Maales den magnetiske
+Induktionsliniestrøm i saakaldte absolute magnetiske
+Enheder, Tiden i Sek. og den elektromotoriske
+Kraft i Volt, bliver Udtrykket
+1°' <i>e</i> = 10<sup>-8</sup> · <i>d</i>Φ/<i>dt</i>.
+
+Af denne Ligning afleder man en meget
+simpel grafisk Metode til Bestemmelse af den
+inducerede elektromotoriske Kraft, naar
+Induktionsliniestrømmens Variation med Tiden <i>t</i> er givet
+og fremstillet i Form af en Kurve, saaledes
+som det er sket i Fig. 2, hvor Kurven er
+mærket Φ. Størrelsen <i>d</i>Φ/<i>dt</i> er nemlig i ethvert
+Øjeblik lig med Tangens til den Vinkel <i>a</i>,
+Tangenten danner med Tidsaksen. Multipliceres
+altsaa denne Tangens med 10<sup>-3</sup>, haves <i>e</i> til det
+betragtede Tidspunkt, og udmaales Vinklen fra
+Punkt til Punkt af Kurven, kan man tegne
+en Kurve for <i>e</i>, saaledes som det er gjort i
+
+<img>Fig. 1.</img>
+

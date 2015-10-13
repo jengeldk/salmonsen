@@ -1,0 +1,201 @@
+<sp>Høst-S.</sp> (<i>S. spiralis</i> [Lj L. Koch) er 10—15
+cm høj og har grønlig-hvide Blomster med udelt
+Læbe. Den vokser paa Overdrev og er meget
+sjælden i Danmark; ej i Norge. Den blomstrer
+i Høsten.
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Skruebevægelse">
+<b>Skruebevægelse</b> (mat.). Et Punkt <i>P</i> siges
+at udføre en S. om en fast ret Linie som Akse,
+naar den vinkelrette fra <i>P</i> paa Aksen (<i>P</i>'s
+Afstand fra Aksen) beholder sin Længde, medens
+dens Fodpunkt glider langs Aksen, stadig i
+samme Retning, og Planen bestemt ved <i>P</i> og
+Aksen stadig drejer sig om Aksen til samme
+Side, saaledes at Forholdet mellem en
+Forskydning af Fodpunktet og den samtidige
+Drejning af Planen altid er det samme. S. er
+fuldstændig bestemt ved Aksen, en Stilling af
+Punktet og den til en hel Omdrejning i given
+Retning svarende Forskydning,
+<sp>Skruegangshøjden</sp>. Et Legeme udfører en S. om en
+Akse, naar alle dets Punkter gør det.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Skrueblik">
+<b>Skrueblik,</b> Staalplade, c. 50—150 mm lang,
+c. 12—50 mm bred, 1—3 mm tyk med en Del
+skrueskaarne Huller af
+forsk. Vidde
+og et Skaft
+til at holde
+paa (se Fig.).
+Kun de mindste Huller er helt runde, de større
+har Hak for at give Plads for Spaanen. S.
+anvendes af Urmagere, Instrumentmagere o. l. til
+at skære Gevind paa Metaltraad.
+<i>(F. W.). D. H. B.</i>
+
+<img>Skrueblik.</img>
+</chapter>
+
+<chapter name="Skruebolt">
+<b>Skruebolt,</b> se <sp>Møtrik</sp>.
+</chapter>
+
+<chapter name="Skruebremse">
+<b>Skruebremse,</b> se <sp>Bremse</sp>, S. 921.
+</chapter>
+
+<chapter name="Skruebrækker">
+<b>Skruebrækker,</b> se <sp>Strejke</sp>.
+</chapter>
+
+<chapter name="Skruedamper">
+<b>Skruedamper,</b> se <sp>Dampskib</sp>.
+</chapter>
+
+<chapter name="Skruefjeder">
+<b>Skruefjeder</b> kaldes i den ældre
+Vaabenteknik »Spiralfjeder« (se <sp>Slagfjeder</sp>).
+</chapter>
+
+<chapter name="Skruefjederlaas">
+<b>Skruefjederlaas</b> ell. Spiralfjederlaas,
+Geværlaas med Skruefjeder.
+</chapter>
+
+<chapter name="Skrueflade">
+<b>Skrueflade</b> (mat.) kaldes en Flade, beskrevet
+af en Kurve, der udfører en Skruebevægelse
+om en Akse. Som Eksempler kan nævnes
+Slangefladen og den snoede Søjle, ved hvilke
+Kurven er en Cirkel, hvis Plan henh. er Normalplan
+til den Skruelinie, som Centret beskriver, og
+vinkelret paa Aksen. Mest Bet. har dog de S.,
+der beskrives af en ret Linie; er denne stadig
+Tangent til en fast Skruelinie, bliver S.
+<sp>udfoldelig</sp>, ellers <sp>vindskæv</sp>. Skruer og
+Møtrikker begrænses gerne af vindskæve S., hvor den
+frembringende rette Linie skærer Aksen. Se i
+øvrigt <sp>vindskæve</sp> og <sp>udfoldelige
+Flader</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Skruegænger">
+<b>Skruegænger,</b> de Fremspring, som snor sig
+om en Bolt ell. inden i en Møtrik og tilsammen
+danner henh. Hanskruen og Hunskruen. S.'s
+Profil og Stigning er det karakteristiske for
+disse. Hvor det drejer sig om fin Indstilling,
+er Profilet lille og Stigningen lille, hvilket er
+det samme som, at Snoningen er stor; omvendt
+hvor man ved en Omdrejning vil frembringe
+stor Bevægelse i Retning af Skruens Akse, er
+Stigningen stor, Snoning altsaa lille, S. stejle.
+Ved stejle S. ligger ikke det ene Profil med
+Nødvendighed umiddelbart over det andet; er
+Afstanden lig et Profil, kan en S. indskydes,
+Skruen bliver togænget ell. toløbet; flerløbede
+Skruer forekommer ogsaa. S.'s Profil er oftest
+trekantet med afrundede ell. fladt afskaarne
+Hjørner; større Skruer har firkantet Profil, ved
+dette skæres en Del Materiale bort. Skruer i
+Træ o. l. faar grovere S. end Metalskruer. Se
+forøvrigt <sp>Skrue</sp>.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Skruehager">
+<b>Skruehager,</b> se <sp>Skærpning</sp>.
+</chapter>
+
+<chapter name="Skrueis">
+<b>Skrueis,</b> se <sp>Is</sp>.
+</chapter>
+
+<chapter name="Skrueklup">
+<b>Skrueklup,</b> Værktøj, som benyttes til
+Skrueskæring, hvor denne ikke foregaar paa
+Drejebænk eller
+egen
+Maskine, og som
+derfor ses i
+Brug ved
+Arbejde, f. Eks.
+paa Gas- og
+Vandrør. S.
+eller
+<sp>Kluppen</sp>,
+<sp>Snittøjet</sp> i
+Haandværkersproget, bestaar af en lille Ramme <i>r</i> (Fig.
+1), i hvis Ender der sidder to lange Arme
+<i>a</i>, der anvendes som Sving. I Rammen
+indsættes de skærende Bakker <i>b</i> af hærdet Staal;
+disse omfatter den i Skruestikken indspændte
+Genstand (Bolt ell. Rør), der spændes til og
+drejes rundt under flittig Smøring med Olie.
+Den tarveligste S. har kun 2 Bakker (Fig. 1),
+og det vil ses, at man ved den kan faa ikke
+saa ganske smaa Variationer i Skruegængerne,
+efter hvor meget man spænder til, man har
+derfor ingen Garanti mod sjusket Arbejde.
+Bedre er S. med 3 Bakker, der bevæger sig
+koncentrisk. I Bakkerne maa der være
+Udskæringer ell. paa anden Maade Plads til
+Spaanen. Den <sp>amerikanske</sp> S. (Fig. 2) har
+kun 1 Bakke, der er dannet som en Møtrik, men
+med Borttagelse dels af noget Materiale for at
+give Plads for Spaan og fremspringende
+Kanter, dels af de første Gænger (bakket af) for at
+virke efterhaanden paa Bolten. Ved denne S.
+opnaas Garanti for korrekt Skrue, som altsaa
+passer i den tilsvarende Normalmøtrik, og fuldt
+Gevind. Bakken kan være forsynet med et
+radiært Snit i den ene Side, saaledes at Bakken
+indenfor visse Grænser kan spændes mere ell.
+mindre sammen og derved efter Ønske skære en
+Bolt ell. Skrue noget stivere ell. svagere.
+
+Skal en Møtrik skæres, anvendes en
+<sp>Snittap</sp>, som er en hærdet Staalskrue, hvis
+Gænger kun er fulde paa dens inderste Del, men
+aftager konisk nedefter, ligesom der ogsaa er
+Længdefurer til Spaanen. Snittappen indsættes
+i et Vindejern og drejes rundt hermed. Da der
+her ikke er Tale om Tilspænding, vil
+Møtrikken, naar Snittappen er ført helt gennem
+Emnet, altid blive korrekt.
+<i>(F. W.). D. H. B.</i>
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+</chapter>
+
+<chapter name="Skrueknægt">
+<b>Skrueknægt,</b> se <sp>Limtvinge</sp>.
+</chapter>
+
+<chapter name="Skruekobling">
+<b>Skruekobling,</b> se <sp>Kobling</sp>, S. 246.
+</chapter>
+
+<chapter name="Skruekvast">
+<b>Skruekvast</b> (bot.) kaldes en saadan enarmet,
+transversalgrenet Kvast, i hvilken to paa
+hinanden følgende Akser er ensløbende eller
+homodrome, altsaa stillede paa samme Side i
+Forhold til den relative Hovedakse; findes f.
+Eks. hos Perikon og <i>Hemerocallis</i> (smlg.
+<sp>Svikkel</sp>, <sp>Kvast</sp>).
+<i>(V. A. P.). A. M.</i>
+</chapter>
+
+<chapter name="Skruelinie">
+<b>Skruelinie</b> (mat.) kaldes Rumkurven
+beskrevet af et Punkt, der udfører er Skruebevægelse

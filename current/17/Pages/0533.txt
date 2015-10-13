@@ -1,0 +1,61 @@
+<img>MÜNCHEN</img>
+
+<table>
+<td r>1.<td><i>Tekn.- og Kunstindustri-Skole</i>
+<td r>2.<td><i>Lenbach-Haus</i>
+<td r>3.<td><i>Lolzbeckske Samling</i>
+<td r>4.<td><i>Hotel Marienbad</i>
+<td r>5.<td><i>Nye Teater</i>
+<td r>6.<td><i>Eden-Hotel</i>
+<td r>7.<td><i>Hotel Continental</i>
+<td r>8.<td><i>Regina-Palast-Hotel</i>
+<td r>9.<td><i>Koncertsal</i>
+<td r>10.<td><i>Wittelsbach-Palæ</i>
+<td r>11.<td><i>Ludwig-Ferdinands Palæ</i>
+<td r>12.<td><i>Leuchtenbergs Palæ</i>
+<td r>13.<td><i>Hertug Carls Palæ</i>
+<td r>14.<td><i>Engelsk Kirke</i>
+<td r>15.<td><i>Prins Karls Palæ</i>
+<td r>16.<td><i>Max-Josefs Opdragelsesanstalt</i>
+<td r>17.<td><i>Gammeikatolsk Kirke</i>
+<td r>18.<td><i>Café Prins Ludwig</i>
+<td r>19.<td><i>Hubertus Tempel</i>
+<td r>20.<td><i>Luitpold-Bro</i>
+<td r>21.<td><i>Maximilians Bro</i>
+<td r>22.<td><i>Alpin. Museum</i>
+<td r>23.<td><i>Kloster-Kirke</i>
+<td r>24.<td><i>Kunstforening</i>
+<td r>25.<td><i>Tøjhus</i>
+<td r>26.<td><i>Theatiner-Kirke</i>
+<td r>27.<td><i>Indenrigsministerium</i>
+<td r>28.<td><i>Landdagsbygninq</i>
+<td r>29.<td><i>Ærkebiskops-Palæ</i>
+<td r>30.<td><i>Hotel Bayrischer-Hof</i>
+<td r>31.<td><i>Park-Holel</i>
+<td r>32.<td><i>Bürgersaal-Kirke</i>
+<td r>33.<td><i>Hotel Königshof</i>
+<td r>34.<td><i>— Kaiserhof</i>
+<td r>35.<td><i>— Grünwald</i>
+<td r>36.<td><i>Telegrafstation</i>
+<td r>37.<td><i>Hotel Rheinischer Hof</i>
+<td r>38.<td><i>— Kronprinz</i>
+<td r>39.<td><i>— de l'Europe</i>
+<td r>40.<td><i>— Métropole</i>
+<td r>41.<td><i>— Monopol</i>
+<td r>42.<td><i>Hirschbräu-Kælder</i>
+<td r>43.<td><i>Hacker-Brauerel</i>
+<td r>44.<td><i>Pschorr-Bräu</i>
+<td r>45.<td><i>Spatenbräu Kælder</i>
+<td r>46.<td><i>Hotel Wagner</i>
+<td r>47.<td><i>— Reichshof</i>
+<td r>48.<td><i>— Reichsadler</i>
+<td r>49.<td><i>— Bamberger-Hof</i>
+<td r>50.<td><i>Byhistorisk Museum</i>
+<td r>51.<td><i>Alter Hof</i>
+<td r>52.<td><i>National-Teater</i>
+<td r>53.<td><i>Hofbräuhaus</i>
+<td r>54.<td><i>Münchener Schauspielhaus</i>
+<td r>55.<td><i>Isar-Bro</i>
+<td r>56.<td><i>Ludwigs-Bro</i>
+<td r>57.<td><i>Eberlbräu Kælder</i>
+</table>

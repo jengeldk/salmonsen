@@ -1,0 +1,153 @@
+fra Afsenderstationen, medens indskudte
+Overdragningsrelæer udsender Strøm i de følgende
+Afsnit.
+
+Paa Telegrafledninger udføres Overdragning
+forholdsvis let ved Hjælp af elektromagnetiske
+Relæer, der allerede blev foreslaaet 1836 af
+Amerikaneren Morse i Forbindelse med det af
+ham konstruerede Telegrafapparat. I
+Princippet er et saadant Relæ en Elektromagnet,
+gennem hvis Triaadvindinger de fra Ledningen
+kommende Strømimpulser ledes.
+Elektromagneten tiltrækker derved et som Vægtstang
+anbragt bevægeligt Anker, der er forsynet med
+en Kontaktfjeder, hvorigennem Forbindelse
+fører fra et lokalt Batteri til den udgaaende
+Ledning. I denne udsendes da Strømimpulser, der
+ganske svarer til Strømmene i den
+ankommende Ledning.
+
+Ved Hjælp af et enkelt Relæ kan
+Telegraferingen kun foregaa i den ene Retning paa
+Ledningen. Skal Telegraferingsretningen
+forandres, maa de to Ledningsafsnits Forbindelse
+med Relæmagnet og Anker omskiftes. Ved
+Anvendelse af to kombinerede Relæer kan man
+indrette Forbindelserne saaledes, at Relæerne
+uden Omskiftning reagerer for Strømme i hver
+sin Ledning og udsender tilsvarende Strømme
+i den anden Ledning. Et saadant
+dobbeltvirkende Overdragningsrelæ er først angivet af
+Siemens og Halske i Berlin 1847.
+
+O. paa Telefonledninger frembyder langt
+større Vanskelighed, idet det her ikke som ved
+Telegrafering drejer sig om simpel
+Strømslutning og Afbrydelse i den tilsluttende Ledning,
+men derimod om Overføring til denne af
+hurtige Vekselstrømme med varierende Styrke og
+Periodetal. De forsk. mekaniske Midler, man
+har forsøgt anvendt hertil, har ikke ført til
+praktisk brugbare Resultater. En fuldt
+tilfredsstillende Løsning af Problemet er først
+lykkedes i de seneste Aar ved Anvendelse af de
+saakaldte Audionlamper, hvor man gør Brug af
+de i luftfortyndet Rum stedfindende elektriske
+Udladninger fra glødende Metaller (se
+<sp>Telefonforstærker</sp>). Ved Telefonering gælder
+det i særlig Grad om, at O. sker i begge
+Retninger paa Ledningen, idet de to Abonnenter
+til enhver Tid under Samtalens Forløb maa
+kunne skiftes til at tale ell. høre. Da
+Audionlampen kun overfører Strømme i een Retning,
+har en saadan dobbeltsidig O. voldt fl.
+Vanskeligheder. Man har saaledes forsøgt at lade
+Forbindelserne fra en enkelt Audionlampe til de
+to Ledningsafsnit omskiftes automatisk, efter som
+Taleretningen veksler. Bedre er Anvendelsen
+af en Ledning med tilhørende Forstærkerlampe
+for hver Taleretning. Da dette kræver to
+Dobbeltledninger (ɔ: i alt 4 Traade) mellem de
+samtalende Stationer, er man i de seneste Aar
+gaaet over til mere hensigtsmæssige
+Forbindelsesmaader, hvorved de to Audionlamper kan
+indkobles paa samme Dobbeltledning. Det
+gælder her om at forhindre de gennem
+Forstærkeren kommende Strømme i paa ny at
+indvirke paa den Ledning, fra hvilken de
+modtages. Strømmene vil ellers atter blive
+forstærkede, og dette gentaget i stigende Rækkefølge,
+hvorved Systemet kommer i en
+Svingningstilstand, der viser sig ved en kraftig Tonen
+(»Hylen«) i Telefonen. For at undgaa dette, lader
+man kun Halvdelen af de fra hver
+Audionlampe kommende forstærkede Strømme
+udsendes paa Ledningen, medens den anden
+Halvdel indføres paa en saadan Maade i det
+elektriske Kredsløb, at den ophæver den førstes
+Indvirkning paa den Ledningsside, hvorfra
+Modtagningen paa samme Tid finder Sted. Denne
+Strømdeling udføres ved at forbinde
+Audionlampernes Afgangsside dels med den
+udgaaende Ledning og dels med en af Modstande og
+Kondensatorer opbygget kunstig Ledning, hvis
+elektriske Egenskaber saa nær som muligt
+svarer til den virkelige Lednings.
+
+Telefonøverdragning er i vore Dage i
+voksende Udbredelse ved Telefonering paa længere
+underjordiske Kahelledninger. Man indretter
+her Overdragningsstationer med 75—150 km
+indbyrdes Afstand, hvorved Samtalens
+Rækkevidde kan forøges mange Gange over, hvad der
+tidligere var muligt.
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Overdrev">
+<b>Overdrev,</b> opr. <i>oredrev</i> (i St. f. hvilket ogsaa
+forekommer <i>oredrift</i>), kommer af <i>ore</i>, stenet,
+udyrket Jord, og var i Jordfællesskabets Tid
+Betegnelsen for de til de enkelte Landsbyer
+hørende uopdyrkede, ofte delvis skovbevoksede
+Strækninger, der benyttedes til Fællesgræsning
+for Landsbyens Kreaturer ell. paa anden lign.
+Maade, se <sp>Jordfællesskab</sp>, S. 181—82.
+<i>P. J. J.</i>
+</chapter>
+
+<chapter name="Overejendomsret">
+<b>Overejendomsret</b> er et hist. Begreb, der
+knytter sig til en Tid, da man mente, at
+Ejendomsretten over faste Ejendomme var delelig
+i den Forstand, at de dertil knyttede Beføjelser
+udøvedes af forsk. Personer. Man betegnede da
+Indehavelsen af visse Beføjelser — de
+saakaldte Herlighedsrettigheder — som f. Eks.
+Jagt- og Fiskeriret og Retten til visse Afgifter,
+f. Eks. ved Ejerskifte og undertiden ogsaa
+visse offentligretlige Rettigheder som Sigt- og
+Sagefaldsret som O., medens de øvrige til
+Ejendommen knyttede Beføjelser betragtedes som
+Underejendomsret. Paa lgn. Maade ansaa man
+Ejendomsretten for delt, naar en Ejendom var
+overdraget i Arvefæste med Ret til at sælge
+og pantsætte den. I Nutiden er man imidlertid
+enig om, at Ejendomsretten ikke lader sig dele
+paa den anførte Maade. Man betegner nutildags
+kun dem som Ejere, der har Raadigheden over
+Ejendommen i alle Retninger, hvor ikke
+særlige Indskrænkninger er gjort ved Lov ell.
+Aftale, og hvis Raadighed af sig selv udvides,
+hvis de nævnte Indskrænkninger bortfalder. —
+Herlighedsejeren og den, der har Ret til Afgift
+af en bortarvefæstet Ejendom, betegnes kun
+som afgiftsberettiget e. l., medens Indehaveren
+af den tidligere saakaldte Underejendomsret
+betragtes som den egl. Ejer. (<sp>Litt</sp>.: <sp>Matzen</sp>,
+»Tingsret« [1884], S. 95, med Henvisninger).
+<i>A. D. B.</i>
+</chapter>
+
+<chapter name="Overenskomst">
+<b>Overenskomst</b> se <sp>Kontrakt</sp>.
+</chapter>
+
+<chapter name="Overenskomstteori">
+<b>Overenskomstteori.</b> I Romerretten og de
+af denne paavirkede ældre Retsforfatninger var
+det Reglen, at et Løfte ikke var forpligtende,
+forinden det var akcepteret, saaledes at der
+forelaa en Overenskomst mellem to Parter. —
+I nyere Tid er imidlertid den Opfattelse mere

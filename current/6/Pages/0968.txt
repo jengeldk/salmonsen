@@ -1,0 +1,66 @@
+en voksende Spænding, idet jo Ankeret roterer
+i et magnetisk Felt. Denne Spænding er modsat
+rettet den ydre Spænding; herved vil da
+Strømstyrken formindskes, og
+Igangsætningsmodstanden kan efterhaanden skydes helt ud.
+Omdrejningstallet vil vedblive at stige, indtil den i
+Ankeret inducerede Spænding - bortset fra
+Spændingstabene hidrørende fra selve
+Ankermodstanden - er lig den ydre Spænding, og
+det vil derfor være afhængig af Magnetfeltets
+Styrke; jo svagere Feltet er, des hurtigere skal
+naturligvis Ankeret rotere for at inducere den
+nødvendige Spænding. Ved en <sp>Shuntmotor</sp>
+er det magnetiske Felt nogenlunde konstant,
+uafhængig af Belastningen, hvorfor denne
+Motors Omdrejningstal ogsaa praktisk talt bliver
+konstant, lidt faldende ved voksende Belastning.
+Ved en <sp>Seriemotor</sp> vil derimod
+Omdrejningstallet aftage stærkt med voksende
+Belastning, idet Feltets Styrke vokser med denne. Af
+samme Grund maa man aldrig lade en
+Seriemotor gaa ubelastet; Feltet vil da blive saa svagt,
+at Motoren løber løbsk. Tillige vil Seriemotoren
+ved dens langsomme Omdrejningstal have en
+stor Trækkraft (stort Drejningsmoment),
+hvorfor den særlig anvendes, hvor det af Motoren
+krævede Arbejde varierer stærkt, som f. Eks.
+ved elektriske Sporvogne, hvor der til
+Igangsætning af Vognen kræves stor
+Trækkraft, medens den jævne Fart kun
+koster forholdsvis lidt Arbejde.
+<sp>Shuntmotoren</sp> anvendes
+derimod, hvor en konstant Hastighed
+ønskes, hvilket jo i Alm. er Tilfældet. Til
+Regulering af Shuntmotorens
+Omdrejningstal anvendes den i Fig. 8 viste
+<sp>Shuntreguleringsmodstand</sp>,
+en i Serie med Feltviklingen indskudt
+Modstand; jo større denne gøres, des
+svagere bliver Feltet, og des hurtigere
+vil Motoren løbe. En Igangsætter og
+en Shuntreguleringsmcdstand til en
+Jævnstrømsmotor er vist i Fig. 9.
+
+<sp>Vekselstrømsmaskiner</sp>.
+Hvis man i St f. som vist i Fig. 2 at
+forbinde Spolen til to
+Kommutatorlameller, forbinder dens Ender til to
+<sp>Slæberinge</sp> (Fig. 10), to til
+Akslen fastgjorte Metalringe, hvorpaa der
+glider et Par Børster, vil man
+fra disse Børster kunne aftage en
+Vekselstrøm, det vil sige en Strøm, der
+uafbrudt veksler i Størrelse og Retning (Fig. 11,
+hvor Abscisserne angiver Tid, Ordinaterne de
+øjeblikkelige Værdier af Strømmen). I de
+moderne Vekselstrøms-Maskiner, <sp>de synkrone</sp>
+
+<img>
+Fig. 7. Jævnstrømsgenerator, 1000 KW.
+</img>
+<img>
+Fig. 8. Skema af Shuntmotor med Igangsætter og
+Shuntreguleringsmodstand. <i>A</i> Anker, <i>Sh</i> Shuntvikling, <i>J</i> Igangsætter,
+<i>R</i> Regulermodstand, <i>S</i> Sikringer.
+</img>

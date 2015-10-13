@@ -1,0 +1,120 @@
+Bogtrykekrkunstens Opfindelse, af hvilken Grund de to nu
+fuldstændig adskilte Virksomheders
+Udviklingshistorie vanskelig lader sig behandle hver for
+sig. Speciallitteratur om S. findes ikke, men ret
+fyldige Oplysninger om Historie og Teknik
+gives i <sp>Joseph Moxon</sp>'s <i>Mechanick Exercises</i>
+(London 1683, paa ny udg. af <sp>De Vinne</sp>, New
+York 1896); i <sp>P. S. Fournier</sp>'s <i>Manuel
+typographique</i> (Paris 1764); i <sp>Herm. Smalian</sp>'s
+»Praktisches Handbuch für Buchdrucker im
+Verkehr mit Schriftgiessereien« (Danzig 1878);
+i <sp>Th. L. De Vinne</sp>'s <i>The Invention of
+Printing</i> (New York 1878) og <sp>sammes</sp> <i>Plain
+Printing Types</i> (New York 1900).
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="Skriftstørrelser">
+<b>Skriftstørrelser,</b> se <sp>Skriftsystem</sp>.
+</chapter>
+
+<chapter name="Skriftsystem">
+<b>Skriftsystem,</b> Betegnelse i al Alm. af de
+typografiske Typelegemers indbyrdes
+Størrelsesforhold. Et Bogtrykkeris Typemateriel er
+<sp>systematisk</sp>, naar den trinvise Opstigen af
+Keglerne, d. e. Typelegemets Bredde, taget
+lodret paa Skriftbilledet, er i nøje
+Overensstemmelse med en given Enhed, saaledes at hver
+enkelt Skriftstørrelse altid indeholder et vist
+Antal af disse, og det kaldes <sp>usystematisk</sp>,
+naar Typemateriellet enten slet ikke er i
+Overensstemmelse med nogen Enhed ell. det er
+baseret paa to i Størrelse afvigende Enheder. Opr.
+tog Skriftstørrelsernes typografisk hævdvundne
+Navne nærmere Sigte paa Skriftbilledernes end
+paa Typelegemernes Omfang, og dette Forhold
+er endnu til Stede i de Trykkerier, hvis
+Typemateriel helt ell. delvis er usystematisk.
+Størrelsesbetegnelserne, der alle stammer fra 15. og
+16. Aarh., viser ikke Typelegemernes
+Slægtskab; de er tilfældige Navne, opstaaede i
+Trykkerierne. Saaledes har Skriftstørrelserne
+<sp>Missal</sp>, <sp>Kanon</sp> og <sp>Text</sp> faaet Navne efter de
+Trykarbejder for Gejstligheden, til hvilke disse
+særlig brugtes; <sp>Tertia</sp> (den tredje), <sp>Mittel</sp>
+(den mellemste) og <sp>Petit</sp> (den lille Skrift) var
+tilstrækkelig oplysende Betegnelser for
+Sætterne, da Bogtrykkerne i hine Tider kun ejede faa
+Skrifter, og for det meste kun en af hver
+Skriftgrad. <sp>Cicero</sp> og <sp>Korpus</sp> har faaet
+Navn efter Titelrubrikkens Begyndelsesord i de
+Bøger, til hvilke disse Skriftstørrelser første
+Gang benyttedes. Kun de mindste
+Skriftstørrelsers Navne (<sp>Nonpareil</sp>, <sp>Perle</sp>,
+<sp>Diamant</sp>) hidrører fra de Stempelskærere, som
+først bragte disse frem og i berettiget Stolthed
+gav dem de velklingende Navne.
+
+De typografiske S.'s Fader er <sp>Pierre
+Simon Fournier</sp>, en berømt fr.
+Stempelskærer og Skriftstøber. Den i Bogtrykkerierne
+herskende Uorden i Typelegemerne bragte ham
+1737 paa den Tanke, at lægge det da gældende
+fr. Fodmaal, <i>pied de roi</i> (1 Fod à 12 Tommer à
+12 Linier à 12 Punkter), til Grund for
+Keglernes Dannelse. Han tog 2 af disse Punkter (eet
+vilde være for lille, da det ikke var tykkere end
+et Blad Skrivepapir, og derfor ikke lod sig
+støbe af Skriftmetal) som Enhed og kaldte det et
+typografisk Punkt; en Nonpareil à 6 Enheder
+skulde være = 1 Linie; en Cicero à 12 Enheder
+= 2 Linier og 12 Cicero à 12 Enheder = 2
+Tommer af <i>pied de roi</i>. Fournier gennemførte
+dog ikke sin Tanke, sandsynligvis fordi
+Forskellen mellem de tilvante og de ny Typelegemer
+vilde blive for stor. Han beholdt kun
+Delingsprincippet og reducerede de to Tommer af <i>pied
+de roi</i> (= 54,14 mm) med 1/12 ell. godt 4 mm.
+Systemet blev straks antaget af Bogtrykkerne,
+men faa Aar efter Fournier's Død viste det sig,
+at Mangelen af et let kontrollerligt Grundmaal
+gav nogen Usikkerhed i Fastsættelsen af
+Enhedens Størrelse. To andre berømte
+Skriftstøbere, <sp>François Didot</sp> (Fader) og
+<sp>Firmin Didot</sp> (Søn), gennemførte Fournier's
+opr. Tanke: en nøje Overensstemmelse med det
+gældende Fodmaal: 6 Enheder = 1 Linie af
+<i>pied de roi</i>. Da de gl. Størrelsesnavne ikke lod
+sig bringe i Samklang med Didot'ernes ret
+betydelig forstørrede Typelegemer, foreslog de, at
+Enheden fremtidig skulde kaldes Legeme (<i>corps</i>)
+og Skriftstørrelserne angives med Tal: Legeme
+6, 7, 8 o. s. v. Didot-Systemet vandt
+efterhaanden Terræn og er nu det mest udbredte i
+Europa, men de gl. Størrelsesnavne bruges endnu
+overalt og lader sig til Trods for deres
+Meningsløshed næppe udrydde i en overskuelig
+Fremtid. I Tyskland, hvor Didot-Systemet i
+1870'erne ogsaa blev antaget som Normalsystem,
+overførtes det 1878 — da <i>pied de roi</i> for længst
+havde ophørt at være et lovligt Fodmaal —
+paa Meteren. 2660 Didot'ske Enheder stemmer
+overens med 1 m. 798 Enheder med 35 cm.
+<sp>Tysk Normalsystem</sp> og <sp>det
+metriske System</sp> er kun nyere tyske Navne for
+Didot-Systemet. <sp>Skrifthøjden</sp>
+(Papirhøjden), der opr. var 10 1/2 Linie af <i>pied de roi</i> =
+63 Didot'ske Enheder i Fournier's og Didot's
+Systemer, er i Tidens Løb sunket henved 1/2
+Punkt; da Skrifthøjden nødvendigvis maa være
+den samme i hele et Bogtrykkeris Skriftmateriel
+og en Tilbagevenden til den opr. Højde vilde
+skabe store Vanskeligheder i de Trykkerier, der
+alt var indrettede paa Didot-Systemet, fastsattes
+Skrifthøjden til fremtidig at være 62,75 Didot'ske
+Legemer. Udslutningerne, d. e. de Typelegemer
+uden Skriftbilleder, som giver Mellemrummene
+
+<img></img>

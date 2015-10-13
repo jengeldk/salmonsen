@@ -1,0 +1,143 @@
+Cirklen er det omvendte af dette Forhold =
+Radius; ved en vilkaarlig Kurve kalder man
+det omvendte af Krumningsmaalet Kurvens
+<sp>Krumningsradius</sp> i det paagældende
+Punkt. En Cirkel med denne Radius, der rører
+Kurven i Punktet og vender sin Konkavitet til
+samme Side, kaldes <sp>Krumningscirklen</sp>;
+dens Centrum, <sp>Krumningscentret</sp>,
+ligger paa Kurvens Normal. Denne Cirkel falder
+sammen med den oskulerende Cirkel (se
+<sp>Oskulation</sp>). Ved vindskæve Kurver har
+Monge indført samme Definition paa K. og
+Krumningsradius i et Punkt; Krumningscirklen
+ligger i Oskulationsplanen og er den samme som
+den oskulerende Cirkel. Lancret betragter her
+tillige en anden K., <sp>Torsionen</sp>, der skal
+angive, hvor hurtig Oskulationsplanen drejer
+sig; som Maal for Torsionen bruger man
+Kontingensvinklen mellem to uendelig nær ved
+hinanden liggende Punkters Oskulationsplaner
+divideret med Punkternes Bueafstand, og det
+omvendte af denne Størrelse kaldes
+<sp>Torsionsradius</sp>. En Flades K. i et Punkt <i>P</i>
+kan beskrives ved, at man angiver, hvorledes
+K. i et Snit gennem Fladens Normal i <i>P</i>
+varierer, naar Snittet drejer sig. Er Fladen
+ukonveks i <i>P</i>, ɔ: gennemskærer den
+Tangentplanen (se <sp>Tangentplan</sp>) langs to
+Kurvegrene gennem <i>P</i>, regnes Krumningsradierne i
+Normalsnittene positive ell. negative, efter som
+de ligger paa den ene ell. den anden Side af
+Tangentplanen; i de Normalsnit, der tangerer
+de nævnte Kurvegrene, er Krumningsradierne
+uendelige. Alle Krumningsradierne i
+Normalsnittene ligger i Værdi mellem (ell. uden for)
+to' Grænser <i>r</i><sub>1</sub> og <i>r</i><sub>2</sub>, der selv er
+Krumningsradier i to paa hinanden vinkelrette
+Normalsnit, <sp>Hovedsnittene</sp>; Normalerne til
+Fladen i to konsekutive Punkter til <i>P</i> paa disse
+Hovedsnit er de eneste konsekutive Normaler,
+der skærer Normalen i <i>P</i> (Monge).
+Krumningsradien <i>r</i> i et Normalsnit, der danner
+Vinklen Θ med Hovedsnittet med
+Krumningsradius <i>r</i><sub>1</sub>, bestemmes ved den af Euler fundne
+1/<i>r</i> = <i>cos</i><sup>2</sup>Θ/<i>r</i><sub>1</sub> + <i>sin</i><sup>2</sup>Θ/<i>r</i><sub>2</sub>. En god
+Oversigt over <i>r</i>'s Variation faas ved at bemærke,
+at <i>r</i> er = Kvadratet paa den Halvdiameter i
+et Keglesnit med Halvakserne √<i>r</i><sub>1</sub> og √<i>r</i><sub>2</sub>
+(<sp>Indikatrix</sp>, indført af Dupin, se
+<sp>Tangentplan</sp>), der danner Vinklen Θ med
+førstnævnte Halvakse. Er <i>r</i><sub>1</sub> = <i>r</i><sub>2</sub>, bliver alle
+Normalsnittenes Krumningsradier lige store og
+Indikatrix en Cirkel; Punktet kaldes da et
+<sp>Kuglepunkt</sp>. Krumningsradius i et skraat
+Snit gennem <i>P</i> er iflg. et Teorem af Meunier
+= Projektionen paa Snittets Plan af
+Krumningsradius i det Normalsnit, der skærer
+Tangentplanen i samme Linie. Ligesom man ved
+Kurver som Maal for en Bues K. bruger
+Forholdet mellem en Cirkelbue med Radius =
+Længdeenheden og Buen, idet Vinklen mellem
+Endepunkternes Normaler er den samme ved
+de to Buer, indførte Gauss som Maal for et
+Fladeelements Middelkrumning Forholdet
+mellem et Areal paa en Kugleflade med Radius =
+Længdeenheden og Arealet af Fladeelementet,
+idet Normalerne til Fladerne i de to Arealers
+Begrænsningslinier er parvis parallelle. K. i
+et Punkt <i>P</i> bliver saa Grænsen for K. i et
+til 0 aftagende Fladeelement, der indeholder
+<i>P</i>. Dette Maal for K. bliver uforandret, naar
+Fladen omformes ved Bøjning, forudsat blot,
+at enhver paa Fladen tegnet Bue beholder sin
+Længde. Ved en Flades
+<sp>Krumningslinier</sp> forstaas Kurver paa Fladen, som i hvert af
+deres Punkter tangerer et af Hovedsnittene,
+langs hvilke man altsaa altid bevæger sig i
+den Retning paa Fladen, hvor K. er størst ell.
+mindst; gennem hvert Punkt paa Fladen gaar
+to Krumningslinier, der skærer hinanden under
+ret Vinkel. Krumningslinierne paa en
+Omdrejningsflade er Parallelcirklerne og
+Meridiankurverne, da Normalerne i to konsekutive
+Punkter af disse altid skærer hinanden. Dupin har
+bevist flg. Sætning: Naar 3 Systemer af Flader
+har den Egenskab, at hver Flade i et af
+Systemerne er vinkelret paa hver Flade i de
+andre langs de to Fladers Skæringskurve, er
+denne Skæringskurve en Krumningslinie paa
+hver af de to Flader. Af Keglesnitsfladerne
+med Ligninger af Formen: <i>x</i><sup>2</sup>/<i>a</i><sup>2</sup>+<i>k</i> + <i>y</i><sup>2</sup>/<i>b</i><sup>2</sup>+<i>k</i> +
+<i>z</i><sup>2</sup>/<i>c</i><sup>2</sup>+<i>k</i> = 1, hvor <i>k</i> antager alle mulige
+Værdier (konfokale Keglesnitsflader), kan man
+danne saadanne 3 Systemer, naar man af de
+3 gennem et vilkaarligt Punkt gaaende Flader
+lader hver høre til sit System.
+Krumningslinierne paa Ellipsoiden med Ligningen
+<i>x</i><sup>2</sup>/<i>a</i><sup>2</sup> + <i>y</i><sup>2</sup>/<i>b</i><sup>2</sup> + <i>z</i><sup>2</sup>/<i>c</i><sup>2</sup> = 1 er altsaa dens
+Skæringslinier med Flader i disse Systemer; hver
+Krumningslinie er bestemt ved en Værdi af
+√<i>a</i><sup>2</sup> + <i>k</i>, og to saadanne Værdier kan i en
+Geometri paa Ellipsoiden bruges som saakaldte
+<sp>elliptiske Koordinater</sp>, til de
+tilsvarende Krumningsliniers Skæringspunkter.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="krumnæbbet Ryle">
+<b>krumnæbbet Ryle,</b> se <sp>Ryler</sp>.
+</chapter>
+
+<chapter name="Krumpasser">
+<b>Krumpasser,</b> Passer med krumme Ben,
+anvendes til at tage udvendige Maal, er i mange
+Tilfælde, som Fig. viser,
+tillige indrettet til ved at krydse
+Benene at tage indvendige
+Maal. Ved Genstande, hvor
+Maalet maa gaa tabt ved, at
+Passeren aftages, f. Eks. en
+Jernbaneskinne, hvis Ender
+ikke er fri, og hvis Krop
+skal maales, maa anvendes
+<sp>Dobbelt-K.</sp>, fremkommen
+ved, at K.'s Ben forlænges
+ud over Omdrejningspunktet. De fri Bens
+Afstand kan da enten give det rette Maal, ell.
+ogsaa dette forstørret, f. Eks. til det dobbelte,
+naar de gøres dobbelt saa lange som de mod
+Genstanden liggende.
+F. W.
+
+<img>Krumpasser.</img>
+</chapter>
+
+<chapter name="Krumpen">
+<b>Krumpen,</b> uddød jysk Adelsslægt, der førte
+et rødt Møllehjul i Sølv Felt og paa Hjelmen
+et lign. Hjul holdt af jo jernklædte Arme.
+Slægten kendes allerede fra Beg. af det 14. Aarh.
+Kun de to Brødre Hr. <sp>Stygge</sp> og Hr. <sp>Otte
+K.</sp> kom til at spille en større Rolle. S. K. var
+den sidste kat. Biskop i Børglum, kendt som

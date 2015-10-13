@@ -1,0 +1,127 @@
+undersøge Sagen nærmere. Det stærkest aktive
+uranholdige Mineral, Begblende, blev ved
+passende Processer delt i to ell. fl. kem. forsk.
+Bestanddele, og disse blev hver for sig
+undersøgt for Straaling; fandtes en af Delene
+væsentlig virksommere end andre, undersøgtes
+den videre paa samme Maade, og saaledes
+fortsattes gennem en meget lang og besværlig Rk.
+Undersøgelser, indtil der fremgik et Stof, som
+ikke ved yderligere Deling kunde gøres
+virksommere. Herved fremgik (1898) af
+Begblenden to aktive Stoffer, <sp>Radium</sp> og
+<sp>Polonium</sp>; det sidste fik Navn efter Fru <sp>Curie</sp>'s
+Fædreland. Hvor omstændeligt dette Arbejde
+maa have været, kan man slutte af, at der kun
+findes omtr. 0,17 g Radium i 1 t Begblende,
+som indeholder 50 % Uran. Radiums Aktivitet
+er c. 2 Mill. Gange Uranets. Man kender nu c. 40
+radioaktive Stoffer. Nogle af disse er ligeledes
+fundne ved kem. Behandling af Begblende,
+nemlig <sp>Actinium</sp> (1899) og <sp>Ionium</sp>
+(1907); disse Stoffer kendes dog ikke i ren
+Tilstand. Alle de øvrige er fundne ved nærmere
+Undersøgelse af Straalingen fra de radioaktive
+Stoffer ad Veje, der omtales nedenfor. Vort
+nuværende betydelige Kendskab til R. skyldes
+især <sp>Rutherford</sp> og hans Elever.
+
+<sp>Straalernes Undersøgelse og
+Egenskaber</sp>. Man fandt hurtigt, at der er
+mere end een Slags Becquerelstraaler. Tæt over
+et utildækket Lag af f. Eks. et Radiumpræparat
+er der en forholdsvis stærk Straalevirkning.
+Overdækkes Laget med et 1/20 mm tykt
+Aluminiumblad, svækkes Virkningen betydeligt; den
+tilbageblivende Virkning svækkes ikke
+kendeligt, ved at man føjer nogle flere
+Aluminiumblade til. Lægger man derimod en 1/2 mm tyk
+Blyplade over Radiumpræparatet, sker der en
+ny betydelig Svækkelse af Straalevirkningen.
+Den Rest, som nu bliver tilbage, svækkes ikke
+kendeligt, selv om Blylagets Tykkelse forøges
+til det dobbelte. Af et saadant Forsøg kan man
+slutte, at Radium udsender 3 Slags Straaler:
+α-Straaler, som tilbageholdes af 1/20 mm
+Aluminium, β-Straaler, som tilbageholdes af 1/2
+mm Bly, og γ-Straaler, som kan mærkes
+gennem tykke Metallag. Men alle 3 Slags Straaler
+paavises ved de samme 3 nævnte Virkninger.
+Af disse kan den fot. Virkning bruges med
+Fordel ogsaa til Iagttagelse af ret svage
+Straaler, fordi Straalerne udgaar uafladelig, saa at
+en langvarig Paavirkning kan bøde paa den
+ringe Styrke. Over for kraftige Straaler kan
+Fluorescensvirkningen benyttes; hyppigst
+anvendes Zinkblende (Zinksulfid) til α-Straaler og
+Bariumplatincyanur til γ-Straaler. Radiumsalte
+er selvlysende, idet Urenheder bringes til at
+fluorescere og den omgivende Luft til at lyse
+ved Bombardementet især af α-Straalerne.
+Langt det følsomste Middel til Iagttagelse af
+Straalerne er dog deres Evne til at ionisere
+Luften; Iagttagelsen sker ved, at man lader ell.
+aflader et Elektroskop gennem den ledende
+Luft. Et saadant Elektroskop, indrettet især til
+Undersøgelse af α-Straaler, er vist i Fig. 1.
+Det Stof, hvis α-Straaler skal undersøges,
+anbringes paa Metalpladen <i>D</i>, der ligesom
+Metalhusene <i>A</i> og <i>B</i> er forbundet med Jorden.
+Pladen <i>C</i> er ophængt i den isolerende Prop <i>S</i> og
+i ledende Forbindelse med den Stift, der
+bærer Guldbladet <i>G</i>. Elektroskopet kan lades, naar
+Proppen <i>T</i> fjernes. Bladet iagttages i et
+Mikroskop med
+Okularmikrometer gennem Vinduet <i>V</i>.
+Straalerne fra Stoffet ioniserer
+Luften mellem Pladerne, saa at
+den bliver ledende. De positive
+og negative Ioner vandrer hver
+i sin Retning mod de to Plader
+under Paavirkning af den
+elektriske Kraft, der hersker
+mellem dem, naar <i>CG</i> er ladet.
+Er <i>C</i> f. Eks. positivt ladet, vil
+de negative Ioner, der
+træffer den, afgive deres negative
+Ladning til den, saa dens
+Ladning og dermed dens
+Spænding og Bladets Udslag
+formindskes. Man iagttager, hvor
+lang Tid Billedet af Bladet bruger for at bevæge
+sig mellem to bestemte Delestreger i
+Okularmikrometret; af denne Fald tid beregnes Voltfaldet
+pr Sek. Da Luften altid i ringe Grad er ioniseret
+og ingen Isolator isolerer fuldkomment, vil
+Elektroskopet langsomt tabe sin Ladning, naar
+der ikke er radioaktivt Stof paa D. Dette
+»naturlige« Voltfald maa bestemmes og trækkes
+fra. Man maa sørge for, at Spændingen af <i>C</i>
+er saa stor, at man faar Mætningsstrøm (se
+<sp>elektrisk Strøm i Luftarter</sp>). Til
+Undersøgelse af β- og γ-Straaler kan bruges
+et Elektroskop som Overdelen af Fig. 1, men
+med Stiften med Bladet befæstet foroven i en
+isolerende Prop; Huset er forbundet med
+Jorden. Straalerne sendes gennem Bunden af
+Huset, der for β-Straaler kan være et
+Aluminiumfolie, som stopper alle α-Straaler uden at
+svække β-Straalerne ret meget, medens den for
+γ-Straaler maa være en nogle mm tyk Messing
+ell. Blyplade, og hele Huset er da i Reglen
+omgivet af tykt Bly. Straalerne ioniserer
+Luften inde i Huset, og Ionerne vandrer mod
+Stiften ell. mod Huset; man iagttager som før
+Bladets Fald.
+
+Forskellen i Straalernes Natur ses tydeligst
+af deres forsk. Forhold i elektriske og
+magnetiske Felter. Fig. 2 illustrerer skematisk
+deres Afbøjning i et magnetisk Felt. Lidt Radium
+er anbragt i en Udboring i en Blyklods <i>R</i>, saa
+at Straalerne kun kan sendes opad; i et
+
+<img>Fig. 1.
+α-Straale-Elektroskop.</img>
+
+<img>Fig. 2. Straalernes Afbøjning i Magnetfelt.</img>

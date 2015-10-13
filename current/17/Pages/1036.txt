@@ -1,0 +1,87 @@
+fremkommer derved, at Lysstraalen ved sin Gang
+gennem Atmosfæren ikke følger en ret Linie,
+men en Kurve med svag Krumning og
+Krumningscentret under sig, og som bevirker, at
+Aflæsningen paa Stangen bliver lidt mindre, end
+den vilde blive, hvis Lysstraalen fulgte en ret
+Linie.
+
+Ved de saakaldte <sp>Præcisionsnivellementer</sp>
+arbejdes med særlig stor
+Nøjagtighed, og den Fejl, som ellers vilde fremkomme
+som Følge af Jordkrumning og Refraktion,
+elimineres derved, at man tager Sigte fra den
+nøjagtige Midte, saaledes at Sigtet frem og
+Sigtet tilbage i Linien bliver nøjagtig lige lange,
+hvilket lader sig gøre, da det ved
+Præcisionsnivellementet kun gælder om at bestemme
+Højdeforskellen mellem fjerntliggende Punkter,
+saa at man kan vælge de fornødne
+Overgangspunkter mellem Stationerne, hvor man vil; de
+betegnes da, medens Nivellementet staar paa,
+ved en Jernpæl, som rammes ned i Jorden.
+
+Saadanne N. kan udføres med saa stor
+Nøjagtighed, at Middelfejlen pr km kan sættes til
+5 mm for alm. økonomiske Nivellementer, ɔ:
+at Fejlen paa et Dobbeltnivellement af 10 km's
+Længde ikke vil overstige 35 mm, medens
+Middelfejlen for Præcisionsnivellementet her i
+Landet kun er 1,5 mm.
+
+Højdeforholdene paa en Flade bestemmes ved
+et Fladenivellement og fremstilles paa
+et Kort ved <sp>ækvidistante
+horisontale Kurver</sp>, ɔ: Kurver, der gaar gennem
+de Punkter i Terrænet, der har samme Højde
+over Havets Middelniveau, og hvor
+Højdeforskellen mellem to Nabokurver er ens.
+Saadanne Kurver kan enten opsøges direkte i
+Marken, idet man med Nivellerinstrumentet
+opstillet med vandret Sigte opsøger en Del Punkter,
+der giver en Aflæsning paa Stangen, som svarer
+til paagældende Kurves Højde; disse Punkter
+afsættes paa Kortet og forbindes med jævnt
+krummede Kurver; ell. ogsaa kan man
+nivellere en Del Punkter spredte over Terrænet og
+ved Interpolation bestemme de Punkter, hvor
+Kurverne skærer disses Forbindelseslinier. Fig.
+5 viser et Kort i 1:2000 over en Mark med
+Halvmeters Kurver.
+
+2) <sp>Trigonometrisk Højdemaaling</sp>.
+Til Bestemmelse af Højdeforskellen mellem to
+fjerne Punkter <i>A</i> og <i>B</i> (se Fig. 6) med
+Afstanden <i>l</i> kan man benytte en med Højdekreds
+forsynet Theodolit, som opstilles i <i>A</i>, og en med
+Sigteskive <i>S</i> forsynet Stang, som opstilles i <i>B</i>.
+Man maaler da den Vinkel <i>v</i>, som Sigtet <i>MS</i>
+danner med det vandrette Plan. Er <i>h</i> og <i>h<sub>1</sub></i>
+henholdsvis <i>A</i>'s og <i>B</i>'s Højde over et
+vandret Plan <i>KK</i>, <i>i</i> Instrumentets Højde over <i>A</i>
+og <i>s</i> Sigteskivens Højde over <i>B</i>, bliver da <i>h<sub>1</sub>—h</i> = <i>b·tgv</i> + <i>i—s</i>.
+
+Ved denne Fremgangsmaade maa dog tages Hensyn til
+Jordkrumning og Refraktion. I St f. at maale <i>v</i>,
+maaler man ofte Zenitdistancen <i>z</i>, som er Komplement
+til <i>v</i>.
+
+Her i Landet er der af <sp>Den danske Gradmaaling</sp>
+udført et Præcisionsnivellement, der skønt opr.
+udført med videnskabeligt Formaal, ved Siden
+heraf har en overordentlig stor praktisk Betydning.
+De nivellerede Linier, der følger Hovedlandevejene,
+er viste paa hosstaaende Kort, Fig, 7; i Linierne
+er der anbragt mindst eet underjordisk Fikspunkt
+(s. d.) for hver Mil, og foruden disse med c.
+1/4 Mils (1,5—2 km) Afstand et Mellempunkt, som
+kan være underjordisk ell. anbragt som Bolte
+i Bygninger.
+
+Efter at de enkelte Linier er nivellerede, er
+der foretaget en Udhævning (s. d.) efter mindste
+Kvadraters Metode af Fejlene paa Liniernes
+
+<img>Fig. 5.</img>
+
+<img>Fig. 6.</img>

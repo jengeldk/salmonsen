@@ -1,0 +1,137 @@
+recorderskriften (Fig. 20 a) kan ofte være meget
+vanskelig, da Tegnene p. Gr. a.
+Kapacitetsvirkningen viser sig som større ell. mindre Bugter paa
+Kurven, hvori Antallet af ensrettede Impulser
+i hvert Bogstav maa skønnes. (Til
+Sammenligning er i Fig. 20 b vist den tilsvarende
+teoretiske Strømkurve med kapacitetsfri Ledning).
+Med Siphon-Recorderen blev Sendehastigheden
+paa Atlanterhavskablerne bragt op til 20—30
+Ord i Min. En yderligere Forøgelse af
+Befordringsmængden med c. 70 % er muliggjort ved
+Duplekstelegrafering med Anvendelse af de af
+Muirhead konstruerede kunstige Kabler (se
+<sp>Multiplekstelegrafi</sp>). — Hvor
+Forholdene tillader det, søges ved Kabeltelegrafi
+indrettet Overdragning (s. d.) enten ved
+Forbindelse mellem to landede Kabelender, hvorved
+Sendehastigheden for hver Kabelstrækning
+forøges, ell. ved Tilslutning mellem Kablet og en
+videregaaende Landlinie for at undgaa en
+besværlig og forsinkende Omtelegrafering paa
+Mellemstationen. Vanskeligheden ved
+Kabeloverdragning ligger i, at de ankommende
+Strømme dels er for svage til at kunne
+paavirke Overdragningsrelaiser af sædvanlig
+Konstruktion og dels af Kapaciteten er
+forvrængede, saaledes at Tegnene ved Videresendelsen
+maa bringes i den i Fig. 20 b viste regenererede
+Form. Et effektivt <sp>Kabelrelais</sp> er først
+angivet af Amerikaneren Brown (1900), der
+benyttede Princippet fra Siphon-Rekorderen. I
+St f. Farveopløsningen indeholder Glasrøret en
+fin Bronzetraad, hvis frie Ende slæber paa en
+roterende Tromle dannet af flere fra hinanden
+isolerede Metalskiver. Mellem disse og
+Traaden sluttes i Glasrørets forsk. Stillinger
+Kredsløb fra et Lokalbatteri til det ene ell. andet af
+to Senderelaiser, hvorfra de positive ell.
+negative Strømimpulser udsendes paa den
+videregaaende Ledning. P. Gr. a. Tromlens Rotation
+formindskes Friktionen ved Traadens
+Sidebevægelser tilstrækkeligt til, at Relaiset kan
+arbejde for de svage Kabelstrømme.
+Regeneration af de forvrængede Tegn sker ved Hjælp af
+en <sp>Interpolator</sp>, der mek. slutter og
+afbryder Forbindelsen mellem Senderelaiserne og
+den udadgaaende Ledning i en til
+Sendehastigheden passende hurtig Rækkefølge, saaledes at
+de manglende Tegnelementer frembringes
+(smlg. Fig. 20 a og b). En Vanskelighed ved
+Kabelrelaiserne er at holde de let paavirkelige
+Kontaktdele i driftssikker Stand. I den af
+Englænderen Heurtley konstruerede <sp>Magnifier</sp>
+(Forstørrer) er denne Ulempe undgaaet, idet
+Kontaktslutninger ganske er udeladt.
+Kabelstrømmene passerer to Platinsølvtraade, der
+danner de to Grene i en Wheatstone-Bro (s.
+d.), hvis Diagonalforbindelse indeholder
+Modtager-Skriveapparatet. Traadene kommer
+under Bevægelsen i større ell. mindre Nærhed af
+en afkølende Luftstrøm fra en Blæser, hvorved
+Modstanden varierer og dermed
+Lokalstrømmen i Wheatstone-Broen. Magnifier'en har i
+Forbindelse med en sædvanlig
+Siphon-Recorder forøget dennes Arbejdshastighed med
+c. 40 %. — Siphon-Rekorderen er i den nyere
+Tid paa meget lange Kabelforbindelser
+erstattet med den af Englænderne Armstrong og
+Orling konstruerede <sp>Kapillartelegraf</sp>, der
+benytter Polarisationsvirkningen i
+Berøringsfladen mellem Kvægsølv og fortyndet Svovlsyre i
+et Haarrør af Glas. Naar Strømmene ledes
+gennem Vædsken, optræder varierende
+Overfladespændinger, der i yderst ringe Grad
+bevæger Kvægsølvsøjlen, og som fotografisk
+registreres ved Projektion paa en forbiløbende
+Strimmel af lysfølsomt Papir.
+Kapillartelegrafen, der i senere Udførelsesformer ogsaa
+indrettes til Frembringelse af umiddelbar synlig
+Skrift ved Farveudsprøjtning paa Papir, er i
+Stand til at arbejde for ganske minimale
+Strømme (under 1/100 Milliampère), saaledes at
+Sendehastigheden kan bringes op til det
+dobbelte af Siphon-Rekorderens uden Forringelse
+af Tegnenes Læselighed.
+
+Til Trods for de betydelige Fremskridt har
+Kabeltelegrafien dog været langt tilbage i
+Udviklingen i Sammenligning med de ved
+Landlinie-Telegraferingen opnaaede Resultater. En
+Sendehastighed paa 50—60 Ord i Min. har i
+Reglen været Maksimum paa større Afstande
+(over 2 à 3000 km), og kun paa forholdsvis
+korte Kabler (500—1000 km) har man kunnet
+anvende Tryk-T. Fig. 21 viser et af Danskeren
+Gulstad konstrueret
+<sp>Vibrator-Kabelrelais</sp>, der benyttes ved Overdragning paa
+middellange Kabler i Forbindelse med
+Wheatstone-Creed-Systemet. Relaiset er indrettet som
+et sædvanligt fintfølende polariseret
+Magnetsystem (Fig. 9), hvis Anker ved Paavirkning fra
+en lokal Strømkreds holdes i Bevægelse
+svarende til Sendehastigheden, saaledes at
+Kabelstrømmene, der passerer særlige Vindinger paa
+Elektromagneten, kun har den Opgave at
+standse Ankerbevægelsen i den til
+Tegngivningen svarende Takt. Først i de allerseneste Aar
+er det lykkedes at bringe Kabeltelegrafien paa
+store Afstande op til samme Ydeevne som paa
+Landlinier. Metoderne hertil skyldes særlig det
+amer. Kabelselskab <i>Western Union</i> og beror
+paa en gennemgribende Forbedring af saavel
+Tegnsystemet som Apparaterne og i
+Særdeleshed selve Kablets Konstruktion. I St f.
+Recorderalfabetet (Fig. 20) benyttes et Tegnsystem,
+hvor Bogstaverne har samme Længde dannet
+ved Kombinationer af 3 Strømenheder (+, ÷
+og 0). Paa denne Maade kan indrettes
+Maskintelegrafekspedition efter lignende Metoder som
+med 5-Enhedsalfabetet (jfr ovf.), idet samtidig
+en stærkt forøget Sendehastighed og en tydelig
+Gengivelse af Tegnene opnaas dels ved
+Forstærkning af Strømmene ved Hjælp af de fra
+Telefonteknikken kendte <sp>Termionrør</sp> (se
+<sp>Telefonforstærker</sp>) og dels ved
+Modvirkning af Kabelkapaciteten gennem en
+kunstig Forøgelse af Selvinduktionen (se
+<sp>Telegrafledninger</sp>). En enkelt af <i>Western
+Union</i>'s Forbindelser mellem New York og
+London er indrettet efter dette System, hvor
+Telegrammerne modtages typetrykte og med langt
+højere <i>Speed</i> end den tidligere
+Recordermodtagning. (Paa Selskabets under Arbejde
+værende Oceankabler ventes <i>Speed</i>'et bragt op til 3
+à 400). — Ligeledes paa <sp>Jordkabler</sp>, der
+i den nyeste Tid mere og mere fortrænger de
+tidligere overjordiske Ledninger, har Systemet

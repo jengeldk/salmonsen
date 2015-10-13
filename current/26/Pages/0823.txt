@@ -1,0 +1,129 @@
+<chapter name="Norge (Skovbrug)">
+<b>Skovbrug.</b>
+Skovarealet var efter Skovtællingen i 1927 i alt 74995033 dekar.
+<table>
+<td 6 c>Skovarealet i N. og dets Fordeling efter Skovbrugstællingen:
+<td v2><td c 2>Produktivt Skovareal<td v2 c>Ialt<br>Mill.<td v2 c>Statsskov<br>Dekar<td v2 c>Statsalmenning<br>Dekar
+<td c>Barskov<br>Dekar<td c>Løvskov<br>Dekar
+<td>Riget<td r>52505869<td r>22489164<td r>74,9<td r>7638263<td r>2265597
+<td>Østfold<td r>2265056<td r>74430<td r>2,3<td r>300<td r>0
+<td>Akershus<td r>3137638<td r>47810<td r>3,1<td r>9018<td r>31160
+<td>Hedmark<td r>12534145<td r>1150114<td r>13,6<td r>31680<td r>1025780
+<td>Opland<td r>5626206<td r>1433292<td r>7,0<td r>97040<td r>687980
+<td>Buskerud<td r>4746010<td r>442885<td r>5,1<td r>168377<td r>0
+<td>Vestfold<td r>1223977<td r>163014<td r>1,3<td r>1750<td r>11577
+<td>Telemark<td r>4920375<td r>443384<td r>5,3<td r>103253<td r>0
+<td>Aust-Agder<td r>2958140<td r>649633<td r>3,6<td r>7403<td r>27355
+<td>Vest-Agder<td r>1181198<td r>618441<td r>1,7<td r>8464<td r>0
+<td>Rogaland<td r>325948<td r>389248<td r>0,7<td r>41128<td r>0
+<td>Hordaland<td r>878387<td r>735534<td r>1,6<td r>32169<td r>0
+<td>Sogn og Fjordane<td r>771897<td r>1413672<td r>2,1<td r>28115<td r>40550
+<td>Møre<td r>754562<td r>878517<td r>1,6<td r>72761<td r>37529
+<td>Sør-Trøndelag<td r>2955827<td r>1475779<td r>4,4<td r>114250<td r>41927
+<td>Nord-Trøndelag<td r>5485019<td r>840881<td r>6,3<td r>862512<td r>41234
+<td>Nordland<td r>1514097<td r>4100316<td r>5,6<td r>1131347<td r>66097
+<td>Troms<td r>345959<td r>4202079<td r>4,5<td r>642330<td r>67662
+<td>Finmark<td r>878428<td r>3430175<td r>4,3<td r>4286366<td r>50
+</table>
+
+Skovejendommenes Antal var 120744. De
+største Skovejendomme paa mellem 1000 og 2000
+ha findes i Hedmark Fylke, hvor der var ikke
+mindre end 99 Ejendomme. Dernæst kom
+Buskerud med 41, Opland med 37 og Telemark
+med 27. Akershus og Nord-Trøndelag havde 23
+og Aust-Agder 22, Sør-Trøndelag 18,
+Nordland 10.
+
+Afvirkning pr. Aar var fra 1918—24 for hele
+Riget 5,3 Mill. m<sup>3</sup> solgt og 0,4 Mill. forbrugt.
+<table>
+<td 2><td c>Mill. m<sup>3</sup><td 2><td c>m<sup>3</sup>
+<td>Østfold<td>solgt<td>0,2<td>og<td>forbrugt<td r>30532
+<td>Akershus<td c>—<td>0,4<td c>-<td c>—<td r>40000
+<td>Hedmark<td c>—<td>1,7<td c>-<td c>—<td r>ca. 81000
+<td>Opland<td c>—<td>0,5<td c>-<td c>—<td r>61000
+<td>Buskerud<td c>—<td>0,5<td c>-<td c>—<td r>29000
+<td>Vestfold<td c>—<td>0,1<td c>-<td c>—<td r>17000
+<td>Telemark<td c>—<td>0,5<td c>-<td c>—<td r>15000
+<td>Aust-Agder<td c>—<td>0,3<td c>-<td c>—<td r>10000
+<td>Vest-Agder<td c>—<td>0,07<td c>-<td c>—<td r>6000
+<td>Rogaland<td c>—<td>0,008<td c>-<td c>—<td r>1300
+<td>Hordaland<td c>—<td>0,01<td c>-<td c>—<td r>7000
+<td>Sogn og Fjordane<td c>—<td>0,01<td c>-<td c>—<td r>5000
+<td>Møre<td c>—<td>0,02<td c>-<td c>—<td r>10000
+<td>Sør-Trøndelag<td c>—<td>0,1<td c>-<td c>—<td r>34000
+<td>Nord-Trøndelag<td c>—<td>0,2<td c>-<td c>—<td r>46000
+<td>Nordland<td c>—<td>0,005<td c>-<td c>—<td r>7800
+<td>Troms<td c>—<td>0,0006<td c>-<td c>—<td r>1300
+<td>Finmark<td c>—<td>0,0008<td c>-<td c>—<td r>7
+</table>
+
+Under Forvaltning af Statens Skovvæsen var
+Arealet, Afvirkningen m. v. af de offentlige
+Skove ɔ: Statsskove, Statsalmenninger og
+Oplysningsvæsenets Fonds Skove indtil 1928.
+<table>
+<td><td 2 c>Produktivt<br>Skovareal<td 2 c>hvoraf<br>tilvirket<td><td 3 c>Værdi<br> Netto
+<td>1923 <td>9643<td>km<sup>2</sup><td>167678<td>m<sup>3</sup><td>for<td>1,4<td>Mill.<td>Kr.
+<td>1924<td>9648<td c>—<td r>194136<td c>—<td c>-<td>2,5<td c>—<td c>-
+<td>1925<td>9721,4<td c>—<td r>247722<td c>—<td c>-<td>3,3<td c>—<td c>-
+<td>1926<td>9721,4<td c>—<td r>221856<td c>—<td c>-<td>2,8<td c>—<td c>-
+<td>1927<td>9721,4<td c>—<td r>235619<td c>—<td c>-<td>2,0<td c>—<td c>-
+<td>1928<td>13053,2<td c>—<td r>243005<td c>—<td c>-<td>1,8<td c>—<td c>-
+</table>
+
+Det norske Skovselskab har arbejdet stærkt
+for Skovens Vækst og Røgt. Dets Udgifter var
+<table>
+<td 2><td 2 c>Det norske<br>Skovselskab<td 2 c>Statens private<br>Skovskjøtsel
+<td c>i<td>1922<td>420754<td>Kr.<td r>1000000<td>Kr.
+<td c>-<td>1923<td>425071<td c>—<td r>864618<td c>—
+<td c>-<td>1924<td>462328<td c>—<td r>868208<td c>—
+<td c>-<td>1925<td>441134<td c>—<td r>749019<td c>—
+<td c>-<td>1926<td>436646<td c>—<td r>604928<td c>—
+<td c>-<td>1927<td>408412<td c>—<td r>662743<td c>—
+<td c>-<td>1928<td>492927<td c>—<td r>611741<td c>—
+</table>
+
+I de sidste 3 Aar af Ovenstaaende er det
+aarlig til Kultivering anvendte Areal c. 4500 ha.
+De foregaaende Aar var det c. 2000 ha aarlig.
+
+Endelig skal anføres nogle Tal fra
+Tømmerflødningen, som belyser Skovenes Afkastning.
+Der blev i hele Riget i Aarene 1921—25 i
+Gennemsnit pr. Aar flødet 1994711 Tylvter eller 4,0
+Mill. m<sup>3</sup>.
+
+Skovbrandenes Antal varierer stærkt og staar
+naturligvis først og fremmest i Forbindelse med
+de tørre Somre.
+<table>
+<td>1922<td r>83<td>Brande<td r>346<td>Hektar<td>Værdi<td r>32000<td c>Kr.
+<td>1923<td r>83<td c>—<td r>228<td c>—<td c>—<td r>38000<td c>—
+<td>1924<td r>13<td c>—<td r>70<td c>—<td c>—<td r>1500<td c>—
+<td>1925<td r>157<td c>—<td r>453<td c>—<td c>—<td r>52590<td c>—
+<td>1926<td r>78<td c>—<td r>664<td c>—<td c>—<td r>18000<td c>—
+<td>1927<td r>78<td c>—<td r>940<td c>—<td c>—<td r>10645<td c>—
+<td>1928<td r>95<td c>—<td r>292<td c>—<td c>—<td r>21468<td c>—
+</table>
+
+Af Skovskoler var der i 1928 15 med 40
+Lærere og 265 Elever.
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Norge (Bjergværksdrift)">
+<b>Bjergværksdrift</b>
+
+Grubedriften, som i 1921 kun beskæftigede
+2602 Personer, synes nu at gaa bedre Tider
+i Møde. I 1927 beskæftigedes 3567 og i 1928
+4125 Personer. Baade Jernmalm- og
+Svovlkisgruberne arbejder nu mere tilfredsstillende, og
+i 1927 blev Nikkeldriften genoptaget, samtidig
+med at Nikkelraffineringsværket i Kristiansand
+var kommet i Gang. Prisopgangen paa Kobber
+i 1929 var særdeles velkommen for
+Kobberværkerne.

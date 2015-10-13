@@ -1,0 +1,50 @@
+Rotoren udøve samme Virkning som et Felt af
+konstant Størrelse, der med konstant
+Omløbshastighed forandrede sin Retning i Rummet, et
+saakaldt <sp>Drejefelt</sp>. Dette Felt faar altsaa
+den samme Virkning som Feltet fra Polhjulet i
+den synkrone Maskine. Det vil inducere
+Strømme i Rotorbeviklingen, og disse Strømme
+paavirkes af Drejefeltet paa en saadan Maade, at
+Rotoren giver sig til at rotere i Drejefeltets
+Retning. Efterhaanden som Rotorens Hastighed
+bliver større, bliver de i Rotor inducerede
+Strømme svagere, idet den relative Hastighed
+imellem Drejefeltet og Rotor aftager;
+det Omdrejningstal, Rotoren
+indstiller sig paa, afhænger af
+Belastningen; jo stærkere Motoren
+er belastet, des større Strømme
+maa der nødvendigvis induceres
+i Rotorvindingerne, da disse
+Strømme jo under Paavirkning
+af det konstante Drejefelt giver
+Trækkraften, og des større maa
+altsaa den relative Hastighed
+være mellem Drejefelt og Rotor,
+d. v. s. des langsommere maa
+Motoren løbe. Motoren kan som
+Følge heraf aldrig naa helt op
+paa den <sp>synkrone</sp> Hastighed,
+hvormed Drejefeltet roterer,
+heraf Betegnelsen <sp>asynkron</sp>.
+Hastigheden er dog ved fuld
+Belastning sjælden mere end 6 à
+7 % under den synkrone. For
+ikke at faa for store Strømme
+under Igangsætningen, anvender
+man en trefaset
+Igangsætningsmodstand, der indskydes i Serie med
+Rotorbeviklingen, der da udføres trefaset og forsynes
+med 3 Slæberinge, hvortil Modstanden forbindes.
+Efterhaanden som Omdrejningstallet stiger,
+
+<img>
+Fig. 17. Asynkron Motor (adskilt).
+</img>
+<img>
+Fig. 18. Asynkron Motor, 1450 HK.
+</img>
+<img>
+Fig. 19. Repulsionsmotor, samlet og adskilt.
+</img>

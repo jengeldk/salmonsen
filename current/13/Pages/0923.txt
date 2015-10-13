@@ -1,0 +1,137 @@
+der saaledes kan fordampe, vil den
+tiloversblevne Vædske blive berøvet forholdsvis for
+megen Energi, og den vil derfor være koldere
+efter end før Fordampningen. Størrelsen af
+Smelte- og Fordampningsvarmen giver
+Oplysning om Størrelsen af de molekulare
+Tiltrækningskræfter. Hvis f. Eks. 1 g Is ved 0° skal
+smeltes, opvarmes til 100° C og fordampes, vil
+dertil kræves flg. Energimængder: 1) til
+Smeltningen bruges 80 Gramkalorier = 34 kgm; 2)
+til Opvarmningen bruges 100 Gramkalorier =
+42 kgm; 3) til Fordampningen bruges 537
+Gramkalorier = 228 kgm, ell. i alt 304 kgm. Til
+fuldstændig Adskillelse af Molekylerne i 1 g Is
+kræves altsaa samme Arbejde som til at løfte
+1 kg 304 m. Man forstaar heraf, hvor store de
+molekulare Tiltrækningskræfter maa være i
+Sammenligning med den alm. Massetiltrækning.
+
+Er Rummet over en Vædske lukket, vil det
+efterhaanden ved Fordampning komme til at
+indeholde saa mange »Damp«molekyler, at det
+Antal »Vædske«molekyler, som i Sekundet
+bliver til »Damp«, er lig med det Antal
+Dampmolekyler, som rammer Vædskeoverfladen og
+bliver til Vædske. Rummet kan da overhovedet
+ikke indeholde fl. Dampmolekyler ved den
+forhaandenværende Temp., og det siges derfor at
+være »mættet« med Damp. Med voksende Temp.
+bliver Antallet af Dampmolekyler i Rummet
+større og følgelig ogsaa de mættede Dampes
+Tryk større.
+
+Hvis Loven om Energiens ligelige Fordeling
+gælder for Luftarter, maa den ogsaa gælde for
+Vædsker og faste Legemer. Er nemlig en
+Luftart i Berøring med et fast ell. flydende Legeme,
+vil Luftmolekylerne ogsaa støde imod og derved
+staa i Energiudveksling med Molekylerne i dette
+Legeme, og Enderesultatet maa da
+nødvendigvis blive, at disse Molekyler faar samme
+Energi pr Frihedsgrad som Luftmolekylerne. Tager
+man nu Hensyn til, at Molekylerne i et fast
+Legeme foruden deres kinetiske Energi har en
+potentiel Energi efter deres indbyrdes Afstand,
+faar man, at Atomvarmen, d. v. s. den
+Varmemængde, der kræves til at opvarme 1
+Gramatom af Legemet 1° C., bliver konstant lig
+5,95, ens for alle Legemer og uafhængig af
+Temp. Dette er imidlertid den Lov, som Dulong
+og Petit udtalte allerede 1819, altsaa længe før
+den k. T. fremstod. For de fleste Legemer
+stemmer Loven rigtig godt med Forsøg ved
+Stuetemperatur; men der er dog meget
+væsentlige Undtagelser, f. Eks. Diamant, Bor og
+Silicium, der alle giver for lave Værdier. Men
+efter at man eksperimentelt har fastslaaet, at
+Varmefylden ogsaa for de faste Legemer i høj
+Grad afhænger af Temp., ja, at den endog maa
+blive 0 ved det absolutte Nulpunkt, saa kan den
+teoretiske Begrundelse af Dulong og Petit's Lov
+i Virkeligheden ikke mere opretholdes. Man
+møder her ganske de samme Vanskeligheder
+som ved Beregningen af Varmefylden for
+Luftarterne, og ogsaa her er det Kvanteteorien, som
+løser Problemet.
+
+C. <sp>Anvendelse af Kvanteteorien</sp>.
+Iflg. Kvanteteorien (s. d.) er al Energi af
+atomistisk Natur. Energi kan ikke eksistere i
+mindre Brøkdele end et Energikvantum; dettes
+Størrelse er imidlertid ikke nogen universel
+Konstant, men er proportional med
+Egenfrekvensen for det System, som er i Besiddelse
+af den paagældende Energimængde. Naar nu
+Atomerne inden for et Molekyl udfører
+Svingninger ell. Rotationer, foregaar disse med et
+vist for Molekylet karakteristisk Svingningstal,
+afhængigt af Molekylets Bygning, og den indre
+Energi i Molekylet maa da efter Kvanteteorien
+være et helt Antal af de netop til dette
+Svingningstal svarende Energikvanta — foruden at
+den selvfølgelig ligesom efter den ældre Teori
+afhænger af Temp. Ogsaa her bliver altsaa
+Frihedsgraderne optalte, men man regner dem
+alle med, og de bliver tillige »afvejede«
+saaledes, at de ikke faar lige megen Energi hver;
+Princippet om Energiens ligelige Fordeling er
+derved opgivet.
+
+Den Energimængde, der iflg. Kvanteteorien
+tilkommer hver Frihedsgrad, bliver <i>u</i> =
+<i>h</i>·<i>v</i> / <i>hv</i>/<i>k</i>·<i>T</i> <i>e</i> — 1, hvor <i>v</i> er Svingningstallet, <i>e</i>
+Grundtallet for de naturlige Logaritmer og <i>h</i> og <i>k</i>
+Konstanter, og denne Lov træder altsaa i St f.
+Loven om Energiens ligelige Fordeling. Ved
+meget langsomme Svingninger, hvor <i>v</i> er meget
+lille, bliver <i>u</i> = <i>k T</i>; for et helt frit Molekyle,
+for hvilket <i>v</i> er 0, bliver altsaa den kinetiske,
+translatoriske Energi <i>u</i> = 1/2 <i>mc</i><sup>2</sup> netop
+proportional med den absolutte Temp. som antaget
+af den k. T. For meget høje Temp. reduceres <i>u</i>
+ogsaa til <i>k T</i>; ogsaa her faar altsaa alle
+Frihedsgrader samme Energi, idet <i>v</i> gaar ud af
+Udtrykket. Kvanteteorien fører derfor her til
+samme Lov som den opr. k. T. med Hensyn
+til Varmefylden, nemlig til Dulong og Petit's.
+Lov; men den viser, at Loven er en Grænselov,
+der kun gælder ved høje Temp. Ved meget
+lave Temp. giver Kvanteteorien, at Varmefylden
+er proportional med 3. Potens af den absolutte
+Temp. Hvert Stof har sin karakteristiske Temp.
+θ = <i>h</i>·<i>v</i>/<i>k</i>, afhængig af <i>v</i> og dermed af
+Molekylets Bygning; jo større θ er, desto
+langsommere vil Varmefylden vokse ved de lave Temp.,
+og desto højere maa Temp. være, før <i>c<sub>v</sub></i> naar
+den til Dulong og Petit's Lov svarende Værdi.
+Særlig høj karakteristisk Temp. har Diamant,
+c. 1450° abs.; men de fleste andre Legemer har
+saa lav karakteristisk Temp., at Dulong og
+Petit's Lov praktisk talt gælder allerede ved
+alm. Temp.
+
+Kvanteteorien klargør endvidere, hvorfor den
+ældre k. T. for Luftarters Varmefylde kan passe
+forholdsvis godt ved eenatomige Luftarter, men
+passe daarligere og daarligere, jo fl. Atomer
+der kommer i Molekylet. Ved eenatomige
+Molekyler maa de indre Svingninger foregaa med
+meget store Svingningstal, og de vil da først ved
+Temp. paa 2000° C. ell. mere naa den
+Energimængde, der svarer til den ligelige Fordeling;
+de vil altsaa være ganske umærkelige ved alm.
+Temp. Ved de toatomige Molekyler vil de indre
+Svingninger allerede naa den til den ligelige
+Fordeling svarende Energi ved c. 500°, og ved
+de fleratomige sker det endnu før, saa man

@@ -1,0 +1,140 @@
+Plan er vinkelret paa denne Linie. Legemet
+er da bundet til at <sp>rotere</sp> om Linien som
+<sp>Akse</sp>. Holdes kun eet Punkt af Legemet fast,
+er ethvert andet Punkt bundet til en Kugleflade
+med det faste Punkt som Centrum; man
+kan bevise, at Legemets B. da i hvert Øjeblik
+kan betragtes som en Rotation om en bestemt
+Akse gennem dette Centrum; men denne Akse
+kan selv flytte sig saavel i Forhold til Rummet
+som i Forhold til Legemet. Om Jordens Akse
+ved man saaledes, at den i Tidernes Løb
+ændrer sin Retning i Rummet og derved kommer
+til at pege mod forskellige Punkter af
+Stjernehimlen (Præcessionen, Nutationen), medens man
+ikke ved af, at den, bortset fra nogle yderst
+smaa Svingninger om en Middelstilling,
+forandrer sin Beliggenhed i Forhold til Jorden selv.
+Er endelig intet Punkt i Legemet fast, kan man
+udvælge et passende Punkt af Legemet, f. Eks.
+Tyngdepunktet (s. d.), undersøge dets B. og
+Legemets B. i Forhold til Punktet. Man vil da
+i ethvert Øjeblik kunne opfatte Legemets B. som
+sammensat af en Fremadskriden (Translation),
+hvorved alle Legemets Punkter bevæger sig i
+samme Retning og med samme Hastighed som
+det valgte Punkt, samt af en Omdrejning
+(Rotation) om en Akse gennem dette Punkt. I et
+faldende Legeme f. Eks. kan Tyngdepunktet
+beskrive en ret Linie, medens Legemet samtidig
+roterer om en Akse gennem dette Punkt. Paa
+et Legemes Translation og Rotation er der i
+øvrigt den væsentlige Forskel, at Translationen
+aldeles ikke paavirker Legemets Tilstand og
+kun kan opfattes ved Hjælp af Flytningen i
+Forhold til Omverdenen, medens Rotationen
+kan opdages ved dens Indvirkning paa Legemet
+selv. At Solen med alle sine Planeter bevæger
+sig c. 20 km i Sek. gennem Verdensrummet i
+Forhold til Fiksstjernernes Middelstillinger, er
+ganske uden Bet. for os, medens Jordens
+meget langsommere Rotation om sin Akse griber
+ind i mange Forhold, navnlig i Atmosfærens B.
+
+Den rent mat. Beskrivelse af B.-Fænomenerne
+kaldes <sp>Kinematik</sp> (ogsaa Foronomi). I
+Modsætning til Kinematikken søger
+<sp>Dynamikken</sp> efter B.'s Aarsager, altsaa efter
+Sammenhængen mellem Legemernes B. og de fys.
+Forhold, hvorunder Legemerne befinder sig. Hele
+Dynamikken kan udvikles paa Grundlag af
+
+<sp>Newton's tre Bevægelseslove</sp>.
+
+<sp>Første Lov</sp> (Inertiens L.): »Ethvert
+Legeme forbliver i sin Tilstand af Hvile ell. af
+jævn, retliniet B., medmindre det bringes til at
+forandre denne Tilstand ved ydre Kræfter«.
+<sp>Anden Lov</sp>: »Forandring af B. er
+proportional med den indvirkende Kraft og finder
+Sted i den Retning, hvori Kraften virker«.
+<sp>Tredie Lov</sp>: »<sp>Reaktion</sp> er altid lig
+og modsat <sp>Aktion</sp>, det vil sige, to
+Legemers Virkninger paa hinanden er altid
+lige store og gaar i modsatte Retninger«.
+I den anden Lov forstaas ved et Legemes »B.«
+Produktet af Massen (Stofmængden) og
+Hastigheden, og ved »indvirkende Kraft« Produktet
+af den ydre Kraft, der virker paa Legemet, og
+den Tid, hvori den virker. Loven kan derfor
+skrives: »Den Forandring, en ydre Kraft
+frembringer i et Legemes Bevægelsesmængde, er
+proportional med Produktet af Kraften og den
+Tid, hvori den virker, og den finder Sted i
+Kraftens Retning«. — Ved de to første Love
+bestemmes Begreberne <sp>Kraft</sp> (s. d.) og
+<sp>Masse</sp> (s. d.). — En Hest, der sætter en
+tung Jernbanevogn i Gang, illustrerer paa en
+slaaende Maade Newton's to første Love. Den
+tredie Lov udsiger den rent fysiske Sætning,
+at Kraft kun eksisterer som to Legemers
+gensidige Indvirkning, at altsaa al Kraft kan
+opfattes som en Spænding mellem to Legemer ell.
+mellem to Dele af samme Legeme. Den gælder
+ikke alene for to Legemer, der berører
+hinanden, men ogsaa, naar der findes Virkninger
+paa Afstand (magnetiske, elektriske Kræfter,
+alm. Tiltrækning) mellem dem. P. Gr. a. denne
+Lov kan to Legemers Virkning paa hinanden
+ikke forandre Legemernes samlede
+Bevægelsesmængde; da Kraften virker i modsatte
+Retninger paa de to Legemer, lige stærkt paa begge
+og i lige lang Tid, maa det ene Legeme tabe
+lige saa meget i Bevægelsesmængde, regnet
+i en bestemt Retning, som det andet i
+samme Tid vinder. Af samme Grund kan
+indre Spændinger ikke fremkalde nogen
+som helst Forandring i et Legemes Bevægelse,
+uden for saa vidt de kan forandre Legemets
+Form ell. helt sønderbryde det. Kræfter, der
+virker mellem de forskellige Led af et System
+af Legemer, kan vel forandre de enkelte Legemers
+Bevægelsesmængder, men Summen af alle
+Bevægelsesmængderne forandres ikke ved disse
+»indre Kræfter«, og paa B. af Systemets fælles
+Tyngdepunkt har de ingen Indflydelse.
+
+Hvis et Legeme kun paavirkes af en enkelt,
+konstant Kraft, der er anbragt saaledes, at den
+kun kan frembringe en simpel Fremadskriden,
+men ingen Rotation, kan man let beregne den
+Hastighed, Legemet vil opnaa i en vis Tid. Hvis
+nemlig Legemet faldt frit, kun paavirket af sin
+egen Vægt, vilde dets Hastighed vokse med
+omtr. 9,81 m i Sek. Paavirkes det derimod af
+en Kraft, der f. Eks. er 1/10 af Legemets Vægt,
+vil Hastighedstilvæksten være proportional
+hermed, altsaa 0,981 m i Sek., og Legemet vil være
+10 Sek. om at opnaa den Fart, som det ved det
+fri Fald naar i 1 Sek. Bremser man et
+Jernbanetog, hvis Hastighed er 20 m i Sek., og
+frembringer Bremsningen en Modstand mod
+Bevægelsen, der er 1/7 af Togets Vægt, vil Toget
+tabe 9,81:7 ell. 1,401 m's Hastighed i hvert Sek.,
+og der vil gaa 20:1,401 ell. omtr. 14 Sek., inden
+Toget standser. Var Hastigheden kun 10 m,
+vilde B. kunne standses i den halve Tid, og
+i denne Tid vilde den gennemløbne Vej kun
+være 1/4 af Bremsevejen i første Tilfælde,
+eftersom ikke blot Tiden, men ogsaa
+Gennemsnitshastigheden kun var halv saa stor. Af
+Newton's anden Lov, der angiver Forbindelsen mellem
+Kraft, <sp>Tid</sp>, Masse og Hastighed, kan udledes
+en ny Sætning, der forbinder Kraft, <sp>Vej</sp>, Masse
+og Hastighed med hinanden. Sætningen siger,
+at Produktet af Kraften og den Vej, dens
+Angrebspunkt i en vis Tid gennemløber i Kraftens
+Retning (Kraftens Arbejde), er lig Tilvæksten i
+samme Tidsrum af Legemets levende Kraft,
+hvorved forstaas det halve Produkt af Legemets
+Masse og Hastighed. Denne Sætning er det

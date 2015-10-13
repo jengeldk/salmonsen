@@ -1,0 +1,100 @@
+<table>
+<td c>Industrigrupper<td c>Forsørgere<td c>Forsørgede<td c>Ialt
+<td>Malm-, Jern- og Metalforarbejdning, Maskinindustri<td r>193893<td r>270883<td r>464776
+<td>Jord- og Stenforarbejdning, Kulgruber<td r>49227<td r>81100<td r>130327
+<td>Trævareindustri<td r>107242<td r>162893<td r>270135
+<td>Papir- og grafisk Industri<td r>63034<td r>81309<td r>144343
+<td>Nærings- og Nydelsesmiddelindustri<td r>65464<td r>81771<td r>147235
+<td>Tekstil- og Beklædningsindustri<td r>131826<td r>77280<td r>209106
+<td>Læder-, Haar- og Gummiindustri<td r>54117<td r>64749<td r>118866
+<td>Kemisk-teknisk Industri<td r>20400<td r>25457<td r>45857
+<td>Bygningsarbejde, Vejarbejde, Gas- og Elektricitetsværker<td r>117371<td r>193451<td r>310822
+<td>Uspecificeret<td r>5667<td r>4078<td r>9745
+<td r>Ialt<td r>808241<td r>1042971<td r>1851212
+<td><tab>Heraf selvstændige Haandværkere og Fabrikanter<td r>70529<td r>141631<td r>212160
+<td><tab>Tekniske Funktionærer<td r>20869<td r>37656<td r>58525
+<td><tab>Kontorpersonale<td r>28849<td r>20503<td r>49352
+<td><tab>Arbejdere<td r>687994<td r>843181<td r>1531175
+</table>
+
+Til den egentlige industri henfører de
+<sp>Industritællinger</sp>, der aarlig foretages, for
+1924 11200 Virksomheder med hen ved 400000
+Arbejdere. 4800 af disse Virksomheder med
+310000 Arbejdere tilhører Aktieselskaber, 2100
+med 25000 Arbejdere andre Selskaber eller
+Foreninger, 350 med 15000 Arbejdere Stat eller
+Kommuner og c. 4000 med 40000 Arbejdere
+Enkeltpersoner. <sp>Industriens Drivkraft</sp>
+er fra 1924 opgjort til 1,8 Mill. HK. og er i en
+mægtig Udvikling som Følge af den stadig
+stigende Anvendelse af Vandkraft fra Søer og
+Elve til Fremstilling af Elektricitet. Følgende
+Tabel viser denne Udvikling.
+<table>
+<td v2><td 4 c>Effektive HK. (1000'er) i
+<td c>Vandturbiner<td c>Dampmask.<td c>Oliemotorer<td c>Ialt
+<td>1896—1900<td r>169<td r>124<td r>4<td r>297
+<td>1906—1910<td r>373<td r>271<td r>23<td r>667
+<td>1916—1920<td r>1034<td r>461<td r>52<td r>1547
+<td>1924<td r>1300<td r>488<td r>50<td r>1838
+</table>
+
+Anvendelsen af Dampmaskiner og Oliemotorer
+synes at have naaet sin Kulmination i
+Industriens Tjeneste, og den fremtidige Udvikling
+beror paa det Omfang, hvori Vandfaldene tages i
+Brug. Der beregnes at være taget i Anvendelse
+(1924) henved 1,4 Mill. HK. til Industri,
+Transport, Belysning o. s. v., men den i Vandfaldene
+tilstedeværende disponible Kraft ved normal
+Vandstand anslaas til over den 10-dobbelte
+Energimængde. De største Antal HK. leverer
+Dalelven, Götaelven og Luleelven, men mange
+andre Elve og mindre Vandløb er allerede tagne
+i Anvendelse. Trollhättan er det mest betydende
+enkelte Anlæg; dette ligesom Älvkarleby ved
+Mälaren og Porjus i Norrbotten tilhører Staten.
+
+Til almindelig Oversigt over Industriens
+Fordeling efter Produktionens Art anføres
+nedenstaaende Tabel.
+
+Bjergværksdrift kan man i S. finde Spor af
+helt tilbage til Oldtiden, og S. har i 16. og 17.
+Aarh. indtaget Pladsen som det Land i Verden,
+der havde den største Produktion af Kobber og
+Jern. Mellemsveriges Malmlejer har været let
+tilgængelige, Malmen af større Renhed end de
+fleste andre Steder, og i Skovene var der rigeligt
+af Brændsel til Udvindingen af Metallerne.
+Senere Tiders Opfindelser og Forbedringer paa
+Grubedriftens og Udsmeltningens Omraade,
+Muligheden af at anvende Stenkul i Stedet for
+Trækul, Transportmidlernes Udvikling og
+andet har ganske vist bragt andre Lande langt
+frem foran S. som Jernproducenter, men svensk
+Jern har stadig sit Renommé som et særligt fint
+Produkt; ny store Lejer, der er fundne i den
+nordligste Del af Landet, er tagne i Brug, og i
+Teknikken har S. paa adskillige Omraader
+været et Foregangsland (Anvendelse af Dynamit,
+elektrisk drevne Jernværker o. s. v.). Jernmalm
+er saa langt Hovedproduktet og forefindes i to
+Hovedfelter, de gammelkendte i Dalarne Nord
+
+<sp>Industriens Fordeling efter Produktionens Art</sp>.
+<table>
+<td c>1924<td c>Antal<br>Virksomheder<td c>Personale<td c>Drivkraft<br>1000 HK.<td c>Produktion<br>Salgsværdi<br>Mill. Kr.
+<td>Kul- og Malmgruber<td r>121<td r>11000<td r>82<td r>83
+<td>Jern- og Metalforarbejdning<td r>1761<td r>110000<td r>403<td r>803
+<td>Forarbejdning af Sten og Jord<td r>968<td r>38000<td r>74<td r>144
+<td>Træindustri<td r>2013<td r>60000<td r>196<td r>420
+<td>Papir- og grafisk Industri<td r>880<td r>52000<td r>403<td r>564
+<td>Levnedsmiddelindustri<td r>3361<td r>47000<td r>149<td r>1080
+<td>Tekstil- og Beklædningsindustri<td r>632<td r>55000<td r>87<td r>448
+<td>Læder-, Haar- og Gummiindustri<td r>398<td r>19600<td r>21<td r>202
+<td>Kemisk-teknisk Industri<td r>354<td r>16000<td r>40<td r>198
+<td>Elektricitets-, Gas- og Vandværker<td r>705<td r>8400<td r>—<td r>140
+<td r>Ialt<td r>11193<td r>418000<td r>1478<td r>—
+</table>

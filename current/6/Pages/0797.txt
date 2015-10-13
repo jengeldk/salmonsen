@@ -1,0 +1,134 @@
+fortsatte disse Undersøgelser, der senere har
+fundet mange Dyrkere, f. Eks. Argelander og
+Auwers, saa man nu kender omtr. 7000
+Stjerner med E.; Hovedmassen af disse ligger paa
+den nordlige Himmel, da den sydlige først fra
+1850'erne er blevet grundig efterforsket. Boss'
+Katalog paa over 6000 Stjerner er for
+Øjeblikket den righoldigste Fortegnelse over Stjerner
+med E. Den største E. har man fundet hos en
+Stjerne i Ophiuchus; den flytter sig mere
+end Solens Radius i 100 Aar. E. forekommer
+hyppigst hos Dobbeltstjerner, hvor en fælles E.
+tyder paa, at de er fysisk forbundne. I den
+senere Tid har man fundet, at der gives
+Stjernegrupper, hvor de enkelte Stjerner har samme
+E., men forsk. fra de øvrige omkringliggende
+Stjerner; de skal altsaa danne et fysisk
+forbundet System. Det mest paafaldende Eksempel har
+man i Tyren i Hyadegruppen, og den har en
+Fart relativ til Solen af 46 km pr Sek. En
+saadan fælles E., som Proctor kalder »Star drift«,
+har 5 af de 7 Stjerner i Karlsvognen (se Fig.),
+og til dette Stjernesystem hører en hel Del
+fjerntstaaende Stjerner som Gemma og Sirius.
+Hastigheden er relativ til Solen 18 km i Sek.
+Afstanden af de 5 Stjerner i Karlsvognen er 70
+Lysaar. En anden Strøm - 61 Cygnistrømmen
+- har en Fart af 80 km. Om den uregelmæssige
+E. hos Sirius og Procyon, se
+<sp>Dobbeltstjerner</sp>.
+
+Den ovf. omtalte E. er ikke Stjernens
+<sp>virkelige Bevægelse</sp> (<i>SS</i>') i Verdensrummet,
+men kun dens ene Komponent (<i>SS</i>'') ell. dens
+Projektion paa Himlen lodret den Retning (<i>SS</i>'''),
+hvori vi ser Stjernen. Den anden Komponent
+<i>SS</i>''' kan bestemmes ved Spektroskopet (se
+<sp>Doppler Effekt</sp>), der giver denne i
+lineart Maal (Kilometer), medens man uden
+Kendskab til Stjernernes Parallakse faar <i>SS</i>''
+kun i Buemaal.
+
+Ved Hjælp af Stjernernes E., saavel den
+laterale (<i>SS</i>'') som den radiale (<i>SS</i>''') har man
+udledet Solens E. og bestemt det Punkt, hvorimod
+den bevæger sig, <sp>Solsystemets Apex</sp>,
+idet man med Bradley er gaaet ud fra, at den
+ved Observation fundne E. er sammensat af
+Stjernens Bevægelse (<i>motus peculiaris</i>) og
+Solens (<i>motus parallacticus</i>), ligesom det jo er
+indlysende, at Stjerner i den Egn, hvorimod Solen
+gaar, maa synes at rykke fra hverandre, i den
+diametralt modsatte (<sp>Antiapex</sp>) at nærme
+sig hverandre. Herschel var den første, som
+foretog Beregninger med Benyttelse af den
+laterale Bevægelse, og han er blevet efterfulgt af
+fl., som Argelander, Newcomb, som hensætter
+Solens Apex til Lyren c. 4° fra Vega. De
+radiale Hastigheder har bl. a. Campbell benyttet
+og genfinder nogenlunde det samme Punkt og
+Solens Hastighed til 20 km.
+
+Men de hovedsagelig af den laterale
+Bevægelse udledede Værdier for Solens Apex afviger
+nok saa betydelig fra hverandre. Kapteyn
+mener, at Grunden er den, at den
+Fundamentalhypotese, som man har lagt til Grund, nemlig at
+Stjernernes <i>motus peculiares</i> i Gennemsnit, naar
+man benytter et stort Antal Stjerner, skulde
+hæve hverandre, ikke holder Stik. Thi var disse
+Bevægelser regelløse, maatte Stjernerne bevæge
+sig kun i <sp>een</sp> Retning, nemlig mod Solens
+Antiapex. Nu fandt imidlertid Kapteyn, at der gives
+<sp>to</sp> Punkter paa Himlen, hvorimod Stjernerne
+i det store og hele tilsyneladende bevæger sig,
+og disse to Punkter kaldte han: <i>apparente
+vertices</i>. Stjernerne maatte m. a. O. bevæge sig i to
+Strømme; dette Resultat blev uafhængig
+bekræftet af andre, som benyttede et Materiale
+forsk. fra det, som Kapteyn havde haft til sin
+Raadighed; nøjagtigst er dette Problem
+undetsøgt af Eddington, der imidlertid havde
+udelukket Heliumstjernerne som ikke tilhørende
+nogen af de to Strømme, da de hovedsagelig
+bevæger sig mod Solens Antiapex. Deres
+Bevægelse skulde altsaa være af parallaktisk Natur,
+m. a. O. fremkaldt af Solens Bevægelse, og efter
+Halm tilhøre en tredie Strøm, som han kaldte
+Driftstrøm 0, medens de to
+andre fik Navnet Driftstrøm I og
+II. 43 % af de undersøgte
+Stjerner skulde tilhøre Strøm 0,
+medens 32 % og 25 % skulde
+komme ind under henh. Strøm
+I og II. Korrigerer man
+Stjernernes Driftsbevægelse for
+Solens Bevægelse, skulde man faa
+den virkelige lovmæsige
+Bevægelse. Gør man dette,
+finder man, at det <sp>sande Vertex</sp> for
+den ene Strøm ligger i Mælkevejen meget nær
+Stjernen ξ Orionis, medens det sande Vertex af
+den anden Strøm ligger diametralt modsat. Disse
+to Strømme er ikke skilte fra hinanden i
+Rummet, men gaar hver sin modsatte Vej forbi
+hinanden. Til første Strøm hører bl. a. Altair og
+Vega, til den anden Sirius og Arkturus. Solen
+hører til den anden Strøm.
+
+Lige over for Kapteyn's Antagelse om to
+Strømme har Schwarzschild fremstillet en
+anden Teori, hvorefter hele Stjernesystemet bliver
+at betragte som en Enhed, hvorfor hans
+Anskuelse kaldes unitarisk. Schwarzschild gaar ud
+fra, at der i vort Stjernesystem gives en Slags
+»Heerstrasse«, som Stjernerne for største Delen
+under deres Bevægelse holder sig til. Denne er
+parallel med en Diameter af Mælkevejssystemet,
+og den er rettet mod et i Mælkevejen liggende
+Punkt af Himmelkuglen, som kaldes <sp>Vertex</sp>
+oig falder sammen med Kapteyn's sande
+Vertex for den første Driftstrøm. Langs denne,
+Heerstrasse er det altsaa, at Stjernerne
+
+<img>
+Karlsvognen
+for 10000 Aar siden,
+i Nutiden,
+om 10000 Aar.
+</img>
+
+<img>
+Egenbevægelse.
+</img>

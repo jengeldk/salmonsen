@@ -1,0 +1,125 @@
+opstillet bevægeligt, ind i Kikkerten. Begge
+Opstillinger har deres Fordele og deres Mangler.
+P. Gr. a. Solens store Lysstyrke fotograferes
+ikke Solbilledet i Objektivets Brændpunkt, men
+man lader det ved et Linsesystem i forstørret
+Maalestok projicere sig paa den fotografiske
+Plade. Herved kan man faa frem langt fl.
+Detailler end ved de smaa Billeder i
+Brændpunktet. Ekspositionstiden maa ved Fotografering af
+Solen i Alm. ikke overstige 0,0001 Sek. Et med
+H. beslægtet Instrument er <sp>Spektro-H.</sp>,
+hvorved man kan fotografere Solen i monokromatisk
+Lys. Vælger man hertil Lyset af en Linie
+(Calcium, Brint), som paa enkelte Steder af Solen
+er lysende, saa faar man et Solbillede, hvorpaa
+man ser disse Partier (Protuberanser, Fakler
+etc.), medens de ved direkte Fotografering er
+usynlige.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Heliografi">
+<b>Heliografi</b> (gr. Solskrift), en Benævnelse i
+al Almindelighed, der i
+Reproduktionsteknikkens Barndom for en Menneskealder siden
+blev brugt om de forskellige
+fotomekaniske Metoder til at frembringe Trykforme for
+Bogtryk, Stentryk og Kobbertryk. I vore Dage
+skelnes der bestemt mellem de forskelligartede
+Ætsningsmetoder, for Bogtryk: <sp>Højætsning</sp>,
+for Stentryk: <sp>Fotolitografi</sp> og for
+Kobbertryk: <sp>Dybætsning</sp>, <sp>Heliogravure</sp>
+ell. <sp>Fotogravure</sp>.
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="Heliogravure">
+<b>Heliogravure</b> [-'vy.r<sub>ə</sub>], se <sp>Fotogravure</sp>.
+</chapter>
+
+<chapter name="Heliokromi">
+<b>Heliokromi</b> (gr.), ogsaa <sp>Fotokromi</sp> ell.
+<sp>Kromofotografi</sp>, direkte fotogr.
+Optagelse, hvorved man faar et Billede i naturlige
+Farver. Forsøg i den Retning er anstillede af
+Poitevin, Zenker, Lippmann, Brødrene Lumiére,
+J. H. Christensen. K. Worel o. fl. Man gør
+endvidere en udstrakt Anvendelse af Fotografien
+ved Fremstilling af Billeder, der skal trykkes
+ell. paa anden Maade fremstilles i forsk.
+Farver, saasom ved det saakaldte Trefarvetryk,
+farvede Projektionsbilleder m. m., men saaledes,
+at selve Farverne frembringes indirekte og
+ikke ved fotogr. Midler (se
+<sp>Farvefotografi</sp>).
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="Heliometer">
+<b>Heliometer</b> (gr.: »Solmaaler«), et Instrument,
+opr. bestemt til, som Navnet udsiger, at maale
+Solens Diameter i en hvilken som helst
+Retning. Dette opnaaedes af Bouguer ved at
+anvende to Objektiver i samme Rør; hver af disse
+gav sit Billede, og ved en maalbar Forskydning
+af Objektiverne kunde man bringe de to
+Solbilleder til at berøre hinanden. Nogle Aar forud
+(1743) havde Savary foreslaaet at maale Solens
+Diameter ved at dele Objektivet ved 3 med
+hinanden parallelle Snit i 4 Segmenter og
+befæste enten de to ydre ell. de to indre
+Segmenter saaledes til hinanden, at de af dem
+dannede Solbilleder tangerede hinanden. 1753
+bragte Dollond i Forslag at forfærdige et H.,
+brugeligt til at maale hvilke som helst Afstande
+ved at dele Objektivet i to Halvdele ved et
+plant Snit gennem Objektivets optiske
+Midtpunkt og langs den optiske Akse og lade hver
+Halvdel være forskydelig mod hinanden langs
+deres Delelinie. Er der ingen Forskydning, vil
+de to Objektivhalvdele tilsammen give et
+enkelt Billede; er de derimod forrykkede fra
+denne Stilling, giver hver Halvdel sit
+Samlebillede. Linien mellem disse Billeder er parallel
+med Delelinien i Objektivet, Afstanden
+mellem dem er lig Afstanden mellem
+Objektivhalvdelenes optiske Midtpunkt. Stilles nu Delelinien
+i Forbindelseslinien mellem to Stjerner — for
+altid at opnaa dette er Objektivets Indfatning
+ell. hele Kikkertrøret drejbart om Kikkertens
+Akse —, saa vil hver af dem, naar
+Objektivhalvdelene ikke falder sammen, give et dobbelt
+Billede, saa man i alt faar 4 Billeder, som viser
+sig i en ret Linie, og som ved at forskyde
+Objektivhalvdelene kan bringes til at ligge i
+samme Afstand fra hverandre, ell. saaledes at
+de to midterste Billeder dækker hinanden. Paa
+denne Vis kan samtidig 2 Stjerners Distans og
+Positionsvinkel bestemmes. Et H. af denne Art
+havde Bouguer foreslaaet allerede 1748, og han
+maa derfor betegnes som H.'s egl. Opfinder,
+medens der tilkommer Dollond Æren for at
+have forfærdiget et saadant Instrument til Brug
+for Astronomer. Fortjenesten af at have leveret
+den første værdifulde Observationsrække med
+H. tilhører Triesnecker. Af Fraunhofer blev der
+til Observatorierne i Berlin, Breslau, Göttingen,
+Gotha etc. leveret en Del mindre H. i Beg. af
+19. Aarh.; men det var først, da Fraunhofer
+1829 havde forfærdiget det store H. til
+Königsberg (Instrumentet fik efter Fraunhofer's Død
+1826 sin endelige Afpudsning af Utzschneider),
+der i Bessel's Hænder leverede de bedste
+Vinkelmaalinger til Datum, at H. ogsaa blev
+anskaffet af andre Observatorier, som Bonn's,
+Pulkova's og Oxford's. Under Forberedelserne
+til Venus-Ekspeditionerne 1874 og 1882 blev H.
+anskaffet i større Mængde, og da fra Repsold,
+der indførte en betydelig Forbedring, idet han
+lod de to Objektivhalvdele være forskydelige
+
+<img>Repsolds Heliometer.
+<i>a</i> Kikkertens Okular, <i>b</i> Mikroskop til Aflæsning af
+Skalaen, <i>c</i> Positionscirkel, <i>d</i> Mikroskop til Aflæsning
+af denne, <i>e</i> og <i>f</i> Lampe, <i>g</i> Blende.</img>

@@ -1,0 +1,91 @@
+divideret med Systemets absolutte Temperatur
+under Optagelsen — matematisk udtrykt <i>a</i>Σ<i>b</i> Q/T
+eller <i>b</i>∫<i>a</i> <i>d Q</i>/<i>T</i> — skal have samme Værdi, ad
+hvilken <sp>reversibel</sp> Vej Overgangen end
+sker. Men heraf følger, at vi kan opfatte
+Integralet <i>b</i>∫<i>a</i> <i>d Q</i>/<i>T</i> som Maal for Tilvæksten Δ<i>S</i>
+i en vis Funktion <i>5</i>, som er bestemt alene af
+Legemet og dets Tilstand, men er uafhængig
+af, hvordan det er kommet i denne Tilstand.
+Denne nye Tilstandsfunktion <i>S</i> kaldte Clausius
+Entropien. Det var paa en analog Maade, at
+vi sluttede os til Tilstedeværelsen af den
+indre Energi <i>U</i>, fordi ogsaa dens Tilvækst
+beregnet ved <i>Q</i> og <i>A</i> var uafhængig af
+Overgangsvejen. Ligesom Varmeteoriens 1. Hovedsætning
+udtrykkes ved den indre Energi <i>U</i>, saaledes
+udtrykkes 2. Hovedsætning ved Entropien <i>S</i>,
+hvis Tilvækst Δ<i>S</i> beregnes ved Δ<i>S</i> = <i>b</i>∫<i>a</i> <i>dQ</i>/.
+Man maa imidlertid lægge Mærke til, at for
+at Integralet virkelig skal angive
+Entropitilvæksten, maa Processen fra <i>a</i> til <i>b</i>, under
+hvilken Varmetilførslerne <i>d Q</i> divideret med den
+absolutte Temperatur <i>T</i> opsummeres, være en
+<sp>reversibel</sp> Proces, ellers vil Integralet ikke
+have nogen bestemt Værdi. Dette er en
+Modsætning til Beregningen af Δ<i>U</i> ved <i>Q</i> og <i>A</i>,
+idet Overgangsprocessen der lige saa godt kan
+være irreversibel som reversibel.
+
+<sp>Entropien af Legemerne i
+forskellige Tilstande</sp>. Til Orientering over
+Entropiændringerne ved et Legemes Ændring
+i Tilstand vil vi ligesom ved Oversigten over
+den indre Energi begynde med eet Gram af
+et fast Legeme med Varmefylden <i>c</i>, der
+opvarmes fra <i>T</i>1° K til <i>T</i>2° <i>K</i>. Det kan vises, at
+Entropitilvæksten derved bliver <i>T</i>2∫<i>T</i>1 <i>cdT</i>/<i>T</i> = <i>c log<sub>nat</sub></i> <i>T</i>2/<i>T</i>1,
+det sidste Udtryk forudsætter, at <i>c</i> er
+uafhængig af Temperaturen. Samme Udtryk gælder
+ogsaa for en Vædskes Entropitilvækst ved
+Temperaturændring. Smelter eller fordamper
+Legemet ved Temperaturen <i>T</i>, er
+Entropitilvæksten ligefrem Smelte- eller
+Fordampningsvarmen divideret med <i>T</i>, som jo er konstant
+under Processen. Medens Entropi- og
+Energitilvæksterne ved de her nævnte
+Tilstandsændringer er nogenlunde ensartet forløbende
+Størrelser, er der stor Forskel mellem dem ved
+Lufttilstanden. Ligesom Energien vokser Entropien,
+naar Luften opvarmes ved konstant Rumfang
+— og det efter ovenfor anførte Formel for faste
+Legemer og Vædsker — men modsat Energien
+afhænger den desuden i høj Grad af
+Rumfanget, idet Entropien vokser, naar Rumfanget
+vokser. Dette kan vi indse ved at tænke paa
+Luftmassen i Cylinderen ved den konstante
+Kalorimetertemperatur (se <sp>Proces</sp> 2 under
+Afsnittet: <sp>En Luftmasses indre
+Energi</sp>). Udvider den sig reversibelt, skal der
+tilføres den en Varmemængde, som er ækvivalent
+med det udførte Arbejde, altsaa maa efter
+Entropidefinitionen Luftmassens Entropi forøges
+med den tilførte Varmemængde divideret
+med Temperaturen. Trykkes den derimod
+sammen (som i Proces 2), afgiver den V., og dens
+Entropi formindskes. Ved samme Temperatur
+har altsaa sammentrykket Luft mindre
+Entropi, end hvis den var ved almindelig Tryk,
+medens Energien er ens i begge Tilfælde.
+Betragter vi til Slut Forbrændingen af 1 g Kul
+til Kultveilte, hvorved der ved almindelig
+Temperatur afgives c. 8000 Kalorier, saa kunde
+man tro, at Entropien af Kultveilten er saa
+meget mindre end i Begyndelsestilstanden, Kul
+plus Ilt, som den afgivne Varmemængde
+divideret med den absolutte Temperatur. Men dette
+er netop et Eksempel paa en irreversibel
+Proces, og den kan derfor ikke anvendes til
+Entropiberegning. Man maa for at bestemme
+Entropiændringen finde paa en — i dette Tilfælde
+kun tænkt, og ikke realiseret — reversibel
+Maade at udføre Overgangen paa. Man har da
+beregnet, at Kultveilten ved almindelig
+Temperatur omtrent har samme Entropi som Kul plus
+Ilt. Derimod kan Omgivelsernes Entropitilvækst
+meget nær maales ved den af Processen
+afgivne Varmemængde divideret med deres
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>

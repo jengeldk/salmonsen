@@ -1,0 +1,143 @@
+i den fortil aabne Cylinder. Tætheden mellem
+Cylinder og Stempel tilvejebringes ved en Del
+fjedrende Støbejernsringe, der er indlagte i
+Riller i Stemplet. Krumtapakslen bærer Svinghjul
+dg-Remskive, og desuden sidder der paa den
+et Tandhjul <i>V</i>, der gennem et andet Hjul <i>U</i>
+driver Styreakslen <i>T</i>, hvorpaa sidstnævnte Hjul
+er anbragt. Denne Aksel, der paa nyere
+Maskiner oftest drives ved Skruehjul i St. f. de her
+viste koniske Hjul, udfører kun een
+Omdrejning, medens Krumtapakslen gør to
+Omdrejninger, og den har den Opgave at styre de
+Organer, gennem hvilke Indstrømning af Gas
+og Luft, Udstrømning af
+Eksplosionsprodukterne, Tændingen og endelig Reguleringen
+iværksættes. Indstrømning af Gas og Luft sker
+gennem Glideren <i>G</i>, medens Stemplet bevæger sig
+frem imod Krumtappen. Under Tilbagegangen
+sammentrykkes den indsugede Blanding, og
+naar Stemplet naar sin bageste Stilling,
+tilvejebringer Glideren Forbindelse mellem
+Cylinderens Indre og en i Glideren selv
+brændende lille Flamme, hvorved Tændingen og altsaa
+Eksplosionen sker. Under Stemplets Fremgang
+ekspanderer Eksplosionsprodukterne, og
+Stemplet modtager Arbejde, der afgives til
+Krumtapakslen; under den derpaa flg. Tilbagegang af
+Stemplet udstødes Eksplosionsprodukterne
+gennem Udblæsnmgsventilen <i>P</i>, som aabnes fra
+Styreakslen ved Hjælp af Vægtarmen <i>Q</i>. Endnu
+skal nævnes Regulatoren <i>X</i>, der ogsaa drives
+fra Styreakslen ved Hjælp af koniske Tandhjul,
+og som besørger Reguleringen af Maskinens
+Hastighed paa den Maade, at den sørger for,
+at der ingen Gas indsuges, altsaa ingen
+Eksplosion finder Sted, naar Maskinens Hastighed
+bliver for stor.
+
+Glideren, der har den dobbelte Bestemmelse
+at indlade Gas og Luft og at bevirke
+Tændingen, er en i og for sig genial Opfindelse af
+Otto; den anvendtes i mange Aar og gjorde i
+det hele fortrinlig Tjeneste. Under Brugen
+kunde den dog undertiden volde
+Vanskeligheder, thi saa snart den blev lidt utæt, hvilket
+kunde hænde, naar den var spændt for stærkt
+ell. for svagt til, ell. naar der i Olien var
+Urenheder, var den ikke mere paalidelig, men
+navnlig Tændingen var tilbøjelig til at svigte. Omkr.
+1890 blev det derfor mere og mere alm., at
+man forlod Glideren og erstattede den dels med
+en anden Tændeindretning, dels med en Ventil,
+»Blandingsventilen«, gennem hvilken Gas og
+Luft føres ind i Cylinderen. Blandingsventilen
+er ligesom Udblæsningsventilen og den af
+Regulatoren paavirkede Gasventil en simpel
+Kegleventil, der bevæges fra Styreakslen.
+Tændeindretningen er undertiden elektrisk — et lille
+magneto-elektrisk Apparat, der frembringer en
+Gnist inde i Cylinderen — langt hyppigere dog
+et »Gløderør« ɔ: et i den ene Ende lukket
+rørformigt Legeme, der ved en Gasflamme
+holdes glødende. En styret Ventil tjener til, naar
+Tændingen skal finde St., at tilvejebringe
+Forbindelse mellem Rørets Indre og Maskinens
+Cylinder; Blandingen i denne er da
+komprimeret og strømmer ind i det glødende Rør,
+hvor den tændes. Med Maskiner af denne Art
+er der naaet meget tilfredsstillende økonomiske
+Resultater, idet en effektiv HK. kan fremstilles
+med et Gasforbrug af mellem 1/2 og 1 m<sup>3</sup> Gas
+i Timen efter Maskinens Størrelse.
+
+Et meget stort Antal Firmaer overalt i
+Verden tog fat paa Fabrikation af Gasmaskiner.
+For det meste fulgtes Otto's Princip, altsaa
+Firtakt-Systemet. Dog anvendes ogsaa saavel
+»Totakt« som »Sekstakt«.
+
+Ved Totakt-Maskinen komprimeres
+Blandingen af Gas og Luft i en særlig »Ladepumpe«,
+forinden den træder ind i Arbejdscylinderen.
+Saadanne Maskiner byggedes i Firserne af
+Körtings i Hannover, Benz i Mannheim o. fl., men
+senere er Totakt-Systemet blevet forladt ved
+mindre og mellemstore Maskiner, hvorimod det
+benyttes ved store Maskiner, hvorom senere.
+
+Ved Sekstakt-Maskinen (Griffin i England)
+søgte man at opnaa en renere Gasblanding og
+dermed en kraftigere Eksplosion, idet man ud
+over Firtaktens 4 Slag benyttede et femte og
+sjette Slag til Indsugning og Udblæsning af ren
+Luft, hvorved Resterne af
+Forbrændingsprodukterne fjernedes fra Cylinderen. Denne Type
+forsvandt dog hurtigt igen, ligesom adskillige
+særlige Konstruktioner, der var dukkede op i
+de Aar, da Otto's Patenter endnu var gyldige;
+dog er der mellem de forsk. Firmaers
+Maskiner mange Afvigelser i Detailudførelsen, og
+der er i Aarenes Løb gjort ikke faa vigtige
+Forbedringer, navnlig sigtende til at forhøje
+Kraftudviklingen og Økonomien, idet man har
+faaet bedre Forstaaelse af, hvad der foregaar
+inde i Cylinderen, altsaa Forbrændings- og
+Eksplosionsfænomenerne.
+
+Maskinerne byggedes indtil Beg. af dette
+Aarhundrede i Størrelser fra en Brøkdel af en HK.
+til fl. Hundrede HK., og de fremstilledes baade
+enkeltcylindrede og som Tvillingmaskiner, med
+to ell. endog fl. Cylindre, idet man derved
+opnaaede dels større Regelmæssighedsgrad, dels
+at Cylinderens Dimensioner ikke blev alt for
+store. Mindre Maskiner — indtil c. 10 HK. —
+dreves oftest med Lysgas, de større forsynedes
+derimod gerne med Gas fra et særligt
+Gasværk, der fremstillede enten »Trykgas« —
+Dowson-Systemet — ell. »Sugegas«.
+
+Her i Landet blev omkr. 1880 Fremstillingen
+af Gasmaskinen optaget af Firmaerne J. G. A.
+Eickhoff og Tuxen & Hammerich, senere af fl. a.
+Tuxen & Hammerich byggede midt i
+Halvfemserne Gasmaskiner paa indtil 250 HK.; i
+Udlandet fandtes paa den Tid ikke meget større
+Maskiner.
+
+I de senere Aar anvendes Gasmaskiner ikke
+saa meget. I den mindre Industri er de blevet
+afløst af Elektromotorer, mellemstore Maskiner
+i mange Tilfælde af Dieselmotorer. Ogsaa
+Indførelsen af stærkt overhedet Damp har
+bevirket, at man i mange Tilfælde har anvendt
+denne Drivkraft fremfor Gasmaskinen med særligt
+Gasværk, da Økonomien var omtr. den samme,
+men Dampmaskinens Driftssikkerhed større og
+Vedligeholdelsesudgifterne mindre, hvortil
+yderligere kommer, at Spildedampen i mange
+Tilfælde kan finde Anvendelse. Et ikke ringe
+Antal mellemstore Gasmaskiner anvendes dog
+stadig; dels i Fabrikker, navnlig i Gasværker, dels
+i Elektricitetsværker paa Landet, hvor

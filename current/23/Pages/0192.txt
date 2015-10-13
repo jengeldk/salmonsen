@@ -1,0 +1,117 @@
+til Fjernvirkningen, skelnes mellem mekanisk,
+akustisk, optisk og elektrisk T.
+
+<sp>Mekanisk</sp> T. ved direkte Kraftoverføring
+(Snoretræk e. l.) finder kun Anvendelse under
+ganske særlige, meget begrænsede Forhold og
+som oftest i Forbindelse med andre (akustiske
+ell. optiske) Hjælpemidler (Klokkesignaler,
+Semaforer o. l.). Det samme gælder forsk. i
+forrige Aarh. fremførte Forslag til
+<sp>pneumatisk</sp> og <sp>hydraulisk</sp> T., hvor
+Tegngivningen udførtes ved Hjælp af Trykvariationer i
+luft- ell. vandfyldte Rørledninger. Betydning
+udover primitivt Signalmiddel ell. Hus-T. har
+disse Metoder ikke.
+
+<sp>Akustisk</sp> T. tillader større Fjernvirkning,
+hvorfor Brugen af Signalhorn, Fløjter, Sirener
+o. a. lydgivende Instrumenter har spillet en
+stor Rolle ved Militær- og Søsignalering og i
+enkelte Tilfælde (som f. Eks. de af flere
+uciviliserede Folkeslag benyttede
+»Trommetelegrafer«) tjent som fuldstændigt Meddelelsesmiddel.
+Ved Gentagelse af de observerede Signaler
+mellem forsk. Poster kan en Efterretning paa
+denne Maade ret hurtigt udbredes over et
+større Omraade. En saadan trinvis Befordring
+(Overdragning) var organiseret ved de i
+Persien omkr. 600 f. Kr. anvendte »Raabeposter«, der
+opstilledes i Række saaledes, at den ene Mand
+kunde raabe Meldingen til den næste, hvorved
+Meddelelsen i Løbet af en Dag kunde
+tilbagelægge en Vejlængde, der svarede til 30
+Dagsrejser. I St f. gennem Luften kan
+Lydforplantningen ogsaa ske gennem faste Legemer (Snore,
+Metaltraad etc.); ejendommelig er saaledes en
+af visse. Indianerstammer anvendt
+»Banketelegraf«, hvor Signalerne i Form af kortere og
+længere Slag paa nedgravede, hule
+Træstammer forplantes 1 à 2 km gennem Jorden.
+Lydforplantning gennem Vand har i den nyere Tid
+været benyttet til undersøisk Signalering fra
+Fyrskibe og Klokkebøjer til Pejling for
+Fartøjer i indtil 20 km's Afstand.
+
+<sp>Optisk</sp> T. har under gunstige Forhold en
+endnu større Rækkevidde. Navnlig Ildsignaler,
+Baal, der tændtes paa højtliggende Steder,
+anvendtes hyppigt i Oldtiden og kunde ved
+Gentagelser i Løbet af kort Tid bringe Efterretning
+om fjendtlige Angreb ell. andre vigtige
+Begivenheder over vide Strækninger. Efter
+Sagnet skal Meddelelsen om Trojas Fald (omkr.
+1100 f. Kr.) paa denne Maade være bragt over
+den c. 550 km lange Strækning fra Lilleasien
+til Mykenæ paa faa Timer. Omkr. 450 f. Kr.
+omtales en af Grækerne anvendt optisk T. ved
+Hjælp af Fakler, hvis forsk. Antal og
+indbyrdes Stillinger betegnede Alfabetets
+Bogstaver. Dette Bogstaveringsprincip, der ogsaa
+delvis kom til Anvendelse ved andre senere
+Midler til figurlig Tegngivning (f. Eks. bevægelige
+Bjælker ophængt paa Bymure ell. Taarne), blev
+dog først i den nyere Tid taget op til rationel
+Brug. Det samme gælder et andet for Nutidens
+Telegrafering vigtigt Princip, nemlig den
+saakaldte <sp>Synkronisme</sp> (d. v. s. Samtidighed
+mellem to Systemers Bevægelser), der ligeledes
+i primitiv Form anvendtes af Oldtidens
+Grækere. Ved samtidig Tømning af to ganske
+ensartede Vandbeholdere, opstillet paa hver sin
+
+Station, kunde man saaledes mellem disse
+telegrafere forsk. Bogstaver ell. aftalte Tegn ved
+at iagttage Vandoverfladernes (synkrone)
+Sænkning i forsk. bestemte Tidsrum, markeret ved
+Fakkelsignaler. Betydning udover kortfattede
+Meddelelser, i Reglen militære Befalinger ell. andre
+Meldinger af forud kendt Natur, har den optiske
+T. dog først faaet efter Kikkertens Opfindelse
+(1600) og efter en af Franskmanden Claude
+Chappe 1792 indført Metode til praktisk
+brugelig Tegngivning. Efter Chappe's Forslag
+indrettedes 1793 en optisk Telegrafforbindelse
+mellem Paris og Lille (c. 250 km), bestaaende af
+ialt 22 Signalstationer, hver forsynet med en
+Mast, der foroven bar en drejelig Tværarm,
+paa hvis Ender to ligeledes drejelige Arme var
+anbragt (Fig. 1). Ved Snoretræk kunde
+Armene bringes til at indtage forsk. Stillinger,
+der betegnede Bogstaver ell. hele Ord og alm.
+forekommende Sætninger, og som gennem
+Kikkert aflæstes af den flg. Station og
+viderebefordredes af denne. Efter dette o. l. Systemer
+oprettedes efterhaanden et stort Antal
+Telegrafforbindelser saavel i Frankrig som øvrige
+europæiske Lande. I Danmark indførtes optisk T.
+1802 mellem Korsør og Nyborg med Sprogø
+som Mellemstation (senere udvidet til ialt 23
+Stationer paa Strækningen Kbhvn, Fyn og
+Jylland til Slesvig). Den optiske T.'s Ydeevne var
+i Sammenligning med tidligere Metoder ret
+betydelig. Paa den over 800 km lange Strækning
+mellem Paris og Toulon kunde et Tegn
+saaledes under gunstige Vejrforhold passere
+samtlige 100 Mellemstationer paa 14 Minutter. For
+at muliggøre Telegrafering om Natten
+anbragtes fl. St. forsk. farvede Lanterner paa
+Signalarmene. Metoden bruges i Nutiden til
+Jernbanesemaforer. En ejendommelig optisk T. er
+angivet af Gauss 1821, den saakaldte
+<sp>Heliograf</sp>, der anvender Sollysets Refleksion fra et
+Spejl til Tegngivning ved Kombinationer af
+kortere og længere Blink. Metoden har senere
+faaet en Del Anvendelse som Felttelegraf (bl. a.
+
+<img>Fig. 1. Optisk Telegraf efter Chappe's System (1793).</img>

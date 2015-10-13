@@ -1,0 +1,138 @@
+Toppunktets Højde over Stationspunktets
+Horisont kan udfindes ved en simpel Konstruktion,
+og ved at bestemme Højden fra begge
+Stationspunkter faas Kontrol.
+
+Den samlede Opmaaling af et Terrain
+foregaar saaledes. Ved Triangulation bestemmes
+en Del Stationspunkter, i hvilke der tages
+Fotografier hele Horisonten rundt, hvorhos
+Stationshøjden bestemmes. Efter Hjemkomsten
+indkonstruerer man samtlige Stationspunkter,
+sammenstiller derpaa efterhaanden to og to
+Fotografier og konstruerer det vedk. Terrainafsnit.
+Se i øvrigt <sp>Stereofotogrammetri</sp>.
+<i>H. V. N.</i>
+
+<img>Fig. 5.</img>
+</chapter>
+
+<chapter name="Fotogravure">
+<b>Fotogravure</b> [-↱vy.r<sub>ə</sub>] (fr.). Blandt de
+»fotomekaniske Reproduktionsmetoder« maa især
+mærkes en, der kaldes F. ell.
+<sp>Heliogravure</sp>. Den nu mest anvendte Metode til
+Fremstilling af F. skyldes Karl Klic (1879). Efter
+denne Metode anbringes en blankpoleret
+Kobberplade i en »Støvkasse«, i hvilken fint
+Asfaltpulver er bragt til at hvirvle op. Efter at det
+fine Asfaltstøv har lejret sig paa Kobberpladen,
+tages denne ud af Kassen og varmes
+(indbrændes), til Asfaltpulveret er smeltet og har
+dannet ganske fine, paa Kobberpladen fastsiddende
+Korn. Efter det Billede, der skal gengives,
+fremstilles der et Diapositiv, og i Kontakt med
+dette kopieres et Stykke kromeret
+Pigmentpapir; dette presses under Vand fast paa den
+kornede Kobberplade. Efter Tørring lægges
+Pladen i passende varmt Vand, hvorved
+Billedet fremkaldes, saa det danner et
+Pigmentgelatine-Relief paa Kobberpladen. Denne ætses i
+en Jernkloridopløsning, som straks angriber de
+blottede Steder af Kobberpladen og lidt efter
+lidt arbejder sig igennem Pigmentgelatinen og
+ned i Kobberet. Herved fremstilles en
+Trykplade med fordybet Præg. Indvalses denne
+med Farve, som dernæst overfladisk aftørres,
+vil Farven p. Gr. a. den ved Asfaltkornene
+frembragte ujævne Flade kun fastholdes i de
+ætsede Fordybninger, og ved nu at presse
+Pladen mod et Stykke Kobbertrykpapir faar man
+et Fotogravuretryk.
+
+Trykningen foregaar i en Kobbertrykpresse,
+men ved at ætse Billedet ind i to Halvcylindre
+er det lykkedes ogsaa at kunne anvende F.
+i Hurtigpresser (se <sp>Rembrandt</sp>-,
+<sp>Mezzotinto</sp>- og <sp>Intagliotryk</sp>).
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="Fotoheliograf">
+<b>Fotoheliograf</b> (gr.), en med
+fot. Kammer forsynet Kikkert,
+bestemt til Fotografering af Solen.
+Kikkertens Objektiv er slebet
+aplanatisk, saa at Solbilledet ligger i
+et Plan og kan optages paa den
+følsomme Plade enten direkte i
+Objektivets Brændpunkt ell.
+forstørret ved et Okularapparat.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Fotokemi">
+<b>Fotokemi</b> (gr.) benævnes den
+Del af den fys. Kemi, der
+behandler Lysstraalernes Virkninger paa
+de kem. Forbindelser og
+Reaktioner. Allerede <sp>Boyle</sp> bemærkede
+Sølvkloridets Sværtning, men søgte
+Grunden dertil i Luftens
+Indvirkning; <sp>Schultze</sp> anstillede i
+Begyndelsen af 18. Aarh. Forsøg over
+Lysets Indvirkning paa Sølvsaltene,
+men det er dog først <sp>Scheele</sp>,
+der ved sine Undersøgelser over
+<sp>Solspektrets</sp> Indvirkning paa Sølvklorid,
+hvorved han paaviste, at Straalerne i Spektrets
+violette Del var de hurtigst og stærkest
+virkende, blev Grundlæggeren af F. <sp>Ritter</sp>
+fastslog de ultraviolette Straalers Virkninger,
+og gennem <sp>Draper</sp>'s Undersøgelser 1843 og
+særlig ved <sp>Bunsen</sp>'s og <sp>Roscoe</sp>'s vigtige
+Arbejder 1857, samt senere <sp>Vogel</sp>'s, skabtes
+endelig den kvantitative F.
+(<sp>Aktinometrien</sp>), og Lovene for Afhængigheden mellem
+Lysets Styrke og Virkninger fastsloges; paa
+dette Grundlag har F. frugtbart bygget videre.
+<i>R. K.</i>
+</chapter>
+
+<chapter name="Fotokemigrafi (se Kemigrafi)">
+<b>Fotokemigrafi</b>, se <sp>Kemigrafi</sp>.
+</chapter>
+
+<chapter name="Fotokeramik">
+<b>Fotokeramik</b>. Ved F. overføres et Billede
+ad fot. Vej paa et Stykke Keramik og
+indbrændes. Fremgangsmaaden er den, at en ren
+Glasplade overhældes med en Opløsning af Gummi,
+Sukker, Dekstrin og tvekromsurt Ammoniak ell.
+Kali. Naar Hinden er tør, kopieres den under
+et Diapositiv. Derpaa indpensles den (se
+<sp>Indstøvningsmetoden</sp>) med Emaillefarve,
+der kun hænger ved paa de ubelyste Steder,
+hvorpaa Pladen overhældes med Kollodium og
+udvaskes. Hinden løsnes dernæst under Vand,
+vendes og anbringes paa et Stykke Keramik,
+hvorpaa Indbrændingen foregaar i en dertil
+indrettet Ovn.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="fotokromatisk Terapi (se Lysbehandling)">
+<b>fotokromatisk Terapi</b>, se
+<sp>Lysbehandling</sp>.
+</chapter>
+
+<chapter name="Fotokromi (se Heliokromi)">
+<b>Fotokromi</b>, se <sp>Heliokromi</sp>.
+</chapter>
+
+<chapter name="Fotokromoskop">
+<b>Fotokromoskop</b> er et af Ives og Zink —
+uafhængig af hinanden — opfundet optisk
+Instrument, som ved Hjælp af tre sorte
+Trefarve-Negativer (se <sp>Trefarvefotografi</sp>) eller
+-Diapositiver frembringer et Billede med de

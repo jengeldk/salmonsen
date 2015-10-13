@@ -1,0 +1,156 @@
+For Legemer, der ikke er absolut sorte,
+gælder de her nævnte Love ikke. De
+Straalingskurver, man finder for saadanne Legemer,
+varierer fra Kurver, der ganske ligner Kurverne
+i Fig., til Kurver med flere Maksima, adskilte
+ved Bølgelængdeomraader, ved hvilke kun
+ringe Udstraaling finder Sted. Men som
+allerede nævnt kan intet Legeme udstraale mere
+Energi end et absolut sort Legeme ved samme
+Temp. og for samme Bølgelængde. Stefan's
+Lov gælder med ret god Tilnærmelse, naar
+Konstanten gives en lavere Værdi; ligeledes
+gælder Wien's Forskydningslov med en anden
+Værdi for Konstanten.
+
+Kendskab til Straalingslovene finder paa
+forsk. Maade Anvendelse i Praksis, saaledes i
+Belysningsteknikken ved Glødelamperne og ved
+Maaling af meget høje Temp. (optisk
+Pyrometri). — En Straalegivers Værdi som Lyskilde er
+i høj Grad afhængig af dens Temp. Endnu ved
+1000° abs. indeholdes der overmaade lidt Energi
+i de synlige Straaler, faa Milliontedele af hele
+S. Ved 2000° abs. tilhører 1,2 % af S. det lyse
+Spektrum, og enhver yderligere
+Temperaturstigning øger Lysstyrken overordentlig, ikke
+mindst fordi den for Øjet nyttigste Del omkr.
+0,5 μ nu begynder at faa kendelig Styrke. Et
+absolut sort Legeme vil altsaa i Alm. som
+Lyskilde betragtet være i højeste Grad
+uøkonomisk, da man jo maa betale for den samlede
+Energiudstraaling, men kun nyder Gavn af den
+synlige S. En Forøgelse af Virkningsgraden
+kan opnaas enten ved at benytte højere Temp.
+ell. ved som lysende Legeme at anvende et
+Stof, for hvilket Energifordelingen i Spektret er
+en saadan, at den synlige S. udgør en større
+Brøkdel af den samlede S., end Tilfældet er
+ved det sorte Legeme. I begge Henseender
+frembyder Metaltraadslamper væsentlige
+Fordele frem for Kultraadslamperne, idet
+Metaltraaden ikke blot kan taale en højere Temp.
+end Kultraadene (c. 2300° imod c. 2000°), men
+ogsaa viser selektiv S., idet den synlige S.
+udgør en forholdsvis større Del af den samlede
+S. (se <sp>elektrisk Lys</sp>).
+
+Af <sp>optiske Pyrometre</sp> haves 3
+Hovedtyper. Den første bestaar i, at man opsøger den
+Værdi for Bølgelængden, ved hvilken der
+udstraales mest Energi, og saa beregner
+Straalegivernes Temp. ved Wien's Lov; denne Metode
+er ret ubekvem, og bruges ikke meget i Praksis.
+Ved den anden Metode maales den samlede
+Udstraaling, hvorefter Temp. bestemmes ved
+Stefan's Lov; der dannes et Billede af
+Straalingskilden paa et lille Stykke sværtet Platinfolie,
+hvis Temp. maales med et Termoelement.
+Endelig maales ved den tredje Metode Klarheden
+af Straalingskilden for en Bølgelængde i det
+synlige Spektrum, idet Glødetraaden i en lille
+Glødelampe betragtes med Straalingskilden som
+Baggrund, hvorefter Strømmen gennem
+Glødelampen forandres, indtil Traaden ikke kan ses
+paa den lyse Baggrund; af den dertil krævede
+Strømstyrke findes da Temp. af en
+Justertabel. Apparatets Konstanter bestemmes her
+som ved den foregaaende Metode ved
+Sammenligning af Maalinger af et absolut sort
+Legemes Temp. med disse optiske Pyrometre
+og med Temperaturmaaleinstrumenter (især
+Lufttermometer, Termoelement og
+Modstandstermometer), saa langt disse rækker, hvorefter
+man ekstrapolerer til endnu højere Temp.
+
+De optiske Pyrometre giver tilfredsstillende
+relative Maalinger, og de sætter os i Stand til
+at reproducere enhver Temp. med en betydelig
+Nøjagtighed, og det er oftest alt, hvad man i
+Praksis har Brug for. Men til absolut
+Temperaturmaaling egner de sig ikke godt; bl. a. vil de
+hyppigt ikke angive Straalekildens virkelige
+Temp., men den Temp., som et absolut sort
+Legeme maatte have, hvis det skulde udstraale
+samme totale Energimængde, ell. hvis det
+skulde have samme Klarhed for den
+betragtede Bølgelængde.
+
+For de klimatiske Forhold er S. en
+Hovedfaktor. Jordkloden maa ved S. Aaret rundt
+gennemsnitlig afgive lige saa megen Varme,
+som den modtager fra Solen, og de idelig
+skiftende Differenser mellem Bestraaling og
+Udstraaling er den opr. Aarsag til al atmosfærisk
+Uro. Tropehavenes Overflade (27° C = 300°
+abs.) vil fra hver Kvadratcentimeter udstraale
+omtr. 0,01 kal. i Sek. ell. nok til at afkøle et
+36 cm tykt Vandlag 1° i Timen, medens Solens
+S., regnet efter Temp. 6000° abs., vil være
+160000 Gange saa stærk (smlg. <sp>Solen</sp>).
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Straalingstryk">
+<b>Straalingstryk.</b> Naar elektromagnetiske
+Bølger rammer en Flade, i hvilken de absorberes,
+vil de udøve et Tryk, S., imod denne. De vil
+nemlig sætte Fladens Elektroner i Bevægelse,
+og derved opstaar elektriske Strømme i samme
+Retning som den elektriske Kraft i Bølgen, og
+disse Strømme vil da paavirkes af Bølgens
+Magnetfelt, og derved opstaar Trykket. S. er
+en direkte Følge af Maxwell's Teori for de
+elektromagnetiske Bølger, og Maxwell er ogsaa
+den første, der teoretisk paaviste S. og
+beregnede dets Størrelse. S. er imidlertid uhyre lille;
+Solstraalernes Tryk mod en absolut sort Flade
+vinkelret paa Straaleretningen er kun ca. 1/2
+Dyn pr. m<sup>2</sup>. Til Trods for adskillige Forsøg
+— saaledes af Dufay, Fresnel og Crookes —
+lykkedes det først Lebedew at paavise S.
+eksperimentelt (1900). Efter Arrhenius (1900) og
+og Schwarzschild (1901) spiller S. en stor Rolle
+til Forklaring af forsk. kosmiske Fænomener,
+saaledes af Komethalernes ejendommelige
+Stilling med Retning bort fra Solen. Partiklerne i
+Halen vil nemlig dels tiltrækkes af Solen p. Gr. a.
+deres Masse og dels frastødes af den p. Gr. a.
+S., og det bliver da Partiklernes Størrelse og
+deres Vægtfylde, som er afgørende for,
+hvilken af disse to Paavirkninger der er den
+største.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Straalkis">
+<b>Straalkis,</b> se <sp>Markasit</sp>.
+</chapter>
+
+<chapter name="Straalsten">
+<b>Straalsten,</b> se <sp>Amfibolgruppen</sp>.
+</chapter>
+
+<chapter name="Straamand">
+<b>Straamand,</b> Fugleskræmsel, en Figur i
+menneskelig Skikkelse, lavet af Straa; S. bruges
+ogsaa om en Person (f. Eks. ved
+Byggespekulationer, i Bladredaktion o. l.), der udadtil
+fremtræder som den ansvarshavende, og bag hvem
+de egl. agerende og ledende dækker sig i
+Tilfælde af Indgreb fra Justitsens Side.
+</chapter>
+
+<chapter name="Straarup-Smykket">
+<b>Straarup-Smykket,</b> et prægtigt Guldsmykke
+(Vægt c. 400 g), rimeligvis brugt som Diadem.

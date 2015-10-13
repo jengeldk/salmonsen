@@ -1,0 +1,145 @@
+han sig ved Opfindelsen af det under hans
+Navn bekendte Metronom. Han har ogsaa
+konstrueret nogle Hørerør, som bl. a. Beethoven
+benyttede.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Mænader">
+<b>Mænader</b>, d. s. s. <sp>Mainader</sp>, se <sp>Dionysos</sp>.
+</chapter>
+
+<chapter name="Mænalos">
+<b>Mænalos</b> (<sp>Mainalos</sp>), Bjergkæde i
+Arkadien. Den danner Skellet mellem den østlige
+og den vestlige Del af Landet og hæver sig til
+en Højde af 1980 m.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="Mængdelæren">
+<b>Mængdelæren</b> er en vigtig Del af den
+moderne matematiske Analyse, hvis principielle
+Dele den behandler. Mængdens Elementer
+tænkes at være Tal ell. Punkter. Man kan skelne
+mellem den M., der behandler selve de
+fundamentaleste Spørgsmaal i Matematikken, og
+Teorien om Punktmængder, der begrunder den
+moderne Funktionslære; begge Kategorier er
+grundlagte af <sp>Georg Cantor</sp>. I den første
+er det vigtigste Begreb <sp>den aftællelige
+Mængde</sp>; en saadan er en uendelig Mængde,
+hvor hvert Element kan nummereres ved
+Talrækkens Tal. Mængden af rationale Tal er
+aftællelig, ligeledes Mængden af algebraiske Tal.
+Derimod kan en aftællelig Mængde: <i>u</i><sub>1</sub>, <i>u</i><sub>2</sub>, <i>u</i><sub>3</sub> . .
+ikke indeholdte alle reelle Tal. Opfattet som
+Mængde danner disse sidste <sp>Kontinuet</sp>. To
+Mængder siges at have <sp>samme Mægtighed</sp>
+ell. at være <sp>ækvivalente</sp>, naar de
+kan afbildes en-entydigt paa hinanden; de
+uendelige Mængder, man i Matematikken betragter,
+har enten Talrækkens ell. Kontinuets
+Mægtighed. Er <i>M</i> ækvivalent med en Undermængde af
+<i>N</i> og omvendt, da er <i>M</i> og <i>N</i> ækvivalente
+(<sp>Ækvivalenssætningen</sp>). G. Cantor har
+forsøgt en Almindeliggørelse af den aftællelige
+Mængde ved Begrebet <sp>velordnet Mængde</sp>;
+en saadan er en Mængde, hvoraf enhver
+Undermængde har et første Element. Tænker
+man sig en velordnet Mængde, hvor ethvert
+Element har et efterfølgende og desuden enhver
+aftællelig Undermængde et efterfølgende
+Element, da har denne den umiddelbart højere
+Mægtighed efter den første; ligesom denne
+Mængde dannes af den aftællelige, danner
+Cantor en ny af denne. Saaledes dannes en
+uafbrudt stigende Række af Mægtigheder. Derved
+er i denne Del af M. opstaaet det saakaldte
+<sp>Kontinuumproblem</sp>: Kan Kontinuet
+velordnes, og har Kontinuet i bekræftende Fald
+den Mægtighed, der følger umiddelbart efter
+den aftalte Mængdes? Det første Spørgsmaal er
+besvaret bekræftende af <sp>Zermélo</sp>; dog har
+Løsningen endnu ikke hele den matematiske
+Verdens Anerkendelse.
+
+Grundlaget for den anden Del af M. ligger i den
+Sætning, at enhver uendelig Punktmængde, der
+tilhører en begrænset Del af den rette Linie,
+indeholder mindst eet <sp>Grænsepunkt</sp> ɔ: et
+Punkt, i hvis umiddelbare Nærhed der ligger
+uendelig mange Punkter af Mængden. Mængden
+af Grænsepunkter for den givne Mængde <i>M</i>
+danner <sp>den afledede</sp> Mængde <i>M'</i>.
+Indeholder <i>M</i> <i>M'</i>, da er <i>M</i> afsluttet; er <i>M</i> og
+<i>M'</i> identiske, da er <i>M</i> <sp>perfekt</sp>. <i>M'</i> er altid
+afsluttet. <i>M</i> er <sp>overalt tæt</sp> i et Interval,
+naar enhver Del af Intervallet indeholder Punkter
+af <i>M</i>. Enhver perfekt Mængde har Kontinuets
+Mægtighed; en afsluttet Mængde, der ikke
+kan aftælles, kan deles i en perfekt Mængde og
+en aftællelig Mængde.
+
+Til denne Del af Mængdelæren hører Læren
+om en Punktmængdes <sp>Maal</sp>; er Punktmængden
+<i>M</i> indeholdt i Intervallet <i>I</i> af en ret Linie,
+definerer man det saakaldte <sp>Riemann</sp>'ske
+Maal saaledes: det <sp>ydre Maal</sp> er nedre
+Grænse for Længden af samtlige endelige
+Intervalbedækninger af M., medens det <sp>indre
+Maal</sp> er Intervallængden <i>I</i> minus det ydre
+Maal for Komplementærmængden til M. (d. v. s.
+Resten af Intervallets Punkter). Falder disse
+to Tal sammen, da er Mængden <sp>maalelig</sp>.
+Forandrer vi nu Fordringen om en endelig
+Intervalbedækning til den svagere Fordring om
+en aftællelig Intervalbedækning, da faar vi det
+<sp>Lebesgue</sp>'ske Maal for Punktmængden;
+er Punktmængden maalelig i denne sidste Forstand,
+da er den ligeledes maalelig i Riemann'ske
+Forstand, men ikke nødvendig omvendt.
+Disse Begreber ligger til Grund for det
+moderne Integralbegreb.
+<i>Johs. Mollerup.</i>
+</chapter>
+
+<chapter name="Mæonien">
+<b>Mæonien</b> (<sp>Maionia</sp>), det gl., hos Homer
+forekommende, gr. Navn for Lydien.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="Mæotis palus">
+<b>Mæotis palus</b>, Oldtidens lat. Navn paa det
+asovske Hav. Man troede opr., at det udgjorde
+en Bugt af det nordlige Ocean, og antog det
+stadig for langt større, end det i Virkeligheden
+er.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="Mær">
+<b>Mær</b> betød opr. en <sp>Hoppe</sp> (oldn. <i>merr</i>;
+det tilsvarende Hankønsord haves i oldn. <i>marr</i>
+og i Laaneordet <i>Marskalk</i>, opr. »Hestetjener«);
+i nuv. Dansk bruges M. næsten kun som
+Skældsord.
+<i>V. D.</i>
+</chapter>
+
+<chapter name="Märjelensø">
+<b>Märjelensø</b> er en Gletschersø, som ligger i
+Kanton Wallis. Paa den ene Side afgrænses den
+af Aletschgletscheren; p. Gr. a. denne
+ejendommelige, noget ustadige Afspærring er
+Vandspejlets Højde med uregelmæssige Perioder
+underkastet store Svingninger.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Mærke">
+<b>Mærke</b> (<i>Sium</i> L.), Slægt af Skærmplanterne
+(Kommen-Gruppen), anselige fleraarige Urter,
+
+<img>Mærke.</img>

@@ -1,0 +1,77 @@
+<table>
+<td c>Type<td c>Navn<td>Længde m<td>Bredde m<td>Dybgaaende fuldt udrustet m<td>Tilsvarende Deplacement Tons<td>Hestekraft<td>Tilsvarende Fart i Knob<td>Sat i Vandet<td>Besætning<td>Armering
+<td>Undervandsbaad<td>Havmanden<td v6>38,76<td v6>3,64<td v6>2,30<td v2><td v2><td v2><td>1912<td>10<td v2>
+<td c>-<td>Havfruen<td>1912<td>10
+<td c>-<td>Najaden<td>164<td>450<td>13<td>1913<td>10<td>2 stkr.
+<td c>-<td>Nymfen<td>204<td>275<td>10<td>1914<td>10<td>Torpedoudskydn.-app.
+<td c>-<td>Thetis<td v2><td v2><td><td>1912<td>10
+<td c>-<td>2den April<td><td>1913<td>10
+<td v2 c>-<td v2>Dykkeren<td v2>34,65<td v2>3,50<td v2>2,20<td>105<td v2>210<td>12<td v2>1909<td v2>9<td>2 Stkr.
+<td>132<td>7,5<td>Torpedoudskydn.-app.
+<td c>-<td>Ægir<td v5>40,60<td v5>3,72<td v5>2,40<td v2>185<td v5>-<td v5>-<td>1914<td>10<td v5>3 Stkr. Torpedoudskydn.-app. <footnote>Under Bygning er 3 Baade.</footnote>
+<td c>-<td>Ran<td>1915<td>10
+<td c>-<td>Triton<td v3>235<td>1915
+<td c>-<td>Galatea<td>1915
+<td c>-<td>Neptun<td>1915
+<td c><i>Fartøjsmateriel</i><td>Minekran Nr. 1<td>21,90<td>5,02<td>1,99<td>110<td>150<td>8<td>1896<td>18<td>
+<td c><i>til</i><td>- - 2<td>18,68<td>5,18<td>1,73<td>105<td>75<td>6<td>1876<td>16<td>
+<td c><i>Minespærringer</i><td>- - 3<td>18,68<td>5,18<td>1,86<td>105<td>75<td>6<td>1878<td>16<td>
+<td c>-<td>- - 4<td>26,25<td>5,65<td>1,80<td>160<td>160<td>8<td>1884<td>20<td>
+<td c>-<td>Dampbaad A<td v2>13,80<td v2>3,92<td v2>1,57<td v2><td v2>30<td v2><td v2>1878<td v2>5<td v2>
+<td c>-<td 10>- B
+<td c>-<td 10>9 Minebaade
+<td 11><i>Reserven</i>
+<td>Kystforsvarsskib<td>Skjold<td>72,97<td>11,61<td>4,18<td>2200<td>2400<td>13<td>1896<td>137<td>1 Stk. 24 cm K., 3 Stkr.
+<td 10><td r>12 cm P. K., 4 Stkr.
+<td 10><td r>57 mm P. K., 1 Stk.
+<td 10><td r>Maskinskyts.
+<td>Defensionsskib<td>Iver Huitfeldt<td>78,78<td>15,12<td>5,60<td>3450<td>5100<td>15<td>1886<td>265<td>2 Stkr. 26 cm K., 6 Stkr.
+<td 10><td r>47 mm P. K., 10 Stkr.
+<td 10><td r>Maskinskyts, 2 Stkr.
+<td 10><td r>Torpedoudskydn.app.
+<td>Krydser<td>Valkyrien<td>85,78<td>13,23<td>5,50<td>3000<td>5300<td>17<td>1888<td>257<td>2 Stkr. 15 cm K., 6 Stkr.
+<td 10><td r>
+<td 10><td r>75 mm P. K., 4 Stkr.
+<td 10><td r>57 mm P. K., 2 Stkr.
+<td 10><td r>Maskinskyts, 2 Stkr.
+<td 10><td r>Torpedoudskydn.app.
+<td>Kanonbaad<td>Guldborgsund<td>38,19<td>6,12<td>2,43<td>270<td>400<td>11<td> 1884<td>46<td>2 Stkr. 47 mm P. K., 4 Stkr
+<td 10><td r>Maskinskyts.
+<td><td>Grønsund<td>38,19<td>6,12<td>2,48<td>250<td>400<td>11<td>1883<td>49<td>2 Stkr. Maskinskyts.
+<td><td>Lille Belt<td>27,46<td>8,00<td>2,22<td>250<td>200<td>7<td>1875<td>30<td>2 Stkr. 47 mm P. K., 4 Stkr
+<td 10><td r>Maskinskyts.
+<td><td>Falster<td>35,78<td>8,84<td>2,64<td>390<td>510<td>9<td>1873<td>50<td>2 Stkr. 47 mm P. K., 4
+<td 10><td r>Stkr. Maskinskyts.
+<td>Torpedobaad<td>Springeren<td>36,88<td>3,95<td>2,11<td>90<td>810<td>18<td>1891<td>17<td>2 Stkr. Maskinskyts, 2
+<td 10><td r>Stkr. Torpedoudskydningsapp.
+<td c>-<td>Havhesten<td v2>42,00<td v2>4,21<td v2>2,17<td v2>110<td v2>1200<td v2>21<td v2>1888<td v2>20<td>2 Stkr. Maskinskyts, 4
+<td c>-<td>Narhvalen<td r>Stkr. Torpedoudskydningsapp.
+<td c>-<td>Søløven<td v2>39<td v2>4,21<td v2>2,20<td v2>110<td v2>13<td v2>22<td v2>1187<td v2>20<td>
+<td c>-<td>Støren
+<td c>-<td>Nr. 5<td v3>......<td v3>......<td v3>2,08<td>74<td>670<td>18<td>1884<td>15<td>1 Stk. Maskinskyts, 2
+<td c>-<td>- 4<td>67<td>700<td>19<td>1883<td>15<td r>Stkr. Torpedoudskyd-
+<td c>-<td>- 3<td>59<td>760<td>20<td>1881<td>15<td r>ningsapp.
+<td>Patrouillebaad<td>- 11<td><td><td><td><td><td>15<td><td><td>1 Stk. 37 mm P. K., 2 Stkr.
+<td 10><td r>Torpedoudskydn.app.
+<td c>-<td>- 10<td><td><td>tidl.<td><td><td>15<td><td><td c>-
+<td c>-<td>- 15<td><td><td>2. kl.<td><td><td>15<td><td><td c>-
+<td c>-<td>- 14<td><td><td>Torpedobaade<td><td><td>15<td><td><td c>-
+<td c>-<td>- 3<td><td><td><td><td><td>15<td><td><td c>-
+<td c>-<td>- 2<td><td><td><td><td><td>15<td><td><td c>-
+<td c>-<td>- 1<td>27,83<td>3,03<td><td><td><td>20<td><td><td>1 Stk. Torpedoudskydn.app.
+<td c>-<td>- 9<td v2>26,35<td v2>3,77<td v6><td v2>46<td v2>330<td>13<td v6><td v2><td v3>
+<td c>-<td>- 8<td>13
+<td c>-<td>- 7<td v4>19,48<td v4>3,06<td v4>20<td v4>180<td v4>12<td>
+<td c>-<td>- 6<td>
+<td c>-<td>- 5<td><td>2 Stkr. Maskinskyts, 2
+<td c>-<td>- 4<td><td r>Stkr. Stangtorp.app.
+<td v2 c>-<td v2>- 13<td v2>24,34<td v2>2,72<td 6 v2><td>1 Stkr. 37 mm P. K., 2
+<td r>Stkr. Torpedoudskydningsapp.
+<td><i>Skibe til</i><td>Kongeskibet<td v2>75,64<td>8,16<td v2>3,17<td v2>1104<td v2>940<td v2>13<td v2>1879<td v2>50<td v2>2 Stkr. Maskinskyts.
+<td><i>særlige Formaal</i><td>Dannebrog<td>14,25
+<td c><i>Skoleskib</i><td>Skonnert Ingolf<td>63.87<td>8,53<td>4,16<td>1012<td>670<td>10<td>1876<td>125<td>4 Stkr. 57 mm P. K., 2
+<td 10><td r>Stkr. Maskinskyts.
+<td v3 c><i>Opmaalingsskibe</i><td>Marstrand<td>38,18<td>5,18<td>1,99<td>172<td>260<td>11<td>1861<td>39<td>
+<td>Krieger<td>38,18<td>5,18<td>1,95<td>172<td>240<td>11<td>1861<td>28<td>
+<td>Willemoes<td>38,18<td>5,18<td>1,91<td>162<td>240<td>11<td>1861<td>28<td>
+</table>

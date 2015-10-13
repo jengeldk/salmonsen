@@ -1,0 +1,108 @@
+bobler Luft op gennem Vædsken <i>B</i>. Skønt der
+saaledes er større Tryk inde i <i>A</i> end udenfor,
+diffunderer Brinten dog derind, og det er vel
+umuligt at forklare denne Vandring imod det
+højere Tryk uden netop ud fra den k. T.
+Boblingen i <i>B</i> vil vedblive, indtil al Luft er drevet
+ud af <i>A</i>; der vil da være ren Brint paa begge
+Sider af den porøse Væg, og der vil i hvert
+Sekund diffundere lige megen Brint ind i og
+ud af <i>A</i>, saaledes at der er indtraadt en
+Ligevægtstilstand. Diffusionshastigheden for
+Luftarter gennem porøse Vægge er omvendt
+proportional med Kvadratroden af
+Molekularvægten, hvilket stemmer med Grundligningen.
+
+Ogsaa et andet ejendommeligt
+Diffusionsfænomen forstaas kun ud fra kinetiske
+Betragtninger; det er det saakaldte termiske
+Molekulartryk. En Beholder med Luft antages delt ved
+en porøs Væg. Hvis Trykket er ens i de to
+Dele, men Temp. forsk., vil der diffundere
+mere Luft gennem Væggen fra den kolde mod
+den varme Side end omvendt. Det Antal
+Molekyler, der vil diffundere igennem, maa nemlig
+være proportionalt med det Antal Molekyler,
+der overhovedet findes, d. v. s. med Vægtfylden,
+og tillige proportionalt med Molekylernes
+Hastighed. Nu er imidlertid Vægtfylderne af
+Luften paa de to Sider omvendt proportionale med
+den absolutte Temp., da Trykket er ens; og
+Molekylhastigheden er proportional med
+Kvadratroden af den absolutte Temp. Det Antal
+Molekyler, der diffunderer igennem fra de to
+Sider, bliver derfor omvendt proportionalt med
+Kvadratroden af den absolutte Temp., og der
+vil følgelig gaa flest Molekyler igennem fra den
+kolde Side. Ligevægt vil her først indtræde,
+naar Trykkene paa de to Sider er blevet
+omvendt proportionale med Kvadratroden af de
+absolutte Temp., medens Trykkene jo skulde
+være ens, hvis der i Væggen havde været et
+stort Hul i St f. de mange smaa Porer. Er <i>A</i>
+i Fig. 3 en porøs Lerkrukke, der indvendig
+opvarmes ved en elektrisk Strøm i, vil der gaa
+en stadig Strøm af Luft fra den kolde Yderside
+gennem Væggen ind i det Indre, saa at der
+stadig vil boble Luft op gennem Vædsken; en
+Ligevægtsstilling vil her aldrig naas, da Trykket
+inde i Krukken ikke kan blive større end
+udenfor.
+
+3) <sp>Luftens Tryk</sp>; <sp>Mariotte's og
+Gay-Lussac's Love</sp>. I den k. T. er man,
+for overhovedet at kunne udføre de
+nødvendige Beregninger, nødsaget til at gøre visse
+simplificerende Forudsætninger angaaende
+Molekylernes Form og mekaniske Egenskaber.
+Man behandler dem da som fuldkommen
+elastiske glatte Kugler. Naar de derfor støder imod
+Væggene af den Beholder, hvori Luften er
+indesluttet, vil de kastes tilbage og derved udøve
+et Tryk imod Væggen. Medens Trykket mod
+Fladeelementer af samme Størrelsesorden som
+Molekylerne selv derfor vil variere meget og
+hyppigt være 0, vil Trykket mod Flader af
+de Størrelser, som vi er i Stand til at
+undersøge, være konstant p. Gr. a. det enorme Antal
+Molekyler; Luftens Tryk bliver endvidere ikke
+et statisk Tryk, som f. Eks. et Lods Tryk mod
+en Bordplade, men et dynamisk Tryk,
+hidrørende fra det ustandselige Bombardement af de
+enkelte Molekyler imod Væggen. Ved
+Tilbagekastningen skifter Molekylets
+Bevægelsesmængde Retning, men ikke numerisk Værdi, og da
+Trykket maa være lig med den samlede
+Forandring i Bevægelsesmængde pr Sek., kan det
+let beregnes. Hvis man ser helt bort fra alle
+Kræfter mellem Molekylerne indbyrdes og
+antager, af de alle har samme Hastighed <i>c</i>, bliver
+Trykket paa 1 <i>cm</i><sup>2</sup> <i>p</i> = 1/2 · <i>n</i>·<i>m</i>·<i>c</i><sup>2</sup>/<i>v</i>, hvor <i>v</i> er
+Beholderens Rumfang, <i>n</i> Antallet af Molekyler
+i Beholderen og <i>m</i> det enkelte Molekyles Masse.
+Denne Ligning kan imidlertid ogsaa skrives
+
+<i>p</i>·<i>v</i>  = 1/3 <i>n</i> · <i>m</i> · <i>c</i><sup>2</sup>. Naar man som nævnt ser
+bort fra Molekylernes indbyrdes Paavirkning,
+kan de ingen potentiel Energi have; naar
+endvidere Molekylet opfattes som en fuldstændig
+glat og fast Kugle, kan det hverken have indre
+Energi ell. Rotationsenergi; det samlede
+Energiindhold af alle Luftmolekylerne i Karret
+reduceres da til den translatoriske Energi 1/2 <i>n</i> <i>m</i> <i>c</i><sup>2</sup>,
+og denne bliver iflg. Teorien proportional med
+den absolutte Temp. T. Man faar da <i>p</i> · <i>v</i> =
+<i>R T</i>, hvor <i>R</i> er en Konstant. Dette er den alm.
+Tilstandsligning for en ideal Luftart; Ligningen
+indeholder baade Mariotte's Lov: Produktet af
+Tryk og Rumfang er konstant for en given
+Luftmasse ved konstant Temp., og Gay-Lussac's
+Lov: Ved konstant Tryk vokser en Luftmasses
+Rumfang proportionalt med den absolutte Temp.
+
+4) <sp>Avogadro's Lov</sp>. Har to forsk.
+Luftarter, 1 og 2, samme Tryk og Rumfang, er
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>

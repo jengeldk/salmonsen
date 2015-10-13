@@ -1,0 +1,133 @@
+Energiværdierne i de stationære Tilstande, divideret med
+<i>h</i>. For at faa nærmere Oplysninger om
+Bevægelserne af Elektronerne i de stationære
+Tilstande, og om de Love, hvorefter disse
+udvælges bl. de uendelig mange mek. mulige
+Tilstande, maa man gøre yderligere Antagelser
+om de stationære Tilstande. Bohr antog, at
+Elektronbevægelserne i disse Tilstande meget
+nær følger de alm. mek. Love, medens disse
+ikke kan gælde for Overgangen mellem to
+stationære Tilstande. Han anvendte først sin Teori
+paa det simpleste af alle Atomer, nemlig
+Brintatomet.
+
+<sp>Brintatomet</sp>. Dette indeholder kun en
+enkelt Elektron, idet man efter <sp>v. d. Broek</sp>
+antager, at Antallet af Elektroner i et
+Grundstofatom er lig dets Nummer i det fra Kemien
+velkendte <sp>periodiske System</sp> (s. d.), en
+Antagelse, der støttedes stærkt af
+røntgenspektroskopiske Arbejder af <sp>Moseley</sp>. Brintens
+Spektrum er det simpleste af alle Spektre;
+Frekvensen for en vilkaarlig af dets Linier
+bestemmes ved <sp>Balmer</sp>'s Formel: <i>v</i> =
+<i>K</i> (1/<i>n</i><sub>2</sub><sup>2</sup>—1/<i>n</i><sub>1</sub><sup>2</sup>), hvor <i>n</i><sub>1</sub> og <i>n</i><sub>2</sub> er hele Tal og <i>K</i>
+den saakaldte <sp>Rydberg's Konstant</sp>.
+Energiværdierne i Brintatomets stationære
+Tilstande kan altsaa ordnes i en Række, saaledes
+at Energien i den <i>n</i>'te stationære Tilstand er
+<i>E<sub>n</sub></i>=÷<i>h</i>·<i>K</i>/<i>n</i><sup>2</sup>. At Energien er sat negativ,
+betyder, at man antager, at en stationær Tilstand,
+for hvilken <i>n</i> er uendelig stor, betyder en
+Tilstand, hvor Elektronen er helt løsrevet fra
+Kernens Paavirkning. <i>Kh</i>/<i>n</i><sup>2</sup> betyder da det
+Arbejde, som man maa udføre, naar man vil
+føre Elektronen fra den Bane, der beskrives i
+den <i>n</i>te stationære Tilstand, til et Sted, som ligger
+meget langt fra Kernen. Idet man antager, at
+Elektron og Kerne tiltrækker hinanden med en
+Kraft, som er omvendt proportional med
+Kvadratet paa Afstanden mellem dem (Coulomb's
+Lov), finder man ved at anvende Mekanikkens
+Love, at Elektronen bevæger sig i en Ellipse,
+hvis ene Brændpunkt p. Gr. a. Elektronens
+ringe Masse i Forhold til Kernens Masse ligger
+meget nær Kernen. Atomets Energi og
+Elektronens Omløbstid afhænger alene af
+Elektronbanens Storakse (Længde), men ikke af dens
+Ekscentricitet. De stationære Tilstande af
+Brintatomet er altsaa bestemte ved en Række af
+Værdier for Elektronbanens Storakse. En
+simpel Regning viser, at Storaksen i en stationær
+Tilstand, karakterisret ved Tallet <i>n</i>, der kaldes
+Tilstandens <sp>Kvantetal</sp>, er <i>n</i><sup>2</sup> Gange saa
+lang som Storaksen, der svarer til Kvantetallet
+1. For denne findes Værdien 1,064 · 10<sup>—8</sup> cm;
+naar Elektronbanen har denne Storakse, har
+Atomet den mindste Energi, som det kan have,
+og man maa antage, at denne Tilstand er
+Atomets normale Tilstand. Den beregnede
+Længde af Storaksen er af samme
+Størrelsesorden som de Værdier for Atomets Diameter,
+der findes ved Hjælp af den kinetiske
+Luftteori. Fig. 1 viser Elektronbanen i forsk.
+stationære Tilstande. For Simpelheds Skyld er
+Baneekscentriciteten sat lig Nul, saaledes at Banerne
+er cirkulære. Banerne er forsynede med
+Kvantetal; man bemærker den stærke Voksen af
+Elektronbanen med
+voksende Kvantetal.
+For at Atomet skal
+kunne udsende en
+af Linierne i den
+velkendte
+Balmerserie, maa
+Elektronen ved en ell.
+anden ydre
+Paavirkning af Atomet være
+fjernet fra Kernen,
+saaledes at den
+bevæger sig i en af
+de ydre stationære
+Baner. Linierne udsendes da under en
+Proces, ved hvilken Elektronen gaar over
+til at bevæge sig i en stationær Bane,
+svarende til <i>n</i>=2. Ved Overgangen fra en
+Bane, for hvilken <i>n</i>=3 (en 3-kvantet Bane),
+til en Bane, hvor hvilken <i>n</i>=2, udsendes den
+røde Brintlinie <i>H</i><sub>α</sub>, ved Overgang af Elektronen
+fra en 4-kvantet til en 2-kvantet Bane
+udsendes den grønne Linie <i>H</i><sub>β</sub> o. s. v. Ved
+Overgangen fra stationære Baner med Kvantetal <i>n</i> ≧ 4
+til en 3-kvantet Bane faas en Række ultrarøde
+Linier, som er opdaget af <sp>Paschen</sp>; ved
+Overgange fra Baner med Kvantetal større end
+1 til en 1-kvantet Bane faas en Række
+ultraviolette Linier, som blev fundet af <sp>Lyman</sp> et
+Par Aar efter Fremkomsten af Bohr's Teori.
+For ganske nylig har man iagttaget Linier, som
+fremkommer ved Overgang til en 4-kvantet
+Bane. Man ser, at Bohr's Billede af
+Brintatomet og dets Emission af Straaling i høj Grad
+egner sig til at illustrere Karakteren af
+Brintatomets Spektrum. En meget stærk Støtte for
+Teoriens Rigtighed vandt Bohr derved, at det
+lykkedes ham teoretisk at udlede et Udtryk for
+Rydberg's Konstant, som gav meget nøje den
+rigtige Talværdi for K. Dette skete ved flg.
+Overvejelse: I de forsk. stationære Baner for
+Elektronen i Brintatomet er Omløbstallene
+forskellige, idet Omløbstallet i en <i>n</i>-kvantet Bane
+er omvendt proportionalt med <i>n</i><sup>3</sup>;
+Svingningstallet for den Straaling, som udsendes ved
+Overgang af Elektronen fra eri stationær Bane
+til en anden, vil følgelig ikke paa simpel Maade
+afhænge af Omløbstallene i de to Baner.
+Betragter man imidlertid to Kvantetal <i>n</i> og <i>n</i>+1,
+som er meget store, vil Omløbstallene i to
+Baner med disse Kvantetal være temmelig
+smaa og omtr. ens, og det ligger da nær at
+antage, at den Straaling, som udsendes ved en
+Overgang fra en <i>n</i>+1-kvantet til en <i>n</i>-kvantet
+Bane, har et Svingningstal, som meget nær er
+lig Omløbstallet i disse Baner. Denne
+Antagelse frembyder sig navnlig, fordi Elektronens
+Bevægelse i de Baner, som der her er Tale om,
+er ret langsom, saaledes, at Straalingen, som
+foran omtalt, med god Tilnærmelse kan
+beregnes ved Hjælp af den klassiske
+Elektrodynamik, efter hvilken Frekvensen for den
+udsendte Straaling skal være lig Elektronens
+
+<img>Fig. 1.</img>

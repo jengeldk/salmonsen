@@ -1,0 +1,176 @@
+formel, men ogsaa reel Simplifikation af
+Regningerne i den teoretiske Fysik, saa at dens
+Anvendelse og Betydning stadig vokser, og den
+hører nu til enhver teoretisk Fysikers
+elementære Værktøj. Relativitetsteorien har udviklet
+en 4-dimensional Vektorregning. En videre
+Udvikling af Vektorbegrebet sker ved Indførelse
+af Tensorer. En Tensor af 2. Grad er en
+Funktion af Stedet, der til enhver V. i et Vektorfelt
+knytter en anden V. Videre knytter en Tensor
+af 3. Grad en Tensor af 2. Grad til enhver V.
+o. s. v. En Tensor af 2. Grad har 9
+Komponenter. Et Eksempel herpaa er Spændingerne i et
+elastisk deformeret Legeme. (<sp>Litt</sp>.: Artikel af
+<sp>Abraham</sp> i »Enc. der math. Wiss.«, Bd 4
+Af talrige kortere Fremstillinger kan fremhæves
+<sp>W. v. Ignatowsky</sp>, »Die Vektoranalysis
+etc.«, 3. Udg. [Leipzig 1926]. En kortfattet
+Fremstilling paa Dansk i <sp>E. S. Johansen</sp>,
+»Moderne Anskuelser om Elektricitet og Stof«
+[Kbhvn 1920]).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Vektoranalyse">
+<b>Vektoranalyse</b> (mat.). I Fysikken
+behandles to Slags Størrelser: dels saadanne
+<sp>Skalarer</sp>, som er fuldstændig bestemte ved
+Opgivelsen af en Talværdi (Eks.: Masse,
+Temperatur), dels saadanne som Kræfter,
+Hastigheder, Rotationer m. m., der fremstilles ved
+et Liniestykke med given Retning, paa hvilket
+er valgt en bestemt af de to
+Bevægelsesretninger. Saadanne Liniestykker kaldes
+<sp>Vektorer</sp>. I V. sammenknyttes Vektorernes
+Betegnelser ved algebraiske Operationstegn, og der
+gives geometriske Definitioner paa disse
+Operationer; saaledes dannes Summen U + V
+af Vektorerne U og V ved geometrisk Addition
+(se <sp>Addition</sp>) paa samme Maade, som man
+danner Resultanten af to Kræfter ved
+Kræfternes Parallelogram. Idet man giver Regler for
+Sammensætningen af Operationerne, opstaar
+der en Algebra for Vektorer, hvori en Del af
+den sædvanlige Algebras Regler gælder. Ved
+geometrisk Tydning af Identiteter i denne
+Algebra kommer man ofte paa en simpel Maade
+til Sætninger om Vektorer. V. frembyder flere
+Lighedspunkter med Hamilton's
+Kvaternionsteori (se <sp>Kvaternioner</sp>). (<sp>Litt</sp>.: <sp>J. W.
+Gibbs</sp>, <i>Vector analysis</i> [1907]).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Vela">
+<b>Vela,</b> se <sp>Sejlet</sp>.
+</chapter>
+
+<chapter name="Vela, Vincenzo">
+<b>Vela</b> ['vela], <sp>Vincenzo</sp>.
+italiensk-schweizisk Billedhugger, f. 1822 (1820) i Ligornetto
+(Ticino, Schweiz), d. i Bellinzona 1891. Som
+Søn af fattige Bønder arbejdede han i sin
+Ungdom i Stenbrudene i Viggio; da han der fik
+Lejlighed til at vise kunstneriske Anlæg, kom
+han til Milano og blev Elev af Cacciatori;
+senere søgte han Uddannelse i Rom. 1848 gjorde
+han Felttoget i Lombardiet med og blev 1852
+Professor ved <i>Accademia Albertina</i> i Torino, en
+Stilling, som han dog snart trak sig tilbage fra,
+hvorefter han slog sig ned i sin Fødeby. Hans
+flovedværker er Statuerne: Spartacus (1848,
+Verdensudstillingen i Paris 1855), Napoleon I
+paa Dødslejet (1866, <i>Grand prix</i>, Paris 1867; nu
+i Versailles), Frankrig og Italien (»L'Italia
+riconoscente alla Francia«), som blev skænket
+Kejserinde Eugénie 1859 af Indbyggerne i
+Milano (Grand Trianon), Gravmæle over
+Donizetti (allegorisk Kvindefigur »Harmonia«),
+endvidere en Række Statuer: Wilhelm Tell og
+»Desolazione« (sørgende Italien) i Lugano,
+Vittorio Emanuele (Raadhuset, Torino), Joach.
+Murat (Kirkegaarden, Bologna), Correggio i
+dennes Fødeby af samme Navn, Columbus (i Vera
+Gruz i Amerika), Dante og Giotto (Padua), de
+to Statuer af Dronningerne Maria Theresia og
+Maria Adelaide (Torino, Chiesa della Consolato)
+o. fl. a. Blandt andre fremragende Arbejder af
+V. fremhæves særlig »Ecce Homo«. (<sp>Litt</sp>:
+<sp>Romeo Manzoni</sp>, <i>V. V.</i> [Milano 1906]).
+<i>(A. R.). A. Hk.</i>
+</chapter>
+
+<chapter name="Velabrum">
+<b>Velabrum</b> kaldtes den Del af det antikke
+Rom, som laa SV. f. <i>Forum Romanum</i> ned mod
+Tiberen, se <sp>Rom</sp>, S. 311.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="Velagrada">
+<b>Velagrada,</b> se <sp>Berat</sp>.
+</chapter>
+
+<chapter name="Welander, Edvard Vilhelm">
+<b>Welander</b> [ve'land<sub>ə</sub>r], <sp>Edvard Vilhelm</sp>,
+svensk Læge, f. 1846, d. 1917, var Professor i
+Syfilidologi ved det Karolin'ske Institut i Sthlm.
+Han er især blevet kendt ved sit filantropiske
+Arbejde, der gik ud paa at skaffe Børn med
+medfødt Syfilis, hvilke Børn Mødrene ikke selv
+ønskede at beholde, anbragt i særlige Hjem,
+de senere saakaldte »Welanderhjem«. I
+Kjøbenhavn findes to »Welanderhjem«.
+<i>C. Rch.</i>
+</chapter>
+
+<chapter name="Velanstændighed">
+<b>Velanstændighed.</b> Krænkelse af den
+offentlige V. ved at færdes offentlig iført upassende eller
+uanstændig Klædedragt, ved usømmelig eller
+uanstændig Adfærd o. l. straffes som Hovedregel
+som en Politiforseelse efter de lokale
+Politivedtægter. Antager Krænkelsen en saa grov
+Karakter, at Handlingen kan karakteriseres
+som uterligt Forhold, der vækker offentlig
+Forargelse, er Straffen Fængsel eller
+Forbedringshusarbejde. Trods den store Forskel i Straffen
+er Forskellen mellem de to Arter af
+Retskrænkelser flydende og beror ofte paa et rent Skøn.
+<i>A. Gl.</i>
+</chapter>
+
+<chapter name="Velarde, José P.">
+<b>Velarde</b> [wæ'lard<sub>æ</sub>], <sp>José P.</sp> (1849—92),
+spansk Forfatter. Han var Andalusier. I
+Aarenes Løb udsendte han en Række Digtsamlinger
+og kortere Digtninge, ogsaa et Drama, <i>Pedro
+el Bastardo</i> (1888). Uden særlig digterisk
+Betydning efterlignede han i sin Poesi navnlig
+Nuñez de Arce.
+<i>E. G.</i>
+</chapter>
+
+<chapter name="Velarium">
+<b>Velarium</b> (af lat. <i>velum</i>, Sejl), et udspændt
+Stykke Lærred e. l., der gerne anbringes
+horisontalt (hængende ned fra Loftet) i Rum med
+Ovenlys. V. finder særlig Anvendelse i
+Kunstudstillingslokaler, idet det kan bidrage til at
+bringeroligt og dæmpet Lys.
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="velati">
+<b>velati,</b> fuldstændigere <i>accensi velati</i>, kaldtes
+hos Romerne efter den servianske Hærordning
+nogle Reservesoldater, der rykkede i Felten
+ubevæbnede, for under Slagets Gang at forsyne
+sig med de Faldnes Vaaben og optage Kampen
+i deres Sted. I senere Tid synes de at have
+udgjort et særligt Korps, der bl. a. havde med
+Vejanlæg at gøre.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="Velázquez, Diégo Rodrigues de Silva y">
+<b>Velázquez</b> [wæ'lapkæp], <sp>Diégo Rodrigues
+de Silva y</sp>, spansk Maler, f. 1599 i Sevilla,
+d. 1660 i Madrid, var Elev af Herrera den
+Ældre og Pacheco, hvis Svigersøn han blev
+1618. 4 Aar efter forsøgte han at vinde en
+Stilling i Madrid; men da det ikke lykkedes, drog
+han tilbage til sin Hjemby og fortsatte med
+Folketyper og Skildringer af smaaborgerligt
+Liv (Køkken- og Værtshusinteriører, de

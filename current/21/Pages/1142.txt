@@ -1,0 +1,159 @@
+Revolution i de Anskuelser, man tidligere havde
+om Stjernernes Udvikling. Og selv om denne
+end modificeres noget efter, hvad nyere
+Resultater forlanger, er den dog saa fast opbygget, at
+Grundprincipperne vil bevare deres Gyldighed.
+Og en overordentlig værdifuld Støtte har denne
+Teori faaet i Eddington's matematisk-fysiske
+Undersøgelser over Stjernernes fysiske Tilstand
+og Udvikling. Og disse har paa rent teoretisk
+Vej ført til Resultater af vedk. Stjerners
+Udvikling, som i det væsentlige stemmer overens
+med, hvad Russell tidligere havde udledet
+gennem statistisk-astronomiske Studier. Eddington's
+Beregninger har vist, at Stjernernes Masser
+varierer inden for nok saa snævre Grænser. En
+Stjerne, hvis Masse er mindre end 1/7 af Solens,
+kan ikke faa en Overfladetemp. over 3000° K,
+hvilket er Betingelsen for, at en Stjerne
+overhovedet skal være synlig. Paa den anden Side
+kan ingen Stjerne have en Masse, som er 1000
+Gange Solens. En Stjerne med 50 Gange Solens
+Masse er nemlig af meget labil Natur. Aarsagen
+er den, at Straaletrykket fra Stjernens Indre
+for en stor Del ophæver Gravitationen, som
+holder Massen sammen. Gravitationen modvirkes
+af en Kraft, som søger at sprænge hele Massen.
+
+Kapteyn har undersøgt, hvorledes de forsk.
+Spektralklasser er fordelte paa Himlen, og er
+kommen til flg. Resultater ved Benyttelse af
+16000 Stjerner til 8. Størrelse: <i>B</i>: 12,3 %, <i>A</i>:
+21,7 %, <i>F</i>: 20,0 %, <i>G</i>: 16,1 %, <i>K</i>: 26,6 %,
+<i>M</i>: 3,3 %. <i>O</i>-, <i>B</i>- og <i>N</i>-Stjerner hober sig
+stærkt op mod Mælkevejen, <i>A</i>-Stjerner ogsaa, I
+men ikke i saa udpræget Grad. De øvrige
+Klasser er mere jævnt fordelte. Den sande
+Fordeling af Stjernerne af de forsk.
+Spektralklasser svarer paa det nærmeste til den apparente.
+(<sp>Litt</sp>.: <sp>Newcomb-Engelmann</sp>, »Popul.
+Astronomie« [1922]; <sp>Herbert Dingle</sp>,
+<i>Modern astrophysics</i> [1924]; <sp>Østen
+Bergstrand</sp>, »Astronomi« [1925]; <sp>F. J. M.
+Stratton</sp>: <i>Astronomical Physics</i> [1925]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Spektralapparater">
+<b>Spektralapparater,</b> se ovf.
+</chapter>
+
+<chapter name="Spektralfotometer">
+<b>Spektralfotometer,</b> se <sp>Fotometri</sp>.
+</chapter>
+
+<chapter name="Spektrofotometer">
+<b>Spektrofotometer,</b> d. s. s.
+<sp>Spektralfotometer</sp>.
+</chapter>
+
+<chapter name="Spektroheliograf">
+<b>Spektroheliograf,</b> et af Deslandres i
+Meudon og Hale i Chicago samtidig, men uafhængig
+konstrueret Apparat til at fotografere Solen i
+Lyset af en bestemt Bølgelængde, m. a. O. faa
+et monokromatisk Billede af Solen. I sin
+simpleste Form bestaar S. af et Spektroskop med
+Kamera; dette er fast forbundet med en
+Refraktor, saaledes at Kollimatorspalten befinder
+sig i Kikkertens Brændplan. Rettes nu
+Refraktoren mod Solen, faar man i Kamerarørets
+Brændplan et Spektrum. Kun et ganske lidet
+Parti af dette paavirker den fot. Plade, idet
+en Skærm, hvori der er en Spalte ikke bredere
+end den Fraunhofer'ske Linie, i hvis Lys
+Fotografiet skal tages, stænger den øvrige Del af
+Spektret ude. Lader man saaledes Lyset fra et
+Objekt, hvori Kalciumlinien optræder, falde paa
+Kollimatorens Spalte og af Spektret kun
+Kalciumlinien passere gennem den anden Spalte,
+vil den fot. Plade, som befinder sig lige bag
+den anden Spalte, kun give et Billede af
+Objektet i Kalciumlys. Paa den Maade kan man
+faa et Billede af de Partier af Solen, hvori
+Kalcium optræder, ved at føre
+Kollimatorspalten over hele Solskiven. Solen fotograferes i
+Kalciumlys. Vælger man en anden Fraunhofer'sk
+Linie, og gør man Dispersionen af Spektret
+tilstrækkelig stor, kan man benytte en hvilken
+som helst Fraunhofer'sk Linie, uanset om
+denne er lys eller mørk paa Solen — Lyset fra en
+mørk Linie er tilstrækkelig til at paavirke den
+fot. Plade — og man vil faa Billeder, som viser,
+hvorledes de forsk. Elementer er fordelt over
+Solskiven. Med stort Udbytte har man benyttet
+Brintlinierne Hα(C), Hβ og Hγ. I St f. at
+benytte en parallaktisk opstillet Kikkert kan
+man lade Kikkerten ligge horizontal og ved
+Hjælp af ten Heliostat ell. Cølostat bringe
+Solbilledet til at falde paa Kikkertens Objektiv. Hale
+har benyttet en vertikal Opstilling. Spejlet
+(Cølostaten) er anbragt i en Højde af c. 50 m
+over Jorden paa et Jernstativ, som er opstillet
+frit inde i et andet, saa at Rystelser fra Vind i
+det Stativ, som bærer Cølostaten, undgaas.
+Selve S. har man i en Skakt af 25 m Dybde,
+hvorved man faar elimineret mest mulig Ulemperne
+af Lufturoen og Variationen af Temp. Med
+dette »Taarnteleskop« har Hale opnaaet
+banebrydende Resultater for Solens Vedkommende.
+De med S. optagne Fotografier kaldes
+<sp>Spektroheliogrammer</sp>.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Spektrohelioskop">
+<b>Spektrohelioskop,</b> et af Hale 1923
+konstrueret Apparat til visuelt Studium af lyse og
+mørke Flocculi paa Solskiven. Apparatet er
+baseret paa samme Princip som
+Spektroheliografen. Man kan ved Hjælp af S. følge
+hurtigere Forandringer i de Eruptioner, som
+optræder paa Solskiven. Hidtil har Hale kun
+udsendt en foreløbig Meddelelse om dette
+Instrument, som antagelig kommer end mere til at
+uddybe Kundskaben om de forsk. Processer
+paa Solskiven. (<sp>Litt</sp>.: <sp>Hale</sp>, <i>Visual
+Observations of the Solar Atmosphere</i> [1926]; <i>Some
+New Posibilities in Solar Research Nature</i>
+[1926]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Spektrotelegraf">
+<b>Spektrotelegraf,</b> et af Poul la Cour 1883
+opfundet Apparat til Lyssignalering mellem
+Skibe indbyrdes og mellem disse og Land. I
+Modsætning til tidligere Lystelegrafer, hvor
+Telegraftegnene dannes ved Kombinationer af
+kortere og længere Blink, der udsendes i
+Rækkefølge, beror S. paa en samtidig Udsendelse af
+de til hvert Tegn hørende Signalelementer.
+Dette opnaas ved, at Modtagerstationen er
+forsynet med en spektroskopisk Kikkert, gennem
+hvilken Lyset fra Afsenderstationen viser sig
+som en farvet Linie. Anbringes foran
+Lyskilden, der ligeledes er spektroskopisk, en Skærm
+med Udskæringer i Form af et Morsetegn, vil
+den farvede Linie afbrydes paa tilsvarende
+Maade, saaledes at det paagældende Tegn
+direkte kan aflæses i Kikkerten. S. har ikke
+vundet Udbredelse og er senere helt
+overflødiggjort af den mere fuldkomne traadløse
+Telegraf.
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Spektrum">
+<b>Spektrum,</b> se <sp>Spektralanalyse</sp>.
+</chapter>

@@ -1,0 +1,28 @@
+<table>
+<td 5 c><sp>Arealets Benyttelse</sp>,
+<td><td c>1912<br>100 ha<td c>1917<br>100 ha<td c>1919<br>100 ha<td c>1921 **)<br>100 ha
+<td>Hvede<td r>540<td r>531<td r>518<td r>889
+<td>Rug<td r>2458<td r>1765<td r>2360<td r>2261
+<td>Byg, 2-radet<td r>1916<td r>2080<td r>2053<td r>2273
+<td>Byg, 6-radet<td r>498<td r>317<td r>318<td r>269
+<td>Havre<td r>4284<td r>3970<td r>4034<td r>4499
+<td>Blandsæd til Modenhed<td r>1804<td r>1954<td r>2020<td r>1939
+<td>Ren Bælgsæd<td r>40<td r>48<td r>95<td r>189
+<td>Boghvede<td r>24<td r>22<td r>38<td r>33
+<td>Tils. Kornarealer<td r>11564<td r>10687<td r>11436<td r>12352
+<td>Kartofler<td r>611<td r>578<td r>961<td r>841
+<td>Runkelroer<td r>838<td r>771<td r>1140<td r>1044
+<td>Kaalrabi<td r>1026<td r>1234<td r>1103<td r>1497
+<td>Turnips og andre Foderroer<td r>675<td r>735<td r>600<td r>526
+<td>Gulerødder<td r>80<td r>44<td r>56<td r>50
+<td>Sukkerroer<td r>324<td r>308<td r>416<td r>347
+<td>Cikorierødder<td r>10<td r>11<td r>13<td r>2
+<td>Tils. Rodfrugtarealer<td r>3564<td r>3681<td r>4289<td r>4307
+<td>Frøarealer<td r>158<td r>192<td r>354<td r>209
+<td>Andre Høstarealer<td r>60<td r>—<td r>67<td r>66
+<td>Brakarealer<td r>2030<td r>—<td r>1375<td r>1235
+<td>Heraf Renbrak<td r>869<td r>—<td r>638<td r>633
+<td>Grøntfoder- og Græsningsarealer<td r>8465<td r>—<td r>8050<td r>9106
+<td>Samlet Areal<td r>25841<td r>—<td r>25571<td r>27275
+</table>
+

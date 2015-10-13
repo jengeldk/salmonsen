@@ -1,0 +1,139 @@
+Afbøjning fra deres retlinede Bane, som de derved
+faar. Ved at passere gennem et elektrisk Felt
+mellem to modsat ladede Kondensatorplader
+afbøjes de over mod den positive Plade; passerer
+de gennem et magnetisk Felt, afbøjes de
+vinkelret paa Kraftliniernes Retning og til den Side,
+som en elektrisk Strøm med modsat Retning
+af Katodestraalerne vilde afbøjes efter Ørsted's
+Opdagelse (en Strøm af negativ Elektricitet i
+een Retning er ækvivalent med en Strøm af
+positiv Elektricitet i modsat Retning). I St f.
+det første af disse Forsøg kan ogsaa sættes en
+Restemmelse af det Katodefald, som er Aarsag
+til deres Hastighed. E.'s Hastighed varierer
+proportionalt med Kvadratroden af den anvendte
+Spænding; for 10000 Volt er den c. 1/5 af Lysets,
+og de hurtigste hidtil frembragte
+Katodestraaler har en Hastighed lidt over Halvdelen af
+Lysets. (Da Hastigheden er entydig beklemt af
+den gennemløbne Spænding, taler man om 1000
+Volts Straaler o. s. v., hvorved menes Straaler
+af den Hastighed, der opnaas ved at gennemløbe
+1000 Volts Spændingsfald). Derimod har <i>e/m</i>
+for alle undersøgte Katodestraaler en konstant,
+af alle Forsøgsomstændigheder uafhængig Værdi
+1,765 . 10<sup>8</sup> Coulomb/Gram (af Grunde, som
+omtales ndf., maa tilføjes, at Tallet kun gælder for
+langsomme Katodestraaler), og den samme
+Værdi er fundet for alle de fri E., der fraspaltes
+paa de i det flg. omtalte Maader. Heri ligger
+Beviset for, at der kun gives een Slags E. (se
+i øvrigt <sp>Katodestraaler</sp>).
+
+Fri E. opstaar endvidere ved den
+<sp>lyselektriske</sp> (foto-elektriske) Virkning: Naar
+Metalfader belyses, bedst med ultraviolet Lys,
+udsender de E.; størst er Virkningen for
+Alkalimetallerne (Natrium, Kalium o. s. v.), og her
+kan Virkningen paavises ogsaa for synligt og
+endogsaa for ultrarødt Lys. De udsendte E. har
+ringe Hastighed, kun nogle faa Volt (se
+<sp>Lyselektricitet</sp>). En lgn. Virkning har
+<sp>Røntgenstraaler</sp>. - Fri langsomme E. i stort Tal
+udsendes fra glødende Metaller (<sp>Termioner</sp>,
+s. d.). I særlig stor Mængde udsendes de fra
+visse glødende Metalilter, f. Eks. Kalciumilte
+(CaO). Anbringes en Strimmel Platinblik med
+en lille Plet CaO paa som Katode i et
+Udladningsrør, og glødes Platinstrimlen ved en
+elektrisk Strøm, udsendes saa mange E., at man
+kan faa Udladninger gennem Røret ved 220 Volt
+ell. mindre og endda faa meget stærke Strømme
+(1 Amp. ell. mere) gennem Luften
+(Wehneltkatode). Ogsaa fra det glødende negative Kul i
+en Kulbuelampe udsendes overordentlig store
+Mængder af E.; deres Udsendelse er Betingelsen
+for Lysbuens Bestaaen, hvorfor en glødende
+negativ Pol er nødvendig for en Lysbue. - Ved
+visse <sp>kemiske Processer</sp> opstaar ogsaa
+langsomme fri E.; det er f. Eks. Tilfældet ved
+Processerne i Flammer, hvorved Flammernes
+store Ledningsevne for Elektricitet forklares.
+<sp>Haber</sp> og <sp>Just</sp> har ved enkelte kem.
+Reaktioner direkte paavist Udsendelse af fri E. og
+bestemt disses karakteristiske Egenskaber; de
+lod flydende Kalium-Natrium-Legering komme i
+Berøring med Luftarter som Ilt ell. Brom,
+hvormed Legeringen reagerede kem.; derimod kom
+der ingen Elektronudsendelse ved Berøring med
+kem. uvirksomme Luftarter som Brint ell.
+Kvælstof. - De hurtigste fri Elektroner er
+β-Straalerne fra de radioaktive Stoffer; de kendes med
+Hastigheder paa over 99 % af Lyshastigheden.
+Disse meget hurtige E. har været af stor Bet.
+for Studiet af E.'s Egenskaber; vilde man
+frembringe lige saa hurtige Katodestraaler i et
+Udladningsrør, maatte der bruges Spændinger paa
+over 1 Mill. Volt.
+
+Alle de nævnte Maader at skaffe fri E. paa
+giver som omtalt E. med samme specifikke
+Ladning. Imidlertid har man ogsaa direkte uden
+at behøve at løsrive E. kunnet godtgøre, at der
+i Stoffernes Atomer findes saadanne E., nemlig
+ved Undersøgelse af, hvorledes Lys forandres,
+ved at det lysende Stofs Atomer anbringes i et
+Magnetfelt. Elektronteorien antager, at Lyset
+(i hvert Fald Stoffernes Liniespektre) udsendes
+fra E., der i Atomernes Indre udfører periodiske
+Bevægelser. Anbringes en Lyskilde, der
+udsender et Liniespektrum, i et stærkt Magnetfelt,
+maa man vente, at E.'s Bevægelse paavirkes af
+Magnetfeltet i Overensstemmelse med Ørsted's
+Opdagelse. Det første Forsøg med positivt
+Resultat paa at finde en saadan Virkning blev
+gjort af <sp>Zeeman</sp> (1896); <sp>H. A. Lorentz</sp>
+angav straks, da han hørte om disse Forsøg,
+hvorledes Virkningen skulde være efter
+Elektronteorien, og Zeeman kunde kort efter
+bekræfte Lorentz' Formodninger. Den normale
+Virkning (se <sp>Zeeman-Effekten</sp>) er, at i
+det Lys, der udsendes vinkelret paa de
+magnetiske Kraftlinier, bliver hver Spektrallinie af
+Magnetfeltet spaltet i 3 Linier, den midterste
+paa den opr. Linies Plads, de to andre forskudt
+lige meget hver til sin Side. Alle Linierne er
+lineært polariserede, den midterste med
+Svingninger i Kraftliniernes Retning, de to andre
+vinkelret derpaa. Iagttager man i Kraftliniernes
+Retning (gennem en gennemboret Polsko), ses
+kun de to yderste Linier, der nu er cirkulært
+polariserede med modsat Svingningsretning; Af
+disse Svingningsretninger kan godtgøres, at de
+svingende E. maa være negativt ladede, og af
+Opspaltningens Størrelse (Afstanden mellem de
+ny Linier) kan de svingende E.'s specifikke
+Ladning beregnes. Man finder i et stort Antal
+Tilfælde nøjagtig den tidligere anførte Værdi. I
+de fleste Tilfælde er nu imidlertid Fænomenet
+ikke saa simpelt, hyppigt faas mange fl. end 3
+ny Linier, men i alle Tilfælde er Opspaltningen
+en saadan (simple Brøkdele af den normale),
+at der i hvert Fald ikke er Tvivl om, at Lyset
+altid udsendes fra samme Slags E., blot er
+Mekanismen ved Lysudsendelsen langt mere
+indviklet, end den simple Elektronteori antager, og
+endnu ikke opklaret.
+
+Her maa det ogsaa nævnes, at <sp>Einstein</sp>
+og <sp>de Haas</sp> 1915 ved et fundamentalt Forsøg
+direkte har vist, at f. Eks. Jerns Magnetisme
+maa forklares, ved at der i hvert Jernatom
+kredser E. i lukkede Baner; saadanne E.
+repræsenterer lukkede elektriske Strømme, der
+udadtil opfører sig som Magneter, saa at
+Atomerne er Smaamagneter (hermed er Eksistensen
+af de Molekylarstrømme, som <sp>Ampère</sp> antog
+til Forklaring af Magnetismen, bevist). Forsøget,
+der ikke kan omtales nærmere her, fører til en

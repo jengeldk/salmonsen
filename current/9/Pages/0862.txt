@@ -1,0 +1,142 @@
+<chapter name="Gnidningselektricitet">
+<b>Gnidningselektricitet,</b> Elektricitet,
+frembragt ved Gnidning. Før Galvani's og Volta's
+Opdagelse af Berøringselektriciteten (se
+<sp>Elektricitet og galvaniske Elementers
+Teori</sp>) var Gnidning den eneste kendte Maade til
+Elektricitetsfrembringelse. I Forhold fil et
+galvanisk Element vil en
+Gnidnings-Elektrisermaskine i Alm. kun kunne afgive en meget ringe
+Elektricitetsmængde i den samme Tid, men
+denne vil let kunne faa en høj Spænding, naar
+den opsamles paa godt isolerede Legemer.
+Derved bliver det nemt at paavise Elektricitetens
+elektrostatiske Kraftvirkninger, hvorimod
+Virkningerne af den konstante elektriske Strøm,
+som Maskinen kan levere, kun bliver meget
+svage. At disse Virkninger dog er til Stede, og
+at de netop er af den Størrelse, som man maa
+vente efter Strømstyrken, er godtgjort ved
+nøjagtige Forsøg. I det hele taget vil al
+Elektricitet, paa hvilken Maade den end er frembragt,
+under kvantitative ens Forhold have identiske
+Virkninger.
+
+G. frembringes ved at gnide to forsk.
+Legemer mod hinanden, hvoraf mindst det ene af
+Legemerne skal være en Isolator. Er de begge
+Ledere, vil en blot Berøring frembringe samme
+Virkning som en Gnidning, og man taler derfor
+i det Tilfælde om Berøringselektricitet. Ved
+Gnidningen frembringes altid baade positiv og
+negativ Elektricitet og altid i lige store
+Mængder. Man kan vise dette ved at lade først det
+ene og derpaa det andet af de to Legemer, der
+har været gnedet mod hinanden, falde ned i
+en Faraday's Gryde, der er forbundet med et
+Elektroskop. Naar det første Legeme kommer
+ned i Gryden, vil Elektroskopbladene gøre et
+Udslag, som vil afhænge af Størrelsen af
+Legemets Ladning, men Udslaget vil gaa ned
+til Nul, saa snart det andet Legeme kommer
+ned i Gryden som Tegn paa, at den samlede
+Ladning nu er Nul. For at Forsøget skal være
+beviskraftigt, maa de to Legemer være
+forsynede med isolerende Haandtag for at forhindre
+Elektricitetstab til Eksperimentatoren. Af den
+her nævnte Lov følger, at naar to Flader af
+ens Størrelse gnides, vil man ikke kunne
+aflede nogen Elektricitet fra dem, saalænge de
+dækker hinanden, idet de to Elektriciteter
+binder hinanden og først frigøres, naar Fladerne
+fjernes fra hinanden.
+
+M. H. t. Fortegnet og Mængden af den
+Elektricitet, der udvikles ved Gnidning, er det
+vanskeligt at opstille almengyldige Regler. Efter
+Coehn vil det af Legemerne, der har størst
+Dielektricitetskonstant, faa positiv Ladning, men
+G. er, som i øvrigt næsten alle Egenskaber, der
+er betinget af Legemernes Overflade, yderst
+følsom for Forureninger og faar derved en
+tilsyneladende lunefuld Karakter. Dette beror paa,
+at en Overflade virkning (som f. Eks. G.,
+Overfladespænding, Refleksionsevne) i Forhold til
+en Rumvirkning (f. Eks. Vægtfylde, Elasticitet)
+frembringes af yderst faa af Legemets Dele, og
+tilmed af de for Forurening mest udsatte,
+saaledes at en ringe Mængde fremmed Stof helt
+vil kunne forandre Virkningen. Med dette
+Forbehold angiver flg. Række (efter Faraday)
+Fortegnet for Elektriciteten, naar to af Rækkens
+Stoffer gnides indbyrdes, idet det af
+Legemerne, der staar forrest i Rækken, vil blive
+positivt elektrisk.
+
++ Katte- og Bjørneskind, Flonel, Elfenben,
+Pennefjer, Kvarts, Flintglas, Bomuld, Lærred,
+hvid Silke, Haanden, Træ, Lak, Metaller,
+Svovl ÷.
+
+For Ladningens Størrelse kan der ikke
+opgives almengyldige Talværdier, men til
+Belysning af Størrelsesordenen skal anføres, at Silke
+gnedet med Lak i et Forsøg gav en
+Overfladetæthed paa 5,4 absolutte elektrostatiske
+Elektricitetsenheder; Overfladerne var 5 cm<sup>2</sup>, ved
+større Overflader blev Tætheden mindre. —
+Omfattende Undersøgelser over G. er udførte
+af C. Christiansen, der bl. a. har fundet
+ejendommelige Lovmæssigheder ved Gnidningen mellem
+Vædsker mod ikke vædede Isolatorer. Beslægtet
+med G. er ogsaa den af C. Christiansen
+benævnte Balloelektricitet, der fremkommer, naar en
+Vædske forstøves til smaa Draaber (se
+<sp>Vandfaldselektricitet</sp>).
+
+Da Resultaterne af Forsøgene over G.
+gennemgaaende er af en saa usikker Natur, maa
+Forstaaelsen af dem nødvendigvis ogsaa befinde
+sig paa et elementært Standpunkt. Det antages
+alm., at G. ligesom Berøringselektriciteten
+skyldes Dannelsen af et elektrisk Dobbeltlag paa
+Grænsefladen mellem de to forsk. Legemer, der
+berører hinanden, saaledes at den positive Side
+af Dobbeltlaget ligger i det ene, den negative i
+det andet Legeme. Normalt vil der mellem de
+to Legemer, som Følge af Dobbeltlaget, være en
+konstant, rimeligvis ret lav Spændingsforskel,
+der kun afhænger af Legemernes Natur.
+Spændingsforskellen i det elektriske Dobbeltlag
+mellem Ledere indbyrdes, særlig mellem to forsk.
+koncentrerede Elektrolyter med samme Ioner,
+er ret nøje kendt (se <sp>galvaniske
+Elementers Teori</sp>). Derimod er Spændingsforskellen
+mellem Isolatorer indbyrdes ikke maalt, men
+at der findes et saadant Dobbeltlag, fremgaar
+bl. a. af den elektriske Endosmose (s. d.) og
+dermed beslægtede Fænomener. G.
+fremkommer nu, naar de to Legemer fjernes hurtigt
+fra hinanden, idet da hver af Legemerne vil
+medtage sin Halvdel af Dobbeltlaget. Men
+medens disse Ladninger før Adskillelsen laa tæt
+over for hinanden og derfor saa godt som
+neutraliserede hinandens Virkninger, vil de nu,
+naar de er fjernede fra hinanden, give de to
+Legemer en meget betydelig Spændingsforskel.
+Bet. af Gnidningen skulde efter dette nærmest
+være den at bringe de to Legemer i nær
+Berøring, hvorved Grænsefladen, hvorpaa
+Dobbeltlaget danner sig, bliver saa stor som mulig.
+Forklaringen forudsætter, at Ladningerne
+bliver siddende fast paa Overfladen ved
+Fjernelsen. Er Legemerne Ledere, vil dette ikke være
+Tilfældet, og derved formindskes i meget høj
+Grad de Ladninger, som de to Legemer vil
+beholde. Adskillelsen mellem to Legemer vil
+nemlig ikke foregaa nøjagtigt samtidigt paa alle
+Punkter af Berøringsfladen, men saaledes, at
+eet Berøringspunkt bliver det sidste, og
+igennem dette vil Ladningerne for største Delen
+udjævne sig. Deraf ser man, at det for
+Frembringelsen af G. er nødvendigt, at mindst eet

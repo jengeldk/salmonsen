@@ -1,0 +1,146 @@
+ufuldstændig I. mere ell. mindre sikker. Disse
+Forhold angaar Maaden, paa hvilken Udvalget
+er fremkommet, Maaden, paa hvilken
+Almensætningen dannes paa Grundlag af Udvalget,
+og selve Almensætningens Karakter. J. St. Mill
+har i sin Logik givet en herømt Undersøgelse
+af I.
+
+Ved <sp>matematisk I.</sp> forstaar man det
+Sagforhold, at en Egenskab, der tilkommer <i>O</i>,
+og som tilkommer det hele Tal <i>n</i> + <i>1</i>, hvis
+den tilkommer <i>n</i>, tilkommer alle endelige hele
+Tal. Sagforholdet indgaar i de endelige, hele
+Tals Definition og gælder ikke for uendelige
+Tal.
+<i>Edg. R.</i>
+</chapter>
+
+<chapter name="Induktion (Magnetisk Kraft)">
+<b>Induktion.</b> <sp>Magnetisk Kraft</sp>. For at
+naa til en Anskuelse af den for Fysik og
+Teknik lige vigtige fysiske Virkning, der gaar
+under Navnet I., udformede <sp>Maxwell</sp> paa
+Grundlag af <sp>Faraday</sp>'s Forsøg et
+Tankebillede, hvis Hovedtræk i det flg. skal gengives.
+
+Man begynder med et velkendt Fænomen,
+Indvirkningen af en Magnet paa en
+Kompasnaal, altsaa en anden, fri bevægelig, Magnet.
+Man anskuer denne Virkning ved at forestille
+sig, at der i og paa Magnet og Kompasnaal
+findes fordelt en Art Stof, <sp>Magnetisme</sp>, der
+forekommer i to Modifikationer,
+<sp>Nordmagnetisme</sp> og <sp>Sydmagnetisme</sp>.
+Nordmagnetismen findes i den ene Ende,
+Sydmagnetismen i den anden af Magnet og Naal. De to
+forsk. Arter af Magnetisme tiltrækker
+hinanden, hvorimod ensartede magnetiske
+Mængder frastøder hinanden. <sp>Coulomb</sp> har ved
+Forsøg bestemt den Lov, efter hvilken
+Mængder af Magnetisme virker paa hinanden. Hvis
+ensartede Mængder <i>m1</i> og <i>m2</i> er koncentrerede
+i to Punkter med Afstanden <i>r</i>, vil de frastøde
+hinanden med en Kraft, der er proportional
+med Mængderne og omvendt proportional med
+Kvadratet paa Afstanden <i>r</i>. Kraften kan altsaa
+gives ved Udtrykket
+
+1° <i>K</i> = <i>c1</i> · <i>m1</i> <i>m2</i>/<i>r</i><sup>2</sup>,
+hvor <i>c1</i> er en Konstant, der afhænger af de
+benyttede Enheder. Med samme Kraft
+tiltrækker to Mængder <i>m1</i> og <i>m2</i> af forsk. Art
+hinanden, naar de befinder sig i Afstanden <i>r</i> fra
+hinanden. Man kan vedtage at maale <i>r</i> i cm,
+Kraften <i>K</i> i den absolutte Kraftenhed <i>dyn</i>, og man
+kan fremdeles vælge at bruge en saadan
+Enhed for den magnetiske Mængde, at <i>c1</i> bliver
+lig 1. Den derved bestemte Enhed kaldes den
+absolutte Enhed for Magnetisme. Er der nu i
+et Punkt <i>A</i> af Rummet koncentreret en
+Mængde Magnetisme paa <i>m</i> absolutte Enheder, vil
+den paavirke en Enhed af Magnetisme anbragt
+i et andet Punkt <i>B</i> af Rummet med den
+mekaniske Kraft
+
+2° <i>H</i> = <i>m</i> · 1/<i>r</i><sup>2</sup> = m/<i>r</i><sup>2</sup>,
+naar <i>B</i> ligger <i>r</i> cm fra <i>A</i>. Man betegner <i>H</i> som
+<sp>den magnetiske Kraft</sp> i Punktet <i>B</i>
+hidrørende fra; Magnetismen <i>m</i> i A. Tænker
+man sig Mængderne <i>m1</i> <i>m2</i> — — — anbragt i
+Punkterne <i>A1</i> <i>A2</i> — — — vil de tilsammen virke
+paa en Enhed anbragt i Punktet <i>B</i> med en
+Kraft, der faas ved paa sædvanlig Maade at
+sammensætte Kræfterne hidrørende fra de
+enkelte magnetiske Mængder. Den resulterende
+Kraft er den magnetiske Kraft i <i>B</i> hidrørende
+fra Mængderne <i>m1</i> <i>m2</i> — - -. Den magnetiske
+Kraft i et Punkt af et Rum, der indeholder
+magnetiske Mængder, bestemmes altid paa den
+her antydede Maade, og den betyder altid som
+her den mekaniske Kraft, hvormed en Enhed
+af Magnetisme anbragt i Punktet paavirkes.
+For at undgaa Ubestemthed, hvad Retningen
+angaar, vedtager man, at Enheden, som skal
+tænkes anbragt i Punktet, skal være en Enhed
+af Nordmagnetisme. Med Valget af Enheden
+for magnetisk Mængde er ogsaa Enheden for
+magnetisk Kraft bestemt. Kraften er en absolut
+Enhed i et Punkt, hvor en absolut Enhed af
+Nordmagnetisme paavirkes med en Kraft paa
+et dyn.
+
+<sp>Elektrisk Strøm som Middel
+til Frembringelse af magnetiske
+Kræfter</sp>. <sp>Ørsted</sp> paaviste, at man ved
+Hjælp af en elektrisk Strøm kan frembringe
+magnetiske Kræfter. En Magnetnaal i
+Nærheden af en strømførende Leder slaar ud,
+ligesom den gør det i Nærheden af en Magnet.
+Man har fundet, at man kan regne sig til den
+magnetiske Virkning af en vilkaarlig
+strømførende Leder, naar man gaar ud fra, at en
+lille Længde <i>dl</i> af Lederen <i>L</i>, Fig. 1, som fører
+Strømmen <i>i</i>, virker i Punktet <i>A</i> med en
+magnetisk Kraft bestemt ved Udtrykket
+
+3° <i>dH</i> = <i>i dl sin θ</i> / <i>r</i><sup>2</sup>
+hvor <i>r</i> er Afstanden fra <i>dl</i> til <i>A</i>, og hvor θ er
+Vinklen mellem Retningen af Strømmen i —
+d. v. s. Retningen af <i>dl</i> — og Retningen af
+Linien ud til <i>A</i>. Udtrykket gaar under Navnet
+<sp>Biot</sp> og <sp>Savarts Lov</sp>. Strømmen skal
+ved Benyttelse af Udtrykket maales i den
+saakaldte elektromagnetiske Strømenhed. Bruges
+den praktiske Enhed Ampère, bliver Udtrykket
+
+3°' <i>dH</i> = 1/10 <i>i dl sin θ</i> / <i>r</i><sup>2</sup>.
+
+Den magnetiske Kraft <i>dH</i> i <i>A</i> staar vinkelret
+paa Planen, som man kan lægge gennem <i>dl</i> og
+<i>r</i>. Dens Retning kan bestemmes efter flg. Regel.
+Man lægger højre Haand langs <i>dl</i>, saaledes at
+Haandfladen vender mod <i>A</i>, og saaledes at
+Strømmen gaar i Retning af Langfingrene. Den
+magnetiske Kraft gaar da til samme Side som
+Tommelfingeren <footnote>Af Hensyn til en Anvendelse nedenfor maa det
+her bemærkes, at naar Strømmen i Lederstykket <i>dl</i>
+virker paa en Enhed af Magnetisme i Punktet <i>A</i> med
+en mekanisk Kraft givet ved 3° eller 3°', maa man
+heraf slutte, at den nævnte Enhed virker paa det
+strømførende Element <i>dl</i> med nøjagtig samme
+mekaniske Kraft, blot modsat rettet. Findes der i <i>A</i> <i>m</i>
+Enheder af Magnetisme, vil disse virke paa <i>dl</i> med en
+Kraft, der er <i>m</i> Gange saa stor, altsaa med en Kraft
+<i>K</i> = 1/10 <i>i dl · sin</i> θ · <i>m</i>/<i>r</i><sup>2</sup>.
+
+Nu er <i>m</i>/<i>r</i><sup>2</sup> = <i>H</i> den magnetiske Kraft, Mængden <i>m</i>
+af Magnetisme i <i>A</i> frembringer paa det Sted, hvor
+<i>dl</i> befinder sig. Kraften <i>K</i> kan derfor skrives
+K = 1/10 <i>i · H · dl · sin</i> θ,
+og dette Udtryk maa naturligvis altid gælde for
+Kraften, hvormed en strømførende Del <i>dl</i> af en Leder
+paavirkes, naar den befinder sig paa et Sted, hvor
+den magnetiske Kraft er <i>H</i>, ligegyldigt hvorfra <i>H</i>
+hidrører.</footnote>. Man kan give et Billede af den
+

@@ -1,0 +1,103 @@
+ændres hermed den magnetiske Strøm gennem
+<i>A2</i>, og der induceres følgelig i denne Leder en
+elektromotorisk Kraft. Af det hele Antal
+Induktionslinier, der skabes ved Strømmen i <i>A1</i>,
+og som altsaa omsluttes af <i>A1</i>, vil en vis Del
+ogsaa passere <i>A2</i>. <i>K12</i> viser en Induktionslinie
+af denne Kategori, medens <i>K1</i> viser en. der
+gaar uden om <i>A2</i>. Kun det Antal, der passerer
+<i>A2</i>, kommer naturligvis i Betragtning ved
+Bestemmelse af den elektromotoriske Kraft i <i>A2</i>.
+Kaldes den Del af Induktionsliniestrømmen, der
+passerer <i>A2</i>, for Φ12, følger af Biot og Savart's
+Lov, at
+18° (Φ12 = <i>k</i> · <i>i1</i>,
+naar <i>i1</i> betyder den elektriske Strøm i <i>A1</i>. Vi
+vil tænke os denne maalt i Ampère. Den
+elektromotoriske Kraft, der induceres i <i>A2</i>, og som
+hidrører fra Forandringen i Φ12, bliver altsaa
+iflg. 8°"
+19° <i>e2</i> = 10<sup>-8</sup> <i>d</i>Φ12/<i>dt</i> = 10<sup>-8</sup> <i>k</i> · <i>di1</i>/<i>dt</i> = <i>M</i> · <i>di1</i>/<i>dt</i>,
+naar man sætter <i>M</i> = 10<sup>-8</sup> <i>k</i>. <i>M</i> betyder, som
+man vil se, det Antal Induktionslinier, som ved
+en elektrisk Strøm paa 10<sup>-8</sup> Ampère i <i>A1</i> og
+Strømmen Nul i <i>A2</i> omsluttes saavel af <i>A1</i> som
+af <i>A2</i>. Man kan indse, at dette Antal nøjagtig
+er lig det, der omsluttes af baade <i>A1</i> og <i>A2</i>,
+naar der i <i>A2</i> flyder 10<sup>-8</sup> Ampère, medens <i>A1</i>
+er strømløs. <i>M</i> kaldes <sp>Koefficienten for
+den gensidige I.</sp> ell. blot den gensidige I.
+for de to Ledere <i>A1</i> og <i>A2</i>. Da <i>M</i> ligesom
+Selvinduktionen <i>L</i> ovenfor betyder Antallet af
+Induktionslinier svarende til en bestemt Strøm,
+maaler man naturligt <i>L</i> og <i>M</i> i samme Enhed.
+Ligningen 19° gælder, naar <i>e2</i> maales i Volt,
+<i>i1</i> i Ampère og <i>M</i> i Henry.
+
+Den gensidige I., ell. om man vil,
+Induktionsliniestrømmen, der kæder to Ledere sammen,
+udgør, som det ses, et Middel til Overføring
+af elektrisk Energi fra den ene af de to
+Ledere til den anden. Vi vil se lidt nærmere
+paa denne Overføring og betragter i den
+Anledning Fig. 13. Her bestaar de to Ledere <i>A1</i>
+og <i>A2</i> af to Spoler, hvoraf <i>A1</i> ligger inden i den
+anden. Herved opnaas en stor gensidig I.
+Sluttes Nøglen <i>N</i>, vil <i>B</i> begynde at sende elektrisk
+Strøm ind i <i>A1</i>. Herved skabes en opvoksende
+magnetisk Strøm, som for største Delen baade
+omslutter <i>A1</i> og <i>A2</i>. Der induceres en
+elektromotorisk Kraft i <i>A2</i>, og hvis <i>A2</i> er sluttet som
+antydet, giver denne elektromotoriske Kraft
+Anledning til en Strøm. Strømmen vil have en
+saadan Retning, at den søger at formindske den
+opvoksende magnetiske Strøm, der er skabt ved
+den elektriske Strøm fra <i>B</i>, altsaa at
+formindske den Energi, der er opmagasineret i
+den antydede magnetiske Strøm. Dette kan
+simpelthen opfattes saaledes, at Kredsen <i>A2</i>
+tapper den magnetiske Strøm, skabt af
+Strømkilden <i>B</i>, for Energi. Naar den magnetiske
+Induktionsliniestrøm formindskes ved Strømmen
+i <i>A2</i>, har det naturligvis den Indflydelse paa
+<i>A1</i>, at der i denne Spole induceres en mindre
+Modspænding. Strømmen fra <i>B</i> vokser derfor
+hurtigere i Vejret, end hvis Kredsen <i>A2</i> var
+aaben, saa ingen Strøm kunde opstaa. Og
+saaledes maa det naturligvis ogsaa være. Thi i en
+vis Tid maa B afgive mere Energi, d. v. s.
+stærkere Strøm, naar <i>A2</i> optager Energi, end
+naar den ikke gør det. Hvad der bliver af
+Energien i <i>A2</i>'s Kreds, er et Spørgsmaal for sig.
+Er <i>A2</i> simpelthen kortsluttet gennem en
+Modstand, bliver Energien til Varme i denne
+Modstand samt i <i>A2</i>'s Vikling. Man kunde
+imidlertid ogsaa tænke sig, at der i <i>A2</i>'s Kreds var
+indsat en Elektromotor, der forvandlede en
+Del af den overførte Energi til mek. Arbejde.
+
+Den antydede Overføring af Energi
+forudsætter en foranderlig Strøm i <i>A1</i>. Hvis <i>B</i> har en
+konstant Spænding <i>e0</i>, vil det ende med, at
+der i <i>A1</i> flyder en konstant Strøm
+<i>im</i> =<i>e</i><sub>0</sub>/<i>r</i>,
+hvor <i>r</i> er Modstanden i <i>A1</i>'s Kreds. Gennem
+Spolerne flyder da en konstant magnetisk
+Strøm, og fra denne kan Kredsen <i>A2</i> ikke
+tappe Energi. Vil man derfor fortsat overføre
+Energi, maa <i>B</i> være en Strømkilde, der giver
+en variabel Spænding. Hyppigst lader man i
+Praksis <i>B</i> være en Vekselstrømsmaskine, d. v.
+s. en Maskine, der leverer en Spænding og en
+Strøm, der varierer med Tiden paa den
+regelmæssige bølgeformede Maade, som Fig. 14
+antyder. Apparater til Overføring af Energien fra
+en Vekselstrømskreds til en anden ved gensidig
+I. kaldes <sp>Transformatorer</sp>, fordi
+Apparaterne samtidig med at overføre Energien
+gerne forandrer ell. transformerer den
+
+<img>Fig. 13.</img>
+
+<img>Fig. 14.</img>
+

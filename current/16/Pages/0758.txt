@@ -1,0 +1,132 @@
+Svingningstid er betinget af Fjederkraften og
+Uroens træge Masse og vil ændre sig, hvis
+denne ændrede sig. I det hele taget er et
+Logernes Masse — med de uvæsentlige Undtagelser,
+der senere vil blive omtalt — en Størrelse, som
+i Praksis kan betragtes som en absolut
+Konstant.
+
+I den tekniske Mekanik bruges en anden
+Masseenhed end den ovf. omtalte, idet man gaar
+ud, fra Længdeenheden 1 m, Tidsenheden 1 Sek.
+og Kraftenheden 1 kg. Den sidstnævnte
+Størrelse er den Kraft, hvormed Tyngden
+paavirker den ovf. definerede M, 1 kg, naar denne
+befinder sig paa 45° Br. Tænker vi os et
+Kilogramlod faldende frit ved 45° Br., er det
+paavirket af Kraften 1; det faar Faldaccelerationen
+9,806 m/sek.<sup>2</sup>; for at tilfredsstille
+Grundligningen: Kraft = Masse X Acceleration, maa man
+altsaa tillægge det en Masse lig 1/9,806. I det
+tekn. System har altsaa et Legeme Massen 1,
+naar det vejer 9,806 kg.
+
+<sp>Den alm. Massetiltrækning</sp>, <sp>M.'s
+Konstans</sp>. Vi har ovf. omtalt, at et Legemes
+M. er en Konstant uafhængig af Stedet. Selve
+den Tyngdekraft, som var Grundlaget for
+Massesammenligningen er iflg. den af Newton
+opdagede almindelige Tiltrækning en Egenskab,
+som er direkte knyttet til Legemernes M., idet
+to Massedele vil tiltrække hinanden med en
+Kraft, der er ligefrem proportional med
+Produktet af Masserne og omvendt proportional
+med Kvadratet paa deres indbyrdes Afstand.
+Proportionalitetsfaktoren har i det absolute
+Maalesystem Størrelsen 6,7 · 10<sup>—8</sup>, d. v. s.,
+med en Kraft paa saa mange Dyn vil 1 g
+tiltrække et andet g i Afstanden 1 cm. Imellem
+Masser af alm. Størrelse vil Tiltrækningen derfor
+være ganske forsvindende; at den kan bevirke
+Tyngdekraften paa Jorden og de meget store
+Kræfter, der skal til for at holde
+Himmellegemerne i deres Baner, beror naturligvis paa
+Jordens og Himmellegemernes uhyre M. Den
+ovf. omtalte Ændring i Tyngdekraften med
+Stedet paa Jordoverfladen forklares ved den
+alm. Tiltrækningslov som en Følge af Jordens
+Afvigelse fra Kugleformen i Forbindelse med
+Jordrotationens Indvirkning og skyldes altsaa
+ingen Ændring i Masseenhedens
+Tiltrækningsevne. Den nøjagtige Opfyldelse af Kvadratloven
+ved Planeternes Bevægelse omkr. Solen viser,
+at de to Egenskaber ved Stoffet: træg M. og
+tiltrækkende ell. tung M. er absolut parallele.
+
+Nøjagtige Forsøg har vist, at et Legemes M.
+ikke forandrer sig, naar Legemet undergaar
+Temperaturændringer ell. Tilstandsændringer,
+naar blot intet tages bort ell. føjes til det.
+Særlig vigtig er det, at ogsaa kem. Ændringer lader
+Legemernes M. uforandret, saaledes at to ell.
+fl. Stoffer, der indgaar en kem. Forbindelse,
+har samme Massesum før og efter
+Forbindelsen. Denne Sætning om <sp>M.'s Konstans</sp> er en
+af Grundpillerne i Kemien.
+
+<sp>M.'s Afhængighed af Hastigheden</sp>,
+<sp>M. og Energi</sp>. Ved de sidste Aartiers fysiske
+Forskning er Massebegrebet bleven uddybet i
+væsentlig Grad. Beg. hertil blev gjort ved den
+teoretiske Opdagelse af, at et elektrisk ladet
+Legeme har Inerti i Kraft af sin elektriske
+Ladning (J. J. Thomson 1881). Tænker vi os et
+ladet Legeme, der bevæger sig i et elektrisk
+Felt under Paavirkning af den elektrostatiske
+Feltkraft alene, saa vil det Arbejde, som det
+elektriske Felt udfører under Bevægelsen dels
+gaa til at frembringe alm. Bevægelsesenergi
+1/2 <i>mv</i><sup>2</sup> Erg, hvor <i>m</i> er Legemets M. i g, <i>v</i> dets
+Hastighed i cm/sek., men da Legemets
+bevægede elektriske Ladning repræsenterer en
+Strøm, vil Legemet som saadan tillige have en
+elektrokinetisk Energi, der ogsaa maa være
+frembragt ved Feltkraftens Arbejde. Den
+sidstnævnte Energiform har sit Sæde i det af
+Strømmen skabte Magnetfelt. Er Legemet en Kugle
+med Radius <i>r</i> cm og Ladningen <i>e</i> i
+elektrostatisk Maal, kan det teoretisk vises, at denne
+Energi er lig1/3 <i>e</i><sup>2</sup>/<i>rc</i><sup>2</sup> Erg, hvor <i>c</i> er Lysets
+Hastighed, 3 · 10<sup>10</sup> cm/sek. Det vil derfor være
+som om Legemets træge M. er bleven forøget
+med en Størrelse lig 2/3 <i>e</i><sup>2</sup>/<i>rc</i><sup>2</sup> g. For en Kugle
+af alm. Dimensioner vil denne Størrelse være
+forsvindende selv ved de største Ladninger,
+som vi er i Stand til at give den, men ved
+Opdagelsen af det negative Elektricitetsatom,
+Elektronen, fik man Kendskab til et Legeme, som
+i Forhold til sin ringe M. havde en meget
+betydelig Ladning, og det blev derfor straks
+formodet, at denne M. maatte, i hvert Fald delvis,
+skyldes dens Ladning. Denne Formodning
+bekræftedes, idet det viste sig, at Elektronens M.
+voksede med dens Hastighed, hvad der ud fra
+de elektriske Grundlove kan beregnes at være
+Tilfældet med den elektriske M. For at kunne
+gennemføre Masseberegningen for større
+Hastigheder maa man gøre Antagelser om
+Elektronens Form og dens Ladnings Fordeling. Fuld
+Tilslutning til Forsøgsresultaterne viste den
+Lorentz'ske Elektron, som i Hviletilstanden er
+en Kugle, men naar den er i Bevægelse er
+forkortet i Bevægelsesretningen i samme Forhold,
+som alle materielle Legemer vil være det iflg.
+Relativitetsteorien. Over for Kraftpaavirkning
+i Bevægelsens Retning vil Elektronen have en
+M., den saakaldte Længde-M., lig <i>m<sub>o</sub></i>/√(1—<sub>v</sub><sup>2</sup>/<i>c</i><sup>2</sup>)<sup>3</sup>; over
+for Kræfter, der virker vinkelret paa
+Bevægelsens Retning, vil dens M. — Tvær-M. —
+derimod være lig √1—<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup>, hvor <i>v</i> og <i>c</i> er henh.
+Elektronens Hastighed og Lysets Hastighed, og
+<i>m<sub>o</sub></i> er Elektronens M. i hvilende Tilstand.
+Elektronen viser altsaa to forsk. M., der dog for
+Hastigheder, der er smaa i Forhold til
+Lyshastigheden, meget nær er ens, men bliver
+meget forsk. og begge relativt meget store,
+naar Hastigheden nærmer sig Lyshastigheden.
+For de hurtigste Elektroner i de radioaktive
+Straaler har man maalt Hastigheder, som kun
+er 1 % mindre end Lyshastigheden. Tvær-M.
+af saadanne Elektroner er c. 7 Gange saa stor
+som deres M. ved smaa Hastigheder og
+Længde-M. er endog c. 350 Gange saa stor. Denne M.'s

@@ -1,0 +1,143 @@
+for Sagens praktiske Betydning er endnu
+mange Omstændigheder derved kun ufuldstændig
+opklarede. Størrelsen af V. paa en tynd Plade,
+som er opstillet vinkelret paa Vindretningen,
+antages almindelig proportional med Pladens
+Areal og Vindhastighedens Kvadrat; tidligere
+regnedes saaledes ofte Trykket i kg/m<sup>2</sup> lig 1/8 <i>v</i><sup>2</sup>
+hvor <i>v</i> betegner Hastigheden i m pr. Sekund;
+efter nyere Forsøg, navnlig af <sp>Stanton</sp> og
+<sp>Eiffel</sp>, sættes dog rigtigere 0,075 <i>v</i><sup>2</sup>. Den
+antagne Proportionalitet med Fladens Areal er
+heller ikke rigtig; af Maalinger, der anstilledes
+af Baker under Forth-Broens Bygning,
+fremgaar det saaledes, at Trykket paa en c. 28 m<sup>2</sup>
+stor Plade kun naaede op til c. 2/3 af
+Trykket paa en lille Plade mod 0,14 m<sup>2</sup> Areal, og
+man anser det nu i det hele som givet, at man
+ikke behøver at regne med saa stort et Tryk
+paa store som paa smaa Flader. I
+Almindelighed regnes 125—150 kg pr. m<sup>2</sup> for Tagværker,
+Skorstene o. l. Bygværker; for Broer, Taarne
+o. l. gaar man højere op, f. Eks. til 250—270 kg
+for ubelastet Bro. medens det for en fuldt
+belastet Bro er tilstrækkeligt med 150—170 kg,
+idet Færdselen ikke kan foregaa ved stort
+større V. Til Grund for disse Værdier ligger der
+dels direkte Dynamometermaalinger af
+Trykket, dels Hastighedsmaalinger, dels endelig
+Undersøgelser af saadanne Tilfælde, hvor V. har
+bevirket Omstyrtning af Bygværker, Væltning
+af Jernbanevogne o. s. v. I Danmark er den
+største maalte Vindhastighed 40 m/sek. (under
+Julestormen 26. Decbr 1902, ved Hammerens
+Fyr), hvortil ifølge Eiffel's Formel ovenfor
+svarer et V. paa 120 kg/m<sup>2</sup>. — Naar den
+trufne Flade er skraat stillet i Forhold til
+Vindretningen, varierer Trykket med Vinklen;
+men i hvilket Forhold Variationen foregaar,
+er endnu ikke fuldt opklaret. Den ældste (af
+Newton) angivne Formel stemmer i alt Fald
+ikke med de foreliggende Forsøg, navnlig for
+smaa Vinkler, og man har derfor opstillet
+forskellige empiriske Formler, der giver bedre
+Overensstemmelse, saaledes <sp>Hutton</sp>'s Formel
+(1788), tidligere almindelig anvendt i
+Nordamerika, <sp>Duchemin</sp>'s (1842), <sp>v. Lössl</sp>'s
+(1880), nu almindeligst i Tyskland, og
+<sp>Rayleigh & Gerlach</sp>'s (1885), der maaske
+giver den korrekteste Variation. Alle disse
+Formler og ligeledes de ovenfor nævnte Talværdier
+angiver den samlede Kraft, hvormed V. virker
+paa en Plade, men denne Kraft maa, som først
+forfægtet af <sp>H. C. Vogt</sp> (s. d.) og direkte
+eftervist ved Forsøg af <sp>J. Irminger</sp> (se
+»Ingeniøren«, 1894, S. 101) og senere flere andre
+(<sp>Alb. Smith</sp>, <sp>Eiffel</sp>), ikke opfattes som
+alene hidrørende fra Vindens Tryk paa
+Forsiden; en stor Del (mindst 45 % og ved smaa
+Indfaldsvinkler endog hele Kraften)
+frembringes ved Luftfortynding (Sugning) paa Læsiden.
+— Ogsaa det for V. udsatte Legemes <sp>Form</sp>
+spiller endelig en stor Rolle for Trykkets
+Størrelse; for en rund Skorsten regner man
+saaledes almindelig med en Vindflade, der er lig
+kun 2/3 af det lodrette Diametralsnit, og
+lignende Koefficienter har man dels ved
+Beregning med en af de ovenfor nævnte Formler
+som Udgangspunkt, dels ved Forsøg udledet for
+en Del andre hyppig forekommende Legemer.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Vindue">
+<b>Vindue.</b> I nordiske Oldtidshuse, hvor der
+var udelt Rum helt op under Taget, hed den
+Del, der omsluttedes af Tagfladerne, <sp>Vinden</sp>.
+Paa den søndre Side sad en Lysaabning:
+<sp>Vindøjet</sp>. Da Vind og Stue skiltes med et
+Gulv, blev Stuen mørk. Den havde vel altid haft
+smaa <sp>Glugger</sp> eller Kighuller lukkede med
+Skydelem eller Træpropper. Nu blev de første
+gjort større, og da Glasset kom i Brug, sattes
+en lille Rude ind i Lemmens Midte. I mange
+Sprog laantes til disse Aabninger det latinske
+Navn <i>fenestra</i> (det lysgivende), dog ikke i
+Dansk og Norsk, Plattysk og Engelsk. I
+Ufredens Tider var disse Aabninger et svagt Punkt
+under Angreb paa Huset. De var kun lukkede
+med en Hinde, og man undgik derfor at sætte
+dem i Ydervægge. Endnu har gamle
+Bondegaarde stundom alle V. vendt ind mod
+Gaardspladsen. Saaledes ogsaa i den antikke Tid og
+endnu i Østerland. Her tjente V. nok saa meget
+til at skaffe Luft som til at give Lys. Foruden
+Hensyn til Forsvar spillede Glassets Kostbarhed
+ogsaa en Rolle ved V.'s Størrelse, saa at man
+med en vis Ret kan sige, jo mindre V. i et
+Hus, jo ældre er det.
+
+Det var i Kirkerne, at de første Glasruder
+saas, fordi Glasmageriet efter Romerrigets
+Sammenbrud gik over til Kirkens Varetægt.
+Alexandria havde før Kejsertiden været Hovedsæde
+for Glasindustri, der i Ægypten var ældgammel.
+Der pustedes og støbtes Glas, og da de støbte
+Ruder fremkom i 17. Aarh. i Frankrig, var det
+kun et Genfund.
+
+Romerne havde Drivhuse med Glasruder. I
+Pompeji er fundet Vinduesrammer med
+Bronzesprosser og Forvridere til Ruder paa 60 cm,
+i South Darent (Kent), i Ruiner af en romersk
+Villa, Rester af smukt malede Ruder. Men den
+antikke Kunstflid maatte delvis genopfindes til
+Kirkens Brug. I 11. Aarhundrede var dette helt
+fuldbyrdet, og Theofilus, Presbyter og Munk,
+skrev sit berømte Værk om kirkelig Kunstflid,
+der er saa udtømmende og præcist, at det maa
+støtte sig til Erfaringer fra Romertiden.
+
+Kirken var længe ene om at have Glasruder.
+1195 forærede Ærkebiskop Absalon to
+<sp>glergluggar</sp> til Skalholt Kirke. De har været
+smaa og har vist siddet i selve
+Tømmerstokkene, saaledes som i Villlers Klosterkirke
+(Vogeserne), hvor Glasglugger sidder i den faste
+Mur uden Trærammer, eller indfattede i
+Stenplader, som i Vindueslysningerne træder i
+Stedet for Lemme af Træ.
+
+I Danmark er fra romansk Tid bevaret en i
+en lodret Planke udsavet Vinduesaabning fra
+Framlev Kirke, men ogsaa Levninger af
+Trærammer med brogede Glas fra andre Kirker.
+Om de middelalderlige Kirkeruder henvises i
+øvrigt til Artiklen <sp>Glasmaleri</sp>.
+
+Da Glas blev billigere og naaede uden for
+Borge og Kirker, faldt det ind under
+Massefabrikation. Blysprosserne blev trukne paa
+Maskiner, <sp>Vinder</sp>, de gamle krumlinede
+Mønstre lagdes af og erstattedes af Ruder [*] og
+Firkanter [*] samt deres Kombinationer.

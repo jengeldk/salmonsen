@@ -1,0 +1,143 @@
+Elektricitetsmængde, der frastøder en lige saa stor Mængde
+i 1 cm Afstand med en Kraft paa 1 Dyn. I det
+andet System er Udgangspunktet den elektriske
+Strøms magnetiske Virkninger, hvorved Enheder
+for <sp>Strømstyrke</sp> og Elektricitetsmængde
+defineres, idet Talkonstanten i Udtrykket for
+Biot og Savart's Lov sættes lig 1. Den
+absolutte elektromagnetiske Enhed for
+Strømstyrke bliver derved den Strøm, der, naar den
+gennemløber en cirkelformet Leder af Længde
+<i>l</i> og Radius <i>r</i> cm, i Cirklens Centrum
+<table>
+<td v2>frembringer en magnetisk Feltstyrke paa<td c><i>l</i><td v2>Gauss,
+<td c><i>r</i><sup>2</sup>
+</table>
+d. v. s. paavirker en Magnetpol med
+Magnetismemængden 1 (en »Enhedspol«) med en Kraft
+<table>
+<td v2>paa<td c><i>l</i><td v2>Dyn (Magnetismemængden i er defineret
+<td><i>r</i><sup>2</sup>
+</table>
+ved Coulomb's Lov som den Magnetismemængde,
+der frastøder en lige saa stor Mængde i 1 cm
+Afstand med en Kraft paa 1 Dyn). Har den
+cirkelformede Leder Radius 1 cm, bliver
+Feltstyrken i Centrum 2π Dyn. Den tilsvarende
+absolutte Enhed for Elektricitetsmængde er
+den Mængde, som Strømmen 1 transporterer pr
+Sek. gennem et Tværsnit af Lederen. Ingen af
+de absolutte e. M. har faaet særlige Navne. De
+to saaledes definerede Enheder for
+Elektricitetsmængde, den elektrostatiske og den
+elektromagnetiske, er ikke alene af meget forskellig
+Størrelse, men har ogsaa forsk. Dimension, d. v. s.
+afhænger paa forsk. Maade af Grundenhederne.
+Forholdet mellem deres Dimensioner bliver en
+Længde divideret med en Tid, altsaa af samme
+Dimension som en Hastighed; ved at maale een
+og samme Elektricitetsmængde i begge Enheder
+er fundet, at dette Forhold netop er lig det
+Tal, der angiver Lysets Hastighed i det tomme
+Rum (3 · 10<sup>10</sup> cm/sek.). Dette er ikke en
+Tilfældighed, men er udledt teoretisk af
+<sp>Maxwell</sp> i hans elektromagnetiske Lysteori, der er
+bekræftet ved <sp>Hertz</sp>'s Forsøg. - Resten af
+det elektrostatiske System omtales i
+<sp>Elektrostatik</sp>.
+
+Til de to andre Grundenheder i det
+elektromagnetiske System, nemlig Enheden for
+<sp>Spændingsforskel</sp> og for
+<sp>Ledningsmodstand</sp> kan man med overensstemmende
+Resultater komme ad fl. Veje. Den elektriske
+Strøms Arbejdsevne (Arbejdet pr Sek.) <i>A</i> er
+proportional med baade Strømstyrken <i>I</i> og
+Spændingsforskellen <i>E</i> mellem Endepunkterne af
+den Leder, der betragtes. Man skriver da
+<i>A</i>=<i>EI</i>, idet Proportionalitetsfaktoren sættes lig
+1; derved faas den absolutte elektromagnetiske
+Spændingsenhed bestemt som den
+Spændingsforskel, der hersker mellem Endepunkterne af
+en Ledning, hvori Strømmen 1 udfører Arbejdet
+1 Erg pr Sek. Af Ohm's Lov: <i>E</i>=<i>IR</i>, hvor <i>R</i> er
+Modstanden (se <sp>elektrisk
+Ledningsmodstand</sp>), og hvor igen
+Proportionalitetsfaktoren er sat lig 1, faas da Enheden for
+Modstand bestemt som den Modstand, en Ledning
+har, hvori Strømstyrken 1 frembringes af
+Spændingsforskellen 1 mellem Lederens Endepunkter.
+Naturligvis faar man ganske de samme Enheder
+ved at begynde med at udtrykke Strømmens
+Arbejdsevne ved Modstanden (<i>A</i>=<i>I</i><sup>2</sup><i>R</i>, Joule's
+Lov), hvorved Modstandsenheden bliver bestemt
+som Modstanden i en Ledning, hvori Strømmen
+1 udfører Arbejdet 1 Erg pr Sek., og derefter
+definere Spændingsenheden ved Ohm's Lov. -
+Men man kunde ogsaa begynde med at definere
+Enheden for Spændingsforskel ved
+Induktionsloven; dersom en retlinet Leder af Længde <i>l</i>
+cm bevæges med Hastigheden <i>v</i> cm/sek. i et
+konstant magnetisk Felt af Styrke <i>H</i> Gauss
+og i en Retning, der er vinkelret baade paa
+Feltretningen og Lederens egen Længderetning,
+induceres der i Lederen en elektromotorisk
+Kraft, d. v. s. en Spændingsforskel mellem dens
+Endepunkter, proportional med <i>lHv</i>. Sættes her
+atter Proportionalitetsfaktoren lig 1, altsaa
+<i>E</i>= <i>lHv</i>, bliver Enheden af Spænding bestemt
+som Spændingsforskellen mellem Endepunkterne
+af en 1 cm lang Ledning, der bevæges paa den
+omtalte Maade i et Felt af Styrke 1 Gauss med
+Hastigheden 1 cm/sek., altsaa saaledes at den
+overskærer 1 Kraftlinie (ell. rettere
+Induktionslinie) i Sek.; denne Spændingsenhed er identisk
+med den ovf. bestemte. Modstandsenheden faas
+da af Ohm's Lov som ovf.
+
+Af de tre nu definerede Grundenheder kan
+alle andre afledes. Disse skal dog ikke omtales
+nærmere for det absolutte Systems Vedk., da
+dette ikke egner sig til at anvendes i Praksis
+fordi Spændings- og Modstandsenheden er alt
+for smaa, saa at de alm. Spændinger og
+Modstande skulde udtrykkes ved upraktisk store
+Tal. Derimod bruges det i den teoretiske Fysik,
+da det er særlig bekvemt ved Beregninger, fordi
+alle Enheder er forbundne paa den simplest
+mulige Maade, saa at alle Proportionalitetsfaktorer
+bortfalder. For at faa e. M., der egnede sig til
+praktisk Brug, havde <i>British Association</i>
+foreslaaet at vælge passende Multipla af de
+absolutte Enheder, og denne Vej fulgte
+Kongressen 1881, da den fastslog det praktiske System
+af e. M. Ogsaa i Valget af Multipla fulgte den
+<i>British Association</i>. I det praktiske System blev
+derfor desværre ogsaa den absolutte Enhed
+for Strømstyrke, der nu vilde have haft en
+ret passende Størrelse, opgivet og erstattet af
+en 10 Gange mindre Enhed, som man kaldte
+en <sp>Ampère</sp> (international Betegnelse A). Til
+Modstandsenhed tog man en 1O<sup>9</sup> (1000 Mill.)
+Gange saa stor Enhed som den absolutte og
+kaldte den en <sp>Ohm</sp> (O ell. Ω, international
+Betegnelse endnu ikke fastslaaet). Da man ikke
+uden Nødvendighed vilde indføre Talkonstanter
+i Ohm's Lov, fulgte heraf, at man til
+Spændingsenhed maatte tage en, der er 10<sup>8</sup> Gange saa
+stor som den absolutte; den blev kaldt en
+<sp>Volt</sp> (V). Derved har man opnaaet, at en
+Spændingsforskel paa 1 Volt mellem
+Endepunkterne af en Leder, hvis Modstand er 1 Ohm,
+frembringer en Strøm i Lederen paa 1 Ampère.
+Med Strømstyrkeenheden er ogsaa den
+praktiske Enhed for Elektricitetsmængde bestemt som
+den Elektricitetsmængde, en Strøm paa 1
+Ampère transporterer gennem Lederen pr Sek.;
+den hedder en <sp>Coulomb</sp> (C) og kunde ogsaa
+betegnes som 1 Ampèresekund; hyppigere
+bruges 1 <sp>Ampèretime</sp> (Ah) = 3600 C.
+
+Selv om man saaledes har faaet e. M., hvis
+Størrelse passer for Praksis, kan man ikke blive
+

@@ -1,0 +1,165 @@
+<sp>Ribbert</sp>, »Das Karzinom des Menschen« [1911];
+<sp>R. Virchow</sp>, »Die krankhaften Geschwülste«
+[1863]; <sp>W. Roger Williams</sp>, <i>The natural
+History of Cancer</i> [London 1908]; <sp>J. Wolff</sp>
+»Die Lehre von der Krebskrankheit« [Jena
+1907—1914]; »Zeitschrift f. Krebsforschung« I—XVIII
+[1904—22]; <sp>G. Roussy</sp> et <sp>M. Wolf</sp>, <i>Le
+Cancer. Nouveau Traité de Médecine Fasc. V</i>
+[Paris 1922]).
+<i>Johs. F.</i>
+</chapter>
+
+<chapter name="Kræft (i Plantepatologien)">
+<b>Kræft</b> betegner i Plantepatologien visse
+Sygdomsfænomener hos træagtige Planter. K.
+viser sig som lokale, stadig voksende
+Hypertrofier af Stammer og Grene, der danner mere ell.
+mindre regelmæssige Knuder og Svulster;
+meget ofte sprænges Barken paa den ene Side af
+Hypertrofien; det herved opstaaede
+»Kræftsaar« vokser i Omfang og faar i Alm. Form
+af en oval Fordybning, i hvis Midte der findes
+Levninger af en vissen Gren, omkr. hvilken
+den nu blottede, mørkfarvede Vedmasse viser
+koncentriske Ringe; Saarets Rand er tyk og
+ofte uregelmæssig spaltet. K. optræder hos
+mange Træer og anretter betydelig Skade, især
+paa Bøg, Ask, Lærk, Æbletræ, Ædelgran o. a.
+K. kan have vidt forsk. Aarsager (Frost,
+Angreb af Bakterier ell. Snyltesvampe). Se
+<sp>Frostkræft</sp>, <i>Dasyscypha</i> (Lærkekræft) og
+<sp>Nectria</sp>.
+<i>F. K. R.</i>
+</chapter>
+
+<chapter name="Kræfternes Parallelogram">
+<b>Kræfternes Parallelogram</b> (og
+<sp>Polygon</sp>), se <sp>Kræfters Sammensætning</sp>.
+</chapter>
+
+<chapter name="Kræfters Sammensætning">
+<b>Kræfters Sammensætning.</b> Et Antal
+Kræfter, der virker paa et Legeme i samme
+Punkt <i>O</i> (Fig. 1), kan man afbilde ved ud
+fra Punktet at afsætte de rette Linier <i>A</i>, <i>B</i>, <i>C</i>
+... i Kræfternes Retninger og med Længder,
+der er proportionale med Kræfternes
+Størrelser. For at finde den samlede Virkning af disse
+Kræfter afsætter man ud fra Endepunktet <i>A</i>
+Linien <i>B</i><sub>1</sub> lig og parallel med <i>B</i>, fra
+Endepunktet af <i>B</i><sub>1</sub> <i>C</i><sub>1</sub> lig og parallel med <i>C</i> o. s. v.,
+til man har faaet alle Kræfterne med. Linien
+<i>R</i> fra <i>O</i> til Endepunktet af den sidst afsatte
+Kraft forestiller da baade i Størrelse og
+Retning den geometriske Sum (»Resultanten«) af
+alle Kræfterne ɔ: en Kraft, der har samme
+Virkning paa Legemet som alle de givne
+Kræfter tilsammen. Denne Regel er rigtig, ogsaa
+naar Kræfterne ikke ligger i samme Plan, og
+det er ligegyldigt, i hvilken Orden man tager
+dem. Det sidste ses for to Kræfter af Fig. 2,
+der forestiller et <sp>Kræfternes
+Parallelogram</sp>, hvori Resultanten <i>R</i> lige saa vel er
+dannet ved Addition af <i>B</i><sub>1</sub> = <i>B</i> til <i>A</i> som ved
+Addition af <i>A</i><sub>1</sub> = <i>A</i> til <i>B</i>. I Fig. 1 kaldes
+den brudte Linie <i>A</i> <i>B</i><sub>1</sub> <i>C</i><sub>1</sub> for <sp>Kræfternes
+Polygon</sp>. Hvis den lukker sig ɔ: hvis den
+sidst afsatte Kraft ender i Udgangspunktet <i>O</i>,
+bliver Resultanten lig Nul, og Kræfterne
+holder hinanden i Ligevægt. Virker Kræfterne
+ikke i samme Punkt, men ligger i samme Plan,
+vil man sædvanlig kunne sammensætte dem
+efter flg. Regel: Man forskyder de to Kræfter
+<i>A</i> og <i>B</i> i deres eget Spor, til de faar deres
+Skæringspunkt til fælles Angrebspunkt, og
+derpaa sammensættes de til Resultanten <i>R</i><sub>1</sub>.
+Denne sættes paa lgn. Maade sammen med <i>C</i> til
+<i>R</i><sub>2</sub>, denne med en flg. Kraft til <i>R</i><sub>3</sub> o. s. v.,
+til alle Kræfterne er anvendte. Den sidste
+Resultant, man faar, er Resultanten af alle
+Kræfterne. Konstruktionen lader sig dog ikke
+udføre for parallelle Kræfter. Saadanne har
+alligevel en Resultant, lig deres geometriske
+Sum, der her er det samme som den
+algebraiske Sum (se <sp>Addition</sp>). Om dens
+Angrebspunkt, se <sp>Tyngdepunkt</sp> og <sp>Vægtstang</sp>.
+Undertiden kan det ved Sammensætning af
+Kræfter ske, at den sidste Kraft er lig og
+modsat Resultanten af alle de andre. Hvis de to
+Kræfter ligger i samme rette Linie, danner
+Kræfterne et System i Ligevægt; i modsat Fald kan
+de to modsat rettede, parallelle Kræfter ikke
+sammensættes til en enkelt Resultant; de
+danner et »Kraftpar« (en »Svingkraft«), hvis
+Virkning alene er bestemt ved Retningen af det
+Plan, hvori Kræfterne ligger, samt ved
+Produktet af den ene Kraft og Kræfternes
+indbyrdes Afstand. Dette Produkt kaldes
+Kraftparrets Moment. Et Kraftpar kan ikke meddele
+noget Legeme en fremadskridende Bevægelse,
+men kun frembringe Drejning om en Akse.
+Kræfter, der hverken har fælles Angrebspunkt,
+ligger i samme Plan ell. er parallelle, kan som
+Regel ikke erstattes ved en enkelt Kraft, men
+det kan bevises, at de i alle Tilfælde kan
+erstattes af en enkelt Kraft plus et Kraftpar.
+Den ene af disse ell. begge kan i specielle
+Tilfælde have Værdien Nul.
+
+Ligesom man kan sammensætte fl. Kræfter
+til en enkelt Kraft, kan man ogsaa opløse en
+Kraft i fl. ɔ: ombytte den med et Sæt
+Kræfter, der har den givne Kraft til Resultant.
+Men medens den første Opgave kun har een
+Løsning, kan den sidste løses paa et
+ubegrænset Antal Maader, naar ikke særlige
+Betingelser er stillede, f. Eks. at Kraften skal opløses
+i to, der har givne Retninger. Fig. 1 og 2 kan
+ogsaa forestille Opløsning af Kraften <i>R</i> i dens
+»Komposanter«.
+<i>K. S. K.</i>
+
+<img>Fig. 1.
+Kræfternes Polygon.</img>
+
+<img>Fig. 2.
+Kræfternes Parallelogram.</img>
+</chapter>
+
+<chapter name="Kræftkakeksi">
+<b>Kræftkakeksi</b> (gr.), se <sp>Kræft</sp>.
+</chapter>
+
+<chapter name="Kræge">
+<b>Kræge,</b> se <sp>Prunus</sp>.
+</chapter>
+
+<chapter name="Krægerust">
+<b>Krægerust,</b> se <sp>Puccinia</sp>.
+</chapter>
+
+<chapter name="Krækkebær">
+<b>Krækkebær,</b> se <sp>Rævling</sp>.
+</chapter>
+
+<chapter name="Krækling">
+<b>Krækling,</b> se <sp>Rævling</sp>.
+</chapter>
+
+<chapter name="Kræklingfamilien">
+<b>Kræklingfamilien,</b> se
+<sp>Rævlingfamilien</sp>.
+</chapter>
+
+<chapter name="Kræm">
+<b>Kræm.</b> Til K. røres Æggeblommehvide
+med Sukker, hvorefter der tilsættes Fløde ell.
+Mælk; K. sættes over Ilden og omrøres, indtil
+den bliver tyk.
+<i>R. H.</i>
+</chapter>
+
+<chapter name="Kræmer, Anders Robert v.">
+<b>Kræmer,</b> <sp>Anders Robert v.</sp>, sv. Forf.
+(1825—1903). Efter at have taget Kanslieksamen

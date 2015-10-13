@@ -1,0 +1,157 @@
+ejendommelige Bevægelse giver sig til Kende i Spektret,
+ved at dets Linier periodisk forskydes. 1888-
+91 fandt Vogel og Scheiner i Spektret af den
+foranderlige Stjerne Algol under de forsk. Faser af
+dens Lysveksling, at Linierne sammenholdt med
+et paa samme Plade optaget Vandstof-Spektrum
+nogen Tid <sp>før</sp> Minimum af Lysstyrken var
+forskudt mod den <sp>røde</sp> Side af Spektret,
+svarende til Bevægelse fra Iagttageren (korrektere
+fra Solen), medens det omvendte var
+Tilfældet <sp>efter</sp> Minimum. Dette kunde kun
+forklares ved at betragte Algol som en D., hvis ene
+Komponent var saa svag, at dens Spektrum
+ikke kom frem paa den fotografiske Plade.
+Samtidig hermed fandt Pickering, at der i Spektret
+af Mizar (ζ <i>Ursæ majoris</i>) undertiden optraadte
+Dobbeltlinier; Spektret af begge dens
+Komponenter, hørende til samme Type, kom altsaa frem
+paa den fotografiske Plade, forskudte til hver
+sin Kant. Ved en hel Del andre Stjerner har
+man fundet en lgn. periodisk Forskydning af
+Spektrallinierne. Har man tilstrækkeligt
+Materiale til af Linieforskydningerne at udlede den
+<sp>største</sp> Bevægelse i Synsliniens Retning
+saavel fra som mod Solen, kan man foruden
+Omløbstiden, der fremgaar umiddelbart af
+Observationerne, udlede enkelte andre
+Baneelementer. Men ikke alle Elementer kan man beregne,
+saaledes ikke Længden af Knuden, Inklinationen
+og den halve store Akse, da man ikke kan
+maale Bevægelsen selv, men kun dens
+Projektion paa Synsliniens Retning. Projektionen af
+den halve store Akse paa Visionsradien faar
+man imidlertid i lineært Maal (km).
+
+I det hele kender man nu over 500
+spektroskopiske D., og har beregnet Banen for over 100, og
+ved denne Beregning benytter man almindeligst
+den af Lehmann-Filhés givne Metode; ved Siden
+af denne har man fl. andre Beregningsmaader.
+Ved de fleste Baner har man fundet en ren
+elliptisk Bevægelse, men man har ogsaa stødt
+paa Tilfælde, hvor man er nødt til at antage,
+at der til samme System hører endnu en
+Klode, som virker perturberende paa den
+elliptiske Banebevægelse, men muligvis kan der være
+andre Faktorer, som Forandringer i Trykket,
+der kan virke influerende paa Beliggenheden af
+Spektrallinierne. Massen for de spektroskopiske
+D. lader sig ikke beregne af Radialhastigheden
+alene. Men er Bevægelsen af hver af
+Komponenterne kendt i Forhold til Tyngdepunktet,
+kan man udlede Forholdet mellem Masserne af
+begge Komponenter. Man har fundet, at
+Heliumstjernerne (Klasse B) har gennemsnitlig større
+Masse end de øvrige. Massen af V. Puppis er
+den største, som hidtil overhovedet er fundet
+med nogen Sikkerhed. Minimalværdien af den
+samlede Masse er 34 Gange Solens.
+Omløbstiden hos de spektroskopiske D. varierer inden
+vide Grænser, fra 0,19 Dag (β Cephei) til 6
+Aar (α Orionis), og denne sidste er endog
+længere end den korteste (5,7 Aar), man har
+fundet hos de visuelle D. Ved ε Hydræ, hvis
+Omløbstid er 15,3 Aar, er Banen blevet bestemt
+saavel af mikrometriske Maalinger som af
+spektrografiske Observationer. Man kan derfor ikke
+udtale, at der er en skarp Grænse mellem
+spektroskopiske (Campbell mener, at mindst
+hver 3. Stjerne er en spektroskopisk D.) og
+visuelle D. Snarere danner de en <sp>egen</sp> Klasse
+af Himmellegemer, som muligvis opr. har
+været enkelte Kloder, men er blevne delte, hvorved
+de fra først af tæt staaende Komponenter
+samtidig med en Forøgelse af Banens Excentricitet
+ogsaa har faaet større Omløbstid. Og i den
+spektrale Udvikling har de spektroskopiske D.
+af en mere fremskreden Spektralklasse en større
+Bane og længere Periode end de, som hører til
+en yngre Spektralklasse. (<sp>Litt</sp>.: <sp>Burnham</sp>,
+<i>A general catalogue of double stars within
+121° of the North Pole</i> [Washington 1906];
+<sp>Innes</sp>, <i>Reference catalogue of southern double
+stars</i> [Edinburgh 1899]; <sp>Campbell</sp>, <i>First and
+second catalogue of spectroscopic binaries</i>
+[Berkeley 1905-10]; <sp>Samme</sp>, <i>Stellar motions</i>
+[Newhaven 1913}).
+<i>J. Fr. S.</i></chapter>
+
+<chapter name="Dobbeltstrygning">
+<b>Dobbeltstrygning,</b> en Magnetiseringsmetode,
+der udføres saaledes: Paa Midten af den
+Staalstang, der skal magnetiseres, sættes Nordpolen
+af en Magnetstang og Sydpolen af en anden.
+De to Poler trækkes derpaa samtidig hen hver
+til sin Ende af Stangen, løftes op, sættes igen
+ned paa Midten, og Strygningen gentages
+saaledes et passende Antal Gange. Stangen faar
+Nordpol i den Ende, hvor Strygemagnetens
+Sydpol forlader den, og omvendt.
+<i>K. S. K.</i></chapter>
+
+<chapter name=”Dobbeltstrømtelegrafering”>
+<b>Dobbeltstrømtelegrafering,</b> se <sp>Telegraf</sp>.</chapter>
+
+<chapter name=”Dobbeltsuger”>
+<b>Dobbeltsuger,</b> se <sp>Gobiesocidae</sp>.</chapter>
+
+<chapter name=”Dobbeltsyn”>
+<b>Dobbeltsyn,</b> se <sp>Diplopi</sp>.</chapter>
+
+<chapter name=”Dobbelttangent”>
+<b>Dobbelttangent</b> (<sp>mat</sp>.) til en Kurve er en
+Linie, der er Tangent til
+Kurven i to forskellige
+Punkter (se Figur.).
+<i>Chr. C.</i>
+
+<img></img></chapter>
+
+<chapter name=”Dobbelt-T-Anker”>
+<b>Dobbelt-T-Anker,</b> se <sp>Dynamo</sp>.</chapter>
+
+<chapter name=”Dobbelt-T-Jern”>
+<b>Dobbelt-T-Jern,</b> ogsaa kaldet I-Jern, er
+en Slags valset Profiljern, der anvendes som
+Bjælke. Tværsnittet er I, hvoraf Navnet; de
+vandrette Flige kaldes <sp>Flangerne</sp> (Hoved
+og Fod), den lodrette Ribbe <sp>Kroppen</sp>. Det
+leveres nu som Normalprofil (tysk, eng. o. s. v.),
+valset i alm. Profil-Valseværk, i Alm. temmelig
+smalflanget, med indtil 60 cm (24" eng.) Højde
+og i alt Fald op til c. 20 m Længde, og
+desuden i en særlig bredflanget Form, valset i et
+specielt Universalvalseværk (angivet af
+Amerikaneren <sp>Henry Grey</sp> [1902]), med indtil 100
+cm Højde. Disse bredflangede Profiler valsedes
+indtil for et Par Aar siden i Europa kun i
+<sp>Differdingen</sp> (Luxembourg), nu ogsaa i
+Værket <sp>Thyssen</sp> i Hagendingen, og de
+benævnes derfor alm. <sp>bredflangede
+Differdinger-Profiler</sp> (ell. Grey-Bjælker).
+For nylig er man begyndt at fremstille to forsk.
+Profil-Rækker, <sp>Differdinger-B-Profiler</sp>
+(de opr.) og <sp>Differdinger-Bx-Profiler</sp>
+(med noget tyndere Krop).
+<i>A. O-d.</i></chapter>
+
+<chapter name=”Dobbelttrille”>
+<b>Dobbelttrille,</b> en Trille, der udføres samtidig
+paa to Toner, ell. rettere to samtidig udførte
+Triller:<img></img>
+<i>S. L.</i></chapter>
+
+<chapter name="Dobbeltvitriol">
+<b>Dobbeltvitriol,</b> d. s. s. <sp>Admontervitriol</sp>.</chapter>
+

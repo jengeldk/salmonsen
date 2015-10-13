@@ -1,0 +1,24 @@
+<img></img>
+
+<table>
+<td r>21.<td>Nederlandene: Oranie-Nassau-Orden.
+<td r>22.<td>Norge: St Olafs-Orden.
+<td r>23.<td>Pavestolen: St Silvesler-Orden.
+<td r>24.<td>Polen: Polonia restituta-Orden,
+<td r>25.<td>„ : Virtuti militari.
+<td r>26.<td>Portugal: Christus-Orden.
+<td r>27.<td>Rumænien: Krone-Orden.
+<td r>28.<td>Serbien: St Sava-Orden.
+<td r>29.<td>Siam : Hvide Elefant-Orden.
+<td r>30.<td>„ : Krone-Orden.
+<td r>31.<td>Spanien: Carl III's Orden.
+<td r>32.<td>„ : Isabella d. Katolskes-Orden.
+<td r>33.<td>Storbritannien: Hosebaands-Orden.
+<td r>34.<td>„ : Victoria-Orden.
+<td r>35.<td>Sverige: Serafimer-Orden.
+<td r>36.<td>Sverige: Nordstjerne-Orden.
+<td r>37.<td>„ : Sværd-Orden.
+<td r>38.<td>„ Vasa-Orden.
+<td r>39.<td>„ : Carl XIII's Orden.
+<td r>40.<td>Tyrkiet: Osmannié-Orden.
+</table>

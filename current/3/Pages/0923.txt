@@ -1,0 +1,100 @@
+forsk. Bredde, det saakaldte Type- ell.
+Mærkehjul. Brandalarmen er saaledes i Virkeligheden
+kun en Telegrafnøgle, der automatisk kan
+telegrafere et bestemt Signal til Brandvagten. For
+at alarmere kræves kun Igangsætning af
+Løbeværket, hvilket sker ved en simpel Handling
+som Træk i et Haandtag, Drejning af et
+Haandgreb, Tryk paa en Knap o. l.
+
+I Boston oprettedes ligeledes 1852 efter Dr.
+Channing's Forslag et B.-Anlæg med 50
+Brandalarmer, der adskilte sig fra Siemens' Alarm
+ved, at Typehjulet ikke omdrejedes automatisk
+af et Løbeværk, men af Anmelderen selv ved
+Drejning af et Haandsving. De stod derfor i
+konstruktiv Henseende langt tilbage for Siemens'
+Alarm, idet for hurtig ell. for langsom ell. ujævn
+Drejning af Typehjulet let kunde medføre uklar
+ell. forvansket Gengivelse af Brandalarmsignalet
+paa Stationens Modtagerapparat.
+
+I Kbhvn anlagdes den første B. 1860 og
+bestod af to med Siemens' Visertelegrafapparater
+forsynede Linier mellem Hovedbrandvagten og
+henh. de nærmere og de fjernere liggende
+Brandvagter. Senere oprettedes enkelte
+særlige Meldestationer, bl. a. i et Ledvogterskur
+paa Østerbros Triangel, der ved Ringeledninger
+var i Forbindelse med Hovedbrandvagten, men
+først 1881 paabegyndtes Opstillingen af
+offentlige Brandalarmer.
+
+Siemens' Brandalarm aabnede Vejen for
+B.'s videre Udbredelse. Fra den først anvendte
+sparsomme Anbringelse af Brandalarmer inde
+i saadanne Lokaler, der som Apoteker, Hoteller
+o. l. ogsaa om Natten er nogenlunde let
+tilgængelige, er man for at opnaa hurtigst mulig
+Alarmering af Brandvæsenet efterhaanden
+gaaet over til udelukkende at anbringe de til
+Offentlighedens Brug bestemte Brandalarmer paa
+Gaderne i indbyrdes Afstande af 3—400 m,
+enten indbyggede i selvstændige Opstandere, se
+Fig. 2, der viser den i Kbhvn benyttede nyere
+Type, ell. anbragte paa Lygtestandere og
+Telegrafstænger ell. paa Husenes Facader. Den Del
+af Brandalarmens Udløsemekanisme, der skal
+betjenes af Publikum, anbringes som Regel i
+Alarmens Dør inden for en tynd Glasrude;
+Betjeningsforskriften lyder derfor saaledes:
+Slaa Ruden ind, Tryk paa Knappen (ell. ved
+andre Typer: Løft Grebet, Drej Grebet, Træk i
+Haandtaget o. l.), Vent paa Sprøjterne.
+Gamewell Co. i New York anvender dog i en i
+Amerika meget udbredt Type (se Fig. 3) som
+Udløsemekanisme et
+fremspringende, ubeskyttet
+Haandgreb, der skal drejes c.
+120°. For at modvirke falske
+Alarmeringer indbygges ofte i
+Alarmerne et mekanisk Klokkeværk, der
+sættes i Virksomhed ved
+Alarmeringen. Ved en af
+Gamewell Co.'s Konstruktioner
+springer den forreste Dør op, naar
+Haandgrebet, der igangsætter
+Klokkeværket, er drejet en vis Vinkel, og
+giver først derved Adgang til det egl.
+Alarmeringshaandgreb. Selve Alarmværkerne, der
+maa indkapsles omhyggeligt for at beskytte dem
+mod Fugtighed og Støv, konstrueres som
+omtalt vedblivende efter Siemens' Princip, og
+Forskellighederne findes kun i
+Detailkonstruktionerne af Løbeværk og Kontaktanordning med
+Typehjul. Løbeværket drives ved et Vægtlod ell.
+ved Fjederkraft og som Regel saaledes, at det
+af Brandvæsenet holdes i optrukket Stand, saa
+at der ved Alarmeringen — Trykket paa
+Knappen — kun finder en Udløsning af Løbeværkets
+Spærremekanisme Sted. Kontaktanordningen
+bestaar f. Eks. af en Slæbefjeder, der under
+Typehjulets Omdrejning glider hen over dettes
+Tænder og Tandmellemrum, og Fjederens
+Bevægelse er saaledes begrænset ved Anslag, at
+Strømmen afbrydes, naar Fjederens Kontakt
+mod Typehjulet passerer et Tandmellemrum.
+Nogle Former af Typehjul og
+Kontaktanordninger er viste paa Fig. 4—9, af hvilke Fig. 4—7
+viser forsk. Udførelser fra Siemens & Halske og
+Fig. 8 og 9 Udførelser fra Gamewell Co.
+Typehjulene i Fig. 4 og 5 frembringer begge
+Morse-tegnet —··— paa Brandvagtens
+
+<img>Fig. 2. Nyere Brandalarm. Kbhvn.</img>
+
+<img>Fig. 3. Gamewell Co.'s
+Brandalarm med udvendigt
+Haandgreb.</img>
+
+<img>Fig. 4—9. Typehjul med Kontaktanordninger.</img>

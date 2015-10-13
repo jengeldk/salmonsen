@@ -1,0 +1,124 @@
+Elektroner. Det viser sig, at Linierne kan ikke
+fremkaldes enkeltvis, enten kommer der ikke
+en eneste af K-Linierne, ell. ogsaa kommer de
+alle. Først naar de indfaldende Elektroner har
+Energi nok til at fremkalde den haardeste af
+Linierne i Gruppen, kommer hele Gruppen, men
+saa kommer ogsaa altid hele Gruppen og altid
+med det samme indbyrdes Intensitetsforhold,
+selv om de fremkaldende Elektroner har meget
+stærkere Fart. Den Styrke, hvormed hele
+Liniegruppen fremkommer, afhænger af, hvor meget
+Spændingen V paa Røret overskrider den
+Tærskelspænding V0, der netop giver Elektronerne
+den nødvendige Fart; Intensiteten er omtr.
+proportional med (V—V0)<sup>3/2</sup>. For L-, M- o. s. v.
+Gruppernes Fremkomst gælder lign.
+Betingelser, kun er disse Grupper ikke Helheder, men
+falder i flere Undergrupper, L-Gruppen
+saaledes i 3. Naar en Elektron har Fart nok til at
+fremkalde den haardeste Linie i den første
+(blødeste) af disse Undergrupper, kommer hele
+denne Undergruppe; faar Elektronen saa megen
+Fart, at den kan fremkalde den haardeste Linie
+i den næste Undergruppe, kommer ogsaa hele
+denne Undergruppe, men den første
+Undergruppe bliver ved med ogsaa at komme; faar
+endelig Elektronen Fart nok til at fremkalde
+den haardeste Linie i 3. Liniegruppe, kommer
+ogsaa hele denne Undergruppe med, saa at
+hele L-spektret er fuldt uddannet. Ganske
+tilsvarende er Forholdet for M-linierne, hvor der
+er 5 Undergrupper. — Den første, der har
+optaget R.-spektre og derved aabnet hele dette
+Omraade for Forskning, er Moseley (1913); den
+videre Udvikling af Kendskabet dertil skyldes
+mest Siegbahn og hans Elever. Slægtskabet
+mellem de forsk. Grundstoffers Spektre kommer
+endnu tydeligere frem end i Fig. 10, naar man
+afbilder kvadratrod(v) for en bestemt Linie i hver Gruppe
+som Funktion af Atomnummeret, idet man da
+faar meget nær en ret Linie. (Sammenlign Fig.
+1 i <sp>periodiske System</sp>, hvor Kurverne
+er tegnet for de to stærkeste K-linier, og
+hosstaaende Fig. 11, hvor de punkterede Linier
+giver Forløbet for den stærkeste Linie i hver
+Gruppe.) Vilde man i Stedet tage Atomvægten
+som Abscisse (afsat foroven i Fig.), faas de
+optrukne uregelmæssige Linier, der viser, at det
+ikke er Atomvægten, men Atomnummeret, der
+er afgørende. Dette regelmæssige Forløb har
+tilladt at afgøre med Sikkerhed, hvor mange
+endnu ukendte Grundstoffer der findes, ligesom
+man kan forudberegne disse manglende Stoffers
+R.-spektre og saaledes straks identificere dem,
+hvis de findes. Paa denne Maade er f. Eks.
+Stoffet Nr. 72 Hafnium opdaget. —
+Forklaringen af alle Forhold vedrørende de
+karakteristiske R. vindes let ud fra Bohr's Forestillinger
+om Atomets Bygning. Grundtanken i Bohr's
+Anskuelser om Liniespektrenes Opstaaen er, at
+hver Linie udsendes ved, at en Elektron
+springer fra en af de mulige Baner i Atomet til en
+anden, eller at Atomet gaar over fra en af de
+mulige stationære Tilstande til en anden. Den
+Energimængde, der derved bliver fri, nemlig
+Forskellen mellem Atomets Energi E1 og E2 i
+de to Tilstande, udsendes som Straaling af en
+bestemt Bølgebredde, bestemt ved
+Kvantebetingelsen hv = E1—E2. De haardeste R. maa
+komme fra de allerinderste Elektroner i
+Atomet, thi kun disse er bundne saa stærkt, at der
+ved deres Overgange fra en til en anden mulig
+Bane bliver Energi nok fri til at give de meget
+store Kvanter, der svarer til de meget korte
+Bølgebredder. Desuden viser det nære
+Slægtskab mellem de forsk. Stoffers R.-spektre hen
+til, at det er de indre Elektroner, der er
+virksomme, fordi Atomets inderste Del er ens fra
+Stof til Stof, bortset fra at Kernens Ladning
+stiger en for hvert Nr. i det periodiske System.
+Derimod er de kem. Egenskaber og f. Eks. de
+optiske Spektre, der varierer periodisk paa
+bestemt Maade op gennem det periodiske
+System, knyttet til de yderste Elektroner, i hvis
+Opbygning der ogsaa er en vis Periodicitet.
+
+Et Atom bestaar af en Kerne, hvis Ladning er
+lige saa mange Elementarkvanter af positiv
+Elektricitet, som Atomets Nr. angiver, og
+derudenom lige saa mange Elektroner, saa at
+Atomet bliver elektrisk neutralt. Disse
+Elektroner falder (sammenlign <sp>Kvanteteori</sp> og
+<sp>periodisk System</sp>) i adskilte Grupper,
+efter hvor stærkt de er bundne ell. hvor
+vanskeligt det er at fjerne dem, altsaa hvor stor
+Energi man maa tilføre Atomet for at fjerne
+dem. F. Eks. i Stoffet med flest Elektroner, Nr.
+92 Uran, findes der inderst om Kernen de to
+fastest og lige fast bundne saakaldte
+K-Elektroner og derudenom 8 Elektroner i 2
+Undergrupper, L-Elektronerne, der er væsentlig
+løsere bundne, og saaledes at de to
+Undergrupper er lidt forsk. bundne. Derefter kommer 18
+Elektroner i 3 Undergrupper, M-Elektronerne,
+32 Elektroner i 4 Grupper, N-Elektronerne og
+endelig to Grupper, O- og P-Elektronerne, der
+ikke engang er helt udfyldte i Uran. Gaar vi
+nedad i det periodiske System, bliver de
+yderste Grupper mindre og mindre fuldstændige,
+idet det dog ikke er saadan, at alle indre
+Grupper er fuldt uddannede, før en ydre Gruppe
+begynder at optræde; tværtimod vil, naar en
+indre Gruppe har naaet en midlertidig relativ
+Fuldstændighed, en ydre Gruppe kunne
+begynde at optræde, og først senere hører den videre
+Uddannelse af denne Gruppe op, og den indre
+fortsætter Fuldstændiggørelsen. Et saaledes
+bygget Atom er yderst skematisk antydet i Fig. 12,
+hvor Cirklerne symboliserer de forsk. Grupper
+af Elektroner uden om Kernen. Vi maa nu
+tænke os, at en K-Linie opstaar, ved at der
+
+<img>Fig. 11. Røntgenspektrenes Afhængighed af
+Atomnummeret.</img>

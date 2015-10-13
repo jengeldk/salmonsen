@@ -1,0 +1,137 @@
+Hastighed fra den negative Elektrode,
+<sp>Katoden</sp>, og bevæger sig mod den positive
+(Anoden). Ved Sammenstød mellem Elektronerne og
+de neutrale Molekuler i Luft-Resten sker en
+Spaltning (Ionisation) af disse, hvorved opstaar
+flere frie Elektroner (Ioner), der bevæger sig
+mod Anoden og saaledes frembringer en
+elektrisk Strøm i Rummet mellem Elektroderne. Som
+paavist af Edison (1884), Langmuir o. a. sker
+en lgn. Elektronstraaling fra glødende Metaller,
+idet Elektronerne dog under sædvanlige
+Forhold kun bevæger sig i kortere Baner ud fra
+det ophedede Metallegeme og tilbage til dette
+igen. Anbringes Metallet i et luftfortyndet Rum
+(f. Eks. som en Traad i en elektrisk
+Glødelampe), forøges Elektronernes Hastighed,
+saaledes at en varig Strøm mellem Glødetraaden
+og en i Glasbeholderen indsmeltet Anode kan
+observeres i et ydre Kredsløb mellem
+Elektroderne. Nærmere Undersøgelser af disse
+<sp>Termionrør</sp> er udført af Fleming, Ricardson
+o. a. (omkr. 1900). Efter Forslag af
+Amerikaneren de Forest (1907) kan Termionrøret benyttes
+til Forstærkning af Telefonstrømme, idet der i
+Rummet mellem Katode og Anode indføres en
+tredie Elektrode, det saakaldte »Gitter«, dannet
+af et Traadnet ell. en fint gennemhullet
+Metalplade, som man giver en med Telefonstrømmene
+varierende elektrisk Spænding, hvorved en
+tilsvarende forstærket Variation af
+Katodestrømmen opstaar. Den første til praktisk Brug
+fremstillede T. efter dette Princip er konstrueret af
+Tyskeren Liebe og senere underkastet forsk.
+praktiske Forbedringer (af Armstrong o. a.).
+Forbindelsesmaaden for denne saakaldte
+<sp>Audionforstærker</sp> er skematisk antydet i
+Fig. 1. De fra Ledningen <i>T1</i> ankommende
+svage Telefonstrømme inducerer gennem
+Transformatoren <i>T1</i> en vekslende Spænding
+paa Audionforstærkerens Gitter <i>G</i>. Fra
+Katoden <i>K</i>, der holdes glødende af Strømmen fra
+Batteriet <i>B1</i>, vil der i større ell. mindre Grad
+kunne udsendes Elektronstrøm gennem Gitteret
+til Anoden <i>A</i>, efter som Gitterspændingen
+forstærker ell. modvirker den elektriske Kraft i
+Rummet mellem Katode og Anode. Man kan
+forestille sig Virkemaaden saaledes, at Gitteret
+danner en »Ventil«, der i Takt med
+Telefonstrømmene i Ledningen <i>L1</i> aabner ell. lukker
+for Kredsløbet mellem Elektroderne og
+Batteriet <i>B2</i>, hvorfra de stærkere Strømme gennem
+Transformatoren <i>T2</i> overføres til Ledningen
+<i>L2</i>. Den bedste Virkning fremkommer, naar
+Gitterspændingen i Forhold til Katoden varierer
+inden for ganske bestemte Grænser, hvis
+Middelværdi frembringes af Batteriet <i>B3</i>. Med
+Audionforstærkeren kan opnaas en
+Strømforstærkning paa c. 30 Gange, hvilket svarer til,
+at Telefoneringens Rækkevidde kan forøges til
+omkr. det dobbelte (smlg.
+<sp>Telefonledninger</sp>). Ved Hjælp af flere i Trin efter hinanden
+indskudte T. kan
+Forstærkningsgraden
+yderligere forøges. Selv
+om mekanisk
+Træghed ikke forekommer
+ved
+Audionforstærkeren, er dog i nogen
+Grad Forvrængning til
+Stede (bl. a.
+hidrørende fra
+Resonansvirkning i de før og efter
+Forstærkeren
+indskudte Transformatorer),
+saaledes at
+Forstærkningen i Praksis kun
+kan drives til en vis
+Grænse. Fig. 2 viser
+en Udførelsesform for
+Audionrøret (af
+Siemens & Halske's
+Konstruktion), hvor Anode
+og Gitter (sidstnævnte
+som en Traadspiral)
+er anbragt som
+koncentriske Cylindre om den retliniede
+Glødetraad. Andre T. (f. Eks. Western Electric's)
+har plane Elektroder. Luftfortyndingen i de
+moderne Audionrør er drevet til det mest
+mulige (Trykket er mindre end 0,0001 mm).
+
+Da en i Telefonledningen indskudt T. kun
+tillader Strømoverføring i een Retning, maa ved
+afvekslende Samtale i begge Retninger træffes
+særlige Foranstaltninger (se
+<sp>Overdragning</sp>). T. har i den nyere Tid faaet stor Bet.
+ved Kabeltelefonering paa større Afstande (se
+<sp>Telefonledninger</sp>) og har desuden
+fundet Anvendelse som Detektor og Generator ved
+Multiplekstelefoni (se <sp>Telefon</sp>) og traadløs
+Telefonering. (<sp>Litt</sp>.: »Archiv für Post und
+Telegraphie« [Berlin Juli 1918]; <sp>G. Liebert</sp>,
+»Die Audionröhre und ihre Wirkung« [Berlin
+1926]).
+<i>A. C. G.</i>
+
+<img>Fig. 1. Skema for Audionforstærker.</img>
+
+<img>Fig. 2. Audionrør
+(Siemens & Halske).</img>
+</chapter>
+
+<chapter name="Telefonkabler,">
+<b>Telefonkabler,</b> se <sp>Telefonledninger</sp>.
+</chapter>
+
+<chapter name="Telefonledninger">
+<b>Telefonledninger</b> er dels
+<sp>Abonnentledninger</sp>, der direkte forbinder de
+enkelte Abonnenttelefonapparater med den
+paagældende lokale Telefoncentral, og dels
+<sp>Centralledninger</sp>, hvorigennem
+Forbindelser mellem Abonnenter under forsk. Centraler
+finder Sted. I Lighed med Telegrafledninger
+fremføres T. overjordisk (<sp>Luftledninger</sp>,
+<sp>Luftkabler</sp>), underjordisk (<sp>Jordkabler</sp>,
+<sp>Rørkabler</sp>) og undersøisk (<sp>Søkabler</sp>).
+
+De tidligste (omkr. 1877) oprettede T.
+udførtes ganske som de da alm. Telegrafledninger,
+d. v. s. som en enkelt overjordisk
+Ledningstraad af Jern, idet Jorden dannede
+Returledning for Kredsløbet. Benyttelsen af
+<sp>Enkeltledninger</sp> er dog forbundet med forsk.
+Ulemper, der ved Telegrafering sædvanligvis
+spiller mindre Rolle, hvorimod Telefoneringen
+p. Gr. a. de her optrædende svagere Strømme

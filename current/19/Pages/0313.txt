@@ -1,0 +1,139 @@
+og <i>FG</i> stærkest, og det samme gælder for
+Stillingen 180° derfra, naar <i>FG</i> ogsaa ligger i
+Tegningens Plan; i alle mellemliggende Stillinger
+er <i>FG</i> svagere, og i Stillingerne 90° derfra, naar
+<i>FG</i> skulde gaa enten ud fra Papiret eller ned
+i Papiret, kastes der slet intet tilbage, fordi
+Svingningerne netop ligger i Indfaldsplanen og
+derfor ikke har nogen Komposant vinkelret paa
+denne, hvilken Komposant alene kan kastes
+tilbage. Hvis <i>AF</i> havde været en Solstraale eller
+anden upolariseret Straale, vilde <i>FG</i>'s Styrke
+naturligvis ikke have forandret sig under
+Drejningen. Man viser saaledes paa en meget
+direkte Maade, at en polariseret Straale ikke
+forholder sig ens til forsk. Sider. Naar man
+bruger en saadan Glaspladepolarisator, plejer
+man at mattere og sværte Bagsiden, saa at den
+Del af den indfaldende Straale, der ikke
+tilbagekastes fra Forsiden, absorberes. Man har
+da en simpel og billig Polarisator, der tillige
+har den Fordel, at man let faar et meget stort
+Felt af polariseret Lys, men den Ulempe, at
+man spilder meget Lys, idet der kun
+tilbagekastes nogle faa % af det indfaldende Lys.
+
+Paa Fig. 4 er Pladerne ikke tænkt sværtede,
+saa at den tillige kan oplyse, hvordan det gaar
+med Resten af Lyset. Den brudte Straale <i>AB</i>
+er ikke fuldstændig polariseret, da den foruden
+alle Svingninger i Indfaldsplanen tillige
+indeholder det meste af Svingningerne vinkelret
+paa Indfaldsplanen, idet <i>AF</i> kun indeholdt en
+Brøkdel af disse; dens Svingningstilstand er
+symbolsk fremstillet ved flere Streger end
+Prikker. De faa %, der tilbagekastes fra Bagsiden,
+er ogsaa fuldstændig polariseret med
+Svingninger vinkelret paa Indfaldsplanen, da ogsaa her
+den brudte og den tilbagekastede Straale staar
+vinkelret paa hinanden. Det Lys <i>BC</i>, der
+slipper igennem Pladen, er altsaa delvis polariseret
+med Overskud af Svingninger i Indfaldsplanen.
+Træffer dette Lys en ny Glasplade <i>P</i><sub>3</sub> under
+Polarisationsvinklen, vil der igen baade fra
+Forsiden og Bagsiden af denne tilbagekastes
+fuldstændigt polariserede Straaler med
+Svingninger vinkelret paa Indfaldsplanen, saa at den
+delvis polariserede Straale <i>DE</i>, der slipper
+igennem, vil have endnu større Overskud af
+Svingninger i Indfaldsplanen. Det vil ingen
+Forandring gøre heri, dersom Pladerne ligger
+helt op til hinanden; bruger man derfor som
+Polarisator en Stabel af 15 à 20 Glasplader,
+vil den dele en under Polarisation svinklen
+indfaldende Straale i en tilbagekastet, der er
+fuldstændig polariseret med Svingningsretning
+vinkelret paa Indfaldsplanen, og en
+gennemgaaende, der er næsten fuldstændig polariseret med
+Svingninger i Indfaldsplanen. Glaspladestablen
+som Polarisator har den Fordel, at den giver
+den ene af de polariserede Straaler i den opr.
+Straales Retning og meget stærkere end den
+fra en enkelt Plade tilbagekastede, men
+Straalen er ikke fuldstændig polariseret, og hvis
+Polarisatoren ikke er lavet af Plader, der er
+meget nøjagtigt lige tykke over det hele og
+parallelle, giver den ved gentagne
+Tilbagekastninger desuden svagere Straaler i lidt andre
+Retninger. Den bruges derfor ikke meget.
+
+Medens vi her udelukkende har talt om det
+polariserede Lys' Svingningsretning, der for den
+tilbagekastede fuldstændig polariserede Straale
+var vinkelret paa Indfaldsplanen, brugte man
+især tidligere Udtrykket
+<sp>Polarisationsplan</sp> og sagde, at den nævnte Straale var
+polariseret i Indfaldsplanen. Dermed udtrykte
+man kun, at den polariserede Straale viste
+Forskel til Siderne paa en saadan Maade, at der
+var Symmetri om Indfaldsplanen, uden at
+udsige noget nærmere om, hvorledes denne
+Forskel skulde forklares. Det var under
+Æterteorien i mange Aar Genstand for heftig
+Diskussion, hvorvidt Æterdelenes Udsving,
+Lysvektoren, laa i ell. vinkelret paa
+Polarisationsplanen, det første Standpunkt navnlig forfægtet
+af <sp>Neumann</sp>, det andet af <sp>Fresnel</sp>. En
+Afgørelse kunde dengang ikke træffes, men
+Fresnel's Standpunkt gav den simpleste
+Beskrivelse af Polarisationsfænomenerne i Krystaller.
+I den elektromagnetiske Lysteori ligger
+Spørgsmaalet for saa vidt helt anderledes, som der i
+denne optræder 2 paa hinanden vinkelrette
+Lysvektorer, nemlig den elektriske og den
+magnetiske Kraft, saa at der baade finder
+Svingninger Sted i og vinkelret paa
+Polarisationsplanen; imidlertid har de staaende
+Lyssvingninger (se <sp>Interferens</sp>) vist, at det er den
+elektriske Kraft, der er bestemmende for de
+fleste ell. alle Lysvirkninger, som man ogsaa
+vilde vente, og da denne ligger vinkelret paa
+Polarisationsplanen, er det altsaa Fresnel's
+Standpunkt, der har sejret. Derfor taler man
+nu alm. om den elektriske Kraft som
+Lysvektoren og regner dennes Retning, som vi
+her har gjort, for Lysets Svingningsretning.
+Strengt taget er det ikke engang Retningen af
+den elektriske Kraft, men af den elektriske
+Forskydning, der er Lysvektor; de 2 Retninger
+falder inde i Krystaller ikke nøjagtig sammen,
+men Forskydningen er altid vinkelret paa
+Lysbølgens Retning, saa at Lyssvingningerne ogsaa
+i en Krystal er transversale.
+
+<sp>P. ved Dobbeltbrydning</sp>. De 2
+Straaler, hvori en indfaldende upolariseret Straale i
+Alm. spaltes i en dobbeltbrydende Krystal, er
+begge fuldstændig polariserede med
+Svingningsretninger, der meget nær staar vinkelret paa
+hinanden (allerede opdaget af <sp>Huyghens</sp>,
+der dog ikke kunde forklare de Fænomener,
+han iagttog). For de optisk enaksede
+Krystaller, der er de vigtigste, bestemmer man
+Svingningsretningerne ved Hjælp af Hovedsnittet, en
+Plan gennem Krystallens optiske Akse og
+Straalen inde i Krystallen; den ordinære Straales
+Svingninger er vinkelrette paa Hovedsnittet, og
+den ekstraordinære Straales Svingninger ligger
+i Hovedsnittet. Da de 2 Straaler i Alm. ikke har
+meget forsk. Retninger, vil deres Hovedsnit
+ogsaa omtr. falde sammen, saa at deres
+Svingningsretninger meget nær er vinkelrette paa
+hinanden. Ændrer man den indfaldende
+Straales Retning saaledes, at der i samme Retning
+først forplanter sig en ordinær og derefter en
+ekstraordinær Straale, vil deres
+Svingningsretninger være nøjagtig vinkelrette paa hinanden.
+I Fig. 5 er vist et Tilfælde af
+Dobbeltbrydning i en Krystal af Kalkspat, der har særlig
+stor Dobbeltbrydning, saa at det er let at se

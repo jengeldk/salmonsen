@@ -1,0 +1,50 @@
+- Lave fortegnelse over medarbejdere.
+- Finde forord, rettelser, liste over illustrationer, forkortelser.
+- Finde Begyndelsebogstaver.
+- Finde artikel headings.
+  - markere bind og side for hver artikel.
+- Checke, headings, fremhævelser, parenteser mm.
+- Finde signaturer.
+- Finde mærkelige sider fx, med for meget tekst, eller med mange sjældne bogstavkombinationer.
+- Lede efter repeats.
+- Finde spalter og oprindelige linjenumre (brug evt originale OCR filer hvis de findes).
+- For hver artikel lav en liste over hvilke henvisninger der er
+- Lav en nøgleordsliste, fx alle <sp> ord.
+
+- Markere signaturer.
+- Finde opdeling af artikler, finde underoverskrifter.
+- Tælle længde af artikler.
+- Angive sprog (spec. latin)
+
+- Markere lydskrift.
+- Markere litt. lister.
+- Finde og markere krydshenvisninger.
+
+- Finde ark og trykdato for ark.
+- Illustrationer: finde dem, se hvilke der allerede er indført.
+
+- Føre rettelser ind på runeberg.org.
+- Finde årstal.
+
+- Kemi, fysik, musik ...
+- Finde matematiske formler, evt MathML, eller asciiMath.
+- Noder til abc.
+
+- Bruge HTML5 markup.
+
+- Finde unicode karakterer til lydskriften.
+- Finde ud af hvor der mangler billeder.
+
+- Lave konkordans.
+- Opmærke grammatiske former mm. NLTK
+
+- Mærke trykfejl mm, sammenføje rettelser og supplementbind med artikler i
+  leksikonnet, men sådan at man også kan se den oprindelige form.
+
+- Lave python function der henter txt eller tif for en given side,
+  enten fra fil eller zip arkiv
+- Læs forfatterlister
+- Parse forfatterlister
+- Læs artikel, find udtale, henvisninger til andre artikler, forfatter(e), underafsnit.
+- Undersøg om alfabetiseringen af atikler er korrekt (der er alfabetiseringsfejl i forfatterlister)
+

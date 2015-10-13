@@ -1,0 +1,122 @@
+ved Afledning til en Beholder med Paraffin).
+Med Stærkstrømsmikrofonen kan Styrken af de
+paa Ledningen udsendte Strømme gøres 30
+Gange kraftigere end med den sædvanlige
+Mikrofon. P. Gr. a. de særlige Forhold ved
+Telefonstrømmenes Forplantning gennem lange
+Ledninger er Telefoneringsafstanden dog kun
+paa denne Maade forøget til omkr. det dobbelte,
+hvorfor yderligere Forøgelse ved Hjælp af
+endnu kraftigere Mikrofonstrømme støder paa
+praktiske Vanskeligheder. I den nyere Tid søger
+man derfor at forøge Rækkevidden ved
+Forbedring af selve Ledningsforholdene (se
+<sp>Telefonledninger</sp>) og ved Anvendelse af
+særlige Forstærkningsapparater (se
+<sp>Telefonforstærker</sp>), der muliggør Brugen af de
+sædvanlige Mikrofoner. En særlig Art T.
+benyttes ved den af Bell angivne <sp>Lystelefoni</sp>
+(se <sp>Fotofon</sp>).
+
+Kulkornsmikrofonen egner sig i Alm. kun til
+Overføring af Toner, hvis Svingningstal ligger
+mellem 200 og 2500 i Sek. Desuden klæber der
+ved Mikrofonen forskellige Mangler, som
+bevirker, at Strømmene ikke ganske nøje svarer til
+Lydsvingningerne, saaledes at en vis
+Forvrængning i Gengivelsen er til Stede. Ved
+sædvanlig Taleoverføring er dette uden større
+Betydning, hvorimod de senere Aars Krav om
+Udsendelse af Musik og Sang (særlig i Forbindelse
+med traadløs Telefonering) har nødvendiggjort
+Fremstilling af mere hensigtsmæssige
+Mikrofontyper. Den af det amer. Selskab Western
+Electric konstruerede Kulkornsmikrofon (Fig.
+7) har en tynd (0,04 mm) meget stramt
+udspændt Membran af Metal (Duraluminium)
+forsynet med en Kulkornsbeholder paa hver Side.
+Da Membransvingningerne saaledes ikke (som
+i den alm. Mikrofon) er ensidig dæmpet,
+gengives Tonerne renere. En Mangel ved
+Kulkornsmikrofonen er den Støj (»Susen«), der, selv om
+Membranen er i Ro, høres i den med
+Mikrofonen forbundne Telefon, og som hidrører fra de
+tilfældige Modstandsvariationer ved Strømmens
+Passage gennem Kulkornene. Dette undgaas ved
+de <sp>elektromagnetiske Mikrofoner</sp>,
+hvis Princip allerede var angivet ved den som
+Afsenderapparat anvendte Bell's T. I nyere
+elektromagnetiske Mikrofoner (udført af
+Marconi o. a.) indrettes selve Membranen som en i
+et kraftigt Magnetfelt ophængt bevægelig
+Leder (flad Spole), der bringes i Svingninger af
+Lydbølgerne, hvorved elektriske Strømme
+induceres. Fig. 8 viser Princippet for Siemens &
+Halske's <sp>Baandmikrofon</sp>, hvor den
+strømledende Membran dannes af et slapt
+hængende Aluminiumsbaand <i>B</i>, anbragt mellem
+Magnetpolerne <i>N</i> og <i>S</i>. I
+<sp>elektrostatiske Mikrofoner</sp> danner Membranen (et
+tyndt Guld- ell. Aluminiumsblad) den ene
+Belægning i en Kondensator, hvis Luftmellemrum
+(og Kapacitet) saaledes under Paavirkning af
+Lydbølgerne underkastes smaa Ændringer, der
+bevirker tilsvarende Spændingsvariationer i et
+elektrisk Kredsløb. Saadanne
+Kondensatormikrofoner er konstrueret af Western Electric,
+Danskeren Rahbek o. fl. a. Alle de nævnte
+Mikrofoner er baseret paa de af Lydsvingningerne
+frembragte Bevægelser af forsk. faste Legemer
+(Membraner, Metalbaand o. l.), hvilket kan
+foraarsage Forvrængning, idet der p. Gr. a. de
+bevægelige Mikrofondeles mek. Træghed
+(Inerti) ikke altid vil være Proportionalitet mellem
+Lydintensiteten og Mikrofonvirkningen. For at
+modvirke dette
+indrettes Membranen med
+mindst mulig Vægt og
+med Egensvingning
+over eller under det
+Frekvensomraade, der
+benyttes ved Tale- ell.
+Musikoverføringen. I
+Western Electric's
+Kulkornsmikrofon er
+Membranen saaledes
+udspændt med en
+Egensvingning paa
+10000 i Sek., medens
+Baandmikrofonens
+Egensvingning ikke
+overskrider 20 i Sek.
+Man undgaar herved
+Resonansvirkning,
+der vilde foraarsage
+en uforholdsmæssig kraftig Gengivelse af
+Toner, hvis Svingningstal var sammenfaldende
+med Membranens Egensvingning. Endelig har
+man konstrueret Mikrofoner helt uden
+bevægelige Dele, for Eksempel Goldschmidt's
+<sp>Termomikrofon</sp>, hvor Lydbølgerne varierer
+Temp. og dermed den elektriske Modstand af
+en ganske tynd Platintraad ell. bølgeformet
+Strimmel, der er indskudt i en Strømkreds
+sammen med Telefonen. Termomikrofonen
+kan (i Lighed med de elektromagnetiske
+Mikrofoner) ogsaa anvendes som
+Modtagerapparat, idet Varmeudviklingen i Traaden,
+naar denne passeres af Telefonstrømme,
+frembringer Trykvariationer og dermed
+Lydsvingninger i den omgivende Luftmasse. Da
+Lydgengivelsen paa denne Maade ligeledes sker
+uden Anvendelse af Membran, finder ingen
+Forvrængning Sted. <sp>Termotelefonens</sp>
+Lydstyrke er dog kun ringe, hvorfor man bl. a.
+har fremstillet Apparatet som en ganske lille
+cylindrisk Kapsel, der indeholder
+
+<img>Fig. 7. Western Electric's Kulkornsmikrofon.</img>
+
+<img>Fig. 8. Princip for
+Siemens & Halske's
+Baandmikrofon.</img>

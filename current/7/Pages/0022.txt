@@ -1,0 +1,98 @@
+anden Form bestaar af høje smalle Glas med
+en ydre og indre Belægning af Stanniol, altsaa
+en Efterligning af de gl. <sp>Leydnerflasker</sp>.
+Fig. 4 viser et Batteri af saadanne
+Kondensatorer i et Højspændingsanlæg.
+
+Naar en Kondensator forbindes med en
+Strømkilde af en vis Spænding, optager den
+en Ladning, der er proportional med
+Spændingen og proportional med Kondensatorens
+Kapacitet. Hvis det er en Vekselspænding,
+Kondensatoren udsættes for, vil Ladningen veksle
+ligesom Spændingen. I Kondensatorer som de
+ovennævnte med Papir, Glimmer, Olie, Glas ell.
+i det hele et andet Dielektrikum end Luft
+mellem Belægningerne vil der dog komme en lille
+Faseforskydning mellem Ladning og Spænding.
+Dette Fænomen, der er analogt med den
+magnetiske Hysterese i Jern, kaldes <sp>dielektrisk
+Hysterese</sp>. Det medfører et vist Energitab
+ved den vekslende Elektrisering, som kaldes det
+<sp>dielektriske Tab</sp>, og hvis Størrelse i en
+given Kondensator er proportional med Sinus
+til Faseforskydningen mellem Ladning og
+Spænding. I en Glimmerkondensator er denne
+Faseforskydning, der benævnes den
+<sp>dielektriske Tabsvinkel</sp>, kun 1/2°-1°. I en
+Papirkondensator er den eksempelvis 2°. Det
+dielektriske Tab spiller en stor praktisk Rolle i lange
+Telefonkabler med kunstig forhøjet
+Selvinduktion (Krarupkabler, Pupinkabler), hvor det
+sætter en Grænse for den Forhøjelse af
+Selvinduktionen, som man med Fordel kan give Kablet.
+Det er i de senere Aar lykkedes at forbedre det
+til undersøiske Kabler anvendte Guttaperka
+betydeligt i den nævnte Henseende ved at rense
+det for Harpiks.
+<i>Abs. L.</i>
+
+<img>Fig. 3. Variabel Kondensator.</img>
+
+<img>Fig. 4. Kondensatorbatteri i et Højspændingsanlæg</img>
+</chapter>
+
+<chapter name="elektrisk Kortslutning">
+<b>elektrisk Kortslutning.</b> Foreningen af den
+positive og negative Elektricitet ved elektriske
+Anlæg foregaar under alm. Forhold igennem
+Lamper, Motorer o. l. Brugsgenstande, hvorved
+den elektriske Energi omsættes til en anden
+Energi, der udnyttes paa forsk. Maade.
+Foregaar imidlertid Foreningen af de to Arter af
+Elektricitet ved en direkte Forbindelse mellem
+2 Ledninger af forsk. Potential, vil
+Strømstyrken, da Modstanden i det elektriske Kredsløb
+i saa Fald jo er meget ringe, kunne antage saa
+store Værdier, at der p. Gr. a. den udviklede
+Varme kan være Fare for Antændelse af
+Isolationen paa Ledningerne og af nærliggende
+letantændelige Stoffer. De paagældende
+Ledninger siges da at være »kortsluttede«. Ved
+elektriske Centralstationer kan Kortslutninger
+optræde i Ledningsnettet ell. Dynamoer og
+Apparater i Reglen som Følge af Isolationsfejl, og
+Forbindelsen imellem de mangelfuldt isolerede
+Steder foregaar da enten igennem Jorden ell.
+igennem Jernstativer, Gas- og Vandledninger
+e. l. En saadan Kortslutning kan ofte
+foraarsage stor Forstyrrelse i Driften, hvorfor man,
+for at sikre sig herimod, forsyner sit Anlæg
+med Sikringer ell. automatiske Afbrydere, som er
+i Stand til at afbryde den beskadigede Ledning
+ell. Maskine fra Forbindelsen med det øvrige
+Anlæg.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="elektrisk Kraftoverføring">
+<b>elektrisk Kraftoverføring.</b> Ved e. K.
+forstaar man i Alm. den Anvendelse af elektrisk
+Strøm, som tjener til at forplante Energien fra
+en Kraftkilde, f. Eks. et Dampanlæg ell. et
+Vandfald til et fjernt fra Kraftkilden liggende
+Sted, hvor Kraften skal finde Anvendelse.
+Kraftkilden, hvorfra Energi aftages, afgiver
+Arbejde til en passende Kraftmaskine (f. Eks. en
+Dampturbine, hvis Kraftkilden er et
+Dampanlæg). Denne driver en elektrisk Maskine (i
+nævnte Tilfælde f. Eks. en Vekselstrømsturbine),
+der omsætter den mek. Energi til elektrisk
+Energi, som gennem et System af Ledninger,
+<sp>Ledningsnettet</sp>, føres ud til
+Forbrugerne, hvor den atter omsættes til Lys, Varme,
+mek. Energi e. l. Alle disse Omsætninger af
+Energi fra en Art til en anden er naturligvis
+forbundet med Tab, hvortil yderligere kommer
+
+

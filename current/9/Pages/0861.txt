@@ -1,0 +1,144 @@
+Tal (Gnidningskoefficienten), hvormed man
+skal multiplicere Trykket for at finde
+Modstanden. Vejer en Slæde f. Eks. 100 kg, trækkes
+den med jævn Fart hen over et vandret
+Underlag, og er <i>f</i> = 1/5, saa skal der en Kraft paa
+20 kg til for at trække den. Loven er kun
+tilnærmelsesvis rigtig, og desuden afhænger G.
+saa stærkt af Fladernes Tilstand (Ruhed,
+Politur, fremmede Stoffer, der snart virker som
+Smørelse, snart modsat), at man som Regel
+maa gaa til direkte Forsøg, naar man i
+Teknikken skal anvende denne Art G., f. Eks. til
+Bremsning af Jernbanetog. Da G. er
+uafhængig af Hastigheden, er den virksom, saa snart
+man forsøger at sætte et hvilende Legeme i
+Bevægelse, og den spiller en overmaade stor
+Rolle ved at holde Tingene paa Plads (Søm,
+Skruer, alt, hvad der staar paa hældende
+Flader o. s. v.). Modstanden ved Overgang fra
+Hvile til Bevægelse er desuden noget større
+end under selve Bevægelsen. — Eksempler paa
+Gnidningskoefficienter:
+<table>
+<td>Eg<td>paa<td>Eg<td>med<td>parallelle<td>Trævler<td r>0,48
+<td c>—<td c>—<td c>—<td c>—<td>krydsede<td c>—<td c r>0,34
+<td 6>Smedejern paa Støbejern ell. Bronze<td r>0,18
+<td 6>Støbejern paa Støbejern under Vand<td r>0,31
+</table>
+
+Visse Legeringer (se
+<sp>Antifriktionsmetal</sp>) formindsker G. i paafaldende Grad. De
+anvendes til Taplejer og til Glidesøm under
+tunge Møbler. — G. i <sp>Vædsker</sp> følger andre
+Love end G. mellem faste Legemer.
+Modstanden paavirkes overmaade lidt af Trykket (der
+skal f. Eks. fl. hundrede Atm. Tryktilvækst til
+for at forandre Vandets G. med nogle faa %),
+men den er proportional med
+Hastighedsdiffer en een mellem to parallelle Vædskeflader, der
+glider hen over hinanden, og omvendt
+proportional mod disse Fladers Afstand fra hinanden.
+Denne Art G. kan ikke fastholde noget Legeme
+i en Stilling, hvori det ikke kunde blive
+staaende uden G., men den kan sinke og dæmpe
+Bevægelserne og det desto mere, jo hurtigere de
+er. — Gnidningskoefficienten er her en virkelig
+fys. Konstant, der kan bestemmes med ret stor
+Nøjagtighed. Den defineres saaledes: Man
+tænke sig i Vædsken to parallelle Planer, hvis
+indbyrdes Afstand er 1 cm. Den ene ligger fast,
+og den anden bevæger sig med en Hastighed
+af 1 cm i Sek., medens de mellemliggende
+Vædskelag har Hastigheder, der forholder sig som
+deres Afstand fra den faste Flade. Der
+fremkommer herved en Modstand mod Bevægelsen,
+og det Antal Dyn, hvortil denne Modstand
+beløber sig for hver cm<sup>2</sup> af den bevægede Plan,
+kaldes Vædskens Gnidningskoefficient (η) Hvis
+der i Vædsken er sænket to Plader med den
+konstante indbyrdes Afstand <i>a</i> cm, og
+Pladernes Hastighed i Forhold til hinanden er <i>v</i> cm
+i Sek., vil hver cm<sup>2</sup> af de Overflader, der
+vender mod hinanden, paavirkes af Kraften η<i>u</i>:<i>a</i>
+Dyn. Kraften er parallel med Pladens
+Overflade, den modsætter sig den relative
+Bevægelse og har altsaa modsat Retning i de to
+Flader. En Vædske og en fast Væg glider ikke
+paa hinanden; de Vædskedele, der berører
+Væggen, har samme Hastighed som denne, og
+al G. finder altsaa Sted i Vædsken selv. Det er
+her forudsat, at alle Bevægelser i Vædsken er
+indbyrdes parallelle; finder der
+Hvirveldannelse Sted, kan Modstanden blive langt større. η
+er Maal for Vædskens <sp>Sejghed</sp> (Viskositet);
+den aftager stærkt med voksende Temp. For
+Vand er η ved 0° 0,018, ved 20° 0,010 og ved
+100° 0,0025. En meget tyndflydende Vædske er
+Ætylæter. η er her 0,0029 ved 0° og 0,0023 ved
+20°. Glycerin (Vægtfylde 1,230) er tykflydende:
+η = 2,34 ved 15°. Glycerin er altsaa c. 1000
+Gange saa sejg som Æter. Naar en Vædske
+strømmer gennem et snævert Rør (Haarrør),
+vil, naar alt andet er ens, den Tid, der
+udfordres til at drive et vist Rumfang gennem
+Røret, forholde sig som η. Varmt Vand. filtreres
+derfor meget hurtigere end koldt. — Faste
+Legemer kan under store Tryk opføre sig som
+Vædsker; man kan f. Eks. presse Bly og visse
+andre Metaller gennem Aabninger, hvoraf de
+kommer frem som Rør ell. Traade. η kan her
+være fl. Tusinde Millioner Gange saa stor som
+for Vand. — <sp>Luftarterne</sp> forholder sig
+som Vædskerne, kun er η meget mindre; de er
+altsaa mere »tyndflydende«. Mellem Karvæg og
+Luft kan der, især naar Luften er meget
+fortyndet, bemærkes en Slags G., der ikke kendes
+for Vædsker. For atm. Luft er fundet: η = 181
+Milliontedel ved 15° og 221 Milliontedele ved
+100°. Dens Sejghed er altsaa ved alm,
+Stuetemp. c. 1/60 af Vandets. For Brint er η c.
+halv saa stor som for atm. Luft; ellers er der
+i denne Henseende ikke stor Forskel paa de
+forsk. Luftarter. η vokser med stigende Temp.
+modsat Forholdet ved Vædskerne. Naar Gas
+under konstant Tryk strømmer ud af et
+snævert Rør, bliver Gasstrømmen derfor svagere,
+naar Røret opvarmes. Trods sin ringe
+Størrelse spiller Luftens Sejghed en stor Rolle i
+Naturen ved at sinke Faldet af Støv og
+Taagedraaber. En mærkelig Egenskab ved
+Luftarterne er, at η næsten ikke ændres, naar Luftens
+Tæthed forandres. Først naar man har
+udpumpet Luften i en Beholder til langt under
+1/1000 Atm. Tryk, begynder η at tage stærkt af.
+Visse elektriske Glødelamper, især
+Kultraadslamper, viser Fænomenet smukt; Traaden
+vibrerer stærkt ved den mindste Rystelse, naar
+Lampens Vakuum er godt, men slipper der en
+Smule Luft ind gennem en fin Ridse, dæmpes
+Svingningerne straks. — <sp>Rullende G.</sp> er
+ikke nogen særskilt Art G. Ved en ideel
+Rulning uden Spor af Glidning i ell. mellem de
+Legemer, som tager Del i den, vilde der ingen
+Gnidningsmodstand være, men dette naas
+aldrig helt. — G. i <sp>smurte Taplejer</sp> er
+Vædskegnidning, men da Vædskelagets
+Tykkelse mellem Tap og Leje er afhængig af
+mange Ting, bl. a. i høj Grad af Trykket, bliver
+Forholdene indviklede. Som Hovedregel kan
+man sige, at der til store Tryk og langsom
+Bevægelse skal vælges tykflydende Smørelse (η
+stor) og omvendt (se <sp>Smøremidler</sp>).
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Gnidningsbreccie">
+<b>Gnidningsbreccie</b> [-'brætsj<sub>ə</sub>]. Ved
+Forskydninger i Jordskorpen dannes der hyppig
+Spalter langs Brudfladerne. Disse Spalter fyldes
+undertiden med løsrevne Brudstykker af
+Bjergarter, saa at der fremkommer en Breccie, der
+kaldes G. ell. <sp>Springbreccie</sp>.
+<i>J. P. R.</i>
+</chapter>

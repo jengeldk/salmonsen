@@ -1,0 +1,140 @@
+til et Tegn hørende (indtil 5) Huller er
+anbragt paa tværs af Strimlens Længderetning
+(smlg. Fig. 11 g). I Afsenderapparatet (Fig. 16)
+findes 5 Kontaktvægtstænger hvorfra
+Impulserne i Rækkefølge udsendes paa Ledningen til
+Modtagerapparatet (Fig. 17). Dette er indrettet
+med 5 polariserede Relaiser, der efter
+Indstillingen slutter en lokal Strømkreds til en opladet
+Kondensator, hvis Udladningsstrøm
+elektromagnetisk løfter en Papirstrimmel op mod
+Typehjulet. Apparatet, der udfører den i Fig.
+11 h viste Skrift, har som Følge af sin
+elektriske Virkemaade, hvor mekaniske
+Funktioner er begrænset til det mindst mulige, en
+forholdsvis stor Ydeevne (omkr. 150—170 Ord i
+Min. under gode Ledningsforhold). Systemet
+benyttes meget i Tyskland o. fl. a. St. i Europa,
+bl. a. paa Forbindelserne fra Kbhvn til
+Hamburg og Berlin.
+
+Den gennem de automatiske T. opnaaede
+Forbedring af Ledningernes Udnyttelse er i den
+nyere Tid yderligere bragt i Vejret ved
+Indretning af forsk. Maskin-T. til Multiplekstelegrafi
+(s. d.). Paa Strækningen
+Berlin—Hannover-Dortmund benyttes Siemens-Systemet saaledes
+til en 6-foldig Forbindelse ved Hjælp af
+Vekselstrømme med Tonfrekvens. — En ganske spec.
+Anvendelse har de automatiske T. faaet ved en
+indirekte Metode til <sp>telegrafisk
+Billedoverføring</sp> (s. d.).
+
+Foruden de egl. T. indskydes i Kredsløbet
+forsk. <sp>Biapparater</sp>: Strømvisere,
+Signalapparater m. v. Som Strømvisere benyttes
+<sp>Galvanoskoper</sp>, der i Princippet er
+indrettet som Naaletelegrafer (s. d.).
+Galvanoskopet kan gøres meget følsomt, men egner sig
+ikke til Maaling af Strømstyrken, hvorfor det
+ofte erstattes med <sp>Galvanometret</sp> (Fig.
+18), hvis Viserudslag er proportionalt med
+Strømmen, der passerer Traadvindinger paa
+en let Ramme, anbragt drejeligt i et permanent
+Magnetfelt.
+
+<sp>Kabeltelegrafi</sp> paa lange og særlig
+undersøiske Ledninger frembyder i flere
+Henseender betydelige Vanskeligheder, der i Alm.
+udelukker Anvendelsen af de ved
+Telegrafering paa overjordiske Ledninger (ell. kortere
+Kabler) benyttede T. Kabellederens
+Ladningsevne (Kapacitet) paa de store Længder, f.
+Eks. Oceankabler, kan naa betydelige
+Værdier, hvilket medfører kendelige Op- og
+Afladningsstrømme, der forhaler Varigheden af
+de udsendte Strømimpulser og utydeliggør
+Tegngivningen. Som Følge af den store
+Ledningsmodstand bliver Strømstyrken desuden
+ringe, da Batterispændingen af Hensyn til
+Bevarelsen af Kablets Isolationsmateriale kun tør
+forøges til en vis Grænse (i Reglen under 50
+Volt). Modtagerapparater af den sædvanlige
+Art, indrettet med Elektromagneter, der
+tiltrækker bevægelige Ankre, vil derfor ikke uden
+videre kunne benyttes ved Kabeltelegrafi, hvor
+Tegnimpulserne dels er for svage og dels ved
+Kapacitetsvirkninger og den magnetiske
+Træghed (Hysterese) vilde nødvendiggøre en
+uforholdsmæssig ringe Sendehastighed. Paa
+middellange Kabler (under 1000 km) har man
+tidligere med Fordel benyttet Induktionsstrømme
+i Form af kortvarige Impulser med vekslende
+Strømretning, frembragt ved Galvano- eller
+Magnetoinduktion og modtaget paa et følsomt
+polariseret Relais, i hvis Lokalkredsløb det egl.
+Telegrafskriveapparat indkobledes. Paa længere
+Kabler vil Relaiser af den sædvanlige
+Konstruktion ikke gøre Fyldest, idet Forholdene her
+undertiden kræver, at Modtagerapparatet maa
+kunne reagere for Strømstyrker paa omkring
+1/20—1/50 Milliampère. Indgaaende teoretiske
+Undersøgelser af Strømmenes Forplantning paa
+lange Ledninger blev efter Udlægningen af det
+første transatlantiske Kabel (se
+<sp>Telegrafledninger</sp>) foretaget af den eng. Fysiker
+Thomson, der 1858 konstruerede det som
+Modtagerapparat anvendte meget følsomme
+Spejlgalvanometer (se <sp>Naaletelegrafer</sp>).
+Senere har et stort Antal Forskere og Teknikere
+(Joung, Varley o. fl. a.) bidraget til at
+forbedre Driftsforholdene og derigennem
+Forrentningen af de meget store Kapitaler, der er
+anbragt i Kabelanlæggene.
+
+Ved Kabeltelegrafi benyttes altid
+Dobbeltstrøm (jfr ovf.), idet de modsatrettede
+Impulser fremskynder Kablets Afladning mellem
+hvert Tegn og forøger Strømvariationen i
+Modtagerapparatet. For bedre at udnytte Tiden
+anvendes et Tegnsystem med lige lange
+Impulser, der i den ene Retning svarer til
+Morsealfabetets »Prikker«, medens Impulser i den
+modsatte Retning er »Streger«. Impulserne
+udsendtes tidligere med Haandnøgle, i Reglen
+<sp>Dobbeltnøgle</sp> (Fig. 19), der er indrettet
+som to sammenbyggede Morsenøgler, hvoraf
+den ene udsender de positive, og den anden
+de negative Strømimpulser. I Nutiden
+anvendes altid automatiske Sendeapparater af lgn.
+Art som Wheatstone-Transmitteren (Fig. 12),
+selv hvor Sendehastigheden er ringe, da den
+regelmæssige Strømudsendelse letter
+Tydningen af de modtagne Tegn. For at undgaa
+skadelige Strømme foraarsaget af Potentialforskel
+mellem de to Stationers Jordplader (se
+<sp>Telegraf</sp>) forbindes Kablet ved Enderne ofte med
+Spærrekondensatorer, der samtidig regulerer
+Tegngivningen, saaledes at hurtigere
+Strømvariationer og mere ensartede
+Elektricitetsmængder udsendes ved Kondensatorernes Op-
+og Afladning. Da Aflæsningen af
+Spejlgalvanometret er trættende og forholdsvis langsom
+(6—10 Ord i Minuttet), konstruerede Thomson
+1867 den saakaldte <sp>Siphon-Recorder</sp>
+(Hævertskriver), der har nogen ydre
+Lighed med Undulatoren (Fig. 13), men i St f. det
+polariserede Anker er i et kraftigt permanent
+Magnetfelt ophængt en meget let Ramme med
+Traadvindinger, hvorigennem Strømmen
+passerer. Rammen bærer en Skriveindretning af
+lignende Art som i Undulatoren. P. Gr. a. de
+svage Strømvirkninger kan Pennen dog ikke
+anbringes i Berøring med Papiret, hvorved
+Bevægelsen vilde hindres af Friktionen. For at faa
+Farveopløsningen gennem Haarrøret maa der
+derfor foretages særlige Kunstgreb, hvilket i
+de nyere Apparater (af Muirhead) sker ved,
+at Pennen holdes i hurtige Vibrationer
+(vinkelret paa Papirets Plan), saaledes at Farven
+udsprøjtes i fine Draaber. Tydningen af

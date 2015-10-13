@@ -1,0 +1,110 @@
+kommercielle Hensyn gaaet ned med Skibenes
+Størrelse, idet det af tekniske Grunde ikke volder
+nogen Vanskelighed at bygge endnu større
+Skibe end »Majestic«.
+
+<sp>Skibets Konstruktion</sp>. Den Opgave,
+der foreligger ved Konstruktionen af et Skib, er
+i Almindelighed at fastlægge Dimensioner og
+Egenskaber, saaledes at Skibet opfylder forud
+stillede Krav til Lasteevne, Dybgaaende,
+Rumindhold, Fart, Stabilitet etc. Ved Sammenligning
+med udførte Skibe beregnes omtrentlige
+Dimensioner for Nykonstruktionen, og derefter udføres
+foreløbige Tegninger til Fastlæggelse af Skibets
+Indretning, Rumfordeling etc. Paa Grundlag af
+disse Tegninger foretages Beregninger af
+Skibets Vægt, Stabilitet etc., hvorefter de endelige
+Dimensioner fastlægges, og
+Konstruktionstegningerne udføres.
+
+Den første Betingelse, Konstruktionen maa
+opfylde, er, at Skibets <sp>Deplacement</sp>, d. v. s.
+Opdriften af det Rumfang Vand, Skibet
+fortrænger, skal være lig med Skibets Vægt, samt
+at Opdriftscentret skal ligge i samme lodrette
+Linie som Skibets Tyngdepunkt. Vægten
+inddeles i Almindelighed i Hovedgrupper
+omfattende a) Skibsskroget, b) Udrustning og
+Indretning, c) Fremdrivningsmaskineriet og d)
+Ladningen ved det fastsatte Dybgaaende.
+Vægten af Skibsskroget beregnes som Produktet af
+Længde X Bredde X Højde multipliceret med
+en Erfaringskonstant fra lignende udførte Skibe.
+Saafremt en saadan Erfaringskonstant ikke
+foreligger, maa man udføre en omfattende
+Beregning af Vægten af alle Skibsskrogets enkelte
+Dele. Vægten af Fremdrivningsmaskineriet
+beregnes paa Grundlag af Maskineriets Hestekraft
+multipliceret med Maskintypens Vægt pr.
+Hestekraft fra udførte tilsvarende Maskinanlæg. I
+Vægten af Ladningen indgaar Vægten af
+Besætning, Proviant, Vand og Brændsel. Skibets
+Deplacement bestemmes efter Linietegningen
+ved at beregne Volumenet af Skibet til det
+bestemte Dybgaaende. Beregningen udføres ved,
+at man finder Arealet af et passende Antal
+Tværsnit i Skibet,
+<sp>Konstruktionsspanter</sp>, og derefter bestemmer Volumenet ved at
+sammensætte Arealerne ved Hjælp af Simpson's
+Formel.
+
+<sp>Linietegningen</sp>, der er den
+grundlæggende Konstruktionstegning, gengiver
+Skibsskrogets ydre Form. Den omfatter (Fig. 1): a)
+<sp>Opstalten</sp> ell. <sp>Sidetegningen</sp>, som
+fremstiller et vertikalt Snit gennem Skibets
+langskibs Symmetriplan, <sp>Diametralplanet</sp>,
+og dermed parallelle Snit. b)
+<sp>Vandlinieplanen</sp>, der fremstiller
+Konstruktionsvandlinien og dermed parallelle Vandlinieplaner, c)
+<sp>Spanteridset</sp>, som fremstiller et vertikalt
+Snit ⫠ Diametralplanet gennem Skibets Midte,
+<sp>Middelspantet</sp>, og dermed parallelle
+Spanteplaner. I Vandlinieplanen nedlægges i
+Almindelighed <sp>Senteplaner</sp>, der er
+Planer, som staar vinkelret paa
+Middelspantsplanen og danner en spids Vinkel med Diametral-
+og Vandlinieplanet.
+
+Paa Linietegningen angives Skibets
+Hoveddimensioner: a) Længden mellem
+Perpendikulærerne, som er Skibets Længde
+mellem forreste Perpendikulær, en lodret Linie
+gennem Agterkant af Forstævn, og agterste
+Perpendikulær, en lodret Linie gennem
+Forkant af Agterstævn (eventuelt Midte af
+Rorstamme), b) <sp>Længden overalt</sp>, som er
+Skibets største Længde, c) <sp>Bredden</sp> (<i>moulded
+breadth</i>), som er Skibets største Bredde
+midtskibs paa Klædningens Inderside, d)
+<sp>Sidehøjden</sp> ell. Dybden (<i>moulded depth</i>), som er
+Skibets Højde maalt paa Middelspantet fra
+Overkant af Køl til Overkant af Dæksbjælken i
+Borde, e) <sp>Dybgangen</sp>, som er Afstanden fra
+Skibets Vandlinie til Kølens Underkant.
+Saafremt Dybgangen er større agter end for, f. Eks.
+Isbrydere, siger man, at Skibet <sp>trimmer</sp>
+agterover, og Forskellen mellem Dybgangen
+agter og for benævnes <sp>Styrlastigheden</sp>.
+
+I Alm. konstrueres Skibet med
+<sp>Bjælkebugt</sp> og <sp>Spring</sp>. Bjælkebugten er Dækkets
+Krumning i tværskibs Retning. Højden af denne
+Krumning er normalt 1/50 af Skibets Bredde.
+Springet er Forskellen mellem Dækkets Højde
+over Vandlinien midtskibs og ved Stævnene.
+Formaalet med Springet er at forøge Skibets
+Sødygtighed ved at give Skibet større Højde
+over Vandet for og agter, hvor Søen er særlig
+tilbøjelig til at bryde ind over Skibet.
+Skibets <sp>Fyldighedskoefficient</sp> eller
+<sp>IFinhedskoefficient</sp> er det Forholdstal,
+der fremkommer ved, at Deplacementet til
+Konstruktionsvandlinien divideres med Volumenet
+af Skibets omskrevne retvinklede
+Parallellopipedum. Fyldighedskoefficienten er følgelig lig
+med Deplacementet/Læmgde X Bredde X Dybgaaende og
+betegnes i Alm. med Bogstavet δ. Denne
+
+<img>Fig. 1.</img>

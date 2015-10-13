@@ -1,0 +1,118 @@
+drejedes. Disse Apparater er imidlertid nu
+forældede, efter at man har faaet gode Gittere. I
+moderne Apparater er Kikkerten ofte drejelig
+med Mikrometerskrue, der kan være inddelt til
+direkte at vise Bølgebredde, saa at Skalaen kan
+bortfalde. I mange Apparater anvendes
+Prismer med konstant Afbøjning, saa at Kikkerten
+kan være fastsiddende; de forsk. Dele af
+Spektret bringes da ind i Kikkerten ved at dreje
+Prismet, saa at dette kan være i Forbindelse
+med Bølgebreddemikrometerskruen. Blandt de
+mange anvendte Prismetyper har ogsaa været
+Hulprismer med stærkt spredende Vædsker
+(Svovlkulstof o. l.).
+
+Den simpleste Maade at opnaa stor
+Spredning paa kunde synes at være at forøge
+Kikkertens Forstørring, enten ved at gøre dens
+Objektivbrændvidde stor ell.
+Okularbrændvidden lille. Men ud over en
+vis Grænse nytter dette ikke, da
+Apparatets Evne til at adskille tæt
+sammenliggende Spektrallinier er
+begrænset af Prismets
+<sp>Opløsningsevne</sp> (smlg. <sp>Bøjning</sp>).
+Hver Spektrallinie faar nemlig p.
+Gr. a. Bøjning en vis endelig
+Bredde, selv om Lyset er fuldstændig
+ensartet (homogent) og Spalten
+uendelig fin; naar to Linier ligger
+hinanden saa nær, at deres Billeder
+smelter sammen, kan de ikke ses
+adskilte selv ved aldrig saa stærk
+Forstørring i Kikkerten. Hvor tæt
+sammenliggende Linier Prismet kan
+adskille og altsaa hvor fine
+Enkeltheder i Spektret man kan se i
+Apparatet, er proportionalt med
+Glassets Dispersion og med Forskellen
+mellem den længste og korteste
+Vej, en Straale tilbagelægger i
+Prismet, d. v. s. med Prismets
+Basislængde, hvis det er helt fyldt med Lys, idet der
+da er en Straale, der passerer tæt forbi den
+brydende Kant og har Vejen <i>0</i> i Prismet, og
+en anden der følger Basis, naar det staar i
+Hovedstilling (Prismet i Fig. 2 er unødvendig
+stort og udnyttes derfor ikke fuldt ud).
+Eksempelvis kan nævnes, at for at adskille de to gule
+Natriumlinier (se ndfr.), hvis
+Bølgebreddeforskel er c. 1/1000 af dens Værdi, kræves et
+Flintglasprisme med c. 1 cm Basis. Kikkertens
+Forstørring tjener altsaa kun til at sprede de
+Enkeltheder i Spektret, som er givne ved Prismets
+Opløsningsevne, tilstrækkeligt fra hinanden, til
+at de bekvemt kan ses adskilte, og stærkere
+Forstørring, end hvad der kræves dertil, er
+skadelig; den kan ikke give fl. Enkeltheder,
+men den nedsætter Lysstyrken.
+
+<sp>Lysstyrken</sp> er, naar Forstørringen er
+nogenlunde stor (større end den saakaldte
+Normalforstørring, ved hvilken Okularringen er
+lige saa stor som Øjepupillen), for samme
+Benhed (Vinkeludstrækning) proportional med
+Kvadratet paa Kikkertobjektivets Diameter og
+omvendt proportional med Kvadratet paa
+Forstørringen. Forøgelse af Lysstyrken ved en vis
+Forstørring kræver altsaa større
+Kikkertobjektiv og dermed ogsaa større Prisme og
+Kollimatorobjektiv, da det er en Forudsætning, at hele
+Kikkertobjektivet er fyldt med Lys. Derved
+bliver Apparatet meget dyrere. Ved
+Fotografering af Spektret, der omtales ndf., afhænger
+Lysstyrken alene af Kvadratet paa Kikkertens
+Aabningsforhold, Forholdet mellem Objektivets
+Diameter og dets Brændvidde (smlg. <sp>fot.
+Objektiver</sp>). Kollimatorobjektivets
+Aabningsforhold er derimod ganske uden Bet. for
+Lysstyrken, et Faktum der ofte ikke er taget Hensyn
+til ved Konstruktion af lysstærke
+Spektralapparater. Desuden er Lysstyrken for et kontinuert
+Spektrum omvendt proportional med Spektrets
+Renhed, mens den for uendelig skarpe
+Spektrallinier er uafhængig af Renheden. Da
+imidlertid ingen Spektrallinier er uendelig skarpe,
+bliver Lysstyrken for virkelige Liniespektre
+ogsaa omvendt proportional med Renheden. Ved
+Betragtningerne over Lysstyrken er set bort
+fra Tabet ved Refleksion fra Prismets og
+Linsernes Overflader og Absorptionen i disse; dette
+Tab er ofte af stor Bet. og meget forsk. for
+forsk. Bølgebredder.
+
+I større og større Udstrækning anvendes det
+at fotografere Spektret i St. f. at iagttage det
+direkte. En saadan til Fotografering af
+Spektre indrettet <sp>Spektrograf</sp> er vist i Fig. 5.
+Indretningen er som i Fig. 2, men uden
+Skalarør; den fot. Plade anbringes paa Spektrets
+Plads i Kikkerten, idet Røret omdannes til et
+Kamera (til venstre i Fig.). I Reglen kan
+Kassetten forskydes op og ned, saa at fl. Spektre
+kan fotograferes over hinanden paa een Plade.
+Paa samme Plade som det Spektrum, der skal
+undersøges, optages ved Hjælp af det lille
+retvinklede Prisme (<i>p</i> i Fig. 2) et kendt
+Spektrum til Sammenligning, hyppigt Jern ell.
+Kobber, og de ukendte Liniers Bølgebredde findes
+da ved at udmaale deres Beliggenhed i
+Forhold til de kendte. En saadan Fotografering
+frembyder mange Fordele; Spektret gemmes og
+kan til enhver Tid undersøges igen, og
+Maalingerne kan ske bekvemt og med større
+Nøjagtighed. Desuden kan man faa Linier, der er
+for svage til at ses ved direkte Iagttagelse, med
+
+<img>Fig. 5. Spektrograf til Fotografering af Spektre.</img>

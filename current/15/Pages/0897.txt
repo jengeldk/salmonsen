@@ -1,0 +1,152 @@
+og Afstanden mellem 1. Afbildnings Billedrums
+Brændplan og 2. Afbildnings Objektrums
+Brændplan (Intervallet) er ∆, da er de resulterende
+Brændvidder <i>p</i> = — <i>p</i><sub>1</sub><i>p</i><sub>2</sub>/∆ og <i>p</i><sup>1</sup> = — <i>p</i><sub>1</sub><sup>1</sup><i>p</i><sub>2</sub><sup>1</sup>/∆, og
+tiisvarende simple Udtryk gælder for de
+resulterende Brændplaners Afstande fra de opr.
+
+<sp>Realisation af optisk
+Afbildning</sp>. En saadan ideal optisk Afbildning lader
+sig ikke realisere i al Alm., men kun ved at
+man slaar af paa Fordringerne enten til
+Udstrækningen af det Rum, der skal afbildes, ell.
+til Udstrækningen af de Straalebundter, der
+bruges til Afbildningen, men det er dog herved
+muligt at løse alle i Praksis forefaldende
+Opgaver paa tilfredsstillende Maade. Det
+simpleste Tilfælde af optisk Afbildning har man ved
+en enkelt Kugleflade, der adskiller to Medier
+med Brydningsforholdene <i>n</i> og <i>n</i><sup>1</sup>. Vælges her
+en vilkaarlig Linie gennem Kuglens Centrum til
+Akse, falder Hovedplanerne sammen i
+Tangentplanen til Kuglen i Aksens Skæringspunkt med
+denne, og Knudepunkterne falder sammen i
+Kuglens Centrum. En Afbildning kommer dog
+kun i Stand, naar man indskrænker sig til at
+benytte meget snævre Straalebundter omkring
+Aksen, men under denne Indskrænkning afbildes
+ikke alene Punkter i Aksen, men ogsaa Punkter
+nær ved Aksen som Punkter, saa at
+Afbildningen omfatter et smalt (traadformet) Rum omkr.
+Aksen. Der er dog ved enhver Kugleflade 2
+Punkter (de aplanatiske Punkter) i Afstandene
+<i>r</i> · <i>n</i>/<i>n</i><sup>1</sup> og <i>r</i> · <i>n</i><sup>1</sup>/<i>n</i> fra Centrum, der har den
+Egenskab, at enhver Straale fra det ene efter
+Brydningen gaar gennem det andet. Heraf benytter
+man sig ved Konstruktion af
+Mikroskopobjektiver. Afbildningen ved en enkelt Kugleflade har
+i øvrigt Interesse for Behandlingen af
+Afbildningen i Øjet, idet man faar en god Tilnærmelse
+til Virkeligheden ved at betragte et simplificeret
+(»reduceret«) Øje, begrænset fortil af en
+Kugleflade og med en passende Værdi for
+Brydningsforholdet. Et spc. Tilfælde af Afbildningen
+i en Kugleflade er Afbildningen ved Kuglespejle
+(se <sp>Spejl</sp>).
+
+Afbildningen i en L. kan behandles som en
+Samvirken af to Afbildninger i de to
+Kugleflader, der begrænser L. Heraf følger, at ogsaa
+for en L. er der kun Tale om streng
+Afbildning af et snævert Rum omkring L.'s Akse,
+saa at den ovf. behandlede elementære Teori
+kun er strengt gyldig under denne
+Indskrænkning. Lader man denne Indskrænkning falde,
+optræder de saakaldte Linsefejl. Anvender man
+saaledes snævre Straalebundter, der danner
+større Vinkel med Aksen, optræder
+<sp>Astigmatisme</sp> (s. d.). Anvender man videre
+Straalebundter (Straalebundter med større
+»Aabning«), optræder den <sp>sfæriske
+Aberration</sp> ved Afbildning af et Punkt paa
+Aksen. Den viser sig for en enkelt Samlelinse, ved
+at bl. Straalerne fra et fjernt Straalepunkt vil
+de, der rammer L. længere fra Aksen, samles
+nærmere ved L. end de Straaler, der gaar nær ved
+Aksen. I dette Tilfælde taler man om sfærisk
+Underkorrektion. For en Spredelinse taler man
+omvendt om sfærisk Overkorrektion. Den
+sfæriske Aberration er mindst for en ganske
+bestemt Linseform, men kan kun ophæves helt
+ved Anvendelse af fl. samvirkende L. Selv om
+denne sfæriske Aberration er ophævet for et
+Aksepunkt, vil et Objekt i en Plan vinkelret paa
+Aksen ikke afbildes skarpt, naar ikke tillige
+den saakaldte <sp>Sinusbetingelse</sp> er
+opfyldt, nemlig at Forholdet <i>sin u</i>/<i>sin u<sup>1</sup></i> er konstant,
+hvor <i>u</i> og <i>u</i><sup>1</sup> betegner en Straales Vinkel med
+Aksen henh. i Objekt- og Billedrummet. Naar
+denne Betingelse, der betyder, at de forskellige
+Zoner af L. giver samme Forstørring, er
+opfyldt, kaldes Linsesystemet <sp>aplanatisk</sp>,
+men den kan ikke samtidig opfyldes for mere
+end een Beliggenhed af Objektet. Endelig maa
+man kræve, at en plan Genstand faar et plant
+Billede, og at der ikke optræder Fortegning
+(smlg. <sp>fotografiske Objektiver</sp>).
+Hertil kommer, at de kromatiske Fejl maa ophæves
+(se <sp>Akromatisme</sp>). Hvor store Krav til
+Ophævelse af alle disse Linsefejl der i det enkelte
+Tilfælde skal stilles, afhænger af den Brug, der
+skal gøres af L., og omtales derfor nærmere
+under <sp>Briller</sp>, <sp>fotografisk
+Objektiv</sp>, <sp>Kikkert</sp>, <sp>Mikroskop</sp> o. s. v.
+Anvendelse af L. til Forstørrelsesglas er omtalt
+under <sp>Lupe</sp>. Om Fremstilling af L., se
+<sp>Slibning</sp>. — I nyere Tid er man begyndt at
+anvende L. med ikke kugleformede Flader, dels
+i grovere Udførelse til lyssamlende L.
+(Kondensor i Projektionsapparater o. l.), dels som
+Brilleglas, saaledes navnlig til Stærbriller. (<sp>Litt</sp>.:
+De større Lærebøger i Optik, saaledes
+<sp>Winkelmann</sp>, »Handbuch der Physik«, Bd VI
+[Leipzig 1906]).
+<i>(K. S. K.). H. M. H.</i>
+</chapter>
+
+<chapter name="Linse (Plante)">
+<b>Linse</b> (<sp>Lens</sp>), Slægt af de Ærteblomstredes
+Familie, meget nær beslægtet med Vikke.
+Bælgene indeholder kun 1 à 2 kredsrunde, stærkt
+fladtrykte Frø, der er tykkest paa Midten
+(»linseformede«), 3 à 6 mm i Tværmaal.
+Vigtigst er Ager-L. (<i>L. esculenta</i> Mnch.), der er
+ældgammel som Kulturplante, og som endnu
+dyrkes i betydelig Udstrækning i
+Middelhavslandene. De modne Frø anvendes til
+Menneskeføde. P. Gr. a. deres store Æggehvideindhold
+benyttes L. i den nyere Tid i vegetariske
+Husholdninger som Surrogat for Kød. L., saavel
+den ovenn. enaarige som en overvintrende
+enaarig Art kan meget godt dyrkes i Danmark;
+men da de giver for lille Udbytte til at lønne
+Dyrkningen, indføres de fornødne Kvanta fra
+Sydeuropa til Dækning af Landets ret
+ubetydelige Forbrug.
+<i>K. H-n.</i>
+</chapter>
+
+<chapter name="Linsefyr">
+<b>Linsefyr</b> kaldes de Fyr, i hvilke der
+anvendes Linser til Lysets Forstærkning. Se
+<sp>Fyrvæsen</sp>.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Linsekernerne">
+<b>Linsekernerne</b> er to store Ophobninger af
+Nerveceller, der findes i Storhjernen, en paa
+hver Side. De spiller formentlig en Rolle for
+Regulering af Musklernes Spændingsgrad.
+<i>K. H. K.</i>
+</chapter>
+
+<chapter name="Linsestene">
+<b>Linsestene,</b> se <sp>Nummulitter</sp>.
+</chapter>
+
+<chapter name="Linstow, von">
+<b>Linstow</b> ['lensto.], <sp>von</sp>, en fra Mecklenburg
+stammende uradelig Slægt, der fører et af sort
+og Sølv tværdelt Skjold, paa Hjelmen en
+hvidklædt Jomfru og en sortklædt Moriankvinde,

@@ -1,0 +1,139 @@
+for den flg. Underafdeling <i>B<sub>2</sub></i> (<i>B 2 A</i>) og <i>B<sub>8</sub></i>
+. . . <i>B<sub>9</sub></i> o. s. v. Men ikke alle disse
+Underafdelinger er endnu blevet repræsenteret, t.
+
+Eks. ikke <i>B<sub>4</sub></i>, <i>B<sub>6</sub></i>, <i>B<sub>7</sub></i>, <i>A<sub>1</sub></i>, <i>A<sub>4</sub></i> o. s. v. Denne
+Klassifikation er ikke alene bekvem til
+Beskrivelse af Spektret, men den har en dybere Bet.,
+den danner et naturligt System, hvori 99 %
+af de undersøgte Stjerner uden Tvang lader
+sig indordne. Det karakteristiske Kendetegn
+for disse forsk. Typer er flg.:
+
+Klassen <i>P</i> med sine 6 Underafdelinger
+omfatter gasformige Stjernetaager. Spektret har
+faa skarpe lyse Linier paa en meget svag
+kontinuert Baggrund. Hovedlinierne er fra
+Brint og ioniseret Helium (λ 4686); desuden
+optræder Nebellinien λ 5007 og λ 4959 i det
+grønne af Spektret samt nogle skarpe Linier,
+som hidtil ikke er identificeret og muligvis
+hidrører fra et ell. to ukendte Elementer.
+
+Klassen <i>O</i>, som har 5 Underafdelinger,
+omfatter alle de Stjernespektra, hvis
+Hovedlinier i det blaa og gule er lyse, hidrørende
+fra ioniseret Kulstof, Kvælstof og Ilt samt
+neutral og ioniseret Helium. De tre første
+Underafdelinger har udelukkende
+Emissionsbaand og -linier, saaledes har <i>O<sub>a</sub></i> et bredt, lyst
+Baand ved λ 4650 (Kulstof), <i>O<sub>b</sub></i> ved λ 4686
+(ioniseret Helium) foruden lyse Linier af
+Brint og af ζ Puppis Rækken ɔ: en Brintserie
+forsk. fra den Balmer'ske; <i>O<sub>c</sub></i> har lyse Linier ved
+λ 4686 og λ 4638 (Kvælstof), og ogsaa her er
+Brintlinierne og ζ Puppisrækken
+Emissionslinier. I <i>O<sub>d</sub></i> (ζ Puppis) er alle Linier
+mørke med Undtagelse af Baandet λ 4686 og
+λ 4638. Heliumlinien λ 4472 (normal Helium)
+er saa vidt synlig; <i>O<sub>e</sub></i> viser talrige
+Heliumlinier. Overgangen <i>Oe<sub>5</sub></i> til den flg. Klasse <i>B</i>
+har man i Stjernen τ Canis majoris, som kun
+viser Absorptionslinier. De faa Stjerner inden
+for denne Type kaldes ofte for Wolf-Rayet
+Stjerner.
+
+Klassen <i>B</i>, Heliumstjernerne (ε Orionis, β
+Canis minoris, Spica, Regulus) har kun
+Absorptionslinier, hovedsagelig af Brint og
+neutralt Helium. ζ Puppisrækken er meget svag.
+»Enhanced«-Linier af Kisel, Ilt og
+Kvælstof er fremtrædende, og man har svage
+Antydninger til Metallinier. Baade neutralt og
+ioniseret Magnesium optræder. Til denne Klasse
+hører et lidet Antal Stjerner, opdaget i
+Harvard, hos hvilke Brintlinierne er lyse, men
+de forsk. Linier har ofte et afvigende
+Udseende, saaledes <i>H<sub>α</sub></i> lys, <i>H<sub>β</sub></i> lys med en mørk
+Linie i dens Midte, saa at den viser sig dobbelt,
+<i>H<sub>γ</sub></i> lys i en bred mørk spaltet i to Linier.
+De flg. Linier i Rækken gaar efterhaanden over
+i Absorptionslinier. I nogle Tilfælde er
+Intensiteten af de lyse Linier variabel. Heliumlinien
+<i>D3</i> er lys hos nogle faa Stjerner. Overgangen
+til Klassen <i>A</i> er karakteriseret ved, at
+Brintlinierne bliver mere fremtrædende, medens
+Heliumlinierne efterhaanden forsvinder, og i
+<i>B9</i> har man kun Heliumlinien λ 4026.
+
+Klassen <i>A</i>: Siriusstjerner (Sirius, Castor, Vega)
+har stærkt fremtrædende brede og noget diffuse
+Brintlinier, foruden nogle svage Metallinier,
+fornemmelig af ioniseret Kalcium og Jern.
+Overgangen til næste Klasse, <i>F</i>, tilkendegives
+ved aftagende Intensitet hos Brintlinierne
+og successiv Forøgelse i Intensiteten ved visse
+Metallinier, specielt Kalciumlinierne <i>H</i> og <i>K</i>.
+I <i>A<sub>5</sub></i> (β Trianguli) er Jern, Titan og Kalcium
+fremtrædende, men Brintlinierne er overalt i
+Klassen de mest iøjnefaldende.
+
+Klassen <i>F</i> (δ Aquilæ, α Carinæ) har stærke
+<i>H</i> og <i>K</i>-Linier af ioniseret Kalcium.
+Metallinierne vokser i Intensitet. Procyon hører til Klasse
+<i>F5</i> og staar altsaa midt imellem <i>F<sub>0</sub></i> og <i>G<sub>0</sub></i>. <i>F<sub>8</sub></i>
+har et Spektrum, som adskiller sig fra
+Solspektret kun ved den relative Intensitet af Brint
+og ioniseret Kalcium. β Virginis tilhører denne
+Type.
+
+Klassen <i>G</i>: Solstjerner (Solen, Capella) har
+det typiske Solspektrum i talrige Metallinier,
+især af Jern. Brint og ioniseret Kalcium
+er fremdeles fremtrædende, ligesaa
+Liniegruppen <i>G</i>. Capella har et Spektrum paa det
+nærmeste identisk med Solens.
+
+Klassen <i>K</i> (Arkturus, Pollux) har et
+Spektrum, som minder om Solpletternes, og
+Ligheden med dette bliver endnu mere
+fremtrædende, ved at man hos disse Stjerner ogsaa har
+paavist den dobbelte Omvending af
+Kalciumlinierne <i>H</i> og <i>K</i>. Brintlinierne er meget
+svage, men Kalciumlinierne og Liniegruppen
+<i>G</i> er kraftige og brede. Intensiteten af det
+kontinuerte Spektrum aftager stærkt i det violette.
+Aldebaran tilhører Klassen <i>K<sub>5</sub></i>. Overgangen til
+Klassen <i>M</i> kommer til Syne derved, at et
+Absorptionsbaand af Titanoxyd begynder at
+optræde.
+
+Klassen <i>M</i> har kraftige Kalciumlinier, og
+Titanoxydbaandet dominerer mere og mere
+Spektret i Klassens forsk. Underafdelinger.
+Intensiteten af det kontinuerte Spektrum aftager
+stærkt i det violette. I <i>Ma</i> (α Orions, Antares)
+er Kalciumlinien λ 4227 den mest
+fremtrædende Absorptionslinie. <i>G</i>-Gruppen er svagere end
+hos <i>K</i>-Stjernerne. Baandene λ 4762, λ 4954,
+λ 5168 og λ 5445, som man ser svage i
+<i>K</i>-Stjernerne, er meget udprægede. I <i>Mb</i> (ρ Persei)
+er de nævnte Baand ligesom Linien λ 4227
+endnu stærkere, <i>G</i>-Gruppen opløser sig mere. I
+<i>Mc</i> (W Cygni) er det kontinuerte Spektrum
+svagere end i de to nævnte Underafdelinger,
+Solspektret træder mere tilbage, Baandene er
+saa stærke, at Spektret ser kannelleret ud. I
+alle disse 3 Grupper optræder der
+Absorptionslinier, hidrørende fra lavere Temperatur.
+Til <i>M<sub>d</sub></i>,-Gruppen hører alle de <i>M</i>-Stjerner, som
+har Brintserien lys ɔ: de variable af
+Mira-Ceti-Typen, <i>M</i>-Stjernerne er blevne nøjere
+studeret af Vogel og Dunér, Fowler har
+paavist, at de nævnte Baand tilhører Titanoxyd.
+
+Klassen <i>R</i> danner Overgangen fra Klassen <i>G</i>
+til Klassen <i>N</i> og er karakteriseret ved et
+Kulstofbaand, som strækker sig fra λ 4736 til c
+λ 4600, foruden Linier af lav Temp.
+hidrørende fra Cr, Va, Fe, Ti o. s. v.. Klassen er delt

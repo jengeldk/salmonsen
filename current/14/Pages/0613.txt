@@ -1,0 +1,144 @@
+Forstaaelses Skyld skal først den anden Yderlighed
+omtales:
+
+b) <sp>Gassen dannes ved alene at
+sende Vanddamp op gennem
+Brændselslaget</sp>. De glødende Koks vil med
+Vanddampen danne Kulilte og fri Brint efter
+Ligningen: H<sub>2</sub>O (Damp) + C = CO + H<sub>2</sub> ÷ 29.25
+Kalorier. Der bruges altsaa Varme ved denne
+Proces, hvoraf følger, at man ikke kan
+fortsætte ret længe med den, inden Temp. af de
+glødende Koks er sunken saa meget, at
+Processen gaar i Staa. Man indretter derfor
+Apparaterne saaledes, at Processen bliver afbrudt, naar
+Koksene er for stærkt afkølede. Nogle Ventiler
+stilles saa om, der blæses <sp>kun Luft</sp> (altsaa
+den under a) omtalte Proces) gennem
+Generatoren, og den herved udviklede og
+forbrændende Gas bringer atter Koksene i Glød. Denne
+Periode kaldes »Varmblæsningen« ell.
+»Blæstperioden«, og i denne Periode undviger de
+dannede Forbrændingsprodukter til den fri,
+atmosfæriske Luft. Naar Generatoren igen er
+hed nok, stilles Ventilerne igen om; der sendes
+nu kun Vanddamp ind, og dette er den egl.
+»Produktionsperiode«, i hvilken der produceres
+<sp>Vandgas</sp>. Paa denne Maade skiftes der hele
+Tiden (intermitteret Drift).
+
+Under »Varmblæsningen« kommer det an
+paa, at Blæseluftens Mængde og Hastighed er
+afpasset saaledes, at saa meget som muligt af
+den udviklede Varme nyttiggøres i Generatoren
+selv. Hvis der blæses for meget og med for stor
+Hastighed, dannes der Gas af høj Temp.
+(megen fri Varme), der undviger ovenud af
+Generatoren. Gassen kan ikke nyttiggøres direkte i
+Generatoren til Ophedning af Kokslaget, efter
+at den er blæst ovenud af Koksene; det maa
+stadig erindres, at Formaalet under denne
+Periode er at skaffe Varme i Generatoren og
+ikke at producere Gas. Men man maa paa den
+anden Side heller ikke komme ned under en
+vis Grænse med Luftmængden og
+Lufthastigheden, thi saa bliver Tabene ved Udstraaling
+for store, og det tager for lang Tid, inden
+Vandgasproduktionen igen kan begynde. Det er netop
+dette, at indrette Anlægget praktisk og ved
+Generatorens Behandling at vælge den rette
+Middelvej mellem Luftmængde, Lufthastighed,
+tilsat Dampmængde under Vandgasperioden
+samt passende Temp. i Generatoren under
+Driften, der danner Forskellen i alle de forsk.
+Patenter og Fremgangsmaader, de forsk.
+Konstruktioner af Vandgasanlæg anvender. I Løbet
+af Vandgasanlæggenes Udvikling er her
+foregaaet en Del Forskydninger. De ældre Typer,
+navnlig de til karbureret Vandgas, f. Eks.
+System Humphrey & Glasgow, arbejder under
+Varmblæsningen med lavt Kulsyreindhold,
+megen Kulilte og høj Temp. Ved den af Dellwick
+foreslaaede Metode foretrækkes lidt Kulilte,
+megen Kulsyre og lav Temp. i Generatoren.
+Strache er derimod gaaet en Mellemvej
+herimellem, der sikkert maa anses for den
+rigtigste og mest rationelle. Om den teoretiske
+Begrundelse heraf henvises til »Handb. d.
+Gastechnick«, Bd 9, Pag. 108.
+
+Alt det ovf. nævnte gælder Blæstperioden. I
+Produktionsperioden, Vandgasperioden, hvor
+der jo kun føres Vanddamp ind i
+Generatoren, kommer det særlig an paa, at Dampen
+har den rette <sp>Hastighed</sp>, og denne er
+fastslaaet ad empirisk Vej (Strache, Jahoda). Det
+har vist sig, at jo mere Vanddamp der slipper
+gennem Kokslaget uden at spaltes, desto mere
+Kulsyre indeholder Vandgassen. Tillige
+fandtes, at der til en given Temp. i Generatoren
+lindes en bestemt Damphastighed, ved hvilken
+Gasproduktionen forløber gunstigst og med
+bedst Resultat.
+
+Efterhaanden som Vandgassen produceres,
+synker Temp. i Generatoren, og den afgivne
+Varme er dels brugt under Processen til
+Spaltning af Vanddampen, dels medføres den som
+<sp>fri Varme</sp> i den bortgaaende Vandgas.
+Hertil kommer endvidere den Varme, der
+indeholdes i eventuel tilstedeværende overhedet og
+ikke spaltet Vanddamp. Endvidere finder der
+Varmetab Sted p. Gr. a. Udstraaling fra den
+hede Generator. Alle disse Størrelser kan
+baade teoretisk beregnes og praktisk bestemmes, og
+som Resultat af en lang Række Overvejelser
+fremgaar, at man naar den højeste
+Nyttevirkning af Anlægget ved at holde en
+<sp>Middeltemperatur</sp> i Generatoren paa c. 700—900°
+C. Det viser sig tillige, at det vigtigste af det
+hele er, at Dampmængden og navnlig
+Hastigheden altid er i rette Forhold til
+Generatortemperaturen, og at Produktionsperioden
+afbrydes i rette Øjeblik, inden
+Generatortemperaturen bliver for lav. I Praksis haves Apparater
+til Angivelse af det rette Tidspunkt. Om disse
+og om Anlæggets Udførelse i Praksis henvises
+til <sp>Vandgas</sp>.
+
+Den Gasblanding, der under Varmblæsningen
+gaar bort fra Generatoren, indeholder, naar
+Driften sker paa ovenn. Maade, en Del Kulilte
+og kan godt brænde; det kan derfor betale sig
+at anvende den f. Eks. til Fremstilling af den
+Damp, der bruges i Gasperioden.
+
+Teoretisk skal Vandgassen dannes efter
+Ligningen C+H<sub>2</sub>O=CO+H<sub>2</sub> og altsaa
+bestaa af 50 Vol-% Kulilte + 50 Vol.-%
+Brint. I Praksis indeholder den altid tillige
+noget Kulsyre, men Mængden heraf bør højst
+være 3—4 Vol.-%. Naar den er 5—6 % eller
+mere, kan det iflg. Strache altid lade sig gøre
+at afpasse Dampens Mængde og Hastighed,
+saaledes, at man kommer ned til de 4 % eller
+lavere. Bruges andet Brændsel end Koks, kan
+Gassen komme til at indeholde Methan o. a.
+Desuden er der altid noget Kvælstof i Gassen.
+Den her omtalte, saakaldte <sp>ukarburerede</sp>
+Vandgas er ikke lysende, naar den brænder;
+ønskes den gjort lysende ell. af højere
+Brændværdi, skal den karbureres, d. v. s., der skal
+tilsættes den tunge Kulbrinter (se <sp>Vandgas</sp>).
+
+c) <sp>Der føres samtidig en Blanding
+af Luft og Vanddamp gennem
+Generatoren</sp>.
+
+I dette Tilfælde foregaar der en Mellemting
+mellem de under a) og b) omtalte Processer,
+og den udviklede Gasblanding er den egl. K.
+(Halvvandgas, Generatorvandgas, Dowsongas).
+Gassens Sammensætning er i første Grad
+afhængig, <sp>ikke</sp> af Generatorens Konstruktion, men
+af, hvorledes der <sp>arbejdes</sp> med Anlægget:

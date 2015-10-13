@@ -1,0 +1,109 @@
+idet da den i Ledningen gaaende Strømstyrke
+bliver tilsvarende mindre. Man anbringer da
+paa Centralen Transformatorer, som sætter
+Generatorspændingen op til den ønskede
+Spænding, og paa Forbrugsstedet har man da igen
+Transformatorer, der sætter Spændingen ned
+til den for Lamper og Motorer passende Værdi.
+
+En <sp>enfaset Transformator</sp> bestaar
+af en Jernkerne med to Beviklinger, den ene,
+Lavspændingsviklingen, bestaaende af faa svære
+Vindinger, den anden, Højspændingsviklingen,
+bestaaende af mange tynde Vindinger (Fig.
+24). Sættes en Vekselspænding paa den
+ene Bevikling, Primærviklingen, vil der
+igennem denne gaa en Strøm, der i
+Jernkernen frembringer et Vekselfelt. Dette Felt vil
+i den anden Bevikling, Sekundærviklingen,
+inducere en Spænding, der er lige saa mange
+Gange større end Primærspændingen, som det
+sekundære Vindingstal er større end det
+primære, medens det i Primærviklingen vil
+inducere en Spænding, modsat rettet
+Klemspændingen, og omtrent lige saa stor som
+denne. Forholdet imellem de to Spændinger er
+lig Forholdet mellem de tilsvarende
+Vindingstal. Transformatorens Jernkerne maa udføres
+af fra hinanden isolerede Jernblik; i en massiv
+Jernkerne vilde Vekselfeltet inducere saa stærke
+Kortslutningsstrømme, at Jernet vilde blive
+stærkt opvarmet og give Anledning til
+Energitab. Belastes nu Sekundærviklingen, vil der
+i Primærviklingen fremkomme en Strøm, hvis
+Forhold til den sekundære Strøm er det
+omvendte af Forholdet imellem Vindingstallene
+(idet naturligvis, bortset fra Tabene, Produkterne
+af Strøm og Spænding maa være ens paa begge
+Sider). Der vil dog, selv om Transformatoren er
+ubelastet, i Primærviklingen stadig gaa en
+Strøm til Frembringelse af Feltet i
+Transformatoren, og til Overvindelse af de uundgaaelige
+Tab, der følger med den stadige
+Ommagnetisering af Jernet; denne
+<sp>Tomgangsstrøm</sp> maa
+man selvfølgelig ved
+Transformatorens Konstruktion
+sørge for at gøre saa lille som
+mulig. Ved Trefaseanlæg
+anvendes
+<sp>Trefasetransformaterer</sp> (Fig. 26); en
+saadan har tre magnetisk
+forbundne Jernkerner, der
+hver bærer en
+Lavspændingsvikling og en
+Højspændingsvikling. Disse Viklinger kan
+ligesom ved Generatorerne
+kobles enten i <sp>Trekant</sp> ell.
+i <sp>Stjerne</sp> (med
+Neutralpunkt og dertil sluttet
+Nulleder). For ved store
+Ledningsnet at faa fordelt en
+eventuel Belastningsskævhed
+paa Lavspændingsnettet
+ligeligt paa Højspændingsnettets
+3 Faser kan man anvende
+den saakaldte
+<sp>Siksakforbindelse</sp>, hvor
+Lavspændingsviklingen i hver Fase er
+fordelt ligeligt paa 2 af
+Transformatorens 3
+Jernkerner.
+
+Afkølingen af
+Transformatorerne sker hyppigst ved
+Hjælp af <sp>Olie</sp>, idet
+Transformatoren nedsænkes i en
+stor Jernbeholder, fyldt med
+Olie, hvorved tillige opnaas
+en bedre Isolation. Denne
+Olie kan igen køles enten ved kunstig
+Cirkulation igennem Køletasker (Fig. 26) ell. ved
+Hjælp af Vand, der ledes igennem
+Kobberspiraler, anbragte øverst i Oliebadet. Da
+Transformatoren jo ingen roterende Dele indeholder,
+kan den bygges til ret ubegrænsede
+Energimængder (20000 KW og mere). Ligeledes
+skulde man antage, at den Spænding, hvortil
+Transformatoren kunde bygges, var ubegrænset. Der
+er dog her ved meget høje Spændinger
+praktiske Vanskeligheder, dels ved Oliens
+Isolationsevne, dels ved at opnaa en tilstrækkelig sikker
+Udføring af Højspændingsviklingens Ender. Der
+er dog bygget Transformatorer indtil 500000 Volt.
+<i>R. J. J.</i></chapter>
+
+<img>
+Fig. 26. Trefasetransformator, 625 KWA., 3000-30000 Volt, med
+tilhørende Oliebeholder.
+</img>
+
+<chapter name="elektrisk Endosmose">
+<b>elektrisk Endosmose</b> (ogsaa
+<sp>Elektroosmose</sp>), den af en elektrisk Spændingsforskel
+foraarsagede Strømning af en Vædske igennem
+porøse Legemer ell. Kapillarrør. Til
+Paavisning af e. E. kan man fylde et uglaseret
+Lerfad med destilleret Vand og føre to Elektroder
+af Platin ell. Bly til Lerfadets ydre og indre
+Væg. Sættes en Spændingsforskel af et Par

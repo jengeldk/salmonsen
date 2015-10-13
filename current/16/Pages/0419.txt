@@ -1,0 +1,96 @@
+blive 3/4 af Jernets; disse Legeringer er saa
+meget mærkeligere, som ingen af de indgaaende
+Komponenter er ferromagnetiske. I denne
+Forbindelse skal ogsaa nævnes, at en
+Nikkelstaalsort med 24,5 % Nikkel, der er sammensat af
+ferromagnetiske Stoffer, dog er umagnetisk
+(paramagnetisk) ved alm. Temp.; ved
+Temperaturer under ÷ 20° C er den imidlertid
+ferromagnetisk.
+
+<sp>Magnetiske Maalinger</sp>. Et
+<sp>magnetisk Felts Styrke</sp> maales paa forsk.
+Maade alt efter Feltets Udstrækning og Styrke.
+Er Feltet tilstrækkelig stort og homogent,
+bestemmes dets Styrke simplest ved at anbringe
+en Kompasnaal i Feltet og lade den udføre
+Svingninger under Feltkraftens Paavirkning.
+Svingningstiden for disse Svingninger vil da
+være bestemt ved <i>T</i> = 2 π √<i>J/M·H</i>, hvor <i>J</i> er
+Naalens Inertimoment, <i>M</i> dens magnetiske
+Moment og <i>H</i> Feltets Styrke; kendes <i>J</i> og <i>M</i>, kan
+<i>H</i> findes. Er Feltet lille ell. meget uensartet,
+kan man i det, betragtede Punkt anbringe en
+lille Spole af isoleret Kobbertraad saaledes at
+dens Vindingsplan staar vinkelret paa
+Kraftretningen; Spolen er forbundet med et
+ballistisk Galvanometer; føres Spolen nu hurtigt ud
+af Feltet ell. drejes den 180° om en Akse,
+vinkelret paa Kraftretningen, vil der strømme
+en vis Elektricitetsmængde gennem
+Galvanometret, saa dette vil gøre et Udslag, og heraf
+kan Feltets Styrke beregnes. Endelig kan
+Feltstyrken maales ved Modstandsforandringen i
+en Vismuttraad og i ganske sjældne Tilfælde
+ved Polarisationsplanets Drejning. —
+<sp>Magnetiseringsintensiteten</sp> for de
+ferromagnetiske Legemer bestemmes ved et
+<sp>Magnetometer</sp> (Fig. 7). Gennem en lang
+Solenoide <i>AB</i>, anbragt vinkelret paa den
+magnetiske Meridian <i>N—S</i>, sendes en elektr. Strøm;
+den vil da bringe en Kompasnaal <i>n—s</i> til at
+gøre et Udslag, men dette forhindres ved
+Solenoiden <i>C</i>, der gennemløbes af samme Strøm i
+modsat Retning og som anbringes i passende
+Afstand fra Naalen; stikkes imidlertid et
+Jernstykke <i>D</i> ind i Solenoiden AB, vil Naalen igen
+gøre et Udslag <i>a</i>, hvis Størrelse er bestemt ved
+Jernstykkets magnetiske Moment, Jordfeltets
+Styrke og Afstanden mellem <i>D</i> og Naalen; er
+disse bekendte, kan Momentet altsaa findes,
+og deraf beregnes igen Intensiteten svarende
+til forsk. Værdier af den magnetiserende Kraft
+(forsk. Strømstyrker). Jernstykket <i>D</i> maa
+tildannes som en Rotationsellipsoide, da kun her
+Intensiteten er ens overalt i Stykket, og da
+man kun i saa Fald kan beregne den fra de
+inducerede fri Poler paa <i>D</i> hidrørende
+afmagnetiserende Kraft. Naar Intensiteten er funden,
+er tillige Susceptibiliteten bekendt. Ved
+Magnetometret kan ogsaa Momentet af permanente
+Magneter bestemmes; Strømspolerne sættes
+da blot ud af Virksomhed. Ved de
+»umagnetiske« d. v. s. dia- og paramagnetiske Legemer
+maa andre Metoder anvendes, og man benytter
+da især Stigrøret og Snovægten.
+Stigrørsmetoden kan kun anvendes til Vædsker; den ene
+Gren af eti U-bøjet Glasrør med Vædsken i
+anbringes imellem de tilspidsede Poler af en
+kraftig Elektromagnet, saaledes at Vædsken i
+denne Gren staar i den snævreste Del af Feltet;
+sluttes Strømmen gennem Magneten vil
+Overfladen af en diamagnetisk Vædske synke, af en
+paramagnetisk stige, og af Niveauændringen
+kan Susceptibiliteten beregnes. Ved
+Snovægt-metoden anbringes det Stof, der skal
+undersøges, paa den ene Arm af en Snovægt i et
+inhomogent Felt fra en Elektromagnet; sluttes
+Strømmen gennem denne, vil Snovægten dreje
+sig, og af Udslagets Størrelse og Magnetfeltets
+Konstanter kan Susceptibiliteten beregnes. Ved
+alle Maalinger paa dia- og paramagnetiske
+Legemer maa man tage Hensyn til, at den atm.
+Luft selv er paramagnetisk, saa Maalingen
+direkte kun giver Forskellen mellem Stoffets og
+Luftens Magnetisering; ved at gøre Forsøg i
+forsk. Luftarter faas en Metode til at bestemme
+disses Susceptibilitet. — Den magnetiske
+<sp>Induktion</sp> kan bestemmes ved det i Fig. 8
+skitserede Apparat. Prøvestykket <i>AB</i>
+indspændes i en svær Ramme af meget blødt Jern; <i>AB</i>
+er beviklet med to Spoler, af hvilke <i>S</i><sub>1</sub> tjener
+til at magnetisere Jernet, medens <i>S</i><sub>2</sub> staar i
+
+<img>Fig. 7.</img>
+
+<img>Fig. 8.</img>

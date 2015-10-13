@@ -1,0 +1,161 @@
+stadig lige store. Raabalancen kan altsaa ogsaa
+udarbejdes af Saldoerne, De Konti, som
+salderer, falder da ganske bort, Balancen bliver
+mere sammentrængt, yder færre Oplysninger,
+men er som Bogføringskontrol af væsentlig
+samme Værdi.
+
+Hovedbogens Konti lader sig inddele i 2
+væsentlig forsk. Grupper:
+
+1) <sp>Aktiv- og Passiv-Konti</sp>.
+
+2) <sp>Indtægts- og Udgiftskonti ell.
+Driftskonti</sp>.
+
+Den første Gruppe indeholder Regnskaberne
+over Ejendele og Gæld (Aktiver og Passiver),
+den sidste Regnskab over alle de udførte
+Forretninger, alle de hafte Indtægter og afholdte
+Udgifter. Ovenstaaende Balance indeholder flg.
+Aktiv- og Passivkonti:
+
+De 2 Kapitalkonti, der angiver Virksomhedens
+Gæld til dens Ejere,
+
+Ejendomskonto og Inventariekonto, der
+angiver den bogførte Værdi af disse Aktiver.
+
+Kassekonto, hvis Saldo er Beholdningen af
+kontante Penge,
+
+Acceptkonto, der her salderer, men hvis Saldo
+ellers altid er et Passiv, Størrelsen af den
+Gæld for hvilken der er givet Accept,
+
+Vekselkonto, hvis Saldo altid er et Aktiv,
+Beholdningen af i Betaling modtagne Veksler,
+
+Samtlige fremmede Konti, der angiver, hvad
+der i øvrigt skyldes bort ell. haves til gode,
+
+Kulbeholdningskonto, hvis Saldo angiver den
+bogførte Værdi af den tilstedeværende
+Kulbeholdning.
+
+Alle de øvrige Konti er Driftskonti. Med
+Undtagelse af Kulsalgskonto er de alle rene
+Udgiftskonti, paa hvilke alle afholdte Udgifter er
+fordelte, og hvis Saldoer angiver, hvor store
+disse Udgifter har været i det forløbne Aar.
+De repræsenterer væsentlig de saakaldte
+<sp>generelle Omkostninger</sp> (se <sp>Avance</sp>).
+Indtægtsgivende Driftskonti er ifølge Sagens
+Natur væsentlig kun de Konti, som
+repræsenterer selve Virksomhedens Formaal, paa hvilke
+de Omsætninger posteres, der er beregnede
+paa at frembringe det tilstræbte Udbytte, her
+altsaa kun Kulsalgskonto. Da paa dennes
+Debetside er opført det hele solgte Kvantum til
+Kalkulationsprisen, paa Kreditsiden det hele Beløb,
+som Salget har indbragt, saa angiver en
+Kreditsaldo den Bruttoavance, som Salget har givet,
+medens en Debetsaldo vilde betyde, at Kullene
+var solgt til lavere Pris end Kalkulationsprisen,
+og at Salget altsaa havde givet Tab, endog
+uden Hensyn til de generelle Omkostninger.
+
+Af det foregaaende fremgaar nu flg. Regler:
+
+En Debetsaldo paa en Aktiv- og Passivkonto
+er et Aktiv,
+
+En Kreditsaldo paa en Aktiv- og Passivkonto
+er et Passiv,
+
+En Debetsaldo paa en Driftskonto er en
+Udgift,
+
+En Kreditsaldo paa en Driftskonto er en
+Indtægt,
+og det er herefter indlysende:
+
+1) At for at udfinde Formuen, som er
+Forskellen mellem Aktiver og Passiver, behøver
+man kun at samle Saldoerne paa alle
+Aktiv- og Passivkonti for sig i en ny Opstilling, paa
+hvilken da Forskellen mellem Summerne af
+Debet- og Kreditkolonnen angiver Formuen.
+Denne Opstilling kaldes <sp>Status</sp> ell.
+<sp>Balancekonto</sp>. Herved maa kun bemærkes,
+at da den ved Aarets Beg. tilstedeværende
+Formue figurerer paa Passivsiden af de 2
+Kapitalkonti, som en Gæld til X og Y, saa er det kun
+de virkelige Passiver, der skal fradrages
+Debetsiden for at udfinde Formuen, og denne viser
+sig i Kredit som bestaaende af de 2
+Kapitalkonti plus en Rest, som er den i Aarets Løb
+indvundne Formueforøgelse.
+
+2) At for at udfinde Aarets Nettofortjeneste
+(Overskuddet), som er Forskellen mellem
+samtlige Indtægter og Udgifter i Aarets Løb,
+behøver man kun at samle Saldoerne paa alle
+Driftskonti for sig i en ny Opstilling, paa
+hvilken da Forskellen mellem Summerne af
+Debet- og Kreditkolonnen angiver Fortjenesten. Denne
+Opstilling kaldes <sp>Gevinst- og Tabskonto</sp>.
+
+Af Ovenstaaende Raabalance kan paa denne
+Maade uddrages flg. Status og Gevinst- og
+Tabskonto:
+
+<table>
+<td 5 c>Status den 31. December 19. .:
+<td><td 2 c>Aktiver<td 2 c>Passiver
+<td>X's Kapitalkonto<td><td><td r>10000<td c>»
+<td>Y's Kapitalkonto<td><td><td r>10000<td c>»
+<td>Ejendomskonto<td r>13000<td c>»
+<td>Inventariekonto<td r>3000<td c>»
+<td>Kassekonto<td r>6631<td c>87
+<td>Vekselkonto<td r>2090<td c>»
+<td>Kulbeholdningskonto 5500 Tdr à 2.50<td r>13750<td c>»
+<td>H. Chr. Petersen & Co.<td r>5625<td c>»
+<td>J. P. Smidt & Co.<td><td r><td r>1325<td c>30
+<td>Den danske Landmandsbank<td><td r><td r>20000<td c>»
+<td>Formueforøgelse<td><td><td r>2771<td c>57
+<td><td r>44096<td c>87<td r>44096<td c>87
+</table>
+<table>
+<td c 5><sp>Gevinst- & Tabskonto den 31. December 19 . .</sp>:
+<td><td 2>Debet<td 2>Credit
+<td>Administrationskonto<td r>1200<td c>»
+<td>Kulsalgskonto<td r><td r><td r>11015<td c>»
+<td>Kørselskonto<td r>375<td c>»
+<td>Omkostningskonto<td r>568<td c>43
+<td>Rentekonto<td r>1000<td c>»
+<td>X's Forbrugskonto<td r>2550<td c>»
+<td>Y's Forbrugskonto<td r>2550<td c>»
+<td>Overskud<td r>2771<td c>57
+<td><td r>11015<td c>»<td r>11015<td c>»
+</table>
+
+At den paa Kreditsiden i Status
+fremkommende Formueforøgelse altid bliver lig det
+Overskud, som Debetsiden af Gevinst- og Tabskonto
+udviser, er en Selvfølge, da det i Virkeligheden
+er et og det samme og følger bogholderimæssig
+af, at Summen af Debetsaldoerne i begge
+Opstillinger tilsammen er lig Summen af
+Kreditsaldoerne. Balancekonto og Gevinst- og
+Tabskonto udarbejdes som Regel kun ved hvert Aars
+Slutning, og Opstillingen udføres i selve
+Hovedbogen, hvis Debet- og Kreditside da træder
+i St f. de 2 Kolonner, ved Overførsel af
+Saldoerne fra alle Konti til de 2 ny Konti. Derved
+bringes alle de øvrige Konti til at saldere, og
+hele Virksomhedens Resultat er koncentreret i
+de 2 afsluttende Konti. For ogsaa at bringe disse
+til at saldere, debiteres Gevinst- og Tabskonto
+for sin Saldo (Overskuddet), og denne krediteres
+enten, som ovf., Balancekonto, som en særlig

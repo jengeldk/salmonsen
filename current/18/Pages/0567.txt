@@ -1,0 +1,146 @@
+<sp>mættet</sp> med vedk. Stof. Et Stofs
+<sp>Opløselighed</sp> er Koncentrationen af den
+<sp>mættede</sp> O.
+
+I Reglen tiltager de faste Stoffers
+Opløselighed med Temp. En ved højere Temp. mættet
+O. af et fast Stof vil ved Afkøling udskille en
+Del af dette; dog kan det for adskillige Saltes
+Vedk. indtræffe, at en ved en bestemt Temp.
+mættet O. kan afkøles betydelig under denne
+Temp., uden at Stoffet udskilles, men tilsættes
+blot en uhyre lille Krystalpartikel af vedk.
+Stol, udskilles Overskudet straks af O. O., der
+viser dette Forhold, kaldes <sp>overmættede</sp>
+O.; en saadan kan let faas ved af opløse
+Natriumsulfat (Glaubersalt) i Vand ved 33°, til O.
+næsten er mættet, og derpaa afkøle.
+
+O. af Salte og andre ikke flygtige Stoffer i
+Vand har altid et højere Kogepunkt og et
+lavere Frysepunkt end det rene Vand (se
+<sp>Opløsningers Teori</sp>). Den sidste Gruppe O.,
+faste Stoffer opløst i andre faste Stoffer,
+kaldes ofte <sp>faste</sp> O. En Del Metaller er i
+smeltet Tilstand opløselige i hinanden i alle
+Forhold, f. Eks. Bly og Tin, og ved Størkning
+af en saadan O. udskilles Blandingskrystaller
+af de to Komponenter; saadanne
+Blandingskrystaller, der hver for sig er homogene, maa
+anses for en fast O. Ligeledes kan f. Eks. Jod
+opløses i Benzol, ved Afkøling af denne O.
+udskilles Benzolkrystaller, der indeholder Jod
+opløst. Glas maa ligeledes betragtes som en fast O.
+
+<sp>O.'s Koncentration</sp> kan angives paa
+forsk. Maade, man kan angive, hvor mange g
+opløst Stof der findes i 100 g af Opløsningen;
+dette angiver Opløsningens Koncentration i %,
+ell. man kan opgive, hvor mange g af det
+opløste Stof der er opløst i 100 g
+Opløsningsmiddel. For de luftformige Blandingers O. og for
+O. af Vædske i Vædske angives Koncentrationen
+i <sp>Rumfangsprocent</sp>
+(<sp>Volumenprocent</sp>), der angiver, hvor mange Rumfang af
+det opløste Stof der findes i 100 Rumfang af
+Blandingen. I Kemien angives i Alm. O.'s
+Koncentration ved at angive, hvor mange
+Grammolekyler af det opløste Stof der findes i 1 l
+Opløsning. En O., der indeholder 1
+Grammolekyle opløst Stof pr l, kaldes da 1 <sp>molær</sp>. En
+O.'s Koncentration kan ogsaa, særlig naar O.
+skal anvendes i Titreranalysen (s. d.), angives
+efter <sp>Normalitet</sp>. En 1 normal O.
+indeholder 1 Gramækvivalent opløst Stof pr l. En
+1 molær Natriumhydroxydopløsning indeholder
+40 g NaOH pr l (NaOH=40), den er tillige
+1 normal, da Natriumhydroxydets Ækvivalent
+er = 40. En 1 molær Svovlsyre indeholder 98 g
+H<sub>2</sub>SO<sub>4</sub> pr l (H<sub>2</sub>SO<sub>4</sub>=98), men en 1 molær
+Svovlsyre er 2 normal, da Svovlsyren er en tobasisk
+Syre, saaledes at 2 Gramækvivalenter
+Natriumhydroxyd er nødvendige til at neutralisere 1
+Grammolekyle Svovlsyre (se <sp>Syrer</sp>).
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Opløsningers Teori">
+<b>Opløsningers Teori.</b> I Tidens Løb har der
+været fremsat forsk. Anskuelser om
+Opløsningers Natur; disse Teorier kan henføres til to
+Retninger, en <sp>kemisk</sp> og en <sp>fysisk</sp>. I Beg.
+af 19 Aarh. betegnede <sp>Berthollet</sp> i sin
+<i>Statique chimique</i> en Opløsning som en kemisk
+Forbindelse og udtaler den Anskuelse, at
+Dannelsen af en Opløsning ofte kun beror paa
+Dannelsen af en lidet bestandig Forbindelse, der
+endnu tydelig viser det opløste Stofs
+karakteristiske Egenskaber. Siden den Tid har det af
+en Række Forskere været antaget, at det er
+den kemiske Affinitet, der ligger til Grund for
+Opløsningsfænomenerne. Saaledes gaar f. Eks.
+<sp>Mendelejeff</sp> ud fra den Anskuelse, at de
+kemiske Forbindelser kan deles i bestemte og
+ubestemte, og han henregner Opløsningerne til
+de sidste, idet han antager, at den dannede
+primære Forbindelse mellem opløst Stof og
+Opløsningsmiddel er saa lidet robust, at den
+allerede ved alm. Temp. er delvis spaltet, saaledes
+at det dannede homogene flydende System
+foruden Forbindelsen tillige indeholder dens
+Komponenter. <sp>Berthelot</sp> anser en Opløsning for
+en Blanding af Opløsningsmiddel, og en
+Forbindelse af Opløsningsmiddel med opløst Stof,
+dannet efter Loven om de konstante Proportioner.
+I Modsætning til disse Anskuelser hævdede
+<sp>Dossios</sp> en rent fysisk Anskuelse, og
+betragtede Opløsningsfænomenerne som en rent
+mekanisk Proces.
+
+De nyere Anskuelser om Opløsningers Natur
+hviler ogsaa væsentlig paa en fysisk
+Betragtningsmaade, idet de er bygget paa
+Iagttagelserne af Opløsningers osmotiske Tryk, og deres
+elektriske Ledningsevne. Ud fra osmotiske
+Undersøgelser maa man tænke sig det opløste Stof
+til Stede i Opløsningen i en Tilstand, der er
+fuldstændig uafhængig af Opløsningsmidlet (se
+dog senere), og som nærmest kan sammenlignes
+med den Tilstand, hvori Stoffet vilde være, hvis
+det i Dampform ved samme Temp. var
+indesluttet i et lige saa stort Rum som det, der
+indtages af Opløsningsmidlet. Det er et kendt
+Fænomen, der kan iagttages, naar et Vandlag
+anbringes oven paa en stærk Opløsning af et
+farvet Salt, at hele Vædsken efterhaanden bliver
+farvet; det opløste Stofs Molekyler vandrer —
+imod Tyngdens Retning — fra de Steder, hvor
+Koncentrationen er større, til de Steder, hvor
+den er mindre, og denne Vandring hører først
+op, naar Koncentrationen overalt i Vædsken er
+den samme. Den Kraft, hvormed denne
+Diffusion foregaar, svarer ganske til en Luftarts
+Tryk, der vil faa denne til at indtage saa stort
+et Rumfang som muligt. At der virker et
+saadant Tryk under Diffusionsprocessen, kan man
+vise ved mellem den koncentrerede Opløsning
+og Vandet at indskyde en Hinde af den
+Beskaffenhed, at den kun tillader Vandets, men ikke
+det opløste Stofs, Molekyler at passere gennem
+sig; en saadan Hinde kaldes
+»halvgennemtrængelig« ell. »semipermeabel«. Bindes over Enden
+af et Stykke vidt Glasrør med Krave lufttæt en
+dyrisk Hinde (Blære), og fyldes derpaa Røret
+med en koncentreret Sukkeropløsning, og
+lukkes den anden Ende med en tætsluttende Prop,
+hvorigennem er indsat et langt tyndt Glasrør,
+saaledes at hele det vide Glasrør er fyldt med
+Opløsning, og denne staar lidt op i det tynde,
+vil man, naar Hinden sættes ned under Vand i
+et Kar, lidt efter lidt se Vædskeoverfladen i
+det tynde Rør stige, som Tegn paa, at der
+trænger Vand ind gennem Hinden. Denne er
+gennemtrængelig for Vandmolekylerne, men
+næsten uigennemtrængelig for
+Sukkermolekylerne. Fænomenet beror paa, at
+Sukkermolekylerne vil søge at brede sig over saa stort et

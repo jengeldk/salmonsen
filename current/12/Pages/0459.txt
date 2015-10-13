@@ -1,0 +1,156 @@
+har ført til det Resultat, at der paa en m gaar
+1553164,13 Bølgebredder af den røde
+Cadmiumlinie i tør Luft af 15° C og normalt Tryk.
+Gentagelsen af Maalingen 1907 gav nøjagtig
+samme Resultat som Michelson's første
+Udmaaling 1895. Derved er Meteren ført tilbage til et
+efter al Sandsynlighed uforanderligt Naturmaal,
+og der er tilvejebragt en Normal for al
+Lysbølgebreddemaaling.
+
+Andre Apparater, der hører herhen, er de to
+vigtige Interferensspektroskoper <sp>Fabry</sp> og
+<sp>Perot</sp>'s <sp>Etalon</sp> og <sp>Lummer-Pladen</sp>.
+Med den første, en planparallel paa begge
+Sider gennemsigtig-forsølvet »Luftplade« (der
+tilvejebringes mellem to plane forsølvede
+Glasplader, holdte i uforanderlig Afstand fra
+hinanden), hvorved man faar meget skarpe
+Interferensringe, er et stort Antal Spektrallinier,
+hovedsagelig i Jernspektret, udmaalt med noget
+ringere, men dog overordentlig stor
+Nøjagtighed, hvorved der er tilvejebragt et vigtigt
+System af sekundære Normaler for
+Bølgebreddemaaling. Lummerpladen er en lang, nøjagtig
+planparallel Glasplade, hvis Virkemaade
+oplyses ved Fig. 6. Den og for øvrigt tillige
+Etalonen kan anvendes til lgn. Opgaver som det
+under <sp>Bøjning</sp> beskrevne
+<sp>Trappegitter</sp>.
+
+Her har kun kunnet omtales en lille Del af
+de utallige Anvendelser, Fysikken har gjort af
+I. til Længdemaalinger af enhver Art, til
+Undersøgelser af planparallelle Plader o. l., til
+fundamentale Forsøg, f. Eks. over Lysets
+Medføring i bevægede Legemer (rindende Vand e.
+l.), til talrige spektroskopiske, Undersøgelser,
+til astron. Undersøgelser, som Bestemmelse af
+Himmellegemers (f. Eks. Jupitermaanernes)
+tilsyneladende Størrelse, i den nyeste Tid
+endogsaa anvendt af Michelson til Bestemmelse af en
+Fiksstjernes tilsyneladende Størrelse, o. s. v.
+
+<sp>Staaende Lysbølger</sp> er paaviste af <sp>O.
+Wiener</sp> (1890). Han lod Lys falde ind mod
+et plant Metalspejl; det indfaldende og det
+reflekterede Lys interfererer da med hinanden
+og giver staaende Lysbølger med Knuder og
+Buge i ækvidistante Planer parallelle med
+Spejlet, altsaa et I.-Fænomen, hvor de to
+interfererende Lysstraaler har modsat
+Forplantningsretning. De staaende Bølger blev paaviste ved at
+anbringe en fotografisk Plade med en yderst
+tynd (20 Milliontedele mm tyk)
+Klorsølvkollodiumhinde næsten parallelt med Spejlet, saa
+at den skærer Knude- og Bugeplanerne i
+parallelle ækvidistante Linier, der ikke ligger alt
+for nær hinanden. Pladen viste virkelig
+saadanne ækvidistante Linier, efter at den var bleven
+fremkaldt. Disse staaende Lysbølger forklarer
+de <sp>Lippmannske
+Farvefotografier</sp> (s. d.).
+
+<sp>I.'s Historie</sp>. Tynde Hinders Farve er
+først beskrevet af <sp>Boyle</sp> 1663. og de herhen
+hørende Fænomener undersøgtes indgaaende af
+<sp>Newton</sp> i 17. Aarh.'s Slutn. <sp>Young</sp> (1802)
+og <sp>Fresnel</sp> (1815) erkendte, at I. skulde
+forklares ud fra Bølgeteorien og var et Bevis for
+denne, og Fresnel angav mange vigtige
+I.-Forsøg. <sp>Herschel</sp> (1809) og <sp>Haidinger</sp>
+(1849) iagttog de første specielle Tilfælde af I.
+i absolut planparallelle Plader (svarende til
+samme Hældning); for den videre Undersøgelse af
+disse har især <sp>Michelson</sp>'s Arbejder (fra
+1881) været af Bet. Den I. ved to Plader, som
+benyttes i
+Interferentialrefraktometret, iagttoges af <sp>Brewster</sp>
+1817. (<sp>Litt</sp>.: Foruden de større
+Lærebøger i Optik [f. Eks.
+<sp>Winckelmann</sp>'s »Handbuch der
+Physik«, Bd VI, Leipzig 1906, ell.
+<sp>Wood</sp>, <i>Physical Optics</i>, New
+•York 1920]: <sp>A. A. Michelson</sp>, <i>Light
+wawes and their uses</i> [Chicago 1903];
+<sp>Gehrcke</sp>, »Die Anwendung der Interferenzen in der
+Spektroskopie und Metrologie« [Braunschweig
+1906]).
+<i>H. M. H.</i>
+
+<img>Fig. 6.</img>
+</chapter>
+
+<chapter name="Interferensmodtagere">
+<b>Interferensmodtagere</b> anvendes i den
+nyeste Tid i stor Udstrækning i Radiotelegrafien.
+Virkningsmaaden beror paa, at selve
+Detektororganet foruden af den af den ankommende
+elektromagnetiske Bølge frembragte
+højfrekvente Svingning tillige paavirkes af en lokal i
+Modtageren frembragt højfrekvent Svingning.
+Ved Samvirken af disse to højfrekvente
+Svingninger opstaar der ved Interferens en tredie
+Svingning, hvis Frekvens er lig med
+Differensen mellem de to højfrekvente Svingningers
+Frekvenser. Den lokalt frembragte, højfrekvente
+Svingnings Frekvens vælges saaledes, at
+Interferenssvingningens Frekvens kommer til at
+ligge omkr. 600 à 1000, inden for hvilket
+Frekvensomraade Ørets Følsomhed er størst. Principet
+svarer saaledes ganske til, at der ved
+Samvirken af to Toner opstaar <sp>Stød</sp>, hvis Frekvens
+er lig med Differensen af de to Toners
+Frekvenser. Man kalder derfor ogsaa Modtagere, der
+arbejder efter dette Princip, for
+<sp>Stødmodtagere</sp>. — Ang. den nærmere Indretning af
+I., se <sp>Radiotelegrafien</sp>.
+<i>P. O. P.</i>
+</chapter>
+
+<chapter name="Interferometer">
+<b>Interferometer</b> ['en-], se <sp>Interferens</sp>.
+</chapter>
+
+<chapter name="interfoliere">
+<b>interfoliere</b> (lat.), indsætte hvide Blade
+mellem en Bogs Blade.
+</chapter>
+
+<chapter name="Interglacialtid">
+<b>Interglacialtid</b> ['en-], se <sp>Istid</sp>,
+</chapter>
+
+<chapter name="in tergo">
+<b>in tergo</b> (lat.), paa Ryggen, Bagsiden (f.
+Eks. af en Veksel); ogsaa <i>in dorso</i>.
+</chapter>
+
+<chapter name="Interim">
+<b>Interim</b> ['en'-] (lat.). Hermed betegnes de paa
+Karl V's Ønske opstillede foreløbige
+Fællesbekendelser, der skulde ordne Forholdet
+mellem Katolikker og Protestanter, indtil et alm.
+Kirkemøde kunde træffe den endelige Afgørelse.
+Man skelner mellem 3 saadanne. 1)
+<sp>Regensburg-I.</sp> var en Fællesbekendelse, som
+Katolikkerne Gropper, v. Pflug og Contarini og
+Reformatorerne Melanchthon og Bucer ved et
+Møde i Regensburg 1541 var blevne enige om,
+og som Kejseren krævede respekteret, dog
+uden at det lykkedes ham. 2) <sp>Augsburg-I.</sp>
+Kejserens Sejr i den schmalkaldiske Krig gjorde
+ham til Situationens Herre, og han tvang nu
+paa Rigsdagen i Augsburg 1548 et I. igennem.
+Det var i alle væsentlige Stykker en Fornægtelse
+

@@ -1,0 +1,86 @@
+<sp>elektromotoriske Kraft</sp> er altsaa simpelthen lig
+Tilvæksten pr Sek. i den omsluttede
+Induktionsliniestrøm. Endnu vil man spørge om, hvilken
+Retning den elektromotoriske Kraft faar.
+Retningen er givet ved den Regel, at den
+inducerede elektromotoriske Kraft søger at
+modvirke den Forandring, som fremkalder den.
+Lad Forandringen bestaa i en
+Forstærkning af den i Fig. 7 antydede
+Induktionsliniestrøm. Den elektromotoriske Kraft vil
+da efter Reglen være rettet mod den paa <i>A</i>
+anbragte Pil. Thi en elektromotorisk Kraft
+med denne Retning vil søge at frembringe en
+elektrisk Strøm, som formindsker Antallet af
+Induktionslinier. Det følger af Haandreglen
+ovf. Efter denne faar man Retningen af den
+magnetiske Kraft, som en Strøm imod Pilen
+frembringer inden for Lederens Omkreds, ved
+at fatte om Lederen med højre Haand,
+saaledes at Strømmen følger Langfingrene;
+Tommelfingren peger da i Retning af den
+magnetiske Kraft og dermed af den magnetiske
+Strøm. Som det ses, vil denne flyde imod den
+i Fig. 7 tegnede Induktionsliniestrøm, altsaa
+søge, at formindske denne. Om den
+elektromotoriske Kraft faar Lejlighed til at frembringe
+en elektrisk Strøm, er et andet Spørgsmaal. Er
+Strømkredsen aaben, kommer der ingen Strøm
+i den, men den elektromotoriske Kraft
+induceres alligevel med den antydede Retning. Er
+Kredsen sluttet, opstaar en Strøm, som i Styrke
+afhænger af Kredsens Modstand. Strømmen
+ændrer som antydet Induktionsliniestrømmen,
+og den elektromotoriske Kraft er da bestemt
+ved den totale Ændring pr Sek. d. v. s.
+Ændringen hidrørende fra Strømmen selv og fra
+eventuelle andre Aarsager. I Praksis bruges ofte som
+Enhed for elektromotorisk Kraft 1 Volt. Med
+denne Enhed er <i>C3</i> ikke 1, men 10<sup>-8</sup> d. v. s.
+1 divideret med 100 Millioner. Man har altsaa
+8°" <i>e</i> = 10<sup>-8</sup> · <i>d</i>Φ/<i>dt</i> Volt.
+
+Dersom Lederen <i>A</i> danner en Spole med <i>n</i>
+Vindinger, der alle kan regnes at omslutte
+praktisk set samme Induktionsliniestrøm Φ, vil
+der i enhver Vinding induceres den ved 8°"
+givne elektromotoriske Kraft. Den hele
+elektromotoriske Kraft bliver altsaa
+9° <i>e</i> = 10<sup>-8</sup> · <i>n</i> · <i>d</i>Φ/<i>dt</i> Volt.
+Anvendelsen af fl. Vindinger er altsaa et
+Middel til Frembringelse af større elektromotoriske
+Kræfter.
+
+Ligningerne 8°—9° fører umiddelbart til en
+meget simpel Fremgangsmaade til ved Tegning
+at bestemme den inducerede elektromotoriske
+Kraft, naar man, hvad hyppigt er Tilfældet,
+ved, hvorledes Induktionsliniestrømmen, der
+omsluttes af Lederen, varierer i Tidens Løb.
+I Fig. 8 forestiller den øverste Kurve
+Variationen af en Induktionsliniestrøm, der omsluttes
+af en Leder. Tiden er afsat ud ad den
+vandrette Linie, Abscisseaksen,
+Induktionsliniestrømmen er afsat i Retning af den
+lodrette Linie, Ordinataksen. Som det ses,
+stiger og falder den i Tidens Løb. Af Figuren
+finder man Værdien af <i>d</i>Φ/<i>dt</i> i et givet Øjeblik
+f. Eks. til Tiden <i>t1</i>, paa flg. Maade. Man tegner
+Tangenten <i>ab</i> til Kurven i Punktet svarende til
+<i>t1</i>. Derefter danner man Forholdet mellem
+Linier som <i>bc</i> og <i>ac</i>, den første udmaalt i
+Enhederne for Φ, den sidste i Enhederne for <i>t</i>.
+Forholdet er <i>d</i>Φ/<i>dt</i>, altsaa den elektromotoriske
+Kraft, som i Øjeblikket <i>t1</i> induceres i
+Strømlederen. Man kan afbilde denne
+elektromotoriske Kraft og dens Variation i Tidens Løb i
+Form af en Kurve. Kurven er tegnet nederst i
+Fig. 8. Af denne Figur og af Udtrykkene 8°—
+9° ses, at hvor Kurven for Φ er højest ell.
+lavest, gaar <i>e</i>-Kurven gennem Nul. Der hvor
+Φ-Kurven er stejlest, har <i>e</i>-Kurven en Top.
+Ønsker man induceret en meget høj Spænding,
+
+<img>Fig. 7.</img>
+
+<img>Fig. 8.</img>

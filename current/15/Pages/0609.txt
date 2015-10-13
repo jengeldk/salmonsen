@@ -1,0 +1,147 @@
+Medens Ledningsmodstanden hos elektrolytisk
+Jern er 0,12 Ohm pr m Længde og m<sup>2</sup> Tværsnit,
+stiger den med 0,11 Ohm for hver 1 % Si, der
+tilsættes. Til Dynamoankere nøjes man ofte med
+det billigere halvlegerede Blik, der kun
+indeholder 1—c. 1,5 % Si. Begge Bliksorter maa
+behandles forsigtigt, saa Koldstrækning
+undgaas.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="legeret Staal">
+<b>legeret Staal,</b> se <sp>Specialstaal</sp>.
+</chapter>
+
+<chapter name="Legering">
+<b>Legering</b> (lat.), Forbindelse ell. Blanding af
+to ell. fl. Metaller indbyrdes ell. af Metaller
+med eet ell. fl. Metalloider (L.'s »Komponenter«),
+hvori Metaludseendet og i det hele taget
+Metalkarakteren er bibeholdt. For at L. kan
+dannes, er det nødvendigt, at Komponenterne kan
+opløses i hinanden i smeltet Tilstand; Metaller,
+med hvilket dette ikke er Tilfældet — eller
+hvor Opløseligheden er saa ringe, at den ikke
+spiller nogen Rolle i Praksis — som f. Eks.
+Jern og Bly, kan ikke danne nogen L. Ved
+Afkøling af den flydende Smeltemasse vil der,
+naar en bestemt Temperatur er naaet, begynde
+at udskilles Metalkrystaller, hvad der — i
+Reglen ved en stadig synkende Temperatur —
+vil fortsættes, til hele Massen er størknet og den
+faste L. er dannet. Disse Krystaller kan bestaa
+af alle ell. enkelte af Komponenterne i fri
+Tilstand, af kemiske Forbindelser af to ell. flere
+Komponenter ell. af saakaldte »faste
+Blandingskrystaller«, d. v. s. Metalkrystaller
+indeholdende samtidig fl. af Komponenterne, der er
+homogent fordelte i hinanden inden for Krystallen
+paa samme Maade som f. Eks. Kogsaltet i en
+Kogsaltopløsning, men uden at de har indgaaet
+nogen kemisk Forbindelse indbyrdes. I mange
+Tilfælde vil en større ell. mindre Mængde af
+L. være udskilt i saakaldet »eutektisk« Tilstand,
+d. v. s., at Komponenterne udskilles samtidigt
+Side om Side i som oftest overordentlig fint
+fordelt Form, som Blade ell. Korn; denne
+eutektiske Udskillelse, hvori Mængdeforholdet
+mellem de tilstedeværende Komponenter er et
+ganske bestemt og karakteristisk for vedk. L.,
+finder Sted ved den laveste Størkningstemperatur,
+som overhovedet vil naas under Størkningen af
+den paagældende L., og paa en saadan Maade, at
+Temperaturen vil holde sig konstant, saa længe
+Størkningen af Eutektikumet varer. Naar
+denne er tilendebragt, vil hele Størkningen
+altsaa være tilendebragt, og den hu faste L. vil
+bestaa af primært udskilte. forholdsvis
+veluddannede Krystaller af een ell. fl. af
+Komponenterne — i ren Tilstand ell. i kemisk
+Forbindelse med hinanden — omgivne af en
+Grundmasse af fint fordelt Eutektikum. Saafremt L.
+til at begynde med indeholder Komponenterne
+i samme indbyrdes Mængdeforhold som det, der
+er karakteristisk for den eutektiske L., vil hele
+L. størkne eutektisk ved den før nævnte
+konstante Temperatur til et Eutektikum. Medens
+ved L., der kun indeholder to Komponenter,
+»binære« L., Forholdene endnu er nogenlunde
+lette at overse, bliver de ved »ternære« og
+endnu mere ved »kvaternære« L. meget
+komplicerede, hvortil ogsaa bidrager, at der i mange
+Tilfælde ogsaa efter Størkningen kan ske
+Omdannelser og Spaltninger i de faste Krystaller,
+f. Eks. Omdannelser til andre polymorfe ell.
+allotrope Modifikationer, af Blandingskrystaller
+kan udkrystallisere simplere sammensatte
+Krystaller etc. Der er navnlig i de sidste Aartier
+nedlagt et meget betydeligt Arbejde i at
+klarlægge disse Forhold, og der er opstaaet en helt
+ny Videnskab, Metallografien (s. d.), som søger
+at bringe Orden i det efterhaanden
+særdeles omfattende eksperimentelt tilvejebragte
+Materiale og at finde de grundlæggende Love
+for L.'s Konstitution og Dannelse. Da
+selvfølgelig L.'s Mikrostruktur i første Linie vil være
+afgørende for L.'s Egenskaber, bliver
+Metallografien i stigende Grad Grundlaget for L.'s
+Anvendelse i Praksis. Denne er særdeles
+omfattende, ja, da næsten alle de teknisk anvendte
+Metaller er mere ell. mindre urene, indeholder
+større ell. mindre Mængder af andre Metaller
+ell. af Metalloider, kan man betragte saa godt
+som alle vore til praktiske Formaal benyttede
+Metaller som faldende inden for L.-Begrebet.
+Set fra dette Synspunkt vil man saaledes
+betragte Støbejern som værende en L. af rent
+Jern med Kulstof, Mangan, Silicium og Fosfor;
+Staal som en L. af Jern og en ringe Mængde
+Kulstof etc. At Teknikken i saa stor
+Udstrækning foretrækker L. for de rene Metaller, beror
+for en væsentlig Grad paa, at L. ofte har mere
+værdifulde Egenskaber end de rene Metaller,
+og at det ofte ved en Tilsætning af en
+forholdsvis ringe Mængde af et Fremmedstof vil være
+muligt at afpasse Metallets Egenskaber efter
+de foreliggende Formaal. Det vilde føre alt for
+vidt her i Detailler at vise, hvilke Virkninger
+der kan naas ved at lade de forsk. Metaller
+danne L. med hinanden; kun et Par Eksempler
+skal anføres. Ofte — men dog langtfra altid
+— vil den Temperatur ell. det
+Temperaturinterval, i hvilket L. smelter, ligge lavere end
+Smeltepunkterne af Komponenterne; man kan
+herved fremstille lavtsmeltelige L. til Lodning
+(s. d.), Sprinklers (s. d.) etc. Støbeligheden vil
+i Reglen stige væsentlig ved L., idet disse ofte
+vil flyde godt i smeltet Tilstand, ligesom de
+vil udfylde Formen fuldstændigt efter at være
+størknede. Farven vil ofte influeres stærkt ved
+L., saaledes vil allerede en ringe Tilsætning
+af Nikkel gøre Kobber sølvhvidt. Smidigheden
+vil i Reglen nedsættes ved L.'s Dannelse,
+navnlig i meget betydelig Grad, saafremt der dannes
+kemiske Forbindelser af Komponenterne, da
+saadanne næsten altid vil være skøre; man
+undgaar derfor helst at give L. en
+saadan Sammensætning, at der kan være Fare for
+Dannelsen af kemiske Forbindelser.
+L.-Fremstilling vanskeliggøres ofte ved, at der indtræder
+»Sajgring«, d. v. s., at Massen bliver
+uhomogen, ved at de først udskilte Krystaller, der
+jo efter det før omtalte som oftest vil være
+anderledes sammensatte end Smeltemassen, kan
+stige op til Overfladen ell. synke til Bunds;
+hurtig Afkøling og Omrøring under Afkølingens
+første Del modvirker Sajgringen. L., hvori det
+ene Metal er Kvægsølv, kaldes Amalgamer; de
+udmærker sig ved at være flydende, naar
+Kvægsølvindholdet er nogenlunde stort.
+<i>Carl J.</i>
+</chapter>
+
+<chapter name="leges Alamannorum">
+<b>leges Alamannorum</b> (lat.), Alamannernes
+Love. Af saadanne foreligger to: <i>pactus
+Alamannorum</i>, en kun i Brudstykker bevaret

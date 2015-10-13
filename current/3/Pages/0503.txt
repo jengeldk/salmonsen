@@ -1,0 +1,132 @@
+Ved Udviklingens Beg. var Jernbanedriftens
+nærmeste Forbillede den eksisterende
+Postvognskørsel med de hurtige og regelmæssige
+Forbindelser. Men det viste sig hurtigt, at
+Landevejenes fri Kørsel ikke kunde overføres
+til Jernbanerne. At Jernbanetogene behøver
+Signaler til Sikring af deres Løb, skal George
+Stephenson have forstaaet allerede 1830 ved
+Liverpool—Manchester Banens Aabning, da han
+førte det tilskadekomne Parlamentsmedlem
+Huskisson hjem paa Lokomotivet med den efter
+Tidens Forhold rasende Hastighed af henved
+60 km i Timen. Formodentlig paa Stephenson's
+Tilskyndelse blev der paa
+Liverpool—Manchester Banen oprettet en Række Poster, hvorfra
+der gaves Signaler til Togene. Fra først af
+brugtes kun Haandsignaler, men fra 1834
+anvendtes faststaaende Signalindretninger. Paa
+samme Maade indrettede efterhaanden de
+øvrige eng. Baner sig. Ordningen blev, at
+Posterne viste »Stop« for et Tog, naar der endnu
+ikke var forløbet 5 Min. efter den sidste
+Togpassage, og »Forsigtig Kørsel«, naar der var
+forløbet 5, men endnu ikke 10 Min. efter
+Togpassagen, samt endelig »Kør«, saa snart de
+10 Minutter var forløbne. Driftssystemet var
+følgelig »Kørsel i Tidsafstand«. De første
+Signaler blev indstillede paa Stedet, men tidligt
+kom man dog ind paa at bruge Signaler med
+Traadtræk og kunde da anbringe Posterne i
+betydelig Afstand fra Signalet. Anvendelsen
+af disse <sp>Afstandssignaler</sp> aabnede ny
+Muligheder, idet de fra først af blev anbragte,
+hvor man ikke fra Lokomotivet kunde overse
+Banelinien i tilstrækkelig Længde, f. Eks. i
+skarpere Kurver. Signalet blev da opstillet ved
+det paagældende Liniestykkes Begyndelse, og
+Posten fik en Plads, hvorfra den kunde overse,
+om Strækningen var fri ell. ikke. Paa disse
+Steder kom Togene saaledes til at køre i
+Rumafstand, men Metoden var ikke egnet til
+alm. Gennemførelse. Den videre Udvikling
+fulgte med Fremkomsten af den elektriske
+Telegraf, der satte Signalposterne i Stand til at
+udveksle Meldinger om Toggangen. Naar et
+Tog var passeret, kunde en Signalpost da holde
+sit Signal paa Stop, indtil den fra Naboposten
+modtog Underretning om, at Toget havde
+passeret Mastesignalet der. Denne Ordning kom
+lidt efter lidt i Anvendelse paa vanskeligere
+Dele af Strækningerne, f. Eks. ved Tunneler,
+større Kurver o. l., og en Overgang brugtes
+saaledes »Kørsel i Tidsafstand« og »Kørsel i
+Rumafstand« samtidigt paa forskellige Dele af
+de samme Banestrækninger. At lede hele
+Toggangen ved telegrafiske Meldinger fandt man
+til en Beg. for farligt, idet der maatte regnes
+med de mulige Fejltagelser i Telegraferingen.
+Systemet fandt dog sine Forkæmpere, først og
+fremmest W. F. Cooke, der allerede 1842
+gjorde Rede for Principperne paa saa
+fuldstændig en Maade, at han maa betragtes som B.'s
+Fader. Kørslen i Rumafstand trængte da
+ogsaa efterhaanden igennem paa de eng. Baner,
+hvor den sluttelig 1889 blev paabudt ved Lov
+Og det eng. Forbillede fulgtes paa det europ.
+Fastland, i Frankrig og Italien dog kun delvis,
+idet bl. a. den betingede Blokordning her
+anvendes paa en stor Del af Strækningerne. Det
+samme gælder om Amerika.
+
+Det til Togmeldingerne i England benyttede
+Telegrafapparat har lige fra den første Tid
+haft saa simpel en Form, at det snarest maa
+betragtes som et elektrisk Signalapparat. Den
+alm. Benævnelse er da ogsaa
+<sp>Blokapparat</sp>. Det bestaar i Hovedsagen af Visere,
+Tableauer e. l., hvormed der kan gives to ell.
+tre Tegn, nemlig »Linien fri«, »Linien besat« og
+eventuelt »Linien lukket«, det sidste som
+Udtryk for Tilstanden paa det frie, men ikke
+frigivne Blokstykke. Desuden er Apparaterne
+forsynede med elektriske Klokker, saaledes at
+Posterne er i Stand til at udveksle
+Ringemeldinger. Posterne — de saakaldte <sp>Blokposter</sp>
+— har hver to Apparater, et for hver af de
+to Togretninger, og hvert Apparat har to
+Felter, et for det neden for og et for det oven for
+Posten liggende Blokstykke. To Naboposter har
+saaledes begge for hver Togretning et Felt for
+den mellemliggende Strækning. De til samme
+Togretning hørende Felter paa de to Poster
+indstilles samtidigt og paa samme Post,
+nemlig den, der sidst passeres af Toget. Naar et
+Tog nærmer sig en Post, A, giver denne
+Vækkerringning til den flg. Post, B, der besvarer
+Signalet som Tegn paa, at den er rede.
+Derpaa melder A — stadig ved Ringning —
+Togets Ankomst. B. ringer tilbage, dersom
+Linien virkelig er fri, og ved Drejning af et
+Haandtag, Nedtrykning af en Knap e. l. stiller
+den derpaa de to paagældende Felter paa
+Posterne A og B paa »Linien fri«. I Kraft af
+denne Tilladelse giver A herefter Kørsignal for
+Toget, og naar Toget er passeret, melder den
+dette til B. Ringesignalet gentages som
+sædvanligt af B., og denne omstiller derpaa de to
+Felter paa Posterne, saaledes at de viser
+Linien besat. Naar endelig B. har faaet Toget
+inden for sit Signal, giver den Ankomstmelding
+til A og stiller derefter Felterne i
+Grundstillingen »Linien lukket«. — Den beskrevne
+Ordning egner sig mindre godt for enkeltsporede
+Baner, hvor Strækningssporet bliver befaret
+i begge Retninger. Paa saadanne Linier bruges
+i England almindeligvis den særlige Driftsform,
+der har faaet Navn af
+<sp>Togstavssystemet</sp> (s. d.).
+
+Ogsaa i Tyskland ansaa man det til en Beg.
+for nødvendigt ved Jernbanedriften at anvende
+særligt simple Telegrafapparater, men det
+erkendtes snart, at Telegraferingen med Morse's
+Skriftapparater ikke frembyder større
+Vanskeligheder, end at den med Lethed kan læres af
+det underordnede Stationspersonale.
+Morseapparaterne kom da hurtigt i Brug; med disse gives
+Togmeldingerne som almindelige
+Telegramdepecher i bestemte, vedtagne Former. En
+saadan Ordning passer imidlertid kun godt, hvor
+
+<img>Bloksystem.</img>

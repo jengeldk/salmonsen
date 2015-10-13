@@ -1,0 +1,149 @@
+Undersøgelser er gjorte andetsteds, særlig i
+Storbritannien. I nogle Lande er der af
+Private eller med Statsbidrag oprettet særlige
+Stationer til Trækiagttagelser; mest kendte er de
+tyske Stationer Rossitten ved det kurische Haff
+og Helgoland, vel det berømteste Sted til
+Iagttagelse af Fugletræk, der overhovedet findes. Et
+stort Fremskridt til Udredelse af Trækvejene
+skete, da den danske Forsker <sp>H. Chr. C.
+Mortensen</sp> i 1890'erne fandt paa at mærke
+Trækfugle med en Aluminiumring med hans Navn og
+Adresse, anbragt om Foden; disse Forsøg er
+andetsteds optagne i stor Maalestok og har
+givet fortræffelige Resultater (se iøvrigt:
+<sp>ornitologiske Stationer</sp>,
+<sp>Ringmærkning</sp>). (<sp>Litt.</sp> om T. er overvældende, og kun
+enkelte Hovedværker kan nævnes. Allerede
+<sp>Aristoteles</sp> omtaler det i sine Skrifter, og
+fra det 13. Aarhundrede findes i den tyske
+Kejser <sp>Frederik</sp> II's Værk, <i>De arte venandi</i>
+ganske moderne Anskuelser om T. Fra nyere
+Tid kan nævnes: <sp>Palmén</sp>, »Om Foglarnes
+Flyttningsvägor« [Helsingfors 1874]; <sp>E.
+Homeyer</sp>, »Die Wanderungen der Vögel«
+[Leipzig 1881]; <sp>M. Menzbier</sp>, »Die Zugstrassen
+der Vögel im europäischen Rusland« [<i>Bull.
+Soc. Imp. Nat.</i>, Moskva 1886]; <sp>Middendorf</sp>,
+»Die Isepiptesen Ruslands« [<i>Mém. de l'acad. des
+Sciences</i>, Petrograd 1885]; <sp>H. Gätke</sp>, »Die
+Vogelwarte Helgoland« [Braunschweig 1891];
+<sp>R. M. Barrington</sp>, <i>The Migration of Birds
+etc.</i> [Lond. 1901]; <sp>O. Hermann</sp>, <i>Recensio
+automatica critica of the Doctrine of
+Bird-Migration</i> [Budapest 1905]; <sp>K. Graeser</sp>, »Der Zug
+der Vögel« [Berlin 1904]; <sp>F. v. Lucanus</sp>, »Die
+Rätsel des Vogelzuges« [Langenzalza 1922]. Om
+T.-Iagttagelserne fra danske Fyr er siden
+1888 kommet Aarsberetninger af <sp>H. Winge</sp>
+og <sp>R. Hørring</sp>, »Fuglene ved de danske Fyr«
+i Vidensk. Medd. nat. For. Dels heri, dels i
+Dansk ornith. Tidsskr. findes
+<sp>Mortensen</sp>'s Arbejder om Ringmærkning af Fugle.
+Iagttagelser fra Rossitten og Helgoland,
+henholdsvis af <sp>Thienemann</sp> og <sp>Weigold</sp> er
+udkomne som Aarsberetninger i talrige Bind af
+Journ. f. Ornith.).
+<i>O. H.</i>
+</chapter>
+
+<chapter name="Trækaal">
+<b>Trækaal,</b> se <sp>Kokaal</sp>.
+</chapter>
+
+<chapter name="Trækanker">
+<b>Trækanker,</b> se <sp>Anker</sp>, S. 773.
+</chapter>
+
+<chapter name="Trækbasun">
+<b>Trækbasun,</b> se <sp>Basun</sp>.
+</chapter>
+
+<chapter name="Trækforsøg">
+<b>Trækforsøg</b> tjener til at bestemme
+Legemers Trækstyrke, Sejghed og Trækelasticitet
+(Samhørigheden mellem Trækspænding og
+Forlængelse) og udføres i Materialprøvemaskiner
+(s. d. og <sp>Materialprøvning</sp>). Om
+Prøvelegemernes Form se
+<sp>Normal-Prøvelegemer</sp>. Trækker man i begge Ender af en
+prismatisk Stang med Kraften <i>P</i>, saaledes, at
+denne fordeler sig ensformigt over hele
+Tværsnittet <i>F</i>, saa vil der overalt i Stangen være en
+Spænding σ = <i>P/F</i>, og Stangen vil som Følge
+deraf forlænge sig. Er Forlængelsen λ, og
+Stangens oprindelige Længde ι, bliver Forlængelsen
+pr. Længdeenhed ε = λ/ι. Samtidig vil Stangens
+Tværsnit formindskes noget, men dertil tages
+der ikke Hensyn ved Beregningen af σ. Maaler
+man sammenhørende Værdier af σ og ε eller
+<i>P</i> og λ og afsætter dem i et Koordinatsystem
+som henholdsvis Ordinat og Abscisse, faar man
+en Kurve, der kaldes Materialets
+<sp>Arbeidslinie</sp>, og som anskueliggør Forholdet mellem
+Spændinger og Forlængelser. En saadan Kurve
+gældende for blødt Staal er vist i Fig. 1.
+Arbejdslinien er
+forskellig for de
+forskellige Stoffer,
+men vender
+næsten altid
+Konkaviteten mod
+λ-Aksen. Kun
+Læder, Kautsjuk og
+Tovværk har en
+modsat krummet
+Arbejdslinie.
+Iøvrigt kan man skelne mellem to Former for
+Arbejdslinien, en kort og en lang.
+
+<sp>En kort Arbejdslinie</sp> er
+karakteristisk for de skøre Stoffer som Støbejern, Sten
+og Beton. Deres Arbejdslinie danner en jævnt
+krummet Kurve lige fra Begyndelsespunktet, og
+indtil Bruddet sker; og den totale Forlængelse
+i Brudøjeblikket er yderst ringe. Ogsaa
+Tværsnitsformindskelsen er forsvindende, og Bruddet
+sker efter et Plan vinkelret paa Prøvestangens
+Akse, uden at Stangens prismatiske Form
+ændres ved Indsnøring. Ved et almindeligt
+Trækforsøg, hvor man ikke gør Brug af fine
+Maaleinstrumenter, lader disse Formforandringer sig
+slet ikke, eller kun mangelfuldt, konstatere, og
+man nøjes derfor med at bestemme
+<sp>Trækstyrken</sp> <i>S</i> = <i>P/F</i>, hvor <i>P</i> er Maksimallasten,
+og <i>F</i> er Stangens Tværsnit.
+
+<sp>En lang Arbejdslinie</sp> finder man
+hos de sejge Stoffer som Kobber, Svejsejern og
+blødt Staal. Hos dette sidste er Kurven retliniet
+op til Punktet <i>P</i>, som kaldes
+<sp>Proportionalitetsgrænsen</sp> (se <sp>Elasticitet</sp>); i
+<i>F</i> forlænger Stangen sig pludselig stærkt, den
+»flyder«, og <i>F</i> kaldes <sp>Flydegrænsen</sp> (s.
+d.). Under Flydningen bliver Stangen tyndere,
+men samtidig øges den indre
+Gnidningsmodstand i Materialet, saaledes at Kurven atter
+stiger. Naar Punktet <i>B</i> er naaet, begynder
+Stangen at snøre sig ind paa et enkelt Sted,
+samtidig med at dette forlænger sig stærkt, og kort
+Tid efter sker Bruddet her. Ved
+Trækstyrken forstaar man Kraften <i>B</i><sub>1</sub><i>B</i> divideret med
+Stangens oprindelige Tværsnit (se
+<sp>Brudspænding</sp>). <sp>Brudforlængelsen</sp> <i>Ob</i> er,
+naar den angives i % af Stangens oprindelige
+Længde, et Maal for Sejgheden (se
+<sp>Brudforlængelse</sp>), der ogsaa bedømmes ved
+<sp>Indsnøringen</sp> (s. d.). Arealet mellem Kurven
+og Aksen <i>Ob</i> er et Maal for den til
+Overrivningen anvendte Arbejdsmængde (se
+<sp>Kvalitetstal</sp>). Prøver man at beregne den <sp>virkelige</sp>
+eller <sp>effektive Spænding</sp> paa Grundlag
+af det i hvert enkelt Øjeblik tilstedeværende
+Tværsnit, viser det sig, at den stiger under
+hele Forsøget, indtil Bruddet sker, og
+Brudværdien kan være indtil op imod dobbelt saa
+stor som den Værdi, der ovenfor er betegnet
+som Brudspænding. Som Trækforsøget og
+
+<img>Trækforsøg.</img>

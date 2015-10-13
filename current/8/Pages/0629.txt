@@ -1,0 +1,137 @@
+Reglen i for kort Afstand og har derfor faaet Ord
+for at give et fladt Perspektiv, hvilket
+naturligvis ogsaa afhjælpes ved rigtig
+Betragtningsafstand.
+
+<sp>Lysstyrken</sp>. Den Lysmængde, som hver
+Fladeenhed af Billedet af et fjernt Objekt
+modtager fra det fot. Objektiv, er proportional med
+Kvadratet paa Forholdet mellem
+Indgangspupillens Diameter <i>d</i> og Objektivets Brændvidde <i>f</i>.
+Selve dette Forhold <i>d</i> : <i>f</i> kaldes Objektivets
+<sp>relative Aabning</sp> ell. Aabningsforhold; under
+ellers lige Forhold er altsaa det fot. Objektivs
+Lysstyrke ligefrem proportional med og
+Eksponeringstiden altsaa omvendt proportional med
+Kvadratet paa dets relative Aabning. Denne
+angives ved en Brøk med Tælleren 1, altsaa f.
+Eks. 1:6,3. ell. hyppigere med Tælleren <i>f</i>,
+altsaa saaledes f:6,3; det, man derved angiver, er
+egl. Aabningens Diameter udtrykt som Brøkdel
+af Brændvidden. Der er dog ogsaa andre
+Betegnelsessystemer i Brug, idet man (f. Eks. paa
+Irisblænderens Inddeling) ikke angiver de til de forsk.
+Blænderaabninger svarende relative Aabninger,
+men (som Blændernumre) Tal, der enten er
+proportionale med den tilsvarende Lysstyrke ell. den
+tilsvarende Eksponeringstid, altsaa henh.
+proportionale med og omvendt proportionale med
+den relative Aabnings Kvadrat. Det første
+anvendes i <sp>Stolze</sp>'s System og i mange <sp>eng.</sp>
+Objektiver. Stolze giver den relative Aabning
+f:10 Blændernummer 10, det eng. System giver
+f:4 Blændernummer 1; dertil svarer i Stolze's
+System Nr. 1,6, idet (4/10)<sup>2</sup>·10=1,6. Et bestemt
+Blændernummer i det eng. System kræver
+altsaa 1,6 Gange saa lang Eksponering som det
+samme Nr i Stolze's. <sp>Zeiss</sp> anvender det
+omvendte System og giver den relative Aabning
+f:48 Blændernummer 1, f:10 faar derfor Nr 24,
+da (48/10)<sup>2</sup> = 24, og f:4 faar Nr 144 o. s. v. I
+Stolze's og det eng. System svarer altsaa store
+Tal til lille Aabning og lang Eksponeringstid,
+og omvendt i Zeiss' System.
+
+Det er som nævnt kun for fjerne Objekter,
+at Lysstyrken uden videre kan sættes
+proportional med den relative Aabning; for nærmere
+Objekter bliver den (1+1/m)<sup>2</sup> Gange mindre,
+hvor m er den førnævnte Formindskelse, og
+Eksponeringen skal da forøges i samme
+Forhold. Det faar dog først Bet., naar Objektet
+rykker meget nær; f. Eks. kræver en Optagelse
+i naturlig Størrelse (m = 1) 4 Gange saa lang
+Eksponering som en alm. Optagelse af et
+nogenlunde fjernt Objekt under ellers lige Forhold.
+— Lysmængden pr Fladeenhed af Pladen
+aftager hurtigt udefter fra Midten; allerede saa
+langt ude, at Straalernes Vinkel med
+Objektivets Akse er 33°, er Lysmængden kun den
+halve af den i Midten, men dette faar dog
+heller ikke meget at sige p. Gr. a. den fot. Plades
+ringe Følsomhed for saadanne mindre
+Variationer i Belysningen ved normal Eksposition. Men
+ved Storvinkelobjektiver, hvor der endnu
+bruges Straaler under Vinkler paa op til 70°,
+hvortil da svarer en Lysmængde paa knap 2 %
+af den i Midten, gør det sig naturligvis stærkt
+gældende og modvirkes undertiden ved særlige
+Stjerneblændere. — Til denne uundgaaelige
+Aftagen i Belysningen udefter paa Pladen kommer
+til sidst den saakaldte Vignetvirkning, Lysets
+Afskæring ved selve Linsefatningerne. Det har
+hidtil været forudsat, at ethvert Objektpunkt
+kunde fylde hele Indgangspupillen med Lys, og at
+alt dette Lys naaede Billedet paa den fot. Plade.
+Men dette er kun Tilfældet for den midterste
+Del af Pladen; længere ude afskærer
+Linserandene en større ell. mindre Del af Lyset. Opad
+f. Eks. er det yderste Punkt paa Pladen, der
+overhovedet modtager Lys gennem Objektivet,
+bestemt ved, at Straalen til det fra det øverste
+Punkt af den bageste (d. v. s. mod Pladen
+vendende) Linserand netop slipper gennem det
+nederste Punkt af den forreste Rand, men
+allerede adskilligt længere inde mod Pladens Midte
+bliver Lysstyrkens Aftagen saa stor, at den
+fot. Plade mærker den; derved bestemmes det
+paagældende Objektivs Pladeformat (hvis ikke
+Linsefejlenes Størrelse yderligere nedsætter det).
+De moderne korte Objektiver er i denne
+Henseende meget gunstigere end de gl. lange. —
+Vi har bortset fra Lystabet ved
+Tilbagekastning i Objektivet; dets Størrelse afhænger af
+Antallet af Linseflader mod Luft (Kitfladerne
+betyder intet) og beløber sig til c. 9, 17, 25 og 32
+% for henh. 2, 4, 6 og 8 saadanne Flader; mere
+end 8 Flader anvendes ikke i moderne
+Objektiver. Værre end dette Lystab er de Pletter
+ell. det Slør, som denne uundgaaelige
+Refleksion ved visse Konstruktioner giver
+Anledning til.
+
+Da Blænderaabningen er bestemmende
+baade for Lysstyrken og Dybden, men Forøgelse af
+Blænderaabningen virker modsat paa begge, er
+det klart, at for et givet fot. Objektiv er det
+umuligt at opnaa stor Lysstyrke og stor Dybde
+samtidig; det ene opnaas kun paa Bekostning
+af det andet. Anderledes stiller det sig, naar
+det fot. Objektiv ikke er givet; da nemlig
+Dybden afhænger af den absolutte Aabning, og
+Lysstyrken af den relative, kan stor Lysstyrke og
+stor Dybde opnaas samtidig ved en
+tilstrækkelig lille Brændvidde. Dette er Hovedaarsagen til
+den Tendens, der er til Anvendelse af smaa
+Apparater med Objektiver med korte
+Brændvidder (tillige opnaas jo Vægtformindskelse).
+Men Billederne maa da enten forstørres bagefter
+ell., som omtalt, betragtes gennem en passende
+Linse for at faa det rigtige Perspektiv. For et
+givet fot. Objektiv kan Lysstyrken og Dybden
+varieres ved at variere Blænderaabningen;
+hertil bruges nu mest Irisblænder (se <sp>Blænder</sp>),
+der giver kontinuert Variation. Endnu bruges
+dog ogsaa Skydeblændere, f. Eks. ved store
+Portrætobjektiver, og Rotationsblændere (en
+drejelig Metalplade med cirkulære Huller af
+forsk. Størrelse) ved Stereoskopkameraer, hvor
+de to Objektiver skal have nøjagtig samme
+Blænderaabning.
+
+<b>Linsefejlene</b>. Et saadant idealt
+Objektiv, som hidtil har været forudsat, kan ikke
+konstrueres. Men man kan ved at anvende
+Linsekombinationer opnaa, at de Fejl, som
+Afbildningen i en enkelt Linse er behæftet med,
+trykkes ned til saa smaa Beløb, at de er uden Bet.

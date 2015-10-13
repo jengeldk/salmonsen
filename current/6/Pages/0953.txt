@@ -1,0 +1,113 @@
+Maskinerne kan da vælges noget mindre, end
+Maksimalbelastningen fordrer, da Batteriet
+understøtter Maskinerne under Belastningsmaksimum.
+Størrelsen af Akkumulatorbatteriet er ret
+vanskelig at fastsætte; dets Størrelse er her i
+Landet ved Jævnstrøms e. K. i Købstæder 10-40 %
+af Maskineffekten; i Gennemsnit c. 20 % af
+denne.
+
+Danmarks største Bycentraler er 1915
+Københavns (11700 KW. Maskineffekt, 3640 KW.
+Batterieffekt), Frederiksbergs (4600 KW.
+Maskineffekt, 444 KW. Batterieffekt) og Aarhus'
+(2480 KW. Maskineffekt, 225 KW. Batterieffekt).
+Landets øvrige Bycentraler har alle mindre end
+2000 KW. samlet Maskin- og Batterieffekt.
+Landets største Landcentral ligger i Lunderskov
+(250 KW. Maskineffekt, 10 KW. Batterieffekt).
+Danmarks største Oplandscentraler er Randers
+e. K. (1590 KW) og Skovshoved eller
+Nordsjællands e. K. (1300 KW), begge disse
+producerer Vekselstrøm med 10000 Volts
+Spænding, der er den højeste her i Landet
+anvendte Spænding. I Kbhvn's e. K. er der
+opstillet Vekselstrømsgeneratorer til en samlet
+Effekt paa 9000 KW, i Frederiksbergs E./V.
+(Finsenværk) Vekselstrømsgeneratorer paa i alt
+3600 KW.
+<i>R. J. J.</i></chapter>
+
+<img>
+Fig. 26. Beskyttelsesrelais.
+</img>
+<img>
+Fig. 27. Overspændingssikring (Lynafleder).</chapter>
+</img>
+
+<chapter name=”elektriske Ledere”>
+<b>elektriske Ledere</b> kaldes de Legemer, der
+kan lade en elektrisk Strøm gaa igennem sig.
+De inddeles i Ledere af 1. og 2. Orden. Den
+første Afdeling lider ingen kemisk Forandring
+ved Ledningen og omfatter alle Metaller saavel
+i fast som smeltet Tilstand, Kul i Form af
+Trækul, Kokes og Grafit (Diamant isolerer) og
+enkelte Malme. De udmærker sig alle ved
+deres særdeles store Uigennemsigtighed, der iflg.
+den elektromagnetiske Lysteori er en Følge af
+deres elektriske Ledningsevne. Den anden
+Afdeling, Elektrolyterne, indeholder næsten
+udelukkende Vædsker, saasom Vand,
+Saltopløsninger, Syrer, alkaliske Opløsninger. Deres
+Ledningsevne er betinget af, at den elektriske
+Strøm kan spalte dem i deres Bestanddele; ud
+over den Overførsel af Elektricitet, der
+frembringes ved Ionernes Vandring under
+Elektrolysen, finder ingen Ledning Sted, og de
+Vædsker (Kulbrinter som Petroleum og Benzin;
+mange Olier og Fedtarter), der ikke spaltes af
+Strømmen, leder heller ikke.
+<i>K. S. K.</i></chapter>
+
+<chapter name=”elektriske Ledningsnet”>
+<b>elektriske Ledningsnet</b> er den Del af et
+elektrisk Anlæg, hvorigennem Elektriciteten
+ledes fra den elektriske Central til Forbrugerne,
+e. L. kan enten være Luftledningsnet, d. v. s.
+e. L., udførte af Metaltraade og ophængte paa
+Master, ell. underjordiske Ledningsnet, d. v. s.
+e. L., bestaaende af nedgravede elektriske
+Kabler, e. L. bestaar af to Dele, 1)
+<sp>Fødeledninger</sp>, der leder Elektriciteten fra Centralen til
+centrale Punkter af Nettet (Fødepunkter),
+hvorfra 2) <sp>Fordelingsnettet</sp> udgaar. Dette
+fører Elektriciteten fra Fødepunkterne til
+Forbrugerne (se <sp>elektrisk
+Kraftoverføring</sp>). Ved e. L. udførte som
+Luftledningsnet skelner man mellem
+<sp>Lavspændingsnet</sp> og <sp>Højspændingsnet</sp>.
+Lavspændingsnet, baade Jævnstrøms- og Vekselstrømsnet,
+føres i Byerne frem gennem Gaderne, i
+Købstæder som Regel paa Betonmaster i Byernes indre
+Del, men paa Træmaster i deres Yderdistrikter.
+I større Byer lægges de e. L. derimod som
+Regel i Kabler (se <sp>elektrisk
+Kraftoverføring</sp>). Ude i Landet føres
+Lavspændingsnet saa vidt muligt langs Veje, Markstier og
+Markskel. Højspændingsnet, der saa at sige
+altid er Vekselstrømsnet, maa ikke føres frem
+langs Hoved- ell. Bilandeveje. I ethvert Land
+gælder visse, ved Lov vedtagne Forskrifter for
+Anlæg og Fremføring af e. L. I Danmark
+anvendes hyppigst Træmaster til e. L. paa
+Landet. Masterne er imprægnerede mod
+Angreb af Insekter, Forraadnelse o. l. og skal
+være nedgravede i Jorden med mindst 1/6 af
+Mastens hele Længde. Isolatorerne, der bærer
+Ledningerne, skal ved Højspændingsnet sidde i
+saadan Højde paa Masterne, at
+Højspændingsledningernes laveste Punkt er fjernet mindst 6
+m fra Jorden. En Ledningsmast afstives ved
+Hjælp af enten Barduner ell. Skraastivere, naar
+Linieføringerne fra og til Masten ikke ligger i
+samme rette Linie. Afstanden mellem
+Træmaster varierer mellem 80 m for de mindste
+Ledningstværsnit til 40 m for de svære
+Ledningstværsnit. Betonmaster udføres, som
+Benævnelsen angiver, af armeret Beton, og er i
+Reglen firkantede. Jernmaster kan enten være
+slet og ret et Stykke Profiljern ell. mere
+sammensatte Konstruktioner, saakaldte
+Jerngittermaster. Disse er betydeligt dyrere end Træ-
+og Betonmaster og anvendes især til

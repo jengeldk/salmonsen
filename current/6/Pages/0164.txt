@@ -1,0 +1,168 @@
+<chapter name="Differentialregning">
+<b>Differentialregning,</b> et Afsnit af den højere
+Matematik, der omhandler Funktionerne og
+deres Differentialkvotienter. Er <i>y</i> en reel
+Funktion af den reelle Variable <i>x</i>, og betegner Δ<i>x</i>
+og Δ<i>y</i> smaa samtidige Tilvækster til <i>x</i> og <i>y</i>,
+menes med <i>Differentialkvotienten</i>
+<table>
+<td c><i>dy</i><td v2> af <i>y</i> m. H. t. <i>x</i> den Grænseværdi, hvortil
+<td c><i>dx</i>
+</table>
+<table>
+<td c>Δ<i>y</i><td v2>nærmer sig, naar Δ<i>x</i> aftager til 0. Det
+<td c>Δ<i>x</i>
+</table>
+forudsættes, at den nævnte Grænseværdi er
+uafhængig af den Maade, hvorpaa Δ<i>x</i> konvergerer
+mod 0; dette gælder ved vore elementære
+Funktioner, men der er andre Funktioner, som for
+nogle ell. uendelig mange Værdier af <i>x</i> ell.
+inden for hele Intervaller af <i>x</i> ikke har nogen
+Differentialkvotient. Er <i>u</i> en Funktion af en
+kompleks Variabel <i>z</i> = <i>x</i> + <i>iy</i>, og betegner Δ<i>u</i>
+og Δ<i>z</i>=Δ<i>x</i>+<i>i</i>Δ<i>y</i> samtidige Tilvækster til <i>u</i> og <i>z</i>,
+forstaas ved Differentialkvotienten
+<table>
+<td v2>Grænseværdien af<td c>Δ<i>u</i><td v2>, naar Δ<i>z</i> konvergerer mod 0,
+<td c>Δ<i>z</i>
+</table>
+forudsat at denne Grænseværdi er uafhængig af,
+hvorledes Δ<i>x</i> og Δ<i>y</i> samtidig nærmer sig til 0,
+noget, der gælder for de mest undersøgte
+Klasser af Funktioner. At danne
+Differentialkvotienten kaldes at <sp>differentiere</sp>
+<table>
+<td v2>Funktionen; ved Differentiation af<td c><i>dy</i><td v2>, der selv er
+<td c><i>dx</i>
+</table>
+en Funktion af <i>x</i>, faas Differentialkvotienten af
+<table>
+<td v2>2. Orden<td c><i>d</i><sup>2</sup><i>y</i><td v2>, af denne atter<td c><i>d</i><sup>3</sup><i>y</i><td v2> o. s. v.
+<td c><i>dx</i><sup>2</sup><td c><i>dx</i><sup>3</sup>
+</table>
+Lagrange betegnede Differentialkvotienterne af en
+Funktion <i>f</i> (<i>x</i>) ved <i>f</i>' (<i>x</i>), <i>f</i>" (<i>x</i>) o. s. v. og
+kaldte dem de <sp>afledede</sp> ell. <sp>deriverede
+Funktioner</sp>; hyppig bruges Betegnelser
+<i>y</i>', <i>y</i>" o. s. v. Differentialkvotienternes store
+Bet. kan ses af et Par Anvendelser, netop de
+samme, der gav Stødet til D.'s Opfindelse. I
+analytisk Geometri bestemmer de Retningen af
+en Kurves Tangent. Vælger man paa Kurven to
+<table>
+<td v2>Punkter (<i>x</i>,<i>y</i>) og (<i>x</i>+Δ<i>x</i>, <i>y</i>+Δ<i>y</i>), er <td c>Δ<i>y</i>
+<td c>Δ<i>x</i>
+</table>
+Tangens af den Vinkel, som Sekanten gennem de
+to Punkter danner med Abscisseaksen; falder
+de to Punkter sammen, idet Δ<i>y</i> og Δ<i>x</i> aftager
+til 0, bliver Sekanten Kurvens Tangent i (<i>x</i>, <i>y</i>),
+og dennes Vinkel med Abscisseaksen har altsaa
+<table>
+<td v2>sin Tangens =<td c><i>dy</i><td v2>, der jo er Grænseværdien for
+<td c><i>dx</i>
+</table>
+<table>
+<td c>Δ<i>y</i><td v2>. Naar et Punkt bevæger sig paa en
+<td c>Δ<i>x</i>
+</table>
+vilkaarlig Maade, saaledes at dets i Tiden <i>t</i>
+gennemløbne Vej kaldes <i>x</i>, vil man som et naturligt
+Maal for dets Hastighed paa et vist Tidspunkt
+<table>
+<td v2>vælge Forholdet<td c>Δ<i>x</i><td v2>, hvor Δ<i>x</i> er den Vej, som
+<td c>Δ<i>t</i>
+</table>
+Punktet i sin fortsatte Bevægelse gennemløber
+i den meget lille Tid Δ<i>t</i>. En bestemt Definition
+paa Hastigheden faar man da i
+<table>
+<td v2>Bevægelseslæren ved at sætte den =<td c><i>dx</i><td v2>; Accelerationen
+<td><i>dt</i>
+</table>
+<table>
+<td v2>bliver saa =<td c><i>d</i><sup>2</sup><i>x</i><td v2>(se <sp>Bevægelse</sp> og
+<td c><i>dt</i><sup>2</sup>
+</table>
+<sp>Acceleration</sp>). Ved <i>y</i>'s <sp>Differential</sp>
+<table>
+<td v2>svarende til Tilvæksten Δ<i>x</i> til <i>x</i> forstaas<td c><i>dy</i><td v2>. Δ<i>x</i>;
+<td c><i>dx</i>
+</table>
+det bruges alm. i St f. <i>y</i>'s virkelige Tilvækst,
+hvorfra det, naar Δ<i>x</i> er tilstrækkelig lille, kun
+afviger ved Størrelser, der er forsvindende i
+Sammenligning med dem begge. Er <i>y</i> en
+Funktion af fl. Variable, f. Eks. = <i>f</i> (<i>z</i>, <i>u</i>, <i>v</i>), kan
+man danne de <sp>partielle</sp>
+<table>
+<td v2><sp>Differentialkvotienter</sp><td c><i>dy</i><td v2>,<td c><i>dy</i><td v2>,<td c><i>dy</i><td v2>ved at differentiere
+<td c><i>dz</i><td c><i>du</i><td c><i>dv</i>
+</table>
+m. H. t. een af de Variable, medens de andre
+betragtes som konstante; Funktionens
+<table>
+<td v2>Differential<td c><i>dy</i><td v2>Δ<i>z</i><td v2>+<td c><i>dy</i><td v2>Δ<i>u</i><td v2>+<td c><i>dy</i><td v2>Δ<i>v</i>har samme
+<td c><i>dz</i><td c><i>du</i><td c><i>dv</i>
+</table>
+Egenskab her som ved Funktioner af een Variabel.
+Ved fortsat Differentiation dannes partielle
+Differentialkvotienter af højere Orden som
+<table>
+<td c><i>d</i><sup>2</sup><i>y</i><td v2>,<td c><i>d</i><sup>3</sup><i>y</i><td v2> o. s. v.
+<td c><i>dz</i><sup>2</sup><td c><i>dzdv</i><sup>2</sup>
+</table>
+
+D. 's Hovedindhold er Læren om Dannelsen af
+Funktioners Differentialkvotienter og af deres
+Rækkeudviklinger (Taylor's og Maclaurin's
+Formler) med de derpaa støttede Bestemmelser
+af Maksima og Minima samt af ubestemte
+Størrelsers sande Værdier. De talrige Anvendelser
+paa andre Grene af Matematikken, særlig
+Geometri og Mekanik, behandles under disse. -
+Medens allerede i 1. Halvdel af 17. Aarh. fl.
+Matematikere, isærlig Fermat, havde dannet
+Differentialkvotienter til Brug i enkelte
+Opgaver, fik D. først sin Algoritme i Aarh.'s 2.
+Halvdel ved Leibniz og Newton. Disses
+Undersøgelser falder vel omtr. samtidig og kan godt
+tænkes i Beg. at have tæret uafhængige af
+hinanden; men Leibniz' Offentliggørelse (i
+<i>Acta eruditorum</i>, 1684) kom før Newton's (i
+hans <i>Principia</i>, 1687), og det er Leibniz'
+Betegnelser, der endnu bruges, medens Newton's
+Tegn <i>x</i>0 og <i>y</i>0 for de Variables Tilvækster, hvor
+<i>x</i> og <i>y</i> kaldes Fluksioner, saavel som Navnet
+Fluksionsregning for længst er opgivne.
+Derimod har Newton Fortjenesten af D.'s
+Sammenknytning med Integralregningen. Spørgsmaalet
+om de to berømte Matematikeres Stilling til
+D.'s Opfindelse fremkaldte i Beg. af 18. Aarh. en
+bitter Strid. Til D.'s videre Udvikling er
+knyttet en Række store mat. Navne, saasom
+Bernoulli, Euler, Taylor, Maclaurin. Lagrange
+definerede, for at undgaa uendelig smaa Størrelser,
+de afledede Funktioner ved Hjælp af
+Koefficienterne i Funktionernes Rækkeudviklinger, som
+han dannede ved forsk. Kunstgreb, men denne
+Fremgangsmaade blev ikke adopteret af de
+senere Matematikere. Som et af de nyeste
+omfattende Værker over D. kan nævnes Jordan's
+<i>Cours d'Analyse de l'école polytechnique</i> (2.
+Udg. Paris 1893-96).
+<i>Chr. C.</i></chapter>
+
+<chapter name=”Differentialskrue”>
+<b>Differentialskrue</b> (bedre
+<sp>Differensskrue</sp>), en Kombination af to Skruer. Det
+Tryk, man kan udøve ved en Skrue, og det
+Stykke, den gaar frem ved en Omdrejning,
+beror paa Stigningen af Skruegangen, som af
+praktiske Grunde ikke kan gøres alt for lille.
+Man benytter derfor Differensvirkningen mellem
+to med forsk. Stigninger skaarne Skruer, der
+har fælles Spindel, idet man gør Forskellen
+mellem Stigningerne meget lille. En af de
+

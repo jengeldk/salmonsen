@@ -1,0 +1,76 @@
+forneden med en forholdsvis snæver Hals,
+hvorfra en Bomuldsvæge er ført hen til det ene
+Termometers Kugle, der er ombundet med et
+Lag Lærred. Paa denne Maade kan dette
+Termometers Kugle holdes stadig vaad. Som
+Følge af Fordampning fra denne Kugle vil dens
+Temp. blive lavere end Lufttemperaturen, og
+eftersom Fordampningen bliver stærkere, jo
+større Luftens ækvivalente Mætningsrest (se
+<sp>Fugtighed</sp>) er, og Genopvarmningen af den
+vaade Kugle bliver større, jo større Forskellen
+er mellem Luftens Temp. (<i>t</i>) og den vaade
+Kugles Temp. (<i>t<sup>1</sup></i>), vil der, naar Mætningsresten
+er en vis, fremkomme en vis Forskel mellem
+<i>t</i> og <i>t<sup>1</sup></i>. Tilnærmelsesvis har man, at den
+ækvivalente Mætningsrest — altsaa Forskellen
+mellem Vanddampenes Maksimaltryk <i>P<sub>1</sub></i> ved Temp.
+<i>t<sub>1</sub></i> og Damptrykket <i>p</i> i Luften — paa det
+nærmeste er 0,0008 (<i>t—t<sub>1</sub></i>) <i>H</i>, hvor <i>H</i> er Lufttrykket
+i mm Kvægsølv. Sædvanligvis betjener man sig
+dog af Tabeller, der gaar i Handelen, og som
+indeholder Oplysning om, hvad Fugtighedsgraden 
+og den absolutte Fugtighed er, naar det
+vaade og det tørre Termometer viser saadan
+og saadan.
+
+Medens August's Psykrometer kan eftergøres
+paa mangfoldige Maader, naar man blot har to
+Termometre til Disposition, er de Erfaringer,
+man har faaet vedrørende denne Art af
+Maalinger, udkrystalliseret i Bygningen af 
+<sp>Assmann's Aspirations-Psykrometer</sp>
+(Fig. 4). Dette Apparat har faaet en betydelig
+Udbredelse, idet det giver gode Maalinger
+under meget forsk. Vejrforhold, og det bliver 
+almindeligvis betragtet som et meteorologisk
+Normalinslrument. Apparatet bestaar af et
+Metalhus <i>t</i>, hvori der er anbragt et Urværk, der
+driver en Ventilator, som tjener til at suge
+Luften op gennem Røret <i>g</i> med de to
+Forgreninger <i>d—d</i> og slynge Luften ud gennem
+Aabningerne <i>u</i>. Luften, der saaledes suges gennem
+Apparatet, stryger forbi de to Termometerkugler, 
+der rager ned i Rørforgreningerne <i>d—d</i>
+med en konstant Hastighed paa c. 3 m/sec. Paa
+Fig. er den ene Termometerkugle synlig, idet
+en Del af Rørvæggen er tænkt fjernet, og det
+ses, at Røret her er dobbelt; dels p. Gr. a. 
+denne Beskyttelse og dels fordi Apparatet helt
+igennem er forniklet med Højglans, paavirkes
+det ikke kendeligt selv i stærkt Solskin, hverken
+for Temp. ell. Fugtighedsmaalingens Vedk. Til
+Beregning af Fugtighedsforholdene tjener
+særlige Tabeller, der svarer til netop dette
+Apparat.
+
+<sp>Koppe's Haarhygrometer</sp> (Fig. 5) er
+en af de mest bekendte af de mange forsk.
+Konstruktioner af F. af denne Art. Apparatets
+bevægende Organ er et affedtet Kvindehaar,
+der er fastspændt foroven i en faststaaende
+Metalramme. Haaret holdes udspændt ved
+Hjælp af et lille Lod, der paa Fig. ses forneden
+i Kassen, men er i øvrigt lagt en Gang omkr.
+en lille Akse, der bærer den synlige Viser,
+paa hvilken man kan se selv meget smaa
+Længdeforandringer af Haaret. Apparatet kan
+justeres ved, at man fugter en Skærm med
+Lærred paa Apparatets Bagvæg — Viserne skal
+da staa paa 100 % Fugtighed — og senere,
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>

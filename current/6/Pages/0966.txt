@@ -1,0 +1,94 @@
+bestaar af en massiv Ring af Støbejern ell.
+Staal, hvori der er fastboltet (ell. faststøbt) et
+ell. fl. Par radialt stillede Polkerner, der igen
+bærer Magnetspolerne. Inden for disse Poler
+roterer <sp>Ankeret</sp>. Dette er sammensat af fra
+hinanden isolerede fast sammenspændte
+Jernblik (c. 1/2 mm tykke). Hvis man nemlig
+fremstillede Ankeret af et massivt Stykke Jern, vilde
+der selvfølgelig i dette, lige saavel som i
+Ankertraadene under Rotationen blive induceret
+Spændinger, der i den massive Kerne vilde
+frembringe kraftige Strømme, som dels vilde bevirke
+en skadelig Opvarmning af Ankeret, dels
+forringe Maskinens Nyttevirkning.
+<sp>Ankertraadene</sp> er anbragt i <sp>Noter</sp>, Riller, der er
+nedskaarne i Ankerjernet langs Frembringere
+paa dennes cylindriske Overflade. Hensigten
+hermed er dels at opnaa en sikrere Befæstelse
+for Ankertraadene, dels at faa et saa lille
+Luftrum som muligt imellem Magneter og Anker,
+idet man herved opnaar en Besparelse i
+Magnetspolerne. Ankrene i de moderne Maskiner er
+altid udførte som <sp>Tromleankre</sp> (Fig. 4),
+idet Ankerspolerne er viklede saaledes, at alt
+Kobberet ligger udvendigt paa dette, hvorved
+det udnyttes bedre end ved de gammeldags
+Ringankre. Fra Ankerviklingen er ført
+Forbindelser til <sp>Kommutatoren</sp>, som er
+sammensat af mange fra hinanden isolerede
+Kobberlameller (een Lamelle for hver Spole paa
+Ankeret). Fra Kommutatoren aftages Strømmen
+igennem »<sp>Børsterne</sp>«, hvoraf altid findes et
+lige Antal, mindst to, højst lige saa mange, som
+der er Poler paa Maskinen; hver anden af
+Børsterne er da positiv, hver anden negativ; alle
+Børster af samme Polaritet er parallelforbundne
+ved en svær Kobberskinne ell. et Kabel.
+Børstematerialet er som Regel Kul, kun ved
+Maskiner til meget store Strømstyrker og
+forholdsvis smaa Spændinger (Maskiner, der leverer
+Strøm til galvanisk Brug) er Materialet Grafit
+ell. Kobber.
+
+Magnetspolerne faar deres Strøm fra selve
+Ankeret, Maskinen er selvmagnetiserende (Søren
+Hjort). Efter som Feltviklingen er koblet i Serie
+med Ankeret ell. parallelt med dette, kaldes
+Maskinen en <sp>Seriemaskine</sp> ell. en
+<sp>Shuntmaskine</sp> (Fig. 5).
+<sp>Compoundmaskiner</sp> har to
+Magnetviklinger, hvoraf den ene,
+Hovedviklingen, er en Shuntvikling, den anden
+en Serievikling. Da
+Seriemaskinens Felt direkte frembringes af
+Ankerstrømmen, og altsaa er omtrentlig
+proportional hermed, vil
+<sp>Seriemaskinens Spænding vokse med
+voksende Belastninger</sp>, en
+Egenskab, som gør Seriedynamoen
+uanvendelig ved de alm. Anlæg, der jo
+kræver konstant Spænding. Ved enkelte
+Anlæg, f. Eks. ved Drift af
+serieforbundne Buelamper, har Seriedynamoen
+fundet en forholdsvis ringe Anvendelse.
+Mest anvendt er <sp>Shuntdynamoen</sp>,
+som holder sin Spænding ret uafhængig
+af Belastningen, idet dog Spændingen
+falder lidt med voksende Belastning.
+Ved den ved
+<sp>Compounddynamoen</sp> anvendte Kombination af de to
+Beviklingsarter er det muligt at holde
+Spænding ret konstant, uafhængig af
+Belastningen. <sp>Shuntdynamoens</sp>
+(og Compounddynamoens) Spænding
+kan reguleres ved Hjælp af en i
+Serie med Feltviklingen anbragt
+Regulermodstand (Fig. 5), ved hvilken Magneternes
+Feltstyrke, og dermed den i Ankeret
+inducerede Spænding, kan varieres. Det af
+Belastningen fremkaldte Spændingsfald hidrører dels
+fra Ankerviklingens Ohm'ske Modstand, dels fra
+Ankerstrømmens Indvirkning paa Magnetfeltet,
+den saakaldte <sp>Ankerreaktion</sp>. Den
+igennem Ankerlederne gaaende Strøm frembringer
+nemlig saavel i Ankeret som i de omgivende
+Magnetpoler et magnetisk Felt, der dels
+direkte modvirker Hovedfeltet og derved
+
+<img>
+Fig. 3. Jævnstrømsdynamo, 4 polet.
+</img>
+<img>
+Fig. 4. Tromleanker under Vikling.
+</img>

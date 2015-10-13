@@ -1,0 +1,145 @@
+Noteringers Princip, som danner Grundlaget for
+B. Hver Gang en Forretningsforbindelse
+kommer til at skylde noget, f. Eks. for modtagne
+Varer, og altsaa debiteres for dem paa sin
+Konto, er det Virksomheden, som har leveret
+Varerne, der faar det samme Beløb til gode
+og derfor krediteres for det paa en af de egne
+Konti. Hver Gang en Forretningsforbindelse
+faar noget til gode, f. Eks. for indbetalte Penge,
+og altsaa krediteres for Beløbet paa sin Konto,
+er det Virksomheden selv, som modtager
+Pengene og kommer til at skylde dem, og som
+derfor debiteres for dem paa en af de egne
+Konti. Ved i St f. at samle alle de
+Virksomheden repræsenterende Poster paa en enkelt
+Konto at fordele dem paa et større Antal egne
+Konti, saaledes at ensartede Poster samles for
+sig paa een Konto, er det, at B. kommer til
+at frembyde den størst mulige Orden, Klarhed
+og Overskuelighed m. H. t. alle Virksomhedens
+Forhold. Saaledes oprettes der en
+<sp>Kassekonto</sp>, der debiteres for enhver kontant
+Indbetaling, som samtidig krediteres den, der
+foretager Indbetalingen, og som krediteres for
+enhver kontant Udbetaling, der debiteres den,
+som modtager Pengene. Der oprettes en
+<sp>Varebeholdningskonto</sp>, som debiteres for
+alle indkøbte Varer, samtidig med, at de
+krediteres Sælgeren, og en <sp>Varesalgskonto</sp>,
+som krediteres for alle solgte Varer,
+samtidig med, at de debiteres Køberen.
+Eventuelt vil det kunne være hensigtsmæssigt
+at oprette forskellige Konti for forskellige
+Varesorter. Fremdeles bliver <sp>Vekselkonto</sp>
+debiteret for alle Veksler, der modtages
+i Betaling, og krediteret for alle indfriede
+Veksler (se <sp>Veksel</sp>), <sp>Acceptkonto</sp>
+krediteres for alle udstedte Accepter og
+debiteres for alle indfriede Accepter (se <sp>Accept</sp>),
+<sp>Rentekonto</sp> debiteres for alle skyldige
+Renter og krediteres for alle Renter, som haves til
+gode, <sp>Kørselskonto</sp> debiteres for al
+Kørsel, <sp>Administrationskonto</sp> for
+Funktionærernes Lønninger og
+<sp>Omkostningskonto</sp> for alle Haande
+Forretningsomkostninger. Og samtidig med, at der foretages en
+Postering paa en af disse Konti, vil der stedse
+være at foretage en modsat Postering paa en
+af de fremmede Konti.
+
+I Praksis bliver ofte to Noteringer
+sammendragne til een for at undgaa overflødig
+Vidtløftighed. Saaledes f. Eks. ved Indfrielsen af en
+Veksel. Bliver X debiteret Varer for 300 Kr og
+yder i Betaling en Veksel for samme Beløb,
+saa krediteres han for denne, og samtidig
+debiteres Vekselkonto for 300 Kr. Ved Forfaldstid
+indsender X Beløbet til Vekslens Indfrielse, og
+2 dobbelte Noteringer burde nu foretages:
+
+X krediteres de indsendte 300 Kr.
+
+Kassekonto debiteres de indsendte 300 Kr, og
+
+X debiteres den indfriede og tilbagesendte
+Veksel.
+
+Vekselkonto krediteres den indfriede og
+tilbagesendte Veksel.
+
+Men Bogføringens Resultat bliver ganske det
+samme, naar Mellemledet X udskydes, og der
+kun udføres flg. Notering:
+
+Kassekonto debiteres de kontant indsendte
+300 Kr.
+
+Vekselkonto krediteres den indfriede Veksel
+med 300 Kr.
+
+Da X's Konto er debiteret for Varerne og
+krediteret for Vekslen, vilde det være ganske
+overflødigt endnu en Gang at debitere og
+kreditere den for det samme Beløb. Ved
+Acceptkonto finder det nøjagtig tilsvarende Sted. Det
+vil ligeledes oftest være overflødigt at oprette
+særlige Konti for saadanne i Virkeligheden
+uegentlige Forretningsforbindelser som
+Vognmand, Papirhandler, Husvært o. s. v. og være
+tilstrækkeligt til Oplysning om alt, hvad der m.
+H. t. disse Mellemværender er af Bet., ogsaa
+her at slaa to Noteringer sammen til een. Naar
+f. Eks. Vognmandsregningen betales, krediteres
+Kassekonto, og Kørselskonto debiteres; naar
+Husleje ell. Papir betales, krediteres
+Kassekonto, og Omkostningskonto debiteres, o. s. v. Ved
+disse Sammendragninger opstaar, som det ses,
+Noteringer <sp>mellem de egne Konti
+indbyrdes</sp>, medens der dog stedse i
+Virkeligheden ligger et Mellemværende med en
+udenforstaaende bagved. Andre Noteringer mellem
+de egne Konti indbyrdes, hvor dette ikke er
+Tilfældet, forekommer dog ogsaa, men er da
+kun rene <sp>Overførselsposter</sp>. En saadan
+kan f. Eks. blive nødvendig for at rette en
+Fejl. Har man fejlagtig debiteret Varekonto
+for en Post, som skulde være debiteret
+Omkostningskonto, saa retter man Fejlen ved at
+<sp>overføre</sp> Posten til Omkostningskonto ɔ: ved
+atter at kreditere Varekonto og debitere
+Omkostningskonto for vedk. Beløb. Andre
+Overførselsposter forekommer f. Eks. ved
+Hovedbogens Afslutning (se ndf.); men fælles for alle
+saadanne er det, at de ikke er Udtryk for
+nogen Forretningsbegivenhed, men kun vedrører
+selve B.'s Førelse og indre Ordning.
+
+Hvis Ejeren af Virksomheden, X, har laant
+den til Etableringen og Driften fornødne
+Kapital hos en Ven Y, som har indbetalt Summen
+kontant, saa vil Kassekonto være debiteret og
+Y krediteret for den paa en for ham oprettet
+Konto. Ejer X selv Kapitalen, skal han ganske
+paa samme Maade krediteres for den paa en
+særlig Konto, <sp>Kapitalkonto</sp>. Bliver X og Y
+enige om at drive Virksomheden i Fællesskab
+som Associés, oprettes paa samme Maade 2
+Konti, X's og Y's Kapitalkonto. De Beløb, som
+X og Y hæver i Aarets Løb til deres private
+Udgifter, krediteres Kassekonto og debiteres 2
+ny Konti, X's og Y's <sp>Privatkonto</sp> ell.
+<sp>Forbrugskonto</sp>. Købes der til Virksomhedens
+Behov dels en fast Ejendom, dels forsk.
+Inventar, bliver Købesummerne krediterede
+Kassekonto og (Mellemledet Sælgeren forudsat
+oversprunget) debiterede en <sp>Ejendomskonto</sp>
+og en <sp>Inventariekonto</sp>.
+
+Det vil ses, at Hovedbogen selv for en
+mindre Virksomhed kan komme til at indeholde et
+ikke ringe Antal Konti. Medens Antallet af
+fremmede Konti efter Sagens Natur ikke kan
+fastslaas, men ene beror paa det efterhaanden
+erhvervede Antal Forretningsforbindelser, kan
+der ofte bliver Spørgsmaal om, hvor mange egne

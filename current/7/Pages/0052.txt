@@ -1,0 +1,118 @@
+p. Gr. a. Proportionaliteten mellem
+Strømstyrken og det lysdækkede Katodeareal være en
+konstant <sp>Strømtæthed</sp> ved Katoden, som
+i Luft af 1 mm's Tryk findes at være c. 0,4
+Milliampère pr mm<sup>2</sup>. Den normale
+Strømtæthed er ligefrem proportional med Trykket.
+Heraf følger, at ved meget lave Tryk vil selv en
+svag Strøm gøre Strømtætheden større end den
+normale, og Strømmen kræver da som ovf.
+omtalt et stort Katodefald.
+
+Saa længe Katodefaldet er normalt, vil
+endvidere Længden af <sp>Crookes' mørke Rum</sp>
+være uafhængig af Strømstyrken. I Luft er
+Længden ved 1 mm's Tryk 2,5 mm; den er
+omvendt proportional med Trykket. Længden af
+selve <sp>det blaa Katodelys</sp> er meget nær
+det dobbelte af Crookes' mørke Rum. Bliver
+Strømtætheden større end den normale, vil
+Længden af det mørke Katoderum formindskes
+og Katodelyset forlænges, men efter ret
+indviklede Love, der derfor skal forbigaas her.
+
+<sp>Spændingsfaldet</sp> pr cm i <sp>den
+positive Lystaage</sp> er proportionalt med
+Trykket. Det aftager noget med voksende
+Strømstyrke og er noget mindre i videre Rør end i
+snævre. I øvrigt afhænger det af Luftarten. Det
+mindste Spændingsfald findes i Helium. Er det
+positive Lys lagdelt, findes Spændingsfaldet at
+være større i de lyse end i de mørke Partier.
+
+Er Elektroderne forskydelige, og lader man
+dem nærme sig til hinanden, samtidig med at
+man holder Strømstyrken konstant, vil det positive
+Lys forkortes et tilsvarende Stykke, medens det
+negative Lys holder sig uforandret.
+Elektrodespændingen vil falde saa meget, som der svarer
+til det afkortede Stykke af det positive Lys, og
+den vil blive ved med at aftage, indtil Anoden
+staar i Grænsen mellem det negative Lys og
+Crookes' Rum. Elektrodespændingen er da
+meget nær lig Katodefaldet. Nærmer man
+Elektroderne yderligere til hinanden, stiger
+Spændingen meget stærkt. Det normale Katodefald
+repræsenterer derfor den mindste
+Spændingsforskel, hvorved man kan faa Lystaagestrøm
+igennem Luften. Den Ejendommelighed, at der
+ved lave Tryk udkræves større Spænding til at
+faa en Udladning mellem to tæt ved hinanden
+staaende Elektroder, end mellem to med større
+Afstand, kan vises meget smukt ved et Rør som
+Fig. 12. Naar Trykket i Røret gøres
+tilstrækkelig lavt, nemlig saa lavt, at Afstanden mellem
+de to Elektroder er mindre end Længden af
+Crookes' Rum, vil Udladningen gaa igennem det
+lange Spiralrør i St f. at gaa direkte over
+mellem Elektroderne.
+
+11) <sp>Forsk. Anvendelser af
+Udladningsrør</sp>. <sp>Gehrcke's Oscillograf</sp>
+beror paa den ovf. omtalte Proportionalitet
+mellem Strømstyrken og Arealet af den lysbeklædte
+Del af Katoden ved normalt Katodefald. Den
+bestaar af et Udladningsrør med to traadformede
+Elektroder. Sendes en svingende elektrisk
+Udladning igennem den, vil man i et hurtigt
+roterende Spejl af Lysstriberne om Elektroderne
+kunne aflæse Strømstyrkens Vekslen, idet
+Lysfænomenet indstiller sig momentant efter
+Strømmen.
+
+<sp>Heliumrør</sp>. Som ovf. nævnt er
+Katodefaldet særlig lille i Helium med
+Kaliumelektroder, da desuden ogsaa Spændingsfaldet i den
+positive Lystaage er meget lille i Helium, skal
+der kun en Spændingsforskel paa c. 100 Volt til
+for at frembringe en Lystaagestrøm. Man
+anvender derfor Heliumrør med elektrolytisk
+indført Kalium til Paavisning af Spændingsforskelle
+ved Forsøg med elektriske Svingninger.
+
+<sp>Ventilrørs</sp> (Drosselrør) Virkning beror
+paa Katodefaldets stærke Stigning, saa snart
+Strømstyrken bliver større end den til Trykket
+svarende normale. Et Ventilrør er afbildet i
+Fig. 13. P. Gr. a. Elektroden <i>b</i>'s ringe
+Overflade vil Strømtætheden allerede ved meget
+svage Strømme blive anormal, naar <i>b</i> er
+Katode, derimod ikke, naar <i>a</i> er Katode. En
+Vekselspænding formaar derfor kun at sende
+stærk Strøm igennem Røret i Retningen <i>b</i> <i>a</i>,
+saaledes at Røret virker som en Ventil for den
+elektriske Strøm. Ventilvirkningen forstærkes
+yderligere ved, at <i>b</i> sidder i et snævert Glasrør,
+idet Katodelyset kun kan udvikle sig paa den
+lille Del af Elektroden, som vender imod
+Aabningen til Beholderen.
+
+12) <sp>Teorien for
+Lystaagestrømmen</sp> kan her kun kort skitseres. I Afsnit 8 er
+det omtalt, at de negative Ioner — der i dette
+Tilfælde er Elektroner — ioniserer ved meget
+lavere Spænding end de positive. Sætter man
+en Spænding paa Elektroderne, der er saa lav,
+at alene de negative Ioner er i Stand til at
+ionisere, vil der ske flg.: De tilstedeværende
+faa negative Ioner vil gaa mod Anoden og paa
+Vejen dertil frembringe ny, baade positive og
+negative Ioner, men de ny negative vil sammen
+med dem, der frembragte dem, ogsaa gaa mod
+Anoden, og naar alle de negative Ioner har
+naaet den. er Rummet saa at sige fejet rent for
+
+<img>Fig. 12.</img>
+
+<img>Fig. 13.</img>
+

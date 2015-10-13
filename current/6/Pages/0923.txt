@@ -1,0 +1,167 @@
+det nødvendigt at undersøge og kontrollere de
+elektriske Forhold ikke alene ved de enkelte
+Patroner, men ogsaa ofte ved Ledninger og
+Elektricitetsfrembringer, idet disse Forhold er
+bestemmende for, hvor mange Patroner der
+kan bringes til at gløde paa een Gang, og fordi
+der kun ved saadan Undersøgelse i det hele
+taget kan skaffes Sikkerhed for, at alt er i
+Orden. Ved hele Systemets Udførelse maa der
+udvises stor Omhu, og navnlig maa alle
+Forbindelser, ikke mindst, hvor Ladninger og
+Ledninger ligger under Vand, isoleres omhyggelig,
+hvortil anvendes Chatterton, Kautsjukstrimler,
+Tjærebændler e. l. Tætningsmidler. Naar til
+Slut alt er bragt paa Plads samt tillige kort
+før Sprængningens Udførelse, undersøges hele
+Systemet, idet der ved Hjælp af et
+Galvanometer sættes en svag Strøm igennem det,
+hvorved Galvanometret, hvis alt er i Orden, vil vise
+et lille Udslag.
+
+Undertiden kan det være ønskeligt at have
+Antændelsen af Ladningerne ordnet saaledes,
+at man i et bestemt Øjeblik kan sprænge dem
+alle samtidig ell. kun enkelte ad Gangen. I
+saa Fald føres Tilledningen fra
+Elektricitetsfrembringeren til en paa et
+<sp>Strømfordelingsbord</sp> anbragt og med Kontaktfjedere
+forsynet Metalskinne; ud for hver Fjeder findes
+endvidere paa Bordet et isoleret Kontaktstykke,
+og fra hver af disse føres Tilledningen videre
+til Patronerne, der alle ved en fælles
+Tilbageledning staar i Forbindelse med
+Elektricitetsfrembringeren (Fig. 3). Ved at trykke paa
+Kontakterne kan man altsaa faa Ladningerne til at
+springe enkeltvis ell. to ell. fl. paa een Gang.
+Elektricitetsfrembringeren maa være saa kraftig,
+at den i paakommende Tilfælde kan magte alle
+Patronerne paa een Gang.
+<i>Sch. P.</i></chapter>
+
+<chapter name=”elektrisk Arbejde”>
+<b>elektrisk Arbejde,</b> se <sp>Arbejde 2</sp>).</chapter>
+
+<chapter name=”elektrisk Armatur”>
+<b>elektrisk Armatur,</b> se <sp>elektriske
+Installationer</sp> og
+<sp>Installationsmateriel</sp>.</chapter>
+
+<chapter name=”elektrisk Baad”>
+<b>elektrisk Baad,</b> en Baad, som drives ved
+Hjælp af Elektricitet. Den fornødne Strøm
+leveres i Alm. af et Akkumulatorbatteri (se
+<sp>Akkumulatorer</sp>), som er anbragt under
+Bunden og Sidebænkene i Baaden.
+Akkumulatorerne lades fra en Ladestation i Land. I Baaden
+findes en Elektromotor, der modtager Strømmen
+fra Akkumulatorerne og omsætter den til mek.
+Kraft paa den Aksel, som driver
+Fremdrivningsmidlet. Umiddelbart ved Siden af Motoren
+findes en Styreindretning, hvormed man kan
+forøge ell. formindske Farten og gaa frem ell.
+tilbage. Ved at sætte fl. ell. færre
+Akkumulatorceller ind i Strømløbet forandrer man Farten,
+og ved at skifte Strømretningen skiftes
+Bevægelsesretningen. De e. B. anvendtes for en Del
+Aar siden fl. Steder, særlig i Havne og paa
+Indsøer, f. Eks. paa Søerne i Kbhvn, til
+Personbefordring, da de er renlige og fri for Støj,
+men de er efterhaanden blevet fortrængte af
+Motorbaade med Petroleumsmotorer, som er
+billigere i Driften. I Tyskland anvender man paa
+enkelte Kanalstrækninger større e. B. med
+Strømtilførsel fra Luftledninger til Befordring
+af Gods.
+<i>H. P. C.</i></chapter>
+
+<chapter name=”elektrisk Bad”>
+<b>elektrisk Bad,</b> se <sp>Bad</sp> og
+<sp>Elektroterapi</sp>.</chapter>
+
+<chapter name=”elektrisk Bagslag”>
+<b>elektrisk Bagslag.</b> Naar en Leder, der er
+afledt til Jorden, staar i Nærheden af en anden
+Leder, der har en elektrisk Ladning, vil der
+paa den første Leders Overflade ved Fordeling
+fremkomme en Ladning af modsat Art.
+Udlades den første Leder pludselig, vil den anden
+Leders Ladning styrte sig ned i Jorden, hvilken
+Bevægelse man har kaldt e. B., og hvis denne
+Leder er et Menneske, føler det muligvis et
+elektrisk Stød. Men fra det bekendte Forsøg
+med at lade og udlade et Menneske, der staar
+paa en Isolerskammel, ved man, at en pludselig
+Udladning af selv den største
+Elektricitetsmængde, der kan ophobes paa et Menneskes
+Overflade, er ganske farefri, og det maa derfor
+betragtes som umuligt, at et Menneske - som
+paastaaet - kan dræbes af et e. B., f. Eks.
+naar Lynet slaar ned i dets Nærhed.
+<i>K. S. K.</i></chapter>
+
+<chapter name=”elektrisk Batteri”>
+<b>elektrisk Batteri,</b> Samling af
+Leydnerflasker, der virker i Forening. Man stiller dem
+gerne i en Kasse, hvis Bund er belagt med
+Stanniol, og forbinder deres Knapper ved
+Metalstænger. Batteriet virker da som en enkelt
+stor Flaske, hvis belagte Areal er Summen af
+de enkelte Flaskers. Gnistlængden bliver ikke
+større ved Sammenstilling af fl. Flasker til et
+e. B., men Gnisten lyser stærkere, faar større
+Varmevirkninger, giver stærkere Stød o. s. v.
+<i>K. S. K.</i></chapter>
+
+<chapter name=”elektrisk Belysning”>
+<b>elektrisk Belysning,</b> se <sp>elektrisk Lys</sp>
+og <sp>indirekte Belysning</sp>.</chapter>
+
+<chapter name=”elektrisk Centralstation”>
+<b>elektrisk Centralstation,</b> se <sp>elektriske
+Kraftstationer</sp>.</chapter>
+
+<chapter name=”elektrisk Drage”>
+<b>elektrisk Drage,</b> en Drage, bestemt til
+gennem sin Snor at hente Elektricitet ned fra
+Luften. Franklin anvendte den for første Gang
+1752.
+<i>K. S. K.</i></chapter>
+
+<chapter name=”elektrisk Dukkedans”>
+<b>elektrisk Dukkedans.</b> En ren og varm
+Glasplade lægges paa 4 Propper, der staar paa
+et Bord og altsaa kommer til at tjene som
+Fødder for Glaspladen. Gnider man Glassets
+Overside med en ulden Lap ell. tørt Papir,
+vil smaa Figurer af Silkepapir, Hyldemarv o. l.,
+som ligger paa Bordet under Pladen, give sig
+til at hoppe op og ned. Smlg. Kugledans under
+<sp>Elektrisermaskine</sp>.
+<i>K. S. K.</i></chapter>
+
+<chapter name=”elektriske Akkumulatorer”>
+<b>elektriske Akkumulatorer,</b> se
+<sp>Akkumulatorer</sp>.</chapter>
+
+<chapter name=”elektriske Anlæg”>
+<b>elektriske Anlæg,</b> se <sp>elektriske
+Kraftstationer</sp>, <sp>elektriske
+Understationer</sp>, <sp>elektriske Ledningsnet</sp>,
+<sp>elektriske Fordelingssystemer</sp>,
+<sp>elektriske Installationer</sp>,
+<sp>elektriske Sporveje</sp> og <sp>elektriske
+Jernbaner</sp>.</chapter>
+
+<chapter name=”elektriske Billeder”>
+<b>elektriske Billeder</b> er visse tænkte
+Punkter bag en Leders Overflade, der forsynede med
+passende Ladninger vilde kunne fremkalde
+samme elektriske Virkninger i Rummet foran
+denne Overflade som de, der skyldes den
+virkelige Ladning paa Overfladen. Som et særlig
+simpelt Eksempel kan anføres det Tilfælde, at
+en Elektricitetsmængde +Q er anbragt i et
+Punkt P over en udstrakt plan, ledende Plade,
+der er afledet til Jord. Ved Influens vil
+Ladningen Q frembringe en negativ

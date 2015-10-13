@@ -1,0 +1,104 @@
+simpleste Udtryk til Bestemmelse af Billedets
+Beliggenhed, naar Genstanden er givet, faas
+ved at indføre Afstandene FA = x og F'B = x'
+fra de resp. Brændpunkter til Objekt
+henholdsvis Billede; de regnes positive udefter fra
+Linsen. Man har nemlig da til Bestemmelse af x'
+flg. Ligning: xx' = f<sup>2</sup>, hvor f er Brændvidden.
+f. er tillige bestemmende for Forstørringen, idet
+denne er y'/y = f/x = x'/f; positiv Værdi for
+Forstørringen betyder omvendt Billede.
+Brændvidden, hvis opr. Definition maa forbigaas her (den
+defineres ved Udtrykket for Forstørringen i et
+bestemt Tilfælde), er Afstanden fra
+Brændpunkterne til de resp. Hovedplaner <i>H</i> og <i>H'</i>
+(hvis Bet. omtales i <sp>Linse</sp>); Brændvidden er
+altsaa i Alm. ikke lig Afstanden fra
+Brændpunkterne til Linsens Yderflader, saaledes som
+det tilnærmelsesvis er Tilfældet ved en tynd,
+enkelt Linse, der er et specielt Tilfælde af de
+her behandlede Systemer; disse Afstande, <i>F M</i>
+og <i>F' N</i>, kaldes Snitvidderne. Da Hovedplanerne
+i Reglen ligger inde i det fot. Objektiv, vil for
+et ikke for tykt Objektiv Snitvidderne dog ikke
+være meget forskellige fra Brændvidden; men
+en bedre Tilnærmelse faas i hvert Fald ved alle
+symmetriske Objektiver ved at antage
+Hovedplanerne faldende sammen midt i Objektivet,
+saa at Brændvidden omtr. er lig Snitvidden +
+Objektivets halve Tykkelse. (Det er kun, naar
+der ligger det samme Medium [her Luft] paa
+begge Sider af Linsesystemet, at de to
+Brændvidder er lige store, og Forholdene bliver saa
+simple, som her omtalt, men dette er jo altid
+Tilfældet ved Anvendelsen af fot. Objektiver).
+Den kendte Form for Afbildningsligningen faas,
+naar Afstandene <i>a</i> og <i>b</i> fra Objekt og Billede til
+de resp. Hovedplaner indføres: 1/a + 1/b = 1/f.
+Indføres Reduktionsmaalestokken
+(Formindskelsen) m = y/y' faas x = mf, x' = f/m,
+a = (m+1)f, b = m+1/m f,  AB = (m+1)<sup>2</sup>/m f +HH',
+hvor HH' for det meste kan bortkastes. Disse
+Ligninger løser de i Fotografien forefaldende Opgaver.
+Skal man f. Eks. med et fot. Objektiv f = 36 cm
+formindske en Tegning til 1/4 Størrelse, har vi
+m = 4 og faar da: a = (4 + 1)·36 = 180 cm
+og b=4+)/4·36 = 45 cm. Tegningen skal
+altsaa anbringes 180 cm fra Objektivets
+Hovedplan, og dens Billede falder i 45 cm Afstand
+ell. 9 cm: fra Brændpunktet. Vi ser af
+Udtrykket for Forstørringen, at denne er mindre end
+1, naar x er større end f; dette er Tilfældet
+ved den allermeste Fotografering.
+Forstørringen bliver 1 for x = f og større end 1, naar
+x er mindre end f, hvilket altsaa skal være
+Tilfældet ved fot. Forstørring.
+
+Sammensættes fl. Linsesystemer, faas et nyt,
+for hvilket ganske tilsvarende Afbildningsregler
+gælder; dette har Anvendelse i de ndf. omtalte
+Dobbeltobjektiver og Teleobjektiver.
+Sammensættes et nyt Objektiv af 2 tynde Objektiver
+med Brændvidderne <i>f</i><sub>1</sub> og <i>f</i><sub>2</sub> og anbragt i
+Afstanden <i>d</i> fra hinanden, faar det resulterende
+Objektiv Brændvidden <i>f</i> bestemt af 1/<i>f</i> = 1/<i>f</i><sub>1</sub> +1/<i>f</i><sub>2</sub> — d/<i>f</i><sub>1</sub><i>f</i><sub>2</sub>).
+
+<sp>Dybde</sp>. Hidtil forudsattes, at Objektet var
+plant, hvilket imidlertid kun sjældent er
+Tilfældet (ved Reproduktion, Gengivelse af
+Malerier o. l. og ved Forstørring). I Alm. har
+Objektet ogsaa Udstrækning i Dybden (d. v. s.
+i Retning af det fot. Objektivs Akse); om skarp
+Afbildning paa den lysfølsomme Plade (<i>B</i>, Fig.
+2) kan der da strengt taget kun være Tale for
+den Del af Objektet, der ligger i en bestemt
+Plan <i>A</i>, den hvorpaa Objektivet <i>O</i> er indstillet,
+medens Punkter, der ligger længere fra ell.
+nærmere ved <i>O</i> (henh. <i>I</i> og <i>III</i>), paa <i>B</i>
+repræsenteres ved »Spredningskredse«, henh. αβ
+og γδ. Disses Størrelse og dermed den Grad
+af Uskarphed, hvormed de betragtede Punkter
+afbildes, bestemmes af
+<sp>Blænderaabningen</sp>, den 4. af de Størrelser, der bestemmer
+det ideale fot. Objektivs Virkning. Blænderen
+(s. d.) i det fot. Objektiv er i Reglen anbragt
+inde i Objektivet, kun ved de billigste Objektiver
+og »Landskabslinser« er den anbragt foran det,
+men desuden virker enhver Linserand som
+Blænder. Hvorledes man i Alm. finder, hvilken
+af de forhaandenværende Blændere der er den
+virksomme Blænder (Aperturblænderen), her
+altsaa den, der bestemmer Grundfladen i den
+Lyskegle, som ethvert Objektpunkt sender
+gennem det fot. Objektiv, omtales under <sp>optiske
+Instrumenter</sp>; i det fot. Objektiv bliver
+det altid den egentlige Blænder, der er virksom
+Blænder. Men Grundfladen i Lyskeglen bliver
+ikke selve denne den virksomme Blænders
+Aabning, men det Billede
+(<sp>Indgangspupillen</sp>), som den Del af det fot. Objektiv, der
+ligger mellem Objektet og Blænderen, danner af
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2. Dybde.</img>

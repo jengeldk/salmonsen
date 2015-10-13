@@ -1,0 +1,142 @@
+kalder den Tid, Solen bruger til at
+tilbagelægge 1 Grad af Ekliptika (med sin »sande«
+Bevægelse, altsaa i ulige lang Tid), for en
+»Soldag« og sammensætter sig et siderisk
+Solaar af 360 saadanne »Soldage«. »Solmaaneden«
+er i virkelig Brug i Kalenderen og er den Tid,
+Solen bruger til at gennemvandre hvert af de
+12 »Tegn« (30°) af Ekliptika, varierende fra
+noget over 29 til noget over 31 Savana-Dage,
+og 12 »Solmaaneder« udgør et siderisk Solaar.
+Dette Solaar er Grundlaget for Kalenderen i
+Sydindien. Solmaanederne skal have faaet
+deres Navne (som er afledte af Navnene paa 12
+af Nakshatra'erne) efter den Nakshatra, hvori
+Fuldmaanen stod i vedk. Maaned, dengang
+Navnene blev indførte; nu kan Fuldmaanen
+ogsaa falde i den næste (i nogle Tilfælde i den
+næstnæste) Nakshatra. Det fri Maaneaar paa
+354 (i Skudaar 355) Savana-Dage, fordelte paa
+12 Maanemaaneder, bruges, i alt Fald nu, kun
+af Muhammedanerne. Dog er i Astronomien
+og i den største Del af Indien det egl.
+Grundlag for Tidens Beregning den synodiske
+Maanemaaned, men kombineret med sideriske og
+Solelementer; Aaret er altid det sideriske
+Solaar. Saaledes er i hele Nordindien Inddelingen
+af Aaret luni-solar; i Kalenderen anføres
+baade Solmaanederne og de synodiske
+Maanemaaneder; Aaret har 12 ell. 13
+Maanemaaneder, og disse inddeles baade i Tithi'er og
+Savana-Dage; S1vana-Dagen faar i Kalenderen
+Navn efter den Tithi, som ender under dens
+Forløb; men hvis 2 Tithi'er ender paa samme
+Savana-Dag, udelades den første af dem;
+Maanemaaneden, som er den, der praktisk regnes
+med, faar Navn efter den Solmaaned, i
+hvilken den begynder; men hvis 2
+Maanemaaneder begynder i samme Solmaaned, kaldes den
+første af dem en Skudmaaned og faar samme
+Navn som den flg.; at opretholde Forholdet
+mellem Tithi'erne og Savana-Dagene og mellem
+Sol- og Maanemaanederne er en meget
+vidtløftig Sag. Dette sidste luni-solare System er det
+ogsaa, Surya-Siddhanta følger. — Ved Siden af
+deres egne astrologiske Elementer optog
+Inderne ogsaa den gr. Astrologi (s. d. og
+Varahamihira). — Araberne blev kendte
+med og benyttede ind. Astronomi under
+Al-Mansur (754—775), altsaa tidligere end med
+den gr. (»Almagest« blev først oversat under
+Al-Mamun 813—833), og de vedblev længe at
+skænke den Opmærksomhed (jfr
+<sp>Brahmagupta</sp>). I selve Astronomien synes de ikke
+at have øvet nogen Tilbagevirkning paa
+Inderne; men i Astrologien blev Araberne senere
+selve Indernes Lærere, og astrologiske
+Lærebølger oversattes fra Persisk og Arabisk til
+Sanskrit; disse kaldes <sp>Tajika</sp> (paa Persisk
+»Araber«), medens de indfødte kaldes
+<sp>Jataka</sp> (»Horoskop«).
+
+Anvendt Geometri fremtræder tidlig i de
+saakaldte <sp>Çulvasutra</sp>'er (om Udmaaling af
+Altret). I sin udviklede Skikkelse beskæftigede
+den ind. Geometri sig navnlig med Forholdene
+i den retvinklede Trekant og dens Anvendelse
+til plane Figurers og Legemers Udmaaling og
+til at finde Korden til den halve Bue; Cirklens
+Periferi og Fladeindhold fundne af Diameteren,
+og omvendt; Kuglens Overflade og
+Kubikindhold; det Bevis for den pythagoræiske
+Læresætning, at »enhver af Kateterne er
+Mellemproportional mellem Hypotenusen og sin egen
+Projektion paa samme« (Wallis), er anteciperet
+af Inderne, som beviste det baade geometrisk og
+algebraisk. Men i øvrigt lagde de meget mere
+Vægt paa og naaede meget videre i Aritmetik
+(og Algebra) og i praktisk Regning end i
+Geometri og overgik heri langt Grækerne
+(<sp>Diofantos</sp>) og har utvivlsomt fundet det paa
+egen Haand. Det er dem, som har opfundet de
+nu brugelige »arabiske« Tal og det
+Talskrivningssystem, hvorefter de anvendes. Araberne
+har faaet dem fra Inderne. De mangler et
+særligt Tegn for +; ÷ betegnes ved en Prik
+ovenover; Produkt, Potens og Rod betegnes ved
+visse Bogstaver (Logaritmer kendes ikke);
+ligesaa de forsk. Slags bekendte og ubekendte
+Størrelser, Talenheden indbefattet (naar den
+skulde staa ubenævnt); Division ved at sætte
+Tælleren over Nævneren. Af Punkter, hvori de
+er komne videre end Grækerne og har
+anteciperet den nyere Tids Løsninger, kan mærkes:
+1) Ligninger med mere end 1 ubekendt; 2)
+simple Ligninger af 3. og 4. Grad (heri har
+de anteciperet den moderne Løsning); 3) alm.
+Metode for Løsningen af ubestemte Ligninger
+af 1. Grad; 4) alm. Metode til Løsning af
+ubestemte Ligninger af 2. Grad; først
+Euler, i Midten af 18. Aarhundrede, indsaa
+Problemets universelle Vigtighed, som
+Inderne havde opdaget 1000 Aar før. At den
+kvadratiske Ligning har 2 Rødder, har
+Brahmagupta ikke lagt Mærke til, men synes at
+have været bekendt for Padmanabha. De
+eksisterende mat. Afh. udgør Kapitler i astron.
+Lærebøger, og Eksemplerne hos Brahmagupta
+er mest astron. Ogsaa m. H. t. Algebraens
+Anvendelse paa geom. Problemer fandt de Ting,
+som er blevne genopfundne i senere Tid.
+Fremstillingen er som i Astronomien: Formlerne
+gives fikse og færdige paa Vers og forklares og
+begrundes af Kommentatorer; de forsk.
+Modifikationer, Sætningerne kan faa efter de forsk.
+Tilfælde og Anvendelser, behandles
+omhyggelig hver for sig; det hele minder (afset fra den
+versificerede Form) meget om vore gl.
+praktiske Regnebøger. — Araberne blev bekendte
+med ind. Aritmetik før Al-Mamun's (813—833)
+Regeringstiltrædelse; med Diofantos c. 969.
+(<sp>Litt.</sp>, se <sp>Aryabhata</sp>, <sp>Bhaskara</sp>,
+<sp>Brahmagupta</sp>, <sp>Varahamihira</sp>;
+endvidere <sp>T. E. Colebrooke</sp>, <i>Algebra with
+Arithmetic and Mensuration from the Sanscrit
+of Brahmagupta and Bhaskara</i> [1817]; <sp>A.
+Weber</sp> i »Monatsber. d. Kgl. Ak. d. Wiss. zu
+Berlin«, 18. Decbr 1862; »Abhandl. d. Kgl. Ak.
+d. Wiss. zu Berlin«, 1860, 1861, 1862, »Ind.
+Studien«, II, IX og X; <sp>C. Lassen</sp>, »Ind. Alterth.«
+I, S. 823-30 = 974-95; II, S. 1114-47; IV, S.
+841—53; <sp>Burgess</sp>, <i>Translation of the
+Surya-Siddhanta</i>, med Kommentar af Whitney [<i>Journ.
+Amer. Oriental Soc.</i>, 6. Bd 1860]; <sp>G. Thibaut</sp>,
+»Astronomie, Astrologie und Mathematik« [i
+»Grundr. d. Indo-arischen Phil. u. Altertumsk.«
+III, 9. Strassbourg 1899]).
+<i>(S. S.). D. A.</i>
+</chapter>
+
+<chapter name="indisk Balsam">
+<b>indisk Balsam,</b> d. s. s. <sp>Peru-Balsam</sp>.
+</chapter>

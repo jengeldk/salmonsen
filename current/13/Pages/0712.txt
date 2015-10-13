@@ -1,0 +1,134 @@
+Udmaaling af Skyggens Størrelse og Form
+viser, at K. forplanter sig retlinet, og at de
+udgaar omtr. vinkelret (svagt divergerende) fra
+Katoden. K. udsendes i Alm. ikke fra hele
+Katoden, men kun fra den midterste Del af
+denne. Størrelsen af den Del af Katoden, fra
+hvilken K. udgaar, afhænger af Trykket og
+Afstanden til Rørvæggen; jo mindre Trykket, og jo
+mindre Afstanden til Væggen bliver, des mere
+koncentrerer K. sig til Midten af Katoden.
+Benyttes en hulspejlformet Katode, vil K. fra de
+forskellige Dele af dens Overflade med
+Tilnærmelse alle gaa gennem et enkelt Punkt, der
+ligger lidt længere fra Katode overfladen end
+dennes Centrum. Man opnaar derved en
+Koncentration af K., som ofte med Fordel
+anvendes. K.'s Udbredelse er uafhængig af Anodens
+Beliggenhed.
+
+Evnen til at <sp>luminiscere</sp> under
+Bestraaling af K. har foruden Glas et stort Antal
+Stoffer, f. Eks. Kridt, Flusspat, Baryumcyanur og
+Willemit. Med det Fig. 1 viste Korsrør kan
+man iagttage et ejendommeligt Fænomen. Er
+Korset indrettet saaledes, at det ved Hældning
+af Røret kan drejes til Side, vil Glasvæggen,
+naar dette gøres, lyse stærkest der, hvor
+Korset før skærmede den for K. Luminiscensens
+Styrke aftager altsaa med Bestraalingstidens
+Længde. Dette hidrører muligvis fra, at K.
+opvarmer Glasvæggen, idet Glassets Evne til at
+luminiscere taber sig med stigende Temp. De
+fleste faste Stoffers K.-Luminiscens er
+betinget af, at Stofferne indeholder smaa
+Forureninger. Ogsaa Luftarter luminiscerer under
+Paavirkning af K., idet man maa tænke sig, at f.
+Eks. det negative Lys fremkommer ved K.'s
+Indvirkning paa Luftarten i Udladningsrøret.
+Bestraaling med K. fremkalder ofte <sp>kemiske
+Virkninger</sp>. Dette viser sig f. Eks. ved, at
+mange Stoffer farves; NaCl bliver saaledes
+gulbrunt og KCl violet under Paavirkning af K.
+Farvningen er kun overfladisk og beror i de
+nævnte Tilfælde paa en Reduktion af Saltet.
+Af stor Bet. for Undersøgelsen af K. er det, at
+de paavirker en fotografisk Plade.
+
+Det er ovenfor nævnt, at K. udøver en
+<sp>Varmevirkning</sp>. Koncentrerer man ved Hjælp
+af en hulspejlformet Katode K. paa et Stykke
+Platinblik, kan man faa dette til at gløde stærkt.
+K. medfører altsaa en betydelig Energi, som,
+naar de absorberes af et Stof, i hvert Fald
+delvis omdannes til Varme i dette.
+
+Man har ment at have paavist en <sp>mek.
+Virkning</sp> af K., idet man har faaet en lille
+Mølle til at dreje sig rundt ved at lade K.
+ramme dens Vinger. Senere Undersøgelser har dog
+vist, at denne Bevægelse skyldes
+Radiometerkræfter, og at det direkte mek. Tryk, som K.
+udøver, er yderst lille.
+
+At <sp>K. afbøjes af et magnetisk Felt</sp>,
+opdagede allerede Hittorf. Denne Afbøjning er
+vist paa Fig. 2. Ved Hjælp af en Skærm med
+en spalteformet Aabning er der afgrænset et
+smalt K.-Bundt, hvis Bane er gjort synlig
+derved, at det strejfer en Skærm, der er belagt
+med et luminiscerende Stof. Magnetens
+Nordpol maa tænkes at vende ud fra Papiret.
+Afbøjningens Størrelse vokser med Magnetfeltets
+Styrke; naar Feltet er stærkt, vil K. danne
+Spiraler ell. Cirkler om Magnetkraftlinierne.
+Afbøjningen er i det hele som den, en elastisk,
+bøjelig Strømleder, der er fæstet til Katoden,
+og i hvilken Strømmen er rettet ind mod
+Katoden, vil lide. Afbøjningens Størrelse
+aftager med voksende Elektrodespænding (d. v. s.
+aftagende Tryk ell. voksende Strøm).
+<sp>Birkeland</sp> viste, at naar K.-Røret drives med en
+Induktor, som i Modsætning til en
+Influensmaskine giver en diskontinuert Strøm og
+varierende Elektrodespænding, vil K. i Magnetfeltet
+opløse sig i fl. Bundter, hvis Afbøjelighed er
+forsk. (<sp>magnetisk Spektrum</sp>).
+
+En <sp>diffus Tilbagekastning</sp> af K.
+iagttages overalt, hvor de træffer en fast Væg.
+I et K.-Rør luminiscerer ikke alene den Del af
+Glasvæggen, som direkte træffes af K., men i
+større ell. mindre Grad hele Glasvæggen. Ved
+at undersøge Luminiscensens Fordeling i Rør af
+forsk. Former ser man, at dette maa hidrøre
+fra en diffus Refleksion fra Glasset.
+
+<sp>H. Hertz</sp> viste, at <sp>K. kan trænge
+gennem tynde Lag af et fast Stof</sp>, f. Eks.
+Metalfolie. Dette benyttede <sp>Lenard</sp> (1894) til
+at skaffe K. ud af det Udladningsrør, i hvilket
+de dannes, idet han i Rørvæggen, hvor denne
+rammes af K., anbragte et lille Hul, som
+lukkedes med tyndt Aluminiumfolie. Denne
+Fremgangsmaade fik stor Bet. for Undersøgelsen af
+K. Lader man K. trænge ud i den atmosfæriske
+Luft. og nærmer man en luminiscerende Skærm
+til Hullet, ser man, at K. er blevet diffuse ved
+at gaa gennem Metalfolien, og at de
+<sp>absorberes</sp> stærkt i Luften, saaledes at deres
+Virkning kun kan spores nogle faa cm fra Hullet.
+
+2. <sp>K.'s Natur</sp>. <sp>Crookes</sp> havde opstillet
+den Hypotese, at K. bestaar af Luftmolekyler,
+som har modtaget en negativ Ladning ved at
+berøre Katoden, og som derefter i det stærke
+Felt foran Katoden har opnaaet en betydelig
+Hastighed. Denne Hypotese kunde forklare de
+fleste af K.'s da kendte Egenskaber kvalitativt;
+men der rettedes mange vægtige Indvendinger
+imod den, og den syntes navnlig ikke at kunne
+staa for en kvantitativ Prøve. Mod Hypotesens
+Rig lighed talte bl. a. den Omstændighed, at de
+Forsøg, der blev gjort for at paavise, at K.
+fører en negativ Ladning og afbøjes i elektrisk
+Felt, ikke gav sikre Resultater. Det var en lang
+Tid den alm. Antagelse, at man var meget langt
+fra at kunne naa til Klarhed over K.'s Natur
+og i det hele over den yderst komplicerede
+Elektricitetsledning i Luft. Dette Omraade af
+Fysikken blev derfor kun dyrket af ret faa Forskere,
+og deres Resultater tiltrak sig ikke alm.
+Opmærksomhed. I 1895 lykkedes det <sp>Perrin</sp> at
+
+<img>Fig. 2</img>

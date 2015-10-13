@@ -1,0 +1,152 @@
+v. s. vælge de Formler, som man vil anvende,
+naturligvis saaledes, at Arbejdet reduceres til
+det mindst mulige. Dernæst opstiller man, et
+Skema for Beregningerne; man opnaar derved
+at faa et Overblik over disse, saaledes at man
+kan udføre dem i en hensigtsmæssig Orden, f.
+Eks. foretage Opslag i samme Tabel
+umiddelbart efter hinanden. Det er af stor Vigtighed,
+at Cifrene skrives tydelig, og at ved Addition
+og Subtraktion Cifre af samme Orden skrives
+nøjagtig under hinanden. Om muligt maa man
+øve Kontrol enten ved at beregne en Størrelse
+paa forsk. Maader, ell. mere summarisk ved
+et Skøn over Resultatets Sandsynlighed.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Regnell, Anders Fredrik">
+<b>Regnell</b> [ræŋ'næl], <sp>Anders Fredrik</sp>,
+sv. Læge, Botaniker og Mæcenat, f. i Sthlm 8.
+Juni 1807, d. i Caldas (Brasilien) 12. Septbr i
+1884. P. Gr. a. Brystsvaghed rejste han 1840 til
+Brasilien og bosatte sig i Caldas i Prov. Minas
+Geraës, hvor han som praktiserende Læge
+erhvervede sig en stor Formue. Denne skænkede
+han dels i levende Live, dels ved Testamente til
+medicinske og naturvidenskabelige Institutioner
+i hans Fædreland. I en Række af Aar foretog
+han i og omkr. Caldas naturhistoriske, særlig
+botaniske, Undersøgelser og tilvejebragte
+meget store Samlinger af Planter, som han
+forærede til Riksmuseet i Sthlm, hvor der er
+ansat en særlig »R.'sk Amanuens« ved den bot.
+Afdeling.
+<i>C. H. O.</i>
+</chapter>
+
+<chapter name="Regnemaskine">
+<b>Regnemaskine,</b> <sp>Aritmometer</sp>,
+<sp>Aritmograf</sp>, tjener til mekanisk Udførelse af
+Regninger. Der eksisterer en Mængde
+forskellige Konstruktioner; en Oversigt over dem
+findes i W. J. v. Bohl, »Apparate und Maschinen
+zur mechanischen Ausführung arithmetischer
+Operationen« (Moskva 1896). R. er allerede
+konstrueret af Pascal cg Leibniz. En meget
+benyttet Konstruktion er følgende: En Række lige
+store Hjul, hvert forsynet med 10 ækvidistante
+Tænder, der bærer Cifrene 0, 1, 2 . . . 9, kan
+dreje sig om Akser, der ligger i samme rette
+Linie <i>A</i>. Gennem en Spalte <i>S</i>, der er parallel
+med <i>A</i>, ses paa hvert Hjul et af de 10 Cifre.
+En med <i>A</i> parallel Akse <i>B</i> bærer en anden
+Række lige store Tandhjul, hvis Tænder
+griber ind i de førstnævnte Hjul; disse Tænder
+er dog alm. trukket tilbage i Hjulene, men man
+kan ved en simpel Mekanisme paa hvert Hjul
+faa et vilkaarligt Antal af dem til at træde
+frem. Vil man addere 253 og 742, begynder
+man ved at lade de 3 første Hjul med Akser
+i <i>A</i> vise Cifrene 000 gennem Spalten <i>S</i>. Derpaa
+faar man paa de tilsvarende Hjul paa Aksen <i>B</i>
+3, 5 og 2 Tænder frem og drejer <i>B</i>, der er
+forsynet med et Haandsving, en hel Omdrejning;
+de 3 første Hjul med Akser i <i>A</i> drejer sig da
+ved Tændernes Indgriben saaledes, at de
+gennem <i>S</i> viser Cifrene 3, 5 og 2. Man faar saa
+paa de 3 nævnte Hjul med Akse <i>B</i> 2, 4 og 7
+Tænder frem; drejes <i>B</i> en hel Omdrejning, ses
+gennem <i>S</i> 995, som er den søgte Sum. R.
+besørger selv Ombytningen af 10 Enheder paa
+een Plads med 1 paa den foregaaende.
+Multiplikation af et Tal med et Ciffer udføres ved
+gentagen Addition af Tallet til sig selv. Vil man
+multiplicere 253 med 742, danner man ved
+gentagen Addition 25300 . 7 og adderer dertil 2530
+4 Gange og 253 2 Gange; ved disse Additioner
+anvender man den samme Indstilling af
+Tænderne paa Hjulene med Akse <i>B</i>, men <i>A</i> ell. <i>B</i>
+maa forskydes i sig selv, hvilket R. er indrettet
+paa. Paa lgn. Maade udføres Subtraktion og
+Division. Der er nyere R., som giver en
+hurtigere Addition af et større Antal flercifrede
+Tal og aftrykker Resultatet, eller som giver en
+hurtigere Multiplikation. De saakaldte
+Differensmaskiner bruges til Beregning af Tabeller
+over en Funktions Værdier ved successiv
+Addition af dens Differenser af forsk. Orden (se
+<sp>Differensregning</sp>). En af Babbage 1834
+opfundet <i>Analytical engine</i>, der skulde kunne
+udføre aritmetiske og analytiske Operationer
+af enhver Art, er aldrig blevet gjort færdig,
+men der eksisterer adskillige Maskiner til
+Ligningers Opløsning, Rækkeudvikling m. m. (se
+<sp>Integrator</sp>).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Regnepenge">
+<b>Regnepenge</b> udmøntes med
+Medailledekoration i gelbbrændt Messing. Deres Rolle i
+Middelalderen og 17. Aarh. ud som
+Regnemiddel, indtil det nuv. System blev alm., er
+forlængst udspillet, og som Spillemærker er de
+omtr. fortrængte af <sp>Jetons</sp>.
+<i>(Bernh. O.).</i>
+</chapter>
+
+<chapter name="Regner Lodbrok">
+<b>Regner Lodbrok,</b> dansk Vikingekonge, den
+berømteste Sagnskikkelse fra Vikingetiden. Som
+historisk Person har R. L. sikkert været
+Medlem af den danske Kongeæt: han forekommer
+845 som Fører af en Normannerhær ved Seine,
+der blev ødelagt af pludselig Sygdom.
+Formodentlig er han ogsaa den Kong »Ragnhall«, der
+faldt i Kampe paa de britiske Øer c. 865 og
+efterlod sig berømte Sønner. I hvert Fald er
+hans Sønner, »Lodbrok-Sønnerne«, særlig Ivar
+og Ubbe, mere fremtrædende end han selv ved
+deres Undertvingelse af Nordengland 867,
+hvorved det danske Herredømme i England
+grundlagdes. I Sagndigtningen blev dog Faderen den,
+der udformedes friest. Han skal være død i
+Northumberkongen Ella's Ormegaard, og
+Sønnernes Erobring af Landet opfattes som deres
+Hævntog. Til Forklaring af hans Tilnavn
+opdigtedes Sagnet om, at han i laadden Dragt
+havde fældet en Lindorm og derved vundet
+i Kongedatteren Thora Borgarhjort. Senere
+fortaltes om hans Bryllup med Aslog ell. Kraaka,
+et Hittebarn fra Norges Sydspids; desuden
+alskens krigerske Bedrifter. Som R. L.'s Sønner
+nævnes hyppigst: Erik og Agnar, der faldt i
+Sverige; Ivar Benløs, Erobrer af Byen York 866
+og Grundlægger af det danske Rige i
+Northumberland; Sigurd Orm-i-Øje, der mindre rigtig
+opfattes som en senere Hersker i Danmark;
+Hvitserk, til hvem Sagn fra Nordboernes Færd
+i Rusland blev knyttet: Ubbe, der faldt mod
+uhyre Overmagt, vistnok i Frisland.
+Fællesmotivet i Sagnene om R. L. og hans Sønner er
+Uforfærdethed i Døden; Ophobningen af en
+uhyre Masse Bedrifter uden indre
+Sammenhæng adskiller denne Digtning fra de ældre
+Heltesagn, hvorfra den dog har laant fl.
+Motiver (Ormedrabet og Ormegaarden fra
+Volsungerne). Regnersdigtningen er sikkert fra først
+af udviklet hos Vestens Vikinger; nu foreligger
+den i en norsk Saga hos Sakse, der er rigere
+paa historiske Bestanddele, og en islandsk
+»Ragnarssaga«, der med stor Finhed har gjort

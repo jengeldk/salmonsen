@@ -1,0 +1,175 @@
+punkter indeslutter et Areal = ∫ θ<sub>2</sub> 1/2 θ<sub>1</sub> <i>r</i><sup>2</sup><i>d</i>θ = ∫ θ<sub>2</sub> 1/2 θ<sub>1</sub>
+[φ (θ)]<sup>2</sup> <i>d</i>θ, hvor θ<sub>1</sub> og θ<sub>2</sub> er Værdierne for
+θ svarende til de begrænsende Radier,
+forudsat at Buen ikke skærer nogen af Radierne til
+dens Punkter; her er Addenden 1/2 <i>r</i><sup>2</sup> <i>d</i>θ = et
+Cirkeludsnit med den uendelig lille Vinkel <i>d</i>θ
+og Radien <i>r</i>. Vil man paa denne Maade
+bestemme et af en lukket krum Linie begrænset
+Areal, inden for hvilket Polen ligger, bliver
+Grænserne for Integralet 0 og 2<sup>π</sup>. <sp>Krumme
+Fladers</sp> Arealer defineres som Grænser for
+andre Fladeindhold, hvis K. tidligere er
+udført. Saaledes defineres Arealet af en ret
+cirkulær Cylinders ell. Kegles krumme Overflade
+som Grænse for Summen af Sidefladerne i et
+omskrevet regulært Prisme ell. en omskreven
+regulær Pyramide, naar Sideantallet vokser i
+det uendelige. Ved Omdrejningsflader, f. Eks.
+Kuglebælter, bestemmer man først det af
+Keglestubbes krumme Overflader sammensatte
+Areal, der beskrives af en om Meridiankurven
+omskreven brækket Linie ved Drejning om
+Aksen, og lader saa den brækkede Linies
+Stykker aftage til Nul, medens deres Antal vokser
+i det uendelige; Resultatet kan findes som 2 π
+∫ <i>b</i> <i>y</i> <i>a</i> √1+ (<i>dy/dx</i>)<sup>2</sup> <i>dx</i>, hvor <i>dy/dx</i> er bestemt af
+Meridiankurvens Ligning i et Koordinatsystem
+med <i>X</i>-akse i Fladens Akse, medens <i>a</i> og <i>b</i>
+er Abscisserne til Meridiankurvens
+Endepunkter. Ved K. af en Del af en Flade, der er given
+ved en Ligning henført til et treretvinklet
+Koordinatsystem, bruges som Udtryk for Arealet
+∬√1+(<i>dz/dx</i>)<sup>2</sup> + (<i>dz/dy</i>)<sup>2</sup> <i>dx dy</i>, hvis
+Grænser afhænger af Fladedelens Begrænsning.
+Her er Addenden under Summationstegnet den
+Firkant i Fladens Tangentplan, hvis Projektion
+paa <i>XY</i>-planen er et Rektangel med en
+Vinkelspids i Røringspunktets Projektion og de to
+sammenstødende Sider <i>dx</i> og <i>dy</i> parallelle med
+<i>X</i>- og <i>Y</i>-aksen. M. H. t. selve Værdierne for de
+forsk. Arealer henvises til Artiklerne om de
+respektive Flader.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="kvadrere">
+<b>kvadrere</b> (mat.) betyder enten at udføre
+Kvadraturen af en Flade ell. at opløfte en
+Størrelse til anden Potens (se <sp>Kvadrat</sp>).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Kvadriennium">
+<b>Kvadriennium</b> (lat. <i>quadriénnium</i>), Tidsrum
+af 4 Aar.
+</chapter>
+
+<chapter name="Kvadriga">
+<b>Kvadriga</b> (lat. <i>quadriiga</i> ell. <i>quadriigæ</i>),
+Firspand; Vogn forspændt med fire Heste, der i
+Oldtiden benyttedes ved Væddekørsel og
+Festoptog. Den havde samme Form som en Biga.
+<i>C. B.</i>
+</chapter>
+
+<chapter name="kvadrilateral">
+<b>kvadrilateral</b> (nylat.), firsidet.
+</chapter>
+
+<chapter name="Kvadrille">
+<b>Kvadrille</b> ['drilj<sub>ə</sub>] (fr. <i>Quadrille</i>), en
+Benævnelse, der i Tidens Løb har afløst Betegnelsen
+<sp>Kontradans</sp> (s. d. og <sp>Française</sp>). Opr.
+anvendtes Navnet K. paa de Danse, der forekom
+i de fr. Balletter i 18. Aarh., udført af 2—6
+dansende Par i ensartet Paaklædning; den
+Kontradans, der første Gang indførtes i
+Rousseau's <i>Fêtes de Polyhymnie</i> (1745) og gik
+under Navnet <i>Quadrille de contredanses</i>, senere
+forkortet til <i>Quadrille</i>, blev Oprindelsen til de
+senere K., Française, Lanciers o. s. v., der som
+Selskabsdanse kom i Brug i Beg. af 19. Aarh.
+<i>S. L.</i>
+</chapter>
+
+<chapter name="Kvadrillion">
+<b>Kvadrillion</b> (nylat.), tusinde Gange tusinde
+Trillioner (10<sup>24</sup>); i Frankrig lig tusinde
+Trillioner (10<sup>15</sup>).
+</chapter>
+
+<chapter name="Kvadrireme">
+<b>Kvadrireme</b> (l. = gr. <i>Tetrere</i>), »Firaare«,
+Betegnelse for en af de Typer af svære
+Rofartøjer til Krigsbrug, som kom i Anvendelse fra
+Alexander den Store's Tid. At de var sværere,
+rummeligere og med højere liggende Ræling
+end den alm. Triere, er uden Tvivl. Man har
+kun faa Efterretninger om deres Udseende.
+Der kendes imidlertid fra Oldtiden ingen Afb.
+af Skibe med mere end 3 Rækker Aarer over
+hinanden. Sandsynligst er det, at hver Aare i
+den ene, øverste og derfor længste Række af
+Aarer paa K. blev roet af 2 Mand, i de 2
+nederste derimod af en enkelt Mand, saaledes at
+Navnet hidrørte fra, at der til hvert lodret
+Aaresæt hørte 4 Mand som Rorkarle. K. var
+ret tung og uhandlelig.
+<i>H. A. K.</i>
+</chapter>
+
+<chapter name="Kvadrivium">
+<b>Kvadrivium</b> (lat.), Firvejen. Middelalderens
+Skoler inddelte deres Læreindhold, de 7 fri
+Kunster (<i>septem artes liberales</i>), i 2 Grupper:
+<i>Trivium</i>, Trevejen, der omfattede Grammatik,
+Retorik og Dialektik (ell. Logik), og K., der
+omfattede Astronomi, Geometri, Aritmetik og
+Musik. Indholdet af den sidste Gruppe var
+imidlertid temmelig forsk. fra, hvad vi nu
+forstaar ved disse Discipliner (særlig Astronomi).
+<i>Cl. W.</i>
+</chapter>
+
+<chapter name="Kvadron">
+<b>Kvadron,</b> se <sp>Kvarteron</sp>.
+</chapter>
+
+<chapter name="Kvadrupeder">
+<b>Kvadrupeder</b> ell. firføddede Dyr er en
+forforældet zool. Fællesbetegnelse for Pattedyr og
+Reptilier (Padder og Krybdyr). Den skriver
+sig fra de Tider, da man tog rent ydre
+Kendemærker, naar man vilde inddele Dyrene. Hos
+Aristoteles skete dette vel kun i anden Række,
+Pattedyrene er hos ham f. Eks. først de
+levendefødende, dernæst de firføddede Dyr; men hos
+Klein, en af Linné's umiddelbare Forgængere,
+ser vi Dyreriget delt i 1) Dyr med Fødder og
+2) Dyr uden Fødder og de første igen i Dyr
+med 2, 4 o. s. v. Fødder. Linné kan endnu
+ikke komme helt uden om Begrebet K., men
+definerer f. Eks. Pattedyrene som behaarede
+K., der føder levende Unger, o. s. v. Siden
+Cuvier's Dage er Benævnelsen K. forsvunden
+af al videnskabelig Zoologi.
+<i>(M. Ml.). R. Hg.</i>
+</chapter>
+
+<chapter name="Kvadrupel">
+<b>Kvadrupel,</b> firdobbelt Pistol (<i>Onza de oro</i>),
+ældre sp. Guldmønt, Raavægt 27,0643 g.
+</chapter>
+
+<chapter name="Kvadrupelalliance">
+<b>Kvadrupelalliance</b> [-aŋs<sub>ə</sub>], Forbund mellem
+4 Magter, har været sluttet fl. Gange. Saaledes
+indgik Rusland, England, Preussen og Østerrig
+1815 en K. til Opretholdelse af Freden i
+Europa. I Aarene før Verdenskrigen udgjorde
+Tyskland, Østerrig-Ungarn, Italien og Rumænien en
+K. 1912—13 besejredes Tyrkiet af
+Firemagtsforbundet Serbien, Bulgarien, Grækenland og
+Montenegro. 1915—18 kæmpede K. Tyskland,
+Østerrig-Ungarn, Tyrkiet og Bulgarien mod de
+allierede Magter. 1922 stiftede
+Tschekoslovakiet, Rumænien og Jugoslavien i Belgrad et
+Forbund, der i Forventning om Polens
+Tiltræden straks proklameredes som en K.
+<i>G. R.</i>
+</chapter>
+
+<chapter name="Kvadruplextelegrafering">
+<b>Kvadruplextelegrafering,</b> se <sp>Telegraf</sp>.
+</chapter>

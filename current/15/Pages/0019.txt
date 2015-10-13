@@ -1,0 +1,140 @@
+<sp>Bohr's Korrespondensprincip</sp>.
+Bohr, der har sat et stort Arbejde ind paa en
+rationel, systematisk Udvikling af K., har
+indført et meget vigtigt nyt Synspunkt i K., det
+saakaldte <sp>Korrespondensprincip</sp>, der
+har vist sig overordentlig vel egnet til at
+forklare en stor Mængde af de ejendommelige
+Forhold, som de forsk. Spektre udviser. Selv om
+den Maade, paa hvilken et Stofs Spektrum
+efter K. udsendes, er grundforskellig fra den
+Maade, hvorpaa Emissionen tænktes at foregaa
+efter den gl. Elektrodynamik, saa maa den
+kvanteteoretiske Emissionsteori dog paa en ell.
+anden Vis kunne opfattes som en Slags
+Almindeliggørelse af den klassiske Teori, da denne
+jo fuldt ud er i Stand til at bestemme det
+Spektrum, der udsendes i saadanne Tilfælde,
+hvor Elektricitetens Bevægelse er tilstrækkelig
+langsom. Efter den klassiske Elektrodynamik
+er der en nøje Forbindelse mellem en
+Elektrons Bevægelse og det Spektrum, den
+udsender. Opløses Bevægelsen i harmoniske
+Svingninger, vil der til hver enkelt af disse svare en
+Linie i Spektret, hvis Frekvens er lig
+Frekvensen for den harmoniske Svingning, og hvis
+Intensitet og Polarisation er simpelt bestemt ved
+den harmoniske Svingnings Amplitude. Alle
+Spektrets Linier udsendes efter den gl. Teori
+samtidig. Efter K. udsendes hver Linie ved en
+særlig Overgangsproces, og en simpel
+Sammenhæng mellem Bevægelse og Spektrum er
+udelukket. Dog maa man efter Bohr antage, at
+der findes en vis Korrespondens mellem
+Elektronbevægelse og Spektrum. Bohr antager, at
+Muligheden for, at en vis Overgang mellem to
+stationære Tilstande kan finde Sted af sig selv,
+er betinget af, at der i Elektronbevægelsen i de
+to stationære Tilstande og i mellemliggende
+mekanisk mulige Tilstande findes en harmonisk
+Svingningskomponent, der
+<sp>korresponderer</sp> med den paagældende Overgang paa en
+bestemt Maade, saaledes at den, hvis
+Kvantetallene i begge Tilstande spc. er meget store,
+har samme Svingningstal som den Straaling,
+der udsendes ved Overgangen. Sandsynligheden
+for en vis Overgang mellem to stationære
+Tilstande antages at afhænge af Amplituden af
+den med Overgangen korresponderende
+harmoniske Svingning i Elektronbevægelserne i
+disse Tilstande, saaledes at jo større denne
+Amplitude er, des større er
+Overgangssandsynligheden og dermed Intensiteten af den Linie,
+som faas fra et større Antal Atomer ved denne
+Overgang. Polarisationen af det Lys, som
+udsendes ved en vis Overgang, antages endelig
+at afhænge af den korresponderende
+Svingningskomponent i Elektronbevægelsen i de to
+stationære Tilstande paa lgn. Maade, som
+Polarisationen efter den klassiske Teori afhænger
+af Bevægelsen.
+
+Korrespondensprincippet kan f. Eks. forklare
+den Forskel, der er mellem Spektret af et
+Atomsystem, i hvilket en Elektron udfører rent
+harmoniske Svingninger (en Planck's
+Oscillator), og et Atomsystem, i hvilket
+Elektronbevægelsen blot er periodisk (et Brintatom efter den
+simple Teori). En Planck's Oscillator udsender
+kun Straaling med et Svingningstal, der er lig
+Oscillatorens Svingningstal; der finder altsaa
+kun saadanne Overgange Sted, ved hvilke
+Kvantetallet ændrer sig med 1; i Modsætning
+hertil viser Brintens Spektrum, at naar
+Elektronbevægelsen er periodisk, men ikke rent
+harmonisk, forekommer alle mulige Overgange.
+Dette forklares derved, at medens Oscillatorens
+Bevægelse kun bestaar af een harmonisk
+Svingning, saa kan Elektronbevægelsen i
+Brintatomet opløses i en uendelig Rk. saadanne
+Svingninger med Svingningstal, som er vilkaarlige
+Multipla af Antallet af Omløb af Elektronen pr
+Sek., saaledes at der i Bevægelsen findes en
+harmonisk Svingning, der korresponderer med
+en vilkaarlig Overgang mellem stationære
+Tilstande.
+
+En vigtigere Anvendelse af
+Korrespondensprincippet faar man ved at betragte et Atom,
+f. Eks. et virkeligt Brintatom, i hvilket en
+Elektron udfører en Centralbevægelse. En saadan
+Bevægelse kan opløses i to uendelige Rk. af
+harmoniske Svingninger med Svingningstal τω + σ
+eller τω ÷ σ, hvor ω betyder Omløbstallet
+for Elektronen i den roterende Ellipse og σ
+Omløbstallet for dennes Storakse, medens τ er
+et vilkaarligt helt Tal. Disse harmoniske
+Svingninger korresponderer med Overgange, ved
+hvilke Hovedkvantetallet <i>n</i> formindskes med τ,
+medens Kvantetallet <i>k</i> ændrer sig med ÷ 1
+ell. + 1. Man maa altsaa antage, at kun
+saadanne Overgange vil forekomme, ved hvilke <i>k</i>
+ændrer sig med ± 1, en Lov som tidligere er
+fundet empirisk.
+
+Korrespondensprincippet giver i det hele taget
+en Forklaring paa, at man i Spektrene kun
+finder saa forholdsvis faa af de Linier, som
+man efter Kombinationsprincippet skulde vente
+at finde. Linierne mangler simpelthen, fordi
+der i Elektronbevægelserne ikke er harmoniske
+Svingninger, som korresponderer med de
+Overgange, ved hvilke Linierne skulde udsendes.
+At denne Forklaring er rigtig, bekræftes af den
+interessante Iagttagelse, at fl. af disse
+manglende Kombinationslinier kan fremkomme, naar
+Atomet anbringes i elektrisk ell. magnetisk Felt.
+Det ydre Felt perturberer Elektronbevægelsen,
+saaledes at denne kommer til at indeholde ny
+harmoniske Svingningskomponenter, hvorved
+Muligheden for ny Overgange er tilvejebragt.
+
+En meget nøje Prøve har
+Korrespondensprincippet faaet ved dets Anvendelse paa et
+Brintatom, som er anbragt i et elektr. ell. et magnet.
+Felt. <sp>H. A. Kramers</sp> har foretaget en
+Undersøgelse af Elektronbevægelsen i Brint og
+ioniseret Helium, dels uden og dels i elektrisk
+og magnetisk Felt, og har fundet, at
+Korrespondensprincippet overordentlig nøje kan gøre
+Rede for alle de iagttagne Enkeltheder i
+Liniernes Finstruktur, Stark- og Zeemanopspaltning,
+ikke alene hvad angaar Liniekomponenternes
+Antal og Beliggenhed, men ogsaa for deres
+Intensiteter og Polarisation.
+
+Korrespondensprincippets store Bet. beror
+ikke alene paa, at det kan give Oplysninger om
+Sandsynlighederne for Overgange mellem
+stationære Tilstande; det kan, som Bohr har vist,
+i mange Tilfælde ogsaa anvendes til

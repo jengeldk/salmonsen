@@ -1,0 +1,132 @@
+Grundstoffer: Brint, Helium, Beryllium, Kulstof,
+Kvælstof, Ilt, Fluor, Natrium, Aluminium,
+Fosfor, Svovl, Arsen, Jod og Cæsium. I
+hosstaaende Tabel er for de andre undersøgte Stoffer
+deres vigtigste Isotoper opført. Under
+Atommasser er de enkelte Værdier opført i
+Rækkefølge efter deres relative Mængder.
+<table>
+<td c>Stof<td c>Atom-Nr.<td c>Atomvægt<td c>Antal<br>Isotoper<br>(mindst)<td c>Atommasser
+<td>Lithium<td r>3<td r>6,94<td c>2<td c>7;6
+<td>Bor<td r>5<td r>10,9<td c>2<td c>11;10
+<td>Neon<td r>10<td r>20,2<td c>2<td c>20;22
+<td>Magnium<td r>12<td r>24,32<td c>3<td c>24;25;26
+<td>Silicium<td r>14<td r>28,1<td c>2<td c>28;29;(30)
+<td>Klor<td r>17<td r>35,46<td c>2<td c>35;37
+<td>Argon<td r>18<td r>39,9<td c>2<td c>40;36
+<td>Kalium<td r>19<td r>39,10<td c>2<td c>39;41
+<td>Calcium<td r>20<td r>40,07<td c>(2)<td c>40;(44)
+<td>Jern<td r>26<td r>55,84<td c>(1)<td c>56;(54)?
+<td>Nikkel<td r>28<td r>58,68<td c>2<td c>58;60
+<td>Zink<td r>30<td r>65,37<td c>4<td c>64;66;68;70
+<td>Selen<td r>34<td r>79,2<td c>6<td c>80;78;76;82;77;74
+<td>Brom<td r>35<td r>79,92<td c>2<td c>79;81
+<td>Krypton<td r>36<td r>82,92<td c>6<td c>84;86;82;83;80;78
+<td>Rubidium<td r>37<td r>85,45<td c>2<td c>85;87
+<td>Tin<td r>50<td r>118,7<td c>7(8)<td c>120;118;116;124;119;117;122;(121)
+<td>Xenon<td r>54<td r>130,2<td c>7(9)<td c>129;132;131;l34;136;128;130;(126);(124)
+<td>Kvægsølv<td r>80<td r>200,6<td c>(6)<td c>(197—200);202;204
+</table>
+
+Medens det især ved <sp>N. Bohr</sp>'s Arbejder
+i betydelig Udstrækning er lykkedes at
+opklare Elektronsystemernes Bygning og de Love,
+der behersker denne, er vort Kendskab til
+Kernen ringere. Dette hænger sammen med, at
+det er øverordentlig vanskeligt at gøre
+Indgreb i Kernens Bygning; Vægt og radioaktive
+Egenskaber er jo netop upaavirkelige af alle
+ydre Forhold (Temp. o. s. v.). Alligevel er det
+nylig lykkedes <sp>Rutherford</sp> at sønderslaa
+visse Atomers Kerner, først Kvælstofatomets,
+ved at beskyde dem med hurtige α-Partikler,
+de stærkeste Energikoncentrationer, der raades
+over. I de meget sjældne Tilfælde, da en
+α-Partikel ramte nær nok ved en Kerne, blev der
+slaaet Brintkerner ud af Kvælstofkernerne,
+hvad man konstaterede ved, at Brintkernerne
+selv optraadte som Straaler analoge med
+α-Straalerne, saa at de gav Lysglimt paa et
+fluorescerende Stof, og man kunde undersøge
+dem paa samme Maade som α-Partikler ved
+Afbøjning o. s. v. Først antoges det, at hvert
+ramt Kvælstofatom samtidig udsendte 2
+Brintkerner og derved muligvis blev til et
+Kulstofatom, men nylig synes det paavist, at der kun
+udsendes en Brintkerne, og at samtidig
+α-Partiklen slaar sig sammen med Resten af
+Kvælstofkernen, der saaledes kommer til at faa
+Atomvægten 14 + 4 — 1 = 17. Maasket opstaar
+derved en Iltisopton, der dog ikke kendes fra
+Aslons ovf. omtalte Undersøgelser og vil derfor
+næppe være videre stabil. Dette var den
+første sikre ved Kunst fremkaldte Omdannelse
+af et Grundstof til et andet. Men Udbyttet er
+minimalt, saa at det sandsynligvis altid vil
+være uden praktisk Bet. Senere synes det at være
+lykkedes Rutherford at paavise lgn.
+Kernesønderdelinger, i hvert Fald for flg. Stoffer: Bor,
+Kvælstof, Fluor, Natrium, Aluminium og Fosfor,
+sandsynligvis ogsaa for Neon, Magnium,
+Silicium, Svovl, Klor, Argon og Kalium. Som
+Bestanddele af Atomkernerne maa man altsaa i
+hvert Fald antage Brintkerner og Elektroner.
+Det er det simpleste og maaske ikke
+urimeligt at antage, at alle Atomkerner er opbygget
+alene af disse 2 Bestanddele, idet
+Heliumkernerne, der optræder som α-Partikler og altsaa
+ogsaa maa være en Bestanddel af visse Kerner,
+igen kan være sammensat af 4 Brintkerner og
+2 Elektroner. I hvert Fald er der for Øjeblikket
+intet i Vejen for at tænke sig alt Stof i
+Universet opbygget af disse 2 Bestanddele,
+Brintkernen (»Proton«) og Elektronen ell. det
+positive og det negative Elementarkvantum.
+
+R. i <sp>Geologi</sp> og <sp>Geofysik</sp>. R. har
+leveret Geologien de uden Sammenligning
+sikreste Aldersbestemmelser for Mineraler og
+derved for de geol. Perioder. Da
+Uran-Radiumfamiliens Endeprodukt er Bly, vil Blymængden
+i et Uranmineral stadig vokse, og da
+Dannelseshastigheden for Blyet er bestemt ved Uranets
+kendte Halveringstid, vil en Bestemmelse af
+Forholdet mellem et Uranminerals Bly- og
+Uranindhold direkte give dets Alder, naar hele
+Blyindholdet forudsættes at være af radioaktiv
+Oprindelse. Men om dette er Tilfældet, kan en
+Atomvægtsbestemmelse for Blyet oplyse, og er
+det ikke Tilfældet, viser Atomvægten, hvor stor
+en Del af Blyindholdet man skal regne med.
+Et af de yngste undersøgte Mineraler er et
+Uraninit fra Kulperioden, der er 320 Millioner
+Aar gammelt; en Række Mineraler fra
+Middel-Præcambrium er omkr. 1000—1200 Millioner Aar
+gamle; det ældste undersøgte Mineral er et
+Zirkonmineral, der er 1500 Millioner Aar gl.,
+men hvis geol. Periode er ukendt. Lgn.
+Bestemmelser for Thoriummineraler har givet
+usandsynlig lave Værdier, saa at de ikke kan
+antages at være primære Mineraler. En anden
+Aldersbestemmelse faar man ved
+Bestemmelse af Mineralernes Heliumindhold, der stammer
+fra gamle α-Partikler, men den maa ventes
+at give noget lavere Tal — da en Del af
+Heliumindholdet let kan være sluppet bort i Tidens
+Løb — og det gør den gennemgaaende ogsaa,
+men dog Tal af samme Størrelsesorden.
+Endelig kan man af Intensiteten af de Farver, som
+visse Mineraler (Glimmer, Turmalin) har faaet
+i Tidens Løb p. Gr. a. et ganske ringe Indhold
+af radioaktive Stoffer, beregne Alderen, og man
+faar ad denne Vej Værdier, der stemmer godt
+med de af Blyindholdet for andre Mineraler
+fra samme Periode beregnede. Saadanne
+Farver, som p. Gr. a. Mineralernes minimale
+Indhold af radioaktive Stoffer først bliver
+kendelige efter Forløbet af Millioner Aar,
+frembringes af stærkere Radiumpræparater paa kort
+Tid. Glasrør, hvori der opbevares Radium,
+farves meget hurtigt stærkt violet ell. gult,
+der senere bliver brunt. Den lange Tids
+Ophobning af Virkningen i Mineraler gør det

@@ -1,0 +1,15 @@
+#Download txt files
+for i in $(seq 26)
+do
+   wget -O  salmonsens-2-${i}-txt.zip "http://runeberg.org/download.pl?mode=txtzip&work=salmonsen/2/${i}"
+done
+# Find all chapters and signatures
+for f in salmonsen-2-{1..26}-txt.zip
+do
+   unzip -aap $f 'Pages/[01]???.txt'
+done | \
+nl | \
+egrep -C 2 '</?chapter|^ *[0-9]+  <i>[^0-9].*</i>.?$' > chapters.txt 
+
+#Find chapter errors
+awk '/<chapter/{if (c) print;c=1}/<\/chapter/{if (c==0) print;c=0}' chapters.txt > chapter.errors

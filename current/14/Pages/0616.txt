@@ -1,0 +1,76 @@
+Sekundærluft og Forbrændingsprodukter <sp>ikke</sp>
+kommer i direkte Berøring med hinanden. I
+selve Ovnkammeret finder saa den største
+Varmeudvikling Sted, idet den i Generatoren
+dannede Fyringsgas her <sp>forbrændes</sp> af
+Sekundærluften. Den afbildede Ovn (System
+Hermansen) afgiver et godt Eksempel paa,
+hvorledes ein Ovn kan koncentreres og
+sammenbygges det mest mulige, for at unyttige Tab af
+Straalevarme kan undgaas. En stor Del andre
+Typer paa Fyringsovne til specielt Brug er
+afbildede i »Ingeniøren« Aug. 1919, hvorfra de
+hosstaaende Fig. 2 og 3 er taget.
+
+I særlige Tilfælde kan det have sin Fordel
+ogsaa ved Fyringsovne at lade Generatoren være
+<sp>adskilt</sp> fra Ovnen. Herved kan Generatoren
+gøres større og være fælles for fl. Ovne, og en
+stor Generator kan under Fyringen og
+Slagningen behandles mere rationelt end de smaa
+Generatorer hver for sig. De store, fritstaaende
+Generatorer kan bygges op til et
+Brændselsforbrug af 10—15 t pr Døgn og indrettes ofte som
+Drejeristgeneratorer. En saadan er afbildet i
+Fig. 3. Selve Drejeristen er skematisk
+fremstillet i Fig. 4.
+
+Risten er en kegledannet Trapperist, i
+Reglen med ekscentrisk beliggende Kegletoppunkt,
+og langs Randen indrettet som et ringformet
+Trug, der danner en Vandkumme helt rundt om
+Generatoren. Hele dette Ristelegeme kan paa
+Kuglelejer ved Maskinkraft drejes om en lodret
+Akse. Generatorens Sidevæg og Overdel er fast
+ophængt paa Jernknægte, og Sidevæggen er
+forlænget med en cylindrisk Rand, der dykker ned
+i Ristelegemets Vandlaas. Tætheden mellem
+Ristelegemet og det Murværk, hvori
+Lufttilførselskanalen ligger, og hvorpaa Underlaget for
+Ristelegemet hviler, er opnaaet ved en lignende
+Vandlaas, der er anbragt paa
+Murværksunderlaget. Naar Risten drejes, medens Generatoren
+er i Drift, vil man dels formindske
+Slaggedannelsen, dels holde den løsere, og en fast
+anbragt Skrabeplade, der naar ned i Vandtruget,
+skaffer tillige under Ristens Drejning Asken
+bort fra denne. Foroven og i selve
+Generatorvæggen findes Stødhuller, gennem hvilke der
+kan hjælpes til under Slagningen, naar det
+behøves. Tilførslen af Brændsel sker gennem et
+Dobbeltlukke, saa at der, uden at der undviger
+Gas, kan fyres under Driften.
+
+Sammensætningen af den fremstillede
+Fyringsgas varierer med Brændslets Art,
+Generatortemp. m. m. Efter »Ingeniøren« Aug. 1919
+(Hermansen) anføres:
+
+<table>
+<td v2><td 2 c>Rent Kulstof<br>(Koks)<td v2 c>Stenkul<td v2 c>Tørv<td v2 c>Anm.
+<td c>Tør Luft<td c>+ 30 %<br>Damp
+<td r>I tør Gas findes Vol % CO<sub>2</sub><td c>—<td c>—<td r>3,7<td r>6,0<td v10>+ 30 % Damp,<br>d. v. s. med<br>Tilsætning af en<br>Dampmængde<br>svarende til 30<br>% af Kulstoffets<br>Vægt.
+<td r>CO<td r>34,7<td r>37,0<td r>29,8<td r>27,3
+<td r>CH<sub>4</sub><td c>—<td c>—<td r>2,5<td r>1,2
+<td r>C<sub>2</sub>H<sub>4</sub><td c>—<td c>—<td r>0,3<td r>0,1
+<td r>H<sub>2</sub><td c>—<td r>7,0<td r>9,9<td r>9,9
+<td r>N<sub>2</sub><td r>65,3<td r>55,5<td r>53,8<td r>55,5
+<td v2>pr. kg Brændsel er udviklet m<sup>3</sup> tør Gas<br>af Brændværdi i kg° pr. m<sup>3</sup><td r>5,40<td r>5,04<td r>3,61<td r>1,85
+<td r>1039<td r>1304<td r>1402<td r>1189
+<td v2>Regnes Tabet ved Udstraaling at være kg°,<br>bliver Temp. af den producerede Gas °C<td r>0<td r>0<td r>400<td r>200
+<td r>1350<td r>904<td r>710<td r>397
+</table>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>

@@ -1,0 +1,156 @@
+Solen kulminerer, at anbringe Forskellen mellem
+sand og middel Tid, <sp>Tidsjævningen</sp>, som
+Ptolemaios kendte til, Tycho Brahe anvendte
+(rigtignok kun den Del, der afhænger af Ekliptikkens
+Hældning) og Kepler gav en udtømmende
+Teori for; den vil være positiv, naar Middelsolen
+kommer før i Meridianen, negativ, naar
+den kommer senere i Meridianen, end Solen.
+4 Gange i Aaret naar Tidsjævningen sin Maksimumsværdi,
+nemlig 12. Febr + 14 Min., 14. Maj
+÷ 4 Min., 26. Juli + 6 Min. og 3. Novbr ÷ 16
+Min., og paa 4 mellemliggende D., nemlig 15.
+Apr., 15. Juni, 1. Septbr og 24. Decbr, er den 0;
+da kulminerer Middelsolen og Solen samtidig.
+Af de anførte Maksimalværdier vil det fremgaa,
+at disse daglige Afvigelser i Solens Bevægelse,
+hvorom der ovf. er talt, kan dynge
+sig op lige til 1/4 Time. Saaledes bliver Solen i
+Tidsrummet fra 2. Novbr til 10. Febr gennemsnitlig
+for hver D. 18-19 Sek. efter Middeltiden,
+og dette fortsat gennem 100 D. bringer den
+sande Soltid fra at have været 16 Min. foran
+Middeltid til i Februar at være 14 Min. efter
+denne. Forandringen i Tidsjævningen er størst
+i Decbr og den første Halvdel af Jan.; dette
+giver sig bl. a. til Kende derved, at naar D.
+begynder at længes over Nytaar, er Tilvæksten
+stærkere efter Middagen end om Morgenen. Og
+en af Virkningerne af denne Forskel mellem
+sand og middel Tid, der ofte bliver misforstaaet,
+kommer til Syne paa den Maade, at
+Tiden fra Solopgang til Middag (Formiddag)
+ikke er lig Tiden fra Middag til Solnedgang
+(Eftermiddag); dette kommer simpelthen deraf,
+at for Solens Op- og Nedgang kommer den
+virkelige Sol i Betragtning, medens Middag bliver
+bestemt efter denne fingerede Middelsol.
+(I Midten af Febr vil saaledes Eftermiddag være
+omtr. 1/2 Time længere end Formiddag, medens
+i Midten af Novbr det omvendte finder Sted).
+Forstaar man derimod ved Middag den sande
+Sols Kulminationsøjeblik, bliver der ingen Forskel
+paa Længden af For- og Eftermiddag, naar
+man bortser fra den lille daglige Forandring i
+Solens Deklination. I de astron. Aarbøger finder
+man Tidsjævningen angivet for hver D.'s
+Middag for det Steds Meridian, hvortil Aarbogen
+er beregnet, i Almanakkerne meddeles hyppigere
+Middeltiden i sand Middag.
+
+Den <sp>naturlige D.</sp>'s Længde afhænger af
+Solens Deklination og Stedets Polhøjde. Ved
+Ækvator er den hele Aaret igennem 12 Timer;
+paa alle andre Punkter af Jorden vil dette finde
+Sted kun ved Foraars- og Efteraarsdøgn, fordi
+Solen da staar i Ækvator. Kommer nu Solen
+N. f. Ækvator, vil D. paa den nordlige Halvkugle
+blive længere, og for de Punkter, som
+ligger mellem Ækvator og den nordlige Polarkreds
+(66 1/2°), naa sin største Længde, naar
+Solen staar i Krebsens Vendekreds (Sommersolhverv).
+Fra nu af aftager D.'s Længde, naar
+sin Længde paa 12 Timer ved Efteraarsjævndøgn
+og sin mindste Længde (24 Timer formindsket
+med den længste D.'s Længde), naar Solen
+staar i Stenbukkens Vendekreds (Vintersolhverv),
+hvorpaa den igen vokser indtil 12 Timer ved
+Foraarsjævndøgn. For Beboerne af den sydlige
+Halvkugle indtræder de længste D., naar Solen
+staar i Stenbukkens Vendekreds, og de korteste
+naar den er i Krebsens Vendekreds. Størrelsen
+af den halve Dagbue (s. d.) for den længste D.
+findes af Formlen <i>cos t</i> = - <i>tgφ tg</i> 23 l/2°
+(φ = Polhøjde). Længden af den længste D. mellem
+Ækvator og Polarcirklen ses i flg. Tabel:
+
+<table>
+<td>Polhøjde<td>Længste D.
+<td><td>Tim.<td>Min.
+<td>0°<td>12<td r>0
+<td>5°<td>12<td r>17
+<td>10°<td>12<td r>35
+<td>15°<td>12<td r>53
+<td>20°<td>13<td r>13
+<td>23 1/2°<td>13<td r>27
+<td>25°<td>13<td r>33
+<td>30°<td>13<td r>56
+<td>35°<td>14<td r>21
+<td>40°<td>14<td r>51
+<td>45°<td>15<td r>26
+<td>50°<td>16<td r>9
+<td>55°<td>17<td r>6
+<td>60°<td>18<td r>30
+<td>65°<td>21<td r>8
+<td>66 1/2°<td>24<td r>0
+</table>
+
+For Polarcirklen er altsaa den længste D. 24
+Timer, og for de Punkter, som ligger Polen endnu
+nærmere, vil Solen allerede før Solhverv ikke
+gaa ned, den vil være cirkumpolar, og disse
+Egne vil have <sp>Midnatssol</sp>. Et halvt Aar senere
+vil de samme Egne have en lige saa lang
+stadig Nat, <sp>Mørketid</sp>. Længden af denne
+stadige D. (Nat) vokser mod Polen, hvor den
+varer et halvt Aar, saaledes om det fremgaar
+af flg. Tabel:
+
+<table>
+<td>1<td>Maaned<td>i 67°<td r>23'<td>Br.
+<td>2<td>Maaneder<td>i 69°<td r>5l'<td c>-   
+<td>3<td c>-<td>i 73°<td r>40'<td c>-   
+<td>4<td>Maaneder<td>i 78°<td r>11'<td>Br.
+<td>5<td c>-<td>i 84°<td r>5'<td c>-
+<td>6<td c>-<td>i 90°<td r>0'<td c>-
+</table>
+
+Disse her anførte Værdier for den længste
+D.'s Længde gælder kun under den Forudsætning,
+at Jordens Atmosfære er sat ud af Betragtning
+(se <sp>Refraktion</sp> og <sp>Dæmring</sp>).
+
+Den ældste Inddeling af D., man kender til,
+var i 12 lige store Dele. Det er hos Akkadierne,
+de ældste Beboere af Babylonien, fra 22. Aarh.
+før vor Tidsregning, at man finder denne Maade
+at dele D. paa, medens man i det vestlige Asien
+og i Ægypten delte D. i 24 Dele; dette er ogsaa
+bibeholdt af de Folk, som blev civiliserede herfra.
+Under den fr. Revolution foreslog Laplace
+1792 at dele D. i 10 Timer à 100 Min. à 100 Sek.,
+hvorved 1 Decimalsekund blev = 0,864 Sek. Middeltid;
+men dette Forslag blev ikke antaget og
+har nu kun Interesse derved, at Laplace bruger
+denne Tidsinddeling gennemgaaende i sin <i>Mécanique
+céléste</i>.
+
+Medens D. saaledes af de fleste Nationer har
+været delt i 24 Dele, har Momentet for dens
+Beg. været højst forsk. Athenerne og formodentlig
+alle Grækere ligesom nu Jøder og Muhammedanerne
+begyndte den med Solnedgang,
+fordi de brugte Maaneaar; enhver ny Maaned,
+og følgelig ogsaa ethvert nyt Aar, begyndte
+med den første synlige Maanefase, det, vi kalder,
+at »Nyet er tændt«. Ægyptere og mulig Babylonierne
+regnede D. fra Solopgang, fordi de
+rettede Tiden efter Solen. Men begge disse Tidspunkter
+er ikke synderlig bekvemme, fordi Tiden
+for Solens Op- og Nedgang varierer med
+Aarstiden, og skulde derfor den naturlige D.
+(Nat) inddeles i 12 lige store Dele, blev disse
+af ulige Længde (<i>horæ temporales</i>) og var kun
+ved Jævndøgn lige lange (<i>horæ æquinoctiales</i>).
+Ptolemaios begyndte D. med Solens øvre Kulmination,
+fordi dette Tidspunkt lader sig

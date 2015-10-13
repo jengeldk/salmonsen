@@ -1,0 +1,136 @@
+m. a. O., Gyroskopet vil rejse Vognen op igen.
+Virkningen er i Virkeligheden den, at en Vogn,
+der paavirkes til Væltning til den ene Side,
+begynder at svinge ud til modsat Side for dog
+straks igen at søge tilbage til den lodrette
+Hvilestilling. En Ulempe ved Gyroskopbaner er det,
+at Vognenes Overbelastning ligger inden for ret
+snævre Grænser, fordi Væltningsmomentet
+vokser med Lastforøgelsen, hvilket fordrer en
+stærkt forøget Gyroskopvirkning.
+<i>G. K.</i>
+</chapter>
+
+<chapter name="ensløbende">
+<b>ensløbende</b> (<sp>bot</sp>.) ell. <sp>homodrom</sp> kaldes
+i Morfologien saadanne Bladskruer (se <sp>Blad</sp>),
+som løber i samme Retning. Hos tokimbladede
+Planter er Bladskruen paa Skuddet i Forblad
+<i>a</i>'s Aksel e. med Moderaksens (se
+<sp>modløbende</sp>).
+<i>V. A. P.</i>
+</chapter>
+
+<chapter name="Ensomheden">
+<b>Ensomheden,</b> øde Ø i den vestlige Del af det
+sibiriske Ishav, 77° 31'-77° 42' n. Br. og 86° ø. L.
+Den blev opdaget 1878 af den norske Ishavskipper
+E. H. Johansen fra Tromsø og er omtr. 200 km<sup>2</sup>
+stor. (<sp>Litt</sp>.: »Petermann's Mittheilungen« 1879).
+<i>G. F. H.</i>
+</chapter>
+
+<chapter name="Ensor, James">
+<b>Ensor</b> ['ænsår], <sp>James</sp>, belgisk Maler og
+Raderer (Faderen Englænder), f. 13. Apr. 1860
+i Ostende; kom paa Akademiet i Bryssel, fik
+allerede som ganske ung Billeder solgt til belg.
+Museer, knyttedes til F. Rops, var en af den
+radikale Malergruppe »de tyve«'s bedste Mænd
+paa deres Særudstillinger i Bryssel fra 1884,
+malede alskens Landskaber, Portrætter, Stilleben,
+Maskescener, fantastiske Sujetter o. s. v. med
+dristig og fremragende Kolorit. Hans
+ejendommelige sarkastiske og fantastiske Aand træder
+ogsaa frem i hans mange Tegninger og
+Raderinger, der ligesom Malerierne har vundet
+Opmærksomhed langt ud over hans Lands
+Grænser og brudt Vej for Ekspressionismen i
+Kunsten. E. er ogsaa optraadt som Komponist.
+(<sp>Litt</sp>.: J. E., <i>Peintre et Graveur. Texte par Bl.
+Rousseau etc.</i> [Paris 1899]; <sp>E. Verhaeren</sp>,
+»J. E.« [1908]; <sp>H. v.
+Garvens-Garvensburg</sp>, »J. E.« [1913]).
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Enspænder">
+<b>Enspænder</b> ell. <sp>Enspænding</sp> (af
+plattysk: »einspennich«) kaldtes i det ældre danske
+Sprog beredne Tjenere, særlig saadanne, der
+benyttedes som Ordonnanser ell. Kurerer.
+Navnet kommer af, at vedk. red alene og ikke hørte
+til nogen Trop.
+<i>P. J. J.</i>
+</chapter>
+
+<chapter name="Ensrettere">
+<b>Ensrettere.</b> Ved E. ell. <sp>Ventilceller</sp>
+forstaar man saadanne Ledere ell. Kombinationer af
+forsk. Ledere, der lettere lader den elektriske
+Strøm passere i en bestemt Retning end i den
+modsatte, saaledes at der, naar de paavirkes
+af en ren Vekselspænding, fremkommer en
+Jævnstrømskomponent. E. anvendes i stor
+Udstrækning som Detektorer (s. d.) i Radiotelegrafien.
+Ensretterevnen beror paa, at vedk. Leders
+Karakteristik er krum. Ved en Leders
+Karakteristik forstaas den Kurve, hvis Punkter
+repræsenterer sammenhørende Værdier af Strøm og
+Spænding for Lederen. Afsat i et alm.
+retvinklet Koordinatsystem er Karakteristikken for
+en metallisk Leder, for hvilken Ohm's Lov
+gælder, følgelig en ret Linie gennem
+Begyndelsespunktet (se Fig. 1). En saadan Leder har ingen
+Ensretterevne. Derimod vil en Leder med den i
+Fig. 2 viste Karakteristik <i>abc</i> have en udpræget
+Ensretterevne -, saaledes som det fremgaar af
+Fig. 3, der viser sammenhørende Værdier af
+Spænding og Strøm. Under Paavirkning af den
+viste, rene Vekselspænding <i>v</i> passeres Lederen
+<i>E</i> af den viste Strøm <i>i</i>, hvis gennemsnitlige
+Værdi er <i>l0</i>. Ensretterevnen er desto større, jo
+stærkere Karakteristikken krummer i det Punkt,
+hvorom Tilstanden varierer. En Leder med den
+i Fig. 4 viste Karakteristik <i>abc</i>, der gaar retlinet
+gennem Begyndelsespunktet, vil derfor ikke
+virke som E. over for svage Vekselspændinger,
+medmindre Lederen tillige paavirkes af en konstant
+Hjælpespænding V0. Over for Vekselspændinger, hvis
+Maksimalamplitude overstiger V0, virker omhandlede
+Leder som E. ogsaa uden Hjælpespænding.
+
+Fig. 5 I viser et Eksempel paa Karakteristikken,
+<i>abc</i>, for en som Detektor meget anvendt E. af
+Krystaltypen, bestaaende af Krystaller af
+Kobberkis og rød Zinkmalm. Den egl. aktive Del
+ligger i ell. i Nærheden af Berøringsstedet
+mellem de to Krystaller. Fig. 5 II viser
+Følsomhedens Afhængighed af Hjælpespændingen og
+Fig. 5 III den ensrettede Effekts Afhængighed
+af Højfrekvenseffekten for 3 forsk.
+Hjælpespændinger. Af virksomme Krystalkombinationer
+gives et meget stort Antal. Krystal-E.'s
+Virkemaade beror delvis paa Modstanden i
+Overfladelaget og dennes Temperaturvariation, paa
+Peltiereffekten (s. d.) og, i hvert Fald i nogle
+Tilfælde, paa termoelektriske Virkninger. Der
+hersker dog endnu nogen Usikkerhed m. H. t.
+Krystal-E.'s Virkemaade.
+
+En anden Form for E. er den i Fig. 6 viste
+elektrolytiske, der hyppig kaldes Schlömilch's
+Detektor. Denne, der har to Elektroder i
+fortyndet Syre, den ene en Plade, den anden en
+fin Platinspids, virker over for svage
+Paavirkninger kun, naar der anvendes en
+Hjælpespænding paa lidt under 3 Volt. Den arbejder bedst
+med Spidsen positiv. Virkemaaden beror her i
+
+<img>Fig 1. Karakteristik for metallisk Leder.</img>
+
+<img>Fig 2. Leder med krum Karakteristik.</img>
+
+<img>Fig 3. Sammenhørende Spændings- og Strømkurver svarende til den i Fig 2 viste Karakteristik.</img>
+
+<img>Fig 4. Polarisationens indflydelse paa Ensretterevnen.</img>

@@ -1,0 +1,126 @@
+Fænomenet og adskille de 2 Straaler. Den
+optiske Akse, der er en Retning inde i Krystallen,
+er i Kalkspat bestemt ved, at den skal være
+parallel med en Linie, der gaar symmetrisk
+gennem et Hjørne med lutter stumpe Vinkler; den
+viste Krystals Længde er tilfældig valgt
+saaledes, at denne Linie netop ogsaa træffer det
+andet stumpe Hjørne. Forsiden af Krystallen
+træffes vinkelret af et meget smalt
+Straalebundt <i>LA</i>; den ordinære Straale <i>AO</i> gaar ubrudt
+igennem og har de viste Svingninger vinkelret
+paa Hovedsnittet, den ekstraordinære Straale,
+der forskydes til Siden, men træder ud parallel
+med Indfaldsretningen, har Svingninger i
+Hovedsnittet. Ved Anvendelse af saa smalle
+Straalebundter kunde man let afblænde det ene
+og faa en polariseret Straale omtrent halvt saa
+stærk som den indfaldende, men bredere
+Straalebundter vilde gribe over hinanden, saa
+at de ikke kunde skilles. Bruger man derimod
+et Kalkspatprisme, faar man de 2 polariserede
+Straaler ud i forsk. Retninger, saa at de lettere
+kan adskilles; man anvender ogsaa fl.
+Konstruktioner af saadanne Polarisationsprismer
+(Rochon-, Senarmont-, Wollastonprismer o. s. v.) af
+Kvarts ell. Kalkspat, hvoraf nogle giver den
+ene polariserede Straale uden Afbøjning eller
+Farvespredning, men de har dog langt mindre
+Bet. end Nicol's Prisme (1841) og de beslægtede
+Konstruktioner, der kun giver én polariseret
+Straale.
+
+<sp>Nicol's Prisme</sp> (i Reglen blot benævnt
+en <sp>Nicol</sp>) laves af et ret langt Spaltestykke
+af Kalkspat (Fig. 6), af hvilket der først slibes
+saa meget af Endefladerne (vist punkteret i
+Fig.), at deres Vinkel med Kanten bliver 68° i
+St f. 71° (<i>B</i> i Fig. 7). Derefter saves Krystallen
+over med det paa Fig. viste skraa Snit, der er
+vinkelret paa Endefladerne, Snitfladerne slibes
+plane og poleres, hvorefter de 2 Stkr igen kittes
+sammen i den opr. Stilling med kanadisk
+Balsam. I Reglen afpasses Stykkets Længde
+saaledes, at Snittet omtr. gaar mellem de 2
+modsatte Hjørner (<i>A</i> og <i>C</i> i Fig. 7, der viser et
+Midter snit af Nicolen). En indfaldende naturlig
+Straale <i>L</i> spaltes ved Dobbeltbrydningen i den
+ekstraordinære Straale <i>LE</i>, hvis Svingninger
+ligger i Hovedsnittet (Papirets Plan), angivet ved
+Streger, og den ordinære Straale <i>LF</i> med
+Svingninger vinkelret derpaa (Prikker). <i>LE</i>
+gaar ubrudt og næsten uden Refleksionstab
+gennem Balsamlaget, men <i>LF</i> træffer Balsamlaget
+under saa stor en Vinkel, at der indtræder
+fuldstændig Tilbagekastning, da Kalkspats ordinære
+Brydningsforhold er betydelig større end
+Balsams; Straalen gaar derfor videre i Retningen
+<i>FO</i>, træder ud af Nicolen og absorberes helt af
+det indvendig sværtede Rør, hvori Nicolen
+anbringes. Ud af Nicolen træder altsaa i den
+indfaldende Straales Retning, kun forskudt lidt til
+Siden, en Straale, der er fuldstændig
+polariseret, og hvis Styrke kun er lidt under
+Halvdelen af den indfaldendes, da der
+kun tabes lidt ved
+Tilbagekastning, hvor Straalen træder ind og
+ud. Den er derfor en meget
+fuldkommen Polarisator og bliver
+meget brugt. Imidlertid kræver den
+p. Gr. a. sin store
+Længde meget af det
+kostbare og stedse
+sjældnere Kalkspat;
+meget kortere
+Konstruktioner er opnaaet
+(af Foucault, Glan o.
+fl.) ved at bruge et
+tyndt Luftlag i St f.
+Balsamlaget, men
+deres Synsfelt, den
+Vinkel inden for hvilken
+Lyset er fuldstændig
+polariseret, er meget
+mindre. De
+fuldkomneste Konstruktioner
+faar man ved at bruge Prismer, der er
+anderledes orienteret i Krystallen, saa at
+man ikke bruger Spalteflader til
+Sideflader. Det bedste er vel det af Hartnack og
+Prazmowski angivne Prisme med Endeflader
+vinkelret paa Straalen, saa at denne ingen
+Sideforskydning faar, med større Synsfelt end
+Nicolen og dog lidt kortere og med
+Linoliekitning i St f. Balsam, saa at det bliver mere
+gennemsigtigt for ultraviolet Lys. En helt anden
+Type af Polarisationsprismer benytter en tynd
+Plade af Kalkspat ell. andet dobbeltbrydende
+Stof som Mellemlag mellem 2 ens Prismer af
+stærkt brydende Stof (Svovlkulstof ell.
+Flintglas); de er paa en Maade det omvendte af en
+Nicol og slipper den ordinære Straale igennem.
+Deres Materialeforbrug er meget mindre, og
+man kan da tænke paa i St f. Kalkspat at bruge
+Natronsalpeter, der er endnu mere
+dobbeltbrydende, saa at man faar større Synsfelt. Endelig
+kan man skaffe sig polariseret Lys ved Hjælp
+af en Krystal af Turmalin, der er stærkt
+pleokroitisk, d. v. s. absorberer den ordinære og
+ekstraordinære Straale i saa forsk. Grad, at en
+1 à 2 mm tyk Plade, der er parallel med
+Krystalaksen, kun slipper den ekstraordinære
+Straale igennem. Det er vel den simpleste af
+alle Polarisatorer, men desværre absorberer
+den ogsaa den ekstraordinære Straale ret
+stærkt, saa at den bliver lyssvag og stærkt
+farvet.
+
+Alle de beskrevne Polarisatorer kan
+naturligvis lige saa godt bruges som Analysatorer. 2
+Nicoler ell. 2 andre Polarisatorer bag hinanden
+udgør et <sp>Polarisationsapparat</sp>; den
+første, Polarisatornicolen, leverer det plant
+
+<img>Fig. 5. Polarisation ved Dobbeltbrydning.</img>
+
+<img>Fig. 6 og 7. Nicols Prisme</img>

@@ -1,0 +1,164 @@
+trefaset Vekselstrøm over 3 Stkr enfasede
+Transformatorer, der er tilsluttet et 10500 Volt
+Vekselstrømsnet og nedsætter denne Højspænding til
+450 Volt Vekselstrøm. Omformerne arbejder
+parallelt med et Akkumulatorbatteri, der som
+Pufferbatteri arbejder i Serie med et »Booster«
+Aggregat (Piranimaskine), der ses i Forgrunden
+til venstre i Fig. 7. Omformerstationen har 17
+positive og 8 negative Fødeledninger. Ved Hjælp
+af Spændingsforhøjere, der ses i Baggrunden i
+Fig. 7 (bag Piranimaskinen), kan Spændingen i
+de enkelte Fødeledninger (positive) sættes op
+efter Behov. Tavleanlægget (Fig. 8) indeholder
+38 Felter, med Apparater paa sorte, polerede
+Skifertavler. Fødeledningsfelterne ses længst til
+højre i Tavleanlægget i Baggrunden af Fig. 8.
+
+Anvendes en Omformerstation baade til
+Forsyning af Sporveje, Baner ell. anden stærkt
+svingende Belastning, og til Lys- og
+Kraftforsyning, maa den indeholde to Sæt
+Jævnstrømssamleskinner, et for Lys og Kraft og et for
+den stærkt svingende Belastning. Saaledes har
+Omformerstationen i Bragesgade i Kbhvn (Fig.
+9) to Sæt Samleskinner, et for Sporvognsdrift
+paa 550 Volts Spænding og et for alm. Lys- og
+Kraftforsyning paa 2 X 220 Volt. Denne
+Omformerstation drives ved 6000 Volts trefaset
+Vekselstrøm fra Østre Elektricitetsværk i
+Kjøbenhavn. Omformerstationen har
+Ringsamleskinnesystem for Højspændingen og indeholder
+en synkron Motor-Generator og tre
+Kaskadeomformere, hvilke Omformere tilføres
+Højspændingen direkte uden Anvendelse af
+Transformatorer. Kaskadeomformerne kan tilsluttes
+saavel Sporvogns- som Lys- og
+Kraftforsynings-Samleskinnerne, medens den synkrone
+Motorgenerator kun kan tilsluttes Samleskinnerne for
+Lys og Kraft.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="elektriske Vekselstrømsmaskiner">
+<b>elektriske Vekselstrømsmaskiner,</b> se
+<sp>elektriske Maskiner og
+Transformatorer</sp>.
+</chapter>
+
+<chapter name="elektrisk Felt">
+<b>elektrisk Felt,</b> et Rum, hvori der virker
+elektriske Kræfter. Se <sp>Elektrostatik</sp>.
+</chapter>
+
+<chapter name="elektrisk Fjerntænding">
+<b>elektrisk Fjerntænding.</b> I de senere Aar
+er der fremkommet adskillige brugelige
+Systemer, hvorved man ad elektrisk Vej kan tænde
+Gasblussene i hele Bygningskomplekser eller
+Gadelygterne i hele Gadedistrikter ell. enkelte
+Blus. Ang. Konstruktionen, se <sp>Kulgas</sp>.
+<i>R. T.</i>
+</chapter>
+
+<chapter name="elektrisk Fluidum">
+<b>elektrisk Fluidum,</b> et hypotetisk, vægtløst
+Stof, som efter forsk. ældre Elektricitetsteorier
+skulde være Bærer af de elektriske Egenskaber.
+En af de mest kendte af disse Teorier er
+<sp>Benjamin Franklin</sp>'s (1751), efter
+hvilken der kun skulde være eet e. F. Dets
+enkelte Dele skulde frastøde hverandre, men
+tiltrækkes af de alm. Stoffer, som derfor i
+normal Tilstand vilde indeholde en vis Mængde
+e. F. Et Overskud over den normale Mængde
+betyder, at Stoffet har en positiv Ladning,
+et Underskud, at det har en negativ. 1759
+fremsatte <sp>Robert Symmer</sp> den Teori, at
+der var <sp>to</sp> elektriske Fluider, et positivt og et
+negativt, der gensidig tiltrækker hinanden,
+medens de enkelte Dele af samme Fluidum
+frastøder hverandre. - Den moderne
+Elektricitetsteori kan godt opfattes som en Omformning
+og Uddybning af disse Teorier, idet
+Elektriciteten efter denne bæres af positive og negative
+Elektricitetsatomer. Forskellen fra de gl.
+Teorier træder tydeligst frem i Forholdet mellem
+Elektriciteten og Stoffet. I de gl. Teorier er
+disse to Størrelser meget forsk.; i den moderne
+Elektronteori er de smeltet sammen, idet
+Stoffet selv er bygget op af Elektricitetsatomerne.
+(Se <sp>Elektricitet</sp>, <sp>Elektron</sp>,
+<sp>Elektronteorien</sp>).
+<i>E. S. J.</i>
+</chapter>
+
+<chapter name="elektrisk Fordeling">
+<b>elektrisk Fordeling</b> i Ledere, se
+<sp>Elektrostatik</sp>; i Isolatorer, se
+<sp>Dielektricitetskonstant</sp>.
+</chapter>
+
+<chapter name="elektrisk Gnist">
+<b>elektrisk Gnist,</b> en kortvarig elektrisk
+Udladning igennem Luft ell. en anden Isolator,
+ledsaget af et Glimt og et Knald. Om den e. G.'s
+Historie se <sp>Elektricitet</sp>.
+
+<sp>Gnistspænding</sp>. For at faa en Gnist
+mellem to Elektroder, maa deres
+Spændingsforskel have naaet en vis Værdi, den saakaldte
+Gnistspænding, der afhænger af Elektrodernes
+Form og Afstand og af den mellemliggende
+Isolator; derimod er den uafhængig af
+Elektrodemetallet. Vi vil foreløbig holde os til det Tilfælde,
+at Isolatoren er Luft. De ældre Iagttagelser
+over Gnistspændingen i Luft gav meget lidt
+overensstemmende Værdier, idet Spændingen ofte for
+en kort Tid kunde forøges betydeligt over
+Gnistspændingen, uden at Gnisten kom. For at
+undgaa denne <sp>Gnistens Forsinkelse</sp> og faa
+konstante Resultater, maa Gnistbanen ioniseres,
+f. Eks. ved Bestraaling med Røntgenstraaler ell.
+ultraviolet Lys. Man kan forklare Gnistens
+Forsinkelse ud fra Ionteorien. Som det nærmere
+omtales under elektrisk Strøm i Luftarter, Afsnit
+12, er Gnistspændingen den Spænding, hvorved
+de positive Ioner faar saa stor en Hastighed,
+at de er i Stand til ved Stød imod
+Luftmolekylerne at spalte disse i ny Ioner. Paa denne
+Maade multiplicerer Ionerne sig op til det store
+Antal, der kræves for at bære Strømmen i den
+e. G. Ionforøgelsen kommer altsaa i Stand
+ved de faa i Forvejen tilstedeværende Ioner;
+mangler disse, ell. er deres Bevægelighed
+nedsat, f. Eks. ved Støv ell. Vanddamp, saa vil
+Gnisten ikke ell. kun vanskeligt kunne dannes.
+
+Fig. 1 og 2 viser, hvorledes Gnistspændingen
+afhænger af Luftarten og Lufttrykket, af
+Afstanden mellem Elektroderne (Kugler) og af
+disses Radier.
+
+For Elektroder, der er saa store i Forhold
+til deres Afstand, at Feltet imellem dem kan
+anses for homogent, gælder <sp>Paschens Lov</sp>,
+hvorefter Gnistspændingen for en bestemt
+Luftart alene afhænger af Produktet af
+Elektrodeafstanden (<i>d mm</i>) og Lufttrykket (<i>p mm</i>
+Kvægsølvtryk). Formindskes altsaa Trykket til det
+halve, samtidig med, at Gnistbanen gøres
+dobbelt saa lang, bliver Gnistspændingen
+uforandret. For større Værdier af Produktet <i>dp</i>
+kan Gnistspændingen med Tilnærmelse sættes
+ligefrem proportional med Produktet, men for
+smaa Værdier gælder dette ikke, idet
+Gnistspændingen har en mindste Værdi, som i Luft er 350
+Volt og opnaas, naar Produktet er 5,7. Det vil
+altsaa sige, at f. Eks. ved 760 mm Kvægsølvtryk
+<table>
+<td v2>faar man den mindste Gnistspænding ved<td c>5,7
+<td>760
+</table>
+= 0,0075 mm, altsaa en yderst ringe
+

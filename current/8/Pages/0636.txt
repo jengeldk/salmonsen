@@ -1,0 +1,157 @@
+naturlige Farver. F. er forsynet med tre
+Farvefiltre, et orange, et grønt og et violet, der
+sammen giver hvidt Lys, medens de, ved at Lyset
+først passerer de tre Negativer ell. Diapositiver,
+giver de ønskede Blandingsfarver.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="Fotolitografi (se Litografi)">
+<b>Fotolitografi,</b> se <sp>Litografi</sp>.
+</chapter>
+
+<chapter name="Fotoltryk">
+<b>Fotoltryk</b> er en i 1905 af Tellkampf og
+Traube udarbejdet Lyskopieringsmetode. Et
+Stykke Cyanotypipapir kopieres under en
+Tegning og presses derpaa, uden først at være
+udvasket, mod en Gelatinemasse, der da vil
+garves paa de Steder, der kommer i Berøring
+med de belyste Dele af Papiret. Ved
+paafølgende Indvalsning med fed Farve hænger denne
+kun ved paa de ikke garvede Steder, og man
+kan saaledes anvende Gelatinemassen som
+Trykplade. Efter denne kan der tages 50—100 Tryk.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="fotomekaniske Reproduktionsmetoder">
+<b>fotomekaniske Reproduktionsmetoder</b>
+kaldes de Metoder, hvorved man forskaffer sig
+Aftryk i Bogtryk- ell. Litografifarve paa Papir,
+for saa vidt som Formen, hvormed der trykkes,
+er dannet ved fotografiske Midler. Disse
+Metoder kan henføres til tre Klasser, efter som
+Trykfladen er ophøjet, fordybet ell. plan,
+Højtryk, Dybtryk og Fladtryk. Ved Træsnit og
+Klichéer til Bogtryk maa Trykfladen være
+ophøjet. Et Træsnit udføres i Alm. saaledes, at
+man først tegner paa Buksbomtræets Endeflade
+og derefter fordyber alle Mellemrummene
+imellem Tegningens Linier og Punkter.
+Fotoxylografi. (se <sp>Xylografi</sp>) adskiller sig kun fra
+alm. Træsnit derved, at Tegningen paa Træet
+dannes ad fot. Vej. Klichéer til Bogtryk
+dannes tit ved »Højætsning«: ɔ: ved Ætsning i
+Metal, saaledes at Grunden bliver fordybet.
+Man bruger tit Zink, men Betegnelsen
+Zinkætsninger bruges i Reglen kun om ætsede Klichéer
+efter Linietegninger (Stegætsninger) o. l.,
+hvorimod ætsede Klichéer til Halvtonebilleder, ved
+hvis Fremstilling man benytter et særegent fint
+Net, kaldes »Autotypier« (se <sp>Højætsning</sp>)
+uden Hensyn til, hvilket Metal der er benyttet.
+Hertil foretrækker man undertiden Kobber
+fremfor Zink. — Til den anden af de ovenn
+Klasser hører Fotogravure ell. Heliogravure og
+til den tredie Fotolitografi o. l. (se
+<sp>Litografi</sp>) samt Lystryk (s. d.) og Algrafi.
+
+I Benævnelserne paa de forsk. Metoder
+hersker stor Forvirring. Undertiden er Navnet
+paa en ældre Metode blevet overført paa en
+nyere, og den samme Metode har ikke altid
+det samme Navn overalt. Navnene Fotogravure
+og Heliogravure bruges tit i Flæng. Hvad vi
+kalder Højætsning, kaldes ofte paa Fransk
+Fotogravure, dog ogsaa <i>morsure en relief</i>, i
+Modsætning til <i>morsure en creux</i>, hvorved forstaas det
+samme som Heliogravure. Hvad der i Danmark
+o. fl. St., især i Sverige og Tyskland, kaldes
+Autotypi, kaldes ogsaa tit paa Fransk <i>gravure
+en demiteintes</i>, paa Engelsk <i>the half tone
+process</i> ell. <i>process work</i> og paa Tysk »der
+Halbtonprocess«. I Frankrig og Schweiz kaldes det
+undertiden Similigravure, og det samme Navn
+bruges i Danmark om en lgn. Metode, naar man
+ved denne anvender litogr. Sten i St f. Metal.
+
+Ved den internationale fot. Kongres i Paris
+1889 blev der fastsat nogle Regler m. H. t.
+disse Benævnelser; men de var næppe helt
+tilfredsstillende og synes heller ikke at have
+vundet Hævd.
+<i>(F. R. F.). C. E. A.</i>
+</chapter>
+
+<chapter name="Fotometer (se Fotometri)">
+<b>Fotometer,</b> se <sp>Fotometri</sp>.
+</chapter>
+
+<chapter name="Fotometri eller Lysmaaling">
+<b>Fotometri</b> ell. <sp>Lysmaaling</sp> har til
+Opgave at finde et talmæssigt Udtryk for en
+Lysgivers <sp>Lysstyrke</sp> og den <sp>Belysning</sp>, den
+kan frembringe. Da Lysfornemmelser kun
+kommer i Stand i Øjet, maa enhver virkelig F. i
+sidste Instans anvende Øjet som
+Maaleinstrument. Øjet formaar imidlertid ikke engang
+nogenlunde nøjagtigt at skønne Forholdet mellem
+to Lysgiveres Lysstyrke, derimod har det stor
+Følsomhed for Klarhedsforskelle og Kontraster,
+især naar de Flader, der skal sammenlignes,
+støder umiddelbart sammen. Herved er
+Princippet i al F. givet; det bliver altid en
+Sammenligning mellem to Lyskilder, hvoraf den
+enes Lysstyrke er kendt, og man indretter det
+da saaledes, at hver af dem belyser sin af to
+sammenstødende Flader, medens alt fremmed
+Lys holdes borte. Lyset fra den Lyskilde, der
+frembringer stærkest Belysning, svækkes i et
+kendt Forhold, indtil de to Flader synes ens
+belyste. Indretningen, hvori Sammenligningen
+mellem disse to Fladers Belysning kan
+foretages, er selve <sp>Fotometret</sp>, hvoraf der
+haves mange forsk. Konstruktioner (se ndf.).
+Da Afsvækningen af den ene Belysning oftest
+frembringes ved en Afstandsændring, hører der
+i Reglen til Fotometret en
+<sp>Fotometerbænk</sp>, en nogle m lang Skinneanordning, hen
+ad hvilken Fotometret ell. Lyskilderne kan
+forskydes, og hvor deres Stillinger kan aflæses
+paa en Maalestok.
+
+Den Lysmængde, som en vis Flade modtager
+i Tidsenheden fra en Lyskilde, der forudsættes
+lille i Forhold til Afstanden til Fladen, er
+omvendt proportional med Afstandens Kvadrat;
+fordobles Afstanden, bliver Lysmængden 4 Gange
+mindre, ell. der kræves altsaa en 4 Gange saa
+stærk Lyskilde, for at Fladen skal faa samme
+Belysning som før. Tillige afhænger Lysmængden
+af, hvor skraat Straalerne træffer Fladen, idet
+den er proportional med sinus til Straalernes
+Vinkel med Fladen. Dersom man ved
+Fotometret har opnaaet, at de to
+Sammenligningsflader, som Lyset maa træffe under samme
+Vinkel, er lige stærkt belyste, forholder de to
+Lyskilders Lysstyrker sig derfor ligefrem som
+Kvadraterne paa deres Afstande til disse
+Flader.
+
+<sp>Lysenheder</sp>. Ved enhver F. har man
+altsaa Brug enten for en Lyskilde med Enhed
+af Lysstyrke ell. i hvert Fald for en kendt
+Lyskilde, hvis Lysstyrke forud er sammenlignet
+med Enheden gennem fl. ell. færre Led. Da
+det endnu ikke er lykkedes at fremstille en
+rationel Lysenhed, som kan blive alm. antaget,
+men man har maattet nøjes med vilkaarligt
+valgte, som man har søgt at definere saa
+nøiagtigt og reproducerbart som muligt, har det
+medført, at der er et betydeligt Antal
+forskellige Enheder i Brug i de forsk. Stater. I de
+senere Aar er dog Forholdet mellem de
+vigtigste Lysenheders Lysstyrke blevet godt bestemt
+og fastslaaet, saaledes ved en Kongres i Zürich
+1907.

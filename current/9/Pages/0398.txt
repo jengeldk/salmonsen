@@ -1,0 +1,111 @@
+Strømmen i Elementet selv gaar fra Zink
+gennem Vædsken til Kobber. Klipper man
+Ledningstraaden over, hører Strømmen op, men
+Traadens to Stykker faar forsk. elektrisk
+Spænding, og Spændingsforskellen er Maal for
+Elementets <sp>elektromotoriske Kraft</sp>, »E.
+K.«. Denne er omtr. en Volt (se <sp>elektriske
+Maal-Enheder</sp>), saa længe Elementet ikke
+giver Strøm, men Elementet polariseres
+let. Naar Ledningen sluttes, begynder Brinten
+i Vædsken nemlig at vandre med Strømmen;
+ved Kobberpladen hører denne Vandring op,
+og Brinten kommer frem som en Mængde fine
+Blærer, der dækker Kobberpladen. Herved
+bliver Modstanden større og den »E. K.« mindre;
+Strømstyrken er derfor størst i det Øjeblik,
+Ledningen lige er sluttet, og synker derefter
+hurtig. Ved Zinkpladen træder Zink i Brintens
+Sted efter Formlen Zn+H<sub>2</sub>SO<sub>4</sub>=H<sub>2</sub>+ZnSO<sub>4</sub>,
+Vædsken omdannes altsaa lidt efter lidt til en
+Opløsning af Zinkvitriol. For at Zinken ikke
+skal optøses af Syren til ingen Nytte, naar
+Elementet ikke giver Strøm, overtrækkes den
+med et Lag Kvægsølv (amalgameres). I
+Modsætning til dette Element er <sp>Daniell</sp>'s (1836)
+meget konstant. I et Glas staar et svagt brændt,
+uglaseret cylindrisk Lerkar, hvori der er hældt
+fortyndet Svovlsyre, medens Glasset indeholder
+en mættet Opløsning af Kobbervitriol. I
+Svovlsyren staar en amalgameret Zinkcylinder og i
+Kobberopløsningen en ombøjet Kobberplade.
+Som i Volta's Element fortrænger Zinken Brint,
+der vandrer over til den anden Pol, men i St. f.
+at komme frem paa Kobberpladen uddriver
+Brinten Kobber af Kobberopløsningen, og dette
+Kobber udfældes paa Pladen som et fast Lag
+uden for øvrigt at forandre dens Beskaffenhed
+(Zn+H<sub>2</sub>SO<sub>4</sub>=ZnSO<sub>4</sub>+H<sub>2</sub>; H<sub>2</sub>+CuSO<sub>4</sub>=H<sub>2</sub>SO<sub>4</sub>+
+Cu). Den »E. K.« er kun lidt over 1 Volt, og
+da Modstanden er temmelig stor, egner
+Elementet sig ikke godt til at give stærke
+Strømme, men det har været meget anvendt til
+Telegrafering. Et meget kraftigt Element er
+<sp>Bunsen</sp>'s (Fig. 4), der har amalgameret Zink i
+fortyndet Svovlsyre i Glasset og Gaskul i stærk
+Salpetersyre i Lercellen. Salpetersyren er en
+meget kraftig Depolarisator, idet den let
+afgiver en Mængde Ilt, der sammen med den
+Brint, der ellers vilde udskilles paa Kullet,
+danner Vand. Den E. K. er c. 1,8 Volt, og Syrerne
+leder godt, saa Elementet kan give stærke
+Strømme i Timevis, en halv Snes Ampère ell.
+mere, naar Elementet er stort og Modstanden
+i den ydre Ledning ringe. Men da stærke
+Strømme i det store nu udelukkende
+fremstilles ved Dynamoens Hjælp, og Bunsen's
+Element ikke er behageligt at arbejde med, er
+dets Anvendelse temmelig ringe. Lgn.
+Egenskaber har det noget ældre Element af <sp>Grove</sp>,
+der har Platin i Salpetersyren i St f. Kul. Et
+meget benyttet Element er <sp>Leclanche</sp>'s
+(Fig. 2) og dets mange Afændringer. Den
+negative Elektrode dannes af en Zinkstang (<i>Z</i>),
+der er anbragt i et Hjørne af det firkantede
+Glas, og den positive af en større Kulstang
+(<i>K</i>), der staar i en Lercelle, som uden om
+Kullet er fyldt med smaa Stykker Brunsten
+(Manganoverilte). Der er kun een Vædske,
+nemlig en Opløsning af Salmiak i Vand. Zinken
+gaar i Forbindelse med Kloret i Salmiakken.
+Ammoniak, som bliver fri, opløses i Vandet og
+giver efterhaanden Elementet den bekendte
+Lugt af Salmiakspiritus, og Brint udvikles paa
+Brunstensstykkerne, der lidt efter lidt ilter den
+til Vand (Zn+2ClNH<sub>4</sub>=ZnCl<sub>2</sub>+2NH<sub>3</sub>+H<sub>2</sub>). Da
+Brinten iltes temmelig langsomt, polariseres
+Elementet stærkt, naar det sluttes gennem en
+Ledningstraad med ringe Modstand, men naar
+Strømmen afbrydes, genvindes den opr. Kraft
+snart. Til Telefonering, elektriske
+Bingeapparater i Husene og til Telegrafering egner
+Elementet sig fortrinlig, da det kan passe sig selv
+Maaneder igennem og kun afgiver uskadelige
+Dampe. Dets E. K. er 1,4 à 1,5 Volt. Ofte
+presses Pulver af Koks og Brunsten sammen
+til en fast Masse og anvendes som positiv Pol;
+man sparer da Lercellen, og Elementet faar
+en meget ringe Modstand, især hvis man
+tillige anbringer Zinken som en ombøjet Plade
+uden om Kullet, skilt fra dette ved et Par
+Gummiringe e. l. — Et kraftigt Element med
+kun een Vædske er Kromsyreelementet, der har
+en Zinkplade og en Kulplade staaende over for
+hinanden i en Vædske, der er en Blanding af
+Vand, tvekromsurt Kali ell. Natron og
+Svovlsyre. Svovlsyren frigør Kromsyren, der virker
+stærkt iltende og derved holder Kullet frit for
+Brint. Den E. K. er over 2 Volt, naar Vædsken
+er ny, og Modstanden er yderst ringe, naar
+
+<img>Fig. 1. Volta's
+Støtte.</img>
+
+<img>Fig. 2. Leclanche's
+Element.</img>
+
+<img>Fig. 3.
+Flaskeelement.</img>
+
+<img>Fig. 4.
+Bunsen'sk Batteri.</img>

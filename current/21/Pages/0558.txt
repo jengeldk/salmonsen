@@ -1,0 +1,68 @@
+<sp>Metacenterhøjde</sp>, der gælder for Drejning om
+en tværskibs Akse. Det langskibs Metacentrum
+bar særlig Interesse ved Bestemmelsen af det
+Moment, <sp>Trimmomentet</sp>, der er
+nødvendigt for at ændre Skibets Dybgaaende for og
+agter, eventuelt for at bestemme den
+Styrlastighedsændring, som opstaar ved at flytte en Vægt
+i Skibet i langskibs Retning.
+
+<sp>Fremdrivning</sp>. Den Modstand, Vandet
+yder mod Skibets Fremdrivning, kan deles
+i Gnidningsmodstand, Hvirvelmodstand og
+Bølgemodstand. Gnidningsmodstanden mellem Vandet
+og Skibets Overflade er gjort til Genstand for
+indgaaende Undersøgelser af Englænderen
+William Froude, som ved Forsøg omkr. 1870
+paaviste, at Modstanden er proportional med det
+nedsænkede Areal og afhængig af Overfladens
+Beskaffenhed og Længde samt af Farten. For
+almindelig glatte Overflader varierer
+Modstanden med Farten i en Potens, som ligger omkr.
+1,83. Hvirvelmodstanden i et velkonstrueret Skib
+med gode Linier er kun ringe, og den behandles
+derfor under eet med Bølgemodstanden, som er
+den Modstand, der skyldes Dannelsen af
+Bølger, naar Skibet bevæges gennem Vandet.
+Bølgemodstanden kan ikke fastsættes ved Beregning,
+men maa bestemmes ved Slæbeforsøg med en
+Model af Skibet i en Forsøgstank. Ved fra den
+maalte Slæbemodstand at subtrahere Modellens
+Gnidningsmodstand, fundet ved Beregning,
+fremkommer Hvirvel- og Bølgemodstanden.
+Modelforsøgene udføres ved, at en lille Model af
+Skibet slæbes gennem Vandet i en Forsøgstank,
+der er udstyret med Maaleinstrumenter til
+nøjagtig Bestemmelse af Modellens Modstand og
+Fart. Saadanne Forsøgstanke er omfattende
+Anlæg, der bestaar af en Bygning med en c. 100 m
+lang Forsøgskanal, over hvilken der kører en
+elektrisk Vogn, som trækker Modellen og er
+forsynet med de nævnte Maaleinstrumenter.
+Forsøgstanke findes kun i enkelte af de større
+Skibsbygningslande, saaledes i England,
+Tyskland og Amerika. Ud fra den i Forsøgstanken
+bestemte Modstand af Modellen beregnes
+Skibets Bølgemodstand ved Hjælp af Froude's
+Sammenligningslov, som siger, at Bølgemodstanden
+af to ligedannede Skibe ved korresponderende
+Hastigheder forholder sig som Deplacementerne.
+Den til Modellens Hastighed <i>v</i>
+korresponderende Hastighed for Skibet er <i>v</i> kvadratrod(<i>l</i>), naar <i>l</i> er
+det lineære Forhold mellem Skib og Model.
+Skibets Modstand er Summen af
+Gnidningsmodstanden, beregnet som tidligere anført, og
+Bølgemodstanden, beregnet fra Modelforsøget. Har
+man ikke Modelforsøg til Raadighed, kan man
+beregne Modstanden for en Nykonstruktion ud
+fra Prøveresultater af udførte lignende Skibe
+ved Hjælp af Froude's Sammenligningslov.
+
+Skibets Fart udtrykkes i Knob, som er en
+Sømil ell. 1852 m, i Timen. Paa Prøveture med
+Skibet findes den Hestekraft, Maskineriet
+udvikler for at drive Skibet ved bestemte
+Hastigheder, og disse Resultater afsættes i
+Kurveform med Farten som Abscisse og Hestekraften
+
+<img>Fig. 4. Kurve for Hestekraft og Fart.</img>

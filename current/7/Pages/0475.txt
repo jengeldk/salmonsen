@@ -1,0 +1,53 @@
+<img></img>
+
+<table>
+<td r>1.<td>Fiskepakningsbygning<td>A 1
+<td r>2.<td>Tivoli<td>B 2
+<td r>3.<td>Ligkapel<td>D 1
+<td r>4.<td>Zion Kirke<td>D 2
+<td r>5.<td>Esbjerg Bryghus<td>D 3
+<td r>6.<td>Spritfabrik<td>D 3
+<td r>7.<td>Teater og Hotel<td>D 4
+<td r>8.<td>Kommunal Badeanstalt<td>D 4
+<td r>9.<td>Kreaturstalde<td>D 4
+<td r>10.<td>Valsemølle<td>D 5
+<td r>11.<td>Silopakhus<td>D 5
+<td r>12.<td>Det danske Gødningsk<td>D 5
+<td r>12a.<td>Havnens Bedding<td>D 5
+<td r>13.<td>Fiskepakningsbygninger<td>D 6
+<td r>14.<td>Station og Toldkontrol<td>E 6
+<td r>S.<td>Kommuneskoler<td>
+<td r>15.<td>Statens Kreaturstalde<td>E 6
+<td r>16.<td>Eksportslagteri<td>E 6
+<td r>17.<td>D. F. D. S. Kontor<td>E 6
+<td r>18.<td>Jydsk And. Foderstoff.<td>E 5
+<td r>19.<td>Toldkammer<td>E 5
+<td r>20.<td>Havnens Administration<td>E 5
+<td r>21.<td>Hotel Royal<td>E 5
+<td r>22.<td>Gymnasium - Realskole<td>E 4
+<td r>23.<td>Telefoncentral<td>E 4
+<td r>24.<td>Vor Frelsers Kirke<td>E 4
+<td r>25.<td>Skt. Josefs Hospital<td>E 3
+<td r>26.<td>Elektricitetsværk<td>F 3
+<td r>27.<td>Teknisk Skole<td>F 3
+<td r>28.<td>Metodistkirke<td>F 4
+<td r>29.<td>Kommunens Kontorbygning<td>F 4
+<td r>T.<td>Teglværker<td>
+<td r>30.<td>Raadhus<td>F 4
+<td r>31.<td>Kommune- og Handelsskole<td>F 4
+<td r>32.<td>Post- og Telegrafstation<td>F 4
+<td r>33.<td>Den danske Landmandsbank<td>F 4
+<td r>34.<td>Handelsbank<td>F 4
+<td r>35.<td>Vandtaarn<td>F 5
+<td r>36.<td>Pavillon<td>F 5
+<td r>37.<td>Dansk And. Smøreksport<td>F 6
+<td r>38.<td>Offentlige Slagtehuse<td>G 6
+<td r>39.<td>Alderdomshjem<td>G 5
+<td r>40.<td>Palads Hotel<td>G 4
+<td r>41.<td>Andels Svineslagteri<td>G 3
+<td r>42.<td>Kommunens Sygehuse<td>G 1-2
+<td r>43.<td>Aktie Svineslagteri<td>H 3
+<td r>44.<td>Fællesf. for Danmarks Forbrugsforeninger<td>H 5
+<td r>45.<td>Gasværk<td>I 6
+</table>
+

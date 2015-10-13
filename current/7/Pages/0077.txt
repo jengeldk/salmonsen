@@ -1,0 +1,140 @@
+Bestemmelse af <i>e/m</i> for de kredsende E., og
+man fandt ogsaa her den nævnte Værdi, altsaa
+de samme E. som overalt. - Om de fri E., som
+maa antages til Stede i Metaller for at forklare
+deres store elektriske Ledningsevne og øvrige
+elektriske Egenskaber, se <sp>Elektronteori</sp>.
+
+Fra <sp>Elektrolysen</sp> (s. d.) var man
+allerede før E.'s Opdagelse vænnet til at antage,
+at Elektriciteten var atomistisk opbygget, da
+hvert kem. Atom ell. Atomkompleks i
+Elektrolysen viste sig at transportere en ganske
+bestemt Elektricitetsmængde ell. et helt
+Multiplum deraf, og man kan ved elektrolytiske
+Forsøg let bestemme den specifikke Ladning <i>e/m</i>
+for alle de forsk. Slags Ioner
+(Elektricitetsbærere). For den letteste Ion, Brintionen,
+findes saaledes <i>e/m</i> = 95730 Coulomb/Gram.
+Brintionen er ladet positivt og med den mindste
+Ladning, der overhovedet optræder i
+Elektrolysen; dens Ladning maa da utvivlsomt være et
+Elementarkvantum, altsaa lig en E.'s, idet man
+maa forestille sig, at et neutralt Brintatom
+bliver til en positivt ladet Brintion ved at miste
+en af sine E. (sandsynligvis indeholder det kun
+denne ene E.); følgelig maa E.'s Masse være
+<table>
+<td c>1,765·10<sup>8</sup><td v2> = 1850 Gange mindre end
+<td c>95730
+</table>
+Brintatomets Masse. Men man er naaet endnu videre, idet
+det er lykkedes direkte at bestemme det
+elektriske Elementarkvantums Størrelse <i>e</i>; det
+findes til 1,58 · 1O<sup>÷19</sup> Coulomb, hvoraf følger, at
+en E.'s Masse <i>m</i> = 9 · 10<sup>÷28</sup> g (c. en Billiontedel
+af en Billiontedel mg). De første grove
+Bestemmelser af <i>e</i> blev gjort af <sp>J. J. Thomson</sp> og
+<sp>H. A. Wilson</sp>; den sidstes Metode er nylig i
+den Grad forbedret af <sp>Millikan</sp>, at der kan
+opnaas en Nøjagtighed af 1/2 % ell. mindre i
+Bestemmelsen af denne forsvindende lille
+Elektricitetsmængde. Han bruger smaa Oliedraaber
+fra en Art Blomsterbedugger; de blæses hen
+over en vandret Kondensator med et Hul i den
+øverste Plade. Naar en Draabe er faldet ned i
+Kondensatoren, lukkes Hullet, og gennem en
+Kikkert iagttages nu denne Oliedraabes
+Faldhastighed, der er konstant og for smaa Draaber
+kun lille p. Gr. a. Luftmodstanden. Draaben
+bliver ved Dannelsen i Reglen elektrisk ladet ved
+Gnidning; naar den er faldet et passende
+Stykke, kan den derfor bringes til at stige, ved at
+Kondensatoren lades op, og man iagttager
+Stigningshastigheden; derefter udlades
+Kondensatoren, og Faldhastigheden iagttages igen o.
+s. v. En enkelt Draabe kan forfølges i mange
+Timer. Det viser sig nu, at Draabens Ladning
+og derved dens Stigningshastighed ændres nu
+og da under et Forsøg, idet den indfanger enten
+en positiv ell. en negativ Ion, men altid er
+Ændringen i dens Ladning af samme ganske
+bestemte Størrelse ell. eventuelt 2 ell. 3 Gange
+saa stor, og Størrelsen af denne
+Elektricitetsmængde bestemmes af Ændringen i
+Stigningshastigheden. Der er herved leveret det mest
+direkte Bevis, man kan ønske sig for, at
+Elektriciteten er opbygget af Elementarkvanter, alle
+af nøjagtig samme Størrelse. Andre nogenlunde
+nøjagtige Metoder til Bestemmelse af <sp>e</sp> bestaar
+dels i Undersøgelse af de <sp>Brown'ske
+Molekylarbevægelser</sp>, dels i en Tælling af,
+hvor mange α- ell. β-Partikler et radioaktivt
+Stof udsender, i Forbindelse med en
+Bestemmelse af deres samlede Ladning (se
+<sp>Radioaktivitet</sp>); endelig kan man ad rent
+teoretisk Vej beregne <i>e</i> ud fra Undersøgelser over
+<sp>Varmestraaling</sp>. Alle disse Metoder har
+givet Værdier, der stemmer udmærket med den
+nævnte Millikan'ske Værdi. (Naar <i>e</i> er kendt,
+kan naturligvis ogsaa Massen af et Brintatom
+og et Brintmolekyle beregnes og deraf igen
+Antallet af Molekyler i et Grammolekyle
+[Avogadros Tal 6,1 · 10<sup>23</sup>] ell. i 1 cm<sup>3</sup> af en Luftart ved
+0° og 760 mm Tryk [Loschmidt's Tal 2,7.10<sup>19</sup>].
+Disse Tal stemmer godt med de unøjagtige Tal,
+man er kommet til ud fra den kinetiske
+Luftteori).
+
+<sp>J. J. Thomson</sp> har først gjort opmærksom
+paa, at et elektrisk ladet Legeme, der bevæger
+sig, over for ydre Kræfter vil forholde sig, som
+om det havde faaet en tilsyneladende
+(»elektromagnetisk«) Masse føjet til sin alm. mek. Masse,
+En E., der bevæger sig, bet. en elektrisk Strøm
+og er derfor omgivet af et magnetisk Felt;
+dersom den bevæger sig retlinet, er Feltets
+Kraftlinier Cirkler, hvis Centrer ligger i E.'s Bane,
+og hvis Planer er vinkelrette paa denne. Dette
+Felt, der følger med E., indeholder Energi;
+Feltets samlede magnetiske Energiindhold er for
+langsom Bevægelse af E. proportionalt med
+Hastighedens Kvadrat. En ydre Kraft, der søger
+at forandre E.'s Hastighed, skal derfor ikke
+alene forandre dens sædvanlige levende Kraft
+1/2 <i>mv</i><sup>2</sup>, men ogsaa forandre det magnetiske
+Felts Energiindhold. E. opfører sig da over for
+Kraften, som om den havde en større træg
+Masse end <i>m</i>. (Aarsagen til denne forøgede
+Modstand mod Bevægelsesændringer er
+Selvinduktionen; naar E.'s Hastighed forøges,
+forøges derved den Strømstyrke, som den
+bevægede E. repræsenterer, og dermed det
+magnetiske Felt; derved induceres der elektriske
+Kræfter, der efter Lenz' Regel [se
+<sp>Induktion</sp> maa angribe selve E. og søge at forhindre
+denne Hastighedsforøgelse). For smaa
+Hastigheder er dem elektromagnetiske Masse <i>m</i><sub>0</sub>
+<table>
+<td v2>konstant og lig<td c>200<td v2>·<td c><i>e</i><sup>2</sup><td v2>, hvor <i>a</i> er E.'s Radius i cm
+<td c>3<td c><i>a</i>
+</table>
+(den tænkes kugleformet); <i>e</i> maales stadig i
+Coulomb. Bliver Hastigheden en større Brøkdel af
+Lysets Hastighed, vokser for det første det
+magnetiske Felts Energi hurtigere end med
+Hastighedens Kvadrat. Tillige forandrer det elektriske
+Felts Energi sig; dette Felt var for smaa
+Hastigheder det samme som i Hvile, saa at vi
+ikke behøvede at tage Hensyn til det.
+Resultatet bliver, at <i>m</i> vokser med Hastigheden,
+og stærkere og stærkere, saa at den for en
+Hastighed lig Lysets vilde blive uendelig. Det
+viser sig da yderligere, at den træge Masse, der
+gør Modstand mod Hastighedsforandringer i
+Bevægelsens Retning og i en Retning vinkelret
+derpaa, bliver forsk., saa at man maa tale om
+en »longitudinal« og »transversal« Masse.
+Hvorledes disse Masser varierer med Hastigheden,
+kan kun udregnes, naar man gør en Antagelse
+om E.'s Form. Eksperimentelt er det blevet

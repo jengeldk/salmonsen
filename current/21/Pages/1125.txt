@@ -1,0 +1,116 @@
+af de lysende Atomer være ioniserede end i
+Buen, hvorfor Spektret af ioniserede Atomer,
+der altid i nogen Grad er overlejret Spektret
+af de neutrale Atomer, her spiller en større
+Rolle. Gnister i atmosfærisk Luft giver ogsaa
+visse Luftlinier; de trænges dog tilbage ved at
+lade Udladningerne fremkomme ved elektriske
+Svingninger, idet det væsentlig er den første
+Partialgnist i hver Udladning, der giver
+Luftlinier; efterhaanden diffunderer Dampene af
+Elektrodemetallet ud i Gnistrummet, saa at de
+flg. Partialgnister væsentlig bæres af disse
+Dampe og giver det ønskede Spektrum. For
+Stoffer, som under alm. Forhold er damp- ell.
+luftformige, frembringes Spektret ved at have
+dem indesluttede i et Geisslersk Rør under
+passende lavt Tryk og sende elektriske
+Udladninger derigennem. Fig. 7 viser forsk. Former
+af de anvendte Rør. Lyset udsendes især fra
+den indsnævrede Del. Formerne <i>2</i> og <i>3</i> har
+den Fordel, at man kan bruge dem med
+Kapillarrøret i Kollimatorens Forlængelse, saa at
+man faar Lyset fra Enden af Kapillarrøret ind
+i Spalten, hvorved man faar lysstærkere
+Spektre. I disse Rør frembringes Spektrene under
+saadanne Betingelser, at ogsaa Molekyler, baade
+af Grundstoffer og kem. Forbindelser kan
+bestaa og give deres Spektre. Af mere specielle
+spektroskopiske Lyskilder kan nævnes den
+elektriske Ovn, der hidtil især er anvendt af
+King (i Mount Wilson-Observatoriet) til at
+frembringe Spektre ved meget høj Temp. uden
+Medvirkning af elektriske Udladninger,
+Undersøgelser der har stor Interesse for
+Astrofysikken. Endvidere Bue og Gnist i Vakuum,
+anvendt til Vakuumspektroskopien; f. Eks. har
+Millikan med sine hot sparks med 150000 Volt
+i Vakuum faaet frembragt Spektre af
+mangedobbelt ioniserede Atomer. For Undersøgelser
+af Zeeman-Effekten har Konstruktionen af en
+Buelampe, der stadig afbrydes og tændes
+paany og derfor kan brænde i et Magnetfelt uden
+at blæses ud af dette, været et vigtigt
+Fremskridt.
+
+<sp>Emissionsspektre</sp>. 1. <sp>Kontinuerte
+Spektre</sp>. Disse er kun i ringe Grad
+karakteristiske for det Stof, der udsender dem, og
+er væsentlig bestemte ved Stoffets Temp.
+Simpel Iagttagelse af den synlige Del af et
+kontinuert Spektrum eller Fotografering af dette
+frembyder ingen Interesse; enhver nærmere
+Undersøgelse maa bestaa i de ovf. omtalte
+Energimaalinger, Bestemmelse af, hvor megen
+Straalingsenergi Spektret indeholder af hver
+Bølgebredde. For Legemer der udstraaler
+Energi alene paa Bekostning af deres Indhold
+af Varmeenergi, gælder den ved
+<sp>Kirchhoffs Lov</sp> udtrykte Forbindelse mellem
+deres Emission og Absorption. Et Stofs
+Emis-sionsevne <i>e<sub>λT</sub></i> ved en bestemt Temp. <i>T</i> for
+Straaler af en bestemt Bølgebredde λ er
+defineret ved, at det Antal Gramkalorier
+Straalingsenergi, som udsendes ved den paagældende
+Temp. fra 1 cm<sup>2</sup> af Stoffets Overflade med
+Bølgebredder beliggende mellem λ og λ + <i>dλ</i>
+er givet ved <i>e<sub>λT</sub>dλ</i>. Ved Stoffets
+Absorptionsevne <i>a<sub>λT</sub></i> for samme Bølgebredde ved samme
+Temp. forstaas den Brøkdel af den paa
+Stoffets Overflade faldende Energi af
+Bølgebredden λ, som absorberes af dette; Resten
+reflekteres, saa at dets Refleksionsevne <i>r<sub>λT</sub></i> = 1—<i>a<sub>λT</sub></i>.
+Kirchhoff har nu vist ved termodynamiske
+Betragtninger, at for ethvert Legeme maa <i>e<sub>λT</sub>/a<sub>λT</sub></i>
+være konstant; Forholdet mellem dets
+Emissions- og Absorptionsevne for en vis
+Bølgebredde ved en vis Temp. er lig Forholdet
+mellem ethvert andet Legemes Emissions- og
+Absorptionsevne for samme Bølgebredde ved
+samme Temp. Har man specielt et Legeme, der er
+saaledes beskaffent, at det absorberer al den
+Straaling, der rammer dets Overflade, og altsaa
+intet reflekterer, saa at <i>a</i> er lig 1 for alle
+Værdier af λ og <i>T</i>, og kaldes dette »absolut
+sorte« Legemes Emissionsevne <i>E<sub>λT</sub></i>, faar man
+<i>e<sub>λT</sub>/a<sub>λT</sub></i> = <i>E<sub>λT</sub></i>. Den konstante Værdi af Forholdet
+er altsaa netop lig det absolut sorte Legemes
+Emissionsevne for samme λ ved samme <i>T</i>.
+Deraf følger Betydningen af nøjagtige
+Undersøgelser af et absolut sort Legemes Emission. Da <i>a<sub>λT</sub></i>
+for alle andre Legemer efter sin Definition maa
+være mindre end 1, følger heraf, at <i>e<sub>λT</sub></i> altid
+er mindre end <i>E<sub>λT</sub></i>, saa at et absolut sort
+Legemes Emissionsevne er en øvre Grænse. Intet
+andet Legeme kan ved samme Temp. udsende
+mere Energi af en bestemt Bølgebredde end det
+absolut sorte Legeme, vel at mærke naar det
+kun Straaler paa Bekostning af sin Varmeenergi.
+Eksperimentelt er et saadant Legeme første
+Gang realiseret af C. Christiansen. Nu
+realiseres det altid ved et Hulrum med en lille
+Aabning. Har dette Hulrums Vægge samme
+Temp., vil den Straalingstæthed, der hersker
+derinde, være den absolut sorte Straaling for
+denne Temp., og den Straaling, der kommer
+ud gennem Hullet, følgelig ogsaa. Et saadant
+Hul maa ogsaa siges at have <i>a</i> = 1 for alle
+Værdier af λ, thi Straaling, som er kommet ind
+gennem Hullet, vil have forsvindende lille
+Sandsynlighed for at komme ud igen; den vil
+reflekteres nogle Gange frem og tilbage mellem
+Væggene, og hver Gang absorberes en vis
+Brøkdel deraf, saa at efter et Antal Refleksioner (faa,
+hvis Væggene er sorte) er Straalingen
+
+<img>Fig. 7. Spektralrør.</img>

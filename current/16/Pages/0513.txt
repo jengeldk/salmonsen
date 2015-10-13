@@ -1,0 +1,55 @@
+<img>MALMÖ
+MED
+LINHAMN</img>
+
+<table>
+<td r>1.<td><i>Navigationsskole</i>
+<td r>2.<td><i>Posthus</i>
+<td r>3.<td><i>Toldkammer</i>
+<td r>4.<td><i>Jernbanestation</i>
+<td r>5.<td><i>Værfts-Kanal</i>
+<td r>6.<td><i>Citadelhavn</i>
+<td r>7.<td><i>Landsrets-Bygning</i>
+<td r>8.<td><i>Westra-hamn-kanal</i>
+<td r>9.<td><i>Telegrafstation</i>
+<td r>10.<td><i>Landshøvdingsresidens</i>
+<td r>11.<td><i>Raadhus</i>
+<td r>12.<td><i>Skt. Petri Kirke</i>
+<td r>13.<td><i>Caroli Kirke</i>
+<td r>14.<td><i>Østra-hamn-kanal</i>
+<td r>15.<td><i>Østra-förstads-kanal</i>
+<td r>16.<td><i>Elektricitetsværk</i>
+<td r>17.<td><i>Rörsjö-kanal</i>
+<td r>18.<td><i>Stora teatern</i>
+<td r>19.<td><i>Katolsk Kirke</i>
+<td r>20.<td><i>Södra-förstads-kanal</i>
+<td r>21.<td><i>Park-kanal</i>
+<td r>22.<td><i>Museum</i>
+<td r>12.<td><i>Realskole</i>
+<td r>24.<td><i>Børnehospital</i>
+<td r>25.<td><i>Skt. Johannes Kirke</i>
+<td r>26.<td><i>Folkets Hus Teater</i>
+<td r>27.<td><i>Högre allmänt läroverk.</i>
+<td r>28.<td><i>Brandstation</i>
+<td r>29.<td><i>Teknisk Skole</i>
+<td r>30.<td><i>Skt. Pauli Kirke</i>
+<td r>31.<td><i>Østervärns Station</i>
+<td r>32.<td><i>Vandtaarn</i>
+<td r>33.<td><i>Lensfængsel</i>
+<td r>34.<td><i>Vandtaarn</i>
+<td r>35.<td><i>Almindeligt Hospital</i>
+<td r>36.<td><i>Epidemi Hospital</i>
+<td r>37.<td><i></i>Södervärns Station
+<td r>38.<td><i>Vandtaarn</i>
+<td r>39.<td><i>Glasværk</i>
+<td r>40.<td><i>Kunstgødningsfabrik</i>
+<td r>41.<td><i>Skånska Cement A/B Fabrik.</i>
+<td r>42.<td><i>Jernbanestation</i>
+<td r>43.<td><i>Maskinsnedkeri</i>
+<td r>44.<td><i>Mekanisk Værksted</i>
+<td r>45.<td><i>Skånska Cementstøberi</i>
+<td r>46.<td><i>Gasværk</i>
+<td r>47.<td><i>Brandstation</i>
+<td r>48.<td><i>Raadhus</i>
+</table>
+</chapter>

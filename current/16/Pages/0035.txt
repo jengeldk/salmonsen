@@ -1,0 +1,164 @@
+kombinere disse to Maalinger paa samme
+Luftmængde finde saavel Ledningsevne som
+Ladning, hvoraf faas Ionernes Bevægelighed ved
+Division af det første med det sidste (se ovf.).
+
+Resultaterne af de hidtil foretagne Maalinger
+er, som straks blev omtalt, endnu ret spredte.
+Under normale Forhold er der en positiv
+Potentialforskel mellem et Punkt over Jorden og
+Jorden selv, stigende med Punktets Højde med
+c. 100 Volt pr m i de laveste Lag; i de højere
+Lag formindskes denne Potentialforandring pr
+m (»Gradient«), saa den f. Eks. i 4 km's Højde
+er omkr. 10 Volt/m, og i c. 6 km's Højde er
+maalt 8 Volt/m. I de lavere Luftlag er disse
+Forhold meget afhængige af de varierende
+meteorologiske Forhold, Potentialforskellen kan
+endogsaa lejlighedsvis vendes om til modsat
+Fortegn; dog har man fundet en tydelig
+aarlig Gang i Gradienten med Minimum om
+Sommeren og Maksimum om Vinteren; ligeledes
+findes en daglig Gang med saavel enkelt som
+dobbelt Periode. Disse Forhold svarer til en
+negativ Ladning paa Jorden og en med
+Vejrforholdene varierende positiv Rumladning —
+d. v. s. et Overskud af positive Ioner — i
+Atmosfæren, da Potientialforandringen med
+Højden, hvis der ingen fri Ladning var i
+Luften, maatte blive praktisk talt konstant i de,
+i Forhold til Jordens Radius, smaa Højder, det
+drejer sig om. Af Potentialforandringen 100
+Volt/m ved Jordens Overflade beregnes
+»Normalkraften« til 1/300, og ved Division heraf
+med 4 π faas Overfladetætheden σ = 2,7 X
+10<sup>—4</sup> ell. st. E.; dette giver for hele Jordens
+Ladning c. 10<sup>15</sup> eller st. E. eller c. 3 X 10<sup>5</sup>
+Coulomb. Paa tilsvarende Maade kan man
+af <sp>Poisson</sp>'s Ligning beregne Rumladningens
+Størrelse; hvis man regner med, at
+Potentialforandringen 100 Volt/m i de allerlaveste Lag
+gennemsnitlig formindskes med 1 Volt/m pr 10
+m, faas en Rumladning paa 2,7 X 10<sup>—9</sup> ell.
+st. E. I større Højder faas stadig mindre
+Værdier for Rumladningen, saa man i alle Tilfælde
+kan tænke sig, at Atmosfærens hele Ladning
+netop har en saadan Størrelse, at den udad
+mod Verdensrummet neutraliserer Jordens
+Ladning; ganske vist maa man jo i denne
+Sammenhæng huske paa, at en eventuel elektrisk
+Ladning i Atmosfærens allerøverste Lag ingen
+elektrisk Virkning har indadtil. — Hvad
+Luftens Ledningsevne angaar, har man fundet
+Værdier af Størrelsen 10<sup>—4</sup> ell. st. E.
+Antallet af Ioner ligger alm. omkr. 1000 af hver
+Slags pr cm<sup>3</sup>, og som oftest er der et positivt
+Ladningsoverskud paa c. 9. 10<sup>—8</sup> ell. st. E. ell.
+c. 200 positive Ioner, i nogenlunde
+Overensstemmelse med den ovf. beregnede Værdi for
+den gennemsnitlige Rumtæthed i de laveste
+Lag. Dette Forhold bekræftes i øvrigt ogsaa
+ved de simplere Spredningsmaalinger, der
+gerne giver hurtigere Spredning af den
+negative Elektricitet. — Det elektriske Felt i Luften
+i Forbindelse med dennes Ledningsevne maa
+naturligvis give Anledning til en vertikal elektr.
+Strøm; regnes med de anførte Værdier for de
+laveste Lag, faas Strømtætheden efter Ohm's
+Lov til c. 0, 3 X 10<sup>—6</sup> ell. st. E. ell. omtr.
+10<sup>—16</sup> Amp.; og en Strøm af denne Tæthed er
+virkelig ogsaa paavist eksperimentelt med
+Retning mod Jorden. P. Gr. a. Luftens
+gennemgaaende positive Overskud af Elektricitet vil
+imidlertid ogsaa Luftbevægelsen give Anledning
+til en elektrisk Strøm, der dog kun for den
+horisontale Bevægelse kan naa op til samme
+Størrelse som Ledningsstrømmen. — Hvordan
+de meget store elektr. Ladninger opstaar, der
+optræder under Tordenvejr, kan man foreløbig
+slet ikke gøre Rede for. (<sp>Litt</sp>.: <sp>H. Mache</sp>
+u. <sp>E. v. Schweidler</sp>, »Die atmosphärische
+Elektrizität [Braunschweig 1909]).
+<i>H.-P.</i>
+</chapter>
+
+<chapter name="Luftemboli">
+<b>Luftemboli,</b> se <sp>Emboli</sp>.
+</chapter>
+
+<chapter name="Luftens Indflydelse paa Planterne">
+<b>Luftens Indflydelse paa Planterne</b> er
+meget stor. Foruden den særlige Bet., som Ilten
+(se <sp>Aandedræt</sp>) og Kulsyren (se
+<sp>Kulsyreassimilation</sp>) har for
+Livsvirksomheden, kan det anføres, at ogsaa Luftens
+Fugtighedsgrad i høj Grad paavirker Planternes
+hele Udvikling, jfr <sp>Transpiration</sp> og
+<sp>Tørkeplanter</sp>.
+<i>B. J.</i>
+</chapter>
+
+<chapter name="Luftfilter">
+<b>Luftfilter,</b> se <sp>Ventilationsanlæg</sp>.
+</chapter>
+
+<chapter name="Luftflegmone">
+<b>Luftflegmone,</b> se <sp>Gasbrand</sp>.
+</chapter>
+
+<chapter name="Luftfoder">
+<b>Luftfoder.</b> Visse Fisk, som Løje og Ørred,
+tager i stor Udstrækning Insekter, der flyver
+over Vandet, falder i det ell. sætter sig paa
+Overfladen for Æglægningens Skyld ell. under
+Udkrybningen af Puppehuden; denne Del af
+Fiskenes Føde betegnes ofte som L.
+<i>C. V. O.</i>
+</chapter>
+
+<chapter name="Luftfornyelse">
+<b>Luftfornyelse,</b> se <sp>Ventilation</sp>.
+</chapter>
+
+<chapter name="Luftfortætningspumpe">
+<b>Luftfortætningspumpe,</b> se <sp>Luftpumpe</sp>.
+</chapter>
+
+<chapter name="Luftfotografering">
+<b>Luftfotografering.</b> Til fotografiske
+Optagelser fra Luftfartøj benyttes solidt
+konstruerede, faste Kameraer uden Bælg og med
+Negativet i uforanderlig Afstand fra Objektivet
+(Optagelsesafstand: uendelig). Der anvendes
+Objektivbrændvidder fra 16 til 120 cm. P. Gr.
+a. Luftfartøjets store Hastighed maa
+Eksponeringstiden være ringe (ned til 1/300 Sek.) for
+at undgaa »forvredne« Optagelser: Hyppigst
+anvendes Slidselukker. Til L. med lodret
+optagne Billeder benyttes i Luftfartøj ofte fast
+installerede Kameraer, der ophænges fjedrende
+i elastiske Baand ell. paa Gummibolde, for at
+Motorens Rystelser ikke skal foraarsage
+uskarpe Optagelser. Til L. med skraat optagne
+Billeder bruges i Reglen Haandkameraer,
+forsynet med stærke Haandgreb og med en
+bevægelig Arm til Betjening af Momentlukkeren
+uden at slippe Grebet. Ved Hjælp af en
+Daaselibelle, anbragt paa en Gradbue, kan
+Optagelsen ske under en bestemt Vinkel.
+Tidligere har man anvendt automatisk
+Fotografering fra Luften dels ved Hjælp af
+Raketter, dels ved Hjælp af Brevduer. Ved
+Raketfotografering anbragtes ved Rakettens Stang
+en sammenklappet Faldskærm og under denne
+et lille Fotografiapparat. Naar Raketten havde
+havde naaet sin største Højde, løsnedes
+Faldskærmen, der i udslaaet Tilstand bragte
+Fotografiapparatet tilbage til Jorden. Under
+Nedfarten foretog Fotografiapparatet automatisk
+een ell. fl. Optagelser. Ved Brevduefotografering
+fastspændte man paa Brystet af Brevduen et
+ganske lille Fotografiapparat, der under Duens
+Flugt automatisk tog en Rk. Fotografier. Disse
+to Metoder var selvfølgelig i høj Grad
+afhængige af Tilfældigheder og derfor langt mindre

@@ -1,0 +1,141 @@
+tyder paa, at der i to ell. flere Grupper af
+Fænomener, der sammenlignes, virker væsentlig
+forsk. Aarsager, ell. hvilke Afvigelser der ikke
+tyder herpaa (i hvilket Tilfælde man kort
+kalder forefundne Afvigelser for tilfældige), er det
+ikke muligt at føre blot det Sandsynlighedsbevis,
+hvortil den specielle statistiske
+Undersøgelsesmaade i det højeste kan drive det. Paa hvilken
+Maade man skaffer sig dette Maal, og under
+hvilke Betingelser det faar Gyldighed, bliver
+derfor en fundamental Opgave og ved
+mangfoldige Undersøgelser en Opgave, hvis Løsning
+til syvende og sidst beror paa
+<sp>Statistikerens Kunst</sp>. Dog kan det bemærkes, at
+netop de nævnte Begreber har vist sig særlig
+egnede til en nærmere Præcisering af, hvilke
+Slutninger der kan drages af et
+Iagttagelsesmateriale af givet Omfang. De til noget
+forskellige Forudsætninger svarende forskellige
+Formuleringer af denne Præcisering bærer alle med
+større ell. mindre Ret et fælles Navn: <sp>De
+store Tals Lov</sp>, en Betegnelse, der
+hidrører fra Poisson (1837). Denne »Lovs«
+Indhold er imidlertid under visse specielle
+Betingelser allerede formuleret af <sp>Jac.
+Bernoulli</sp> (<i>Ars conjectandi</i>, udarbejdet c.
+1680—85, men først udgivet 1713, 8 Aar efter
+Forfatterens Død) og senere generaliseret betydeligt,
+særlig ved den russiske Statistiker
+<sp>Tchebychef</sp>'s Bidrag (1867). Med Hensyn til S.'s
+Anvendelse i specielle Undersøgelser maa i øvrigt
+henvises til Specialartiklerne vedrørende de
+paagældende Forhold (eksempelvis Befolknings-,
+Dødeligheds-, Fødsels-S. o. s. v. Om Danmarks
+S. se Art. <sp>Danmark</sp>, jfr i øvrigt de følgende
+historiske Bemærkninger.
+
+S. som Videnskab har i Tidens Løb i høj
+Grad været undergiven Forvandlingens Lov;
+S. i moderne Forstand kendtes hverken i
+Oldtid ell. Middelalder. Som nævnt hidrører
+Betegnelsen S. fra denne Videnskabs opr. nære
+Tilknytning til Statsanliggender. Da Interessen
+for det offentlige Liv navnlig i 16. Aarh. gjorde
+sig gældende ved den moderne Statsidés
+Fremtrængen, fandt dette ogsaa sit Udtryk i
+Litteraturen gennem Værker vedrørende Staternes
+Tilstand og Regeringsform (Botero, Sansovino),
+for en Del med Forbillede i Aristoteles'
+berømte <sp>Politeiai</sp>. Langt større Betydning fik det
+imidlertid, da i Tyskland en Række
+fremragende Videnskabsmænd, særlig <sp>Herm.
+Conring</sp> (1606—81), gjorde Statskundskaben til et
+Fag, der særlig dyrkedes af Göttingerskolen
+(den Conring—Achenwall'ske Skole). Trangen
+til ved sammenlignende Statsbeskrivelser at
+benytte talmæssige Angivelser kom naturligvis
+herved frem paa et vist Tidspunkt og medførte
+en lang og bitter Strid mellem Tilhængere af
+Göttingerskolen (Universitetsstatistikerne) og
+det efterhaanden større og større Antal
+Forskere, der fulgte denne Trang
+(Tabelstatistikerne, af deres Modstandere kaldet
+»Tabellenknechte und Skelettirer der Statistik«).
+
+Denne Strid ebbede langsomt ud og ophørte
+først helt, da den klassiske Universitetsstatistik
+(Statsbeskrivelsen) for stedse havde delt sig i en
+Række ny Discipliner, foruden Stats- og
+Forvaltningsret, Geografi, Nationaløkonomi ogsaa den
+Videreførelse af de samtidigt opvoksede
+Videnskaber, Sandsynlighedsregning og politisk
+Aritmetik, der blev den Del af
+Universitetsstatistikken, der fremtidig kom til at føre Navnet S.
+
+Medens Sandsynlighedsregningen i sin
+Oprindelse var og endnu kan betragtes som en ren
+formel (matematisk) Videnskab, hvis
+Hovedopgave er at undersøge, paa hvilken Maade og
+under hvilke Betingelser samt med hvilken
+Mening man af givne Sandsynligheder kan finde
+ny, kan man anskue S. i sin videre Udvikling
+som den <sp>Realvidenskab</sp>, der paa
+Grundlag af Erfaringsdata tilvejebringer de
+Sandsynligheder, der danner Udgangspunktet for
+Sandsynlighedsberegninger. Medens
+Sandsynlighedsregningen derfor vel bestaar uafhængig af S.,
+beror den Betydning, som begge Videnskaber
+kan faa, paa disses indbyrdes Forhold og Evne
+rtil Samvirken.
+
+Imidlertid var det ikke blot
+Sandsynlighedsregningens Dyrkere, der til en Begyndelse
+arbejdede uafhængigt af tilgrænsende Videnskaber;
+dette gjaldt ogsaa den politiske Aritmetiks
+Dyrkere. Den eng. Købmand, <sp>John Graunt</sp> (død
+1674), der navnlig beskæftigede sig med
+befolkningsstatistiske Studier, kan regnes som
+Grundlæggeren af denne Disciplin. Graunt's
+Undersøgelser vedrørende den menneskelige Levetid
+(Dødelighed) førtes videre af <sp>W. Petty</sp>,
+<sp>Davenant</sp> og navnlig af Astronomen
+<sp>Halley</sp> (død 1742), der paa Grundlag af
+Dødslisterne fra Breslau beregnede den første
+Dødelighedstavle; denne anvendte Halley allerede
+dengang til Beregning af
+Livsforsikringspræ-miers Størrelse; men Hovedanvendelsen var for
+Halley Bestemmelsen af Folketallet (i dette
+Tilfælde Breslaus), en Opgave, som i høj Grad
+lagde Beslag paa Samtidens og Eftertidens
+Interesse. I Frankrig udvikledes den politiske
+Aritmetik ved meget omfattende Anvendelser af
+Kemikeren <sp>Lavoisier</sp>, og i Tyskland var
+det især <sp>Süssmilch</sp> (død 1767), der med
+sit berømte Værk »Die göttliche Ordnung . . .«
+bidrog til at udbrede Kendskabet til denne
+Disciplin.
+
+Den hele Omformning, hvoraf den moderne
+S. skulde fremstaa, fuldbyrdedes dog først lidt
+efter lidt. I 19. Aarh.'s første Halvdel bidrog
+navnlig Belgieren <sp>Quételet</sp> hertil ved en
+mægtig videnskabelig Produktion, i hvilken han
+bl. a. overfører de store Tals Lov til at gælde
+ikke blot Befolkningsstatistikken, men alle
+Ytringer i det menneskelige Samfund. Efter
+Süssmilch's og Quételet's Opfattelse var den
+statistiske Regelmæssighed Udtryk for en ganske
+lignende Konstans og Uforanderlighed som den,
+man havde fundet gældende i
+Naturvidenskaberne (særlig Himmelmekanikken). Da senere
+Forstaaelsen af de store Tals Lov blev mere
+klar, blev man ogsaa klar over, paa hvilken
+Maade den statistiske Regelmæssighed i de
+sociale Fænomener burde opfattes; man
+betragtede da statistiske Love og Naturlove som Love
+af væsentlig forsk. Art. Selv om denne
+Forestilling i en vis Forstand maa hævdes endnu,
+er der atter ved at indtræde en Vending heri,
+efter at ogsaa Fysikken og Kemien med stort
+Udbytte har optaget statistiske Synsmaader og

@@ -1,0 +1,138 @@
+I Danmark bruges udelukkende den tyske
+Enhed, <sp>Hefnerlampen</sp>, foreslaaet af von
+Hefner-Alteneck 1884; den er sikkert den bedst
+definerede og bedst undersøgte. Fig. 1 viser
+dens Indretning. Brændstoffet er ren primær
+Isoamylacetat (C<sub>7</sub>H<sub>14</sub>O<sub>2</sub>), der skal brænde med
+40 mm høj
+Flamme fra en Væge,
+som helt udfylder
+et Nysølvrør <i>g</i>
+med 8 mm
+indvendig Diameter
+og 0,15 mm
+Vægtykkelse. Den
+rigtige Flammehøjde
+konstateres ved, at
+Flammens Spids
+ved Linsen <i>l</i>
+afbildes paa
+Matglaspladen <i>p</i>, og
+indstilles ved at
+ændre Vægens Højde
+ved en ikke vist
+Skrueindretning.
+En saadan Lampe
+har altsaa Lysstyrken 1 (1 <sp>Normallys</sp> ell.
+<sp>Hefnerlys</sp>, HL), strengt taget dog kun i
+horisontal Retning. Imidlertid afhænger
+Hefnerlampens Lysstyrke (efter indgaaende Undersøgelser
+i den tyske fys.-tekn. Rigsanstalt) i nogen Grad
+af den omgivende Lufts Tilstand; den aftager
+med voksende Indhold af Fugtighed og Kulsyre
+og vokser i ringe Grad med Lufttrykket. Som
+normal gælder Lysstyrken, naar Luften
+indeholder 8,8 l Vanddamp og 0,75 l Kulsyre i 1 m<sup>3</sup>
+Luft. Indeholdes der <i>x</i> l Vanddamp og <i>y</i> l
+Kulsyre i 1 m<sup>3</sup> tør Luft, og er Barometerstanden <i>b</i>
+mm, bliver Lysstyrken L = 1,049 ÷ 0,0055 x ÷
+0,0072(<i>y</i>÷0,75)+0,00011(<i>b</i>÷760).
+
+Den ældre tyske Enhed, et Parafinlys af
+bestemte Dimensioner og med 50 mm
+Flammehøjde (1 »Vereinskerze«) er c. 1,20 HL; den eng.
+og amer. Enhed, et Spermacetlys med bestemt
+Forbrug pr. Time, i Tyskland anvendt med
+bestemt Flammehøjde, er c. 1,14 HL. Den
+ældste Lysenhed er Carcellampen, der indførtes i
+Frankrig 1800; den skal brænde 42 g Rapsolie
+i Timen og er paa c. 10,75 HL. Endnu skal
+nævnes Vernon Harcourt's 10-Lys Pentanlampe
+fra 1898, der anvendes i England; den brænder
+en Pentandamp-Luftblanding og er paa c. 10,95
+HL, altsaa ret nær ved 10 eng. Spermacetlys.
+Violle har foreslaaet at etablere en mere rationel
+Enhed ved at bruge den vinkelrette
+Udstraaling fra 1 cm<sup>2</sup> smeltet Platin, der har
+Smeltepunktets Temp.; 1/20 heraf, der vilde blive en
+Enhed af mere passende Størrelse, har man
+kaldt et Decimallys. Denne Enhed er
+imidlertid ubrugelig p. Gr. a. de store praktiske
+Vanskeligheder ved dens Realisation; i
+Virkeligheden er den ogsaa fuldstændig vilkaarlig og
+ikke særlig veldefineret.
+
+Ingen af Lysenhederne er bekvemme at
+arbejde med. Hefnerlampen f. Eks. kræver
+fuldstændig rolig Luft, saa at man ikke maa
+bevæge sig i Nærheden af den; desuden kræves
+der til nøjagtige Bestemmelser i det mindste
+en Fugtighedsmaaling. I Praksis repræsenteres
+derfor Lysenheden i Reglen af et større Antal
+elektriske Glødelamper, der er sammenlignet
+med Hefnerlampen, og som med Mellemrum
+igen sammenlignes. Saadanne Glødelamper, som
+før Sammenligningen har brændt i længere Tid
+og derefter kun bruges med lidt lavere
+Spænding end normalt, besidder en meget høj Grad
+af Konstans. Ved Brugen skal de naturligvis
+have ganske konstant og altid nøjagtig den
+samme elektriske Spænding fra et
+Akkumulatorbatteri. Nylig har Statslaboratorierne i
+England, Frankrig og Amerika vedtaget at bruge
+en Lysenhed, der er 10/9 Gange Hefnerlyset og
+repræsenteres ved Glødelamper paa den nævnte
+Maade. Tallet 10/9 er valgt for at blive saa nær
+som muligt ved den gl. Enhed, Spermacetlyset.
+
+<sp>F.'s Grundbegreber</sp> er foruden
+Lysstyrken Lysstrøm, Lysmængde, Belysning og
+Klarhed. For samtidig med Definitionerne let
+at kunne angive Enhederne for disse Størrelser
+vil vi tænke os et idealt Normallys, d. v. s. en
+Lyskilde af meget lille Udstrækning (et
+Lyspunkt), og som i alle Retninger udsender lige
+saa meget Lys som en Hefnerlampe i vandret
+Retning, og tænke os dette Normallys anbragt i
+Centrum for en Kugleflade med Radius 1 m. Ved
+<sp>Lysstrømmen</sp> til ell. gennem en vis Flade
+forstaas det Lys, der pr Sek. sendes til ell.
+gennem denne Flade; Lysstrømmen maales i
+<sp>Lumen</sp>, idet 1 Lumen er Lysstrømmen
+gennem hver m<sup>2</sup> af den nævnte Kugleflade, nemlig
+Lysstrømmen gennem Enhed af Rumvinkel fra
+et Normallys; gennem <i>s</i> m<sup>2</sup> af Kuglefladen gaar
+altsaa <i>s</i> Lumen og gennem hele Kuglefladen
+4 π Lumen. Multipliceres Lysstrømmen for en
+vis Flade med Sekundernes Antal, faas den
+<sp>Lysmængde</sp> (maalt i
+<sp>Lumensekunder</sp>), som denne Flade modtager i det
+betragtede Tidsrum, 1 m<sup>2</sup> af Kuglen modtager
+altsaa i Sekundet Lysmængden 1 Lumensekund,
+og <i>s</i> m<sup>2</sup> modtager i <i>t</i> Sek. <i>st</i> Lumensekunder.
+Ved en Flades <sp>Belysning</sp> forstaas endelig
+det Lys, som Enhed af Fladen modtager i
+Tidsenheden. Belysningen maales i <sp>Lux</sp> (ell.
+Meterlys); 1 Lux er Belysningen paa Indersiden
+af den omtalte Kugle, nemlig den Belysning,
+som en Flade faar ved vinkelret Bestraaling fra
+1 Hefnerlys i 1 m Afstand fra Fladen. —
+Tænker vi os et Lyspunkt af <sp>Lysstyrken</sp> <i>I</i>
+Hefnerlys, d. v. s., at det i alle Retninger
+udsender I Gange saa meget Lys som en
+Hefnerlampe i vandret Retning, og anbringer vi det i
+Centrum for en Kugleflade med Radius <i>r</i> m,
+bliver Lysstrømmen gennem <i>s</i> m<sup>2</sup> af denne
+Kugleflade Φ = <i>I</i>/<i>r</i><sup>2</sup>·s Lumen; disse <i>s</i> m<sup>2</sup>
+modtager da i <i>t</i> Sek. Lysmængden Φ <i>t</i>
+Lumensekunder. Endelig bliver Belysningen paa
+Indersiden af Kuglefladen <i>E</i> =<i>I</i>/<i>r</i><sup>2</sup> = Φ/<i>s</i> Lux; det
+er den samme Belysning, som en Flade faar
+fra <i>E</i> Normallys anbragt 1 m fra Fladen. —
+Ved <sp>Klarheden</sp> af en udstrakt Lyskilde
+forstaas Lysstyrken af hver Fladeenhed af dens
+Overflade. Den maales i <sp>Hefnerlys pr cm<sup>2</sup></sp>.
+For en alm. Petroleumslampe er Klarheden c. 4
+HL/cm<sup>2</sup>, for et Auernet c. 5,5 HL/cm<sup>2</sup>.
+
+<img>Fig. 1. Hefnerlampe.</img>

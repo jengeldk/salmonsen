@@ -1,0 +1,48 @@
+skærer gennem Magnetfelterne, induceres
+saakaldte Hvirvelstrømme, hvis Strømlinier under
+Polerne er rettede fra Centrum ud imod
+Randen og gaar tilbage i sig selv til begge Sider.
+Disse Strømme paavirkes af Magneterne
+saaledes, at de virker bremsende. Desuden virker
+ogsaa Gnidninger i Kviksølvet bremsende.
+
+Der indtræder nu hurtig en Ligevægtstilstand,
+hvor den drejende Kraft og Bremsekraften er
+lige store og modsatte. Omdrejningshastigheden
+er da omtr. proportional med Strømstyrken, og
+Tælleværket opsummerer saaledes Produktet
+Strøm X Tid, d. v. s. Maaleren er en
+Ampéretimemaaler.
+
+4) <sp>Shunt-Maalere</sp>. Fig. 6 viser skematisk
+en moderne Shunt-Maaler. Største Delen af
+Forbrugsstrømmen passerer Modstanden <i>R</i><sub>3</sub>.
+En Grenstrøm gaar gennem det skiveformede
+Anker <i>A</i>, som bestaar af 3 flade Spoler <i>Sp</i>, der
+er forbundne med en af 3 Lameller bestaaende,
+ganske lille Kommutator. Strømmen ledes ind
+og ud gennem to spinkle Metalbørster og
+gennemløber bestandig Spolerne i en saadan
+Retning, at Kraftlinierne fra Staalmagneten <i>NS</i> faar
+Ankeret til at rotere. Ankerspolerne er fæstede
+paa en Aluminiumskive, ell. helt indesluttede
+i en Aluminiumkapsel, i hvilken der ved
+Rotationen opstaar Hvirvelstrømme i de Partier,
+der til enhver Tid befinder sig i Magnetfelterne.
+Hvirvelstrømmene virker bremsende. Der
+indstiller sig hurtig en stationær Tilstand, ved
+hvilken Omdrejningshastigheden praktisk talt
+er proportional med Strømstyrken. Fig. 7 viser
+
+<img>
+Fig. 7. Shuntmaaler med Skiveanker.
+</img>
+<img>
+Fig. 8. Elektrodynamisk Maaler.
+</img>
+<img>
+Fig. 9. Elektrodynamisk Maaler.
+</img>
+<img>
+Fig. 10. Induktionsmaaler.
+</img>

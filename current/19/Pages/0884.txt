@@ -1,0 +1,140 @@
+ret kompliceret Apparatur. Man er derfor gaaet
+over til andre Metoder og især til at modtage
+ved Hjælp af Telefon og Øre. De elektriske
+Bølgers Frekvens er imidlertid saa høj, at de
+ikke egner sig til direkte at paavirke Telefonen,
+og Øret er i hvert Fald ikke i Stand til at høre
+saa høje Toner. For at komme om ved denne
+Vanskelighed, maatte man løse flg. Opgave:
+For hver Gnist, der springer over i Senderen,
+altsaa for hvert Bølgetog, der ankommer til
+Modtageren, skal man have en enkelt
+Strømimpuls gennem Telefonen. Kommer der da paa
+Senderstationen f. Eks. 800 Gnister pr Sek., saa
+vil man i Telefonen paa Modtageren høre en
+Tone med Frekvens 800. Tonen varer en ganske
+kort Tid for en »Prik«, lidt længere for en
+»Streg«. Til Løsning af denne Opgave benytter
+man »Ensrettere« (s. d.), der kun — ell. i hvert
+Fald fortrinsvis — tillader den elektriske Strøm
+at passere i een Retning. Af saadanne
+Ensrettere har man mange forsk. Slags. Her skal
+kun nævnes Krystaldetektoren og
+Elektronrøret. Resultatet af en saadan Ensretning er
+fremstillet skematisk i Fig. 40. Fig. 41 viser
+Strømdiagrammet for en simpel
+Modtagerstation med Krystaldetektoren (<i>D</i>) knyttet direkte
+til Antennen. Denne afstemmes ved at variere
+Værdien af Kondensatoren <i>C</i>, medens <i>C<sub>o</sub></i> er en
+Blokkondensator, der skal tillade de
+højfrekvente Strømme, som passerer Detektoren, at
+slippe uden om Telefonen <i>T</i>. De ankommende
+Bølger inducerer en E. M. K. i Antennen, der er
+proportional med dennes virksomme Højde og
+med Intensiteten af det elektriske Felt i
+Bølgerne.
+
+Den i Fig. 41 viste simple Opstilling giver
+kun en ringe Selektivitet; en noget større kan
+opnaas ved at indskyde en særlig, afstemmelig
+Sekundærkreds, hvortil Detektoren knyttes.
+
+Fig. 42 viser et Elektronrør anvendt som
+Detektor, idet Røret er knyttet til en
+Sekundærkreds (L C). Forholdene er indrettet saaledes,
+at Rørets Tilstand, naar det ikke paavirkes af
+Signaler, fremstilles ved et Punkt, der ligger
+paa den krumme Del af Karakteristikken,
+altsaa omkr. <i>a</i> i Fig. 31. Den krumme
+Karakteristik vil paa sædvanlig Maade give
+Ensrettervirkning, og de tilsvarende Strømændringer vil
+paavirke den i Pladeløbet indskudte Telefon
+(<i>T</i>). Er de af de ankommende Bølger
+inducerede Svingninger kun svage, kan de
+forstærkes under Benyttelse af det samme Rør ved
+Anvendelse af en Tilbagekobling fra Pladeløbet
+til Gitterløbet. Et Eksempel paa Anordningen
+af en saadan Tilbagekobling er vist i den lille
+Figur til højre i Fig. 42. Virkemaaden er i
+Hovedsagen flg.: De i Sekundærkredsen
+inducerede Strømme fremkalder Variationer i
+Gitterspændingen, der atter — p. Gr. a. at
+Rørets Voltforstærkningsfaktor er meget større
+end 1, f. Eks. beliggende omtr. 10 til 30 —
+fremkalder betydelig stærkere Strømvariationer
+i Pladeløbet, og gennem den viste
+Tilbagekobling (<i>m</i>) inducerer disse ny Spændinger i
+Gitterløbet, der atter fremkalder Strøm
+variationer i Pladeløbet, og disse giver gennem
+Tilbagekoblingen ny Spændinger i
+Gitterløbet, o. s. fr. Er Tilbagekoblingen meget
+fast, kan Røret komme til at virke som
+Generator for elektriske Svingninger, hvis Frekvens
+er bestemt af Kredsen (<i>CL</i>). Ved denne
+Indstilling egner Røret sig ikke til Modtagerorgan;
+vælges Tilbagekoblingen derimod lidt mindre
+end den, der giver Generatorvirkning, saa vil
+Forstærkningen af de opr. fra Antennen
+inducerede Svingninger blive stor og Modtagerens
+Følsomhed tilsvarende stor. I
+<sp>Super-Regenerativ Metoden</sp> anvendes en periodisk
+varierende Tilbagekobling, der i en Del af hver
+Periode er saa stærk, at den er over den
+kritiske Værdi, saaledes at Røret, hvis Tilstanden
+opretholdtes i længere Tid, vilde give sig til at
+virke som Generator (vilde »synge«). I den
+anden Del af Perioden er Tilbagekoblingen
+imidlertid under den kritiske Værdi, og naar
+denne Tilstand veksler tilstrækkelig hurtig —
+og denne Veksling kan f. Eks. frembringes af en
+særlig Høj frekvenssvingning med relativ meget
+lav Frekvens — saa faar Røret ikke Tid til at
+gaa over i Generatorstadiet, men da
+Tilbagekoblingen en Del af Tiden ligger over den
+kritiske Værdi, faas en meget stor Forstærkning.
+
+Rørets nærmere Virkemaade vil i øvrigt
+afhænge af en Rk. Forhold, saasom af Gitterets
+Spænding i Forhold til Glødetraaden, af
+Værdien af Modstanden <i>R'</i> og Kapaciteten <i>C'</i> i
+Gitterløbet. Er saaledes Gitterets Spænding
+positiv i Forhold til Glødetraaden — dette kan
+f. Eks. opnaas ved at forbinde Gitteret til
+Glødebatteriets positive Pol — og er <i>R'</i> meget
+stor (1 ell. fl. Megohm) samt <i>C'</i> lille (f. Eks.
+100 cm), faas den alm. benyttede
+Ensretningsmetode (Audionmetoden). Gitterets
+gennemsnitlige Spænding vil her blive desto mindre, jo
+stærkere de højfrekvente Svingninger, der
+paavirker Gitteret, er. Gitteret vil nemlig i de
+positive Halvperioder af de højfrekvente
+Svingninger opfange Elektroner, der kun kan
+afledes over <i>R'</i>. Jo stærkere denne Strøm er,
+desto lavere bliver Gitterets Spænding, og desto
+mere lukker dette af for Pladestrømmen
+(Strømmens positive Retning er modsat Elektronernes
+Bevægelsesretning).
+
+De opr. Svingninger kan ogsaa forstærkes paa
+andre Maader, idet der dertil anvendes særlige
+Forstærkerrør. Diagrammet for en enkelt Type
+af saadanne Forstærkere er vist i Fig. 43, og
+Princippet i deres Virkemaade forstaas uden
+videre paa Grundlag af det foregaaende. I St f.
+at indskyde Modtageren (<i>M</i>) direkte i
+Pladeløbet, kan man lade de forstærkede Strømme
+i Pladeløbet paavirke en ny Forstærker af
+ganske samme Konstruktion som den viste, og
+dette kan foretages fl. Gange. Derved opstaar
+1 Trin- (1 Lampe-), 2 Trin- (2 Lampe-)
+. . .-Forstærker. Efter som Forstærkerne er indrettet
+for højfrekvente ell. lavfrekvente
+Vekselstrømme kaldes de Højfrekvens- ell.
+Lavfrekvens-Forstærkere. Ofte anvendes baade
+Højfrekvens-(før Detekteringen ell. Ensretningen) og
+Lavfrekvensforstærker (efter Ensretningen). Ved
+<sp>Dobbelt</sp>- ell. <sp>Refleksforstærkning</sp>
+anvendes det samme Rør baade til Høj- og
+Lavfrekvensforstærkning. Man kan derfor med
+faa Rør opnaa en stor Forstærkning. Men den
+rette Samvirken af de til samme Rør knyttede

@@ -1,0 +1,138 @@
+Energi af Legemernes Atomer og Molekyler,
+dels i potentiel Energi hidrørende fra de
+Kræfter, hvormed disse indbyrdes paavirker
+hverandre. Efter denne Teori betyder det, at et
+Legeme afgiver V. til et andet, i Virkeligheden,
+at det afgiver Arbejde til det, blot at der her
+er Tale om molekylært Arbejde, hvorved
+Legemernes Molekyler enkeltvis træder i
+Vekselvirkning med hverandre, saaledes at
+Processens Enkeltheder unddrager sig vor Iagttagelse.
+Naar f. Eks. en Varmemængde gaar ud gennem
+Siderne af den ovenfor omtalte Cylinder med
+Luftmassen, sker det gennem et Arbejde,
+hvorunder Molekylerne i Cylindervæggen udfører
+individuelle uordnede Bevægelser; afleverer
+Luftmassen derimod et Arbejde i almindelig
+Forstand, sker det ved en Flytning af Stemplet
+som Helhed, altsaa gennem en samtidig og ens
+Forskydning af samtlige Molekyler i Stemplet.
+Man kan derfor kalde V. for molekylært
+uordnet Arbejde i Modsætning til det egentlige
+Arbejde, som er et molekylært ordnet Arbejde.
+Denne Forskel mellem de ensartede Størrelser
+V. og Arbejde gør os det forstaaeligt, hvorfor
+det er saa meget lettere at faa et Legeme til
+at afgive sin Energi til os som V. end som
+Arbejde, og det er om dette Spørgsmaal, at
+Varmeteoriens 2. Hovedsætning handler.
+
+<sp>Varmeteoriens 2. Hovedsætning</sp>.
+Man kan formulere Varmeteoriens 1.
+Hovedsætning som Sætningen om Umuligheden af et
+<i>perpetuum mobile</i> af 1. Art (se Art.
+<sp>Perpetuum mobile</sp>). Derved forstaar man en
+periodisk arbejdende Maskine, som vedblivende
+skulde være i Stand til at afgive Arbejde, uden
+at der tilføres den V. eller anden Energi til
+Erstatning. Anvender man imidlertid 1.
+Hovedsætning paa en hel Periode af Maskinen, saa
+maa Maskinens Tilvækst i indre Energi være
+Nul, da Begyndelses- og Slutningstilstanden er
+ens, desuden er den tilførte Varmemængde <i>Q</i>
+forudsat Nul, men saa maa ogsaa det af
+Maskinen udførte Arbejde <i>A</i> være Nul. Et
+<i>perpetuum mobile</i> af 1. Art kan altsaa ikke eksistere.
+Analogt hermed kan man formulere Grundlaget
+for Varmeteoriens 2. Hovedsætning som
+Umuligheden af følgende Maskine, som man kalder
+et <i>perpetuum mobile</i> af 2. Art. Det er en
+periodisk virkende Maskine, som skulde være i Stand
+til at optage V. fra en enkelt Varmebeholder
+og afgive den som mekanisk Arbejde, uden at
+der herved blev nogen anden Ændring tilbage
+i Maskinen eller Omverdenen end netop den
+nævnte. Da der ifølge 1. Hovedsætning fra
+Jorden og Verdenshavene vilde kunne tages uhyre
+Mængder af indre Energi i Form af V. uden
+kendelig Temperaturformindskelse, vilde en
+saadan Maskine, om den kunde fremstilles,
+være lige saa nyttig som et <i>perpetuum mobile</i>
+af 1. Art. Man maa lægge Mærke til, at
+Maskinen kun maa udveksle V. med en enkelt
+Varmebeholder. Tillod man to (med forskellig
+Temperatur), falder Umuligheden bort, thi saa
+bliver Maskinen en almindelig Dampmaskine.
+Man maa endvidere mærke sig Eftersætningen
+om, at der ikke maa være andre Forandringer
+end netop den nævnte Omdannelse fra V. til
+Arbejde. Uden denne Tilføjelse kan man
+udmærket faa V. fra en enkelt Varmebeholder
+omdannet til Arbejde. Vi kunde f. Eks. benytte
+den tidligere omtalte Cylinder med
+Luftmassen, der er nedsænket i Kalorimeterbeholderen.
+Hvis Luftmassen langsomt udvider sig, vil den
+tage V. fra Kalorimetret og afgive den helt som
+Arbejde, idet den selv ikke optager nogen
+Energi. Men Luftmassen indtager da efter
+Processen et større Bumfang end før og er altsaa
+ikke i samme Tilstand. Trykker man den
+sammen til sit oprindelige Rumfang, maa man atter
+tilføre den Arbejde, og det samlede vundne
+Arbejde bliver Nul. Et <i>perpetuum mobile</i> af 2.
+Art vilde man have, hvis man var i Stand til
+at lade den ovenfor omtalte Gnidningsproces
+med Vinden gaa i modsat Retning, saa at der
+opstod en aktiv »negativ« Gnidningskraft, som
+hævede Loddet og i Stedet for tog V. fra de
+gnidende Flader. At et saadant direkte
+virkende <i>perpetuum mobile</i> af 2. Art ikke nogen Sinde
+er iagttaget, undres vi ikke over, men
+Sætningen paastaar, at det heller ikke ad nogen som
+helst Omvej vil være muligt at realisere det.
+Beviset herfor føres indirekte, ved at man
+drager Konsekvenserne af Sætningen, anvendt paa
+de forskelligste fysiske Systemer, og
+eksperimentelt finder disse Konsekvenser opfyldt.
+
+<sp>Reversible og irreversible
+Processer</sp>. For at kunne følge denne
+Slutningsrække maa vi først kort omtale Forskellen
+mellem reversible og irreversible Processer (se
+ogsaa <sp>reversibel</sp>). En reversibel Proces er
+en Proces, som i alle Enkeltheder kan foregaa
+ogsaa i modsat Retning, saaledes at det
+betragtede System gennemløber alle den oprindelige
+Proces' Tilstande i modsat Rækkefølge. Til de
+reversible Processer hører f. Eks. Processerne
+1) og 2) med Luftmassen i Cylinderen. Vi kan
+lade Processerne gaa i modsat Retning ved at
+lade Stemplerne bevæge sig udad. Derimod er
+den lige omtalte Gnidningsproces aabenbart en
+irreversibel Proces. En anden typisk
+irreversibel Proces, som vi senere vil vende tilbage til,
+er Overstrømningen af en Luftmasse fra en
+Beholder til en anden, tom Beholder; thi den
+modsatte Proces, at Luften af sig selv skulde
+stuve sig op i den ene Beholder og tømme sig
+ud af den anden, er aabenbart umulig. Strengt
+taget er Processerne med Stempelcylinderen
+heller ikke helt reversible, selv ikke naar vi
+ser bort fra Stempelgnidningen. Naar Stemplet
+nemlig skydes indad med en kendelig
+Hastighed, vil der dannes en Opstuvning af Luft foran
+Stemplet, som vil bevirke et ekstra Overtryk
+paa Stemplet ud over det, hvormed det
+normalt under Ligevægt vilde blive paavirket i den
+betragtede Stempelstilling; naar det derimod
+passerer samme Stilling med udadgaaende
+Hastighed, vil der være et lige saa stort
+Undertryk. Følgen vil altsaa være, at naar det er os,
+der afgiver Arbejde til Luften, vil Arbejdet
+blive noget større, og naar det er Luften, som
+afgiver Arbejdet, vil det blive noget mindre, kun
+naar Processen forløber uendelig langsomt
+gennem lutter Ligevægtstilstande, bliver Arbejdet
+ens, og Processen fuldstændig reversibel.
+Lignende Betragtninger kan anstilles over for
+Varmeudvekslingen mellem Luftmassen og

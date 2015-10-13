@@ -1,0 +1,140 @@
+hvis Temperaturstigning er et Maal for den
+tilførte Varmemængde. Man har dertil valgt
+Vand og defineret Varmeenheden, en Kalorie,
+som den Varmemængde, der tilført 1 g
+Vand ved 14,5° forøger dets Temperatur til
+15,5°. <i>n</i> Kalorier vil give <i>n</i> g Vand den nævnte
+Temperaturstigning. Herpaa er de almindelige
+Kalorimetermaalinger grundet. Ved Hjælp af
+Kalorimetret kan man nu bestemme Stoffernes
+Varmefylde, hvorved forstaas den
+Varmemængde i Kalorier, der skal tilføres 1 g af
+Stoffet for at forhøje dets Temperatur 1 Grad.
+For Vand ved 15° er den definitionsmæssig lig
+1. Varmefylden afhænger ikke blot af Stoffet,
+men ogsaa af Temperaturen. For Vand ved
+10° C. er den saaledes 1,0013, ved 20" 0,9990.
+
+Indførelsen af Kalorimetret bragte den
+opsigtsvækkende Opdagelse af <sp>Smeltevarmen</sp>.
+At man kan tilføre 1 g Is ved 0° 80 Kalorier uden
+derved at forhøje dens Temperatur det
+mindste, men blot omdanne den til Vand af samme
+Temperatur, lyder jo ganske paradoksalt. Paa
+den anden Side forklarer den Omstændighed,
+at der eksisterer en saadan Smeltevarme, netop
+det ejendommelige Forhold, at den smeltende
+Is kan holde sin Temperatur konstant. Kort
+efter opdagedes ogsaa
+<sp>Fordampningsvarmen</sp>, der for 1 g Vand ved 100° beløber
+sig til 537 Kalorier, en endnu mere imponerende
+Størrelse. Saadanne Varmetoninger som
+Smeltevarme og Fordampningsvarme, hvor den
+optagne Varmemængde ikke giver Anledning til
+Temperaturændring, kaldes med et fælles Navn
+for bunden eller latent (d. e. skjult) V.
+
+Betydningen af de to grundlæggende
+Varmebegreber <sp>Temperatur</sp> og
+<sp>Varmemængde</sp>, hvis Definitioner vi har givet i dette
+indledende Afsnit, vil blive nærmere omtalt i det
+følgende. Først under den mekaniske
+Varmeteori, hvis 1. Hovedsætning sætter
+Varmemængde ækvivalent med den rent mekaniske
+Størrelse Arbejde og fører til Erkendelsen af en
+<sp>indre Energi</sp> i Legemerne og dermed til
+Loven om Energiens Bestaaen, og hvis 2.
+Hovedsætning giver en af Termometerstoffet
+uafhængig Temperaturdefinition og leder til
+Indførelsen af en ny fysisk Størrelse,
+<sp>Entropien</sp>, som paa en egenartet Maade belyser
+Muligheden for Udnyttelsen af den indre Energi.
+Derefter faar alle disse Begreber, Temperatur,
+Varmemængde, indre Energi og Entropi en
+uddybet Fortolkning i Afsnittet om den kinetiske
+Varmeteori, som forudsætter Legemerne
+opbyggede af Atomer og Molekyler, paa hvis
+Bevægelser den anvender Mekanikkens og
+Statistikkens Love.
+
+V.'s <sp>Stofteori</sp>. Om V.'s Natur blev der i
+det 17. og 18. Aarhundrede fremsat væsentlig
+to Teorier, Stofteorien, hvorefter V. skulde
+være et særligt, vægtløst Stof, der
+gennemtrængte de varme Legemer, og
+Bevægelsesteorien, hvorefter den skulde bestaa i en
+Bevægelse af Legemernes egne Smaadele, altsaa
+være en Energiform. Ved
+Kalorimetermaalingerne i Slutningen af det 18. Aarhundrede
+styrkedes Antagelsen af V. som et Stof, og den blev
+først endelig fortrængt af den mekaniske Teori
+ved Midten af det 19. Aarhundrede. Det
+karakteristiske for et Stof er, at det er til Stede i en
+bestemt begrænset Mængde, det kan flyttes fra
+et Sted til et andet, men dets samlede Mængde
+maa forblive konstant. Men i den almindelige
+Kalorimeterligning er det netop en saadan
+Konstans, der udtrykkes, naar man sætter den
+Varmemængde, som Kalorimetret modtager, lig
+med den, som det undersøgte Legeme afgiver.
+Naar Legemerne viser forskellig Varmefylde,
+maa det efter Stofteorien bero paa deres større
+eller mindre Evne til at binde Varmestoffet, saa
+at det ikke virker paa Termometret eller
+Sanserne. Smeltevarmen forklarede man ved, at
+Isens Varmefylde er mindre (0,5) end Vandets
+(1). Tænker man sig nemlig samtidig, at det
+Nulpunkt, hvor Legemerne ikke indeholder
+noget Varmestof, ligger ved — 160°, maa man
+tilføre 1 g Is og 1 g underafkølet Vand, i
+denne Tilstand henholdsvis 0,5 . 160 = 80
+Kalorier og 160 Kalorier, for at varme dem
+op til 0° C. Differencen i deres
+Varmeindhold vilde da netop blive lig med
+Smeltevarmen. Skulde den samme Betragtning
+gennemføres ved Fordampningen, maatte
+aabenbart Vanddampenes Varmefylde være meget
+større end Vandets. I Virkeligheden er den
+mindre, nemlig kun c. 0,5, men det vidste man
+ikke dengang. Hvad der især voldte
+Vanskelighed for Stofteorien, var mest
+Varmeudviklingen ved Gnidning. Men Gnidning spiller slet
+ingen Bolle ved almindelig Kalorimeterforsøg
+og byder sig derfor ikke frem til kvantitativ
+Undersøgelse, og for Arbejde hidrørende fra
+V. i Dampmaskinen havde man en, som det
+syntes, god Teori, fremsat 1824 af Sadi Carnot.
+
+<sp>Arbejde og Energi i Mekanikken</sp>.
+Før vi gaar over til nærmere at omtale den
+mekaniske Varmeteori, vil vi som Indledning
+kort belyse de mekaniske Begreber, Arbejde og
+Energi, som er nødvendige for dens
+Forstaaelse, ved at betragte et konkret Eksempel fra
+Mekanikken. I Fig. 1 er fremstillet en Vinde,
+der bærer to Lodder <i>K</i> og <i>B</i> kg, hvis
+Bevægelser er begrænset ved de faste Niveauflader
+<i>N</i>1 og <i>N</i>2. Vi vil forudsætte, at Vinden er
+gnidningsfri, og at Lodderne er afpasset saaledes,
+at der er Ligevægt. Ved <sp>Arbejde</sp> forstaar
+man i Fysikken Produktet af Kraft og Vej
+(nøjagtigere Vejens Projektion paa Kraftretningen).
+At et Legeme har Energi, vil sige, at det er i
+Stand til at udføre Arbejde, og Legemets
+Energiindhold maales ved det største Arbejde, som
+det overhovedet har Mulighed for at udføre.
+Anvendt paa det betragtede Tilfælde, ser vi, at
+Loddet <i>K</i> har Energi. Det kan nemlig udøve
+et Træk paa <i>K</i> kg gennem Vejen <i>k</i> Meter,
+hvorved det udfører Arbejdet K . <i>k</i>
+Kilogrammeter. For at faa det til at udføre dette
+Arbejde behøver vi paa Grund af Ligevægten og
+Gnidningsfriheden blot at give det et ganske
+lille nedadrettet Stød — som i sig selv kun
+betyder en forsvindende lille Energitilvækst —
+saa vil det jævnt og langsomt bevæge sig nedad
+til dets laveste Stilling, samtidig vil <i>B</i> være
+løftet op i sin højeste Stilling. Naar <i>K</i> er i sin
+laveste Stilling, har det ingen Energi længere,
+men til Gengæld har <i>B</i> en Energi, som regnet
+paa analog Maade er <i>B</i> . <i>b</i>. I Mekanikken viser

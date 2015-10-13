@@ -1,0 +1,171 @@
+saadanne Genstande, om hvilke man i daglig
+Tale siger, at de har samme <sp>Form</sp>. Figurerne
+kaldes <sp>ligedannede</sp>, og Beviset for deres
+L. føres altid ved, at man bringer dem i den
+saakaldte <sp>ligedanne Beliggenhed</sp>, ell.
+konstruerer en 3. Figur, der er kongruent med
+den ene af dem og ligedan beliggende med den
+anden. Den ligedanne Beliggenhed defineres
+paa flg. Maade: To Figurer er ligedan
+beliggende m. H. t. et Punkt <i>O</i>,
+<sp>Fællespunktet</sp>, naar der til hvert Punkt <i>A</i> i den ene
+Figur svarer et Punkt <i>A</i><sub>1</sub> i den anden og
+omvendt, saaledes at <i>A</i> og <i>A</i><sub>1</sub> ligger i samme rette
+Linie gennem <i>O</i> og <i>OA</i><sub>1</sub> = <i>m</i>. <i>OA</i>, hvor <i>m</i> er
+et konstant Tal, der kaldes Figurernes
+<sp>Ligedannethedsforhold</sp> eller <sp>lineære
+Forhold</sp>. Efter som <i>m</i> er positiv ell.
+negativ, skal <i>A</i> og <i>A</i><sub>1</sub> ligge paa samme ell. modsat
+Side af <i>O</i>. Til hinanden svarende Punkter i de
+to Figurer kaldes <sp>ensliggende</sp>;
+ensliggende Figurdele er saadanne, hvis Punkter svarer
+parvis til hinanden. Til en ret Linie ell. Plan i
+den ene Figur svarer en dermed parallel ret
+Linie ell. Plan i den anden; to Linier i den ene
+Figur danner samme Vinkler som de dermed
+ensliggende. Ensliggende Længders Forhold er
+numerisk = <i>m</i>, saa at de to Figurer er
+ligedannede; ensliggende Arealers Forhold = m<sup>2</sup>,
+ensliggende Rumfangs = m<sup>3</sup>. Gælder for to Fig.
+af en vis Art den Sætning, at de er kongruente
+ell. symmetriske, hvis de har visse Længder,
+Forhold mellem Længder og Vinkler lige store,
+vil de være ligedannede, hvis de har
+Længderne proportionale og Forholdene og Vinklerne
+lige store; saaledes kan Sætningerne om plane
+Trekanters L. udledes af
+Kongruenssætningerne. Hvis Kongruens- og Symmetrisætningerne
+kun kræver een Længde lige stor, er Figurerne
+altid ligedannede, hvis Forholdene og Vinklerne
+er lige store (Eks. Regulære Polygoner med
+samme Sideantal, regulære Polyedre af samme
+Art, Cirkler, Kugler, Parabler).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Ligedelere">
+<b>Ligedelere,</b> se <sp>Fetaljebrødre</sp>.
+</chapter>
+
+<chapter name="ligefinnet">
+<b>ligefinnet</b> (Blad), se <sp>sammensat</sp>.
+</chapter>
+
+<chapter name="ligeribbet">
+<b>ligeribbet</b> (Blad), se <sp>Blad</sp>, S. 368.
+</chapter>
+
+<chapter name="ligesidet">
+<b>ligesidet</b> (mat.) kaldes en plan ell. sfærisk
+Trekant, naar dens 3 Sider er indbyrdes lige
+store; dens Vinkler er da ogsaa lige store, og
+det samme gælder dens Højder, der tillige er
+Medianer og Vinklernes Halveringslinier, og af
+hvilke enhver deler Trekanten i to symmetriske
+retvinklede Trekanter. I den plane l. Trekant
+er alle Vinklerne 60°; kaldes Siden <i>s</i>, er
+Højderne = <i>s</i> · √3/2, Radierne i den ind- og
+omskrevne Cirkel henholdsvis .= <i>s</i> · √3/6 og
+<i>s</i> · √3/3, og Arealet = <i>s</i><sup>2</sup> · √3/4.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="lige Tal">
+<b>lige Tal</b> kaldes de hele Tal, der er delelige
+med 2.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Ligeti, Anton">
+<b>Ligeti</b> ['ligæte], <sp>Anton</sp>, ung.
+Landskabsmaler, f. 1823 i Nagy-Károly, d. 1890 i Budapest,
+uddannede sig i Firenze under K. Markó og
+blev 1868 Kustos ved Budapests Nationalgaleri.
+Mange populære Landskabsbilleder som
+»Taormina«, »Sahara-Ørkenen«, »Jerusalems Omegn«,
+i Budapests Mus. »Fiume«, »Klostret St Saba«
+(købt af den østerr. Kejser) etc.
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Ligetræk">
+<b>Ligetræk</b> (ved Geværlaase), se
+<sp>Haandskydevaaben</sp>, S. 586.
+</chapter>
+
+<chapter name="Ligevægt">
+<b>Ligevægt</b> er den Tilstand, hvori et Legeme
+ell. et System af Legemer befinder sig, naar
+de indre og ydre Paavirkninger, hvorfor det er
+udsat, ikke frembringer nogen Forandring i
+Systemet. Man taler om <sp>mekanisk L.</sp>, naar
+Bevægelses- ell. Hviletilstanden ikke forandres,
+om <sp>termisk L.</sp>, naar der ingen
+Temperaturforandringer foregaar, om <sp>elektrisk L.</sp>,
+naar den elektriske Tilstand ikke forandres, og
+om <sp>kemisk L.</sp>, naar de kem. Processer, der
+muligvis foregaar, tilintetgør hinandens
+Virkninger, saa Systemets kem. Tilstand vedbliver
+at være den samme. Man kalder en
+Ligevægtstilstand <sp>stabil</sp> ell. stadig, naar Systemet efter
+en lille Forstyrrelse, fremkaldt ved Indgreb
+ude fra, vender tilbage til sin opr. Tilstand.
+Den kaldes <sp>labil</sp> ell. ustadig, naar
+Forstyrrelsen fremkalder Tilstande, der faar den til at
+vokse, og endelig kaldes en L. <sp>indifferent</sp>
+ell. ligegyldig, naar Forstyrrelsen hverken
+fremkalder en Tilbøjelighed til at vende tilbage til
+den opr. Tilstand ell. til at fjerne sig endnu
+længere fra den. En ensartet Kugle er
+Eksempel paa et Legeme i stabil, labil ell.
+indifferent L., efter som den henholdsvis ligger i
+Bunden af en Skaal, paa det øverste Punkt af
+en Hvælving ell. paa en plan, vandret Flade.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Ligevægtslære">
+<b>Ligevægtslære</b> eller <sp>Statik</sp>, se
+<sp>Aërostatik</sp>, <sp>Elektrostatik</sp>,
+<sp>Hydrostatig</sp> og <sp>Statik</sp>.
+</chapter>
+
+<chapter name="Ligfald">
+<b>Ligfald,</b> d. s. s. <sp>Epilepsi</sp>.
+</chapter>
+
+<chapter name="Ligforgiftning">
+<b>Ligforgiftning.</b> Et Begreb, der omfatter
+meget forskelligartede Tilstande, og som derfor
+helst burde udgaa af den med. Terminologi.
+Begrebet omfatter: 1) Forgiftning med Stoffer,
+der dannes, naar Æggehvidestoffer og Lipoider
+undergaar Forraadnelse (d. v. s. Sønderdeling
+ved Forraadnelsesbakteriers Livsproces).
+Saadanne Stoffer vil findes i Lig af Mennesker,
+Dyr og til Dels ogsaa Planter, og de vil kunne
+fremkomme hurtigere ell. langsommere efter
+Arten af de tilstedeværende Bakterier, efter
+den tilstedeværende Temp. etc., kort sagt
+eftersom Betingelser er til Stede, der mere eller
+mindre begunstiger Bakteriernes Trivsel. De
+paagældende Stoffer, der virker mere eller
+mindre giftigt, enten indført med Føden eller
+indsprøjtet under Huden, kaldes Liggifte, eller
+med et af <sp>Selmi</sp> (»Ber. d. D. chem. Ges.«,
+Bd XLI, 1838) først benyttet fremmed Ord
+<sp>Ptomainer</sp> (af gr. πτῶμα = Lig). Det er
+Stoffer, der i mange Henseender staar
+Plantealkaloiderne nær, ogsaa i deres fysiologiske
+Virkninger. Af forraadnende Plantestoffer, Gær
+f. Eks., kan fremstilles ptomainlignende Stoffer,
+saaledes det saakaldte <sp>Sepsin</sp> (Faust). Ogsaa
+de saakaldte <sp>Leukomainer</sp> (af gr. λεύκωμα
+= Æggehvide) omfatter nærstaaende Stoffer,
+men de dannes i den endnu levende
+Organisme ved Bakteriers Spaltning af
+Æggehvidestoffer. Et af de tidligst efter Døden som Følge
+af Forraadnelse optrædende Stoffer er
+<sp>Cholin</sp> (et Spaltningsprodukt af Lecithin). Ved
+videre fremskridende Forraadnelse dannes
+<sp>Neuridin</sp>, <sp>Trimetylamin</sp>, <sp>Cadaverin</sp>

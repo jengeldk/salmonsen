@@ -1,0 +1,134 @@
+Tabel II
+<table>
+<td c>Anvendelse til<td c>1900<br>H. K.<td c>1907<br>H. K.<td c>1913<br>H. K.<td c>1922<br>H. K.<td c>1926<br>H. K.
+<td>Træforædling<td r>90000<td r>117000<td r>180000<td r>220000<td r>230000
+<td>Elektricitetsforsyningen<td r>8000<td r>31000<td r>125000<td r>570000<td r>690000
+<td>Elektrokemisk og elektrometallurgisk Industri<td r>10000<td r>48000<td r>390000<td r>770000<td r>840000
+<td>Andre Industrier<td r>36000<td r>42000<td r>60000<td r>140000<td r>150000
+<td>Sum<td r>144000<td r>238000<td r>755000<td r>1700000<td r>1910000
+</table>
+
+I 1880 var udbygget i alt 30000 H. K. Det
+var dog først omkring 1890, at de første
+Vandkraftelektricitetsværker blev bygget i Skien og
+i Hammerfest. Paa den Tid var der udbygget
+60000 H. K. Den senere Udvikling af
+Vandkraften fremgaar af Tabel II. Den stærkeste
+Vækst begyndte 1906—07 sammen med den
+elektro-kemiske Industris.
+
+Selv om det borgerlige Behov af Elektricitet
+er meget stort, er der dog et stort
+Kraftoverskud, som kan udnyttes for Industriens Behov.
+I Tabel III er angivet en Række større
+Vandfald, som særlig egner sig for Storindustrien
+og den almindelige Elektricitetsforsyning.
+
+<table>
+<td 2 c>Tabel III.
+<td 2 c>Fortegnelse over Norges vigtigste<br>Vandkraftkilder.
+<td 2 c>A. Det nordlige Norge.
+<td><td r>Antal el. H. K.
+<td>Elvegårdselven<td r>126000
+<td>Sulitjelmavassdraget<td r>63000
+<td>Sulitjelmavassdraget<td r>28000
+<td>Glåmfjord<td r>140000
+<td>Røsåen, 5 Anlæg<td r>267000
+<td 2>
+<td 2 c>B. Det sydlige Norge.
+<td>Tunnsjødalfaldene, Nord-Trøndelag<td r>120000
+<td>Fiskumfosss, Nord-Trøndelag<td r>40000
+<td>Follafoss<td r>21400
+<td>Stjørna og Osa<td r>23000
+<td>Forra, Stjørdalen<td r>48000
+<td>Lundesokna<td r>13500
+<td>Aura, Møre<td r>235000
+<td>Mardøla, Møre<td r>42000
+<td>Tafjord, Møre<td r>40000
+<td>Tyssa, Søndmøre<td r>17000
+<td>Bremanger, Nordfjord<td r>26000
+<td>Alfoten, Nordfjord<td r>53000
+<td>Gaulavassdraget, Sogn<td r>37000
+<td>Høyanger, Sogn<td r>86000
+<td>Årøvassdraget, Sogn<td r>52000
+<td>Jostedalselven, Sogn<td r>60000
+<td>Feigum, Lyster, Sogn<td r>20000
+<td>Fortunelven, Sogn<td r>130000
+<td>Tyin, Sogn<td r>120000
+<td>Matre, Nordhordland<td r>90000
+<td>Arne og Tenne, Sogn<td r>60000
+<td>Aurland, Hordaland<td r>200000
+<td>Herlandsfossen<td r>8000
+<td>Samnanger<td r>12000
+<td>Bergdalselven (Dale, kr.an)<td r>74000
+<td>Teigdalen<td r>36000
+<td>Torfin<td r>40000
+<td>Bjølva<td r>45000
+<td>Osa, Hardanger<td r>95000
+<td>Sima, Hardanger<td r>45000
+<td>Veigo, Hardanger<td r>165000
+<td>Kinservik, Hardanger<td r>116000
+<td>Tysse, Hardanger<td r>200000
+<td>Låtefoss, Hardanger<td r>100000
+<td>Mauranger, Ryfylke<td r>91000
+<td>Blåfaldene, Ryfylke<td r>95000
+<td>Vaule<td r>30000
+<td>Saude, Rogaland<td r>130000
+<td>Bratlandsdalen, Rogaland<td r>80000
+<td>Bleskestadelven, Rogaland<td r>75000
+<td>Ulla, Rogaland<td r>175000
+<td>Førra, Rogaland<td r>87000
+<td>Lyse, Rogaland<td r>140000
+<td>Flørli, Rogaland<td r>13500
+<td>Maudal<td r>14000
+<td>Åen Sire, Vest-Agder<td r>50000
+<td>Øvre Siru - Dorgefoss 70000<td r>227000
+<td>Øvre Kvina<td r>100000
+<td>Håverstad<td r>25000
+<td>Skjerka<td r>77000
+<td>Vigelandsfoss, Otra<td r>11000
+<td>Hunsfoss, Otra<td r>9600
+<td>Røiknes Fidjefoss, Otra<td r>45000
+<td>Nomeland<td r>12700
+<td>Sundfoss<td r>40000
+<td>Rygene<td r>10000
+<td>Bøilefoss<td r>30000
+<td>Høgefossen<td r>16600
+<td>Toke, Telemark<td r>270000
+<td>Sundsbarm, Telemark<td r>15000
+<td>Klosterfoss, Skien, Telemark<td r>7000
+<td>Skotfoss, Telemark<td r>15000
+<td>Tinnfos, Telemark<td r>23000
+<td>Lienfoss, Telemark<td r>16000
+<td>Svælgfoss, Telemark<td r>45000
+<td>Grønvoldfoss, Telemark<td r>16500
+<td>Årlifoss, Telemark<td r>16500
+<td>Rjukan III, Telemark<td r>24000
+<td>Såheim, Rjukan II<td r>128000
+<td>Vemork, Rjukan I, Telemark<td r>148000
+<td>Frøistul, Telemark<td r>22000
+<td>Mårelven, Telemark<td r>125000
+<td>Heklafoss, Numedalslågen<td r>9500
+<td>Vättingfoss<td r>13000
+<td>Labro, Gravenfoss<td r>36000
+<td>Nore, nedre Anlæg<td r>50000
+<td>Nore, øvre Anlæg<td r>135000
+<td>Hakavik<td r>5800
+<td>Embretfoss<td r>30000
+<td>Kistefoss—Kaggefoss<td r>36000
+<td>Ramfoss<td r>14000
+<td>Hønefoss<td r>12000
+<td>Hemsila, Buskerud<td r>67000
+<td>Torpe — Gol<td r>33000
+<td>Våtna<td r>53000
+<td>Holsvasdraget<td r>88000
+<td>Åbjøra, Opland<td r>86000
+<td>Aursund — Jensvold<td r>11400
+<td>Knapfoss, Glommen<td r>11500
+<td>Funnerfoss, Glommen<td r>13800
+<td>Bingfoss, Glommen<td r>16000
+<td>Fossumfoss, Glommen<td r>25500
+<td>Sarpsfoss, Glommen<td r>ca. 50000
+<td>Borregård, Sarpsfoss<td v2 r>50000 
+<td>Hafslund, Sarpsfoss
+</table>

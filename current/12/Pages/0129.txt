@@ -1,0 +1,133 @@
+lavere end forneden. Den videre Udvikling af H.
+med Barometer er efterhaanden udarbejdet særlig
+af Mariotte, Halley, Kästner, De Luc og
+Laplace. De Luc gav (1772) flg. empiriske Formel
+(her dog omregnet til Meter og Celsius Grader):
+<i>h</i>=17972(1+0.00403 <i>t</i><sub>1</sub>+<i>t</i><sub>2</sub>/2) <i>log</i> (<i>B</i>/<i>b</i>),
+hvor <i>h</i> er den søgte Højdeforskel mellem 2
+Punkter, hvoraf der i det nederste er Temp. <i>t</i><sub>1</sub>
+og Lufttrykket <i>B</i> og i det øverste er Temp. <i>t</i><sub>2</sub>
+og Lufttrykket <i>b</i>.
+
+En fuldstændigere Formel til Beregning af
+Højdeforskellen mellem to Stationer, og hvori
+der tages Hensyn til Fugtighedsforholdene og
+delvis til Tyngdens Aftagen i Højden er
+<i>h</i> = 18400 <i>log</i> (<i>B</i>/<i>b</i>)(1+<i>t</i>+<i>t</i>/2·273)(1 + 0·377<i>E</i>)·
+(1 + 0·0026 <i>cos</i> φ) (1 + (2 <i>z</i> + <i>h</i>)/<i>R</i> ),
+hvor <i>E</i> er Middeltallet af Forholdet mellem
+Dampspænding og Lufttryk ved den øverste
+Station og ved den nederste Station, φ er
+Stedets Bredde, <i>z</i> er den nederste Stations Højde
+over Havet, og <i>R</i> er Jordens Radius. Det
+bemærkes, at saafremt Lufttrykket maales med
+et Kvægsølvbarometer, skal Aflæsningen
+korrigeres til Normaltyngden, før Værdien kan
+indføres i Formlen; den i denne optagne
+Korrektion vedrørende Tyngden angaar jo nemlig
+Luftens Vægt.
+
+Ang. Anvendelsen af Formlen skal i øvrigt
+bemærkes: Da Lufttrykket kun indgaar som <i>B</i>/<i>b</i>,
+er det ligegyldigt, om det ell. de benyttede
+Barometre er inddelt i Tommer og Linier, mm
+ell. Millibar, blot maa Dampspændingen
+naturligvis maales med samme Enhed. En Fejl i
+Lufttrykmaalingen paa <i>n</i> mm Kvægsølv vil
+give en Fejl i H. paa tilnærmelsesvis <i>n</i> 8000/<i>b</i>
+(<i>b</i> ogsaa maalt i mm Kvæg-sølv. Derfor maa der,
+inden man benytter Formlen, rettes for evt.
+Fejl ved Barometrene ogsaa i det Tilfælde, at
+man bruger det samme Barometer først
+forneden og saa foroven, thi selv en konstant Fejl
+ved Instrumentet vil medføre Fejl i Resultatet.
+En Fejl i Middeltemp. af Luftsøjlen mellem de
+to Stationer paa m° giver en omtrentlig Fejl
+i Resultatet paa m. 0,37 %. 1° Fejl paa en
+Højdedifferens af 1000 m giver altsaa en Fejl
+paa 3,7 m. Da en Fejl i Damptrykket paa 1
+mm svarer til en Fejl i Temp. paa kun 0,1°,
+er Fejlen, der hidrører fra en urigtig Maaling
+ell. Bedømmelse af Luftfugtigheden, praktisk
+talt forsvindende. Ang. Tyngdens Bet. for denne
+Art af H. skal her kun gøres opmærksom paa,
+at den i Formlen udtrykte Korrektion
+naturligvis ikke tager Hensyn til lokale Anomalier,
+ligesom der naturligvis ogsaa er Forskel paa,
+om den ene eller begge de to Stationer ligger
+i den frie Atmosfære (Ballon) ell. paa et Bjerg.
+Ang. dette henvises f. Eks. til Hann: »Lehrbuch
+der Meteorologie« (Leipzig 1915, Pag. 817 o. fl.).
+
+Sædvanligvis benytter man til H. med
+Barometre nogle tilnærmede Formler, der ved
+passende Valg af Konstanterne mere ell.
+mindre direkte tager Hensyn til Elementerne. Af
+saadanne Formler, hvoraf der findes adskillige,
+skal her anføres <i>h</i> = 18428 <i>log</i> (<i>B</i>/<i>b</i>)(1+0·002·
+(<i>t</i><sub>1</sub>+<i>t</i><sub>2</sub>))(1+0·0026 <i>cos</i> 2 φ (1+ 2<i>z</i>+<i>h</i>/<i>R</i>),
+der er god mellem —7° og +20° (af Hensyn
+til Fugtigheden), og Babinet's Formel <i>h</i> = 16010·
+(1 + 0·002 (<i>t</i><sub>1</sub> + <i>t</i>.) (<i>B</i>-<i>b</i>/<i>B</i>+<i>b</i>), der ikke
+indeholder nogen Logaritme, medens Köppen's Formel
+<i>h</i> = 73·74 (250 + <i>t</i> + (45 - φ) : 50) <i>log</i> <i>B</i>/<i>b</i> er
+meget let at anvende ved sammenlignende
+Vurderinger, fordi Tyngdekorrektionen
+optræder som et Slags Tillæg til
+Temperaturkorrektionen.
+
+Ved en omhyggeligt gennemført H. med
+Barometre kan Usikkerheden selv i Tilfælde
+af Højdeforskelle paa 3000 m bringes ned til
+faa dm. Se f. Eks. »Meteorol. Zeitschr.« 1909,
+S. 262.
+<i>D. la C.</i>
+</chapter>
+
+<chapter name="Højdemaaling">
+<b>Højdemaaling</b> i Skovbruget udføres oftest
+paa staaende Træer, idet man med et
+Instrument sigter fra samme Sted dels mod
+Topspidsen, dels mod Foden af Træet og paa
+Instrumentet aflæser enten Vinkelen ell. oftere en
+med Træet parallel Linie mellem Sigtelinierne.
+Der er konstrueret en Mængde, i Grundtanken
+kun lidet forsk. Højdemaalere
+(<sp>Hypsometre</sp>, <sp>Dendrometre</sp>) til Brug i Skoven;
+de hyppigst brugte er »Maaletavlen« og
+»Faustmann's Spejlhøjdemaaler«. Den første er en
+kvadratisk Træplade, hvis ene Flade er
+forsynet med et Net af smaa Kvadrater og med
+Tallene fra 0 til f. Eks. 100 langs Kanterne ud
+for hver sin Streg; i det ene Hjørne er en
+Lodsnor fastgjort, og for hver Ende af de to
+Kanter sidder Dioptersigter; man maaler da
+Afstanden fra Træet til et Sted, hvorfra man
+kan se baade Rod og Top af Træet, sigter til
+dem og fastholder Lodsnoren, hvis Stilling i
+Kvadratnettet da giver det søgte Maal. Under
+Brugen holdes Maaletavlen frit i den ene
+Haand, idet der findes en stor Træknap paa
+Bagsiden af Tavlen. — Faustmann's
+Spejlhøjdemaaler er en rektangulær Træplade med et
+Dioptersigte langs den ene og en Inddeling
+langs den anden Kant; vinkelret derpaa og
+et Stykke inde paa Pladen findes en anden
+Inddeling, forsynet med en Skyder, i hvis ene
+Ende Lodsnoren er befæstet; for Enden af den
+inddelte, lange Side er fastgjort et Spejl, i
+hvilket man kan læse denne Inddelings Tal,
+idet de er skrevne med Spejlskrift. Ved
+Brugen indstilles Skyderens Nulstreg paa det Tal,
+som svarer til Iagttagerens Afstand fra Træet,
+og under Sigtet vil da Lodsnorens Stilling paa
+Spejlinddelingen angive det søgte Maal;
+Instrumentet holdes frit i den ene Haand. De
+nævnte Redskaber fortrænges nu af andre, ved
+hvilke man ikke har nødig at maale sin
+Afstand fra Træet, idet man op ad dette har
+stillet en Stang (f. Eks. 2 m lang); man sigter
+da tillige til denne Stangs øverste Ende og
+finder Træets Højde af Forholdet mellem de
+to Aflæsninger.
+

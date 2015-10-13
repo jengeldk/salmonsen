@@ -1,0 +1,196 @@
+slavofile Kredse (Gogol, Pogodin o. a.). M. har
+skrevet talrige Afhandlinger særlig vedrørende
+Lilleruslands Historie og Sprog. En Del af disse
+udgaves samlede i 3 Bd af A. A. Kotljarevskij
+1876—80. Som Litteraturhistoriker har han
+mest beskæftiget sig med den russ. Litteraturs
+ældste Periode (f. Eks. i »Istorija drevnej russkoj
+slovesnosti«), og endelig har han indlagt sig
+Fortjeneste ved at samle lillerussiske
+Folkeviser, som han udgav i 3 Samlinger 1827, 1834
+og 1849.
+<i>H. C-e.</i>
+</chapter>
+
+<chapter name="Maksimum">
+<b>Maksimum</b> (mat.). Hvis en Funktion <i>f (x)</i>
+stadig er reel, naar <i>x</i> gennemløber et Interval
+af den reelle Talrække, siger man, at den har
+et M. for en Værdi <i>a</i> af <i>x</i> i det nævnte
+Interval, hvis <i>f (a)</i> er større end de nærmest flg. og
+foreg. Værdier af <i>f (x)</i>, altsaa hvis <i>f (a + h)</i>
+— <i>f (a)</i> er negativ for uendelig smaa positive og
+negative Værdier af <i>h</i>. Hvis <i>f (a + h)</i> — <i>f (a)</i>
+er positiv for saadanne Værdier af <i>h</i>, siges <i>f (x)</i>
+at have et <sp>Minimum</sp> for <i>x</i> = <i>a</i>. Kan <i>f (a + h)</i>
+— <i>f (a)</i> udvikles i Rk. efter Potenser af <i>h</i> ved
+Taylor's Formel, maa i begge Tilfælde den
+afledede Funktion <i>f<sup>1</sup>(x)</i> være = <i>0</i> for <i>x = a</i>;
+omvendt vil en Værdi <i>a</i> for <i>x</i>, der gør <i>f<sup>1</sup>(a)</i>
+= 0, svare til M. ell. Minimum, hvis det første
+Led af Rk., der ikke er = 0, er henh. negativt
+for alle Værdier af <i>h</i> ell. positivt for dem alle.
+Har Ledet forsk. Tegn for positive og negative
+<i>h</i>, er der hverken M. ell. Minimum. Paa samme
+Maade siges en reel Funktion af fl. reelle
+Variable, f. Eks. <i>f (x, y, z)</i>, at have M. ell.
+Minimum for de reelle Værdier <i>a, b, c</i> af <i>x, y, z,</i>
+hvis <i>f (a + h, b + k, c + l)</i> — <i>f (a, b, c)</i> er
+henh. negativ ell. positiv for alle uendelig smaa
+Værdier af <sp>h, k, l</sp>. Kan denne Differens
+udvikles i en Taylor'sk Rk. efter Potenser af <sp>h, k,
+l</sp>, maa <i>df/dx</i>, <i>df/dy</i>, <i>df/dz</i> være = 0 for <i>x = a</i>, <i>y — b</i>,
+<i>z — c</i>; om omvendt Værdier for <i>x</i>, <i>y</i>, <i>z</i>, der gør
+disse Differentialkvotienter = 0, svarer til M.,
+Minimum ell. ingen af Delene, maa ligesom før
+afgøres ved en Undersøgelse af Fortegnet for
+Summen af Leddene af lavest Grad i
+Rækkeudviklingen.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Makulatur">
+<b>Makulatur</b> (lat.), kasseret Trykpapir, Papir
+af trykte Bøger, benyttet blot som Papir;
+derfor bruges M. om værdiløse Bøger.
+<sp>Makulere</sp>, plette, tilsmudse.
+</chapter>
+
+<chapter name="Makværk">
+<b>Makværk,</b> daarlig udført Arbejde, efter tysk
+»Machwerk«, som opr. betød
+»haandværksmæssigt Arbejde«.
+<i>V. D.</i>
+</chapter>
+
+<chapter name="mal">
+<b>mal</b> (fr.), Onde, Sygdom — bruges i visse
+Sammensætninger som <i>m. perforant</i>
+[-'malpærfå'rã] (<sp>Ligtorn</sp>), <i>petit m.</i> [pti-'mal] (se
+<sp>Epilepsi</sp>). Smlg. <sp>malum</sp>.
+</chapter>
+
+<chapter name="Malabar">
+<b>Malabar,</b> Distrikt paa Forindiens Vestkyst,
+Prov. Madras, har et Areal af 14931 km<sup>2</sup> med
+(1911) 3015119 Indb., 211 pr km<sup>2</sup>, overvejende
+Hinduer, 953381 Muhammedanere, 47015
+Kristne. M. er mod NØ. opfyldt af Ghats-Bjergene,
+der i Camels Hump naar en Højde af 2134 m.
+Mod V. og S. findes Lavland. M. er en af
+Indiens frugtbareste Egne. I Bjergene dyrkes
+Kaffe, i Lavlandet Kokos, Peber, Ingefær, Kanel,
+Arekanødder, Arrowroot o. s. v. Befolkningens
+Sprog er Malayalam. Hovedstaden er Kalikut.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Malabar-Fasan">
+<b>Malabar-Fasan,</b> <sp>Malabar-Finke</sp>
+(<i>Spermestes malabarica</i> L.), en lille Spurvefugl
+udbredt over en stor Del af Indien, i Mængde
+indført til Europa og holdt som Burfugl. Dens
+Ydre berettiger ikke Fasannavnet, idet den er
+ganske uanselig, graa paa Ryggen, hvid paa
+Undersiden.
+<i>O. H.</i>
+</chapter>
+
+<chapter name="Malabar-Finke">
+<b>Malabar-Finke,</b> se <sp>Malabar-Fasan</sp>.
+</chapter>
+
+<chapter name="Malabar-Gummi">
+<b>Malabar-Gummi,</b> en med <i>Gummi arabicum</i>
+nærbeslægtet, men ikke saa værdifuldt Gummi,
+faas af <i>Bombax malabaricum</i> og <i>B.
+pentandrum</i>.
+<i>K. M.</i>
+</chapter>
+
+<chapter name="Malabarisk">
+<b>Malabarisk</b> kaldte man i Europa tidligere,
+nu kun sjældent, de til den dravidiske Sprogæt
+hørende Sprog, der tales paa Malabar-Kysten,
+det er Vestkysten af Dekan, imellem Goa og
+Kap Komorin, særlig det mest udbredte af disse
+Sprog, Tamil (Tamulisk) og vel ogsaa det med
+dette beslægtede Malayalam. I Danmark bruges
+M. ofte om uforstaaelig, besynderlig ell.
+barbarisk lydende Tale.
+<i>V. S.</i>
+</chapter>
+
+<chapter name="Malabar-Kysten">
+<b>Malabar-Kysten,</b> se <sp>Forindien</sp>.
+</chapter>
+
+<chapter name="Malabar-Talg">
+<b>Malabar-Talg,</b> <sp>Vateriafedt</sp>,
+<sp>Plantetalg</sp>, faas af Frøene af <i>Vateria indica</i>. Det er
+et fast Fedtstof, der i frisk Tilstand er
+brunliggult, men bliver hvidt ved Henliggen; det har
+en Haardhed som Faaretalg, smelter ved
+37—42° og bruges til Sæbe og Stearin.
+<i>K. M.</i>
+</chapter>
+
+<chapter name="Malabon">
+<b>Malabon,</b> By ved Manila Bugten, Luzon,
+Filippinerne, 20000 Indb., Fiskeri, Fremstilling af
+Ylang-Ylang Olie.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Malachit">
+<b>Malachit</b> [-'kit], se <sp>Malakit</sp>.
+</chapter>
+
+<chapter name="Malachowski">
+<b>Malachowski</b> [mala'kåfski], <sp>Stanislaus</sp>,
+Greve, polsk Statsmand (1735—1809), var
+Landmarskal paa Rigsdagen 1788—92. Som en afgjort
+Modstander af det russ. Parti var han med at
+slutte Forbundet med Preussen 1790 og en af
+Ophavsmændene til den ny Forfatning 1791,
+medens han forgæves søgte at formaa Kongen
+til at stille sig i Spidsen for Kampen imod
+Targovitz-Konføderationen 1792. Under det ny
+Storhertugdømme Varszava 1807 blev han Formand
+for Senatet.
+<i>E. E.</i>
+</chapter>
+
+<chapter name="Malacodermata">
+<b>Malacodermata,</b> se <sp>Blødbiller</sp>.
+</chapter>
+
+<chapter name="Malacologi">
+<b>Malacologi,</b> se <sp>Konkyliologi</sp>.
+</chapter>
+
+<chapter name="Malacopterygii">
+<b>Malacopterygii,</b> d. s. s. Blødfinnefisk.
+</chapter>
+
+<chapter name="Malacostraca ell. Storkrebsene">
+<b>Malacostraca</b> ell. <sp>Storkrebsene</sp> danner
+sammen med <i>Entomostfaca</i> ell.
+<sp>Smaakrebsene</sp> to af de store Underklasser, hvori
+Krebsdyrene (s. d.) deles. I Modsætning til
+Entomostrakernes Legeme finder man hos M. et
+konstant typisk Antal Segmenter og Lemmer, hvis
+Antal kan formindskes ved Sammensmeltning,
+ell. ved at enkelte Segmenter og Lemmer ikke
+kommer til Udvikling. Legemet falder i 3
+Afsnit: Hoved, Krop og Hale; det første Afsnit
+bestaar af 5—6 Segmenter, alt efter som man
+udskiller et særligt Øjesegment ell. ikke,
+Kroppen af 8 og Halen af 7 Segmenter. Fra Hovedet
+udspringer ofte en stor Hudfold, det saakaldte
+Skjold, der strækker sig bagtil og bedækker
+større ell. mindre Partier af Kroppen; det er
+altid sammenvokset med en Del af Kroppens
+Rygside og er ofte af en betydelig Haardhed og
+Tykkelse. Hovedet bærer de store Sideøjne, der
+hyppigst er stilkede; et Pandeøje mangler i Alm.

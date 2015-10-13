@@ -1,0 +1,31 @@
+<chapter name="RETTELSER OG TILFØJELSER">
+<h1><sp>RETTELSER OG TILFØJELSER</sp></h1>.
+
+<table>
+<td 7 c><sp>BIND I</sp>.
+<td>Side<td>473,<td>Spalte<td>2,<td>Linie<td>7 f. o.<td>næstældste læs: ældste
+</table>
+
+<table>
+<td 7 c><sp>BIND IV</sp>.
+<td>Side<td>486,<td>Spalte<td>2<td>Under Billedet af Calderon skal staa P. ikke H., da Pedro<br>var C's eneste Fornavn (Henao er et af hans Efternavne)
+</table>
+
+<table>
+<td 7 c><sp>BIND VI</sp>.
+<td>Side<td>760,<td>Spalte<td>1,<td>Linie<td>34 f. n.<td>Nordeum læs: Hordeum
+<td c>—<td>760,<td c>—<td>1,<td c>—<td>31 f. n.<td>Tupalidæ læs: Tupajidæ
+</table>
+
+<table>
+<td 7 c><sp>BIND VII</sp>.
+<td>Side<td>191,<td>Spalte<td>1,<td>Linie<td r>3 f. n.<td>Joule- læs: Joule
+<td c>—<td>503,<td c>—<td>2,<td c>—<td r>14 f. o.<td><sp>Grau</sp> læs: <sp>Gran</sp>
+</table>
+
+<table>
+<td 7 c><sp>BIND IX</sp>.
+<td>Side<td>128,<td>Spalte<td>1,<td>Linie<td>21 f. o.<td>Gravhvepse læs: Gravehvepse
+<td c>—<td>168,<td c>—<td>2,<td c>—<td>18 f. n.<td>Horne læs: Hoorne
+</table>
+</chapter>

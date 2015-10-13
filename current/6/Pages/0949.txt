@@ -1,0 +1,137 @@
+være paa indtil 20000 Hestes Kraft; især
+ved Højspændingscentraler, der udnytter
+Vandfald, findes der store Maskinenheder. Fig. 13 viser
+Maskinsalen i Kraftstationen Rjukan II med 10
+Maskinenheder à 11200 KW Vekselstrøm.
+Vekselstrømsturbinedrift med Damp som Drivkraft har
+hidtil været projekteret med Maskinenheder paa
+12000 KW. Fig. 14 viser en Dampturbinecentral
+i Genua paa i alt 26000 KW. Den forreste
+Maskine er paa 10000 KW. De fleste
+Vekselstrømscentraler fremstiller trefaset Vekselstrøm.
+Enfaset Vekselstrøm anvendes mindre hyppigt,
+hovedsagelig kun til Banedrift og ren Lysdrift;
+Systemer med fl. end tre Faser anvendes
+sjældent. Efter Arten af det anvendte
+Samleskinne-System skelner man mellem
+Højspændingsværker med 1) <sp>Enkelt
+Samleskinnesystem</sp>, 2) <sp>dobbelt
+Samleskinnesystem</sp> og 3) <sp>Ringsamleskinnesystem</sp>.
+Det første anvendes ved mindre Centraler, hvor
+Anlægsudgifterne spiller en stor Rolle; de to
+sidste Systemer anvendes lige hyppigt ved
+større Centraler. Fig. 15 viser et enkelt
+Samleskinnesystem. Fig. 16 et dobbelt
+Samleskinnesystem, bestaaende af to Sæt Samleskinner,
+hvoraf kun det ene er i Brug, det andet
+Reserve. Fig. 17 et Ringsamleskinnesystem, hvori
+Samleskinnesættet danner en i to Dele delt
+Ring. Generatorerne udvikler enten direkte
+Højspænding ell. ogsaa Lavspænding, der i
+Transformatorer omsættes til Højspænding. I saa
+Tilfælde findes der undertiden baade
+Højspændings- og Lavspændingssamleskinner, mellem
+hvilke Transformatorerne er indskudte.
+Vekselstrømsgeneratorer udføres sjældent for højere
+Spændinger end c. 15000 Volt, som Regel ikke over
+10-11000 Volt. Skal høje Spændinger anvendes,
+bruges Omsætning i Transformatorer. Ofte har
+en Vekselstrømscentral to forsk. Højspændinger,
+en paa f. Eks. 15000 Volt, hvormed det
+nærmeste Opland forsynes, og en paa f. Eks. 50000
+Volt, hvormed det fjernere Opland forsynes
+gennem Understationer. Der findes da paa
+Højspændingsværket Transformatorer og
+Samleskinner for begge disse Spændinger. Oftest er
+Transformatorerne indskudte direkte efter
+Generatorerne, en mellem hver af disse og
+Samleskinnerne. I saa Tilfælde findes der intet
+primært ell. Lavspændings-Samleskinnesystem.
+Ligesom ved Jævnstrømscentralerne arbejder i
+Vekselstrømscentraler Maskinerne parallelt paa
+Samleskinnesystemet. Betingelserne for, at to
+Vekselstrømsmaskiner kan sættes parallelt, er,
+at de har samme Spænding og løber synkront,
+d. v. s. har samme Omdrejningstal og samme
+Fase. Dette kontrolleres paa Voltmetre og
+Faseindikatorer eller Synkronoskoper. Det er
+ikke ligegyldigt for Synkroniseringen, om
+man anvender ensartede Drivmaskiner
+eller ej. Er Uregelmæssighedsgraden af disse
+for stor (større end 1/250), er det ofte
+umuligt at faa to Vekselstrømsmaskiner i en
+Central til at gaa parallelt. Saaledes er en- og
+tocylindrede Dieselmotorer, hvis
+Uregelmæssighedsgrad ligger mellem 1/100 og 1/250, vanskelige
+at anvende til Drift af synkrone
+Vekselstrømsmaskiner. Tre- og fire-cylindrede Dieselmotorer
+er betydelig bedre at anvende, men endda kan
+Parallelsætning volde Vanskeligheder, navnlig
+med muligt dampdrevne Vekselstrømsmaskiner
+i samme Central. Dampmaskiner og Damp- og
+Vandturbiner egner sig bedst til
+Vekselstrømsdrift, idet deres Uregelmæssighedsgrad kan
+gøres meget lille, hvortil kommer, at deres
+Omdrejningstal kan reguleres inden for snævre
+Grænser. Som nævnt er alle Afbrydere,
+Samleskinner o. l. Apparater for Højspænding i en
+Central anbragte i særskilte Celler i
+Højspændingsanlægget. Da dette imidlertid ikke holdes
+tilgængeligt under Drift, og da Maskiner og
+Apparater maa kunne kontroleres og betjenes
+fra Maskinsalen, anbringes der i denne et
+Tavleanlæg, der indeholder alle
+Maaleinstrumenterne samt mekaniske ell. elektriske
+Fjernstyringsindretninger for Olieafbryderne. Tavleanlægget
+anbringes saaledes, at Maskinsalen kan overses
+fra dette, ofte anbringes det over Maskinsalens
+Gulv, paa en Balkon ell. et Galeri. I
+Apparatanlægget findes der næsten altid et
+Udløsningsapparat for hver Afbryder i Anlægget. Hvert
+af disse Udløsningsapparater, Maksimal- eller
+Tidsrelaiser, udløser (afbryder, aabner) den
+tilhørende Afbryder, naar der af en ell. anden
+Grund opstaar for stor Belastning e. l. i den
+paagældende Del af Anlægget. Magnetiseringen
+af Vekselstrømsgeneratorerne i en Central
+foregaar enten fra en med Generatoren direkte
+sammenkoblet Magnetiseringsmaskine, der er
+en Jævnstrømsdynamo, der bæres af
+Generatorens ene Akselleje og drives fra
+Generatorakslen, ell. fra et Sæt Jævnstrømssamleskinner,
+der faar Strøm fra en Jævnstrømsdynamo, der
+samtidigt maa kunne forsyne alle Generatorerne
+med Magnetiseringsstrøm. Anvendelsen af
+sidstnævnte, den saakaldte
+<sp>Centralmagnetisering</sp>, har den Fordel frem for den første,
+der benævnes Magnetisering ved <sp>direkte
+koblet Magnetiseringsmaskine</sp>, at
+man samtidig kan gøre alle Generatorer
+spændingsløse (nemlig ved Afbrydning af
+Jævnstrømsdynamoen, hvilket er af stor
+Betydning ved Indtrædelse af eventuelle Fejl ell.
+Farer.
+
+3) e. K., der baade fremstiller Jævnstrøm og
+Vekselstrøm, har i Reglen et særskilt
+Jævnstrømsanlæg og et særskilt Vekselstrømsanlæg;
+ofte er Centralen tillige elektrisk Understation
+(s. d.), der omformer den ene Art Elektricitet
+til den anden. Ved et blandet System kan de
+elektriske Maskiner enten drives hver af sin
+Kraftmaskine, ell. en saadan kan drive f. Eks.
+baade en Vekselstrøms- og en
+Jævnstrømsmaskine. Undertiden fremstiller man kun en Del
+af den nødvendige Jævnstrøm direkte, idet
+Resten fremstilles indirekte, derved at en Del af
+den fremstillede Vekselstrøm omformes til
+Jævnstrøm i roterende, elektriske Omformere. Det
+modsatte, at Jævnstrøm omformes til
+Vekselstrøm, er sjældnere Tilfældet. Apparatanlægget
+i en Central for blandet Drift bestaar i
+Hovedtrækkene af to Dele, et Jævnstrøms- og et
+Vekselstrømsapparatanlæg, indrettet hver for sig,
+som foran beskrevet. Østre Elektricitetsværk i
+Kbhvn er en Central med blandet Drift, idet
+der fremstilles saavel Jævnstrøm 2 X 220 Volt
+som Vekselstrøm (trefaset) 3 X 6000 Volt.

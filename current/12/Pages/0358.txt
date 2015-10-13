@@ -1,0 +1,118 @@
+tænke sig, at Strømmen vdd Afbrydning saa at
+sige øjeblikkelig faldt til Nul. Hvis det var
+Tilfældet, vilde Spændingen blive overvættes stor,
+hvad der fremgaar af 4°, hvor <i>di</i>/<i>dt</i> nærmer sig
+uendelig, naar <i>dt</i> nærmer sig Nul. I
+Virkeligheden falder Strømmen i Alm. ikke særlig
+pludselig ved en Anordning som den i Fig. 3 viste,
+og det ligger i den elektriske Gnist ell. Bue,
+der danner sig i Afhrydningsøjeblikket tværs
+over Afbrydningsstedet og derved holder
+Kredsen sluttet i nogen Tid. Energien i denne
+Afbrydningsgnist har sin oprindelse i den
+magnetiske Induktionsliniestrøm. Om denne gælder,
+at det ikke koster noget at vedligeholde den,
+men det koster derimod Energi at frembringe
+den, og denne Energi maa, naar Strømmen skal
+bringes til Ophør, fortæres paa en ell. anden
+Maade. Ved Afbrydningen omsættes den i
+Hovedsagen til Varme i Buen. Man kan vise, at
+Energiens Størrelse er bestemt ved <i>W</i> = 1/2 <i>L</i> <i>i</i><sup>2</sup>.
+Først naar denne Energi er helt opbrugt,
+hører Buen og dermed Strømmen op. Da dette,
+som antydet, tager en rum Tid, giver
+Anordningen i Fig. 3 normalt ikke særlig høje
+Spændinger. Man kunde tænke sig at bøde herpaa
+ved at anvende en Spole med fl. Vindinger,
+idet <i>L</i> i 4° herved bliver større, men man kan
+vise, at dette i Alm. ikke fører til noget, med
+mindre man samtidig sætter Strømkilden <i>B</i>'s
+Spænding endnu stærkere i Vejret end
+Vindingstallet, hvad der i Reglen er ubekvemt.
+Man foretrækker da at forlade Princippet med
+een Spole og gaar over til to, hvoraf den ene,
+den primære Spole, blot tjener til
+Frembringelse af Induktionsliniestrømmen, medens det
+er i den anden, den sekundære Spole, at den
+høje Spænding, man ønsker at frembringe,
+induceres. Skematisk er denne Anordning vist i
+Fig. 5. Den primære Spole giver man
+forholdsvis faa Vindinger, d. v. s. en relativt ringe
+Selvinduktion samt tillige den mindst mulige
+Modstand. Man kan da ved Hjælp af en forholdsvis
+lavspændt Strømkilde, f. Eks. et
+Akkumulatorbatteri paa 10—100 Volt, i Løbet af en ganske
+kort Tid, f. Eks. 1/100 Sek., bringe
+Induktionsliniestrømmen op paa praktisk set Maksimum.
+Den sekundære Spole giver man, for at faa en
+høj Spænding, et relativt stort Antal
+Vindinger, f. Eks. 100—1000 Gange fl. Vindinger, end
+der er paa den primære Spole. For at den
+sekundære Spole skal omslutte praktisk set den
+hele Induktionsliniestrøm, lægger man den
+sekundære Spole uden om den primære
+(altsaa ikke som vist i den skematiske Fig.
+ved Siden af). Det herved fremkomne
+Apparat er, hvad man i Alm. forstaar ved en
+I. I Fig. 6 a er vist, hvorledes Strømmen vokser
+op og efter Afbrydning atter tager af i den
+primære Spole. Fig. har ganske samme
+Karakter som Fig. 4 a. Fig. 6 b viser Spændingen,
+der induceres i den sekundære Spole. Fig. kan
+ogsaa forestille Spændingen, der induceres i
+den primære Spole. De to Spændinger har
+nemlig nøjagtig samme Form, idet de jo induceres
+af nøjagtig den samme Induktionsliniestrøm.
+Har den primære Spole <i>n1</i> Vindinger, den
+sekundære <i>n2</i>, og betegnes den primære resp.
+den sekundære Spænding ved henh. <i>e1</i> og <i>e2</i>,
+haves i Følge Ligning 2°:
+<i>e1</i> = 10<sup>-8</sup> <i>n1</i> · <i>d</i>Φ/<i>dt</i>,
+hvoraf 5° <i>e2</i> = <i>n2</i>/<i>n1</i> · <i>e1</i>.
+
+Den sekundære Spænding bliver altsaa lige
+saa mange Gange større end den primære, som
+det sekundære Vindingstal er større end det
+primære.
+
+Vil man nu yderligere forsøge at sætte
+Spændingen op, maa det ske ved at gøre
+Afbrydningen pludseligere. Det vigtigste Middel hertil
+er angivet af Fizeau og bestaar i Anbringelse
+af en Kondensator <i>C</i>, Fig. 7, parallelt med
+Afbrydningsstedet, ell., hvad der bliver det
+samme, parallelt med den primære Spole. For at
+forstaa Virkningen heraf, maa man lægge
+Mærke til, at Kondensatoren i Forbindelse med den
+primære Spole danner en saakaldt elektrisk
+Svingningskreds. Opstaar der i en saadan Kreds
+en ell. anden elektrisk Forstyrrelse, forholder
+Kredsen sig som et Pendul bragt ud af Ligevægt.
+Hvis Kredsens Modstand ikke er for stor, vil
+Elektriciteten svinge frem og tilbage fra
+Kondensatorens ene Belægning til den anden, indtil
+den ved Forstyrrelsen i Kredsen indførte
+Energi er fortæret i Form af elektrisk
+Strømvarme ell. paa anden Maade. Vi betragter nu Fig.
+7 og tænker os Strømmen fra <i>B</i> sluttet. Den
+vokser da op ganske som før, Fig. 8 a, men
+naar Strømmen nu afbrydes efter Tiden <i>ts</i>,
+sker der i Reglen noget helt andet end før.
+Energien i Induktionsliniestrømningen behøver
+nu ikke at skaffe sig Afløb gennem en
+Afbrydningsbue — og gør det ogsaa kun i ringe Grad.
+Den forvandles til svingende Energi i den
+elektriske Svingningskreds, hvilket i Fig. 8 a giver
+sig til Kende ved, at Strømkurven løber ud i
+en Række Bølger, som først dør bort,
+efterhaanden søm Energien omsættes til Varme i
+Svingningskredsen ell. eventuelt tillige i I.'s
+sekundære Vikling, dersom denne sluttes
+
+<img>Fig. 5.</img>
+
+<img>Fig. 6a.</img>
+
+<img>Fig. 6b.</img>
+
+<img>Fig. 7.</img>

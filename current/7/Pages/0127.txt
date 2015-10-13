@@ -1,0 +1,149 @@
+forbundne Punkter bevæger sig paa hver sin
+rette Linie, saa vil alle andre dermed forbundne
+Punkter beskrive Ellipsebuer, og omvendt, naar
+to af disse Punkter bringes til at beskrive deres
+Ellipsebuer, saa vil hver af de to førstnævnte
+Punkter bevæge sig i deres rette Linier. I
+Praksis erstattes oftest Ellipsebuerne med
+tilstrækkelig Nøjagtighed af Cirkelbuer.
+Indretningen kan være højst forsk. Almindeligst er
+<sp>Evan's E.</sp>, hvor det styrede Punkt er det ene
+Endepunkt af en Stang, hvis Midtpunkt svinger
+i en Cirkelbue om et bestemt fast Punkt, medens
+Stangens andet Endepunkt bevæges i en kort
+ret Linie, der ofte erstattes af en lille, flad
+Cirkelbue. Af andre E. kan nævnes <sp>Robert's</sp>
+Trekantstyring.
+<i>S. C. B.</i>
+</chapter>
+
+<chapter name="Ellipsograf">
+<b>Ellipsograf,</b> et Apparat til kontinuerlig
+Beskrivelse af en Ellipse. Tegnestiften
+er anbragt i Endepunktet <i>F</i> af en
+Stang <i>FE</i>; to Punkter <i>C</i> og <i>D</i> af <i>FE</i>
+tvinges ved Stifter, der bevæger
+sig i to paa hinanden vinkelrette
+Furer i Skiven <i>A</i>, til at følge Furernes
+Midtlinier. Bortset fra Fortegnene er
+<table>
+<td c><i>x</i><td v2>= <i>sin</i> α,<td c><i>y</i><td v2>= <i>cos</i> α, altså<td c><i>x</i><sup>2</sup><td v2>+<td c><i>y</i><sup>2</sup><td v2>= 1;
+<td c><i>FC</i><td c><i>DF</i><td c><i>CF</i><sup>2</sup><td c><i>DF</i><sup>2</sup>
+</table>
+
+<i>F</i> beskriver følgelig en Ellipse med Halvakserne
+<i>CF</i> og <i>DF</i> liggende paa Midtlinierne. Forskydes
+<i>C</i> og <i>D</i> hen ad Stangen, faas Ellipser med andre
+Akser.
+<i>Chr. C.</i>
+
+<img></img>
+</chapter>
+
+<chapter name="Ellipsoide">
+<b>Ellipsoide</b> (<sp>mat</sp>.) er den af de saakaldte
+Keglesnitsflader, i hvilken alle plane Snit er
+Ellipser. Den har tre paa hverandre vinkelrette
+<sp>Hovedplaner</sp>, <i>ABA<sub>1</sub>B<sub>1</sub>, BCB<sub>1</sub>C<sub>1</sub>, CAC<sub>1</sub>A<sub>1</sub></i>,
+der deler den symmetrisk; de Ellipser, hvori
+Hovedplanerne skærer E., kaldes
+<sp>Hovedsnittene</sp>. Hovedplanernes
+Skæringspunkt <i>O</i> er Centrum for E.;
+deres Skæringslinier <i>AA<sub>1</sub>,
+BB<sub>1</sub>, CC<sub>1</sub></i>
+kaldes E.'s <sp>Akser</sp>. Henført til et
+Koordinatsystem, hvori Hovedplanerne er
+<table>
+<td v2>Koordinatplaner, faar E. Ligningen<td c><i>x</i><sup>2</sup><td v2>+<td c><i>y</i><sup>2</sup><td v2>+<td c><i>z</i><sup>2</sup><td v2>= 1,
+<td c><i>a</i><sup>2</sup><td c><i>b</i><sup>2</sup><td c><i>c</i><sup>2</sup>
+</table>
+hvor <i>a</i>, <i>b</i> og <i>c</i> er de halve Akser. E.'s Rumfang
+<table>
+<td v2>er<td c>4<td v2>π . <i>abc</i>. Er <i>a</i>=<i>b</i>, bliver E. en
+<td c>3
+</table>
+<sp>Omdrejningsellipsoide</sp>. Den kan da
+frembringes af en halv Ellipse <i>CFC<sub>1</sub></i> ved Drejning om
+Aksen <i>CC<sub>1</sub></i>; Snittene vinkelrette paa
+Omdrejningsaksen bliver Cirkler med Centrum i denne.
+Efter som Omdrejningsaksen er den
+frembringende Ellipses store ell. lille Akse, faas en
+aflang <sp>Omdrejningsellipsoide</sp> ell. en
+<sp>Sfæroide</sp>.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="elliptiske Funktioner">
+<b>elliptiske Funktioner</b> (<sp>mat</sp>.). Ved disse
+forstodes opr., hvad vi nu kalder elliptiske
+Integraler, ɔ: saadanne, hvor Udtrykket, under
+Integraltegnet er rationalt m. H. t. den variable
+<i>x</i> og Kvadratroden af et Polynomium af 3. ell.
+4. Grad i <i>x</i>; Opmærksomheden henlededes paa
+disse Integraler i 17. Aarh. ved Behandlingen af
+forsk. Problemer, deriblandt Ellipsens
+Rektifikation, hvis Afhængighed af Integralerne gav
+dem deres Navn. De elliptiske Integraler, der
+ikke kunde udtrykkes ved tidligere kendte
+Funktioner, undtagen gennem uendelige Rækker, blev
+behandlede af Euler og Legendre, hvilken
+sidste reducerede dem til tre Hovedformer. Abel
+gik over til at undersøge den højere Grænse for
+et elliptisk Integral som Funktion af Integralets
+Værdi, og Teorien om disse Funktioner, der nu
+kaldes de elliptiske, er udviklet af ham og
+Jacobi (se <sp>Abel</sp> og <sp>Jacobi</sp>). I den moderne
+Funktionsteori har Læren om de e. F., støttet paa
+Riemann'ske Flader, antaget en simplere Form.
+De e. F., der som specielle Tilfælde indbefatter
+de trigonometriske og har et med disse analogt
+Formelsystem, hvori f. Eks. e. F. af Summer
+udtrykkes ved Addendernes e. F.
+(Additionsteoremerne), er dobbeltperiodiske. Deres Bet.
+for Geometrien, Mekanikken, Talteorien m. m.,
+er meget stor, og en Behandling af dem findes i
+de fleste Lærebøger i mat. Analyse.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="elliptisk Polarisation">
+<b>elliptisk Polarisation,</b> se <sp>Polarisation</sp>.
+</chapter>
+
+<chapter name="Ellis, Alexander John">
+<b>Ellis</b> ['e£<sub>i</sub>s], <sp>Alexander John</sp>, eng.
+Videnskabsmand, f. i Hoxton 14. Juni 1814, d. i
+London 28. Oktbr 1890. Han blev opdraget i
+Eton Skole og siden ved Cambridge Univ., men
+beklagede sig senere bittert over det enorme
+Tidsspild ved den alm. Opdragelse, hvor de
+klassiske Sprog slugte al Tid og alle Kræfter,
+medens det, der senere optog hans Tid og
+forekom ham særlig værdifuldt, Naturvidenskaberne,
+Musik, de levende Sprog, helt forsømtes. Efter
+et Par Aars Ophold i Udlandet, især Dresden,
+vendte han tilbage til England, hvor han som
+Privatmand helt helligede sig til sine
+Yndlingsstudier og til sine Yndlingsteoriers praktiske
+Udbredelse. Sammen med I. Pitman aabnede
+han i 1840'erne et ivrigt og dygtigt ført Felttog
+mod den traditionelle eng. Ortografi; fra hans
+eget Trykkeri udgik Bøger og Tidsskrifter om
+og paa en reformeret Stavemaade paa fonetisk
+Grundlag. E. opgav først Kampen mod den
+sejge eng. Konservatisme paa dette Omraade,
+efter at han havde ofret ikke ubetydelige
+Pengesummer, tilsyneladende blot med det Resultat
+at frembringe en ny Skive for Hobens
+Lattermildhed. For E. selv fik denne Kampagne
+væsentlig Bet. ved at lede ham ind paa et
+videnskabeligt Studium af Læren om Sproglyd, det
+Omraade, hvor hans betydningsfuldeste
+Virksomhed skulde falde. Bl. hans Arbejder fra den
+Tid kan nævnes <i>Essentials of Phonetics</i> (1848).
+Da <sp>Alex. Melville Bell</sp> 1867 kom frem
+med sin i Fonetikkens Historie epokegørende
+<i>Visible Speech</i>, sluttede E. sig i alt væsentligt
+til den ny Lære, som han anvendte og udvidede
+i sit Livs store Hovedværk <i>On Early English</i>
+

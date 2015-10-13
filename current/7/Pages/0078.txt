@@ -1,0 +1,152 @@
+muligt at undersøge Sagen ved Hjælp af de
+hurtige β-Straaler, idet man paa sædvanlig
+Maade bestemmer deres specifikke Ladning <i>e/m</i>
+ved Afbøjningsforsøg; det er da den
+transversale Masse, man faar bestemt. De første Forsøg
+blev gjorte af <sp>Kaufmann</sp> (1902). De
+nøjagtigste Forsøg bekræfter Lorentz' Antagelse, at
+E. under Bevægelsen trækker sig sammen i
+Bevægelsesretningen i Forholdet kvadratrod(1-<i>v</i><sup>2</sup>/<i>c</i><sup>2</sup>)):1 (<i>c</i> er
+Lysets Hastighed), medens Dimensionerne
+vinkelret paa Bevægelsesretningen bliver
+uforandrede; kugleformede E. bliver altsaa til
+fladtrykte Ellipsoider. Endvidere udledes af
+Forsøgene, da man ekstrapolerer til den rigtige
+Værdi af <i>e/m</i> for meget smaa Hastigheder, at
+hele E.'s Masse er elektromagnetisk, saa at en
+E. slet ikke indeholder alm. Masse, ikke er en
+Massepartikel med elektrisk Ladning, men
+virkelig et Elektricitetsatom. Under denne
+Forudsætning kan af det nævnte Udtryk for <i>m</i>0
+beregnes E.'s Radius <i>a</i>, hvis den er kugleformet;
+man finder c. 2·10<sup>÷13</sup> cm. Flg. Tabel viser,
+hvor mange Gange E.'s Masse <i>m</i> ved forsk.
+Hastigheder <i>v</i> (udtrykt som Brøkdele af Lysets
+Hastighed <i>c</i>) er større end deres Masse <i>m</i>0
+ved meget lille Hastighed.
+<table>
+<td>v/c<td>m/mo
+<td>0,1<td>1,005
+<td>0,5<td>1,155
+<td>0,9<td>2,29
+<td>0,99<td>7,09
+<td>0,998<td>15,82
+</table>
+
+Imidlertid fører
+<sp>Relativitetsprincippet</sp> (s. d.) til, at al Masse skal variere med
+Hastigheden netop paa den Maade, som Lorentz
+havde udregnet for E. ud fra sine specielle
+Forudsætninger, og som Forsøgene havde vist.
+Disse kan derfor ogsaa siges at bekræfte
+Relativitetsprincippet, men det er da ikke muligt at
+udlede af dem, at E.'s Masse udelukkende er
+elektromagnetisk, og man kan følgelig heller
+intet sige om E.'s Størrelse, ud over, at den
+anførte Værdi er en lavere Grænse for <i>a</i>.
+Alligevel er det vel det rimeligste ogsaa under
+Antagelse af Relativitetsprincippet at antage, at
+E.'s hele Masse er elektromagnetisk; derved
+kommer i hvert Fald til Udtryk en
+Overbevisning om, at disse de mindste Elementpartikler,
+der kendes, har en Træghed af en ganske
+anden Natur end den alm.
+
+Som nævnt gives der ikke <sp>positive E.</sp>; der
+er altsaa en fundamental Forskel mellem
+positiv og negativ Elektricitet. Man kender vel
+ogsaa Straaler af positivt ladede Partikler i
+Udladningsrør, nemlig <sp>Kanalstraaler</sp> og
+<sp>Anodestraaler</sp> (s. d.), men de bestaar af
+positivt ladede Atomer af henh. Luftarterne i
+Røret og Stoffer fra Anoden, altsaa Atomer, der
+har mistet en ell. fl. E. At dette er Tilfældet,
+godtgøres for det første ved Bestemmelse af
+den specifikke Ladning for disse Partikler.
+Desuden lyser Kanal- og Anodestraalepartikler med
+det for de paagældende Stoffer karakteristiske
+Spektrum, medens Katodestraalepartikler ikke
+selv lyser, kun frembringer Fluorescens, naar
+de absorberes af visse Stoffer; at det er selve
+Kanalstraalepartiklerne, der lyser, blev vist af
+<sp>Stark</sp>, idet han fandt, at Spektrallinierne var
+forskudte efter Doppler's Princip, naar
+Spektroskopet var opstillet saaledes, at
+Kanalstraalepartiklerne bevægede sig hen mod dettes Spalte.
+Til Forskel fra E. kan Kanalstraalepartiklerne
+ogsaa omlades undervejs, blive neutrale, ja
+endogsaa optage fl. E. end nødvendigt dertil,
+saa at de bliver negativt ladede. -
+<sp>Rutherford</sp> er især ved radioaktive Undersøgelser
+blevet ført til at antage Stoffernes Atomer
+opbyggede af en overordentlig lille, positivt ladet
+Kerne, indeholdende næsten hele Atomets
+Masse og omkredset af E.; Kernens positive Ladning
+maa være lig E.'s samlede negative, altsaa lige
+saa mange positive Elementarkvanter, som der
+er E.; dette Antal synes at være lig
+Grundstoffets Nummer i det periodiske System. Kernerne
+synes i Størrelse ikke at være meget forsk. fra
+E. Denne <sp>Rutherford's Atommodel</sp>, der
+er blevet videre udformet paa ejendommelig
+Maade af <sp>Bohr</sp>, er blevet stærkt støttet af de
+sidste Aars Forskning og er f. T. i særlig Grad
+Genstand for Fysikernes Interesse;
+Rutherford's Opdagelse af, at Atomets Masse og
+positive Ladning er koncentreret i en saadan
+umaadelig lille Kerne, maa i Bet. for vor
+Forstaaelse af Atomets Bygning sidestilles med
+selve E.'s Opdagelse. Efter denne Opfattelse er
+der altsaa lige saa mange forsk. Slags positive
+Elementarpartikler, som der er forsk. Atomer,
+nemlig disses Kerner; det synes ikke at være
+muligt at ændre det mindste ved disse Kerner
+ell. deres Ladning ved fys. ell. kem. Midler.
+Rutherford har direkte vist, at de positivt
+ladede α-Partikler, som udsendes fra radioaktive
+Stoffer, bestaar af Helium; de indeholder 2
+positive Elementarladninger og maa efter denne
+Opfattelse være Heliumkerner. Da disse maa
+komme fra de radioaktive Stoffers Atomkerner,
+er altsaa Helium i hvert Fald en Bestanddel
+af disse. Men da de radioaktive Stoffer tillige
+udsender negative E. som β-Partikler, maa
+deres Kerner tillige indeholde saadanne. Kernerne
+er følgelig opbyggede af simplere Bestanddele,
+men vore fys. og kem. Midler formaar ikke at
+frembringe nogen Forandring i deres
+Opbygning, og man har i Øjeblikket ingen Forestilling
+om den (se nærmere <sp>Radioaktivitet</sp>).
+(<sp>Litt</sp>.: Ang. det eksperimentelle, f. Eks.
+<sp>Müller-Pouillet</sp>, »Lehrbuch der Physik«, Bd
+IV 2, 3 [Braunschweig 1914]. Ang. det teoretiske,
+se under <sp>Elektronteori</sp>).
+<i>H. M. H.</i>
+</chapter>
+
+<chapter name="Elektron">
+<b>Elektron</b> [gr. 'e-], Rav; E. eller <sp>Elektrum</sp>
+kaldes ogsaa en lysegul Legering af Guld og
+Sølv med mere end 20 % Sølv, som findes i
+Kongsberg, Sibirien og Columbia; i Oldtiden
+forstodes ved disse Betegnelser en Legering af 75
+Dele Guld og 25 Dele Sølv, der anvendtes til
+Kunstgenstande og til Mønt. Ogsaa en
+Nysølvlegering af 8 Dele Kobber, 3,5 Dele Zink og 4
+Dele Nikkel, som har det stærkt polerede Sølvs
+blaalige Skær og løber mindre an end dette,
+kaldes E.
+<i>Carl J.</i>
+</chapter>
+
+<chapter name="Elektronik">
+<b>Elektronik,</b> Læren om Elektroner, se
+<sp>Elektron</sp> og <sp>Elektronteorien</sp>.
+</chapter>
+
+<chapter name="Elektronteorien">
+<b>Elektronteorien,</b> den Elektricitetsteori, der
+fører alle elektromagnetiske Fænomener tilbage
+til Virkninger af Elektroner. Den
+
+

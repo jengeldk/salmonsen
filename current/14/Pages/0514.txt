@@ -1,0 +1,163 @@
+<sp>Polen</sp>, paa denne. K. til et Punkt <i>P</i> er
+<sp>Radius vektor</sp> <i>r</i> = <i>OP</i> og <sp>Anomalien</sp> ɔ:
+Vinklen Θ fra <i>X</i> hen til <i>OP</i>. Man kan gaa over
+fra Polarkoordiniater til retvinklede K. med
+Abscisseakse i <i>X</i> og Begyndelsespunkt i <i>O</i> ved
+Ligningerne <i>x</i> = <i>rcos</i> Θ, <i>y</i> = <i>rsin</i> Θ. Som
+Polarkoordinatsystem i Rummet (Fig. 6) bruges
+en fast Plan <i>AB</i>, deri en fast ret linie <i>X</i> og i denne
+et fast Punkt <i>O</i>, <sp>Polen</sp>. Et Punkt <i>P</i>'s K. er
+da: <sp>Radius vektor</sp> <i>OP</i>, Vinklen Θ fra <i>X</i>
+hen til <i>OP</i> og Vinklen φ = < <i>NMP</i>, hvor <i>M</i>
+og <i>N</i> er <i>P</i>'s Projektioner paa <i>X</i> og Planen
+<i>AB</i>. Foruden de her nævnte K. kan nævnes:
+<sp>bipolære</sp> K. i Planen, hvor et Punkt
+bestemmes ved dets Afstande fra to faste Punkter,
+de i Astronomien benyttede <sp>sfæriske</sp> K. paa
+Kuglefladen, de <sp>elliptiske</sp> K. paa
+Ellipsoiden (se <sp>Krumning</sp>) og de i
+Liniegeometrien (s. d.) benyttede K. til rette Linier i
+Rummet. Som Koordinater for Cirkler i Planen
+ell. Kugler i Rummet har man anvendt
+Potenserne med 4 faste Cirkler henh. 5 faste
+Kugler, idet man ved Potensen for to Cirkler eller
+Kugler forstaar Centerliniens Kvadrat
+formindsket med Summen af Radiernes Kvadrater. Om
+Overgang fra et Koordinatsystem til et andet
+henvises til <sp>Transformationer</sp>.
+<i>Chr. C.</i>
+
+Da alle Himmellegemer synes at befinde sig
+paa en Kugleflade, med Centrum i Iagttagerens
+Øje (se <sp>Himmel</sp>), benytter man i
+Astronomien sfæriske K. Ethvert Punkts Beliggenhed
+paa Kuglen er bestemt, naar man har givet
+en Storcirkel samt et fast Punkt i denne.
+Fælder man fra det givne Punkt en Perpendikulær
+paa Storcirklen, vil dets Beliggenhed være
+bestemt 1) ved Punktets sfæriske Afstand fra
+den givne Storcirkel med Angivelse af, paa
+hvilken Side det ligger (over ell. under),
+hvilket kan udtrykkes ved Tegn; denne Størrelse
+kan følgelig ikke blive større end ± 90°; 2)
+ved den Del af Storcirklen fra det faste Punkt
+til Perpendikulærens Fodpunkt; denne
+Størrelse kam enten regnes til begge Sider fra 0°
+til 180°, idet de to Retninger adskilles ved Tegn,
+ell. i en og samme Retning fra 0° til 360°. Er
+den valgte Storcirkel Horisonten, kaldes K.
+Højde og Azimut; er Storcirklen Ækvator,
+benævnes K. Deklination og Rektascension, og er
+Storcirklen Ekliptikken, har de Navnet Bredde
+og Længde.
+<i>J. Fr. S.</i>
+
+<img>Fig. 6.</img>
+</chapter>
+
+<chapter name="Koordination">
+<b>Koordination</b> (lat.), Sammenspillet mellem
+forsk. Muskler ved sammensatte Bevægelser.
+Selv en tilsyneladende ganske simpel
+vilkaarlig Bøjning eller Strækning af et Led
+er i Virkeligheden en meget sammensat
+Bevægelse. Hvis man for Eksempel bøjer sit
+Haandled, træder ikke blot vedkommende
+Bøjemuskler samtidig ell. lidt efter lidt i
+Virksomhed, men ogsaa Strækkemusklerne trækker sig
+sammen til en vis Grad, da Bevægelsen ellers
+vilde blive ubehersket og slingrende. Naar
+Bevægelsen udføres i en bestemt Hensigt, hvis
+man f. Eks. med Fingeren vil berøre en
+Genstand, er det nødvendigt, at hver enkelt Muskels
+Sammentrækning indtræder paa et ganske
+bestemt Tidspunkt, har en ganske bestemt Styrke
+og varer en bestemt Tid. Det er Reguleringen
+af disse Forhold, der kaldes K., og den
+foregaar i det centrale Nervesystem (Hjerne- og
+Rygmarv). For adskillige livsvigtige
+Funktioners Vedk. er K. medfødt (f. Eks.
+Sammenspillet mellem de for Synkningen nødvendige
+Muskler); i mange Tilfælde fremkommer K.
+først ved »Øvelse«, hvilken dels finder Sted
+uvilkaarlig (f. Eks. de talrige
+Muskelsammentrækninger, der er nødvendige for Gang, Løb
+o. s. v.), dels vilkaarlig (at lære at skrive, at lære
+at spille paa musikalske Instrumenter). Det er
+let at forstaa, at Sygdomme i Nervesystemet
+ofte kan forstyrre K., og visse bestemte
+Koordinationsforstyrrelser er derfor vigtige
+Kendetegn paa forsk. Rygmarvs- og Hjernesygdomme
+(se <sp>Ataksi</sp>).
+<i>S. B.</i>
+</chapter>
+
+<chapter name="Koordinatsystem">
+<b>Koordinatsystem,</b> se <sp>Koordinater</sp>.
+</chapter>
+
+<chapter name="koordineret">
+<b>koordineret</b> (lat.), sideordnet. Begreber er
+k., naar det er muligt at danne et og samme
+Begreb ved fra hver af dem at fjerne et
+Kendemærke. Eks.: Begrebet Neger (= sorte
+Mennesker) og Begrebet Mongoler (= gule
+Mennesker).
+<i>Edg. R.</i>
+</chapter>
+
+<chapter name="Kootanie">
+<b>Kootanie</b> ['ku.tini], <sp>Kootenay</sp>, Flod i den
+vestlige Del af Nordamerika, udspringer i
+britisk Columbia paa Vestsiden af Klippebjergene
+i Nærheden af <sp>K.-Passet</sp> paa 51° 8′ n. Br.,
+løber paa britisk Territorium mod S. gennem
+en storslaaet Længdedal, træder ind i U. S. A.
+(Montana og Idaho), men vender kort efter
+atter mod N. og falder efter at have
+gennemstrømmet K.- ell. <sp>Flathead-Søen</sp> i venstre
+Bred af Columbia. Længde 720 km. Navnet
+stammer fra en Indianerstamme K.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Kop (hollandsk Maal)">
+<b>Kop,</b> holl. Maal for tørre Varer = 10 Maatjes
+= 1 l; den ældre K. = 1/32 Schepel = 0,869 l.
+<i>(N. J. B.). Th. O.</i>
+</chapter>
+
+<chapter name="Kop (Søv.)">
+<b>Kop</b> (Søv.) bruges i Bet. af Hoved (Kopf)
+i forsk. Forbindelser. Ror-K. er den øverste
+runde Ende af Rorstammen paa et Træror,
+gennem hvilken Rorpinden stikkes. Spil-K. er den
+øverste Del af et Gangspil, i hvilken der findes
+Huller til Anbringelse af Spilbommene. I Bet.
+af K. bruges det i Forbandelserne Smøre-K.,
+Kompas-K. m. fl. koplignende Beholdere.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Kopais">
+<b>Kopais,</b> <sp>Topolias</sp>, udtørret Sø i
+Mellemgrækenland, Nom. Attika og Boiotien. Den
+gennemstrømmes af <sp>Kephissos-Floden</sp> og
+havde i Oldtiden Afløb gennem fl. naturlige og
+ved Kunst udvidede Afløbskanaler
+(Katavothrer). I Vintertiden kunde den naa en
+Udstrækning af indtil 230 km<sup>2</sup>, men om Sommeren laa
+den i Reglen tør, og paa Søbunden høstedes
+da Hvede, senere ogsaa Ris og Bomuld. I
+Tidernes Løb tilstoppedes Katavothrerne, og de
+frugtbare Marker forvandledes til en stor
+Sump, men fra 1883—94 er Søen bleven
+udtørret, idet det overflødige Vand er blevet
+bortledet gennem Likeri og Paralimnisøerne til
+Talanti-Strædet.
+<i>C. A.</i>
+</chapter>
+
+<chapter name="Kopaivabalsam">
+<b>Kopaivabalsam</b> [kå'pa^iwa-] (<i>Blásamum
+Copalva</i>) faas af fl. <i>Copaifera</i>-Arter (se

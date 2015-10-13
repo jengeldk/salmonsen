@@ -1,0 +1,142 @@
+sin bolometriske Metode (udtænkt 1851 af
+Svanberg i Upsala) kommet helt til 5,3 Mikron og
+har bestemt Beliggenheden af 740 Linier fra
+<i>A</i> til denne Grænse, samt paavist, at dette Parti
+er delt af fl. brede og kraftige
+Absorptionsbaand, som delvis er af tellurisk Oprindelse;
+der er Grund til at tro, at Spektret strækker
+sig videre; muligvis de lange Varmebølger og
+de korte »Hertzske« Bølger gaar over i
+hinanden.
+
+De fleste af de Fraunhofer'ske Linier er af
+solar Oprindelse, og af de 12000, som hidtil er
+maalte, kender man for største Delen de
+tilsvarende kemiske Elementer, ialt c. 50. Størst
+er Tallet af Linierne hos Jern, hvor der er
+mere end 2750 tilsvarende i Solspektret, for
+Kulstof har man fundet 240, Kalcium 75,
+Magnesium 24, Natrium 13 o. s. v. De fleste af
+disse Linier er skarpe og meget smalle, men
+hos nogle har man fundet Ejendommeligheder
+i deres Form, som kun kan hidrøre fra
+Forhold i de forsk. Lag, hvor de Fraunhofer'ske
+Linier har deres Oprindelse. Ved Siden af de
+solare Linier optræder de telluriske hidrørende
+fra vor Atmosfære. Saaledes har Thollon i sit
+Kort paa 3200 Linier 2090 rent solare og 866
+telluriske Linier. Af disse nævnes <i>A</i>, <i>B</i> som
+de mest fremtrædende i det infrarøde; thi
+her er Absorption hidrørende fra Vanddamp
+og Kulsyre meget stærk, samt <i>α, α′</i> og <i>α″</i>, der
+skyldes Ilt. Af andre telluriske nævnes
+»Regnlinierne« i det røde og gule, hvilke Piazzi
+Smyth foreslog at benytte ved Vejrprognosen.
+Fra grønt til langt ude i det ultraviolette findes
+ingen telluriske Linier. Foruden Baand af
+tellurisk Oprindelse har man Cyanbaand ved λ
+4216, 3884, 3591 og det saakaldte Swanspektrum
+ved λ 4314.
+
+I Spektret af <sp>Solpletterne</sp> optræder
+enkelte Linier betydelig bredere, medens andre
+er tyndere; undertiden er Linierne tilhørende
+Brint og nogle faa andre Elementer lyse;
+dette er næsten altid Tilfældet med
+Kalciumlinierne <i>H</i> og <i>K</i>. Alt efter Bevægelsen i
+Solpletten vil en større ell. mindre Del af Linien
+være forskudt (se <sp>Doppler's Princip</sp>).
+Under Solpletperioden har man bemærket, at
+Linierne undergaar fl. hidtil uopklarede
+Forandringer. Spektret af det nederste Lag af
+Kromosfæren, tidligere benævnt <sp>det
+omvendende Lag</sp>, saa Young 1870 med lyse Linier.
+Dette »flash« Spektrum er især studeret ved de
+sidste totale Solformørkelser. Spektret af
+<sp>Kromosfæren</sp> er diskontinuerligt og
+bestaar af lyse Linier af Brint, Helium og
+Kalcium, hvilke stadig ses, men foruden disse
+findes der en hel Del andre, som ikke altid
+viser sig. Young har bestemt 273 Linier i
+Kromosfærens Spektrum og fundet foruden de
+allerede nævnte Elementer ogsaa Natrium,
+Magnesium, Barium, Jern, Vanadium og
+Strontium, i det hele næsten samtlige kem.
+Elementer, men i forsk. Højde. Saaledes er Kalcium,
+Brint og Helium synlige i hele Kromosfæren,
+Mangan og Kulstof kun i det til c. 600 km over
+Fotosfæren beliggende omvendende Lag.
+Mitchell har paavist, at Neon og Argon findes,
+men ikke Krypton og Xenon. Af
+Brintlinierne er <i>Hα</i> = <i>C</i> (λ = 6563) den mest
+fremtrædende; derfor ses Kromosfæren og
+Protuberanserne rødfarvede ved
+totale Solformørkelser.
+Spektret af <sp>Korona</sp> er
+kontinuerligt fra glødende
+faste Partikler og har
+tillige et karakteristisk
+Spektrum af Emissionslinier
+med den bekendte grønne
+Koronalinie λ 5303
+(Koronium), hvis Oprindelse
+hidtil er ukendt, foruden
+10—12 andre Linier. Men
+næsten hver
+Solformørkelse har en Del
+Koronalinier, som ikke optraadte
+tidligere, ligesom ældre
+kendte Linier mangler.
+
+Spektret af
+<sp>Planeter</sp> og <sp>Kometer</sp> s. d.
+
+<sp>Fiksstjerner</sp>. 1817
+fandt <sp>Fraunhofer</sp>, at
+Venus og Mars har det
+samme Spektrum som
+Solen, Sirius derimod et
+derfra forsk., men
+karakteristisk ved en stærk Linie
+i det grønblaa, hvortil
+senere kom to andre i det
+blaa. Castor havde et
+Spektrum som Sirius,
+Pollux derimod viste mange
+svage Linier, og Capella
+mindede mere om Solen. I
+Procyon saa han kun med
+stor Anstrengelse nogle
+Linier, men de var for svage
+til, at deres Beliggenhed
+kunde bestemmes, α
+Orionis havde derimod
+talrige Linier. Disse
+Undersøgelser af Fraunhofer,
+hvorved han havde
+opstillet 3 Spektraltyper med
+Repræsentanterne Sirius,
+Capella og <i>α</i> Orionis,
+forblev upaaagtede, til
+<sp>Secchi</sp> 1863 fandt, at
+Fiksstjernerne
+spektralanalytisk kunde inddeles i fl.
+Klasser, uden at Secchi
+havde Tanke for, at de
+forsk. Typer kunde være
+betingede af de forsk.
+Temp., som fandtes hos
+Stjernerne. Secchi paaviste,
+at der var en nær
+Forbindelse mellem
+Spektrets Karakter og
+Stjernens Farve, og hans 4
+Typer kunde ogsaa i det
+store betragtes som ulige
+Farvetyper. Inddelingen
+er meget simpel — mnemnoteknisk —, men
+kunstig opbygget og har netop ved sin Enkelhed
+fundet meget Tilslutning, saa at den benyttes
+fremdeles: Hans Inddeling er følgende:
+
+<img>Fig. 13. Solspektrum.</img>

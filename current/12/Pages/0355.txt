@@ -1,0 +1,103 @@
+elektriske Spænding, f. Eks. sætter den ned fra en
+høj Værdi til en lav (se <sp>Transformator</sp>).
+
+<sp>I. ved Bevægelse</sp>. Endelig kan man
+forandre den af en Leder omsluttede magnetiske
+Induktionsliniestrøm enten ved Bevægelse af
+Lederen — ell. Dele af den — i Forhold til
+Strømmen ell. af den magnetiske Strøm i
+Forhold til Lederen. I. ved Bevægelse kan
+iværksættes paa mange Maader. Fig. 15 skal
+anskueliggøre en af disse. I Fig. forestiller <i>M</i>
+Enden af en Magnet. Ud fra den flyder en
+Strøm af Induktionslinier. Bevæges en Leder
+<i>A</i> fra Stillingen <i>1</i> til Stillingen <i>2</i>, vil
+Antallet af omsluttede Induktionslinier
+formindskes, og der induceres følgelig en
+elektromotorisk Kraft, der vil søge at holde den
+magnetiske Strøm oppe. Det vil sige den
+elektromotoriske Kraft faar den ved
+Pilene antydede Retning. Samme Retning vilde
+den faa, hvis man lod <i>A</i> blive staaende stille
+og bevægede Magneten og dermed
+Induktionsliniestrømmen bort fra Lederen. Hvis denne er
+lukket, vil den elektromotoriske Kraft
+frembringe en Strøm. Der vil altsaa i Lederen
+optræde elektrisk Energi, der eventuelt kan
+omdannes til mek. Arbejde. Man vil spørge om,
+hvorfra Energien i dette Tilfælde stammer.
+Svaret er, at Energien maa leveres af den,
+der udfører Bevægelsen, og det er ogsaa let
+at se, at der bliver et Arbejde at
+udføre eller, at den inducerede Strøm
+modsætter sig den Bevægelse, den skyldes (Lenz's
+Lov). Man behøver blot at anvende Loven om
+magnetiske Kræfters Indvirkning paa en
+strømførende Leders Dele (se Fodnoten S. 338). I
+det her betragtede Tilfælde er Lederen med
+den inducerede Strøm under Paavirkning af
+magnetiske Kræfter, der virker skraat udad i
+samme Retning som de magnetiske
+Induktionslinier. Paa Lederens Dele vil der da med den
+viste Strømretning af den elektriske Strøm
+komme til at virke mek. Kræfter, der delvis
+er rettet indad mod Magneten, altsaa imod
+Lederens Bevægelse. Det er her ikke helt let at
+vise, at det udførte Arbejde netop bliver lig
+den elektriske Energi, der afsættes i Lederen,
+men vi kan vise det tilsvarende for det
+simplere Tilfælde, Fig. 16 skal antyde. Her er <i>A1</i>
+<i>A2</i> og <i>B1</i> <i>B2</i> to ledende Skinner, tværs over
+hvilke den forskydelige, ledende Skinne <i>l</i> er lagt,
+og som i øvrigt er forbundet gennem en
+Modstand <i>r</i>. De to Skinner samt <i>r</i> og <i>l</i> danner,
+som det ses, en lukket Kreds. Denne antages at
+befinde sig i en jævnt fordelt magnetisk Strøm,
+der staar vinkelret paa Kredsens Plan. Vi
+antager, at <i>l</i> bevæges i den ved Pilen antydede
+Retning med en konstant Hastighed <i>v</i>. Kredsen
+vil da stadig omfatte fl. og fl. Induktionslinier
+af den magnetiske Strøm. Er dennes Styrke
+regnet pr Kvadratcentimeter <i>B</i>, vil Antallet af
+omsluttede Induktionslinier i hvert Sek. vokse
+med <i>B</i>. <i>l</i>. <i>v</i>. I Kredsen induceres der derfor en
+elektromotorisk Kraft bestemt ved
+<i>e</i> = 10<sup>-8</sup> <i>B</i> · <i>l</i> · <i>v</i> Volt.
+
+Den elektromotoriske Kraft er rettet efter
+Pilen paa <i>l</i>, nemlig saaledes, at den ved at
+frembringe Strøm modvirker Tilvæksten i
+omsluttede Induktionslinier. I det betragtede Tilfælde
+frembringer den virkelig en Strøm, som bliver
+<i>i</i> = <i>e/r</i> Ampère.
+
+Strømmen har naturligvis den
+elektromotoriske Krafts Retning. Lederstykket <i>l</i> med
+denne Strøm paavirkes nu, fordi det er under
+Indflydelse af den magnetiske Kraft <i>B</i> (den
+magnet. Kraft er her lig Induktionsstrømmen pr
+cm<sup>2</sup>) af en mek. Kraft, som er rettet
+modsat Bevægelsen, og som (se Fodnote S. 338) er
+<i>K</i> = 1/10 <i>i</i> · <i>l</i> · <i>B</i> · dyn.
+
+Under Bevægelsen maa den, der bevæger <i>l</i>,
+pr Sek. udføre Arbejdet
+
+<i>W</i> = <i>K</i> · <i>v</i> = 1/10 i · <i>l</i> · <i>B</i> · <i>v</i> erg.
+
+Sammenlignes med Udtrykket for <i>e</i>, ses det,
+at dette Arbejde kan skrives
+<i>W</i> = 10<sup>7</sup> · <i>e</i> i erg,
+men dette er netop Udtrykket for den
+elektriske Energi, der afsættes i Kredsen. Vi har
+altsaa vist, at den elektriske Energi, der
+opstaar i Kredsen, netop er lig det mek. Arbejde,
+som Bevægelsen af Lederstykket <i>l</i> kræver.
+Anordningen i Fig. 16 er da øjensynlig ikke andet
+end et Apparat til Omformning af mek.
+Arbejde til elektrisk Strømenergi. Man betegner
+saadanne Apparater som Dynamoer. Alle beror
+
+<img>Fig. 15.</img>
+
+<img>Fig. 16.</img>

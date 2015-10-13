@@ -1,0 +1,12 @@
+<img>Budapest</img>
+
+<table>
+<td>I<td><i>Fæstningen (Var) Christinebyen og Taban.</i>
+<td>II<td><i>Vandstaden.</i>
+<td>III<td><i>Ó-Buda.</i>
+<td>IV<td><i>Det indre Pest.</i>
+<td>V<td><i>Leopoldstad.</i>
+<td>VI<td><i>Theresiastad.</i>
+<td>VII<td><i>Josephsstad.</i>
+<td>VIII<td><i>Frantzstad.</i>
+</table>

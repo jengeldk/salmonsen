@@ -1,0 +1,149 @@
+en bestemt Stilling af Indikatorstemplet og
+altsaa ogsaa af Skrivestiften, kan man
+undersøge enten ved at belaste Fjederen med
+bekendte Vægte ell. ved at sammenligne I.'s
+Angivelser med et paalideligt Manometers, idet
+begge Apparater sættes i Forbindelse med
+samme Damprum, og man har da til hver
+Indikatorfjeder en Maalestok, ved hvilken
+Skrivestiftens Udslag ligefrem kan aflæses som Tryk
+paa Arealenheden, f. Eks. kg cm<sup>2</sup>. Naar en
+dobbeltvirkende Maskines Slaglængde <i>S</i> i Meter
+og Omdrejningstal <i>N</i> pr Minut er bekendte og
+dermed altsaa Stempelhastigheden <i>V</i> pr
+Sekund, nemlig <i>V</i>= 2 X <i>N</i> X <i>S</i> / 60, udtrykt i Meter,
+samt naar man kender Stempelarealet <i>A</i> i
+Kvadratcentimetre, kan man ved Hjælp af
+Indikatordiagrammet beregne det i Maskinen
+udførte Arbejde. Arealet af Diagrammet beregnes
+ved Hjælp af Simpson's Formel ell. udmaales
+med et Planimeter (s. d.), og man faar deraf
+Middeltrykket <i>M</i>, som under Stempelslaget har
+hersket i Cylinderen, udtrykt i kg cm<sup>2</sup>. Ved
+Multiplikation af <i>V</i> med <i>A</i> og <i>M</i> og Division
+af det udkomne med 75 Kilogrammeter faar
+man Antallet af indicerede Hestekræfter, som
+frembringes i Maskinen, altsaa indiceret
+Hestekraft = <i>V</i> X <i>A</i> <i>M</i> / 75 = 2 X <i>N</i> X <i>S</i> X <i>A</i> X <i>M</i> / 60 x 75 .
+
+Det <sp>indicerede</sp> Arbejde, altsaa det i
+Maskinens Indre udførte Arbejde, maa ikke
+forveksles med det <sp>effektive</sp> Arbejde,
+nemlig det Arbejde, som Maskinen er i Stand til
+at <sp>afgive</sp>, naar der er Tale om en
+Kraftmaskine. Det effektive Arbejde
+(»Bremsearbejdet«), som kan maales ved et
+Bremsedynamometer (se <sp>Dynamometer</sp>), er her mindre
+end det indicerede, idet en Del af dette maa
+anvendes til at overvinde Maskinens egne
+Modstande (Friktion i Stempel, Stopbøsser, Lejer
+o. s. v.), og man maa derfor, naar der tales
+om en Maskines Hestekraft, vel lægge Mærke
+til, om denne udtrykkes i <sp>indicerede</sp> ell.
+<sp>effektive</sp> Hestekræfter. Ved en
+Arbejdsmaskine, f. Eks. en Kompressor, er Forholdet
+omvendt; den forlanger for at drives et større
+effektivt Arbejde, anvendt paa Krumtapakslen
+f. Eks., end der udvikles indiceret Arbejde i
+Cylinderen, idet her Maskinens Modstande skal
+overvindes af det udefra tilførte Arbejde.
+
+Overstiger Omdrejningstallet af den Maskine,
+der skal undersøges, 400—500 pr Minut, kan I.
+af den her beskrevne Konstruktion ikke
+anvendes. Hospitalier o. a. har til Brug ved
+meget hurtigløbende Maskiner fremstillet optiske
+I., der dog ikke synes endnu at have faaet
+en fuldt tilfredsstillende Form (om disse se
+<sp>Schrøder</sp>, »Maskinisere«, III [Kbhvn 1916],
+S. 352 flg.).
+
+I. er det vigtigste Instrument ikke blot til
+Maaling af Arbejdet i Maskiner med Cylindre,
+men ogsaa til at undersøge, om Arbejdet i
+saadanne foregaar paa rette Maade, om f.
+Eks. Glidere ell. Ventiler er rigtig indstillede
+og arbejder, som de skal, om Stemplet er i
+Orden o. s. v., og ved Øvelse kan man ud af
+Indikatordiagrammet slutte sig til meget i denne
+Retning, som man ellers kun med stor
+Vanskelighed vilde blive klar over. Der findes da
+ogsaa i Litteraturen talrige Anvisninger saavel
+til I.'s rette Brug og Behandling som ogsaa til
+Benyttelse af Diagrammet. (<sp>Litt</sp>.:
+<sp>Rosenkranz</sp>, »Der Indikator« [Berlin 1906]; <sp>S. C.
+Borch</sp>, »Maskinlære« [Kbhvn 1905]; <sp>P.
+Schrøder</sp>, »Maskinlære« II. [Kbhvn 1916];
+<sp>F. Seufert</sp>, »Anl. zur Durchführung von
+Versuchen an Dampfmaschinen etc.« [Berlin
+1916]; <sp>A. Staus</sp>, »Der Indikator und seine
+Hülfseinrichtungen«).
+<i>H. H. S.</i>
+</chapter>
+
+<chapter name="Indikator">
+<b>Indikator</b> (kem.) er i Alm. Betegnelsen for
+et Stof, ved hvis Farveforandring det er muligt
+at konstatere, at der ved en Reaktion mellem
+to Stoffer er indtraadt en vis Ligevægtstilstand.
+Har man f. Eks. en Opløsning af en Syre og
+vil neutralisere den med en Base, tilsættes en
+ringe Mængde af et Indikatorfarvestof, f. Eks.
+Lakmus; herved farves Opløsningen rød, men
+tilsættes derefter Basen, vil der komme et
+Øjeblik, da Farven slaar over fra rød til blaa,
+nemlig naar den Ligevægtstilstand mellem Syre
+og Base er naaet, der betegnes som
+Neutralisationspunktet, og som her angives ved en
+bestemt Brintionkoncentration (Surhedsgrad), der
+vel stedse er den samme for samme Indikator,
+men forsk. for de forskellige I. En Opløsning,
+der reagerer basisk over for een I., kan derfor
+godt reagere basisk over for en anden. I.'s
+Virkemaade maa antages at bero paa, at deres
+udissocierede Molekyler og deres fraspaltede
+Anioner er forskelligt farvede.
+<i>R. K.</i>
+</chapter>
+
+<chapter name="Indikatrix">
+<b>Indikatrix</b> (mat.), se <sp>Krumning</sp> og
+<sp>Tangentplan</sp>.
+</chapter>
+
+<chapter name="Indiktion">
+<b>Indiktion</b> (lat.), en i Middelalderen brugt
+Aarsbetegnelse, der angiver Aarets Nummer
+inden for en 15-aarig Cyklus, uden at der i
+Reglen tages Hensyn til Cyklernes Antal.
+Indiktionsregningens Oprindelse lader sig næppe
+forklare; i Middelalderen satte man den i
+Forbindelse med det rom. Kejserriges
+Skatteforfatning (heraf det tyske Navn Römerzahl,
+Römerzinszahl), idet Skatterne omlignedes hvert 15.
+Aar, og ogsaa moderne Forfattere hævder denne
+Hypotese, f. Eks. Madvig. Uforklarlig bliver efter
+denne Opfattelse, at Indiktionsregningen ikke
+begynder før 1. Septbr 312, og Mommsen har
+derfor søgt at forklare I. gennem <i>indictio
+paschæ</i> ɔ: den officielle Fastsættelse af
+Paaskedagen, der først tillodes efter Konstantin den
+Stores Sejr over Maxentius (312), men Cyklens
+15-aarige Varighed lader sig ikke ret passe
+ind i denne Antagelse. Endelig har den
+italienske Arkæolog Rossi fremsat den Mening, at
+Indiktionsregningen skulde stamme fra Ægypten.
+Efter Begyndelsesdatoen skelnede man mellem flg.
+3 I.: den græske ell. byzantinske, der begynder
+med 1. Septbr, Beda's I. (24. Septbr), der først
+anvendtes af den angelsachsiske Historieskriver
+Beda (d. 735), efter hvem den har faaet Navn,
+og den rom. I., hvis Begyndelse falder sammen
+med Aarsbegyndelsen 25. Decbr ell. 1. Jan.
+Den førstnævnte I. brugtes i den ældste Tid
+næsten overalt, men fortrængtes i Vesten
+efterhaanden af den rom., medens den derimod
+holdt sig i Østerland. Beda's I. var navnlig i
+Brug i de franske Karolingers Kancelli, men
+det maa for øvrigt bemærkes, at Anvendelsen
+

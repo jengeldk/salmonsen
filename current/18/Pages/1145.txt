@@ -1,0 +1,143 @@
+Efter Dobereiner har senere andre Kemikere,
+saaledes <sp>M. Pettenkofer</sp> 1850 og <sp>J. J.
+Dumas</sp> 1851, søgt at videreføre disse Ideer.
+Det var dog først gennem Arbejder af <sp>Lothar
+Meyer</sp> og af <sp>D. Mendelejeff</sp>, at Grunden
+til det p. S. blev lagt.
+
+Lothar Meyer har i to korte Afh. fra 1864 og
+1870 udviklet Systemet, hvorimod Mendelejeff,
+uafhængigt af Lothar Meyer, i en lang og
+indgaaende Afh. fra 1869, dels opstillede Systemet
+og dels behandlede en Rk. Detailspørgsmaal.
+Bl. disse var især Mendelejeff's Forudsigelse af
+forsk. senere fundne Grundstoffers Egenskaber
+af afgørende Bet. for den alm. Antagelse af
+det p. S. bl. Kemikerne, idet det viste sig, at
+de fundne og de forudsagte Egenskaber stemte
+overordentlig nøje overens. Siden 1870 er det
+p. S. blevet kompletteret ved Opdagelsen af en
+lang Rk. Grundstoffer. Først i de allersidste
+Aar (efter 1920) har man begyndt at forstaa
+Grundstoffernes Indordning i det p. S. ud fra
+nærmere Forestillinger om Atomernes Bygning.
+Det er især gennem Studiet af de optiske
+Spektre (se <sp>Spektralanalyse</sp>) og af
+Röntgenstraalespektrene (se <sp>Røntgenstraaler</sp>)
+ved Hjælp af de <sp>Bohr'ske Teorier</sp>, at
+disse Resultater er naaet.
+
+De senere Aars fys. Forskninger har vist, at
+det er muligt at opstille alle Grundstofferne i
+en bestemt naturlig Rækkefølge, som paa
+enkelte Undtagelser nær falder sammen med
+Rækken af stigende Atomvægte.
+
+I Tabel I er denne Rækkefølge vist.
+
+<table>
+<td 4>Tabel I.
+<td r>1.<td>Brint<td>H<td r>1,0
+<td r>2.<td>Helium<td>He<td r>4,0
+<td r>3.<td>Lithium<td>Li<td r>6,9
+<td r>4.<td>Beryllium<td>Be<td r>9,0
+<td r>5.<td>Bor<td>B<td r>10,8
+<td r>6.<td>Kulstof<td>C<td r>12,0
+<td r>7.<td>Kvælstof<td>N<td r>14,0
+<td r>8.<td>Ilt<td>O<td r>16,0
+<td r>9.<td>Fluor<td>F<td r>19,0
+<td r>10.<td>Neon<td>Ne<td r>20,2
+<td r>11.<td>Natrium<td>Na<td r>23,0
+<td r>12.<td>Magnium<td>Mg<td r>24,3
+<td r>13.<td>Aluminium<td>Al<td r>27,1
+<td r>14.<td>Silicium<td>Si<td r>28,1
+<td r>15.<td>Fosfor<td>P<td r>31,0
+<td r>16.<td>Svovl<td>S<td r>32,1
+<td r>17.<td>Klor<td>Cl<td r>35,5
+<td r>18.<td>Argon<td>A<td r>39,9
+<td r>19.<td>Kalium<td>K<td r>39,1
+<td r>20.<td>Kalcium<td>Ca<td r>40,1
+<td r>21.<td>Scandium<td>Sc<td r>45,1
+<td r>22.<td>Titan<td>Ti<td r>48,1
+<td r>23.<td>Vanadium<td>V<td r>51,0
+<td r>24.<td>Krom<td>Cr<td r>52,0
+<td r>25.<td>Mangan<td>Mn<td r>54,9
+<td r>26.<td>Jern<td>Fe<td r>55,8
+<td r>27.<td>Kobolt<td>Co<td r>59,0
+<td r>28.<td>Nikkel<td>Ni<td r>58,7
+<td r>29.<td>Kobber<td>Cu<td r>63,6
+<td r>30.<td>Zink<td>Zn<td r>65,4
+<td r>31.<td>Gallium<td>Ga<td r>69,7
+<td r>32.<td>Germanium<td>Ge<td r>72,5
+<td r>33.<td>Arsen<td>As<td r>75,0
+<td r>34.<td>Selen<td>Se<td r>79,2
+<td r>35.<td>Brom<td>Br<td r>79,9
+<td r>36.<td>Krypton<td>Kr<td r>82,9
+<td r>37.<td>Rubidium<td>Rb<td r>85,5
+<td r>38.<td>Strontium<td>Sr<td r>87,6
+<td r>39.<td>Yttrium<td>Y<td r>88,7
+<td r>40.<td>Zirkonium<td>Zr<td r>91,1
+<td r>41.<td>Niobium<td>Nb<td r>93,5
+<td r>42.<td>Molybdæn<td>Mo<td r>96,0
+<td r>43.<td c>—<td c>—<td r>
+<td r>44.<td>Ruthenium<td>Ru<td r>101,7
+<td r>45.<td>Rhodium<td>Rh<td r>102,9
+<td r>46.<td>Palladium<td>Pd<td r>106,7
+<td r>47.<td>Sølv<td>Ag<td r>107,9
+<td r>48.<td>Kadmium<td>Cd<td r>112,4
+<td r>49.<td>Indium<td>In<td r>114,8
+<td r>50.<td>Tin<td>Sn<td r>118,7
+<td r>51.<td>Antimon<td>Sb<td r>121,8
+<td r>52.<td>Tellur<td>Te<td r>127,5
+<td r>53.<td>Jod<td>J<td r>126,9
+<td r>54.<td>Xenon<td>X<td r>130,2
+<td r>55.<td>Cæsium<td>Cs<td r>132,8
+<td r>56.<td>Barium<td>Ba<td r>137,4
+<td r>57.<td>Lanthan<td>La<td r>138,9
+<td r>58.<td>Cerium<td>Ce<td r>140,2
+<td r>59.<td>Praseodym<td>Pr<td r>140,9
+<td r>60.<td>Neodym<td>Nd<td r>144,3
+<td r>61.<td c>—<td c>—<td r>
+<td r>62.<td>Samarium<td>Sm<td r>150,4
+<td r>63.<td>Europium<td>Eu<td r>152,0
+<td r>64.<td>Gadolinium<td>Gd<td r>157,3
+<td r>65.<td>Terbium<td>Tb<td r>159,2
+<td r>66.<td>Dysprosium<td>Ds<td r>162,5
+<td r>67.<td>Holmium<td>Ho<td r>163,5
+<td r>68.<td>Erbium<td>Er<td r>167,7
+<td r>69.<td>Thulium<td>Tu<td r>169,4
+<td r>70.<td>Ytterbium<td>Yb<td r>173,5
+<td r>71.<td>Cassiopeium<td>Cp<td r>175,0
+<td r>72.<td>Hafnium<td>Hf<td r>178,0
+<td r>73.<td>Tantal<td>Ta<td r>181,5
+<td r>74.<td>Wolfram<td>W<td r>184,0
+<td r>75.<td c>—<td c>—<td r>
+<td r>76.<td>Osmium<td>Os<td r>190,9
+<td r>77.<td>Iridium<td>Ir<td r>193,1
+<td r>78.<td>Platin<td>Pt<td r>195,2
+<td r>79.<td>Guld<td>Au<td r>197,2
+<td r>80.<td>Kvægsølv<td>Hg<td r>200,6
+<td r>81.<td>Thallium<td>Tl<td r>204,4
+<td r>82.<td>Bly<td>Pb<td r>207,2
+<td r>83.<td>Vismut<td>Bi<td r>209,0
+<td r>84.<td>Polonium<td>Po<td c>—
+<td r>85.<td c>—<td c>—<td r>
+<td r>86.<td>Emanation<td>Em<td r>222,0
+<td r>87.<td c>—<td c>—<td r>
+<td r>88.<td>Radium<td>Ra<td r>226,0
+<td r>89.<td>Aktinium<td>Ac<td c>—
+<td r>90.<td>Thorium<td>Th<td r>232,1
+<td r>91.<td>Protaktinium<td>Pa<td c>—
+<td r>92.<td>Uran<td>U<td r>238,2
+</table>
+
+I første Kolonne er Stoffets Nummer i denne
+Rækkefølge, det saakaldte <sp>Atomnummer</sp>,
+opført. I de øvrige Kolonner er opført
+Grundstoffets Navn, kemiske Symbol og Atomvægt.
+Atomnummeret har den direkte fys. Betydning,
+at det angiver Antallet af Elektroner, der i de
+forsk. Grundstoffers Atomer kredser omkr. den
+positive Atomkerne (se <sp>Atommodel</sp>). Et
+Grundstofs Atomnummer bestemmes simplest
+gennem den af den eng. Fysiker <sp>Moseley</sp> i

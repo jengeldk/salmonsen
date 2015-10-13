@@ -1,0 +1,147 @@
+Bremse-D. er det ældste (1821), og det bruges
+endnu, da det er simpelt og billigt og kan give
+paalidelige Resultater. Imod Omkredsen af en
+rund Skive, som sidder paa Akslen og løber
+rundt med denne, spændes der et Par
+faststaaende Træbakker, og Friktionen mellem disse og
+Skiven er den Modstand, som Maskinen har at
+overvinde, og denne Friktion afpasses saaledes,
+at Maskinen løber netop med den rette
+Hastighed. Men p. Gr. a. den samme Friktion vil
+Skiven stræbe at tage Bakkerne rundt med, og
+Friktionen kan derfor maales ved at forbinde
+Bakkerne med en vandret Vægtstang, paa hvis
+Skaal der sættes saa mange Vægtlodder (ell. en
+Fjedervægt), at Friktionens Bestræbelse til at
+svinge Bakker og Vægtstang rundt med netop
+er hindret.
+
+Af Vægtlodderne (ell. Fjedervægtens
+Aflæsning), Vægtstangsarmens Længde og Akslens
+Antal Omdrejninger kan da Hestekraften
+beregnes. At Friktionen »forbruger« Maskinens
+Arbejde, vil sige, at den forvandler det til Varme.
+Denne Varme fremkommer paa Skivens
+Omkreds og maa skaffes bort ved Afsvaling med
+Vand. I Enkelthederne kan Apparatets
+Indretning varieres paa mange Maader. En anden
+Form af Bremse-D. er først angivet af
+<sp>Navier</sp>. Et Staalbaand, en Rem, et Tov ell. lgn.
+lægges om en helst meget stor og nøjagtig
+afdrejet Skive, saasom en Remskive ell. et
+Svinghjul, der sidder paa Akslen. Den ene Ende af
+Baandet fæstes til en Fjedervægt, den anden
+strammes ved en Vægtskaal med Lodder (ell.
+ved en anden Fjedervægt), Friktionen
+fremkommer paa Omkredsen af Skiven, og idet denne
+glider rundt i det stillestaaende Baand,
+forbruges Arbejdet. Naar da Baandets Stramning er
+reguleret saaledes, at Maskinen gaar med den
+rette Hastighed, kan man af Skivens Radius,
+Omdrejningstallet, Lodderne og Fjedervægtens
+Aflæsning beregne Hestekraften. Naar Skiven er
+tilstrækkelig stor, kan Vandafkøling undgaas,
+idet Luften da kan bortføre Varmen saa hurtig,
+som den udvikles, uden at Temp. stiger mere,
+end der kan tillades.
+
+Hvor der er Tale om et forholdsvis ringe
+Antal HK., kan Arbejdsmaaling ved Bremse-D.
+ske simpelt og uden store Forberedelser. Ved
+større Maskiner stiger Vanskelighederne, og ved
+de største Typer kræves der saa vidtløftige og
+kostbare Foranstaltninger, som man sjældent vil
+ty til. I visse Tilfælde har man da ad elektrisk
+Vej kunnet faa en forholdsvis simpel og
+paalidelig Bestemmelse af Arbejdsudviklingen.
+
+En Arbejdsmaskines Arbejdsforbrug kan, hvis
+den trækkes af sin egen særlige Motor, maales
+indirekte ved et Bremse-D., idet man maaler
+Motorens Arbejdsudvikling som ovf. beskrevet,
+og sørger for, at Motoren under Maalingen
+arbejder under ganske de samme Vilkaar som de,
+hvorunder den til daglig trækker
+Arbejdsmaskinen.
+
+Ellers bruges ogsaa D., som indskydes mellem
+den drivende Aksel og Arbejdsmaskinen,
+saaledes at Arbejdet passerer gennem D. og deri
+frembringer visse Tryk ell. Træk, som maales.
+Ved forsk. ældre Former maales Trykkene mellem
+to Tandhjuls Tænder (<sp>Hachette</sp> bruger
+koniske, <sp>White</sp> cylindriske Tandhjul, begge c.
+1828). Ved en nyere Form, <sp>Hefner v.
+Alteneck</sp>'s, maales Forskellen mellem
+Spændingerne i Drivremmens to Parter. <sp>Nielsen's D.</sp>,
+der er af dansk Oprindelse, har en Aksel, der
+er saa tynd, at den kendelig fjedrer sig, og
+Formforandringen aflæses ved en Viser paa en
+Skala ell. optegnes af en Blyant paa en
+Papirstrimmel, ligesom ved Træk-D.
+
+Træk-D. har en Fjeder, som Trækket virker
+igennem, og hvis Formforandring er Maal for
+Trækkraften, der kan aflæses ved en Viser paa
+en Skala. Dog er Kraften saa godt som altid
+saa variabel, at Viseren uophørlig svinger op
+og ned paa Skalaen, saa det er usikkert at
+aflæse Kraftens Middelværdi, som nærmest er den,
+der interesserer. Oftest foretrækkes derfor at
+lade Apparatet selv optegne Kraftens Størrelse,
+idet der i St f. Viseren ell. ved Siden af denne
+sættes en Blyant, som med et lempeligt Tryk
+holdes i Berøring med en Papirstrimmel, som
+trækkes hen under den, vinkelret paa den
+Retning, hvori Blyanten føres af Kraften. Lige ved
+det Sted, hvor Blyanten staar, naar der ingen
+Kraft virker, sættes en fast Blyant; denne vil
+under Maalingen skrive en ret Linie,
+Nullinien, medens den førstnævnte Blyant skriver
+en mere ell. mindre uregelmæssig Linie, hvis
+Afstand fra Nullinien hvert Øjeblik er Maal for
+den virkende Kraft. Af det saaledes skrevne
+<sp>Diagram</sp> kan man efter Forsøget aflæse
+baade Kraftens største og mindste Værdi og
+beregne Middelkraften. Tillige giver
+Diagrammet et anskueligt Billede af, i hvilken Grad
+Kraften har varieret.
+
+Fjedren kan være af meget forsk. Form.
+Oftest er den svær, saa hele D. bliver tungt og
+maa monteres paa et særlig lille Køretøj, der
+spændes for den Vogn ell. Maskine, som
+Maalingen gælder. Saaledes er f. Eks. <sp>Morin's D</sp>.
+I Modsætning dertil haves Fjedre, der kun vejer
+lidt i Forhold til Størrelsen af den Kraft, de
+kan maale, saaledes <sp>Regnier</sp>'s Fjeder, der
+har Form som en aflang Ring og trækkes efter
+den store Akse, medens Kraften maales ved den
+Forkortelse af den lille Akse, som samtidig sker.
+Denne Fjeder bruges i <sp>Berg-Winstrup's D.</sp>,
+der er af dansk Oprindelse. Hele Apparatet
+gives her Form af en alm. Hammel og bliver
+ikke synderlig tungere end en saadan, saa
+denne »Krafthammel«, som den kaldes, tillader
+Forspænding af Heste saaledes, at Virkningen
+under Maalingen kommer til at svare meget
+nær til den sædvanlige. Til Gengæld maa en let
+Fjeder som Regnier's behandles meget
+varsomt og enhver uvedkommende Paavirkning
+holdes borte, for at Resultatet kan blive
+paalide-ligt, medens de svære Fjedre kan taale
+adskilligt mere uden at vise kendeligt fejl.
+<i>S. C. B.</i></chapter>
+
+<chapter name="Dynamometer, elektrisk Apparat">
+<b>Dynamometer,</b> elektrisk Apparat, se
+<sp>elektriske Maaleinstrumenter</sp>.</chapter>
+
+<chapter name="Dünamünde">
+<b>Dünamünde</b> [dyna'mynd<sub>ə</sub>], fra 1893 officielt
+kaldet <sp>Ust-Dvinsk</sp>, By i det vestl. Rusland,
+Guv. Livland, ligger paa venstre Bred af Düna
+ved dens Udmunding i Riga-Bugten, og hvor
+den optager sin sidste Biflod <sp>Bolderaa</sp>, har
+c. 2000 Indb. D. ligger kun 14 km ndf. Riga
+og maa nærmest betragtes som denne Bys

@@ -1,0 +1,148 @@
+Detektorstrømmen her vil variere i Overensstemmelse med
+Amplituden af de ankommende Bølger.
+Telefonen vil selvfølgelig gengive det i Mikrofonen
+sagte. Gengivelsen kan være klar og tydelig.
+Det er i saa Henseende navnlig
+Mikrofonanlægget, det kommer an paa. Der er derfor
+ogsaa udviklet en Række særlig herfor bestemte
+Mikrofoner, der afviger ret stærkt fra de i den
+alm. Telefoni benyttede. Yderligere Fremskridt
+kan sikkert ventes paa dette Omraade.
+
+Ved <sp>Radiofoni</sp> (<i>Broadcasting</i>) sendes
+der kun i een Retning, nemlig fra
+Radiofonistationen til de »lyttende« Modtagerstationer.
+
+Men man er ogsaa i Stand til at indrette
+Radiotelefonen saaledes, at der samtidig og
+uden særlig Omstilling kan tales i begge
+Retninger, og disse Anlæg kan knyttes til det alm.
+Telefonnet. Et af de første Anlæg af denne Slags
+er Radiotelefonen Kbhvn—Bornholm. Denne
+traadløse Telefoni vil formentlig faa stor Bet.,
+navnlig for bevægelige Stationer — Tog, Skibe,
+Flyvemaskiner, der derigennem kan knyttes til
+det alm. Telefonnet.
+
+Radiofonien vil uden Tvivl komme til at spille
+en meget stor Rolle, ikke mindst i kulturel
+Henseende: Udsendelse af Koncerter,
+Prædikerer, Foredrag m. m. Den tekn. Udvikling af
+Radiofonien har krævet og vil endnu kræve
+Løsningen af en Række vanskelige,
+telefontekniske Opgaver. Til Belysning heraf skal anføres
+flg.: Til Opnaaelsen af en kommerciel
+tilfredsstillende, alm. Telefonforbindelse kræves kun,
+at de Lydbølger, hvis Frekvens ligger mellem
+200 og 2000, gengives paa nogenlunde rigtig
+Maade. For en tilfredsstillende Gengivelse af
+Foredrag e. l. ved Hjælp af Højtaler kræves
+derimod, at Frekvensomraadet fra 100 til 3000
+à 3500 gengives nogenlunde rigtigt. Og en smuk
+Gengivelse af Koncert forlanger en naturtro
+Gengivelse af Frekvensomraadet fra 50 til 5 à
+10000. (De angivne Grænser er kun at betragte
+som omtrentlige). Der er i Løbet af den sidste
+Tid sket meget store Fremskridt paa dette
+Omraade, og denne Udvikling vil formentlig
+fortsættes.
+<i>P. O. P.</i>
+</chapter>
+
+<chapter name="Radiotelefonstationer">
+<b>Radiotelefonstationer</b> findes i Danmark paa
+Sjælland (Lyngby Radio) og paa Bornholm
+(Rønne Radio) samt mellem Hammeren paa
+Bornholm og Christiansø. Igennem R. mellem
+Sjælland og Bornholm kan der i Tilslutning til
+Landets Traadtelefon-Anlæg føres Samtaler
+mellem Bornholm og det øvrige Land i
+Almindelighed uden væsentlige Forstyrrelser.
+Imellem Hammeren og Christiansø er Anlægget af
+rent lokal Art og benyttes kun til stedlig
+Udveksling af Samtaler i en Retning ad Gangen.
+Se <sp>Radiotelefoni</sp>.
+<i>M. G.</i>
+</chapter>
+
+<chapter name="Radiotelegrafi">
+<b>Radiotelegrafi.</b> Nær beslægtet hermed er
+<sp>Radiotelefoni</sp>, og begge sammenfattes
+ofte under Betegnelsen <sp>Radioteknik</sp>. I
+R. overføres Signalerne, i Radiotelefonien Talen
+fra Sender til Modtager ved Hjælp af
+elektromagnetiske Bølger. Udsendelsen af
+elektromagnetiske Bølger fra Senderen er dels betinget af,
+at der i denne foregaar elektromagnetiske
+Svingninger, dels af at mindst een af de
+Kredse, hvori Svingningerne foregaar, formes
+paa rette Maade. Kendskab til de
+elektromagnetiske Svingningers Natur og til Midlerne til
+deres Frembringelse danner derfor Grundlaget
+for Læren om Radioteknikken. Udsendelsen,
+<sp>Radiationen</sp>, af elektromagnetiske Bølger
+er, som nævnt, betinget af, at mindst een af de
+Kredse, hvori der foregaar Svingninger,
+formes paa hensigtsmæssig Maade. Denne
+Udstraalings- ell. Radiationskreds kaldes som Regel
+<sp>Antennen</sp> ell. Luftnettet og udgør i de fleste
+Tilfælde den kostbareste Del af en
+Sendestation. De elektromagnetiske Bølger lider under
+deres Bevægelse fra Sender til Modtager i de
+fleste Tilfælde en meget stærk Svækkelse, hvis
+Størrelse bl. a. er afhængig af det
+mellemliggende Terræns Beskaffenhed, af Atmosfærens
+Tilstand og af de benyttede Bølgers Længde.
+Denne Svækkelse er ganske overordentlig
+variabel. Spørgsmaalet om de
+elektromagnetiske Bølgers Transmission fra Sender til
+Modtager er derfor af stor Betydning for
+Radioteknikken, men Kendskabet til de Forhold, der
+betinger Svækkelsens Størrelse, er endnu ret
+ringe. Paa <sp>Modtagerstationen</sp> kræves
+bl. a. et Organ, <sp>Antennen</sp>, der opfanger en
+Del af de forbivandrende Bølgers Energi og
+omsætter denne til elektromagnetiske
+Svingninger i Modtageren, og disse <sp>højfrekvente</sp>
+Svingninger maa gennem en <sp>Detektor</sp>,
+<sp>Ensretter</sp> e. l. omdannes til
+<sp>lavfrekvente</sp> Svingninger og derved gøres egnede
+til at paavirke det Organ, som frembringer de
+hørlige ell. synlige Signaler, der direkte
+iagttages. Ofte vil det være nødvendigt at
+forstærke de modtagne Svingninger, førend
+disse detekteres eller ensrettes
+(<sp>Højfrekvensforstærkning</sp>), eller efter at dette
+er sket (<sp>Lavfrekvensforstærkning</sp>)
+hyppig begge Dele. Undertiden indskydes en
+<sp>Mellemfrekvens</sp> med
+<sp>Mellemfrekvensforstærkning</sp>. Ofte er det
+nødvendigt at foretage særlige Forholdsregler til
+Udelukkelse af Forstyrrelser hidrørende fra andre
+Radiostationer ell. fra Atmosfæren. Navnlig de
+<sp>atmosfæriske Forstyrrelser</sp>
+(»<sp>Statik</sp>«, »X«'er) er ofte meget generende.
+Radiostationernes Udstyr retter sig i øvrigt efter
+Omfanget og Karakteren af den Trafik, de skal
+besørge. For Stationer med ringe Trafik samles
+som Regel Sende- og Modtageanlæg paa eet
+Sted til en komplet Radiotelegrafstation med
+simpleks Drift, idet der enten kan sendes ell.
+modtages, men ikke begge Dele samtidig. For
+Stationer med stor Trafik er sammenhørende
+Sende- og Modtagerstation ofte adskilte og
+saaledes indrettede, at der kan anvendes
+<sp>dupleks</sp> Drift med samtidig Sending og Modtagning.
+
+<sp>Radiotelefonien</sp> adskiller sig, teknisk
+set, kun paa ganske enkelte Punkter fra
+Radiotelegrafien. I St f. Telegrafnøglen, der i
+Radiotelegrafien styrer Udsendelsen af de
+elektromagnetiske Bølger, træder i Telefonien
+<sp>Mikrofonen</sp>, der under Talens Paavirkning
+gennem egnede Organer regulerer, former ell.
+<sp>modulerer</sp> Udstraalingen i
+Overensstemmelse med Lydsvingningerne i Talen. I
+Modtageren paavirker de ankommende Bølger efter
+fornøden <sp>Detektering</sp> og
+<sp>Forstærkning</sp> en Telefon ell. <sp>Højtaler</sp>.

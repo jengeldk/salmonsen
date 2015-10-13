@@ -1,0 +1,136 @@
+behøver at stemme med det virkelige (se
+<sp>Logik</sp>). Faa det Punkt, hvor Problemet om
+Indholdets Rigtighed rejses, fører Logikken som
+Læren om Dommens og S.'s Form over i
+Erkendelsesteorien (se <sp>Sandhed</sp>). S. kan deles
+i den direkte S., hvor Konklusionen ved simpel
+Substitution udledes af en ell. fl. Domme, og den
+indirekte S., hvor man enten gaar fra en Dom
+til bestemte Begrebskombinationer ell. omvendt.
+Inden for A) den <sp>direkte</sp> S. er der I. <sp>den
+umiddelbare</sp> S., hvor Konklusionen er
+udledet af kun en Dom. Herunder kan først
+nævnes <i>a</i>) <sp>Subalternationen</sp>, hvor man gaar
+fra den større til den mindre Kreds, fra det
+mere til det mindre bestemte. Udtrykkes hel
+(absolut) Identitet ved A = B (f. Eks.
+Mennesker er [ɔ: falder sammen med]
+Fornuftsvæsener) og delvis (partiel) Identitet ved A = AB (f.
+Eks. Mennesker [A] er [ɔ: falder ind under]
+levende Væsener [B]), saa kan man af A = B
+umiddelbart slutte, at A = AB og B = BA.
+Udtrykkes det, at en Dom gælder under visse
+Betingelser, ved et Begreb paa begge Sider af
+Lighedstegnet, kan af Dommen A = B umiddelbart
+sluttes, at AC = BC, ell. at AC = ABC, idet
+enhver Identitet vil kunne formuleres som en
+begrænset Identitet, <i>b</i>) Den anden
+Hovedafdeling af den umiddelbare S. er
+<sp>Kontrapositionen</sp>, hvor man udleder en nægtende (hel
+ell. delvis) af en bekræftende (hel ell. delvis)
+Identitet ell. omvendt. Er A = AB givet, følger
+umiddelbart, at non-B = non-B non-A (f. Eks.
+af Dommen: Mennesker er levende Væsener
+følger: at intet ikke-levende Væsen er et
+Menneske). Af A = B følger non-A = non-B (f. Eks.:
+er alle Legemer rumopfyldende, følger heraf,
+at intet ikke-rumopfyldende kan være et
+Legeme, og at intet, der ikke er et Legeme, kan
+være rumopfyldende), idet A = B ogsaa kan
+udtrykkes ved A = AB og B = BA. Af A = A
+non-B følger B = B non-A og omvendt, af
+non-A = B non-A følger non-B = A non-B og
+omvendt. II. I den <sp>middelbare</sp> S.
+(<sp>Syllogismen</sp>) udledes Konklusionen af to ell. fl.
+Domme. Det fælles Led, gennem hvilket S. sker,
+kaldes Mellembegrebet (<i>terminus medius</i>), de
+andre Begreber kaldes Hovedbegreberne.
+Herunder maa mærkes <i>a</i>) de <sp>tre
+Aristoteliske Figurer</sp>, S., indbyrdes adskilte ved
+Mellembegrebets Plads, fra to delvise
+Identiteter, der angaar tre Begreber (Aristoteles:
+<i>Analytica</i>, I, Kap. 4—24). I første Figur er
+Mellembegrebet Subjekt i første, Prædikat i anden
+Præmis (se <sp>Dom</sp>); af B = BA og C = CB
+følger, at A = AC (f. Eks. Mennesker er dødelige,
+Peter er et Menneske, følgelig er Peter dødelig).
+I anden Figur er Mellembegrebet Prædikat i
+begge Præmisser: A = AB og C = CB; heraf
+kan, da der inden for B kan være alle tænkelige
+Forhold mellem A og C, intet sluttes (f. Eks. en
+Sten kan ikke flyve, og Moder kan ikke flyve,
+—!), medmindre den ene Præmis er nægtende;
+i saa Tilfælde kan sluttes til et Forskelsforhold
+mellem Hovedbegreberne (f. Eks. Stene kan ikke
+flyve, Ørne kan flyve, følgelig er Ørne ikke
+Stene). I tredie Figur er Mellembegrebet
+Subjekt i begge Præmisser; af B = BA og B = BC
+følger, at BA = BC, altsaa et begrænset
+Identitetsforhold mellem Hovedbegreberne udtrykt
+absolut, idet det staar ubestemt hen, om det er
+AB = ACB ell. CB = CAB (f. Eks. Mennesker
+er levende Væsener og Mennesker er
+Fornuftsvæsener, heraf følger, at nogle levende Væsener
+tillige er Fornuftsvæsener). En nøjere Prøvelse
+af de tre »Aristoteliske Figurer«'s indbyrdes
+Forhold vil i det hele føre til, at første Figur
+bliver Grundformen, til hvilken de to andre
+kan føres tilbage, <i>b</i>) Under Syllogismen maa
+dernæst mærkes <sp>Kongruensslutningen</sp>,
+en S. fra to hele Identitetsforhold til et tredie
+helt Identitetsforhold. Af A = B og B = C
+følger A = C (f. Eks. Kbhvn er Danmarks
+Hovedstad, Danmarks Hovedstad er Regeringens
+Sæde, altsaa er Kbhvn Regeringens Sæde. c) <sp>Den
+direkte Induktionsslutning</sp> er en
+S. fra to delvise Identiteter, der kun angaar to
+Begreber, til en hel Identitet. Er A = AB og B
+= BA givet, følger A = B (f. Eks. let
+Parallelogram er de modstaaende Sider lige store, en
+Firkant, hvis modstaaende Sider er lige store,
+er et Parallellogram. Altsaa dækker de to
+Begreber Firkant med modstaaende Sider lige
+store og Firkant med modstaaende Sider
+parallelle hinanden helt). De andre Former af den
+direkte Induktionsslutning er formelt - logisk
+mere ell. mindre sammensatte Former af
+nævnte Syllogismer. Kun ved denne Slutningsform,
+der altsaa danner den omvendte Vej af
+Subalternationen, bliver Vejen fra Præmis til
+Konklusion og omvendt ligegyldig. Ellers vil det
+være saaledes, at medens Vejen fra Præmis til
+Konklusion er absolut sikker ud fra de log.
+Grundsætninger, kan man ikke omvendt gaa fra
+Konklusion til Præmis. Haves A = C, kan dette
+være begrundet ved, at A = B og B = C, men
+lige saavel ved, at A = non-B og non-B = C.
+Derfor kan ogsaa en rigtig Konklusion udledes
+rigtigt af gale Præmisser. B) I den
+<sp>indirekte</sp> S. som I. <sp>Deduktion</sp> paavises, hvilke
+Begrebskombinationer der er mulige ifølge en
+ell. fl. givne Domme. Er f. Eks. A = B givet,
+følger, at af de, ifølge Dualitetsprincippet
+tænkelige Kombinationer: AB, A non-B, non-AB og
+non-A non-B, kun AB og non-A non-B er mulige,
+idet de øvrige strider mod
+Kontradiktionsprincippet. I den indirekte S. som II. <sp>Induktion</sp>
+gaar man fra bestemte Kombinationer
+(Erfaringer) til den alm. Dom (<sp>Hypotesen</sp>). Er
+saaledes Kombinationerne AB, non-AB og non-A
+non-B givne, følger, at A = AB (f. Eks. Hver
+Gang jeg træffer en bestemt Mand [A], finder
+jeg, at han har Egenskaben Godhed [B], jeg
+kan træffe denne Egenskab hos andre og for det
+tredie ogsaa træffe andre, der ikke er gode;
+den eneste Kombination, der er udelukket, er:
+denne Mand uden Godheden [A non-B]; heraf
+sluttes da: denne Mand er god). Beviset herfor
+(<sp>Verifikationen</sp>) beror paa Deduktion,
+idet man ved Substitution viser, at de givne
+Kombinationer stemmer med Dommen, og
+tillige (den fuldstændige Verifikation), at de
+ikke-givne Kombinationer alle maa falde bort. I
+Erfaringens Verden vil Induktion og Deduktion
+saaledes stedse staa i Vekselvirkning, men en
+fuldstændig Verifikation er ikke mulig, fordi
+Aarsagssætningen stedse maa forudsættes,

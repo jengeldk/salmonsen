@@ -1,0 +1,136 @@
+elektrisk Strøm fra Lokomotivet. 6) Paa en tredie
+Maade benyttes Togets levende Kraft ved
+<sp>Bufferbremserne</sp>; idet en af de forreste
+Køretøjer i Toget (alm. Lokomotivet ell.
+Tenderen) bremses, vil de bagved værende presse
+paa og trykke de elektriske Buffere noget
+sammen; ved en passende Forbindelse af B. med
+Bufferne kan derved en Bremsning bringes i
+Stand (<sp>Burnett</sp>, <sp>Stephenson</sp>, <sp>Riener</sp>
+[1853], <sp>Guérin</sp>, <sp>Bode</sp> og <sp>Boirault</sp>). Ved
+den af »American-Brake«-Selskabet (St Louis)
+konstruerede Bufferbremse er der anbragt
+Centrifugalregulatorer i Forbindelse med
+Vognakslerne, saaledes at B. først træder i Virksomhed,
+naar en vis Hastighed overskrides (2,7 m i Sek.).
+Endelig skal den saakaldte
+<sp>Manomatikbremse</sp> nævnes; den var gjort automatisk
+virkende, naar Toget sprængtes; denne B. var
+ogsaa forsynet med en automatisk
+Spærindretning, der skulde hindre den utilsigtede
+Bremsning, der ellers finder Sted ved alle
+Bufferbremser, under Rangering, Kørsel ned ad
+Faldstrækninger o. s. v., hvor Bufferne
+sammentrykkes. Alle de under 4—6 nævnte B. har den
+store Mangel kun at kunne virke, naar
+Køretøjet er i Bevægelse; deres Bremsning er i
+Reglen ujævn, og de fordrer derfor stor Øvelse
+og Følsomhed hos Bremserpersonalet. 7)
+<sp>Dampbremser</sp> anvendes væsentligst kun ved
+Lokomotiver og Tendere; de fleste af de danske
+Statsbaners Rangerlokomotiver er forsynede
+med en saadan B. Ved <sp>Middelberg</sp>'s
+Damp-Tenderbremse fører en Dampledning fra
+Lokomotivets Kedel til en paa Tenderen anbragt
+lille Dampcylinder, hvori et Stempel kan
+bevæge sig. Ved løs B. er der Damp paa begge
+Sider af Stemplet; slippes Dampen ud fra den
+ene Side, vil Damptrykket paa den anden Side
+drive Stemplet frem, hvorved B. trækkes til.
+I Amerika anvendes en Dampbremse (<sp>Beals
+Brake Company</sp>), hvor Dampen først
+slippes ind i Bremsecylinderen paa Stemplets
+ene Side, naar der skal bremses. I England
+bruges ofte Dampbremse paa Lokomotivet, sat
+saaledes i Forbindelse med den anvendte
+Togbremse (Trykluft ell. fortyndet Luft), at den
+træder automatisk i Virksomhed, naar
+Togbremsen benyttes. 8) <sp>Trykluftbremser</sp>.
+Efter at <sp>Andraud</sp> 1854 første Gang havde
+udkastet Tanken om at benytte komprimeret
+Luft (Trykluft) til Bremsning af Jernbanetog,
+konstrueredes 1867 af <sp>Kendall</sp> den første
+brugelige Trykluftbremse, der dog kun fik
+ringe Udbredelse. Paa hver Bremsevogn fandtes
+en i begge Ender aaben Bremsecylinder med
+to Stempler, hvorimellem der ved Bremsning
+lededes Trykluft ind, saa de dreves fra
+hinanden; denne Bevægelse overførtes gennem
+passende Vægtstænger til Bremseklodserne. 1869
+fremkom Amerikaneren <sp>George
+Westinghouse</sp> med en Trykluftbremse, der besad
+væsentlige Fordele fremfor Kendall's B.; i
+Bremsecylinderen fandtes kun eet Stempel, paa hvis
+Bagside Trykluften under Bremsningen virkede,
+medens Forsiden var i Forbindelse med den
+ydre Luft. B. betjentes af Lokomotivføreren,
+idet der i hele Togets Længde var ført en
+Rørledning, der ved Stikledninger stod i
+Forbindelse med samtlige Bremsecylindre. De
+nævnte B. var <i>direkte</i> virkende, d. v. s., at
+Trykluften først ved Bremsning blev sluppet
+ind i Ledningen og Cylindre, hvorved der
+medgik forholdsvis lang Tid, inden
+Bremsevirkningen havde forplantet sig til Togets bageste
+Vogn; der opstod herved i Toget Ryk og Stød,
+der virkede ubehageligt og gav Anledning til
+Togsprængninger. Westinghouse konstruerede
+derfor 1875 en <i>automatisk</i> B., der
+væsentligst adskilte sig fra hans første B. derved, at
+hvert med B. udstyret Køretøj foruden med
+Hovedledning og Bremsecylinder var forsynet
+med en Luftbeholder og en Tregangsventil
+(Funktionsventil), indskudt i en Ledning
+mellem Beholder og Cylinder. B.'s Virkemaade er
+flg.: Fra en paa Lokomotivet anbragt
+Luftpumpe føres Trykluft ind i Lokomotivets
+Hovedbeholder og herfra videre gennem den af
+Lokomotivføreren betjente Førerventil ind i den
+gennemgaaende Hovedledning og dens
+Stikledninger til Vognenes Tregangsventiler og gennem
+disse til Luftbeholderne; samtidig staar
+Bremsecylindrene gennem sidstnævnte Ventiler i
+Forbindelse med Atmosfæren; hver Vogns
+Hovedledning er forbundet med Nabovognenes ved
+bøjelige Slanger med let udløselige
+Koblingsstykker. Skal der bremses, indstiller
+Lokomotivføreren sin Førerventil saaledes, at den i
+Hovedledningen staaende Trykluft igennem
+Ventilen strømmer ud i Atmosfæren; det
+herved foraarsagede Trykfald i Ledningen bringer
+Tregangsventilerne til automatisk at omstille sig
+saaledes, at de tillader Trykluftens
+Overstrømning fra Beholder til Bremsecylinder, hvorved
+Bremsestemplet drives frem, og B. træder i
+Virksomhed. Ledes atter Trykluft ind i
+Ledningen gennem Førerventilen, vil
+Tregangsventilerne igen søge deres opr. Stilling, og B.
+løses, idet en Fjeder fører Bremsestemplet
+tilbage i Bund. Fordelen ved denne B. er, at hele
+Bremsesystemet med Undtagelse af
+Bremsecylindrene allerede under Kørslen er fyldt med
+Trykluft, og at den til hvert Køretøjs
+Bremsning nødvendige Trykluft er opsamlet i
+Køretøjets egen Luftbeholder i umiddelbar Nærhed
+af Bremsecylinderen, hvorfor Bremsning
+indtræder kraftigere og hurtigere i hele Togets
+Længde. B. er desuden automatisk, idet der,
+saafremt der f. Eks. sker Brud paa
+Hovedledningen et ell. andet Sted, vil slippe Trykluft ud
+af denne, hvorved B. virker. Denne B. har
+Westinghouse senere selv forbedret yderligere, idet
+han 1887 føjede en Hurtigbremseventil til
+Tregangsventilen, saaledes at der gennem disse
+Ventiler — ved Nødbremsning f. Eks. — ikke blot
+etableres Forbindelse mellem hver Vogns
+Beholder og Cylinder, men tillige mellem
+Hovedledning og Cylinder; derved bevirkes der i
+Hovedledningen paa den paagældende Vogn et
+yderligere Trykfald, som hurtigt forplanter sig
+til den nærmest flg. Vogns Hovedledning samt
+Tregangs- og Hurtigbremseventiler o. s. fr. Der
+kan herved opnaas, at Bremsevirkningen
+forplanter sig tilbage gennem Toget med en
+<sp>Gennemslagshastighed</sp> af indtil 170 m i
+Sek., hvad der er af stor Bet. for Opnaaelse af
+en jævn og forsvarlig Nødbremsning af de lange

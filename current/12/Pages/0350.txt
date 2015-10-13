@@ -1,0 +1,54 @@
+Hesteskomagnet, og Fig. 5 gengiver Strømmen omkr.
+en strømførende retliniet Leder. Strømlinierne
+skal her være Cirkler omkr. Lederen og er
+det øjensynligt ogsaa. I Fig. 6 ses endelig
+Induktionsliniestrømmen gennem og omkr. en
+strømførende Spole. Den træder ud ved den
+ene Ende og ind igen ved den anden. Inde i
+Spolen flyder Strømmen i Retning af Spoleaksen,
+idet den magnetiske Kraft har denne Retning.
+Naar man kan fremstille Billeder af
+Induktionsliniestrømmen ved Hjælp af Filspaaner,
+ligger det i, at hver enkelt lille Spaan bliver
+til en Magnet, der stiller sig ind i Retning af
+den magnetiske Kraft, altsaa ogsaa i
+Induktionsliniestrømmens Retning.
+
+<sp>Induktionsloven</sp>. Det har nu vist sig,
+at man i den magnetiske Induktionsliniestrøm
+har et Middel til Frembringelse af
+elektromotoriske Kræfter, altsaa Drivkraft for elektrisk
+Strøm. Sammenhængen hermed er flg. Lad <i>A</i>,
+Fig. 7, forestille en lukket Leder, der befinder
+sig i en magnetisk Strøm. Vi fremstiller
+Strømmen ved Induktionslinier som ovf. antydet. Lad
+Lederen omslutte Φ saadanne Linier. Dersom
+man nu paa en ell. anden Maade, ligegyldig
+hvilken, ændrer dette Antal, vil der i Lederen
+opstaa en elektromotorisk Kraft <i>e</i>, der er desto
+større, jo hastigere Ændringen foretages. Man
+kan derfor udtrykke <i>e</i> ved
+8 ° <i>e</i> = <i>c3</i> · <i>d</i>Φ / <i>dt</i>,
+naar man ved Φ forstaar Tilvæksten i Antallet
+af omsluttende Linier i Tiden <i>dt</i>, og naar <i>c3</i>
+betyder en Konstant. Dennes Talværdi er
+afhængig af de valgte Enheder. Dersom man
+maaler Φ i den ovf. antydede absolutte
+magnetiske Enhed, hvor <i>B</i> = <i>H</i> for det tomme Rum,
+og hvis man maaler <i>e</i> i saakaldte absolutte
+elektromagnetiske Enheder, bliver <i>c3</i> = 1 og
+altsaa
+
+8°' <i>e</i> = <i>d</i>Φ / <i>dt</i>.
+
+Den i Lederen frembragte ell., som man
+siger, <sp>inducerede</sp>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>
+
+<img>Fig. 6.</img>
+

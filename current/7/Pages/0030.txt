@@ -1,0 +1,104 @@
+Højspændingsledningerne udspændt jordforbunden
+Traad, den saakaldte »<sp>Jordtraad</sp>«, som, da
+den jo ingen Strøm fører, af Besparingshensyn
+kan udføres af Jern.
+
+Om Ledningsmateriel til Husinstallationer se
+<sp>elektriske Installationer og
+Installationsmateriel</sp>.
+<i>R. J. J.</i>
+
+<img>Fig. 16. Nitteforbindelse.</img>
+
+<img>Fig. 17. Konusforbindelse.</img>
+
+<img>Fig. 18. Masteafbryder.</img>
+</chapter>
+
+<chapter name="elektrisk Ledningsmodstand">
+<b>elektrisk Ledningsmodstand</b>
+(internationalt Symbol <i>R</i>). Til Grund for Indførelsen af
+Begrebet e. L. ligger Forestillingen om en
+vidtgaaende Analogi mellem den elektriske Strøm
+og en Vædskestrøm. Et galvanisk Element (ell.
+et andet Sæde for elektromotorisk Kraft), hvis
+Poler er forbundne ved en Metaltraad,
+hvorigennem der altsaa gaar en elektrisk Strøm,
+frembyder i mange Henseender Analogi med en
+Pumpe, der, anbragt i en Rørledning, som
+vender tilbage til Pumpen, faar Vædsken til at
+cirkulere i denne Rørledning (f. Eks. Hjertet i
+Forbindelse med Blodkarrene). Til den
+Trykforskel, som Pumpen vedligeholder, og som
+holder Vædskestrømmen i Gang, svarer den
+Spændingsforskel, som Elementet vedligeholder, og
+som holder den elektriske Strøm i Gang. Og
+ligesom den Mængde Vædske, som en Pumpe,
+der vedligeholder en bestemt Trykforskel, kan
+sende pr Sek. gennem Rørledningen, altsaa
+Strømstyrken, er proportional med denne
+Trykforskel og afhængig af Ledningens Dimensioner
+og af hvilken Vædske, der er Tale om, idet
+Rørledningen gør Modstand mod Vædskens
+Bevægelse p. Gr. a. den indre Gnidning i Vædsken,
+hvorved der udvikles Varme, saaledes viser det
+sig, at den Mængde Elektricitet, som et bestemt
+Element pr Sek. sender gennem Ledningen (den
+elektriske Strømstyrke), er proportional med
+Elementets Polers Spændingsforskel (den
+elektromotoriske Kraft) og afhængig af Ledningens
+Dimensioner og af, hvilket Stof den er lavet af,
+og Elektricitetens Strømning gennem Ledningen
+er ogsaa ledsaget af en Varmeudvikling. Det
+ligger da nær ogsaa i dette Tilfælde at tale om
+en Modstand i Ledningen mod Elektricitetens
+Bevægelse (hermed er intet sagt om, hvor vidt
+der er nogen som helst Analogi mellem
+Mekanismen ved Vædske- og Elektricitetsstrøm [se
+<sp>Elektronteori og Elektrolyse</sp>]).
+Forsøg (som kan gøres, naar man raader over en
+Elektricitetskilde med konstant elektromotorisk
+Kraft, og saa snart det er fastslaaet, hvilken af
+Strømmens Virkninger man vil bruge til at
+maale dens Styrke med) viser, at Modstanden
+for cylindriske Ledninger er proportional med
+deres Længde og omvendt proportional med
+deres Tværsnitsareal.
+
+Den nævnte Erfaringssætning, at Strømstyrken
+<i>I</i> er proportional med den elektromotoriske
+Kraft <i>E</i>, er <sp>Ohm's Lov</sp>, en af Grundlovene
+i Elektricitetslæren. Proportionalitetsfaktoren <i>R</i>
+i det mat. Udtryk for Ohm's Lov: <i>E</i>=<sp><i>R I</i></sp>, er
+selve Modstanden, idet man giver Loven den
+simplest mulige Form ved at udelade
+Talfaktorer. Naar Enhederne for Strøm og Spænding
+er fastslaaede, er da ogsaa Enheden for
+Modstanden givet. I det absolutte elektromagnetiske
+System af Enheder har disse ikke faaet Navne
+(se <sp>elektriske Maaleenheder</sp>); dette System
+anvendes ved teoretiske Beregninger, men ikke i
+Praksis. I det praktiske System er Enheden for
+Strøm en Ampère og for Spænding en Volt;
+den tilsvarende Modstandsenhed, der hedder en
+<sp>Ohm</sp>, er da den Modstand, som findes i en
+Ledning, hvorigennem der løber en Strøm paa
+1 Ampère, naar der mellem dens Endepunkter
+vedligeholdes en Spændingsforskel paa 1 Volt.
+Forsøg har vist, at dette meget nær er Tilfældet
+med en Streng af rent Kvægsølv af 1 mm<sup>2</sup>
+Tværsnit og 106,3 cm Længde ved 0°; men da
+Modstande kan sammenlignes med større
+Nøjagtighed end den, hvormed man kender ell. let kan
+bestemme dette Tal, har man vedtaget, at 1
+Ohm skal være Modstanden i den saaledes
+definerede Kvægsølvstreng, uanset, at den
+muligvis ikke passer nøjagtig med den teoretiske
+Definition. Den saaledes definerede Ohm kaldes
+den internationale (i Brug siden 1893); den ældre
+Ohm, den saakaldte legale, havde 106,0 i St f.
+106,3 cm (ældre Modstandsenheder er Siemens'
+Enhed 0,9407 Ohm og British Associations Enhed
+0,9866 Ohm). Af de afledede Enheder bruges i
+
+

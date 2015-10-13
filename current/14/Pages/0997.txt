@@ -1,0 +1,66 @@
+<chapter name="RETTELSER OG TILFØJELSER">
+<h1><sp>RETTELSER OG TILFØJELSER</sp></h1>.
+De i hvert Bind opførte Rettelser og Trykfejl vil blive samlede for hvert femte Bind.
+
+<table>
+<td 7 c><sp>BIND I</sp>.
+<td>Side<td>138,<td>Spalte<td>1,<td>Linie<td>22 og 26 f. o.<td>Thiele's læs: Thiel's
+</table>
+
+<table>
+<td 7 c><sp>BIND II</sp>.
+<td>Side<td>333,<td>Spalte<td>2,<td>Linie<td>9 f. n.<td>145500 læs: 14 X 5500
+</table>
+
+<table>
+<td 7 c><sp>BIND III</sp>.
+<td>Side<td r>33,<td>Spalte<td>2,<td>Linie<td r>9 f. o.<td>tilføjes under Litt: <sp>C. Skou</sp>, A. P. B., et Mindeskrift [Kbhvn 1895]
+<td c>—<td r>308,<td c>— <td>1,<td c>—<td r>31 f. n.<td>1892 læs: 1901
+</table>
+
+<table>
+<td 7 c><sp>BIND VIII</sp>.
+<td>Side<td>559,<td>Spalte<td>2,<td>Linie<td>10 f. n.<td>G udgaar
+</table>
+
+<table>
+<td 7 c><sp>BIND X</sp>.
+<td>Side<td>908,<td>Spalte<td>2,<td>Linie<td>3 f. n.<td>Halling læs: Stalling
+</table>
+
+<table>
+<td 7 c><sp>BIND XII</sp>.
+<td>Side<td>360,<td>Spalte<td>2,<td>Linie<td r>14 f. o.<td>skræver læs: kræver
+<td c>—<td>486,<td c>—<td>2,<td c>—<td r>10 f. o.<td>r læs: θr
+<td c>—<td>529,<td c>—<td>1<td 2>................<td>Underskrifterne til Fig. 1 og Fig. 2 skal ombyttes
+<td c>—<td>580,<td c>—<td>2,<td c>—<td r>24 f. o.<td>tilføjes: <sp>H. Hermannsson</sp>: <i>Islandica</i> I, III—VI, IX—XI, XIII, XIV (1908—20) indeholdende flere Bibliografier,<br>og <sp>samme</sp>: <i>Catalogue of the Icel. collection bequeathed by W. Fiske</i> (1914)
+<td c>—<td>595,<td c>—<td>2,<td c>—<td r>33 f. n.<td>Efter »Danmark« tilføjes: »under den af Statsminister C. Th. Zahle ledede Regering og ved Medvirkning af de<br>ovennævnte politiske Førere«
+<td c>—<td>895,<td c>—<td>2,<td c>—<td r>12 f. o.<td>J. læs: J. J.
+</table>
+
+<table>
+<td 7 c><sp>BIND XIII</sp>.
+<td>Side<td>312,<td>Spalte<td>2,<td>Linie<td>11 f. o.<td>Appleby læs: Allenby
+<td c>—<td>577,<td c>—<td>2<td c>—<td>30 f. o<td v2>} Portrætterne af Karl IX og Karl XI skal ombyttes
+<td c>—<td>580,<td c>—<td>2<td c>—<td>25 f. o
+<td c>—<td>816,<td c>—<td>1,<td c>—<td>19 f. n.<td>Garmann læs: Garman
+<td c>—<td>816,<td c>—<td>2,<td c>—<td>30 f. o.<td>Ine læs: Sne
+<td c>—<td>816,<td c>—<td>2,<td c>—<td>30 f. n.<td>Garmann læs: Garman
+</table>
+
+<table>
+<td 7 c><sp>BIND XIV</sp>.
+<td>Side<td r>20,<td>Spalte<td>2,<td>Linie<td r>11 f. o.<td>Keserjö læs: Kesergö
+<td c>—<td r>20,<td c>—<td>2,<td c>—<td r>34 f. o.<td>Magyarországlan læs: Magyarországban
+<td c>—<td r>33,<td c>—<td>1<td 2>............<td>nederst: Rentryksdatoen skal være 10/9 1922
+<td c>—<td r>65,<td c>—<td>2,<td c>—<td r>12 f. n.<td>1362 læs: 1368
+<td c>—<td r>69,<td c>—<td>1,<td c>—<td r>11 f. n.<td>Epidemisk Hospital læs: Epidemihospital
+<td c>—<td r>71,<td c>—<td>1,<td c>—<td r>34 f. o.<td>191 læs: 1914
+<td c>—<td r>72,<td c>—<td>2,<td c>—<td r>26 f. o.<td>nedenst. læs: omstaaende
+<td c>—<td r>75,<td c>—<td>2,<td c>—<td r>2 f. n.<td>Hvidovre læs: Hvidøre
+<td c>—<td r>75,<td c>—<td>2,<td c>—<td r>1 f. n.<td>Mellefortet læs: Mellemfortet
+<td c>—<td r>383,<td c>—<td>2,<td c>—<td r>32 f. o.<td>med læs: eller
+<td c>—<td r>383,<td c>—<td>2,<td c>—<td r>19 f. n.<td>og læs: af
+<td c>—<td r>573,<td c>—<td>2,<td c>—<td r>31 f. n.<td>Efter »Ordførerne« indskydes »for Forslaget«
+</table>
+</chapter>

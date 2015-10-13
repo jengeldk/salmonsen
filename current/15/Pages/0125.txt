@@ -1,0 +1,154 @@
+fuldstændige Kvotient <i>x</i><sub>1</sub> er > 1; <i>a</i><sub>1</sub> er det hele Tal
+nærmest lavere end <i>x</i><sub>1</sub> o. s. v. En Brøk giver
+ved Udvikling en K. med et endeligt Antal
+ufuldstændige Kvotienter, og en saadan K. er
+altid Udtryk for en Brøk; en positiv irrational
+Rod i en kvadratisk Ligning med rationale
+Koefficienter giver en i det uendelige fortsat K.,
+der fra et vist Punkt at regne bestaar af den
+samme Række ufuldstændige Kvotienter
+gentaget i det uendelige, og omvendt er en
+saadan <sp>periodisk</sp> K. altid Rod i en
+kvadratisk Ligning med rationale Koefficienter. Den
+første Del af K. op til <i>a</i>, f. Eks. <i>a<sub>r</sub></i>
+inklusive, kaldes en <sp>Konvergent</sp> og betegnes
+ved <i>y<sub>r</sub></i>/<i>z<sub>r</sub></i>, hvor med <i>y<sub>r</sub></i> og <i>z<sub>r</sub></i> menes Tæller og
+Nævner i den nævnte Del af K.
+skrevet som uforkortelig Brøk. Til successiv
+Beregning af Konvergenterne tjener Formlen:
+<i>y<sub>r</sub></i>/<i>z<sub>r</sub></i> = <i>y<sub>r</sub></i>÷1<i>a<sub>r</sub></i>+<i>y<sub>r</sub></i>—2 / <i>z<sub>r</sub></i>—1<i>a<sub>r</sub></i>+<i>z<sub>r</sub></i>—2. Konvergenterne er
+Tilnærmelsesværdier til K., stadig bedre, jo større
+<i>r</i> bliver, og mindre ell. større end K., efter
+som <i>r</i> er lige ell. ulige; <i>y<sub>r</sub></i>/<i>z<sub>r</sub></i>'s Afvigelse fra K.
+er mindre end 1/<i>z<sub>r</sub></i><sup>2</sup>. Sætter man i St. f. en
+Konvergent en anden Tilnærmelsesværdi paa
+Brøks Form, faar man enten en større Nævner
+ell. en daarligere Tilnærmelse. Denne Maade
+at danne Tilnærmelsesværdier paa
+anvendes f. Eks. til tilnærmet Beregning af Rødder
+i Ligninger ell. til at erstatte Brøker ved andre
+med mindre Tæller og Nævner. Vil man
+saaledes udtrykke Forholdet mellem en fr. og en
+eng. Fod, der meget nær er = 3600/3379, ved
+simplere Tal, udvikles i K., hvorved faas de
+ufuldstændige Kvotienter 1, 15, 3, 2, 4, 1, 5 og
+Konvergenterne 1/1, 16/15, 49/46,114/107,505/474,619/581,3600/3379. Man
+har da f. Eks.: 1/ fr. Fod/1 eng. Fod — 505/474 < 1/474<sup>2</sup>, ell.
+474 fr. Fod — 505 eng. Fod < 1 eng. Fod/474, ɔ:
+sætter man 474 fr. Fod = 505 eng. Fod, er den
+begaaede Fejl < 1/474 af en eng. Fod. Andre
+vigtige Anvendelser af K. forekommer ved
+Løsningen af ubestemte Ligninger (s. d.) og i
+Talteorien. Man har ogsaa behandlet mere alm.
+Former for K., hvor der i St f. Ettallene og
+<i>a</i>'erne staar vilkaarlige Tal, og har der fundet
+en lgn. simpel Metode til successiv Beregning
+af Konvergenterne som ovf. samt
+Konvergensbetingelser for uendelige K.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Kædegarn">
+<b>Kædegarn,</b> se <sp>Vævning</sp>.
+</chapter>
+
+<chapter name="Kædehandel">
+<b>Kædehandel.</b> Herved forstaas en
+fordyrende, uproduktiv Varehandel, hvorved Varen gaar
+fra Haand til Haand i <sp>samme</sp> Omsætningsled
+ell. maaske endog tilbage f. Eks. fra Detaillist
+til Grossist, ell. hvor der indskydes helt nye,
+ellers udenforstaaende Mellemhandlere som
+Mellemled i Varens (normale) Omsætning.
+<i>Ch. V. N.</i>
+</chapter>
+
+<chapter name="Kædehjul">
+<b>Kædehjul,</b> Tandhjul, hvis Tænder griber ind
+i Ledene paa en Kæde, saa at enten Hjulet tager
+Kæden med sig, naar det drejes, ell. Kæden
+tager Hjulet med, sig, naar der trækkes i den.
+Nærliggende Eksempler paa K. frembyder
+simplere Væggeure, hvis Lodder hænger i Kæder,
+og Cykler.
+<i>F. W.</i>
+</chapter>
+
+<chapter name="Kædeled">
+<b>Kædeled,</b> den enkelte Del, hvoraf en Kæde
+bestaar.
+</chapter>
+
+<chapter name="Kædelinie">
+<b>Kædelinie</b> (mat.) kaldes den Kurve (paa
+Fig. <i>CBA</i>), der dannes af en i to Punkter (<i>A</i>
+og <i>C</i>) ophængt uelastisk Snor, forudsat at
+Vægtene af vilkaarlige Stykker af Snoren er
+proportionale med Stykkernes Længder. K., der
+først er undersøgt af Joh. Bernoulli, har
+adskillige mærkelige Egenskaber, der findes
+udledte i de fleste Lærebøger i rationel Mekanik.
+Den er saaledes
+Løsning paa den
+isoperimentriske
+Opgave: Find
+den af alle plane
+Buer med
+samme Længde, der
+ved Drejning om
+en Akse i dens
+Plan beskriver
+det mindste
+Areal, idet
+Buens
+Endepunkter har en given
+Beliggenhed i
+Forhold til
+Aksen. Dette er
+en Følge af
+den
+barycentriske Regel (s. d.), efter hvilken det
+beskrevne Areal er = Buens Længde
+multipliceret med Omkredsen af den Cirkel, som dens
+Tyngdepunkt beskriver; stilles Aksen (<i>X</i>)
+nemlig vandret, falder iflg. Ligevægtslæren
+Tyngdepunktet saa nær ved Aksen som muligt, naar
+Buen antager K.'s Form. K.'s Ligning i et
+retvinklet Koordinatsystem med vandret <i>X</i>-Akse
+og <i>Y</i>-Aksen gaaende gennem det laveste Punkt
+(<i>B</i>) er <i>y</i> = <i>h</i>/2 (<sub><i>e</i></sub> <i>x/h</i> <sub>+<i>e</i></sub> — <i>x/h</i>)> hvor <i>e</i> er
+Grundtallet for de naturlige Logaritmer og <i>h</i> en
+Konstant.
+<i>Chr. C.</i>
+
+<img>Kædelinie.</img>
+</chapter>
+
+<chapter name="Kæden">
+<b>Kæden,</b> se <sp>Kædeordenen</sp>.
+</chapter>
+
+<chapter name="Kædenitning ell. Siksaknitning">
+<b>Kædenitning</b> ell. <sp>Siksaknitning</sp>
+kaldes det Arrangement af Nitterne i en
+Forbindelse med to ell. fl. Nitterækker bag hinanden,
+hvor Nitterne i den ene Række sidder ud for
+Mellemrummene i den foreg. og efterflg. Række.
+Modsætningen hertil er <sp>Parallelnitning</sp>,
+hvor Nitterne i alle Rækker sættes lige ud for
+hinanden.
+<i>A. O-d.</i>
+</chapter>
+
+<chapter name="Kædeordenen">
+<b>Kædeordenen</b> ell., som dens fulde Navn
+lyder, <sp>Kæden de tre vise af Østerland</sp>
+er et hemmeligt, væsentlig filantropisk Selskab,
+hvis Oprindelse gaar langt tilbage i Tiden, og
+som i fl. Henseender minder om de gl. »Gilder«.
+K. formodes at være ophørt i Slutn. af 17. Aarh.,
+men fornyedes, iflg. den af Selskabet udgivne
+Matrikel, 27. Novbr 1774. I Beg. af 19. Aarh.
+paatog K. sig to Opgaver, som siden har hørt
+til dens faste Virksomhed: Omsorgen for Blinde
+og for Fattiges Bespisning om Vinteren. K. er

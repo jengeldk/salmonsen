@@ -1,0 +1,141 @@
+man som det ovenfor er antydet (se Afsnittet:
+<sp>Entropien af Legemerne i
+forskellige Tilstande</sp>) ved Hjælp af Varmefylde,
+Smelte- og Fordampningsvarme regne sig til
+Entropiens Absolutværdi for Stoffet i Luftform.
+Man bliver derved ogsaa i Stand til at beregne
+Entropien af en Blanding af Luftarter, som kan
+reagere kemisk med hverandre. Skal der være
+kemisk Ligevægt i en saadan Luftblanding, maa
+Entropien af Blandingen plus Omgivelserne —
+hvormed man sædvanlig tænker paa en
+Varmebeholder af konstant Temperatur — være
+Maksimum, og derved lader denne Ligevægt
+sig fuldstændig forudberegne ud fra
+Kendskabet til de ovennævnte Varmedata i Forbindelse
+med Kendskabet til Reaktionsvarmen ved en
+enkelt Temperatur.
+
+<sp>Den mekaniske Varmeteoris
+Anvendelse</sp>. Den mekaniske Varmeteori finder
+overordentlig udstrakt Anvendelse, saavel
+teoretisk som praktisk. I <sp>Fysikken</sp> grunder
+dens Anvendelse sig paa, at den knytter
+saadanne Størrelser som Rumfang, Tryk, elektrisk
+Spænding o. l., hvorved Legemernes Arbejde
+udtrykkes, sammen med Størrelserne
+Varmefylde og latent V., som udtrykker
+Varmetoningerne. Anvender vi 1. og 2. Hovedsætning paa
+en reversibel Kredsproces — hvor Begyndelses-
+og Slutningstilstanden er den samme — maa
+de nævnte Størrelser nemlig opfylde
+Ligningerne Σ <i>J Q</i> — <i>A</i> = 0 og Σ <i>Q</i>/<i>T</i> = 0.
+Clapeyron's Formel er et enkelt Eksempel paa en
+paa denne Maade vundet Formel. Det ofte
+citerede <sp>le Chatelier</sp>'ske <sp>Princip</sp> er,
+hvor det finder Anvendelse, blot en kvalitativ
+Form for en termodynamisk begrundet
+Sammenknytning. Det kan formuleres saaledes:
+Naar man ved Indgreb udefra forstyrrer en
+Ligevægtstilstand, vil der foregaa en Ændring
+i den, hvorved Indgrebet modvirkes. Naar man
+f. Eks. pludselig strækker en Metaltraad, vil
+den afkøles derved. Ved Afkøling trækker
+Traaden sig normalt sammen, og det ser altsaa ud,
+som om Traaden aktivt ændrede sin Tilstand
+for at modvirke den Forlængelse, som Trækket
+udefra fremkalder. Princippet anvendes især
+over for Ligevægtstilstande i Kemien.
+
+Det maa endvidere nævnes, at Lovene for
+Varmestraalingen er bygget paa Varmeteoriens
+to Hovedsætninger.
+
+I <sp>Meteorologien</sp> finder Varmeteorien
+særlig Anvendelse paa den atmosfæriske Lufts
+Temperaturændringer ved Strømninger.
+
+I <sp>Teknikken</sp> angiver de paa Grundlag af
+Varmeteorien beregnede termiske
+Virkningsgrader af Dampmaskiner, Dampturbiner og
+Eksplosionsmotorer det Maksimum af mekanisk
+Energi, som der er Mulighed for at vinde.
+
+For <sp>Kemien</sp> har vi under Nernst's
+Varmeteorem omtalt Varmeteoriens Betydning for
+Beregningen af den kemiske Ligevægt og det
+hermed sammenhængende Spørgsmaal om
+Stoffernes Affinitet. Den kan derved afgøre, hvor
+meget af den kemiske Energiændring ved en
+Proces der er Mulighed for at faa afgivet i Form
+af mekanisk (eller elektrisk) Arbejde. For den
+fra et Energisynspunkt teknisk vigtigste Proces,
+Kulstoffets Forbrænding, viser Beregningen
+saaledes, at der er teoretisk Mulighed for at
+faa næsten al Energiforskellen i Form af
+mekanisk Arbejde.
+
+Det skal lige nævnes, at man for at kunne
+give den matematiske Formulering af
+Ligevægtsbetingelserne en bekvem Form foruden de
+to fundamentale Tilstandsfunktioner: indre
+Energi <i>U</i> og Entropi <i>S</i> har indført nogle af
+dem afledede Tilstandsfunktioner, nemlig: <sp>den
+fri Energi</sp> <i>F<sub>v</sub></i> = <i>U</i>—<i>TS</i>. <sp>det totale
+Varmeindhold</sp> <i>W</i> = <i>u</i> + <i>pv</i> og <sp>det
+termodynamiske Potential</sp> <i>F<sub>p</sub></i> = <i>W—TS</i>.
+hvor <i>T</i>. <i>p</i> og <i>v</i> henholdsvis er absolut
+Temperatur, Tryk og Rumfang.
+
+<sp>Den kinetiske Varmeteori</sp>.
+<sp>Statistisk Mekanik</sp>. Den mekaniske
+Varmeteori bygger paa de to Hovedsætninger,
+Energisætningen og Entropisætningen. Den betragter
+dem som Erfaringssætninger og drager
+Konsekvenserne af dem til at finde kvantitative
+Relationer mellem direkte maalelige Størrelser,
+som Tryk, Temperatur, Varmemængde o. s. v.,
+men den giver sig ikke af med Spekulationer
+over Hovedsætningernes dybere Natur. Den
+kinetiske Teori derimod vil udlede disse
+Sætninger, vise, at de er Konsekvenser af, at
+Legemerne er sammensatte mekaniske Systemer,
+bygget op af et uhyre Antal Molekyler, en
+Forestilling, som ikke længere er nogen Hypotese,
+men en af et overvældende Bevismateriale
+bekræftet Teori. Paa Grund af, at Molekylerne er
+saa overordentlig smaa og er til Stede i et saa
+overvældende Antal, kommer vi ved vore
+almindelige Maalinger — af Tryk, Tæthed o. s. v. —
+aldrig til at iagtfage de enkelte Molekylers
+individuelle Virkninger, men kun Middelværdier,
+frembragt af utallige Molekyler. Den kinetiske
+Teori bliver derfor ikke Mekanik alene, men
+statistisk Mekanik, fordi Statistikkens Love for
+de store Tal finder Anvendelse til Beregning af
+de iagttagelige Middelværdier.
+
+<sp>Energisætningen</sp>. Hvad 1.
+Hovedsætning angaar, følger den umiddelbart af den
+Forudsætning, at Molekylmekanikken er en
+gnidningsfri Punktmekanik, for hvilken
+Energisætningen gælder. Hvad der for vor grove
+Iagttagelse tager sig ud som Tab af mekanisk
+Energi til Gnidningsvarme, er set fra et
+molekulært Standpunkt blot en Omsætning af
+regelmæssig ordnet Bevægelse til uordnet. Det mest
+detaillerede Billede af Molekylernes
+Bevægelsestilstand kan vi danne os, naar Stoffet er i
+Luftform. (Se nærmere: <sp>kinetisk Teori</sp>). For
+den gælder den vigtige Sætning, at Middelværdien
+af den kinetiske Energi af et Molekyle ved den
+absolutte Temperatur <i>T</i> er lig med 3/2 <i>k T</i> Erg,
+hvor <i>k</i> er en universel Konstant, kaldet
+Boltzmann's Konstant, lig 1,37 . 10<sup>-16</sup>. Sætningen
+gælder for et hvilket som helst frit bevægeligt
+Molekyle eller Partikel og giver en kinetisk
+Fortolkning af Temperaturen. Det absolutte
+Nulpunkt faar sin naturlige Forklaring som
+den Temperatur, hvor alle Molekyler er i Hvile.
+I Lufttilstanden er Molekylerne gennemsnitlig
+saa langt fra hverandre, at de ikke gensidig

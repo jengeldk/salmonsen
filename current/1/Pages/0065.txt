@@ -1,0 +1,62 @@
+<img>AARHUS</img>
+
+<table>
+<td r>1.<td><i>Marselisborg Hospital</i><td r>A 1
+<td r>2.<td><i>Ny teknisk Skole</i><td r>A 2
+<td r>3.<td><i>Skt Josefs Hospital</i><td r>A 3
+<td r>4.<td><i>Den jyske Handelshøjskole</i><td r>B 3
+<td r>5.<td><i>Skt Paulskirke</i><td r>B 3
+<td r>6.<td><i>Skansen</i><td r>B 3—4
+<td r>7.<td><i>Amtssygehus</i><td r>B 2
+<td r>8.<td><i>Immanuelskirke</i><td r>B 1
+<td r>9.<td><i>Garnisonssygehus</i><td r>C 2
+<td r>10.<td><i>Romersk-katolsk Kirke</i><td r>C 3
+<td r>11.<td><i>Kasino</i><td r>C 3
+<td r>12.<td><i>Kvægtorvet (Markedspl.)</i><td r>B 4
+<td r>13.<td><i>Gasværk</i><td r>C 4
+<td r>14.<td><i>Elektricitetsværk</i><td r>C 4
+<td r>15.<td><i>Anlægspl. f. Kjøbenh.s Skib</i><td r>D 5
+<td r>16.<td><i>Anlægspl. f. Kallundborg Skib</i><td r>D 4
+<td r>17.<td><i>do. - Aarhus Bugtens -</i><td r>D 4
+<td r>18.<td><i>do. - Marselisborg -</i><td r>D 5
+<td r>18a.<td><i>do. - Riis Skov -</i><td r>F 5
+<td r>19.<td><i>Børsen</i><td r>D 4
+<td r>20.<td><i>Toldkammer</i><td r>D 4
+<td r>21.<td><i>Teater</i><td r>D 4
+<td r>22.<td><i>Post- og Telegrafstation</i><td r>D 4
+<td r>23.<td><i>Domkirke</i><td r>E 4
+<td r>24.<td><i>Hotel Skandinavien</i><td r>E 4
+<td r>25.<td><i>Bispekontor</i><td r>D 4
+<td r>26.<td><i>Den folkelige Forsamlingsb.</i><td r>D 3
+<td r>27.<td><i>Frimurerloge</i><td r>D 3
+<td r>28.<td><i>Ting- og Arresthus</i><td r>D 3
+<td r>29.<td><i>Fattiggaard</i><td r>D 2
+<td r>30.<td><i>Statsbibliotek</i><td r>D 2
+<td r>31.<td><i>Ny jyske Købstadkreditforeng.</i><td r>D 3
+<td r>32.<td><i>Museum</i><td r>E 2
+<td r>33.<td><i>Gamle Borgmestergaard</i><td r>E 1
+<td r>34.<td><i>Betlehemskirke</i><td r>F 3
+<td r>35.<td><i>Teknisk Skole</i><td r>E 3
+<td r>36.<td><i>Frue Kirke med Kloster</i><td r>E 3
+<td r>37.<td><i>Højskolehjem</i><td r>E 3
+<td r>38.<td><i>Jysk Handels og Landbrugs Bank-Amtstue</i><td r>E 3
+<td r>39.<td><i>Hotel Royal</i><td r>E 4
+<td r>40.<td><i>Nationalbank</i><td r>E 4
+<td r>41.<td><i>Katedralskole</i><td r>E 4
+<td r>42.<td><i>Raadhuset-Politistation</i><td r>E 4
+<td r>43.<td><i>Borgmesterkontor</i><td r>E 4
+<td r>44.<td><i>Bikuben</i><td r>E 4
+<td r>45.<td><i>Skt Olufs Badeanstalt</i><td r>E 4
+<td r>46.<td><i>Haandværkerforeningen</i><td r>F 4
+<td r>47.<td><i>Valgmenighedskirke</i><td r>F 3
+<td r>48.<td><i>Brandstation</i><td r>F 3
+<td r>49.<td><i>Vennelyst</i><td r>G 3
+<td r>50.<td><i>Kaserne</i><td r>G 3
+<td r>51.<td><i>Den jyske Fødselsanstalt</i><td r>G 3—4
+<td r>52.<td><i>Kommunehospital</i><td r>G 4
+<td r>53.<td><i>Kvindeseminarium</i><td r>H 4
+<td r>54.<td><i>Skt Johannes Kirke</i><td r>H 4
+<td r>55.<td><i>Kvindehjælpens Hjem</i><td r>I 1—2
+<td r> S<td><i>Borgerskoler.</i><td r>
+<td 2><img></img>Sporvogn.
+</table>

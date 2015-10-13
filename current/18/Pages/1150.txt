@@ -1,0 +1,125 @@
+Efter Ca brydes Analogien med de tidligere
+Perioder af det p. S. (smlg. Tabel II), og først
+ved Ge, As, Se, Br og Kr kommer Analogien
+igen. Af de mellemliggende Stoffer kan Kobber
+(29) være monovalent, Zink (30) og Gallium (31)
+er henh. rent divalente og rent trivalente
+Stoffer. Dette er en Følge af en vis Tilbøjelighed
+til at danne en afsluttet symmetrisk
+Konfiguration paa 28 Elektroner, der da vilde bestaa af
+en Neonkonfiguration (to 1<sub>1</sub>-, fire 2<sub>1</sub>- og fire
+2<sub>2</sub>-Elektroner), uden om hvilken der fandtes en
+afsluttet Gruppe paa seks 3<sub>1</sub>-, seks 3<sub>2</sub>- og seks
+3<sub></sub>-Baner. Valenselektronerne hos Zn og Ga er
+da 4<sub>1</sub>-Elektroner, og Kryptons Bygning bliver
+derfor: to 1<sub>1</sub>-; fire 2<sub>1</sub>- og fire 2<sub>2</sub>-; seks 3<sub>1</sub>-, seks
+3<sub>2</sub>- og seks 3<sub>3</sub>- samt fire 4<sub>1</sub>- og fire 4<sub>2</sub>-Elektroner.
+Aarsagen til, at der ingen inaktiv Luftart findes
+med 28 Elektroner, maa søges i, at en afsluttet
+Gruppe paa 6 + 6 + 6 Elektroner ikke kan
+bestaa i »Overfladen« af et Atom, men kun »inde
+i« Atomet ell. i en positiv Ion, hvor
+Kraftfelterne er større. I »Overfladen« af neutrale
+Atomer er nemlig Kerneladningen næsten
+neutraliseret af alle Elektronerne, der siges at
+afskærme Kernens Ladning. I positive Ioner derimod,
+og især i flerdobbelt ladede som Zn<sup>++</sup>, bliver
+Kraftfeltet i »Overfladen« langt stærkere end
+hos Atomer som Følge af, at nogle af
+Elektronerne er fjernede; ligeledes bliver Kraftfeltet
+i det Indre af neutrale Atomer, hvor
+Kerneladningen ikke mere er afskærmet af alle
+Elektronerne, ogsaa kraftigere.
+
+Mellem Stofferne Rubidium (37) og den
+inaktive Luftart Xenon (54) sker en lgn. Udvikling
+som fra K (19) til Kr (36), d. v. s., at den i Kr
+kun <sp>delvis</sp> afsluttede Elektrongruppe paa
+fire 4<sub>1</sub>- og fire 4<sub>2</sub>-Elektroner bliver i X udviklet
+til en større afsluttet Gruppe paa 6 + 6 + 6
+Elektroner i henh. 4<sub>1</sub>-, 4<sub>2</sub>- og 4<sub>3</sub>-Baner,
+hvorover der findes en ny symmetrisk Gruppe paa
+fire 5<sub>1</sub>- og fire 5<sub>2</sub>-Elektroner.
+
+En Oversigt over de inaktive Luftarters
+Elektronbygning findes i Tabel IV.
+
+I den meget store Periode VI, der begynder
+med Cæsium (55), hvis yderste Elektron
+(Valenselektronen) bevæger sig i en 6<sub>1</sub>-Bane, sker
+der samtidigt Udvikling af to delvist
+afsluttede Grupper. For det første sker der en
+Forøgelse af Antallet af Elektroner med
+Hovedkvantetallet 5 fra en Gruppe paa 4 + 4
+Elektroner til en Gruppe paa 6 + 6 + 6 Elektroner
+i 5<sub>1</sub>-, 5<sub>2</sub>- og 5<sub>3</sub>-Baner. Dette ses direkte af
+Analogien baade mellem Yttrium (39) og Lanthan
+(57) og mellem Stofferne Zirkon (40) til
+Palladium (46) og den ganske analoge Hafnium (72)
+til Platin (78). Den anden Udvikling, der sker,
+er, at Elektroner i 4<sub>4</sub>-Baner begynder at
+forekomme i Atomerne, og at den foreløbig
+afsluttede Gruppe af seks 4<sub>1</sub>-, seks 4<sub>2</sub>- og seks
+4<sub>3</sub>-Elektroner udvikles til en fuldstændig
+afsluttet Gruppe paa otte 4<sub>1</sub>-, otte 4<sub>2</sub>-, otte 4<sub>3</sub>- og otte
+4<sub>4</sub>-Elektroner. Da 4-Kvantegruppen under denne
+Udvikling ligger forholdsvis dybt i Atomerne
+(der findes i disse Atomer Elektroner, hvis
+Hovedkvantetal er indtil 6), vil Forøgelsen af
+Antallet af Elektroner i 4-Kvantegruppen næsten
+ikke kunne mærkes i »Overfladen« af Atomet,
+og altsaa heller ikke i de kem. Egenskaber, og
+man forstaar derfor ud fra Atommodellen de
+sjældne Jordarters næsten identiske kemiske
+Egenskaber.
+
+Karakteristisk for denne Teori for det p. S.,
+som Bohr har opstillet paa Grundlag af sin
+Teori for Brintatomet, er den overordentlig
+store Mængde fys. og kem. Kendsgerninger, som
+den er i Stand til at stille i ny Belysning.
+Saaledes har Teorien skabt et helt nyt
+Arbejdsprogram for Spektroskopien, og Teorien har ved
+Studiet af Spektrene vundet Støtte paa en Rk.
+afgørende Punkter. I Fig. 4 er vist en Opstilling
+af det p. S., som Bohr har givet paa Grundlag
+af sin Teori. Stoffer i samme Gruppe i Tabel II
+er her fortoldet med rette Linier. De Stoffer, i
+hvilke der er en indre Elektrongruppe under
+Udvikling, er indrammede. Det er interessant,
+at netop de Stoffer, der danner farvede
+Forbindelser, og som er paramagnetiske, findes
+inden for disse Rammer.
+
+De to tidligere nævnte Lovmæssigheder:
+<sp>Moseley</sp> Kurven (Fig. 1) og <sp>Lothar Meyer</sp>'s
+Atomvolumenkurve (Fig. 2) finder en naturlig
+Forklaring ud fra Atommodellen. De kraftige
+Röntgenstraaler stammer alle fra Elektronspring
+dybt inde i Atomerne, nemlig mellem Baner,
+hvis Hovedkvantetal er 1 og 2. Afgørende for
+disse Baners Energi er kun Kerneladningen, de
+øvrige Elektroners Tilstedeværelse mærkes
+næsten ikke, da alle disse bevæger sig i større
+Baner. Derimod vil alle de Egenskaber, der
+afhænger af Beskaffenheden af Atomernes
+Overflade, saaledes som de kem. Egenskaber og
+Atomvolumenet, i højeste Grad være afhængigt
+af Elektronkonfigurationen og næsten ikke af
+Kerneladningen. Den periodiske Ændring af
+disse Egenskaber, der fremgaar af Kurven Fig.
+2, finder netop sin Forklaring i den
+<sp>gentagne Forekomst af ensbyggede
+Elektrongrupper i Overfladen</sp> af
+
+<table>
+<td><td>Tabel IV.
+<td v2><td v2>Atomnummer<td c 18><sp>Antal Elektroner i n<sub>k</sub>-Baner</sp>
+<td>1<sub>1</sub><td>2<sub>1</sub><td>2<sub>2</sub><td>3<sub>1</sub><td>3<sub>2</sub><td>3<sub>3</sub><td>4<sub>1</sub><td>4<sub>2</sub><td>4<sub>3</sub><td>4<sub>4</sub><td>5<sub>1</sub><td>5<sub>2</sub><td>5<sub>3</sub><td>5<sub>4</sub><td>5<sub>5</sub><td>6<sub>1</sub><td>6<sub>2</sub><td>6<sub>3</sub>
+<td>He<td c>2<td c>2
+<td>Ne<td c>10<td c>2<td c>4<td c>4
+<td>A<td c>18<td c>2<td c>4<td c>4<td c>4<td c>4<td c>—
+<td>Kr<td c>36<td c>2<td c>4<td c>4<td c>6<td c>6<td c>6<td c>4<td c>4<td c>—<td c>—
+<td>X<td c>54<td c>2<td c>4<td c>4<td c>6<td c>6<td c>6<td c>6<td c>6<td c>6<td c>—<td c>4<td c>4<td c>—<td c>—<td c>—
+<td>Em<td c>86<td c>2<td c>4<td c>4<td c>6<td c>6<td c>6<td c>8<td c>8<td c>8<td c>8<td c>6<td c>6<td c>6<td c>—<td c>—<td c>4<td c>4<td c>—
+</table>

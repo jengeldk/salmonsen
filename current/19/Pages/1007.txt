@@ -1,0 +1,144 @@
+Paa lgn. Maade lader det sig vise om andre R.
+som anvendes i den analytiske Kemi, at de maa
+opfattes som R. mellem de tilstedeværende Ioner.
+Ogsaa en saa alm. R. som Neutralisationen af
+en Syre med en Base er at opfatte som
+Ionreaktion; Neutralisationen af Natriumhydroxyd
+med Saltsyre kan udtrykkes paa flg. Maade:
++Na | ÷OH + H+ | Cl = +Na | ÷Cl + H<sub>2</sub>O, idet
+Natriumhydroxyd i fortyndet Opløsning er
+dissocieret i Ionerne +Na og +Cl. Saltsyre i +H og ÷Cl
+og Klornatrium i +Na og +Cl. Ved
+Neutralisationen er der, som Ligningen viser, ikke sket
+andet, end at der er dannet Vand af Brintioner
+og Hydroxylioner. Hermed stemmer det ogsaa,
+at den Varmemængde, der udvikles, naar et
+Gramækvivalent af en Syre neutraliseres med
+et Gramækvivalent af en Base, altid er den
+samme og er ganske uafhængig af Basens og
+Syrens Natur; den svarer til Dannelsesvar men
+for 1 Mol. Vand. Om Varmeudvikling ved kem.
+R. (<sp>Reaktionsvarme</sp>) o. a. herhen
+hørende Forhold, se <sp>Termokemi</sp>, <sp>Proces</sp>
+(kemisk), <sp>Dissociation</sp>, <sp>Opløsningers
+Teori</sp>.
+<i>(O. C.). M. M-r.</i>
+</chapter>
+
+<chapter name="Reaktionsfarver">
+<b>Reaktionsfarver</b> kaldes de Farver, der ved
+Tøjfarvningen dannes inde i Taverne ved to
+Saltes indbyrdes Reaktion, se <sp>Farveri</sp>, S.
+760—70.
+<i>K. M.</i>
+</chapter>
+
+<chapter name="Reaktionshastighed">
+<b>Reaktionshastighed.</b> Ved R. i et kemisk
+System forstaas den Stofmængde, der
+omdannes i Tidsenheden, d. v. s.
+Koncentrationsformindskelsen af et reagerende Stof i
+Tidsenheden. — Enhver kem. Proces kræver Tid til sit
+Forløb, men denne Tid kan være af meget forsk.
+Størrelse og er stærkt afhængig af Temp.;
+saaledes vil R. i Alm. vokse til det c. dobbelte for
+hver Gang Temp. stiger 10° (se ogsaa
+<sp>Proces</sp>, kem.). R. afhænger endvidere af de
+reagerende Stoffers Koncentrationer og desuden
+uhyre af, om der i Reaktionsblandingen er
+Stoffer, der katalyserer Processen (se
+<sp>Katalyse</sp>).
+
+Den matematiske Udledning af Lovene for R.
+foregaar ud fra <sp>Massevirkningsloven</sp>.
+Reagerer saaledes f. Eks. to Stoffer A og B
+med hinanden efter Ligningen A + 2 B = C,
+og er Koncentrationerne af A og B henh. a og b,
+vil R. til Tiden t, efter sat Processen er begyndt,
+være <i>dx/dt = k (a ÷ x) (h ÷ 2x)</i><sup>2</sup>,
+idet X er den indtil Tiden t omsatte
+Stofmængde, og altsaa henh. a = X og b ÷ 2 X
+de forhaandenværende Koncentrationer af A og
+B. K er Hastighedskonstanten, der ved
+konstant Temp. er konstant og karakteristisk for
+Processen. Om det alm. Udtryk for R., se
+<sp>Massevirkningslov</sp>.
+
+Det viser sig meget ofte, at naar man
+undersøger R. for en kem. Proces, synes
+Procesforløbet ikke af stemme med Massevirkningsloven.
+Dette er kun tilsyneladende, idet Processen ofte
+forløber anderledes, end den kemiske Ligning
+direkte angiver, d. v. s. den forløber trinvis.
+F. Eks. skal man vente, at Arsenbrintens
+Spaltning, der foregaar efter Ligningen 4 AsH<sub>3</sub> →
+As<sub>4</sub> + 6H<sub>2</sub>, er en Proces, hvis R. kan
+udtrykkes ved Ligningen
+<i>dX/dt = k (a ÷ x)</i><sup>4</sup>,
+hvor a er Arsenbrintens
+Begyndelseskoncentration og X Koncentrationsformindskelsen p. Gr. a.
+Spaltningen ved Tiden t. Ved Forsøg finder
+man imidlertid, at R. forløber efter Ligningen
+<i>dX/dt = k (a ÷ x)</i>.
+
+Dette kan forstaas ved, at
+Arsenbrintemolekylet spaltes til de Atomer, der opbygger det
+efter Ligningen
+AsH<sub>3</sub> → As + 3H,
+og denne Spaltning foregaar med den maalte
+Hastighed, medens derpaa Reaktionerne
+4As → As<sub>4</sub> og 2H → H<sub>2</sub>
+finder Sted med meget stor umaalelig
+Hastighed. Massevirkningsloven gælder altsaa for
+hver af Partialprocesserne, men ikke for
+Bruttoprocessen.
+
+Man kan altsaa ved at undersøge R. for en
+kem. Proces faa at vide, hvorledes Processen
+forløber, d. v. s. bestemme gennem hvilke Trin
+den gaar og derved klarlægge Reaktionsvejen.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Reaktionstid">
+<b>Reaktionstid.</b> Hvis et Individ foretager en
+ell. anden Bevægelse, f. Eks. at trykke en
+elektrisk Kontakt ned (Reaktionsbevægelse) i
+samme Øjeblik, han opfatter et ell. andet, f. Eks.
+et Lyssignal (Reaktionspaavirkning), kalder man
+Tiden, der forløber mellem, at Paavirkningen
+rammer Sanseorganet, og at
+Reaktionsbevægelsen udløses, for R., der mere alment kan
+defineres som Tiden mellem en Paavirkning og en
+Reaktionsbevægelse i Anledning af en
+Oplevelse, foranlediget af denne Paavirkning. R. er
+afhængig af mange Forhold. Hvis et Individ
+f. Eks. er indstillet paa at reagere over for en
+bestemt Sansepaavirkning (en Lyd, et Lys, en
+Berøring etc.) og ved, at der kun kan
+forekomme Paavirkninger af den Slags, han er
+indstillet paa, kan han være indstillet mere i
+Retning af at opfatte Paavirkningen tydeligt
+ell. mere i Retning af at udføre selve
+Bevægelsen hurtigt. I første Tilfælde (sensoriel
+Reaktion) kan R. være c. 1/4 Sek., i andet Tilfælde
+(muskulær Reaktion) kan den være c. 1/6 Sek.
+Ved den sidste Indstilling vil Fejlreaktioner
+være forholdsvis hyppige. Det kan f. Eks.
+hænde, at Forsøgspersonen, der skal reagere
+paa et Lyssignal, kommer til at reagere i
+Anledning af en ell. anden tilfældig Lyd; han er
+som en spændt Fjeder. R. er afhængig af
+Paavirkningens Art og Styrke. Den er f. Eks., alt
+andet lige, længere over for Syns- end over for
+Hørepaavirkninger, og den er forholdsvis lang
+ved meget svage Paavirkninger. Dersom
+Forsøgspersonen ved, at der kommer fl. Slags
+Signaler (f. Eks. baade grønt og rødt Lys), og at
+han skal skelne mellem dem, idet han kun skal
+reagere over for visse af dem, medfører dette,
+at R. bliver forholdsvis lang. Ligeledes gælder
+dette, dersom der kommer fl. Signaler og
+Forsøgspersonen skal reagere paa forsk. Maade
+over for dem (f. Eks. med højre Haand paa
+rødt, og med venstre paa grønt). Man kan

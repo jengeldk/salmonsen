@@ -1,0 +1,141 @@
+det fra Modstanden i det elektriske Ledningsnet
+hidrørende Tab af elektrisk Energi, der er
+proportionalt med Ledningslængden og Kvadratet
+paa Strømstyrken. Sidstnævnte Tab, der ved e.
+K. over store Afstande kan antage meget høje
+Værdier, er i og for sig bestemmende for Arten
+af den Elektricitet, der bør anvendes til
+Forsyningen. For at et elektrisk Anlæg skal kunne
+betale sig, gælder det i første Linie om at
+formindske de med Elektricitets-Produktionen
+forbundne Udgifter til det mindst mulige. Da den
+elektriske Central selv maa bære Udgifterne til
+Fremstilling af den Energimængde, der i
+Tidens Løb gaar tabt i Form af Modstands- og
+Omsætningstab mellem Centralen og den hos
+Forbrugeren anbragte Maskine, Lampe,
+Varmeovn ell. anden elektrisk Indretning, maa disse
+Tab indskrænkes til det mindst mulige for
+Opnaaelse af en rentabel e. K. Franskmanden M.
+Deprez (s. d.) har indlagt sig stor Fortjeneste
+som den første, der angav Betingelserne for
+Kraftoverføring paa store Afstande, idet han
+fremsatte, at større Afstande fordrer, alt andet
+lige, Anvendelsen af højere Spændinger. Som
+nævnt vokser Tabet i Ledningerne med 2.
+Potens af Strømstyrken, men ligefremt med
+Længden af en Ledning. Er nu Afstanden til
+Forbrugeren kendt og Kraftstationens Beliggenhed
+fastlagt, er altsaa ogsaa Ledningslængden i
+Hovedtrækkene fastsat; skal man formindske
+Ledningstabene til det mindst mulige, har man
+derfor ingen anden Udvej end enten at gøre
+Ledningstværsnittene større ell. Strømstyrken
+mindre. En Forøgelse af Tværsnittet medfører
+imidlertid en tilsvarende Forøgelse af
+Anlægsudgifter og kan, hvor Talen er om større
+Anlæg, i Reglen ikke betale sig. Man er da
+henvist til at gøre Strømstyrken mindre, e. m. a. O.
+til at gøre Spændingen højere. Skal man
+saaledes overføre en bestemt Energimængde i en
+given Afstand og kræves dertil ved en vis
+Spænding et bestemt Ledningstværsnit, kan man,
+naar samme Ledningstab tillades, ved at
+anvende henh. den dobbelte, den tredobbelte ell.
+den firedobbelte Spænding, nøjes med
+Ledninger, hvis Tværsnit er henh. 4, 9 ell. 16 Gange
+saa smaa. Da Ledningsudgifterne er omtr.
+proportionale med Ledningstværsnittene, frembyder
+Anvendelsen af høje Spændinger saaledes store
+Besparelser i Ledningsmateriale.
+
+e. K. ved Hjælp af høje Spændinger over c.
+500 Volt er imidlertid kun mulig ved
+Anvendelsen af Vekselstrøm, de saakaldte
+<sp>Højspændingsanlæg</sp>. Man har ganske vist ved Hjælp
+af særlig konstruerede Maskiner opnaaet at
+fremstille Jævnstrømsspændinger paa indtil
+20000 Volt; men den direkte Anvendelse af saa
+høje Jævnstrømsspændinger medfører saa
+kostbare Anlæg, at Jævnstrømmen i denne Form
+næppe vil faa nogen praktisk Bet.
+
+1) <sp>e. K. ved Jævnstrøm</sp> finder
+hovedsagelig Anvendelse ved Sporvogns- og
+Banedrift samt ved Byers og mindre Oplandes
+Forsyning med elektrisk Kraft og Lys. Til
+Forsyning af saadanne Omraader kan man som
+Regel anvende Spændinger under 600 Volt, og ved
+disse Spændinger har Anvendelsen af Jævnstrøm
+visse Fordele fremfor Anvendelsen af
+Vekselstrøm, idet man ved Anvendelse af Jævnstrøm
+kan benytte Akkumulatorbatterier paa
+Centralen, hvorved der kan opnaas en forbedret
+Driftsøkonomi. Endvidere er Jævnstrømsspændingen
+mindre farlig end Vekselstrømsspændingen.
+Ogsaa i andre Retninger har Jævnstrømmen
+Fordele fremfor Vekselstrømmen, idet f. Eks.
+Jævnstrømsmotorerne tillader en bekvemmere
+Regulering af Omdrejningstallet. Til elektrisk
+Banedrift (Sporvognsdrift) frembyder Jævnstrøm
+afgjorte Fordele fremfor Vekselstrømmen (se
+<sp>elektriske Sporveje og elektriske
+Jernbaner</sp>). Jævnstrømmen udvikles under passende
+Spænding (her i Landet almindeligst 2 X 220
+Volt til Lys- og Kraftforsyning, 500-550 Volt
+til Sporvognsdrift) i en Jævnstrømscentral (se
+<sp>elektriske Kraftstationer</sp>) og gaar
+fra denne, efter at have passeret det elektriske
+Apparatanlæg i Centralen ud i en ell. fl. fra
+Centralen udgaaende Ledninger, de saakaldte
+<sp>Fødeledninger</sp>; gennem disse ledes
+Strømmen ud til passende, centralt beliggende
+Punkter paa <sp>Fordelingsnettet</sp>, d. v. s.
+det egentlige Ledningsnet, hvorfra Forbrugerne
+direkte aftager deres Forbrug (se
+<sp>elektriske Ledningsnet</sp>).
+
+I Fødepunkter er der mellem Fødeledninger
+og Fordelingsledninger indskudt Smeltesikringer,
+der skal sikre Centralen og Fødeledningerne
+mod stærk Overbelastning ell. Kortslutninger,
+hidrørende fra Ledningsnettet.
+
+Der findes her i Landet c. 335 Landcentraler,
+der alle ell. næsten alle anvender Jævnstrøm til
+e. K. En stor Del af disse Landcentraler
+betaler sig dog ikke, dels fordi Afstandene mellem
+de enkelte Forbrugere er saa store, at
+Ledningsnettene ofte bliver uforholdsmæssigt store
+og dermed kostbare, og dels fordi Forbruget
+som Regel er for lille til, at en økonomisk Drift
+bliver mulig. Til Trods herfor tiltager
+Landcentralernes Antal stadigt, hvilket sikkert i
+første Række har sin Aarsag i, at Anvendelsen af
+Elektriciteten frembyder store Behageligheder
+fremfor Driften med f. Eks. Lokomobiler ell.
+Hestegange. Ved e. K. i Byer er Ledningsnettet
+saa sammentrængt i Forhold til Forbrugernes
+Antal (højere Huse, tættere Bebyggelse) og
+Driften i Reglen saa økonomisk, at den e. K.
+kan betale sig. Fremføringen af de i Byerne
+mest anvendte Kabler finder Sted efter lgn.
+Principper som Fremføringen af Luftledninger
+ɔ: man følger Gaderne og forbinder
+Forbrugsstederne med Fordelingskablerne ved Hjælp af
+Stikledninger igennem Sikringer. Stikledninger
+indføres som Regel i Ejendommenes nederste
+Etager, hvorfra Fordelingen sker til de forsk.
+Forbrugere i samme Ejendom (se i øvrigt under
+<sp>elektriske Installationer</sp>).
+
+2) <sp>e. K. ved Vekselstrøm</sp> finder næsten
+altid Sted under Anvendelse af Højspænding.
+Lavspændt Vekselstrøm anvendes i Reglen kun
+ved Fordelingsnet, der er knyttede til
+Højspændingsanlæg, idet direkte Produktion og
+Anvendelse af lavspændt Vekselstrøm staar langt
+tilbage for e. K. ved Jævnstrøm, der overgaar
+Vekselstrømmen, baade hvad praktisk
+Anvendelse og Økonomi angaar. <sp>Lavspændte
+Vekselstrømsanlæg</sp> anvendes kun til

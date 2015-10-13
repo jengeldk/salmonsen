@@ -1,0 +1,164 @@
+Anskueligheden. Bl. særlige Former for g. Fremstilling
+skal nævnes <sp>g. Køreplaner</sp>; i Abscissen
+afsættes Tiden, inddelt i Minutter og Timer, i
+Ordinaten Stationerne med deres forsk.
+indbyrdes Afstande. Ved rette Linier ell. Kurver
+kan Togenes Bevægelser hen ad Strækningen da
+afsættes og Togenes Krydsninger ell.
+Overhalinger beregnes. For mere befærdede
+Strækninger vil en saadan g. Plan sædvanlig være en
+nødvendig Hjælp, inden den egl. Fartplan kan
+udarbejdes. (<sp>Litt</sp>.: <sp>Westergaard</sp>,
+»Statistikens Teori« [2 Udg., S. 261 ff]; <i>Jubilee volume
+of The Statistical Society</i> [Lond. 1885]).
+<i>J. D.</i>
+</chapter>
+
+<chapter name="grafisk Defilement">
+<b>grafisk Defilement</b> [-'maŋ] er den
+Operation, ved hvilken man ved Hjælp af et nøjagtigt
+Kort i større Maalestok af det paagældende
+Terrain bestemmer et Fæstningsværks
+Beliggenhed og Profilforhold saaledes, at det er
+dækket mod Indseende fra Forterrainet. Se
+<sp>Defilement</sp>. 
+<i>Sch. P.</i>
+</chapter>
+
+<chapter name="grafiske Reproduktionsmetoder">
+<b>grafiske Reproduktionsmetoder</b> er et fælles
+Navn for de forsk. Metoder, hvorved man
+fremstiller og reproducerer Skrift og Tegninger
+m. m. Hertil henregnes de forsk. Slags Tegning,
+Bog- og Illustrationstryk, Xylografi, Litografi,
+Kobberstik, Staalstik, Kemitypi, Galvanografi,
+Fotografi m. m. og ligeledes de mange
+fotomekaniske Reproduktionsmetoder.
+<i>C. E. A.</i>
+</chapter>
+
+<chapter name="grafisk Fremstilling">
+<b>grafisk Fremstilling</b> (mat.). Naar en
+Størrelse <i>y</i> afhænger af en anden Størrelse <i>x</i>, er en
+Funktion af den, bruges som g. F. af
+Afhængigheden mellem dem en Kurve dannet af de
+Punkter, der i et retvinklet Koordinatsystem (se
+<sp>Koordinater</sp>) har <i>x</i>'s Værdier til
+Abscisser og de tilsvarende Værdier af <i>y</i> til
+Ordinater. En saadan Kurve giver et hurtigere og
+mere samlet Overblik over, for hvilke Værdier
+af <i>x y</i> vokser ell. aftager, har en Maksimums-
+ell. Minimumsværdi o. s. v., end en Ligning
+mellem <i>x</i> og <i>y</i> ell. en Tabel over
+sammenhørende Værdier for <i>x</i> og <i>y</i> kan gøre det. Den
+g. F. bruges meget i Meteorologien (Eks.:
+Fremstilling af et Steds Middeltemperatur paa
+forsk. Tider af Aaret), Naturlæren,
+Lægevidenskaben, Statistikken o. fl. St.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="grafisk Statik">
+<b>grafisk Statik</b> er en Metode til at undersøge
+Ligevægtsbetingelserne og bestemme Tryk og
+Spændinger for en Figur paavirket af Kræfter,
+ved Konstruktion i Stedet for ved Regning. Om
+Fremgangsmaaden se i øvrigt <sp>Diagram</sp>. Den
+g. S. løser sine Opgaver hurtigere, end man
+kan gøre det ved Regning, og giver den end
+mindre Nøjagtighed, beskytter den paa den
+anden Side ved Løsningernes Overskuelighed mod
+de Fejltagelser, der let indløber ved
+Regningerne. Den er optaget som Lærefag ved de
+fleste tekn. Højskoler.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="grafisk Udjævning">
+<b>grafisk Udjævning</b> bruges ikke sjældent
+ved Behandling af Tal fra en Træmaaling, idet
+man enten ikke kender nogen matematisk Lov
+(Formel) for Forholdet mellem de paagældende
+Størrelser ell. har for faa Iagttagelser til at
+kunne afgøre, om den passer i de foreliggende
+Tilfælde. G. U. foretages sædvanlig ved, at man
+paa kvadreret Papir afsætter den ene Størrelse
+vandret, den anden lodret og derved finder de
+sammenhørende Værdier, som mærkes.
+Igennem ell. imellem de mærkede Punkter trækkes
+da paa fri Haand en jævn Kurve som Udtryk
+for de to Størrelsers indbyrdes Afhængighed.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Grafit">
+<b>Grafit</b> (af gr. γράφω, skriver), et Mineral,
+der bestaar af frit Kulstof, dog oftest med en
+Del Askebestanddele. Det krystalliserer i
+6-kantede Tavler; men Krystallerne er oftest
+ufuldkomment udviklede, og G. optræder oftest
+i kornede ell. tætte Masser. Meget kraftig
+Spaltelighed i een Retning, og Spaltningsbladene
+er fuldkommen uelastisk bøjelige. Haardheden
+er 1, hvorfor G. ogsaa er stærkt fedtet at føle
+paa, Vægtfylden er lidt over 2. Metalglans og
+blygraa Farve. Forholder sig fuldstændig
+passivt over for de fleste kemiske Indvirkninger,
+men kan dog i ren Ilt brænde til Kulsyre og
+omdannes i en Blanding af klorsurt Kali og
+Salpetersyre til et Stof af ikke nærmere kendt
+Sammensætning (Grafitsyre).
+
+G. er et ret alm. Mineral, der særlig hører
+hjemme i krystallinske Skifere, navnlig i Gnejs,
+der ofte over store Strækninger kan indeholde
+talrige Blade af G. (G.-Gnejs); herfra dannes
+Overgang til saadanne Tilfælde, hvor G. bliver
+den overvejende Bestanddel og danner lag- ell.
+linseformede Masser i Gnejsen, og den kan da
+faa tekn. Betydning (Passau i Bøhmen). I
+andre Tilfælde optræder G. som rene Gange i
+Gnejs ell. Granit og faar da særlig Værdi; dette
+er navnlig Tilfældet paa Ceylon, og lignende,
+nu udtømte, Forekomster fandtes tidligere ved
+Irkutsk, som leverede de bedste Blyanter, og i
+Cumberland, hvorfra man for indtil c. 100 Aar
+siden fik alle Blyanter. De smukkeste
+Krystaller findes i de Marmorlag, der ledsager
+Gnejsen (Pargas i Finland, New York). Medens
+man i alle disse Tilfælde ikke kan sige noget
+bestemt om G.'s Dannelsesmaade, har man
+derimod andre Forekomster af G., der øjensynlig
+er omdannede Kullag fra nyere Formationer
+(Nugsuak i Grønland). Væsentlig teoretisk
+Interesse har det, at G. ogsaa er fundet i
+Meteorsten. I Grønland findes G. foruden ved Nugsuak,
+hvor den ikke er teknisk anvendelig, fl. St. i
+Gnejsen; saaledes er fra ældre Tid ret bekendt
+et Leje ved Upernivik, der dog har vist sig at
+være ret ubetydeligt; større Lejer findes
+derimod i Holstensborg Distrikt og navnlig paa
+Øen Amitsok i Julianehaab Distrikt, hvor der
+f. T. (1917) er paabegyndt Brydning.
+
+Hovedanvendelsen af G. er til Smeltedigler,
+da den som andre Kulstofvarieteter er
+fuldkommen usmeltelig; mens man her kan benytte
+G., der er blandet med andre Bestanddele,
+kræves derimod ganske ren G., naar den skal
+anvendes til Blyanter og til Smøremiddel.
+Verdensproduktionen havde i 1910 en Værdi af
+henved 12 1/2 Mill. Kr., hvoraf henved 9 1/2
+falder paa Ceylon og 1 1/2 paa Østerrig. Da den
+naturlige G. vanskelig kan tilfredsstille
+Efterspørgselen, er man gaaet over til at fremstille
+den kunstig (ved Niagara), og Værdien af denne
+beløb sig i samme Aar til henved 3 1/2 Mill. Kr.
+<i>O. B. B.</i>
+</chapter>
+
+<chapter name="Grafofon">
+<b>Grafofon</b> (af gr. γράφω, skriver, og φάνος,
+Lyd), en forbedret Fonograf, opfundet af
+Amerikaneren Summer Tainter i Forbindelse
+med Graham Bell o. a. Forbedringen, der 1889

@@ -1,0 +1,162 @@
+videre Prøvelse eller Bevis lægges til Grund for
+Sagens Paadømmelse. Dette er en Følge af visse
+civilprocessuelle Maksimer
+(Forhandlingsmaksime og Dispositionsmaksime) og gælder derfor
+f. Eks. ikke i Skilsmissesager, hvor de nævnte
+Maksimer er fravegne, og hvor T. maa
+underkastes Rettens Prøvelse som ethvert andet
+Bevismiddel. — Hvis T. tilbagekaldes, tilkommer
+det Dommeren at afgøre, hvilken Indflydelse
+han vil tillægge Tilbagekaldelsen, idet han ved
+sit Skøn bestemmer, om T. fremdeles tør
+opretholdes som Bevis i Sagen, eller om T.'s
+Troværdighed maa anses saaledes svækket, at den
+bør tilsidesættes. Dette Princip, der i Danmark
+gælder baade i Civil- og Straffeproces, findes
+ofte udtrykt i den Form, at T. siges at være
+»frit genkaldelig«, hvilket bl. a. udtales i
+Retsplejeloven med Hensyn til T. i Straffesager. Af
+det ovenfor anførte vil imidlertid fremgaa, at
+»fri Genkaldelighed« ikke betyder, at den
+Anklagede efter Behag kan ophæve Virkningen af
+sin T. ved en vilkaarlig Tilbagekaldelse, men
+kun, at Dommeren ikke er bundet til at følge
+den oprindelige Tilstaaelse, hvilket i øvrigt blot
+er en Konsekvens af den fri Bevisbedømmelse.
+<i>K. Hch.</i>
+</chapter>
+
+<chapter name="Tilstaaelse, kvalificeret">
+<b>Tilstaaelse,</b> kvalificeret, se
+<sp>kvalificeret Tilstaaelse</sp>.
+</chapter>
+
+<chapter name="Tilstaaelsessager">
+<b>Tilstaaelsessager</b> kaldes undertiden efter
+juridisk Sprogbrug de Retssager, der undergives
+Behandling efter Retsplejelovens § 925, nemlig
+Straffesager, i hvilke den Sigtede har afgivet
+uforbeholden Tilstaaelse. T. kan under visse
+Betingelser afgøres ved en særegen, kortfattet
+Procedure, idet de paadømmes ved Underret
+uden Udfærdigelse af Anklageskrift og uden
+formelig Domsforhandling, jfr.
+<sp>Straffeproces</sp>.
+<i>K. Hch.</i>
+</chapter>
+
+<chapter name="Tilstandsforbrydelser">
+<b>Tilstandsforbrydelser.</b> Naar det
+forbryderske ved et vist Forhold mindre er en konkret
+Handling end, at den ved Handlingen
+tilvejebragte Tilstand derefter opretholdes i kortere
+•eller længere Tid, taler man om T. Som
+Eksempler kan nævnes forargeligt Samliv
+(Straffelovens § 178), Bordeldrift (§ 182), Falholdelse
+af ulovlige Varer (§ 290) samt Tilfælde, hvor
+Forbrydelsen bestaar i at forholde Ejeren hans
+Ting (f. Eks. ulovlig Omgang med Hittegods,
+Hæleri m. fl.).
+<i>A. Gl.</i>
+</chapter>
+
+<chapter name="Tilstandsligning">
+<b>Tilstandsligning.</b> Fysisk skelner man
+mellem tre forskellige Tilstandsformer, nemlig den
+faste, den flydende og den luftformige. Men en
+egentlig principiel Forskel er der kun mellem
+den faste eller krystallinske Tilstand paa den
+ene Side og den flydende og luftformige paa
+den anden Side, idet Molekylerne ved de to
+sidstnævnte er i fuldstændig Uorden, medens de
+i den krystallinske Tilstand er symmetrisk
+ordnede i Rumgitre. Ved T. forstaar man en
+matematisk Sammenhæng mellem de Størrelser,
+hvorved et homogent, isotropt Legemes fysiske
+Tilstand er karakteriseret; strengt taget bør T.
+altsaa omfatte alle tre Tilstandsformer, men
+det er hidtil kun lykkedes at finde T.
+omfattende de flydende og luftformige Tilstande. Som
+variable i T. behytter man altid Trykket <i>p</i>,
+Rumfanget <i>v</i> og den absolutte Temperatur <i>T.</i>
+
+Mariotte's Lov (1669) <i>p . v</i> = Konstant er en
+saadan T., men kun gældende for Luftens Tryk- og
+Rumfangsændringer ved konstant Temperatur,
+og selv her endda kun med Tilnærmelse (ideale
+Luftarter, jfr. <sp>kinetisk Teori</sp>). Gay
+Lussac tog (1816) Hensyn til Temperaturens
+Indflydelse, saa T. kom til at lyde <i>p . v</i> = <i>R . T</i>,
+hvor <i>R</i> er en Konstant, der, hvis man betragter
+1 Grammolekyle af Luften, er ens for alle
+Luftarter; men ogsaa denne T. gælder kun for
+ideale Luftarter, medens de virkelige afviger
+derfra. Først i 1873 opstillede I. D. van der
+Waals en T., gældende for begge de to
+flydende Tilstandsformer; Ligningen lyder
+(<i>p</i> <i>a</i>/<i>v</i><sup>2</sup>) ­· (<i>v</i>—<i>b</i>) = <i>R</i> · <i>T</i>,
+hvor <i>a</i>, <i>b</i> og <i>R</i> er Konstanter, forskellige for
+de forskellige Legemer. Betydningen af disse
+Konstanter er omtalt i Artiklen kinetisk Teori.
+Det ses, at denne T. gaar over til Gay Lussac's,
+naar Rumfanget af Stoffet bliver tilstrækkelig
+stort, d. v. s., naar Stoffet kommer i Luftform;
+thi saa bliver Leddet <i>a</i>/<i>v</i><sup>2</sup> forsvindende lille i
+Sammenligning med <i>p</i>, og <i>b</i> forsvindende lille
+i Sammenligning med <i>v</i>. T. antager en særlig
+simpel Form, hvis man udtrykker de
+øjeblikkelige Værdier af <i>p</i>, <i>v</i> og <i>T</i> i Brøkdele af det
+kritiske Tryk <i>p<sub>k</sub></i>, det kritiske Rumfang <i>v<sub>k</sub></i> og
+den kritiske Temperatur <i>T<sub>k</sub></i>, altsaa sætter
+<i>P</i> = <i>p</i>/<i>p<sub>k</sub></i>, <i>V</i> = <i>v</i>/<i>v<sub>k</sub></i> og Θ = <i>T</i>/<i>T<sub>k</sub></i>. <i>T</i> kommer da til
+at lyde:
+(<i>P</i>+ 3/V<sup>2</sup>) · (3 V—4) = 8 · <i>T</i>,
+saaledes at alle de Konstanter, der var
+karakteristiske netop for det paagældende Stof, er
+gaaet ud, saa T. er en Universalligning. Efter
+denne T. skal for givne Værdier af f. Eks.
+P og Θ alle Stoffer have samme Værdi for <i>V</i>,
+uafhængig af Stoffets Natur (være i
+overensstemmende Tilstand), og dette fører til en
+vidtgaaende talmæssig Overensstemmelse mellem
+alle andre Egenskaber ved Stofferne. Loven om
+disse overensstemmende Tilstande gælder
+ganske vist ikke eksakt, men har dog været af
+meget stor Betydning.
+
+Foruden v. d. Waals' T. findes der adskillige
+andre. Saaledes har <sp>Clausius</sp> søgt at opnaa
+en noget større Tilnærmelse til de virkelige
+Forhold ved at indføre en af Stoffet afhængig
+Konstant mere end v. d. Waals.
+<sp>Kamerlingh Onnes</sp> har angivet en ren empirisk
+T., kun gældende for Luftarter. Ved meget lave
+Temperaturer indtræder særlige Forhold, saa
+T. der maa have en helt anden Form. (<sp>Litt</sp>.:
+<sp>Geiger & Scheel</sp>, »Handbueh der
+Physik«, Bind X).
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Tilsyn med Plejebørn">
+<b>Tilsyn med Plejebørn,</b> se <sp>Værge</sp>.
+</chapter>
+
+<chapter name="Tilsynsførende">
+<b>Tilsynsførende,</b> se <sp>Tilsynsværge</sp>.
+</chapter>
+
+<chapter name="Tilsynsraadet for Statens Sindssygehospitaler">
+<b>Tilsynsraadet</b> for Statens
+Sindssygehospitaler, se <sp>Sindssyge</sp>.
+<i>V. B.</i>
+</chapter>
+
+<chapter name="Tilsynsudvalg">
+<b>Tilsynsudvalg</b> kaldes i Norge den
+Myndighed, som ifølge L. af 26. Juni 1889 har at føre
+stadigt Tilsyn med Folkeskolen og til
+Skolestyret (s. d.) at afgive de Udtalelser og
+Oplysninger, som maatte forlanges, eller hvortil
+Udvalget selv maatte finde Anledning. Det paahviler
+Udvalget at virke for god Skolesøgning og

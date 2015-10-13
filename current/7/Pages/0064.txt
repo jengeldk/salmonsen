@@ -1,0 +1,144 @@
+forskelligt Fortegn, f. Eks. i Saltsyre (HCl) Brint
+(H) positiv og Klor (Cl) negativ. Den positive
+Elektrode tiltrækker da de nærmeste
+HCl-Molekylers negative Bestanddel Cl; det derved
+frigjorte H forener sig med Nabomolekylernes
+Cl, deres H igen med andres Cl o. s. v., saa at
+der ved den negative Elektrode netop bliver en
+ækvivalent Mængde H fri, der tiltrækkes af
+denne. Da Anode og Katode saaledes stadig
+modtager respektive negativ og positiv Elektricitet,
+hvorved en Del af deres Ladning neutraliseres,
+strømmer der stadig ny Elektricitet til dem
+fra Elektricitetskilden, saa at vi forstaar,
+hvorledes den elektriske Strøm gennem en
+Elektrolyt kommer i Stand. - <sp>Hittorf</sp> (1853)
+undersøgte, om de to Bestanddele vandrede lige
+hurtigt, og fandt, at dette ikke var Tilfældet (se
+ndf.); <sp>Kohlrausch</sp> viste, at samme Ion altid
+havde samme Vandringshastighed, uafhængigt
+af hvilken anden Ion den var forbundet med.
+<sp>Clausius</sp> pegede paa, at da det er muligt
+at faa E. uden Energiforbrug (f. Eks. den før
+omtalte Flytning af et Metal som Cu, smlg.
+<sp>elektrolytisk Polarisation</sp>), kan
+Strømmen ikke behøve at overvinde nogen
+Tiltrækning mellem Molekylernes modsatte
+Bestanddele; deraf sluttede han, at nogle af
+Molekylerne allerede før Strømmen gaar, altsaa
+i en alm. Opløsning, maa være spaltede
+(dissocierede) i de Ioner, som vi ved Strømmens
+Hjælp faar transporteret til Elektroderne, men
+han tænkte sig kun denne Dissociation
+forbigaaende og i forsvindende Grad. Endelig
+lykkedes det <sp>Arrhenius</sp> (1887) at give denne
+<sp>elektrolytiske Dissociationsteori</sp>
+ell. Teorien om de <sp>fri Ioner</sp> en saadan
+Form, at den var tilgængelig for kvantitativ
+Prøve, og han viste dens Anvendelighed og
+fundamentale Bet. for næsten hele Kemien. (Ang.
+den kem. Side af Dissociationsteorien, se
+<sp>Ionteori</sp>).
+
+Arrhenius' Dissociationsteori antager, at i
+enhver Opløsning af en Elektrolyt er et større ell.
+mindre Antal af det opløste Stofs Molekyler
+spaltede (dissocierede) i fri Ioner, d. v. s. fri
+elektrisk ladede Dele af det opr. Molekyle.
+Disse Ioner kan bestaa enten af enkelte Atomer
+ell. af Atomkomplekser; saaledes spaltes et
+Klorbrintemolekyle i en positiv H- og en negativ
+Cl-Ion, et Kogsaltmolekyle (Natriumklorid, NaCl)
+i en positiv Na- og en negativ Cl-Ion, men et
+Svovlsyremolekyle i 2 positive H- og en negativ
+SO<sub>4</sub>-Ion o. s. v. Da de positive og de negative
+Ioner i Opløsningen tiltrækker hinanden, maa
+det stadig ske, at nogle af dem genforenes og
+danner et uspaltet Molekyle, men omvendt maa
+de uspaltede Molekyler have en Tendens til at
+spaltes; en Opløsnings Dissociationsgrad,
+hvorved forstaas den Brøkdel af det hele Antal
+opløste Molekyler, som er dissocierede, bestemmes
+da ved Resultatet af disse to modsatte
+Processer. Den rigtige Dissociation indstiller sig
+øjeblikkelig, efter at Stoffet er opløst.
+Dissociationsgraden afhænger foruden af det opløste
+Stofs Natur af Opløsningens Koncentration
+og af Temp.- De fri Ioner adskiller sig altsaa
+fra de tilsvarende Atomer ell. Atomkomplekser
+ved at være elektrisk ladede; denne Forskel er
+imidlertid fundamental, en Ion har ganske
+andre Egenskaber end de Atomer, hvoraf den
+bestaar. Saaledes eksisterer Natriumionen i Vand
+uden at paavirke dette, medens et Natriumatom
+øjeblikkelig sønderdeler Vand; et andet
+Eksempel er, at skønt Klor angriber selv de
+ædleste Metaller (Sølv, Guld o. s. v.), paavirkes
+disse slet ikke af Klorionen, ellers skulde jo 
+Saltvand, der indeholder mange fri Klorioner,
+angribe dem.
+
+Vi kan nu danne os et anskueligt Billede af,
+hvorledes Elektricitetstransporten i en saadan
+dissocieret Opløsning finder Sted, naar der
+sendes en elektrisk Strøm gennem den;
+Mekanismen har adskilligt tilfælles med Grotthus'
+Forestillinger. Vi tænker os Elektrolyten i Karret
+Fig. 1. Naar Elektroderne forbindes med
+Elementets Poler, saa at <i>A</i> bliver positivt og <i>K</i>
+negativt ladet, tiltrækker Anoden de negative
+og frastøder de positive Ioner, medens omvendt
+Katoden tiltrækker de positive og frastøder de
+negative; der føjes altsaa af det elektriske Felt
+til Ionernes uregelmæssige Bevægelse
+(Varmebevægelsen), som de deler med Vandets
+Molekyler, en ordnet Bevægelse, en Vandring, for
+Anionen mod Anoden, for Kationen mod
+Katoden. De, der naar hen til Elektroderne,
+afgiver der deres Elektricitet og neutraliserer
+Elektrodernes, saa at ny Elektricitet strømmer
+til disse fra Elementet o. s. v. Men ved at
+Ionerne afgiver deres Elektricitet, faar de igen
+Atomernes sædvanlige kemiske Egenskaber, saa
+at de udskilles ell. deltager med Elektroderne
+ell. Vandet i sekundære Processer som de foran
+omtalte.
+
+Da der altid opstaar lige megen positiv og
+negativ Elektricitet, maa ved Dissociation f. Eks.
+af Saltsyre H-Ionens positive og Cl-Ionens
+negative Ladning være lige store. Af Faraday's
+Love følger videre, at alle H-Ioner, ligegyldigt
+fra hvilket Stof de stammer, har samme
+Ladning og den samme som alle andre monovalente
+Ioner, men at f. Eks. den divalente SO<sub>4</sub>-Ion
+maa have en dobbelt saa stor Ladning o. s. v.
+Ionerne betegnes ved at angive deres Ladning
+<table>
+<td v2>paa flg. Maade:<td>+<td c>-<td l>- -<td v2> Et Stof som Kobber
+<td>H,<td>-Cl,<td>SO<sub>4</sub>.
+</table> 
+maa danne to Slags Ioner, den monovalente
+<table>
+<td v2>Kuproion<td>+<td v2> og den divalente Kupriion<td>++
+<td>Cu<td>Cu.
+</table>
+En monovalent Ions Ladning er det elektriske
+Elementarkvantum, den mindste
+Elektricitetsmængde, der kan eksistere for sig (se
+<sp>Elektron</sp>).
+
+Da alle monovalente Ioner har samme
+Ladning, paavirkes de af samme elektriske Kraft
+for en vis Spændingsforskel og en vis Afstand
+mellem Elektroderne (et vist Spændingsfald);
+en Elektrolyts elektriske Ledningsevne maa da
+afhænge af, hvor mange Ioner en cm<sup>3</sup> af den
+indeholder, og hvor hurtigt disse bevæger sig
+under Paavirkning af en given Kraft (deres
+»Bevægelighed«). Antallet af Ioner i en cm<sup>3</sup> er
+proportionalt med Opløsningens Koncentration og
+dens Dissociationsgrad. Bevægeligheden er under
+alm. Forhold meget ringe, da Ionerne er
+underkastet en stor Gnidningsmodstand. For en
+Elektrolyt angives i Reglen Ledningsfylden σ, den

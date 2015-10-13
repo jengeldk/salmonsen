@@ -1,0 +1,168 @@
+Grad instabil Forbindelse, hvis Spaltning kun
+hindres ved en stor Reaktionstræghed. Denne
+Reaktionstræghed aftager med voksende Temp.,
+saaledes at den kem. Ligevægt N<sub>2</sub>+O<sub>2</sub>⇄2NO
+ved høje Temp. indstiller sig omtr. momentant.
+Da ved denne Fremstillingsmetode K. bliver
+blandet med Overskud af Luft, vil det
+dannede K. ved en Temp. af c. 600° begynde at
+forene sig med Luftens Ilt til Kvælstofoverilte,
+2N0+O<sub>2</sub>=2NO<sub>2</sub> (s. d.), der derefter
+omdannes til Salpetersyre (s. d. og
+<sp>Kalciumnitrat</sp>). — <sp>De elektriske Ovne</sp>, der
+anvendes, er Birkeland & Eyde's Salpeterovn, og
+den nu mest brugte Schönherr's Salpeterovn.
+I Birkeland & Eyde's Ovn dannes der en
+elektrisk Lysbue af en Vekselstrøm paa 5000 Volt
+mellem vandafkølede Kobberelektroder.
+Vinkelret paa Lysbuen staar Polerne af en kraftig
+Elektromagnet, der fødes med Jævnstrøm.
+Derved bøjes Lysbuen ud vinkelret paa Linien
+mellem Polerne og skiftevis til den ene og den
+anden Side. Derved opstaar af Lysbuen en flad
+rund Flammeskive med en Diameter paa
+1 1/2—2 m. Den er indesluttet i et fladt
+Chamottehus. Gennem denne Flammebue blæses Luften
+og kommer da fra Ovnen med et Indhold af
+1,5—2 Vol.-% K. og en Temp. af c. 1000°.
+K.-Indholdet stabiliseres saa ved »Afskrækning«.
+I Schönherr's Ovn lader man en højspændt
+Vekselstrøm danne Lysbue af 5—7 m Længde
+op gennem et snævert Jernrør. Luften blæses
+ind i Ovnen og forvarmes først af den
+Luftmasse, der har passeret Buen, gaar derefter
+gennem Buen, hvor Reaktionen finder Sted,
+forlader Reaktionsrummet, opvarmer ny Luft,
+for endelig at »afskrækkes« ved at stryge langs
+Væggene paa en Beholder med koldt Vand.
+Luften forlader Ovnen med c. 2 Vol.-% K. —
+K. er, som nævnt, ved alm. Temp. en Luftart,
+men kan ved ÷ 150° fortættes til Vædske.
+Den er noget opløselig i Vand; Opløsninger af
+Ferrosalte absorberer den i store Mængder og
+bliver derved mørkebruner ved Opvarmning
+afgiver de igen det optagne K. K. har den
+Egenskab direkte at forene sig med Ilt,
+hvorved Luftblandingen antager en rødbrun Farve,
+idet der dannes Kvælstofoverilte, NO<sub>2</sub>; man
+kan derfor paavise Nærværelsen af smaa
+Mængder Ilt i en farveløs. Luftblanding ved
+Tilsætning af K. Paa den anden Side kan K. selv
+afgive Ilt til andre Stoffer; saaledes vil
+brændende Kul og Fosfor vedblive at brænde i K.
+med stærk Glans, idet de forbinder sig med
+den Ilt, som findes i K.; derved dannes
+desuden frit Kvælstof. En Blanding af K. og
+Svovlkulstofdamp brænder med blaalig intensivt
+lysende Flamme uden Eksplosion. Flammen
+udsender Lys, der er rigt paa kem. virksomme
+Straaler.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Kvælstofmonoxyd">
+<b>Kvælstofmonoxyd,</b> se <sp>Kvælstofilte</sp>.
+</chapter>
+
+<chapter name="Kvælstofoverilte">
+<b>Kvælstofoverilte,</b> <sp>Kvælstofdioxyd</sp>,
+<sp>Kvælstofperoxyd</sp>,
+<sp>Kvælstoftetroxyd</sp>, tidligere undertiden kaldet
+<sp>Salpeterundersyre</sp>, er ved alm. Temp. og Tryk en
+rødbrun, luftformig Blanding af de to Stoffer:
+N<sub>2</sub>O<sub>4</sub> og NO<sub>2</sub>, i kem. Ligevægt med hinanden,
+N<sub>2</sub>O<sub>4</sub> ⇆ 2NO<sub>2</sub>. Ved lav Temp. og voksende
+Tryk vil Ligevægten forskydes til Fordel for
+N<sub>2</sub><sub>O4</sub>, der er en farveløs Luftart, som faa
+Grader under Vandets Frysepunkt fortættes til en
+farveløs Vædske; denne stivner ved ÷ 10° til
+farveløse Krystaller. Med voksende Temp. og
+aftagende Tryk vil den kem. Ligevægt
+forskydes til Fordel for NO<sub>2</sub>, der er en rødbrun
+Luftart. Blandingen vil derfor ved Opvarmning
+blive mere og mere rødbrun, indtil ved c. 150°
+alt er omdannet til NO<sub>2</sub>; men samtidig vil en
+anden Proces begynde, nemlig Spaltningen af
+NO<sub>2</sub> til Kvælstofilte og Ilt, 2NO<sub>2</sub> ⇆ 2NO+O<sub>2</sub>,
+som medfører en Affarvning af Luftarten;
+denne Spaltning er fuldstændig ved c. 600° (se
+<sp>Kvælstofilte</sp>). K. dannes af Kvælstofilte
+og Ilt under 600°. I Laboratoriet dannes det
+ved Reduktion af Salpetersyre med
+Arsentrioxyd eller ved Ophedning af Blynitrat:
+2Pb(NO<sub>3</sub>)<sub>2</sub>=2PbO+4NO<sub>2</sub>+O<sub>2</sub>. I Teknikken faas
+det som Mellemprodukt ved Fremstilling af
+Salpetersyre af Luftens Ilt og Kvælstof (se
+<sp>Kvælstofilte</sp>). K. fortættes ved 26° til en
+rødbrun Vædske, der, som nævnt, ved c. 0°
+bliver farveløs. Naar K. opløses i Vand, reagerer
+det dermed, idet der i Kulden opstaar en
+Blanding af Salpetersyrling og Salpetersyre, 2N02
++H<sub>2</sub>O=HNO<sub>3</sub>+HNO<sub>2</sub>; ved høje Temp. vil
+Processen forløbe saaledes, at der dannes
+Kvælstofilte og Salpetersyre, 3NO<sub>2</sub>+H<sub>2</sub>O=N0+2HNO<sub>3</sub>,
+og er der samtidig Ilt til Stede, vil der kun
+dannes Salpetersyre, 4NO<sub>2</sub>+O<sub>2</sub>+2H<sub>2</sub>O=4HNO<sub>3</sub>.
+K. er et stærkt Iltningsmiddel. Det virker
+ætsende og farver Huden gul, ligesom
+Salpetersyre; det er ganske overordentlig giftigt. K. blev
+opdaget 1785 af Priestley og nærmere
+undersøgt af Cavendish.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Kvælstofoxyd">
+<b>Kvælstofoxyd,</b> se <sp>Kvælstofilte</sp>.
+</chapter>
+
+<chapter name="Kvælstofoxydul">
+<b>Kvælstofoxydul,</b> se <sp>Kvælstofforilte</sp>.
+</chapter>
+
+<chapter name="Kvælstofpentoxyd">
+<b>Kvælstofpentoxyd,</b> se <sp>Salpetersyre</sp>.
+</chapter>
+
+<chapter name="Kvælstofperoxyd">
+<b>Kvælstofperoxyd,</b> se <sp>Kvælstofoverilte</sp>.
+</chapter>
+
+<chapter name="Kvælstoftetroxyd">
+<b>Kvælstoftetroxyd,</b> se <sp>Kvælstofoverilte</sp>.
+</chapter>
+
+<chapter name="Kvælstoftrioxyd">
+<b>Kvælstoftrioxyd,</b> se <sp>Salpetersyrling</sp>.
+</chapter>
+
+<chapter name="Kvælstoftveilte">
+<b>Kvælstoftveilte,</b> se <sp>Kvælstofilte</sp>.
+</chapter>
+
+<chapter name="Kvænangen">
+<b>Kvænangen,</b> <sp>Herred</sp>, Senjen og Tromsø
+Sorenskriveri, Troms Fylke, (1920) 1903 Indb.,
+er Fylkets østligste Herred og ligger omkring
+den 55 km lange og 15 km brede
+Kvænangfjord. Det er et Fastlandsherred. Lille
+Altenfjord gaar ret i Ø. og Fjeldene, som i
+Stafjordsjøkelen naar op i 1166 m, har samme
+Karakter som i de tilgrænsende Dele af Finmark
+Fylke; nordligst finder man en Række Tinder
+med mellemliggende dybe Dale, længere S.
+optræder store nøgne Fjeldvidder, hvor de
+afrundede Toppe kun sjælden hæver sig til nogen
+Højde over Sletten. Fra Lille Altenfjords Bund
+fører et lavt Eid, Alteidet, over til Langfjorden,
+en Sidearm af Store Altenfjord. De betydeligste
+Dalfører er Navetdalen, som falder i
+Kvænangbottens ydre Del, Abbojok, Niemenjaikojok med
+Afløb for Abbojavre og Cuioikkajavre samt
+Kvænangsdalen. Ogsaa Badderdalen er en
+betydelig Dal med mange Sidegrene;
+Burfjorddalen er mindre, men kendt for sine Furuskove.
+I K. dyrkes ikke Korn, men en Del Kartofler,
+Birkeskov trives næsten overalt i den sydlige
+Del, ligeledes Furuskov i Mundingen af de
+fleste Dalfører. Befolkningen driver en Del
+Kvægavl, men Hovednæringen er Fiskeri,

@@ -1,0 +1,151 @@
+<sp>Reaktionshastighedens</sp> M.; her i er <i>h</i> ikke nogen
+konstant Størrelse, idet de reagerende Stoffers
+Koncentrationer aftager under Processen; <i>h</i> er
+altsaa Koncentrationsformindskelsen for en
+meget kort Tid, under hvilken man kan antage
+at Koncentrationerne ikke ændrer sig
+mærkeligt; man omskriver derfor Udtrykket for
+Reaktionshastigheden til en Differentialligning af
+Formen ÷ <i>da/dt= k · a<sup>m</sup> · b<sup>n</sup> · c<sup>r</sup></i> — —
+
+Denne Differentialligning kan da ofte
+integreres for de specielle Tilfælde (se
+<sp>Reaktionshastighed</sp>).
+
+Vi har betragtet en kem. Proces, der ensidig
+forløber fra venstre til højre, hvor de Stoffer,
+der reagerer, fuldstændig omdannes til andre
+Stoffer; men en stor Part af de kem. Processer
+forløber ikke til Ende, men indstiller sig paa
+en Ligevægt, saaledes at Ligevægtsblandingen
+baade indeholder Reaktionsprodukter og de
+opr. sammenblandede Stoffer. Blander man f.
+Eks. Stofferne <i>A</i> og <i>B</i> med hinanden, reagerer
+de efter Ligningen <i>mA+nB=pA'+qB'</i>, men
+kun til en vis Ligevægt, saaledes at
+Reaktionsblandingen indeholder alle 4 Stoffer. Blander
+vi paa den anden Side rent <i>A'</i> og <i>B'</i> med
+hinanden, foregaar den modsatte Reaktion <i>pA'+
+qB'=mA+nB</i> til en vis Ligevægt, hvor alle
+4 Stoffer indeholdes i Reaktionsblandingen. De
+to Processer kaldes da <sp>reciprokke
+Processer</sp>. Processen kan altsaa bringes til at
+forløbe baade i den ene og i den anden
+Retning, indtil en vis Ligevægt. En saadan kemisk
+Proces kaldes en <sp>reversibel Proces</sp> og
+betegnes ved at sætte to modsat rettede Pile
+i St f. Lighedstegnet <i>mA+nB</i> ⇄ <i>pA'+qB'</i>.
+Foregaar Processen i et homogent System, d.
+v. s. er enten alle de deltagende Stoffer
+Luftarter ell. alle i opløst Tilstand, f. Eks. opløst i
+Vand, er det muligt at finde et matematisk
+Udtryk for Systemets Ligevægt. Ligevægten kan
+ikke tænkes at være opstaaet ved, at de
+reagerende Stoffer ophører med at virke, man
+maa tænke sig, at den tilsyneladende Stilstand
+fremkommer ved, at der i Tidsenheden omdannes
+lige saa meget af Systemet <i>mA+nB</i> til
+Systemet <i>pA'+qB'</i>, som der omdannes i modsat
+Retning, men dette vil altsaa sige, at
+Reaktionshastigheden for Processen <i>mA+nB</i> → <i>pA'+qB'</i>
+i Ligevægtstilstanden maa være lige saa stor
+som Reaktionshastigheden for Processen <i>pA'+
+qB'</i> → <i>mA+nB</i>. For den første Proces er
+Reaktionshastigheden imidlertid <i>h<sub>1</sub></i>=<i>k<sub>1</sub></i> <i>a<sup>m</sup></i> · <i>b<sup>n</sup></i>, hvor
+<i>a</i> og <i>b</i> som tidligere er Koncentrationerne af
+<i>A</i> og <i>B</i>; for den anden Proces er
+Reaktionshastigheden <i>h<sub>2</sub></i>=<i>k<sub>2</sub></i> · <i>a'<sup>p</sup></i> · <i>b'<sup>q</sup></i>, hvor <i>a'</i> og <i>b'</i> er
+Koncentrationerne af <i>A'</i> og <i>B'</i>; naar der er
+indtraadt Ligevægt i Systemet, maa man altsaa
+have <i>h<sub>1</sub></i>=<i>h</i><sub>2</sub>, d. v. s. <i>k<sub>1</sub>·a<sup>m</sup>·b<sup>n</sup></i> — <i>k<sub>2</sub>·a'<sup>p</sup>'b'<sup>q</sup></i> ell.
+<i>a'<sup>p</sup>·b'<sup>q</sup></i>/<i>a<sup>m</sup>·b<sup>n</sup></i> = <i>k</i><sub>1</sub>/<i>k</i><sub>2</sub> = <i>k</i>,
+hvor <i>k</i>, der er Forholdet mellem
+Hastighedskonstanterne, kaldes
+<sp>Ligevægtskonstanten</sp>; den er konstant for en konstant Temp.,
+men varierer, naar Temp. varierer. For en alm.
+revercibel Proces <i>mA+nB+rC</i>+ — — — ⇄
+<i>pA'+qB'+sC'</i> faar man altsaa Udtrykket
+<i>a'<sup>p</sup>·b'<sup>q</sup>·e'<sup>r</sup></i> — —  / <i>a<sup>m</sup>·b<sup>n</sup>·c</i>  — — = K.
+
+Dette Udtryk kaldes i Alm. M.; det giver
+altsaa, naar man kender Ligevægtskonstanten
+<i>K</i>, hvorledes Koncentrationerne af de andre i
+Processen deltagende Stoffer forandres, naar
+man vilkaarligt forandrer et ell. fl. af de
+reagerende Stoffers Koncentrationer. Saadanne
+reversible Processer, for hvilke M. gælder, er
+meget alm. i Kemien, saaledes den elektrolytiske
+Dissociation, mange Dissociationer, der
+optræder ved Ophedning, f. Eks. Vanddamps
+Spaltning til Ilt og Brint ved Ophedning til
+1500°—2500° og mange andre. M. har stor Bet. for
+baade den teoretiske Kemi og for den kemiske
+Teknik.
+<i>M. M-r.</i>
+</chapter>
+
+<chapter name="Massey, Gerald">
+<b>Massey</b> ['mäs<sub>i</sub>], <sp>Gerald</sp>, eng. Digter og
+Litteraturhistoriker (1828—1907), var af fattig
+Familie og kom som 15-aarig til London for at
+bryde sig en Bane der. Her studerede han
+under stor Trang og gjorde sig tidlig kendt som
+lyrisk Digter ved fl. Digtsamlinger, som: <i>Poems
+and Songs</i> (1846), <i>Voices of Freedom and
+Lyrics of Love</i> (1849), <i>The Ballad of Babe
+Christabel</i> (1854). 1889 udgav han <i>My Lyrical Life</i>
+(2 Bd), en Samling af tidligere Digte. Som
+Litteraturhistoriker har han bidraget til den
+store Litteratur om Shakespeare's Sonetter
+med sit Værk: <i>Shakespeare's Sonnets never
+before interpreted</i> (1866) og <i>The Secret Drama
+of Shakespeare's Sonnets</i> (1888).
+<i>(T. L.). I. O.</i>
+</chapter>
+
+<chapter name="Massey, William Ferguson">
+<b>Massey</b> ['mäs<sub>i</sub>], <sp>William Ferguson</sp>,
+nyzeelandsk Statsmand, f. i Irland 1856,
+udvandrede 1870 til Nordøen, hvor han blev
+Landmand. Under Ny Zeelands store
+Reformperiode ved Aarhundredskiftet blev han Leder
+for Oppositionen mod de Liberales, af
+Arbejderne støttede Politik, og da denne havde
+overlevet sig selv, kom han 1912 til Magten i
+Spidsen for »Reformpartiet«. I sin Administration
+og sit Lovarbejde bekæmpede han
+Statssocialismens uheldlige Sider og de lovløse Strejker. For
+et nært Forhold til det britiske Moderland var
+han lige saa ivrig som sine liberale Forgængere.
+Under Verdenskrigen omdannedes hans
+Ministerium 1915 ved Optagelse af Liberale, men
+1919 ophørte Koalitionen, og M. har siden atter
+ledet en Partiregering, støttet paa Valgsejre
+1919 og 1922. Han repræsenterede sin Stat i
+Rigskabinettet og ved Fredsforhandlingerne,
+hvor han fik skaffet den Andel i de tyske
+Sydhavskolonier.
+<i>P. L. M.</i>
+</chapter>
+
+<chapter name="Massicot">
+<b>Massicot</b> [masi'ko], se <sp>Blyoxyd</sp>.
+</chapter>
+
+<chapter name="Massijs, Quentin">
+<b>Massijs</b> ['masæ^is] (<sp>Matsijs</sp>, <sp>Messijs</sp>,
+<sp>Metsijs</sp>), <sp>Quentin</sp> (<sp>Quinten</sp>),
+nederlandsk Maler, f. 1466 i Louvain, optaget som
+Mester i Maler gildet der 1491, d. smst. 1530;
+Historien om, at M. først arbejdede som Smed
+og derefter gik over til Kunsten for at vinde en
+Brud, er ikke afhjemlet; men den sengotiske
+Smedejernsbrønd uden for Antwerpens Katedral
+tilskrives M. M. udgik fra Louvain-Skolen
+under Indflydelse af D. Bouts og Roger v. d.
+Weyden. Hans første Madonnabilleder (nu i
+Bryssel, Nürnberg) er gl.-flamske. Hans
+Alterbilleder viser derimod den italieniserende
+Retning. Hertil hører muligvis Alterværket i. S.
+Salvador i Valladolid (1504), men i alt Fald
+Anna-Alterbilledet (1508) fra Peterskirken i

@@ -1,0 +1,137 @@
+som Lyskilde taget en fjern lysende Spalte
+parallel med Bøjningsspalten, vilde vi have faaet
+Striber i Stedet for Pletter. Fig. 5 giver
+skematisk Bøjningsbilledets Udseende i dette Tilfælde.
+Den simpleste
+Maade at
+iagttage
+Fænomenet paa er ved
+at se paa den
+lysende Spalte
+gennem en
+meget fin,
+regelmæssig Spalte
+(en Linie
+trukket med en
+Naalespids i et
+Lag halvtørt
+Blæk ell. Tusch
+paa en
+Glasplade), der
+holdes
+umiddelbart foran
+Øjet, som
+saaledes træder i
+St. f. Linsen.
+
+Hvis vi
+borttager Spalten
+<i>a b</i> foran
+Linsen (i Fig. 4),
+vil naturligvis
+den derfra
+hidrørende
+Bøjning forsvinde, men nu vil selve
+Linsefatningen virke som Bøjningsskærm, og ved et analogt
+Ræsonnement kan man let vise, at et uendelig
+fjernt Punkt, en Fiksstjerne f. Eks., vil give som
+Bøjningsfigur en lille, lys, cirkulær Plet med
+koncentriske mørke og lyse Ringe udenom. I en
+Kikkert med Objektivdiameter <i>d</i> og Brændvidde
+<i>p</i>, vil de mørke Ringes Radier tilnærmelsesvis
+være λ/<i>d</i> <i>p</i> (<i>n</i>+0,22), hvor <i>n</i> er et helt Tal, den
+centrale Skives Radius bliver derfor 1,22 × λ/<i>d</i> p.
+I den centrale Plet findes 84 % af den samlede
+Lysmængde, i den første Ring 7 %, i den anden
+kun 2,8 %. Jo større <i>d</i> er, desto mindre bliver
+Bøjningsbilledet, samtidig med at dets Klarhed
+stiger, af denne Grund ses Ringene vanskeligt i
+større Kikkerter. Er Kikkerten rettet mod en
+Dobbeltstjerne, bliver der en Bøjningsfigur for
+hver Stjerne. Man regner, at denne endnu vil
+kunne erkendes som dobbelt, hvis Centret af
+den ene Bøjningsfigur falder i den andens første
+mørke Ring. Den mindste Vinkel mellem
+Lyspunkter, der endnu kan adskilles af et Objektiv,
+kaldes dets <sp>angulære
+Opløsningsgrænse</sp> og er for grønt Lys (λ = 5 X 10<sup>5</sup> cm) i
+Buesekunder c. 12,6/<i>d</i>, hvor Objektivdiameteren
+<i>d</i> er i cm.
+
+Den samme Betragtningsmaade kan anvendes
+over for alle optiske Systemer. Ethvert saadant
+giver en af Bøjningsfigurer dannet Kopi af den
+Genstand, som de afbilder. For at to Punkter
+skal kunne erkendes som to, maa deres af
+Objektivet dannede Bøjningsbilleder være tydelig
+skilte. Okularet forstørrer nemlig blot
+Objektivbilledet og kan ikke skille ad, hvad der ikke
+allerede er adskilt i dette. Ved
+<sp>Opløsningsgrænsen</sp> for et optisk System forstaar man
+den mindste Afstand, to Punkter kan have, naar
+de skal kunne afbildes af det som adskilte. For
+<sp>Mikroskopobjektiver</sp> er denne, som
+vist af Abbe og Helmholtz, λ/<i>a</i>, hvor <i>a</i> er
+Objektivets numeriske Apertur, under
+Forudsætning af Belysning parallel med Mikroskopaksen.
+Ved skraa Belysning kan Opløsningsgrænsen
+blive indtil λ/2<i>a</i>. <sp>Øjets</sp> angulære
+Opløsningsgrænse sættes til 1,22·λ/<i>p</i>, hvor <i>p</i> er
+Pupilaabningens Diameter; for <i>p</i>=0,2 cm c. 1 Bueminut. For
+at den virkelige Opløsningsgrænse skal naa den,
+der sættes af Lysets Bølgenatur, kræves
+nødvendigvis, at Linsefejlene højst maa være af
+samme Størrelseorden som Bøjningsfejlene. For
+gode Kikkerter og Mikroskoper samt for Øjet
+kan dette ogsaa siges at finde Sted, derimod i
+Alm. ikke for fotografiske Objektiver. Da den
+største numeriske Apertur f. T. er 1,6, kan
+man i et saadant Mikroskop adskille Strukturer
+af c. 0,0002 mm's Finhed (i gult Lys).
+Opløsningsgrænsen maa ikke forveksles med Grænsen
+for Størrelsen af isolerede Smaadele, hvis
+Tilstedeværelse blot skal kunne konstateres. Denne
+ligger f. T. ved c. O.000006 mm og afhænger
+foruden af Aperturen af den anvendte Belysnings
+Styrke.
+
+Ethvert Bøjningsfænomen afhænger af
+Bølgebredden af det anvendte Lys, men kun de ved
+de saakaldte <sp>Gitre</sp>
+frembragte egner sig til en
+nøjagtig Bestemmelse af
+denne. Et Gitter er en
+Samling parallelle, ens
+Spalter, anbragte tæt ved
+Siden af hverandre i lige
+store indbyrdes Afstande.
+Fig. 6 giver skematisk
+Opstillingen ved et Gitter.
+Lyset fra Spalten <i>S</i> sendes
+af Linsen <i>L<sub>1</sub></i> parallelt ind
+paa Gitret <i>G</i>. De fra
+Spalterne udgaaende
+sekundære Bølger vil forstærke
+hinanden paa visse
+Steder i <i>L<sub>2</sub></i>'s Brændplan,
+nemlig paa saadanne, der
+svarer til Retninger, hvor
+Vejforskellen mellem Bølger fra to paa
+hinanden flg. Spalter overalt er nøjagtig et helt
+Antal (<i>n</i>) Bølgebredder. Er Afstanden mellem
+Midterne af to paa hinanden flg. Spalter <i>a</i>
+(Gitterkonstanten), vil der derfor komme Lys i
+Retningerne Θ, bestemt ved <i>a</i> sin Θ = <i>n</i>λ; i alle
+andre Retninger vil der praktisk talt være Mørke.
+Udsender Lyskilden monokromatisk Lys ɔ: Lys
+af kun een Bølgebredde, vil man i <i>L<sub>2</sub></i>'s
+Brændplan se en stærk lys Midterlinie, af samme
+Form og Beliggenhed, som hvis Gitret var borte,
+og symmetrisk paa begge Sider af denne
+dermed parallelle lyse Linier, der i Reglen bliver
+svagere, jo længere de ligger fra den centrale
+
+<img>Fig. 5. En fin Spaltes
+Bøjningsbillede.</img>
+
+<img>Fig. 6.</img>

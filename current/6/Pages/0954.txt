@@ -1,0 +1,143 @@
+Højspændingsnet og elektrisk Kraftoverføring paa lange
+Afstande. Spændvidden kan ved saadanne
+Master være indtil 300 m. Ved Højspændinger
+over 1000 Volt jordforbindes alle Barduner og
+Master af elektrisk ledende Materiale.
+Træmaster forsynes med et Bælte af Kobbertraad,
+der anbringes mindst 3 m fra Jorden og
+jordforbindes. Undertiden jordforbindes tillige
+Isolatorernes Støtter. Saavidt muligt undgaarman
+at føre Høj- og Lavspænding paa samme Master;
+sker det, lægges Højspændingsledningerne
+øverst. Hvor Høj- og Lavspændingsledninger,
+der under eet benævnes Stærkstrømsledninger i
+Modsætning til Telefon- og Telegrafledninger,
+der benævnes Svagstrømsledninger, føres tværs
+over Veje e. l. Færdselsaarer, maa man tage
+saadanne Sikkerhedsforanstaltninger, at
+eventuelt nedfaldende Ledninger ikke medfører Fare
+for Forbipasserende. Der anbringes i dette
+Øjemed Fangrammer paa Masterne ell.
+Sikkerhedsnet mellem Masterne, hvilke
+Sikkerhedsanordninger har en saadan Form og er
+anbragte saaledes, at de enten hindrer
+Ledningerne i at falde ned ved indtrædende Brud eller
+gør dem spændingsløse ved at jordforbinde dem,
+<sp>inden</sp> de naar ned i en Højde af 3 m fra
+Jorden. Fangrammerne kan enten gribe om
+hver sin Leder ell. danne en Bøjle, der omgiver
+alle Ledere paa samme Mast. Ved
+Højspændingsnet er Fangrammer og Sikkerhedsnet
+jordforbundne og Masterne forsynede med en rød
+Siksakpil, paa befærdede Steder tillige med en
+iøjnefaldende Advarsel. Ved Krydsninger
+mellem Jernbanelinier og Stærkstrømsledninger
+samt mellem saadanne og Svagstrøms- eller
+andre Stærkstrømsledninger tages lgn.
+Sikkerhedsforanstaltninger som ved Krydsning med
+Veje og Gader. Ved Højspændingsledningers
+Krydsning med Lavspændingsledninger saavel
+som ved deres Krydsning med
+Svagstrømsledninger føres Højspændingsledningerne altid
+øverst; Parallelføring af Stærkstrøms- og
+Svagstrømsledninger undgaas altid, saafremt det er
+muligt, da Stærkstrømmen, selv ved
+Jævnstrømsanlæg, kan have en stærkt forstyrrende
+Virkning paa Telefonering gennem
+Svagstrømsledninger, der føres parallelt med
+Stærkstrømsledninger, selv om de to Ledningsanlæg føres f.
+Eks. paa hver sin Side af en Landevej. Disse
+Forstyrrelser skyldes dels induktive Virkninger,
+dels Afledning (daarlig Isolation) og kan
+til Tider umuliggøre Telefonering gennem
+Svagstrømsledningerne. Hvor der i et
+Højspændingsnet udgaar Forgreninger i
+Nettet, indskydes der en Afbryder. I
+Lavspændingsnet finder dette ikke Sted; men i disse
+indskyder man overalt, hvor man gaar fra et
+Ledningstværsnit til et andet, Smeltesikringer
+paa Overgangsstedet. Ledningsnet, der fra en
+Central fører Strøm ud til et større Opland,
+bygges i Reglen saaledes, at særlig store
+Forbrugere, f. Eks. Købstæder tilsluttede en
+Oplandscentral (se <sp>elektriske
+Kraftstationer</sp>), kan faa Strømforsyning fra to Sider,
+altsaa saaledes, at Nettet danner Sløjfer eller
+Ringe over nævnte Forbrugere og Centralen. I
+Højspændingsnet holdes Sløjfer ell. Ringe
+normalt aabne ved Hjælp af i Nettet indskudte
+Ledningsadskillere ell. Afbrydere, men kan
+lukkes, naar indtrædende Fejl e. l. nødvendiggør
+Omlægning af Belastningen ell. Isolering af en
+Del af Ledningsnettet.
+
+Undertiden hænder det, at en Central,
+hvortil der er sluttet et Luftfordelingsnet, er
+saaledes liggende i en By, at Fødeledningerne maa
+føres i Kabler til Fødepunkterne ell. til Punkter,
+der ligger i større ell. mindre Afstand fra
+Centralen. I saa Tilfælde tilsluttes Kablerne
+Luftledningsnettet enten gennem Opføringsmaster,
+hvorigennem Kablet føres op i passende Højde
+over Jorden og tilsluttes Nettet over Sikringer
+og Afbrydere, ell. i Opføringstaarne, der noget
+ligner Transformatortaarne (se <sp>elektriske
+Understationer</sp>) og indeholder de for
+Tilslutningen nødvendige Sikringer og
+Ledningsadskillere ell. Afbrydere (se i øvrigt
+<sp>elektrisk Kraftoverføring</sp> samt
+<sp>elektrisk Ledningsmateriel</sp>).
+<i>R. J. J.</i></chapter>
+
+<chapter name=”elektrisk Elementarkvantum”>
+<b>elektrisk Elementarkvantum,</b> se
+Elektron.</chapter>
+
+<chapter name=”elektriske Maaleenheder”>
+<b>elektriske Maaleenheder.</b> Trangen til et
+internationalt System af veldefinerede e. M.
+meldte sig først bl. Fysikerne, der maa have et
+saadant for at kunne udveksle videnskabelige
+Resultater; det var paa en Tid, da
+Elektroteknikken i det væsentlige endnu kun omfattede
+Telegrafien, som højst havde Brug for en
+Modstandsenhed. Helt anderledes vigtigt og af
+Interesse ogsaa uden for Videnskabsmændenes
+Kreds blev Spørgsmaalet, da Elektroteknikkens
+Udvikling omkr. 1880 tog Fart, efter at de
+første brugbare Dynamoer var fremkomne, saa at
+Elektriciteten kunde blive en Handelsvare. Det
+blev da taget op til international Løsning paa
+den første elektriske Kongres, der blev holdt
+1881 i Paris i Forbindelse med den berømte
+elektriske Udstilling, hvor paa en Maade
+Stærkstrømsteknikkens Udvikling begyndte. Det der
+vedtagne System, det saakaldte <sp>praktiske
+System</sp> af e. M., der imidlertid paa en
+Række senere Kongresser har faaet adskillige
+Tilføjelser og Ændringer, er i Nutiden absolut
+eneraadende. I de fleste Stater, dog endnu ikke
+i Danmark, er dets Anvendelse fastslaaet ved
+Lov.
+
+Det praktiske System hviler paa det
+<sp>absolutte System af</sp> e. M., der først skal
+omtales. Det kan føres tilbage til <sp>Gauss</sp>, der
+i det hele har lagt Grunden til et absolut
+Maalesystem (se <sp>absolut Maal</sp>); han definerede
+og anvendte (1832) absolutte Enheder til
+Maaling af magnetiske Størrelser
+(Magnetismemængder og magnetiske Kræfter). Ca. 20 Aar senere
+udvidede <sp>Weber</sp> det absolutte System til
+ogsaa at omfatte elektriske Størrelser. Det absolutte
+System bruger i vore Dage Centimeter, Gram og
+Sekund som Grundenheder (Gauss og Weber
+brugte mm og mg i St f. cm og g) og afleder da
+paa simplest mulig Maade ved de elektriske
+Grundlove Enheder for alle elektriske Størrelser.
+Det falder i to Dele, det absolutte
+<sp>elektrostatiske</sp> og det absolutte
+<sp>elektromagnetiske</sp> System. I det første System er
+Udgangspunktet Coulomb's Lov, hvorved den
+absolutte elektrostatiske Enhed for
+<sp>Elektricitetsmængde</sp> defineres som den

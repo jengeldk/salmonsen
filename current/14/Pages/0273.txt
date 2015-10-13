@@ -1,0 +1,121 @@
+Fremspringene. Gummiringene <i>5</i>, der er indsat
+i de neddrejede Riller <i>6</i>, danner da Tætning,
+idet den ydre Lufts Overtryk vil trykke dem
+tæt sammen, saa snart der frembringes
+Vakuum (Luftfortynding) i Ledningen. I
+Modsætning til Trækapparaternes K. er
+Bremsekoblingshovederne konstrueret saaledes, at de af
+sig selv kan skilles ad uden at lide Overlast,
+hvis der skulde indtræde en Sprængning af
+Toget.
+
+<sp>Varmekoblinger</sp> er ofte af en lgn.
+Konstruktion, bestaaende af Gummislanger,
+befæstet paa Hovedvarmeledningen under
+Vognene og forsynet med Koblingshoved i den
+anden Ende. Man er dog mange Steder i de
+senere Aar gaaet over til at benytte saakaldte
+<sp>dobbelte Varmeslanger</sp> eller
+-<sp>koblinger</sp>, som ikke kan skilles ad. I nogle Lande,
+f. Eks. Frankrig, anvendes leddede Metalrør i
+St f. Gummislanger; saadanne K. er dyrere i
+Anskaffelse, men til Gengæld mere holdbare.
+
+Medens Bremsekoblingerne er fast anbragt paa
+Vognene og kun aftages ved forefaldende
+Reparationer, er Varmekoblingernes Konstruktion
+saaledes, at de i Driften let kan fjernes fra
+Vognene. Ved de danske Statsbaner er nu
+dobbelte Varmeslanger, de saakaldte
+<i>Glyco</i>-Varmekoblinger, se Fig. 7, indført; de to
+Gummislanger <i>1</i> er fast forbundet med hinanden
+gennem et Koblingsmidtstykke <i>2</i>, hvori er
+indbygget en Ventil <i>3</i>, der tillader Afløb af det i
+K. opstaaede Fortætningsvand. I Slangernes
+anden Ende er der ved Spænderinge <i>4</i>
+fastspændt bøjede Bronzerør <i>5</i>, der ender i en
+konisk Tud, der passer paa
+Hovedvarmeledningen <i>6</i>'s Hanestykke <i>7</i>; Tuden spændes fast
+paa dette ved Hjælp af Skruebøjlen <i>8</i> med
+Stilleskruen <i>9</i>; <i>10</i> er en Afspærringshane.
+
+Hvor Elektricitet anvendes til Togenes
+Belysning, og hvor ikke hver Vogn har sin egen
+Dynamo med tilhørende Ledningssystem, bliver
+de forsk. Vognes Ledninger forbundet med
+hinanden gennem <sp>elektriske
+Lyskoblinger</sp>, hvis Koblingsmundstykker i Reglen er
+indrettet paa en lgn. Maade som
+Bremsekoblingerne, saa at de ved evt. indtrædende
+Togsprængning af sig selv gaar ud af Indgribning med
+hinanden, I Fig. 8 er vist en saadan paa danske
+Jernbaner meget brugt K. Fra den paa Vognens
+Gavl siddende Forgreningsdaase udgaar et
+solidt, godt beskyttet <sp>Koblingskabel</sp>, der
+indeholder de to Ledninger <i>G</i> og <i>F</i> og ender
+i det af Støbejern værende
+<sp>Koblingsmundstykke</sp> <i>A</i>; den positive Ledning fører til
+Midtkontakten <i>C</i>, den negative til
+Kontaktstykket <i>B</i>, og disse Kontaktstykker og de
+tilsvarende Stykker i den modsatte K. presses mod
+hinanden ved Hjælp af Spiralfjedrene <i>D</i> og <i>E</i>.
+Isoleringen mellem Kontaktstykkerne indbyrdes
+og Mundstykket sker ved Haardtgummiringe <i>a</i>
+og <i>b</i>. For at skaffe Tæthed mod Regn og Snavs
+mellem to sammenkoblede Mundstykker er disse
+forsynet med 2 mm tykke Gummiringe <i>c</i>, der
+presses tæt mod hinanden. Den i Fig. viste
+Koblingskonstruktion brugtes tidligere af de
+danske Statsbaner, men disse har i de senere
+Aar ændret den saaledes, at begge
+Ledningerne i samme K. fører samme Art Elektricitet;
+da der ved hver Vogngavl findes 2 K., er den
+ene positiv og den anden negativ Leder.
+
+Ved elektriske Interkommunikationssignaler
+anvendes dels særlige K. efter et lgn. System
+som forannævnte, dels benyttes f. Eks.
+Bremsekoblingernes Mundstykker som metalliske
+Ledere fra Vogn til Vogn.
+<i>G. K.</i>
+
+<img>Fig. 7.</img>
+
+<img>Fig. 8.</img>
+</chapter>
+
+<chapter name="Kobling (elektr.)">
+<b>Kobling</b> (elektr.) anvendes som Betegnelse
+for forsk. elektr. Forbindelsesmaadier; f. Eks. kan
+Modstande være seriekoblede ell.
+parallelkoblede. Ved Celleskifteranordninger kan Opladning
+af Regulercellerne ske ved forsk.
+Forbindelsesmaader (»Gruppekobling« m. m.). Endvidere
+betegner K. særlige Forbindelsesmaader af
+elektr. Maskiner til Opnaaelse af spc.
+Virkninger (Leonard-K., s. d.).
+
+I den traadløse Telegrafi anvendes K. som
+Betegnelse for den magnetiske Forbindelse
+mellem to Spoler, idet Strømmen i den ene
+induceres af Strømmen i den anden. Jo fl.
+Kraftlinier fra den primære Spole, der gaar gennem
+den sekundære, desto »fastere« siges K. at
+være.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="Koblingsspore">
+<b>Koblingsspore,</b> se <sp>Koblingssvampe</sp>.
+</chapter>
+
+<chapter name="Koblingssvampe">
+<b>Koblingssvampe</b> (<i>Zygomycetes</i>) udmærker
+sig derved, at Myceliet kun bestaar af en
+eneste, rigt forgrenet Celle, og ved at den
+kønnede Forplantning foregaar ved
+Koblingssporer. Koblingssporerne dannes i Reglen paa flg.
+Maade: to Myceliegrene vokser ud mod
+hinanden og bliver mere ell. mindre kølleformet
+opsvulmede, hvorpaa Enden af hver af dem
+afskæres ved en Væg, hvorved der altsaa

@@ -1,0 +1,126 @@
+ndfr.). Her skal kun omtales de simpleste
+Anordninger. En Opstilling til objektiv
+Fremstilling af et rent Solspektrum er vist i Fig. 1.
+Sollyset <i>A'</i> rettes ved en Heliostat hen mod en
+Linse <i>L1</i>, der afbilder Solen paa en fin Spalte
+<i>S</i> i en uigennemsigtig Skærm, saa at Straalerne
+gaar videre som et tilstrækkelig vidt Bundt til
+at fylde Linsen <i>L</i> (skal man frembringe
+Spektret af Lyset fra en anden Lyskilde, kan man,
+hvis denne har tilstrækkelig Udstrækning [<i>A</i> i
+Fig. 1 a], anbringe den i Nærheden af Spalten
+uden en Linse foran denne, men er Lyskilden af
+for ringe Udstrækning til paa denne Maade at
+fylde Linsen, maa man ogsaa bruge en
+Belysningslinse <i>L1</i>, som i Fig. 1 b, hvor <i>A</i> er den
+lille Lyskilde). Linsen <i>L</i> opstilles saaledes, at
+den, naar Prismet <i>P</i> er borte, afbilder Spalten
+skarpt i <i>B</i> paa en Skærm i betydelig Afstand
+fra <i>S</i>. Indskydes <i>P</i>, afbøjes Lyset, og da de i
+dette indeholdte forsk. Farver afbøjes i forsk.
+Grad, faar man paa den flyttede Skærm en
+Rk. skarpe Spaltebilleder, hver i sin Farve. I
+Fig. 1 er antydet to saadanne Billeder, et rødt <i>R</i>
+og et violet <i>V</i>, de yderste i det synlige
+Spektrum, og derimellem ligger alle de andre. Paa
+Skærmen ses da et rent Solspektrum, hvor de
+forsk. Farver kun griber lidt ind over hverandre,
+desto mindre jo smallere Spalten er, og jo
+smallere derved hvert Billede bliver. Et
+Spektrum er altsaa et farvet Baand sammensat af
+en Mængde forsk. Billeder af Spalten hver i
+sin Farve; Baandets Bredde bestemmes ved
+Spaltens Højde, dets Længde <i>RV</i> ved Prismets
+Spredning. Jo renere Spektret er, des
+lyssvagere bliver det. Paa denne Maade kan
+Spektret iagttages af mange paa een Gang. Ved den
+simpleste subjektive Fremstilling af et rent
+Spektrum træder Øjet i St f. Linsen <i>L</i>. Man
+iagttager den belyste Spalte helst fra en bet.
+Afstand gennem et Prisme, der holdes tæt
+foran Øjet. Gennem Prismet ses da en Mængde
+forsk. farvede Billeder af Spalten, der
+tilsammen igen danner et Spektrum.
+
+<sp>Inddeling af Spektrene</sp>. En nøjere
+Undersøgelse af Solspektret, naar det paa disse
+ell. andre Maader er gjort tilstrækkelig rent,
+viser nu, at det dog ikke indeholder alle
+Farver, idet Farvebaandet paa mange Steder er
+afbrudt af smalle mørke Mellemrum, de
+Fraunhofer'ske Linier (se ndfr.). Et Spektrum, hvor
+de forsk. Farver griber jævnt over i hinanden
+uden Afbrydelser, kaldes et <sp>kontinuert
+Spektrum</sp>. Et saadant faas, naar Lyskilden
+er et fast ell. draabeflydende glødende Legeme
+ell. en meget stærkt komprimeret Luftart.
+Derimod indeholder Spektret af lysende Luftarter
+ved lavere Tryk ikke alle Farver, men kun
+visse bestemte, saa at det bestaar af en Rk.
+lyse Linier paa mørk Grund, nemlig lige saa
+mange Billeder af Spalten, som Lyset
+indeholder forsk. Farvestraaler; et saadant Spektrum
+kaldes et <sp>diskontinuert Spektrum</sp>
+ell. <sp>Liniespektrum</sp>. Da ethvert
+Liniespektrum er karakteristisk for det Stof, der
+har udsendt det, udgør Studiet af
+Liniespektrene det vigtigste Afsnit af S. Foruden med
+de nu omtalte <sp>Emissions</sp>- ell.
+<sp>Udstraalingsspektre</sp> beskæftiger S. sig med
+<sp>Absorptions</sp>- ell.
+<sp>Indsugningsspektre</sp>, nemlig Spektret af det Lys, der er blevet
+tilbage, naar Lyset fra en Lyskilde, der giver
+et kontinuert Spektrum, er passeret gennem et
+Stof, saa at Dele af Spektret er bleven
+indsugede. Ved et saadant Absorptionsspektrum er
+det naturligvis det Lys, der mangler, som har
+Interesse. Det vigtigste Absorptionsspektrum er
+netop Solspektret. Solens Kerne, der bestaar af
+glødende Luftarter under meget højt Tryk,
+udsender et kontinuert Emissionsspektrum; hvad
+der mangler deraf i det Solspektrum, vi ser, er
+indsuget i Solens og delvis ogsaa i Jordens
+Atmosfære.
+
+Foruden den synlige Del af Spektret omfatter
+ethvert Spektrum ogsaa usynlige Omraader, de
+<sp>ultrarøde</sp> Straaler, der er mindre
+brydbare end de røde, saa at de ligger uden for
+det synlige Spektrums røde Ende, og de
+<sp>ultraviolette</sp> Straaler, der er mere brydbare end
+de violette og derfor ligger uden for det
+synlige Spektrums violette Ende. En fuldstændig
+Undersøgelse af et Spektrum maa naturligvis
+ogsaa omfatte disse Dele.
+
+<sp>Spektralapparater</sp>. 1)
+<sp>Prismeapparater</sp>. Det alm. <sp>Spektroskop</sp> kan
+opfattes som en videre Udvikling af den ovf.
+omtalte Opstilling til subjektiv Iagttagelse af et
+Spektrum. I St f. med blotte Øje iagttages
+Spektret gennem en Kikkert, hvorved det
+forstørres, og for at undgaa den store Afstand fra
+Spalte til Prisme anbringes Spalten i
+Brændplanen for en Linse, Kollimatorlinsen. Derved
+opnaas, at Straalerne fra hvert enkelt Punkt af
+Spalten forlader Linsen og altsaa rammer
+Prismet som et Bundt af indbyrdes parallelle
+Straaler, som om Spalten var meget fjern.
+Indretningen er skematisk vist i Fig. 2, og Fig. 3.
+viser det ydre Udseende af Spektroskopet, som
+det blev beskrevet af Kirchhoff og Bunsen 1861
+og endnu bruges i Hovedsagen uændret ved
+orienterende Undersøgelser af det synlige
+Spektrum, f. Eks. i kem. Laboratorier. Lyskilden <i>Q</i>,
+hvis Spektrum skal undersøges, sender Lys
+gennem Spalten <i>S</i> ind i Kollimatorrøret <i>K</i>.
+I Virkeligheden maa Lyset fra <i>Q</i> som vist i
+Fig. 1 ved en Linse samles paa <i>S</i> for at faa
+Kollimatorlinsen fyldt med Lys. Da <i>S</i> er
+anbragt i Brændplanen for den akromatiske Linse
+<i>L</i>, forlader Lyset denne som Bundter af
+indbyrdes parallelle Straaler, eet for hvert
+Spaltepunkt. De brydes og spredes i Prismet <i>P</i> af
+
+<img>Fig. 2.
+Spektroskop, skematisk.</img>

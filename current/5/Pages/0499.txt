@@ -1,0 +1,147 @@
+Det Omfang, i hvilket Kedlerne benyttedes i
+de forsk. Hovedarter af Virksomhed i 1914,
+oplyses ved flg. Oversigt:
+
+<table>
+<td><td>Industri<td>Anden Virksomhed<td>Landbrug og Mejeri
+<td>Faststaaende Kedler<td r>2377<td r>510<td r>1611
+<td>Bevægelige Kedler<td r>126<td r>351<td r>1909
+<td r>I alt<td r>2503<td r>861<td r>3520
+</table>
+
+Trods den stærke Udvikling, Anvendelsen af
+mek. Drivkraft til Industri og Landbrug har
+haft i de senere Aar, er Kedlernes Antal omtr.
+uforandret, og dette skyldes, dels at en
+Mængde Virksomheder er gaaet over til at anvende
+Forbrændingsmotorer som Drivkraft, og dels at
+der overalt i Landet er oprettet elektriske
+Centralstationer, som forsyner de omliggende
+Virksomheder med elektrisk Drivkraft. (<sp>Litt</sp>.: <sp>S.
+C. Borch</sp>, »Maskinlære« [3 Bd, 1902-05]; <sp>A.
+H. M. Rasmussen</sp>, »Læren om
+Skibsdampmaskinen« [2 Bd, 1912]; <sp>Matschoss</sp>, »Die
+Entwickelung der Dampfmaschine« [2 Bd, 1908]:
+<sp>T. Tetzner</sp>, »Die Dampfkessel« [1907-14];
+<sp>G. Bauer</sp>, »Berechnung und Konstruktion der
+Schiffsmaschinen und -Kessel« [1 Bd, 1910];
+<sp>Hütte</sp>, »Des Ingenieurs Taschenbuch« [3 Bd,
+1914]; <sp>H. Powles</sp>, <i>Steam-Boilers, their
+History and Development</i> [1 Bd, 1905]).
+<i>H. P. C.</i></chapter>
+
+<chapter name="Dampkedeleksplosion">
+<b>Dampkedeleksplosion</b> ell.
+<sp>Kedelsprængning</sp> er en pludselig Sønderrivning af en
+Dampkedel ell. en Del af denne, ledsaget af en
+voldsom Dampudvikling. Aarsagen hertil kan være:
+1) fejlagtig Konstruktion; 2) Tæring af
+Kedelplader og Stag; 3) Vandmangel; 4) for højt
+Damptryk; 5) et tykt Lag Kedelsten ell.
+Fedtstof paa de af Ilden berørte Plader. Fejlagtig
+Konstruktion kan hidrøre fra, at der til Kedlens
+Bygning er anvendt for tynde Plader, for svag
+Nitning, ell. at Afstivningen ikke er
+tilstrækkelig til at modstaa Damptrykket. Det kan ogsaa
+tænkes, at der er anvendt daarligt Materiale,
+ell. at Arbejdets Udførelse er mangelfuld.
+Tæring af Kedelplader og Stag fremkommer ved
+galvanisk Virkning og ved Rustdannelse,
+efterhaanden som Kedlen bliver ældre, særlig paa
+Steder, hvor der opstaar en Utæthed i
+Naglesamlingerne. En Kedelsprængning af de under
+1) og 2) nævnte Aarsager kan vanskelig tænkes
+nutildags, hvor enhver Dampkedel, inden den
+tages i Brug, og senere med visse Mellemrum,
+skal underkastes Prøver og Undersøgelser, ved
+hvilke eventuelle Fejl kan opdages.
+Vandmangel fremkaldt ved pludselig opstaaede
+Utætheder paa Kedlen ell. ved Skødesløshed fra
+Fyrbøderens Side, idet han har forsømt at
+kontrolere og vedligeholde Vandstanden, er den
+hyppigst forekommende Aarsag til D. Naar
+Vandstanden synker saa meget, at de Dele af
+Kedlen, der er udsatte for Ildens Paavirkning,
+blottes for Vand, bliver disse Dele hurtig
+glødende, og Materialet svækkes derved saa meget,
+at det ikke kan modstaa Damptrykket; en
+Sønderrivning af Pladerne og en voldsom
+Udstrømning af Dampen gennem Aabningen kan da
+blive Følgen.
+
+For højt Damptryk i Kedlen vil i Alm. kun
+indtræffe, naar Sikkerhedsventilerne sidder fast,
+er overbelastede ell. forsætlig er kilede fast. En
+pludselig Stigning i Damptrykket antages
+endvidere at kunne forekomme ved Kedler, som
+har været i Ro i nogen Tid og derefter
+udsættes for en Rystelse, naar de igen tages i Brug.
+Opvarmes nemlig kogt luftfrit Vand i
+fuldstændig Ro, kan dets Temp. stige langt over den,
+der svarer til Trykket, uden at Vandet
+kommer i Kog; udsættes Vandet derefter for en
+Rystelse, f. Eks. ved, at en Ventil paa Kedlen
+aabnes, vil der foregaa en saa pludselig
+Dampudvikling gennem hele Vandmassen, at en
+Kedelsprængning kan indtræffe, hvis Kedlen i
+Forvejen er svag. Man har heri søgt Forklaringen
+paa, at Kedelsprængning ved Landkedelanlæg
+er indtraadt straks efter en Hvileperiode, f. Eks.
+Middagspausen, i hvilken der hverken er fyret
+ell. taget Damp fra Kedlen, dog er denne
+Forklaring ikke blevet bekræftet ved de
+Eksperimenter, der i den nyere Tid er anstillede. Et
+tykt Lag Kedelsten ell. Fedt paa de Dele af
+Kedlen, der er udsat for Ildens Paavirkning,
+vil bevirke, at Pladen paa det paagældende Sted
+overhedes og svækkes, idet Varmen vanskeligt
+kan forplantes gennem saadanne Lag til
+Kedelvandet. Er Pladen overhedet, vil der let opstaa
+en Bule paa det paagældende Sted, som giver
+Anledning til Dannelsen af en Revne i Kedlen
+og dermed til en D.
+
+Som Følge af det gode Materiale og den
+omhyggelige Konstruktion, der nutildags anvendes
+til Kedler, i Forbindelse med det effektive
+Tilsyn, Staten fører med Dampkedelanlæg, er D.
+blevne overordentlig sjældne, der er saaledes i
+1914 intet Tilfælde og i 1915 kun forefaldet 3
+Tilfælde af D. bl. de c. 7000 Dampkedler, som i
+Danmark hører ind under det Offentliges
+Tilsyn.
+<i>H. P. C.</i></chapter>
+
+<chapter name="Dampkedelfødeapparat">
+<b>Dampkedelfødeapparat</b> tjener til at føre
+den til Vandstandens Vedligeholdelse fornødne
+Mængde Vand (Fødevand) ind i Kedlen. Enhver
+Skibskedel og enhver Landkedel med over 30
+m<sup>2</sup> Hedeflade skal efter Loven være forsynet
+med mindst to af hinanden uafhængigt
+virkende Fødemidler, hvoraf det ene maa kunne
+virke, selv om Hovedmaskinen staar stille,
+ligesom det ogsaa maa kunne arbejde med
+Haandkraft, saa at der kan sættes Vand paa Kedlen,
+uden at der er Damp i den. Paa
+Fødevandsledningen skal der umiddelbart ved Kedlen
+anbringes en Afspærringshane og en Kontraventil, der
+forhindrer Vandet i at strømme ud af Kedlen
+tilbage i Fødeledningen. De mest anvendte D. er
+Fødepumper af forsk. Konstruktioner.
+<sp>Haandfødepumper</sp> anvendes kun ved mindre
+Kedler med lavt Damptryk som
+Hjælpefødemiddel. <sp>Maskinfødepumper</sp>, som
+trækkes direkte af Hovedmaskinen, anvendes
+hyppigt som Hovedfødepumpe.
+<sp>Dampfødepumper</sp>, som er Pumper, f. Eks. Weir-,
+Owen-, Worthington-Pumper, der trækkes af
+en særlig med Pumpen sammenbygget
+Dampmaskine (se Fig.), anvendes navnlig i Skibe og
+ved større Landanlæg. Ved saadanne Anlæg
+anvendes undertiden ogsaa elektrisk drevne
+Pumper. En særlig Art af D. er de saakaldte
+<sp>Straalefødere</sp> (Injektører, s. d.), der
+hyppigt anvendes i Lokomotiver og mindre
+Skibe; de er indrettede efter det Princip, at en
+

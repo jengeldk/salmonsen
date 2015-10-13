@@ -1,0 +1,25 @@
+<img>MADRID</img>
+
+<table>
+<td r>1.<td> Palacio real (Kgl. Slot<td r>2 C
+<td r>2.<td>Catedral de S. Isidro<td r>2 B
+<td r>3.<td>Nuestra Señora de Atocha<td r>4 B
+<td r>4.<td>San Geronimo<td r>4 B
+<td r>5.<td>Krigsministeriet<td r>3 C
+<td r>6.<td>Marineministeriet<td r>2 C
+<td r>7.<td>Justitspaladset<td r>3 C
+<td r>8.<td>Cortespaladset<td r>3 C
+<td r>9.<td>Nationalbanken<td r>3 C
+<td r>10.<td>Børsen<td r>4 C
+<td r>11.<td>Universitetet<td r>2 C
+<td r>12.<td>Medicinsk Facultet<td r>3 B
+<td r>13.<td>Kunstakademiet<td r>3 C
+<td r>14.<td>Museo del Prado<td r>4 B
+<td r>15.<td>Artillerimuseet<td r>4 C
+<td r>16.<td>Industriudstillingsbygningen<td r>4 E
+<td r>17.<td>Nationalbiblioteket<td r>4 C
+<td r>18.<td>Botanisk Have<td r>4 B
+<td r>19.<td>Kgl. Teater<td r>2 C
+<td r>20.<td>Nordbanegaarden<td r>1 C
+<td r>21.<td>Mediodiabanegaarden<td r>4 B
+</table>

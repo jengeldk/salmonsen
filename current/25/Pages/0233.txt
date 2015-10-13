@@ -1,0 +1,101 @@
+Diameter i m. Man kan maaske faa noget mere
+ved at opstille flere Vindfang efter hinanden
+eller ved at opstille en Blæser foran
+Vindfanget, men dette har ingen praktisk Betydning,
+da Nettoudbyttet ikke bliver større derved. Det
+vil ogsaa være forkert at tro, at man kan
+vinde mere ved at anvende de saakaldte Flettner
+Rotorer — altsaa roterende Cylindre — som
+Vinger; de giver nok større Tryk end Vinger,
+men hvis man ikke gør dem tilsvarende
+mindre, afbremser de Vinden saa stærkt, at der
+gaar saa meget mindre Luft igennem, og
+Resultatet er derfor ikke bedre.
+
+Hvor nær man kommer til den ovenfor
+nævnte teoretiske Værdi, afhænger af Vingernes
+Form og af Vindfangets Udfyldning. Naar
+Luften strømmer mod et Legeme, paavirkes dette
+af en Kraft, som kan opløses i to Komposanter,
+en i Strømningsretningen og en vinkelret
+derpaa, den første kaldes Modstanden og den
+anden Opdriften. Idet man med <i>c<sub>m</sub></i> betegner
+Modstandskoefficienten og med <i>c<sub>o</sub></i>
+Opdriftskoefficienten, kan disse to Kræfter sættes lig
+henholdsvis <i>c<sub>m</sub></i> γ/<i>g</i> 1/2 <i>Fv</i><sup>2</sup> og <i>c<sub>o</sub></i> γ/<i>g</i> 1/2 <i>Fv</i><sup>2</sup>,
+hvor γ er Vægten af 1 Rumenhed af Luften
+(1,22 kg/m<sup>3</sup>), og <i>g</i> er Tyngdens Acceleration 9,81
+m/Sec<sup>2</sup>, <i>F</i> er Legemets Tværsnitsareal, og <i>v</i> er
+Luftens Hastighed. Forholdet mellem <i>c<sub>m</sub></i> og <i>c<sub>o</sub></i>
+er nu af væsentlig Betydning for det Nyttetryk,
+der opstaar paa Vingerne, ligesom det er
+afgørende for Længden af den Glideflugt, en
+saadan Vinge kan udføre. Medens Forholdet <i>c<sub>m</sub></i>/<i>c<sub>o</sub></i>
+for en la Cours Knækvinge i gunstigste Tilfælde
+er c. 1/5 — det varierer naturligvis med
+Indfaldsvinklen — kan man nu komme ned paa
+Værdier omkr. 1/50 og derunder. Naturligvis maa
+det ikke glemmes, at det, det gælder om ved
+V., er at faa den billigst mulige Energi og ikke
+at forbedre Virkningsgraden uden Hensyn til
+Bekostningen. Anvendelse af Vindmotorvinger
+med et gunstigt Forhold mellem Modstand og
+Opdrift er først foreslaaet fra dansk Side, og
+Motorer af denne Art, de saakaldte Agricco
+Motorer, er fabrikeret her i Landet siden 1919 og
+opstillet baade i Ind- og Udland; senere er
+Fabrikationen af lignende Typer optaget i
+Udlandet til Dels efter danske Patenter. Den Del af
+Energien, disse Motorer udtager af
+Vingespidscirklens Luftstrøm, er c. 50 % mere ved lave
+Vindstyrker og mindre ved højere. En god
+Klapsejler tager mellem 20 og 30 % og en
+Vindrose under 20 %. Den ovenfor omtalte
+Mølle, som Professor Lulof har maalt paa, gav
+under 10 %.
+
+Som allerede nævnt, har man længe været
+klar over, at mange Vinger, d. v. s. en stærk
+Udfyldning af Vingespidscirklen, ikke sætter
+Vindfangets Ydelse nævneværdigt op. Hvis man
+deler Vingespidscirklen i ringformede Arealer
+og vil regne ud, hvor stor en Vingebredde der
+i hvert af disse Arealer netop skal til for at
+retardere Luftstrømmen til den gunstigste
+Værdi, finder man en Formel, der siger <i>b</i> =
+π·<i>D</i>/<i>z</i> · 8 / 9 <i>c<sub>o</sub></i> · <i>v</i><sup>2</sup>/ u·c, hvor <i>D</i> er det ringformede
+Areals Diameter, <i>z</i> Antallet af Vinger; cq er
+Opdriftskoefficienten for det anvendte Profil, <i>v</i> er
+Vindhastigheden; <i>u</i> er Vingens Hastighed det
+paagældende Sted og <i>c</i> den relative
+Vindhastighed i Forhold til Vingen eller kvadratrod(<i>v'</i><sup>2</sup> + <i>u</i><sup>2</sup>), hvor
+<i>v'</i> som nævnt skal være 2/3<i>v</i>. Det ses let, at
+hurtiggaaende Motorer maa have faa og smalle
+Vinger og et gunstigt Profil, medens
+langsomtgaaende Motorer kan have flere eller bredere Vinger
+og ikke behøver at have saa gunstigt et Profil.
+Det samme gælder for de inderste Dele af en
+hurtigløbende Motors Vinger. De langsomst
+gaaende Motorer er Vindroserne, hvis
+Vingespidshastighed ikke er meget forskellig fra
+Vindhastigheden. De hurtigstgaaende Motorer
+kan komme op paa en Vingespidshastighed paa
+4—5 Gange Vindhastigheden. Det skal endnu
+nævnes, at man paa Grund af den
+Trykudligning, der kan finde Sted over en Vinges yderste
+Kant i Stedet for med Vindfangets virkelige
+Diameter, kan regne med en saakaldt virksom
+Diameter d. v. s. den virkelige reduceret med
+en Størrelse, der afhænger af Afstanden
+mellem Vingerne.
+
+Foruden i Arbejdsevne adskiller de
+forskellige Vindmotortyper sig i Henseende til
+Igangsætningsmomentet, idet det er gunstigt under
+Igangsætning at have et stort Smig, medens en
+god Arbejdsydelse under Gang forudsætter et
+lille Smig. Aarsagen hertil er, at den
+resulterende Vind, der jo er bestemt saavel af den
+virkelige Vinds Hastighed som af Vingens
+
+<img>Fig. 7. Agricco Motor (Ullerup paa Amager).</img>

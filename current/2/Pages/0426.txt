@@ -1,0 +1,25 @@
+<sp>AUSTRALSKE FOLKETYPER</sp>
+
+<img>1. Nordaustralier.</img>
+
+<img>2. Nordaustralierinde.</img>
+
+<img>3. Sydaustralier.</img>
+
+<img>4. Kvinde fra New South Wales</img>
+
+<img>5. Kvinde fra Tasmanien.</img>
+
+<img>6. Papua (sydlige Ny Guinea).</img>
+
+<img>7. Papua (nordøstlige Ny Guinea).</img>
+
+<img>8. Ung Papua (Ny Guinea).</img>
+
+<img>9. Mand fra Ny Britannien.</img>
+
+<img>10. Kvinde fra Ny Britannien.</img>
+
+<img>11. Mand fra Salomons-Øerne.</img>
+
+<img>12. Mand fra Fiji-Øerne.</img>

@@ -1,0 +1,144 @@
+polariserede Lys, den anden tjener som
+Analysator, og mellem dem kan anbringes det, hvis
+Virkning paa ell. Forhold over for det
+polariserede Lys skal undersøges. Anbringes den
+anden Nicol bag den første (f. Eks. under
+Nicolen i Fig. 7) i samme Stilling til det indfaldende
+Lys som denne, gaar den polariserede Straale
+næsten usvækket gennem den, men drejes en
+af dem 90° om sin Længderetning, slipper slet
+intet Lys gennem den anden Nicol, da den i
+denne indfaldende Straale har sine
+Svingninger tiggede vinkelret paa dennes Hovedsnit og
+derfor følger den ordinære Straales Vej til
+Siden, hvor den absorberes.
+Polarisationsapparatet er i dette Tilfælde stillet paa <sp>Mørke</sp>,
+mens det er stillet paa <sp>Lys</sp>, naar
+Hovedsnittene er parallelle.
+
+Efter dette Skema er alle
+Polarisationsapparater konstruerede; som Eks. vil vi først
+betragte det ældste, <sp>Nørrenberg's
+Apparat</sp> (Fig. 8). Her er baade Polarisator og
+Analysator Glasplader;
+Polarisatorglaspladen stilles
+saadan f. Eks. foran et
+Vindue, at det indfaldende
+Lys <i>L</i>, der reflekteres
+lodret nedad, er fuldstændig
+polariseret; dette Lys, hvis
+Svingninger ligger
+vinkelret paa Indfaldsplanen,
+altsaa i den Plan, der gaar
+gennem de 2 Støtter i Fig.,
+rammer Spejlet <i>S</i>, kastes
+tilbage i samme Retning,
+gaar gennem <i>P</i> og Bordet
+<i>T</i>, der paa Midten udgøres
+af en Glasplade, og videre
+op til
+Analysatorglaspladen <i>A</i>, der er sværtet
+bagpaa. I Fig. er <i>A</i> stillet paa
+Mørke, da de indfaldende
+Svingninger ligger i
+Indfaldsplanen og derfor
+ikke kan reflekteres, men <i>A</i> er drejelig om
+en lodret Akse og bliver stillet paa Lys ved
+at drejes 90°. Paa <i>T</i> kan det anbringes, som
+skal undersøges; lægges det i St f. paa <i>S</i>,
+passerer Lyset det 2 Gange. Ved at
+indskyde Linser, der ikke er vist i
+Fig., kan man undersøge i
+konvergent Lys. Nu bruges i Reglen en
+Nicol som Analysator i St f. <i>A</i>,
+hvorved man foruden en Gevinst i
+Lysstyrke opnaar, at Lyset forlader
+Apparatet lodret, altsaa altid i
+samme Retning, saa at Iagttageren ikke
+behover at flytte Øjet. Et endnu
+simplere Polarisationsapparat er
+Turmalintangen (Fig. 9), der
+bestaar af 2 Turmalinpolarisatorer i
+runde Fatninger, der er anbragt
+drejelige i et Par Ringe, som bæres
+af og presses mod hinanden af en
+Tang af Metaltraad; imellem dem
+anbringes det, der skal undersøges. De finere
+Konstruktioner af Polarisationsapparater
+omtales i en særlig Art.
+
+<sp>Polarisationsplanens Drejning</sp>
+er det vigtigste af de Fænomener, som
+undersøges ved Polarisationsapparater. Naar man
+mellem Polarisator og Analysator i et
+Polarisationsapparat, der er stillet paa Mørke,
+anbringer en Plade f. Eks. af Kvarts (Bjergkrystal),
+hvis Krystalakse staar vinkelret paa Pladen,
+kommer der Lys i Synsfeltet, og samtidig viser
+Pladen sig farvet, hvis man ikke til Belysning
+anvender ensfarvet Lys, men alm. hvidt Sol- ell.
+Lampelys. Dette Fænomen skyldes, at der
+under Lysets Passage gennem Kvartsen sker en
+Drejning af den polariserede Straales
+Svingningsretning ell. Svingningsplan;
+Svingningsretningerne hen langs Straalen kommer inde i
+Krystallen til at ligge paa en Proptrækkerflade.
+Drejningen er følgelig proportional med
+Pladens Tykkelse, men afhænger desuden af Lysets
+Bølgebredde (Farve), idet de mest brydbare
+Straaler drejes mest. Bruges ensfarvet Lys, kan
+man igen faa Mørke i Apparatet ved at dreje
+Analysatoren, til dens Svingningsretning er
+vinkelret paa det udtrædende Lys'
+Svingningsretning, og faar derved bestemt Drejningens
+Størrelse og Retning (til højre ell. til venstre);
+bruges hvidt Lys, er dette ikke muligt, da de forsk.
+Farver drejes i forsk. Grad. De Farver, der
+netop drejes 90° ell. et ulige Antal Gange 90°,
+gaar saa usvækkede som muligt gennem
+Analysatoren, mens de Farver, der drejes 180° ell.
+et lige Antal Gange 90°, helt udslukkes, og de
+mellemliggende Farver svækkes mere ell.
+mindre. Hvidt Lys, der saaledes berøves nogle af
+sine Farver, viser sig i Alm. farvet. Dog vil
+Farven forsvinde ved en meget tyk Plade, hvor
+Drejningen for de forsk. Farver bliver saa
+forskellig, at der i Spektret udslukkes 5—6 ell.
+fl. Farver, idet det ikke mærkes synderligt, at
+der mangler et større Antal jævnt fordelte
+Farver i Spektret; Blandingsfarven af det
+tilbageblevne Lys vil ogsaa være hvid. Men sendes
+Lyset fra Analysatoren ind i et Spektroskop, ser
+man naturligvis, at disse Farver mangler, saa
+at Spektret indeholder en Rk. mørke Striber.
+I Kvarts er Drejningen pr mm Tykkelse for det
+gule Natriumlys 22° og for det violette
+Brintlys (Linien <i>f</i> i Solspektret) 42°. Foruden Kvarts
+har kun ret faa Krystaller denne Evne til at
+dreje Polarisationsplanen, og de findes alle i
+<sp>enantiomorfe</sp> Former, hvoraf den ene
+drejer til højre, den anden til venstre. Langt
+vigtigere er Drejningsevnen af et stort Antal
+organiske Stoffer i Opløsning (Rørsukker og de
+fleste andre Kulhydrater, Vinsyre, Æblesyre,
+Kamfer, mange Alkaloider o. m. fl.). Saadanne
+Stoffer kaldes <sp>optisk aktive</sp>. For
+Opløsninger er Drejningen foruden med
+Lagtykkelsen ogsaa proportional med Koncentrationen,
+og den afhænger foruden af Lysets Farve
+ogsaa af Temperaturen. Den specifikke Drejning
+er Drejningen i et 1 cm tykt Lag af en
+Opløsning, der indeholder 1 g aktivt Stof pr cm; den
+er ved 20° for Rørsukker for Natriumlys 6,6°.
+Undersøgelser af denne Drejning spiller en stor
+Rolle i den organiske Kemi. Drejningsevnen
+findes hos alle Forbindelser, der indeholder et
+assymetrisk Kulstofatom, d. v. s. et
+Kulstofatom, der er bundet til 4 <sp>forsk.</sp> Atomer ell.
+Atomgrupper, og et saadant Stof vil altid
+
+<img>Fig. 8.
+Nørrenbergs Apparat.</img>
+
+<img>Fig. 9.
+Turmalintang.</img>

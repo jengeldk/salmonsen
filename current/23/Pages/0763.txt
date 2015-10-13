@@ -1,0 +1,128 @@
+<chapter name="Trigonoduskalk">
+<b>Trigonoduskalk,</b> en i Sydtyskland
+forekommende, 5—6 m mægtig Aflejring af
+Kalksten og Dolomit med <i>Trigonodus Sandbergeri</i>.
+T. hører til Muslingekalken.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Trigonometri">
+<b>Trigonometri</b> (mat.), ɔ: Trekantsudmaaling,
+er et Afsnit af Matematikken, hvori de
+Opgaver løses, der gaar ud paa af nogle Stykker i
+en Trekant at beregne andre. T. forudsætter
+<sp>Goniometrien</sp> ɔ: Læren om de saakaldte
+trigonometriske Funktioner: <i>sinus, cosinus,
+tangens, cotangens, secans, cosecans</i> samt Tavler
+over disse Funktioner (se
+<sp>trigonometriske Funktioner</sp>). De nævnte Opgaver er
+for plane retvinklede Trekanter umiddelbart
+løste ved de trigonometriske Tavler, idet en
+Vinkel i en saadan Trekant med Hypotenusen
+1 har sin <i>sinus</i> og <i>cosinus</i> = henholdsvis den
+modstaaende og den hosliggende Katete. Ved
+vilkaarlige plane Trekanter, hvor 3 Stykker,
+som ikke alle er Vinkler, almindelig bestemmer
+de andre, har man dannet de til
+Trekantsopgavernes Løsning nødvendige Ligninger mellem
+Stykkerne; af disse kan nævnes: <i>a</i><sup>2</sup> = <i>b</i><sup>2</sup> +
+<i>c</i><sup>2</sup> — 2<i>bc cos A</i>, <i>sin A/a</i> = <i>sin B/b</i> = <i>sin C/c</i>, <i>tg</i> 1/2 <i>A</i> =
+kvadratrod(<i>(s-b) (s-c)/s (s—a)</i><i>(s-b) (s-c)/s (s—a)</i>), hvor <i>a, b, c</i> betegner Siderne,
+<i>A, B, C</i> Vinklerne og <i>s</i> = 1/2 <i>(a + b + c)</i>.
+
+Behandlingen af mere sammensatte retlinede
+Figurer foregaar gerne ved deres Deling i
+Trekanter. Om sfærisk T. s. d. I den af
+Lobatschevskij (s. d.) opstillede ikke-euklidiske
+Geometri vil de trigonometriske Relationer mellem
+den plane Trekants Stykker kunne faas ved i
+den sædvanlige sfæriske Trekants Relationer i
+Stedet for Siderne <i>a, b, c</i> at sætte <i>ia, ib, ic</i>
+(<i>i</i> = kvadratrod(—1)). T. dyrkedes i Oldtiden nærmest
+som Hjælpefag for Astronomien. I de dengang
+brugelige Metoder til Trekantsbestemmelser
+traadte Korder i Stedet for vore <i>sinus</i>'er,
+med hvilken de staar i den simple Forbindelse,
+at <i>sinus</i> af en spids Vinkel er lig det halve af
+Korden svarende til en dobbelt saa stor
+Centervinkel i Cirkelen med Radius 1. I Stedet for
+vore trigonometriske Tavler maatte man altsaa
+have Kordetavler. Allerede Hipparch
+beregnede en saadan Tavle, der er gaaet tabt. I
+Ptolemaios' Almagest findes en Tavle over
+Korderne til en Række Vinkler med Differensen 1°/2,
+der strækker sig op til 180°. Disse Kordetavler
+afløstes hos Inderne og Araberne af Tavler over
+de trigonometriske Funktioner. Den første
+samlede Behandling af T. findes i
+Regiomontanus' <i>De triangulis omnimodis libri quinque</i>
+(1533). Trekantsrelationerne udvikledes videre
+f. Eks. af Tyge Brahe og Thomas Fincke og
+især af Vieta i hans <i>Canon mathematicus</i>
+(1579).
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="trigonometriske Funktioner">
+<b>trigonometriske Funktioner</b> (mat.) er
+oprindelig indførte af Hensyn til Trigonometrien,
+for hvis Relationer de er uundværlige. De kan
+med denne Anvendelse for Øje defineres paa
+følgende Maade. I den paa Fig. tegnede
+Cirkel, hvis Radius tages til Længdeenhed,
+afsættes den Vinkel <i>x</i>, hvis t. F. skal bestemmes,
+som Centervinkel ud fra den faste Linie <i>X</i>,
+i den ved Pilen angivne Retning eller den
+modsatte, efter som Vinklens Gradantal er
+positivt eller negativt. Det bemærkes, at man
+ved at gaa Cirklen mere end een Gang rundt
+kan afsætte Vinkler numerisk større end 360°.
+Falder Vinklens andet Ben i <i>OA</i>, er <i>OA</i>'s
+Projektioner <i>OA<sub>1</sub></i> og <sub>OA<sub>2</sub></sub> paa de to paa hinanden
+vinkelrette Linier <i>X</i> og <i>Y</i> t. F. af <i>x</i>, som
+kaldes <i>sinus</i> og <i>cosinus</i> og betegnes ved sin <i>x</i> og
+<i>cos x</i>; <i>OA<sub>1</sub></i> og <i>OA<sub>2</sub></i> skal tages med positivt eller
+negativt Tegn, efter som de falder i Retningerne
+mod <i>B</i> og <i>C</i> eller de modsatte. Af
+Bekvemmelighedshensyn har man indført 4 andre t. F.,
+nemlig <i>tg (tangens)</i> = <i>sin/cos, cot (cotangens)</i> =
+<i>cos/sin, sec (secans)</i> = 1/<i>cos</i>, <i>cot (cotangens)</i> = 1/<i>sin</i>,
+desuden de nu kun lidet brugte sin <i>versus</i>
+= <i>A<sub>1</sub>B</i> og <i>cos versus</i> — <i>A<sub>2</sub>C</i>. Disse
+Definitioner, der gælder for alle positive og negative
+Vinkler, erstattes i Funktionsteorien af andre,
+der ogsaa omfatter komplekse Vinkler. Ved
+at sammenligne de for alle reelle Værdier af <i>x</i>
+gældende Rækkeudviklinger: <i>sin x</i> = <i>x</i>/1 —
+<i>x<sup>3</sup></i>/1 . 2 . 3 + <i>x<sup>5</sup></i>/1 . 2 . 3 . 4 . 5 .., <i>cos x</i> = 1 — <i>x<sup>2</sup></i>/1 . 2
++ <i>x<sup>4</sup></i>/1 . 2 . 3 . 4 ..., hvor <i>x</i> betegner den til Vinklen
+svarende Bue paa Cirklen med Radius 1, med
+Rækken: <i>e<sup>ix</sup></i> = 1 + <i>ix</i>/1 — <i>x<sup>2</sup></i>/1 . 2 — <i>ix<sup>3</sup></i>/1 . 2 . 3 +
+<i>x<sup>7</sup></i>/1 . 2 . 3. 4 ... (e de naturlige Logaritmers
+Grundtal, <i>i</i> = kvadratrod(—1), kommer man til Udtrykkene:
+<i>cos x</i> = <i>e<sup>ix</sup></i> + <i>e<sup>-ix</sup></i> / 2 og <i>sin x</i> = <i>e<sup>ix</sup></i>-<i>e<sup>-ix</sup></i> /2<i>i</i>
+Herved er de t. F. reducerede til de
+eksponentielle, der er definerede for baade reelle og
+imaginære Værdier af den variable. De t. F. er
+<sp>periodiske</sp>, idet de antager samme
+Værdier, naar Vinklen forøges med 2 π (360°); ved
+en Del simple Forandringer i Vinklen, saasom
+Ombytning med Eksplement-, Supplement- eller
+Komplementvinklen, Forøgelse eller
+Formindskelse med π eller π/2, beholder de t. F. deres
+numeriske Værdier, undertiden dog med
+Ombytning af Værdierne for <i>sin</i> og <i>cos</i>, <i>tg</i> og <i>cot</i>,
+<i>sec</i> og <i>cosec</i>, medens Fortegnet kan forandres.
+Mellem de t. F. af Vinkler og af deres Summer
+og Differenser, Multipla af dem eller Brøkdele
+af dem m. m. eksisterer der en Mængde
+Formler, der hviler paa de to fundamentale:
+<i>cos (x + y)</i> = <i>cos x cos y</i> — <i>sin x sin y</i> og
+sin <i>(x + y)</i> = <i>sin x cos y</i> + <i>cos x sin y</i>. Man
+har naturligvis dannet Tavler over de t. F., men
+ved Trekantsbestemmelser bruges almindelig
+Tavler over deres Logaritmer. Disse Tavler
+gaar kun til 90°, men Bestemmelsen af de t. F.
+af en Vinkel kan altid ved de ovenomtalte
+Forandringer i Vinklen reduceres til
+Bestemmelsen af de t. F. af en Vinkel i Tavlen; ved

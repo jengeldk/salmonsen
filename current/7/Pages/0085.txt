@@ -1,0 +1,151 @@
+ell. kan bringes til helt at forsvinde
+(<sp>d'Arsonval</sp>); saadanne Vekselstrømme har fundet
+Anvendelsen i Medicinen p. Gr. af deres
+Indflydelse paa Blodtrykket.
+<i>O. T.</i>
+</chapter>
+
+<chapter name="Elektroplastik">
+<b>Elektroplastik,</b> d. s. s. <sp>Galvanoplastik</sp>.
+</chapter>
+
+<chapter name="Elektroplet">
+<b>Elektroplet,</b> se <sp>Plet</sp>.
+</chapter>
+
+<chapter name="elektropositiv og elektronegativ">
+<b>elektropositiv</b> og <b>elektronegativ,</b> se
+<sp>elektrisk Spændingsrække</sp> og <sp>kemisk
+Energi</sp>.
+</chapter>
+
+<chapter name="Elektropunktur">
+<b>Elektropunktur</b> ell. <sp>Galvanopunktur</sp>
+er Akupunkturen, forbundet med en gennem de
+indstukne Naale ledet galvanisk Strøm.
+Virkningen bliver altsaa en elektrolytisk (smlg.
+<sp>Elektroterapi</sp>).
+<i>E. A. T.</i>
+</chapter>
+
+<chapter name="Elektroskop">
+<b>Elektroskop</b> kalder man et Redskab,
+hvormed man kan afgøre, om et Legeme er
+elektrisk ell. ikke, samt i første Tilfælde, om
+Ladningen er positiv ell. negativ. Det alm.
+<sp>Guldbladelektroskop</sp> (se Fig.) dannes af en
+klar Glasflaske, gennem hvis Prop der gaar en
+Messingstang, som foroven bærer en Kugle
+ell. en vandret Plade af Messing og forneden et
+Par smalle Strimler af Bladguld
+(Bladaluminium foretrækkes nu ofte).
+For Isolationens Skyld maa Stangen helst gaa
+gennem en Prop af Ebonit, Rav ell. en anden
+fortrinlig Isolator. Holder man et elektrisk
+Legeme, f. Eks. en gneden Glasstang i nogen
+Afstand over Pladen, vil Bladene slaa ud fra
+hinanden. Den positive Glasstang
+frembringer nemlig elektrisk Fordeling i E.'s
+Metal; den negative Elektricitet drages op
+paa Pladens Overside, medens den
+frastødte positive gaar ned i Guldbladene og
+faar dem til at frastøde hinanden. Tager man
+Glasstangen bort, forenes de adskilte Ladninger,
+og Bladene falder sammen. Rører man med en
+Finger ved Pladen, medens den positive
+Glasstang er i Nærheden, falder Guldbladene
+sammen, fordi deres positive Elektricitet bortledes,
+medens den negative Ladning paa Pladen
+fastholdes af Glasstangen. Tager man nu Fingeren
+bort og derpaa Glasstangen, vil den negative
+Ladning brede sig over Metallets hele Overflade,
+og E. gør nu Udslag med negativ Elektricitet.
+I denne Tilstand kan det bruges til Paavisning
+af Ladningens Art hos et elektrisk Legeme.
+Nærmes dette fra en større Afstand langsomt
+til Pladens Overside, vil man se Udslaget vokse,
+hvis Legemets Ladning er negativ, medens det
+aftager, hvis den er positiv. Er Legemet
+uelektrisk, vil den gensidige Fordeling mellem det
+og E.'s Plade bevirke, at der drages mere
+Elektricitet op paa Pladen, saa Udslaget ogsaa i
+dette Tilfælde formindskes noget. - Man kan
+ogsaa benytte et E. til at skaffe sig en
+Forestilling om Størrelsen af et Legemes elektriske
+Spænding. Legemet anbringes saa langt fra E.,
+at der ikke kan mærkes nogen Virkning paa
+dette ved Fordeling, og derpaa forbinder man
+dem med hinanden ved en fin Metaltraad. E.
+lades nu ved Meddeling, og dets Udslag vil alene
+afhænge af Legemets elektriske Spænding, altsaa
+f. Eks. ikke af den elektriske Tæthed i det
+Punkt, hvor Ledningstraaden berører Legemet.
+Kan man maale Udslagets Størrelse, gaar E.
+over til at blive et Slags <sp>Elektrometer</sp>.
+Til Paavisning af meget svage Spændinger paa
+Ledere, der kan levere en betydelig Mængde
+Elektricitet, benyttes et
+<sp>Kondensatorelektroskop</sp>. Et alm. E.'s Plade ferniseres
+paa Oversiden, og herpaa lægges en lgn. Plade,
+hvis Underside er ferniseret, og som kan løftes
+ved et isolerende Haandtag, dannet af en lodret
+Glas- ell. Ebonitstang, der er fæstet til Midten
+af dens Overside. De to Plader danner en
+virksom Kondensator (se <sp>Elektrostatik</sp>),
+da det isolerende Mellemlag er meget tyndt.
+Den underste Plade sættes i Forbindelse med
+den Leder, hvis Spænding skal undersøges,
+medens den øverste afledes til Jorden; derpaa
+afbrydes Forbindelsen, og den øverste Plade
+løftes op. Herved bliver Kondensatorens
+Kapacitet mange Gange formindsket, medens den
+faste Plades Spænding stiger i samme Forhold,
+og Guldbladene gør Udslag. Med et saadant E.
+kan man let paavise den Spænding, et enkelt
+galvanisk Element giver.
+<i>K. S. K.</i>
+
+<img>Elektroskop.</img>
+</chapter>
+
+<chapter name="Elektrostatik">
+<b>Elektrostatik,</b> Læren om <sp>hvilende</sp>
+elektriske Ladninger og om det til disse hørende
+elektriske Felt. Gnider man en Glasstang paa
+en ulden Lap, faar Stangen Evne til at tiltrække
+andre Legemer, og den kan faa Papirsstrimler,
+Dun o. l. Smaating til at springe hen paa sig;
+man siger, at Stangen ved Gnidningen er blevet
+<sp>elektriseret</sp> ell. <sp>elektrisk</sp>. En Lak-
+ell. Ebonitstang, der behandles paa samme
+Maade, faar en lgn. Evne. Hænger man en
+Hyldemarvskugle op i en tør Silketraad og nærmer
+den gnedne Glasstang til Kuglen, bliver denne
+først tiltrukket; men naar den en kort Tid har
+været i Berøring med Stangen, frastødes den
+og flygter, naar man søger at nærme Stangen
+til den. Berører man en anden paa lgn. Maade
+ophængt Hyldemarvskugle med den gnedne
+Lakstang, vil man ogsaa her se, at Kuglen først
+tiltrækkes og derefter frastødes. Men nærmer
+man Lakstangen til den Kugle, der frastødes
+af Glasstangen, vil Kuglen blive tiltrukket, og
+paa lgn. Maade vil Glasstangen tiltrække den
+Kugle, der frastødes af Lakstangen. Følgelig
+viser de to Stænger modsatte Virkninger; den
+ene tiltrækker, hvad den anden frastøder. For
+at betegne denne Modsætning siger man, at
+den ene Stang er positivt, den anden negativt
+elektriseret, og man har valgt at betegne
+Glasstangen som positiv. Mange elektriske
+Fænomener viser os den samme Modsætning mellem
+positiv og negativ Elektrisering som mellem
+positive og negative Størrelser i Matematikken og
+retfærdiggør altsaa Navnevalget, men der
+kendes dog ogsaa Fænomener, der viser anden
+Forskel end det rene Modsætningsforhold. -
+Hænger man den gnedne Glasstang op i en Traad,
+saa den let kan dreje sig i vandret Retning, og
+nærmer den gnedne Lakstang til den, vil
+Glasstangen bevæge sig hen imod Lakstangen. De
+

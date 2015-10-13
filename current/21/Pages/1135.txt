@@ -1,0 +1,141 @@
+Viser en fin mørk Linie, saa at den synes at være
+en Dobbeltlinie. Dette Fænomen viser f. Eks.
+Alkalimetallernes Hovedserielinier meget
+udpræget; en Buelampe med Lithiumsalt paa det
+ene Kul viser Fænomenet smukt for den røde
+Linie 6708 Å, der med rigeligt Salt er ret bred,
+men i Midten har den fine mørke Linie. Denne
+fremkommer ved Absorption i det yderste Lag
+af Buen. Den brede og stærke Lithiumlinie
+udsendes fra Buens Indre, hvor Dampen er tæt.
+I det yderste Lag af Buen findes mindre tæt
+Lithiumdamp, der lyser svagere og udsender
+en skarp Linie netop paa samme Plads som
+Midten af den brede Linie fra det indre. Men
+samtidig absorberer dette ydre Lag netop den
+samme Bølgebredde, som det selv udsender,
+saa at der i Midten af Linien intet findes af
+Lyset fra det indre, men kun det svage Lys fra
+det ydre af Buen. Ogsaa Selvabsorptionen kan
+tjene til at udskille Linier af bestemte Serier i
+et Spektrum, idet den ogsaa vil være stærkest
+for de Linier, der udsendes ved Overgange, som
+ender i Normaltilstanden.
+
+<sp>Praktiske Anvendelser af S.</sp> Disse
+er ikke bleven saa omfattende, som man en Tid
+ventede. I den kvalitative kem. Analyse
+anvendes S. ikke meget, væsentlig vel fordi den er
+for følsom. Saaledes kræves der til at paavise
+Natrium ved Hjælp af den gule Dobbeltlinie
+kun Tilstedeværelse af saa smaa Mængder
+Natrium i Flammen, at Luftens Indhold af Støv
+altid leverer mere end rigeligt dertil.
+Kirchhoff angiver, at 1/10 af en Milliontedel mg er
+nok. I Spektret af Gnister skal endnu mindre
+Stofmængder kunne paavises. Alligevel har S.
+betydet meget ved Opdagelsen af ny
+Grundstoffer. Kirchhoff og Bunsen opdagede allerede
+1860 to ny Alkalimetaller, Rubidium og Cæsium.
+Endvidere er ved S. opdaget Grundstofferne
+Thallium, Indium og Gallium. En karakteristisk
+Linie i Solspektret, som ikke kendtes fra
+jordiske Spektre, tilskrev man et særligt Solstof
+Helium, der senere fandtes her paa Jorden som
+en Bestanddel af Atmosfæren. Ved S.'s Hjælp
+fandtes da ogsaa de andre i Atmosfæren
+indeholdte sjældne Luftarter, Neon, Krypton og
+Xenon. For Udredningen af de kem.
+overordentlig nær beslægtede sjældne Jordarter har
+S. tidligere været det eneste Hjælpemiddel.
+Men i de senere Aar er S. som kem.
+Hjælpemiddel fortrængt af Røntgenspektroskopien (se
+<sp>Røntgenstraaler</sp>), der frembyder mange
+Fordele. Spektrene er simplere, de faa
+tilbageværende ukendte Grundstoffers Røntgenspektre
+lader sig nøje forudberegne, og hvad der især
+har Bet., Metoden tillader kvantitativ Analyse,
+hvad den optiske S. netop p. Gr. a. sin store
+Følsomhed vanskeligt tillader.
+
+P. Gr. a. den store Følsomhed vil paa den
+anden Side S. altid have en vis Værdi til at
+konstatere et Stofs Renhed, idet man under eet
+faar alle Urenheder bestemt. For ikke at skulle
+undersøge alle Linier i et meget sammensat
+Spektrum er det af Vigtighed, at man kender
+de Linier, som er mest karakteristiske for
+hvert Stof, i den Forstand at de udsendes af
+de mindste Stofmængder. Over disse
+bestandigste »ultime« Linier har især Gramont gjort
+Undersøgelser. Af Værdi for Analyse af
+Urenheder er tillige Tabeller, hvor alle Stoffers
+stærkeste Linier er sammenstillet i Orden efter
+Bølgebredde, saa at man straks kan se, hvilke
+Stoffer en given Linie kan tilhøre; en saadan
+»Kodex« findes f. Eks. i Kayser's »Handbuch
+der Spectroscopie«, men en helt moderne Kodex
+savnes stærkt.
+
+Nogle praktiske Anvendelser af Undersøgelse
+af Absorptionsspektre er omtalt foran.
+
+Om den Ændring i Liniernes Bølgebredde,
+der fremkommer, naar Iagttageren ell.
+Lyskilden bevæger sig imod ell. fra hinanden, se
+<sp>Doppler Effekt</sp>. Denne har især
+Interesse for Astronomien, men har ogsaa f. Eks.
+været benyttet til at undersøge Bevægelsen af
+de Partikler, der udgør de positive Straaler
+(Kanalstraaler).
+
+S.'s <sp>Historie</sp> begynder med <sp>Newton</sp>'s
+Opdagelse (1671) af Lysets <sp>Dispersion</sp>.
+Hans optiske Hjælpemidler var næppe saa gode,
+at han kunde have set mørke Linier i
+Solspektret, selv om han havde lagt mere Vægt paa at
+faa det fremstillet rent. Først 1802 meddelte
+<sp>Wollaston</sp>, at han havde set nogle faa
+mørke Linier, idet han gennem et Prisme saa
+paa en Spalte, gennem hvilken Sollys blev
+lukket ind i et mørkt Værelse. Langt videre naaede
+Fraunhofer, der 1814 med Kikkert, Prisme
+og en 8 m fjern Spalte talte fl. Hundrede mørke
+Linier i Solspektret; han indførte dem i en
+Tegning og gav de stærkeste Linier de Navne,
+der bruges endnu. Senere beskrev han fl.
+Fiksstjernespektre og gjorde Iagttagelser over
+Spektre fra Flammer og elektriske Gnister.
+<sp>Talbot</sp> arbejdede meget med Flammespektre og
+paaviste 1834, at man ved optisk Analyse kan
+skelne smaa Mængder af Strontium og Lithium
+fra hinanden. <sp>Wheatstone</sp> saa s. A., at
+elektriske Gnister fra forsk. Metaller gav forsk.
+Spektre. <sp>Brewster</sp> gjorde mange Forsøg
+over Lysets Absorption og fandt 1833
+Salpeterundersyrens Absorptionsspektrum, hvori han
+talte over 2000 fine Linier. Den ældre
+<sp>Herschel</sp> paaviste i det prismatiske Spektrum
+Varme uden for rødt, og Sønnen gav sig meget
+af med Studiet af Spektre, baade i Emission og
+Absorption. Men baade han o. a. blev
+vildledte af den allestedsnærværende Natriumlinie,
+der fik dem til at tro, at en Spektrallinie kunde
+være fælles for fl. Stoffer. Først ved Kirchhoff
+og Bunsen's store Arbejde (»Chemische Analyse
+durch Spectralbeobachtungen«; Poggendorff's
+»Annalen«, 110. Bd 1860) blev det slaaet fast,
+at hvert Stof har sit bestemte Spektrum. Da
+samtidig Kirchhoff bragte Klarhed over
+Forholdet mellem de mørke Linier i Solspektret og
+de jordiske Stoffers lyse Linier, begyndte en ny
+Tid for S. Som Mærkepunkter i den derefter
+flg. Udvikling kan nævnes Udgivelsen af
+<sp>Ångström</sp>'s »Atlas over Solspektret« (1868),
+Opdagelsen af Regelmæssigheden i Spektrenes
+Bygning ved <sp>Balmer</sp> (1885), <sp>Rydberg</sp>
+(1890), <sp>Kayser</sp> og <sp>Runge</sp> (1890), samt fl. a.
+Fremkomsten af <sp>Rowland</sp>'s Gittere 1882
+dannede Grundlaget for en lang Rk. nøjagtige
+Spektralmaalinger, hvorpaa hans eget Solatlas
+er det ypperste Eksempel; overordentlig mange

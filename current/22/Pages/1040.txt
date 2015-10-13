@@ -1,0 +1,137 @@
+med Fredag, 1927 med Lørdag. S. kommer
+derfor til at rykke en Plads tilbage fra det ene
+almindelige Aar til det næste, for de nævnte
+Aar: fra C til B. Skudaaret derimod indeholder
+2 Dage mere end 52 Uger, Aaret efter et
+Skudaar vil derfor begynde ikke med den
+Ugedag, der følger lige efter den, hvormed
+Skudaaret begyndte, men med den derpaa
+følgende; saaledes begynder 1928 med Søndag, 1929
+med Tirsdag. Men trods dette har 1. Jan. og
+31. Decbr samme S. I Skudaaret regnes nemlig
+24. og 25. Febr for 1 Dag (24. Febr er
+Skuddagen), S. for 24. og 25. Febr kommer derfor
+til at blive det samme. I alm. Aar har 24.
+Febr S. F., 25. G. og 28. Febr C. I Skudaar vil
+saavel 24. som 25. Febr have S. F., og 29.
+Febr faar derved S. C. Ordenen bliver saaledes
+den samme som før. I Skudaar faar man altsaa
+to S., et gældende for Tiden fra 1. Jan. til 24.
+Febr, og det i Alfabetet forangaaende for
+Resten af Aaret. I 1928 har man saaledes S. A G.
+
+Af det Ovenstaaende fremgaar det, at efter
+4 X 7 = 28 Aar vil S. komme igen i samme
+Orden. Dette Tidsrum kaldes <sp>Solcyklus</sp>
+ell. <sp>Solcirkel</sp> (se <sp>Cyklus</sp>). Et Aars
+Nummer i Solcirklen kaldets dets <sp>Soltal</sp>. Da
+Aaret 1 i vor Tidsregning regnes for det 10. i
+den daværende Solcirkel, idet man har fastsat
+at vælge som det første Aar i en Solcirkel et
+Skudaar, som begynder med Mandag, finder
+man Aarets Soltal ved til Aarstallet at addere
+9 og dividere denne Sum med 28. Gaar
+Divisionen op, er Soltallet 28, t. Eks. 1923; gaar den
+ikke op, er »Resten« Aarets Soltal; saaledes for
+1926: 3.
+
+I den julianske Kalender, hvor hvert fjerde
+Aar er Skudaar, kan S. beregnes paa følgende
+Maade: Betegner m den Del af Aarstallet, som
+er mindre end 100, og s Antallet af
+Aarhundreder, dannes Udtrykket s+3—m——m/4; af l/4 m
+tages kun Kvotienten. Dette Udtryk divideres
+med 7, og Resten er S., naar de 7 første
+Bogstaver i Alfabetet er betegnede med Tallene
+1 til 7. Gaar Division op, er Resten 7. Bliver
+s+3—m-m/4 negativ, lægger man til et saa
+stort Multiplum af 7, at man faar et positivt
+Tal. For 1906 finder man efter denne Metode
+som S. for den julianske Kalender: A, da
+19+3—6—1=15; 15 : 7 giver Rest 1. For
+Skudaar vil man efter denne Metode kun finde det
+S., som gælder fra 25. Febr til Aarets Udgang.
+Det for Jan. og af Febr til 24. gældende maa
+efter Ovenstaaende være det efterfølgende
+Bogstav. Saaledes har man for 1908: 19+3—8—2
+=12; 12 : 7 giver Rest 5 = E. S. for 1908 er
+følgelig F E.
+
+I den gregorianske Kalender maa man til
+Beregning af S. bruge et andet Udtryk. Da
+man nemlig 1582 udelod Dagene 5.—14. Oktbr
+uden at bryde Rækkeordenen af Ugedagene,
+vil Torsdag 4. Oktbr 1582 have S. D, den
+efterfølgende Dag, Fredag 15. Oktbr, derimod A,
+men derved bliver S. for Resten af Aaret C,
+for Tiden 1. Jan. til 4. Oktbr derimod G. For
+det flg. Aar bliver det B, medens det efter
+»gammel Stil« skulde have været F. I den
+gregorianske Kalender vil Aarene 1700, 1800, 1900,
+2100, 2200 o. s. v., som ikke er Skudaar, kun
+have eet S. For at beregne S. efter »ny Stil«
+dannes først Udtrykket 2s—s/4+1—m—m/4, hvor
+m og s har den ovf. nævnte Bet. Af
+Størrelserne 1/4 m og 1/4 s tages kun Kvotienten. Dette
+Udtryk divideres med 7, og den derved
+fremkomne Rest er da S. Bliver 2s—s/4+<-m-m/4
+negativ, lægger man til et saa stort Multiplum
+af 7, at man faar et positivt Tal. Saaledes
+bliver S. for 1926 = G, thi + 38-4+1-26-6
+=3. 3 : 7 giver Rest 3 = C. For 1928 vil efter
+denne Formel S. være 7 = G, men som
+Skudaar maa det have to S., det andet bliver da
+A gældende i Aarets første Maaneder.
+
+S. benyttes for at bestemme, hvilken Ugedag
+en given Maanedsdag er; dette findes paa flg.
+Maade. Af S. faar man Ugedagen for 1. Jan.,
+dernæst beregnes, hvor mange Dage der er
+forløbet fra 1. Jan. til den givne Maanedsdag, og
+dette Tal divideres med 7; bliver Resten 1, har
+vedk. Maanedsdag samme Ugedag som 1. Jan.;
+bliver Resten 2, som 2. Jan. o. s. v. Bliver
+Resten 0, saa har den samme Ugedag som 7.
+Jan. Saaledes er 18. Oktbr 1926 = Mandag;
+fra 1. Jan. til 18. Oktbr er der nemlig 291
+Dage; 291 : 7 giver som Rest 4. 1926 har S. C,
+altsaa 1. Jan. er Fredag, og til Resten 4 vil
+følgelig svare Mandag. Skulde man have ønsket
+at vide Ugedagen for 18. Oktbr 1926 efter
+juliansk Kalender, vil denne, da S. er D, være
+Søndag; den julianske Kalender er i det 20.
+Aarh. 13 Dage tilbage i sin Datering
+sammenlignet med den gregorianske, men 13=2.7—1,
+altsaa ligger Ugedagen 1 Dag tilbage. Men med
+Lørdag 30. Septbr 1923 ophørte den julianske
+Kalender; fra Søndag 14. Oktbr 1923 bruges kun
+den gregorianske i de kristne Stater.
+
+En af Aarets vigtigste Søndage er
+<sp>Paaskedagen</sp>. Da denne er en bevægelig Festdag,
+vil Fastsættelsen af, naar den skal fejres,
+influere paa alle øvrige bevægelige Festdage. Det
+er bestemt, at Paaskedag skal fejres paa
+første Søndag efter den Fuldmaane, som
+indtræffer paa ell. nærmest efter 21. Marts. Er
+Fuldmaanedagen selv Søndag, fejres Paaskedagen
+først den næste Søndag. Denne Fuldmaane
+kaldes ofte Paaskefuldmaanen; tidligst kan den
+indtræffe 21. Marts, og hvis denne er Lørdag,
+vil 22. Marts være Paaskedag, hvilket indtraf
+1818 og vil hænde næste Gang 2285. Senest kan
+Paaskefuldmaanen indtræffe 18. Apr., og hvis
+denne er Søndag, vil først den 25. Apr. være
+Paaskedag; det hændte 1886 og vil indtræffe
+næste Gang 1943. Tidligst kan altsaa Paaskedag
+komme 22. Marts, senest 25. Apr, og paa en
+af disse ell. mellemliggende 33 Dage vil man
+altid have Paasken. Skal man nu finde Datoen
+for Paaskedagen, har man først at bestemme
+Paaskegrænsen ɔ: den Foraarsfuldmaane, som
+indtræffer paa 21. Marts ell. den nærmest
+derpaa følgende Dag. Denne bliver ikke beregnet
+astronomisk, men cyklisk (den 19-aarige
+Maanecyklus), hvorved man kun tager Hensyn til
+Maanens gennemsnitlige Bevægelse og ikke til
+de periodiske Uregelmæssigheder i Bevægelsen.

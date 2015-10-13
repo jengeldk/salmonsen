@@ -1,0 +1,154 @@
+Togvejsindstilling, idet Togvejen paa forsk.
+Dele af sin Udstrækning falder inden for forsk.
+Posters Omraade, tilvejebringes den fornødne
+Afhængighed mellem Posterne ved gensidige
+Spærringsforbindelser, saakaldte
+Blokforbindelser, der under lidt større Forhold udgør et
+<sp>Stationsblokanlæg</sp>. Paa den enkelte
+Stationspost sikrer Centralapparatet, hvori
+Haandtagene er anbragt, den gensidige
+Aflaasning mellem de Sporskifter og Signaler, der
+beherskes fra dette, og ved Blokforbindelserne
+mellem Posterne samles Anlægget til en
+Helhed, som om alle Banegaardens Sporskifter og
+Signaler var underlagt samme Centralapparat.
+De anvendte Blokforbindelser kan være af
+mekanisk Art, dannet af to og to mekanisk
+forbundne Haandtag i de paagældende
+Centralapparater, men mest almindeligt bruges
+elektriske Blokforbindelser for Vekselstrøm eller
+Ligestrøm.
+
+Ved Vekselstrømsstationsblok, som er den
+hyppigst forekommende i Anlæg af den tyske
+Type, bruges Blokapparater med Felter af
+samme Art som i den tyske Linieblok (se
+<sp>Bloksystem</sp>, S. 454). Blokapparaterne virker i
+Forbindelse med Posternes Togvejshaandtag,
+og en Blokforbindelse sammensættes af to
+indbyrdes forbundne Felter, hvoraf det ene
+deblokeres, naar det andet blokeres, og som
+saaledes gensidigt udløser hinanden. Ved en
+Togvejsindstilling aflaaser den første Post
+Sporskifterne i sit Togvejsstykke, omlægger det
+tilsvarende Togvejshaandtag og blokerer dette med
+det tilhørende Blokfelt. Herved deblokeres det
+dermed forbundne Blokfelt paa den følgende
+Post, og naar denne har aflaaset sine Sporskifter,
+kan den da omlægge sit Togvejshaandtag og
+saaledes føre Togvejsaflaasningen videre. Naar
+endelig Signalposten paa denne Maade har
+modtaget Deblokeringer fra de øvrige
+Stationsposter, vil Togvejshaandtaget her sluttelig
+kunne omlægges, saaledes at Signalhaandtaget
+bliver frigivet og Signalet kan sættes paa »Kør«.
+Togvejsaflaasningen er fastholdt, indtil
+Signalet atter sættes tilbage paa »Stop«, thi først
+derefter kan Deblokeringen gives tilbage til
+Stationsposterne, saaledes at disse frigives og
+kan oplaase Sporskifterne. Ved større Anlæg
+gennemføres Ordningen gerne saaledes, at de
+forsk. Stationsposter direkte underlægges den
+ledende Post, <sp>Kommandoposten</sp>, der,
+naar en Post blokerer sit Togvejsstykke,
+modtager Deblokeringen fra denne, og selv til sidst
+deblokerer Signalet paa Signalposten.
+
+Den elektriske Ligestrømsblok — ogsaa
+kaldet Jævnstrømsblok — anvendes i vore Dage
+hyppigst i Forbindelse med elektriske
+Betjeningsanlæg, hvor den hovedsagelig virker paa
+samme Maade som de elektriske Spærrer i det
+enkelte Centralapparat.
+
+<sp>Anlæggenes Betydning</sp>. Den
+væsentlige Betydning af den centraliserede S. er,
+at de indbyrdes Spærringer mellem Signal- og
+Sporskiftehaandtagene mekanisk udelukker
+Fejltagelser, der ellers maatte paaregnes som
+Følge af Betjeningsmandskabets menneskelige
+Ufuldkommenhed. Den blotte Sammenstilling af
+de forsk. Haandtag paa en fælles
+Betjeningspost, der i England dannede det historiske
+Grundlag, hvoraf <i>Interlocking-Systemet</i> naturligt
+bragtes til Udvikling (se S. 56: <sp>Historisk
+Begyndelse</sp>), forøger denne Fare, da en
+Forveksling af Haandtagene herved bliver
+nærliggende. Forholdet oplyses godt ved et klassisk
+Eksempel fra Sikringsvæsenets Barndom: Paa en
+simpel Gaffelstation paa dobbeltsporet Bane
+med fire Indkørselssignaler til de forsk. Sider
+og to Sporskifter i Forgreningen findes fire
+Signalhaandtag og to Sporskiftehaandtag
+anbragt Side om Side i en fælles Trækbuk.
+Dersom disse Haandtag ikke er bundet ved nogen
+gensidig Afhængighed, kan de fire Signaler give
+»Kør« og »Stop« i 2X2X2X2=16 forsk.
+Sammenstillinger, hvoraf dog de 8 indeholder
+modstridende »Kør«-Signaler, gældende for
+Tog-veje, der griber ind i hinanden. Sporskifter og
+Signaler kan tilsammen forekomme i 16X2X2
+=64 forsk. Sammenstillinger, men kun de 13
+af disse er rigtige eller tilladelige, og de 51
+indeholder driftsfarlige Muligheder. Ved den
+gensidige Spærring mellem Haandtagene
+udelukkes netop disse 51 fejlagtige, driftsfarlige
+Indstillinger, og for en moderne Storstation med
+dens talrige Signaler og mangfoldige
+Sporskifter vil det tilsvarende Tal stige til det
+fantastiske.
+<i>J. F.</i>
+</chapter>
+
+<chapter name="Sporsne">
+<b>Sporsne</b> kaldes et jævnt Lag Sne, hvori
+Vildtets Spor kan følges.
+<i>S. F.</i>
+</chapter>
+
+<chapter name="Sporsten">
+<b>Sporsten,</b> se <sp>Kobber</sp>.
+</chapter>
+
+<chapter name="Sport">
+<b>Sport,</b> latinsk <i>spórta</i>, en flettet Kurv, deraf
+<i>spórtula</i>, en lille Kurv, hvorfra Penge og Gaver
+uddeltes til Klienter; Historieskriveren
+Svetonius anvender Ordet om de Lege, den rom.
+Kejser Claudius lod opføre for Folket. I Engelsk
+gaar Ordet over til at betyde Leg, Spøg,
+Fornøjelser; i nyere Engelsk begrænses det til at
+betegne Legemsøvelser i fri Luft, navnlig
+forbundne med Væddekampe, hvori det gælder for
+hver enkelt at yde sit højeste i Kraft og
+Udholdenhed. I Danmark er Ordet mere og mere
+gaaet over til at betegne det overdrevne i
+saadanne Legemsøvelser, saaledes som det giver
+sig Udslag i Rekordjageri, særlig af
+professionelle Sportsmænd, medens det nordiske Ord
+<sp>Idræt</sp> bruges om de Legemsøvelser, der er
+gavnlige for den enkelte som en aandelig og
+legemlig Styrkelse og Forfriskelse fra hans
+daglige Arbejde for Brødet, og gavnlige for Staten
+ved at vedligeholde den legemlige Sundhed hos
+Folket, der er et nødvendigt Grundlag for dets
+hele Liv som selvstændig Nation og for dets
+kulturelle og materielle Fremgang.
+<i>K. A. K.</i>
+</chapter>
+
+<chapter name="Sportler">
+<b>Sportler,</b> Afgifter, der erlægges som
+Vederlag for den Ulejlighed og Udgift, der paaføres
+en Statsinstitution, naar den sættes i Bevægelse
+i Enkeltmands særlige Interesse, saaledes f.
+Eks. naar en Mand anlægger en civil Sag mod
+en anden, lader en Notarialhandling foretage
+eller udtager en Bevilling. S. er en ældgammel
+Afgift i Danmark og Norge og har til alle
+Tider indbragt betydelige Summer; hvor store
+disse tidligere har været, kan dog ej angives,
+da S. tidligere for største Delen ikke indgik i
+Statskassen, men tilfaldt de Embedsmænd, der
+udførte de paagældende Forretninger, som en
+Del af deres Lønning. Dette er nu ophørt (jfr

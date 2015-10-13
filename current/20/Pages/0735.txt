@@ -1,0 +1,140 @@
+R. lidt blødere end de indfaldende. Forøgelsen
+i λ afhænger af Spredningsvinklen ψ, idet man
+har, at Δλ = 2λ0 sin<sup>2</sup> ψ/2; λ0 = 0,024 A. Det
+drejer sig altsaa kun om en ganske ringe
+Ændring, 0 i Straalens Retning, 0,024 Å. tværs paa
+denne og det dobbelte lige i modsat Retning.
+Ændringen afhænger ikke af den opr.
+Bølgebredde; for bløde R. er den derfor uden Bet.,
+men for de haardeste R. og spec. for
+γ-Straalerne fra de radioaktive Stoffer er det et meget
+vigtigt Fænomen. Denne Ændring i λ kan
+udledes teoretisk under flg. Antagelser.
+Spredningen foregaar paa den Maade, at et indfaldende
+Kvantum R. hv giver en Elektron i det
+spredende Stof et Stød og overfører derved Energi
+og Bevægelsesmængde til denne Elektron. Men
+denne Energi maa tages fra den indfaldende
+R., saa at Kvanterne bliver mindre, d. v. s. v
+mindre ell. λ større. Men dette er en saa
+massiv Maade at behandle Kvanterne paa, at den
+gør det af med den sidste Rest af
+Bølgeforestillingerne, som man paa den anden Side ikke
+kan undvære for at forstaa Interferens,
+hvorpaa i sidste Instans al Bølgebreddemaaling
+hviler. Ang. dette Spørgsmaal, hvorledes
+Compton-Effekten lader sig forene med Bølgeteorien,
+hersker der endnu delte Meninger. Imidlertid
+sker denne Ændring i λ ved Spredning ikke
+altid, men kun, naar den spredende Elektron
+kan betragtes som fri, saa at den alene faar
+hele den fra Straalingen afleverede Energi og
+Bevægelsesmængde: sidder den for fast i
+Atomet, saa at man maa betragte hele Atomet
+som en Helhed, der faar Stødet, bliver
+Ændringen forsvindende. Dette Tilfælde maa
+antages at indtræde ved den Spredning, der finder
+Sted fra de enkelte Atomer i en Krystal, thi
+hvis dér ogsaa indtraadte en saadan Ændring
+i λ, faldt jo hele Grundlaget for Maaling af
+Bølgebredder for R. ved Krystalgitre. Ved
+Compton-Effekten frigøres altsaa ogsaa
+Elektroner, der faar den Energi, som R. har
+afleveret. Disse Elektroner spiller utvivlsomt en
+betydelig Rolle ved de haardeste Straalers
+terapeutiske Virkning og for Ionisering ved R.
+
+Selve Spredningen har stor Bet. for
+R.-Terapien, idet den stærkt paavirker Fordelingen af
+R. i den bestraalede Organisme. Det er derfor
+nødvendigt eksperimentelt at udfinde denne
+Indflydelse, hvilket gøres ved at maale
+R.-Intensitetsfordelingen i et »Vandfantom«, et stort
+Vandbad, der fungerer som Patient, idet
+Absorption og Spredning gennemsnitlig er den
+samme i Vand som i Organismer. Paa
+Grundlag af saadanne Maalinger forudberegnes
+Bestraalingsskemaer for at sikre, at den Svulst
+e. l., som skal behandles, faar den rigtige
+Dosis, uden at noget sundt Væv paavirkes saa
+stærkt, at det skades deraf.
+
+<sp>Maaling og Dosering af R.</sp> Hvad der
+foregaar i Luft, som passeres af R., ses af Fig.
+8 i <sp>elektrisk Strøm i Luftarter</sp>. Fra
+enkelte af de passerede Luftatomer løsrives
+Elektroner med stor Fart, og disse fremkalder
+da Ioniseringen. Dette stemmer med
+Absorptionens ovf. omtalte Mekanisme. Da Elektronerne
+i de lette Luftarter er ret løst bundne, kræves
+der selv til Løsrivelse af K-Elektronerne ikke
+ret megen Energi. For nogenlunde haard
+Straaling vil da altid et Energikvantum være meget
+for stort, saa at den løsrevne Elektron faar det
+meste af Kvantet som kinetisk Energi, og kan
+ionisere paa en ret lang Bane i Luften. Ved
+Siden af disse Elektroner spiller ogsaa
+Compton-Elektronerne en stor Rolle for Ioniseringen.
+For R. af en bestemt Art er Antallet af
+løsrevne Elektroner og derfor ogsaa Ioniseringen
+proportional med Intensiteten af R., naar man
+sørger for, at der er Plads nok til, at alle
+løsrevne Elektroner faar opbrugt hele deres
+Energi til Ionisering, inden de træffer Væggene.
+Men gaar man over til en anden Slags R., vil
+samme absorberede Energimængde næppe
+frembringe samme Ionisering. Alligevel har man
+i Praksis intet bedre Maal for R.'s Intensitet
+end den Ionisering, de frembringer. Den mest
+direkte Maalemetode vilde være at lade de R.,
+der skal maales, absorberes helt og maale den
+derved frembragte Varme, men det drejer sig
+om alt for smaa Varmemængder for Praksis,
+saa at denne Metode kun har været anvendt
+ved enkelte videnskabelige Undersøgelser.
+
+Imidlertid er Spørgsmaalet om Dosering af
+R., der kræver en nøjagtig baade kvalitativ og
+kvantitativ Angivelse af den til Vævet afleverede
+Mængde R., et meget vanskeligt Spørgsmaal,
+der først nu er ved at blive løst paa
+nogenlunde tilfredsstillende Maade. Her kan kun
+omtales nogle Hovedpunkter. Som Enhed for
+Dosis er af den tyske Standardiseringskommission
+foreslaaet den R.-Energimængde, som ved
+Bestraaling af 1 cm<sup>3</sup> Luft ved 18° C. og 760 mm
+Tryk frembringer saa stærk Ionisering, at
+Mætningsstrømmen beløber sig til 1 elektrostatisk
+Enhed, idet det forudsættes, at Væggenes
+Indflydelse er udelukket, og at Elektronerne
+udnyttes fuldtud. Denne Enhed kaldes en Röntgen
+»R«. Det svarer til, at der frembringes omtr. 2
+Milliarder Ionpar i 1 cm<sup>3</sup>. Da Lægerne af
+praktiske Grunde ønsker et meget lille
+Ioniseringskammer til Vandfantommaalinger o. l.,
+kan de omtalte Betingelser ikke være opfyldte,
+hvorfor disse Kamre maa justeres ved
+Sammenligning med et rigtigt konstrueret
+Kammer. Saadanne Justeringsanstalter findes der en
+Række af i Tyskland, alle baserede paa
+grundlæggende Maalinger i Phys.-Techn.
+Reichsanstalt. Samme Antal R-Enheder af kvalitativt
+forsk. Straaler betyder ganske vist ikke helt
+samme virkelig absorberede R.-Energimængde
+i det bestraalede Væv, men da det dog ikke
+er givet, at samme absorberede Energimængde
+af forsk. Slags Straaler har samme biologiske
+Virkning, men denne først maatte bestemmes,
+kan man lige saa godt bestemme den pr
+R-Enhed af forsk. Slags Straaler som pr virkelig
+Energienhed. For Kortheds Skyld tales simpelt
+hen om biol. Virkning; sandsynligvis vil forsk.
+biol. Virkninger have hver sin
+Sensibilitetsfaktor. Endvidere spiller det en Rolle, om
+Straalerne gives paa een Gang ell. i smaa Doser,
+fordelt over længere Tid o. s. v. En meget brugt
+biol. Enhed er en Huderytemdosis, den Mængde
+R., der efter en vis Tids Forløb frembringer en
+let Rødfarvning af Huden. Den er naturligvis
+ikke meget veldefineret, men kan i Gennemsnit
+maaske sættes til c. 600 R.

@@ -1,0 +1,130 @@
+neutral Havn, hvor de har søgt Tilflugt i Havsnød.
+Den 13 Haag-Konvention af 18. Oktbr 1907 om
+neutrale Magters Rettigheder og Pligter under
+Søkrig bestemmer, at krigsførende Orlogsskibe
+ikke maa opholde sig længere end 24 Timer
+paa neutralt Omraade, med mindre andet er
+fastsat i den neutrale Magts Lovgivning; dog
+kan iflg. Art. 14 et krigsførende Orlogsskib
+forlænge sit Ophold p. Gr. a. Havari ell. Havets
+Tilstand. Medens Konventionen saaledes
+anerkender R. f. som Grund til Forlængelse af et
+krigsførende Orlogsskibs i øvrigt lovlige
+Ophold paa neutralt Søomraade, og medens den
+i Art. 21 bestemmer dels, at en Prise kan
+indbringes i neutral Havn p. Gr. a. Usødygtighed,
+Havets slette Tilstand ell. Mangel paa
+Brændsel ell. Forraad, og dels, at den neutrale Magt
+skal frigive Prisen med Officerer og Mandskab
+og internere den Besætning, der er sat om Bord
+af Opbringeren, dersom Prisen ikke paa
+Opfordring sejler bort, naar Grunden til Anløbet
+er bortfaldet, indeholder Konventionen ikke
+Regler om, hvornaar R. f. giver et
+krigsførende Orlogsskib Adgang til at anløbe en neutral
+Havn uden at blive interneret. Dette
+Spørgsmaal havde i det hele ikke større praktisk Bet.
+inden Verdenskrigen, da en neutral Magt i
+Alm. ikke lukkede sine Havne for de
+krigsførende Magters Krigsskibe. Derimod nævner
+Traktaten om Sues-Kanalen af 29. Oktbr 1888
+i Art. 4 udtrykkelig R. f. som Undtagelse fra
+de i Traktaten fastsatte Regler om
+krigsførende Orlogsskibes Ophold i Kanalhavnene (se
+<sp>Kanal</sp>). 1914 lukkede Holland imidlertid sine
+europ. Havne for de krigsførende Magters
+Krigsskibe, dog med Undtagelse af Anløb p. Gr. a.
+Havari ell. Havsnød. Norge og Sverige forbød
+1916 krigsførende Undervandsbaade Adgang til
+deres Søterritorium, men anerkendte ligeledes
+Undtagelse i Tilfælde af R. f. En saadan
+Undtagelse indrømmede Spanien derimod ikke, da
+det 1917 bestemte, af alle krigsførende
+Undervandsbaade, der anløb sp. Havne, skulde
+interneres.
+
+R. f. anerkendes endvidere i Fredstid, selv
+om en Stat forbyder fremmede Krigsskibe uden
+særlig Tilladelse at tage Ophold paa
+Søterritoriet ell. at anløbe Havne og indre Farvande
+(se <sp>Passageret</sp>). En lgn. Grundsætning
+finder Anvendelse, naar en Stat, som f. Eks.
+Island ell. Norge, forbyder fremmede Fiskere at
+have Tilhold ved Land ell. i Havn; saaledes
+bestemmer den isl. Fiskerilov af 19. Juni 1923
+§ 3 og den norske Fiskerilov af 3. Aug. 1897 §
+48, at fremmede Fiskere kan søge Ly paa
+Kysten for at redde sig under Storm og Uvejr.
+I Overensstemmelse med ældre Forskrifter,
+saaledes Anordning af 18. Marts 1776 § 4,
+forudsættes det paa lgn. Maade udtrykkeligt i dansk
+Lov af April 1925 om Fangst og Fiskeri i
+grønlandske Farvande, at Skibe p. Gr. a. alvorlig
+Nødstilstand kan blive nødsaget til at søge ind
+til de grønlandske Kyster og Øer, skønt der uden
+særlig Tilladelse i øvrigt ikke er Adgang til
+Grønland.
+<i>G. R.</i>
+</chapter>
+
+<chapter name="Relais">
+<b>Relais</b> [r<sub>ö</sub>'læ] (fr.), <sp>Relæ</sp>, kaldes i Tekniken
+en Anordning, hvorved Virkningen af en
+svagere (i Reglen fjerntvirkende) Kraft forstærkes
+ell. fornyes, idet Energien fra en ny (lokal)
+Kraftkilde bringes til Udløsning.
+
+R. benyttes i stori Udstrækning i den
+elektriske Telegrafi, hvor de paa
+Modtagerstationen ankommende Signalstrømme p. Gr. a.
+Energitabet i længere Ledninger ofte er for
+svage til direkte at kunne paavirke de egl.
+Telegraf-Skriveapparater med fornøden Styrke.
+Ledningen forbindes da med et R. — i Reglen
+en følsom Elektromagnet, hvis letbevægelige
+Anker i Takt med de ankommende
+Signalstrømme slutter og afbryder Forbindelsen i en
+lokal Strømkreds gennem Modtagerapparatet.
+R. virker derved som et nyt Afsenderapparat,
+der styres af Strømmene fra Afsenderstationen
+og udsender tilsvarende Strømme fra
+Modtagerstationens eget Batteri. I St f. en lokal
+Strømkreds kan R. ogsaa knyttes til en ny udgaaende
+Ledning, i hvilket Tilfælde Opstillingen kaldes
+Overdragning (s. d.). Lgn. elektromagnetiske
+R. finder ogsaa Anvendelse i Telefonien — dog
+i Reglen kun til Iværksættelse af den for
+Centralekspeditionen nødvendige Signalgivning
+samt Ind- og Udkobling af forsk. sekundære
+Kredsløb ved de ofte meget komplicerede
+Forbindelser, der udkræves paa Centralen med
+hel ell. delvis automatisk Retjening (se
+<sp>Telefon</sp>). Til Overførelse og Forstærkning af de
+egl. Telefon-Talestrømme paa lgn. Maade som
+Telegrafstrømmene er elektromagnetiske R. i
+mindre Grad egnede, idet de hurtigt vekslende
+Telefonstrømme kræver en mere fintfølende
+Relcisvirkning (se <sp>Telefonforstærker</sp>).
+<i>A. C. G.</i>
+
+<img>Skema for Telegrafrelais med Lokalstrømkreds. <i>L</i>
+ankommende Telegraflinie; <i>E</i> Relaismagnet; <i>A</i>
+Relaisanker; <i>B</i> Lokalbatteri; <i>M</i> Modtagerapparat; <i>F</i> Fjeder,
+der afbryder Lokalstrømkredsen, naar Liniestrømmen
+gennem Relaismagneten ophører.</img>
+</chapter>
+
+<chapter name="Relaislinie">
+<b>Relaislinie</b> [r<sub>ö</sub>'læ-] kaldes en Række
+<sp>Relaisposter</sp>, bestemt til at befordre Meldinger
+o. l. fra Post til Post. R. anvendes, hvor hyppig
+Forbindelse mellem to fra hinanden langt
+fjernede Steder er ønskelig, og man ikke raader
+over Telefon ell. Telegraf, Motorkøretøjer,
+Flyvere o. l., ell. hvor disse Forbindelsesmidler
+ikke yder tilstrækkelig Sikkerhed ell. ikke
+egner sig til Anvendelse. Hver Post bestaar af 1
+Fører og nogle Ryttere (Cyklister); Afstanden
+mellem Posterne varierer efter Forholdene (for
+Ryttere op til 20 km, for Cyklister til 50 km).
+Under Kamp kan den fjendtlige Ild tvinge til

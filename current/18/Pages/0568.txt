@@ -1,0 +1,140 @@
+Rumfang som muligt, idet de udøver et Tryk
+paa Begrænsningen; da det ikke kan komme ud
+gennem Hinden, vil Vandet udefra trænges ind,
+indtil Vandsøjlens Tryk i Stigrøret holder
+Ligevægt med det Tryk, der søger at faa
+Sukkermolekylerne til at brede sig over saa stort et
+Rumfang Vand som muligt; altsaa med
+Sukkeropløsningens osmotiske Tryk. Vædskesøjlens
+Højde i Stigrøret er altsaa et direkte Udtryk
+for det osmotiske Tryk af den Opløsning, der
+er inden for Hinden, hvis Hinden er
+fuldstændig uigennemtrængelig for det opløste Stofs
+Molekyler. Den omtalte Proces har man givet
+Navnet <sp>Osmose</sp> (af ὠθέω, gennemdrive), og
+det <sp>osmotiske Tryk</sp> er altsaa det Tryk,
+det opløste Stofs Molekyler udøver paa en
+halvgennemtrængelig Hinde. Dette Tryk
+afhænger af det opløste Stofs Koncentration og af
+Temp., men er uafhængig af Opløsningsmidlets
+Natur. <sp>H. de Vries</sp> studerede 1884 Osmosen
+i Planteceller (se <sp>Plasmolyse</sp>); hans
+Undersøgelser viste, at ækvimolekulære
+Opløsninger, d. v. s. saadanne, som i samme Rumfang
+indeholder samme Antal Grammolekyler opløst
+Stof, udøver samme osmotiske Tryk. Senere
+udførte <sp>Pfeffer</sp> en Række Undersøgelser over
+det osmotiske Tryk i Rørsukkeropløsninger, idet
+han som halvgennemtrængelig Hinde anvendte
+Kobberferrocyanid, udfældet i en Lercelles
+Porer. Disse Forsøg viste, at Opløsningers
+osmotiske Tryk er proportionalt saavel med
+Koncentrationen, som med den absolutte Temp.
+
+Ud fra Pfeffer's Forsøg viste <sp>van't Hoff</sp>
+1887, at der var fuldstændig Analogi mellem
+Lovene for Luftarterne (Boyle—Mariotte—Gay
+Lussac's Love) og Lovene for Opløsningerne,
+idet disse ganske fulgte den kendte Gasligning
+p v = R T. Heri er for et Grammolekyle af
+en Luftart <i>p</i> dets Tryk, maalt i Atmosfærer, <i>v</i>
+Rumfanget, <i>R</i> Gaskonstanten, 0,0821
+Liter-Atmosfære, og <i>T</i> den absolutte Temp. Anvendt
+paa en Opløsning er <i>p</i> Opløsningens osmotiske
+Tryk, <i>v</i> er Molarrumfanget af det opløste Stof,
+d. v. s. saa stort Rumfang Opløsning, som
+indeholder eet Grammolekyle opløst Stol, <i>R</i> har
+samme Værdi som for Luftarter, og <i>T</i> er som
+før den absolutte Temp. Dette viser altsaa, at
+en Sukkeropløsnings osmotiske Tryk har
+ganske samme Værdi som det Tryk, Sukkeret
+vilde udøve, hvis det var til Stede i luftformig
+Tilstand, ved samme Temp., i samme Rumfang,
+som dets Opløsning indtog. Van't Hoff udvidede
+herved Avogadro's Lov til ogsaa at gælde for
+Opløsninger. Ved samme osmotiske Tryk og
+samme Temp. indeholder lige Rumfang af
+forskellige Opløsninger samme Antal Molekyler og
+det samme Antal, der, ved samme Temp. og
+Tryk, findes i samme Rumfang af en Luftart.
+Da eet Grammolekyle af en Luftart, ved 0° og
+760 mm Tryk, fylder Normalrumfanget 22,4 l,
+vil altsaa en Rørsukkeropløsning, ved 0°, der
+i 22,4 l indeholder 1 Grammolekyle Rørsukker
+(C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>=342), d. v. s. 342 g Rørsukker, have
+et osmotisk Tryk paa 760 mm (1 Atm.), og en
+Opløsning, der i 1 l indeholder eet Grammolekyle,
+har altsaa et osmotisk Tryk paa 22,4 Atm.
+Ækvimolekulære Opløsninger udøver ikke alene
+samme osmotiske Tryk; de viser ogsaa i andre
+Henseender store Overensstemmelser, saaledes
+har man, ved Forsøg med fortyndede
+Opløsninger af organiske Stoffer, fundet, at
+ækvimolekulære Opløsninger af forsk. Stoffer i
+samme Opløsningsmiddel har samme osmotiske
+Tryk, samme <sp>relative
+Damptryksformindskelse</sp>, samme
+<sp>Kogepunktsforhøjelse</sp> og samme
+<sp>Frysepunktssænkning</sp>. Saaledes vil 0,1 molære (se
+<sp>Opløsninger</sp>) vandige Opløsninger alle have
+Kogepunktet 100,053° og Frysepunktet ÷ 0,186°;
+idet den <sp>molære
+Kogepunktsforhøjelse</sp> og den <sp>molære
+Frysepunktssænkning</sp> for vandige Opløsninger er henh.
+0,53° og 1,86°. Van't Hoff har fundet
+Relationerne mellem det osmotiske Tryk og de tre
+andre Størrelser og vist, at de kan afledes af
+hinanden.
+
+Disse omtalte Love viser sig i
+Overensstemmelse med Forsøgene, saa længe der er Tale
+om fortyndede Opløsninger af indifferente
+Stoffer, især organiske Stoffer; derimod viser
+Syrer, Baser og Salte store Afvigelser fra disse
+Love: f. Eks. har en Opløsning af eet
+Grammolekyle Natriumklorid opløst i 10 l Vand,
+altsaa en 0,1 molær Opløsning, et Kogepunkt, der
+er meget nær 100,10°, og Frysepunkt, der er
+÷ 0,37°, altsaa en Kogepunktsforhøjelse, en
+Frysepunktssænkning og derigennem ogsaa et
+osmotisk Tryk, der meget nær er det dobbelte
+af det normale. Opløsningen forholder sig
+altsaa, som den var 0,2 molær, d. v. s. som om der
+var opløst 2 Grammolekyler Stof i 10 l. Paa
+lgn. Maade forholder en Opløsning af f. Eks.
+Baryumklorid BaCl<sub>2</sub> sig, kun er her
+Afvigelserne endnu større, c. 3 Gange den teoretiske
+Værdi. Natriumkloridmolekylet virker i vandig
+Opløsning, som om hvert Molekyle var spaltet i
+to, og Baryumklorid, som om dets Molekyle var
+spaltet i 3 Brudstykker. Nu havde man
+allerede tidligere, for at forklare Syrers, Basers
+og Saltes Forhold over for den elektriske Strøm,
+idet disse i vandig Opløsning leder Strømmen,
+er <sp>Elektrolyter</sp>, antaget, at i det Øjeblik
+Strømmen sendes gennem Opløsningen, spaltes
+disse Stoffer til elektrisk ladede Dele, der af
+<sp>Faraday</sp> blev kaldt <sp>Ioner</sp>; disse bevæger
+sig under Elektrolysen gennem,
+Opløsningen, idet de overfører Elektriciteten fra den
+ene Elektrode til den anden. Elektrolyseredes
+saaledes Saltsyre, der er en Opløsning af
+Klorbrinte, skulde denne spaltes i positivt ladede
+Brintioner, og negativt ladede Klorioner.
+Brintionerne vil derfor under Elektrolysen vandre
+gennem Opløsningen til den negative Elektrode
+<sp>Katoden</sp> og her afgive deres elektriske
+Ladning og udvikles som alm. Brint; medens
+Klorionerne vandrer til den positive Elektrode
+<sp>Anoden</sp>, og her aflades til alm. Klor. For nu at
+forklare Elektrolyternes ejendommelige Afvigelser
+fra de osmotiske Love, opstillede <sp>Svante
+Arrhenius</sp> 1887 sin <sp>elektrolytiske
+Dissociationsteori</sp>, hvori han antager,
+at alle Elektrolyter allerede ved at opløses i
+Vand spaltes i elektrisk ladede Ioner, der
+bevæger sig frit i Opløsningen, og m. H. t.
+osmotisk Tryk, Kogepunktsforhøjelse og
+Frysepunktsnedsættelse forholder sig som
+selvstændige Molekyler. Saaledes vil altsaa
+Natriumkloridet, i en Natriumkloridopløsning, være

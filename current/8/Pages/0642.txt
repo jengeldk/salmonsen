@@ -1,0 +1,147 @@
+Spejlene <i>P</i> og <i>P<sub>1</sub></i> kaster Lyset fra de to
+Lyskilder <i>H</i> og <i>G</i> hen paa Matglaspladen <i>ab</i>, som
+betragtes gennem Lupen <i>L</i>. De to roterende
+Skiver <i>S</i> og <i>S</i><sub>1</sub>, der drives med Haanden fra
+samme Akse og har Udsnit paa 90°, bevirker,
+at <i>ab</i> afvekslende belyses af de to Lyskilder.
+
+En virkelig eksakt Sammenligning af forsk.
+farvede Lyskilder er kun mulig, naar man ved
+Spektroskopet opløser deres Lys i dets enkelte
+homogene Farvestraaler og sammenligner dem
+hver for sig. Dertil er konstrueret fl.
+<sp>Spektralfotometre</sp>, der alle er Kombinationer
+af en ell. anden Fotometerindretning med et
+Spektroskop. Det simpleste (Vierordt's) er et
+alm. Spektroskop, men med en Dobbeltspalte,
+idet den bevægelige Kæbe i Spektroskopets
+Spalte er delt i to Dele ved et Snit vinkelret
+paa Spaltens Længderetning; ved to inddelte
+Skruer kan hver af de to Spaltehalvdeles
+Bredde varieres for sig og aflæses. De to Lyskilder,
+der skal sammenlignes, sender Lys gennem hver
+sin af de to Spalter (ved Hjælp af et
+totalreflekterende Prisme foran den ene), saa at der
+dannes to Spektre over hinanden. Ved en
+Blænder i Spektroskopkikkertens Billedplan skæres
+et smalt Bundt af samme Farve ud af de to
+Spektre, og man varierer da Spaltebredden, til
+disse to Omraader er lige klare. De to
+Lyskilders Lysstyrke i denne Farve forholder sig
+da som de to Spalters Bredde (samme Afstand
+til Spalten forudsat). Dette Apparat er dog
+ikke videre fuldkomment. Det mest anvendte
+Spektralfotometer, König's, der er for indviklet
+til at beskrives her, anvender en
+Polarisationsfotometeranordning i Spektroskopet. Fig. 12
+viser <sp>Lummer</sp> og
+<sp>Brodhun's
+Spektralfotometer</sp>,
+en af de bedste og
+simpleste
+Konstruktioner. De to
+Kollimatorer (Spalterør)
+<i>D</i> og <i>R</i> faar Lys fra
+de to Lyskilder. <i>W</i>
+er en alm.
+Lummer-Brodhun-Fotometerterning, som i Fig.
+5, <i>P</i> er
+Spektroskopprismet,
+der spreder Lyset til et
+Spektrum, og <i>F</i> er
+Kikkerten, hvori
+Spektret iagttages; den
+har ikke Okular,
+men en smal
+Okularspalte i
+Objektivets Billedplan. Øjet
+holdes lige op til denne Spalte; man ser
+da Fotometerprismernes Berøringsflade, men i
+homogent Lys, hvis Farve er bestemt af
+Kikkertens og <i>P</i>'s Stilling. Ved at variere paa
+Spaltebredderne i <i>R</i> ell. <i>D</i> ell. bedre ved en
+variabel roterende Sektor foran den ene Spalte
+bringes Grænsen mellem Fotometerfelterne til
+at forsvinde.
+
+Spektralfotometrene er uden Bet. for den
+praktiske Belysningsteknik, men har vigtige
+Anvendelser i Fysikken. Bl. disse kan nævnes
+Maaling af Stoffers Absorptionsevne; man
+sender da gennem begge Spalter Lys fra samme
+Lyskilde og anbringer foran den ene Spalte det
+absorberende Stof. Paa lgn. Maade bestemmes
+Reflektionsevner. I alle Tilfælde maa foretages
+saa mange Maalinger i forsk. Farver Spektret
+igennem, som der er Brug for.
+
+<sp>Uegentlig F.</sp> Medens al egl. F. som nævnt
+maa grunde sig paa Lysets Virkning paa Øjets
+Nethinde, da kun Øjet kan være Dommer ang.
+Lysstyrke og Belysning, kan man grunde en
+uegentlig F. paa alle saadanne andre
+Lysvirkninger, som kan gøres til Genstand for
+Maaling. Man kan f. Eks. benytte Lysets kem.
+Virkninger, sammenligne to Lyskilders Evne til at
+fremkalde en ell. anden passende valgt kem.
+Proces. Men hver Lysvirkning er knyttet til sit
+bestemte Omraade af Spektret, ligesom
+Virkningen paa Nethinden kun er knyttet til den
+synlige Del af Spektret, men ikke til det
+ultrarøde og ultraviolette. Derfor kan man i Alm.
+ikke, naar man f. Eks. har fundet, at de to
+Lyskilder har samme Virkning paa een Proces,
+derfra slutte sig til Lighed mellem dem i andre
+Lysvirkninger, ja ikke en Gang i Virkningen
+paa andre fotokemiske Processer. Det er kun
+Tilfældet, dersom Lyset fra begge har nøjagtig
+samme spektrale Sammensætning.
+
+Bl. de Lysvirkninger, man især har grundet
+saadan Maaling paa, er som nævnt Lysets
+<sp>kem. Virkninger</sp>. Saaledes Virkningen
+paa en Blanding af Klor og Brint (Bunsen og
+Roscoe's Klorknaldgas-Fotometer), men først
+og fremmest den fot. Virkning (se <sp>F.,
+fotografisk</sp>). Videre Lysets Virkning paa
+krystallinsk Selen, hvis elektriske Modstand
+formindskes ved Belysning (se <sp>Selen</sp>). Endelig
+den lyselektriske Virkning, Udsendelsen af
+negative Elektroner fra bestraalede
+Metaloverflader (se <sp>Lyselektricitet</sp>). Ved
+<sp>Bolometret</sp>, <sp>Termoelementer</sp> og
+<sp>Radiomikrometret</sp> kan maales Straalernes samlede
+<sp>Energiindhold</sp> (se <sp>Varmestraaling</sp>),
+men dette har heller intet med egl. F. at gøre.
+
+F.'s egl. Grundlægger er <sp>Lambert</sp> (1760);
+dog havde allerede <sp>Bouguer</sp> (1729) angivet
+et Fotometer. Om F.'s Anvendelse i
+Astronomien, se <sp>Astrofotometri</sp>. (<sp>Litt.</sp>:
+<sp>Liebenthal</sp>, »Praktische Photometrie« [Braunschweig
+1907]. Endvidere Afsnittene om F. i de større
+Lærebøger i Optik).
+<i>H. M. H.</i>
+
+<img>Fig. 12. Lummer og
+Brodhun's Spektralfolometer.</img>
+</chapter>
+
+<chapter name="Fotometri, fotografisk">
+<b>Fotometri,</b> <sp>fotografisk</sp>. 1) Lysmaaling
+ved Lysets fotografiske Virkning (smlg.
+uegentlig F. under <sp>Fotometri</sp>). Man kan dels
+benytte fotografisk Papir ell. saadanne Plader,
+hvor Sværtningen straks fremkommer og derfor
+straks kan iagttages, dels alm. Plader, der efter
+Lyspaavirkningen maa fremkaldes, før
+Lysvirkningen kan bestemmes. Fotografisk Papir (der
+først er anvendt af Bunsen og Roscoe) bruges
+f. Eks. en Del i Meteorologien. Man bestemmer
+den Belysningstid, der er nødvendig for at give
+Papiret en bestemt konstant Normalfarvetone,
+som man har en Prøve af til Sammenligning;
+undertiden bestemmes den Belysningstid, der
+giver en netop mærkelig Sværtning. Metoden
+egner sig kun til ret intensivt Lys (Aktinometri)
+og kun til grovere Maalinger. Man maa

@@ -1,0 +1,142 @@
+i Lyset fra K., som ligeledes vil blive nærmere
+omtalt i det flg.
+
+<sp>Kanalstraaledelenes Omladning</sp>.
+Det er ovf. omtalt, at K. ved Wien's Forsøg
+ikke afbøjedes som en samlet Straale, saaledes
+som det sker ved et Katodestraalebundt, men
+at der fandtes alle Afbøjninger fra Nul og op
+til en vis Grænse. Wien har vist, at Aarsagen
+hertil ligger i, at Kanalstraalepartiklerne ikke
+alle er ladede i hele den Tid, de passerer det
+afbøjende Felt, og kun saa længe Partiklen har
+Ladning, vil der virke en afbøjende Kraft paa
+den. Vi maa forestille os, at den positive
+Kanalstraalepartikel paa sin Vej gennem Røret
+indfanger en Elektron ved at passere tæt forbi
+(støde til) et Molekyl af den omgivende
+Luftart, gennem hvilken Straalen gaar, og at
+omvendt den dannede neutrale Partikel paa sin
+Vej videre frem snart efter igen vil afgive
+Elektronen til et Molekyl, som den er kommet
+nær ind paa, saa at Partiklen nu atter har
+positiv Ladning indtil næste Omladning. Den
+Vejstrækning, som en Kanalstraalepartikel
+gennemløber fra en Omladning til den næste, vil
+være højst forsk. og kun i Middel have en vis
+bestemt Størrelse, Middelvejlængden kaldet.
+Skønt Kanalstraaledelene alle begynder med at
+være positivt ladede (nemlig i Katodefaldet),
+vil de derfor, saa snart de har tilbagelagt en
+vis Vejstrækning, være en Blanding af positive
+(undertiden ogsaa negative) og neutrale Dele.
+Wien har undersøgt Omladningen
+eksperimentelt ved at lade K. gennemløbe et meget langt
+Rør, i hvilket den i Række passerer Polskoene
+af to stærke Elektromagneter I og II. I Enden af
+Røret var der anbragt en Termosøjle, som
+opfangede Straalen og maalte dens Energi. Først
+sættes alene Elektromagnet I i Virksomhed,
+derved afbøjes alle de paa den Strækning af
+Røret ladede Kanalstraaledele, saa at nu kun de
+derværende neutrale Dele naar hen til
+Termosøjlen. Forholdet mellem den Energi, som
+denne nu modtager, og den oprindelige Energi
+angiver, hvor stor en Brøkdel af Straalens
+Partikler der har været neutral. Denne Brøkdel
+var i Wien's Forsøg af Størrelsesordenen 2/3,
+der var altsaa flest neutrale Dele. Naar derpaa
+tillige Elektromagnet II blev sat i Virksomhed,
+gik Energien yderligere ned og det i ganske
+samme Forhold som før. Dette viser, at den
+neutrale Straale, som forlader Felt I, paa Vejen
+til Felt II ved Omladning har delt sig i det
+samme Blandingsforhold af positive og neutrale
+Dele, som var til Stede i Straalen, da den
+traadte ind i Felt I. Dette Ligevægtsforhold
+naas kun i II, saafremt Vejen fra I til II er fl.
+Gange den ovf. omtalte
+Omladningsmiddelvejlængde. Flyttes Felt II tæt hen til I, vil en stor
+Del af de neutrale Straalepartikler endnu ikke
+have undergaaet Omladning. Ved at anvende
+elektriske Felter og variere paa Afstanden
+mellem Felt I og II har Wien kunnet bestemme
+Middelvejlængderne for de positive og neutrale
+Partikler. Den er af samme Størrelsesorden
+som den Middelvejlængde, et Molekyle
+tilbagelægger mellem to Sammenstød, beregnet efter
+den kinetiske Luftteori. Som Eks. anføres, at
+den for Brint af 0,005 mm Tryk er c. 20 cm for
+de neutrale Brintatomer og c. 10 cm for positive
+Brintioner. Middelvejlængden er i første
+Tilnærmelse omvendt proportional med Trykket.
+
+Omladningen bevirker, som vi har set, at en
+K. ikke vil afbøjes som en enkelt Straale. For
+at faa saa ensartet en Afbøjning som muligt
+maa man sørge for, at Feltets Udstrækning er
+lille i Forhold til Middelvejlængden, saa at man
+kun faar faa Ladningsforandringer af
+Partiklerne i den Tid, de befinder sig i Feltet. Man
+skal altsaa anvende korte stærke Felter og have
+lavt Tryk i Røret, hvorved Middelvejlængden
+bliver stor.
+
+Omladningen finder Sted paa hele K.'s Vej,
+ogsaa paa dens første Del foran Katoden, hvor
+de ladede Partikler faar Hastighed fra
+Katodefaldet. Dette har til Følge, at
+Kanalstraalepartiklerne ikke alle faar samme Hastighed, selv
+om Røret drives med konstant Spænding,
+modsat Elektronerne i Katodestraalerne, der
+kommer fra Katoden og derfor alle gennemløber
+hele Katodefaldet.
+
+Foruden positive og neutrale Partikler kan
+en K. ogsaa indeholde negative. De viser sig
+at have samme Masse som de positive
+Partikler og maa derfor ligesom disse være Atomer
+ell. Molekyler, der blot ved Sammenstød har
+faaet et Overskud af Elektroner. I Alm. vil de
+negative Dele være relativt faatallige, men de
+kan undertiden være de fleste, som f. Eks. i en
+K. bestaaende af Iltmolekyler igennem
+Kvægsølvdamp. Naar de negativt ladede Atomer ell.
+Molekyler befinder sig foran Katoden, vil de af
+Katodefaldet faa Hastighed i samme Retning
+som Elektronerne i Katodestraalerne. De vil
+derfor give Anledning til Straaler, saakaldte
+K<sub>1</sub>-Straaler (hvor K skal læses som Bogstavet
+K og ikke som en Forkortelse af
+Kanalstraaler), i Katodestraalernes Retning. Deres
+Tilstedeværelse kan konstateres ved en Magnet,
+som let afbøjer Katodestraalerne, men derimod
+ikke K<sub>1</sub>-Straalerne.
+
+Ionernes Ladningsveksling forklarer ligeledes
+de af O. Reichenheim iagttagne A<sub>1</sub>-Straaler.
+Disse fremkommer bag en gennemboret
+Platinanode i et Udladningsrør med Brint- og
+Joddamp. Joddampen bevirker, at der opstaar et
+stærkt Spændingsfald ved Anoden, som
+frembringer Straaler af de positive Ioner bort fra
+denne (se <sp>Anodestraaler</sp>). De negativt
+ladede Ioner sendes ind mod Anoden og vil,
+naar denne er gennemboret, kunne iagttages
+som en Straale bag denne. Det er disse
+Straaler, som Reichenheim har kaldt A<sub>1</sub>-Straaler.
+
+<sp>Kanalstraalernes Afbøjning i
+elektriske og magnetiske Felter</sp>.
+Vi tænker os, at en Kanalstraalepartikel med
+Ladningen <i>e</i>, Massen <i>m</i> og Hastigheden <i>v</i> paa
+en vis Strækning (<i>a b</i>) af sin Bane udsættes for
+et homogent elektrisk Felt med den elektriske
+Kraft <i>E</i> vinkelret paa Kanalstraalepartiklens
+opr. Retning (Fig. 3) ved, at man sætter en
+Spændingsforskel paa de to parallelle
+Metalplader, +A og —A, mellem hvilke Straalen
+passerer. Betegner Fortegnene Ladningernes
+Fortegn, vil Kanalstraalepartiklen afbøjes i den
+paa Figuren angivne Retning. Banen vil være
+retlinet baade før og efter det elektriske Felt,

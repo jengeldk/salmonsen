@@ -1,0 +1,138 @@
+høj- og lavfrekvente Strømløb kræver en
+omhyggelig Afpasning af de elektriske Forhold for
+at virke tilfredsstillende.
+
+Skal Signalerne nedskrives — Form af
+Morsetegn — anvendes særlige dertil indrettede
+Ensrettere og Lavfrekvensforstærkere, eventuelt i
+Forbindelse med særlige Anordninger som
+Johnsen og Rahbek's Relais. Ved Hurtigtelegrafi
+maa en Nedskrivning altid finde Sted, og for
+kommercielle Radioforbindelser bliver
+Hurtigtelegrafi mere og mere alm.
+
+Ved Høremodtagelse (Telefon-Øre) af
+Signaler, der overføres ved Hjælp af kontinuerlige
+Bølger, maa man anvende en anden
+Fremgangsmaade end den ved Tonegnistmodtagning
+benyttede. Selve Bølgernes Kontinuitet bevirker,
+at man i en alm. Modtager ikke hører nogen
+Tone, ja praktisk talt slet intet hører. Poulsen
+løste Vanskeligheden ved Hjælp af »Tikkeren«,
+der intermitterende knytter Modtagertelefonen
+til Modtagerantennen. Løsningen var original
+og af en ejendommelig Art, og den var en Tid
+den bedste, man havde. Nu er den distanceret
+af Elektronrørene, der her anvendes paa flg.
+Maade: Svingningstallet af de ankommende
+Bølger er lig med <i>n</i>; ved Hjælp af et
+Elektronrør fremstiller man en lille, lokal
+Højfrekvensgenerator, der giver Svingningstallet <i>n<sub>1</sub></i>, hvor
+<i>n<sub>1</sub></i> ikke er meget forsk. fra <i>n</i>. Begge disse
+Svingninger, den udefra kommende og den
+lokalt frembragte, lader man paavirke det egl.
+Modtagerorgan. Der opstaar da »Stød« i dette,
+ganske paa samme Maade som to hørlige Toner,
+hvis Tonehøjde ligger i Nærheden af hinanden,
+kan give Stød (Fig. 44). Stødenes Frekvens
+(ell. Tonehøjde) er lig med Forskellen mellem
+de to højfrekvente Svingningers Frekvens og er
+altsaa (<i>n</i>—<i>n<sub>1</sub></i>). Er denne Forskel f. Eks. 800,
+saa hører man i Modtagertelefonen en Tone
+med 800 Svingninger pr Sek., medens baade <i>n</i>
+og <i>n<sub>1</sub></i> er saa høje, at de ligger uden for det
+hørliges Omraade. Denne Fremgangsmaade
+kaldes <sp>Stød</sp>-, <sp>Interferens</sp>-, ell.
+<sp>Heterodynmodtagning</sp>. Den giver af sig selv,
+navnlig ved korte Bølger, en betydelig
+Forstyrrelsesfrihed. Regnes saaledes, at Telefonen i
+den benyttede Modtager kun gengiver
+Frekvenser op til 3000, saa vil en Modtager, der er
+indstillet paa en 600 m's Bølge, kun reagere
+for Bølgelængder, der ligger mellem 596
+og 604 m. En Heterodynmodtager for en
+6000 m's Bølge vil under samme Forhold
+paavirkes af Bølger mellem 5680 og 6390 m.
+Modtagning af meget korte Bølger — under 300
+m — volder visse Vanskeligheder, bl. a. fordi
+den Højfrekvensforstærkning, der kan opnaas
+ved et enkelt Rør, bliver forholdsvis ringe.
+Dette hænger sammen med, at der ved disse
+høje Frekvenser dels er stor Tilbøjelighed til
+tilfældig stærk Tilbagekobling og dermed til
+»Syngning«, dels at Gitterspændingen p. Gr. a.
+Gitterets og Gittertilledningens Kapacitet
+bliver relativ ringe. Disse Vanskeligheder kan
+delvis undgaas ved <sp>Neutrodyn</sp>-Metoden, hvor
+man ved en induktiv Tilbagekobling fra
+Pladeløbet til Gitteret søger at kompensere den
+direkte kapacitive Kobling mellem Plade og
+Gitter. En anden Maade at omgaa
+Vanskelighederne paa, er ved Anvendelse af
+<sp>Super-Hete-rodyn</sp>-Metoden, i hvilken man benytter en
+lokalt i Modtageren frembragt Mellemfrekvens,
+hvis Stødfrekvens med den ankommende Bølge
+har en passende Frekvens. Denne
+Stødfrekvenssvingning, der vil være i Besiddelse af (»bære«)
+den ankommende Bølges Ejendommeligheder,
+forstærkes og detekteres derefter paa sædvanlig
+Maade ell. den paavirkes af og frembringer Stød
+med en ny lokalt frembragt Svingning
+(almindelig Heterodynmodtagning (Eks.: Ankommende
+Bølge 300 m [Frekvens 1000000],
+Mellemfrekvensens Bølgelængde 333,3 m [Frekvens 900000].
+Stødenes Bølgelængde 3000 m [Frekvens 100000]).
+
+Tidligere benyttede man som Regel samme
+Antenne til Afsending og Modtagning, skiftevis
+til det ene og det andet. Og det gør man ofte
+endnu for smaa Stationers Vedk. Derimod har
+man nu ganske forladt denne Metode ved de
+moderne, store og langtrækkende
+Radiostationer. Her maa man, for paa tilfredsstillende
+Maade at kunne afvikle Trafikken, være i Stand
+til at telegrafere samtidig i begge Retninger.
+
+En moderne Storstation bestaar i
+Virkeligheden som Regel af 3 adskilte Anlæg forbundne
+ved de nødvendige Telegraf- og
+Telefonledninger. Ordningen kan f. Eks. være flg.: 1)
+Senderstationen med Højfrekvensgeneratoren — der
+anvendes nu altid kotinuerlige Svingninger —
+og Sendeantennen. Det er langt den dyreste Del
+af Anlægget. Der findes her ingen Telegrafister,
+men kun det til Maskinernes Pasning fornødne
+Betjeningspersonale. 2) Modtagerstationen med
+Modtagerantennen, der er meget lille og
+beskeden i Sammenligning med Senderstationens. Der
+er nemlig ingen større Fordele ved at anvende
+en meget stor Modtagerantenne; ganske vist
+bliver de modtagne Signalers Styrke større,
+men det samme gælder de atmosfæriske
+Forstyrrelser. Er Signalerne for svage, forstærker
+man. Her sker Indstilling og Betjening af selve;
+Modtagerapparaterne. 3) Telegrafkontoret, hvor
+Telegrafisterne befinder sig.
+Sendertelegrafisterne styrer selve Udsendelsen af de elektriske
+Bølger fra Senderstationen ved Hjælp af alm.
+Telegrafnøgler ell. automatiske Hurtigsendere
+og over en alm. Telegrafledning fra
+Telegrafkontoret ud til Senderstationen.
+Modtagertelegrafisterne modtager over Telegraf- ell.
+Telefonledninger de af Modtagerstationen opfangede
+Signaler, der ved Hurtigtelegrafi skrives med
+Morseskrift af særlig dertil indrettede
+Skriveapparater.
+
+Telegrafkontoret lægges bedst i en Storbys
+Telegrafstation, Sender- og Modtagerstationerne
+derimod bedst ude paa Landet og helst i ikke
+for ringe Afstand fra hinanden.
+Modtagerstationen lægges bedst i nogen Afstand fra en Storbys
+mange elektriske Anlæg, der kan virke
+forstyrrende.
+
+Gennem Forstærkerne er man, som foran
+nævnt, bleven sat i Stand til at anvende forsk.
+Former af Modtagerantenner, der i og for sig
+kun har ringe »Opfanger«- ell.

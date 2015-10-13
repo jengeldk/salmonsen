@@ -1,0 +1,138 @@
+Praksis er overmaade vanskelig. Enhver anden
+Virkning af Spektrets Straaler end
+Opvarmningen er kun knyttet til et bestemt Omraade
+af Spektret og inden for dette Omraade forsk.
+for de forsk. Bølgebredder, saa at samme
+Paavirkning betyder forskellig Intensitet for de
+forskellige Bølgebredder. Dette gælder
+Paavisningen paa Øjet, der er knyttet til
+Spektrets synlige Del og stærkest i det gulgrønne,
+det gælder den fotografiske Virkning og
+enhver anden kemisk Virkning, Fremkaldelse af
+Fluorescens osv. Kun et Termometer reagerer
+ligeligt i alle Spektrets Dele, idet det, naar
+det anvendes rigtigt, absorberer hele den i den
+paagældende Del af Spektret indeholdte Energi
+og omdanner den til Varme, som maales. Ved
+et Termometer maales altsaa Intensiteten af
+alle Spektrallinier i samme Maal. Men
+Vanskeligheden ligger i at faa et tilstrækkelig
+følsomt Termometer. Hyppigst bruges
+<sp>Bolometret</sp> ell. <sp>Termoelementet</sp>, der
+begge giver størst Følsomhed, naar de anvendes i
+Vakuum. Endvidere er anvendt
+<sp>Radiometer</sp> og <sp>Radiomikrometer</sp> (se disse
+Artikler). Alle de straalemodtagende Flader i
+disse Apparater er sværtede sorte, saa at de
+absorberer næsten al den Straaleenergi, der
+rammer dem. Man iagttager den stationære
+Temperaturforhøjelse, som er naaet, naar den
+i en vis Tid modtagne og den i samme Tid til
+Omgivelserne afgivne Energimængde er lige
+store; denne Temperaturforhøjelse er
+proportional med og altsaa et Maal for den Energi,
+der i Tidsenheden rammer Termometret,
+altsaa proportional med den Straalingsintensitet,
+som skal maales. Metoden kan som nævnt
+bruges i alle Spektrets Dele og maa bruges, naar
+det er Maalinger af Intensiteten i de forsk. Dele
+af Spektret, det gælder, men ellers anvender
+man den i Reglen kun i den ultrarøde Del, hvor
+man ingen anden har, og hvor der oftest er
+forholdsvis megen Energi, mens man navnlig i
+ultraviolet kun vilde kunne paavise de
+stærkeste Linier. Om de Metoder, hvorved de længste
+ultrarøde Bølgebredder op til 0,3 mm er
+iagttagne, se <sp>Reststraaler</sp>.
+
+Om alle Prismeapparater gælder det, at
+Dispersionen er meget ulige i de forsk. Dele af
+Spektret, størst for de korteste Bølger, saa at
+tæt sammenliggende Linier adskilles bedst, naar
+de er kortbølgede, og f. Eks. det Omraade af
+et kontinuert Spektrum, som ad Gangen falder
+paa et Bolometer ell. l., omfatter et meget
+større Omraade af forsk. Bølgebredder i det
+ultrarøde end i det synlige ell. ultraviolette.
+Spektret er meget langt fra at være et
+Normalspektrum, hvor de forsk. Bølgebredder ligger i
+Afstande proportionale med deres
+Bølgebreddeforskelle. Dette, der har særlig Bet., naar der
+skal foretages Energimaalinger, kan opnaas i
+Gitterapparaterne.
+
+2. <sp>Gitterapparater</sp>. Gitterets Teori,
+Virkemaade og Fremstilling er omtalt under
+Bøjning. Det har først og fremmest muliggjort
+nøjagtige Bølgebreddemaalinger. Til absolut
+Maaling af Bølgebredder anbringes Gitteret —
+enten et Glasgitter ell. et Spejlgitter, der henh.
+giver Spektret i det gennemgaaende og det
+reflekterede Lys — paa et nøjagtigt Spektrometer
+vinkelret paa Kollimatorens Akse, og man
+maaler Afbøjningsvinklen for den Spektrallinie,
+hvis Bølgebredde skal bestemmes. Naar blot
+en enkelt Bølgebredde er fundet, kan andre
+findes ved Koincidensmetoden (se <sp>Bøjning</sp>).
+I nyere Tid har Gitteret imidlertid ikke mere
+samme Bet. for absolutte
+Bølgebreddemaalinger, højst i det yderste ultraviolette og i det
+ultrarøde. I det synlige og nærmeste
+ultraviolette Spektrum er Bølgebredden for et
+Antal Linier jævnt fordelt gennem hele Spektret
+maalt med overordentlig Nøjagtighed ved
+Interferensmetoder (se ndf.), og andre Liniers
+Bølgebredder findes da relativt til disse ved at
+fotografere de kendte og ukendte Linier
+sammen, udmaale Optagelsen og interpolere sig
+til de ukendte Bølgebredder. Men derved
+er Gitterspektroskopernes Betydning ikke
+blevet ringere; de er, naar der
+bortses fra det yderste ultraviolette, alle
+Prismeapparater langt overlegne i Opløsningsevne, saa
+at de giver meget større Nøjagtighed og
+tillader at gaa i langt højere Grad i Detailler ved
+Undersøgelsen af Spektret. Man anvender
+stadig baade Konkavgitter og Plangitter.
+Konkavgitteret har den Fordel, at det giver Spektret,
+uden at Lyset behøver at passere Linser af
+noget absorberende Stof. Det er derfor lige
+anvendeligt for synligt, ultraviolet og ultrarødt
+og er navnlig i det alleryderste ultraviolette
+det eneste anvendelige Apparat. Ulemper er,
+dels at det ikke kan bruges ved ret stort
+Aabningsforhold, saa at Spektrene bliver temmelig
+lyssvage, og dels at det giver astigmatiske
+Billeder, saa at hvert Punkt af Spalten afbildes
+som en kort Linie parallel med Spalten. Dette
+generer ikke ved alm. Spektraloptagelser, men
+i visse Tilfælde, saaledes ved Undersøgelse af
+Stark-Effekten (se <sp>Elektrooptik</sp>), er det
+Fænomen, der skal undersøges, forsk. langs
+Spalten, saa at Konkavgitteret slet ikke kan
+give skarpe Billeder. Her er man da henvist
+til Plangitteret, der ligesom Prismet anvendes
+i Forbindelse med Kollimator og Kikkert. De
+mange forsk. Konkavgitteropstillinger, der
+anvendes, maa forbigaas her; den nu mest
+benyttede Anrd. tillader at fotografere hele Spektret
+i alle Ordner paa een Gang, men den kræver
+megen Plads og et betydeligt Justeringsarbejde
+een Gang for alle, saa at et stort
+Gitterspektroskop bliver en kostbar Indretning, som kun
+forholdsvis faa Laboratorier er i Besiddelse af.
+Den første store Konkavgitterspektrograf i
+Danmark indrettes netop nu i Univ.'s Institut
+for teoretisk Fysik. En stor
+Plangitterspektrograf indrettes i Reglen til Autokollimation for
+at spare Plads og en Linse. Den samme Linse
+bruges da som Kollimator- og Kikkertlinse, idet
+Lyset fra Spalten paa Siden af Kollimatorrøret
+ved et lille Refleksionsprisme sendes hen mod
+Linsen og Gitteret. Det afbøjede reflekterede
+Lys gaar da gennem den samme Linse og
+danner et Spektrum i dennes Brændplan, hvor det
+kan iagttages og fotograferes. Men denne
+Opstilling kan kun bruges til de Dele af
+Spectret, for hvilke man kan fremstille store
+akromatiske Linser. Det er ogsaa muligt at

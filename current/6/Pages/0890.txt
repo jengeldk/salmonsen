@@ -1,0 +1,138 @@
+<sp>Formforandringen pr Længdeenhed</sp> ε. 1678
+fremsatte Englænderen <sp>Robert Hooke</sp> den,
+som han mente, for alle Materialer
+almengyldige Lov: <i>ut tensio sic vis</i>, Spænding og
+Formforandring er ligefrem proportionale, ell. σ=Eε,
+hvor E er en Materialkonstant, der benævnes
+<sp>Elasticitetskoëfficienten</sp> ell.
+<sp>Elasticitetsmodulus</sp>; Hooke skal dog være
+kommet til dette Resultat allerede 1660, men
+først 1676 offentliggjorde han det i Form af
+Anagrammet: <i>ceiiinosssttuu</i>, og endnu først to Aar
+senere i den ovf. meddelte direkte Form. Denne
+Lov har dannet Grundlaget for Elasticitetslæren
+lige op til Nutiden, men man har dog længe
+vidst, at den ikke er ganske korrekt for alle
+Materialer; 1729 angav <sp>Bülfinger</sp> og 1822
+<sp>Hodgkinson</sp> den saakaldte Potensligning
+(ε=σα<sup>m</sup>), og 1849 fandt sidstn., at en parabolsk
+Kurve bedst fremstillede Forholdene for
+Støbejern. Det er dog først ved <sp>C. Bach</sp>'s
+nøjagtige og omfattende Forsøg (siden 1885-86),
+at Spørgsmaalet kan siges at være nogenlunde
+bragt paa det rene; <sp>Bach</sp> var den første, der
+ved sine Maalinger udskilte de blivende
+Formforandringer og ved tilstrækkelig mange
+Gentagelser af Paavirkningen tilvejebragte den
+saakaldte konstante Tilstand, inden de endeligt
+gældende elastiske Formforandringer maaltes.
+Ved disse Forsøg er det nu fastslaaet, at
+Hooke's Lov kun er rigtig for smedeligt Jern
+(Svejsjern, Blødt og Haardt Staal) og Træ, og
+her gælder den endda kun op til en vis Grænse
+for Paavirkningen, den saakaldte
+<sp>Proportionalitetsgrænse</sp>. For alle andre
+Materialer (bløde Metaller og Legeringer som
+Kobber, Zink, Messing, Bronzer o. l., og skøre
+Materialer som Støbejern, naturlige og
+kunstige Sten, Mørtel, Murværk) er der ikke
+Proportionalitet, selv for de mindste
+Paavirkninger; Arbejdslinien, den Kurve, der angiver
+Sammenhængen mellem σ og ε, er hele Tiden
+en krum Linie og i Alm. saaledes, at den
+vender Konkaviteten mod ε-Aksen:
+Formforandringen vokser i stærkere Forhold end
+Spændingen. Imidlertid bliver alle Beregninger langt
+mere komplicerede og i de fleste Tilfælde
+endog uigennemførlige, hvis man forsøger at
+lægge en saadan krum Linie til Grund i St f.
+Hooke's rette Linie, og man gaar derfor endnu
+saa godt som altid ud fra Hooke's Lov; de
+herved fundne Resultater kan saa korrigeres
+ved direkte, specielle Forsøg og heraf uddragne
+Erfaringskoëfficienter. - Smedeligt Jern er det
+Materiale, hvis Elasticitetsforhold man kender
+bedst. Her findes der foruden <sp>Elasticitets</sp>-
+og <sp>Proportionalitetsgrænsen</sp>
+endnu et tredie mærkeligt Punkt,
+<sp>Flydegrænsen</sp> (<sp>Strækgrænsen</sp>), karakteriseret ved,
+at Formforandringerne her begynder at vokse
+overordentlig hurtigt i Forhold til Kraften,
+Materialet begynder ligesom at flyde. Efter at
+Flydegrænsen er passeret, behøves der dog
+atter en Voksen af Kraften til at frembringe en
+yderligere Formforandring, og herefter stiger
+Arbejdslinien atter nogenlunde jævnt lige op
+til Brudgrænsen, men Stigningen er langt
+svagere end inden for Flydegrænsen. Hverken
+de nævnte »Grænser« ell.
+Elasticitetskoëfficienten er absolut konstante Størrelser; de
+afhænger tværtimod i høj Grad af den Behandling,
+der er gaaet forud. Saaledes har
+<sp>Bauschinger</sp> vist, at ved Paavirkninger mellem
+Proportionalitets- og Flydegrænsen hæves den første
+straks til Belastningens Værdi og naar et
+Maksimum i Nærheden af Flydegrænsen. Overskrider
+Paavirkningen derimod denne Grænse, er det
+den, og tillige Brudgrænsen, der hæves,
+medens Proportionalitetsgrænsen sænkes helt ell.
+omtr. til Nul; i Tidens Løb hæver den sig dog
+atter, naar efter nogle Dage Belastningens
+Værdi og efter fl. Aar i alt Fald endnu højere.
+Elasticitetskoëfficienten bevæger sig paa samme
+Maade, men langt mindre. Ved Paavirkninger
+til Træk over Proportionalitetsgrænsen bliver
+denne Grænse for Tryk sænket, og begge to
+kan igen kun hæves ved regelmæssigt mellem
+Træk og Tryk skiftende og jævnt voksende
+Paavirkninger. Disse Forhold har stor
+praktisk Bet, idet enhver Bearbejdelse i kold
+Tilstand, som Overhamring, Bøjning, Retning,
+kold Valsning og Traadtrækning, medfører en
+Overskridelse af Proportionalitets- og
+Flydegrænsen, hvorved Jernets Sejghed formindskes,
+medens Stivheden og Skørheden vokser; den
+opr. Tilstand kan igen tilvejebringes ved
+Udglødning.
+
+Endnu et Fænomen maa nævnes, som har
+Bet. for Materialernes Elasticitetsforhold,
+nemlig den <sp>elastiske Eftervirkning</sp>;
+herved forstaas, at den af en ydre Kraft frembragte
+Formforandring ogsaa er en Funktion af Tiden,
+saaledes at der kræves en vis Tid, og for nogle
+Materialer som Zink, Tin o. l. endog en meget
+lang Tid, inden den hele til Kraften svarende
+Formforandring har indstillet sig. Heraf
+følger det, at meget hurtigt forløbende
+Paavirkninger svarer til forholdsvis mindre
+Formforandringer end Kræfter, der virker i længere
+Tid, hvilket er af Bet. ved Bedømmelsen af en
+Konstruktions Modstandsevne mod f. Eks. Stød;
+og endvidere, at meget langvarige
+Paavirkninger, f. Eks. fra Egenvægten, kan frembringe
+Brud, selv om dette ikke kan hænde med en
+kortvarig Paavirkning af samme Størrelse.
+Nogen meget stor Bet. har dette sidstn. Fænomen
+dog ikke for de alm. Konstruktionsmaterialer,
+undtagen maaske for Træ.
+
+De elastiske- Formforandringer kan være af
+to væsentlig forsk. Slags efter som nemlig
+Paavirkningen er et direkte <sp>Træk</sp> ell. <sp>Tryk</sp>
+(Formforandringen er en <sp>Længde</sp> ændring)
+ell. en <sp>Forskydning</sp> (Formforandringen er
+en <sp>Vinkel</sp> ændring, saaledes at f. Eks. et
+Kvadrat ændres til en Rhombe o. s. v.).
+Ligesom Hooke's Lov ovf. udtrykkes ved Ligningen
+σ=Eε, der gælder for en
+<sp>Normalspænding</sp> σ (d. v. s. Træk- ell. Trykspænding) og
+den tilsvarende Forlængelse pr Længdeenhed
+(ε), saaledes sætter man ved en
+Forskydningspaavirkning: τ=Gφ hvor τ er
+Forskydningsspændingen, φ den tilsvarende Vinkelændring
+og G
+<sp>Forskydnings-Elasticitetskoëfficienten</sp>. Til disse to fundamentale
+Paavirkningsmaader kan alle andre, mere
+sammensatte, som f. Eks. Bøjning, Vridning o. s. v.,
+føres tilbage ad teoretisk Vej, og herom drejer

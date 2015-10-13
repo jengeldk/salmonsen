@@ -1,0 +1,182 @@
+deres Beliggenhed i Forhold til hinanden,
+substitueres paa ret forsk. Maade. S. har i det
+hele taget en meget væsentlig Bet. for kem.
+Synteser og Teorier. Dumas var den første,
+der klarlagde Problemet (1834); senere har det
+stadig givet rig Anledning til Stridigheder bl.
+Kemikerne (se <sp>Kemi</sp>, S. 772).
+<i>S. P.</i>
+</chapter>
+
+<chapter name="Substitutionsteori">
+<b>Substitutionsteori</b> (mat.). I S. forstaas ved
+en Substitution den Operation i en Række
+Størrelser at erstatte hver af dem med en af disse
+samme Størrelser, saaledes at en Permutation
+af Størrelserne gaar over til en anden
+Permutation; ved (<i>bdca abcd</i>) betegnes den Substitution,
+der lader <i>c</i> uforandret, men erstatter <i>a, b, d,</i>
+med henh. <i>b, d, a</i>. En Samling Substitutioner
+af den Beskaffenhed, at Anvendelsen af to af
+dem efter hinanden altid har samme Virkning
+som Anvendelsen af en tredje Substitution i
+Samlingen, kaldes en <sp>Gruppe</sp>. S. er Læren
+om disse Substitutioners og Gruppers
+Egenskaber; den er udviklet af Cauchy og Galois og
+danner Grundlaget for sidstnævntes
+Undersøgelse af Betingelsen for, at en algebraisk
+Ligning kan løses algebraisk.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Substrat">
+<b>Substrat</b> (lat.), Underlag, Grundlag; det til
+Grund liggende; Tingen selv uden tilfældige
+Egenskaber, Bærer af Egenskaber; Emne, Stof,
+Substans. — <sp>Næringssubstrat</sp> er det
+Stof, man benytter til at dyrke Bakterier paa.
+<i>Edg. R.</i>
+
+<sp>Substrat</sp> bruges i nyere
+Sprogvidenskab om et Sprog, der ved et Sprogskifte
+har efterladt sig Spor i det nyantagne Sprog.
+Den, der, efter at have lært sit
+Modersmaal, tilegner sig et fremmed Sprog, vil i
+næsten alle Tilfælde bevare noget af Modersmaalet
+i den Maade, hvorpaa han taler det ny Sprog,
+saa at han ikke helt kan frigøre sig for
+Udtaleejendommeligheder, især i saadanne Ting som
+Tonefald, Lydlængde o. s. v. Man vil i Reglen
+let kunne genkende det eng., tyske ell. russiske
+S. i en Englænders, Tyskers ell. Russers Maade
+at tale Dansk paa, selv efter mange Aars
+Ophold her i Landet. Dette benyttes nu til at
+forklare forsk. Udviklinger i Sprog, der i Tidernes
+Løb har bredt sig ud over deres opr. Omraade.
+Saaledes henfører man Forskellen mellem
+Fransk og Spansk til et gallisk og iberisk S.
+Hvor stor Bet. man skal tillægge disse forsk. S.
+ved Sprogspaltninger, har været og er ret
+omtvistet; nogle Sprogforskere ser deri
+Hovedaarsagen til Sprogenes forsk. Udvikling, saaledes
+Meillet, Feist og Hirt; den sidste mener
+endogsaa, at alle smaa Dialektgrænser i Tyskland
+falder sammen med Grænser mellem Ursprog, der
+helt er gaaet tabt, og hvis Navne man ikke
+engang kender. Det er ret alm. at antage, at
+Lydforskydningen (s. d.) skyldes et (keltisk? finsk?)
+S. Andre Sprogforskere ser dog med stor
+Skepsis paa disse Teorier, især i deres videste og
+vildeste Udformninger. (<sp>Litt</sp>.: <sp>V. Brøndal</sp>,
+»Substrater og Laan« [Kbhvn 1917]; <sp>O.
+Jespersen</sp>, <i>Language</i> [London 1922]).
+<i>O. Jsp.</i>
+</chapter>
+
+<chapter name="Substruktion">
+<b>Substruktion</b> (lat.), Underbygning,
+Grundbygning.
+</chapter>
+
+<chapter name="Subsum(p)tion">
+<b>Subsum(p)tion</b> er Indordning af noget
+mindre alment, eventuelt et Enkelttilfælde, under
+noget mere alment, f. Eks. Begrebet Abes
+Indordning under Begrebet Pattedyr, eller
+Indordning af Dommen: Peter er dødelig, under
+Dommen: Alle Mennesker er dødelige.
+<i>Edg. R.</i>
+</chapter>
+
+<chapter name="Subtangent">
+<b>Subtangent</b> (mat.). Naar en Kurve er
+henført til et retvinklet Koordinatsystem, forstaas
+ved S. for et givet Punkt paa Kurven Stykket
+paa Abscisseaksen fra Punktets Projektion til
+Skæringspunktet med Tangenten i Punktet. I
+Polarkoordinater er Polarsubtangenten Stykket
+fra Polen til Tangentens Skæringspunkt med den
+vinkelrette paa Radius vektor i Polen.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="subtil">
+<b>subtil</b> (lat.), fin; spidsfindig. <sp>Subtilitet</sp>,
+Spidsfindighed.
+</chapter>
+
+<chapter name="Subtrahend, subtrahere">
+<b>Subtrahend, subtrahere,</b> se <sp>Subtraktion</sp>.
+</chapter>
+
+<chapter name="Subtraktion">
+<b>Subtraktion</b> (mat.) kaldes den Regningsart,
+der gaar ud paa at finde et Tal <i>x</i>, der adderet
+til et givet Tal <i>b</i> frembringer et andet givet Tal
+<i>a</i>. Denne Opgave har efter Indførelsen af Nul
+og de negative Tal (s. d.) altid een Løsning,
+selv om <i>b</i> er lig med ell. større end <i>a</i> (5 — 7 =
+— 2, idet 7 + [— 2] = 5). <i>a</i> kaldes
+<sp>Minuenden</sp>, <i>b</i> <sp>Subtrahenden</sp>, <i>x</i>
+<sp>Differensen</sp>, Forskellen mellem <i>a</i> og <i>b</i> eller
+<sp>Resten</sp>; Operationen hedder at <sp>subtrahere</sp>
+<i>b</i> fra <i>a</i> ell. trække <i>b</i> fra <i>a</i>. Resultatet af
+denne S. skrives <i>a</i> — <i>b</i> ell. <i>a</i> ÷ <i>b</i>, hvor — og
+÷ kaldes <sp>Minustegnet</sp>. Man prøver
+Rigtigheden af en S. ved at undersøge, om Resten
+adderet til Subtrahenden giver Minuenden;
+Reglerne for Udførelsen af S. vil altsaa følge af
+Reglerne for Addition. Man subtraherer et
+negativt Tal ved at addere det tilsvarende
+positive (12 - [- 7] = 12 + 7 = 19, fordi 12 + 7 +
+[— 7] = 12); ved S. af ensbenævnte Tal (f. Eks.
+Brøker med samme Nævner) subtraherer man
+de ubenævnte Tal (Tællerne) og føjer saa
+Benævningen til den fundne Rest.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Subtraktivmetoden">
+<b>Subtraktivmetoden,</b> se <sp>Lysfilter</sp>.
+</chapter>
+
+<chapter name="subtropisk">
+<b>subtropisk</b> kaldes Grænseomraadet mellem
+den tropiske og den tempererede Zone. Enkelte
+Plantegeografer benytter Ordet til at betegne
+den Del af den tropiske Zone, der nærmer sig
+til den varmttempererede og derfor ikke fuldt
+ud byder de samme Livsbetingelser for Planter
+og Mennesker som den øvrige tropiske Zone.
+Andre Plantegeografer benytter ligesom
+Klimatologerne s. som enstydigt med
+varmttempereret til at betegne den Zone, hvor
+Vinterkulden begynder at mærkes ved en kortvarig
+Standsning af Planternes Livsvirksomhed, dog
+uden at Frost og Sne er i Stand til at
+fremkalde en virkelig udpræget Hvileperiode. Som
+Grænser for den s. Zone kan omtr. sættes en
+Middeltemperatur for den koldeste Maaned af
+5° og 16°.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Subularia">
+<b>Subularia,</b> se <sp>Sylblad</sp>.
+</chapter>
+
+<chapter name="Subultus tendinum">
+<b>Subultus tendinum,</b> d. s. s. <sp>Senehoppen</sp>.
+</chapter>
+
+<chapter name="sub una specie">
+<b>sub una specie</b> (lat.: »under een Form«).
+Den rom.-kat. Nadverlære udformede sig i
+Middelalderens Løb derhen, at Nadvernydelsen
+blev indskrænket til Nydelsen af det ene
+Element, nemlig Brødet, saaledes at kun den
+fungerende Præst nød begge Elementer, Brød og
+Vin. Denne Nydelse, s. u. s., som endnu er den
+gængse i Romerkirken, vakte gentagne Gange
+stærk Modstand, saaledes navnlig hos
+Hussitterne, og man forlangte, at Nadvergæsterne

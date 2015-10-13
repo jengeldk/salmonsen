@@ -1,0 +1,152 @@
+opstillet en Del ortografiske, grammatiske og
+stilistiske Ejendommeligheder i de justinianske
+Tekster, der maatte røbe I. Men det er dog
+først de nyeste metodiske Undersøgelser, henh.
+af det klassiske Juristlatin og af den
+byzantinske Kancellistil, der har gjort det muligt
+gennem saadanne Kendetegn med blot nogenlunde
+Sikkerhed at afsløre I. Ogsaa selve Indholdet,
+manglende Logik, Svaghed i Argumentationen
+kan undertiden være sikre Kriterier. Endelig
+kan I. indiceres gennem aabenbare
+Anakronismer. I en Mængde Tilfælde havde de
+justinianske Kompilatorer indsat den gældende
+justinianske Ret i St f. den klassiske Rets forlængst
+forældede Institutter.
+
+Med den moderne systematiske
+Interpolationsforskning er en helt ny Periode i den
+eksegetiske Behandling af den klassiske Ret
+indledet. Paavisningen af en I. godtgør
+vel som Regel med Sikkerhed kun det
+negative, at det paagældende Juristfragment er
+fejlagtig gengivet. Den positive Rekonstruktion
+maa hyppigt bygges paa subjektive
+Formodninger. Men denne nye Videnskab har —
+supplerende den Mommsen'ske Tekstkritik — ved
+de nu allerede vundne sikre Resultater givet
+et betydningsfuldt Bidrag til Rensningen af de
+klassiske Tekster. I enhver Undersøgelse over
+klass. Ret vil fremtidig Interpolationsproblemet
+udgøre en væsentlig Bestanddel. De i
+Digesterne overleverede Fragmenter af de klass.
+Juristskrifter vil være Genstand for en dobbelt
+Prøvelse (den saakaldte <i>duplex interpretatio</i>).
+For det første maa de søges restituerede i
+deres opr. klassiske Form og Bet., dernæst i
+deres justinianske Ordlyd og Sammenhæng.
+
+I den seneste Tid er en tilsvarende
+Interpolationsforskning bleven overført paa de i
+<i>fragmenta Vaticana</i>, <i>collatio</i> og <i>consultatio</i>
+indeholdte klassiske Tekster. Ogsaa Spørgsmaalet
+om Ægtheden af disse efterklassiske
+Retssamlingers Ekscerpter af de klassiske Juristers Skr
+er af den nyeste Romanistik taget op til kritisk
+Undersøgelse. Det forberedende Arbejde er her
+paabegyndt af Italienerne Solazzi og Albertario
+— med Tilslutning hos Peters og Berger —
+ved en Paavisning af Uægtheden af enkelte
+Tekster af Ulpian i <i>fragmenta Vaticana</i>.
+Udgiverne af de efterklassiske private
+Retssamlinger var ikke saaledes som de justinianske
+Kompilatorer underkastede nogen
+Interpolationstvang. Men bevidst foretagne Ændringer i
+de klassiske Tekster kan forklares ved
+Optagelsen af de saakaldte <sp>Glossemer</sp>. Ved
+Udarbejdelsen har Udgiveren benyttet et
+glosseret Haandskrift af det paagældende klassiske
+Juristskrift (<i>Ulpian</i>, <i>Paulus</i>, <i>Papinian</i>). En senere
+Jurist har til eget Brug ell. til Brug ved
+Forelæsninger i sit Haandeksemplar tilføjet Glosser
+(kritiske Noter ell. Oplysninger om nye
+Retsregler). Og med disse senere Tilføjelser har da
+Udgiveren af Retssamlingen ved
+Ekscerperingen »forbedret« de optagne Juristfragmenter.
+(<sp>Litt</sp>.:, <sp>Eisele</sp>, »Zur Diagnostik der
+Interpolationen«, »Zeitschr. d. Savigny-Stift.« VII
+15 ff., IX 296 ff., XI 1 ff., XIII 18 ff., XVIII 1 ff.;
+<sp>Gradenwitz</sp>, »Interpolationen in den
+Pandekten« [Berlin 1887]; <sp>Henri Appleton</sp>,
+<i>Les interpolations dans les Pandedes et des
+méthodes propres à les découvrir</i> [Paris 1895];
+Kritisk Oversigt hos <sp>Jörs</sp>, Art. <i>Digesta</i> i
+Pauly-Wissowa. Realencyklopädie V 524 cfr. 539
+ff. Se i øvrigt <sp>C. W. Westrup</sp>, »Historisk
+Romerretsforskning« i »Studier fra Sprog og
+Oldtidsforskning« Nr 116 [1919], S. 18 ff.).
+<i>C. W. W.</i>
+</chapter>
+
+<chapter name="Interpolation">
+<b>Interpolation</b> ['en-] (mat.) gaar ud paa,
+naar der er givet Værdierne af en ubekendt
+Funktion <i>f(x)</i> for en Rk. Værdier af <i>x</i>,
+tilnærmelsesvis at bestemme <i>f(x)</i> for mellemliggende
+Værdier af <i>x</i> (se <sp>Differensregning</sp>). Denne
+Opgave løses ved Newton's Formel, der
+udtrykker <i>f(x)</i> ved et helt rationalt Polynomium
+med kendte Koefficienter + et Restled. Hvis
+Rækken af givne Værdier for <i>f(x)</i> har
+Differenser af <i>n</i> + 1'te Orden, der maa antages at
+være omtr. = 0, kan man lade Polynomiet
+være af <i>n</i>'te Grad, og Restleddet bliver da
+meget lille. En anden Interpolationsformel
+skyldes Lagrange. Ved den trigonometriske I. er
+Polynomiet erstattet med en Sum af Led af
+Formen <i>A cos nx</i> og <i>B sin nx</i>, hvor <i>A</i> og <i>B</i>
+er Konstanter, <i>n</i> et positivt helt Tal; herunder
+hører den harmoniske Analyse, der anvendes
+ved Behandling af Tidevande (s. d.).
+Geometrisk talt erstatter man Kurven <i>y</i> = <i>f(x)</i>, der
+skal indeholde en Række givne Punkter, med
+Kurvestykker, hvis Ligninger har Formen
+<i>y</i> = et med Hensyn til <i>x</i> helt rationalt
+Polynomium; i de Brigg'ske Logaritmetabeller, hvor
+Differenserne af første Orden kun varierer
+svagt, er disse Kurvestykker rette Linier, saa
+at Tilvækstene i Tallet og i Logaritmen er
+omtrent proportionale. En meget interessant
+Fremstilling af I. er T. N. Thiele's
+»Interpolationsrechnung« (1910). Forf. indfører her et
+nyt Hjælpemiddel, de reciproke Differenser,
+d. v. s. de omvendte Værdier af de
+dividerede Differenser, og kommer derved til en
+udvidet Newton's Formel, hvori det hele
+rationale Polynomium er erstattet af en brudden
+rational Funktion.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="interpolere">
+<b>interpolere</b> (lat.), forandre, forfalske; at
+foretage en <sp>Interpolation</sp> (s. d.).
+</chapter>
+
+<chapter name="interponere">
+<b>interponere</b> (lat.), skride ind, lægge sig
+imellem, mægle, gøre Indsigelse.
+</chapter>
+
+<chapter name="Interpretatio">
+<b>Interpretatio</b> (lat.), Fortolkning, i egl.
+romerretlig Bet. Analogi. Som Kilder, hvoraf den
+romerske Ret er opstaaet, møder vi Loven,
+Retssædvanen (det prætoriske Edikt) og
+Juristretten (Juristernes samstemmende Mening),
+<i>auctoritas prudentium</i>. Bortset fra det
+prætoriske Edikt skyldte den romerske Ret
+hovedsagelig Juristernes Virksomhed gennem <i>i.</i> sin
+Udvikling. Efter at den gammelromerske
+Sædvaneret i Lovens Form var bleven fastslaaet i
+de XII Tavler, blev Rettens videre Udvikling
+i det væsentlige overladt selve Retslivet. Det
+praktiske Liv krævede stadig nye Retsnormer.
+Uden videre at tilsidesætte en Bestemmelse i
+de XII Tavler for en ny, med Retslivets Krav
+stemmende Retsregel var imidlertid utænkeligt
+for gammelromersk Retsbevidsthed. De i de
+XII Tavler som <i>lex</i> formulerede Retssætninger
+betragtedes indtil Roms seneste Tid som
+ubrødelig Ret. Intet Bogstav maatte ændres.
+

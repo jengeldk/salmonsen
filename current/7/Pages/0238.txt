@@ -1,0 +1,142 @@
+<table>
+<td>Irland<td>Mænd<td>Kvinder<td>Hele Befolkningen<td>af 1000 Mænd<td>af 1000 Kvinder<td>Af 1000 i alt
+<td>Administration<td v2 r>103600<td v2 r>37500<td v2 r>141100<td v2 r>47.3<td v2 r>17.1<td v2 r>32.11
+<td>Liberale Erhverv
+<td>Tyende<td r>25800<td r>144900<td r>170700<td r>11.8<td r>65.9<td r>38.9
+<td>Handel og Transport<td r>101400<td r>9800<td r>111200<td r>46.3<td r>4.5<td r>25.3
+<td>Landbrug, Fiskeri<td r>721700<td r>59200<td r>780900<td r>329.2<td r>26.9<td r>177.9
+<td>Industri<td r>434700<td r>178700<td r>613400<td r>198.3<td r>81.3<td r>139.7
+<td>Uden Erhverv<td r>804800<td r>1768100<td r>2572900<td r>367.1<td r>804.3<td r>586.1
+<td r>Ialt<td r>2192000<td r>2198200<td r>4390200<td r>1000.0<td r>1000.0<td r>1000.0
+</table>
+
+Sluttelig skal ang. Erhvervsforholdene
+anføres nedenstaaende Oversigt, kun omfattende
+den erhvervsmæssigt beskæftigede Del af
+Befolkningen, der dels belyser Fordelingen i Løbet
+af de sidste Aartier, dels umiddelbart
+sammenstiller de 3 Lande.
+
+<table>
+<td>Tallene angivne i 1000<td>1891<td>1901<td>1911
+<td>England og Wales:<td><td><td>
+<td>Immat. Erhverv<td r>926<td r>973<td r>1220
+<td>Tyende<td r>1900<td r>1995<td r>2122
+<td>Handel og Transport<td r>1400<td r>1859<td r>2214
+<td>Landbrug, Fiskeri<td r>1337<td r>1152<td r>1261
+<td>Industri<td r>7336<td r>8350<td r>9468
+<td r>Ialt<td r>12899<td r>14329<td r>162885
+<td>Skotland:<td><td><td>
+<td>Immat. Erhverv<td r>111<td r>101<td r>129
+<td>Tyende<td r>203<td r>201<td r>201
+<td>Handel og Transport<td r>180<td r>246<td r>283
+<td>Landbrug, Fiskeri<td r>249<td r>237<td r>227
+<td>Industri<td r>1032<td r>1198<td r>1226
+<td r>Ialt<td r>1775<td r>1983<td r>2066
+<td>Irland:<td><td><td>
+<td>Immat. Erhverv<td r>214<td r>131<td r>141
+<td>Tyende<td r>255<td r>219<td r>171
+<td>Handel og Transport<td r>83<td r>98<td r>111
+<td>Landbrug, Fiskeri<td r>936<td r>876<td r>781
+<td>Industri<td r>656<td r>639<td r>613
+<td r>Ialt<td r>2144<td r>1963<td r>1817
+</table>
+
+<table>
+<td>Forholdstal:<td>1891<td>1901<td>1911
+<td>England og Wales:<td><td><td>
+<td>Immat. Erhverv<td r>71.8<td r>67.9<td r>74.9
+<td>Tyende<td r>147.3<td r>139.2<td r>130.3
+<td>Handel og Transport<td r>108.5<td r>129.7<td r>136.0
+<td>Landbrug, Fiskeri<td r>103.6<td r>80.4<td r>77.4
+<td>Industri<td r>568.8<td r>582.8<td r>581.4
+<td r>Ialt<td r>1000.0<td r>1000.0<td r>1000.0
+<td>Skotland:<td><td><td>
+<td>Immat. Erhverv<td r>62.5<td r>50.9<td r>62.4
+<td>Tyende<td r>114.4<td r>101.4<td r>97.3
+<td>Handel og Transport<td r>101.4<td r>124.0<td r>137.0
+<td>Landbrug, Fiskeri<td r>140.3<td r>119.5<td r>109.9
+<td>Industri<td r>581.4<td r>604.2<td r>593.4
+<td r>Ialt<td r>1000.0<td r>1000.0<td r>1000.0
+<td>Irland:<td><td><td>
+<td>Immat. Erhverv<td r>99.8<td r>66.7<td r>77.6
+<td>Tyende<td r>118.9<td r>111.6<td r>94.1
+<td>Handel og Transport<td r>38.7<td r>49.9<td r>61.1
+<td>Landbrug, Fiskeri<td r>436.6<td r>446.3<td r>429.8
+<td>Industri<td r>306.0<td r>325.5<td r>337.4
+<td r>Ialt<td r>1000.0<td r>1000.0<td r>1000.0
+</table>
+
+Den erhvervsmæssigt beskæftigede Del af
+Befolkningen, som Tabellen omfatter, udgør i alle
+Aarene c. 45 % af Befolkningen. Udviklingens
+Hovedtræk er de samme i alle andre Lande under
+europ. Kultur; først Landbrugets Fortrængen af
+Industrien, saa Omsætningserhvervenes Vækst paa
+begge de andre Hovederhvervs Bekostning. I
+Tallene for Storbritannien træder denne alm.
+Kulturudvikling tydeligt frem; i Irland har der dog
+endnu i det sidste Tiaar
+været Fremgang for Industrien. For alle 3 Lande
+under eet er 11 % beskæftiget ved Landbrug
+o. s. v. (1891: 14,7%), 56% ved Industri (1891:
+52,5) og 13 % ved Handel og Transport (1891:
+9,7 %). Naar Tyendeklassen viser en stadig, i
+alt Fald relativ Tilbagegang, staar det dels i
+Forbindelse med, at der bruges mindre
+fremmed Hjælp i Hjemmene, dels med, at
+Landbruget, der har det største Tyendehold, selv er
+i Tilbagegang. Tallene for immaterielt Erhverv:
+Forvaltning, Forsvar, liberale Erhverv o. l., er
+saa svingende, at der synes at have været fulgt
+noget forsk. Regler for denne Gruppes
+Afgrænsning ved de forsk. Tællinger.
+
+I Forbindelse med Erhvervsforholdene kan
+nævnes, at det offentlige Fattigvæsen i E. og
+Wales understøttede 762000 Personer i 1914;
+heraf var 260000 i Fattiganstalter, 102000 i
+Sindssygeasyler, Hospitaler o. l. St.; i Skotland var
+Tallet af Understøttede 106000, i Irland 73000.
+Fattigvæsenet kostede det Offentlige i England
+270, i Skotland 29 og i Irland 23 Mill. Kr.; disse
+Summer har holdt sig ret konstante i en
+Aarrække, hvortil naturligvis Udviklingen af det
+sociale Forsikringsvæsen (<i>National Insurance
+act of 1911</i>) og den offentlige
+Alderdomsunderstøttelse (<i>Old age pensions</i>, der indførtes ved
+Love af 1908 og 1911 efter samme Mønster
+som den danske), har bidraget.
+
+<sp>Befolknings-Bevægelser</sp>.
+Foran er væsentlig behandlet de 3 Landes
+Folketal i 1911, idet dog ogsaa Folkemængdens
+Fremgang i England og Skotland, dens
+Tilbagegang i Irland er blevet berørt. I det følgende
+skal hertil føjes nogle Bemærkninger om de
+enkelte Elementer i Befolkningsbevægelsen som
+Helhed: Ægteskaber, Fødsler og Dødsfald, Ind-
+og Udvandring.
+
+<table>
+<td>Gennemsnitlig<td>England-Wales<td>Skotland<td>Irland
+<td>Ægteskaber
+<td>1891-1895<td r>225400<td r>28000<td r>24100
+<td>1896-1900<td r>253400<td r>31800<td r>24700
+<td>1901-1905<td r>260200<td r>31800<td r>25100
+<td>1906-1910<td r>267900<td r>31800<td r>22500
+<td>1911<td r>274900<td r>31800<td r>23500
+<td>1912<td r>283800<td r>32500<td r>23300
+<td>1913<td r>286600<td r>33700<td r>22300
+<td>1914<td r>294100<td r>35100<td r>23700
+<td>Fødsler
+<td>1891-1895<td r>907900<td r>125800<td r>116600
+<td>1896-1900<td r>923200<td r>130200<td r>115500
+<td>1901-1905<td r>938700<td r>132400<td r>112500
+<td>1906-1910<td r>921000<td r>129000<td r>102400
+<td>1911<td r>881100<td r>121900<td r>101800
+<td>1912<td r>872700<td r>122700<td r>101000
+<td>1913<td r>881900<td r>120500<td r>100100
+<td>1914<td r>878800<td r>123900<td r>98800
+</table>
+

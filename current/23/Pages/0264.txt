@@ -1,0 +1,124 @@
+en Ofring o. s. v. Rimeligvis foretoges ogsaa en
+offentlig Ofring, dels paa Kapitolium, dels i en
+til T. viet Lund ved Laurentum, 6 Mil fra Rom,
+hvor antagelig den gamle Grænse var.
+<i>H. A. K.</i>
+</chapter>
+
+<chapter name="terminus a quo">
+<b>terminus a quo</b> (lat.), det Punkt ell. den
+Grænse, hvorfra noget regnes, i Modsætning til
+<i>t. ad quem</i>, den Grænse, hvortil noget
+regnes. Man taler ogsaa om <i>t. ante
+quem</i> og <i>t. post quem</i>, det Tidspunkt,
+før eller efter hvilket en Begivenhed
+maa have fundet Sted.
+<i>H. H. R.</i>
+</chapter>
+
+<chapter name="terminus executionis">
+<b>terminus executionis.</b> se
+<sp>Eksekutionsfrist</sp>.
+</chapter>
+
+<chapter name="terminus technicus">
+<b>terminus technicus</b> [-'tæk-] (lat.),
+teknisk Ord, Kunstudtryk.
+</chapter>
+
+<chapter name="Termionemission">
+<b>Termionemission</b>
+(<sp>Elektronemission</sp>). Opvarmes et fast
+Legeme til høj Temperatur, vil der til
+at begynde med frigøres baade
+positive og negative Ioner samt
+Elektroner fra Legemets Overflade. Men
+foregaar Opvarmningen i Vakuum —
+Glødelegemet bestaar da som Regel
+af en Metaltraad, der opvarmes ved
+Hjælp af en elektrisk Strøm — vil
+Emissionen, naar Opvarmningen har
+varet tilstrækkelig længe, gaa over til
+at bestaa saa godt som
+udelukkende af Elektroner. Der sker saa at sige
+en »Fordampning« af Elektroner fra
+det glødende Legemes Overflade. Antallet af
+Elektroner, der frigøres, er selvfølgelig
+proportionalt med den glødende Traads Overflade, og det
+vokser meget stærkt med Temperaturen. I
+Stedet for at tælle Antallet af Elektroner, som
+frigøres pr Sekund, kan man maale den Strøm,
+der faas, naar man opfanger samtlige de
+frigjorte Elektroner. Værdien af denne, regnet
+pr cm<sup>2</sup> af Traadens Overflade, kaldes
+Emissions- eller Mætningsstrømmen og er for
+Volframtraad angivet i nedenstaaende Figur 1 for
+Temperaturer mellem 1200° og 3000° Celcius.
+Man ser, at Emissionen stiger ganske
+overordentlig stærkt med Temperaturen.
+Metallerne giver ved samme Temperatur en desto
+større Elektronemission, jo mindre deres
+Elektronaffinitet er; men i det store og hele er
+ogsaa Metallernes Smeltepunkter desto lavere, jo
+lavere Elektronaffiniteten er. Disse Forhold er
+for fire Metallers Vedkommende vist i Fig. 2.
+
+T. har en stor teknisk Betydning og
+anvendes bl. a. i Elektronrør, der benyttes i
+Radioteknikken, i den almindelige Telegrafi og
+Telefoni, som Ensrettere, m. m. — Vort Kendskab
+til T. skyldes navnlig O. W. Richardson's og
+J. Langmuir's Arbejder.
+<i>P. O. P.</i>
+
+<img>Fig. 1. Elektronemissionen for Volfram.</img>
+
+<img>Fig. 2. Elektronemission fra Metallerne Cæsium (<i>Cs</i>), med
+Elektronaffiniteten <i>a</i> = 1,38 Volt, Kalcium (<i>Ca</i>) med <i>a</i> = 2,24
+Volt, Thorium (<i>Th</i>) med <i>a</i> = 2,94 Volt og Volfram (<i>W</i>) med
+<i>a</i> = 4,43 Volt. Metallernes Smeltepunkter er angivet
+forneden i Figuren.</img>
+</chapter>
+
+<chapter name="Termioner">
+<b>Termioner</b> kaldes de Elektroner, der
+udsendes fra glødende Legemer. Se
+<sp>Termionemission</sp>.
+<i>A. W. M.</i>
+</chapter>
+
+<chapter name="Termionrør">
+<b>Termionrør,</b> se <sp>Telefonforstærker</sp>.
+</chapter>
+
+<chapter name="termisk">
+<b>termisk</b> (gr.), som har med <sp>Temperatur</sp>
+at gøre. Termiske Egenskaber omtales under
+<sp>Frysning</sp>, <sp>Kogning</sp>, <sp>Smeltning</sp>,
+<sp>Temperatur</sp>, <sp>Varme</sp> o. fl. St.
+<i>(K. S. K.). A. W. M.</i>
+</chapter>
+
+<chapter name="termisk Analyse">
+<b>termisk Analyse</b> er en fysisk Metode til
+Undersøgelse af Ligevægtsforholdene i
+størknede Smeltemasser, som særlig har faaet
+Betydning ved Studiet af Metallegeringers
+Konstitution, hvor den sammen med
+Metalmikroskopien maa siges at udgøre de vigtigste
+eksperimentelle Hjælpemidler. I Korthed gaar
+den ud paa, at man opvarmer for Eksempel
+Legeringen til et Stykke over dens Smeltepunkt
+og derpaa afkøler den med en passende
+Hastighed, idet der samtidig røres rundt i den med
+et i Bunden tillukket smalt og tyndvægget Rør,
+f. Eks. af Kvarts eller Porcellæn, hvori der er
+indført de to fra hinanden isolerede Traade af
+et Termoelement, hvis Loddested befinder sig
+nær Rørets lukkede Ende og derved omtrent i
+Midten af Smeltemassen. Paa det med
+Termoelementet forbundne Millivoltmeter eller
+Potentiometer aflæses, f. Eks. hvert halve Minut,
+Temperaturerne i Metalmassen, og disse
+opføres paa et Stykke Millimeterpapir. Til en
+Begyndelse danner Punkterne en jævn Kurve,

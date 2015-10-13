@@ -1,0 +1,159 @@
+<chapter name="geologiske Undersøgelser">
+<b>geologiske Undersøgelser</b> foretages nu i
+saa godt som alle civiliserede Lande og er
+hovedsagelig knyttede til bestemte offentlige
+Institutioner. Hovedformaalet er ved Siden af
+rent videnskabelige geol. Specialundersøgelser
+en geol. Kortlægning af vedk. Lande. I
+Danmark oprettedes 1888 »Danmarks geologiske
+Undersøgelse« (s. d.), der fra 1917 er en
+permanent Institution med 3 Statsgeologer, hvoraf
+den ene tillige som Direktør leder Arbejdet, 2
+Afdelingsgeologer samt et vekslende Antal
+Assistenter.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="geologisk Formation">
+<b>geologisk Formation,</b> se <sp>Formation</sp>.
+</chapter>
+
+<chapter name="geologisk Profil">
+<b>geologisk Profil</b> er et lodret Snit gennem
+en Del af Jordoverfladen og kan enten være
+fremkommet ved Naturkræfters Virksomhed
+(navnlig ved Erosion f. Eks. langs Kysterne)
+ell. ved Menneskehaand (f. Eks. ved større
+Udgravninger). G. P. spiller en stor Rolle for den
+stratigrafiske Geologi, da de giver Oplysninger
+om de dybere liggende Jordlags Beskaffenhed
+og Lejringsforhold. Man søger derfor at afbilde
+dem i mindre Maalestok saa naturtro som
+muligt, men da Profilets Længde i Reglen er
+uforholdsmæssig stor i Forhold til dets Højde,
+formindsker man af praktiske Hensyn hyppig
+Højden i mindre Grad end Længden, hvorved hele
+Profilet bliver fortrukket, idet
+Hældningsvinklerne mellem de forsk. Lag bliver for store. Til
+Trods herfor kan man dog paa den Maade
+hurtig og klart tydeliggøre Lejringsforholdene.
+Hvor g. P. ikke forefindes i Naturen,
+konstruerer man ofte saadanne for derved at illustrere
+de Resultater ang. Lejringsforholdene, hvortil
+man ad anden Vej er kommet ved sine
+Undersøgelser.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Geomantik">
+<b>Geomantik</b> (gr.), Varseltagning af Jorden,
+af underjordiske Lyde, Knagen og Bragen,
+Jordskælv. Saadanne Varsler er iflg. Sagens
+Natur temmelig sjældne og dertil stedlig stærkt
+begrænsede; Ordet anvendes derfor ogsaa alm.
+som Betegnelse for en anden gl.
+Spaadomskunst, Punktérkunsten, hvortil Jord ell. Sand
+sædvanlig benyttedes.
+<i>Alfr. L.</i>
+</chapter>
+
+<chapter name="Geometer">
+<b>Geometer</b> (gr.) er en i andre Lande ret
+alm. benyttet Betegnelse for en Landmaaler,
+der beskæftiger sig med økonomisk Opmaaling,
+i Modsætning til Geodæt og Topograf, der
+beskæftiger sig med henholdsvis videnskabelige
+Jordmaallnger og topografiske Opmaalinger.
+<i>H. V. N.</i>
+</chapter>
+
+<chapter name="Geometri">
+<b>Geometri</b> (af gr. γῆ »Jorden« og μέτρον »Maal«)
+er det Afsnit af den rene Matematik, der
+beskæftiger sig med Rumstørrelserne ɔ: med
+Punkter, rette og krumme Linier, Flader og
+Legemer. Til dette Stof har man under G.'s
+algebraiske Behandling fundet det
+hensigtsmæssigt at føje nogle formelle Udvidelser
+(imaginære Figurdele, Rum med flere Dimensioner).
+
+De tidligst udviklede Afsnit af G. er den
+elementære Plangeometri og den elementære
+Rumgeometri. Den første behandler rette Linier,
+Cirkler og de plane Figurer, som de danner
+(Polygoner, Cirkelafsnit m. m.), og udvikler
+Sætninger om Længder og Vinkler paa disse
+Figurer, om deres Fladeindhold, om deres
+Kongruens, Symmetri og Ligedannethed. I den
+<sp>elementære Rumgeometri</sp> læres paa
+lignende Maade om Figurer, dannede af
+Punkter, rette Linier og Planer (Hjørner, Polyedre),
+samt om Cylindre, Kegler og Kugler, særlig om
+deres Rumfang og deres krumme Overfladers
+Arealer. De første Spor af G. træffer vi hos
+Ægypterne, der gennem Landmaaling og
+Bygningskunst lededes til at beskæftige sig med
+Plangeometri. Grækerne, hvis tidligste
+matematiske Forfattere har været under
+Paavirkning af Ægypterne, hævede den elementære G.
+omtr. til dens nuværende Standpunkt; i
+Eukleides' Elementer findes det meste af, hvad
+de har ydet, samlet i en skarp logisk
+Fremstilling, støttet til bestemt udtalte Aksiomer.
+Men den græske G. naaede væsentlig ud over
+det elementære. Apollonios gav en ret
+fuldstændig Keglesnitslære, til Dels ved samme
+Fremgangsmaade som den analytiske G., dog
+at de Operationer med Koordinaterne, som er
+udtrykte i vore Ligninger, hos ham fremstilles
+ved geometriske Konstruktioner. Archimedes
+bestemte, mest ved infinitesimale Metoder,
+plane Fladeindhold, begrænsede af Keglesnit og
+enkelte andre Kurver, Arealet af Kuglens
+Overflade samt Rumfang af Legemer, begrænsede af
+Omdrejningskeglesnitsflader. Ogsaa med den
+<sp>plane</sp> og <sp>sfæriske Trigonometri</sp>
+beskæftigede Grækerne sig for de astronomiske
+Anvendelsers Skyld.
+
+Med de nævnte store Matematikere
+kulminerede den græske G., saa at den efter dem ikke
+har noget betydeligere Fremskridt at opvise.
+Inderne berigede ikke G., og hos Araberne
+findes kun i Trigonometrien noget væsentlig nyt.
+Det samme maa siges om de europæiske
+Nationers Bidrag til G. i Middelalderen, og da en
+stærk Udvikling af Matematikken, i Europa
+begyndte med den nyere Tid, var det inden for
+Algebraen, at den først viste sig.
+
+Behandlingen af G. genoptoges i 17. Aarh.
+af Desargues, Pascal o. fl., der ved at anvende
+Projektion baade fortsatte den græske G., hvori
+der fandtes Spirer til denne Metode, og blev
+tidlige Forløbere for 19. Aarh.'s
+Projektivgeometri. Det var overvejende Keglesnitslæren,
+der udvikledes. Men denne Undersøgelsesmaade
+blev stillet i Skygge af Algebraens Anvendelse
+paa G., saaledes som den fremtraadte i
+Descartes' <sp>analytiske G.</sp> (1637) og dennes
+Udvidelse til Rummet. Paa disse fandt den nys
+opfundne Differential- og Integralregning en
+rig Anvendelse, idet den gav Midlerne til
+Bestemmelse af Tangenter og Tangentplaner,
+Krumning, Buelængder, Arealer, Rumfang m.
+m. De derhen hørende Opgaver lagde
+naturligvis i høj Grad Beslag paa Matematikernes
+Arbejde.
+
+Den <sp>syntetiske G.</sp>, som den ikke
+analytiske hyppig kaldes, uagtet hverken den ell.
+den analytiske G. holder sig strengt til enten
+den analytiske ell. den syntetiske Metode (se
+<sp>Analyse</sp>), kom først i Flor igen i Beg. af 19.
+Aarh., efter at man gennem Monge's
+<sp>Deskriptivgeometri</sp> var blevet fortrolig med
+Konstruktioner i Rummet. Det var
+<sp>Projektivgeometrien</sp>, der nu ved Poncelet's
+fortrinlige Arbejder tog et stærkt Opsving. Dens
+Metode er at overføre Egenskaber fra en Figur til

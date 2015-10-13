@@ -1,0 +1,160 @@
+Ian, efter hvis Død han fik Overkommandoen
+og udnævntes til Generalløjtnant. 8. Septbr 1855
+førte han det mislykkede Angreb paa den store
+Redan og afskedigedes derefter 15. Oktbr med
+Generalstitel.
+<i>(B. P. B.). E. C.</i>
+</chapter>
+
+<chapter name="Simpson, James Young">
+<b>Simpson</b> ['sim(p)s<sub>ə</sub>n], <sp>James Young</sp>,
+skotsk Obstetritiker og Gynækolog, f. 7. Juni
+1811 i Bathgate, d. 6. Maj 1870 i Edinburgh. S.
+var opr. i Bagerlære, men begyndte at studere
+Medicin 1827, blev <i>Dr. med.</i> 1832,
+Senior-Præsident for <i>Royal Med. Soc. of Edinburgh</i>, og 1839
+Prof. i Fødselshjælp. Først af alle anvendte han
+8. Novbr 1847 Kloroform som
+Bedøvelsesmiddel, og han indførte en hel Del ny
+Instrumenter baade i Obstetrikken og i Gynækologien,
+saaledes Edinburgh-Tangen, S.'s Uterinsonde.
+Han var ogsaa bl. de første, der anvendte
+Metaltraadssyning (1858), og han indførte
+Dilatation af <i>collum uteri</i>. Han skrev bl. a. om
+Fosterets Patologi, om Hermafroditisme, men
+tillige om Arkæologi og med. Historie
+(»Spedalskheden i Skotland«, 1841—42). S. indførte
+Anvendelsen af Pavillon-Hospitaler og udsendte
+statistiske Oversigter over Udfaldet af de store
+Operationer. S.'s Afh. <i>Anæsthesia, or the
+employment of Chloroform and ether in surgery,
+midwifery etc.</i> (1849), er ikke den opr.
+Beretning. Denne (se <i>Memoirs and contributions</i>, II)
+hed <i>Account of a new anæsthetic agent as a
+substitute for sulphuric ether in surgery and
+midwifery, communicated to Edinburgh
+medico-chir. Society 11th Novbr 1848</i>. S.'s Afh.
+udgaves med Titel <i>The obstetric memoirs and
+contributions</i> (1855—56), <i>Clinical lectures on
+diseases of women</i> (1863) og <i>S. works</i>, I—III
+(1871—72). S. er tillige kendt som Forkæmper
+for Akupressuren.
+<i>J. S. J.</i>
+</chapter>
+
+<chapter name="Simpson, Thomas">
+<b>Simpson</b> ['sim(p)s<sub>ə</sub>n], <sp>Thomas</sp>, eng.
+Matematiker (1710—61), var fra 1743 Professor i
+Matematik ved Militærskolen i Woolwich. Han
+har bl. a. skrevet <i>A new treatise on fluxions</i>
+(1737), senere (1750) udkommet i udvidet
+Skikkelse under Titlen <i>Doctrine and applications
+of fluxions, The nature and laws of chance</i>
+(1740), videre <i>An elementary treatise of algebra</i>
+(1745, 8. Udg. 1804) o. fl. ansete Lærebøger.
+Den efter ham benævnte S.'s Formel er
+allerede opstillet tidligere, nemlig 1668 af James
+Gregory.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Simpson, William">
+<b>Simpson</b> ['sim(p)s<sub>ə</sub>n], <sp>William</sp>, eng. Tegner,
+Maler og Litograf (1823—99). S. blev
+Tegner-Journalisten <i>par excellence</i>, paa Færde viden
+om, som Øjenvidne til Krim-Krigen, ved
+Sues-Kanalens og Simplon-Tunnelens Aabning, paa
+Bjergbestigninger i Himalaja og Rejse Jorden
+rundt. Sine Indtryk gengav han i Tegninger
+(og Beretninger), der snart blev berømte i
+England: Tegningerne fra Krim-Krigen (litograferet
+for <i>Pall Mall</i>), de mange Illustrationer til <i>Ill.
+London News</i> etc. Resultatet af hans ind. Rejse
+var <i>India illustrated</i> (1859 ff.) og talrige
+Prospekter (ind. Akvarel i S.-Kensington-Mus.).
+<i>A. Hk.</i>
+</chapter>
+
+<chapter name="Simpsons Formel">
+<b>Simpsons Formel</b> ['sim(p)s<sub>ə</sub>ns-] (se
+<sp>Simpson, Th.</sp>) tjener til tilnærmet Beregning af
+Arealer ell. mere alm. af bestemte Integraler.
+Den kan direkte anvendes paa et plant Areal,
+begrænset af en Kurve, Abscisseaksen i et
+vilkaarligt retvinklet Koordinatsystem og
+Ordinaterne til to af Kurvens Punkter; det
+forudsættes, at den begrænsende Bue ikke skærer
+Abscisseaksen, og at dens Ordinater er positive
+og kun har deres Endepunkter fælles med Buen.
+Andre Arealer kan sammensættes af Arealer af
+denne Beskaffenhed. Deles det begrænsende
+Stykke af Abscisseaksen i et lige Antal (2n)
+lige store Dele, hver = <i>h</i>, og betegnes de
+begrænsende Ordinater ved <i>y</i><sub>0</sub> og <i>y</i><sub>2n</sub>,
+Ordinaterne i Delingspunkterne ved <i>y</i><sub>1</sub>, <i>y</i><sub>2</sub>, <i>y</i><sub>3</sub> . . .
+<i>y</i><sub>2n—1</sub>, kan Arealet med Tilnærmelse
+udtrykkes ved:
+h/3 [<i>y</i><sub>0</sub> + <i>y</i><sub>2n</sub> + 2 (<i>y</i><sub>2</sub> + <i>y</i><sub>4</sub> + ... + <i>y</i><sub>2n—2</sub>) +
+4 (<i>y</i><sub>1</sub> + <i>y</i><sub>8</sub> + ... + <i>y</i><sub>2n—1</sub>)]; det vilde være
+nøjagtig = denne Størrelse, hvis de begrænsende
+Buestykker mellem <i>y</i><sub>0</sub> og <i>y</i><sub>2</sub>, <i>y</i><sub>2</sub> og <i>y</i><sub>4</sub>, o. s. v.
+var Buer paa Parabler med Akser ≠
+Ordinataksen lagte henh. gennem Endepunkterne
+af <i>y</i><sub>0</sub> <i>y</i><sub>1</sub> <i>y</i><sub>2</sub>, <i>y</i><sub>2</sub> <i>y</i><sub>3</sub> <i>y</i><sub>4</sub> o. s. v. Fremgangsmaaden
+kan anvendes ved Beregning af et vilkaarlig
+bestemt Integral, idet dette kan opfattes som
+udtrykkende et Areal. S. F. har stor Bet. i
+saadanne praktiske Anvendelser, hvor
+Arealbestemmelsen ved Integration {se
+<sp>Integralregning</sp>) er umulig, f. Eks. naar den
+begrænsende Kurve ikke er givet ved en
+Ligning, men foreligger tegnet (som ved
+Tegninger til Skibe, Huse m. m., Kort), eller naar
+dens Ordinat er en tabellarisk bestemt
+Funktion af Abscissen.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Simpsons Land">
+<b>Simpsons Land</b> ['sim(p)s<sub>ə</sub>ns-], se
+<sp>Nordpolarlande</sp>.
+</chapter>
+
+<chapter name="simpulum">
+<b>simpulum</b> (lat.), en Øseske til at øse Vin med.
+</chapter>
+
+<chapter name="Simrishamn">
+<b>Simrishamn</b> (<sp>Cimbrishamn</sp>), Havneby
+i det sydøstlige Skåne, Kristianstads Län, med
+(1925) 2411 Indb. S. er en stille By med gl.
+Præg, krogede Gader og lave Huse. Der findes
+lidt Industri, særlig Lædervarer. Skibsfarten
+er i de senere Aar ophjulpet noget ved de ny
+Havneanlæg, som afsluttedes 1910. S. havde
+tidligere en betydelig Flaade af Sejlskibe, som
+nu imidlertid er ophugget ell. har faaet andet
+Hjemsted. En særlig Fiskerihavn benyttes
+stærkt af blekingske Fiskere under
+Sildefiskeriet. S. har en Stikbane fra Stationen
+Tomelilla paa Ystad—Eslöfsbanen. Byen omtales c.
+1300 som Symershaffn og senere som
+Sømmershaffn, Simbershaffn, Cimbrishamn og hedder
+nu officielt S.
+<i>M. H-n.</i>
+</chapter>
+
+<chapter name="Simrock, Karl Joseph">
+<b>Simrock</b> ['zemråk], <sp>Karl Joseph</sp>, tysk
+Digter, Oversætter og Germanist, f. i Bonn 18.
+Aug. 1802, d. smst. 18. Juli 1876. Han studerede
+Jura og Germanistik i Bonn og fortsatte sine
+sproglige Studier i Berlin, især under
+Lachmann. 1826 blev han Sagfører ved
+Kammerretten. Hans første større litterære Arbejde
+var en metrisk Overs. af »Nibelungenlied«
+(1827, 58. Opl. 1906), der vakte Opsigt og stor
+Udbredelse, da Publikum blev grebet af
+Interesse for det tyske Nationaldigt. Senere fulgte
+Hartmann von Aue's »Der arme Heinrich«
+(1830, 2. Opl. 1875). Da S. havde forherliget

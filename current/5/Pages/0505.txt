@@ -1,0 +1,100 @@
+Udstrømning undgaaet. Dampen indlades gennem
+Ventiler ved hver Cylinderende, medens
+Udstrømningen sker gennem Porte ved Cylinderens
+Midte. Stemplet, der er længere end i en alm.
+D., besørger selv Aabningen og Lukningen af
+disse Porte. I Modsætning til de tidligere nævnte
+D. gaar Kraftdampen og Spildedampen ikke
+skiftevis gennem de samme Dampgange, men
+Dampen kommer stadig ind ved Cylinderens
+Ende og gaar ud ved Cylinder midten, og
+Maskinen har derfor faaet Navnet Jævnstrøms-D.
+- Temperatursvingningerne og de deraf flg.
+Tab bliver mindre og et større
+Ekspansionsforhold kan anvendes, hvorfor saadanne Maskiner
+arbejder meget økonomisk; men de har dog
+p. Gr. a. forsk. praktiske Mangler hidtil ikke
+faaet nogen større Udbredelse.
+
+Ved visse Pumper (f. Eks. <sp>Worthington</sp>,
+<sp>Blake</sp>, <sp>Weir</sp>, <sp>Oddie</sp>), hvor der ikke finder
+nogen Omsætning til roterende Bevægelse Sted,
+bevæges Glideren ved særlige Stanganordninger
+e. l. Ved <sp>Damphamre</sp> bevæges Glideren
+ved Haandkraft.
+
+<sp>D.'s Cylinder</sp> er hyppig omgivet af en
+<sp>Damptrøje</sp>, hvortil der ledes Damp. Derved
+opvarmes Cylinderen, hvilket kan være af Bet.
+for Økonomien, ligesom D.'s Klargøring derved
+kan foregaa hurtigere. Cylinderen beklædes med
+et varmeisolerende Lag og forsynes med
+<sp>Armatur</sp> til Aftapning af Vand, til Maaling af
+Tryk og Hestekraft (se <sp>Trykmaalere</sp> og
+<sp>Indikatorer</sp>) samt med
+<sp>Sikkerhedsventiler</sp> (s. d.).
+
+Hvor Stempelstangen gaar gennem
+Cylinderen, anbringes en <sp>Pakdaase</sp>, der gøres
+damptæt ved Hjælp af blød Pakning (Asbest
+og lignende) ell. i vore Dage ofte ved
+metallisk Pakning. Moderne Pakdaaser er »elastiske«,
+saa at de trods Slid ell. smaa Unøjagtigheder
+dog holder tæt. De kan efterspændes, eventuelt
+med et særligt Tilspændingsapparat. Undertiden
+gøres de »selvtilspændende« ved Hjælp af
+Fjedre. Ved højt Tryk og især ved overhedet Damp
+er Pakdaasernes Tæthed og Holdbarhed af stor
+Vigtighed.
+
+<sp>Stempler</sp> og Stempelglidere tætnes i
+Reglen ved indlagte, fjedrende Metalringe.
+Ventilerne i Ventil-D. maa konstrueres og forarbejdes
+særlig godt for at være tætte. Ofte har de to
+ell. fl. Sæder. Ventilspindlerne har lange Styr
+og tætnes i Reglen ved mange, smaa Riller
+(<sp>Labyrinttætning</sp>).
+
+D.'s forsk. Hoveddele anbringes paa et
+<sp>Fundament</sp>. I dette er saaledes Krumtapakslens
+Lejer, <sp>Hovedlejerne</sp>, anbragte. Ved
+staaende Maskiner bæres Cylindrene af Stativer
+ell. Søjler. Krydshovedets <sp>Styreplaner</sp>
+anbringes paa Fundamentet ell. Stativerne. Ved
+liggende D. anvendes ofte det saakaldte
+<sp>Bajonetstativ</sp>.
+
+<sp>Kondensatoren</sp> kan være bygget
+sammen med D. (Fig. 25), men ofte er den adskilt
+fra denne (Fig. 21). Det samme gælder D.'s
+<sp>Luftpumpe</sp>, <sp>Fødepumpe</sp> samt Pumper
+for Svalevand til Overflade-Kondensatoren
+(<sp>Cirkulationspumper</sp>).
+
+De forsk. bevægende Dele <sp>smøres</sp> med Olie
+ved Hjælp af særlige Smøreapparater. Ved høje
+Omdrejningstal kan det tillige blive nødvendigt
+at <sp>vandkøle</sp> Lejer, Styreplaner o. s. v.
+
+De bevægende Dele i smaa hurtiggaaende
+Maskiner anbringes ofte i et <sp>lukket Hus</sp> og
+smøres ved at bevæge sig i et Oliebad (se Fig.
+23) ell. ved Hjælp af en særlig Oliepumpe.
+Cylindre, Glidere, Fundamenter o. s. v. udføres i
+Reglen af <sp>Støbejern</sp>, de bevægende Dele af
+<sp>Siemens-Martin-Staal</sp>, Lejer, Armatur
+o. s. v. af <sp>Bronze</sp> ell. <sp>Messing</sp>, og
+Slidflader af <sp>hvidt Metal</sp>. I Krigsskibsmaskiner,
+der skal have stor Styrke og ringe Vægt,
+anvendes kun lidt Støbejern, men meget Staal,
+eventuelt særlig stærkt Staal som
+<sp>Nikkelstaal</sp> o. l. samt stærke
+<sp>Bronzelegeringer</sp>.
+
+Efter sin Anvendelse kan D. deles i følgende
+Grupper: <sp>fast anbragte Land-D.</sp>,
+<sp>transportable D.</sp> (<sp>Lokomobiler</sp> og
+<sp>Lokomotiver</sp>) og <sp>Skibs-D</sp>.
+
+<img>Fig. 19. Lentz-Styring.</img>
+<img>Fig. 20. Stumpf's Jævnstrømsmaskine.</img>

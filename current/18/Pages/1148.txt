@@ -1,0 +1,142 @@
+Ag, Au og Zn, Cd, Hg er det omvendte derimod
+Tilfældet.
+
+Som Følge af Elektroaffinitetens regelmæssige
+Forandring, baade naar man i det p. S. bevæger
+sig mod højre, og naar man gaar nedad i
+Grupperne, vil der findes en Del Analogier
+mellem Stoffer i de forsk. Grupper. Som
+Eksempel skal nævnes den velkendte Lighed
+mellem Li- og Mg-Salte og mellem Be, Al og Ti.
+Desuden er der ofte, især ved de mere
+komplicerede, komplekse Salte, en iøjnefaldende
+Lighed mellem Naboelementer i det p. S. Ved de
+komplekse Forbindelser (s. d.) er
+Valenskræfterne imidlertid af en noget anden Karakter
+end ved de simplere Forbindelser, idet andre
+Forhold end Grundstoffernes Elektroaffinitet gør
+sig gældende.
+
+Det vilde føre for langt i Detailler at komme
+ind paa, hvorledes en Mængde forsk. af
+Stoffernes Egenskaber kan diskuteres i Tilknytning
+til det p. S. Af saadanne Egenskaber skal blot
+nævnes Krystalform (Isomorfi), Smelte- og
+Kogepunkter, Haardhed og Udvidelseskoefficient,
+Farve af Salte, termokemiske Forhold o. s. v.
+
+Et interessant Eksempel paa Forudsigelse af
+et Grundstofs Egenskaber frembyder
+Opdagelsen af Grundstoffet Nr. 72, Hafnium. P. Gr. a.
+de Teorier, som <sp>Bohr</sp> havde udviklet om det
+p. S., var Spørgsmaalet om det indtil da
+ukendte Grundstof Nr. 72's kem. Egenskaber opstaaet.
+Den fr. Kemiker <sp>Urbain</sp> mente at have
+fundet dette Grundstof, og at det havde
+Karakteren af en sjælden Jordart, d. v. s. at det var
+tregyldigt. En nøjere Betragtning af det p. S.,
+især paa Grundlag af de Bohr'ske Teorier,
+viser, at Grundstoffet 72 maa ligne Nr 40,
+Zirkonium. Ved röntgenspektroskopisk Analyse af
+Zirkonmineraler fandt <sp>Coster</sp> & <sp>Hevesy</sp>
+da ogsaa straks de Spektrallinier, der efter
+Moseley's Lov kan beregnes for Grundstoffet 72.
+Dette Stof (kaldtes Hafnium (eller Hafnia), da
+det er opdaget i Kjøbenhavn, og er, som det
+nøjere Studium af dets kem. Egenskaber viser,
+rent firegyldigt som Zirkonium. Hafniums
+Lighed med Zirkonihim er endda saa stor, at
+Adskillelsen af Hafnium fra Zirkonium er yderst
+vanskelig, lige saa vanskelig som Adskillelsen
+af to sjældne Jordarter. De øvrige manglende
+Grundstoffer, Numrene 43, 61, 75, 85 og 87 vil
+det antagelig blive vanskeligt at finde. De
+Grundstoffer, der har ulige Atomnumre, er nemlig,
+hvad der især er paavist af <sp>W. D. Harkins</sp>
+og <sp>V. M. Goldschmidt</sp>, langt sjældnere
+end Stofferne med lige Atomnummer.
+
+Ved en Betragtning af det p. S. ud fra de fys.
+Teorier om Atombygningen fremkommer der
+mange Punkter af største Interesse. Efter den
+<sp>Rutherford-Bohr'ske Atommodel</sp> (se
+<sp>Atommodel</sp>) bestaar et Atom af en
+positivt ladet Atomkerne, omkr. hvilken negativt
+ladede Elektroner bevæger sig. I Kernen
+sidder hele Atomets Vægt samlet, og Kernens
+positive Ladning vil i et normalt uforstyrret Atom
+blive neutraliseret af Elektronernes Ladninger.
+Antallet af Elektroner, der er nødvendige til
+at neutralisere Kernens Ladning, er lig med
+Grundstoffets Atomnummer. Elektronerne
+bevæger sig i Baner omkring Kernen; disse Baner
+er nærmere fastlagte ved Kvanteteoriens Love
+(se <sp>Kvanteteori</sp>).
+
+Atomernes Egenskaber deles naturligt i de
+Egenskaber, der hidrører fra Atomkernens
+Masse og Bygning (Atomvægten, de
+radioaktive Egenskaber), og de Egenskaber, der
+hidrører fra Elektronerne, deres Antal og deres
+Baners indbyrdes Stilling. Stoffernes kem.
+Egenskaber er fuldstændigt bestemt af Elektronernes
+Konfiguration; man kender Atomer med samme
+Antal ydre Elektroner, samme kem.
+Egenskaber, men med Atomkerner af forskellig Vægt
+(<sp>isotope Stoffer</sp>, se
+<sp>Radioaktivitet</sp>).
+
+Elektronerne i Atomet er bundne med forsk.
+Styrke. En Elektron, der bevæger sig omkr. en
+Kerne, kan kun bevæge sig i visse bestemte
+<sp>stationære Baner</sp> (se <sp>Kvanteteori</sp>).
+Disse Baner kan defineres ved visse hele Tal,
+de saakaldte <sp>Kvantetal</sp>. Betydningen af
+disse Kvantetal ses bedst ved som Eksempel at
+se paa det simplest byggede Atom, Brintatomet,
+i hvilket de stationære Baner er Ellipser ell.
+Cirkler. Størrelsen (Storaksen ell. Diameteren)
+er bestemt af <sp>Hovedkvantetallet</sp> <sup>n</sup>, og
+vokser proportionalt med n<sup>2</sup>. For den mindste
+og stærkest bundne Bane er n = 1. Den Energi,
+der skal bruges for at føre Elektronen fra en
+stationær Bane ud af Atomet, er omvendt
+proportional med n<sup>2</sup>; Arbejdet for at fjerne
+Elektronerne fra de fire inderste Baner forholder
+sig som 1/1<sup>2</sup>:1/2<sup>2</sup>:1/3<sup>2</sup>:1/4<sup>2</sup>, d. v. s. som 1 : 0,25 : 0,11:
+0,06. Det har nu vist sig, at der sædvanligvis
+til hver Værdi af Hovedkvantetallet n svarer
+flere Baner med omtr. samme Energi og
+Storakse, men med forsk. Ekscentricitet og
+Lilleakse. De forsk. Baner, som alle svarer til et og
+samme Hovedkvantetal n, bliver betegnede med
+et Bikvantetal k, der altid er lig ell. <sp>mindre</sp>
+end Hovedkvantetallet. Banerne betegnes ofte
+saaledes, at man ved en n<sub>k</sub>-Bane forstaar en
+Bane, hvis Hovedkvantetal er n og hvis Bikvantetal
+er k. Betegnelsen for de eksisterende Baner
+bliver da, begyndende med de mindste Baner:
+1<sub>1</sub>-Baner; 2<sub>1</sub>- og 2<sub>2</sub>-Baner; 3<sub>1</sub>-, 3<sub>2</sub>- og 3<sub>3</sub>-Baner;
+4<sub>1</sub>-, 4<sub>2</sub>-, 4<sub>3</sub>- og 4<sub>4</sub>-Baner o. s. v. Naar
+Bikvantetallet k er af samme Størrelse som n, betyder
+det, at Banen er cirkulær. Naar k er lille,
+betyder det, at Elektronen i sin Bane kommer
+tæt ind til Kernen; jo tættere desto mindre k
+er. Saaledes kommer Elektronen i en 3<sub>1</sub>-Bane
+Kernen noget nærmere end i en 1<sub>1</sub>-Bane, paa
+den anden Side er 3<sub>1</sub>-Banen saa langstrakt, at
+Elektronen i denne Bane kommer meget
+længere bort fra Kernen end i en 1<sub>1</sub>-Bane. Medens
+det hos Brintatomet gælder, at alle Baner med
+samme Hovedkvantetal har omtr. samme
+Energi, vil der hos de øvrige Grundstoffer findes
+store Afvigelser fra denne Regel.
+
+Den Bohr'ske Teori blev først anvendt paa
+Brintatomet og fik der en meget stor Støtte p.
+Gr. a. den store Sikkerhed, hvormed ethvert af
+Brintatomets Forhold kunde forklares. 1920 førte
+Bohr sin Teori videre og har i Aarene efter
+1920 med største Held udvidet sin Teori til
+ogsaa at kunne forklare Hovedtrækkene af
+Bygningen af alle Grundstofferne i det p. S. Det er

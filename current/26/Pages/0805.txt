@@ -1,0 +1,22 @@
+<table b>
+<td c>Aar<td c><sp>Fysik</sp><td c><sp>Kemi</sp><td c><sp>Medicin</sp><td c><sp>Litteratur</sp><td c><sp>Fredspris</sp>
+<td c>1912<td c>G. Dalén<br>(Stockholm)<td c>V. Grignard<br>(Nancy)<br>P. Sabatier<br>(Toulouse)<td c>A. Carrel<br>(New York)<td c>G. Hauptmann<br>(Tyskland)<td c>Uddeltes i 1913<br>til Elihu Root<br>(Washington)
+<td c>1913<td c>H. Kamerlingh<br>Onnes (Leyden)<td c>A. Werner<br>(Zürich)<td c>Ch. Richet<br>(Paris)<td c>Rabindranath Tagore<br>(Indien)<td c>H. La Fontaine<br>(Bruxelles)
+<td c>1914<td c>Uddeltes 1915 til<br>Max von Laue<br>(Frankfurt a. M.)<td c>Uddeltes 1915 til<br>Th. W. Richards<br>(Cambridge,<br>Mass.)<td c>Uddeltes 1915 til<br>R. Bárány<br>(Wien)<td c>Overførtes til<br>Prisgruppens<br>særlige Fond<td v3 c>1914-16<br>Aars Prisen<br>overførtes til<br>Prisgruppens<br>særlige Fond
+<td c>1915<td c>W. H. Bragg og<br>W. L. Bragg<br>(London)<td c>R. Willstätter<br>(München)<td v4 c>1915-18<br>Aars Prisen<br>overførtes til<br>Prisgruppens<br>særlige Fond<td c>Uddeltes 1916 til<br>R. Rolland<br> (Paris)
+<td c>1916<td c>— — —<td c>Overførtes til<br>Prisgruppens<br>særlige Fond<td c>V. von<br>Heidenstam (Sverige)
+<td c>1917<td c>Uddeltes 1918 til<br>Ch. G. Barkla<br>(Edinburgh)<td c>Overførtes til<br>Prisgruppens særlige Fond<td c>K. Gjellerup og<br>H. Pontoppidan<br>(Danmark)<td c>Comité<br>international de la Croix<br>rouge (Genève)
+<td c>1918<td c>Uddeltes 1919 til<br>M. Planck<br>(Berlin)<td c>Uddeltes 1919 til<br>F. Haber<br>(Berlin-Dahlem)<td c>Overførtes 1919<br>til Prisgruppens<br>særlige Fond<td c>Overførtes 1919<br>til Prisgruppens særlige Fond
+<td c>1919<td c>Johannes Stark<br>(Greifswald)<td c>Overførtes til<br>Prisgruppens<br>særlige Fond<td c>Uddeltes 1920 til<br>J. Bordet<br>(Bruxelles)<td c>Uddeltes 1920 til<br>C. Spitteler<br>(Schweiz)<td c>Uddeltes 1920 til<br>W. Wilson<br>(Washington)
+<td c>1920<td c>Ch. E. Guillaume<br>(Sèvres)<td c>Uddeltes 1921 til<br>W. Nernst<br>(Berlin)<td c>A. Krogh<br>(Kjøbenhavn)<td c>K. Hamsun<br>(Norge)<td c>Léon Bourgeois<br>(Paris)
+<td c>1921<td c>Uddeltes 1922 til<br>A. Einstein<br>(Berlin)<td c>Uddeltes 1922 til<br>F. Soddy<br>(Oxford)<td c>Overførtes til<br>Prisgruppens<br>særlige Fond<td c>Anatole France<br>(J. A. Thibault)<br>(Paris)<td c>Hjalmar<br>Branting (Stockholm)<br>Chr. L. Lange<br>(Genève)
+<td c>1922<td c>Niels Bohr<br>(Kjøbenhavn)<td c>F. W. Aston<br>(Cambridge)<td c>Uddeltes 1923 til<br>A. V. Hill<br>(London)<br>O. Meyerhof<br>(Kiel)<td c>J. Benavente<br>(Madrid)<td c>Fr. Nansen<br>(Norge)
+<td c>1923<td c>R. A. Millikan<br>(Pasadena,<br>Kalifornien)<td c>F. Pregl<br>(Graz, Østrig)<td c>F. G. Banting og<br>J. J. R. Macleod<br>(Toronto,<br>Canada)<td c>W. B. Yeats<br>(Irland)<td v2 c>Overførtes til<br>Prisgruppens<br>særlige Fond
+<td c>1924<td c>Uddeltes 1925 til<br>K. M. G. Siegbahn<br>(Upsala)<td c>Overførtes 1925<br>til Prisgruppens<br>særlige Fond<td c>W. Einthoven<br>(Leyden)<td c>W. St. Reymont<br>(Polen)
+<td c>1925<td c>Uddeltes 1926 til<br>J. Franck<br>(Göttingen)<br>G. Hertz (Halle)<td c>Uddeltes 1926 til<br>R. Zsigmondy<br>(Göttingen)<td c>Overførtes til<br>Prisgruppens<br>særlige Fond<td c>Uddeltes 1926 til<br>G. B. Shaw<br>(London)<td c>Uddeltes 1926 til<br>Sir A.<br>Chamberlain og Ch. G.<br>Dawes
+<td c>1926<td c>J. Perrin<br>(Paris)<td c>The Svedberg<br>(Upsala)<td c>Uddeltes 1927 til<br>J. Fibiger<br>(Kjøbenhavn)<td c>Uddeltes 1927 til<br>Grazia Deledda<br>(Rom)<td c>A. Briand og<br>G. Stresemann
+<td c>1927<td c>A. H. Compton<br>(Chicago)<br>R. Th. Ch. Wilson<br>(Cambridge)<td c>Uddeltes 1928<br>til H. Wieland<br>(München)<td c>J. Wagner-Jauregg<br>(Wien)<td c>Uddeltes 1928<br>til H. Bergson<br>(Paris)<td c>F. Buisson og<br>L. Quidde
+<td c>1928<td c>Uddeltes 1929<br>til O. W.<br>Richardson (London)<td c>A. Windaus<br>(Göttingen)<td c>C. J. H. Nicolle<br>(Tunis)<td c>S. Undset<br>(Oslo)<td c>
+<td c>1929<td c>Hertug Louis<br>de Broglie<br>(Paris)<td c>H. v. Euler<br>Chelpin (Stockholm)<br>A. Harden<br>(London)<td><td c>Th. Mann<br>(Tyskland)<td>
+</table>
+</chapter>

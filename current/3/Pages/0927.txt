@@ -1,0 +1,112 @@
+Ved Etslagklokkesystemet, saaledes som dette
+nu er udviklet af Gamewell og navnlig Siemens
+& Halske, anvendes for samtlige Melde- og
+Alarmsløjfer i Anlægget eet Hovedapparat
+(Repeater), der automatisk overfører en indgaaet
+Brandalarmmelding samtidig saavel til
+Stationens egne Apparater (Registrerapparat med
+Tidsstempel, Indikatorer og Klokker) som til
+Bistationerne. Da der kun benyttes eet
+Centralapparat for samtlige Brandalarmsløjfer, er det
+nødvendigt at anvende Brandalarmer, som er
+forsynede med særlige Indretninger, der i
+Forbindelse med andre paa Modtagerstationen
+forhindrer samtidigt Indløb af flere
+Brandalarmmeldinger, men lader dem indgaa efter
+hinanden. Systemet udføres i øvrigt med
+Traadbrudsikkerhed og med Anordninger, der paa
+lgn. Maade som ved det under Morsesystemet
+beskrevne automatiske Alarmeringssystem
+hindrer, at Telegrafering ell. Prøve af
+Brandalarmerne bevirker Alarmering af Stationernes
+Mandskab, samt med Lystableauer i St f.
+Indikatorer. Siemens & Halske bygger
+helautomatiske Modtagerstationer, ved hvilke enhver
+Betjening efter Indløbet af en
+Brandalarmmelding, selv Tilbagestilling af Indikatorerne,
+bortfalder.
+
+Ved Siemens & Halske's
+<sp>Viserapparatsystem</sp> (se Fig. 17), der navnlig er bestemt
+for mindre Byer, anvendes som
+Modtagerapparat et elektromagnetisk Viserapparat, hvor den
+benyttede Brandalarms Nummer angives ved
+en springende Viser paa en Skive, der
+indeholder alle Numrene paa den paagældende
+Sløjfes Brandalarmer. Brandalarmernes Løbeværk
+maa ved dette System være saaledes indrettet,
+at Typehjulet kun gør een Omdrejning for hver
+Alarmering, og Typehjulet maa ikke som ellers
+have fl. Tandgrupper med samme Nummer, men
+kun een Tandgruppe svarende til Alarmens
+Nummer (se Fig. 18). For hver af Typehjulet
+frembragt Afbrydelse med paafølgende
+Slutning af Strømmen i Sløjfen
+springer Viseren et Felt frem,
+altsaa i alt saa mange Felter,
+som der findes Tandmellemrum
+paa Typehjulet, idet Strømstødene overføres til
+Viserechappementets Magnetbeviklinger ved et i Brandalarmsløjfen
+indskudt Relais. I Viserapparatskabet findes i
+øvrigt Apparater til Kontrolering af Ledning
+og Batterier samt en Signalfaldsklap, der falder
+ved en Strømafbrydelse. Endvidere findes ved
+Skabet en Telefon til Samtale med
+Brandmandskabet, naar dette kalder Stationen fra en
+Brandalarm, og en Klokke, der ringer ved
+Signalklappens Fald, samt en Alarmklokke, der
+træder i Virksomhed, naar Viseren har naaet
+Tallet 1. Anlægget kan i øvrigt indrettes med
+Traadbrudsikkerhed og med Apparater, der
+henviser den ene af to samtidige Alarmeringer
+til et Reserveviserapparat. Hvis Brandmændene,
+hvad der i Reglen vil være Tilfældet i saadanne
+mindre Byer, hvor Viserapparatsystemet
+anvendes, ikke har Vagt paa Brandstationen, men
+skal tilkaldes fra deres Hjem ell.
+Arbejdspladser, kan dette ske ved Anbringelse af
+Vekselstrømsklokker paa disse Steder. Klokkerne
+indskydes paa selve Brandalarmsløjfen, og
+Opringningen sker ved en paa Stationen anbragt
+Vekselstrøminduktor, se nederst i Fig. 17.
+
+Ved Mix & Genest's
+<sp>Tælleapparatsystem</sp>, der er indrettet efter et ganske lgn.
+Princip som Siemens & Halske's
+Viserapparatsystem, findes ingen Viser, men selve Talskiven
+drejer sig og lader det paagældende
+Brandalarmsnummer komme til Syne bag en lille
+Rude.
+
+Foruden de offentlige Brandalarmer findes
+paa disses Sløjfer <sp>private
+Brandalarmer</sp>, der kun er bestemte til Benyttelse ved Brand
+i de Bygninger ell. industrielle Anlæg, hvori de
+er anbragte. Saafremt Bygningens
+Brandfarlighed ell. Anlæggets Udstrækning gør
+Anbringelsen af mange Brandalarmer ønskelig, ell. hvis
+der ønskes anbragt <sp>automatiske
+Brandalarmer</sp>, anbringes der kun enkelte ell.
+nogle faa til den offentlige Brandalarmsløjfe
+knyttede Brandalarmer, men disse indrettes til at
+kunne udløses foruden paa samme Maade som
+de offentlige Brandalarmer ogsaa ad
+elektromagnetisk Vej. Til hver af disse Brandalarmer
+knyttes der et internt, under Hvilestrøm
+staaende særligt Anlæg, der indeholder de Brandalarmer,
+ved hvilke Hovedbrandalarmen kan udløses ad
+elektromagnetisk Vej. Det interne Anlæg udgaar
+fra et Indikatorskab, se Fig. 19, og deles i en
+Række Brandalarmsløjfer, der dog i
+Indikatorskabet alle er forbundne i Serie, saa at de
+danner een stor Sløjfe, hvis Ender er forbundne
+med Batteriet, fra hvilket ogsaa udgaar
+Ledninger til Hovedbrandalarmens Udløsemagneter,
+der saaledes ogsaa er under Hvilestrøm. For
+hver enkelt Brandalarmsløjfe findes i
+
+<img>Fig. 18. Typehjul til Siemens
+og Halske's Viserapparatsystem.</img>
+
+<img>Fig. 19. Indikatorskab til private
+Brandalarmeringsanlæg. Døren er fjernet.</img>

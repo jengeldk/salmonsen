@@ -1,0 +1,123 @@
+for den fot. Anvendelse. Et fot. Objektiv skal
+afbilde et Synsfelt af størst mulig
+Vinkeludstrækning saa skarpt som muligt ved
+Straalebundter af den størst mulige Aabningsvinkel. At
+naa det yderste i alle 3 Henseender samtidig
+er imidlertid ikke muligt; der maa finde en
+Arbejdsdeling Sted. Her gør det sig nu først
+gældende, at da de fot. Optagelser er bestemte
+til at betragtes med det blotte Øje ell. højst
+underkastes nogle faa Ganges Forstørring,
+behøver <sp>Skarpheden</sp> (naar man delvis undtager
+Anvendelsen til Reproduktion) i det hele
+langtfra at være saa stor som i Kikkert og
+Mikroskop med deres meget store Forstørring. Det
+fot. Objektivs Type bliver da især bestemt af,
+om man ensidigt lægger Hovedvægten paa
+<sp>relativ Aabning</sp> (d. v. s. Lysstyrke) ell. paa
+<sp>Billedfelt</sp>, ell. man endelig gaar en
+Middelvej og søger at opnaa mest muligt af begge
+Dele. I <sp>Portrætobjektiver</sp> ligger
+Hovedvægten paa Lysstyrken for at faa kort
+Eksponeringstid (den relative Aabning kan gaa helt
+op til c. 1:2,3 og ligger i Reglen ikke meget
+under 1:3), medens den Del af Synsfeltet, der
+tegnes helt skarpt, kan være ret lille; det
+samme gælder Objektiver til kinematografiske
+Optagelser, hvortil de mindre Brændvidder
+bruges. Den store Aabning kræver først og
+fremmest, at den <sp>sfæriske Aberration</sp> (se
+<sp>Linse</sp>) er ophævet, da denne vokser med 3.
+Potens af Aabningen, og dersom man vil kunne
+variere Aabningen og dog stadig have skarp
+Afb., maa tillige <sp>Sinusbetingelsen</sp> (se
+<sp>Linse</sp>) være opfyldt. Yderst til modsat Side
+staar <sp>Storvinkelobjektiverne</sp> (ikke
+over c. 1:18) til visse Arter af Reproduktion,
+men især til Optagelser af Arkitektur,
+Interiører o. l., hvor man er nødsaget til at optage
+Billedet i ret ringe Afstand fra Objektet; her
+kræves det yderste af Synsfeltet, medens man
+oftest kan gaa betydeligt ned i Lysstyrken, da
+Eksponeringen uden Skade kan forlænges.
+Derfor kommer Hovedvægten til at ligge paa
+Ophævelse af <sp>Astigmatismen</sp> (s. d.) og paa
+at faa et <sp>plant</sp> og <sp>ikke fortegnet
+Billede</sp>. Der er naturligvis en gradvis Overgang
+mellem disse to Ydergrupper af fot. Objektiver,
+idet der i <sp>Universalobjektivernes</sp>
+store Gruppe, som staar mellem dem, findes
+baade meget lysstærke og meget storvinklede
+Objektiver, saa at de kun svigter ved de
+allermest specielle Arbejder. Til Reproduktion
+stildes der de største Krav til Skarpheden over
+hele Synsfeltet, og selv om der baade kan slaas
+af paa Synsfeltets Størrelse og paa Lysstyrken,
+bliver gode Reproduktionsobjektiver dog nogle
+af de dyreste Specialobjektiver. De skal helst
+ogsaa have særlig god Farvekorrektion (være
+Apokromater, smlg. ndf.).
+
+Af de nævnte Fejl skal <sp>Astigmatismen</sp>
+først omtales. Den gør sig i det hele stærkt
+gældende ved Fotografering, da de store
+Synsfelter medfører Anvendelse af Straaler, der
+passerer meget skraat gennem Objektivet, og dens
+Ophævelse bliver derfor af stor Bet.; man
+grunder endogsaa en Hovedinddeling af de fot.
+Objektiver i <sp>Astigmater</sp> og
+<sp>Anastigmater</sp> derpaa. Dens fuldstændige Ophævelse blev
+først mulig ved Fremstillingen af de ny
+Glassorter, der førte til Konstruktion af
+Nyakromater (se <sp>Akromatisme</sp>). Et smalt
+Straalebundt viser den normale Astigmatisme (s. d.).
+De brede Straalebundter medfører imidlertid,
+at der dertil føjes endnu en Fejl, den
+saakaldte <sp>Koma</sp>. Fig. 4 viser Gangen af de
+Straaler, som fra et fjernt Punkt til Siden for
+Objektivets Akse sendes gennem det, og som ligger
+i Hovedsnittet (Planen gennem Aksen). Den
+usymmetriske Lysfordeling om Hovedstraalen i
+dette Bundt giver i St f. et Billedpunkt en
+<sp>Brændlinie</sp>, som paa den fotogr. Plade
+betinger Optræden af en oval kometagtig
+Lysplet, deraf Navnet Koma. Denne Fejl ophæves
+uden videre i de nedenfor omtalte symmetriske
+Objektiver, men er i det hele ophævet i de
+moderne Anastigmater.
+
+<sp>Fortegning</sp> ytrer sig ved, at et Kvadrat
+ikke afbildes vinkeltro som et Kvadrat (<i>a</i>, Fig.
+5), men enten som vist i <i>b</i>, hvor Fortegningen
+kaldes tøndeformet, ell. som <i>c</i>, hvor den kaldes
+pudeformet. Et fot. Objektiv med foranstaaende
+Blænder (Landskabslinse) fortegner altid
+tøndeformet. Ogsaa denne Fejl ophæves uden videre
+i symmetriske Objektiver, dog ligesom Koma
+strengt taget kun, naar Objektet fotograferes
+i naturlig Størrelse. — Endnu maa omtales
+Ophævelse af <sp>Farvefejlene</sp> (smlg.
+<sp>Akromatisme</sp>). For at opnaa, at det synlige
+Billede, som man indstiller paa, falder samme
+Sted som det fot. virksomme, saa at den fot.
+Plades og Matskivens Plads kan falde sammen,
+maa de Straaler, man vælger at forene, være
+en gul og en blaaviolet (omtr. de Fraunhofer'ske
+Linier <i>D</i> og <i>G'</i>), nemlig de Farver, for hvilke
+henh. Øjet og den fot. Plade er mest
+følsomme. Denne den fot. Akromatisme giver ganske
+vist da et betydeligt sekundært Spektrum, men
+det er i Reglen uden Bet. I ældre Tid, da man
+ikke var klar over disse Forhold og kun
+sørgede for Akromatisme af det synlige Billede,
+var følgelig Matskivens og Kasettens Afstand
+fra Objektivet noget forsk.; man talte da om
+kem. Fokus (Brændvidde) hos det fot. Objektiv.
+Kun ved saa fine Arbejder som Reproduktion
+og Fremstilling af Optagelser til Trefarvetryk
+har man Brug for fot. Objektiver med
+formindsket sekundært Spektrum (»Apokromater«); i
+
+<img>Fig. 4. Koma.</img>
+
+<img>Fig. 5. Fortegning.</img>

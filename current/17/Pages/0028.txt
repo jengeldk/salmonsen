@@ -1,0 +1,100 @@
+grønt Lys (c. 0,0005 mm), ses, at et
+Immersionsobjektiv med Apertur 1,4 ikke kan adskille
+Punkter, der ligger nærmere ved hinanden end
+c 0,00035 mm, en Grænse, som ingen forbedret
+Konstruktion nogen Sinde vil kunne overskride.
+Følgelig kan heller ikke en enkelt Genstand
+mindre end denne Grænse ses; selv om den er
+til Stede i Objektet, vil den ikke vise sig paa den
+lysende Baggrund. Ved Anvendelsen af skæv
+Belysning, saaledes at det uafbøjede Lys netop
+naar gennem Objektivet ude ved dets Rand,
+forøges dog Opløsningsevnen til det dobbelte for
+Strukturer, hvis Hovedretning er vinkelret paa den
+Retning, i hvilken Belysningen er forskudt til Siden,
+da det er nok, at et Spektrum af 1. Orden opfanges.
+
+Det vil nu forstaas, at Okularets Funktion er af
+en ganske anden Art end Objektivets; det skal
+kun sprede Enkelthederne i Objektivbilledet
+saa stærkt fra hinanden, at de bekvemt
+kan iagttages, men det kan ikke vise os andet,
+end hvad der forud findes i Objektivbilledet.
+Til ethvert Objektiv kræves altsaa kun
+en ganske bestemt Okularforstørring for at faa
+alle Objektivbilledets Enkeltheder bekvemt at
+se. Et stærkere Okular nytter intet, det viser
+kun Enkelthederne spredt mere ud fra
+hinanden, men tilføjer intet nyt; man taler her
+om <sp>tom</sp> Okularforstørring.
+
+Udtrykket for Opløsningsevnen viser, at denne
+vokser, naar der anvendes Lys af mindre
+Bølgebredde. Derfor har man med Fordel ved
+Mikrofotografering anvendt ultraviolet Lys, men
+maa da have Kondensor, Objektiv, Okular,
+Objektglas og Dækglas af Kvarts, og da man
+følgelig ikke kan korrigere for kromatiske Fejl,
+har man brugt Lys af en bestemt Bølgebredde,
+nemlig Lyset fra en bestemt Linie i
+Kvægsølvbuens Spektrum (λ = 0,000275 mm).
+Opløsningsevnen stiger derved omtrent til det
+dobbelte.
+
+<sp>Ultramikroskop</sp>, <sp>Mørkegrundsbelysning</sp>.
+Til Trods for, at den ovf. beregnede Grænse for M.'s
+Opløsningsevne er absolut, er det i nyere Tid
+lykkedes at komme væsentlig videre i Retning af
+at konstatere Tilstedeværelsen af endnu mindre
+Genstande; men der er da ikke Tale om en egentlig
+Iagttagelse af dem, men kun om Konstatering af
+deres Tilstedeværelse og eventuelle Bevægelse,
+og kun ad indirekte Vej kan man faa nogen
+Oplysning om deres Størrelse, medens Form og
+Enkeltheder absolut forbliver ukendte.
+Princippet i denne Ultramikroskopi er at belyse
+Stoffet (f. Eks. en Vædske), hvori Smaadelene, de
+»ultramikroskoptiske« Partikler, er indeholdte,
+stærkt, men saaledes, at dette direkte Lys ikke
+kommer ind i M. Naar Partiklerne rammes af
+Lyset, afbøjer (spreder) de noget Lys til alle
+Sider, noget af dette opfanges af M. og giver
+som Billede af Partiklen en lille Lysplet, hvis
+Intensitet afhænger af Partiklens Størrelse.
+Iagttagelsen af de ultramikroskopiske Partikler
+er altsaa ganske analog med Iagttagelsen af
+Støvpartikler i et Solstraalebundt i et Værelse.
+Grænsen for, hvor smaa Partikler man ad denne
+Vej kan iagttage, sættes ved, at det spredte
+Lys skal være tilstrækkeligt til at gøre
+Indtryk paa Øjet; følgelig maa man anvende
+intensivt Lys, Sollys eller Buelys. Under gunstige
+Forhold kan man da iagttage Partikler helt
+ned til Størrelsen en Milliontedel mm.
+
+Det første Ultramikroskop skyldes Siedentopf
+og Zsigmondy (1903) og fremstilledes hos
+Zeiss. Princippet er vist i Fig. 11. Præparatet
+belyses stærkt fra Siden (de optrukne
+Straaler), Partiklerne afbøjer da Lys til alle Sider
+(de punkterede Straaler), og en Del af dette
+Lys trænger op i M.'s Objektiv, anbragt over
+Præparatet og giver af hver Partikel som
+Billede en lille Lysplet, omgivet af svagere
+Ringe, der kun kan iagttages for de største
+Partikler. Den Lyskegle, man sender vandret
+gennem Præparatet, er yderst tynd i lodret
+Retning; saa at man ad optisk Vej laver
+et Tyndsnit gennem Præparatet (som ellers
+med Mikrotom), idet man absolut ikke kan se
+Partiklerne i de ubelyste Dele af Præparatet,
+Fig. 12 viser, hvorledes dette opnaas. Lyset fra
+Buelampen <i>d</i> samles af Linsen <i>f</i> paa den vandrette
+smalle Spalte i <i>g</i>, denne afbildes formindsket ved
+Linsen <i>h</i>, og dette Billede afbildes igen stærkt
+formindsket ved et Mikroskopobjektiv lige ved
+Præparatet. I alt formindskes Spalten c. 50 Gange.
+
+<img>Fig. 11. Princippet i Ultramikroskopet.</img>
+
+<img>Fig. 12. Ultramikroskop efter Siedentopf og Zsigmondy.</img>

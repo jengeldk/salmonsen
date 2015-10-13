@@ -1,0 +1,180 @@
+disse <i>m</i> at søge tilbage til <i>A</i> ved den omvendte
+Konstruktion faar <i>n</i> Løsninger. Det antages
+videre, at Afhængigheden mellem <i>A</i> og <i>B</i> kan
+udtrykkes ved en algebraisk, hel, rational
+Ligning mellem deres Abscisser, regnede ud fra
+et fast Begyndelsespunkt paa Linien. Denne
+Ligning maa være af <i>m</i>'te og <i>n</i>'te Grad med
+Hensyn til henh. <i>A</i>'s og <i>B</i>'s Abscisse. K.
+udsiger da, at der er <i>m</i> + <i>n</i> Punkter paa Linien,
+Koincidenspunkter, i hvilke et Punkt <i>A</i> falder
+sammen med et tilsvarende Punkt <i>B</i>. Da
+Koincidenspunkternes Abscisser bestemmes ved en
+algebraisk Ligning af Graden <i>m</i> + <i>n</i>, maa
+imaginære Koincidenspunkter medregnes, ligesom
+der kan forekomme Koincidenspunkter, der
+skal regnes fl. Gange med i de <i>m</i> + <i>n</i>. K.'s
+store Bet. i Antalgeometrien beror paa, at man
+ved dets Anvendelse ikke behøver at danne
+Ligningen mellem Abscisserne, men kun skal sikre
+sig, at den har den ovenn. Beskaffenhed, samt
+bestemme <i>m</i> og <i>n</i>. K. anvendes mere alm. paa
+Rækker af Figurer, der kan bestemmes ved en
+enkelt Koordinat paa samme Maade som en ret
+Linies Punkter ved deres Abscisser, f. Eks. paa
+Linier i en Plan gennem et fast Punkt. Cayley
+og den tyske Matematiker Brill har udvidet K.
+til med visse Modifikationer at gælde for
+Punkter paa enhver algebraisk Kurve. Der er ogsaa
+opstillet K. for Punkter i en Plan ell. paa en
+Flade.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Korrespondent">
+<b>Korrespondent,</b> en Medhjælper i en
+Næringsvirksomhed, som helt ell. hovedsagelig er
+beskæftiget med Besørgelsen af de udgaaende
+Breve. K. indtog i Reglen en ret overordnet
+Stilling, idet man kun brugte denne Betegnelse om
+den, der foruden at skrive Brevene tillige
+havde en medbestemmende Indflydelse paa deres
+Indhold; med den mere og mere udstrakte
+Anvendelse af Skrivemaskiner og Diktering af
+Brevene til Stenografer ell. i Diktafon er
+Stillingen som K. blevet mindre selvstændig. I
+Alm. vil man i vore Dage ved K. forstaa en
+Medhjælper, som paa nævnte Maade udfører
+den <sp>uden</sp> landske Korrespondance. Se
+<sp>Handelskorrespondance</sp>.
+<i>Ch. V. N.</i>
+</chapter>
+
+<chapter name="korrespondere">
+<b>korrespondere</b> (nylat.), svare til, staa i
+Forbindelse med, stemme overens; staa i
+Brevveksling med hinanden, virke som
+Korrespondent.
+</chapter>
+
+<chapter name="korresponderende Højder">
+<b>korresponderende Højder</b> er en Stjernes
+lige store Højde paa Øst- og Vestsiden af
+Meridian. Noteres Tiden, da Stjernen har denne
+Højde, vil Middeltallet af Urtiderne være Tiden
+for det Øjeblik, da Stjernen er i Meridianen.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="korresponderende Reder">
+<b>korresponderende Reder</b> (eng. ship's
+husband, fr. <i>armateur</i> [<i>gérant</i>]) ell. bestyrende
+Reder er den Person i et Partrederi (s. d.), der
+har den daglige Ledelse af Rederiets
+Forretninger. Han behøver ikke at have nogen Part i
+Rederiet. Efter Søloven skal der vælges en k. R.,
+der maa være dansk Undersaat og bosat i den
+danske Stat, og han skal anmeldes til
+Skibsregistret. Han er berettiget til at afslutte alle
+de Retshandler, som en Rederiforretning
+sædvanlig fører med sig, f. Eks. Antagelse og
+Afskedigelse af Skipper og Afslutning af
+Befragtningskontrakter, og kan sagsøge og sagsøges
+paa Rederiets Vegne. Derimod er han ikke
+uden særlig Bemyndigelse berettiget til at
+optage Pengelaan i Rederiets Navn ell. til at sælge,
+pantsætte ell. tegne Forsikring paa Skibet. Han
+vælges af den ell. de Partredere, der ejer
+Halvparten i Skibet, og kan til enhver Tid afsættes
+ved Beslutning af Partredere, der ejer mere
+end en Halvpart i Skibet. Ejer han selv
+Halvparten ell. mere, kan Retten paa en Partreders
+Begæring afsætte ham, naar hans Ledelse
+skønnes at være uheldig.
+<i>(L. A. G.). E. T.</i>
+</chapter>
+
+<chapter name="Korridor">
+<b>Korridor</b> (ital. <i>corridore</i>), en Gang imellem
+to Rækker Værelser ell. langs med en Række
+Værelser, som har Døre ud til Gangen. I
+Teatret Gangen bag Logerne.
+<i>(E. S.). C. B-r.</i>
+</chapter>
+
+<chapter name="Korridorsystem">
+<b>Korridorsystem,</b> se <sp>Hospital</sp>, S. 762.
+</chapter>
+
+<chapter name="Korridorvogn">
+<b>Korridorvogn,</b> Jernbanepersonvogn med
+gennemgaaende (som oftest Side-) Gang paa
+langs, hvorfra der er Adgang til de enkelte
+Kupeer (se endvidere <sp>Jernbanevogne</sp>).
+<i>G. K.</i>
+</chapter>
+
+<chapter name="korrigere">
+<b>korrigere</b> (lat., fr. <i>corriger</i> (<i>en métal</i>), eng.
+<i>to revise</i>), forbedre, berigtige, befri for Fejl,
+først ved Gennemlæsning af et Aftryk, senere
+i Satsen, Litografistenen eller Metalpladen.
+<i>E. S-r.</i>
+</chapter>
+
+<chapter name="korrigerende Midler">
+<b>korrigerende Midler,</b> Lægemidler, der
+benyttes til at dække over ildesmagende
+Lægemidlers Smag. Hertil benyttes Midler, der
+samtidig har en stærk og for de fleste behagelig
+Smag, som Pebermynte, Orangetinktur, Sukker
+o. s. v. Man kalder saadanne Midler
+<sp>Smagscorrigentia</sp>.
+<i>(Lp. M.). P. H.</i>
+</chapter>
+
+<chapter name="Korrobori">
+<b>Korrobori</b> [eng. k<sub>ə</sub>'råb<sub>ə</sub>r<sub>i</sub>], en natlig Dans,
+der af forsk. australske Stammer opføres ved
+højtidelige Lejligheder. Som Regel deltager kun
+Mændene i Dansen, der bestaar i en rytmisk
+Vandren med adskilte, bøjede Ben, og som
+skal forestille Optrin af de Indfødtes Liv.
+<i>K. B-S.</i>
+</chapter>
+
+<chapter name="Korrosion">
+<b>Korrosion</b> (lat.), Opløsning ved Ætsemidler,
+smlg. <sp>corrodere</sp>.
+</chapter>
+
+<chapter name="korrumpere">
+<b>korrumpere</b> (lat.), fordærve, bestikke;
+<sp>korrumperet</sp>, fordærvet, tilgængelig for
+Bestikkelse.
+</chapter>
+
+<chapter name="Korruption">
+<b>Korruption</b> (lat.), moralsk Fordærvelse,
+navnlig Bestikkelighed; <sp>korrupt</sp>, fordærvet,
+slet; forskruet, bagvendt.
+</chapter>
+
+<chapter name="Kors">
+<b>Kors,</b> Figur dannet ved, at to lige Linier
+skærer hinanden under rette Vinkler; dernæst
+Genstande af denne Form ell. Billeder af
+saadanne K. er et meget nærliggende Ornament,
+ikke vanskeligt at udføre, selv paa primitive
+Kulturstadier, og det kan derfor ikke undre os,
+at det ofte er anvendt som Prydelse hos
+mange forsk. Folk, og det allerede i en tidlig Tid,
+ogsaa uden mindste Forbindelse med
+Kristendommen. (Se <sp>G. de Mortillet</sp>, <i>Le signe de
+la croix avant le Christianisme</i> [Paris 1866];
+<sp>Alger</sp>, <i>History of the cross</i> [Boston 1858]; <sp>C.
+de Harlez</sp>, <i>Le culte de la croix avant le
+Christianisme</i> [i <i>Science catholique</i>, IV, Paris
+og Lyon 1890]). K. forekommer paa
+førkristelige Genstande, saavel alene som sammen med
+andre Ornamenter; det er f. Eks. ofte omgivet

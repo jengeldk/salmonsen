@@ -1,0 +1,109 @@
+<table>
+<td v2><td c 6>Antal Virksomheder med<td v2>Samlet<br>Personel
+<td c>0<br>Arb.<td c>1-5<br>Arb.<td c>6-20<br>Arb.<td c>21-100<br>Arb.<td c>101-<br>Arb.<td c>Ialt
+<td>Tilvirkning af Nærings- og Nydelsesmidler<td r>641<td r>1139<td r>176<td r>66<td r>32<td r>2054<td r>23295
+<td>Tekstilindustri<td r>20<td r>39<td r>21<td r>25<td r>10<td r>115<td r>4036
+<td>Beklædningsindustri<td r>1396<td r>1086<td r>277<td r>107<td r>31<td r>2897<td r>22685
+<td>Jordarbejde og Bygningsindustri<td r>867<td r>870<td r>248<td r>104<td r>21<td r>2110<td r>16286
+<td>Trævareiridustri<td r>936<td r>847<td r>165<td r>30<td r>1<td r>1979<td r>7274
+<td>Læder- og Lædervareindustri<td r>884<td r>484<td r>70<td r>35<td r>10<td r>1483<td r>6864
+<td>Sten-, Ler- og Glasindustri<td r>40<td r>50<td r>25<td r>7<td r>5<td r>127<td r>2440
+<td>Metalindustri<td r>976<td r>1311<td r>360<td r>141<td r>46<td r>2834<td r>36303
+<td>Kemisk Industri o. l.<td r>124<td r>164<td r>69<td r>33<td r>14<td r>404<td r>9190
+<td>Papirindustri <td r>10<td r>29<td r>29<td r>14<td r>1<td r>83<td r>1602
+<td>Fremstilling af Bøger, Billeder og Blade<td r>232<td r>318<td r>155<td r>52<td r>8<td r>765<td r>7465
+<td>Soigneringsindustri<td r>1174<td r>835<td r>64<td r>16<td r>1<td r>2090<td r>5482
+<td r>I alt<td r>7300<td r>7172<td r>1659<td r>630<td r>180<td r>16941<td r>142922
+</table>
+
+I nedenstaaende Oversigt for de samme
+Hovedgrupper er meddelt Kraftmaskinernes
+samlede H. K. og Værdien af Produktionen og
+udført Arbejde, hvilken sidste for første Gang er
+opgjort ved Tællingen i 1925.
+<table>
+<td v2><td v2>H. K. i<br>Kraftmaskiner<td 6 c>Værdien af Produktionen m. v. i Virksomheder med
+<td c>0<br>Arb.<br>1000 Kr.<td c>1—5<br>Arb.<br>1000 Kr.<td c>6—20<br>Arb.<br>1000 Kr.<td c>21—100<br>Arb.<br>1000 Kr.<td c>101—<br>Arb.<br>1000 Kr.<td c>Ialt<br><br>1000 Kr
+<td>Tilvirkn. af Nærings- og Nydelsesmidler<td r>25834<td r>23268<td r>134174<td r>74292<td r>120079<td r>189468<td r>541281
+<td>Tekstilindustri<td r>5965<td r>58<td r>912<td r>3435<td r>18782<td r>29240<td r>52427
+<td>Beklædningsindustri<td r>1720<td r>5786<td r>30510<td r>34746<td r>75063<td r>60142<td r>206247
+<td>Jordarbejde og Bygningsindustri<td r>8071<td r>6852<td r>23271<td r>31363<td r>48182<td r>23781<td r>133449
+<td>Trævareindustri<td r>5420<td r>5391<td r>25523<td r>17397<td r>13337<td r>867<td r>62515
+<td>Læder- og Lædervareindustri<td r>4215<td r>4371<td r>8843<td r>10437<td r>23793<td r>28659<td r>76103
+<td>Sten-, Ler- og Glasindustri<td r>2949<td r>317<td r>1943<td r>7202<td r>4563<td r>10178<td r>24203
+<td>Metalindustri<td r>34849<td r>6755<td r>33652<td r>47064<td r>61875<td r>214090<td r>363436
+<td>Kemisk Industri o. l. <td r>17519<td r>1358<td r>17272<td r>20709<td r>46712<td r>145365<td r>231416
+<td>Papirindustri<td r>2941<td r>353<td r>936<td r>4678<td r>8801<td r>3350<td r>18118
+<td>Fremst. af Bøger, Billeder og Blade<td r>4188<td r>1425<td r>6777<td r>21966<td r>26205<td r>32288<td r>88661
+<td>Soigneringsindustri<td r>1467<td r>2839<td r>8400<td r>2727<td r>4035<td r>946<td r>18947
+<td r>I alt<td r>115138<td r>58773<td r>292213<td r>276016<td r>451427<td r>738374<td r>1816803
+</table>
+<i>H. S.</i>
+</chapter>
+
+<chapter name="Kjøbenhavn (Kjøbenhavns Befolknings-, Bolig- og Lejeforhold)">
+<b>Kjøbenhavns Befolknings-, Bolig- og Lejeforhold.</b>
+
+Staden K.'s Folketal udgjorde efter de to
+Tællinger af Februar 1921 og November 1927
+henholdsvis 561344 og 598447 og er altsaa for
+Tiden ret langsomt voksende, bl. a. paa Grund
+af det lave Fødselstal.
+
+Om de mægtige stedlige Forskydninger i
+Folketallet, der i de senere Aar foregaar inden
+for K.'s Grænser, faas Oplysninger af
+nedenstaaende Tabel:
+<table>
+<td><td c>1921<td c>1927
+<td>1) K. inden for Søerne og Christianshavn<td r>128812<td r>118639
+<td>2) Østerbro<td r>76083<td r>78916
+<td>3) Indre Nørrebro<td r>89402<td r>86433
+<td>4) Ydre Nørrebro<td r>50407<td r>57729
+<td>5) Vesterbro<td r>84820<td r>79278
+<td>6) Valby Distrikt<td r>26507<td r>36888
+<td>7) Brønshøj<td r>32677<td r>53693
+<td>8) Amagerbro Kvarter og Sundbyerne<td r>71267<td r>85383
+<td>9) Skibe<td r>1369<td r>1488
+<td r>Hele K.<td r>561344<td r>598447
+</table>
+
+Tabellen viser, at Befolkningens Tyngdepunkt
+i 1921—27 har forskudt sig med rivende Hast
+fra K.'s indre til dens ydre Kvarterer.
+Saaledes er de indlemmede Distrikters
+Befolkningstilvækst i disse Aar større end hele
+Stadens, og alene Brønshøjdistriktet er i dette
+korte Tidsrum vokset med over 20000 Beboere.
+Og nu er det ikke alene den gamle By, hvis
+Folketal gennem mange Aar har aftaget stærkt,
+men ogsaa de indre Forstæder, som tager Del
+i Affolkningen til Fordel for de ydre Bydele.
+
+Af K.'s Folketal i 1927 var 275073 Mænd og
+323374 Kvinder, svarende til omtrent 46 mod
+54 %. Den store Talforskel forklares bl. a. ved
+Kvindernes større Indvandring (navnlig af
+Tyende og Syersker), der som Helhed har en mere
+regelmæssig Karakter end Mændenes, som
+paavirkes stærkt af de økonomiske Konjunkturer.
+Den københavnske Aldersfordeling er ret
+forskellig fra hele Danmarks, saaledes udgør
+Procenttallet for Børn under 10 Aar kun c. 16
+mod c. 20 for hele Landet. Medvirkende hertil
+er de lave Fødselstal i K.
+
+Af K.'s Befolkning i 1921 tilhørte 540694
+Folkekirken, medens 20650 stod uden for denne. Det
+sidste Tal svarer til 3,7 % af Folketallet mod
+2,1 % for hele Landet. K.'s Befolkning er
+altsaa i religiøs Henseende noget mere uensartet
+sammensat end hele Danmarks. Af de
+afvigende Trossamfund var de tabstærkeste det
+romersk-katolske med 4889, det mosaiske med
+4637 Tilhængere, af hvilke sidste omtrent
+Halvdelen var indvandrede russiske Jøder med
+deres Børn, medens noget under Halvdelen
+tilhørte det gamle jødiske Samfund. Af de andre
+Trossamfund havde de Reformerte 468,
+Anglikanerne 304, Metodisterne 603, Irvingianerne

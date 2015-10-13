@@ -1,0 +1,146 @@
+næste Cylinder. Mellemkammeret kan enten være
+et mellem de to Cylindre anbragt Damprør,
+<sp>Mellemdamprør</sp>, ell. et særlig støbt
+Kammer.
+
+<sp>Dampfordelingen</sp> udføres i Reglen af
+en Glider, der bevæges frem og tilbage af en
+<sp>Ekscentrikskive</sp> <i>A</i>, paa Krumtapakslen
+<i>B</i> (se Fig. 9). Skivens Bevægelse overføres til
+<sp>Glideren</sp> <i>F</i> ved Hjælp af
+<sp>Ekscentrikbøjlen</sp> <i>C</i>, <sp>Ekscentrikstangen</sp> <i>D</i> og
+<sp>Gliderstangen</sp> <i>E</i>.
+
+Den alm. Gliders Virkemaade er vist
+skematisk i Fig. 6-8. I Fig. 6, hvor Stemplet
+bevæger sig nedefter, ses det, at Kraftdamp fra
+<i>A</i> kan passere uden om Glideren, gennem
+Dampkanalen <i>B</i> til Oversiden af Stemplet, medens
+Dampen under Stemplet gennem Dampgangen
+<i>C</i> undviger til Rummet <i>D</i>, hvor Trykket er
+lavere end i <i>A</i>. - I Fig. 7 er Glideren paa Vej
+opad og lukker for en vis Tid begge
+Dampkanaler, medens Stemplet endnu ikke er i
+Bund paa sin Vandring nedefter. I den øverste
+Cylinderende vil Dampen altsaa ekspandere, i
+den nederste sammentrykkes, hvilket sidste gør
+Slaget blødere og udjævner
+Temperatursvingningerne i Cylinderen. I Fig. 8 har Glideren
+aabnet for Dampindstrømning til Stemplets
+Underside og Udstrømning fra dettes Overside,
+saa at Stemplet nu af Dampen bevæges opefter.
+
+Hvis man i Fig. 7 tænker sig Glideren løftet
+saa meget, at Damp indlades gennem <i>C</i>, vil
+Stemplet skifte Bevægelsesretning, inden
+Dødpunktet passeres ɔ: Krumtapakslen vil dreje sig
+i modsat Retning. En alm. anvendt
+<sp>Gangskiftningsmekanisme</sp> er
+<sp>Stephenson's Kvadrant</sp> ell. <sp>Kulisse</sp> (se Fig. 10),
+hvor der paa Akslen findes to Ekscentrikskiver,
+som er forsk. anbragte i Forhold til
+Krumtappen <i>A</i>. De to Ekscentrikstænger er foroven
+forbundne med en Kvadrantbue DMC. Ved en
+Stangforbindelse, der kan bevæges ved
+Haandkraft ell. af en særlig Gangskiftningsmaskine,
+kan enten den ene ell. anden af
+Ekscentrikstængerne bringes i Forlængelse af
+Gliderstangen. Afhængig heraf vil Maskinen enten gaa
+den ene ell. den anden Vej rundt. Føres Buen
+ikke helt til sin Yderstilling, men
+<sp>mellemstilles</sp>, bliver Damptilførslen mindre,
+saaledes at Mekanismen ogsaa kan anvendes til
+Regulering af Maskinens Gang. Til
+Gangskiftning og Regulering anvendes fl. a.
+Konstruktioner med to, een ell. ingen Ekscentrikskive,
+f. Eks. System <sp>Gooch</sp>, <sp>Allan</sp>, <sp>Heusinger</sp>,
+<sp>Fink</sp>, <sp>Marshall</sp>, <sp>Hackworth</sp>, <sp>Klug</sp>,
+<sp>Joy</sp>. Til smaa Maskiner kan anvendes en
+drejelig Ekscentrik, en drejelig Glider, en særlig
+Skifteglider, en Firgangshane e. l.
+
+Gliderne udføres flade (f. Eks. <sp>Kasseglidere</sp>)
+ell. cylindriske (<sp>Stempelglidere</sp>). Ved
+forsk. Anordninger kan Dampfordelingen
+forbedres (Eks.: <sp>Trick-Glider</sp>),
+Glidervandringen gøres kortere (Eks.: <sp>flerportede
+Glidere</sp>), Vægten og Friktionstrykket aflastes
+(Eks.: <sp>Bærecylindre</sp>,
+<sp>Aflastningsskjolde</sp>) o. s. v.
+
+En forbedret Dampfordeling og <sp>Regulering</sp>
+kan opnaas ved at anvende en særlig
+<sp>Ekspansionsglider</sp> (f. Eks. System <sp>Meyer</sp>,
+<sp>Rider</sp>), der eventuelt kan indstilles automatisk
+af en <sp>Centrifugal-Regulator</sp> (se
+<sp>Regulator</sp>).
+
+I St f. at anvende en Glider til
+Dampfordelingen, kan man ved hver Cylinderende anbringe
+2 Haner ell. Ventiler: en for Indstrømning og
+en for Udstrømning. Dampgangene kan derved
+gøres kortere, og deres Aabning og Lukning
+kan foregaa hurtigere, saa at Tryktabet bliver
+mindre og Reguleringen bedre
+(<sp>Præcisionsstyring</sp>).
+
+Efter System <sp>Corliss</sp> (se Fig. 17) anvendes
+4 drejelige Haner: <i>A</i> og <i>A</i> foroven til
+Indstrømning, <i>B</i> og <i>B</i> forneden til Udstrømning. Hanerne
+bevæges ved Trækstænger fra en fælles Skive
+<i>W</i>, der ved Ekscentrikstangen <i>K</i> bringes til at
+svinge frem og tilbage. Hanerne <i>A</i> aabnes ved
+Hjælp af Stængerne <i>S</i>, men lukkes ved Fjedre,
+der er anbragte i Huset <i>D</i>, og udløses paa et
+Tidspunkt, som gennem Stængerne <i>G</i> og <i>C</i> og
+Tandsektorerne <i>F</i> bestemmes af en Regulator.
+Ved lille Belastning sker Udløsningen og
+Dampafskæringen tidligere end ved større Belastning.
+
+I St f. Corliss-Styringens Haner er det bedre
+at anvende Ventiler (<sp>Ventilmaskiner</sp>).
+Som et Eksempel herpaa kan nævnes
+<sp>Collmann-Styringen</sp> (se Fig. 18). Akslen <i>a</i>,
+der ved koniske Tandhjul e. l. bevæges af
+Krumtapakslen, har ved hver Cylinderende en
+Ekscentrikskive, hvis Stang giver den toarmede
+Vægtstang <i>d</i> en vuggende Bevægelse. Gennem
+Leddene <i>e</i> og <i>r</i> aabnes og lukkes derved
+Dampindstrømningsventilen <i>o</i>. Aabningens Størrelse og
+Varighed bestemmes af Regulatoren <i>r</i>, der ved
+Stangforbindelserne <i>k</i>, <i>l</i>, <i>m</i> kan forskyde
+Muffen <i>g</i> paa Ekscentrikstangen <i>f</i> og derved
+forandre Leddet <i>v</i>'s Stilling, saaledes at
+Indstrømningsventilen aabnes mere, naar Maskinen
+belastes stærkere. Udstrømningen sker gennem
+Ventilen <i>p</i>, der aabnes og lukkes af Stænger,
+som paavirkes af Kamskiven <i>c</i>. I moderne
+Ventilmaskiner er Antallet af bevægende Dele
+gjort mindre og Bevægelsen simplere. Slitagen
+og Støjen bliver derved mindre og Maskinen kan
+arbejde med et større Omdrejningstal (indtil
+300). Af moderne Ventilstyringer kan nævnes
+System <sp>Lentz</sp> (se Fig. 19). Ventilerne bevæges
+her ved Ekscentrikstænger <i>S</i>, og
+Vinkelvægtstænger <i>V</i>, hvis øverste Side, <sp>Ledekurven</sp>,
+trykker paa Ventilspindlens Rulle <i>R</i>. En Fjeder
+holder Rullen trykket mod Ledekurven.
+<sp>Akselregulatoren</sp> <i>A</i> virker paa
+Ekscentrikskiverne og giver Maskinen en til
+Belastningen svarende Fyldningsgrad. Der findes af
+Ventilstyringer mange forsk. Konstruktioner.
+I nogle lukkes Ventilerne ved Udløsning af en
+Fjeder, i andre er Ventilerne stadig tvungne til
+at følge en Ledekurve, saa vidt muligt saaledes,
+at Friktionen bliver rullende og ikke glidende.
+Ventilerne er ofte forsynede med Luft- ell.
+Oliebuffere.
+
+<sp>Van den Kerchoven</sp> anvender 4 smaa
+Stempelglidere i St f. Ventiler; Bevægelsen
+ligner i øvrigt Ventilmaskinernes. Dampgangene
+bliver særlig korte, Økonomien god og Støjen
+ringe.
+
+I <sp>Stumpf's
+Jævnstrømsdampmaskine</sp> (se Fig. 20) er Ventiler for Dampens

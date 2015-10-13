@@ -1,0 +1,146 @@
+systematiske Fejl, idet man benytter
+Tidsmomentet enten for Forsvinden bag ell.
+Tilsynekomst frem af Metaltraaden. Og man kan
+anvende som Forbindelsesstjerne enhver, der
+overhovedet kommer ind i Kikkerten. Tidligere
+benyttedes ogsaa Cassini's M., der bestod af fire
+Traade, som skar hverandre i Synsfeltets
+Midtpunkt under en Vinkel paa 45°, ell. Bradley's
+M:, hvor de fire Traade dannede en Rombe.
+Alle disse M. har den Fordel, at Kikkertens
+Synsfelt ikke behøver at oplyses, thi Himmelgrunden
+er selv midt om Natten lys nok til, at
+man kan se Metaltraaden (Ringen). Af de M.,
+hvor Afstanden mellem de to Objekter direkte
+maales, er Filarmikrometret det mest benyttede.
+Det bestaar af en fast Ramme, hvorpaa der
+er udspændt en Rk. parallelle Filamenter,
+sædvanlig af Edderkopspind, og en bevægelig, der
+er forsynet med færre Traade, og som ved en
+Skrue (Mikrometerskruen) kan forskydes lodret
+paa Kikkertens optiske Akse. Anbringes det ene
+Objekt paa en af de faste Traade, og føres en
+af den bevægelige Rammes Traade, til den
+dækker det andet Objekt, saa aflæses Antallet
+af Skrueomdrejninger, som maa til for at føre
+den bevægelige Traad fra den benyttede faste
+hen til Objektet (Distancen), paa en Skala og
+Dele af en hel Skrueomdrejning paa
+Mikrometerskruens Tromle. Det første Filarmikrometer
+blev konstrueret af W. Gascoigne, senere er det
+blevet forbedret af Troughton, Fraunhofer,
+Secrètan, Repsold og Clark. Foruden
+Mikrometerskruen er det forsynet med en Cirkel
+(Positionscirkel), hvorved man kan bestemme den
+Vinkel, som Forbindelseslinien mellem de to
+Objekter danner med Deklinationscirklen
+gennem det ene Objekt (Positionsvinkel).
+Orienteres M. saaledes, at den faste Traad falder
+sammen med Deklinationscirkelen, kan man
+bestemme Rectascensionsdifferensen mellem de to
+Objekter af den Tid, som medgaar til, at begge
+Objekter passerer samme Filament. Drejes det
+nu 90° om, vil man ved Hjælp af det bevægelige
+Filament maale Deklinationsforskellen mellem
+de to Objekter. For at se Traadene oplyses
+Feltet, saa at Traadene viser sig enten mørke
+paa lys Grund ell. lyse paa mørk Grund.
+Knorre har konstrueret et Filarmikrometer
+(Deklinograf), hvorved man kan ved Hjælp af en
+Kronograf registrere samtidig Rectascensions-
+og Deklinationsdifferensen af de observerede
+Stjerner. For at undgaa den ved Traadene
+frembragte Diffraktion har man konstrueret M.,
+hvor der dannes et Billede i Fokalplanet af
+Filamenterne (Ghost M.).
+
+Ved de hidtil betragtede M. maa man for at
+kunne udføre en Maaling have til sin
+Raadighed en Linie, et Filament, Kanten af et
+Diafragma ell. ogsaa kun Billedet heraf. Ved de
+saakaldte Dobbeltbilled-M. bliver derimod
+Lysstraalen fra Objektet spaltet, og hver af disse
+giver et Billede af Objektet. Derved opnaar
+man en større Ensartethed under Maalingen og
+er fri for enkelte af de Fejl, som klæber ved
+Maalinger med Filarmikrometer. Dobbeltheden
+kan frembringes enten gennem Objektivet, idet
+man benytter to Objektiver ell. deler Objektivet
+i to Dele (Objektivheliometer), ell. gennem
+Okularet og da enten ved, at man anbringer i
+Nærheden af Okularet en delt Linse, ell. ved et
+Prisme (Okularheliometer). De førstnævnte er
+beskrevne under Heliometer. Det er ikke uden
+en vis Risiko at dele et større Objektiv, for ikke
+at tale om den betydelig forøgede Komplikation
+i Monteringen af større Linser som
+Heliometer, og disse Grunde har bevæget fl.
+Astronomer til at anbringe Dobbeltbilledmikrometret
+med Maaleapparatet ved Okularet. Det først
+konstruerede var det Steinheil'ske, hvor der
+mellem Objektivet og Okularet var anbragt en
+akromatisk Linse, som var delt ved et
+diametralt Snit, men saavel dette som Amici's blev
+snart fortrængt af Airy's, som bestaar af 4 Linser,
+der udgør Okularet; den første af disse fire
+Linser er bikonveks, hvorpaa følger en
+bikonkav af samme Brændvidde, og denne er delt;
+den 3. og 4. Linse danner paa en vis Maade et
+Ramsdensokular; dette er blevet meget benyttet
+i Leyden og Oxford, men nu er det distanceret
+af de M., hvor Dobbeltheden fremkaldes ved en
+dobbeltbrydende Substans, og begge Billeder,
+saavel det, som fremkaldes af den ordinære
+som den ekstraordinære Straale, bruges til
+Maaling af Distancen af Billederne (man havde
+tidligere benyttet Glasprismer for at
+frembringe denne Dobbelthed). Af disse M. er mest
+kendt Rochon's M., der er et retvinklet
+Parallelipeped, sammensat af to retvinklede Prismer
+af Bjergkrystal, saaledes at i det ene Prisme
+er Krystallens optiske Akse parallel Kikkertens,
+i det andet ligger den parallel den brydende
+Kant; et lgn. er konstrueret af Wellmann, som
+benytter i St f. det Rochon'ske Prisme et
+Wollaston'sk, hvorved opnaas, at man faar to
+ekstraordinære Billeder, hvoraf intet ved Drejning
+af Prismesystemet bliver liggende stille, men
+begge drejer sig om hinanden, og begge har
+samme Lysstyrke, nemlig Halvparten af Objektets.
+En egen Sort Dobbeltbilled-M. er det af
+Schwarzschild konstruerede Interferens M.,
+Interferometer, hvortil Michelson først har givet
+Ideen allerede 1890, og hvor Fordoblingen af
+Billedet frembringes ved Lysets Bøjning ved
+parallelle Spalter. Dette er med Fordel benyttet
+til at maale Diametren af Drabanter og smaa
+Planeter samt Distancen mellem Dobbeltstjerner;
+i den sidste Tid har man paa Mount
+Wilson Observatoriet maalt Diametren af enkelte
+Fiksstjerner som Betelgeuze, Arkturus, Antares.
+(<sp>Litt</sp>.: <sp>Becker</sp>. »Mikrometer und
+Mikrometermessungen« [Breslau 1899]; <sp>Ambronn</sp>,
+»Handbuch der Instrumentenkunde«, II
+[Berlin 1899]).
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Mikrometerpasser eller Fjederpasser">
+<b>Mikrometerpasser</b> ell. <sp>Fjederpasser</sp>,
+en Passer, som bruges til at maale smaa Dimensioner,
+f. Eks. ved
+Urfabrikationen.
+M. er
+dobbeltbenet (se
+Figur), drejelig
+om Akselen <i>a</i>.
+Genstanden
+fattes mellem
+Benene ved <i>b</i>;
+dens Maal viser sig betydelig forstørret (10
+Gange) paa den inddelte Bue <i>c</i> og aflæses let
+der.
+<i>(F. W.). D. H. B.</i>
+
+<img>Mikrometerpasser.</img>
+</chapter>

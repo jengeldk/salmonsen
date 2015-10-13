@@ -1,0 +1,41 @@
+<table>
+<td c>Selsk.s Navn.<td><td c>Ruter
+<td>C<sup>ie</sup> transatlantique<td>{<td>Dunkerque, Le Havre, New York. Marseille, Algier. Marseille, Tunis. Bordeaux, Marokko, Casablanca.
+<td>Messageries maritimes.<td>{<td>Marseille, Port Said, Djibouti, Colombo, Singapore, Saigon, Kina, Japan. Marseille, Port Said, Suez, Aden, 
+Bombay, Colombo, Australien, Noumea. Marseille, Port Said, Djibouti, Zanzibar, Madagaskar, La Réunion, Maurice. Marseille, Piræus, Smyrna, Konstantinopel, Sorte Havet.
+<td>Compagnie des Chargeurs réunis.<td>{<td>Dunkerque, Le Havre, Paullac, Vigo, Dakar, Montevideo, Buenos Aires. Dunkerque, Le Havre, Vigo, Lissabon, Rio de Janeiro, Santos. Le Havre, Bordeaux, Pauillac, Teneriffa, Vestkysten af Afrika. Dunkerque, Bordeaux, Pauillac, Marseille, Port Said, Colombo, Indo-Chine.
+<td>Compagnie de navigation Sud-atlantique.<td>{<td>Bordeaux, Lissabon, Dakar, Rio de Janeiro, Montevideo, Buenos Aires.
+<td>Société générale de transports maritimes à vapeur.<td>{<td>Genua, Marseille, Almeira, Dakar, Rio de Janeiro, Santos, Buenos Aires. Marseille, algierske Havne.
+<td 3 c><i>C</i>. <sp>Tyske Dampskibslinier</sp>.
+<td>Hamburg Amerikanische Paketfahrt Aktien-Gesellschaft.<td>{<td>Hamburg, Southampton, Cherbourg, New York. Genua, Neapel, New York. Hamburg, Boulogne, Southampton, Boston. Hamburg, Philadelphia. Hamburg, Baltimore. Hamburg, New Orleans. Hamburg, Kanada. Hamburg, Brasilien. Hamburg, Argentina. Hamburg, Vestindien. Hamburg, Meksiko. Hamburg, Cuba. Hamburg, Vestkysten af Amerika. Hamburg, Afrika. Hamburg, Port Said, Singapore, Kina, Japan, Vladivostock. Hamburg, Colombo, Calcutta. New York, Brasilien. New York, Vestindien. Genua, New York. Genua, Argentina.
+<td>Deutsche Ost-Afrika Linie.<td>{<td>Hamburg, Antwerpen, Rotterdam, Southampton, rundt om Afrika begge Veje.
+<td>Norddeutscher Lloyd.<td>{<td>Bremen, Southampton, Cherbourg, New York. 
+Hamburg, Bremerhaven, Rotterdam, Kanada. Bremen, Baltimore, Galveston, Philadelphia, Cuba. Bremen, Antwerpen, Vigo, Madeira, La Plata. Bremen, Antwerpen, Lissabon, Madeira, Brasilien. Bremen, Antwerpen, Boulogne, Madeira, Brasilien, La Plata. Bremen, Rotterdam, Gibraltar, Algier, Genua, Port Said, Kina, Japan. Bremen, Antwerpen, Southampton, Algier, Genua, Port Said, Colombo, Australien. Genua, Neapel, New York. Bremen, Rotterdam, Antwerpen, Havne i Middelhavet.
+<td>Deutsch-Australische Dampfschiffs-Gesellschaft.<td>{<td>Hamburg, Rotterdam, Antwerpen, Cape-Town, Australien, Colombo, Sues Kanalen og tilbage til Hamburg. 
+Hamburg, Rotterdam, Antwerpen, Cape-Town, Australien, de hollandske Kolonier, Singapore, Port Said, Hamburg. Hamburg, Antwerpen, Sues Kanalen, Colombo, de hollandske Kolonier.
+<td>Woermann Linie.<td>{<td>Hamburg, Antwerpen, Madeira, Teneriffa, Vestkyst af Afrika (Camerun). Hamburg, Antwerpen, Congo. Hamburg, Antwerpen, Guldkysten. Hamburg, Rotterdam, Teneriffa, Liberiakysten, New York, Vestkyst af Afrika.
+<td>Hamburg Südamerikanische Dampf-chiffsfahrts-Gesellschaft.<td>{<td>Hamburg, Antwerpen, Le Havre, Lissabon, Madeira, Brasilien. Hamburg, Boulogne, Southampton. Lissabon, Brasilien, La Plata. Buenos Aires, Vestkysten af Amerika. New York, Brasilien.
+<td>Kosmos Linie.<td>{<td>Hamburg. Antwerpen, Montevideo, Amerikas Vestkyst. Hamburg, London, Antwerpen, Vestkyst af Amerika. Hamburg, Genua, Vestkyst af Amerika.
+<td 3 c><i>D</i>. <sp>Spanske Linier</sp>.
+<td>Compania tránsatlantica.<td>{<td>Liverpool, Vigo, Lissabon, Cadix, Barcelona, Genua, Filippinerne. Genua, Neapel, Cadix, New York, Havanna, Meksiko. Barcelona, Venezuela, Colombia. Genua, Barcelona, Cadix, Buenos Aires. Barcelona, Cadix, Vestkyst af Afrika. Bilbao, Cuba, Meksiko.
+<td>Pinillos Izquerdo y Cia.<td>{<td>Barcelona, Cadix, Brasilien, La Plata. Barcelona, Cadix, Teneriffa, Vestindien, New Orleans.
+<td 3 c><i>E</i>. <sp>Belgiske Linier</sp>.
+<td>Red Star Line.<td>{<td>Antwerpen, Dover, New York. Antwerpen, Boston, Philadelphia. Antwerpen, Baltimore.
+<td 3 c><i>F</i>. <sp>Italienske Linier</sp>.
+<td>Compagnie La Veloce.<td>{<td>Genua, Barcelona, Brasilien, La Plata. Genua, Neapel, New York. Genua, Neapel, Philadelphia. Genua, Neapel, Brasilien.
+<td>Navigazione Generale Italiana.<td>{<td>Genua, Neapel, Brasilien. Genua, Neapel, New York. Palermo, New Orleans. Genua, Neapel, Port Said, Bombay. Bombay, Singapore, Hongkong. Genua, Neapel, Port Said, Aden. Genua, det østlige Middelhav, Konstantinopel, Odessa.
+<td>Lloyd italiano.<td>{<td>Genua, Neapel, New York. Genua, Brasilien, La Plata.
+<td>Lloyd del Pacifico.<td>{<td>Genua, Brasilien, La Plata.
+<td>La Sigura Brasiliana.<td>{<td>Genua, Gibraltar, Brasilien, La Plata.
+<td>Italia.<td>{<td>Genua, Teneriffa, Rio de Janeiro, Montevideo, Buenos Aires. Genua, Neapel, New York, Philadelphia.
+<td 3 c><i>G</i>. <sp>Hollandske Linier</sp>.
+<td>Holland America Line.<td>{<td>Rotterdam, New York. Rotterdam, Boston, Philadelphia. Rotterdam, Vestindien, New Orleans. Rotterdam, Canada.
+<td>Koninklijke-Paketvaart-Maatschappij.<td>{<td>Batavia, de hollandske Besiddelser, og staar via Singapore i Forbindelse med de store Linier paa
+Østasien (P. & O., Norddeutscher Lloyd og Messageries maritimes). Batavia, Australien.
+<td>Lloyd de Rotterdam.<td>{<td>Rotterdam, Southampton, Marseille,
+Port Said, Colombo, Java. Rotterdam, Antwerpen, La Rochelle-Palice, Port Said, Singapore, Batavia.
+<td>Java-China-Japan-Line.<td>{<td>Batavia, Kina, Japan. Soerabaya, Kina, Japan.
+<td>Malle Royale Hollandaise.<td>{<td>Amsterdam, Vestindien, New York.
+<td 3 c><i>H</i>. <sp>Østerrig-Ungarske Linier</sp>.
+<td>Lloyd Autrichien.<td>{<td>Triest, Port Said, Sues, Aden, Bombay. Triest, Port Said, Colombo, Singapore, Kina.
+</table>

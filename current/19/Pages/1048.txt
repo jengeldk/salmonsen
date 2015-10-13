@@ -1,0 +1,140 @@
+Zenit (hvor den er Nul) til Horisonten, og
+foreslaar at bestemme R.'s Størrelse ved at
+observere en Fiksstjerne i dens forsk. Afstande fra
+Zenit. Senere omtales R. af Alhazen, Walther
+og Vilhelm IV af Hessen, men først Tyge Brahe
+bestemte R.'s Størrelse ved at maale Solens
+forsk. Højde i dens Dagbue og sammenligne den
+maalte Højde med den beregnede. I Horisonten
+finder han for Solen R. til 34′, og at den
+forsvinder i 45° Højde, for Fiksstjernerne er R. i
+Horisonten 30′ og forsvinder allerede i 20°
+Højde. Brahe mente, at R.'s Størrelse afhang af
+Himmellegemets Lysstyrke og dets Afstand.
+Kepler korrigerer disse urigtige Antagelser af
+Brahe og paaviser, at R. er uafhængig af
+Stjernens Afstand, men Kepler gør paa sin Side den
+Fejl at antage Luften for uelastisk og overalt
+lige tæt, hvorved Lysstraalernes Gang i
+Atmosfæren bliver retlinet. Nogen simpel Lov for R.
+lykkes det ikke Kepler at finde, men trods de
+urigtige Forudsætninger konstruerer han en
+Refraktionstabel, som lige til 70° Zenitdistance ikke
+afviger mere end 11″ fra Nutidens, et Resultat,
+som for hans Tids Observationskunst var mere
+end nøjagtigt. Efter ham arbejder Scheiner og
+Hevel med R., men uden at finde
+Brydningsloven; det er først Cassini I, som konstruerer en
+Refraktionsteori, hvori Brydningsloven er lagt
+til Grund. Picard paaviser, at R. er større om
+Vinteren end om Sommeren, større om Natten
+end om Dagen, m. a. O., at den afhænger af
+Temp. og Lufttrykket, Lacaille giver den første
+Korrektionstabel til R. for Temp. og Lufttryk.
+Romer er i sine Anskuelser om R. forud for sin
+Tid — hvert Sted har sin egen R., i Dalen er
+den mindre end paa Fjeldet. Newton finder efter
+sin Lysteori, at R. er en Følge af Attraktionen,
+og at man gennem den kan bestemme
+Lysstraaler virkelige Bane i Luftlag af forsk. Tæthed.
+Simpson arbejder videre i denne Retning og
+finder et simpelt Udtryk for R., som er blevet
+benyttet af Bradley, Maskelyne o. a. Euler og
+Lambert giver værdifulde Bidrag til Teorien for
+R., og Lagrange diskuterer, om Temp. aftager
+proportionalt med Højden. Senere har Laplace,
+Bessel, Ivory, Lubbock, Gyldén, Oppolzer,
+Radau (Recherches sur le théorie des refractions
+astronomiques (1882, 1889), Alliaume,
+Grossmann, Tucker, Esclangon (<i>Études sur la
+refraction astronomique</i>, 1913) og andre arbejdet
+med Teorien for R., og de af disse givne
+teoretiske Undersøgelser skiller sig hovedsagelig
+fra hverandre i de forsk. Hypoteser, der er
+opstillede angaaende Atmosfærens Konstitution.
+Til 75° à 80° Zenitdistance er denne uden
+mærkelig Indflydelse paa R., først i 80° til 90°
+Zenitdistance giver de forsk. Teorier væsentlig
+forsk. Værdier. Men i saa lave Højder
+observerer Astronomerne kun undtagelsesvis, medens
+Geodæterne ved deres Maalinger af
+Zenitdistancer af terrestriske Objekter hovedsagelig
+arbejder i disse Højder. Denne terrestriske R., som
+Bayer paaviste 1840, men som først blev nøjere
+undersøgt af Bauernfeind 1880—90 og Fearnley
+(»Zur Theorie der terrestrischen Refraktion«,
+1884), er i høj Grad underkastet Forandringer,
+saavel regelmæssige som uregelmæssige, og
+disse hidrører først og fremmest fra, hvorledes
+Temp. aftager med Højden. Medens Aftagelsen
+udgør i Medium 0,58° pr. 100 m, er den ved
+Middagstid inden for de første 100 m ofte flere
+Grader, fremkaldt ved den stærke Insolation af
+Jordbunden. Om Natten og omkr. Solopgang
+har man derimod ofte i de nederste Luftlag en
+Stigning af Temp. med Højden p. Gr. a.
+Udstraaling fra Jorden. Som Følge heraf vil
+Maalinger af Zenitdistancen af terrestriske Objekter
+kunne være behæftede med store Fejl. Man har
+søgt at udlede teoretiske Formler for den
+terrestriske R.; imidlertid har det sine
+Vanskeligheder at bringe ind i Beregningen alle de
+Faktorer, hvoraf R. er afhængig. Og det fremgaar
+af disse Formler, at den numeriske Værdi for
+R. om end i ringere Grad ogsaa er afhængig af
+Barometerstanden og Luftens Fugtighed.
+Betragter man den Bane, Lysstraalen gennemløber
+mellem det terrestriske Objekt og Iagttageren,
+som et Stykke af en Cirkelbue, hvis
+Centralvinkel er lig Summen af Vinklerne mellem
+Korden fra Objektet til Iagttageren og Tangenterne
+til Buens Endepunkter, saa har man ved
+Observation fundet, at Radien til denne Cirkelbue
+er omtr. 1/8 af Jordradien. Forholdet mellem
+disse to Radier kalder man <sp>Luftens
+Refraktionskoefficient</sp>. I Medium er den
+0,13, men den vil efter det ovenfor anførte
+variere fra 0,08 ved Middagstid til 0,20 om
+Natten, og en Variation af Temperaturaftagelsen
+med Højden af ± 1° pr. 100 m bevirker i lave
+Højder over Havet en Forandring af
+Refraktionskoefficienten af ± 0,06, hvoraf fremgaar,
+at allerede 2° Variation er tilstrækkelig til at
+forklare den regelmæssige daglige Periode i
+Koefficienten. Stjernens Farve er ikke uden
+Indflydelse paa R., men dette er hidtil lidet
+studeret. Courvoisier har allerede 1905 henledet
+Opmærksomheden paa, at Kimuraleddet (se
+<sp>Polhøjde</sp>) kan have sin Opr. fra et Solen omg.
+Medium, som strækker sig udenfor Jordbanen,
+og har anstillet Observationer til nærmere
+Begrundelse af denne Hypotese, som
+Observationer af Venus ikke bekræfter (»Über
+systematische Abweichungen der Sternpositionen im
+Sinne einer jährlichen Refraktion«, Beob. Erg.
+der kgl. Sternwarte zu Berlin 13. 1913).
+Freundlich, har paavist, at derved vil der opstaa
+umulige Værdier for Jordens Bevægelse, saa han er
+mest tilbøjelig til at forklare denne <sp>aarlige</sp>
+R. som hidrørende fra Instrumentet
+(»Systematiske R.-anomalier«) ell. at være af fysiol.
+Oprindelse.
+
+For den astron. R. kan man til 70°
+Zenitdistance for Lufttemperatur = 0° og
+Barometerstand 760 mm ved 0° efter Radau sætte
+R. = 60,33″ <i>t g z</i>. For en anden Temp. og
+Barometerstand maa denne midlere R. korrigeres.
+Desuden maa der ved Zenitdistancer større end
+80° tages Hensyn til den Virkning, Luftens
+Fugtighed har paa R.'s Størrelse. R. i 45° Højde
+kaldes <sp>Refraktionskoefficienten</sp> =
+60,33″.
+
+Ved Udviklingen af det teoretiske Udtryk for
+R. gaar man ud fra, at Atmosfæren meget nær
+er i hydrostatisk Ligevægt, og at dens brydende
+Virkning ophører i Højder over Jordoverfladen,
+som kan anses som smaa i Sammenligning med
+Jordens Radius. Atmosfæren anses altsaa at
+bestaa af koncentriske Lag, hvis Centrum ligger i

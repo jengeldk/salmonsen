@@ -1,0 +1,67 @@
+<table>
+<td 7><tab>I <sp>Afrika</sp>:
+<td>Gambia<td r>10400<td c>km<sup>2</sup><td c>med<td r>208000<td c>Indb.<td>(17)
+<td>Sierra Leone<td r>80300<td c>—<td c>—<td r>1437200<td c>—<td>(11)
+<td>Guldkysten<td r>207000<td c>—<td c>—<td r>1503400<td c>—<td>(11)
+<td>Togo<td r>42200<td c>—<td c>—<td r>300000<td c>—<td>(—)
+<td>Nigeria<td r>870000<td c>—<td c>—<td r>17500000<td c>—<td>(14)
+<td>Kamerun<td r>340000<td c>—<td c>—<td r>1250000<td c>—<td>(—)
+<td>Somaliland<td r>176000<td c>—<td c>—<td r>359800<td c>—<td>(13)
+<td>Kenia (tidligere Britisk Østafrika)<td r>644900<td c>—<td c>—<td r>2807000<td c>—<td>(19)
+<td>Tanganyika (tidligere Tysk Østafrika)<td r>940900<td c>—<td c>—<td r>5000000<td c>—<td>(—)
+<td>Uganda (Prot.)<td r>285700<td c>—<td c>—<td r>3318000<td c>—<td>(19)
+<td>Sansibar<td r>2640<td c>—<td c>—<td r>200000<td c>—<td>(14)
+<td>Nyassaland (Prot.)<td r>102500<td c>—<td c>—<td r>1218000<td c>—<td>(19)
+<td>Sydafrik. Union<td r>3958000<td c>—<td c>—<td r>9292000<td c>—<td>(17)
+<td>Mauritius m. m.<td r>2095<td c>—<td c>—<td r>392024<td c>—<td>(17)
+<td>Seycheller m. m.<td r>404<td c>—<td c>—<td r>25000<td c>—<td>(19)
+<td>Tristan da Cunha<td r>116<td c>—<td c>—<td r>95<td c>—<td>(09)
+<td>St Helena<td r>104<td c>—<td c>—<td r>3650<td c>—<td>(19)
+<td>Ascension<td r>88<td c>—<td c>—<td r>250<td c>—<td>(19)
+<td>Ægypten<td r>994300<td c>—<td c>—<td r>12751000<td c>—<td>(17)
+<td>Anglo-ægypt. Sudan<td r>2549500<td c>—<td c>—<td r>3400000<td c>—<td>(17)
+<td r>I alt i Afrika<td r>c. 11200000<td c>km<sup>2</sup><td c>med<td r>61166000<td c>Indb.<td>
+<td 7>
+<td 7><tab>I <sp>Amerika</sp>:
+<td>Dominion of Canada<td r>9659400<td c>km<sup>2</sup><td c>med<td r>8835000<td c>Indb.<td>(19)
+<td>Newfoundland<td r>110670<td v2 c>—<td v2c>—<td v2 r>259000<td c>—<td>(19)
+<td>med Labradorkyst<td r>310000
+<td>Bermudas<td r>50<td c>—<td c>—<td r>22000<td c>—<td>(17)
+<td>Britisk Honduras<td r>22270<td c>—<td c>—<td r>43400<td c>—<td>(19)
+<td>Bahamaøer<td r>11405<td c>—<td c>—<td r>60000<td c>—<td>(17)
+<td>Turcos og Caiquesøer<td r>580<td c>—<td c>—<td r>5600<td c>—<td>(19)
+<td>Jamaica<td r>11530<td c>—<td c>—<td r>891000<td c>—<td>(19)
+<td>Caymanøer<td r>230<td c>—<td c>—<td r>6000<td c>—<td>(16)
+<td>Øerne over Vinden<td r>1850<td c>—<td c>—<td r>128264<td c>—<td>(14)
+<td>Øerne under Vinden<td r>1365<td c>—<td c>—<td r>180200<td c>—<td>(19)
+<td>Barbados<td r>436<td c>—<td c>—<td r>192000<td c>—<td>(19)
+<td>Trinidad og Tobago<td r>4838<td c>—<td c>—<td r>381300<td c>—<td>(19)
+<td>Britisk Guyana<td r>231800<td c>—<td c>—<td r>311000<td c>—<td>(19)
+<td>Falklandsøer (Syd Georgien)<td r>19400<td c>—<td c>—<td r>3250<td c>—<td>(19)
+<td>Sydørkneyøer, Sandwichøer, Sydshetlandsøer,<br>Grahamsland<td r>404000<td c>—<td c>—<td c>—<td>(—)
+<td r>I alt i Amerika<td r>c. 10790000<td c>km<sup>2</sup><td c>med<td r>11081000<td c>Indb.<td>
+<td 7>
+<td 7><tab>I <sp>Australien</sp>:
+<td>Commonwealth of Australia<td r>8179000<td c>km<sup>2</sup><td c>med<td r>6053500<td c>Indb.<td>(19)
+<td>Ny Zeeland m. m.<td r>272000<td c>—<td c>—<td r>1213000<td c>—<td>(19)
+<td>Fidjiøer og Rotouma<td r>19256<td c>—<td c>—<td r>163400<td c>—<td>(19)
+<td>Nauru<td r>5<td c>—<td c>—<td r>1350<td c>—<td>(—)
+<td>Tongaøer (Prot.)<td r>1010<td c>—<td c>—<td r>25222<td c>—<td>(18)
+<td>Salomonsøer (Prot.)<td r>38300<td c>—<td c>—<td r>150740<td c>—<td>(19)
+<td>Gilbert og Elliceøer<td r>1190<td c>—<td c>—<td r>32970<td c>—<td>(—)
+<td>Santa Cruz og Tucopia<td r>1002<td c>—<td c>—<td r>7700<td c>—<td>(—)
+<td>Starbuck, Malden, Victoria<td r>98<td c>—<td c>—<td r>168<td c>—<td>(—)
+<td>Pitcairn<td r>5<td c>—<td c>—<td r>169<td c>—<td>(15)
+<td r>I alt i Australien<td r>c. 8512000<td c>km<sup>2</sup><td c>med<td r>7648000<td c>Indb.<td>
+<td r>I alt Engelske Kolonier<td r>c. 36042000<td c>km<sup>2</sup><td c>med<td r>408699000<td c>Indb.<td c>
+<td 7>
+<td 7 c><sp>Frankrig</sp>.
+<td 7><trab>I <sp>Afrika</sp>:
+<td>Algier<td r>575289<td c> km<sup>2</sup><td c>med<td r>5563828<td c>Indb.<td>(11)
+<td>Tunis (Prot.)<td r>125130<td c>—<td c>—<td r>1953000<td c>—<td>(15)
+<td>Marokko (Prot.)<td r>572000<td c>—<td c>—<td r>5400000<td c>—<td>(—)
+<td>Fransk Vestafrika<td r>3958100<td c>—<td c>—<td r>12171600<td c>—<td>(15)
+<td>(Senegal, Haut Sénégal et Niger, Territoire<br>militaire du Niger, Haut Volta, Mauritania,<br>Guinée française, Côte d'Ivoire, Dahomey,<br>Togo).
+<td>Fransk Sahara (Interessesfære)<td r>2394200<td c>—<td c>—<td r>45000<td c>—<td>(—)
+<td>Fransk Ækvatorial Afrika<td r>2971000<td c>—<td c>—<td r>5605600<td c>—<td>(11)
+</table>

@@ -1,0 +1,143 @@
+Varmemængde <i>v</i> (<i>t</i><sub>2</sub>—<i>t</i><sub>1</sub>), som K. har modtaget. Heraf kan
+<i>c</i> findes.
+
+En nøjagtig Bestemmelse kræver dog
+Hensyntagen til mange Omstændigheder. Trods K.'s
+Konstruktion kan Varmeudveksling med
+Omgivelserne ikke helt undgaas; den gøres lille,
+ved at Forsøgsomstændighederne vælges
+saaledes, at <i>t</i><sub>2</sub> ligger nær <i>t</i><sub>1</sub>, hvorfor man bruger
+et stort Vandindhold og maa anvende et fint
+Termometer. Endvidere hjælper det at have <i>t</i><sub>1</sub>
+omtr. lige saa meget under Omgivelsernes
+Temperatur som <i>t</i><sub>2</sub> over denne, idet Varmetilførslen
+til K. i første Del af Forsøget da omtr. ophæves
+af Varmetabet i sidste Del af Forsøget. Men
+ved nøjagtige Forsøg maa man ved at følge
+Gangen i K.'s Temp. i længere Tid før og efter
+Forsøget bestemme Varmeudvekslingen med
+Omgivelserne ved forsk. Temp.
+Varmeudvekslingen under Forsøget lader sig da næsten helt
+eliminere ved Beregning, men denne
+forudsætter konstant Temp. af Omgivelserne, hvorfor
+det ydre Kar ofte gøres dobbeltvægget, saa at
+det mellem Væggene kan indeholde Vand, hvis
+Temp. næsten holder sig konstant, ell. man kan
+sende en Vandstrøm af konstant Temp. gennem
+det. Termometret aflæses i Kikkert, saa at
+Iagttageren kan undgaa at nærme sig K. Til
+Opvarmning af det Legeme, der skal
+undersøges, har man konstrueret en stor Mængde
+forsk. Apparater, der kan anbringes
+umiddelbart over ell. ved K. og muliggøre en meget
+hurtig Overføring af Legemet til K., saa at
+Varmetab undervejs næsten kan undgaas.
+
+Ved Bestemmelse af Vædskers Varmefylde
+bruges hyppigst Vædsken selv som K.-Vædske;
+man tilfører den da en bekendt Varmemængde
+enten ved elektrisk Opvarmning ell. hurtigere,
+men mindre nøjagtigt, ved en Kalorifere, et
+termometerlignende Apparat, dog af betydelig
+større Dimensioner end alm. Termometre, og
+med kun to Delestreger og en Udvidelse paa
+Røret mellem dem. Kaloriferen opvarmes,
+indtil Kvægsølvet er steget over den øverste Streg,
+hvorefter man lader den afkøles. I det Øjeblik
+Kvægsølvet passerer Stregen, stikkes den ned
+i K. og forbliver der under stadig Omrøring,
+indtil Kvægsølvet passerer den nederste Streg.
+Ved Forsøg med Vand i K. bestemmes en Gang
+for alle, hvor megen Varme Kaloriferen afgiver
+ved denne Afkøling.
+
+Blandings-K. anvendes, foruden til
+Bestemmelse af Varmefylder, til Bestemmelse af
+Smeltevarme, Fordampningsvarme,
+Omdannelsesvarme, Opløsnings- og Reaktionsvarme o. s.
+v. Til mange af disse Bestemmelser maa
+bruges ændrede Konstruktioner, som maa
+forbigaas her. Talrige Konstruktioner af K. til de
+sidstnævnte termokemiske Bestemmelser
+skyldes Julius Thomsen. En Række særlige
+K.-Anordninger har været anvendt til Bestemmelse
+af Varmeenhedens mekaniske Ækvivalent; et
+bekvemt Øvelsesapparat hertil skyldes C.
+Christiansen. Teknisk meget vigtige er Bestemmelser
+af Brændselstoflers Brændværdi; det dertil
+hyppigst anvendte K. (Berthelot-Mahler's K.) er
+omtalt under <sp>Brændsel</sp>. Til Bestemmelse af
+luftformige Brændselsstoffers Brændværdi
+anvendes især Junker's <sp>Gas-K.</sp>
+
+Ganske andre Principper for Maalingen af
+Varmemængder anvendes i Is-K. og Damp-K. I
+<sp>Is-K.</sp> anvendes den Varmemængde, der skal
+maales, til Issmeltning, og man bestemmer da
+enten Vægten af det dannede Vand
+(<sp>Lavoisier</sp> og <sp>Laplace</sp>) ell.
+Rumfangsformindskelsen ved Isens Smeltning (<sp>Bunsen</sp>). Fig. 2
+viser Konstruktionen
+af Bunsen's Is-K.,
+det eneste, der kan
+give nøjagtige
+Bestemmelser.
+Reagensglasset <i>P</i> er
+indsmeltet i
+Beholderen <i>W</i>, der
+indeholder luftfrit Vand,
+og derunder
+Kvægsølv <i>Q</i>, som naar op
+i det vandrette
+Kapillarrør <i>R</i>
+(forkortet paa Fig.). Ved
+at hælde f. Eks.
+stærkt afkølet
+Vinaand i <i>P</i>, faar man
+uden om <i>P</i> dannet en
+Iskappe <i>E</i>, hvorefter
+Vinaanden fjernes og
+noget Vand af 0°
+bringes derind (<i>I</i>). Hele Apparatet omgives af
+smeltende Is ell. af Vand <i>S</i>, der er afkølet til 0°
+og omgivet af smeltende Is i <i>A</i>, saa at det hele
+faar Temp. 0°. Den Varmemængde, der skal
+maales (f. Eks. en afvejet, opvarmet Mængde af
+det Stof, hvis Varmefylde skal bestemmes),
+bringes ned i <i>P</i>; der vil da smelte noget af
+Iskappen <i>E</i>, og den dermed følgende
+Rumfangsformindskelse bevirker, at Kvægsølvet i <i>R</i>
+trækker sig tilbage. Af Bevægelsen i <i>B</i>, der maa
+være inddelt og kalibreret, findes
+Rumfangsformindskelsen og deraf ud fra Isens kendte
+Smeltevarme og den kendte
+Vægtfyldeforandring ved Smeltningen den søgte
+Varmemængde. Hyppigst findes dog ved et særligt Forsøg
+med en kendt Varmemængde Betydningen af
+en bestemt Flytning af Kvægsolvet. Is-K. egner
+sig især til Maaling af smaa Varmemængder,
+f. Eks. til Bestemmelse af Varmefylden for,
+sjældne Stoffer, som man kun har i smaa
+Mængder. Varmeudveksling med Omgivelserne
+er næstenohelt undgaaet, da K.'s Temp. er
+konstant 0°, men p. Gr. a. Isens Smeltepunkts
+Afhængighed af Trykket (og Isens Renhed), vil
+Smeltepunktet for <i>E</i> aldrig være nøjagtig det
+samme som Temp. af <i>A</i>, saa at man ogsaa uden
+Varmetilførsel vil finde en langsom Bevægelse
+af Kvægsølvet i <i>R</i>; den maa bestemmes og
+sættes i Regning.
+
+I <sp>Damp-K.</sp> lader man det Legeme, hvis
+Varmefylde skal bestemmes, blive opvarmet i en
+Dampstrøm og bestemmer Vægten af det
+derved paa Legemet fortættede Vand. Dette
+Princip, der er anvendt i Konstruktioner af
+<sp>Bunsen</sp> og <sp>Joly</sp>, kan nøjes med meget smaa
+Stofmængder, men har ikke fundet synderlig
+Anvendelse.
+<i>H. M. H.</i>
+
+<img>Fig. 2.
+Bunsens Iskalorimeter.</img>
+</chapter>

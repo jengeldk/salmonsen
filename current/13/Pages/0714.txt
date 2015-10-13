@@ -1,0 +1,100 @@
+Elektrodespændinggen. Sættes 1/2 <i>m</i> <i>v</i><sup>2</sup> = <i>e V</i>, <i>e/m</i> = <i>v</i><sup>2</sup>/2 <i>V</i>, og
+indsættes den fundne Værdi for <i>v</i>, faas altsaa
+en Værdi for <i>e/m</i>, som i hvert Fald ikke er for
+stor. Wiechert fandt <i>e/m</i> = 1,55·10<sup>7</sup>, hvilket er
+c. 1600 Gange saa stort som det tilsvarende
+Forhold for en elektrolytisk Brintion. Idet han
+antog, at <i>e</i> er lige stor med Brintionens
+Ladning, førtes han til den Slutning, at
+K.-Partiklernes Masse er meget mindre end Brintatomets,
+de kan altsaa ikke være alm. kemiske Atomer.
+Wiechert's Metode tillader ingen nøjagtig
+Bestemmelse af <i>v</i> og <i>e/m</i>, men den direkte
+Bestemmelse af <i>v</i> har stor Interesse.
+
+<sp>Kaufmann</sp> bestemte, ligeledes 1897, <i>e/m</i> og
+<i>v</i> ved at maale Afbøjningen i et magnetisk Felt
+og Elektrodespændingen <i>V</i>. En K.-Partikel, der
+bevæger sig i et homogent
+magnetisk Felt af Styrke <i>H</i>, og som
+til at begynde med har
+Hastigheden <i>v</i> i en Retning, der staar
+vinkelret paa den magnetiske Kraft,
+vil være paavirket af den
+konstante Kraft <i>e v H</i>, der stedse
+staar vinkelret på
+Bevægelsesretningen. Partiklen vil
+følgelig bevæge sig med uforandret
+Hastighed i en Cirkel, hvis Radius <i>r</i> er bestemt ved,
+
+at <i>e v H</i> = <i>m v</i><sup>2</sup>/<i>r</i>, hvoraf faas <i>r</i> =<i> m v</i>/<i>e H</i>
+Kaufmann antog nu, at K.-Partiklernes Hastighed
+er bestemt ved Elektrodespændingen <i>V</i>, idet
+1/2 <i>m</i> <i>v</i><sup>2</sup> = <i>e</i>·<i>V</i>. Elimineres <i>v</i> ved Hjælp af
+denne Ligning af Udtrykket for <i>r</i>, faas <i>r</i> =
+√2<i>m</i>/<i>e</i> √<i>V/H</i>. Han bestemte nu med det paa Fig.
+5 skitserede Apparat <i>r</i> for forskellige Værdier
+af <i>H</i> og <i>V</i> og med forsk. Luftarter i Apparatet.
+<i>S S</i> er to Strømruller, som imellem sig skaber
+et omtr. homogent Felt. <i>r</i> maales ved at
+iagttage Beliggenheden af Luminiscenspletten paa
+Skærmen <i>G</i>. Maalingerne gav, at <i>r</i> = <i>C</i> √<i>V/H</i>,
+hvor <i>C</i> er en Konstant, der er uafhængig af
+Luftarten og Elektrodemetallet. Man fandt
+altsaa for <i>r</i> netop den Afhængighed af <i>V</i> og <i>H</i>,
+som var teoretisk forudset. Heraf følger, at
+Antagelsen 1/2 <i>m</i> <i>v</i><sup>2</sup> = <i>e V</i>, som blev gjort ved
+Beregningen af <i>r</i>, er berettiget, og at
+K.-Partiklerne altid er af samme Art. Af <i>C</i>'s Størrelse
+fandtes <i>e/m</i> = 1,8·10<sup>7</sup>. Efter denne Metode er
+der foretaget mange nøjagtige Bestemmelser.
+Oftest lader man det magnetiske Felt være saa
+stort, at K. bøjes stærkt, og maaler <i>r</i> direkte.
+
+De første Forsøg paa at vise, at K. afbøjes i
+elektrisk Felt, var alle mislykkedes. Anbringes
+nemlig K.-Røret mellem to opladede
+Kondensatorplader, vil Virkningen af det ydre Felt paa
+K. helt ell. delvis ophæves p. Gr. a.
+Opladninger af Rørets indre Vægge; anbringer man
+derimod Kondensatorpladerne inde i selve Røret,
+vil der i Almindelighed komme en Udladning i
+Gang mellem Pladerne, hvorved Feltet mellem
+dem bliver inhomogent, saaledes at den
+elektriske Kraft kun faar en betydelig Størrelse tæt
+ved Pladerne. Den sidste Vanskelighed lykkedes
+det <sp>J. J. Thomson</sp> at overvinde ved at
+anvende saa lavt Tryk i Udladningsrøret, at en
+Udladning mellem Pladerne vanskelig kan
+vedligeholdes. Han benyttede derefter 1897 den
+elektriske Afbøjning til Bestemmelse af <i>e/m</i> og <i>v</i>.
+Hans Apparat er vist i Fig. 6. Et smalt
+Katodestraalebundt passerer mellem
+Kondensatorpladerne <i>D</i> og <i>E</i> og rammer den luminiscerende
+Skærm F. Tilvejebringer man et Felt af Styrke
+<i>E</i> mellem Pladerne, vil K.-Partiklerne, saa
+længe de befinder sig i Feltet, have en
+Acceleration <i>e E/m</i> vinkelret paa deres opr.
+Forplantningsretning. Er Pladernes Længde <i>l</i>, vil en
+K.-Partikel befinde sig i Feltet i Tiden <i>l/v</i>, og den
+vil da have erhvervet sig en Sidehastighed <i>e E/m</i> <i>l/v</i>.
+
+Er Afstanden fra <i>D</i> og <i>E</i> til den
+luminiscerende Skærm <i>L</i>, vil Partiklen hertil bruge Tiden
+<i>L/v</i>. Den vil altsaa ramme Skærmen <i>F</i> paa et
+St., som ligger et Stykke <i>e</i>/<i>m</i> <i>v</i><sup>2</sup> <i>E I L</i> fra det St.,
+hvor den vilde ramme uden Felt. Ved denne
+Beregning er det forudsat, at <i>l</i> er lille i
+Forhold til <i>L</i>. Af Udtrykket for
+Luminiscensplettens Forskydning ses, at man ved at maale
+denne kan beregne Størrelsen <i>e</i>/<i>m</i> <i>v</i><sup>2</sup>. <sp>J. J.
+Thomson</sp> anbragte nu et homogent magnetisk Felt af
+samme Udstrækning som det elektriske saadan
+rettet, at den magnetiske Afbøjning af K. gaar
+i modsat Retning af den elektriske, og bestemte
+ved at variere Feltet den Feltstyrke <i>H</i>, for
+hvilken K. ingen Afbøjning lider. Man maa da
+
+<img>Fig. 5.</img>
+
+<img>Fig. 6.</img>

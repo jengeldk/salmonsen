@@ -1,0 +1,120 @@
+været hjemlet. Saaledes sad der i det fr. Senat
+efter Loven af 24. Febr 1875 foruden 225
+Medlemmer, valgte af Departementerne, 75 valgte
+for Livstid af Nationalforsamlingen, og naar
+nogen af de sidste afgik, skulde Senatet selv
+besætte den ledige Plads, jfr. Lovens Art. 7.
+Denne Ordning afskaffedes dog 1884. I
+Danmark derimod gælder endnu den ved Grl. af 5.
+Juni 1915 § 36 indførte Regel, hvorefter 1/4 af
+Landstingets Medlemmer vælges af det
+afgaaende Landsting selv, hver Gang Landstinget
+opløses ell. de landstingsvalgte Medlemmers
+8-aarige Periode er udløbet — en Regel,
+hvormed man har villet styrke Kontinuiteten i
+Landstinget.
+<i>K. B.</i>
+</chapter>
+
+<chapter name="Koordinater">
+<b>Koordinater</b> (lat.) (mat.). I Geometrien
+angiver man ofte Beliggenheden af et Punkt, en
+Linie, en Plan ell. almindeligere en Figur af en
+bestemt Art ved Tal, som udtrykker Egenskaber ved
+Figurens Beliggenhed i Forhold til en fast
+Figur; disse Tal kaldes K., og den faste Figur
+taldes <sp>Koordinatsystemet</sp>. Ved disse
+Bestemmelser ved K. regnes Længder paa
+Linier alm. med Fortegn (se <sp>Geometri</sp>), og
+Liniers Vinkler med en fast Linie ell. Punkters
+Afstande fra en saadan Linie regnes positive
+til den ene, negative til den anden Side af
+Linien. Beliggenheden af et Punkt paa en
+given ret Linie kan udtrykkes ved en enkelt K.,
+Punktets <sp>Abscisse</sp> ɔ: det Tal, som i en vis
+Længdeenhed udtrykker Afstanden fra et fast
+Begyndelsespunkt paa Linien til Punktet; som
+K. kam ogsaa bruges det Forhold, hvori Punktet
+deler Stykket mellem to givne Punkter paa
+Linien, ell. dets Dobbeltforhold (s. d.) med tre
+givne Punkter paa linien. Som K. for Linier
+i en Plan gennem et fast Punkt (Liniebundt)
+ell. for Planer gennem en fast ret Linie
+(Planbundt) bruges alm. <i>tg</i> til Vinklen med en fast
+til Bundtet hørende Linie ell. Plan. Et Punkt
+paa en given Kurve bestemmes ogsaa hyppig
+ved en enkelt K., paa et Keglesnit f. Eks. ved
+K. til en Linie gennem Punktet, hørende til
+Liniebundtet gennem et fast Punkt paa
+Keglesnittet. I Descartes' analytiske Geometri
+bestemmes et Punkt i en Plan ved
+<sp>Parallelkoordinater</sp>. Koordinatsystemet (Fig. 1)
+bestaar af to rette Linier, Koordinatakserne,
+nemlig <sp>Abscisseaksen</sp> <i>x</i> og
+<sp>Ordinataksen</sp> <i>y</i>, der skærer hinanden i
+<sp>Begyndelsespunktet</sp> <i>O</i>, og K. til et Punkt <i>P</i>
+er de Stykker <i>OA</i>, <sp>Abscissen</sp>, og <i>OB</i>,
+<sp>Ordinaten</sp>, som Paralleller med Akserne
+gennem <i>P</i> afskærer. Koordinatsystemet kaldes
+retvinklet, hvis Akserne er vinkelrette paa
+hinanden, ellers <sp>skævvinklet</sp>. Paa lgn. Maade
+kan man i Rummet som Koordinatsystem
+bruge tre rette Linier, <i>X</i>, <i>Y</i>, <i>Z</i>, gennem samme
+Punkt (Fig. 2), og som et Punkt <i>P</i>'s K. de
+Stykker, <i>OA</i>, <i>OB</i> og <i>OC</i>, som afskæres paa en
+Akse af en Plan gennem <i>P</i> parallel med de to
+andre Akser. Staar Akserne parvis vinkelrette
+paa hinanden, kaldes Koordinatsystemet
+<sp>treretvinklet</sp>. De saakaldte
+<sp>Trekantskoordinater</sp> ell. <sp>trilineære K.</sp> er
+først benyttede af Möbius og Plücker. De
+kaldes <sp>Punktkoordinater</sp> eller
+<sp>Liniekoordinater</sp>, efter som de anvendes til
+Bestemmelse af Punkter ell. Linier i en Plan.
+I første Tilfælde (Fig. 3) bestaar
+Koordinalsystemet af en Trekant <i>ABC</i> og et uden for
+dennes Sider valgt Punkt <i>E</i>, <sp>Enhedspunktet</sp>.
+Et Punkt <i>P</i>'s K. er dets Afstande fra
+Koordinattrekantens Sider dividerede med
+Enhedspunktets Afstande fra de samme Sider; to K.'s
+Forhold er et Dobbeltforhold som det mellem
+Linierne <i>BA</i>, <i>BC</i>, <i>BE</i>, <i>BP</i>. Ved
+Liniekoordinater (Fig. 4) bestaar Koordinatsystemet af en
+Trekant <i>ABC</i> og en <sp>Enhedslinie</sp> <i>e</i>. En
+Linie <i>l</i>'s K. er dens Afstande fra
+Koordinattrekantens Vinkelspidser dividerede med
+Enhedsliniens Afstande fra de samme Vinkelspidser;
+to K.'s Forhold er et Dobbeltforhold som
+(<i>ACMR</i>). To Figurer, hvis Punkter (ell. Linier)
+bestemmes ved de samme K. i to forsk.
+Trekantskoordinatsystemer, er hinandens
+Centralprojektioner; er en Sætning om en Figur bevist
+ved Hjælp af et Trekantskoordinatsystem, gælder
+den om alle Centralprojektioner af Fig. Tillige
+vil to Figurer, der i et
+Trekantspunktkoordinatsystem og et Trekantsliniekoordinatsystem
+bestemmes ved de samme K., svare dualistisk
+til hinanden (se <sp>Dualitet</sp>), og man kan
+altsaa ved de samme
+Regninger bevise en
+Sætning og den dualistisk
+tilsvarende. Paa
+ganske lgn. Maade
+bruger man i Rummet et
+Tetraeder som
+Koordinatsystem baade for
+Punktkoordinater og
+for Plankoordinater. Et andet meget
+benyttet Slags K. er <sp>Polarkoordinater</sp>.
+Her bestaar Koordinatsystemet i Planen (Fig.
+5) af en fast ret Linie <i>X</i> og et fast Punkt <i>O</i>,
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+
+<img>Fig. 3.</img>
+
+<img>Fig. 4.</img>
+
+<img>Fig. 5.</img>

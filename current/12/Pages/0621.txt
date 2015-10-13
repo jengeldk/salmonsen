@@ -1,0 +1,146 @@
+<table>
+<td>CH<sub>2</sub> . CH<sub>2</sub> . CH<sub>3</sub>, og Isobutan, CH<sub>3</sub> .<td>CH . CH<sub>3</sub>,
+<td><td>║
+<td><td>CH<sub>3</sub>
+</table>
+ell. fra en forsk. Fordeling af to ell. fl.
+Grundstofatomer ell. Radikaler paa den i øvrigt
+ensdannede Kerne af Kulstofatomer, f. Eks.
+Propylalkohol, CH<sub>3</sub> . CH<sub>2</sub> . CH<sub>2</sub>OH, og
+Isopropylalkohol, CH<sub>3</sub> . CH(OH)CH<sub>3</sub>. c)
+<sp>Stereoisomeri</sp>, der findes hos saadanne isomere
+Forbindelser, hos hvilke Rækkefølgen i Bindingen
+af Grundstofatomerne er den samme, men hvor
+Atomerne er ordnede paa forsk. Maade i
+Rummet. Eksempel herpaa haves i mange
+organiske Forbindelser, saaledes hos Fumarsyre og
+Maleïnsyre:
+<table>
+<td r>COOH . <td>C<td>. H <td>H . <td>C <td>. COOH
+<td><td>║<td><td><td>║
+<td r>H .<td>C <td>. COOH <td>H . <td>C <td>. COOH
+<td 3 c>Fumarsyre<td 3 c>Maleïnsyre
+</table>
+<i>(O. C). R. K.</i>
+</chapter>
+
+<chapter name="isometrisk Afbildning">
+<b>isometrisk Afbildning</b> er den spc. Form af
+axonometrisk Afbildning (se
+<sp>Deskriptivgeometri</sp>), hvor Billedplanen danner lige
+store Vinkler med Koordinatakserne, og
+Sestraalerne er vinkelrette paa Billedplanen.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Isomorfi">
+<b>Isomorfi</b> ['i-] (ίσος; lige, μορφή Form), det
+Forhold, at Legemer med analog kem.
+Sammensætning har omtr. samme Krystalform,
+ligesom de ogsaa i mange Tilfælde kan danne
+Blandingskrystaller i alle Forhold, og en
+Krystal af den ene Substans kan vokse videre i en
+Opløsning af den anden. I Beg. af 19. Aarh.
+antog man med Hauy, at een og samme
+Krystalform ikke kunde være fælles for to kemisk
+forsk. Stoffer. Da opdagede Mitscherlich 1819,
+at det sure fosforsure Ammoniak og det
+tilsvarende arsensure Salt havde samme
+Krystalform, der tillige fandtes hos de to tilsvarende
+Kalisalte. Han paaviste lgn. Forhold hos andre
+Grupper af Stoffer og opstillede Læren om I.
+Krystalformerne hos isomorfe Stoffer er aldrig
+fuldstændig ens, naar man ikke har med
+regulære Krystaller at gøre, men Elementerne og
+dermed de enkelte Vinkler viser smaa
+Forskelligheder. Paa samme Maade forholder det sig
+med fl. andre fysiske Egenskaber, som
+Molecularvolumen, Spaltelighed, termiske og optiske
+ForholdL Saaledes har man I. mellem de
+romboedriske Karbonater af Kalcium
+(Romboedervinkel 74° 55'), Magnium (72° 36'), Zink (72°
+20'), Jern (73° 0') og Mangan (73° 0'), de har
+alle samme Spaltelighed og stærk negativ
+Dobbeltbrydning. Mindre Vinkeldifferenser, men
+større Forskel i Spaltelighed findes i den af
+de rombiske Karbonater af Kalcium, Baryum,
+Strontium og Bly dannede isomorfe Gruppe. -
+Krystaller, der bestaar af to ell. fl. isomorfe
+Stoffer i vekslende Blandingsforhold, kaldes
+<sp>isomorfe Blandingskrystaller</sp>, som
+i Henseende til de fysiske Egenskaber i Alm.
+danner jævne Overgange mellem Yderleddene.
+- Isomorfiforholdene spiller en stor Rolle i
+Mineralogien, fordi en stor Del Mineraler er
+isomorfe Blandinger; de danner tillige et
+Hovedgrundlag for den mineralogiske Systematik. I
+Kemien benyttes I. ved Bedømmelsen af
+Grundstoffernes Slægtskabsforhold og i visse
+Tilfælde ved Atomtals Bestemmelse.
+Grundstofferne kan sammenfattes i Grupper, saaledes at
+de, der hører til samme Gruppe, kan erstatte
+hinanden i adskillige af deres Forbindelser
+uden synderlig at forandre Krystalformen
+(<sp>isomorf Erstatning</sp>). Saadanne
+Grupper er f. Eks. Klor, Brom, Jod, Fluor;
+ligeledes Svovl, Selen, Krom, Mangan; men de
+forsk. Isomorfiforhold fører ikke alle til samme
+Gruppering, og Gruppernes Afgrænsning er til
+Dels vilkaarlig. En særlig Bet. herved har
+<sp>Dimorfien</sp>, det Forhold, at et (ved sin kemiske
+Sammensætning defineret) Stof under forsk.
+Krystallisationsbetingelser kan danne snart een,
+snart en helt anden Slags Krystaller, som
+foruden i Formen ogsaa afviger i Vægtfylde o. a.
+fysiske Egenskaber. Saaledes krystalliserer den
+kulsure Kalk i nogle Tilfælde som Kalkspat
+(romboedrisk; med Vægtfylde 2,72), i andre som
+Aragonit (rombisk; 2,94); den danner derved et
+Bindeled mellem de to førnævnte isomorfe
+Grupper af Karbonater. Naar to isomorfe Grupper
+saaledes er forbundne derved, at eet ell. fl. af
+deres Stoffer er dimorfe med en Form i hver
+af Grupperne, siges de at være forbundne ved
+<sp>Isodimorfi</sp> og danner tilsammen en
+<sp>isodimorf Gruppe</sp>. Som en udpræget saadan
+fortjener yderligere at nævnes Svovlmetallerne
+af Sammensætningen RS<sub>2</sub>, hvor R er Mangan,
+Jern, Kobolt ell. Nikkel; de krystalliserer dels
+rombisk (Straalkis FeS<sub>2</sub>), dels regulært
+(Svovlkis FeS<sub>2</sub>, Mangankis MnS<sub>2</sub>). Antallet af de til
+denne Gruppe hørende Stoffer forøges nu
+yderligere derved, at saavel i den regulære som i
+den rombiske Afdeling kan Svovlet i hvilket
+som helst Forhold isomorft erstattes af Arsen
+og Antimon trods disse Grundstoffers kemisk
+ringe Slægtskab med Svovl. — Bedømmelsen af
+I.'s Væsen vanskeliggøres derved, at Lighed i
+Form og Lighed i Sammensætning ingenlunde
+følges ad paa en Maade, der kan tyde paa et
+umiddelbart Aarsagsforhold. De Stoffer, der
+viser Overensstemmelse i Krystalform, kan
+nemlig være (<i>a</i>) til hinanden svarende
+Forbindelser af Grundstoffer, der i det periodiske
+System hører til samme Gruppe; her svarer
+Formligheden til kemisk Analogi i snævreste
+Forstand. Inden for fl. isomorfe Rækker af
+denne Art (f. Eks. Sulfaterne af Kalium,
+Rubidium, Cæsium) har Tutton paavist, at alle
+krystallografiske Egenskaber er Funktioner af
+Atomvægten hos de hinanden isomorft
+erstattende Grundstoffer (<i>b</i>). Dernæst gives der
+talrige og højst forskelligartede Tilfælde, hvor
+man uden væsentlig Ændring i Krystalformen
+kan erstatte et Grundstof med et mindre nær
+beslægtet ell. endog med et helt forskelligartet
+Radikal; saaledes finder man ofte isomorf
+Erstatning af Fluor med Hydroxyl, i Augitternes
+og Hornblendernes isomorfe Grupper maa man
+antage isomorf Erstatning af Ca<sub>2</sub> med FeNa, af
+Al<sub>2</sub> med SiCa, og endnu mere paafaldende er
+den næsten fuldstændige Overensstemmelse i
+Krystalform mellem Stoffer som Kalkspat (Ca
+CO<sub>3</sub>) og Salpeter (NaNO<sub>3</sub>). Det ser i saadanne
+Tilfælde ud, som om det er Atomernes Antal
+og Stilling mere end deres stoflige Natur, der
+har Bet. for I., en Opfattelse, som allerede

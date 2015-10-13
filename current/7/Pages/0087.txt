@@ -1,0 +1,131 @@
+de elektriske Kræfter tværtimod selv et Arbejde,
+idet de virker <sp>med</sp> Bevægelsen, er Punktets
+Spænding negativ. Jordens Spænding er ved
+denne Definition sat lig Nul.
+Spændings<sp>forskellen</sp> mellem to Ledere <i>A</i> og <i>B</i> er det
+Arbejde, der udfordres til at føre Enhed af positiv
+Elektricitet fra <i>B</i> til <i>A</i>; den bliver den samme,
+ad hvilken Vej end denne Bevægelse foregaar,
+og hvilke Punkter af <i>A</i> og <i>B</i> man end benytter
+som Udgangspunkt og Endepunkt for den
+bevægede Elektricitetsenheds Bane. Alle Punkter i en
+Leder har derfor samme Spænding, naar
+Elektriciteten er i Hvile. Bevæger et lille positivt
+elektrisk Legeme sig langs en Kraftlinie fra dens
+Beg. til dens Ende, vil Kræfterne, der virker
+paa det, hele Vejen gaa med Bevægelsen;
+Spændingen <sp>synker</sp> altsaa uafbrudt fra den ene
+Ende af Linien til den anden, og denne kan
+følgelig aldrig komme tilbage til den Leder,
+hvorfra den gik ud, men maa ende paa en anden
+med en lavere Spænding. Fører man en
+isoleret uelektrisk Leder hen i Nærheden af et
+elektrisk Legeme, vil der udvikle sig et
+elektrisk Felt dels mellem dette Legeme og Lederen,
+dels mellem denne o. a. Legemer. Man siger,
+at Lederen er blevet elektriseret ved
+<sp>Fordeling</sp>. Den faar to lige store, modsatte
+Ladninger paa sin Overflade, ordnede saaledes, at der
+hen imod det elektriske Legeme, som fremkaldte
+Fordelingen, vender en Ladning, hvis Art er
+modsat Legemets. Paa den modsatte Side bliver
+der en Ladning af samme Art som i det
+elektriske Legeme; denne Ladning forsvinder fuld
+stændig, naar Lederen bringes i ledende For
+bindelse med Jorden, f. Eks. derved, at man
+ved en Metaltraad forbinder det med et Vand-
+ell. Gasrør. Lederens Spænding er nu Nul; dens
+Overflade har en positiv ell. negativ Ladning,
+efter som det Legeme, der fremkaldte
+Fordelingen, er negativt ell. positivt. Ladningens
+<sp>Tæthed</sp> maales ved Antallet af elektriske
+Enheder Paa en cm<sup>3</sup> af Lederens Overflade;
+den kan være forsk. i forsk. Punkter af
+Overfladen og er Nul paa Inderfladen af en hul,
+lukket Leder, altsaa paa Inderfladen af en
+Metaldaase med Laag paa, naar der da ikke findes
+elektriske Legemer inde i Hulningen. Dette
+følger af den før nævnte Sætning, at ingen
+Kraftlinie kan forbinde to Punkter af samme Leders
+Overflade. Mellem Tætheden paa Overfladen og
+Feltstyrken umiddelbart uden for den bestaar
+der en nøje Sammenhæng, idet Feltstyrken er
+4π (altsaa 12,5664) Gange Tætheden. En Kugles
+Overflade er 4π<i>r</i><sup>2</sup>, naar <i>r</i> er Kuglens Radius;
+er der en jævn Ladning med Tæthed σ paa
+Overfladen, saa vil Feltstyrken uden for
+Overfladen netop være lige saa stor, som om hele
+Ladningen var samlet i Kuglens Centrum. Hver
+elektrisk Enhed paa selve Lederens Overflade
+drives udad med en Kraft, der er lig 2πσ;
+denne Kraft opfattes nu som hidrørende fra en
+Spænding i Feltet, hvis Kraftlinier ligesom
+elastiske Traade søger at trække sig sammen
+og derved nærme de to Legemer til hinanden,
+som deres Ender er fæstede til. Efter denne
+Opfattelse gives der egl. ingen elektrisk
+Frastødning. Naar to ens elektriske Kugler bringes
+nær hinanden, ordner deres Ladninger sig
+saaledes, at de bliver tættest paa den Side af
+hver Kugle, der ligger længst borte fra den
+anden Kugle. Feltet bliver stærkest her, og den
+Kraft, der drager Kuglerne fra hinanden, større
+end den, der søger at nærme dem til hinanden.
+En Leders <sp>Kapacitet</sp> ell. Evne til at
+modtage elektrisk Ladning maales ved det Antal
+Elektricitetsenheder, der maa tilføres Lederen
+for at forhøje dens Spænding med en Enhed.
+En Kugles Kapacitet er numerisk lig dens
+Radius, maalt i cm. For at give en Leder stor
+kapacitet, nærmer man den til en anden
+Leder, der er i Forbindelse med Jorden. En
+simpel Form for en Kondensator viser Fig. 2. To
+parallelle Metalplader <i>A</i> og <i>B</i> skilles fra
+hinanden ved et Luftlag, hvis Tykkelse <i>D</i> er ringe
+i Forhold til en Plades Diameter. <i>A</i> lades, f.
+Eks. ved at forbindes med en
+Elektrisermaskines positive Konduktor, til Spændingen <i>V</i>,
+medens <i>B</i> sættes i Forbindelse med Jorden.
+Undersiden af <i>A</i> faar da en positiv Ladning, der er
+meget jævn; dens Tæthed kaldes σ. Oversiden
+af <i>B</i> faar en lige saa stor negativ Ladning. Det
+Arbejde, der udfordres for at føre Enhed af
+positiv Elektricitet fra <i>B</i> (ɔ: fra Jorden) til <i>A</i>,
+er Maal for Spændingen <i>V</i>, men da Feltstyrken
+mellem de to Plader er 4πσ, har man <i>V</i> = <i>S</i>σ
+<i>D</i>. Hele Ladningen paa Underfladen af <i>A</i> er <i>S</i>σ,
+naar Underfladens Areal er <i>S</i> cm<sup>2</sup>, divideres
+Ladningen med Spændingen, faar man
+Kapaciteten, der altsaa er S : 4π<i>D</i> ɔ: den forholder
+sig ligefrem som Pladens Areal og omvendt
+som Afstanden mellem Pladerne. Den indbyrdes
+Tiltrækning <i>F</i> mellem Pladerne er lig den ene
+Plades Ladning multipliceret med 2πσ, altsaa
+lig 2π<i>S</i>σ<sup>2</sup>. Tætheden σ kan findes af den før
+nævnte Ligning <i>V</i> = 4πσ<i>D</i> og indsættes i
+Udtrykket for <i>F</i>, saa Tiltrækningen mellem
+Pladerne kan findes, naar man kender deres
+Størrelse, Spændingsforskel og indbyrdes Afstand.
+Er der ikke Luft, men Glas ell. en anden
+Isolator mellem Pladerne, bliver Kondensatorens
+Kapacitet større; det Tal, den multipliceres med,
+kaldes Isolatorens
+<sp>Dielektricitetskonstant</sp> (s. d.); denne ligger for de fleste
+Isolatorer mellem 2 og 4.
+<i>K. S. K.</i>
+
+<img>Fig. 2.</img>
+</chapter>
+
+<chapter name="Elektrostenolyse">
+<b>Elektrostenolyse</b> kalder man efter <sp>F. Braun</sp>
+det Fænomen, at der finder kem. Sønderdeling
+Sted i selve Vædskemassen, naar en elektrisk
+Strøm, der ledes gennem Vædsken, tvinges til
+at passere en snæver Spalte, f. Eks. en Revne
+i en Glasplade, der er sat ned i Vædsken. I
+Revnen kan der da udvikles Luftblærer,
+udfældes Metal o. s. v. E. danner en Undtagelse
+fra den Regel, at der ved <sp>Elektrolyse</sp> (s.
+d.) kun finder kem. Sønderdeling Sted ved selve
+

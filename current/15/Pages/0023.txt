@@ -1,0 +1,134 @@
+Frekvenserne med Tilnærmelse kan fremstilles ved
+Formlerne <i>v<sub>K</sub></i> = (N ÷ δ<sub>1</sub>)<sup>2</sup> <i>K</i> [1/1<sup>2</sup>—1/2<sup>2</sup>] og <i>v<sub>L</sub></i> =
+(N÷δ<sub>2</sub>)<sup>2</sup> <i>K</i>[1/2<sup>2</sup>—1/3<sup>2</sup>], hvor <i>N</i> er Grundstoffets Nr.
+i det periodiske System, δ<sub>1</sub> og δ<sub>2</sub> forholdsvis
+smaa for Stoffet karakteristiske Størrelser, og <i>K</i>
+Rydberg's Konstant. Svingningstallene falder,
+som Formlerne viser, omtrentlig sammen med
+Svingningstallene for de Linier, som efter
+Analogi med Teorien for Brintspektret udsendes,
+naar en Elektron, der er bundet til en Kerne,
+hvis Ladning er <i>N</i> Gange Brintkernens
+Ladning, gaar henh. fra anden til første og fra
+tredie til anden stationære Tilstand. At et
+vilkaarligt Stofs Røntgenspektrum fremviser saa
+stor Lighed med Brintspektret, synes at vise,
+at Tiltrækningen fra den stærkt ladede Kerne
+paa en Elektron i det Indre af Elektronsystemet
+er dominerende i Forhold til Resultanten af
+de frastødende Kræfter, som de øvrige
+Elektroner udøver paa den betragtede Elektron.
+Disse Kræfter synes i første Tilnærmelse blot
+at »skærme« Elektronen fra Kernens
+Tiltrækning, saaledes at Kernen virker paa Elektronen,
+som om dens Ladning ikke var <i>N</i>, men <i>N</i>—δ<sub>1</sub>
+ell. <i>N</i>—δ<sub>2</sub> Gange Brintkernens Ladning.
+Ligheden med Brintspektret træder ogsaa frem
+ved <sp>Sommerfeld</sp>'s Opdagelse af, at
+Fremkomsten af visse Dubletter (Liniepar) i
+Røntgenspektrene kan forklares paa ganske samme
+Maade som Finstrukturen af Brintlinierne,
+nemlig ved, at der optræder Elektronbaner
+med forsk. Ekscentriciteter og noget forskellige
+Energiværdier. Betragtes Absorptionen af
+Røntgenstraaler og Frembringelsen af Røntgenspektre
+ved Elektronstød, viser der sig en væsentlig
+Forskel mellem Røntgenspektre og optiske
+Spektre. Medens møn, som omtalt i det
+foregaaende, kan faa Linierne i den principale
+Serie af et Stofs Buespektrum til at fremkomme
+en efter en, naar man bombarderer Stoffets
+Atomer med Elektroner af større og større
+Hastighed, maa Elektronerne for at frembringe
+en Linie i en vilkaarlig Serie af
+Røntgenspektret have en kinetisk Energi, som er større end
+<i>hv<sub>m</sub></i>, hvor <i>v<sub>m</sub></i> er Svingningstallet for den mest
+kortbølgede Linie i Serien, og med denne Energi
+af de stødende Elektroner faas samtidig alle
+Linierne i Serien. Et optisk
+Absorptionsspektrum indeholder som nævnt i Alm. alle Linier
+i den principale Serie; Absorptionsspektret for
+Røntgenstraaler bestaar derimod ikke af Linier,
+men af kontinuerte Omraader, et for hver
+Serie, som strækker sig fra en Bølgebredde, der
+er lidt mindre end Bølgebredden af den mest
+kortbølgede Linie i Serien, mod kortere
+Bølgebredder. <sp>Kossel</sp> har tydet disse Forhold ved
+at antage, at der i det normale Atom kun kan
+eksistere visse bestemte Antal af Elektroner
+med hver af de forekommende Banetyper. De
+Elektroner, hvis Baner er ens (har samme
+Energi og Kvantetal), siges at danne en Gruppe.
+Overgang af en Elektron til en vis Gruppe kan
+da kun finde Sted, naar en af denne Gruppes
+Elektroner ved Elektronstød ell. Bestraaling er
+fjernet helt fra Atomet. Er dette sket,
+udsendes Røntgenspektret derved, at en Elektron fra
+en løsere bundet Gruppe gaar ind paa den
+fjernede Elektrons Plads, hvorefter den derved
+ledigblevne Plads besættes af en Elektron fra
+en endnu løsere bundet Gruppe o. s. v.
+Medens Buespektret udsendes ved Bindingen af
+en Elektron, der er fjernet fra den yderste,
+løsest bundne, Gruppe, udsendes
+Røntgenspektret altsaa ved en Reorganisationsproces, som
+følger efter en Fjernelse af en af de indre, fast
+bundne Elektroner. At Elektronerne i et Atom er
+fordelt i Grupper, fremgaar først og fremmest
+af den ejendommelige periodiske Ændring af de
+kem. og fys. Egenskaber, som iagttages, naar
+man gaar fra Stof til Stof i den Rækkefølge,
+hvori de er ordnede i det periodiske System
+(s. d.); af denne Grund har for længe siden
+J. J. Thomson antaget en Gruppedeling af
+Elektronerne. Kossel har vist, at et stort Antal
+af Stoffernes kem. Egenskaber lader sig
+forklare ved en saadan Gruppedeling, og har af
+de kem. Forhold draget vigtige Slutninger om
+Antallet af Elektroner i de forsk. Grupper.
+Han har endvidere, i Forbindelse med sin ovf.
+antydede Teori for Røntgenspektrenes
+Fremkomst, fremhævet Muligheden af ved en nøje
+Undersøgelse af Røntgenspektrene at skaffe
+detaillerede Oplysninger om
+Elektronsystemernes Opbygning i de forsk. Grundstofatomer, og
+i de sidste Aar er det ved forsk. Forskeres
+Arbejde lykkedes paa Grundlag af omfattende
+og nøjagtige Maalinger af Røntgenspektrene,
+som navnlig er udført af <sp>Siegbahn</sp> og hans
+Medarbejdere, foruden at bestemme
+Energiværdierne, ogsaa at naa til en formel Fastsættelse
+af Kvantetallene <i>n</i> og <i>k</i> for de Baner, ved
+Overgang mellem hvilke de forsk. Linier i
+Røntgenspektrene udsendes. Til bestemte
+Forestillinger om Formerne af Elektronbanerne
+og deres indbyrdes Beliggenhed i de forskellige
+Atomer er man gennem disse Arbejder dog
+ikke naaet.
+
+<sp>Atomernes Bygning</sp>. Siden
+Muligheden for at opnaa detaillerede Oplysninger om
+Atomernes Bygning var aabnet gennem Bohr's
+grundlæggende Arbejder, er der blevet
+fremsat en Række Hypoteser om Anordningen af
+Elektronbanerne i de forsk. Atomer. Fælles for
+de fleste foreslaaede Atommodeller har det
+været, at man har tænkt sig Elektronerne delt
+i Grupper, saadan at Elektronerne i en og
+samme Gruppe bevæger sig i ens Baner, der
+helt omslutter de Baner, hvori de fastere
+bundne Elektroner bevæger sig, og helt omsluttes af
+de løsere bundne Elektroner. Man har gerne
+tænkt sig, at Banerne for Elektronerne i en
+Gruppe alle ligger i samme Plan; i de senere
+Aar har dog navnlig <sp>Born</sp> og <sp>Landé</sp>
+fremhævet Nødvendigheden af at antage en rumlig
+Fordeling af Elektronerne. De fleste af de
+opstillede Atommodeller har kun i ringe Grad
+formaaet at kaste Lys over Stoffernes fys. og
+kem. Egenskaber og har navnlig vist sig
+ganske uegnede til at forklare den simple Maade,
+hvorpaa et Atoms Elektroner omordner sig
+under Udsendelse af Røntgenspektret, naar en
+enkelt af de indre Elektroner er fjernet. I den
+allerseneste Tid har imidlertid <sp>Bohr</sp> angrebet

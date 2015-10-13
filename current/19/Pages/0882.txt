@@ -1,0 +1,17 @@
+<sp>RADIOTELEGRAFI</sp>. IV.
+
+<img></img>
+
+Fig. 36. <i>I</i> og <i>II</i> viser to Antenner <i>A</i> og <i>B</i>, i hvilke Strømmen altid har samme Fase. I <i>I</i> frembringes Strømmene ved Gnistudladninger, i <i>II</i> ved Hjælp af en Højfrekvensgenerator
+af en eller anden Type. <i>III</i> viser Straalingskurven for det Tilfælde, at Afstanden <i>d</i> er meget mindre end Bølgelængden, <i>IV</i> for <i>d</i> = 1/2 λ. — Fig. 37 viser Forholdene i det Tilfælde,
+hvor Strømmen i de to Antenner <i>A</i> og <i>B</i> har modsat Fase. <i>III</i> viser Straalingskurven, naar <i>d</i> er meget mindre end λ, og <i>IV</i> for <i>d</i> = λ. — Fig. 38. Intensitet i England (London)
+af Signaler fra Amerika Bølgelængde 5300 m; Afstand 5500 km. Tyk sort Linie angiver, at der er Nat ved henholdsvis Sender og Modtager. Intensiteten maalt hver Time. — Fig. 39.
+intensitetens Variation fra en Time før til en Time efter Solnedgang for en Bølgelængde af 337 m og en Afstand paa 118 km over Land. — Fig. 40. Skematisk Fremstilling af
+Ensretning af Bølgetog fra Gnistsendere. Afstanden mellem de enkelte Bølgetog er i Virkeligheden forholdsvis langt større end vist i Figuren. — Fig. 41. Simpel Modtager med
+Krystaldetektor (<i>D</i>). — Fig. 42. Modtager med Elektronrørdetektor og Sekundærkreds. <i>C<sub>o</sub></i> er en Kondensator, der tillader de højfrekvente Strømme i Pladeløbet at løbe uden om Telefonen.
+Antenneløb og Sekundærkreds er afstemte til de modtagne Bølger. Den lille Figur til højre viser et Eksempel paa Indretning af en Tilbagekobling fra Pladeløb til Gitterløb. — Fig. 43.
+Forstærker. De Vekselstrømme, der skal forstærkes, gennemløber Traadrullen <i>L<sub>1</sub></i>, de forstærkede Vekselstrømme paavirker »Modtageren« <i>M</i>, som det i visse Tilfælde kan være
+hensigtsmæssig at shunte med en Kondensator af passende Størrelse (<i>C<sub>o</sub></i>). Kredsen (<i>LC</i>) er afstemt til Frekvensen af de Strømme, der skal forstærkes. — Fig. 44. Stødmodtagning eller
+Interferensmodtagning. — Fig. 45 Skematisk Billede af en aaben, symmetrisk Antenne og af en Rammeantenne. Længden af Pilene <i>p</i> angiver et relativt Maal for Antennens
+Modtagelighed for Bølger, hvis Bevægelsesretning falder sammen med Pilens Retning. Bevæger Bølgerne sig i Retningen <i>V</i> er det elketriske Felt <i>E</i> lodret og det magnetiske <i>M</i> vandret
+og vinkelret paa Papirets Plan.

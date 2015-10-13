@@ -1,0 +1,156 @@
+og søger paa denne Aarstid som disse sin Føde
+paa Jorden. En meget nærstaaende Art er
+<sp>Korttaaet T.</sp> (<i>C. brachydactyla</i> Brehm),
+der adskiller sig ved mørkere Farve paa
+Oversiden, længere Næb og kortere Klo paa
+Bagtaaen; den lever i Mellemeuropa. —
+Nærbeslægtet med T. er <sp>Murløberne</sp> (<i>Tichodroma</i>)
+med kun een Art (<i>T. muraria</i> L.) med meget
+langt tyndt Næb, mørk af Farve, men med
+pragtfuldt røde Vingedækfjer. M. lever i
+Sydeuropas og Centralasiens Bjerge og holder til
+paa øde, utilgængelige Steder. (<sp>Litt</sp>.:
+Oversigt over Arter og Underarter af T. findes af <sp>E.
+Hartert</sp> i »Novit. Zool.« [Lond. 1887]).
+<i>O. H.</i>
+</chapter>
+
+<chapter name="Træmaaling">
+<b>Træmaaling</b> er Maaling af staaende Træer
+og udføres aldeles overvejende til Bestemmelse
+af Vedmassen i et enkelt Træ eller i et
+Træsamfund, en Bevoksning. Paa et staaende Træ
+kan der kun tages enkelte Maal, og i et
+Træsamfund kan man, for Højdens Vedkommende,
+kun overkomme at maale paa enkelte Træer;
+derfor maa en Udregning af Vedmassen i alle
+Tilfælde bygges paa et forud fastsat Forhold
+mellem denne Størrelse og de maalte.
+
+Saaledes som T. foregaar i Praksis, finder
+man paa det enkelte Træ, ved een eller flere
+Maalinger, Stammens Tværmaal i Brysthøjde
+(1,3 m) samt Træets Højde fra Jorden til
+Topspidsen; Vedmassen udregnes da ved Hjælp af
+et »Formtal«, som er Forholdet mellem Træets
+Rumfang og den Cylinder, som er givet ved
+Stammens Tværmaal og Træets Højde.
+<sp>Tværmaalet</sp> findes ved Hjælp af en Klup (s. d.)
+eller sjældnere et Maalebaand, idet Stammens
+Tværsnit forudsættes at være cirkelrundt;
+<sp>Højden</sp> findes ved Hjælp af Sigteredskaber
+med en Lodsnor (se <sp>Dendrometer</sp>,
+<sp>Højdemaaler</sp>); naar man sigter mod
+Træets Top, vil Lodsnorens Skæring med en
+Maalestok, som Følge af ligedannede
+Trekanter, angive Træets Højde over en vandret Linie
+gennem Maalerens Øje; <sp>Formtallet</sp> er
+forud fundet paa eet eller flere fældede Træer af
+samme Art, idet man ved stykkevis
+(»sektionsvis«) Maaling af Stammen og de tykke Grene
+samt Vejning af de tynde Grene har fundet et
+saadant fældet Træs Rumfang.
+
+I et Træsamfund har man hidtil brugt at
+maale hvert enkelt Træs Tykkelse i Brysthøjde
+samt et vist Antal Træers Højde, idet man
+udregnede Vedmassen som Produkt af den
+samlede Grundflade, Middelhøjden og det foran
+omtalte Formtal. Nyere Undersøgelser (se
+<sp>Prytz, H.</sp>) har imidlertid vist, at
+Tykkelserne (i Brysthøjde) inden for et Træsamfund
+fordeler sig efter den eksponentielle Fejlkurve,
+saaledes at man kan finde Middeltykkelsen (og
+ved Hjælp af Spredningstallet eller
+Middelafvigelsen tillige Tykkelsen i
+Middelstammegrundfladen), naar man blot kender
+Antallet af Træer i hver af 3 Tykkelsesklasser
+med fastsatte Grænser; man behøver da
+ved en T. kun at afgøre, om det enkelte Træ
+er »lille«, »mellem« eller »stort« i Forhold
+til de to valgte Grænsetykkelser. De
+samme Undersøgelser har endvidere vist, at
+Træsamfundets Vedmasse (<i>M</i>) er en simpel
+Funktion, Diameterformelen, af
+Middelstammegrundfladens Tværmaal (<i>D</i>) og Stamtallet (<i>N</i>),
+nemlig <i>M</i> = <i>N</i> X 21 . 4 <i>D</i><sup>2.64</sup>, naar <i>D</i> angives i
+Meter og <i>M</i> i Kubikmeter. Vil man tillige kende
+Træsamfundets Intensitet <i>I</i> = Vedmassen
+divideret med Træsamfundets hele Rumfang, maa
+man finde Middelhøjden; Højderne forholder
+sig almindeligvis som Tykkelserne; derfor
+maaler man dem paa et Antal Træer, som har
+omtrent de valgte Grænsetykkelser, og kan da af
+Fordelingen til de 3 Klasser udfinde
+Middelhøjden <i>H</i>; er Træsamundets Areal <i>A</i>, bliver
+<i>I</i> = <i>M</i> : <i>AH</i>, og da det har vist sig, at <i>I</i> er
+uafhængig af Træsamfundets Alder, kan man
+finde Vedmassen <i>M</i> = <i>IAH</i> blot ved at maale
+Højden, idet <i>IA</i> er konstant for den enkelte
+Træart.
+
+En Maaling af det enkelte Træ foretages
+oftest som Forberedelse til dets Salg og gaar
+da umiddelbart forud for dets Fældning. En
+Maaling af Skovens Træsamfund hører derimod
+til Forarbejderne for en Driftsplan, idet man
+fra den nuværende Vedmasse slutter til, hvor
+meget der kan fældes i Løbet af de nærmest
+følgende 10—20 Aar; T. udføres oftest af 1
+Bogfører med 2 Klupførere, og de kan med
+Dobbeltklub maale c. 16—17 ha om Dagen, naar unge
+og gamle Træsamfund tages under eet.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Træmasse">
+<b>Træmasse,</b> se <sp>Cellulose</sp>.
+</chapter>
+
+<chapter name="Træmorder">
+<b>Træmorder,</b> se <sp>Celastrus</sp>.
+</chapter>
+
+<chapter name="Træn">
+<b>Træn</b> [træŋ], se <sp>Train</sp>.
+</chapter>
+
+<chapter name="Træna">
+<b>Træna,</b> <sp>Herred</sp>, Rana Sorenskriveri,
+Helgeland Politidistrikt, Nordland Fylke, 17,3
+km<sup>2</sup> med (1920) 620 Indbyggere, altsaa c. 36
+pr km<sup>2</sup>, udgøres af T. Sogn af Lurøy
+Præstegæld. — Herredet bestaar af en Del Øgrupper
+med en Mangfoldighed af Øer, Skær og Holme,
+liggende ude i Havet mellem 66° og 67° n. Br.
+og adskilt fra Fastlandet ved Trænfjorden, hvor
+det støder op til Lurøy Herreds Grænser; de
+forskellige Øgrupper er Trænen sydligst,
+Sannavær, Tørvær, Arvær, Dørvær og Selvær i Nord.
+Øerne er nøgne og for det meste bjergfulde;
+særlig er Gruppen Trænen bekendt for sine
+vakre Fjeldformationer; de største Øer i denne
+Gruppe er Sanna (3 km<sup>2</sup>) og Husøen (1,5 km<sup>2</sup>),
+der tillige er de største af Herredets samlede
+Øer, i alt over 400. De højeste Fjeldtoppe
+ligger paa Sanna, som Trænstaven (331 m),
+bekendt for sine vakre Linier, Mjaatind (300 m),
+Breitind (275 m), Gompen (245 m) m. fl.; de
+paa de øvrige Øer liggende Fjelde er ganske
+lave, men ogsaa flere af disse har
+ejendommelige og smukke Former, som Dørværtinderne og
+Breitind (126 m) paa Buøen (0,7 km<sup>2</sup>) m. fl.
+Af Herredets Areal ligger i det hele 16,6 km<sup>2</sup>
+under 60 m o. H., 0,67 km<sup>2</sup> mellem 60 og 300 m
+og kun 0,025 km<sup>2</sup> over 300 m. Elve, Indsøer ell.
+Dalfører af Betydning findes ikke i Herredet, hvis
+opdyrkede Areal er lidet, men der forekommer
+adskillige Myrer og dyrkbart Jordsmon; Skov
+findes ikke, saaledes er f. Eks. Selvær Gaards
+Huse og Rorboder for 200 Mand opførte af
+ilanddrevet Tømmer. Agerbrug og Kvægavl er
+derfor af liden Betydning i Sammenligning med
+Fiskerierne og Indtægten af Æg og Dunvær,
+særlig Torskefiskeriet, der er
+Hovednæringsvejen; i Fiskeriet kan i gode Aar deltage op
+til 1200—1500 Mand med 400—500 Baade paa

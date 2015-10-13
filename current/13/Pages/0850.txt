@@ -1,0 +1,131 @@
+fleste Iagttagelser; men der behøvedes til at
+indstille K. en med Aksen parallel Refraktor
+— <sp>Søger</sp> — og en Medhjælper til at foretage
+denne Indstilling. Denne havde Herschel i sin
+Søster Caroline. Da enhver Refleksion er
+forbundet med Lystab, vilde man vinde en Del
+ved at borttage det plane Spejl. Dette
+opnaaede Herschel ved at lade Hulspejlet hælde mod
+Rørets Akse og lade Iagttageren betragte
+Objektet gennem et i Sidevæggen anbragt
+Okular (se Fig. 5). Herschel kaldte dette Instrument
+<i>Front view telescope</i>. Saaledes er det af Earl
+of Rosse 1844 forfærdigede Kæmpeteleskop,
+Draper har ændret Newton's Konstruktion
+derhen, at han anbragte i Stedet for det plane
+Spejl et totalt reflekterende Prisme, og denne
+Idé har Schrøder benyttet videre til at
+konstruere et Spejlteleskop, hvor Søgerens Okular
+ligger lige ved K.'s Okular. Af andre
+Konstruktioner fra den senere Tid kan nævnes Loewy's
+<i>ækvatorial coudé</i> (se <sp>Ækvatorial</sp>), hvoraf
+der i alt eksisterer 7 (det største findes paa
+Observatoriet i Paris, det har et Objektiv af 60
+cm Diameter og 18 m Brændvidde), og det af
+Fritsch og Forster til Marineobservatoriet i
+Pola 1880 leverede <sp>Brachy-Teleskop</sp>;
+dette er en Art Cassegrain's K., men med den
+Ændring, at Objektivspejlet ikke er
+gennemboret, men hælder noget mod Rørets Akse,
+hvorved det lille konvekse Spejl er anbragt i
+et Rør for sig ved Siden af det, hvortil
+Objektivspejlet er fæstet, og det hele Instrument
+derved er blevet hændigere. Allerede 1811 har
+Bode udkastet Tanken til et sligt Reflektor.
+
+Som ovf. nævnt antog Newton, at det ikke
+vilde være muligt at hæve den kromatiske
+Aberration ved at benytte fl. Linser. Euler
+derimod kom, rigtignok ud fra en urigtig
+Forudsætning, til det Resultat, at der maatte gives
+akromatiske Linsesystemer, og Klingenstierna
+paaviste Fejlen i Newton's Ræsonnement samt
+viste, hvorledes man kunde faa akromatiske
+Linser. Den første, hvem det lykkedes at lave
+en akromatisk K., var Chester Moor Hall 1733;
+men det synes, som hans K. ikke har været
+fuldt ud tilfredsstillende, saa det alm. anføres,
+at det var Dollond, som 1757 konstruerede den
+første akromatiske Linse ved at benytte som
+Objektiv en dobbelt Linse ɔ: en Samlelinse af
+Crownglas og en Spredelinse af Flintglas. Og
+nu begyndte man paa ny at benytte
+Refraktorer, om end disse havde meget beskedne
+Dimensioner; thi paa Dollond's Tid kunde man
+ikke drive det videre end at levere en god
+farvefri Refraktor paa 5—8 cm's Aabning, og disse
+var Herschel's Teleskoper langt underlegne;
+thi med større Aabning viste der sig en ny
+Fejlkilde til at gøre Billederne utydelige,
+nemlig <sp>det sekundære Spektrum</sp> (se
+<sp>Linse</sp>). Euler foreslog for at ophæve ell. til
+en vis Grad at forringe denne Fejl at benytte
+<sp>Vædskelinser</sp> ɔ: at indeslutte Vædsker
+mellem urglasformige Plader, og fl. Vædsker
+viste sig ogsaa tjenlige hertil og gav gunstigere
+Resultater end Glasset; men dette Forslag
+maatte opgives, fordi selv smaa
+Temperaturvariationer ændrede paa en altfor generende
+Vis den optiske Evne ved en saadan Linse.
+
+Fabrikationen af en K. er i høj Grad
+afhængig af den Højde, hvortil man kan drive det i
+at fremstille Materialet (se <sp>Glas</sp>) og
+bearbejde dette (den praktiske Optik). I Slutn. af 18.
+Aarh. havde man ikke smaa Vanskeligheder
+at overvinde for at fremstille større homogene
+Flintglasskiver. For at forringe denne
+Vanskelighed blev der foreslaaet at anbringe
+Flintglaslinsen ikke lige ind til Crownglaslinsen,
+men nærmere Okularet, hvorved man kunde
+slippe med en Flintglaslinse af mindre
+Dimensioner. Disse sidstnævnte saakaldte
+<sp>dialytiske K.</sp>, der væsentlig blev leverede af Plössl,
+var i sin Tid meget udbredte, men er nu
+næsten ganske forladte. Thi det lykkedes i første
+Fjerdedel af 19. Aarh. væsentlig gennem
+Fraunhofer at forbedre i høj Grad den tekn.
+Udførelse og ved Gauss, Listing og i den sidste Tid
+ved Abbe at gennemarbejde Linsens Teori
+saaledes, at man nu kan konstruere K., af næsten
+hvilke Dimensioner man ønsker. Og de
+Underværker, hvormed Fraunhofer 1824 og 1837
+forbavsede Verden, idet han til Observatorierne i
+Dorpat og Berlin leverede Refraktorer af 24
+cm's Aabning og 4 m's Brændvidde, som i
+Lysstyrke og Billedskarphed fuldstændig stod paa
+Højde med Herschel's Teleskoper af
+Middelstørrelse, blev snart satte i Skygge af hans
+Efterfølgere Merz og Mahler, der 1840 leverede
+til Pulkova en Refraktor med 38 cm's Aabning
+og 6,8 m's Brændvidde og 1843 en lgn. til
+<i>Harvard College</i> i Cambridge Mass. Men
+hermed mente man ogsaa at have naaet Grænsen
+for, hvad der kunde præsteres paa dette
+Omraade, og München-Firmaet var lige til
+1850'erne ene om at forsyne Verdens Observatorier
+med Refraktorer. Men da blev det overfløjet af
+3 Konkurrenter: Cooke i York, Grubb i Dublin
+og Alyan Clark i Cambridgeport, Mass. Det
+sidstnævnte Firma har leveret Verdens til Dato
+største K., der er opstillet paa
+Yerkes-Observatoriet (1897) i Wisconsin (Objektivet har en
+Aabning af 102 cm og en Brændvidde af 18,9
+m), samt den næststørste: paa
+Lick-Observatoriet (1888, 91 cm's Aabning og 17,6 m's
+Brændvidde). Af andre større K. fra dette Firma kan
+nævnes: Pulkova (1882) med 76 cm's Aabning
+og 12,8 m's Brændvidde og Washington (1871)
+med 66 cm og 9,9 m. Cooke's største K. findes
+nu i Cambridge, England (1868); den har 63
+cm's Aabning. Af Grubb findes en i Wien (1878)
+af 68,5 cm's Aabning og, 10 m's Brændvidde.
+Brødrene Henry i Paris har leveret en
+Refraktor til Observatoriet i Meudon (1891) af 82
+cm's Aabning og 16 m's Brændvidde samt til
+Nizza (1889) med 77 cm's Aabning og 16 m's
+Brændvidde. I det hele findes der nu vel 70
+Refraktorer af 30 cm's Aabning, saa
+Fraunhofer's Mesterværk kommer langt ned i
+
+<img>Fig. 5. Herschel's Spejlteleskop.</img>

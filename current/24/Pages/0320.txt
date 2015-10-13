@@ -1,0 +1,137 @@
+Drivfjederens voksende Tab af Fjederkraft (se
+Fig. 3), Fjederen virkede ikke direkte paa
+Snekken, men gennem en Kattetarm, senere en fin
+Kæde, hvis ene Ende sad fast paa Fjederen,
+medens den anden, efter at Kattetarmen eller
+Kæden var lagt omkring Snekkens Vindinger,
+var gjort fast paa Snekkens Top. Efterhaanden
+som Fjederen slappedes, kom den til at virke
+paa en stadig større og større Snekkeradius,
+hvorved dens Træk paa Ganghjulet udlignedes.
+1587 blev endelig det første U. med koncentrisk
+Minutviser — tidligere havde U. kun været
+forsynede med een, stiv Viser — fremstillet i
+München.
+
+Trods alle Forbedringer var U. dog stadig
+yderst mangelfulde som Tidsmaalere, selv efter
+at Urmagerne — paa Dansk Sejrmagerne eller
+Sejrhuggerne — havde skilt sig ud fra Smedene
+og dannet særlige Lav, hvilket skete først i
+Paris 1544, i Nürnberg 1565. Men hvad nyttede
+det, om man lavede aldrig saa fint Arbejde og
+bragte Gnidningsmodstanden ned til det mindst
+mulige, naar man dog kun var i Stand til at
+give U. den ganske vilkaarlige Regulator, som
+Spindelen i Virkeligheden var? Først da
+<sp>Huyghens</sp> ved Midten af 17. Aarh. indførte
+<sp>Pendulet</sp> som Regulator i U., blev der
+Mulighed for at fremstille nøjagtige Tidsmaalere.
+Pendulets Betydning for U. beror paa den af
+<sp>Galilei</sp> gjorte Opdagelse, at dets Svingninger
+er enstidige. Huyghens havde først bragt
+Pendulet til at virke paa et paa en vandret Akse
+siddende Tandhjul, der ved Pendulets Svingninger
+vrikkede frem og tilbage og gennem et Drev
+overførte sin Bevægelse paa en lodret
+Spindelakse, saaledes at de derpaa siddende
+Spindellapper afvekslende standsede og frigjorde en
+Tand paa Stighjulet. Men 1659 gik han fra den
+lodrette Spindelakse over til en vandret, paa
+hvilken han anbragte Pendulet direkte. Det er
+tydelig nok det samme Princip som i den
+senere Ankergang, der dog imidlertid først faar
+sin typiske Form, da <sp>W. Clement</sp> i London
+1680 indfører <sp>Ankeret</sp>, senere forbedret af
+hans Landsmand <sp>Graham</sp> som Hemværk.
+Ved Graham's Ankergang er (se Fig. 4)
+Ankeret <i>a</i> forsynet med Hagerne <i>m</i> og <i>n</i>, der begge
+kan forskydes. Under Ankerets Bevægelser vil
+disse Hager afvekslende gribe ind og møde for
+Tænderne paa Stighjulet <i>b</i>. 1674 fandt
+Huyghens paa at erstatte Pendulet med <sp>Uroen</sp>
+for Lommeurets Vedkommende. Uroen bestod
+af et Svinghjul med en Spiralfjeder, der med
+sin ene Ende stod fast paa Spindelaksen, paa
+hvis Top Svinghjulet var anbragt, og med sin
+anden Ende var fæstnet til U.'s Kant, senere
+belastet med en lille Vægt (se Fig. 5). Ligesom
+Tyngdekraften bevirker Pendulets enstidige
+Svingninger, bevirker Spiralfjederens
+Spændkraft Svinghjulets enstidige Svingninger og
+dermed følgende bestemte Reguleren af U.
+Medens Ankergangen særlig gjorde udmærket
+Fyldest i Standuret, anvendtes i lang Tid
+udelukkende <sp>Cylindergangen</sp> i Lommeuret;
+den skyldes den engelske Urmager <sp>Tompion</sp>,
+men modtog væsentlige Forbedringer af hans
+Elev <sp>Graham</sp> og af Pariseren <sp>Breguet</sp>. I
+Cylinderuret dannes Uroens Akse af en lille
+hul Cylinder, der paa Midten har en Udskæring
+paa 160 Grader. Under Svinghjulets Bevægelser
+drejer Cylinderen, som vist i Fig. 6 og 7, sin
+indvendige hule Flade frem, saa at Ganghjulets
+hammerformede Tand, der er anbragt paa en
+Stift i Kanten af Hjulet, lodret paa dets Plan,
+netop glider forbi Udskæringslæben <i>m</i>, idet den
+med sin skraa Yderkant udøver et Tryk paa
+Udskæringskanten og derigennem paa
+Cylinderen, hvilket virker som Impuls paa Svinghjulet,
+og falder med sit Næb an imod Cylindrens hule
+Inderflade, umiddelbart ved Udskæringslæben
+<i>n</i>, som den slipper forbi, saa snart Cylinderen
+drejer tilbage. Fig. 7 viser forskellige
+Tandstillinger i Forhold til forskellige
+Cylinderdrejninger set ovenfra. Cylinder gangen kaldes
+<sp>hvilende Gang</sp>, fordi Tanden, der fylder
+Cylinderen fra Væg til Væg, hviler i den under
+Gangen, saa Ganghjulet ved hver Spærring
+staar fuldstændig stille. For at undgaa dette og
+for at undgaa Krafttabet, som opstaar ved
+Tændernes Gnidning mod Ankerflige og
+Cylinderflade, har man konstrueret <sp>fri Gang</sp>, ved
+hvilken Pendul eller Uro, med Undtagelse af
+det fra Drivkraften modtagne Stød, under sine
+Svingninger holdes saa vidt muligt fri for Stød
+eller Gnidning. Den fineste Gang er
+<sp>Kronometer</sp>- eller <sp>Fjedergangen</sp>. Det første
+Kronometer blev konstrueret 1728 af
+<sp>Harrison</sp> og senere forbedret af Breguet. Denne
+Gang er særlig karakteriseret ved, at Uroens
+Svinghjul modtager Impuls fra Drivkraften
+baade direkte, ved at Ganghjulets Tænder støder
+til <sp>Impulsstenen</sp>, og indirekte gennem en
+med Kontravægt forsynet Fjeder. Da Pendulets
+og Svinghjulets Svingningstider kun er
+enstidige, saa længe Længden eller Radius er
+uforandret, har Temperaturforandringer, ved
+hvilke Metaller udvides eller sammentrækkes, stor
+Indflydelse paa U.'s Gang. Man har derfor lavet
+Kompensationspenduler og Kompensationsuro,
+ɔ: sammensat dem af Metaller med forskellig
+Udvidelsesevne. Ved Pendulet, der populært fik
+Navnet <sp>Perpendiklen</sp>, opnaas herved, at
+Centrum af Pendulets Linse stadig holdes i
+samme Afstand fra Ophængningspunktet. I
+Lommeuret gennemskæres Urohjulets af forskellige
+Metaller sammensatte Ring saaledes, at en
+mulig Udvidelse eller Sammentrækning vil
+foregaa i Periferien, og uden at Radiens
+Længde derved forandres (Fig. 8). For at
+indskrænke Gnidningsmodstanden til det mindst mulige,
+gaar de mest roterende Hjul paa Sten. I
+Kronometre er Uroen en Fjeder, der ikke er rullet i
+Plan, men ligger i Spiraler over hinanden med
+uforandret Radius. Man har nu opnaaet at
+fremstille Hjulure med en saa nøjagtig Gang,
+at de i et Døgn forekommende Afvigelser maa
+maales i Tusindedele af et Sekund. — Af de
+mangfoldige nyere Opfindelser til
+Fuldkommengørelse af U. skal særlig nævnes
+<sp>Remontoiruret</sp>, der ved en egen Mekanisme i den
+til Ophængning bestemte Knap baade kan
+optrækkes og, ved en Forskydning, stilles uden
+særlig Nøgle. I et almindeligt Lommeur er
+Værket anbragt mellem to runde, indbyrdes
+parallelle Metalplader, der sammenholdes ved de
+fire <sp>Piller</sp>. Den Plade, paa hvilken Pillerne

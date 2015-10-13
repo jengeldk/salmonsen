@@ -1,0 +1,148 @@
+maa hales ind, naar Skibet stopper ell. sejler i
+snevre, stærkt befærdede Farvande. Disse
+Mangler samt Loggens Uanvendelighed til
+Undervandssejlads har ført til Konstruktionen af
+Patentlogge, der er indbyggede i selve
+Skibsskroget et godt Stk. under Vandets Overflade. De
+er konstruerede efter to Hovedprincipper. Ved
+det ene virker Vandets Tryk ved Skibets
+Bevægelse paa en Turbine, hvis
+Omdrejningshastighed bliver et Maal for Skibets Hastighed;
+ved det andet virker Vandets Tryk paa en i et
+Pivotrør indesluttet Vædskemængde, hvis Højde
+over Vandets Overflade bliver et Maal for
+Skibets Hastighed. Disse Maal overføres ad
+elektrisk Vej til Fartvisere, der angiver den
+udløbne Distance i Sømil, og anbringes paa de for
+Navigeringen mest bekvemme St.
+<i>C. B-h.</i>
+</chapter>
+
+<chapter name="Logan">
+<b>Logan</b> ['£o<sub>u</sub>g<sub>ə</sub>n], 1) By i den nordamer. Stat
+Ohio ved Hocking-Floden, 75 km SØ. f.
+Columbus. (1917) 6000 Indb.
+
+2) By i den nordamer. Stat Utah ved L. River,
+100 km N. f. Salt Lake City, har et
+Mormontempel og en Agerbrugsskole og er Midtpunkt
+for et frugtbart Agerbrugsdistrikt. (1918) 9000
+Indb.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Logan, William Edmond">
+<b>Logan</b> ['£o<sub>u</sub>g<sub>ə</sub>n], <sp>William Edmond</sp>,
+kanadisk Geolog (1798—1875), studerede i
+Europa, undersøgte derefter Kanadas geol. Bygning;
+var 1843—71 Chef for Kanadas geol.
+Undersøgelse; offentliggjorde 1862 en Oversigt over
+Kanadas Geologi. Det er i Hovedsagen hans
+Undersøgelser (i Forbindelse med Hall's), der
+ligger til Grund for vort Kendskab til de
+palæozoiske Dannelser i Kanada. Hans Arbejder
+findes i <i>Reports of the Geological Survey of
+Canada</i>.
+<i>J. P. R.</i>
+</chapter>
+
+<chapter name="Loganiaceæ">
+<b>Loganiaceæ,</b> Familie af tokimbladede og
+helkronede Planter af Snokronedes Orden,
+Urter ell. hyppigere Buske ell. Træer med
+modsatte, hele ell. lappede Blade, der udmærker sig
+ved at have interpetiolære Akselblade. Ingen
+Mælkesaft som hos andre Fam. af samme Orden.
+Blomsterne sidder oftest i kvastformede Stande,
+er tvekønnede, regelmæssige og undersædige;
+de er 4—5-tallige i alle Kredse undt. i
+Støvvejen, der har en 2-rummet Frugtknude.
+Frugten er en Kapsel ell. et Bær. 360 Arter, der
+hører hjemme i Troperne. Kun faa er
+Nytteplanter, mange Arter indeholder giftige
+Stoffer, der betinger enkeltes Anvendelse dels som
+Lægeplanter, dels paa anden Vis (se nærmere
+<sp>Strychnos</sp>).
+<i>A. M.</i>
+</chapter>
+
+<chapter name="Logansport">
+<b>Logansport</b> ['£o<sub>u</sub>g<sub>ə</sub>nspå.<sub>ə</sub>t], By i den
+nordamer. Stat Indiana ved Wabash River. Den er
+et vigtigt Jernbaneknudepunkt og har
+Jernbaneværksteder og betydelig Kornhandel. (1910)
+19050 Indb.
+<i>G. Ht.</i>
+</chapter>
+
+<chapter name="Logaritme">
+<b>Logaritme</b> (mat.). I den elementære Algebra
+forstaas ved L. til et positivt Tal <i>x</i> for et givet
+positivt Grundtal (Basis) <i>a</i> Eksponenten til den
+Potens af <i>a</i>, der er = <i>x</i>. Idet L. betegnes ved
+<i>log<sub>a</sub>x</i> ell. <i>l<sub>a</sub>x</i>, er altsaa <i>x</i> = <i>a<sup>log</sup>a<sup>x</sup></i> . L. anvendes
+til at lette Talregninger. Skal man f. Eks.
+multiplicere to Tal <i>x</i> og <i>y</i>, bestemmer man deres L.
+ved Opslag i <sp>Logaritmetavlen</sp>;
+Ligningen <i>xy</i> = <i>a<sup>log</sup>a<sup>x</sup> a<sup>log</sup>a<sup>y</sup></i> = <i>a<sup>log</sup>a<sup>x+log</sup>a<sup>y</sup></i> viser,
+at det søgte Produkt <i>xy</i> kan findes i Tavlen
+som Tallet svarende til en L. = <i>log<sub>a</sub>x</i> + <i>log<sub>a</sub>y</i>.
+
+Paa samme Maade kan Division reduceres til
+Opslag i Tavlen og Subtraktion af to L. L. til
+en Potens faas ved at multiplicere Rodens L.
+med Eksponenten; dette gælder ogsaa for
+brudne Eksponenter, saa at L. til <i>n</i>√b = <i>b</i> = <i>b</i><sup>1/<i>n</i></sup> findes
+ved at dividere L. til <i>b</i> med Rodeksponenten <i>n</i>.
+Hvis man ved Anvendelse af disse Regler
+kommer til L. af negative Tal, maa man udføre
+Regningerne med Tallenes numeriske Værdier
+og give Resultatet det Fortegn, som det iflg.
+Algebraen skal have. De i Praksis anvendte
+<sp>Logaritmetavler</sp> giver L. for 10 som
+Grundtal; disse L. kaldes Briggs'ske efter Briggs,
+der beregnede den første Tavle over dem, og
+betegnes ved <i>log</i>. <i>log</i> 1 er = 0, <i>log</i> 10<sup><i>n</i></sup> = <i>n</i>.
+Skrives et vilkaarligt Tal, f. Eks. 139,51 paa
+Formen 10<sup>2</sup> · 1,3951, ses dets L. at være = 2 +
+<i>log</i> 1,3951; Tavlerne behøver altsaa kun at give
+<i>log</i> 1,3951 og i det hele L. til Tal mellem 1 og 10,
+der kaldes <sp>Mantisserne</sp>, idet andre Tals
+L. faas ved Addition af et helt Tal,
+<sp>Karakteristikken</sp> (her 2). Da Mantisserne ligger
+mellem 0 og 1 og altsaa har 0 foran Kommaet,
+er det videre tilstrækkeligt i Tavlerne at
+angive deres Decimaler. Af disse medtages
+sædvanlig 4, 5 ell. 7; Tavlerne kaldes 4-, 5- ell.
+7-cifrede og indeholder Mantisserne svarende
+henh. til Tal med 4 Cifre, hvoraf det sidste er
+0, 5 Cifre, hvoraf det sidste er 0, og 7 Cifre,
+hvoraf de to sidste er 0. Hvis man søger L. til
+saadanne Tal blot med Nullerne erstattede
+med andre Cifre, eller hvis man søger Tallet
+til en L., der ikke staar i Tavlen, maa man
+anvende <sp>Interpolation</sp>, der støtter sig paa,
+at smaa Differenser i Tallene tilnærmelsesvis er
+proportionale med de tilsvarende Differenser i
+L. Søges saaledes <i>log</i> 3,1784, finder man i
+Tavlen: <i>log</i> 3,1780 = 0,50215, <i>log</i> 3,1790 = 0,50229,
+hvis Differens er 14 paa sidste Decimal; altsaa er
+<i>log</i> 3,1784 — <i>log</i> 3,1780/0,0004 = 0,0004/0,0010 eller <i>log</i> 3,1784 =
+<i>log</i> 3,1780 + 0,00006 = 0,50221. Ved Bestemmelsen
+af Tallet til en given L. bruges ofte
+<sp>Antilogaritmetavler</sp>, der indeholder Tallene
+svarende til en Rk. Mantisser med Differensen
+10 paa sidste Ciffer. Man har beregnet Tavler
+til Bestemmelse af <i>log</i> (<i>a</i> ± <i>b</i>), naar man har
+<i>log a</i> og <i>log b</i>. Man opsøger <i>log a'/b</i> = <i>log a</i> —
+<i>log b</i> i Tavlens ene Kolonne og finder i den
+anden Kolonnes tilsvarende Rubrik <i>log</i> (1 ± <i>b/a</i>),
+som adderet til <i>log a</i> giver <i>log</i> (<i>a</i> ± <i>b</i>). — Naar
+L. danner en Differensrække, danner Tallene en
+Kvotientrække, og ved L.'s første Fremkomst
+gik man ud paa at danne to saadanne Rk., der
+svarede til hinanden Led for Led, uden at klare
+for sig, hvilket Grundtal man derved kom til at
+benytte. Bürgi (s. d.) benyttede en Rk. med
+Kvotienten 1 + 1/10000 og udgav 1620 en Slags
+Antilogaritmetavle, men det var ved Neper's

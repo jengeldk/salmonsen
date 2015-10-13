@@ -1,0 +1,133 @@
+<chapter name="Pendul">
+<b>Pendul.</b> Det alm. P. er et Legeme, der
+er ophængt bevægeligt om en fastliggende,
+vandret Akse, som ikke maa gaa gennem
+Legemets Tyngdepunkt. Saaledes ophængt er
+Legemet i stadig Ligevægt, naar Tyngdepunktet
+ligger lodret under Aksen. Drejes det en Vinkel,
+Fjerningsvinkelen ell. Udsvinget,
+ud fra denne Stilling og slippes, vil det gaa
+med ujævnt voksende Hastighed tilbage mod
+Ligevægtsstillingen, hvorfra det gaar videre med
+aftagende Hastighed mod en Yderstilling, hvor
+Hastigheden er Nul; derefter gaar det tilbage
+og vil nu udføre en Rk. Svingninger, som alle
+vilde være lige store, og som vilde fortsætte sig
+i ubegrænset Tid, hvis man kunde fjerne alle
+Modstande mod Bevægelsen. Hvis P. er
+ophængt saaledes, at det med den skarpe Æg
+af en haard Kile (Staal ell. Agat) hviler paa
+en vandret højpoleret Plade af haardt Stof, og
+hvis det sættes i Svingninger i lufttomt Rum,
+kan Svingningerne fortsættes i adskillige Timer.
+<sp>Bevægelsens Periode</sp> er Tiden mellem
+to paa hinanden følgende Passager i samme
+Retning gennem Ligevægtsstillingen. Sædvanlig
+kaldes det halve af denne Tid P.'s
+<sp>Svingningstid</sp>. Denne Tid <i>t</i> er ved den
+modstandsfri (udæmpede) Bevægelse bestemt ved
+Formelen
+
+<i>t</i> = π √<i>I/Mag</i> (1+(1/2)<sup>2</sup> <i>sin</i><sup>2</sup> <i>u</i>/2 + (1. 3/2. 4)<sup>2</sup> <i>sin</i><sup>4</sup>
+<i>n</i>/2 + . . .),
+hvor π er Forholdet mellem en Cirkels Omkreds
+og Diameter, <i>M</i> Pendulets Masse, <i>I</i> dets
+Inertimoment (s. d.) m. H. t. Omdrejningsaksen <i>a</i>
+Tyngdepunktets Afstand fra Aksen, <i>g</i>
+Fald-Akcelerationen (se <sp>Fald</sp>) og <i>u</i> Fjerningsvinkelen,
+Hvis P. er dannet af en Kugle, der hænger i en
+bøjelig Traad, hvis Kuglens Diameter er meget
+lille i Sammenligning med dens Centrums
+Afstand <i>l</i> fra Ophængningspunktet, og hvis Traadens
+Masse er lille i Sammenligning med Kuglens,
+har man med Tilnærmelse <i>I</i> = <i>Ml</i><sup>2</sup>, <i>a</i> = <i>l</i> og
+
+<i>t</i> = π √<i>l/g</i> (1+|1/2|<sup>2</sup> <i>sin</i><sup>2</sup> <i>u</i>/2 + ...). Denne
+Ligning giver Svingningstiden for den
+Abstraktion; man kalder det <sp>matematiske</sp> ell.
+<sp>enkelte</sp> P., i hvilket Pendullegemets Masse er
+tænkt samlet i eet Punkt i Afstand <i>l</i> fra Aksen.
+Ved at sammenligne de to ovenst. Udtryk for
+Svingningstider ser man, at det virkelige P.
+har samme Svingningstid som et matematisk P.,
+hvis Længde er <i>l</i> = <i>I/Ma</i>. Om denne Størrelse,
+der kaldes det virkelige P.'s <sp>reducerede
+Længde</sp>, kan man vise, at den altid er større
+end <i>a</i>. Dens nederste Endepunkt, som kaldes
+Svingningernes Midtpunkt, ligger altsaa under
+Tyngdepunktet, lodret derunder. Søger man
+Svingningstiden for Pendullegemet for det
+Tilfælde, at det bliver ophængt bevægeligt om en
+Akse parallel med den opr., men ført gennem
+Svingningernes Midtpunkt, vil man finde
+samme reducerede Pendullængde og følgelig samme
+Svingningstid som før Ombytningen af Akserne.
+Herpaa er <sp>Kater's Reversionspendul</sp>
+grundet; det bestaar af en Stang, forsynet med
+to mod hinanden vendende Kileægge, der er
+anbragte i forsk. Afstand fra Tyngdepunktet og
+saaledes, at de, benyttede som Svingningsakser,
+giver Stangen samme Svingningstid. Deres
+indbyrdes Afstand vil da være P.'s reducerede
+Længde. Ved smaa Udsving er
+Pendulsvingningerne meget nær <sp>ligetidige</sp> (isokrone) ɔ:
+uafhængige af mindre Forandringer i
+Udsvingets Størrelse; er saaledes Udsvinget 1 1/2° stort,
+vil en Forandring paa 1 % i Udsvingets
+Størrelse kun forandre Svingningstiden med henved
+en Milliontedel af dens Værdi. Galilei iagttog,
+at Pendulsvingningerne er ligetidige, og at
+Svingningstiden er proportional med
+Kvadratroden af Længden. Pendulets Egenskab som
+den bedste Tidsmaaler er grundet paa
+Tyngdekraftens Uforanderlighed, paa Svingningernes
+Ligetidighed og paa den Omstændighed, at
+enhver Svingning uden Tidsmellemrum følger
+efter den foreg. <sp>Penduluret</sp> (se <sp>Ur</sp>) er et
+Tælleværk, som optæller det Antal Svingninger,
+Urpendulet har udført efter det Øjeblik, da
+Klokkeslettet sidste Gang var Nul; tillige har
+Urværket den Opgave at holde Svingningerne
+vedlige. Det er en Betingelse for
+Svingningernes Ligetidighed, at Virkningen af de
+uundgaaelige Forandringer af de Kræfter, som foruden
+Tyngdekraften har Indflydelse paa Bevægelsen,
+og af Temperaturen, som har Indflydelse paa
+Pendullængden, saavidt muligt ophæves,
+kompenseres. De nævnte Kræfter er: Modstande
+mod Bevægelsen fra Ophængningen og fra
+Luften samt Opdriften fra Luften, der formindsker
+<i>g</i>. Luftmodstand og Opdrift afhænger af Luftens
+Vægtfylde og derved af dens Temperatur og
+Tryk. Temperaturens samlede Indflydelse paa
+Svingningstiden imødegaas ved at bygge P.
+som <sp>Kompensationspendul</sp> af to
+Metaller med forsk. Udvidelseskoefficient. Nu
+bruger man sædvanlig en Pendulstang af Invar (s.
+d.), en Legering af Jern og Nikkel med meget
+lille Udvidelseskoefficient, i Forbindelse med
+en linseformet Vægt af Messing; Stangen er ført
+gennem en Boring i Linsen, som bæres af en
+Møtrik paa Stangens nederste Ende. Mellem
+Møtrikken og Linsen er der indskudt et faa cm
+langt Messingrør. Ved dettes og Linsens
+Udvidelse som Følge af en Opvarmning løftes
+Tyngdepunktet, mens det sænkes ved
+Invarstangens Udvidelse. De to modsatte Virkninger kan
+afpasses til Kompensation af
+Temperaturforandringers Indflydelse. Indflydelsen af
+Forandringer i Lufttrykket kan modvirkes ved paa P. at
+fæste en Aneroidbarometerkapsel (se
+<sp>Barometer</sp>), der forbindes saaledes med en afpasset
+Metalmasse, at denne løftes ell. sænkes ved
+indtræffende Forandringer i Barometerstanden,
+hvorved der indføres Forandringer i
+Svingningstiden modsat rettede dem, som
+Lufttryksforandringerne vil medføre ved Opdriften.
+Indflydelsen af Forandringer i den fri Lufts Vægtfylde
+kan undgaas helt ved at anbringe Uret i et
+lufttæt lukket Skab. I astron. Ure benytter man
+sædvanlig <sp>Sekundpendulet</sp>, hvis
+reducerede Længde, omtr. 1 m, retter sig efter
+Breddegraden af det Sted, hvor Uret hænger.
+I Afpasningen til 1 Sekunds Svingningstid sker

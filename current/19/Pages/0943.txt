@@ -1,0 +1,84 @@
+<img>Randers</img>
+<table>
+<td r>1.<td><i>Amtmandsbolig</i><td r>D. 3
+<td r>2.<td><i>Amtssygehus</i><td r>C. 2
+<td r>3.<td><i>Amtstue</i><td r>B. 3
+<td r>4.<td><i>Andelsbanken</i><td r>C. 3
+<td r>5.<td><i>Andelsmejeri</i><td r>C. 3
+<td r>6.<td><i>Apotek, Jernbane-</i><td r>B. 3
+<td r>7.<td><i>— , Krone-</i><td r>C. 3
+<td r>8.<td><i>— , Løve-</i><td r>C. 3
+<td r>9.<td><i>— , Svane-</i><td r>C. 4
+<td r>10.<td><i>Banken for Randers og Omegn</i><td r>C. 3
+<td r>11.<td><i>Borgmesterkontor</i><td r>B. 3
+<td r>12.<td><i>Brandstation</i><td r>C. 3
+<td r>13.<td><i>Bryggeri, Thor</i><td r>C. 3
+<td r>14.<td><i>Dommerkontor (Nørrehald)</i><td r>D. 3
+<td r>15.<td><i>— (Randers Købst.)</i><td r>D. 3
+<td r>16.<td><i>— (Rovsø)</i><td r>D. 3
+<td r>17.<td><i>Eksportslagteri</i><td r>D. E. 3
+<td r>18.<td><i>Elektricitetsværk</i><td r>B. C. 2
+<td r>19.<td><i>Fabrik, Margarine-</i><td r>B. 3
+<td r>20.<td><i>— , Motor-</i><td r>E. 6
+<td r>21.<td><i>— , Maskin-</i><td r>D. 5
+<td r>22.<td><i>— , Sprit-</i><td r>C. 4
+<td r>23.<td><i>Fattiggaard</i><td r>A. 3
+<td r>24.<td><i>Folkebank</i><td r>C. 4
+<td r>25.<td><i>Folketeatret</i><td r>D. 3
+<td r>28.<td><i>Gasværk</i><td r>B. 3, 4
+<td r>27.<td><i>Handelsbankens Filial</i><td r>C. 3
+<td r>28.<td><i>Helllgaandshuset</i><td r>C. 3
+<td r>29.<td><i>Hospital, Skt Joseph's</i><td r>C. 2
+<td r>30.<td><i>Hotel, Dagmar</i><td r>C. 3
+<td r>31.<td><i>— , National</i><td r>B. 3
+<td r>32.<td><i>— , Randers</i><td r>C. 3
+<td r>33.<td><i>— , Westend</i><td r>A. 3
+<td r>34.<td><i>Haandværkerforeningen</i><td r>B. 3
+<td r>35.<td><i>Jydsk Trælastimport</i><td r>D. 5
+<td r>36.<td><i>Jernstøberi</i><td r>B. 3
+<td r>37.<td><i>Kapel</i><td r>E. 2
+<td r>38.<td><i>Kaserne</i><td r>C. 2
+<td r>39.<td><i>— , Møllegades</i><td r>C. 2
+<td r>40.<td><i>Kirke, Katolsk</i><td r>D. 3
+<td r>41.<td><i>— , Katolsk-Apostolisk</i><td r>A. 3
+<td r>42.<td><i>— , Skt. Mortens</i><td r>C. 3, 4
+<td r>43.<td><i>— , Skt. Peders</i><td r>B. 2
+<td r>44.<td><i>— ,Skt. Pouls-, Metodist-.</i><td r>B. 2
+<td r>45.<td><i>Kirkegaard, Mosaisk</i><td r>D. 2
+<td r>46.<td><i>Krudthus</i><td r>F. 2
+<td r>47.<td><i>Laane- og Diskontobank</i><td r>C. 4
+<td r>48.<td><i>Markedshal</i><td r>D. 3
+<td r>49.<td><i>Merkur, Villa</i><td r>F. 2
+<td r>50.<td><i>Mindestøtte, Niels Ebbesen's</i><td r>C. 3
+<td r>51.<td><i>— , St. St. Blichers</i><td r>D. 3
+<td r>52.<td><i>Museum</i><td r>D. 3
+<td r>53.<td><i>Niels Ebbesen's Gaard</i><td r>C. 4
+<td r>54.<td><i>Postkontor</i><td r>C. 3
+<td r>55.<td><i>Raadhus, Borgmesterkontor</i><td r>C. 3
+<td r>56.<td><i>Ridehus, Gamle</i><td r>D. 3
+<td r>57.<td><i>— , Nye</i><td r>C. 2
+<td r>58.<td><i>Savværk</i><td r>E. 3
+<td r>59.<td><i>Skole, Folke-</i><td r>A. 1, 2
+<td r>60.<td><i>— , Kommune-</i><td r>D. 6
+<td r>61.<td><i>— , —</i><td r>B. C. 3
+<td r>62.<td><i>— , —</i><td r>C. 2
+<td r>63.<td><i>— , —</i><td r>C. D. 2
+<td r>64.<td><i>— , —</i><td r>C. 3
+<td r>65.<td><i>— , Latin-</i><td r>B. 3
+<td r>66.<td><i>— , Pige-</i><td r>E. 3
+<td r>67.<td><i>— , Real-</i><td r>C. 3
+<td r>68.<td><i>— , Teknisk-</i><td r>D. 3
+<td r>69.<td><i>— , Westrup's Real-</i><td r>D. 3
+<td r>70.<td><i>Slagtehuse, Offentlige</i><td r>B. 2
+<td r>71.<td><i>Slotsgaarden</i><td r>D. 3
+<td r>72.<td><i>Sparek. for Randers og Omegn</i><td r>C. 3
+<td r>73.<td><i>Sygehus</i><td r>B. 3
+<td r>74.<td><i>Synagoge</i><td r>C. 3
+<td r>75.<td><i>Søpavillonen</i><td r>C. 4
+<td r>76.<td><i>Teater, Harmonien</i><td r>D. 3
+<td r>77.<td><i>Telefonstation</i><td r>C. 3
+<td r>78.<td><i>Telegrafstation</i><td r>C. 4
+<td r>79.<td><i>Ting- og Arresthus</i><td r>C. 3
+<td r>80.<td><i>Tøjhus, Nørrejyllands</i><td r>E. 2
+<td r>81.<td><i>Vandværk</i><td r>C. 6
+</table>

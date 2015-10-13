@@ -1,0 +1,158 @@
+mod Spillepladsen, er befæstet en vandret
+stillet Ring, 50 cm i Tværmaal, som benævnes
+»Kurven«, fordi man tidligere anvendte en
+virkelig Kurv ell. et Net til at kaste Bolden i.
+Banen er 36 m lang og 18 m bred og deles ved
+to Linier paa langs og paa tværs i 9 lige store
+Felter. Hvert af disse Felter afgiver Plads til
+to Deltagere, en fra hvert Parti, saaledes at
+der er Plads til atten Deltagere, og man spiller
+stadig een imod een. Maalet gøres ved, at
+Bolden kastes op i Luften, saaledes at den ovenfra
+gaar igennem Ringen. (<sp>Litt</sp>.: »Haandbog i
+Gymnastik«, II, 3. Opl. [Kbhvn 1915]).
+<i>Fr. K.</i>
+</chapter>
+
+<chapter name="Kurvefletning">
+<b>Kurvefletning.</b> Som Raamateriale for K.
+benyttes hovedsagelig Vidjer, sjældnere
+Spanskrør, Træspaaner, Bambus o. l. Til de groveste
+Kurve anvendes Vidjerne med paasiddende
+Bark, men sædvanlig afbarkes, »skrælles«, de
+ved i frisk Tilstand at trækkes gennem en
+fjedrende Træklemme, hvorved Barken løsnes
+saaledes, at den let kan aftages. De tørres derpaa
+hurtig, for at bevare den hvide Farve, og kan
+opbevares saaledes i mange Aar; den ved
+Opbevaringen fremkomne Stivhed kan ophæves,
+naar de lægges i Vand kort før Brugen. — Til
+finere Arbejder bliver Vidjerne før Brugen
+spaltede, undertiden ogsaa høvlede til Spaaner. K.
+foregaar næsten altid som Haandarbejde, idet
+man først tildanner Bunden og derefter
+Siderne, undertiden omkr. en paa Bunden nedsat
+Form. Man har dog ogsaa til Fletning af
+Siderne konstrueret Maskiner, i hvilke de
+lodrette Vidjer føres paa samme Maade som
+Kædegarnet i en Væv, hvorefter Islætten
+nedlægges for Haanden.
+<i>K. M.</i>
+</chapter>
+
+<chapter name="Kurvehanksbue">
+<b>Kurvehanksbue,</b> se <sp>Bue</sp>.
+</chapter>
+
+<chapter name="Kurvepil">
+<b>Kurvepil</b> bruges, især som Modsætning til
+»Baandpil«, som Fællesnavn for de Kulturpile,
+hvis Aarsskud er tilstrækkelig lange, slanke og
+bøjelige til at kunne flettes til Kurve, Møbler
+m. m. De hyppigste K. er Varieteter af <i>Salix
+purpurea</i>, men ogsaa Varieteter af andre
+<i>Salix</i>-Arter kan give fortrinlige K.
+<i>C. V. P.</i>
+</chapter>
+
+<chapter name="Kurver">
+<b>Kurver</b> (mat.), krumme Linier. K. deles i
+<sp>plane K.</sp>, hvis Punkter alle ligger i samme
+Plan, og <sp>vindskæve K.</sp> ell. <sp>Rumkurver</sp>.
+K. kan enten foreligge tegnede (grafiske K.)
+ell. være definerede som geometriske Steder ell.
+Skæringskurver mellem Flader. Allerede den
+gr. Oldtids Matematikere beskæftigede sig med
+forsk. K., som deres geometriske Løsninger af
+Opgaver ledede dem til. Særlig behandlede de
+Keglesnittene ud fra Definitioner, der stemmer
+med dem, som nu udtrykkes i den analytiske
+Geometris Ligninger. Men ved denne sidste
+Fremstillingsmaade af K. i Forbindelse med
+Anvendelse af Differential- og
+Integralregningen blev det muligt at give alm., for alle
+saaledes fremstillede K. gældende Metoder til
+Bestemmelse af Tangenter, Krumning,
+Oskulationsplan, Buelængder m. m. Særlig er der
+opstillet alm. gældende Sætninger for de
+<sp>algebraiske K.</sp>, ɔ: saadanne, der fremstilles
+ved algebraiske Ligninger (i Modsætning til
+<sp>transcendente</sp>). En <sp>plan algebraisk
+K.'s Orden</sp> og <sp>Klasse</sp> er Antallene henh.
+af dens Skæringspunkter med en vilkaarlig ret
+Linie og af Tangenterne til den fra et
+vilkaarligt Punkt, imaginære Skæringspunkter og
+Tangenter medregnede; Orden og Klasse er altsaa
+= Graderne af K.'s Ligning i henh. Punkt- og
+Liniekoordinater. Imellem disse Tal og
+Antallene af K.'s Særegenheder ɔ: Dobbeltpunkter,
+Spidser, Dobbelttangenter og Vendetangenter,
+bestaar der visse alm. gældende Ligninger, de
+saakaldte <sp>Plücker'ske</sp> (s. d.). Ved en
+algebraisk K.'s Slægt forstaas Forskellen
+mellem det højeste Antal Dobbeltpunkter og
+Spidser, som en K. af den forelagtes Orden kan
+have, og det virkelige Antal; i fl. vigtige
+Spørgsmaal, der staar i Forbindelse med den
+moderne Funktionsteori, kan man under eet
+behandle alle K., der ved entydig Transformation
+gaar over i hverandre, hvilken Forbindelse kun
+er mulig mellem K. af samme Slægt. Andre
+alm. Sætninger om plane algebraiske K. findes
+anførte under <sp>Diametre</sp>, <sp>Poler</sp>,
+<sp>Polarer</sp>. En <sp>algebraisk Rumkurves</sp>
+Orden er = Antallet af dens Skæringspunkter
+med en vilkaarlig Plan. Er en saadan K. den
+fuldstændige Skæringskurve mellem to
+algebraiske Flader, fremstilles den ved disses
+Ligninger tagne sammen, og dens Orden er =
+Produktet af Fladernes Ordener; men kan man
+gennem en Del af en saadan Skæringskurve
+lægge en algebraisk Flade, der ikke indeholder
+Resten, betragtes den saaledes udskilte Del
+(saavel som Resten) som en særlig Rumkurve,
+der faar en lavere Orden. Saaledes vil
+Skæringskurven mellem to cirkulære Kegleflader,
+der har forsk. Toppunkter, men en fælles
+Frembringer, bestaa af denne og en Rumkurve af
+3. Orden. Cayley har for de algebraiske
+Rumkurver opstillet Ligninger analoge med de
+Plücker'ske. En udmærket Behandling af K.
+findes i Salmon's Værker: <i>A treatise on conic
+sections</i>, <i>A treatise on higher plane curves</i> og
+<i>A treatise on the analytic geometry of three
+dimensions</i>, der alle er oversatte paa Tysk af
+Fiedler. Om de enkelte K. henvises til de
+respektive Artikler. Ved en <sp>plan grafisk K.</sp>'s
+Orden forstaas det højeste Antal Punkter, hvori
+den kan skæres af en ret Linie. En
+Behandling af plane grafiske K., særlig af dem af 3.
+og 4. Orden, findes i C. Juel: »Indledning i
+Læren om de grafiske K.« (»Danske
+Videnskabernes Selskabs Skr«, 6. Rk.); en beslægtet
+Undersøgelse af algebraiske K. af 3. og 4.
+Orden, hvor dog K.'s ad analytisk Vej beviste
+Egenskaber benyttes, har Zeuthen givet i
+»Tidsskrift f. Mathematik« (1873). Hjelmslev
+har i »Darstellende Geometri« (1914) givet
+Beviser for Differentialgeometriens Sætninger, der
+— med nogle Forbehold — ogsaa omfatter de
+ikke analytisk fremstillelige K.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Kurvirke">
+<b>Kurvirke,</b> d. s. s. <sp>Kovirke</sp>.
+</chapter>
+
+<chapter name="Kurz, Heinrich">
+<b>Kurz</b> [korts], <sp>Heinrich</sp>, tysk
+Litteraturhistoriker, f. i Paris af tyske Forældre 28. Apr.
+1805, d. i Aarau 24. Febr 1873. Han studerede
+Teologi og østerlandsk Filologi samt Kinesisk i
+Leipzig og Paris. 1830 vendte han tilbage til
+Tyskland og holdt Forelæsninger over Kinesisk
+i München, medens han levede af journalistisk
+Virksomhed. I Augsburg, hvor han udgav
+Oppositionsbladet »Die Zeit«, blev han arresteret
+og idømt 2 Aars Fæstningsstraf i Würzburg,

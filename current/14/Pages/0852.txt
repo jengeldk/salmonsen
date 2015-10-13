@@ -1,0 +1,149 @@
+<chapter name="Kuba">
+<b>Kuba,</b> By i Transkaukasien, Guvernementet
+Raku, 135 km NV. f. Baku ved højre Bred af
+Kubinka (15000 Indb.). Fabrikation af Silke
+og Tæpper. — K. var tidligere Hovedstad i et
+selvstændigt Kanat, som 1799 blev forenet med
+Kanatet Derbent og 1806 kom under Rusland.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Kuba-Bast">
+<b>Kuba-Bast</b> er Basten (og noget af Barken)
+af den i Vestindien voksende <i>Hibiscus elatus</i>;
+den bruges i farvet Tilstand til Fletning af
+Damehatte, og i ren Tilstand til Tovværk.
+<i>K. M.</i>
+</chapter>
+
+<chapter name="Kuban">
+<b>Kuban</b> [ku'ban<sub>j</sub>], se <sp>Hypanis</sp>.
+</chapter>
+
+<chapter name="Kubango">
+<b>Kubango,</b> <sp>Okavanga</sp>, Flod i Sydafrika,
+udspringer i det østlige Angola ikke langt fra
+Kongo-Tilløbet Kuango, men løber med store
+Bugtninger mod SØ.; i sit nedre Løb benævnes
+den <sp>Tioge</sp>, der er Ngami-Søens vigtigste
+Tilløb. Den optager V. fra <sp>Omatako</sp>, der dog
+kun periodisk er vandførende.
+<i>C. A.</i>
+</chapter>
+
+<chapter name="Kuban-Omraadet">
+<b>Kuban-Omraadet</b> (<sp>Kubanskaja
+Oblastj</sp>), Prov. i det vestlige Ciskaukasien,
+begrænses mod S. af Kaukasus, mod Ø. af
+Guvernementet Stavropol, mod N. af den donske
+Kosakprovins, mod V. af det asovske Hav og
+har et Areal af 94904 km<sup>2</sup> med (1909) 2625800
+Indb., 28 pr km<sup>2</sup>. Den sydlige Del af Prov.
+gennemstrømmes af Kuban, der har en Længde af
+810 km med et Opland paa 55657 km<sup>2</sup> og
+gennem sine talrige Tilløb afvander hele den
+vestlige Del af Kaukasus' Nordskraaning. Landet
+er mod S. bjergfuldt, opfyldt af Kaukasus'
+Forkæder, der prydes af store Skove af Eg, Bøg
+og Avnbøg, medens Dalene besidder frugtbare
+Marker og blomsterrige Enge. Den nordlige
+Del af Prov. er skovløs, naar undtages
+lavstammet Egeskov i Floddalene. Steppen, der
+imidlertid over store Strækninger har maattet vige
+for Kulturlandet, dannes ved Bjergenes Fod af
+Græs, i den øvrige lavtliggende Del af Landet
+derimod hovedsagelig af forsk. Stauder, der
+afgiver et ypperligt Foder for Kvæget.
+Jordbunden bestaar af den overordentlig frugtbare
+Sortjord (Tshernosem), der, naar den dyrkes,
+giver fortrinlige Kornafgrøder. Store
+Strækninger indtages ogsaa af Rørsumpe, navnlig
+langs med Kuban, der om Foraaret vidt og
+bredt sætter sine Omgivelser under Vand.
+Sumpene indtager i alt et Areal af 194800 ha,
+Skovene 1,7 Mill. ha. Den opr. Befolkning
+bestaar af Tsherkesser (40000), Abchaser (12000),
+Karatshaier (22000) og Bjergkabardiner (11000).
+Disse muhammedanske Folkeslag er siden
+Russernes Okkupation af Landet tagne stærkt
+af i Folkemængde p. Gr. a. Udvandring til
+Tyrkiet. Deres Plads har da Kosakker o. a. russ.
+Kolonister indtaget, hvilke har bidraget meget
+til Landets Opdyrkning og Fremgang i Kultur.
+Russerne udgør nu langt den overvejende Del
+af Befolkningen, ligesom det store Flertal af
+Indbyggerne bekender sig til den ortodokse
+Kirke. Agerbrug er den vigtigste Næringsvej;
+der dyrkes Hvede, Tobak og Vin. Meget
+betydelig er Kvægavlen; der holdes Faar,
+Hornkvæg, Heste og Kameler. Steppernes talrige
+Blomster er særlig gunstige for Biavlen.
+Handelen er betydelig og lettes ved den
+ciskaukasiske Jernbane med en Sidelinie over
+Jekaterinodar til Novorossijsk ved det sorte Hav.
+Hovedstad er Jekaterinodar.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Kubatur">
+<b>Kubatur</b> (mat.) vil sige Bestemmelse af et
+Legemes Rumfang; Navnet kommer af den
+lat. Benævnelse <i>cubus</i> for Terningen, der
+bruges som Rumfangsenhed. Fremgangsmaaden,
+der i Stereometrien anvendes ved K., er
+væsentlig den, at danne det søgte Rumfang ved
+Addition og Subtraktion af bekendte, ell., hvis
+dette ikke lykkes, betragte det som Grænse for
+et paa den nævnte Maade dannet Rumfang.
+Først udføres K. af retvinklede
+Parallelepipeder, idet man søger at dele dem i Dele, som
+er = Rumfangs-enheden ell. Brøkdele deraf.
+Halvering af de retvinklede Parallelepipeder
+ved Diagonalplaner giver K. af retstaaende
+Prismer med retvinklede Trekanter til
+Grundflader, og af disse kan alle retstaaende
+Prismer sammensættes; et skævt Prisme deles af
+et Normalsnit i to Dele, der kan
+sammensættes til et retstaaende Prisme, ved at man
+bringer de skraa Endeflader til Dækning. En
+Pyramide overskæres med en Række Planer
+parallelle med Grundfladen, der deler Højden i
+<i>n</i> lige store Dele, og betragtes som Grænse for
+Summen af Prismerne med de nævnte Snit til
+Grundflader og Højder = 1/<i>n</i> af Pyramidens
+Højde, naar <i>n</i> vokser i det uendelige.
+Rumfangene af de andre Polyedre findes ved at dele
+dem i Pyramider. Cylindre og Kegler
+betragtes som Grænser for Prismer og Pyramider,
+Kuglen som Grænse for et Legeme frembragt
+ved Drejning af en regulær Polygon med lige
+Sideantal om en Diagonal. Naar et Rumfang
+skal findes som Grænse for en Sum af
+uendelig smaa Addender med bekendt Rumfang, maa
+disses Summation udføres ved Integration (se
+<sp>Integralregning</sp>); Opgaven lettes
+naturligvis ved et hensigtsmæssigt Valg af
+Addenderne. Saaledes kan Rumfanget begrænset af
+en Omdrejningsflade med et treretvinklet
+Koordinatsystems <i>Z</i>-akse til Akse, hvis
+Meridiankurve i <i>XZ</i>-planen har Ligningen <i>x</i> = <i>f</i> (<i>z</i>),
+samt af to Planer vinkelrette paa <i>Z</i>-aksen i
+Afstandene <i>a</i> og <i>b</i> fra <i>XY</i>-planen, findes ved
+en enkelt Integration som ∫<i>b</i>π<i>a</i> [<i>f</i> (<i>z</i>)]<sup>2</sup> <i>dz</i>; her
+er Addenderne Cylindre med Højden <i>dz</i>
+oprejste paa Parallelcirkler. Ellers bruges
+hyppigst ∫∫ <i>f</i> (<i>x</i>, <i>y</i>) <i>dx</i> <i>dy</i>, der er Udtryk for et
+Rumfang begrænset af en Flade, hvis Ligning i
+et treretvinklet Koordinatsystem er <i>z</i> = <i>f</i> (<i>x</i>, <i>y</i>),
+<i>XY</i>—planen og en paa denne vinkelret
+Cylinderflade, idet Integrationsgrænserne afhænger af
+Cylinderfladen; her er Addenden <i>f</i> (<i>x</i>, <i>y</i>) <i>dx</i> <i>dy</i>
+= Rumfanget af et retvinklet
+Parallelepipedum, der til sammenstødende Kanter
+har <i>Z</i>-koordinaten til et Punkt paa Fladen og
+de to med <i>X</i>- og <i>Y</i>-aksen parallelle uendelig
+smaa Liniestykker <i>dx</i> og <i>dy</i>. I
+Polarkoordinater bruges som Addent 1/3 <i>r</i> · <i>r</i> sin Θ<i>d</i>ψ · <i>rd</i>Θ,
+der er Udtryk for en uendelig lille Kegle med
+Toppunkt i Polen og <i>r</i> til Frembringer; et
+Rumfang begrænset af en lukket Flade med

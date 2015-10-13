@@ -1,0 +1,96 @@
+<table>
+<td 5 c><sp>BIND IX</sp>.
+<td>Side<td>Sp.
+<td r>48,<td c>2,<td>Linie<td r>12 f. n.<td>og Manø samt de til Preussen hørende Øer Romø, Sild læs:<br>Manø og Romø samt de til Preussen hørende Øer Sild
+<td r>94,<td c>1,<td>Linie<td r>8 f. o.<td>Värmlandske læs: Värmländska
+<td c>—<td c>1,<td>Linie<td r>28 f. n.<td>gamalt læs: gammalt
+<td r>103,<td c>2,<td c>—<td r>12 f. n.<td><sp>Lorens</sp> læs: <sp>Lorenz</sp>
+<td r>117,<td c>1,<td c>—<td r>12 f. n.<td><b>Fuertaventura</b> læs: <b>Fuerteventura</b>
+<td c>—<td c>2,<td>Linie<td r>11 f. o.<td><sp>Puerta</sp> læs: <sp>Puerto</sp>
+<td r>128,<td c>1,<td c>—<td r>21 f. o.<td>Gravhvepse læs: Gravehvepse
+<td r>168,<td c>2,<td>Linie<td r>18 f. n.<td>Horne læs: Hoorne
+<td r>210,<td c>1,<td c>—<td r>22 f. o.<td><sp>Tigestedt</sp> læs: <sp>Tigerstedt</sp>
+<td r>211,<td c>1,<td>Linie<td r>7 f. n.<td><sp>Balmoterapi</sp> læs: <sp>Balneoterapi</sp>
+<td r>221,<td c>2,<td>Linie<td r>12 f. o.<td>18 Min. læs: 27 Min. 42 Sek.
+<td c>—<td c>2,<td>Linie<td r>13 f. o.<td>10 Min. læs: 48 Sek.
+<td c>—<td c>2,<td c>—<td r>18 f. o.<td>»i Danmark . . . Landet« læs: »i Danmark gaar den over Bornholm«
+<td r>368,<td c>1,<td>Linie<td r>33 f. n.<td>Brignoles Sale læs: Brignole-Sale
+<td r>379,<td c>1,<td>Linie<td r>6 f. o.<td>1857 læs: 1867
+<td r>401,<td c>1,<td c>—<td r>11 f. n.<td>1873 læs: 1872
+<td r>435,<td c>2,<td c>—<td r>6 f. o.<td>Frakrig læs: Frankrig:
+<td r>442,<td c>1,<td c>—<td r>24 f. n.<td><b>Garnering,</b> 2) tilføjes: eller <sp>Foring</sp>
+<td r>447,<td c>2,<td>Linie<td r>18 f. n.<td><sp>Jakoba</sp> læs: <sp>Jacoba</sp>
+<td r>481,<td c>1,<td c>—<td r>11 f. n.<td><sp>Kloaken</sp> læs:
+<sp>Kloakken</sp>
+<td r>562,<td c>1,<td>Linie<td r>26 f. n.<td>Dumont læs: Dunant
+<td r>572,<td c>2,<td c>—<td r>7 f. n.<td><sp>Trebia</sp> læs: <sp>Trebbia</sp>
+<td r>573,<td c>2,<td c>—<td r>26 f. n.<td>Via Settembre læs: Via Venti Settembre
+<td r>584,<td c>2,<td>Linie<td r>33 f. n.<td>Elsler læs: Elszler
+<td c>—<td c>2,<td c>—<td r>4 f. n.<td>tyske læs: preussiske
+<td r>603,<td c>2,<td c>—<td r>24 f. n.<td>1663 læs: 1683
+<td r>608,<td c>1,<td c>—<td r>17 f. n.<td>1906 læs: 1876
+<td r>641,<td c>1,<td c>—<td r>16 f. o.<td>Ibn Rushd læs: Ibn-Roschd
+<td r>723,<td c>2,<td>Linie<td r>14 f. o.<td><sp>Belici</sp> læs: <sp>Belice</sp>
+<td r>761,<td c>2,<td c>—<td r>13 f. o.<td>Baremsberg læs: Barenberg
+<td r>772,<td c>2,<td>Linie<td r>29 f. n.<td>1914 læs: d. 14. April 1915
+<td r>813,<td c>2,<td>Linie<td r>13 f. o.<td><sp>Houdain</sp> læs: <sp>Houdon</sp>
+<td r>817,<td c>2,<td>Linie<td r>30 f. n.<td>1811-93 læs: 1816-93
+<td r>823,<td c>1,<td c>—<td r>14 f. n.<td><sp>Friederich</sp> læs: <sp>Friedrich</sp>
+<td r>857,<td c>2,<td>Linie<td r>33 f. o.<td>Herefter skulde følge <b>Gol,</b> <sp>Herred</sp>, se Side 870
+<td r>869,<td c>1,<td>Linie<td r>24 f. n.<td><sp>Rennel-Strømmen</sp> læs: <sp>Rennell-Strømmen</sp>
+<td r>870,<td c>1,<td>Linie<td r>21 f. n.<td>1843 læs: 9. Juli 1843 1919 læs: 11. Jan. 1926 i Pavia
+<td r>902,<td c>2,<td>Linie<td r>32 f. n.<td>Peschkov læs: Pjeschkov
+</table>
+
+<table>
+<td 5 c><sp>BIND X</sp>.
+<td>Side<td>Sp.
+<td r>17,<td c>1,<td>Linie<td r>13 f. o.<td>tre læs: fire
+<td c>—<td c>1,<td c>—<td r>15 f. o.<td>04 læs: 09
+<td r>41,<td c>2,<td>Linie<td r>22 f. n.<td>Glenely læs: Glenelg
+<td r>44,<td c>2,<td c>—<td r>10 f. o.<td><sp>Grinnel Land</sp> læs: <sp>Grinnell Land</sp>
+<td r>79,<td c>1,<td>Linie<td r>23 f. o.<td><i>Ocean</i> læs: <i>Oceana</i>
+<td r>143.<td><td 3>Kortet. Griseboerne læs: Grisbådarna
+<td r>288.<td><td 3>Kortet over Grønland. Grinnel læs: Grinnell
+<td r>334,<td c>2,<td>Linie<td r>21 f. o.<td><sp>Jose</sp> læs: <sp>José</sp>
+<td r>351,<td c>1,<td c>—<td r>28 f. n.<td><i>judicum</i> læs: <i>judicium</i>
+<td r>356,<td c>1,<td c>—<td r>33 f. n.<td><i>rétricissements</i> læs: <i>rétrécissements</i>
+<td r>361,<td c>1,<td>Linie<td r>16 f. o.<td>1528 læs: i de første Aar af 16. Aarh.
+<td c>—<td c>1,<td>Linie<td r>21 f. o.<td>Guadix læs: Guadix (1528)
+<td r>367,<td c>1,<td>Linie<td r>20 f. o.<td><sp>Bapt.</sp> læs: <sp>Baptiste</sp>
+<td r>390,<td c>2,<td c>—<td 3>29, 25, 24 og 10 f. n. Mill. læs: 1000
+<td r>411,<td c>2,<td>Linie<td r>16 f. n.<td>Lam læs: Kid
+<td r>422,<td c>1,<td c>—<td r>26 f. o.<td>Mach- læs: Mac-
+<td c>—<td c>1,<td c>—<td r>27 f. o.<td>Hermine læs: Hermione
+<td r>451,<td c>2,<td c>—<td r>9 og 6 f. n.<td>1855 læs: 1835
+<td r>468,<td c>2,<td c>—<td r>37 f. n.<td>mere end tyve læs: knapt femten
+<td r>541,<td c>1,<td>Linie<td r>36 f. n.<td>Trollhätta- læs: Trollhätte-
+<td r>552,<td c>2,<td>Linie<td r>32 f. n.<td><sp>Lewis</sp> læs: <sp>Lewes</sp>
+<td r>557,<td c>1.<td 3>Portrættet forestiller ikke Rigshofmester M. G., men Geheimeraad Marcus G.
+<td r>576,<td c>1,<td>Linie<td 2>14—16 f. o. skal følge efter Linie 18 f. o.
+<td r>622,<td c>1,<td>Linie<td r>4 f. n.<td>Hammurapi's læs: Hammurabi's
+<td r>636,<td c>1,<td>Linie<td r>15 f. n.<td>H. læs: Kobberteltene ved H.
+<td r>654,<td c>1,<td>Linie<td r>10 f. n.<td>H. læs: <sp>Hagios</sp>
+<td r>750,<td c>2,<td>Linie<td r>21 f. o.<td>Hans Søn læs: <sp>James II</sp>'s
+<td r>753,<td c>1,<td>Linie<td r>18 f. o.<td>Sir Hamilton læs: Sir William Hamilton
+<td r>775,<td c>1,<td>Linie<td r>13 f. o.<td><b>Hammershøj</b> læs: <b>Hammershøi</b>
+<td r>785,<td c>2,<td>Linie<td r>33 f. n.<td>»Benari« læs: »Benoni«
+<td r>786,<td c>1,<td c>—<td r>3 f. o.<td><sp>Mortinger</sp> læs: <sp>Morburger</sp>
+<td r>799,<td c>2,<td>Linie<td r>16 f. o.<td>I Danmark findes intet H. læs: Paa Kronborg findes et H.
+<td r>846,<td c>2,<td>Linie<td r>13 f. o.<td>Kundskabsakademiet læs: Kunstakademiet
+<td r>863,<td c>2,<td>Linie<td r>3 f. n.<td>Karl Johans Teater læs: Karl Johan-Teatret
+<td r>864,<td c>2,<td>Linie<td r>3 f. o.<td>Bohr's læs: Bahr's
+<td r>908,<td c>2,<td c>—<td r>3 f. n.<td>Halling læs: Stalling
+<td 5>Paa Tavle III til »Gravmæle« skal Underskrifterne Rubjerg og Skjødstrup ombyttes.
+</table>
+
+<table>
+<td 5 c><sp>BIND XI</sp>.
+<td>Side<td>Sp.
+<td r>14,<td c>1,<td>Linie<td r>33 f. n.<td>Barmdomsaar læs: Barndomsaar
+<td r>79,<td c>1,<td>Linie<td r>18 f. n.<td>Budgewaler læs: Bridgewater
+<td c>—<td c>2,<td>Linie<td r>1 f. o.<td><sp>Saintbury</sp> læs: <sp>Saintsbury</sp>
+<td r>108,<td c>2,<td>Linie<td r>6 f. o.<td>NV. f. læs: NØ. f.
+<td c>—<td c>2,<td c>—<td r>7 f. o.<td>SØ. f. læs: SV. f.
+<td r>152,<td c>1,<td c>—<td r>7 f. o.<td>1824 læs: 1822
+</table>

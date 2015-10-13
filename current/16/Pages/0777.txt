@@ -1,0 +1,149 @@
+Af hydrauliske M. med Vægtstangsapparat til
+Kraftens Maaling kan nævnes: Pfaff, Gollner,
+Wicksteed, Avery, Greenwood and Batley,
+Buckton, Pohlmeyer, Martens, Werder,
+Delaloë. Werder's Maskine, hvormed Bauschinger
+har anstillet alle sine Forsøg, er skematisk vist
+i Fig. 3; <i>P</i> er Prøvestykket, som ved sin ene
+Ende er forbundet med et fast Punkt <i>m</i> af
+Maskinstativet <i>S</i>, ved den anden med Stangen
+<i>G</i>; denne har fat i den korte Arm <i>a</i> af en
+Vinkelvægtstang <i>aH</i>, som ligger an ved <i>s</i> mod
+Forfladen af Stemplet <i>K</i> i den hydrauliske
+Presse; naar Stemplet vandrer til højre og
+Armen <i>H</i> holdes vandret ved Forøgelse af
+Vægten <i>W</i>, maa ligeledes det øverste
+Endepunkt af Armen <i>a</i> vandre til højre og
+Prøvestykket altsaa blive strakt. Forholdet mellem
+Armene <i>a</i> og <i>H</i> er sædvanlig 1 : 500, og da
+Armen <i>a</i> derved bliver saa kort, at den ikke
+kan maales direkte, er der tilføjet en
+Vinkelvægtstang <i>H</i>, for at man kan kontrolere
+Maskinens Angivelser.
+
+Ligeledes hydrauliske, men med Manometer
+ell. Maaledaase som Kraftmaaler er
+Systemerne: Maillard, Thomasset, Emery, Amsler,
+Martens m. fl.; navnlig Amsler's Maskiner, der
+enten har aabent Kvægsølvmanometer ell.
+Pendulmanometer, er meget brugte. Emery's
+Maskine konstrueredes første Gang (med et
+største Træk paa 450 t) 1879 til Prøveanstalten
+ved Arsenalet i Watertown, og den skal have
+præsteret noget ganske enestaaende i Retning
+af Nøjagtighed.
+
+Mange M. er forsynede med
+<sp>Diagramapparater</sp>, der optegner en Kurve visende
+Prøvelegemets Formforandringer som Funktion
+af Kraften. Fig. 4 viser en Udførelsesform,
+bestaaende af en lodret
+Tromle, belagt med
+Papir, mod hvilket
+en Skrivestift
+trykker. Stiften sidder
+paa en Stang, der
+styres af Bøjler paa
+Maskinstativet, og
+som ophænges i en
+Snor, der er
+forbundet med et paa
+Trækprøvestangen
+fastgjort Apparat paa en
+saadan Maade, at
+Skrivestiften sænker
+sig proportionalt med
+Stangens Forlængelse.
+Tromlen er ved Hjælp
+af en Snorskive sat i Forbindelse med
+Vægtstangens Løbelod, og dens Vinkeldrejning er
+derfor proportional med Loddets Vandring,
+altsaa med Kraften. I Fig. 2 er Forholdet
+omvendt, Loddet fører Skrivestiften, Tromlen
+drejes af Prøvestangen. Disse Apparater viser
+kun store Formforandringer, smaa maales med
+Spejlapparat (s. d.) eller andre
+Finmaaleinstrumenter.
+<i>(A. O-d.). E. Su.</i>
+
+<img>Fig. 4.</img>
+</chapter>
+
+<chapter name="Materialprøver">
+<b>Materialprøver,</b> se <sp>Materialprøvning</sp>.
+</chapter>
+
+<chapter name="Materialprøvning">
+<b>Materialprøvning.</b> M.'s Opgave er at
+bestemme de i Teknikken brugte Stoffers teknisk
+vigtige Egenskaber. M. kan herefter indbefatte
+mange højst forsk. Undersøgelser. Der kan
+saaledes være Tale om at efterspore rent
+<sp>mekaniske</sp> Egenskaber som Styrke, Elasticitet,
+Haardhed, Sejghed, Slidfasthed, Frostfasthed,
+<sp>teknologiske</sp> Egenskaber som,
+Smedelighed, Svejselighed, Støbelighed o. l., andre
+<sp>fysiske</sp> Egenskaber som Vægtfylde, Tæthed,
+Struktur, Rumfangsændring, ved
+Temperaturvariationer, Ledningsevne for Varme og
+Elektricitet, Varmefylde, Smelte- og Kogepunkt,
+Ildfasthed o. s. fr., og endelig kan man ønske
+Oplysninger om den <sp>kemiske</sp>
+Sammensætning ell. i alt Fald om Forekomsten (ogsaa i
+kvantitativ Henseende) af enkelte for
+Anvendelsen særlig gunstige ell. skadelige
+Bestanddele, f. Eks. for at afgøre, om der foreligger en
+Forfalskning, ell. om Modstandsevnen over for
+Angreb af Syrer, Alkalier, Luftens Fugtighed,
+Dampe o. s. v.
+
+M. kan antage højst forsk. Former. Som
+Hovedregel gælder det, at Prøven skal give
+Oplysning netop om de Egenskaber, som har særlig
+Bet. for Anvendelsen; man anvender derfor
+Slagprøver over for Jernbaneskinner, Aksler,
+Hjulbandager, da saadanne Konstruktionsdele
+under Brugen er stærkt udsatte for Stød,
+Brosten slidprøves, Bygningssten frostprøves og
+styrkeprøves o. s. v. Ofte maa man for at
+kunne lade denne Regel ske Fyldest prøve selve
+den færdige Genstand, saaledes alm. ved de
+nævnte Jernbanematerialer, men sædvanligvis
+kan man dog nøjes med at undersøge mindre
+Prøvestykker, udtagne af Genstandene;
+Resultaterne af Prøverne med disse mindre Stkr
+gælder da som Gennemsnit for en hel
+Leverance.
+
+M.'s vigtigste Arbejdsfelt er Bygge- og
+Maskinmaterialernes Brugsegenskaber, særlig
+deres Styrke, Elasticitet og Sejghed, der
+bestemmes ved Træk-, Tryk-, Bøjnings-,
+Forskydnings- og Vridningsforsøg udførte paa
+Materialprøvemaskiner (s. d.). Ved et Trækforsøg
+(s. d.) bestemmes navnlig Brudspændingen (s.
+d.) og Brudforlængelsen (s. d.), der begge har
+Bet. for Fastsættelsen af den tilladelige
+Spænding; ved Bøjningsforsøg (s. d.) navnlig
+Brudspænding og Brudnedbøjning og analogt ved de
+andre Forsøgsmaader. Man skelner ved
+saadanne Forsøg undertiden mellem statiske, der
+foretages med en jævnt og langsomt voksende
+Kraft, og dynamiske d. v. s. Slagforsøg (s. d.).
+Se ogsaa Bøjelighedsprøver, Haardhed.
+Mikroskopiske Strukturundersøgelser giver meget
+værdifulde Oplysninger om Stoffernes
+Egenskaber, og navnlig Metallerne undersøges i stor
+Udstrækning paa denne Maade (se
+<sp>Metallografi</sp>). M.'s Resultater har ikke absolut
+Gyldighed uden Hensyn til de Forhold, hvorunder
+de er udførte. Saaledes er ved et alm.
+Trækforsøg med et sejgt Metal (som maaske dog er
+det Forsøg, der kommer nærmest op mod
+Idealet) den fundne Brudstyrke i høj Grad
+afhængig af Prøvestykkets Form og heller ikke
+uafhængig af Maskinens Hastighed;
+Brudforlængelsen varierer stærkt med Maalelængden
+(den Længde, hvis Forlængelse maales). Ved
+Trykforsøg spiller Prøvelegemets Form og
+Størrelse en endnu større Rolle. Ved

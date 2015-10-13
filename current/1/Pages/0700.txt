@@ -1,0 +1,114 @@
+<chapter name="Ampelplanter (Illustration)">
+<img><i>Saxifraga sarmentosa.</i> (Artiklen: Ampelplanter.)</img>
+</chapter>
+
+<chapter name="Ampère, André Marie (fortsat)">
+(offentliggjort 21. Juli 1820) gav Anledning
+til, at han, som saa mange andre, kastede sig
+over Studiet af dette ny Omraade, som han
+snart gav en betydelig Udvidelse, idet han
+opdagede elektriske Strømmes mekaniske
+Virkning paa hinanden og bragte Læren derom
+(<sp>Elektrodynamikken</sp>) til en vis Grad
+af Fuldendthed. Allerede 18. Septbr 1820 kunde
+han meddele Akademiet i Paris, hvorledes
+parallelle elektriske Strømme virker paa hinanden,
+og 1823 fremsatte han sin berømte Lov om to
+elektriske Strømelementers indbyrdes Virkning,
+en Lov, der gør det muligt at beregne de
+Kræfter, der virker mellem hvilke som helst
+to Strømkredse. Om disse Arbejder siger
+<sp>Maxwell</sp>, at de hører til de ypperste Bedrifter,
+som nogen Sinde er udførte af Videnskaben;
+Teori og Eksperiment synes fuldt færdige at
+være sprungne ud af »Elektricitetens Newton's«
+Hjerne. Hans Skr. er fuldendt i Formen,
+uopnaaeligt i Udtrykkets Præcision, og dets
+Resultat er en Formel, der til alle Tider vil være
+Hovedformlen for Elektrodynamikken. A.'s
+Hovedværk er <i>Théorie des phénomènes
+électrodynamiques</i> (1826), hvori han giver en samlet
+Fremstilling af en Rk. til forskellige Tider
+offentliggjorte Undersøgelser. Bekendt er hans
+<sp>Magnetteori</sp>, hvorved han forklarer en
+Magnets Virkninger som frembragte ved
+elektriske Strømkredse i Magnetens mindste Dele.
+Af hans andre Arbejder maa nævnes <i>Essay
+sur la Philosophie des sciences</i>. (<sp>Litt</sp>.: <sp>D. F.
+Arago</sp>, »Samlede Værker« II).
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Ampère, Jean-Jacques">
+<b>Ampère</b> [ã↱pæ.r], <sp>Jean-Jacques</sp>, fransk
+Litteraturhistoriker, f. i Lyon 12. Aug. 1800, d.
+i Pau 27. Marts 1864; Søn af ovenn. A. M. A.
+Han opdroges i Paris og kom meget i Huset
+hos Madame Récamier. Allerede som ung
+foretog han vidtstrakte Rejser i Tyskland,
+Skandinavien og Italien; senere besøgte han bl. a.
+Orienten og Ægypten. Paa sine Rejser lagde
+han sig ivrig efter de forskellige Nationers Sprog
+og Litt.; gennem Forelæsninger, han holdt ved
+<i>Faculté des lettres</i> i Paris, gjorde han sine
+Landsmænd bekendt med den nordiske Litt.
+(<i>Littératures et voyages</i> [Paris 1833]); 1833
+ansattes han ved <i>Collège de France</i> som Prof. i
+fr. Litt. Her holdt han en Rk. betydningsfulde
+Forelæsninger, til hvilke hans Hovedværk hører:
+<i>Histoire littéraire de la France avant le XIIe
+siècle</i> (3 Bd, 1839—40); (senere udkom særskilt
+<i>Histoire etc. avant Charlemagne</i> [2 Bd, 3. Opl.
+1870] og <i>Histoire etc. sous Charlemagne</i> [3. Opl.
+1871]); hertil sluttede sig <i>Histoire de la
+littérature française au moyen âge, comparée aux
+littératures étrangères</i> (1841) med en Indledning,
+<i>Histoire de la formation de la langue française</i>,
+der ogsaa udkom særskilt (3. Opl. 1871). Disse
+Bøger, der ved deres sunde, historiske Kritik og
+grundige Forskning var epokegørende for deres
+Tid, er nu saa godt som forældede. 1847 blev
+A. Medlem af <i>Académie française</i>, men ved
+Kejserdømmets Indførelse forlod han som
+idealistisk Republikaner sit Fædreland og opholdt sig
+siden mest i Rom. Her skrev han <i>Histoire
+romaine à Rome</i> (4 Dele, 1861—64; 4. Opl. 1870)
+og <i>L'empire romain à Rome</i> (2 Bd, 1867). Af
+hans øvrige Værker kan endnu nævnes: <i>La
+Grèce, Rome et Dante</i> (1848) og <i>La science et
+les lettres en Orient</i> (1865). A. har ogsaa ydet
+fortjenstfulde Bidrag til Studiet af de keltiske
+og oldskandinaviske Sprog og deres Litteratur.
+(<sp>Litt</sp>.: <sp>Potton</sp>, <i>Étude sur la vie et les
+travaux de J.-J. A.</i> [1867]).
+<i>S. Ms.</i>
+</chapter>
+
+<chapter name="Ampère (se elektriske Maalenheder)">
+<b>Ampère</b> [aŋ↱pæ.r<sub>ə</sub>, fransk ã↱pæ.r-], se
+<sp>elektriske Maalenheder</sp>.
+</chapter>
+
+<chapter name="Ampèremeter (se Galvanometer)">
+<b>Ampèremeter</b> [aŋ↱pæ.r<sub>ə</sub>-, fransk ã↱pæ.r-], se
+<sp>Galvanometer</sp>.
+</chapter>
+
+<chapter name="Ampères Regel">
+<b>Ampères Regel</b> [aŋ↱pæ.r<sub>ə</sub>-, fransk ã↱pæ.r-], Regel
+til Bestemmelsen af den Retning, i hvilken en
+Magnetnaal, der er under Indflydelse af en
+elektrisk Strøm, afviger; den affattes bedst
+saaledes: Tænker man sig svømmende med
+den elektriske Strøm med Ansigtet vendt mod
+Naalen, vil dennes Nordpol afvige til venstre.
+</chapter>
+
+<chapter name="Ampèretime">
+<b>Ampèretime</b> [aŋ↱pæ.r<sub>ə</sub>-, fransk ã↱pæ.r-], større
+tekn. Enhed for Strømmængden = den Mængde
+Elektricitet, som i en Time passerer igennem
+en Ledning, naar Strømmen er 1 Ampère. En
+A. er lig 3600 Coulomb (se <sp>elektriske
+Maalenheder</sp>).
+</chapter>

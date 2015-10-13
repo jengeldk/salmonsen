@@ -1,0 +1,146 @@
+Naar den praktiske Definition af 1 internat.
+Ampère og 1 internat. Ohm er fastslaaet, er
+derved 1 internat. Volt defineret ved Ohm's Lov
+som Spændingsforskellen mellem Endepunkterne
+af en Leder med Modstanden 1 Ohm, og hvori
+Strømstyrken er 1 Ampère. 1881 gjorde man
+Ohm og Volt til Grundenheder, og man agtede
+da at søge ogsaa en praktisk Repræsentant for
+Volten i Form af et Normalelement. 1893, da
+Ampèren blev defineret ved Sølvvoltametret,
+burde man have opgivet denne Tanke, men man
+begik netop den Fejl samtidig at definere Volten
+ved Hjælp af Clark-Elementet. Det viste sig
+snart, at denne Definition var blevet 1 ‰ gal,
+og den blev igen opgivet 1905. Imidlertid har
+man i Normalelementerne (Weston-Elementet,
+der har afløst det nu forældede Latimer
+Clark-Element, se <sp>galvaniske Elementer</sp>)
+faaet godt undersøgte, yderst konstante og med
+stor Nøjagtighed reproducerbare sekundære
+Spændingsnormaler; der kunde derfor nu
+maaske være Grund til igen at gaa over til Volten
+som Grundenhed i St f. Ampèren og bruge
+Weston-Elementet som Prototyp. Og i hvert Fald
+er det blevet saaledes i Praksis, at man regner
+med Ohm og Volt som de givne Enheder, der
+kan faas i Handelen henh. som
+Normalmodstand og Normalelement; Anvendelsen af dem
+ogsaa til Strømstyrkemaaling ved Hjælp af
+Kompensationsapparatet (s. d.) er langt
+bekvemmere end Anvendelsen af Sølvvoltametret.
+Ogsaa Prøveanstalterne bærer sig saaledes ad,
+idet de foruden Modstandsprototypen bruger
+en Slags Spændingsprototyp, Middeltallet af
+Spændingen af et større Antal omhyggelig
+opbevarede Weston-Elementer. Men det Tal, man
+regner med for Weston-Elementets
+elektromotoriske Kraft (1,0183 internat. Volt ved 20°), og
+som man eventuelt lader efterprøve i en
+Prøveanstalt, er jo endnu naturligvis i sidste Instans
+vundet paa Grundlag af Ampèrens Definition
+ved Sølvvoltametret.
+
+Af Enhederne dannes større ell. mindre ved
+Forstavelser ligesom i Metersystemet. Kilo- (k)
+og Mega- ell. Meg- (M) betegner henh. 1000
+og en Mill. Gange større Enheder, og Milli- (m)
+og Mikro- (μ) henh. 1000 og en Mill. Gange
+mindre Enheder. Dog bruges ikke alle
+Sammensætninger lige hyppigt. Eks. 1 Megohm (1
+MO) = 10<sup>6</sup> Ohm, 1 Milliampère (1 mA) = 0,001
+Ampère, 1 Mikroampère (1 μA) = 10<sup>-6</sup>
+Ampère o. s. v.
+
+Af Grundenhederne afledes alle andre
+Enheder i det praktiske System. Enheden for
+<sp>Kapacitet</sp> er en <sp>Farad</sp> (F), Kapaciteten af
+en Leder, hvis Spænding forøges med 1 Volt,
+naar man tilfører den Elektricitetsmængden 1
+Coulomb, 1 Farad er en meget stor Kapacitet;
+for at en Metalkugle, der er langt fra andre
+Ledere, skal have Kapaciteten en Farad, skal
+dens Radius være 9 · 1O<sup>11</sup> cm, altsaa næsten
+en Billion cm. Derfor bruger man mest
+Milliontedelen deraf, en Mikrofarad (μ F);
+Normalkondensatorer paa en Mikrofarad og Brøkdele
+deraf faas i Handelen. Enheden for
+<sp>Selvinduktionskoefficient</sp>, en <sp>Henry</sp>
+(H) ell. en Kvadrant, er
+Selvinduktionskoefficienten af en Leder, hvori der induceres en
+elektromotorisk Kraft paa 1 Volt, ved at
+Strømmen vokser med 1 Ampère i Sek. En saadan
+Leder omslutter 1O<sup>8</sup> Induktionslinier, naar
+Strømstyrken i den er 1 Ampère (1O<sup>9</sup> Induktionslinier,
+naar Strømstyrken er en absolut elektromagnetisk
+Enhed). Ogsaa den <sp>gensidige
+Induktionskoefficient</sp> maales i Henry. 2
+Ledere har den gensidige Induktionskoefficient 1
+Henry, naar der induceres en elektromotorisk
+Kraft paa 1 Volt i den ene, ved at Strømstyrken
+i den anden vokser med 1 Ampère i Sek. Den
+ene omslutter da 1O<sup>8</sup> Induktionslinier, naar
+Strømstyrken i den anden er 1 Ampère. Normaler
+for Selvinduktionskoefficient og gensidig
+Induktionskoefficient paa 1 Henry og Brøkdele deraf
+faas i Handelen som Spoler viklede paa
+Marmor; Traaden er af Hensyn til Hudeffekten ved
+Vekselstrøm sammensnoet paa særlig Maade af
+et Antal isolerede tynde Traade.
+
+Ogsaa for den elektriske Strøms
+<sp>Arbejde</sp> eller <sp>Energi</sp> og for dens
+<sp>Effekt</sp> (Arbejdsevnen eller Arbejdshastigheden,
+Arbejdet <sp>pr Sek.</sp>) har man indført særlige
+Enheder. Arbejdsenheden 1 Joule (J) er det
+Arbejde, som 1 Coulomb udfører i en Ledning,
+mellem hvis Endepunkter Spændingsforskellen
+er 1 Volt; 1 Joule er altsaa 1 Volt X Coulomb.
+Den skulde efter de teoretiske Definitioner være
+10<sup>7</sup> Erg (Dyncm, den absolutte Arbejdsenhed)
+<table>
+<td v2>=<td c>1<td v2>kgm, men afviger ubetydeligt derfra,
+<td c>9,81
+</table>
+da den internat. Volt jo afviger lidt fra sin
+teoretiske Værdi, fordi Ohmen gør det.
+Effektenheden 1 <sp>Watt</sp> (W) er Effekten af en Strøm
+paa 1 Ampère i en Ledning, mellem hvis
+Endepunkter Spændingsforskellen er 1 Volt; 1 Watt
+er 1 Volt X Ampère = 1 Joule pr Sek. = 10<sup>7</sup>
+Erg pr Sek. 1 Wattsekund = 1 Joule; 1
+Watttime (Wh) = 3600 Joule, 1 Kilowatttime (kWh)
+<table>
+<td v2>= 1000. 3600 Joule. 1 Watt =<td c>1<td v2>Hestekraft.
+<td c>736
+</table>
+1 kWh koster f. T. i Kbhvn til Belysning 35 Øre,
+til Motorbrug 15 Øre. - Angaaende de særlige
+Forhold ved Effekten af <sp>Vekselstrøm</sp>, se
+denne.
+
+Den reciproke Værdi af en Leders Modstand
+kaldes dens <sp>Ledningsevne</sp> <i>G</i>; Ohm's Lov
+kan da ogsaa skrives <i>I</i> = <i>E.G.</i> For den
+praktiske Enhed for Ledningsevne, en »reciprok
+Ohm«, har man foreslaaet Navnet Siemens.
+Gennem en Strømvej med Ledningsevnen <i>G</i> Siemens
+vil en Spænding paa <i>E</i> Volt sende en Strøm
+paa <i>I</i> - <i>E</i> · <i>G</i> Ampère. - Ang. Modstandsfylde
+og Ledningsfylde, se <sp>elektrisk
+Ledningsmodstand</sp>.
+
+Endelig skal nævnes den praktiske Enhed for
+elektrisk <sp>Feltstyrke</sp>, 1 Volt pr cm, der
+ikke har faaet særligt Navn. Feltstyrken er 1
+Volt/cm i Luftrummet mellem to parallelle
+Kondensatorplader med 1 Volts Spændingsforskel og
+1 cm Afstand. Kraften paa 1 Coulomb i dette
+Felt er da 1 Volt Coulomb/cm = 10<sup>7</sup> Dyn.
+
+Det praktiske System af e. M., saaledes som
+det nu foreligger, veldefineret og let
+tilgængeligt gennem købelige Normaler, der kan prøves
+paa de offentlige Prøveanstalter (hvoraf de
+vigtigste er »Physikalisch-technische Reichsanstalt«
+i Charlottenburg, <i>National Physical Laboratory</i>

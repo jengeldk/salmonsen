@@ -1,0 +1,117 @@
+skarpe Kant til modsat Side, saa at disse
+tilsammen virker som en planparallel Plade af
+højredrejende Kvarts, men af variabel
+Tykkelse, idet den ene Kile kan forskydes ved en
+Mikrometerskrue. Naar de 2 Kiler staar
+saadan, at deres Tykkelse tilsammen er lig
+Pladens, giver Kompensatoren ingen Drejning, men
+ved at forskyde den ene Kile kan man opnaa
+en Drejning af vilkaarlig Størrelse og Retning
+og saaledes ophæve Drejningen i <i>R</i>, saa at der
+igen er Mørke med den opr. Mørkestilling af
+<i>A</i>, der altsaa ingen Kredsinddeling behøver;
+Drejningens Størrelse aflæses paa
+Mikrometerskruen. Dette Princip, der skyldes <sp>Soleil</sp>,
+har især været anvendt i de saakaldte
+<sp>Saccharimetre</sp>, hvormed man ved Benyttelse
+af Rørsukkerets Evne til at dreje
+Polarisationsplanen bestemmer det virkelige Sukkerindhold
+i Handelsvarerne. Man opløser en bestemt
+Vægtmængde af Sukkeret i en bestemt Mængde
+Vand, klarer om fornødent Opløsningen og
+fylder den i et Rør af bestemt Længde, hvorefter
+Drejningen bestemmes; Apparatet kan da være
+inddelt til direkte at angive Sukkermængden.
+Denne Kompensator maa ikke forveksles med
+den under Polarisation omtalte Babinet's
+Kompensator, hvormed man kan frembringe
+vilkaarlige Faseforskelle: her er Kilerne slebet
+vinkelret paa Kvartsens Krystalakse, medens i
+Babinet's Kompensator Aksen ligger parallel
+med Kilernes Flade.
+
+Imidlertid giver Indstilling paa Mørke ikke
+stor Nøjagtighed. Derfor bruges nu mest
+Halvskyggepolarimetre. Af de mange Konstruktioner
+skal omtales <sp>Lippich</sp>'s, der sikkert er den
+bedste. Fig. 2 viser Polarisatoren i et saadant
+Halvskyggeapparat; Lyset fra <i>L</i> sendes gennem
+Linsen <i>l</i> mod Polarisatornicolen <i>A</i>, men
+Synsfeltet deles derefter i 2 Halvdele ved den lille
+Nicol <i>B</i> med en skarp Kant ved <i>C</i>. <i>B</i>'s
+Hovedsnit danner en lille Vinkel paa 1 à 2 med
+<i>A</i>'s, saa af de 2 Halvdele af Synsfeltet passeres
+af lineært polariseret Lys, hvis
+Svingningsretninger danner den samme lille Vinkel med
+hinanden. Derefter kommer Røret med den
+drejende Opløsning og en drejelig
+Analysatornicol og bag denne gerne en lille Kikkert, som
+er indstillet paa Grænselinien <i>C</i> mellem de 2
+Felter. Analysatoren giver Mørke i de 2
+Halvdele af Synsfeltet i 2 lidt forsk. Stillinger, og
+imellem dem er der en Stilling, hvor begge
+Halvdele ses svagt, men lige stærkt belyst, saa
+at Grænselinien ikke ses. Ved at indstille paa
+denne Stilling opnaas meget stor Nøjagtighed,
+da selv en ganske lille Drejning bort fra den
+gør det ene Felt lysere og det andet mørkere.
+I fine Apparater er Synsfeltet 3- ell. 4-delt, som
+i Kontrastfotometret (se <sp>Fotometri</sp>),
+hvorved Indstillingsnøjagtigheden yderligere
+forøges. Efter dette Princip er nu ogsaa de fleste
+Saccharimetre indrettede. Halvskyggeprincippet
+kan for øvrigt ogsaa kombineres med
+Kompensatoren.
+
+Ved Krystalundersøgelser og Undersøgelser
+af kromatisk Polarisation skal Krystallen
+passeres af Straaler i forsk. Retninger. Derfor
+anbringes efter Polarisatoren en Linse, der gør
+Lyset konvergent, og efter Krystallen en anden
+Linse, som samler alle Straaler, der har
+passeret de forsk. Dele af Krystallen i samme
+Retning, i et Punkt af
+sin Brændplan;
+derefter kommer
+Analysatoren og et Okular,
+hvormed man
+indstiller paa denne
+Brændplan. Hvert
+Punkt i det Billede,
+man ser, svarer
+altsaa ikke til et
+bestemt Punkt af
+Krystallen, men til Straaler af en bestemt
+Retning gennem Krystallens forskellige
+Punkter. Hertil kan et Nørrenberg's Apparat
+bruges, naar man indskyder Linser i
+Straalernes Gang, men i Reglen bruges særlige
+Konstruktioner, der kommer til at ligne et
+Mikroskop, navnlig naar de indrettes til at
+undersøge ganske smaa Krystalpræparater. Man kan
+bruge et alm. Mikroskop, naar der anbringes en
+Polarisator under Belysningsapparatet og en
+Analysator over Objektivet, men det er
+bekvemmere at bruge særlige
+Polarisationsmiskroskoper (Fig. 3), hvor man tillige kan indskyde
+andre Hjælpemidler ved Undersøgelsen
+(1/4-Bølgeplade o. l.), og hvor Polarisator og
+Analysator kan drejes baade hver for sig og samtidig,
+saaledes at Drejningerne kan aflæses.
+Polarisationsmikroskopet er et vigtigt Hjælpemiddel
+i Mineralogien. Beslægtede hermed er de
+saakaldte Aksevinkelapparater, hvor Krystallen
+mellem Polarisator og Analysator kan drejes
+i en skraa Stilling, saaledes at Drejningen kan
+maales.
+
+Til Undersøgelse af de Ændringer, som en
+polariseret Straale undergaar ved simpel eller
+fuldstændig Tilbagekastning fra gennemsigtige
+Legemer og Tilbagekastning fra Metaller,
+bruges et Spektrometer, hvor der paa Kollimatoren
+er anbragt en Polarisatornicol og paa
+
+<img>Fig. 2 Halvskyggepolarisator.</img>
+
+<img>Fig. 3. Polarisationsmikroskop.</img>

@@ -1,0 +1,92 @@
+først fjernes en af de to K-Elektroner, hvilket
+hesørges af den Elektron, der falder ind mod
+Antikatoden. Dette er i Fig. antydet ved Pilen
+mærket K-Abs (Betegnelsen Abs henviser til, at
+dette ogsaa kan ske ved R.-absorption, der
+omtales ndf.). Derefter udfyldes den tomme Plads
+med en af de andre Elektroner. Det
+sandsynligste er, at det bliver en af de nærmeste,
+d. v. s. en L-Elektron, der udfylder Pladsen;
+derved udsendes K<sub>α</sub>, der er den stærkeste
+K-Linie, men Udfyldningen kan ogsaa ske med en
+M-Elektron, hvorved Kβ udsendes o. s. v. Da
+Udfyldningen med en L-Elektron kan ske paa
+to Maader, nemlig fra hver af de 2
+L-Undergrupper, faas K<sub>α</sub> dobbelt. Hyppigst bruges
+i St f. Fig. 12 en noget anden Fremstilling. Vi
+kalder Atomets Energiindhold, naar det er
+berøvet en K-Elektron, E<sub>K</sub> og Energien, naar der
+er fjernet en L-Elektron, E<sub>L</sub>. Naar derfor en
+K-Elektron er fjernet, og dens Plads udfyldes
+af en L-Elektron, ændres Atomets Energi fra
+E<sub>K</sub> til E<sub>L</sub>, d. v. s., der kan udstraales
+Energimængden E<sub>K</sub>~E<sub>L</sub>, og beregnes deraf den
+udstraalede Frekvens efter Kvantebetingelsen, faas
+Frekvensen af K<sub>α</sub>, altsaa hK<sub>α</sub> = E<sub>K</sub> — E<sub>L</sub> . I
+St f. at afbilde Atomets Tilstande symbolsk,
+afbildes nu disses Energiværdier ell. rettere
+E<sub>K</sub>/h, E<sub>L</sub>/h, de saakaldte Energiniveauer. Dette
+er gjort i Fig. 13, dog ikke i rigtigt indbyrdes
+Størrelsesforhold, og for Simpelheds Skyld er
+L-, M- o. s. v. Niveauerne tegnet enkelt. Før
+Atomet kan begynde at udstraale K-Straaling,
+skal den ene K-Elektron fjernes, hvortil
+kræves, at der mod Stoffet som Antikatode i et
+R.-rør falder en Elektron ind, der har Energi nok
+til at gøre det, d. v. s. bringe Atomet fra det
+normale Niveau op til K-Niveauet, antydet ved
+Pilen til venstre. Derefter kan Atomets indre
+Del igen bliver normal ved en af de med
+nedadrettede Pile antydede Overgange, hvorved den
+paagældende Linie udsendes. Har man altsaa en
+Del Atomer, der er berøvet en K-Elektron, vil
+de fleste faa den erstattet af en L-Elektron,
+færre af en M-Elektron, endnu færre af en
+N-Elektron o. s. v., saa at Liniernes Intensitet i
+K-Spektret falder i denne Rækkefølge. Derved
+forstaar man, at hele K-Spektret altid kommer
+samtidig, thi naar først K-Elektronen er
+fjernet, vil altid nogle Atomer udfyldes paa den ene
+Maade, andre paa den anden, idet
+Sandsynlighedslovene bestemmer, hvor mange af hver
+Slags Overgange der sker. Tillige forstaas, at
+Betingelsen for at faa K-Spektret frem er, at
+den indfaldende Elektron skal have Energi nok
+til at fremkalde den haardeste K-Linie og endda
+en Smule mere. Thi den skal kunne fjerne
+K-Elektronen helt, og den dertil krævede Energi
+er maalt ved den venstre Pils Længde,
+hvorimod den haardeste K-Linies Energi er maalt
+ved den lidt kortere Pil Kβ2. Men Forskellen
+er kun lille, da de yderste Niveauers Forskel
+er lille i Forhold til Afstanden til K-Niveauet,
+meget mindre end fremstillet paa Fig. Vender
+vi os nu til L-Spektret, fremkaldes det paa
+tilsvarende Maade ved Fjernelse af en L-Elektron
+og Udfyldelse af dens Plads med en af de
+andre Elektroner udenfor, en M-, N- o. s. v.
+Elektron. Det forstaas, at L-Straalingen er langt
+blødere, da der er Tale om langt mindre
+Energiforskelle til Udstraaling, altsaa mindre Kvanter,
+d. v. s. mindre Frekvens og større Bølgebredde.
+Endvidere, at de simplest byggede Stoffer med
+lavt Nr. og faa Elektroner giver simplere
+L-Spektre end de højere, fordi der ikke er saa
+mange forsk. Slags Elektroner til at udfylde
+den tomme Plads. For at forklare alle Detailler
+i hele Spektret maatte man have en nøjagtigere
+Tegning af hele Niveauskemaet. At der er 3
+L-Linie-Undergrupper og altsaa 3 L-Niveauer,
+til Trods for at der kun er 2 Undergrupper i
+L-Elektronerne, ligger i, at en af disse
+Undergrupper kan ordne sig paa 2 lidt forsk.
+Maader, naar en af dens Elektroner er fjernet,
+hvilket repræsenterer 2 L-Niveauer. Dog
+fremkommer ikke alle de Linier, som skulde være mulige
+efter det fuldstændige Niveauskema, idet der er
+visse Overgange, som faktisk ikke indtræffer.
+Man kan rent empirisk inddele Niveauerne i 2
+
+<img>Fig. 12. Røntgenspektrenes Udsendelse (skematisk).</img>
+
+<img>Fig. 13. »Røntgenniveauer«.</img>

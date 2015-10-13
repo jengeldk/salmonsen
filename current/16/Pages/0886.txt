@@ -1,0 +1,136 @@
+opfindsomme Løsning af dette Spørgsmaal ledtes han
+til Sammensætning af Kræfter, gaaende gennem
+samme Punkt, ved Hjælp af et Parallelogram.
+Derved blev han Grundlæggeren af den nyere
+Statik.
+
+Ikke meget senere blev Dynamikken
+grundlagt af <sp>Galilei</sp> (1564—1642). Hans berømte
+Hovedværk: <i>Discorsis e dimonstrazioni
+mathematiche a due nuouve scienze</i> blev konciperet
+under hans Ophold i Padua (1592—1610), men
+først senere trykt (Leyden 1638). Galilei's
+Udgangspunkt er, i Modsætning til Aristoteles',
+det, at et Legeme, der ikke paavirkes af
+Kræfter, vil bevæge sig i en ret Linie med konstant
+Hastighed (Inertiens Lov). I Overensstemmelse
+dermed fandt han et Maal for Kraften i den
+Hastighedstilvækst, som den giver et bestemt
+Legeme i en bestemt Tid. Idet nu Tyngden, der
+paavirker et faldende Legeme, er konstant (=
+<i>g</i>), kan han finde Faldloven (s = 1/2 <i>g</i> <i>t</i><sup>2</sup>, hvor
+<i>s</i> er Faldhøjden ud fra Hvile, <i>t</i> Tiden).
+Derefter viste han ved Sammensætning af vandret
+og lodret Bevægelse, at Banen for et udkastet
+Legeme (bortset fra Luftmodstanden) er en
+Parabel. Ogsaa Pendulbevægelsen undersøgte
+han omhyggeligt og gav Grunde for det af ham
+observerede Fænomen, at Svingningstiden er
+den samme for større og mindre Udsving (alle
+dog ret smaa). Galilei begyndte ogsaa, om end
+her med mindre Held, paa en Elasticitetslære
+(se <sp>teknisk M.</sp>). Efter Galileis
+fundamentale Undersøgelser gik Udviklingen rask
+fremad. Det næste store Fremskridt blev gjort af
+Hollænderen <sp>Huyghens</sp> (<i>Horologium
+oscillatorium</i> [1673], <i>Tractatus de motu corporum
+ex percussione</i> [1703], posthumt). Han lærte at
+opløse Kraften efter Tangent og Normal, og
+fandt derved Udtrykket <i>v</i><sup>2</sup> for
+Centrifugalkraften, hvor <i>v</i> er Hastigheden, <i>r</i> Radius for
+den Cirkel, hvori Legemet bevæger sig.
+Endnu væsentligere var det, at han bestemte et
+Legemes svingende Bevægelse, medens man
+tidligere kun havde betragtet en enkelt
+Partikels Bevægelse. En M. i stort Format blev
+dernæst forfattet af den store og mangesidige
+Forsker <sp>Isac Newton</sp> (1643—1727). Han
+byggede Teorien op paa tre Grundsætninger,
+hvoraf de to første var væsentlig de samme som
+de ovf. nævnte af Galilei, medens den tredie var
+Sætningen om Ligestorheden af Aktion og
+Reaktion. I sit store Værk <i>Philosophiæ naturalis
+Principia mathematica</i> holdt han sig væsentlig
+til Partiklers Bevægelse. Hans berømteste
+Resultat er det, at man af Loven for den alm.
+Tiltrækning — et Legeme med Massen <i>m</i>
+paavirker altid et andet med Massen <i>m1</i> med en
+Tiltrækning af Størrelsen <i>mm1</i>/<i>r</i><sup>2</sup> hvor <i>r</i> er
+Legemernes Afstand — kan udlede Kepler's Love
+for Planeternes Bevægelse. I Forbindelse
+hermed er han Grundlæggeren af den teoriske
+Astronomi foruden af fl. a. Dele af den mat.
+Fysik. Efter Newton bliver den paa denne Tid
+udviklede Differential- og Integralregning af
+den største Bet. for Mekanikken. Af de
+nærmest følgende Forf. kan nævnes <sp>Maclaurin</sp>
+(<i>Treatise of fluxions</i> [1742] og <sp>Clairaut</sp>, der
+i <i>Théorie de la figure de la terre</i> [1743])
+grundlagde den moderne Hydrostatik. Noget uden
+for den daværende Tankegang gav <sp>Varignon</sp>
+i sin <i>Nouvelle mécanique</i> Beg. til den senere
+grafiske Statik (s. d.). Af stor Bet. var den
+Forfattervirksomhed, som udøvedes af den
+begavede Schweizerfamilie <sp>Bernoulli</sp>. En af
+den, <sp>Daniel Bernoulli</sp>, skrev bl. a. den
+første Lærebog i Hydrodynamik
+(<i>Hydrodynamica</i> [1738]); <sp>Johan Bernoulli</sp> bl. a. om
+svingende Strenge. Særlig berømt blev et Brev,
+han 1717 skrev til Varignon om de virtuelle
+Hastigheders (bedre: Forskydningers) Princip.
+Deri indfører han det Begreb, dog uden at give
+det Navn, som senere har faaet saa afgørende
+Bet., nemlig <sp>Arbejde</sp>. Ved mek. Arbejde
+forstaar man Produktet af Kraften og
+Angrebspunktets Forskydning i Kraftens Retning.
+Flyttes saaledes et Legeme paa 7 kg lodret et
+Stykke 3 m (ligegyldigt om det er ad en skraa
+ell. en krum Bane), udføres derved et
+Arbejde paa + 21 Kilogrammeter ell. ÷ 21
+kgm, efter som Legemet er flyttet nedad eller
+opad. Det nævnte Princip lyder nu: Giver man
+et Legeme en lille Forskydning ud fra en
+Ligevægtsstilling, vil Summen af de Arbejder, som
+de paavirkende Kræfter udfører, være lig Nul.
+Herved kan alle Ligevægtsopgaver løses.
+Princippet var i specielle Tilfælde kendt længe før
+— maaske delvis i Oldtiden — men i hvert
+Fald af Galilei og hans Forgænger <sp>Guido
+Ubaldi</sp>, men først nu blev det opstillet i
+Alm. Et virkeligt almengyldigt Bevis blev dog
+ikke givet, og er egl. heller ikke givet den Dag
+i Dag. Den store Matematiker <sp>Leonhard
+Euler</sp> (1707—83) skrev en Mængde vægtige
+Arbejder om næsten alle mek. Problemer, der
+var oppe i hans Tid. Men først med
+<sp>D'Alembert</sp> (<i>Traité de dynamique</i> [1743]) fik
+Dynamikken sin fulde Udfoldning. Han fremsatte
+udtrykkelig de tre (tidligere kun delvis kendte)
+Hovedsætninger: Projektionssætningen,
+Momentsætningen og den levende Krafts Sætning,
+der efter ham er Grundlaget for enhver
+Fremstilling af Dynamikken. Desuden opstillede han
+det efter ham opnævnte »D'Alemberts Princip«,
+som i det væsentlige gaar ud paa, at de indre
+Kræfter (tabte Kræfter, der i et bestemt Øjeblik
+optræder i et bevæget Legeme) maa holde
+hinanden i Ligevægt. Derved kan enhver
+Bevægelsesopgave reduceres til en Ligevægtsopgave.
+D'Alemberts geometriske Fremstillingsform var
+imidlertid tung. Med <sp>Lagrange</sp>, der i sit
+store Værk: <i>Mécanique analytique</i> (1788)
+opbyggede hele Teorien paa de virtuelle
+Forskydningers Princip, fik M. endelig sin til en
+vis Grad afsluttende systematiske Lærebog, der
+endnu stadig, er et Standardværk.
+
+Efter 18. Aarh.'s Slutning er Udviklingen
+væsentlig gaaet i tre Retninger. Dels er der
+arbejdet i analytisk Retning paa Grundlag af
+Lagrange. Dette fører for største Delen ind paa
+de rent mat. Problemer, der opstaar ved de
+opstillede Differentialligningers
+Transformation og Integration. De største Navne er her
+<sp>Poisson</sp>, <sp>Hamilton</sp>, <sp>Jacobi</sp>,
+<sp>Helmholz</sp>, <sp>Kirchhoff</sp>, <sp>Poincaré</sp>. Paa den
+anden Side er man ogsaa vendt tilbage til den

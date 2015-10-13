@@ -1,0 +1,146 @@
+Fænomenet er <sp>Vædskers
+Overfladespænding</sp>. En Vædskes Overflade forholder
+sig nemlig som en stram Hinde, der søger at
+trække sig sammen. Den Kraft, hvormed dette
+sker, er konstant i Modsætning til en fast
+Hindes, f. Eks. Gummihindes Spænding, der bliver
+mindre, jo mere Hinden faar Lov at trække
+sig sammen. En Sæbeboble viser Fænomenet
+særlig smukt. Hænger den paa den aabne
+Kridtpibe, vil den langsomt blive mindre, idet
+Hinden ved sin Spænding udøver et Tryk paa den
+indesluttede Luft og derved driver den ud
+gennem Pibens Rør. Er Boblen lukket, vil der
+inde i den være et Lufttryk, der er lidt større
+end Atmosfærens. Kan Overtrykket maales, saa
+kan Hindens Spænding beregnes. Man kan
+nemlig tænke sig et Plan lagt gennem den
+kugleformede Bobles Centrum, hvorved Boblen deles
+i to Halvkugler. For at en saadan Halvkugle,
+bestaaende af Sæbehinde og Luft, skal være i
+Ligevægt, maa det samlede Overtryk paa den
+plane Storcirkelflade være lig den Kraft, der
+p. Gr. a. Hindens Spænding virker i denne
+Cirkels Omkreds vinkelret paa dens Plan og
+modsat Overtrykket. Er dette lig Vægten af <i>p</i> Mgr.
+pr mm<sup>2</sup>, og virker Hindens Spænding med 2<i>S</i>
+Mgr. paa hver mm af Cirklens Omkreds, saa
+er Betingelsen for Ligevægt af den betragtede
+Halvkugle, at π<i>r</i><sup>2</sup><i>p</i> = 2π<i>r</i>·2<i>S</i>, idet <i>r</i> er
+Kuglens Radius, maalt i mm, og <i>S</i> er Spændingen
+i hver enkelt af Hindens to Overflader (Yder-
+og Inderfladen i Boblen). Ligningen kan
+skrives <i>S</i> = 1/4 <i>rp</i> ell. <i>p</i> = 4<i>5</i> : <i>r</i>. For en Luftboble
+i en Vædske faar man <i>p</i> = 2<i>S</i> : <i>r</i>, da en saadan
+Boble kun har een
+Overflade. For rent
+Vand er <i>S</i> lig 7,5 ved
+13°; for højere Temp.
+er den mindre. I en
+Luftboble i Vand vil
+Overfladespændingen
+følgelig frembringe et
+Overtryk lig 15 Mgr.
+pr. mm<sup>2</sup>, naar
+Boblens Radius er 1 mm.
+I store Bobler er
+Overtrykket ubetydeligt,
+men i meget smaa kan det blive stort. Er
+Radius saaledes kun 1/1000 mm, vil det være 15 g
+pr mm<sup>2</sup> ell. omtr. halvanden Atmosfærers Tryk.
+Dette Forhold forklarer, at luftfrit Vand kan
+ophedes langt over det normale Kogepunkt,
+uden at der dannes Dampbobler deri: — Alle
+ikke-metalliske Vædsker har mindre
+Overfladespænding end rent Vand. En Draabe Fedt ell.
+Olie paa Vand vil derfor, helt ell. til Dels,
+trækkes ud til en tynd Hinde, der dækker
+Vandfladen, fordi den svagere Fedthinde ikke kan
+holde Stand mod den stærkere Vandhindes
+Tilbøjelighed til at trække sig sammen. Drysser
+man lidt Svovlpulver paa rent Vand og holder
+en Draabe Æter i nogen Afstand over
+Vandfladen, vil Svovlpartiklerne fare bort fra det
+Sted, der ligger lige under Draaben. Her
+træffes Vandet nemlig af en Strøm Damp fra
+Draaben; Vandet indsuger Dampen,
+Overfladespændingen synker, og den svagere Overflade
+trækkes ud til alle Sider. — I et <sp>Rør</sp>, der befugtes
+af en Vædske, vil Overfladespændingen
+fremkalde en Stigning. P. Gr. a. Tiltrækningen
+mellem Vædsken og Rørets Stof vil nemlig
+Overfladen stille sig, som Figuren viser, saa den
+støder sammen med Rørvæggen under en spids
+Vinkel α, der er Supplementvinkel til den
+saakaldte <sp>Anlægsvinkel</sp>, Vinklen mellem
+Væggen og Vædskefladen i <sp>Luften</sp>.
+Betingelsen for Ligevægt af den løftede Vædske i Røret
+findes saaledes: Et meget smalt Baand af
+Vædskeoverfladen, der med sin øverste Rand rører
+ved Væggen, har Længden 2π<i>r</i>, naar <i>r</i> er
+Rørets Radius. Baandet søger at trække sig
+sammen paa tværs; da dets øverste Rand er fæstet
+til Rørvæggen, vil det udøve et Træk med sin
+nederste Rand, der vilde være 2π<i>r</i> <i>S</i>, hvis α var
+Nul, saa alle Kræfterne Vædskeranden rundt
+virkede lige opad. Er α ikke Nul, bliver
+Kræfternes lodrette Resultant 2π<i>r</i> <i>S cos</i> α. Denne
+Størrelse maa være lig den løftede
+Vædskemasses Vægt, der er π<i>r</i><sup>2</sup><i>dH</i> Mgr., naar <i>d</i> er
+Vædskens Vægtfylde, <i>H</i> Middelhøjden over den
+plane Vædskeflade uden for Røret. <i>H</i>
+bestemmes altsaa af 2<i>S</i> <i>cos</i> α = <i>rdH</i>; den forholder sig
+omvendt som Rørets Radius, omvendt som
+Vædskens Vægtfylde og ligefrem som
+Overfladespændingen. For Vand i et Glasrør er α næsten
+Nul; er Rørets Radius 1/10 mm, vil Vandet stige
+150 mm op i Røret. Ingen anden Vædske
+stiger saa højt. For Kvægsølv i et Glasfør er α
+stump, d. v. s. Vædskens Overflade er ikke
+hul, men hvælvet, og Vædsken staar lavere i
+Røret end udenfor. — Overfladespændingen gør,
+at en Vædskehinde søger at trække sig
+sammen til det mindst mulige Areal. Danner man
+en Ramme af Metaltraad, dypper den i
+Sæbevand og tager den op, vil man faa en Hinde
+udspændt i den. Er Rammen plan, vil Hinden
+ogsaa være det; er den ikke plan, vil Hinden
+være formet som den Flade, der med den givne
+Rand har det mindst mulige Areal. — Faldende
+Draaber antager Kugleform, fordi Kuglen har
+den mindst mulige Overflade for et givet
+Rumfang. Dug paa Spindelvæv trækker sig af
+samme Grund sammen til kugleformede Draaber.
+— En Klump vaad Jord holdes i Luften
+sammen af Vandets Overfladespænding; men
+bringes den ned under Vand, falder Smaadelene fra
+hinanden, fordi der ikke længer er nogen
+Vandhinde til at holde fast paa dem. En vigtig Rolle
+spiller det i sanitær Henseende, at smaa
+Genstande som sygdoms vækkende Organismer ikke
+kan løsrive sig fra en fugtig Flade (Lungens
+Slimhinde f. Eks.) p. Gr. a. Vædskens
+Overflades Sammenhæng og derfor ikke kan
+overføres til Luften fra Vædsken, medmindre denne
+ligefrem blæses til Støv. — Aarsagen til K. maa«
+søges i de mindste Vædskedeles indbyrdes
+Tiltrækning, der først naar en kendelig Størrelse,
+naar Delene er meget nær sammen. — Mange
+smukke Forsøg findes beskrevne i <i>Soap-Bubbles
+and the forces which mould them</i> af <sp>C. V.
+Boys</sp> [London 1896].
+<i>K. S. K.</i>
+
+<img></img>
+</chapter>
+
+<chapter name="Kapillarkemi">
+<b>Kapillarkemi.</b> Ordet bruges i St for
+Kolloidkemi (s. d.) af H. Freundlich o. a. Navnet er
+for saa vidt godt, som det mest karakteristiske
+for de kolloide Systemer er den store Overflade,
+hvorfor Overfladeenergien og derigennem
+Haarrørskræfterne (Kapillarkræfterne)
+kommer til at spille en fremtrædende Rolle.
+<i>K. E.</i>
+</chapter>

@@ -1,0 +1,9 @@
+<chapter name="Amazoner (Planche)">
+<sp>Amazoner</sp>
+
+<img>Feidias' Amazone, Kapitolium.</img>
+
+<img>Polykleitos' Amazone, Berlin.</img>
+
+<img>Kresilas' Amazone, Vatikanet.</img>
+</chapter>

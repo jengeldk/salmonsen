@@ -1,0 +1,91 @@
+Forbindelse med en Stærkstrømsmikrofon <i>M</i>
+med tilhørende Element <i>E</i>. <i>D</i> er en Kondensator
+paa nogle Mikrofarad. Taler ell. synger man
+ind i Mikrofonen, vil de varierende Strømme i
+denne inducere tilsvarende Strømme i
+Lysbuekredsen, der adderes til den konstante Strøm
+fra Batteriet. Strømmens Forøgelse og
+Formindskelse fremkalder Udvidelser og
+Sammentrækninger af Lysbuen, der overføres til den
+omgivende Luft som Lydsvingninger. Det er
+fordelagtigst at have en ret lang Bue med stærk
+Strøm. Kondensatoren <i>D</i> virker som en god
+Leder for de inducerede Strømme, saa at de
+holdes i Kredsen <i>FDA</i> og ikke svækkes i
+Modstanden <i>G</i>.
+
+<sp>Lystelefoni</sp>. Strømsvingningerne
+fremkalder ogsaa Svingninger i Buens Lysstyrke.
+H. Th. Simon har anvendt dette til en
+traadløs Telefoni. Lyset fra Lysbuen sendes samlet
+ud i een Retning og opfanges i nogen Afstand,
+f. Eks. 1-2 km. ved Hjælp af et Hulspejl og
+koncentreres paa en Selencelle. Dennes
+Ledningsevne vil da variere i Takt med Lysstyrkens
+Svingninger, og er der i dens Kreds indskudt
+et Batteri og en Telefon, kan man i denne høre,
+hvad der tales ind i Lysbuens Mikrofon. Denne
+Form af traadløs Telefoni har dog ikke faaet
+nogen Anvendelse i Praksis. (<sp>Litt</sp>.: <sp>Rasch</sp>,
+»Das elektrische Bogenlicht« [Braunschweig
+1910]; <sp>Müller-Pouillet</sp>, »Lehrbuch der
+Physik« IV, 2, 3 [Braunschweig 1914]; Artiklen
+»Lichtbogen« [af <sp>A. Hagenbach</sp>] i
+»Handbuch der Radiologie«, Bd IV [Leipzig 1917]).
+<i>E. S. J.</i>
+</chapter>
+
+<chapter name="elektrisk Lyskaster">
+<b>elektrisk Lyskaster.</b> Fig. 1 viser et
+Fotografi af en større elektrisk Lyskaster, hvis
+væsentligste Dele er en Buelampe med vandrette
+Kul og et parabolsk Spejl, der som vist i Fig. 2
+kaster det fra Krateret kommende Lys tilbage
+som et Bundt parallelle Straaler. Reguleringen
+af Lampen kan ved mindre Strømstyrker foregaa
+ved en lgn. Mekanisme som i alm. Buelamper;
+ved store Projektører anvendes Motorregulering,
+d. v. s. en lille Elektromotor nærmer Kullene til
+hinanden ell. fjerner dem fra hinanden, idet
+den sættes i Gang snart i den ene Retning, snart
+i den anden Retning, og stoppes af et System
+af Relaiser, som paavirkes af Lampens Strøm
+og Spænding. Projektører skal i Reglen kunne
+drejes og vippes, saa at Lysbundtet kan
+indstilles i en hvilken som helst Retning. Ved store
+Projektører udføres disse Bevægelser ligeledes
+af Elektromotorer, som styres med en
+Kontroller. Projektører anvendes af Skibe ved
+Besejling af vanskelige Farvande. Ved Besejling af
+Suez-Kanalen forlanges f. Eks., at Skibene
+benytter Projektører, som udsender to Lysbundter,
+et for hver Bred med et mørkt Parti i Midten.
+Den hovedsagelige Anvendelse er til Krigsbrug.
+Til denne Anvendelse forlanges det, at der kan
+lukkes fuldstændig for Lyset. Dette sker ved en
+stor Irisblænder. Til Afgivelse af Lyssignaler
+anvendes jalousiformet Lukker som vist paa
+Fig. 1. De bedste Spejle er af Glas med
+Sølvbelægning, mindre godt er forsølvede ell.
+forgyldte Metalspejle. En Marineprojektør med
+90 cm's Spejl og 90 Ampères Lampe vejer
+eksempelvis 600-700 kg. Projektører fabrikeres
+navnlig af Schuckert & Co., Nürnberg.
+Herhjemme er Fabrikationen optaget af Ingeniør
+Selmer Trane (se »Elektroteknikeren«, 12. Juli
+1916).
+<i>Abs. L.</i>
+
+<img>Fig. 1. Elektrisk Lyskaster.</img>
+
+<img>Fig. 2. Tilbagekastning fra en parabolsk Reflektor.</img>
+</chapter>
+
+<chapter name="elektrisk Mølle">
+<b>elektrisk Mølle,</b> se <sp>Elektrisermaskine</sp>.
+</chapter>
+
+<chapter name="elektrisk Pistol">
+<b>elektrisk Pistol,</b> se <sp>Elektrisermaskine</sp>.
+</chapter>
+

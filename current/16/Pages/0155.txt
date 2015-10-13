@@ -1,0 +1,111 @@
+faste Legemer, er ikke de samme, som egner
+sig til at dæmpe Luftsvingninger, hvorom
+nærmere nedenfor. Naar man i en fleretages
+Bygning er mere plaget af Støjen fra den
+overliggende end fra den underliggende Etage, skyldes
+det, at den meste Lyd stammer fra Færdsel
+paa Gulvet ell. fra Maskiner, der staar paa
+Gulvet (Symaskiner, Klaverer), og dettes
+Svingninger overføres da direkte til Luften i
+Rummet underneden, medens de for at naa
+Rummet ovenover skal passere gennem Murene,
+hvorved de svækkes. Den anden Lydstrøm,
+Luftbølgerne, gaar formentlig i samme Grad
+opad som nedad, men er Etageadskillelserne
+tætte, vil de tilbagekaste den, uden selv at
+komme i væsentlig Svingning. Lydstyrken vil
+som Regel aftage med Afstanden fra
+Lydgiveren. Er Styrken umiddelbart ved denne Io, og
+breder Lyden sig i alle Retninger, altsaa som
+kugleformede Bølger, vil Styrken i Afstanden r
+fra Lydgiveren være Ir = Io : r<sup>2</sup>; breder
+Lyden sig i et Plan (cylindriske Bølger), haves
+Ir = Io : r; kun hvis Lyden udsendes i en
+enkelt Retning (plane Bølger), haves Ir = Io.
+Ovenstaaende er kun rigtig, saafremt den hele,
+af Lydgiveren udsendte, Energimængde
+vedbliver at bestaa og blot breder sig, men i
+Virkeligheden absorberes en Del af den undervejs,
+fordi Mediet ikke er fuldkommen elastisk og
+undergaar plastiske Formforandringer, ved
+hvilke Energien omsættes i Varme. Loven for plane
+Bølgers Absorption er Ir = Io : c<sup>k·r</sup>, hvor
+c og k er Materialkonstanter; den udtrykker,
+at 1 cm af Materialet altid absorberer samme
+Brøkdel af Ir. Hvis saaledes den første
+Centimeter absorberer 10 pCt. af Io, svarende til
+I1 = 0,9 Io, vil den næste Centimeter
+absorbere 10 pCt. af I1 svarende til I2 = 0,81 Io,
+og den tredie Centimeter absorberer 10 pCt. af
+I2 svarende til I3 = 0,73 Io o. s. v. Luftens
+Evne til at absorbere Lyden er saa ringe, at
+den ingen Rolle spiller inden for de i
+Husbygningen forekommende Afstande.
+
+Faste Stoffers Evne til at forplante Lyden
+usvækket vokser med deres Haardhed
+(Elasticitetskoefficient) og med deres Elasticitets
+Fuldkommenhed; medfører Svingningerne blivende
+Formforandringer, vil disse absorbere Energien.
+Lydforplantningsevnen aftager saaledes i
+Ordenen Jern, Beton, Murværk i Cementmørtel,
+Murværk i Kalkmørtel, og den er større hos
+belastede end hos ubelastede Konstruktioner.
+Gennemgaaende Jern- og Jernbetonsøjler
+bidrager meget til at forplante Lyd fra den ene
+Etage til den anden, bl. a. fordi de er stærkt
+belastede. Bløde, mer ell. mindre plastiske
+Stoffer, som Bly, plastisk Ler, Korkplader,
+Tagpap, Linoleum, er daarlige Lydledere, og det
+samme gælder trævlede ell. finkornede Stoffer
+som Tørvestrøelse, Slaggesand m. m., saafremt
+de ikke er saa groft porøse, at Lyden finder
+Vej gennem deres Porer, ell. saa stærkt
+komprimerede, at de faar elastiske Egenskaber.
+
+Skal Lyden hindres i at udbrede sig, maa
+Lydgiveren omgives med Stoffer af en saadan
+Natur, at de enten tilbagekaster Lyden, ell. at
+de absorberer Lyden. Naar Lydbølger i et Stof
+A rammer et andet Stof B, vil i Almindelighed
+en Del blive tilbagekastet, medens Resten
+trænger ind i B. Af de indtrængende Lydbølger vil
+en Del blive absorberede, en anden Del vil naa
+frem til B's anden Grænseflade og der blive
+tilbagekastede, og en tredie Del vil gaa gennem
+Grænsefladen under fornyet Brydning. Er der
+samme Stof A paa begge Sider af B, som
+forudsat i Fig. 1, er den gennemtrængte Lyds
+Retning parallel med den indfaldende Lyds.
+Forfoldet mellem tilbagekastet, absorberet og
+gennemtrængt Lyd veksler med Stoflagets Natur
+og Tykkelse. Er Produktet af Stoffets
+Vægtfylde og Elasticitetskoefficient af meget forsk.
+Størrelse hos A og B, vil en meget stor Del af
+Lyden tilbagekastes. Deraf følger, at man til
+Standsning af Luftbølger skal bruge tunge
+Stoffer med stor Elasticitetskoefficient, til
+Standsning af Svingninger i tunge Stoffer skal bruges
+lette Stoffer med lille Elasticitetskoefficient,
+bedst Luft. Naar Luftbølger rammer en tyk
+Mur med lufttæt, glat og haard Overflade, vil,
+ligesom ved Vand, praktisk talt 100 %
+tilbagekastes, medens en porøs Mur tilbagekaster
+mindre; en Væg af Haarfilt vil forholde sig, som
+Fig. 2 viser, naar Antallet af Filtlag (hvert Lag
+12,7 mm tykt) varierer. Man ser, at Mængden
+af absorberet Lyd vokser stærkt med Lagenes
+Antal, medens Mængden af tilbagekastet Lyd
+hurtigt bliver omtr. konstant.
+
+Et Rums Akustik afhænger af, om Væggene
+absorberer ell. tilbagekaster Lyden. Er
+Rummets Vægge (Loft og Gulv indbefattet) tykke,
+haarde og glatte, vil de tilbagekaste en stor
+Del af Lyden, som derved kommer til at løbe
+fl. Gange frem og tilbage imellem dem, inden
+den dør hen. Et saadant Rum giver Genlyd og
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>

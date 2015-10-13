@@ -1,0 +1,155 @@
+<table>
+<td 5 c>Befolkningens Bevægelser
+<td><td c>Gennemsnitlig<br>aarlig<td c>England<br>og Wales<td c>Skotland<td c>Nordirland<footnote>Fra 1922 omfatter Statistiken kun Nordirland.</footnote>
+<td v8>Ægteskaber<td>1915<td r>360885<td r>36233<td r>24154
+<td>1917<td r>258855<td r>30421<td r>21073
+<td>1920<td r>379982<td r>46754<td r>26826
+<td>1924<td r>296416<td r>32328<td r>7514
+<td>1925<td r>295689<td r>32456<td r>7682
+<td>1926<td r>279860<td r>31244<td r>7228
+<td>1927<td r>308370<td r>32593<td r>7175
+<td>1928<td r>302810<td r>32955<td r>7264
+<td v8>Fødsler<td>1915<td r>814614<td r>114181<td r>95583
+<td>1917<td r>668346<td r>97441<td r>86370
+<td>1920<td r>957782<td r>136546<td r>99536
+<td>1924<td r>729933<td r>106900<td r>28496
+<td>1925<td r>710582<td r>104137<td r>27686
+<td>1926<td r>694563<td r>102449<td r>28162
+<td>1927<td r>654172<td r>96672<td r>26676
+<td>1928<td r>660267<td r>96815<td r>25949
+<td v9>Dødsfald<td>1915 <footnote>Heri er ikke medregnet Militærpersoner, der er
+afgaaet ved Døden udenfor Hjemlandet.</footnote><td r>562253<td r>81631<td r>76151
+<td>1917 <footnote>Heri er ikke medregnet Militærpersoner, der er
+afgaaet ved Døden udenfor Hjemlandet.</footnote><td r>498922<td r>69483<td r>72724
+<td>1918 <footnote>Heri er ikke medregnet Militærpersoner, der er
+afgaaet ved Døden udenfor Hjemlandet.</footnote><td r>611861<td r>78372<td r>78695
+<td>1920<td r>466130<td r>68179<td r>66538
+<td>1924<td r>473235<td r>70357<td r>20299
+<td>1925<td r>472841<td r>65507<td r>19784
+<td>1926<td r>453804<td r>63780<td r>18827
+<td>1927<td r>484609<td r>65830<td r>18216
+<td>1928<td r>460440<td r>65263<td r>17995
+</table>
+
+<sp>Ægteskabshyppigheden</sp> var under
+Krigen forholdsvis lav, men steg til Gengæld
+stærkt i de nærmest følgende Aar og var
+saaledes i 1920 oppe paa 97 pr. 1000 Indb. Fra
+1922 har Tallet ligget meget nær 7,5 pro mille.
+
+<sp>Fødselshyppigheden</sp> blev stærkt
+formindsket under Krigen, saaledes var der i
+1918 kun 18,2 Fødsler pr. 1000 Indb. De
+følgende Aar kom en Reaktion mod denne
+Bevægelse, men fra 1920 udviser Tallene en jævn
+og stærk Nedgang til kun 17,2 pro mille i 1928,
+hvilket er det næstlaveste Tal i Europa, idet
+kun Sverige har en lavere Fødselshyppighed.
+
+<sp>Dødeligheden</sp> er nu noget lavere end
+i Aarene før Krigen (11.9 pro mille i 1926, 12,5
+pro mille i 1927 og 11,9 pro mille i 1928).
+
+<sp>Indvandring</sp> og <sp>Udvandring</sp>
+fremgaar af følgende Tabel:
+<table>
+<td v2><td 3>Udvandring til oversøiske Lande
+<td c>Britiske<br>Undersaatter<td c>Andre<td c>Ialt
+<td>1918<td r>17319<td r>5505<td r>22824
+<td>1920<td r>352811<td r>85068<td r>437879
+<td>1926<td r>284009<td r>118429<td r>402438
+<td>1927<td r>277327<td r>136792<td r>414119
+<td>1928<td r>270220<td r>126527<td r>397247
+<td v2><td 3>Indvandring fra oversøiske Lande
+<td c>Britiske<br>Undersaatter<td c>Andre<td c>Ialt
+<td>1918<td r>15414<td r>10556<td r>25970
+<td>1920<td r>180064<td r>103641<td r>283705
+<td>1926<td r>160680<td r>76699<td r>237379
+<td>1927<td r>173724<td r>86037<td r>259761
+<td>1928<td r>187890<td r>88815<td r>276705
+</table>
+
+Krigen medførte praktisk taget en
+fuldkommen Standsning af Vandringerne. I de senere
+Aar har Tallene været nogenlunde konstante,
+men væsentlig lavere end før Krigen.
+Vedrørende de britiske Undersaatters Udvandring
+skal i øvrigt gives følgende Oplysninger om
+Bestemmelsesstedet (i Aaret 1928):
+<table>
+<td>Britisk Nordamerika<td r>95307
+<td>Australien og New Zealand<td r>43851
+<td>Britisk Sydafrika<td r>22569
+<td>Andre britiske Besiddelser<td r>30293
+<td r>I alt britiske Besiddelser<td r>192020
+<td>U. S. A.<td r>56508
+<td>Andre Lande<td r>22192
+<td r>I alt<td r>270720
+</table>
+
+Der er ikke sket væsentlige Forskydninger i
+Fordelingen mellem de forskellige ovenanførte
+Hovedgrupper siden Førkrigsperioden.
+<i>H. S.</i>
+</chapter>
+
+<chapter name="England (Statsforfatning og -forvaltning)">
+<b>Statsforfatning og -forvaltning.</b>
+
+Ved en Lov af 2. Juli 1928 er de i
+Valgordningen af 1918 med Hensyn til Kvindernes
+Valgret til Underhuset fastsatte Begrænsninger
+ophævede, og alle 21-aarige engelske Kvinder
+har nu faaet lige Valgret med Mænd, hvorved
+de kvindelige Vælgeres Antal vil overstige de
+mandliges. Derimod har kvindelige Peerer
+trods forskellige Forsøg derpaa endnu stadig
+ikke faaet Adgang til Lordernes Hus.
+
+Underhusets Medlemstal blev i 1922, da de
+allerfleste irske Medlemmer faldt bort ved
+Anerkendelsen af den irske Fristat, nedsat fra
+707 til 615, deraf 13 fra Nordirland.
+<i>K. B.</i>
+</chapter>
+
+<chapter name="England (Finansvæsen)">
+<b>Finansvæsen.</b>
+
+E.'s løbende Statsudgifter, der i 1913—14
+udgjorde c. 197 Mill. £, steg voldsomt paa
+Grund af Verdenskrigen, udgjorde i
+1921—22 c. 1079 og i 1926-27 c. 842 Mill. £.
+I de samme Finansaar var Statens løbende
+Indtægter henholdsvis 198, 1124 og 805 Mill. £.
+Man skaffede sig i Krigsaarene navnlig
+forøgede Indtægter ved en vældig Forhøjelse af
+<i>the income and property-tax</i>, der før
+Verdenskrigen var 1 sh 2 d, og steg til sit Højepunkt
+6, men nu kun udgør 4 sh. pr. £, og den
+saakaldte <i>supertax</i>, som er en Tillægsskat paa de
+store Indtægter, der er gjort stærkt
+progressiv, samt en ny midlertidig Skat paa
+Krigsgevinst (<i>excess profit duty</i>). Hertil kom
+yderligere en vældig Forhøjelse af Forbrugs- og
+Luksusbeskatningen.
+
+E.'s Statsindtægter udgjorde efter <i>Statesmans
+Yearbook</i> for Finansaaret 1926—27 805,7, dets
+Udgifter 842,4 Mill. £. Af Indtægterne skal
+nævnes angivet i Mill. £: Told 107,5, indenlandske
+Forbrugsafgifter 132,9 (deraf alene paa Øl og
+Brændevin 115,8), Motorkøretøjer 21,3, Arveskat
+67,3, Stempelafgift 24,7, Indkomstskat 234,7,
+<i>super tax</i> 65,9, Postvæsen 35,6, Telegraf 5,9,
+Telefon 17,3. Af Udgiftsposter (i Mill. £) anføres:
+Statsgælden 378,5 (deraf 60 Mill. £ til et
+synkende Fond), Arméen 43,6, Luftvæsenet 15,5,
+Flaaden 57,6, Civiltjenester tilsammen 240,4.
+
+E.'s Statsgæld udgjorde ved Begyndelsen af
+Verdenskrigen c. 708 Mill. £. Skønt den engelske
+Stat for en meget væsentlig Del financierede
+Krigen ved Hjælp af forøgede Skatter, steg
+Statsgælden meget stærkt og udgjorde f. Eks.
+i 1917 c. 4064, i 1918 5921, i 1919 c. 7435 Mill. og

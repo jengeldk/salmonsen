@@ -1,0 +1,139 @@
+Maj til Decbr, med Tegninger for hver
+Maaned af en Mand, som har i sin Haand et
+Redskab svarende til Maanedens Gøremaal: som
+for Juni en Spade, Juli en Lja, August en Sigd,
+ell. udfører et for Maaneden bestemmende
+Arbejde, September plukke Nødder, Oktober saa
+Korn, November slagte Svin. For December er
+der aftegnet en festklædt Mand med Kande i
+den venstre og Fad i den højre Haand. I Maj
+har Manden en Gøg i sin Haand.
+
+Den <sp>kristelige</sp> K. indeholder Fortegnelse
+over de kirkelige Fester, der enten er faste ell.
+bevægelige. De faste indtræffer altid paa
+samme Dag i Aaret, de bevægelige derimod varierer
+fra det ene Aar til det andet, og deres Plads
+afhænger af Paasken, der skal fejres paa
+første Søndag efter den Fuldmaane, som indtræffer
+paa ell. nærmest efter 21. Marts. Er
+Fuldmaanedagen selv Søndag, bliver Paasken henlagt til
+den næste Søndag. Denne saaledes bestemte
+Fuldmaane kaldes Paaskefuldmaane ell.
+Paaskegrænsen. Tidligst kan den indtræffe 21. Marts,
+og er denne Dag Lørdag, vil 22. Marts være
+Paaskedag; senest kan Paaskefuldmaanen
+indtræffe 18. Apr., og hvis denne er Søndag, vil
+først 25. Apr. være Paaskedag. 1. Paaskedag
+vil saaledes være en af Dagene 22. Marts—25.
+Apr. Paaskegrænsen bliver beregnet cyklisk og
+ikke astronomisk. Til Grund er lagt den
+Meton'ske Cyklus paa 19 Aar, og Aarets Nummer i
+denne benævnes <sp>Gyldental</sp>. Da denne
+Maanecyklus begynder med Aaret 1 e. Kr., vil
+man for Aar før Kristus finde Aarets
+Gyldental ved at trække 2 fra Aarstallet og dividere
+med 19, hvorved Resten er Gyldentallet; for
+Aar efter Kristus har man at lægge 1 til
+Aarstallet og dividere med 19. Da nu 12 synodiske
+Maaneder er omtr. 11 Dage kortere end
+Solaaret, vil en bestemt Maanefase gennemsnitlig
+komme 11 Dage tidligere det ene Aar end det
+nærmest foregaaende. Er det saaledes
+Nymaane 1. Jan. et bestemt Aar, vil man paa næste
+Aar 1. Jan. allerede for 11 Dage siden have
+haft Nymaane ɔ: Maanen vil Nytaarsdagen være
+11 Dage gl. Denne Maanens Alder paa
+Nytaarsdagen kaldes <sp>Epakter</sp>, og de skrider frem
+med 11 for hvert Aar; bliver Tallet større end
+30, trækkes dette fra, og Resten er Epakter;
+dette vil i samme Cyklus finde St. 6 Gange;
+efter den 19. Epakter trækker man 29 fra,
+hvorved man kommer paa samme Tal, som man
+gik ud fra. Er 1. Jan. Nymaanedagen, bliver
+Aarets Epakter 30 ell. med samme Ret 0; alm.
+betegnes dette med*. I den julianske K. har
+man til Gyldentallet 1 Epakter 11; Epakter
+svarende til et bestemt Aars Gyldental bliver
+derved = Resten af 11<i>g</i>/30, hvor <i>g</i> er Aarets
+Gyldental. Disse Epakter, benævnt de »julianske«,
+benyttedes i den danske Almanak, men er ikke
+anvendt til Datering. I Middelalderen blev kun
+de Dionysiske ell. Bedanske Epakter brugt, og
+de findes af Udtrykket : Resten af 11(<i>g</i>—1)/30,
+hvor <i>g</i> er Aarets Gyldental. Da man 1582 sprang
+10 Dage over, blev efter den ny Stil fra denne
+Tid Epakter 10 mindre end efter den julianske
+K. Men da 19 julianske Aar er henimod 1 1/2
+Time længere end 235 Aar synodiske
+Maaneder, saa vil efter 308,5 Aar denne Forskel have
+summeret sig sammen til 1 Dag, som saaledes
+Nymaane kommer tidligere end før. Epakterne
+maa derved forøges med 1. Men da denne
+Periode — <sp>Maanejævningen</sp> kaldet — ikke
+kan begynde at virke midt i et Aar, ligesom
+det vilde være mindre heldigt, at denne
+Begyndelse skulde falde midt i et Sekulum, har
+Lilius, der efter mindre nøjagtige Værdier bestemte
+den til 312 1/2 Aar, forordnet, at man skal
+benytte en 8-aarig Periode, 8 X 312 1/2 = 2500 Aar,
+paa den Maade, at Maanejævningen regnes at
+indtræde 7 Gange hver 300 Aar, den 8. Gang
+efter 400 Aars Forløb. 1800 indtraf dette for
+første Gang. Efter 9300 Aar ell. efter 30
+Maanejævninger vil Epakter saaledes have vandret
+Rækken rundt og vende tilbage i samme
+Orden. Dette vilde være Tilfældet, hvis der ikke
+optraadte en anden »Perturbation«, som
+forrykker Forholdet. Da nemlig det gregorianske
+Aar for hver udeladt Sekularskuddag rykker 1
+Dag tilbage i det julianske — <sp>Soljævning</sp>
+—, kommer Nymaane paa disse Aar 1
+gregoriansk Datum senere end før, Aarets Epakter
+vil derved blive formindsket med 1. Indtræffer
+derfor Maane- og Soljævning samtidig, som i
+Aarene 1800 og 2100, ell. ingen af disse gør sig
+gældende, som i Aarene 1600 og 2000, bliver
+Epakterne uforandrede. Indtræffer
+Maanejævningen alene, bliver Epakterne at forøge med 1
+Dag som i Aaret 2400; gør Soljævningen alene
+sig gældende, som i 1700 og 1900, bliver
+Epakterne at formindske med 1. Efter dette vil man
+have flg. Tabel:
+<table>
+<td 20 c>De bedanske Epakter.
+<td>Gyldental<td r>1<td r>2<td r>3<td r>4<td r>5<td r>6<td r>7<td r>8<td r>9<td r>10<td r>11<td r>12<td r>13<td r>14<td r>15<td r>16<td r>17<td r>18<td r>19
+<td>Epakter<td r>*<td r>11<td r>22<td r>3<td r>14<td r>25<td r>6<td r>17<td r>28<td r>9<td r>20<td r>1<td r>12<td r>23<td r>4<td r>15<td r>26<td r>7<td r>18
+<td 20 c>De gregorianske Epakter 1900—2199.
+<td>Gyldental<td r>1<td r>2<td r>3<td r>4<td r>5<td r>6<td r>7<td r>8<td r>9<td r>10<td r>11<td r>12<td r>13<td r>14<td r>15<td r>16<td r>17<td r>18<td r>19
+<td>Epakter<td r>29<td r>10<td r>21<td r>2<td r>13<td r>24<td r>5<td r>16<td r>27<td r>8<td r>19<td r>*<td r>11<td r>22<td r>3<td r>14<td r>25<td r>6<td r>17
+</table>
+
+For de øvrige Aar af den gregorianske K.
+kan man benytte sidste Tabel, naar man paa
+de deri forekommende Epakter anvender flg.
+Rettelse, som fremgaar af det ovf. opstillede:
+Fra 15. Oktbr 1582—1699:+2; 1700—1899: + 1;
+2200—2299:—1; 2300—2399:—2.
+
+Om Epakters og Gyldentals Benyttelse til at
+beregne Paasken s. d. og
+<sp>Søndagsbogstav</sp>. Jfr. for øvrigt <sp>Kronologi</sp>.
+<i>J. Fr. S.</i>
+</chapter>
+
+<chapter name="Kalendertegn">
+<b>Kalendertegn</b> (<sp>astronomiske Tegn</sp>),
+Figurer, som er indførte i Astronomien til en
+forkortet Betegnelse, og som er gaaede over i
+Kalenderen. De almindeligste er de, som
+benyttes for Solen, Maanen og Planeterne og til
+Dels ogsaa for Ugedagene: ☉ Solen, Søndag,
+☾ Maanen, Mandag, ☿ Merkur, Onsdag, ♀
+Venus, Fredag, ♁ Jorden, ♂ Mars, Tirsdag,
+♃ Jupiter, Torsdag, ♄ Saturn, Lørdag, ♅ Uranus,
+♆ Neptun. For de tidligst opdagede Asteroider
+indførtes i sin Tid bestemte Tegn, men da
+Antallet voksede, foreslog Gould i Stedet at
+betegne dem med Nummere satte ind i en Cirkel i
+Orden efter deres Opdagelse: ① Ceres,

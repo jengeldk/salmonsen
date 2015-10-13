@@ -1,0 +1,120 @@
+Varmetraaden og under Brugen indstikkes i Øret. En
+anden membranløs Mikrofon er angivet af
+Amerikaneren Thomas og beror paa
+Modstandsvariationer i en mellem to Elektroder dannet
+elektrisk Lysbue under Paavirkning af
+Lydbølgerne. — Med flere af de nævnte Mikrofoner er
+opnaaet udmærkede Resultater. De frembragte
+Strømvirkninger er dog i Reglen langt svagere
+end gennem Kulkornsmikrofonen, hvorfor
+passende Forstærkning af Strømmene maa udføres
+(se <sp>Telefonforstærker</sp>). (<sp>Litt</sp>.: <sp>Th.
+Karrass</sp>, »Gesch. der Telegraphie«
+[Braunschweig 1909]; <sp>C. W. Kollatz</sp>, »Die
+Fernsprechtechnik« [Berlin 1920]; »Tekniske
+Meddelanden från kungl. Telegrafstyrelsen«, Sthlm
+1923, Nr 1 og 1925, Nr 3).
+<i>A. C. G.</i>
+</chapter>
+
+<chapter name="Telefonapparater">
+<b>Telefonapparater</b> til sædvanlig Brug ved
+Forbindelser mellem Telefonabonnenter findes
+i forskellige Udførelsesformer som <sp>Væg</sp>- ell.
+<sp>Bord-T.</sp> Ved mindre, lokale Telefonanlæg
+direkte mellem to T. (<sp>Hustelefoner</sp>, Fig. 1)
+indskydes Mikrofon og Telefon umiddelbart i
+Kredsløb gennem et ell. to galvaniske
+Elementer, der ligeledes benyttes til Afgivelse af
+Ringesignal. Ved Forbindelser mellem flere T.,
+hvis Ledninger er ført til en fælles Central for
+Sammenstillinger (se
+<sp>Telefoncentralstationer</sp>), foretrækker man at indrette
+Kredsløbet mellem Mikrofon og Batteri uafhængig af
+den varierende Ledningsmodstand til de i forsk.
+Afstand fra Centralen værende
+Telefonabonnenter. Mikrofon og Batteri indskydes her i et
+Kredsløb for sig gennem den ene Bevikling i en
+Transformator, <sp>Induktionsrulle</sp>, hvis
+anden Bevikling gennem Telefonen er forbundet
+med Ledningen. Denne Forbindelsesmaade
+benyttes ved det saakaldte <sp>Lokalbatteri</sp>-
+eller <sp>Magnetosystem</sp>, hvor Batteriet (i
+Reglen et Par Tørelementer) er opstillet i
+Apparatets umiddelbare Nærhed — eventuelt (som
+ved Væg-T., Fig. 2) i selve Apparatets
+Dækkasse. Denne indeholder tillige en
+Vekselstrømsklokke for Opringning fra Centralen samt
+en Vekselstrømsgenerator,
+<sp>Magnetoinduktor</sp> (Fig. 3), der ved Drejning paa et
+Haandsving udsender Ringestrøm til Centralen. Naar
+Telefonen (ell. Mikrotelefonen) hænger paa sin
+Krog ell. (som ved
+<sp>Bordtelefonapparater</sp>, Fig. 4) ligger paa Gaffelen, er
+Forbindelsen til det lokale Mikrofonbatteri afbrudt og
+Vekselstrømsklokken indskudt i
+Telefonledningen. I denne Stilling kan Ringning modtages
+ell. afgives. I sidstnævnte Tilfælde indskydes
+Magnetoinduktoren automatisk i Kredsløbet,
+naar Haandsvinget drejes. Forbindelsen
+indrettes i Reglen saaledes, at Apparatets egen
+Klokke (ligeledes automatisk) kortsluttes under
+Afgivelse af Ringesignal fra Induktoren. Ved
+Nedtrykning af en Knap paa Apparatet kan
+denne Kortslutning ophæves, saaledes at man
+efter Ønske kan kontrollere Ringestrømmens
+Udsendelse. (Ældre Apparater er ofte indrettet
+saaledes, at Kortslutningen foretages ved Hjælp
+af Trykknappen, der maa slippes, hvis
+Kontrolringning ønskes). Ved Afløftning af Telefonen
+frigøres en fjedrende Vægtstangskontakt, der
+dels forbinder Mikrofon og Batteri gennem
+Induktionsrullens primære Vindinger og dels
+udskyder Vekselstrømsklokken af Kredsløbet og i
+St f. forbinder Ledningen med Telefonen
+gennem Induktionsrullens sekundære Vindinger. I
+denne Stilling afgives og modtages Tale. Paa
+Mikrotelefonens Skaft er ofte anbragt en
+Fjeder, der paavirkes med Haanden og tjener til
+at afbryde Mikrofonstrømmen, medens der
+høres, hvorved man i mindre Grad generes af
+eventuel Støj i Apparatets Nærhed. De af
+Statstelefonabonnenter her i Landet (med
+Undtagelse af Kbhvn) benyttede Magneto-T.
+indrettes ogsaa saaledes, at Induktionsrullens
+sekundære Vindinger udskydes af Kredsløbet, naar
+Haandfjederen slippes. Herved formindskes
+Modstanden i Liniekredsløbet, og Talen høres
+kraftigere. Disse Apparater, der benyttes ved
+Forbindelser paa længere (mellembys) Afstand,
+er foruden med Mikrotelefon forsynet med en
+ekstra Høretelefon (smlg. Fig. 4).
+
+Ved <sp>Centralenergisystemet</sp>
+forsynes Abonnenternes Mikrofoner med Strøm fra
+et for alle T. fælles Batteri, der opstilles paa
+Centralen. I disse Apparater danner
+Mikrofonen (og Induktionsrulle) det ydre Kredsløb til
+Centralen, medens Telefonen er lokalt indskudt
+paa Induktionsrullens anden Bevikling (se Fig.
+5). Batterispændingen fra Centralen spærres i
+Apparatets Hvilestilling af en Kondensator <i>K</i>,
+der er indskudt i Liniekredsløbet sammen med
+Vekselstrømsklokken <i>V</i>. Jævnstrømskredsløbet
+er saaledes afbrudt, hvorimod Kondensatoren
+tillader Passage af den fra Centralen udsendte
+Vekselstrøm til Opringning af Abonnenten.
+Naar denne vil kalde Centralen, afløftes
+Telefonen <i>T</i>, hvorved Kontaktfjederen <i>F</i> bevæges
+og kortslutter Kondensatoren, medens samtidig
+Forbindelsen til Klokken afbrydes.
+Centralbatteriet udsender nu Strøm paa Ledningen (<i>L1</i>
+og <i>L2</i>) gennem Mikrofonen <i>M</i> og den ene
+Bevikling i Induktionsrullen <i>T</i> og frembringer paa
+Centralen Signal for Opkaldet. For at gøre
+
+<img>Fig. 1.
+Hustelefonapparat.</img>
+
+<img>Fig. 2. Vægtelefonapparat
+(Magnetssystem).</img>

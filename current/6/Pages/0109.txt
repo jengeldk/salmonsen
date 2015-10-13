@@ -1,0 +1,174 @@
+<chapter name="Diagonallejring">
+<b>Diagonallejring</b> kan navnlig iagttages hos
+sandede Stenarter og bestaar deri, at der
+inden for det opr. horisontalt afsatte Lag findes
+en finere Lagdeling, der staar mer ell. mindre
+skævt i Forhold til Hovedlagdelingen. Nær
+beslægtet med D. er den saakaldte
+<sp>diskordante Parallelstruktur</sp>, der bestaar
+deri, at der inden for samme Aflejring paa
+korte Strækninger viser sig gentagne og
+pludselige Ændringer i Lagenes Stilling; denne
+Struktur findes navnlig i Flod- og
+Deltaaflejringer samt i Aflejringer fra Littoralregionen
+og skyldes Ændringer i Strømninger og
+Bølgeslag. Ogsaa i Flyvesandsaflejringer er denne
+Struktur meget alm. og skyldes her de hyppige
+Ændringer i Vindretningen.
+<i>J. P. R.</i></chapter>
+
+<chapter name=”Diagonalplan”>
+<b>Diagonalplan</b> (<sp>mat</sp>.), en Plan gennem to
+Sidekanter i et Prisme ell. en Pyramide, som
+ikke ligger i samme Sideflade.
+<i>Chr. C.</i></chapter>
+
+<chapter name=”Diagonals”>
+<b>Diagonals</b> [da^l'äg<sub>å</sub>nə£z], tætte uldne Stoffer
+til Herretøj og Dameoverstykker, saaledes
+kiprede, at Bindingerne fremtræder som fine skraa,
+temmelig stejle Striber.
+<i>K. M.</i></chapter>
+
+<chapter name=”Diagoras, gr. Nævekæmper”>
+<b>Diagoras</b> [gr. -'go-], berømt gr. Nævekæmper,
+som nedstammede fra en anset Slægt
+(Eratiderne) i Ialysos paa Rhodos. D. vandt mange
+Sejre i de offentlige Festlege rundt om i
+Grækenland (464 f. Kr. i Olympia) og oplevede
+tillige at se to af sine Sønner som Sejrherrer.
+Pindar's 7. olympiske Ode er digtet til D.'s
+Pris. I Olympia var der opstillet Billedstøtter
+baade af ham og af hans Børn og Børnebørn.
+D.'s Statue, et Værk af den megariske
+Billedhugger Kallikles, fremstillede ham rede til
+Kamp, med fremstrakt højre og tilbagebøjet
+venstre Arm.
+<i>C. B.</i></chapter>
+
+<chapter name=”Diagoras  fra Melos”>
+<b>Diagoras</b> [gr. -'go-] <sp>fra Melos</sp> med
+Tilnavnet Gudsfornægteren (ἄθεος), gr.
+Filosof og Lyriker fra den lille Ø Melos i den
+sidste Halvdel af 5. Aarh. f. Kr., Discipel af
+Demokritos fra Abdera. Da D. i Aaret 425 var
+kommet til Athen, vakte han ved sin Spot over
+de eleusinske Mysterier og sin frimodige
+Fornægten af Gudernes Tilværelse en saadan Uvilje,
+at han (415) ved en Folkebeslutning blev
+forjaget fra Staden.
+<i>K. H.</i></chapter>
+
+<chapter name="Diagram, Linietegning">
+<b>Diagram</b> (gr.), »Linietegning«, en i
+Naturvidenskab og Statistik alm. benyttet grafisk
+Fremstilling for, tydeligere end ved Tabeller, at
+anskueliggøre en Størrelses Afhængighed af en
+anden, f. Eks. i Meteorologien et Steds
+Middeltemperatur for hver Maaned. Smlg. <sp>grafisk
+Fremstilling</sp>.</chapter>
+
+<chapter name="Diagram, i grafiske Statik">
+<b>Diagram</b> bruges i den <sp>grafiske Statik</sp>
+paa Dansk som Betegnelse for den Slags
+Kraftplaner, der ellers paa andre Sprog betegnes
+som <sp>Maxwell</sp>'s ell. <sp>Cremona</sp>'s. Der
+forstaas herved Figurer, hvorved man grafisk kan
+bestemme Spændingerne i Gittersystemer, f.
+Eks. Brodragere, Spærfag, for hvilende
+Belastning. Denne Spændingsbestemmelse kan
+foretages ved at tegne Kraftpolygonerne (se
+<sp>Kræfters Sammensætning</sp>) for hvert
+Knudepunkt; men hvis man i St f. at tegne disse hver
+for sig kan faa dem kombinerede saaledes, at
+den samlede Kraftplan er den reciprokke Figur
+til Systemet, har man et D. De vigtigste
+Egenskaber ved D. er i Overensstemmelse hermed
+følgende: til enhver Stang i Systemet svarer i
+D. en dermed parallel Linie, hvis Længde
+angiver Størrelsen af Spændingen i den tilsvarende
+Stang i Systemet; til ethvert Knudepunkt i
+Systemet svarer i D. en lukket Polygon, der viser
+Ligevægten om Knudepunktet, og omvendt
+svarer til et Knudepunkt i D. en Polygon i
+Systemet; enhver Spænding og ydre Kraft
+forekommer kun een Gang i D., Spændingen som Side
+i to Kraftpolygoner, den ydre Kraft kun i een.
+Spændingsbesteniimelsen ved D. er i alle
+Tilfælde, hvor man kun har med en hvilende
+Belastning at gøre, overordentlig bekvem og
+overskuelig. - Det er ikke ganske sikkert, hvem
+Æren for Metoden egl. tilkommer; almindeligt
+angives <sp>Clerk Maxwell</sp> som
+Ophavsmanden, idet han i alt Fald først har offentliggjort
+en Teori herfor (i <i>Philosophical Magazine</i> 1864:
+<i>On reciprocal figures and diagrams of forces</i>).
+Imidlertid skal en Tegner <sp>Taylor</sp> hos
+Entreprenøren Cochrane samtidig ell. før, men
+uafhængig af Maxwell, have anvendt Metoden i
+Praksis. Siden er Teorien videre uddybet og
+Metoden uddannet af <sp>Jenkin</sp> og <sp>Bow</sp> og
+navnlig af <sp>Cremona</sp> (<i>Le figure reciproche
+nella Statica Grafica</i> [Milano 1872], hvorfor
+Metoden mange Steder bærer Cremona's Navn), og
+i den nyere Tid af <sp>Julius Petersen</sp> og
+<sp>Schur</sp>.
+<i>A. O-d.</i></chapter>
+
+<chapter name=”Diagram (bot.)”>
+<b>Diagram</b> (<sp>bot</sp>.) betyder et Grundrids af en
+Blomst ell. et Skud (eventuelt med dets
+Sideskud). Man skelner mellem det
+<sp>empiriske D.</sp>, der viser den faktiske Stilling af de
+virkelig for Haanden værende Organer, og det
+<sp>teoretiske D.</sp>, hvori forskellige, ikke
+umiddelbart iagttagelige Forhold er indtegnede, f.
+Eks. Organer, som faktisk ikke er komne til
+Udvikling, men i Sammenligning med
+Diagrammer af beslægtede Former teoretisk
+(potentialiter) bør tænkes til Stede.
+<i>V. A. P.</i></chapter>
+
+<chapter name=”Diagramapparat”>
+<b>Diagramapparat,</b> se
+<sp>Materialprøvemaskiner</sp>.</chapter>
+
+<chapter name=”Diahot”>
+<b>Diahot,</b> den længste Flod paa den australske
+Ø Ny-Caledonien, har Retning fra SØ. til NV.
+og falder efter et 150 km langt Løb i
+Harcourtbai. Den er sejlbar paa en Strækning af 40 km,
+og ved dens Bredder findes baade Guld og
+Kobber.
+<i>M. V.</i></chapter>
+
+<chapter name=”Diakaustika”>
+<b>Diakaustika</b> (gr.), Brændflade, fremkaldt ved
+Lysets <sp>Gennemgang</sp> gennem en Linse ell.
+et andet regelmæssig brydende Legeme i
+Modsætning til <sp>Katakaustika</sp>, der fremkommer
+ved Tilbagekastning.
+<i>K. S. K.</i></chapter>
+
+<chapter name=”Diaklaser”>
+<b>Diaklaser,</b> en Betegnelse for de
+Sprækkedannelser, som hyppig finder Sted i Stenarter
+p. Gr. a. Tryk ell. geotektoniske Bevægelser i
+Jordskorpen, og hvorved Stenarten deles i
+Brudstykker af mer ell. mindre regelmæssig Form.
+Se i øvrigt Afsondring.
+<i>J. P. R.</i></chapter>
+
+<chapter name=”Diaklasit”>
+<b>Diaklasit,</b> Mineral, er en noget omdannet,
+vandholdig Varietet af Mineralet Broncit (se
+<sp>Pyroxen-Gruppen</sp>).
+<i>(N. V. U.). O. B. B.</i></chapter>
+
+<chapter name=”Diakon”>
+<b>Diakon</b> (gr. διάκονος;, Tjener), en kirkelig
+Embedsmand, hvis Hverv kan føres helt tilbage
+til Aposteltidens Dage (Fil. 1, 1; 1. Tim. 3, 8 ff.),
+og som fra først af væsentligst gik Bispen til
+Haande ved Gudstjenesten, særlig ved at uddele
+Brødet og Vinen til Nadver gæsterne, ligesom

@@ -1,0 +1,110 @@
+nævneværdigt, bliver Strømstyrken i den fortyndede
+Svovlsyre ikke alene fordoblet, som den skulde,
+hvis Ohm's Lov gjaldt, men den vil stige langt
+stærkere. Forklaringen herpaa har vi i den
+<sp>elektrolytiske Polarisation</sp> (s. d.).
+
+Vi vil først give nogle typiske Eksempler paa
+de kem. Processer rent kvalitativt. De Dele,
+hvori Elektrolyten spaltes, kaldte Faraday (der
+ogsaa har indført de Ovenstaaende Betegnelser)
+<sp>Ioner</sp> (Vandrere); den Del, der gaar til
+Anoden, kaldes <sp>Anionen</sp>, den Del, der gaar til
+Katoden, kaldes <sp>Kationen</sp>. En Syre spaltes
+af Strømmen i Brint og Syreresten, af hvilke
+Brinten er Kation og Syreresten Anion; er
+Elektrolyten fortyndet Svovlsyre (H<sub>2</sub>SO<sub>4</sub>) og
+Elektroderne af ædelt Metal, f. Eks. Platin, bobler
+Brinten (H<sub>2</sub>) op ved Katoden, medens
+Syreresten (SO<sub>4</sub>) ved Anoden forener sig med
+Vandets Brint (Vand = H<sub>2</sub>O) til ny Svovlsyre,
+hvorved Ilt (O) frigøres og bobler op. Da
+Syremængden altsaa bliver uforandret, og da der
+udvikles Brint og Ilt, Vandets Bestanddele, og
+netop i det Forhold (Rumfangsforholdet 2 : 1),
+hvori de er forbundne i Vandet, kaldes E. af
+fortyndet Svovlsyre undertiden
+Vandsønderdeling, men at det ikke ved en elementær
+Betragtning er rimeligt at opfatte dette som det
+primære, fremgaar alene deraf, at rent Vand
+ikke leder Elektriciteten; Vandsønderdelingen
+fremkommer som Resultat af de <sp>sekundære
+Processer</sp>, som de primære
+Elektrolyseprodukter foranlediger. Et Apparat egnet til denne
+E. (et »Vandsønderdelingsapparat«) er vist i
+Fig. 2. Her er Tilledningerne indkittede eller
+indsmeltede i Glasset <i>A</i>'s Bund; <i>f</i> er Katoden,
+<i>f'</i> Anoden. Selve Elektroderne er Platinplader,
+og Luftarterne opsamles i Klokker over disse,
+Brint i <i>h</i>, Ilt i <i>o</i> i Rumfangsforholdet 2 : 1,
+som Fig. viser. - Er Anoden ikke af Platin,
+men f. Eks. af Zink (Zn) ell. Kobber (Cu), vil
+Svovlsyreresten i Stedet forbinde sig med
+Metallet og danne henh. Zink- og Kobbersulfat
+(ZnSO<sub>4</sub> resp. CuSO<sub>4</sub>), saa at Anoden
+efterhaanden opløses; ved Katoden finder Brintudviklingen
+stadig Sted. Er Elektrolyten Saltsyre (Klorbrinte
+HCl), hvor Anionen er Kloret (Cl), vil dette
+angribe alle Metaller, hvorfor Anoden maa være
+af Kul for at faa luftformig Klor udviklet. -
+Et Salt, der jo fremkommer ved at ombytte
+Brinten i Syren med et Metal, spaltes i
+Metallet, der er Kation ligesom Brinten, og
+Syreresten, der igen er Anion. For Syreresten
+gælder da det ovf. sagte. Er Kationen et af de
+tunge Metaller (f. Eks. Cu), vil dette udskilles
+paa Katoden; elektrolyseres derfor f. Eks. en
+Kobbersulfatopløsning med Kobberelektroder,
+vil Kobberet blot flyttes fra Anoden til Katoden.
+Er Kationen et af de lette Metaller (f. Eks.
+Natrium Na), der kan sønderdele Vand, vil en
+saadan Sønderdeling finde Sted ved Katoden
+som en sekundær Proces, hvorved der dannes
+et Hydroxyd ell. Ilte under Frigørelse af Brint;
+elektrolyseres saaledes en
+Natriumsulfatopløsning (Na<sub>2</sub>SO<sub>4</sub>) med Platinelektroder, faas
+dannet Svovlsyre ved Anoden og Natriumhydroxyd
+(NaOH) ved Katoden, henh. under Frigørelse
+af Ilt og Brint, saa at det atter ser ud, som om
+det var Vandet, der blev sønderdelt, men her er
+det let at paavise, at der er sket mere i
+Vædsken, idet den er blevet sur ved Anoden og
+basisk ved Katoden, hvad f. Eks. kan paavises
+ved at tilsætte lidt Lakmusopløsning, der bliver
+rød ved Anoden og blaa ved Katoden.
+
+De kvantitative Forhold ved E. er udredede
+af <sp>Faraday</sp> (1833), paa hvis Arbejder i det
+hele Læren om E. hviler. (Den første
+Iagttagelse af en E. er gjort af Nicholson og
+Carlisle [1800], der indskød Vand i en Strømkreds
+fra en Voltasøjle og saa Luftudviklingen).
+Faraday's Resultater sammenfattes i hans to Love
+for E.
+
+I. Lov: Den kem. Virknings Størrelse (den
+udskilte Stofmængde) er proportional med den
+Elektricitetsmængde, som har passeret
+Elektrolyten. - Elektricitetsmængden er jo bestemt
+ved Produktet af Strømstyrken og Tiden, og
+dette Produkt og kun dette er det altsaa, som
+er bestemmende for den udskilte Stofmængde.
+Sendes samme Strøm i forsk. Tidsrum gennem
+samme Elektrolyt, faas udskilt Stofmængder
+proportionale med Tiderne. Sendes forskellige
+Strømstyrker lige længe gennem samme
+Elektrolyt, faas Stofmængder proportionale med
+Strømstyrkerne. Sendes samme Strøm samtidig
+gennem fl. Kar med samme Elektrolyt
+forbundne i Række, faas samme Stofmængde i dem alle,
+uanset om Karrene ell. Elektroderne er af forsk.
+Størrelse ell. Opløsningerne af forsk.
+Koncentration. Lader man som vist i Fig. 3 Strømmen
+dele sig mellem <i>B</i> og <i>C</i> (der f. Eks. ligesom <i>A</i>
+og <i>D</i> kan være Vandsønderdelingsapparater),
+faas i <i>B</i> og <i>C</i> tilsammen udskilt lige saa meget
+Stof som i <i>A</i> ell. i <i>D</i> alene. Ved disse
+
+<img>
+Fig. 2. Vandsønderdelingsapparat.</img>
+

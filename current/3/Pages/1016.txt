@@ -1,0 +1,170 @@
+<table>
+<td>Kria<td c>betyder<td>Kristiania
+<td>Kundg.<td c>—<td>Kundgørelse
+<td>kur.<td c>—<td>kurant
+<td>L.<td c>—<td>Lov
+<td>l<td c>—<td>Liter
+<td>lat.<td c>—<td>latinsk
+<td>lgn.<td c>—<td>lignende
+<td>Litt.<td c>—<td>Litteratur
+<td>log.<td c>—<td>logisk
+<td>£<td c>—<td>Pund Sterling
+<td>luth.<td c>—<td>lutheransk
+<td>m<td c>—<td>Meter
+<td>m. a. O.<td c>—<td>med andre Ord
+<td>m<sup>2</sup><td c>—<td>Kvadratmeter
+<td>m<sup>3</sup><td c>—<td>Kubikmeter
+<td>magy.<td c>—<td>magyarisk
+<td>mask.<td c>—<td>maskulinum
+<td>mat.<td c>—<td>matematisk
+<td>med.<td c>—<td>medicinsk
+<td>mek.<td c>—<td>mekanisk
+<td>meteor.<td c>—<td>meteorologisk
+<td>m. fl.<td c>—<td>med flere
+<td>m. fl. St.<td c>—<td>med flere Steder
+<td>mg<td c>—<td>Milligram
+<td>m. H. t.<td c>—<td>med Hensyn til
+<td>Mill.<td c>—<td>Million
+<td>mm<td c>—<td>Millimeter
+<td>mm<sup>2</sup><td c>—<td>Kvadratmillimeter
+<td>mm<sup>3</sup><td c>—<td>Kubikmillimeter
+<td>milit.<td c>—<td>militær
+<td>Min.<td c>—<td>Minut
+<td>miner.<td c>—<td>mineralogisk
+<td>m. m.<td c>—<td>med mere
+<td>mrm<td c>—<td>Metermil
+<td>mus.<td c>—<td>musikalsk
+<td>Mus.<td c>—<td>Museet
+<td>m. v.<td c>—<td>med videre
+<td>mytol.<td c>—<td>mytologisk
+<td>N.<td c>—<td>Nord
+<td>n. Br.<td c>—<td>nordlig Bredde
+<td>ndf.<td c>—<td>nedenfor
+<td>nedenn.<td c>—<td>nedennævnte
+<td>neutr.<td c>—<td>neutrum
+<td>N. f.<td c>—<td>Nord for
+<td>N. L.<td c>—<td>Norske Lov
+<td>no.<td c>—<td>norsk
+<td>nord.<td c>—<td>nordisk
+<td>Novbr<td c>—<td>November
+<td>nuv.<td c>—<td>nuværende
+<td>O.<td c>—<td>Ord
+<td>o. a.<td c>—<td>og andre
+<td>o. a. St.<td c>—<td>og andre Steder
+<td>o. desl.<td c>—<td>og deslige
+<td>o. f.<td c>—<td>og følgende
+<td>o. fl.<td c>—<td>og flere
+<td>o. fl. l.<td c>—<td>og flere lignende
+<td>o. H.<td c>betyder<td>over Havet
+<td>Oktbr<td c>—<td>Oktober
+<td>o. l.<td c>—<td>og lignende
+<td>o. m.<td c>—<td>og mere
+<td>o. m. a.<td c>—<td>og mange andre
+<td>omarb.<td c>—<td>omarbejdet
+<td>omkr.<td c>—<td>omkring
+<td>omtr.<td c>—<td>omtrent
+<td>Opl.<td c>—<td>Oplag
+<td>opr.<td c>—<td>oprindelig
+<td>o. s. fr.<td c>—<td>og saa fremdeles
+<td>o. s. v.<td c>—<td>og saa videre
+<td>ovf.<td c>—<td>ovenfor
+<td>ovenn.<td c>—<td>ovennævnte
+<td>overf.<td c>—<td>overført
+<td>overs.<td c>—<td>oversat
+<td>Overs.<td c>—<td>Oversættelse
+<td>p. Gr. a.<td c>—<td>paa Grund af
+<td>p. a.<td c>—<td>pro anno
+<td>patol.<td c>—<td>patologisk
+<td>%<td c>—<td>pro Cent
+<td>Pd<td c>—<td>Pund
+<td>pers.<td c>—<td>persisk
+<td>Plur.<td c>—<td>Pluralis (Flertal)
+<td>pol.<td c>—<td>polsk
+<td>‰<td c>—<td>pro Mille
+<td>portug.<td c>—<td>portugisisk
+<td>preuss.<td c>—<td>preussisk
+<td>Prof.<td c>—<td>Professor
+<td>Prov.<td c>—<td>Provins
+<td>psyk.<td c>—<td>psykologisk
+<td>pæd.<td c>—<td>pædagogisk
+<td>R.<td c>—<td>Reaumur
+<td>Rdl.<td c>—<td>Rigsdaler
+<td>Reg. T.<td c>—<td>Register-Ton
+<td>Reskr.<td c>—<td>Reskript
+<td>Resol.<td c>—<td>Resolution
+<td>resp.<td c>—<td>respektive
+<td>ret.<td c>—<td>retorisk
+<td>retsv.<td c>—<td>retsvidenskabelig.
+<td>R. af Dbg.<td c>—<td>Ridder af Dannebrog
+<td>R. af Elef.<td c>—<td>Ridder af Elefanten
+<td>Rk.<td c>—<td>Række
+<td>Rm.<td c>—<td>Reichsmark
+<td>rom.<td c>—<td>romersk
+<td>rum.<td c>—<td>rumænsk
+<td>russ.<td c>—<td>russisk
+<td>S.<td c>—<td>Syd.
+<td>s. A.<td c>—<td>samme Aar
+<td>s. Br.<td c>—<td>sydlig Bredde
+<td>s. d.<td c>—<td>se denne (dette)
+<td>s. D.<td c>—<td>samme Dag
+<td>Sek.<td c>—<td>Sekund(er)
+<td>Septbr<td c>—<td>September
+<td>serb.<td c>—<td>serbisk
+<td>S. f.<td c>betyder<td>Syd for
+<td>sh.<td c>—<td>shillings
+<td>Sing.<td c>—<td>Singularis (Enkelttal)
+<td>sko.<td c>—<td>skotsk
+<td>Skr.<td c>—<td>Skrift, Skrivelse
+<td>Skr<td c>—<td>Skrifter
+<td>skrt.<td c>—<td>sanskrit
+<td>Skt<td c>—<td>Sankt
+<td>slav.<td c>—<td>slavisk
+<td>Slutn.<td c>—<td>Slutning
+<td>Sm.<td c>—<td>Sømil
+<td>smlg.<td c>—<td>sammenlign
+<td>smst.<td c>—<td>sammesteds
+<td>s. N.<td c>—<td>samme Navn
+<td>sp.<td c>—<td>spansk
+<td>spc.<td c>—<td>specielt
+<td>sprogv.<td c>—<td>sprogvidenskabelig
+<td>St<td c>—<td>Saint
+<td>St.<td c>—<td>Sted, Steder.
+<td>stat.<td c>—<td>statistisk
+<td>statsv.<td c>—<td>statsvidenskabelig
+<td>Sthlm<td c>—<td>Stockholm
+<td>Stk.<td c>—<td>Stykke
+<td>Strfr.<td c>—<td>Strafret
+<td>Subst.<td c>—<td>Substantiv
+<td>Suppl.<td c>—<td>Supplement
+<td>sv.<td c>—<td>svensk
+<td>syr.<td c>—<td>syrisk
+<td>Søv.<td c>—<td>Søvæsen
+<td>t<td c>—<td>Tons
+<td>Td.<td c>—<td>Tønde
+<td>Tdr<td c>—<td>Tønder
+<td>T. Dr.<td c>—<td>Tons Drægtighed
+<td>tekn.<td c>—<td>teknisk
+<td>Temp.<td c>—<td>Temperatur
+<td>Tidsskr.<td c>—<td>Tidsskrift
+<td>tr.<td c>—<td>trykt
+<td>tschk.<td c>—<td>tschekkisk
+<td>tyrk.<td c>—<td>tyrkisk
+<td>udg.<td c>—<td>udgivet
+<td>undt.<td c>—<td>undtagen
+<td>ung.<td c>—<td>ungarsk
+<td>Univ.<td c>—<td>Universitet
+<td>V.<td c>—<td>Vest
+<td>vedk.<td c>—<td>vedkommende
+<td>V. f.<td c>—<td>Vest for
+<td>v. L.<td c>—<td>vestlig Længde
+<td>zool.<td c>—<td>zoologisk
+<td>ægypt.<td c>—<td>ægyptisk
+<td>østerr.<td c>—<td>østerrigsk
+<td>Ø.<td c>—<td>Øst
+<td>Ø. f.<td c>—<td>øst for
+<td>ø. L.<td c>—<td>østlig Længde
+<td>Ø.<td c>—<td>Øre
+<td>♂<td c>—<td>Han
+<td>♀<td c>—<td>Hun
+</table>
+</chapter>

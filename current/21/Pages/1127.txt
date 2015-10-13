@@ -1,0 +1,128 @@
+Timilliontedel af en mm. Men det viste sig
+snart, at der ogsaa ved Koincidensmetoden
+opstod større Fejl end antaget, op til 0,03 Å.
+Grundlaget for Bølgebreddemaaling er derfor
+nu helt ændret efter Beslutning af International
+Solar Union, der efter Krigen er erstattet af
+International Astronomical Union. Som
+Grundlag benyttes Maalingen af den røde
+Cadmiumlinies Bølgebredde ved Michelson's
+Interferometer (se <sp>Interferens</sp>); denne Linie er
+den skarpeste Linie, man kender. En meget
+nøjagtig Gentagelse 1907 (Benoit, Fabry og
+Perot) af Michelson's opr. Maaling fra 1894 gav
+λ = 6438,4696 Å, der kun afviger nogle
+Titusendedele Å fra Michelson's opr. Resultat, og
+hvis absolutte Fejl næppe heller er større end
+nogle faa Titusendedele Å. Ved Hjælp af Fabry
+& Perot's Etalon (se <sp>Interferens</sp>) er paa
+Grundlag heraf udmaalt Bølgebredden for et
+Antal Jernlinier og enkelte andre Linier med c.
+50 Å Afstand gennem det synlige og indre
+ultraviolette Spektrum. Disse sekundære
+Normallinier kendes med en Nøjagtighed af
+0,002—0,003 Å. Paa Tavlen Fig. 1 er vist (lidt
+formindsket) en Del af det Atlas over
+Jernspektret, som Fabry & Perot udgav i
+Tilslutning til disse ældre Maalinger. Bølgebredden
+er angivet foroven; 37 betyder 3700 Å. Hele
+den Del af Jernspektret, som Atlasset
+indeholder, har en Længde af 260 cm. Rowland's
+Solatlas havde et Solspektrum af c. 20 m Længde.
+I de kommende Aar skal disse Maalinger
+suppleres dels med fl. Jernlinier, dels bl. a. med
+Neonlinier. Endelig bestemmes ved
+Interpolation paa Gitteroptagelser tættere
+sammenliggende tertiære Normaler i Jernspektret med
+omtr. samme Nøjagtighed. Sollinierne er
+opgivne som Normallinier, da deres Bølgebredde
+afviger lidt fra de samme Stoffers Linier her
+paa Jorden, bl. a. p. Gr. a. Trykkets
+Indflydelse; da vi ikke behersker og ikke engang
+kender de Betingelser, hvorunder Linierne
+fremkommer paa Solen, vilde Brugen af Sollinierne
+indføre en uberegnelig Usikkerhed i
+Normalerne. Ogsaa paa Jernliniernes Bølgebredde, som
+paa næsten alle andre Liniers, har
+Frembringelsesbetingelserne en vis ringe Indflydelse;
+derfor er alle Omstændigheder, der kan tænkes
+at have Indflydelse paa Bølgebredden, nøje
+foreskrevet for Normaljernbuen, og der er
+udvalgt saadanne Linier, som synes at paavirkes
+mindst af vekslende Betingelser. Naar det
+foreløbige Program for Normalernes
+Tilvejebringelse er helt gennemført, vil man raade over
+et særdeles fuldkomment Normalsystem.
+Bølgebredder maalt paa Grundlag deraf siges at
+være maalt i internationale Ångstrøm-Enheder,
+men desværre er det endnu relativt faa Stoffer,
+hvis Spektre direkte er udmaalt i denne
+Enhed og med den Nøjagtighed, der nu kan
+opnaas. De fleste Angivelser af Bølgebredder er
+endnu i den ældre saakaldte Rowland-Skala,
+og Omregningen fra den ene Skala til den
+anden medfører en vis Usikkerhed, saa at meget
+af det uhyre Talmateriale, der i Tidens Løb er
+samlet, ikke har fuld Værdi. For det ultrarøde
+og yderste ultraviolette Spektrum er
+Maalenøjagtigheden væsentlig ringere, og der
+eksisterer ikke Normallinier, der er kendt med
+tilfredsstillende Nøjagtighed, saa at der her
+endnu er meget Arbejde at udføre.
+
+b). <sp>Typiske Spektre</sp>. Det simpleste af
+alle Spektre, Brintspektret, er vist skematisk i
+Fig. 10 og som Fotografi paa Tavlen Fig. 2.
+Fotografiet er et Stjernespektrum (Vega), da
+det ikke er let at faa saa mange Brintlinier
+med ved Laboratorieforsøg. <i>H<sub>α</sub></i> er rød, <i>H<sub>β</sub></i>
+blaagrøn, <i>H<sub>γ</sub></i> og <i>H<sub>δ</sub></i> violette. Resten ultraviolette.
+(Den første Linie paa Fotografiet er <i>H<sub>γ</sub></i>).
+Bogstaverne <i>C</i> og <i>F</i> henviser til Betegnelserne paa
+de tilsvarende Fraunhofer'ske Linier i
+Solspektret. Det viste Spektrum er imidlertid kun en
+Del af det fuldstændige Brintspektrum, en
+ganske lgn. Gruppe af Linier ligger i det yderste
+ultraviolette fra 1216 Å til henimod en Grænse
+ved 912 Å, o. a. lgn. Grupper ligger i det
+ultrarøde, den første fra 18756 Å, den næste fra
+40500 Å o. s. v. Den ejendommelige lovmæssige
+Ordning af Linierne i hver Gruppe ell. <sp>Serie</sp>
+med tættere og tættere Ophobning af Linierne
+henimod en bestemt Grænse, hvor de pludselig
+hører op, har tidlig tiltrukket sig
+Opmærksomhed, og <sp>Balmer</sp> fandt 1885, at Bølgebredden
+for Linierne i den da alene kendte synlige
+Serie kunde beregnes af Formlen 3647,0 <i>m</i><sup>2</sup>/<i>m</i><sup>2</sup>—4,
+hvoraf man ved for <i>m</i> at sætte henh. 3, 4, 5 ...
+faar Bølgebredden for henh. <i>H<sub>α</sub></i>, <i>H<sub>β</sub></i>, <i>H<sub>γ</sub></i>.
+Denne Formel og alle andre Spektralformler bliver
+simplere, naar man i St f. Bølgebredden λ
+regner med Svingningstallet <i>v'</i> — <i>c/λ</i>, hvor <i>c</i> er
+Lysets Hastighed, ell. hvad der giver
+bekvemmere simplere Tal og mest bruges, med det
+saakaldte Bølgetal <sp>v</sp>, Antallet af Bølgebredder
+paa en cm; <i>v</i> = 1/λ, hvor λ er maalt i cm.
+Balmers Formel bliver da <i>v</i> = 109677,7
+(1/2<sup>2</sup>—1/<i>m<sup>2</sup></i>). Den teoretiske Betydning heraf
+omtales nedenfor.
+
+Andre ret simple Spektre har
+Alkalimetallerne, Lithium Li, Natrium Na, Kalium K
+o. s. v. I en Sprit- ell. Gasflamme bestaar
+Li-spektret væsentlig af en rød Linie, 6708 Å,
+Na-spektret af en gul Dobbeltlinie, 5896 og 5890 Å
+o. s. v. Ved højere Temp. som i Buelampen
+faas linierigere Spektre, hvoraf Tavlen Fig. 3
+viser den ultraviolette Del af Li-spektret og
+Fig. 4 og 5 hele Na-spektret; den synlige Del
+er fotograferet sammen med Jernspektret
+(foroven) som et Eksempel paa, hvorledes dette
+bruges til Bølgebreddemaaling. Fig. 11 er en
+skematisk Tegning af Li-spektret, hvor
+Liniernes Tykkelse skal angive deres relative Styrke.
+Den meget fede Linie ved <i>v</i> = 15000 er den
+røde Hovedlinie λ = 6708 Å. Den skematiske
+Tegning og Fotografiet har de korte Bølger til
+
+<img>Fig. 10. Brintspektret.</img>

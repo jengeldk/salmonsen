@@ -1,0 +1,152 @@
+Stand til at afgive den høje Spænding i den
+nødvendige korte Tid, og som drives af selve
+Eksplosionsmotoren (Fig. 3) (se i øvrigt under
+Eksplosionsmotorer ang. særlige
+Tændeindretninger). En lgn. Anvendelse har Gnisttændingen
+faaet i den saakaldte <sp>Gasfjerntænding</sp>,
+hvor man ogsaa antænder den eksplosive
+Blanding af Luft og Gas med en elektrisk Gnist. De
+til de forsk. Gasblus hørende Tændapparater kan
+naturligvis betjenes fra et centralt liggende
+Sted, hvorfra der da tillige betjenes
+elektromagnetiske Apparater, der aabner ell. lukker
+Hanerne for de paagældende Gasblus.
+<i>R. J. J.</i>
+
+<img>Fig. 2. Nobels Patron.</img>
+
+<img>Fig. 3. Eksplosionsmotor med Induktor til elektrisk Tænding.</img>
+</chapter>
+
+<chapter name="elektrisk Tæthed">
+<b>elektrisk Tæthed,</b> se <sp>Elektrostatik</sp>.
+</chapter>
+
+<chapter name="elektrisk Udlader">
+<b>elektrisk Udlader,</b> en Slags Metaltang, hvis
+Grene ender i Kugler. Sættes den ene Gren
+mod en ladet Leydnerflaskes ydre Belægning,
+og nærmes den anden til Flaskens Knap,
+udlades Flasken, uden at den, der holder Tangen,
+faar noget Stød. For en Sikkerheds Skyld kan
+Tangen være forsynet med isolerende
+Haandtag.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="elektrisk Udladning">
+<b>elektrisk Udladning,</b> se <sp>elektrisk
+Strøm i Luftarter</sp>.
+</chapter>
+
+<chapter name="elektrisk Ur">
+<b>elektrisk Ur,</b> se <sp>Ur</sp>.
+</chapter>
+
+<chapter name="elektrisk Vandstandsviser">
+<b>elektrisk Vandstandsviser.</b> Herved
+forstaas et Apparat, som tjener til ved Hjælp af
+Elektriciteten at angive Variationer i
+Vandstanden i en Kedel, Flod ell. Havn paa et
+Iagttagelsessted i længere ell. kortere Afstand.
+Fjernvirkningen tilvejebringes i Reglen derved, at
+en Svømmer overfører Vandets Bevægelse paa
+en Mekanisme, som slutter et elektrisk
+Strømløb, hver Gang Vandet er steget et bestemt
+Stykke, og et andet Strømløb, hver Gang det
+er faldet det samme Stykke. Strømmen benyttes
+da til paa et i Afstand opstillet Apparat at
+bevæge et Viserværk ved Hjælp af
+Elektromagneter, saaledes at Viseren, hver Gang Strømmen
+sluttes, bevæges et bestemt Stykke til den ene
+ell. anden Side, efter som det ene ell. andet
+Strømløb sluttes. Paa denne Maade kan
+Viserværket, inden for de Grænser man ønsker, vise
+Vandstandens Variationer paa et langt fra
+Observationsstedet værende Vandspejl.
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="elektrisk Vind">
+<b>elektrisk Vind,</b> en Bevægelse i Luften, der
+opstaar i Nærheden af en Spids, hvorfra der
+strømmer Elektricitet ud i Luften. Uden for en
+Naalespids, der anbringes paa en
+Elektrisermaskines Konduktor, kan den e. V. blive saa stærk,
+at den kan blæse et Lys ud og let føles med
+Haanden. Tæt uden for Spidsen er den
+elektriske Kraft saa stor, at den spalter Luftens
+Molekyler i positive og negative Dele. De, hvis
+Ladning er modsat Spidsens, tiltrækkes af
+denne og afgiver deres Ladning til den, medens
+de, der har samme Art Ladning som Spidsen,
+frastødes af den med betydelig Kraft og derved
+tillige sætter andre Luftdele i Bevægelse.
+<i>K. S. K.</i>
+</chapter>
+
+<chapter name="Elektro ...">
+<b>Elektro ...</b> i sammensatte Ord en
+Forbindelse, der angiver, at Ordet betyder noget, der
+har med Elektricitet at gøre, indeholder,
+bestaar, fremkaldes af ell. beskæftiger sig med
+denne.
+</chapter>
+
+<chapter name="Elektrobioskopi">
+<b>Elektrobioskopi.</b> Ved E. har man forstaaet
+Benyttelsen af den elektriske Strøms
+Indvirkning paa Legemets Organer, særlig Musklerne,
+for at afgøre, hvorvidt der i et givet Tilfælde
+forelaa virkelig Død ell. Skindød. De forsk.
+Organer i Legemet dør ikke samtidig. Endnu
+fl. (5-6) Timer efter Aandedrættets og
+Hjerteslagets Ophør vedligeholder Legemets Muskler
+deres Evne til ved Irritation med en elektrisk
+(konstant ell. induceret) Strøm at trække sig
+sammen. Er denne Sammentrækkelighed
+imidlertid fuldstændig ophørt, tør man gaa ud fra,
+at Organismen som Helhed i Virkeligheden er
+død. E. benyttes næsten aldrig.
+<i>(S. T.). L. F.</i>
+</chapter>
+
+<chapter name="Elektrode">
+<b>Elektrode,</b> se <sp>Elektrolyse</sp>.
+</chapter>
+
+<chapter name="Elektrodiagostik">
+<b>Elektrodiagostik.</b> Naar man med en
+elektrisk Strøm irriterer en Muskel ell. dennes
+Nerve, kan Musklen bringes til at trække sig
+sammen. Ved Lidelser i Nervesystemet
+forandres undertiden disse Sammentrækninger,
+hvorved der fremkommer den saakaldte
+Degenerationsreaktion. Denne viser sig dels ved en
+Afsvækkelse ell. Ophævelse af
+Muskelsammentrækningerne ved Paavirkning af Musklen ell.
+Nerven med Induktionsstrøm, dels ved, at
+Sammentrækningen af Musklen ved Irritation af denne
+med konstant Strøm indtræder lettere, men
+foregaar langsommere, og at Musklen lettere
+irriteres med den positive Pol end med den negative
+(normalt er det omvendt). Herved kan
+Elektriciteten anvendes til at diagnosticere, om en
+Lidelse i Nervesystemet er organisk ell.
+funktionel, og hvis den er organisk, om den har sit
+Sæde i den yderste Del af Nervebanerne (det
+perifere Neuron) ell. i Hjernens og Rygmarvens
+mere centrale Baner. Tillige kan man af
+Degenerationsreaktionens Grad drage Slutninger
+om, hvor svær Læsionen af Nervebanerne er.
+<i>K. H. K.</i>
+</chapter>
+
+<chapter name="Elektrodynamik">
+<b>Elektrodynamik,</b> Læren om de Kræfter,
+hvormed elektriske Strømme virker paa
+hinanden. Udspænder man to Ledningstraade
+parallelt med hinanden og sender Strømme
+gennem dem i samme Retning, vil Traadene
+tiltrække hinanden, medens de vil frastøde
+hinanden, naar Strømmene gaar i modsatte

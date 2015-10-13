@@ -1,0 +1,139 @@
+sammentræffende Lysbølger lige stærke, bliver det
+resulterende Udsving det dobbelte af een
+Lysbølges og altsaa Intensiteten den 4-dobbelte. Er
+Faseforskellen 1/2, faas den resulterende
+Bevægelse ved at subtrahere Udsvingene, saa at
+Lysvirkningen bliver ringe; for lige stærke
+Lysbølger bliver det resulterende Udsving 0, saa
+at der faas Mørke. Er Faseforskellen 1/4 og de
+to Lysbølger lige stærke, bliver det resulterende
+Udsving kvadratrod(2) Gange den enkelte Bølges og
+Intensiteten den dobbelte, altsaa netop Summen af de
+to sammentræffende Lysbølgers Intensitet. Med
+Faseforskelle mellem 0 og 1/4 faas altsaa
+stærkere Lysintensitet end Summen af de
+sammentræffende, med Faseforskelle mellem 1/4 og 1/2
+derimod svagere Intensitet.
+
+<sp>Eksempler paa I</sp>. Det klassiske
+I.-Forsøg er Fresnel's Spejlforsøg (s. d.). Dette er
+siden blevet varieret paa talrige Maader
+(Fresnel's Biprisme, Bille's Halvlinser o. m. fl.), men
+fælles for dem alle er, at der ved Spejling ell.
+Brydning tilvejebringes 2 rumligt adskilte
+Billeder af Lyskilden, som maa være en smal
+Lyslinie ell. et Lyspunkt. I. opstaar da i den
+Del af Rummet (I.-Rummet), der træffes af
+Straaler fra begge disse Billeder, saaledes at
+Resultatet af I. i et vilkaarligt Punkt af dette
+Rum afhænger af Forskellen i Lysvejene fra
+de to Billeder til det betragtede Punkt. Er
+Vejene lige lange, ell. er Forskellen i
+Vejlængde et helt Antal Bølgebredder, vil de to
+Straaler, som fra de to Billeder træffer
+sammen i Punktet, dér have samme Fase, saa at
+der kommer stærk Lysvirkning i Punktet. Er
+Vejforskellen derimod et ulige Antal halve
+Bølgebredder, bliver Faseforskellen 1/2, saa at
+der bliver Mørke ell. svag Lysvirkning i
+Punktet. Paa en Skærm anbragt saaledes i
+I.-Rummet, at den træffes nogenlunde vinkelret af
+Straalerne fra de 2 Billeder, faar man da
+afvekslende lyse og mørke Striber (<sp>I.-Striber</sp>),
+saafremt Lyskilden udsender ensfarvet ell.
+homogent Lys, f. Eks. afvekslende gule og
+mørke Striber, hvis der anvendes Natriumlys.
+Stribernes Afstand er desto større, jo større
+det ensfarvede Lys' Bølgebredde er, altsaa
+størst for rødt, mindst for violet Lys. Udsender
+Lyskilden hvidt Lys, faas kun faa Striber, i
+Midten en lys Stribe svarende til Vejforskellen
+0, der er fælles for alle Farver, og til begge
+Sider nogle faa farvede Striber, der udefter
+bliver blegere og snart taber sig. Paa et St. af
+Skærmen, hvortil Vejforskellen er f. Eks. 5
+Bølgebredder for rødt Lys, er den 10
+Bølgebredder for violet Lys, hvis Bølgebredde er
+omtr. halvt saa stor; begge disse Farver, og de
+andre Spektralfarver, for hvilke Vejforskellen
+er 6, 7, 8 ell. 9 Bølgebredder, vil da være
+stærke paa dette Sted, men de Spektralfarver,
+for hvilke Vejforskellen er 5 1/2, 6 1/4 . . .9 1/2
+Bølgebredder, mangler. En saadan Mangel af
+adskillige jævnt fordelte, ret smalle Partier af
+Spektret bemærkes imidlertid næppe, saa at det
+betragtede Sted vil synes belyst med næsten hvidt
+Lys, og dette gælder i desto højere Grad, jo
+større Vejforskellen bliver, altsaa jo længere
+man fjerner sig fra Midterlinien. Sendes
+imidlertid Lyset ind i et Spektroskop, ses I., idet
+de paagældende Farver naturligvis mangler i
+Spektret. Da Lysbølgerne er saa korte, maa
+de to Billeder af Lyskilden ligge nær ved
+hinanden, hvis Striberne ikke skal blive alt for
+fine til let at kunne iagttages. Hyppigere end
+paa en Skærm iagttages de i en Lupe.
+Udmaaling af Stribe afstanden tillader principielt en
+Bølgebreddemaaling, der imidlertid praktisk er
+uden Bet., da Gitteret giver langt nøjagtigere
+Resultater.
+
+Som nævnt skal de to Lysstraaler, der
+interfererer med hinanden, være kohærente, d. v. s.
+stamme fra et og samme Punkt af en Lyskilde.
+Man faar derfor ikke I.-Striber, dersom de to
+Billeder af Lyskilden ved Fresnel's Spejle
+erstattes af to adskilte Lyskilder, f. Eks. to
+Glødetraade i elektriske Lamper ell. to
+Natriumflammer hver bag sin Skærm med en smal
+Spalte i. Betragter man nemlig to bestemte
+Punkter af saadanne to Lyskilder, d. v. s. to
+lysudsendende Atomer, vil disse ganske vist i
+nogen Tid udføre regelmæssige Svingninger og
+altsaa give I., idet de dog i Alm. ikke vil være
+i samme Fase, saa at man for at beregne I.
+maa føje deres Faseforskel til den af
+Vejforskellen fremkaldte. Men selv om et lysende
+Atom, som Forsøgene viser, udfører Millioner
+af regelmæssige Svingninger, vil der dog til
+sidst indtræde en pludselig Forandring i Fasen
+af det udsendte Lys. Atomernes Svingninger
+dør hen og skal sættes i Gang paa ny, hvorved
+Faseforskellen bliver en ganske anden. Derved
+vil hele Stribesystemet forskydes et vist Stykke.
+P. Gr. a. Lyssvingningernes overordentlige
+Hurtighed sker dette maaske Millioner Gange i
+Sekundet, og lige saa ofte skifter Stribesystemet.
+Naar dertil kommer, at der til hvert Punkt af
+I.-Rummet sendes Lys fra mange forsk.
+Punkter af Lyskilden, og at dennes Atomer, i hvert
+Fald i en Flamme, skifter Plads uophørligt,
+forstaar man, at det er udelukket at iagttage
+skarpe Striber; man iagttager kun en ensartet
+gennemsnitlig Belysning, overalt netop Summen
+af Virkningerne af hver Lyskilde for sig.
+
+De hidtil behandlede I.-Fænomener er
+karakteriserede derved, at de to interfererende
+Lysstraaler vei udgaar fra et og samme Punkt af
+Lyskilden, men i lidt forsk. Retninger. En anden
+og den vigtigste Gruppe af I.-Fænomener er
+karakteriseret derved, at hver Straale efter
+Udsendelsen spaltes i to, der efter at være
+behandlede forsk. igen træffer sammen og giver I.
+Hertil hører de Farvefænomener, som <sp>tynde
+Hinder</sp> viser, f. Eks. Sæbehinder, Oliehinder
+paa Vand, meget tynde Glashinder o. s. v. Fig.
+1 forestiller et Stykke af en saadan tynd
+gennemsigtig Hinde, f. Eks. en tynd Glasplade.
+En vilkaarlig (<i>A B</i>) af de indfaldende Straaler
+spaltes i den reflekterede Straale <i>B C</i> og den
+brudte <i>B D</i>; denne reflekteres igen delvis som
+<i>D B'</i> og gaar ud af Pladen som <i>B' C'</i> o. s. v.,
+men de flg. Straaler bliver stadig svagere. Til
+fuldstændig Behandling af I. maa alle
+Straaler tages med, men det væsentlige ved
+Fænomenet i det (reflekterede Lys faar man ved
+alene at betragte <i>B C</i> og <i>B' C'</i>, der er meget
+stærkere end de flg. reflekterede Straaler og
+omtr. lige stærke. Forenes disse Straaler ved

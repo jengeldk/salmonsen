@@ -1,0 +1,119 @@
+ved Tandhjulsomsætning til en Snorskive, over
+hvilken er lagt en Snor, som bærer henh.
+Over- og Underkulholderen.
+
+<sp>Flammebuelamper</sp>. En
+Flammebuelampe er vist i Fig. 7. Kullene vender skraat
+nedad og gaar gennem Huller i en
+Chamotteskaal. Buen blæses nedad af en Elektromagnet
+som skematisk vist paa Fig. 8.
+Regulermekanismen lader Kullene glide nedad efterhaanden,
+som de brænder bort. Jævnstrøms- og
+Vekselstrømslamper er omtr. lige gode. Ved
+Vekselstrøm anvendes en lgn. Regulermekanisme som
+den, der er vist paa Fig. 6.
+
+<sp>Kvægsølvdamplamper</sp>. Den første til
+praktiske Belysningsformaal anvendelige
+Kvægsølvdamplampe er udarbejdet af <sp>Cooper
+Hewitt</sp>. En saadan Lampe er vist paa
+Fig. 9. Den bestaar af et c. 1/2 à 1 m
+langt skraatstillet Glasrør, som er pumpet
+lufttomt. Gennem indsmeltede Platintraade
+faar Strømmen Forbindelse med to
+Elektroder, foroven en Jernelektrode, som
+forbindes med den positive Tilledning, og
+forneden en i en Udvidelse af Røret
+værende Kvægsølvelektrode, som forbindes med
+den negative Ledning. Desuden maa der i
+Strømkredsen være indskudt en passende
+Modstand og helst tillige en Induktionsrulle
+(Drosselspole). For at tænde Lampen vipper man
+Røret, saa at der løber en Kvægsølvstreng ud
+fra Kvægsølvbeholderen hen til Berøring med
+Jernelektroden, hvorved Strømmen sluttes.
+Dernæst vippes Røret tilbage i den paa Fig. viste
+Stilling, hvorved Kvægsølvstrengen trækker sig
+tilbage under Dannelse af en Lysbue, som til
+sidst fylder hele Røret. En Lampe som den
+afbildede brænder ved c. 80 Volt og c. 3,5
+Ampère. Det er vanskeligt at give noget bestemt
+Tal for Lysstyrken, da Lyset væsentlig bestaar
+af enkelte Spektrallinier og vanskeligt lader sig
+sammenligne med andre Lampers Lys.
+
+Imidlertid er der opnaaet væsentlige
+Forbedringer af Lyset ved Anvendelse af Kvarts som
+Materiale til Røret. I Beg. anvendtes Kvarts
+simpelthen til Lamper til Lægebrug, da det
+lader mange ultraviolette, kemisk virkende
+Straaler passere; men ved Forsøg af Küch og
+Retschinsky viste det sig, at naar man driver
+Strømtætheden langt op over den ved de første
+Kvægsølvlamper anvendte Værdi, stiger
+Lysudbyttet for samme Strømforbrug fl. Gange,
+saaledes at Kvartslampen bliver en meget
+økonomisk Lysgiver ved store Lysstyrker. Til alm.
+Belysning maa man beskytte sig mod de
+ultraviolette Straaler ved at omgive Lampen med en
+Glaskuppel. Kvartsrøret er lige fuldt
+nødvendigt, da et Glasrør ikke vilde kunne taale den
+høje Temperatur.
+
+Fig. 10 viser det ydre af en Kvartslampe.
+Fig. 11 viser Brænderen set skraat nedenfra.
+Selve Kvartsrøret er c. 8 cm langt. Ved Enderne
+bærer det Udvidelser og Tilføjelser af udvendig
+paasatte Jernblik, som tjener til at lede Varmen
+bort. Over Røret ligger en Porcelænsskaal, der
+tjener som Reflektor. I Lampens Overdel findes
+en Forlagsmodstand og en automatisk
+Tændemekanisme, som vipper Røret, naar Kontakten
+sluttes.
+
+Kvægsølvlampen kan kun lade Strømmen
+passere i Retning fra den faste Elektrode gennem
+Røret til Kvægsølvelektroden, paa hvilken der
+danner sig en glødende Plet, der udsender
+Elektroner. En Kvægsørvlampe kan derfor anvendes
+som Ventil til at aftage ensrettet Strøm fra et
+Vekselstrømsnet (se <sp>Ensrettere</sp>). (<sp>Litt</sp>.:
+»Die Quarzlampe von Dr. I. C. Pole« [Berlin
+1914]).
+
+<img>Fig. 10. Kvartskvægsølvlampe.</img>
+
+<img>Fig. 11. Brænder af Kvartskvægsølvlampe.</img>
+
+<sp>Glødelamper</sp>.
+
+I <sp>Kultraadslamper</sp> er Glødetraaden
+en paa kunstig Maade fremstillet Kultraad.
+Raaproduktet er Bomuld, hvoraf der ved kemisk
+Behandling fremstilles en Cellulosemasse, som
+sprøjtes gennem en fin Aabning til en
+silkeglinsende Traad. Denne afklippes i passende
+Længder og bindes over Grafitforme, som
+indsættes i en Ovn, hvor det hele uden Luftens
+Adgang ophedes til en passende høj Temperatur,
+hvorved Traadene forkuller. Hver enkelt
+saaledes fremstillet Kultraad bliver derefter
+»forstærket« derved, at den ved elektrisk Strøm
+glødes i en lille Beholder i Damp af en flygtig
+Kulbrinte, som ved Berøring med den glødende
+Traad sønderdeles og udfælder et tæt
+staalgraat Lag Kulstof paa den opr. Traad. Derefter
+bliver Kultraadens Ender fæstede i Enderne af
+korte Nikkelrør og Samlingsstedet overtrukket
+med et Lag Kul, som udfældes ved Glødning
+ved elektrisk Strøm i Olie. Nikkelstykkerne er
+i Forvejen svejsede til smaa Platintraade og disse
+atter svejsede til Kobbertraade og det hele
+indsmeltet i et Stykke Glas, som senere indsmeltes
+i Bunden af Glødelampebeholderen (Pæren).
+Platinstykkerne danner den egl. lufttætte
+Gennemføring gennem Glasset. Indsmeltning,
+Udpumpning m. m. foregaar i det væsentlige som
+ved Metaltraadslamper (se ndf.).
+Kultraadsglødelamper forbruger praktisk talt 3 à 3 1/2
+

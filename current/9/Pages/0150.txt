@@ -1,0 +1,118 @@
+Den aarlige Gang af den absolutte F. følger
+som oftest temmelig nøje med den aarlige Gang
+af Temp., medens den aarlige Gang af den
+relative F. forløber omvendt af Temp. Som
+oftest er den aarlige Gang af den relative F.
+dog kun ringe.
+
+Efter Observationer i 20 Aar ved Landbohøjskolen 
+anføres her flg. Gennemsnitsværdier for
+Kjøbenhavn:
+<table>
+<td><td c>Jan.<td c>Febr.<td c>Marts<td c>Apr.<td c>Maj<td c>Juni
+<td>Damptryk<td c>4.1<td c>4.2<td c>4.4<td c>5.5<td c>7.1<td c>9.5
+<td>relativ F.<td c>92<td c>91<td c>86<td c>78<td c>72<td c>72
+<td><td c>Juli<td c>Aug.<td c>Sept.<td c>Okt.<td c>Nov.<td c>Dec<td c>Aaret
+<td>Damptryk<td c>10.9<td c>10.9<td c>9.6<td c>7.3<td c>5.6<td c>4.6<td c>7.0
+<td>relativ F.<td c>75<td c>79<td c>84<td c>88<td c>91<td c>93<td c>83
+</table>
+<i>D. la C.</i>
+</chapter>
+
+<chapter name="Fugtighedsmaaler">
+<b>Fugtighedsmaaler</b>, Apparat til
+Fugtighedsmaaling. Af de talrige Apparater, der er
+konstruerede til Maaling af Luftens Fugtighed, skal
+flg. beskrives noget nærmere, idet de er valgte
+som Eksempler paa Apparater, der kan
+benyttes ved de forsk. Arter af Fugtighedsmaaling
+(s. d.).
+
+<sp>Brunner's Aspirator</sp> (Fig. 1) tjener
+til Bestemmelse af Luftens absolutte Fugtighed.
+
+<img>Fig. 1.</img>
+
+Apparatet bestaar af to lukkede lige store
+Metalbeholdere, der kan drejes om en
+fastsiddende vandret Akse. Den paagældende Akse tjener
+tillige som Følge af nogle Gennemboringer som
+en Slags Tregangshane, idet den nederste
+Beholder altid gennem en Kanal <i>E F</i> er i
+Forbindelse med den ydre Luft og gennem Kanalen
+<i>D D<sup>1</sup></i> er i Forbindelse med den øverste
+Beholder, hvilken atter gennem Røret <i>C</i> resp. <i>C<sup>1</sup></i> og
+en Gennemboring gennem Akslen er i
+Forbindelse med Tuden <i>B</i>. Til Tuden <i>B</i> er ved Hjælp
+af en Gummislange sluttet Forbindelse med et
+System af Tørrerør — sædvanligvis 3 — hvoraf
+Røret nærmest <i>B</i> tjener til at forhindre, at
+Fugtigheden fra Beholderne gaar over i det
+Tørrerør, der skal bruges til selve Maalingerne, og det
+mellemste Tørrerør er en Sikkerhedsforanstaltning, 
+hvorved man kan overbevise sig om, at
+Tørremidlet i det første Rør er saa godt, at
+det kan udtørre den Luft fuldstændigt, som
+suges derigennem. Apparatet paafyldes en Gang
+for alle saa meget Vand, som den ene
+Beholder kan rumme. Henstaar Apparatet, vil
+Vandet være samlet i den nederste Beholder. Drejes
+nu Beholderen en halv Orng&ftg omkr. Aksen,
+saa den nederste Beholder kommer øverst og
+omvendt, vil Vandet, der saaledes er kommet
+op i den øverste Beholder, som det er vist paa
+Fig., løbe gennem Kanalen <i>D D<sup>1</sup></i> ned i den
+nederste Beholder, og derved vil der gennem
+Tørrerørene, Tuden <i>B</i> og Røret <i>C</i> suges en
+Luftmængde, der svarer til Beholderens Rumfang. 
+Maales Tørrerørets Vægtforøgelse i g,
+og kendes Beholderens Rumfang i m<sup>3</sup>, faas
+ved Division af disse to Størrelser en Angivelse
+af Luftens absolutte Fugtighed. Foretages
+Maalingerne i Taage ell. i en Sky, maa der foran
+Tørrerørene anbringes et Filter (som Regel en
+Uldpose) for at forhindre, at de smaa
+Vanddraaber, der findes i Luften, suges med ind i
+Tørrerørene. De Rumfangsændringer, som
+Luften undergaar ved at blive udtørret i
+Tørrerørene og atter mættet med Vanddamp i
+Aspiratorens Beholder, er uden praktisk Bet. ved
+Bestemmelsen af det undersøgte Volumen Luft.
+
+<sp>Daniell's Hygrometer</sp>. Daniell har
+konstrueret to ret udbredte F., hvoraf det
+simpleste (Fig. 2) bestaar af et paa et Stativ
+anbragt bøjet Glasrør, der i hver Ende er
+udblæst til en Kugle. Kuglen <i>A</i> er omtr. halvt
+fyldt med Æter, hvori Termometret <i>C</i> dypper
+ned. Paa et Stykke af <i>A</i>'s Overflade er
+Glasset forsølvet blankt. Kuglen <i>D</i> er som Regel
+ombundet med en Klud. Drypper man nu Æter
+paa Kuglen <i>D</i>, vil Æterens Fordampning fremkalde en
+Afkøling, der atter vil bevirke, at der
+damper noget Æter fra Kuglen <i>A</i> til <i>D</i>.
+Fordampningen i Kuglen <i>A</i> vil medføre en Afkøling ogsaa
+af denne Kugle, og naar dens Temp. er blevet 
+tilstrækkelig lav, vil Luftens Vanddamp »slaa sig« 
+paa Kuglens Overflade. Dette ses lettest paa den 
+blanke Sølvbelægning, idet den øverste og nederste
+Del af denne faar forsk. Udseende, og den
+Temp., der aflæses paa Termometeret C, naar
+Dugbeslaget begynder, er det søgte Dugpunkt.
+
+<sp>Volumenhygrometre</sp> bestaar i
+Hovedsagen af en Beholder, der med en
+Luftpumpe kan ventileres og fyldes med den Luft,
+der skal undersøges. I Beholderen er anbragt
+et Termometer og et Manometer. Endvidere
+findes der et med et Udtørringsstof (Svovlsyre
+e. l.) forsynet Siderum, der kan afspærres
+fuldstændigt fra Hovedbehollderen. Aabnes til dette,
+vil Luften i Apparatet udtørres, og Trykfaldet
+er det søgte Damptryk.
+
+<sp>August's Psykrometer</sp> (Fig. 3)
+bestaar af to Termometre og en Vandbeholder
+paa et fælles Stativ. Vandbeholderen er aaben
+
+<img>Fig. 2.</img>

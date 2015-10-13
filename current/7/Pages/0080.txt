@@ -1,0 +1,138 @@
+periodiske Bevægelser. Men det er ikke lykkedes
+E. at give en tilfredsstillende Forklaring af de
+talrige Tilfælde af ikke normal Zeeman-Effekt,
+hvor Spektrallinierne i Magnetfeltet spaltes i et
+større Antal ny Komponenter end 3. Langt
+mindre er det lykkedes E. at finde en Atommodel,
+som forklarer blot det simpleste kendte
+Liniespektrum, Brintens, ell. nogen af de Love, som
+behersker de simplere Spektre, og der er Grund
+til at tro, at det overhovedet ikke er muligt uden
+at forlade E.'s Grundlag. Derimod har E.
+vigtige Resultater at opvise ved Behandlingen af
+Stoffernes Absorption og Dispersion, de
+Fænomener, der voldte Maxwell's Teori
+Vanskeligheder. Absorptionen opfattes som et
+Resonansfænomen. Da Lyset er elektromagnetiske
+Svingninger, vil den elektriske Kraft i en Lysbølge,
+der passerer et absorberende Stof, under
+Gennemgangen bringe Elektronerne i Stoffets
+Atomer til at svinge med, hvorved Lysbølgens
+Energi absorberes. Enhver Elektron har en
+Egensvingningstid bestemt ved den Kraft, der
+fastholder den til dens Ligevægtsstilling; denne
+Kraft maa være proportional med
+Elektronens Afstand fra Ligevægtsstillingen og rettet
+mod denne; da den saaledes ligner de Kræfter,
+der opstaar, naar et Legeme underkastes
+elastiske Deformationer, kaldes den oftest den
+kvasielastiske Kraft. Tillige maa man i de fleste
+Tilfælde antage, at Elektronerne under deres
+Svingninger paavirkes af en Dæmpnimgskraft, der
+ligesom Gnidningsmodstanden i Vædsker er
+proportional med Elektronens Hastighed og maa
+omsætte dennes Bevægelsesenergi til andre
+Energiformer, f. Eks. til Varme. Har det
+indfaldende Lys nu meget nær samme
+Svingningstid som Elektronerne, saa at der er næsten
+fuldstændig Resonans, og er deres Svingninger ikke
+for stærkt dæmpede, kommer de i meget
+stærke Medsvingninger, saa at Lyset absorberes
+allerede i ganske tynde Lag af Stoffet; paa denne
+Maade opstaar de skarpe Absorptionslinier. Er
+der derimod større Forskel paa Lysets og
+Elektronernes Svingningstider, saa at Resonansen
+ikke er saa fuldkommen, bliver Absorptionen i
+Reglen svag, men Elektronerne faar Indflydelse
+paa Lysets Forplantningshastighed gennem
+Stoffet, d. v. s. paa Stoffets Brydningsforhold for
+den paagældende Farve. De teoretiske
+Resultater, man derved kommer til ang.
+Brydningsforholdets Variation med Farven, passer
+særdeles godt med Eksperimenterne (se
+<sp>Dispersion</sp>). Er Dæmpningen større, bliver
+Resonansstedet i Spektret ikke saa udpræget, d. v.
+s., at Absorptionen strækker sig over et større
+Omraade af Spektret, saa at Absorptionslinien
+bliver mindre skarp. Om Dæmpningens Natur
+har man gjort sig forsk. Forestillinger; <sp>Planck</sp>
+har særlig henvist til, at der kommer en
+Dæmpning p. Gr. a. Lysudstraalingen fra de
+svingende Elektroner, men denne er ikke
+tilstrækkelig i alle Tilfælde; <sp>Lorentz</sp> mener,
+at der vil fremkomme en tilsyneladende
+Dæmpning i hvert Fald i Luftarter ved Sammenstød
+mellem Luftmolekylerne, hvorved deres
+Elektroners Svingninger sagtens vil forstyrres
+fuldkomment og gaa over til uordnet
+Varmebevægelse, saa at Elektronernes Svingninger maa
+begynde forfra. - E.'s Behandling af Absorption
+og Dispersion som Resonansfænomener bygger
+videre paa ældre Teorier af <sp>Sellmeyer</sp>,
+<sp>Helmholtz</sp> o. a., der antog, at Partikler i
+Atomerne kom i Medsvingninger under Lysets
+Gennemgang; E. tilføjer kun, at disse Partikler
+er Elektroner. Men trods udmærket
+Overensstemmelse med Erfaringen har E. ogsaa paa
+dette Felt store uovervundne Vanskeligheder;
+saaledes kan det store Antal Elektroner, som
+den maa kræve i Atomerne for at forklare de
+linierige Spektre, ikke forenes med andre
+Bestemmelser af Elektrontallet. Det er ved at blive
+den alm. Opfattelse, at i Virkeligheden ingen af
+de optiske Fænomener, over for hvilke E. har
+været anvendt, helt kan finde deres
+Forklaring, uden at E.'s Grundlag forlades.
+
+<sp>Metallernes E</sp>. Anvendelse af E. paa
+Metallerne opviser betydningsfulde Resultater.
+For at forklare Metallernes særlige Egenskaber,
+hvoraf de mest karakteristiske er deres store
+elektriske Ledningsevne og Varmeledningsevne,
+maa E. antage, at det er ejendommeligt for den
+metalliske Tilstand, at der mellem Metallernes
+Atomer findes et Antal <sp>fri Elektroner</sp>,
+og at det er dem, der besørger baade
+Transporten af Varme og Elektricitet, naar der i
+Metallet hersker henh. et Temperaturfald ell.
+et elektrisk Felt (et Spændingsfald). De maa
+sagtens antages at afgives spontant (ved en Art
+Dissociation) fra Metallets Atomer. I et Stykke
+Metal, der overalt har samme Temp., og ikke er
+underkastet elektriske Kræfter, bevæger de sig
+frit i retlinede Baner mellem Atomerne, men
+støder ofte sammen med disse. Ved saadanne
+Sammenstød vil Elektronerne i Reglen kastes
+tilbage, men kan maaske undertiden optages af
+Atomerne (blive bundne), idet der da afgives
+andre Elektroner. Indbyrdes Sammenstød
+mellem Elektronerne (som <sp>Drude</sp> alene tager i
+Betragtning) vil næppe have megen Bet., da
+Antallet af fri Elektroner af mange Grunde maa
+være meget mindre end Antallet af Atomer.
+
+E.'s Fremskridt ved Anvendelsen paa
+Metallerne skyldes for største Delen Overføring af
+Betragtninger fra Luftarternes kinetiske Teori
+(Anvendelse af den statiske Mekanik) paa de
+fri Elektroners Bevægelse, der jo frembyder
+megen Analogi med Luftmolekylernes
+Bevægelse. (I denne Bet. har man derfor undertiden
+talt om en »Elektrongas«, som udfyldte
+Mellemrummene mellem Metalatomerne). Saaledes maa
+man antage, at Elektronerne ved samme
+Temperatur ikke alle har samme Hastighed, men at
+Hastighederne er fordelt om en Middelværdi
+efter Maxwell's Hastighedsfordelingslov, ligesom
+for Luftmolekyler. Denne Middelværdi maa have
+en saadan Størrelse, at for det første
+Elektronernes gennemsnitlige levende Kraft <sp>kun</sp>
+afhænger af Metallets Temp. (Denne er jo
+bestemt ved den gennemsnitlige levende Kraft af
+de Svingninger (»Varmebevægelsen«), som selve
+Metalatomerne udfører om de Stillinger, hvortil
+de fastholdes i Metallet). Videre maa
+Elektronernes gennemsnitlige levende Kraft ved
+enhver Temperatur netop være den samme som
+for et Luftmolekyle ved samme Temp., og dette
+maa ogsaa gælde for Metalatomernes levende

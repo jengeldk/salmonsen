@@ -1,0 +1,153 @@
+»Indsugningsevne« for elektromagnetiske Bølger, men som i
+andre Henseender frembyder store Fordele.
+Størst Bet. i saa Henseende har
+Rammeantennen faaet. Denne bestaar (se Fig. 45) af en flad
+Traadrulle, der anbringes drejelig om en lodret
+Akse, som befinder sig i Rullens Plan. Medens
+de alm., aabne Antenner modtager lige kraftigt,
+hvilken Retning end Bølgerne kommer fra, saa
+vil Rammeantennen derimod have udprægede
+Retningsegenskaber. Den vil saaledes slet ikke
+paavirkes af Bølger, hvis Bevægelsesretning er
+vinkelret paa Rammens Plan, medens den vil
+have sin maksimale Modtagelighed, naar
+Bølgernes Bevægelsesretning falder i Rammens Plan.
+Man indser let Rigtigheden heraf, naar man
+tænker sig Bølgens Paavirkning af Antennen
+frembragt af Bølgens magnetiske Felt, hvis
+Retning er vandret og vinkelret paa Bølgernes
+Bevægelsesretning. Disse Forhold er fremstillet
+skematisk i Fig. 45. Fordelen ved Rammeantennen
+er ikke alene dens Billighed, men ogsaa netop
+dens Retningsegenskaber, der dels bevirker, at
+uvedkommende Bølger — hidrørende fra andre
+Stationer ell. fra atmosfæriske Forstyrrelser —
+hvis Bevægelsesretning ikke falder sammen
+med den modtagne Bølges, i mindre Grad —
+og naar Retningen er vinkelret paa den
+modtagne Bølges slet ikke — forstyrrer
+Modtagelsen, end de vilde gøre paa en aaben Antenne,
+saaledes at Forholdet mellem Signalernes
+Styrke og Forstyrrelsens Styrke bliver større for
+Rammen end for den aabne Antenne. Det er
+i Hovedsagen dette Forhold, det kommer an
+paa; den absolutte Styrke kan man bekvemt
+forøge ved Forstærkning. Ved særlige Former
+for Modtagerantenner kan man bringe det
+nævnte Forhold mellem Signalernes og
+Forstyrrelsernes Styrke endnu højere op.
+
+Endelig bevirker Rammeantennens
+Retningsejendommelighed, at den kan benyttes til at
+bestemme Bølgernes Bevægelsesretning paa det
+paagældende Sted. For saa vidt denne
+Bevægelsesretning ikke er forstyrret af lokale
+Forhold, som f. Eks. Tilstedeværelsen af større
+Metalmasser, af elektriske Ledninger, af stærke
+Uregelmæssigheder i Jordoverfladens Form ell.
+Beskaffenhed m. m., saa vil den nævnte
+Retning ogsaa angive den Retning, hvori
+Afsenderstationen befinder sig. Saadanne
+Retningsbestemmelser kan derfor, anvendt med fornøden
+Forsigtighed, tjene til radiotelegrafisk
+Stedsbestemmelse for bevægelige Stationer som
+Skibe og Flyvemaskiner. Denne Anvendelse spiller
+allerede nu en betydelig, Rolle og vil uden Tvivl
+fremtidig faa en meget stor Bet., men den
+tekn. Udførelse har næppe endnu naaet sin
+endelige Form. Een stor principiel Vanskelighed
+frembyder Problemet, idet Bølgernes Retning til
+en vis Grad ogsaa er afhængig af Atmosfærens
+vekslende Tilstand.
+<i>P. O. P.</i>
+</chapter>
+
+<chapter name="Radiotelegrafkonventionen">
+<b>Radiotelegrafkonventionen</b> er en under
+3. Novbr 1906 i Berlin afsluttet Konvention
+imellem 26 Stater vedrørende fælles Regler for
+Oprettelse og Betjening af Radiotelegrafstationer
+paa Kyster og paa Skibe. Staterne har
+forpligtet sig til at indrette de traadløse
+Telegrafstationer saaledes, at der kan benyttes forsk.
+tekniske Systemer ved Telegrambefordringen.
+Enkelte Stater, bl. hvilke Danmark, har ikke frasagt
+sig Ret til at oprette enkelte
+Kystradiotelegrafstationer, der skal være undtagne fra denne
+Forpligtelse. Staterne har forpligtet sig til at
+bringe deres Lovgivning i Overensstemmelse
+med R. Dette er for Danmarks Vedk. sket ved
+Lov Nr 99 af 19. Apr. 1907, suppleret ved Lov
+Nr 166 af 1. Maj 1923 om traadløse Telefoner.
+De alm. Regler for international
+Telegrafkorrespondance kommer til Anvendelse paa
+Radio-Telegrafering med enkelte Undtagelser
+omfattende spc. Behandling af Telegrammer, som
+iflg. Forholdets Natur er udelukket ved
+Radiotelegrafering. Telegrafadministrationernes
+internationale Bureau i Bern omfatter nu ogsaa
+Rsdio-Telegrafering. R. traadte i Kraft 1. Juli
+1908 og kan opsiges med samme Varsel som
+Telegrafkonventionen af 1875. R., der sidst er
+bleven revideret ved en international Konference
+i London 1912, er nu saa lidet tidssvarende, at
+en Revision er nødvendig. Den tekniske
+Udvikling har medført, at væsentlige Bestemmelser er
+ganske forældede (bl. a. Bølgelængdernes
+Fordeling), og det kan derfor ventes, at der ved en
+ny Konference, der efter foreløbig Bestemmelse
+skal afholdes i Washington, vil blive foretaget
+en Revision, hvis Gennemførelse vil være af
+Interesse ikke »alene for
+Telegrafadministrationerne, men tillige for de Erhverv og teknisk
+interesserede, som benytter Radiotelegrafi- og
+-telefoni i Erhvervs- eller teknisk Øjemed.
+<i>M. G.</i>
+</chapter>
+
+<chapter name="Radiotelegrafstationer">
+<b>Radiotelegrafstationer</b> er dels
+Kystradiostationer, dels Korrespondanceradiostationer. Af
+Kystradiostationerne i Danmark er Blaavand
+Radio, Kbhvn's Radio og Thorshavn. Radio paa
+Færøerne aabne for offentlig Korrespondance
+med Skibe i Søen; desuden findes der 14
+Kyststationer, henhørende dels under Statsbanerne,
+dels under Fyrvæsenet, der virker til disse
+Etaters særlige Formaal.
+
+Som dansk Korrespondancestation virker
+Lyngby Radio, der arbejder med tilsvarende
+Stationer i Schweiz, Polen og Estland og i det
+hele kan benyttes til europæisk Korrespondance.
+Nogen transatlantisk Radiostation findes endnu
+ikke i Danmark, hvilket i nogen Grad staar i
+Forbindelse med, at der har været
+tilfredsstillende Kabelforbindelser til Raadighed. En
+desangaaende nedsat Kommission har undersøgt
+Forholdene i andre Lande og udtalt sig for
+Bygning af en saadan Station; Staten har
+imidlertid valgt at stille sig afventende af Hensyn
+til saavel Radiotelegrafiens som
+Telegrafsamkvemmets Udvikling.
+<i>M. G.</i>
+
+I <sp>Norge</sp> findes Kystradiostationer paa
+Tjømø, Flekkerøy, Utsire, Bergen, Fauske,
+Røst, Sørvaagen, Ingøy og Spitsbergen. Af
+Korrespondanceradiostationer haves: Oslo
+Radio, der staar i Forbindelse med Stationer i
+England, Tyskland, Polen, Finland og Rusland;
+Stavanger Radio staar i Forbindelse med Nord-,
+Mellem- og Sydamerika; Ingøy Radio formidler
+Telegramtrafiken til Spitsbergen. Der er
+planlagt Anlæg af Stationer i Trondhjem, Tromsø og
+Vardø.
+<i>M. H.</i>
+</chapter>
+
+<chapter name="Radioterapi">
+<b>Radioterapi,</b> se <sp>Radiumbehandling</sp>
+og <sp>Røntgenbehandling</sp>.
+</chapter>
+

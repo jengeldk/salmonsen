@@ -1,0 +1,50 @@
+<img>De dyregeografiske Regioner efter Wallace</img>
+
+<table>
+<td 2 c>Palæarktiske Region
+<td>Europæisk<td>Subregion
+<td>Mediterrane<td c>„
+<td>Sibiriske<td c>„
+<td>Mandshuriske<td c>„
+</table>
+
+<table>
+<td 2 c>Nearktiske Region
+<td>Kanadiske<td>Subregion
+<td>Kaliforniske<td c>„
+<td>Rocky-Mountains<td c>„
+<td>Alleghany<td c>„
+</table>
+
+<table>
+<td 2 c>Neotropiske Region
+<td>Vestindiske<td>Subregion
+<td>Meksikanske<td c>„
+<td>Brasilianske<td c>„
+<td>Patagoniske<td c>„
+</table>
+
+<table>
+<td 2 c>Æthropiske Region
+<td>Østafrikanske<td>Subregion
+<td>Vestafrikanske<td c>„
+<td>Sydafrikanske<td c>„
+<td>Malasassiske<td c>„
+</table>
+
+<table>
+<td 2 c>Orientalske Region
+<td>Forindiske<td>Subregion
+<td>Sydindiske<td c>„
+<td>Bagindiske<td c>„
+<td>Malajiske<td c>„
+</table>
+
+<table>
+<td 2 c>Australske Region
+<td>Polynesiske<td>Subregion
+<td>Austromalajiske<td c>„
+<td>Australske<td c>„
+<td>Ny Zeelandske<td c>„
+</table>
+

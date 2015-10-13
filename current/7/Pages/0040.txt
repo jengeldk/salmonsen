@@ -1,0 +1,106 @@
+Traaden i 10-Lys Lampe til 220 Volt er
+omtr. 0,01 mm i Diameter. Den elektriske
+Modstand er i kold Tilstand c. 7 Gange mindre, end
+naar Traaden gløder. Lige i det Øjeblik,
+Lampen tændes, er Strømmen følgelig c. 7 Gange
+større end normalt. Temperaturen af
+Wolframtraaden er c. 2300° C. ved et
+Elektricitetsforbrug af 1 Watt pr Lys. Lysstyrken kan regnes
+at aftage 10 % i 1000 Brændetimer. Lamperne
+kan brænde 2000 Timer ell. mere.
+
+Ved Lamper af den i Fig. 13 (17) viste alm.
+Form er Lysstyrken størst i vandret Retning
+(vinkelret paa Traaden), og det er i Reglen
+denne Lysstyrke, der menes, naar intet andet siges.
+Middellysstyrken i alle Rummets Retninger er c.
+80 % af den maksimale Lysstyrke. Man kan
+give Traaden en saadan Form, at Lysstyrken er
+størst i nedadgaaende Retning. Overhovedet vil
+Lysstyrken i en ell. anden Retning praktisk
+talt være proportional med Længden af
+Traadens Projektion paa en Plan vinkelret paa denne
+Retning. En cirkelbøjet Traad vil vinkelret
+paa Traadens Plan have en Lysstyrke, der
+forholder sig til Lysstyrken i Traadens Plan
+som π: 2. De enkelte Traade i en Lampe
+skygger ikke kendeligt for hinanden, da de er saa
+tynde og ikke kan være helt parallelle; derimod
+vil Rrydning i Glasstøtten give nogle
+ejendommelige lyse Striber paa et Stykke Papir, som
+holdes i Nærheden af en alm. Metaltraadslampe.
+
+Metaltraadslampen flimrer kendeligt ved
+Vekselstrøm, desto mere, jo tyndere Traaden
+er. En 10-Lys Lampe til 220 Volt vil ved 50
+Perioder pr Sekund 100 Gange i Sek. være nede
+paa c. 7 Lys og 100 Gange i Sek. være oppe
+paa c. 13 Lys.
+
+<sp>Bekostningen ved Glødelys</sp>
+beregnes saaledes som vist med et Taleksempel:
+
+1 Stk. 16-Lys Metaltraadslampe bruger c. 18
+Watt. I 1000 Brændetimer er Forbruget 18000
+Watttimer ell. 18 Kilowatttimer. Med en
+Strømpris af 40 Øre pr Kilowatttime koster
+Strømforbruget 7 Kr. 20 Øre. Hertil maa dog lægges
+Prisen for Lampefornyelsen. Regner man, at en
+Lampe koster 1 Kr. 60 Øre og kan brænde
+i 2000 Timer, beløber Lampefornyelsen sig til
+80 Øre i 1000 Timer. Den hele Udgift er da
+7 Kr. 20 Øre + 80 Øre = 8 Kr. i 1000 Timer
+ell. 0,8 Øre i Timen.
+
+<sp>Metaltraadslamper med
+Kvælstoffyldning</sp>. Medens man ved
+almindelige Lamper pumper Beholderen lufttom,
+hvorved opnaas, at der praktisk talt ingen Varme
+tabes ved Ledning, har man ved Forsøg, udførte
+paa General Electric Co. i Nordamerika, fundet,
+at det i visse Tilfælde er en Fordel at fylde
+Beholderen med Kvælstof. Tilstedeværelsen af
+Kvælstof af c. 2/3 Atm. Tryk formindsker
+nemlig i betydelig Grad Overføringen af
+Metalpartikler fra Traaden til Glasset, naar Traaden
+ikke er for tynd. Det er derved blevet muligt at
+sætte Temperaturen væsentlig op. Varmetabet
+gennem Luften vokser med c. 1,5te Potens af
+Temp., hvorimod Straalingen vokser med c.
+4,7de Potens af Temp., saa at Gevinsten ved den
+forøgede Udstraaling kan mere end dække det
+hele Tab ved Ledning, naar Temp. er
+tilstrækkelig forhøjet. Glødetraaden i saadanne Lamper
+er viklet i en meget tæt Spiral, som flygtig set
+ser ud som en kort, c. 1 mm tyk Traad. Fig.
+14 viser en saadan Lampe. For Lamper med
+Kvælstoffyldning af en Lysstyrke paa 500 Lys
+og derover (der er Lamper paa indtil 3000 Lys)
+er Elektricitetsforbruget nede paa c. 1/2 Watt
+pr Lys, naar der regnes med den hemisfæriske
+Lysstyrke, ell. c. 0,65 Watt pr Lys for den
+sfæriske Lysstyrke. Disse Lamper konkurrerer
+nærmest med Buelamper, som snart vil blive
+overflødige til alm. Belysning. Til
+Lysbilledapparater har man kvælstoffyldte Lamper af
+særlig Form. (<sp>Litt</sp>.: <sp>N. L. Müller</sp>,
+»Metalldrahtlampen« [Halle 1914]).
+
+<sp>Nernstlamper</sp>. Fig. 15 viser et Snit
+gennem en Nernstlampe, idet dog det nederste
+af Glasbeholderen mangler. Naar Kontakten
+sluttes, gaar Strømmen fra Soklens
+Bundflade gennem Ankeret <i>A</i> over en Kontakt til
+Forvarmeren <i>gg</i>, som er et Porcelænsrør med
+en Bevikling af meget tynd Platintraad, og
+videre til Soklens Skruering, hvorimod
+Strømmen foreløbig ikke kan gaa ad den anden
+Strømvej gennem Lampen, nemlig gennem
+Beviklingen af den i Soklen indbyggede
+Elektromagnet, en Forlagsmodstand og selve Lysgiveren,
+Glødestiften <i>M</i>. Strømmen i
+
+<img>Fig. 14. Glødelampe med Kvælstoffyldning.</img>
+
+<img>Fig. 15 Nernstlampe.</img>
+

@@ -1,0 +1,158 @@
+Bekendtgørelse Nr. 145 af 9. Septbr 1903. Ifølge
+de nævnte Love meddeles Tilladelse til at være
+U. kun til uberygtede myndige Personer, som
+er bosat her i Landet og — medmindre
+Justitsministeriet gør Undtagelse herfra — har haft
+fast Ophold her i de sidste 5 Aar. Tilladelsen
+meddeles, for saa vidt der er Tale om direkte
+Befordring af Udvandrere fra danske Havne, af
+Justitsministeriet, medens derimod
+Politimesteren paa vedkommendes Bopæl er beføjet til at
+udfærdige Tilladelse, for saa vidt angaar
+Befordring af Udvandrere over fremmede Havne.
+I begge Tilfælde kan saadan Sikkerhedsstillelse
+kræves, som skønnes nødvendig til
+Udvandrerens Betryggelse. Personer, der ønskes
+godkendt som Fuldmægtige for U., skal opfylde de
+samme Betingelser som U.; Godkendelsen
+meddeles af vedkommende Politimester.
+<i>H. J.</i>
+</chapter>
+
+<chapter name="Udvarhely">
+<b>Udvarhely</b> ['udvårhæj], se <sp>Odorhei</sp>.
+</chapter>
+
+<chapter name="Udvarmning">
+<b>Udvarmning,</b> samme Proces som
+Udglødning, naar Temperaturen er under Glødhede.
+<i>E. Su.</i>
+</chapter>
+
+<chapter name="Udvaskning">
+<b>Udvaskning,</b> den Fremgangsmaade ved
+hvilken man befrier et fast Stof for de sidste Rester
+af en dermed blandet Vædske, af hvilken
+største Delen er fjernet ved Filtrering eller
+Slemning. Til U. anvendes en Vædske, der kan
+blande sig med den, som skal fjernes, og holde de
+i denne muligt opløste Stoffer i Opløsning,
+samtidig med at den saa vidt muligt er uden
+Indvirkning paa det faste Stof. Man anvender
+saaledes en U. (<sp>Dækning</sp>) for at fjerne
+Siruppen fra Sukkerkrystaller, idet man som
+Vaskevædske bruger en ren Sukkeropløsning eller en
+ringe Mængde Vand, men Vaskevædsken maa i
+øvrigt i hvert enkelt Tilfælde vælges med de
+foreliggende Forhold for Øje. Smlg. ogsaa:
+<sp>filtrere</sp>.
+<i>K. M.</i>
+</chapter>
+
+<chapter name="udveksle">
+<b>udveksle,</b> forandre en Maskines Gang, saa
+at den gaar enten hurtigere eller langsommere.
+For Drejerbænkens Ledeskrue sker dette ved
+passende Valg af <sp>Vekselhjul</sp>, hvoraf hver
+Bænk har et Sæt, enten et løst Sæt eller et Sæt
+indbygget i en Kasse (Nortonkasse); for samme
+Maskines Spindel sker dette ved det under
+<sp>Drejemaskine</sp>, Fig. 2, viste <sp>Hjulværk</sp>
+(Udvekslingen), der er i Forbindelse med en
+Trappeskive. Ved et Sæt Trappeskiver alene kan
+man ogsaa u. I videre Forstand kan Udrykning,
+Indrykning og Omstyring — alle tre forklarede
+under <sp>Udrykker</sp> — opfattes som
+Udvekslinger.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Udveksling">
+<b>Udveksling,</b> to sammenarbejdende Tandhjul
+eller det at udveksle. Den i Drejerbænkens
+Spindeldæk liggende Tandhjulsoverføring med
+Trappeskive og Spindel.
+<i>(F. W.). D. H. B.</i>
+</chapter>
+
+<chapter name="Udvidelse ved Opvarmning">
+<b>Udvidelse</b> <sp>ved Opvarmning</sp>. De
+allerfleste Legemer bliver større, naar de opvarmes
+under konstant ydre Tryk. Ved U. af et fast
+Legeme beholder Legemet sin Form under
+Forudsætning af, at Temperaturen holdes ens
+overalt, og at Legemet ikke alene er homogent (ens
+i alle Punkter), men ogsaa isotropt (ens i alle
+Retninger, se <sp>isotropt</sp>). En Glasflaske f.
+Eks. vil ved Opvarmning udvide sig saaledes, at
+dens ydre og indre Maal forstørres i samme
+Forhold; Flaskens Hulrum vil derfor vokse
+netop lige saa meget som en Glasklump af samme
+Form og Størrelse. En Krystal, som ikke hører
+til det regulære System, vil derimod som Regel
+udvide sig ulige meget i forskellige Retninger
+og derfor ved Opvarmning forandre sin Form.
+For <sp>faste</sp> Legemer angives U.'s Størrelse
+gerne ved Forandringen i <sp>Længde</sp>. Man
+tildanner Legemet som en Stang og maaler dennes
+Længde nøjagtig ved en Række Temperaturer.
+Denne Længdemaaling kan ske paa forskellig
+Maade alt efter den Nøjagtighed, der ønskes;
+størst Nøjagtighed opnaas ved Anvendelse af
+Fizeau's Dilatometer, hvor Længdeforandringen
+maales ved Hjælp af Lysets Interferens. Et
+Stofs <sp>lineære
+Udvidelseskoefficient</sp> <i>a</i> ved en vis Temperatur <i>t</i>° C. defineres
+ved <i>l</i><sub>t</sub> = <i>l</i><sub>o</sub> (1 + <i>αt</i>), hvor <i>l</i><sub>o</sub> og <i>l</i><sub>t</sub> er Længden
+af en Stang af vedkommende Stof ved 0° og ved
+<i>t</i>°. Er altsaa <i>l</i><sub>o</sub> og <i>l</i><sub>t</sub> samt <i>t</i> maalt, kan <i>α</i>
+beregnes for enhver Temperatur. I Almindelighed
+er <i>α</i> ikke den samme ved alle Temperaturer
+(den vokser med Temperaturen); man sætter da
+<i>α</i> = <i>a</i> + <i>bt</i> og altsaa <sub><i>lt</i></sub> = <i>l</i><sub>o</sub> (1 + <i>at</i> + <i>bt</i><sup>2</sup>) og
+bestemmer da Konstanterne <i>a</i> og <i>b</i> af Forsøgene.
+<sp>Rumudvidelseskoefficienten</sp> <i>β</i>
+defineres ved <i>v</i><sub>t</sub> = <i>v</i><sub>o</sub> (1 + <i>βt</i>, hvor <i>v</i><sub>o</sub> og <i>v</i><sub>t</sub>
+betyder Legemets Rumfang henholdsvis ved 0° og
+ved <i>t</i>° C. For <sp>faste Legemer</sp> er <i>β</i> = 3 <i>α</i>.
+I Tabellen er anført den lineære
+Udvidelseskoefficient for en Del faste Stoffer ved 18° C. Til
+Tabellen er dog at bemærke, at Koefficienten
+kan variere stærkt med Stoffets mekaniske
+Behandling, saaledes at f. Eks. tynde Traade
+forholder sig ganske anderledes end de tykkere
+Traade, hvoraf de er trukket; ogsaa ganske
+smaa Urenheder har stor Indflydelse paa
+Koefficienten.
+
+Den lineære Udvidelseskoefficient er for:
+<table>
+<td>Aluminium<td>0,000022
+<td>Glas<td>0,000004-0,000009
+<td>Guld<td>0,000014
+<td>Jern<td>0,000011
+<td>Kobber<td>0,000016
+<td>Messing<td>0,000019
+<td>Nikkel<td>0,000013
+<td>Platin<td>0,000009
+<td>Sølv<td>0,000019
+<td>Zink<td>0,000029
+</table>
+
+Af Tabellen ses bl. a., at Platin har samme
+Udvidelseskoefficient som Glas; derfor har
+Platin fundet stor Anvendelse ved Indsmeltning af
+Elektroder o. l. i Glasrør, som f. Eks.
+Glødelamper, Geisslerrør, Elektronrør m. m. Denne
+Anvendelse har imidlertid tabt sig meget, efter
+at man har opdaget, at en Legering af Nikkel
+og Staal i passende Blandingsforhold ogsaa
+harsamme Udvidelseskoefficient som Glas (se
+<sp>Invar</sp>).
+
+Ved <sp>Vædsker</sp> har kun
+Rumudvidelseskoefficienten <i>β</i> Interesse. Den bestemmes ved
+almindelige Vægtfyldebestemmelser, idet <i>f</i><sub>t</sub> = <i>f</i><sub>o</sub> / 1 + <i>βt</i> ,
+hvor <i>f</i><sub>t</sub> og <i>f</i><sub>o</sub> er Vædskens Vægtfylde ved <i>t</i>° og
+ved 0° C. Den kan ogsaa bestemmes ved et
+Dilatometer, d. v. s. en Glasbeholder med en

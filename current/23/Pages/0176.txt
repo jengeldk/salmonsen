@@ -1,0 +1,97 @@
+er i den nyere Tid af Huntley og Mellet i
+Amerika bragt i en temmelig fuldkommen Form,
+der dog ingen praktisk Betydning har faaet, da
+Taleoverføring kun er mulig paa faa Hundrede
+Meter.
+
+I den <sp>elektriske</sp> T. omsættes
+Lydsvingningerne til elektriske Strømme, der kan ledes
+over betydelig større Afstand og derefter atter
+omsættes til Lyd. Paa temmelig primitiv Maade
+lykkedes denne Omsætning med et af Tyskeren
+Philipp Reis 1860
+konstrueret
+Apparat. En praktisk
+anvendelig T. er
+dog først angivet
+af Amerikaneren
+Graham Bell
+1876. Bell's T. fik efter forsk. Forsøg den i
+Fig. 1 viste Form, hvor <i>P</i> er en tynd
+Jernplade, <sp>Membran</sp>, udspændt foran
+Staalmagneten <i>NS</i>, hvis ene Pol er omgivet med en af
+mange Vindinger silkeisoleret Kobbertraad
+dannet Spole <i>D</i>. Gennem Klemskruerne <i>c</i> og <i>d</i>
+er Traadspolen forbundet med to
+Ledningstraade til et ganske lgn. Apparat paa
+Modtagerstationen. Taler man ind i Tragten <i>M</i>,
+sættes <i>P</i> af Lydbølgerne i svingende Bevægelse
+(500—1300 Svingninger i Sek.), hvorved
+Afstanden mellem Membran og Magnetpol varierer,
+hvilket atter foraarsager en Variation af det
+magnetiske Felt i Luftrummet mellem disse.
+Som Følge heraf induceres elektriske Strømme
+(se <sp>Induktion</sp>) i Traadspolen <i>D</i> og
+Forbindelsesledningerne til Modtagertelefonens
+Traadspole, hvis Elektromagnetisme i Takt
+med de ankommende Strømimpulser af
+vekslende Retning forstærker ell. svækker den
+permanente Magnets Tiltrækning af Jernpladen <i>P</i>
+og saaledes sætter denne i en ganske lignende
+Svingningstilstand som Afsendermembranen,
+hvorved Talen gengives. Bell's T. anvendes
+endnu i forbedret Form som Høretelefon
+(Modtager). Efter Forslag af Siemens (1878)
+benyttes nu altid en hesteskoformet Staalmagnet, saa
+at begge Poler (forsynet med Polsko af blødt
+Jern, hvorom Traadspolerne er lagt) vender
+mod Membranen. Fig. 2 viser en saadan
+<sp>topolet</sp> T. konstrueret af Ericsson i Sthlm. I
+en nyere Udførelsesform er en lille omtrent
+ringformet Magnet anbragt i en flad,
+cylindrisk Daase, hvis Laag dannes af Membranen
+(<sp>Daasetelefon</sp>). — T. gengiver alm. Tale
+klart og uden mærkbar Forvrængning.
+Lydstyrken er dog kun ringe, hvorfor Membranen
+maa holdes i kort Afstand fra Øret. I de
+seneste Aar er til specielt Brug konstrueret T.'er
+med kraftig Lydgengivelse, saakaldte
+»<sp>Højttalere</sp>« (se <sp>Magna vox</sp>). — Som
+Afsenderapparat er T. mindre egnet, da de af
+Membransvingningerne inducerede Strømme er
+svage og kun muliggør Taleoverføring paa faa
+km's Afstand. Forsk. Opfindere beskæftigede
+sig derfor straks efter T.'s Fremkomst med
+Fremstilling af bedre Afsenderapparater. Efter
+flere Forslag af
+Edison (<sp>Kultelefonen</sp> 1877), Berliner
+og andre fremkom
+Hughes 1878 med et
+Afsenderapparat, der
+p. Gr. a. sin meget
+store Følsomhed benævntes <sp>Mikrofonen</sp>.
+Princippet for denne fremgaar af Fig. 3. I et
+elektrisk Kredsløb fra det galvaniske Element <i>E</i>
+gennem Telefonen <i>T</i> er indskudt de løst paa
+hinanden hvilende Kulstænger (Retortkul) <i>b</i>
+og <i>c</i>. Saa længe Systemet er i Hvile, vil
+Strømmen gennem Telefonen være konstant og
+dennes Membran i Ro. Den letteste Bevægelse
+af Træpladen <i>A</i> (f. Eks. under Paavirkning af
+Lydsvingninger) vil foraarsage Rystelser og
+dermed Variation af den elektriske
+Overgangsmodstand ved Berøringsstederne mellem
+Kulstængerne. Strømmen i Kredsløbet vil derfor
+variere paa tilsvarende Maade og frembringe
+lgn. Svingninger af T.'s Membran. Mikrofonen
+er senere underkastet forsk. praktiske
+
+<img>Fig. 1.
+Bell's Telefon.</img>
+
+<img>Fig. 2.
+Ericsson's Telefon.</img>
+
+<img>Fig. 3. Mikrofonens Princip.</img>
+
+<img>Fig. 4. Kulkornsmikrofon.</img>

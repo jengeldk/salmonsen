@@ -1,0 +1,136 @@
+I <sp>Radiotelegrafien</sp> og -<sp>telefonien</sp>
+bevæger de elektromagnetiske Bølger sig fra
+Sender til Modtager uden anden Styring end
+den, der skyldes Jordens Overflade. Det er en
+<sp>traadløs</sp> Telegrafi og Telefoni. Men de
+radiotekniske Metoder og Hjælpemidler kan
+ogsaa benyttes paa den Maade, at de
+elektromagnetiske Bølger sendes ud langs med og styres
+af Ledningstraade, hvorved man opnaar
+<sp>Højfrekvenstelegrafi</sp> og -<sp>telefoni</sp>. Man
+kan paa denne Maade etablere et betydeligt
+Antal Telegraf- og Telefonstrømløb over een og
+samme Ledning, altsaa opnaa <sp>multipleks
+Telegrafi</sp> og <sp>Telefoni</sp> ved Hjælp af
+højfrekvente Bølger.
+
+I Overensstemmelse med det foregaaende
+deles den nærmere Omtale af Radioteknikken
+efter flg. Hovedafsnit:
+
+<sp>Svingningernes Egenskaber</sp>.
+
+<sp>Egensvingninger i en enkelt
+Kreds</sp>. Egensvingningeir kan kun opstaa i et
+elektrisk Strømløb, der indeholder <sp>baade</sp>
+Selvinduktion og Kapacitet, i en <sp>elektrisk
+Svingningskreds</sp>, se Fig. 1. Udladningen
+indledes ved en Gnistdannelse i <i>G</i>.
+Kondensatoren har til at begynde med Ladningen
+<i>Q<sub>0</sub> = C V<sub>0</sub></i>, hvor <i>V<sub>0</sub></i> er Kondensatorens
+Spænding. Udladningens Forløb bliver ganske forsk.,
+efter som <i>R<sup>2</sup></i> ≧ 4 L/C ell. <i>R<sup>2</sup></i> < 4 L/C.
+
+For <i>R<sup>2</sup></i> ≧ 4 L/C aftager Ladningen uden
+Svingninger jævnt mod Nul: Udladningen foregaar
+da <sp>aperiodisk</sp>, som vist i Fig. 2, hvor <i>q</i>
+betegner Kondensatorens Ladning og <i>i</i>
+Strømmen i Kredsen.
+
+For <i>R<sup>2</sup></i> ≤ 4 L/C foregaar Udladningen
+<sp>periodisk</sp>, idet Ladningen <i>q</i> og Strømmen <i>i</i> er
+bestemt ved
+<i>q</i> = <i>h/v</i> <i>Q<sub>0</sub>e<sup>—xt</sup> cos</i> (<i>vt</i>—φ) og <i>i</i> = — <i>h<sup>2</sup>/4 Q<sub>0</sub>e—xt sin vt</i>,
+hvor <sp>Dæmpningseksponent</sp> en <i>x</i> =
+R/2L, og <i>h</i> = 2πn = 1/√LC, samt <i>v</i> = 2πn<sup>1</sup> =
+√<i>h<sup>2</sup>—x<sup>2</sup></i> og <i>tg</i>φ = <i>x/v</i>. Her er <i>n</i> den
+<sp>naturlige Frekvens</sp> (<sp>Egenfrekvensen</sp>) og
+<i>h</i> den <sp>naturlige Vinkelfrekvens</sp> af
+den modstandsfri Kreds, <i>n</i><sup>1</sup> og <i>v</i> den tilsvarende
+<sp>Frekvens</sp> og <sp>Vinkelfrekvens</sp> af den
+virkelige Kreds med Modstand. Et Eksempel paa
+Svingningernes Forløb er vist i Fig. 3.
+
+For svagt dæmpede Kredse, d. v. s. Kredse,
+for hvilke det gælder, at <i>R<sup>2</sup></i> <<4 L/C ell. <i>x</i> << <i>h</i>,
+har man med stor Tilnærmelse, at <i>v</i> = <i>h</i>. De
+for Svingningerne karakteristiske Parametre
+har da følgende Værdier.
+
+Kredsens <sp>naturlige Frekvens</sp> = <i>n</i>
+= <i>n<sup>1</sup></i> = 1/2π √<i>LC</i>.
+
+
+Kredsens <sp>naturlige Periode</sp> =
+Varigheden af en hel Svingning (se Fig. 3) = τ =
+1/<i>n</i> = 2 π √<i>LC</i>.
+n
+
+<sp>Bølgelængden</sp> = den af de
+elektromagnetiske Bølger i Løbet af 1 Periode
+gennemløbne Vej = λ = τ · 3 X 10<sup>8</sup> m = 1/<i>n</i> · 3 X 10<sup>8</sup>
+m = 6π X 10<sup>8</sup> √<i>LC</i> m.
+
+<sp>Det logaritmiske Dekrement</sp> =
+den naturlige Logaritme af Forholdet <i>a1/a2</i>
+mellem to Strøm- ell. Ladningsværdier, der
+følger efter hinanden med en Periodes
+Mellemrum (se Fig. 3) = δ = xτ = π R √C/L.
+
+Kredsens Selektivitet — <i>S</i> = 2π/δ = 2/R √L/C.
+
+Som Regel karakteriseres en Svingning ved
+dens Biølgelængde λ ell. dens Frekvens <i>n</i> og
+ved dens Dekrement δ ell. Selektivitet <i>S</i>.
+
+Længden af de i Radioteknikken benyttede
+Bølger ligger t T. mellem λ = 10 m og λ
+= 30000 m.
+
+M. H. t. Dekrementets og Selektivitetens
+Indflydelse paa Svingningernes Forløb henvises til
+Fig. 4.
+
+Samlingen af de af en enkelt Udladning
+udløste Svingninger kaldes ofte et
+<sp>Svingningstog</sp>.
+
+<sp>Egen svingninger i koblede
+Kredse</sp>.
+
+Ved koblede, elektriske Svingningskredse
+forstaar man Kredse, der ad elektromagnetisk
+Vej er sat i en saadan indbyrdes Afhængighed,
+at Svingninger i en af Kredsene fremkalder
+Svingninger i den ell. de andre. I det flg.
+betragtes kun 2 koblede Kredse.
+
+Den Kreds, der for Udladningen indeholder
+den elektromagnetiske Energi, kaldes den
+<sp>primære</sp>, den anden den <sp>sekundære</sp>.
+
+Koblingen kan være <sp>indirekte</sp>, hvis de to
+Kredse ikke har nogen Del af Kredsløbet fælles,
+saaledes som i Fig. 5, I og II, ell. <sp>direkte</sp>,
+hvis dette derimod er Tilfældet, som i Fig. 5,
+III—V. Den indirekte Kobling kan være
+<sp>magnetisk</sp> ell. <sp>induktiv</sp>, som I, ell.
+<sp>elektrisk</sp>, som II. Den direkte Kobling kan
+være (III) <sp>Selvinduktions</sp>-, (IV)
+<sp>Modstands</sp>- ell. (V) <sp>Kapacitetskobling</sp>.
+IV betegnes hyppigt som <sp>galvanisk</sp> og V
+som <sp>elektrisk</sp> Kobling. Ofte benyttes
+Kombinationer af disse forsk. Koblingsarter.
+
+Som et Maal for Koblingens <sp>Fasthed</sp>
+benyttes <sp>Koblingskoefficienten</sp>, der
+for den magnetiske Kobling i Fig. 5 I har
+Værdien <i>k</i> = M/√L<sub>1</sub>L<sub>2</sub>. Koblingskoefficienten angives
+ofte i %, idet man for <i>k</i> = 0,11 siger, at
+Koblingen er 11 %. Jo mindre <i>k</i> er, desto
+<sp>løsere</sp> er Kohlingen.
+
+For to koblede Kredse med de naturlige
+Frekvenser <i>n<sub>1</sub></i> og <i>n<sub>2</sub></i> for Kredsene før Koblingen
+gælder i Alm., at en Udladning i den ene Kreds
+fremkalder to Svingninger med forsk. Frekvens,

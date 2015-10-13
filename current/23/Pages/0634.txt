@@ -1,0 +1,141 @@
+springende, da Ventilen kun virker ved
+Dybdeforandringer og ikke ved T.'s Hældning. For
+ogsaa at faa denne til at virke paa Roret,
+indførtes et Pendul i Mekanismen. Dette vil altid
+hænge lodret, og naar T. hælder, vil dennes
+Stilling til Pendulet straks foraarsage en
+Drejning af Roret, der modvirker Hældningen. Ved
+Samvirken mellem Ventil og Pendul vil T.'s
+Bane blive jævn i Dybden.
+
+Dybdemekanismen er ved en Stang i
+Forbindelse med Glideren i Rormaskinen, der
+arbejdder med Trykluft, og fra hvis Stempel der gaar
+en Stang bagud gennem T. og paavirker det
+vandrette Ror. Ved Hjælp af et
+<sp>Dybdeindstillingsapparat</sp>, der kan betjenes
+gennem T.'s Yderskal, indstilles den til at gaa i
+en bestemt til Maalets Dybgaaende passende
+Dybde. I det hemmelige Rum findes endvidere
+en <sp>Fylde</sp>- og <sp>Stopventil</sp> til Frafyldning
+af Luft i Luftkedlen samt Rør fra denne til
+<sp>Gangsætningsventilen</sp> i
+Maskinrummet. I Varmlufts-T. findes Petroleums- og
+Vandebholder ogsaa i dette Rum. Er T. forsynet
+med Sidefinner til Styring under Udskydningen,
+anbringes de over Samlingen af det hemmelige
+Rum og Maskinrummet.
+
+<sp>Maskinrummet</sp> danner den forreste Del
+af det sammenhængende Agterparti; det
+indeholder Drivmaskinen, den omtalte Rormaskine,
+de nødvendige Ventiler til Reduktion af
+Lufttrykket, Gangsætning af T. samt Sænkning af
+denne efter udløben Distance m. m. De ældre
+Drivmaskiner har 3, de nyeste 4 symmetrisk
+liggende Cylindre, hvis Stemplers Plejlstænger
+virker paa en fælles Krumtap, der driver
+Hovedakslen, som er hul og tjener til Afgang
+for Spildeluften. Hovedakslen gaar bagud
+gennem et Tunnelrør og driver to to- eller
+firebladede Skruer, der for ikke at give T. en
+Drejning gaar rundt i modsat Retning, idet den
+bageste sidder paa selve Hovedakslen, medens
+den forreste sidder paa en uden om denne
+liggende Røraksel, der drejes i modsat Retning
+ved et Sæt koniske Tandhjul. Luften passerer
+fra Luftbeholderen til Maskinen gennem den
+alt omtalte Stopventil, en
+<sp>Gangsætningsventil</sp> samt en <sp>Reduktionsventil</sp>.
+Skal T. udskydes, aabnes for Stopventilen,
+Gangsætningsventilen aabnes automatisk ved
+Udskydningen, men bringes ved et særligt
+Apparat først i Virksomhed, naar T. tager
+Vandet. Luften gaar derefter gennem
+Reduktionsventilen, hvor dens Tryk nedsættes til det
+for Maskinens Gang bestemte.
+Gangsætningsventilen er i Forbindelse med et
+<sp>Distanceapparat</sp>, der bevirker, at Ventilen lukkes,
+naar en vis Distance er udløben. Da T. skal
+kunne synke, naar den ikke rammer sit Maal,
+er den forsynet med en <sp>Sænkeventil</sp>, der
+ved en Vægtstang kan sættes i Forbindelse med
+Gangsætningsventilen paa en saadan Maade, at
+Sænkeventilen aabnes, naar
+Gangsætningsventilen lukkes af Distanceapparatet. Under
+Øvelsesskydning er Vægtstangen sat ud af
+Forbindelse, saa T. gaar op i Overfladen, naar
+Maskinen stopper. T. kan ved Distanceapparat og
+Reduktionsventil bringes til at gaa korte
+Distancer med høj Fart eller lange med
+reduceret Fart. Naar Lufttrykket reduceres fra
+Kedeltryk til Maskintryk, afkøles Luften stærkt
+og taber i Arbejdskraft; dette afværges i de
+nyeste T., de saakaldte Varmlufts T., ved at
+Luften opvarmes, ja endog mættes med Damp,
+forinden den naar ind i Drivmaskinen. Naar
+Gangsætningsventilen sættes i Virksomhed,
+strømmer Luften gennem en Opvarmer, ind i
+hvilken der strømmer fint fordelt Petroleum,
+der tændes ved en Tændemekanisme, samtidigt
+sprøjtes der fint fordelt Vand ind i
+Opvarmerens Afgangsrør, hvor det fordamper, inden det
+sammen med den opvarmede Luft naar ind i
+Maskinen. De forskellige Funktioner udføres
+ved Hjælp af Trykluften. Maskinrummets
+Fortsættelse er
+
+<sp>Agterrummet</sp>, der er næsten tomt, men
+nødvendigt af Hensyn til T.'s Form og Opdrift,
+det indeholder <sp>Sidestyreren</sp> og
+Akseltunnelen, og Rorstængerne gaar herigennem.
+Sidestyrerens Funktion er at styre T. i en ret
+Bane, som Regel bestemt ved
+Udskydningsapparatets Retning. Den bestaar af et Gyroskop og
+en Rormaskine, hvorigennem T.'s lodrette Ror
+paavirkes. Naar Gyroskopet er sat i Gang, vil
+dets Svinghjul beholde den Retning, det har
+ved Igangsætningen; drejer T. ud af denne, vil
+dens Bevægelse i Forhold til Gyroskopet
+paavirke Rormaskinen paa en saadan Maade, at
+det lodrette Ror vil modvirke Drejningen. Skal
+T. have en anden Retning i Vandet end
+Udskydningsapparatet, anvendes en
+Vinkelsidestyrer, der, efter at T. er kommet i Vandet, drejer
+den over i en Bane, der danner en vis, forud
+bestemt Vinkel med Udskydningsapparatets
+Akse.
+
+<sp>Halen</sp> danner den bageste Afslutning paa
+T.; den er paaskruet Agterrummets
+Bundstykke og bestaar af et <sp>Haleparti</sp> og et
+<sp>Rorparti</sp>, der er forbundet med
+Samlingslapper, efterladende et Hul mellem Partierne,
+i hvilket Drivskruerne er anbragt. Halepartiet
+bestaar af et Midterstykke og fire paanittede
+Haleflader, to lodrette og to vandrette. I
+Midterstykket findes de koniske Hjul, ved hvis Hjælp
+den forreste Drivskrue gaar i modsat Retning
+af den bageste. Rorpartiet danner en
+Fortsættelse af Halepartiet, paa dets øverste Flader er
+der Styreknaster til Styring af T. i
+Udskydningsapparatet. Paa de vandrette Rorfladers
+bageste Del sidder de vandrette Ror, der
+bevæges af Dybdemekanismens Rormaskine, og
+paa de lodrette sidder de lodrette Ror, som
+paavirkes af Sidestyrerens Rormaskine.
+
+<sp>Torpedoudskydningsapparater</sp>.
+Til at bringe T. i Vandet, hvor den, overladt
+til sig selv, gaar frem i en bestemt Dybde og
+Retning, anvendes Udskydningsapparater, der i
+Hovedsagen bestaar af et Rør, i hvilket T.
+hviler, og hvorfra den »pustes ud« ved Hjælp af
+komprimeret Luft eller Krudt. Der haves flere
+forskellige Slags, efter som Udskydningen skal
+foregaa under eller over Vandet, fra Stævnene
+eller fra Skibssiden. Nogle, saasom
+Stævnapparater og Sideundervandsapparater, er fast
+indbyggede i Skibet, medens andre er
+indrettede til at flyttes og drejes, hvorfor de ogsaa
+kaldes <sp>Torpedokanoner</sp>. Som Regel gives der

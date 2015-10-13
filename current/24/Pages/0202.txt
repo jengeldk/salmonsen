@@ -1,0 +1,160 @@
+at de Ideer, hvorfor han havde kæmpet, vilde
+naa frem til Sejr; han kaldte den da ogsaa selv
+sit politiske Testamente. (<sp>Litt</sp>.: »Norsk
+Forf.-Leks.«, VI; »Nordmænd i 19. Aarh.«, udg. ved
+<sp>G. Gran</sp> [Oslo 1902-03]).
+<i>(O. A. Ø.). Edv. B.</i>
+</chapter>
+
+<chapter name="Uelle">
+<b>Uelle,</b> se <sp>Ubangi</sp>.
+</chapter>
+
+<chapter name="Ueltzen, Hermann Wilhelm Franz">
+<b>Ueltzen</b> ['ølts<sub>ə</sub>n], <sp>Hermann
+Wilhelm Franz</sp>, tysk Teolog og Digter
+(1759—1808). Han har leveret Bidrag til
+»Musenalmanach« og »Deutsches Museum«, deriblandt den
+anonymt trykte Sang »Namen nennen Dich
+nicht«, som Samtiden tillagde Jean Paul eller
+Klopstock, og »Das Lied von der Ruhe«, som
+Beethoven har komponeret (Opus 32, Nr. 3).
+Hans samlede Digte udkom 1795 og 1796.
+<i>C. B-s.</i>
+</chapter>
+
+<chapter name="uendelig">
+<b>uendelig</b> (mat.). Hvis man i en ubegrænset
+
+Række Størrelser <i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, <i>a</i><sub>8</sub> ... <i>a</i><sub>n</sub> ... altid kan
+bestemme <i>n</i> saaledes, at <i>a</i><sub>n</sub> og alle de følgende
+Led er større end et forelagt Tal, hvor stort
+end dette er, siger man, at Størrelserne vokser
+
+<i>lim</i> <i>a</i><sub>n</sub> = ∞
+
+i det u., og skriver <sub>n = ∞</sub>, hvilket læses:
+Grænsen (limit) for <i>a</i><sub>n</sub>, naar <i>n</i> vokser i det u.,
+er u. Paa lignende Maade kan en ubegrænset
+Række Størrelser aftage til 0, og Størrelserne
+siges da at blive u. smaa. Saaledes vil Brøken
+1/<i>x</i>, naar <i>x</i> aftager til 0, vokse i det u., hvad
+man udtrykker ved at sætte 1/0, der ikke efter
+en Brøks Definition har nogen Værdi i
+Talrækken, = ∞. Naar man, for at komme til
+Længden af Cirkelperiferien, søger Grænsen for
+Omkredsen af en indskreven regulær Polygon, hvis
+Sideantal vokser i det u., vil Polygonsiden blive
+u. lille. Hvis to af hinanden afhængige
+Størrelser <i>A</i> og <i>B</i> samtidigt vokser i det u., og
+Forholdet A/B stadig er endeligt og forskelligt
+fra 0, siges <i>A</i> og <i>B</i> at være af samme
+Orden; er <i>A</i> af samme Orden som <i>B</i><sup>n</sup>, kalder
+kalder man <i>A</i> u. af <i>n</i>'te Orden i
+Sammenligning med <i>B</i>. I samme Betydning kan man
+bestemme u. smaa Størrelsers Orden i
+Sammenligning med hinanden. Behandlingen af
+de u. smaa Størrelser læres i Differential- og
+Integralregningen. Aftager i Ligningen <i>a</i><sub>0</sub><i>x</i><sup>n</sup> +
+<i>a</i><sub>1</sub><i>x</i> <sup>n-1</sup> + <i>a</i><sub>p-1</sub> <i>x</i><sup>n-p+1</sup> + <i>a</i><sub>n</sub> = 0
+Koefficienterne <i>a</i><sub>0</sub>, <i>a</i><sub>1</sub> . . . <i>a</i><sub>p-1</sub> til 0, vil <i>p</i> af
+Ligningens Rødder vokse i det u. Hvis Ligningen
+bestemmer Abscisserne til to Kurvers
+Skæringspunkter, bruger man Udtrykket, at <i>p</i>
+Skæringspunkter bliver u. fjerne; to parallelle Linier
+siges saaledes at have et u. fjernt
+Skæringspunkt. Ved to Figurer, der gaar over i
+hinanden ved homografisk Transformation, vil
+almindelig til to parallelle Linier i den ene Figur
+i den anden svare to Linier, der har et
+Skæringspunkt, og alle saadanne Skæringspunkter
+vil ligge i samme Plan; da der til en Plan i den
+ene Figur svarer en Plan i den anden, ledes
+man herved til at betragte Parallellernes u.
+fjerne Skæringspunkt som altid liggende i en
+bestemt Plan, den u. <sp>fjerne</sp>. G. Cantor har
+udvidet Begrebet Antal fra endelige Mængder
+(Samlinger af Genstande) til u. og er derved
+ledet til Opstillingen af de saakaldte
+<sp>transfinite</sp> (»uberendliche«) Tal, Symboler, som
+man kan sammenligne i Størrelse og regne
+med.
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="uendelig Dom">
+<b>uendelig Dom</b> kaldes efter gammel juridisk
+Sprogbrug Domme, som ikke er tilstrækkelig
+definitive i deres Affattelse, men som i Strid
+med Lovens Regel henskyder Afgørelsen af en
+Retstvist til senere følgende Beslutninger.
+<i>K. Hch.</i>
+</chapter>
+
+<chapter name="Uer">
+<b>Uer</b> er det norske Navn for Rødfisk (<i>Sebastes
+marinus</i>), se <sp>Panserkinder</sp>.
+</chapter>
+
+<chapter name="Uessan">
+<b>Uessan</b> [wæ-], By i Marokko, liggende paa
+Sebu-Dalens nordlige Skraaning, omtr. midtvejs
+mellem Floden og Ksar-el-Kbir; c. 10000 Indb.
+U. indtager en Særstilling som hellig By, idet
+det overvejende Antal af dens Indbyggere anses
+for at være Profetens Efterkommere; desuden
+er den Sæde for Ledelsen af det store, religiøse
+Broderskab Muley-Taib; som saadan har den
+ogsaa Asylret. Dette Broderskab, der er
+udbredt over hele Nordafrika, og hvis
+Medlemstal angives til 3 Mill., stiftedes i 17.
+Aarhundrede af Muley-Abdallah ben Brahim, hvis
+Gravmoské ogsaa findes her. Broderskabets Leder,
+der kaldes Sherif, udøver stor Indflydelse; han
+har en selvstændig, staaende Hær, og den
+marokkanske Sultan opnaar først almindelig
+Anerkendelse efter at have modtaget Sheriffens
+Investitur. I 19. Aarhundrede har Lederne af
+dette Broderskab, i stærk Modsætning til de
+andre afrikanske Ordeners kulturfjendtlige
+Karakter, ladet sig paavirke af europæisk
+Indflydelse og har i politisk Henseende søgt
+Tilslutning til Frankrig.
+<i>J. Ø.</i>
+</chapter>
+
+<chapter name="Uexküll-Güllenband, Ida, f. Aalberg">
+<b>Uexküll-Güllenband</b>
+['jukskju£-'gju£<sub>ə</sub>n-b<sub>ə</sub>nt?], <sp>Ida</sp>, f. <sp>Aalberg</sp>, finsk Skuespillerinde,
+f. 3. December 1858 i Janakkala Sogn, d.
+18. Januar 1915 i Petrograd. U., som altid
+optraadte under sit Pigenavn, begyndte 1874
+sit omflakkende Kunstnerliv paa det finske
+Teater i Helsingfors, men blev senere under
+Marie Seebach's Vejledning tysk
+Skuespillerinde og optraadte bl. a. som Ibsen's Nora og
+Shakespeare's Julie paa østerrig-ungarske og
+russiske Scener. 1885 var hun svensk Gæst i
+Fyrstinde Zilah's Rolle paa Casino i Kbhvn,
+senere spillede hun bl. a. Aase i »Per Gynt«
+paa Dagmarteatret, hvor hun var fast
+engageret 1886—87. I Halvfemserne tilhørte hun
+Stockholms Teatre, optraadte siden igen i Tyskland
+og spillede Decbr 1904 med tysk Selskab
+Hovedrollerne i »Hedda Gabler«, »Rosmersholm«
+og »Onkel Vanja« paa Folketeatret i Kbhvn.
+U. var en meget energisk Kunstnerinde med
+Kraft og Temperament, men hun sprængte ofte
+Formen ved at sigte for højt og kom let ud i
+Klynken og Maniererthed. Efter sin første
+Ægtefælles Advokat Kivekäs' Død ægtede hun
+russisk Baron Alexander U.-G.
+<i>R. N.</i>
+</chapter>
+
+<chapter name="Ufa">
+<b>Ufa</b> ['uf<sub>a</sub>], 1) tidligere Guvernement i det
+sydøstlige Rusland hørende til de saakaldte Ural
+Guvernementet men nu udgørende Hoveddelen
+af den efter Revolutionen oprettede
+Baschkir-Sovjetrepublik under R. S. F. S. R.

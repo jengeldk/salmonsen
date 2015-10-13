@@ -1,0 +1,106 @@
+Minuts Ophold i Flammen, er denne Metode
+maaske Idealet af al D.
+
+Hvor den tørre Varme ikke er anvendelig,
+vælger man i Laboratorierne i de fleste Tilfælde
+D. ved <sp>Damp</sp>, <sp>Dampsterilisation</sp>,
+enten som <sp>højtspændte</sp>, og dermed til over
+100° ophedede Vanddampe, der da som Regel
+er stillestaaende ell. delvis stillestaaende, eller
+som <sp>strømmende Vanddampe</sp> under
+alm. Lufttryk, altsaa Kogetemperatur. Dog kan
+man, som vi skal se, ogsaa anvende strømmende
+Damp i overspændt Form.
+
+D. ved <sp>spændte Dampe</sp> foregaar i det
+under Navnet <sp>Autoklave</sp> bekendte Apparat,
+hvoraf en af de første Modeller var
+<sp>Chamberland</sp>'s (Elev af Pasteur). Autoklaven er
+i det væsentlige det samme som en rummelig
+Papin's Gryde. Den bestaar (se Fig. 1) af en
+stærk Kobberkedel (<i>f</i>), der lukkes med
+hermetisk sluttende Laag med Manometer (<i>c</i>), Hane
+(<i>b</i>) og Sikkerhedsventil (<i>a</i>), og anbringes i et
+Jernfyrfad (<i>g</i>) med en stor Gaskogebrænder
+under Kedlen. De til D. bestemte Genstande
+anbringes i en Traadkurv (<i>h</i>), der anbringes i
+Kedlen, efter at der er ihældt 1 à 2 Liter Vand.
+Nu paaskrues Laaget, Gassen tændes, Hanen
+aabnes; naar Vandet har kogt saa længe, at man
+maa antage al Luft uddreven gennem den aabne
+Hane, lukkes denne, og man lader Damptrykket
+vokse til et Par Atmosfærer, svarende til en
+Temp. paa ca. 115°. Naar man har ladet dette
+foregaa gennem en Tid, som efter de
+foreliggende Forhold maa anses passende, slukker
+man Gassen, hvorpaa man lader afkøle
+langsomt, til Damptrykket er gaaet ned til
+0-Punktet; først da aabnes Hanen, og Laaget afskrues.
+En D. i dette Apparat anses for betryggende
+over for alle kendte Bakterier og
+Bakteriesporer. Da dernæst de i vore Laboratorier
+anvendte Stoffer og Genstande taaler at
+underkastes denne Behandling, saa er Metoden
+anvendelig overalt, hvor der er Tale om
+paalidelig D.
+
+D. ved <sp>strømmende Damp</sp> foregaar i
+et noget simplere Apparat, hvis Model er
+angivet af <sp>R. Koch</sp>. Apparatet forstaas let uden
+Tegning, idet det væsentlig bestaar i
+Autoklavens Kedel, men uden den hermetiske Lukning
+af Laaget og altsaa ogsaa uden dettes forsk.
+Rekvisitter, Hane, Manometer etc. For at
+beskyttes mod Afkøling kan Apparatet enten som
+Autoklaven anbringes i en Metalkappe, ell. det
+kan beklædes med Filt ell. andet slet
+varmeledende Stof. D. foregaar da ganske simpelt
+paa den Maade, at Vandet paa Kedlens Bund
+bringes i Kog, og Kogningen fortsættes 1/4, 1/2
+à 1 Time, idet Tiden beregnes fra det Øjeblik,
+da et gennem et Hul i Laaget indsat
+Termometer viser 100°. D. efter den her beskrevne
+Metode anses for betryggende over for alle
+Bakterieformer, men ikke absolut over for alle
+Sporer. Derfor vil det være sikrest at gentage
+D. i 100° strømmende Vanddamp fl. Gange
+med nogle Dages Mellemrum (Tyndall), da man
+paa den Maade tør haabe, at de Sporer, der
+ikke er dræbte ved den første D., inden den
+næste er udviklede til Bakterier, som er mindre
+modstandsdygtige end Sporerne og derfor
+dræbes ved den ny Ophedning. Medens derfor D.
+ved strømmende Damp ikke er fuldt saa
+paalidelig som D. ved overspændt Damp, kan man
+dog naa fuldkomne Resultater ved hin saavel
+som ved denne.
+
+<sp>Kogning</sp> anvendes i Laboratorierne navnlig
+til D. af Vædsker samt undertiden ogsaa til
+D. af enkelte mindre Apparater, hvor man
+ikke vil benytte Flambering. Kogningen har
+imidlertid den samme Vanskelighed som D. ved
+100° Damp, at enkelte meget modstandsdygtige
+Sporer kan overleve en enkelt Kogning, saa at
+man over for Muligheden for saadannes
+Tilstedeværelse kan blive henvist til gentagen
+Kogning.
+
+D. ved lavere Varmegrader anvendes ved
+saadanne Lejligheder, hvor det Stof, der skal
+desinficeres, ikke taaler Kogeheden, og hvor
+man maa antage, at de Bakterieformer, man
+har at gøre med, er ude af Stand til at
+overleve den lavere Desinfektionstemperatur omkr.
+80°. Ved afbrudt Opvarmning flere Dage efter
+hinanden kan man i øvrigt bringe denne
+Metode til at blive meget effektiv, og over for
+enkelte af vore farligste Bakterieformer er en
+enkelt Opvarmning til 80° (Pasteurisering)
+ganske betryggende, saaledes over for
+Tuberkelbacillen, Tyfusbacillen, Kolerabacillen.
+
+<sp>D. ved kemiske Stoffer</sp> benyttes i
+Laboratorierne ved det daglige Arbejde navnlig
+
+<img>Fig. 1.</img>

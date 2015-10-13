@@ -1,0 +1,140 @@
+bestaar af et Hjul, der er forsynet med Skovle.
+V. har været kendte fra Oldtiden og er
+antagelig de første Maskiner, ved hvilke Mennesket
+har kunnet udnytte Naturkraft til industrielt
+Arbejde. Der skelnes mellem egentlige V., ofte
+kaldet <sp>vertikale V.</sp>, idet de bestaar af et
+paa en vandret Aksel anbragt Hjul, og
+<sp>Turbiner</sp>, hvis Aksel staar lodret, Hjulet altsaa
+vandret. Ved de vertikale V. virker Vandet
+navnlig ved sin Vægt paa Skovlene — hvorved
+altsaa Vandets potentielle Energi udnyttes —
+men ogsaa ved flere Former af Hjul ved at
+støde imod Skovlene; ved Turbinerne derimod
+er det Vandets kinetiske Energi, der udnyttes,
+idet det med stor Hastighed føres imod
+Skovlene, hvis Form er afpasset saaledes, at Vandet
+uden at støde imod dem ved Forandring af
+Bevægelsesretningen mister sin Hastighed og
+saaledes berøves sin Energi. Ved de vertikale V.
+er endelig Vandets Bevægelse i Forhold til
+Skovlene uvæsentlig, medens derimod ved
+Turbinerne en saadan Bevægelse er en nødvendig
+Forudsætning. En skarp Adskillelse mellem
+vertikale V. og Turbiner kan der dog ikke siges
+at være, idet der findes Turbiner med vandret
+Aksel, ligesom der ogsaa med Hensyn til
+Vandets Virkemaade gives Overgangsformer.
+Inddelingen i vertikale V. og Turbiner opretholdes
+dog stadig i Litteraturen som ret bekvem for
+Oversigtens Skyld og vil derfor ogsaa i det
+følgende blive benyttet.
+
+Naar man kender den Vandmængde, der i et
+Sekund gennemstrømmer et Tværsnit af
+Vandløbet, samt Faldhøjden, kan den til Raadighed
+staaende Vandkraft beregnes. Vandmængden,
+der som oftest er i høj Grad vekslende med
+Aarstiderne, bestemmes ved Maaling af Vandets
+Middelhastighed i det givne Tværsnit i
+Forbindelse med dettes Areal; af særlig Betydning er
+det naturligvis at kende den mindste
+forekommende Vandmængde, da deraf den Kraft
+afhænger, som man til enhver Tid med Sikkerhed
+kan gøre Regning paa. Faldhøjden er i
+Regelen fordelt over en længere Strækning og er
+altsaa afhængig af den Længde af Vandløbet,
+hvorover man har Raadighed. For
+Udnyttelse af Faldhøjden i et V. er det nødvendigt,
+at den koncentreres paa et bestemt Sted, og
+dette sker ved, at man tværs over Vandløbet
+bygger en Dæmning, der stemmer Vandet op.
+Forskellen mellem Vandspejlets Højde paa
+begge Sider er den <sp>Faldhøjde</sp>, som der i det
+følgende stadig vil være Tale om. Da der som
+Regel til visse Tider vil forekomme større
+Vandmængde, end V. kan udnytte, bortledes det
+overflødige Vand enten ved en »Frisluse« i
+Dæmningen, eller ved at denne indrettes som
+Overfaldsdæmning. Fra den oven for
+Dæmningen dannede Vandbeholder, »Dammen«,
+føres Vandet gennem Dæmningen til V. ved Hjælp
+af en Rende med Stigbord, eller ogsaa anlægger
+man fra et Punkt oven for Dæmningen til et
+Punkt neden for den en Kanal, i hvilken V.
+anbringes; Kanalen forsynes ligesom den
+førnævnte Rende med Stigbord, der lukkes, naar V.
+skal staa stille, og for øvrigt aabnes mere eller
+mindre efter Forholdene. Fig. 1 viser en
+saadan Anordning; <i>a b</i> er Vandløbet, <i>c</i>
+Dæmningen, <i>d</i> Kanalens øvre Del, <i>e</i> den nedre, <i>f</i> det
+Sted, hvor Faldhøjden er koncentreret og V.
+anbragt.
+
+Er Vandmængden pr. Sekund <i>A</i> Liter,
+Faldhøjden <i>H</i> Meter, bliver den til Raadighed
+staaende Vandkraft <i>A . H</i> / 75 Hestekraft. Kun en Del
+heraf kan imidlertid gøres nyttig, da
+Vandhjulets Virkningsgrad jo altid maa være en ægte
+Brøk; som Regel ligger den mellem 0,3 og 0,8.
+Arbejdstabet skyldes dels Vandets
+Gnidningsmodstand i Skovlene og i Tilførselsrenden med
+Stigbordet, dels Gnidningsmodstanden i
+Akselens Lejer, og endelig gaar paa Grund af
+Utætheder en Del Vand ubenyttet bort. Hjulets
+Konstruktion spiller ogsaa en væsentlig Rolle,
+navnlig Skovlenes Form, idet det for at opnaa en
+høj Virkningsgrad gælder om at formindske
+Vandets Stød mod Skovlene saa meget som
+muligt og tillige at sørge for, at Vandet forlader
+Hjulet med mindst mulig Hastighed.
+
+Uden at komme ind paa Detailler ved
+Konstruktionen af V. — herom henvises til den
+nedenfor anførte Litteratur — skal der nu
+kortelig gøres Rede for de vigtigste Former af V.
+
+<i>A</i>. <sp>Vertikale eller egentlige V.</sp> <i>a</i>)
+<sp>Overfaldshjul</sp> (Fig. 2) modtager Vandet
+foroven fra en Rende <i>o</i> med Stigbord <i>c d</i>;
+Skovlene har Kasseform, og Vandet, der virker
+næsten udelukkende ved sin Vægt, driver Hjulet
+saaledes rundt, at dets Overside bevæger sig
+bort fra Tilløbsrenden, Undersiden altsaa i
+modsat Retning af det i Hjulet benyttede Vand,
+»Bagvandet«. Ved alle andre Former af
+vertikale V. er Forholdet omvendt, idet Hjulets
+Overside bevæges imod Tilløbsrenden,
+Undersiden i Bagvandets Afløbsretning. Skovlenes
+Form er saaledes, at Vandet forlader Hjulet saa
+nær dettes nederste Punkt som muligt, og
+Hjulet maa ikke naa ned i Bagvandet, der vilde
+yde det Modstand og skade Virkningsgraden,
+som ved gode Hjul kan stige til 0,8.
+Overfaldshjul anvendes ved store Faldhøjder, indtil 15
+m, og ved ringe Vandmængder.
+
+<sp>Sidehjul</sp> modtager Vandet paa den Side,
+som vender mod Tilløbsrenden, og der benyttes
+særlige Betegnelser for Hjulene efter den
+Højde i Forhold til Akselen, hvori Vandtilløbet
+finder Sted. Ved <i>b</i>) <sp>Ryghjul</sp> (Fig. 3) sker
+Vandtilløbet over Hjulets Aksel; de har ligesom
+Overfaldshjulene kasseformede Skovle, i hvilke
+Vandet virker ved sin Vægt, medens
+Indløbshastigheden er ringe og Stødvirkningen derfor
+ubetydelig. Vandet føres til Hjulet gennem et
+System af Ledeskovle eller Kulisser <i>a</i>, der ved
+et Stigbord <i>c d</i> kan aabnes og lukkes efter
+Vandstanden, og man vil saaledes kunne drage
+Nytte af den større Faldhøjde ved Højvande,
+idet man kan lade Vandet møde Hjulet højere
+oppe. Hjulets Underside kan uden Skade gaa
+noget ned i Bagvandet, da den bevæger sig i
+samme Retning som dette; den om Hjulet
+sluttende Rende <i>K</i> er ikke absolut nødvendig.
+Ryghjul har omtrent samme Virkningsgrad som
+Overfaldshjul og benyttes ved lignende
+Faldhøjde, men de har den Fordel bedre at taale
+vekslende Vandstande saavel ved Tilløb som
+ved Afløb, c) <sp>Brysthjul</sp> (Fig. 4) modtager

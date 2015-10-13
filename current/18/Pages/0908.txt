@@ -1,0 +1,154 @@
+Brændpunktet vinkelret paa Aksen, er det
+dobbelte af Brændpunktets Afstand fra Ledelinien.
+Da P. med samme
+Parameter er kongruente,
+vil to vilkaarlige P.
+være ligedannede i
+deres Parametres Forhold
+(se
+<sp>Ligedannethed</sp>). Tangenten og
+Normalen i et
+vilkaarligt Punkt (<i>M</i>) halverer
+Vinklerne mellem
+Brændstraalen (<i>FM</i>) til
+Punktet og en Parallel
+med Aksen (<i>MQ</i>).
+Henført til et retvinklet
+Koordinatsystem med
+Abscisseakse i P.'s Akse
+og Ordinatakse i
+Tangenten (<i>Y</i>) i Toppunktet faar P. Ligningen
+<i>y</i><sup>2</sup>=<i>px</i>, hvor <i>p</i> er Parameteren. Arealet af et
+Parabelafsnit afskaaret ved en Korde af
+Længden <i>k</i> vinkelret paa Aksen i Afstanden <i>h</i> fra
+Toppunktet er 2/3 <i>hk</i>.
+
+<img></img>
+<i>Chr. C.</i>
+</chapter>
+
+<chapter name="Parabel (i Digtekunsten)">
+<b>Parabel</b> (gr.: Sammenligning, Lignelse), i
+Digtekunsten den Form af den
+(moralsk-belærende fortællende Digtning, der fremstiller en
+betydningsfuld Sandhed af alm. Natur ved et
+Billede af Menneskelivet; fortrinlige Eksempler
+er Jesu Lignelser om den forlorne Søn,
+Sædemanden, Farisæeren og Tolderen o. fl. Den er
+beslægtet med Fabelen, der jo ligeledes
+fremstiller en moralsk Sandhed ved et Billede, men
+tager dette fra Dyrelivet. P., der virker ved
+dybsindlig Billedlighed, er udgaaet fra Orienten.
+<i>Cl. W.</i>
+</chapter>
+
+<chapter name="Parabeldragere">
+<b>Parabeldragere,</b> se <sp>Broer</sp>, S. 53.
+</chapter>
+
+<chapter name="Parabellum">
+<b>Parabellum,</b> Navn paa en Selvladepistol ell.
+automatisk Pistol, konstrueret af Borchardt og
+Luger og indført fl. St., f. Eks. i Tyskland.
+<i>C. Q.</i>
+</chapter>
+
+<chapter name="Parabiago">
+<b>Parabiago,</b> By i Norditalien, Prov. Milano,
+ligger ved Olona og har Silkespinderier samt
+Bomulds- og Lærredsvæverier. (1911) 8550 Indb.
+<i>C. A.</i>
+</chapter>
+
+<chapter name="Parabolani">
+<b>Parabolani</b> (gr. af παραβάλλεσθαι),
+Sygeplejere i de oldkristelige Menigheder.
+<i>A. Th. J.</i>
+</chapter>
+
+<chapter name="Paraboloide">
+<b>Paraboloide</b> (mat.) kaldes en Keglesnitsflade,
+naar den ikke har Centrum. En P. bestaar af
+et Net, der strækker sig
+i det uendelige og er
+symmetrisk m. H. t. to
+paa hinanden
+vinkelrette Planer (<i>XOZ</i> og
+<i>YOZ</i>); disse
+Symmetriplaners Skæringslinie <i>Z</i>,
+<sp>Aksen</sp>, skærer
+Fladen i <sp>Toppunktet</sp>
+(<i>O</i>). Deres
+Skæringskurver med P. kaldes <sp>Hovedsnittene</sp>.
+Tages Symmetriplanerne og Tangentplanen i
+Toppunktet til Koordinatplaner, faar P.'s Ligning
+en af Formerne <i>x</i><sup>2</sup>/<i>a</i><sup>2</sup> ± <i>y</i><sup>2</sup>/<i>b</i><sup>2</sup> = <i>z</i>/<i>c</i>, der svarer til
+to forsk. Hovedtyper. Den <sp>elliptiske</sp> P.
+(Fig. 1) skæres af Planer parallelle med Aksen
+i Parabler (som <i>NPN'</i> og <i>M'QM</i>), medens alle
+andre plane Snit i den er Ellipser (som <i>M'MN'</i>).
+Hovedsnittene er Parablen. For <i>a</i> = <i>b</i> bliver
+Snittene vinkelrette paa Aksen Cirkler, og
+Fladen bliver en
+<sp>Omdrejningsparaboloide</sp>, fremkommen ved en Parabels Drejning
+om sin Akse. Et Afsnit af skaaret af P. ved en
+Plan vinkelret paa Aksen i Afstanden <i>h</i> fra
+Toppunktet har Rumfanget <i>πabh</i><sup>2</sup>/<i>c</i>, og dets
+Tyngdepunkt ligger i Aksen i Afstanden 2/3 fra
+Toppunktet. Den <sp>hyperbolske</sp> ell.
+<sp>vindskæve</sp> P. (Fig. 2) skæres af Planer parallelle
+
+
+med Aksen, i Parabler (som Snittet gennem N
+≠ <i>XZ</i>-Planen og Snittet gennem <i>E</i> ≠
+<i>YZ</i>-Planen), af alle andre Planer i Hyperbler, hvis
+Asymptoter er parallelle med de saakaldte
+Retning splaner <i>AOZ</i> og <i>BOZ</i>. Hovedsnittene er
+Parablerne <i>DNON'D'</i> og <i>MOM'</i>. Er
+Retningsplanerne vinkelrette paa hinanden, kaldes P.
+<sp>ligesidet</sp>. Gennem hvert Punkt paa Fladen
+gaar to rette Linier, <sp>Frembringere</sp>, der
+ligger helt paa Fladen og er parallelle med
+hver sin Retningsplan. Planen igennem dem er
+Tangentplan i deres Skæringspunkt (Eks.:
+Frembringerne <i>AOA1</i> og <i>BOB1</i> i Tangentplanen i
+Toppunktet <i>O</i>). P. hører følgelig til de vindskæve
+Flader.
+<i>Chr. C.</i>
+
+<img>Fig. 1.</img>
+
+<img>Fig. 2.</img>
+</chapter>
+
+<chapter name="Paracatú">
+<b>Paracatú</b> [par<sub>a</sub>k<sub>u</sub>'tu], By i den vestlige Del
+af Staten Minas Geraes, Brasilien, ved Rio P.,
+15000 Indb., forhen Guldgruber, Handel med
+Kvæg, Kaffe og Sukker.
+<i>M. V.</i>
+</chapter>
+
+<chapter name="Paracelsus">
+<b>Paracelsus,</b> tysk Læge ved Navn
+<sp>Theophrastus Bombastus von
+Hohenheim</sp>, f. 10. Novbr 1493 i Einsiedeln,
+Schwyz, d. 24. Septbr 1541 i Salzburg. Han var
+Søn af Lægen Wilhelm; B. von H., der underviste
+ham, indtil han 1509 kom til Basels Univ.; han
+blev der kun kort Tid, men undervistes senere
+af Abbed Tritheim og arbejdede hos Alkemisten
+Függer, der havde et Laboratorium i Schwatz.
+I de flg. Aar drog han Europa rundt som
+Landefarer, synes 1519—20 at have været i Danmark
+og Sverige som Feltskærer, besøgte mange
+tyske Stæder og blev 1526 Prof. og Stadslæge i
+Basel, hvor hans Virksomhed vakte den største
+Forargelse og Opsigt. Dels havde han ikke
+underkastet sig den sædvanlige Prøve ved
+Fakultetet, dels anvendte han til sine Forelæsninger
+ikke Latin, men Tysk, og aabnede derved sit
+Auditorium baade for Kirurger o. a.
+Ikke-Læger, endelig forkastede han fuldstændig de
+klassiske medicinske Skr og brændte endda
+nogle af dem offentligt paa Torvet. Han

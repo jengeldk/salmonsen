@@ -1,0 +1,79 @@
+<table>
+<td v2><td 8 c>Antal økonomiske Enheder med følgende<br>Antal tekniske Enheder
+<td c>1<td c>2<td c>3<td c>4<td c>5-10<td c>11-25<td c>26 og derover<td c>Ialt
+<td>Ren Industri<td r>60203<td r>687<td r>39<td r>19<td r>8<td r>5<td r>—<td r>60961
+<td>Industri i Forbindelse med Handel<td r>—<td r>22666<td r>1657<td r>519<td r>221<td r>31<td r>12<td r>25106
+<td>Industri i Forbindelse med Transport<td r>—<td r>148<td r>47<td r>—<td r>3<td r>2<td r>—<td r>200
+<td>Industri og Handel i Forbindelse med Transport<td r>—<td r>—<td r>72<td r>13<td r>10<td r>2<td r>2<td r>99
+<td>Ren Handel<td r>47276<td r>1180<td r>87<td r>30<td r>36<td r>8<td r>2<td r>48619
+<td>Handel i Forbindelse med Transport<td r>—<td r>259<td r>11<td r>1<td r>2<td r>1<td r>—<td r>274
+<td>Ren Transport<td r>6505<td r>30<td r>5<td r>1<td r>5<td r>—<td r>—<td r>6546
+<td r>I alt<td r>113984<td r>24970<td r>1918<td r>583<td r>285<td r>49<td r>16<td r>141805
+</table>
+
+Personellets og Omsætningens Størrelse fremgaar af følgende:
+<table>
+<td><td c>Samlet<br>Personel<td c>Samlet<br>Omsætning<br>Mill. Kr.<td c>Samlet<br>Maskinstyrke<br>1000 H. K.
+<td>Ren Industri<td r>234961<td r>2684<td r>531
+<td>Industri i Forbindelse med Handel<td r>200449<td r>7106<td r>187
+<td>Industri i Forbindelse med Transport<td r>17421<td r>195<td r>264
+<td>Industri og Handel i Forbindelse med Transport<td r>5568<td r>360<td r>33
+<td>Ren Handel<td r>132082<td r>6902<td r>15
+<td>Handel i Forbindelse med Transport<td r>3989<td r>345<td r>88
+<td>Ren Transport<td r>50687<td r>480<td r>730
+<td r>I alt<td r>645157<td r>18072<td r>1848
+</table>
+
+Af den samlede Omsætning udgør 6728 Mill. Kr. Produktionsværdi, medens Resten, 11344 Mill. Kr., er Handelsomsætningens Værdi:
+<table>
+<td v2><td 5 c>Pr. Virksomhed androg
+<td c>Personellet<td c>Samlet<br> Omsætning<br>1000 Kr.<td c>Produktion<br>1000 Kr.<td c>Handelsomsætning<br>1000 Kr.<td c>Maskinstyrke<br>H. K.
+<td>Ren Industri<td r>3,9<td r>44,0<td r>44,0<td r>—<td r>8,7
+<td>Industri i Forbindelse med Handel<td r>8,0<td r>283,1<td r>126,9<td r>156,2<td r>7,5
+<td>Industri i Forbindelse med Transport<td r>8,7<td r>976,0<td r>976,0<td r>—<td r>1320,6
+<td>Industri og Handel i Forbindelse med Transport<td r>56,2<td r>3634,9<td r>1198,6<td r>2436,3<td r>337,4
+<td>Ren Handel<td r>2,7<td r>141,9<td r>—<td r>141,9<td r>0,3
+<td>Handel i Forbindelse med Transport<td r>14,6<td r>1259,2<td r>236,8<td r>1022,4<td r>322,1
+<td>Ren Transport<td r>7,7<td r>73,4<td r>73,4<td r>—<td r>111,5
+<td r>I alt<td r>4,5<td r>127,5<td r>47,4<td r>80,0<td r>13,0
+</table>
+
+De økonomiske Enheders procentvise
+Fordeling efter Størrelse fremgaar af følgende
+Oversigt:
+<table>
+<td 3 c>Enheder med<br>en Omsætning paa<td c>Antal<br>Virksomheder<td c>Samlet<br>Personel<td c>Samlet<br>Omsætning<td c>Samlet<br>Maskinstyrke
+<td r>0—<td r>10000<td c>Kr.<td r>40,4<td r>11,9<td r>1,2<td r>2,0
+<td r>10—<td r>25000<td c>—<td r>19,9<td r>9,3<td r>2,4<td r>1,6
+<td r>25—<td r>50000<td c>—<td r>14,5<td r>8,5<td r>3,9<td r>2,1
+<td r>50—<td r>100000<td c>—<td r>10,8<td r>9,3<td r>5,7<td r>2,4
+<td r>100—<td r>200000<td c>—<td r>6,7<td r>9,0<td r>7,2<td r>3,1 
+<td r>200—<td r>500000<td c>—<td r>4,5<td r>10,4<td r>11,1<td r>6,3
+<td r>182—<td r>1 Mill.<td c>—<td r>1,8<td r>7,0<td r>9,7<td r>7,4
+<td r>1—<td r>10  —<td c>—<td r>1,3<td r>17,8<td r>26,1<td r>25,7
+<td 2 r>over 10 Mill.<td c>—<td r>0,1<td r>16,8<td r>32,7<td r>49,4
+<td 3 r>I alt<td r>100,0<td r>100,0<td r>100,0<td r>100,0
+</table>
+
+Særlig store er de Virksomheder, der
+samtidig driver Handel og Transport, hvilket ikke
+kan forundre, naar man betænker, at saa store
+Virksomheder som Det østasiatiske Kompagni,
+Det oversøiske Kompagni, A/S. Det danske
+Kulkompagni, A/S. De forenede Kulimportører,
+Nordjyllands Kulkompagni i Nørresundby m. fl.
+indgaar i disse Tal.
+
+<sp>Haandværk og Industri</sp>. For disse
+Erhverv skal yderligere meddeles forskellige
+Oplysninger fra Erhvervstællingen i 1925.
+Virksomhedernes Antal m. v. fremgaar saaledes af
+følgende Oversigt:
+<table>
+<td><td>Hovedstaden<td>Provinsbyerne<td>Landdistrikterne<td>Hele Landet
+<td>Antal Virksomheder<td r>16941<td r>23117<td r>49131<td r>89189
+<td>Samlet Personel<td r>142922<td r>127907<td r>121646<td r>392475
+<td>Heraf egentlige industrielle Arbejdere<td r>105916<td r>93127<td r>70787<td r>269830
+<td>Antal Virksomheder med mekanisk Kraft<td r>4932<td r>7267<td r>            14133<td r>26332
+<td>Maskinstyrke i Hestekraft<td r>115138<td r>154038<td r>168440<td r>437616
+</table>
