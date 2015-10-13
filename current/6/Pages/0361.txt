@@ -16,7 +16,7 @@ Martin</sp>, »Het leven en de werken von G. D.«
 [Leyden 1901, overs. paa Engelsk og Fransk, 1911]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Douai”>
+<chapter name="Douai">
 <b>Douai</b> [dwæ], By i det nordlige Frankrig,
 Dept Nord, Hovedstad i <sp>Arrond. D.</sp>
 (Flandre), ligger 33 km S. f. Lille ved den
@@ -61,17 +61,17 @@ Septbr 1914 blev D. erobret af Tyskerne;
 under Kampen blev en Del af Byen afbrændt.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”douairière”>
+<chapter name="douairière">
 <b>douairière</b> [dwæ'r<sub>i</sub>æ.r] (fr.), en Enke (af
 fornem Stand), som lever af en Livgeding
 (<i>douairé</i>). <i>Reine d.</i> [ræ.n-dwæ'rjæ.r],
 Enkedronning.</chapter>
 
-<chapter name=”douane”>
+<chapter name="douane">
 <b>douane</b> [dwan] (fr.), Toldsted, Toldbod; Told,
 Toldvæsen.</chapter>
 
-<chapter name=”Douarnenez”>
+<chapter name="Douarnenez">
 <b>Douarnenez</b> ell. <b>-nès</b> [dwarn<sub>ö</sub>'næ.z ell. -'næ.s],
 By i det nordvestlige Frankrig, Dept Finisterre
 (Bretagne), ligger ved Sydkysten af den fra
@@ -83,7 +83,7 @@ Ud for D. ligger den lille Klippeø Tristan med
 Fyr.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Douaumont”>
+<chapter name="Douaumont">
 <b>Douaumont</b> [dwå'må], Landsby i det
 fr. Dept Meuse, 9 km NØ. f. Verdun, mellem
 Woëvre-Sletten og Meuse-Dalen. Ø. f.
@@ -97,7 +97,7 @@ hvor de holdt sig til den flg. Dag. 24. Oktbr
 generobret af Franskmændene.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Douay, 2 franske Generaler”>
+<chapter name="Douay, 2 franske Generaler">
 <b>Douay</b> [dwæ], 1) <sp>Charles Abel</sp>, fransk
 General, f. Marts 1809 i Besançon, faldt 4. Aug.
 1870 ved Weissenburg. Han gennemgik
@@ -146,7 +146,7 @@ Medlem af Forsvarskommissionen og udnævntes
 1879 til Generalinspektør.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Doubleday, Edward”>
+<chapter name="Doubleday, Edward">
 <b>Doubleday</b> ['dab£de<sub>i</sub>], <sp>Edward</sp>, engelsk
 Entomolog (specielt Lepidopterolog) (1811-49),
 som i Forening med J. O. Westwood udgav

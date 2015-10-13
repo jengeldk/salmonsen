@@ -82,7 +82,7 @@ Serien <i>English Men of Letters</i>]; <sp>H. S. Salt</sp>,
 <i>De Q.</i> [1904]).
 <i>I. O.</i></chapter>
 
-<chapter name=”Dêr”>
+<chapter name="Dêr">
 <b>Dêr</b> (arab.) bet. Kloster. Ordet forekommer
 sammensat i en Mængde geogr. Egennavne, f,
 Eks. D.-el-Kamar (By i Libanon), D. Abuna (i
@@ -95,7 +95,7 @@ særlig tidligere var vigtig for Transithandelen,
 er Sæde for en tyrk. Viceguvernør.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Deraband”>
+<chapter name="Deraband">
 <b>Deraband</b> [di.r<sub>ə</sub>'band?] (eller <sp>Draband</sp>)
 befæstet By i Pandshab ved Foden af
 Soliman-Bjergene og ved Indgangen til <sp>Passet D</sp>. Den
@@ -103,13 +103,13 @@ er Samlingsplads og Udgangspunkt for
 Karavaner mellem Pandshab og Centralasien.
 <i>M. V.</i></chapter>
 
-<chapter name=”Deradshat”>
+<chapter name="Deradshat">
 <b>Deradshat</b> [di.r<sub>ə</sub>'dзa.t], Landskab i
 Pandshab, falder omtr. sammen med Distriktet Dera
 Ghasi Kan.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dera Ghasi Kan”>
+<chapter name="Dera Ghasi Kan">
 <b>Dera Ghasi Kan</b> ['di.r<sub>a</sub>-ga'zi.-r'ka.n],
 Distrikt i den indobritiske Prov. Pandshab,
 Divisionen Multan, strækker sig mellem
@@ -122,7 +122,7 @@ Hovedstaden D. ved en Kanal fra Indus, c. 20000
 Indb., har Silke- og Bomuldsvæveri.
 <i>M. V.</i></chapter>
 
-<chapter name=”Deraïje”>
+<chapter name="Deraïje">
 <b>Deraïje</b> (<sp>Dereya</sp>, <sp>Deri'a</sp>), Ruinby i
 Arabien, var til ind i 19. Aarh. Hovedstad for
 Vahabitterne og havde da c. 60000 Indb. Men efter
@@ -132,7 +132,7 @@ Er Riâd. Paa D.'s Ruiner ligger nu 5
 Landsbyer med tilsammen 1500 Indb.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dera Ismaïl Kan”>
+<chapter name="Dera Ismaïl Kan">
 <b>Dera Ismaïl Kan</b> ['di.r<sub>a</sub>-i.zma'£-'ka.n], By
 i den indobrit. Nordvestgrænseprov., 7 km V. f.
 Indus, bestaar af de Indfødtes af Lermure
@@ -144,16 +144,16 @@ har 9961 km<sup>2</sup> med (1911) 256120 Indb., hvoraf
 afghansk Nationalitet.
 <i>M. V.</i></chapter>
 
-<chapter name=”derangere”>
+<chapter name="derangere">
 <b>derangere</b> [deraŋ'sje'r<sub>ə</sub>] (fransk <i>déranger</i>),
 bringe i Uorden, forvirre, forstyrre;
 <sp>derangeret</sp>, forhutlet, med sine Forhold (pekuniære
 o. a.) i Uorden.</chapter>
 
-<chapter name=”Der'ât”>
+<chapter name="Der'ât">
 <b>Der'ât</b> [der-'a.t], se <sp>Adraa</sp>.</chapter>
 
-<chapter name=”de rato”>
+<chapter name="de rato">
 <b>de rato</b> (lat.), <i>cautio d. r.</i>, Indestaaen for,
 at den, i hvis Navn man afslutter en
 Retshandel, vil vedstaa samme (se i øvrigt <sp>cautio</sp>).

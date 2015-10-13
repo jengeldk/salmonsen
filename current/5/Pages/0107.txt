@@ -50,7 +50,7 @@ législation civile de la Revolution française</i>
 [Paris 1898]; <i>Codes français complets</i> [Paris 1906]).
 <i>C. W. W.</i></chapter>
 
-<chapter name=”Codex”>
+<chapter name="Codex">
 <b>Codex</b> (lat., Flertal <i>codices</i>) betyder opr.
 Træklods; dernæst brugtes det af Romerne om
 en Bog af sammenklappede Trætavler,
@@ -77,11 +77,11 @@ Forordninger; <i>c. Theodosianus</i>, se <sp>Theodosius</sp>,
 Hermogenianus</i>, se <sp>Hermogenianus</sp>.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”codex, Alexandrinus”>
+<chapter name="codex, Alexandrinus">
 <b>codex,</b> <sp>Alexandrinus</sp>, se
 <sp>alexandrinske Kodeks</sp>.</chapter>
 
-<chapter name=”Codex regius”>
+<chapter name="Codex regius">
 <b>Codex regius</b> kaldes fortrinsvis det
 Haandskrift, der uden Sammenligning er det
 vigtigste af oldislandske Haandskrifter i det kgl.
@@ -102,10 +102,10 @@ Sveinsson's Eje 1643, og han forærede det nogle Aar
 senere til Frederik III.
 <i>F. J.</i></chapter>
 
-<chapter name=”codicillus”>
+<chapter name="codicillus">
 <b>codicillus,</b> se <sp>Kodicil</sp>.</chapter>
 
-<chapter name=”Codigoro”>
+<chapter name="Codigoro">
 <b>Codigoro,</b> By i Norditalien, Prov. Ferrara,
 ligger 24 km NNV. f. Comacchio i en sumpet
 Egn ved Canale di Goros Indmunding i Po di
@@ -116,14 +116,14 @@ Benediktinerkloster <sp>Pomposa</sp> med interessante
 Fresker og Mosaikker.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Codiæum variegatum”>
+<chapter name="Codiæum variegatum">
 <b>Codiæum variegatum,</b> se <sp>Croton</sp>.</chapter>
 
-<chapter name=”cod. ms.”>
+<chapter name="cod. ms.">
 <b>cod. ms.,</b> Forkortelse for <i>codex
 manuscriptus</i> (lat.), et Haandskrift.</chapter>
 
-<chapter name=”Codogno”>
+<chapter name="Codogno">
 <b>Codogno</b> [ko'don<sub>j</sub>o], By i Norditalien, Prov.
 Milano, ligger 23 km SØ. f. Lodi. (1911) 10900
 Indb., Lærred- og Silkeindustri, Garverier og
@@ -132,7 +132,7 @@ Parmesanost og er et vigtigt Knudepunkt for
 Banelinierne Milano-Bologna og Pavia-Cremona.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Codrington”>
+<chapter name="Codrington">
 <b>Codrington</b> ['kådr<sub>i</sub>ŋt<sub>ə</sub>n], <sp>Sir Edward</sp>,
 eng. Admiral, f. 27. Apr. 1770, d. 28. Apr. 1851,
 blev Officer 1793 og tjente under Admiral Howe,

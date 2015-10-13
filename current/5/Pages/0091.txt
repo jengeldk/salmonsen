@@ -4,26 +4,26 @@ Kvadratcentkneter betegnes ved <sp>cm</sp><sup>2</sup>,
 Kubikcentimeter ved <sp>cm</sp><sup>3</sup>. Se <sp>Meter</sp>.
 <i>Th. O.</i></chapter>
 
-<chapter name=”C-mol”>
+<chapter name="C-mol">
 <b>C-mol,</b> den Mol-Tonart, der har C til
 Grundtone, den har tre ♭, for <i>h</i>, <i>e</i> og <i>a</i>.
 <i>S. L.</i></chapter>
 
-<chapter name=”c/n”>
+<chapter name="c/n">
 <b>c/n,</b> d. s. s. <i>cónto nóstro</i>, i Bogholderi
 = vor Konto.</chapter>
 
-<chapter name=”C. N.”>
+<chapter name="C. N.">
 <b>C. N.,</b> Betegnelse for Cyan (Cyanradikalet).</chapter>
 
-<chapter name=”Cn.”>
+<chapter name="Cn.">
 <b>Cn.,</b> Forkortelse af det rom. Navn Cnaius,
 Cnæus, Gnæus.</chapter>
 
-<chapter name=”Cnemiornis”>
+<chapter name="Cnemiornis">
 <b>Cnemiornis</b> [kne-], se <sp>Gæs</sp>.</chapter>
 
-<chapter name=”Cnicus”>
+<chapter name="Cnicus">
 <b>Cnicus</b> ['kni-] L., Slægt af Kurvblomstrede
 (Tidsel-Gruppen) med en enkelt Art, <i>C.
 Benedictus</i> L. (<sp>Benediktinertidsel</sp>,
@@ -41,7 +41,7 @@ er officinelle og anvendes til Fremstilling af
 bitre Midler.
 <i>A. M.</i></chapter>
 
-<chapter name=”Cnidium”>
+<chapter name="Cnidium">
 <b>Cnidium</b> ['kni'-] Cuss., Slægt af
 Skærmplanterne (Fennikel-Gruppen), oftest fleraarige
 Urter med mangestraalet Skærm uden Svøb, men
@@ -55,10 +55,10 @@ fjersnitdelte Blade med linie-lancetdannede Afsnit.
 Toaarig.
 <i>A. M.</i></chapter>
 
-<chapter name=”C-Nøgle”>
+<chapter name="C-Nøgle">
 <b>C-Nøgle,</b> se C. og <sp>Nodenøgle</sp>.</chapter>
 
-<chapter name=”Co.”>
+<chapter name="Co.">
 <b>Co.,</b> Forkortelse af <sp>Compagnie</sp>, d. s. s.
 Handelsselskab. Bruges kun ved Firmanavne for
 at betegne et Selskabsforhold. F. Eks.
@@ -68,14 +68,14 @@ der tillige findes andre aktive ell. passive
 Deltagere. - Smlg. <sp>Associé</sp> og <sp>Firma</sp>.
 <i>(C. V. S.). Th. O.</i></chapter>
 
-<chapter name=”Côa”>
+<chapter name="Côa">
 <b>Côa</b> ['ko<sub>ə</sub>], Flod i det nordlige Portugal,
 Prov. Beira, udspringer nær ved den spanske
 Grænse, paa Sierra de las Mesas, drejer mod
 N. ved Sabugal og falder i Douros venstre Bred.
 <i>M. V.</i></chapter>
 
-<chapter name=”Coahuila”>
+<chapter name="Coahuila">
 <b>Coahuila</b> [kåa'wila] ell. <sp>Cohahuila</sp>, Stat
 i den nordligste Del af Meksiko, grænser mod
 N. og NØ. til de Forenede Fristater
@@ -125,24 +125,24 @@ ogsaa omfattede det s. A. fraskilte Nuevo Leon
 samt det 1835 løsrevne Texas.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Coalbrookdale”>
+<chapter name="Coalbrookdale">
 <b>Coalbrookdale</b> ['ko<sub>u</sub>£br<sub>u</sub>kde<sub>i</sub>£], se <sp>Madeley</sp>.</chapter>
 
-<chapter name=”Coalgate”>
+<chapter name="Coalgate">
 <b>Coalgate</b> ['ko<sub>u</sub>£ge<sub>i</sub>t], By i U. S. A., ligger i
 Staten Oklahoma, men hørte tidligere til
 Choctaw-Nationens Reservation i Indianerterritoriet.
 (1910) 3255 Indb. Ved C. findes rige Kulminer.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”coal-measures”>
+<chapter name="coal-measures">
 <b>coal-measures</b> ['ko<sub>u</sub>£-'meзəz], en i
 Nordengland anvendt Betegnelse for visse
 Aflejringer af Skiferler og Sandstene med
 mellemliggende Kullag, som hører til Stenkulformationen.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Coalville”>
+<chapter name="Coalville">
 <b>Coalville</b> ['ko<sub>u</sub>£vi£], By i England,
 Leicestershire, ligger 8 km SØ. f. Ashby de la Zoueh, er
 Jernbaneknudepunkt og Centrum for et
@@ -150,10 +150,10 @@ Kulminedistrikt og har (1911) 18548 Indb.,
 Teglværker og Jernstøberier.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Coanza”>
+<chapter name="Coanza">
 <b>Coanza</b> [portug. 'kwãz<sub>ə</sub>], se <sp>Cuanza</sp>.</chapter>
 
-<chapter name=”Coast Range”>
+<chapter name="Coast Range">
 <b>Coast Range</b> ['ko<sub>u</sub>st-'re<sub>i</sub>ndз], »Kystkæden«,
 en Længdekæde langs Kysten af det stille Ocean
 i Nordamerika, strækker sig gennem

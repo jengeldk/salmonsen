@@ -30,7 +30,7 @@ Strengene o. s. fr. Denne Dæmpning foretages
 ved Hjælp af <sp>Piano-Pedalen</sp>.
 <i>S. L.</i></chapter>
 
-<chapter name=”Dæmpgaarding”>
+<chapter name="Dæmpgaarding">
 <b>Dæmpgaarding</b> (<sp>Søv</sp>.), et Tov - Gaarding
 - der staar fast i Kanten (Liget) af et Mærssejl,
 og med hvilket Sejlet hales sammen, naar det
@@ -39,7 +39,7 @@ ud. D. er vist langs Forkanten af Sejlet, gennem
 en Blok ved Midten af Raaen og til Dæks.
 <i>H. E.</i></chapter>
 
-<chapter name=”Dæmpning, af Bevægelser”>
+<chapter name="Dæmpning, af Bevægelser">
 <b>Dæmpning</b> af Bevægelser foregaar paa flere
 Maader. Gnidningsmodstand i Luft og Vædsker
 dæmper Bevægelsen lidt efter lidt, idet
@@ -55,14 +55,14 @@ som ved Luftmodstand. D. af Bølger, se
 <sp>Bølgedæmpning</sp>.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Dæmpning, se elektromagnetiske Svingninger”>
+<chapter name="Dæmpning, se elektromagnetiske Svingninger">
 <b>Dæmpning,</b> se <sp>elektromagnetiske
 Svingninger</sp>.</chapter>
 
-<chapter name=”Dæmpning, d. s. s. Blaadampning”>
+<chapter name="Dæmpning, d. s. s. Blaadampning">
 <b>Dæmpning,</b> d. s. s. <sp>Blaadampning</sp>.</chapter>
 
-<chapter name=”Dæmring”>
+<chapter name="Dæmring">
 <b>Dæmring</b> (<sp>Tusmørke</sp>) kaldes den
 Lysning, som om Morgenen fremkalder den
 gradvise Overgang fra mørk Nat til fuldt Dagslys, og

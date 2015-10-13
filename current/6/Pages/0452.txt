@@ -4,12 +4,12 @@ direkte drejes rundt af Maskinen, se
 <sp>Lokomotiv</sp>.
 <i>G. K.</i></chapter>
 
-<chapter name=”Drivholt”>
+<chapter name="Drivholt">
 <b>Drivholt,</b> et Værktøj, som bruges til at slaa
 Tøndebaand fast med.
 <i>F. W.</i></chapter>
 
-<chapter name=”Drivhus”>
+<chapter name="Drivhus">
 <b>Drivhus</b> kaldes i daglig Tale ethvert
 glasdækket Hus, hvori der dyrkes Planter.
 Korrektere vilde det være derved alene at forstaa
@@ -21,13 +21,13 @@ glasdækket, kunstig opvarmet Lokale, naar de
 skal kunne dyrkes i Norden.
 <i>L. H.</i></chapter>
 
-<chapter name=”Drivis”>
+<chapter name="Drivis">
 <b>Drivis,</b> se <sp>Is</sp>.</chapter>
 
-<chapter name=”Drivisteorien”>
+<chapter name="Drivisteorien">
 <b>Drivisteorien,</b> d. s. s. <sp>Driftteorien</sp>.</chapter>
 
-<chapter name=”Drivkraft”>
+<chapter name="Drivkraft">
 <b>Drivkraft,</b> en Energikilde, som formaar at
 sætte en Maskine i Bevægelse og
 vedligeholde denne Bevægelse. Som D. anvendes
@@ -46,7 +46,7 @@ anvendes i Alm. Damp- og Luftarters Tryk i henh.
 Dampmaskinen og Forbrændingsmotorer.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Drivning”>
+<chapter name="Drivning">
 <b>Drivning</b> paa fri Haand er en kold Smedning
 af tynde Metalplader, gaaende ud paa ved
 Forskydning at tilvejebringe Kar, saasom Tekedler,
@@ -82,7 +82,7 @@ Presning. - D. med Punsel, se <sp>Ciselering</sp>.
 
 <img></img></chapter>
 
-<chapter name=”Drivning af Planter”>
+<chapter name="Drivning af Planter">
 <b>Drivning af Planter.</b> Ved Plantedrivning er
 det Opgaven at bringe Planterne til at give
 brugeligt Produkt paa en anden Aarstid end den
@@ -125,13 +125,13 @@ Drivning saavel af Blomster som Grønsel og
 Frugt alm.
 <i>L. H.</i></chapter>
 
-<chapter name=”Drivovn”>
+<chapter name="Drivovn">
 <b>Drivovn</b> er en rund Ovn, som benyttes i
 Sølvhytterne til at indvinde Sølvet af Værkblyet
 ved <sp>Afdrivning</sp> (s. d.).
 <i>A. G.</i></chapter>
 
-<chapter name=”Drivrem”>
+<chapter name="Drivrem">
 <b>Drivrem,</b> Rem, oftest af Læder, hvorved to
 Skiver, <sp>Remskiverne</sp>, forbindes, og det
 opnaas, at den enes Bevægelse overføres til

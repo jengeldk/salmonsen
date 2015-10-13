@@ -2,7 +2,7 @@
 417-31).
 <i>Fz. D.</i></chapter>
 
-<chapter name=”Desjardins, Erneste”>
+<chapter name="Desjardins, Erneste">
 <b>Desjardins</b> [dæзar'dæ], <sp>Erneste</sp>, fr.
 Oldgransker, ovenn. A. D.'s Broder, f. 30. Septbr 1823
 i Noisy-sur-Oise, d. 22. Oktbr 1886 i Paris,
@@ -43,7 +43,7 @@ udgav han 1869 <i>Guide dans l'Égypte ancienne et
 moderne</i>.
 <i>V. S.</i></chapter>
 
-<chapter name=”Desjardins, Michel Albert”>
+<chapter name="Desjardins, Michel Albert">
 <b>Desjardins</b> [dæзar'dæ], <sp>Michel Albert</sp>,
 fr. Retslærd, ovenn. A. A. D.'s Broder, f. i Beauvais
 28. Apr. 1838, d. smst. 1897, <i>Dr. phil. et jur.</i>, 1864
@@ -80,21 +80,21 @@ sciences morales et politiques de l'institut de
 France</i> XXII [Paris 1900] S. 69-95).
 <i>Fz. D.</i></chapter>
 
-<chapter name=”Desjardins, , M.”>
+<chapter name="Desjardins, , M.">
 <b>Desjardins</b> [dæзar'dæ], <sp>M.</sp>, nederlandsk
 Billedhugger, se <sp>Bogaert</sp>.</chapter>
 
-<chapter name=”Desjatina”>
+<chapter name="Desjatina">
 <b>Desjatina</b> [d<sub>je</sub>s<sub>j</sub>e'tin<sub>a</sub>], russ. Markmaal. D.
 indeholder 2400 Saschén<sup>2</sup> = 1,0925 Hekt. - 1,98
 dansk Td. Land.
 <i>Th. O.</i></chapter>
 
-<chapter name=”Deskription”>
+<chapter name="Deskription">
 <b>Deskription</b> (lat.), Beskrivelse, Skildring
 <sp>déskriptiv</sp>, beskrivende.</chapter>
 
-<chapter name=”Deskriptivgeometri”>
+<chapter name="Deskriptivgeometri">
 <b>Deskriptivgeometri</b> eller <sp>beskrivende
 Geometri</sp> omhandler Metoderne til
 Fremstilling af Genstande i Rummet ved Tegning i

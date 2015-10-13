@@ -46,7 +46,7 @@ Eddikesyre og en alkoholisk Opløsning af forsk.
 æteriske Olier o. l.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eddike, medicinsk”>
+<chapter name="Eddike, medicinsk">
 <b>Eddike,</b> <sp>medicinsk</sp>, kaldes forsk. Udtræk
 af vegetabilske Stoffer, tilberedte med E. eller
 fortyndet Eddikesyre. For Holdbarhedens Skyld
@@ -58,7 +58,7 @@ danske Farmakope er kun een med. E. officinel,
 nemlig Strandløgeddike.
 <i>E. K.</i></chapter>
 
-<chapter name=”Eddikeaal”>
+<chapter name="Eddikeaal">
 <b>Eddikeaal</b> (<i>Anguillula aceti</i>), en lille
 Rundorm, som kan naa en Længde af 1-2 mm, og
 som undertiden i store Masser kan træffes i
@@ -92,35 +92,35 @@ E. en sjældnere og sjældnere Gæst paa vort
 Bord.
 <i>(M. L.). T. K.</i></chapter>
 
-<chapter name=”Eddikeaand”>
+<chapter name="Eddikeaand">
 <b>Eddikeaand,</b> d. s. s. <sp>Aceton</sp>.</chapter>
 
-<chapter name=”Eddikeessens”>
+<chapter name="Eddikeessens">
 <b>Eddikeessens,</b> se <sp>Eddike</sp>.</chapter>
 
-<chapter name=”Eddikeferment”>
+<chapter name="Eddikeferment">
 <b>Eddikeferment,</b> se <sp>Eddike</sp>.</chapter>
 
-<chapter name=”Eddikegæring”>
+<chapter name="Eddikegæring">
 <b>Eddikegæring,</b> se <sp>Eddike</sp>.</chapter>
 
-<chapter name=”Eddikemaaler”>
+<chapter name="Eddikemaaler">
 <b>Eddikemaaler,</b> se <sp>Acetometer</sp>.</chapter>
 
-<chapter name=”Eddikemoder”>
+<chapter name="Eddikemoder">
 <b>Eddikemoder,</b> se <sp>Eddike</sp>.</chapter>
 
-<chapter name=”Eddikesprit”>
+<chapter name="Eddikesprit">
 <b>Eddikesprit,</b> se <sp>Eddike</sp>.</chapter>
 
-<chapter name=”eddikesure Salte”>
+<chapter name="eddikesure Salte">
 <b>eddikesure Salte,</b> <sp>Acetater</sp>, se
 <sp>Eddikesyre</sp>.</chapter>
 
-<chapter name=”Eddikesvamp”>
+<chapter name="Eddikesvamp">
 <b>Eddikesvamp,</b> se <sp>Eddike</sp>.</chapter>
 
-<chapter name=”Eddikesyre”>
+<chapter name="Eddikesyre">
 <b>Eddikesyre,</b> C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> ell. CH<sub>3</sub>.COOH, en
 enbasisk organisk Syre af den alifatiske Række,
 findes i Planteriget dels i fri Tilstand, dels som

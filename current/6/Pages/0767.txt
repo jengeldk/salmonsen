@@ -8,19 +8,19 @@ Aartusinde ældre Tidsafsnit. (Afb., se
 Oldsager, Bronzealder«, Nr. 401).
 <i>H. A. K.</i></chapter>
 
-<chapter name=”Edssag”>
+<chapter name="Edssag">
 <b>Edssag,</b> se <sp>Edsdom</sp>.</chapter>
 
-<chapter name=”Edsstævning”>
+<chapter name="Edsstævning">
 <b>Edsstævning,</b> se <sp>Edsdom</sp>.</chapter>
 
-<chapter name=”Edstema”>
+<chapter name="Edstema">
 <b>Edstema,</b> se <sp>Edsdom</sp>.</chapter>
 
-<chapter name=”Edsvorneretter”>
+<chapter name="Edsvorneretter">
 <b>Edsvorneretter,</b> se <sp>Nævninger</sp>.</chapter>
 
-<chapter name=”Edsørelovgivning”>
+<chapter name="Edsørelovgivning">
 <b>Edsørelovgivning</b> er Betegnelsen for en
 vis Del af den sv. middelalderlige Lovgivning,
 der kaldes saaledes, fordi den blev bekræftet af
@@ -44,11 +44,11 @@ gennem mange Aarh., omend med et noget
 vekslende Indhold.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Edukation”>
+<chapter name="Edukation">
 <b>Edukation</b> (lat.), Opdragelse; <sp>Edukator</sp>,
 Opdrager.</chapter>
 
-<chapter name=”Edukt”>
+<chapter name="Edukt">
 <b>Edukt</b> kaldes undertiden et ved et kemisk
 Arbejde udvundet Stof, der som saadant
 allerede har været til Stede i Raastoffet, i
@@ -56,11 +56,11 @@ Modsætning til <sp>Produkt</sp>, der først er blevet til
 under Arbejdets Gang.
 <i>K. M.</i></chapter>
 
-<chapter name=”E-dur”>
+<chapter name="E-dur">
 <b>E-dur,</b> den Dur-Tonart, der har E til
 Grundtone; den har fire ♯, for <i>f</i>, <i>c</i>, <i>g</i> og <i>d</i>.</chapter>
 
-<chapter name=”Edvard den Ældre”>
+<chapter name="Edvard den Ældre">
 <b>Edvard</b> (<sp>Eadward</sp>) <sp>den Ældre</sp>,
 angelsachsisk Konge 901-24, ældste Søn af Alfred
 den Store, maatte først kæmpe med sin Fætter
@@ -84,7 +84,7 @@ indvandrede Nordboeres Vælde. (<sp>Litt</sp>.:
 <sp>Steenstrup</sp>, »Normannerne«, III [Kbhvn 1882]).
 <i>H. O.</i></chapter>
 
-<chapter name=”Edvard I”>
+<chapter name="Edvard I">
 <b>Edvard I,</b> eng. Konge 1272-1307, Søn af
 Henrik III, f. 17. Juni 1239, d. 7. Juli 1307.
 Som ung tog han ivrig Del i Faderens Kampe
@@ -148,7 +148,7 @@ døde E. (<sp>Litt</sp>.: <sp>Jenks</sp>, <i>E. Plantagenet</i> [New
 York og London 1902]).
 <i>M. M.</i></chapter>
 
-<chapter name=”Edvard II”>
+<chapter name="Edvard II">
 <b>Edvard II,</b> eng. Konge 1307-27, ovenn.'s
 Søn, f. 25. Apr. 1284, d. 21. Septbr 1327, den
 første »Prins af Wales«. Han var ikke ubegavet,

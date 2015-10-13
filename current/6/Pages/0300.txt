@@ -15,22 +15,22 @@ Univ.'s Retshistorie 1479-1879«, I-II [1879];
 gældende Regler« [1884]).
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Doktorand”>
+<chapter name="Doktorand">
 <b>Doktorand,</b> se <sp>Doktor</sp>.</chapter>
 
-<chapter name=”Doktorat”>
+<chapter name="Doktorat">
 <b>Doktorat</b> (lat.), Indehavelsen af
 Doktorgraden (se <sp>Doktor</sp>).</chapter>
 
-<chapter name=”doktorere”>
+<chapter name="doktorere">
 <b>doktorere,</b> foreskrive Lægemidler (særlig
 med spottende Bet.), drive Kvaksalveri.</chapter>
 
-<chapter name=”Doktrin”>
+<chapter name="Doktrin">
 <b>Doktrin</b> (lat.), Lære, Teori, Videnskab,
 ogsaa <sp>Lærefag</sp>.</chapter>
 
-<chapter name=”doktrinær”>
+<chapter name="doktrinær">
 <b>doktrinær</b> kaldes den, der med pedantisk
 Stivhed klamrer sig til Doktrinen, ensidig
 holder fast ved dens Indbegreb af Regler og
@@ -51,7 +51,7 @@ XVIII's Charte. <sp>Doktrinarisme</sp>, d. Væsen
 og Handlemaade, Principrytteri.
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Dokument”>
+<chapter name="Dokument">
 <b>Dokument</b> (lat.) bruges undertiden i saa
 vid Bet., at derved forstaas enhver Genstand,
 der kan tjene som Bevis (synligt Bevismiddel);
@@ -148,7 +148,7 @@ være af megen bevisende Kraft. Om <sp>Kopier</sp>
 (Genparter), se <sp>Afskrift</sp>.
 <i>E. T.</i></chapter>
 
-<chapter name=”Dokumentation”>
+<chapter name="Dokumentation">
 <b>Dokumentation</b> (lat.), Bevisførelse, særlig
 Bevisførelse ved Hjælp af Dokumenter. For den
 danske Højesteret, ved hvilken Proceduren vel

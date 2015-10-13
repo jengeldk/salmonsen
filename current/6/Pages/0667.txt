@@ -1,4 +1,4 @@
-<chapter name=”Dødedommen”>
+<chapter name="Dødedommen">
 <b>Dødedommen,</b> Dom over de Afdøde,
 fremstilles ofte paa ægypt. Papyrusruller ell.
 Mumiekister o. desl. Herskeren i de Dødes Rige, Osiris,
@@ -46,7 +46,7 @@ det virkelige Liv.
 
 <img>Den ægyptiske Dødedom.</img>
 
-<chapter name=”Døde Haand”>
+<chapter name="Døde Haand">
 <b>Døde Haand</b> (lat. <i>mánus mórtua</i>, fr.
 <i>mainmorte</i>, eng. <i>mortmain</i>, tysk, <i>tote Hand</i>) er et
 Udtryk, der er brugt for at betegne, at Gods,
@@ -63,7 +63,7 @@ unddraget Besidderens saavel som enhver
 andens fri Dispositionsret.
 <i>E. T.</i></chapter>
 
-<chapter name=”Døde Hav”>
+<chapter name="Døde Hav">
 <b>Døde Hav</b> (<sp>Bahr Lut</sp>), Sø i Palæstina,
 ligger i den store syriske Gravsænkning, som
 gennem Syrien og Palæstina strækker sig ned til

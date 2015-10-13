@@ -23,7 +23,7 @@ Chronologie der altchristl. Litteratur«, 2. Del, II
 [Leipzig 1904]).
 <i>L. M.</i></chapter>
 
-<chapter name = ”Clément's og Désormes' Forsøg”>
+<chapter name="Clément's og Désormes' Forsøg">
 <b>Clément's</b> [kle'mãs] og <sp>Désormes</sp>' Forsøg.
 Sammentrykker man pludselig en Luftmasse,
 stiger dens Temp., og Trykket forøges stærkere,
@@ -38,7 +38,7 @@ i en Flaske, der rummede 20 l. Der anvendes
 kun ganske smaa Trykforøgelser.
 <i>K. S. K.</i></chapter>
 
-<chapter name = ”Clemmensen, Andreas Laurits”>
+<chapter name="Clemmensen, Andreas Laurits">
 <b>Clemmensen,</b> <sp>Andreas Laurits</sp>, dansk
 Arkitekt, f. 7. Aug. 1852 i Læk Præstegaard i
 Slesvig. 1876 vandt han Akademiets lille
@@ -94,10 +94,10 @@ for Christiansborgs Genopførelse; 1904-07 var
 han Formand for Arkitektforeningen.
 <i>C. B-r.</i></chapter>
 
-<chapter name = ”Clepsinidæ”>
+<chapter name="Clepsinidæ">
 <b>Clepsinidæ,</b> se <sp>Igler</sp>.</chapter>
 
-<chapter name = ”Clerc”>
+<chapter name="Clerc">
 <b>Clerc</b> (fr.) [klæ'r] (af lat. <i>clericus</i>) brugtes i
 Middelalderen over hele Europa, ogsaa her i
 Norden, og bruges endnu i Frankrig om
@@ -111,10 +111,10 @@ og denne Bet. har det endnu baade i Frankrig
 og andre romanske Lande.
 <i>K. Hch.</i></chapter>
 
-<chapter name = ”Clerc, le”>
+<chapter name="Clerc, le">
 <b>Clerc,</b> <sp>le</sp> [l<sub>ö</sub>-'klæ'r], se <sp>Le Clerc</sp>, <sp>L. A.</sp> og <sp>S</sp>.</chapter>
 
-<chapter name = ”Clerfait, Franz Sebastian de Croix”>
+<chapter name="Clerfait, Franz Sebastian de Croix">
 <b>Clerfait</b> [klær'fæ], <sp>Franz Sebastian de
 Croix</sp>, Greve, østerr. Feltmarskal (1733-98),
 begyndte sin milit. Løbebane i Østerrig 3 Aar

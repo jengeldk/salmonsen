@@ -18,7 +18,7 @@ mindre Grene svarer til de underordnede,
 systematiske Inddelinger.
 <i>R. H. S.</i></chapter>
 
-<chapter name=”Dyresagn”>
+<chapter name="Dyresagn">
 <b>Dyresagn.</b> Ikke blot i trykt og skrevet Litt.,
 men ogsaa i den Mængde Sagn, der findes hos
 saa at sige alle Jordens Folkeslag, haves der
@@ -119,7 +119,7 @@ Ræffue Bog«, udg. af <sp>Niels Møller</sp> [1914]).
 Jfr <sp>Folkeminder</sp>.
 <i>A. O.</i></chapter>
 
-<chapter name=”Dyrestraffe og Dyreprocesser”>
+<chapter name="Dyrestraffe og Dyreprocesser">
 <b>Dyrestraffe</b> og <b>Dyreprocesser.</b> Det er et
 fra mange Retsforfatninger paa ældre
 Udviklingstrin kendt Fænomen, at Dyr, navnlig

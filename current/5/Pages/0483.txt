@@ -8,7 +8,7 @@ vore Dage hedder hun »Fräulein«, og
 Sverige - kun i Tiltale til Sypiger,
 Opvartningspiger (»Schenkmamsellen«) o. s. v.</chapter>
 
-<chapter name=”Damokles”>
+<chapter name="Damokles">
 <b>Damokles,</b> Syrakusaner, der levede ved
 Dionysios den Ældres Hof, bekendt af flg.
 Anekdote, hvorfra det alm. brugte Udtryk »et
@@ -29,7 +29,7 @@ Herskermagtens Glæder og bad blot om at maatte
 slippe bort.
 <i>C. B.</i></chapter>
 
-<chapter name=”Damon og Fintias”>
+<chapter name="Damon og Fintias">
 <b>Damon</b> og <b>Fintias</b>, to Pythagoræere i Syrakus,
 bekendte for deres trofaste Venskab. Da der
 ved den yngre Dionysios' Hof opstod Strid om
@@ -48,7 +48,7 @@ han kunde være med i et saadant Venskab,
 som nu havde staaet sin Prøve.
 <i>C. B.</i></chapter>
 
-<chapter name=”Damoreau, Laure Cinti Montalan”>
+<chapter name="Damoreau, Laure Cinti Montalan">
 <b>Damoreau</b> [damå'ro], <sp>Laure Cinti
 Montalan</sp>, fr. Sangerinde, f. i Paris 6. Febr
 1801, d. i Chantilly 25. Febr 1863, debuterede
@@ -62,10 +62,10 @@ Lærerinde ved Konservatoriet. D. har udgivet
 adskillige Romancer og en Sangskole.
 <i>S. L.</i></chapter>
 
-<chapter name=”Damourit”>
+<chapter name="Damourit">
 <b>Damourit</b> [damu'rit], se <sp>Glimmer</sp>.</chapter>
 
-<chapter name=”Damp”>
+<chapter name="Damp">
 <b>Damp</b> kalder man enhver Luftart, der
 nogenlunde let ved Afkøling og Tryk lader sig
 forvandle til en Vædske ell. (sjældnere) til et fast

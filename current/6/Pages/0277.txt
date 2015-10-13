@@ -61,14 +61,14 @@ Tidsskrift« XXVII]; <sp>Meyer</sp>, »Møntspørgsmaalet«
 og Sølv« [»Nyt Tidsskrift«, Kria 1895]).
 <i>(E. M.). C. Th.</i></chapter>
 
-<chapter name=”Dobbeltoktav”>
+<chapter name="Dobbeltoktav">
 <b>Dobbeltoktav,</b> et Interval, der omfatter to
 Oktaver.</chapter>
 
-<chapter name=”Dobbeltpost”>
+<chapter name="Dobbeltpost">
 <b>Dobbeltpost,</b> se <sp>Post</sp>.</chapter>
 
-<chapter name=”Dobbeltpunkt”>
+<chapter name="Dobbeltpunkt">
 <b>Dobbeltpunkt</b> (mat.) paa en tegnet Kurve er
 et Punkt, hvori Kurven skærer sig selv (som
 <i>A</i> paa Fig.). Naar en Linie i Kurvens Plan
@@ -92,14 +92,14 @@ Toppunktet.
 
 <img></img></chapter>
 
-<chapter name=”Dobbeltrem”>
+<chapter name="Dobbeltrem">
 <b>Dobbeltrem,</b> Maskinrem samlet af to
 Tykkelser Læder.</chapter>
 
-<chapter name=”Dobbel-Trost”>
+<chapter name="Dobbel-Trost">
 <b>Dobbel-Trost,</b> se <sp>Drossel</sp>.</chapter>
 
-<chapter name=”Dobbeltsalg”>
+<chapter name="Dobbeltsalg">
 <b>Dobbeltsalg</b> (<sp>jur</sp>.) kaldes det Forhold, der
 indtræder, naar samme Ting bortsælges til
 forskellige Personer. Det særegne i den ved D.
@@ -142,10 +142,10 @@ indeholde en svigagtig Adfærd, der paadrager
 Strafansvar.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Dobbeltsalte”>
+<chapter name="Dobbeltsalte">
 <b>Dobbeltsalte,</b> se <sp>Salte</sp>.</chapter>
 
-<chapter name=”Dobbeltskarlagen”>
+<chapter name="Dobbeltskarlagen">
 <b>Dobbeltskarlagen,</b> C<sub>22</sub>H<sub>15</sub>N<sub>4</sub>O<sub>4</sub>SNa, et
 Farvestof, der fremstilles af
 Aminoazobenzolmonosulfonsyren og <i>β</i>-Naftol, og som bestaar af

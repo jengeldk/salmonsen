@@ -6,10 +6,10 @@ velgørende Humor. Kendte Arbejder:
 »Klostersuppen« m. fl.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Dania, lat. Navn for Danmark”>
+<chapter name="Dania, lat. Navn for Danmark">
 <b>Dania,</b> lat. Navn for Danmark.</chapter>
 
-<chapter name=”Dania, dansk Tidsskrift”>
+<chapter name="Dania, dansk Tidsskrift">
 <b>Dania,</b> dansk Tidsskrift for Folkemaal og
 Folkeminder, udgivet fra 1890 af
 Universitetsjubilæets Danske Samfund under Ledelse af
@@ -65,7 +65,7 @@ som efter D.'s Død fortsættes under Budmani's
 Redaktion.
 <i>(K. V.). H. C-e.</i></chapter>
 
-<chapter name=”Daniel, Profet”>
+<chapter name="Daniel, Profet">
 <b>Daniel,</b> iflg. Traditionen en paa Eksilets Tid
 levende Profet, der har forfattet <sp>D.'s Bog</sp>. I
 denne, der er skrevet dels paa Hebraisk, dels
@@ -130,7 +130,7 @@ Cambridge Bible</i>, 1900), <sp>Marti</sp> (Tübingen og Leipz.
 (1894).
 <i>J. P.</i></chapter>
 
-<chapter name=”Daniel, Arnaud”>
+<chapter name="Daniel, Arnaud">
 <b>Daniel</b> [da'n<sub>i</sub>æl], <sp>Arnaud</sp>, provençalsk
 Troubadour, der levede i Slutn. af 12. Aarh.
 Han har efterladt 18 lyriske Digte, skrevne i en
@@ -139,7 +139,7 @@ indviklet Strofebygning, hvorfor de ogsaa er
 temmelig Uforstaaelige. (<sp>Litt</sp>.: <sp>Canello</sp>, <i>La
 Vita e le opere del trovatore A. D.</i> [Halle 1883]).</chapter>
 
-<chapter name=”Daniel, Gabriel”>
+<chapter name="Daniel, Gabriel">
 <b>Daniel</b> [da'n<sub>i</sub>æl], <sp>Gabriel</sp>, fr. Historiker
 (1649-1728), traadte 1667 ind i Jesuitterordenen
 og blev Bibliotekar ved Ordenshuset i Paris.

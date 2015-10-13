@@ -6,14 +6,14 @@ faaet Kaldelsen, er der til hendes Ære opført
 en Kirke.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Domsakt”>
+<chapter name="Domsakt">
 <b>Domsakt,</b> se <sp>Akt</sp>.</chapter>
 
-<chapter name=”Domsforhandling”>
+<chapter name="Domsforhandling">
 <b>Domsforhandling,</b> d. s. s.
 Hovedforhandlingen under en mundtlig Procedure.</chapter>
 
-<chapter name=”Domsforkyndelse”>
+<chapter name="Domsforkyndelse">
 <b>Domsforkyndelse.</b> I enkelte Tilfælde
 indkalder Retten Sagens Parter til at paahøre
 Domsafsigelsen (saaledes i Gæsterets-, Politirets-
@@ -30,13 +30,13 @@ Stævningsmændene efter de for Stævningers Forkyndelse
 foreskrevne Regler.
 <i>E. T.</i></chapter>
 
-<chapter name=”Domsfuldbyrdelse”>
+<chapter name="Domsfuldbyrdelse">
 <b>Domsfuldbyrdelse,</b> se <sp>Eksekution</sp>.</chapter>
 
-<chapter name=”Domsgrunde”>
+<chapter name="Domsgrunde">
 <b>Domsgrunde,</b> se <sp>Præmisser</sp>.</chapter>
 
-<chapter name=”Domskoler”>
+<chapter name="Domskoler">
 <b>Domskoler</b> ell. <sp>Katedralskoler</sp>,
 Skoler i Middelalderen, beslægtede med
 Klosterskolerne. For at raade Bod paa den Uvidenhed, i
@@ -68,13 +68,13 @@ til 11. Aarh., men gik fra den Tid tilbage.
 Navnet er dog bibeholdt for enkelte lærde Skoler.
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Domskraft”>
+<chapter name="Domskraft">
 <b>Domskraft,</b> se <sp>Retskraft</sp>.</chapter>
 
-<chapter name=”Domsmænd”>
+<chapter name="Domsmænd">
 <b>Domsmænd,</b> se <sp>Meddomsmænd</sp>.</chapter>
 
-<chapter name=”Domssag”>
+<chapter name="Domssag">
 <b>Domssag.</b> Under en Proces vil Bevisførelse
 ofte finde Sted under selve Hovedsagen; men
 det kan ogsaa hænde, at Vidner afhøres, Syn
@@ -88,7 +88,7 @@ der har et andet umiddelbart Øjemed end
 Opnaaelse af en Dom.
 <i>E. T.</i></chapter>
 
-<chapter name=”Domssamlinger”>
+<chapter name="Domssamlinger">
 <b>Domssamlinger.</b> Af saadanne kan
 fremhæves, for <sp>Danmark</sp>: »Højesteretstidende«
 (siden 1857), »Ugeskrift for Retsvæsen« (siden
@@ -157,6 +157,6 @@ leading cases on various branches of the Law</i>
 (2 Bd, 11. Udg. London 1903).
 <i>E. T.</i></chapter>
 
-<chapter name=”Domstens Rev”>
+<chapter name="Domstens Rev">
 <b>Domstens Rev,</b> ud for Fiskerlejet
 <sp>Domsten</sp> ved den sv. Kyst i Øresund, 1 Sm. S. f.

@@ -11,7 +11,7 @@ betyder egl. »Tand« og svarer til det nordiske
 »Tinde«
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dentaler”>
+<chapter name="Dentaler">
 <b>Dentaler</b> ell. <sp>Tandlyd</sp> kaldes de
 Konsonanter, ved hvilke Overtænderne berøres af
 Tungespidsen. Da selve Tænderne ikke kan
@@ -33,7 +33,7 @@ Varianter af [t, d, n, l, s] samt Tungespids-[r];
 smlg. <sp>Supradental</sp>.
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Dentalielag”>
+<chapter name="Dentalielag">
 <b>Dentalielag</b> kaldes i al Alm. Aflejringer,
 der er rige paa Skaller af Dentalier
 (Søtænder). Særlig anvendes Betegnelsen om visse i
@@ -41,16 +41,16 @@ Tyskland forekommende, til Trias og Jura
 hørende Aflejringer.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Dentalium”>
+<chapter name="Dentalium">
 <b>Dentalium,</b> se <sp>Søtænder</sp>.</chapter>
 
-<chapter name=”Dentaria”>
+<chapter name="Dentaria">
 <b>Dentaria,</b> se <sp>Tandrod</sp>.</chapter>
 
-<chapter name=”Dentatus”>
+<chapter name="Dentatus">
 <b>Dentatus,</b> se <sp>Curius D</sp>.</chapter>
 
-<chapter name=”Dent Blanche”>
+<chapter name="Dent Blanche">
 <b>Dent Blanche</b> ['dã-'blã.∫],
 <sp>Steinbockhorn</sp>, en firkantet Gnejspyramide, der ligger
 i det schweiziske Kanton Wallis, 11 km V. f.
@@ -59,11 +59,11 @@ Den blev første Gang besteget 1862 af
 Englænderne Kennedy og Wigram.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dent de Morcles”>
+<chapter name="Dent de Morcles">
 <b>Dent de Morcles</b> ['dã-d-'mårkl<sub>ö</sub>], se <sp>Dents
 du Midi</sp>.</chapter>
 
-<chapter name=”Dente, Joseph Gottlieb”>
+<chapter name="Dente, Joseph Gottlieb">
 <b>Dente</b> ['dænt<sub>ə</sub>], <sp>Joseph Gottlieb</sp>, sv.
 Musiker, f. 23. Jan. 1838 i Sthlm, d. 24. Maj 1905
 smst., Elev af Fr. Berwald, uddannede sig i sin
@@ -83,7 +83,7 @@ Konservatoriet. D. har komponeret Værker for
 Kammermusik og Orkester samt Operetten »I Marokko«.
 <i>A. H.</i></chapter>
 
-<chapter name=”Dente, Marco”>
+<chapter name="Dente, Marco">
 <b>Dente,</b> <sp>Marco</sp>, kaldet <sp>M. da Ravenna</sp>,
 ital. Kobberstikker, f. i Ravenna, dræbt 1527
 under Roms Belejring, hørte tillige med Ag.
@@ -94,14 +94,14 @@ Kobberstiksamlingen i Kbhvn ejer en Rk. af D.'s
 Blade, opbevarede sammen med Marc-Anton's.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”dentelles”>
+<chapter name="dentelles">
 <b>dentelles</b> [dã'tæl] (fr.), egl. smaa Tænder;
 Kniplinger.</chapter>
 
-<chapter name=”denticuli”>
+<chapter name="denticuli">
 <b>denticuli</b> (lat.), Tandsnit i Gesimser.</chapter>
 
-<chapter name=”Dentilabialer”>
+<chapter name="Dentilabialer">
 <b>Dentilabialer</b> ell. <sp>Tandlæbelyd</sp>, bedre
 kaldet <sp>Labiodentaler</sp> ell.
 <sp>Læbetandlyd</sp>, Lyd frembragte ved Underlæbens
@@ -109,7 +109,7 @@ Virksomhed mod Overtænderne; de vigtigste er [f]
 og [v].
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Dentipalataler”>
+<chapter name="Dentipalataler">
 <b>Dentipalataler,</b> i Lundells fonetiske System
 (»Det svenska Landsmålsalfabetet« [1879])
 Benævnelsen paa de forreste Tungefladelyd,
@@ -120,7 +120,7 @@ af Overmunden. Hertil hører Forlyden i sv.
 og [з].
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Dentirostres”>
+<chapter name="Dentirostres">
 <b>Dentirostres,</b> en Betegnelse brugt af
 <sp>Cuvier</sp> 1817 for en Gruppe af Spurvefugle
 omfattende bl. a. Drosler, Vipstjærter, Fluesnappere
@@ -128,7 +128,7 @@ og Tornskader, af andre Systematikere brugt
 med anden Begrænsning.
 <i>O. H.</i></chapter>
 
-<chapter name=”Dentist”>
+<chapter name="Dentist">
 <b>Dentist,</b> af lat. <i>dens</i> (Tand), heraf ligeledes
 eng. <i>dentist</i> og fr. <i>dentiste</i>, begge betydende
 Tandlæge. I denne Bet. benyttes D. derimod
@@ -140,7 +140,7 @@ Lov ikke som den øvrige Tandlægekunst er
 forbeholdt Tandlægerne, men er fri Næring.
 <i>E. H-p.</i></chapter>
 
-<chapter name=”Dentitio difficilis”>
+<chapter name="Dentitio difficilis">
 <b>Dentitio difficilis,</b> vanskeligt Tandfrembrud,
 er ret alm. for <sp>Mælketændernes</sp> Vedk.,
 især Hjørnetænderne og Fortænderne, idet

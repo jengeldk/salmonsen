@@ -23,16 +23,16 @@ løber i modsat Retning, c) <sp>halvkrydset</sp>,
 naar Akslerne ikke er parallelle.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Drivtømmer”>
+<chapter name="Drivtømmer">
 <b>Drivtømmer,</b> løsrevne Træstammer, der med
 Strømmen drives ud i Havet og derved ofte
 kan føres til fjerne Kyster.
 <i>E. Su.</i></chapter>
 
-<chapter name=”Drivvod”>
+<chapter name="Drivvod">
 <b>Drivvod,</b> se <sp>Vod</sp>.</chapter>
 
-<chapter name=”Drogden”>
+<chapter name="Drogden">
 <b>Drogden</b> kaldes Farvandet mellem
 <sp>Amager</sp> og <sp>Saltholm</sp> til Ø. f. Amager Sydspids.
 Navnet er af gl, holl. Oprindelse og hentyder til
@@ -59,7 +59,7 @@ hvorfra <sp>Hollænderdyb</sp> gaar N. paa Ø. om
 Middelgrund og <sp>Kongedyb</sp> V. om samme.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Droge”>
+<chapter name="Droge">
 <b>Droge</b> ['dro.g<sub>ə</sub>] (<sp>Drogue</sp>) kaldes alle raa
 og halvt tilberedte vegetabilske og animalske
 Produkter til med. ell. tekn. Brug, saaledes
@@ -84,7 +84,7 @@ Bedrag, af illyrisk <i>drug</i>, kostbar, ell. af keltisk
 Smag.
 <i>(A. B.). E. K.</i></chapter>
 
-<chapter name=”Drogheda”>
+<chapter name="Drogheda">
 <b>Drogheda</b> [dr<sub>å</sub>'hid<sub>a</sub>, 'kid<sub>a</sub> ell. 'dråk<sub>ə</sub>d<sub>a</sub>]. By
 i det østlige Irland, Prov. Leinster, Louthshire,
 ligger 6 km fra Mundingen af Boyne-Floden i
@@ -111,13 +111,13 @@ Jakob's Nederlag ved Boyne-Floden. Indtil 1885
 sendte D. et Medlem til Parlamentet.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Drogist”>
+<chapter name="Drogist">
 <b>Drogist</b> [-'gist] (fr.), Forhandler af Droger,</chapter>
 
-<chapter name=”Drogue”>
+<chapter name="Drogue">
 <b>Drogue</b> [dråg] (fr.), se <sp>Droge</sp>.</chapter>
 
-<chapter name=”Drohobycz”>
+<chapter name="Drohobycz">
 <b>Drohobycz</b> [drå'håbyt∫], By i Kejserdømmet
 Østerrig, Galizien, ligger 302 m o. H. ved
 venstre Bred af Dnjestr's Biflod Tysmenica og er
@@ -131,7 +131,7 @@ Petroleum, endvidere er der Saltkogerier,
 Oliemøller, Garverier og Bryggerier.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”droit”>
+<chapter name="droit">
 <b>droit</b> [drwa] (fr., af middelalderlig lat.
 <i>diréctum</i>), Ret, Rettighed, Retsvidenskab, Afgift,
 særlig om indirekte Afgifter og Gebyrer. Af de

@@ -15,7 +15,7 @@ Parlamentet sender D. fire Medlemmer. Hovedstaden
 er Dorchester.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dorset”>
+<chapter name="Dorset">
 <b>Dorset</b> ['då.<sub>ə</sub>s<sub>i</sub>t], Jarler, Marquis'er og
 Hertuger af, eng., siden 1843 udgaaede, Adelstitler,
 som er blevne baarne af fl. Medlemmer inden
@@ -23,13 +23,13 @@ for Familierne <sp>Beaufort</sp>, <sp>Grey</sp> og
 <sp>Sackville</sp>.
 <i>J. L.</i></chapter>
 
-<chapter name=”Dorsetteen”>
+<chapter name="Dorsetteen">
 <b>Dorsetteen</b> ['då<sub>ə</sub>s<sub>i</sub>ti.n], et Halvsilketøj,
 der fremstilles i England med Kæde af fint
 Kamgarn og Silkeislæt.
 <i>K. M.</i></chapter>
 
-<chapter name=”dorsiventral”>
+<chapter name="dorsiventral">
 <b>dorsiventral</b> (af lat. <i>dórsum</i>, Ryg, og
 <i>vénter</i>, Bug) kaldes i Botanikken ethvert Organ,
 som er udviklet uenssidet, saaledes at det har
@@ -69,10 +69,10 @@ Organer. (<sp>Litt</sp>.: <sp>Warming</sp> og
 1913 ff.).
 <i>W. J.</i></chapter>
 
-<chapter name=”Dorsiventralitet”>
+<chapter name="Dorsiventralitet">
 <b>Dorsiventralitet,</b> se <sp>dorsiventral</sp>.</chapter>
 
-<chapter name=”Dorstad”>
+<chapter name="Dorstad">
 <b>Dorstad,</b> nu <sp>Wyk by Duerstede</sp>, paa
 højre Bred af Leck, der hvor den skiller sig fra
 Rhinen, og ikke langt fra Utrecht, var i
@@ -99,7 +99,7 @@ mange Ødelæggelser mistede den hurtig sin Rigdom
 og sin Bet. Har nu c. 2000 Indb.
 <i>H. O.</i></chapter>
 
-<chapter name=”Dorsten”>
+<chapter name="Dorsten">
 <b>Dorsten</b> ['dårst<sub>ə</sub>n], By i Preussen, Provins
 Westfalen, ligger 20 km VNV. f. Recklinghausen
 paa venstre Bred af Lippe. (1910) 7367 Indb.,
@@ -107,7 +107,7 @@ næsten alle Katolikker. D. er
 Jernbaneknudepunkt og Industriby.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dorstenia L.”>
+<chapter name="Dorstenia L.">
 <b>Dorstenia</b> L., Slægt af Morbærfam., Urter
 ell. Smaahuske af meget forsk. Ydre; de
 urteagtige Arter har skjolddannede ell. lappede og
@@ -129,7 +129,7 @@ Helbredelse af forgiftede Saar, særlig saadanne,
 der er fremkomne ved Slangebid.
 <i>A. M.</i></chapter>
 
-<chapter name=”Dorstfeld”>
+<chapter name="Dorstfeld">
 <b>Dorstfeld</b> ['dårstfælt], Bjergværksby i
 Preussen, Prov. Westfalen, ligger 3 km V. f.
 Dortmund ved Banen fra Duisburg til Welver. (1910)
@@ -137,14 +137,14 @@ Dortmund ved Banen fra Duisburg til Welver. (1910)
 en Del Industri.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”dorsum”>
+<chapter name="dorsum">
 <b>dorsum</b> (lat.), Ryg; Haandens Rygside; (<sp>bot</sp>.)
 Bladets Underside.</chapter>
 
-<chapter name=”Dorsum Astrolabii”>
+<chapter name="Dorsum Astrolabii">
 <b>Dorsum Astrolabii,</b> se <sp>Planisphærium</sp>.</chapter>
 
-<chapter name=”Dortmund”>
+<chapter name="Dortmund">
 <b>Dortmund</b> ['dårtmunt], By i Kongeriget
 Preussen, Prov. Westfalen, ligger ved Rhinens
 Biflod Emscher, 87 m o. H., og har (1910)

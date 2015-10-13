@@ -25,7 +25,7 @@ kun sjælden Anvendelse.
 
 <img>Dampfødepumpe.</img>
 
-<chapter name=”Dampkedeltilsyn.”>
+<chapter name="Dampkedeltilsyn.">
 <b>Dampkedeltilsyn.</b> I Danmark er det
 paabudt ved Lov om Tilsyn med Dampkedler paa
 Landjorden af 24. Marts 1875 og Lov om Tilsyn
@@ -71,7 +71,7 @@ Bygning og Udstyr af de under
 Dampskibstilsynsloven hørende Skibe og Fartøjer af 1. Aug. 1912.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Dampkogning”>
+<chapter name="Dampkogning">
 <b>Dampkogning.</b> Naar man skal bringe
 saadanne Stoffer i Kog, der let vilde sønderdeles,
 f. Eks. svides, ved at komme i Berøring med
@@ -89,17 +89,17 @@ parallelle Bør, der er nedsænket i Vædsken, ell.
 begge Indretninger benyttes samtidig.
 <i>K. M.</i></chapter>
 
-<chapter name=”Dampkran”>
+<chapter name="Dampkran">
 <b>Dampkran,</b> se <sp>Kran</sp>.</chapter>
 
-<chapter name=”Dampkrympning”>
+<chapter name="Dampkrympning">
 <b>Dampkrympning,</b> d. s. s. <sp>Dekatering</sp>
 (se <sp>Appretur</sp>).</chapter>
 
-<chapter name=”Dampkøkken”>
+<chapter name="Dampkøkken">
 <b>Dampkøkken,</b> se <sp>Folkekøkkener</sp>.</chapter>
 
-<chapter name=”Dampledning”>
+<chapter name="Dampledning">
 <b>Dampledning</b> er en Rørledning, der fører
 Dampen fra Kedlen til Forbrugsstedet.
 Materialet er i Alm ved Landkedelanlæg for

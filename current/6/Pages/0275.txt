@@ -52,7 +52,7 @@ se samtidig.
 <img>
 Dobbeltmikroskop.</img></chapter>
 
-<chapter name=”Dobbeltmisdannelser”>
+<chapter name="Dobbeltmisdannelser">
 <b>Dobbeltmisdannelser</b> (<i>Mónstra duplicia</i>)
 kaldes de Misfostre, der helt eller delvis
 repræsenterer to Organismer. Til D. regnes
@@ -90,7 +90,7 @@ Misfostre sammensatte af tre Organismer
 (<i>Monstra triplicia</i>).
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Dobbeltmøntfod”>
+<chapter name="Dobbeltmøntfod">
 <b>Dobbeltmøntfod</b> er Betegnelse for en
 Ordning af Møntforholdene, hvorved Mønter af
 begge de ædle Metaller, Guld og Sølv, fungerer som

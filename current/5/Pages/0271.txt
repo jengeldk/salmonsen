@@ -29,7 +29,7 @@ beaux-arts</i> (1867). <sp>(Litt.</sp>: <sp>Hébert</sp>, <i>Not. sur C.</i>
 [1877]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Coudreau, Henry”>
+<chapter name="Coudreau, Henry">
 <b>Coudreau</b> [ku'dro], <sp>Henry</sp>, fr. Rejsende
 (1859-99), berejste 1880-81 fr. Guyana, særlig
 de sydlig beliggende, til Dels ukendte Egne, hvor
@@ -42,7 +42,7 @@ Brasilien, særlig i Amazon-Flodens Opland, men
 døde i Pará.
 <i>C. A.</i></chapter>
 
-<chapter name=”Couëron”>
+<chapter name="Couëron">
 <b>Couëron</b> [kue'rå], By i det fr. Dept
 Loire-Inférieure, 14 km V. f. Nantes, ved Loires højre
 Bred og ved Orléans-Banen, har mek.
@@ -50,7 +50,7 @@ Værksteder, Stenbrud, en god Flodhavn og Handel med
 Kvæg og Smør. (1911) 6055 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Couillet”>
+<chapter name="Couillet">
 <b>Couillet</b> [ku'jæ], Landsby i den belgiske Prov.
 Hainaut, Arrond. Charleroi, i Sambre-Dalen, er
 Knudepunkt paa Jernbanen Charleroi-Namur
@@ -58,13 +58,13 @@ og har Kulgruber og Jernværker. (1911) 11215
 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”coulage”>
+<chapter name="coulage">
 <b>coulage</b> [ku'la.з] (fr.), Afgang, Svind af
 flydende Varer, foraarsaget ved Lækage paa
 den Beholder, hvori de opbevares.
 <i>(C. V. S.). Th. O.</i></chapter>
 
-<chapter name=”coulé”>
+<chapter name="coulé">
 <b>coulé</b> [ku'le], Glidning, et Udtryk fra Floret-
 og Kaardefægtning, betegner en Bevægelse, ved
 hvilken man under et let Tryk lader sin Klinge
@@ -74,13 +74,13 @@ til Side og skaffe Blottelse for et Stød. c. bruges
 ogsaa meget som Finte.
 <i>K. A. K.</i></chapter>
 
-<chapter name=”couleur au feu”>
+<chapter name="couleur au feu">
 <b>couleur au feu</b> [ku'lö.r-o-'fø], fr. Benævnelse
 paa Farver til keramisk Brug, <i>couleur au grand
 feu</i> [-'grã-], d. s. s. Underglasurfarve.
 <i>Arn. K.</i></chapter>
 
-<chapter name=”Coulmiers”>
+<chapter name="Coulmiers">
 <b>Coulmiers</b> [kul'm<sub>i</sub>e], Landsby i det fr. Dept
 Loiret, 21 km VNV. f. Orléans, bekendt ved
 den Kamp, der 9. Novbr 1870 her leveredes
@@ -114,7 +114,7 @@ Lazaret med c. 1000 syge og saarede tyske
 Soldater. Deres Tab var c. 1500 Mand.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Coulomb, Enhed for Elektricitetsmængde”>
+<chapter name="Coulomb, Enhed for Elektricitetsmængde">
 <b>Coulomb</b> [dansk ku'låŋ, fr. -'lå], Enhed for
 Elektricitetsmængde i det praktiske System af
 Maaleenheder. Det er den Elektricitetsmængde,
@@ -123,7 +123,7 @@ Ampère i 1 Sek. Smlg. <sp>elektriske
 Maaleenheder</sp>.
 <i>Abs. L.</i></chapter>
 
-<chapter name=”Coulomb, Charles Augustin de”>
+<chapter name="Coulomb, Charles Augustin de">
 <b>Coulomb</b> [ku'lå], <sp>Charles Augustin de</sp>,
 fr. Ingeniør og Fysiker, f. 14. Juni 1736 i
 Angoulème, d. 23. Aug. 1806 i Paris. C. traadte tidlig
@@ -152,7 +152,7 @@ ham. Fire af hans vigtigste Afhandlinger (1785
 som et Hefte af »Ostwald's Klassiker«.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Coulombs Lov”>
+<chapter name="Coulombs Lov">
 <b>Coulombs Lov</b> [ku'låŋs-] kaldes den Lov,
 hvorefter to hvilende Elektricitets- ell.
 Magnetismemængder frastøder hinanden. Den

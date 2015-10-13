@@ -14,7 +14,7 @@ behændige Fremstilling sikrede ham en taknemlig
 Læsekreds.
 <i>C. B-s.</i></chapter>
 
-<chapter name=”Éclaireur”>
+<chapter name="Éclaireur">
 <b>Éclaireur</b> [eklæ'rö.r] (fr.) betegner i Alm.
 de enkelte Ryttere, der sendes forud for en
 sluttet bereden Afdeling, dels for at udspejde
@@ -46,15 +46,15 @@ frivillige Eskadroner E., hvis Organisation
 forberedes i Fredstid.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”éclat”>
+<chapter name="éclat">
 <b>éclat</b> [e'kla] (fr.), Knald, pludselig Larm;
 Glans; Opsigt o. l. <sp>eklatánt</sp>, glimrende,
 paafaldende, iøjnefaldende, opsigtsvækkende.</chapter>
 
-<chapter name=”Edipserødt”>
+<chapter name="Edipserødt">
 <b>Edipserødt,</b> se <sp>Benzopurpurin</sp>.</chapter>
 
-<chapter name=”Écluse”>
+<chapter name="Écluse">
 <b>Écluse</b> [e'kly.z], <sp>Fort de l'É.</sp>,
 Grænsefæstning i det østlige Frankrig, Dept Ain, Arrond.
 Gex, 423 m o. H. ved Rhône, hvor den 5 km
@@ -65,13 +65,13 @@ Det er bygget af Vauban, blev ødelagt af
 10 Aar efter og siden betydelig udvidet.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”École”>
+<chapter name="École">
 <b>École</b> [e'kål] (fr.), Skole; <i>É. des chartes</i>
 [-dæ-'∫art], se <sp>Arkiv</sp>; <i>É. primaire</i> [-pr'mæ.r],
 Elementærskole; <i>É. secondaire</i> [-zgå'dæ.r],
 Middelskole, o. s. v.</chapter>
 
-<chapter name=”École des beaux-arts”>
+<chapter name="École des beaux-arts">
 <b>École des beaux-arts</b> [e'kål-dæ-bo'z-a.r],
 officielt: <i>É. nationale et spéciale des beaux-arts</i>
 i Paris (Rue Bonaparte), Frankrigs
@@ -102,7 +102,7 @@ stærkt efterspurgte <i>l'Hémicycle</i> af P. Delaroche
 den mest almenkendte.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”École des hautes études sociales”>
+<chapter name="École des hautes études sociales">
 <b>École des hautes études sociales</b>
 [e'kål-dæ-'o.tz-e'tyd-så's<sub>i</sub>al] er en i Paris 1903 aabnet
 Læreanstalt for samfundsvidenskabelige
@@ -119,7 +119,7 @@ bestaaet Prøve gives Adgang til at faa Skolens
 Modenhedsvidnesbyrd.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”École libre des sciences politiques”>
+<chapter name="École libre des sciences politiques">
 <b>École libre des sciences politiques</b>
 [e'kål-'li.br<sub>ö</sub>-dæ-'s<sub>i</sub>ã.s-påli'tik], en Højskole for
 politiske og sociale Videnskaber i Paris, oprettet

@@ -127,7 +127,7 @@ den rette Behandling anvendes, er Helbredelse
 dog Reglen.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”ekstravagere”>
+<chapter name="ekstravagere">
 <b>ekstravagere</b> (middelald. lat.), overdrive,
 begaa Udsvævelser; bære sig urimelig ad,
 opføre sig dumt; <sp>ekstravagant</sp>, overdreven,
@@ -136,7 +136,7 @@ Udsvævelse, Urimelighed, Daarskab; Ødselhed;
 Adfærd, der gaar paa tværs af alm. vedtagne
 Leveregler.</chapter>
 
-<chapter name=”Ektravasat”>
+<chapter name="Ektravasat">
 <b>Ektravasat</b> (lat.), den ved Udsvedning
 (<sp>Ekstravasation</sp>) fra Blodkarrene til
 Vævene fremkomne Vædskeansamling, der, naar

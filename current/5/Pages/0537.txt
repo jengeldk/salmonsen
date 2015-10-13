@@ -5,7 +5,7 @@ urigtigt (se <sp>Daner</sp>), officielt skrives
 Sammensætninger med Danebroge findes under
 <sp>Dannebrog</sp>.</chapter>
 
-<chapter name=”Danefæ”>
+<chapter name="Danefæ">
 <b>Danefæ,</b> gl dansk ogsaa <i>danæt fæ</i>, egl. dødt
 Gods (se <sp>Danearv</sp>), brugtes i ældre Tid
 undertiden i samme Bet. som Danearv, men
@@ -26,7 +26,7 @@ Omstændighederne foruden nævnte Godtgørelse udbetaler
 Finderen en Dusør.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Danegæld”>
+<chapter name="Danegæld">
 <b>Danegæld</b> er opr. Benævnelsen paa de
 Skatteudskrivninger, som paa Kong Ethelred's Tid
 maatte foretages i England for at afkøbe
@@ -41,7 +41,7 @@ indtil midt i 12. Aarh., da Benævnelsen ikke
 mere bruges.
 <i>(Ludv. H.). P. J. J.</i></chapter>
 
-<chapter name=”Danehof”>
+<chapter name="Danehof">
 <b>Danehof</b> er Betegnelsen for den
 middelalderlige Rigsforsamling i Danmark. Medens
 Rigsenheden opr. kun fandt Udtryk i Kongens

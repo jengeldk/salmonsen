@@ -30,7 +30,7 @@ Darwin; derimod stillede han sig oftere i
 Modsætning til Haeckel.
 <i>R. H. S.</i></chapter>
 
-<chapter name = ”Claus, Emile”>
+<chapter name="Claus, Emile">
 <b>Claus</b> [klo(.s)], <sp>Emile</sp>, belgisk Maler, f. 27.
 Septbr 1849 i Vive St. Eloi. C., en kort Tid paa
 Akademiet i Antwerpen, men ellers Autodidakt
@@ -45,7 +45,7 @@ Göteborg Mus.). (<sp>Litt</sp>.: <sp>C. Lemonnier</sp>, »E. C.«
 [Bryssel 1908]).
 <i>A. Hk.</i></chapter>
 
-<chapter name = ”Clausel, Bertrand”>
+<chapter name="Clausel, Bertrand">
 <b>Clausel</b> [klo'zæl] ell. <sp>Clauzel</sp>, <sp>Bertrand</sp>,
 fr. General (1772-1842), blev 1791 Underløjtnant
 og 1792 Kaptajn i en Bataillon Frivillige. Han
@@ -79,7 +79,7 @@ Generalguvernør i Algier, men efter et uheldigt Tog mod
 Constantine hjemkaldt Marts 1837.
 <i>E. E.</i></chapter>
 
-<chapter name = ”Clausen, Christian Valdemar”>
+<chapter name="Clausen, Christian Valdemar">
 <b>Clausen,</b> <sp>Christian Valdemar</sp>, dansk
 Maler, f. 17. Febr 1862 i Kbhvn, d. smst. 25.
 Septbr 1911. Alt som lille Dreng viste han
@@ -116,7 +116,7 @@ arbejdet paa Herregaarden Vangede og tegnet den
 kønne Bygning paa Højbroplads Nr. 7.
 <i>S. M.</i></chapter>
 
-<chapter name = ”Clausen, George”>
+<chapter name="Clausen, George">
 <b>Clausen</b> ['k£å.z<sub>ə</sub>n], <sp>George</sp>, eng. Maler og
 Raderer, f. 18. Apr. 1852 i London. C., Søn af
 en indvandret dansk Dekorationsmaler, gik paa
@@ -148,6 +148,6 @@ Tate-Gall.). C. har ogsaa skrevet om Kunst:
 <i>A. Hk.</i>
 </chapter>
 
-<chapter name = ”Clausen, Henrik Georg”>
+<chapter name="Clausen, Henrik Georg">
 <b>Clausen,</b> <sp>Henrik Georg</sp>, dansk Præst, f.
 12. Marts 1759 i Karlum i Slesvig, d. 25. Febr

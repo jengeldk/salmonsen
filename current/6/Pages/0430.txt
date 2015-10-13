@@ -20,15 +20,15 @@ paa Dansk, se <sp>H. I. Hannover</sp>, »Mekanisk
 Teknologi«, II (Kbhvn 1915).
 <i>F. W.</i></chapter>
 
-<chapter name=”Drejemejsel”>
+<chapter name="Drejemejsel">
 <b>Drejemejsel,</b> se <sp>Drejestaal</sp>.</chapter>
 
-<chapter name=”Drejens-Odde”>
+<chapter name="Drejens-Odde">
 <b>Drejens-Odde,</b> paa Nordsiden af Kolding
 Fjord. Her bor Kolding Lods.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Drejepille”>
+<chapter name="Drejepille">
 <b>Drejepille</b> ell. <sp>Svingpille</sp> er den af
 Pillerne for en Drejebro, der bærer
 Omdrejningsaksen, og som altsaa understøtter Broen
@@ -37,7 +37,7 @@ støtter det bevægelige Parti, naar Broen er lukket,
 kaldes <sp>Anslagspillerne</sp>.
 <i>A. O-d.</i></chapter>
 
-<chapter name=”Drejeplan”>
+<chapter name="Drejeplan">
 <b>Drejeplan,</b> en fast ell. drejelig Plade, der
 som .simpleste Form for en Drejeskive (s. d.)
 indlægges i Fabriksspor o. l. som Forbindelse
@@ -47,13 +47,13 @@ føres ind over denne, vil derfor her hvile paa
 sine Hjulflanger og drejes staaende paa disse.
 <i>J. F.</i></chapter>
 
-<chapter name=”Drejer (Søv.)”>
+<chapter name="Drejer (Søv.)">
 <b>Drejer</b> (<sp>Søv</sp>.), en c. 3/4 m lang afdrejet mod
 Enderne tilspidset Egetræsstok, der bruges ved
 Arbejdet med Takkelagen til et Skib.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Drejer, Joachim Lund”>
+<chapter name="Drejer, Joachim Lund">
 <b>Drejer,</b> <sp>Joachim Lund</sp>, dansk Læge, f.
 10. Septbr 1792 i Farsund i Norge, d. 14. Apr.
 1853 i Kbhvn; tog med. Eksamen i Kbhvn 1818
@@ -71,7 +71,7 @@ et Instrument, der længe holdt sig i Brug her
 og i Udlandet.
 <i>J. S. J.</i></chapter>
 
-<chapter name=”Drejer, Peder Marius”>
+<chapter name="Drejer, Peder Marius">
 <b>Drejer,</b> <sp>Peder Marius</sp>, norsk Læge, f.
 i Trondhjem 18. Juli 1853, blev Student 1871,
 <i>cand. med.</i> 1878. Efter at have fuldendt sin
@@ -89,7 +89,7 @@ for Jordemødre (1906) og deltaget i
 Diskussionen om disses Uddannelse.
 <i>S. T.</i></chapter>
 
-<chapter name=”Drejer, Salomon Thomas Nikolaj”>
+<chapter name="Drejer, Salomon Thomas Nikolaj">
 <b>Drejer,</b> <sp>Salomon Thomas Nikolaj</sp>,
 dansk Botaniker, f. i Eveldrup ved Viborg 15.
 Febr 1813, d. i Kbhvn 21. Apr. 1842. Han blev
@@ -138,12 +138,12 @@ Tidsskr.«, Bd 12]; Om hans Liv: »Fædrelandet«,
 3. Aarg., Nr 1037 og 1042).
 <i>V. A. P.</i></chapter>
 
-<chapter name=”Drejereb”>
+<chapter name="Drejereb">
 <b>Drejereb</b> (<sp>Søv</sp>.), de Tove ell. Kæder, hvori
 Ræerne hejses, naar Sejlene skal sættes.
 <i>H. E.</i></chapter>
 
-<chapter name=”Drejerkammer”>
+<chapter name="Drejerkammer">
 <b>Drejerkammer</b> var paa danske Slotte indtil
 Midten af 17. Aarh. Navnet paa et Værelse, som
 sammen med »Brevkamret« (ɔ: Arkivet)

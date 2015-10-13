@@ -28,10 +28,10 @@ application to taking portraits from the life</i>
 (1843), <i>Textbook on chemistry</i> (1846), o. fl.
 <i>(O. C.). J. S. J.</i></chapter>
 
-<chapter name=”drapere”>
+<chapter name="drapere">
 <b>drapere,</b> se <sp>Draperi</sp>.</chapter>
 
-<chapter name=”Draperi”>
+<chapter name="Draperi">
 <b>Draperi</b> (fr. <i>draperie</i> [dra'pri], af <i>drap</i>,
 Tøj), Klædefabrik, Forfærdigelse af Klæde,
 Klædehandel, kunstnerisk Ordning af et Stof,
@@ -40,12 +40,12 @@ kunstnerisk ordnet Beklædning. Deraf <sp>drapere</sp>
 (<sp>Drapering</sp>), beklæde med kunstnerisk
 Smag.</chapter>
 
-<chapter name=”Drapeyron, Ludovic”>
+<chapter name="Drapeyron, Ludovic">
 <b>Drapeyron</b> [drapæ'rå], <sp>Ludovic</sp>, fr.
 Geograf (1839-1901), stiftede 1876 <i>Revue de
 géographie</i> og s. A. <i>Société de topographie</i>.</chapter>
 
-<chapter name=”Draphavre”>
+<chapter name="Draphavre">
 <b>Draphavre</b> (<i>Arrhenatherum</i> Beauv.),
 Græsslægt (<i>Aveneæ</i>) af Ydre omtr. som Dunet Havre,
 men med mindre og toblomstrede Smaaaks, i
@@ -100,10 +100,10 @@ hvilken den befris ved, at man behandler Frøet
 med varmt Vand ell. Formalinopløsning.
 <i>K. H-n.</i></chapter>
 
-<chapter name=”Draphavrebrand”>
+<chapter name="Draphavrebrand">
 <b>Draphavrebrand,</b> se <sp>Støvbrand</sp>.</chapter>
 
-<chapter name=”Drassoidæ”>
+<chapter name="Drassoidæ">
 <b>Drassoidæ,</b> Afdeling af de rørboende
 Edderkoppers (<i>Tubitilariæ</i>) Gruppe, kendelig paa,
 at Arterne har 8 Øjne ordnede i 2 Rækker, der
@@ -120,17 +120,17 @@ som oftest rørformede Bolig. Hovedslægterne er
 <i>Drassus</i>, <i>Clubiona</i>, <i>Chiracanthium</i>.
 <i>C. W.-L.</i></chapter>
 
-<chapter name=”Drassus”>
+<chapter name="Drassus">
 <b>Drassus,</b> se <sp>Drassoidæ</sp>.</chapter>
 
-<chapter name=”Drastica”>
+<chapter name="Drastica">
 <b>Drastica,</b> se <sp>afførende Midler</sp>.</chapter>
 
-<chapter name=”drastisk”>
+<chapter name="drastisk">
 <b>drastisk</b> (gr.), stærkt og kraftig virkende
 af slaaende, ofte noget overdreven Virkning.</chapter>
 
-<chapter name=”Drau”>
+<chapter name="Drau">
 <b>Drau</b> [dra^u] (<sp>Drava</sp>, D<sp>rave</sp>), stor Biflod
 i Donaus højre Bred. Den udspringer i Tyrol
 paa Sydsiden af Toblacherfeld i en Højde af

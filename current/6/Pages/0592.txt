@@ -46,7 +46,7 @@ siden 1900. 1908 fik hun Kongens
 Fortjenstmedaille i Guld.
 <i>E. S-n.</i>.</chapter>
 
-<chapter name=”Dybwad, Peter”>
+<chapter name="Dybwad, Peter">
 <b>Dybwad,</b> <sp>Peter</sp>, norsk Arkitekt, f. i Kria
 17. Febr 1859, uddannet 1878-81 ved den kgl.
 Bauschule i Berlin, derefter i nogle Aar ansat
@@ -67,7 +67,7 @@ Regeringsbygning i Kria 1892 og han har opført
 det ny Posthus i Bergen.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Dybætsning”>
+<chapter name="Dybætsning">
 <b>Dybætsning</b> kaldes ved Ætsning af
 Klicheer den Ætsning, ved hvilken de dybere
 Partier af de større Flader, der ved Trykning
@@ -76,7 +76,7 @@ St f. at ætses bort, kan disse Partier ogsaa
 fræses bort.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Dyce, Alexander”>
+<chapter name="Dyce, Alexander">
 <b>Dyce</b> [da^is], <sp>Alexander</sp>, eng.
 Shakespeareforsker (1798-1869), studerede i Oxford, hvor
 han blev <i>Bachelor of Arts</i> 1819. D. har udg. en
@@ -89,7 +89,7 @@ af Shakespeare (6 Bd, 1853-58), ogsaa i
 »Tauchnitz Collection«, 7. Bd.
 <i>I. O.</i></chapter>
 
-<chapter name=”Dyce, William”>
+<chapter name="Dyce, William">
 <b>Dyce</b> [da^is], <sp>William</sp>, skotsk Maler, f.
 19. Septbr 1806 i Aberdeen, d. 14. Febr 1864 i
 Streatham, uddannet paa Roy. Acad. i London
@@ -110,11 +110,11 @@ om Kunst, Musik, Magnetisme) svækkede hans
 kunstneriske Kraft.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Dych-Tau”>
+<chapter name="Dych-Tau">
 <b>Dych-Tau</b> ['diK-'ta^u], Bjerg i Kaukasus,
 Terekdistriktet, 5198 m, med store Gletschere.</chapter>
 
-<chapter name=”Dyck, Anthon van”>
+<chapter name="Dyck, Anthon van">
 <b>Dyck</b> [dæ^ik], <sp>Anthon van</sp>, flamsk Maler
 og Raderer, f. i Antwerpen 1599, d. i
 Blackfriars (London) 1641. D., et meget tidligt

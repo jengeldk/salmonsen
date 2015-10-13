@@ -1,7 +1,7 @@
 Eksempel; <sp>Eksemplifikation</sp>, Forklaring,
 Bevis ved Eksempler.</chapter>
 
-<chapter name=”Eksemption”>
+<chapter name="Eksemption">
 <b>Eksemption</b> (lat. <i>exémptio</i>), Undtagelse,
 Befrielse for en Byrde, bruges i Kirkeretten som
 Betegnelse for et Privilegium, hvorved en
@@ -26,18 +26,18 @@ ihrer Entstehung bis zur
 gregorianisch-cluniacens. Zeit« [Basel 1893]).
 <i>H. O.</i></chapter>
 
-<chapter name=”Eksenteration”>
+<chapter name="Eksenteration">
 <b>Eksenteration</b> ['æks-] (gr.), Udtagning af
 Indvoldene ved Obduktion.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Eksenterese”>
+<chapter name="Eksenterese">
 <b>Eksenterese</b> (gr.), d. s. s. <sp>Evisceration</sp>.</chapter>
 
-<chapter name=”eksercere”>
+<chapter name="eksercere">
 <b>eksercere</b> (lat.), se <sp>Eksercits</sp>.</chapter>
 
-<chapter name=”Eksercerhus”>
+<chapter name="Eksercerhus">
 <b>Eksercerhus</b> er en mindre, overdækket
 Eksercerplads, der tjener til Uddannelse af
 Enkeltmand og i mindre Troppe, naar Vejret
@@ -45,7 +45,7 @@ lægger Hindringer for Uddannelsen i det fri.
 Saadanne E. fandtes allerede hos Romerne.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Eksercerknogle”>
+<chapter name="Eksercerknogle">
 <b>Eksercerknogle,</b> en Form af Benudvækst,
 der under Eksercits dannes paa Steder, hvor
 Geværet ofte slaar an paa en Knogle, hyppigst
@@ -54,10 +54,10 @@ En anden Slags E. er Rideknoglerne hos
 Kavalerister.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Eksercerpatron”>
+<chapter name="Eksercerpatron">
 <b>Eksercerpatron,</b> d. s. s. <sp>blind</sp> Patron.</chapter>
 
-<chapter name=”Eksercerplad”>
+<chapter name="Eksercerplad">
 <b>Eksercerplads</b> er i Alm. et Stykke
 hyppigst fladt Terrain, liggende i Nærheden af
 Afdelingens Standkvarter, hvor den skolemæssige
@@ -79,7 +79,7 @@ vidtudstrakte Øvelsespladser. Øvelserne her kan dog
 kun til Dels erstatte Øvelser i Terrainet.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Eksercerreglement”>
+<chapter name="Eksercerreglement">
 <b>Eksercerreglement</b> [-'maŋ] indeholder de
 bindende Forskrifter for Eksercits. Det
 fastsætter alle Formationer, Bevægelser og
@@ -113,13 +113,13 @@ under Fægtning i en særlig Instruktion. Hvert
 Vaaben har sit E.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Eksercerskib”>
+<chapter name="Eksercerskib">
 <b>Eksercerskib</b> (<sp>Søv</sp>.), et i Reglen ældre
 udrangeret Skib, i hvilket der afholdes
 Eksercerskole for Flaadens Mandskab.
 <i>H. E.</i></chapter>
 
-<chapter name=”Eksercerskole”>
+<chapter name="Eksercerskole">
 <b>Eksercerskole</b> (<sp>Søv</sp>.), en Skole, hvor der
 gives Flaadens Mandskab den første militære
 Uddannelse, og som enten afholdes i et
@@ -128,7 +128,7 @@ første Maaned af deres Togt bliver liggende paa
 Orlogsværftet som Skoleskibe.
 <i>H. E.</i></chapter>
 
-<chapter name=”Eksercits”>
+<chapter name="Eksercits">
 <b>Eksercits</b> er Uddannelsen af Tropperne i
 Brugen af Vaaben og i de taktiske Formationer,
 hvilken Uddannelse er Betingelsen for at kunne
@@ -163,7 +163,7 @@ Wallenstein, Gustaf Adolf, Frederik den Store
 og Napoleon, tillagde alle E. særdeles Bet.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Eksfoliation”>
+<chapter name="Eksfoliation">
 <b>Eksfoliation</b> (af lat. <i>folium</i>, Blad),
 overfladisk Tilintetgørelse af et Organ (især brugt om
 Knogler) i Form af tynde Blade p. Gr. a.

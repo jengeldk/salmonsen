@@ -132,19 +132,19 @@ benægtet, indtil Fourcroy og Vauquelin viste
 Rigtigheden af Glauber's Antagelse.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Eddikesyreanhydrid”>
+<chapter name="Eddikesyreanhydrid">
 <b>Eddikesyreanhydrid,</b> se <sp>Eddikesyre</sp>.</chapter>
 
-<chapter name=”Eddikesyrebakterier”>
+<chapter name="Eddikesyrebakterier">
 <b>Eddikesyrebakterier,</b> se <sp>Eddike</sp>.</chapter>
 
-<chapter name=”Eddikesyregæring”>
+<chapter name="Eddikesyregæring">
 <b>Eddikesyregæring,</b> se <sp>Eddike</sp>.</chapter>
 
-<chapter name=”Eddikeurt”>
+<chapter name="Eddikeurt">
 <b>Eddikeurt,</b> se <sp>Esdragon</sp>.</chapter>
 
-<chapter name=”Eddikeæter”>
+<chapter name="Eddikeæter">
 <b>Eddikeæter</b> (<sp>Ætylacetat</sp>), CH<sub>3</sub>COO.C<sub>2</sub>H<sub>5</sub>,
 en sammensat Æterart, der opstaar ved visse
 Gæringer og dannes ved Indvirkning af
@@ -162,7 +162,7 @@ benyttes den i store Mængder som
 Opløsningsmiddel i Fabrikationen af røgfrit Krudt.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Eddington, Arthur Stanley”>
+<chapter name="Eddington, Arthur Stanley">
 <b>Eddington</b> ['ed<sub>i</sub>ŋt<sub>ə</sub>n], <sp>Arthur Stanley</sp>,
 eng. Astronom, f. 28. Decbr 1882 i Kendal,
 studerede i Manchester og Oxford, blev 1906

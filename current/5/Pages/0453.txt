@@ -4,11 +4,11 @@ Taaresækken. Behandlingen er operativ og ofte
 meget langvarig.
 <i>G. N.</i></chapter>
 
-<chapter name=”Dakryolit”>
+<chapter name="Dakryolit">
 <b>Dakryolit,</b> Sten i Taarekirtlen, sjælden
 Sygdom.</chapter>
 
-<chapter name=”Dakryops”>
+<chapter name="Dakryops">
 <b>Dakryops,</b> Svulst ved ydre Øjevinkel,
 opstaaet ved, at der i Taarekirtlen sker
 Tilstopning af en Udføringsgang, og den bagved
@@ -16,7 +16,7 @@ liggende Del udspiles som en Retentionscyste (se
 <sp>Cyste</sp>).
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Daksha”>
+<chapter name="Daksha">
 <b>Daksha</b> (»dygtig, Dygtighed«) nævnes
 allerede i Rigveda som kosmogonisk Magt ved
 Siden af <sp>Aditi</sp>; de »fødes« gensidig af
@@ -37,16 +37,16 @@ der ind. Religion« [1874]; <sp>V. Fausbøll</sp>,
 <i>Indian Mythology</i> [1902]).
 <i>D. A.</i></chapter>
 
-<chapter name=”Dakshinacarin”>
+<chapter name="Dakshinacarin">
 <b>Dakshinacarin,</b> i Indien en <sp>Çakta</sp> (s. d.),
 som følger <sp>Dakshinacara</sp> eller
 »Højrehaands«-Praksis'en.
 <i>(S. S.) D. A.</i></chapter>
 
-<chapter name=”Daktyl”>
+<chapter name="Daktyl">
 <b>Daktyl</b> (<sp>Versefod</sp>), d. s. s. <sp>Daktylos</sp>.</chapter>
 
-<chapter name=”Daktyler”>
+<chapter name="Daktyler">
 <b>Daktyler,</b> græske Dæmoner, der gjaldt for
 Smede og Troldmænd, væsensbeslægtede med
 »Dværgene« i det nordlige Europas Sagn og
@@ -57,7 +57,7 @@ D.«, som var kommet fra Kreta til Olympia og
 der havde indstiftet de hellige Lege.
 <i>C. B.</i></chapter>
 
-<chapter name=”Daktyliotek”>
+<chapter name="Daktyliotek">
 <b>Daktyliotek</b> (gr.), det antikke Navn paa en
 Samling af Fingerringe, særlig af Ringe, hvori
 der er indfattet Stene med indskaarne Billeder.
@@ -75,7 +75,7 @@ Afbildninger, der ofte ligeledes kaldes D., se
 <sp>Gemmesamlinger</sp>.
 <i>C. B.</i></chapter>
 
-<chapter name=”Daktylitis”>
+<chapter name="Daktylitis">
 <b>Daktylitis</b> (af gr.: δάκτυλος, Finger),
 Betændelse af Fingeren; anvendes egl. kun om
 en bestemt Form af Fingerbetændelse, den
@@ -90,15 +90,15 @@ Behandlingen falder sammen med
 Hovedsygdommens.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Daktylogi”>
+<chapter name="Daktylogi">
 <b>Daktylogi,</b> Fingersprog, se
 <sp>Døvstummeundervisning</sp>.</chapter>
 
-<chapter name=”Daktylolyse”>
+<chapter name="Daktylolyse">
 <b>Daktylolyse,</b> Afløsning af Dele af Fingeren,
 en Sygdom, beskrevet under Navnet <sp>Ainhum</sp>.</chapter>
 
-<chapter name=”Daktylos”>
+<chapter name="Daktylos">
 <b>Daktylos</b> (gr.), antik Versefod, bestaaende
 af een lang og to korte Stavelser: -∪∪.
 [* brugt UNION ∪ i st. f. UTF-8 23D1 METRICAL BREVE, som ville være det korrekte *]
@@ -117,16 +117,16 @@ foregaaende Heksameter til et <sp>Distichon</sp>
 Oehlenschläger's Digt »Thorsing«).
 <i>K. H.</i></chapter>
 
-<chapter name=”Daktyloskopi”>
+<chapter name="Daktyloskopi">
 <b>Daktyloskopi</b> se <sp>Fingeraftryk</sp>.</chapter>
 
-<chapter name=”Daktylosymfysis”>
+<chapter name="Daktylosymfysis">
 <b>Daktylosymfysis,</b> d. s. s. det almindeligere
 anvendte <sp>Syndaktyli</sp>, Sammenvoksning af
 to ell. fl. Fingre ell. Tæer.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dal”>
+<chapter name="Dal">
 <b>Dal</b> kaldes enhver større Fordybning i
 Jordens Overflade. De fleste D. er langstrakte og
 forholdsvis smalle; deres Bund skraaner i

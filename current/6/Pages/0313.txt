@@ -3,25 +3,25 @@ Septim-Akkorden med stor Terts, ren Kvint og lille
 Septim (i <sp>C-dur</sp>: <i>g h d f</i>).
 <i>S. L.</i></chapter>
 
-<chapter name=”Domine, miserere”>
+<chapter name="Domine, miserere">
 <b>Domine, miserere</b> (lat.), Herre, forbarm dig!</chapter>
 
-<chapter name=”dominere”>
+<chapter name="dominere">
 <b>dominere</b> (lat.), herske, beherske, spille
 Herre.</chapter>
 
-<chapter name=”Domingit”>
+<chapter name="Domingit">
 <b>Domingit</b> (<sp>Warrenit</sp>); - Mineral Pb<sub>3</sub>Sb<sub>4</sub>S<sub>9</sub>,
 der forekommer i graasorte, metalliske,
 naale-formede Krystaller i Domingo mine, Gunnison
 County i Colorado.
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name=”Domingohamp”>
+<chapter name="Domingohamp">
 <b>Domingohamp,</b> Benævnelse paa
 Agavetrævler og Aloëhamp.</chapter>
 
-<chapter name=”Dominguez, Lopez”>
+<chapter name="Dominguez, Lopez">
 <b>Dominguez</b> [ðå'miŋgw<sub>æ</sub>þ], <sp>Lopez</sp>, spansk
 General og Politiker (1825-1901), udnævntes
 1850 til Løjtnant i Artilleriet og fik under
@@ -46,7 +46,7 @@ dannede her i Forbindelse med Romero-Robledo
 det sp. Nationalparti.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Dominica, Herrens Dag”>
+<chapter name="Dominica, Herrens Dag">
 <b>Dominica</b> (lat., underforstaaet <i>dies</i>),
 Herrens Dag, kaldes Søndagen, fordi Herren
 opstod den Dag. <i>D. passionis</i> er 5. Søndag i
@@ -62,7 +62,7 @@ aurea, benedicta, duplex</i> er
 Trefoldigheds-Søndag.
 <i>L. M.</i></chapter>
 
-<chapter name=”Dominica, Ø”>
+<chapter name="Dominica, Ø">
 <b>Dominica</b> [d<sub>ə</sub>'min<sub>i</sub>k<sub>a</sub> ell. dåm<sub>i</sub>'nik<sub>a</sub>]. (fr. <sp>La
 Dominique</sp> [la-dåmi'nik]), engelsk-vestindisk
 Ø, den sydligste af <i>Leeward islands</i>, har en
@@ -100,7 +100,7 @@ mellem Englænderne og Franskmændene blev
 Øen eng. 1814.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dominicus”>
+<chapter name="Dominicus">
 <b>Dominicus</b> (<sp>Domingo</sp>),
 Dominikanerordenens Stifter, kaldet <sp>de Guzman</sp>, skønt ikke
 tilhørende denne Slægt, f. 1170 i Calaroga i
@@ -132,7 +132,7 @@ Tours 1901]; En kritisk Levnedsskildring
 mangler endnu).
 <i>L. M.</i></chapter>
 
-<chapter name=”Dominik, Hans”>
+<chapter name="Dominik, Hans">
 <b>Dominik,</b> <sp>Hans</sp>, tysk Officer og Geograf
 (1870-1910), var fra 1893 indtil sin Død ansat
 ved Kolonialværnet i tysk Kamerun, hvor han
@@ -147,7 +147,7 @@ in deutschen Tropen« (1901, ny Udg. 1911) og
 Forschungsfahrten in Kamerun« (1908).
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Dominikalafgift”>
+<chapter name="Dominikalafgift">
 <b>Dominikalafgift</b> (tysk: Grundgefällsteuer),
 en Afgift af de paa en fast Ejendom hvilende
 Realbyrder, der paahviler den, hvem
@@ -155,10 +155,10 @@ Realbyrden kommer til gode, og afdrages i den alm.
 Grundskat.
 <i>E. T.</i></chapter>
 
-<chapter name=”Dominikaner”>
+<chapter name="Dominikaner">
 <b>Dominikaner,</b> se <sp>Kardinal</sp>.</chapter>
 
-<chapter name=”Dominikanere”>
+<chapter name="Dominikanere">
 <b>Dominikanere</b> (<i>domini canes</i>, Herrens
 Hunde; deres Vaaben er en Hund med en
 brændende Fakkel i Munden), en Munkeorden, stiftet

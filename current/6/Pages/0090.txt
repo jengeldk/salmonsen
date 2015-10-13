@@ -1,7 +1,7 @@
 <chapter name="Deutz">
 <b>Deutz</b> [då^yts], Forstad til <sp>Köln</sp>.</chapter>
 
-<chapter name=”Deutzia Thunb.”>
+<chapter name="Deutzia Thunb.">
 <b>Deutzia</b> ['dåj'tsia] Thunb., Slægt af
 Hydrangeaceerne, Buske med modsatte, æg- ell.
 lancetdannede og savtakkede Blade samt hvide
@@ -48,14 +48,14 @@ Drivning.
 
 <img>Deutzia.</img>
 
-<chapter name=”deux battants”>
+<chapter name="deux battants">
 <b>deux battants</b> [dø-ba'tã], egl.: <i>porte à d. b.</i>
 ['pårt-a-], Dør med to Fløje, Dobbeltdør.</chapter>
 
-<chapter name=”Deux-Ponts”>
+<chapter name="Deux-Ponts">
 <b>Deux-Ponts</b> [dø-'på], se <sp>Zweibrücken</sp>.</chapter>
 
-<chapter name=”Deux-Sèvres”>
+<chapter name="Deux-Sèvres">
 <b>Deux-Sèvres</b> [dø-'sæ.vr], Dept i det vestlige
 Frankrig, opkaldt efter de to Floder
 Sèvre-Nantaise og Sèvre-Niortaise, er oprettet 1790
@@ -98,7 +98,7 @@ dets Appeldomstol findes. I D. lever
 forholdsvis mange Protestanter.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Déva”>
+<chapter name="Déva">
 <b>Déva</b> ['de.vå] (<sp>Diemrich</sp>), By i det
 sydøstlige Ungarn, Transsilvanien, Hovedstad i
 Komitatet Hunyad, ligger ved Floden Maros og

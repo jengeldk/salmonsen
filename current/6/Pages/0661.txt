@@ -31,7 +31,7 @@ danske Fonte findes spredte i Kultusministeriets
 Kirkeopmaalingsværker).
 <i>C. A. J.</i></chapter>
 
-<chapter name=”Døbeln”>
+<chapter name="Døbeln">
 <b>Døbeln,</b> By i Kongeriget Sachsen, ligger i
 en særdeles smuk og frugtbar Egn paa en Ø i
 Freiberg-Mulde, er et vigtigt
@@ -47,7 +47,7 @@ Kemikalier samt Teglbrænderi. Der findes en
 Landbrugs- og en Handelsskole.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Døbeln, Georg Karl”>
+<chapter name="Døbeln, Georg Karl">
 <b>Døbeln,</b> <sp>Georg Karl</sp>, Friherre, svensk
 General, f. 29. Apr. 1758 paa Stora Torpa,
 d. i Sthlm 16. Febr 1820. Han var opr. bestemt
@@ -120,7 +120,7 @@ upplysningar om orsakerna til Sveaborgs
 
 <img>G. K. Døbeln.</img>
 
-<chapter name=”Døbenavn”>
+<chapter name="Døbenavn">
 <b>Døbenavn,</b> se <sp>Navn</sp>.</chapter>
 
 <chapter name="Döbereiner">

@@ -9,7 +9,7 @@ Landadelen skildres, og en Digtsamling (1880).
 1872]).
 <i>(E. G.). Chr. H.</i></chapter>
 
-<chapter name=”Dinka”>
+<chapter name="Dinka">
 <b>Dinka</b> (<sp>Denka</sp>), Negerstamme omkr.
 Nilens øvre Løb, Bahr-el-Abiad, og dens Biflod
 Bahr-el-Ghasal mellem 6° og 12° n. Br. De
@@ -41,7 +41,7 @@ Overensstemmelse med de enkelte Stammers
 Sædvaner.
 <i>C. A.</i></chapter>
 
-<chapter name=”Dinkelsbühl”>
+<chapter name="Dinkelsbühl">
 <b>Dinkelsbühl</b> ['deŋk<sub>ə</sub>lsby.l], By i den
 mellemste Del af Bayern, ved den lille Flod Wörnitz
 og ved Jernbanen Nördlingen-Dombühl, 441 m
@@ -54,13 +54,13 @@ Korn. - D. var en kejserlig Fristad 1351-1802,
 hvorefter den kom under Bayern.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dino...”>
+<chapter name="Dino...">
 <b>Dino...,</b> i Sammensætninger ved
 naturvidenskabelige Navne, væsentlig for uddøde
 kæmpemæssige Dyr, kommer af det gr. δεινος
 frygtelig, vældig.</chapter>
 
-<chapter name=”Dinobryaceæ, Dinobryon”>
+<chapter name="Dinobryaceæ, Dinobryon">
 <b>Dinobryaceæ, Dinobryon,</b> Flagellater med
 1-2 gulbrune Kromatoforer, to ulige lange
 Svingtraade og omgivne af et bægerformet
@@ -71,20 +71,20 @@ Ferskvandsplankton, især i tempererede Egne og til Tider, hvor
 Vandets Temp. ikke er for høj.
 <i>C. H. O.</i></chapter>
 
-<chapter name=”Dinocerata”>
+<chapter name="Dinocerata">
 <b>Dinocerata,</b> se <sp>Amblypoda</sp>.</chapter>
 
-<chapter name=”Dino Compagni”>
+<chapter name="Dino Compagni">
 <b>Dino Compagni</b> [-kom'pan<sub>j</sub>i], se
 <sp>Compagni</sp>. </chapter>
 
-<chapter name=”Dinoflagellata”>
+<chapter name="Dinoflagellata">
 <b>Dinoflagellata</b> se <sp>Furealger</sp>.</chapter>
 
-<chapter name=”Dinokrates”>
+<chapter name="Dinokrates">
 <b>Dinokrates,</b> d. s. s. <sp>Deinokrates</sp>.</chapter>
 
-<chapter name=”Dinol”>
+<chapter name="Dinol">
 <b>Dinol,</b> Brenzkatekin, Pyrokatekin danner
 farveløse, bladede Krystaller, der er
 letopløselige i Vand, Alkohol, Æter og Benzol. D.
@@ -92,7 +92,7 @@ anvendes til Fremstilling af fotografisk
 Fremkalder.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Dinophilus”>
+<chapter name="Dinophilus">
 <b>Dinophilus</b> [-fi-], en ejendommelig, næsten
 mikroskopisk lille, ormformet Organisme, hvis
 utydeligt leddelte Legeme foruden enkelte
@@ -122,10 +122,10 @@ Annelider og Hjuldyr. (<sp>Litt</sp>.: <sp>E. Korschelt</sp>,
 [1882]).
 <i>R. H. S.</i></chapter>
 
-<chapter name=”Dinornis, Dinornithidæ”>
+<chapter name="Dinornis, Dinornithidæ">
 <b>Dinornis, Dinornithidæ</b> ['-ti.-], se <sp>Moa</sp>.</chapter>
 
-<chapter name=”Dinos”>
+<chapter name="Dinos">
 <b>Dinos</b> kaldtes hos
 Grækerne Kar af Form som
 Fig. D. forfærdigedes af
@@ -137,7 +137,7 @@ blande Vin og Vand i.
 
 <img></img></chapter>
 
-<chapter name=”Dinosaurier”>
+<chapter name="Dinosaurier">
 <b>Dinosaurier</b> (<i>Dinosauria</i> Owen),
 Kæmpeøgler, en talrig og meget formrig Orden af
 uddøde Krybdyr, hvis Levninger findes i

@@ -15,39 +15,39 @@ Tillukning af Luftvejen, og den bedste Benævnelse
 bliver da <sp>Lukkelyd</sp> ell. <sp>Klusiler</sp>.
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Eksplosivstoffer”>
+<chapter name="Eksplosivstoffer">
 <b>Eksplosivstoffer,</b> se <sp>Sprængstoffer</sp>.</chapter>
 
-<chapter name=”Eksponent”>
+<chapter name="Eksponent">
 <b>Eksponent</b> (lat.) kaldes Størrelsen <i>n</i> i den
 alm. Betegnelse <i>a</i><sup>n</sup> for en Potens.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Eksponentialfunktion”>
+<chapter name="Eksponentialfunktion">
 <b>Eksponentialfunktion</b> ['æks-] ell.
 <sp>eksponentiel Funktion</sp> kaldes Funktionen <i>a</i><sup>x</sup>,
 hvor <i>x</i> er uafhængig variabel.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”eksponere”>
+<chapter name="eksponere">
 <b>eksponere</b> (lat.), udsætte for, give til Pris,
 udlægge, forklare; udsætte en fot. Plade for
 Lysets Paavirkning.</chapter>
 
-<chapter name=”Eksponeringsmaaler”>
+<chapter name="Eksponeringsmaaler">
 <b>Eksponeringsmaaler,</b> se
 <sp>Belysningsmaaler</sp>.</chapter>
 
-<chapter name=”Eksponeringstabel”>
+<chapter name="Eksponeringstabel">
 <b>Eksponeringstabel,</b> se
 <sp>Belysningsberegner</sp>.</chapter>
 
-<chapter name=”Eksport”>
+<chapter name="Eksport">
 <b>Eksport</b> (lat.), <sp>Udførsel</sp> (s. d.);
 <sp>eksportere</sp>, udføre; <sp>Eksportør</sp>,
 Forretningsmand, der udfører Varer.</chapter>
 
-<chapter name=”Eksposition”>
+<chapter name="Eksposition">
 <b>Eksposition</b> ['æks-] (lat.), Udsættelse (f. Eks.
 af Børn); Udstilling; endelig ogsaa
 Fremstilling, Udredning ɔ: en nøjere Forklaring af de
@@ -77,7 +77,7 @@ indeholder det handlingsbevægende Moment (se
 Technik des Drama« [6. Opl. 1890]).
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Ekspositionsfaktor”>
+<chapter name="Ekspositionsfaktor">
 <b>Ekspositionsfaktor</b> er en Konstant, der
 angiver, i hvilket Forhold Belysningstiden ved
 Anvendelse af en bestemt Normalfremkalder
@@ -87,11 +87,11 @@ kan faa samme Gennemtegning i begge
 Fotografierne.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”ekspres”>
+<chapter name="ekspres">
 <b>ekspres</b> [-'præs] (lat., fr. <i>exprès</i>),
 udtrykkelig, i bestemt Hensigt, særlig; meget hurtigt.</chapter>
 
-<chapter name=”Ekspresforsendelser”>
+<chapter name="Ekspresforsendelser">
 <b>Ekspresforsendelser.</b> Herved forstaas ved
 Postvæsenet de Forsendelser, der ved Ankomsten
 til Bestemmelsesstedet ønskes udbragt ved
@@ -130,10 +130,10 @@ Udland kan i Alm. kun Breve besørges som
 Ekspresforsendelse.
 <i>Fr. O.</i></chapter>
 
-<chapter name=”Ekspression”>
+<chapter name="Ekspression">
 <b>Ekspression</b> (lat.), Udtryk.</chapter>
 
-<chapter name=”Ekspression”>
+<chapter name="Ekspression">
 <b>Ekspression</b> (»Udpresning«) benyttes i
 Fødselsvidenskaben om de Indgreb, der ved
 Sammentrykning af Livmoderen gennem Bugvæggen
@@ -141,7 +141,7 @@ gaar ud paa at fremme Udskydningen af
 Fosteret ell. (især) Efterbyrden.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Ekspressionisme”>
+<chapter name="Ekspressionisme">
 <b>Ekspressionisme,</b> en moderne kunstnerisk
 Retning, der bygger videre paa v. Gogh's, P.
 Gauguin's og Cézanne's Kunst og stiler mod

@@ -72,7 +72,7 @@ Handlingar« LIX [Sthlm 1884]; <sp>M. Lamm</sp>,
 »Olof D.« [Upsala 1908]).
 <i>I. F.-H.</i></chapter>
 
-<chapter name=”Daljunkaren”>
+<chapter name="Daljunkaren">
 <b>Daljunkaren</b> er den alm. Benævnelse paa
 en Bedrager, <sp>Jons Hansson</sp>, som 1527
 fremkaldte Uroligheder i Dalarne. Her havde
@@ -102,7 +102,7 @@ Ro. Daljunkarens Historie er frit behandlet af
 Henrik Ibsen i »Fru Inger til Østraat«.
 <i>A. M. D.</i></chapter>
 
-<chapter name=”Dalkarlsberget”>
+<chapter name="Dalkarlsberget">
 <b>Dalkarlsberget</b> ['da.lka<sub>r</sub>sbærj<sub>ə</sub>t],
 Jerngrubedistrikt i Örebro Len, 15 km SSV. f. Nora, har
 været drevet siden Aar 1300 paa parallelle
@@ -112,7 +112,7 @@ Indhold af c. 60 % Jern. Produktionen har aarlig i
 Gennemsnit været omtr. 30000 t.
 <i>A. G.</i></chapter>
 
-<chapter name=”Dalkeith”>
+<chapter name="Dalkeith">
 <b>Dalkeith</b> [dä£'ki.þ eller 'då.£ki.þ], By i det
 sydøstlige Skotland, Edinburghshire, ved North
 og South Esks Sammenløb, 11 km SØ. f.
@@ -125,10 +125,10 @@ Markis'en af Lothians Residens. I Omegnen findes
 Stenkuls- og Jerngruber.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dalkulla”>
+<chapter name="Dalkulla">
 <b>Dalkulla,</b> Kvinde fra Dalarne i Sverige.</chapter>
 
-<chapter name=”Dall, William Healey”>
+<chapter name="Dall, William Healey">
 <b>Dall</b> [dä£], <sp>William Healey</sp>, amer.
 Naturforsker og Rejsende, f. 21. Aug. 1845 i
 Boston. Han studerede Zoologi ved Harvard-Univ.

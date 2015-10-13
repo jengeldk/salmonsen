@@ -2,7 +2,7 @@ Staten 1838, og fra 1850 huser det atter
 Æreslegionens Døtreskole.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Écraseur”>
+<chapter name="Écraseur">
 <b>Écraseur</b> [ekra'sö'r] (fr.), et Apparat,
 hvorved en Slynge, dannet enten af en Kæde ell. en
 Metaltraad, ell. sjældnere en Snor, ved Hjælp
@@ -32,7 +32,7 @@ glødende og derved tilvejebringer en Forening
 af Knusning og Brænding.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”écrasez l'infâme”>
+<chapter name="écrasez l'infâme">
 <b>écrasez l'infâme</b> [ekra.'ze-l-æ'fa.m] (fr.), ɔ:
 knus den skammelige, et Udtryk, der skriver
 sig fra Voltaire, som ofte benytter det i sin
@@ -45,7 +45,7 @@ ell. <i>écrlinfs</i>, for herved at lede de Embedsmænd,
 under hvem Aabningen af farlige Statsbreve
 sorterede, paa Vildspor.</chapter>
 
-<chapter name=”Écrevisse, Peter”>
+<chapter name="Écrevisse, Peter">
 <b>Écrevisse</b> [ekr<sub>ə</sub>'vis], <sp>Peter</sp>, flamsk Forf.,
 f. 3. Juni 1804, d. 16. Decbr 1879, studerede
 Jura og blev Overretsdommer i Ecloo i
@@ -61,7 +61,7 @@ uit de Kempen« (1864). En samlet Udg. af hans
 Værker udkom 1879-80.
 <i>A. I.</i></chapter>
 
-<chapter name=”Écrins, Barre des”>
+<chapter name="Écrins, Barre des">
 <b>Écrins, Barre des</b> ['ba.r-dæz-e'kræ], et 4103
 m højt Bjerg i Vestalperne paa Grænsen af de
 fr. Dept Isère og Hautes-Alpes, det højeste
@@ -69,17 +69,17 @@ Punkt i Pelvoux-Gruppen, først besteget 1864 af
 E. Whymper.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Écru”>
+<chapter name="Écru">
 <b>Écru</b> [e'kryj (fr.), raa (Silke), ubleget
 Lærred o. l.</chapter>
 
-<chapter name=”Ectopistes”>
+<chapter name="Ectopistes">
 <b>Ectopistes</b> (Vandredue), se <sp>Duer</sp>.</chapter>
 
-<chapter name=”Ectoprocta”>
+<chapter name="Ectoprocta">
 <b>Ectoprocta,</b> se <sp>Mosdyr</sp>.</chapter>
 
-<chapter name=”Écu”>
+<chapter name="Écu">
 <b>Écu</b> [e'ky], Navn paa fl. ældre fr.
 Sølvmønter, der prægedes i Frankrig i 17. og 18. Aarh.
 med den sp. Pjaster som Forbillede og af en
@@ -94,11 +94,11 @@ neuf</sp>, Løvdaler og senest É. de République. É.
 afskaffedes og inddroges i Beg. af 19. Aarh.
 <i>(N. J. B.). Th. O.</i></chapter>
 
-<chapter name=”Écu”>
+<chapter name="Écu">
 <b>Écu</b> [e'ky], fr. Betegnelse for et
 Papirformat, omtr. som lille Median.</chapter>
 
-<chapter name=”Ecuador”>
+<chapter name="Ecuador">
 <b>Ecuador</b> [æk<sub>u</sub>a'ðår], Republik i Sydamerika,
 ligger som en Trekant kilet ind mellem
 Colombia og Peru. Til E. hører Galápagos-Øerne

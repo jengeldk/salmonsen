@@ -102,7 +102,7 @@ indeholder meget af litteraturhistorisk Interesse, blev
 udgivne af hendes Datter (1873).
 <i>(C. K.). I. O.</i></chapter>
 
-<chapter name=”Coleridge-Taylor, Samuel”>
+<chapter name="Coleridge-Taylor, Samuel">
 <b>Coleridge-Taylor</b> ['ko<sub>u</sub>£r<sub>i</sub>dз-'te<sub>i</sub>£ə], <sp>Samuel</sp>,
 eng. Komponist (1875-1912), var Elev ved <i>Royal
 college of music</i> i London. Ved samme Skole
@@ -114,10 +114,10 @@ Nonet, lorsk. anden Kammermusik, Korværket
 afrikanske Romancer, en Operette m. m.
 <i>W. B.</i></chapter>
 
-<chapter name=”Coleroon”>
+<chapter name="Coleroon">
 <b>Coleroon</b> ['ko<sub>u</sub>£ru.n ell. 'kå£-], se <sp>Kaweri</sp>.</chapter>
 
-<chapter name=”Colesberg”>
+<chapter name="Colesberg">
 <b>Colesberg</b> ['ko<sub>u</sub>£bəg], By i et Distrikt af
 s. N. i Kapkolonien, ligger S. f. Oranje-Floden
 ved Jernbanen fra Port Elizabeth til
@@ -125,11 +125,11 @@ Bloemfontein. (1911) c. 2000 Indb. I Nærheden findes
 vigtige Diamantminer.
 <i>C. A.</i></chapter>
 
-<chapter name=”Coles'ske Taarne”>
+<chapter name="Coles'ske Taarne">
 <b>Coles'ske Taarne</b> ['ko<sub>u</sub>£sk<sub>ə</sub>-], se
 <sp>Drejetaarne</sp>.</chapter>
 
-<chapter name=”Colet, Louise”>
+<chapter name="Colet, Louise">
 <b>Colet</b> [kä'læ], <sp>Louise</sp>, f. <sp>Révoil</sp>, fr.
 Forfatterinde (1810-76), har forfattet en Mængde
 Digte, større og mindre, hvoraf fl. kronede af
@@ -150,5 +150,5 @@ hun i mangeaarigt, brevvekslende
 Venskabsforhold.
 <i>S. Ms.</i></chapter>
 
-<chapter name=”coletur”>
+<chapter name="coletur">
 <b>coletur,</b> paa Recepter, »sies«.</chapter>

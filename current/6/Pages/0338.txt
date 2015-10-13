@@ -3,7 +3,7 @@ Morale filosofia</i> og <i>Le due Librerie</i>, en Art
 bibliografisk Værk.
 <i>E. M-r.</i></chapter>
 
-<chapter name=”Doni, Giovanni Battista”>
+<chapter name="Doni, Giovanni Battista">
 <b>Doni,</b> <sp>Giovanni Battista</sp>, ital.
 Musikforfatter (1593-1647), ivrig Tilhænger af den
 Omvæltning i Musikkens Udvikling, der
@@ -22,7 +22,7 @@ sidste Aar levede han i Firenze som Prof. i
 Retorik.
 <i>A. H.</i></chapter>
 
-<chapter name=”Doniol, Jean Henry Antoine”>
+<chapter name="Doniol, Jean Henry Antoine">
 <b>Doniol</b> [då'n<sub>i</sub>ål], <sp>Jean Henry Antoine</sp>,
 fr. Historiker (1818-1906). Efter at have været
 Souspræfekt 1848-50, afskedigedes han p. Gr. a.
@@ -40,7 +40,7 @@ négociations pour la paix</i> (1896) bygger paa personlige
 Oplevelser.
 <i>Kr. E.</i></chapter>
 
-<chapter name=”Donizetti, Gaetano”>
+<chapter name="Donizetti, Gaetano">
 <b>Donizetti</b> [-'tset.i], <sp>Gaetano</sp>, ital.
 Operakomponist, f. 28. Novbr 1797 i Bergamo, d. 8.
 Apr 1848 smst., drev allerede Musikstudier fra
@@ -133,7 +133,7 @@ Cicconetti</sp> (Rom 1864), <sp>Verzino</sp> (1896-97) o. fl.
 <img>
 G. Donizetti.</img></chapter>
 
-<chapter name=”Donjon”>
+<chapter name="Donjon">
 <b>Donjon</b> [då'зå] er i Middelalderens
 befæstede Borge d. s. s. <sp>Beffroi</sp> (s. d.).
 

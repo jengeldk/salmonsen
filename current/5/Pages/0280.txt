@@ -22,7 +22,7 @@ de under 8-12 nævnte Sager. Jfr i øvrigt Litt.
 til <sp>Haag-Konferencer</sp> og <sp>Voldgift</sp>).
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Courpière”>
+<chapter name="Courpière">
 <b>Courpière</b> [kur'p<sub>i</sub>æ.r], By i Mellemfrankrig,
 Dept Puy-de-Dôme, Arrond. Thiers, ved Alliers
 Biflod Dore, 358 m o. H. ved Lyon-Banen, har
@@ -30,7 +30,7 @@ c. 1500 Indb., en Jernkilde (<sp>Salet</sp>), Handel
 med Bygningstømmer og Korn.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Courrières”>
+<chapter name="Courrières">
 <b>Courrières</b> [ku'r<sub>i</sub>æ.r], By i det nordvestlige
 Frankrig, Dept Pas-de-Calais, Arrond. Béthune,
 ved Nordhanen, har en Kirke med Gravmæle
@@ -42,10 +42,10 @@ og hvorefter der opstod alvorlige
 Strejkeuroligheder.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”cours”>
+<chapter name="cours">
 <b>cours</b> [ku.r], se <sp>Kurs</sp>.</chapter>
 
-<chapter name=”Cours”>
+<chapter name="Cours">
 <b>Cours</b> [ku.r], By i det østlige Frankrig, Dept
 Rhône, Arrond. Villefranche, ved Trambouze,
 Tilløb til Loires Biflod Rhin, 600 m o. H., ved
@@ -53,7 +53,7 @@ Banen St-Victor-C., har Fabrikker i Lærreds-
 og Bomuldsvarer (<i>beaujolaises</i>). (1911) 6013 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Coursan”>
+<chapter name="Coursan">
 <b>Coursan</b> [kur'sã], By i det sydøstlige Frankrig,
 Dept Aude, 8 km NØ. f. Narbonne, ved Aude,
 Station paa Banen Bordeaux-Cette, har en
@@ -61,7 +61,7 @@ artesisk Mineralkilde (20°-30°),
 Brændevinsbrænderi og c. 3500 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Courseulles”>
+<chapter name="Courseulles">
 <b>Courseulles</b> [kur'söl], <sp>C.-sur-Mer</sp>,
 Havnestad i det nordvestlige Frankrig, Dept Calvados,
 ved Seulles, nær ved dens Udløb, 25 km NV. f.
@@ -71,7 +71,7 @@ Silde- og Makrelfiskeri, betydelig Østersfangst,
 Søbade, Baadebyggeri og c. 1300 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”court”>
+<chapter name="court">
 <b>court</b> [kå.<sub>ə</sub>t] (eng.) betyder Hof ell. i
 Retssproget: Domstol. - Ang. Sondringen mellem
 <i>common law c.</i> og <i>equity c.</i>, jfr <sp>equity</sp>. De eng.
@@ -117,7 +117,7 @@ sidste Sager af fiskal Natur, men begge Retter er
 nu henlagte under <i>Kings Bench</i>.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Court, Antoine”>
+<chapter name="Court, Antoine">
 <b>Court</b> [ku.r], <sp>Antoine</sp>, den fr. reformerte
 Kirkes Genopretter, f. 1696 i Villeneuve de Berg,
 d. 15. Juni 1760 i Lausanme, blev allerede som

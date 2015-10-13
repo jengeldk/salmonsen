@@ -2,43 +2,43 @@ Videnskaben er ganske uafhængig af, ad hvilken Vej
 den er konstateret.
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”eksperimentere”>
+<chapter name="eksperimentere">
 <b>eksperimentere</b> ['æks-] (lat.), gøre, anstille
 Forsøg (smlg. <sp>Eksperiment</sp>);
 <sp>eksperimental</sp>, grundet paa Forsøg.</chapter>
 
-<chapter name=”Ekspert”>
+<chapter name="Ekspert">
 <b>Ekspert</b> (lat.), Sagkyndig.</chapter>
 
-<chapter name=”Ekspiation”>
+<chapter name="Ekspiation">
 <b>Ekspiation</b> (lat.), Forsoning, Bod,
 Fyldestgørelse, Syndsudslettelse, Oprejsning ;
 <sp>ekspiatorisk</sp>, gældende for Bod for Synd,
 forsonende; <sp>ekspiabel</sp>, som kan sones,
 oprettelig.</chapter>
 
-<chapter name=”eksplanere”>
+<chapter name="eksplanere">
 <b>eksplanere</b> (lat.), udlægge, forklare, oplyse;
 <sp>Eksplanation</sp>, Udlægning, Forklaring.</chapter>
 
-<chapter name=”Eksplementvinkler”>
+<chapter name="Eksplementvinkler">
 <b>Eksplementvinkler</b> eller <b>-buer</b> kaldes to
 Vinkler ell. Buer, der tilsammen udgør 360°.</chapter>
 
-<chapter name=”eksplicere”>
+<chapter name="eksplicere">
 <b>eksplicere</b> (lat.), forklare, udvikle.
 <sp>Eksplikation</sp>, Forklaring, Udvikling;
 <sp>eksplikativ</sp>, forklarende.</chapter>
 
-<chapter name=”eksplodere”>
+<chapter name="eksplodere">
 <b>eksplodere</b> (lat.), springe med et Knald,
 knalde af, briste. Smlg. <sp>Eksplosion</sp>.</chapter>
 
-<chapter name=”eksploitere”>
+<chapter name="eksploitere">
 <b>eksploitere</b> ['æksploa-] (af fr. <i>exploiter</i>),
 udnytte, drage Fordel af, udbytte.</chapter>
 
-<chapter name=”Eksploration”>
+<chapter name="Eksploration">
 <b>Eksploration</b> ['æks-] (lat.), Undersøgelse, et
 i Lægekunsten alm. brugt Udtryk om
 Undersøgelse ved Finger (digital E.) eller Instrumenter
@@ -61,11 +61,11 @@ søger at trænge de Organer, der skal undersøges,
 ned mod den eksplorerende Finger.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”eksplorere”>
+<chapter name="eksplorere">
 <b>eksplorere</b> (lat., fr.), udforske, nøje
 undersøge.</chapter>
 
-<chapter name=”Eksplosion”>
+<chapter name="Eksplosion">
 <b>Eksplosion</b> (lat.) betegner paa Dansk som
 oftest ikke alene Aarsagsfænomenet, en
 pludselig, voldsom Udvikling af Dampe ell. Luftarter,
@@ -101,10 +101,10 @@ som <sp>Detonation</sp>, <sp>Forpufning</sp>, og
 Stoffet siges at <sp>detonere</sp>, <sp>forpuffe</sp>.
 <i>R. K.</i></chapter>
 
-<chapter name=”Eksplpsionskrater”>
+<chapter name="Eksplpsionskrater">
 <b>Eksplpsionskrater,</b> se <sp>Vulkaner</sp>.</chapter>
 
-<chapter name=”Eksplosionsmaskiner”>
+<chapter name="Eksplosionsmaskiner">
 <b>Eksplosionsmaskiner</b> kaldes en Rk.
 Kraftmaskiner, i hvilke Arbejdet frembringes ved, at
 en Blanding af forsk. Luftarter indføres i en
@@ -127,7 +127,7 @@ enkelte Arter af E. se <sp>Benzin</sp>,
 <sp>Petroleumsmaskine</sp> og <sp>Spiritusmotor</sp>.
 <i>H. H. S.</i></chapter>
 
-<chapter name=”Eksplosionspipette”>
+<chapter name="Eksplosionspipette">
 <b>Eksplosionspipette</b> kaldes en Pipette med
 indsmeltede Metaltraade, der muliggør, at man
 kan faa en i Pipetten indespærret Gasblanding
@@ -136,10 +136,10 @@ elektrisk Gnist. Anvendes ved
 <sp>Gasanalyser</sp>.
 <i>R. T.</i></chapter>
 
-<chapter name=”Eksplosionssignal”>
+<chapter name="Eksplosionssignal">
 <b>Eksplosionssignal,</b> se <sp>Knaldsignal</sp>.</chapter>
 
-<chapter name=”Eksplosiv”>
+<chapter name="Eksplosiv">
 <b>Eksplosiv</b> (lat.) (eller <sp>Eksplosivlyd</sp>).
 Udtaler man en Lydforbindelse som <i>apa</i>, vil
 man se, at først hele Munden staar aaben til <i>a</i>,

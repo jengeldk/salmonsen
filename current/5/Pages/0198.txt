@@ -68,7 +68,7 @@ hans <i>Journal intime</i> 1888.
 
 <img>H. B. Constant de Rebecque</img>
 
-<chapter name=”constantia”>
+<chapter name="constantia">
 <b>constantia</b> (lat.), »Karakterfasthed«. Flere
 af Kejser Claudius' Mønter bærer Billedet af en
 siddende ell. staaende Kvindeskikkelse med
@@ -78,7 +78,7 @@ personificerede kejserlige Dyder (jfr. <sp>Concordia</sp>) er
 blevet dyrket som Gudinde.
 <i>C. B.</i></chapter>
 
-<chapter name=”Constantia”>
+<chapter name="Constantia">
 <b>Constantia</b> [eng. k<sub>ə</sub>n'stän∫<sub>a</sub>], et Distrikt i
 Kaplandet, bekendt for sine udmærkede Vine.
 Groot Constantia, 11 km S. f. Kapstaden, som
@@ -90,14 +90,14 @@ det byggedes af Guvernør van der Stell, som
 opkaldte det efter sin Hustru Constance.
 <i>C. A.</i></chapter>
 
-<chapter name=”Constantina”>
+<chapter name="Constantina">
 <b>Constantina,</b> By i det sydvestlige Spanien,
 Prov. Sevilla (Andalusien), ligger ved Sierra
 Morenas sydlige Skraaning og er bekendt for
 sine Sølvminer. (1900) 9975 Indb.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Constantine”>
+<chapter name="Constantine">
 <b>Constantine</b> [kåstã'tin], det østligste Dept i
 Algier mellem Tunis og Dept Algier, 87300 km<sup>2</sup>
 med (1911) 2118000 Indb., hvoraf 164000

@@ -117,7 +117,7 @@ processuelle Gennemførelse af E. (<sp>Litt</sp>.:
 Statsforfatningsret« [2. Udg, Kria 1909]).
 <i>K. Ø.</i></chapter>
 
-<chapter name=”Ekspropriations- og Nødbrugsgrundsætningen”>
+<chapter name="Ekspropriations- og Nødbrugsgrundsætningen">
 <b>Ekspropriations- og
 Nødbrugsgrundsætningen</b> betegner den alm. Grundsætning i vor
 Ret, at et direkte Indgreb i andre Personers
@@ -131,17 +131,17 @@ Værdi, se nærmere <sp>Ekspropriation</sp> og
 Ret« [Kbhvn 1908] § 35 III).
 <i>V. B.</i></chapter>
 
-<chapter name=”Ekspulsion”>
+<chapter name="Ekspulsion">
 <b>Ekspulsion</b> (lat.), Uddrivelse, Fordrivelse,
 Udstødelse (af Menigheden); <sp>ekspulsiv</sp>,
 uddrivende, afførende.</chapter>
 
-<chapter name=”ekspurgere”>
+<chapter name="ekspurgere">
 <b>ekspurgere</b> (lat.), rense, udrense;
 <sp>Ekspurgation</sp>, Renselse, Afføring,
 Retfærdiggørelse.</chapter>
 
-<chapter name=”Ekssikator”>
+<chapter name="Ekssikator">
 <b>Ekssikator</b> (lat.), et i kem. Laboratorier
 anvendt Apparat til Tørring ved lav Temp. af
 Stoffer, der ikke taaler Opvarmning, bestaar

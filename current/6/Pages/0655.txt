@@ -42,7 +42,7 @@ littérature et la religion des Grecs</i> [Paris 1881];
 der Gegenwart« [Leipzig 1887]).
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”dæmonisk”>
+<chapter name="dæmonisk">
 <b>dæmonisk</b> (gr.), djævelsk, besat af en
 Dæmon, trolddomsagtig; Betegnelsen d. bruges
 saaledes om en aandelig Indflydelse, der
@@ -51,7 +51,7 @@ Mennesket hen imod en ell. anden Ulykke. Smlg.
 <sp>Dæmon</sp>.
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”Dæmonium”>
+<chapter name="Dæmonium">
 <b>Dæmonium</b> (<i>Daimónion</i>) kaldte Sokrates
 den advarende Stemme, som han allerede fra
 sin Ungdom ofte mente at høre, naar han stod
@@ -83,13 +83,13 @@ Bd, 1. Afd., 4. Opl., Leipzig 1889]; <sp>Myers</sp>,
 Psych. Research.</i>, 5. Bd, London 1889]).
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”Dæmonolatri”>
+<chapter name="Dæmonolatri">
 <b>Dæmonolatri,</b> Tilbedelse af Dæmoner.</chapter>
 
-<chapter name=”Dæmonologi”>
+<chapter name="Dæmonologi">
 <b>Dæmonologi,</b> Læren om Dæmonerne.</chapter>
 
-<chapter name=”Dæmonomani”>
+<chapter name="Dæmonomani">
 <b>Dæmonomani</b> (gr.) (<sp>Dæmonopati</sp>) er
 en særlig Form af Hysteroepilepsien (s. d.), der
 er karakteriseret ved, at Patienten foruden at
@@ -128,7 +128,7 @@ Udg., Paris 1885]; <sp>Pitres</sp>, <i>Leçons cliniques
 sur l'hystérie et l'hypnotisme</i> [2 Bd, Paris 1891]).
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”dæmpe”>
+<chapter name="dæmpe">
 <b>dæmpe</b> (<sp>Søv</sp>.), 1) <sp>at d. Aarerne</sp>, at
 omvikle Aarerne i et Rofartøj med Tøj, paa det
 Sted, hvori de hviler i Aaregangene eller
@@ -143,7 +143,7 @@ skal be slaas eller rebes.
 3) <sp>at d. Søen</sp>, se <sp>Bølgedæmpning</sp>.
 <i>H. E.</i></chapter>
 
-<chapter name=”Dæmper”>
+<chapter name="Dæmper">
 <b>Dæmper</b> (ital. <i>sordino</i>), et Apparat af meget
 forsk. Art, ved Hjælp af hvilket man kan
 dæmpe, forringe, Tonestyrken, til Dels forandre

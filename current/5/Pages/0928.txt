@@ -54,7 +54,7 @@ Broder <sp>John D.</sp> (10 Bd, 1839-41). (<sp>Litt</sp>.:
 John D. [2 Bd, London 1836]).
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Davydov, Denis Vasiljevitsch”>
+<chapter name="Davydov, Denis Vasiljevitsch">
 <b>Davydov</b> [da'vid<sub>å</sub>f], <sp>Denis Vasiljevitsch</sp>,
 russ. Militærforfatter og Digter (1784-1839),
 traadte i Tjenesten 1801, deltog i en Række
@@ -78,7 +78,7 @@ samlede Værker er udkomne fl. Gange, sidste Gang
 1893 i 3 Bd.
 <i>(K. V.). H. C-e.</i></chapter>
 
-<chapter name=”Davy-Medaillen”>
+<chapter name="Davy-Medaillen">
 <b>Davy-Medaillen</b> ['de<sub>i</sub>v<sub>i</sub>-] er stiftet ved
 testamentarisk Bestemmelse af Humphrey Davy
 og uddeles aarlig af <i>Royal society</i> i London i
@@ -88,10 +88,10 @@ udførte i de nærmest foregaaende Aar i Europa
 og det engelsktalende Nordamerika.
 <i>R. K.</i></chapter>
 
-<chapter name=”Davyn”>
+<chapter name="Davyn">
 <b>Davyn,</b> se <sp>Nefelin</sp>.</chapter>
 
-<chapter name=”Davy's Sikkerhedslampe”>
+<chapter name="Davy's Sikkerhedslampe">
 <b>Davy's Sikkerhedslampe</b> ['de<sub>i</sub>v<sub>i</sub>s-] finder
 Anvendelse til transportabel Belysning af Rum,
 i hvilke den atmosfæriske Luft kan være

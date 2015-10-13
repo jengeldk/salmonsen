@@ -15,7 +15,7 @@ Livet vedlige i indkapslet ell. »encysteret«
 Tilstand.
 <i>(M. L.). R. H. S.</i></chapter>
 
-<chapter name=”Cystektasi”>
+<chapter name="Cystektasi">
 <b>Cystektasi,</b> Udvidning af Blæren; for saa
 vidt den optræder som en blivende sygelig
 Tilstand. Den har som Regel sin Oprindelse fra
@@ -27,7 +27,7 @@ Ladeisen et <sp>Divertikel</sp> paa Blæren,
 Pochedannelse.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Cystenyre”>
+<chapter name="Cystenyre">
 <b>Cystenyre,</b> en sygelig Forandring af Nyren,
 hvorved den i sin Helhed ell. kun delvis
 omdannes til en Samling af Cyster; disse er
@@ -37,10 +37,10 @@ den kan ogsaa udvikle sig hen i Livet og skyldes
 da oftest Betændelser i Nyrevævet.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Cysticercus”>
+<chapter name="Cysticercus">
 <b>Cysticercus,</b> se <sp>Bændelorme</sp>.</chapter>
 
-<chapter name=”Cystide- ell. Echinosphæritkalk”>
+<chapter name="Cystide- ell. Echinosphæritkalk">
 <b>Cystide-</b> ell. <sp>Echinosphæritkalk</sp>, en
 i Dalarne, Vestergötland, paa Øland og i Estland
 forekommende, til den ordoviciske Formation
@@ -48,7 +48,7 @@ hørende Kalksten, som indeholder talrige
 Echinosphæriter o. a. Cystidéer.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Cystideæ”>
+<chapter name="Cystideæ">
 <b>Cystideæ,</b> »Stenæblerne«, den laveststaaende
 Gruppe inden for Sølillierne, med hvilke de er
 tydeligt beslægtede ved hyppigt at være stilkede

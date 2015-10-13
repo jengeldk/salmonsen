@@ -28,10 +28,10 @@ Bolig er nu dels et <i>Musée E. D.</i>, dels et
 Kostumemuseum, tilvejebragt ved D.'s Initiativ.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Detaillist”>
+<chapter name="Detaillist">
 <b>Detaillist</b> [detal'jist], se <sp>Detailhandel</sp>.</chapter>
 
-<chapter name=”Detailprojekt”>
+<chapter name="Detailprojekt">
 <b>Detailprojekt</b> [de'talj<sub>ə</sub>-pro'sjægt ell. -'ta.i-]
 betegner det Stadium af Forarbejderne for et
 Byggeforetagende, der gaar umiddelbart forud
@@ -52,7 +52,7 @@ foruden de nødvendige Planer en udførlig
 Beskrivelse.
 <i>A. O-d.</i></chapter>
 
-<chapter name=”de te fabula narratur”>
+<chapter name="de te fabula narratur">
 <b>de te fabula narratur</b> (lat.), »Historien
 handler om dig«, du er den, der sigtes til (selv
 om du ikke er nævnt); Citat af Horats'
@@ -63,16 +63,16 @@ ler, men det er dig, der menes; du behøver
 blot at forandre Navnet).
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Detektiv”>
+<chapter name="Detektiv">
 <b>Detektiv</b> (af lat. <i>detegere</i>, afdække), egnet
 til at lede til Opdagelse (af en Forbrydelse).
 <i>Detective</i>, eng. Betegnelse for en
 Opdagelsesbetjent, ogsaa for Privat-D.</chapter>
 
-<chapter name=”Detektivfotografiapparat”>
+<chapter name="Detektivfotografiapparat">
 <b>Detektivfotografiapparat,</b> se <sp>Fotografi</sp>.</chapter>
 
-<chapter name=”Detektor”>
+<chapter name="Detektor">
 <b>Detektor</b> kaldes i Radiotelegrafien det Organ,
 der omdanner den af Modtagerstationen i Form
 af elektromagnetiske Svingninger (s. d.)
@@ -98,10 +98,10 @@ Tikkeren (se Radiotelegrafi) og
 <sp>Interferens-Modtageren</sp> (s. d.).
 <i>P. O. P.</i></chapter>
 
-<chapter name=”de tempore”>
+<chapter name="de tempore">
 <b>de tempore</b> (lat.), til eller i rette Tid.</chapter>
 
-<chapter name=”Detention”>
+<chapter name="Detention">
 <b>Detention</b> (lat.), Besiddelse af en legemlig
 Ting (<sp>Deténtor</sp>, Besidder), Tilbageholden,
 Forholden, ogsaa: foreløbig Indespærring.
@@ -110,7 +110,7 @@ Politistationer), hvori drukne Personer og
 andre Anholdte foreløbig anbringes.
 <i>E. T.</i></chapter>
 
-<chapter name=”Determinant”>
+<chapter name="Determinant">
 <b>Determinant</b> (lat.) (<sp>mat</sp>.). For en D. <sp>af
 <i>n</i>. Orden</sp> bruges Betegnelsen:
 <br><i>a</i><sub>1</sub><i>a</i><sub>2</sub><i>a</i><sub>3</sub> . . . . <i>a</i><sub>n</sub>
@@ -152,7 +152,7 @@ Fremstilling af D.'s Teori findes i <sp>Baltzer</sp>,
 1864), <sp>Guldberg</sp>, »D.'s Teori« (1876).
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Determination”>
+<chapter name="Determination">
 <b>Determination</b> betegner i Logiken den
 Bestemmelse af et Begreb, hvorved dettes
 Indhold udvides, medens Omfanget indskrænkes,

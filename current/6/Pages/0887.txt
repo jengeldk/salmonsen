@@ -40,14 +40,14 @@ og Levemaade, eventuelt med Medikamenter
 som Arsenik, Mineralvandskure o. a.
 <i>E. P-n.</i></chapter>
 
-<chapter name=”el”>
+<chapter name="el">
 <b>el</b> (arab.) er Artiklen, det samme som <sp>al</sp>.
 De hermed sammensatte Ord er at søge paa
 deres respektive Steder, altsaa <sp>El-Koran</sp>,
 se <sp>Koran</sp> o. s. v.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”El”>
+<chapter name="El">
 <b>El,</b> hebr. Ord af fællessemitisk Herkomst,
 Betegnelse for en Gud; bruges i det gl. Test.
 baade om de fremmede Folks Guder og om
@@ -61,17 +61,17 @@ ved »den almægtige Gud«, anvendes det af
 Præsteskriftet fra Abraham til Mose.
 <i>J. P.</i></chapter>
 
-<chapter name=”El”>
+<chapter name="El">
 <b>El,</b> se <sp>Æl</sp>.</chapter>
 
-<chapter name=”El”>
+<chapter name="El">
 <b>El,</b> holl. Længdemaal (Alen), siden 1821
 Benævnelse for Meter; den gl. holl. E. - 0.68781 m
 regnes i holl. Indien i Praksis - 3/4 eng. Yard;
 en gl Amsterdam-Brabant E. = 0,69438 m.
 <i>(N. J. B.). Th. O.</i></chapter>
 
-<chapter name=”Ela”>
+<chapter name="Ela">
 <b>Ela</b> [e.la.], israelitisk Konge, som arvede
 Herredømmet efter sin Fader Baesa. Ligesom denne
 boede han i Tirsa, men faldt allerede efter 2
@@ -80,19 +80,19 @@ der lededes af Zimri. Denne udryddede saa hele
 hans Slægt. I øvrigt vides intet om ham.
 <i>J. P.</i></chapter>
 
-<chapter name=”elaborere”>
+<chapter name="elaborere">
 <b>elaborere</b> (lat.), udarbejde, forfærdige;
 <sp>Elaborat</sp>, noget udarbejdet, navnlig et
 udarbejdet Skrift; <sp>Elaboration</sp>, Udarbejdelse.</chapter>
 
-<chapter name=”Elafebolion”>
+<chapter name="Elafebolion">
 <b>Elafebolion</b> [gr. -'o.n] (gr.), den 9. Maaned
 i det attiske Kalenderaar, omtr. svarende til
 vor Marts; den havde Navn efter Artemis-Festen
 <i>Elafebolia</i> (se <sp>Artemis</sp>).
 <i>C. B.</i></chapter>
 
-<chapter name=”Elafitiske Øer”>
+<chapter name="Elafitiske Øer">
 <b>Elafitiske Øer,</b> en lille til Østerrig hørende
 Øgruppe i det adriatiske Hav ved Dalmatiens
 Kyst NV. f. Ragusa. Dens tre Øer,
@@ -101,7 +101,7 @@ Kalkklipper og har tilsammen kun c. 2000 Indb.,
 der hovedsagelig lever af Fiskeri.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Elagabal”>
+<chapter name="Elagabal">
 <b>Elagabal,</b> den øverste Gud i den syriske
 By Hemesa, dyrkedes under Skikkelse af en
 stor sort Stenkegle, som antoges for nedfaldet
@@ -118,13 +118,13 @@ Tempel paa Palatinerhøjen og fejret pragtfulde
 Fester til Ære for E.
 <i>C. B.</i></chapter>
 
-<chapter name=”El-Aghuat”>
+<chapter name="El-Aghuat">
 <b>El-Aghuat,</b> se <sp>L'aghuat</sp>.</chapter>
 
-<chapter name=”El Ahsa”>
+<chapter name="El Ahsa">
 <b>El Ahsa</b> [an'sa], se <sp>Hasa</sp>.</chapter>
 
-<chapter name=”Elaia”>
+<chapter name="Elaia">
 <b>Elaia,</b> en af de aioliske Byer paa
 Lilleasiens Vestkyst, laa tæt S. f. Kaikos' Munding
 ved en havbugt, som efter Byen kaldtes den
@@ -134,7 +134,7 @@ Pergamon. 90 e. Kr. blev E. ødelagt ved
 Jordskælv.
 <i>C. B.</i></chapter>
 
-<chapter name=”Elaïdin”>
+<chapter name="Elaïdin">
 <b>Elaïdin</b> betegner et Fedtstof, som faas af
 de saakaldte ikke tørrende Olier ved
 Indvirkning af Salpetersyrling, hvorved disse Olier
@@ -148,7 +148,7 @@ Fedtstoffer fremstillede farmaceutiske Præparater
 indeholder E.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Elaïdinsyre”>
+<chapter name="Elaïdinsyre">
 <b>Elaïdinsyre,</b> C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>, stereoisomer med
 Oliesyre, opstaar ved Indvirkning af
 Salpetersyrling ell. Natriumbisulfit paa denne, samt
@@ -164,14 +164,14 @@ dannes Kaliumsaltene af Eddikesyre og
 Palmitinsyre.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Elain”>
+<chapter name="Elain">
 <b>Elain,</b> d. s. s. <sp>Oleïn</sp>.</chapter>
 
-<chapter name=”Elainsyre”>
+<chapter name="Elainsyre">
 <b>Elainsyre,</b> d. s. s. <sp>Oleïnsyre</sp>,
 <sp>Oliesyre</sp>.</chapter>
 
-<chapter name=”Elaioplast”>
+<chapter name="Elaioplast">
 <b>Elaioplast</b> [-lajo-] (<sp>bot</sp>., <sp>Oliedanner</sp>)
 er ligesom Stivelsedannerne protoplasmatiske
 Organer i Cellekroppen. De danner fed Olie,

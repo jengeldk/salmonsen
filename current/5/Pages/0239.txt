@@ -5,20 +5,20 @@ Bassethorn; <i>c. da caccia</i>, Jagt- ell. Valdhorn; <i>c.
 cromatico</i>, Ventilhorn; <i>c. inglese</i>, eng. Horn.
 <i>S. L.</i></chapter>
 
-<chapter name=”Cornouailles”>
+<chapter name="Cornouailles">
 <b>Cornouailles</b> [kår'nwa.j], fransk Landskab i
 Bretagne, i den sydlige Del af Dept Finistère.
 Den største By er Quimper, tidligere
 Hovedstad i C.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Cornu, Horn”>
+<chapter name="Cornu, Horn">
 <b>Cornu</b> (lat.), Horn; <i>C. cutaneum</i>, Hudhorn,
 hornagtige Udvækster af kronisk Natur,
 dannede af indtørrede Overhudsceller.
 <i>E. P-n.</i></chapter>
 
-<chapter name=”Cornu, Marie Alfred”>
+<chapter name="Cornu, Marie Alfred">
 <b>Cornu</b> [kår'ny], <sp>Marie Alfred</sp>, fr.
 Fysiker (1841-1902). C. studerede ved den
 polytekn. Skole i Paris og blev senere Prof. i
@@ -36,7 +36,7 @@ og klar i skriftlig som mundtlig Fremstilling var
 C. en fortrinlig Repræsentant for fr. Fysik.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Cornu, Maxime”>
+<chapter name="Cornu, Maxime">
 <b>Cornu</b> [kår'ny], <sp>Maxime</sp>, fr. Botaniker, f.
 1843 i Orléans, d. i Paris 1901. Hans Studier,
 der alle er prægede af udmærket
@@ -67,14 +67,14 @@ praktisk Omraade til stor Nytte for hans
 Fædreland og dets Kolonier.
 <i>V. A. P.</i></chapter>
 
-<chapter name=”Cornubianit”>
+<chapter name="Cornubianit">
 <b>Cornubianit,</b> en kontaktmetamorfoseret, mer
 ell. mindre tydelig skifret, af Glimmer,
 Feldspat og Kvarts bestaaende Stenart, der bl. a.
 findes fl. St. i Erzgebirge.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Cornus L.”>
+<chapter name="Cornus L.">
 <b>Cornus</b> L. (<sp>Kornel</sp>), Slægt af Kornelfam.,
 Træer ell. Buske, sjældnere Urter, med
 modsatte, meget sjælden spredte Blade, der er

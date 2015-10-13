@@ -62,15 +62,15 @@ lille Glødelampe er tændt.
 <img>
 Fig. 15. Fejlkurver.</img>
 
-<chapter name=”Elektricitetsmængde”>
+<chapter name="Elektricitetsmængde">
 <b>Elektricitetsmængde,</b> se <sp>elektriske
 Maaleenheder</sp> og <sp>Elektrostatik</sp>.</chapter>
 
-<chapter name=”Elektricitetsværk”>
+<chapter name="Elektricitetsværk">
 <b>Elektricitetsværk,</b> se <sp>elektriske
 Kraftstationer</sp>.</chapter>
 
-<chapter name=”Elektriker”>
+<chapter name="Elektriker">
 <b>Elektriker</b> kaldes en Haandværker, som er
 specielt uddannet i Udførelsen af elektriske
 Arbejder: Ophængninger af Ledninger,
@@ -87,10 +87,10 @@ Autorisation af
 Elektricitetskommissionen.
 <i>R. J. J.</i></chapter>
 
-<chapter name=”elektrisere”>
+<chapter name="elektrisere">
 <b>elektrisere,</b> gøre elektrisk.</chapter>
 
-<chapter name=”Elektrisermaskine”>
+<chapter name="Elektrisermaskine">
 <b>Elektrisermaskine,</b> en
 Maskine, der frembringer
 Elektricitet ved Gnidning ell. elektrostatisk

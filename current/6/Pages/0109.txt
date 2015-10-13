@@ -17,20 +17,20 @@ Struktur meget alm. og skyldes her de hyppige
 Ændringer i Vindretningen.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Diagonalplan”>
+<chapter name="Diagonalplan">
 <b>Diagonalplan</b> (<sp>mat</sp>.), en Plan gennem to
 Sidekanter i et Prisme ell. en Pyramide, som
 ikke ligger i samme Sideflade.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Diagonals”>
+<chapter name="Diagonals">
 <b>Diagonals</b> [da^l'äg<sub>å</sub>nə£z], tætte uldne Stoffer
 til Herretøj og Dameoverstykker, saaledes
 kiprede, at Bindingerne fremtræder som fine skraa,
 temmelig stejle Striber.
 <i>K. M.</i></chapter>
 
-<chapter name=”Diagoras, gr. Nævekæmper”>
+<chapter name="Diagoras, gr. Nævekæmper">
 <b>Diagoras</b> [gr. -'go-], berømt gr. Nævekæmper,
 som nedstammede fra en anset Slægt
 (Eratiderne) i Ialysos paa Rhodos. D. vandt mange
@@ -46,7 +46,7 @@ Kamp, med fremstrakt højre og tilbagebøjet
 venstre Arm.
 <i>C. B.</i></chapter>
 
-<chapter name=”Diagoras  fra Melos”>
+<chapter name="Diagoras  fra Melos">
 <b>Diagoras</b> [gr. -'go-] <sp>fra Melos</sp> med
 Tilnavnet Gudsfornægteren (ἄθεος), gr.
 Filosof og Lyriker fra den lille Ø Melos i den
@@ -115,7 +115,7 @@ i den nyere Tid af <sp>Julius Petersen</sp> og
 <sp>Schur</sp>.
 <i>A. O-d.</i></chapter>
 
-<chapter name=”Diagram (bot.)”>
+<chapter name="Diagram (bot.)">
 <b>Diagram</b> (<sp>bot</sp>.) betyder et Grundrids af en
 Blomst ell. et Skud (eventuelt med dets
 Sideskud). Man skelner mellem det
@@ -129,11 +129,11 @@ Diagrammer af beslægtede Former teoretisk
 (potentialiter) bør tænkes til Stede.
 <i>V. A. P.</i></chapter>
 
-<chapter name=”Diagramapparat”>
+<chapter name="Diagramapparat">
 <b>Diagramapparat,</b> se
 <sp>Materialprøvemaskiner</sp>.</chapter>
 
-<chapter name=”Diahot”>
+<chapter name="Diahot">
 <b>Diahot,</b> den længste Flod paa den australske
 Ø Ny-Caledonien, har Retning fra SØ. til NV.
 og falder efter et 150 km langt Løb i
@@ -142,7 +142,7 @@ og ved dens Bredder findes baade Guld og
 Kobber.
 <i>M. V.</i></chapter>
 
-<chapter name=”Diakaustika”>
+<chapter name="Diakaustika">
 <b>Diakaustika</b> (gr.), Brændflade, fremkaldt ved
 Lysets <sp>Gennemgang</sp> gennem en Linse ell.
 et andet regelmæssig brydende Legeme i
@@ -150,7 +150,7 @@ Modsætning til <sp>Katakaustika</sp>, der fremkommer
 ved Tilbagekastning.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Diaklaser”>
+<chapter name="Diaklaser">
 <b>Diaklaser,</b> en Betegnelse for de
 Sprækkedannelser, som hyppig finder Sted i Stenarter
 p. Gr. a. Tryk ell. geotektoniske Bevægelser i
@@ -159,13 +159,13 @@ Brudstykker af mer ell. mindre regelmæssig Form.
 Se i øvrigt Afsondring.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Diaklasit”>
+<chapter name="Diaklasit">
 <b>Diaklasit,</b> Mineral, er en noget omdannet,
 vandholdig Varietet af Mineralet Broncit (se
 <sp>Pyroxen-Gruppen</sp>).
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name=”Diakon”>
+<chapter name="Diakon">
 <b>Diakon</b> (gr. διάκονος;, Tjener), en kirkelig
 Embedsmand, hvis Hverv kan føres helt tilbage
 til Aposteltidens Dage (Fil. 1, 1; 1. Tim. 3, 8 ff.),

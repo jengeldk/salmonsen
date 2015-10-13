@@ -11,13 +11,13 @@ Tidsskriftet <i>Revue de Philologie française et
 provençale</i>, som han stadig redigerer.
 <i>Kr. N.</i></chapter>
 
-<chapter name = ”Clee-Hills”>
+<chapter name="Clee-Hills">
 <b>Clee-Hills</b> ['k£i.-'hi£z], Højdedrag i
 Vestengland, Shropshire, begrænser Severn-Dalen
 paa højre Side og hæver sig til 546 m.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Cleethorpes”>
+<chapter name="Cleethorpes">
 <b>Cleethorpes</b> ['k£i.þå<sub>ə</sub>ps], Badested i
 Østengland (Lincolnshire) ved Nordsøen, 4 km SØ. f.
 Grimsby, har stærkt besøgte Søbade og (1911)
@@ -25,7 +25,7 @@ sammen med det nærliggende Thrunscoe 21417
 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Clegg, Samuel”>
+<chapter name="Clegg, Samuel">
 <b>Clegg</b> [k£eg], <sp>Samuel</sp>, eng. Opfinder og
 Tekniker (1781-1861), Elev af Stenkulsgassens
 første Foregangsmand Wm. Murdoch, har
@@ -40,7 +40,7 @@ hvilende paa samme Hovedprincip, om end i
 moderniseret Skikkelse.
 <i>R. T.</i></chapter>
 
-<chapter name = ”Clémanges, Matthæus Nicolaus de”>
+<chapter name="Clémanges, Matthæus Nicolaus de">
 <b>Clémanges</b> [kle'mã.з], <sp>Matthæus
 Nicolaus de</sp>, fr. Teolog (1360-1434?), var Discipel
 af Pierre d'Ailly og Gerson. Som Rektor for
@@ -57,7 +57,7 @@ udg. af <sp>J. Lydius</sp> (Leyden 1613, I-II). (<sp>Litt</sp>.:
 1846]).
 <i>L. M.</i></chapter>
 
-<chapter name = ”Clematis”>
+<chapter name="Clematis">
 <b>Clematis</b> L. (<sp>Skovranke</sp>), Slægt af
 Ranunkelfamilien, Stauder ell. klatrende Buske med
 modsatte og enkelte, men oftest trekoblede ell.

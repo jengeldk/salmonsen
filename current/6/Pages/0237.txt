@@ -5,7 +5,7 @@ farmaceutiske Kandidat, som ansat ved et Hospital
 forestaar dettes Apoteksafdeling.
 <i>E. K.</i></chapter>
 
-<chapter name=”Dispensatorium”>
+<chapter name="Dispensatorium">
 <b>Dispensatorium.</b> Ved D. forstaas nu om
 Stunder en Samling af Forskrifter for
 Tilberedning af Lægemidler, som ikke er identisk med
@@ -15,7 +15,7 @@ Hospitaler, Lægeforeninger o. s. v. Se i øvrigt
 <sp>Farmakopé</sp>.
 <i>E. K.</i></chapter>
 
-<chapter name=”dispensere”>
+<chapter name="dispensere">
 <b>dispensere</b> (lat.), tilberede og udlevere
 Lægemidler. Udtrykket bruges særlig om den
 Læge, der, fordi han er afskaaret fra
@@ -24,7 +24,7 @@ Tilladelse til at d. den Medicin, han anvender
 til sine Patienter.
 <i>E. K.</i></chapter>
 
-<chapter name=”Dispersion”>
+<chapter name="Dispersion">
 <b>Dispersion,</b> <sp>Straalespredning</sp> eller,
 naar man især tænker paa de <sp>synlige</sp>
 Lysstraaler, Farvespredning. Naar hvidt

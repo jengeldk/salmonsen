@@ -17,10 +17,10 @@ Lemonnier</sp>, <i>C. et son æuvre</i>; <sp>d'Ideville</sp>, »G. C.«
 1911]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”courbette”>
+<chapter name="courbette">
 <b>courbette</b> [kur'bæt], se <sp>Skoleridning</sp>.</chapter>
 
-<chapter name=”Courbevoie”>
+<chapter name="Courbevoie">
 <b>Courbevoie</b> [kurb<sub>ö</sub>'vwa], By i det
 nordvestlige Frankrig, Dept Seine, Arrond. St-Denis, ved
 Seines venstre Bred, 9 km NV. f. Paris ved
@@ -32,7 +32,7 @@ Fabrikation af Jernbanevogne og Medikamenter. (1911)
 38138 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Courbière, Guillaume René”>
+<chapter name="Courbière, Guillaume René">
 <b>Courbière</b> [ku.rbi'æ.r], <sp>Guillaume René</sp>,
 preussisk Feltmarskal, f. 23. Febr 1733 i
 Maastricht, d. 25. Juli 1811 i Graudenz. Han
@@ -63,7 +63,7 @@ Guvernør i Vestprenssen. (<sp>Litt</sp>.: <sp>Froelich</sp>,
 »De C., ein Lebensbild« [Graudenz 1896]).
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Courcel, Alphonse Chodron”>
+<chapter name="Courcel, Alphonse Chodron">
 <b>Courcel</b> [kur'sæl], <sp>Alphonse Chodron</sp>,
 Baron, fr. Diplomat, f. 1835, studerede 1853-58
 i Tyskland og tog 1858 jur. Doktorgrad i Bonn.
@@ -77,7 +77,7 @@ Berings-Strædet. Derefter var han 1894-98 Sendemand
 i London. Siden 1892 er han Senator.
 <i>E. E.</i></chapter>
 
-<chapter name=”Courcelles a. d. Nied”>
+<chapter name="Courcelles a. d. Nied">
 <b>Courcelles</b> [kur'sæl] a. d. <sp>Nied</sp>, Landsby
 i det tyske Rigsland Elsass-Lothringen,
 Landkreds Metz, ved Nied, har et Slot i Rokokostil
@@ -86,14 +86,14 @@ første Slag foran Metz (14. Aug. 1870), nu
 officielt betegnet som Slaget ved Colombey-Nouilly.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Courcelles, Flække i den belgiske Prov. Hainaut”>
+<chapter name="Courcelles, Flække i den belgiske Prov. Hainaut">
 <b>Courcelles</b> [kur'sæl], Flække i den belgiske
 Prov. Hainaut, 11 km NV. f. Charleroi, ved
 Jernbanen Bryssel-Charleroi, har Kulgruber og
 Jernværker. (1911) 18084 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Courcelle-Seneuil, Jean Gustave”>
+<chapter name="Courcelle-Seneuil, Jean Gustave">
 <b>Courcelle-Seneuil</b> [kur'sæl-s<sub>ö</sub>'nö.j], <sp>Jean
 Gustave</sp>, fr. Socialøkonomi og
 Finansteoretiker (1813-92), var i sin Ungdom Købmand,
@@ -113,11 +113,11 @@ Tilhænger af den manchesterlig-individualistiske
 Liberalisme.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Cour d'amour”>
+<chapter name="Cour d'amour">
 <b>Cour d'amour</b> ['ku.r-d-a'mu.r], se
 <sp>Elskovshof</sp>.</chapter>
 
-<chapter name=”Courier, Paul Louis”>
+<chapter name="Courier, Paul Louis">
 <b>Courier</b> [ku'r<sub>i</sub>e], <sp>Paul Louis</sp>, fr. Skribent,
 f. i Paris 4. Jan. 1772, d. 10. Apr 1825. Som
 Officer deltog han i de fr. Felttog, ikke af

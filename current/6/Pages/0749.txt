@@ -51,7 +51,7 @@ ogsaa. (<sp>Litt</sp>.: Monografier ved <sp>Ahrenberg</sp>
 [Helsingfors 1905]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Edelgave”>
+<chapter name="Edelgave">
 <b>Edelgave,</b> Hovedgaard i Smørum Herred,
 VNV. f. Kbhvn, oprettet af den nedlagte
 Landsby Rumpe, der af Frederik III blev skænket
@@ -66,7 +66,7 @@ senere hyppig skiftet Ejer. Hovedbygningen er
 opført 1773 af Justitsraad Faith.
 <i>B. L.</i></chapter>
 
-<chapter name=”Edelinck, Gerard”>
+<chapter name="Edelinck, Gerard">
 <b>Edelinck</b> ['e.d<sub>ə</sub>leŋk], <sp>Gerard</sp>, nederl.-fr.
 Kobberstikker, f. i Antwerpen 1640, d. i Paris 1707.
 E. blev opdraget af Jesuitterne, lærte under G.
@@ -104,7 +104,7 @@ Kbhvn. (<sp>Litt</sp>.: <sp>H. Delaborde</sp>, <i>G. E.</i> [Paris
 1886]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Edelkrantz, Abraham Niklas”>
+<chapter name="Edelkrantz, Abraham Niklas">
 <b>Edelkrantz</b> ['e.d<sub>ə</sub>lkrants] (opr. <sp>Clewberg</sp>),
 <sp>Abraham Niklas</sp>, sv. Embedsmand,
 Litterat og Fysiker (1754-1821). E. blev 1780

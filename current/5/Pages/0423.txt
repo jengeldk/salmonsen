@@ -20,10 +20,10 @@ i Baggrunden. (<sp>Litt</sp>.: <sp>J. Vibe</sp>,
 [Kria] Apr. 1895).
 <i>(J. F. W. H). M. H.</i></chapter>
 
-<chapter name=”Dagbjergarter”>
+<chapter name="Dagbjergarter">
 <b>Dagbjergarter,</b> se <sp>Eruptivbjergarter</sp>.</chapter>
 
-<chapter name=”Dagbladet, dansk Avis”>
+<chapter name="Dagbladet, dansk Avis">
 <b>Dagbladet,</b> dansk Avis, udsendte sit første
 Nummer 24. Novbr 1851. Bogtrykker S. B. Salomon
 havde under Krigsaarene trykt en Avis
@@ -101,7 +101,7 @@ Udgiver og Ejer af »Nationaltidende«. (<sp>Litt</sp>.:
 »Dagbladet« for 24. Novbr 1876).
 <i>J. Cl.</i></chapter>
 
-<chapter name=”Dagbladet (norsk)”>
+<chapter name="Dagbladet (norsk)">
 <b>Dagbladet</b> (<sp>norsk</sp>), det norske radikale
 Venstres Hovedorgan, begyndte at udkomme 2.
 Jan. 1869 med Anthon Bang som Redaktør; allerede
@@ -133,11 +133,11 @@ Fortsættelse 1863 af »Christianiaposten« (se
 <sp>Kristianiaposten</sp>).
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Dagbladet (svensk)”>
+<chapter name="Dagbladet (svensk)">
 <b>Dagbladet</b> (svensk), se 1) <sp>Stockholms
 D.</sp>, 2) <sp>Svenska D</sp>.</chapter>
 
-<chapter name=”Dagblindhed”>
+<chapter name="Dagblindhed">
 <b>Dagblindhed</b> taler man undertiden om, naar
 et Menneske ser bedre i Halvmørke end ved
 fuldt Dagslys. Aarsagerne er forskellige, hyppig

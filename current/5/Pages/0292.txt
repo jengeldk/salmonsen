@@ -78,11 +78,11 @@ Slægtninges. I Louvre fl. Malerier af ham, i Sthlm's
 Slot: »Paris' Dom«, o. s. fr.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Coypu”>
+<chapter name="Coypu">
 <b>Coypu</b> ['kå<sub>i</sub>-] (<i>Myopotamus</i>), se
 <sp>Bæverrotte</sp>.</chapter>
 
-<chapter name=”Coysevox, Charles Antoine”>
+<chapter name="Coysevox, Charles Antoine">
 <b>Coysevox</b> [kwaz'vo], <sp>Charles Antoine</sp>,
 fr. Billedhugger (af sp. Afstamning), f. i Lyon
 1640, d. i Paris 1720. C., som i 17 Aars Alderen
@@ -117,7 +117,7 @@ sa vie, son æuvre et ses contemporains</i> [Paris
 1883]; <sp>Lachèse</sp>, <i>C.</i> [Angers 1883]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Coze-Ovne”>
+<chapter name="Coze-Ovne">
 <b>Coze-Ovne.</b> Ved Gasfabrikationen anvendtes
 tidligere udelukkende Ovne med vandret
 liggende Retorter; saa indførtes Ovne med
@@ -129,7 +129,7 @@ større Gasværker.
 Se <sp>Kulgas</sp>.
 <i>R. T.</i></chapter>
 
-<chapter name=”Cozza, Francesco”>
+<chapter name="Cozza, Francesco">
 <b>Cozza</b> ['kåtsa], <sp>Francesco</sp>, ital. Maler
 og Raderer, f. 1605 i Stilo (Kalabrien), d. 1682 i
 Rom, Elev af Domenichino og dennes
@@ -141,15 +141,15 @@ Kbhvn det smukke »Landskab med Hagar«
 (1664).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Cr.”>
+<chapter name="Cr.">
 <b>Cr.,</b> kemisk Tegn for Krom.</chapter>
 
-<chapter name=”cr.”>
+<chapter name="cr.">
 <b>cr.,</b> Forkortelse for <i>curréntis</i> (lat), løbende
 (Aar eller Maaned), tillige for <i>circiter</i> (lat.),
 omtrent.</chapter>
 
-<chapter name=”CR”>
+<chapter name="CR">
 <b>CR,</b> telegrafisk Forkortelse for Ankomstbeviset
 for et Telegram. CRS = Ankomstbevis for
 Statstelegram og CRD = Ankomstbevis for

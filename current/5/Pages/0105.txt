@@ -71,23 +71,23 @@ Prydplanter.
 <img>Fig. 2. Kokosnød.</img>
 <img>Fig. 3. <i>Cocos flexuosa</i>.</img>
 
-<chapter name=”Cocos-Øer”>
+<chapter name="Cocos-Øer">
 <b>Cocos-Øer,</b> se <sp>Keeling-Øer</sp>.</chapter>
 
-<chapter name=”Cocques”>
+<chapter name="Cocques">
 <b>Cocques</b> [kåks], se <sp>Coques</sp>.</chapter>
 
-<chapter name=”Cocxie”>
+<chapter name="Cocxie">
 <b>Cocxie</b> ['kåksi.], <sp>M.</sp>, se <sp>Coxie</sp>.</chapter>
 
-<chapter name=”C. O. D.”>
+<chapter name="C. O. D.">
 <b>C. O. D.</b> ['si-'o<sub>u</sub>-'di.], i Handelssproget
 Forkortelse af det eng. Udtryk <i>cash on delivery</i>
 ['kä∫-<sub>ə</sub>n-d<sub>i</sub>'£iv<sub>ə</sub>ri], paa Dansk: kontant Betaling
 ved Varens Levering.
 <i>Th. O.</i></chapter>
 
-<chapter name=”Coda”>
+<chapter name="Coda">
 <b>Coda</b> (ital.), egl. Hale, Slæb, er i <sp>Metrikken</sp>
 Slutn. af Canzone-Strofen fra 7. Linie at regne,
 og den lille Slutningsstrofe af hele Digtet,
@@ -105,7 +105,7 @@ Menuetter og Scherzo'er, Rondo'er og Valse; det kan
 udtrykkelig være betegnet som C. eller ikke.
 <i>E. G.</i></chapter>
 
-<chapter name=”Codans Bugt”>
+<chapter name="Codans Bugt">
 <b>Codans Bugt</b> (<i>Sinus codanus</i>) er en hos
 rom. Forf. forekommende Betegnelse for
 Østersøen. Deraf i Ingemann's Fædrelandssang

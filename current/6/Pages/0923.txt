@@ -39,15 +39,15 @@ at den i paakommende Tilfælde kan magte alle
 Patronerne paa een Gang.
 <i>Sch. P.</i></chapter>
 
-<chapter name=”elektrisk Arbejde”>
+<chapter name="elektrisk Arbejde">
 <b>elektrisk Arbejde,</b> se <sp>Arbejde 2</sp>).</chapter>
 
-<chapter name=”elektrisk Armatur”>
+<chapter name="elektrisk Armatur">
 <b>elektrisk Armatur,</b> se <sp>elektriske
 Installationer</sp> og
 <sp>Installationsmateriel</sp>.</chapter>
 
-<chapter name=”elektrisk Baad”>
+<chapter name="elektrisk Baad">
 <b>elektrisk Baad,</b> en Baad, som drives ved
 Hjælp af Elektricitet. Den fornødne Strøm
 leveres i Alm. af et Akkumulatorbatteri (se
@@ -75,11 +75,11 @@ Strømtilførsel fra Luftledninger til Befordring
 af Gods.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”elektrisk Bad”>
+<chapter name="elektrisk Bad">
 <b>elektrisk Bad,</b> se <sp>Bad</sp> og
 <sp>Elektroterapi</sp>.</chapter>
 
-<chapter name=”elektrisk Bagslag”>
+<chapter name="elektrisk Bagslag">
 <b>elektrisk Bagslag.</b> Naar en Leder, der er
 afledt til Jorden, staar i Nærheden af en anden
 Leder, der har en elektrisk Ladning, vil der
@@ -100,7 +100,7 @@ paastaaet - kan dræbes af et e. B., f. Eks.
 naar Lynet slaar ned i dets Nærhed.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”elektrisk Batteri”>
+<chapter name="elektrisk Batteri">
 <b>elektrisk Batteri,</b> Samling af
 Leydnerflasker, der virker i Forening. Man stiller dem
 gerne i en Kasse, hvis Bund er belagt med
@@ -113,22 +113,22 @@ e. B., men Gnisten lyser stærkere, faar større
 Varmevirkninger, giver stærkere Stød o. s. v.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”elektrisk Belysning”>
+<chapter name="elektrisk Belysning">
 <b>elektrisk Belysning,</b> se <sp>elektrisk Lys</sp>
 og <sp>indirekte Belysning</sp>.</chapter>
 
-<chapter name=”elektrisk Centralstation”>
+<chapter name="elektrisk Centralstation">
 <b>elektrisk Centralstation,</b> se <sp>elektriske
 Kraftstationer</sp>.</chapter>
 
-<chapter name=”elektrisk Drage”>
+<chapter name="elektrisk Drage">
 <b>elektrisk Drage,</b> en Drage, bestemt til
 gennem sin Snor at hente Elektricitet ned fra
 Luften. Franklin anvendte den for første Gang
 1752.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”elektrisk Dukkedans”>
+<chapter name="elektrisk Dukkedans">
 <b>elektrisk Dukkedans.</b> En ren og varm
 Glasplade lægges paa 4 Propper, der staar paa
 et Bord og altsaa kommer til at tjene som
@@ -140,11 +140,11 @@ til at hoppe op og ned. Smlg. Kugledans under
 <sp>Elektrisermaskine</sp>.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”elektriske Akkumulatorer”>
+<chapter name="elektriske Akkumulatorer">
 <b>elektriske Akkumulatorer,</b> se
 <sp>Akkumulatorer</sp>.</chapter>
 
-<chapter name=”elektriske Anlæg”>
+<chapter name="elektriske Anlæg">
 <b>elektriske Anlæg,</b> se <sp>elektriske
 Kraftstationer</sp>, <sp>elektriske
 Understationer</sp>, <sp>elektriske Ledningsnet</sp>,
@@ -153,7 +153,7 @@ Understationer</sp>, <sp>elektriske Ledningsnet</sp>,
 <sp>elektriske Sporveje</sp> og <sp>elektriske
 Jernbaner</sp>.</chapter>
 
-<chapter name=”elektriske Billeder”>
+<chapter name="elektriske Billeder">
 <b>elektriske Billeder</b> er visse tænkte
 Punkter bag en Leders Overflade, der forsynede med
 passende Ladninger vilde kunne fremkalde

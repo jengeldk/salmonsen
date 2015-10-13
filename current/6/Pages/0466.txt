@@ -59,7 +59,7 @@ har ogsaa udg. et hist. Atlas.
 
 <img>J. G. Droysen</img>
 
-<chapter name=”Droz, Gustave”>
+<chapter name="Droz, Gustave">
 <b>Droz</b> [dro], <sp>Gustave</sp>, fr. Romanforfatter,
 f. i Paris 9. Juni 1832, d. smst. 22. Oktbr 1895,
 uddannede sig først til Maler og udstillede 1857
@@ -100,7 +100,7 @@ republikanske Forhold, fandt stærkt Udtryk i
 <i>L'enfant</i>.
 <i>S. Ms.</i></chapter>
 
-<chapter name=”Droz, Numa”>
+<chapter name="Droz, Numa">
 <b>Droz</b> [dro], <sp>Numa</sp>, schweizisk Statsmand,
 f. 27. Jan. 1844 i Kanton Neuchatel, d. 15. Decbr
 1899, blev 1862 Lærer, men grundlagde allerede
@@ -121,7 +121,7 @@ d'instruction civique</i> (1884) med tilhørende <i>Cours
 élémentaire d'instruction civique</i> (1885).
 <i>E. E.</i></chapter>
 
-<chapter name=”Droz, Pierre Jacquet”>
+<chapter name="Droz, Pierre Jacquet">
 <b>Droz</b> [dro], <sp>Pierre Jacquet</sp>, schweizisk
 Mekaniker (1721-90), opfandt som Urmager
 forsk. Forbedringer i Urmageriet. Særlig er han
@@ -131,6 +131,6 @@ Automat, der forestillede en klaverspillende
 Pige, som efter endt Spil rejste sig op og hilste
 paa Selskabet.</chapter>
 
-<chapter name=”Drude, Karl Ludwig Paul”>
+<chapter name="Drude, Karl Ludwig Paul">
 <b>Drude</b> ['dru.d<sub>ə</sub>], <sp>Karl Ludwig Paul</sp>, tysk
 Fysiker, nedenn.'s Broder, f. 12 Juli 1863 i

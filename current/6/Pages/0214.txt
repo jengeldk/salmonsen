@@ -73,7 +73,7 @@ fældede Lanser; over deres Hoveder findes deres
 Symbol, to Stjerner.
 <i>C. B.</i></chapter>
 
-<chapter name=”Dioskurias”>
+<chapter name="Dioskurias">
 <b>Dioskurias,</b> i Oldtiden en gr. Stad i Kolchis
 ved Østkysten af det Sorte Hav, Koloni fra
 Milet, anlagt c. 500 f. Kr. D. drev især
@@ -82,7 +82,7 @@ betydelig Handel med Kaukasus-Landenes Produkter
 bevaret det antikke Navn (<i>Iskuria</i>).
 <i>C. B.</i></chapter>
 
-<chapter name=”Dioskurides”>
+<chapter name="Dioskurides">
 <b>Dioskurides</b> [gr. -'ri.-], en af Oldtidens mest
 bekendte Mestere i Stenskærerkunsten, levede
 i Rom paa Augustus' Tid. Han skar baade
@@ -94,7 +94,7 @@ Sønner af ham, Erofilos og Eutyches, praktiserede
 samme Kunst som Faderen.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Dioskurides, Pedanios”>
+<chapter name="Dioskurides, Pedanios">
 <b>Dioskurides,</b> <sp>Pedanios</sp>, var en gr. Læge
 fra Anazarba i Kilikien; han levede i 1.
 Aarh. e. Kr. og synes at have lært i den filos.
@@ -140,10 +140,10 @@ andre Skr tillægges ogsaa D.; af dem er kun
 »Om Husraadene« (περι ευπορίστων) ægte.
 <i>J. S. J.</i></chapter>
 
-<chapter name=”Diosmose”>
+<chapter name="Diosmose">
 <b>Diosmose,</b> se <sp>Osmose</sp>.</chapter>
 
-<chapter name=”Diospolis”>
+<chapter name="Diospolis">
 <b>Diospolis</b> (gr.: »Zeus' Stad«), i den senere
 rom. Kejsertid det alm. Navn paa Byen <i>Lod</i>
 (gr. <i>Lydda</i>), der paa Kristi Tid var Midtpunkt

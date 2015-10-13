@@ -107,10 +107,10 @@ Tidsrummet 1742-1891 udgivne videnskabelige
 Arbejder« [Kbhvn 1892]).
 <i>Kr. E.</i></chapter>
 
-<chapter name=”Danske Vitruvius”>
+<chapter name="Danske Vitruvius">
 <b>Danske Vitruvius,</b> se <sp>Vitruvius</sp>.</chapter>
 
-<chapter name=”Dansk Ferskvandsfiskeriforening”>
+<chapter name="Dansk Ferskvandsfiskeriforening">
 <b>Dansk Ferskvandsfiskeriforening</b> blev
 stiftet 17. Novbr 1902. Dens Formaal er at
 fremme Ferskvandsfiskeriet, saavel Frivandsfiskeriet
@@ -127,7 +127,7 @@ Foreningens Medlemsblad er
 modtog den et Statstilskud paa 400 Kr.
 <i>C. V. O.</i></chapter>
 
-<chapter name=”Dansk Fiskeriforening”>
+<chapter name="Dansk Fiskeriforening">
 <b>Dansk Fiskeriforening</b> blev stiftet 1. Juni
 1887 ved Sammenslutning af »Foreningen til
 Fiskeriernes Fremme i Danmark og Bilande« og

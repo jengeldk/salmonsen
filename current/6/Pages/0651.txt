@@ -31,7 +31,7 @@ nedenstaaende Tabel.
 </table>
 <i>Sch. P.</i></chapter>
 
-<chapter name=”Dækning, af Frilandsplanter”>
+<chapter name="Dækning, af Frilandsplanter">
 <b>Dækning</b> af mindre haardføre
 Frilandsplanter foretages for at skærme dem mod Vinteren.
 Den heldigste Maade at dække paa er enten at
@@ -50,14 +50,14 @@ Solen, at Blomsterne ikke skal udfolde sig saa
 tidlig, at de kan tage Skade af Nattefrost.
 <i>L. H.</i></chapter>
 
-<chapter name=”Dækningskøb”>
+<chapter name="Dækningskøb">
 <b>Dækningskøb,</b> Køb af en Vare, som man
 forud har solgt, hvorved man altsaa <sp>dækker
 sig</sp>, sikrer sig at kunne opfylde sin
 Leveringsforpligtelse. Se <sp>découvert</sp>.
 <i>C. Th.</i></chapter>
 
-<chapter name=”Dækningssignaler”>
+<chapter name="Dækningssignaler">
 <b>Dækningssignaler,</b> Betegnelse for de
 Signaler, hvorved et Punkt paa en Jernbanelinie
 »dækkes« mod utidige Togpassager, idet

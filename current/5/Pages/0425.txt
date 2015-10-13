@@ -8,7 +8,7 @@ Klasser« indtil Udgangen af 1890, da
 det gik ind.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Dagen kaldes i Bjergsproget Jordens Overflade”>
+<chapter name="Dagen kaldes i Bjergsproget Jordens Overflade">
 <b>Dagen</b> kaldes i Bjergsproget Jordens Overflade
 i Modsætning til Gruberummene. »I Dagen«,
 »under Dagen«. I ældre Grubebeskrivelser
@@ -16,7 +16,7 @@ vil ogsaa D. findes brugt i St f. Dagslyset: »D.
 falder ind«.
 <i>A. G.</i></chapter>
 
-<chapter name=”Dagens Nyheder, dansk Avis”>
+<chapter name="Dagens Nyheder, dansk Avis">
 <b>Dagens Nyheder,</b> dansk Avis, blev stiftet
 1868 af Rob. Watt og V. Rasmussen, der var
 Redaktører af de 3 første Aargange. Dernæst
@@ -33,7 +33,7 @@ har D. N. i de sidste Aar vundet
 stærk Fremgang.
 <i>J. Cl.</i></chapter>
 
-<chapter name=”Dagens Nyheter, ledende sv. Venstreblad”>
+<chapter name="Dagens Nyheter, ledende sv. Venstreblad">
 <b>Dagens Nyheter,</b> ledende sv. Venstreblad,
 som dgl. udkommer i Sthlm. Det stiftedes 1864
 af <sp>Rudolf Wall</sp> med økon. Understøttelse af
@@ -75,7 +75,7 @@ hele sin Optræden og Virksomhed søgt at fremme
 demokratiske Øjemed.
 <i>A. M. D.</i></chapter>
 
-<chapter name=”Dagerort”>
+<chapter name="Dagerort">
 <b>Dagerort,</b> Halvø paa Vestsiden af Dagø. Paa
 Andreas-Bjerg paa Midten af Halvøen staar et
 Fyrtaarn, der har en Højde af 102 m o. H. Paa
@@ -85,7 +85,7 @@ Semaforapparat, ved Hjælp af hvilket der gives
 Signaler om Isforhold i den finske Bugt.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Dagesh”>
+<chapter name="Dagesh">
 <b>Dagesh</b> danner et Led i det hebr. Skriftsystem.
 Det er et Punkt, som anbringes i Konsonanter,
 dels som <i>D. lene</i>, der anvendes i Bogstaverne
@@ -95,10 +95,10 @@ en Vokal, dels som <i>D. forte</i>, der betegner, at
 en Konsonant skal fordobles i Udtalen.
 <i>J. P.</i></chapter>
 
-<chapter name=”Dagestan”>
+<chapter name="Dagestan">
 <b>Dagestan,</b> d. s. s. <sp>Daghestan</sp>.</chapter>
 
-<chapter name=”Dagfinn Bonde”>
+<chapter name="Dagfinn Bonde">
 <b>Dagfinn Bonde,</b> norsk Høvding i Beg. af 13.
 Aarh., Lagmand i Gulatingslagen og Sysselmand
 i Hordaland, d. 1237. D. forsvarede gentagne
@@ -116,13 +116,13 @@ døde, før Krigen mellem Haakon og Skule
 brød ud.
 <i>Edv. B.</i></chapter>
 
-<chapter name=”Daggert”>
+<chapter name="Daggert">
 <b>Daggert,</b> se <sp>Dolk</sp>.</chapter>
 
-<chapter name=”Dagget”>
+<chapter name="Dagget">
 <b>Dagget,</b> se <sp>Birketjære</sp>.</chapter>
 
-<chapter name=”Daggial”>
+<chapter name="Daggial">
 <b>Daggial</b> [dadз'dзa.l] (arab.; korrekt <i>Dadjdjâl</i>)
 er et arab. Ord, der betyder Løgner; Betegnelsen
 <i>ad-Dadjdjâl</i> ell. rettere <i>al-Messîh ad-Dadjdjâl</i>
@@ -148,10 +148,10 @@ paavirkede af de kristne Legender om den falske
 Messias.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Dagh”>
+<chapter name="Dagh">
 <b>Dagh</b> [dag] (tyrk.), Bjerg, Bjergkæde.</chapter>
 
-<chapter name=”Daghestan”>
+<chapter name="Daghestan">
 <b>Daghestan</b> (Bjergland), Prov. i det russ. Generalguvernement
 Transkaukasien mellem Nordøstskraaningen
 af Kaukasus-Kæden og det kaspiske

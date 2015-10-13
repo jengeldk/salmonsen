@@ -2,7 +2,7 @@
 Sacbsen-E.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eisenburg”>
+<chapter name="Eisenburg">
 <b>Eisenburg</b> ['a^iz<sub>ə</sub>nburk], ung. <sp>Vas</sp>, Komitat
 i det vestlige Ungarn, grænser mod V. til
 Steiermark. Det er 5474 km<sup>2</sup> med (1910) 435793 Indb.,
@@ -15,7 +15,7 @@ Komitatet har Navn efter den lille By E. (ung.
 Vasvár).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eisenerz”>
+<chapter name="Eisenerz">
 <b>Eisenerz</b> ['a^iz<sub>ə</sub>nærts], By i Kejserdømmet
 Østerrig, Prov. Steiermark, ligger 745 m o. H.
 ved den nordlige Fod af det 1534 m høje
@@ -29,7 +29,7 @@ Slottet Leopoldstein ved den vilde, men herlig
 liggende <sp>Leopoldsteiner See</sp>.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eisenhut, Ferenz”>
+<chapter name="Eisenhut, Ferenz">
 <b>Eisenhut</b> ['a^iz<sub>ə</sub>nhut], <sp>Ferenz</sp> (<sp>Franz</sp>),
 ung. Maler, f. 1857 i Német-Palánka i Ungarn, d.
 1903 i München. I sidstnævnte By fik han sin
@@ -39,7 +39,7 @@ repræsenteret i Münchens ny Pinakotek og i
 Budapests Mus.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Eisenlohr, August”>
+<chapter name="Eisenlohr, August">
 <b>Eisenlohr</b> [a^iz<sub>ə</sub>nlo.r], <sp>August</sp>, tysk
 Ægyptolog, f. 6. Oktbr 1832 i Mannheim, d. 23. Febr
 1902 i Heidelberg. Efter at have studeret
@@ -70,7 +70,7 @@ han ekstraord. Prof. i Ægyptologi i Heidelberg
 og 1885 Professor.
 <i>V. S.</i></chapter>
 
-<chapter name=”Eisenmenger, August”>
+<chapter name="Eisenmenger, August">
 <b>Eisenmenger</b> ['a^iz<sub>ə</sub>nmæŋ<sub>ə</sub>r], <sp>August</sp>,
 østerr. Maler, f. 1830 i Wien, d. 1907 smst.
 E. gennemgik fra 1856 Rahl's Skole og fik sit
@@ -81,7 +81,7 @@ Hus i Wien (Loftsbilleder i Voksfarve),
 Vægbilleder i Slottet Hörnstein m. v.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Eisenmenger, Johan Andreas”>
+<chapter name="Eisenmenger, Johan Andreas">
 <b>Eisenmenger</b> ['a^iz<sub>ə</sub>nmæŋ<sub>ə</sub>r], <sp>Johan
 Andreas</sp>, tysk jødefjendsk Forf., f. 1654 i
 Mannheim, d. 1704, studerede østerlandske Sprog i
@@ -108,7 +108,7 @@ Det bruges dog stadig som Rustkammer af
 Antisemitterne.
 <i>E. E.</i></chapter>
 
-<chapter name=”Eisenstadt”>
+<chapter name="Eisenstadt">
 <b>Eisenstadt</b> ['a^iz<sub>ə</sub>n∫tat] (magy.
 <sp>Kis-Marton</sp>), By i det vestlige Ungarn, Komitatet
 Ödenburg, ved Jernbanen Pressburg-Ödenburg,
@@ -122,7 +122,7 @@ et Arkiv, der bl. a. Indeholder Haydn's
 musikalske Efterladenskaber.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eisenstein, Ferdinand Gotthold Max”>
+<chapter name="Eisenstein, Ferdinand Gotthold Max">
 <b>Eisenstein</b> ['a^iz<sub>ə</sub>n∫ta^in], <sp>Ferdinand
 Gotthold Max</sp>, tysk Matematiker, f. 1823 i
 Berlin, d. 1852 smst., blev 1847 Privatdocent ved
@@ -137,14 +137,14 @@ i 1 Bd under Titlen »Mathematische
 Abhandlungen« (1847) af G. Reimer.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Eiserfeld”>
+<chapter name="Eiserfeld">
 <b>Eiserfeld</b> ['a^iz<sub>ə</sub>rfælt], Fabrikflække i
 Preussen, Prov. Westfalen, ligger 5 km SSV. f. Siegen.
 (1910) 5678 Indb. E. har Tilvirkning af Jernvarer,
 Chokolade og Sukker.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eisfeld”>
+<chapter name="Eisfeld">
 <b>Eisfeld</b> ['a^isfælt], By i det tyske
 Hertugdømme Sachsen-Meiningen, ligger 378 m o. H.
 ved Werra og er Knudepunkt paa Jernbanen
@@ -152,7 +152,7 @@ Eisenach-Lichtenfels. (1910) 4439 mest luth.
 Indb., et gl. Slot og nogen Industri.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eisleben”>
+<chapter name="Eisleben">
 <b>Eisleben</b> ['aisle.b<sub>ə</sub>n], By i Kongeriget
 Preussen, Prov. Sachsen, ligger 11 km SØ. f.
 Mansfeld mellem Harzens østligste Udløbere, 118-

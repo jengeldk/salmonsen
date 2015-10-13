@@ -15,7 +15,7 @@ Flodtid gaa op til Porto, medens større Skibe
 søger ind til Leixões N. f. D.'s Munding.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dueskydning”>
+<chapter name="Dueskydning">
 <b>Dueskydning</b> bestaar i en Øvelsesskydning
 til Duer, som man lader flyve op fra en Kasse,
 der er saaledes indrettet, at Sider og Laag
@@ -24,7 +24,7 @@ D. øves ikke i Norden og maa for øvrigt
 nærmest henføres under Begrebet Dyrplageri.
 <i>S. F.</i></chapter>
 
-<chapter name=”Duet”>
+<chapter name="Duet">
 <b>Duet,</b> et Musikstykke for to Solostemmer af
 samme Art, navnlig to, lige ell. ulige
 Sangstemmer, med Ledsagelse af eet ell. fl. Instrumenter;
@@ -45,10 +45,10 @@ vekslende og forskelligartede Former.
 <sp>Duetlino</sp>, en mindre D.
 <i>S. L.</i></chapter>
 
-<chapter name=”Duetrost”>
+<chapter name="Duetrost">
 <b>Duetrost,</b> se <sp>Drossel</sp>.</chapter>
 
-<chapter name=”Dueurt”>
+<chapter name="Dueurt">
 <b>Dueurt</b> (norsk <sp>Mjølke</sp>, <i>Epilobium</i> L.),
 Slægt af Natlysfamilien, Urter med helrandede
 ell. tandede og spredte ell. modsatte Blade (ofte
@@ -71,7 +71,7 @@ hyppig ved Sø- og Aabredder og ved Grøfter,
 Tørvegrave o. s. v.; den kan blive indtil c. 2 m høj.
 <i>A. M.</i></chapter>
 
-<chapter name=”Duez, Ernest Ange”>
+<chapter name="Duez, Ernest Ange">
 <b>Duez</b> [d<sub>y</sub>e (d<sub>y</sub>æ.s?)], <sp>Ernest Ange</sp>, fr.
 Maler, f. 8. Marts 1843 i Paris, d. 5. Apr. 1896,
 studerede under Pils Historiemaleriet
@@ -93,7 +93,7 @@ Hans Blade, udførte med kold Naal, har
 vundet megen Anerkendelse.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Dufau, Pierre Armand”>
+<chapter name="Dufau, Pierre Armand">
 <b>Dufau</b> [dy'fo], <sp>Pierre Armand</sp>, fransk
 Blindelærer, filantropisk og nationaløkonomisk
 Forf., f. 1795 i Bordeaux, d. 25. Aug. 1877 i
@@ -118,7 +118,7 @@ de la géographie ancienne et moderne</i> (2 Bd,
 1820).
 <i>F. B.</i></chapter>
 
-<chapter name=”Dufaure, Jules”>
+<chapter name="Dufaure, Jules">
 <b>Dufaure</b> [dy'få.r], <sp>Jules</sp>, fr. Statsmand, f.
 4. Decbr 1798, d. 27. Juni 1881, blev 1820
 Advokat i Bordeaux og vandt snart Ry for sin

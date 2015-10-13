@@ -87,7 +87,7 @@ Schule« [Wien 1875] og »D.'s Leben und Werke.
 Eine Festschrift« [Innsbruck 1887]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Donater”>
+<chapter name="Donater">
 <b>Donater</b> (lat. <i>Donati</i>, <i>Donatæ</i>) er Personer
 som uden at aflægge et fuldstændigt Løfte giver
 sig i Kloster med deres Formue og der som
@@ -95,7 +95,7 @@ Lægbrødre og -søstre udfører verdsligt
 Arbejde.
 <i>L. M.</i></chapter>
 
-<chapter name=”Donati, 1) Baldassaro, 2) Ignazio”>
+<chapter name="Donati, 1) Baldassaro, 2) Ignazio">
 <b>Donati,</b> 1) <sp>Baldassaro</sp>, ital.
 Kontrapunktist fra 16. Aarh., Kapelsanger ved S. Marco i
 Venedig, efter Zarlino's Død 1590 første
@@ -108,7 +108,7 @@ Casalmaggiore samt, siden 1633, ved Domkirken i
 Milano, frugtbar Kirkekomponist.
 <i>A. H.</i></chapter>
 
-<chapter name=”Donati, Cesare”>
+<chapter name="Donati, Cesare">
 <b>Donati,</b> <sp>Cesare</sp>, ital. Forf., f. 28. Septbr
 1826 i Lugo. 1848 var han ivrig Deltager i
 Frihedsbevægelsen, studerede derpaa Jura ved
@@ -132,7 +132,7 @@ en <i>Dizionario della giurisprudenza toscana dal
 været Redaktør af forsk. Tidsskrifter.
 <i>(E. G.).E. M-r.</i></chapter>
 
-<chapter name=”Donati, Giovanni Battista”>
+<chapter name="Donati, Giovanni Battista">
 <b>Donati,</b> <sp>Giovanni Battista</sp>, ital.
 Astronom, f. i Pisa 16. Decbr 1826, d. 19. Septbr 1873
 i Firenze, ansattes 1852 ved Observatoriet i

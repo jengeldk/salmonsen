@@ -6,7 +6,7 @@ senere Tids Ridefoged, om end maaske næppe i
 samme Omfang.
 <i>G. H.</i></chapter>
 
-<chapter name=”Delegation”>
+<chapter name="Delegation">
 <b>Delegation</b> (lat. <i>delegatio</i>), det at overdrage
 en anden Udførelsen af et en paahvilende Hverv
 og eventuelt udruste ham med den dertil
@@ -36,7 +36,7 @@ der danner den fælles Rigsrepræsentation (se
 <sp>Østerrig</sp>, »Statsforfatning«).
 <i>E. T.</i></chapter>
 
-<chapter name=”de lege ferenda”>
+<chapter name="de lege ferenda">
 <b>de lege ferenda</b> (lat.), i Overensstemmelse
 med den Lov, der burde være; saaledes som
 Loven burde være. Ofte i jur. Sprog, f. Eks.
@@ -45,16 +45,16 @@ burde være, i Modsætning til Spørgsmaal om
 Fortolkning af den bestaaende Lov.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”delegere”>
+<chapter name="delegere">
 <b>delegere</b> (lat.), afsende i et Hverv,
 paalægge og bemyndige, overføre til (se
 <sp>Delegation</sp>). <sp>Delegeret</sp>, Afsending,
 Befuldmægtiget.</chapter>
 
-<chapter name=”Delelighed”>
+<chapter name="Delelighed">
 <b>Delelighed,</b> se <sp>Atom</sp>.</chapter>
 
-<chapter name=”Delemaskine”>
+<chapter name="Delemaskine">
 <b>Delemaskine,</b> Maskine til Inddeling af
 Maalestokke og Skalaer paa Maaleinstrumenter.
 Man skelner mellem <sp>Længde-D.</sp> til Inddeling

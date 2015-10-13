@@ -4,7 +4,7 @@ lidet opdyrket undtagen i Egnene omkr.
 Floderne.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dnjestr”>
+<chapter name="Dnjestr">
 <b>Dnjestr</b> ['dnjæstr], Oldtidens <i>Tyras</i>, Flod i
 Østeuropa, udspringer paa Østsiden af
 Karpaterne, i det østerr. Landskab Galizien. Efter et
@@ -30,18 +30,18 @@ Tyskerne og Østerrigerne under Linsingen tiltvang
 sig Overgang over Floden.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dnjestr-Liman”>
+<chapter name="Dnjestr-Liman">
 <b>Dnjestr-Liman</b> ['dnjæstr-l<sub>i</sub>i'man], se
 <sp>Dnjestr</sp>.</chapter>
 
-<chapter name=”Do”>
+<chapter name="Do">
 <b>Do,</b> det nyere ital. Navn (i St f. <i>ut</i>) for
 Noden <i>c</i>.</chapter>
 
-<chapter name=”do.”>
+<chapter name="do.">
 <b>do.,</b> se <sp>ditto</sp>.</chapter>
 
-<chapter name=”Doab”>
+<chapter name="Doab">
 <b>Doab</b> eller <sp>Duab</sp> (af pers. <i>do</i>, 2, og <i>ab</i>,
 Vand, Flod), den i Nordindien alm. brugte
 Betegnelse for det mellem to Floder, der forener
@@ -49,7 +49,7 @@ sig, liggende Land. I særlig Forstand bruges D.
 om Landet mellem Ganges og Djamna.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dó'ân”>
+<chapter name="Dó'ân">
 <b>Dó'ân,</b> Dal i det sydlige Arabien, i Landskabet
 Øvre-Hadramaut, mærkelig ved sit stærkt
 bugtede Løb, sin Dybde, Bredde og de stejle
@@ -64,7 +64,7 @@ Svovldampe op fra en Kilde, er efter de troende
 Araberes Mening Indgangen til Helvede.
 <i>M. V.</i></chapter>
 
-<chapter name=”Doassansia Cornu”>
+<chapter name="Doassansia Cornu">
 <b>Doassansia</b> Cornu, Slægt af Brandsvampe,
 lever i forsk. Vand- og Sumpplanters Blade, i
 hvis Aandehuler Sporerne dannes, fl. gruppevis
@@ -72,24 +72,24 @@ samlede, omgivne af et fælles Hylster af
 tykvæggede palisadeformede Celler.
 <i>F. K. R.</i></chapter>
 
-<chapter name=”Dobbel”>
+<chapter name="Dobbel">
 <b>Dobbel</b> (af lat. <i>dúplum</i>, det dobbelte),
 Terningespil, Hasardspil; en <sp>Dobler</sp>, en
 Hasardspiller; <sp>doble</sp>, at spille Hasard.</chapter>
 
-<chapter name=”Dobbelcicero”>
+<chapter name="Dobbelcicero">
 <b>Dobbelcicero,</b> teknisk Betegnelse i
 Bogtrykfaget for en Skriftstørrelse. Se
 <sp>Skriftstørrelser</sp>.
 <i>E. S-r.</i></chapter>
 
-<chapter name=”Dobbelmittel”>
+<chapter name="Dobbelmittel">
 <b>Dobbelmittel,</b> teknisk Betegnelse i
 Bogtrykfaget for en Skriftstørrelse. Se
 <sp>Skriftstørrelser</sp>.
 <i>E. S-r.</i></chapter>
 
-<chapter name=”Dobbelobjektiv”>
+<chapter name="Dobbelobjektiv">
 <b>Dobbelobjektiv</b> er et fotografisk Objektiv,
 i hvilket Blenden er anbragt mellem to Linser
 ell. Linsesystemer. Et symmetrisk D. er et
@@ -99,10 +99,10 @@ i Forhold til Blendeplanet. Eks.:
 Dobbelanastigmat, Dobbelaplanat, Dobbelprotar o. s. v.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Dobbeltaag”>
+<chapter name="Dobbeltaag">
 <b>Dobbeltaag,</b> se <sp>Aag</sp>.</chapter>
 
-<chapter name=”Dobbeltatom”>
+<chapter name="Dobbeltatom">
 <b>Dobbeltatom.</b> Visse Grundstoffer, f. Eks.
 Kobber og Kviksølv, danner to Rækker af
 Forbindelser, idet Grundstofatomet i den ene Række
@@ -122,10 +122,10 @@ een Valens, -Hg-Hg-, hvorved der
 fremkommer et divalent Kompleks af to Kviksølvatomer.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Dobbelt b”>
+<chapter name="Dobbelt b">
 <b>Dobbelt b,</b> se <sp>Fortegn</sp>.</chapter>
 
-<chapter name=”Dobbeltbarometer”>
+<chapter name="Dobbeltbarometer">
 <b>Dobbeltbarometer,</b> et Kviksølvbarometer,
 hvis aabne Gren er forlænget opad til et
 forholdsvis snævert Rør, hvori der er fyldt en
@@ -137,10 +137,10 @@ vise Ændringerne i større Maalestok, end
 Kviksølvoverfladen selv kan vise.
 <i>D. la C.</i></chapter>
 
-<chapter name=”Dobbelt Bekkasin”>
+<chapter name="Dobbelt Bekkasin">
 <b>Dobbelt Bekkasin,</b> se <sp>Bekkasiner</sp>.</chapter>
 
-<chapter name=”Dobbeltbevidsthed”>
+<chapter name="Dobbeltbevidsthed">
 <b>Dobbeltbevidsthed</b> er en psykopatologisk
 Tilstand, i hvilken Individets sjælelige Indhold
 ikke fremtræder som et enkelt Jegs Oplevelser,

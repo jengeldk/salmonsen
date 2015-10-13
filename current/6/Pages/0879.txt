@@ -22,7 +22,7 @@ Forjættelser« [Kbhvn 1894]; <sp>Lehmann</sp>, »Overtro og
 Trolddom«, IV [Kbhvn 1896]).
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”Ekstemporale”>
+<chapter name="Ekstemporale">
 <b>Ekstemporale</b> (lat.), en skriftlig
 Udarbejdelse, f. Eks. i et fremmed Sprog, som en
 Discipel maa udarbejde uden Forberedelse og
@@ -33,17 +33,17 @@ denne da umiddelbart maa oversætte og
 nedskrive i et andet Sprog.
 <i>Cl. W.</i></chapter>
 
-<chapter name=”ekstemporere”>
+<chapter name="ekstemporere">
 <b>ekstemporere</b> (lat.), holde et Foredrag paa
 Stedet: <i>ex tempore</i>, og uden Forberedelse,
 improviserende.
 <i>Cl. W.</i></chapter>
 
-<chapter name=”ekstensibel”>
+<chapter name="ekstensibel">
 <b>ekstensibel</b> (lat.), som kan udstrækkes,
 forlænges; udvidelig.</chapter>
 
-<chapter name=”Ekstension”>
+<chapter name="Ekstension">
 <b>Ekstension</b> (lat.), Udvidelse, Omfang,
 Udstrækning.
 
@@ -83,12 +83,12 @@ York) og spiller stadig en stor Rolle imellem
 vore kirurgiske Hjælpemidler.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”ekstensiv”>
+<chapter name="ekstensiv">
 <b>ekstensiv</b> (lat.), udstrakt, udbredt,
 omfattende, virkende udadtil, i Modsætning til
 intensiv.</chapter>
 
-<chapter name=”ekstensivt Landbrug”>
+<chapter name="ekstensivt Landbrug">
 <b>ekstensivt Landbrug</b> betegner Overgangen
 fra Nomadedriften til en mere regelmæssig
 Bearbejdelse af Jorden. Det forudsætter mere
@@ -105,10 +105,10 @@ Produkternes Behandling er mindre omhyggelig og
 rationel end ved den intensive Drift.
 <i>H. H-I.</i></chapter>
 
-<chapter name=”Ekstensorer”>
+<chapter name="Ekstensorer">
 <b>Ekstensorer,</b> se <sp>Muskler</sp>.</chapter>
 
-<chapter name=”Eksteriør”>
+<chapter name="Eksteriør">
 <b>Eksteriør</b> (fransk), det ydre, det udvortes.
 Læren om E., Bygningslæren, skildrer
 Dyrelegemets sammensatte Maskineri saavel som
@@ -124,11 +124,11 @@ og Dyrets Bygning og anskueliggør den sidstes
 Bøjen sig efter den første.
 <i>H. H-l.</i></chapter>
 
-<chapter name=”ekstern”>
+<chapter name="ekstern">
 <b>ekstern</b> (lat.), ydre, udenfor værende;
 fremmed.</chapter>
 
-<chapter name=”Eksternat”>
+<chapter name="Eksternat">
 <b>Eksternat</b> (af lat. <i>extérnus</i> = den, som er
 udenfor, kommer udefra) kaldes saadanne
 Skoler og Undervisningsanstalter, hvis Elever bor
@@ -143,11 +143,11 @@ Opdragelsesanstalt (med Internat), men som bor uden for
 Skolen.
 <i>Fr. Th.</i></chapter>
 
-<chapter name=”eksterritorial”>
+<chapter name="eksterritorial">
 <b>eksterritorial</b> (lat.), se
 <sp>Eksterritorialitet</sp>.</chapter>
 
-<chapter name=”Eksterritorialitet”>
+<chapter name="Eksterritorialitet">
 <b>Eksterritorialitet</b> ['æks-] (lat.) betegner i
 Folkeretten det Forhold, at en Person ell. Ting,
 som befinder sig inden for en Stats Territorium,

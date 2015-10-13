@@ -43,7 +43,7 @@ Friedländer</sp>, »Darstellungen aus der
 Sittengeschichte Roms« [6. Opl., 2. Del. 1889]).
 <i>C. B.</i></chapter>
 
-<chapter name=”Dyrekredsen”>
+<chapter name="Dyrekredsen">
 <b>Dyrekredsen</b> ell. <sp>Zodiakus</sp> (af gr. ζῴδιον,
 et lidet Dyr) kaldes den smalle, paa begge Sider
 af Ekliptikken liggende Himmelzone, inden for
@@ -97,10 +97,10 @@ Maanen. Denne er delt i 27 ell. 28 Dele (se
 <sp>Ekliptika</sp>).
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Dyrekredslys”>
+<chapter name="Dyrekredslys">
 <b>Dyrekredslys,</b> d. s. s. <sp>Zodiakallys</sp>.</chapter>
 
-<chapter name=”Dyremasker”>
+<chapter name="Dyremasker">
 <b>Dyremasker,</b> Apparater - sædvanlig
 forarbejdede af Læder - som, fastgjorte ved Hjælp
 af Remme ell. Snore, anbringes foran Øjnene af
@@ -130,7 +130,7 @@ saakaldte Slagtemasker, benyttes undertiden
 ved større Husdyrs Slagtning.
 <i>H. G.</i></chapter>
 
-<chapter name=”Düren”>
+<chapter name="Düren">
 <b>Düren</b> ['dy.r<sub>ə</sub>n], By i Kongeriget Preussen,
 Rhinprovinsen, ligger paa højre Bred af Maas'
 Biflod Roer og omtr. midt mellem Köln og

@@ -33,7 +33,7 @@ aarlig Statsunderstøttelse. (<sp>Litt</sp>.: <sp>Dampe</sp>,
 [1904]).
 <i>A. Th.</i></chapter>
 
-<chapter name=”Dampelektrisermaskine”>
+<chapter name="Dampelektrisermaskine">
 <b>Dampelektrisermaskine,</b> en
 Elektrisermaskine, som 1840 blev konstrueret af
 <sp>Armstrong</sp> i England. Den bestaar af en isoleret
@@ -52,10 +52,10 @@ Kedelpasser modtog fra sin Dampkedel, gav
 Anledning til Opdagelsen.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Damper”>
+<chapter name="Damper">
 <b>Damper,</b> se <sp>Dampskib</sp>.</chapter>
 
-<chapter name=”Dampfløjte”>
+<chapter name="Dampfløjte">
 <b>Dampfløjte,</b> <sp>Damppibe</sp>, er et
 Alarmapparat, hvis Tone
 frembringes ved, at Damp under
@@ -83,7 +83,7 @@ og Varselssignaler i Fabrikker.
 
 <img>Dampfløjte.</img>
 
-<chapter name=”Dampfærge”>
+<chapter name="Dampfærge">
 <b>Dampfærge</b> er en Færge, hvis
 Fremdrivningskraft er Damp. I Alm. forstaas dog ved D.
 kun saadanne, der som Forbindelsesled mellem

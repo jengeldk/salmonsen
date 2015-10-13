@@ -8,14 +8,14 @@ Lugte-Hallucinationer, der kan findes hos Sindssyge,
 henregnes ikke til D.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Dyspareunia”>
+<chapter name="Dyspareunia">
 <b>Dyspareunia</b> [-ræ^u-] (gr.), Smerter ved
 Samleje, især hos Kvinder. Beror paa sygelige
 Tilstande i de kvindelige Kønsorganer, især
 Betændelse.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Dyspepsi”>
+<chapter name="Dyspepsi">
 <b>Dyspepsi</b> (gr.), vanskelig Fordøjelse,
 Forstyrrelse og Uregelmæssighed i Fordøjelsens
 Mekanisme og Kemisme, er sjældnere en
@@ -33,7 +33,7 @@ Svimmelhed. Ved <sp>Bradypepsi</sp> forstaas langsom
 Fordøjelse.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Dyspnøe”>
+<chapter name="Dyspnøe">
 <b>Dyspnøe</b> (gr.), <sp>Aandedrætsbesvær</sp>,
 <sp>Kortaandethed</sp>, skyldes sædvanlig en
 for stærk Irritation af Respirationscentret
@@ -107,16 +107,16 @@ ell. mindre stærk blaalig Farvning (Cyanose) af
 Huden.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Dyspraksi”>
+<chapter name="Dyspraksi">
 <b>Dyspraksi</b> (gr.), mangelfuld Evne til at
 udføre kombinerede Bevægelser, til Trods for at
 Musklerne ikke er lammede.
 <i>K. H. K.</i></chapter>
 
-<chapter name=”Dysprosium”>
+<chapter name="Dysprosium">
 <b>Dysprosium,</b> se <sp>Jordarter</sp>, <sp>sjældne</sp>.</chapter>
 
-<chapter name=”Dysse”>
+<chapter name="Dysse">
 <b>Dysse</b> (hertil en Tavle) (af isl. <i>dy</i>s, en Gravhøj;
 i dansk Folkesprog sædvanlig en Stenhob)
 betegner arkæol. en Klasse af Stenalderens

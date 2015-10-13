@@ -1,10 +1,10 @@
 <chapter name="Diffamation">
 <b>Diffamation,</b> se <sp>Ærefornærmelser</sp>.</chapter>
 
-<chapter name=”diffareatio”>
+<chapter name="diffareatio">
 <b>diffareatio,</b> se <sp>divortium</sp>.</chapter>
 
-<chapter name=”Differdinger-Profiler”>
+<chapter name="Differdinger-Profiler">
 <b>Differdinger-Profiler,</b> se
 <sp>Dobbelt-T-Jern</sp>.</chapter>
 
@@ -12,7 +12,7 @@
 <b>Difference</b> [-'raissa] (fr.) ell. Differens
 (lat.). Forskel, Meningsforskel.</chapter>
 
-<chapter name=”Differenceforretning”>
+<chapter name="Differenceforretning">
 <b>Differenceforretning</b> [-raŋs<sub>ə</sub>-], en
 Leveringsforretning, der ikke afgøres ved virkelig
 Levering af de Varer ell. Effekter, hvorom
@@ -79,17 +79,17 @@ antages at have Retskraft, idet Begrebet Spil
 omfattende Væddemaal.
 <i>(E. M.). C. Th.</i></chapter>
 
-<chapter name=”Differens”>
+<chapter name="Differens">
 <b>Differens</b> (mat.), d. s. s. Forskel. To Tals
 D. er det Tal, som lagt til det ene af Tallene
 giver det andet.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Differensforretning”>
+<chapter name="Differensforretning">
 <b>Differensforretning,</b> d. s. s.
 <sp>Differenceforretning</sp>.</chapter>
 
-<chapter name=”Differensregning”>
+<chapter name="Differensregning">
 <b>Differensregning</b> er et Afsnit af den rene
 Matematik, der behandler Afhængigheden
 mellem en Funktion og dens Differenser af forsk.
@@ -156,6 +156,6 @@ Undersøgelser inden for D. maa nævnes Nørlund's
 over Differensligninger.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Differensrække”>
+<chapter name="Differensrække">
 <b>Differensrække</b> (mat.), ogsaa kaldet
 aritmetisk Række ell. aritmetisk Progression, er en

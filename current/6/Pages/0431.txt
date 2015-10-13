@@ -7,13 +7,13 @@ i det større og mere moderne Kunstkammer
 (s. d.).
 <i>B. L.</i></chapter>
 
-<chapter name=”Drejerkniv”>
+<chapter name="Drejerkniv">
 <b>Drejerkniv,</b> se <sp>Drejestaal</sp>.</chapter>
 
-<chapter name=”Drejerlad”>
+<chapter name="Drejerlad">
 <b>Drejerlad,</b> se <sp>Drejebænk</sp>.</chapter>
 
-<chapter name=”Drejeskive”>
+<chapter name="Drejeskive">
 <b>Drejeskive</b> anvendes til Formning af runde
 Lerkar og bestaar i Hovedsagen af en vandret
 Træskive med en lodret Jernaksel til
@@ -30,7 +30,7 @@ D. ved Transmission og ofte ved
 Friktionsskiver. Smlg. <sp>Lervarefabrikation</sp>.
 <i>F. W.</i></chapter>
 
-<chapter name=”Drejeskive, en drejelig sporbærende Konstruktion”>
+<chapter name="Drejeskive, en drejelig sporbærende Konstruktion">
 <b>Drejeskive,</b> en drejelig sporbærende
 Konstruktion, der ved Jernbaner og Sporveje
 bruges til at vende Lokomotiver ell. Vogne og til

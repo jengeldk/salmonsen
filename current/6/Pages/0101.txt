@@ -10,7 +10,7 @@ hos os har saaledes Statens Bogsamlingskomité
 for danske Biblioteker.
 <i>C. P. S.</i></chapter>
 
-<chapter name=”Deweylit”>
+<chapter name="Deweylit">
 <b>Deweylit</b> [dju<sub>i</sub>'lit] (<sp>Gymnit</sp>), et amorft
 Mineral, som i sin kem. Sammensætning staar
 Serpentinen nær, men indeholder noget mere
@@ -21,7 +21,7 @@ Forekommer bl. a. med Serpentin i Fleims,
 Tyrol, i kornet Kalksten ved Passau o. a. St.
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name=”Dewing, Thomas”>
+<chapter name="Dewing, Thomas">
 <b>Dewing</b> ['dju.<sub>i</sub>ŋ], <sp>Thomas</sp>, amer. Maler,
 f. 4. Maj 1851 i Boston, Elev af Boulanger og
 Lefebvre i Paris, senere knyttet til New York
@@ -34,7 +34,7 @@ Coll. i Washington, »Sommer« i samme Bys Nat.
 Gal., »Brevet« i New Yorks Metrop. Mus. o. s fr.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”De Winne, Liévin”>
+<chapter name="De Winne, Liévin">
 <b>De Winne</b> [d<sub>ə</sub>-'ven<sub>ə</sub>], <sp>Liévin</sp>, belg.
 Portrætmaler, f. 1821 i Gent, d. 13. Maj 1880 i Bryssel,
 Elev af Felix de Vigne, har spillet en
@@ -44,10 +44,10 @@ Portrætmaler. Museet i Bryssel ejer hans store
 Billede af Kong Leopold I.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”De Witt, J.”>
+<chapter name="De Witt, J.">
 <b>De Witt</b> [d<sub>ə</sub>-'vet], <sp>J.</sp>, se <sp>Witt</sp>.</chapter>
 
-<chapter name=”Dewittsland”>
+<chapter name="Dewittsland">
 <b>Dewittsland</b> [d<sub>ə</sub>'vets-], forældet Navn paa
 Nordkysten af Australlandet, fra Nordvestkap
 indtil Roebuckbai, har faaet Navn efter
@@ -55,7 +55,7 @@ Søfareren Willem de Witt, der 1644 først besøgte
 Kysten sammen med Tasman.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dewitz, von”>
+<chapter name="Dewitz, von">
 <b>Dewitz,</b> <sp>von</sp>, en gammel mecklenburgsk og
 pommersk Adelsslægt, der allerede forekommer
 i Beg. af 12. Aarh. Den fører i Skjoldet 3
@@ -106,7 +106,7 @@ gift med en Datter af den første Greve Wedell
 til Wedellsborg.
 <i>H.-L.</i></chapter>
 
-<chapter name=”Dewsbury”>
+<chapter name="Dewsbury">
 <b>Dewsbury</b> ['dju.zb<sub>ə</sub>r<sub>i</sub>], ældgammel By i det
 nordlige England, Yorkshire, ved Calder,
 Knudepunkt paa Great Northern Jernbanen, 12 km
@@ -118,7 +118,7 @@ Kulminer. Paulinus, den første Biskop af York,
 prædikede her 627.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dexippos, Publius Herennius”>
+<chapter name="Dexippos, Publius Herennius">
 <b>Dexippos,</b> <sp>Publius Herennius</sp>, attisk
 Statsmand, Feltherre og Historieskriver, vandt
 269 en Sejr over Goterne, der truede Athen. Et
@@ -132,16 +132,16 @@ Bd III, og Dindorf i <i>Historici Graeci minores</i>
 (1870-71) Bd I.
 <i>K. H.</i></chapter>
 
-<chapter name=”dextera”>
+<chapter name="dextera">
 <b>dextera</b> (<i>déxtra</i> [lat.], underforstaaet
 <i>manus</i>, Haand), den højre Haand, Symbol paa
 Troskab og Kraft.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Dextrin”>
+<chapter name="Dextrin">
 <b>Dextrin,</b> d. s. s. <sp>Dekstrin</sp>.</chapter>
 
-<chapter name=”Deynze”>
+<chapter name="Deynze">
 <b>Deynze</b> ['dæ^inz<sub>ə</sub>, fr. dæ.z], By i det vestlige
 Belgien, Prov. Østflandern, ved Lys, er
 Knudepunkt paa Jernbanen Gent-Tournai og har
@@ -149,7 +149,7 @@ Kniplings- og Geneverfabrikation. (1911) 5140
 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dézamy, Théodore”>
+<chapter name="Dézamy, Théodore">
 <b>Dézamy</b> [deza'mi], <sp>Théodore</sp>, fr. Socialist,
 d. 1850 i sin Fødeby Luçon, levede største Delen
 af sit Liv i Paris optaget af uophørlig Agitation

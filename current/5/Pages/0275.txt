@@ -40,7 +40,7 @@ ham er rejst ved Landboskolen i Lyngby; den
 afsløredes 21. Juni 1903.
 <i>H. H-l.</i></chapter>
 
-<chapter name=”Cour, la, Poul”>
+<chapter name="Cour, la, Poul">
 <b>Cour, la</b> [la-'ku.r], <sp>Poul</sp>, dansk Fysiker,
 ovenn.'s Broder, f. 13. Apr. 1846 paa Skjærsø
 ved Æbeltoft, d. 24. Apr. 1908. Efter at have
@@ -104,7 +104,7 @@ Holst i »Fys. Tidssk.«, 1908, S. 185-199).
 
 <img>P. la Cour.</img>
 
-<chapter name=”Courajod, Louis Charles Léon”>
+<chapter name="Courajod, Louis Charles Léon">
 <b>Courajod</b> [kura'зo(-'зod?)], <sp>Louis Charles
 Léon</sp>, fr. Arkæolog og Kunstforfatter, f. 22.
 Febr 1841 i Paris, d. 1896, <i>conservateur adjoint</i>
@@ -124,10 +124,10 @@ sine Forskninger i middelalderlig fr. Plastiks
 Historie.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”courant”>
+<chapter name="courant">
 <b>courant</b> [ku'rã], se <sp>Kurant</sp>.</chapter>
 
-<chapter name=”Courantbanken”>
+<chapter name="Courantbanken">
 <b>Courantbanken</b> [ku'ran't-], kjøbenhavnsk
 Assignations-, Veksel- og Laanebank, stiftet 1736
 som privat Seddelbank, Den overtoges af Staten

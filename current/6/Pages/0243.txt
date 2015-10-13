@@ -12,19 +12,19 @@ der atter at opstaa modne Kønsstoffer. (<sp>Litt</sp>.:
 Leuckart« [Leipzig 1892]).
 <i>R. H. S.</i></chapter>
 
-<chapter name=”dissolut”>
+<chapter name="dissolut">
 <b>dissolut</b> (lat.), opløst, ubunden, udsvævende;
 <sp>Dissolution</sp>, Opløsning.</chapter>
 
-<chapter name=”dissolvere”>
+<chapter name="dissolvere">
 <b>dissolvere</b> (lat.), opløse, lade gaa i Stykker,
 smelte, gøre flydende.</chapter>
 
-<chapter name=”Dissolving views”>
+<chapter name="Dissolving views">
 <b>Dissolving views</b> [d<sub>i</sub>'zå£v<sub>i</sub>ŋ'vju.z], se
 <sp>Laterna magica</sp>.</chapter>
 
-<chapter name=”Dissonans”>
+<chapter name="Dissonans">
 <b>Dissonans</b> (lat. af <i>dis</i> »til forsk. Sider« og
 <i>sonare</i> »at lyde«), Mislyd, i Modsætning til
 <sp>Konsonans</sp>, Forholdet mellem saadanne Toner,
@@ -52,15 +52,15 @@ akkordfremmed og forbigaaende Toneforbindelse
 opløses uden Forandring af Akkorden.
 <i>S. L.</i></chapter>
 
-<chapter name=”Dissyllabum”>
+<chapter name="Dissyllabum">
 <b>Dissyllabum</b> (gr.), et Tostavelsesord.</chapter>
 
-<chapter name=”Distance”>
+<chapter name="Distance">
 <b>Distance</b> [di'staŋs<sub>ə</sub>] (fr., af lat. <i>distántia</i>),
 Afstand, Frastand; <sp>distancere</sp>, overvinde i
 Væddekamp, komme forud for, komme i Forkøbet.</chapter>
 
-<chapter name=”Distance (Søv.)”>
+<chapter name="Distance (Søv.)">
 <b>Distance</b> [di'staŋ's<sub>ə</sub>] (<sp>Søv</sp>.), det Antal Sømil,
 et Skib har udløbet i et vist Tidsrum ell. under
 Sejladsen fra den affarende til den
@@ -75,7 +75,7 @@ Halveringspunktets Bredde, og udmaale
 Distancen langs den trukne Linie med denne Sømil.
 <i>H. E.</i></chapter>
 
-<chapter name=”Distance(Astronomi)”>
+<chapter name="Distance(Astronomi)">
 <b>Distance</b> [di'staŋs<sub>ə</sub>]. I <sp>Astronomien</sp>
 forstaas ved D. mellem to Stjerner det Stykke af
 Storcirkelbuen gennem Stjernerne, der ligger
@@ -84,7 +84,7 @@ ell. Komet er dens Radius vektors Projektion
 paa Ekliptikkens Plan.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Distanceforretning”>
+<chapter name="Distanceforretning">
 <b>Distanceforretning</b> [-'staŋs<sub>ə</sub>-] kaldes en
 Vareforretning, til hvis Fuldbyrdelse det
 kræves, at Varerne transporteres fra et Sted til et
@@ -119,7 +119,7 @@ Køberen al fornøden Meddelelse, sætte ham i
 Stand til selv rettidig at gøre dette.
 <i>(C. V. S.). C. Th.</i></chapter>
 
-<chapter name=”Distancefragt”>
+<chapter name="Distancefragt">
 <b>Distancefragt</b> [-'staŋ's<sub>ə</sub>-]. I al Søret er det
 en Hovedregel, at Vederlaget for Varernes
 Transport (Fragten) kun skyldes, naar Varerne
@@ -143,11 +143,11 @@ arbejdes der f. T. (1916) paa at komme bort fra
 disse Regler.
 <i>V. B.</i></chapter>
 
-<chapter name=”Distancemaaler”>
+<chapter name="Distancemaaler">
 <b>Distancemaaler</b> [-'staŋs<sub>ə</sub>-], se
 <sp>Afstandsmaalere</sp>.</chapter>
 
-<chapter name=”Distancepæl”>
+<chapter name="Distancepæl">
 <b>Distancepæl</b> [-'staŋs<sub>ə</sub>-] er en Pæl eller
 Stang, der paa Væddeløbsbanen er anbragt 200
 m fra Maalet. For den Hest, der ikke har naaet
@@ -161,10 +161,10 @@ Væddeløbs-Reglement (af 1909) indeholder intet om
 Distancepæl.
 <i>(C. G. B.). O. P.</i></chapter>
 
-<chapter name=”distanceret”>
+<chapter name="distanceret">
 <b>distanceret</b> [-staŋ'se'-], se <sp>Distancepæl</sp>.</chapter>
 
-<chapter name=”Distanceridt”>
+<chapter name="Distanceridt">
 <b>Distanceridt</b> [-'staŋs<sub>ə</sub>-] eller
 <sp>Udholdenhedsridt</sp> er Kraftprøver, der gaar ud paa dels
 at undersøge, dels at fremme Rytters og Hests

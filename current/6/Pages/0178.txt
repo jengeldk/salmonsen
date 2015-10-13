@@ -8,7 +8,7 @@ en lgn. Ekstraktion ved en Temp. af 15°-25°,
 kaldes den <sp>Maceration</sp>.
 <i>K. M.</i></chapter>
 
-<chapter name=”Digermulen”>
+<chapter name="Digermulen">
 <b>Digermulen</b> er et i Norge temmelig hyppigt
 Navn paa et i en Fjord ell. i Havet brat
 styrtende højt Forbjerg. Af de mest kendte kan
@@ -24,19 +24,19 @@ Tanafjorden, den 627 m høje Pynt mellem
 Tanafjorden og Langfjorden.
 <i>(J. F. W. H.). M. H.</i></chapter>
 
-<chapter name=”Digerronden”>
+<chapter name="Digerronden">
 <b>Digerronden,</b> en af Rondanes højeste
 Toppe, c. 2000 m, paa Grænsen mellem Kristians
 og Hedemarkens Amter.
 <i>M. H.</i></chapter>
 
-<chapter name=”Digerudgrunden Fyr”>
+<chapter name="Digerudgrunden Fyr">
 <b>Digerudgrunden Fyr</b> ligger paa Højde
 med Nordspidsen af Haaöen ved Indsejlingen
 til Kria.
 <i>M. H.</i></chapter>
 
-<chapter name=”Digervarden”>
+<chapter name="Digervarden">
 <b>Digervarden,</b> c. 1750 m paa Sydsiden af
 Lesje Sogn nordligst i Gudbrandsdalen og paa
 Nordsiden af den over mod Skiaker førende
@@ -47,7 +47,7 @@ og Horungerne samt V. over mod
 Jostedalsbræen med Lodalskaabe.
 <i>(J. F. W. H.). M. H.</i></chapter>
 
-<chapter name=”Digesmutte”>
+<chapter name="Digesmutte">
 <b>Digesmutte.</b> Til de talrige Underfamilier,
 hvori Drosselfuglenes store Gruppe deles, hører
 D. i videre Forstand (<i>Saxicolinæ</i>), hvortil bl. a.

@@ -16,10 +16,10 @@ Paa Højen <i>tell-el-qadi</i> ved Jordans Kilde findes
 endnu Ruiner af Byen D.
 <i>J. P.</i></chapter>
 
-<chapter name=”Dan, se Roanoke”>
+<chapter name="Dan, se Roanoke">
 <b>Dan,</b> se <sp>Roanoke</sp>.</chapter>
 
-<chapter name=”Dana, poetisk Navn for Danmark”>
+<chapter name="Dana, poetisk Navn for Danmark">
 <b>Dana</b> bruges af 18. og 19. Aarh.'s Digtere
 som et poetisk Navn for Danmark (»Rosen
 blusser alt i Danas Have«, Poul Møller). Medens
@@ -38,7 +38,7 @@ Navnet <i>Svea</i> (egentlig »Svenskernes«) for
 <sp>Sverige</sp>.
 <i>V. D.</i></chapter>
 
-<chapter name=”Dana, Charles Anderson”>
+<chapter name="Dana, Charles Anderson">
 <b>Dana</b> ['de<sub>i</sub>n<sub>a</sub>], <sp>Charles Anderson</sp>,
 nordamerikansk Publicist (1819-97), deltog
 1843-46 i et af de mere kendte af de
@@ -69,7 +69,7 @@ oparbejdet sit Blad til en første Rangs
 Nyhedsavis i største Maalestok.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Dana, 1) Edward Salisbury, 2) James Dwigth”>
+<chapter name="Dana, 1) Edward Salisbury, 2) James Dwigth">
 <b>Dana</b> ['de<sub>i</sub>n<sub>a</sub>], 1) <sp>Edward Salisbury</sp>,
 Søn af nedenn. J. D. D., Prof. i Fysik og Kurator
 ved Mineralsamlingen ved Yale University i
@@ -101,7 +101,7 @@ om Bjergdannelser, Vulkaner, Oceanernes
 Oprindelse og Historie samt Istiden.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Dana, 1) Richard Henry, 2) Richard Henry”>
+<chapter name="Dana, 1) Richard Henry, 2) Richard Henry">
 <b>Dana</b> ['de<sub>i</sub>n<sub>a</sub>], 1) <sp>Richard Henry</sp>, amer.
 Journalist, Forf. og Kritiker (1787-1879),
 studerede ved Harvard og var senere Sagfører i
@@ -124,16 +124,16 @@ Erfaringer her udnyttede han i sin kendte <i>Two
 Years before the Mast</i> (1840),
 <i>I. O.</i></chapter>
 
-<chapter name=”Danaarv”>
+<chapter name="Danaarv">
 <b>Danaarv,</b> se <sp>Arvefaldsret</sp>.</chapter>
 
-<chapter name=”Danabæk”>
+<chapter name="Danabæk">
 <b>Danabæk</b> adskiller Elfsborgs og Hallands
 Len og er den gl. Grænse mellem Danmark og
 Sverige.
 <i>H. O.</i></chapter>
 
-<chapter name=”Danaë”>
+<chapter name="Danaë">
 <b>Danaë,</b> efter det gr. Sagn Datter af Akrisios
 og Eurydike. Oraklet havde forudsagt Akrisios,
 at hans Dattersøn skulde blive hans Bane. For
@@ -156,7 +156,7 @@ ligesom de øvrige Sagn om Perseus, benyttet som
 Motiv af gr. Digtere og Kunstnere.
 <i>C. B.</i></chapter>
 
-<chapter name=”Danaer”>
+<chapter name="Danaer">
 <b>Danaer</b> (gr.), et efter Stammehelten <sp>Danaos</sp>
 afledt Navn paa Indb. i Argos. Hos Homer
 Fællesbenævnelse for Hellenerne. Laokoon's Ord i

@@ -3,17 +3,17 @@ Ceremonier og efter en fast Formular, men gik senere
 af Brug.
 <i>A. B. D.</i></chapter>
 
-<chapter name = ”Clarin”>
+<chapter name="Clarin">
 <b>Clarin,</b> se <sp>Alasy Ureña, L</sp>.</chapter>
 
-<chapter name = ”Clarinda”>
+<chapter name="Clarinda">
 <b>Clarinda</b> [k£<sub>ə</sub>'rind<sub>ə</sub>], By i U. S. A., Stat Iowa,
 ligger 150 km SV. f. Desmoines ved Nodaway
 River. (1910) 3832 Indb. C. er
 Jernbaneknudepunkt og driver Uldindustri.
 <i>H. P. S.</i></chapter>
 
-<chapter name = ”Clarino”>
+<chapter name="Clarino">
 <b>Clarino</b> (ital.; fr. <i>clairon</i>, eng. <i>clarion</i>), Navnet
 paa den i ældre Tid benyttede høje Trompet,
 der havde en snævrere Mensur end den dybere,
@@ -23,7 +23,7 @@ Messinginstrumenterne. I ældre Partiturer
 betegner C. det samme som <sp>Tromba</sp>, Trompet.
 <i>S. L.</i></chapter>
 
-<chapter name = ”Clarisserinder”>
+<chapter name="Clarisserinder">
 <b>Clarisserinder,</b> Nonneorden, stiftet af den
 hellige Clara 1212; de kaldte sig »de fattige
 Kvinder« ell. »Damianistinderne« efter
@@ -51,13 +51,13 @@ Deres Dragt er brun med et Reb om Livet. (<sp>Litt</sp>.:
 Klarissenordens« [Leipzig 1906]).
 <i>L. M.</i></chapter>
 
-<chapter name = ”Clarit”>
+<chapter name="Clarit">
 <b>Clarit,</b> et sandsynligvis monoklint Mineral
 fra Schapbach i Baden, har samme kemiske
 Sammensætning som <sp>Enargit</sp>.
 <i>N. V. U.</i></chapter>
 
-<chapter name = ”Clark, Alvan”>
+<chapter name="Clark, Alvan">
 <b>Clark</b> [k£a.<sub>ə</sub>k], <sp>Alvan</sp>, amer. Optiker, f. i
 Ashfield Mass. 8. Marts 1804, d. i Cambridge
 Mass. 19. Aug. 1887, kom i sin Ungdom i
@@ -80,7 +80,7 @@ præsterede. Han saa 1862 Sirius' Ledsager med den
 til Chicago bestemte Kikkert.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name = ”Clark, Andrew”>
+<chapter name="Clark, Andrew">
 <b>Clark</b> [k£a.<sub>ə</sub>k], <sp>Andrew</sp>, <sp>Sir</sp>, eng. Læge,
 f. 28. Oktbr 1826, d. 6. Novbr 1896, studerede i
 Edinburgh og Aberdeen. Han praktiserede i
@@ -93,7 +93,7 @@ ved i fl. Aar at være Præsident for <i>The Royal
 College of Physicians</i>.
 <i>G. N.</i></chapter>
 
-<chapter name = ”Clark, Charles Heber”>
+<chapter name="Clark, Charles Heber">
 <b>Clark</b> [k£a.<sub>ə</sub>k], <sp>Charles Heber</sp>, amer.
 humoristisk Forf. og Journalist, f. 11. Juli 1841;
 han har under Mærket <sp>Max Adeler</sp> udg.:
@@ -102,7 +102,7 @@ han har under Mærket <sp>Max Adeler</sp> udg.:
 Hollow</i>, <i>The Quakeress</i>.
 <i>I. O.</i></chapter>
 
-<chapter name = ”Clark, John Bates”>
+<chapter name="Clark, John Bates">
 <b>Clark</b> [k£a.<sub>ə</sub>k], <sp>John Bates</sp>, amer.
 Socialøkonom, f. i Providence (Rhode Island) 26. Jan.
 1847, studerede 1872-75 i Heidelberg og Zürich,
@@ -123,7 +123,7 @@ er en af Amerikas ledende Økonomer, var
 Association</i>.
 <i>K. V. H.</i></chapter>
 
-<chapter name = ”Clarke, Edward Daniel”>
+<chapter name="Clarke, Edward Daniel">
 <b>Clarke</b> [k£a.<sub>ə</sub>k], <sp>Edward Daniel</sp>, eng.
 Mineralog og Oldgransker, f. 5. Juni 1769, d. 9.
 Marts 1822. Efter at have studeret i Cambridge,

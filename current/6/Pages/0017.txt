@@ -32,7 +32,7 @@ Lovgiveren gik ud. D.'s Værk blev fortsat af
 <i>Traités</i>.
 <i>Fz. D.</i></chapter>
 
-<chapter name=”Demonax”>
+<chapter name="Demonax">
 <b>Demonax,</b> gr. Filosof (2. Aarh. e. Kr.),
 levede i Athen, hvor han nød stor Anseelse for
 sin rene Karakter og Levevis. Han tilhørte den
@@ -54,10 +54,10 @@ den Levnedsskildring af ham, der er
 overleveret bl. Lukian's Værker.
 <i>W. N.</i></chapter>
 
-<chapter name=”Demonesi”>
+<chapter name="Demonesi">
 <b>Demonesi,</b> se <sp>Prinseøerne</sp>.</chapter>
 
-<chapter name=”demonetisere”>
+<chapter name="demonetisere">
 <b>demonetisere,</b> ophøre at bruge som Mønt.
 Udtrykket benyttes i den senere Tids
 Møntdiskussioner, særlig i den Sammenhæng, at Sølvet
@@ -66,14 +66,14 @@ Overgang fra Sølv- ell. Dobbeltmøntfod til
 Guldmøntfod.
 <i>(E. M.). C. Th.</i></chapter>
 
-<chapter name=”demonstrandum, quod erat”>
+<chapter name="demonstrandum, quod erat">
 <b>demonstrandum, quod erat</b> (lat.), er en i
 logiske og matematiske Beviser alm.
 Slutningsformel, der betyder: hvilket skulde bevises, og
 det var det, der skulde bevises.
 <i>W. N.</i></chapter>
 
-<chapter name=”Demonstration, Logikken”>
+<chapter name="Demonstration, Logikken">
 <b>Demonstration</b> betegner i Logikken det
 begrebsmæssige, syllogistiske Bevis, der fører
 til apodiktisk Sikkerhed. I nyeste Tid bruges
@@ -84,7 +84,7 @@ ydre Tilkendegivelser af Anskuelser og
 Meninger.
 <i>W. N.</i></chapter>
 
-<chapter name=”Demonstration (milit.)”>
+<chapter name="Demonstration (milit.)">
 <b>Demonstration</b> (<sp>milit</sp>.) er den Form for
 Anvendelsen af Tropper, som ikke tilstræber
 den umiddelbare Afgørelse, men som har til
@@ -105,7 +105,7 @@ at true for lettere at kunne gennemføre en
 politisk Fordring.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Demonstrativ, i Gramm.”>
+<chapter name="Demonstrativ, i Gramm.">
 <b>Demonstrativ</b> (lat.) er i Gramm.
 Benævnelse paa Ord, der ved det stærke Tryk,
 hvormed de udtales, tilkendegiver den
@@ -114,16 +114,16 @@ D. er <sp>den</sp>, <sp>denne</sp>, <sp>der</sp>: <sp>Den</sp>, som ikke vil
 høre, maa føle; her og <sp>der</sp>.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”demonstrativ, iøjnefaldende”>
+<chapter name="demonstrativ, iøjnefaldende">
 <b>demonstrativ</b> (lat.), iøjnefaldende,
 anskueliggørende, stærkt betonende.</chapter>
 
-<chapter name=”Demonstrator”>
+<chapter name="Demonstrator">
 <b>Demonstrator</b> (lat.), en, som demonstrerer,
 fremstiller en Sag, fremviser de Genstande,
 hvorover han holder Foredrag.</chapter>
 
-<chapter name=”demonstrere”>
+<chapter name="demonstrere">
 <b>demonstrere</b> (lat.), anskueliggøre, bevise,
 give sin Mening til Kende paa en
 opsigtsvækkende Maade, foretage en Demonstration, deraf
@@ -136,7 +136,7 @@ individuel Opfattelse hos den, som man vil
 overtyde.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Demont-Breton”>
+<chapter name="Demont-Breton">
 <b>Demont-Breton</b> [d<sub>ö</sub>må-br<sub>ö</sub>tå], <sp>Virginie</sp>,
 fr. Malerinde, f. 26. Juli 1859 i Courrières
 (Pas-de-Calais), Datter og Elev af Jules Breton, har
@@ -152,11 +152,11 @@ Decbr 1851 i Douai (mange Landskaber i fr.
 Mus., <i>La nuit</i> [1884] i Luxembourg-Mus.).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Demonterbatteri”>
+<chapter name="Demonterbatteri">
 <b>Demonterbatteri</b> [-måŋ-], se
 <sp>Belejringsbatteri</sp>.</chapter>
 
-<chapter name=”demontere, ødelægge det fjendtlige Skyts”>
+<chapter name="demontere, ødelægge det fjendtlige Skyts">
 <b>demontere</b> [-måŋ-] er i Fæstningskrigen at
 ødelægge det fjendtlige Skyts ved Beskydning
 ell. paa anden Maade, ogsaa eget Skyts d.'s,
@@ -164,17 +164,17 @@ hvis der er Fare for, at det skal falde i
 Fjendens Hænder.
 <i>Sch. P.</i></chapter>
 
-<chapter name=”demontere, adskille en Maskine”>
+<chapter name="demontere, adskille en Maskine">
 <b>demontere</b> [-måŋ-], adskille en Maskine ell.
 et Maskineri i de enkelte Dele.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”demoralisere”>
+<chapter name="demoralisere">
 <b>demoralisere</b> (fr.), moralsk fordærve;
 ødelægge Disciplinen; <sp>Demoralisation</sp>,
 sædelig Fordærvelse, nedbrudt Disciplin.</chapter>
 
-<chapter name=”De Morgan, Augustus”>
+<chapter name="De Morgan, Augustus">
 <b>De Morgan</b> [d<sub>ə</sub>-'må.<sub>ə</sub>g<sub>ə</sub>n], <sp>Augustus</sp>, eng.
 Matematiker, f. 1806 i Indien, d. 1871 i London.
 Efter at have studeret i Cambridge blev D. M.

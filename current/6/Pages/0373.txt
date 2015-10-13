@@ -17,7 +17,7 @@ Delen af D.'s Fortællinger er overs. til Dansk.
 <img>A. Conan Doyle.</img>
 
 
-<chapter name=”Doyle, Sir Francis Hastings”>
+<chapter name="Doyle, Sir Francis Hastings">
 <b>Doyle</b> [då^i£], Sir <sp>Francis Hastings</sp>
 (1810-88), eng. Digter, studerede i Eton og
 derefter i Oxford (<i>Christ Church</i>) og var 1867
@@ -29,7 +29,7 @@ Nationalfølelse. De to bedste Samlinger er:
 Guards, and other Poems</i> (1866).
 <i>I. O.</i></chapter>
 
-<chapter name=”Doyle, John”>
+<chapter name="Doyle, John">
 <b>Doyle</b> [då^il], <sp>John</sp>, eng. Karikaturist og
 Maler (1797-1868). Han oplærtes paa
 Tegneakademiet i sin Fødeby, Dublin, kom 1828 til
@@ -41,7 +41,7 @@ uigennemtrængelig Pseudonymitet - under Titlen
 Tegninger i British Mus.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Doyle, Richard”>
+<chapter name="Doyle, Richard">
 <b>Doyle</b> [då^i£], <sp>Richard</sp>, eng. Tegner og
 Maler, f. i London 1824, d., smst. 1883, Søn og
 Elev af Maleren <sp>John D.</sp>, viste meget tidlig
@@ -66,14 +66,14 @@ han er ogsaa godt repræsenteret i Nationalgal. i
 Dublin, Fitzwilliam-Mus. i Cambridge m. m.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Dozen”>
+<chapter name="Dozen">
 <b>Dozen</b> [dazn], engelsk Talmaal, Dusin, 12
 Stykker, <i>great</i> ell. <i>long d.</i>, 13 Stykker; D.,
 Garnmaal i England = 12 Rands = 72 Leas =
 21600 Yards = 19750,86 m.
 <i>Th. O.</i></chapter>
 
-<chapter name=”Dózsa, Georg”>
+<chapter name="Dózsa, Georg">
 <b>Dózsa</b> [do.sa], <sp>Georg</sp>, var en Szekler, der
 p. Gr. a. sin Tapperhed i Krigen mod Tyrkerne
 var blevet adlet. 1514 valgte de saakaldte
@@ -91,7 +91,7 @@ i Haanden, blev han knebet til Døde med
 glødende Tænger.
 <i>M. M.</i></chapter>
 
-<chapter name=”Dozy, Reinhart”>
+<chapter name="Dozy, Reinhart">
 <b>Dozy</b> [då'zi], <sp>Reinhart</sp>, holl. Orientalist
 og Historiker, f. 21. Febr 1820, d. 3. Maj 1883,
 fra 1850 Prof. i Historie ved Univ. i Leyden.
@@ -139,7 +139,7 @@ Skare Orientalister, som Holland stadig har
 haft at opvise.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Dr.”>
+<chapter name="Dr.">
 <b>Dr.,</b> Forkortelse af Doktor.</chapter>
 
 <chapter name="Draâ, Vadi D.">

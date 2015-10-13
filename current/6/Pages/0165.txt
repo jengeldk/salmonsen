@@ -19,11 +19,11 @@ Differentialskruevinder (se <sp>Vinder</sp>).
 <img>
 Differentialskrue.</img></chapter>
 
-<chapter name=”Differentialtariffer”>
+<chapter name="Differentialtariffer">
 <b>Differentialtariffer,</b> se
 <sp>Jernbanetariffer</sp>.</chapter>
 
-<chapter name=”Differentialtold”>
+<chapter name="Differentialtold">
 <b>Differentialtold.</b> Foruden den almindelig
 gældende Toldsats kan der for samme Vare
 være fastsat en lavere begunstigende Sats ell.
@@ -90,7 +90,7 @@ saa vidt Varen er toldfri, med indtil 10 % af
 dens Værdi ell. indtil 1 Øre pr kg.
 <i>Fr. T.</i></chapter>
 
-<chapter name=”Differentiation”>
+<chapter name="Differentiation">
 <b>Differentiation</b> kaldes den ell. de
 Processer, hvorved et opr. ensartet Magma
 (ildflydende Masse) i Jordens Indre udsondres

@@ -14,7 +14,7 @@ parallel med Aksen; den indeholder Centrerne for
 et System af parallelle Snit i Fladen.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Diameter. I Skovbruget”>
+<chapter name="Diameter. I Skovbruget">
 <b>Diameter.</b> I <sp>Skovbruget</sp> betyder D. to
 væsentlig forsk. Størrelser: 1) det enkelte Træs
 ell. Trædels Tværmaal paa et bestemt Sted (en
@@ -32,7 +32,7 @@ borthugger de tynde Træer i Bevoksningen (se
 <sp>Træmaaling</sp>).
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Diameterformlen”>
+<chapter name="Diameterformlen">
 <b>Diameterformlen</b> gælder Vedmassen i et
 sluttet Træsamfund og er fundet ad empirisk
 Vej. Den udsiger, at Vedmassen <i>M</i> = <i>N</i> 21.
@@ -41,7 +41,7 @@ Diameter i Middelstammegrundfladen, maalt
 1,3 m fra Jorden.
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Diametermaaler”>
+<chapter name="Diametermaaler">
 <b>Diametermaaler,</b> et Instrument, der
 benyttes i Kanonfabrikationen til at eftermaale
 Kanonens cylindriske Bagstykke udvendig for
@@ -49,7 +49,7 @@ at undersøge, om det er afdrejet til de opgivne
 Maal.
 <i>H. H.</i></chapter>
 
-<chapter name=”Diametermaaling”>
+<chapter name="Diametermaaling">
 <b>Diametermaaling</b> udføres i Skovbruget oftest
 med Klup (»Skomagermaal«), idet man maaler
 Afstanden mellem 2 parallelle Tangenter til
@@ -63,7 +63,7 @@ gennemgaaende større i Vindretningen end vinkelret paa
 denne (Tværsnittet ovalt ell. elliptisk).
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Diametralplan”>
+<chapter name="Diametralplan">
 <b>Diametralplan</b> (<sp>mat</sp>.). Ved
 Keglesnitsfladerne vil Midtpunkterne af et System af
 parallelle Korder ligge i samme Plan,
@@ -72,33 +72,33 @@ gaar alle D. gennem Centrum, ved
 Paraboloiderne er de parallelle med Aksen.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”diametralt”>
+<chapter name="diametralt">
 <b>diametralt</b> modsatte Punkter paa et
 Keglesnit ell. en Keglesnitsflade kaldes saadanne,
 der ligger i samme Diameter.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Diamid”>
+<chapter name="Diamid">
 <b>Diamid,</b> se <sp>Hydrazin</sp>.</chapter>
 
-<chapter name=”Diamider”>
+<chapter name="Diamider">
 <b>Diamider,</b> se <sp>Amider</sp>.</chapter>
 
-<chapter name=”Diamidobenzoler”>
+<chapter name="Diamidobenzoler">
 <b>Diamidobenzoler,</b> se <sp>Fenylendiaminer</sp>.</chapter>
 
-<chapter name=”Diamtdodifenyl”>
+<chapter name="Diamtdodifenyl">
 <b>Diamtdodifenyl,</b> se <sp>Benzidin</sp>.</chapter>
 
-<chapter name=”Diamidofenol”>
+<chapter name="Diamidofenol">
 <b>Diamidofenol,</b> se <sp>Amidol</sp>.</chapter>
 
-<chapter name=”Diamidoresorcin”>
+<chapter name="Diamidoresorcin">
 <b>Diamidoresorcin</b> anvendes til Fremstilling
 af fotografisk Fremkalder.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Diaminer”>
+<chapter name="Diaminer">
 <b>Diaminer</b> (se <sp>Aminer</sp>) opstaar ved
 Forraadnelse af Kød o. l. og udgør en Del af den
 ved nævnte Proces opstaaede Gruppe basiske
@@ -111,7 +111,7 @@ syntetisk, saaledes at deres Struktur er
 fastslaaet.
 <i>R. K.</i></chapter>
 
-<chapter name=”Diaminoazobenzol”>
+<chapter name="Diaminoazobenzol">
 <b>Diaminoazobenzol</b> [-so-'so'l], d. s. s.
 <sp>Krysoïdin</sp>.</chapter>
 
@@ -119,7 +119,7 @@ fastslaaet.
 <b>Diamorfose</b> (gr.), Udvikling, Dannelse til en
 bestemt Form.</chapter>
 
-<chapter name=”Diana, rom. Gudinde”>
+<chapter name="Diana, rom. Gudinde">
 <b>Diana,</b> rom. Gudinde, hvis Navn synes
 beslægtet med Ord som <i>dies</i> (»Dag«), <i>divum</i>
 (»aaben Himmel«) o. l. Under den gr. Kulturs
@@ -140,10 +140,10 @@ tidligere aflagt Løfte et Dianatempel ved Circus
 Flaminius paa Marsmarken. (Jfr. <sp>Artemis</sp>).
 <i>C. B.</i></chapter>
 
-<chapter name=”Diana-Abe”>
+<chapter name="Diana-Abe">
 <b>Diana-Abe,</b> se <sp>Marekatte</sp>.</chapter>
 
-<chapter name=”Diana-Træ”>
+<chapter name="Diana-Træ">
 <b>Diana-Træ</b> (<i>árbor Dianæ</i>) er Alkymisternes
 Benævnelse for en forgrenet Krystalmasse af
 Sølv og Kvægsølv, der dannes, naar der til en
@@ -152,17 +152,17 @@ Kvægsølv, som indeholder 1/6 af sin Vægt Sølv.
 Krystalnaalene er lange og glinsende.
 <i>R. K.</i></chapter>
 
-<chapter name=”Diandria”>
+<chapter name="Diandria">
 <b>Diandria</b> (<sp>bot</sp>.), anden Klasse i det
 Linnéiske System.
 <i>V. A. P.</i></chapter>
 
-<chapter name=”diandrisk”>
+<chapter name="diandrisk">
 <b>diandrisk</b> (<sp>bot</sp>.), d. s. s. tohannet, d. v. s.
 forsynet med to Støvdragere.
 <i>V. A. P.</i></chapter>
 
-<chapter name=”Diane de France”>
+<chapter name="Diane de France">
 <b>Diane de France</b> ['d<sub>i</sub>an-d<sub>ö</sub>-'frã.s] (1538-
 1619), Hertuginde af Montmorency og
 Angoulême, var Datter af Henrik II og Philippe Duc.

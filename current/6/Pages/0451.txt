@@ -27,13 +27,13 @@ holdt de gammeldags D. og Drikkeskikke sig
 længst.
 <i>J. O.</i></chapter>
 
-<chapter name=”Drikkesyge”>
+<chapter name="Drikkesyge">
 <b>Drikkesyge,</b> se <sp>Alkoholisme</sp>.</chapter>
 
-<chapter name=”Drikkevise”>
+<chapter name="Drikkevise">
 <b>Drikkevise,</b> se <sp>Vise</sp>.</chapter>
 
-<chapter name=”Drikting”>
+<chapter name="Drikting">
 <b>Drikting</b> var i ældre Tid i en vis Del af
 Jylland (Ribe og omliggende Herreder) Betegnelsen
 for de særlig stærkt besøgte Ting, som holdtes
@@ -43,7 +43,7 @@ svarede saaledes ganske til, hvad der andetsteds i
 Jylland kaldtes Snapsting (s. d.).
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Drin”>
+<chapter name="Drin">
 <b>Drin,</b> Flod i Albanien, dannes af <sp>hvide D.</sp>,
 der kommer fra N., og <sp>sorte D.</sp>, der kommer
 S. fra og danner Afløbet fra Ochrida-Søen. Efter
@@ -53,7 +53,7 @@ Adriaterhavet, i hvilket den falder med to Arme, den
 egl. D. og <sp>Bojana</sp>, der løber forbi Skutari.
 <i>M. V.</i></chapter>
 
-<chapter name=”Drina”>
+<chapter name="Drina">
 <b>Drina,</b> Biflod til Save, dannes ved Foreningen
 af <sp>Tara</sp> og <sp>Piva</sp>, der begge kommer fra
 Montenegro. Efter at have optaget <sp>Lim</sp> løber
@@ -62,7 +62,7 @@ og Serbien, indtil den falder i Saves højre Bred.
 Dens Længde er 350 km.
 <i>M. V.</i></chapter>
 
-<chapter name=”Drinov, Marin”>
+<chapter name="Drinov, Marin">
 <b>Drinov</b> ['drin<sub>å</sub>f], <sp>Marin</sp>, bulg. Historiker
 og Filolog (1838-1906), fra 1871 Prof. i Slavisk
 ved Univ. i Charkov, Civilguvernør i Sofia
@@ -75,7 +75,7 @@ Folkeviser og Sæder hos Slaverne i Debra
 (Makedonien)« (1888; paa Russ.).
 <i>K. S.-J.</i></chapter>
 
-<chapter name=”Drissa”>
+<chapter name="Drissa">
 <b>Drissa,</b> Kredsby i Vestrusland, Guv. Vitebsk,
 ved Floden D.'s Udløb i Düna, Station paa
 Jernbanen Riga-Orel, har Flodskibsfart og
@@ -83,12 +83,12 @@ betydelig Handel med Landbrugsprodukter. (1907)
 4800 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Drittel”>
+<chapter name="Drittel">
 <b>Drittel,</b> i Danmark = 1/3 Td. Smør = 74 2/3
 Pund.
 <i>Th. O.</i></chapter>
 
-<chapter name=”Drittelstaver”>
+<chapter name="Drittelstaver">
 <b>Drittelstaver</b> er en af de væsentligste
 Anvendelser af dansk Bøgegavntræ; den enkelte
 Stav er c. 1 1/4 X 8 X 63 cm.; de forhandles i
@@ -106,7 +106,7 @@ sprænges, ell. der skal komme Aabninger
 mellem Staverne.
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Driva”>
+<chapter name="Driva">
 <b>Driva</b> (ɔ: Snebyge), Jættemø, Datter af Kong
 Sne den Gamle; efter et Sagn i Snorre's
 Ynglingasaga ægtede Upsal-Kongen Vanlande
@@ -118,16 +118,16 @@ Skur [Regnbyge], gifte med Kæmperne
 Hvitsærk og Bjarke; jfr <sp>Rut</sp>).
 <i>A. O.</i></chapter>
 
-<chapter name=”Driva”>
+<chapter name="Driva">
 <b>Driva,</b> se <sp>Sundalselven</sp>.</chapter>
 
-<chapter name=”Drivaal”>
+<chapter name="Drivaal">
 <b>Drivaal</b> kalder man den alm. Aal, naar den
 under Udvandringen følger Strømmen ell. lader
 sig <sp>drive</sp> af denne.
 <i>Ad. J.</i></chapter>
 
-<chapter name=”Drivanker”>
+<chapter name="Drivanker">
 <b>Drivanker,</b> en om Bord udført Konstruktion
 af Rundholter og Sejldug (se <sp>Anker</sp>), der
 undertiden anvendes i mindre Skibe, særlig i
@@ -139,10 +139,10 @@ af Vind og Sø vil drive langsomt for D. med
 Forstævnen imod Søen.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Drivbænk”>
+<chapter name="Drivbænk">
 <b>Drivbænk,</b> se <sp>Varmebed</sp>.</chapter>
 
-<chapter name=”drive”>
+<chapter name="drive">
 <b>drive</b> (Søv.). Et Skib, der ligger til Ankers,
 siges at d., naar det p. Gr. a. Vind, Strøm og Sø
 slæber Ankeret med sig. Hvis man under Gang
@@ -157,13 +157,13 @@ Genstande ind mellem to tæt ved hinanden liggende
 Planker e. l.
 <i>H. E.</i></chapter>
 
-<chapter name=”Driver”>
+<chapter name="Driver">
 <b>Driver</b> (<sp>Søv</sp>.), et Sejl, der sættes helt agter
 ude, og som tjener til at holde Skibets Stævn
 op mod Søen.
 <i>H. E.</i></chapter>
 
-<chapter name=”Driver, Samuel Rolles”>
+<chapter name="Driver, Samuel Rolles">
 <b>Driver</b> ['dra^ivə], <sp>Samuel Rolles</sp>, eng.
 Teolog, f. 2. Oktbr 1846 i Southampton, d. 26.
 Febr 1914 i Oxford, hvor han siden 1883 havde
@@ -176,12 +176,12 @@ hans <i>Introduction to the Literature of the Old
 Testament</i> (1891), 8. Opl. 1909.
 <i>H. M.</i></chapter>
 
-<chapter name=”Driverum”>
+<chapter name="Driverum">
 <b>Driverum</b> (<sp>Søv</sp>.), den Strækning paa en
 Ankerplads, et Skib har til at drive paa, før
 det gaar paa Land ell. støder mod en ell. anden
 Forhindring.
 <i>H. E.</i></chapter>
 
-<chapter name=”Drivgarn”>
+<chapter name="Drivgarn">
 <b>Drivgarn,</b> se <sp>Garn</sp>.</chapter>

@@ -5,7 +5,7 @@ Riga-Bugten, falder med ringe Højde brat ned
 i Havet og fortsættes i et Rev.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Domesnæs-Rev”>
+<chapter name="Domesnæs-Rev">
 <b>Domesnæs-Rev,</b> Riga Bugt, strækker sig i
 nordnordøstlig Retning fra Domesnæs; først i en
 Afstand af 3 Sm fra Land findes 7 m
@@ -16,30 +16,30 @@ Fyrtaarnet findes Taagesignal med Dampsirene,
 Semaforstation og Redningsstation.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”domestici”>
+<chapter name="domestici">
 <b>domestici</b> (lat.), Husfæller; i senere Latin
 ogsaa: Bekendte, Omgangsvenner.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Domestics”>
+<chapter name="Domestics">
 <b>Domestics</b> [d<sub>o</sub>'mest<sub>i</sub>ks], tætte glatte
 Bomuldsstoffer, der opr. kun vævedes i
 Nordamerika, men nu ogsaa fremstilles i Europa som
 Surrogat for Lærred, især til Skjorter.
 <i>K. M.</i></chapter>
 
-<chapter name=”domesticus”>
+<chapter name="domesticus">
 <b>domesticus</b> (lat.), hvad der hører ti Huse,
 til Familien, til Landet: <i>animalia domestica,
 furtum domesticum. Jura domestica</i> = Landets
 Vedtægter.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Domestik”>
+<chapter name="Domestik">
 <b>Domestik</b> (fr., af lat. <i>domésticus</i>, hørende
 til Huset), Tjener, Tyende.</chapter>
 
-<chapter name=”Domett, Alfred”>
+<chapter name="Domett, Alfred">
 <b>Domett</b> ['dåm<sub>i</sub>t], <sp>Alfred</sp>, eng. Digter
 (1811-87), havde faaet sin Uddannelse i Cambridge
 samtidig med Tennyson; studerede derefter Jura
@@ -69,7 +69,7 @@ og vidner om hans fine Intelligens og skarpe
 Opfattelsesevne.
 <i>I. O.</i></chapter>
 
-<chapter name=”Domeykit”>
+<chapter name="Domeykit">
 <b>Domeykit</b> [-me-] (<sp>Arsenkobber</sp>), et
 Mineral af Sammensætning Cu<sub>3</sub>As, er metallisk,
 sølvhvidt, men løber hurtigt an og bliver
@@ -78,7 +78,7 @@ indsprængt, i Chile, Meksiko og ved Zwickau i
 Sachsen.
 <i>R. K.</i></chapter>
 
-<chapter name=”Domfront”>
+<chapter name="Domfront">
 <b>Domfront</b> [då'frå], By i det nordvestlige
 Frankrig, Dept Orne, Hovedstad i <sp>Arrond.</sp>
 D. (Nordmandiet), ligger smukt 215 m o. H.
@@ -94,10 +94,10 @@ Borgen.
 <i>G. Ht.</i>
 </chapter>
 
-<chapter name=”Domherre”>
+<chapter name="Domherre">
 <b>Domherre,</b> se <sp>Domkapitel</sp>.</chapter>
 
-<chapter name=”Dómhringr”>
+<chapter name="Dómhringr">
 <b>Dómhringr</b> ['do.mhreŋr] (<sp>Domring</sp>),
 Domkreds ell. Indhegning, omtales iflg. Finsen's
 Udg. af de isl. Love i Fristatstiden paa Altinget
@@ -111,7 +111,7 @@ Dommerne havde Sæde, naar de paa de forsk. Ting
 traadte sammen for at afgive Domme i Sager.
 <i>B. Th. M.</i></chapter>
 
-<chapter name=”Domicella”>
+<chapter name="Domicella">
 <b>Domicella</b> (Dim. af <i>domina</i>, Frue) brugtes
 i Middelalderen ofte som Betegnelse for den
 ikke regelbundne Kanonisse, undertiden ogsaa
@@ -120,7 +120,7 @@ Vejledning og Tilsyn, endvidere om Fyrsters
 og Stormænds ugifte Døtre.
 <i>H. O.</i></chapter>
 
-<chapter name=”Domicellus”>
+<chapter name="Domicellus">
 <b>Domicellus</b> (Dim. af <i>dominus</i>, Herre)
 kaldtes i Middelalderen den vordende Kannik, der
 oplærtes ved et Domkapitel; ogsaa <i>Domicellaris</i>.
@@ -131,10 +131,10 @@ Sønner, især naar disse gjorde Tjeneste som
 Pager.
 <i>H. O.</i></chapter>
 
-<chapter name=”Domicil”>
+<chapter name="Domicil">
 <b>Domicil,</b> Hjemsted, Bopæl.</chapter>
 
-<chapter name=”Domicilveksel”>
+<chapter name="Domicilveksel">
 <b>Domicilveksel</b> eller domicileret Veksel, en
 Veksel, der er betalbar et andet Sted end der,
 hvor den Paatrukne (Trassaten) bor. Om D.
@@ -157,13 +157,13 @@ Acceptanten, hvilket sidste ikke gælder om
 andre Veksler.
 <i>(E. M.) C. Th.</i></chapter>
 
-<chapter name=”domina”>
+<chapter name="domina">
 <b>domina</b> (lat.), Husfrue; i senrom. Tid
 Tiltaleord for unge Piger; Herskerinde;
 Forstanderske for et Nonnekloster ell. en
 Jomfrustiftelse, Abbedisse.</chapter>
 
-<chapter name=”Dominant”>
+<chapter name="Dominant">
 <b>Dominant</b> (lat.: <i>dominans</i> neml. <i>tonus</i>, »den
 fremherskende Tone«) kaldes den femte Tone
 (Kvinten) i Tonarten; den har sit Navn deraf,

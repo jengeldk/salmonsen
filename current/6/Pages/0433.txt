@@ -16,7 +16,7 @@ Hovedstillingerne fastholdes D. ved Overfald ell.
 Skudrigler.
 <i>J. F.</i></chapter>
 
-<chapter name=”Drejestaal”>
+<chapter name="Drejestaal">
 <b>Drejestaal</b> (<sp>Drejemejsel</sp>,
 <sp>Drejerkniv</sp>) til Metal har, naar der drejes paa fri
 Haand, meget forsk. Former; fælles for alle er,
@@ -84,7 +84,7 @@ Former, saaledes ogsaa rørformede og
 roterende.
 <i>F. W.</i></chapter>
 
-<chapter name=”Drejestol”>
+<chapter name="Drejestol">
 <b>Drejestol,</b> en meget lille, navnlig af
 Urmagere benyttet Drejemaskine, bestaaende af
 (se Fig.) en Stang <i>C</i>, hvis ene Ende bærer den
@@ -113,11 +113,11 @@ fuldkommen Maskine.
 
 <img></img>
 
-<chapter name=”Drejestrøm”>
+<chapter name="Drejestrøm">
 <b>Drejestrøm</b> = 3-faset Vekselstrøm, se
 <sp>elektriske Maskiner</sp> og <sp>Transformatorer</sp>.</chapter>
 
-<chapter name=”Drejesyge”>
+<chapter name="Drejesyge">
 <b>Drejesyge</b> kaldes en, særlig hos <sp>Faaret</sp>,
 sjældnere hos <sp>Kvæget</sp>, optrædende
 Hjernelidelse, som i Alm. giver sig til Kende ved

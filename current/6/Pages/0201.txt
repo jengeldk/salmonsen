@@ -16,10 +16,10 @@ fuldstændige Skeletter. 18 m lang. Nedre Kridt
 <i>Vertebrata</i> [München und Berlin 1911]).
 <i>Ad. J.</i></chapter>
 
-<chapter name=”Dinostratos”>
+<chapter name="Dinostratos">
 <b>Dinostratos,</b> d. s. s. <sp>Deinostratos</sp>.</chapter>
 
-<chapter name=”Dinotherlesand”>
+<chapter name="Dinotherlesand">
 <b>Dinotherlesand</b> [-'te'-] kaldes nogle ved
 Eppelsheim i Rhinhessen forekommende, til
 Tertiærformationens yngste Etage (<i>pliocæn</i>)
@@ -28,10 +28,10 @@ Knogler af <i>Dinotherium giganteum</i>. Betegnelsen
 benyttes ogsaa undertiden for lidt ældre
 Sandaflejringer i Bayern med Knogler af <i>D. bavaricum</i>.</chapter>
 
-<chapter name=”Dinotherium”>
+<chapter name="Dinotherium">
 <b>Dinotherium</b> [-'te'-], se <sp>Elefanter</sp>.</chapter>
 
-<chapter name=”Dinslaken”>
+<chapter name="Dinslaken">
 <b>Dinslaken</b> ['densla.k<sub>ə</sub>n], By i Preussen,
 Rhin-Prov., ligger 16 km N. f. Duisburg i Nærheden
 af højre Rhin-Bred og ved Banen fra
@@ -40,14 +40,14 @@ Halvdelen kat. D. har betydelig Industri
 (Jernvalseværk, Artikler til elektrisk Belysning m. m.),
 men gaar for øvrigt som Købstad tilbage til 1273.</chapter>
 
-<chapter name=”Dintel”>
+<chapter name="Dintel">
 <b>Dintel</b> ['dent<sub>ə</sub>£, Flod i Sydholland, Prov.
 Nordbrabant, opstaar ved Breda ved
 Foreningen af Aa og Mark, falder N. f. Dinteloord
 (Prinsenland) i en Arm af Maas.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dinter, Gustav Friedrich”>
+<chapter name="Dinter, Gustav Friedrich">
 <b>Dinter</b> ['dent<sub>ə</sub>r], <sp>Gustav Friedrich</sp>,
 tysk Skolemand, f. 29. Febr 1760 i Borna ved
 Leipzig, d. 29. Maj 1831 i Königsberg,
@@ -83,25 +83,25 @@ Volksschulen« (3 Bd, 1814-15), udkom paa Dansk
 ausgewählte Schriften« [2 Bd, 1880-81]).
 <i>Fr. Th.</i></chapter>
 
-<chapter name=”Dio, Juan”>
+<chapter name="Dio, Juan">
 <b>Dio</b> ['ðia], <sp>Juan</sp> (<sp>Johannes de Deo</sp>),
 se <sp>Barmhjertige Brødre</sp>.</chapter>
 
-<chapter name=”Diobolos”>
+<chapter name="Diobolos">
 <b>Diobolos,</b> gr., Dobbeltobol = 10 Lepta, se
 <sp>Drachme</sp>. <sp>Diobelia</sp>, en Art
 Fattigunderstøttelse, »til Teaterbilletter«, indført i Athen
 paa den peloponnesiske Krigs Tid, c. 410 f. Kr.
 <i>H. A. K.</i></chapter>
 
-<chapter name=”Dio Cassius”>
+<chapter name="Dio Cassius">
 <b>Dio Cassius,</b> se <sp>Dion Kassios</sp>.</chapter>
 
-<chapter name=”Dio Chrysostomus”>
+<chapter name="Dio Chrysostomus">
 <b>Dio Chrysostomus</b> [-kry-], d. s. s. <sp>Dion
 Chrysostomos</sp>.</chapter>
 
-<chapter name=”Diocletianus, Gajus Aurelius Valerius”>
+<chapter name="Diocletianus, Gajus Aurelius Valerius">
 <b>Diocletianus,</b> <sp>Gajus Aurelius Valerius</sp>,
 f. 245, rom. Kejser 284-305, hed opr. Diocles,
 var Søn af en Frigiven og stammede fra

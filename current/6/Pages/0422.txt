@@ -21,7 +21,7 @@ c. 10, Rusland 7, Italien 3, Japan 4, Tyskland
 6, Østerrig-Ungarn 2, Forenede Stater 4.
 <i>H. E.</i></chapter>
 
-<chapter name=”Dreadnought-Krydsere”>
+<chapter name="Dreadnought-Krydsere">
 <b>Dreadnought-Krydsere</b> ['drednå.t-], Skibe
 af Dreadnoughttypen, hvis Fart er over 25 Knob.
 Panserskibenes betydelige Fartforøgelse ved
@@ -53,7 +53,7 @@ Forøgelsen af D. været: England 2, Rusland 3, Japan
 2 og Tyskland 3.
 <i>H. E.</i></chapter>
 
-<chapter name=”Dreber, Heinrich”>
+<chapter name="Dreber, Heinrich">
 <b>Dreber,</b> <sp>Heinrich</sp>, kaldet <sp>Franz-D.</sp>
 tysk Landskabsmaler, f. 9. Jan. 1822 i Dresden,
 d. 3. Aug. 1875 ved Rom. Han blev uddannet
@@ -71,7 +71,7 @@ Par Landskaber, i Schack's Galeri i München
 »Sappho« o. s. fr.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Drechsel, Christian Frederik”>
+<chapter name="Drechsel, Christian Frederik">
 <b>Drechsel,</b> <sp>Christian Frederik</sp>, dansk
 Søofficer og Fiskerikyndig, f. i Nakskov 1. Apr.
 1854, blev Sekondløjtnant i Marinen 1874,
@@ -139,7 +139,7 @@ Havundersøgelser har D. været Medlem siden
 1902 og er nu dens Formand.
 <i>C. V. O.</i></chapter>
 
-<chapter name=”Drecht”>
+<chapter name="Drecht">
 <b>Drecht</b> [drækt], Flod i Kongeriget Holland,
 Prov. Holland og Utrecht, kommer fra
 Brasemer-Søen og forener sig med
@@ -147,10 +147,10 @@ Krumme-Mijdrecht, hvorved Amstel dannes. 1824 blev den
 sejlbar for store Flodskibe.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dreelit”>
+<chapter name="Dreelit">
 <b>Dreelit</b> [dre<sub>e</sub>'lit], en noget kalkholdig Varietet
 af Mineralet <sp>Baryt</sp>.</chapter>
 
-<chapter name=”Dreher, Anton”>
+<chapter name="Dreher, Anton">
 <b>Dreher</b> ['dre.<sub>ə</sub>r], <sp>Anton</sp>, tysk Brygger, f.
 10. Juni 1810 i Wien, d. 27. Decbr 1863, overtog,

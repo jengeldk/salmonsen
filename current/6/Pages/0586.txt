@@ -58,10 +58,10 @@ danske Artilleri og dets Deltagelse i Krigen 1864«
 [Kbhvn 1865]; »Vort Forsvar« 217 og 218).
 <i>P. Nw.</i></chapter>
 
-<chapter name=”Dybbøl-Bjerget, Dybbøl Mølle”>
+<chapter name="Dybbøl-Bjerget, Dybbøl Mølle">
 <b>Dybbøl-Bjerget, Dybbøl Mølle,</b> se <sp>Dybbøl</sp>.</chapter>
 
-<chapter name=”Dybdahl, Jens Andreas”>
+<chapter name="Dybdahl, Jens Andreas">
 <b>Dybdahl,</b> <sp>Jens Andreas</sp>, Docent i
 Havebrug ved den kgl. Veterinær- og
 Landbohøjskole i Kbhvn, f. 7. Septbr 1832 i Landsbyen
@@ -108,13 +108,13 @@ Værd og Bet. være uforandrede gennem lange
 Tider.
 <i>L. H.</i></chapter>
 
-<chapter name=”Dybdeboring”>
+<chapter name="Dybdeboring">
 <b>Dybdeboring,</b> se <sp>Boring</sp>.</chapter>
 
-<chapter name=”Dybdelod”>
+<chapter name="Dybdelod">
 <b>Dybdelod,</b> se <sp>Dybdemaaler</sp>.</chapter>
 
-<chapter name=”Dybdemaaler”>
+<chapter name="Dybdemaaler">
 <b>Dybdemaaler,</b> Apparat til Maaling af Dybder
 paa et af Vand dækket Areal. Paa mindre
 Dybder (indtil 10 m) kan benyttes en saakaldt

@@ -30,11 +30,11 @@ ind under Kronen. I C. er Gregor af Tours
 født.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Clermont-Ganneau”>
+<chapter name="Clermont-Ganneau">
 <b>Clermont-Ganneau</b> [klær'må'ga'no], <sp>C.</sp>, se
 <sp>Ganneau, C. C.-</sp>.</chapter>
 
-<chapter name = ”Clermont-Tonnerre, Aimé Marie Gaspard”>
+<chapter name="Clermont-Tonnerre, Aimé Marie Gaspard">
 <b>Clermont-Tonnerre</b> [klær'må-tå'næ.r],
 <sp>Aimé Marie Gaspard</sp>, Markis, og siden
 1842 Hertug af (1779-1865), gjorde som
@@ -51,7 +51,7 @@ Krigsminister indtil Slutn. af 1827. Efter Julirevolutionen
 ikke vilde aflægge Ed til den ny Konge.
 <i>E. E.</i></chapter>
 
-<chapter name = ”Clermont-Tonnerre, Stanislas”>
+<chapter name="Clermont-Tonnerre, Stanislas">
 <b>Clermont-Tonnerre</b> [klær'må-tå'næ.r],
 <sp>Stanislas</sp>, Greve af, fr. Politiker (1757-92).
 C. var ved Revolutionens Udbrud Oberst; 1789
@@ -80,10 +80,10 @@ den lovgivende Forsamlings ypperste Talere og
 en modig, selvbehersket Personlighed.
 <i>(F. J. M.). P. L. M.</i></chapter>
 
-<chapter name = ”Clerus”>
+<chapter name="Clerus">
 <b>Clerus,</b> se <sp>Blødbiller</sp>.</chapter>
 
-<chapter name = ”Clésinger, Jean Baptiste Auguste”>
+<chapter name="Clésinger, Jean Baptiste Auguste">
 <b>Clésinger</b> [klezæ'зe], <sp>Jean Baptiste
 Auguste</sp>, fr. Billedhugger, f. 1814 i Besançon,
 d. 1883 i Paris. Han lærte først Kunst under
@@ -119,7 +119,7 @@ han en Statue af sin Svigermoder, George Sand.
 (<sp>Litt</sp>: <sp>Estignard</sp>, »C.« [Besançon 1900]).
 <i>A. Hk.</i></chapter>
 
-<chapter name = ”Clesse, Antoine”>
+<chapter name="Clesse, Antoine">
 <b>Clesse</b> [klæs], <sp>Antoine</sp>, belg. Folkedigter
 (1816-89). C., der var Vaabensmed i Mons,
 debuterede allerede 1839 med et større Digt
@@ -136,7 +136,7 @@ Samlinger <i>Chansons</i> (1845-48, 1866) og før hans
 Død tillige <i>Nouvelles Chansons</i> (1888).
 <i>S. Ms.</i></chapter>
 
-<chapter name = ”Clethra L.”>
+<chapter name="Clethra L.">
 <b>Clethra</b> L., Planteslægt, der oftest henføres
 til Lyng-Fam. ell. opstilles som en egen dermed
 meget nær beslægtet lille Fam. (<i>Clethraceæ</i>),

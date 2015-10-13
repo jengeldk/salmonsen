@@ -101,7 +101,7 @@ Austrian side</i> [London 1908];
 Montenegro [Leipzig 1904]).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dalmatika”>
+<chapter name="Dalmatika">
 <b>Dalmatika,</b> lang, hvid Kappe
 med Ærmer, Den stammer fra
 Dalmatien, men blev Modekjortel
@@ -119,7 +119,7 @@ Rom opbevarede Kejser-D.
 
 <img>Dalmatika (fra 14. Aarh.).</img>
 
-<chapter name=”Dalmatinervine”>
+<chapter name="Dalmatinervine">
 <b>Dalmatinervine</b> fremstilles i de senere Aar
 i bestandig bedre Kvaliteter, saaledes at de
 egner sig til Udførsel; de muskatagtige Sødvine,
@@ -127,10 +127,10 @@ egner sig til Udførsel; de muskatagtige Sødvine,
 <i>vini duri</i>.
 <i>K. M.</i></chapter>
 
-<chapter name=”Dalmatisk Hund”>
+<chapter name="Dalmatisk Hund">
 <b>Dalmatisk Hund,</b> se <sp>Hunde</sp>.</chapter>
 
-<chapter name=”Dalmatius”>
+<chapter name="Dalmatius">
 <b>Dalmatius</b> (ogsaa kaldet <sp>Delmatius</sp>),
 <sp>Flavius</sp>, Søn af Konstantin den Store's
 Halvbroder (af samme Navn), udnævntes til Cæsar
@@ -139,14 +139,14 @@ bestyre. Efter Konstantin's Død omkom han i
 et Soldateroprør (337).
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Dalmatov”>
+<chapter name="Dalmatov">
 <b>Dalmatov</b> [da£'mat<sub>ä</sub>f], <sp>Dalmatovo</sp>, By i
 det østlige Rusland, Guv. Perm, ved Tobol's
 Biflod Isset. (1897) 4191 Indb. D. har et berømt
 Kloster, der er grundlagt 1644.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dalmose”>
+<chapter name="Dalmose">
 <b>Dalmose</b> (<sp>Dalemose</sp>), Stationsby i det
 sydvestlige Sjælland, Gimlinge Sogn,
 Vester-Flakkebjerg Herred, Sorø Amt, med
@@ -155,6 +155,6 @@ Banerne Slagelse-Skjelskør og
 Skjelskør-Næstved.
 <i>H. W.</i></chapter>
 
-<chapter name=”Dalni”>
+<chapter name="Dalni">
 <b>Dalni</b> ['dal<sub>i</sub>n<sub>i</sub>], se <sp>Talien</sp>.</chapter>
 

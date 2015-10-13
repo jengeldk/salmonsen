@@ -13,19 +13,19 @@ Art e. B. er omtalt under Dugbilleder.
 <sp>elektromagnetiske Svingninger</sp> og
 <sp>Radiotelegrafi</sp>.</chapter>
 
-<chapter name=”elektriske Enheder”>
+<chapter name="elektriske Enheder">
 <b>elektriske Enheder,</b> se <sp>elektriske
 Maaleenheder</sp> og <sp>Elektrostatik</sp>.</chapter>
 
-<chapter name=”elektriske Figurer”>
+<chapter name="elektriske Figurer">
 <b>elektriske Figurer,</b> se <sp>elektriske
 Støvfigurer</sp> og <sp>Nobilis Ringe</sp>.</chapter>
 
-<chapter name=”elektriske Fisk”>
+<chapter name="elektriske Fisk">
 <b>elektriske Fisk,</b> se <sp>elektriske
 Organer</sp>.</chapter>
 
-<chapter name=”elektriske Fordelingssystemer”>
+<chapter name="elektriske Fordelingssystemer">
 <b>elektriske Fordelingssystemer.</b> Efter den
 i elektriske Anlæg anvendte Forbindelsesmaade
 mellem Forbrugere og Kraftstation skelner man

@@ -7,7 +7,7 @@ har C. opført en Række af større klassiske
 Værker og nyere norske.
 <i>A. H.</i></chapter>
 
-<chapter name=”Cæcilia Månsdotter”>
+<chapter name="Cæcilia Månsdotter">
 <b>Cæcilia Månsdotter,</b> Gustaf I af Sveriges
 Moder, Datter af Rigsraad Magnus (Måns)
 Karlsson til Eka og Sigrid Eskilsdatter Banér.
@@ -28,7 +28,7 @@ hendes Datter Emerentia s. A. fandt Døden. C.
 skildres som en from og alvorlig Kvinde.
 <i>(P. Ø.). A. M. D.</i></chapter>
 
-<chapter name=”Cæcilia Metella”>
+<chapter name="Cæcilia Metella">
 <b>Cæcilia Metella,</b> Datter af Q. Gæcilius
 Metellus Creticus, gift med Crassus, Søn af
 Triumviren. C. M.'s Grav, 3 1/2 km S. f. Rom, er det
@@ -43,13 +43,13 @@ Fæstningsanlæg og forsynet med Murtinder.
 
 <img>Cæcilia Metellas Grav.</img>
 
-<chapter name=”Cæcilianus”>
+<chapter name="Cæcilianus">
 <b>Cæcilianus,</b> se <sp>Donatister</sp>.</chapter>
 
-<chapter name=”Cæcilius”>
+<chapter name="Cæcilius">
 <b>Cæcilius,</b> se <sp>Metellus</sp>.</chapter>
 
-<chapter name=”Cæcilius”>
+<chapter name="Cæcilius">
 <b>Cæcilius</b> (<sp>Kaikilios</sp>) <sp>fra Kalakte</sp>
 (paa Sicilien), gr. Grammatiker og Retor paa
 Augustus' Tid, virkede ivrig til Fremme af de
@@ -62,7 +62,7 @@ Talere. Fragmenterne er samlede af
 <sp>Burckhardt</sp> (Basel 1863).
 <i>K. H.</i></chapter>
 
-<chapter name=”Cæcilius Statius”>
+<chapter name="Cæcilius Statius">
 <b>Cæcilius Statius,</b> rom. Komediedigter i 2.
 Aarh. f. Kr., var af Fødsel en Insubrer (en
 keltisk Stamme i Norditalien), men kom til Rom,
@@ -80,7 +80,7 @@ fragmenta</i> (Leipzig, 3. Udg. 1898). <sp>(Litt.</sp>:
 <sp>Teuffel</sp>, »C. S.« [Tübingen 1858]).
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Cæcina, Aulus Alienus”>
+<chapter name="Cæcina, Aulus Alienus">
 <b>Cæcina,</b> <sp>Aulus Alienus</sp>, rom. Hærfører,
 sluttede sig som Kvæstor i Spanien til Kejser
 Galba (68 e. Kr.), men da han kom i Unaade
@@ -98,7 +98,7 @@ da den blev opdaget, blev han paa Titus'
 Befaling hugget ned ved et Gæstebud.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Cæcina, Aulus Severus”>
+<chapter name="Cæcina, Aulus Severus">
 <b>Cæcina,</b> <sp>Aulus Severus</sp>, rom. Feltherre.
 Han var Aar 6 e. Kr. Statholder i Møsien og vandt
 som saadan Sejre over Pannonierne. 14-15 var
@@ -108,7 +108,7 @@ under Arminius, navnlig ved sin dygtige
 Ledelse af et Tilbagetog.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Cæculus”>
+<chapter name="Cæculus">
 <b>Cæculus,</b> lat. Sagnhelt. Gammel Tradition
 fortalte, at han var Vulcanus' Søn, blev udsat
 straks efter Fødslen, men snart efter fundet, og
@@ -122,7 +122,7 @@ omsluttedes af Flammer, som først forsvandt paa
 C.'s Bud.
 <i>C. B.</i></chapter>
 
-<chapter name=”Cælius (Coelius) Antipater”>
+<chapter name="Cælius (Coelius) Antipater">
 <b>Cælius</b> (<sp>Coelius</sp>) <b>Antipater</b> (Fornavn
 <sp>Lucius</sp>), rom. Historieskriver fra Slutn. af
 2. Aarh. f. Kr., forfattede et Værk om den anden
@@ -139,6 +139,6 @@ Forbilleder. Fragmenter hos <sp>H. Peter</sp>,
 »Geschichte d. röm. Litt.«, I, 1, § 71 a.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Cælius Rufus, Marcus”>
+<chapter name="Cælius Rufus, Marcus">
 <b>Cælius Rufus,</b> <sp>Marcus</sp>, rom. Taler (82-
 48), en af Cicero's yngre Venner og Disciple.

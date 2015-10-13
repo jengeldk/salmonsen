@@ -55,7 +55,7 @@ en meget stor Kunstsamling, der siden solgtes
 ved Auktion.
 <i>L. K.</i></chapter>
 
-<chapter name=”demifin”>
+<chapter name="demifin">
 <b>demifin</b> [d<sub>ö</sub>mi'fæ] (fr.), Betegnelse for
 Guldtrækkerarbejde, staaende i Kvalitet mellem ægte
 og uægte, idet ægte er Arbejde af forgyldt
@@ -65,17 +65,17 @@ d. ogsaa blot Kobbertraad, forgyldt stærkere
 end sædvanligt, og Arbejde deraf.
 <i>F. W.</i></chapter>
 
-<chapter name=”demigorge”>
+<chapter name="demigorge">
 <b>demigorge</b> [d<sub>ö</sub>mi'gårз], ældre Betegnelse for
 den mindre Vold med foranliggende Grav, der
 undertiden anlagdes som Afsnit mellem
 Bastionens Kurtinepunkter.
 <i>Sch. P.</i></chapter>
 
-<chapter name=”Demijahn”>
+<chapter name="Demijahn">
 <b>Demijahn,</b> se <sp>Demijohn</sp>.</chapter>
 
-<chapter name=”Demijohn”>
+<chapter name="Demijohn">
 <b>Demijohn</b> ['dem<sub>i</sub>dзån] (eng.; fr. <i>damejeanne</i>,
 af arab. <i>damagan</i>, <i>damagana</i>), Kurveflaske ell.
 Glasballon, pakket i Halm i en Vidiekurv,
@@ -89,12 +89,12 @@ Vestindien, og den mest kendte Benævnelse var
 <sp>Demijahn</sp>, ikke D.
 <i>(N. J. B.). Th. O.</i></chapter>
 
-<chapter name=”demilune”>
+<chapter name="demilune">
 <b>demilune</b> [d<sub>ö</sub>mi'lyn] (fr.), Halvmaane,
 Betegnelse for et af Udenværkerne i det
 bastionære Grundrids (s. d.).</chapter>
 
-<chapter name=”demimonde”>
+<chapter name="demimonde">
 <b>demimonde</b> [da. demi'måŋd<sub>ə</sub>, fr. d<sub>ö</sub>mi'må.d]
 (fr.), »Halvverden«. Dette Udtryk, som skyldes
 den yngre Dumas' Skuespil <i>le demimonde</i>
@@ -105,16 +105,16 @@ især om Damer af tvivlsomt Rygte, der staar
 paa et noget højere Trin end de prostituerede
 Kvinder.</chapter>
 
-<chapter name=”Demir-Basch”>
+<chapter name="Demir-Basch">
 <b>Demir-Basch</b> [de'mir-'ba∫] (tyrk., af <i>demir</i>,
 Jern, og <i>basch</i>, Hoved), »Jernhovedet«, et
 Tilnavn, Tyrkerne gav den sv. Kong Karl XII
 efter Kalabalikken i Bender.</chapter>
 
-<chapter name=”Demirelief”>
+<chapter name="Demirelief">
 <b>Demirelief</b> [de'mir<sub>ə</sub>l<sub>i</sub>æf], se <sp>Relief</sp>.</chapter>
 
-<chapter name=”Demir-Hissar”>
+<chapter name="Demir-Hissar">
 <b>Demir-Hissar</b> (»Jernborgen«), By i
 Grækenland, Distriktet Serrai i Makedonien, ligger ved
 Kurschova, en Biflod til Struma, har fl. Moskeer,
@@ -122,26 +122,26 @@ et Slot, gl. Klippegrave og 8000 overvejende
 tyrk. Indb.
 <i>M. V.</i></chapter>
 
-<chapter name=”Demir-Kapu”>
+<chapter name="Demir-Kapu">
 <b>Demir-Kapu,</b> se <sp>Jernporten</sp>.</chapter>
 
-<chapter name=”Demission”>
+<chapter name="Demission">
 <b>Demission</b> (fr.), Afsked, Embedsnedlæggelse;
 <sp>demissionere</sp>, nedlægge sit Embede. Se
 endvidere <sp>Dimission</sp>.</chapter>
 
-<chapter name=”Demiurger”>
+<chapter name="Demiurger">
 <b>Demiurger</b> kaldtes i Oldtiden Øvrigheden i
 fl. gr. Stater, f. Eks. i Delfi.</chapter>
 
-<chapter name=”demi-vierge”>
+<chapter name="demi-vierge">
 <b>demi-vierge</b> [d<sub>ö</sub>'mi-'v<sub>i</sub>ærз] (fr.), Halvjomfru
 ɔ: ung Kvinde, som vel er Jomfru, men dog
 sjælelig ukysk. Den fr. Forf. <sp>Marcel
 Prévost</sp> har skabt dette Navn i Romanen <i>Les
 Demi-Vierges</i>.</chapter>
 
-<chapter name=”Demmin”>
+<chapter name="Demmin">
 <b>Demmin</b> [dæ'mi.n], By i den preuss. Prov.
 Pommern, ved den lille Flod Peene,
 Knudepunkt paa Jernbanen Berlin-Stralsund. (1910)
@@ -164,14 +164,14 @@ Margarinefabrikation, Kalkbrænderi, Brændevinsbrænderi og
 Ølbryggeri.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Demobilisering”>
+<chapter name="Demobilisering">
 <b>Demobilisering,</b> Hærens Overgang fra Krigs-
 til Fredsfod. Smlg. <sp>Mobilisering</sp>.</chapter>
 
-<chapter name=”Demodex”>
+<chapter name="Demodex">
 <b>Demodex,</b> se <sp>Haarsækmider</sp>.</chapter>
 
-<chapter name=”Demodokos”>
+<chapter name="Demodokos">
 <b>Demodokos</b> er i Odysseen Navnet paa en
 Sanger hos Faiakernes Konge Alkinoos. Paa
 den amyklæiske Apollon's Trone (se

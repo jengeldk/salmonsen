@@ -39,7 +39,7 @@ med Moss. (<sp>Litt</sp>.: »Fra D.'s Fortid« [i
 »Akershus Amtstidende« 1895]).
 <i>(J. F. W. H.) M. H.</i></chapter>
 
-<chapter name=”Drøbaksund”>
+<chapter name="Drøbaksund">
 <b>Drøbaksund</b> er Benævnelsen paa
 Kristianiafjordens trangeste Del mellem Drøbak og den
 ret udfor liggende Kaholmen, hvorpaa
@@ -47,13 +47,13 @@ Oscarsborg Fæstning ligger. Her gaar Sejladsen ind
 i Fjorden.
 <i>M. H.</i></chapter>
 
-<chapter name=”Drøbel”>
+<chapter name="Drøbel">
 <b>Drøbel,</b> se <sp>Gane</sp>.</chapter>
 
-<chapter name=”Drøbelklap”>
+<chapter name="Drøbelklap">
 <b>Drøbelklap,</b> d. s. s. <sp>Drosselklap</sp>.</chapter>
 
-<chapter name=”Drömling”>
+<chapter name="Drömling">
 <b>Drömling,</b> en skovbevokset Strækning i det
 preuss. Regeringsdistrikt Magdeburg, Provins
 Sachsen, ved Grænsen af Hannover og
@@ -70,7 +70,7 @@ en kejserlig Hær og 1642 fordrev en sv.
 Afdeling.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Drømme”>
+<chapter name="Drømme">
 <b>Drømme</b> er Sjælelivets Ytringer under den
 normale Søvn og søvnlignende Tilstande. Den
 normale Søvn er en Hviletilstand for Legemet

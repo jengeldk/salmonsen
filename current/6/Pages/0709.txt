@@ -7,7 +7,7 @@ Park, Væksthuse, Væddeløbsstald samt en stor
 Malerisamling.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eau”>
+<chapter name="Eau">
 <b>Eau</b> [o] (fr.), Vand, bruges som Betegnelse
 for forsk. Vædsker, der opr. fremstilledes ved
 Destillation af Plantedele med Alkohol, nu oftest
@@ -26,7 +26,7 @@ destillerede Cognak, <i>E. de Javelle</i> (s. d.) o. a.
 Se ogsaa <sp>E. de vie</sp>.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau-Claire”>
+<chapter name="Eau-Claire">
 <b>Eau-Claire</b> ['o<sub>u</sub>-k£æ.<sub>ə</sub>], By i U. S. A., Stat
 Wisconsin, ligger 130 km Ø. f. St Paul ved
 Chippewa River. (1910) 18310 Indb. E.-C. har talrige
@@ -34,14 +34,14 @@ Savmøller og en Del andre Fabrikker. I E.-C.
 lever mange Skandinaver.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Eau de Botot”>
+<chapter name="Eau de Botot">
 <b>Eau de Botot</b> [o-d-bå'to], forskellige Slags
 Mundvand, oftest indeholdende Alkohol,
 Cedertræolie, Nellikeolie, Myrra, Anisolie, Rosenolie
 og Pebermynteolie og farvet rød med Alkanna.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau de Cologne”>
+<chapter name="Eau de Cologne">
 <b>Eau de Cologne</b> [o-t-kå'lån<sub>j</sub>], Parfume, der
 angives først at være fremstillet af Italieneren
 <sp>Jean Maria Farina</sp>, som 1709 nedsatte sig
@@ -73,7 +73,7 @@ Neroli-Pétaleolie. 35 g Neroli-Bigaradeolie og 70 g
 Rosmarinolie.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau de Javelle”>
+<chapter name="Eau de Javelle">
 <b>Eau de Javelle</b> [o-d-зa'væl], en
 Blegevædske, opkaldt efter Javelle, der fremstillede den
 1792 i Paris. Opr. forstod man derved en
@@ -103,11 +103,11 @@ Desinfektion og Fjernelse af ilde Lugt fra stinkende
 Saar o. l.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau de Labarraque”>
+<chapter name="Eau de Labarraque">
 <b>Eau de Labarraque</b> ['o-d-laba'rak], se
 <sp>Eau de Javelle</sp>.</chapter>
 
-<chapter name=”Eau de Lavande”>
+<chapter name="Eau de Lavande">
 <b>Eau de Lavande</b> ['o-d-la'vã.d], en
 Parfume, der lugter af Lavendler. Som Eks. paa
 de talrige Opskrifter til dens Fremstilling kan
@@ -119,21 +119,21 @@ Rosenolie, Vanillin o. m. <i>E. d. L. ambré</i> indeholder
 tillige Moskus.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau de Luce”>
+<chapter name="Eau de Luce">
 <b>Eau de Luce</b> ['o-'d-lys], et Arkanum,
 bestaaende af en Opløsning af Ammoniumsuccinat
 oftest med et Indhold af Ammoniumkarbonat.
 Anbefales som nervestyrkende Middel o. m. a.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau de Miel”>
+<chapter name="Eau de Miel">
 <b>Eau de Miel</b> ['o-d-'m<sub>i</sub>æl], <sp>Honningvand</sp>,
 en Opløsning i fortyndet Alkohol af Honning,
 hvortil er sat lidt Borax ell. Potaske og
 Parfume. Bruges til Vaskning af Haarbunden.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau dentifrice”>
+<chapter name="Eau dentifrice">
 <b>Eau dentifrice</b> ['o-dãti'fris], forsk. Slags
 Mundvand, oftest indeholdende Alkohol,
 Benzoëharpiks, Tolubalsam o. l., Kanelolie, Nellikeolie,
@@ -141,7 +141,7 @@ Anisolie, Pebermynteolie, undertiden Garvesyre
 og et rødt Farvestof.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau de Quinine”>
+<chapter name="Eau de Quinine">
 <b>Eau de Quinine</b> ['o-d-ki'nin], forskellige
 Toiletmidler, særlig til Haarpleje. Bl. de mange
 Opskrifter kan anføres: 2 l Alkohol, 1 l
@@ -149,11 +149,11 @@ Glycerin, 100 g Eau de Cologne, 1 g Kininsulfat, 6 l
 Rosenvand, farves rødt med Alkanna.
 <i>K. M.</i></chapter>
 
-<chapter name=”Eau de vie”>
+<chapter name="Eau de vie">
 <b>Eau de vie</b> [o-'d-vi], fransk Betegnelse for
 Brændevin.</chapter>
 
-<chapter name=”Eauforte”>
+<chapter name="Eauforte">
 <b>Eauforte</b> [o'fårt]. Med Navnet E. (fr. »stærk
 Vædske«) betegnes i Modsætning til
 »Koldnaal« det Ætsemiddel, hvormed Kunstneren
@@ -167,7 +167,7 @@ Kunstner efter den latinske Form af det
 »Aquafortist«.
 <i>S. M.</i></chapter>
 
-<chapter name=”Eaux Bonnes”>
+<chapter name="Eaux Bonnes">
 <b>Eaux Bonnes</b> ['o-'bån], fr. Badested i
 Pyrenæerne, Dept Basses-Pyrénées, 790 m o. H.,
 40 km fra Pau. Det har varme Svovlkilder

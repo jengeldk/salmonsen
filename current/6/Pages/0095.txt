@@ -15,7 +15,7 @@ Poisson, Airy, Evans og Arcib Smith, samt af
 Danske: Lous, Tuxen, Fischer og Clausen.
 <i>H. E.</i></chapter>
 
-<chapter name=”Deviationsbøjer”>
+<chapter name="Deviationsbøjer">
 <b>Deviationsbøjer</b> (<sp>Søv</sp>.) er Bøjer, der i flere
 Havne er anbragte til Hjælp for Skibe, der
 skal undersøge Kompassets Deviation. Skibene
@@ -24,20 +24,20 @@ hvilke Retningerne til forsk. Landmærker
 forud er bestemte.
 <i>H. E.</i></chapter>
 
-<chapter name=”Deviationstabel”>
+<chapter name="Deviationstabel">
 <b>Deviationstabel,</b> se <sp>Deviation</sp>.</chapter>
 
-<chapter name=”Dévié”>
+<chapter name="Dévié">
 <b>Dévié</b> [de'v<sub>i</sub>e], tjenstlig Bemærkning i
 Telegrammer, der under Ledningsafbrydelser ell. af
 andre Aarsager omdirigeres ad anden Vej end
 den sædvanlige.
 <i>M. G.</i></chapter>
 
-<chapter name=”Deville, Ch.”>
+<chapter name="Deville, Ch.">
 <b>Deville</b> [d<sub>ö</sub>'vil], <sp>Ch.</sp>, se <sp>Sainte-Claire D</sp>.</chapter>
 
-<chapter name=”Deville-lès-Rouen”>
+<chapter name="Deville-lès-Rouen">
 <b>Deville-lès-Rouen</b> [d<sub>ö</sub>'vil-le-'rwã], By i det
 nordvestlige Frankrig, Dept Seine-Inférieure,
 Arrond. Rouen, 5 km NV. f. Rouen, hvortil den
@@ -45,7 +45,7 @@ i Virkeligheden er Forstad, har c. 6000 Indb.
 og Industri i Bomuld, Maskiner og Kemikalier.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Devillez, Louis Henry”>
+<chapter name="Devillez, Louis Henry">
 <b>Devillez</b> [d<sub>ö</sub>vi'je], <sp>Louis Henry</sp>, belgisk
 Billedhugger, f. 19. Juli 1855 i Mons, studerede
 særlig i Paris under Cavelier og blev en flittig
@@ -58,7 +58,7 @@ Dobbelt-Monum. over D.'s Fader og Guibal foran
 École des Mines i Mons.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Devilly, Théodore Louis”>
+<chapter name="Devilly, Théodore Louis">
 <b>Devilly</b> [dövi'ji], <sp>Théodore Louis</sp>, fr.
 Maler, f. 28. Oktbr 1818 i Metz, d. 24. Decbr
 1886 i Nancy, ved hvis Mus. han i Slutn. af
@@ -76,7 +76,7 @@ m. fl. Den fr.-tyske Krig gav ham ogsaa Stof
 til fl. Krigsbilleder.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Devils Thumb”>
+<chapter name="Devils Thumb">
 <b>Devils Thumb</b> ['dev£z-'þam] (Djævelens
 Tommelfinger), Grønlands Vestkyst, 74° 40' n.
 Br. og 57° v. L. f. Grw., en høj, fritstaaende
@@ -101,7 +101,7 @@ Björling 1891 bestemte den paa en Baadrejse
 N. efter fra Upernivik.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Devimahatmya”>
+<chapter name="Devimahatmya">
 <b>Devimahatmya</b> (<sp>Devi's Majestæt</sp>)
 kaldes Kap. 81-93 af
 <sp>Markandeya-Purana</sp> (udg. i denne i »Bibl. Indica«; særskilt
@@ -110,7 +110,7 @@ de nordindiske Durga-Dyrkeres vigtigste
 hellige Bog.
 <i>(S. S.} D. A.</i></chapter>
 
-<chapter name=”Devise”>
+<chapter name="Devise">
 <b>Devise</b> (fr., af lat. <i>dividere</i>, dele), i
 Riddertiden, da D. opkom, Betegnelse for en Sentens
 ell. et enkelt Ord i nøje Forbindelse med en

@@ -2,11 +2,11 @@ aaben Sø samt Anduvning og Besejling af de
 vigtigere Pladser.
 <i>H. E.</i></chapter>
 
-<chapter name=”Efterretningskontor”>
+<chapter name="Efterretningskontor">
 <b>Efterretningskontor,</b> se
 <sp>Oplysningskontor</sp>.</chapter>
 
-<chapter name=”Efterretningsvæsen”>
+<chapter name="Efterretningsvæsen">
 <b>Efterretningsvæsen</b> er Navnet paa en
 militær Organisation, hvis Maal er at
 tilvejebringe saa nøjagtige Oplysninger som muligt om
@@ -88,7 +88,7 @@ anvendes Chifferskrift. Ogsaa Brevduer kan spille en
 betydelig Rolle i E.'s Tjeneste.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Eftersendes”>
+<chapter name="Eftersendes">
 <b>Eftersendes</b> ell. F S (<i>faire suivre</i>), tjenstlig,
 gebyrpligtig Angivelse i Telegrammer, som efter
 Afsenderens Ønske skal eftersendes til
@@ -104,13 +104,13 @@ gebyrfri. Angivelse: <i>Eftersendelse betalt</i> ell. <i>Taxe
 perçue</i>.
 <i>M. G.</i></chapter>
 
-<chapter name=”efter Sigt”>
+<chapter name="efter Sigt">
 <b>efter Sigt,</b> se <sp>Avisoveksel</sp>.</chapter>
 
-<chapter name=”Efterskrivning af Navn”>
+<chapter name="Efterskrivning af Navn">
 <b>Efterskrivning af Navn,</b> se <sp>Falsk</sp>.</chapter>
 
-<chapter name=”Efterslag”>
+<chapter name="Efterslag">
 <b>Efterslag</b> betegner i Musikken to Arter af
 Forsiringer: 1) de Toner, der som Regel
 danner Afslutningen paa en alm. Trille, og som
@@ -130,7 +130,7 @@ Noder sættes foran Taktstregen, og ikke efter:
 <img></img>
 <i>S. L.</i></chapter>
 
-<chapter name=”Efterslægten, Selskabet for”>
+<chapter name="Efterslægten, Selskabet for">
 <b>Efterslægten, Selskabet for,</b> stiftedes i
 Kbhvn 4. Marts 1786 paa Foranledning af J.
 Cl. Tode, der i Fortrydelse var gaaet ud af

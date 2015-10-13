@@ -67,7 +67,7 @@ Kvinder.
 
 <img>En Del af en Echinococcus-Blære med Ynglekapsler.</img>
 
-<chapter name=”Echinoconus”>
+<chapter name="Echinoconus">
 <b>Echinoconus</b> [-ki-], en i Kridtformationen
 hyppig forekommende Slægt af kegleformede
 Echinider med Mundaabningen midt paa den
@@ -75,16 +75,16 @@ plane Underside og Gataabningen ligeledes paa
 Undersiden, men nær dennes Bagrand.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Echinocorys”>
+<chapter name="Echinocorys">
 <b>Echinocorys</b> [-ki-], d. s. s. <sp>Ananchytes</sp>.</chapter>
 
-<chapter name=”Echinodorus”>
+<chapter name="Echinodorus">
 <b>Echinodorus</b> [-ki-], se <sp>Søpryd</sp>.</chapter>
 
-<chapter name=”Echinokok”>
+<chapter name="Echinokok">
 <b>Echinokok</b> [-ki-], d. s. s. <sp>Echinococcus</sp>.</chapter>
 
-<chapter name=”Echinokoksygdom”>
+<chapter name="Echinokoksygdom">
 <b>Echinokoksygdom</b> [-ki-]. Herved forstaas
 enhver Lidelse, der fremkaldes ved
 Echinococcus, og Sygdommen kan altsaa hos Mennesker

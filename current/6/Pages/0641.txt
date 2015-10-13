@@ -55,10 +55,10 @@ mangelfuld Opfattelse af de trykte ell. skrevne
 Ord.
 <i>K. H. K.</i></chapter>
 
-<chapter name=”Dysluit”>
+<chapter name="Dysluit">
 <b>Dysluit,</b> se <sp>Spinel</sp>.</chapter>
 
-<chapter name=”Dyslysin”>
+<chapter name="Dyslysin">
 <b>Dyslysin,</b> C<sub>24</sub>H<sub>36</sub>O<sub>3</sub>, findes som
 Nedbrydningsprodukt i Galde og dannes af Cholsyre ved
 Ophedning ell. ved Behandling med Saltsyre,
@@ -67,7 +67,7 @@ uopløseligt i Vand og kold Alkohol, opløselig i
 Æther.
 <i>R. K.</i></chapter>
 
-<chapter name=”Dysmenorrhø”>
+<chapter name="Dysmenorrhø">
 <b>Dysmenorrhø</b> (gr.) kaldes de Smerter, der
 foraarsages af Menstruationsprocessen, særlig
 de Smerter, der kan henføres til Kønsorganerne.
@@ -120,11 +120,11 @@ af Betændelse i Slimhinden, og Behandlingen
 maa rettes derimod.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Dysmorfi”>
+<chapter name="Dysmorfi">
 <b>Dysmorfi</b> (gr.), mangelfuld Udvikling af et
 Lem ell. Organ, Misdannelse.</chapter>
 
-<chapter name=”Dysmorfosteopalinklast”>
+<chapter name="Dysmorfosteopalinklast">
 <b>Dysmorfosteopalinklast</b> (gr.), et gl.
 Instrument, beregnet paa at brække et efter Brud
 skævt sammenvokset Lem. Apparatet bestod i
@@ -137,10 +137,10 @@ af <sp>Osteoklasterne</sp> (s. d.), der væsentlig
 anvendes ved skævt voksede Lemmer.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dysodil”>
+<chapter name="Dysodil">
 <b>Dysodil,</b> se <sp>Brunkul</sp>.</chapter>
 
-<chapter name=”Dyson, Frank Watson”>
+<chapter name="Dyson, Frank Watson">
 <b>Dyson</b> ['da^isn], <sp>Frank Watson</sp>, eng.
 Astronom, f. 8. Jan. 1868 i Ashby,
 Lincolnshire, studerede i Cambridge, ansattes 1894
@@ -162,9 +162,9 @@ Stjernernes Egenbevægelse og publiceret i
 Fagtidsskrifter fl. betydelige Afh. herom.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Dysopsi”>
+<chapter name="Dysopsi">
 <b>Dysopsi</b> (gr.), d. s. s. <sp>daarligt Syn</sp>.</chapter>
 
-<chapter name=”Dysosmi”>
+<chapter name="Dysosmi">
 <b>Dysosmi</b> (gr.), sygelig Forandring af
 Lugteevnen, hyppigst som en Nedsættelse af denne,

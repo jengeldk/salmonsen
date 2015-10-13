@@ -19,13 +19,13 @@ Leucin (21,4 %), Alanin (6,6 %) og Fenylalanin
 langsommere end alle andre Æggehvidestoffer.
 <i>R. K.</i></chapter>
 
-<chapter name=”elastisk”>
+<chapter name="elastisk">
 <b>elastisk</b> (gr.) er et Legeme, der efter at
 have forandret Form ved ydre Paavirkning
 atter antager sin opr. Form, naar
 Paavirkningen ophører; spændstig.</chapter>
 
-<chapter name=”elastisk Bue”>
+<chapter name="elastisk Bue">
 <b>elastisk Bue</b> kaldes en saadan
 Buekonstruktion, til hvis Beregning de statiske
 Ligevægtsbetingelser ikke er tilstrækkelige, men
@@ -34,10 +34,10 @@ altsaa Buer uden ell. med kun to Charnierer,
 kontinuerlige Buer o. l. Se <sp>Broer</sp>.
 <i>A. O-d.</i></chapter>
 
-<chapter name=”elastisk Formforandring”>
+<chapter name="elastisk Formforandring">
 <b>elastisk Formforandring,</b> se <sp>Elasticitet</sp>.</chapter>
 
-<chapter name=”elastisk Linie”>
+<chapter name="elastisk Linie">
 <b>elastisk Linie</b> - ogsaa neutral Linie,
 Nedbøjningslinie - kaldes den Kurve, som
 angiver Formen af en Bjælkes Akse efter
@@ -46,10 +46,10 @@ den ubøjede Bjælkeakse, angiver
 Nedbøjningerne. Se <sp>Bøjning</sp>.
 <i>A. O-d.</i></chapter>
 
-<chapter name=”elastisk Væv”>
+<chapter name="elastisk Væv">
 <b>elastisk Væv,</b> se <sp>Væv</sp>.</chapter>
 
-<chapter name=”Elat”>
+<chapter name="Elat">
 <b>Elat</b> ['e.-], edomitisk By ved del nuværende
 Akabah (s. d.). Andre Navneformer er Elot, Ela
 og El Paran, senere Ajla. E.'s Beliggenhed i
@@ -70,7 +70,7 @@ forfaldet, skønt Pilgrimsvejen til Mekka gaar
 over den.
 <i>J. P.</i></chapter>
 
-<chapter name=”Elateia”>
+<chapter name="Elateia">
 <b>Elateia</b> [-'tæ^ia], den betydeligste Stad i det
 oldgræske Landskab Fokis, laa i Nærheden af
 Kefisos ved et af de vigtigste Passer, der fra
@@ -95,13 +95,13 @@ forhistorisk Tid, se <i>Sotiriadis</i> i <i>Revue des
 études grecques</i> 1912.
 <i>C. B.</i></chapter>
 
-<chapter name=”Elater, Elateridæ”>
+<chapter name="Elater, Elateridæ">
 <b>Elater, Elateridæ,</b> se <sp>Smældere</sp>.</chapter>
 
-<chapter name=”Elaterin”>
+<chapter name="Elaterin">
 <b>Elaterin,</b> se <sp>Elaterium</sp>.</chapter>
 
-<chapter name=”Elaterit”>
+<chapter name="Elaterit">
 <b>Elaterit</b> (<sp>elastisk Jordbeg</sp>,
 <sp>mineralsk Kautsjuk</sp>), et Mineral, der
 væsentlig bestaar af Kulbrinter (omtr. 85 %
@@ -112,7 +112,7 @@ Blygrube ved Castleton i Derbyshire, England, og
 i mindre Mængder paa fl. a. Steder.
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name=”Elaterium”>
+<chapter name="Elaterium">
 <b>Elaterium,</b> et tidligere meget anvendt,
 overordentlig heftig virkende afførende Stof, der
 bestaar af den udpressede og indtørrede Saft
@@ -126,23 +126,23 @@ Vand, letopløseligt i absolut Alkohol, Kloroform
 og Benzol.
 <i>K. M.</i></chapter>
 
-<chapter name=”Elaterium”>
+<chapter name="Elaterium">
 <b>Elaterium,</b> se <sp>Ecballium</sp>.</chapter>
 
-<chapter name=”Elaterometer”>
+<chapter name="Elaterometer">
 <b>Elaterometer,</b> d. s. s.
 <sp>Elasticitetsmaaler</sp>.</chapter>
 
-<chapter name=”Elatinaceæ”>
+<chapter name="Elatinaceæ">
 <b>Elatinaceæ,</b> se <sp>Bækarvefamilien</sp>.</chapter>
 
-<chapter name=”Elatine”>
+<chapter name="Elatine">
 <b>Elatine,</b> se <sp>Bækarve</sp>.</chapter>
 
-<chapter name=”Elaver”>
+<chapter name="Elaver">
 <b>Elaver,</b> se <sp>Allier</sp>.</chapter>
 
-<chapter name=”Elba”>
+<chapter name="Elba">
 <b>Elba</b> ['el-], ital. Ø i Middelhavet, den
 største af de saakaldte toskanske Øer mellem
 Korsika og Italien, der hører til Prov. Livorno.

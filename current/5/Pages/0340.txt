@@ -18,7 +18,7 @@ hans Død 1813. 1871 rejstes en Statue af ham i
 hans Fødeby.
 <i>K. S.-J.</i></chapter>
 
-<chapter name=”Csoma, Alexander”>
+<chapter name="Csoma, Alexander">
 <b>Csoma</b> ['t∫omå], <sp>Alexander</sp>, ung. rejsende
 Orientalist, f. 1798 i Transsilvanien, d. 11. Apr.
 1842. C., hvis Navn paa Ungarsk er Korosi
@@ -65,7 +65,7 @@ the Asiatic Society of Bengal</i>. (<sp>Litt</sp>.: <sp>Duka</sp>,
 1884]).
 <i>V. S.</i></chapter>
 
-<chapter name=”Csongrád”>
+<chapter name="Csongrád">
 <b>Csongrád</b> ['t∫oŋgra.d], Komitat i det
 mellemste Ungarn, paa begge Sider af Theiss,
 begrænset af Komitaterne Békés, Csanád,
@@ -89,12 +89,12 @@ har (1910) 25310 Indb., som især lever af Vinavl
 og Fiskeri.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Csurog”>
+<chapter name="Csurog">
 <b>Csurog</b> ['t∫urog], By i Ungarn, Komitatet
 Bács-Bodroy, ved Jernbanen Ó-Becse-Ujvidék,
 har (1910) 10184 serb. og magy. Indb.</chapter>
 
-<chapter name=”CTA”>
+<chapter name="CTA">
 <b>CTA,</b> telegrafisk Forkortelse for <i>conserver
 toutes adresses</i>, d. v. s. at hver enkelt Adressat
 i et Telegram, der er adresseret til fl. forsk.
@@ -103,38 +103,38 @@ Personer, skal have opgivet alle Adressaternes Navne.</chapter>
 <chapter name="Ct. Ct.">
 <b>Ct. Ct.,</b> se <sp>Konto Kurant</sp>.</chapter>
 
-<chapter name=”Cteniza”>
+<chapter name="Cteniza">
 <b>Cteniza</b> [kte-], se <sp>Minéredderkopper</sp>.</chapter>
 
-<chapter name=”Ctenobranchia”>
+<chapter name="Ctenobranchia">
 <b>Ctenobranchia</b> [kteno'braŋkia]
 (<sp>Pectinibranchia</sp>), se <sp>Forgællesnegle</sp> og <sp>Snegle</sp>.</chapter>
 
-<chapter name=”Ctenocampa”>
+<chapter name="Ctenocampa">
 <b>Ctenocampa</b> [kte-], se <sp>Spindere</sp>.</chapter>
 
-<chapter name=”Ctenodipterini”>
+<chapter name="Ctenodipterini">
 <b>Ctenodipterini</b> ['kte-], se <sp>Lungefisk</sp>.</chapter>
 
-<chapter name=”ctenoide”>
+<chapter name="ctenoide">
 <b>ctenoide</b> [kte-] Fiskeskæl er langs den bageste
 Rand forsynede med een ell. fl. Rækker fine
 tandagtige Spidser. Se <sp>Fisk</sp> og <sp>Skæl</sp>.
 <i>Ad. J.</i></chapter>
 
-<chapter name=”Ctenolabrus”>
+<chapter name="Ctenolabrus">
 <b>Ctenolabrus</b> [kte-], se <sp>Læbefisk</sp>.</chapter>
 
-<chapter name=”Ctenomys”>
+<chapter name="Ctenomys">
 <b>Ctenomys</b> ['kte'-], (<sp>Tucotuco</sp>), se <sp>Gravemus</sp>.</chapter>
 
-<chapter name=”Ctenophora”>
+<chapter name="Ctenophora">
 <b>Ctenophora</b> [kte'no'fora], se <sp>Ribbegopler</sp>.</chapter>
 
-<chapter name=”Ctenostomata”>
+<chapter name="Ctenostomata">
 <b>Ctenostomata</b> [kte-], se <sp>Mosdyr</sp>.</chapter>
 
-<chapter name=”CTP”>
+<chapter name="CTP">
 <b>CTP,</b> telegrafisk Forkortelse for <i>conserver
 taxe payée</i>, der med Tilføjelse af et Tal angiver
 det Antal Ord i et Telegram, for hvilket
@@ -143,22 +143,22 @@ Gebyr tilbagebetales Afsenderen som Følge af,
 at der er sket Fejl under Telegraferingen.
 <i>M. G.</i></chapter>
 
-<chapter name=”Ctr.”>
+<chapter name="Ctr.">
 <b>Ctr.,</b> Forkortelse af <sp>Centner</sp>.</chapter>
 
-<chapter name=”Cu”>
+<chapter name="Cu">
 <b>Cu,</b> kemisk Tegn for Kobber.</chapter>
 
-<chapter name=”Cuaba”>
+<chapter name="Cuaba">
 <b>Cuaba</b> ['k<sub>u</sub>awa], fint Gavntræ af forskellige
 Arter <i>Amyris</i> fra Kuba, kaldes undertiden
 <sp>Rosentræ</sp>.
 <i>K. M.</i></chapter>
 
-<chapter name=”Cuandu”>
+<chapter name="Cuandu">
 <b>Cuandu</b> (<i>Sphingurus</i>), se <sp>Gnaverpindsvin</sp>.</chapter>
 
-<chapter name=”Cuanza”>
+<chapter name="Cuanza">
 <b>Cuanza,</b> <sp>Coanza</sp>, Flod i det sydvestlige
 Afrika, kommer fra Søen Mussombo paa 13 1/2°
 sydlig Br. og løber først mod NØ., men
@@ -175,17 +175,17 @@ Paa en Ø i Mundingen ligger et gl. Fort, opr.
 bygget af Hollænderne.
 <i>C. A.</i></chapter>
 
-<chapter name=”Cuati”>
+<chapter name="Cuati">
 <b>Cuati</b> [sp. k<sub>u</sub>a'ti], amer. Navn for Næsebjørne.</chapter>
 
-<chapter name=”Cuatro”>
+<chapter name="Cuatro">
 <b>Cuatro</b> ['k<sub>u</sub>atr<sub>å</sub>], Skillemønt i Bolivia
 (saakaldet <i>Moneda feble</i>, svag Mønt) = 1/2 <i>Peso</i>
 ell. 4 <i>Realer</i>; Bruttovægt 13,4793 gr, Finhed 2/3,
 Indhold af fint Sølv 8,9862 gr.
 <i>(E. M.). Th. O.</i></chapter>
 
-<chapter name=”Cub”>
+<chapter name="Cub">
 <b>Cub</b> [kab], eng. = Hvalp, bruges i
 Pelsvarehandelen som Betegnelse for Skind af unge
 Dyr.

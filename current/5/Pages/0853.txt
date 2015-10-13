@@ -7,7 +7,7 @@ Jernbanebygning. En Del af Møderne afholdes
 derfor nu som Sektionsmøder.
 <i>A. O-d.</i></chapter>
 
-<chapter name=”Dansk Jagtforening”>
+<chapter name="Dansk Jagtforening">
 <b>Dansk Jagtforening</b> stiftedes 8. Juni 1884.
 Dens Formaal er at beskytte og forøge Landets
 Vildtbestand ved at skaffe Jagtlove og
@@ -34,7 +34,7 @@ Jagtudstillinger har D. J. arrangeret flg.: Kbhvn 1886,
 Odense 1900, Kbhvn 1913 og Malmö 1914.
 <i>S. F.</i></chapter>
 
-<chapter name=”Dansk Jagttidende”>
+<chapter name="Dansk Jagttidende">
 <b>Dansk Jagttidende</b> er udelukkende
 Medlemsblad for »Dansk Jagtforening«. Det første
 Nummer udkom 15. Juli 1884. Det redigeredes
@@ -47,7 +47,7 @@ humane Udøvelse, Jagtzoologi, Jagtjura m. m. haft
 stor Bet. for dansk Jagt.
 <i>S. F.</i></chapter>
 
-<chapter name=”Dansk Jurist”>
+<chapter name="Dansk Jurist">
 <b>Dansk Jurist</b> kaldes den, der har taget den
 saakaldte »juridiske Eksamen for Ustuderede«,
 hvilken Eksamen senest er ordnet ved Anrd.
@@ -56,7 +56,7 @@ Nr. 178 af 1. Decbr 1902 og Bekendtgørelse Nr.
 Eksamen</sp>).
 <i>E. T.</i></chapter>
 
-<chapter name=”Dansk Kirke-Mission i Arabien”>
+<chapter name="Dansk Kirke-Mission i Arabien">
 <b>Dansk Kirke-Mission i Arabien</b> (D. K. M.).
 Den protestantiske Mission i Arabien er kun en
 Menneskealder gl. Den begyndte med <sp>Jon

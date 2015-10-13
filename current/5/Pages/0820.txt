@@ -6,11 +6,11 @@ Se i øvrigt <sp>Ballet</sp>. (<sp>Litt</sp>.: <sp>Czervinsky</sp>,
 Teaterliv« [3 Dele, Kbhvn 1848, 1865, 1877]).
 <i>S. L.</i></chapter>
 
-<chapter name=”danse macabre”>
+<chapter name="danse macabre">
 <b>danse macabre</b> ['dã.s-ma'ka.br], se
 <sp>Dødedans</sp>.</chapter>
 
-<chapter name=”Dansemester”>
+<chapter name="Dansemester">
 <b>Dansemester,</b> egl. en lille af Urmagere
 brugt Passer, hvis Ben er forlængede ud over
 Omdrejningspunktet, saa at man med D. kan
@@ -25,7 +25,7 @@ Passer med de karakteristiske Fødder D., selv
 om den kun er til indvendig Maaling.
 <i>F. W.</i></chapter>
 
-<chapter name=”Dansemusik”>
+<chapter name="Dansemusik">
 <b>Dansemusik,</b> Musik, hvis Formaal
 hovedsagelig er at understøtte Dansen ved at
 markere Rytmen og stimulere de Dansende. Dens
@@ -103,7 +103,7 @@ Skuespil o. s. v., kan nævnes Beethoven
 Delibes, Gade og J. P. E. Hartmann.
 <i>S. L.</i></chapter>
 
-<chapter name=”Dansere”>
+<chapter name="Dansere">
 <b>Dansere</b> (<i>dansatores</i>, <i>chorisántes</i>) var
 sværmerske Almuesfolk, Mænd og Kvinder, der
 noget efter Svøbebrødrenes (s. d.) Fremkomst
@@ -120,14 +120,14 @@ den krampagtige Dansen. Deraf Udtrykket Skt.
 Veits-Dans.
 <i>H. O.</i></chapter>
 
-<chapter name=”Dansesyge”>
+<chapter name="Dansesyge">
 <b>Dansesyge,</b> d. s. s. <sp>Chorea</sp>.</chapter>
 
-<chapter name=”danseuse”>
+<chapter name="danseuse">
 <b>danseuse</b> [dã'sø.z] (fr.), Balletdanserinde, i
 Teatersproget særlig Solodanserinde.</chapter>
 
-<chapter name=”Danska klefven”>
+<chapter name="Danska klefven">
 <b>Danska klefven</b> [-'kle.v<sub>ə</sub>n], Hulvej i
 Bohuslän ved Søen Bullaren. Navnet opstod deraf, at
 den danske Høvedsmand paa Bohus, Otto Rud,
@@ -137,7 +137,7 @@ berygtede Julegilde paa Olsborgs Slot, hvor den
 sv. Besætning overmandedes.
 <i>A. M. D.</i></chapter>
 
-<chapter name=”Dansk Arbejde”>
+<chapter name="Dansk Arbejde">
 <b>Dansk Arbejde.</b> Herunder sammenfattes de
 i de senere Aar fremtrædende Bevægelser
 inden for Haandværk og Industri for at fremme

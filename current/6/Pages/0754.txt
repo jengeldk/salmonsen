@@ -12,7 +12,7 @@ Gutschmidt i <i>Mémoires de l'Acad. Imp. de
 St Pétersbourg</i> [Petrograd 1887]).
 <i>V. S.</i></chapter>
 
-<chapter name=”Edestin”>
+<chapter name="Edestin">
 <b>Edestin,</b> et krystalliserbart
 Planteæggehvidestof, nærmest hørende til Globulinerne, der
 udvindes af Hampefrø. Det er i Besiddelse af
@@ -27,7 +27,7 @@ teoretisk Interesse (særlig <sp>Obermayer</sp> &
 <sp>Pick</sp>).
 <i>O. T.</i></chapter>
 
-<chapter name=”Edfu”>
+<chapter name="Edfu">
 <b>Edfu</b> ['ed-], By i Øvre-Ægypten med omtr.
 20000 Indb., paa Nilens vestlige Bred, 109 km
 ndf. Katarakten og 780 km med Jernbanen S.
@@ -120,7 +120,7 @@ Allerhelligste, <i>B</i> og <i>C</i> Sale, <i>D</i>, <i>E</i> og
 Korridor, <i>a</i>, <i>b</i> Søjlegang, <i>c</i>, <i>d</i> Døre, <i>f</i>,
 <i>g</i>, <i>h</i>, <i>i</i>, <i>k</i> Omfangsmur).</img>
 
-<chapter name=”Edgar, angelsachsisk Konge”>
+<chapter name="Edgar, angelsachsisk Konge">
 <b>Edgar</b> (<sp>Eadgar</sp>) ['edgə eller 'edga<sub>a</sub>],
 angelsachsisk Konge, f. 944, d. 8. Juli 975, var
 yngre Søn af Kong Edmund; da Folket

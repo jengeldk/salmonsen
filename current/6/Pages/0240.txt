@@ -41,7 +41,7 @@ Udtrykket »stille til D.« og ogsaa jævnlig betegnes
 saaledes.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Disposition til et Orgel”>
+<chapter name="Disposition til et Orgel">
 <b>Disposition</b> til et Orgel, Udkast til ell.
 Anordning af et Orgelværk, særlig m. H. t.
 Antallet og Fordelingen af de forsk. Stemmer,
@@ -50,7 +50,7 @@ Indretninger. D. bruges ogsaa om den summariske
 Beskrivelse af et alt eksisterende Orgelværk.
 <i>S. L.</i></chapter>
 
-<chapter name=”Disposition (milit.)”>
+<chapter name="Disposition (milit.)">
 <b>Disposition</b> (<sp>milit</sp>.). Udkast ell. Plan for
 et Foretagende, ved hvilket de enkelte
 Troppedele faar meddelt den dem tilfaldende Opgave.
@@ -64,18 +64,18 @@ angives kort og bestemt uden Detailler
 (Marche-D., Fægtnings-D.).
 <i>B. P. B.</i></chapter>
 
-<chapter name=”dispositiones inter vivos”>
+<chapter name="dispositiones inter vivos">
 <b>dispositiones inter vivos</b> (lat.),
 Retshandeler i levende Live.</chapter>
 
-<chapter name=”dispositiones mortis causa”>
+<chapter name="dispositiones mortis causa">
 <b>dispositiones mortis causa</b> (lat.),
 Retshandeler, som først skal opfyldes efter den
 Retshandelen afsluttende Parts Død, se
 <sp>Testament</sp> og <sp>Dødsgave</sp>.
 <i>K. B.</i></chapter>
 
-<chapter name=”Dispositionsfond”>
+<chapter name="Dispositionsfond">
 <b>Dispositionsfond</b> [-'fån' ell. -'fåŋ] er
 Navnet paa saadanne Bevillinger i de politiske
 Samfunds - Statens og Kommunernes - Budgetter,
@@ -93,7 +93,7 @@ Rolle saavel i det tyske Rige som i dettes
 enkelte Stater.
 <i>C. T.</i></chapter>
 
-<chapter name=”Dispositionsmaksime”>
+<chapter name="Dispositionsmaksime">
 <b>Dispositionsmaksime,</b> den Grundsætning i
 Civilprocessen, at Parterne selv er raadige over
 Sagens Genstand, saaledes at Domstolene -
@@ -103,24 +103,24 @@ Parterne mere, end Vedk. selv har gjort Paastand
 paa.
 <i>E. T.</i></chapter>
 
-<chapter name=”dispositiv Arvepagt”>
+<chapter name="dispositiv Arvepagt">
 <b>dispositiv Arvepagt,</b> se <sp>Arvepagt</sp>.</chapter>
 
-<chapter name=”dispositiv Lov”>
+<chapter name="dispositiv Lov">
 <b>dispositiv Lov,</b> det samme som
 <sp>deklaratorisk Lov</sp>.</chapter>
 
-<chapter name=”Disproportion”>
+<chapter name="Disproportion">
 <b>Disproportion</b> (nylat.), Mangel paa Symmetri,
 Uforholdsmæssighed, Misforhold.</chapter>
 
-<chapter name=”Disput”>
+<chapter name="Disput">
 <b>Disput</b> [di'spyt] (lat., fr. <i>dispute</i>), Ordkamp,
 Ordskifte; <sp>disputabel</sp>, omtvistelig,
 omstridelig; <sp>disputere</sp>, stride, tage Del i en Disput,
 forsvare en Disputats (se <sp>Disputation</sp>).</chapter>
 
-<chapter name=”Disputa”>
+<chapter name="Disputa">
 <b>Disputa</b> (ital.) er det gængse Navn for en
 af Rafael's Fresker i Vatikanet (<i>Stanza della
 Segnatura</i>), Navnet - egl. <i>D. del Sacramento</i>
@@ -131,13 +131,13 @@ Forherligelse af den kristne Tro. Se endvidere
 <sp>Rafael</sp>.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”disputabel”>
+<chapter name="disputabel">
 <b>disputabel,</b> se <sp>Disput</sp>.</chapter>
 
-<chapter name=”Disputant”>
+<chapter name="Disputant">
 <b>Disputant,</b> se <sp>Disputation</sp>.</chapter>
 
-<chapter name=”Disputation”>
+<chapter name="Disputation">
 <b>Disputation</b> (lat., af <i>disputare</i>, afhandle).
 D., Ordkamp, navnlig en offentlig ført Ordstrid,
 under hvilken de Disputerende,

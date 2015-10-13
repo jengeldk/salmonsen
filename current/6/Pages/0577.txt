@@ -1,18 +1,18 @@
 <chapter name="Duxerkvæg">
 <b>Duxerkvæg,</b> se <sp>Kvægracer</sp>.</chapter>
 
-<chapter name=”Duxhoved”>
+<chapter name="Duxhoved">
 <b>Duxhoved,</b> rund Træklods med udborede
 Huller (i Sømandssproget en Jomfru). Bruges i
 Sejlskibe med Hampetovværk ved Ansætning
 (Stramning) af Stor- og Fokkestaget.
 <i>H. E.</i></chapter>
 
-<chapter name=”Duxit”>
+<chapter name="Duxit">
 <b>Duxit,</b> en mørkebrun, fossil Harpiks fra
 Brunkullene ved Dux i Böhmen.</chapter>
 
-<chapter name=”Duyse, Prudens van”>
+<chapter name="Duyse, Prudens van">
 <b>Duyse</b> [dö^ys<sub>ə</sub>], <sp>Prudens van</sp>, flamsk
 Digter og Historiker, f. i Dendermonde 17. Septbr
 1804, d. 13. Novbr 1859 som Stadsarkivar i
@@ -30,7 +30,7 @@ fortjenstfulde Afh. over sit Fædrelands Historie.
 (<sp>Litt</sp>.: <sp>Micheels</sp>, <i>P. van D.</i> [Gent 1893]).
 <i>A. I.</i></chapter>
 
-<chapter name=”Dvaita”>
+<chapter name="Dvaita">
 <b>Dvaita</b> (»Dualisme«), modsat <sp>Advaita</sp> (s.
 d.), i Indien den Teori, at Materien, de
 individuelle Sjæle og Gud fra Evighed til Evighed
@@ -43,7 +43,7 @@ Sange, forfattede af saakaldte <sp>dasa</sp>'er (Guds
 Kaster.
 <i>(S. S.). D. A.</i></chapter>
 
-<chapter name=”Dvale”>
+<chapter name="Dvale">
 <b>Dvale,</b> en Tilstand, hvor en Organismes
 Livsytringer er nedsatte til et Minimum ell. helt
 standsede; i sidste Tilfælde taler man om

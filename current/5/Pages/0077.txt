@@ -68,11 +68,11 @@ Klaversonater.
 
 <img>M. Clementi.</img></chapter>
 
-<chapter name = ”Clementi, Prospero”>
+<chapter name="Clementi, Prospero">
 <b>Clementi</b> [kle'mænti], <sp>Prospero</sp>, italiensk
 Billedhugger, se <sp>Spani</sp>.</chapter>
 
-<chapter name = ”Clementia”>
+<chapter name="Clementia">
 <b>Clementia</b> (lat.), »Mildhed«, hos Romerne
 personificeret som Gudinde. I den offentlige
 Kultus optoges C. efter Cæsar's Drab; der byggedes
@@ -87,7 +87,7 @@ Scepter, medens den anden holder en
 Offerskaal.
 <i>C. B.</i></chapter>
 
-<chapter name = ”Clementin, Niels Hjersing”>
+<chapter name="Clementin, Niels Hjersing">
 <b>Clementin</b>, <sp>Niels Hjersing</sp>, dansk
 Skuespiller, f. 1. Decbr 1721, d. 4. Jan. 1776. C., der
 var en Præstesøn fra Jylland, studerede Teologi
@@ -131,6 +131,6 @@ takker jeg C. for; han var mit Mønster« - uden
 for disse altid pligtopfyldende.
 <i>A. A.</i></chapter>
 
-<chapter name = ”Clementinerne”>
+<chapter name="Clementinerne">
 <b>Clementinerne</b> (latinsk <i>Clementinæ</i>, græsk
 <i>Klementia</i>), ogsaa kaldede Pseudoklementinerne,

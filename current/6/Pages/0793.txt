@@ -29,7 +29,7 @@ litterære Krav, der i Alm. stilles til denne
 Art af Litt.
 <i>J. Cl.</i></chapter>
 
-<chapter name=”Egeberg, Einar Westye”>
+<chapter name="Egeberg, Einar Westye">
 <b>Egeberg</b> ['e.g<sub>ə</sub>bærg], <sp>Einar Westye</sp>, norsk
 Forretningsmand, Leder af Firmaet Westye E.
 & Co. i Kria, f. 23. Juli 1851 smst. Dette Firma
@@ -85,7 +85,7 @@ Forening og indehavde andre offentlige og
 private Tillidshverv.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Egeberg, Theodor Christian”>
+<chapter name="Egeberg, Theodor Christian">
 <b>Egeberg</b> ['e.g<sub>ə</sub>bærg], <sp>Theodor
 Christian</sp>, norsk Læge, Søn af C. A. E., f. i Kria
 23. Febr 1847, d. 2. Juni 1915. Efter at E. 1872
@@ -105,10 +105,10 @@ Fremme af Orkester- og Kammermusikken i Kria og
 til humane Formaal.
 <i>J. S. J.</i></chapter>
 
-<chapter name=”Egebregne”>
+<chapter name="Egebregne">
 <b>Egebregne,</b> se <sp>Mangeløv</sp>.</chapter>
 
-<chapter name=”Egede, Christian Thestrup”>
+<chapter name="Egede, Christian Thestrup">
 <b>Egede,</b> <sp>Christian Thestrup</sp>, dansk
 Søofficer, f. 4. Novbr 1761, d. 17. Oktbr 1803,
 Søn af nedenn. P. E. Han blev Sekondløjtnant

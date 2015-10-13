@@ -8,7 +8,7 @@ Bredde er ved Mundingen 325 m og Dybden
 befares af Dampere indtil Barcs (151 km).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Drauge”>
+<chapter name="Drauge">
 <b>Drauge</b> [norsk 'drä^ug<sub>ə</sub>, isl. 'drö^igæ] (egl.
 »et Syn«, beslægtet med »Drøm«) bruges i Norsk
 og Oldnordisk som Navn paa Gengangere ell.
@@ -22,7 +22,7 @@ dette fortabt og kæntrer i det samme (jfr
 <sp>Dødssejleren</sp>).
 <i>A. O.</i></chapter>
 
-<chapter name=”Draumekvæde”>
+<chapter name="Draumekvæde">
 <b>Draumekvæde</b> ['drä^uma-], norsk Folkevise,
 handler om et Syn af den anden Verden, som
 en Ungersvend Olav Aasteson foregives at have
@@ -68,10 +68,10 @@ Munthe blev 1904 offentliggjort af »Foreningen
 for norsk Bogkunst«).
 <i>A. O.</i></chapter>
 
-<chapter name=”Draupne”>
+<chapter name="Draupne">
 <b>Draupne,</b> Odin's Ring, se <sp>Drypne</sp>.</chapter>
 
-<chapter name=”Drausensee”>
+<chapter name="Drausensee">
 <b>Drausensee</b> ['dra^uz<sub>ə</sub>nze.], en 10 km lang og
 4 km bred Sø paa Grænsen mellem Øst- og
 Vestpreussen, SØ. f. Byen Elbing. Gennem
@@ -83,18 +83,18 @@ Mundingsarm Nogat. Den har derfor en meget
 livlig Trafik.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dráva”>
+<chapter name="Dráva">
 <b>Dráva</b> ['dra.vå], se <sp>Drau</sp>.</chapter>
 
-<chapter name=”Dravat”>
+<chapter name="Dravat">
 <b>Dravat</b> (af fransk <i>travade</i>), Kastevind, særlig
 med Torden ell. Regn. I overført Bet. en
 Overhaling.</chapter>
 
-<chapter name=”Dravida”>
+<chapter name="Dravida">
 <b>Dravida,</b> se <sp>Dravider</sp>.</chapter>
 
-<chapter name=”Dravider”>
+<chapter name="Dravider">
 <b>Dravider</b> (Sanskrit <sp>Dravida</sp>), Navn paa
 en Folkestamme, som er udbredt over det meste
 af det sydlige Indien, Landet S. f.
@@ -131,7 +131,7 @@ snævrere Forstand ell. om disse og Malayali
 tilsammen.
 <i>(S. S.). D. A.</i></chapter>
 
-<chapter name=”Dravidiske Sprog”>
+<chapter name="Dravidiske Sprog">
 <b>Dravidiske Sprog,</b> de af Draviderne i
 Indien (c. 46 Mill.) talte Sprogarter, som i
 linguistisk Henseende udgør en særlig

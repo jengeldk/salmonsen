@@ -1,20 +1,20 @@
-<chapter name=” drevet Arbeide”>
+<chapter name=" drevet Arbeide">
 <b>drevet Arbeide,</b> Arbejde, forfærdiget ved
 Drivning (s. d.).</chapter>
 
-<chapter name=”Drevfil”>
+<chapter name="Drevfil">
 <b>Drevfil</b> ell. <sp>Flankérfil</sp>, lille Fil med
 kileformet Tværsnit, bruges af Urmageren ved
 Tildannelsen af Tænderne paa Drev.
 <i>F. W.</i></chapter>
 
-<chapter name=”Drevjen”>
+<chapter name="Drevjen">
 <b>Drevjen,</b> Eksercerplads for 14.
 Infanteriregiment af 6. Division, ligger i Vefsen Herred,
 Nordlands Amt, Norge.
 <i>M. H.</i></chapter>
 
-<chapter name=”Drevljaner”>
+<chapter name="Drevljaner">
 <b>Drevljaner</b> (<sp>Derevljaner</sp> ɔ:
 »Skovbeboere«) er Navnet paa en russ. Stamme, der
 hyppig omtales i de ældste russ. Krøniker og
@@ -32,14 +32,14 @@ Afhængighed af Kijev. Senere forsvinder Navnet D.
 i de russ. Krøniker.
 <i>(K. V.). L. K.</i></chapter>
 
-<chapter name=”Drevstaal”>
+<chapter name="Drevstaal">
 <b>Drevstaal,</b> Dessintraad med 6, 7, 8, 10 ell.
 12 Længderiller, hvorved Tværsnittet bliver som
 et lille Drevs, som Urmageren forfærdiger ved
 at stikke Traaden over til Skiver.
 <i>F. W.</i></chapter>
 
-<chapter name=”Drewenz”>
+<chapter name="Drewenz">
 <b>Drewenz</b> ['dre.v<sub>ə</sub>nts], 238 km lang Biflod til
 Weichsel, udspringer paa Hohenstein-Plateauet
 i Østpreussen, løber forbi Osterode, hvor den
@@ -51,7 +51,7 @@ Weichsels højre Bred. D.-Søen staar i
 Forbindelse med Elbing-Oberländischer Kanal.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Drewsen, Christian”>
+<chapter name="Drewsen, Christian">
 <b>Drewsen,</b> <sp>Christian</sp>, dansk
 Industridrivende og Naturkyndig, Søn af nedenn. J. C. D.,
 f. 30. Aug. 1799 paa Strandmøllen ved Kbhvn,
@@ -78,7 +78,7 @@ sin store Insektsamling skænkede han til Univ.'s
 zool. Mus.
 <i>(C. N.). R. B.</i></chapter>
 
-<chapter name=”Drewsen, Hans Christian”>
+<chapter name="Drewsen, Hans Christian">
 <b>Drewsen,</b> <sp>Hans Christian</sp>, dansk
 Industridrivende, nedenn. J. C. D.'s Brodersøn, f. 18.
 Marts 1823 paa Borupgaard ved Helsingør, d.
@@ -93,7 +93,7 @@ Retning.
 <i>(C. N). R. B.</i>
 </chapter>
 
-<chapter name=”Drewsen, Johan Christian”>
+<chapter name="Drewsen, Johan Christian">
 <b>Drewsen,</b> <sp>Johan Christian</sp>, dansk
 Landøkonom, Industridrivende og Politiker, f.
 23. Decbr 1777 paa Strandmøllen, d. 25. Aug.

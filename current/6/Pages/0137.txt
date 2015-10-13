@@ -7,14 +7,14 @@ En Varietet <i>D. F. fl. rubra</i> har rosenrøde
 Blomster med mørkere Striber.
 <i>L. H.</i></chapter>
 
-<chapter name=”dictionnaire”>
+<chapter name="dictionnaire">
 <b>dictionnaire</b> [diks<sub>i</sub>å'næ.r] (fr.), Ordbog;
 Leksikon.</chapter>
 
-<chapter name=”dicto anno”>
+<chapter name="dicto anno">
 <b>dicto anno,</b> se <sp>dictum</sp>.</chapter>
 
-<chapter name=”dictum”>
+<chapter name="dictum">
 <b>dictum</b> (lat., Ft. <i>dicta</i>), Udsagn, Ord; <i>d.
 biblicum</i>, Bibelsprog; <i>d. classicum</i>, Hovedsted,
 vigtigste Udtalelse om en Ting; <i>dicta
@@ -24,10 +24,10 @@ ovennævnt; <i>dicto anno</i>, <i>dicto die</i>, i det nævnte Aar,
 paa den nævnte Dag (afkortet <i>d. a.</i>, <i>d. d.</i>).
 <i>A. B. D.</i></chapter>
 
-<chapter name=”dictum factum”>
+<chapter name="dictum factum">
 <b>dictum factum</b> (lat.), som sagt saa gjort.</chapter>
 
-<chapter name=”Dictyograptus”>
+<chapter name="Dictyograptus">
 <b>Dictyograptus</b> ell. <sp>Dictyonema</sp> kaldes
 en Slægt af Graptoliter, som danner
 kræmmerhusformede Kolonier. Disse bestaar af fl.
@@ -42,13 +42,13 @@ Bornholm og i Sverige), men Slægten kan
 følges lige til Stenkulperiodens ældste Afsnit.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Dictyosiphon”>
+<chapter name="Dictyosiphon">
 <b>Dictyosiphon,</b> se <sp>Alger</sp> S. 496.</chapter>
 
-<chapter name=”Dictyotaceæ”>
+<chapter name="Dictyotaceæ">
 <b>Dictyotaceæ,</b> se <sp>Alger</sp> S. 496.</chapter>
 
-<chapter name=”Dicyanin”>
+<chapter name="Dicyanin">
 <b>Dicyanin,</b> grønne, metalglinsende Krystaller,
 der fremstilles ved Indvirkning af Kalihydrat
 paa en alkoholisk Opløsning af et
@@ -59,7 +59,7 @@ fotografiske Spektraloptagelser, da det
 sensibiliserer lige til Linie <i>a</i>.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Dicyemidæ”>
+<chapter name="Dicyemidæ">
 <b>Dicyemidæ,</b> en Afdeling af smaa (2-5 mm
 lange), meget lavtstaaende,
 ormformede Væsener, som lever i
@@ -120,13 +120,13 @@ medfører.
 <img>
 <i>Dicyema paradoxum</i> med ormformet Foster.</img></chapter>
 
-<chapter name=”dicyklisk”>
+<chapter name="dicyklisk">
 <b>dicyklisk</b> (gr.) (<sp>bot</sp>.), toaarig.</chapter>
 
-<chapter name=”Dicynodonter”>
+<chapter name="Dicynodonter">
 <b>Dicynodonter,</b> se <sp>Anomodontia</sp>.</chapter>
 
-<chapter name=”Dicypellium Nees.”>
+<chapter name="Dicypellium Nees.">
 <b>Dicypellium</b> Nees., Slægt af Laurbærfam.
 med en enkelt Art, <i>D. caryophyllatum</i> (Mart.)
 Nees fra Brasilien. Træ med aflange og langt
@@ -142,7 +142,7 @@ Parfumering. Veddet (<sp>Rosentræ</sp>) benyttes til
 finere Snedkerarbejder.
 <i>A. M.</i></chapter>
 
-<chapter name=”Didache”>
+<chapter name="Didache">
 <b>Didache</b> [-'ke'] (græsk διδαχή των δώδεκα
 Αποστόλων, de tolv Apostles Lære, med
 Undertitlen »Herrens Lære til Hedningerne ved de

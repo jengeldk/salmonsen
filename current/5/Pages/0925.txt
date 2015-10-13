@@ -15,7 +15,7 @@ John Davis, the Navigator</i>. Udgivet af A. H.
 Markham [London 1880]).
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Davis. Nathan”>
+<chapter name="Davis. Nathan">
 <b>Davis</b> ['de<sub>i</sub>v<sub>i</sub>s], <sp>Nathan</sp>, eng. Orientalist
 og Oldgransker, f. 1812, d. 6. Jan. 1882 i Firenze,
 lagde sig tidlig efter Arabisk og Hebraisk,
@@ -41,7 +41,7 @@ i <i>Ruined cities within Numidian and
 Carthaginian territories</i>.
 <i>V. S.</i></chapter>
 
-<chapter name=”Davis, William Morris”>
+<chapter name="Davis, William Morris">
 <b>Davis</b> ['de<sub>i</sub>v<sub>i</sub>s], <sp>William Morris</sp>,
 nordamerikansk Geolog og Meteorolog, f. 1850 i
 Philadelphia. D. studerede Naturvidenskab og
@@ -62,7 +62,7 @@ Geography</i> (1899) samt <i>The Geographical Cycle</i>
 (1899).
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Davis-Kvadrant”>
+<chapter name="Davis-Kvadrant">
 <b>Davis-Kvadrant</b> ['de<sub>i</sub>v<sub>i</sub>s-], der lige til
 Midten af 18. Aarh. brugtes til Søs ved Siden af
 Jakobsstaven for at maale Solens Højde, men
@@ -90,7 +90,7 @@ den søgte Solhøjde.
 <i>J. Fr. S.</i></chapter>
 
 <img>Davis-Kvadrant</img>
-<chapter name=”Davison, John”>
+<chapter name="Davison, John">
 <b>Davison</b> ['de<sub>i</sub>v<sub>i</sub>s<sub>ə</sub>n], <sp>John</sp> (1857-1909), eng.
 Digter, f. og opdraget i Skotland. 1886 udkom
 hans første Drama: <i>Bruce</i>. 1890 kom han til
@@ -110,7 +110,7 @@ Samlinger, gør undertiden hans Digte mindre
 tilgængelige.
 <i>I. O.</i></chapter>
 
-<chapter name=”Davis-Strædet”>
+<chapter name="Davis-Strædet">
 <b>Davis-Strædet</b> ['de<sub>i</sub>v<sub>i</sub>s-] fører fra den
 nordvestlige Del af Atlanterhavet ind i
 Baffins-Bugten mellem Grønland og Baffin Land. Den
@@ -128,7 +128,7 @@ opdagedes af og er senere opkaldt efter den eng.
 Søfarer John Davis.
 <i>M. V.</i></chapter>
 
-<chapter name=”Davitt, Michael”>
+<chapter name="Davitt, Michael">
 <b>Davitt</b> ['de<sub>i</sub>v<sub>i</sub>t eller 'däv<sub>i</sub>t], <sp>Michael</sp>, irsk
 Agitator (1840-1906), var som Barn Vidne til, at
 hans Forældre 1852 udsattes af deres

@@ -12,17 +12,17 @@ dadlende Bet.: svulstig Tale, Ordbram. Det
 tilsvarende Verbum er <sp>deklamere</sp>.
 <i>S. L.</i></chapter>
 
-<chapter name=”Deklamatorium”>
+<chapter name="Deklamatorium">
 <b>Deklamatorium,</b> Kunstforedrag af et
 digterisk Arbejde, en Foranstaltning, en
 Sammenkomst, ved hvilken et saadant Foredrag finder
 Sted.
 <i>S. L.</i></chapter>
 
-<chapter name=”deklamere”>
+<chapter name="deklamere">
 <b>deklamere,</b> se <sp>Deklamation</sp>.</chapter>
 
-<chapter name=”Deklaration”>
+<chapter name="Deklaration">
 <b>Deklaration</b> (lat.), Erklæring,
 Tilkendegivelse, Angivelse (til Toldvæsenet af Varer, som
 skal passere Toldgrænsen, se
@@ -49,10 +49,10 @@ Barn legitimeres o. s. v. D. kan være saavel
 ensidige som gensidige.
 <i>E. T.</i></chapter>
 
-<chapter name=”Deklarationscertifikat”>
+<chapter name="Deklarationscertifikat">
 <b>Deklarationscertifikat,</b> se <sp>Certifikat</sp>.</chapter>
 
-<chapter name=”deklaratorisk Lov”>
+<chapter name="deklaratorisk Lov">
 <b>deklaratorisk Lov.</b> I Modsætning til de
 Love, der for at opnaa det Formaal, de tilsigter,
 maa gælde som ufravigelige (f. Eks. Love om
@@ -86,18 +86,18 @@ Tvangsarveret modificeret ved Reglen om
 renunciative Arvepagter.
 <i>E. T.</i></chapter>
 
-<chapter name=”deklarere”>
+<chapter name="deklarere">
 <b>deklarere</b> (lat.), forklare, erklære,
 bekendtgøre, offentliggøre (f. Eks. en Forlovelse), smlg.
 <sp>Deklaration</sp> og <sp>Tolddeklaration</sp>.</chapter>
 
-<chapter name=”deklinabel”>
+<chapter name="deklinabel">
 <b>deklinabel</b> (lat.), bøjelig, som kan bøjes.</chapter>
 
-<chapter name=”Deklination (fys)”>
+<chapter name="Deklination (fys)">
 <b>Deklination</b> (<sp>fys</sp>.), se <sp>Magnetisme</sp>.</chapter>
 
-<chapter name=”Deklination (astr.)”>
+<chapter name="Deklination (astr.)">
 <b>Deklination</b> (<sp>astr.</sp>) er en Stjernes Afstand
 fra Ækvator, maalt paa den gennem begge
 Poler og Stjernen lagte Storcirkel, der benævnes
@@ -115,7 +115,7 @@ derimod Højden <i>h</i> maalt ved Stjernens nedre
 Kulmination, er D. = 90° - <i>p</i> + <i>h</i> (se <sp>Bredde</sp>).
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Deklination (sprogl.)”>
+<chapter name="Deklination (sprogl.)">
 <b>Deklination</b> (<sp>sprogl.</sp>) er i Grammatikken
 Benævnelse paa Kasusbøjning. I Oldtiden
 anvendtes D. om alle Slags lydlige Forandringer
@@ -125,37 +125,37 @@ om Komparation og om Afledning. Det
 tilsvarende Verbum er <sp>deklinere</sp>.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”Deklinationscirkel”>
+<chapter name="Deklinationscirkel">
 <b>Deklinationscirkel,</b> se <sp>Deklination</sp> og
 <sp>Ækvatorial</sp>.</chapter>
 
-<chapter name=”Deklinationsnaal, Deklinatorium”>
+<chapter name="Deklinationsnaal, Deklinatorium">
 <b>Deklinationsnaal, Deklinatorium,</b> se
 <sp>Magnetisme</sp>.</chapter>
 
-<chapter name=”deklinere”>
+<chapter name="deklinere">
 <b>deklinere,</b> se <sp>Deklination</sp> (sprogl.).</chapter>
 
-<chapter name=”Dekokt”>
+<chapter name="Dekokt">
 <b>Dekokt,</b> se <sp>Afkog</sp>.</chapter>
 
-<chapter name=”dekolleteret”>
+<chapter name="dekolleteret">
 <b>dekolleteret</b> (fr., af <i>collet</i>, Halskrave), med
 blottet Hals og Skuldre, nedringet.</chapter>
 
-<chapter name=”dekolorere”>
+<chapter name="dekolorere">
 <b>dekolorere</b> (lat.), affarve, falme;
 <sp>Dekoloration</sp>, Affarvning, Falmethed.</chapter>
 
-<chapter name=”Dekomposition”>
+<chapter name="Dekomposition">
 <b>Dekomposition</b> (lat.), et Legemes Opløsning
 i dets Bestanddele, Sønderdeling. Det
 tilsvarende Verbum er <sp>dekomponere</sp>.</chapter>
 
-<chapter name=”dekomptere”>
+<chapter name="dekomptere">
 <b>dekomptere,</b> se <sp>décompte</sp>.</chapter>
 
-<chapter name=”Dekoration”>
+<chapter name="Dekoration">
 <b>Dekoration</b> (lat.) betyder enhver som helst
 Udsmykning af en Genstand ell. en Bygning, der
 ikke nødvendigt udledes af dennes Funktion.

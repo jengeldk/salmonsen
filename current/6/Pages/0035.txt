@@ -42,7 +42,7 @@ her som ved andre Univ. (<sp>Litt</sp>.: <sp>H. Rørdam</sp>,
 [Kbhvn 1868-75]).
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Depositionssted”>
+<chapter name="Depositionssted">
 <b>Depositionssted.</b> Efter dansk Ret er
 Nationalbanken »det eneste autoriserede Sted, hvor
 saavel offentlige som private
@@ -57,22 +57,22 @@ i Reglement for Nationalbanken, stadfæstet 22.
 Juni 1908).
 <i>E. T.</i></chapter>
 
-<chapter name=”Depositokassen”>
+<chapter name="Depositokassen">
 <b>Depositokassen,</b> se <sp>Bank</sp>, S. 628.</chapter>
 
-<chapter name=”Depositor”>
+<chapter name="Depositor">
 <b>Depositor</b> (lat.), d. s. s. <sp>Deponent</sp>, den
 der giver en anden noget i Forvaring.</chapter>
 
-<chapter name=”Depositorium”>
+<chapter name="Depositorium">
 <b>Depositorium,</b> Opbevaringssted, Lokale til
 Opbevaring af betroet Gods, Dokumentskab, Arkiv.</chapter>
 
-<chapter name=”Depositum”>
+<chapter name="Depositum">
 <b>Depositum</b> (lat.), det i Forvaring givne (se
 <sp>deponere</sp>).</chapter>
 
-<chapter name=”depossedere”>
+<chapter name="depossedere">
 <b>depossedere</b> (fr.), sætte en ud af
 Besiddelse; fortrænge en Fyrste fra hans Rige;
 <sp>depossederede</sp> er saaledes Betegnelse bl. a.
@@ -81,7 +81,7 @@ mistede deres Lande, og for de tyske Fyrster,
 der 1866 blev satte fra Regeringen som Følge
 af de preuss. Anneksioner.</chapter>
 
-<chapter name=”Depot”>
+<chapter name="Depot">
 <b>Depot</b> (fr. <i>dépôt</i>), Oplagssted, Magasin, det
 nedlagte, betroede (smlg. <sp>Bank</sp>, S. 620). -
 Særlig i <sp>milit</sp>. Bet.: Ophobning af personelle
@@ -101,7 +101,7 @@ Ingeniører, <sp>Inventarie-D.</sp>, <sp>Train-D.</sp>,
 <sp>Sanitets-D.</sp> o. s. v.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”dépôt de la guerre”>
+<chapter name="dépôt de la guerre">
 <b>dépôt de la guerre</b> [de'po-d-la-'gæ.r]
 oprettedes 1688 af Krigsminister Louvois under
 Navn af <i>archives du ministère</i>. Man samlede
@@ -139,7 +139,7 @@ Generalstaben. I Belgien findes ogsaa et <i>d. d. l. g.</i> med
 lgn. Opgaver.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Depotkommandør”>
+<chapter name="Depotkommandør">
 <b>Depotkommandør</b> kaldes i Danmark den
 Kaptajn, der er ansat ved Regimentsstaben
 umiddelbart under Regimentschefen. Han
@@ -149,7 +149,7 @@ Mobiliseringsforberedelse. I Krigstid overtager
 han Befalingen over Regimentets Depot.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Depotplads”>
+<chapter name="Depotplads">
 <b>Depotplads</b> bruges som Betegnelse for de
 Fæstninger, der tjener til Opbevaring og
 Tilvejebringelse af Krigsmateriel af enhver Art,
@@ -158,6 +158,6 @@ Jernbanenettet ikke er saa udviklet, at det kan
 overtage Felthærens Forsyning fra Hjemlandet.
 <i>Sch. P.</i></chapter>
 
-<chapter name=”Depotskib”>
+<chapter name="Depotskib">
 <b>Depotskib,</b> et Skib, hvori der opbevares
 Reservemateriel, Proviant m. m. til en

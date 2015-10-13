@@ -2,7 +2,7 @@ D. danner Overgang til <sp>Drejemaskiner</sp>,
 til hvilke for øvrigt henvises.
 <i>F. W.</i></chapter>
 
-<chapter name=”Drejeevne”>
+<chapter name="Drejeevne">
 <b>Drejeevne.</b> Et Skibs D. er dets Evne til
 hurtig at kunne foretage en Drejning. Den maales
 ved Diameteren af den Cirkellinie, Skibet
@@ -34,7 +34,7 @@ Smaafartøjer og fra 5-10 Gange denne Længde for
 større Skibe.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Drejehage”>
+<chapter name="Drejehage">
 <b>Drejehage,</b> Drejestaal med et c. 600 mm
 langt Skaft, anvendes til at dreje tykke
 Spaaner af større Genstande af Metal. Selve Staalet
@@ -47,7 +47,7 @@ anvendes <sp>Skrubhage</sp>, <sp>Slethage</sp> ell.
 <sp>Spidshage</sp>.
 <i>F. W.</i></chapter>
 
-<chapter name=”Drejekors”>
+<chapter name="Drejekors">
 <b>Drejekors</b> bruges som selvlukkende
 Spærreindretning ved Niveauovergange over en
 Jernbane. Det bestaar af en lodret Stolpe, der
@@ -71,7 +71,7 @@ Eks. hvor der haves Ekspropriationshjemmel
 som Følge af et Dobbeltsporanlæg.
 <i>J. F.</i></chapter>
 
-<chapter name=”Drejekurve”>
+<chapter name="Drejekurve">
 <b>Drejekurve,</b> jernbaneteknisk Betegnelse for
 et Sporsystem, hvorved Lokomotiver, Vogne ell.
 hele Tog kan vendes - uden Brug af Drejeskive
@@ -106,7 +106,7 @@ Fig. 1.</img>
 <img>
 Fig. 2.</img>
 
-<chapter name=”Drejemaskine”>
+<chapter name="Drejemaskine">
 <b>Drejemaskine</b> indbefatter i videre Forstand
 enhver til Drejning bestemt Maskine, altsaa
 saavel Drejestol som Drejebænk; særlig

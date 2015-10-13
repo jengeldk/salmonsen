@@ -72,24 +72,24 @@ Blækfabrikationen, i Farmacien,
 Sukkervarefabrikationen m. m.
 <i>K. M.</i></chapter>
 
-<chapter name=”Dekstrinsirup”>
+<chapter name="Dekstrinsirup">
 <b>Dekstrinsirup,</b> se <sp>Dekstrin</sp>.</chapter>
 
-<chapter name=”Dekstrokardi”>
+<chapter name="Dekstrokardi">
 <b>Dekstrokardi,</b> se <sp>Situs inversus</sp>.</chapter>
 
-<chapter name=”Dekstronsyre”>
+<chapter name="Dekstronsyre">
 <b>Dekstronsyre,</b> se <sp>Glukonsyre</sp>.</chapter>
 
-<chapter name=”Dekstrose”>
+<chapter name="Dekstrose">
 <b>Dekstrose,</b> d. s. s. <sp>Glykose</sp>.</chapter>
 
-<chapter name=”dekupere”>
+<chapter name="dekupere">
 <b>dekupere</b> (fr.), sønderlemme, skære itu,
 udskære Billeder (i Træ, Pap etc.). <sp>Dekupør</sp>,
 den der udskærer (udklipper) saadanne Billeder.</chapter>
 
-<chapter name=”Dekupørarbejde”>
+<chapter name="Dekupørarbejde">
 <b>Dekupørarbejde,</b> Indlægning ell.
 ornamental <sp>Finering</sp> (s. d.), af fr. <i>découper</i>,
 sønderskære. bruges paa fine Møbler og andre
@@ -140,7 +140,7 @@ Rokokoen og Louis-XVI-Stilen i Frankrig (jfr.
 Empiremøbler brugtes D. i ret stor Udstrækning.
 <i>(F. W.). C. A. J.</i></chapter>
 
-<chapter name=”Dekupørsav”>
+<chapter name="Dekupørsav">
 <b>Dekupørsav,</b> en Svejf sav, som modsat
 Løvsaven, der føres med Haanden, har en
 Maskinstilling, ved hvilken den føres lodret op og ned

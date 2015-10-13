@@ -44,7 +44,7 @@ Scotland</i> II [Edinburgh 1905]; <sp>A. Lang</sp>, <i>Hist. of
 Scotland</i> I [Edinburgh 1900]).
 <i>L. K.</i></chapter>
 
-<chapter name=”David, Armand”>
+<chapter name="David, Armand">
 <b>David</b> [da'vid], <sp>Armand</sp>, fr. Missionær og
 Rejsende (1831-98). Han drog 1861 som
 Missionær til Kina og har i denne Egenskab
@@ -58,7 +58,7 @@ naturelle</i> (1866 og 1868-78), dels i Bogform,
 l'empire chinois</i> (1875).
 <i>C. A.</i></chapter>
 
-<chapter name=”David, Christian”>
+<chapter name="David, Christian">
 <b>David</b> ['da.vi.t], <sp>Christian</sp>, tysk
 Missionær, f. 1690, d. 1751, Tømmermand af
 Profession, Leder af de herrnhutiske Missionærer, som
@@ -118,7 +118,7 @@ Fenger</sp>, »Hans Egede og den grønlandske
 Missions Historie 1721-60« [Kbhvn 1879]).
 <i>G. F. H.</i></chapter>
 
-<chapter name=”David, Christian Georg Nathan”>
+<chapter name="David, Christian Georg Nathan">
 <b>David,</b> <sp>Christian Georg Nathan</sp>,
 dansk Politiker og Nationaløkonom, f. i Kbhvn
 16. Jan. 1793, af jød. Forældre,

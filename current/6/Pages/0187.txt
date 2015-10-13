@@ -4,7 +4,7 @@ haves i <i>Tebtunis Papyri</i> (London 1902). Udgivet af
 Meister (1872).
 <i>K. H.</i></chapter>
 
-<chapter name=”Dilaceration”>
+<chapter name="Dilaceration">
 <b>Dilaceration</b> (lat), Sønderrivning, den
 Læsionsform, hvorved Bløddele rives fra
 hverandre enten ved Indvirkning af et ell. andet
@@ -15,11 +15,11 @@ gennem Fødselsvejen; her tales dog oftere om
 Sprængning, Ruptur.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”dilacererede Saar”>
+<chapter name="dilacererede Saar">
 <b>dilacererede Saar,</b> d. s. s. sønderrevne
 Saar (se <sp>Saar</sp>)',</chapter>
 
-<chapter name=”Dilatation”>
+<chapter name="Dilatation">
 <b>Dilatation</b> (lat.), Udvidning, kaldes 1) i
 Kirurgien de Operationsmaader, hvorved man
 søger at udvide en forsnævret Kanal til den
@@ -43,7 +43,7 @@ hyppigst bag ved en Forsnævring, f. Eks. D. af
 Tarmen, Mavesækken, Blæren, Hjertet.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dilatationsblik”>
+<chapter name="Dilatationsblik">
 <b>Dilatationsblik,</b> <sp>Skinneblik</sp>, er
 Benævnelsen paa nogle smaa, vinkelbøjede
 Jernblikstykker med bestemte Tykkelser, der
@@ -73,7 +73,7 @@ Mellemrum:
 </table>
 <i>J. F.</i></chapter>
 
-<chapter name=”Dilatationsindretning”>
+<chapter name="Dilatationsindretning">
 <b>Dilatationsindretning</b> bruges ved
 Tilslutningen til Land af en Jernbanebro med
 Jernoverbygning for at skaffe Understøtning for Hjulene
@@ -87,7 +87,7 @@ anvendes i Alm., naar Broens Længde
 overskrider c. 40 m.
 <i>A. O-d.</i></chapter>
 
-<chapter name=”Dilatationstrombose”>
+<chapter name="Dilatationstrombose">
 <b>Dilatationstrombose.</b> Ved Udvidning af
 Blodaarerne sker der undertiden Koagulation
 af Blodet i disse. En saadan D. forekommer
@@ -96,27 +96,27 @@ nogle af Underlivets Blodkar og kan give
 Anledning til Tilfælde af Blodprop.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dilatator, Dilatatorium”>
+<chapter name="Dilatator, Dilatatorium">
 <b>Dilatator, Dilatatorium</b> kaldes de
 Instrumenter, som benyttes ved Dilatation. Saaledes
 f. Eks. Hegar's D. til Udvidning af Livmoderen,
 Næsen, syn. <sp>Bougie</sp>.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dilation”>
+<chapter name="Dilation">
 <b>Dilation</b> (lat.), Udsættelse, Henstand, Frist.</chapter>
 
-<chapter name=”Dilatometer”>
+<chapter name="Dilatometer">
 <b>Dilatometer,</b> Apparat til Maaling af Vædskers
 Udvidelse ved Opvarmning. <sp>Silbermann's
 D.</sp>, se <sp>Alkoholometri</sp>.
 <i>K. M.</i></chapter>
 
-<chapter name=”dilatorisk”>
+<chapter name="dilatorisk">
 <b>dilatorisk</b> (lat.), opsættende, forhalende,
 trækkende i Langdrag.</chapter>
 
-<chapter name=”Dild”>
+<chapter name="Dild">
 <b>Dild,</b> norsk <sp>Dill</sp> (<i>Anethum</i> L.), Slægt af
 Skærmplanterne (Pastinak-Gruppen) med een
 Art, <sp>Have-D.</sp> (<i>A. graveolens</i> L.), en enaarig,
@@ -144,7 +144,7 @@ Ulejlighed af den end hvert Foraar at luge de
 Planter bort, som der ikke er Brug for.
 <i>L. H.</i></chapter>
 
-<chapter name=”Dildolie”>
+<chapter name="Dildolie">
 <b>Dildolie,</b> en æterisk Olie, der faas ved
 Destillation med Vanddampe af Frøene af Dild,
 <i>Anethum graveolens</i>. Den er farveløs, men
@@ -156,14 +156,14 @@ Samme Anvendelse finder Ostindisk D. af
 den europ. D.
 <i>K. M.</i></chapter>
 
-<chapter name=”Dilem”>
+<chapter name="Dilem">
 <b>Dilem</b> (<sp>Deïlem</sp>), skovrigt Bjerglandskab i
 den østlige Del af den pers. Prov. Gilan,
 strækker sig fra den nordlige Skraaning af
 Elburs-Bjergene indtil det kaspiske Hav.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dilemma”>
+<chapter name="Dilemma">
 <b>Dilemma</b> (gr.) betegner i den græske Retorik
 en Figur, der opstiller to Muligheder, der
 udelukker hinanden, og som hver for sig vilde føre

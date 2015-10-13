@@ -78,14 +78,14 @@ saas i Middelalderen og endnu af og til kan ses
 i Skoler.
 <i>K. H. K.</i></chapter>
 
-<chapter name=”Efterlodning”>
+<chapter name="Efterlodning">
 <b>Efterlodning,</b> Fordeling af et Aktiv, der
 først fremkommer ell. først kan realiseres,
 efter at et Bo, f. Eks. Dødsbo ell. Konkursbo, i
 øvrigt er sluttet.
 <i>E. T.</i></chapter>
 
-<chapter name=”Efterlysning”>
+<chapter name="Efterlysning">
 <b>Efterlysning</b> vil sige Bekendtgørelse om, at
 en Ting er bortkommen ell. en Person
 undvegen, i det Øjemed at skaffe Tingen ell.
@@ -112,7 +112,7 @@ Gennemførelse af dette System har dog endnu ikke
 fundet Sted.
 <i>A. Gl.</i></chapter>
 
-<chapter name=”Eftermaalsmand”>
+<chapter name="Eftermaalsmand">
 <b>Eftermaalsmand.</b> Eftermaal bet. i de gl.
 danske Love Forfølgning af en Retssag, og E.
 er altsaa den, der paataler en Sag. E. brugtes
@@ -122,13 +122,13 @@ Arving, hvem det tilkom og paahvilede at forfølge
 Drabet.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Eftermiddag”>
+<chapter name="Eftermiddag">
 <b>Eftermiddag</b> er Tiden fra Middag til
 Midnat; undertiden bruges E. om Tiden fra Middag
 til Solnedgang.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Eftermiddagsvagt”>
+<chapter name="Eftermiddagsvagt">
 <b>Eftermiddagsvagt</b> (<sp>Søv</sp>.), Vagten i et
 Orlogsskib fra 4-8 Em, i et Koffardiskib fra 12
 Middag til 8 Em., hvor E. ogsaa benævnes
@@ -137,7 +137,7 @@ ogsaa den Del af Mandskabet, der har Vagt
 inden for de nævnte Tidsrum.
 <i>H. E.</i></chapter>
 
-<chapter name=”Efternavn”>
+<chapter name="Efternavn">
 <b>Efternavn,</b> et til det personlige Navn
 (Fornavnet, Døbenavnet) knyttet Tilnavn, naar det
 med større Stadighed føjes dertil. Den nu i
@@ -148,7 +148,7 @@ Middelalderens Adelsslægter og fortsættes ned i vore
 Dage; se <sp>Navn</sp>.
 <i>A. O.</i></chapter>
 
-<chapter name=”Efterretninger for Søfarende”>
+<chapter name="Efterretninger for Søfarende">
 <b>Efterretninger for Søfarende</b> (<sp>Søv</sp>.), et
 af Det kgl. Søkort-Arkiv ugentlig udgivet Blad,
 der indeholder de officielle Meddelelser om alle

@@ -11,7 +11,7 @@ fraraade, medens let sammentrykkende Bind
 kan være gavnlige.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Distorsion”>
+<chapter name="Distorsion">
 <b>Distorsion</b> er en optisk Fortegning, der
 fremkommer ved Fotografering med en enkelt
 Linse. Et Kvadrat afbildes ved D. med
@@ -22,19 +22,19 @@ Linser ell. to Linsesystemer med
 mellemliggende Blende, ophæves D.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”distrahere”>
+<chapter name="distrahere">
 <b>distrahere</b> (lat.), aflede Opmærksomheden
 fra noget, gøre adspredt, forstyrre.</chapter>
 
-<chapter name=”distrait”>
+<chapter name="distrait">
 <b>distrait</b> [dansk di'stræ', fr. -'stræ] (af lat.
 <i>distráctus</i>), adspredt, aandsfraværende, glemsom.</chapter>
 
-<chapter name=”Distraktion”>
+<chapter name="Distraktion">
 <b>Distraktion</b> (lat.), Adspredthed,
 Aandsfraværelse, Tankeløshed.</chapter>
 
-<chapter name=”Distraktion (Kirurgien)”>
+<chapter name="Distraktion (Kirurgien)">
 <b>Distraktion</b> (lat.), Trækning, anvendes i
 Kirurgien om de Haandgreb ell. Bandageringer,
 hvorved man udøver et Træk paa brækkede
@@ -44,11 +44,11 @@ Betændelse gunstig; man benytter i øvrigt oftest
 <sp>Ekstension</sp> i samme Betydning som D.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”distribuere”>
+<chapter name="distribuere">
 <b>distribuere</b> (lat.), fordele, uddele;
 <sp>Distribution</sp>, Fordeling, Uddeling.</chapter>
 
-<chapter name=”Distribution”>
+<chapter name="Distribution">
 <b>Distribution</b> (lat.), et af Digtekunstens
 Virkemidler, som anskueliggør en Forestilling
 ved Fremhævelse af væsentlige Egenskaber ell.
@@ -69,7 +69,7 @@ Min Faders Kvie gumler i Stald, - Min Søsters
 Hane sover paa Hald«.
 <i>Cl. W.</i></chapter>
 
-<chapter name=”distributiv”>
+<chapter name="distributiv">
 <b>distributiv</b> (lat.; uddelende, inddelende,
 tildelende; er i Grammatikken Benævnelse paa
 en i nogle Sprog (f. Eks. Latin) forekommende
@@ -87,7 +87,7 @@ I Aarhundreder har <sp>tvende</sp>, <sp>trende</sp> i
 Dansk været litterære Ord.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”district”>
+<chapter name="district">
 <b>district</b> ['distr<sub>i</sub>kt] (eng.) kaldes i England
 en vis Klasse af Kommuner, der indtager en
 Mellemstilling mellem Grevskabet (<i>county</i>) og
@@ -124,7 +124,7 @@ ogsaa som Distriktsraad. I Frankrig betegnede
 svarende til det nuv. Arrond.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Distrikt, middelalderlige Bet.”>
+<chapter name="Distrikt, middelalderlige Bet.">
 <b>Distrikt</b> (lat. <i>districtus</i> af <i>distringere</i> i
 Ordets middelalderlige Bet. at tvinge, straffe ell.
 udøve Jurisdiktion), et afgrænset Landomraade,
@@ -160,6 +160,6 @@ inddelt i 4 D., hvert under en Postinspektør.
 Om D. i England og Frankrig, se district.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Distrikt i Danmark”>
+<chapter name="Distrikt i Danmark">
 <b>Distrikt</b> kaldes i Danmark det Skovareal,
 som administreres af een Skovrider, og for

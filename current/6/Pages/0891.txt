@@ -100,23 +100,23 @@ med højere Temp., dog med Undtagelse af
 Vand, der viser det omvendte Forhold.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Elasticitetsgrænse”>
+<chapter name="Elasticitetsgrænse">
 <b>Elasticitetsgrænse,</b> se <sp>Elasticitet</sp>.</chapter>
 
-<chapter name=”Elasticitetskoëfficient”>
+<chapter name="Elasticitetskoëfficient">
 <b>Elasticitetskoëfficient,</b> se <sp>Elasticitet</sp>.</chapter>
 
-<chapter name=”Elasticitetsmaaler”>
+<chapter name="Elasticitetsmaaler">
 <b>Elasticitetsmaaler</b> kan man kalde ethvert
 Instrument, der (ved Strækning, Snoning,
 Bøjning, Sammentrykning) tilsigter Maaling af et
 Stofs Elasticitetsforhold.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Elasticitetsmodulus”>
+<chapter name="Elasticitetsmodulus">
 <b>Elasticitetsmodulus,</b> se <sp>Elasticitet</sp>.</chapter>
 
-<chapter name=”Elastik”>
+<chapter name="Elastik">
 <b>Elastik,</b> <sp>Elastics</sp>, et kipret, valket
 Uldstof, der mest bruges til Benklædetøjer og
 ligner Klæde, men er mere elastisk end dette. E.
@@ -127,7 +127,7 @@ anvendes til Strømpebaand, Indsats i
 Halvstøvleskafter, elastiske Rændler o. a.
 <i>K. M.</i></chapter>
 
-<chapter name=”Elastin”>
+<chapter name="Elastin">
 <b>Elastin,</b> et Albuminoid, udgør
 Grundbestanddelen af Vertebraternes elastiske Væv og kan
 fremstilles af disse f. Eks., af Oksens

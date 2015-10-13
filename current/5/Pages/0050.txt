@@ -19,13 +19,13 @@ Martin</sp>, <i>Life of J. C.</i> [1865]; <sp>J. L. Cherry</sp>,
 <i>(C. K.). I. O.</i>
 </chapter>
 
-<chapter name = ”Claremont”>
+<chapter name="Claremont">
 <b>Claremont</b> ['k£æ.<sub>ə</sub>m<sub>ə</sub>nt ell. 'k£är<sub>ə</sub>månt], 1)
 Forstad til Kapstaden i Sydafrika.
 
 2) Se <sp>Esher</sp>.</chapter>
 
-<chapter name = ”Claremont”>
+<chapter name="Claremont">
 <b>Claremont</b> ['k£æ.<sub>ə</sub>m<sub>ə</sub>nt ell. 'k£är<sub>ə</sub>månt]. By
 U. S. A., Stat New Hampshire, ligger 15 km V.
 f. Newport ikke langt fra Sugar Rivers Udløb i
@@ -34,13 +34,13 @@ Papir-, Tekstil- og Skotøjsfabrikation og er Sæde
 for <i>Stevens High-School</i>.
 <i>H. P. S.</i></chapter>
 
-<chapter name = ”Clarence”>
+<chapter name="Clarence">
 <b>Clarence</b> ['k£är<sub>ə</sub>ns], Ø ved Sydamerikas
 Sydspids V. f. Ildlandet, adskilles fra Fastlandet
 ved Magalhães Strædet.
 <i>M. V.</i></chapter>
 
-<chapter name = ”Clarence”>
+<chapter name="Clarence">
 <b>Clarence</b> ['k£är<sub>ə</sub>ns], 1) Flod i det nordøstlige
 New South Wales (Australien), udspringer paa
 New England Range, gennemstrømmer C.
@@ -48,7 +48,7 @@ Distriktet og falder ud i det stille Ocean. 2) Flod
 paa Østsiden af Ny Zeelands Sydø.
 <i>M. V.</i></chapter>
 
-<chapter name = ”Clarence, Albert Victor Christian Edward”>
+<chapter name="Clarence, Albert Victor Christian Edward">
 <b>Clarence</b> ['k£är<sub>ə</sub>ns], <sp>Albert Victor
 Christian Edward</sp>, <sp>Hertug af C. og
 Avondale</sp>, <sp>Greve af Athlone</sp>, f. 8. Jan. 1864,
@@ -59,21 +59,21 @@ Derefter studerede han i Cambridge og blev
 forlovet med sin Kusine, Prinsesse Maria af Teck,
 men døde kort efter.</chapter>
 
-<chapter name = ”Clarence, George og Thomas”>
+<chapter name="Clarence, George og Thomas">
 <b>Clarence</b> ['k£är<sub>ə</sub>ns], <sp>George</sp> og <sp>Thomas</sp>,
 se <sp>Plantagenet</sp>.</chapter>
 
-<chapter name = ”Clarence-Strædet”>
+<chapter name="Clarence-Strædet">
 <b>Clarence-Strædet</b> ['k£är<sub>ə</sub>ns-], det vestlige
 Indløb til Van Diemen Golf paa Australiens
 Nordkyst mellem Melville Island og Fastlandet.
 <i>M. V.</i></chapter>
 
-<chapter name = ”Clarence Town”>
+<chapter name="Clarence Town">
 <b>Clarence Town</b> ['k£är<sub>ə</sub>ns-'ta^un] og
 <sp>Clarence Peak</sp>, se <sp>Fernando Po</sp>.</chapter>
 
-<chapter name = ”Clarendon”>
+<chapter name="Clarendon">
 <b>Clarendon</b> ['k£är<sub>i</sub>nd<sub>ə</sub>n], i Bogtrykkeriet en
 Antikvaskrift, der benyttes til Fremhævning af
 enkelte Ord i løbende Sats og som selvstændig
@@ -81,7 +81,7 @@ Titelskrift i Accidens- og Annoncesats. Se
 <sp>Skriftarter</sp>.
 <i>E. S-r.</i></chapter>
 
-<chapter name = ”Clarendon, Anna Hyde, Edward Hyde”>
+<chapter name="Clarendon, Anna Hyde, Edward Hyde">
 <b>Clarendon</b> ['k£är<sub>i</sub>nd<sub>ə</sub>n], 1) <sp>Anna Hyde</sp>,
 f. 1637, d. 1671, nedenn.'s Datter, indgik 1660 et
 hemmeligt Ægteskab med Karl II's Broder
@@ -119,7 +119,7 @@ Værk om den eng. Revolution grundlagdes <i>C.
 Press</i>.
 <i>J. L.</i></chapter>
 
-<chapter name = ”Clarendon, George William Fred. Villiers”>
+<chapter name="Clarendon, George William Fred. Villiers">
 <b>Clarendon</b> ['k£är<sub>i</sub>nd<sub>ə</sub>n], <sp>George William
 Fred. Villiers</sp>, Jarl, eng. Statsmand, f. 26.
 Jan. 1800, d. 27. Juni 1870, var allerede 1823 som

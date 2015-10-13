@@ -28,12 +28,12 @@ saaledes Borsyren i Toskana, Svovlet paa Island
 o. a.
 <i>O. B. B.</i></chapter>
 
-<chapter name=”ekshalere”>
+<chapter name="ekshalere">
 <b>ekshalere</b> (lat.), udaande, uddunste;
 <sp>Ekshalation</sp>, Udaanding, Uddunstning; smlg.
 ovenfor.</chapter>
 
-<chapter name=”Ekshaustionsbevis”>
+<chapter name="Ekshaustionsbevis">
 <b>Ekshaustionsbevis</b> (<sp>mat</sp>.), en Bevisform,
 der forekommer f. Eks. hos Eukleides og
 Archimedes, men som man i øvrigt hos Eudoxes
@@ -65,14 +65,14 @@ Polygoner), som parvis har et konstant Forhold
 (<i>a</i><sup>2</sup> : <i>b</i><sup>2</sup>).
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Ekshaustor”>
+<chapter name="Ekshaustor">
 <b>Ekshaustor</b> kaldes et Apparat, hvis
 Konstruktion og Virkemaade ganske ligner en
 Blæsers; men ved hvis Anvendelse man særlig har
 Apparstets sugende Virkning for Øje.
 <i>Fr. V. M.</i></chapter>
 
-<chapter name=”Ekshaustor”>
+<chapter name="Ekshaustor">
 <b>Ekshaustor</b> kaldes den roterende
 Sugepumpe, der i Kulgasværkerne tjener til at suge
 den dannede Kulgas bort fra Retorterne, saa der
@@ -84,31 +84,31 @@ gennem de forsk. Vaske- og Renseapparater m. m.
 ud i Beholderne. Se <sp>Kulgas</sp>.
 <i>R. T.</i></chapter>
 
-<chapter name=”eksheredere”>
+<chapter name="eksheredere">
 <b>eksheredere</b> ['æks-] (lat,), gøre arveløs;
 <sp>Eksheredation</sp>, Arveløsgørelse.</chapter>
 
-<chapter name=”ekshortere”>
+<chapter name="ekshortere">
 <b>ekshortere</b> (lat.), formane, opmuntre;
 <sp>Ekshortation</sp>, Formaning, Opmuntring;
 <sp>ekshortativ</sp>, formanende;
 <sp>Ekshortatorium</sp>, Formaningsskrivelse.</chapter>
 
-<chapter name=”ekshumere”>
+<chapter name="ekshumere">
 <b>ekshumere</b> (lat.), grave op igen (et Lig),
 drage frem fra Forglemmelse;
 <sp>Ekshumation</sp>, Ligopgravning.</chapter>
 
-<chapter name=”eksigere”>
+<chapter name="eksigere">
 <b>eksigere</b> (lat.), fordre, forlange, inddrive
 (en Gæld); <sp>Eksigéns</sp>, Fordringsfuldhed,
 Fornødenhed.</chapter>
 
-<chapter name=”eksigibel”>
+<chapter name="eksigibel">
 <b>eksigibel</b> (<sp>jur</sp>.), fremtvingelig ved
 Eksekution (s. d.).</chapter>
 
-<chapter name=”Eksil”>
+<chapter name="Eksil">
 <b>Eksil</b> (lat. <i>exsilium</i>), Forvisning. Herved
 betegnede man i Oldtiden dels en Borgers
 frivillige Gaaen i Landflygtighed for at undgaa en
@@ -139,14 +139,14 @@ mere afsides Egne og paa Livstid. Om nyere
 Former for E., se <sp>Landsforvisning</sp>.
 <i>K. B.</i></chapter>
 
-<chapter name=”Eksinanition”>
+<chapter name="Eksinanition">
 <b>Eksinanition</b> ['æks-] (egl. Udtømmelse)
 betegner i Teologien den Selvindskrænkning, til
 hvilken Jesus ved sin Menneskeblivelse gaar
 ind (Fil. 2, 6 ff.). Se <sp>Jesus Kristus</sp>.
 <i>F. C. K.</i></chapter>
 
-<chapter name=”Eksingedalen”>
+<chapter name="Eksingedalen">
 <b>Eksingedalen</b> i Hosanger Herred, Søndre
 Bergenhus Amt. Dalen danner en Fortsættelse
 af Hosanger Fjord, den er skovbevokset og
@@ -155,7 +155,7 @@ op gennem Dalen. E.-Elven danner fl. Vande
 og betydelige Fossefald.
 <i>M. H.</i></chapter>
 
-<chapter name=”Eksistens”>
+<chapter name="Eksistens">
 <b>Eksistens.</b> Man kan tildels klargøre, hvad
 der menes med E., ved at fremhæve, at der i
 Udtrykket, at et Emne eksisterer, ligger, at det

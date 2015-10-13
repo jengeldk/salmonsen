@@ -78,7 +78,7 @@ overalt er Fremstillingen klar og letlæst. Fra
 »Archiv für Anatomie u. Physiologie«.
 <i>S. T.</i></chapter>
 
-<chapter name =”Du Bois-Reymond, Paul”>
+<chapter name="Du Bois-Reymond, Paul">
 <b>Du Bois-Reymond</b> [dybo'a-re'måŋ], <sp>Paul</sp>,
 tysk Matematiker, ovenn.'s Broder, f. 2. Decbr
 1831 i Berlin, d. 7. Apr. 1889. Efter at have
@@ -102,7 +102,7 @@ hvori den gl. Betragtning af disse som Forhold
 mellem Liniestykker forlades.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Duborg”>
+<chapter name="Duborg">
 <b>Duborg</b> - i Aktstykker og senere:
 <sp>Flensborghus</sp> -, befæstet Slot paa »Mariebjerget«,
 en Bakke V. f. Flensborg, opført omtr. 1411 af

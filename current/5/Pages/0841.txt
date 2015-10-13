@@ -12,10 +12,10 @@ begrænset til 20; det ledes af en Forstander
 og en Sekretær.
 <i>Kr. E.</i></chapter>
 
-<chapter name=”Danskeskov”>
+<chapter name="Danskeskov">
 <b>Danskeskov,</b> se <sp>Dänischwold</sp>.</chapter>
 
-<chapter name=”Danske Skytteforeninger”>
+<chapter name="Danske Skytteforeninger">
 <b>Danske Skytteforeninger.</b> Disses Oprettelse
 og den stærke Tilslutning, de har fundet i alle
 Klasser af Befolkningen, er væsentlig et
@@ -98,7 +98,7 @@ Skytteforening« [Kbhvn 1911];
 Overbestyrelsen for D. S.).
 <i>C. Q.</i></chapter>
 
-<chapter name=”danske Statsbaner, De”>
+<chapter name="danske Statsbaner, De">
 <b>danske Statsbaner, De</b> (D. S. B.).
 <sp>Historisk Udvikling</sp>. Det første Skridt
 m. H. t. Jernbaneanlæg i det daværende danske

@@ -12,31 +12,31 @@ benyttes dog særlig ved bestemte Kursteder, af
 hvilke <sp>Meran</sp> i Tyrol er det mest besøgte.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Druelus”>
+<chapter name="Druelus">
 <b>Druelus,</b> se <sp>Vinlus</sp>.</chapter>
 
-<chapter name=”Druemunke”>
+<chapter name="Druemunke">
 <b>Druemunke,</b> se <sp>Actæa</sp>.</chapter>
 
-<chapter name=”Drueolie”>
+<chapter name="Drueolie">
 <b>Drueolie,</b> se <sp>Kognaksolie</sp>.</chapter>
 
-<chapter name=”Drueskimmel”>
+<chapter name="Drueskimmel">
 <b>Drueskimmel,</b> se <sp>Botrytis</sp>.</chapter>
 
-<chapter name=”Druesort”>
+<chapter name="Druesort">
 <b>Druesort,</b> se <sp>Frankfurtersort</sp>.</chapter>
 
-<chapter name=”Druesukker”>
+<chapter name="Druesukker">
 <b>Druesukker,</b> d. s. s. <sp>Glykose</sp>.</chapter>
 
-<chapter name=”Druesyre”>
+<chapter name="Druesyre">
 <b>Druesyre,</b> se <sp>Vinsyre</sp>.</chapter>
 
-<chapter name=”Druevitriol”>
+<chapter name="Druevitriol">
 <b>Druevitriol,</b> se <sp>Jernvitriol</sp>.</chapter>
 
-<chapter name=”Druey, Henri”>
+<chapter name="Druey, Henri">
 <b>Druey</b> [dry'æ], <sp>Henri</sp>, schweizisk
 Statsmand, f. 12. Apr. 1799 i Kanton Vaud, d. 9.
 Marts 1855, blev 1826 Advokat og tog tidlig Del
@@ -65,7 +65,7 @@ Han valgtes derefter til Forbundsraadet, var
 Aar Finanserne.
 <i>E. E.</i></chapter>
 
-<chapter name=”Druideorden”>
+<chapter name="Druideorden">
 <b>Druideorden,</b> et hemmeligt Selskab, stiftet
 1782 i London til Medlemmernes gensidige
 Understøttelse. I England splittedes Ordenen i
@@ -79,7 +79,7 @@ Orden«; i Amerika og Tyskland findes kun den
 sidste.
 <i>L. M.</i></chapter>
 
-<chapter name=”Druider”>
+<chapter name="Druider">
 <b>Druider</b> (lat. <i>Druides</i>), Præsterne i det gamle
 Gallien og Britannien. D. dannede en afsluttet
 Stand med bestemt Organisation og bestemte
@@ -137,7 +137,7 @@ Gallico</i> VI, 13-14; <sp>Al. Bertrand</sp>, <i>La religion
 des Gaulois, les Druides et le Druidisme</i> [1897]).
 <i>C. B.</i></chapter>
 
-<chapter name=”Drujez”>
+<chapter name="Drujez">
 <b>Drujez</b> ['druj<sub>æ</sub>ts], en 270 km lang Biflod
 til Dnjepr i Mellemrusland, Guv. Mohilev. Den
 er sejlbar for Smaaskibe og rig paa Fisk,
@@ -145,10 +145,10 @@ navnlig Stør. Bredderne er hyppig dækkede af
 smukke Naaleskove.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Drukkenskab”>
+<chapter name="Drukkenskab">
 <b>Drukkenskab,</b> se <sp>Berusede</sp>.</chapter>
 
-<chapter name=”Drukning”>
+<chapter name="Drukning">
 <b>Drukning,</b> den Dødsmaade (en
 Underafdeling af Kvælning), der fremkaldes ved, at en
 <sp>Vædske</sp> hindrer Luftens Adgang til

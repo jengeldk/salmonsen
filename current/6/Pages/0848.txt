@@ -77,7 +77,7 @@ nærmere <sp>Kommunisme</sp>, <sp>Socialisme</sp> og
 <sp>Georgeisme</sp>).
 <i>K. R.-H.</i></chapter>
 
-<chapter name=”Ejendomsskatter”>
+<chapter name="Ejendomsskatter">
 <b>Ejendomsskatter</b> er en Gruppe af
 Indtægtskildeskatter, der hviler paa faste Ejendomme
 og som Regel først opstod paa Landet og derfra
@@ -105,7 +105,7 @@ endnu en stor Rolle i Kommunerne (smlg.
 <sp>Værdistigningsskat</sp>).
 <i>C. T.</i></chapter>
 
-<chapter name=”Ejendomsskyld”>
+<chapter name="Ejendomsskyld">
 <b>Ejendomsskyld.</b> Til de Statsskatter, der
 indførtes ved den store Skattereform af 15. Maj
 1903, hørte E., der i Forening med Indkomst-

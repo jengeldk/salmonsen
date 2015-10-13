@@ -4,7 +4,7 @@ bebygget og danner største Delen af Nordre Lands
 Hovedsogn og Torpen Anneks.
 <i>(J. F. W. H.). M. H.</i></chapter>
 
-<chapter name=”Dokke”>
+<chapter name="Dokke">
 <b>Dokke</b> (<sp>Dukke</sp>), en støttende og bærende
 Maskindel, f. Eks. paa Spinderokken de to
 Smaasøjler, der bærer Spindelen. Benævnelsen bruges
@@ -17,10 +17,10 @@ af lange Genstande mellem disse D. endvidere
 kan være indskudt en Brilledokke.
 <i>F. W.</i></chapter>
 
-<chapter name=”dokke”>
+<chapter name="dokke">
 <b>dokke,</b> at bringe et Skib i Dok.</chapter>
 
-<chapter name=”Dokkum”>
+<chapter name="Dokkum">
 <b>Dokkum</b> ['dåk<sub>ə</sub>m] (<sp>Dockum</sp>), By i
 Holland, Prov. Friesland, ligger NØ. f. Leeuwarden,
 ikke langt fra Vesterhavet, ved Trekvaartkanal.
@@ -29,17 +29,17 @@ Skibsfart og Handel med Hornkvæg. (1909) 3932
 Iridb. Den hellige Bonifacius blev dræbt her 755.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dokmester”>
+<chapter name="Dokmester">
 <b>Dokmester,</b> en Funktionær, der er ansat som
 Tilsynsførende ved Skibes Ud- og Indpassage
 fra og til en vaad Dok.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Doko”>
+<chapter name="Doko">
 <b>Doko,</b> et kun lidet kendt Dværgfolk i det
 sydlige Abessinien og Landskabet Kaffa.</chapter>
 
-<chapter name=”Doktor”>
+<chapter name="Doktor">
 <b>Doktor</b> (lat., Lærer, af <i>docere</i>), Betegnelse
 for den, der har taget den højeste
 videnskabelige Grad, <sp>Doktorgraden</sp>, inden for et

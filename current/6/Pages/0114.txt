@@ -13,7 +13,7 @@ Messe i dansk Bearbejdelse fra
 Reformationstiden« |Kbhvn 1893]).
 <i>V. D.</i></chapter>
 
-<chapter name=”Dialursyre”>
+<chapter name="Dialursyre">
 <b>Dialursyre</b> (Oxybarbitursyre,
 Tartronylurinstof), CO(NHCO)<sub>2</sub>CHOH, fremstilles ved
 Reduktion af Alloxan med Zink og Saltsyre. D.
@@ -22,10 +22,10 @@ der i fugtig Tilstand iltes til Alloxantin; den
 danner tungtopløselige Alkalisalte.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Dialysator”>
+<chapter name="Dialysator">
 <b>Dialysator,</b> se <sp>Dialyse</sp>.</chapter>
 
-<chapter name=”Dialyse”>
+<chapter name="Dialyse">
 <b>Dialyse</b> (gr.), Opløsning, Adskillelse,
 betegner i Kemien en Proces, der altid finder
 Sted, naar heterogene Opløsninger er i
@@ -100,19 +100,19 @@ kunne erkendes paa denne Maade. Metodens
 Værdi er ret omstridt.
 <i>O. T.</i></chapter>
 
-<chapter name=”dialytisk Kikkert”>
+<chapter name="dialytisk Kikkert">
 <b>dialytisk Kikkert,</b> se <sp>Kikkert</sp>.</chapter>
 
-<chapter name=”Diamagnetisme”>
+<chapter name="Diamagnetisme">
 <b>Diamagnetisme,</b> se <sp>Magnetisme</sp>.</chapter>
 
-<chapter name=”Diamalt”>
+<chapter name="Diamalt">
 <b>Diamalt</b> en paa særlig Maade tilberedt
 Maltekstrakt, der benyttes som Tilsætning til
 Brøddejg for at lette Gæringen.
 <i>K. M.</i></chapter>
 
-<chapter name=”Diamant”>
+<chapter name="Diamant">
 <b>Diamant</b> (hertil 1 Tavle) (af gr. άδάμας,
 ubetvingelig), den værdifuldeste Ædelsten, det
 haardeste af alle Legemer.

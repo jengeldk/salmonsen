@@ -69,12 +69,12 @@ Stadt D.« [Festskrift, D. 1888]; <sp><i>Brandt</i></sp>,
 der Stadt D. im 19. Jahrh.« [D. 1902]).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dysspermati”>
+<chapter name="Dysspermati">
 <b>Dysspermati</b> (gr.), Abnormiteter ell.
 Vanskelighed ved Sædudtømmelsen.
 <i>E. P-n.</i></chapter>
 
-<chapter name=”Dystedhøj”>
+<chapter name="Dystedhøj">
 <b>Dystedhøj</b> ell. <sp>Rævebakke</sp>, et 115 m højt
 Punkt i det sydøstlige Sjælland, Præstø Amt,
 Hammer Herred, Toksværd Sogn; det hører til
@@ -82,28 +82,28 @@ det betydelige Højdeparti, hvori Sjællands
 næsthøjeste Punkt, Kobanke, ligger.
 <i>H. W.</i></chapter>
 
-<chapter name=”Dystoki”>
+<chapter name="Dystoki">
 <b>Dystoki</b> (gr.), vanskelig, abnorm Fødsel
 (modsat <sp>Eutoki</sp>).</chapter>
 
-<chapter name=”Dystoksi”>
+<chapter name="Dystoksi">
 <b>Dystoksi</b> (gr.) (<i>Dystoxia agitans</i>,
 <i>Pseudoparalysis agitans</i>), en Muskelskælven, fremkaldt
 ved Pirringstilstand af Rygmarven.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dystopi”>
+<chapter name="Dystopi">
 <b>Dystopi</b> (gr.), Lejeforandring af Organerne,
 enten medfødt ell. paaført, men blivende.</chapter>
 
-<chapter name=”Dystridt”>
+<chapter name="Dystridt">
 <b>Dystridt,</b> se <sp>Ridderspil</sp>.</chapter>
 
-<chapter name=”Dystrofi”>
+<chapter name="Dystrofi">
 <b>Dystrofi</b> (gr.), daarlig, mangelfuld Ernæring
 af Vævsdele (smlg. <sp>Atrofi</sp>).</chapter>
 
-<chapter name=”Dysuri”>
+<chapter name="Dysuri">
 <b>Dysuri</b> (gr.), Vanskelighed ved
 Vandladningen, alm. benyttet Udtryk, der dog ikke siger
 noget om Hindringens Natur. <i>Dysuria
@@ -114,10 +114,10 @@ af Urinrøret, Betændelser i dette er de
 væsentlige Aarsager til D., syn. <sp>Ischuri</sp>.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dysæmi”>
+<chapter name="Dysæmi">
 <b>Dysæmi</b> (gr.), sygelig Tilstand af Blodet.</chapter>
 
-<chapter name=”Dysæstesi”>
+<chapter name="Dysæstesi">
 <b>Dysæstesi</b> (gr.), alm. Betegnelse for
 fejlagtig Tilstand i Hudfølelsen; særlig benyttet om
 den Forandring, der gaar ud paa, at Pirringer
@@ -125,10 +125,10 @@ af Huden paa et Lem medfører en smertelig
 Fornemmelse.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dytiscidæ, Dytiscus”>
+<chapter name="Dytiscidæ, Dytiscus">
 <b>Dytiscidæ, Dytiscus,</b> se <sp>Vandkalve</sp>.</chapter>
 
-<chapter name=”Dütsch, Otto Johan Anton”>
+<chapter name="Dütsch, Otto Johan Anton">
 <b>Dütsch</b> [dytsj], <sp>Otto Johan Anton</sp>, dansk
 Musiker, f. i Kbhvn 25. Maj 1823, d. i Frankfurt
 a. M. 23. Apr. 1863. Efter at være uddannet i
@@ -143,7 +143,7 @@ Klaversager og Sange samt Operaen »Kroatinden«,
 opført 1860 i Petrograd.
 <i>A. H.</i></chapter>
 
-<chapter name=”Dyveke”>
+<chapter name="Dyveke">
 <b>Dyveke,</b> d. 1517, Christian II's Frille,
 levede med sin Moder, Sigbrit Villumsdatter, i
 Bergen, da Christian II som Prins og Norges

@@ -35,7 +35,7 @@ Vinduer over kan skærme dem for stærk
 Nedbør.
 <i>L. H.</i></chapter>
 
-<chapter name=”Diapason”>
+<chapter name="Diapason">
 <b>Diapason</b> [gr. -'so'n, fr. d<sub>i</sub>apa'zå, eng. da^i<sub>ə</sub>
 'pe<sub>i</sub>Z<sub>ə</sub>n] (gennem alle Strenge ɔ: alle Systemets
 Toner, saavel de diatoniske som kromatiske og
@@ -51,7 +51,7 @@ Orgelpibe, Principalstemme, i Modsætning til
 <i>stopped d.</i>, Gedackt.
 <i>S. L.</i></chapter>
 
-<chapter name=”Diapedesis”>
+<chapter name="Diapedesis">
 <b>Diapedesis</b> (gr.), Gennemvandring, benyttes
 om Blodets Udsivning gennem Karvæggene uden
 synlige Læsioner ell. Forandringer af disse og
@@ -60,15 +60,15 @@ Udvandring gennem Karvæggen (se <sp>Betændelse</sp>
 og <sp>Blødning</sp>).
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Diapensia, Diapensiaceæ”>
+<chapter name="Diapensia, Diapensiaceæ">
 <b>Diapensia, Diapensiaceæ,</b> se
 <sp>Fjældprydfamilien</sp>.</chapter>
 
-<chapter name=”Diapente”>
+<chapter name="Diapente">
 <b>Diapente</b> [gr. -'a'-] (ell. <i>dioxia</i>), gr.
 Betegnelse for <sp>Kvinten</sp>.</chapter>
 
-<chapter name=”Diapositiv”>
+<chapter name="Diapositiv">
 <b>Diapositiv</b> kaldes et som Regel fotografisk
 Billede paa gennemsigtigt Underlag.
 Underlaget er oftest Glas, men kan ogsaa være
@@ -79,7 +79,7 @@ Kulfotografi og paa Klorsølvplader
 Lysbilleder, til Fotokeramik og Fotogravure.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Diapsefisis”>
+<chapter name="Diapsefisis">
 <b>Diapsefisis</b> (gr.), i det gamle Athen en
 Afstemning inden for alle Demer (se <sp>Demos</sp>)
 ell. i en enkelt Demos om Medlemmernes
@@ -93,7 +93,7 @@ Fordrivelse, en anden meget omfattende Aar
 445 f. Kr.
 <i>K. H.</i></chapter>
 
-<chapter name=”Diar”>
+<chapter name="Diar">
 <b>Diar</b> ɔ: Guder, var iflg. Snorre's
 »Heimskringla« Betegnelsen for de tolv Guder, der
 sammen med Odin grundlagde Asedyrkelsen i
@@ -103,7 +103,7 @@ Fortælling, at de 12 Guder dyrkedes sammen,
 er af tvivlsom Ægthed (jfr. <sp>As</sp>).
 <i>A. O.</i></chapter>
 
-<chapter name=”Diarbekr”>
+<chapter name="Diarbekr">
 <b>Diarbekr</b> (<sp>Diarbekir</sp>), tyrk. Vilajet i
 Kurdistan, 37500 km<sup>2</sup>, c. 470000 Indb.
 Hovedstaden D. ligger ved højre Bred af Tigris 620 m
@@ -128,13 +128,13 @@ turkmenske og kurdiske Fyrster, plyndredes
 tyrk. Sultan Selim I.
 <i>M. V.</i></chapter>
 
-<chapter name=”Diarium”>
+<chapter name="Diarium">
 <b>Diarium</b> (lat.), Dagbog, Kladde.</chapter>
 
-<chapter name=”Diark”>
+<chapter name="Diark">
 <b>Diark</b> (<sp>bot</sp>.), se <sp>Rod</sp>.</chapter>
 
-<chapter name=”Diarki”>
+<chapter name="Diarki">
 <b>Diarki</b> (gr.) ell. <sp>Biarki</sp> (lat.-gr.),
 Dobbeltherredømme, enten om to sideordnede
 Regenter, f. Eks. de spartanske Konger ell. de rom.
@@ -143,7 +143,7 @@ Statsmagter, f. Eks. en Regent og Folkets (ell.
 Adelens) Repræsentation.
 <i>K. H.</i></chapter>
 
-<chapter name=”Diarre”>
+<chapter name="Diarre">
 <b>Diarre</b> (gr.) er den sygelige Tilstand,
 hvorved de under Fordøjelsesprocessen dannede, til
 Legemets Ernæring uskikkede Produkter,

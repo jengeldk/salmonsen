@@ -21,7 +21,7 @@ hans Kort. Hans berømteste Værk er <i>Atlas
 géographique</i>, der udgaves af Ph. Buaches 1789.
 <i>C. A.</i></chapter>
 
-<chapter name=”Delisle, Joseph Nicolas”>
+<chapter name="Delisle, Joseph Nicolas">
 <b>Delisle</b> [d<sub>ö</sub>li.l], <sp>Joseph Nicolas</sp>, ovenn.'s
 Broder, fr. Astronom (1688-1768), var 1725-47
 Astronom i Petrograd, senere Prof. i Astronomi
@@ -32,7 +32,7 @@ Solskiven, naar man kender Observationsstedets
 Længde.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Delisle, Léopold Victor”>
+<chapter name="Delisle, Léopold Victor">
 <b>Delisle</b> [d<sub>ö</sub>'li.l], <sp>Léopold Victor</sp>, fransk
 Historiker og Biblioteksmand, født 1826, død
 1910. Blev 1847 Elev i <i>École des chartes</i>, til
@@ -76,7 +76,7 @@ Jubilæum. (<sp>Litt</sp>.: <i>Bibliographie des travaux de L.
 D., par P. Lacombe</i> [1902]).
 <i>(M. M.). C. S. P.</i></chapter>
 
-<chapter name=”délit”>
+<chapter name="délit">
 <b>délit</b> [de'li]. I fr. Strafferet har man siden
 1791 sondret Forbrydelserne i 3
 Hovedgrupper: 1) <i>crimes</i>, Handlinger, for hvilke Straffen
@@ -101,7 +101,7 @@ manqué</i>, mislykket Forsøg paa Forbrydelse, <i>d.
 tenté</i>, paabegyndt, men ufuldendt Forbrydelse.
 <i>A. Gl.</i></chapter>
 
-<chapter name=”Delitzsch, By”>
+<chapter name="Delitzsch, By">
 <b>Delitzsch</b> ['de.lit∫], By i den preuss. Prov.
 Sachsen ved Muldes Biflod Lober, Knudepunkt
 paa Jernbanen Bitterfeld-Leipzig, 18 km N. f.
@@ -121,7 +121,7 @@ denne Linies Uddøen 1738 tilfaldt den Kursachsen
 og kom endelig 1815 under Preussen.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Delitzsch, Franz”>
+<chapter name="Delitzsch, Franz">
 <b>Delitzsch</b> ['de.lit∫], <sp>Franz</sp>, tysk
 gammeltestamentlig Teolog, f. 23. Febr 1813 i Leipzig,
 d. smst. 4. Marts 1890. D., som var Søn af en

@@ -3,7 +3,7 @@ for nogen Tilkaldelse af de e. A., har Hvervet
 efterhaanden tabt sin praktiske Bet.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”ekstraordinære Retter”>
+<chapter name="ekstraordinære Retter">
 <b>ekstraordinære Retter</b> kaldes - i
 Modsætning til de alm. (ordinære) Retter - Domstole,
 der oprettes for at paadømme en enkelt
@@ -28,19 +28,19 @@ R. fremdeles her i Landet, hvor de sædvanligvis
 benævnes <sp>Kommissioner</sp> (s. d.).
 <i>K. Hch.</i></chapter>
 
-<chapter name=”ekstraordinær Straale”>
+<chapter name="ekstraordinær Straale">
 <b>ekstraordinær Straale,</b> se
 <sp>Dobbeltbrydning</sp>.</chapter>
 
-<chapter name=”Ekstrapaabud”>
+<chapter name="Ekstrapaabud">
 <b>Ekstrapaabud</b> ['æks-], d. s. s.
 <sp>Ekstraskat</sp>.</chapter>
 
-<chapter name=”Ekstrapostvæsenet”>
+<chapter name="Ekstrapostvæsenet">
 <b>Ekstrapostvæsenet</b> ['æks-], se
 <sp>Befordringsvæsenet</sp>.</chapter>
 
-<chapter name=”Ekstraret”>
+<chapter name="Ekstraret">
 <b>Ekstraret</b> ['æks-] vil sige en Ret, der
 holdes uden for det sædvanlige Tingsted ell. uden
 for den sædvanlige Tid. E. forekommer navnlig
@@ -48,7 +48,7 @@ i kriminelle Sager, Politisager, Gæsteretssager,
 ved Afhørelse af syge Vidner etc.
 <i>E. T.</i></chapter>
 
-<chapter name=”Ekstrasession”>
+<chapter name="Ekstrasession">
 <b>Ekstrasession</b> ['æks-], en Session, der
 afholdes uden for de sædvanlige Tider, bruges baade
 om overordentlige Sessioner til Bedømmelse af
@@ -60,7 +60,7 @@ af Højesteret, som finder Sted i Slutn. af Juli
 og Aug. til Afgørelse af Arrestantsager.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Ekstraskat”>
+<chapter name="Ekstraskat">
 <b>Ekstraskat</b> ['æks-]. Ved E. forstaas en
 Skat, der uden for det blivende Skattesystem i
 et Land opkræves til Dækning af
@@ -82,27 +82,27 @@ med fl. Børn, Soldater og Officerer var fri for
 Skat. Skatten blev ophævet 1812.
 <i>C. T.</i></chapter>
 
-<chapter name=”Ekstraskriver”>
+<chapter name="Ekstraskriver">
 <b>Ekstraskriver</b> ['æks-] kaldtes navnlig i ældre
 Tid det Personale, som antoges ved kollegiale
 Domstole for at bistaa ved Udførelsen af Rettens
 mere underordnede Sekretærforretninger.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”ekstrastaminal”>
+<chapter name="ekstrastaminal">
 <b>ekstrastaminal</b> ['æks-] (<sp>bot</sp>.) bet. »uden for
 Støvdragerkredsen« i Blomsten, f. Eks.
 Honningkirtler (hos <i>Helleborus</i>) ell. Staminodier
 (hos <i>Sparrmannia</i>).
 <i>V. A. P.</i></chapter>
 
-<chapter name=”Ekstrastrøm”>
+<chapter name="Ekstrastrøm">
 <b>Ekstrastrøm</b> ['æks-], Strøm frembragt i en
 elektrisk Ledning ved Selvinduktion. Se
 <sp>Induktion</sp>.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Ekstrating”>
+<chapter name="Ekstrating">
 <b>Ekstrating</b> ['æks-] kaldes i Norge de
 Retsmøder, som blev anordnede ved L. 12. Oktbr 1857
 § 9, for at der skal være Adgang til at faa
@@ -121,11 +121,11 @@ Vidneførsel foregaa, ell. Skøn afgives, hvis ikke
 Dommeren og alle Vedk. deri samtykker.
 <i>K. Ø.</i></chapter>
 
-<chapter name=”Ekstratog”>
+<chapter name="Ekstratog">
 <b>Ekstratog</b> ['æks-](<sp>Særtog</sp>), se
 <sp>Jernbanetog</sp>.</chapter>
 
-<chapter name=”ekstrauterint Svangerskab”>
+<chapter name="ekstrauterint Svangerskab">
 <b>ekstrauterint Svangerskab</b> ['æks-],
 Svangerskab uden for Livmoderen. Medens ved et
 normalt Svangerskab Ægget efter at have

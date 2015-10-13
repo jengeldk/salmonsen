@@ -5,7 +5,7 @@ ved Kanonens Manipulation. Navnet fik de, fordi
 de oftest var formede som Delfiner.
 <i>H. H.</i></chapter>
 
-<chapter name=”Delfinen (astron.)”>
+<chapter name="Delfinen (astron.)">
 <b>Delfinen</b> (<i>Delphinus</i>) (<sp>astron.</sp>), et lille
 Stjernebillede Ø. f. Ørnen, let kendelig ved 4
 Stjerner (4. Størrelse), der danner en lille
@@ -23,7 +23,7 @@ Algolstjerner. Af Stjernetaager findes nogle ganske
 svage samt en større kugleformig Stjernehob.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Delfiner”>
+<chapter name="Delfiner">
 <b>Delfiner</b> (<i>Delphinidæ</i>), den ene
 Hovedgruppe af Tandhvaler, omfattende de 3
 Undergrupper: <sp>buthovedede D.</sp> (<i>Phocæninæ</i>),

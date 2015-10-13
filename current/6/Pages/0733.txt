@@ -10,7 +10,7 @@ ved og forhenværende Elever af den. (<sp>Litt</sp>.:
 <i>Annales des sciences politiques</i>, Marts 1907).
 <i>K. V. H.</i></chapter>
 
-<chapter name=”École normale”>
+<chapter name="École normale">
 <b>École normale</b> [e'kål-når'mal] (fr.),
 Uddannelsesanstalt for Lærere, Seminarium. Tanken
 om <i>É. n.</i> fremkom under Nationalkonventet 1794;
@@ -77,7 +77,7 @@ Eleverne skal høre adskillige Forelæsninger i
 des hautes études</i>.
 <i>Fr. Th.</i></chapter>
 
-<chapter name=”École polytechnique”>
+<chapter name="École polytechnique">
 <b>École polytechnique</b> [e'kål-pålitæk'nik], fr.
 Forskole for Officerer, højere tekn.
 Tjenestemænd samt Videnskabsmænd inden for
@@ -98,7 +98,7 @@ Ingeniører ell. knyttede til Statsfabrikker. E. p.
 sorterer under Krigsministeriet og ledes af en
 Ingeniør- ell. Artillerigeneral.</chapter>
 
-<chapter name=”École supérieure de guerre”>
+<chapter name="École supérieure de guerre">
 <b>École supérieure de guerre</b> [e'kål-sype
 'r<sub>i</sub>ö.r-d<sub>ö</sub>-'gæ.r], fr. milit. Undervisningsanstalt,
 oprettet ved Dekret af 15. Juni 1878 med det
@@ -112,10 +112,10 @@ at være egnede til Generalstabstjeneste: <i>brevet
 d'état major</i>.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Economiser”>
+<chapter name="Economiser">
 <b>Economiser</b> [<sub>e</sub>'kån<sub>o</sub>ma^izə], se <sp>Dampkedel</sp>.</chapter>
 
-<chapter name=”Ecorcheville”>
+<chapter name="Ecorcheville">
 <b>Ecorcheville</b> [ekår'∫vil], <sp>Jules</sp>, fransk
 Musikolog, f. 18. Marts 1872 i Paris, faldet paa
 Slagmarken i Champagne 19. Febr 1915, Elev
@@ -131,7 +131,7 @@ Nationalbiblioteket i Paris. Ved sin Død var han Præsident
 for »Internationalt Musikselskab«.
 <i>A. H.</i></chapter>
 
-<chapter name=”Écossaise”>
+<chapter name="Écossaise">
 <b>Écossaise</b> [ekå'sæ.z], opr. en skotsk
 Runddans af alvorlig Karakter i 3/2 ell. 3/4 Takt, gik
 senere, i Tyskland, Frankrig o. a. Lande, over
@@ -139,7 +139,7 @@ til at blive en livlig Kontradans i 2/4 Takt;
 ogsaa Musikken til en saadan Dans.
 <i>S. L.</i></chapter>
 
-<chapter name=”Écouen”>
+<chapter name="Écouen">
 <b>Écouen</b> [e'kwã], Flække i det nordvestlige
 Frankrig, Dept Seine-et-Oise, Arrond. Pontoise,
 ligger ved Nordbanen, 18 km N. f. Paris, paa

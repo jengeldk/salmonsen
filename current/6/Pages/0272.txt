@@ -2,7 +2,7 @@ Polarisationsapparater: Nörremberg's Apparat,
 Turmalintang o. s. v. (se <sp>Polarisation</sp>).
 <i>H. M. H.</i></chapter>
 
-<chapter name=”Dobbeltbund”>
+<chapter name="Dobbeltbund">
 <b>Dobbeltbund,</b> en Konstruktion, bestaaende
 af en Yder- og en Inderklædning, Inderbunden,
 indbyrdes afstivet ved langskibs og tværskibs
@@ -23,7 +23,7 @@ udføres, naar Skibene skulde sejle uden
 Ladning.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Dobbeltbæger”>
+<chapter name="Dobbeltbæger">
 <b>Dobbeltbæger</b> er Navnet paa en særlig Art
 Bægre fra 15.-17. Aarh. D. gjordes mest af
 Sølv og bestod af et med Fod forsynet
@@ -38,22 +38,22 @@ der dannedes af Figurens Underdel, maatte
 tømmes af Herren, før det igen kunde henstilles.
 (<i>I. F.). J. O.</i></chapter>
 
-<chapter name=”dobbeltbænket”>
+<chapter name="dobbeltbænket">
 <b>dobbeltbænket</b> (<sp>Søv</sp>.). Et Fartøj siges at
 være d., naar det har tilstrækkelig Bredde til,
 at 2 Mand kan sidde paa samme Tofte og ro.</chapter>
 
-<chapter name=”Dobbeltcyanider”>
+<chapter name="Dobbeltcyanider">
 <b>Dobbeltcyanider,</b> se <sp>Cyanider</sp>.</chapter>
 
-<chapter name=”Dobbeltdekomposition”>
+<chapter name="Dobbeltdekomposition">
 <b>Dobbeltdekomposition,</b> se <sp>Proces, den
 kemiske</sp>.</chapter>
 
-<chapter name=”Dobbeltdrejl”>
+<chapter name="Dobbeltdrejl">
 <b>Dobbeltdrejl,</b> se <sp>Drejl</sp>.</chapter>
 
-<chapter name=”Dobbeltdyret”>
+<chapter name="Dobbeltdyret">
 <b>Dobbeltdyret</b> (<i>Diplozoon paradóxum</i>), en
 Ikteart, hørende til de monogene Ikter; den
 snylter paa Gællerne af Karpefisk og afsætter
@@ -88,18 +88,18 @@ Enkeltindividet
 (<i>Diporpa</i>).</img>
 </chapter>
 
-<chapter name=”dobbelte Blomster”>
+<chapter name="dobbelte Blomster">
 <b>dobbelte Blomster,</b> d. s. s. fyldte Blomster
 (se <sp>Blomst</sp>, S. 463).</chapter>
 
-<chapter name=”dobbelte Bramrær”>
+<chapter name="dobbelte Bramrær">
 <b>dobbelte Bramrær</b> (<sp>Søv</sp>.). Bramsejlene
 paa større Sejlskibe deles ofte i 2: <sp>Under</sp>- og
 <sp>Overbramsejl</sp>, der hver er bændslede til
 sin Raa: <sp>Over</sp>- og <sp>Underbramraa</sp>.
 <i>H. E.</i></chapter>
 
-<chapter name=”Dobbeltflint”>
+<chapter name="Dobbeltflint">
 <b>Dobbeltflint,</b> Bøsse med Flintlaas og to Løb,
 af hvilke det ene undertiden var glat, det
 andet riflet. D. brugtes mest til Jagt, men fandt
@@ -111,14 +111,14 @@ Løbene kunde drejes, saaledes at de før
 Affyringen kunde stilles hen foran Laasen.
 (<i>E. P.). C. Q.</i></chapter>
 
-<chapter name=”Dobbeltflyndere”>
+<chapter name="Dobbeltflyndere">
 <b>Dobbeltflyndere,</b> se <sp>Flynderfisk</sp>.</chapter>
 
-<chapter name=”Dobbeltfløjte”>
+<chapter name="Dobbeltfløjte">
 <b>Dobbeltfløjte,</b> 1) se <sp>Diaulos</sp>. 2) se
 <sp>Labialstemmer</sp>.</chapter>
 
-<chapter name=”Dobbeltforhold”>
+<chapter name="Dobbeltforhold">
 <b>Dobbeltforhold</b> (<sp>mat</sp>.). Ved D. eller 
 <sp>anharmonisk Forhold</sp> mellem 4 Punkter
 <i>a b c d</i> paa en ret Linie, paa hvilken

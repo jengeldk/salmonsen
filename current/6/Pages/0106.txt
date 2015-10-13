@@ -80,15 +80,15 @@ Bugspytkirtlens normale og patologiske
 Anatomi« [Kbhvn 1910, Disp.]).
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Diabetiker”>
+<chapter name="Diabetiker">
 <b>Diabetiker,</b> Patient lidende af Diabetes.</chapter>
 
-<chapter name=”diable”>
+<chapter name="diable">
 <b>diable</b> ['d<sub>i</sub>a.bl] (fransk), Djævel. <i>Diablerie</i>
 [d<sub>i</sub>abl<sub>ö</sub>'ri], Djævelskab, Hekseri, Navn paa en
 Art Skuespil hørende til Moraliteterne.</chapter>
 
-<chapter name=”Diablerets”>
+<chapter name="Diablerets">
 <b>Diablerets,</b> <sp>les</sp> [læ-d<sub>i</sub>abl<sub>ö</sub>'ræ], stejlt
 Kalkstensbjerg (3246 m) i Wildhorn-Gruppen i
 Freiburger-Alperne, ved Grænsen af Kantonerne
@@ -97,21 +97,21 @@ ligger en Gletscher, 2,3 km lang og indtil 700 m
 bred.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Diabolos”>
+<chapter name="Diabolos">
 <b>Diabolos</b> (gr., egl. »Bagvadsker«), Djævel;
 deraf <sp>diabolsk</sp>, d. s. s. djævelsk;
 <sp>Diabolisme</sp>, Djævelsværk, Djævleherredømme.</chapter>
 
-<chapter name=”diabolsk”>
+<chapter name="diabolsk">
 <b>diabolsk,</b> se Diabolos.</chapter>
 
-<chapter name=”Diacetamid”>
+<chapter name="Diacetamid">
 <b>Diacetamid,</b> se <sp>Acetamid</sp>.</chapter>
 
-<chapter name=”Diaceturi”>
+<chapter name="Diaceturi">
 <b>Diaceturi,</b> se <sp>Acetonuri</sp>.</chapter>
 
-<chapter name=”Diacetyl”>
+<chapter name="Diacetyl">
 <b>Diacetyl,</b> CH<sub>3</sub>.CO.CO.CH<sub>3</sub>, er en Diketon,
 der fremstilles af Metylætylketon CH<sub>3</sub> . CO . CH<sub>2</sub>
 . CH<sub>3</sub> ved Behandling med Amylnitrit og
@@ -125,7 +125,7 @@ ved 20°. Ved Indvirkning af Brintoverilte
 spaltes D. i 2 Molekyler Eddikesyre.
 <i>R. K.</i></chapter>
 
-<chapter name=”Diachylon”>
+<chapter name="Diachylon">
 <b>Diachylon</b> [-'ky.-] (gr.) betyder: (tilberedt) med
 Plantesaft. Navnet hidrører fra gl Tid, da man
 tilberedte Plastre af Sølverglød, Fedt og
@@ -135,16 +135,16 @@ plumbici</i>) er en Blysalve tilberedt af 13 Dele
 Blyplaster og 7 Dele Vaselinolie.
 <i>E. K.</i></chapter>
 
-<chapter name=”Diacodion”>
+<chapter name="Diacodion">
 <b>Diacodion</b> (Saft), d. s. s. <sp>Valmuesaft</sp>.</chapter>
 
-<chapter name=”Diaconus”>
+<chapter name="Diaconus">
 <b>Diaconus,</b> se <sp>Diakon</sp>.</chapter>
 
-<chapter name=”Diadelfit”>
+<chapter name="Diadelfit">
 <b>Diadelfit,</b> d. s. s. <sp>Hæmatolit</sp>.</chapter>
 
-<chapter name=”Diadem”>
+<chapter name="Diadem">
 <b>Diadem</b> (gr.), Smykke ell. Baand om Panden
 og Haaret. I Grækenland hørte D. til den alm.
 Dragt i den ældste Tid, da alle bar langt Haar;

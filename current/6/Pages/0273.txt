@@ -2,7 +2,7 @@ Toppunkterne paa et Keglesnit, hvis Linier parvis
 skærer hinanden paa Keglesnittet, o. s. v.
 <i>Chr. C</i>.</chapter>
 
-<chapter name=”Dobbeltforsikring”>
+<chapter name="Dobbeltforsikring">
 <b>Dobbeltforsikring</b> foreligger, naar samme
 Interesse i den samme Genstand er forsikret
 samtidig hos fl. Forsikrere mod samme Fare,
@@ -31,7 +31,7 @@ hvor Vurderingerne beror paa et rent
 <sp>subjektivt</sp> Skøn.
 <i>Chr. Th.</i></chapter>
 
-<chapter name=”Dobbeltforslag”>
+<chapter name="Dobbeltforslag">
 <b>Dobbeltforslag,</b> en musikalsk Forsiring, der
 bestaar i, at den øvre og nedre Vekselnode
 (s. d.) udføres hurtigt foran Hovednoden,
@@ -40,10 +40,10 @@ altsaa f. Eks.:
 
 <img></img></chapter>
 
-<chapter name=”Dobbeltfuga”>
+<chapter name="Dobbeltfuga">
 <b>Dobbeltfuga,</b> se <sp>Fuga</sp>.</chapter>
 
-<chapter name=”Dobbeltgas”>
+<chapter name="Dobbeltgas">
 <b>Dobbeltgas.</b> Denne Betegnelse træffes i
 Faglitteraturen anvendt paa to forsk. Maader: 1)
 Til Betegnelse af den Blanding af Kulgas med
@@ -84,7 +84,7 @@ vanskeligt at udtale nogen Dom om deres
 fremtidige Bet.
 <i>R. T.</i></chapter>
 
-<chapter name=”Dobbelt-Generator”>
+<chapter name="Dobbelt-Generator">
 <b>Dobbelt-Generator,</b> Apparat til Udvikling
 af 1) <sp>Dobbeltgas</sp> (s. d.) efter Strache's ell.
 Young's System ell. 2) til Fremstilling af
@@ -93,14 +93,14 @@ Stoffer, der ikke nar saa rent Kulstofindhold
 som Koks og Kul.
 <i>R. T.</i></chapter>
 
-<chapter name=”Dobbeltgreb”>
+<chapter name="Dobbeltgreb">
 <b>Dobbeltgreb</b> kaldes den samtidige Angivelse
 af to ell. fl. Toner paa et Strygeinstrument; de
 frembringes derved, at Buen stryges over to
 ell. fl. Strenge paa een Gang.
 <i>S. L.</i></chapter>
 
-<chapter name=”Dobbeltgænger”>
+<chapter name="Dobbeltgænger">
 <b>Dobbeltgænger</b> kalder Folkeovertroen
 saadanne levende Personer, som antages samtidig
 at kunne optræde paa to forsk. Steder. Af de

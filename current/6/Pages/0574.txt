@@ -26,7 +26,7 @@ du Marais, historiettes des temps modernes</i>
 i 9 Bd.
 <i>S. Ms.</i></chapter>
 
-<chapter name=”Duval, Charles Alexandre Amaury Pineux”>
+<chapter name="Duval, Charles Alexandre Amaury Pineux">
 <b>Duval</b> [dy'val], <i>Charles Alexandre
 Amaury Pineux</i>, fr. Oldgransker og
 Litterærhistoriker, f. 28. Jan. 1760 i Rennes, d. 12.
@@ -54,10 +54,10 @@ i Bd XVII om Bertran de Born). I Bd XX (1842)
 har Paulin Paris skildret hans Liv.
 <i>V. S.</i></chapter>
 
-<chapter name=”Duval, E.”>
+<chapter name="Duval, E.">
 <b>Duval</b> [dy'val], <sp>E.</sp>, se <sp>Amaury-Duval</sp>.</chapter>
 
-<chapter name=”Duval, Mathias Marie”>
+<chapter name="Duval, Mathias Marie">
 <b>Duval</b> [dy'val], <sp>Mathias Marie</sp>, fr.
 Anatom, f. 7. Febr 1844 i Grasse, d. i Paris 1.
 Marts 1907. Han studerede i Paris, tog
@@ -84,10 +84,10 @@ en Samling Forelæsninger over Nervesystemets
 Fysiologi og en Anatomi for Kunstnere.
 <i>J. S. J.</i></chapter>
 
-<chapter name=”Duval, Raoul”>
+<chapter name="Duval, Raoul">
 <b>Duval</b> [dy'val], <sp>Raoul</sp>, se <sp>Raoul-Duval</sp>.</chapter>
 
-<chapter name=”Duval, Valentin”>
+<chapter name="Duval, Valentin">
 <b>Duval</b> [dy'val], <sp>Valentin</sp>, fr. Historiker
 og Numismatiker, f. 1696 i Champagne, d. 1775
 i Wien. Han hed opr. <sp>Jameray</sp> og var
@@ -108,7 +108,7 @@ væsentlig af numismatisk Indhold, udg. af Koch,
 1785.
 <i>H. A. K.</i></chapter>
 
-<chapter name=”Duval-Jouve, Joseph”>
+<chapter name="Duval-Jouve, Joseph">
 <b>Duval-Jouve</b> [dy'val-'зu.v], <sp>Joseph</sp>, fr.
 Botaniker, f. 1810, d. 1883 i Montpellier.
 Inspektør ved Akademiet i Strassburg. Hans
@@ -120,10 +120,10 @@ Graminées</i>; <i>Étude anatomique de quelques
 Graminées</i> etc.).
 <i>A. M.</i></chapter>
 
-<chapter name=”duve”>
+<chapter name="duve">
 <b>duve,</b> se <sp>Duvning</sp>.</chapter>
 
-<chapter name=”Duved”>
+<chapter name="Duved">
 <b>Duved</b> (ældre : <sp>Dufed</sp>), Jernbanestation i
 Åre Sogn, Jämtlands Amt, ved den nordlandske
 Tværbane, 52 km fra Norges Grænse, 384 m o.
@@ -141,7 +141,7 @@ Karoliners ulykkelige Tilbagetog over de norske
 Fjelde 1718-19.
 <i>A. M. D.</i></chapter>
 
-<chapter name=”Duvergier de Hauranne”>
+<chapter name="Duvergier de Hauranne">
 <b>Duvergier de Hauranne</b> [dyvær'з<sub>i</sub>e-dö-
 o'ran], <sp>Jean</sp>, fr. Abbed, f. 1581 i Bayonne,
 d. i Paris 11. Oktbr 1643, fik sin væsentligste

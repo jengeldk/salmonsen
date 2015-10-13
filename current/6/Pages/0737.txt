@@ -30,7 +30,7 @@ Republik E.« [Berlin 1892-98]; <sp>Whymper</sp>,
 von E.« [Berlin 1907]).
 <i>M. V.</i></chapter>
 
-<chapter name=”Ed (jur.)”>
+<chapter name="Ed (jur.)">
 <b>Ed.</b> Inden for Retslivets forskellige Omraader
 benyttes Edsaflæggelse som Middel til at
 fremtvinge sandfærdige Forklaringer ell. sikre
@@ -139,6 +139,6 @@ Formularen end Ordene: Jeg sværger (<i>je le
 jure</i>).
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Ed, Sogn og Landsby”>
+<chapter name="Ed, Sogn og Landsby">
 <b>Ed,</b> Sogn og Landsby i Mellemsverige,
 Landskab Dalsland, Elfsborg Län, med Station paa

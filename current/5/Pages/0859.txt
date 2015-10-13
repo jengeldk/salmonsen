@@ -4,7 +4,7 @@ Arbejds- og Lønningsvilkaar. Redaktøren vælges
 af Dansk Telegrafforenings Bestyrelse.
 <i>M. G.</i></chapter>
 
-<chapter name=”Dansk Toldtidende”>
+<chapter name="Dansk Toldtidende">
 <b>Dansk Toldtidende,</b> et Maanedsskrift, der
 er udkommet siden 1903 og er Medlemsblad for
 den danske Toldetats Forening. Det har i
@@ -12,7 +12,7 @@ Aarenes Løb bragt adskillige gode Artikler om
 danske og fremmede Toldforhold.
 <i>F. T.</i></chapter>
 
-<chapter name=”Dansk Tunge”>
+<chapter name="Dansk Tunge">
 <b>Dansk Tunge</b> er det gl. Navn for det danske
 Tungemaal; men herved forstodes, hvad vi nu
 kalder de nordiske Sprog ell., med et nylavet
@@ -29,7 +29,7 @@ Folkeviser (se »Litteratur« under <sp>Danmark</sp>)
 og som Digterord lige ned til vore Dage.
 <i>A. O.</i></chapter>
 
-<chapter name=”Dansk-tyske Krige”>
+<chapter name="Dansk-tyske Krige">
 <b>Dansk-tyske Krige</b> (1848-50 og 1864).
 <sp>Krigen 1848-50</sp>, sædvanlig kaldet »den første
 slesvigske Krig«, udbrød Foraaret 1848.

@@ -52,7 +52,7 @@ en Apollostatue, til Jesuiterkirken i Bordeaux:
 »F. Xavier's Apoteose« (1743).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Coutances”>
+<chapter name="Coutances">
 <b>Coutances</b> [ku'tã.s], By i det nordvestlige
 Frankrig, Dept La Manche, Hovedstad i
 <sp>Arrondissementet C.</sp>, 90 km S. f.
@@ -76,7 +76,7 @@ af Constantius Chlorus; den blev Bispesæde i
 Grevskabet Cotentin.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Couthon, Georges”>
+<chapter name="Couthon, Georges">
 <b>Couthon</b> [ku'tå], <sp>Georges</sp>, fr.
 Revolutionsmand, f. 1755 i Orcet i Auvergne, henrettet i Paris
 10. Thermidor II (28. Juli 1794). Ved Revolutionens
@@ -113,14 +113,14 @@ han forsøgte at dræbe sig, og Dagen efter
 guillotineret.
 <i>P. L. M.</i></chapter>
 
-<chapter name=”Coutils”>
+<chapter name="Coutils">
 <b>Coutils</b> [ku'ti], forskellige af Hamp, Hør,
 Bomuld ell. en Blanding af disse vævede,
 sildebensmønstrede Drejler, særlig fra det nordlige
 Frankrig.
 <i>K. M.</i></chapter>
 
-<chapter name=”Coutras”>
+<chapter name="Coutras">
 <b>Coutras</b> [ku'tras], By i det sydvestlige
 Frankrig, Dept Gironde, Arrond. Libourne, ved
 Dronne, nær ved dens Forening med Isle,
@@ -133,10 +133,10 @@ Henrik af Navarra 20. Oktbr 1587 de kgl. Tropper
 under Hertugen af Joyeuse.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Coutts”>
+<chapter name="Coutts">
 <b>Coutts</b> [ku.ts], se <sp>Burdett-C</sp>.</chapter>
 
-<chapter name=”coutumes”>
+<chapter name="coutumes">
 <b>coutumes</b> [ku'tym] (fr.) er i den fr.
 Retshistorie Betegnelsen for den gl. fr. Sædvaneret,
 som, efter at den frankiske Lovgivning (<i>lex

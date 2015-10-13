@@ -2,10 +2,10 @@
 Seeberg</sp>, »Die Theologie des J. D. S.« [1900]).
 <i>(J. P. B.). A. Th. J.</i></chapter>
 
-<chapter name=”Dunst”>
+<chapter name="Dunst">
 <b>Dunst</b> kaldes de mindste brugelige Hagl.</chapter>
 
-<chapter name=”Dunstable”>
+<chapter name="Dunstable">
 <b>Dunstable</b> ['danst<sub>ə</sub>b£], By i Mellemengland,
 Bedfordshire, er et Jernbaneknudepunkt, 150
 m o. H., 56 km NV. f. London. (1911) 8057 Indb.
@@ -14,7 +14,7 @@ Augustinerkloster, som ophævedes 1536. Den vigtigste
 Industri er Straahattefletning.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dunstable, John”>
+<chapter name="Dunstable, John">
 <b>Dunstable</b> ['danst<sub>ə</sub>b£], <sp>John</sp>, eng.
 Kontrapunktiker af den ældste Skole (tillige
 Matematiker og Astronom), d. 24. Decbr 1458. Det
@@ -28,7 +28,7 @@ efter de nylig fremdragne Trienter = Codices
 Oesterreich« VII (1900).
 <i>A. H.</i></chapter>
 
-<chapter name=”Dunstan, den hellige”>
+<chapter name="Dunstan, den hellige">
 <b>Dunstan</b> ['danst<sub>ə</sub>n], <sp>den hellige</sp>,
 Reformator af den angelsachsiske Kirke, f. 924 ell.
 25 i Nærheden af Glastonbury, d. 19. Maj 988 i
@@ -89,14 +89,14 @@ of Saint D.</i> [London 1874]; <sp>Hook</sp>, <i>Lives of the
 archbishops of Canterbury I</i> [London 1860]).
 <i>H. O.</i></chapter>
 
-<chapter name=”Dunstanborough Castle”>
+<chapter name="Dunstanborough Castle">
 <b>Dunstanborough Castle</b> ['danst<sub>ə</sub>nbər<sub>o</sub>-
 'ka.s£], Borgruin ved Embleton paa
 Northumberlands Kyst (England) fra førromersk Tid. Et
 Taarn i Nærheden siges at være Duns Scotus'
 Fødested.</chapter>
 
-<chapter name=”Dun-sur-Auron”>
+<chapter name="Dun-sur-Auron">
 <b>Dun-sur-Auron</b> [dö-syr-å'rå] eller
 <sp>Dun-le-Roi</sp>, By i det midterste Frankrig, Dept Cher,
 Airond. St-Armand-Montrond (Berry), ved
@@ -107,7 +107,7 @@ gamle Huse fra 13.-15. Aarh. og Rester af
 Fæstningsværker og en rom. Vandledning.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Duo”>
+<chapter name="Duo">
 <b>Duo,</b> et Musikstykke for 2 (forskelligartede)
 obligate Instrumenter, med ell. uden Ledsagelse.
 Kompositioner for 2 Sangstemmer, ligesom for
@@ -115,7 +115,7 @@ Kompositioner for 2 Sangstemmer, ligesom for
 oftest <sp>Duet</sp>.
 <i>S. L.</i></chapter>
 
-<chapter name=”Duodecimalsystem”>
+<chapter name="Duodecimalsystem">
 <b>Duodecimalsystem</b> (<sp>dodekadisk
 System</sp>) i Maaling bestaar i, at Enhederne er
 valgte saaledes, at enhver af dem er indeholdt
@@ -125,14 +125,14 @@ derved, at 12 er deleligt med forholdsvis mange
 af de lavere Tal.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Duodecima”>
+<chapter name="Duodecima">
 <b>Duodecima</b> [d<sub>u</sub>å'det∫ima], et Interval paa 12
 Tonetrin ell. det 12. Trin i den diatoniske Skala,
 der altsaa har s. N. som det 5., Kvinten. Se
 <sp>Interval</sp>.
 <i>S. L.</i></chapter>
 
-<chapter name=”Duodenitis”>
+<chapter name="Duodenitis">
 <b>Duodenitis,</b> Betændelse af Duodenum
 (Tolvfingertarmen). Sygdommen er oftest en Katarr
 og gerne ledsagende en Katarr af Maven
@@ -156,7 +156,7 @@ Lidelse og bestaar altsaa i Diæt, Regulering af
 Afføringen, Ro, Omslag.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Duodenostomi”>
+<chapter name="Duodenostomi">
 <b>Duodenostomi,</b> Operation, hvorved man
 danner en blivende Aabning paa Duodenum. En
 Aabning udvendig fra til Duodenom anbringes

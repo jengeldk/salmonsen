@@ -29,13 +29,13 @@ Analyse des Menschen seit Renaissance und
 Reformation«).
 <i>W. N.</i></chapter>
 
-<chapter name=”diluendo”>
+<chapter name="diluendo">
 <b>diluendo</b> (ital.), d. s. s. <i>morendo</i>.</chapter>
 
-<chapter name=”Diluvialtiden”>
+<chapter name="Diluvialtiden">
 <b>Diluvialtiden,</b> se <sp>Diluvium</sp>.</chapter>
 
-<chapter name=”Diluvium”>
+<chapter name="Diluvium">
 <b>Diluvium</b> var opr. en Betegnelse for
 Aflejringer, der mentes at skylde Syndfloden deres
 Oprindelse. Nu anvender Geologerne
@@ -44,21 +44,21 @@ Betegnelsen for alle Aflejringer fra Kvartærperiodens
 <sp>Kvartærformation</sp>.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”dim.”>
+<chapter name="dim.">
 <b>dim.,</b> Forkortelse af <i>diminuendo</i> (s. d.).</chapter>
 
-<chapter name=”Dimbovitza”>
+<chapter name="Dimbovitza">
 <b>Dimbovitza</b> ['dimbovitsa] (<sp>Dambowitza</sp>),
 venstre Biflod til Arges i Rumænien, udspringer
 paa de transsilvanske Bjerge, gennemstrømmer
 Bukarest og udmunder ovenfor Oltenitza.
 <i>M. V.</i></chapter>
 
-<chapter name=”dime”>
+<chapter name="dime">
 <b>dime</b> [da^im], Sølvmønt i de nordamerikanske
 Fristater, af Værdi 10 cents.</chapter>
 
-<chapter name=”Dimension”>
+<chapter name="Dimension">
 <b>Dimension</b> (<sp>mat</sp>.). Ligesom man i daglig
 Tale siger, at et Stykke af en ret Linie har een
 D., Længde, en Flade to, Bredde og Længde, et
@@ -137,15 +137,15 @@ religiøse Bet. (<sp>Litt</sp>.: <sp>Zöllner</sp>,
 »Wissenschaftliche Abhandlungen« [1.-3. Bd, Leipzig 1878]).
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”Dimeter”>
+<chapter name="Dimeter">
 <b>Dimeter</b> (gr.), Vers bestaaende af to
 Versfødder (ell. af to Dipodier).
 <i>K. H.</i></chapter>
 
-<chapter name=”Dimetyl”>
+<chapter name="Dimetyl">
 <b>Dimetyl,</b> se <sp>Ætan</sp>.</chapter>
 
-<chapter name=”Dimetylamin”>
+<chapter name="Dimetylamin">
 <b>Dimetylamin,</b> (CH<sub>3</sub>)<sub>2</sub>NH, en sekundær
 Monoamin (se <sp>Aminer</sp>), findes i mindre Mængde
 i Sildelage og kan fremstilles, sammen med
@@ -154,7 +154,7 @@ med Ammoniak. D. er en farveløs Vædske, der
 koger ved 7,2° og har Vægtfylde 0,687.
 <i>R. K.</i></chapter>
 
-<chapter name=”Dimetylanilin”>
+<chapter name="Dimetylanilin">
 <b>Dimetylanilin,</b> C<sub>6</sub>H<sub>5</sub>. N(CH<sub>3</sub>)<sub>2</sub>, en blandet
 alifatisk aromatisk tertiær Amin, der afledes af
 anilin derved, at to Brintatomer i

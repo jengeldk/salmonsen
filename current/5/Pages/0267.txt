@@ -2,7 +2,7 @@ km Sporveje; 151 km Sporveje var under
 Bygning.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Cotelier, Jean-Baptiste”>
+<chapter name="Cotelier, Jean-Baptiste">
 <b>Cotelier</b> [kot'l<sub>i</sub>e] (<sp>Cotelerius</sp>),
 <sp>Jean-Baptiste</sp>, fr. Sproglærd (1629-86), kom
 allerede 1641 til Paris, hvor han erhvervede sig
@@ -16,7 +16,7 @@ oldkirkelige Skr; mest kendt er <i>Patres ævi apostolici</i>
 (1672).
 <i>H. M.</i></chapter>
 
-<chapter name=”Cotentin”>
+<chapter name="Cotentin">
 <b>Cotentin</b> [kåta'tæ] eller <sp>Coutantin</sp>, en
 mod N. rettet Halvø i det nordvestlige
 Frankrig (Landskabet Normandiet) ved Kanalen. Den
@@ -28,7 +28,7 @@ C. hed i Romertiden <i>pagus Constantinus</i> og
 havde til Hovedstad Constantia (Coutances).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Cotes, Roger”>
+<chapter name="Cotes, Roger">
 <b>Cotes</b> [ko.<sub>u</sub>ts], <sp>Roger</sp>, eng. Matematiker
 (1682-1716), var fra 1706 Prof. i Astronomi og
 Eksperimentalfysik i Cambridge. Foruden Afh.
@@ -41,7 +41,7 @@ Sætning om et Punkts Polarlinie m. H. t. en Kurve
 (se <sp>Pol</sp>).
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Côte-Saint-André, La”>
+<chapter name="Côte-Saint-André, La">
 <b>Côte-Saint-André, La</b> [la-'ko.t-sæt-ã'dre],
 By i det sydøstlige Frankrig, Dept Isère, Arrond.
 Vienne, 49 km NV. f. Grenoble, 370 m o. H.,
@@ -50,14 +50,14 @@ Slot og c. 3500 Indb. C. har Silkeavl og Industri
 i Straahatte, Handsker og Likører.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Côte-Saint-Antoine”>
+<chapter name="Côte-Saint-Antoine">
 <b>Côte-Saint-Antoine</b> ['ko.t-sæt-a'twan], By i
 Dominion of Canada, Prov. Quebec, ligger paa
 Montreal Island og er en Villaforstad til Byen
 Montreal. C. er ogsaa kendt for sit store Kloster.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Côtes-du-Nord”>
+<chapter name="Côtes-du-Nord">
 <b>Côtes-du-Nord</b> ['ko.t-dy-'nå.r] (ɔ:
 Nordkysterne), Dept i det nordvestlige Frankrig,
 bestaar af den nordøstlige Del af Bretagne og
@@ -116,11 +116,11 @@ Fiskerflaader til Island. Dept er forsynet med
 gennem den sydvestlige Del af Dept.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”cotidal lines”>
+<chapter name="cotidal lines">
 <b>cotidal lines</b> [k<sub>ə</sub>'ta^id<sub>ə</sub>£-'£a^inz], se
 <sp>Tidevand</sp>.</chapter>
 
-<chapter name=”Cotin, Charles”>
+<chapter name="Cotin, Charles">
 <b>Cotin</b> [kå'tæ], <sp>Charles</sp>, fr. Abbé (1604-
 82), optraadte som æstetiserende Skønaand, var
 hyppig Gæst i Hôtel de Rambouillet, skrev
@@ -134,13 +134,13 @@ fremstillede ham under Navnet <sp>Trissotin</sp>
 under Behandling i sine Satirer.
 <i>Kr. N.</i></chapter>
 
-<chapter name=”Cotingidæ”>
+<chapter name="Cotingidæ">
 <b>Cotingidæ,</b> se <sp>Kotinga</sp>'er.</chapter>
 
-<chapter name=”Cotinus”>
+<chapter name="Cotinus">
 <b>Cotinus,</b> se <sp>Rhus</sp>.</chapter>
 
-<chapter name=”Cotman, John Sell”>
+<chapter name="Cotman, John Sell">
 <b>Cotman</b> ['kåtm<sub>ä</sub>n], <sp>John Sell</sp>, engelsk
 Maler og Raderer, f. 1782 i Norwich, d. 24. Juli
 1842 i London. C. sluttede sig i London under
@@ -161,7 +161,7 @@ Norwich-Skolens bedste Kræfter. <sp>(Litt.</sp>:
 <sp>Binyon</sp>, <i>J. Crome a. J. S. C.</i> [London 1906]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Cotobark”>
+<chapter name="Cotobark">
 <b>Cotobark,</b> en fra Bolivia stammende Bark,
 hvis hot. Afstamning ikke er sikkert kendt, men
 som maa være et til Laurbær-Familien hørende

@@ -5,13 +5,13 @@ af Konglomerater, Sandsten og Skifere
 bestaaende Aflejringer af nedrekambrisk Alder.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”divided skirt”>
+<chapter name="divided skirt">
 <b>divided skirt</b> [d<sub>i</sub>'va^<sub>i</sub>d<sub>i</sub>d-'skə.t] (eng.), delt
 Nederdel, der bruges af Damer til Ridning og
 Motorkørsel.
 <i>R. H.</i></chapter>
 
-<chapter name=”divide et impera”>
+<chapter name="divide et impera">
 <b>divide et impera</b> (lat.), del og hersk!
 Politisk Grundsætning, iflg. hvilken man splitter
 sine Modstandere for lettere at faa Bugt med
@@ -24,10 +24,10 @@ at undgaa, at de forsk. Folks Interesser faldt
 sammen.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Dividend”>
+<chapter name="Dividend">
 <b>Dividend,</b> se <sp>Division</sp>.</chapter>
 
-<chapter name=”Dividende”>
+<chapter name="Dividende">
 <b>Dividende,</b> det, der bliver at fordele
 mellem fl. Parthavere. I et Konkursbo er D. det,
 der efter Boets Opgørelse fordeles til
@@ -39,10 +39,10 @@ som ligeledes ofte angives i Procent, nemlig
 af Aktiekapitalen. Se <sp>Aktieselskab</sp>.
 <i>(E. M.). C. Th.</i></chapter>
 
-<chapter name=”dividere”>
+<chapter name="dividere">
 <b>dividere,</b> se <sp>Division</sp>.</chapter>
 
-<chapter name=”Dividivi”>
+<chapter name="Dividivi">
 <b>Dividivi,</b> <sp>Libidivi</sp>, de garvestofholdige
 Bælgkapsler af <i>Cæsalpinia coriaria</i> fra Mellem-
 og Sydamerika og Vestindien. Frugterne er 3-
@@ -58,10 +58,10 @@ Varietet <sp>Cascalotte</sp> har større Bælge og
 indeholder indtil 55 % Garvestof.
 <i>K. M.</i></chapter>
 
-<chapter name=”Divina Commedia, La”>
+<chapter name="Divina Commedia, La">
 <b>Divina Commedia, La,</b> se <sp>Dante</sp>.</chapter>
 
-<chapter name=”Divination”>
+<chapter name="Divination">
 <b>Divination</b> (lat. <i>divinatio</i>), Spaadomsevne,
 betegnede hos Romerne overhovedet alle de
 Midler, hvorved man ad overnaturlig Vej fik
@@ -74,7 +74,7 @@ holdtes i en saadan Anledning, kunde kaldes <i>D.</i>
 (som Cicero's <i>d. in Q. Cæcilium</i>).
 <i>H. H. R.</i></chapter>
 
-<chapter name=”divinatorisk”>
+<chapter name="divinatorisk">
 <b>divinatorisk,</b> beroende paa Divination. D.
 Kritik er en paa den inderligste Fortrolighed
 med en Forf.'s Tænkemaade og Sprog hvilende
@@ -84,13 +84,13 @@ Aandsvirksomhed, som man kan kalde Taktslutning,
 finder det rigtige.
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Divinitet”>
+<chapter name="Divinitet">
 <b>Divinitet</b> (lat,), Guddom.</chapter>
 
-<chapter name=”Divis”>
+<chapter name="Divis">
 <b>Divis</b> (lat.), Bindestreg (-).</chapter>
 
-<chapter name=”divisi”>
+<chapter name="divisi">
 <b>divisi</b> [-'vizi] (ital., fork. <i>div</i>., »delt«)
 betegner i Orkesterstemmer for
 Strygeinstrumenter ved to- ell. flerstemmige Steder, at disse
@@ -100,11 +100,11 @@ siddende Musikere, saaledes at den ene spiller
 de højere, den anden de dybere Noder.
 <i>S. L.</i></chapter>
 
-<chapter name=”divisibel”>
+<chapter name="divisibel">
 <b>divisibel</b> (lat.), delelig; <sp>Divisibilitet</sp>,
 Delelighed.</chapter>
 
-<chapter name=”Division”>
+<chapter name="Division">
 <b>Division</b> (lat.) er en Regningsart, der gaar
 ud paa at bestemme det Tal, <sp>Kvotienten</sp>,
 som multipliceret med et forelagt Tal,
@@ -153,7 +153,7 @@ ved, at man multiplicerer med den omvendte
 Brøk.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Division, Hærdel”>
+<chapter name="Division, Hærdel">
 <b>Division</b> (lat.) betegner nu næsten i alle
 Hære den mindste Hærdel, der er sammensat
 af alle Vaaben og udstyret med de fornødne

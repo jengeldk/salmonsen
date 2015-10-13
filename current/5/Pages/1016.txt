@@ -23,7 +23,7 @@ nach und in Lithauen« og <i>Sur les derniers
 in Ungarn« [Wien 1873]).
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Dembowski, Ercole”>
+<chapter name="Dembowski, Ercole">
 <b>Dembowski</b> [dæm'båfsk<sub>i</sub>], <sp>Ercole</sp>, Baron
 af, ital. Astronom, f. 12. Jan. 1812 i Milano, d.
 19. Jan. 1881 i Gallarate nær Milano, har fra
@@ -36,11 +36,11 @@ di stelle doppie e multiple fatte nelle anni 1852
 bis 1878</i> (1883-84).
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”demenagere”>
+<chapter name="demenagere">
 <b>demenagere</b> [-sje'r<sub>ə</sub>] (af fr. <i>déménager</i>),
 flytte ud (fra en Lejlighed), flytte.</chapter>
 
-<chapter name=”Demens”>
+<chapter name="Demens">
 <b>Demens,</b> <i>Deméntia</i> er Fællesbetegnelse for
 en Rk. erhvervede, sjælelige Defekttilstande.
 Det kan være meget forsk. Omraader af
@@ -62,17 +62,17 @@ med D., har de faaet Navn deraf, saaledes
 <i>Dementia alcoholica</i>, <i>Dementia paralytica</i> o. s. v.
 <i>K. H. K.</i></chapter>
 
-<chapter name=”dementere”>
+<chapter name="dementere">
 <b>dementere,</b> se <sp>Dementi</sp>.</chapter>
 
-<chapter name=”Dementi”>
+<chapter name="Dementi">
 <b>Dementi</b> (fr.), Erklæring om, at noget er
 usandt, Paavisning af en Usandhed,
 Tilbagekaldelse, <sp>dementere</sp>, erklære ens Ord for
 usande, løgnagtige; benægte, gendrive,
 tilbagekalde.</chapter>
 
-<chapter name=”Dementia alcoholica”>
+<chapter name="Dementia alcoholica">
 <b>Dementia alcoholica,</b> <sp>Alkoholsløvsind</sp>,
 er Betegnelsen for Sindssygdomme, som opstaar
 paa Basis af kronisk Alkoholisme og ender med
@@ -122,10 +122,10 @@ Psychiatrie«, spez. Teil, 3. Abt., 1. Hälfte 1912,
 Leipzig und Wien).
 <i>K. H. K.</i></chapter>
 
-<chapter name=”Dementia juvenilis”>
+<chapter name="Dementia juvenilis">
 <b>Dementia juvenilis,</b> se <sp>Dementia præcox</sp>.</chapter>
 
-<chapter name=”Dementia paralytica”>
+<chapter name="Dementia paralytica">
 <b>Dementia paralytica,</b> <i>Deméntia paretica</i>,
 progressiv Paralyse, generel Parese, alm.
 fremadskridende Lamhed, er en ret hyppigt

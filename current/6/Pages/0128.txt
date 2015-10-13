@@ -50,10 +50,10 @@ Heurck</sp>, <i>Synops. des Diatomées</i> [Anvers 1880
 [Kbhvn 1910]).
 <i>C. H. O.</i></chapter>
 
-<chapter name=”Diatomepelit”>
+<chapter name="Diatomepelit">
 <b>Diatomepelit,</b> d. s. s. <sp>Diatomit</sp>.</chapter>
 
-<chapter name=”Diatomit”>
+<chapter name="Diatomit">
 <b>Diatomit</b> (<sp>Diatomekisel</sp>,
 <sp>Infusoriejord</sp>, <sp>Bjergmel</sp>), en løs, kridt- ell.
 mellignende, hvid ell. lyst farvet Jordart, der,
@@ -100,7 +100,7 @@ Trippelse og Polerskifer anvendes som
 Pudsemiddel.
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name=”Diatomitsten”>
+<chapter name="Diatomitsten">
 <b>Diatomitsten</b> brændes i Tyskland af Diatomit
 sammenæltet med Korkstumper. De er meget
 porøse og let bearbejdelige, isolerer udmærket
@@ -110,7 +110,7 @@ faas dels i Murstensformat, dels som
 Cylindersegmenter til Rørbeklædning.
 <i>E. Su.</i></chapter>
 
-<chapter name=”diatonisk”>
+<chapter name="diatonisk">
 <b>diatonisk</b> (gr.) betegner i den moderne Musik,
 i Modsætning til <sp>kromatisk</sp> og
 <sp>enharmonisk</sp>, enhver Følge af Toner, tilhørende en
@@ -121,7 +121,7 @@ der er byggede med <sp>C-dur</sp> og <sp>A-mol</sp>-Skalaen
 som Norm, er altsaa diatoniske.
 <i>S. L.</i></chapter>
 
-<chapter name=”Diatretum”>
+<chapter name="Diatretum">
 <b>Diatretum</b> (gr.: »gennembrudt«) kaldtes hos
 Romerne et Glaskar, hvis Vægge var omgivne
 med et fritliggende Netværk af Glastraade,

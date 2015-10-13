@@ -14,7 +14,7 @@ ejendommelig gennemtænkte Udtryk. Bergens
 Billedgaleri ejer et Billede af ham.
 <i>E. L-w.</i></chapter>
 
-<chapter name=”Debes, Ernst”>
+<chapter name="Debes, Ernst">
 <b>Debes,</b> <sp>Ernst</sp>, tysk Kartograf, f. 22. Juni
 1840 i Neukirchen ved Eisenach, blev 1858 Elev
 hos Petermann i Justus Perthe's geogr. Anstalt
@@ -27,7 +27,7 @@ navnlig m. H. t. Kortprojektionerne fl. St. er
 slaaet ind paa ny Baner.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Debes, Lukas Jakobsøn”>
+<chapter name="Debes, Lukas Jakobsøn">
 <b>Debes,</b> <sp>Lukas Jakobsøn</sp>, f. i
 Stubbekjøbing 1623, d. 1676, blev Præst i Thorshavn
 paa Færøerne. D. har efterladt sig et Skrift om
@@ -38,7 +38,7 @@ og særdeles interessant Billede af den færøiske
 Befolkning og Kultur i 17. Aarh.
 <i>F. J.</i></chapter>
 
-<chapter name=”de Besche, 1) Johan Gerhard, 2) Oscar de B., 3) Arent Greve de B.”>
+<chapter name="de Besche, 1) Johan Gerhard, 2) Oscar de B., 3) Arent Greve de B.">
 <b>de Besche</b> [d<sub>ə</sub>-'bæsj<sub>ə</sub>?], 1) <sp>Johan Gerhard</sp>,
 norsk Læge og Avisudgiver, f. 31. Maj 1821
 paa Kongsberg, d. i Kria 20. Febr 1875, <i>Cand.
@@ -87,7 +87,7 @@ prisbelønnede Afh. »En retsmedicinsk Undersøgelse paa
 Menneskeblod« (1912).
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Debet”>
+<chapter name="Debet">
 <b>Debet</b> (lat.), paa Dansk: <sp>han skylder</sp>,
 skrives i Bogholderi øverst paa enhver Kontos
 venstre Side, <sp>Debetsiden</sp>, paa hvilken man
@@ -105,7 +105,7 @@ bogholderimæssige Modsætning til D. er <sp>Kredit</sp>.
 Se <sp>Bogholderi</sp>.
 <i>(C. V. S.). Th. O.</i></chapter>
 
-<chapter name=”Debica”>
+<chapter name="Debica">
 <b>Debica</b> [dæ<sub>m</sub>'bitsa] ell. <sp>Debiza</sp>, By i Galizien,
 ved Wisloka (Biflod til Weichsel), Knudepunkt
 paa Jernbanelinien Krakov-Lemberg, med
@@ -115,7 +115,7 @@ her brudt af tysk-østerr. Tropper, og Russerne
 maatte gaa tilbage over nedre Wisloka.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Debidour, Elie Louis Marie Marc-Antonin”>
+<chapter name="Debidour, Elie Louis Marie Marc-Antonin">
 <b>Debidour</b> [d<sub>ö</sub>bi'du.r], <sp>Elie Louis Marie
 Marc-Antonin</sp>, fr. Historiker, f. 31. Jan.
 1847 i Nontron i Dordogne. Efter at have
@@ -130,14 +130,14 @@ catholique et l'État en France sous la 3e. république</i>
 (2 Bd, 1906-09).
 <i>Kr. E.</i></chapter>
 
-<chapter name=”debitere, Debitor”>
+<chapter name="debitere, Debitor">
 <b>debitere, Debitor,</b> se <sp>Debet</sp>.</chapter>
 
-<chapter name=”debitum”>
+<chapter name="debitum">
 <b>debitum</b> (lat.), Gæld, Skyldighed; <i>d.
 conjugale</i>, ægteskabelig Pligt; <i>d. feudale</i>, Lenspligt.</chapter>
 
-<chapter name=”déblai”>
+<chapter name="déblai">
 <b>déblai</b> [de'blæ] bruges undertiden i
 Befæstningskunsten som Betegnelse for den ved en
 Jordudgravning indvundne Jordmasse, der er
@@ -145,7 +145,7 @@ bestemt til at anvendes i den Jordopfyldning
 (<i>remblai</i>), som skal yde Dækning.
 <i>Sch. P.</i></chapter>
 
-<chapter name=”deblokere”>
+<chapter name="deblokere">
 <b>deblokere,</b> 1) tvinge Fjenden til at ophæve
 Blokaden af en Fæstning.
 
@@ -160,7 +160,7 @@ Spærring af et Signalhaandtag e. l. (se
 centraliseret).
 <i>J. F.</i></chapter>
 
-<chapter name=”Deblokering”>
+<chapter name="Deblokering">
 <b>Deblokering,</b> i Bogtrykfagets tekniske Sprog
 Ombytning af de omvendt stillede Typer
 (Blokeringer <img> i Satsen, hvormed Sætteren

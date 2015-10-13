@@ -1,17 +1,17 @@
 <chapter name="Cyansølv">
 <b>Cyansølv,</b> se <sp>Sølvcyanid</sp>.</chapter>
 
-<chapter name=”Cyanursyre”>
+<chapter name="Cyanursyre">
 <b>Cyanursyre,</b> se <sp>Cyansyre</sp>.</chapter>
 
-<chapter name=”Cyanvasker”>
+<chapter name="Cyanvasker">
 <b>Cyanvasker.</b> Et Vaskeapparat, der ved
 Fabrikationen af <sp>Kulgas</sp> tjener til at fjerne
 Cyanforbindelserne af Gassen. Se <sp>Kulgas</sp>,
 Afsnit F.
 <i>R. T.</i></chapter>
 
-<chapter name=”Cyathea Sm.”>
+<chapter name="Cyathea Sm.">
 <b>Cyathea</b> [-'te-] Sm., Slægt af Cyatheaceer,
 palmelignende Bregner, hvis Frugthobe sidder
 paa Bladundersidens Nerver og er omgivne af
@@ -24,7 +24,7 @@ benyttes de ny Skud til Gemyse og Stammen til
 Bygningstømmer.
 <i>A. M.</i></chapter>
 
-<chapter name=”Cyatheaceæ”>
+<chapter name="Cyatheaceæ">
 <b>Cyatheaceæ</b> [-te-], Bregnefamilie
 (Leptosporangiaternes Orden), de fleste træagtige med
 søjleformet Stamme, der naar en Højde af 15 m
@@ -37,10 +37,10 @@ Troperne og de varmere Egne paa den sydlige
 Halvkugle.
 <i>A. M.</i></chapter>
 
-<chapter name=”Cyathidium”>
+<chapter name="Cyathidium">
 <b>Cyathidium</b> [-'ti'-], se <sp>Sølillier</sp>.</chapter>
 
-<chapter name=”Cyathium”>
+<chapter name="Cyathium">
 <b>Cyathium</b> [-ti-] (<sp>bot</sp>.) eller <sp>Blomsterkop</sp>
 kaldes den for Slægterne <i>Euphorbia</i>
 (Vortemælk) og <i>Pedilanthus</i> ejendommelige,
@@ -50,14 +50,14 @@ eenhannede, nøgne Hanblomster omkr. en enkelt, nøgen
 Hunblomst.
 <i>V. A. P.</i></chapter>
 
-<chapter name=”Cyathophyllum”>
+<chapter name="Cyathophyllum">
 <b>Cyathophyllum</b> [-to'fy-], en til Gruppen
 <i>Tetracoralla</i> hørende, enkelt og topformet ell.
 sammensat og da busk- ell. knoldformet, navnlig i
 devoniske Aflejringer forekommende Koralslægt.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Cyathus Hall.”>
+<chapter name="Cyathus Hall.">
 <b>Cyathus</b> [-tus] Hall., Slægt af Redesvampe,
 med bægerformede Frugtlegemer, hvis Væg
 bestaar af 3 forsk. Lag; i Beg. er Frugtlegemet i
@@ -72,13 +72,13 @@ tydelige Længdestriber; vokser gruppevis paa
 Jord og ved Grunden af gamle Træstubbe.
 <i>F. K. R.</i></chapter>
 
-<chapter name=”Cyatolitter”>
+<chapter name="Cyatolitter">
 <b>Cyatolitter</b> kaldes nogle mikroskopisk smaa,
 dobbeltknapformede Smaalegemer af Kalk, som
 findes i Dybhavsslammet.
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name=”Cyavana”>
+<chapter name="Cyavana">
 <b>Cyavana,</b> i Rigveda <sp>Cyavana</sp>, en Rishi,
 hvem <sp>Açvin</sp>'erne gjorde ung igen,
 Forfatter af Rigveda X 19. Hans Navn bærer en
@@ -91,7 +91,7 @@ of Mahabharata</i>; <sp>Wilson</sp>'s <i>Vishnupurana</i> ved
 Studien«, I-II; <sp>Muir</sp>, <i>Orig. Sanskr. Texts</i>).
 <i>(S. S.) D. A.</i></chapter>
 
-<chapter name=”Cybulski, Wojciech”>
+<chapter name="Cybulski, Wojciech">
 <b>Cybulski</b> [tsy'bul<sub>j</sub>ski], <sp>Wojciech</sp> ɔ:
 Adalbert, polsk Litterærhistoriker (1808-67), f. i
 Prov. Posen, studerede i Berlin Historie og
@@ -114,20 +114,20 @@ polnischen Dichtkunst in der ersten Hälfte des
 19. Jahrh.« (1880).
 <i>(K. V.). H. C-e.</i></chapter>
 
-<chapter name=”Cycadaceæ”>
+<chapter name="Cycadaceæ">
 <b>Cycadaceæ,</b> Fam. af <sp>Koglepalmer</sp> med
 kun een Slægt Cycas (s. d.).</chapter>
 
-<chapter name=”Cycade-Bregner”>
+<chapter name="Cycade-Bregner">
 <b>Cycade-Bregner,</b> se <sp>Pteridospermeæ</sp>.</chapter>
 
-<chapter name=”Cycadinæ”>
+<chapter name="Cycadinæ">
 <b>Cycadinæ,</b> se <sp>Koglepalmer</sp>.</chapter>
 
-<chapter name=”Cycadofilices”>
+<chapter name="Cycadofilices">
 <b>Cycadofilices,</b> se <sp>Pteridospermeæ</sp>.</chapter>
 
-<chapter name=”Cycas L.”>
+<chapter name="Cycas L.">
 <b>Cycas</b> L., Slægt af Cycadaceer, Træer med
 søjleformet og uforgrenet Stamme, der beklædes
 af Bladrester, og en stor Krone af fjerdelte og
@@ -174,6 +174,6 @@ udviklede, derimod plejer det Hold Blade, der
 kommer Aaret efter, at naa normal Størrelse.
 <i>L. H.</i></chapter>
 
-<chapter name=”Cyclamen L.”>
+<chapter name="Cyclamen L.">
 <b>Cyclamen</b> L. (<sp>Alpeviol</sp>), Slægt af
 Kodriverfamilien, fleraarige Urter med Knolde, der

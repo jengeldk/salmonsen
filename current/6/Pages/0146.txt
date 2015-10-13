@@ -39,15 +39,15 @@ Sagen i Langdrag, saa det maa helst undgaas.
 Barnepleje« [8. Udg., Kbhvn. 1915]).
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Diego Garcia”>
+<chapter name="Diego Garcia">
 <b>Diego Garcia</b> ['ð<sub>i</sub>æg<sub>å</sub>-gar'þi<sub>a</sub>], se
 <sp>Chagos-Øerne</sp>.</chapter>
 
-<chapter name=”Diego-Ramirez-Øerne”>
+<chapter name="Diego-Ramirez-Øerne">
 <b>Diego-Ramirez-Øerne</b> ['ð<sub>i</sub>æg<sub>å</sub>-ra'mir<sub>æ</sub>s], se
 <sp>Ildlandet</sp>.</chapter>
 
-<chapter name=”Diego Suarez-Bugten”>
+<chapter name="Diego Suarez-Bugten">
 <b>Diego Suarez-Bugten</b> ['ð<sub>i</sub>æg<sub>å</sub>-'s<sub>u</sub>ar<sub>æ</sub>þ-],
 <sp>Antomboka</sp>, Bugt paa Nordspidsen af
 Madagaskar strækker sig mellem Halvøerne Kap Amber
@@ -63,7 +63,7 @@ under Generalguvernøren over Madagaskar.
 Byen D. havde (1911) 10300 Indb.
 <i>C. A.</i></chapter>
 
-<chapter name=”Diehl, Karl”>
+<chapter name="Diehl, Karl">
 <b>Diehl</b> [di.l], <sp>Karl</sp>, tysk Socialøkonom, f. 27.
 Marts 1864 i Frankfurt a. M., blev 1893 Prof. i
 Halle, 1899 i Königsberg, siden 1908 i
@@ -79,11 +79,11 @@ Theorie des Geldes« (1905) og
 (2 Bd, 1905).
 <i>K. V. H.</i></chapter>
 
-<chapter name=”die hodierno”>
+<chapter name="die hodierno">
 <b>die hodierno</b> (lat.), den Dag i Dag; Dags
 Dato.</chapter>
 
-<chapter name=”Diekirch”>
+<chapter name="Diekirch">
 <b>Diekirch</b> ['di.kirκ], lille By i
 Storhertugdømmet Luxembourg, Hovedstad i et Kanton,
 ligger smukt ved Sauer (Sure), er
@@ -95,7 +95,7 @@ lod Franskmændene Voldene sløjfe og erstatte
 med Bulevarder.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Diele”>
+<chapter name="Diele">
 <b>Diele</b> ['di.l<sub>ə</sub>] (tysk) er i de nedersachsiske
 Bondegaarde, hvor alle Rum samles i en
 treskibet Tømmerkonstruktion under eet stort Tag,
@@ -117,7 +117,7 @@ rimeligvis ingen Sammenhæng med tysk D.
 saaledes den nederste Del af Huset.
 <i>C. A. J.</i></chapter>
 
-<chapter name=”Dielektricitetskonstant”>
+<chapter name="Dielektricitetskonstant">
 <b>Dielektricitetskonstant</b> (intern. Symbol ε),
 undertiden kaldt specifik Fordelingsevne, et
 Tal, der udtrykker en elektrisk Egenskab ved

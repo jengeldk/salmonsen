@@ -23,7 +23,7 @@ Titlen »Vzgljad na moju zhizn« (»Et Blik paa
 mit Liv«).
 <i>(K. V.). H. C-e.</i></chapter>
 
-<chapter name=”Dmitrov”>
+<chapter name="Dmitrov">
 <b>Dmitrov</b> ['dmitr<sub>å</sub>f], By i Mellemrusland,
 Guv. Moskva, 68 km N. f. Moskva, ved
 Floden Jakroma og ved Banen fra Moskva til
@@ -34,7 +34,7 @@ Ruslæder, Lærred, Uld og Korn; i Septbr
 afholdes der stort Marked.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dmitrovsk”>
+<chapter name="Dmitrovsk">
 <b>Dmitrovsk</b> ['dmitr<sub>å</sub>fsk], By i Mellemrusland,
 Guv. Orel, ved Desnas Biflod, Nerussa, har
 Handel med Korn, Hamp, Ruslæder og
@@ -44,7 +44,7 @@ moldauiske Hospodar Dmitrij Kantemir; ved
 dennes Død 1723 faldt D. tilbage til Kronen.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dmochowski, Franciszek Xawer”>
+<chapter name="Dmochowski, Franciszek Xawer">
 <b>Dmochowski</b> [dmå'kåfski], <sp>Franciszek
 Xawer</sp>, polsk Skribent (1762-1808). Hans
 Hovedværk er »Sztuka rymotwórcza«, en Poetik
@@ -59,11 +59,11 @@ Pseudoklassicismen. F. D. skrev ogsaa meget interessante
 Erindringer om Tiden 1806-30.
 <i>(St. R.). H. C-e.</i></chapter>
 
-<chapter name=”D-mol”>
+<chapter name="D-mol">
 <b>D-mol,</b> den Mol-Tonart, der har <i>D</i> til
 Grundtone; har et ♭ for <i>h</i>.</chapter>
 
-<chapter name=”Dnjepr”>
+<chapter name="Dnjepr">
 <b>Dnjepr</b> ['dnjæpr], Grækernes <sp>Borysthènes</sp>,
 tyrk. <sp>Usu</sp>, tatarisk <sp>Eksi</sp>, Europas
 trediestørste Flod, udspringer paa 55° 52' n. Br., 283 m
@@ -125,7 +125,7 @@ Beresina-Kanalen og den Oginskijske Kanal (s. d.)
 muliggør Sejlads fra D. til Østersøen.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dnjepr-Bjergene”>
+<chapter name="Dnjepr-Bjergene">
 <b>Dnjepr-Bjergene</b> ['dnjæpr-], Højdedrag
 (indtil 242 m), som i de russ. Guv. Kijev og
 Jekaterinoslav ledsager Dnjeprs højre Bred;
@@ -135,21 +135,21 @@ dannes (se <sp>Dnjepr</sp>). D.-B. opfattes som en
 østlig Udløber fra Karpaterne.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dnjepr-Bug-Kanalen”>
+<chapter name="Dnjepr-Bug-Kanalen">
 <b>Dnjepr-Bug-Kanalen</b> ['dnjæpr-buk-]
 forbinder Dnjeprs Biflod Pripet med Weichsels
 Biflod Bug, er 80 km lang og 1,5 m dyb (se
 <sp>Dnjepr</sp>).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dnjepr-Liman”>
+<chapter name="Dnjepr-Liman">
 <b>Dnjepr-Liman</b> ['dnjæpr-l<sub>j</sub>i'man], Dnjepr's
 Mundingsbugt paa Nordsiden af det Sorte Hav.</chapter>
 
-<chapter name=”Dnjeprovsk”>
+<chapter name="Dnjeprovsk">
 <b>Dnjeprovsk</b> ['dnjæpr<sub>å</sub>fsk], se <sp>Aleschki</sp>.</chapter>
 
-<chapter name=”Dnjepr-Steppen”>
+<chapter name="Dnjepr-Steppen">
 <b>Dnjepr-Steppen</b> ['dnjæpr-] kaldes i videre
 Forstand hele det sydrussiske Steppeland paa
 begge Bredder af Dnjepr fra Dnjestr til Don;

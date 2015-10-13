@@ -2,21 +2,21 @@ Reglen hævdedes ved en simpel Indsigelse
 (<i>exceptio</i>) mod Hovedklagen.
 <i>K. B.</i></chapter>
 
-<chapter name=”director musices”>
+<chapter name="director musices">
 <b>director musices</b> (lat.), Musikdirektør,
 Musikdirigent.</chapter>
 
-<chapter name=”direkte”>
+<chapter name="direkte">
 <b>direkte</b> [ogsaa di'ræk<sub>ə</sub>t] (lat.), lige, ligetil,
 umiddelbar, uden Omsvøb; i Jernbanevæsen:
 uden Ophold ved Mellemstationer,
 gennemgaaende. Astronom., d. s. s. retløbende.</chapter>
 
-<chapter name=”direkte Benbrud”>
+<chapter name="direkte Benbrud">
 <b>direkte Benbrud</b> (ell. <sp>Fraktur</sp>), se
 <sp>Benbrud</sp>.</chapter>
 
-<chapter name=”direkte Maskiner”>
+<chapter name="direkte Maskiner">
 <b>direkte Maskiner</b> kaldes saadanne
 Arbejdsmaskiner, der er umiddelbart forbundne med
 deres Motor. En Damphammer kaldes saaledes
@@ -31,7 +31,7 @@ og i den senere Tid elektriske Maskiner
 Dampturbiner.
 <i>F. W.</i></chapter>
 
-<chapter name=”direkte Skatter”>
+<chapter name="direkte Skatter">
 <b>direkte Skatter.</b> Inden for
 Finansvidenskaben har den gammelkendte Sondring
 mellem direkte og indirekte Skatter spillet en
@@ -54,14 +54,14 @@ en stærkere Leddeling af Skatterne (se i øvrigt
 <sp>Skatter</sp>).
 <i>C. T.</i></chapter>
 
-<chapter name=”direkte Skydning”>
+<chapter name="direkte Skydning">
 <b>direkte Skydning</b> kaldes Skydning mod et
 Maal, der kan ses fra Skytsets ell. Skyttens
 Standplads, saa man kan sigte direkte paa
 Maalet.
 <i>H. H.</i></chapter>
 
-<chapter name=”direkte Tale”>
+<chapter name="direkte Tale">
 <b>direkte Tale</b> (<i>oratio dirécta</i>), grammatikalsk
 Benævnelse paa ordret Gengivelse af et Udsagn,
 f. Eks. han sagde: »Jeg vil gaa«. Modsætningen
@@ -69,14 +69,14 @@ er <sp>indirekte Tale</sp> (<i>oratio obliqua</i>): Han
 sagde, at han vilde gaa.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”direkte Valg”>
+<chapter name="direkte Valg">
 <b>direkte Valg,</b> d. s. s. umiddelbart Valg, se
 <sp>Valg</sp>.</chapter>
 
-<chapter name=”direkte Veksel”>
+<chapter name="direkte Veksel">
 <b>direkte Veksel,</b> se <sp>adrittura</sp>.</chapter>
 
-<chapter name=”Direktion”>
+<chapter name="Direktion">
 <b>Direktion</b> (lat.), Retning, Ledelse, Styrelse,
 særlig en af fl. Medlemmer sammensat
 Bestyrelse for et Selskab, en Forening, en offentlig
@@ -95,7 +95,7 @@ Reglen den, der ansætter og afskediger
 Direktørerne.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Direktionen for Universitetet og de lærde Skoler”>
+<chapter name="Direktionen for Universitetet og de lærde Skoler">
 <b>Direktionen for Universitetet og de lærde
 Skoler</b> kaldtes et Regeringskollegium, der
 oprettedes 1805, og som under Ledelse af 3
@@ -109,10 +109,10 @@ Undervisningsvæsenet, hvorfra de 1916 atter
 er overført til Undervisningsministeriet.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Direktiv”>
+<chapter name="Direktiv">
 <b>Direktiv,</b> se <sp>Befaling</sp>.</chapter>
 
-<chapter name=”Direktorat”>
+<chapter name="Direktorat">
 <b>Direktorat</b> (lat.), en Direktørs Embede ell.
 Embedslokale, bruges bl. a. om forsk. mest
 centrale Embedsmyndigheder, der forestaas af
@@ -126,7 +126,7 @@ Hovedbogholderiet og Revisionen, for
 Skattevæsenet m. m.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Direktoriet”>
+<chapter name="Direktoriet">
 <b>Direktoriet,</b> <i>le Directoire exécutif</i>, Navnet
 paa den i Kraft af Konstitutionen af 1.
 Vendémiaire Aar III = 22. Septbr 1795 i den første
@@ -155,18 +155,18 @@ Forfatningen, hvorefter D.'s Magt og Myndighed gik
 over til Republikkens Konsuler.
 <i>(F. J. M.). P. L. M.</i></chapter>
 
-<chapter name=”Direktorium”>
+<chapter name="Direktorium">
 <b>Direktorium</b> (nylat.), et Fællesskab af flere
 udkaarede Personer, hvem det betros at styre
 og lede en Anstalt (Aktieforetagende, Bank,
 Akademi o. s. v.). - <i>Directorium divini officii</i>, den
 af de kat. Biskopper aarlig udstedte Kalender.</chapter>
 
-<chapter name=”Direktrice”>
+<chapter name="Direktrice">
 <b>Direktrice</b> (fr.), kvindelig Bestyrer ell. Leder,
 smlg. <sp>Direktør</sp>.</chapter>
 
-<chapter name=”Direktør”>
+<chapter name="Direktør">
 <b>Direktør</b> (fr.), Leder, Bestyrer. D.
 forekommer hyppig som Titel for overordnede
 Poster baade inden for Embedsvæsenet og den

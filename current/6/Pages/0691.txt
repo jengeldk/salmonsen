@@ -23,7 +23,7 @@ v. D.« [Innsbruck 1892]; <sp>Fr. Nielsen</sp>,
 1895]).
 <i>L. M.</i></chapter>
 
-<chapter name=”Dömitz”>
+<chapter name="Dömitz">
 <b>Dömitz</b> ['dø.-], By i Storhertugdømmet
 Mecklenburg-Schwerin, i en sumpet Egn ved Neue
 Eldes Udmunding i Elben, er Knudepunkt paa
@@ -36,7 +36,7 @@ Byen. Af D.'s Fæstningsværker er nu kun
 Citadellet tilbage.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dønnes, Herred”>
+<chapter name="Dønnes, Herred">
 <b>Dønnes,</b> <sp>Herred</sp>, Nordre Helgelands
 Fogderi, Nordlands Amt, (1910) 1480 Indb., ligger
 ved Mundingen af Ranenfjorden og bestaar
@@ -65,7 +65,7 @@ omkringliggende Distrikter. Antagen Indtægt (1910)
 er 87,1 km<sup>2</sup>.
 <i>(J. F. W. H.). M. H.</i></chapter>
 
-<chapter name=”Dønnesø”>
+<chapter name="Dønnesø">
 <b>Dønnesø</b> ell. <sp>Dønna</sp> er en af Nordlands
 større Øer, 137,6 km med 1925 Indb. (1900);
 den ligger ret ud for Mundingen af den store
@@ -76,7 +76,7 @@ Herreder Dønnes og Heröy (s. d.); paa Østsiden
 ligger den kendte <sp>Bjørns</sp> Markedsplads.
 <i>(J. F. W. H.). M. H.</i></chapter>
 
-<chapter name=”Dönniges, Wilhelm v.”>
+<chapter name="Dönniges, Wilhelm v.">
 <b>Dönniges</b> ['dö-], <sp>Wilhelm v.</sp>, tysk
 Historiker og Diplomat, f. 13. Jan. 1814, d. 4.
 Jan. 1872. Han studerede Historie i Berlin
@@ -123,7 +123,7 @@ skrevet dels »Meine Beziehung zu Lassalle«
 Vera« (1882) og »Ererbtes Blut« (1892).
 <i>E. E.</i></chapter>
 
-<chapter name=”Dønning”>
+<chapter name="Dønning">
 <b>Dønning</b> kaldes den bølgende Bevægelse,
 hvori Vandmassen p. Gr. a. sin
 Bevægelsesenergi holder sig, efter at Vinden, der har
@@ -136,11 +136,11 @@ derimod som Regel næsten straks ophøre med
 Vinden.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Dønvigs Redningsbøje”>
+<chapter name="Dønvigs Redningsbøje">
 <b>Dønvigs Redningsbøje,</b> se
 <sp>Redningsapparater</sp>.</chapter>
 
-<chapter name=”Dør”>
+<chapter name="Dør">
 <b>Dør</b> (hertil 1 Tavle) betød opr. kun
 Døraabningen (<sp>Dørmund</sp> ell. <sp>Gat</sp> paa gl. Dansk), medens
 Midlet, hvormed denne lukkedes, hed <sp>Flage</sp>

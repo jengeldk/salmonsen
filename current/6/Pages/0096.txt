@@ -25,11 +25,11 @@ Verslinier. (<sp>Litt</sp>.: <sp>Chassant & Tausin</sp>,
 [3 Bd, Paris 1878]).
 <i>P. B. G.</i></chapter>
 
-<chapter name=”Deviseforretning”>
+<chapter name="Deviseforretning">
 <b>Deviseforretning,</b> d. s. s. Forretning i
 udenlandsk Valuta.</chapter>
 
-<chapter name=”De Vises Sten”>
+<chapter name="De Vises Sten">
 <b>De Vises Sten</b> var for Alkymisterne en af
 Betegnelserne for det gennem mange Aarh.
 stærkt eftersøgte, vidunderlige Præparat, der
@@ -37,7 +37,7 @@ kunde bevirke de uædle Metallers Forvandling
 til Guld og Sølv, se <sp>Kemi</sp>.
 <i>R. K.</i></chapter>
 
-<chapter name=”Devizes”>
+<chapter name="Devizes">
 <b>Devizes</b> [d<sub>i</sub>'va^iz<sub>i</sub>z], gl By i det sydlige
 England, Wiltshire, ligger ved Kennet-Kanalen og
 ved Great Western-Jernbanen, 34 km NNV. f.
@@ -47,18 +47,18 @@ I's Tid. Uldindustrien er gaaet stærkt tilbage,
 men der er en betydelig Kornhandel.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Devol”>
+<chapter name="Devol">
 <b>Devol,</b> »Djævelen«, Flod i Albanien,
 udspringer paa Grammos-Bjerget, løber mod NV.
 gennem Svirina-Søen, optager Ljumi-Beratit og
 falder under Navnet <sp>Semeni</sp> ell. <sp>Ergenti</sp>
 det adriatiske Hav mellem Avlona og Durazzo.</chapter>
 
-<chapter name=”Devolution”>
+<chapter name="Devolution">
 <b>Devolution,</b> Overgang af hjemfaldet Gods
 til andres Besiddelse, se <sp>Devolutionsret</sp>.</chapter>
 
-<chapter name=”Devolutionskrigen”>
+<chapter name="Devolutionskrigen">
 <b>Devolutionskrigen</b> ell. »Krigen for
 Dronningens Rettigheder« kaldes den Krig, som
 Ludvig XIV førte 1667-68 for at erhverve de
@@ -110,7 +110,7 @@ d'Espagne</i> I-II (1835] [i <i>Collection de
 documents inédits sur l'hist. de France</i>]).
 <i>L. K.</i></chapter>
 
-<chapter name=”Devolutionsret”>
+<chapter name="Devolutionsret">
 <b>Devolutionsret,</b> en tidligere i Landene ved
 Rhinen og i Dele af Franken udbredt
 Retsordning, hvorefter ved en Ægtefælles Død Boets
@@ -122,7 +122,7 @@ derfor kun med Børnenes Samtykke kunde
 afhænde dem.
 <i>K. B.</i></chapter>
 
-<chapter name=”Devonisk Formation”>
+<chapter name="Devonisk Formation">
 <b>Devonisk Formation</b> (efter <sp>Devonshire</sp>)
 kaldes den yngste af de ældre palæozoiske
 Formationer; normalt hviler den paa den

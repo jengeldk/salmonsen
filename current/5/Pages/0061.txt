@@ -47,7 +47,7 @@ Caemmerer</sp>, »C.« [Berlin 1905]).
 C. Clausewitz.</img>
 </chapter>
 
-<chapter name = ”Claushavn”>
+<chapter name="Claushavn">
 <b>Claushavn,</b> Handelssted paa Grønlands
 Vestkyst, ligger 6 km S. f. Mundingen af Jacobshavns
 Isfjord, 69° 5' n. Br. og 51° 1' v. L. f. Grw.
@@ -59,7 +59,7 @@ senere virket som Missionærer her. Stedets
 grønlandske Navn er <sp>Ilimanak</sp>.
 <i>G. F. H.</i></chapter>
 
-<chapter name = ”Clausholm”>
+<chapter name="Clausholm">
 <b>Clausholm</b> (<sp>Klaxholm</sp>), Hovedgaard i
 Galten Herred SØ. f. Randers, nævnes allerede
 i Begyndelsen af 14. Aarh. Lage Ovesen til C.
@@ -111,7 +111,7 @@ Eje (Berner-Schilden-Holsten).
 <i>B. L.</i>
 </chapter>
 
-<chapter name = ”Clausilia-Slægten”>
+<chapter name="Clausilia-Slægten">
 <b>Clausilia</b>-<sp>Slægten</sp> (<sp>Foldsnegle</sp>)
 omfatter et betydeligt Antal, mest smaa, Landsnegle
 med meget slank, svagt spoleformet Skal, hvis
@@ -123,7 +123,7 @@ ikke har nogen direkte Forbindelse med Dyrets
 Bløddele. Flere Arter i Danmark.
 <i>(H. J. P.). C. M. S.</i></chapter>
 
-<chapter name = ”Clausius, Rudolph Julius Emanuel”>
+<chapter name="Clausius, Rudolph Julius Emanuel">
 <b>Clausius,</b> <sp>Rudolph Julius Emanuel</sp>
 tysk Fysiker, f. 2. Jan. 1822 i Köslin i Pommern,
 d. 24. Aug. 1888 i Bonn. C. studerede fra 1840

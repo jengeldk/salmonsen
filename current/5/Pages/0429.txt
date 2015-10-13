@@ -8,7 +8,7 @@ udstedende Myndighed (Armé-D., Korps-D., Divisions-D.
 o. s. v.).
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Dagsgrader”>
+<chapter name="Dagsgrader">
 <b>Dagsgrader.</b> I Praksis kan man regne, at
 der til Fiskeægs Udvikling fra Befrugtning til
 Klækning medgaar et temmelig konstant Antal
@@ -23,7 +23,7 @@ perm. internat. pour l'explor. de la mer. Public.
 de circonstance Nr. 68. Copenhague, 1914</i>).
 <i>C. V. O.</i></chapter>
 
-<chapter name=”Dagsignaler”>
+<chapter name="Dagsignaler">
 <b>Dagsignaler</b> (<sp>Søv</sp>.) mellem Skibe ell. mellem
 Skib og Station i Land afgives ved: 1)
 <sp>Signalflag</sp>, idet et enkelt ell. en Kombination
@@ -59,7 +59,7 @@ fra en Kanon, idet Depecherne bogstaveres
 efter Morse's Alfabet.
 <i>H. E.</i></chapter>
 
-<chapter name=”Dagsmulkt”>
+<chapter name="Dagsmulkt">
 <b>Dagsmulkt,</b> en ved Dom ell. Øvrighedsresolution
 paalagt Mulkt, der løber for hver Dag, den,
 hvem det ved Dommen ell. Øvrighedsresolutionen
@@ -77,7 +77,7 @@ efter Reglerne i L. af 16. Febr 1866, jfr. Lov
 Nr. 63 af 1. Apr. 1911 § 14.
 <i>E. T.</i></chapter>
 
-<chapter name=”Dagsommerfugle”>
+<chapter name="Dagsommerfugle">
 <b>Dagsommerfugle</b> (<i>Rhopalocera</i>) udmærker
 sig ved et stort Hoved og ugrenede Antenner,
 hvis midterste Led er længere end brede, og som

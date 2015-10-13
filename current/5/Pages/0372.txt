@@ -9,13 +9,13 @@ Hække. Hovedarten formeres ved Frø og Varieteterne
 ved Aflægning.
 <i>L. H.</i></chapter>
 
-<chapter name=”Cygnidæ, Cygnus, Svaner”>
+<chapter name="Cygnidæ, Cygnus, Svaner">
 <b>Cygnidæ, Cygnus,</b> se <sp>Svaner</sp>.</chapter>
 
-<chapter name=”Cygnus (astron.)”>
+<chapter name="Cygnus (astron.)">
 <b>Cygnus</b> (astron.), se <sp>Svanen</sp>.</chapter>
 
-<chapter name=”Cygnæus, Fredrik”>
+<chapter name="Cygnæus, Fredrik">
 <b>Cygnæus</b> [syg-], <sp>Fredrik</sp>, finsk Digter og
 Historiker, f. 1. Apr. 1807 i Tavastehus, d. 7.
 Febr 1881 i Helsingfors. C. boede under sin
@@ -69,7 +69,7 @@ ved en Friluftsfest uden for Helsingfors 13. Maj
 glemmesaldrig i Finland.
 <i>Eva M.</i></chapter>
 
-<chapter name=”Cygnæus, Uno”>
+<chapter name="Cygnæus, Uno">
 <b>Cygnæus</b> [syg-], <sp>Uno</sp>, Folkeskolens
 Grundlægger i Finland, f. 12. Oktbr 1810 i
 Tavastehus, d. 2. Jan. 1888 i Helsingfors. Efter endte
@@ -125,7 +125,7 @@ Seminarieundervisningen sidestilles med
 Hovedfagene.
 <i>Eva M.</i></chapter>
 
-<chapter name=”Cykel”>
+<chapter name="Cykel">
 <b>Cykel</b> (eng. <i>cycle</i> [sa^ik£], fr. <i>cycle</i> [sikl],
 tysk »Fahrrad«), et Køretøj, i Alm. bestaaende
 af to med Luftringe forsynede Hjul

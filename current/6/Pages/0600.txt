@@ -8,7 +8,7 @@ Anvendelsen af Telefon er Arbejdet i D. og dennes
 Betjening blevet betydelig lettet.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Dykkerselskab”>
+<chapter name="Dykkerselskab">
 <b>Dykkerselskab</b> kaldes et Interessentskab ell.
 Aktieselskab, hvis Virksomhed bestaar i ved
 Hjælp af særligt udrustede Fartøjer, bl. hvis
@@ -37,7 +37,7 @@ et med Motor forsynet Sejlskib - hvormed
 Virksomheden drives.
 <i>C. E. Silfverberg.</i></chapter>
 
-<chapter name=”Dykkerskib”>
+<chapter name="Dykkerskib">
 <b>Dykkerskib,</b> et mindre Fartøj - Sejl-,
 Motor- ell. Dampskib - der ejes af et
 Dykkerselskab og er forsynet med Dykkerudrustning og
@@ -52,10 +52,10 @@ Bjærgningsdamper (smlg. <sp>Dykkerselskab</sp> og
 <sp>Bjærgnings-Entreprise</sp>.
 <i>C. E. Silfverberg.</i></chapter>
 
-<chapter name=”Dykænder”>
+<chapter name="Dykænder">
 <b>Dykænder,</b> se <sp>Ænder</sp>.</chapter>
 
-<chapter name=”Dyle”>
+<chapter name="Dyle">
 <b>Dyle</b> ['dæ^i£<sub>ə</sub>], Biflod til Schelde i det
 nordlige Belgien, gennemstrømmer Brabant og
 Antwerpen, optager i højre Bred <sp>Demer</sp>,
@@ -65,7 +65,7 @@ højre Bred. Dens Længde er 103 km, hvoraf
 29 er sejlbare.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dülken”>
+<chapter name="Dülken">
 <b>Dülken</b> ['dylk<sub>ə</sub>n], By i Preussen, Rhinprov.,
 Jernbaneknudepunkt, 17 km SV. f. Crefeld, har
 en smuk got. (kat.) Kirke. Industri i Lærred,
@@ -73,7 +73,7 @@ Bomuld, Silke og Fløjl, Jernstøberi og (1910)
 10590 Indb. (med Landkommune 14930 Indb.).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dülmen”>
+<chapter name="Dülmen">
 <b>Dülmen</b> ['dylm<sub>ə</sub>n], By i Preussen, Prov.
 Westfalen, ligger 16 km SØ. f. Koesfeld paa en
 sumpet Slette. (1910) 7509 Indb., mest katolske.
@@ -82,7 +82,7 @@ Desuden er D. Jernvejscentrum og har et stort
 Jernværk samt Lærredsvæverier og Oliemøller.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dyme”>
+<chapter name="Dyme">
 <b>Dyme,</b> den vestligste Stad i det oldgræske
 Landskab Achaia. Den opr. ret betydelige By
 led meget ved Krigene i 3.-2. Aarh. f. Kr. Aar
@@ -94,7 +94,7 @@ Athena-Tempel, en Helligdom for Kybele og Attis og
 den lokale Heros Sostratos' Grav.
 <i>C. B.</i></chapter>
 
-<chapter name=”Dümichen, Johannes”>
+<chapter name="Dümichen, Johannes">
 <b>Dümichen</b> ['dy.miK<sub>ə</sub>n], <sp>Johannes</sp>, tysk
 Ægyptolog, f. 15. Oktbr 1833 i Weissholz ved
 Glogau, d. i Strassburg 7. Febr 1894. Efter i

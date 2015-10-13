@@ -14,7 +14,7 @@ og trestemmige Sange, en Terzet, en Motet og
 et Hæfte Variationer for Pianoforte.
 <i>S. L.</i></chapter>
 
-<chapter name=”Cursores”>
+<chapter name="Cursores">
 <b>Cursores</b> (<sp>Løbefugle</sp>), et Navn brugt af
 <sp>Illiger</sp> 1811 som Betegnelse for en Del
 forskellige Fuglegrupper, hvoriblandt Strudsfuglene
@@ -22,20 +22,20 @@ og de egl. Vadere, af andre brugt med anden
 Begrænsning, nu uden Bet.
 <i>O. H.</i></chapter>
 
-<chapter name=”Cursoria”>
+<chapter name="Cursoria">
 <b>Cursoria,</b> se <sp>Retvingede</sp>.</chapter>
 
-<chapter name=”Cursorius”>
+<chapter name="Cursorius">
 <b>Cursorius</b> (<sp>Ørkenløber</sp>), se
 <sp>Braksvaler</sp>.</chapter>
 
-<chapter name=”Curtatone”>
+<chapter name="Curtatone">
 <b>Curtatone,</b> By i Norditalien, Prov. Mantova,
 ligger 5 km V. f. Mantua. (1910) 8100 Indb. Ved
 C. sejrede Østerrigerne under Radetzky 29. Maj
 1848 over de neapolitansk-toskanske Tropper.</chapter>
 
-<chapter name=”Curti, Theodor”>
+<chapter name="Curti, Theodor">
 <b>Curti,</b> <sp>Theodor</sp>, tysk-schweizisk Politiker
 og Forf., f. 24. Decbr 1848, studerede Medicin,
 Retsvidenskab og Historie, var 1873-79
@@ -61,7 +61,7 @@ Pseudonymet Carl Ulrich Trilogien »Die
 Cherusker« (1905).
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Curtis, George Ticknor”>
+<chapter name="Curtis, George Ticknor">
 <b>Curtis</b> ['kə.t<sub>i</sub>s], <sp>George Ticknor</sp>,
 nordamer. Retskyndig, f. 28. Novbr 1812 i
 Watertown i Massachusetts, d. 28. Marts 1894 i New
@@ -92,7 +92,7 @@ philosophical inquiry</i> (1887) og Fortællingen
 America</i> (1889).
 <i>Fz. D.</i></chapter>
 
-<chapter name=”Curtis, George William”>
+<chapter name="Curtis, George William">
 <b>Curtis</b> ['kə.t<sub>i</sub>s], <sp>George William</sp>, amer.
 Forf. (1824-92). Efter fl. Aars Rejser i
 Udlandet vendte han 1850 tilbage til Amerika og blev
@@ -111,7 +111,7 @@ of G. W. C. by Cary</i> [<i>American Men of Letters</i>]
 [1894]).
 <i>(C. K.). I. O.</i></chapter>
 
-<chapter name=”Curtis, William”>
+<chapter name="Curtis, William">
 <b>Curtis</b> ['kə.t<sub>i</sub>s], <sp>William</sp>, eng. Botaniker
 (1746-99), studerede først Farmaci og blev
 Apoteker i London, men helligede sig snart
@@ -136,7 +136,7 @@ Botanikeres Ledelse blevet fortsat lige til den Dag
 i Dag.
 <i>C. R.</i></chapter>
 
-<chapter name=”Curtius, 1) Ernst, 2) Georg”>
+<chapter name="Curtius, 1) Ernst, 2) Georg">
 <b>Curtius,</b> 1) <sp>Ernst</sp>, Arkæolog og
 Historiker, født 1814 i Lübeck, 1844-49
 ekstraordinær Professor i Berlin og Opdrager

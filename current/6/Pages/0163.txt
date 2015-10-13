@@ -16,7 +16,7 @@ Orden bliver lige store, siges de forelagte Tal
 at danne en D. af <i>r</i>'te <sp>Orden</sp>.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Differenstalje”>
+<chapter name="Differenstalje">
 <b>Differenstalje</b> (-<sp>trisse</sp>), ogsaa kaldet
 <sp>Patenttalje</sp> ell. <sp>Westons Talje</sp>, bestaar
 af en Blok med 2 ulige store Skiver (Trisser)
@@ -58,36 +58,36 @@ Løftning af svære Vægte.
 <img>
 Differenstalje.</img></chapter>
 
-<chapter name=”different”>
+<chapter name="different">
 <b>different</b> (lat.), forskellig, ulig.</chapter>
 
-<chapter name=”Differential”>
+<chapter name="Differential">
 <b>Differential</b> (mat.), se
 <sp>Differentialregning</sp>.</chapter>
 
-<chapter name=”Differentialanemometer, Differentialbarometer, Differentialtermometer”>
+<chapter name="Differentialanemometer, Differentialbarometer, Differentialtermometer">
 <b>Differentialanemometer,
 Differentialbarometer, Differentialtermometer,</b>
 Instrumenter til at maale Forskelle henh. i
 Vindstyrken, Lufttrykket og Temperaturen.
 <i>D. la C.</i></chapter>
 
-<chapter name=”Differentialbremse”>
+<chapter name="Differentialbremse">
 <b>Differentialbremse,</b> se <sp>Bremse</sp>.</chapter>
 
-<chapter name=”Differentialdiagnose”>
+<chapter name="Differentialdiagnose">
 <b>Differentialdiagnose,</b> d. s. s.
 <sp>differentiél Diagnostik</sp>, se <sp>Diagnose</sp>.</chapter>
 
-<chapter name=”Differentialgalvanometer”>
+<chapter name="Differentialgalvanometer">
 <b>Differentialgalvanometer,</b> se
 <sp>Galvanometer</sp>.</chapter>
 
-<chapter name=”Differentialkvotient”>
+<chapter name="Differentialkvotient">
 <b>Differentialkvotient,</b> se
 <sp>Differentialregning</sp>.</chapter>
 
-<chapter name=”Differentialligning”>
+<chapter name="Differentialligning">
 <b>Differentialligning</b> (mat.) er en Ligning
 mellem nogle uafhængige variable, Funktioner
 af disse Variable samt Differentialkvotienter af
@@ -103,7 +103,7 @@ Infinitesimalbetragtninger og altsaa leder til D., er Læren om disses
 Behandling a£ den allerstørste Bet.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Differentialobservationer”>
+<chapter name="Differentialobservationer">
 <b>Differentialobservationer</b> benævnes de
 Observationer, man udfører for at bestemme en
 ukendt Stjernes Position i Forhold til en kendt

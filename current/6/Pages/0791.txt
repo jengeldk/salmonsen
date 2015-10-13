@@ -106,16 +106,16 @@ Müller</sp> i »Tidsskr. f. Skovbrug« [Bd V, VII og VIII];
 Culturpflanzen« [1851]).
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Egadi”>
+<chapter name="Egadi">
 <b>Egadi,</b> se <sp>Ægadiske Øer</sp>.</chapter>
 
-<chapter name=”egal”>
+<chapter name="egal">
 <b>egal</b> (fr., af lat. <i>æqualis</i>), lige, ensartet,
 jævn; ligegyldig; <sp>egalere</sp>, <sp>egalisere</sp>, gøre
 lige, ens; være lige; <sp>Egalisation</sp>, Udligning;
 <sp>Egalitet</sp>, Lighed, Ensartethed.</chapter>
 
-<chapter name=”egalisere”>
+<chapter name="egalisere">
 <b>egalisere,</b> udjævne, gøre lige, benyttes bl. a.
 i Klaverbygningsteknikken om den sidste
 Affiling af de enkelte Led i Mekanikken, der
@@ -123,7 +123,7 @@ tilstræber at give alle Tonerne i hele
 Instrumentets Omfang en ensartet Klang.
 <i>S. L.</i></chapter>
 
-<chapter name=”Egalisering”>
+<chapter name="Egalisering">
 <b>Egalisering,</b> i Bogtrykkersproget
 Fællesbetegnelse for Satsens nøjagtige
 Overensstemmelse med de givne typografiske Maal, saavel
@@ -131,7 +131,7 @@ i Højden (Satsens Justering) som i Bredden
 (Liniernes Udslutning).
 <i>E. S-r.</i></chapter>
 
-<chapter name=”égalité”>
+<chapter name="égalité">
 <b>égalité</b> [egali'te] (fr.) ɔ: Lighed, særlig
 politisk Lighed og Lighed for Loven, <i>liberté</i>, <i>é.</i>
 var under den første fr. Republik Slagord, der
@@ -146,7 +146,7 @@ Titler og lod sig, for at vise sin Sympati for
 Revolutionen, Septbr 1792 give Efternavnet <i>É</i>.
 <i>P. L. M.</i></chapter>
 
-<chapter name=”Egan, Maurice Francis”>
+<chapter name="Egan, Maurice Francis">
 <b>Egan</b> ['i.gn], <sp>Maurice Francis</sp>,
 nordamer. Diplomat, f. i Philadelphia 24. Maj 1852 af
 en gl irsk Familie, studerede ved

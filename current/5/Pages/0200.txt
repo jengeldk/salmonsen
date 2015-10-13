@@ -5,7 +5,7 @@ Piracicabas Fald, har Kaffeplantager, en smuk Kirke,
 et Hospital og c. 5000 Indb.
 <i>M. V.</i></chapter>
 
-<chapter name=”Constitutio”>
+<chapter name="Constitutio">
 <b>Constitutio</b> (lat.), er Navnet paa de af de
 rom. Kejsere udstedte Forordninger og trufne
 Retsafgørelser, hvad enten de som Edikterne og
@@ -22,7 +22,7 @@ Codex af alm. kejserlige C. fra Konstantin's Tid
 Justinian's Codex af C. i <i>Corpus Juris</i>.
 <i>K. B.</i></chapter>
 
-<chapter name=”Constitutio criminalis Carolina”>
+<chapter name="Constitutio criminalis Carolina">
 <b>Constitutio criminalis Carolina</b> eller »die
 peinliche Gerichtsordnung Keiser Karls V« (ofte
 i al Korthed kaldet »Carolina« og betegnet ved
@@ -61,7 +61,7 @@ Loven kan nævnes den af Zöpfl foranstaltede, der
 udkom i 3. Oplag 1883).
 <i>(R. G.). A. Gl.</i></chapter>
 
-<chapter name=”Constitution”>
+<chapter name="Constitution">
 <b>Constitution</b> [kånst<sub>i</sub>'tju.∫<sub>ə</sub>n] (eng.),
 Statsforfatning, Forfatningslov, <i>Constitutional law</i>,
 Statsforfatningsret. - I samme Bet. bruges det fr.
@@ -69,11 +69,11 @@ Statsforfatningsret. - I samme Bet. bruges det fr.
 <sp>Konstitution</sp>.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Constitutiones apostolicæ”>
+<chapter name="Constitutiones apostolicæ">
 <b>Constitutiones apostolicæ,</b> se
 <sp>apostoliske Konstitutioner</sp>.</chapter>
 
-<chapter name=”Constitutio Valdemariana”>
+<chapter name="Constitutio Valdemariana">
 <b>Constitutio Valdemariana</b> ell. <sp>Valdemari</sp>
 kaldes af nyere Historikere en Bestemmelse,
 som Hertug Adolf af Slesvig, fik Christian I til
@@ -110,7 +110,7 @@ medens ellers alle Haandfæstningerne omhyggelig
 er bevarede. (<sp>Litt</sp>.: »Hist. Tidsskr.«, 6. Rk. VI).
 <i>Kr. E.</i></chapter>
 
-<chapter name=”constitutum”>
+<chapter name="constitutum">
 <b>constitutum,</b> romerretligt Udtryk for et
 formløst, men dog forbindende Løfte om at betale
 sin egen ell. en andens Gæld. I første Fald tales
@@ -122,7 +122,7 @@ hvilket altsaa bet. det samme som en Kaution for
 en andens alt stiftede Gæld.
 <i>E. T.</i></chapter>
 
-<chapter name=”constitutum possessorium”>
+<chapter name="constitutum possessorium">
 <b>constitutum possessorium,</b> Betegnelse for
 det Forhold, at en Person, der hidtil har
 besiddet en Ting paa egne Vegne, gaar over til at
@@ -132,23 +132,23 @@ tilhørende, men samtidig lejer ell. laaner det.
 Modstykket dertil er <i>brevi manu traditio</i>.
 <i>E. T.</i></chapter>
 
-<chapter name=”Constrictor”>
+<chapter name="Constrictor">
 <b>Constrictor</b> kaldes en Muskel, der er saaledes
 anbragt i Væggene af et kanalformet Hulrum,
 at den ved sin Sammentrækning kan forsnævre
 dette (f. Eks. <i>C. pharyngis</i>, se <sp>Svælg</sp>).
 <i>S. B.</i></chapter>
 
-<chapter name=”Constringentia”>
+<chapter name="Constringentia">
 <b>Constringentia,</b> Lægemidler, der kan faa
 Vævene til at trække sig sammen, altsaa ganske
 tilsvarende til <sp>Adstringentia</sp> (s. d.).
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Consualia”>
+<chapter name="Consualia">
 <b>Consualia</b> (lat.), Fest for <sp>Consus</sp>.</chapter>
 
-<chapter name=”Consuegra”>
+<chapter name="Consuegra">
 <b>Consuegra</b> [kån's<sub>u</sub>ægra] (Romernes
 <i>Consáburum</i>), By i Spanien, Prov. Toledo ved
 Amarguillo ved Foden af en efter Sigende af Trajan
@@ -157,7 +157,7 @@ Amfiteater, (1900) 7600 Indb., der driver nogen
 Handel med Muldyr.
 <i>M. V.</i></chapter>
 
-<chapter name=”consuetudo”>
+<chapter name="consuetudo">
 <b>consuetudo</b> (lat.), Sædvane, særlig ogsaa
 Retssædvane. <i>c. laudabilis</i> ell. <i>rationabilis</i>
 betegnede i den kanoniske Ret en Sædvane, der

@@ -127,7 +127,7 @@ Whittaker</sp>, <i>A History of the Theories of Aether and
 Electricity</i> [London 1910]).
 <i>E. S. J.</i></chapter>
 
-<chapter name=”Elektricitetsforsyning”>
+<chapter name="Elektricitetsforsyning">
 <b>Elektricitetsforsyning.</b> Efterhaanden som
 Anvendelsen af elektrisk Strøm til Lys og
 navnlig til Drivkraft har faaet Bet. p. Gr. a. de

@@ -43,7 +43,7 @@ Lyngjord, 1 Del Bladjord og 1 Del Markjord og
 Sand.
 <i>L. H.</i></chapter>
 
-<chapter name=”Croton-Akvædukten”>
+<chapter name="Croton-Akvædukten">
 <b>Croton-Akvædukten</b> ['kro<sub>u</sub>t<sub>ə</sub>n-] besørger
 Hovedtilførslen af Drikkevand til New York.
 Vandet tages fra Floden Croton, der
@@ -65,7 +65,7 @@ c. 7,5 Mill. $, den maa regnes for en af
 Verdens største Dæmninger.
 <i>J. M.-P.</i></chapter>
 
-<chapter name=”Crotonaldehyd”>
+<chapter name="Crotonaldehyd">
 <b>Crotonaldehyd,</b> CH<sub>3</sub>.CH:CHCHO, opstaar
 af Acetaldehyd ved Kondensation, idet der
 under Indvirkning af Saltopløsninger udtræder
@@ -80,7 +80,7 @@ ved 104-105°; det iltes af Luften ell. af
 Sølvilte til α-Crotonsyre.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Crotonkloral”>
+<chapter name="Crotonkloral">
 <b>Crotonkloral,</b> opdaget 1870 af Krämer og
 Pinner ved Fremstilling af Kloral ved
 Indvirkning af Klor paa Acetaldehyd, er en Blanding
@@ -95,10 +95,10 @@ Glycerin. Hydratet benyttes som beroligende,
 smertestillende Middel ved Neuralgier.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Crotonol, Crotonolsyre”>
+<chapter name="Crotonol, Crotonolsyre">
 <b>Crotonol, Crotonolsyre,</b> se <sp>Crotonolie</sp>.</chapter>
 
-<chapter name=”Crotonolie”>
+<chapter name="Crotonolie">
 <b>Crotonolie</b> er en svagt tørrende, gul eller
 brunliggul, noget tykflydende, fed Olie, som
 vindes ved Presning ell. ved Udtrækning med
@@ -130,7 +130,7 @@ skyldes Indholdet af et harpikslignende ikke
 nærmere kendt Stof, Croton-Ricin.
 <i>B. G.</i></chapter>
 
-<chapter name=”Croton River”>
+<chapter name="Croton River">
 <b>Croton River</b> ['kro<sub>u</sub>t<sub>ə</sub>n-'rivə], Flod i U. S. A.,
 Stat New York, udspringer paa Grænsen af
 Connecticut og falder i Hudson River, 40 km N. f.
@@ -141,7 +141,7 @@ og sundt Vand til Byen New York (se
 <sp>Croton-Akvædukten</sp>).
 <i>(C. A.). H. P. S.</i></chapter>
 
-<chapter name=”Crotonsyre”>
+<chapter name="Crotonsyre">
 <b>Crotonsyre,</b> C<sub>3</sub>H<sub>5</sub>.COOH, henhørende til de
 umættede fede Syrer, findes i raa Træeddike (men
 ikke som tidligere antaget i Crotonolie) og

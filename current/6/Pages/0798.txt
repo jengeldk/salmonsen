@@ -30,7 +30,7 @@ Haven 1913]; <sp>Eddington</sp>, <i>Stellar movements
 and the structure of the universe</i> [London 1914]).
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Egenbevægelse, af Bakterier”>
+<chapter name="Egenbevægelse, af Bakterier">
 <b>Egenbevægelse</b> af Bakterier bruges om de
 Bevægelser, som levende Bakterier, der findes i
 en Draabe Vædske, ofte ses at udføre ved
@@ -55,13 +55,13 @@ saaledes ansaas opr. Dysenteribacillen
 senere har vist sig fejlagtigt.
 <i>O. T.</i></chapter>
 
-<chapter name=”Egenhændig”>
+<chapter name="Egenhændig">
 <b>Egenhændig</b> ell. <i>MP</i> (<i>main propre</i>), tjenstlig
 gebyrpligtig Angivelse i Telegrammer, der kun
 maa udleveres til Adressaten personlig.
 <i>M. G.</i></chapter>
 
-<chapter name=”Egenitis, Demetrios”>
+<chapter name="Egenitis, Demetrios">
 <b>Egenitis</b> [ejinitis], <sp>Demetrios</sp>, gr.
 Astronom, f. 1864 i Athen, hvor han studerede,
 rejste saa til Paris for at uddanne sig som
@@ -77,7 +77,7 @@ fl. Afh. i Fagtidsskrifter har E. publiceret
 Afh.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Egennavn”>
+<chapter name="Egennavn">
 <b>Egennavn</b> (<i>Nomen proprium</i>) er i
 Grammatikken Benævnelse paa et Ord, der efter alm.
 Talebrug kaldes et Navn: <sp>Peter</sp>, <sp>Jensen</sp>,
@@ -115,10 +115,10 @@ er bragte i Handelen: <sp>Kobber</sp> (efter
 Se <sp>Navn</sp>.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”Egennytte”>
+<chapter name="Egennytte">
 <b>Egennytte,</b> se <sp>egoistisk</sp>.</chapter>
 
-<chapter name=”Egensekloster”>
+<chapter name="Egensekloster">
 <b>Egensekloster,</b> Hovedgaard i Fleskum
 Herred, S. f. Limfjordens Udløb i Kattegat, er -
 som »Danske Atlas« udtrykker sig - »kommen
@@ -131,7 +131,7 @@ E. anlagt Skanser for at forsvare Indløbet til
 Limfjorden.
 <i>B. L.</i></chapter>
 
-<chapter name=”Egense Ledefyr”>
+<chapter name="Egense Ledefyr">
 <b>Egense Ledefyr,</b> Jyllands Østkyst. Bagfyret
 er anbragt paa Egense Klosterpynt paa
 Sydsiden af Limfjordens Munding. Forfyrene vises
@@ -141,7 +141,7 @@ Forfyrene, angiver Midten af den gravede Rende
 over Hals Barre, ud for Indløbet til Limfjorden.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”egensindig”>
+<chapter name="egensindig">
 <b>egensindig</b> kaldes i det praktiske Liv den,
 der ikke vil lade sig belære af andres
 Erfaringer, men foretrækker at følge sit eget Hoved,
@@ -152,7 +152,7 @@ Konsekvenserne af en vedvarende urigtig
 Handlemaade fremfor at indrømme sin Fejltagelse.
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”Egenskab”>
+<chapter name="Egenskab">
 <b>Egenskab</b> betegner en Tings særegne Maade
 at være og virke paa, det, som
 erfaringsmæssigt viser sig at høre til Tingen, hvad enten

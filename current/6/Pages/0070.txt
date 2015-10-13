@@ -49,10 +49,10 @@ derfor meget af de Indfødte.
 
 <img>Fig. 3. Mangust (<i>Herpestes mungo</i>, Gm.).</img></chapter>
 
-<chapter name=”Desmerkatte”>
+<chapter name="Desmerkatte">
 <b>Desmerkatte,</b> se <sp>Desmerdyr</sp>.</chapter>
 
-<chapter name=”Desmerurt”>
+<chapter name="Desmerurt">
 <b>Desmerurt,</b> (<i>Adóxa</i> L.), tokimbladet
 Planteslægt, hvis systematiske Plads er tvivlsom; nogle
 har henført den til Stenbræk-Fam., andre til
@@ -80,23 +80,23 @@ vokser alm. i Skove i Danmark og det østlige
 Norge og blomstrer i Apr. og Maj.
 <i>A. M.</i></chapter>
 
-<chapter name=”Desmerurt-Familien”>
+<chapter name="Desmerurt-Familien">
 <b>Desmerurt-Familien,</b> se <sp>Desmerurt</sp>.</chapter>
 
-<chapter name=”de Smet de Naeyer, P.”>
+<chapter name="de Smet de Naeyer, P.">
 <b>de Smet de Naeyer</b> [d<sub>ö</sub>-'smæt-d<sub>ə</sub>-'na.j<sub>ə</sub>r], <sp>P.</sp>,
 se <sp>Smet de Naeyer, P. de</sp>.</chapter>
 
-<chapter name=”Desmidiaceæ”>
+<chapter name="Desmidiaceæ">
 <b>Desmidiaceæ,</b> se <sp>Alger</sp>, S. 493.</chapter>
 
-<chapter name=”Desmin”>
+<chapter name="Desmin">
 <b>Desmin,</b> se <sp>Zeolitter</sp>.</chapter>
 
-<chapter name=”Desmobranchii”>
+<chapter name="Desmobranchii">
 <b>Desmobranchii</b> [-'braŋkii'], se <sp>Fisk</sp>.</chapter>
 
-<chapter name=”Desmodium Desv.”>
+<chapter name="Desmodium Desv.">
 <b>Desmodium</b> Desv., Slægt af Ærteblomstrede
 (Hedysarum-Gruppen), Urter, Halvbuske eller
 Buske med finnede Blade, der som Regel er
@@ -122,6 +122,6 @@ Tid paa Varmebed, senere i Varmhus.
 
 <img><i>Desmodium gyrans.</i></img>
 
-<chapter name=”Desmodus”>
+<chapter name="Desmodus">
 <b>Desmodus,</b> se <sp>Flagermus</sp>.</chapter>
 

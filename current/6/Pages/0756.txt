@@ -4,10 +4,10 @@ Lawless</sp>, <i>M. E.</i> [i <i>English Men of Letters</i>]
 of Sibyls</i> [1883]).
 <i>I. O.</i></chapter>
 
-<chapter name=”Edgren, A. Ch.”>
+<chapter name="Edgren, A. Ch.">
 <b>Edgren</b> ['e.dgre.n], A. Ch., se <sp>Leffler</sp>.</chapter>
 
-<chapter name=”Edgren, August Hjalmar”>
+<chapter name="Edgren, August Hjalmar">
 <b>Edgren</b> ['e.dgre.n], <sp>August Hjalmar</sp>,
 sv. Sprogforsker og Digter (1840-1903), f. i
 Värmland, Officer (1860-70), deltog med
@@ -54,7 +54,7 @@ selv som Digter i »Dikter i original och
 återljud« (udg. efter E.'s Død, 1904).
 <i>D. A.</i></chapter>
 
-<chapter name=”Edhem Pasha”>
+<chapter name="Edhem Pasha">
 <b>Edhem Pasha,</b> tyrk. Statsmand (1813-93),
 af gr. Fødsel, blev som Barn Krigsfange og
 derefter opdraget i Islam; han uddannedes
@@ -72,10 +72,10 @@ Ambassadør i Wien og paa ny Minister og fastholdt
 bestandig en bestemt kristenfjendsk Politik.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”edictum”>
+<chapter name="edictum">
 <b>edictum,</b> se <sp>Edikt</sp>.</chapter>
 
-<chapter name=”Edictum Theodorici”>
+<chapter name="Edictum Theodorici">
 <b>Edictum Theodorici</b> (lat.) er Navnet paa
 en af Østgoterkongen Theodorik d. Store omkr.
 Aar 500 udstedt alm. Lov, hvis Indhold helt
@@ -87,7 +87,7 @@ Kongens got. som for hans rom. Undersaatter. Efter
 <i>Monumenta Germaniæ, Leges V</i>).
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Edictus Langobardorum”>
+<chapter name="Edictus Langobardorum">
 <b>Edictus Langobardorum</b> ell. <i>Edictus
 Rothari</i> (lat.) kaldes en af Langobarderkongen
 Rothari 643 udstedt omfangsrig Lov,
@@ -108,16 +108,16 @@ langobardisk Arveret« [1901]. - Ediktet er udg. af
 <sp>Bluhme</sp> i <i>Monumenta Germaniæ, Leges IV</i>).
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Edictus Rothari”>
+<chapter name="Edictus Rothari">
 <b>Edictus Rothari,</b> se <sp>Edictus
 Langobardorum</sp>.</chapter>
 
-<chapter name=”edidit”>
+<chapter name="edidit">
 <b>edidit</b> (lat.), fork. <i>ed.</i>, »har udgivet«; om fl.
 Udgivere: <sp>ediderunt</sp> (<i>edd.</i>). Sættes paa
 Bogtitler ved Udgiverens ell. Udgivernes Navn.</chapter>
 
-<chapter name=”Edikt”>
+<chapter name="Edikt">
 <b>Edikt</b> (lat. <i>edictum</i>), enhver offentlig
 Bekendtgørelse af en rom. Øvrighedsperson. Alle
 rom. Embedsmænd havde Ret til at udstede E.

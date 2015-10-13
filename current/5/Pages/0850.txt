@@ -114,7 +114,7 @@ udkommet i 4. Udg., ligesom Mus. har udsendt forsk.
 Frilandsmus. ved Folevad.
 <i>J. O.</i></chapter>
 
-<chapter name=”Dansk Folketidende”>
+<chapter name="Dansk Folketidende">
 <b>Dansk Folketidende</b> var Navnet for det
 politiske Ugeblad, som Sofus Høgsbro udgav fra
 Oktbr 1865 indtil Udgangen af 1883, med sin
@@ -132,11 +132,11 @@ givet det første Grundlag til deres politiske
 Dannelse.
 <i>E. E.</i></chapter>
 
-<chapter name=”Dansk forenet Sudan-Mission”>
+<chapter name="Dansk forenet Sudan-Mission">
 <b>Dansk forenet Sudan-Mission,</b> se
 <sp>Sudan-Mission</sp>.</chapter>
 
-<chapter name=”Dansk Forening for Børnetandpleje”>
+<chapter name="Dansk Forening for Børnetandpleje">
 <b>Dansk Forening for Børnetandpleje</b>
 stiftedes 17. Jan. 1910 og har til Formaal at
 fremme Omsorgen for Tændernes Pleje hos den

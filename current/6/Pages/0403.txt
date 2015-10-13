@@ -78,14 +78,14 @@ historique</i> (1881-88); <sp>H. Bergner</sp>,
 Kostümbibliothek« (1896-1904).
 <i>Bernh. O.</i></chapter>
 
-<chapter name=”Dragt, se Dragtsadel”>
+<chapter name="Dragt, se Dragtsadel">
 <b>Dragt,</b> se <sp>Dragtsadel</sp>.</chapter>
 
-<chapter name=”Dragt, se Hov”>
+<chapter name="Dragt, se Hov">
 <b>Dragt,</b> <sp>D.-Brusk</sp>, <sp>D.-Grube</sp>,
 <sp>D.-Hjørne</sp>, se <sp>Hov</sp>.</chapter>
 
-<chapter name=”Dragtsadel”>
+<chapter name="Dragtsadel">
 <b>Dragtsadel</b> kaldes den Sadel, der ved det i
 det danske Artilleri tidligere brugte
 Gaffelstangseletøj benyttedes til Stanghaandhestens Seletøj,
@@ -98,7 +98,7 @@ et Par Øjer, i hvilke Gaffelstangens Bomme
 hvilede.
 <i>H. H.</i></chapter>
 
-<chapter name=”Draguignan”>
+<chapter name="Draguignan">
 <b>Draguignan</b> [dragi'n<sub>j</sub>a], By i det sydøstlige
 Frankrig, Hovedstad i Dept Var og <sp>Arrond.
 D.</sp> (Provence), ligger i en frugtbar, naturskøn
@@ -113,14 +113,14 @@ Læreanstalter, et arkæologisk Mus. og et
 Bibliotek (25000 Bd).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dragumis, Stephan”>
+<chapter name="Dragumis, Stephan">
 <b>Dragumis</b> [ðragum<sub>i</sub>s], <sp>Stephan</sp>, gr.
 Politiker, f. 1842, studerede i Athen og Paris, blev
 Dommer, valgtes 1879 til Deputeretkamret, var
 1886-90 og 1892 Udenrigsminister og dannede
 1910 selv et Ministerium.</chapter>
 
-<chapter name=”Dragut”>
+<chapter name="Dragut">
 <b>Dragut</b> (<sp>Thorgu</sp>), Bei i Tripolis og
 bekendt Sørøver, f. i Lilleasien, d. 1565. Som ung
 faldt han i Fangenskab hos Andrea Doria, men
@@ -134,12 +134,12 @@ sammen med Suleiman deltog i Maltas
 Belejring.
 <i>M. M.</i></chapter>
 
-<chapter name=”Dragværk”>
+<chapter name="Dragværk">
 <b>Dragværk</b> er det ældste af de Broderier, der
 hører ind under Hvidsøm (s. d.).
 <i>R. H.</i></chapter>
 
-<chapter name=”Dragør”>
+<chapter name="Dragør">
 <b>Dragør,</b> købstadlignende Landsby paa den
 østligste Spids af Amager, Kbhvn's Amt,
 Sokkelunds Herred, Store Magleby Sogn, med 1. Febr

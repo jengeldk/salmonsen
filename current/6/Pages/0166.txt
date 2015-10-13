@@ -21,22 +21,22 @@ og Daly, <i>Igneous rocks and their origin</i> [New
 York 1914).
 <i>O. B. B.</i></chapter>
 
-<chapter name=”differentiere”>
+<chapter name="differentiere">
 <b>differentiere,</b> se <sp>Differentialregning</sp>.</chapter>
 
-<chapter name=”Differentiering”>
+<chapter name="Differentiering">
 <b>Differentiering</b> (biol.) betegner
 Forskellighed i Udformning hos en Organismes Dele,
 hvorved fysiol. Arbejdsdeling muliggøres.
 <i>W. J.</i></chapter>
 
-<chapter name=”differere”>
+<chapter name="differere">
 <b>differere</b> (lat.), vise Forskel, afvige, være ulige.</chapter>
 
-<chapter name=”Diffession”>
+<chapter name="Diffession">
 <b>Diffession</b> (lat.), Benægtelse.</chapter>
 
-<chapter name=”Diffessions-Ed”>
+<chapter name="Diffessions-Ed">
 <b>Diffessions-Ed,</b> den Benægtelses-Ed, som
 efter nogle Landes Ret (jfr saaledes D. L. 5-1
 -6) under en Proces maa aflægges af den, der
@@ -46,11 +46,11 @@ intet Hensyn tages til hans Benægtelse, hvis
 Eden ikke aflægges.
 <i>E. T.</i></chapter>
 
-<chapter name=”difficil”>
+<chapter name="difficil">
 <b>difficil</b> (lat.), vanskelig, vanskelig at behandle,
 umedgørlig.</chapter>
 
-<chapter name=”difficile est satiram non scribere”>
+<chapter name="difficile est satiram non scribere">
 <b>difficile est satiram non scribere</b> (lat.),
 »det er vanskeligt at lade være at skrive
 Satirer«. Ordet skyldes Juvenal Sat. I 30, hvor han
@@ -60,7 +60,7 @@ Samfundsforhold i Rom er »vanskeligt at lade det
 være«.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Difflugia”>
+<chapter name="Difflugia">
 <b>Difflugia,</b> Slægt af encellede Organismer,
 som staar Amøberne meget nær, idet de egl.
 kun adskilles fra disse ved at være omgivne af
@@ -71,33 +71,33 @@ herhen hørende Arter træffes alm. i vore ferske
 Vande, enkelte ogsaa i fugtig Jord.
 <i>R. H. S.</i></chapter>
 
-<chapter name=”difform”>
+<chapter name="difform">
 <b>difform</b> (lat.), misdannet, vanskabt.
 <sp>Difformitet</sp>, Vanskabning, Hæslighed.</chapter>
 
-<chapter name=”Diffraktion”>
+<chapter name="Diffraktion">
 <b>Diffraktion,</b> se <sp>Bøjning</sp>, Lysets.</chapter>
 
-<chapter name=”Diffraktions-Kromoskop”>
+<chapter name="Diffraktions-Kromoskop">
 <b>Diffraktions-Kromoskop,</b> Apparat til
 Fremvisning af Trefarvebilleder, fremstillede efter
 R. W. Wood's Metode.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”diffundere”>
+<chapter name="diffundere">
 <b>diffundere</b> (lat.), sprede til alle Sider,
 udgyde; forøde, bortødsle; <sp>diffus</sp>, adspredt,
 vidtsvævende, langtrukken. <sp>Diffusion</sp>,
 Vidtløftighed i Tale ell. Skrift, smlg. ndf.</chapter>
 
-<chapter name=”diffus”>
+<chapter name="diffus">
 <b>diffus</b> (lat.). egl. udbredt, benyttes i
 Lægevidenskaben om en sygelig Forandring, hvis
 Afgrænsning med Omgivelserne ikke er skarp og
 tydelig (modsat <sp>cirkumskript</sp>).
 <i>Lp. M.</i></chapter>
 
-<chapter name=”diffus Hjernesklerose”>
+<chapter name="diffus Hjernesklerose">
 <b>diffus Hjernesklerose,</b> Fællesbetegnelse for
 fl. ret sjældne betændelsesagtige ell.
 degenerative Hjernelidelser, ved hvilke det meste af
@@ -107,7 +107,7 @@ haard (sklerotisk). d. H. viser sig ved
 Lammelser, Krampe og Blindhed.
 <i>K. H. K.</i></chapter>
 
-<chapter name=”Diffusion”>
+<chapter name="Diffusion">
 <b>Diffusion</b> kalder man en Bevægelse, som
 bestaar i, at et flydende Stof vandrer gennem et
 andet Stof uden nogen ydre Aarsag, alene p.

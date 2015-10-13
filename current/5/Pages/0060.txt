@@ -28,7 +28,7 @@ skrevet: »Optegnelser om mit Levneds og min
 Tids Historie« (udg. 1877).
 <i>(J. P. B.). A. Th. J.</i></chapter>
 
-<chapter name = ”Clausen, Johannes”>
+<chapter name="Clausen, Johannes">
 <b>Clausen,</b> <sp>Johannes</sp>, dansk Biskop, ovenn.'s
 Søn, f. 7. Juni 1830 i Taarbæk, d. 31. Decbr 1905
 i Aarhus, blev Student 1848, teol. Kandidat 1853,
@@ -51,7 +51,7 @@ og grundlagt et Sømandshjem i Aarhus,
 Børnehjem og Menighedshus i Horsens.
 <i>H. O.</i></chapter>
 
-<chapter name = ”Clausen, Johannes Carl Emil”>
+<chapter name="Clausen, Johannes Carl Emil">
 <b>Clausen,</b> <sp>Johannes Carl Emil</sp>, dansk
 Præst, f. 20. Apr. 1832 i Adslev, d. 21. Marts 1908
 i Vonsild. 1857 blev han teol. Kandidat og næste
@@ -78,7 +78,7 @@ og virkede ivrigt for Forsvarssagen (»Om vort
 Fædrelands Forsvar« [1879]).
 <i>(H. O-d.). A. Th. J.</i></chapter>
 
-<chapter name = ”Clausen, Julius Emil Ferdinand”>
+<chapter name="Clausen, Julius Emil Ferdinand">
 <b>Clausen,</b> <sp>Julius Emil Ferdinand</sp>,
 dansk Forf., f. 17. Aug. 1868 i Kbhvn, Student
 1886, 1888 vandt han Universitetets Guldmedaille
@@ -110,7 +110,7 @@ den moderne Litt. har størst Føling med det
 forstandige og formelt afklarede.
 <i>P. L-n.</i></chapter>
 
-<chapter name = ”Clausen, Ludvig Martin Philip”>
+<chapter name="Clausen, Ludvig Martin Philip">
 <b>Clausen,</b> <sp>Ludvig Martin Philip</sp>,
 dansk Arkitekt, f. 18. Juni 1851 i Slagelse, d. 18.
 Februar 1904. Gennemgik Kunstakademiet, hvor
@@ -137,7 +137,7 @@ Ved Kunstakademiet var C. Lærer i
 Dekorationsskolen fra 1888 til sin Død.
 <i>C. B-r.</i></chapter>
 
-<chapter name = ”Clausewitz, Carl”>
+<chapter name="Clausewitz, Carl">
 <b>Clausewitz</b> ['kla^uz<sub>ə</sub>vits], <sp>Carl</sp>, preussisk
 Generalmajor og Militærforfatter, f. 1. Juni 1780
 i Burg, d. 16. Novbr 1831 i Breslau. Han traadte

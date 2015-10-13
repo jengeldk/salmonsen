@@ -28,7 +28,7 @@ hendes Prosa-Arbejder er overs. til Tysk,
 enkelte ogsaa til Hollandsk og Svensk.
 <i>J. Cl.</i></chapter>
 
-<chapter name=”Eilifr Goðrúnarson”>
+<chapter name="Eilifr Goðrúnarson">
 <b>Eilifr Goðrúnarson</b> ['æjli.vr-'gåðru.narsån],
 en isl. Skjald omkr. 1000; hans Herkomst og
 Levned er ellers ubekendt. Han kendes, foruden
@@ -44,7 +44,7 @@ ved F. Jónsson i »Vidensk. Selsk. Oversigt«
 oldislandsk Litteraturhistorie«, I).
 <i>F. J.</i></chapter>
 
-<chapter name=”Eilschov, Frederik Christian”>
+<chapter name="Eilschov, Frederik Christian">
 <b>Eilschov</b> ['ajlskå^u], <sp>Frederik Christian</sp>,
 dansk Filosof, f. 13. Febr 1725 i Rynkeby paa
 Fyn, d. 8. Oktbr 1750 i Kbhvn. Kun 15 Aar gl

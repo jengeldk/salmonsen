@@ -71,7 +71,7 @@ Croquis par E. Marc</i> [126 Litografier, Paris
 
 <img>P. J. David.</img>
 
-<chapter name=”David, Dewi, den Hellige”>
+<chapter name="David, Dewi, den Hellige">
 <b>David</b> (<sp>Dewi</sp>), <sp>den Hellige</sp>, Patron for
 Wales, hans Dødsaar sættes nu af de fleste til
 601. Han maatte kæmpe baade mod Druiderne
@@ -84,7 +84,7 @@ i 12. Aarh. af Calixt II, hans Festdag er 1.
 Marts.
 <i>L. M.</i></chapter>
 
-<chapter name=”David fra Dinan”>
+<chapter name="David fra Dinan">
 <b>David</b> <sp>fra Dinan</sp> (<sp>Dinanto</sp>), skolastisk
 Filosof i 13. Aarh., maaske fra Bretagne. Om
 hans Liv vides saa godt som intet, og hans to
@@ -100,7 +100,7 @@ III's Hof og skal selv have ment, at hans
 Filosofi godt kunde forenes med Kristendom.
 <i>L. M.</i></chapter>
 
-<chapter name=”David Armenieren”>
+<chapter name="David Armenieren">
 <b>David Armenieren,</b> gr. Filosof fra 6. Aarh.,
 tilhørte den nyplatoniske Skole i Alexandria,
 men har antagelig været Kristen. Af hans Skr
@@ -110,7 +110,7 @@ Logikken og til Aristoteles' Kategorier; til dels
 eksisterer disse ogsaa paa Armenisk.
 <i>W. N.</i></chapter>
 
-<chapter name=”David Komnenos”>
+<chapter name="David Komnenos">
 <b>David Komnenos,</b> den sidste Kejser i
 Trapezunt (1458-62), kom paa Tronen ved at
 fortrænge sin Brodersøn Alexios, der endnu kun
@@ -128,7 +128,7 @@ Konstantinopel, hvor han blev myrdet, da han
 vægrede sig ved at antage Islam.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Davidov, Karl”>
+<chapter name="Davidov, Karl">
 <b>Davidov</b> [da'vid<sub>å</sub>f], <sp>Karl</sp>, russ.
 Violoncellist, f. 15. Marts 1838 i Goldingen (Kurland), d.
 26. Febr 1889 i Moskva, kom som Dreng til

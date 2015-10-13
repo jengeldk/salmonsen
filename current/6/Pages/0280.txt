@@ -100,16 +100,16 @@ Nordpol i den Ende, hvor Strygemagnetens
 Sydpol forlader den, og omvendt.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Dobbeltstrømtelegrafering”>
+<chapter name="Dobbeltstrømtelegrafering">
 <b>Dobbeltstrømtelegrafering,</b> se <sp>Telegraf</sp>.</chapter>
 
-<chapter name=”Dobbeltsuger”>
+<chapter name="Dobbeltsuger">
 <b>Dobbeltsuger,</b> se <sp>Gobiesocidae</sp>.</chapter>
 
-<chapter name=”Dobbeltsyn”>
+<chapter name="Dobbeltsyn">
 <b>Dobbeltsyn,</b> se <sp>Diplopi</sp>.</chapter>
 
-<chapter name=”Dobbelttangent”>
+<chapter name="Dobbelttangent">
 <b>Dobbelttangent</b> (<sp>mat</sp>.) til en Kurve er en
 Linie, der er Tangent til
 Kurven i to forskellige
@@ -118,10 +118,10 @@ Punkter (se Figur.).
 
 <img></img></chapter>
 
-<chapter name=”Dobbelt-T-Anker”>
+<chapter name="Dobbelt-T-Anker">
 <b>Dobbelt-T-Anker,</b> se <sp>Dynamo</sp>.</chapter>
 
-<chapter name=”Dobbelt-T-Jern”>
+<chapter name="Dobbelt-T-Jern">
 <b>Dobbelt-T-Jern,</b> ogsaa kaldet I-Jern, er
 en Slags valset Profiljern, der anvendes som
 Bjælke. Tværsnittet er I, hvoraf Navnet; de
@@ -146,7 +146,7 @@ Profil-Rækker, <sp>Differdinger-B-Profiler</sp>
 (med noget tyndere Krop).
 <i>A. O-d.</i></chapter>
 
-<chapter name=”Dobbelttrille”>
+<chapter name="Dobbelttrille">
 <b>Dobbelttrille,</b> en Trille, der udføres samtidig
 paa to Toner, ell. rettere to samtidig udførte
 Triller:<img></img>

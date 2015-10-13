@@ -4,7 +4,7 @@ Drotning, Hunkønsform til Drotten, Drot ɔ: Hersker
 ell. Konge.
 <i>A. O.</i></chapter>
 
-<chapter name=”Dronning, Dyreriget”>
+<chapter name="Dronning, Dyreriget">
 <b>Dronning</b> kaldes i Dyreriget Hunkønnet hos
 de koloni- og statdannende Insekter
 (Honningbien og Termitter), hvor dette som æglæggende
@@ -13,7 +13,7 @@ ganske enkelte Individer. Se i øvrigt <sp>Bier</sp> og
 <sp>Termitter</sp>.
 <i>C. W.-L.</i></chapter>
 
-<chapter name=”Dronningborg”>
+<chapter name="Dronningborg">
 <b>Dronningborg</b> var Navnet paa et nu nedrevet
 kgl. Slot i Randers By. Slottet var under Navnet
 Randersgaard opstaaet af det tidligere
@@ -46,11 +46,11 @@ der lidt N. f. Byen opførte en ny Gaard, som
 han gav Navn efter det nedrevne Slot.
 <i>B. L.</i></chapter>
 
-<chapter name=”Dronning Charlottes Øer”>
+<chapter name="Dronning Charlottes Øer">
 <b>Dronning Charlottes Øer,</b> se
 <sp>Charlottes Øer</sp>.</chapter>
 
-<chapter name=”Dronningens Kvarter”>
+<chapter name="Dronningens Kvarter">
 <b>Dronningens Kvarter</b> (<sp>Søv</sp>.), den ene
 Halvdel af Besætningen i et Orlogsskib, den
 anden Halvdel benævnes <sp>Kongens
@@ -66,14 +66,14 @@ agter om Bagbord. Menige paa D. K. har
 deres Ærmedistinktion syet paa venstre Ærme.
 <i>H. E.</i></chapter>
 
-<chapter name=”Dronningeskamlen”>
+<chapter name="Dronningeskamlen">
 <b>Dronningeskamlen,</b> Stengrund Ø. f.
 Dronningestolen (Møen), c. 1/2 Sm. fra Land.
 Grunden falder paa alle Sider stejlt af; paa det
 laveste findes 3,5 m Vand.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Dronningestolen”>
+<chapter name="Dronningestolen">
 <b>Dronningestolen,</b> et højt Punkt paa Møens
 Klint (Store Klint), 128 m. Juledag 1868
 styrtede et stort Stykke (over 100 m langt, c. 15 m
@@ -85,7 +85,7 @@ Klinten i Vandet, er nu forsvunden. Senere har der
 fundet mindre Nedstyrtninger Sted.
 <i>H. W.</i></chapter>
 
-<chapter name=”Dronninggaard”>
+<chapter name="Dronninggaard">
 <b>Dronninggaard,</b> Hovedgaard i Sokkelund's
 Herred, 15 km NV. f. Kbhvn, opr. opført som
 en Lystgaard paa et Næs i Fure-Søen af
@@ -129,7 +129,7 @@ nedlagt 1906, og udstykkede Grunden til
 Villabebyggelse.
 <i>B. L.</i></chapter>
 
-<chapter name=”Dronninggaard”>
+<chapter name="Dronninggaard">
 <b>Dronninggaard,</b> Hovedgaard i Dronninglund
 Herred, SØ. f. Dronninglund. D. var opr. en
 Bondegaard, senere Ladegaard til Hundslund
@@ -140,7 +140,7 @@ Dronninglund og skiltes først fra denne Gaard i Beg.
 af 19. Aarh.
 <i>B. L.</i></chapter>
 
-<chapter name=”Dronningholm”>
+<chapter name="Dronningholm">
 <b>Dronningholm,</b> Navn paa et Voldsted paa
 den nuv. »Donkebakke«, ved Arresø (Kregome
 Sogn), det eneste Minde om en af. Valdemar
@@ -149,7 +149,7 @@ siges at være blevet nedrevet under
 Frederik II.
 <i>B. L.</i></chapter>
 
-<chapter name=”Dronning Louise's Land”>
+<chapter name="Dronning Louise's Land">
 <b>Dronning Louise's Land,</b> Grønlands
 Østkyst, mellem 76° og 11 1/2° n. Br., adskilt fra
 Kysten ved de store Bræer: Storstrømmen og
@@ -161,7 +161,7 @@ af dennes Medlemmer Marts 1908. Senere er det
 besøgt af Medlemmer af Mikkelsen's
 Ekspedition 1910 og af Koch's Ekspedition 1912-13.</chapter>
 
-<chapter name=”Dronning Louise's Ø”>
+<chapter name="Dronning Louise's Ø">
 <b>Dronning Louise's Ø,</b> ved Grønlands
 Østkyst paa 60° 22' n. Br. Øen er c. 40 km<sup>2</sup> stor,
 og dens højeste Punkt er 780 m o. H.

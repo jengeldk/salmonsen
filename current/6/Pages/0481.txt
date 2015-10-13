@@ -91,13 +91,13 @@ Traumbeobachtung« i »Archiv für Psychol.«, Bd 23,
 1912).
 <i>Alfr. L.</i></chapter>
 
-<chapter name=”Drømmebøger”>
+<chapter name="Drømmebøger">
 <b>Drømmebøger,</b> se <sp>Drømmetydning</sp>.</chapter>
 
-<chapter name=”Drømmekvæde”>
+<chapter name="Drømmekvæde">
 <b>Drømmekvæde,</b> d. s. s. <sp>Draumekvæde</sp>.</chapter>
 
-<chapter name=”Drømmetydning”>
+<chapter name="Drømmetydning">
 <b>Drømmetydning</b> er den Fortolkning, som en
 Drøm, der ikke synes at bebude virkelige
 Begivenheder, maa underkastes for at give

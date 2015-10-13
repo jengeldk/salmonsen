@@ -63,12 +63,12 @@ Eiriksson</sp>, »Min Forfattervirksomhed« i
 »Flyvende Blade« [1875]).
 <i>F. J.</i></chapter>
 
-<chapter name=”Eïs”>
+<chapter name="Eïs">
 <b>Eïs</b> (e-is), det ved et ♯ en halv Tone
 forhøjede <i>E</i>, enharmonisk lig med F.
 <i>S. L.</i></chapter>
 
-<chapter name=”Eisack”>
+<chapter name="Eisack">
 <b>Eisack</b> ['aizak], Adiges østlige Kildeflod,
 udspringer paa Brenner i Tyrol, flyder i sydlig
 Retning, optager ved Brixen den fra Puster
@@ -76,7 +76,7 @@ Thal kommende Rienz og udmunder i Adige,
 11 km neden for Bozen. Dens Længde er 96 km.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eiselsberg, Anton”>
+<chapter name="Eiselsberg, Anton">
 <b>Eiselsberg</b> ['a^iz<sub>ə</sub>lsbærk], <sp>Anton</sp>, østerr.
 Kirurg, f. 1860, var først Billroth's
 Operationsassistent, 1893 Prof. i Utrecht, 1895 i Königsberg,
@@ -92,7 +92,7 @@ Undersøgelser har i øvrigt strakt sig over mange
 andre kirurgiske Felter.
 <i>J. S. J.</i></chapter>
 
-<chapter name=”Eisen, Charles”>
+<chapter name="Eisen, Charles">
 <b>Eisen</b> [æ'zæn], <sp>Charles</sp>, fr. Illustrator og
 Raderer, f. i Valenciennes 1720 ell. 1722, d. 1778,
 rimeligvis i Rom, hvor han skal have været
@@ -106,7 +106,7 @@ Lafontaine's Fabler (Udg. 1762) og Voltaire's
 Titelblade, Vignetter og Smaaportrætter.
 <i>S. M.</i></chapter>
 
-<chapter name=”Eisenach”>
+<chapter name="Eisenach">
 <b>Eisenach</b> ['a^iz<sub>ə</sub>nak], By i Storhertugdømmet
 Sachsen-Weimar, ligger 221 m o. H. ved
 Thüringerwalds nordlige Skraaning, hvor Hörsel og
@@ -144,11 +144,11 @@ indeholdende Kogsalt, svovlsur Kalk og Magnesia. Mildt
 Klima, om Sommeren temmelig varmt.
 <i>E. F.</i></chapter>
 
-<chapter name=”Eisenach-Kongressen”>
+<chapter name="Eisenach-Kongressen">
 <b>Eisenach-Kongressen</b> ['a^iz<sub>ə</sub>nak-], se
 <sp>Socialdemokrati</sp>.</chapter>
 
-<chapter name=”Eisenberg”>
+<chapter name="Eisenberg">
 <b>Eisenberg</b> ['a^iz<sub>ə</sub>nbærk], By i Hertugdømmet
 Sachsen-Altenburg, ligger paa en Højde mellem
 Saale og Elster, (1910) 10749 mest luth. Indb.

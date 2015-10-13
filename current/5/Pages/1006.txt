@@ -13,7 +13,7 @@ mangfoldige Afh. i det tyske Shakespeare-Selskabs
 Aarbøger er udkomne samlede i to Bd.
 <i>C. B-s.</i></chapter>
 
-<chapter name=”delivered”>
+<chapter name="delivered">
 <b>delivered</b> [d<sub>i</sub>'£iv<sub>ə</sub>r<sub>ə</sub>d], eng. Handelsudtryk,
 som bruges i Flæng med det ensbetydende
 danske: <sp>leveret</sp>. Ved Salg af Varer d. ell.
@@ -35,7 +35,7 @@ der Tilbøjelighed til at antage det første, i
 Norge mest det sidste.
 <i>(C. V. S.). C. Th.</i></chapter>
 
-<chapter name=”delkredere”>
+<chapter name="delkredere">
 <b>delkredere</b> (fr. <i>ducroire</i>, eng. <i>quarantee</i>),
 af det ital., <i>credere</i>, at tro, have Tillid til, give
 Kredit, <i>star del credere</i>, at gaa i Borgen for.
@@ -55,7 +55,7 @@ mulige ell. forventede Tab. Delkrederekontoen
 er altsaa en Slags Reservefond.
 <i>(C. V. S.). C. Th.</i></chapter>
 
-<chapter name=”Della, Maria Domenique”>
+<chapter name="Della, Maria Domenique">
 <b>Della</b> [dæ'la], <sp>Maria Domenique</sp>, fr.
 Komponist (1769-1800), studerede i Italien,
 hvor han fik forsk. Operaer opført; 1796 vendte
@@ -65,7 +65,7 @@ prisonnier</i> [Kbhvn 1801], <i>L'oncle volet,
 L'opéra-comique</i>).
 <i>W. B.</i></chapter>
 
-<chapter name=”Dellak”>
+<chapter name="Dellak">
 <b>Dellak</b> (arab.) er Betegnelsen for den
 Tjener, der i det tyrk. Bad besørger Afgnidningen,
 som udgør den sidste Del af det egl. Bad
@@ -74,7 +74,7 @@ af arab. Oprindelse, anvendes det kun paa
 Tyrkisk; det tilsvarende arab. Udtryk er <i>mukajjis</i>.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Dellâl”>
+<chapter name="Dellâl">
 <b>Dellâl</b> [-la.l] (arab.) betyder Udraaber og
 betegner den Person, hvis Levevej det er i den
 orientalske Basar at besørge alle
@@ -89,11 +89,11 @@ lægger i Vejen for en direkte Optræden af Folk
 paa et vist socialt Trin.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Della Robbia”>
+<chapter name="Della Robbia">
 <b>Della Robbia,</b> italiensk Kunstnerfamilie, se
 <sp>Robbia</sp>.</chapter>
 
-<chapter name=”Della Scala”>
+<chapter name="Della Scala">
 <b>Della Scala,</b> Teater i Milano. Det blev
 opført 1778 af Piermarini og er ikke alene Milanos
 største Teater, men anses ogsaa for et af de
@@ -108,7 +108,7 @@ Foretagende; dog yder Staten Direktionen et
 aarligt Tilskud.
 <i>C. B-s.</i></chapter>
 
-<chapter name=”Delleani, Lorenzo”>
+<chapter name="Delleani, Lorenzo">
 <b>Delleani,</b> <sp>Lorenzo</sp>, ital. Historiemaler, f.
 17. Jan. 1840 i Pollone ved Biella, d. 14. Novbr
 1908 i Turin. Efter Uddannelse paa
@@ -128,7 +128,7 @@ skønne Kunster i Turin. Mange af D.'s Arbejder
 i offentlige ital. Samlinger.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Delle Sedie”>
+<chapter name="Delle Sedie">
 <b>Delle Sedie</b> [-'sed<sub>i</sub>e], <sp>Enrico</sp>, Sanger
 og Sanglærer, f. 17. Juni 1826 i Livorno, d. 1907
 i Paris, debuterede 1851 i Italien, optraadte
@@ -138,10 +138,10 @@ Konservatoriet. Bl. hans Elever nævnes Kristina
 Nilsson.
 <i>S. L.</i></chapter>
 
-<chapter name=”Delling”>
+<chapter name="Delling">
 <b>Delling</b> (<sp>myt</sp>.), se <sp>Dag</sp>.</chapter>
 
-<chapter name=”Del Lungo”>
+<chapter name="Del Lungo">
 <b>Del Lungo</b> [-luŋgo], <sp>Isidoro</sp>, ital.
 Litteraturhistoriker, f. 20. Decbr 1841 i Montevarchi.
 Han er <i>Dr. jur.</i> fra Pisa og har haft forsk.

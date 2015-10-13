@@ -3,7 +3,7 @@ Længdeenhed. Linierne <i>EC</i> og <i>FD</i> drages parallelle med
 <i>GB</i>; saa er <i>AC</i>, <i>CD</i>, <i>DB</i> de søgte Dele.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Deling”>
+<chapter name="Deling">
 <b>Deling,</b> en Benævnelse paa de taktiske
 Enheder, hvori Underafdelingen (Kompagniet,
 Eskadronen og Batteriet) deles. Antallet af D.
@@ -13,7 +13,7 @@ for D., der er Løjtnant ell. ældre Underofficer,
 benævnes <sp>Delingsfører</sp>.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Delingsregning”>
+<chapter name="Delingsregning">
 <b>Delingsregning</b> ell. <sp>Selskabsregning</sp>
 gaar ud paa at dele et Tal i Dele, der har samme
 indbyrdes Forhold, som visse givne Tal. Skal f.
@@ -25,13 +25,13 @@ Opgaven løses paa analog Maade for Deling i et
 hvilket som helst andet Antal Dele.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Delingsvæv”>
+<chapter name="Delingsvæv">
 <b>Delingsvæv,</b> se <sp>Dannelsesvæv</sp>.</chapter>
 
-<chapter name=”Delinkvent”>
+<chapter name="Delinkvent">
 <b>Delinkvent</b> (lat.), fængslet Forbryder.</chapter>
 
-<chapter name=”Delion”>
+<chapter name="Delion">
 <b>Delion,</b> lille By i Nærheden af Tanagra i
 Boiotien med et Tempel for den deliske
 Apollon. Under den peloponnesiske Krig (424 f. Kr.)
@@ -39,13 +39,13 @@ tilføjede Boioterne Athenerne et Nederlag
 ved D.
 <i>C. B.</i></chapter>
 
-<chapter name=”Delirant”>
+<chapter name="Delirant">
 <b>Delirant,</b> en af Delirium angreben Person.</chapter>
 
-<chapter name=”delirere”>
+<chapter name="delirere">
 <b>delirere,</b> se <sp>Delirium</sp>.</chapter>
 
-<chapter name=”Delirium”>
+<chapter name="Delirium">
 <b>Delirium</b> er en sygelig Tilstand med
 Forvirring af Sanseindtryk, Forestillinger og
 Tanker; at lide af D., at <sp>delirere</sp>, er populært
@@ -129,7 +129,7 @@ stærke Delirier forløber akut med dødelig
 Udgang, men i øvrigt ikke er tilstrækkelig kendt.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”deliske Problem”>
+<chapter name="deliske Problem">
 <b>deliske Problem</b> (<sp>mat</sp>.). Dette Problem,
 der gaar ud paa <sp>Terningens
 Fordobling</sp> ɔ: paa at konstruere en Terning dobbelt

@@ -27,10 +27,10 @@ Titlen D., der ofte anvendes uden for sit opr.
 Omraade i løs og ubestemmelig Bet.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Direr”>
+<chapter name="Direr">
 <b>Direr</b> (lat. <i>Diræ</i>), d. s. s. <sp>Furier</sp>.</chapter>
 
-<chapter name=”Dirhem”>
+<chapter name="Dirhem">
 <b>Dirhem</b> (af <i>Drachme</i>), gl arab. Sølvmønt.
 D., tyrkisk Vægt, ogsaa kaldet <i>Derhem</i> eller
 <i>Dramm</i>, af Størrelse mellem 3,1 og 3,4 g.
@@ -38,7 +38,7 @@ D., tyrkisk Vægt, ogsaa kaldet <i>Derhem</i> eller
 <i>Mi'chary-d.</i> = Milligram.
 <i>(N. J. B.). Th. O.</i></chapter>
 
-<chapter name=”diribitor”>
+<chapter name="diribitor">
 <b>diribitor</b> (lat.), Optæller af Stemmetavler ved
 en Afstemning i den rom. Folkeforsamling. Man
 stemte med Tavler, der lagdes i en Kasse;
@@ -47,7 +47,7 @@ Tavlerne af <i>d.</i>, ansete Mænd, der var udtagne
 dertil, under Opsyn af andre (<i>custodes</i>).
 <i>A. B. D</i>.</chapter>
 
-<chapter name=”Dirichlet, Peter Gustav Lejeune”>
+<chapter name="Dirichlet, Peter Gustav Lejeune">
 <b>Dirichlet</b> [diri'∫læ], <sp>Peter Gustav
 Lejeune</sp>, tysk Matematiker (1805-59). Efter at
 have studeret i Paris virkede D. fra 1827 som
@@ -70,7 +70,7 @@ har Kronecker samlet hans Værker (2 Bd,
 1890).
 <i>Chr. C</i>.</chapter>
 
-<chapter name=”Diricksen, Dirk”>
+<chapter name="Diricksen, Dirk">
 <b>Diricksen</b> (<sp>Diricks</sp>), <sp>Dirk</sp>,
 Kobberstikker, f. 1613 i Hamburg, d. 1653 smst., levede
 længere Tid i Danmark og udførte mange
@@ -82,11 +82,11 @@ o. a. Kobberstiksamlingen i Kbhvn har af D.
 10 Blade.
 <i>A. Hk</i>.</chapter>
 
-<chapter name=”Diricksens, J. J.”>
+<chapter name="Diricksens, J. J.">
 <b>Diricksens</b> ['di.reks<sub>ə</sub>ns], J. J., se
 <sp>Zetternam</sp>.</chapter>
 
-<chapter name=”Dirigent”>
+<chapter name="Dirigent">
 <b>Dirigent</b>. Ordstyrer paa Forsamlinger,
 Parlamenternes »Formand«, vælges i Reglen ved
 en i simple Former holdt Afstemning (se <sp>Valg</sp>),

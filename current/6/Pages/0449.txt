@@ -50,10 +50,10 @@ Samfundsøkonomien [se
 Samfundsøkonomi]).
 <i>K. R.-H.</i></chapter>
 
-<chapter name=”Driftsherregevinst”>
+<chapter name="Driftsherregevinst">
 <b>Driftsherregevinst,</b> se <sp>Driftsherre</sp>.</chapter>
 
-<chapter name=”Driftskapital”>
+<chapter name="Driftskapital">
 <b>Driftskapital.</b> Man skelner i en
 Erhvervsvirksomhed mellem Anlægs- og D. Denne
 Sondring falder ikke sammen med Sondringen
@@ -78,7 +78,7 @@ Hastighed; jo hurtigere Rotationen er, des
 forholdsvis mindre D. kræves.
 <i>C. Th.</i></chapter>
 
-<chapter name=”Driftsklasse”>
+<chapter name="Driftsklasse">
 <b>Driftsklasse</b> er en tekn.-økonomisk Enhed i
 Skovbruget, idet man til een D. henfører alle de
 Afdelinger, som er bevoksede med samme
@@ -98,7 +98,7 @@ D. (<sp>Tilvækstoversigt</sp> eller
 <sp>Udbytteoversigt</sp>).
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Driftskredit”>
+<chapter name="Driftskredit">
 <b>Driftskredit.</b> Til Driften af et
 Erhvervsforetagende vil der periodisk kræves Kapitalbeløb
 ud over den sædvanlige Driftskapital. Saadanne
@@ -116,7 +116,7 @@ Bet. og rummer alle de Fordele og Skyggesider,
 der knytter sig til Begrebet Kredit.
 <i>C. Th.</i></chapter>
 
-<chapter name=”Driftslære”>
+<chapter name="Driftslære">
 <b>Driftslære</b> i landøkonomisk Henseende
 omfatter Læren om Landbrugsbedrifternes Ledelse.
 Den kan deles i 4 Hovedafsnit: 1)
@@ -124,7 +124,7 @@ Driftsmidlerne, 2) Driftsmaaderne, 3) Driftsledelsen og 4)
 Driftsudbyttet.
 <i>H. H.-l.</i></chapter>
 
-<chapter name=”Driftslære”>
+<chapter name="Driftslære">
 <b>Driftslære</b> kaldes for <sp>Skovbrugets</sp> Vedk.
 Læren om Skovdyrkningens naturhistoriske
 Forudsætninger og disses Anvendelse ved Anlæg
@@ -133,7 +133,7 @@ og Drift af Skov. Navnet svarer til det sv.
 <i>Waldbau</i> og det fr. <i>sylviculture</i>.
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Driftsmaade”>
+<chapter name="Driftsmaade">
 <b>Driftsmaade</b> i <sp>Skovbruget</sp> viser sig især
 ved, at Individerne i Træsamfundet, den enkelte
 Bevoksning, er mere ell. mindre forsk. i Alder.
@@ -150,7 +150,7 @@ Lavskoven kan der højst blive to Alderstrin, hvorfor
 man her kun taler om »enkelt« ell. »dobbelt«.
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Driftsmateriel”>
+<chapter name="Driftsmateriel">
 <b>Driftsmateriel</b> ell. i snævreste Forstand <sp>det
 rullende Materiel</sp> betegner i
 jernbaneteknisk Henseende samtlige de Køretøjer, der

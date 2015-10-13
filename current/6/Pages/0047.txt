@@ -85,7 +85,7 @@ Smith</sp>, »Russ. Litteraturhistorie« (Kbhvn 1882,
 S 347-420).
 <i>(K. V.). H. C-e.</i></chapter>
 
-<chapter name=”Des”>
+<chapter name="Des">
 <b>Des,</b> det ved et ♭ en halv Tone fordybede <i>d</i>.
 <sp>D.-Dur</sp>, den Dur-Tonart, der har D. til
 Grundtone ; har fem ♭, for <i>h</i>, <i>e</i>, <i>a</i>, <i>d</i> og <i>g</i>. <sp>D.-Mol</sp>,
@@ -93,7 +93,7 @@ den Mol-Tonart, der har D. til Grundtone, har
 7 ♭ og et ♭♭, enharmonisk lig med <i>Cis</i>-Mol.
 <i>S. L.</i></chapter>
 
-<chapter name=”Desaguadero”>
+<chapter name="Desaguadero">
 <b>Desaguadero</b> [ðæsag<sub>u</sub>a'ðdær<sub>å</sub>], Flod i
 Sydamerika, Republikken Bolivia, ligger i en Højde
 af 3800 m o. H. og fører Titicaca-Søens Vand
@@ -101,7 +101,7 @@ til den sydligere liggende Sø Aullagas. Dens
 Længde er 300 km.
 <i>M. V.</i></chapter>
 
-<chapter name=”Desaix, de Veygoux, Louis Charles Antoine”>
+<chapter name="Desaix, de Veygoux, Louis Charles Antoine">
 <b>Desaix</b> [d<sub>ö</sub>'sæ] <sp>de Veygoux</sp>, <sp>Louis
 Charles Antoine</sp>, fr. General, f. 1768, d.
 14. Juni 1800. Kun 15 Aar gl blev han Løjtnant

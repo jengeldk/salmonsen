@@ -28,7 +28,7 @@ Memoirer]; <sp>E. de Goncourt</sp>, <i>Mlle C.</i> [Paris
 1890]).
 <i>A. A.</i></chapter>
 
-<chapter name = ”Clairvaux”>
+<chapter name="Clairvaux">
 <b>Clairvaux</b> [klær'vo], berømt fr.
 Cistercienserkloster ved Aube's venstre Bred, paa Grænsen
 af det gl. Burgund og Champagne, nu i Dept
@@ -81,7 +81,7 @@ cisterciennes</i> [Paris 1858]; <sp>Viollet le Duc</sp>,
 <i>Dictionnaire de l'Architecture</i> I).
 <i>H. O.</i></chapter>
 
-<chapter name = ”Clairville”>
+<chapter name="Clairville">
 <b>Clairville</b> [klær'vil], <sp>Louis François</sp>,
 egl. <sp>Nicolaie</sp>, fr. dram. Forf. (1811-79). C.
 var Søn af en Skuespiller, der havde forladt
@@ -110,7 +110,7 @@ Angot's Datter« og »Cornevilles Klokker«. -
 poésies</i>.
 <i>S. Ms.</i></chapter>
 
-<chapter name = ”Clairvoyance”>
+<chapter name="Clairvoyance">
 <b>Clairvoyance</b> [klærvwa'jã.s] (<i>second-sight</i>,
 Hellsehen, Synskhed) kaldes den hos visse
 Personer - Seere og Seersker, Synske - antagne

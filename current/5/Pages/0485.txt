@@ -29,7 +29,7 @@ Om D.'s Rumfang og Vægtfylde, se
 <sp>Damptæthed</sp>.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Damp-”>
+<chapter name="Damp-">
 <b>Damp-</b> benyttes i forsk. Sammensætninger
 saasom: <sp>D.-Blegning</sp>, <sp>D.-Farvning</sp>,
 <sp>D.-Vask</sp> for at betegne, at der benyttes
@@ -37,10 +37,10 @@ Dampkraft til at drive de til Blegningen, Farvningen
 o. s. v. anvendte Maskiner.
 <i>K. M.</i></chapter>
 
-<chapter name=”Dampbaad”>
+<chapter name="Dampbaad">
 <b>Dampbaad,</b> se <sp>Dampskib</sp>.</chapter>
 
-<chapter name=”Dampbad”>
+<chapter name="Dampbad">
 <b>Dampbad,</b> <sp>russisk Bad</sp>, en allerede i
 ældre Tider kendt Form for Badning. Man
 udviklede dengang Dampen ved at hælde Vand paa
@@ -102,26 +102,26 @@ Ekstremiteterne anbringes i en Kasse, hvortil kan
 ledes Damp.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Dampbarkasse”>
+<chapter name="Dampbarkasse">
 <b>Dampbarkasse,</b> se <sp>Barkasse</sp>.</chapter>
 
-<chapter name=”Dampbremse”>
+<chapter name="Dampbremse">
 <b>Dampbremse</b> er en Bremse, der betjenes
 direkte ved en særlig Dampcylinder ell.
 Dampmaskine. Ogsaa Klose's automatiske D. fører
 dette Navn. Se <sp>Bremse</sp> S. 923.
 <i>G. K.</i></chapter>
 
-<chapter name=”Dampcylinder”>
+<chapter name="Dampcylinder">
 <b>Dampcylinder,</b> se <sp>Dampmaskine</sp>.</chapter>
 
-<chapter name=”Dampdom”>
+<chapter name="Dampdom">
 <b>Dampdom,</b> se <sp>Dom</sp>.</chapter>
 
-<chapter name=”dampe”>
+<chapter name="dampe">
 <b>dampe,</b> <sp>at</sp>, se <sp>Dampning</sp>.</chapter>
 
-<chapter name=”Dampe, Jacob Jacobsen”>
+<chapter name="Dampe, Jacob Jacobsen">
 <b>Dampe,</b> <sp>Jacob Jacobsen</sp>, dansk
 Videnskabsmand og Politiker, f. i Kbhvn 10. Jan. 1790,
 d. smst. 22. Decbr 1867. Efter at han var blevet

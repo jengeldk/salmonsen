@@ -22,7 +22,7 @@ Altertum« [Wien 1886]; <sp>Schötz</sp>, »Litteratur
 der Veterinärwissenschaft« [Berlin 1889]).
 <i>H. G.</i></chapter>
 
-<chapter name=”Dyrmaleri”>
+<chapter name="Dyrmaleri">
 <b>Dyrmaleri</b> har Fremstillingen af Dyrelivet til
 Hovedformaal. Medens Fremstillinger af Dyr
 naturligvis træffes hyppig i hedensk og kristen
@@ -71,7 +71,7 @@ Johannes Larsen, Vilh. Fischer og K. Kyhn;
 Mackeprang, S. Simonsen, Resen-Steenstrup.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Dyrnæs”>
+<chapter name="Dyrnæs">
 <b>Dyrnæs,</b> den østligste Pynt af Nordskov
 (Horns Herred), hvor Roskilde Fjord bøjer mod
 S. Ud for D. findes en bred Sandhage,
@@ -80,7 +80,7 @@ dybe Løb. Paa den sydlige Del af Hagen er
 bygget en 440 m lang Bro.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Dyrplageri”>
+<chapter name="Dyrplageri">
 <b>Dyrplageri.</b> Ifølge den danske Straffelov
 straffes »hvo, som gør sig skyldig i raa
 Mishandling ell. anden grusom og oprørende
@@ -100,10 +100,10 @@ afhængig af, at D. foregaar offentlig ell. vækker
 Forargelse.
 <i>F. B.</i></chapter>
 
-<chapter name=”Dyrrhachium”>
+<chapter name="Dyrrhachium">
 <b>Dyrrhachium</b> [-'ra-], se <sp>Durazzo</sp>.</chapter>
 
-<chapter name=”Dyrskiøt, Peder Larsen”>
+<chapter name="Dyrskiøt, Peder Larsen">
 <b>Dyrskiøt,</b> <sp>Peder Larsen</sp>, f. 10. April
 1630, d. 13. Oktbr 1707, en lærd Bonde fra
 Vendsyssel, der fra sin Fader, som faldt 1644
@@ -122,7 +122,7 @@ for at faa Oplysninger, og D. testamenterede
 ham til sidst alle sine Samlinger.
 <i>Kr. E.</i></chapter>
 
-<chapter name=”Dyrskue”>
+<chapter name="Dyrskue">
 <b>Dyrskue,</b> offentlig Udstilling af Husdyr
 (Heste, Kvæg, Faar, Geder, Svin, Fjerkræ og Bier),
 understøttet og ledet af Staten og

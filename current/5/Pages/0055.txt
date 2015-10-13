@@ -33,7 +33,7 @@ Prædikatet Excellence. (<sp>Litt</sp>: <sp>C. Nyrop</sp>, »J. Fr.
 C.« [Kbhvn 1887]).
 <i>(C. N.). R. B.</i></chapter>
 
-<chapter name = ”Classens Have”>
+<chapter name="Classens Have">
 <b>Classens Have</b> var tidligere Navnet paa en
 større Ejendom paa Østerbro ved Kbhvn. Dens
 Areal begrænsedes omtr. af de nuv. Gader
@@ -63,7 +63,7 @@ minder om denne Begivenhed (Holsteinsgade,
 Livjægergade).
 <i>A. L.</i></chapter>
 
-<chapter name = ”Classenske Fideikommis”>
+<chapter name="Classenske Fideikommis">
 <b>Classenske Fideikommis</b> [eller -'mi] er
 stiftet af Generalmajor J. F. Classen ved
 Testamente af 28. Jan. 1789 med tilhørende Kodicil
@@ -101,7 +101,7 @@ Aar afgive en Beretning til Kongen. Den
 offentliggøres nu i Ministerialtidende.
 <i>(C. N.). R. B.</i></chapter>
 
-<chapter name = ”Classis”>
+<chapter name="Classis">
 <b>Classis</b> (lat.), »Flaaden«, Havneby 3 km.
 SØ. f. Ravenna, ved den Havn, som Kejser
 Augustus anlagde for Adriaterhavsflaaden.
@@ -109,7 +109,7 @@ Mindet om den er endnu bevaret i Navnet paa
 Basilikaen <i>S. Apollinare in Classe</i>.
 <i>H. A. K.</i></chapter>
 
-<chapter name = ”Clathropteris”>
+<chapter name="Clathropteris">
 <b>Clathropteris,</b> en uddød Slægt af Bregner
 med stilkede, vifteformede Blade, paa hvis
 Underside fandtes Sporehuse, ordnede i nøgne
@@ -118,7 +118,7 @@ fra yngste Trias og ældste Jura; den uddør med
 Juraperioden.
 <i>J. P. R.</i></chapter>
 
-<chapter name = ”Claude, Jean”>
+<chapter name="Claude, Jean">
 <b>Claude</b> [klo.d], <sp>Jean</sp>, fr. reformert Teolog
 (1619-87), blev 1654 Præst i Nimes og 1666 i
 Charenton-le-Pont ved Paris, dengang et
@@ -135,13 +135,13 @@ døde. Hans Søn udgav hans efterladte Skr (5
 Bd, Amsterdam 1688).
 <i>H. O.</i></chapter>
 
-<chapter name = ”Claude-Lorrain”>
+<chapter name="Claude-Lorrain">
 <b>Claude-Lorrain</b> [klo.d-lå'ræ], se <sp>Gellée</sp>.</chapter>
 
-<chapter name = ”Claudetit”>
+<chapter name="Claudetit">
 <b>Claudetit,</b> se <sp>Arsenolit</sp>.</chapter>
 
-<chapter name = ”Claudia (Claude de France)”>
+<chapter name="Claudia (Claude de France)">
 <b>Claudia</b> (<sp>Claude de France</sp>), fransk
 Dronning, Datter af Ludvig XII og Anna af
 Bretagne (1499-1524). C. var først forlovet med
@@ -155,7 +155,7 @@ bonne reine</i>. - Blommearten <i>Reine-Claude</i> har
 sit Navn efter hende.
 <i>Kr. E.</i></chapter>
 
-<chapter name = ”Claudianus, Claudius”>
+<chapter name="Claudianus, Claudius">
 <b>Claudianus,</b> <sp>Claudius</sp>, rom. Digter, f. i
 Alexandria, flyttede c. 394 e. Kr. til Rom, hvor
 han snart fandt en Velynder i Vandalen

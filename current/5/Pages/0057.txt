@@ -31,7 +31,7 @@ som renset for Fjender, da C. døde af Pesten i
 Sirmium, 56 Aar gl.
 <i>Kr. E.</i></chapter>
 
-<chapter name = ”Claudius, Carl August”>
+<chapter name="Claudius, Carl August">
 <b>Claudius,</b> <sp>Carl August</sp>, Generalkonsul,
 dansk Samler, f. i Kbhvn 1. Maj 1855, Medlem
 af Bestyrelsen for Musikhistorisk Mus. i Kbhvn
@@ -48,7 +48,7 @@ schwedische Nyckelharpa« (Kongres, Wien 1909) samt
 Paris 1914).
 <i>A. H.</i></chapter>
 
-<chapter name = ”Claudius, Matthias”>
+<chapter name="Claudius, Matthias">
 <b>Claudius,</b> <sp>Matthias</sp>, tysk Forf., f. 15.
 Aug. 1740 i Reinfeld i Holsten, d. 21. Jan. 1815
 i Hamburg. Han, der selv var Præstesøn, tilhørte
@@ -96,7 +96,7 @@ har opnaaet 8 Opl. Paa Dansk har Richard
 Petersen skrevet hans Biografi (Kbhvn 1884).
 <i>C. B-s.</i></chapter>
 
-<chapter name = ”Claudius Claussøn Swart”>
+<chapter name="Claudius Claussøn Swart">
 <b>Claudius Claussøn Swart,</b> paa Latin
 <i>Claudius Clavus</i> ell. <sp>Nicolaus Niger</sp>, dansk
 middelalderlig Geograf, f. i Landsbyen Sallinge
@@ -131,10 +131,10 @@ Bjørnbo</sp>, <i>Cartographia Groenlandica</i> [Medd.
 om Grønland, Bd XLVIII, Kbhvn 1912]).
 <i>H. P. S.</i></chapter>
 
-<chapter name = ”Clauren, H.”>
+<chapter name="Clauren, H.">
 <b>Clauren,</b> <sp>H.</sp>, se <sp>Heun, K. G. S</sp>.</chapter>
 
-<chapter name = ”Claus, Adolf”>
+<chapter name="Claus, Adolf">
 <b>Claus,</b> <sp>Adolf</sp>, tysk Kemiker, f. 6. Juni 1840,
 d. 4. Maj 1900 i Freiburg., var fra 1866 Docent
 og Prof. srnst. Udover hans Undersøgelser over

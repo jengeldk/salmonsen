@@ -7,7 +7,7 @@ de pragtfulde Ruiner af den tidligere, 1459
 forladte, Hovedstad <sp>Mandur</sp>.
 <i>(C. C. C.). M. V.</i></chapter>
 
-<chapter name=”Djof”>
+<chapter name="Djof">
 <b>Djof</b> (<sp>Djauf</sp> ell. <sp>Djuf</sp>) ɔ: Indsænkning,
 kaldes forsk. Steder i Arabien, af hvilke et
 ligger paa Sydøstgrænsen af Jemen, NØ. f. Sana,
@@ -23,7 +23,7 @@ Befolkning angives af Blunt til 7000, af Huber til
 12000.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djofra”>
+<chapter name="Djofra">
 <b>Djofra</b> (<sp>Dschofra</sp>), Oasesamling i det
 nordlige Sahara, Tripolis, har c. 5000 Indb.,
 Berbere, fordelte i 4 Byer, af hvilke den
@@ -32,7 +32,7 @@ veldyrket og er en vigtig Station paa
 Hovedkaravanvejen fra Tripolis til Murzuk.
 <i>C. A.</i></chapter>
 
-<chapter name=”Djohor”>
+<chapter name="Djohor">
 <b>Djohor,</b> britisk Vasalstat i den sydligste Del
 af Halvøen Malaka, 23300 km<sup>2</sup> med (1911)
 180412 Indb. Der udføres Kautsjuk, Gambir,
@@ -43,7 +43,7 @@ Borneo. <sp>Hovedstaden</sp> D.-Bahru ligger paa
 Sydkysten.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djokjokarta”>
+<chapter name="Djokjokarta">
 <b>Djokjokarta,</b> holl. Vasalstat paa Java, 3089
 km<sup>2</sup>, (1905) 1118705 Indb., hvoraf 2342
 Europæere, 5366 Kinesere, er et frugtbart
@@ -73,7 +73,7 @@ Grænsen mod Surakarta ligger <sp>Prambanans</sp>
 storartede Tempelruiner.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djolan”>
+<chapter name="Djolan">
 <b>Djolan,</b> Landskab i det nordlige Palæstina,
 Ø. f. Jordan, mellem Hermons Bjerge og
 Floden Jarmuk, sænker sig mod V. med bratte
@@ -96,14 +96,14 @@ Navnet Golon tilhørte en Stad, efter hvilken
 Landskabet senere fik Navnet Gaulanitis.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djoliba”>
+<chapter name="Djoliba">
 <b>Djoliba</b> (<sp>Djuliba</sp>), Mandingo-Navnet for
 Niger-Flodens øvre Løb.</chapter>
 
-<chapter name=”Djolof”>
+<chapter name="Djolof">
 <b>Djolof,</b> se <sp>Jolof</sp>.</chapter>
 
-<chapter name=”Djonald”>
+<chapter name="Djonald">
 <b>Djonald,</b> <sp>Abulkasim ibn
 Muhammed el Chazzâz el Kawariri</sp>, en af
 sin Tids mest ansete Repræsentanter for
@@ -125,7 +125,7 @@ men maa dog nærmest opfattes som
 sværmerisk Mystiker.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Djonke”>
+<chapter name="Djonke">
 <b>Djonke</b> (<sp>Djunke</sp>), kin. Fartøj (efter
 Kanton-Dialekten <i>djonk</i> ɔ: Skib) af primitiv
 Konstruktion. Størrelsen varierer mellem 50 og
@@ -141,10 +141,10 @@ tidligere til Krigsbrug, hyppig af Sørøverne.
 <img>Djonke.</img>
 </chapter>
 
-<chapter name=”Djub”>
+<chapter name="Djub">
 <b>Djub,</b> se <sp>Juba</sp>.</chapter>
 
-<chapter name=”Djubbe”>
+<chapter name="Djubbe">
 <b>Djubbe,</b> Østerlænderens Overklædning, af
 Klæde ell. uldent Stof, har temmelig lange
 Ærmer, der dog ikke naar længere, end at
@@ -153,7 +153,7 @@ naar til Anklerne og bæres aaben fortil; den
 holdes gerne i mørke Farver, brunt ell. sort.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Djuf, El-Djuf”>
+<chapter name="Djuf, El-Djuf">
 <b>Djuf</b> (<sp>Dschuf</sp>), <sp>El-D.</sp>, »Ørkenens Krop«,
 en stor Sandørken i det vestlige Sahara, NV. f.
 Timbuktu. D. var en af de Strækninger i den

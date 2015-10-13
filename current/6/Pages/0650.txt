@@ -94,7 +94,7 @@ Mygdal</sp>, »Af D.'s Historie«; T<sp>roels-Lund</sp>,
 Magazin).
 <i>R. H.</i></chapter>
 
-<chapter name=”dækket Vej”>
+<chapter name="dækket Vej">
 <b>dækket Vej</b> er ved permanente
 Befæstningsanlæg den 5-10 m brede Vej, der løber langs
 Fæstningsgravens Yderside, og som er beskyttet
@@ -120,20 +120,20 @@ benyttes af Vagtposter og Patrouiller samt til
 Opstilling af Skytter.
 <i>Sch. P.</i></chapter>
 
-<chapter name=”Dækknogler”>
+<chapter name="Dækknogler">
 <b>Dækknogler</b> kaldes en Del af Hjernekassens
 Ben, der, i Modsætning til næsten alle andre
 Knogler udvikler sig uden et forudgaaende
 Bruskanlæg (se <sp>Ben</sp>).
 <i>S. B.</i></chapter>
 
-<chapter name=”Dækning, i Handelssproget”>
+<chapter name="Dækning, i Handelssproget">
 <b>Dækning,</b> i Handelssproget ensbetydende med
 <sp>Betaling</sp>. At indsende D. for ell. at
 <sp>dække</sp> en Varepost, d. s. s. at betale den.
 <i>C. Th.</i></chapter>
 
-<chapter name=”Dækning, i Krigen”>
+<chapter name="Dækning, i Krigen">
 <b>Dækning</b> kan i Krigen opnaas <sp>indirekte</sp>
 ell. <sp>direkte</sp>. <sp>Indirekte D.</sp> søges altid
 tilvejebragt og opnaas ved <sp>Skjul</sp>, dels gennem

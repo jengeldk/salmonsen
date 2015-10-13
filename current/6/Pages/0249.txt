@@ -23,7 +23,7 @@ ejendommelig Selvbiografi, der indeholder
 adskilligt af musik- og kulturhistorisk Interesse.
 <i>W. B.</i></chapter>
 
-<chapter name=”Dittes, Friedrich”>
+<chapter name="Dittes, Friedrich">
 <b>Dittes,</b> <sp>Friedrich</sp>, tysk Skolemand, f.
 1829 i Sachsen, d. 1896 i Wien. Efter at have
 været Lærer ved forsk. Skoler blev han 1860
@@ -45,7 +45,7 @@ vundet megen Anseelse ligesom det Maanedsskrift,
 »Pädagogium«, han udgav 1878–96.
 <i>Fr. Th.</i></chapter>
 
-<chapter name=”Dittmars, Henderick”>
+<chapter name="Dittmars, Henderick">
 <b>Dittmars</b> (<sp>Dittmers, Dithmar</sp>),
 <sp>Henderick</sp>, hamburgsk Maler og Kobberstikker,
 d. 1677 i Kbhvn. Han skal have rejst baade i
@@ -71,14 +71,14 @@ Kobberstiksamlingen i Kbhvn ses hans Selvportræt i
 Tegning.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”ditto”>
+<chapter name="ditto">
 <b>ditto</b> (<sp>dito</sp>, af ital. <i>detto</i>). sagt, forud nævnt,
 det samme, ligesaa, d. benyttes mest i
 Forkortelsen <i>do.</i> for at undgaa Gentagelse af Betegnelser,
 der forekommer fl. Gange, efter ell. under
 hverandre, saaledes i Regninger o. l.</chapter>
 
-<chapter name=”Dittografi”>
+<chapter name="Dittografi">
 <b>Dittografi,</b> fejlagtig Dobbeltskrivning af
 samme Bogstav (ell. samme Ord), f. Eks.
 <i>assurereret</i> for <i>assureret</i>; <i>af af andre</i>. Ikke faa
@@ -86,12 +86,12 @@ Trykfejl beror paa D.; Typograferne kalder det
 »Bryllup«.
 <i>O. Jsp</i>.</chapter>
 
-<chapter name=”Dittologi”>
+<chapter name="Dittologi">
 <b>Dittologi,</b> fejlagtig Dobbeltsigen af samme
 Lyd (eller samme Ord).
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Dittrich, Ottmar”>
+<chapter name="Dittrich, Ottmar">
 <b>Dittrich</b> [-trik], <sp>Ottmar</sp>, tysk Sprogforsk., f. i.
 Wien 1865, har foruden et stort sprogfilosofisk
 Værk »Grundzüge der Sprachpsychologie« (I Del,
@@ -102,7 +102,7 @@ Række Studier over Ordsammensætning i
 »Zeitschrift f. rom. Phil.« (1898-1904).
 <i>K.S.-J</i>.</chapter>
 
-<chapter name=”Dittrich, Rudolph”>
+<chapter name="Dittrich, Rudolph">
 <b>Dittrich</b> [-trik], <sp>Rudolph</sp>, østerr. Musiker,
 f. 25. Apr. 1861 i Galizien, Elev af Wiens
 Konservatorium (bl. a. af A. Bruckner) og var
@@ -113,10 +113,10 @@ D. har foruden Orgelsager og Klaverstykker
 udg. Bearbejdelser af jap. Folkeviser.
 <i>W. B.</i></chapter>
 
-<chapter name=”Ditymoldijodid”>
+<chapter name="Ditymoldijodid">
 <b>Ditymoldijodid,</b> se <sp>Aristol</sp>.</chapter>
 
-<chapter name=”Diu”>
+<chapter name="Diu">
 <b>Diu</b> (i Skrt <sp>Dwipa</sp>, Ø), portug. Ø ved
 Sydkysten af Halvøen Kathiavar i Forindien, skilt
 fra Fastlandet ved en lavvandet, kun for Baade
@@ -132,13 +132,13 @@ for en under Generalguvernøren over Goa
 staaende Guvernør.
 <i>M. V.</i></chapter>
 
-<chapter name=”Diureider”>
+<chapter name="Diureider">
 <b>Diureider,</b> se <sp>Ureider</sp>.</chapter>
 
-<chapter name=”Diurese”>
+<chapter name="Diurese">
 <b>Diurese,</b> Urinafsondring, Urinmængde.</chapter>
 
-<chapter name=”Diuretika”>
+<chapter name="Diuretika">
 <b>Diuretika,</b> urindrivende Midler, som forøger
 Diuresen. Af saadanne findes en stor Mængde,
 især af vegetabilsk Art, og Planter med

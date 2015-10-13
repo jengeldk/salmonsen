@@ -37,7 +37,7 @@ nærmeste Arvtager. (<sp>Litt</sp>.: <sp>B. Th. Melsted</sp>,
 [Reykjavik 1904]).
 <i>B. Th. M.</i></chapter>
 
-<chapter name=”Einarsson, Gisli”>
+<chapter name="Einarsson, Gisli">
 <b>Einarsson</b> ['æj-], <sp>Gisli</sp>, isl. Matematiker
 (1621-88), studerede Matematik og Astronomi
 i Kbhvn, ansattes 1650 som Lærer i Matematik
@@ -49,7 +49,7 @@ første isl. <i>Calendarium</i> blev udg. af Biskop
 Gudbrandur Thorlaksson 1576.
 <i>Th. Th.</i></chapter>
 
-<chapter name=”Einarsson, Gissur”>
+<chapter name="Einarsson, Gissur">
 <b>Einarsson</b> ['æj-], <sp>Gissur</sp>, Islands første
 lutherske Biskop, f. c. 1508, d. i Marts 1548.
 Efter at have faaet Undervisning i
@@ -98,7 +98,7 @@ Johannæi</sp>, <i>Historia ecclesiastica Islandiæ</i> III;
 »Biskupasögur« I [Reykjavik 1910]).
 <i>B. Th. M.</i></chapter>
 
-<chapter name=”Einarsson, Hálfdan”>
+<chapter name="Einarsson, Hálfdan">
 <b>Einarsson</b> ['æj-], <sp>Hálfdan</sp> (1732-85), en
 af sin Tids lærdeste Mænd; efter at have
 studeret ved Kbhvn's Univ. blev han Rektor ved
@@ -118,7 +118,7 @@ Pjetursson's Digte. (<sp>Litt</sp>.: <sp>P. Pjetursson</sp>,
 »Hist. Eccl. Isl.«).
 <i>F. J.</i></chapter>
 
-<chapter name=”Einarsson, Indriði”>
+<chapter name="Einarsson, Indriði">
 <b>Einarsson</b> ['æj-], <sp>Indriði</sp>, f. 1851, cand.
 polit. 1877, Kontorchef i det isl. Ministerium i
 Reykjavik; han er en af de faa nævneværdige
@@ -138,7 +138,7 @@ er E. optraadt; han er tillige optraadt som
 nationaløkon. Forf.
 <i>F. J.</i></chapter>
 
-<chapter name=”Einarsson, Ísleifur”>
+<chapter name="Einarsson, Ísleifur">
 <b>Einarsson</b> ['æj-], <sp>Ísleifur</sp>, Justitiarius i
 den islandske Landsoverret, f. 21. Maj 1765, d.
 23. Juli 1836. Efter at have fuldendt sine jur.

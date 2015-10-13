@@ -11,7 +11,7 @@ Studio storico critico</i> [1903]; <sp>G. Cogo</sp>, <i>V. C.
 Note e documenti</i> [Neapel 1909]).
 <i>(E. G.). E. M-r.</i></chapter>
 
-<chapter name=”Cuorin”>
+<chapter name="Cuorin">
 <b>Cuorin,</b> et Fosfatid fremstillet af <sp>A.
 Erlandsen</sp>. Det findes som det synes næsten
 udelukkende i Hjertets Muskulatur (deraf Navnet),
@@ -70,7 +70,7 @@ Det absorberer meget let Ilt fra Luften.
 1906]).
 <i>O. T.</i></chapter>
 
-<chapter name=”Cupar Augus”>
+<chapter name="Cupar Augus">
 <b>Cupar Augus</b> ['ku.pə-'å.g<sub>ə</sub>s], <sp>Coupar
 Augus</sp>, By i Skotland, hører delvis til Perthshire
 og delvis til Forfarshire og ligger 21 km NNØ.
@@ -78,7 +78,7 @@ f. Perth ved Isla. C. A. driver Lærreds- og
 Læderindustri og har c. 2000 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Cupar Fife”>
+<chapter name="Cupar Fife">
 <b>Cupar Fife</b> ['ku.pə-'fa^if], Hovedstad i det
 skotske Grevskab Fife, ved Eden, 10 km fra
 Mundingen, har Lærredsvæverier, Garverier,
@@ -89,7 +89,7 @@ Stadrettigheder 1356 af Kong David II og
 besøgtes ofte af de skotske Konger.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Cuphea P. Browne”>
+<chapter name="Cuphea P. Browne">
 <b>Cuphea</b> [-'fe.a] P. Browne, Slægt af
 Kattehalefamilien, Urter ell. Buske med hele og
 modsatte Blade og røde ell. hvide Blomster, der
@@ -111,18 +111,18 @@ Planter prikles hver i sin Potte og udplantes sidst
 i Maj paa et solaabent Voksested.
 <i>L. H.</i></chapter>
 
-<chapter name=”Cupido”>
+<chapter name="Cupido">
 <b>Cupido</b> (»Attraa«), lat. Navn for
 Elskovsguden (se <sp>Eros</sp>).</chapter>
 
-<chapter name=”Cupra”>
+<chapter name="Cupra">
 <b>Cupra,</b> Gudinde, der i Oldtiden dyrkedes i
 det nordøstlige Italien (Umbrien og Picenum);
 hun synes væsensbeslægtet med Romernes <i>Bona
 Dea</i>.
 <i>C. B.</i></chapter>
 
-<chapter name=”Cupra marittima”>
+<chapter name="Cupra marittima">
 <b>Cupra marittima,</b> <sp>Marana</sp>, Flække i
 Mellemitalien, Prov. Ascoli Piceno, ligger 22 km
 SØ. f. Fermo. (1911) 2900 Indb. I Nærheden laa
@@ -130,13 +130,13 @@ i Oldtiden Picenernes By af s. N. med et berømt
 Tempel for Gudinden <sp>Cupra</sp>.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Cupressaceæ”>
+<chapter name="Cupressaceæ">
 <b>Cupressaceæ,</b> se <sp>Cypresfamilien</sp>.</chapter>
 
-<chapter name=”Cupressocrinus”>
+<chapter name="Cupressocrinus">
 <b>Cupressocrinus,</b> se <sp>Sølillier</sp>.</chapter>
 
-<chapter name=”Cupressus L.”>
+<chapter name="Cupressus L.">
 <b>Cupressus</b> L. (<sp>Cyprés</sp>), Slægt af
 Cypresfamilien med lidet ell. slet ikke fladtrykte Grene
 og skældannede Blade. Enbo. Koglerne er

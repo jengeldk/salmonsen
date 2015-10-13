@@ -3,17 +3,17 @@
 (Smaalands-Farvandet). <sp>Darrehøj-Flak</sp>
 skyder sig i vestlig Retning 3 Sm. ud fra D.-P.</chapter>
 
-<chapter name=”d'Arrest”>
+<chapter name="d'Arrest">
 <b>d'Arrest</b> [d-a'ræ], se <sp>Arrest</sp>.</chapter>
 
-<chapter name=”Darro”>
+<chapter name="Darro">
 <b>Darro</b> ['ðar.<sub>å</sub>], Biflod til Guadalquivir's
 Biflod Jenil i Spanien, udmunder ved Granada.
 Den har Bet. for Granada, som den forsyner
 med Drikkevand.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Dar Runga”>
+<chapter name="Dar Runga">
 <b>Dar Runga,</b> Landskab i det østlige Sudan,
 S. f. Wadaï, fra hvilket det adskilles ved store,
 i Regntiden ufremkommelige Sumpstrækninger.
@@ -23,7 +23,7 @@ Næringsvej er Elefantjagt. Det udgør nu en Del af
 Fransk Kongo.
 <i>C. A.</i></chapter>
 
-<chapter name=”d'Arsonvalisation”>
+<chapter name="d'Arsonvalisation">
 <b>d'Arsonvalisation</b> ['d-arsåŋvalisa'sjo'n] er
 opkaldt efter den fr. Læge d'Arsonval og gaar
 ud paa Benyttelse af højfrekvente Strømme
@@ -37,7 +37,7 @@ Stofskiftesygdomme. Behandlingens Værdi er meget
 omtvistet.
 <i>H. I. B.</i></chapter>
 
-<chapter name=”Darss”>
+<chapter name="Darss">
 <b>Darss,</b> en lang smal Halvø paa Pommerns
 Kyst, Ø. f. Stralsund, adskiller Saaler Bodde
 fra Østersøen; ved det smalle, nu delvis
@@ -46,7 +46,7 @@ Zingst. Det nordligste Punkt, Darsserort, bærer
 et Fyrtaarn.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Darsserort”>
+<chapter name="Darsserort">
 <b>Darsserort</b> ['dars<sub>ə</sub>rårt], Nordspidsen af
 Halvøen Darss (Pommern). Det er en flad Sandtange,
 som er omgivet af et stort Sandflak, <sp>D. Rev</sp>,
@@ -55,13 +55,13 @@ Retning. Ved D. er et Fyrtaarn, Signal-, Telegraf-
 og Redningsstation m. m.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Dart”>
+<chapter name="Dart">
 <b>Dart</b> ['da.<sub>ə</sub>t], lille Flod i det sydlige
 England, Devonshire, udmunder ved Dartmouth i
 Kanalen.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dartford”>
+<chapter name="Dartford">
 <b>Dartford</b> ['da.<sub>ə</sub>tfəd], By i det sydøstlige
 England, Grevskab Kent, 24 km Ø. f. London ved
 South-Eastern & Chatham Jernbanen og ved
@@ -73,7 +73,7 @@ for D. ligger en Sindssygeanstalt, tilhørende
 Grevskabet London.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dartmoor Forest”>
+<chapter name="Dartmoor Forest">
 <b>Dartmoor</b> ['da.<sub>ə</sub>tmå<sub>ə</sub>] <sp>Forest</sp>, et
 Granitplateau i Devonshire i det sydvestlige
 England, er 500 km<sup>2</sup> stort, gennemsnitlig 500 m
@@ -85,7 +85,7 @@ Siden Beg. af 14. Aarh. har D. tilhørt
 Hertugdømmet Cornwall.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dartmouth, By i det sydvestlige England”>
+<chapter name="Dartmouth, By i det sydvestlige England">
 <b>Dartmouth</b> ['da.<sub>ə</sub>tm<sub>ə</sub>þ], By i det sydvestlige
 England, Devonshire, 40 km Ø. f. Plymouth,
 ligger smukt nær ved Mundingen af Floden
@@ -100,7 +100,7 @@ begyndte Richard Løvehjerte sit Korstog 1190.
 Medlem til Parlamentet.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dartmouth, 1) By i U. S. A., 2) By i Dominion of Canada”>
+<chapter name="Dartmouth, 1) By i U. S. A., 2) By i Dominion of Canada">
 <b>Dartmouth</b> ['da.<sub>ə</sub>tm<sub>ə</sub>þ], 1) By i U. S. A.,
 Stat Massachusetts, ligger. 80 km SSØ. f.
 Boston ved Buzzard Bai. (1910) 4378 Indb. - 2)
@@ -110,11 +110,11 @@ Halifax. (1901) 4800 Indb. D. har en
 Sindssygeanstalt.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Darton”>
+<chapter name="Darton">
 <b>Darton</b> ['da.<sub>ə</sub>t<sub>ə</sub>n], By i det nordlige England,
 Yorkshire, ved Barnsley med (1911) 9348 Indb.</chapter>
 
-<chapter name=”Daru, Napoléon”>
+<chapter name="Daru, Napoléon">
 <b>Daru</b> [da'ry], <sp>Napoléon</sp>, Greve, fr.
 Politiker, f. 11. Juni 1807, d. 20. Febr 1890, Søn
 af nedenn. P. A. N. D., udmærkede sig 1830
@@ -154,7 +154,7 @@ Reaktionsforsøget 1877 og blev derfor 1879 vraget ved
 Senatorvalgene.
 <i>E. E.</i></chapter>
 
-<chapter name=”Daru, Pierre Antoine Noël Bruno”>
+<chapter name="Daru, Pierre Antoine Noël Bruno">
 <b>Daru</b> [da'ry], <sp>Pierre Antoine Noël
 Bruno</sp>, Greve af, fr. Statsmand og Skribent,
 f. 12. Jan. 1767, d. 5. Septbr 1829, blev Soldat

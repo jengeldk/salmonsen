@@ -6,10 +6,10 @@ Villars' Sejr over Prins Eugen 24. Juli 1712, som
 fandt Sted nær ved D., er der rejst en Obelisk.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Denar”>
+<chapter name="Denar">
 <b>Denar,</b> se <sp>Denarius</sp>.</chapter>
 
-<chapter name=”Denarius”>
+<chapter name="Denarius">
 <b>Denarius</b> (<sp>Denar</sp>), antik, rom. Sølvmønt,
 udpræget fra c. 268 f. Kr. Værdien var, som
 Navnet antyder det, 10 <i>as</i>, og Tallet X ses
@@ -62,7 +62,7 @@ ANTONINO MAGNO. Rev.: Ørn paa Verdenskuglen og
 Ordet CONSECRATIO. Slaaet som en Art Mindemønt
 om Marcus Aurelius Antoninus. (Knap 1/1).</img>
 
-<chapter name=”Denaro”>
+<chapter name="Denaro">
 <b>Denaro,</b> ældre Længdemaal i Toscana, 1/240
 <i>Braccio</i> (Alen), = 2,43 mm. D., ældre, mindre
 Vægt i Italien og Dalmatien af varierende
@@ -73,16 +73,16 @@ regnes en D. = 0,051 g, og Garnnummeret er
 Antallet af gl. milanesiske <i>Denari</i> pr 476 m.
 <i>(N. J. B.). Th. O.</i></chapter>
 
-<chapter name=”denationalisere”>
+<chapter name="denationalisere">
 <b>denationalisere</b> (lat.), berøve Nationaliteten,
 udviske de nationale Ejendommeligheder.</chapter>
 
-<chapter name=”denaturalisere”>
+<chapter name="denaturalisere">
 <b>denaturalisere</b> (lat.), løse fra det
 statsborgerlige Forhold til en Stat; deraf
 <sp>Denaturalisation</sp>.</chapter>
 
-<chapter name=”denaturere”>
+<chapter name="denaturere">
 <b>denaturere,</b> at forandre et Stof saaledes, at
 det bliver ubrugeligt i et ell. andet bestemt
 Øjemed, men dog kan bruges i andre. Dette
@@ -107,7 +107,7 @@ anvendes Tran, Kulpulver, Petroleum,
 Glaubersalt, Brunsten og, især til Kvægsalt, Ferrioxyd.
 <i>K. M.</i></chapter>
 
-<chapter name=”Denayrouze-Lampe”>
+<chapter name="Denayrouze-Lampe">
 <b>Denayrouze-Lampe</b> [d<sub>ö</sub>næ'ru.z-], en af de
 Lampetyper, der nu kun har Interesse som Led
 i den Udvikling, der foregik, inden
@@ -120,7 +120,7 @@ satte et Par Vinger i hastig omdrejende
 Bevægelse, saa Gas og Luft hvirvledes sammen.
 <i>R. T.</i></chapter>
 
-<chapter name=”Denbigh”>
+<chapter name="Denbigh">
 <b>Denbigh</b> ['denb<sub>i</sub>], Grevskab i det nordlige
 Wales, begrænset af Grevskaberne Carnarvon,
 Merioneth, Montgomery, Shrop, Chester, Flint

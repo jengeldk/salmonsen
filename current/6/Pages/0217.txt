@@ -25,7 +25,7 @@ Urkundenbuch« og »Liv-, Est- und Curländisches
 Urkundenbuch«.
 <i>L. L.</i></chapter>
 
-<chapter name=”Diplomatarium Islandicum”>
+<chapter name="Diplomatarium Islandicum">
 <b>Diplomatarium Islandicum</b> (<sp>Íslenzkt
 fornbréfasafn</sp>) udgives af det islandske
 litterære Selskab. 1. Bd deraf udkom 1857-76
@@ -57,7 +57,7 @@ i Reykjavik. Med det 10. Bd, der snart er
 afsluttet, er <i>D. I.</i> ført ned til 1542.
 <i>B. Th. M.</i></chapter>
 
-<chapter name=”Diplomatarium Norvegicum”>
+<chapter name="Diplomatarium Norvegicum">
 <b>Diplomatarium Norvegicum,</b> »Oldbreve til
 Kundskab om Norges indre og ydre Forhold,
 Sprog, Slægter, Sæder, Lovgivning og
@@ -112,7 +112,7 @@ fornødne Understøttelse til Trykning af Værket,
 der fremdeles fortsættes.
 <i>Abs. T.</i></chapter>
 
-<chapter name=”Diplomati”>
+<chapter name="Diplomati">
 <b>Diplomati</b> (fr. <i>diplomatie</i>, af gr. <i>diploma</i>,
 Skrivelse, Brev), bet. opr. Videnskaben om
 Statsdokumenter, men er i denne Bet. afløst af

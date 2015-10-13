@@ -17,7 +17,7 @@ Medlem af Regeringen; han fører Titel af
 Statsraad.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Departemental-Kommission”>
+<chapter name="Departemental-Kommission">
 <b>Departemental-Kommission</b> [-maŋ-].
 Saaledes betegnes undertiden de Kommissioner,
 som af Regeringen nedsættes til Kontrol med
@@ -33,7 +33,7 @@ kun raadgivende Mellemled mellem Præfekten
 og Raadet.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Departementet for de udenlandske Affærer”>
+<chapter name="Departementet for de udenlandske Affærer">
 <b>Departementet for de udenlandske
 Affærer</b> [-'maŋ-]. I de nærmeste hundrede Aar
 efter Enevælden var Ledelsen af Danmarks
@@ -51,15 +51,15 @@ kollegial Bestyrelse, bestod indtil 1848, da det
 afløstes af et Udenrigsministerium.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Departementschef”>
+<chapter name="Departementschef">
 <b>Departementschef</b> [-'maŋ'sjæ'f], se
 <sp>Departement</sp>.</chapter>
 
-<chapter name=”Departementsdirektør”>
+<chapter name="Departementsdirektør">
 <b>Departementsdirektør</b> [-'maŋ-], se
 <sp>Departement</sp>.</chapter>
 
-<chapter name=”Departementssekretær”>
+<chapter name="Departementssekretær">
 <b>Departementssekretær</b> [-'maŋ-]. Saaledes
 benævnedes opr. en Embedsstilling i »Dept. for
 de udenlandske Affærer«; her var ansat to D.,
@@ -74,7 +74,7 @@ Kontorchefernes i andre Ministerier. Titlen bortfaldt, da
 Ministeriet omorganiseredes 1908.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Departementstidende”>
+<chapter name="Departementstidende">
 <b>Departementstidende</b> [-maŋ-] udkom
 1848-70 som en Fortsættelse af Kollegialtidende og
 indeholdt ligesom denne en broget Blanding af
@@ -90,7 +90,7 @@ Lovtidende og Ministerialtidende, hvis Omraade dog
 i fl. Henseender er videre, i andre snævrere.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Departementstidende, i Norge”>
+<chapter name="Departementstidende, i Norge">
 <b>Departementstidende</b> [-'maŋ-], et i Norge
 siden 1829 med offentlig Støtte udg. Ugeblad,
 indeholdende vigtigere kgl. Resolutioner, de til
@@ -100,11 +100,11 @@ o. a. Meddelelser af Interesse for Landets
 Administration.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”departere”>
+<chapter name="departere">
 <b>departere</b> (lat.), fordele; <sp>Departition</sp>,
 Fordeling.</chapter>
 
-<chapter name=”Dépêche”>
+<chapter name="Dépêche">
 <b>Dépêche</b> [de'pæsj<sub>ə</sub>, fr. -'pæ.∫] (fr. af <i>dépêcher</i>,
 besørge hurtigt), har i det diplomatiske Sprog
 gennem lange Tider været benyttet om
@@ -133,7 +133,7 @@ Saaledes anvendes Ordet ofte om Telegrammer
 i Alm. - <i>conseil des dépêches</i>, se <sp>conseil</sp>.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Depechekontor”>
+<chapter name="Depechekontor">
 <b>Depechekontor</b> [de'pæsj<sub>ə</sub>-]. Da Danske
 Kancelli og Tyske Kancelli omorganiseredes 1771,
 oprettedes i hvert af Kancellierne et saakaldt
@@ -156,14 +156,14 @@ Ekspeditionen af de politiske Depecher (smlg.
 <sp>Departementssekretær</sp>).
 <i>K. Hch.</i></chapter>
 
-<chapter name=”dependere”>
+<chapter name="dependere">
 <b>dependere</b> (lat.), være undergiven, afhænge
 af, bero paa.</chapter>
 
-<chapter name=”dépense”>
+<chapter name="dépense">
 <b>dépense</b> [de'pã.s] (fr.), Udgift, Omkostning;
 <sp>depensere</sp>, bekoste, give ud, ødsle.</chapter>
 
-<chapter name=”Depere”>
+<chapter name="Depere">
 <b>Depere</b> [d<sub>e</sub>'pi.<sub>ə</sub>], By i U. S. A., Stat
 Wisconsin, ligger 185 km NNØ. f. Madison paa

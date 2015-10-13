@@ -35,7 +35,7 @@ Skoler. (<sp>Litt</sp>.: <sp>F. Nygaard</sp>,
 »Efterslægtsselskabet og Edvard Storm« [Odense 1886]).
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Efterslæt”>
+<chapter name="Efterslæt">
 <b>Efterslæt,</b> <sp>Eftergrøde</sp> (ogsaa
 <sp>Høstgrøde</sp>), Betegnelse for den anden Slæt, der
 høstes paa frugtbare Enge og Græsmarker. Da
@@ -54,10 +54,10 @@ undertiden foretrækker at nedkule det (se
 af græsser Arealet.
 <i>K. H-n.</i></chapter>
 
-<chapter name=”Eftersmag”>
+<chapter name="Eftersmag">
 <b>Eftersmag,</b> se <sp>Smag</sp>.</chapter>
 
-<chapter name=”Efterspil”>
+<chapter name="Efterspil">
 <b>Efterspil,</b> den tematisk udarbejdede
 Afslutning paa Akkompagnementet til en Sang e. l.
 Ogsaa et Orgelstykke, der er bestemt til at
@@ -65,10 +65,10 @@ spilles efter Gudstjenestens Afslutning, medens
 Menigheden forlader Kirken (<i>Postludium</i>).
 <i>S. L.</i></chapter>
 
-<chapter name=”Efterspørgsel”>
+<chapter name="Efterspørgsel">
 <b>Efterspørgsel,</b> se <sp>Pris</sp>.</chapter>
 
-<chapter name=”Efterstempling”>
+<chapter name="Efterstempling">
 <b>Efterstempling.</b> Efter tidligere dansk Ret,
 jfr Stempellov 19. Febr 1861 § 25, skulde, naar
 testamentariske Bestemmelser traadte i Kraft
@@ -86,7 +86,7 @@ afgaaede ved Døden før Lovens Ikrafttræden, 1.
 Oktbr 1911.
 <i>E. T.</i></chapter>
 
-<chapter name=”Eftersætning”>
+<chapter name="Eftersætning">
 <b>Eftersætning</b> (<sp>Apodosis</sp>) er i
 Grammatikken Benævnelse paa en Hovedsætning (en
 overordnet Sætning), der følger efter en
@@ -97,10 +97,10 @@ Eftersætninger <sp>omvendt</sp> Ordstilling. Se <sp>Sætning</sp>
 og <sp>Ordstilling</sp>.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”Eftertryk, se Forfatterret”>
+<chapter name="Eftertryk, se Forfatterret">
 <b>Eftertryk,</b> se <sp>Forfatterret</sp>.</chapter>
 
-<chapter name=”Eftertryk”>
+<chapter name="Eftertryk">
 <b>Eftertryk</b> er særlig kraftigt Tryk lagt paa
 en Sætningsdel ell. hel Sætning, som den
 Talende særlig vil fremhæve; om de fonetiske
@@ -108,7 +108,7 @@ Midler, der herved kommer til Anvendelse, se
 <sp>Accent</sp>.
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Efterveer”>
+<chapter name="Efterveer">
 <b>Efterveer</b> kaldes de velignende Smerter, der
 hyppig indfinder sig de første Dage af
 Barselsengen, dog næsten kun hos Kvinder, der har
@@ -122,7 +122,7 @@ stundom blive meget voldsomme. De kan lindres
 ved varme Omslag, Sekale og Morfin.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Eftestøl, Olav Andreas”>
+<chapter name="Eftestøl, Olav Andreas">
 <b>Eftestøl</b> ['æft<sub>ə</sub>stø.l], <sp>Olav Andreas</sp>, norsk
 Skolemand og Politiker, f. paa Gaarden E. i
 Fjotland, Lister og Mandals Amt, 6. Aug. 1863,
@@ -143,13 +143,13 @@ paa Stortinget i de 3 Perioder 1906-15, hvor
 han 1913 valgtes til Vara(Vice)præsident.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Efugl”>
+<chapter name="Efugl">
 <b>Efugl</b> ['e.-], d. s. s. <sp>Ederfugl</sp>.</chapter>
 
-<chapter name=”e. g.”>
+<chapter name="e. g.">
 <b>e. g.,</b> se <sp>Eksempel</sp>.</chapter>
 
-<chapter name=”Eg”>
+<chapter name="Eg">
 <b>Eg.</b> Af Slægten <i>Quércus</i> findes kun 2 Arter i
 Skandinavien, <sp>Sommer-E.</sp> (<i>Q. pedunculata Ehrh.</i>)
 og <sp>Vinter-E.</sp> (<i>Q. sessiliflora</i> Sm.). Disse 2 Arter

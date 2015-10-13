@@ -51,14 +51,14 @@ udbetalte Rusland i Vederlag 65000 £ (1170000
 Kroner).
 <i>E. E.</i></chapter>
 
-<chapter name=”Doglep”>
+<chapter name="Doglep">
 <b>Doglep</b> ell. <sp>Doglap</sp>, en tyk, løst
 nedhængende Hudfold foran paa Brystkammen og op
 langs Halsen; findes hos Okser og enkelte
 Antiloper, altid stærkest udviklet hos de gl. Tyre.
 <i>R. Hg.</i></chapter>
 
-<chapter name=”Dogma”>
+<chapter name="Dogma">
 <b>Dogma</b> (gr.) betegner i den kristne Teologi
 en bestemt Læresætning, hvorigennem Kirken
 paa autoritativ Maade udtaler sin Mening om
@@ -96,7 +96,7 @@ til at udforme deres Bekendelse i visse
 bestemte Lærdomme.
 <i>F. C. K.</i></chapter>
 
-<chapter name=”Dogmatik”>
+<chapter name="Dogmatik">
 <b>Dogmatik</b> (gr.) betyder inden for den kristne
 Teologi den systematiske Sammenfatning og
 Udvikling af Kirkens enkelte Dogmer. Der

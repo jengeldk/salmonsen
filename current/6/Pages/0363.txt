@@ -3,7 +3,7 @@ geografiske, naturvidenskabelige og arkæologiske
 Iagttagelser.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Douglas, Hovedstad”>
+<chapter name="Douglas, Hovedstad">
 <b>Douglas</b> ['dag£<sub>ə</sub>s], Hovedstaden paa Øen Man
 i det irske Hav, ligger paa Østkysten og har
 en god Havn, beskyttet af et Fort, og daglig
@@ -13,7 +13,7 @@ Castle Mona, der opførtes 1804 af Hertug John
 IV af Athol, er nu et Hotel.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Douglas, Adelsslægt”>
+<chapter name="Douglas, Adelsslægt">
 <b>Douglas</b> ['dag£<sub>ə</sub>s], en af Skotlands ældste
 og berømteste Adelsslægter, som gennem flere
 Aarh. spillede en stor Rolle i dets Historie;
@@ -139,7 +139,7 @@ sine Landsmænd. Senere blev han russ. General
 og Guvernør i Reval.
 <i>J. L.</i></chapter>
 
-<chapter name=”Douglas, Ludvig Vilhelm August”>
+<chapter name="Douglas, Ludvig Vilhelm August">
 <b>Douglas</b> ['duglas], <sp>Ludvig Vilhelm
 August</sp>, sv. Politiker og Embedsmand, f. i
 Zürich 26. Novbr 1849, d. pludselig under et

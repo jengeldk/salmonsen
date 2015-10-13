@@ -5,7 +5,7 @@ Fosterets Anlæg og Udvikling (se
 <sp>Misdannelser</sp>).
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Dannelsesvæv”>
+<chapter name="Dannelsesvæv">
 <b>Dannelsesvæv</b> ell. <sp>Delingsvæv</sp> kaldes
 de særlige Væv, der ved Celledeling forøger
 Antallet af Celler i en Plante og derigennem
@@ -29,7 +29,7 @@ Natur. Se herom <sp>Kambium</sp> og
 <sp>Vækstpunkt</sp>.
 <i>W. J.</i></chapter>
 
-<chapter name=”Dannemand, retskaffen, troværdig Mand”>
+<chapter name="Dannemand, retskaffen, troværdig Mand">
 <b>Dannemand,</b> en i gl. danske og sv. (især
 jur.) Skr alm. Betegnelse: retskaffen, troværdig
 Mand. I de ældste danske og sv. Love bruges i
@@ -45,7 +45,7 @@ Eks. Joh. Ewald) bruges D. fejlagtig i Bet.
 »dansk Mand«.
 <i>V. D.</i></chapter>
 
-<chapter name=”Dannemand, Frederikke Benedicte”>
+<chapter name="Dannemand, Frederikke Benedicte">
 <b>Dannemand.</b> Kong Frederik VI traadte kort
 efter sin Tronbestigelse i et intimt Forhold til
 en Datter af Borer ved Holmen, Morten
@@ -72,7 +72,7 @@ f. Komtesse Schulin (f. 1815, d. 1884) oprettede
 til et Kloster (se <sp>Dannemand'ske Stift</sp>).
 <i>H.-L.</i></chapter>
 
-<chapter name=”Dannemand'ske Stift”>
+<chapter name="Dannemand'ske Stift">
 <b>Dannemand'ske Stift,</b> det grevelige, Aastrup
 Kloster, oprettet i H. t. Lensgreve <sp>Frederik
 Vilhelm D.</sp>'s (1813-88) og 2. Hustru, <sp>Louise</sp>,
@@ -96,7 +96,7 @@ og fornøden Kapital opsparet, træder Klosteret
 i Kraft.
 <i>P. B. G.</i></chapter>
 
-<chapter name=”Dannemora”>
+<chapter name="Dannemora">
 <b>Dannemora,</b> gl. berømt Jernmalmsfelt i
 Sverige, ligger 48 km N. f. Upsala lige ved
 Grufsjön. Paa et Omraade af 2 km's Længde og 150

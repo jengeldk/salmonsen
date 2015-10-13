@@ -133,16 +133,16 @@ sig usynlig; i tysk Digtning spiller
 Dværgekappen samme Rolle.
 <i>A. O.</i></chapter>
 
-<chapter name=”Dværgfalk”>
+<chapter name="Dværgfalk">
 <b>Dværgfalk,</b> se <sp>Falke</sp>.</chapter>
 
-<chapter name=”Dværgflagermus”>
+<chapter name="Dværgflagermus">
 <b>Dværgflagermus,</b> se <sp>Flagermus</sp>.</chapter>
 
-<chapter name=”Dværgflodhest”>
+<chapter name="Dværgflodhest">
 <b>Dværgflodhest,</b> se <sp>Flodhest</sp>.</chapter>
 
-<chapter name=”Dværgfolk”>
+<chapter name="Dværgfolk">
 <b>Dværgfolk,</b> <sp>Pygmæer</sp>, er den etnogr. og
 antropologiske Betegnelse for nogle lavvoksne
 Menneskeracer ell. Befolkninger, der

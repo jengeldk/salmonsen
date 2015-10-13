@@ -3,14 +3,14 @@
 Roland's Sværd i Rolandskvadet, nu spøgende
 Betegnelse for et Sværd.</chapter>
 
-<chapter name=”Dyreolie”>
+<chapter name="Dyreolie">
 <b>Dyreolie</b> kaldes de ved tør Destillation af
 Ben og Hjortetakker fremkomne
 empyreumatiske Olier, af hvilke Hjortetakolie tidligere har
 fundet en ikke ringe Anvendelse i Farmacien.
 <i>K. M.</i></chapter>
 
-<chapter name=”Dyreornamentik”>
+<chapter name="Dyreornamentik">
 <b>Dyreornamentik</b> kaldes de
 Ornamentformer, hvis Grundmotiver er mere ell. mindre
 ornamentalt behandlede Dyreskikkelser.
@@ -49,7 +49,7 @@ Thierornamentik« [Sthlm 1904]; <sp>H. Schetelig</sp>,
 Aarsberetning [Kria 1909]).
 <i>C. A. J.</i></chapter>
 
-<chapter name=”Dyrepsykologi”>
+<chapter name="Dyrepsykologi">
 <b>Dyrepsykologi</b> er Læren om de
 Funktioner hos Dyrene, som kan antages at medføre
 ell. være Udslag af sjælelige Fænomener.

@@ -21,17 +21,17 @@ Fald til Dels kan erstatte Chilesalpeter som
 Gødning.
 <i>R. K.</i></chapter>
 
-<chapter name=”Cyanammonium”>
+<chapter name="Cyanammonium">
 <b>Cyanammonium,</b> se <sp>Ammoniumcyanid</sp>.</chapter>
 
-<chapter name=”Cyanater”>
+<chapter name="Cyanater">
 <b>Cyanater,</b> d. s. s. <sp>cyansure Salte</sp>, se
 <sp>Cyansyre</sp>.</chapter>
 
-<chapter name=”Cyanbarium”>
+<chapter name="Cyanbarium">
 <b>Cyanbarium,</b> se <sp>Baryumcyanid</sp>.</chapter>
 
-<chapter name=”Cyanbrinte”>
+<chapter name="Cyanbrinte">
 <b>Cyanbrinte</b> (<sp>Blaasyre</sp>) (se ogsaa <sp>Cyan</sp>),
 CNH, er en farveløs Vædske af Vf. 0,967 ved 18°,
 der koger ved 25,2° og stivner ved ÷ 10°-
@@ -105,13 +105,13 @@ Bittermandelvand, hvormed de skaffede dem af Vejen,
 der forraadte deres Hemmeligheder.
 <i>R. K.</i></chapter>
 
-<chapter name=”Cyanea”>
+<chapter name="Cyanea">
 <b>Cyanea,</b> se <sp>Gopler</sp>.</chapter>
 
-<chapter name=”Cyanecula”>
+<chapter name="Cyanecula">
 <b>Cyanecula,</b> se <sp>Blaahals</sp>.</chapter>
 
-<chapter name=”Cyanider”>
+<chapter name="Cyanider">
 <b>Cyanider,</b> <sp>Cyanmetaller</sp>, er Forbindelser
 af Cyan og Metal ɔ: cyanbrintesure Salte. De
 forekommer ikke i Naturen, men dannes, naar

@@ -23,7 +23,7 @@ tropiske Kyster. (<sp>Litt</sp>.: <sp>Wallace</sp>,
 Zoogeography</i> [Cambridge 1895]).
 <i>M. V.</i></chapter>
 
-<chapter name=”Dyrehave”>
+<chapter name="Dyrehave">
 <b>Dyrehave</b> kaldes en indhegnet Skov eller
 Skovpart, hvor der for Jagtens Skyld holdes
 Hjortevildt (Kron- ell. Daavildt; Raavildt trives
@@ -68,10 +68,10 @@ Kilde er et søgt Forlystelsessted om
 Sommeren; i »Ulvedalene« drives Skiløb om Vinteren.
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Dyrehund”>
+<chapter name="Dyrehund">
 <b>Dyrehund,</b> se <sp>Hunde</sp>.</chapter>
 
-<chapter name=”Dyrekampe”>
+<chapter name="Dyrekampe">
 <b>Dyrekampe</b> (lat. <i>venationes</i>, »Jagter«), d.
 v. s. Kampe mellem Mennesker og vilde Dyr
 ell. mellem vilde Dyr indbyrdes, hørte i Oldtiden

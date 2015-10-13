@@ -18,7 +18,7 @@ Vanadis' Jordomsejling; 1894-98 var han Red. af
 »Tidskrift for sjöväsendet«.
 <i>A. M. D.</i></chapter>
 
-<chapter name=”Dyrtid”>
+<chapter name="Dyrtid">
 <b>Dyrtid.</b> Hermed menes en Tilstand med
 usædvanlig høje Priser paa de alm.
 Livsfornødenheder, særlig Levnedsmidler. I ældre Tid
@@ -83,7 +83,7 @@ har deltaget i den alm. Opgang (se nærmere
 <sp>Priser</sp>).
 <i>K. R.-H.</i></chapter>
 
-<chapter name=”Dyrtidstillæg”>
+<chapter name="Dyrtidstillæg">
 <b>Dyrtidstillæg,</b> Lønningstillæg, ydet i
 Anledning af Dyrtid. Til de i Statens Tjeneste
 ansatte Embeds- og Bestillingsmænd er der ved fl.

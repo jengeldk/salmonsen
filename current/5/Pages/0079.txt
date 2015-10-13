@@ -19,24 +19,24 @@ Heerführer« [Wien 1854]; <sp>Vivenot</sp>, »Thugut,
 Clerfayt und Wurmser« [Wien 1869]).
 <i>B. P. B.</i></chapter>
 
-<chapter name = ”clergé”>
+<chapter name="clergé">
 <b>clergé</b> [klær'зe] (fr.), Klerus, Præsteskab,
 Gejstlighed.</chapter>
 
-<chapter name = ”clerica”>
+<chapter name="clerica">
 <b>clerica</b> (lat.), <sp>Tonsur</sp>.</chapter>
 
-<chapter name = ”clericus”>
+<chapter name="clericus">
 <b>clericus,</b> se <sp>Clerc</sp> og <sp>Klerk</sp>.</chapter>
 
-<chapter name = ”clericus clericum non decimat”>
+<chapter name="clericus clericum non decimat">
 <b>clericus clericum non decimat</b> (lat.), »Den
 ene Gejstlige tager ikke Tiende af den anden«,
 ɔ: »Den ene Ravn hugger ikke Øjet ud paa den
 anden«.
 <i>A. B. D.</i></chapter>
 
-<chapter name = ”Clerk”>
+<chapter name="Clerk">
 <b>Clerk</b> [k£a.<sub>ə</sub>k ell. k£ə.k] (eng.). Ang. Ordets
 Oprindelse se <sp>Clerc</sp>. I England bruges C. som
 Betegnelse for Kontorpersonale af højere og
@@ -55,7 +55,7 @@ Underhuset. - <i>C. of the peace</i> kaldes Sekretærerne
 hos de eng. Fredsdommere.
 <i>K. Hch.</i></chapter>
 
-<chapter name = ”Clerke, Agnes Mary”>
+<chapter name="Clerke, Agnes Mary">
 <b>Clerke</b> [k£a.<sub>ə</sub>k], <sp>Agnes Mary</sp>, eng. astron.
 Forfatterinde, f. 10. Febr 1842 i Skibbereen, Co.
 Cork, Irland, d. 20. Jan. 1907 i London. Hun
@@ -76,7 +76,7 @@ Artikler (i alt 55) til Edinburgh Review siden 1877,
 Britannica</i> og forsk. Fagtidsskrifter.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name = ”Clerkenwell”>
+<chapter name="Clerkenwell">
 <b>Clerkenwell</b> ['k£a.<sub>ə</sub>k<sub>ə</sub>nwe£], Bydel i det
 nordlige London (<i>Finsbury metropolitan borough</i>),
 Hovedsæde for Urmagere og Juvelerer. Navnet
@@ -84,7 +84,7 @@ hidrører fra en Kilde, i Nærheden af hvilken
 Præsterne i sin Tid opførte Mirakel-Skuespil.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Clermont de Lodève”>
+<chapter name="Clermont de Lodève">
 <b>Clermont de Lodève</b> [klær'ma-d-l¨'dæ.v]
 ell. <sp>C.-l'Hérault</sp>, By i det sydlige Frankrig,
 Dept Hérault, Arrond. Lodève, ligger ved
@@ -93,7 +93,7 @@ Rhonel, og har Slotsruiner, Stenbrud, Klædevæveri,
 Handel med Vin og Korn og (1906) 4843 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Clermont-en-Argonne”>
+<chapter name="Clermont-en-Argonne">
 <b>Clermont-en-Argonne</b> [klær'måt-ãn-ar'gån],
 Flække i det nordøstlige Frankrig, Dept Meuse,
 Arrond. Verdun, ligger paa Skraaningen af
@@ -108,7 +108,7 @@ gav det til Huset Condé, der beholdt det indtil
 Revolutionen.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Clermont-en-Beauvaisis”>
+<chapter name="Clermont-en-Beauvaisis">
 <b>Clermont-en-Beauvaisis</b> [klær'måt-ã-
 bovæ'zi] ell. <sp>C.-del'Oise</sp>, By i det nordvestlige
 Frankrig, Dept Oise, Hovedstad i Arrond. C.,
@@ -124,7 +124,7 @@ Middelalderen Hovedstad for et Grevskab, som 1218 kom
 ind under den fr. Krone.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Clermont-Ferrand”>
+<chapter name="Clermont-Ferrand">
 <b>Clermont-Ferrand</b> [klær'må-fæ'rã], By i
 Mellemfrankrig, Hovedstad i Landskabet
 Auvergne og Dept Puy-de-Dôme, ligger 407 m

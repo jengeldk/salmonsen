@@ -8,7 +8,7 @@ Se <sp>Bogholderi</sp>. Smlg. ogsaa
 <sp>Skibs-D</sp>.
 <i>(C. V. S.). Th. O.</i></chapter>
 
-<chapter name=”Dagbrud”>
+<chapter name="Dagbrud">
 <b>Dagbrud</b> drives paa saadanne Lejesteder, der
 kan afbygges ved aabne Arbejdssteder i Dagen.
 Nogle nyttige Mineraler udvindes altid paa denne
@@ -33,12 +33,12 @@ Vejrveksling og Gensætning af det værdifulde
 Mineral.
 <i>A. G.</i></chapter>
 
-<chapter name=”Dagbrydning”>
+<chapter name="Dagbrydning">
 <b>Dagbrydning</b> (<sp>Dagbygning</sp>, tysk <sp>Tagebau</sp>),
 Drift af Dagbrud.
 <i>A. G.</i></chapter>
 
-<chapter name=”Dagbue”>
+<chapter name="Dagbue">
 <b>Dagbue</b> benævnes den Del af Dagcirklen, der
 ligger over Horisonten, i Modsætning til Natbue,
 den Del, som ligger under Horisonten. D.'s
@@ -94,19 +94,19 @@ Finder man i Almanakken, at Jupiter har Deklination
 = 70°) 15 Timer 52 Min. o. s. v.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Dagbygning”>
+<chapter name="Dagbygning">
 <b>Dagbygning,</b> se <sp>Dagbrydning</sp>.</chapter>
 
-<chapter name=”Dagcirkel”>
+<chapter name="Dagcirkel">
 <b>Dagcirkel</b> kaldes den med Himlens Ækvator
 parallelle Cirkel, en Stjerne beskriver under
 Himmelhvælvingens tilsyneladende daglige Omdrejning.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Dagden”>
+<chapter name="Dagden">
 <b>Dagden,</b> se <sp>Dagø</sp>.</chapter>
 
-<chapter name=”Dag Eilifssøn”>
+<chapter name="Dag Eilifssøn">
 <b>Dag Eilifssøn,</b> norsk Lendermand paa Kong
 Magnus Barfod's og hans Sønners Tid, gift
 med Agmund Skoftessøn's Datter Ragnhild, var
@@ -122,10 +122,10 @@ Baugeid var. Hans Sønner var Vatnorm og Gregorius
 Dagssøn.
 <i>(O. A. Ø.). Edv. B.</i></chapter>
 
-<chapter name=”Dagen, se Dagø”>
+<chapter name="Dagen, se Dagø">
 <b>Dagen,</b> se <sp>Dagø</sp>.</chapter>
 
-<chapter name=”Dagen, dansk Avis”>
+<chapter name="Dagen, dansk Avis">
 <b>Dagen,</b> dansk Avis, var ved Siden af »Berlingske
 Tidende« det eneste danske Dagblad af
 virkelig Bet. i de første Aartier af 19. Aarh.

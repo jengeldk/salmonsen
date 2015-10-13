@@ -13,7 +13,7 @@ East</i> (1896), <i>The Latin Kingdom of Jerusalem</i>
 <i>The Hebrew Tragedy</i> (1900).
 <i>V. S.</i></chapter>
 
-<chapter name=”condictio”>
+<chapter name="condictio">
 <b>condictio</b> (lat.) brugtes i Romerretten dels i
 videre Bet. som Betegnelse for alle obligatoriske
 Klager (<i>actiones in personam</i>), dels særligt om
@@ -86,7 +86,7 @@ medmindre Loven udtrykkeligt, som m. H. t.
 Betaling af Hasard-Spillegæld, bestemmer dette.
 <i>K. B.</i></chapter>
 
-<chapter name=”Condillac, Étienne Bonnot de”>
+<chapter name="Condillac, Étienne Bonnot de">
 <b>Condillac</b> [kådi'jak], <sp>Étienne Bonnot de</sp>,
 fr. Filosof, f. 1715 i Grenoble, d. 3. Aug. 1780 i
 Abbediet de Flux nær Beaugency, tilhørte ved

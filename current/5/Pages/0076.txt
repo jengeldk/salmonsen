@@ -13,7 +13,7 @@ for denne ved at udgive et paa Fransk affattet
 Skr. om den.
 <i>(C. N). R. B.</i></chapter>
 
-<chapter name = ”Clément, Felix”>
+<chapter name="Clément, Felix">
 <b>Clément</b> [kle'mã], <sp>Felix</sp>, fr. Musiker og
 Musikforfatter (1822-85), var bestemt til
 Lærerstanden og studerede kun i Smug Musik, men
@@ -34,7 +34,7 @@ omtvistet. Som Komponist er C. kun optraadt
 med nogen Kirkemusik og et Par Operaer.
 <i>W. B.</i></chapter>
 
-<chapter name = ”Clément, Frédéric Jean Edmond”>
+<chapter name="Clément, Frédéric Jean Edmond">
 <b>Clément</b> [kle'mã], <sp>Frédéric Jean
 Edmond</sp>, fr. Operasanger, Tenor, f. i Paris 28.
 Marts 1867, debuterede 1889 paa <i>Opéra comique</i>
@@ -47,7 +47,7 @@ i »Carmen«, Georges Brown i »Den hvide Dame«
 og Rodolphe i »Bohème«.
 <i>S. L.</i></chapter>
 
-<chapter name = ”Clément, Gad Frederik”>
+<chapter name="Clément, Gad Frederik">
 <b>Clément,</b> <sp>Gad Frederik</sp>, dansk Maler, f.
 paa Frederiksberg 9 Juli 1867, gennemgik
 Akademiet til Modelskolen og arbejdede paa
@@ -71,7 +71,7 @@ i Opfattelse som i Form og Kolorit betydelige
 Portrætter af Fiskerpiger fra Nymindegab.
 <i>S. M.</i></chapter>
 
-<chapter name = ”Clément, Jacques”>
+<chapter name="Clément, Jacques">
 <b>Clément</b> [kle'mã], <sp>Jacques</sp>, den franske
 Konge Henrik III's Morder, var kun 25 Aar gl og
 nylig indtraadt i Dominikanerordenen, da han,
@@ -89,7 +89,7 @@ af det modtagne Saar, og Modpartiet priste C.
 som Helgen og Martyr.
 <i>Kr. E.</i></chapter>
 
-<chapter name = ”Clément, Julius Morgan”>
+<chapter name="Clément, Julius Morgan">
 <b>Clément</b> [kle'mã], <sp>Julius Morgan</sp>, fr.
 Kemiker, f. 1779 i Dijon, d. Jan. 1842 i Paris.
 Han arbejdede i sin Onkels Notarkontor i Paris,
@@ -108,7 +108,7 @@ Forholdet mellem Luftarternes Varmefylde ved
 konstant Tryk og konstant Temp.
 <i>R. K.</i></chapter>
 
-<chapter name = ”Clément, Pierre”>
+<chapter name="Clément, Pierre">
 <b>Clément</b> [kle'mã], <sp>Pierre</sp>, fr. Historiker
 og Økonom (1809-70), indtog først en højere
 Stilling i Finansministeriet, senere i
@@ -132,7 +132,7 @@ adskillige mindre Arbejder af økonomisk, hist. og
 skønlitterær Art.
 <i>K. V. H.</i></chapter>
 
-<chapter name = ”Clémentel, Étienne”>
+<chapter name="Clémentel, Étienne">
 <b>Clémentel</b> [klemã'tæl], <sp>Étienne</sp>, fransk
 Politiker, f. 29. Marts 1864 i Riom (Dept
 Puy-de-Dôme), studerede Retsvidenskab og blev

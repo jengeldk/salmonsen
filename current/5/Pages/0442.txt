@@ -20,7 +20,7 @@ Bech</sp>, »Smaablade for Døvstumme«, 3. Aarg.
 Nr 13).
 <i>F. B.</i></chapter>
 
-<chapter name=”Dahlerup, Jens Vilhelm”>
+<chapter name="Dahlerup, Jens Vilhelm">
 <b>Dahlerup,</b> <sp>Jens Vilhelm</sp>, dansk Arkitekt,
 f. i Norup Præstegaard ved Mariager 4. August
 1836, d. 24. Jan. 1907, gennemgik Kunstakademiet,
@@ -58,7 +58,7 @@ var Formand for »Akademisk Architektforening«
 1880-84 og 1885-86.
 <i>C. B-r.</i></chapter>
 
-<chapter name=”Dahlerup, Karl Verner Hornemann”>
+<chapter name="Dahlerup, Karl Verner Hornemann">
 <b>Dahlerup,</b> <sp>Karl Verner Hornemann</sp>,
 dansk Filolog, f. 31. Oktbr 1859, blev Student
 1876 og Kandidat i nordisk Filologi 1883; Assistent
@@ -93,7 +93,7 @@ været beskæftiget med Udarbejdelsen af en ny
 dansk Ordbog, hvis Hovedredaktør han er.
 <i>F. J.</i></chapter>
 
-<chapter name=”Dahlgren, Carl Fredrik”>
+<chapter name="Dahlgren, Carl Fredrik">
 <b>Dahlgren</b> [-gre.n], <sp>Carl Fredrik</sp>, svensk
 Præst og Digter (1791-1844), blev Student i
 Upsala 1809 og kom her ind i Fosforisternes

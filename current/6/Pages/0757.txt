@@ -19,7 +19,7 @@ Forordninger af mere alm. Indhold. (<sp>Litt</sp>.:
 <sp>Lenel</sp>, »Das Edictum Perpetuum« [Leipzig 1907]).
 <i>K. B.</i></chapter>
 
-<chapter name=”Edikt, det nantiske”>
+<chapter name="Edikt, det nantiske">
 <b>Edikt,</b> <sp>det nantiske</sp>, kaldes den af
 Henrik IV 13. Apr. 1598 givne og af Ludvig XIV 23.
 Oktbr 1685 ophævede Lov, som sikrede
@@ -27,10 +27,10 @@ Hugenotterne fri Religionsøvelse og gav dem
 Borgerrettigheder (se <sp>Hugenotter</sp>).
 <i>L. M.</i></chapter>
 
-<chapter name=”Ediktalcitation”>
+<chapter name="Ediktalcitation">
 <b>Ediktalcitation</b> (lat.), offentlig Stævning.</chapter>
 
-<chapter name=”Edinburgh, Mid-Lothian”>
+<chapter name="Edinburgh, Mid-Lothian">
 <b>Edinburgh</b> ['ed(<sub>i</sub>)nbar<sub>ə</sub>, 'ed<sub>i</sub>nb(ə)r<sub>ə</sub>],
 <sp>Mid-Lothian</sp>, Shire i det sydlige Skotland, S. f.
 Firth of Forth og i øvrigt begrænset af
@@ -58,7 +58,7 @@ Havne, og herfra drives betydelige Fiskerier.
 Hovedstaden er E.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Edinburgh, Skotlands Hovedstad”>
+<chapter name="Edinburgh, Skotlands Hovedstad">
 <b>Edinburgh</b> ['ed(<sub>i</sub>)nbar<sub>ə</sub>, 'ed<sub>i</sub>nb'ə'r<sub>ə</sub>] (hertil
 et Kort), Skotlands Hovedstad og næststørste By
 (mindre end Glasgow), ligger S. f. Firth of Forth

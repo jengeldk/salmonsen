@@ -54,18 +54,18 @@ i Susa, Hovedstaden i E., se <sp>J. de Morgan</sp>,
 Suse</i> (1893); smlg. <sp>Sammes</sp> <i>L'art antique de
 la Perse</i> III.</chapter>
 
-<chapter name=”El Amarna”>
+<chapter name="El Amarna">
 <b>El Amarna,</b> se <sp>Amarna</sp>.</chapter>
 
-<chapter name=”élan”>
+<chapter name="élan">
 <b>élan</b> [e'lã, da. e'laŋ] (fr.), Tilløb, Sæt, Sving;
 navnlig i overf. Bet.; Sving, Flugt, Ild,
 Begejstring.</chapter>
 
-<chapter name=”Eland”>
+<chapter name="Eland">
 <b>Eland,</b> se <sp><sp>Antiloper</sp></sp>, S. 819.</chapter>
 
-<chapter name=”Elaphrus”>
+<chapter name="Elaphrus">
 <b>Elaphrus</b> [-f-], Løbebilleslægt, indbefattende
 en Del Arter, alle af en mat metalbrun Farve og
 med talrige Punktgruber hen over Dækvingerne.
@@ -73,27 +73,27 @@ Hyppige i Solskin paa sumpede Bredder, over
 halvstørknet Dynd.
 <i>C. W.-L.</i></chapter>
 
-<chapter name=”Elaps”>
+<chapter name="Elaps">
 <b>Elaps</b> ['e.-] (<sp>Koralslange</sp>), se
 <sp>Giftsnoge</sp>.</chapter>
 
-<chapter name=”El-Araisch”>
+<chapter name="El-Araisch">
 <b>El-Araisch</b> [-'i∫], se <sp>Araisch</sp>.</chapter>
 
-<chapter name=”El-Asi”>
+<chapter name="El-Asi">
 <b>El-Asi</b> ['a.si.], <sp>Nahre. A.</sp>, Oldtidens Orontes,
 Flod i Syrien, kommer fra Antilibanon, løber
 mod N., vender sig ovf. Antakije mod V. og
 falder i Middelhavet.
 <i>M. V.</i></chapter>
 
-<chapter name=”Elasmobranchii”>
+<chapter name="Elasmobranchii">
 <b>Elasmobranchii</b> [-'braŋkii'], se <sp>Hajer</sp>.</chapter>
 
-<chapter name=”Elasmotherium”>
+<chapter name="Elasmotherium">
 <b>Elasmotherium</b> [-'te-], se <sp>Næsehorn</sp>.</chapter>
 
-<chapter name=”Elassona”>
+<chapter name="Elassona">
 <b>Elassona,</b> <sp>Alasonia</sp>, By i Grækenland,
 Landskabet Thessalien, ligger 37 km NV. f.
 Larissa, 271 m o. H., paa den vestlige Skraaning af
@@ -103,7 +103,7 @@ kristne, dels muhammedanske Indb., er den gr.
 Oldtids Oloosson.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Elasticitet”>
+<chapter name="Elasticitet">
 <b>Elasticitet</b> betegner den Egenskab hos et
 Legeme, at der bestaar en vis Sammenhæng
 mellem de ydre Kræfter, der paavirker Legemet,

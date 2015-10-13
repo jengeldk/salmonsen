@@ -1,20 +1,20 @@
 <chapter name="con afflizione">
 <b>con afflizione</b> [-af.li'ts<sub>i</sub>one], se <sp>afflitto</sp>.</chapter>
 
-<chapter name=”conamen”>
+<chapter name="conamen">
 <b>conamen</b> (lat.) benyttes i Lægevidenskaben i
 Sammensætningen <i>c. suicidii</i>, Selvmordsforsøg
 (ensbetydende med <i>tentamen suicidii</i>).
 <i>Lp. M.</i></chapter>
 
-<chapter name=”con amore”>
+<chapter name="con amore">
 <b>con amore</b> (ital.), med Kærlighed, af
 Hjertens Lyst.</chapter>
 
-<chapter name=”conarium”>
+<chapter name="conarium">
 <b>conarium,</b> se <sp>Corpus pineale</sp>.</chapter>
 
-<chapter name=”con bocca chiusa”>
+<chapter name="con bocca chiusa">
 <b>con bocca chiusa</b> [kon-'bok.a-'t∫usa] (ital.),
 »med lukket Mund«, en Betegnelse for Sang
 uden Tekst og med lukket Mund, hvorved
@@ -24,16 +24,16 @@ navnlig som Akkompagnement til en Solostemme
 i Sange for Mandsstemmer.
 <i>S. L.</i></chapter>
 
-<chapter name=”conc.”>
+<chapter name="conc.">
 <b>conc.,</b> Forkortelse af <i>concentrãtus</i>,
 koncentreret, ell. <i>concisus</i> (s. d.).</chapter>
 
-<chapter name=”conca”>
+<chapter name="conca">
 <b>conca</b> [koŋka] (italiensk), Musling; <i>c. d'oro</i>
 ['-d-åro] (den gyldne Muslingeskal), Bugten ved
 Palermo.</chapter>
 
-<chapter name=”Concarneau”>
+<chapter name="Concarneau">
 <b>Concarneau</b> [kåkar'no], By i det vestlige
 Frankrig, Dept Finistère, Arrond. Quimper, 22
 km Ø. f. Quimper, er Station paa
@@ -47,11 +47,11 @@ og Akvarium), som hører under <i>Collège de
 France</i> i Paris.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”concedo”>
+<chapter name="concedo">
 <b>concedo</b> (lat.), »jeg indrømmer det«,
 »indrømmet«.</chapter>
 
-<chapter name=”Concèntus”>
+<chapter name="Concèntus">
 <b>Concèntus</b> (lat.), egl. <sp>Sammensang</sp>,
 dernæst Overensstemmelsen mellem fl. Stemmer,
 altsaa hvad vi kalder <sp>Harmoni</sp> ell.
@@ -70,7 +70,7 @@ fungerende sang, ell. rettere sagt reciterede. Se i
 øvrigt <sp>Messe</sp>.
 <i>S. L.</i></chapter>
 
-<chapter name=”Concepción”>
+<chapter name="Concepción">
 <b>Concepción</b> [kånsæp's<sub>j</sub>ån] (<sp>Conception</sp>),
 hyppig forekommende Lokalnavn i det gl. sp.
 Amerika, betyder »Undfangelse«. 1) By i Chile
@@ -114,34 +114,34 @@ Tvende Smaabyer, een i Nord- og een i
 Syd-Bolivia, fører s. N.
 <i>M. V.</i></chapter>
 
-<chapter name=”concepi”>
+<chapter name="concepi">
 <b>concepi</b> (lat.), jeg har forfattet det. At
 underskrive sin c., at erklære sig for at have
 affattet vedk. Skr., navnlig ved retslige
 Dokumenter (se <sp>koncipere</sp>).
 <i>K. B.</i></chapter>
 
-<chapter name=”conceptio”>
+<chapter name="conceptio">
 <b>conceptio</b> (lat.), Undfangelse; <i>c.
 immaculata</i>, (Marias) ubesmittede Undfangelse; <i>c.
 immaculata beatæ Virginis</i>, Fest til Minde om
 Maria's ubesmittede Undfangelse, se
 <sp>Maria-Dage</sp>.</chapter>
 
-<chapter name=”Conception”>
+<chapter name="Conception">
 <b>Conception</b> [k<sub>ə</sub>n'sep∫<sub>ə</sub>n], Lille Windwardø,
 Ø i Bahama-Archipelaget, 60 km SV. f. San
 Salvador, 7,2 km<sup>2</sup> stor.
 <i>M. V.</i></chapter>
 
-<chapter name=”Conceptionbay”>
+<chapter name="Conceptionbay">
 <b>Conceptionbay</b> [k<sub>ə</sub>n'sep∫<sub>ə</sub>n-'be<sub>i</sub>], Indskæring
 paa Nordkysten af Halvøen Avalon i det østlige
 Newfoundland, med talrige Fiskerbyer og
 Havnen Harbour-Grace.
 <i>M. V.</i></chapter>
 
-<chapter name=”concertando”>
+<chapter name="concertando">
 <b>concertando</b> [-t∫er-] ell. <sp>concertáto</sp> [-t∫er-]
 (ital.; fr. <i>concertant</i>), koncerterende, Betegnelse
 for de Stemmer i et Musikstykke, der ikke alene
@@ -158,14 +158,14 @@ Plads, ell. indtræder med en anden, selvstændig
 ogsaa <sp>obligat</sp>).
 <i>S. L.</i></chapter>
 
-<chapter name=”concertino”>
+<chapter name="concertino">
 <b>concertino</b> [-t∫er-] (ital.), Koncertstykke, en
 mindre Koncert (se <sp>Koncert</sp>).</chapter>
 
-<chapter name=”concerto”>
+<chapter name="concerto">
 <b>concerto</b> [kon't∫ærto], se <sp>Koncert</sp>.</chapter>
 
-<chapter name=”concerts spirituels”>
+<chapter name="concerts spirituels">
 <b>concerts spirituels</b> [kå'sæ.r-spir't<sub>y</sub>æl] (fr.),
 »gejstlige Koncerter«, kaldtes i 18. Aarh. de store
 Koncerter, som afholdtes i Paris paa de

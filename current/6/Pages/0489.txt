@@ -9,7 +9,7 @@ afgives umiddelbart efter hinanden af samme
 Skytte, uden at Anslaget forandres, ɔ: uden at
 tage Bøssen fra Kinden.</chapter>
 
-<chapter name=”Dubletter”>
+<chapter name="Dubletter">
 <b>Dubletter</b> taler man om i Sprogvidenskaben,
 naar eet og samme Ord paa en ell. anden
 Maade har spaltet sig i to (ell. fl.), der nu
@@ -81,7 +81,7 @@ romanischen Wortschöpfung« [Leipzig 1876];
 <sp>Behaghel</sp>, <i>Germania</i>, XXIII).
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Dublin, Grevskab”>
+<chapter name="Dublin, Grevskab">
 <b>Dublin</b> [eng. 'dab£<sub>i</sub>n], Grevskab i det østlige
 mod Ø. samt mod Land af Grevskaberne Meath,
 Kildare og Wicklow. 886 km<sup>2</sup> med (1911) 172394
@@ -102,7 +102,7 @@ et særligt Grevskab. D. sender to Medlemmer til
 Parlamentet.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dublin, Irlands Hovedstad”>
+<chapter name="Dublin, Irlands Hovedstad">
 <b>Dublin</b> [eng. 'dab£in], Irlands Hovedstad,
 ligger paa Øens Østside ved Floden <sp>Liffeys</sp>
 Munding i det irske Hav, paa 53° 23' 13" n. Br. og

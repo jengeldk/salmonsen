@@ -107,7 +107,7 @@ War</i> [Washington 1899]; <sp>Gallahan</sp>, <i>C. and
 International Relations</i> [London 1902]).
 <i>M. V.</i></chapter>
 
-<chapter name=”Cuban”>
+<chapter name="Cuban">
 <b>Cuban</b> (<sp>Cubanit</sp>), et metallisk, bronzegult
 Mineral, bestaar af Kobber, Jern og Svovl
 (CuFe<sub>2</sub>S<sub>4</sub>) og forekommer i kompakte Masser,
@@ -116,7 +116,7 @@ Krystalform, ved Barracanao paa Cuba, ved
 Kafveltorp og Tunaberg i Sverige.
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name=”Cubebeolie”>
+<chapter name="Cubebeolie">
 <b>Cubebeolie</b> findes i Frugterne af <i>Piper
 Cubeba</i> (14 %), lugter svagt aromatisk og
 smager brændende kamferagtig, den har Vf. 0,915-
@@ -129,7 +129,7 @@ Cubebesyre, der kun forekommer i en Mængde af c.
 1,7%.
 <i>R. K.</i></chapter>
 
-<chapter name=”Cubebesyre”>
+<chapter name="Cubebesyre">
 <b>Cubebesyre,</b> C<sub>13</sub>H<sub>14</sub>O<sub>7</sub>(?), er den virksomste
 Bestanddel af Kubeber. Det er en hvid amorf
 Masse, der smelter ved 56°, er uopløselig i Vand
@@ -137,7 +137,7 @@ og Syrer, opløselig i Alkohol og Alkalier. Omtr.
 smagløs- og med svag, sur Reaktion.
 <i>R. K.</i></chapter>
 
-<chapter name=”cubicularius”>
+<chapter name="cubicularius">
 <b>cubicularius</b> (lat. »Kammertjener«) kaldtes
 hos Romerne den Slave, der havde Omsorgen
 for Herrens Soveværelse (<i>cubiculum</i>) og i det

@@ -17,18 +17,18 @@ taknemmelig Opgave, interesserer navnlig ved den
 orientalske Kolorit, som D. giver sin Musik.
 <i>W. B.</i></chapter>
 
-<chapter name=”delicato”>
+<chapter name="delicato">
 <b>delicato</b> (ital.), mus. Foredragsbetegnelse:
 fint, sart, smagfuldt.</chapter>
 
-<chapter name=”Deliceto”>
+<chapter name="Deliceto">
 <b>Deliceto</b> [deli't∫eto], By i det sydlige Italien,
 Prov. Foggia, ligger 7 km S. f. Bovino paa en
 Høj. (1911) 6025 Indb. D. har Ruiner af et Slot
 og en smuk Kirke.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”deliciæ”>
+<chapter name="deliciæ">
 <b>deliciæ</b> (lat.), »Behageligheder«,
 »Lækkerier«; i ældre Tid Titel paa Antologier af
 Digtere (<i>D. poetarum Italorum</i>, <i>D. poet. Gallorum</i>,
@@ -39,14 +39,14 @@ Yndling, Elskerinde. - <i>D. generis humant</i>,
 Romerne.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”deliciøs”>
+<chapter name="deliciøs">
 <b>deliciøs</b> (fr.), lækker, liflig, udsøgt.</chapter>
 
-<chapter name=”delictum”>
+<chapter name="delictum">
 <b>delictum</b> (<sp>Delikt</sp>), retsstridig, forbudt
 Handling, Retskrænkelse, Forbrydelse.</chapter>
 
-<chapter name=”Deligeorgis”>
+<chapter name="Deligeorgis">
 <b>Deligeorgis</b> [ðiliji'orji(s)],
 <sp>Epameinondas</sp>, gr. Statsmand, f. 10. Febr 1829, d. 13.
 Marts 1879, var Sagfører i Athen, da han 1859
@@ -71,20 +71,20 @@ blev afgjort krigslysten. D.'s politiske Taler
 udgaves 1880 i 2 Bd.
 <i>E. E.</i></chapter>
 
-<chapter name=”Deligiannis”>
+<chapter name="Deligiannis">
 <b>Deligiannis</b> [ðiliji'ani(s)], se <sp>Delyannis</sp>.</chapter>
 
-<chapter name=”delikat”>
+<chapter name="delikat">
 <b>delikat</b> (lat.), fin, velsmagende, fintfølende
 en d. Sag ɔ: en Sag, der er vanskelig at
 behandle, kræver megen Takt i Behandlingen;
 <sp>Delikatesse</sp> (fr.), Finfølelse, Lækkerbisken.</chapter>
 
-<chapter name=”delikvescere”>
+<chapter name="delikvescere">
 <b>delikvescere</b> [-'se'r<sub>ə</sub>] (lat.), smelte hen;
 henflyde.</chapter>
 
-<chapter name=”Delille, Abbé Jacques”>
+<chapter name="Delille, Abbé Jacques">
 <b>Delille</b> [d<sub>ö</sub>'lil] (ogsaa <sp>Delisle</sp>), <sp>Abbé
 Jacques</sp>, fr. Digter (1738-1813). D. var en
 uægte Søn af en Advokat Montanier, hvorfor
@@ -143,7 +143,7 @@ D.'s Værker er udgivne af <sp>Michaud</sp> (1824,
 16 Bd) og af <sp>Didot</sp> (1847).
 <i>S. Ms.</i></chapter>
 
-<chapter name=”delineavit”>
+<chapter name="delineavit">
 <b>delineavit</b> (forkortet <sp>del</sp>.) ɔ: »har tegnet«,
 hyppig paa trykte Billedblade (Kobberstik,
 Litografier o. l.) under Billedet til venstre efter
@@ -153,11 +153,11 @@ den Tegner, der har udført Originalbilledet for
 Stikkeren.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”delineere”>
+<chapter name="delineere">
 <b>delineere</b> (lat.), tegne, udkaste;
 <sp>Delineation</sp>, Tegning, Udkast, Grundrids.</chapter>
 
-<chapter name=”Deling”>
+<chapter name="Deling">
 <b>Deling</b> (<sp>mat</sp>.) af et
 Liniestykke <i>AB</i> i Dele, der
 forholder sig som givne Tal,

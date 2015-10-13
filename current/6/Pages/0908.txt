@@ -2,18 +2,18 @@ Form for erotisk Digtning har Goethe benyttet
 E. i sine »Römische Elegien«.
 <i>K. H.</i></chapter>
 
-<chapter name=”elegiaco”>
+<chapter name="elegiaco">
 <b>elegiaco,</b> mus.
 Foredragsbetegnelse: klagende, elegisk.</chapter>
 
-<chapter name=”Eleison”>
+<chapter name="Eleison">
 <b>Eleison,</b> se <sp>Kyrie eleison</sp>.</chapter>
 
-<chapter name=”Elektion”>
+<chapter name="Elektion">
 <b>Elektion</b> (lat.), Valg; <sp>elektiv</sp>, fremgaaet
 af Valg; med Udvalg.</chapter>
 
-<chapter name=”Elektivnæringssubstrater”>
+<chapter name="Elektivnæringssubstrater">
 <b>Elektivnæringssubstrater</b> bruges i
 Bakteriologien som Betegnelse for saadanne
 Næringssubstrater, som fortrinsvis fremmer Væksten af
@@ -36,11 +36,11 @@ Tilsætning af Mælkesukker, Krystalviolet og
 Lakmus).
 <i>O. T.</i></chapter>
 
-<chapter name=”Elektor”>
+<chapter name="Elektor">
 <b>Elektor</b> (lat.), Vælger, Valgmand, Valgfyrste
 (Kurfyrste), smlg. <sp>Electoral College</sp>.</chapter>
 
-<chapter name=”Elektra”>
+<chapter name="Elektra">
 <b>Elektra</b> (»den straalende«), Navn paa flere
 gr. Heroiner, deriblandt
 
@@ -70,7 +70,7 @@ nær knyttet til Øen Samothrake. Hun fødte Zeus
 Sønnerne Dardanos og Iasion.
 <i>C. B.</i></chapter>
 
-<chapter name=”Elektricitet”>
+<chapter name="Elektricitet">
 <b>Elektricitet,</b> den Naturvirksomhed, der
 ligger til Grund for de elektriske Fænomener.
 Ordet skyldes <sp>Gilbert</sp>, der for den

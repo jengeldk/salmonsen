@@ -8,7 +8,7 @@ Besætningerne indlogeres, naar Undervandsbaadene ikke er
 i Virksomhed.
 <i>H. E.</i></chapter>
 
-<chapter name=”Depotunderofficer”>
+<chapter name="Depotunderofficer">
 <b>Depotunderofficer</b> kaldes i Danmark en
 ved Afdelingsstaben ansat Underofficer. Han
 anvendes som Medhjælper for
@@ -16,15 +16,15 @@ Afdelingsintendanten og i øvrigt efter Afdelingschefens
 Bestemmelse.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Depravation”>
+<chapter name="Depravation">
 <b>Depravation,</b> se <sp>depravere</sp>.</chapter>
 
-<chapter name=”depravere”>
+<chapter name="depravere">
 <b>depravere</b> (af lat. <i>pravus</i>, slet), forværre,
 fordærve; blive slettere; <sp>Depravation</sp>,
 Forværrelse, Fordærvelse (af Sæderne).</chapter>
 
-<chapter name=”deprecatio”>
+<chapter name="deprecatio">
 <b>deprecatio</b> kaldes i den rom. Retorik den
 Maade at føre et Forsvar paa, at den
 Anklagede tilstaar sin Skyld, men beder sig fritaget
@@ -32,19 +32,19 @@ for Straf (f. Eks. under Henvisning til tidligere
 fortjenester).
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Depreciation”>
+<chapter name="Depreciation">
 <b>Depreciation,</b> Forringelse i Værdi, bruges
 hyppig om den Kursnedgang, Penge o. a.
 Værdier lider; se ogsaa <sp>Devalvation</sp>.
 <i>C. Th.</i></chapter>
 
-<chapter name=”Deprekatur”>
+<chapter name="Deprekatur">
 <b>Deprekatur</b> kaldtes det, naar en Mand, som
 gav Kirker ell. Klostre Jordegods, forbeholdt
 sig at nyde det selv, saa længe han levede.
 <i>H. O.</i></chapter>
 
-<chapter name=”Depressaria”>
+<chapter name="Depressaria">
 <b>Depressaria,</b> Slægt af Møllenes Fam., som
 særlig er knyttede til Skærmplanterne, paa
 hvilke de gør ikke ringe Skade. <i>D. nervosa</i>
@@ -55,7 +55,7 @@ ned i Stænglen, i hvilken den forpupper sig og
 overvintrer.
 <i>C. W-L.</i></chapter>
 
-<chapter name=”Depression, (fys)”>
+<chapter name="Depression, (fys)">
 <b>Depression</b> (lat.) (<sp>fys</sp>.), Nedtrykning af
 Kvægsølvet i Barometret p. Gr. a.
 Overfladespændingen; Sænkning af Termometrets
@@ -73,7 +73,7 @@ er det dog lykkedes at danne Glassorter
 (»Jenaglas«), der er saa godt som fri for denne Fejl.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Depression, i Meteorologien”>
+<chapter name="Depression, i Meteorologien">
 <b>Depression</b> (lat.) benyttes i Meteorologien
 undertiden som Betegnelse for et Omraade i
 Atmosfæren, hvor Lufttrykket er lavere end i
@@ -81,7 +81,7 @@ Omgivelserne i samme vandrette Plan (se
 <sp>Cyklon</sp>).
 <i>D. la C.</i></chapter>
 
-<chapter name=”Depression (astron.)”>
+<chapter name="Depression (astron.)">
 <b>Depression</b> (<sp>astron</sp>.), d. s. s. negativ
 Højde ɔ: den under Horisonten fortsatte
 Forlængelse af en Højdecirkel, saaledes at en D.
@@ -91,7 +91,7 @@ Udtrykket om Horisontens D. og betegner da d. s. s.
 <sp>Kimming</sp>(s. d.).
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Depression, i Geografien”>
+<chapter name="Depression, i Geografien">
 <b>Depression</b> bruges i Geografien som
 Betegnelse for Landstrækninger, der ligger lavere end
 Havets Niveau. Den i Udstrækning største D.,
@@ -109,7 +109,7 @@ m lavere end Havet. Ogsaa i Amerika findes en
 D. i Colorados Ørken.
 <i>C. A.</i></chapter>
 
-<chapter name=”Depression (milit.)”>
+<chapter name="Depression (milit.)">
 <b>Depression</b> (<sp>milit</sp>.). Et Stykke Skyts siges
 at have D., naar der er givet det en saadan
 Retning, at Kernelinien danner en Vinkel nedad
@@ -118,10 +118,10 @@ der afgives med en saadan Retning, kaldes
 <sp>Depressionsskud</sp>.
 <i>H. H.</i></chapter>
 
-<chapter name=”Depression (lægevid.)”>
+<chapter name="Depression (lægevid.)">
 <b>Depression</b> (<sp>lægevid</sp>.), se <sp>Melankoli</sp>.</chapter>
 
-<chapter name=”Depression (økonom.)”>
+<chapter name="Depression (økonom.)">
 <b>Depression</b> (<sp>økonom</sp>.) er den Tilstand,
 Erhvervslivet befinder sig i, naar
 Konjunkturerne er slette. Den økonomiske
@@ -138,7 +138,7 @@ sidstnævnte Tilstand, der hyppig betegnes som D.
 (se nærmere <sp>Kriser</sp>).
 <i>K. R.-H.</i></chapter>
 
-<chapter name=”Depretis, Agostino”>
+<chapter name="Depretis, Agostino">
 <b>Depretis</b> [-'tis?], <sp>Agostino</sp>, ital.
 Statsmand, f. 31. Jan. 1813, d. 29. Juli 1887, blev
 tidlig Advokat i Stradella i Piemont og tog

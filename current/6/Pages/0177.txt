@@ -45,7 +45,7 @@ Udgifterne ved Foranstaltningen skal fordeles
 mellem de interesserede Ejendomme.
 <i>H. Gr.</i></chapter>
 
-<chapter name=”Digelstaal”>
+<chapter name="Digelstaal">
 <b>Digelstaal.</b> Staal, der skal bruges til
 Værktøj, maa være meget ensartet, saa at man ikke
 ved Værktøjets Slibning snart kommer til
@@ -119,10 +119,10 @@ Martinstaal, og dets Styrke og andre Egenskaber kan
 reguleres med endnu større Nøjagtighed.
 <i>E. Su.</i></chapter>
 
-<chapter name=”Digeltang”>
+<chapter name="Digeltang">
 <b>Digeltang,</b> se <sp>Bugtang</sp>.</chapter>
 
-<chapter name=”Digenis Akritas”>
+<chapter name="Digenis Akritas">
 <b>Digenis Akritas</b> [ðige'nis-], Hovedpersonen
 i et efter ham opkaldt byzantinsk Heltedigt fra
 12. Aarh. e. Kr. Med Navnet D. (»Tvefødning«)
@@ -133,7 +133,7 @@ Betegnelse for Grænsernes Forsvarer. (<sp>Litt</sp>.:
 Litteratur« [München 1890]).
 <i>K. H.</i></chapter>
 
-<chapter name=”Digerdøden”>
+<chapter name="Digerdøden">
 <b>Digerdøden,</b> ell. den store Død kaldtes i
 Sverige den Farsot, som i Danmark kaldes den
 »sorte Død«. Den optraadte i Skaane 1349, s. A.
@@ -146,7 +146,7 @@ Bubonpest, i Sverige, og i dette Aar skal alene i
 Sthlm 9000 Mennesker være døde.
 <i>G. N.</i></chapter>
 
-<chapter name=”digerere”>
+<chapter name="digerere">
 <b>digerere</b> (lat. »opløse, sønderdele«), behandle
 et fast Stof med en Vædske ved en Temp. af
 35-45°, for at udtrække de i Vædsken

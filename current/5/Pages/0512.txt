@@ -121,14 +121,14 @@ other Steam-Motors</i> [2 Bd, 1905]; <sp>Sauvage</sp>,
 <i>Les divers types des moteurs à vapeur</i> [1904]).
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Dampmotor”>
+<chapter name="Dampmotor">
 <b>Dampmotor,</b> se <sp>Dampmaskine</sp>.</chapter>
 
-<chapter name=”Dampmuddermaskine”>
+<chapter name="Dampmuddermaskine">
 <b>Dampmuddermaskine,</b> se
 <sp>Uddybningsmaskine</sp>.</chapter>
 
-<chapter name=”Dampning”>
+<chapter name="Dampning">
 <b>Dampning,</b> Behandling af Stoffer med Damp,
 specielt Vanddamp, benyttes i mangfoldige
 Tilfælde, oftest for at blødgøre og løsne forsk.
@@ -147,6 +147,6 @@ Krydderier, opvarmes i et lukket Kar, saaledes at
 de udviklede Dampe ikke kan undslippe.
 <i>K. M.</i></chapter>
 
-<chapter name=”Dampopvarmning”>
+<chapter name="Dampopvarmning">
 <b>Dampopvarmning,</b> se
 <sp>Opvarmningsanlæg</sp>.</chapter>

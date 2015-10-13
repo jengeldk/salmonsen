@@ -52,14 +52,14 @@ blaagraa paa Oversiden med rød Underside, og
 Farve over hele Kroppen.
 <i>O. H.</i></chapter>
 
-<chapter name=”Digesta”>
+<chapter name="Digesta">
 <b>Digesta,</b> se <sp>Corpus juris</sp>.</chapter>
 
-<chapter name=”Digestion”>
+<chapter name="Digestion">
 <b>Digestion</b> (lat.), se <sp>digerere</sp>; fysiologisk
 d. s. s. <sp>Fordøjelse</sp>; <sp>digestibel</sp>, fordøjelig.</chapter>
 
-<chapter name=”Digestivmidler”>
+<chapter name="Digestivmidler">
 <b>Digestivmidler</b> (<i>Digestiva</i>),
 fordøjelsesstyrkende Lægemidler. De virker dels ved at
 fremkalde en forøget og forbedret Virksomhed af
@@ -77,14 +77,14 @@ Pankreatin, og hertil maa ogsaa henregnes den
 allerede nævnte fortyndede Saltsyre.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Digestivsalt”>
+<chapter name="Digestivsalt">
 <b>Digestivsalt,</b> forældet Betegnelse for
 Kaliumklorid.</chapter>
 
-<chapter name=”Digesvale”>
+<chapter name="Digesvale">
 <b>Digesvale,</b> se <sp>Svaler</sp>.</chapter>
 
-<chapter name=”Dighton”>
+<chapter name="Dighton">
 <b>Dighton</b> ['da^it<sub>ə</sub>n], By i U. S. A., Stat
 Massachusetts, ligger ved Taunton River mellem
 Taunton og Fall River og har c. 2000 Indb. D.
@@ -98,10 +98,10 @@ være af indiansk Oprindelse. (<sp>Litt</sp>.: <sp>Rafn</sp>,
 old Colay historical society 4</i> [Taunton 1889]).
 <i>H. P. S.</i></chapter>
 
-<chapter name=”di Giacomo”>
+<chapter name="di Giacomo">
 <b>di Giacomo</b> [-dзa'komo], se <sp>Giacomo</sp>.</chapter>
 
-<chapter name=”digital”>
+<chapter name="digital">
 <b>digital</b> (lat.) anvendes i Lægevidenskaben
 om saadanne Haandgreb, som udføres med
 Fingrene uden instrumental Hjælp, saaledes d.
@@ -111,10 +111,10 @@ Dernæst anvendes ogsaa d. som Betegnelse for, at
 en Sygdom har sit Sæde i Fingrene.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Digitalin”>
+<chapter name="Digitalin">
 <b>Digitalin,</b> se, <sp>Digitalis</sp>.</chapter>
 
-<chapter name=”Digitalis”>
+<chapter name="Digitalis">
 <b>Digitalis</b> (<sp>Fingerbøl</sp>), Slægt af
 Maskeblomstrede, Urter ell. Halvbuske med hele og
 spredte Blade, der forneden er tættere

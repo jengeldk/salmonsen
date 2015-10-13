@@ -7,7 +7,7 @@ med den alm. Jernbanetrafik, som hørende
 under D.
 <i>G. K.</i></chapter>
 
-<chapter name=”Driftsomkostninger”>
+<chapter name="Driftsomkostninger">
 <b>Driftsomkostninger</b> er de Omkostninger ved
 en Bedrift, der vedrører Anskaffelsen af
 Raastoffer, Hjælpestoffer, Reparationer og
@@ -17,7 +17,7 @@ Kontorhold, Rejser, Emballage o. s. v. samt Renter
 og Afdrag af Kapitalen.
 <i>C. Th.</i></chapter>
 
-<chapter name=”Driftsplan”>
+<chapter name="Driftsplan">
 <b>Driftsplan</b> i <sp>Skovbruget</sp> opstilles for det
 enkelte Distrikt, selv om dette administreres
 sammen med eet ell. fl. andre; den udarbejdes
@@ -46,7 +46,7 @@ andre Tilfælde leder Skovrideren selv
 Udarbejdelsen, og da især ved Revision af en udløben D.
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Driftstabsforsikring”>
+<chapter name="Driftstabsforsikring">
 <b>Driftstabsforsikring.</b> Formaalet med denne
 Forsikringsgren, der ogsaa undertiden
 benævnes <sp>Chomageforsikring</sp> (af det franske
@@ -93,7 +93,7 @@ Ogsaa paa dette Forsikringsomraade er der dog
 gjort, og gøres der stadig Fremskridt.
 <i>Chr. Th.</i></chapter>
 
-<chapter name=”Driftteorien”>
+<chapter name="Driftteorien">
 <b>Driftteorien</b> ell. <sp>Drivisteorien</sp> er en
 af den eng. Geolog Lyell opstillet, men af
 Nutidens Geologer opgivet Teori, ifølge hvilken
@@ -105,13 +105,13 @@ i Lighed med, hvad der nutildags finder Sted
 paa Newfoundlandsbankerne.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Drighlington”>
+<chapter name="Drighlington">
 <b>Drighlington</b> ['drig£<sub>i</sub>ŋt<sub>ə</sub>n], Fabrikby i det
 nordlige England, Yorkshire, 5 km SV. f. Leeds,
 har Industri i Uld. (1911) 4126 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Drikkekar”>
+<chapter name="Drikkekar">
 <b>Drikkekar.</b> De ældste D. synes at have
 været de Snegle- og Muslingskaller, som den
 primitive Befolkning i en fjern Stenalder opsamlede

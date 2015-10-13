@@ -8,10 +8,10 @@ sydlige forenede Stater; i Europa dyrkes den paa
 Mos i Væksthusene.
 <i>A. M.</i></chapter>
 
-<chapter name=”Diopsid”>
+<chapter name="Diopsid">
 <b>Diopsid,</b> se <sp>Pyroxengruppen</sp>.</chapter>
 
-<chapter name=”Dioptas”>
+<chapter name="Dioptas">
 <b>Dioptas</b> (<sp>Kobbersmaragd</sp>,
 <sp>Smaragdmalakit</sp>), et smukt, smaragdgrønt, sjældent
 Mineral, som bestaar af Kobbersilikat H<sub>2</sub>CuSiO<sub>4</sub>.
@@ -33,7 +33,7 @@ ved Copiapo i Sydamerika og enkelte andre
 Steder.
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name=”Diopter”>
+<chapter name="Diopter">
 <b>Diopter</b> brugtes tidligere alm. som
 Sigteredskab, naar man ved Landmaaling skulde
 overføre en bestemt Retning fra Marken til et
@@ -105,19 +105,19 @@ nu afløst af den astron. Kikkert.
 <img>
 Diopterlineal.</img></chapter>
 
-<chapter name=”Dioptri”>
+<chapter name="Dioptri">
 <b>Dioptri,</b> se <sp>Briller</sp>.</chapter>
 
-<chapter name=”Dioptrik”>
+<chapter name="Dioptrik">
 <b>Dioptrik,</b> Læren om Lysets <sp>Brydning</sp>, i
 Modsætning til <sp>Katoptrik</sp>, Læren om dets
 Tilbagekastning.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”dioptrisk Anamorfose”>
+<chapter name="dioptrisk Anamorfose">
 <b>dioptrisk Anamorfose,</b> se <sp>Anamorfose</sp>.</chapter>
 
-<chapter name=”Diorama”>
+<chapter name="Diorama">
 <b>Diorama</b> (gr.), et gennemskinneligt Billede,
 der kan være malet paa begge Sider af tyndt
 Lærred, som er opstillet saaledes i Forhold til
@@ -135,7 +135,7 @@ saasom et Møllehjul, der gaar rundt. D. er
 opfundet 1822 af Daguerre.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Diorit”>
+<chapter name="Diorit">
 <b>Diorit</b> bruges i nyere Tid som Navn paa en
 selvstændig Gruppe af Dybbjergarterne,
 karakteriseret ved at bestaa af Oligoklas og

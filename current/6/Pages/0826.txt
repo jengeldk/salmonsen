@@ -34,13 +34,13 @@ Formue 7733200 Kr. Herredets Areal er 229 km<sup>2</sup>,
 hvoraf 6,4 km<sup>2</sup> Indsøer.
 <i>(J. F. W. H.). M. H.</i></chapter>
 
-<chapter name=”Eidsborg”>
+<chapter name="Eidsborg">
 <b>Eidsborg</b> ['æjdsbårg] er Anneks til Laardal
 Præstegæld i Telemarken, ligger omkr. den
 venstre Ende af Bandaksvandet.
 <i>M. H.</i></chapter>
 
-<chapter name=”Eidsbugaren”>
+<chapter name="Eidsbugaren">
 <b>Eidsbugaren</b> ['æjds-], Turisthytte ved
 Vestenden af Bygdin, 1062 m o. H. i den
 sydvestlige Del af Jotunheimen, herfra Vej til Tyin.
@@ -48,7 +48,7 @@ Ved E. ligger en Sæter, som i sin Tid tilhørte
 Digteren A. O. Vinje.
 <i>M. H.</i></chapter>
 
-<chapter name=”Eidsfjord”>
+<chapter name="Eidsfjord">
 <b>Eidsfjord</b> ['æjdsfjord] forekommer som
 Navn paa fl. Fjorde i Norge, af hvilke den
 betydeligste er den c. 20 km lange E., som paa
@@ -64,7 +64,7 @@ Sommersild, hvoraf overordentlig store
 Mængder i Aarenes Løb her er fanget.
 <i>(J. F. W. H.). M. H.</i></chapter>
 
-<chapter name=”Eidsfos Værk”>
+<chapter name="Eidsfos Værk">
 <b>Eidsfos Værk</b> ['æjdsfås-] ligger ved
 Østenden af Ekeren Vand i Jarlsberg og Larvik Amt.
 Her er Jernstøberi og mek. Værksted,
@@ -72,7 +72,7 @@ Jernbanevognsfabrik m. m. Jernværket blev oprettet
 1667.
 <i>M. H.</i></chapter>
 
-<chapter name=”Eidsivating”>
+<chapter name="Eidsivating">
 <b>Eidsivating</b> ['æjd-] hed i den gl. norske
 Tingordning Lagtinget for Oplandene. Dets
 Oprindelse tør strække sig tilbage i forhistorisk
@@ -97,7 +97,7 @@ af 1604 opføres Side om Side, lige til
 Lagtingenes Ophævelse 1797.
 <i/>(E. H.). Abs. T.</i></chapter>
 
-<chapter name=”Eidsivatingsloven”>
+<chapter name="Eidsivatingsloven">
 <b>Eidsivatingsloven</b> ['æjd-] hed den paa
 Eidsivating og inden for dets Lagdømme før
 Indførelsen af Kong Magnus Lagabøter's
@@ -128,7 +128,7 @@ Kildehenvisninger til Landsleiebolken, Kap. 17, 35, 37, 38,
 44, 49, 51, 54, 58, 60).
 <i/>(E. H.). Abs. T.</i></chapter>
 
-<chapter name=”Eidskogen, Herred”>
+<chapter name="Eidskogen, Herred">
 <b>Eidskogen</b> ['æjdskåg<sub>ə</sub>n], <sp>Herred</sp>, Vinger
 og Odalen Fogderi, Hedemarkens Amt, (1910)
 5934 Indb., er Amtets sydøstligste mod Sverige

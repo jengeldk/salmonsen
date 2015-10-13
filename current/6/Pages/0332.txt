@@ -13,7 +13,7 @@ Stillingen som Direktør for den ital. maritime
 Meteorologi.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”donatio”>
+<chapter name="donatio">
 <b>donatio</b> (lat.), den romerretlige Betegnelse
 for Gaveretshandelen. Bl. de særlige
 romerretlige Regler for Gaver skal kun nævnes, at
@@ -39,7 +39,7 @@ Sørejse; her gik Gaven tilbage, hvis Giveren
 overlevede Faren.
 <i>K. B.</i></chapter>
 
-<chapter name=”Donatio Constantini”>
+<chapter name="Donatio Constantini">
 <b>Donatio Constantini</b> (lat.: Konstantinsgave),
 en Gave, som Kejser Konstantin den Store skal
 have skænket Roms Paver efter at være blevet
@@ -60,16 +60,16 @@ Konstantins und Pipins« [»Deutsches Zeitschrift für
 Kirchenrecht«, Tübingen 1904]).
 <i>L. M.</i></chapter>
 
-<chapter name=”Donation”>
+<chapter name="Donation">
 <b>Donation</b> (lat.) Gave.</chapter>
 
-<chapter name=”Donati's Komet”>
+<chapter name="Donati's Komet">
 <b>Donati's Komet,</b> se <sp>Komet</sp>.</chapter>
 
-<chapter name=”Donatisme”>
+<chapter name="Donatisme">
 <b>Donatisme,</b> se <sp>Donatister</sp>.</chapter>
 
-<chapter name=”Donatister”>
+<chapter name="Donatister">
 <b>Donatister,</b> skismatisk Parti i Nordafrika i
 4. Aarh. Da Kristendommen begyndte at blive
 en Kultur- og Verdensmagt, satte den en Del af
@@ -127,7 +127,7 @@ Historie« [Prisafhandling ,i »Norsk teol.
 Tidsskrift« IV og V, 1866 ff.]).
 <i>L. M.</i></chapter>
 
-<chapter name=”donativum”>
+<chapter name="donativum">
 <b>donativum</b> kaldtes hos Romerne en
 Pengegave, som i en ell. anden særlig Anledning
 uddeltes til Soldaterne. Under Borgerkrigen i
@@ -146,14 +146,14 @@ Armeen; Undladelse deraf blev fl. Gange
 skæbnesvanger (f. Eks. for Galba).
 <i>C. B.</i></chapter>
 
-<chapter name=”Donator”>
+<chapter name="Donator">
 <b>Donator</b> (lat.), Giver; Stifter. <sp>Donatrix</sp>,
 Giverinde, Stifterske.</chapter>
 
-<chapter name=”Donatus”>
+<chapter name="Donatus">
 <b>Donatus,</b> se <sp>Donatister</sp>.</chapter>
 
-<chapter name=”Donatus, Ælius”>
+<chapter name="Donatus, Ælius">
 <b>Donatus,</b> <sp>Ælius</sp>, rom. Grammatiker fra c.
 350 e. Kr., Forf. til en Grammatik (<i>Ars</i>), der
 er os overleveret i en kortere (<i>Ars minor</i>) og

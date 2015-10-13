@@ -22,7 +22,7 @@ Kalklag. (<sp>Litt</sp>.: <sp>Zittel</sp>, »Handb. d. Palæontologie«,
 1. Afd., 1. Bd [München og Leipzig 1876-80]).
 <i>T. K.</i></chapter>
 
-<chapter name=”Cystin”>
+<chapter name="Cystin">
 <b>Cystin,</b> C<sub>6</sub>H<sub>12</sub>N<sub>2</sub>S<sub>2</sub>O<sub>4</sub>, ell. CO<sub>2</sub>H.CHNH<sub>2</sub>.CH<sub>2</sub>S.
 SCH<sub>2</sub>.CHNH<sub>2</sub>.CO<sub>2</sub>H, er et Iltningsprodukt af
 α-Amino-β-thio-Mælkesyre ell. Cysteïn CH<sub>2</sub>SH.
@@ -43,19 +43,19 @@ Svovlsølv. Ved Reduktionsmidler gaar det over til
 Cysteïn. Det er fremstillet syntetisk.
 <i>R. K.</i></chapter>
 
-<chapter name=”Cystis”>
+<chapter name="Cystis">
 <b>Cystis</b> (af κύστις;, en Blære), d. s. s. <sp>Blære</sp>,
 eller Ordet bruges syn. med Cyste.</chapter>
 
-<chapter name=”Cystitis”>
+<chapter name="Cystitis">
 <b>Cystitis,</b> d. s. s. <sp>Blærebetændelse</sp>.</chapter>
 
-<chapter name=”Cystoadenom”>
+<chapter name="Cystoadenom">
 <b>Cystoadenom,</b> et Adenom, hvori der har
 udviklet sig Cyster (smlg. <sp>Cyste</sp> og
 <sp>Adenoma</sp>).</chapter>
 
-<chapter name=”Cystocele”>
+<chapter name="Cystocele">
 <b>Cystocele</b> (<sp>Blærebrok</sp>). Undertiden kan
 Blæren falde frem i et af de sædvanlige Brok;
 dette er dog sjældent. Oftere anvendes C. om
@@ -67,7 +67,7 @@ med, saa der paa den Maade dannes noget, der
 ligner, men ikke i egl. Forstand er et Brok.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Cystodyni”>
+<chapter name="Cystodyni">
 <b>Cystodyni</b> (<sp>Cystalgi</sp>, <sp>Blæresmerte</sp>,
 <sp>Blærekrampe</sp>), en sygelig Tilstand, hvor
 stærke, smertefulde Sammentrækninger viser sig
@@ -76,21 +76,21 @@ Fyldning af Blæren, ved Indførelse af Instrumenter.
 Forekommer hos nervøse Personer.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Cystoid”>
+<chapter name="Cystoid">
 <b>Cystoid,</b> d. s. s. <sp>Cystoma</sp>.</chapter>
 
-<chapter name=”Cystoideæ”>
+<chapter name="Cystoideæ">
 <b>Cystoideæ,</b> d. s. s. <sp>Cystideæ</sp>.</chapter>
 
-<chapter name=”Cystokarpium”>
+<chapter name="Cystokarpium">
 <b>Cystokarpium</b> er den hos <sp>Florideæ</sp> efter
 Befrugtningen dannede Sporefrugt.</chapter>
 
-<chapter name=”Cystolithiasis”>
+<chapter name="Cystolithiasis">
 <b>Cystolithiasis</b> [-'ti-], d. s. s.
 <sp>Blærestenssygdom</sp>, se <sp>Blæresten</sp>.</chapter>
 
-<chapter name=”Cystolitter”>
+<chapter name="Cystolitter">
 <b>Cystolitter</b> (<sp>bot</sp>.) er ejendommelige og
 forskellig formede Kalkudvækster, som især
 forekommer hos Arter af Nældeblomstrede og
@@ -106,7 +106,7 @@ en af de Former, under hvilke den i
 Stofskiftet udskilte Kalk aflejres i Planterne.
 <i>A. M.</i></chapter>
 
-<chapter name=”Cystoma”>
+<chapter name="Cystoma">
 <b>Cystoma,</b> i al Alm. d. s. s. Cyste, en
 Sæksvulst. Særlig anvendes Ordet i Bet. <i>C. ovarii</i>,
 en Æggestoksvulst, bestaaende af enkelte større
@@ -121,14 +121,14 @@ enkeltrummet ell. flerrummet, kaldes den uni-
 ell. muttilokulær.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Cystophora”>
+<chapter name="Cystophora">
 <b>Cystophora</b> [-fo-] (<sp>Blæresæl</sp>), se <sp>Sæler</sp>.</chapter>
 
-<chapter name=”Cystoplegi”>
+<chapter name="Cystoplegi">
 <b>Cystoplegi,</b> d. s. s. <sp>Blærelamhed</sp>,
 <sp>Blærelammelse</sp>, sjældent Ord.</chapter>
 
-<chapter name=”Cystopteris”>
+<chapter name="Cystopteris">
 <b>Cystopteris</b> Bernh. (<sp>Bægerbregne</sp>, norsk:
 <sp>Lok</sp>), Bregneslægt af Polypodiaceer med halvt
 bægerformet Slør, der sidder under de runde
@@ -145,7 +145,7 @@ er længere end Pladen, vokser i det østl. og
 nordl. Norge.
 <i>A. M.</i></chapter>
 
-<chapter name=”Cystopus”>
+<chapter name="Cystopus">
 <b>Cystopus</b> <sp>Lév.</sp>, Svampeslægt af
 Peronosporaceernes Fam., lever snyltende i forsk. Planter;
 umiddelbart under Værtplantens Overhud
@@ -173,5 +173,5 @@ Korsblomstrede, samt for Dyrkningen af visse
 Sorter af Peberrod.
 <i>F. K. R.</i></chapter>
 
-<chapter name=”Cystosarkom”>
+<chapter name="Cystosarkom">
 <b>Cystosarkom,</b> se <sp>Cyste</sp> og <sp>Sarkom</sp>.</chapter>

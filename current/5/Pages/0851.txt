@@ -34,7 +34,7 @@ til Folkerepræsentanter, kommunale
 Autoriteter og Skolemyndigheder Landet over.
 <i>Dr. med. Einar Lundsgaard.</i></chapter>
 
-<chapter name=”Dansk Forfatterforening”>
+<chapter name="Dansk Forfatterforening">
 <b>Dansk Forfatterforening,</b> stiftet 27. Novbr
 1894, varetager danske Forfatteres Interesser i
 Ind- og Udland, dels ved at yde Støtte og
@@ -58,7 +58,7 @@ Shakespeare-Festen (med Opførelse af »Hamlet«) paa
 Kronborg.
 <i>S. Ms.</i></chapter>
 
-<chapter name=”Dansk fotografisk Tidsskrift”>
+<chapter name="Dansk fotografisk Tidsskrift">
 <b>Dansk fotografisk Tidsskrift</b> er et fagligt
 Maanedsskrift, der ejes og udgives af »Dansk
 fotografisk Forening« (stiftet 5. Apr. 1879). D.
@@ -73,7 +73,7 @@ Wunsch 1897-98; H. Olsen 1899-1902; Carl E.
 Aagaard fra 1902.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Dansk geologisk Forening”>
+<chapter name="Dansk geologisk Forening">
 <b>Dansk geologisk Forening,</b> stiftet 16. Jan.
 1893, har som Formaal »at fremme Interessen
 for Geologi og beslægtede Videnskaber, at knytte
@@ -86,11 +86,11 @@ Forening«, hvoraf hidtil er udkommet 4 Bd.
 Medlemsantallet er c. 300.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Dansk-Hallesk Mission”>
+<chapter name="Dansk-Hallesk Mission">
 <b>Dansk-Hallesk Mission,</b> se
 <sp>Trankebar-Missionen</sp>.</chapter>
 
-<chapter name=”Dansk historisk Forening”>
+<chapter name="Dansk historisk Forening">
 <b>Dansk historisk Forening</b> blev stiftet 14.
 Febr 1839 med det Formaal at vække hist.
 Interesse og fremme hist. Studier. Det af
@@ -112,7 +112,7 @@ staar i Forbindelse med de historiske
 Foreninger i Norge og Sverige.
 <i>Kr. E.</i></chapter>
 
-<chapter name=”Dansk historisk Fællesforening”>
+<chapter name="Dansk historisk Fællesforening">
 <b>Dansk historisk Fællesforening</b> blev
 stiftet 1909 paa Forslag af Rigsarkivar V. A.
 Secher for at bringe en Samvirken i Stand
@@ -123,10 +123,10 @@ Fællesmøder hvert andet Aar og udgiver siden
 1914 et lille Tidsskrift: »Fortid og Nutid«.
 <i>Kr. E.</i></chapter>
 
-<chapter name=”Dansk Hund”>
+<chapter name="Dansk Hund">
 <b>Dansk Hund,</b> se <sp>Hunde</sp>.</chapter>
 
-<chapter name=”Dansk Husflidsselskab”>
+<chapter name="Dansk Husflidsselskab">
 <b>Dansk Husflidsselskab.</b> Ønsket om paa ny
 at genoplive den i saa væsentlig Grad bortfaldne
 gl. danske Husflid blev fremsat i Halvfjerdserne

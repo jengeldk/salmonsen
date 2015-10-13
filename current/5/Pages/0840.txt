@@ -28,7 +28,7 @@
 </table>
 <i>G. K.</i></chapter>
 
-<chapter name=”danske Raderforening, Den”>
+<chapter name="danske Raderforening, Den">
 <b>danske Raderforening, Den,</b> stiftedes 1854
 af en Kreds af Kunstelskere, deriblandt Høyen
 og J. M. Thiele, med det Formaal at skaffe
@@ -69,7 +69,7 @@ til at udbrede Sansen for grafisk Kunst i Folkets
 mest forsk. Lag.
 <i>S. M.</i></chapter>
 
-<chapter name=”danske Sagførerforening, Den”>
+<chapter name="danske Sagførerforening, Den">
 <b>danske Sagførerforening, Den,</b> er stiftet
 1886 med det Formaal at virke til Fremme af
 Sagførerstandens Interesser. Den yder desuden
@@ -96,10 +96,10 @@ over for Standens enkelte Medlemmer (smlg.
 <sp>Sagfører</sp>).
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Danske Samling”>
+<chapter name="Danske Samling">
 <b>Danske Samling,</b> se <sp>Nationalmuseet</sp>.</chapter>
 
-<chapter name=”danske Selskab for Fædrelandets Historie og Sprog, Det kgl.”>
+<chapter name="danske Selskab for Fædrelandets Historie og Sprog, Det kgl.">
 <b>danske Selskab for Fædrelandets
 Historie og Sprog, Det kgl.,</b> blev stiftet 8. Jan.
 1745 af Jakob Langebek, der da kun var 35 Aar

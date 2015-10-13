@@ -2,13 +2,13 @@ taler saaledes om Forkamrenes D. og
 Hjertekamrenes D. Se i øvrigt <sp>Hjerte</sp>.
 <i>L. F.</i></chapter>
 
-<chapter name=”Diastolik”>
+<chapter name="Diastolik">
 <b>Diastolik</b> (gr., d. s. s. <sp>Interpunktion</sp>)
 kaldte de ældre Teoretikere Læren om den
 rette Frasering i Musikken.
 <i>S. L.</i></chapter>
 
-<chapter name=”Diastylon”>
+<chapter name="Diastylon">
 <b>Diastylon</b> (gr.), en antik Tempelbygning med
 langt fra hverandre staaende Søjler; Afstanden
 mellem Søjlerne, Interkolumnet, er i en D.
@@ -17,7 +17,7 @@ stor som Søjlernes Diameter (se
 <sp>Pyknostylon</sp>).
 <i>(E. S.). C. A. J.</i></chapter>
 
-<chapter name=”diatermant”>
+<chapter name="diatermant">
 <b>diatermant</b> (gr.) kalder man et Legeme, som
 lader Varmestraaler trænge igennem, sig. I
 modsat Fald kaldes det <sp>atermant</sp>. Som
@@ -35,7 +35,7 @@ større Mængde trænge igennem. Se nærmere
 under <sp>Straaling</sp>.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Diatermi”>
+<chapter name="Diatermi">
 <b>Diatermi</b> (gr.) er en med. Behandlingsmaade,
 som udnytter den Varme, der udvikles ved, at
 højfrekvente Strømme (Teslastrømme) ledes
@@ -44,7 +44,7 @@ at Varmen indvirker dybere i Vævene end ved
 andre Midler (se <sp>d'Arsonvalisation</sp>).
 <i>H. I. B.</i></chapter>
 
-<chapter name=”Diatese”>
+<chapter name="Diatese">
 <b>Diatese</b> (gr.) er omtr. d. s. s. Disposition ɔ:
 medfødte ell. erhvervede Anlæg til visse
 Sygdomme, enten gennem en forøget Modtagelighed
@@ -61,10 +61,10 @@ kaldes Tilbøjeligheden til Forstyrrelser i
 Nervesystemets Funktioner.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Diatessaron”>
+<chapter name="Diatessaron">
 <b>Diatessaron,</b> gr. Betegnelse for <sp>Kvarten</sp>.</chapter>
 
-<chapter name=”Diatheke”>
+<chapter name="Diatheke">
 <b>Diatheke</b> [-'te.-] (gr. διαθήκη), Betegnelse
 for en Afdøds Disposition over sin Ejendom,
 altsaa Testamente, gengiver i den gr. Overs.
@@ -76,7 +76,7 @@ som synonyme Begreber, f. Eks. om de to
 Skriftsamlinger, hvoraf Bibelen bestaar.
 <i>H. M.</i></chapter>
 
-<chapter name=”Diatomeer”>
+<chapter name="Diatomeer">
 <b>Diatomeer</b> (<sp>Diatomeæ</sp>, <sp>Bacillariales</sp>,
 <i>Pyritophyceæ</i>), ell. <sp>Kiselalger</sp>, er
 mikroskopiske encellede Planteorganismer med

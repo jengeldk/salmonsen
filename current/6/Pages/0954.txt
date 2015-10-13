@@ -89,11 +89,11 @@ Ledningsadskillere ell. Afbrydere (se i øvrigt
 <sp>elektrisk Ledningsmateriel</sp>).
 <i>R. J. J.</i></chapter>
 
-<chapter name=”elektrisk Elementarkvantum”>
+<chapter name="elektrisk Elementarkvantum">
 <b>elektrisk Elementarkvantum,</b> se
 Elektron.</chapter>
 
-<chapter name=”elektriske Maaleenheder”>
+<chapter name="elektriske Maaleenheder">
 <b>elektriske Maaleenheder.</b> Trangen til et
 internationalt System af veldefinerede e. M.
 meldte sig først bl. Fysikerne, der maa have et

@@ -6,7 +6,7 @@ Oprøret fremkaldte Tilstand er legaliseret, ell.
 Oprøret endelig er slaaet ned.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”de facto Undersaatter”>
+<chapter name="de facto Undersaatter">
 <b>de facto Undersaatter.</b> Herved forstaas
 Personer, der uden i retlig Forstand at høre
 til en Stats Undersaatter, dog for saa vidt
@@ -29,11 +29,11 @@ lokale Sædvaner og kan ikke anerkendes, hvor
 et saadant særligt Retsgrundlag mangler.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Defamation”>
+<chapter name="Defamation">
 <b>Defamation,</b> d. s. s. <sp>Diffamation</sp>, se
 <sp>Ærefornærmelser</sp>.</chapter>
 
-<chapter name=”defaut”>
+<chapter name="defaut">
 <b>defaut</b> [de'fo] (fr.), Mangel; i fr.
 Processprog: en Persons Udeblivelse for en Ret, skønt
 lovlig stævnet. Der afsiges i saa Fald, baade i
@@ -52,10 +52,10 @@ Domfældtes Ejendele beslaglægges (se i øvrigt
 <sp>Kontumacialproces</sp>).
 <i>E. T.</i></chapter>
 
-<chapter name=”defavorabel”>
+<chapter name="defavorabel">
 <b>defavorabel</b> (fr.), ugunstig, unaadig.</chapter>
 
-<chapter name=”Defectivum”>
+<chapter name="Defectivum">
 <b>Defectivum</b> (ufuldstændigt, mangelfuldt; af
 lat. <i>deficere</i>, mangle, fattes) er en Benævnelse,
 som iflg. gl Hævd anvendes i Grammatikken
@@ -104,12 +104,12 @@ derfra senere kunnet antage Formen Vækst i alle
 Kasus.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”defekt”>
+<chapter name="defekt">
 <b>defekt</b> (lat.), mangelfuld, ufuldstændig; som
 Subst.: Mangel, Fejl. <sp>defektere</sp>, gennemse
 en Regning med Hensyn til mulige Regnefejl.</chapter>
 
-<chapter name=”Defekter”>
+<chapter name="Defekter">
 <b>Defekter,</b> teknisk Betegnelse i Bogtrykfaget
 for de til en Skrifts Fuldstændiggørelse for
 mange forskelligartede Formaal hørende Typer.
@@ -120,18 +120,18 @@ til en Skrifts Komplettering med visse
 Skrifttegn, kaldes D.
 <i>E. S-r.</i></chapter>
 
-<chapter name=”defektiv”>
+<chapter name="defektiv">
 <b>defektiv</b> (lat.), mangelfuld, ikke fuldtallig;
 <sp>Defektiv kirker</sp>, Katolikkernes
 Betegnelse for alle Kirker, der er frafaldne den ene
 sande, rom. Kirke.
 <i>L. M.</i></chapter>
 
-<chapter name=”defendere”>
+<chapter name="defendere">
 <b>defendere</b> (lat.), forsvare; <sp>Defension</sp>,
 <sp>Defensor</sp> (s. d.).</chapter>
 
-<chapter name=”Defenders”>
+<chapter name="Defenders">
 <b>Defenders</b> [d<sub>i</sub>'fend<sub>ə</sub>z] (eng.), Forsvarere, en
 hemmelig irsk politisk Forening, der opstod
 efter Irlands endelige Undertvingelse efter
@@ -139,12 +139,12 @@ Slaget ved Boyne-Floden (1690) og Jakob II's Flugt.
 Den arbejdede for Irlands politiske
 Selvstændighed og Uafhængighed. Se <sp>Irland</sp>, »Historie«.</chapter>
 
-<chapter name=”Defension”>
+<chapter name="Defension">
 <b>Defension,</b> Forsvar, særlig det Forsvar, der
 føres for en Anklaget under Straffeforfølgning
 (se <sp>Defensor</sp>).</chapter>
 
-<chapter name=”Defension (Søv.)”>
+<chapter name="Defension (Søv.)">
 <b>Defension</b> (<sp>Søv.</sp>). <sp>Den flydende D.
 paa Kjøbenhavns Red</sp> er en
 Institution, til hvilken henregnes de Skibe, Fartøjer

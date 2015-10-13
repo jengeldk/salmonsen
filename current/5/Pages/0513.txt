@@ -1,29 +1,29 @@
-<chapter name=” Damporgel”>
+<chapter name=" Damporgel">
 <b>Damporgel,</b> et Orgel, ved hvilket der
 anvendes Damp i St f. Luft, opfundet af
 Amerikaneren Donnay.
 <i>S. L.</i></chapter>
 
-<chapter name=” Dampoverheder”>
+<chapter name=" Dampoverheder">
 <b>Dampoverheder,</b> se <sp>Dampkedel</sp>.</chapter>
 
-<chapter name=” Dampovn”>
+<chapter name=" Dampovn">
 <b>Dampovn</b> er de Ovne, der ved
 Dampopvarmningsanlæg i Bygninger og Skibe anvendes som
 Varmelegemer i de Rum, der skal opvarmes (se
 <sp>Opvarmningsanlæg</sp>).
 <i>H. P. C.</i></chapter>
 
-<chapter name=” Damppibe”>
+<chapter name=" Damppibe">
 <b>Damppibe,</b> se <sp>Dampfløjte</sp>.</chapter>
 
-<chapter name=”Damppumpe”>
+<chapter name="Damppumpe">
 <b>Damppumpe,</b> se <sp>Pumper</sp>.</chapter>
 
-<chapter name=”Damprambuk”>
+<chapter name="Damprambuk">
 <b>Damprambuk, Dampramme,</b> se <sp>Rambuk</sp>.</chapter>
 
-<chapter name=”Dampremy”>
+<chapter name="Dampremy">
 <b>Dampremy</b> [dãr<sub>ö</sub>'mi (dãpr<sub>ö</sub>mi?)], Flække i
 det sydlige Belgien, Prov. Hainaut, 2 km NV. f.
 Charleroi, til hvilken den nærmest maa
@@ -32,10 +32,10 @@ Hovedbyen har den vigtige Kulgruber og
 Glasværker.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Damprum”>
+<chapter name="Damprum">
 <b>Damprum,</b> se <sp>Dampkedel</sp>.</chapter>
 
-<chapter name=”Dampskib”>
+<chapter name="Dampskib">
 <b>Dampskib</b> (hertil 2 Tavler) (<sp>Dampbaad</sp>,
 <sp>Damper</sp>) kaldes et Skib (se i øvrigt
 <sp>Skibsbygning</sp>), som udelukkende eller

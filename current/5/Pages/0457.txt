@@ -27,7 +27,7 @@ over Danmarks Kirkebygninger fra den tidligere
 Middelalder« [Kbhvn 1883]).
 <i>H. O.</i></chapter>
 
-<chapter name=”Dalby Bugt”>
+<chapter name="Dalby Bugt">
 <b>Dalby Bugt,</b> paa Vestsiden af Hindsholm,
 N. f. Indløbet til Odense Fjord. Den gaar 1 1/2
 Sm. ind mod SØ. og danner en fortrinlig
@@ -35,10 +35,10 @@ Ankerplads med Læ for alle Vinde undtagen
 nordvestlige.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Dalbyelven”>
+<chapter name="Dalbyelven">
 <b>Dalbyelven,</b> se <sp>Klarelven</sp>.</chapter>
 
-<chapter name=”Dalcroze, Emile Jaques”>
+<chapter name="Dalcroze, Emile Jaques">
 <b>Dalcroze</b> [dal'kro.z], <sp>Émile Jaques</sp>, f.
 i Wien 6. Juli 1865, opdroges i Genève, men
 studerede senere Musik i Wien (hos Rob. Fuchs
@@ -63,7 +63,7 @@ ogsaa var tvivlsom. - D. har i forsk. Skr fremsat
 sine Ideer og reklameret for sin Metode.
 <i>W. B.</i></chapter>
 
-<chapter name=”Dalelven”>
+<chapter name="Dalelven">
 <b>Dalelven,</b> den længste af Sveriges Floder,
 opstaar af to Kildefloder, <sp>Øster</sp>- og
 <sp>Vesterdalelven</sp>, der udspringer paa Grænsen af
@@ -110,7 +110,7 @@ samt et smalt Bælte af Gestrikland og Uppland,
 udgør 28930 km<sup>2</sup>, deraf 5,9 % Søer.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”d'Alembert's Princip”>
+<chapter name="d'Alembert's Princip">
 <b>d'Alembert's Princip</b> [d-alã'bæ.rs<sub>r</sub>] er en
 mat. Fremgangsmaade, hvorved man kan
 omforme enhver Opgave om Legemers Bevægelse

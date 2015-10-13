@@ -47,7 +47,7 @@ D.« [3 Bd, 1880-83]; <sp>Cresenach</sp>, »Geschichte
 d. neueren D.« [1908]).
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Dramatik”>
+<chapter name="Dramatik">
 <b>Dramatik</b> (gr.), dram. Digtning.
 <sp>Dramatiker</sp> kaldes den, der digter ell. forfatter
 Dramaer, Skuespil, <sp>dramatisk</sp>, paa
@@ -61,10 +61,10 @@ ell. Roman, behandles for Skuepladsen,
 dramatiseres.
 <i>Cl. W.</i></chapter>
 
-<chapter name=”dramatisk”>
+<chapter name="dramatisk">
 <b>dramatisk,</b> se <sp>Dramatik</sp>.</chapter>
 
-<chapter name=”Dramaturg”>
+<chapter name="Dramaturg">
 <b>Dramaturg,</b> Kender af dram. Digtning og
 Skuespil; den, der udvikler og anvender
 Teorien for dram. Digtning og Kunst; ogsaa, i
@@ -74,7 +74,7 @@ den æstetiske og dramatiske Teoris
 Standpunkt.
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Dramaturgi”>
+<chapter name="Dramaturgi">
 <b>Dramaturgi</b> (gr.) betegnede hos Grækerne
 dels den teatralske Fremstilling af et Drama,
 dels Frembringelsen af et saadant, medens

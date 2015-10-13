@@ -13,7 +13,7 @@ upraktisk Sværmer; han døde i yderste
 Fattigdom.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Dhafar”>
+<chapter name="Dhafar">
 <b>Dhafar</b> (Safar), et til Oman hørende
 Landskab i Sydarabien, ved Kysten af det arab. Hav,
 beboet af c. 10000 Beduiner, Gara'erne, der
@@ -22,7 +22,7 @@ Batuta i 14. Aarh. endnu fandt blomstrende,
 ligger nu i Ruiner. Den største By er Mirbat.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dhaka”>
+<chapter name="Dhaka">
 <b>Dhaka</b> (eng. <sp>Dacca</sp>), Division i den
 britisk-indiske Prov. Bengalen, 38849 km<sup>2</sup> med (1911)
 12037649 Indb., hvoraf 2/3 er Muhammedanere,
@@ -54,7 +54,7 @@ ligger 14 km S. f. Byen ved et dybt Tilløb til
 Megna.
 <i>(C. C. C.). M. V.</i></chapter>
 
-<chapter name=”Dhammapada”>
+<chapter name="Dhammapada">
 <b>Dhammapada,</b> en Samling Tankesprog paa
 Pali, som maaske er den berømteste af
 Buddhisternes kanoniske Bøger. Den er udg. af
@@ -82,7 +82,7 @@ Turfan-Recensionen des D.« (»Sitzungs-Ber. d. Berl. Akad.«
 ind. Litt.« II, 1., især S. 63 og 185).
 <i>D. A.</i></chapter>
 
-<chapter name=”Dhammapala”>
+<chapter name="Dhammapala">
 <b>Dhammapala,</b> Forf. til en berømt Kommentar,
 <sp>Paramattha-dipani</sp>, som indeholder
 Forklaring til fl. af de kanoniske Pali-Tekster.
@@ -94,16 +94,16 @@ jfr. <sp>Tripitaka</sp>). (<sp>Litt</sp>.: <sp>M. Winternitz</sp>,
 »Gesch. der indischen Litt.« II, 1., S. 161).
 <i>D. A.</i></chapter>
 
-<chapter name=”Dhan”>
+<chapter name="Dhan">
 <b>Dhan,</b> Guld-, Sølv- og Ædelstensvægt i
 Kalkutta, = 1/384 <i>Tola</i> = 30,3745 mg.
 <i>Th. O.</i></chapter>
 
-<chapter name=”d'Hancarville”>
+<chapter name="d'Hancarville">
 <b>d'Hancarville</b> [d-ãkar'vil], se
 Hancarville.</chapter>
 
-<chapter name=”Dhangar”>
+<chapter name="Dhangar">
 <b>Dhangar</b> (»Bjergbeboere«, af <i>Dhang</i>, Bjerg),
 Folkestamme i det nordøstlige Indien, hører til
 de saakaldte Uraon-Kolh (Dravidaer), de opr.
@@ -116,7 +116,7 @@ sin Tid af Hinduerne trængte op i Bjergegnene
 og har derefter faaet Navnet D.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dhangs”>
+<chapter name="Dhangs">
 <b>Dhangs</b> (af <i>Dhangar</i>, Bjergboere), en lille
 med Bhilfolket beslægtet Folkestamme, der i et
 Antal af 35000 bebor den nordlige Del af
@@ -125,7 +125,7 @@ anerkender det britiske Overherredømme, og
 taler for største Delen en Mahratidialekt.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dhanurveda”>
+<chapter name="Dhanurveda">
 <b>Dhanurveda</b> (»Bue-Veda« ɔ:
 Skydevidenskaben), en Viçvamitra ell. Bhrigu tilskreven
 <sp>Upaveda</sp> (»Bi-Veda«) til <sp>Yajurveda</sp>,
@@ -133,7 +133,7 @@ indeholdende den aabenbarede Vaabenvidenskab.
 (Jfr <sp>indisk Litteratur</sp>).
 <i>(S. S.). D. A.</i></chapter>
 
-<chapter name=”Dhanvantari”>
+<chapter name="Dhanvantari">
 <b>Dhanvantari,</b> Lægevidenskabens Gud i den
 ind. Mytologi, omtales ikke i Veda'erne, men
 nævnes i den senere Litt. som Gudernes Læge.
@@ -147,7 +147,7 @@ senere Tid (Dhanvantarinighantu) bærer hans
 Navn.
 <i>D. A.</i></chapter>
 
-<chapter name=”Dhar”>
+<chapter name="Dhar">
 <b>Dhar</b> (<sp>Dhara</sp>, <sp>Dharanaghari</sp>, eng.
 <sp>Dharanuggar</sp>), lille Radsjputerstat i
 Vindhya-Bjergene, Centralindien, 4618 km<sup>2</sup> med
@@ -161,7 +161,7 @@ Lermur, har fl. smukke Moskeer, et Fort og
 Radsjaens Palads.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dharma”>
+<chapter name="Dharma">
 <b>Dharma,</b> i Sanskrit opr. Benævnelsen paa
 den Lov ell. faste Orden, som er Grundvolden
 for Verdens Bestaaen og efter Veda'erne

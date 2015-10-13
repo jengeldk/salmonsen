@@ -55,11 +55,11 @@ Grøndahls Porcelænsfabrik 1853-1903«
 »Porcelæn«.
 <i>Arn. K.</i></chapter>
 
-<chapter name=”Dansk Postblad”>
+<chapter name="Dansk Postblad">
 <b>Dansk Postblad,</b> se <sp>Dansk
 Postforening</sp>.</chapter>
 
-<chapter name=”Dansk Postforbund”>
+<chapter name="Dansk Postforbund">
 <b>Dansk Postforbund,</b> tidligere
 »Postfunktionærernes Fællesorganisation«, stiftet 1. Septbr
 1908, er faglig Organisation for Postbude og
@@ -76,7 +76,7 @@ Forhandling mellem Centraladministrationen og
 Etatsorganisationerne kommer til Anvendelse.
 <i>Fr. O.</i></chapter>
 
-<chapter name=”Dansk Postforening”>
+<chapter name="Dansk Postforening">
 <b>Dansk Postforening,</b> faglig Organisation
 for Postvæsenets Embedsklasser, er dannet ved
 Sammenslutning af »Danske Postassistenters
@@ -97,10 +97,10 @@ mellem Centraladministrationen og
 Etatsorganisationerne kommer til Anvendelse.
 <i>Fr. O.</i></chapter>
 
-<chapter name=”Dansk Rajgræs”>
+<chapter name="Dansk Rajgræs">
 <b>Dansk Rajgræs,</b> se <sp>Bromus</sp>.</chapter>
 
-<chapter name=”Dansk Skolemuseum”>
+<chapter name="Dansk Skolemuseum">
 <b>Dansk Skolemuseum.</b> Indtil hen imod Aaret
 1870 stod danske Skoler langt tilbage m. H. t.
 tidssvarende Inventar og Undervisningsmidler,

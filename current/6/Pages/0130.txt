@@ -15,7 +15,7 @@ udsendt (Kbhvn 1906-09). Derefter udkom 1908
 (London, 4 Bd, udg. af <i>The Hakluyt Society</i>).
 <i>E. G.</i></chapter>
 
-<chapter name=”Diazoaminobenzol”>
+<chapter name="Diazoaminobenzol">
 <b>Diazoaminobenzol</b> [-so--'so'l], C<sub>6</sub> H<sub>5</sub>. N<sub>2</sub>.
 NHC<sub>6</sub>H<sub>5</sub> (se <sp>Diazoforbindelser</sp>),
 danner gule, bladede Krystaller, uopløselige i Vand,
@@ -24,15 +24,15 @@ Vinaand, letopløselige i Æter, der smelter ved
 91° og forpuffer ved højere Temp.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Diazoaminoforbindelser”>
+<chapter name="Diazoaminoforbindelser">
 <b>Diazoaminoforbindelser</b> [-so-], se
 <sp>Diazoforbindelser</sp>.</chapter>
 
-<chapter name=”Diazobenzol”>
+<chapter name="Diazobenzol">
 <b>Diazobenzol</b> [-so--'so'l], se
 <sp>Diazoforbindelser</sp>.</chapter>
 
-<chapter name=”Diazoforbindelser”>
+<chapter name="Diazoforbindelser">
 <b>Diazoforbindelser</b> [-so-], organiske kemiske
 Forbindelser, der indeholder den togyldige
 (divalente) Atomgruppe -N:N-, Diazogruppen, og

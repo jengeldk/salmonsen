@@ -86,12 +86,12 @@ Elektrizität und des Magnetismus« I, Leipzig
 1914).
 <i>E. S. J.</i></chapter>
 
-<chapter name=”Dielektrika, dielektriske Legemer”>
+<chapter name="Dielektrika, dielektriske Legemer">
 <b>Dielektrika, dielektriske Legemer,</b> en af
 Faraday indført Betegnelse for Isolatorer. Se
 <sp>Dielektricitetskonstant</sp>.</chapter>
 
-<chapter name=”dielektrisk Hysterese”>
+<chapter name="dielektrisk Hysterese">
 <b>dielektrisk Hysterese.</b> Sendes en
 Vekselstrøm gennem en Kondensator, der har et fast
 ell. flydende Stof til Dielektrikum, vil dette
@@ -118,11 +118,11 @@ dielektriske Polarisation meget hurtigt
 forsvinder.
 <i>E. S. J.</i></chapter>
 
-<chapter name=”dielektrisk Tab, dielektrisk Tabsvinkel”>
+<chapter name="dielektrisk Tab, dielektrisk Tabsvinkel">
 <b>dielektrisk Tab, dielektrisk Tabsvinkel,</b>
 se <sp>elektrisk Kondensator</sp>.</chapter>
 
-<chapter name=”Diels, Hermann Alexander”>
+<chapter name="Diels, Hermann Alexander">
 <b>Diels</b> [di.ls], <sp>Hermann Alexander</sp>,
 tysk Filolog, f. i Biebrich 18. Maj 1848, har
 siden 1882 virket som Prof. i klassisk Filologi i
@@ -138,7 +138,7 @@ Fragmente der Vorsokratiker« (1903, 3. Oplag
 1912).
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Diemen, Anton van”>
+<chapter name="Diemen, Anton van">
 <b>Diemen</b> [fan-'di.m<sub>ə</sub>n], <sp>Anton van</sp>, holl.
 Embedsmand, f. i Kuylenburg 1593, d. i Batavia
 1645. Han traadte tidlig ind i Raadet for det
@@ -155,7 +155,7 @@ de Vries paa en Opdagelsesrejse til de jap.
 Øer.
 <i>C. A.</i></chapter>
 
-<chapter name=”Diémer, Louis”>
+<chapter name="Diémer, Louis">
 <b>Diémer</b> [d<sub>i</sub>e'mæ.r], <sp>Louis</sp>, fr. Musiker, f.
 14. Febr 1843 i Paris, uddannede sig fra ganske
 ung som Klaverspiller ved Konservatoriet og

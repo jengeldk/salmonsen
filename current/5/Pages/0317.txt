@@ -20,7 +20,7 @@ Bosnie</i> [Paris 1895]; <sp>Spiridion Gopčevič</sp>,
 1914]).
 <i>L. K.</i></chapter>
 
-<chapter name=”Croce, Benedetto”>
+<chapter name="Croce, Benedetto">
 <b>Croce</b> ['krot∫e], <sp>Benedetto</sp>, ital.
 Litteraturhistoriker og Kritiker, f. i Pescasseroli i
 Abruzzerne 26. Febr 1866. Efter først at have
@@ -51,7 +51,7 @@ filosofia moderna</i> og har hertil givet en
 Oversættelse af Hegel's filos. Encyklopædi.
 <i>E. M-r.</i></chapter>
 
-<chapter name=”Croce, Giovanni”>
+<chapter name="Croce, Giovanni">
 <b>Croce</b> ['krot∫e ], <sp>Giovanni</sp>, ital.
 Kirkekomponist (c. 1560-1609). Som Elev af Zarlino
 blev han optaget i Sangerkoret i Markuskirken
@@ -64,7 +64,7 @@ Personlighed, i meget beslægtet med hans
 Samtidige, den yngre Gabrieli.
 <i>A. H.</i></chapter>
 
-<chapter name=”Croce, Giulio Cesare”>
+<chapter name="Croce, Giulio Cesare">
 <b>Croce</b> ['krot∫e], <sp>Giulio Cesare</sp> (della),
 ital. Forf. (1550-c. 1620), levede i Bologna og
 var først Smed, siden Spillemand, hvorfor man
@@ -80,7 +80,7 @@ bolognesisk Dialekt. (<sp>Litt</sp>.: <sp>O. Guerrini</sp>, <i>La vita e
 le opere di G. C. C.</i> [Bologna 1879]).
 <i>(E. G.). E. M-r.</i></chapter>
 
-<chapter name=”Crocein”>
+<chapter name="Crocein">
 <b>Crocein.</b> Under dette Navn gaar forskellige
 Farvestoffer i Handelen, bl. a. <sp>Crocein</sp> 3BX,
 der er Natriumsaltet af
@@ -90,10 +90,10 @@ gulrød Opløsning; det farver Uld rødt i surt
 Bad.
 <i>R. K.</i></chapter>
 
-<chapter name=”croche”>
+<chapter name="croche">
 <b>croche</b> [krå∫] (fr.), se <sp>croma</sp>.</chapter>
 
-<chapter name=”crochet”>
+<chapter name="crochet">
 <b>crochet</b> [krå'∫æ], <sp>Hage</sp>, kort Løbegrav, der
 knyttes til Vinkelspidserne i de mod en
 Fæstning i Siksak førte Løbegrave. Hagerne lægges
@@ -103,10 +103,10 @@ og dels til Undvigesteder for Færdselen,
 Forbindingspladser, Materialdepoter m. m.
 <i>Sch. P.</i></chapter>
 
-<chapter name=”Crocidura”>
+<chapter name="Crocidura">
 <b>Crocidura,</b> se <sp>Spidsmus</sp>.</chapter>
 
-<chapter name=”Crocin”>
+<chapter name="Crocin">
 <b>Crocin</b> (<sp>Polychroit</sp>), C<sub>44</sub>H<sub>70</sub>O<sub>28</sub>(?), er
 Farvestoffet i Safran (af <i>Crocus sativus</i>); det er
 et gulbrunt, amorft Stof, der er letopløseligt i
@@ -120,16 +120,16 @@ højrødt Farvestof, der er opløseligt i Alkohol og
 Æter, men næsten uopløseligt i Vand.
 <i>(O. C.). R. K.</i></chapter>
 
-<chapter name=”Crocodilidæ, Crocodilus”>
+<chapter name="Crocodilidæ, Crocodilus">
 <b>Crocodilidæ, Crocodilus,</b> se <sp>Krokodiller</sp>.</chapter>
 
-<chapter name=”Crocodilurus”>
+<chapter name="Crocodilurus">
 <b>Crocodilurus,</b> se <sp>Ameiva'er</sp>.</chapter>
 
-<chapter name=”Crocosma”>
+<chapter name="Crocosma">
 <b>Crocosma,</b> se <sp>Tritonia</sp>.</chapter>
 
-<chapter name=”Crocus L.”>
+<chapter name="Crocus L.">
 <b>Crocus</b> L., Slægt af Sværdlilliefam., Urter
 med en underjordisk Knold, der bestaar af det
 foregaaende Aars opsvulmede Stængelled og

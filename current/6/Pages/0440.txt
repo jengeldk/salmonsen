@@ -39,14 +39,14 @@ Jahrbuch für die Stadt D.«; <sp>Schumann</sp>,
 1900-03]).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dresden”>
+<chapter name="Dresden">
 <b>Dresden</b> ['drezd<sub>ə</sub>n], se <sp>Longton</sp>.</chapter>
 
-<chapter name=”dress”>
+<chapter name="dress">
 <b>dress</b> [eng. dres, da. dræs] (eng.), Dragt;
 Jockeydragt; <i>full d.</i>, Selskabsdragt.</chapter>
 
-<chapter name=”Dressel”>
+<chapter name="Dressel">
 <b>Dressel</b> kaldtes i ældre Tid Kongens
 Skatkammer ell. overhovedet hans Skat. Ordet
 stammer fra det fr. <i>trésor</i>, der er kommet til
@@ -54,7 +54,7 @@ Norden gennem nedertysk <i>Tresele</i> ell. <i>Trese</i>; det
 svarer til det sv. Ord <i>Drälsel</i>.
 <i>Kr. E.</i></chapter>
 
-<chapter name=”Dresselberg”>
+<chapter name="Dresselberg">
 <b>Dresselberg,</b> gl dansk Adelsslægt, som
 kendes fra sidste Halvdel af 15. Aarh. Den førte
 i blaa Felt en grøn Stub med to Guldagern og
@@ -70,14 +70,14 @@ Landsdommer i Sjælland og Lensmand paa Ringsted
 Kloster.
 <i>H.-L.</i></chapter>
 
-<chapter name=”dressere”>
+<chapter name="dressere">
 <b>dressere</b> (fr.), afrette, indøve. Sammenlign
 <sp>Dressur</sp>.</chapter>
 
-<chapter name=”Dressine”>
+<chapter name="Dressine">
 <b>Dressine,</b> d. s. s. <sp>Draisine</sp>.</chapter>
 
-<chapter name=”Dressur”>
+<chapter name="Dressur">
 <b>Dressur</b> (fr.) er for Hestens Vedkommende
 nærmest den Del af dens Uddannelse, der gaar
 ud paa at lære den at forstaa og følge visse
@@ -97,7 +97,7 @@ systematisk fremadskridende, anstrengende Øvelser (se
 Om D. af Hunde, se <sp>Hunde</sp>, om D. af andre
 Dyr se <sp>Dyrtæmning</sp>.</chapter>
 
-<chapter name=”Dreux”>
+<chapter name="Dreux">
 <b>Dreux</b> [drø], By i det nordvestlige Frankrig,
 Dept Eure-et-Loir, Hovedstad i <sp>Arrond. D.</sp>,
 ligger i en frugtbar Egn ved Blaise, 3 1/2 km fra
@@ -122,7 +122,7 @@ Resultat, men indtog den 1593 og ødelagde
 Slottet.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Drev”>
+<chapter name="Drev">
 <b>Drev,</b> lille Tandhjul, ofte massivt; de mindste
 D. forfærdiges af Drevstaal. Griber ulige store
 Tandhjul ind i hinanden, benævnes det mindste
@@ -130,14 +130,14 @@ D., det største Drivhjul, selv om dette er det
 drevne og ikke det drivende.
 <i>F. W.</i></chapter>
 
-<chapter name=”Drévant”>
+<chapter name="Drévant">
 <b>Drévant</b> [dre'vã], Landsby i det midterste
 Frankrig, Dept Cher, Arrond. Saint-Amand, 5
 km SØ. f. Byen Saint-Amand (Mont-Rond) med
 Ruiner af et rom. Tempel, Teater, Akvædukt,
 Termer m. fl. Levninger af en gallo-rom. By.</chapter>
 
-<chapter name=”Drevet, Familie af franske Kobberstikkere”>
+<chapter name="Drevet, Familie af franske Kobberstikkere">
 <b>Drevet</b> [dr<sub>ö</sub>'væ], Familie af franske
 Kobberstikkere; særlig 1) <sp>Pierre D.</sp>, f. i Loire
 (Rhône) 1663, d. i Paris 1738, hører til de

@@ -16,7 +16,7 @@ modernen Literatur« (1893). (<sp>Litt</sp>.:
 Hauptrichtungen der modernen socialen Bewegung« [1901]).
 <i>Herdis Krarup.</i></chapter>
 
-<chapter name=”Dyke, William Hart, Sir”>
+<chapter name="Dyke, William Hart, Sir">
 <b>Dyke</b> [da^ik], <sp>William Hart, Sir</sp>, eng.
 Politiker, f. 1837, studerede ved Oxford Univ.
 og tog 1861 Magistergraden. 1865-1906
@@ -35,7 +35,7 @@ det, fri Undervisning ved offentligt Tilskud af
 Skolepenge.
 <i>E. E.</i></chapter>
 
-<chapter name=”Dykker, Ledning”>
+<chapter name="Dykker, Ledning">
 <b>Dykker,</b> dykket Ledning, en Vand-, Gas- ell.
 Kloakledning, der føres over et Havnebassin,
 en Kanal, Vandløb, Fjord ell. lgn. Hindring
@@ -68,7 +68,7 @@ Kjøbenhavns nyere Kloakanlæg af <sp>O. K. Nobel</sp>,
 1903).
 <i>J. M.-P.</i></chapter>
 
-<chapter name=”Dykker, en Person”>
+<chapter name="Dykker, en Person">
 <b>Dykker,</b> en Person, der opholder sig under
 Vandet, for der at udføre et eller andet
 Arbejde. Ved Vandbygningsarbejder, under
@@ -103,7 +103,7 @@ kortere Tid i en Dybde af indtil 70 m under
 Vandets Overflade.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Dykkerapparater”>
+<chapter name="Dykkerapparater">
 <b>Dykkerapparater</b> (hertil 1 Tavle). Til
 Udførelse af Dykkerarbejder benyttes i Alm. et
 »Dykkerfartøj«, udrustet med det til Dykkernes

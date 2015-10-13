@@ -3,7 +3,7 @@ Jagter ell. Dæksbaade kan finde Ankerplads
 med ret god Beskyttelse.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Domstol”>
+<chapter name="Domstol">
 <b>Domstol,</b> i snævrere Forstand Betegnelse
 for en Ret, der kan afsige eksigible Dekreter,
 i videre Forstand derimod lig med Ret, d. v. s.
@@ -49,10 +49,10 @@ Grl. af 1915 § 93, antages berettigede til at
 tilsidesætte Love, der er i Strid med Grl.
 <i>K. B.</i></chapter>
 
-<chapter name=”Domus anatomica”>
+<chapter name="Domus anatomica">
 <b>Domus anatomica,</b> se <sp>anatomisk Teater</sp>.</chapter>
 
-<chapter name=”Domæne”>
+<chapter name="Domæne">
 <b>Domæne</b> (lat. <i>dominium</i>). Begrebet D. er
 ingenlunde helt fastslaaet i Finansvidenskaben.
 Undertiden har man ved D. hele den

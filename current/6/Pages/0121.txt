@@ -6,7 +6,7 @@ Brantôme. Publ par Lalanne VIII</i> [Paris 1875];
 de D. de France</i> [Paris 1619]).
 <i>L. K.</i></chapter>
 
-<chapter name=”Diane de Poitiers”>
+<chapter name="Diane de Poitiers">
 <b>Diane de Poitiers</b> ['d<sub>i</sub>an-d<sub>ö</sub>-pwa-'t<sub>i</sub>e]
 (1499-1566), Hertuginde af Valentinois, Henrik II's
 Elskerinde, Datter af Jean de Poitiers, der
@@ -36,10 +36,10 @@ Guiffrey</sp>, <i>Lettres inédites de D. de P.</i> [Paris 1866];
 <sp>Hay</sp>, <i>Madame D. de P.</i> [London 1900]).
 <i>L. K.</i></chapter>
 
-<chapter name=”Dianit”>
+<chapter name="Dianit">
 <b>Dianit,</b> d. s. s. <sp>Columbit</sp>.</chapter>
 
-<chapter name=”Diano-Marina”>
+<chapter name="Diano-Marina">
 <b>Diano-Marina,</b> By i det nordvestlige Italien,
 Prov. Porto Maurizio, ligger 8 km NØ. f. Porto
 Maurizio i den maleriske Diano-Dal og ved
@@ -49,7 +49,7 @@ litografiske Sten. Byen led meget ved
 Jordskælvet 23. Febr 1887.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Dianthus L.”>
+<chapter name="Dianthus L.">
 <b>Dianthus</b> [-tus] L. (<sp>Nellike</sp>), Slægt af
 Nellikefam. (Nellike-Gruppen), Urter med
 græslignende og ofte blaagrønne Blade, der ved

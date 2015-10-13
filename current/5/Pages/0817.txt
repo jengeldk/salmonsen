@@ -15,7 +15,7 @@ Afgang som Generalpostdirektør til Ridder af
 Elefanten.
 <i>Fr. O.</i></chapter>
 
-<chapter name=”Danneskjold'ske Kanal”>
+<chapter name="Danneskjold'ske Kanal">
 <b>Danneskjold'ske Kanal</b> ell. <sp>Næsbyholm
 Kanal</sp> er anlagt som et privat Foretagende af
 Grev Danneskjold-Samsøe 1810-12, for at gøre
@@ -30,7 +30,7 @@ Udførslen af Brænde fra det Indre af Sjælland
 mistet al Bet. og er faktisk opgivet.
 <i>H. W.</i></chapter>
 
-<chapter name=”Dannevig, Gunder Mathisen”>
+<chapter name="Dannevig, Gunder Mathisen">
 <b>Dannevig,</b> <sp>Gunder Mathisen</sp>, norsk
 Fiskerikyndig, (1841-1911), studerede
 Fiskerivæsen praktisk og teoretisk og anlagde 1883
@@ -59,10 +59,10 @@ D. nød Anseelse som en Banebryder paa sit
 Omraade.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Dannevirke”>
+<chapter name="Dannevirke">
 <b>Dannevirke,</b> se <sp>Danevirke</sp>.</chapter>
 
-<chapter name=”Dannevirke, et Dagblad”>
+<chapter name="Dannevirke, et Dagblad">
 <b>Dannevirke,</b> et Dagblad, som udgives i
 Haderslev. Det blev Juni 1838 stiftet af Købmand
 P. C. Koch efter Tilskyndelse af Prof. C. Flor i
@@ -125,7 +125,7 @@ Embedsstand. Dette Foretagende maatte dog
 opgives efter 3 Aars Forløb (1903).
 <i>H. L. M.</i></chapter>
 
-<chapter name=”Dannevirkeforeningen”>
+<chapter name="Dannevirkeforeningen">
 <b>Dannevirkeforeningen</b> stiftedes i Kbhvn 14.
 Jan. 1861 af 22 Mænd, hvoriblandt Baron Blixen
 Finecke, Prof. B. A. Borgen, Hofjægermester

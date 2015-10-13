@@ -3,28 +3,28 @@ Byen blev plyndret og brændt af de Danske
 Småland.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Ekskavator”>
+<chapter name="Ekskavator">
 <b>Ekskavator</b> (lat.), se <sp>Gravemaskine</sp>
 og <sp>Uddybningsmaskine</sp>.</chapter>
 
-<chapter name=”eksklamere”>
+<chapter name="eksklamere">
 <b>eksklamere</b> (lat.), udraabe;
 <sp>Eksklamation</sp>, Udraab.</chapter>
 
-<chapter name=”ekskludere”>
+<chapter name="ekskludere">
 <b>ekskludere</b> (lat.), udelukke; <sp>Eksklusion</sp>,
 Udelukkelse.</chapter>
 
-<chapter name=”eksklusiv”>
+<chapter name="eksklusiv">
 <b>eksklusiv</b> (lat.), udelukkende,
 indskrænkende, ensidig, ufordragelig; <sp>eksklusive</sp>
 (lat.), med Udelukkelse af, fraregnet
 (Modsætning: <sp>inklusive</sp>).</chapter>
 
-<chapter name=”Ekskommunikation”>
+<chapter name="Ekskommunikation">
 <b>Ekskommunikation</b> ['æks-] (lat.), se <sp>Band</sp>.</chapter>
 
-<chapter name=”Ekskoriation”>
+<chapter name="Ekskoriation">
 <b>Ekskoriation</b> (af lat. <i>córium</i>, Læderhuden),
 en Sygdomsproces, der bestaar i, at Overhuden
 afstødes, saa Læderhuden ligger blottet. Kan
@@ -38,7 +38,7 @@ E. kan gaa over til større Saar (<i>Decubitus</i>,
 Gennemligningssaar).
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Ekskrementer”>
+<chapter name="Ekskrementer">
 <b>Ekskrementer,</b> <sp>Fækalier</sp> (lat. <i>fæces</i>),
 den ufordøjede Del af Føden, som forlader
 Legemet gennem Endetarmen. E. bestaar dels af
@@ -118,10 +118,10 @@ og Anvendelsen af Menneske-E., se
 <sp>Renovation</sp>.
 <i>K. M.</i></chapter>
 
-<chapter name=”Ekskrescens”>
+<chapter name="Ekskrescens">
 <b>Ekskrescens</b> (lat.), Udvækst, Knude, Vorte.</chapter>
 
-<chapter name=”Ekskreter”>
+<chapter name="Ekskreter">
 <b>Ekskreter</b> (lat.) har man kaldet de
 Kirtelafsondringer, som indeholder Stoffer, der er
 Endeprodukter af det dyriske Legemes
@@ -149,19 +149,19 @@ Afsondring og Sammensætning, se under vedk.
 Organ.
 <i>(S. T.). L. F.</i></chapter>
 
-<chapter name=”Ekskreter”>
+<chapter name="Ekskreter">
 <b>Ekskreter</b> (<sp>bot</sp>.), d. s. s. <sp>Affaldsstoffer</sp>.</chapter>
 
-<chapter name=”Ekskretion”>
+<chapter name="Ekskretion">
 <b>Ekskretion,</b> Afsondring af Ekskreter (s. d.
 og <sp>Kirtler</sp>).</chapter>
 
-<chapter name=”ekskulpere”>
+<chapter name="ekskulpere">
 <b>ekskulpere</b> (lat.), frikende for Skyld,
 retfærdiggøre. Det tilsvarende Hovedord
 <sp>Ekskulpation</sp>.</chapter>
 
-<chapter name=”Ekskurs”>
+<chapter name="Ekskurs">
 <b>Ekskurs</b> (lat.), en Afvigelse fra ell. Svæven
 ud fra Hovedsagen (i en Tale, et Foredrag, en
 Afh.). I snævrere Forstand forstaas derved en

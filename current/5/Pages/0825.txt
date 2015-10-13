@@ -69,10 +69,10 @@ betydelse« i »Antropologiska Sektionens tidskrift« I
 [1880] Nr 5).
 <i>P. K. T.</i></chapter>
 
-<chapter name=”Danske Atlas”>
+<chapter name="Danske Atlas">
 <b>Danske Atlas,</b> se <sp>Pontoppidan, E</sp>.</chapter>
 
-<chapter name=”danske Boghandlerforening, Den”>
+<chapter name="danske Boghandlerforening, Den">
 <b>danske Boghandlerforening, Den,</b> er
 stiftet 18. Jan. 1837 af 9 kbhvn'ske Boghandlere paa
 Initiativ af J. Deichmann, der blev dens første
@@ -106,7 +106,7 @@ overs. paa fremmede Sprog), og den har
 bidraget meget til dansk Litt.'s gode Trivsel.
 <i>J. L. L.</i></chapter>
 
-<chapter name=”Danske Dramatikeres Forbund”>
+<chapter name="Danske Dramatikeres Forbund">
 <b>Danske Dramatikeres Forbund,</b> stiftet 9.
 Marts 1906, varetager danske Dramatikeres
 faglige og økonomiske Interesser og virker for de
@@ -121,7 +121,7 @@ Gnudtzman og Hjalmar Bergström er Emma
 Gad Formand.
 <i>S. Ms.</i></chapter>
 
-<chapter name=”danske Dyrlægeforening, Den”>
+<chapter name="danske Dyrlægeforening, Den">
 <b>danske Dyrlægeforening, Den,</b> er oprettet
 1849 og reorganiseret 1908. Den repræsenterer
 Samvirksomheden inden for de danske
@@ -147,6 +147,6 @@ organisatoriske Anliggender ogsaa drøftes
 veterinærvidenskabelige Emner.
 <i>P. Grunth.</i></chapter>
 
-<chapter name=”Danske Fajancer”>
+<chapter name="Danske Fajancer">
 <b>Danske Fajancer</b> [-fa'jaŋs<sub>ə</sub>r]. 1. <sp>Store
 Kongensgade Fajancefabrik</sp>. 27.

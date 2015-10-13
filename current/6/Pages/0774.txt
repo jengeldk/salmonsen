@@ -2,7 +2,7 @@ under Fællestitlen »Studier«. Prøver af hans
 Poesi findes i Alfr. Ipsen's »Holland« (1900).
 <i>A. I.</i></chapter>
 
-<chapter name=”Eekhoud, Georges”>
+<chapter name="Eekhoud, Georges">
 <b>Eekhoud</b> ['e.khå^ut], <sp>Georges</sp>, belg. Forf.,
 f. i Antwerpen 27. Maj 1854. Han blev sat i
 Militærskolen i Bryssel, men blev saa ked af den,
@@ -41,19 +41,19 @@ udgav han sammen med Maurice Warlemont
 Tidsskriftet <i>La jeune Belgique</i>.
 <i>A. I.</i></chapter>
 
-<chapter name=”Eem”>
+<chapter name="Eem">
 <b>Eem</b> [e.m], Flod i den holl. Prov. Utrecht,
 opstaar af fl. Bække ved Amersfoort og
 udmunder ved Landsbyen <sp>Eemnes</sp> i
 Zuidersøen.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eendragt”>
+<chapter name="Eendragt">
 <b>Eendragt</b> ['e.ndraKt], Arm af Øster-Schelde,
 mellem Øen Tolen og Fastlandet, danner Grænse
 mellem de holl. Prov. Zeeland og Nordbrabant.</chapter>
 
-<chapter name=”Eetvelde, Edmond”>
+<chapter name="Eetvelde, Edmond">
 <b>Eetvelde</b> ['e.tfæ£d<sub>ə</sub>], <sp>Edmond</sp>, belg.
 Embedsmand, f. 1852, fik sin Uddannelse i
 Antwerpens Handelsskole og var derefter fl. Aar
@@ -70,13 +70,13 @@ Kongo-Spørgsmaal. 1897 var han blevet ophøjet
 til Baron.
 <i>E. E.</i></chapter>
 
-<chapter name=”Efa”>
+<chapter name="Efa">
 <b>Efa,</b> hos Hebræerne Rummaal for tørre
 Sager (svarende til <sp>Bat</sp> for flydende Sager), 1/10
 af en Chomer, knap 40 l.
 <i>J. P.</i></chapter>
 
-<chapter name=”Efarmoni”>
+<chapter name="Efarmoni">
 <b>Efarmoni</b> (<sp>bot</sp>.), en af J. Vesque (1882)
 indført Betegnelse, der udtrykker den Evne,
 Planten har til at tilpasse sig efter de ydre
@@ -87,7 +87,7 @@ nedarvede Karakterer meget mindre stabile,
 mere »flydende«.
 <i>A. M.</i></chapter>
 
-<chapter name=”Efeber”>
+<chapter name="Efeber">
 <b>Efeber</b> (gr. έφηβοι ɔ: Ynglinge) kaldtes i
 Oldtidens Athen de to yngste Aargange (18-19
 Aar gl.) af de værnepligtige Borgere. Efter
@@ -138,11 +138,11 @@ fyldige Efterretninger herom som i Athen.
 attique</i> [Paris 1875-77]).
 <i>C. B.</i></chapter>
 
-<chapter name=”efemer”>
+<chapter name="efemer">
 <b>efemer</b> (gr.), kun varende en Dag,
 kortvarig, forgængelig.</chapter>
 
-<chapter name=”efemer Feber”>
+<chapter name="efemer Feber">
 <b>efemer Feber</b> (lat.), <i>Febris ephemera</i>, er
 en forbigaaende let Feber, som kan opstaa ved
 den saakaldte Forkølelse, derfor ogsaa kaldet
@@ -151,7 +151,7 @@ Reglen paavises en ubetydelig Lokallidelse, f.
 Eks. Katarr af Næse, Svælg, Strube.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Efemeride”>
+<chapter name="Efemeride">
 <b>Efemeride</b> (gr.: Dagbøger, Dagblade)
 kaldes i Astronomien Tabeller, der angiver til hver
 Dag, hvor paa Himlen man har at søge Solen,

@@ -2,11 +2,11 @@
 <b>Dikarbonsyrer,</b> organiske Syrer,
 indeholdende 2 Karboxylgrupper.</chapter>
 
-<chapter name=”Dikasterion”>
+<chapter name="Dikasterion">
 <b>Dikasterion</b> (gr.), Domstol,
 Dommerforsamling.</chapter>
 
-<chapter name=”Dike, i den gr. Mytologi”>
+<chapter name="Dike, i den gr. Mytologi">
 <b>Dike</b> (gr.), »Ret«, i den gr. Mytologi
 personificeret som Gudinde. Hesiodos skildrer D.
 som vaagende over Retfærdigheden paa
@@ -28,7 +28,7 @@ Billede af D.
 <img>
 Attisk Vase i Wien.</img></chapter>
 
-<chapter name=”Dike, i gr. Ret”>
+<chapter name="Dike, i gr. Ret">
 <b>Dike</b> i gr. Ret udtrykker som Modsætning
 til <i>themis</i> den samme Idé som i rom. Ret <i>jus</i>
 som Modsætning til <i>fas</i>. D., af Roden dik- [deik-]

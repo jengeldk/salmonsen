@@ -27,11 +27,11 @@ de Huller i Klipperne, hvor Bugserlinen har
 været gjort fast.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Diskobolos”>
+<chapter name="Diskobolos">
 <b>Diskobolos</b> [græsk 'bo-], Diskoskaster, se
 <sp>Diskos</sp>.</chapter>
 
-<chapter name=”Disko-Bugt”>
+<chapter name="Disko-Bugt">
 <b>Disko-Bugt</b> kaldes den Del af Baffins-Bugt,
 som ligger mellem Disko og Strækningen af
 Grønlands Vestkyst, hvorpaa Kolonierne
@@ -52,7 +52,7 @@ Klipperne paa Sydsiden af Disko viser, at D.-B.
 utvivlsomt tidligere har været fyldt med Landis.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”diskontere”>
+<chapter name="diskontere">
 <b>diskontere,</b> at købe en Veksel eller anden
 Fordring før Forfaldstid med et Fradrag, der
 svarer til Renten og Risikoen (se <sp>Diskonto</sp>).
@@ -61,10 +61,10 @@ Veksler med Fradrag af Diskonto, at han d.
 dem.
 <i>C. Th.</i></chapter>
 
-<chapter name=”diskontinuert”>
+<chapter name="diskontinuert">
 <b>diskontinuert,</b> se <sp>kontinuert</sp>.</chapter>
 
-<chapter name=”Diskontinuitetsprincippet”>
+<chapter name="Diskontinuitetsprincippet">
 <b>Diskontinuitetsprincippet.</b> Derved forstaas
 den i den danske Rigsdag saavel som i de fleste
 Parlamenter anerkendte Grundsætning, at der
@@ -103,7 +103,7 @@ for samme Valgperiode, og D. derfor kun gælder
 mellem Kamre, der er adskilte ved ny Valg.
 <i>K. B.</i></chapter>
 
-<chapter name=”Diskonto”>
+<chapter name="Diskonto">
 <b>Diskonto</b> (ital. <i>sconto</i>, fr. <i>escompte</i>, eng.
 <i>discount</i>) bet. ethvert Afdrag, der gøres i en
 Fordrings Beløb, naar dette før Forfaldstid
@@ -139,16 +139,16 @@ af Laan mod Pant i fast Ejendom) først
 frigaves 1855, i Norge først 1888.
 <i>(E. M.). C. Th.</i></chapter>
 
-<chapter name=”Diskontobank”>
+<chapter name="Diskontobank">
 <b>Diskontobank</b> bruges ofte som Betegnelse
 for en Bank, der beskæftiger sig med
 Diskontering af Veksler.
 <i>C. Th.</i></chapter>
 
-<chapter name=”Diskontoforretning”>
+<chapter name="Diskontoforretning">
 <b>Diskontoforretning,</b> se <sp>Diskonto</sp>.</chapter>
 
-<chapter name=”Diskontoregning”>
+<chapter name="Diskontoregning">
 <b>Diskontoregning.</b> D. er at finde det Beløb,
 der bliver at fradrage ved Betaling af et
 senere forfaldent Pengebeløb. Om Beregning af

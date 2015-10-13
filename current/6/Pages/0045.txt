@@ -68,12 +68,12 @@ nedbrudt.
 
 <img>P. Déroulède.</img>
 
-<chapter name=”déroute”>
+<chapter name="déroute">
 <b>déroute</b> [de'rut] (fr.), Afvej; Forstyrrelse;
 Nederlag, navnlig en slagen, sprængt Hærs
 vilde Flugt.</chapter>
 
-<chapter name=”Derr”>
+<chapter name="Derr">
 <b>Derr</b> (egl. = Dêr ɔ: Kloster) er Navnet paa
 en By i Nedrenubien, omtr. 200 km S. f.
 Assuan. Der findes her Levninger af et Tempel
@@ -83,7 +83,7 @@ Dadler, som paa Nilbaade transporteredes til
 Ægypten.
 <i>J. Ø.</i></chapter>
 
-<chapter name=”Derriey, Charles”>
+<chapter name="Derriey, Charles">
 <b>Derriey</b> [dæ'r<sub>i</sub>æ], <sp>Charles</sp>, fr. Skriftstøber,
 f. 1808, d. 1877. Han lærte Bogtrykkerkunsten
 hos Didot i Paris, oprettede 1839 et
@@ -95,10 +95,10 @@ D. har opfundet fl. Maskiner, saaledes
 Satinerepressen og en Maskine til Musiksats.
 <i>(E. G.). C. S. P.</i></chapter>
 
-<chapter name=”Derry”>
+<chapter name="Derry">
 <b>Derry</b> ['der<sub>i</sub>], se <sp>Londonderry</sp>.</chapter>
 
-<chapter name=”Deruta”>
+<chapter name="Deruta">
 <b>Deruta,</b> By i Mellemitalien, Prov. Perugia,
 ligger 18 km S. f. Perugia i Nærheden af
 venstre Bred af Tiber. (1911) 6200 Indb. I D. blev
@@ -107,14 +107,14 @@ bekendte Majolikaer, hvis Dekorationer viser hen
 til maurisk Paavirkning.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Derut esch Scherif”>
+<chapter name="Derut esch Scherif">
 <b>Derut esch Scherif</b> [-e∫-], By i Ægypten, Prov.
 Siut, ligger 60 km NV. f. Assiut ved Bahr Yusuf
 (Josefs-Kanalen), der 8 km fra D. e. S. udgaar
 fra Nilen, samt ved Jernbanen til Siut.
 <i>C. A.</i></chapter>
 
-<chapter name=”Dervent”>
+<chapter name="Dervent">
 <b>Dervent,</b> <sp>Derbent</sp>, By i Bosnien, ligger
 70 km ØNØ. f. Banjaluka ved Floden Ukraina
 og ved den saakaldte Bosna-Bane. (1895) 5424
@@ -123,7 +123,7 @@ Ved D. ligger en Borgruin og det gl.
 Franciskanerkloster <sp>Plean</sp>.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Dervish”>
+<chapter name="Dervish">
 <b>Dervish</b> [-'vi∫] (pers.) betyder »fattig«,
 »Betler« og svarer til det arab. Fakir; ligesom dette
 er D. gaaet over til at betegne en Munk ell. en

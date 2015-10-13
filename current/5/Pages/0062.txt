@@ -20,7 +20,7 @@ Gasteori ramlede. Desuden har han skrevet:
 »Die Potentialfunktion und das Potential«.
 <i>K. S. K.</i></chapter>
 
-<chapter name = ”Clauson-Kaas, Jens Adolph Friedrich”>
+<chapter name="Clauson-Kaas, Jens Adolph Friedrich">
 <b>Clauson-Kaas,</b> <sp>Jens Adolph Friedrich</sp>,
 dansk Husflidslærer, f. 16. Maj 1826 i
 Langenfelde, d. i Kbhvn 28. Oktbr 1906; han
@@ -42,7 +42,7 @@ hvor han virkede som Husflidslærer for Blinde
 indtil 1900, da han vendte tilbage til Kbhvn.
 <i>(C. N.). R. B.</i></chapter>
 
-<chapter name = ”Claussen, Rasmus”>
+<chapter name="Claussen, Rasmus">
 <b>Claussen,</b> <sp>Rasmus</sp>, dansk Politiker, Søn
 af en Gaardfæster paa Langeland, f. 3. Febr
 1835, d. 5. Aug. 1905. Han var 1859-70 Fæster
@@ -82,7 +82,7 @@ han sig ud af »det forhandlende Venstre«, og
 1903 søgte han ikke Genvalg til Folketinget.
 <i>N. N.</i></chapter>
 
-<chapter name = ”Claussen, Sophus Niels Christen”>
+<chapter name="Claussen, Sophus Niels Christen">
 <b>Claussen,</b> <sp>Sophus Niels Christen</sp>,
 dansk Forf., f. 12. Septbr 1865 i Helletofte paa
 Langeland, hvor Faderen, ovenn. R. C., var
@@ -118,7 +118,7 @@ lunefulde og ligesom søgt tilfældige i C.'s
 Produktion.
 <i>J. Cl.</i></chapter>
 
-<chapter name = ”Claussen, Peder”>
+<chapter name="Claussen, Peder">
 <b>Claussen</b> ['klã^us<sub>ə</sub>n], <sp>Peder</sp>, norsk Provst,
 f. 1. Apr. 1545 i Ekersund, d. 15. Oktbr 1614.
 C. gik i Skole i Stavanger og blev ved Faderens Død

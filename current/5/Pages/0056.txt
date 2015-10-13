@@ -36,7 +36,7 @@ ved <sp>Birt</sp>, »Mon. Germ. hist. Auct. ant. X«
 poets</i> [Newcastle 1875]).
 <i>A. B. D.</i></chapter>
 
-<chapter name = ”Claudianus Mamertus”>
+<chapter name="Claudianus Mamertus">
 <b>Claudianus Mamertus,</b> Præst i Vienne, d.
 c. 474, efterlignede sin Ven Apollinaris Sidonius
 i Iver for klassisk Dannelse og blev et af
@@ -47,7 +47,7 @@ Passionshymnen <i>Pange, lingua gloriosi</i> er med
 Urette tillagt ham.
 <i>H. O.</i></chapter>
 
-<chapter name = ”Claudiopolis”>
+<chapter name="Claudiopolis">
 <b>Claudiopolis,</b> opr. <sp>Bithynion</sp>, en By i
 det østlige Bithynien i Lilleasien; den fik sit
 romerske Navn fra Kejser Claudius' Tid.
@@ -58,7 +58,7 @@ Hovedstad i den nyoprettede Provins. Honorias.
 Nu <i>Boli</i>.
 <i>H. A. K.</i></chapter>
 
-<chapter name = ”Claudius (Claudia gens)”>
+<chapter name="Claudius (Claudia gens)">
 <b>Claudius</b> (<sp>Claudia gens</sp>). Der fandtes
 i Rom to Claudiske Slægter, den ene patricisk,
 den anden plebejisk; af den sidste var
@@ -128,7 +128,7 @@ paa sit Liv. (<sp>Litt</sp>.: <sp>Mommsen</sp>, »Die
 patricischen C.« [i »Römische Forschungen«, I]).
 <i>Kr. E.</i></chapter>
 
-<chapter name = ”Claudius (romerske Kejsere)”>
+<chapter name="Claudius (romerske Kejsere)">
 <b>Claudius</b> (<sp>romerske Kejsere</sp>).
 
 1) <sp>Tiberius Claudius Nero</sp>, se

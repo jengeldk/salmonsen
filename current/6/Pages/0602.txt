@@ -77,11 +77,11 @@ Præparatet som Sprængmiddel. <sp>(Litt.</sp>: <sp>Trauzl</sp>,
 »Die neuen Sprengstoffe« [Wien 1885]).
 <i>H. H.</i></chapter>
 
-<chapter name=”Dynamitard”>
+<chapter name="Dynamitard">
 <b>Dynamitard,</b> Attentatudøver, der benytter
 Dynamit e. a. Sprængstoffer som Vaaben.</chapter>
 
-<chapter name=”Dynamitkanoner”>
+<chapter name="Dynamitkanoner">
 <b>Dynamitkanoner</b> kaldes nogle navnlig i
 Amerika (af <sp>Zalinsky</sp>) konstruerede
 Kanoner, ved hvilke man vilde opnaa at kunne
@@ -95,7 +95,7 @@ har imidlertid ikke opnaaet nogen alm.
 Udbredelse.
 <i>H. H.</i></chapter>
 
-<chapter name=”Dynamo”>
+<chapter name="Dynamo">
 <b>Dynamo,</b> Forkortelse af
 <sp>dynamoelektrisk Maskine</sp>, benyttes opr. som Betegnelse
 for en Jernstrømsgenerator, der selv sender

@@ -9,7 +9,7 @@ og Metode. <sp>(Litt.</sp>: <sp>Bursian</sp>, »Gesch. der
 klass. Philologie in Deutschland« II, 749 ff.).
 <i>A. B. D.</i></chapter>
 
-<chapter name=”dødfødt”>
+<chapter name="dødfødt">
 <b>dødfødt</b> kaldes ethvert Barn, der kommer
 til Verden efter den 28. Svangerskabsuge som
 dødt ell. skindødt uden at blive kaldt til Live.
@@ -65,7 +65,7 @@ Statistikken ved Dødfødsler, se
 <sp>Fødselsstatistik</sp>.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Dødgang”>
+<chapter name="Dødgang">
 <b>Dødgang,</b> den Bevægelse for et Værktøj ell.
 en Værktøjsmaskine, under hvilken den ikke
 arbejder, og hvis Retning er modsat
@@ -81,7 +81,7 @@ Gittersav og Bloksav, med de rundgaaende Cirkelsav
 og Baandsav, der arbejder uden D.
 <i>F. W.</i></chapter>
 
-<chapter name=”Dødhoved”>
+<chapter name="Dødhoved">
 <b>Dødhoved</b> kaldes det Stykke Metal, som
 sidder paa Støbestykket, naar det tages ud af
 Formen, og som derpaa borttages, da det kun
@@ -109,18 +109,18 @@ gøres denne af Sand, selv om Hovedformen er en
 Kokille.
 <i>F. W.</i></chapter>
 
-<chapter name=”død Kapital”>
+<chapter name="død Kapital">
 <b>død Kapital,</b> en Kapital, der ikke for Tiden
 kan finde nogen produktiv Anvendelse og derfor
 heller ikke give noget Udbytte.</chapter>
 
-<chapter name=”død Konto”>
+<chapter name="død Konto">
 <b>død Konto,</b> se <sp>Bogholderi</sp>.</chapter>
 
-<chapter name=”Dødkuller”>
+<chapter name="Dødkuller">
 <b>Dødkuller,</b> se <sp>Kuller</sp>.</chapter>
 
-<chapter name=”dødmalet”>
+<chapter name="dødmalet">
 <b>dødmalet</b> siges et Stof at være, naar det er
 malet saa fint, at det ikke egner sig til det,
 som det skulde benyttes til efter en passende
@@ -128,14 +128,14 @@ Maling, f. Eks. Klude ell. Træstof, der er for
 fint malet til at kunne give godt Papir.
 <i>K. M.</i></chapter>
 
-<chapter name=”Dødmanden”>
+<chapter name="Dødmanden">
 <b>Dødmanden,</b> Grund i den vestlige Del af
 Svendborg Sund. Over D., paa hvilken den
 mindste Dybde er 1,5 m, fører et Løb, hvori der
 er 4,3 m Vand.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”død Maskine”>
+<chapter name="død Maskine">
 <b>død Maskine</b> er et hyppigt brugt
 Jernbane-Fagudtryk for et Lokomotiv, som fremføres i
 Tog, uden selv at arbejde. Dette sker f. Eks.,
@@ -144,7 +144,7 @@ blevet utjenstdygtigt og skal transporteres fra
 et Sted til et andet.
 <i>G. K.</i></chapter>
 
-<chapter name=”Dødningebille”>
+<chapter name="Dødningebille">
 <b>Dødningebille</b> (<i>Blaps mortisaga</i>), en ofte i
 Kældere, Kasematter o. l. St. optrædende stor,
 sort Bille, hørende til Heteromerernes Orden.
@@ -152,26 +152,26 @@ Et betydeligt Antal nærbeslægtede Former af
 ikke ringe Størrelse findes i Troperne.
 <i>C. W.-L.</i></chapter>
 
-<chapter name=”Dødningehaand”>
+<chapter name="Dødningehaand">
 <b>Dødningehaand,</b> se <sp>Koraller</sp>.</chapter>
 
-<chapter name=”Dødningehoved”>
+<chapter name="Dødningehoved">
 <b>Dødningehoved,</b> se <sp>Aftensværmere</sp>.</chapter>
 
-<chapter name=”Dødningeur”>
+<chapter name="Dødningeur">
 <b>Dødningeur,</b> se <sp>Borebille</sp>.</chapter>
 
-<chapter name=”død og magtesløs”>
+<chapter name="død og magtesløs">
 <b>død og magtesløs,</b> se <sp>Mortifikation</sp>.</chapter>
 
-<chapter name=”Dødpunkt”>
+<chapter name="Dødpunkt">
 <b>Dødpunkt,</b> se <sp>Dampmaskine</sp>.</chapter>
 
-<chapter name=”Dødsaarsager”>
+<chapter name="Dødsaarsager">
 <b>Dødsaarsager,</b> se
 <sp>Dødelighedsstatistik</sp>.</chapter>
 
-<chapter name=”Dødsanmeldelse”>
+<chapter name="Dødsanmeldelse">
 <b>Dødsanmeldelse.</b> Iflg. Skifteloven af 30.
 November 1874 §§ 1-3 skal der - under
 Bødestraf i Undladelse stilfælde - naar nogen afgaar

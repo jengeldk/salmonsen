@@ -19,7 +19,7 @@ Flodhavn og staar i Dampskibsforbindelse med
 Rouen.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Elbfas, Jakob Henrik”>
+<chapter name="Elbfas, Jakob Henrik">
 <b>Elbfas</b> ['ælp-], <sp>Jakob Henrik</sp>,
 Portrætmaler, f. i Livland, d. 1664 i Sthlm. Hans
 Virksomhed er knyttet til Sverige, hvis Kunst han
@@ -41,7 +41,7 @@ uomtvistelig E.'s Værk er et Portræt af Grevinde Beata
 de la Gardie.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Elbing”>
+<chapter name="Elbing">
 <b>Elbing</b> ['ælbeŋ], By i Kongeriget Preussen,
 Prov. Vestpreussen, ligger ved den sejlbare
 Flod E., 8 km fra dens Munding i frische Haff,
@@ -76,7 +76,7 @@ skiftede den Besidder, indtil den endelig 1772
 tilfaldt Preussen.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Elbingerode”>
+<chapter name="Elbingerode">
 <b>Elbingerode</b> ['ælbeŋ<sub>ə</sub>.d<sub>ə</sub>], By i Kongeriget
 Preussen, Prov. Hannover, ligger mellem de
 nordvestlige Udløbere af Harzen, 442 m o. H.,
@@ -86,7 +86,7 @@ Indb. Der drives betydelig Bjergværksdrift
 store Jernværker.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Elbing-Oberlands Kanal”>
+<chapter name="Elbing-Oberlands Kanal">
 <b>Elbing-Oberlands Kanal</b> ['ælbeŋ-'o.b<sub>ə</sub>r
 lants-) forbinder Oberland samt de her
 liggende Søer og Skovstrækninger med Havne- og
@@ -123,10 +123,10 @@ Min. Aarlig befordres ad denne Kanal c. 2-3000
 Skibe.
 <i>(C. Ph. T.). J. M.-P.</i></chapter>
 
-<chapter name=”Elbistan”>
+<chapter name="Elbistan">
 <b>Elbistan,</b> se <sp>Albistan</sp>.</chapter>
 
-<chapter name=”Elbo, Herred”>
+<chapter name="Elbo, Herred">
 <b>Elbo,</b> <sp>Herred</sp>, i det sydøstlige Jylland, det
 mindste i Vejle Amt, udgør den yderste, østlige
 Del af den Halvø, der skyder ud i Lille Bælt

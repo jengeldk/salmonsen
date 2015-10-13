@@ -51,13 +51,13 @@ forholdsvis kort Vej naa fra et højt til et lavt
 Lufttryk.
 <i>D. la C.</i></chapter>
 
-<chapter name=”Cyklone”>
+<chapter name="Cyklone">
 <b>Cyklone,</b> se <sp>Støvsamler</sp>.</chapter>
 
-<chapter name=”Cyklopflynder”>
+<chapter name="Cyklopflynder">
 <b>Cyklopflynder,</b> se <sp>Flynderfisk</sp>.</chapter>
 
-<chapter name=”Cyklopi”>
+<chapter name="Cyklopi">
 <b>Cyklopi,</b> medfødt Misdannelse, hvor de 2
 Øjne er ell. synes sammensmeltede til eet omtr. i
 Midtlinien liggende Øje. Næsen (ydre og indre)
@@ -68,7 +68,7 @@ Fostre (som oftest kvindelige) fødes hyppigst for
 tidlig og dør stedse snart efter Fødslen.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Cyklop-Øerne”>
+<chapter name="Cyklop-Øerne">
 <b>Cyklop-Øerne,</b> ital. <i>Scogli de Ciclopi</i> eller
 <i>Faraglioni</i>, 7 Basaltklipper, der ligger ved
 Siciliens Østkyst S. f. Byen Aci reale. Iflg.
@@ -76,10 +76,10 @@ Sagnet blev C. af den blinde Polyfem slynget mod
 Odysseus.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Cyklorama”>
+<chapter name="Cyklorama">
 <b>Cyklorama</b> (gr.), se <sp>Panorama</sp>.</chapter>
 
-<chapter name=”Cyklus”>
+<chapter name="Cyklus">
 <b>Cyklus</b> (lat. <i>circulus</i>, gr. κύκλος), 1)
 betegner i <sp>Kronologien</sp> det <sp>mindste</sp>
 Antal Aar, efter hvis Forløb visse et Kalenderaar
@@ -117,7 +117,7 @@ Stranddannelser, svarende til Havets forskellige
 Dybder under C.'s Forløb.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Cylinder (mat.)”>
+<chapter name="Cylinder (mat.)">
 <b>Cylinder</b> (<sp>mat</sp>.). Ved C. forstaas i daglig
 Tale hyppigst et Legeme (se Fig.)
 begrænset af to Uge store Cirkler (C.'s Endeflader),

@@ -1,17 +1,17 @@
 <chapter name="Dampspil">
 <b>Dampspil,</b> se <sp>Spil</sp>.</chapter>
 
-<chapter name=”Dampsporvogn”>
+<chapter name="Dampsporvogn">
 <b>Dampsporvogn,</b> se <sp>Sporveje</sp>.</chapter>
 
-<chapter name=”Dampsprøjte”>
+<chapter name="Dampsprøjte">
 <b>Dampsprøjte,</b> se
 <sp>Brandslukningsredskaber</sp>.</chapter>
 
-<chapter name=”Dampsterilisation”>
+<chapter name="Dampsterilisation">
 <b>Dampsterilisation,</b> se <sp>Desinfektion</sp>.</chapter>
 
-<chapter name=”Dampt, Jean Auguste”>
+<chapter name="Dampt, Jean Auguste">
 <b>Dampt</b> [dã], <sp>Jean Auguste</sp>, fr.
 Billedhugger, f. i Vénarey (Côte-d'Or) 1854. Han blev
 uddannet i Dijon og i Paris under Jouffroy og
@@ -33,13 +33,13 @@ kunstindustrielle Virksomhed til gode. For Hotel
 de Ville i Paris skabte D. en Statue af Boulle.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Damptromle”>
+<chapter name="Damptromle">
 <b>Damptromle,</b> se <sp>Tromle</sp>.</chapter>
 
-<chapter name=”Damptrykmaaler”>
+<chapter name="Damptrykmaaler">
 <b>Damptrykmaaler,</b> se <sp>Manometer</sp>.</chapter>
 
-<chapter name=”Damptrykregulator”>
+<chapter name="Damptrykregulator">
 <b>Damptrykregulator</b> er et Apparat til
 automatisk at forøge ell. formindske
 Varmeudviklingen fra Risten i en Dampkedel, efter som
@@ -54,10 +54,10 @@ kun Anvendelse ved mindre Kedler, f. Eks. til
 Varmeanlæg o. l.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Damptrøje”>
+<chapter name="Damptrøje">
 <b>Damptrøje,</b> se <sp>Dampmaskine</sp>.</chapter>
 
-<chapter name=”Dampturbiner”>
+<chapter name="Dampturbiner">
 <b>Dampturbiner</b> er Dampmaskiner, i hvilke
 den i Damp værende Varmeenergi først
 omsættes til Bevægelsesenergi og derpaa til

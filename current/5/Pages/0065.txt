@@ -18,28 +18,28 @@ forøgede meget betydeligt Kendskabet til
 Grønlands Østkyst mellem 73° og 75° 20' n. Br.
 <i>G. F. H.</i></chapter>
 
-<chapter name = ”Claves St Petri”>
+<chapter name="Claves St Petri">
 <b>Claves St Petri</b> (lat), »den hellige Petrus'
 Nøgler« ɔ: Kirkens Magtfylde, Nøglemagt (s. d.).</chapter>
 
-<chapter name = ”Clavicembalo”>
+<chapter name="Clavicembalo">
 <b>Clavicembalo</b> [-'t∫em-], en af Forløberne for
 vort Moderne Klaver.</chapter>
 
-<chapter name = ”Claviceps”>
+<chapter name="Claviceps">
 <b>Claviceps,</b> se <sp>Meldrøjesvamp</sp>.</chapter>
 
-<chapter name = ”Clavichord”>
+<chapter name="Clavichord">
 <b>Clavichord,</b> en af Forløberne for vort moderne
 Klaver.</chapter>
 
-<chapter name = ”Clavicornia”>
+<chapter name="Clavicornia">
 <b>Clavicornia,</b> se <sp>Køllehornede</sp>.</chapter>
 
-<chapter name = ”Clavicula”>
+<chapter name="Clavicula">
 <b>Clavicula,</b> d. s. s. <sp>Nøgleben</sp>.</chapter>
 
-<chapter name = ”Clavière”>
+<chapter name="Clavière">
 <b>Clavière</b> [kla'v<sub>i</sub>æ.r], <sp>Étienne</sp>, fr.
 Finansmand og Revolutionspolitiker, f. i Genève 1735,
 d. i Paris 8. Decbr 1793. Han maatte forlade
@@ -65,14 +65,14 @@ ham, stødte han sig en Kniv i Hjertet for at
 undgaa Guillotinen.
 <i>P. L. M.</i></chapter>
 
-<chapter name = ”Claviger”>
+<chapter name="Claviger">
 <b>Claviger,</b> se <sp>Køllebille</sp>.</chapter>
 
-<chapter name = ”Clavijo, Ruy González de”>
+<chapter name="Clavijo, Ruy González de">
 <b>Clavijo</b> [kla'wik<sub>å</sub>], <sp>Ruy González de</sp>,
 se <sp>González de Clavijo, Ruy</sp>.</chapter>
 
-<chapter name = ”Clavijo y Fajardo, José”>
+<chapter name="Clavijo y Fajardo, José">
 <b>Clavijo y Fajardo</b> [kla'wik<sub>å</sub>-i-fa'kard<sub>å</sub>],
 <sp>José</sp>, sp. Forf., f. paa de kanariske Øer 1730,
 d. i Madrid 1806. Han var anset som et godt
@@ -119,7 +119,7 @@ meget godt - Buffon's Naturhistorie paa Spansk
 (12 Bd., Madrid 1785-90).
 <i>E. G.</i></chapter>
 
-<chapter name = ”Clavis”>
+<chapter name="Clavis">
 <b>Clavis</b> (lat.: »Nøgle«) anvendes - ell.
 anvendtes - i den musikalske Terminologi i
 mange forskellige Betydninger. Oprindelig var
@@ -143,7 +143,7 @@ Hjælp af hvilken det øverste Bælgbord hæves,
 for C. (Bælgclavis).
 <i>S. L.</i></chapter>
 
-<chapter name = ”Clavius, Christopher”>
+<chapter name="Clavius, Christopher">
 <b>Clavius,</b> <sp>Christopher</sp> (1537-1612), Jesuit
 og Lærer i Matematik først i Coimbra, senere
 ved Jesuiterkollegiet i Rom, er især bekendt ved
@@ -154,7 +154,7 @@ Arbejder er samlede i <i>Opera mathematica</i> (5 Bd,
 1612).
 <i>J. Fr. S.</i></chapter>
 
-<chapter name = ”clavus”>
+<chapter name="clavus">
 <b>clavus</b> (lat.), farvet og stundom mønstret
 Besætning paa Klædningsstykker i Oldtiden;
 særlig betegnes ved c. en paasyet ell. indvævet,

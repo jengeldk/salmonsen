@@ -55,7 +55,7 @@ ved Warthe-Floden 268 ha, ved Loire-Floden
 endvidere <sp>Digelovgivning</sp>.
 <i>(C. Ph. T.). J. M-P.</i></chapter>
 
-<chapter name=”Digel”>
+<chapter name="Digel">
 <img></img>
 <b>Digel,</b> Kar af forsk. Materiale til at udføre
 Glødninger og Smeltninger. I det kem.
@@ -124,7 +124,7 @@ Smeltetemperaturen er høj, som ved
 Staalsmeltning.
 <i>F. W.</i></chapter>
 
-<chapter name=”Digelovgivning”>
+<chapter name="Digelovgivning">
 <b>Digelovgivning.</b> Den danske Rets Regler om
 Diger stammer fra den nyere Tid. Efter den
 store Stormflod Efteraaret 1872 fremsatte

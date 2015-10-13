@@ -38,10 +38,10 @@ gælder. (Om D.'s Historie og Litt. se <sp>Wiener</sp>,
 Leipzig 1884]).
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Deskvamation”>
+<chapter name="Deskvamation">
 <b>Deskvamation,</b> se <sp>Afskalning</sp>.</chapter>
 
-<chapter name=”Deslandres, Henri Alexandre”>
+<chapter name="Deslandres, Henri Alexandre">
 <b>Deslandres</b> [dæ'lã.dr], <sp>Henri Alexandre</sp>,
 fr. Astrofysiker, f. 24. Juli 1853 i Paris, ansattes
 1889 ved Observatoriet i Paris, hvor han 1890
@@ -63,7 +63,7 @@ for hans spektroskopiske Arbejder, og det eng.
 astron. Selskab 1913 sin Guldmedaille.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Desman”>
+<chapter name="Desman">
 <b>Desman</b> (<i>Myogale</i>), en lille Pattedyrslægt af
 Insektædernes Orden, henhørende til
 Muldvarpefamilien. I deres Ydre ligner disse Dyr

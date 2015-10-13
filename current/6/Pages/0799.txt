@@ -8,13 +8,13 @@ mellem Tingenes begrebsmæssige og deres
 empiriske E.
 <i>W. N.</i></chapter>
 
-<chapter name=”Egenskabsord”>
+<chapter name="Egenskabsord">
 <b>Egenskabsord,</b> d. s. s. <sp>Adjektiv</sp>.</chapter>
 
-<chapter name=”Egensund”>
+<chapter name="Egensund">
 <b>Egensund,</b> se <sp>Egernsund</sp>.</chapter>
 
-<chapter name=”Egens Vig”>
+<chapter name="Egens Vig">
 <b>Egens Vig,</b> i den nordøstlige Del af <sp>Kalø
 Vig</sp> N. f. Aarhus. I Mundingen af Vigen og
 næsten i hele dens Bredde ligger den store
@@ -23,10 +23,10 @@ Indløb. Vigen har en Dybde af c. 5 m og
 afgiver en god Ankerplads.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Egensvingning”>
+<chapter name="Egensvingning">
 <b>Egensvingning,</b> se <sp>Radiotelegrafi</sp>.</chapter>
 
-<chapter name=”Egentone”>
+<chapter name="Egentone">
 <b>Egentone</b> er den for en Sproglyd
 ejendommelige Tone, der bidrager til akustisk at
 karakterisere den; den frembringes i Mundhulen og er
@@ -37,7 +37,7 @@ naar vedk. Lyd frembringes hvisket. Se i øvrigt
 <sp>Konsonant</sp>, <sp>Vokal</sp>.
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”egen Veksel”>
+<chapter name="egen Veksel">
 <b>egen Veksel,</b> et Dokument, hvorved
 Udstederen under Vekselform forpligter sig til selv
 at betale en Pengesum - i Modsætning til
@@ -56,7 +56,7 @@ bestaaende Forbud mod Udstedelse af
 Pengerepræsentativer, der lyder paa Ihændehaver.
 <i>(E. M.). C. Th.</i></chapter>
 
-<chapter name=”Egenvægt”>
+<chapter name="Egenvægt">
 <b>Egenvægt,</b> 1) d. s. s. <sp>Vægtfylde</sp>.
 
 2) er den Del af en bærende Konstruktions
@@ -74,7 +74,7 @@ sidst er det E., der sætter en Grænse for den
 overhovedet opnaaelige Spændvidde.
 <i>A. O-d.</i></chapter>
 
-<chapter name=”Egenæs Hage”>
+<chapter name="Egenæs Hage">
 <b>Egenæs Hage,</b> Issefjord, skyder sig fra
 Lammefjords Nordside over 1 Sm. ud fra Land.
 Den bestaar af Sand og Sten, over hvilke der
@@ -83,7 +83,7 @@ den store Stenrøse Rønnen, der er tør ved
 Lavvande.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Eger, 2 Floder”>
+<chapter name="Eger, 2 Floder">
 <b>Eger</b> ['e.g<sub>ə</sub>r], 1) (tschk. <sp>Ohre</sp>) Biflod til
 Elben, udspringer i det nordøstlige Hjørne af
 Bayern paa Fichtelgebirge i Nærheden af
@@ -98,7 +98,7 @@ gennem Württemberg og Bayern og naar en
 Længde af 52 km.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eger, By”>
+<chapter name="Eger, By">
 <b>Eger</b> ['e.g<sub>ə</sub>r]. By i Böhmen, ligger 8 km fra
 den bayerske Grænse ved den østlige Fod af
 Fichtelgebirge og paa højre Bred af Elbens
@@ -128,16 +128,16 @@ Geschichte der deutschen Reichsstadt E. und das
 Reicnsgebietes Egerland« [Leipzig 1875]).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eger, se Erlau”>
+<chapter name="Eger, se Erlau">
 <b>Eger</b> ['e.g<sub>ə</sub>r], se <sp>Erlau</sp>.</chapter>
 
-<chapter name=”Egeran”>
+<chapter name="Egeran">
 <b>Egeran,</b> d. s. s. <sp>Vesuvian</sp>.</chapter>
 
-<chapter name=”Egerdir”>
+<chapter name="Egerdir">
 <b>Egerdir,</b> se <sp>Ejer dir Gøl</sp>.</chapter>
 
-<chapter name=”Egeria”>
+<chapter name="Egeria">
 <b>Egeria,</b> rom. Kildegudinde, som dyrkedes i
 Diana's Helligdom ved Aricia og i en Lund ved
 Via Appia uden for Porta Capena, det sidste
@@ -154,7 +154,7 @@ sig til E.'s Kilde, ell. som opfundet af Numa
 selv for at skaffe hans Bestemmelser Respekt.
 <i>C. B.</i></chapter>
 
-<chapter name=”Egern”>
+<chapter name="Egern">
 <b>Egern</b> (<i>Sciurus</i>), en stor og artsrig Slægt
 inden for Gnavernes Orden. E. har som Regel
 kort og meget bredpandet Hoved med oftest

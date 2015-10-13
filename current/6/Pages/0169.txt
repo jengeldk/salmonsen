@@ -7,7 +7,7 @@ ogsaa i Rekonvalescensen og ved Behandlingen
 af Lamhederne.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Difteri (hos Husdyrene)”>
+<chapter name="Difteri (hos Husdyrene)">
 <b>Difteri</b> (<sp>hos Husdyrene</sp>). Difteritiske
 Processer forekommer jævnlig hos fl. af vore
 Husdyr. De optræder, dels <sp>symptomatisk</sp>
@@ -30,10 +30,10 @@ Aarsagsforholdet en Væsensforskel mellem Menneskets
 D. og de difteritiske Processer hos Dyrene.
 <i>G. S.</i></chapter>
 
-<chapter name=”Difteriantitoksin”>
+<chapter name="Difteriantitoksin">
 <b>Difteriantitoksin,</b> se <sp>Difteriserum</sp>.</chapter>
 
-<chapter name=”Difteriserum”>
+<chapter name="Difteriserum">
 <b>Difteriserum.</b> Ved Serum (Blodvædske)
 forstaas den fra Blodets formede Elementer
 (røde og hvide Blodlegemer, Blodplader)

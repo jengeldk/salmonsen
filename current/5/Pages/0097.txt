@@ -12,16 +12,16 @@ Anvendelse af Cocabladene hos Sydamerikas
 Bjergboere.
 <i>(A. B.). E. K.</i></chapter>
 
-<chapter name=”Cocainisme”>
+<chapter name="Cocainisme">
 <b>Cocainisme,</b> se <sp>Cocain</sp>.</chapter>
 
-<chapter name=”Cocanada”>
+<chapter name="Cocanada">
 <b>Cocanada</b> [ko<sub>u</sub>k<sub>ə</sub>'na.d<sub>a</sub>], se <sp>Kakinada</sp>.</chapter>
 
-<chapter name=”Cocaplanten”>
+<chapter name="Cocaplanten">
 <b>Cocaplanten,</b> se <sp>Erythroxylon</sp>.</chapter>
 
-<chapter name=”Cocceji”>
+<chapter name="Cocceji">
 <b>Cocceji</b> [ko't∫e.ji], <sp>Samuel von</sp>, preuss.
 Statsmand (1679-1755). 1702 blev C. Professor
 i Frankfurt a. d. O. og udfoldede som saadan en
@@ -52,7 +52,7 @@ Springer</sp>, »Die Coccejische Justizreform«
 [München og Leipzig 1914]).
 <i>Fz. D.</i></chapter>
 
-<chapter name=”Coccejus, Johannes”>
+<chapter name="Coccejus, Johannes">
 <b>Coccejus</b> [kå'kæj<sub>ö</sub>s], <sp>Johannes</sp>, holl.
 Teolog (1603-69), Prof. i Franeker og senere i
 Leyden. Hans Virksomhed har haft stor Bet.
@@ -81,7 +81,7 @@ fik ikke ringe Bet. ved deres bibelsk-pietistiske
 Forkyndelse og Teologi.
 <i>A. Th. J.</i></chapter>
 
-<chapter name=”Coccidiose”>
+<chapter name="Coccidiose">
 <b>Coccidiose</b> [kåksi-], Sygdom fremkaldt af
 Coccidier (en Gruppe af Sporozoer). Coccidier
 forekommer hos saa at sige alle Klasser af
@@ -134,16 +134,16 @@ Dette hører dog til Sjældenhederne og synes
 aldrig at foraarsage alvorlig Sygdom.
 <i>O. T.</i></chapter>
 
-<chapter name=”Coccidium”>
+<chapter name="Coccidium">
 <b>Coccidium</b> [kåk'si'-], se <sp>Sporozoer</sp>.</chapter>
 
-<chapter name=”Coccidæ”>
+<chapter name="Coccidæ">
 <b>Coccidæ</b> [kåk'si.dæ], se <sp>Skjoldlus</sp>.</chapter>
 
-<chapter name=”Coccinellidæ”>
+<chapter name="Coccinellidæ">
 <b>Coccinellidæ</b> ['kåksi-], se <sp>Mariehøns</sp>.</chapter>
 
-<chapter name=”Coccius, Ernst Adolf”>
+<chapter name="Coccius, Ernst Adolf">
 <b>Coccius</b> ['kåkius], <sp>Ernst Adolf</sp>, tysk
 Læge (1825-90), <i>Dr. med.</i> 1848 og rejste
 derefter til Prag og Paris for at studere

@@ -5,7 +5,7 @@ Ogsaa i Dominion of Canada benævnes det
 valgte Kammer <i>House of Commons</i>.
 <i>K. B.</i></chapter>
 
-<chapter name=”Commonwealth”>
+<chapter name="Commonwealth">
 <b>Commonwealth</b> ['kåm<sub>ə</sub>nwe£þ] (eng.) (egl.
 Almenvel, omtr. svarende til lat. <i>res publica</i>)
 betegner i Englands Historie den eng. Stat i
@@ -17,22 +17,22 @@ Australia</i> er Navnet paa den af de australske
 Kolonier dannede Forbundsstat af 1. Jan. 1901.
 <i>C. W. W.</i></chapter>
 
-<chapter name=”commotio cerebri”>
+<chapter name="commotio cerebri">
 <b>commotio cerebri,</b> lat. Navn for
 Hjernerystelse.</chapter>
 
-<chapter name=”commune naufragium”>
+<chapter name="commune naufragium">
 <b>commune naufragium</b> (lat.), fælles
 Skibbrud; <i>c. n. dúlce</i>, »fælles Skibbrud er en Trøst«,
 det er lettere at bære Ulykken, naar man er fl.
 om den.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”communio incidens”>
+<chapter name="communio incidens">
 <b>communio incidens</b> (lat.), rom. tekn. Udtryk
 for det saakaldte tilfældige <sp>Sameje</sp>.</chapter>
 
-<chapter name=”Communiqué”>
+<chapter name="Communiqué">
 <b>Communiqué</b> [kåmyni'ke] (fr.), Meddelelse,
 snart underrettende, snart berigtigende,
 udgaaende fra en Regering til Gesandtskaberne i
@@ -40,7 +40,7 @@ Udlandet ell. til andre Regeringer ell. til
 Pressen.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Como”>
+<chapter name="Como">
 <b>Como,</b> Prov. i Norditalien, omfatter Landet
 ved Comosøen, strækker sig mod V. til Lago
 Maggiore og begrænses mod N. af Schweiz
@@ -91,13 +91,13 @@ Paverne Klemens XIII og Innocens XI samt
 Fysikeren Volta.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”comodo”>
+<chapter name="comodo">
 <b>comodo</b> ['kå-] (<sp>comodamente</sp>) (ital.),
 bekvem; <i>a suo c.</i>, mus. Foredragsbetegnelse,
 efter Behag.
 <i>S. L.</i></chapter>
 
-<chapter name=”Comonfort, Ignacio”>
+<chapter name="Comonfort, Ignacio">
 <b>Comonfort</b> [kåmån'fårt], <sp>Ignacio</sp>,
 Præsident i Meksiko 1855-58 (1812-63), tog allerede
 1832 Del i en Opstand og blev Kaptajn i
@@ -122,7 +122,7 @@ de fr. Tropper, men blev næste Aar dræbt af en
 Friskare.
 <i>E. E.</i></chapter>
 
-<chapter name=”Comorerne”>
+<chapter name="Comorerne">
 <b>Comorerne,</b> <i>Ilhas de Comaro</i>, en af 4 Øer
 bestaaende fr. Øgruppe i den nordlige Del af
 Mosambikkanalen mellem Madagaskars
@@ -153,11 +153,11 @@ af Frankrig og erklæret for Koloni, de øvrige
 Generalguvernementet Madagaskar.
 <i>C. A.</i></chapter>
 
-<chapter name=”Comorin”>
+<chapter name="Comorin">
 <b>Comorin</b> ['kåm<sub>ə</sub>ri.n (ell. -'ri.n'], Kap,
 Forbjerg, som danner Sydspidsen af Forindien.</chapter>
 
-<chapter name=”Como-Søen”>
+<chapter name="Como-Søen">
 <b>Como-Søen,</b> <sp>Lago di Como</sp> ell. <sp>Lario</sp>,
 Romernes <i>Lacus larius</i>, Sø i Norditalien,
 Lombardiet, strækker sig fra Foden af Adula- og

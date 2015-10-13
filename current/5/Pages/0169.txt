@@ -4,7 +4,7 @@ herom for dansk Rets Vedk. L. Nr. 103 af 29. Apr.
 1913.
 <i>E. T.</i></chapter>
 
-<chapter name=”Compère, Loyset”>
+<chapter name="Compère, Loyset">
 <b>Compère</b> [kå'pæ.r], <sp>Loyset</sp>, berømt
 nederlandsk Kontrapunktiker, d. 1518 som Kanonikus
 ved Katedralen i St Quentin. Det blødt-inderlige
@@ -14,13 +14,13 @@ Romantikeren bl. de gamle Kontrapunktikere. Hans
 Værker er meget sjældne.
 <i>A. H.</i></chapter>
 
-<chapter name=”compiacevole”>
+<chapter name="compiacevole">
 <b>compiacevole</b> [komp<sub>i</sub>a't∫evole] (ital.), mus.
 Foredragsbetegnelse: behagelig, med elskværdigt
 Udtryk.
 <i>S. L.</i></chapter>
 
-<chapter name=”Compiègne”>
+<chapter name="Compiègne">
 <b>Compiègne</b> [kå'p<sub>i</sub>æn<sub>j</sub> (ogsaa -'p<sub>i</sub>æn)], By i
 det nordlige Frankrig, Dept Oise, Hovedstad i
 <sp>Arrondissementet C.</sp>, smukt liggende
@@ -56,7 +56,7 @@ og under Verdenskrigen var den besat af tyske
 Tropper 31. Aug.-12. Septbr 1914.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”compilatio”>
+<chapter name="compilatio">
 <b>compilatio</b> (lat.), se <sp>kompilere</sp>. -
 <i>Quinque compilationes</i> kaldes fem fra Slutn. af
 12. og Beg. af 13. Aarh. stammende Samlinger
@@ -70,7 +70,7 @@ ligger til Grund for <i>Decretales Gregorii IX</i> (se
 <sp>kanonisk Ret</sp>).
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Compitalia”>
+<chapter name="Compitalia">
 <b>Compitalia</b> (lat.), i Oldtiden en Folkefest af
 landlig Karakter, fejret ved de Altre og
 Smaahelligdomme, der ved Korsvejene var indviede
@@ -82,7 +82,7 @@ i Republikkens Tid om Vinteren, først i Jan.,
 snart efter Saturnalierne.
 <i>H. A. K.</i></chapter>
 
-<chapter name=”Compitum”>
+<chapter name="Compitum">
 <b>Compitum</b> (lat.), i Oldtiden Betegnelse for
 Korsvejen, Stedet, hvor fl. Veje mødes. Saadanne
 Steder regnedes fra gl Tid især bl.
@@ -94,7 +94,7 @@ C. kendes ogsaa fra Rom,, og i Pompeji er et
 Alter bevaret.
 <i>H. A. K.</i></chapter>
 
-<chapter name=”Compluvium”>
+<chapter name="Compluvium">
 <b>Compluvium</b> (lat.), ejendommelig, oprindelig
 etruskisk Del af de fleste rom. Privathuse i
 Oldtiden, en rektangulær ell. sjældnere kvadratisk
@@ -117,21 +117,21 @@ mod Tyve.
 <img>Compluvium.
 »Den tragiske Digters Hus«, Pompeji.</img> 
 
-<chapter name=”compo-board”>
+<chapter name="compo-board">
 <b>compo-board</b> ['kåmpo<sub>u</sub>-'bå.<sub>ə</sub>d] er tynde
 Plader, sammenlimede af tyndt Træ og Papir.
 Bruges til Skabe og lette Vægge.
 <i>E. Su.</i></chapter>
 
-<chapter name=”compositum”>
+<chapter name="compositum">
 <b>compositum</b> (lat.), noget sammensat;
 sammensat Ord; <i>composita</i>, sammensatte
 Lægemidler; <i>mixtum c.</i>, Miskmask.</chapter>
 
-<chapter name=”Compositæ”>
+<chapter name="Compositæ">
 <b>Compositæ,</b> se <sp>Kurvblomstrede</sp>.</chapter>
 
-<chapter name=”compos mentis”>
+<chapter name="compos mentis">
 <b>compos mentis,</b> at være ved sin Fornufts
 Brug, er et Retsudtryk for, at en Person har
 den sædvanlige Handleevne og ikke mangler
@@ -139,16 +139,16 @@ den p. Gr. a. ung Alder, Sindssygdom ell.
 forbigaaende abnorme Sjælstilstande.
 <i>V. B.</i></chapter>
 
-<chapter name=”compossessio”>
+<chapter name="compossessio">
 <b>compossessio</b> (lat.), Sambesiddelse, naar flere
 i Fællesskab besidder en Ting.
 <i>K. B.</i></chapter>
 
-<chapter name=”Compostella”>
+<chapter name="Compostella">
 <b>Compostella</b> [kåmpå'stæl<sub>j</sub>a], se <sp>Santiago
 de C</sp>.</chapter>
 
-<chapter name=”Compounddynamo”>
+<chapter name="Compounddynamo">
 <b>Compounddynamo</b> [k<sub>å</sub>m'pa^und-] er en
 Dynamo, hvis Feltmagneter har to Beviklinger,
 en af forholdsvis tynd Traad og med mange

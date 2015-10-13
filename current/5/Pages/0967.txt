@@ -29,7 +29,7 @@ profan ell. religiøs Anvendelse, er usikkert
 
 <img>Dejbjergvogn, sammenstillet.</img>
 
-<chapter name=”Dejean, Pierre François Aimé”>
+<chapter name="Dejean, Pierre François Aimé">
 <b>Dejean</b> [d<sub>ö</sub>'зã], <sp>Pierre François Aimé</sp>
 Greve, fr. General og Entomolog (1780-1845),
 studerede først Medicin, men slog allerede i en
@@ -53,13 +53,13 @@ Billedværk <i>Iconographie des Coléoptères d'Europe</i>
 <i>(J. C.). R. H. S.</i>
 </chapter>
 
-<chapter name=”Dejektion”>
+<chapter name="Dejektion">
 <b>Dejektion</b> (lat), Udstødelse; <i>Dejecta</i>,
 Ekskrementerne, Udtømmelserne og hvad der i
 øvrigt stammer fra den Syges Legeme.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Déjerine, Jules”>
+<chapter name="Déjerine, Jules">
 <b>Déjerine</b> [deз'rin], <sp>Jules</sp>, fr. Neurolog,
 f, 3. Aug. 1849, Overlæge ved <i>la Charité</i> 1879,
 Docent 1886, Prof. ved det med. Fakultet i
@@ -82,7 +82,7 @@ gift med Neurologen Mme. D.-Klumpke (se
 <sp>Klumpke</sp>).
 <i>K. H. K.</i></chapter>
 
-<chapter name=”Déjeuner”>
+<chapter name="Déjeuner">
 <b>Déjeuner</b> [desjø'ne, fr. deзø'ne] (fr.), egl.
 hvad man nyder <i>à jeun</i>, paa fastende Hjerte (det
 eng. <i>Breakfast</i>), Frokost.
@@ -96,7 +96,7 @@ spise Frokost. <i>D. dinatoire</i>,
 en kraftig Frokost (med fl. varme Retter), som
 træder i St f. Middagsmaaltidet.</chapter>
 
-<chapter name=”Dejotarus”>
+<chapter name="Dejotarus">
 <b>Dejotarus,</b> Tetrark (ɔ: Fjerdingsfyrste) i
 Galatien. Han sluttede sig baade i Sørøverkrigen
 og i Krigen mod Mithradates til Romerne,
@@ -123,18 +123,18 @@ Lande tilbage. I den flg. Borgerkrig stod han paa
 Cæsar's Morderes Side. Han døde 40.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”Dejrø”>
+<chapter name="Dejrø">
 <b>Dejrø,</b> lille, lav og ubeboet Ø, der ligger
 mellem Ure-Hoved og Ommel-Hoved, 1/2 Sm.
 NØ. f. Ærøskjøbing. V. og Ø. om Øen gaar
 Løbeneind til denne By.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”de jure”>
+<chapter name="de jure">
 <b>de jure,</b> efter Loven, retlig (i Modsætning
 til <i>de facto</i>, faktisk).</chapter>
 
-<chapter name=”Deka”>
+<chapter name="Deka">
 <b>Deka,</b> af det gr. δέκα = ti, sættes foran
 Enhedsbenævnelserne i Metersystemet for at
 betegne 10 Gange Enheden, f. Eks. en

@@ -109,7 +109,7 @@ og det aarlige solgte Antal kWh. beløb sig til
 c. 87 Mill. kWh.
 <i>Cand. polyt. Povl Vinding.</i></chapter>
 
-<chapter name=”Elektricitetskommissionen”>
+<chapter name="Elektricitetskommissionen">
 <b>Elektricitetskommissionen</b> er oprettet i
 Henhold til L. om elektriske Stærkstrømsanlæg
 af 19. Apr. 1907 § 2. Dens Opgave er at
@@ -125,7 +125,7 @@ kvalificeret til at have Sæde i Overretterne, og
 udnævnes for 6 Aar ad Gangen.
 <i>M. G.</i></chapter>
 
-<chapter name=”Elektricitetsmaalere”>
+<chapter name="Elektricitetsmaalere">
 <b>Elektricitetsmaalere</b> er Apparater, som til
 Opgørelse af Betaling af Elektricitetsforbrug
 viser den i en Installation forbrugte elektriske

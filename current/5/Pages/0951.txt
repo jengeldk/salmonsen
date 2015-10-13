@@ -6,7 +6,7 @@ Havn.
 armeret Handelsskib.
 <i>H. E.</i></chapter>
 
-<chapter name=”Defensiv”>
+<chapter name="Defensiv">
 <b>Defensiv</b> er den af de to
 Hovedkampformer, ved hvilken man i Hovedsagen har
 Forsvaret og Bevarelsen af egen Kraft for Øje.
@@ -39,10 +39,10 @@ Omstændighederne tillader det, forstærkes
 Stillingerne ved Kunst.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Defensivalliance”>
+<chapter name="Defensivalliance">
 <b>Defensivalliance</b> [-ali'aŋs<sub>ə</sub>], se <sp>Alliance</sp>.</chapter>
 
-<chapter name=”Defensor”>
+<chapter name="Defensor">
 <b>Defensor,</b> Forsvarer, særlig Forsvarer for
 den under en Straffeproces Anklagede. Skønt
 den gældende danske Straffeproces i det hele
@@ -103,7 +103,7 @@ Sager, hvor der foreligger en af
 Omstændighederne bestyrket, uforbeholden Tilstaaelse.
 <i>E. T.</i></chapter>
 
-<chapter name=”defensor civitatis”>
+<chapter name="defensor civitatis">
 <b>defensor civitatis</b> (lat.: »Borgernes
 Forsvarer«) var i den senere rom. Kejsertid Titlen
 paa en Embedsmand, hvis Hverv det var at

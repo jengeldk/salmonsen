@@ -64,7 +64,7 @@ Wallon</sp>, <i>Notice sur la vie et les travaux de A.
 F.-D.</i> [smst. 1886]).
 <i>(E. G.). C. S. P.</i></chapter>
 
-<chapter name=”Didot-System”>
+<chapter name="Didot-System">
 <b>Didot-System</b> [di'do-], i Bogtrykfaget den
 tekniske Betegnelse for Skrift- ell.
 Typelegemers Indordnen under et Maal, hvis Enhed
@@ -77,7 +77,7 @@ for Didot-Berthold's System ell. Tysk
 Normal-System (se Skriftstørrelser).
 <i>E. S-r.</i></chapter>
 
-<chapter name=”Didrachme”>
+<chapter name="Didrachme">
 <b>Didrachme,</b> Dobbeltdrachme (se <sp>Drachme</sp>)
 var opr. gr. Møntenhed i Oldtiden, svarende til
 den pers. Sølvstater. Normalvægten var 8,73 g;
@@ -85,7 +85,7 @@ Mønten er alm. fra Korinth, Sicilien og det gr.
 Syditalien (Storgrækenland).
 <i>H. A. K.</i></chapter>
 
-<chapter name=”Didrichsen, Didrik Ferdinand”>
+<chapter name="Didrichsen, Didrik Ferdinand">
 <b>Didrichsen,</b> <sp>Didrik Ferdinand</sp>, dansk
 Botaniker, f. 3. Juni 1814 i Kbhvn, d. smst.
 20. Marts 1887. D. tog 1840 Lægeeksamen og

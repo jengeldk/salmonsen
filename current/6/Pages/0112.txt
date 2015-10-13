@@ -69,7 +69,7 @@ de ved Sygdom ell. Alderdom mister deres
 Arbejdsevne.
 <i>F. B.</i></chapter>
 
-<chapter name=”Diakos, Athanasios”>
+<chapter name="Diakos, Athanasios">
 <b>Diakos</b> ['ð<sub>i</sub>akås], <sp>Athanasios</sp>, Helt fra
 den gr. Frihedskrig, f. 1788, opr. Gejstlig, blev
 1821 dræbt af Tyrkerne. D.'s Død er blevet
@@ -77,13 +77,13 @@ forherliget i de nygræske Folkesange og gjort til
 Genstand for dram. Bearbejdelse.
 <i>K. H.</i></chapter>
 
-<chapter name=”Diakrise”>
+<chapter name="Diakrise">
 <b>Diakrise</b> (gr.), Adskillelse, Iagttagelse,
 Bedømmelse og Skelnen (især af Sygdomstilfælde);
 <sp>diakritisk</sp>, tjenende til Bedømmelse af
 rigtig Udtale og rigtig Forstaaelse.</chapter>
 
-<chapter name=”diakritiske Tegn”>
+<chapter name="diakritiske Tegn">
 <b>diakritiske Tegn</b> (gr.), Adskillelsestegn. Man
 bruger Benævnelsen d. T. om Prikker,
 Streger, Krøller, Hager o. l. Mærker, der
@@ -98,15 +98,15 @@ til ny Sprogomraader, naar talte Sprog
 gengives med fonetisk Nøjagtighed o. l.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”diaktinisk”>
+<chapter name="diaktinisk">
 <b>diaktinisk</b> (gr.), gennemtrængelig for kem.
 virksomme Straaler.</chapter>
 
-<chapter name=”Diakustik”>
+<chapter name="Diakustik">
 <b>Diakustik</b> (gr.), Læren om Lydens
 Gennemgang (i Modsætning til dens Tilbagekastning).</chapter>
 
-<chapter name=”Dialekt”>
+<chapter name="Dialekt">
 <b>Dialekt</b> (gr.) gengives ved <sp>Mundart</sp>
 (optaget fra Tysk), <sp>Sprogart</sp> ell., for saa vidt
 det anvendes om Sprog, der tales endnu,

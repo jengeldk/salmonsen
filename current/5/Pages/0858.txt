@@ -17,7 +17,7 @@ Marts 1912« [1912]; <sp>Samme</sp>, »Skolemuseerne
 og de pædagogiske Biblioteker« [1915]).
 <i>Fr. Th.</i></chapter>
 
-<chapter name=”Dansk Skovforening”>
+<chapter name="Dansk Skovforening">
 <b>Dansk Skovforening,</b> stiftet 25. Septbr 1888,
 har til Formaal at »fremme Skovbruget og de
 dertil knyttede Virksomheder«; Stemmeret har
@@ -39,7 +39,7 @@ Skovbestyrer. Fra og med 1916 udgiver Foreningen
 et Tidsskrift.
 <i>C. V. P.</i></chapter>
 
-<chapter name=”Dansk Sløjdforening”>
+<chapter name="Dansk Sløjdforening">
 <b>Dansk Sløjdforening,</b> stiftet 26. Febr 1886,
 har som Maal at bringe Sløjd ɔ: Haandgerning
 afpasset efter Opdragelsens Krav, ind i Skole
@@ -80,7 +80,7 @@ og »Arbejdsstillinger for Sløjdskoler. Et
 Forsøg af Aksel Mikkelsen«).
 <i>Fr. Th.</i></chapter>
 
-<chapter name=”Dansk Sundhedstidende”>
+<chapter name="Dansk Sundhedstidende">
 <b>Dansk Sundhedstidende</b> er et Tidsskrift,
 der begyndte at udkomme 1896, og som optager
 populær-hygiejniske Artikler. Det kaldte sig
@@ -96,7 +96,7 @@ Hovedredaktør, bistaaet af en større Kreds af faste
 Medarbejdere.
 <i>J. S. J.</i></chapter>
 
-<chapter name=”Dansk Tandlægeforening”>
+<chapter name="Dansk Tandlægeforening">
 <b>Dansk Tandlægeforening.</b> Den første
 samlede Optræden fra Tandlægernes Side fandt
 Sted Febr 1871, idet 30 Tandlæger - c. 2/3 af
@@ -136,7 +136,7 @@ Stürup, Odense (valgt 1915); den udgiver
 Tandlægeforenings Meddelelser«.
 <i>E. H-p.</i></chapter>
 
-<chapter name=”Dansk Telegrafforening”>
+<chapter name="Dansk Telegrafforening">
 <b>Dansk Telegrafforening,</b> stiftet 6. Decbr
 1898, Organisation for Telegraftjenestemænd i
 8.-23. Lønningsklasse (de øverste Klasser).
@@ -149,7 +149,7 @@ Centralorganisation (s. d.). Den udgiver »Dansk
 Telegraftidende« (s. d.).
 <i>M. G.</i></chapter>
 
-<chapter name=”Dansk Telegraftidende”>
+<chapter name="Dansk Telegraftidende">
 <b>Dansk Telegraftidende,</b> udkom første Gang
 Jan. 1899, Organ for Dansk Telegrafforening,
 udgives den 10. i hver Maaned i tospaltet

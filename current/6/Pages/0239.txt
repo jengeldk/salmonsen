@@ -28,11 +28,11 @@ af <sp>Drude</sp>, <sp>Lummer</sp> og <sp>Wood</sp> ell.:
 <sp>Winkelmann</sp>, »Handbuch der Physik«).
 <i>H. M. H.</i></chapter>
 
-<chapter name=”Dispondeus”>
+<chapter name="Dispondeus">
 <b>Dispondeus</b> (gr.), Dobbeltspondé, en
 Forbindelse af 4 lange Stavelser.</chapter>
 
-<chapter name=”Disponent”>
+<chapter name="Disponent">
 <b>Disponent</b> (lat.) kaldes i Handelssproget
 den, som i Kraft af sin overordnede Stilling i
 en Næringsvirksomhed af hvilken som helst Art
@@ -52,13 +52,13 @@ nærmest betegner en
 <sp>Handelsfuldmægtig</sp>.
 <i>(C. V. S.). C. Th.</i></chapter>
 
-<chapter name=”disponere”>
+<chapter name="disponere">
 <b>disponere</b> (lat.), fordele, anordne, bestemme,
 have Raadighed over; være <sp>disponeret</sp> til
 noget, d. s. s. være tilbøjelig til, stemt for,
 oplagt til.</chapter>
 
-<chapter name=”disponere”>
+<chapter name="disponere">
 <b>disponere,</b> se <sp>Disponent</sp>. Ganske særlig
 bruges Udtrykket at disponere om at træffe
 de Anordninger, der er fornødne for den
@@ -70,11 +70,11 @@ Dækning af forfaldne Beløb (Veksler, Regninger,
 Arbejdsløn o. s. v.).
 <i>(C. V. S.) C. Th.</i></chapter>
 
-<chapter name=”disponibel”>
+<chapter name="disponibel">
 <b>disponibel</b> (lat.), staaende til Raadighed,
 anvendelig, forhaandenværende.</chapter>
 
-<chapter name=”Disposition (lat)”>
+<chapter name="Disposition (lat)">
 <b>Disposition</b> (lat), Inddeling, Udkast,
 Foranstaltning, Anordning, Anlæg; Modtagelighed,
 Tilbøjelighed. 1) Som <sp>pædagogisk</sp> og
@@ -86,7 +86,7 @@ ogsaa det første ordnede Udkast til saadanne
 (se <sp>Stil</sp>).
 <i>Cl. W.</i></chapter>
 
-<chapter name=”Disposition (lægev.)”>
+<chapter name="Disposition (lægev.)">
 <b>Disposition</b> (<sp>lægev</sp>.), f. Eks. katarralsk,
 reumatisk, nervøs D., kaldes den hos mange
 Mennesker forekommende Modtagelighed for
@@ -97,7 +97,7 @@ modstandsdygtig i det hele taget (se ogsaa
 <sp>Anlæg</sp>).
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Disposition, Handelssproget”>
+<chapter name="Disposition, Handelssproget">
 <b>Disposition.</b> At stille en Vare til D. kaldes
 i <sp>Handelssproget</sp> den Handling, en
 Køber foretager ved at meddele Sælgeren, at han
@@ -123,7 +123,7 @@ Pakhusleje o. s. v.), som Sælgeren nægter at
 godtgøre ham.
 <i>(C. V. S.). C. Th.</i></chapter>
 
-<chapter name=”Disposition. I den statsretlige Sprogbrug”>
+<chapter name="Disposition. I den statsretlige Sprogbrug">
 <b>Disposition.</b> I den statsretlige Sprogbrug
 forekommer D. især i Forbindelsen »stille til
 D.«. En Embedsmand siges at være stillet til

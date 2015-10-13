@@ -5,7 +5,7 @@ dertil knyttede Flade-, Rumfangs- og
 Vægtenheder.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Decimalvægt”>
+<chapter name="Decimalvægt">
 <b>Decimalvægt</b> kalder man en Vægt, der er
 indrettet saaledes, at Vægtlodderne holder
 Ligevægt med en 10 Gange saa tung
@@ -53,7 +53,7 @@ Gange saa meget som Vægtlodderne.
 
 <img>Decimalvægtens Princip.</img>
 
-<chapter name=”Decime, Sammenstilling af to femliniede Strofer”>
+<chapter name="Decime, Sammenstilling af to femliniede Strofer">
 <b>Decime</b> (spansk <i>décima</i>) er i Metrikken en
 Sammenstilling af to femliniede Strofer, som
 bestaar af firføddede Trokæer. Af Rim er der
@@ -69,7 +69,7 @@ Digtekunst er den bl. a. blevet anvendt af J. L.
 Heiberg, Welhaven, H. Hertz og E. v. d. Recke.
 <i>E. G.</i></chapter>
 
-<chapter name=”Decime, det tiende diatoniske Trin”>
+<chapter name="Decime, det tiende diatoniske Trin">
 <b>Decime</b> ['dæt∫ime], det tiende diatoniske Trin
 opad fra en given Tone, m. a. O. Tertsen til
 den givne Tones højere Oktav. Saaledes vil f.
@@ -77,13 +77,13 @@ Eks. D. til [enstrøget] <i>c'</i> blive [tostrøget] <i>e''</i>. Se
 <sp>Interval</sp>.
 <i>S. L.</i></chapter>
 
-<chapter name=”Décime, Mønt”>
+<chapter name="Décime, Mønt">
 <b>Décime</b> [de'sim] er i Frankrig, Schweiz og
 Belgien Betegnelse for Mønter, hvis Værdi er
 1/10 frc. (10 Centimer).
 <i>Th. O.</i></chapter>
 
-<chapter name=”decimere”>
+<chapter name="decimere">
 <b>decimere</b> (af lat. <i>decima</i>, tiende), tage hver
 tiende (til Straf), mindske med 1/10; i overført
 Bet.: udtynde Rækkerne, anrette store
@@ -94,16 +94,16 @@ enten fordi man ikke kunde finde
 Gerningsmændene. ell. fordi alle var skyldige.
 <i>A. Gl.</i></chapter>
 
-<chapter name=”Decimeter”>
+<chapter name="Decimeter">
 <b>Decimeter,</b> 1/10 m, se <sp>metrisk Maal</sp>.</chapter>
 
-<chapter name=”Decimo”>
+<chapter name="Decimo">
 <b>Decimo</b> ['ðæsim<sub>å</sub>], Sølvmønt i forsk.
 sydamerikanske Stater. I Alm. = 1/10 Peso (10
 <i>Centavos</i>).
 <i>Th. O.</i></chapter>
 
-<chapter name=”Decimol”>
+<chapter name="Decimol">
 <b>Decimol</b> er i den musikalske Terminologi
 Betegnelsen for en Nodegruppe paa 10 lige lange
 Toner, der skal udføres inden for samme
@@ -116,7 +116,7 @@ antyder det uregelmæssige i Nodefiguren. Jfr
 <sp>Triol</sp>.
 <i>S. L.</i></chapter>
 
-<chapter name=”Decipium”>
+<chapter name="Decipium">
 <b>Decipium,</b> Dp = c. 171, et Grundstof,
 henhørende til de sjældne Jordarters Metaller,
 formodede <sp>Delafontaine</sp> 1878 at finde i
@@ -125,7 +125,7 @@ Undersøgelser har vist, at D. var en Blanding af forsk. af
 de nævnte Metaller.
 <i>R. K.</i></chapter>
 
-<chapter name=”Decision”>
+<chapter name="Decision">
 <b>Decision</b> kaldes Afgørelser, der gaar ud paa
 at bestemme, hvorledes der skal forholdes, naar
 der ved Revision af et Regnskab er gjort
@@ -143,6 +143,6 @@ bruges dog her i Landet sædvanligvis kun om
 Skifteretternes Kendelser.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Decisivstemme”>
+<chapter name="Decisivstemme">
 <b>Decisivstemme</b> (<i>votum</i>, <i>decisivum</i>) betegner
 Modsætningen til blot raadgivende Stemme

@@ -26,24 +26,24 @@ Omraade betyder D. et baaret Udmærkelsestegn,
 Orden ell. Medaille.
 <i>C. A. J.</i></chapter>
 
-<chapter name=”dekorativ”>
+<chapter name="dekorativ">
 <b>dekorativ</b> [ogsaa -'ti'v] (af lat. <i>decorare</i>,
 smykke), smykkende, prydende, stilfuld. I
 Bygningskunsten Modsætning til konstruktiv; i
 Maleriet ydre Farvevirkning uden Hensyn til
 Indhold og Form.</chapter>
 
-<chapter name=”Dekoratør”>
+<chapter name="Dekoratør">
 <b>Dekoratør</b> (fr.), den der ordner
 Udsmykningen ved Fester, i Butikker og i elegante
 Hjem.</chapter>
 
-<chapter name=”dekorere”>
+<chapter name="dekorere">
 <b>dekorere</b> (lat.), udsmykke; udmærke ved
 Tildeling af en Orden ell. andet
 Udmærkelsestegn (Dekoration).</chapter>
 
-<chapter name=”Dekort”>
+<chapter name="Dekort">
 <b>Dekort</b> (af fr. <i>décourt</i>), i Handelssproget
 ganske alm. et Afslag ell. en Afkortning, som
 indrømmes i den Betaling, der skal erlægges
@@ -59,34 +59,34 @@ Levering o. desl. kan der tilkomme en Modtager
 D. i den Betaling, han er skyldig.
 <i>(C. V. S.). C. Th.</i></chapter>
 
-<chapter name=”dekortere”>
+<chapter name="dekortere">
 <b>dekortere</b> (fr.), indrømme en Dekort (s. d.),
 fradrage en Dekort ved Opgørelsen af et
 Mellemværende.
 <i>C. Th.</i></chapter>
 
-<chapter name=”dekreditere”>
+<chapter name="dekreditere">
 <b>dekreditere</b> (fr.), bringe i Miskredit,
 nedsætte Nogens Kredit ell. hans gode Navn og
 Rygte.</chapter>
 
-<chapter name=”Dekrement”>
+<chapter name="Dekrement">
 <b>Dekrement</b> (lat.), Aftagende, Formindskelse,
 Forfald. <sp>Dekrementtavle</sp>, se
 <sp>Dødelighedsstatistik</sp>.</chapter>
 
-<chapter name=”Dekrement”>
+<chapter name="Dekrement">
 <b>Dekrement,</b> se <sp>elektromagnetiske
 Svingninger</sp>.</chapter>
 
-<chapter name=”dekrepitere”>
+<chapter name="dekrepitere">
 <b>dekrepitere</b> (lat.), knistre, se
 <sp>Knistringsvand</sp>.</chapter>
 
-<chapter name=”Dekrescens”>
+<chapter name="Dekrescens">
 <b>Dekrescens</b> [-'sæn's], se <sp>Krystal</sp>.</chapter>
 
-<chapter name=”Dekret”>
+<chapter name="Dekret">
 <b>Dekret</b> (lat. <i>decretum</i>), en af en Øvrighed
 ell. Domstol truffet Bestemmelse m. H. t. et til
 Afgørelse foreliggende Tilfælde. Nutidens
@@ -101,7 +101,7 @@ ell. kriminel Sag og den eventuelt deri
 indeholdte Afgørelse af alm. Bet.
 <i>E. T.</i></chapter>
 
-<chapter name=”Dekretaler”>
+<chapter name="Dekretaler">
 <b>Dekretaler</b> (<i>decretales</i>, underforstaaet
 <i>epistolæ</i>, Breve) kaldes de Pavebreve, som ved
 Afgørelsen af en ell. anden Sag kan tjene som
@@ -142,22 +142,22 @@ Samling D. af Paverne indtil denne Tid; den kaldes
 Fortolkere ofte <sp>Dekretister</sp>.
 <i>H. O.</i></chapter>
 
-<chapter name=”dekretere”>
+<chapter name="dekretere">
 <b>dekretere</b> (lat.), afgøre, bestemme,
 foreskrive (se <sp>Dekret</sp>).</chapter>
 
-<chapter name=”Dekretur”>
+<chapter name="Dekretur">
 <b>Dekretur</b> (lat.), kortfattet Afgørelse fra en
 Øvrigheds Side, kort Resolution, i H. t. hvilken
 den endelige Udfærdigelse i behørig Form
 foregaar.
 <i>E. T.</i></chapter>
 
-<chapter name=”Deksiografi”>
+<chapter name="Deksiografi">
 <b>Deksiografi</b> (gr.), Skrivning fra venstre til
 højre.</chapter>
 
-<chapter name=”Dekstrin”>
+<chapter name="Dekstrin">
 <b>Dekstrin</b> er et Omdannelsesprodukt af
 Stivelse og har omtr. samme procentiske
 Sammensætning som denne. Det findes meget udbredt i

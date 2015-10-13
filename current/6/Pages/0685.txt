@@ -64,14 +64,14 @@ gl. Forestillinger om Dødningeskibet. (<sp>Litt</sp>.:
 <sp>Feilberg</sp>, »Jysk Ordbog« under »D.«).
 <i>A. O.</i></chapter>
 
-<chapter name=”Dødssnit”>
+<chapter name="Dødssnit">
 <b>Dødssnit</b> anvendes ved Frugttræbeskæring,
 naar en Kvist ell. Gren skal fjernes lige ned til
 dens Grund. Særlig over for Vanskud gør man
 alm. Brug af D.
 <i>L. H.</i></chapter>
 
-<chapter name=”Dødsstivhed”>
+<chapter name="Dødsstivhed">
 <b>Dødsstivhed</b> er den Forandring i Musklerne,
 som indtræder efter Døden og bestaar i en
 Koagulation af Myosinet (et Æggehvidestof) i
@@ -102,7 +102,7 @@ fejlagtig tagne til Indtægt for Forestillingen om
 Tilstedeværelsen af Skindød.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dødsstraf”>
+<chapter name="Dødsstraf">
 <b>Dødsstraf</b> ell. <sp>Livsstraf</sp> (dette sidste
 Udtryk benyttes saavel i den danske som i den
 norske Straffelov). Den Kamp, som Beccaria

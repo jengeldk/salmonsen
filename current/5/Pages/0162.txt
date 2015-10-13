@@ -24,15 +24,15 @@ Moland</sp>, <i>Molière et la comédie italienne</i>
 in Italia</i> [Turin 1884]).
 <i>E. G.</i></chapter>
 
-<chapter name=”Commedia divina”>
+<chapter name="Commedia divina">
 <b>Commedia divina,</b> se <sp>Dante</sp>.</chapter>
 
-<chapter name=”comme il faut”>
+<chapter name="comme il faut">
 <b>comme il faut</b> [kåm-il-'fo] (fr.), som det
 bør være, passende; med fine Manerer; paa
 Moden, o. l.</chapter>
 
-<chapter name=”Commelina L.”>
+<chapter name="Commelina L.">
 <b>Commelina</b> L., Slægt af Commelinaceer, hvis
 Blomster har hudagtige Bægerblade og oftest
 blaa Kronblade; tre Støvblade er gerne
@@ -55,7 +55,7 @@ Maj paa halvvarm Bænk, de unge Planter
 udplantes paa Friland.
 <i>L. H.</i></chapter>
 
-<chapter name=”Commelinaceæ”>
+<chapter name="Commelinaceæ">
 <b>Commelinaceæ,</b> Familie af enkimbladede
 Planter af Ordenen <i>Enantioblastæ</i>, en- ell.
 fleraarige Urter med leddede (knæede) Stængler og
@@ -76,16 +76,16 @@ mangler fuldstændig i Europa. Ikke faa dyrkes som
 Prydplanter.
 <i>A. M.</i></chapter>
 
-<chapter name=”commemoratio”>
+<chapter name="commemoratio">
 <b>commemoratio</b> (lat.), Omtale; i den
 katolske Kirke: Mindefest; <i>c. omnium defunctorum</i>,
 Alle Sjæles Fest; <i>c. omnium sanctorum</i>, Alle
 Helgens Dag.</chapter>
 
-<chapter name=”commenda, se Komménde”>
+<chapter name="commenda, se Komménde">
 <b>commenda,</b> se <sp>Komménde</sp>.</chapter>
 
-<chapter name=”commenda, en Kontrakt”>
+<chapter name="commenda, en Kontrakt">
 <b>commenda,</b> i Middelalderen Betegnelse for
 en Kontrakt, ved hvilken Nogen overdrog
 Værdigenstande ell. Penge til en Anden, for at denne
@@ -94,11 +94,11 @@ mellem Parterne efter aftalt Maalestok. Deraf
 »Kommanditselskab«.
 <i>E. T.</i></chapter>
 
-<chapter name=”commendationes”>
+<chapter name="commendationes">
 <b>commendationes,</b> se
 <sp>Kommendationer</sp>.</chapter>
 
-<chapter name=”commentarii”>
+<chapter name="commentarii">
 <b>commentarii</b> (lat.), Optegnelser for at huske
 en Ting, Noticer; specielt om Docentens Noticer
 til Brug ved hans Forelæsninger saavel som om
@@ -111,7 +111,7 @@ men som blotte Optegnelser om Begivenheder i
 hans eget Liv.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Commentry”>
+<chapter name="Commentry">
 <b>Commentry</b> [kåmã'tri], By i Mellemfrankrig,
 Dept Allier, Arrond. Montluçon, 390 m o. H. ved
 Orléans-Banen, har (1911) 10112 Indb., er
@@ -119,7 +119,7 @@ Centrum for et stort Kulminedistrikt og har en stor
 Jernindustri.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Commer, Franz”>
+<chapter name="Commer, Franz">
 <b>Commer,</b> <sp>Franz</sp>, tysk Musiker (1813-87),
 hvis Ansættelse i det daværende kgl.
 Musikinstituts Bibliotek bragte ham i Forbindelse med den
@@ -133,7 +133,7 @@ Kompositioner er navnlig Kantater, Messer og
 andre Korværker.
 <i>W. B.</i></chapter>
 
-<chapter name=”commercium”>
+<chapter name="commercium">
 <b>commercium</b> (lat., af <i>cum</i> og <i>merx</i>, Vare),
 egl. Handelsomsætning ved Tuskhandel,
 betegner i det rom. Retssprog Retten til at
@@ -150,7 +150,7 @@ Borgere, <i>perigrini</i>, kunde ved en særlig Traktat
 Ødselhed, kunde c. fortabes.
 <i>C. W. W.</i></chapter>
 
-<chapter name=”Commercy”>
+<chapter name="Commercy">
 <b>Commercy</b> [kåmær'si], By i det nordøstlige
 Frankrig, Dept Meuse, Hovedstad i Arrond. C.,
 ved venstre Bred af Meuse, 240 m o. H., ved
@@ -168,7 +168,7 @@ Stanislaus af Polen og kom s. A. under
 Frankrig.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”commilito”>
+<chapter name="commilito">
 <b>commilito</b> (lat.), Krigskammerat; i fl.
 Forbindelser ogsaa for Kammerat i Alm.
 (Professoren tiltaler paa Latin Studenter <i>commilitones</i>,

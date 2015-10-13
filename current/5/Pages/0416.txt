@@ -31,10 +31,10 @@ jævn og beskeden. (<sp>Litt</sp>.: <sp>Sainte-Beuve</sp>,
 <i>Causeries de Lundi</i>, IX).
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Dacit”>
+<chapter name="Dacit">
 <b>Dacit,</b> se <sp>Andesit</sp>.</chapter>
 
-<chapter name=”Dacke, Nils”>
+<chapter name="Dacke, Nils">
 <b>Dacke,</b> <sp>Nils</sp>, Lederen af den farligste Almueopstand,
 Sveriges Historie kender (<sp>D.-Fejden</sp>),
 tilhørte en rig Bondeslægt i Blekinge,
@@ -91,16 +91,16 @@ sattes paa en Sindssygeanstalt, hvor han døde af
 Pest.
 <i>A. M. D.</i></chapter>
 
-<chapter name=”Dacke-Fejden”>
+<chapter name="Dacke-Fejden">
 <b>Dacke-Fejden,</b> se <sp>Dacke</sp>.</chapter>
 
-<chapter name=”Dacryomitra”>
+<chapter name="Dacryomitra">
 <b>Dacryomitra,</b> se <sp>Dacryomycetaceæ</sp>.</chapter>
 
-<chapter name=”Dacryomyces”>
+<chapter name="Dacryomyces">
 <b>Dacryomyces,</b> se <sp>Dacryomycetaceæ</sp>.</chapter>
 
-<chapter name=”Dacryomycetaceæ”>
+<chapter name="Dacryomycetaceæ">
 <b>Dacryomycetaceæ,</b> Fam. af Basidiomyceter,
 der udmærker sig ved langt kølleformede, i
 Spidsen gaffelformet tvedelte Basidier, der hver
@@ -133,16 +133,16 @@ Del af Frugtlegemet er ikke tydelig adskilt
 fra den golde.
 <i>F. K. R.</i></chapter>
 
-<chapter name=”Dactylethra”>
+<chapter name="Dactylethra">
 <b>Dactylethra,</b> se <sp>Xenopus</sp>.</chapter>
 
-<chapter name=”Dactylis”>
+<chapter name="Dactylis">
 <b>Dactylis,</b> se <sp>Hundegræs</sp>.</chapter>
 
-<chapter name=”Dactylopterus”>
+<chapter name="Dactylopterus">
 <b>Dactylopterus,</b> Flyveulk, se <sp>Ulke</sp>.</chapter>
 
-<chapter name=”Daðason, Jón”>
+<chapter name="Daðason, Jón">
 <b>Daðason</b> ['da-], <sp>Jón</sp>, Præst til Arnarbæli i
 det sydlige Island, polyhistorisk Forf. (1606-76),
 der havde en betydelig Indflydelse paa sin
@@ -156,12 +156,12 @@ Aarh. Som D.'s Skr viser, var han heller ikke
 blottet for Kundskaber i Naturhistorie.
 <i>Th. Th.</i></chapter>
 
-<chapter name=”Daddel”>
+<chapter name="Daddel">
 <b>Daddel,</b> se <sp>Phoenix</sp>.</chapter>
 
-<chapter name=”Daddelblommetræ”>
+<chapter name="Daddelblommetræ">
 <b>Daddelblommetræ,</b> se <sp>Diospyros</sp>.</chapter>
 
-<chapter name=”Daddelmusling”>
+<chapter name="Daddelmusling">
 <b>Daddelmusling,</b> Stendaddel, se <sp>Blaamuslinger</sp>.</chapter>
 

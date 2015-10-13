@@ -6,7 +6,7 @@ og udføres i Alm. af særlig haardt Træ som
 Teak o. l.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Dæksten”>
+<chapter name="Dæksten">
 <b>Dæksten</b> er flade, oftest finhugne Sten af
 Granit ell. anden stærk Stenart, der bruges til
 Afdækning mod Vejr og Vind af Murpiller ell.
@@ -29,7 +29,7 @@ Tilhugning af Stødfladerne, saa at Stenene griber
 ind i hinanden.
 <i>A. L-n.</i></chapter>
 
-<chapter name=”Dækstilling”>
+<chapter name="Dækstilling">
 <b>Dækstilling</b> (<sp>Gardstilling</sp> ell. <sp>Gard</sp>)
 er i Vaabenøvelser den Stilling, der bedst egner
 sig til Angreb og Forsvar; den indtages ved
@@ -42,7 +42,7 @@ som muligt. Armenes Stilling retter sig efter
 Vaabnets Art.
 <i>K. A. K.</i></chapter>
 
-<chapter name=”Dæksvæger”>
+<chapter name="Dæksvæger">
 <b>Dæksvæger</b> benævnes i Træskibe den Del af
 Skibets Klædning indenbords, der ligger under
 Dækkene og understøtter Dæksbjælkerne ude ved
@@ -52,7 +52,7 @@ ligger umiddelbart ovenover f. Eks. Banjevæger,
 underste D., Skanse- og Baksvæger.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Dækvaaben”>
+<chapter name="Dækvaaben">
 <b>Dækvaaben</b> (Skjold, Rustning, Brynje,
 Kyras, Køllert, Hjelm o. l.) er, efter at de blanke
 Vaaben har mistet deres overvejende Bet. i
@@ -67,7 +67,7 @@ D., f. Eks. transportable Skjolde o. l., er komne
 til Anvendelse under Skyttegravskampen.
 <i>C. Q.</i></chapter>
 
-<chapter name=”Dækvinger”>
+<chapter name="Dækvinger">
 <b>Dækvinger</b> kaldes i Entomologien 1.
 Vingepar overalt, hvor dette er af en tyk, læderagtig
 Beskaffenhed og danner et fast, beskyttende
@@ -103,7 +103,7 @@ er, som hos mange <sp>Biller</sp> og
 Knirkeapparater.
 <i>C. W.-L.</i></chapter>
 
-<chapter name=”Dælle”>
+<chapter name="Dælle">
 <b>Dælle,</b> Fordybning i Midten af en
 Hudforhøjning, f. Eks. paa Midten af Kopper og
 Vaccinepustler. I øvrigt benyttes ogsaa D. om
@@ -111,7 +111,7 @@ saadanne Fedtpuder, der kan danne sig ved
 Hagen o. a. Steder.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Dæmning”>
+<chapter name="Dæmning">
 <b>Dæmning,</b> et Bygningsværk, der tjener til
 Adskillelse af to Vandarealer ell. af et
 Vandareal fra et af Vand ikke dækket Areal,

@@ -45,7 +45,7 @@ Fremtiden« [Kria 1864]; <sp>A. Utne</sp>, »D. og Omegn«
 1895, Nr. 50-126]).
 <i>(J. F. W. H.). M. H.</i></chapter>
 
-<chapter name=”Drammensbanen”>
+<chapter name="Drammensbanen">
 <b>Drammensbanen</b> forbinder Byerne Kria og
 Drammen; 53 km. Dens officielle Navn er
 Kria-D., men den benævnes i daglig Tale D. ell.
@@ -63,7 +63,7 @@ planlagt en Forbindelsesbane fra Bestum over
 Majorstuen til Grefsen Station paa Nordbanen.
 <i>M. H.</i></chapter>
 
-<chapter name=”Drammenselven”>
+<chapter name="Drammenselven">
 <b>Drammenselven</b> (<sp>Dramselven</sp>) kaldes
 den Elv, som danner Afløb for Tyrifjorden, og
 som falder ud i Fjorden ved Drammen. D. er
@@ -76,7 +76,7 @@ væsentlig for Fabrikation af Papir og Cellulose. D.
 modtager fl. betydelige Tilløb.
 <i>M. H.</i></chapter>
 
-<chapter name=”Drammensfjord”>
+<chapter name="Drammensfjord">
 <b>Drammensfjord</b> (<sp>Dramsfjord</sp>), en c. 28
 km lang og 1-3 km bred Fjord, der fra
 Kria-Fjordens ydre, brede Bassin fører op til
@@ -88,7 +88,7 @@ og Sildefiskeri i dens ydre Del. Fjorden er hele
 Aaret aaben for Skibsfart.
 <i>M. H.</i></chapter>
 
-<chapter name=”Drammensvasdraget”>
+<chapter name="Drammensvasdraget">
 <b>Drammensvasdraget</b>
 (<sp>Dramsvasdraget</sp>) er Fællesbenævnelsen paa hele det
 Vandsystem, som efterhaanden forenes i
@@ -98,10 +98,10 @@ Hadelands og Ekers Vandsystemer. Vandkraften er
 udnyttet til Drift af en stor Mængde Fabrikker,
 især Træsliberier, Papir- og Cellulosefabrikker.</chapter>
 
-<chapter name=”Drance”>
+<chapter name="Drance">
 <b>Drance</b> [drã.s], se <sp>Dranse</sp>.</chapter>
 
-<chapter name=”Drangajøkull”>
+<chapter name="Drangajøkull">
 <b>Drangajøkull</b> ['draŋajökødl], en Jøkel i det
 nordvestlige Island Ø. f. Isafjarðardjúp. D. har
 et Areal af ca 200 km<sup>2</sup> og en Højde af 925 m,
@@ -112,7 +112,7 @@ o. H. P. Gr. a. denne Landsdels kolde og fugtige
 Klima ligger Snelinien paa D. kun 400 m o. H.
 <i>Th. Th.</i></chapter>
 
-<chapter name=”Drangar”>
+<chapter name="Drangar">
 <b>Drangar</b> ['draŋar] paa Hornstrandir i det
 nordvestlige Island, kæmpemæssige, spidse
 Fjeldpyramider, der strækker sig i en Række ud i
@@ -128,7 +128,7 @@ udføre de Rejser og Opdagelser, han senere
 gjorde.
 <i>Th. Th.</i></chapter>
 
-<chapter name=”Drangedal, Herred”>
+<chapter name="Drangedal, Herred">
 <b>Drangedal,</b> <sp>Herred</sp>, Bamle Fogderi,
 Bratsberg Amt, (1910) 4149 Indb., er et
 Indlandsherred, der ligger paa begge Sider af

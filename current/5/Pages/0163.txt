@@ -39,7 +39,7 @@ de Lettenhove</sp>, <i>Lettres et négociations de
 Philippe de C.</i> [2 Bd, Bryssel 1867-68]).
 <i>Kr. E.</i></chapter>
 
-<chapter name=”Comminges”>
+<chapter name="Comminges">
 <b>Comminges</b> [kå'mæ.з], gl fr. Prov. i
 Gascogne ved Pyrenæernes Nordside, udgør nu
 Arrond. St.-Gaudens i Dept Haute Garonne og
@@ -48,7 +48,7 @@ arveligt Grevskab, der 1453 blev inddraget under
 Kronen.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Commiphora Jacq.”>
+<chapter name="Commiphora Jacq.">
 <b>Commiphora</b> [-fo-] Jacq.
 (<sp>Balsamodendron</sp> Kunth), Slægt af Balsamfamilien, Træer,
 hvis Grene ofte er tornede, hyppigst med
@@ -79,7 +79,7 @@ Harpiks i smaa Draaber. Denne Art Balsam
 skattet Lægemiddel.
 <i>A. M.</i></chapter>
 
-<chapter name=”commission”>
+<chapter name="commission">
 <b>commission</b> [kå'mi∫<sub>ə</sub>n] (eng.). I det eng.
 Rets- og Administrationssprog betyder c.
 ligesom paa Dansk dels et særligt overdraget Hverv,
@@ -117,7 +117,7 @@ Behandlingen i 1. Instans af Straffesager af
 mindre Bet.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”commissioner”>
+<chapter name="commissioner">
 <b>commissioner</b> [k<sub>å</sub>'mi∫<sub>ə</sub>nə] (engelsk) betyder
 den, hvem et Hverv er betroet, og bruges
 navnlig om offentlige Hverv, saaledes bl. a. som
@@ -142,15 +142,15 @@ føre Tilsyn med Sindssyges Behandling paa
 Hospitaler ell. andet Steds.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”commission internationale d'enquête”>
+<chapter name="commission internationale d'enquête">
 <b>commission internationale d'enquête</b>
 [kåmi's<sub>i</sub>å-ætærnas<sub>i</sub>å'nal-d-ã'kæ.t], se
 <sp>Undersøgelseskommissioner</sp>.</chapter>
 
-<chapter name=”Commisoriale”>
+<chapter name="Commisoriale">
 <b>Commisoriale,</b> d. s. s. <sp>Kommissorium</sp>,
 se <sp>Kommission</sp>.</chapter>
 
-<chapter name=”commissum”>
+<chapter name="commissum">
 <b>commissum</b> (lat.), hvad der er paalagt, et
 paalagt Hverv; noget begaaet, navnlig en

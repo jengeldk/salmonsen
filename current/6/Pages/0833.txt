@@ -9,7 +9,7 @@ Aar 990. <sp>(Litt.</sp>: <sp>F. Jónsson</sp>, »Oldn. og
 oldisl. Litt. Hist«, I).
 <i>F. J.</i></chapter>
 
-<chapter name=”Einar Kongsmaag”>
+<chapter name="Einar Kongsmaag">
 <b>Einar Kongsmaag</b> ['æjnar-], ogsaa kaldet
 <sp>Einar Præst</sp>, norsk Høvding i 12. og 13.
 Aarh., var gift med Kong Sverre Sigurdssøn's
@@ -30,7 +30,7 @@ Baglerne Kirken op, slæbte ham udenfor og dræbte
 ham (1205).
 <i>(O. A. Ø.). Edv. B.</i></chapter>
 
-<chapter name=”Einarr Skúlason”>
+<chapter name="Einarr Skúlason">
 <b>Einarr Skúlason</b> ['æjnar-'sku.lasån], isl.
 Præst og Skjald, f. c. 1090, træffes allerede i
 Norge under Kong Sigurd Jorsalfar 1114,
@@ -83,7 +83,7 @@ duer ikke.«. (<sp>Litt</sp>.: »Snorra Edda«, III; <sp>F.
 Jónsson</sp>, »Oldn. og oldisl. Litt. Hist.« II).
 <i>F. J.</i></chapter>
 
-<chapter name=”Einarsen, Einar”>
+<chapter name="Einarsen, Einar">
 <b>Einarsen</b> ['æj-], <sp>Einar</sp>, norsk
 Socialøkonom, f. 3. Febr 1868 i Ekersund, d. 25. Novbr
 1913 i Kria. Efter jur. Embedseksamen 1890
@@ -113,10 +113,10 @@ Arbejder hører til de bedste i den norske
 økonomiske Litt.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Einarsfjord”>
+<chapter name="Einarsfjord">
 <b>Einarsfjord</b> ['æj-], se <sp>Grønland</sp> (Historie).</chapter>
 
-<chapter name=”Einarsson, Baldvin”>
+<chapter name="Einarsson, Baldvin">
 <b>Einarsson</b> ['æj-], <sp>Baldvin</sp>, isl. Forf., f.
 2. Aug. 1801, d. 9. Febr 1833. E. var Bondesøn
 og deltog til sit 20. Aar i al Bondegerning,

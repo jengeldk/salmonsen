@@ -75,7 +75,7 @@ svarende Forøgelse af Promillen for E. til Stat
 og Kommune.
 <i>C. T.</i></chapter>
 
-<chapter name=”Ejer Bavnehøj”>
+<chapter name="Ejer Bavnehøj">
 <b>Ejer Bavnehøj,</b> Danmarks højeste Punkt,
 172 m, ligger i Nørrejylland, 7 km SV. f.
 Skanderborg, Aarhus Amt, Vor Herred, Ovsted
@@ -92,7 +92,7 @@ ligger Danmarks højestliggende Kirke, Ovsted
 Kirke.
 <i>H. W.</i></chapter>
 
-<chapter name=”Ejerdir Gøl”>
+<chapter name="Ejerdir Gøl">
 <b>Ejerdir Gøl</b> (<sp>Egerdir</sp>), Alpesø i
 Lilleasien i Vilajetet Konia ved Nordfoden af det
 lyciske Taums, har omtr. Form af et Ottetal
@@ -109,7 +109,7 @@ Floden Aksu, der udspringer i Bjergene V. f.
 Søen.
 <i>(C. C. C.). M. V.</i></chapter>
 
-<chapter name=”Ejerlag”>
+<chapter name="Ejerlag">
 <b>Ejerlag,</b> <sp>Ejerlav</sp> ell. <sp>Ejerskab</sp>,
 undertiden ogsaa <sp>Bylag</sp>, var Betegnelsen for det
 retlig ordnede Landsbysamfund, saaledes som

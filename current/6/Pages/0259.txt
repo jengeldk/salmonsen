@@ -5,7 +5,7 @@ Calcutta 1859). Litograferede Udg. af D.'s
 Værker er oftere besørgede i Orienten.
 <i>A. C.</i></chapter>
 
-<chapter name=”Djamna”>
+<chapter name="Djamna">
 <b>Djamna</b> (eng. <sp>Jumna</sp>, Skrt. <sp>Jamuna</sp>),
 Ganges' betydeligste Tilløb, udspringer i
 Himalaya paa Djamnotri Piks i 3306 m's Højde,
@@ -27,7 +27,7 @@ besøges aarlig af talrige Pilegrimme, der
 kommer for at bade sig i Flodens hellige Vande.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djamnotri”>
+<chapter name="Djamnotri">
 <b>Djamnotri,</b> et for Hinduerne helligt Sted i
 Garwhal i Himalaya, 2974 m o. H. og ganske
 nær ved Djamnas Kilde. Fra en Granitkløft
@@ -35,7 +35,7 @@ springer her 7 varme Kilder (90,4°) frem
 under et mægtigt Snedække.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djamu”>
+<chapter name="Djamu">
 <b>Djamu</b> (eng. <sp>Jamu</sp>, <sp>Jummoo</sp>), By i
 Kashmir paa den sydlige Skraaning af Himalaya,
 403 m o. H., ved den lille Flod Tavi, en Biflod
@@ -47,10 +47,10 @@ Indb. Mægtige Ruiner vidner om dens fordums
 Storhed.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djanawi”>
+<chapter name="Djanawi">
 <b>Djanawi,</b> Biflod til Ganges.</chapter>
 
-<chapter name=”Djandjaro”>
+<chapter name="Djandjaro">
 <b>Djandjaro</b> (<sp>Gingiro</sp>, <sp>Yangaro</sp>),
 Landskab i det sydlige Abessinien mellem Godjeb og
 Enarea paa c. 8° n. Br. Det er meget frugtbart
@@ -58,7 +58,7 @@ og bebos af hedenske Galla-Stammer.
 Hovedstaden er <sp>Undjer</sp>.
 <i>C. A.</i></chapter>
 
-<chapter name=”Djangal”>
+<chapter name="Djangal">
 <b>Djangal</b> (eng. <i>Jungle</i>), det pers. Ord for
 Skov, optaget i Hindustani og derfra gaaet over
 i Engelsk, hvor det bruges om Kratskov og
@@ -66,7 +66,7 @@ Savanne i Modsætning til Højskov og dyrket
 Land.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djansi”>
+<chapter name="Djansi">
 <b>Djansi</b> (eng. <sp>Jhansi</sp>), Distrikt l Divisionen
 Allahabad i den indobritiske United Provinces,
 9412 km<sup>2</sup> med (1911) 680688 Indb. Hovedstaden
@@ -76,35 +76,35 @@ indlemmedes atter, 1900, i de umiddelbare britiske
 Besiddelser.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djaora”>
+<chapter name="Djaora">
 <b>Djaora,</b> indobritisk Vasalstat i Centralindien,
 1471 km<sup>2</sup> med (1911) 75951 Indb.</chapter>
 
-<chapter name=”Djapara”>
+<chapter name="Djapara">
 <b>Djapara</b> (<sp>Japara</sp>), fhv. Residensskab paa
 Nordkysten af Java mellem Bugterne ved
 Semarang og Rembang, nu forenet med Semarang.</chapter>
 
-<chapter name=”Djarun”>
+<chapter name="Djarun">
 <b>Djarun,</b> By i den pers. Prov. Farsistan midt
 mellem Shiras og Lar, ligger omgivet af
 smukke Haver og har c. 4000 Indb. I Nærheden
 findes Petroleumskilder.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djasalmir”>
+<chapter name="Djasalmir">
 <b>Djasalmir,</b> d. s. s. <sp>Djaisalmir</sp>.</chapter>
 
-<chapter name=”Djask”>
+<chapter name="Djask">
 <b>Djask,</b> Forbjerg paa Persiens Sydkyst ved
 Indgangen til Ormus-Strædet. N. derfor Byen
 D. med 3000 Indb.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djassaur”>
+<chapter name="Djassaur">
 <b>Djassaur</b> [-'sâr], se <sp>Djessor</sp>.</chapter>
 
-<chapter name=”Djat”>
+<chapter name="Djat">
 <b>Djat</b> (eng. <sp>Jat</sp>), Folkestamme i det østlige
 Belutshistan og nordlige Forindien. Det er
 kraftige, smukke Folk med bredt Bryst, men
@@ -136,10 +136,10 @@ Bhartpur, der først 1826 blev erobret af
 Englænderne.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djauf”>
+<chapter name="Djauf">
 <b>Djauf</b> [dзa^uf], se <sp>Djof</sp>.</chapter>
 
-<chapter name=”Djaunpur”>
+<chapter name="Djaunpur">
 <b>Djaunpur</b> [dзa^un-] (eng. <sp>Jaunpur</sp>).
 Hovedstad for Distriktet af s. N. (4025 km<sup>2</sup> med
 [1911] 1156254 Indb.) i Divisionen Benares
@@ -153,50 +153,50 @@ mange Ruiner af Moskeer og Paladser vidner
 endnu om dens fordums Pragt.
 <i>M. V.</i></chapter>
 
-<chapter name=”Djaveolie”>
+<chapter name="Djaveolie">
 <b>Djaveolie,</b> se <sp>Bassiasmør</sp>.</chapter>
 
-<chapter name=”Djebado”>
+<chapter name="Djebado">
 <b>Djebado,</b> se <sp>Djerba</sp>.</chapter>
 
-<chapter name=”Djebb”>
+<chapter name="Djebb">
 <b>Djebb,</b> se <sp>Juba</sp>.</chapter>
 
-<chapter name=”Djebel”>
+<chapter name="Djebel">
 <b>Djebel</b> (arab.) bet. Bjerg og forekommer som
 Led i en Mængde geografiske Egennavne.</chapter>
 
-<chapter name=”Djebel el Tarik”>
+<chapter name="Djebel el Tarik">
 <b>Djebel el Tarik,</b> »Tariks Bjerg«, det gamle
 arab. Navn paa Gibraltar-Klippen, opkaldt efter
 den arab. Hærfører Tarik, der 711 satte fra
 Afrika over til Spanien.
 <b>C. A.</b></chapter>
 
-<chapter name=”Djebel Eslamie”>
+<chapter name="Djebel Eslamie">
 <b>Djebel Eslamie,</b> Bjerg i Palæstina, se <sp>Ebal</sp>.</chapter>
 
-<chapter name=”Djebel mar-Elias”>
+<chapter name="Djebel mar-Elias">
 <b>Djebel mar-Elias,</b> se <sp>Karmel</sp>.</chapter>
 
-<chapter name=”Djebel Musa”>
+<chapter name="Djebel Musa">
 <b>Djebel Musa,</b> se <sp>Sinai</sp>.</chapter>
 
-<chapter name=”Djebel Shammar”>
+<chapter name="Djebel Shammar">
 <b>Djebel Shammar,</b> Bjergkæde i det Indre
 af Arabien, danner Nordranden for Kasims
 Plateau og naar en Højde af omtr. 1800 m. Det
 højeste Punkt er <sp>D. Adja</sp>.
 <i>C. A.</i></chapter>
 
-<chapter name=”Djedda”>
+<chapter name="Djedda">
 <b>Djedda,</b> d. s. s. <sp>Djidda</sp>.</chapter>
 
-<chapter name=”Djedid”>
+<chapter name="Djedid">
 <b>Djedid</b> (arab.) bet. ny og forekommer
 sammensat i fl. geogr. Egennavne.</chapter>
 
-<chapter name=”Djehan”>
+<chapter name="Djehan">
 <b>Djehan</b> ell. <sp>Djahan</sp> (Dshahan), Stormogul,
 kom 1627 paa Tronen efter at have gjort Oprør
 mod sin Fader, Djahangir, ligesom denne havde

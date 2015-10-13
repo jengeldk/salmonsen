@@ -54,7 +54,7 @@ of W. C.</i> [1835]; <sp>Goldwin Smith</sp>, <i>C.</i> [1885]
 i Serien <i>English Men of Letters</i>).
 <i>I. O.</i></chapter>
 
-<chapter name=”Cowperske Kirtler”>
+<chapter name="Cowperske Kirtler">
 <b>Cowperske Kirtler</b> ['kaup<sub>ə</sub>rsk<sub>ə</sub>- ell. 'ku.-]
 er to under den bageste Del af Mandens Urinrør
 liggende og i dette udmondende rundagtige,
@@ -65,10 +65,10 @@ Kvinden. I sjældne Tilfælde findes imellem dem
 en tredie lille Kirtel, <i>Antiprostata</i>.
 <i>S. B.</i></chapter>
 
-<chapter name=”cowrie”>
+<chapter name="cowrie">
 <b>cowrie</b> ['ka^ur<sub>i</sub>], se <sp>Kopal</sp>.</chapter>
 
-<chapter name=”Cox, David”>
+<chapter name="Cox, David">
 <b>Cox</b> [kåks], <sp>David</sp>, eng. Landskabsmaler,
 f. 1783 i Birmingham, d. 15. Juni 1859 i Harborne
 ved Birmingham. Efter at C., den ubemidlede
@@ -103,7 +103,7 @@ i Faderens Spor, men uden at kunne byde
 noget nyt.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Cox, John Edmund”>
+<chapter name="Cox, John Edmund">
 <b>Cox</b> [kåks], <sp>John Edmund</sp>, eng. Gejstlig
 og filantropisk Forf. (1812-90), studerede i
 Oxford, beklædte derefter forsk. Præsteembeder i
@@ -124,14 +124,14 @@ recollections of the last half century</i> (1872), til
 <i>Parker Society</i> udg. Cranmer's Skr.
 <i>V. S.</i></chapter>
 
-<chapter name=”Coxa”>
+<chapter name="Coxa">
 <b>Coxa,</b> d. s. s. <sp>Hofte</sp>.</chapter>
 
 <chapter name="Coxalgi">
 <b>Coxalgi,</b> Smerte i Hoften uden paaviselig
 organisk Aarsag.</chapter>
 
-<chapter name=”Coxe, Henry Octavius”>
+<chapter name="Coxe, Henry Octavius">
 <b>Coxe</b> [kåks], <sp>Henry Octavius</sp>, eng.
 Bibliotekar (1811-81), var fra 1860 Overbibliotekar
 ved det Bodleyanske Bibliotek i Oxford og
@@ -140,7 +140,7 @@ Gennemførelsen 1859-80 af det kæmpemæssige
 Katalogarbejde (723 Foliobind) i det Bodleyanske
 Bibliotek.</chapter>
 
-<chapter name=”Coxe, William”>
+<chapter name="Coxe, William">
 <b>Coxe</b> [kåks], <sp>William</sp>, eng. Rejseforfatter
 og Historiker (1747-1828), foretog som Mentor
 for Greven af Pembroke 1775-79 en Rejse

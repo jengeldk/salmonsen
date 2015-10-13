@@ -118,16 +118,16 @@ Kaufmann</sp>, »Das Wesen des Völkerrechts u. die
 c. r. s. s.« [1911]).
 <i>P. J. J.</i></chapter>
 
-<chapter name = ”Clausura”>
+<chapter name="Clausura">
 <b>Clausura,</b> se <sp>Klausur</sp>.</chapter>
 
-<chapter name = ”Clava”>
+<chapter name="Clava">
 <b>Clava,</b> se <sp>Gopler</sp>.</chapter>
 
-<chapter name = ”Clavaria, Clavariaceæ”>
+<chapter name="Clavaria, Clavariaceæ">
 <b>Clavaria, Clavariaceæ,</b> se <sp>Køllesvampe</sp>.</chapter>
 
-<chapter name = ”Claveau, Anatole”>
+<chapter name="Claveau, Anatole">
 <b>Claveau</b> [kla'vo], <sp>Anatole</sp>, fr. Journalist
 og Forf., f. i Bièvre 30. Maj 1835, var under
 Mærket Quidam aandfuld Kronikør i <i>Le Figaro</i>
@@ -141,14 +141,14 @@ nouvelle. Essai de critique conservatrice</i> (1907)
 o. fl.
 <i>S. Ms.</i></chapter>
 
-<chapter name = ”clavecin”>
+<chapter name="clavecin">
 <b>clavecin</b> [klav'sæ] (fr.; ital.: <i>clavicembalo</i>),
 se <sp>Klaver</sp>.</chapter>
 
-<chapter name = ”Clavellina”>
+<chapter name="Clavellina">
 <b>Clavellina,</b> se <sp>Søpunge</sp>.</chapter>
 
-<chapter name = ”Clavering, Douglas Charles”>
+<chapter name="Clavering, Douglas Charles">
 <b>Clavering</b> ['k£äv<sub>ə</sub>riŋ], <sp>Douglas
 Charles</sp>, eng. Kaptajn. 1823 var Briggen
 

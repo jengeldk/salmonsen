@@ -8,10 +8,10 @@ Særlig egner den sig til Sammenplantning i
 Grupper.
 <i>L. H.</i></chapter>
 
-<chapter name = ”Cleve”>
+<chapter name="Cleve">
 <b>Cleve,</b> se <sp>Kleve</sp>.</chapter>
 
-<chapter name = ”Cleve, Halfdan”>
+<chapter name="Cleve, Halfdan">
 <b>Cleve,</b> <sp>Halfdan</sp>, norsk Komponist og
 Pianist, f. 5. Oktbr 1879 paa Kongsberg, hvor
 Faderen var Organist. Hans mus. Anlæg gav
@@ -41,7 +41,7 @@ Klaverspiller med en højt opdreven Teknik og
 et elastisk, nuancerigt Anslag.
 <i>I. H.</i></chapter>
 
-<chapter name = ”Cleve, Joos van”>
+<chapter name="Cleve, Joos van">
 <b>Cleve</b> ['kle.f<sub>ə</sub>], <sp>Joos van</sp> (<sp>Joost van</sp>),
 ogsaa kaldet »sotte Cleef«, nederlandsk Maler,
 f. i Antwerpen, fra 16. Aarh., virkede som
@@ -56,7 +56,7 @@ Windsor Castle ses hans Selvportræt og
 Portrættet af hans Hustru.
 <i>A. Hk.</i></chapter>
 
-<chapter name = ”Cleve, Per Theodor”>
+<chapter name="Cleve, Per Theodor">
 <b>Cleve,</b> <sp>Per Theodor</sp>, sv. Kemiker og
 Biolog, f. i Sthlm 10. Febr 1840, d. i Upsala
 18. Juni 1905. C. blev, efter at have studeret
@@ -89,7 +89,7 @@ væsentligt Undersøgelser over Plankton, dets
 Udbredelse og Bet.
 <i>R. K.</i></chapter>
 
-<chapter name = ”Cleve, Zakarias Joakim”>
+<chapter name="Cleve, Zakarias Joakim">
 <b>Cleve,</b> <sp>Zakarias Joakim</sp>, finsk Pædagog,
 f. 3. Decbr 1820 i Rautalampi, d. 1900 i
 Fredrikshamn, tog de akademiske Grader og blev, efter
@@ -127,7 +127,7 @@ har han nedlagt i sin »Pedagogik«, der længe
 blev brugt som Lærebog.
 <i>Eva. M.</i></chapter>
 
-<chapter name = ”Clevedon”>
+<chapter name="Clevedon">
 <b>Clevedon</b> ['k£i.vd<sub>ə</sub>n], Søbadested paa
 Sydkysten af Bristol-Kanalen i det eng.
 Somersetshire 20 km V. f. Bristol ved en Gren af Great
@@ -136,14 +136,14 @@ langt fra C. ligger Slottet Clevedon-Court,
 delvis fra 14. Aarh.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Cleveit”>
+<chapter name="Cleveit">
 <b>Cleveit</b> er et paa sjældne Grundstoffer rigt
 Mineral, som i sine Egenskaber meget ligner
 <sp>Brøggerit</sp>; dog indeholder det mere
 Yttrium.
 <i>(N. V. U.). O. B. B.</i></chapter>
 
-<chapter name = ”Cleveland”>
+<chapter name="Cleveland">
 <b>Cleveland</b> ['k£i.v£<sub>ə</sub>nd], <sp>Cliff Land</sp>,
 »Klippeland«, et temmelig ufrugtbart, bakket Landskab
 i det eng. Grevskab York S. f. Tees (Burton
@@ -153,7 +153,7 @@ Jernindustri, hvilket skyldes de store Forekomster
 af Rødjernsten og Stenkul.
 <i>G. Ht.</i></chapter>
 
-<chapter name = ”Cleveland, Byer i U. S. A.”>
+<chapter name="Cleveland, Byer i U. S. A.">
 <b>Cleveland</b> ['k£i.v£<sub>ə</sub>nd], 1) By i U. S. A., Stat
 Ohio, ligger 225 km NNØ. f. Columbus ved
 Cuyahoga Rivers Udløb i en Bugt af Erie-Søen,

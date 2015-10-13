@@ -16,7 +16,7 @@ henholdsvis om Pant, Laan, Leje, Skippers Ansvar
 for Ladning etc.
 <i>E. T.</i></chapter>
 
-<chapter name=”depontanus”>
+<chapter name="depontanus">
 <b>depontanus</b> (lat., af <i>de</i>, ned af, og <i>pons</i>
 en Bro) kaldtes i Rom en Mand, der havde
 overskredet det 60. Aar. Udtrykkets Oprindelse
@@ -31,10 +31,10 @@ Forklaringer er lidet trolige, og Udtrykkets
 Oprindelse er ganske dunkel.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Depopulation”>
+<chapter name="Depopulation">
 <b>Depopulation</b> (lat.), Affolkning.</chapter>
 
-<chapter name=”Deport”>
+<chapter name="Deport">
 <b>Deport</b> (eng. <i>Backwardation</i>). Naar den,
 der har solgt Varer ell. Effekter paa Levering,
 ikke inden Leveringsfristens Udløb er sat i
@@ -56,7 +56,7 @@ Spekulationsobjekt vil synke i Pris inden næste Termin.
 Modsætning til D. er Report.
 <i>(E. M.). C. Th.</i></chapter>
 
-<chapter name=”Deportation”>
+<chapter name="Deportation">
 <b>Deportation</b> (lat.), tvungen Bortsendelse -
 anvendt dels som Straf i H. t. Dom, dels som
 administrativ Forholdsregel - til et i Alm.

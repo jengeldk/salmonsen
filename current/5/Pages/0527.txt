@@ -6,7 +6,7 @@ Spillet. - Hvis Hundene spilles korrekt, kan
 Haren aldrig vinde.
 <i>Carl Br.</i></chapter>
 
-<chapter name=”Damster Diep”>
+<chapter name="Damster Diep">
 <b>Damster Diep</b> ['damst<sub>ə</sub>r-'di.p], Kanal i det
 nordlige Holland, Prov. Groningen, anlagt 1598,
 danner Forbindelse mellem Byen Groningen over
@@ -15,7 +15,7 @@ Ems. Den har siden Anlæget af Ems-Kanalen
 mistet meget af sin Bet.
 <i>J. M.-P.</i></chapter>
 
-<chapter name=”Damtæger”>
+<chapter name="Damtæger">
 <b>Damtæger</b> (<i>Hydrometridæ</i>), er en Fam. af
 Tægernes Orden, hovedsagelig bestaaende af de
 langstrakte, sorte Insekter, som saa ofte findes
@@ -69,7 +69,7 @@ vingede, snart som uvingede.
 
 <img>Damtæge.</img>
 
-<chapter name=”Damuda”>
+<chapter name="Damuda">
 <b>Damuda,</b> stor Flod i Bengalen i Forindien,
 udspringer i Landskabet Chutia-Nagpur,
 gennemstrømmer Ramgarh-Dalen og optager
@@ -84,7 +84,7 @@ der navnlig koncentrerer sig om Byen
 Ranigandj.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dan, dansk Sagnkonge”>
+<chapter name="Dan, dansk Sagnkonge">
 <b>Dan,</b> dansk Sagnkonge, Stamfader til Danerne
 og Grundlægger af det danske Rige. Hans Plads
 i Sagnkongernes Række er som Fader til
@@ -132,7 +132,7 @@ Knud den Store's Tid. (<sp>Litt</sp>.: <sp>A. Olrik</sp>,
 <sp>Samme</sp>, »Sakses Oldhistorie« [1894] § 19).
 <i>A. O.</i></chapter>
 
-<chapter name=”Dan, en israelitisk Stamme”>
+<chapter name="Dan, en israelitisk Stamme">
 <b>Dan,</b> en israelitisk Stamme. D. nævnes ved
 Siden af Naftali som Søn af Rachel's Slavinde
 Bilha, hvorved betegnes, at den slutter sig til

@@ -54,7 +54,7 @@ Skildringer af mange af de store Foretagender,
 hvori han har taget Del.
 <i>Sch. P.</i></chapter>
 
-<chapter name=”Dahlberg, Peter Oscar Quirin”>
+<chapter name="Dahlberg, Peter Oscar Quirin">
 <b>Dahlberg,</b> <sp>Peter Oscar Quirin</sp>, dansk
 Geograf og Skolemand, f. 5. Decbr 1850 i Kbhvn,
 blev Student 1869, <i>cand. theol.</i> 1875 og tog 1881
@@ -68,7 +68,7 @@ og som Udgiver af geogr.
 Lærebøger og Kort.
 <i>H. P. S.</i></chapter>
 
-<chapter name=”Dahlbom, Anders Gustaf”>
+<chapter name="Dahlbom, Anders Gustaf">
 <b>Dahlbom,</b> <sp>Anders Gustaf</sp>, sv. Entomolog,
 f. 1806 i Östergötland, d. 1859 i Lund, hvor
 han 1830, efter at have fuldendt sine akademiske
@@ -80,7 +80,7 @@ præcique borealia</i> (1843-53) er af grundlæggende
 Bet. for Studiet af Hvepsene.
 <i>R. H. S.</i></chapter>
 
-<chapter name=”Dahlbäck, Sigurd”>
+<chapter name="Dahlbäck, Sigurd">
 <b>Dahlbäck,</b> <sp>Sigurd</sp>, sv. Forf. f. i Falun 23.
 Juni 1866, blev <i>cand. jur.</i> 1892 og praktiserede
 1894-1914 som Advokat først i Sundsvall, siden
@@ -95,7 +95,7 @@ Rørdam 1915). Siden har han udgivet »Teckningar«
 (1915) og »General Döbeln« (1915).
 <i>A. M. D.</i></chapter>
 
-<chapter name=”Dahle, Lars Nilssøn”>
+<chapter name="Dahle, Lars Nilssøn">
 <b>Dahle,</b> <sp>Lars Nilssøn</sp>, norsk Missionær og
 Sprogforsker, f. i Grytten, Romsdals Amt, 7.
 Decbr 1843, blev 1861 Elev paa et Seminarium
@@ -134,7 +134,7 @@ og de apologetiske Foredrag »Livet efter
 Døden og Gudsrigets Fremtid« (1892).
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Dahlen, Johanne Elisabeth”>
+<chapter name="Dahlen, Johanne Elisabeth">
 <b>Dahlen,</b> <sp>Johanne Elisabeth</sp>, født
 <sp>Morthorst</sp>, dansk Skuespillerinde (1767-1845).
 D., der havde en smuk Sopranstemme,
@@ -148,7 +148,7 @@ gift med den svenskfødte Danser <sp>Carl D.</sp> (d.
 1851).
 <i>A. A.</i></chapter>
 
-<chapter name=”Dahlerup, dansk Slægt”>
+<chapter name="Dahlerup, dansk Slægt">
 <b>Dahlerup,</b> dansk Slægt, der stammer fra Vejpolitimester
 og Postmester i Hillerød, <sp>Hans
 Jensen D.</sp> (1758-1838), som tog Navn efter

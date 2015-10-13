@@ -3,7 +3,7 @@ til Konservator for Samlingen, der er knyttet til
 Konservatoriet.
 <i>W. B.</i></chapter>
 
-<chapter name = ”Clapperton, Hugh”>
+<chapter name="Clapperton, Hugh">
 <b>Clapperton</b> ['k£äpət<sub>ə</sub>n], <sp>Hugh</sp>, britisk
 Afrikarejsende (1788-1827). Som Deltager i den af
 det afrikanske Selskab under Oudney udsendte
@@ -25,7 +25,7 @@ denne Rejse af sin Tjener, Lander, der bragte
 hans Dagbøger til England.
 <i>C. A.</i></chapter>
 
-<chapter name = ”Claque”>
+<chapter name="Claque">
 <b>Claque</b> [klak], fr. Teaterudtryk for et paa
 Teatrenes Tilskuerplads anbragt Korps, der for
 Betaling har til Opgave, paa forud angivne
@@ -73,7 +73,7 @@ udbreder de Bladenes rosende Anmeldelser,
 medens de bortskaffer de ugunstige.
 <i>A. A.</i></chapter>
 
-<chapter name = ”Clara, den hellige”>
+<chapter name="Clara, den hellige">
 <b>Clara,</b> <sp>den hellige</sp>, Stifter af
 Clarisserindernes Nonneorden, f. 16. Juli 1194, som
 ældste Datter af Adelsmanden Favorino Sciffi i
@@ -104,14 +104,14 @@ blev helligdømt 1255, hendes Dag er 12. Aug.
 Assisi« [2. Udg. Kbhvn 1913]).
 <i>L. M.</i></chapter>
 
-<chapter name = ”Clara Raphael”>
+<chapter name="Clara Raphael">
 <b>Clara Raphael</b> [-'ra'faæl], se <sp>Fibiger, M</sp>.</chapter>
 
-<chapter name = ”clara voce”>
+<chapter name="clara voce">
 <b>clara voce</b> [-'vot∫e] (lat.), med lys, klar
 Stemme.</chapter>
 
-<chapter name = ”Clare, Grevskab”>
+<chapter name="Clare, Grevskab">
 <b>Clare</b> [k£æ.<sub>ə</sub>], Grevskab i den vestlige Del af
 Irland, Prov. Munster, mellem Galwaybugten
 og Shannons Munding, begrænses af

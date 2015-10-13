@@ -30,17 +30,17 @@ d'ossem. foss. d. mammifères</i> [1832-35];
 <sp>Winge</sp> i <i>E Museo Lundii</i> [3. Bd, 1. Halvbd 1906]).
 <i>R. Hg.</i></chapter>
 
-<chapter name=”Elefant-Floden”>
+<chapter name="Elefant-Floden">
 <b>Elefant-Floden,</b> se <sp>Olifant-Floden</sp>.</chapter>
 
-<chapter name=”Elefant Grund”>
+<chapter name="Elefant Grund">
 <b>Elefant Grund,</b> Store Bælt, omtr. midt
 imellem Romsø og Reersø. Den har en Udstrækning
 af 1 Sm i NV. og SØ. med mindre end 10 m
 Vand. Det lægeste Vand, 3 m, findes paa en
 Stenrøse paa den sydlige Del af Grunden.</chapter>
 
-<chapter name=”Elefantiasis”>
+<chapter name="Elefantiasis">
 <b>Elefantiasis</b> kaldes en kronisk Hudsygdom,
 der skyldes en tiltagende, stærk Udvikling af
 Bindevævet, hvorved Huden paa de angrebne
@@ -59,7 +59,7 @@ udviklede Tilfælde er den kun tilgængelig for
 kirurgisk Behandling.
 <i>E. P-n.</i></chapter>
 
-<chapter name=”Elefantine”>
+<chapter name="Elefantine">
 <b>Elefantine,</b> gr. Navn paa en Ø i Nilen, lige
 ndf. den »første Katarakt«, ovf. Byen Assuan,
 hvorfor den nu af Araberne kaldes Geziret
@@ -126,10 +126,10 @@ monuments et inscriptions de l'Égypte antique</i> I [Wien
 1894]).
 <i>V. S.</i></chapter>
 
-<chapter name=”Elefantlus”>
+<chapter name="Elefantlus">
 <b>Elefantlus,</b> se <sp>Anacardium</sp>.</chapter>
 
-<chapter name=”Elefantordenen”>
+<chapter name="Elefantordenen">
 <b>Elefantordenen,</b> dansk Ridderorden, der
 med temmelig stor Sikkerhed kan føres tilbage
 til Kong Christiern I. At ældre Tiders Skribenter

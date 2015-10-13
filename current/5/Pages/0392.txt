@@ -47,20 +47,20 @@ højstammede, smaa Krontræer af denne. Ligesom
 disse har lidet forgrenede Rødder.
 <i>L. H.</i></chapter>
 
-<chapter name=”Cytoblast”>
+<chapter name="Cytoblast">
 <b>Cytoblast,</b> d. s. s. <sp>Cellekerne</sp>.</chapter>
 
-<chapter name=”Cytoblastem”>
+<chapter name="Cytoblastem">
 <b>Cytoblastem.</b> Ifølge en nu forladt Teori
 troede man tidligere, at de dyriske Celler
 opstod af en Vædske; det er dog forlængst bevist,
 at Celler kun opstaar af andre Celler.
 <i>S. B.</i></chapter>
 
-<chapter name=”Cytode”>
+<chapter name="Cytode">
 <b>Cytode,</b> d. s. s. <sp>kerneløs Celle</sp>.</chapter>
 
-<chapter name=”cytofil”>
+<chapter name="cytofil">
 <b>cytofil</b> (κύτος = Celle; φίλους = kær)
 bruges for at betegne den Gruppe i <sp>Amboceptoren</sp>,
 der har Affinitet til og forbinder sig med en
@@ -72,11 +72,11 @@ Komplementet (se i øvrigt <sp>Amboceptor</sp> og
 <sp>Komplement</sp>).
 <i>O. T.</i></chapter>
 
-<chapter name=”cytogent Væv”>
+<chapter name="cytogent Væv">
 <b>cytogent Væv,</b> d. s. s. <sp>retikulært
 Bindevæv</sp>.</chapter>
 
-<chapter name=”Cytologi”>
+<chapter name="Cytologi">
 <b>Cytologi</b> (<sp>bot</sp>.) betyder egl. Læren om Cellen,
 men i den moderne Botanik anvendes
 Betegnelsen særlig om Cellekernen og dens Deling,
@@ -88,7 +88,7 @@ Arkegonier og Antheridier, Sporemoderceller o.
 l. hos alle blomsterløse Planter).
 <i>V. A. P.</i></chapter>
 
-<chapter name=”Cytolyse”>
+<chapter name="Cytolyse">
 <b>Cytolyse,</b> Celleopløsning (κύτος = Celle;
 λύσις = Opløsning), omfatter Processer, hvor
 forsk. Celler (røde Blodlegemer, Bakterier etc.)
@@ -114,10 +114,10 @@ en bestemt Celleart, kaldes et <sp>Cytolysin</sp>
 ell. <sp>Cytotoxin</sp>.
 <i>O. T.</i></chapter>
 
-<chapter name=”Cytoplasma”>
+<chapter name="Cytoplasma">
 <b>Cytoplasma,</b> se <sp>Celle</sp>.</chapter>
 
-<chapter name=”Cytoryctes”>
+<chapter name="Cytoryctes">
 <b>Cytoryctes.</b> De af <sp>Pfeiffer</sp> først
 omtalte og senere af <sp>Guarnieri</sp> 1892 nærmere
 beskrevne Dannelser, »Einschlüsse« (nu
@@ -150,14 +150,14 @@ som Kunstprodukter, frembragte ved
 Præparationen (smlg. i øvrigt <sp>Chlamydozoer</sp>).
 <i>O. T.</i></chapter>
 
-<chapter name=”Cytotoxin”>
+<chapter name="Cytotoxin">
 <b>Cytotoxin</b> (κύτος = Celle) bruges som
 Betegnelse for et, kompleks sammensat, biologisk
 Celleopløsningsmiddel, ensbetydende med
 Cytolysin (se <sp>Cytolyse</sp>).
 <i>O. T.</i></chapter>
 
-<chapter name=”cytotrop”>
+<chapter name="cytotrop">
 <b>cytotrop,</b> cellesøgende (κύτος = Celle),
 bruges i den chemoterapeutiske Terminologi for
 at betegne, at en Substans har en stærk
@@ -165,6 +165,6 @@ Affinitet til Celler (oftest af en bestemt Art), se
 i øvrigt <sp>Chempterapi</sp>.
 <i>O. T.</i></chapter>
 
-<chapter name=”Cz ...”>
+<chapter name="Cz ...">
 <b>Cz ...</b> [t∫-] (slaviske Ord, som savnes
 herunder, maa søges under Tsch . . .).</chapter>

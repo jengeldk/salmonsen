@@ -45,7 +45,7 @@ Jørgensen</sp>, »Forelæsninger over den danske
 Retshistorie« [1905], S. 294 flg.).
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Daneholm”>
+<chapter name="Daneholm">
 <b>Daneholm,</b> en lille Holm ved Indsejlingen
 til Göteborg, dannede tidligere Grænsemærke
 mellem Danmark, Sverige og Norge (nu
@@ -64,7 +64,7 @@ der næppe nogen Sinde har været Heste paa
 den lille Holm.
 <i>A. O.</i></chapter>
 
-<chapter name=”Danelag”>
+<chapter name="Danelag">
 <b>Danelag</b> bet. egl. blot dansk Lov, men
 Benævnelsen D. bruges i Middelalderen ogsaa om
 den Del af England, hvori de Danskes Lov
@@ -85,7 +85,7 @@ Erobring af England og Normandiet« [1863];
 <sp>Joh. Steenstrup</sp>, »D.« [1882]).
 <i>(Ludv. H.). P. J. J.</i></chapter>
 
-<chapter name=”Danell, David”>
+<chapter name="Danell, David">
 <b>Danell,</b> <sp>David</sp> (Navnet skrives ogsaa
 <sp>Dennel</sp> ell. <sp>de Nelle</sp>), formodentlig af
 nederlandsk Herkomst, f. 1605, d. 1661. D. blev
@@ -129,7 +129,7 @@ Kommandør i Søetaten og 1655 Assessor i
 Admiralitets-Kollegiet, der blev oprettet s. A.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Danell, Hjalmar”>
+<chapter name="Danell, Hjalmar">
 <b>Danell,</b> <sp>Hjalmar</sp>, sv. Biskop, f. 1860, blev
 1891 <i>cand. theol.</i> og s. A. præsteviet, 1892
 Docent og 1897 ekstraord. Prof. og <i>Dr. theol.</i> Som
@@ -144,6 +144,6 @@ Medlem af »Kyrkligt tidskrift«'s Redaktion, hvis
 Udgiver han har været siden 1906.
 <i>A. M. D.</i></chapter>
 
-<chapter name=”Danell's Øer”>
+<chapter name="Danell's Øer">
 <b>Danell's Øer,</b> en Gruppe Øer paa Grønlands
 Østkyst, der paa Graah's Kort er aflagt paa

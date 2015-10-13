@@ -7,10 +7,10 @@ Foretagende uden for den egl. Krigsskueplads,
 <sp>ekspedit</sp>, rask, flink, hurtig til at besørge
 noget.</chapter>
 
-<chapter name=”Ekspedition”>
+<chapter name="Ekspedition">
 <b>Ekspedition</b> ['æks-], se <sp>ekspedere</sp>,</chapter>
 
-<chapter name=”Ekspeditionssekretær”>
+<chapter name="Ekspeditionssekretær">
 <b>Ekspeditionssekretær.</b> I ministerielle og
 andre offentlige Kontorer her i Landet er E.
 en Titel, der tillægges en af Kontorets
@@ -22,7 +22,7 @@ hvilket svarer til, hvad vi her i Landet kalder
 Departementschefer.
 <i>K. Hch.</i></chapter>
 
-<chapter name=”Ekspektance”>
+<chapter name="Ekspektance">
 <b>Ekspektance</b> [-'taŋs<sub>ə</sub>] (lat.), Retten til at
 faa et Embede, naar det engang bliver ledigt;
 brugtes baade i Lensretten og i Kirkeretten.
@@ -51,11 +51,11 @@ en stor Rolle; dog har man ikke betragtet en
 Patrons Tilsagn som retsgyldig E.
 <i>H. O.</i></chapter>
 
-<chapter name=”Ekspektant”>
+<chapter name="Ekspektant">
 <b>Ekspektant</b> (lat.), en, som har Udsigt til,
 Forventning om at opnaa noget.</chapter>
 
-<chapter name=”ekspektativ Metode, Ekspektation”>
+<chapter name="ekspektativ Metode, Ekspektation">
 <b>ekspektativ Metode, Ekspektation</b> kaldes
 den i Lægevidenskaben brugelige
 Fremgangsmaade, hvorved man uden at anvende nogen
@@ -64,21 +64,21 @@ give indifferente Midler afventer - ekspekterer
 - Sygdommens videre Forløb.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Ekspektoration”>
+<chapter name="Ekspektoration">
 <b>Ekspektoration</b> ['æks-] (lat.), Opbringelse
 af Slim, Blod ell. anden Afsondring fra
 Aandedrætsorganerne ved Hjælp af Hoste, derfor det
 samme som Ophostning.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”ekspellere”>
+<chapter name="ekspellere">
 <b>ekspellere</b> (lat.), uddrive, fordrive, jage bort.</chapter>
 
-<chapter name=”Ekspenser”>
+<chapter name="Ekspenser">
 <b>Ekspenser</b> (lat. <i>expénsæ</i>), Udgifter,
 Omkostninger.</chapter>
 
-<chapter name=”Eksperiment”>
+<chapter name="Eksperiment">
 <b>Eksperiment</b> ['æks-] (lat.), Forsøg, en
 Handling foretaget for at erfare, hvad der vil
 ske under visse givne Betingelser. E. er altsaa
@@ -102,7 +102,7 @@ men som var fremmed for den systematiske
 Anvendelse af Forsøget.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Eksperimentalfonetik”>
+<chapter name="Eksperimentalfonetik">
 <b>Eksperimentalfonetik</b> ell.
 <sp>Instrumentalfonetik</sp> er Navnet paa den Retning
 inden for den fonetiske Videnskab, der i størst
@@ -123,10 +123,10 @@ Phonetik« (Berlin). Til Kritikken, navnlig af de
 »Phonetische Grundfragen« (Leipz. 1904) Kap. VI.
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Eksperimentalfysik”>
+<chapter name="Eksperimentalfysik">
 <b>Eksperimentalfysik</b> ['æks-], se <sp>Fysik</sp>.</chapter>
 
-<chapter name=”Eksperimentalpsykologi”>
+<chapter name="Eksperimentalpsykologi">
 <b>Eksperimentalpsykologi</b> er den Retning
 inden for Psykologien, som søger at tilvejebringe
 saavel paalideligere Selviagttagelser som et

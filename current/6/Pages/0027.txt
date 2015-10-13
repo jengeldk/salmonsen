@@ -22,17 +22,17 @@ rundt i 80 Dage«, »Kaptajn Grants Børn« og
 Succes.
 <i>S. Ms.</i></chapter>
 
-<chapter name=”Dennewitz, se Bülow, F. W.”>
+<chapter name="Dennewitz, se Bülow, F. W.">
 <b>Dennewitz</b> ['dæn<sub>ə</sub>vits], se <sp>Bülow, F. W.</sp></chapter>
 
-<chapter name=”Dennewitz, Flække”>
+<chapter name="Dennewitz, Flække">
 <b>Dennewitz</b> ['dæn<sub>ə</sub>vits], Flække i det preuss.
 Regeringsdistrikt Potsdam, 320 Indb. Den har
 et Monument til Minde om den Sejr,
 Preusserne under General Bülow vandt 6. Septbr 1813
 over Franskmændene under Marskal Ney.</chapter>
 
-<chapter name=”Denning, William Frederick”>
+<chapter name="Denning, William Frederick">
 <b>Denning</b> ['den<sub>i</sub>ŋ], <sp>William Frederick</sp>
 eng. Astronom, f. 25. Novbr 1848 i Braysdown
 ved Bath, indrettede sig 1867 et
@@ -50,7 +50,7 @@ talrige astron. Art., hovedsagelig over
 Stjerneskud, i Fagtidsskr.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Dennis, John”>
+<chapter name="Dennis, John">
 <b>Dennis</b> ['den<sub>i</sub>s], <sp>John</sp>, eng. Digter og
 Kritiker (1657-1734), studerede i Cambridge, men
 blev relegeret for at have dræbt en
@@ -67,15 +67,15 @@ Dunciad</i>, for Eftertiden den væsentligste Grund
 til at mindes ham.
 <i>I. O.</i></chapter>
 
-<chapter name=”denobilitere”>
+<chapter name="denobilitere">
 <b>denobilitere</b> (nylat.), fratage Adelsrang;
 <sp>Denobilitation</sp>, Berøvelse af Adelskab.</chapter>
 
-<chapter name=”denominandi jus”>
+<chapter name="denominandi jus">
 <b>denominandi jus,</b> Denominationsret, Ret til
 at indstille Kandidater til et ledigt Embede.</chapter>
 
-<chapter name=”Denominativum”>
+<chapter name="Denominativum">
 <b>Denominativum</b> (Plur. <i>Denominativa</i>) er i
 Grammatikken Benævnelse paa et Ord, der er
 dannet ved Afledning af et Nomen (ɔ: af et
@@ -110,7 +110,7 @@ Sten af en Ager. Af <i>ren</i> er paa Dansk dannet
 <sp>Orddannelse</sp>.
 <i>P. K. T.</i></chapter>
 
-<chapter name=”denominere”>
+<chapter name="denominere">
 <b>denominere</b> (lat.), benævne, udnævne;
 <sp>Denomination</sp>, Benævnelse, dels ved
 Anførelse af selve Navnet, dels ved Omskrivning,
@@ -119,7 +119,7 @@ ell. Sags eget Navn, f. Eks. »Korsikaneren« i
 St f. Napoleon, »Bacchus« i St f. Vin, »Peliden«
 for Achilleus.</chapter>
 
-<chapter name=”Denon, Dominique Vivant”>
+<chapter name="Denon, Dominique Vivant">
 <b>Denon</b> [d<sub>ö</sub>'nå], <sp>Dominique Vivant</sp>,
 Baron, fr. Tegner og Raderer, f. i Givry 1747,
 d. 1825, en Tid Diplomat, fra 1804
@@ -144,20 +144,20 @@ originale de V. D. Collection de 300 eaux-fortes
 1872]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”de novo”>
+<chapter name="de novo">
 <b>de novo</b> (lat.), paa ny.</chapter>
 
-<chapter name=”Dens”>
+<chapter name="Dens">
 <b>Dens,</b> <sp>Tand</sp>. <i>D. epistrofeï</i>, se
 <sp>Hvirvelsøjlen</sp>.</chapter>
 
-<chapter name=”Densimeter”>
+<chapter name="Densimeter">
 <b>Densimeter,</b> se <sp>Aræometer</sp>.</chapter>
 
-<chapter name=”Densitet”>
+<chapter name="Densitet">
 <b>Densitet</b> (lat.), Tæthed.</chapter>
 
-<chapter name=”Densusianu, Nikolaus”>
+<chapter name="Densusianu, Nikolaus">
 <b>Densusianu</b> [denzu'∫<sub>i</sub>anu], <sp>Nikolaus</sp>,
 rum. Historiker, f. 1846, er egl. Advokat, men har
 syslet flittig med sit Fædrelands Historie og

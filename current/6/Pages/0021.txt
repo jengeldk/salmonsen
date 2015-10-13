@@ -16,7 +16,7 @@ Stenbrud og Kulminer. I D. udkommer
 adskillige Bøger og en Avis i det kymriske Sprog.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Denck, Hans”>
+<chapter name="Denck, Hans">
 <b>Denck,</b> <sp>Hans</sp>, tysk Gendøber (c. 1495-
 1527), var opr. Discipel af Økolampadius og
 blev 1523 Rektor for Sebaldusskolen i Nürnberg,
@@ -30,7 +30,7 @@ og Skriftens Autoritet. D. døde i Basel af Pest.
 (<sp>Litt</sp>.: <sp>G. Haake</sp>, »H. D.« [1897]).
 <i>A. Th. J.</i></chapter>
 
-<chapter name=”Dencker, Hans Frederik Carl”>
+<chapter name="Dencker, Hans Frederik Carl">
 <b>Dencker,</b> <sp>Hans Frederik Carl</sp>, dansk
 Ingeniør, født 17. Januar 1861 i Aalborg, hvor
 Faderen var Møllebygger, d. 28. Aug. 1897. D.
@@ -55,7 +55,7 @@ Landøkonomi«, ligesom han leverede Bidrag til
 »Landmandsbogen«, Salmonsen's Leksikon m. m.
 <i>A. C-n.</i></chapter>
 
-<chapter name=”Den Constitutionelle”>
+<chapter name="Den Constitutionelle">
 <b>Den Constitutionelle,</b> norsk Dagblad
 1836-47, grundlagt af den danskfødte Boghandler
 Johan F. Dahl med Juristerne C. A. Fougstad,
@@ -82,18 +82,18 @@ og Apr. 1847 blev D. C. slaaet sammen med
 »Den norske Rigstidende«.
 <i>K. V. H.</i></chapter>
 
-<chapter name=”Den danske Landmandsbank”>
+<chapter name="Den danske Landmandsbank">
 <b>Den danske Landmandsbank,</b> se
 <sp>Landmandsbanken</sp>.</chapter>
 
-<chapter name=”Dender, Biflod”>
+<chapter name="Dender, Biflod">
 <b>Dender</b> ['dænd<sub>ə</sub>r] (<sp>Dendre</sp>), Biflod til
 Schelde, udmunder efter et 117 km langt Løb i
 Hovedfloden ved Dendermonde i Østflandern, er
 sejlbar paa 65 km.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Dender, ægypt. By”>
+<chapter name="Dender, ægypt. By">
 <b>Dender</b> (<sp>Dendra</sp>), ægypt. By (9000 Indb.)
 V. f. Nilen, 45 km N. f. Theben, lige over for
 Keneh, med et af de bedst bevarede Templer,

@@ -2,7 +2,7 @@
 <b>Déchargebeklædning</b> [de'sjarsj<sub>ə</sub>-], se
 <sp>Beklædningsmur</sp>.</chapter>
 
-<chapter name=”Dechen, Heinrich von”>
+<chapter name="Dechen, Heinrich von">
 <b>Dechen</b> ['dæk<sub>ə</sub>n], <sp>Heinrich von</sp>, tysk
 Geolog, f. 25. Marts 1800 i Berlin, d. 15. Febr
 1889 i Bonn. D. studerede Bjergværkslære i
@@ -20,16 +20,16 @@ desuden foreligger fra hans Haand talrige Afh.,
 særlig om Rhinlandenes Geologi.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Dechenit”>
+<chapter name="Dechenit">
 <b>Dechenit</b> [dek<sub>ə</sub>'nit], et Mineral fra
 Rhinbayern, der sandsynligvis er identisk med
 Descloizit.
 <i>O. B. B.</i></chapter>
 
-<chapter name=”dechifrere”>
+<chapter name="dechifrere">
 <b>dechifrere</b> [-∫i-], se <sp>Lønskrift</sp>.</chapter>
 
-<chapter name=”Deci-”>
+<chapter name="Deci-">
 <b>Deci-,</b> af det lat. <i>décem</i> - ti, sættes foran
 Enhedsbenævnelserne i Metersystemet for at
 betegne 1/10 af Enheden, f. Eks. 1 <sp>Decimeter</sp>
@@ -37,10 +37,10 @@ betegne 1/10 af Enheden, f. Eks. 1 <sp>Decimeter</sp>
 v., se <sp>metrisk Maal</sp>.
 <i>(C. V. S.). Th. O.</i></chapter>
 
-<chapter name=”decidere”>
+<chapter name="decidere">
 <b>decidere</b> (lat.), afgøre, bestemme.</chapter>
 
-<chapter name=”Decidua”>
+<chapter name="Decidua">
 <b>Decidua</b> (lat.) ell. <i>Membrana d.</i> (paa Fransk
 <i>la caduque</i>) benævnes Slimhindebeklædningen i
 Livmoderens Hulhed under Svangerskabet. Den
@@ -75,19 +75,19 @@ benævnes Slimhinden i Livmoderen paa
 Menstruationsblødningens Tid <i>D. menstrualis</i>.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”Decigram”>
+<chapter name="Decigram">
 <b>Decigram,</b> 1/10 g, se <sp>metrisk Maal</sp>.</chapter>
 
-<chapter name=”Deciliter”>
+<chapter name="Deciliter">
 <b>Deciliter,</b> 1/10 l, se <sp>metrisk Maal</sp>.</chapter>
 
-<chapter name=”decima”>
+<chapter name="decima">
 <b>decima</b> (lat.), Tiendedel, Tiende.</chapter>
 
-<chapter name=”Decimal”>
+<chapter name="Decimal">
 <b>Decimal,</b> se <sp>Decimalbrøk</sp>.</chapter>
 
-<chapter name=”Decimalbrøk”>
+<chapter name="Decimalbrøk">
 <b>Decimalbrøk.</b> Naar et helt Tal er skrevet
 i Titalsystemet, angives som bekendt dets
 Antal af Enere, Tiere, Hundreder o. s. v. ved
@@ -147,7 +147,7 @@ Danmark indførtes D. ved Christoffer Dybvad's
 Regnebog (1602) med Stevin's Betegnelser.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”Decimalgrad”>
+<chapter name="Decimalgrad">
 <b>Decimalgrad,</b> paa Fransk <i>dégré décimal</i>,
 Længdemaal = 100000 m = 1/100 af den ved
 Metersystemets Indførelse antagne Længde af
@@ -156,7 +156,7 @@ Polen til Ækvator maalt langs Havets Overflade,
 se <sp>metrisk Maal</sp>.
 <i>(C. V. S.). Th. O.</i></chapter>
 
-<chapter name=”Decimalsystemet”>
+<chapter name="Decimalsystemet">
 <b>Decimalsystemet,</b> Tidelingssystemet. I D.
 vælger man de forsk. Enheder, hvorved
 Størrelser af en vis Art maales, saaledes, at de

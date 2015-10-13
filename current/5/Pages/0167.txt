@@ -34,7 +34,7 @@ hvor Alpevejene over Splügen og Stilfser Joch
 ender.
 <i>(C. A.). H. P. S.</i></chapter>
 
-<chapter name=”Compagni, Dino”>
+<chapter name="Compagni, Dino">
 <b>Compagni</b> [kom'pan<sub>j</sub>i], <sp>Dino</sp>, ital. Forf.,
 f i Firenze i Midten af 13. Aarh., d. 26. Febr
 1324. Han var opr. Købmand i Firenze, men
@@ -79,7 +79,7 @@ ikke uden Værdi; det er udg. af Franc. Trucchi
 1846 og siden af Gellrich (Breslau 1883).
 <i>(E. G.). E. M-r.</i></chapter>
 
-<chapter name=”Compagnie des Indes”>
+<chapter name="Compagnie des Indes">
 <b>Compagnie des Indes</b> [kåpa'n<sub>j</sub>i-dæ'z-æ.d],
 et fr. Aktieselskab, stiftet af John Law. Efter at
 Law 1717 havde stiftet <i>Compagnie d'Occident</i>,
@@ -117,7 +117,7 @@ Handelsprivilegium blev ophævet 13. Aug. 1769,
 hvorefter det likviderede.
 <i>(E. M.). C. Th.</i></chapter>
 
-<chapter name=”Compagnie générale transatlantique”>
+<chapter name="Compagnie générale transatlantique">
 <b>Compagnie générale transatlantique</b>
 [kåpa'n<sub>j</sub>i-зene'ral-trãzatlã'tik], fr.
 Dampskibsselskab, stiftet i le Havre af de to Brødre
@@ -138,7 +138,7 @@ Selskabet besørger Posten paa sine samtlige Linier
 og modtager herfor en stor aarlig Subvention.
 <i>C. F. S.</i></chapter>
 
-<chapter name=”compagnonnages”>
+<chapter name="compagnonnages">
 <b>compagnonnages</b> [kåpan<sub>j</sub>å'na.3] (af
 <i>compagnon</i>, »Arbejder«) er Navnet paa visse faglige
 Organisationer af fr. Haandværkssvende, hvis

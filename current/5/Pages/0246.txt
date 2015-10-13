@@ -128,10 +128,10 @@ Mængde private Lovsamlinger fra nyere Tider
 af meget fo£skelligartet Indhold.
 <i>E. T.</i></chapter>
 
-<chapter name=”Corpus juris canonici”>
+<chapter name="Corpus juris canonici">
 <b>Corpus juris canonici,</b> se <sp>Kanonisk Ret</sp>.</chapter>
 
-<chapter name=”Corpus pineale”>
+<chapter name="Corpus pineale">
 <b>Corpus pineale,</b> ogsaa kaldet <i>conarium</i>,
 <i>epiphysis cerebri</i> ell. <i>glandula pinealis</i>, paa Dansk
 Koglekirtlen ell. Kongelen, er et ærtstort Legeme
@@ -143,7 +143,7 @@ mener, det spiller en Rolle for Udviklingen af
 de sekundære Kønskarakterer.
 <i>K. H. K.</i></chapter>
 
-<chapter name=”Corradino, Corrado”>
+<chapter name="Corradino, Corrado">
 <b>Corradino,</b> <sp>Corrado</sp>, ital. Forf., f. 1852;
 i Turin. Der studerede han ogsaa; 1881 blev
 han Prof. i ital. Litt. ved <i>Polytechnicum</i> i

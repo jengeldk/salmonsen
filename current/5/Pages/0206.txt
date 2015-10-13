@@ -7,7 +7,7 @@ arab. Kunst: <i>El arte drabe en España</i> (Madrid
 1875, fl. senere Udg.).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Contrexéville”>
+<chapter name="Contrexéville">
 <b>Contrexéville</b> [kåtrækse'vil], fr. Badested i
 Dept Vosges, Arrond. Mirecourt, 30 km fra
 Bourbonne, 350 m o. H. 900 Indb. Der findes 3
@@ -30,15 +30,15 @@ Temperaturforandringer er ikke sjældne. Aarlig c. 5000
 Kurgæster. Vandet forsendes ogsaa.
 <i>E. F.</i></chapter>
 
-<chapter name=”contritio”>
+<chapter name="contritio">
 <b>contritio</b> (lat.), se <sp>Bod</sp>.</chapter>
 
-<chapter name=”Contrôleur general des finances”>
+<chapter name="Contrôleur general des finances">
 <b>Contrôleur general des finances</b> [kåtro
 'lö.r-зene'ral-dæ-fi'nã.s], se
 <sp>Generalkontrolør</sp>.</chapter>
 
-<chapter name=”contubèrnium”>
+<chapter name="contubèrnium">
 <b>contubèrnium</b> (lat.), egl. Teltkammeratskab
 i Krigen; deraf <i>contubernales</i>, Folk, der deler
 Værelse med hinanden. Særlig brugtes c. om
@@ -49,17 +49,17 @@ saadant c. fødte Børn, som overhovedet alt Afkom
 af Slavinder, blev Slaver og Herrens Ejendom.
 <i>A. B. D.</i></chapter>
 
-<chapter name=”Contucci, A.”>
+<chapter name="Contucci, A.">
 <b>Contucci</b> [kân'tut.∫i], <sp>A.</sp>, se <sp>Sansovino</sp>.</chapter>
 
-<chapter name=”contumacia”>
+<chapter name="contumacia">
 <b>contumacia,</b> Trods, Genstridighed, Ulydighed
 mod en Lov ell. retslig Akt, f. Eks. Undladelse
 af at efterkomme en lovlig Stævning, jfr
 Kontumacialproces.
 <i>E. T.</i></chapter>
 
-<chapter name=”contus”>
+<chapter name="contus">
 <b>contus</b> (lat., af gr. κόντος, Stage), lang Stang,
 hvormed t. Eks. en Baad stages frem. Ikke
 sjælden afbildes Charon med en saadan.
@@ -73,7 +73,7 @@ Eskadron havde Navn efter Kejser Trajan og var da
 vel dannet af ham.
 <i>H. A. K.</i></chapter>
 
-<chapter name=”Contusio”>
+<chapter name="Contusio">
 <b>Contusio</b> (lat., ligefremt oversat: Stød)
 benyttes i Lægevidenskaben som det systematiske
 Navn paa alle Lidelser fremkomne ved, at
@@ -112,10 +112,10 @@ betydelige Resultater for Hurtigheden af
 Helbredelsen af C.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”contusus”>
+<chapter name="contusus">
 <b>contusus</b> (lat.), paa Recepter: knust.</chapter>
 
-<chapter name=”Conularia”>
+<chapter name="Conularia">
 <b>Conularia,</b> en uddød Dyreslægt, hvis Krop
 var omgivet af et som en firsidet Pyramide
 formet Kalkrør. Spidsen af dette var under Dyrets
@@ -127,17 +127,17 @@ er meget usikker; formodentlig var den
 beslægtet med Vingesneglene.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Conurinæ, Conurus”>
+<chapter name="Conurinæ, Conurus">
 <b>Conurinæ, Conurus</b> (<sp>Kilehaler</sp>), se
 <sp>Papegøjer</sp>.</chapter>
 
-<chapter name=”Conus”>
+<chapter name="Conus">
 <b>Conus,</b> se <sp>Keglesnegl</sp>.</chapter>
 
-<chapter name=”Conus arteriosus”>
+<chapter name="Conus arteriosus">
 <b>Conus arteriosus,</b> se <sp>Fisk</sp> (Hjertet).</chapter>
 
-<chapter name=”Convallamarin”>
+<chapter name="Convallamarin">
 <b>Convallamarin,</b> C<sub>23</sub>H<sub>44</sub>O<sub>12</sub>, er et Glykosid,
 der findes i Liljekonvaller (<i>Convallaria majalis</i>),
 hvoraf det kan udtrækkes med Vand. Det er et
@@ -151,7 +151,7 @@ bliver mørkerød og derpaa violet. C. er en
 stærk Hjertegift.
 <i>R. K.</i></chapter>
 
-<chapter name=”Convallaria L.”>
+<chapter name="Convallaria L.">
 <b>Convallaria</b> L., Slægt af Konvalfam. med
 en enkelt Art <i>C. majalis</i> L. (<sp>Liljekonval</sp>),
 en fleraarig Urt med krybende Rodstok, der

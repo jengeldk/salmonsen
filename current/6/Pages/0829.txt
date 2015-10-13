@@ -34,7 +34,7 @@ exécutées à la tour Eiffel</i> (Paris 1907), og i
 résistance de l'air</i> (1912).
 <i>A. O-d.</i></chapter>
 
-<chapter name=”Eiffel-Taarnet”>
+<chapter name="Eiffel-Taarnet">
 <b>Eiffel-Taarnet</b> [æ'fæl-], det 300 m høje
 Jerntaarn, der byggedes paa Marsmarken i
 Paris af Ingeniør Eiffel i Anledning af
@@ -89,7 +89,7 @@ Fugtigheds- og Temperaturforhold o. s. v.).
 <img>
 Eiffel-Taarnet.</img>
 
-<chapter name=”Eiger”>
+<chapter name="Eiger">
 <b>Eiger</b> ['a^ig<sub>ə</sub>r], en af de højeste Tinder i
 Finsteraarhorn-Gruppen i Berner-Alperne,
 hæver sig SV. f. Grindelwald-Dalen til en Højde
@@ -98,19 +98,19 @@ af Ch. Barrington. Den bestiges fra Stationen
 Scheideck.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eigg”>
+<chapter name="Eigg">
 <b>Eigg</b> [eg], lille Ø ved Skotlands Vestkyst,
 ligger i Hebridernes indre Gruppe S. f. Sky.
 29,5 km<sup>2</sup> med c. 200 Indb. Den højeste Top,
 <sp>Scuir of E.</sp> (393 m), bestaar af Basalt.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Eighth”>
+<chapter name="Eighth">
 <b>Eighth</b> ['e<sub>i</sub>tþ], eng. Længdemaal = 1/8 Inch
 = 3,175 mm.
 <i>Th. O.</i></chapter>
 
-<chapter name=”Eigonpræparater”>
+<chapter name="Eigonpræparater">
 <b>Eigonpræparater</b> [aj-] er Jod- og
 Brom-Æggehvidepræparater af konstant
 Sammensætning og anvendes i Medicinen, dels indvortes i St

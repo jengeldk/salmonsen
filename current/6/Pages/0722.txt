@@ -18,7 +18,7 @@ forsvinder med Revolutionen. - I Tyskland bliver
 <i>scabini</i> til »Schöffen«.
 <i>P. J. J.</i></chapter>
 
-<chapter name=”Echidna”>
+<chapter name="Echidna">
 <b>Echidna</b> [-kid-], efter gr. Sagn et fantastisk
 Væsen, foroven Kvinde, forneden Slange, der
 boede i en dyb Klippehule i Arimernes Land.
@@ -32,10 +32,10 @@ ogsaa Gorgo, Skylla, den kolchiske og den
 hesperiske Drage for Børn af E.
 <i>C. B.</i></chapter>
 
-<chapter name=”Echidna, se Næbdyr”>
+<chapter name="Echidna, se Næbdyr">
 <b>Echidna</b> [-kid-], se <sp>Næbdyr</sp>.</chapter>
 
-<chapter name=”Echinader”>
+<chapter name="Echinader">
 <b>Echinader</b> [-ki-] hed i Oldtiden en Gruppe
 smaa Klippeøer ved Akarnaniens Kyst, uden for
 Acheloos' Munding. Nogle af dem var allerede
@@ -43,10 +43,10 @@ i Oldtiden ved Alluvialdannelse blevne
 landfaste.
 <i>C. B.</i></chapter>
 
-<chapter name=”Echinidæ”>
+<chapter name="Echinidæ">
 <b>Echinidæ</b> [-ki-], se <sp>Søpindsvin</sp>.</chapter>
 
-<chapter name=”Echinocactus”>
+<chapter name="Echinocactus">
 <b>Echinocactus</b> [-ki-] Lk. et Otto, Slægt af
 Kaktusfam. med kugle- ell. kølleformet og
 undtagelsesvis kort cylindrisk Stamme; oftest er
@@ -104,7 +104,7 @@ ganske jævn Overgang til Slægten <i>Mamillaria</i>.
 
 <img><i>Echinocactus horizonthalonius</i> Lem.</img>
 
-<chapter name=”Echinocereus”>
+<chapter name="Echinocereus">
 <b>Echinocereus</b> [-ki--reus] Eng., Slægt af
 Kaktusfam. med kort søjleformet, cylindrisk ell.
 kantet, og meget sjælden kugleformet Stamme;
@@ -129,6 +129,6 @@ har røde Blomster; den første har over 18
 Ribber, den sidste indtil 18.
 <i>A. M.</i></chapter>
 
-<chapter name=”Echinochloë”>
+<chapter name="Echinochloë">
 <b>Echinochloë</b> [-ki-klo-], se <sp>Hanespore</sp>.</chapter>
 

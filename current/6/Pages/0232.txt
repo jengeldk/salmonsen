@@ -9,26 +9,26 @@ Resten forøger Legemets virkelige
 Varmeindhold.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Dish”>
+<chapter name="Dish">
 <b>Dish</b> [di∫] (<sp>Oredish</sp>, d. e. <sp>Ertsskaal</sp>),
 eng. Maal til Blyerts = 1073 1/2 eng.
 Kubiktommer = 17,591 l.
 <i>Th. O.</i></chapter>
 
-<chapter name=”Disharmoni”>
+<chapter name="Disharmoni">
 <b>Disharmoni</b> (lat.), Mislyd, Mangel paa
 Overensstemmelse, Tvist; <sp>disharmonere</sp>, ikke
 stemme overens, være uenig;
 <sp>disharmonisk</sp>, misklingende, mislydende, uenig.</chapter>
 
-<chapter name=”Dishley-Faar”>
+<chapter name="Dishley-Faar">
 <b>Dishley-Faar</b> ['di∫£<sub>i</sub>-], se <sp>Faar</sp>.</chapter>
 
-<chapter name=”Disis”>
+<chapter name="Disis">
 <b>Disis,</b> det ved et Dobbeltkryds (X) 2 halve
 Toner forhøjede <i>d</i>, enharmonisk = <i>e</i>.</chapter>
 
-<chapter name=”disjecta membra”>
+<chapter name="disjecta membra">
 <b>disjecta membra</b> (iat.), unøjagtigt Citat efter
 Horats, Sat. I 4, V. 62: <i>invenias etiam disjecti
 membra poetæ</i>, »man kan genfinde Lemmerne
@@ -40,7 +40,7 @@ selv om man »river ham i Stykker« ɔ: bytter
 om paa Ordenes Orden.
 <i>H. H. R.</i></chapter>
 
-<chapter name=”disjunktiv”>
+<chapter name="disjunktiv">
 <b>disjunktiv</b> betyder egl. adskilt og bruges i
 Logikken om en Dom, der udsiger, at en af
 fl. hinanden udelukkende Paastande er sand.
@@ -63,7 +63,7 @@ der kan udtrykkes i en alm. kategorisk
 Syllogisme.
 <i>W. N.</i></chapter>
 
-<chapter name=”Diskant”>
+<chapter name="Diskant">
 <b>Diskant,</b> d. s. s. <sp>Sopran</sp>; ved Orgelstemmer
 en Betegnelse for, at paagældende Stemme kun
 omfatter den øverste Halvdel af Klaviaturet;
@@ -72,7 +72,7 @@ i firhændig Klavermusik den øverste Stemme
 <sp>Discantus</sp>.
 <i>S. L.</i></chapter>
 
-<chapter name=”Disken”>
+<chapter name="Disken">
 <b>Disken,</b> en Sandplade i Øresund, omtrent
 midt i Farvandet tæt S. f. Kronborg Pynt. Det
 laveste Vand, 7,2 m, findes paa en Pulle omtr.
@@ -81,7 +81,7 @@ Holdebund; der ligger derfor ofte mange Skibe til
 Ankers for at afvente god Vind.
 <i>G. F. H.</i></chapter>
 
-<chapter name=”Disko”>
+<chapter name="Disko">
 <b>Disko,</b> en 8300 km<sup>2</sup> stor Ø ved Grønlands
 Vestkyst mellem 69 1/4° og 70 1/4° n. Br. Øens
 grønlandske Navn er Kekertarssuak. Mod NØ.

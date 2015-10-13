@@ -16,7 +16,7 @@ in seinen Beziehungen zum Neuplatonismus
 und Mysterienwesen« [Mainz 1900]).
 <i>L. M.</i></chapter>
 
-<chapter name=”Dionysios fra Halikarnassos”>
+<chapter name="Dionysios fra Halikarnassos">
 <b>Dionysios</b> <sp>fra Halikarnassos</sp>, græsk
 Retor og Historieskriver, kom 30 f. Kr. til Rom,
 hvor han traadte i Forbindelse med mange
@@ -55,7 +55,7 @@ af Overleveringen om det gl. og ældste Rom«
 II, S. 612 ff.]).
 <i>K. H.</i></chapter>
 
-<chapter name=”Dionysios Periegetes”>
+<chapter name="Dionysios Periegetes">
 <b>Dionysios</b> <sp>Periegetes</sp>, græsk Geograf,
 sandsynligvis tilhørende 2. Aarhundrede efter
 Kr., Forf. til et Digt paa 1185 Heksametre,
@@ -69,7 +69,7 @@ dertil. Udg. af Müller (i <i>Geographi Græci
 minores</i>, II, 1861).
 <i>K. H.</i></chapter>
 
-<chapter name=”Dionysios Thrax”>
+<chapter name="Dionysios Thrax">
 <b>Dionysios</b> <sp>Thrax</sp> (»Thrakeren«), græsk
 Grammatiker c. 100 f. Kr., Discipel af
 Aristarchos, Forf. til den første græske Grammatik
@@ -80,10 +80,10 @@ Middelalderen overs. til Armenisk og Syrisk.
 Hovedudgave af Uhlig (Leipzig 1884).
 <i>K. H.</i></chapter>
 
-<chapter name=”Dionysisk Tidsregning”>
+<chapter name="Dionysisk Tidsregning">
 <b>Dionysisk Tidsregning,</b> se <sp>Kronologi</sp>.</chapter>
 
-<chapter name=”Dionysius den Lille”>
+<chapter name="Dionysius den Lille">
 <b>Dionysius</b> <sp>den Lille</sp> (<sp>Exiguus</sp>),
 antagelig en Skythe af Fødsel, var omkr. Aar 530
 Abbed i Rom, hvor han døde 556. Han er
@@ -98,7 +98,7 @@ Amtsbreve fra rom. Biskopper nød som Dekretaler
 stor Anseelse.
 <i>J. Fr. S.</i></chapter>
 
-<chapter name=”Dionysius den Retfærdige”>
+<chapter name="Dionysius den Retfærdige">
 <b>Dionysius</b> (<sp>Diniz</sp>) <sp>den Retfærdige</sp>,
 1261, Konge af Portugal 1279-1325. Han
 begyndte sin Regering med at nægte Paven den
@@ -123,7 +123,7 @@ misfornøjet over, at Faderen begunstigede sin
 naturlige Søn Pedro Sanchez.
 <i>(M. M.). Chr. H.</i></chapter>
 
-<chapter name=”Dionysos”>
+<chapter name="Dionysos">
 <b>Dionysos</b> (gr.) (hertil 2 Tavler med 5
 Figurer), Vinens og Vinavlens Gud, hører ikke
 til den oprindelige græske Gudekreds, men er

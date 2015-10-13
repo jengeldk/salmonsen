@@ -33,13 +33,13 @@ modtager Halvdelen af den Bødesum, der erlægges
 for Overtrædelse af Fiskeriloven.
 <i>C. V. O.</i></chapter>
 
-<chapter name=”Dansk Fiskeritidende”>
+<chapter name="Dansk Fiskeritidende">
 <b>Dansk Fiskeritidende,</b> et Ugeblad, hvis
 Udgivelse begyndte 1903, er Medlemsblad for
 Dansk Fiskeriforening (s. d.).
 <i>C. V. O.</i></chapter>
 
-<chapter name=”Dansk Folkeblad”>
+<chapter name="Dansk Folkeblad">
 <b>Dansk Folkeblad</b> blev den første litterære
 Tilkendegivelse af det 1835, af en Kreds af
 liberalt sindede Mænd, stiftede »Selskab for
@@ -71,7 +71,7 @@ sidste Aargang (1848), hvori en Artikel om
 »Adel og Embedsbesættelser«, beslaglagt.
 <i>J. Cl.</i></chapter>
 
-<chapter name=”Dansk Folkeforening”>
+<chapter name="Dansk Folkeforening">
 <b>Dansk Folkeforening</b> stiftedes i Kbhvn
 1865 efter en 25. Jan. s. A. udstedt Indbydelse
 af 65 Mænd, hvoriblandt Hall, Bille, Klein,
@@ -99,7 +99,7 @@ Landet. Efter Lehmann's Død 1870 ophørte den
 at eksistere.
 <i>N. N.</i></chapter>
 
-<chapter name=”Dansk Folkeforsikringsanstalt”>
+<chapter name="Dansk Folkeforsikringsanstalt">
 <b>Dansk Folkeforsikringsanstalt,</b>
 <sp>Aktieselskabet</sp>, stiftedes 1896 med det særlige
 Formaal specielt bl. de mindre bemidlede
@@ -124,7 +124,7 @@ samlet Aarspræmie af c. 2,88 Mill. Kr. Anstaltens
 Formue er c. 15 Mill. Kr.
 <i>Chr. Th.</i></chapter>
 
-<chapter name=”Dansk Folkemindesamling”>
+<chapter name="Dansk Folkemindesamling">
 <b>Dansk Folkemindesamling,</b> oprettet 1904
 -05 i »Det kgl. Bibliotek«, men med
 selvstændig Forstander, har til Opgave at samle
@@ -148,7 +148,7 @@ S. 470-88]; »F. F. Communications« I, Nr 1-2
 [Helsingfors 1911]).
 <i>A. O.</i></chapter>
 
-<chapter name=”Dansk Folkemuseum”>
+<chapter name="Dansk Folkemuseum">
 <b>Dansk Folkemuseum</b> grundlagdes
 Sommeren 1879, da Industriforeningen og Foreningen
 »Fremtiden« afholdt en Udstilling af Fortids

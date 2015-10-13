@@ -25,16 +25,16 @@ kvalmeforaarsagende Medikamenter (Brækvinsten, Ipekakuanha
 o. s. v.) benyttes som sveddrivende.
 <i>Lp. M.</i></chapter>
 
-<chapter name=”diaforetiske Midler”>
+<chapter name="diaforetiske Midler">
 <b>diaforetiske Midler,</b> se <sp>Diaforese</sp>.</chapter>
 
-<chapter name=”Diaforit”>
+<chapter name="Diaforit">
 <b>Diaforit,</b> se <sp>Bournonit</sp>.</chapter>
 
-<chapter name=”Diafototropisme”>
+<chapter name="Diafototropisme">
 <b>Diafototropisme,</b> se <sp>Fototropisme</sp>.</chapter>
 
-<chapter name=”Diafragma, Skillevæg”>
+<chapter name="Diafragma, Skillevæg">
 <b>Diafragma</b> (gr.), Skillevæg. I <sp>Fysikken</sp>
 bruges Ordet om de gennembrudte Plader, der
 anvendes som Blendinger i Kikkerter etc., samt
@@ -43,18 +43,18 @@ finder Diffusion Sted. Ogsaa vel af og til om
 enhver anden tynd Skillevæg.
 <i>K. S. K.</i></chapter>
 
-<chapter name=”Diafragma, Mellemgulv”>
+<chapter name="Diafragma, Mellemgulv">
 <b>Diafragma</b> (<sp>lægevidenskabelig</sp>), se
 <sp>Mellemgulv</sp>.</chapter>
 
-<chapter name=”Diafragma, Blende”>
+<chapter name="Diafragma, Blende">
 <b>Diafragma,</b> Blende, er en med et Hul
 forsynet, uigennemsigtig tynd Plade, der ved
 Fotografering afskærer en Del af Objektivets
 Randstraaler.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Diafterin”>
+<chapter name="Diafterin">
 <b>Diafterin</b> (<sp>Oxychinaseptol</sp>) opstaar
 ved Mætning af 0-Fenolsulfonsyre med
 8-Oxychinolin og danner ravgule, gennemsigtige
@@ -77,10 +77,10 @@ Nikkel bliver sort anløbne ved Behandling
 dermed.
 <i>(A. B.). E. K.</i></chapter>
 
-<chapter name=”Diafyse”>
+<chapter name="Diafyse">
 <b>Diafyse,</b> se <sp>Ben</sp>, 1).</chapter>
 
-<chapter name=”Diagenese”>
+<chapter name="Diagenese">
 <b>Diagenese</b> kaldes i Geologien den molekulære
 og kem. Omdannelse, som Jordlagene navnlig
 ved Grundvandets Indvirkning ofte undergaar,
@@ -90,17 +90,17 @@ sig særlig i en Omkrystallisation, en
 Konkretionsdannelse, en Hærdning ell. en Udludning.
 <i>J. P. R.</i></chapter>
 
-<chapter name=”Diageotropisme”>
+<chapter name="Diageotropisme">
 <b>Diageotropisme,</b> se <sp>Geotropisme</sp>.</chapter>
 
-<chapter name=”diaglyfisk”>
+<chapter name="diaglyfisk">
 <b>diaglyfisk</b> (gr.), fordybet, indad i en Flade
 udarbejdet; <sp>Diaglýfer</sp> (<sp>Diaglypter</sp>),
 Figurer, indarbejdede i en Flade (saaledes de
 uddybede Figurer i <sp>Intaglier</sp>).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Diagnose”>
+<chapter name="Diagnose">
 <b>Diagnose</b> er i Lægevidenskaben Bestemmelsen
 af et Sygdomstilfældes Art. Kunsten at »stille
 en Diagnose« kalder man <sp>Diagnostik</sp>,
@@ -141,10 +141,10 @@ bestemme D. i det foreliggende Tilfælde, kaldes
 <sp>differentiel Diagnostik</sp>.
 <i>(A. F.). H. I. B.</i></chapter>
 
-<chapter name=”Diagnostik”>
+<chapter name="Diagnostik">
 <b>Diagnostik,</b> se <sp>Diagnose</sp>.</chapter>
 
-<chapter name=”Diagonal”>
+<chapter name="Diagonal">
 <b>Diagonal</b> (<sp>mat</sp>.), i en Polygon, er en ret
 Linie, der forbinder to Vinkelspidser, som ikke
 er Endepunkter af samme Side. D. i et
@@ -152,7 +152,7 @@ Polyeder kaldes Forbindelseslinien mellem to
 Hjørnespidser, der ikke ligger i samme Sideflade.
 <i>Chr. C.</i></chapter>
 
-<chapter name=”diagonalbyggede Partøjer”>
+<chapter name="diagonalbyggede Partøjer">
 <b>diagonalbyggede Partøjer</b> er Baade
 (Smaaskibe), hvor Klædningsplankerne, i St f. - som
 ved kravel- og klinkbyggede Fartøjer - at gaa
@@ -166,7 +166,7 @@ Undertiden er den ydre Klædning diagonal-,
 medens den indre Klædning er kravelbygget.
 <i>H. P. C.</i></chapter>
 
-<chapter name=”Diagonaler”>
+<chapter name="Diagonaler">
 <b>Diagonaler</b> kaldes alle ikke lodret staaende
 Udfyldningsstænger i en Gitterbjælke, i
 Modsætning til <sp>Vertikaler</sp>. D. og Vertikaler

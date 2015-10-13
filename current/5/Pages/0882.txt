@@ -47,10 +47,10 @@ Pebertræ.
 Gren med Frugter.
 Til højre Blomster.</img>
 
-<chapter name=”Daphnia”>
+<chapter name="Daphnia">
 <b>Daphnia</b> ['daf-], se <sp>Dafnier</sp>.</chapter>
 
-<chapter name=”da Ponte, Lorenzo”>
+<chapter name="da Ponte, Lorenzo">
 <b>da Ponte</b> [-'ponte], <sp>Lorenzo</sp>, ital. Forf.,
 f. 1749 i Norditalien, d. 1838 i Nordamerika.
 D., der opr. var Gejstlig, levede i Venedig,
@@ -79,7 +79,7 @@ men ogsaa Omdannelsen af Beaumarchais'
 <i>Le mariage de Figaro</i> er behændig gjort.
 <i>(E. G.). E. M-r.</i></chapter>
 
-<chapter name=”da Porto, Luigi”>
+<chapter name="da Porto, Luigi">
 <b>da Porto</b> [-'pårto], <sp>Luigi</sp>, ital. Forf. (1485
 -1529). I sine <i>Lettere storiche</i> har han
 skildret Krigene i Italien 1509-13, desuden har han
@@ -111,7 +111,7 @@ tragicall historye of Romens and Juliet</i>. D.'s <i>Rime
 e prosa</i> udgaves først i Venedig 1539.
 <i>(E. G.). E. M-r.</i>.</chapter>
 
-<chapter name=”Dappedalen”>
+<chapter name="Dappedalen">
 <b>Dappedalen</b> ['dap-1 (Vallée des Dappes
 [va'le-dæ-'dap]), lille Grænsedal mellem Frankrig
 og Schweiz (Kanton Vaud), hvorigennem Vejen

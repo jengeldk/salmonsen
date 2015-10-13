@@ -99,7 +99,7 @@ D. (<sp>Litt</sp>.: <sp>Hagerup</sp>, »Skifte og
 Arvebehandling«, 2. Udg. [Kria 1907]).
 <i>K. Ø.</i></chapter>
 
-<chapter name=”Dødsdomme”>
+<chapter name="Dødsdomme">
 <b>Dødsdomme.</b> Efter dansk Ret skal
 Underdommerne uden for Kbhvn, naar en D. skal
 afsiges, tilkalde 4 bl. Jurisdiktionens Beboere
@@ -125,10 +125,10 @@ uden i Henhold til kgl. Resol. Jfr
 <sp>Halshugning</sp> og <sp>Dødsstraf</sp>.
 <i>A. Gl.</i></chapter>
 
-<chapter name=”Dødsengel”>
+<chapter name="Dødsengel">
 <b>Dødsengel,</b> se <sp>Engel</sp>.</chapter>
 
-<chapter name=”Dødsformodningsdom”>
+<chapter name="Dødsformodningsdom">
 <b>Dødsformodningsdom.</b> I mange fremmede
 Lovgivninger hjemles der Adgang til, naar en
 Person i længere Tid har været forsvundet, at
