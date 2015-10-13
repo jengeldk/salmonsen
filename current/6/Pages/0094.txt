@@ -21,7 +21,7 @@ Maspero (til Dels efter Meddelelser fra
 Broderen Gabriel D.).
 <i>V. S.</i></chapter>
 
-<chapter name=”Deverra”>
+<chapter name="Deverra">
 <b>Deverra</b> (af lat. <i>devérro</i>, »fejer«), en af de
 tre Guddomme, som hos Romerne antoges at
 beskytte Barselkvinder mod Silvanus' Angreb;
@@ -36,8 +36,8 @@ betegne Huset som beboet af kultiverede,
 korndyrkende Mennesker.
 <i>C. B.</i></chapter>
 
-<chapter name=”Devès, Pierre Paul”>
-<b>Devès</b> [d<ub>ö</sub>'væ.s], <sp>Pierre Paul</sp>, fr.
+<chapter name="Devès, Pierre Paul">
+<b>Devès</b> [d<sub>ö</sub>'væ.s], <sp>Pierre Paul</sp>, fr.
 Politiker (1837-99), blev Advokat i Béziers og Febr
 1871 Maire smst. 1876 valgtes han til
 Deputeretkamret og sluttede sig straks til det
@@ -51,7 +51,7 @@ igennem ved de ny Valg til Deputeretkamret, men
 valgtes 1886 samt paa ny 1894 til Senator.
 <i>E. E.</i></chapter>
 
-<chapter name=”Deviation”>
+<chapter name="Deviation">
 <b>Deviation.</b> En <sp>Kompasnaal</sp> (en
 vandret ophængt drejelig Magnetnaal) vil som Følge
 af Jordmagnetismens Paavirkning paa et givet

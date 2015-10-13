@@ -5,9 +5,10 @@
 faas ved i dette Udtryk at multiplicere de to
 Kubikrødder med hver sin af Størrelserne — 1/2 ±
 √3/2 <i>i</i> (de imaginære Værdier for 1<sup>1/2</sup>). Hvis
-(<i>b</i>/2)<sup>2</sup> + (<i>a</i>/3)<sup>3</sup> =0, har L. to lige store Rødder
+(<i>b</i>/2)<sup>2</sup> + (<i>a</i>/3)<sup>3</sup> = 0, har L. to lige store Rødder
 = ∛<i>b</i>/2 og desuden Roden — 2 ∛<i>b</i>/2. Er
-endelig (<i>b</i>/2) + (<i>a</i>/<sup>3</sup> <0, er der 3 reelle
+endelig (<i>b</i>/2) + (<i>a</i>/<sup>3</sup> < 0, er der 3 reelle
+
 Rødder, der faas ved i 2 √ —<i>a</i>/3 <i>cos</i> 2<i>n</i>π+θ/3,
 hvor <i>cos</i> θ = —<i>b</i>/2 / √—(<i>a</i>/3)<sup>3</sup> , at sætte <i>n</i> = 0, 1, 2;
 dette saakaldte <sp>irreduktible Tilfælde</sp>

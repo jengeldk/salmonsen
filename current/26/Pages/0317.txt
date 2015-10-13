@@ -292,7 +292,7 @@ Ovn.
 </chapter>
 
 <chapter name="Elementarforsikring">
-<b>* Element<rforsikring,</b> Forsikring af Ting
+<b>* Elementarforsikring,</b> Forsikring af Ting
 mod Skade forvoldt ved Ildebrand, Orkan,
 Forlis o. l.; Tingforsikring modsat
 Personforsikring.

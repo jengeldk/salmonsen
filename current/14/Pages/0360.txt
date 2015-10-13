@@ -56,7 +56,7 @@
 <td r>I alt Engelske Kolonier<td r>c. 36042000<td c>km<sup>2</sup><td c>med<td r>408699000<td c>Indb.<td c>
 <td 7>
 <td 7 c><sp>Frankrig</sp>.
-<td 7><trab>I <sp>Afrika</sp>:
+<td 7><tab>I <sp>Afrika</sp>:
 <td>Algier<td r>575289<td c> km<sup>2</sup><td c>med<td r>5563828<td c>Indb.<td>(11)
 <td>Tunis (Prot.)<td r>125130<td c>—<td c>—<td r>1953000<td c>—<td>(15)
 <td>Marokko (Prot.)<td r>572000<td c>—<td c>—<td r>5400000<td c>—<td>(—)

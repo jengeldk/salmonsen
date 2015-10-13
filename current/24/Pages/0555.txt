@@ -71,7 +71,7 @@ Børnebørnsbørn af en eneste Bønne, fordelte
 sig i Breddemaalsklasser med 1/2 mm's
 Spillerum saaledes:
 <table>
-<td>Breddemaal i mm<td r><6,5<td r>7<td r>7,5<td r>8<td r>8,5<td r>9
+<td>Breddemaal i mm<td r>6,5<td r>7<td r>7,5<td r>8<td r>8,5<td r>9
 <td>Antal Bønner<td r>14<td r>242<td r>1927<td r>5321<td r>1883<td r>53
 <td>Procentisk<td r>(0,1)<td r>3<td r>20<td r>56<td r>20<td r>1
 </table>

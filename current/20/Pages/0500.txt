@@ -52,7 +52,7 @@ etc.
 </chapter>
 
 <chapter name="rudeformet">
-<b>rudeformet</b> <bot.) kaldes en Bladplade, der
+<b>rudeformet</b> (bot.) kaldes en Bladplade, der
 begrænses af 4 rette Linier, som ved Spidsen
 og Grunden danner spidse, paa Siderne
 derimod stumpe Vinkler med hinanden, f. Eks.

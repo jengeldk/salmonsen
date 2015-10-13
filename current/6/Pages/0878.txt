@@ -18,7 +18,7 @@ til Opbevaring af Beholdere, der indeholder
 hygroskopiske Stoffer.
 <i>R. K.</i></chapter>
 
-<chapter name=”Ekssikatsamling”>
+<chapter name="Ekssikatsamling">
 <b>Ekssikatsamling</b> (<sp>bot</sp>.) er i Alm. en
 Samling tørrede Planter, der bringes i Handelen
 ell. fordeles (f. Eks. til botaniske Institutioner),
@@ -30,10 +30,10 @@ ingen fast Grænse mellem en E. og et
 Herbarium.
 <i>A. M.</i></chapter>
 
-<chapter name=”Eksspiration”>
+<chapter name="Eksspiration">
 <b>Eksspiration,</b> se <sp>Aandedræt</sp>, S. 33.</chapter>
 
-<chapter name=”eksspiratorisk Accent”>
+<chapter name="eksspiratorisk Accent">
 <b>eksspiratorisk Accent</b> [-ak'sæn't] eller
 <sp>Trykaccent</sp>, ogsaa kaldet <sp>dynamisk
 Accent</sp>, beror ikke alene paa Udaandingens
@@ -50,7 +50,7 @@ trykstærke end i de tryksvage Stavelser. (Om
 Forholdet til andre Arter af Accent s. d.).
 <i>O. Jsp.</i></chapter>
 
-<chapter name=”Eksstirpation”>
+<chapter name="Eksstirpation">
 <b>Eksstirpation</b> (lat. <i>stirps</i>, Stamme), enhver
 Operation, hvorved man fjerner en Svulst ell.
 et sygt Organ i dets Helhed fra Legemet.
@@ -81,8 +81,8 @@ anat. Indsigt og tekn. Færdighed hos
 Operatøren.
 <i>E. A. T.</i></chapter>
 
-<chapter name=”Ekssudat”>
-<b>Ekssudat</b> <lat.) kaldes Produktet af en
+<chapter name="Ekssudat">
+<b>Ekssudat</b> (lat.) kaldes Produktet af en
 Betændelse og skyldes en Udsvedning (en
 Ekssudation) af Blodets Bestanddele, specielt en
 Udvandring af de hvide Blodlegemer. Det herved
@@ -94,7 +94,7 @@ E.</sp>). Er det blodigt, kaldes det
 <sp>hæmorragisk E.</sp> (se desuden <sp>Transsudat</sp>).
 <i>(A. F.). L. F.</i></chapter>
 
-<chapter name=”Ekstase”>
+<chapter name="Ekstase">
 <b>Ekstase</b> (gr.) er en Tilstand af
 »Henrykkelse«, i hvilken Sjælen er ligesom bortrykket
 fra Legemet, fortabt i indre Skuen og

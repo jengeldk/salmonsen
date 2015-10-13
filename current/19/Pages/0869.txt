@@ -52,7 +52,7 @@ virkelige Kreds med Modstand. Et Eksempel paa
 Svingningernes Forløb er vist i Fig. 3.
 
 For svagt dæmpede Kredse, d. v. s. Kredse,
-for hvilke det gælder, at <i>R<sup>2</sup></i> <<4 L/C ell. <i>x</i> << <i>h</i>,
+for hvilke det gælder, at <i>R<sup>2</sup></i> << 4 L/C ell. <i>x</i> << <i>h</i>,
 har man med stor Tilnærmelse, at <i>v</i> = <i>h</i>. De
 for Svingningerne karakteristiske Parametre
 har da følgende Værdier.

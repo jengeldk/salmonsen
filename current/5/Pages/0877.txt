@@ -54,7 +54,7 @@ Svensk af <sp>N. Lovén</sp> [Lund 1856-57], <sp>Edv.
 Lidfors</sp> [1902-03] og <sp>S. C. Bring</sp> [1905]).
 <i>(E. G.). E. M-r.</i></chapter>
 
-<chapter name=”Dante da Majano”>
+<chapter name="Dante da Majano">
 <b>Dante da Majano</b> ɔ: fra Byen Majano i
 Toscana, ital. Digter, omtr. 1270. Han hørte til
 den florentinske Digter skole, som eksisterede
@@ -75,7 +75,7 @@ Man har for øvrigt i den nyeste Tid betvivlet
 hans Eksistens.
 <i>(E. G.). E. M-r.</i></chapter>
 
-<chapter name=”Dantès, Alfred”>
+<chapter name="Dantès, Alfred">
 <b>Dantès</b> [dã'tæ.s], <sp>Alfred</sp>, egl. <sp>Langue</sp>,
 fr. Folkeskribent (1830-91), levede som
 Industridrivende i sin Fødeegn (Passenans i Dept
@@ -89,7 +89,7 @@ des hommes les plus remarquables dans les
 lettres, les sciences et les arts chez tous les
 peuples (1875-77).</i></chapter>
 
-<chapter name=”Danti, Vincenzo”>
+<chapter name="Danti, Vincenzo">
 <b>Danti,</b> <sp>Vincenzo</sp>, ital. Billedhugger, f.
 1530 i Perugia, d. 1576. D., som først drev
 Guldsmedekunsten, og som ogsaa vandt Navn
@@ -111,7 +111,7 @@ Bronzerelieffet »Slangens Tilbedelse« i Bargello i
 Firenze.
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Danton, George Jacques”>
+<chapter name="Danton, George Jacques">
 <b>Danton</b> [dã'tå], <sp>George Jacques</sp>, fr.
 Revolutionsmand, f. 26. Oktbr 1759 i
 Arcis-sur-Aube i Champagne, d. 6. Apr. 1794. Han er en
@@ -136,4 +136,4 @@ Oratorianerskolen i Troyes, kom i Lære hos en
 Jurist i Paris og blev som 28-aarig, samtidig
 med, at han giftede sig, ved Hjælp af sin
 
-<ing>G. J. Danton.</img>
+<img>G. J. Danton.</img>
