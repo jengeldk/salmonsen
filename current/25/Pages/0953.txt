@@ -29,7 +29,7 @@ Følgende Fag- og Videnskabsmænd har været Medarbejdere ved Værket:
 <i>Amundsen, K. Vilh.</i>, Kaptajn <i>(K. V. A.)</i>
 <i>Andersen, C.</i>, Lektor <i>(C. A.)</i>
 <i>Andersen, Dines</i>, Professor, Dr. phil. <i>(D. A.)</i>
-<i>Andersen-Høyer,</i> Kaptajn
+<i>Andersen-Høyer</i>, Kaptajn
 <i>Andersen, P.</i>, Professor, Dr. jur. <i>(P. A.)</i>
 <i>Arneberg</i>, Cand. (Norge)
 <i>Aumont, A.</i>, Cand. phil. <i>(A. A.)</i>
@@ -41,7 +41,7 @@ Følgende Fag- og Videnskabsmænd har været Medarbejdere ved Værket:
 <i>Behrend, W.</i>, Kontorchef <i>(W. B.)</i>
 <i>Behrens, C.</i>, Redaktør <i>(C. B-s.)</i>
 <i>Bennike, Helge</i>, Kaptajn <i>(H. B.)</i>
-<i>Bentzon,</i> Brandinspektør
+<i>Bentzon</i>, Brandinspektør
 <i>Bentzon, A. D.</i>, Byretsdommer <i>(A. D. B.)</i>
 <i>Bentzon, V.</i>, Professor, Dr. jur. <i>(V. B.)</i>
 <i>Berg, R.</i>, Kontorchef <i>(R. B.)</i>
@@ -54,7 +54,7 @@ Følgende Fag- og Videnskabsmænd har været Medarbejdere ved Værket:
 <i>Bing, H. I.</i>, Overlæge, Dr. med. <i>(H. I. B.)</i>
 <i>Birket-Smith, K.</i>, Mag. scient <i>(K. B-S.)</i>
 <i>Bjerre, A.</i>, Stadsingeniør <i>(A. Bj.)</i>
-<i>Blangstrup, Chr.</i>, Kaptajn, Redaktør {Chr. Bl.)</i>
+<i>Blangstrup, Chr.</i>, Kaptajn, Redaktør <i>(Chr. Bl.)</i>
 <i>Blinkenberg, C.</i>, Professor, Dr. phil. <i>(C. B.)</i>
 <i>Bloch, C.</i>, Kommandør <i>(C. B-h.)</i>
 <i>Bobé, L.</i>, Ordenshistoriograf, Lektor, Dr. phil. <i>(L. B.)</i>

@@ -25,10 +25,10 @@
 <i>Levison, F.</i>, Professor
 <i>Lobedanz, A. T.</i>, Kaptajn <i>(A. T. L.)</i>
 <i>Lundbæk, T.</i>, Dr. phil. <i>(T. L.)</i>
-<i>Læssøe, A.</i>, Museumsassistent <i>(>A. Ls.)</i>
+<i>Læssøe, A.</i>, Museumsassistent <i>(A. Ls.)</i>
 <i>Maar, V.</i>, Professor <i>(V. M.)</i>
 <i>Meiborg, R.</i>, Professor <i>(R. M.</i>
-<i>Meier, F. J.</i>, Dr. phil. <i>(F. J. M.</i>
+<i>Meier, F. J.</i>, Dr. phil. <i>(F. J. M.)</i>
 <i>Meyer, E.</i>, Nationalbankdirektør <i>(E. M.)</i>
 <i>Moe, Olaf</i>, Docent (Oslo)
 <i>Munthe-Brun, J.</i>, Direktør <i>(J. M-B.)</i>
@@ -52,7 +52,7 @@
 <i>Rosznecki, St.</i>, Cand. mag. <i>(St. R.</i>
 <i>Salmonsen, I.</i>, Boghandler <i>(I. S.)</i>
 <i>Scharffenberg, J.</i>, Læge (Norge)
-<i>Scheel, H.</i>, Professor (Norge)> <i>(H. S.)</i>
+<i>Scheel, H.</i>, Professor (Norge) <i>(H. S.)</i>
 <i>Schiellerup, C. G.</i>, Cand. phil.
 <i>Schirmer, H. M.</i>, Arkitekt (Norge) <i>(H. M. S.)</i>
 <i>Schiødte, E.</i>, Arkitekt <i>(E. S.)</i>

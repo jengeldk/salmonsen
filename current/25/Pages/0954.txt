@@ -8,7 +8,7 @@
 <i>Dreyer, W.</i>, Direktør
 <i>Ege, Richard</i>, Dr. phil. <i>(R. E.)</i>
 <i>Elberling, Emil</i>, fhv. Bibliotekar <i>(E. E.)</i>
-<i>Ellekilde, H.</i>, Mag. art. <i>(H. EI.)</i>
+<i>Ellekilde, H.</i>, Mag. art. <i>(H. El.)</i>
 <i>Erlandsen, Alfr.</i>, Professor
 <i>Erslev, J.</i>, Boghandler
 <i>Erslev, Kr.</i>, fhv. Rigsarkivar, Dr. phil. <i>(Kr. E.)</i>
@@ -27,7 +27,7 @@
 <i>Fleuron, S.</i>, Kaptajn <i>(S. F.)</i>
 <i>Fløystrup, Pauli</i>, Handelsgartner <i>(P. F.)</i>
 <i>Fontenay, F. le Sage de</i>, Danmarks Minister i Island <i>(F. de F.)</i>
-<i>Frichs,</i> Ingeniør
+<i>Frichs</i>, Ingeniør
 <i>Fridericia, L.</i>, Professor, Dr. med. <i>(L. F.)</i>
 <i>Fries, A. C. L.</i>, Ingeniør <i>(A. C. L. F.)</i>
 <i>Friesen, Otto v.</i>, Professor, Dr. phil. <i>(O. v. F.)</i>
@@ -35,7 +35,7 @@
 <i>Friis, O.</i>, Oberst <i>(O. F.)</i>
 <i>Friis, Oluf</i>, Universitetslektor <i>(O. Fr.)</i>
 <i>Friis, St.</i>, Stabsdyrlæge <i>(St. F.)</i>
-<i>Fritz,</i> Skovrider
+<i>Fritz</i>, Skovrider
 <i>Frænkel, Louis</i>, Læge <i>(L. F-l.)</i>
 <i>Fuchs, Aug.</i>, Ingeniør
 <i>Fussing, Thorkild</i>, Direktør
@@ -111,7 +111,7 @@
 <i>Hiort-Lorenzen, H.</i>, Etatsraad <i>(H-L.)</i>
 <i>Holbøll, E.</i>, Postmester
 <i>Holbøll, V.</i>, Departementschef <i>(V. H.)</i>
-<i>Holbøll,</i> Generalmajor
+<i>Holbøll</i>, Generalmajor
 <i>Holck, A.</i>, Amtsforvalter <i>(A. Hk.)</i>
 <i>Holm, G. F.</i>, Kommandør <i>(G. F. H.)</i>
 <i>Holm, N. T.</i>, Konsulent <i>(N. T. H.)</i>
