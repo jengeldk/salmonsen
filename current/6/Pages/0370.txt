@@ -21,9 +21,10 @@ Retninger, Kørehastigheden paa Retlime 90 km i
 Timen. Fra Otta til Støren er D. 205 km lang,
 heraf ligger c. 30 km over Trægrænsen. D. er
 beregnet at koste 26,6 Mill. Kr.
-<i>M. H.</i></chapter>
+<i>M. H.</i>
+</chapter>
 
-<chapter name=”Dovrefjeld”>
+<chapter name="Dovrefjeld">
 <b>Dovrefjeld</b> kaldes den mægtige Fjeldkæde,
 som strækker sig i Ø. til Østerdalen, i V. til
 Romsdalsfjeldene, i S. sænker Fjeldet sig ned
@@ -51,9 +52,10 @@ Vidden byder paa god Jagt paa alle Slags Fugle,
 Fjeldbeiterne er fortrinlige, hvorfor Sætrene er
 mange og store. Fjeldene er fattige paa
 Mineraler og nyttige Metaller.
-<i>M. H.</i></chapter>
+<i>M. H.</i>
+</chapter>
 
-<chapter name=”Dowden, Edward”>
+<chapter name="Dowden, Edward">
 <b>Dowden</b> ['dau^d<sub>ə</sub>n], <sp>Edward</sp>, eng.
 Litteraturhistoriker og Kritiker (1843-1913), f. i Cork i
 Irland. Han kom 1861 til Trinity College i
@@ -94,9 +96,10 @@ Serien <i>English Men of Letters</i> (1879), <i>Robert
 Browning</i> (1904). D. var Præsident for det eng.
 Goethe-Selskab og udgav 1906 <i>Life of Goethe</i>.
 Han har ogsaa skrevet et Bd Digte.
-<i>I. O.</i></chapter>
+<i>I. O.</i>
+</chapter>
 
-<chapter name=”Dowell, Edward Mac”>
+<chapter name="Dowell, Edward Mac">
 <b>Dowell</b> ['da^u<sub>i</sub>£ eller -<sub>ə</sub>£], <sp>Edward Mac</sp>,
 amer. Komponist (1861-1908), studerede dels
 i Paris (ved Konservatoriet), dels i Tyskland
@@ -116,13 +119,15 @@ Orkesterværker, deriblandt en »Indiansk Suite«,
 adskillige Sange, musikæstetiske Essays og et
 Bd Digte (<i>Verses</i> 1908). Biografier af L. Gilman
 (1909) og Fry Page (1911).
-<i>W. B.</i></chapter>
+<i>W. B.</i>
+</chapter>
 
-<chapter name=”Dowell, Mac”>
+<chapter name="Dowell, Mac">
 <b>Dowell</b> ['da^u<sub>i</sub>£ eller -<sub>ə</sub>£], <sp>Mac</sp>, se <sp>Mac
-Dowell</sp>.</chapter>
+Dowell</sp>.
+</chapter>
 
-<chapter name=”Dowie, John Alexander”>
+<chapter name="Dowie, John Alexander">
 <b>Dowie</b> ['da¨u<sub>i</sub>], <sp>John Alexander</sp>,
 amer. religiøs Svindler, Stifter af »Zionisternes
 Samfund« (»Zionskirken«), ikke at forveksle med
@@ -147,8 +152,10 @@ paafaldende idéfattige Forkyndelse; ved Siden
 af skabte han den et Organ i det nu og da
 udkommende <i>Leaves of Healing</i> (1896 flg.), fra
 1899 tillige i tysk Udg., trykt i Zürich.
-<i>K. V. H.</i></chapter>
+<i>K. V. H.</i>
+</chapter>
 
-<chapter name=”Dowlais”>
+<chapter name="Dowlais">
 <b>Dowlais</b> ['da^u£<sub>i</sub>s], Jernværk ved
 Merthyr-Tydfil (s. d.) i Wales, oprettet 1759.
+</chapter>

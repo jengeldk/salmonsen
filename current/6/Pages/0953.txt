@@ -26,16 +26,18 @@ opstillet Vekselstrømsgeneratorer til en samlet
 Effekt paa 9000 KW, i Frederiksbergs E./V.
 (Finsenværk) Vekselstrømsgeneratorer paa i alt
 3600 KW.
-<i>R. J. J.</i></chapter>
 
 <img>
 Fig. 26. Beskyttelsesrelais.
 </img>
 <img>
-Fig. 27. Overspændingssikring (Lynafleder).</chapter>
+Fig. 27. Overspændingssikring (Lynafleder).
 </img>
 
-<chapter name=”elektriske Ledere”>
+<i>R. J. J.</i>
+</chapter>
+
+<chapter name="elektriske Ledere">
 <b>elektriske Ledere</b> kaldes de Legemer, der
 kan lade en elektrisk Strøm gaa igennem sig.
 De inddeles i Ledere af 1. og 2. Orden. Den
@@ -58,9 +60,10 @@ Elektrolysen, finder ingen Ledning Sted, og de
 Vædsker (Kulbrinter som Petroleum og Benzin;
 mange Olier og Fedtarter), der ikke spaltes af
 Strømmen, leder heller ikke.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
-<chapter name=”elektriske Ledningsnet”>
+<chapter name="elektriske Ledningsnet">
 <b>elektriske Ledningsnet</b> er den Del af et
 elektrisk Anlæg, hvorigennem Elektriciteten
 ledes fra den elektriske Central til Forbrugerne,

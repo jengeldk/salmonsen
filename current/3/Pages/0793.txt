@@ -40,6 +40,7 @@ med Vin.
 
 <chapter name="Bort (se Possementarbejde)">
 <b>Bort,</b> se <sp>Possementarbejde</sp>.
+</chapter>
 
 <chapter name="Bort (se Diamant)">
 <b>Bort,</b> se <sp>Diamant</sp>.

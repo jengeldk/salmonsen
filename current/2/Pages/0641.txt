@@ -87,6 +87,7 @@ Industrivarer.
 <b>Bandlysning</b>, se <sp>Band</sp>.
 </chapter>
 
+<chapter name="Bandola">
 <b>Bandola</b> [wan↱dåla], et lutagtigt Instrument
 med et større ell. mindre Antal Staal- ell.
 Tarmstrenge; ligesom de ganske tilsvarende

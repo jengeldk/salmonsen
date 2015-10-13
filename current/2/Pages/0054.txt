@@ -105,6 +105,7 @@ den ældre Silurformation.
 
 <chapter name="Arcifera (se Springpadder)">
 <b>Arcifera,</b> se <sp>Springpadder</sp>.
+</chapter>
 
 <chapter name="Arcimboldus, Johan Angelus">
 <b>Arcimboldus,</b> <sp>Johan Angelus</sp>, pavelig

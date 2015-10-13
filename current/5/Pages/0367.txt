@@ -1,10 +1,12 @@
 uden Held, og kom til sidst ganske forarmet til
 Italien, hvor hun i sine sidste Aar fristede Livet
 ved Forfærdigelsen af Silkeknapper.
-<i>S. L.</i></chapter>
+<i>S. L.</i>
+</chapter>
 
-<chapter name=”Çvetambara”>
+<chapter name="Çvetambara">
 <b>Çvetambara,</b> se <sp>Jaina</sp>.
+</chapter>
 
 <chapter name="Cvijic, Jovan">
 <b>Cvijic</b> ['tsvijit∫], <sp>Jovan</sp>, serb. Geograf og
@@ -17,22 +19,27 @@ Lilleasien og særlig givet sig af med Karstdannelsen
 og Glacialgeologien. Af hans Arbejder kan
 fremhæves et geol. Kort over Makedonien og
 Gammelserbien (1903).
-<i>J. P. R.</i></chapter>
+<i>J. P. R.</i>
+</chapter>
 
-<chapter name=”Cwt”>
+<chapter name="Cwt">
 <b>Cwt,</b> den i Storbritannien alm. brugelige
-korte Betegnelse for <i>Hundredweight</i>.</chapter>
+korte Betegnelse for <i>Hundredweight</i>.
+</chapter>
 
-<chapter name=”Cy”>
-<b>Cy,</b> kemisk Tegn for Radikalet Cyan, NC.</chapter>
+<chapter name="Cy">
+<b>Cy,</b> kemisk Tegn for Radikalet Cyan, NC.
+</chapter>
 
-<chapter name=”yamelid”>
-<b>Cyamelid,</b> se <sp>Cyansyre</sp>.</chapter>
+<chapter name="yamelid">
+<b>Cyamelid,</b> se <sp>Cyansyre</sp>.
+</chapter>
 
-<chapter name=”Cyamus”>
-<b>Cyamus,</b> Hvallus, se <sp>Amfipoder</sp>.</chapter>
+<chapter name="Cyamus">
+<b>Cyamus,</b> Hvallus, se <sp>Amfipoder</sp>.
+</chapter>
 
-<chapter name=”Cyan”>
+<chapter name="Cyan">
 <b>Cyan</b> (CN)<sub>2</sub> er en farveløs, meget giftig
 Luftart af en gennemtrængende Lugt, der minder
 meget om Bittermandeloliens. Det bestaar af
@@ -133,9 +140,10 @@ Jernforbindelse, i Beg. af 18. Aarh. Det fri C.
 fremstilledes første Gang af <sp>Gay-Lussac</sp> 1815
 ved Opvarmning af Kvægsølvcyanid. Navnet
 kommer af det gr. κυανός, blaa.
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
-<chapter name=”Cyanamid”>
+<chapter name="Cyanamid">
 <b>Cyanamid,</b> CN.NH<sub>2</sub>, opstaar bl. a., naar
 Ammoniak ledes i en æterisk Opløsning af
 Cyanklorid, CNCl+2NH<sub>3</sub>=CNNH<sub>2</sub>+ClNH<sub>4</sub>, men

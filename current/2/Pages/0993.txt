@@ -18,6 +18,7 @@ døde.
 
 <chapter name="Bensvulst (se Osteom)">
 <b>Bensvulst,</b> se <sp>Osteom</sp>.
+</chapter>
 
 <chapter name="Bent">
 <b>Bent,</b> dansk og norsk Mandsnavn, i Sverige

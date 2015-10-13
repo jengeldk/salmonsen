@@ -65,6 +65,7 @@ ved Belejringen af Syrakus.
 
 <chapter name="Brændværdi (se Brændsel)">
 <b>Brændværdi,</b> se <sp>Brændsel</sp>.
+</chapter>
 
 <chapter name="Brænne, Bernhard Cornelius">
 <b>Brænne,</b> <sp>Bernhard Cornelius</sp>, norsk

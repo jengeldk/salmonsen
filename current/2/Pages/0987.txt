@@ -107,6 +107,7 @@ i B. findes navnlig i forsk. Blodsygdomme (se
 
 <chapter name="Benmarvbetændelse (se Benbetændelse)">
 <b>Benmarvbetændelse,</b> se <sp>Benbetændelse</sp>.
+</chapter>
 
 <chapter name="Benmel">
 <b>Benmel</b> (<sp>Bengødning</sp>) er en

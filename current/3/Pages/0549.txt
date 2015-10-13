@@ -95,6 +95,7 @@ Blærehæmorroiderne (s. d.) maa regnes her hen.
 <chapter name="Blæretang">
 <b>Blæretang</b> (<i>Fucus vesicolosus</i>), se <sp>Alger</sp>
 (Brunalger).
+</chapter>
 
 <chapter name="Blæretræ (se Colutea)">
 <b>Blæretræ,</b> se <sp>Colutea</sp>.

@@ -31,17 +31,20 @@ indeholder Vedtagelse af, at Lejetageren skal kunne
 kastes ud uden Søgsmaal, naar Lejetiden er ude,
 ell. naar Lejesummen ikke er betalt til
 Forfaldstid.
-<i>K. Ø.</i></chapter>
+<i>K. Ø.</i>
+</chapter>
 
-<chapter name=”Eksekutionstermin”>
+<chapter name="Eksekutionstermin">
 <b>Eksekutionstermin,</b> d. s. s.
-<sp>Eksekutionsfrist</sp>.</chapter>
+<sp>Eksekutionsfrist</sp>.
+</chapter>
 
-<chapter name=”eksekutiv Magt”>
+<chapter name="eksekutiv Magt">
 <b>eksekutiv Magt</b> ell. <sp>Myndighed</sp>,
-enstydigt med »udøvende Myndighed«, s. d.</chapter>
+enstydigt med »udøvende Myndighed«, s. d.
+</chapter>
 
-<chapter name=”eksekutiv Proces”>
+<chapter name="eksekutiv Proces">
 <b>eksekutiv Proces,</b> en Procesform, der
 tilsigter at skaffe den, der er i Besiddelse af en
 Veksel ell. andet saadant likvidt Grundlag for
@@ -51,9 +54,10 @@ fremsætte Indsigelser. Skulde Sagsøgte som
 Følge deraf blive dømt med Urette, maa han
 bagefter anlægge alm. Søgsmaal til
 Skadeserstatning mod Sagsøgeren.
-<i>E. T.</i></chapter>
+<i>E. T.</i>
+</chapter>
 
-<chapter name=”eksekutiv Straf”>
+<chapter name="eksekutiv Straf">
 <b>eksekutiv Straf</b> vil sige en ved
 administrativ Resolution paalagt Straf, hvis Øjemed
 er at virke som Pres til Opfyldelse af en særlig
@@ -80,9 +84,10 @@ Anvisning paa umiddelbar Inddrivelse uden Dom
 af Mulkter, dikterede offentlige Tjenestemænd
 af Øvrigheden for at fremtvinge
 Regnskabsaflæggelse ell. Overtagelse af Ombud.
-<i>K. Ø.</i></chapter>
+<i>K. Ø.</i>
+</chapter>
 
-<chapter name=”Eksekutor”>
+<chapter name="Eksekutor">
 <b>Eksekutor</b> (lat. <i>execútor testaménti</i>) vil
 sige en til Gennemførelse af et Testamentes
 Bestemmelser ell. til at forestaa et Dødsbos
@@ -113,13 +118,15 @@ ikke nogen offentlig Beskikkelse. Lov om Afgift af
 Arv 20. Maj 1899 og 8. Apr. 1905 gengiver i
 Overskriften til 2. Kap. det lat. Ord E. med
 »Testamentsfuldbyrder«.
-<i>K. Ø.</i></chapter>
+<i>K. Ø.</i>
+</chapter>
 
-<chapter name=”Eksekutør”>
+<chapter name="Eksekutør">
 <b>Eksekutør,</b> udøvende, den udførende (f.
-Eks. af et Musikstykke).</chapter>
+Eks. af et Musikstykke).
+</chapter>
 
-<chapter name=”Eksekvatur”>
+<chapter name="Eksekvatur">
 <b>Eksekvatur</b> (lat.) er Betegnelsen for den
 Stadfæstelse, der paa vedk. Udenrigsministeriums
 Foranstaltning meddeles fremmede Konsuler af
@@ -135,14 +142,16 @@ kan tages tilbage, naar den Paagældende gør
 sig skyldig i Overgreb ell. Misbrug af sin
 Stilling, og bortfalder, naar den Stat, der har
 ansat ham, afskediger ham af sin Tjeneste.
-<i>(C. V. N.). P. J. J.</i></chapter>
+<i>(C. V. N.). P. J. J.</i>
+</chapter>
 
-<chapter name=”eksekvere”>
+<chapter name="eksekvere">
 <b>eksekvere</b> (lat.), fuldbyrde en Dom,
 gennemtvinge, gennemføre med Magt; se i øvrigt
-<sp>Eksekution</sp>.</chapter>
+<sp>Eksekution</sp>.
+</chapter>
 
-<chapter name=”Eksempel”>
+<chapter name="Eksempel">
 <b>Eksempel</b> (af lat. <i>exémplum</i>), Mønster til
 Efterligning ell. Advarsel (statuere et E.);
 aritmetisk Opgave, <i>exempli gratia</i> ell. <i>causa</i> (e. g.;
@@ -151,15 +160,17 @@ e. c.), »for E.«, <i>exempla docent</i>, E. belærer,
 Had«, siges, naar man udtaler en alm. Dadel
 og, for ikke at fornærme nogen, undlader at
 nævne E. ell. Navne.
-<i>H. H. R.</i></chapter>
+<i>H. H. R.</i>
+</chapter>
 
-<chapter name=”Eksemplar”>
+<chapter name="Eksemplar">
 <b>Eksemplar</b> (lat.), Mønster, Forbillede,
 enkelt Stykke (af Bøger, Kobberstik o. desl.);
 <sp>eksemplarisk</sp>, mønsterværdig,
 afskrækkende (f. Eks. eksemplarisk Straf);
-<sp>Eksemplaritet</sp>, Mønsterværdighed.</chapter>
+<sp>Eksemplaritet</sp>, Mønsterværdighed.
+</chapter>
 
-<chapter name=”eksemplificere”>
+<chapter name="eksemplificere">
 <b>eksemplificere</b> ['æks-] (lat.), paavise ved
 Eksempler, oplyse; vise hen til noget som

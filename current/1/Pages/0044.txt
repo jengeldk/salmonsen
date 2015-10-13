@@ -107,9 +107,9 @@ indeholder altid en vis Mængde Luft, som er
 optagen fra Atmosfæren. — En l Vand fra
 Atlanterhavet indeholder saaledes i Gennemsnit
 <table>
-<td r>5—<td r>6 cm<sup>3</sup> Ilt,
-<td r>12—<td r>14 cm<sup>3</sup> Kvælstof,
-<td r>samt mellem 40—60<td r> cm<sup>3</sup> Kulsyre,
+<td r>5—<td r>6<td>cm<sup>3</sup> Ilt,
+<td r>12—<td r>14<td>cm<sup>3</sup> Kvælstof,
+<td r>samt mellem 40—<td r>60<td>cm<sup>3</sup> Kulsyre,
 </table>
 dels i fri Tilstand, dels som kulsure Salte. Denne
 Ilt optages i Legemet og omdannes til Kulsyre.

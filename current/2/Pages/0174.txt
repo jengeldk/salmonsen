@@ -14,6 +14,7 @@ Tilstanden.
 <chapter name="Arthrocace">
 <b>Arthrocace</b> (gr.), ældre Betegnelse for de
 alvorligere Former af kronisk Ledbetændelse.
+</chapter>
 
 <chapter name="Arthrodyni">
 <b>Arthrodyni</b> (gr.), Ledsmerter.

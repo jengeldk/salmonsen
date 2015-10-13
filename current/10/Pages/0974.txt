@@ -1,4 +1,3 @@
-<chapter name="RETTELSER OG TRYKFEJL">
 <table>
 <td r>Side<td c>Sp.<td 4>
 <td r>420,<td c>1,<td>Linie<td r>24 f. o.<td>Jan. læs: Febr

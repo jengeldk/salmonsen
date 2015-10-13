@@ -108,6 +108,7 @@ se <sp>Blod</sp>.
 <chapter name="Blodbrylluppet, Pariser (se Bartholomæusnatten)">
 <b>Blodbrylluppet,</b> <sp>Pariser</sp>, se
 <sp>Bartholomæusnatten</sp>.
+</chapter>
 
 <chapter name="Blodbrækning">
 <b>Blodbrækning</b> (<i>Hæmatemesis</i>), Opbringelse

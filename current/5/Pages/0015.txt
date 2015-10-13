@@ -33,12 +33,15 @@ anvendes, bl. a. til Fremstilling af Kamferkister.
 <i>A. M.</i>
 
 <img>Gren af Kaneltræet (<i>Cinnamomum zeylanicum</i>).</img>
+</chapter>
 
 <chapter name="Cinnamus">
-<b>Cinnamus,</b> <sp>J.</sp>, se <sp>Kinnamos</sp>.</chapter>
+<b>Cinnamus,</b> <sp>J.</sp>, se <sp>Kinnamos</sp>.
+</chapter>
 
 <chapter name="Cinnamylcocain">
-<b>Cinnamylcocain,</b> se <sp>Cocain</sp>.</chapter>
+<b>Cinnamylcocain,</b> se <sp>Cocain</sp>.
+</chapter>
 
 <chapter name="Cinnober">
 <b>Cinnober</b> (<sp>Cinnabarit</sp>) er et Mineral,
@@ -68,7 +71,8 @@ Kalifornien. En Dannelse af C. i ringe Mængde paa
 Jordoverfladen er iagttagen ved fl. hede Kilder,
 saaledes ogsaa ved Geyser paa Island. - Se
 endvidere Kvægsølvsulfid.
-<i>(N. V. U.). O. B. B.</i></chapter>
+<i>(N. V. U.). O. B. B.</i>
+</chapter>
 
 <chapter name="Cino da Pistoia">
 <b>Cino</b> ['t∫ino] <sp>da Pistoia</sp>, ital. Digter (c.
@@ -107,10 +111,12 @@ Digte er komne i Venedig 1589 (Kvart), i Pisa
 Fanfani); et Udvalg i Firenze 1864 (ved
 Carducci). (<sp>Litt</sp>.: <sp>Chiappelli</sp>, <i>Vita ed opere
 giuridiche di C. da P.</i> [Pistoia 1881]).
-<i>(E. G.). E. M-r.</i></chapter>
+<i>(E. G.). E. M-r.</i>
+</chapter>
 
 <chapter name="Cinosternum">
-<b>Cinosternum,</b> se <sp>Sumpskildpadder</sp>.</chapter>
+<b>Cinosternum,</b> se <sp>Sumpskildpadder</sp>.
+</chapter>
 
 <chapter name="Cinq-Mars">
 <b>Cinq-Mars</b> [sæ-'ma.r (ell. -'mars)] <sp>Henri

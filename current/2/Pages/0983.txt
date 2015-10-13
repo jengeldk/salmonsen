@@ -168,7 +168,7 @@ Steder af Knoglen til at fasthæfte Muskler,
 Sener og Baand til denne; dens dybere, mod
 Benets Overflade vendende Lag er rigt paa Celler
 og staar under Væksten i Bendannelsens
-Tjeneste (se <b>Ben</b> S. 906), ligesom det i det hele
+Tjeneste (se <sp>Ben</sp> S. 906), ligesom det i det hele
 spiller en stor Rolle ved Benets Ernæring; hvor
 B. fjernes, afdør saaledes ofte det tilsvarende
 Benvæv (Ben-Nekrose). Omvendt kan et Stykke
@@ -181,6 +181,7 @@ andet Individ.
 
 <chapter name="Benhindebetændelse (se Benbetændelse)">
 <b>Benhindebetændelse,</b> se <sp>Benbetændelse</sp>.
+</chapter>
 
 <chapter name="beni (Sønner)">
 <b>beni</b> (arab.) Sønner, Flertal af ben, findes

@@ -10,7 +10,7 @@ Kanada og Nordamerika.
 <b>Eliot</b> ['e£<i>iə</i>t], <sp>George</sp>, se <sp>Evans, M. A</sp>.
 </chapter>
 
-<chapter name="Eliot, John (eng. statsmand">
+<chapter name="Eliot, John (eng. statsmand)">
 <b>Eliot</b> ['e£<i>iə</i>t], <sp>John</sp>, eng. Statsmand, f. 20.
 Apr. 1592, d. 27. Novbr 1632. Efter en Studietid
 i Oxford opholdt han sig i nogen Tid i London
@@ -66,8 +66,9 @@ posterorum</i> (1881); <i>De jure majestatis</i> (1882);
 <i>A Letterbook of Sir J. E.</i> (1882). (<sp>Litt</sp>.:
 <sp>Forster</sp>, <i>Life of J. E.</i> [London 1864]).
 <i>M. M.</i>
+</chapter>
 
-<chapter name="Eliot, John (Indianernes Apostel">
+<chapter name="Eliot, John (Indianernes Apostel)">
 <b>Eliot</b> ['e£<sub>iə</sub>t], <sp>John</sp>, »Indianernes Apostel«
 (1604-90), var f. i England og havde studeret
 i Cambridge. Efter at have sluttet sig til

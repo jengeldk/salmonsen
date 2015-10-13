@@ -9,67 +9,67 @@ hos <i>Protoceras</i> bar Hannens Hovedskal 5 Par
 Benudvækster.
 <i>R. Hg.</i></chapter>
 
-<chapter name=”Dværghunde”>
+<chapter name="Dværghunde">
 <b>Dværghunde,</b> se <sp>Hunde</sp>.</chapter>
 
-<chapter name=”Dværghyæne”>
+<chapter name="Dværghyæne">
 <b>Dværghyæne,</b> se <sp>Hyæner</sp>.</chapter>
 
-<chapter name=”Dværghøns”>
+<chapter name="Dværghøns">
 <b>Dværghøns</b> (<sp>Bantams</sp>), se <sp>Høns</sp>.</chapter>
 
-<chapter name=”Dværghør”>
+<chapter name="Dværghør">
 <b>Dværghør,</b> se <sp>Tusindfrø</sp>.</chapter>
 
-<chapter name=”Dværgkaskelot”>
+<chapter name="Dværgkaskelot">
 <b>Dværgkaskelot,</b> se <sp>Kaskelot</sp>.</chapter>
 
-<chapter name=”Dværgmaage”>
+<chapter name="Dværgmaage">
 <b>Dværgmaage,</b> se <sp>Maager</sp>.</chapter>
 
-<chapter name=”Dværgmalle”>
+<chapter name="Dværgmalle">
 <b>Dværgmalle,</b> se <sp>Maller</sp>.</chapter>
 
-<chapter name=”Dværgmider”>
+<chapter name="Dværgmider">
 <b>Dværgmider,</b> se <sp>Tardigrader</sp>.</chapter>
 
-<chapter name=”Dværgmispel”>
+<chapter name="Dværgmispel">
 <b>Dværgmispel,</b> se <sp>Cotoneaster</sp>.</chapter>
 
-<chapter name=”Dværgmus”>
+<chapter name="Dværgmus">
 <b>Dværgmus,</b> se <sp>Mus</sp>.</chapter>
 
-<chapter name=”Dværgpalme”>
+<chapter name="Dværgpalme">
 <b>Dværgpalme,</b> se <sp>Chamærops</sp>.</chapter>
 
-<chapter name=”Dværgpapegøjer”>
+<chapter name="Dværgpapegøjer">
 <b>Dværgpapegøjer,</b> se <sp>Papegøjer</sp>.</chapter>
 
-<chapter name=”Dværgpomerans”>
+<chapter name="Dværgpomerans">
 <b>Dværgpomerans,</b> se <sp>Citrus</sp>.</chapter>
 
-<chapter name=”Dværgrundorme”>
+<chapter name="Dværgrundorme">
 <b>Dværgrundorme,</b> se <sp>Rundorme</sp>.</chapter>
 
-<chapter name=”Dværgryle”>
+<chapter name="Dværgryle">
 <b>Dværgryle,</b> se <sp>Ryler</sp>.</chapter>
 
-<chapter name=”Dværgspidsmus”>
+<chapter name="Dværgspidsmus">
 <b>Dværgspidsmus,</b> se <sp>Spidsmus</sp>.</chapter>
 
-<chapter name=”Dværgspætter”>
+<chapter name="Dværgspætter">
 <b>Dværgspætter,</b> se <sp>Spætter</sp>.</chapter>
 
-<chapter name=”Dværgsumphøne”>
+<chapter name="Dværgsumphøne">
 <b>Dværgsumphøne,</b> se <sp>Sumphøns</sp>.</chapter>
 
-<chapter name=”Dværgterne”>
+<chapter name="Dværgterne">
 <b>Dværgterne,</b> se <sp>Terner</sp>.</chapter>
 
-<chapter name=”Dværgtrappe”>
+<chapter name="Dværgtrappe">
 <b>Dværgtrappe,</b> se <sp>Trapper</sp>.</chapter>
 
-<chapter name=”Dværgtræer”>
+<chapter name="Dværgtræer">
 <b>Dværgtræer</b> benyttes i Frugthaven. De
 forædles paa Grundstammer af svagere Vækst, og
 i Reglen bliver Frugten særdeles godt udviklet
@@ -85,23 +85,23 @@ Frugt end Vildlingtræer, men Levetiden er
 forholdsvis kort.
 <i>L. H.</i></chapter>
 
-<chapter name=”Dværgulvefod”>
+<chapter name="Dværgulvefod">
 <b>Dværgulvefod,</b> se <sp>Selaginella</sp>.</chapter>
 
-<chapter name=”Dværgulvefodfamilien”>
+<chapter name="Dværgulvefodfamilien">
 <b>Dværgulvefodfamilien</b> (<i>Selaginellaceæ</i>),
 heterospore Ulvefodsvækster med en enkelt Slægt
 <i>Selaginella</i> (s. d.); under Beskrivelsen af
 Slægten er Fam.'s Kendetegn givne.
 <i>A. M.</i></chapter>
 
-<chapter name=”Dværgvagtel”>
+<chapter name="Dværgvagtel">
 <b>Dværgvagtel,</b> se <sp>Løbehøns</sp>.</chapter>
 
-<chapter name=”Dværgværling”>
+<chapter name="Dværgværling">
 <b>Dværgværling,</b> se <sp>Værlinger</sp>.</chapter>
 
-<chapter name=”Dwarka”>
+<chapter name="Dwarka">
 <b>Dwarka</b> (<sp>Dwaráka</sp>, Ptolemaios' <sp>Barake</sp>),
 Havnestad og Valfartsby i den britisk-indiske
 Vasalstat Baroda, Gudsharat, har næppe 5000
@@ -125,7 +125,7 @@ Bindemiddel. Templet besøges aarlig af over
 Bæk, der bærer Navnet Gumti.
 <i>(C. C. C.). M. V.</i></chapter>
 
-<chapter name=”Dwars”>
+<chapter name="Dwars">
 <b>Dwars</b> (»Dore«), sædvanlig <sp>Duars</sp>, kaldes
 de lavtliggende, frugtbare Dalstrøg paa
 Sydskraaningen af det østlige Himalaya,
@@ -139,7 +139,7 @@ blevet gjort Ende paa Røverierne, steget
 betydelig.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dwernicki, Joseph”>
+<chapter name="Dwernicki, Joseph">
 <b>Dwernicki</b> [dvær'nitski], <sp>Joseph</sp>, polsk
 General, f. 14. Marts 1779 i Warszawa, d. Decbr
 1857 i Galizien. I Spidsen for en af ham selv
@@ -180,7 +180,7 @@ i Volhynien. Hans Memoirer er 1870 udgivne
 af Plagovski.
 <i>B. P. B.</i></chapter>
 
-<chapter name=”Dwight, Timothy”>
+<chapter name="Dwight, Timothy">
 <b>Dwight</b> [dwa^it], <sp>Timothy</sp>, amer. gejstlig
 og Forf. (1752-1817), blev 1777 Præst og deltog
 som Feltpræst i den amer. Frihedskrig; senere
@@ -196,6 +196,6 @@ behandler Indianernes Historie, Skikke o. s. v.
 <sp>Sparks</sp>' <i>American Biography</i> [14 Bd]).
 <i>(C. K.). I. O.</i></chapter>
 
-<chapter name=”Dworák<, Anton”>
+<chapter name="Dworák, Anton">
 <b>Dworák</b> ['dvå<sub>r</sub>зa.k], <sp>Anton</sp>, bøhm.
 Komponist, f. 8. Septbr 1841 i Mühlhausen (Böhmen),

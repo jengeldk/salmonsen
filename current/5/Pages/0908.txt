@@ -1,7 +1,7 @@
 <chapter name="Daugbjerg">
 <b>Daugbjerg,</b> se <sp>Davbjerg</sp>.</chapter>
 
-<chapter name=”Daulatabad<”>
+<chapter name="Daulatabad">
 <b>Daulatabad</b> [da^u£<sub>ə</sub>t<sub>ə</sub>'bäd] (ind. <sp>Deogiri</sp>),
 By i den britisk-indiske Vasalstat Haidarabad,
 berømt p. Gr. a. sit mærkelige Fort, der er
@@ -16,7 +16,7 @@ efterhaanden sunket ned til en ganske ubetydelig
 By.
 <i>M. V.</i></chapter>
 
-<chapter name=”Dauletshâh”>
+<chapter name="Dauletshâh">
 <b>Dauletshâh</b> [-'∫a.h], <sp>Ibn-Ala-ed-daula
 Bakhtishâh</sp>, fra Samarkand, Forf. til et
 berømt persisk litterærhistorisk Værk
@@ -40,7 +40,7 @@ Dawlatsháh</i> [London og Leiden 1901] [<i>Persian
 Historical Texts</i>, Bd. I).
 <i>A. C.</i></chapter>
 
-<chapter name=”Daulis”>
+<chapter name="Daulis">
 <b>Daulis,</b> gl Stad i det gr. Landskab Fokis,
 ved Vejen, der førte fra Orchomenos og
 Chaironeia til Delfoi. Efter Sagnet havde Thrakerne
@@ -53,7 +53,7 @@ Perserne 480 f. Kr., af Filip af Makedonien 346
 f. Kr., men atter genopbygget.
 <i>C. B.</i></chapter>
 
-<chapter name=”Daullé, Jean”>
+<chapter name="Daullé, Jean">
 <b>Daullé</b> [do'le], <sp>Jean</sp>, fr. Kobberstikker, f.
 i Abbeville 1703, d. i Paris 1763. Han
 uddannedes i Paris af Rob. Hecquet, gjorde sin Lykke
@@ -72,7 +72,7 @@ c. 90 Blade. (<sp>Litt</sp>.: <sp>E. Delignières</sp>,
 1873]).
 <i>A. Hk.</i></chapter>
 
-<chapter name=”Daumas, Melchior Joseph Eugène”>
+<chapter name="Daumas, Melchior Joseph Eugène">
 <b>Daumas</b> [do'ma], <sp>Melchior Joseph
 Eugène</sp>, fr. General (1803-71). Efter 1827 at
 være blevet Officer kom han 1835 til Algier,
@@ -94,7 +94,7 @@ Kommentar af Abd-el-Kader, 1854), <i>La Kabylie</i>
 (1857).
 <i>C. A.</i></chapter>
 
-<chapter name=”Daumesnil, Yrieix Pierre”>
+<chapter name="Daumesnil, Yrieix Pierre">
 <b>Daumesnil</b> [dome'nil], <sp>Yrieix Pierre</sp>,
 fr. Militær (1776-1832), deltog i Ekspeditionen
 til Ægypten og blev Eskadronchef. Ved Wagram
@@ -107,7 +107,7 @@ efter Julirevolutionen 1830 atter Guvernør i
 Vincennes. 1831 Generalløjtnant. En Statue er rejst
 over D. i Vincennes.</chapter>
 
-<chapter name=”Daumet, Pierre Gérôme Honoré”>
+<chapter name="Daumet, Pierre Gérôme Honoré">
 <b>Daumet</b> [do'mæ], <sp>Pierre Gérôme
 Honoré</sp>, fr. Arkitekt, f. i Paris 3. Oktbr 1826, d.
 smst. 12. Decbr 1911. Efter fuldendt
@@ -121,7 +121,7 @@ han bl. a. restaureret Justitspaladset i Grenoble,
 Teatret i Orange og Slottet St Germain-en-Laye.
 <i>C. A. J.</i></chapter>
 
-<chapter name=”Daumier, Honoré”>
+<chapter name="Daumier, Honoré">
 <b>Daumier</b> [do'm<sub>i</sub>e], <sp>Honoré</sp>, fr.
 Karikaturtegner og Maler, f. i Marseille 26. Febr 1810,
 d. i Valmondois (Seine-et-Oise) 10. Febr 1879.

@@ -49,6 +49,7 @@ affaldende Kulbeklædning.
 
 <chapter name="Calamoichthys (se Ganoider)">
 <b>Calamoichthys</b> [-tys], se <sp>Ganoider</sp>.
+</chapter>
 
 <chapter name="Calamus">
 <b>Calamus</b> L. (<sp>Rotang</sp>), Slægt af Palmerne

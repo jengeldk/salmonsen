@@ -19,10 +19,12 @@ Betegnelse for smaa, firsidede Beholdere for de
 brændte Ben fra Ligbaalet i etruskiske Grave,
 af Sten ell. Terrakotta, med Figurer ell.
 Indskrifter.
-<i>H. A. K.</i></chapter>
+<i>H. A. K.</i>
+</chapter>
 
 <chapter name="Cistaceæ">
-<b>Cistaceæ,</b> se <sp>Soløjefamilien</sp>.</chapter>
+<b>Cistaceæ,</b> se <sp>Soløjefamilien</sp>.
+</chapter>
 
 <chapter name="Cista mystica">
 <b>Cista mystica</b> (lat.), et cylindrisk Skrin,
@@ -44,7 +46,8 @@ Symbolets Art, se »Archiv f.
 Religionswissenschaft«, 1914, S. 120 ff.). En C. m., hvoraf
 Slanger kommer frem, er jævnlig afbildet paa
 de Mønter, der kaldes Cistophorer.
-<i>H. A. K.</i></chapter>
+<i>H. A. K.</i>
+</chapter>
 
 <chapter name="Cister">
 <b>Cister,</b> et
@@ -63,10 +66,12 @@ Gribebrættet er
 forsynet med Tværbaand.
 Forekommer nu kun
 i Spanien.
-<i>S. L.</i>
 
 <img>
 Cister.</img>
+
+<i>S. L.</i>
+</chapter>
 
 <chapter name="Cisterciensere">
 <b>Cisterciensere,</b> en
@@ -133,7 +138,8 @@ architecture of the Cisterciensans</i> [London 1894];
 [Würzburg 1881], se for øvrigt <sp>De Smedt</sp>,
 <i>Introductio generalis ad Historiam ecclesiasticam</i>
 [Genève 1876], S. 358-60).
-<i>L. M.</i></chapter>
+<i>L. M.</i>
+</chapter>
 
 <chapter name="Cisterna di Roma">
 <b>Cisterna di Roma</b> [t∫i'stærna-], By i
@@ -142,7 +148,8 @@ pontinske Sumpe. (1911) 3891 Indb. C. er
 sandsynligvis det gl. <i>Tres tabernæ</i> i Apostlenes
 Gerninger, hvor Paulus havde sin første
 Sammenkomst med de rom. Kristne.
-<i>H. P. S.</i></chapter>
+<i>H. P. S.</i>
+</chapter>
 
 <chapter name="Cisterne">
 <b>Cisterne</b> er nu en Betegnelse for mange
