@@ -103,7 +103,7 @@ med Nagler.
 </chapter>
 
 <chapter name="Profiltraad">
-<b>Profiltraad,</b> Facontraad, Dessintraad kaldes
+<b>Profiltraad,</b> Façontraad, Dessintraad kaldes
 Traad, hvis Tværsnit ikke er cirkulært, men
 f. Eks. halvrundt (bruges til Splitter), ovalt,
 ottetalsformet, kvadratisk (bruges til Traadsøm
