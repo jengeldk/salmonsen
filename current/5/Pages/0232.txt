@@ -79,13 +79,13 @@ af Forterne Camden og Carlisle. (<sp>Litt</sp>.:
 [Dublin 1875]).
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Cork Harbour”>
+<chapter name="Cork Harbour">
 <b>Cork Harbour</b> ['kå.<sub>ə</sub>k-'ha.<sub>ə</sub>bə], se <sp>Cork</sp>.</chapter>
 
-<chapter name=”Corkit”>
+<chapter name="Corkit">
 <b>Corkit,</b> d. s. s. <sp>Beudantit</sp>.</chapter>
 
-<chapter name=”Corleone”>
+<chapter name="Corleone">
 <b>Corleone</b> [kårlæ'ån<sub>æ</sub>], By paa Sicilien, Prov.
 Palermo, ligger paa Skraaningen af en Høj
 mellem Belices Kildearme, har en rigt udstyret
@@ -94,16 +94,16 @@ Sognekirke og Ruiner af to Kasteller. (1911)
 ligger Resjter af det gl. Schera.
 <i>(C. A.). H. P. S.</i></chapter>
 
-<chapter name=”Cor leonis”>
+<chapter name="Cor leonis">
 <b>Cor leonis</b> [kår-] (astron.), se <sp>Løven</sp>.</chapter>
 
-<chapter name=”Corliss-Maskine”>
+<chapter name="Corliss-Maskine">
 <b>Corliss-Maskine,</b> se <sp>Dampmaskine</sp>.</chapter>
 
-<chapter name=”Corliss-Styring”>
+<chapter name="Corliss-Styring">
 <b>Corliss-Styring,</b> se <sp>Dampmaskine</sp>.</chapter>
 
-<chapter name=”Corlu”>
+<chapter name="Corlu">
 <b>Corlu</b> ['t∫orlu], se <sp>Tschorlu</sp>.</chapter>
 
 <chapter name="Cormeilles">
@@ -115,8 +115,7 @@ har et Fort og fl. Batterier af Paris' ydre
 Fæstningslinie og c. 2500 Indb.
 <i>G. Ht.</i></chapter>
 
-<chapter name=”Cormenin, Louis Marie de la
-Haye”>
+<chapter name="Cormenin, Louis Marie de la Haye">
 <b>Cormenin</b> [kårm<sub>ö</sub>'næ], <sp>Louis Marie de la
 Haye</sp>, Vicomte af, fr. politisk Forf., f. 6. Jan.
 1788, d. 6. Maj 1868, af en gl Retsadel-Slægt

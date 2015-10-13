@@ -24,7 +24,7 @@ indlemmet G. driver Industri og Handel med Vin.
 <i>H. P. S.</i>
 </chapter>
 
-<chapter name="Gaiaktræ ">
+<chapter name="Gaiaktræ">
 <b>Gaiaktræ </b> se <sp>Dipteryx</sp>.
 </chapter>
 

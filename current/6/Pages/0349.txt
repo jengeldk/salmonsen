@@ -27,7 +27,7 @@ haardt Slid og gentagne Opfriskninger endnu
 af og til give ganske taalelige Aftryk.
 <i>S. M.</i></chapter>
 
-<chapter name=”Dorippidæ”>
+<chapter name="Dorippidæ">
 <b>Dorippidæ,</b> ejendommelig Fam. af Krabber
 med bredt, fladt Skjold og meget stærk
 Forlængelse af 2. og 3. Benpar; 4. og 5. Benpar
@@ -37,13 +37,13 @@ etc., med hvilke Dyrene dækker sig.
 Hovedslægt <i>Dorippe</i> i Middelhavet.
 <i>C. W.-L.</i></chapter>
 
-<chapter name=”Doris, i de græske Sagn”>
+<chapter name="Doris, i de græske Sagn">
 <b>Doris,</b> i de græske Sagn Datter af Okeanos
 og Tethys, gift med Nereus og Moder til
 Nereiderne.
 <i>C. B.</i></chapter>
 
-<chapter name=”Doris, gr. Landskab”>
+<chapter name="Doris, gr. Landskab">
 <b>Doris,</b> i Oldtiden det mindste af de
 selvstændige gr. Landskaber, laa midt i
 Mellemgrækenland, omgivet af Malis, Oitaia, Lokris og
@@ -72,7 +72,7 @@ Forbjerget Triopion ved Knidos, hvor der laa et
 Apollp-Tempel.
 <i>K. H.</i></chapter>
 
-<chapter name=”Doris, Baggællesnegle”>
+<chapter name="Doris, Baggællesnegle">
 <b>Doris,</b> en Slægt af skalløse Baggællesnegle
 (<i>Nudibranchia</i>). Dyrets mere ell. mindre
 affladede Legeme er paa Rygsiden dækket af en
@@ -92,17 +92,17 @@ Arter findes i vore Farvande paa Bændeltang,
 Alger og Sten.
 <i>C. M. S.</i></chapter>
 
-<chapter name=”dorisk Dialekt”>
+<chapter name="dorisk Dialekt">
 <b>dorisk Dialekt,</b> se <sp>Grækenland</sp>, »Sprog«.</chapter>
 
-<chapter name=”dorisk Stil”>
+<chapter name="dorisk Stil">
 <b>dorisk Stil,</b> se <sp>Bygningskunst</sp> og
 <sp>Søjler</sp>.</chapter>
 
-<chapter name=”dorisk Søjle”>
+<chapter name="dorisk Søjle">
 <b>dorisk Søjle,</b> se <sp>Søjler</sp>.</chapter>
 
-<chapter name=”dorisk Toneart ”>
+<chapter name="dorisk Toneart">
 <b>dorisk Toneart.</b> I den græske Musik bestod
 denne af Oktavrækken <i>e f g a h c d e</i>. I det
 middelalderlige Musiksystem udgjorde derimod
@@ -113,7 +113,7 @@ med stor Sekst og lille Septim -, at den d. T.
 i vor Tid lejlighedsvis forekommer.
 <i>A. H.</i></chapter>
 
-<chapter name=”dorisk Vandring”>
+<chapter name="dorisk Vandring">
 <b>dorisk Vandring.</b> Oldtidens Grækere havde
 en Tradition om, at den doriske Stamme ved en
 stor Folkevandring var kommet til de Egne,
@@ -151,13 +151,13 @@ tilstrækkeligt til, at man i det enkelte kan danne sig et
 Billede af denne Bevægelse.
 <i>C. B.</i></chapter>
 
-<chapter name=”Dorisme”>
+<chapter name="Dorisme">
 <b>Dorisme</b> (gr.), dorisk Ejendommelighed,
 specielt om de fra den doriske Dialekt hentede
 Sprogformer, der anvendtes i det attiske Drama.
 <i>K. H.</i></chapter>
 
-<chapter name=”Dorking”>
+<chapter name="Dorking">
 <b>Dorking</b> ['då.<sub>ə</sub>k<sub>i</sub>ŋ], By i det sydøstlige
 England, Grevskab Surrey, ved Mole, nær Foden
 af Box Hill, er Jernbaneknudepunkt og har
