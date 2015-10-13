@@ -54,7 +54,7 @@ Regning. To Operationer kaldes modsatte ell.
 omvendte, naar man ved at udføre den ene med
 et vilkaarligt Tal <i>a</i> ell. en vilkaarlig Funktion
 φ(<i>x</i>) og derefter den anden med Resultatet
-kommer tilbage til <b>a</b> ellerφ(<i>x</i>). At tage en
+kommer tilbage til <i>a</i> eller φ(<i>x</i>). At tage en
 Funktion og at tage den omvendte Funktion
 (se <sp>Funktion</sp>) er altsaa m. O. Af den
 elementære Aritmetiks Regningsarter er Addition

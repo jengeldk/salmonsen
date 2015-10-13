@@ -76,7 +76,7 @@ Landbrugsprodukter.
 </chapter>
 
 <chapter name="Besvangrelse (se Svangerskab og Ægteskabsløfte)">
- <b>Besvangrelse,</b> se <sp>Svangerskab</sp> og
+<b>Besvangrelse,</b> se <sp>Svangerskab</sp> og
 <sp>Ægteskabsløfte</sp>.
 </chapter>
 

@@ -141,7 +141,7 @@ ved Bakterieformering i det slagtede Kød
 dannes giftige Produkter i dette. Hertil maa som
 den farligste regnes
 <sp>Botulinusforgiftning</sp> (Botulismus). De giftige Produkter
-dannes af en Bakterie, <b>bacillus botulinus</b>, der ikke
+dannes af en Bakterie, <i>bacillus botulinus</i>, der ikke
 er i Stand til at angribe den levende
 Organisme, men under egnede Omstændigheder
 (ringe Tilgang af Ilt) vokser i Kød, Fars,

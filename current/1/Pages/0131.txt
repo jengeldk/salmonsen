@@ -136,7 +136,7 @@ paagældende Piber (se <sp>Orgel</sp>).
 </chapter>
 
 <chapter name="abstrakt Løfte (se causa)">
-<b>abstrakt Løfte</b>, se <b>causa</b>.
+<b>abstrakt Løfte</b>, se <sp>causa</sp>.
 </chapter>
 
 <chapter name="abstrus">

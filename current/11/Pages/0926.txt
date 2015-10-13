@@ -126,7 +126,7 @@ Horisonten gennem Zenit <i>Z</i> og Nadir <i>N</i>, saa er
 Himlen ved disse to Cirkler delt i 4 lige store
 Stykker. Hvert af dem deles saa igen i 3 lige
 store Stykker ved Cirkler, der lægges gennem
-Punkterne <i>n</i> og <b>s</b> og med Horisonten danner
+Punkterne <i>n</i> og <i>s</i> og med Horisonten danner
 Vinkler paa henh. 30 og 60°. De saaledes
 fremkomne 12 Dele betegnes ved Nummer paa den
 i Fig. viste Maade. Det H., som findes lige
