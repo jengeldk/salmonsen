@@ -3,7 +3,7 @@ nød som Statsmand alm. Ry for sin
 Hæderlighed og sit Maadehold.
 <i>E. E.</i></chapter>
 
-<chapter name = ”Clarendon-Castle”>
+<chapter name="Clarendon-Castle">
 <b>Clarendon-Castle</b> ['k£är<sub>i</sub>nd<sub>ə</sub>n-'ka.s£], forhen
 kgl. eng. Slot, nu i Ruiner, i Wiltshire, 5 km
 SV. f. Salisbury, bekendt ved de to
@@ -15,7 +15,7 @@ han søgte at bryde Hierarkiets Magt (se
 <i>Assize of Clarendon</i>, vedtoges forsk. Forordninger
 vedrørende eng. Retspleje.</chapter>
 
-<chapter name = ”Clarendon Press”>
+<chapter name="Clarendon Press">
 <b>Clarendon Press</b> ['k£är<sub>i</sub>nd<sub>ə</sub>n-'pres], berømt
 eng. Trykkeri og Forlagsanstalt, kaldet saaledes
 efter den ansete Statsmand og Historiker E. H.
@@ -43,7 +43,7 @@ Bøgers Vedk. under Navnet <i>Oxford University
 Press</i> og er Verdens største Bibeltrykkeri.
 <i>(E. G.). C. S. P.</i></chapter>
 
-<chapter name = ”Clareni fratres”>
+<chapter name="Clareni fratres">
 <b>Clareni fratres,</b> en Gren af
 Franciskanerordenen af den strenge Observans, stiftet i Beg.
 af 14. Aarh. af Angelo di Cortona, der efter
@@ -54,14 +54,14 @@ udbredte sig kun i Italien og forenedes 1510 af
 Pave Julius II med Franciskanerne.
 <i>L. M.</i></chapter>
 
-<chapter name = ”Clarens”>
+<chapter name="Clarens">
 <b>Clarens</b> [kla'rã], se <sp>Montreux</sp>.</chapter>
 
-<chapter name = ”claret”>
+<chapter name="claret">
 <b>claret</b> ['k£är<sub>i</sub>t], eng. Betegnelse for Rødvine,
 særlig Bordeauxvine.</chapter>
 
-<chapter name = ”Claretie, Jules”>
+<chapter name="Claretie, Jules">
 <b>Claretie</b> [klar'ti (ogsaa klar'si)], <sp>Jules</sp>, egl.
 <sp>Arsène Arnaud</sp>, fr. Forf., f. 3. Decbr 1840
 i Limoges, d. 23. Decbr 1913 i Paris. Som meget
@@ -119,9 +119,10 @@ i <i>La vie moderne au théâtre</i> (3 Bd 1869, 1875,
 <i>La maison de Victor Hugo (1904)</i>.
 <i>S. Ms.</i>
 
-<img>
-J. Claretie</chapter></img>
-<chapter name = ”Claretta, Gaudenzio”>
+<img>J. Claretie</img>
+</chapter>
+
+<chapter name="Claretta, Gaudenzio">
 <b>Claretta,</b> <sp>Gaudenzio</sp>, Baron, italiensk
 Historiker (1835-1900), har forfattet en Række
 Skr og Afh. vedrørende Savojens Historie,
@@ -129,7 +130,7 @@ deriblandt <i>Storia del regno e dei tempi di Carlo
 Emanuele II, duca di Savoia</i> (3 Bd, 1877-79).
 <i>Kr. E.</i></chapter>
 
-<chapter name = ”Clari, Giovanni Carlo Maria”>
+<chapter name="Clari, Giovanni Carlo Maria">
 <b>Clari,</b> <sp>Giovanni Carlo Maria</sp>, ital.
 Komponist (1669-1745), er mest kendt ved sine
 Kammerduetter og -terzetter med Kontinuo
@@ -139,10 +140,10 @@ betydeligt Navn. En Opera af ham <i>Il savio
 delirante</i> blev opført i Pisa 1695.
 <i>A. H.</i></chapter>
 
-<chapter name = ”Clarias”>
+<chapter name="Clarias">
 <b>Clarias,</b> se <sp>Maller</sp>.</chapter>
 
-<chapter name = ”clarigatio”>
+<chapter name="clarigatio">
 <b>clarigatio</b> (lat.), i den ældste romerske
 Folkeret den mundtlig fremsatte Paastand paa
 Erstatning for begaaet Overgreb, der rettedes til

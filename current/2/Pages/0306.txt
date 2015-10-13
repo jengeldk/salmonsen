@@ -105,8 +105,8 @@ stormet af Franskmændene.
 </chapter>
 
 <chapter name="astigmatisk (se Astigmatisme)">
-<b>astigmatisk,</b> se <sp>Astigmatisme</sp>
-</chapter>.
+<b>astigmatisk,</b> se <sp>Astigmatisme</sp>.
+</chapter>
 
 <chapter name="Astigmatisme">
 <b>Astigmatisme</b> (gr.), den Egenskab ved Linser

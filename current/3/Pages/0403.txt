@@ -42,8 +42,8 @@ berettiget, med mindre Udseendet har Bet.
 </chapter>
 
 <chapter name="Blaasten (d. s. s. Kobbervitriol)">
-<b>Blaasten,</b> d. s. s. <sp>Kobbervitriol</sp>
-</chapter>.
+<b>Blaasten,</b> d. s. s. <sp>Kobbervitriol</sp>.
+</chapter>
 
 <chapter name="Blaastjerne">
 <b>Blaastjerne</b> (<i>Sherardia</i> Dill.), Slægt af

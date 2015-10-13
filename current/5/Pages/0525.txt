@@ -58,13 +58,14 @@ Rasmussen</sp>, »Læren om Skibsdampmaskinen«).
 
 <img>Fig. 9 a.</img>
 <img>Fig. 9 b.</img>
-<img>Fig. 10.</chapter></img>
+<img>Fig. 10.</img>
+</chapter>
 
-<chapter name=”Damptærskemaskine”>
+<chapter name="Damptærskemaskine">
 <b>Damptærskemaskine,</b> se
 <sp>Tærskemaskiner</sp>.</chapter>
 
-<chapter name=”Damptæthed”>
+<chapter name="Damptæthed">
 <b>Damptæthed.</b> Dividerer man Vægten af et
 vist Rumfang Damp med Vægten af det samme
 Rumfang Vand ved 4°, faar man en Brøk, der

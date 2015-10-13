@@ -2,7 +2,7 @@
 med Holbæk Slot.
 <i>H.-L.</i></chapter>
 
-<chapter name=”Daa, Ludvig Kristensen”>
+<chapter name="Daa, Ludvig Kristensen">
 <b>Daa,</b> <sp>Ludvig Kristensen</sp>, norsk
 Politiker, Publicist og Historiker, f. i Saltdalen
 (Nordland) 19. Aug. 1809, d. i Kria 12. Juni 1877.
@@ -114,15 +114,16 @@ sikkert være kommet mere til sin Ret. (<sp>Litt</sp>.:
 D.« i »Edda« I, 122-144).
 <i>(O. A. Ø.). Edv. B.</i>
 
-<img>L. K. Daa.</chapter></img>
+<img>L. K. Daa.</img>
+</chapter>
 
-<chapter name=”Daa ell. Daadyr”>
+<chapter name="Daa ell. Daadyr">
 <b>Daa</b> ell. <sp>Daadyr</sp> (<i>Cérvus dáma</i>), se <sp>Hjorte</sp>.</chapter>
 
-<chapter name=”Daa (bot.)”>
+<chapter name="Daa (bot.)">
 <b>Daa</b> (bot.), se <sp>Galeopsis</sp>.</chapter>
 
-<chapter name=”Daab”>
+<chapter name="Daab">
 <b>Daab</b> betegner den Handling, hvorved et Menneske
 optages i det kristne Kirkesamfund. Den
 har fulgt Kirken overalt og lige fra Beg. For

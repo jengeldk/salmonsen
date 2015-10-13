@@ -16,7 +16,7 @@ det liberal-unionistiske Standpunkt. Det
 udkommer nu i London med 4 Hæfter om Aaret.
 <i>K. F.</i></chapter>
 
-<chapter name=”Edinger, Ludwig”>
+<chapter name="Edinger, Ludwig">
 <b>Edinger</b> ['e.deŋ<sub>ə</sub>r], <sp>Ludwig</sp>, tysk
 Nerveanatom, f. 13. Apr. 1855 i Worms, blev <i>Dr. med.</i>
 1876, senere Docent ved den medicinske Klinik
@@ -34,20 +34,20 @@ Magen- und Darmschleimhaut«, optagne i »Arch.
 f. mikroskop. Anat.«, 1887-89.
 <i>J. S. J.</i></chapter>
 
-<chapter name=”Edingtonit”>
+<chapter name="Edingtonit">
 <b>Edingtonit,</b> se <sp>Zeolitter</sp>.</chapter>
 
-<chapter name=”Edinol”>
+<chapter name="Edinol">
 <b>Edinol,</b> det saltsure Salt af
 Metaamido-Ortho-Oxybenzylalkohol, er et gulgraat, i Vand
 letopløseligt Pulver, der anvendes i Fotografien
 til Fremstilling af Fremkalderbade.
 <i>C. E. A.</i></chapter>
 
-<chapter name=”Edirne”>
+<chapter name="Edirne">
 <b>Edirne,</b> se <sp>Adrianopel</sp>.</chapter>
 
-<chapter name=”Edison, Thomas Alva”>
+<chapter name="Edison, Thomas Alva">
 <b>Edison</b> |'ed<sub>i</sub>s<sub>ə</sub>n], <sp>Thomas Alva</sp>, amer.
 Opfinder, f. i Milan, Ohio, 11. Febr 1847. Hans
 Moder havde været Lærerinde og gav ham nogen
@@ -133,9 +133,10 @@ Telegraph-Boy who became a great Inventor</i> [London 1896];
 [II, Kbhvn 1915]).
 <i>K. S. K.</i>
 
-<img>T. A. Edison.</chapter></img>
+<img>T. A. Edison.</img>
+</chapter>
 
-<chapter name=”Edisonit”>
+<chapter name="Edisonit">
 <b>Edisonit</b> ansaas tidligere for en
 særegen (fjerde) Modifikation af Titansyreanhydrid
 (TiO<sub>2</sub>), af hvilket man kender tre forsk., i

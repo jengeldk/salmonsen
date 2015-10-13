@@ -90,9 +90,10 @@ Reise nach Färö im J. 1828« [Grindefangst];
 <sp>Flower & Lydekker</sp>, <i>Mammals</i>, 1891).
 <i>R. Hg.</i>
 
-<img>Fig. 5. Ganges-Delfin.</chapter></img>
+<img>Fig. 5. Ganges-Delfin.</img>
+</chapter>
 
-<chapter name=”Delfinia”>
+<chapter name="Delfinia">
 <b>Delfinia,</b> attisk Fest, der i Maaneden
 Munychion ved Skibsfartens Beg. fejredes til Ære for
 Apollon Delfinios (Beskytter af Søfart). Om
@@ -102,20 +103,20 @@ Beskyttelse; om Festen selv vides ikke andet end,
 at unge Piger gik til Templet for at holde Bøn.
 <i>C. B.</i></chapter>
 
-<chapter name=”Delfinion”>
+<chapter name="Delfinion">
 <b>Delfinion,</b> Apollon Delfinios' Tempel i
 Athen. Her holdtes efter gl Tradition, som
 henførtes til Aigeus, Dom over Mord, som
 formentes at være jur. tilladelige.
 <i>C. B.</i></chapter>
 
-<chapter name=”Delfinit”>
+<chapter name="Delfinit">
 <b>Delfinit,</b> d. s. s. <sp>Epidot</sp>.</chapter>
 
-<chapter name=”Delfisk Orakel”>
+<chapter name="Delfisk Orakel">
 <b>Delfisk Orakel,</b> se <sp>Delfoi</sp>.</chapter>
 
-<chapter name=”Delfoi”>
+<chapter name="Delfoi">
 <b>Delfoi</b> ['dælfå'j] (gr. Δελφοί, lat. <i>Delphi</i>),
 oldgræsk Stad i Landskabet Fokis med berømt
 Apollonhelligdom og Orakel. D.'s Ruiner ligger
