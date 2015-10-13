@@ -65,7 +65,7 @@ Michelangelo i den capitolinske Samling i Rom.
 <i>A. Hk.</i>
 </chapter>
 
-<chapter name="Venusvogn,">
+<chapter name="Venusvogn">
 <b>Venusvogn,</b> se <sp>Aconitum</sp>.
 </chapter>
 

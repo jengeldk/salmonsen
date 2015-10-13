@@ -48,7 +48,7 @@ Fornminnesföreningens tidskrift«, IX, Sthlm 1896]).
 <i>A. O.</i>
 </chapter>
 
-<chapter name="Festgræs,">
+<chapter name="Festgræs">
 <b>Festgræs,</b> se <sp>Hierochloa</sp>.
 </chapter>
 
@@ -166,7 +166,7 @@ end mere resultatløse.
 <i>J. P.</i>
 </chapter>
 
-<chapter name="Festus, R.,">
+<chapter name="Festus, R.">
 <b>Festus, R.,</b> se <sp>Rufus Festus</sp>.
 </chapter>
 

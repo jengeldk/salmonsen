@@ -26,7 +26,7 @@ imellem.
 <b>Brilleslange,</b> se <sp>Giftsnoge</sp>.
 </chapter>
 
-<chapter name="Brillesten (se Mergel),">
+<chapter name="Brillesten (se Mergel)">
 <b>Brillesten,</b> se <sp>Mergel</sp>.
 </chapter>
 

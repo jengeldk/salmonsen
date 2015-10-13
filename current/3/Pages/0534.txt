@@ -25,7 +25,7 @@ Småland.
 <i>O. B. B.</i>
 </chapter>
 
-<chapter name="Blyglas,">
+<chapter name="Blyglas">
 <b>Blyglas,</b> d. s. s. <sp>Anglesit</sp>. Se tillige <sp>Glas</sp>.
 </chapter>
 
@@ -57,6 +57,7 @@ med andre Blymalme.
 
 <chapter name="Blyhornmalm (d. s. s. Fosgenit)">
 <b>Blyhornmalm,</b> d. s. s. <sp>Fosgenit</sp>.
+</chapter>
 
 <chapter name="Blyhvidt">
 <b>Blyhvidt</b> er en af de mest benyttede hvide

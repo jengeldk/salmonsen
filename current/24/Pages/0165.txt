@@ -121,7 +121,7 @@ Adressaten.
 <i>Ch. V. N.</i>
 </chapter>
 
-<chapter name="Udenfor Censur,">
+<chapter name="Udenfor Censur">
 <b>Udenfor Censur,</b> se <sp>U. C.</sp>
 </chapter>
 

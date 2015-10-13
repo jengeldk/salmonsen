@@ -88,7 +88,7 @@ Tilsætning af en Opløsning af Zinksulfat.
 <i>K. M.</i>
 </chapter>
 
-<chapter name="Viskosimeter,">
+<chapter name="Viskosimeter">
 <b>Viskosimeter,</b> Apparat til Bestemmelse af
 Viskositeten af Smøremidler og andre
 Vædsker. Det bestaar sædvanlig af en Beholder med

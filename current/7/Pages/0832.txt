@@ -8,7 +8,7 @@ Se nærmere under <sp>Fattigvæsen</sp>.
 <i>A. Gl.</i>
 </chapter>
 
-<chapter name="fattiges Bibel, de,">
+<chapter name="fattiges Bibel, de">
 <b>fattiges Bibel, de,</b> se <sp>Biblia pauperum</sp>.
 </chapter>
 

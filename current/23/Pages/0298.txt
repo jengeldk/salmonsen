@@ -136,7 +136,7 @@ Tid at have fundet i Lysbehandlingen.
 <i>P. H.</i>
 </chapter>
 
-<chapter name="Tetanus,">
+<chapter name="Tetanus">
 <b>Tetanus,</b> se <sp>Stivkrampe</sp>.
 </chapter>
 

@@ -23,7 +23,7 @@ paa -<i>lev</i> har deres Centrum paa Sjælland.
 <i>G. S-e.</i>
 </chapter>
 
-<chapter name="Videstævne,">
+<chapter name="Videstævne">
 <b>Videstævne,</b> se <sp>Vide</sp>.
 </chapter>
 

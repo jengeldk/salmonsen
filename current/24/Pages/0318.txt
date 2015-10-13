@@ -21,7 +21,7 @@ Folketyper.
 <i>A. Hk.</i>
 </chapter>
 
-<chapter name="Upsala,">
+<chapter name="Upsala">
 <b>Upsala,</b> se <sp>Uppsala</sp>.
 </chapter>
 

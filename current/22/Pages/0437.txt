@@ -2,7 +2,7 @@
 <b>Strandløber,</b> se <sp>Ryler</sp>.
 </chapter>
 
-<chapter name="Strandløg,">
+<chapter name="Strandløg">
 <b>Strandløg,</b> se <sp>Løg</sp> og <sp>Urginea</sp>.
 </chapter>
 

@@ -11,7 +11,7 @@ C. Torp og Östen Undén.
 <b>Tidsvilde,</b> se <sp>Tisvilde</sp>.
 </chapter>
 
-<chapter name="Tidsækvation,">
+<chapter name="Tidsækvation">
 <b>Tidsækvation,</b> d. s. s. <sp>Tidsjævning</sp>,
 se <sp>Dag</sp>.
 </chapter>

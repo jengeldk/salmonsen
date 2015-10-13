@@ -22,7 +22,7 @@ over en Fragtvogn eller med en Koffert.
 <i>(H. H. S.). H. P. C.</i>
 </chapter>
 
-<chapter name="Vognkilometer,">
+<chapter name="Vognkilometer">
 <b>Vognkilometer,</b> se <sp>Jernbanestatistik</sp>
 og <sp>Kilometer</sp>.
 </chapter>

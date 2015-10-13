@@ -105,6 +105,6 @@ flerløbet.
 <img>Fig. 7.</img>
 </chapter>
 
-<chapter name="Tandhjulsbaner,">
+<chapter name="Tandhjulsbaner">
 <b>Tandhjulsbaner,</b> d. s. s. Tandbaner.
 </chapter>

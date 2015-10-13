@@ -152,7 +152,7 @@ paa.
 <i>Alfr. L.</i>
 </chapter>
 
-<chapter name="Fanatisme, fanatisk,">
+<chapter name="Fanatisme, fanatisk">
 <b>Fanatisme, fanatisk,</b> se <sp>Fanatiker</sp>.
 </chapter>
 

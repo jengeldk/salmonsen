@@ -27,7 +27,7 @@ Se ogsaa <sp>Mørtelstyrke</sp>.
 <b>Trækulsjern,</b> se <sp>Svejsejern</sp>.
 </chapter>
 
-<chapter name="Trækænguruer,">
+<chapter name="Trækænguruer">
 <b>Trækænguruer,</b> se <sp>Kænguruer</sp>.
 </chapter>
 

@@ -121,7 +121,7 @@ Brug af Ordet, se Art. <sp>Kant</sp>, S. 520.
 <i>Edg. R.</i>
 </chapter>
 
-<chapter name="Stofblomster,">
+<chapter name="Stofblomster">
 <b>Stofblomster,</b> d. s. s. Tøjblomster, se
 <sp>Blomster</sp>, <sp>kunstige</sp>.
 </chapter>

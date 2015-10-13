@@ -141,7 +141,7 @@ Oslo og Akers Kommuner.
 <i>Wt. K.</i>
 </chapter>
 
-<chapter name="Studenterkorps,">
+<chapter name="Studenterkorps">
 <b>Studenterkorps,</b> se <sp>Livkorps</sp>.
 </chapter>
 

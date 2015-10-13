@@ -78,7 +78,7 @@ Makedonien.
 <sp>Frida. E. B.</sp>
 </chapter>
 
-<chapter name="Vrddhi,">
+<chapter name="Vrddhi">
 <b>Vrddhi,</b> se <sp>Vriddhi</sp>.
 </chapter>
 

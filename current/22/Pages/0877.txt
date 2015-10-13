@@ -89,7 +89,7 @@ Holsteinsborg.
 <i>G. F. H.</i>
 </chapter>
 
-<chapter name="Sydbrabant,">
+<chapter name="Sydbrabant">
 <b>Sydbrabant,</b> se <sp>Brabant</sp>.
 </chapter>
 

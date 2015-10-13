@@ -58,7 +58,7 @@ Liv, som fortæres af en indre Splid. Se
 <b>Evighedsblomst,</b> se <sp>Gnaphalium</sp>.
 </chapter>
 
-<chapter name="evig Ild, evig Straf, evigt Liv,">
+<chapter name="evig Ild, evig Straf, evigt Liv">
 <b>evig Ild, evig Straf, evigt Liv,</b> se
 <sp>Evighed</sp>.
 </chapter>
