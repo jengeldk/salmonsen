@@ -1,8 +1,7 @@
 zip_files/
 .*.swp
 __pycache__/
-*.pyc
-
+*.py[cod]
 20150914/
 20151013/
 JE_20151013/
