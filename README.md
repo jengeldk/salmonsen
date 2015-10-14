@@ -8,7 +8,7 @@ forfattere med links til deres artikler. Der er også lavet lister over stavefej
 Rettelserne vil løbende blive indført på github - og om muligt tilbageført til http://runeberg.org
 
 Der er to branches: `master` som er der hvor rettelserne bliver indført og `runeberg` som indeholder
-teksten fra runeberg. `runeberg` er opdateret fra http://runeberg,org 14/10 2015. Rettelser fra
+teksten fra http://runeberg.org. `runeberg` er opdateret fra http://runeberg,org 14/10 2015. Rettelser fra
 `runeberg` er merged ind i `master`. Status for antal rettelser er:
 
     git diff --shortstat  master runeberg
