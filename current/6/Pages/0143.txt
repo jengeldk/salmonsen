@@ -72,7 +72,8 @@ og <sp>B. Haussoullier</sp>, <i>Didymes, fouilles de
 </chapter>
 
 <chapter name="Didymis">
-<b>Didymis,</b> d. s. s. <sp>Testis</sp>.</chapter>
+<b>Didymis,</b> d. s. s. <sp>Testis</sp>.
+</chapter>
 
 <chapter name="Didymos Chalkénteros">
 <b>Didymos</b> <sp>Chalkénteros</sp>, græsk
@@ -133,7 +134,8 @@ et calvinistisk Univ.
 
 <chapter name="Die">
 <b>Die,</b> Kvindemælken i dens Egenskab af Føde
-for Barnet.</chapter>
+for Barnet.
+</chapter>
 
 <chapter name="Diebitsch-Zabalkanskij">
 <b>Diebitsch-Zabalkanskij</b> [dje'bit∫-z<sub>a</sub>ba£'kan

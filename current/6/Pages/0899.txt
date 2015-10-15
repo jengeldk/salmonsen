@@ -116,10 +116,12 @@ havde 1866000 Vælgerstemmer af i alt 4625000.
 </chapter>
 
 <chapter name="Electoral-Faar">
-<b>Electoral-Faar</b> [<sub>i</sub>'£ekt<sub>ə</sub>r<sub>ə</sub>£-], se <sp>Faar</sp>.</chapter>
+<b>Electoral-Faar</b> [<sub>i</sub>'£ekt<sub>ə</sub>r<sub>ə</sub>£-], se <sp>Faar</sp>.
+</chapter>
 
 <chapter name="Electuarium">
-<b>Electuarium,</b> se <sp>Latværge</sp>.</chapter>
+<b>Electuarium,</b> se <sp>Latværge</sp>.
+</chapter>
 
 <chapter name="electus">
 <b>electus</b> (lat., underforst. <i>episcopus</i>) kaldes i

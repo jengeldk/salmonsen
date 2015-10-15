@@ -27,7 +27,8 @@ forud er bestemte.
 </chapter>
 
 <chapter name="Deviationstabel">
-<b>Deviationstabel,</b> se <sp>Deviation</sp>.</chapter>
+<b>Deviationstabel,</b> se <sp>Deviation</sp>.
+</chapter>
 
 <chapter name="Dévié">
 <b>Dévié</b> [de'v<sub>i</sub>e], tjenstlig Bemærkning i
@@ -38,7 +39,8 @@ den sædvanlige.
 </chapter>
 
 <chapter name="Deville, Ch.">
-<b>Deville</b> [d<sub>ö</sub>'vil], <sp>Ch.</sp>, se <sp>Sainte-Claire D</sp>.</chapter>
+<b>Deville</b> [d<sub>ö</sub>'vil], <sp>Ch.</sp>, se <sp>Sainte-Claire D</sp>.
+</chapter>
 
 <chapter name="Deville-lès-Rouen">
 <b>Deville-lès-Rouen</b> [d<sub>ö</sub>'vil-le-'rwã], By i det

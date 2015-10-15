@@ -39,7 +39,8 @@ hvilket Tilbud han dog afslog.
 </chapter>
 
 <chapter name="Codrus">
-<b>Codrus,</b> se <sp>Kodros</sp>.</chapter>
+<b>Codrus,</b> se <sp>Kodros</sp>.
+</chapter>
 
 <chapter name="Cody, William Frederik">
 <b>Cody</b> ['ko<sub>u</sub>d<sub>i</sub>], <sp>William Frederik</sp>,
@@ -48,11 +49,13 @@ amer. Bøffeljæger, kendt under Navnet
 Spejder og Fører for Unionstropperne under
 Borgerkrigen og senere mod Indianerne. 1883
 organiseredie han et Cirkusforetagende, kaldet
-<i>Wild West</i>, hvormed han 1887 rejste til Europa.</chapter>
+<i>Wild West</i>, hvormed han 1887 rejste til Europa.
+</chapter>
 
 <chapter name="Coe . . .">
 <b>Coe</b> . . . (Artikler, der savnes her, maa
-søges under <b>Cø</b> . . .).</chapter>
+søges under <b>Cø</b> . . .).
+</chapter>
 
 <chapter name="Coehoorn, Menno van">
 <b>Coehoorn</b> ['ku.ho.rn], <sp>Menno van</sp>, holl.

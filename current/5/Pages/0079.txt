@@ -22,13 +22,16 @@ Clerfayt und Wurmser« [Wien 1869]).
 
 <chapter name="clergé">
 <b>clergé</b> [klær'зe] (fr.), Klerus, Præsteskab,
-Gejstlighed.</chapter>
+Gejstlighed.
+</chapter>
 
 <chapter name="clerica">
-<b>clerica</b> (lat.), <sp>Tonsur</sp>.</chapter>
+<b>clerica</b> (lat.), <sp>Tonsur</sp>.
+</chapter>
 
 <chapter name="clericus">
-<b>clericus,</b> se <sp>Clerc</sp> og <sp>Klerk</sp>.</chapter>
+<b>clericus,</b> se <sp>Clerc</sp> og <sp>Klerk</sp>.
+</chapter>
 
 <chapter name="clericus clericum non decimat">
 <b>clericus clericum non decimat</b> (lat.), »Den

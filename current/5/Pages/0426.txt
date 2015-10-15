@@ -11,10 +11,12 @@ dog Russerne at kue Bjergboernes kraftige Modstand.
 </chapter>
 
 <chapter name="Dagistan">
-<b>Dagistan,</b> d. s. s, <sp>Daghestan</sp>.</chapter>
+<b>Dagistan,</b> d. s. s, <sp>Daghestan</sp>.
+</chapter>
 
 <chapter name="Dagkreds">
-<b>Dagkreds,</b> d. s. s. <sp>Dagcirkel</sp>.</chapter>
+<b>Dagkreds,</b> d. s. s. <sp>Dagcirkel</sp>.
+</chapter>
 
 <chapter name="Dagleje">
 <b>Dagleje</b> er en Kontrakt om legemligt Arbejde
@@ -80,7 +82,8 @@ før Konkursen.
 </chapter>
 
 <chapter name="Dagliganker">
-<b>Dagliganker,</b> se <sp>Anker</sp>.</chapter>
+<b>Dagliganker,</b> se <sp>Anker</sp>.
+</chapter>
 
 <chapter name="Dagligt Allehanda">
 <b>Dagligt Allehanda,</b> først sv. Annonceblad,
@@ -111,10 +114,12 @@ som Regel forsk. i de forsk. Aarstider.
 </chapter>
 
 <chapter name="Daglillie">
-<b>Daglillie,</b> se <sp>Hemerocallis</sp>.</chapter>
+<b>Daglillie,</b> se <sp>Hemerocallis</sp>.
+</chapter>
 
 <chapter name="Dagløn">
-<b>Dagløn,</b> se <sp>Arbejdsløn</sp> og <sp>Dagleje</sp>.</chapter>
+<b>Dagløn,</b> se <sp>Arbejdsløn</sp> og <sp>Dagleje</sp>.
+</chapter>
 
 <chapter name="Dagmar">
 <b>Dagmar,</b> dansk (og nordisk) Kvindenavn; indkommet

@@ -26,7 +26,8 @@ omdannede til Skoler; I Nærheden af C. ligger
 </chapter>
 
 <chapter name="Cittavecchia">
-<b>Cittavecchia</b> [t∫it.a'væk.<sub>i</sub>a], se <sp>Starigrad</sp>.</chapter>
+<b>Cittavecchia</b> [t∫it.a'væk.<sub>i</sub>a], se <sp>Starigrad</sp>.
+</chapter>
 
 <chapter name="City">
 <b>City</b> ['sit<sub>i</sub>] (eng.), By i Alm., i England en
@@ -69,10 +70,12 @@ Flækker, Handelspladser ell. store Landsbyer.
 
 <chapter name="Ciudad Bolivar">
 <b>Ciudad Bolivar</b> [s<sub>i</sub>u'ða<sub>ð</sub>-wå'liwar], se
-<sp>Angostura</sp>.</chapter>
+<sp>Angostura</sp>.
+</chapter>
 
 <chapter name="Ciudad de Cura">
-<b>Ciudad de Cura</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-], se <sp>Cura</sp>.</chapter>
+<b>Ciudad de Cura</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-], se <sp>Cura</sp>.
+</chapter>
 
 <chapter name="Ciudad de la Asunción">
 <b>Ciudad de la Asunción</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-la-asun
@@ -83,15 +86,18 @@ o. H., har en Styrmandsskole og 3000 Indb.
 </chapter>
 
 <chapter name="Ciudad de la Plata">
-<b>Ciudad de la Plata</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>], se <sp>Sucre</sp>.</chapter>
+<b>Ciudad de la Plata</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>], se <sp>Sucre</sp>.
+</chapter>
 
 <chapter name="Ciudad de las Casas">
 <b>Ciudad de las Casas</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-], se <sp>San
-Christobal</sp>.</chapter>
+Christobal</sp>.
+</chapter>
 
 <chapter name="Ciudad de los Ángeles">
 <b>Ciudad de los Ángeles</b> 
-[s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-l<sub>å</sub>s-'aŋkælæs], se <sp>Angeles</sp>.</chapter>
+[s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-l<sub>å</sub>s-'aŋkælæs], se <sp>Angeles</sp>.
+</chapter>
 
 <chapter name="Ciudad de los Reyes">
 <b>Ciudad de los Reyes</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-l<sub>å</sub>s-'ræj<sub>æ</sub>s]
@@ -103,15 +109,18 @@ hellige tre Konger.
 
 <chapter name="Ciudad del Principe">
 <b>Ciudad del Principe</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>l-'prinsip<sub>æ</sub>],
-se <sp>Puerto Principe</sp>.</chapter>
+se <sp>Puerto Principe</sp>.
+</chapter>
 
 <chapter name="Ciudad de Oropesa">
 <b>Ciudad de Oropesa</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-], ældste
-Navn paa Cochabamba.</chapter>
+Navn paa Cochabamba.
+</chapter>
 
 <chapter name="Ciudad de Victoria">
 <b>Ciudad de Victoria</b> [s<sub>i</sub>u'ða<sub>ð</sub>-ð<sub>æ</sub>-wik'tår<sub>i</sub>a],
-se <sp>Durango</sp>.</chapter>
+se <sp>Durango</sp>.
+</chapter>
 
 <chapter name="Ciudadela">
 <b>Ciudadela</b> [þ<sub>i</sub>uða'ðæla] (Oldtidens <i>Jamno</i>),
@@ -126,11 +135,13 @@ Perella</sp>.
 </chapter>
 
 <chapter name="Ciudad Juárez">
-<b>Ciudad Juárez</b> [s<sub>i</sub>u'ða<sub>ð</sub>-kvar<sub>æ</sub>s], se <sp>Paso</sp>.</chapter>
+<b>Ciudad Juárez</b> [s<sub>i</sub>u'ða<sub>ð</sub>-kvar<sub>æ</sub>s], se <sp>Paso</sp>.
+</chapter>
 
 <chapter name="Ciudad Morelos">
 <b>Ciudad Morelos</b> [s<sub>i</sub>u'ða<sub>ð</sub>-må'ræl<sub>å</sub>s], se
-<sp>Morelos</sp>.</chapter>
+<sp>Morelos</sp>.
+</chapter>
 
 <chapter name="Ciudad Real">
 <b>Ciudad Real</b> [þ<sub>i</sub>u-ða<sub>ð</sub>-ræ'al], Prov. i det

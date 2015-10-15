@@ -111,7 +111,8 @@ Saar o. l.
 
 <chapter name="Eau de Labarraque">
 <b>Eau de Labarraque</b> ['o-d-laba'rak], se
-<sp>Eau de Javelle</sp>.</chapter>
+<sp>Eau de Javelle</sp>.
+</chapter>
 
 <chapter name="Eau de Lavande">
 <b>Eau de Lavande</b> ['o-d-la'vã.d], en
@@ -162,7 +163,8 @@ Rosenvand, farves rødt med Alkanna.
 
 <chapter name="Eau de vie">
 <b>Eau de vie</b> [o-'d-vi], fransk Betegnelse for
-Brændevin.</chapter>
+Brændevin.
+</chapter>
 
 <chapter name="Eauforte">
 <b>Eauforte</b> [o'fårt]. Med Navnet E. (fr. »stærk

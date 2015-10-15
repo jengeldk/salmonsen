@@ -6,10 +6,12 @@ behandlede Emne.
 
 <chapter name="Ekskursion">
 <b>Ekskursion</b> (lat.), Strejftog, Udflugt (f. Eks.
-en botanisk E.), lille Rejse.</chapter>
+en botanisk E.), lille Rejse.
+</chapter>
 
 <chapter name="ekskvisit">
-<b>ekskvisit</b> (lat), udsøgt, udvalgt, fortræffelig.</chapter>
+<b>ekskvisit</b> (lat), udsøgt, udvalgt, fortræffelig.
+</chapter>
 
 <chapter name="eksmatrikulere">
 <b>eksmatrikulere</b> ['æks-] (lat.), at udslette af
@@ -67,7 +69,8 @@ udefra paavirker Jordskorpen.
 
 <chapter name="eksorbitant">
 <b>eksorbitant</b> ['æks-] (lat.), umaadelig, uhørt,
-enorm, overdreven.</chapter>
+enorm, overdreven.
+</chapter>
 
 <chapter name="Eksorcisme">
 <b>Eksorcisme</b> er Besværgelse, særlig af onde
@@ -162,12 +165,14 @@ ved hvilken der finder en Varmeudvikling, en
 
 <chapter name="eksotisk">
 <b>eksotisk</b> (gr.), fremmed, udenlandsk, fra et
-varmere Klima.</chapter>
+varmere Klima.
+</chapter>
 
 <chapter name="ekspansibel">
 <b>ekspansibel</b> [-paŋ-] (fr.), udvidelig,
 strækkelig; <sp>Ekspansibilitet</sp>, Udvidelighed,
-Strækbarhed.</chapter>
+Strækbarhed.
+</chapter>
 
 <chapter name="Ekspansion">
 <b>Ekspansion</b> [-paŋ-] (lat.), Udvidelse.

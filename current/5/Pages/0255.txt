@@ -86,10 +86,12 @@ til London. Siden 1878 var han Senator.
 
 <chapter name="Corticalsubstans">
 <b>Corticalsubstans</b> (<sp>Barksubstans</sp>), se
-<sp>Ben</sp>, <sp>Hjerne</sp> og <sp>Nyre</sp>.</chapter>
+<sp>Ben</sp>, <sp>Hjerne</sp> og <sp>Nyre</sp>.
+</chapter>
 
 <chapter name="Corticelli">
-<b>Corticelli</b> [-'t∫æl.i], Maler, se <sp>Pordenone</sp>.</chapter>
+<b>Corticelli</b> [-'t∫æl.i], Maler, se <sp>Pordenone</sp>.
+</chapter>
 
 <chapter name="Corticium">
 <b>Corticium</b> Fr., Svampeslægt af
@@ -110,7 +112,8 @@ o. s. v., hører herhen.
 </chapter>
 
 <chapter name="Cortina d'Ampezzo">
-<b>Cortina d'Ampezzo</b> [-'pet.so], se <sp>Ampezzo</sp>.</chapter>
+<b>Cortina d'Ampezzo</b> [-'pet.so], se <sp>Ampezzo</sp>.
+</chapter>
 
 <chapter name="Cortinarius">
 <b>Cortinarius</b> Fr., Svampeslægt af
@@ -127,7 +130,8 @@ at adskille.
 </chapter>
 
 <chapter name="Cortiske Organ">
-<b>Cortiske Organ,</b> se <sp>Øre</sp>.</chapter>
+<b>Cortiske Organ,</b> se <sp>Øre</sp>.
+</chapter>
 
 <chapter name="Cortland">
 <b>Cortland</b> ['kå.<sub>ə</sub>t£<sub>ə</sub>nd], By i U. S. A., Stat
@@ -159,7 +163,8 @@ Romerne.
 </chapter>
 
 <chapter name="Cortona, L.">
-<b>Cortona,</b> <sp>L.</sp>, Maler, se <sp>Signorelli</sp>.</chapter>
+<b>Cortona,</b> <sp>L.</sp>, Maler, se <sp>Signorelli</sp>.
+</chapter>
 
 <chapter name="Cortona, Pietro da">
 <b>Cortona,</b> <sp>Pietro da</sp> (egl. <sp>Berrettini</sp>

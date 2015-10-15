@@ -83,7 +83,8 @@ hypothèque et d'acquerir des immeubles</i> (1830) og
 </chapter>
 
 <chapter name="décourt">
-<b>décourt</b> [de'ku.r], se <sp>Dekort</sp>.</chapter>
+<b>décourt</b> [de'ku.r], se <sp>Dekort</sp>.
+</chapter>
 
 <chapter name="découvert">
 <b>découvert</b> [deku'væ.rj. Sælge <i>à d.</i> kaldes i
@@ -124,7 +125,8 @@ er siden 1903 Senator.
 
 <chapter name="decrescendo">
 <b>decrescendo</b> [dekre'∫ændo], mus.
-Foredragsbetegnelse: aftagende i Tonestyrke.</chapter>
+Foredragsbetegnelse: aftagende i Tonestyrke.
+</chapter>
 
 <chapter name="décret">
 <b>décret</b> [de'kræ] er i Frankrig siden 1789

@@ -128,7 +128,8 @@ uden i Henhold til kgl. Resol. Jfr
 </chapter>
 
 <chapter name="Dødsengel">
-<b>Dødsengel,</b> se <sp>Engel</sp>.</chapter>
+<b>Dødsengel,</b> se <sp>Engel</sp>.
+</chapter>
 
 <chapter name="Dødsformodningsdom">
 <b>Dødsformodningsdom.</b> I mange fremmede

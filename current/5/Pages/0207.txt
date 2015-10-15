@@ -22,7 +22,8 @@ i Novbr med en Undervarme af
 
 <chapter name="Convallariaceæ">
 <b>Convallariaceæ,</b> se
-<sp>Konvalfamilien</sp>.</chapter>
+<sp>Konvalfamilien</sp>.
+</chapter>
 
 <chapter name="conventio in manum">
 <b>conventio in manum</b> (lat.),
@@ -76,7 +77,8 @@ af Kampen mellem Folket og Kongen C. n.
 </chapter>
 
 <chapter name="conventus">
-<b>conventus,</b> se <sp>Konvent</sp>.</chapter>
+<b>conventus,</b> se <sp>Konvent</sp>.
+</chapter>
 
 <chapter name="Conversano">
 <b>Conversano,</b> By i Syditalien, Prov. Bari,
@@ -102,7 +104,8 @@ Kammermusik og mindre Værker.
 
 <chapter name="conversi">
 <b>conversi</b> (lat.: »omvendte«),; se
-<sp>Konvertitter</sp> og <sp>Lægbrødre</sp>.</chapter>
+<sp>Konvertitter</sp> og <sp>Lægbrødre</sp>.
+</chapter>
 
 <chapter name="conveyance">
 <b>conveyance</b> [k<sub>ə</sub>n've<sub>iə</sub>ns] (eng.), betyder
@@ -121,7 +124,8 @@ hvilket i Reglen udføres af Sagførere af
 </chapter>
 
 <chapter name="convivium">
-<b>convivium</b> (lat.), Gæstebud, Gilde (s. d.).</chapter>
+<b>convivium</b> (lat.), Gæstebud, Gilde (s. d.).
+</chapter>
 
 <chapter name="Convocation">
 <b>Convocation</b> [kånv<sub>o</sub>'ke<sub>i</sub>∫<sub>ə</sub>n], Navnet paa hver

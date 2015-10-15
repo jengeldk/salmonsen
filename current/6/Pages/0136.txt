@@ -106,13 +106,16 @@ findes i Univ.'s bot. Have i Kbhvn.
 </chapter>
 
 <chapter name="Diclytra">
-<b>Diclytra,</b> se <sp>Dicentra</sp>.</chapter>
+<b>Diclytra,</b> se <sp>Dicentra</sp>.
+</chapter>
 
 <chapter name="Dicotyledones">
-<b>Dicotyledones,</b> se <sp>Tokimbladede</sp>.</chapter>
+<b>Dicotyledones,</b> se <sp>Tokimbladede</sp>.
+</chapter>
 
 <chapter name="Dicotyles">
-<b>Dicotyles,</b> se <sp>Navlesvin</sp>.</chapter>
+<b>Dicotyles,</b> se <sp>Navlesvin</sp>.
+</chapter>
 
 <chapter name="Dicranum Hedw.">
 <b>Dicranum</b> Hedw. (<sp>Kløfttand</sp>), en til de
@@ -130,7 +133,8 @@ bidrager derved til Tørvedannelsen.
 </chapter>
 
 <chapter name="dicta">
-<b>dicta,</b> se <sp>dictum</sp>.</chapter>
+<b>dicta,</b> se <sp>dictum</sp>.
+</chapter>
 
 <chapter name="dicta et promissa">
 <b>dicta et promissa</b> (lat.: »det sagte og lovede«),

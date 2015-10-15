@@ -104,10 +104,12 @@ Landskabet senere fik Navnet Gaulanitis.
 
 <chapter name="Djoliba">
 <b>Djoliba</b> (<sp>Djuliba</sp>), Mandingo-Navnet for
-Niger-Flodens øvre Løb.</chapter>
+Niger-Flodens øvre Løb.
+</chapter>
 
 <chapter name="Djolof">
-<b>Djolof,</b> se <sp>Jolof</sp>.</chapter>
+<b>Djolof,</b> se <sp>Jolof</sp>.
+</chapter>
 
 <chapter name="Djonald">
 <b>Djonald,</b> <sp>Abulkasim ibn
@@ -149,7 +151,8 @@ tidligere til Krigsbrug, hyppig af Sørøverne.
 </chapter>
 
 <chapter name="Djub">
-<b>Djub,</b> se <sp>Juba</sp>.</chapter>
+<b>Djub,</b> se <sp>Juba</sp>.
+</chapter>
 
 <chapter name="Djubbe">
 <b>Djubbe,</b> Østerlænderens Overklædning, af

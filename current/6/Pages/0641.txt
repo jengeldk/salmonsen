@@ -38,10 +38,12 @@ søges andensteds end i Blodet selv. Kraselæren
 har derfor maattet vige, og dermed ogsaa den
 derpaa baserede Behandling med blodrensende
 Midler og Aareladning.
-<i>(A. F.). H. I. B.</i></chapter></chapter>
+<i>(A. F.). H. I. B.</i>
+</chapter>
 
 <chapter name="Dyskrasit">
-<b>Dyskrasit,</b> d. s. s. <sp>Diskrasit</sp>.</chapter>
+<b>Dyskrasit,</b> d. s. s. <sp>Diskrasit</sp>.
+</chapter>
 
 <chapter name="Dyslali">
 [<i><b>Dyslali</b></i> <i>står ikke i teksten</i>](gr.), Forstyrrelse af Taleevnen,
@@ -59,7 +61,8 @@ Ord.
 </chapter>
 
 <chapter name="Dysluit">
-<b>Dysluit,</b> se <sp>Spinel</sp>.</chapter>
+<b>Dysluit,</b> se <sp>Spinel</sp>.
+</chapter>
 
 <chapter name="Dyslysin">
 <b>Dyslysin,</b> C<sub>24</sub>H<sub>36</sub>O<sub>3</sub>, findes som
@@ -127,7 +130,8 @@ maa rettes derimod.
 
 <chapter name="Dysmorfi">
 <b>Dysmorfi</b> (gr.), mangelfuld Udvikling af et
-Lem ell. Organ, Misdannelse.</chapter>
+Lem ell. Organ, Misdannelse.
+</chapter>
 
 <chapter name="Dysmorfosteopalinklast">
 <b>Dysmorfosteopalinklast</b> (gr.), et gl.
@@ -144,7 +148,8 @@ anvendes ved skævt voksede Lemmer.
 </chapter>
 
 <chapter name="Dysodil">
-<b>Dysodil,</b> se <sp>Brunkul</sp>.</chapter>
+<b>Dysodil,</b> se <sp>Brunkul</sp>.
+</chapter>
 
 <chapter name="Dyson, Frank Watson">
 <b>Dyson</b> ['da^isn], <sp>Frank Watson</sp>, eng.
@@ -170,7 +175,8 @@ Fagtidsskrifter fl. betydelige Afh. herom.
 </chapter>
 
 <chapter name="Dysopsi">
-<b>Dysopsi</b> (gr.), d. s. s. <sp>daarligt Syn</sp>.</chapter>
+<b>Dysopsi</b> (gr.), d. s. s. <sp>daarligt Syn</sp>.
+</chapter>
 
 <chapter name="Dysosmi">
 <b>Dysosmi</b> (gr.), sygelig Forandring af

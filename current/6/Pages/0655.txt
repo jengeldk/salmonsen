@@ -87,10 +87,12 @@ Psych. Research.</i>, 5. Bd, London 1889]).
 </chapter>
 
 <chapter name="Dæmonolatri">
-<b>Dæmonolatri,</b> Tilbedelse af Dæmoner.</chapter>
+<b>Dæmonolatri,</b> Tilbedelse af Dæmoner.
+</chapter>
 
 <chapter name="Dæmonologi">
-<b>Dæmonologi,</b> Læren om Dæmonerne.</chapter>
+<b>Dæmonologi,</b> Læren om Dæmonerne.
+</chapter>
 
 <chapter name="Dæmonomani">
 <b>Dæmonomani</b> (gr.) (<sp>Dæmonopati</sp>) er

@@ -67,12 +67,14 @@ gennem <sp>Akkomodationsobligationen</sp>
 </chapter>
 
 <chapter name="Ejerskab">
-<b>Ejerskab,</b> se <sp>Ejerlag</sp>.</chapter>
+<b>Ejerskab,</b> se <sp>Ejerlag</sp>.
+</chapter>
 
 <chapter name="Ejerslev Klint">
 <b>Ejerslev Klint,</b> paa Østkysten af <sp>Mors</sp>'
 nordlige Del (Limfjorden), 1 Sm. NØ. f. denne
-ligger en lille Holm, <sp>Ejerslev Røn</sp>.</chapter>
+ligger en lille Holm, <sp>Ejerslev Røn</sp>.
+</chapter>
 
 <chapter name="Ejestedord">
 <b>Ejestedord</b> eller <sp>Ejendomsstedord</sp>

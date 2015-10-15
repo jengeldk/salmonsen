@@ -34,12 +34,14 @@ andre Steder.
 <chapter name="Diskredit">
 <b>Diskredit</b> (lat.), Miskredit, Mangel paa Kredit,
 daarligt Rygte; <sp>diskreditere</sp>, ødelægge en
-Persons Kredit, bringe i daarligt Rygte.</chapter>
+Persons Kredit, bringe i daarligt Rygte.
+</chapter>
 
 <chapter name="diskret">
 <b>diskret</b> (fr.), tilbageholden, forsigtig i sine
 Ytringer, tavs med betroede Hemmeligheder,
-beskeden, taktfuld.</chapter>
+beskeden, taktfuld.
+</chapter>
 
 <chapter name="diskret">
 <b>diskret</b> kaldes i Matematikken en Størrelse,
@@ -54,7 +56,8 @@ positivt Tal.
 <b>Diskretion</b> (fransk), Forsigtighed, Tavshed,
 Skaansel, taktfuld Opførsel; <sp>overgive sig
 paa D.</sp>, overgive sig paa Naade og Unaade,
-(med Haab om hensynsfuld Behandling).</chapter>
+(med Haab om hensynsfuld Behandling).
+</chapter>
 
 <chapter name="Diskretionsaar">
 <b>Diskretionsaar,</b> Skønsaar, jfr. Udtrykket:
@@ -95,11 +98,13 @@ et Dobbeltpunkt, være, at venstre Sides D. er
 <chapter name="diskulpere">
 <b>diskulpere</b> (lat.), undskylde, retfærdiggøre,
 frikende, rense for; <sp>Diskulpation</sp>,
-Undskyldning, Retfærdiggørelse.</chapter>
+Undskyldning, Retfærdiggørelse.
+</chapter>
 
 <chapter name="diskurrere">
 <b>diskurrere</b> (lat.), tale frem og tilbage, drøfte;
-<sp>Diskurs</sp>, Samtale.</chapter>
+<sp>Diskurs</sp>, Samtale.
+</chapter>
 
 <chapter name="diskursiv">
 <b>diskursiv</b> [eller -'si'v], gaaende fra det
@@ -128,15 +133,18 @@ derfor systematisk Bet.
 <chapter name="Diskussion">
 <b>Diskussion</b> (lat.), Drøftelse af forskellige
 Anskuelser, Meningsudveksling efter et
-Foredrag om dettes Indhold.</chapter>
+Foredrag om dettes Indhold.
+</chapter>
 
 <chapter name="diskutabel">
 <b>diskutabel,</b> omtvistelig; hvad der kan
-drøftes.</chapter>
+drøftes.
+</chapter>
 
 <chapter name="diskutere">
 <b>diskutere</b> (lat.), drøfte, overveje, undersøge
-(jfr <sp>Diskussion</sp>).</chapter>
+(jfr <sp>Diskussion</sp>).
+</chapter>
 
 <chapter name="diskvalificere">
 <b>diskvalificere,</b> sportslig Betegnelse for at
@@ -150,7 +158,8 @@ at deltage.
 
 <chapter name="dislocere">
 <b>dislocere</b> (lat.), bortrykke noget fra dets
-Plads, forvride (Ledemod), forsætte, forlægge.</chapter>
+Plads, forvride (Ledemod), forsætte, forlægge.
+</chapter>
 
 <chapter name="Dislokation">
 <b>Dislokation</b> er Fordeling af Tropperne. I
@@ -185,7 +194,8 @@ af Jordskælv (<sp>tektoniske</sp> eller
 
 <chapter name="Dislokationsmetamorfose">
 <b>Dislokationsmetamorfose,</b> se
-<sp>Dynamometamorfose</sp>.</chapter>
+<sp>Dynamometamorfose</sp>.
+</chapter>
 
 <chapter name="Dismal Swamp">
 <b>Dismal Swamp</b> ['dizm<sub>ə</sub>£-'swåmp] (»den

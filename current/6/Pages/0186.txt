@@ -13,10 +13,12 @@ paa Kristi to Naturer.
 </chapter>
 
 <chapter name="Diketoner">
-<b>Diketoner,</b> se <sp>Ketoner</sp>.</chapter>
+<b>Diketoner,</b> se <sp>Ketoner</sp>.
+</chapter>
 
 <chapter name="diklin">
-<b>diklin</b> (<sp>bot</sp>.), særkønnet.</chapter>
+<b>diklin</b> (<sp>bot</sp>.), særkønnet.
+</chapter>
 
 <chapter name="Diklorhydrin">
 <b>Diklorhydrin</b> er en Vædske, der kan
@@ -38,7 +40,8 @@ Indb.
 </chapter>
 
 <chapter name="Dikogami">
-<b>Dikogami</b> (<sp>bot</sp>.), se <sp>Bestøvning</sp> S. 120.</chapter>
+<b>Dikogami</b> (<sp>bot</sp>.), se <sp>Bestøvning</sp> S. 120.
+</chapter>
 
 <chapter name="Dikolon">
 <b>Dikolon</b> (gr.), i Poetikken et af to forsk.
@@ -51,19 +54,24 @@ toleddet Periode.
 </chapter>
 
 <chapter name="Dikotomi">
-<b>Dikotomi</b> (<sp>bot</sp>.), se <sp>Forgrening</sp>.</chapter>
+<b>Dikotomi</b> (<sp>bot</sp>.), se <sp>Forgrening</sp>.
+</chapter>
 
 <chapter name="Dikotyledoner">
-<b>Dikotyledoner,</b> se <sp>Tokimbladede</sp>.</chapter>
+<b>Dikotyledoner,</b> se <sp>Tokimbladede</sp>.
+</chapter>
 
 <chapter name="Dikroisme">
-<b>Dikroisme,</b> se <sp>Pleokroisme</sp>.</chapter>
+<b>Dikroisme,</b> se <sp>Pleokroisme</sp>.
+</chapter>
 
 <chapter name="Dikroit">
-<b>Dikroit,</b> se <sp>Cordierit</sp>.</chapter>
+<b>Dikroit,</b> se <sp>Cordierit</sp>.
+</chapter>
 
 <chapter name="dikroitisk">
-<b>dikroitisk,</b> se <sp>Pleokroisme</sp>.</chapter>
+<b>dikroitisk,</b> se <sp>Pleokroisme</sp>.
+</chapter>
 
 <chapter name="dikroitisk Slør">
 <b>dikroitisk Slør</b> er en paa fot. Negativer
@@ -75,13 +83,16 @@ gennemfaldende Lys derimod røde.
 </chapter>
 
 <chapter name="dikromsurt Kali">
-<b>dikromsurt Kali,</b> se <sp>Kromsyre</sp>.</chapter>
+<b>dikromsurt Kali,</b> se <sp>Kromsyre</sp>.
+</chapter>
 
 <chapter name="Dikromsyre">
-<b>Dikromsyre,</b> se <sp>Kromsyre</sp>.</chapter>
+<b>Dikromsyre,</b> se <sp>Kromsyre</sp>.
+</chapter>
 
 <chapter name="Dikroskop">
-<b>Dikroskop,</b> se <sp>Pleokroisme</sp>.</chapter>
+<b>Dikroskop,</b> se <sp>Pleokroisme</sp>.
+</chapter>
 
 <chapter name="Dikrotisme">
 <b>Dikrotisme</b> kaldes den Beskaffenhed af
@@ -96,13 +107,15 @@ i Arterievæggen.
 </chapter>
 
 <chapter name="Diksmuide">
-<b>Diksmuide</b> ['deksmö^yd<sub>ə</sub>], d.s.s. <sp>Dixmuyden</sp>.</chapter>
+<b>Diksmuide</b> ['deksmö^yd<sub>ə</sub>], d.s.s. <sp>Dixmuyden</sp>.
+</chapter>
 
 <chapter name="Diktat">
 <b>Diktat</b> (lat.), hvad der oplæses ell.
 foredrages til Nedskrivning; selve det nedskrevne;
 altsaa dels Dikteren, dels det dikterede; tillige
-diktatorisk Befaling.</chapter>
+diktatorisk Befaling.
+</chapter>
 
 <chapter name="Diktator">
 <b>Diktator</b> (lat.), Benævnelse paa en romersk
@@ -165,7 +178,8 @@ mellem den lat. og den rom. D., er uklart.
 
 <chapter name="diktatorisk">
 <b>diktatorisk</b> (lat.), Adjektiv til <sp>Diktator</sp>,
-ofte blot i Bet. egenmægtig, bydende.</chapter>
+ofte blot i Bet. egenmægtig, bydende.
+</chapter>
 
 <chapter name="Diktatur">
 <b>Diktatur</b> (lat. <i>dictatura</i>), Benævnelse paa
@@ -195,14 +209,17 @@ VI [1899]).
 
 <chapter name="diktere">
 <b>diktere</b> (lat.), foredrage noget til
-Nedskrivning; ikende, f. Eks. en Straf.</chapter>
+Nedskrivning; ikende, f. Eks. en Straf.
+</chapter>
 
 <chapter name="Diktion">
 <b>Diktion</b> [-'sjo'n] (lat.), Skrivemaade,
-Udtryksmaade, Stil, Udtale.</chapter>
+Udtryksmaade, Stil, Udtale.
+</chapter>
 
 <chapter name="Diktynna">
-<b>Diktynna,</b> se <sp>Britomartis</sp>.</chapter>
+<b>Diktynna,</b> se <sp>Britomartis</sp>.
+</chapter>
 
 <chapter name="Diktys fra Kreta">
 <b>Diktys fra Kreta,</b> den foregivne Forf. til

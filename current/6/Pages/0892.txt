@@ -24,7 +24,8 @@ langsommere end alle andre Æggehvidestoffer.
 <b>elastisk</b> (gr.) er et Legeme, der efter at
 have forandret Form ved ydre Paavirkning
 atter antager sin opr. Form, naar
-Paavirkningen ophører; spændstig.</chapter>
+Paavirkningen ophører; spændstig.
+</chapter>
 
 <chapter name="elastisk Bue">
 <b>elastisk Bue</b> kaldes en saadan
@@ -37,7 +38,8 @@ kontinuerlige Buer o. l. Se <sp>Broer</sp>.
 </chapter>
 
 <chapter name="elastisk Formforandring">
-<b>elastisk Formforandring,</b> se <sp>Elasticitet</sp>.</chapter>
+<b>elastisk Formforandring,</b> se <sp>Elasticitet</sp>.
+</chapter>
 
 <chapter name="elastisk Linie">
 <b>elastisk Linie</b> - ogsaa neutral Linie,
@@ -50,7 +52,8 @@ Nedbøjningerne. Se <sp>Bøjning</sp>.
 </chapter>
 
 <chapter name="elastisk Væv">
-<b>elastisk Væv,</b> se <sp>Væv</sp>.</chapter>
+<b>elastisk Væv,</b> se <sp>Væv</sp>.
+</chapter>
 
 <chapter name="Elat">
 <b>Elat</b> ['e.-], edomitisk By ved del nuværende
@@ -101,10 +104,12 @@ forhistorisk Tid, se <i>Sotiriadis</i> i <i>Revue des
 </chapter>
 
 <chapter name="Elater, Elateridæ">
-<b>Elater, Elateridæ,</b> se <sp>Smældere</sp>.</chapter>
+<b>Elater, Elateridæ,</b> se <sp>Smældere</sp>.
+</chapter>
 
 <chapter name="Elaterin">
-<b>Elaterin,</b> se <sp>Elaterium</sp>.</chapter>
+<b>Elaterin,</b> se <sp>Elaterium</sp>.
+</chapter>
 
 <chapter name="Elaterit">
 <b>Elaterit</b> (<sp>elastisk Jordbeg</sp>,
@@ -134,20 +139,25 @@ og Benzol.
 </chapter>
 
 <chapter name="Elaterium">
-<b>Elaterium,</b> se <sp>Ecballium</sp>.</chapter>
+<b>Elaterium,</b> se <sp>Ecballium</sp>.
+</chapter>
 
 <chapter name="Elaterometer">
 <b>Elaterometer,</b> d. s. s.
-<sp>Elasticitetsmaaler</sp>.</chapter>
+<sp>Elasticitetsmaaler</sp>.
+</chapter>
 
 <chapter name="Elatinaceæ">
-<b>Elatinaceæ,</b> se <sp>Bækarvefamilien</sp>.</chapter>
+<b>Elatinaceæ,</b> se <sp>Bækarvefamilien</sp>.
+</chapter>
 
 <chapter name="Elatine">
-<b>Elatine,</b> se <sp>Bækarve</sp>.</chapter>
+<b>Elatine,</b> se <sp>Bækarve</sp>.
+</chapter>
 
 <chapter name="Elaver">
-<b>Elaver,</b> se <sp>Allier</sp>.</chapter>
+<b>Elaver,</b> se <sp>Allier</sp>.
+</chapter>
 
 <chapter name="Elba">
 <b>Elba</b> ['el-], ital. Ø i Middelhavet, den

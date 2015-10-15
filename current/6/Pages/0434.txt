@@ -107,7 +107,8 @@ Kystforsvarsskibe er anbragte i D. (se
 </chapter>
 
 <chapter name="Drejevægt">
-<b>Drejevægt,</b> se <sp>Snovægt</sp>.</chapter>
+<b>Drejevægt,</b> se <sp>Snovægt</sp>.
+</chapter>
 
 <chapter name="Drejl">
 <b>Drejl,</b> opr. ethvert mønstret Hørgarnsvæv,

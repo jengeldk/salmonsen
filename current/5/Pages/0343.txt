@@ -1,6 +1,7 @@
 <chapter name="cubiculum">
 <b>cubiculum</b> (lat.), »Soveværelse« i det rom.
-Hus.</chapter>
+Hus.
+</chapter>
 
 <chapter name="Cubières, Amedée Louis Despans">
 <b>Cubières</b> [ky'b<sub>i</sub>æ.r], <sp>Amedée Louis
@@ -37,7 +38,8 @@ i Asien.
 <chapter name="Cubitus">
 <b>Cubitus,</b> d. s. s. Albue. - Tillige gl-rom.
 Længdemaal, som udgjorde 1 1/2 rom. Fod eller
-0,444 m.</chapter>
+0,444 m.
+</chapter>
 
 <chapter name="Cuboides-Mergel">
 <b>Cuboides-Mergel,</b> en til den yngre Del af
@@ -49,11 +51,13 @@ Forsteninger, deriblandt <i>Rhynchonella cuboides</i>.
 </chapter>
 
 <chapter name="Cuboideum">
-<b>Cuboideum,</b> se <sp>Fod</sp>.</chapter>
+<b>Cuboideum,</b> se <sp>Fod</sp>.
+</chapter>
 
 <chapter name="Cubras">
 <b>Cubras</b> ['kuwras] kaldes i Sydamerika
-Efterkommere af Mulatter og Negre.</chapter>
+Efterkommere af Mulatter og Negre.
+</chapter>
 
 <chapter name="Cucheval-Clarigny">
 <b>Cucheval-Clarigny</b> [ky∫'val-klari'n<sub>j</sub>i],
@@ -131,23 +135,29 @@ sig til Sukkerrørets.
 <img>En indiansk Cucujoslampe.</img>
 
 <chapter name="Cuculidæ, Cuculus">
-<b>Cuculidæ, Cuculus,</b> se <sp>Gøge</sp>.</chapter>
+<b>Cuculidæ, Cuculus,</b> se <sp>Gøge</sp>.
+</chapter>
 
 <chapter name="Cucullanus">
-<b>Cucullanus,</b> se <sp>Kappeorm</sp>.</chapter>
+<b>Cucullanus,</b> se <sp>Kappeorm</sp>.
+</chapter>
 
 <chapter name="Cucullaris">
-<b>Cucullaris,</b> d. s. s. <sp>Kappemusklen</sp>.</chapter>
+<b>Cucullaris,</b> d. s. s. <sp>Kappemusklen</sp>.
+</chapter>
 
 <chapter name="Cucullus">
 <b>Cucullus</b> (lat.), en Hætte til at trække op
-over Hovedet til Beskyttelse mod ondt Vejr.</chapter>
+over Hovedet til Beskyttelse mod ondt Vejr.
+</chapter>
 
 <chapter name="Cucumaria">
-<b>Cucumaria,</b> se <sp>Søpølser</sp>.</chapter>
+<b>Cucumaria,</b> se <sp>Søpølser</sp>.
+</chapter>
 
 <chapter name="Cucumis">
-<b>Cucumis,</b> se <sp>Agurk</sp>.</chapter>
+<b>Cucumis,</b> se <sp>Agurk</sp>.
+</chapter>
 
 <chapter name="Cucurbita L.">
 <b>Cucurbita</b> L. (<sp>Græskar</sp>), Slægt af

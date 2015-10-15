@@ -96,10 +96,12 @@ bekendte er »Lemon-Drops«.
 </chapter>
 
 <chapter name="Drosera">
-<b>Drosera,</b> se <sp>Soldug</sp>.</chapter>
+<b>Drosera,</b> se <sp>Soldug</sp>.
+</chapter>
 
 <chapter name="Droseraceæ">
-<b>Droseraceæ,</b> se <sp>Soldugfamilien</sp>.</chapter>
+<b>Droseraceæ,</b> se <sp>Soldugfamilien</sp>.
+</chapter>
 
 <chapter name="Droske">
 <b>Droske</b> ['dråsj<sub>ə</sub>] er opr. Navnet paa et russ.

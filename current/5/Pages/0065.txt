@@ -21,24 +21,30 @@ Grønlands Østkyst mellem 73° og 75° 20' n. Br.
 
 <chapter name="Claves St Petri">
 <b>Claves St Petri</b> (lat), »den hellige Petrus'
-Nøgler« ɔ: Kirkens Magtfylde, Nøglemagt (s. d.).</chapter>
+Nøgler« ɔ: Kirkens Magtfylde, Nøglemagt (s. d.).
+</chapter>
 
 <chapter name="Clavicembalo">
 <b>Clavicembalo</b> [-'t∫em-], en af Forløberne for
-vort Moderne Klaver.</chapter>
+vort Moderne Klaver.
+</chapter>
 
 <chapter name="Claviceps">
-<b>Claviceps,</b> se <sp>Meldrøjesvamp</sp>.</chapter>
+<b>Claviceps,</b> se <sp>Meldrøjesvamp</sp>.
+</chapter>
 
 <chapter name="Clavichord">
 <b>Clavichord,</b> en af Forløberne for vort moderne
-Klaver.</chapter>
+Klaver.
+</chapter>
 
 <chapter name="Clavicornia">
-<b>Clavicornia,</b> se <sp>Køllehornede</sp>.</chapter>
+<b>Clavicornia,</b> se <sp>Køllehornede</sp>.
+</chapter>
 
 <chapter name="Clavicula">
-<b>Clavicula,</b> d. s. s. <sp>Nøgleben</sp>.</chapter>
+<b>Clavicula,</b> d. s. s. <sp>Nøgleben</sp>.
+</chapter>
 
 <chapter name="Clavière">
 <b>Clavière</b> [kla'v<sub>i</sub>æ.r], <sp>Étienne</sp>, fr.
@@ -68,11 +74,13 @@ undgaa Guillotinen.
 </chapter>
 
 <chapter name="Claviger">
-<b>Claviger,</b> se <sp>Køllebille</sp>.</chapter>
+<b>Claviger,</b> se <sp>Køllebille</sp>.
+</chapter>
 
 <chapter name="Clavijo, Ruy González de">
 <b>Clavijo</b> [kla'wik<sub>å</sub>], <sp>Ruy González de</sp>,
-se <sp>González de Clavijo, Ruy</sp>.</chapter>
+se <sp>González de Clavijo, Ruy</sp>.
+</chapter>
 
 <chapter name="Clavijo y Fajardo, José">
 <b>Clavijo y Fajardo</b> [kla'wik<sub>å</sub>-i-fa'kard<sub>å</sub>],

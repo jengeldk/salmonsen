@@ -120,7 +120,8 @@ Karlisternes Hovedstilling ved Estella.
 </chapter>
 
 <chapter name="Concha auris">
-<b>Concha auris</b> [-ka-], se <sp>Øre</sp>.</chapter>
+<b>Concha auris</b> [-ka-], se <sp>Øre</sp>.
+</chapter>
 
 <chapter name="Conchagua">
 <b>Conchagua</b> [kån't∫ag<sub>u</sub>a], 1236 m høj Vulkan
@@ -140,7 +141,8 @@ Slot fra 12. Aarh., Jernværker og c. 2200 Indb.
 </chapter>
 
 <chapter name="Conchifera">
-<b>Conchifera</b> [-'ki-], se <sp>Muslinger</sp>.</chapter>
+<b>Conchifera</b> [-'ki-], se <sp>Muslinger</sp>.
+</chapter>
 
 <chapter name="Conchos">
 <b>Conchos</b> ['kånt∫<sub>å</sub>s] (<sp>Rio de los C.</sp>), Flod
@@ -153,11 +155,13 @@ Grande ved Presidiodel Norte.
 
 <chapter name="Conchæ præparatæ">
 <b>Conchæ præparatæ</b> [-kæ-], se
-<sp>Østersskaller</sp>.</chapter>
+<sp>Østersskaller</sp>.
+</chapter>
 
 <chapter name="concierge">
 <b>concierge</b> [kå's<sub>i</sub>ærз] (fr.), Portner (Portier),
-Slotsfoged, Fangevogter.</chapter>
+Slotsfoged, Fangevogter.
+</chapter>
 
 <chapter name="Conciergeriet">
 <b>Conciergeriet</b> [kåŋsiærsj<sub>ə</sub>'ri'<sub>ə</sub>ð] (fr. <i>la

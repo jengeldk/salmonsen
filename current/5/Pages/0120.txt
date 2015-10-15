@@ -117,7 +117,8 @@ correspondence</i> udg. 1861 i 3 Bd.
 </chapter>
 
 <chapter name="Colchicaceæ">
-<b>Colchicaceæ,</b> se <sp>Giftlillierne</sp>.</chapter>
+<b>Colchicaceæ,</b> se <sp>Giftlillierne</sp>.
+</chapter>
 
 <chapter name="Colchicum L.">
 <b>Colchicum</b> L. (<sp>Tidløs</sp>), Slægt af

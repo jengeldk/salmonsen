@@ -68,7 +68,8 @@ en tredie lille Kirtel, <i>Antiprostata</i>.
 </chapter>
 
 <chapter name="cowrie">
-<b>cowrie</b> ['ka^ur<sub>i</sub>], se <sp>Kopal</sp>.</chapter>
+<b>cowrie</b> ['ka^ur<sub>i</sub>], se <sp>Kopal</sp>.
+</chapter>
 
 <chapter name="Cox, David">
 <b>Cox</b> [kåks], <sp>David</sp>, eng. Landskabsmaler,
@@ -129,11 +130,13 @@ recollections of the last half century</i> (1872), til
 </chapter>
 
 <chapter name="Coxa">
-<b>Coxa,</b> d. s. s. <sp>Hofte</sp>.</chapter>
+<b>Coxa,</b> d. s. s. <sp>Hofte</sp>.
+</chapter>
 
 <chapter name="Coxalgi">
 <b>Coxalgi,</b> Smerte i Hoften uden paaviselig
-organisk Aarsag.</chapter>
+organisk Aarsag.
+</chapter>
 
 <chapter name="Coxe, Henry Octavius">
 <b>Coxe</b> [kåks], <sp>Henry Octavius</sp>, eng.
@@ -142,7 +145,8 @@ ved det Bodleyanske Bibliotek i Oxford og
 samtidig Præst ved forsk. Menigheder. Han ledede
 Gennemførelsen 1859-80 af det kæmpemæssige
 Katalogarbejde (723 Foliobind) i det Bodleyanske
-Bibliotek.</chapter>
+Bibliotek.
+</chapter>
 
 <chapter name="Coxe, William">
 <b>Coxe</b> [kåks], <sp>William</sp>, eng. Rejseforfatter

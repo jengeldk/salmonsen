@@ -65,10 +65,12 @@ kan søges i Herskerens Personlighed.
 </chapter>
 
 <chapter name="Despoto Planina">
-<b>Despoto Planina</b> ['dæsp<sub>å</sub>t<sub>å</sub>-], se <sp>Rhodope</sp>.</chapter>
+<b>Despoto Planina</b> ['dæsp<sub>å</sub>t<sub>å</sub>-], se <sp>Rhodope</sp>.
+</chapter>
 
 <chapter name="Despréaux">
-<b>Despréaux</b> [dæpre'o], se <sp>Boileau-D</sp>.</chapter>
+<b>Despréaux</b> [dæpre'o], se <sp>Boileau-D</sp>.
+</chapter>
 
 <chapter name="Des Prés, Josquin">
 <b>Des Prés</b> [dæ'pre], <sp>Josquin</sp> (<sp>Jodocus

@@ -129,7 +129,8 @@ af er det saaledes indrettet som her beskrevet.
 </chapter>
 
 <chapter name="Drotsete">
-<b>Drotsete</b> ['dråts<sub>ə</sub>t<sub>ə</sub>], se <sp>Drost</sp>.</chapter>
+<b>Drotsete</b> ['dråts<sub>ə</sub>t<sub>ə</sub>], se <sp>Drost</sp>.
+</chapter>
 
 <chapter name="Drottningholm">
 <b>Drottningholm,</b> sv. kgl. Lystslot ved

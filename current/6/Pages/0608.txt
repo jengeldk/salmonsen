@@ -12,12 +12,14 @@ Goethe-Biografer, bl. dem, der brød Vejen.
 </chapter>
 
 <chapter name="Dypfiskeri">
-<b>Dypfiskeri,</b> se <sp>Lystfiskeri</sp>.</chapter>
+<b>Dypfiskeri,</b> se <sp>Lystfiskeri</sp>.
+</chapter>
 
 <chapter name="Dyprør">
 <b>Dyprør,</b> det Rør, der ved Ovnene til
 Kulgasfabrikationen forbinder <sp>Standrøret</sp> med
-<sp>Hydrauliken</sp>. Se <sp>Kulgas</sp>, Afsnit D.</chapter>
+<sp>Hydrauliken</sp>. Se <sp>Kulgas</sp>, Afsnit D.
+</chapter>
 
 <chapter name="Dyr">
 <b>Dyr.</b> Begrebet <b>D</b>. tages jo i Reglen modsat

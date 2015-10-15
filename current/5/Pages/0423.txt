@@ -22,7 +22,8 @@ i Baggrunden. (<sp>Litt</sp>.: <sp>J. Vibe</sp>,
 </chapter>
 
 <chapter name="Dagbjergarter">
-<b>Dagbjergarter,</b> se <sp>Eruptivbjergarter</sp>.</chapter>
+<b>Dagbjergarter,</b> se <sp>Eruptivbjergarter</sp>.
+</chapter>
 
 <chapter name="Dagbladet, dansk Avis">
 <b>Dagbladet,</b> dansk Avis, udsendte sit første
@@ -138,7 +139,8 @@ Fortsættelse 1863 af »Christianiaposten« (se
 
 <chapter name="Dagbladet (svensk)">
 <b>Dagbladet</b> (svensk), se 1) <sp>Stockholms
-D.</sp>, 2) <sp>Svenska D</sp>.</chapter>
+D.</sp>, 2) <sp>Svenska D</sp>.
+</chapter>
 
 <chapter name="Dagblindhed">
 <b>Dagblindhed</b> taler man undertiden om, naar

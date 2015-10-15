@@ -61,7 +61,8 @@ hvorefter den kom under Bayern.
 <b>Dino...,</b> i Sammensætninger ved
 naturvidenskabelige Navne, væsentlig for uddøde
 kæmpemæssige Dyr, kommer af det gr. δεινος
-frygtelig, vældig.</chapter>
+frygtelig, vældig.
+</chapter>
 
 <chapter name="Dinobryaceæ, Dinobryon">
 <b>Dinobryaceæ, Dinobryon,</b> Flagellater med
@@ -76,17 +77,21 @@ Vandets Temp. ikke er for høj.
 </chapter>
 
 <chapter name="Dinocerata">
-<b>Dinocerata,</b> se <sp>Amblypoda</sp>.</chapter>
+<b>Dinocerata,</b> se <sp>Amblypoda</sp>.
+</chapter>
 
 <chapter name="Dino Compagni">
 <b>Dino Compagni</b> [-kom'pan<sub>j</sub>i], se
-<sp>Compagni</sp>. </chapter>
+<sp>Compagni</sp>.
+</chapter>
 
 <chapter name="Dinoflagellata">
-<b>Dinoflagellata</b> se <sp>Furealger</sp>.</chapter>
+<b>Dinoflagellata</b> se <sp>Furealger</sp>.
+</chapter>
 
 <chapter name="Dinokrates">
-<b>Dinokrates,</b> d. s. s. <sp>Deinokrates</sp>.</chapter>
+<b>Dinokrates,</b> d. s. s. <sp>Deinokrates</sp>.
+</chapter>
 
 <chapter name="Dinol">
 <b>Dinol,</b> Brenzkatekin, Pyrokatekin danner
@@ -129,7 +134,8 @@ Annelider og Hjuldyr. (<sp>Litt</sp>.: <sp>E. Korschelt</sp>,
 </chapter>
 
 <chapter name="Dinornis, Dinornithidæ">
-<b>Dinornis, Dinornithidæ</b> ['-ti.-], se <sp>Moa</sp>.</chapter>
+<b>Dinornis, Dinornithidæ</b> ['-ti.-], se <sp>Moa</sp>.
+</chapter>
 
 <chapter name="Dinos">
 <b>Dinos</b> kaldtes hos
@@ -139,9 +145,10 @@ Metal ell. Terrakotta og
 benyttedes, opstillet paa et
 særskilt Fodstykke, til at
 blande Vin og Vand i.
-<i>C. B.</i>
 
-<img></img></chapter>
+<img></img>
+<i>C. B.</i>
+</chapter>
 
 <chapter name="Dinosaurier">
 <b>Dinosaurier</b> (<i>Dinosauria</i> Owen),

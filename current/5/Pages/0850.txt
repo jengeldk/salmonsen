@@ -136,7 +136,8 @@ Dannelse.
 
 <chapter name="Dansk forenet Sudan-Mission">
 <b>Dansk forenet Sudan-Mission,</b> se
-<sp>Sudan-Mission</sp>.</chapter>
+<sp>Sudan-Mission</sp>.
+</chapter>
 
 <chapter name="Dansk Forening for Børnetandpleje">
 <b>Dansk Forening for Børnetandpleje</b>

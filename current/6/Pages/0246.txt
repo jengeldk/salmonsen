@@ -49,7 +49,8 @@ udelukkende af Distriktsheste.
 </chapter>
 
 <chapter name="Distriktsjordemoder">
-<b>Distriktsjordemoder,</b> se <sp>Jordemoder</sp>.</chapter>
+<b>Distriktsjordemoder,</b> se <sp>Jordemoder</sp>.
+</chapter>
 
 <chapter name="Distriktskommando">
 <b>Distriktskommando</b> betegner i Norge den
@@ -135,10 +136,12 @@ km<sup>2</sup> med (1912) 763170 Indb.
 
 <chapter name="distrofisk">
 <b>distrofisk</b> (gr.), bestaaende af to (Verse-)
-Strofer.</chapter>
+Strofer.
+</chapter>
 
 <chapter name="Disulfider">
-<b>Disulfider,</b> se <sp>Sulfider</sp>.</chapter>
+<b>Disulfider,</b> se <sp>Sulfider</sp>.
+</chapter>
 
 <chapter name="Ditabark">
 <b>Ditabark</b> (<i>Córtex Alstoniæ</i>) er Barken af
@@ -155,11 +158,13 @@ Australien, finder lgn. Anvendelse.
 </chapter>
 
 <chapter name="Ditain">
-<b>Ditain</b> og <b>Ditamin,</b> se <sp>Ditabark</sp>.</chapter>
+<b>Ditain</b> og <b>Ditamin,</b> se <sp>Ditabark</sp>.
+</chapter>
 
 <chapter name="ditetragonalt Prisme">
 <b>ditetragonalt Prisme</b> og <b>Pyramide,</b> se
-<sp>Krystalformer</sp> (tetragonale System).</chapter>
+<sp>Krystalformer</sp> (tetragonale System).
+</chapter>
 
 <chapter name="Ditfurth, Franz Wilhelm">
 <b>Ditfurth</b> [-fort], <sp>Franz Wilhelm</sp>, tysk

@@ -48,18 +48,22 @@ betydelig Fabriksvirksomhed.
 </chapter>
 
 <chapter name="Des Mol">
-<b>Des Mol,</b> se <sp>Des</sp>.</chapter>
+<b>Des Mol,</b> se <sp>Des</sp>.
+</chapter>
 
 <chapter name="Desmologi">
 <b>Desmologi,</b> Læren om de anatomiske Baand-
-og Ledforbindelser.</chapter>
+og Ledforbindelser.
+</chapter>
 
 <chapter name="Desmosit">
 <b>Desmosit,</b> Betegnelse for visse ved Kontakt
-med Diabas metamorfoserede Lerskifere.</chapter>
+med Diabas metamorfoserede Lerskifere.
+</chapter>
 
 <chapter name="Desmotropi">
-<b>Desmotropi,</b> se <sp>Tautomeri</sp>.</chapter>
+<b>Desmotropi,</b> se <sp>Tautomeri</sp>.
+</chapter>
 
 <chapter name="Desmoulins, Camille">
 <b>Desmoulins</b> [dæmu'læ], <sp>Camille</sp>, fransk
@@ -142,7 +146,8 @@ Kulturhistorie, særlig i 18. Aarh., bl. a. det af
 Akademiet prisbelønnede Værk <i>Voltaire et la
 société française au XVIII siècle</i> (8 Bd, 1867-75),
 <i>Iconographie voltairienne</i> (1878) og <i>La musique
-française au XVIII siècle</i> (1872 og 1875).</chapter>
+française au XVIII siècle</i> (1872 og 1875).
+</chapter>
 
 <chapter name="Desnoyers, Auguste Gaspard Louis Boucher">
 <b>Desnoyers</b> [dænwa'je], <sp>Auguste

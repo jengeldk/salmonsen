@@ -14,7 +14,8 @@ Great Britain</i> [Dublin 1903]).
 </chapter>
 
 <chapter name="Columbacsermyg">
-<b>Columbacsermyg,</b> se <sp>Kvægmyg</sp>.</chapter>
+<b>Columbacsermyg,</b> se <sp>Kvægmyg</sp>.
+</chapter>
 
 <chapter name="Columbanus">
 <b>Columbanus,</b> irsk Munk, f. i West Leinster
@@ -89,7 +90,8 @@ Foretagende.
 <img>Columbarium i <i>vigna Codini</i>.</img>
 
 <chapter name="Columbia, se Colombia">
-<b>Columbia</b> [k<sub>ə</sub>'£amb<sub>j</sub>a], se <sp>Colombia</sp>.</chapter>
+<b>Columbia</b> [k<sub>ə</sub>'£amb<sub>j</sub>a], se <sp>Colombia</sp>.
+</chapter>
 
 <chapter name="Columbia, District of C.">
 <b>Columbia</b> [k<sub>ə</sub>'£amb<sub>j</sub>a], <sp>District of C.</sp>,

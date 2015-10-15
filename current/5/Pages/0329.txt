@@ -1,10 +1,12 @@
 <chapter name="croquis">
-<b>croquis</b> [krå'ki], se <sp>Kroki</sp>.</chapter>
+<b>croquis</b> [krå'ki], se <sp>Kroki</sp>.
+</chapter>
 
 <chapter name="Crore eller Crore Rupee">
 <b>Crore</b> ['krå.ə] eller <b>Crore Rupee</b>
 ['krå.ə-ru.'pi.], i Ostindien 100 Lac eller 10 Millioner
-Rupier.</chapter>
+Rupier.
+</chapter>
 
 <chapter name="Crosby">
 <b>Crosby</b> ['kråzb<sub>i</sub>] (<sp>Great C.</sp>), By, 7 km
@@ -79,10 +81,12 @@ Panseraal). Se <sp>Ganoider</sp>.
 
 <chapter name="Crossopus">
 <b>Crossopus</b> (<sp>Vandspidsmus</sp>), se
-<sp>Spidsmus</sp>.</chapter>
+<sp>Spidsmus</sp>.
+</chapter>
 
 <chapter name="Cross River">
-<b>Cross River</b> ['krås-'rivə], se <sp>Calabar</sp>.</chapter>
+<b>Cross River</b> ['krås-'rivə], se <sp>Calabar</sp>.
+</chapter>
 
 <chapter name="Cross Sand">
 <b>Cross Sand</b> ['krås-'sänd], farlig Banke c. 11
@@ -124,10 +128,12 @@ andre er dels Lægeplanter, dels Prydplanter.
 </chapter>
 
 <chapter name="Crotalocrinus">
-<b>Crotalocrinus,</b> se <sp>Sølillier</sp>.</chapter>
+<b>Crotalocrinus,</b> se <sp>Sølillier</sp>.
+</chapter>
 
 <chapter name="Crotalus">
-<b>Crotalus,</b> se <sp>Klapperslanger</sp>.</chapter>
+<b>Crotalus,</b> se <sp>Klapperslanger</sp>.
+</chapter>
 
 <chapter name="Croton L.">
 <b>Croton</b> L., Slægt af Vortemælkfam., Urter,

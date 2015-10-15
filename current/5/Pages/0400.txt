@@ -19,11 +19,13 @@ om C.'s glimrende Evner.
 </chapter>
 
 <chapter name="cælum">
-<b>cælum</b> (<sp>astron</sp>.), se <sp>Gravstikkel</sp>.</chapter>
+<b>cælum</b> (<sp>astron</sp>.), se <sp>Gravstikkel</sp>.
+</chapter>
 
 <chapter name="Cælus">
 <b>Cælus,</b> det latinske Navn paa Himlens Gud
-(se <sp>Uranos</sp>).</chapter>
+(se <sp>Uranos</sp>).
+</chapter>
 
 <chapter name="Cæoma">
 <b>Cæoma</b> Tul., Slægt af Rustsvampe, der danner
@@ -122,7 +124,8 @@ mange har stor økonomisk Bet.
 </chapter>
 
 <chapter name="Cæsalpinius">
-<b>Cæsalpinius,</b> se <sp>Cesalpino</sp>.</chapter>
+<b>Cæsalpinius,</b> se <sp>Cesalpino</sp>.
+</chapter>
 
 <chapter name="Cæsar, opr. den juliske Slægts Tilnavn">
 <b>Cæsar,</b> opr. den juliske Slægts Tilnavn,

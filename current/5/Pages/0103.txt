@@ -37,11 +37,13 @@ I Bryssel oprejstes 1872 hans Statue.
 
 <chapter name="Cockermouth">
 <b>Cockermouth</b> ['kåkəma^uþ eller -məþ], se
-<sp>Cocker</sp>.</chapter>
+<sp>Cocker</sp>.
+</chapter>
 
 <chapter name="Cocker Spaniel">
 <b>Cocker Spaniel</b> ['kåkə-'spänj<sub>ə</sub>£], en eng.
-Hunderace, se <sp>Hunde</sp>.</chapter>
+Hunderace, se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Cockle Sand">
 <b>Cockle Sand</b> ['kåk£'sänd], farlig Banke c.
@@ -95,7 +97,8 @@ i Nærheden af Agterlugen.
 <chapter name="cocktail">
 <b>cocktail</b> ['kåkte<sub>i</sub>£], en fra Amerika stammende
 Drik, der tilberedes af Cognak, forsk. Likører
-og Krydderier og drikkes baade kold og varm.</chapter>
+og Krydderier og drikkes baade kold og varm.
+</chapter>
 
 <chapter name="Coclicus, Adrien Petit">
 <b>Coclicus</b> [holl. 'kåk£<sub>e</sub>kös], <sp>Adrien Petit</sp>,

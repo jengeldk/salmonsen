@@ -90,10 +90,12 @@ til Grønland 982.
 </chapter>
 
 <chapter name="Dimorfi, se Bestøvning">
-<b>Dimorfi,</b> se <sp>Bestøvning</sp>.</chapter>
+<b>Dimorfi,</b> se <sp>Bestøvning</sp>.
+</chapter>
 
 <chapter name="Dimorfi, se Polymorfi">
-<b>Dimorfi,</b> se <sp>Polymorfi</sp>.</chapter>
+<b>Dimorfi,</b> se <sp>Polymorfi</sp>.
+</chapter>
 
 <chapter name="Dimorfin">
 <b>Dimorfin</b> (<sp>Dimorfit</sp>), et orangegult
@@ -104,7 +106,8 @@ Sublimationsprodukt i Solfatara ved Neapel.
 </chapter>
 
 <chapter name="Dimorphanthus">
-<b>Dimorphanthus</b> [-'fan-], se <sp>Aralia</sp>.</chapter>
+<b>Dimorphanthus</b> [-'fan-], se <sp>Aralia</sp>.
+</chapter>
 
 <chapter name="Dimorphotheca">
 <b>Dimorphotheca</b> [-fo'te.-] Mnch., Slægt af
@@ -123,10 +126,10 @@ orange med en sortbrun Krans. Rigt
 blomstrende. Saas i Marts paa halvvarm Bænk og
 udplantes først i Juni med c. 35 cm Afstand
 paa solaaben Vokseplads.
-<i>L. H.</i>
 
-<img>
-<i>Dimorphotheca aurantiaca</i>.</img></chapter>
+<img><i>Dimorphotheca aurantiaca</i>.</img>
+<i>L. H.</i>
+</chapter>
 
 <chapter name="Dina">
 <b>Dina</b> nævnes 1. Mos. 30, 21 som Datter af

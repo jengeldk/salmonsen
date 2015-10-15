@@ -48,7 +48,8 @@ Operationer krævedes altid en Bevægelse mod Solen.
 </chapter>
 
 <chapter name="Dea Syria">
-<b>Dea Syria,</b> se <sp>Derketo</sp>.</chapter>
+<b>Dea Syria,</b> se <sp>Derketo</sp>.
+</chapter>
 
 <chapter name="Death Valley">
 <b>Death Valley</b> ['deþ-vä£<sub>i</sub>] (»Dødens Dal«),
@@ -74,7 +75,8 @@ elegante Villaer, Væddeløb, en lille Havn og c.
 </chapter>
 
 <chapter name="Deb.">
-<b>Deb.,</b> Forkortelse af Debet, Debitor.</chapter>
+<b>Deb.,</b> Forkortelse af Debet, Debitor.
+</chapter>
 
 <chapter name="Debain, Alexandre François">
 <b>Debain</b> [dö'bæ], <sp>Alexandre François</sp>
@@ -90,17 +92,21 @@ konstruerede andre (automatiske) Musikværker.
 <chapter name="debaklere">
 <b>debaklere,</b> at rømme en Havn for tomme
 Skibe. Den opsynshavende ved dette Arbejde
-(<i>débaclage</i> [deba'kla.з]) kaldes <sp>Debaklør</sp>.</chapter>
+(<i>débaclage</i> [deba'kla.з]) kaldes <sp>Debaklør</sp>.
+</chapter>
 
 <chapter name="de Bange">
-<b>de Bange</b> [dö-'bã.з], se <sp>Bange</sp>.</chapter>
+<b>de Bange</b> [dö-'bã.з], se <sp>Bange</sp>.
+</chapter>
 
 <chapter name="debarkere">
 <b>debarkere</b> (fr.), udskibe, lande;
-<sp>Debarkering</sp>, Udskibning af Tropper, Gods o. s. v.</chapter>
+<sp>Debarkering</sp>, Udskibning af Tropper, Gods o. s. v.
+</chapter>
 
 <chapter name="de Bary">
-<b>de Bary</b> [d<sub>ö</sub>-ba'ri], se <sp>Bary</sp>, H. A. de.</chapter>
+<b>de Bary</b> [d<sub>ö</sub>-ba'ri], se <sp>Bary</sp>, H. A. de.
+</chapter>
 
 <chapter name="Debat">
 <b>Debat,</b> Forhandling paa Forsamlinger. I

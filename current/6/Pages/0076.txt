@@ -149,7 +149,8 @@ Afsnit E.
 
 <chapter name="dessein">
 <b>dessein</b> [dæ'sæ] (fr.), Plan, Hensigt;
-Udkast, Skitse.</chapter>
+Udkast, Skitse.
+</chapter>
 
 <chapter name="Dessert">
 <b>Dessert</b> [dansk de'sæ'r, fransk dæ'sæ.r] er
@@ -160,7 +161,8 @@ ved de forsk. Maaltider.
 </chapter>
 
 <chapter name="Dessertske">
-<b>Dessertske</b> [de'sæ'r-], se <sp>Barneske</sp>.</chapter>
+<b>Dessertske</b> [de'sæ'r-], se <sp>Barneske</sp>.
+</chapter>
 
 <chapter name="Dessertvine">
 <b>Dessertvine</b> [de'sæ'r-], særlig fine, stærke

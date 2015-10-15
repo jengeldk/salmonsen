@@ -17,7 +17,8 @@ Gegenwart«, 2. Opl. [1903], S. 60 flg.).
 <chapter name="Ekstinktion">
 <b>Ekstinktion</b> (lat.), Slukning, Udslukning;
 Udslettelse, Tilintetgørelse, f. Eks. af Rettigheder
-ell. Indsigelser.</chapter>
+ell. Indsigelser.
+</chapter>
 
 <chapter name="Ekstinktions-Metoden">
 <b>Ekstinktions-Metoden</b> ved
@@ -41,7 +42,8 @@ og Hævd (s. d.); smlg. <i>derivativ E</i>.
 
 <chapter name="Ekstinktøs">
 <b>Ekstinktøs,</b> se
-<sp>Brandslukningsredskaber</sp>.</chapter>
+<sp>Brandslukningsredskaber</sp>.
+</chapter>
 
 <chapter name="Ekstirpator">
 <b>Ekstirpator</b> er et fremmed Navn paa en
@@ -63,20 +65,24 @@ og tjener til at ødelægge Rodukrud.
 
 <chapter name="ekstorkvere">
 <b>ekstorkvere</b> (lat.), udpresse, tiltvinge;
-<sp>Ekstorsion</sp>, Udpresning, Tiltvingelse, Udsugelse.</chapter>
+<sp>Ekstorsion</sp>, Udpresning, Tiltvingelse, Udsugelse.
+</chapter>
 
 <chapter name="ekstra">
 <b>ekstra</b> (lat.), udenfor, undtagen, uden for
-Regelen; ualmindelig, overordentlig.</chapter>
+Regelen; ualmindelig, overordentlig.
+</chapter>
 
 <chapter name="Ekstradag">
-<b>Ekstradag</b> ['æks-], se <sp>Hoveri</sp>.</chapter>
+<b>Ekstradag</b> ['æks-], se <sp>Hoveri</sp>.
+</chapter>
 
 <chapter name="ekstradere">
 <b>ekstradere</b> (lat.), udlevere (især om et Bo
 og et Konkursbo); <sp>Ekstradition</sp> (fr.),
 Udlevering; <sp>Ekstraditionsbevis</sp>,
-Udleveringsbevis.</chapter>
+Udleveringsbevis.
+</chapter>
 
 <chapter name="Ekstradition">
 <b>Ekstradition</b> (lat. <sp>Udlevering</sp>) kaldes
@@ -90,15 +96,18 @@ hidføre en Afslutning af Behandlingen.
 
 <chapter name="ekstraeuropæiske Telegrammer til nedsat Takst">
 <b>ekstraeuropæiske Telegrammer til
-nedsat Takst,</b> se <sp>Telegrammer</sp>.</chapter>
+nedsat Takst,</b> se <sp>Telegrammer</sp>.
+</chapter>
 
 <chapter name="ekstrahere">
 <b>ekstrahere</b> (lat.), uddrage, gøre et Udtog.
-Smlg. <sp>Ekstrakt</sp>.</chapter>
+Smlg. <sp>Ekstrakt</sp>.
+</chapter>
 
 <chapter name="ekstrajudiciel">
 <b>ekstrajudiciel</b> (lat.), som foregaar uden for
-Retten.</chapter>
+Retten.
+</chapter>
 
 <chapter name="ekstrakontant">
 <b>ekstrakontant</b> ['æks-]. Kontant Betaling
@@ -115,7 +124,8 @@ Betaling i egl. Forstand.
 </chapter>
 
 <chapter name="Ekstrakt">
-<b>Ekstrakt</b> (lat.), Uddrag (af Bøger, Akter etc.).</chapter>
+<b>Ekstrakt</b> (lat.), Uddrag (af Bøger, Akter etc.).
+</chapter>
 
 <chapter name="Ekstrakt">
 <b>Ekstrakt</b> (lat.), en til en vis Koncentration
@@ -180,10 +190,12 @@ Fedt, Vand, Træstof og Aske er bestemt.
 </chapter>
 
 <chapter name="Ekstraktor">
-<b>Ekstraktor</b> (lat.), se <sp>Udtrækker</sp>.</chapter>
+<b>Ekstraktor</b> (lat.), se <sp>Udtrækker</sp>.
+</chapter>
 
 <chapter name="ektraordinær">
-<b>ektraordinær</b> ['æks-] (lat.), usædvanlig.</chapter>
+<b>ektraordinær</b> ['æks-] (lat.), usædvanlig.
+</chapter>
 
 <chapter name="ekstraordinær Assessor">
 <b>ekstraordinær Assessor.</b> I den danske

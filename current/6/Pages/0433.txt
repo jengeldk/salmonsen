@@ -118,7 +118,8 @@ fuldkommen Maskine.
 
 <chapter name="Drejestrøm">
 <b>Drejestrøm</b> = 3-faset Vekselstrøm, se
-<sp>elektriske Maskiner</sp> og <sp>Transformatorer</sp>.</chapter>
+<sp>elektriske Maskiner</sp> og <sp>Transformatorer</sp>.
+</chapter>
 
 <chapter name="Drejesyge">
 <b>Drejesyge</b> kaldes en, særlig hos <sp>Faaret</sp>,

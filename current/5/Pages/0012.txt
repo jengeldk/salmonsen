@@ -85,10 +85,12 @@ paa Java og i Indien. Se nærmere Kinabark.
 <img>Frugter.</img>
 
 <chapter name="Cinchonidin, Cinchonin">
-<b>Cinchonidin, Cinchonin,</b> se <sp>Kinabaser</sp>.</chapter>
+<b>Cinchonidin, Cinchonin,</b> se <sp>Kinabaser</sp>.
+</chapter>
 
 <chapter name="Cinchoninsyre">
-<b>Cinchoninsyre,</b> se <sp>Kinolinkarbonsyre</sp>.</chapter>
+<b>Cinchoninsyre,</b> se <sp>Kinolinkarbonsyre</sp>.
+</chapter>
 
 <chapter name="Cincinnati">
 <b>Cincinnati</b> [sins<sub>i</sub>'ne<sub>i</sub>t<sub>i</sub>] By i

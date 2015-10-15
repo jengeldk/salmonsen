@@ -65,7 +65,8 @@ Erindringer om Tiden 1806-30.
 
 <chapter name="D-mol">
 <b>D-mol,</b> den Mol-Tonart, der har <i>D</i> til
-Grundtone; har et ♭ for <i>h</i>.</chapter>
+Grundtone; har et ♭ for <i>h</i>.
+</chapter>
 
 <chapter name="Dnjepr">
 <b>Dnjepr</b> ['dnjæpr], Grækernes <sp>Borysthènes</sp>,
@@ -151,10 +152,12 @@ Biflod Bug, er 80 km lang og 1,5 m dyb (se
 
 <chapter name="Dnjepr-Liman">
 <b>Dnjepr-Liman</b> ['dnjæpr-l<sub>j</sub>i'man], Dnjepr's
-Mundingsbugt paa Nordsiden af det Sorte Hav.</chapter>
+Mundingsbugt paa Nordsiden af det Sorte Hav.
+</chapter>
 
 <chapter name="Dnjeprovsk">
-<b>Dnjeprovsk</b> ['dnjæpr<sub>å</sub>fsk], se <sp>Aleschki</sp>.</chapter>
+<b>Dnjeprovsk</b> ['dnjæpr<sub>å</sub>fsk], se <sp>Aleschki</sp>.
+</chapter>
 
 <chapter name="Dnjepr-Steppen">
 <b>Dnjepr-Steppen</b> ['dnjæpr-] kaldes i videre

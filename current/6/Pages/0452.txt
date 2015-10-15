@@ -25,10 +25,12 @@ skal kunne dyrkes i Norden.
 </chapter>
 
 <chapter name="Drivis">
-<b>Drivis,</b> se <sp>Is</sp>.</chapter>
+<b>Drivis,</b> se <sp>Is</sp>.
+</chapter>
 
 <chapter name="Drivisteorien">
-<b>Drivisteorien,</b> d. s. s. <sp>Driftteorien</sp>.</chapter>
+<b>Drivisteorien,</b> d. s. s. <sp>Driftteorien</sp>.
+</chapter>
 
 <chapter name="Drivkraft">
 <b>Drivkraft,</b> en Energikilde, som formaar at
@@ -82,9 +84,10 @@ samme Stykke (se Fig.). Varm Optagning anvendes
 i Kedelsmedien navnlig ved Bunde til
 Dampkedler, men viger i de større Værksteder for
 Presning. - D. med Punsel, se <sp>Ciselering</sp>.
-<i>F. W.</i>
 
-<img></img></chapter>
+<img></img>
+<i>F. W.</i>
+</chapter>
 
 <chapter name="Drivning af Planter">
 <b>Drivning af Planter.</b> Ved Plantedrivning er

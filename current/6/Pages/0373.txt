@@ -147,7 +147,8 @@ haft at opvise.
 </chapter>
 
 <chapter name="Dr.">
-<b>Dr.,</b> Forkortelse af Doktor.</chapter>
+<b>Dr.,</b> Forkortelse af Doktor.
+</chapter>
 
 <chapter name="Draâ, Vadi D.">
 <b>Draâ,</b> <sp>Vadi D.</sp>, den største Flod paa

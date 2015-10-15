@@ -148,7 +148,8 @@ over 3,1 m.
 </chapter>
 
 <chapter name="Dragfiskeri">
-<b>Dragfiskeri,</b> se <sp>Lystfiskeri</sp>.</chapter>
+<b>Dragfiskeri,</b> se <sp>Lystfiskeri</sp>.
+</chapter>
 
 <chapter name="Draghi, flere italienere">
 <b>Draghi</b> ['dragi], 1) <sp>Antonio</sp>, ital.

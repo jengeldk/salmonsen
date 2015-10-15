@@ -72,13 +72,16 @@ dansk el. norsk Ret.
 </chapter>
 
 <chapter name="Duellant">
-<b>Duellant,</b> se <sp>Duel</sp>.</chapter>
+<b>Duellant,</b> se <sp>Duel</sp>.
+</chapter>
 
 <chapter name="duellere">
-<b>duellere,</b> se <sp>Duel</sp>.</chapter>
+<b>duellere,</b> se <sp>Duel</sp>.
+</chapter>
 
 <chapter name="Duellona">
-<b>Duellona,</b> d. s. s. <sp>Bellona</sp>.</chapter>
+<b>Duellona,</b> d. s. s. <sp>Bellona</sp>.
+</chapter>
 
 <chapter name="Duen">
 <b>Duen</b> (<i>Colúmba</i>), et lille Stjernebillede paa

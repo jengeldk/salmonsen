@@ -60,7 +60,8 @@ Paris, Dresden, München, Mainz etc.
 </chapter>
 
 <chapter name="credit">
-<b>credit,</b> se <sp>Kredit</sp> og <sp>Bogholderi</sp>.</chapter>
+<b>credit,</b> se <sp>Kredit</sp> og <sp>Bogholderi</sp>.
+</chapter>
 
 <chapter name="crédit foncier">
 <b>crédit foncier</b> [kre'di-få's<sub>i</sub>e], fr. Benævnelse

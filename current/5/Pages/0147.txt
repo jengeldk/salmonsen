@@ -41,10 +41,12 @@ Grad sejlbar.
 </chapter>
 
 <chapter name="colorado, se Cigarer">
-<b>colorado,</b> se <sp>Cigarer</sp>.</chapter>
+<b>colorado,</b> se <sp>Cigarer</sp>.
+</chapter>
 
 <chapter name="Coloradobille">
-<b>Coloradobille,</b> se <sp>Kartoffelbille</sp>.</chapter>
+<b>Coloradobille,</b> se <sp>Kartoffelbille</sp>.
+</chapter>
 
 <chapter name="Colorado City">
 <b>Colorado City</b> [kå£<sub>o</sub>'ra.do<sub>u</sub>-'sit<sub>i</sub>], By i U. S. A.,

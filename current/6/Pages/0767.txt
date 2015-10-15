@@ -10,16 +10,20 @@ Oldsager, Bronzealder«, Nr. 401).
 </chapter>
 
 <chapter name="Edssag">
-<b>Edssag,</b> se <sp>Edsdom</sp>.</chapter>
+<b>Edssag,</b> se <sp>Edsdom</sp>.
+</chapter>
 
 <chapter name="Edsstævning">
-<b>Edsstævning,</b> se <sp>Edsdom</sp>.</chapter>
+<b>Edsstævning,</b> se <sp>Edsdom</sp>.
+</chapter>
 
 <chapter name="Edstema">
-<b>Edstema,</b> se <sp>Edsdom</sp>.</chapter>
+<b>Edstema,</b> se <sp>Edsdom</sp>.
+</chapter>
 
 <chapter name="Edsvorneretter">
-<b>Edsvorneretter,</b> se <sp>Nævninger</sp>.</chapter>
+<b>Edsvorneretter,</b> se <sp>Nævninger</sp>.
+</chapter>
 
 <chapter name="Edsørelovgivning">
 <b>Edsørelovgivning</b> er Betegnelsen for en
@@ -48,7 +52,8 @@ vekslende Indhold.
 
 <chapter name="Edukation">
 <b>Edukation</b> (lat.), Opdragelse; <sp>Edukator</sp>,
-Opdrager.</chapter>
+Opdrager.
+</chapter>
 
 <chapter name="Edukt">
 <b>Edukt</b> kaldes undertiden et ved et kemisk
@@ -61,7 +66,8 @@ under Arbejdets Gang.
 
 <chapter name="E-dur">
 <b>E-dur,</b> den Dur-Tonart, der har E til
-Grundtone; den har fire ♯, for <i>f</i>, <i>c</i>, <i>g</i> og <i>d</i>.</chapter>
+Grundtone; den har fire ♯, for <i>f</i>, <i>c</i>, <i>g</i> og <i>d</i>.
+</chapter>
 
 <chapter name="Edvard den Ældre">
 <b>Edvard</b> (<sp>Eadward</sp>) <sp>den Ældre</sp>,

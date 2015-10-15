@@ -14,7 +14,8 @@ Erinnerungen an Grillparzer«. (<sp>Litt</sp>.: Biografier af
 </chapter>
 
 <chapter name="Ebo">
-<b>Ebo</b> ['ebo], se <sp>Ibo</sp>.</chapter>
+<b>Ebo</b> ['ebo], se <sp>Ibo</sp>.
+</chapter>
 
 <chapter name="Ebo af Reims">
 <b>Ebo</b> (<sp>Ebbo</sp>) af <sp>Reims</sp>, frankisk

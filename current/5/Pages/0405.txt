@@ -71,10 +71,12 @@ reder mit Leje.
 </chapter>
 
 <chapter name="Coelacanthini">
-<b>Coelacanthini</b> [sø-'ti.-], se <sp>Ganoider</sp>.</chapter>
+<b>Coelacanthini</b> [sø-'ti.-], se <sp>Ganoider</sp>.
+</chapter>
 
 <chapter name="Coelenterata">
-<b>Coelenterata</b> [sø-], se <sp>Polypdyr</sp>.</chapter>
+<b>Coelenterata</b> [sø-], se <sp>Polypdyr</sp>.
+</chapter>
 
 <chapter name="Cølestin, et Mineral">
 <b>Cølestin,</b> et Mineral, som bestaar af

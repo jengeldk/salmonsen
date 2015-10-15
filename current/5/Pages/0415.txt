@@ -43,7 +43,8 @@ Fader, se <sp>Ramayana</sp>.
 </chapter>
 
 <chapter name="Dacca">
-<b>Dacca</b> [eng. däk<sub>a</sub>], se <sp>Dhaka</sp>.</chapter>
+<b>Dacca</b> [eng. däk<sub>a</sub>], se <sp>Dhaka</sp>.
+</chapter>
 
 <chapter name="Dach, Simon">
 <b>Dach</b> [dak], <sp>Simon</sp>, tysk Digter (1605-59),
@@ -59,7 +60,8 @@ en Velynder og Beskytter.
 </chapter>
 
 <chapter name="Dachalîeh">
-<b>Dachalîeh</b> [dak<sub>r</sub>ah'li.eh], d. s. s. <sp>Dakalieh</sp>.</chapter>
+<b>Dachalîeh</b> [dak<sub>r</sub>ah'li.eh], d. s. s. <sp>Dakalieh</sp>.
+</chapter>
 
 <chapter name="Dachau">
 <b>Dachau</b> ['daka^u], Flække i det mellemste
@@ -110,7 +112,8 @@ Karls-Eisfeld.
 </chapter>
 
 <chapter name="Dacht el Majun">
-<b>Dacht el Majun,</b> se <sp>Bab el Mandeb</sp>.</chapter>
+<b>Dacht el Majun,</b> se <sp>Bab el Mandeb</sp>.
+</chapter>
 
 <chapter name="Dacia, Landet mellem Donau og Karpaterne">
 <b>Dacia</b> var i den rom. Kejsertid Navnet paa
@@ -159,7 +162,8 @@ de i Middelalderen i Paris studerende Danskes
 (mulig ogsaa de andre Skandinavers) Forening
 (smlg. <sp>Universitet</sp>); endvidere paa en Provins
 af Dominikanerordenen, omfattende de
-skandinaviske Lande.</chapter>
+skandinaviske Lande.
+</chapter>
 
 <chapter name="Dacier, 1) André, 2) Anne Lefèvre">
 <b>Dacier</b> [da's<sub>i</sub>e], 1) <sp>André</sp>, fransk Filolog

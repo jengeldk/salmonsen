@@ -25,7 +25,8 @@ danner tungtopløselige Alkalisalte.
 </chapter>
 
 <chapter name="Dialysator">
-<b>Dialysator,</b> se <sp>Dialyse</sp>.</chapter>
+<b>Dialysator,</b> se <sp>Dialyse</sp>.
+</chapter>
 
 <chapter name="Dialyse">
 <b>Dialyse</b> (gr.), Opløsning, Adskillelse,
@@ -105,10 +106,12 @@ Værdi er ret omstridt.
 </chapter>
 
 <chapter name="dialytisk Kikkert">
-<b>dialytisk Kikkert,</b> se <sp>Kikkert</sp>.</chapter>
+<b>dialytisk Kikkert,</b> se <sp>Kikkert</sp>.
+</chapter>
 
 <chapter name="Diamagnetisme">
-<b>Diamagnetisme,</b> se <sp>Magnetisme</sp>.</chapter>
+<b>Diamagnetisme,</b> se <sp>Magnetisme</sp>.
+</chapter>
 
 <chapter name="Diamalt">
 <b>Diamalt</b> en paa særlig Maade tilberedt

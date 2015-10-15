@@ -55,7 +55,8 @@ Anledning til Opdagelsen.
 </chapter>
 
 <chapter name="Damper">
-<b>Damper,</b> se <sp>Dampskib</sp>.</chapter>
+<b>Damper,</b> se <sp>Dampskib</sp>.
+</chapter>
 
 <chapter name="Dampfløjte">
 <b>Dampfløjte,</b> <sp>Damppibe</sp>, er et

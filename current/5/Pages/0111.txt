@@ -21,7 +21,8 @@ driver Mølleindustri.
 </chapter>
 
 <chapter name="Coffin-Øerne">
-<b>Coffin-Øerne</b> ['kåf<sub>i</sub>n-], se <sp>Bonin-Øerne</sp>.</chapter>
+<b>Coffin-Øerne</b> ['kåf<sub>i</sub>n-], se <sp>Bonin-Øerne</sp>.
+</chapter>
 
 <chapter name="Coffre, Benoit">
 <b>Coffre</b> [kåfr], <sp>Benoit</sp>, fr. Maler,
@@ -142,7 +143,8 @@ Psyche.
 </chapter>
 
 <chapter name="cogito, ergo sum">
-<b>cogito, ergo sum,</b> se <sp>Descartes</sp>.</chapter>
+<b>cogito, ergo sum,</b> se <sp>Descartes</sp>.
+</chapter>
 
 <chapter name="Cognac">
 <b>Cognac</b> [kå'n<sub>j</sub>ak], By i det sydvestlige

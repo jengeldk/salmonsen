@@ -11,64 +11,84 @@ Benudvækster.
 </chapter>
 
 <chapter name="Dværghunde">
-<b>Dværghunde,</b> se <sp>Hunde</sp>.</chapter>
+<b>Dværghunde,</b> se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Dværghyæne">
-<b>Dværghyæne,</b> se <sp>Hyæner</sp>.</chapter>
+<b>Dværghyæne,</b> se <sp>Hyæner</sp>.
+</chapter>
 
 <chapter name="Dværghøns">
-<b>Dværghøns</b> (<sp>Bantams</sp>), se <sp>Høns</sp>.</chapter>
+<b>Dværghøns</b> (<sp>Bantams</sp>), se <sp>Høns</sp>.
+</chapter>
 
 <chapter name="Dværghør">
-<b>Dværghør,</b> se <sp>Tusindfrø</sp>.</chapter>
+<b>Dværghør,</b> se <sp>Tusindfrø</sp>.
+</chapter>
 
 <chapter name="Dværgkaskelot">
-<b>Dværgkaskelot,</b> se <sp>Kaskelot</sp>.</chapter>
+<b>Dværgkaskelot,</b> se <sp>Kaskelot</sp>.
+</chapter>
 
 <chapter name="Dværgmaage">
-<b>Dværgmaage,</b> se <sp>Maager</sp>.</chapter>
+<b>Dværgmaage,</b> se <sp>Maager</sp>.
+</chapter>
 
 <chapter name="Dværgmalle">
-<b>Dværgmalle,</b> se <sp>Maller</sp>.</chapter>
+<b>Dværgmalle,</b> se <sp>Maller</sp>.
+</chapter>
 
 <chapter name="Dværgmider">
-<b>Dværgmider,</b> se <sp>Tardigrader</sp>.</chapter>
+<b>Dværgmider,</b> se <sp>Tardigrader</sp>.
+</chapter>
 
 <chapter name="Dværgmispel">
-<b>Dværgmispel,</b> se <sp>Cotoneaster</sp>.</chapter>
+<b>Dværgmispel,</b> se <sp>Cotoneaster</sp>.
+</chapter>
 
 <chapter name="Dværgmus">
-<b>Dværgmus,</b> se <sp>Mus</sp>.</chapter>
+<b>Dværgmus,</b> se <sp>Mus</sp>.
+</chapter>
 
 <chapter name="Dværgpalme">
-<b>Dværgpalme,</b> se <sp>Chamærops</sp>.</chapter>
+<b>Dværgpalme,</b> se <sp>Chamærops</sp>.
+</chapter>
 
 <chapter name="Dværgpapegøjer">
-<b>Dværgpapegøjer,</b> se <sp>Papegøjer</sp>.</chapter>
+<b>Dværgpapegøjer,</b> se <sp>Papegøjer</sp>.
+</chapter>
 
 <chapter name="Dværgpomerans">
-<b>Dværgpomerans,</b> se <sp>Citrus</sp>.</chapter>
+<b>Dværgpomerans,</b> se <sp>Citrus</sp>.
+</chapter>
 
 <chapter name="Dværgrundorme">
-<b>Dværgrundorme,</b> se <sp>Rundorme</sp>.</chapter>
+<b>Dværgrundorme,</b> se <sp>Rundorme</sp>.
+</chapter>
 
 <chapter name="Dværgryle">
-<b>Dværgryle,</b> se <sp>Ryler</sp>.</chapter>
+<b>Dværgryle,</b> se <sp>Ryler</sp>.
+</chapter>
 
 <chapter name="Dværgspidsmus">
-<b>Dværgspidsmus,</b> se <sp>Spidsmus</sp>.</chapter>
+<b>Dværgspidsmus,</b> se <sp>Spidsmus</sp>.
+</chapter>
 
 <chapter name="Dværgspætter">
-<b>Dværgspætter,</b> se <sp>Spætter</sp>.</chapter>
+<b>Dværgspætter,</b> se <sp>Spætter</sp>.
+</chapter>
 
 <chapter name="Dværgsumphøne">
-<b>Dværgsumphøne,</b> se <sp>Sumphøns</sp>.</chapter>
+<b>Dværgsumphøne,</b> se <sp>Sumphøns</sp>.
+</chapter>
 
 <chapter name="Dværgterne">
-<b>Dværgterne,</b> se <sp>Terner</sp>.</chapter>
+<b>Dværgterne,</b> se <sp>Terner</sp>.
+</chapter>
 
 <chapter name="Dværgtrappe">
-<b>Dværgtrappe,</b> se <sp>Trapper</sp>.</chapter>
+<b>Dværgtrappe,</b> se <sp>Trapper</sp>.
+</chapter>
 
 <chapter name="Dværgtræer">
 <b>Dværgtræer</b> benyttes i Frugthaven. De
@@ -88,7 +108,8 @@ forholdsvis kort.
 </chapter>
 
 <chapter name="Dværgulvefod">
-<b>Dværgulvefod,</b> se <sp>Selaginella</sp>.</chapter>
+<b>Dværgulvefod,</b> se <sp>Selaginella</sp>.
+</chapter>
 
 <chapter name="Dværgulvefodfamilien">
 <b>Dværgulvefodfamilien</b> (<i>Selaginellaceæ</i>),
@@ -99,10 +120,12 @@ Slægten er Fam.'s Kendetegn givne.
 </chapter>
 
 <chapter name="Dværgvagtel">
-<b>Dværgvagtel,</b> se <sp>Løbehøns</sp>.</chapter>
+<b>Dværgvagtel,</b> se <sp>Løbehøns</sp>.
+</chapter>
 
 <chapter name="Dværgværling">
-<b>Dværgværling,</b> se <sp>Værlinger</sp>.</chapter>
+<b>Dværgværling,</b> se <sp>Værlinger</sp>.
+</chapter>
 
 <chapter name="Dwarka">
 <b>Dwarka</b> (<sp>Dwaráka</sp>, Ptolemaios' <sp>Barake</sp>),

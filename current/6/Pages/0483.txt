@@ -61,22 +61,27 @@ Fodbygningen, se Art. <sp>Klovdyr</sp>.
 
 <chapter name="d. s.">
 <b>d. s.</b> (paa Recepter), <i>detur</i>, <i>signetur</i> ɔ: gives,
-signeres.</chapter>
+signeres.
+</chapter>
 
 <chapter name="D. Sc.">
 <b>D. Sc.</b> ['di.-e'si.], i England Forkortelse af
 <i>Doctor of Science</i> ['dåkt<sub>ə</sub>r-<sub>ə</sub>v-'sa^i<sub>ə</sub>ns] (Doktor i
-Naturvidenskab).</chapter>
+Naturvidenskab).
+</chapter>
 
 <chapter name="Dsch.">
 <b>Dsch.</b> (Ord, der ikke findes under Dsch., maa
-søges under <sp>Dj</sp>.).</chapter>
+søges under <sp>Dj</sp>.).
+</chapter>
 
 <chapter name="Dschat">
-<b>Dschat,</b> d. s. s. <sp>Djat</sp>.</chapter>
+<b>Dschat,</b> d. s. s. <sp>Djat</sp>.
+</chapter>
 
 <chapter name="Dschilam">
-<b>Dschilam,</b> d. s. s. <sp>Djelam</sp>.</chapter>
+<b>Dschilam,</b> d. s. s. <sp>Djelam</sp>.
+</chapter>
 
 <chapter name="Dschemila">
 <b>Dschemila</b> (<sp>Djimila</sp>, Romernes <i>Cuiculum</i>),
@@ -90,10 +95,12 @@ andre.
 </chapter>
 
 <chapter name="Dshurdshevo">
-<b>Dshurdshevo,</b> se <sp>Giurgevo</sp>.</chapter>
+<b>Dshurdshevo,</b> se <sp>Giurgevo</sp>.
+</chapter>
 
 <chapter name="Dsikr">
-<b>Dsikr,</b> se <sp>Dervish</sp>.</chapter>
+<b>Dsikr,</b> se <sp>Dervish</sp>.
+</chapter>
 
 <chapter name="Dsulfikâr">
 <b>Dsulfikâr</b> (arab. ɔ: udsmykket med indhugne

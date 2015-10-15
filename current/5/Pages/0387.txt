@@ -145,7 +145,8 @@ tilbage til Tertiærtiden. Hovedslægter: <i>Cypris</i>,
 </chapter>
 
 <chapter name="Cyprin">
-<b>Cyprin,</b> se <sp>Vesuvian</sp>.</chapter>
+<b>Cyprin,</b> se <sp>Vesuvian</sp>.
+</chapter>
 
 <chapter name="Cyprina-Leret">
 <b>Cyprina-Leret</b> ell. <sp>Eemlagene</sp> er en til

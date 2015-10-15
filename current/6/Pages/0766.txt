@@ -39,7 +39,8 @@ den samvittighedsløse Rænkesmed var i Live.
 </chapter>
 
 <chapter name="Edris">
-<b>Edris,</b> se <sp>Edrisider</sp>.</chapter>
+<b>Edris,</b> se <sp>Edrisider</sp>.
+</chapter>
 
 <chapter name="Edrisi, Abu Abdallah Muhammed esh-Sherif el- E.">
 <b>Edrisi,</b> <sp>Abu Abdallah Muhammed
@@ -95,7 +96,8 @@ Cordoba, dog kun for en ganske kort Tid.
 
 <chapter name="Edscitant">
 <b>Edscitant</b> kaldes den, der anlægger en
-Edssag (sml. <sp>Edsdom</sp>).</chapter>
+Edssag (sml. <sp>Edsdom</sp>).
+</chapter>
 
 <chapter name="Edsdom">
 <b>Edsdom.</b> I de Undtagelsestilfælde, hvor
@@ -134,10 +136,12 @@ Forbundsstat udviklet sig, se nærmere <sp>Schweiz</sp>
 </chapter>
 
 <chapter name="Edsformular">
-<b>Edsformular,</b> se <sp>Ed</sp>.</chapter>
+<b>Edsformular,</b> se <sp>Ed</sp>.
+</chapter>
 
 <chapter name="Edsfrist">
-<b>Edsfrist,</b> se <sp>Edsdom</sp>.</chapter>
+<b>Edsfrist,</b> se <sp>Edsdom</sp>.
+</chapter>
 
 <chapter name="Edshabilitet">
 <b>Edshabilitet.</b> Ed kan ikke aflægges for

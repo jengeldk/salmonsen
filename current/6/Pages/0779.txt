@@ -16,21 +16,22 @@ Grænser. Om Princippets Historie, se
 <sp>Okkupation</sp>. Ogsaa inden for en anden Del af
 Folkeretten, nemlig Blokadelæren, kan der tales om
 et E. Herom henvises til <sp>Blokade</sp>.
-<i>P. J. J.</i> ,</chapter>
+<i>P. J. J.</i>
+</chapter>
 
 <chapter name="effektiv Middelværdi">
 <b>effektiv Middelværdi.</b> Den e. M. af en
 med Tiden <i>t</i> periodisk vekslende Størrelse <i>a</i> er
 lig med Kvadratroden af Middelværdien af <i>a</i><sup>2</sup>
 over en hel Periode, med mat. Tegn:
-<img>
+<img></img>
 
 Anvendes særlig ved Strøm og Spænding ved
 Vekselstrøm. Ved Sinusform er
-Maksimalværdien kvadratroden(2) Gange den effektive Værdi. Ved et
+Maksimalværdien √2 Gange den effektive Værdi. Ved et
 Vekselstrømsanlæg, hvor Spændingen
 eksempelvis er 220 Volt, menes dermed den effektive
-Spænding. Den maksimale er da c. kvadratrod(2) X 220
+Spænding. Den maksimale er da c. √2 X 220
 = c. 311 Volt.
 <i>Abs. L.</i>
 </chapter>
@@ -66,23 +67,28 @@ saaledes at Lyset faar en gullig Farve. Se i øvrigt
 
 <chapter name="effektuere">
 <b>effektuere</b> (lat.), iværksætte, udrette,
-afsende bestilte Varer.</chapter>
+afsende bestilte Varer.
+</chapter>
 
 <chapter name="effen">
-<b>effen</b> (plattysk), lige (i Antal); ogsaa <sp>jævn</sp>.</chapter>
+<b>effen</b> (plattysk), lige (i Antal); ogsaa <sp>jævn</sp>.
+</chapter>
 
 <chapter name="effervescere">
 <b>effervescere</b> [-rse'-] (lat.), bruse op;
 <sp>Effervescens</sp>, Opbrusning; <sp>effervescént</sp>,
-opbrusende; <sp>Effervescéntia</sp>, Bruspulver.</chapter>
+opbrusende; <sp>Effervescéntia</sp>, Bruspulver.
+</chapter>
 
 <chapter name="effigies">
 <b>effigies</b> (lat.), Afbildning, Billede; <sp>brænde
 en</sp> <i>in effigie</i>, brænde et Billede, en Afbildning
-af ham.</chapter>
+af ham.
+</chapter>
 
 <chapter name="effilere">
-<b>effilere</b> (fr.), udtrævle.</chapter>
+<b>effilere</b> (fr.), udtrævle.
+</chapter>
 
 <chapter name="Effingham">
 <b>Effingham</b> ['ef<sub>i</sub>ŋ<sub>ə</sub>m], By i U. S. A., Stat

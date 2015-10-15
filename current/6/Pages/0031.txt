@@ -56,11 +56,13 @@ afløstes af et Udenrigsministerium.
 
 <chapter name="Departementschef">
 <b>Departementschef</b> [-'maŋ'sjæ'f], se
-<sp>Departement</sp>.</chapter>
+<sp>Departement</sp>.
+</chapter>
 
 <chapter name="Departementsdirektør">
 <b>Departementsdirektør</b> [-'maŋ-], se
-<sp>Departement</sp>.</chapter>
+<sp>Departement</sp>.
+</chapter>
 
 <chapter name="Departementssekretær">
 <b>Departementssekretær</b> [-'maŋ-]. Saaledes
@@ -108,7 +110,8 @@ Administration.
 
 <chapter name="departere">
 <b>departere</b> (lat.), fordele; <sp>Departition</sp>,
-Fordeling.</chapter>
+Fordeling.
+</chapter>
 
 <chapter name="Dépêche">
 <b>Dépêche</b> [de'pæsj<sub>ə</sub>, fr. -'pæ.∫] (fr. af <i>dépêcher</i>,
@@ -166,11 +169,13 @@ Ekspeditionen af de politiske Depecher (smlg.
 
 <chapter name="dependere">
 <b>dependere</b> (lat.), være undergiven, afhænge
-af, bero paa.</chapter>
+af, bero paa.
+</chapter>
 
 <chapter name="dépense">
 <b>dépense</b> [de'pã.s] (fr.), Udgift, Omkostning;
-<sp>depensere</sp>, bekoste, give ud, ødsle.</chapter>
+<sp>depensere</sp>, bekoste, give ud, ødsle.
+</chapter>
 
 <chapter name="Depere">
 <b>Depere</b> [d<sub>e</sub>'pi.<sub>ə</sub>], By i U. S. A., Stat

@@ -30,7 +30,8 @@ været gjort fast.
 
 <chapter name="Diskobolos">
 <b>Diskobolos</b> [græsk 'bo-], Diskoskaster, se
-<sp>Diskos</sp>.</chapter>
+<sp>Diskos</sp>.
+</chapter>
 
 <chapter name="Disko-Bugt">
 <b>Disko-Bugt</b> kaldes den Del af Baffins-Bugt,
@@ -65,7 +66,8 @@ dem.
 </chapter>
 
 <chapter name="diskontinuert">
-<b>diskontinuert,</b> se <sp>kontinuert</sp>.</chapter>
+<b>diskontinuert,</b> se <sp>kontinuert</sp>.
+</chapter>
 
 <chapter name="Diskontinuitetsprincippet">
 <b>Diskontinuitetsprincippet.</b> Derved forstaas
@@ -152,7 +154,8 @@ Diskontering af Veksler.
 </chapter>
 
 <chapter name="Diskontoforretning">
-<b>Diskontoforretning,</b> se <sp>Diskonto</sp>.</chapter>
+<b>Diskontoforretning,</b> se <sp>Diskonto</sp>.
+</chapter>
 
 <chapter name="Diskontoregning">
 <b>Diskontoregning.</b> D. er at finde det Beløb,

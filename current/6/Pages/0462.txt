@@ -39,10 +39,12 @@ Ornithologie«, Aarg. 62]).
 
 <chapter name="Drosselbær">
 <b>Drosselbær,</b> Navn for Frugterne af Hæg
-(se <sp>Kirsebærtræ</sp>).</chapter>
+(se <sp>Kirsebærtræ</sp>).
+</chapter>
 
 <chapter name="Drosselfugle">
-<b>Drosselfugle,</b> se <sp>Drossel</sp>.</chapter>
+<b>Drosselfugle,</b> se <sp>Drossel</sp>.
+</chapter>
 
 <chapter name="Drosselklap">
 <b>Drosselklap</b> (<sp>Drøbelklap</sp>, <sp>Drøvlen</sp>),
@@ -53,16 +55,20 @@ Regulering af Maskinens Gang.
 </chapter>
 
 <chapter name="Drosselmaskine">
-<b>Drosselmaskine,</b> se <sp>Spinding</sp>.</chapter>
+<b>Drosselmaskine,</b> se <sp>Spinding</sp>.
+</chapter>
 
 <chapter name="Drosselrørsanger">
-<b>Drosselrørsanger,</b> se <sp>Rørsangere</sp>.</chapter>
+<b>Drosselrørsanger,</b> se <sp>Rørsangere</sp>.
+</chapter>
 
 <chapter name="Drosselstol">
-<b>Drosselstol,</b> se <sp>Spinding</sp>.</chapter>
+<b>Drosselstol,</b> se <sp>Spinding</sp>.
+</chapter>
 
 <chapter name="Drosselventil">
-<b>Drosselventil,</b> se <sp>Ventil</sp>.</chapter>
+<b>Drosselventil,</b> se <sp>Ventil</sp>.
+</chapter>
 
 <chapter name="Drossen">
 <b>Drossen</b> ['drås<sub>ə</sub>n], By i Preussen, Provins

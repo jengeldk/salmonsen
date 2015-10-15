@@ -57,7 +57,8 @@ har Paulin Paris skildret hans Liv.
 </chapter>
 
 <chapter name="Duval, E.">
-<b>Duval</b> [dy'val], <sp>E.</sp>, se <sp>Amaury-Duval</sp>.</chapter>
+<b>Duval</b> [dy'val], <sp>E.</sp>, se <sp>Amaury-Duval</sp>.
+</chapter>
 
 <chapter name="Duval, Mathias Marie">
 <b>Duval</b> [dy'val], <sp>Mathias Marie</sp>, fr.
@@ -88,7 +89,8 @@ Fysiologi og en Anatomi for Kunstnere.
 </chapter>
 
 <chapter name="Duval, Raoul">
-<b>Duval</b> [dy'val], <sp>Raoul</sp>, se <sp>Raoul-Duval</sp>.</chapter>
+<b>Duval</b> [dy'val], <sp>Raoul</sp>, se <sp>Raoul-Duval</sp>.
+</chapter>
 
 <chapter name="Duval, Valentin">
 <b>Duval</b> [dy'val], <sp>Valentin</sp>, fr. Historiker
@@ -126,7 +128,8 @@ Graminées</i> etc.).
 </chapter>
 
 <chapter name="duve">
-<b>duve,</b> se <sp>Duvning</sp>.</chapter>
+<b>duve,</b> se <sp>Duvning</sp>.
+</chapter>
 
 <chapter name="Duved">
 <b>Duved</b> (ældre : <sp>Dufed</sp>), Jernbanestation i

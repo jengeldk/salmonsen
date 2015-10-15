@@ -152,5 +152,6 @@ Slægt«, et Mindeskrift ved <sp>L. C. Nielsen</sp>,
 
 <chapter name="Deichmannske Bibliotek">
 <b>Deichmannske Bibliotek,</b> se
-<sp>Folkebiblioteker</sp>.</chapter>
+<sp>Folkebiblioteker</sp>.
+</chapter>
 

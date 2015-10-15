@@ -74,7 +74,8 @@ Guldmedaille i München).
 </chapter>
 
 <chapter name="Dieze">
-<b>Dieze</b> ['di.<sub>ə</sub>z], se <sp>Dommel</sp>.</chapter>
+<b>Dieze</b> ['di.<sub>ə</sub>z], se <sp>Dommel</sp>.
+</chapter>
 
 <chapter name="Diezmann, Johann August">
 <b>Diezmann</b> ['di.tsman], <sp>Johann August</sp>,
@@ -91,14 +92,16 @@ sidste er i vore Dage blevet udg. paa ny.
 <b>Difenal</b> faas som en brun Væske af en
 Opløsning af Diamidooxidifenyl i et Alkalihydrat
 ved Tilsætning af Natriumsulfit. D. anvendes til
-Fremstilling af fotografiske Fremkaldere.</chapter>
+Fremstilling af fotografiske Fremkaldere.
+</chapter>
 
 <chapter name="Difensyre">
 <b>Difensyre,</b> Difenyldicarbonsyre, C0<sub>2</sub>H(C<sub>6</sub>
 H<sub>4</sub>)<sub>2</sub>.C0<sub>2</sub>H, faas ved Iltning af Fenantren ell.
 Fenantrenkinon med Kromsyre og danner
 krystallinske Blade ell. Prismer, der er
-letopløselige i varmt Vand og smelter ved 228-229°.</chapter>
+letopløselige i varmt Vand og smelter ved 228-229°.
+</chapter>
 
 <chapter name="Difenyl">
 <b>Difenyl,</b> C<sub>6</sub>H<sub>5</sub>.C<sub>6</sub>H<sub>5</sub>, dannes ved Indvirkning
@@ -157,10 +160,12 @@ Farvning af Silke, Uld og Bomuld.
 
 <chapter name="Difenylaminorange">
 <b>Difenylaminorange</b> [-'raŋsjə], d. s. s.
-<sp>Tropæolin</sp> O O.</chapter>
+<sp>Tropæolin</sp> O O.
+</chapter>
 
 <chapter name="Difenylenimid">
-<b>Difenylenimid,</b> d. s. s. <sp>Karbazol</sp>.</chapter>
+<b>Difenylenimid,</b> d. s. s. <sp>Karbazol</sp>.
+</chapter>
 
 <chapter name="Difenylmetan">
 <b>Difenylmetan,</b> Benzylbenzol, C<sub>8</sub>H<sub>5</sub>.CH<sub>2</sub>.C<sub>6</sub>H<sub>5</sub>,

@@ -26,7 +26,8 @@ X, 1907]).
 
 <chapter name="Correia Botêlho, Visconde de">
 <b>Correia Botêlho</b> [ku'raj<sub>ə</sub>-bu'tal<sub>ju</sub>],
-<sp>Visconde de</sp>, se <sp>Castello-Branco, C</sp>.</chapter>
+<sp>Visconde de</sp>, se <sp>Castello-Branco, C</sp>.
+</chapter>
 
 <chapter name="Correlata">
 <b>Correlata</b> (lat.) betegner i Psykologien en

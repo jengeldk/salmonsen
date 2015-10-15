@@ -8,10 +8,12 @@ Perserne, D. til Apollons Tempel i Delfoi.
 </chapter>
 
 <chapter name="Dekatering">
-<b>Dekatering,</b> se <sp>Appretur</sp>.</chapter>
+<b>Dekatering,</b> se <sp>Appretur</sp>.
+</chapter>
 
 <chapter name="Dekatylsyre">
-<b>Dekatylsyre,</b> d. s. s. <sp>Kaprinsyre</sp>.</chapter>
+<b>Dekatylsyre,</b> d. s. s. <sp>Kaprinsyre</sp>.
+</chapter>
 
 <chapter name="Dekeleia">
 <b><sp>Dekeleia</sp></b> ['læ^i-, gr. -'ke'-], Demos i Attika
@@ -25,7 +27,8 @@ undertiden den <sp>dekeleiske</sp> (413-404).
 </chapter>
 
 <chapter name="Dekhan">
-<b>Dekhan</b>, se <sp>Dekan</sp>.</chapter>
+<b>Dekhan</b>, se <sp>Dekan</sp>.
+</chapter>
 
 <chapter name="Dekke, Ananias Christopher Hansen">
 <b>Dekke,</b> <sp>Ananias Christopher

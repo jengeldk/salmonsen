@@ -78,7 +78,8 @@ posthumes de C.</i> (3 Bd, Paris 1806-09).
 </chapter>
 
 <chapter name="Cormoran">
-<b>Cormoran</b> [fr. kårmå'rã], se <sp>Skarv</sp>.</chapter>
+<b>Cormoran</b> [fr. kårmå'rã], se <sp>Skarv</sp>.
+</chapter>
 
 <chapter name="Cormorne">
 <b>Cormorne</b> [kår'mårn] (fr., ogsaa <i>cromorne</i>,
@@ -90,10 +91,12 @@ Intonation.
 </chapter>
 
 <chapter name="corn">
-<b>corn</b> [kå.<sub>ə</sub>n], i Amerika d. s. s. Majs.</chapter>
+<b>corn</b> [kå.<sub>ə</sub>n], i Amerika d. s. s. Majs.
+</chapter>
 
 <chapter name="Cornaceæ">
-<b>Cornaceæ,</b> se <sp>Kornelfamilien</sp>.</chapter>
+<b>Cornaceæ,</b> se <sp>Kornelfamilien</sp>.
+</chapter>
 
 <chapter name="cornamusa">
 <b>cornamusa</b> [-'muza] (ital.; fr. <i>cornemuse</i>),
@@ -151,11 +154,13 @@ forsteningsrige Kalk- og Mergelaflejringer.
 </chapter>
 
 <chapter name="Cornea">
-<b>Cornea,</b> d. s. s. <sp>Hornhinde</sp> (se <sp>Øje</sp>).</chapter>
+<b>Cornea,</b> d. s. s. <sp>Hornhinde</sp> (se <sp>Øje</sp>).
+</chapter>
 
 <chapter name="corned beef">
 <b>corned beef</b> ['kå.<sub>ə</sub>nd-'bi.f], se
-<sp>Konservering</sp>.</chapter>
+<sp>Konservering</sp>.
+</chapter>
 
 <chapter name="Corneille, 1) Pierre, 2) Thomas">
 <b>Corneille</b> [kår'næ.j], 1) <sp>Pierre</sp>, fr. dram.

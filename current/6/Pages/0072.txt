@@ -62,11 +62,13 @@ gens de lettres.</i>
 
 <chapter name="Desodorisation">
 <b>Desodorisation,</b> Rensning for ilde Lugt, se
-<sp>Desinfektion</sp>.</chapter>
+<sp>Desinfektion</sp>.
+</chapter>
 
 <chapter name="Desolation Land">
 <b>Desolation Land</b> [des<sub>ə</sub>'£e<sub>i</sub>∫<sub>ə</sub>n-'£änd], se
-<sp>Kerguelen</sp>.</chapter>
+<sp>Kerguelen</sp>.
+</chapter>
 
 <chapter name="Desor, Eduard">
 <b>Desor</b> [d<sub>ö</sub>'zå.r], <sp>Eduard</sp>, schweizisk Geolog,
@@ -97,7 +99,8 @@ Medarbejder <i>Le bel âge du bronze lacustre en Suisse</i>
 
 <chapter name="désordre">
 <b>désordre</b> [de'zårdr<sub>ö</sub>] (fransk), Uorden,
-Forvirring.</chapter>
+Forvirring.
+</chapter>
 
 <chapter name="desorganisere">
 <b>desorganisere</b> (af fr. <i>désorganiser</i>), bringe
@@ -106,14 +109,17 @@ den fuldstændige Tilintetgørelse af al
 Organisation, abnorm Forandring i en Organisme,
 hvorved denne taber de til den normalt
 knyttede Livsytringer; Forvirring i Stats- ell.
-Privatanliggender.</chapter>
+Privatanliggender.
+</chapter>
 
 <chapter name="Desoria">
-<b>Desoria,</b> se <sp>Gletscherloppe</sp>.</chapter>
+<b>Desoria,</b> se <sp>Gletscherloppe</sp>.
+</chapter>
 
 <chapter name="desorientere">
 <b>desorientere</b> (af fr. <i>dèsorienter</i>), gøre
-forvirret, forvirre.</chapter>
+forvirret, forvirre.
+</chapter>
 
 <chapter name="Desorientering">
 <b>Desorientering</b> (fr.), manglende Klarhed hos
@@ -135,7 +141,8 @@ D. driver Handel og Industri.
 </chapter>
 
 <chapter name="Desoxydation">
-<b>Desoxydation</b> (lat.), Afiltning, se <sp>Reduktion</sp>.</chapter>
+<b>Desoxydation</b> (lat.), Afiltning, se <sp>Reduktion</sp>.
+</chapter>
 
 <chapter name="Despagnet, Frantz">
 <b>Despagnet</b> [dæpa'n<sub>j</sub>æ], <sp>Frantz</sp>, fr.
@@ -169,7 +176,8 @@ de l'Institut de droit international</i> XXI (1907) S.
 
 <chapter name="despektere">
 <b>despektere</b> (lat.), se ned paa, foragte;
-<sp>Despékt</sp>, Foragt (modsat Respekt).</chapter>
+<sp>Despékt</sp>, Foragt (modsat Respekt).
+</chapter>
 
 <chapter name="Despeñaperros">
 <b>Despeñaperros</b> [ðæspæn<sub>j</sub>a'pær.<sub>å</sub>s] (<sp>Puerto

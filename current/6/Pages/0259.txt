@@ -52,7 +52,8 @@ Storhed.
 </chapter>
 
 <chapter name="Djanawi">
-<b>Djanawi,</b> Biflod til Ganges.</chapter>
+<b>Djanawi,</b> Biflod til Ganges.
+</chapter>
 
 <chapter name="Djandjaro">
 <b>Djandjaro</b> (<sp>Gingiro</sp>, <sp>Yangaro</sp>),
@@ -85,12 +86,14 @@ Besiddelser.
 
 <chapter name="Djaora">
 <b>Djaora,</b> indobritisk Vasalstat i Centralindien,
-1471 km<sup>2</sup> med (1911) 75951 Indb.</chapter>
+1471 km<sup>2</sup> med (1911) 75951 Indb.
+</chapter>
 
 <chapter name="Djapara">
 <b>Djapara</b> (<sp>Japara</sp>), fhv. Residensskab paa
 Nordkysten af Java mellem Bugterne ved
-Semarang og Rembang, nu forenet med Semarang.</chapter>
+Semarang og Rembang, nu forenet med Semarang.
+</chapter>
 
 <chapter name="Djarun">
 <b>Djarun,</b> By i den pers. Prov. Farsistan midt
@@ -101,7 +104,8 @@ findes Petroleumskilder.
 </chapter>
 
 <chapter name="Djasalmir">
-<b>Djasalmir,</b> d. s. s. <sp>Djaisalmir</sp>.</chapter>
+<b>Djasalmir,</b> d. s. s. <sp>Djaisalmir</sp>.
+</chapter>
 
 <chapter name="Djask">
 <b>Djask,</b> Forbjerg paa Persiens Sydkyst ved
@@ -111,7 +115,8 @@ D. med 3000 Indb.
 </chapter>
 
 <chapter name="Djassaur">
-<b>Djassaur</b> [-'sâr], se <sp>Djessor</sp>.</chapter>
+<b>Djassaur</b> [-'sâr], se <sp>Djessor</sp>.
+</chapter>
 
 <chapter name="Djat">
 <b>Djat</b> (eng. <sp>Jat</sp>), Folkestamme i det østlige
@@ -147,7 +152,8 @@ Englænderne.
 </chapter>
 
 <chapter name="Djauf">
-<b>Djauf</b> [dзa^uf], se <sp>Djof</sp>.</chapter>
+<b>Djauf</b> [dзa^uf], se <sp>Djof</sp>.
+</chapter>
 
 <chapter name="Djaunpur">
 <b>Djaunpur</b> [dзa^un-] (eng. <sp>Jaunpur</sp>).
@@ -165,33 +171,41 @@ endnu om dens fordums Pragt.
 </chapter>
 
 <chapter name="Djaveolie">
-<b>Djaveolie,</b> se <sp>Bassiasmør</sp>.</chapter>
+<b>Djaveolie,</b> se <sp>Bassiasmør</sp>.
+</chapter>
 
 <chapter name="Djebado">
-<b>Djebado,</b> se <sp>Djerba</sp>.</chapter>
+<b>Djebado,</b> se <sp>Djerba</sp>.
+</chapter>
 
 <chapter name="Djebb">
-<b>Djebb,</b> se <sp>Juba</sp>.</chapter>
+<b>Djebb,</b> se <sp>Juba</sp>.
+</chapter>
 
 <chapter name="Djebel">
 <b>Djebel</b> (arab.) bet. Bjerg og forekommer som
-Led i en Mængde geografiske Egennavne.</chapter>
+Led i en Mængde geografiske Egennavne.
+</chapter>
 
 <chapter name="Djebel el Tarik">
 <b>Djebel el Tarik,</b> »Tariks Bjerg«, det gamle
 arab. Navn paa Gibraltar-Klippen, opkaldt efter
 den arab. Hærfører Tarik, der 711 satte fra
 Afrika over til Spanien.
-<b>C. A.</b></chapter>
+<i>C. A.</i>
+</chapter>
 
 <chapter name="Djebel Eslamie">
-<b>Djebel Eslamie,</b> Bjerg i Palæstina, se <sp>Ebal</sp>.</chapter>
+<b>Djebel Eslamie,</b> Bjerg i Palæstina, se <sp>Ebal</sp>.
+</chapter>
 
 <chapter name="Djebel mar-Elias">
-<b>Djebel mar-Elias,</b> se <sp>Karmel</sp>.</chapter>
+<b>Djebel mar-Elias,</b> se <sp>Karmel</sp>.
+</chapter>
 
 <chapter name="Djebel Musa">
-<b>Djebel Musa,</b> se <sp>Sinai</sp>.</chapter>
+<b>Djebel Musa,</b> se <sp>Sinai</sp>.
+</chapter>
 
 <chapter name="Djebel Shammar">
 <b>Djebel Shammar,</b> Bjergkæde i det Indre
@@ -202,11 +216,13 @@ højeste Punkt er <sp>D. Adja</sp>.
 </chapter>
 
 <chapter name="Djedda">
-<b>Djedda,</b> d. s. s. <sp>Djidda</sp>.</chapter>
+<b>Djedda,</b> d. s. s. <sp>Djidda</sp>.
+</chapter>
 
 <chapter name="Djedid">
 <b>Djedid</b> (arab.) bet. ny og forekommer
-sammensat i fl. geogr. Egennavne.</chapter>
+sammensat i fl. geogr. Egennavne.
+</chapter>
 
 <chapter name="Djehan">
 <b>Djehan</b> ell. <sp>Djahan</sp> (Dshahan), Stormogul,

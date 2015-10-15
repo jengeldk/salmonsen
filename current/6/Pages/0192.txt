@@ -19,13 +19,16 @@ Farveteknikken.
 </chapter>
 
 <chapter name="Dimetylbenzol">
-<b>Dimetylbenzol,</b> d. s. s. <sp>Xylol</sp>.</chapter>
+<b>Dimetylbenzol,</b> d. s. s. <sp>Xylol</sp>.
+</chapter>
 
 <chapter name="Dimetylkarbinol">
-<b>Dimetylkarbinol,</b> se <sp>Propylalkohol</sp>.</chapter>
+<b>Dimetylkarbinol,</b> se <sp>Propylalkohol</sp>.
+</chapter>
 
 <chapter name="Dimetylketon">
-<b>Dimetylketon,</b> se <sp>Acetone</sp>.</chapter>
+<b>Dimetylketon,</b> se <sp>Acetone</sp>.
+</chapter>
 
 <chapter name="Dimetylætylkarbinol">
 <b>Dimetylætylkarbinol,</b> (CH<sub>3</sub>)<sub>2</sub>C(OH)C<sub>2</sub>H<sub>5</sub>, er
@@ -53,7 +56,8 @@ Tonestyrke; antydes ofte ved Tegnet >; d. s. s.
 
 <chapter name="diminuere">
 <b>diminuere</b> (lat.), forringe, formindske;
-<sp>Diminution</sp>, Formindskelse; se ndf.</chapter>
+<sp>Diminution</sp>, Formindskelse; se ndf.
+</chapter>
 
 <chapter name="Diminution">
 <b>Diminution</b> (lat.), Formindskelse (af Noderne),
@@ -143,7 +147,8 @@ af <sp>Kok</sp> (en Hane), <sp>Gæsling</sp> af <sp>Gaas</sp>. Se
 <b>Dimisprædiken</b> kaldes den homiletiske Prøve,
 som teol. Kandidater maa aflægge, før de kan
 faa Embede i den danske og norske
-Folkekirke.</chapter>
+Folkekirke.
+</chapter>
 
 <chapter name="Dimission">
 <b>Dimission</b> (lat.), Entledigelse, Frigivelse,

@@ -54,19 +54,23 @@ Pladsen paa c. blev for indskrænket, og alene
 
 <chapter name="commandant">
 <b>commandant</b> [kåmã'dã], se
-<sp>Kommandant</sp>.</chapter>
+<sp>Kommandant</sp>.
+</chapter>
 
 <chapter name="Commanderivine">
 <b>Commanderivine</b> [fr. kåmã'dri-], se
-<sp>Cypervine</sp>.</chapter>
+<sp>Cypervine</sp>.
+</chapter>
 
 <chapter name="comme chez nous">
 <b>comme chez nous</b> [kåm-∫e-'nu] (fr.),
-ligesom hos os.</chapter>
+ligesom hos os.
+</chapter>
 
 <chapter name="comme ci comme ça">
 <b>comme ci comme ça</b> [kåm-'si-kåm-'sa] (fr.),
-nogenlunde, saa som saa.</chapter>
+nogenlunde, saa som saa.
+</chapter>
 
 <chapter name="Commedia">
 <b>Commedia</b> (ital.) bruges fra det 16. Aarh. i

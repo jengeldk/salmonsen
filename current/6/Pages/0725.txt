@@ -4,10 +4,12 @@ ynder en solrig Vokseplads.
 </chapter>
 
 <chapter name="Echiurus">
-<b>Echiurus</b> [-ki-], se <sp>Pølseorme</sp>.</chapter>
+<b>Echiurus</b> [-ki-], se <sp>Pølseorme</sp>.
+</chapter>
 
 <chapter name="Echo">
-<b>Echo</b> ['æko] (Lyd), se <sp>Ekko</sp>.</chapter>
+<b>Echo</b> ['æko] (Lyd), se <sp>Ekko</sp>.
+</chapter>
 
 <chapter name="Echo, en Bjergnymfe">
 <b>Echo</b> ['e.ko.] (gr.: Lyd, Genlyd), en
@@ -35,7 +37,8 @@ Ankomst til Vesten.
 </chapter>
 
 <chapter name="Echofrasi">
-<b>Echofrasi</b> [-ko-] (gr.), d. s. s. <sp>Echolali</sp>.</chapter>
+<b>Echofrasi</b> [-ko-] (gr.), d. s. s. <sp>Echolali</sp>.
+</chapter>
 
 <chapter name="Echokinesi">
 <b>Echokinesi</b> [-ko-] (gr.), meningsløs
@@ -58,15 +61,18 @@ særlig den saakaldte Katatoni.
 
 <chapter name="Echomimi">
 <b>Echomimi</b> [-ko-], Efterligning af et andet
-Menneskes Ansigtsudtryk.</chapter>
+Menneskes Ansigtsudtryk.
+</chapter>
 
 <chapter name="Echopraksi">
-<b>Echopraksi</b> [-ko-], d. s. s. <sp>Echokinesi</sp>.</chapter>
+<b>Echopraksi</b> [-ko-], d. s. s. <sp>Echokinesi</sp>.
+</chapter>
 
 <chapter name="Echosymptom">
 <b>Echosymptom</b> [-ko-], Fællesbetegnelse for
 de ovenn. Sygdomssymptomer, Echolali,
-Echomimi o. s. v.</chapter>
+Echomimi o. s. v.
+</chapter>
 
 <chapter name="Echter, Michael">
 <b>Echter</b> ['æKt<sub>ə</sub>r], <sp>Michael</sp>, tysk
@@ -184,7 +190,8 @@ et af de varmeste Steder i Spanien.
 
 <chapter name="Eciton">
 <b>Eciton</b> ['e'-], berygtet Slægt af sydamer.
-Amazonmyrer ell. Hærmyrer, se <sp>Myrer</sp>.</chapter>
+Amazonmyrer ell. Hærmyrer, se <sp>Myrer</sp>.
+</chapter>
 
 <chapter name="Eck, Ernst Wilhelm Eberhard">
 <b>Eck</b> [æk], <sp>Ernst Wilhelm Eberhard</sp>,

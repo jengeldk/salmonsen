@@ -1,6 +1,7 @@
 <chapter name="Déchargebeklædning">
 <b>Déchargebeklædning</b> [de'sjarsj<sub>ə</sub>-], se
-<sp>Beklædningsmur</sp>.</chapter>
+<sp>Beklædningsmur</sp>.
+</chapter>
 
 <chapter name="Dechen, Heinrich von">
 <b>Dechen</b> ['dæk<sub>ə</sub>n], <sp>Heinrich von</sp>, tysk
@@ -29,7 +30,8 @@ Descloizit.
 </chapter>
 
 <chapter name="dechifrere">
-<b>dechifrere</b> [-∫i-], se <sp>Lønskrift</sp>.</chapter>
+<b>dechifrere</b> [-∫i-], se <sp>Lønskrift</sp>.
+</chapter>
 
 <chapter name="Deci-">
 <b>Deci-,</b> af det lat. <i>décem</i> - ti, sættes foran
@@ -41,7 +43,8 @@ v., se <sp>metrisk Maal</sp>.
 </chapter>
 
 <chapter name="decidere">
-<b>decidere</b> (lat.), afgøre, bestemme.</chapter>
+<b>decidere</b> (lat.), afgøre, bestemme.
+</chapter>
 
 <chapter name="Decidua">
 <b>Decidua</b> (lat.) ell. <i>Membrana d.</i> (paa Fransk
@@ -80,16 +83,20 @@ Menstruationsblødningens Tid <i>D. menstrualis</i>.
 </chapter>
 
 <chapter name="Decigram">
-<b>Decigram,</b> 1/10 g, se <sp>metrisk Maal</sp>.</chapter>
+<b>Decigram,</b> 1/10 g, se <sp>metrisk Maal</sp>.
+</chapter>
 
 <chapter name="Deciliter">
-<b>Deciliter,</b> 1/10 l, se <sp>metrisk Maal</sp>.</chapter>
+<b>Deciliter,</b> 1/10 l, se <sp>metrisk Maal</sp>.
+</chapter>
 
 <chapter name="decima">
-<b>decima</b> (lat.), Tiendedel, Tiende.</chapter>
+<b>decima</b> (lat.), Tiendedel, Tiende.
+</chapter>
 
 <chapter name="Decimal">
-<b>Decimal,</b> se <sp>Decimalbrøk</sp>.</chapter>
+<b>Decimal,</b> se <sp>Decimalbrøk</sp>.
+</chapter>
 
 <chapter name="Decimalbrøk">
 <b>Decimalbrøk.</b> Naar et helt Tal er skrevet

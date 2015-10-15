@@ -9,7 +9,8 @@ Akter vedrørende en bestemt Sag. -
 <sp>D.-System</sp>, den i et Arkiv brugte Fremgangsmaade,
 ved hvilken man samler alle Aktstykker, der
 vedrører samme Sag ell. Person, i et Hele for
-sig selv. </chapter>
+sig selv.
+</chapter>
 
 <chapter name="Dost Muhammed Khan">
 <b>Dost Muhammed Khan,</b> Grundlæggeren af

@@ -78,11 +78,13 @@ Middelbredde af 7,3 m og en Dybde af 3,7 m.
 </chapter>
 
 <chapter name="Crinoidea">
-<b>Crinoidea,</b> se <sp>Sølillier</sp>.</chapter>
+<b>Crinoidea,</b> se <sp>Sølillier</sp>.
+</chapter>
 
 <chapter name="Crin végétal">
 <b>Crin végétal</b> ['kræ-veзe'tal], se <sp>Krølhaar</sp>,
-<sp>vegetabilsk</sp>.</chapter>
+<sp>vegetabilsk</sp>.
+</chapter>
 
 <chapter name="Crioceras">
 <b>Crioceras,</b> en Slægt af Ammoniter, hvis Skal
@@ -94,7 +96,8 @@ i Aflejringer fra den ældre Del af Kridtperioden.
 </chapter>
 
 <chapter name="Crioceris">
-<b>Crioceris,</b> se <sp>Bladbiller</sp>.</chapter>
+<b>Crioceris,</b> se <sp>Bladbiller</sp>.
+</chapter>
 
 <chapter name="Cripple Creek">
 <b>Cripple Creek</b> ['krip£-'kri.k], By i U. S. A.,

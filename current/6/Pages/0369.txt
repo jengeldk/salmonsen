@@ -18,7 +18,8 @@ Dage.
 </chapter>
 
 <chapter name="Dovercourt">
-<b>Dovercourt</b> ['do<sub>u</sub>vəkå<sub>ə</sub>t], se <sp>Harwich</sp>.</chapter>
+<b>Dovercourt</b> ['do<sub>u</sub>vəkå<sub>ə</sub>t], se <sp>Harwich</sp>.
+</chapter>
 
 <chapter name="Dover-Mølle-Grund">
 <b>Dover-Mølle-Grund,</b> lille, landløs Grund i
@@ -47,7 +48,8 @@ gennem V. til N.
 </chapter>
 
 <chapter name="D'Ovidio">
-<b>D'Ovidio,</b> se <sp>Ovidio</sp>.</chapter>
+<b>D'Ovidio,</b> se <sp>Ovidio</sp>.
+</chapter>
 
 <chapter name="Dovns-Klint">
 <b>Dovns-Klint,</b> høj, hvid Klint, der danner

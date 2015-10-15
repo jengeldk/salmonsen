@@ -152,7 +152,8 @@ en brækket Knogle.
 </chapter>
 
 <chapter name="Diastema">
-<b>Diastema,</b> gr. Betegnelse for <sp>Interval</sp>.</chapter>
+<b>Diastema,</b> gr. Betegnelse for <sp>Interval</sp>.
+</chapter>
 
 <chapter name="Diastole">
 <b>Diastole</b> [græsk -'le.], 1) i Metrikken

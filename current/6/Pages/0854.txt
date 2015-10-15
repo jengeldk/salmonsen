@@ -95,7 +95,8 @@ Beskrivelse over E.« [Drammen 1887]).
 </chapter>
 
 <chapter name="Ekernførde">
-<b>Ekernførde,</b> d. s. s. <sp>Eckernförde</sp>.</chapter>
+<b>Ekernførde,</b> d. s. s. <sp>Eckernförde</sp>.
+</chapter>
 
 <chapter name="Ekhof, Hans Konrad Dietrich">
 <b>Ekhof</b> ['ækho.f], <sp>Hans Konrad

@@ -109,10 +109,12 @@ Følelse, men langt mere snakkesalig Banalitet.
 D.'s Lejlighedsdigte, Improvisationer og
 Rimbreve var præget af lyst Humør og et somme
 Tider ganske grovkornet Lune.
-<i>E. S-n.</i>.</chapter>
+<i>E. S-n.</i>
+</chapter>
 
 <chapter name="Dorothealillie">
-<b>Dorothealillie</b> [-'te.-], se <sp>Leucojum</sp>.</chapter>
+<b>Dorothealillie</b> [-'te.-], se <sp>Leucojum</sp>.
+</chapter>
 
 <chapter name="Dorotheæ Komedie">
 <b>Dorotheæ Komedie</b> [-'te.-], den danske
@@ -127,7 +129,8 @@ tre ældste danske Skuespil« [1874];
 </chapter>
 
 <chapter name="Dorp">
-<b>Dorp</b> [dårp], se <sp>Solingen</sp>.</chapter>
+<b>Dorp</b> [dårp], se <sp>Solingen</sp>.
+</chapter>
 
 <chapter name="Dorpat">
 <b>Dorpat</b> ['dår-], siden 1893 officielt kaldet

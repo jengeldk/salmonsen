@@ -92,7 +92,8 @@ og det engelsktalende Nordamerika.
 </chapter>
 
 <chapter name="Davyn">
-<b>Davyn,</b> se <sp>Nefelin</sp>.</chapter>
+<b>Davyn,</b> se <sp>Nefelin</sp>.
+</chapter>
 
 <chapter name="Davy's Sikkerhedslampe">
 <b>Davy's Sikkerhedslampe</b> ['de<sub>i</sub>v<sub>i</sub>s-] finder

@@ -17,19 +17,23 @@ gældende Regler« [1884]).
 </chapter>
 
 <chapter name="Doktorand">
-<b>Doktorand,</b> se <sp>Doktor</sp>.</chapter>
+<b>Doktorand,</b> se <sp>Doktor</sp>.
+</chapter>
 
 <chapter name="Doktorat">
 <b>Doktorat</b> (lat.), Indehavelsen af
-Doktorgraden (se <sp>Doktor</sp>).</chapter>
+Doktorgraden (se <sp>Doktor</sp>).
+</chapter>
 
 <chapter name="doktorere">
 <b>doktorere,</b> foreskrive Lægemidler (særlig
-med spottende Bet.), drive Kvaksalveri.</chapter>
+med spottende Bet.), drive Kvaksalveri.
+</chapter>
 
 <chapter name="Doktrin">
 <b>Doktrin</b> (lat.), Lære, Teori, Videnskab,
-ogsaa <sp>Lærefag</sp>.</chapter>
+ogsaa <sp>Lærefag</sp>.
+</chapter>
 
 <chapter name="doktrinær">
 <b>doktrinær</b> kaldes den, der med pedantisk

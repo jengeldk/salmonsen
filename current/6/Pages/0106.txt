@@ -82,12 +82,14 @@ Anatomi« [Kbhvn 1910, Disp.]).
 </chapter>
 
 <chapter name="Diabetiker">
-<b>Diabetiker,</b> Patient lidende af Diabetes.</chapter>
+<b>Diabetiker,</b> Patient lidende af Diabetes.
+</chapter>
 
 <chapter name="diable">
 <b>diable</b> ['d<sub>i</sub>a.bl] (fransk), Djævel. <i>Diablerie</i>
 [d<sub>i</sub>abl<sub>ö</sub>'ri], Djævelskab, Hekseri, Navn paa en
-Art Skuespil hørende til Moraliteterne.</chapter>
+Art Skuespil hørende til Moraliteterne.
+</chapter>
 
 <chapter name="Diablerets">
 <b>Diablerets,</b> <sp>les</sp> [læ-d<sub>i</sub>abl<sub>ö</sub>'ræ], stejlt
@@ -102,16 +104,20 @@ bred.
 <chapter name="Diabolos">
 <b>Diabolos</b> (gr., egl. »Bagvadsker«), Djævel;
 deraf <sp>diabolsk</sp>, d. s. s. djævelsk;
-<sp>Diabolisme</sp>, Djævelsværk, Djævleherredømme.</chapter>
+<sp>Diabolisme</sp>, Djævelsværk, Djævleherredømme.
+</chapter>
 
 <chapter name="diabolsk">
-<b>diabolsk,</b> se Diabolos.</chapter>
+<b>diabolsk,</b> se Diabolos.
+</chapter>
 
 <chapter name="Diacetamid">
-<b>Diacetamid,</b> se <sp>Acetamid</sp>.</chapter>
+<b>Diacetamid,</b> se <sp>Acetamid</sp>.
+</chapter>
 
 <chapter name="Diaceturi">
-<b>Diaceturi,</b> se <sp>Acetonuri</sp>.</chapter>
+<b>Diaceturi,</b> se <sp>Acetonuri</sp>.
+</chapter>
 
 <chapter name="Diacetyl">
 <b>Diacetyl,</b> CH<sub>3</sub>.CO.CO.CH<sub>3</sub>, er en Diketon,
@@ -140,13 +146,16 @@ Blyplaster og 7 Dele Vaselinolie.
 </chapter>
 
 <chapter name="Diacodion">
-<b>Diacodion</b> (Saft), d. s. s. <sp>Valmuesaft</sp>.</chapter>
+<b>Diacodion</b> (Saft), d. s. s. <sp>Valmuesaft</sp>.
+</chapter>
 
 <chapter name="Diaconus">
-<b>Diaconus,</b> se <sp>Diakon</sp>.</chapter>
+<b>Diaconus,</b> se <sp>Diakon</sp>.
+</chapter>
 
 <chapter name="Diadelfit">
-<b>Diadelfit,</b> d. s. s. <sp>Hæmatolit</sp>.</chapter>
+<b>Diadelfit,</b> d. s. s. <sp>Hæmatolit</sp>.
+</chapter>
 
 <chapter name="Diadem">
 <b>Diadem</b> (gr.), Smykke ell. Baand om Panden

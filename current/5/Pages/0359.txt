@@ -82,10 +82,12 @@ nordsjökusternas sommerklimat«.
 
 <chapter name="Currachee">
 <b>Currachee</b> [k<sub>ə</sub>'ra.t∫i ell. kər<sub>ə</sub>'t∫i.], se
-<sp>Karatschi</sp>.</chapter>
+<sp>Karatschi</sp>.
+</chapter>
 
 <chapter name="Curraghmore">
-<b>Curraghmore</b> ['kar<sub>a</sub>kmå<sub>ə</sub>], se <sp>Portlaw</sp>.</chapter>
+<b>Curraghmore</b> ['kar<sub>a</sub>kmå<sub>ə</sub>], se <sp>Portlaw</sp>.
+</chapter>
 
 <chapter name="currency">
 <b>currency</b> ['kar<sub>e</sub>ns<sub>i</sub>] (eng.) betyder nærmest
@@ -153,11 +155,13 @@ Betænkning).
 </chapter>
 
 <chapter name="Currer Bell">
-<b>Currer Bell</b> ['karə-'be£], se <sp>Brontë</sp>.</chapter>
+<b>Currer Bell</b> ['karə-'be£], se <sp>Brontë</sp>.
+</chapter>
 
 <chapter name="curriculum vitæ">
 <b>curriculum vitæ</b> (lat.), Levnedsløb, (kort)
-Levnedsbeskrivelse.</chapter>
+Levnedsbeskrivelse.
+</chapter>
 
 <chapter name="currus">
 <b>currus</b> (lat.: »Vogn«) bruges hos romerske

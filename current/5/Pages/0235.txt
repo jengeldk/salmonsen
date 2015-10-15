@@ -67,7 +67,8 @@ ved at rejse hendes Statue. (<sp>Litt</sp>.: <sp>Sörgel</sp>,
 
 <chapter name="Cornelii">
 <b>Cornelii,</b> de 10000 af Sulla frigivne Slaver,
-se <sp>Cornelius</sp>.</chapter>
+se <sp>Cornelius</sp>.
+</chapter>
 
 <chapter name="Corneliszen, Cornelis">
 <b>Corneliszen</b> [kår'ne.lis<sub>ə</sub>n], <sp>Cornelis</sp>, <sp>van

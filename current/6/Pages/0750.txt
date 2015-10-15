@@ -108,7 +108,8 @@ Forsvar.
 </chapter>
 
 <chapter name="Edelweiss">
-<b>Edelweiss,</b> se <sp>Leontopodium</sp>.</chapter>
+<b>Edelweiss,</b> se <sp>Leontopodium</sp>.
+</chapter>
 
 <chapter name="Eden">
 <b>Eden</b> (vistnok af sumerisk-babylonisk <i>edinu</i>,

@@ -37,7 +37,8 @@ en Malerisamling.
 </chapter>
 
 <chapter name="Cobido">
-<b>Cobido</b> ['kowið<sub>u</sub>], se <sp>Covado</sp>.</chapter>
+<b>Cobido</b> ['kowið<sub>u</sub>], se <sp>Covado</sp>.
+</chapter>
 
 <chapter name="Cobija">
 <b>Cobija</b> [kå'wika] (<sp>Puerto la Mar</sp>), Havneby
@@ -51,7 +52,8 @@ var.
 </chapter>
 
 <chapter name="Cobitis">
-<b>Cobitis,</b> se <sp>Smerling</sp>.</chapter>
+<b>Cobitis,</b> se <sp>Smerling</sp>.
+</chapter>
 
 <chapter name="Cobourg">
 <b>Cobourg</b> ['ko<sub>u</sub>bəg], By i Dominion of Canada,
@@ -64,7 +66,8 @@ Viktoria-Universitetets filos. og teol. Fakulteter.
 
 <chapter name="Cobra de Capêllo">
 <b>Cobra de Capêllo</b> ['kåwr<sub>ə</sub>-ð<sub>ö</sub>-k<sub>ə</sub>'pel<sub>u</sub>], se
-<sp>Giftsnoge</sp>.</chapter>
+<sp>Giftsnoge</sp>.
+</chapter>
 
 <chapter name="Cobragift">
 <b>Cobragift,</b> den i Giftkirtlen af Brilleslangen
@@ -146,7 +149,8 @@ Stand.
 
 <chapter name="Cobras-Øerne">
 <b>Cobras-Øerne,</b> Fællesnavn for Øerne Pemba,
-Sansibar, Mafia og Lamu ved Afrikas Østkyst.</chapter>
+Sansibar, Mafia og Lamu ved Afrikas Østkyst.
+</chapter>
 
 <chapter name="Coburg">
 <b>Coburg</b> ['ko.burk] (<sp>Koburg</sp>), Hovedstad i

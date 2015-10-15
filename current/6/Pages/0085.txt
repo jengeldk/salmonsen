@@ -25,7 +25,8 @@ Skuespil.
 </chapter>
 
 <chapter name="Detonation (kem.)">
-<b>Detonation</b> (<sp>kem</sp>.), se <sp>Eksplosion</sp>.</chapter>
+<b>Detonation</b> (<sp>kem</sp>.), se <sp>Eksplosion</sp>.
+</chapter>
 
 <chapter name="Detonation, (artiller.">
 <b>Detonation</b> (<sp>artiller</sp>.) kaldes en meget
@@ -76,7 +77,8 @@ frembringe en Detonation af en Del af Massen.
 </chapter>
 
 <chapter name="Detonationssignal">
-<b>Detonationssignal</b> (lat.), se <sp>Knaldsignal</sp>.</chapter>
+<b>Detonationssignal</b> (lat.), se <sp>Knaldsignal</sp>.
+</chapter>
 
 <chapter name="Detonator">
 <b>Detonator</b> (lat.), en Substans, der ved sin
@@ -89,7 +91,8 @@ typisk, meget anvendt D. er Knaldkviksølv.
 </chapter>
 
 <chapter name="detonere, forpuffe">
-<b>detonere</b> (lat.), forpuffe; se <sp>Eksplosion</sp>.</chapter>
+<b>detonere</b> (lat.), forpuffe; se <sp>Eksplosion</sp>.
+</chapter>
 
 <chapter name="detonere, at synge falsk">
 <b>detonere</b> (lat.), at synge falsk, som oftest i
@@ -129,16 +132,19 @@ Fradrag.
 
 <chapter name="detractis expensis">
 <b>detractis expensis</b> (lat.), med Fradrag af
-Omkostningerne.</chapter>
+Omkostningerne.
+</chapter>
 
 <chapter name="detrahere">
 <b>detrahere</b> (lat.), trække af; forringe,
 bagvaske, nedrakke. <sp>Detraktion</sp>, Afdrag,
-Forringelse, Bagvaskelse, Nedrakning.</chapter>
+Forringelse, Bagvaskelse, Nedrakning.
+</chapter>
 
 <chapter name="Detritus">
 <b>Detritus,</b> Betegnelse for de af rindende Vand
-afsatte mek. Aflejringer (Grus, Sand, Ler o. s. v.).</chapter>
+afsatte mek. Aflejringer (Grus, Sand, Ler o. s. v.).
+</chapter>
 
 <chapter name="Detroit">
 <b>Detroit</b> [d<sub>i</sub>'trå^it], Stad i U. S. A., Stat

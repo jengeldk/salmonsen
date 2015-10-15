@@ -5,14 +5,17 @@ E. i sine »Römische Elegien«.
 
 <chapter name="elegiaco">
 <b>elegiaco,</b> mus.
-Foredragsbetegnelse: klagende, elegisk.</chapter>
+Foredragsbetegnelse: klagende, elegisk.
+</chapter>
 
 <chapter name="Eleison">
-<b>Eleison,</b> se <sp>Kyrie eleison</sp>.</chapter>
+<b>Eleison,</b> se <sp>Kyrie eleison</sp>.
+</chapter>
 
 <chapter name="Elektion">
 <b>Elektion</b> (lat.), Valg; <sp>elektiv</sp>, fremgaaet
-af Valg; med Udvalg.</chapter>
+af Valg; med Udvalg.
+</chapter>
 
 <chapter name="Elektivnæringssubstrater">
 <b>Elektivnæringssubstrater</b> bruges i
@@ -40,7 +43,8 @@ Lakmus).
 
 <chapter name="Elektor">
 <b>Elektor</b> (lat.), Vælger, Valgmand, Valgfyrste
-(Kurfyrste), smlg. <sp>Electoral College</sp>.</chapter>
+(Kurfyrste), smlg. <sp>Electoral College</sp>.
+</chapter>
 
 <chapter name="Elektra">
 <b>Elektra</b> (»den straalende«), Navn paa flere

@@ -46,10 +46,12 @@ Evangeliet i Indien.
 </chapter>
 
 <chapter name="Crangon">
-<b>Crangon,</b> se <sp>Rejer</sp>.</chapter>
+<b>Crangon,</b> se <sp>Rejer</sp>.
+</chapter>
 
 <chapter name="Crania">
-<b>Crania,</b> se <sp>Armfødderne</sp>.</chapter>
+<b>Crania,</b> se <sp>Armfødderne</sp>.
+</chapter>
 
 <chapter name="Crania-Kalk">
 <b>Crania-Kalk,</b> en Kalkstensaflejring, som
@@ -110,7 +112,8 @@ Katolik, C. blev fængslet og brændt som Kætter.
 
 <chapter name="crannog(e)s">
 <b>crannog(e)s</b> ['krän<sub>å</sub>gz eller 'krän<sub>å</sub>dз<sub>i</sub>z], se
-<sp>Pælebygninger</sp>.</chapter>
+<sp>Pælebygninger</sp>.
+</chapter>
 
 <chapter name="Cransac">
 <b>Cransac</b> [krã'sak], Flække i det sydvestlige

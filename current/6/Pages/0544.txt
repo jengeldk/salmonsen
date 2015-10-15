@@ -76,7 +76,8 @@ en ny Jernbanebro, over 3 km lang, aabnedes
 
 <chapter name="Dunderfos">
 <b>Dunderfos</b> (20 m) i Grønfjeldelv, straks før
-denne falder i Ranenelv (se <sp>Mo</sp>, Herred).</chapter>
+denne falder i Ranenelv (se <sp>Mo</sp>, Herred).
+</chapter>
 
 <chapter name="Dunderlandsdalen">
 <b>Dunderlandsdalen</b> strækker sig c. 90 km

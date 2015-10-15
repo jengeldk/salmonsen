@@ -22,7 +22,8 @@ Husflidstidende« er Selskabets Organ.
 
 <chapter name="Dansk Hvidt">
 <b>Dansk Hvidt</b> kaldes, især i Udlandet,
-fintslemmet Kridt, der benyttes som Malerfarve.</chapter>
+fintslemmet Kridt, der benyttes som Malerfarve.
+</chapter>
 
 <chapter name="Dansk Idræts-Forbund">
 <b>Dansk Idræts-Forbund,</b> Centralforbund for
@@ -86,7 +87,8 @@ Maj. Kongen.
 </chapter>
 
 <chapter name="Dansk Ingefær">
-<b>Dansk Ingefær,</b> se <sp>Arum</sp>.</chapter>
+<b>Dansk Ingefær,</b> se <sp>Arum</sp>.
+</chapter>
 
 <chapter name="Dansk Ingeniørforening">
 <b>Dansk Ingeniørforening</b> stiftedes 1. Marts

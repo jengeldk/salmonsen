@@ -61,7 +61,8 @@ Stiklinger. (Illustr., se farvetrykt Tavle
 </chapter>
 
 <chapter name="Coregonus">
-<b>Coregonus,</b> se <sp>Laksefisk</sp>.</chapter>
+<b>Coregonus,</b> se <sp>Laksefisk</sp>.
+</chapter>
 
 <chapter name="Corella">
 <b>Corella</b> [kå'rælla], By i det nordlige Spanien,

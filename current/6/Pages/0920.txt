@@ -65,11 +65,13 @@ Fig. 15. Fejlkurver.</img>
 
 <chapter name="Elektricitetsmængde">
 <b>Elektricitetsmængde,</b> se <sp>elektriske
-Maaleenheder</sp> og <sp>Elektrostatik</sp>.</chapter>
+Maaleenheder</sp> og <sp>Elektrostatik</sp>.
+</chapter>
 
 <chapter name="Elektricitetsværk">
 <b>Elektricitetsværk,</b> se <sp>elektriske
-Kraftstationer</sp>.</chapter>
+Kraftstationer</sp>.
+</chapter>
 
 <chapter name="Elektriker">
 <b>Elektriker</b> kaldes en Haandværker, som er
@@ -90,7 +92,8 @@ Elektricitetskommissionen.
 </chapter>
 
 <chapter name="elektrisere">
-<b>elektrisere,</b> gøre elektrisk.</chapter>
+<b>elektrisere,</b> gøre elektrisk.
+</chapter>
 
 <chapter name="Elektrisermaskine">
 <b>Elektrisermaskine,</b> en

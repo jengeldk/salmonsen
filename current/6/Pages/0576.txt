@@ -154,7 +154,8 @@ udvikler Ordet sig til at betegne en bestemt Rang
 
 <chapter name="Dux">
 <b>Dux</b> (lat. »Fører«) kaldes Hovedtemaet i en
-Fuga.</chapter>
+Fuga.
+</chapter>
 
 <chapter name="Dux, By">
 <b>Dux</b> (tschk. <sp>Duchcov</sp>), By i Böhmen, 130

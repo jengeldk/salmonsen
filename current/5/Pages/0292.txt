@@ -81,7 +81,8 @@ Slot: »Paris' Dom«, o. s. fr.
 
 <chapter name="Coypu">
 <b>Coypu</b> ['kå<sub>i</sub>-] (<i>Myopotamus</i>), se
-<sp>Bæverrotte</sp>.</chapter>
+<sp>Bæverrotte</sp>.
+</chapter>
 
 <chapter name="Coysevox, Charles Antoine">
 <b>Coysevox</b> [kwaz'vo], <sp>Charles Antoine</sp>,
@@ -146,12 +147,14 @@ Kbhvn det smukke »Landskab med Hagar«
 </chapter>
 
 <chapter name="Cr.">
-<b>Cr.,</b> kemisk Tegn for Krom.</chapter>
+<b>Cr.,</b> kemisk Tegn for Krom.
+</chapter>
 
 <chapter name="cr.">
 <b>cr.,</b> Forkortelse for <i>curréntis</i> (lat), løbende
 (Aar eller Maaned), tillige for <i>circiter</i> (lat.),
-omtrent.</chapter>
+omtrent.
+</chapter>
 
 <chapter name="CR">
 <b>CR,</b> telegrafisk Forkortelse for Ankomstbeviset

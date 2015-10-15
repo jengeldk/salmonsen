@@ -72,7 +72,8 @@ Virksomhed i protestantiske Lande.
 
 <chapter name="Collegium">
 <b>Collegium,</b> se <sp>Kollegium</sp>. - <i>C. de
-propáganda fide</i>, se <sp>Propaganda</sp>.</chapter>
+propáganda fide</i>, se <sp>Propaganda</sp>.
+</chapter>
 
 <chapter name="collegium">
 <b>collegium</b> (lat.) betegner i den rom. Ret i
@@ -116,7 +117,8 @@ flercellede, lyse Sporer.
 </chapter>
 
 <chapter name="Collembola">
-<b>Collembola,</b> se <sp>Springhaler</sp>.</chapter>
+<b>Collembola,</b> se <sp>Springhaler</sp>.
+</chapter>
 
 <chapter name="Colleoni, Bartolommeo">
 <b>Colleoni</b> (<sp>Coleoni</sp>), <sp>Bartolommeo</sp>,
@@ -174,7 +176,8 @@ findes en Svovlkilde og er fundet talrige Agater.
 <chapter name="Collet">
 <b>Collet</b> [kå'læ] (fr.), Halskrave, Uniformsfrakke
 med korte Skøder (før Indførelsen af
-Vaabenfrakken), Køllert.</chapter>
+Vaabenfrakken), Køllert.
+</chapter>
 
 <chapter name="Collett, James C., slægt">
 <b>Collett</b> ['kål.<sub>ə</sub>t], en fra London til Kristiania

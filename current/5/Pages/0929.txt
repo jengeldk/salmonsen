@@ -94,7 +94,8 @@ Carlsbergfondets Ekspedition til Øst-Grønland [Kbhvn
 </chapter>
 
 <chapter name="Dawdon">
-<b>Dawdon</b> ['då.d<sub>ə</sub>n], se <sp>Seaham Harbour</sp>.</chapter>
+<b>Dawdon</b> ['då.d<sub>ə</sub>n], se <sp>Seaham Harbour</sp>.
+</chapter>
 
 <chapter name="Dawes, Karl Friedrich Griffin">
 <b>Dawes</b> [då.z], <sp>Karl Friedrich

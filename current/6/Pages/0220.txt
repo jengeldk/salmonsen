@@ -24,15 +24,18 @@ Diplomatiken« [Kbhvn 1915]; <sp>R. Rosenmund,</sp>
 
 <chapter name="diplomatisk">
 <b>diplomatisk,</b> det som hører til, stammer fra
-Diplomati. - Smidig, kløgtig, tvetydig.</chapter>
+Diplomati. - Smidig, kløgtig, tvetydig.
+</chapter>
 
 <chapter name="diplomatisk Agent">
 <b>diplomatisk Agent,</b> se <sp>Agent
-diplomatique</sp>.</chapter>
+diplomatique</sp>.
+</chapter>
 
 <chapter name="diplomatisk Korps">
 <b>diplomatisk Korps,</b> se <sp>corps
-diplomatique</sp>.</chapter>
+diplomatique</sp>.
+</chapter>
 
 <chapter name="Diplopi">
 <b>Diplopi</b> (<sp>Dobbeltsyn</sp>) er dels
@@ -58,10 +61,12 @@ Billede.
 </chapter>
 
 <chapter name="Diplopoda">
-<b>Diplopoda,</b> se <sp>Tusindben</sp>.</chapter>
+<b>Diplopoda,</b> se <sp>Tusindben</sp>.
+</chapter>
 
 <chapter name="diplostemon">
-<b>diplostemon</b> (<sp>bot</sp>.), se <sp>dobbelthannet</sp>.</chapter>
+<b>diplostemon</b> (<sp>bot</sp>.), se <sp>dobbelthannet</sp>.
+</chapter>
 
 <chapter name="Diplotaxis">
 <b>Diplotaxis</b> DC., Slægt af Korsblomstrede
@@ -83,16 +88,20 @@ Højsommeren til ind i Septbr.
 </chapter>
 
 <chapter name="Diplozoon">
-<b>Diplozoon</b> [-'so.-] se <sp>Dobbeltdyret</sp>.</chapter>
+<b>Diplozoon</b> [-'so.-] se <sp>Dobbeltdyret</sp>.
+</chapter>
 
 <chapter name="Dipneumones">
-<b>Dipneumones</b> [-pnæ^u-], se <sp>Edderkopper</sp>.</chapter>
+<b>Dipneumones</b> [-pnæ^u-], se <sp>Edderkopper</sp>.
+</chapter>
 
 <chapter name="Dipneusti">
-<b>Dipneusti</b> [-pnæ^u-], se <sp>Lungefisk</sp>.</chapter>
+<b>Dipneusti</b> [-pnæ^u-], se <sp>Lungefisk</sp>.
+</chapter>
 
 <chapter name="Dipnoi">
-<b>Dipnoi,</b> se <sp>Lungefisk</sp>.</chapter>
+<b>Dipnoi,</b> se <sp>Lungefisk</sp>.
+</chapter>
 
 <chapter name="Dipodi">
 <b>Dipodi</b> (gr.: »Dobbeltfod«), antik Benævnelse

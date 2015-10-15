@@ -79,10 +79,12 @@ norsk Ret.
 </chapter>
 
 <chapter name="Defervescens">
-<b>Defervescens,</b> Feberens Ophør, se <sp>Feber</sp>.</chapter>
+<b>Defervescens,</b> Feberens Ophør, se <sp>Feber</sp>.
+</chapter>
 
 <chapter name="Deffand">
-<b>Deffand</b> [dæ'fã], se <sp>Du Deffand</sp>.</chapter>
+<b>Deffand</b> [dæ'fã], se <sp>Du Deffand</sp>.
+</chapter>
 
 <chapter name="défi">
 <b>défi</b> [de'fi] (fr.), Udfordring. <i>Cartel</i> eller
@@ -110,7 +112,8 @@ Wayne anlagte Fort D.
 
 <chapter name="defibrinere">
 <b>defibrinere</b> (lat.), at borttage Trævlestoffet
-af Blodet; se i øvrigt <sp>Blod</sp>.</chapter>
+af Blodet; se i øvrigt <sp>Blod</sp>.
+</chapter>
 
 <chapter name="deficiendo">
 <b>deficiendo</b> [defi't∫ændo], mus.

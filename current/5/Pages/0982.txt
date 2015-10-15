@@ -134,7 +134,8 @@ omstridt Spørgsmaal henskydes (se
 
 <chapter name="Delation">
 <b>Delation</b> (lat. <i>delatio</i>), Angivelse,
-Tilkendelse (om Edsdelation, se <sp>deferere</sp>).</chapter>
+Tilkendelse (om Edsdelation, se <sp>deferere</sp>).
+</chapter>
 
 <chapter name="Delator">
 <b>Delator</b> (lat.). Angiver ell. Anklager. Ordet

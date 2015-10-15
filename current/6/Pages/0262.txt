@@ -1,7 +1,8 @@
 <chapter name="Djeziret-el-Arab">
 <b>Djeziret-el-Arab</b> [-'arab] (»Arabernes Ø«)
 kalder Araberne Landet mellem Eufrat og
-Tigris.</chapter>
+Tigris.
+</chapter>
 
 <chapter name="Djezzar">
 <b>Djezzar,</b> <sp>Ahmed</sp>, med Tilnavnet
@@ -67,7 +68,8 @@ Kork og Kvæg.
 </chapter>
 
 <chapter name="Djiggatai">
-<b>Djiggatai</b> (<i>Equus hemionus</i>), se <sp>Hest</sp>.</chapter>
+<b>Djiggatai</b> (<i>Equus hemionus</i>), se <sp>Hest</sp>.
+</chapter>
 
 <chapter name="Djigitter">
 <b>Djigitter,</b> Hædersnavn i Kaukasus for
@@ -107,7 +109,8 @@ Rusland, men uden Resultat.
 </chapter>
 
 <chapter name="Djihangir">
-<b>Djihangir,</b> d. s. s. <sp>Djahangir</sp>.</chapter>
+<b>Djihangir,</b> d. s. s. <sp>Djahangir</sp>.
+</chapter>
 
 <chapter name="Djihun">
 <b>Djihun,</b> det arab., men endnu af
@@ -117,14 +120,17 @@ Turan.
 </chapter>
 
 <chapter name="Djilam">
-<b>Djilam,</b> se <sp>Djelam</sp>.</chapter>
+<b>Djilam,</b> se <sp>Djelam</sp>.
+</chapter>
 
 <chapter name="Djilolo">
-<b>Djilolo,</b> se <sp>Halmahera</sp>.</chapter>
+<b>Djilolo,</b> se <sp>Halmahera</sp>.
+</chapter>
 
 <chapter name="Djimbala">
 <b>Djimbala,</b> en 150 km lang Ø i den af
-Niger-Floden dannede Sø Debo.</chapter>
+Niger-Floden dannede Sø Debo.
+</chapter>
 
 <chapter name="Djinn">
 <b>Djinn</b> (arab.) bet. Aander, Genier; de
@@ -137,7 +143,8 @@ som <i>madjnun</i>.
 </chapter>
 
 <chapter name="Djinni">
-<b>Djinni,</b> d. s. s. <sp>Djenne</sp>.</chapter>
+<b>Djinni,</b> d. s. s. <sp>Djenne</sp>.
+</chapter>
 
 <chapter name="Djipe">
 <b>Djipe</b> (<sp>Jipe</sp>), en 16 km lang og 5 km bred

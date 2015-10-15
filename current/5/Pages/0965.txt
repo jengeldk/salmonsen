@@ -16,7 +16,8 @@ af Frugtkonserves.
 
 <chapter name="Deifobe">
 <b>Deifobe</b> hedder i Vergil's Æneide (6, 36)
-den cumæiske Sibylle, som spaaede Æneas.</chapter>
+den cumæiske Sibylle, som spaaede Æneas.
+</chapter>
 
 <chapter name="Deifobos">
 <b>Deifobos,</b> en af Troernes Anførere i

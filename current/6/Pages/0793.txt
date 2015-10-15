@@ -109,7 +109,8 @@ til humane Formaal.
 </chapter>
 
 <chapter name="Egebregne">
-<b>Egebregne,</b> se <sp>Mangeløv</sp>.</chapter>
+<b>Egebregne,</b> se <sp>Mangeløv</sp>.
+</chapter>
 
 <chapter name="Egede, Christian Thestrup">
 <b>Egede,</b> <sp>Christian Thestrup</sp>, dansk

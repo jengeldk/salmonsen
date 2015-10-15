@@ -15,13 +15,16 @@ internes de la poitrine . . . par Auenbrugger</i>
 
 <chapter name="Corvus">
 <b>Corvus</b> (lat.), en Ravn; astronomisk, se
-<sp>Ravnen</sp>.</chapter>
+<sp>Ravnen</sp>.
+</chapter>
 
 <chapter name="Corydalin">
-<b>Corydalin,</b> se <sp>Corydalisalkaloider</sp>.</chapter>
+<b>Corydalin,</b> se <sp>Corydalisalkaloider</sp>.
+</chapter>
 
 <chapter name="Corydalis">
-<b>Corydalis,</b> se <sp>Lærkespore</sp>.</chapter>
+<b>Corydalis,</b> se <sp>Lærkespore</sp>.
+</chapter>
 
 <chapter name="Corydalisalkaloider">
 <b>Corydalisalkaloider</b> er et Fællesnavn paa
@@ -33,16 +36,20 @@ deres Virkninger staar Opiumalkaloiderne nær.
 </chapter>
 
 <chapter name="Corylaceæ">
-<b>Corylaceæ,</b> se <sp>Hasselfamilien</sp>.</chapter>
+<b>Corylaceæ,</b> se <sp>Hasselfamilien</sp>.
+</chapter>
 
 <chapter name="Corylus">
-<b>Corylus,</b> se <sp>Hassel</sp>.</chapter>
+<b>Corylus,</b> se <sp>Hassel</sp>.
+</chapter>
 
 <chapter name="Coryne">
-<b>Coryne,</b> se <sp>Gopler</sp>.</chapter>
+<b>Coryne,</b> se <sp>Gopler</sp>.
+</chapter>
 
 <chapter name="Corynephorus">
-<b>Corynephorus,</b> se <sp>Sandskæg</sp>.</chapter>
+<b>Corynephorus,</b> se <sp>Sandskæg</sp>.
+</chapter>
 
 <img><i>Corypha umbraculifera</i></img>
 <chapter name="Corypha L.">
@@ -74,13 +81,16 @@ Medicinen og Husholdningen.
 </chapter>
 
 <chapter name="Coryphæna">
-<b>Coryphæna</b> [-'fæ.na], se <sp>Makrelfisk</sp>.</chapter>
+<b>Coryphæna</b> [-'fæ.na], se <sp>Makrelfisk</sp>.
+</chapter>
 
 <chapter name="Corythaix">
-<b>Corythaix</b> [-'ta.iks], se <sp>Turako</sp>'er.</chapter>
+<b>Corythaix</b> [-'ta.iks], se <sp>Turako</sp>'er.
+</chapter>
 
 <chapter name="Coryza">
-<b>Coryza,</b> se <sp>Snue</sp>.</chapter>
+<b>Coryza,</b> se <sp>Snue</sp>.
+</chapter>
 
 <chapter name="Cosa">
 <b>Cosa,</b> i Oldtiden By i Etrurien, laa

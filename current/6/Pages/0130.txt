@@ -28,11 +28,13 @@ Vinaand, letopløselige i Æter, der smelter ved
 
 <chapter name="Diazoaminoforbindelser">
 <b>Diazoaminoforbindelser</b> [-so-], se
-<sp>Diazoforbindelser</sp>.</chapter>
+<sp>Diazoforbindelser</sp>.
+</chapter>
 
 <chapter name="Diazobenzol">
 <b>Diazobenzol</b> [-so--'so'l], se
-<sp>Diazoforbindelser</sp>.</chapter>
+<sp>Diazoforbindelser</sp>.
+</chapter>
 
 <chapter name="Diazoforbindelser">
 <b>Diazoforbindelser</b> [-so-], organiske kemiske

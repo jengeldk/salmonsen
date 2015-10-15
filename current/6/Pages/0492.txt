@@ -90,7 +90,8 @@ Orgel- og Klavermusik samt Sange.
 </chapter>
 
 <chapter name="Dubois, G.">
-<b>Dubois</b> [dy'bwa], G., d. s. s. <sp>Bois, du</sp>.</chapter>
+<b>Dubois</b> [dy'bwa], G., d. s. s. <sp>Bois, du</sp>.
+</chapter>
 
 <chapter name="Dubois, Guillaume">
 <b>Dubois</b> [dy'bwa], <sp>Guillaume</sp>, Kardinal og

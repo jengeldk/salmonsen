@@ -85,7 +85,8 @@ Hovedudgave af Uhlig (Leipzig 1884).
 </chapter>
 
 <chapter name="Dionysisk Tidsregning">
-<b>Dionysisk Tidsregning,</b> se <sp>Kronologi</sp>.</chapter>
+<b>Dionysisk Tidsregning,</b> se <sp>Kronologi</sp>.
+</chapter>
 
 <chapter name="Dionysius den Lille">
 <b>Dionysius</b> <sp>den Lille</sp> (<sp>Exiguus</sp>),

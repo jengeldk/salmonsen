@@ -135,10 +135,12 @@ Bruges til Skabe og lette Vægge.
 <chapter name="compositum">
 <b>compositum</b> (lat.), noget sammensat;
 sammensat Ord; <i>composita</i>, sammensatte
-Lægemidler; <i>mixtum c.</i>, Miskmask.</chapter>
+Lægemidler; <i>mixtum c.</i>, Miskmask.
+</chapter>
 
 <chapter name="Compositæ">
-<b>Compositæ,</b> se <sp>Kurvblomstrede</sp>.</chapter>
+<b>Compositæ,</b> se <sp>Kurvblomstrede</sp>.
+</chapter>
 
 <chapter name="compos mentis">
 <b>compos mentis,</b> at være ved sin Fornufts
@@ -157,7 +159,8 @@ i Fællesskab besidder en Ting.
 
 <chapter name="Compostella">
 <b>Compostella</b> [kåmpå'stæl<sub>j</sub>a], se <sp>Santiago
-de C</sp>.</chapter>
+de C</sp>.
+</chapter>
 
 <chapter name="Compounddynamo">
 <b>Compounddynamo</b> [k<sub>å</sub>m'pa^und-] er en

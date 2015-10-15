@@ -33,7 +33,8 @@ et saadant særligt Retsgrundlag mangler.
 
 <chapter name="Defamation">
 <b>Defamation,</b> d. s. s. <sp>Diffamation</sp>, se
-<sp>Ærefornærmelser</sp>.</chapter>
+<sp>Ærefornærmelser</sp>.
+</chapter>
 
 <chapter name="defaut">
 <b>defaut</b> [de'fo] (fr.), Mangel; i fr.
@@ -56,7 +57,8 @@ Domfældtes Ejendele beslaglægges (se i øvrigt
 </chapter>
 
 <chapter name="defavorabel">
-<b>defavorabel</b> (fr.), ugunstig, unaadig.</chapter>
+<b>defavorabel</b> (fr.), ugunstig, unaadig.
+</chapter>
 
 <chapter name="Defectivum">
 <b>Defectivum</b> (ufuldstændigt, mangelfuldt; af
@@ -111,7 +113,8 @@ Kasus.
 <chapter name="defekt">
 <b>defekt</b> (lat.), mangelfuld, ufuldstændig; som
 Subst.: Mangel, Fejl. <sp>defektere</sp>, gennemse
-en Regning med Hensyn til mulige Regnefejl.</chapter>
+en Regning med Hensyn til mulige Regnefejl.
+</chapter>
 
 <chapter name="Defekter">
 <b>Defekter,</b> teknisk Betegnelse i Bogtrykfaget
@@ -135,7 +138,8 @@ sande, rom. Kirke.
 
 <chapter name="defendere">
 <b>defendere</b> (lat.), forsvare; <sp>Defension</sp>,
-<sp>Defensor</sp> (s. d.).</chapter>
+<sp>Defensor</sp> (s. d.).
+</chapter>
 
 <chapter name="Defenders">
 <b>Defenders</b> [d<sub>i</sub>'fend<sub>ə</sub>z] (eng.), Forsvarere, en
@@ -143,12 +147,14 @@ hemmelig irsk politisk Forening, der opstod
 efter Irlands endelige Undertvingelse efter
 Slaget ved Boyne-Floden (1690) og Jakob II's Flugt.
 Den arbejdede for Irlands politiske
-Selvstændighed og Uafhængighed. Se <sp>Irland</sp>, »Historie«.</chapter>
+Selvstændighed og Uafhængighed. Se <sp>Irland</sp>, »Historie«.
+</chapter>
 
 <chapter name="Defension">
 <b>Defension,</b> Forsvar, særlig det Forsvar, der
 føres for en Anklaget under Straffeforfølgning
-(se <sp>Defensor</sp>).</chapter>
+(se <sp>Defensor</sp>).
+</chapter>
 
 <chapter name="Defension (Søv.)">
 <b>Defension</b> (<sp>Søv.</sp>). <sp>Den flydende D.

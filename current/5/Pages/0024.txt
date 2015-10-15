@@ -88,7 +88,8 @@ Den formeres ved Stiklinger ell. ved Aflæggere.
 
 <chapter name="Cis-Sutlej-Stater">
 <b>Cis-Sutlej-Stater</b> [-'sat£edz-], d. s. s.
-<sp>Cis-Satledsh-Stater</sp>.</chapter>
+<sp>Cis-Satledsh-Stater</sp>.
+</chapter>
 
 <chapter name="Cista">
 <b>Cista</b> (latinsk = græsk κίστη), cylindriske

@@ -30,7 +30,8 @@ Kostumemuseum, tilvejebragt ved D.'s Initiativ.
 </chapter>
 
 <chapter name="Detaillist">
-<b>Detaillist</b> [detal'jist], se <sp>Detailhandel</sp>.</chapter>
+<b>Detaillist</b> [detal'jist], se <sp>Detailhandel</sp>.
+</chapter>
 
 <chapter name="Detailprojekt">
 <b>Detailprojekt</b> [de'talj<sub>ə</sub>-pro'sjægt ell. -'ta.i-]
@@ -70,10 +71,12 @@ blot at forandre Navnet).
 <b>Detektiv</b> (af lat. <i>detegere</i>, afdække), egnet
 til at lede til Opdagelse (af en Forbrydelse).
 <i>Detective</i>, eng. Betegnelse for en
-Opdagelsesbetjent, ogsaa for Privat-D.</chapter>
+Opdagelsesbetjent, ogsaa for Privat-D.
+</chapter>
 
 <chapter name="Detektivfotografiapparat">
-<b>Detektivfotografiapparat,</b> se <sp>Fotografi</sp>.</chapter>
+<b>Detektivfotografiapparat,</b> se <sp>Fotografi</sp>.
+</chapter>
 
 <chapter name="Detektor">
 <b>Detektor</b> kaldes i Radiotelegrafien det Organ,
@@ -103,7 +106,8 @@ Tikkeren (se Radiotelegrafi) og
 </chapter>
 
 <chapter name="de tempore">
-<b>de tempore</b> (lat.), til eller i rette Tid.</chapter>
+<b>de tempore</b> (lat.), til eller i rette Tid.
+</chapter>
 
 <chapter name="Detention">
 <b>Detention</b> (lat.), Besiddelse af en legemlig

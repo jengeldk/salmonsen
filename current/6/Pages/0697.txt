@@ -102,10 +102,12 @@ Behandling (se <sp>Tunghørighed</sp> og
 </chapter>
 
 <chapter name="Døvnesle">
-<b>Døvnesle,</b> se <sp>Tvetand</sp>.</chapter>
+<b>Døvnesle,</b> se <sp>Tvetand</sp>.
+</chapter>
 
 <chapter name="Døvnælde">
-<b>Døvnælde,</b> se <sp>Tvetand</sp>.</chapter>
+<b>Døvnælde,</b> se <sp>Tvetand</sp>.
+</chapter>
 
 <chapter name="Døvstumhed">
 <b>Døvstumhed</b> betegner den abnorme Tilstand,

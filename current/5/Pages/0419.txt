@@ -99,7 +99,8 @@ Sicilien.
 </chapter>
 
 <chapter name="Dafnit">
-<b>Dafnit,</b> en Art <sp>Klorit</sp>.</chapter>
+<b>Dafnit,</b> en Art <sp>Klorit</sp>.
+</chapter>
 
 <chapter name="Dag">
 <b>Dag</b> (lat. <i>dies</i>) betegner enten den Tid, Solen

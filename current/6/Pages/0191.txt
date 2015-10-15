@@ -31,10 +31,12 @@ Reformation«).
 </chapter>
 
 <chapter name="diluendo">
-<b>diluendo</b> (ital.), d. s. s. <i>morendo</i>.</chapter>
+<b>diluendo</b> (ital.), d. s. s. <i>morendo</i>.
+</chapter>
 
 <chapter name="Diluvialtiden">
-<b>Diluvialtiden,</b> se <sp>Diluvium</sp>.</chapter>
+<b>Diluvialtiden,</b> se <sp>Diluvium</sp>.
+</chapter>
 
 <chapter name="Diluvium">
 <b>Diluvium</b> var opr. en Betegnelse for
@@ -47,7 +49,8 @@ Betegnelsen for alle Aflejringer fra Kvartærperiodens
 </chapter>
 
 <chapter name="dim.">
-<b>dim.,</b> Forkortelse af <i>diminuendo</i> (s. d.).</chapter>
+<b>dim.,</b> Forkortelse af <i>diminuendo</i> (s. d.).
+</chapter>
 
 <chapter name="Dimbovitza">
 <b>Dimbovitza</b> ['dimbovitsa] (<sp>Dambowitza</sp>),
@@ -59,7 +62,8 @@ Bukarest og udmunder ovenfor Oltenitza.
 
 <chapter name="dime">
 <b>dime</b> [da^im], Sølvmønt i de nordamerikanske
-Fristater, af Værdi 10 cents.</chapter>
+Fristater, af Værdi 10 cents.
+</chapter>
 
 <chapter name="Dimension">
 <b>Dimension</b> (<sp>mat</sp>.). Ligesom man i daglig
@@ -148,7 +152,8 @@ Versfødder (ell. af to Dipodier).
 </chapter>
 
 <chapter name="Dimetyl">
-<b>Dimetyl,</b> se <sp>Ætan</sp>.</chapter>
+<b>Dimetyl,</b> se <sp>Ætan</sp>.
+</chapter>
 
 <chapter name="Dimetylamin">
 <b>Dimetylamin,</b> (CH<sub>3</sub>)<sub>2</sub>NH, en sekundær

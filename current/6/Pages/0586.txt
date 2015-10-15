@@ -60,7 +60,8 @@ danske Artilleri og dets Deltagelse i Krigen 1864«
 </chapter>
 
 <chapter name="Dybbøl-Bjerget, Dybbøl Mølle">
-<b>Dybbøl-Bjerget, Dybbøl Mølle,</b> se <sp>Dybbøl</sp>.</chapter>
+<b>Dybbøl-Bjerget, Dybbøl Mølle,</b> se <sp>Dybbøl</sp>.
+</chapter>
 
 <chapter name="Dybdahl, Jens Andreas">
 <b>Dybdahl,</b> <sp>Jens Andreas</sp>, Docent i
@@ -111,10 +112,12 @@ Tider.
 </chapter>
 
 <chapter name="Dybdeboring">
-<b>Dybdeboring,</b> se <sp>Boring</sp>.</chapter>
+<b>Dybdeboring,</b> se <sp>Boring</sp>.
+</chapter>
 
 <chapter name="Dybdelod">
-<b>Dybdelod,</b> se <sp>Dybdemaaler</sp>.</chapter>
+<b>Dybdelod,</b> se <sp>Dybdemaaler</sp>.
+</chapter>
 
 <chapter name="Dybdemaaler">
 <b>Dybdemaaler,</b> Apparat til Maaling af Dybder

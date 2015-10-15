@@ -25,7 +25,8 @@ v.; han var særlig dygtig som Akvarellist.
 <chapter name="docendo discimus ell. discitur">
 <b>docendo discimus</b> ell. <b>discitur</b> (dat.), man
 lærer selv ved at belære andre. Se Seneca,
-Epist. 7, 8: <i>homines dum docent, discunt</i>.</chapter>
+Epist. 7, 8: <i>homines dum docent, discunt</i>.
+</chapter>
 
 <chapter name="Docent">
 <b>Docent</b> (lat.), en, der <sp>docerer</sp>,
@@ -50,11 +51,13 @@ D. indtager i Norge de saakaldte
 </chapter>
 
 <chapter name="Docentur">
-<b>Docentur</b> (lat.), Stillingen som Docent.</chapter>
+<b>Docentur</b> (lat.), Stillingen som Docent.
+</chapter>
 
 <chapter name="docere">
 <b>docere</b> (lat.), lære, foredrage, undervise -
-tale vidt og bredt.</chapter>
+tale vidt og bredt.
+</chapter>
 
 <chapter name="Dochmius">
 <b>Dochmius</b> ['dåk-] (gr,), antik Versefod, hvis
@@ -67,11 +70,13 @@ Former, især i de tragiske Korsange.
 
 <chapter name="Dochmius">
 <b>Dochmius</b> ['dåk-] d. s. s.
-<sp>Anchylostomum duodenale</sp>.</chapter>
+<sp>Anchylostomum duodenale</sp>.
+</chapter>
 
 <chapter name="docil">
 <b>docil</b> (lat.), lærvillig, lærenem, føjelig;
-<sp>Docilitet</sp>, Lærvillighed, Føjelighed.</chapter>
+<sp>Docilitet</sp>, Lærvillighed, Føjelighed.
+</chapter>
 
 <chapter name="Docking Bank">
 <b>Docking Bank</b> ['dåk<sub>i</sub>ŋ-'bäŋk], Englands

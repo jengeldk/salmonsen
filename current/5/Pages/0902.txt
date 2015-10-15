@@ -2,7 +2,8 @@ blev 1908 rejst et Monument med hans Buste.
 D.'s Skr er udkommet i en god Udgave af A. E.
 Erichsen, som ogsaa har forfattet hans
 Biografi.
-<i>E. S-n.</i>.</chapter>
+<i>E. S-n.</i>
+</chapter>
 
 <chapter name="Dassen">
 <b>Dassen</b> [holl. 'das<sub>ə</sub>n, eng. 'däs<sub>ə</sub>n], en lille
@@ -22,10 +23,12 @@ Præsteklasse hos Farserne.
 </chapter>
 
 <chapter name="Dasychira pudibunda">
-<b>Dasychira pudibunda,</b> se <sp>Bøgespinder</sp>.</chapter>
+<b>Dasychira pudibunda,</b> se <sp>Bøgespinder</sp>.
+</chapter>
 
 <chapter name="Dasycladaceæ">
-<b>Dasycladaceæ,</b> se <sp>Alger</sp>, S. 496.</chapter>
+<b>Dasycladaceæ,</b> se <sp>Alger</sp>, S. 496.
+</chapter>
 
 <chapter name="Dasymeter">
 <b>Dasymeter,</b> et Apparat opfundet af Otto v.
@@ -53,7 +56,8 @@ jo mere Kulsyre Blandingen indeholder.
 </chapter>
 
 <chapter name="Dasypodidæ">
-<b>Dasypodidæ,</b> se <sp>Bæltedyr</sp>.</chapter>
+<b>Dasypodidæ,</b> se <sp>Bæltedyr</sp>.
+</chapter>
 
 <chapter name="Dasypodius">
 <b>Dasypodius</b> (Rauhfuss, Hasenfuss),
@@ -70,16 +74,20 @@ Mathematiker C. D.« [Göttingen 1798]).
 </chapter>
 
 <chapter name="Dasypotherium">
-<b>Dasypotherium</b> [-'te'-], se <sp>Bæltedyr</sp>.</chapter>
+<b>Dasypotherium</b> [-'te'-], se <sp>Bæltedyr</sp>.
+</chapter>
 
 <chapter name="Dasyprocta">
-<b>Dasyprocta,</b> se <sp>Aguti</sp>.</chapter>
+<b>Dasyprocta,</b> se <sp>Aguti</sp>.
+</chapter>
 
 <chapter name="Dasyptilus">
-<b>Dasyptilus,</b> se <sp>Papegøjer</sp>.</chapter>
+<b>Dasyptilus,</b> se <sp>Papegøjer</sp>.
+</chapter>
 
 <chapter name="Dasypus">
-<b>Dasypus,</b> se <sp>Bæltedyr</sp>.</chapter>
+<b>Dasypus,</b> se <sp>Bæltedyr</sp>.
+</chapter>
 
 <chapter name="Dasyscypha">
 <b>Dasyscypha</b> [-fa], Svampeslægt af
@@ -96,16 +104,19 @@ ondartet end foreg.
 </chapter>
 
 <chapter name="Dasyurus">
-<b>Dasyurus,</b> se <sp>Pungmaare</sp>.</chapter>
+<b>Dasyurus,</b> se <sp>Pungmaare</sp>.
+</chapter>
 
 <chapter name="Dat.">
-<b>Dat.,</b> Forkortelse af <sp>Datum</sp> og <sp>Dativ</sp>.</chapter>
+<b>Dat.,</b> Forkortelse af <sp>Datum</sp> og <sp>Dativ</sp>.
+</chapter>
 
 <chapter name="data">
 <b>data</b> (lat., Flertal af <i>datum</i>), givne Ting,
 Tidsangivelser, Kendsgerninger, Fakta, <i>data et
 accépta</i>, Udgifter og Indtægter. Se i øvrigt
-<sp>datum</sp>.</chapter>
+<sp>datum</sp>.
+</chapter>
 
 <chapter name="Datames">
 <b>Datames</b> [gr. -'tame.s], en Karer, som under
@@ -165,7 +176,8 @@ paa Bøger.
 </chapter>
 
 <chapter name="datere">
-<b>datere,</b> se <sp>datum</sp>.</chapter>
+<b>datere,</b> se <sp>datum</sp>.
+</chapter>
 
 <chapter name="Dathavamsa">
 <b>Dathavamsa</b> (»Historien om Buddha's
@@ -177,7 +189,8 @@ Jfr. <sp>Buddhisme</sp> (Kultus).
 </chapter>
 
 <chapter name="Datholit">
-<b>Datholit</b> [-to-], d. s. s. <sp>Datolit</sp>.</chapter>
+<b>Datholit</b> [-to-], d. s. s. <sp>Datolit</sp>.
+</chapter>
 
 <chapter name="Dati, Carlo">
 <b>Dati,</b> <sp>Carlo</sp>, ital. Lærd, f. i Firenze 1619,

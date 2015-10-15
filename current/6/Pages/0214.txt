@@ -145,7 +145,8 @@ andre Skr tillægges ogsaa D.; af dem er kun
 </chapter>
 
 <chapter name="Diosmose">
-<b>Diosmose,</b> se <sp>Osmose</sp>.</chapter>
+<b>Diosmose,</b> se <sp>Osmose</sp>.
+</chapter>
 
 <chapter name="Diospolis">
 <b>Diospolis</b> (gr.: »Zeus' Stad«), i den senere

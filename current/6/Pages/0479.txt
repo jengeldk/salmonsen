@@ -50,10 +50,12 @@ i Fjorden.
 </chapter>
 
 <chapter name="Drøbel">
-<b>Drøbel,</b> se <sp>Gane</sp>.</chapter>
+<b>Drøbel,</b> se <sp>Gane</sp>.
+</chapter>
 
 <chapter name="Drøbelklap">
-<b>Drøbelklap,</b> d. s. s. <sp>Drosselklap</sp>.</chapter>
+<b>Drøbelklap,</b> d. s. s. <sp>Drosselklap</sp>.
+</chapter>
 
 <chapter name="Drömling">
 <b>Drömling,</b> en skovbevokset Strækning i det

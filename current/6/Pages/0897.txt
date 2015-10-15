@@ -129,7 +129,8 @@ blev rejst en ny Statue.
 </chapter>
 
 <chapter name="Elcesaiter">
-<b>Elcesaiter,</b> se <sp>Elkesaiter</sp>.</chapter>
+<b>Elcesaiter,</b> se <sp>Elkesaiter</sp>.
+</chapter>
 
 <chapter name="Elchanan">
 <b>Elchanan</b> (»Gud er naadig«) fra Betlehem

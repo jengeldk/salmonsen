@@ -52,18 +52,22 @@ i Susa, Hovedstaden i E., se <sp>J. de Morgan</sp>,
 <i>Mémoires de la Délégation en Perse</i> (i 3 Bd
 [1901-09]) og <sp>Dieulafoy</sp>, <i>L'Acropole de
 Suse</i> (1893); smlg. <sp>Sammes</sp> <i>L'art antique de
-la Perse</i> III.</chapter>
+la Perse</i> III.
+</chapter>
 
 <chapter name="El Amarna">
-<b>El Amarna,</b> se <sp>Amarna</sp>.</chapter>
+<b>El Amarna,</b> se <sp>Amarna</sp>.
+</chapter>
 
 <chapter name="élan">
 <b>élan</b> [e'lã, da. e'laŋ] (fr.), Tilløb, Sæt, Sving;
 navnlig i overf. Bet.; Sving, Flugt, Ild,
-Begejstring.</chapter>
+Begejstring.
+</chapter>
 
 <chapter name="Eland">
-<b>Eland,</b> se <sp><sp>Antiloper</sp></sp>, S. 819.</chapter>
+<b>Eland,</b> se <sp><sp>Antiloper</sp></sp>, S. 819.
+</chapter>
 
 <chapter name="Elaphrus">
 <b>Elaphrus</b> [-f-], Løbebilleslægt, indbefattende
@@ -76,10 +80,12 @@ halvstørknet Dynd.
 
 <chapter name="Elaps">
 <b>Elaps</b> ['e.-] (<sp>Koralslange</sp>), se
-<sp>Giftsnoge</sp>.</chapter>
+<sp>Giftsnoge</sp>.
+</chapter>
 
 <chapter name="El-Araisch">
-<b>El-Araisch</b> [-'i∫], se <sp>Araisch</sp>.</chapter>
+<b>El-Araisch</b> [-'i∫], se <sp>Araisch</sp>.
+</chapter>
 
 <chapter name="El-Asi">
 <b>El-Asi</b> ['a.si.], <sp>Nahre. A.</sp>, Oldtidens Orontes,
@@ -90,10 +96,12 @@ falder i Middelhavet.
 </chapter>
 
 <chapter name="Elasmobranchii">
-<b>Elasmobranchii</b> [-'braŋkii'], se <sp>Hajer</sp>.</chapter>
+<b>Elasmobranchii</b> [-'braŋkii'], se <sp>Hajer</sp>.
+</chapter>
 
 <chapter name="Elasmotherium">
-<b>Elasmotherium</b> [-'te-], se <sp>Næsehorn</sp>.</chapter>
+<b>Elasmotherium</b> [-'te-], se <sp>Næsehorn</sp>.
+</chapter>
 
 <chapter name="Elassona">
 <b>Elassona,</b> <sp>Alasonia</sp>, By i Grækenland,

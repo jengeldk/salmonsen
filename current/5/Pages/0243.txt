@@ -87,7 +87,8 @@ udfører Træ og Kvæg.
 <chapter name="corpora">
 <b>corpora</b> (lat., Flertal af <i>córpus</i>), Legemer;
 <i>c. aliena</i>, fremmede Legemer; <i>c. cavernosa</i>, se
-<sp>Corpus</sp>.</chapter>
+<sp>Corpus</sp>.
+</chapter>
 
 <chapter name="Corpora amylacea">
 <b>Corpora amylacea</b> (ell. <i>Corpúscula
@@ -127,12 +128,14 @@ ofte udstyret med smukke og kostbare Broderier.
 
 <chapter name="corps de bataille">
 <b>corps de bataille</b> ['kå.r-d<sub>ö</sub>-ba'ta.j] (fr.), se
-<sp>Arrièregarde</sp>.</chapter>
+<sp>Arrièregarde</sp>.
+</chapter>
 
 <chapter name="corps de logis">
 <b>corps de logis</b> ['kå.r-d<sub>ö</sub>-lå'зi] (fr.),
 Hovedbygning i et større Bygningsanlæg, et Slot, et
-Palads e. l.</chapter>
+Palads e. l.
+</chapter>
 
 <chapter name="corps diplomatique">
 <b>corps diplomatique</b> ['kå.r-diplåma'tik] (fr.)

@@ -65,11 +65,13 @@ og <sp>Blødning</sp>).
 
 <chapter name="Diapensia, Diapensiaceæ">
 <b>Diapensia, Diapensiaceæ,</b> se
-<sp>Fjældprydfamilien</sp>.</chapter>
+<sp>Fjældprydfamilien</sp>.
+</chapter>
 
 <chapter name="Diapente">
 <b>Diapente</b> [gr. -'a'-] (ell. <i>dioxia</i>), gr.
-Betegnelse for <sp>Kvinten</sp>.</chapter>
+Betegnelse for <sp>Kvinten</sp>.
+</chapter>
 
 <chapter name="Diapositiv">
 <b>Diapositiv</b> kaldes et som Regel fotografisk
@@ -136,10 +138,12 @@ tyrk. Sultan Selim I.
 </chapter>
 
 <chapter name="Diarium">
-<b>Diarium</b> (lat.), Dagbog, Kladde.</chapter>
+<b>Diarium</b> (lat.), Dagbog, Kladde.
+</chapter>
 
 <chapter name="Diark">
-<b>Diark</b> (<sp>bot</sp>.), se <sp>Rod</sp>.</chapter>
+<b>Diark</b> (<sp>bot</sp>.), se <sp>Rod</sp>.
+</chapter>
 
 <chapter name="Diarki">
 <b>Diarki</b> (gr.) ell. <sp>Biarki</sp> (lat.-gr.),

@@ -55,10 +55,12 @@ Solar System</i> (1898, tysk Udg. »Ebbe u. Fluth«
 </chapter>
 
 <chapter name="Darwinisme">
-<b>Darwinisme,</b> se <sp>Darwin</sp>.</chapter>
+<b>Darwinisme,</b> se <sp>Darwin</sp>.
+</chapter>
 
 <chapter name="Darwinit">
-<b>Darwinit,</b> d. s. s. <sp>Whitneyit</sp>.</chapter>
+<b>Darwinit,</b> d. s. s. <sp>Whitneyit</sp>.
+</chapter>
 
 <chapter name="Darwin Kanalen">
 <b>Darwin Kanalen</b> ['da.<sub>ə</sub>w<sub>i</sub>n-] fører fra det
@@ -68,10 +70,12 @@ Chonosarchipelet og Patagoniens Vestkyst.
 </chapter>
 
 <chapter name="Das">
-<b>Das,</b> se <sp>Tulsi Das</sp>.</chapter>
+<b>Das,</b> se <sp>Tulsi Das</sp>.
+</chapter>
 
 <chapter name="Dasa">
-<b>Dasa,</b> se <sp>Tibbu</sp>.</chapter>
+<b>Dasa,</b> se <sp>Tibbu</sp>.
+</chapter>
 
 <chapter name="Daschkov, Jekaterina Romànovna">
 <b>Daschkov</b> ['da∫k<sub>å</sub>f], <sp>Jekaterina
@@ -138,7 +142,8 @@ publicerede i »Fyrst Vorontsòv's Arkiv«, 21. Bd.
 </chapter>
 
 <chapter name="Dascht">
-<b>Dascht,</b> se <sp>Descht</sp>.</chapter>
+<b>Dascht,</b> se <sp>Descht</sp>.
+</chapter>
 
 <chapter name="Dase, Johann Martin Zacharias">
 <b>Dase</b> ['da.z<sub>ə</sub>], <sp>Johann Martin

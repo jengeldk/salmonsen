@@ -28,7 +28,8 @@ naar de søger Honning i Blomsterne.
 
 2) (<sp>anat</sp>.), se <sp>Øre</sp>.
 
-3) (<sp>Dæksblad</sp>), se <sp>Cigarer</sp>.</chapter>
+3) (<sp>Dæksblad</sp>), se <sp>Cigarer</sp>.
+</chapter>
 
 <chapter name="Dækfarver">
 <b>Dækfarver,</b> Farver, som i Modsætning til
@@ -43,7 +44,8 @@ Miniaturmaleriet.
 </chapter>
 
 <chapter name="Dækfjer">
-<b>Dækfjer,</b> se <sp>Fjer</sp>.</chapter>
+<b>Dækfjer,</b> se <sp>Fjer</sp>.
+</chapter>
 
 <chapter name="Dækfrøede">
 <b>Dækfrøede</b> (<i>Angiospérmæ</i>), Afdeling i
@@ -68,7 +70,8 @@ en Underafdeling af Sifonogamer.
 
 <chapter name="Dækglas">
 <b>Dækglas,</b> ganske tynde Glas til at lægge over
-f. Eks. mikroskopiske Præparater.</chapter>
+f. Eks. mikroskopiske Præparater.
+</chapter>
 
 <chapter name="Dækgrund">
 <b>Dækgrund</b> fremstilles af Voks, Beg, Asfalt,
@@ -81,7 +84,8 @@ der skal bevare sin opr. Overflade, imod
 </chapter>
 
 <chapter name="Dækhaar">
-<b>Dækhaar</b> (<sp>bot.</sp> og <sp>zool.</sp>), se <sp>Haar</sp>.</chapter>
+<b>Dækhaar</b> (<sp>bot.</sp> og <sp>zool.</sp>), se <sp>Haar</sp>.
+</chapter>
 
 <chapter name="Dækken">
 <b>Dækken</b> er et Tæppe af Filt, Uld, Lærred
@@ -113,7 +117,8 @@ sammenlagt som Ridedækken under Sadlen.
 </chapter>
 
 <chapter name="Dækkengjord">
-<b>Dækkengjord,</b> se <sp>Dækken</sp>.</chapter>
+<b>Dækkengjord,</b> se <sp>Dækken</sp>.
+</chapter>
 
 <chapter name="Dækkentøj">
 <b>Dækkentøj,</b> glat ell. kipret, groft vævet

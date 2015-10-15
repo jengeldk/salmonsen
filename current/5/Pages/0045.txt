@@ -97,7 +97,8 @@ for Châtellerault.
 </chapter>
 
 <chapter name="Clair, Saint">
-<b>Clair, Saint</b> [s<sub>ə</sub>n-'k£æ.<sub>ə</sub>], se <sp>Saint Clair</sp>.</chapter>
+<b>Clair, Saint</b> [s<sub>ə</sub>n-'k£æ.<sub>ə</sub>], se <sp>Saint Clair</sp>.
+</chapter>
 
 <chapter name="Clairac">
 <b>Clairac</b> [klæ'rak], By i det sydvestlige
@@ -134,7 +135,8 @@ A.</sp>).
 </chapter>
 
 <chapter name="Claires">
-<b>Claires</b> [klæ.r], se <sp>Østers</sp>.</chapter>
+<b>Claires</b> [klæ.r], se <sp>Østers</sp>.
+</chapter>
 
 <chapter name="Clairin, Georges Jules Victor">
 <b>Clairin</b> [klæ'ræ], <sp>Georges Jules Victor</sp>,
@@ -169,7 +171,8 @@ Tegninger.
 </chapter>
 
 <chapter name="clairon">
-<b>clairon</b> [klæ'rå] (fr.), se <sp>Clarino</sp>.</chapter>
+<b>clairon</b> [klæ'rå] (fr.), se <sp>Clarino</sp>.
+</chapter>
 
 <chapter name="Clairon, Claire Josephe Hippolyte Legris de la Tude">
 <b>Clairon</b> [klæ'rå], <sp>Claire Josephe

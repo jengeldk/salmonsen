@@ -135,13 +135,16 @@ Smlg. <sp>Kanoper</sp>.
 </chapter>
 
 <chapter name="Dødskamp, Dødsrallen">
-<b>Dødskamp, Dødsrallen,</b> se <sp>Agoni</sp> og <sp>Død</sp>.</chapter>
+<b>Dødskamp, Dødsrallen,</b> se <sp>Agoni</sp> og <sp>Død</sp>.
+</chapter>
 
 <chapter name="Dødsmesse">
-<b>Dødsmesse,</b> se <sp>Sjælemesse</sp>.</chapter>
+<b>Dødsmesse,</b> se <sp>Sjælemesse</sp>.
+</chapter>
 
 <chapter name="Dødspletter">
-<b>Dødspletter,</b> se <sp>Dødstegn</sp>.</chapter>
+<b>Dødspletter,</b> se <sp>Dødstegn</sp>.
+</chapter>
 
 <chapter name="Dødssejleren">
 <b>Dødssejleren.</b> Til Søs skal man undertiden

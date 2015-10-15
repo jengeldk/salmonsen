@@ -80,11 +80,13 @@ Kostümbibliothek« (1896-1904).
 </chapter>
 
 <chapter name="Dragt, se Dragtsadel">
-<b>Dragt,</b> se <sp>Dragtsadel</sp>.</chapter>
+<b>Dragt,</b> se <sp>Dragtsadel</sp>.
+</chapter>
 
 <chapter name="Dragt, se Hov">
 <b>Dragt,</b> <sp>D.-Brusk</sp>, <sp>D.-Grube</sp>,
-<sp>D.-Hjørne</sp>, se <sp>Hov</sp>.</chapter>
+<sp>D.-Hjørne</sp>, se <sp>Hov</sp>.
+</chapter>
 
 <chapter name="Dragtsadel">
 <b>Dragtsadel</b> kaldes den Sadel, der ved det i
@@ -121,7 +123,8 @@ Bibliotek (25000 Bd).
 Politiker, f. 1842, studerede i Athen og Paris, blev
 Dommer, valgtes 1879 til Deputeretkamret, var
 1886-90 og 1892 Udenrigsminister og dannede
-1910 selv et Ministerium.</chapter>
+1910 selv et Ministerium.
+</chapter>
 
 <chapter name="Dragut">
 <b>Dragut</b> (<sp>Thorgu</sp>), Bei i Tripolis og

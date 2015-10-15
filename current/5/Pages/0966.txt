@@ -4,7 +4,8 @@ er saare ufuldstændige og fulde af Fejl.
 </chapter>
 
 <chapter name="Deinos">
-<b>Deinos</b> ['dæ^inås], d. s. s. <sp>Dinos</sp>.</chapter>
+<b>Deinos</b> ['dæ^inås], d. s. s. <sp>Dinos</sp>.
+</chapter>
 
 <chapter name="Deinostratos">
 <b>Deinostratos</b> [dæ^i-], gr. Matematiker fra 2.
@@ -18,7 +19,8 @@ være opfundet af D.'s Lærer, Eudoxos.
 </chapter>
 
 <chapter name="de integro">
-<b>de integro</b> (lat.), fra Begyndelsen af, paa ny.</chapter>
+<b>de integro</b> (lat.), fra Begyndelsen af, paa ny.
+</chapter>
 
 <chapter name="Deiokes">
 <b>Deiokes</b> [gr. dei'oke.s] (<sp>Dayaukku</sp>) er
@@ -40,10 +42,12 @@ Hovedmaaltider.
 
 <chapter name="Deipyle">
 <b>Deipyle</b> [gr. -'pyle.], i de gr. Sagn
-Adrastos' Datter, Tydeus' Hustru, Diomedes' Moder.</chapter>
+Adrastos' Datter, Tydeus' Hustru, Diomedes' Moder.
+</chapter>
 
 <chapter name="Deir d. s. s. Derr">
-<b>Deir,</b> d. s. s. <sp>Derr</sp>.</chapter>
+<b>Deir,</b> d. s. s. <sp>Derr</sp>.
+</chapter>
 
 <chapter name="Deïr, By">
 <b>Deïr,</b> <sp>D.-el-Zor</sp>, <sp>Ed-Der</sp>, <sp>Ed Deïr</sp>, By
@@ -145,7 +149,8 @@ A. W. Thayer's Beethoven-Biografi.
 </chapter>
 
 <chapter name="Deïtet">
-<b>Deïtet</b> (lat.), Guddommelighed.</chapter>
+<b>Deïtet</b> (lat.), Guddommelighed.
+</chapter>
 
 <chapter name="Dej">
 <b>Dej,</b> en Blanding af faste og flydende

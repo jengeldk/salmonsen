@@ -58,14 +58,17 @@ franske Skibe 1823-29« [1888],
 </chapter>
 
 <chapter name="doctissime">
-<b>doctissime</b> (lat.), højlærde Herre.</chapter>
+<b>doctissime</b> (lat.), højlærde Herre.
+</chapter>
 
 <chapter name="docti viri male pingunt">
 <b>docti viri male pingunt</b> (lat.), lærde Mænd
-har en slet Haandskrift.</chapter>
+har en slet Haandskrift.
+</chapter>
 
 <chapter name="doctor ecclesiæ">
-<b>doctor ecclesiæ</b> (lat.), Kirkelærer.</chapter>
+<b>doctor ecclesiæ</b> (lat.), Kirkelærer.
+</chapter>
 
 <chapter name="Doctors Commons">
 <b>Doctors Commons</b> ['dåktəz-'kåm<sub>ə</sub>nz] (eng.).
@@ -89,7 +92,8 @@ til forsk. Afdelinger under de alm. Domstole.
 <b>document humain</b> [dåky'mã-y'mæ] (fr.),
 Bevis støttet paa Erfaring,
 Virkelighedsiagttagelse, Tilfælde fra det virkelige Liv; efter
-Naturalismens Teori Grundlag for al Kunst.</chapter>
+Naturalismens Teori Grundlag for al Kunst.
+</chapter>
 
 <chapter name="Dóczy, Lajos">
 <b>Dóczy</b> ['do.tsi], <sp>Lajos</sp> (tysk <sp>Ludwig v.</sp>),
@@ -131,7 +135,8 @@ hvert Aar.
 </chapter>
 
 <chapter name="Dodabetta">
-<b>Dodabetta,</b> se <sp>Nilgiri</sp>.</chapter>
+<b>Dodabetta,</b> se <sp>Nilgiri</sp>.
+</chapter>
 
 <chapter name="Dod-Ballapur">
 <b>Dod-Ballapur</b> ['dåd-ba.£a.'pu.<sub>ə</sub>], By i

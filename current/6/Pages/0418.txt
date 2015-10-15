@@ -30,7 +30,8 @@ application to taking portraits from the life</i>
 </chapter>
 
 <chapter name="drapere">
-<b>drapere,</b> se <sp>Draperi</sp>.</chapter>
+<b>drapere,</b> se <sp>Draperi</sp>.
+</chapter>
 
 <chapter name="Draperi">
 <b>Draperi</b> (fr. <i>draperie</i> [dra'pri], af <i>drap</i>,
@@ -39,12 +40,14 @@ Klædehandel, kunstnerisk Ordning af et Stof,
 Klædebon, Tæppe o. l. med malerisk Foldekast;
 kunstnerisk ordnet Beklædning. Deraf <sp>drapere</sp>
 (<sp>Drapering</sp>), beklæde med kunstnerisk
-Smag.</chapter>
+Smag.
+</chapter>
 
 <chapter name="Drapeyron, Ludovic">
 <b>Drapeyron</b> [drapæ'rå], <sp>Ludovic</sp>, fr.
 Geograf (1839-1901), stiftede 1876 <i>Revue de
-géographie</i> og s. A. <i>Société de topographie</i>.</chapter>
+géographie</i> og s. A. <i>Société de topographie</i>.
+</chapter>
 
 <chapter name="Draphavre">
 <b>Draphavre</b> (<i>Arrhenatherum</i> Beauv.),
@@ -103,7 +106,8 @@ med varmt Vand ell. Formalinopløsning.
 </chapter>
 
 <chapter name="Draphavrebrand">
-<b>Draphavrebrand,</b> se <sp>Støvbrand</sp>.</chapter>
+<b>Draphavrebrand,</b> se <sp>Støvbrand</sp>.
+</chapter>
 
 <chapter name="Drassoidæ">
 <b>Drassoidæ,</b> Afdeling af de rørboende
@@ -124,14 +128,17 @@ som oftest rørformede Bolig. Hovedslægterne er
 </chapter>
 
 <chapter name="Drassus">
-<b>Drassus,</b> se <sp>Drassoidæ</sp>.</chapter>
+<b>Drassus,</b> se <sp>Drassoidæ</sp>.
+</chapter>
 
 <chapter name="Drastica">
-<b>Drastica,</b> se <sp>afførende Midler</sp>.</chapter>
+<b>Drastica,</b> se <sp>afførende Midler</sp>.
+</chapter>
 
 <chapter name="drastisk">
 <b>drastisk</b> (gr.), stærkt og kraftig virkende
-af slaaende, ofte noget overdreven Virkning.</chapter>
+af slaaende, ofte noget overdreven Virkning.
+</chapter>
 
 <chapter name="Drau">
 <b>Drau</b> [dra^u] (<sp>Drava</sp>, D<sp>rave</sp>), stor Biflod

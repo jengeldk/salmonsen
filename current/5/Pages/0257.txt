@@ -46,7 +46,8 @@ fordrevne fra Byen af Franskmændene under Soult.
 </chapter>
 
 <chapter name="Corundellit">
-<b>Corundellit,</b> se <sp>Sprødglimmer</sp>.</chapter>
+<b>Corundellit,</b> se <sp>Sprødglimmer</sp>.
+</chapter>
 
 <chapter name="corvée">
 <b>corvée</b> [kår've], det fr. Navn for Hoveri.
@@ -62,7 +63,8 @@ disse Byrder bestod indtil Revolutionen.
 </chapter>
 
 <chapter name="Corvidæ">
-<b>Corvidæ,</b> se <sp>Ravnefugle</sp>.</chapter>
+<b>Corvidæ,</b> se <sp>Ravnefugle</sp>.
+</chapter>
 
 <chapter name="Corvina">
 <b>Corvina,</b> det berømte Bibliotek, som den
@@ -109,14 +111,17 @@ Bogbind o. s. v.
 </chapter>
 
 <chapter name="Corvinus, Jakob">
-<b>Corvinus,</b> <sp>Jakob</sp>, se <sp>Raabe, W.</sp></chapter>
+<b>Corvinus,</b> <sp>Jakob</sp>, se <sp>Raabe, W.</sp>
+</chapter>
 
 <chapter name="Corvinus, J. M.">
-<b>Corvinus,</b> <sp>J. M.</sp>, se <sp>Ravn, H. M.</sp></chapter>
+<b>Corvinus,</b> <sp>J. M.</sp>, se <sp>Ravn, H. M.</sp>
+</chapter>
 
 <chapter name="Corvinus, M.">
 <b>Corvinus,</b> <sp>M.</sp>, 1) se <sp>Matthias C.</sp>, 2) se
-<sp>Messala</sp>.</chapter>
+<sp>Messala</sp>.
+</chapter>
 
 <chapter name="Corvin-Wiersbitzki, Otto Julius Bernhard von">
 <b>Corvin-Wiersbitzki</b> [-vjær'bitski], <sp>Otto
@@ -131,7 +136,8 @@ flittig Forfattervirksomhed. Bl. hans Skrifter
 mærkes: »Historische Denkmale des christlichen
 Fanatismus« (1845), »lllustrierte Weltgeschichte«
 (sammen med Held, 4 Bd, 1844-51) og
-»Erinnerungen aus meinem Leben« (4 Bd, 1861).</chapter>
+»Erinnerungen aus meinem Leben« (4 Bd, 1861).
+</chapter>
 
 <chapter name="Corvisart, Francois Rémy Lucien">
 <b>Corvisart</b> [kårvi'za.r], <sp>Francois Rémy

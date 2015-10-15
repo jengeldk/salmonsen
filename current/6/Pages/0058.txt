@@ -64,7 +64,8 @@ Børneskikkelser, hører Marmorbusten »Leende Dreng«
 <chapter name="desiderium">
 <b>desiderium</b> (lat.), Ønske; <i>pium d.</i> (Flertal:
 <i>pia desideria</i>), fromt Ønske, der sandsynligvis
-ikke gaar i Opfyldelse.</chapter>
+ikke gaar i Opfyldelse.
+</chapter>
 
 <chapter name="Desiderius">
 <b>Desiderius,</b> Langobardernes Konge 756-74,
@@ -109,15 +110,18 @@ Autoritet) afhængige Udnævnelse til et Embede.
 
 <chapter name="designator">
 <b>designator</b> (lat.) kaldtes hos Romerne
-Kampdommeren ved offentlige Væddekampe.</chapter>
+Kampdommeren ved offentlige Væddekampe.
+</chapter>
 
 <chapter name="designere">
 <b>designere</b> [ell. -sin'je'r<sub>ə</sub>] (lat.), betegne,
-bestemme, udpege, foreløbig udnævne.</chapter>
+bestemme, udpege, foreløbig udnævne.
+</chapter>
 
 <chapter name="Desillusion">
 <b>Desillusion</b> (fr.), Tab af Illusion;
-<sp>desillusioneret</sp>, berøvet sine Illusioner.</chapter>
+<sp>desillusioneret</sp>, berøvet sine Illusioner.
+</chapter>
 
 <chapter name="Desinfektion">
 <b>Desinfektion.</b> Herved forstaas i

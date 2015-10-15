@@ -69,10 +69,12 @@ Otto Anderssen [Kria]).
 </chapter>
 
 <chapter name="Comeniusselskabet">
-<b>Comeniusselskabet,</b> se <sp>Comenius</sp>.</chapter>
+<b>Comeniusselskabet,</b> se <sp>Comenius</sp>.
+</chapter>
 
 <chapter name="Comeniusstiftelse">
-<b>Comeniusstiftelse,</b> se <sp>Comenius</sp>.</chapter>
+<b>Comeniusstiftelse,</b> se <sp>Comenius</sp>.
+</chapter>
 
 <chapter name="Comerre, Léon-François">
 <b>Comerre</b> [kå'mæ.r], <sp>Léon-François</sp>,
@@ -118,7 +120,8 @@ Føreren) i en anden Stemme og paa andre Tonetrin.
 </chapter>
 
 <chapter name="comes stabuli">
-<b>comes stabuli,</b> se <sp>comes</sp> og <sp>Connétable</sp>.</chapter>
+<b>comes stabuli,</b> se <sp>comes</sp> og <sp>Connétable</sp>.
+</chapter>
 
 <chapter name="Comettant, Oscar">
 <b>Comettant</b> [kåmæ'tã], <sp>Oscar</sp>, fr. Forf. og

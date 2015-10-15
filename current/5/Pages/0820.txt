@@ -9,7 +9,8 @@ Teaterliv« [3 Dele, Kbhvn 1848, 1865, 1877]).
 
 <chapter name="danse macabre">
 <b>danse macabre</b> ['dã.s-ma'ka.br], se
-<sp>Dødedans</sp>.</chapter>
+<sp>Dødedans</sp>.
+</chapter>
 
 <chapter name="Dansemester">
 <b>Dansemester,</b> egl. en lille af Urmagere
@@ -125,11 +126,13 @@ Veits-Dans.
 </chapter>
 
 <chapter name="Dansesyge">
-<b>Dansesyge,</b> d. s. s. <sp>Chorea</sp>.</chapter>
+<b>Dansesyge,</b> d. s. s. <sp>Chorea</sp>.
+</chapter>
 
 <chapter name="danseuse">
 <b>danseuse</b> [dã'sø.z] (fr.), Balletdanserinde, i
-Teatersproget særlig Solodanserinde.</chapter>
+Teatersproget særlig Solodanserinde.
+</chapter>
 
 <chapter name="Danska klefven">
 <b>Danska klefven</b> [-'kle.v<sub>ə</sub>n], Hulvej i

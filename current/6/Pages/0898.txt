@@ -159,7 +159,8 @@ E.</i> [1846]).
 </chapter>
 
 <chapter name="Eldorado">
-<b>Eldorado,</b> se <sp>Dorado</sp>.</chapter>
+<b>Eldorado,</b> se <sp>Dorado</sp>.
+</chapter>
 
 <chapter name="Eldorado">
 <b>Eldorado</b> [e£d<sub>å</sub>'ra.do<sub>u</sub> ell. -'re<sub>i</sub>-], By i U. S.
@@ -172,5 +173,6 @@ med Landbrugsprodukter.
 </chapter>
 
 <chapter name="Elea">
-<b>Elea</b> ['e'lea], se <sp>Velia</sp>.</chapter>
+<b>Elea</b> ['e'lea], se <sp>Velia</sp>.
+</chapter>
 

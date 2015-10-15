@@ -67,7 +67,8 @@ hviler paa Malthus' Befolkningsteori.
 
 <chapter name="Ducq, Jan le">
 <b>Ducq</b> [dyk, (døk?)], <sp>Jan le</sp>, se <sp>Duck,
-Jacob</sp>.</chapter>
+Jacob</sp>.
+</chapter>
 
 <chapter name="Ducrot, Auguste Alexandre">
 <b>Ducrot</b> [dy'kro], <sp>Auguste Alexandre</sp>,
@@ -149,7 +150,8 @@ mindre kultiverede Egne af Landet.
 </chapter>
 
 <chapter name="Dudaim">
-<b>Dudaim,</b> se <sp>Mandragora</sp>.</chapter>
+<b>Dudaim,</b> se <sp>Mandragora</sp>.
+</chapter>
 
 <chapter name="Duddell, William">
 <b>Duddell</b> ['dad£], <sp>William</sp>, eng. Fysiker og

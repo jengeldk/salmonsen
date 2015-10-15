@@ -33,7 +33,8 @@ høj.
 </chapter>
 
 <chapter name="Cotoin">
-<b>Cotoin,</b> se <sp>Cotobark</sp>.</chapter>
+<b>Cotoin,</b> se <sp>Cotobark</sp>.
+</chapter>
 
 <chapter name="Cotoneaster Medic.">
 <b>Cotoneaster</b> Medic. (<sp>Dværgmispel</sp>), Slægt

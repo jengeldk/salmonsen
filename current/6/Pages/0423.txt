@@ -126,10 +126,12 @@ af de talrige vilde Bjergbække.
 </chapter>
 
 <chapter name="Dreissensia">
-<b>Dreissensia,</b> se <sp>Blaamuslinger</sp>.</chapter>
+<b>Dreissensia,</b> se <sp>Blaamuslinger</sp>.
+</chapter>
 
 <chapter name="Drej">
-<b>Drej,</b> se <sp>Drag</sp>.</chapter>
+<b>Drej,</b> se <sp>Drag</sp>.
+</chapter>
 
 <chapter name="dreje">
 <b>dreje</b> (<sp>Søv</sp>.). I Sømandssproget kaldes en
@@ -162,10 +164,12 @@ stoppe Farten ved at dreje Skibet op i Vinden.
 </chapter>
 
 <chapter name="Drejebor">
-<b>Drejebor,</b> d. s. s. <sp>Druebor</sp>.</chapter>
+<b>Drejebor,</b> d. s. s. <sp>Druebor</sp>.
+</chapter>
 
 <chapter name="Drejebro">
-<b>Drejebro,</b> se Broer S. 58.</chapter>
+<b>Drejebro,</b> se Broer S. 58.
+</chapter>
 
 <chapter name="Drejebue">
 <b>Drejebue,</b> Bue af Fiskeben, Spanskrør eller

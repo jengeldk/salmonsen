@@ -71,7 +71,8 @@ Fremstilling for, tydeligere end ved Tabeller, at
 anskueliggøre en Størrelses Afhængighed af en
 anden, f. Eks. i Meteorologien et Steds
 Middeltemperatur for hver Maaned. Smlg. <sp>grafisk
-Fremstilling</sp>.</chapter>
+Fremstilling</sp>.
+</chapter>
 
 <chapter name="Diagram, i grafiske Statik">
 <b>Diagram</b> bruges i den <sp>grafiske Statik</sp>
@@ -138,7 +139,8 @@ Diagrammer af beslægtede Former teoretisk
 
 <chapter name="Diagramapparat">
 <b>Diagramapparat,</b> se
-<sp>Materialprøvemaskiner</sp>.</chapter>
+<sp>Materialprøvemaskiner</sp>.
+</chapter>
 
 <chapter name="Diahot">
 <b>Diahot,</b> den længste Flod paa den australske

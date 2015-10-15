@@ -25,7 +25,8 @@ fuldstændigt Overblik over hele Psykologien.
 </chapter>
 
 <chapter name="Ebbo">
-<b>Ebbo,</b> se <sp>Ebo</sp>.</chapter>
+<b>Ebbo,</b> se <sp>Ebo</sp>.
+</chapter>
 
 <chapter name="Ebbw-Vale">
 <b>Ebbw-Vale</b> ['eb<sub>u</sub>-'ve<sub>i</sub>£], By i det vestlige
@@ -113,10 +114,12 @@ Bearbejdelse af Zeuss' <i>Grammatica Celtica</i> (1871).
 </chapter>
 
 <chapter name="Ebelholt Kloster">
-<b>Ebelholt Kloster,</b> se <sp>Æbelholt Kloster</sp>.</chapter>
+<b>Ebelholt Kloster,</b> se <sp>Æbelholt Kloster</sp>.
+</chapter>
 
 <chapter name="Ebeltoft">
-<b>Ebeltoft,</b> se <sp>Æbeltoft</sp>.</chapter>
+<b>Ebeltoft,</b> se <sp>Æbeltoft</sp>.
+</chapter>
 
 <chapter name="Ebenaceæ">
 <b>Ebenaceæ</b> (<sp>Ibenholtfamilien</sp>),

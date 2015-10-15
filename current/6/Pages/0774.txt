@@ -54,7 +54,8 @@ Zuidersøen.
 <chapter name="Eendragt">
 <b>Eendragt</b> ['e.ndraKt], Arm af Øster-Schelde,
 mellem Øen Tolen og Fastlandet, danner Grænse
-mellem de holl. Prov. Zeeland og Nordbrabant.</chapter>
+mellem de holl. Prov. Zeeland og Nordbrabant.
+</chapter>
 
 <chapter name="Eetvelde, Edmond">
 <b>Eetvelde</b> ['e.tfæ£d<sub>ə</sub>], <sp>Edmond</sp>, belg.
@@ -147,7 +148,8 @@ attique</i> [Paris 1875-77]).
 
 <chapter name="efemer">
 <b>efemer</b> (gr.), kun varende en Dag,
-kortvarig, forgængelig.</chapter>
+kortvarig, forgængelig.
+</chapter>
 
 <chapter name="efemer Feber">
 <b>efemer Feber</b> (lat.), <i>Febris ephemera</i>, er

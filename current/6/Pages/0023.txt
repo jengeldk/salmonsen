@@ -57,14 +57,17 @@ Nudibranchiernes sædvanlige Forvandling.
 </chapter>
 
 <chapter name="Dendrophidæ">
-<b>Dendrophidæ</b> [-'fi.-], se <sp>Snoge</sp>.</chapter>
+<b>Dendrophidæ</b> [-'fi.-], se <sp>Snoge</sp>.
+</chapter>
 
 <chapter name="Deneb">
-<b>Deneb</b> (arab.: »Hale«), Stjernen α i »Svanen«.</chapter>
+<b>Deneb</b> (arab.: »Hale«), Stjernen α i »Svanen«.
+</chapter>
 
 <chapter name="Denebola">
 <b>Denebola</b> (<i>Deneb el Ased</i>), »Løven«'s Hale,
-Stjernen α i »Løven«.</chapter>
+Stjernen α i »Løven«.
+</chapter>
 
 <chapter name="denegatio">
 <b>denegatio</b> (lat), Nægtelse, Fornægtelse, <i>d.
@@ -82,7 +85,8 @@ Højesteret, <i>d. debiti conjugalis</i>, Nægtelse af
 </chapter>
 
 <chapter name="Deneshka">
-<b>Deneshka</b> ['d<sub>i</sub>en<sub>ji</sub>∫k<sub>a</sub>], se <sp>Denga</sp>.</chapter>
+<b>Deneshka</b> ['d<sub>i</sub>en<sub>ji</sub>∫k<sub>a</sub>], se <sp>Denga</sp>.
+</chapter>
 
 <chapter name="Denfert-Rochereau, Pierre Marie Philippe Aristide">
 <b>Denfert-Rochereau</b> [dã'fæ.r-râ'∫ro], <sp>Pierre
@@ -122,7 +126,8 @@ droits politiques des militaires</i> (1874).
 
 <chapter name="Denga">
 <b>Denga</b> ['d<sub>j</sub>en<sub>j</sub>g<sub>a</sub> ell. d<sub>j</sub>en<sub>j</sub>'ga] (<sp>Déneshka</sp>),
-russ. Bronzeskillemønt. Værdi 1/2 Kopek.</chapter>
+russ. Bronzeskillemønt. Værdi 1/2 Kopek.
+</chapter>
 
 <chapter name="Dengesich">
 <b>Dengesich</b> (<sp>Dintzic</sp>), Søn af

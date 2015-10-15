@@ -108,10 +108,12 @@ comte de Hornes</i> [Bryssel 1862]).
 </chapter>
 
 <chapter name="Egnatia">
-<b>Egnatia,</b> se <sp>Fasano</sp>.</chapter>
+<b>Egnatia,</b> se <sp>Fasano</sp>.
+</chapter>
 
 <chapter name="ego">
-<b>ego,</b> se <sp>Jeg</sp>.</chapter>
+<b>ego,</b> se <sp>Jeg</sp>.
+</chapter>
 
 <chapter name="egocentrisk">
 <b>egocentrisk</b> betegner Tilbøjeligheden til at
@@ -129,7 +131,8 @@ denne Tilbøjelighed.
 
 <chapter name="Egoisme">
 <b>Egoisme</b> (lat.) af <i>ego</i>, jeg, Egennytte, se
-<sp>egoistisk</sp>.</chapter>
+<sp>egoistisk</sp>.
+</chapter>
 
 <chapter name="egoistisk">
 <b>egoistisk</b> kaldes enhver Handling, der

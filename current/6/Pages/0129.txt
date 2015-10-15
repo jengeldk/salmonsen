@@ -46,13 +46,16 @@ Fluer (Kantarider), se <sp>Afrodislaca</sp>.
 
 <chapter name="diavolo">
 <b>diavolo</b> ['d<sub>i</sub>avolo] (ital.), Djævel. (Fra
-Diavolo: Broder Djævel).</chapter>
+Diavolo: Broder Djævel).
+</chapter>
 
 <chapter name="Diaz, B.">
-<b>Diaz</b> ['di<sub>ə</sub>∫], <sp>B.</sp>, se <sp>Dias</sp>.</chapter>
+<b>Diaz</b> ['di<sub>ə</sub>∫], <sp>B.</sp>, se <sp>Dias</sp>.
+</chapter>
 
 <chapter name="Diaz, N.">
-<b>Diaz</b> ['di<sub>ə</sub>∫], <sp>N.</sp> Pastor, se <sp>Pastor Diaz, N</sp>.</chapter>
+<b>Diaz</b> ['di<sub>ə</sub>∫], <sp>N.</sp> Pastor, se <sp>Pastor Diaz, N</sp>.
+</chapter>
 
 <chapter name="Diaz, Porfirio">
 <b>Diaz</b> ['ðias], <sp>Porfirio</sp>, Præsident i Meksiko

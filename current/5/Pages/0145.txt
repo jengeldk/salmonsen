@@ -145,7 +145,8 @@ Reumont</sp> [Freiburg 1881]; <sp>Morpurgo</sp> [Triest
 
 <chapter name="Colonna de Castiglione">
 <b>Colonna de Castiglione</b> [-kasti'l<sub>i</sub>one], se
-<sp>Castiglione, Colonna de</sp>.</chapter>
+<sp>Castiglione, Colonna de</sp>.
+</chapter>
 
 <chapter name="Colonna, Palazzo">
 <b>Colonna, Palazzo</b> [-pa'lat.so], i Rom ved

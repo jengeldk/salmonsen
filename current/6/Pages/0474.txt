@@ -1,6 +1,7 @@
 mere faar Form af et Causeri end. af et
 højtideligt udformet Essay i ældre Forstand.
-<b>I. O.</b></chapter>
+<i>I. O.</i>
+</chapter>
 
 <chapter name="Drygalski, Erich von">
 <b>Drygalski,</b> <sp>Erich von</sp>, <i>Dr. phil.</i>, tysk
@@ -75,7 +76,8 @@ samme Navn paa Messeniens Kyst.
 </chapter>
 
 <chapter name="Dryophis">
-<b>Dryophis</b> [-fis], se <sp>Snoge</sp>.</chapter>
+<b>Dryophis</b> [-fis], se <sp>Snoge</sp>.
+</chapter>
 
 <chapter name="Dryopithecus">
 <b>Dryopithecus</b> [-'te.-], en uddød Menneskeabe
@@ -99,7 +101,8 @@ en Helligdom med et gl. Kultusbillede.
 </chapter>
 
 <chapter name="Dryopteris">
-<b>Dryopteris,</b> se <sp>Mangeløv</sp>.</chapter>
+<b>Dryopteris,</b> se <sp>Mangeløv</sp>.
+</chapter>
 
 <chapter name="Drypne">
 <b>Drypne</b> (<sp>Draupne</sp>), Odin's Ring, havde

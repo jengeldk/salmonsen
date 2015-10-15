@@ -42,7 +42,8 @@ Révolution française</i> [Paris 1904]).
 </chapter>
 
 <chapter name="Condoritræ">
-<b>Condoritræ,</b> se <sp>Koraltræ</sp>.</chapter>
+<b>Condoritræ,</b> se <sp>Koraltræ</sp>.
+</chapter>
 
 <chapter name="Condottiere">
 <b>Condottiere</b> [-tiære] (ital., af det latinske
@@ -138,7 +139,8 @@ i den nedre, nordlige <sp>Huy</sp>.
 </chapter>
 
 <chapter name="con duolo">
-<b>con duolo</b> [-'d<sub>u</sub>ålo], se <sp>con</sp>.</chapter>
+<b>con duolo</b> [-'d<sub>u</sub>ålo], se <sp>con</sp>.
+</chapter>
 
 <chapter name="Condurangobark">
 <b>Condurangobark</b> (<i>Cortex Condurángo</i>).

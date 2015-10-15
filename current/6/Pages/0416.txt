@@ -100,10 +100,12 @@ Drammenselven. Nedslagsdistriktet er paa 17342 km<sup>2</sup> og
 udgøres af Valdres, Hallingdal, Eggedal,
 Hadelands og Ekers Vandsystemer. Vandkraften er
 udnyttet til Drift af en stor Mængde Fabrikker,
-især Træsliberier, Papir- og Cellulosefabrikker.</chapter>
+især Træsliberier, Papir- og Cellulosefabrikker.
+</chapter>
 
 <chapter name="Drance">
-<b>Drance</b> [drã.s], se <sp>Dranse</sp>.</chapter>
+<b>Drance</b> [drã.s], se <sp>Dranse</sp>.
+</chapter>
 
 <chapter name="Drangajøkull">
 <b>Drangajøkull</b> ['draŋajökødl], en Jøkel i det

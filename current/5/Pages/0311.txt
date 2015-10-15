@@ -92,10 +92,12 @@ erobrede Franskmændene det atter.
 
 <chapter name="Crèvecæur de Perthes">
 <b>Crèvecæur de Perthes</b> [kræv'kö.r-d<sub>ö</sub>-'pært],
-se <sp>Boucher de C. de P</sp>.</chapter>
+se <sp>Boucher de C. de P</sp>.
+</chapter>
 
 <chapter name="Crève-cæurs">
-<b>Crève-cæurs</b> [kræv-'kö.r], se <sp>Høns</sp>.</chapter>
+<b>Crève-cæurs</b> [kræv-'kö.r], se <sp>Høns</sp>.
+</chapter>
 
 <chapter name="Crevillente">
 <b>Crevillente</b> [kræwi'l<sub>j</sub>ænt<sub>æ</sub>], By i det østlige
@@ -164,7 +166,8 @@ Fabrikation af Lærred og Sejldug, og 3939 Indb.
 </chapter>
 
 <chapter name="Crex">
-<b>Crex,</b> se <sp>Vagtelkonge</sp>.</chapter>
+<b>Crex,</b> se <sp>Vagtelkonge</sp>.
+</chapter>
 
 <chapter name="Çri">
 <b>Çri</b> [sri] ell. <sp>Lakshmi</sp> (»Herlighed, Lykke«),

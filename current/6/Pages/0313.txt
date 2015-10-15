@@ -5,11 +5,13 @@ Septim (i <sp>C-dur</sp>: <i>g h d f</i>).
 </chapter>
 
 <chapter name="Domine, miserere">
-<b>Domine, miserere</b> (lat.), Herre, forbarm dig!</chapter>
+<b>Domine, miserere</b> (lat.), Herre, forbarm dig!
+</chapter>
 
 <chapter name="dominere">
 <b>dominere</b> (lat.), herske, beherske, spille
-Herre.</chapter>
+Herre.
+</chapter>
 
 <chapter name="Domingit">
 <b>Domingit</b> (<sp>Warrenit</sp>); - Mineral Pb<sub>3</sub>Sb<sub>4</sub>S<sub>9</sub>,
@@ -21,7 +23,8 @@ County i Colorado.
 
 <chapter name="Domingohamp">
 <b>Domingohamp,</b> Benævnelse paa
-Agavetrævler og Aloëhamp.</chapter>
+Agavetrævler og Aloëhamp.
+</chapter>
 
 <chapter name="Dominguez, Lopez">
 <b>Dominguez</b> [ðå'miŋgw<sub>æ</sub>þ], <sp>Lopez</sp>, spansk
@@ -164,7 +167,8 @@ Grundskat.
 </chapter>
 
 <chapter name="Dominikaner">
-<b>Dominikaner,</b> se <sp>Kardinal</sp>.</chapter>
+<b>Dominikaner,</b> se <sp>Kardinal</sp>.
+</chapter>
 
 <chapter name="Dominikanere">
 <b>Dominikanere</b> (<i>domini canes</i>, Herrens

@@ -37,7 +37,8 @@ f. mikroskop. Anat.«, 1887-89.
 </chapter>
 
 <chapter name="Edingtonit">
-<b>Edingtonit,</b> se <sp>Zeolitter</sp>.</chapter>
+<b>Edingtonit,</b> se <sp>Zeolitter</sp>.
+</chapter>
 
 <chapter name="Edinol">
 <b>Edinol,</b> det saltsure Salt af
@@ -48,7 +49,8 @@ til Fremstilling af Fremkalderbade.
 </chapter>
 
 <chapter name="Edirne">
-<b>Edirne,</b> se <sp>Adrianopel</sp>.</chapter>
+<b>Edirne,</b> se <sp>Adrianopel</sp>.
+</chapter>
 
 <chapter name="Edison, Thomas Alva">
 <b>Edison</b> |'ed<sub>i</sub>s<sub>ə</sub>n], <sp>Thomas Alva</sp>, amer.

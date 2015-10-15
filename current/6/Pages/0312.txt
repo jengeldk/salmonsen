@@ -42,7 +42,8 @@ Vedtægter.
 
 <chapter name="Domestik">
 <b>Domestik</b> (fr., af lat. <i>domésticus</i>, hørende
-til Huset), Tjener, Tyende.</chapter>
+til Huset), Tjener, Tyende.
+</chapter>
 
 <chapter name="Domett, Alfred">
 <b>Domett</b> ['dåm<sub>i</sub>t], <sp>Alfred</sp>, eng. Digter
@@ -102,7 +103,8 @@ Borgen.
 </chapter>
 
 <chapter name="Domherre">
-<b>Domherre,</b> se <sp>Domkapitel</sp>.</chapter>
+<b>Domherre,</b> se <sp>Domkapitel</sp>.
+</chapter>
 
 <chapter name="Dómhringr">
 <b>Dómhringr</b> ['do.mhreŋr] (<sp>Domring</sp>),
@@ -142,7 +144,8 @@ Pager.
 </chapter>
 
 <chapter name="Domicil">
-<b>Domicil,</b> Hjemsted, Bopæl.</chapter>
+<b>Domicil,</b> Hjemsted, Bopæl.
+</chapter>
 
 <chapter name="Domicilveksel">
 <b>Domicilveksel</b> eller domicileret Veksel, en
@@ -172,7 +175,8 @@ andre Veksler.
 <b>domina</b> (lat.), Husfrue; i senrom. Tid
 Tiltaleord for unge Piger; Herskerinde;
 Forstanderske for et Nonnekloster ell. en
-Jomfrustiftelse, Abbedisse.</chapter>
+Jomfrustiftelse, Abbedisse.
+</chapter>
 
 <chapter name="Dominant">
 <b>Dominant</b> (lat.: <i>dominans</i> neml. <i>tonus</i>, »den

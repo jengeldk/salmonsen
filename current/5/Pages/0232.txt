@@ -81,10 +81,12 @@ af Forterne Camden og Carlisle. (<sp>Litt</sp>.:
 </chapter>
 
 <chapter name="Cork Harbour">
-<b>Cork Harbour</b> ['kå.<sub>ə</sub>k-'ha.<sub>ə</sub>bə], se <sp>Cork</sp>.</chapter>
+<b>Cork Harbour</b> ['kå.<sub>ə</sub>k-'ha.<sub>ə</sub>bə], se <sp>Cork</sp>.
+</chapter>
 
 <chapter name="Corkit">
-<b>Corkit,</b> d. s. s. <sp>Beudantit</sp>.</chapter>
+<b>Corkit,</b> d. s. s. <sp>Beudantit</sp>.
+</chapter>
 
 <chapter name="Corleone">
 <b>Corleone</b> [kårlæ'ån<sub>æ</sub>], By paa Sicilien, Prov.
@@ -97,16 +99,20 @@ ligger Resjter af det gl. Schera.
 </chapter>
 
 <chapter name="Cor leonis">
-<b>Cor leonis</b> [kår-] (astron.), se <sp>Løven</sp>.</chapter>
+<b>Cor leonis</b> [kår-] (astron.), se <sp>Løven</sp>.
+</chapter>
 
 <chapter name="Corliss-Maskine">
-<b>Corliss-Maskine,</b> se <sp>Dampmaskine</sp>.</chapter>
+<b>Corliss-Maskine,</b> se <sp>Dampmaskine</sp>.
+</chapter>
 
 <chapter name="Corliss-Styring">
-<b>Corliss-Styring,</b> se <sp>Dampmaskine</sp>.</chapter>
+<b>Corliss-Styring,</b> se <sp>Dampmaskine</sp>.
+</chapter>
 
 <chapter name="Corlu">
-<b>Corlu</b> ['t∫orlu], se <sp>Tschorlu</sp>.</chapter>
+<b>Corlu</b> ['t∫orlu], se <sp>Tschorlu</sp>.
+</chapter>
 
 <chapter name="Cormeilles">
 <b>Cormeilles</b> [kår'mæ.j], <sp>C.-en-Parisis</sp>,

@@ -4,7 +4,8 @@ Mineralogie«.
 </chapter>
 
 <chapter name="Damesadel">
-<b>Damesadel,</b> se <sp>Sadel</sp>.</chapter>
+<b>Damesadel,</b> se <sp>Sadel</sp>.
+</chapter>
 
 <chapter name="Damghan">
 <b>Damghan,</b> By i den pers. Prov. Irak Adshmi,
@@ -92,7 +93,8 @@ væsensbeslægtede med Demeter og Persefone.
 </chapter>
 
 <chapter name="Damiana">
-<b>Damiana,</b> se <sp>Turneraceæ</sp>.</chapter>
+<b>Damiana,</b> se <sp>Turneraceæ</sp>.
+</chapter>
 
 <chapter name="Damiani, Petrus">
 <b>Damiani,</b> <sp>Petrus</sp>, Asket og
@@ -147,7 +149,8 @@ Foliobind).
 </chapter>
 
 <chapter name="Damianistinder">
-<b>Damianistinder,</b> se <sp>Clarisserinder</sp>.</chapter>
+<b>Damianistinder,</b> se <sp>Clarisserinder</sp>.
+</chapter>
 
 <chapter name="Damianitter">
 <b>Damianitter</b> kaldes de, der hylder den
@@ -158,7 +161,8 @@ hver for sig er Gud, men kun tilsammen.
 </chapter>
 
 <chapter name="Damianus">
-<b>Damianus,</b> se <sp>Kosmas</sp>.</chapter>
+<b>Damianus,</b> se <sp>Kosmas</sp>.
+</chapter>
 
 <chapter name="Damiat">
 <b>Damiat</b> (fr. <sp>Damiette</sp>), By i

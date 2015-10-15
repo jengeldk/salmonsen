@@ -125,7 +125,8 @@ gennem den sydvestlige Del af Dept.
 
 <chapter name="cotidal lines">
 <b>cotidal lines</b> [k<sub>ə</sub>'ta^id<sub>ə</sub>£-'£a^inz], se
-<sp>Tidevand</sp>.</chapter>
+<sp>Tidevand</sp>.
+</chapter>
 
 <chapter name="Cotin, Charles">
 <b>Cotin</b> [kå'tæ], <sp>Charles</sp>, fr. Abbé (1604-
@@ -143,10 +144,12 @@ under Behandling i sine Satirer.
 </chapter>
 
 <chapter name="Cotingidæ">
-<b>Cotingidæ,</b> se <sp>Kotinga</sp>'er.</chapter>
+<b>Cotingidæ,</b> se <sp>Kotinga</sp>'er.
+</chapter>
 
 <chapter name="Cotinus">
-<b>Cotinus,</b> se <sp>Rhus</sp>.</chapter>
+<b>Cotinus,</b> se <sp>Rhus</sp>.
+</chapter>
 
 <chapter name="Cotman, John Sell">
 <b>Cotman</b> ['kåtm<sub>ä</sub>n], <sp>John Sell</sp>, engelsk

@@ -69,7 +69,8 @@ angives kort og bestemt uden Detailler
 
 <chapter name="dispositiones inter vivos">
 <b>dispositiones inter vivos</b> (lat.),
-Retshandeler i levende Live.</chapter>
+Retshandeler i levende Live.
+</chapter>
 
 <chapter name="dispositiones mortis causa">
 <b>dispositiones mortis causa</b> (lat.),
@@ -110,21 +111,25 @@ paa.
 </chapter>
 
 <chapter name="dispositiv Arvepagt">
-<b>dispositiv Arvepagt,</b> se <sp>Arvepagt</sp>.</chapter>
+<b>dispositiv Arvepagt,</b> se <sp>Arvepagt</sp>.
+</chapter>
 
 <chapter name="dispositiv Lov">
 <b>dispositiv Lov,</b> det samme som
-<sp>deklaratorisk Lov</sp>.</chapter>
+<sp>deklaratorisk Lov</sp>.
+</chapter>
 
 <chapter name="Disproportion">
 <b>Disproportion</b> (nylat.), Mangel paa Symmetri,
-Uforholdsmæssighed, Misforhold.</chapter>
+Uforholdsmæssighed, Misforhold.
+</chapter>
 
 <chapter name="Disput">
 <b>Disput</b> [di'spyt] (lat., fr. <i>dispute</i>), Ordkamp,
 Ordskifte; <sp>disputabel</sp>, omtvistelig,
 omstridelig; <sp>disputere</sp>, stride, tage Del i en Disput,
-forsvare en Disputats (se <sp>Disputation</sp>).</chapter>
+forsvare en Disputats (se <sp>Disputation</sp>).
+</chapter>
 
 <chapter name="Disputa">
 <b>Disputa</b> (ital.) er det gængse Navn for en
@@ -139,10 +144,12 @@ Forherligelse af den kristne Tro. Se endvidere
 </chapter>
 
 <chapter name="disputabel">
-<b>disputabel,</b> se <sp>Disput</sp>.</chapter>
+<b>disputabel,</b> se <sp>Disput</sp>.
+</chapter>
 
 <chapter name="Disputant">
-<b>Disputant,</b> se <sp>Disputation</sp>.</chapter>
+<b>Disputant,</b> se <sp>Disputation</sp>.
+</chapter>
 
 <chapter name="Disputation">
 <b>Disputation</b> (lat., af <i>disputare</i>, afhandle).

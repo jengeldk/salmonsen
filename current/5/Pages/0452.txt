@@ -103,7 +103,8 @@ Leipzig 1875).
 </chapter>
 
 <chapter name="Dakota, se Sioux">
-<b>Dakota</b> [eng. d<sub>ə</sub>'ko<sub>u</sub>t<sub>a</sub>], se <sp>Sioux</sp>.</chapter>
+<b>Dakota</b> [eng. d<sub>ə</sub>'ko<sub>u</sub>t<sub>a</sub>], se <sp>Sioux</sp>.
+</chapter>
 
 <chapter name="Dakota, tidligere Territorium i U. S. A.">
 <b>Dakota</b> [d<sub>ə</sub>'ko<sub>u</sub>t<sub>a</sub>], tidligere Territorium i
@@ -133,7 +134,8 @@ Brakvandsdyr, samt talrige Planterester.
 
 <chapter name="Dakryoadenitis">
 <b>Dakryoadenitis,</b> Betændelse i Taarekirtlen,
-sjælden Sygdom.</chapter>
+sjælden Sygdom.
+</chapter>
 
 <chapter name="Dakryocystitis">
 <b>Dakryocystitis</b> er Betændelse i Taaresækken.

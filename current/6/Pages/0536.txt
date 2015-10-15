@@ -41,11 +41,13 @@ London tildelt D. <i>Faraday</i>-Medaillen. (<sp>Litt</sp>.:
 
 <chapter name="Dumasit">
 <b>Dumasit</b> [dy-], et grønt Klorit-Mineral fra
-Vogeserne.</chapter>
+Vogeserne.
+</chapter>
 
 <chapter name="Du Maurier">
 <b>Du Maurier</b> [fr. dymå'r<sub>i</sub>e, eng. dju'må.r<sub>i</sub>e<sub>i</sub>],
-se <sp>Maurier</sp>.</chapter>
+se <sp>Maurier</sp>.
+</chapter>
 
 <chapter name="Dumbarton">
 <b>Dumbarton</b> [dam'ba.<sub>ə</sub>t<sub>ə</sub>n], Shire i det
@@ -94,7 +96,8 @@ Alexandria og Bonhill.
 
 <chapter name="Dumb-bell-Taagen">
 <b>Dumb-bell-Taagen</b> ['dam-b<sub>ə</sub>£-] (<sp>astron</sp>.),
-se <sp>Ræven</sp>.</chapter>
+se <sp>Ræven</sp>.
+</chapter>
 
 <chapter name="Dumbshow">
 <b>Dumbshow</b> ['dam∫o<sub>u</sub>], en Art Pantomime i

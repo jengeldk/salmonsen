@@ -71,18 +71,22 @@ Indtægt 1910: 304335 Kr, Formue 751700 Kr.
 
 <chapter name="Dyrøy, Ø">
 <b>Dyrøy,</b> Ø i Tromsø Amt, 49,8 km<sup>2</sup>. (1910)
-744 Indb., udgør en Del af Herredet af s. N.</chapter>
+744 Indb., udgør en Del af Herredet af s. N.
+</chapter>
 
 <chapter name="Dys-">
 <b>Dys-</b> (gr.), Forstavelse, der svarer til dansk
 u . . ., mis ... og van . . ., altsaa betegner noget
-uheldigt, daarligt, mislykket.</chapter>
+uheldigt, daarligt, mislykket.
+</chapter>
 
 <chapter name="Dysacusis">
-<b>Dysacusis,</b> d. s. s. <sp>Tunghørighed</sp>.</chapter>
+<b>Dysacusis,</b> d. s. s. <sp>Tunghørighed</sp>.
+</chapter>
 
 <chapter name="Dysanagnosi">
-<b>Dysanagnosi</b> (gr.), d. s. s. <sp>Dystoksi</sp>.</chapter>
+<b>Dysanagnosi</b> (gr.), d. s. s. <sp>Dystoksi</sp>.
+</chapter>
 
 <chapter name="Dysanolyt">
 <b>Dysanolyt,</b> et paa sjældne Grundstoffer
@@ -105,11 +109,13 @@ Kirkcaldy. (1911) 4559 Indb.
 
 <chapter name="Dysarthrosis">
 <b>Dysarthrosis</b> [-'tro.-] (gr.) (<i>Luxatio
-congenita</i>), medfødt Forvridning.</chapter>
+congenita</i>), medfødt Forvridning.
+</chapter>
 
 <chapter name="Dysartri">
 <b>Dysartri</b> (gr.), Forstyrrelse i Evnen til
-artikuleret Tale.</chapter>
+artikuleret Tale.
+</chapter>
 
 <chapter name="Dysbasi">
 <b>Dysbasi,</b> egl. daarlig Gang; oftest
@@ -136,7 +142,8 @@ bevægelig Kappe, der slutter om Lufthullerne.
 </chapter>
 
 <chapter name="Dysenteri">
-<b>Dysenteri</b> (gr.), se <sp>Blodgang</sp>.</chapter>
+<b>Dysenteri</b> (gr.), se <sp>Blodgang</sp>.
+</chapter>
 
 <chapter name="Dysfagi">
 <b>Dysfagi</b> (gr.), besværet Synkning, kan
@@ -161,7 +168,8 @@ Vrangstruben ɔ: i Luftrøret.
 <chapter name="Dysfasi">
 <b>Dysfasi</b> (gr.), Forstyrrelse af Talen ved
 Mangel paa Evne til at give Tanker og
-Forestillinger det rette Udtryk i Ord.</chapter>
+Forestillinger det rette Udtryk i Ord.
+</chapter>
 
 <chapter name="Dyshidrosis">
 <b>Dyshidrosis</b> (gr.), en Form af Ekzem, der

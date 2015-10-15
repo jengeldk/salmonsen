@@ -71,7 +71,8 @@ Omraade.
 
 <chapter name="Egidianere">
 <b>Egidianere,</b> se <sp>Ægidianske
-Konstitutioner.</sp></chapter>
+Konstitutioner.</sp>
+</chapter>
 
 <chapter name="Egidy, Christoph Moritz von">
 <b>Egidy,</b> <sp>Christoph Moritz von</sp>, tysk
@@ -107,7 +108,8 @@ der skød et Æble af sin Søns Hoved (jfr
 </chapter>
 
 <chapter name="Egil, se Tigris">
-<b>Egil</b> (<sp>Schatt</sp>); se <sp>Tigris</sp>.</chapter>
+<b>Egil</b> (<sp>Schatt</sp>); se <sp>Tigris</sp>.
+</chapter>
 
 <chapter name="Egil den Enhaandede">
 <b>Egil den Enhaandede,</b> Helten i en

@@ -74,21 +74,26 @@ Sukkervarefabrikationen m. m.
 </chapter>
 
 <chapter name="Dekstrinsirup">
-<b>Dekstrinsirup,</b> se <sp>Dekstrin</sp>.</chapter>
+<b>Dekstrinsirup,</b> se <sp>Dekstrin</sp>.
+</chapter>
 
 <chapter name="Dekstrokardi">
-<b>Dekstrokardi,</b> se <sp>Situs inversus</sp>.</chapter>
+<b>Dekstrokardi,</b> se <sp>Situs inversus</sp>.
+</chapter>
 
 <chapter name="Dekstronsyre">
-<b>Dekstronsyre,</b> se <sp>Glukonsyre</sp>.</chapter>
+<b>Dekstronsyre,</b> se <sp>Glukonsyre</sp>.
+</chapter>
 
 <chapter name="Dekstrose">
-<b>Dekstrose,</b> d. s. s. <sp>Glykose</sp>.</chapter>
+<b>Dekstrose,</b> d. s. s. <sp>Glykose</sp>.
+</chapter>
 
 <chapter name="dekupere">
 <b>dekupere</b> (fr.), sønderlemme, skære itu,
 udskære Billeder (i Træ, Pap etc.). <sp>Dekupør</sp>,
-den der udskærer (udklipper) saadanne Billeder.</chapter>
+den der udskærer (udklipper) saadanne Billeder.
+</chapter>
 
 <chapter name="Dekupørarbejde">
 <b>Dekupørarbejde,</b> Indlægning ell.

@@ -61,7 +61,8 @@ Skr af Peder Claussøn Friis«, udg. af G. Storm
 </chapter>
 
 <chapter name="Clausthal">
-<b>Clausthal</b> ['kla^usta.l], se <sp>Klausthal</sp>.</chapter>
+<b>Clausthal</b> ['kla^usta.l], se <sp>Klausthal</sp>.
+</chapter>
 
 <chapter name="Claustrofobi">
 <b>Claustrofobi,</b> Angst for Ophold i et lukket
@@ -71,7 +72,8 @@ Rum; en Form for Tvangstankesygdom (se
 </chapter>
 
 <chapter name="claustrum">
-<b>claustrum</b> (lat.), Indelukke, Kloster.</chapter>
+<b>claustrum</b> (lat.), Indelukke, Kloster.
+</chapter>
 
 <chapter name="clausula cassatoria">
 <b>clausula cassatoria</b> er et Forbehold, som

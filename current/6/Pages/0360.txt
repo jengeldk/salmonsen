@@ -89,7 +89,8 @@ og Sejre.
 </chapter>
 
 <chapter name="dotere">
-<b>dotere</b> (lat.), yde en <sp>Dotation</sp> (s. d.).</chapter>
+<b>dotere</b> (lat.), yde en <sp>Dotation</sp> (s. d.).
+</chapter>
 
 <chapter name="Dothideaceæ">
 <b>Dothideaceæ</b> [-ti-], Fam. af <i>Pyrenomycetes</i>,

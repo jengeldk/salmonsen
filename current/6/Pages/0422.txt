@@ -154,7 +154,8 @@ sejlbar for store Flodskibe.
 
 <chapter name="Dreelit">
 <b>Dreelit</b> [dre<sub>e</sub>'lit], en noget kalkholdig Varietet
-af Mineralet <sp>Baryt</sp>.</chapter>
+af Mineralet <sp>Baryt</sp>.
+</chapter>
 
 <chapter name="Dreher, Anton">
 <b>Dreher</b> ['dre.<sub>ə</sub>r], <sp>Anton</sp>, tysk Brygger, f.

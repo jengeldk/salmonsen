@@ -1,5 +1,6 @@
 <chapter name="Ejeform">
-<b>Ejeform</b> (<sp>Ejefald</sp>), se <sp>Forholdsform</sp>.</chapter>
+<b>Ejeform</b> (<sp>Ejefald</sp>), se <sp>Forholdsform</sp>.
+</chapter>
 
 <chapter name="Ejektor">
 <b>Ejektor</b> benævnes det Dampstraaleapparat,
@@ -105,7 +106,8 @@ opnaa en formelig Ejendomsdom (s. d.).
 
 <chapter name="Ejendomsafstaaelse">
 <b>Ejendomsafstaaelse,</b> se
-<sp>Ekspropriation</sp>.</chapter>
+<sp>Ekspropriation</sp>.
+</chapter>
 
 <chapter name="Ejendomsbesiddelse">
 <b>Ejendomsbesiddelse</b> foreligger, hvor en
@@ -121,7 +123,8 @@ Ejendomshævd, jfr D. L. 5-5-1.
 </chapter>
 
 <chapter name="Ejendomsbeskadigelse">
-<b>Ejendomsbeskadigelse,</b> se <sp>Hærværk</sp>.</chapter>
+<b>Ejendomsbeskadigelse,</b> se <sp>Hærværk</sp>.
+</chapter>
 
 <chapter name="Ejendomsdom">
 <b>Ejendomsdom.</b> Den, der er

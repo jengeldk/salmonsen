@@ -11,10 +11,12 @@ ved Aflægning.
 </chapter>
 
 <chapter name="Cygnidæ, Cygnus, Svaner">
-<b>Cygnidæ, Cygnus,</b> se <sp>Svaner</sp>.</chapter>
+<b>Cygnidæ, Cygnus,</b> se <sp>Svaner</sp>.
+</chapter>
 
 <chapter name="Cygnus (astron.)">
-<b>Cygnus</b> (astron.), se <sp>Svanen</sp>.</chapter>
+<b>Cygnus</b> (astron.), se <sp>Svanen</sp>.
+</chapter>
 
 <chapter name="Cygnæus, Fredrik">
 <b>Cygnæus</b> [syg-], <sp>Fredrik</sp>, finsk Digter og

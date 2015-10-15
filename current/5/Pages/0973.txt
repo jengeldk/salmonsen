@@ -22,7 +22,8 @@ Sted.
 </chapter>
 
 <chapter name="deklamere">
-<b>deklamere,</b> se <sp>Deklamation</sp>.</chapter>
+<b>deklamere,</b> se <sp>Deklamation</sp>.
+</chapter>
 
 <chapter name="Deklaration">
 <b>Deklaration</b> (lat.), Erklæring,
@@ -53,7 +54,8 @@ ensidige som gensidige.
 </chapter>
 
 <chapter name="Deklarationscertifikat">
-<b>Deklarationscertifikat,</b> se <sp>Certifikat</sp>.</chapter>
+<b>Deklarationscertifikat,</b> se <sp>Certifikat</sp>.
+</chapter>
 
 <chapter name="deklaratorisk Lov">
 <b>deklaratorisk Lov.</b> I Modsætning til de
@@ -93,13 +95,16 @@ renunciative Arvepagter.
 <chapter name="deklarere">
 <b>deklarere</b> (lat.), forklare, erklære,
 bekendtgøre, offentliggøre (f. Eks. en Forlovelse), smlg.
-<sp>Deklaration</sp> og <sp>Tolddeklaration</sp>.</chapter>
+<sp>Deklaration</sp> og <sp>Tolddeklaration</sp>.
+</chapter>
 
 <chapter name="deklinabel">
-<b>deklinabel</b> (lat.), bøjelig, som kan bøjes.</chapter>
+<b>deklinabel</b> (lat.), bøjelig, som kan bøjes.
+</chapter>
 
 <chapter name="Deklination (fys)">
-<b>Deklination</b> (<sp>fys</sp>.), se <sp>Magnetisme</sp>.</chapter>
+<b>Deklination</b> (<sp>fys</sp>.), se <sp>Magnetisme</sp>.
+</chapter>
 
 <chapter name="Deklination (astr.)">
 <b>Deklination</b> (<sp>astr.</sp>) er en Stjernes Afstand
@@ -133,33 +138,41 @@ tilsvarende Verbum er <sp>deklinere</sp>.
 
 <chapter name="Deklinationscirkel">
 <b>Deklinationscirkel,</b> se <sp>Deklination</sp> og
-<sp>Ækvatorial</sp>.</chapter>
+<sp>Ækvatorial</sp>.
+</chapter>
 
 <chapter name="Deklinationsnaal, Deklinatorium">
 <b>Deklinationsnaal, Deklinatorium,</b> se
-<sp>Magnetisme</sp>.</chapter>
+<sp>Magnetisme</sp>.
+</chapter>
 
 <chapter name="deklinere">
-<b>deklinere,</b> se <sp>Deklination</sp> (sprogl.).</chapter>
+<b>deklinere,</b> se <sp>Deklination</sp> (sprogl.).
+</chapter>
 
 <chapter name="Dekokt">
-<b>Dekokt,</b> se <sp>Afkog</sp>.</chapter>
+<b>Dekokt,</b> se <sp>Afkog</sp>.
+</chapter>
 
 <chapter name="dekolleteret">
 <b>dekolleteret</b> (fr., af <i>collet</i>, Halskrave), med
-blottet Hals og Skuldre, nedringet.</chapter>
+blottet Hals og Skuldre, nedringet.
+</chapter>
 
 <chapter name="dekolorere">
 <b>dekolorere</b> (lat.), affarve, falme;
-<sp>Dekoloration</sp>, Affarvning, Falmethed.</chapter>
+<sp>Dekoloration</sp>, Affarvning, Falmethed.
+</chapter>
 
 <chapter name="Dekomposition">
 <b>Dekomposition</b> (lat.), et Legemes Opløsning
 i dets Bestanddele, Sønderdeling. Det
-tilsvarende Verbum er <sp>dekomponere</sp>.</chapter>
+tilsvarende Verbum er <sp>dekomponere</sp>.
+</chapter>
 
 <chapter name="dekomptere">
-<b>dekomptere,</b> se <sp>décompte</sp>.</chapter>
+<b>dekomptere,</b> se <sp>décompte</sp>.
+</chapter>
 
 <chapter name="Dekoration">
 <b>Dekoration</b> (lat.) betyder enhver som helst

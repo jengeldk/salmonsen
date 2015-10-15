@@ -99,7 +99,8 @@ sammen med Tienden. - Jfr Klokker.
 </chapter>
 
 <chapter name="Degnetrave">
-<b>Degnetrave,</b> se <sp>Degne</sp>.</chapter>
+<b>Degnetrave,</b> se <sp>Degne</sp>.
+</chapter>
 
 <chapter name="Dego">
 <b>Dego,</b> Flække i det nordvestlige Italien,
@@ -146,7 +147,8 @@ Wetenschappen« [Amsterdam 1909], S. 108-166]).
 <chapter name="dégoût">
 <b>dégoût</b> [de'gu] (fr.), Modbydelighed,
 Væmmelse, Afsky; <sp>degoutere</sp>, vække
-Modbydelighed, finde noget modbydeligt.</chapter>
+Modbydelighed, finde noget modbydeligt.
+</chapter>
 
 <chapter name="Degradation">
 <b>Degradation</b> (middelalderlig lat.),

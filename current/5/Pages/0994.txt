@@ -113,10 +113,12 @@ formentes at være jur. tilladelige.
 </chapter>
 
 <chapter name="Delfinit">
-<b>Delfinit,</b> d. s. s. <sp>Epidot</sp>.</chapter>
+<b>Delfinit,</b> d. s. s. <sp>Epidot</sp>.
+</chapter>
 
 <chapter name="Delfisk Orakel">
-<b>Delfisk Orakel,</b> se <sp>Delfoi</sp>.</chapter>
+<b>Delfisk Orakel,</b> se <sp>Delfoi</sp>.
+</chapter>
 
 <chapter name="Delfoi">
 <b>Delfoi</b> ['dælfå'j] (gr. Δελφοί, lat. <i>Delphi</i>),

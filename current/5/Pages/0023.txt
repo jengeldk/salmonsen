@@ -33,7 +33,8 @@ bestod til Kejserdømmets Fald 1814.
 
 <chapter name="Cis-dur">
 <b>Cis-dur,</b> den Dur-Tonart, der har <i>Cis</i> til
-Grundtone; den har 7 ♯.</chapter>
+Grundtone; den har 7 ♯.
+</chapter>
 
 <chapter name="Ciselering">
 <b>Ciselering</b> (af fransk <i>ciseau</i> eller <i>ciselet</i>:
@@ -140,10 +141,12 @@ hvorfra Navnet stammer.
 
 <chapter name="Cis-mol">
 <b>Cis-mol,</b> den Mol-Tonart, der har <i>Cis</i> til
-Grundtone; den har 4 ♯.</chapter>
+Grundtone; den har 4 ♯.
+</chapter>
 
 <chapter name="Cispadanske Gallien">
-<b>Cispadanske Gallien,</b> se <sp>Gallien</sp>.</chapter>
+<b>Cispadanske Gallien,</b> se <sp>Gallien</sp>.
+</chapter>
 
 <chapter name="Cispadanske Republik">
 <b>Cispadanske Republik</b> (cispadansk, ɔ:

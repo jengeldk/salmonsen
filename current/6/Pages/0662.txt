@@ -8,10 +8,12 @@ virksom kem. Forf.
 </chapter>
 
 <chapter name="Døbeseddel">
-<b>Døbeseddel,</b> d. s. s. <sp>Daabsattest</sp>.</chapter>
+<b>Døbeseddel,</b> d. s. s. <sp>Daabsattest</sp>.
+</chapter>
 
 <chapter name="Döbling">
-<b>Döbling,</b> se <sp>Wien</sp>.</chapter>
+<b>Döbling,</b> se <sp>Wien</sp>.
+</chapter>
 
 <chapter name="Döbrentey, Gábor">
 <b>Döbrentey</b> ['døbræntæi], <sp>Gábor</sp>, magyarisk
@@ -52,7 +54,8 @@ om i Landet.
 </chapter>
 
 <chapter name="Døcker'ske Filttelt">
-<b>Døcker'ske Filttelt,</b> se <sp>Telt</sp>.</chapter>
+<b>Døcker'ske Filttelt,</b> se <sp>Telt</sp>.
+</chapter>
 
 <chapter name="Død, Ophør af alle Livsytringer">
 <b>Død.</b> Ophør af alle Livsytringer er D.'s

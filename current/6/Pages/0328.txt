@@ -52,7 +52,8 @@ tilsidesætte Love, der er i Strid med Grl.
 </chapter>
 
 <chapter name="Domus anatomica">
-<b>Domus anatomica,</b> se <sp>anatomisk Teater</sp>.</chapter>
+<b>Domus anatomica,</b> se <sp>anatomisk Teater</sp>.
+</chapter>
 
 <chapter name="Domæne">
 <b>Domæne</b> (lat. <i>dominium</i>). Begrebet D. er

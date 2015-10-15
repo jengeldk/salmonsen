@@ -64,10 +64,12 @@ Poictevin, Belgieren Maurice Maeterlinck o. s. v.
 
 <chapter name="dekadiske Talsystem">
 <b>dekadiske Talsystem</b> - Titalsystemet, se
-<sp>Talsystemer</sp>.</chapter>
+<sp>Talsystemer</sp>.
+</chapter>
 
 <chapter name="Dekagram">
-<b>Dekagram</b> - 10 g, se <sp>metrisk Maal</sp>.</chapter>
+<b>Dekagram</b> - 10 g, se <sp>metrisk Maal</sp>.
+</chapter>
 
 <chapter name="Dekalb">
 <b>Dekalb</b> [d<sub>ə</sub>'kä£b], <sp>De Kalb</sp>, By i U. S. A.,
@@ -78,10 +80,12 @@ en Del Industri.
 </chapter>
 
 <chapter name="Dekaliter">
-<b>Dekaliter</b> = 10 l, se <sp>metrisk Maal</sp>.</chapter>
+<b>Dekaliter</b> = 10 l, se <sp>metrisk Maal</sp>.
+</chapter>
 
 <chapter name="Dekalkomani">
-<b>Dekalkomani,</b> se <sp>Metakromatypi</sp>.</chapter>
+<b>Dekalkomani,</b> se <sp>Metakromatypi</sp>.
+</chapter>
 
 <chapter name="Dekalog">
 <b>Dekalog</b> (gr. δεκαλογος), »Tiordene« eller
@@ -122,7 +126,8 @@ Katekisme.
 </chapter>
 
 <chapter name="Dekameter">
-<b>Dekameter</b> = 10 m, se <sp>metrisk Maal</sp>.</chapter>
+<b>Dekameter</b> = 10 m, se <sp>metrisk Maal</sp>.
+</chapter>
 
 <chapter name="Dekan, område i Indien">
 <b>Dekan</b> (<sp>Dekhan</sp> ell. <sp>Deccan</sp>, af Sanskrit

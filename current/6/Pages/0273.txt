@@ -1,6 +1,7 @@
 Toppunkterne paa et Keglesnit, hvis Linier parvis
 skærer hinanden paa Keglesnittet, o. s. v.
-<i>Chr. C</i>.</chapter>
+<i>Chr. C</i>
+</chapter>
 
 <chapter name="Dobbeltforsikring">
 <b>Dobbeltforsikring</b> foreligger, naar samme
@@ -37,12 +38,14 @@ hvor Vurderingerne beror paa et rent
 bestaar i, at den øvre og nedre Vekselnode
 (s. d.) udføres hurtigt foran Hovednoden,
 altsaa f. Eks.:
-<i>S. L.</i>
 
-<img></img></chapter>
+<img></img>
+<i>S. L.</i>
+</chapter>
 
 <chapter name="Dobbeltfuga">
-<b>Dobbeltfuga,</b> se <sp>Fuga</sp>.</chapter>
+<b>Dobbeltfuga,</b> se <sp>Fuga</sp>.
+</chapter>
 
 <chapter name="Dobbeltgas">
 <b>Dobbeltgas.</b> Denne Betegnelse træffes i

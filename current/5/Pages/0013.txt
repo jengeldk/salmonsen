@@ -74,7 +74,8 @@ vendte tilbage til huslige Sysler, kaldte sig
 første Præsident. Da der rejste sig en skarp
 Kritik mod Ordenen, som man mente stred mod
 de republikanske Grundsætninger, forsvandt den
-snart.</chapter>
+snart.
+</chapter>
 
 <chapter name="Cincius, L. Alimentus">
 <b>Cincius,</b> <sp>L. Alimentus</sp>, en af de ældste
@@ -100,7 +101,8 @@ henfører ham til Augustus' Tid.
 </chapter>
 
 <chapter name="Cincius, se Vandstær">
-<b>Cincius,</b> se <sp>Vandstær</sp>.</chapter>
+<b>Cincius,</b> se <sp>Vandstær</sp>.
+</chapter>
 
 <chapter name="cinctorium">
 <b>cinctorium</b> (lat., af <i>cingo</i>, omgjorder),
@@ -137,10 +139,12 @@ Krigsdragt, er urimeligt og usandsynligt.
 </chapter>
 
 <chapter name="Cinders">
-<b>Cinders</b> [eng. 'sindəz], se <sp>Koks</sp>.</chapter>
+<b>Cinders</b> [eng. 'sindəz], se <sp>Koks</sp>.
+</chapter>
 
 <chapter name="Cineas">
-<b>Cineas</b> [gr. -'ne-], se <sp>Kineas</sp>.</chapter>
+<b>Cineas</b> [gr. -'ne-], se <sp>Kineas</sp>.
+</chapter>
 
 <chapter name="Cineller">
 <b>Cineller</b> (ital. <i>cinelli</i> [t∫i'næl.i]), en mindre Art

@@ -33,10 +33,12 @@ i <i>Revue Hispanique</i> (1. Aarg., Paris 1894).
 </chapter>
 
 <chapter name="Cotangens">
-<b>Cotangens,</b> se <sp>Trigonometri</sp>.</chapter>
+<b>Cotangens,</b> se <sp>Trigonometri</sp>.
+</chapter>
 
 <chapter name="Cotarnin">
-<b>Cotarnin,</b> se <sp>Kotarnin</sp>.</chapter>
+<b>Cotarnin,</b> se <sp>Kotarnin</sp>.
+</chapter>
 
 <chapter name="Côte, la">
 <b>Côte,</b> <sp>la</sp> [la-'ko.t], den sydvestlige Del af det

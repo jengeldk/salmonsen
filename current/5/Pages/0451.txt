@@ -23,7 +23,8 @@ Englands mest udbredte Aviser.
 </chapter>
 
 <chapter name="Daimiat">
-<b>Daimiat,</b> se <sp>Daimio</sp>.</chapter>
+<b>Daimiat,</b> se <sp>Daimio</sp>.
+</chapter>
 
 <chapter name="Daimiel">
 <b>Daimiel</b> [da<sub>i</sub>'m<sub>i</sub>æl], By i det mellemste
@@ -98,14 +99,17 @@ Senere beskæftigede D. sig særlig med
 Konstruktionen af Automobilmotorer og blev paa
 dette Omraade Foregangsmand, idet det
 lykkedes ham at konstruere den første Automobil
-med Benzinmotor (se <sp>Motorvogn</sp>).</chapter>
+med Benzinmotor (se <sp>Motorvogn</sp>).
+</chapter>
 
 <chapter name="Daimon">
-<b>Daimon,</b> se <sp>Agathodaimon</sp> og <sp>Dæmon</sp>.</chapter>
+<b>Daimon,</b> se <sp>Agathodaimon</sp> og <sp>Dæmon</sp>.
+</chapter>
 
 <chapter name="Daina">
 <b>Daina</b> (Flertal <sp>Dainós</sp>), se <sp>Litauisk
-Sprog</sp> og <sp>Litteratur</sp>.</chapter>
+Sprog</sp> og <sp>Litteratur</sp>.
+</chapter>
 
 <chapter name="Daitya'er">
 <b>Daitya'er</b> ell. <sp>Daiteya</sp>'er (»Diti-Ætlinge«),
@@ -162,5 +166,6 @@ samlede Antal paa Borneo kan anslaas til 1 1/2 Mill.
 </chapter>
 
 <chapter name="Dajarmur">
-<b>Dajarmur,</b> se <sp>Nanga Parbat</sp>.</chapter>
+<b>Dajarmur,</b> se <sp>Nanga Parbat</sp>.
+</chapter>
 

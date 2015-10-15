@@ -98,16 +98,20 @@ l'antiquité</i> [Paris 1894]).
 </chapter>
 
 <chapter name="Cølin">
-<b>Cølin,</b> Se <sp>Cøruleum</sp>.</chapter>
+<b>Cølin,</b> Se <sp>Cøruleum</sp>.
+</chapter>
 
 <chapter name="Cøliocele">
-<b>Cøliocele,</b> Bugvægsbrok, smlg. <sp>Brok</sp>.</chapter>
+<b>Cøliocele,</b> Bugvægsbrok, smlg. <sp>Brok</sp>.
+</chapter>
 
 <chapter name="Cøliotomi">
-<b>Cøliotomi,</b> se <sp>Bugsnit</sp>.</chapter>
+<b>Cøliotomi,</b> se <sp>Bugsnit</sp>.
+</chapter>
 
 <chapter name="Coeloglossum">
-<b>Coeloglossum</b> [sø-], se <sp>Poselæbe</sp>.</chapter>
+<b>Coeloglossum</b> [sø-], se <sp>Poselæbe</sp>.
+</chapter>
 
 <chapter name="Coelom Teorien">
 <b>Coelom Teorien</b> [sø'lo'm-] er en af de to

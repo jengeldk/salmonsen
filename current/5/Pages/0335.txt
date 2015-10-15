@@ -104,14 +104,17 @@ lyrica</i> (Leipzig 1897).
 </chapter>
 
 <chapter name="Crusoe">
-<b>Crusoe</b> ['kru.so<sub>u</sub>], <sp>R.</sp>, se <sp>Robinson C</sp>.</chapter>
+<b>Crusoe</b> ['kru.so<sub>u</sub>], <sp>R.</sp>, se <sp>Robinson C</sp>.
+</chapter>
 
 <chapter name="Crusta">
 <b>Crusta</b> (lat.), Skorpe, i Medicinen indtørrede
-Afsondringer ell. Aflejringer paa Huden.</chapter>
+Afsondringer ell. Aflejringer paa Huden.
+</chapter>
 
 <chapter name="Crustaceæ">
-<b>Crustaceæ,</b> se <sp>Krebsdyr</sp>.</chapter>
+<b>Crustaceæ,</b> se <sp>Krebsdyr</sp>.
+</chapter>
 
 <chapter name="Crusta phlogistica">
 <b>Crusta phlogistica</b> [-flo-] ell. <i>C. inflamatoria</i>

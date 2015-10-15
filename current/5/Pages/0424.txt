@@ -99,7 +99,8 @@ Finder man i Almanakken, at Jupiter har Deklination
 </chapter>
 
 <chapter name="Dagbygning">
-<b>Dagbygning,</b> se <sp>Dagbrydning</sp>.</chapter>
+<b>Dagbygning,</b> se <sp>Dagbrydning</sp>.
+</chapter>
 
 <chapter name="Dagcirkel">
 <b>Dagcirkel</b> kaldes den med Himlens Ækvator
@@ -109,7 +110,8 @@ Himmelhvælvingens tilsyneladende daglige Omdrejning.
 </chapter>
 
 <chapter name="Dagden">
-<b>Dagden,</b> se <sp>Dagø</sp>.</chapter>
+<b>Dagden,</b> se <sp>Dagø</sp>.
+</chapter>
 
 <chapter name="Dag Eilifssøn">
 <b>Dag Eilifssøn,</b> norsk Lendermand paa Kong
@@ -129,7 +131,8 @@ Dagssøn.
 </chapter>
 
 <chapter name="Dagen, se Dagø">
-<b>Dagen,</b> se <sp>Dagø</sp>.</chapter>
+<b>Dagen,</b> se <sp>Dagø</sp>.
+</chapter>
 
 <chapter name="Dagen, dansk Avis">
 <b>Dagen,</b> dansk Avis, var ved Siden af »Berlingske

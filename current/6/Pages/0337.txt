@@ -48,10 +48,12 @@ af Slægten O'Donnell.
 </chapter>
 
 <chapter name="Donellus">
-<b>Donellus,</b> se <sp>Doneau</sp>.</chapter>
+<b>Donellus,</b> se <sp>Doneau</sp>.
+</chapter>
 
 <chapter name="donere">
-<b>donere</b> (lat.), <sp>give</sp>.</chapter>
+<b>donere</b> (lat.), <sp>give</sp>.
+</chapter>
 
 <chapter name="Donez">
 <b>Donez</b> [da'næts], Biflod til Don, tager sit
@@ -96,7 +98,8 @@ Mill. kg Kul.
 <chapter name="Donge">
 <b>Donge</b> ['doŋ<sub>ə</sub>], Flod i Holland, Prov.
 Nordbrabant, falder ved Gertruidenberg i
-Biesbosch.</chapter>
+Biesbosch.
+</chapter>
 
 <chapter name="Dongola">
 <b>Dongola,</b> Landskab i Nubien langs Nilen

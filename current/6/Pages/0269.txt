@@ -34,14 +34,17 @@ sig Overgang over Floden.
 
 <chapter name="Dnjestr-Liman">
 <b>Dnjestr-Liman</b> ['dnjæstr-l<sub>i</sub>i'man], se
-<sp>Dnjestr</sp>.</chapter>
+<sp>Dnjestr</sp>.
+</chapter>
 
 <chapter name="Do">
 <b>Do,</b> det nyere ital. Navn (i St f. <i>ut</i>) for
-Noden <i>c</i>.</chapter>
+Noden <i>c</i>.
+</chapter>
 
 <chapter name="do.">
-<b>do.,</b> se <sp>ditto</sp>.</chapter>
+<b>do.,</b> se <sp>ditto</sp>.
+</chapter>
 
 <chapter name="Doab">
 <b>Doab</b> eller <sp>Duab</sp> (af pers. <i>do</i>, 2, og <i>ab</i>,
@@ -80,7 +83,8 @@ tykvæggede palisadeformede Celler.
 <chapter name="Dobbel">
 <b>Dobbel</b> (af lat. <i>dúplum</i>, det dobbelte),
 Terningespil, Hasardspil; en <sp>Dobler</sp>, en
-Hasardspiller; <sp>doble</sp>, at spille Hasard.</chapter>
+Hasardspiller; <sp>doble</sp>, at spille Hasard.
+</chapter>
 
 <chapter name="Dobbelcicero">
 <b>Dobbelcicero,</b> teknisk Betegnelse i
@@ -108,7 +112,8 @@ Dobbelanastigmat, Dobbelaplanat, Dobbelprotar o. s. v.
 </chapter>
 
 <chapter name="Dobbeltaag">
-<b>Dobbeltaag,</b> se <sp>Aag</sp>.</chapter>
+<b>Dobbeltaag,</b> se <sp>Aag</sp>.
+</chapter>
 
 <chapter name="Dobbeltatom">
 <b>Dobbeltatom.</b> Visse Grundstoffer, f. Eks.
@@ -132,7 +137,8 @@ fremkommer et divalent Kompleks af to Kviksølvatomer.
 </chapter>
 
 <chapter name="Dobbelt b">
-<b>Dobbelt b,</b> se <sp>Fortegn</sp>.</chapter>
+<b>Dobbelt b,</b> se <sp>Fortegn</sp>.
+</chapter>
 
 <chapter name="Dobbeltbarometer">
 <b>Dobbeltbarometer,</b> et Kviksølvbarometer,
@@ -148,7 +154,8 @@ Kviksølvoverfladen selv kan vise.
 </chapter>
 
 <chapter name="Dobbelt Bekkasin">
-<b>Dobbelt Bekkasin,</b> se <sp>Bekkasiner</sp>.</chapter>
+<b>Dobbelt Bekkasin,</b> se <sp>Bekkasiner</sp>.
+</chapter>
 
 <chapter name="Dobbeltbevidsthed">
 <b>Dobbeltbevidsthed</b> er en psykopatologisk

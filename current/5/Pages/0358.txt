@@ -60,7 +60,8 @@ samme Retning som den skarpe Ske.
 </chapter>
 
 <chapter name="curia">
-<b>curia</b> (lat.), se <sp>Kurie</sp>.</chapter>
+<b>curia</b> (lat.), se <sp>Kurie</sp>.
+</chapter>
 
 <chapter name="curia regis">
 <b>curia regis,</b> egl. Kongens Hof, var i en
@@ -102,7 +103,8 @@ andre Navne (<i>convocatio</i>, <i>concilium</i>,
 
 <chapter name="Curiatier">
 <b>Curiatier,</b> en Adelsslægt fra Alba longa, se
-<sp>Horatier</sp>.</chapter>
+<sp>Horatier</sp>.
+</chapter>
 
 <chapter name="Curicó">
 <b>Curicó</b> [-'kå], Provins i Chile, mellem

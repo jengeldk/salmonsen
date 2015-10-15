@@ -31,7 +31,8 @@ stor Anseelse.
 </chapter>
 
 <chapter name="Cohenit">
-<b>Cohenit,</b> se <sp>Meteoritter</sp>.</chapter>
+<b>Cohenit,</b> se <sp>Meteoritter</sp>.
+</chapter>
 
 <chapter name="Cohn, Clara">
 <b>Cohn</b> [ko.n], <sp>Clara</sp>, tysk Forfatterinde,

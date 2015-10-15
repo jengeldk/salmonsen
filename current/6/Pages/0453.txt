@@ -32,7 +32,8 @@ kan føres til fjerne Kyster.
 </chapter>
 
 <chapter name="Drivvod">
-<b>Drivvod,</b> se <sp>Vod</sp>.</chapter>
+<b>Drivvod,</b> se <sp>Vod</sp>.
+</chapter>
 
 <chapter name="Drogden">
 <b>Drogden</b> kaldes Farvandet mellem
@@ -117,10 +118,12 @@ sendte D. et Medlem til Parlamentet.
 </chapter>
 
 <chapter name="Drogist">
-<b>Drogist</b> [-'gist] (fr.), Forhandler af Droger,</chapter>
+<b>Drogist</b> [-'gist] (fr.), Forhandler af Droger.
+</chapter>
 
 <chapter name="Drogue">
-<b>Drogue</b> [dråg] (fr.), se <sp>Droge</sp>.</chapter>
+<b>Drogue</b> [dråg] (fr.), se <sp>Droge</sp>.
+</chapter>
 
 <chapter name="Drohobycz">
 <b>Drohobycz</b> [drå'håbyt∫], By i Kejserdømmet

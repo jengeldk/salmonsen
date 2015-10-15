@@ -1,5 +1,6 @@
 <chapter name="con afflizione">
-<b>con afflizione</b> [-af.li'ts<sub>i</sub>one], se <sp>afflitto</sp>.</chapter>
+<b>con afflizione</b> [-af.li'ts<sub>i</sub>one], se <sp>afflitto</sp>.
+</chapter>
 
 <chapter name="conamen">
 <b>conamen</b> (lat.) benyttes i Lægevidenskaben i
@@ -10,10 +11,12 @@ Sammensætningen <i>c. suicidii</i>, Selvmordsforsøg
 
 <chapter name="con amore">
 <b>con amore</b> (ital.), med Kærlighed, af
-Hjertens Lyst.</chapter>
+Hjertens Lyst.
+</chapter>
 
 <chapter name="conarium">
-<b>conarium,</b> se <sp>Corpus pineale</sp>.</chapter>
+<b>conarium,</b> se <sp>Corpus pineale</sp>.
+</chapter>
 
 <chapter name="con bocca chiusa">
 <b>con bocca chiusa</b> [kon-'bok.a-'t∫usa] (ital.),
@@ -28,12 +31,14 @@ i Sange for Mandsstemmer.
 
 <chapter name="conc.">
 <b>conc.,</b> Forkortelse af <i>concentrãtus</i>,
-koncentreret, ell. <i>concisus</i> (s. d.).</chapter>
+koncentreret, ell. <i>concisus</i> (s. d.).
+</chapter>
 
 <chapter name="conca">
 <b>conca</b> [koŋka] (italiensk), Musling; <i>c. d'oro</i>
 ['-d-åro] (den gyldne Muslingeskal), Bugten ved
-Palermo.</chapter>
+Palermo.
+</chapter>
 
 <chapter name="Concarneau">
 <b>Concarneau</b> [kåkar'no], By i det vestlige
@@ -52,7 +57,8 @@ France</i> i Paris.
 
 <chapter name="concedo">
 <b>concedo</b> (lat.), »jeg indrømmer det«,
-»indrømmet«.</chapter>
+»indrømmet«.
+</chapter>
 
 <chapter name="Concèntus">
 <b>Concèntus</b> (lat.), egl. <sp>Sammensang</sp>,
@@ -132,7 +138,8 @@ Dokumenter (se <sp>koncipere</sp>).
 immaculata</i>, (Marias) ubesmittede Undfangelse; <i>c.
 immaculata beatæ Virginis</i>, Fest til Minde om
 Maria's ubesmittede Undfangelse, se
-<sp>Maria-Dage</sp>.</chapter>
+<sp>Maria-Dage</sp>.
+</chapter>
 
 <chapter name="Conception">
 <b>Conception</b> [k<sub>ə</sub>n'sep∫<sub>ə</sub>n], Lille Windwardø,
@@ -169,10 +176,12 @@ ogsaa <sp>obligat</sp>).
 
 <chapter name="concertino">
 <b>concertino</b> [-t∫er-] (ital.), Koncertstykke, en
-mindre Koncert (se <sp>Koncert</sp>).</chapter>
+mindre Koncert (se <sp>Koncert</sp>).
+</chapter>
 
 <chapter name="concerto">
-<b>concerto</b> [kon't∫ærto], se <sp>Koncert</sp>.</chapter>
+<b>concerto</b> [kon't∫ærto], se <sp>Koncert</sp>.
+</chapter>
 
 <chapter name="concerts spirituels">
 <b>concerts spirituels</b> [kå'sæ.r-spir't<sub>y</sub>æl] (fr.),

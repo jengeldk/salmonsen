@@ -32,10 +32,12 @@ hovedsagelig i Fjernelse ved Hjælp af Instrumenter ell.
 
 <chapter name="Condylura">
 <b>Condylura</b> (<sp>Stjernemuldvarp</sp>), se
-<sp>Muldvarp</sp>.</chapter>
+<sp>Muldvarp</sp>.
+</chapter>
 
 <chapter name="condylus">
-<b>condylus,</b> se <sp>Led</sp>.</chapter>
+<b>condylus,</b> se <sp>Led</sp>.
+</chapter>
 
 <chapter name="Condys liquid">
 <b>Condys liquid</b> ['kånd<sub>i</sub>z(?)-'£ikv<sub>i</sub>d] er en
@@ -60,7 +62,8 @@ Moncey af Napoleon I Titel af Hertug af C.
 
 <chapter name="Conegliano, italiensk Maler">
 <b>Conegliano</b> [kone'l<sub>j</sub>ano], italiensk Maler, se
-<sp>Cima</sp>.</chapter>
+<sp>Cima</sp>.
+</chapter>
 
 <chapter name="Conejera">
 <b>Conejera</b> [kånæ'kæra], ubeboet Ø mellem de
@@ -70,7 +73,8 @@ at være Hannibal's Fødested.
 </chapter>
 
 <chapter name="con espressione">
-<b>con espressione,</b> se <sp>con</sp>.</chapter>
+<b>con espressione,</b> se <sp>con</sp>.
+</chapter>
 
 <chapter name="Coney Island">
 <b>Coney Island</b> ['ko<sub>u</sub>n<sub>i</sub>-'a^i£<sub>ə</sub>nd eller 'kan<sub>i</sub>-],
@@ -108,12 +112,14 @@ helt ned i Kejsertiden.
 
 <chapter name="confer">
 <b>confer</b> (lat., afkortet <i>cf.</i> ell. <i>cfr.</i>),
-<sp>conferatur</sp>, jævnfør, sammenlign.</chapter>
+<sp>conferatur</sp>, jævnfør, sammenlign.
+</chapter>
 
 <chapter name="confessio">
 <b>confessio</b> (lat.), Bekendelse; <i>c. fidei</i>,
 Trosbekendelse; <i>c. augustana</i>, Augsburgske
-Konfession.</chapter>
+Konfession.
+</chapter>
 
 <chapter name="confessio in jure">
 <b>confessio in jure</b> (lat.). I den rom. Proces,
@@ -190,4 +196,5 @@ ved hvilken en Servitut-Ret gjordes gældende.
 <b>confetti</b> (ital.). Sukkerkugler, Konfekt, smaa
 farvede Papirslapper, med hvilke man i
 Karnevalstiden og ved lgn. Lejligheder for Morskabs
-Skyld overdænger Festdeltagerne.</chapter>
+Skyld overdænger Festdeltagerne.
+</chapter>

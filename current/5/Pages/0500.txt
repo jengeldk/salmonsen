@@ -93,14 +93,17 @@ begge Indretninger benyttes samtidig.
 </chapter>
 
 <chapter name="Dampkran">
-<b>Dampkran,</b> se <sp>Kran</sp>.</chapter>
+<b>Dampkran,</b> se <sp>Kran</sp>.
+</chapter>
 
 <chapter name="Dampkrympning">
 <b>Dampkrympning,</b> d. s. s. <sp>Dekatering</sp>
-(se <sp>Appretur</sp>).</chapter>
+(se <sp>Appretur</sp>).
+</chapter>
 
 <chapter name="Dampkøkken">
-<b>Dampkøkken,</b> se <sp>Folkekøkkener</sp>.</chapter>
+<b>Dampkøkken,</b> se <sp>Folkekøkkener</sp>.
+</chapter>
 
 <chapter name="Dampledning">
 <b>Dampledning</b> er en Rørledning, der fører

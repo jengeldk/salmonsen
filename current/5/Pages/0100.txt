@@ -56,13 +56,16 @@ Cochinchine</i> [Paris 1900]).
 </chapter>
 
 <chapter name="Cochins">
-<b>Cochins</b> ['kåt∫<sub>i</sub>nz ell. 'ko<sub>u</sub>-], se <sp>Høns</sp>.</chapter>
+<b>Cochins</b> ['kåt∫<sub>i</sub>nz ell. 'ko<sub>u</sub>-], se <sp>Høns</sp>.
+</chapter>
 
 <chapter name="Cochlea">
-<b>Cochlea</b> [-kle-], Sneglen, se <sp>Øre</sp>.</chapter>
+<b>Cochlea</b> [-kle-], Sneglen, se <sp>Øre</sp>.
+</chapter>
 
 <chapter name="Cochlearia">
-<b>Cochlearia</b> [-kle-], se <sp>Kokleare</sp>.</chapter>
+<b>Cochlearia</b> [-kle-], se <sp>Kokleare</sp>.
+</chapter>
 
 <chapter name="Cochleæ">
 <b>Cochleæ</b> [-kle-], af Konkyliesamlere og
@@ -131,7 +134,8 @@ i et Sindssygeasyl, hvis store Misbrug hun
 skaanselløst afslørede. Ved en Række af lgn. dristige
 Reportergerninger fremkaldte hun Reformer i
 mere end een af New Yorks offentlige
-Institutioner.</chapter>
+Institutioner.
+</chapter>
 
 <chapter name="Cochrane, John Dundas">
 <b>Cochrane</b> [kåkr<sub>ə</sub>n], <sp>John Dundas</sp>, eng.

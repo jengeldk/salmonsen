@@ -7,7 +7,8 @@ mousserende Drikke.
 </chapter>
 
 <chapter name="Dolomit-Alperne">
-<b>Dolomit-Alperne,</b> se <sp>Alperne</sp>.</chapter>
+<b>Dolomit-Alperne,</b> se <sp>Alperne</sp>.
+</chapter>
 
 <chapter name="Dolon">
 <b>Dolon,</b> i Iliaden's 10. Sang en Troer, som
@@ -49,7 +50,8 @@ fordrevne af Kimon c. 470 f. Kr.
 
 <chapter name="dolore">
 <b>dolore</b> (ital. »Smerte«), <i>doloróso, con dolóre</i>,
-mus. Foredragsbetegnelse: smerteligt.</chapter>
+mus. Foredragsbetegnelse: smerteligt.
+</chapter>
 
 <chapter name="Dolores">
 <b>Dolores</b> [ðå'lår<sub>æ</sub>s], By i den argentinske
@@ -71,10 +73,12 @@ Hidalgo, hvis Navn senere er føjet til Byens Navn.
 </chapter>
 
 <chapter name="dolorosa">
-<b>dolorosa,</b> se <sp>Mater d</sp>.</chapter>
+<b>dolorosa,</b> se <sp>Mater d</sp>.
+</chapter>
 
 <chapter name="doloroso">
-<b>doloroso,</b> se <sp>dolore</sp>.</chapter>
+<b>doloroso,</b> se <sp>dolore</sp>.
+</chapter>
 
 <chapter name="Dolphin">
 <b>Dolphin</b> ['dålf<sub>i</sub>n] (<sp>Søv</sp>.) ell. <sp>Martingale</sp>,
@@ -83,7 +87,8 @@ Betegnelse for Pyntenettene (se <sp>Bovspryd</sp>).
 </chapter>
 
 <chapter name="Dolpur">
-<b>Dolpur</b> [d<sub>å</sub>£'pu.<sub>ə</sub>], d. s. s. <sp>Dholpur</sp>.</chapter>
+<b>Dolpur</b> [d<sub>å</sub>£'pu.<sub>ə</sub>], d. s. s. <sp>Dholpur</sp>.
+</chapter>
 
 <chapter name="Dolstenshulen">
 <b>Dolstenshulen</b> er en ved Bølgernes
@@ -98,7 +103,8 @@ Tid, da Landet laa c. 60 m lavere end nu.
 </chapter>
 
 <chapter name="dolus">
-<b>dolus,</b> se <sp>Forsæt</sp>.</chapter>
+<b>dolus,</b> se <sp>Forsæt</sp>.
+</chapter>
 
 <chapter name="D. O. M.">
 <b>D. O. M.,</b> rom. Tempelindskrift, Afkortning
@@ -110,12 +116,14 @@ Benediktinerlikør (s. d.).
 </chapter>
 
 <chapter name="Dom, se Domkirke">
-<b>Dom,</b> se <sp>Domkirke</sp>.</chapter>
+<b>Dom,</b> se <sp>Domkirke</sp>.
+</chapter>
 
 <chapter name="Dom, Titel">
 <b>Dom</b> (fr., af lat. <i>dominus</i>), Titel som i
 Middelalderen og senere gaves Munkene af de
-fornemmere Ordener. - D., portug., se <sp>Don</sp>.</chapter>
+fornemmere Ordener. - D., portug., se <sp>Don</sp>.
+</chapter>
 
 <chapter name="Dom (filos.)">
 <b>Dom</b> (filos.), betyder efter den af Aristoteles

@@ -76,7 +76,8 @@ Schule« [Stuttgart 1904]).
 </chapter>
 
 <chapter name="Dingo">
-<b>Dingo</b> ['diŋgo], den vilde australske Hund.</chapter>
+<b>Dingo</b> ['diŋgo], den vilde australske Hund.
+</chapter>
 
 <chapter name="Dingras">
 <b>Dingras,</b> By paa Filippinerne, Prov. Ilocos
@@ -100,7 +101,8 @@ om Byens skandinaviske Oprindelse.
 
 <chapter name="Dinheiro">
 <b>Dinheiro</b> [d<sub>i</sub>'n<sub>j</sub>a<sub>i</sub>r<sub>u</sub>], se
-<sp>Dinero</sp>.</chapter>
+<sp>Dinero</sp>.
+</chapter>
 
 <chapter name="Dini, Ulisse">
 <b>Dini,</b> <sp>Ulisse</sp>, ital. Matematiker, f. 1845,
@@ -119,13 +121,16 @@ Skygge for hans politiske og kommunale.
 </chapter>
 
 <chapter name="Dinichthys">
-<b>Dinichthys</b> [-'niktys], se <sp>Skjoldfisk</sp>.</chapter>
+<b>Dinichthys</b> [-'niktys], se <sp>Skjoldfisk</sp>.
+</chapter>
 
 <chapter name="Dinictis">
-<b>Dinictis,</b> se <sp>Katte</sp>.</chapter>
+<b>Dinictis,</b> se <sp>Katte</sp>.
+</chapter>
 
 <chapter name="Dinitrokresol">
-<b>Dinitrokresol,</b> se <sp>Kresol</sp>.</chapter>
+<b>Dinitrokresol,</b> se <sp>Kresol</sp>.
+</chapter>
 
 <chapter name="Diniz, da Cruz e Silva, Antonio">
 <b>Diniz</b> [d<sub>ö</sub>'ni∫] <sp>da Cruz e Silva,

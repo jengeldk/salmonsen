@@ -150,11 +150,13 @@ Hospitaler ell. andet Steds.
 <chapter name="commission internationale d'enquête">
 <b>commission internationale d'enquête</b>
 [kåmi's<sub>i</sub>å-ætærnas<sub>i</sub>å'nal-d-ã'kæ.t], se
-<sp>Undersøgelseskommissioner</sp>.</chapter>
+<sp>Undersøgelseskommissioner</sp>.
+</chapter>
 
 <chapter name="Commisoriale">
 <b>Commisoriale,</b> d. s. s. <sp>Kommissorium</sp>,
-se <sp>Kommission</sp>.</chapter>
+se <sp>Kommission</sp>.
+</chapter>
 
 <chapter name="commissum">
 <b>commissum</b> (lat.), hvad der er paalagt, et

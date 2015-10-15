@@ -23,7 +23,8 @@ Martin</sp>, <i>Life of J. C.</i> [1865]; <sp>J. L. Cherry</sp>,
 <b>Claremont</b> ['k£æ.<sub>ə</sub>m<sub>ə</sub>nt ell. 'k£är<sub>ə</sub>månt], 1)
 Forstad til Kapstaden i Sydafrika.
 
-2) Se <sp>Esher</sp>.</chapter>
+2) Se <sp>Esher</sp>.
+</chapter>
 
 <chapter name="Claremont">
 <b>Claremont</b> ['k£æ.<sub>ə</sub>m<sub>ə</sub>nt ell. 'k£är<sub>ə</sub>månt]. By
@@ -60,11 +61,13 @@ Edward af Wales (senere Edward) VII). C. traadte
 1877 ind i Marinen og gjorde store Rejser.
 Derefter studerede han i Cambridge og blev
 forlovet med sin Kusine, Prinsesse Maria af Teck,
-men døde kort efter.</chapter>
+men døde kort efter.
+</chapter>
 
 <chapter name="Clarence, George og Thomas">
 <b>Clarence</b> ['k£är<sub>ə</sub>ns], <sp>George</sp> og <sp>Thomas</sp>,
-se <sp>Plantagenet</sp>.</chapter>
+se <sp>Plantagenet</sp>.
+</chapter>
 
 <chapter name="Clarence-Strædet">
 <b>Clarence-Strædet</b> ['k£är<sub>ə</sub>ns-], det vestlige
@@ -75,7 +78,8 @@ Nordkyst mellem Melville Island og Fastlandet.
 
 <chapter name="Clarence Town">
 <b>Clarence Town</b> ['k£är<sub>ə</sub>ns-'ta^un] og
-<sp>Clarence Peak</sp>, se <sp>Fernando Po</sp>.</chapter>
+<sp>Clarence Peak</sp>, se <sp>Fernando Po</sp>.
+</chapter>
 
 <chapter name="Clarendon">
 <b>Clarendon</b> ['k£är<sub>i</sub>nd<sub>ə</sub>n], i Bogtrykkeriet en

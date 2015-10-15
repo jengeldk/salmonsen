@@ -87,7 +87,8 @@ Adelsberggrotten i Krain) skylder netop D. deres Skønhed.
 </chapter>
 
 <chapter name="Drypsten">
-<b>Drypsten,</b> se <sp>Stalaktit</sp> (Bygningskunst).</chapter>
+<b>Drypsten,</b> se <sp>Stalaktit</sp> (Bygningskunst).
+</chapter>
 
 <chapter name="Dræ">
 <b>Dræ</b> er en nærmest landøkonomisk

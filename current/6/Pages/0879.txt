@@ -44,7 +44,8 @@ improviserende.
 
 <chapter name="ekstensibel">
 <b>ekstensibel</b> (lat.), som kan udstrækkes,
-forlænges; udvidelig.</chapter>
+forlænges; udvidelig.
+</chapter>
 
 <chapter name="Ekstension">
 <b>Ekstension</b> (lat.), Udvidelse, Omfang,
@@ -90,7 +91,8 @@ vore kirurgiske Hjælpemidler.
 <chapter name="ekstensiv">
 <b>ekstensiv</b> (lat.), udstrakt, udbredt,
 omfattende, virkende udadtil, i Modsætning til
-intensiv.</chapter>
+intensiv.
+</chapter>
 
 <chapter name="ekstensivt Landbrug">
 <b>ekstensivt Landbrug</b> betegner Overgangen
@@ -111,7 +113,8 @@ rationel end ved den intensive Drift.
 </chapter>
 
 <chapter name="Ekstensorer">
-<b>Ekstensorer,</b> se <sp>Muskler</sp>.</chapter>
+<b>Ekstensorer,</b> se <sp>Muskler</sp>.
+</chapter>
 
 <chapter name="Eksteriør">
 <b>Eksteriør</b> (fransk), det ydre, det udvortes.
@@ -132,7 +135,8 @@ Bøjen sig efter den første.
 
 <chapter name="ekstern">
 <b>ekstern</b> (lat.), ydre, udenfor værende;
-fremmed.</chapter>
+fremmed.
+</chapter>
 
 <chapter name="Eksternat">
 <b>Eksternat</b> (af lat. <i>extérnus</i> = den, som er
@@ -152,7 +156,8 @@ Skolen.
 
 <chapter name="eksterritorial">
 <b>eksterritorial</b> (lat.), se
-<sp>Eksterritorialitet</sp>.</chapter>
+<sp>Eksterritorialitet</sp>.
+</chapter>
 
 <chapter name="Eksterritorialitet">
 <b>Eksterritorialitet</b> ['æks-] (lat.) betegner i

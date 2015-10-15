@@ -10,18 +10,22 @@ kunde faa Bugt med de andre.
 
 <chapter name="Dodekarkiet">
 <b>Dodekarkiet,</b> den Tid, da Dodekarkerne
-skal have behersket Ægypten.</chapter>
+skal have behersket Ægypten.
+</chapter>
 
 <chapter name="Dodekatemorion">
 <b>Dodekatemorion</b> (gr.), Tolvtedelen af en
-Cirkel, specielt Dyrekredsen. Smlgn. <sp>Ekliptika</sp>.</chapter>
+Cirkel, specielt Dyrekredsen. Smlgn. <sp>Ekliptika</sp>.
+</chapter>
 
 <chapter name="Dodenkop">
-<b>Dodenkop,</b> se <sp>Jerntveilte</sp> (Ferrioxyd).</chapter>
+<b>Dodenkop,</b> se <sp>Jerntveilte</sp> (Ferrioxyd).
+</chapter>
 
 <chapter name="Dodgson, C. L.">
 <b>Dodgson</b> ['dådзs<sub>ə</sub>n], <sp>C. L.</sp>, se <sp>Lewis
-Carroll</sp>.</chapter>
+Carroll</sp>.
+</chapter>
 
 <chapter name="Dodici, Cima">
 <b>Dodici, Cima</b> ['t∫ima-'dodit∫i], Bjerg i
@@ -34,7 +38,8 @@ Brenta-Dalen S. f. Borgo.
 <chapter name="Dodo">
 <b>Dodo</b> (af portug. Ord <i>Doudo</i> = en Taabe)
 bruges i de fleste Sprog som Navn for
-Dronten.</chapter>
+Dronten.
+</chapter>
 
 <chapter name="Dodoëns, Rembertus">
 <b>Dodoëns</b> ['do.do<sub>ə</sub>ns ell. do'do.<sub>ə</sub>ns?]

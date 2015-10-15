@@ -23,14 +23,17 @@ Gødning.
 </chapter>
 
 <chapter name="Cyanammonium">
-<b>Cyanammonium,</b> se <sp>Ammoniumcyanid</sp>.</chapter>
+<b>Cyanammonium,</b> se <sp>Ammoniumcyanid</sp>.
+</chapter>
 
 <chapter name="Cyanater">
 <b>Cyanater,</b> d. s. s. <sp>cyansure Salte</sp>, se
-<sp>Cyansyre</sp>.</chapter>
+<sp>Cyansyre</sp>.
+</chapter>
 
 <chapter name="Cyanbarium">
-<b>Cyanbarium,</b> se <sp>Baryumcyanid</sp>.</chapter>
+<b>Cyanbarium,</b> se <sp>Baryumcyanid</sp>.
+</chapter>
 
 <chapter name="Cyanbrinte">
 <b>Cyanbrinte</b> (<sp>Blaasyre</sp>) (se ogsaa <sp>Cyan</sp>),
@@ -108,10 +111,12 @@ der forraadte deres Hemmeligheder.
 </chapter>
 
 <chapter name="Cyanea">
-<b>Cyanea,</b> se <sp>Gopler</sp>.</chapter>
+<b>Cyanea,</b> se <sp>Gopler</sp>.
+</chapter>
 
 <chapter name="Cyanecula">
-<b>Cyanecula,</b> se <sp>Blaahals</sp>.</chapter>
+<b>Cyanecula,</b> se <sp>Blaahals</sp>.
+</chapter>
 
 <chapter name="Cyanider">
 <b>Cyanider,</b> <sp>Cyanmetaller</sp>, er Forbindelser

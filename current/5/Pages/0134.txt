@@ -39,7 +39,8 @@ Betragtninger og lægger mindre Vægt paa den
 skrevet en Række Artikler, som røber hans
 store Viden og Interesse for Litterære og sociale
 Spørgsmaal.
-<i>E. S-n.</i>.</chapter>
+<i>E. S-n.</i>
+</chapter>
 
 <chapter name="Collin, Edgar">
 <b>Collin,</b> <sp>Edgar</sp>, dansk Journalist og

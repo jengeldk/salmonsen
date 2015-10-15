@@ -113,7 +113,8 @@ d. v. s. de Danskes Dal.
 </chapter>
 
 <chapter name="Darnis">
-<b>Darnis,</b> se <sp>Dernah</sp>.</chapter>
+<b>Darnis,</b> se <sp>Dernah</sp>.
+</chapter>
 
 <chapter name="Darnley, Henry Stuart">
 <b>Darnley</b> ['da.<sub>ə</sub>n£<sub>i</sub>], <sp>Henry Stuart</sp>

@@ -39,10 +39,12 @@ et givet Forhold, fører.
 </chapter>
 
 <chapter name="Diokletian">
-<b>Diokletian,</b> d. s. s. <sp>Diocletianus</sp>.</chapter>
+<b>Diokletian,</b> d. s. s. <sp>Diocletianus</sp>.
+</chapter>
 
 <chapter name="Diomedea">
-<b>Diomedea,</b> se <sp>Albatros</sp>.</chapter>
+<b>Diomedea,</b> se <sp>Albatros</sp>.
+</chapter>
 
 <chapter name="Diomedes">
 <b>Diomedes,</b> 1) en af Grækernes tapreste

@@ -49,7 +49,8 @@ ophævede Ægteskabet. (<sp>Litt</sp>.: <sp>P. F. Girard</sp>,
 
 <chapter name="divotamente">
 <b>divotamente</b> (ital.) eller <i>divoto</i>, mus.
-Foredragsbetegnelse: andægtig, højtidelig.</chapter>
+Foredragsbetegnelse: andægtig, højtidelig.
+</chapter>
 
 <chapter name="divus">
 <b>divus</b> (lat.), egl. »guddommelig«. I Rom
@@ -62,10 +63,12 @@ Titus, Nerva o. s. v.
 </chapter>
 
 <chapter name="divæ memoriæ">
-<b>divæ memoriæ</b> (lat.), salig Ihukommelse.</chapter>
+<b>divæ memoriæ</b> (lat.), salig Ihukommelse.
+</chapter>
 
 <chapter name="Diwra">
-<b>Diwra,</b> se <sp>Dibra</sp>.</chapter>
+<b>Diwra,</b> se <sp>Dibra</sp>.
+</chapter>
 
 <chapter name="Dix, John Adams">
 <b>Dix</b> [diks], <sp>John Adams</sp>, nordamerikansk
@@ -109,7 +112,8 @@ Udtrykket er laant fra Ezechiel Kap 3, 18-21, og 33
 </chapter>
 
 <chapter name="Dixmude">
-<b>Dixmude</b> [diks'myd], se <sp>Dixmuyd'en</sp>.</chapter>
+<b>Dixmude</b> [diks'myd], se <sp>Dixmuyd'en</sp>.
+</chapter>
 
 <chapter name="ixmuyden">
 <b>Dixmuyden</b> [deks'mö^yd<sub>ə</sub>n] (fr. <sp>Dixmude</sp>),
@@ -172,11 +176,13 @@ paa 54° n. Br., adskiller Dronning Charlottes
 </chapter>
 
 <chapter name="Diyamir">
-<b>Diyamir,</b> se <sp>Nanga Parbat</sp>.</chapter>
+<b>Diyamir,</b> se <sp>Nanga Parbat</sp>.
+</chapter>
 
 <chapter name="dizain">
 <b>dizain</b> [di'zæ] (fr.), Strofe, bestaaende af 10
-Verslinier.</chapter>
+Verslinier.
+</chapter>
 
 <chapter name="Diæresis">
 <b>Diæresis</b> (gr.; Adskillelse, Deling,

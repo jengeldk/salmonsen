@@ -74,7 +74,8 @@ Udsmykning af Bøger, ved Afslutningen af et
 Kapitel, et Afsnit ell. af hele Bogen. <i>c. de sac</i>
 ['ky-'t-sak], Gade ell. Stræde lukket for den
 ene Ende, blind Gade; deraf: vanskelig
-Situation uden Udvej.</chapter>
+Situation uden Udvej.
+</chapter>
 
 <chapter name="culbute">
 <b>culbute</b> [kyl'byt], Kolbøtte. Den
@@ -90,7 +91,8 @@ forsvaredes af <sp>Levret</sp> (<i>théorie de la c.</i>).
 </chapter>
 
 <chapter name="Culdees">
-<b>Culdees</b> ['ka£di.z ell. ka£'di.z], se <sp>Kuldeer</sp>.</chapter>
+<b>Culdees</b> ['ka£di.z ell. ka£'di.z], se <sp>Kuldeer</sp>.
+</chapter>
 
 <chapter name="Culebra, 1) Bjergkæde, 2) En lille Ø">
 <b>Culebra</b> [ku'læbra], 1) Bjergkæde paa
@@ -113,7 +115,8 @@ C. grundlagdes 1533 af Nuño de Guzman.
 </chapter>
 
 <chapter name="Culicidæ">
-<b>Culicidæ,</b> se <sp>Myg</sp>.</chapter>
+<b>Culicidæ,</b> se <sp>Myg</sp>.
+</chapter>
 
 <chapter name="Cullen, By i Skotland">
 <b>Cullen</b> ['ka£<sub>ə</sub>n], By i Skotland, Banffshire,
@@ -162,7 +165,8 @@ practice of physic for the use of students</i> (1777),
 </chapter>
 
 <chapter name="Cullen Bryant">
-<b>Cullen Bryant</b> ['ka£<sub>ə</sub>n-'brai^<sub>ə</sub>nt], se <sp>Bryant</sp>.</chapter>
+<b>Cullen Bryant</b> ['ka£<sub>ə</sub>n-'brai^<sub>ə</sub>nt], se <sp>Bryant</sp>.
+</chapter>
 
 <chapter name="Cullera">
 <b>Cullera</b> [ku'l<sub>j</sub>æra], By i det østlige Spanien,
@@ -177,10 +181,12 @@ Risavl, Fiskeri og Handel med Sydfrugter.
 </chapter>
 
 <chapter name="Cullinan-Diamant">
-<b>Cullinan-Diamant</b> ['kal<sub>i</sub>n<sub>ä</sub>n-], se <sp>Diamant</sp>.</chapter>
+<b>Cullinan-Diamant</b> ['kal<sub>i</sub>n<sub>ä</sub>n-], se <sp>Diamant</sp>.
+</chapter>
 
 <chapter name="Culloch">
-<b>Culloch</b> ['ka£<sub>å</sub>k], se <sp>Mac Culloch</sp>.</chapter>
+<b>Culloch</b> ['ka£<sub>å</sub>k], se <sp>Mac Culloch</sp>.
+</chapter>
 
 <chapter name="Culloden">
 <b>Culloden</b> [k<sub>ə</sub>'£o<sub>u</sub>d<sub>ə</sub>n], Landsby i det skotske

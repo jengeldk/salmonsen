@@ -23,16 +23,20 @@ Konvolutter.
 </chapter>
 
 <chapter name="Duplekstelefonering">
-<b>Duplekstelefonering,</b> se <sp>Telefon</sp>.</chapter>
+<b>Duplekstelefonering,</b> se <sp>Telefon</sp>.
+</chapter>
 
 <chapter name="Duplekstelegrafering">
-<b>Duplekstelegrafering,</b> se <sp>Telegraf</sp>.</chapter>
+<b>Duplekstelegrafering,</b> se <sp>Telegraf</sp>.
+</chapter>
 
 <chapter name="Duplekstransformatoren">
-<b>Duplekstransformatoren,</b> se <sp>Telefon</sp>.</chapter>
+<b>Duplekstransformatoren,</b> se <sp>Telefon</sp>.
+</chapter>
 
 <chapter name="du Plessis">
-<b>du Plessis</b> [dyplæ'si], <sp>A.</sp>, se <sp>Richelieu</sp>.</chapter>
+<b>du Plessis</b> [dyplæ'si], <sp>A.</sp>, se <sp>Richelieu</sp>.
+</chapter>
 
 <chapter name="Duplessis, George Victor Antoine Gratet-">
 <b>Duplessis</b> [dyplæ'si], <sp>George Victor
@@ -76,7 +80,8 @@ Hofmuseet i Wien [Gluck, 1775] m. v.). (<sp>Litt</sp>.:
 
 <chapter name="Duplessis Mornay">
 <b>Duplessis Mornay</b> [dyplæ'si-mår'næ], se
-<sp>Mornay</sp>.</chapter>
+<sp>Mornay</sp>.
+</chapter>
 
 <chapter name="Duplet">
 <b>Duplet</b> kaldes et Par Spektrallinier, der
@@ -88,10 +93,12 @@ Dobbeltlinier.
 
 <chapter name="duplicere">
 <b>duplicere</b> (lat.), fordoble, fremkomme med
-sin Duplik.</chapter>
+sin Duplik.
+</chapter>
 
 <chapter name="Duplicidentata">
-<b>Duplicidentata,</b> se <sp>Harer</sp>.</chapter>
+<b>Duplicidentata,</b> se <sp>Harer</sp>.
+</chapter>
 
 <chapter name="Duplik">
 <b>Duplik</b> (lat.). I Processer Benævnelse for
@@ -105,7 +112,8 @@ Sagsøgtes Svar herpaa igen er D.
 <chapter name="Duplikat">
 <b>Duplikat</b> (lat.), en Dokument-Genpart, der
 er underskrevet af selve Udstederen af
-Originaldokumentet.</chapter>
+Originaldokumentet.
+</chapter>
 
 <chapter name="Duplikator">
 <b>Duplikator,</b> et Redskab til at forstærke
@@ -120,7 +128,8 @@ Nutidens elektriske Fordelingsmaskiner.
 </chapter>
 
 <chapter name="duplo">
-<b>duplo,</b> se <sp>duplum</sp>.</chapter>
+<b>duplo,</b> se <sp>duplum</sp>.
+</chapter>
 
 <chapter name="Duployé, Émile">
 <b>Duployé</b> [dyplwa'je], <sp>Émile</sp>, fr. Gejstlig,
@@ -164,7 +173,8 @@ Stenographie« (Berlin 1877, 1878, 1885, 1891),
 
 <chapter name="duplum">
 <b>duplum</b> (<sp>lat</sp>.), det dobbelte; at udfærdige
-<i>in duplo</i>, at udfærdige i to Eksemplarer.</chapter>
+<i>in duplo</i>, at udfærdige i to Eksemplarer.
+</chapter>
 
 <chapter name="Dupondius">
 <b>Dupondius</b> (lat.), »dobbeltvægtig«, en Mønt,
@@ -173,7 +183,8 @@ Dobbelt <sp>As</sp> (s. d.).
 </chapter>
 
 <chapter name="Dupont, Henriquel-Dupont">
-<b>Dupont</b> [dy'på], se <sp>Henriquel-Dupont</sp>.</chapter>
+<b>Dupont</b> [dy'på], se <sp>Henriquel-Dupont</sp>.
+</chapter>
 
 <chapter name="Dupont, Jacques Charles">
 <b>Dupont</b> [dy'på], <sp>Jacques Charles</sp>, kaldt

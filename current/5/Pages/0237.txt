@@ -143,5 +143,6 @@ Oversat paa Dansk bl. a. af <sp>C. F. Gerdsen</sp>
 
 <chapter name="Cornell University">
 <b>Cornell University</b> ['kå.<sub>ə</sub>n<sub>ə</sub>£-jun<sub>i</sub>'və.s<sub>i</sub>t<sub>i</sub>], se
-<sp>Ithaca</sp>.</chapter>
+<sp>Ithaca</sp>.
+</chapter>
 

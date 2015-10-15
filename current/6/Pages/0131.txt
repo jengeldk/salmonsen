@@ -11,7 +11,8 @@ Fenylhydrazinklorid: C<sub>5</sub>H<sub>5</sub>N<sub>2</sub>.Cl+4H=6<sub>6</sub>
 
 <chapter name="Diazofarvestoffer">
 <b>Diazofarvestoffer</b> [-so-], se
-<sp>Disazofarvestoffer</sp>.</chapter>
+<sp>Disazofarvestoffer</sp>.
+</chapter>
 
 <chapter name="Diazotater">
 <b>Diazotater</b> [-so-], Diazoforbindelsernes
@@ -45,7 +46,8 @@ vaskeægte. Metoden er kendt fra 1890.
 </chapter>
 
 <chapter name="Dibbelmaskine">
-<b>Dibbelmaskine,</b> se <sp>Saamaskine</sp>.</chapter>
+<b>Dibbelmaskine,</b> se <sp>Saamaskine</sp>.
+</chapter>
 
 <chapter name="Dibdin, Charles">
 <b>Dibdin</b> ['dibd<sub>i</sub>n], <sp>Charles</sp>, eng. Forfatter,
@@ -105,10 +107,12 @@ UdgaveJ).
 </chapter>
 
 <chapter name="Dibenzopyridin">
-<b>Dibenzopyridin,</b> se <sp>Akridin</sp>.</chapter>
+<b>Dibenzopyridin,</b> se <sp>Akridin</sp>.
+</chapter>
 
 <chapter name="Dibenzoyl">
-<b>Dibenzoyl,</b> se <sp>Benzil</sp>.</chapter>
+<b>Dibenzoyl,</b> se <sp>Benzil</sp>.
+</chapter>
 
 <chapter name="Dibon">
 <b>Dibon,</b> By i Moab, c. 5 km N. f. Arnon i
@@ -138,14 +142,16 @@ Bestaaende Versefod ([*][*]).
 </chapter>
 
 <chapter name="Dibranchiata">
-<b>Dibranchiata</b> [-ki-], se <sp>Blæksprutter</sp>.</chapter>
+<b>Dibranchiata</b> [-ki-], se <sp>Blæksprutter</sp>.
+</chapter>
 
 <chapter name="Dibrugarh">
 <b>Dibrugarh</b> ['dibrugə ell. -gə.], By i britisk
 Indien, Prov. Assam, ligger 90 km NNØ. f.
 Lakhimpur, 120 m o. H. paa venstre Bred af
 Brahmaputra. (1901) 1127 Indb. D. er
-Endepunkt for Dampskibsfarten paa Brahmaputra.</chapter>
+Endepunkt for Dampskibsfarten paa Brahmaputra.
+</chapter>
 
 <chapter name="Dic cur hic">
 <b>Dic cur hic</b> (lat), »Sig, hvorfor du er her«

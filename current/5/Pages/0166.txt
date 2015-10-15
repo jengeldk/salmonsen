@@ -21,7 +21,8 @@ Kolonier dannede Forbundsstat af 1. Jan. 1901.
 
 <chapter name="commotio cerebri">
 <b>commotio cerebri,</b> lat. Navn for
-Hjernerystelse.</chapter>
+Hjernerystelse.
+</chapter>
 
 <chapter name="commune naufragium">
 <b>commune naufragium</b> (lat.), fælles
@@ -33,7 +34,8 @@ om den.
 
 <chapter name="communio incidens">
 <b>communio incidens</b> (lat.), rom. tekn. Udtryk
-for det saakaldte tilfældige <sp>Sameje</sp>.</chapter>
+for det saakaldte tilfældige <sp>Sameje</sp>.
+</chapter>
 
 <chapter name="Communiqué">
 <b>Communiqué</b> [kåmyni'ke] (fr.), Meddelelse,
@@ -163,7 +165,8 @@ Generalguvernementet Madagaskar.
 
 <chapter name="Comorin">
 <b>Comorin</b> ['kåm<sub>ə</sub>ri.n (ell. -'ri.n'], Kap,
-Forbjerg, som danner Sydspidsen af Forindien.</chapter>
+Forbjerg, som danner Sydspidsen af Forindien.
+</chapter>
 
 <chapter name="Como-Søen">
 <b>Como-Søen,</b> <sp>Lago di Como</sp> ell. <sp>Lario</sp>,

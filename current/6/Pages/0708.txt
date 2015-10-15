@@ -11,7 +11,8 @@ og hed opr. Port Rex.
 
 <chapter name="East-Lothian">
 <b>East-Lothian</b> ['i.st-'£o<sub>u</sub>ð<sub>iə</sub>n], se
-<sp>Haddington</sp>.</chapter>
+<sp>Haddington</sp>.
+</chapter>
 
 <chapter name="East-Main">
 <b>East-Main</b> ['i.st-'me<sub>i</sub>n], »det østlige
@@ -80,7 +81,8 @@ der forsvares af Fort Sullivan.
 
 <chapter name="East-Portland">
 <b>East-Portland</b> ['i.st-'på.<sub>ə</sub>t£<sub>ə</sub>nd], Forstad til
-<sp>Portland</sp> (s. d.) i U. S. A., Stat Oregon.</chapter>
+<sp>Portland</sp> (s. d.) i U. S. A., Stat Oregon.
+</chapter>
 
 <chapter name="East-Providence">
 <b>East-Providence</b> ['i.st-'pråv<sub>i</sub>d<sub>ə</sub>ns], By i U.
@@ -91,10 +93,12 @@ Indb. E. har kem. Fabrikker og Papirfabrikker.
 </chapter>
 
 <chapter name="East-Retford">
-<b>East-Retford</b> ['i.st-'retfəd], se <sp>Retford</sp>.</chapter>
+<b>East-Retford</b> ['i.st-'retfəd], se <sp>Retford</sp>.
+</chapter>
 
 <chapter name="East-Riding">
-<b>East-Riding</b> ['i.st-'ra^id<sub>i</sub>ŋ], se <sp>Yorkshire</sp>.</chapter>
+<b>East-Riding</b> ['i.st-'ra^id<sub>i</sub>ŋ], se <sp>Yorkshire</sp>.
+</chapter>
 
 <chapter name="East-River">
 <b>East-River</b> ['i.st-'rivə], det 30 km lange
@@ -120,7 +124,8 @@ besat med Landingsbroer.
 </chapter>
 
 <chapter name="East-Saginaw">
-<b>East-Saginaw</b> ['i.st-'säg<sub>i</sub>nå.], se <sp>Saginaw</sp>.</chapter>
+<b>East-Saginaw</b> ['i.st-'säg<sub>i</sub>nå.], se <sp>Saginaw</sp>.
+</chapter>
 
 <chapter name="East-Saint-Louis">
 <b>East-Saint-Louis</b> ['i.st-s<sub>ə</sub>nt-'£u.<sub>i</sub>s], By i
@@ -134,7 +139,8 @@ Jernvejslinier.
 
 <chapter name="East-Stonehouse">
 <b>East-Stonehouse</b> ['i.st-'sto<sub>u</sub>nha^us], se
-<sp>Plymouth</sp>.</chapter>
+<sp>Plymouth</sp>.
+</chapter>
 
 <chapter name="Eastwick, Edward Backhouse">
 <b>Eastwick</b> ['i.stwik], <sp>Edward Backhouse</sp>,

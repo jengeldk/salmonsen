@@ -104,10 +104,12 @@ Kommandøren for en Division.
 </chapter>
 
 <chapter name="Divisor">
-<b>Divisor,</b> se <sp>Division</sp>.</chapter>
+<b>Divisor,</b> se <sp>Division</sp>.
+</chapter>
 
 <chapter name="Divisor, se Bogtryk">
-<b>Divisor,</b> se <sp>Bogtryk</sp> S. 563.</chapter>
+<b>Divisor,</b> se <sp>Bogtryk</sp> S. 563.
+</chapter>
 
 <chapter name="Divisorer">
 <b>Divisorer</b> (lat. <i>divisores</i>, egl. »Uddelere«)
@@ -121,7 +123,8 @@ Lovene <i>om ambitus</i>.
 <chapter name="Divisorium">
 <b>Divisorium</b> (lat,), Inddelingsskive, som
 bruges af Urmagere. Ogsaa d. s. s. <sp>Divisor</sp>, se
-<sp>Bogtryk</sp>, S. 563.</chapter>
+<sp>Bogtryk</sp>, S. 563.
+</chapter>
 
 <chapter name="Divonne">
 <b>Divonne</b> [di'vån], Landsby og Kursted i

@@ -28,15 +28,18 @@ særlig ved Zinkætsning.
 
 <chapter name="Drageblod">
 <b>Drageblod,</b> en rød Rhinskvin fra Egnen om
-Drachenfels.</chapter>
+Drachenfels.
+</chapter>
 
 <chapter name="Drageblodstræ">
 <b>Drageblodstræ,</b> se <sp>Dracæna</sp> og
-<sp>Pterocarpus</sp>.</chapter>
+<sp>Pterocarpus</sp>.
+</chapter>
 
 <chapter name="Dragebug">
 <b>Dragebug,</b> det Punkt af Maanens Bane, som
-er længst fra Ekliptikken.</chapter>
+er længst fra Ekliptikken.
+</chapter>
 
 <chapter name="Dragedollar">
 <b>Dragedollar,</b> kin. Sølvmønt, prægedes for
@@ -91,7 +94,8 @@ Modsætning til Vinge- ell. Skrueflyvere.
 </chapter>
 
 <chapter name="Dragehale">
-<b>Dragehale,</b> se <sp>Dragehoved</sp>.</chapter>
+<b>Dragehale,</b> se <sp>Dragehoved</sp>.
+</chapter>
 
 <chapter name="Dragehoved, Urt">
 <b>Dragehoved</b> (<i>Dracocephalum</i> L.), Slægt af
@@ -129,13 +133,12 @@ mindre fantastisk Dyrehoved, stammende fra den
 yngre Jernalders Dyreornamentik
 (smlg. Brand). (<sp>Litt</sp>.: »Norske
 Fortidsminders Aarsberetning« 1906, S. 57 ff.).
+
+<img>Fig 1.</img>
+
+<img>Fig 2.</img>
 <i>C. A. J.</i>
-
-<img>
-Fig 1.
-
-</img><img>
-Fig 2.</img></chapter>
+</chapter>
 
 <chapter name="Dragehoved og Dragehale">
 <b>Dragehoved og Dragehale,</b>
@@ -151,4 +154,5 @@ Plan skærer Ekliptikkens Plan.
 </chapter>
 
 <chapter name="Dragemaaned">
-<b>Dragemaaned,</b> se <sp>Maaned</sp>.</chapter>
+<b>Dragemaaned,</b> se <sp>Maaned</sp>.
+</chapter>

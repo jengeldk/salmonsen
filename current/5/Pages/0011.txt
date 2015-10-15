@@ -49,10 +49,12 @@ Mozart), nu nærmest musikhistorisk Interesse.
 </chapter>
 
 <chapter name="Cimbal, d. s. s. Cymbal">
-<b>Cimbal,</b> d. s. s. <sp>Cymbal</sp>.</chapter>
+<b>Cimbal,</b> d. s. s. <sp>Cymbal</sp>.
+</chapter>
 
 <chapter name="Cimbex, se Bladhvepse">
-<b>Cimbex,</b> se <sp>Bladhvepse</sp>.</chapter>
+<b>Cimbex,</b> se <sp>Bladhvepse</sp>.
+</chapter>
 
 <chapter name="Cimbrer">
 <b>Cimbrer,</b> det første germanske Folkefærd,
@@ -111,7 +113,8 @@ et migrationes Cimbrorum</i> [1842]; <sp>Pallmann</sp>,
 </chapter>
 
 <chapter name="Cimbrishamn, se Simrishamn">
-<b>Cimbrishamn,</b> se <sp>Simrishamn</sp>.</chapter>
+<b>Cimbrishamn,</b> se <sp>Simrishamn</sp>.
+</chapter>
 
 <chapter name="Cimbriske Halvø">
 <b>Cimbriske Halvø,</b> <i>cimbrica Chersonnesus</i>,
@@ -155,7 +158,8 @@ Form.
 </chapter>
 
 <chapter name="Cinaloa, se Sinaloa">
-<b>Cinaloa,</b> [sina'låa] se <sp>Sinaloa</sp>.</chapter>
+<b>Cinaloa,</b> [sina'låa] se <sp>Sinaloa</sp>.
+</chapter>
 
 <chapter name="Cinca">
 <b>Cinca,</b> ['þiŋka] Flod i det nordlige Spanien,

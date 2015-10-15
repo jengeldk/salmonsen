@@ -90,7 +90,8 @@ Elektrizität und des Magnetismus« I, Leipzig
 <chapter name="Dielektrika, dielektriske Legemer">
 <b>Dielektrika, dielektriske Legemer,</b> en af
 Faraday indført Betegnelse for Isolatorer. Se
-<sp>Dielektricitetskonstant</sp>.</chapter>
+<sp>Dielektricitetskonstant</sp>.
+</chapter>
 
 <chapter name="dielektrisk Hysterese">
 <b>dielektrisk Hysterese.</b> Sendes en
@@ -122,7 +123,8 @@ forsvinder.
 
 <chapter name="dielektrisk Tab, dielektrisk Tabsvinkel">
 <b>dielektrisk Tab, dielektrisk Tabsvinkel,</b>
-se <sp>elektrisk Kondensator</sp>.</chapter>
+se <sp>elektrisk Kondensator</sp>.
+</chapter>
 
 <chapter name="Diels, Hermann Alexander">
 <b>Diels</b> [di.ls], <sp>Hermann Alexander</sp>,

@@ -100,20 +100,25 @@ det hele er vist kun en digterisk Fiktion
 
 <chapter name="diotisk Hørelse">
 <b>diotisk Hørelse,</b> d. s. s. <sp>binaural
-Hørelse</sp>.</chapter>
+Hørelse</sp>.
+</chapter>
 
 <chapter name="Dioxia">
-<b>Dioxia,</b> se <sp>Diapente</sp>.</chapter>
+<b>Dioxia,</b> se <sp>Diapente</sp>.
+</chapter>
 
 <chapter name="Dioxyantrakinon">
-<b>Dioxyantrakinon</b> [-traki-], se <sp>Alizarin</sp>.</chapter>
+<b>Dioxyantrakinon</b> [-traki-], se <sp>Alizarin</sp>.
+</chapter>
 
 <chapter name="Dioxyantrakinonkinolin">
 <b>Dioxyantrakinonkinolin,</b> se
-<sp>Alizarinblaat</sp>.</chapter>
+<sp>Alizarinblaat</sp>.
+</chapter>
 
 <chapter name="Dioxybarbitursyre">
-<b>Dioxybarbitursyre,</b> se <sp>Alloxan</sp>.</chapter>
+<b>Dioxybarbitursyre,</b> se <sp>Alloxan</sp>.
+</chapter>
 
 <chapter name="Dioxybenzol">
 <b>Dioxybenzol,</b> C<sub>6</sub>H<sub>4</sub>(OH)<sub>2</sub>. Der eksisterer 3
@@ -123,20 +128,25 @@ isomere D., nemlig <sp>Pyrokatechin</sp>,
 </chapter>
 
 <chapter name="Dioxytoluol">
-<b>Dioxytoluol,</b> se <sp>Orcin</sp>.</chapter>
+<b>Dioxytoluol,</b> se <sp>Orcin</sp>.
+</chapter>
 
 <chapter name="Dioxyvinsyre">
-<b>Dioxyvinsyre,</b> se <sp>Vinsyre</sp>.</chapter>
+<b>Dioxyvinsyre,</b> se <sp>Vinsyre</sp>.
+</chapter>
 
 <chapter name="Dipavamsa">
 <b>Dipavamsa,</b> Navn paa en sydbuddhistisk
-Krønike, se <sp>Buddhisme</sp> (Historie).</chapter>
+Krønike, se <sp>Buddhisme</sp> (Historie).
+</chapter>
 
 <chapter name="Dipenten">
-<b>Dipenten,</b> se <sp>Limonen</sp>.</chapter>
+<b>Dipenten,</b> se <sp>Limonen</sp>.
+</chapter>
 
 <chapter name="Diphylla">
-<b>Diphylla</b> [-'fyl-], se <sp>Flagermus</sp>.</chapter>
+<b>Diphylla</b> [-'fyl-], se <sp>Flagermus</sp>.
+</chapter>
 
 <chapter name="Diplacusis">
 <b>Diplacusis</b> (<sp>Dobbelthøren</sp>). Medens

@@ -19,12 +19,14 @@ Bestemmelse.
 </chapter>
 
 <chapter name="Depravation">
-<b>Depravation,</b> se <sp>depravere</sp>.</chapter>
+<b>Depravation,</b> se <sp>depravere</sp>.
+</chapter>
 
 <chapter name="depravere">
 <b>depravere</b> (af lat. <i>pravus</i>, slet), forværre,
 fordærve; blive slettere; <sp>Depravation</sp>,
-Forværrelse, Fordærvelse (af Sæderne).</chapter>
+Forværrelse, Fordærvelse (af Sæderne).
+</chapter>
 
 <chapter name="deprecatio">
 <b>deprecatio</b> kaldes i den rom. Retorik den
@@ -130,7 +132,8 @@ der afgives med en saadan Retning, kaldes
 </chapter>
 
 <chapter name="Depression (lægevid.)">
-<b>Depression</b> (<sp>lægevid</sp>.), se <sp>Melankoli</sp>.</chapter>
+<b>Depression</b> (<sp>lægevid</sp>.), se <sp>Melankoli</sp>.
+</chapter>
 
 <chapter name="Depression (økonom.)">
 <b>Depression</b> (<sp>økonom</sp>.) er den Tilstand,

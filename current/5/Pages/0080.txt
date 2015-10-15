@@ -33,7 +33,8 @@ født.
 
 <chapter name="Clermont-Ganneau">
 <b>Clermont-Ganneau</b> [klær'må'ga'no], <sp>C.</sp>, se
-<sp>Ganneau, C. C.-</sp>.</chapter>
+<sp>Ganneau, C. C.-</sp>.
+</chapter>
 
 <chapter name="Clermont-Tonnerre, Aimé Marie Gaspard">
 <b>Clermont-Tonnerre</b> [klær'må-tå'næ.r],
@@ -84,7 +85,8 @@ en modig, selvbehersket Personlighed.
 </chapter>
 
 <chapter name="Clerus">
-<b>Clerus,</b> se <sp>Blødbiller</sp>.</chapter>
+<b>Clerus,</b> se <sp>Blødbiller</sp>.
+</chapter>
 
 <chapter name="Clésinger, Jean Baptiste Auguste">
 <b>Clésinger</b> [klezæ'зe], <sp>Jean Baptiste

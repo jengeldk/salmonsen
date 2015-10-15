@@ -10,10 +10,12 @@ empiriske E.
 </chapter>
 
 <chapter name="Egenskabsord">
-<b>Egenskabsord,</b> d. s. s. <sp>Adjektiv</sp>.</chapter>
+<b>Egenskabsord,</b> d. s. s. <sp>Adjektiv</sp>.
+</chapter>
 
 <chapter name="Egensund">
-<b>Egensund,</b> se <sp>Egernsund</sp>.</chapter>
+<b>Egensund,</b> se <sp>Egernsund</sp>.
+</chapter>
 
 <chapter name="Egens Vig">
 <b>Egens Vig,</b> i den nordøstlige Del af <sp>Kalø
@@ -26,7 +28,8 @@ afgiver en god Ankerplads.
 </chapter>
 
 <chapter name="Egensvingning">
-<b>Egensvingning,</b> se <sp>Radiotelegrafi</sp>.</chapter>
+<b>Egensvingning,</b> se <sp>Radiotelegrafi</sp>.
+</chapter>
 
 <chapter name="Egentone">
 <b>Egentone</b> er den for en Sproglyd
@@ -137,13 +140,16 @@ Reicnsgebietes Egerland« [Leipzig 1875]).
 </chapter>
 
 <chapter name="Eger, se Erlau">
-<b>Eger</b> ['e.g<sub>ə</sub>r], se <sp>Erlau</sp>.</chapter>
+<b>Eger</b> ['e.g<sub>ə</sub>r], se <sp>Erlau</sp>.
+</chapter>
 
 <chapter name="Egeran">
-<b>Egeran,</b> d. s. s. <sp>Vesuvian</sp>.</chapter>
+<b>Egeran,</b> d. s. s. <sp>Vesuvian</sp>.
+</chapter>
 
 <chapter name="Egerdir">
-<b>Egerdir,</b> se <sp>Ejer dir Gøl</sp>.</chapter>
+<b>Egerdir,</b> se <sp>Ejer dir Gøl</sp>.
+</chapter>
 
 <chapter name="Egeria">
 <b>Egeria,</b> rom. Kildegudinde, som dyrkedes i

@@ -20,7 +20,8 @@ sydvestlige Del af Staten.
 </chapter>
 
 <chapter name="Durani">
-<b>Durani,</b> se <sp>Afghanistan</sp>, S. 221.</chapter>
+<b>Durani,</b> se <sp>Afghanistan</sp>, S. 221.
+</chapter>
 
 <chapter name="Durante, Francesco">
 <b>Durante,</b> <sp>Francesco</sp>, ital. Komponist,
@@ -61,15 +62,18 @@ Klaverkompositioner og 12 <i>Duetti da camera</i>.
 
 <chapter name="durante causa durat effectus">
 <b>durante causa durat effectus</b> (lat.), saa
-længe Aarsagen varer, varer Virkningen.</chapter>
+længe Aarsagen varer, varer Virkningen.
+</chapter>
 
 <chapter name="durante lite">
 <b>durante lite</b> (lat.), saa længe Processen staar
-paa.</chapter>
+paa.
+</chapter>
 
 <chapter name="durante matrimonio">
 <b>durante matrimonio</b> (lat.), saa længe
-Ægteskabet bestaar.</chapter>
+Ægteskabet bestaar.
+</chapter>
 
 <chapter name="Durativ">
 <b>Durativ</b> (af lat. <i>durare</i>, vare ved) er i

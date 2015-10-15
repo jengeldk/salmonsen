@@ -127,7 +127,8 @@ berejse det paa sin Rejse fra Vadai til
 </chapter>
 
 <chapter name="Darginske Omraade">
-<b>Darginske Omraade,</b> d. s. s. <sp>Dargo</sp>.</chapter>
+<b>Darginske Omraade,</b> d. s. s. <sp>Dargo</sp>.
+</chapter>
 
 <chapter name="Dargo">
 <b>Dargo,</b> Kreds i det nordlige Daghestan i

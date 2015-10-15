@@ -72,11 +72,13 @@ kommende Vine, navnlig Bourgognevine.
 </chapter>
 
 <chapter name="Closterium">
-<b>Closterium,</b> se <sp>Alger</sp> (Grønalger), S. 493.</chapter>
+<b>Closterium,</b> se <sp>Alger</sp> (Grønalger), S. 493.
+</chapter>
 
 <chapter name="Clostridium butyricum">
 <b>Clostridium butyricum,</b> se
-<sp>Smørsyrebakterie</sp>.</chapter>
+<sp>Smørsyrebakterie</sp>.
+</chapter>
 
 <chapter name="Clos-Vougeot">
 <b>Clos-Vougeot</b> ['klo-vu'зo], Burgund's mest

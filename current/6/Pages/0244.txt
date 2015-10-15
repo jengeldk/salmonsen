@@ -60,7 +60,8 @@ Ridt gennem Terrainet med Forhindringer.
 </chapter>
 
 <chapter name="Distancesignal">
-<b>Distancesignal</b> ['staŋs<sub>ə</sub>-], se <sp>Forsignal</sp>.</chapter>
+<b>Distancesignal</b> ['staŋs<sub>ə</sub>-], se <sp>Forsignal</sp>.
+</chapter>
 
 <chapter name="Disteli, Martin">
 <b>Disteli,</b> <sp>Martin</sp>, schweizisk
@@ -88,10 +89,12 @@ Akvareller af D. (<sp>Litt</sp>.: <sp>Zehnder</sp>, »Martin D.«
 </chapter>
 
 <chapter name="Disterrit">
-<b>Disterrit,</b> se <sp>Sprødglimmer</sp>.</chapter>
+<b>Disterrit,</b> se <sp>Sprødglimmer</sp>.
+</chapter>
 
 <chapter name="Disthen">
-<b>Disthen</b> [-'te'n], d. s. s. <sp>Cyanit</sp>.</chapter>
+<b>Disthen</b> [-'te'n], d. s. s. <sp>Cyanit</sp>.
+</chapter>
 
 <chapter name="Distichiasis">
 <b>Distichiasis</b> [-'ki'-] (gr.) kaldes den forkerte
@@ -102,10 +105,12 @@ anden.
 </chapter>
 
 <chapter name="Distichon">
-<b>Distichon</b> [-kån] (gr.), se <sp>Daktylos</sp>.</chapter>
+<b>Distichon</b> [-kån] (gr.), se <sp>Daktylos</sp>.
+</chapter>
 
 <chapter name="Distings Marked">
-<b>Distings Marked</b> i Upsala, se <sp>Dis</sp> og <sp>Disa</sp>.</chapter>
+<b>Distings Marked</b> i Upsala, se <sp>Dis</sp> og <sp>Disa</sp>.
+</chapter>
 
 <chapter name="distingvere">
 <b>distingvere</b> [-steŋ'gve'r<sub>ə</sub>] (lat.), gøre Forskel,
@@ -115,13 +120,16 @@ bestemt, klar, tydelig fremhævet;
 Fremhævelse, Udmærkelse, Tegn paa Uniformer
 til Adskillelse af de milit. Grader;
 <sp>distingveret</sp>, anset, fin, fornem, <sp>distinktiv</sp>,
-kendetegnende, skelnende, udmærkende.</chapter>
+kendetegnende, skelnende, udmærkende.
+</chapter>
 
 <chapter name="distinkt">
-<b>distinkt,</b> se <sp>distingvere</sp>.</chapter>
+<b>distinkt,</b> se <sp>distingvere</sp>.
+</chapter>
 
 <chapter name="Distinktion">
-<b>Distinktion,</b> se <sp>distingvere</sp>.</chapter>
+<b>Distinktion,</b> se <sp>distingvere</sp>.
+</chapter>
 
 <chapter name="Distinktion i Psykologien">
 <b>Distinktion</b> betegner i Psykologien
@@ -134,11 +142,13 @@ i deres Særegenhed.
 </chapter>
 
 <chapter name="distinktiv">
-<b>distinktiv,</b> se <sp>distingvere</sp>.</chapter>
+<b>distinktiv,</b> se <sp>distingvere</sp>.
+</chapter>
 
 <chapter name="distinto">
 <b>distinto</b> (ital.), mus. Foredragsbetegnelse:
-bestemt, tydelig.</chapter>
+bestemt, tydelig.
+</chapter>
 
 <chapter name="Distoma hæmatobium">
 <b>Distoma hæmatobium</b> (<i>Schistosonum
@@ -165,7 +175,8 @@ Med Ekskrementer og Urin kommer der atter
 </chapter>
 
 <chapter name="Distomum, Distomeæ">
-<b>Distomum, Distomeæ,</b> se <sp>Ikter</sp>.</chapter>
+<b>Distomum, Distomeæ,</b> se <sp>Ikter</sp>.
+</chapter>
 
 <chapter name="Distorsion">
 <b>Distorsion</b> (lat.), det videnskabelige Navn

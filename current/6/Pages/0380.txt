@@ -92,7 +92,8 @@ Luftmaal.
 </chapter>
 
 <chapter name="Drage">
-<b>Drage,</b> se <sp>Leguaner</sp>.</chapter>
+<b>Drage,</b> se <sp>Leguaner</sp>.
+</chapter>
 
 <chapter name="Drage, Geoffrey">
 <b>Drage</b> [dre<sub>i</sub>dз], <sp>Geoffrey</sp>, eng.

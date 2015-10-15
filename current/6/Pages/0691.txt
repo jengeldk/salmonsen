@@ -144,7 +144,8 @@ Vinden.
 
 <chapter name="Dønvigs Redningsbøje">
 <b>Dønvigs Redningsbøje,</b> se
-<sp>Redningsapparater</sp>.</chapter>
+<sp>Redningsapparater</sp>.
+</chapter>
 
 <chapter name="Dør">
 <b>Dør</b> (hertil 1 Tavle) betød opr. kun

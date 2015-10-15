@@ -11,7 +11,8 @@ gamle, hvorfra den afledes.
 
 <chapter name="derivatorisk">
 <b>derivatorisk,</b> hvad der hører til Derivation,
-Afledning: se <sp>afledende Midler</sp>.</chapter>
+Afledning: se <sp>afledende Midler</sp>.
+</chapter>
 
 <chapter name="Derivatum">
 <b>Derivatum</b> (Plur. <sp>Derivata</sp>; af lat.
@@ -26,12 +27,14 @@ Denominativa og Verbalia. Se <sp>Orddannelse</sp>.
 </chapter>
 
 <chapter name="derivere">
-<b>derivere</b> (lat.), aflede, udlede, stamme fra.</chapter>
+<b>derivere</b> (lat.), aflede, udlede, stamme fra.
+</chapter>
 
 <chapter name="Derketo">
 <b>Derketo</b> (<sp>Dea Syria</sp>), d. s. s. Atargatis,
 under hvilket Navn Astarte dyrkedes i det
-nordlige Syrien.</chapter>
+nordlige Syrien.
+</chapter>
 
 <chapter name="Derkylidas">
 <b>Derkylidas</b> [gr. -'li-], spartansk Feltherre
@@ -48,26 +51,33 @@ Sestos for Sparta.
 </chapter>
 
 <chapter name="Derma">
-<b>Derma,</b> se <sp>Hud</sp>.</chapter>
+<b>Derma,</b> se <sp>Hud</sp>.
+</chapter>
 
 <chapter name="Dermaleichus">
-<b>Dermaleichus</b> [-la^ikus], se <sp>Fuglemider</sp>.</chapter>
+<b>Dermaleichus</b> [-la^ikus], se <sp>Fuglemider</sp>.
+</chapter>
 
 <chapter name="Dermanyssus">
-<b>Dermanyssus,</b> se <sp>Gamasidæ</sp>.</chapter>
+<b>Dermanyssus,</b> se <sp>Gamasidæ</sp>.
+</chapter>
 
 <chapter name="Dermatin">
 <b>Dermatin,</b> et Serpentinen nærstaaende grønt
-Mineral, fra Waldheim i Sachsen.</chapter>
+Mineral, fra Waldheim i Sachsen.
+</chapter>
 
 <chapter name="Dermatitis">
-<b>Dermatitis</b> (gr.), Hudbetændelse.</chapter>
+<b>Dermatitis</b> (gr.), Hudbetændelse.
+</chapter>
 
 <chapter name="Dermatochelys">
-<b>Dermatochelys</b> [-ke-], se <sp>Havskildpadder</sp></chapter>
+<b>Dermatochelys</b> [-ke-], se <sp>Havskildpadder</sp>
+</chapter>
 
 <chapter name="dermatogen">
-<b>dermatogen</b> (gr.), fra Hudlaget udviklet.</chapter>
+<b>dermatogen</b> (gr.), fra Hudlaget udviklet.
+</chapter>
 
 <chapter name="Dermatogen">
 <b>Dermatogen</b> (<sp>bot</sp>.) kaldes i Histologien
@@ -130,23 +140,29 @@ Hudsygdomme.
 </chapter>
 
 <chapter name="Dermatologi">
-<b>Dermatologi</b> (gr.), Læren om Hudsygdomme.</chapter>
+<b>Dermatologi</b> (gr.), Læren om Hudsygdomme.
+</chapter>
 
 <chapter name="Dermatolysis">
-<b>Dermatolysis</b> (gr.), Løsning af Huden.</chapter>
+<b>Dermatolysis</b> (gr.), Løsning af Huden.
+</chapter>
 
 <chapter name="Dermatomykose">
 <b>Dermatomykose</b> (gr.), Svampsygdomme paa
-Huden. </chapter>
+Huden.
+</chapter>
 
 <chapter name="Dermatonose">
-<b>Dermatonose</b> (gr.), Hudsygdomme.</chapter>
+<b>Dermatonose</b> (gr.), Hudsygdomme.
+</chapter>
 
 <chapter name="Dermatophagus">
-<b>Dermatophagus</b> [-fa-], se <sp>Fnatmider</sp>.</chapter>
+<b>Dermatophagus</b> [-fa-], se <sp>Fnatmider</sp>.
+</chapter>
 
 <chapter name="Dermatophili">
-<b>Dermatophili</b> [-fi-], se <sp>Haarsækmider</sp>.</chapter>
+<b>Dermatophili</b> [-fi-], se <sp>Haarsækmider</sp>.
+</chapter>
 
 <chapter name="Dermatoplastik">
 <b>Dermatoplastik</b> (gr.) er den kir. Virksomhed,
@@ -168,7 +184,8 @@ Hudsygdomme, foranledigede ved D.
 </chapter>
 
 <chapter name="Dermestidæ">
-<b>Dermestidæ,</b> se <sp>Klaner</sp>.</chapter>
+<b>Dermestidæ,</b> se <sp>Klaner</sp>.
+</chapter>
 
 <chapter name="Dermoid">
 <b>Dermoid</b> (<sp>Dermoidcyste</sp>), en Cyste, i
@@ -187,11 +204,13 @@ Lukningen er sket ufuldstændigt.
 </chapter>
 
 <chapter name="Dermoplastik">
-<b>Dermoplastik,</b> d. s. s. <sp>Dermatoplastik</sp>.</chapter>
+<b>Dermoplastik,</b> d. s. s. <sp>Dermatoplastik</sp>.
+</chapter>
 
 <chapter name="Dermoptera">
 <b>Dermoptera,</b> Insektædere med Flagrehud,
-se <sp>Galeopithecus</sp>.</chapter>
+se <sp>Galeopithecus</sp>.
+</chapter>
 
 <chapter name="Dernah">
 <b>Dernah</b> (<sp>Darnis</sp>), lille Havnestad ved
@@ -206,7 +225,8 @@ den annekteret af Italienerne.
 </chapter>
 
 <chapter name="Dernbachit">
-<b>Dernbachit</b> [-'kit], d. s. s. <sp>Beudantit</sp>.</chapter>
+<b>Dernbachit</b> [-'kit], d. s. s. <sp>Beudantit</sp>.
+</chapter>
 
 <chapter name="Dernburg, Bernhard">
 <b>Dernburg</b> ['dærnburk], <sp>Bernhard</sp>, tysk

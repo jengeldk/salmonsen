@@ -16,10 +16,12 @@ de først i Juni med 50 cm. Afstand.
 </chapter>
 
 <chapter name="Daturin">
-<b>Daturin,</b> d. s. s. <sp>Atropin</sp>.</chapter>
+<b>Daturin,</b> d. s. s. <sp>Atropin</sp>.
+</chapter>
 
 <chapter name="Dau">
-<b>Dau</b> (<i>Equus burchélli</i>), se <sp>Heste</sp>.</chapter>
+<b>Dau</b> (<i>Equus burchélli</i>), se <sp>Heste</sp>.
+</chapter>
 
 <chapter name="Dauban, Jules Joseph">
 <b>Dauban</b> [do'bã], <sp>Jules Joseph</sp>, fr.
@@ -68,7 +70,8 @@ Marmorstatue af ham.
 
 <chapter name="Daubentons Flagermus">
 <b>Daubentons Flagermus</b> [dobã'tås-], se
-<sp>Flagermus</sp>.</chapter>
+<sp>Flagermus</sp>.
+</chapter>
 
 <chapter name="Daubi">
 <b>Daubi,</b> 267 km lang Kildeflod til Ussuri i

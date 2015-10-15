@@ -53,7 +53,8 @@ vifteformige Udstraaling til Hjernebarken.
 </chapter>
 
 <chapter name="Coronaria">
-<b>Coronaria,</b> Underslægt af <sp>Lychnis</sp> (s. d.).</chapter>
+<b>Coronaria,</b> Underslægt af <sp>Lychnis</sp> (s. d.).
+</chapter>
 
 <chapter name="Coronatlagene">
 <b>Coronatlagene,</b> en Underafdeling af
@@ -65,7 +66,8 @@ Forsteninger (Ammoniter).
 
 <chapter name="Corona Veneris">
 <b>Corona Veneris,</b> et syfilitisk Hududslæt paa
-Panden, stærkest langs Haargrænsen.</chapter>
+Panden, stærkest langs Haargrænsen.
+</chapter>
 
 <chapter name="Coronel">
 <b>Coronel</b> [kårå'næl], Havnestad i Provinsen
@@ -76,7 +78,8 @@ nærliggende By Concepcion ved Jernbane.
 </chapter>
 
 <chapter name="Coronella">
-<b>Coronella,</b> se <sp>Snoge</sp>.</chapter>
+<b>Coronella,</b> se <sp>Snoge</sp>.
+</chapter>
 
 <chapter name="Coronelli, Vincentio Marco">
 <b>Coronelli</b> [-'næl.i], <sp>Vincentio Marco</sp>, ital.
@@ -158,14 +161,17 @@ livsvarigt Medlem af Herrehuset.
 </chapter>
 
 <chapter name="Coronopus">
-<b>Coronopus,</b> se <sp>Ravnefod</sp>.</chapter>
+<b>Coronopus,</b> se <sp>Ravnefod</sp>.
+</chapter>
 
 <chapter name="Corososnødder">
 <b>Corososnødder</b> [spansk kå'rås<sub>å</sub>],
-<b>Corusconødder,</b> se <sp>Elfenbensnødder</sp>.</chapter>
+<b>Corusconødder,</b> se <sp>Elfenbensnødder</sp>.
+</chapter>
 
 <chapter name="Corossol">
-<b>Corossol</b> [sp. kårå'sål], se <sp>Anona</sp>.</chapter>
+<b>Corossol</b> [sp. kårå'sål], se <sp>Anona</sp>.
+</chapter>
 
 <chapter name="Corot, Camille">
 <b>Corot</b> [kå'ro], <sp>Camille</sp>, fr.

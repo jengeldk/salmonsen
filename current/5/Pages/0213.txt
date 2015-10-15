@@ -116,7 +116,8 @@ Libertijn« [Schoonhoven 1887]).
 
 <chapter name="Coorongit">
 <b>Coorongit</b> [ku.r<sub>ə</sub>ŋ'(g)it], en Slags mineralsk
-Kautsjuk fra Coorong Distrikt i Sydaustralien.</chapter>
+Kautsjuk fra Coorong Distrikt i Sydaustralien.
+</chapter>
 
 <chapter name="Copaiba">
 <b>Copaiba</b> [portug. kup<sub>ə</sub>'iw<sub>ə</sub>] Mill. (<i>Copaifera</i>
@@ -149,7 +150,8 @@ maaler ofte over 2 cm i Vidde. <i>C. bracteata</i> Benth.
 </chapter>
 
 <chapter name="Copaifera">
-<b>Copaifera,</b> se <sp>Copaiba</sp>.</chapter>
+<b>Copaifera,</b> se <sp>Copaiba</sp>.
+</chapter>
 
 <chapter name="Copán">
 <b>Copán</b> [kå'pan], Indianerlandsby i

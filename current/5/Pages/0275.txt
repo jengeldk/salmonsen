@@ -128,7 +128,8 @@ Historie.
 </chapter>
 
 <chapter name="courant">
-<b>courant</b> [ku'rã], se <sp>Kurant</sp>.</chapter>
+<b>courant</b> [ku'rã], se <sp>Kurant</sp>.
+</chapter>
 
 <chapter name="Courantbanken">
 <b>Courantbanken</b> [ku'ran't-], kjøbenhavnsk

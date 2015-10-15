@@ -43,7 +43,8 @@ Gehejmeraad.
 <chapter name="conseils prud'hommes">
 <b>conseils prud'hommes</b> [kå'sæ.j-pry'dåm],
 se <sp>Arbejdsstridigheders
-Bilæggelse</sp>.</chapter>
+Bilæggelse</sp>.
+</chapter>
 
 <chapter name="consensus gentium">
 <b>consensus gentium</b> (lat.), en
@@ -161,11 +162,13 @@ en vis Modydelse, se <sp>causa</sp>.
 <chapter name="consiglio di stato">
 <b>consiglio di stato</b> [kon'sil<sub>j</sub>o-di-'stato] (ital.),
 Statsraad, en ital. Institution, der nærmest
-svarer til det fr. <i>conseil d'état</i> (s. d.).</chapter>
+svarer til det fr. <i>conseil d'état</i> (s. d.).
+</chapter>
 
 <chapter name="Consilia evangelica">
 <b>Consilia evangelica</b> (lat.), se
-<sp>Evangeliske Raad</sp>.</chapter>
+<sp>Evangeliske Raad</sp>.
+</chapter>
 
 <chapter name="consiliarius">
 <b>consiliarius</b> (lat.), Raadgiver, Medlem af et
@@ -179,7 +182,8 @@ om Rigsraaderne.
 <chapter name="consilium">
 <b>consilium</b> (lat.), Dom, Raad, Raadslagning,
 Raadsforsamling. I Oldtidens Rom en Kreds af
-Retskyndige, der bistod de ledende Embedsmænd.</chapter>
+Retskyndige, der bistod de ledende Embedsmænd.
+</chapter>
 
 <chapter name="consilium abeundi">
 <b>consilium abeundi</b> (lat.), det Raad at gaa

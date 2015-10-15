@@ -47,7 +47,8 @@ Industriby.
 </chapter>
 
 <chapter name="Coati">
-<b>Coati,</b> se <sp>Næsebjørn</sp>.</chapter>
+<b>Coati,</b> se <sp>Næsebjørn</sp>.
+</chapter>
 
 <chapter name="Coati, Isla-">
 <b>Coati, Isla-</b> ['isla-kåa'ti], Ø i Titicaca-Søen,

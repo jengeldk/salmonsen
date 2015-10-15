@@ -76,7 +76,8 @@ deltaget i Udstillinger hjemme og i Udlandet.
 </chapter>
 
 <chapter name="diritta">
-<b>diritta,</b> se <sp>alla d</sp>.</chapter>
+<b>diritta,</b> se <sp>alla d</sp>.
+</chapter>
 
 <chapter name="Dirk">
 <b>Dirk,</b> en ufuldstændig Nøgle, dannet af en
@@ -97,7 +98,8 @@ vanskeligt kan opdirkes, kaldes dirkefri.
 </chapter>
 
 <chapter name="Dirke">
-<b>Dirke,</b> se <sp>Amfion</sp>.</chapter>
+<b>Dirke,</b> se <sp>Amfion</sp>.
+</chapter>
 
 <chapter name="dirke op">
 <b>dirke op</b> (<sp>Søv</sp>.), at hejse Mesanbommens

@@ -1,8 +1,10 @@
 <chapter name="Downs, se Deal">
-<b>Downs</b> [da^unz], se <sp>Deal</sp>.</chapter>
+<b>Downs</b> [da^unz], se <sp>Deal</sp>.
+</chapter>
 
 <chapter name="Downs, se Faar">
-<b>Downs</b> [da^unz], se <sp>Faar</sp>.</chapter>
+<b>Downs</b> [da^unz], se <sp>Faar</sp>.
+</chapter>
 
 <chapter name="Dowsing">
 <b>Dowsing</b> ['da^uz<sub>i</sub>ŋ], Sandbanke c. 8 Sm. ud

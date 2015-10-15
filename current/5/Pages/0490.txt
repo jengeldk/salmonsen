@@ -98,7 +98,8 @@ Hedeflade.
 </chapter>
 
 <chapter name="Damphammer">
-<b>Damphammer,</b> se <sp>Hammer</sp>.</chapter>
+<b>Damphammer,</b> se <sp>Hammer</sp>.
+</chapter>
 
 <chapter name="Dampier, William">
 <b>Dampier</b> ['dämpi.<sub>ə</sub>], <sp>William</sp>, engelsk

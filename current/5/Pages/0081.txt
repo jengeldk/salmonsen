@@ -10,7 +10,8 @@ Grupper.
 </chapter>
 
 <chapter name="Cleve">
-<b>Cleve,</b> se <sp>Kleve</sp>.</chapter>
+<b>Cleve,</b> se <sp>Kleve</sp>.
+</chapter>
 
 <chapter name="Cleve, Halfdan">
 <b>Cleve,</b> <sp>Halfdan</sp>, norsk Komponist og

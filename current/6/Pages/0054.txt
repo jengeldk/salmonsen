@@ -85,10 +85,12 @@ Kärnthen.
 
 <chapter name="Desdemona">
 <b>Desdemona</b> [eng. dezd<sub>ö</sub>'mo<sub>u</sub>n<sub>a</sub>] (ital.),
-kvindelig Hovedperson i Shakespeare's »Othello«.</chapter>
+kvindelig Hovedperson i Shakespeare's »Othello«.
+</chapter>
 
 <chapter name="Des-Dur">
-<b>Des-Dur,</b> se <sp>Des</sp>.</chapter>
+<b>Des-Dur,</b> se <sp>Des</sp>.
+</chapter>
 
 <chapter name="Deseado, Puerto">
 <b>Deseado</b> [ðæs<sub>æ</sub>'að<sub>å</sub>], <sp>Puerto</sp> (Port Desiré),
@@ -140,7 +142,8 @@ Billedhugger.
 <chapter name="desennuyere">
 <b>desennuyere</b> [desaŋn<sub>y</sub>i'je'r<sub>ə</sub>] (af fr.
 <i>désennuyer</i>), fordrive Kedsomhed for sig selv eller
-andre, adsprede.</chapter>
+andre, adsprede.
+</chapter>
 
 <chapter name="Desenzano sul Lago">
 <b>Desenzano sul Lago</b> [-'tsano], By i
@@ -156,7 +159,8 @@ har Lyceum, Gymnasium og Teater.
 </chapter>
 
 <chapter name="Deseret">
-<b>Deseret</b> ['des<sub>ə</sub>ret], se <sp>Mormoner</sp> og <sp>Utah</sp>.</chapter>
+<b>Deseret</b> ['des<sub>ə</sub>ret], se <sp>Mormoner</sp> og <sp>Utah</sp>.
+</chapter>
 
 <chapter name="Desertas, Las">
 <b>Desertas, Las</b> [-'ðæ'særtas], Gruppe af tre

@@ -27,10 +27,12 @@ som Navn paa Troerne i Alm. (Se
 
 <chapter name="Dardania">
 <b>Dardania,</b> se <sp>Dardanos</sp>, 2) og
-<sp>Dardaner</sp>, 1).</chapter>
+<sp>Dardaner</sp>, 1).
+</chapter>
 
 <chapter name="Dardanider">
-<b>Dardanider,</b> se <sp>Dardanos</sp>, 2).</chapter>
+<b>Dardanider,</b> se <sp>Dardanos</sp>, 2).
+</chapter>
 
 <chapter name="Dardanos">
 <b>Dardanos,</b> 1) ubetydelig gr. Stad paa
@@ -60,7 +62,8 @@ fører dem til Stammens gl. Hjemstavn.
 </chapter>
 
 <chapter name="Darder">
-<b>Darder,</b> se <sp>Dardistan</sp>.</chapter>
+<b>Darder,</b> se <sp>Dardistan</sp>.
+</chapter>
 
 <chapter name="Dardistan">
 <b>Dardistan</b> kaldes de af Darderne beboede

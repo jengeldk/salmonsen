@@ -118,7 +118,8 @@ i Maj paa et solaabent Voksested.
 
 <chapter name="Cupido">
 <b>Cupido</b> (»Attraa«), lat. Navn for
-Elskovsguden (se <sp>Eros</sp>).</chapter>
+Elskovsguden (se <sp>Eros</sp>).
+</chapter>
 
 <chapter name="Cupra">
 <b>Cupra,</b> Gudinde, der i Oldtiden dyrkedes i
@@ -138,10 +139,12 @@ Tempel for Gudinden <sp>Cupra</sp>.
 </chapter>
 
 <chapter name="Cupressaceæ">
-<b>Cupressaceæ,</b> se <sp>Cypresfamilien</sp>.</chapter>
+<b>Cupressaceæ,</b> se <sp>Cypresfamilien</sp>.
+</chapter>
 
 <chapter name="Cupressocrinus">
-<b>Cupressocrinus,</b> se <sp>Sølillier</sp>.</chapter>
+<b>Cupressocrinus,</b> se <sp>Sølillier</sp>.
+</chapter>
 
 <chapter name="Cupressus L.">
 <b>Cupressus</b> L. (<sp>Cyprés</sp>), Slægt af

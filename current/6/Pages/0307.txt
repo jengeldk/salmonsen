@@ -13,7 +13,8 @@ paa den holl. Side.
 
 <chapter name="Dollberg's System">
 <b>Dollberg's System,</b> se <sp>Transportable
-Jernbaner</sp>.</chapter>
+Jernbaner</sp>.
+</chapter>
 
 <chapter name="dollere">
 <b>dollere,</b> rense færdiggarvede Huder ved

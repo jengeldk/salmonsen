@@ -19,10 +19,12 @@ Præst aflægger ved Messens Begyndelse.
 
 <chapter name="confiture">
 <b>confiture(s)</b> [kåfi'ty.r] (fr.), kandiserede
-Frugter, Konfekt, Sukkergodt, Konfiturer, Syltetøj.</chapter>
+Frugter, Konfekt, Sukkergodt, Konfiturer, Syltetøj.
+</chapter>
 
-<chapter name="Conflans">
-<b>Conflans</b> [kå'flã], se <sp>Albertville</sp>.</chapter>
+<chapter name="Conflans (se Albertville)">
+<b>Conflans</b> [kå'flã], se <sp>Albertville</sp>.
+</chapter>
 
 <chapter name="Conflans-Sainte-Honorine">
 <b>Conflans-Sainte-Honorine</b> [kå'flã-sæ.t-ånå'rin], Flække i det nordvestlige Frankrig,
@@ -49,7 +51,8 @@ Indb.
 <b>Confolensit</b> [fr. kåŋfålaŋ'sit], en blegrød
 Varietet af Mineralet <sp>Montmorillonit</sp> fra
 Confolens i Dept Charente, Frankrig.
-(<i>N. V. U.</i>}. <i>O. B. B.</i></chapter>
+<i>(N. V. U.). O. B. B.</i>
+</chapter>
 
 <chapter name="Conforti, Rafaello">
 <b>Conforti</b> [-'fårti], <sp>Rafaello</sp>, ital.
@@ -103,14 +106,17 @@ ophævedes først 1676 af Ludvig XIV.
 <i>Kr. N.</i>
 </chapter>
 
-<chapter name="con fretta">
-<b>con fretta,</b> se <sp>con</sp>.</chapter>
+<chapter name="con fretta (se con)">
+<b>con fretta,</b> se <sp>con</sp>.
+</chapter>
 
-<chapter name="Confucius">
-<b>Confucius,</b> se <sp>Kung-fu-tse</sp>.</chapter>
+<chapter name="Confucius (se Kung-fu-tse)">
+<b>Confucius,</b> se <sp>Kung-fu-tse</sp>.
+</chapter>
 
-<chapter name="con fuoco">
-<b>con fuoco</b> [-'f<sub>u</sub>åko], se <sp>con</sp>.</chapter>
+<chapter name="con fuoco (se con)">
+<b>con fuoco</b> [-'f<sub>u</sub>åko], se <sp>con</sp>.
+</chapter>
 
 <chapter name="Congaree">
 <b>Congaree</b> [kåŋga'ri.], Flod i U. S. A., Stat
@@ -127,10 +133,12 @@ C. kaldes efter sit Sammenløb med Catawba
 <b>congé</b> [kå'зe] (fransk), Orlov, Afsked. <i>Pour
 prendre c.</i> [pur-'prã.dr<sub>ö</sub>-] (forkortet <i>p. p. c.</i>),
 for at tage Afsked, en paa Visitkort brugt
-Formel. <i>En c.</i> [ã-], med Orlov.</chapter>
+Formel. <i>En c.</i> [ã-], med Orlov.
+</chapter>
 
-<chapter name="Conger">
-<b>Conger,</b> Havaal, se <sp>Aal</sp>.</chapter>
+<chapter name="Conger (se Aal)">
+<b>Conger,</b> Havaal, se <sp>Aal</sp>.
+</chapter>
 
 <chapter name="Congeria-Lag">
 <b>Congeria-Lag</b> ell. <sp>pontiske</sp> Lag kaldes
@@ -173,22 +181,27 @@ C. fik sine første Stadrettigheder 1282.
 <i>G. Ht.</i>
 </chapter>
 
-<chapter name="Congo">
-<b>Congo,</b> se <sp>Kongo</sp>.</chapter>
+<chapter name="Congo (se Kongo)">
+<b>Congo,</b> se <sp>Kongo</sp>.
+</chapter>
 
-<chapter name="con grandezza">
-<b>con grandezza</b> [-'det.sa], se <sp>con</sp>.</chapter>
+<chapter name="con grandezza (se con)">
+<b>con grandezza</b> [-'det.sa], se <sp>con</sp>.
+</chapter>
 
-<chapter name="con gravità">
-<b>con gravità</b> [-'ta], se <sp>con</sp>.</chapter>
+<chapter name="con gravità (se con)">
+<b>con gravità</b> [-'ta], se <sp>con</sp>.
+</chapter>
 
-<chapter name="con grazia">
-<b>con grazia</b> [-'grats<sub>i</sub>a], se <sp>con</sp>.</chapter>
+<chapter name="con grazia (se con)">
+<b>con grazia</b> [-'grats<sub>i</sub>a], se <sp>con</sp>.
+</chapter>
 
 <chapter name="Congress">
 <b>Congress</b> ['kåŋgr<sub>e</sub>s], den amer. lovgivende
 Forsamling, se <sp>Nordamerikanske
-Fristater</sp>.</chapter>
+Fristater</sp>.
+</chapter>
 
 <chapter name="Congreve, William">
 <b>Congreve</b> ['kåŋgri.v], <sp>William</sp>, eng. dram.

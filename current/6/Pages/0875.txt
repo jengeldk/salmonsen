@@ -17,7 +17,8 @@ bliver da <sp>Lukkelyd</sp> ell. <sp>Klusiler</sp>.
 </chapter>
 
 <chapter name="Eksplosivstoffer">
-<b>Eksplosivstoffer,</b> se <sp>Sprængstoffer</sp>.</chapter>
+<b>Eksplosivstoffer,</b> se <sp>Sprængstoffer</sp>.
+</chapter>
 
 <chapter name="Eksponent">
 <b>Eksponent</b> (lat.) kaldes Størrelsen <i>n</i> i den
@@ -35,20 +36,24 @@ hvor <i>x</i> er uafhængig variabel.
 <chapter name="eksponere">
 <b>eksponere</b> (lat.), udsætte for, give til Pris,
 udlægge, forklare; udsætte en fot. Plade for
-Lysets Paavirkning.</chapter>
+Lysets Paavirkning.
+</chapter>
 
 <chapter name="Eksponeringsmaaler">
 <b>Eksponeringsmaaler,</b> se
-<sp>Belysningsmaaler</sp>.</chapter>
+<sp>Belysningsmaaler</sp>.
+</chapter>
 
 <chapter name="Eksponeringstabel">
 <b>Eksponeringstabel,</b> se
-<sp>Belysningsberegner</sp>.</chapter>
+<sp>Belysningsberegner</sp>.
+</chapter>
 
 <chapter name="Eksport">
 <b>Eksport</b> (lat.), <sp>Udførsel</sp> (s. d.);
 <sp>eksportere</sp>, udføre; <sp>Eksportør</sp>,
-Forretningsmand, der udfører Varer.</chapter>
+Forretningsmand, der udfører Varer.
+</chapter>
 
 <chapter name="Eksposition">
 <b>Eksposition</b> ['æks-] (lat.), Udsættelse (f. Eks.
@@ -94,7 +99,8 @@ Fotografierne.
 
 <chapter name="ekspres">
 <b>ekspres</b> [-'præs] (lat., fr. <i>exprès</i>),
-udtrykkelig, i bestemt Hensigt, særlig; meget hurtigt.</chapter>
+udtrykkelig, i bestemt Hensigt, særlig; meget hurtigt.
+</chapter>
 
 <chapter name="Ekspresforsendelser">
 <b>Ekspresforsendelser.</b> Herved forstaas ved
@@ -137,7 +143,8 @@ Ekspresforsendelse.
 </chapter>
 
 <chapter name="Ekspression">
-<b>Ekspression</b> (lat.), Udtryk.</chapter>
+<b>Ekspression</b> (lat.), Udtryk.
+</chapter>
 
 <chapter name="Ekspression">
 <b>Ekspression</b> (»Udpresning«) benyttes i

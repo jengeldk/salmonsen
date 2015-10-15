@@ -99,7 +99,8 @@ Publikationer nævnes: <i>Text Book of Astronomy</i>
 </chapter>
 
 <chapter name="comte, Greve">
-<b>comte</b> [kå.t] (fr., af lat. <i>comes</i>), Greve.</chapter>
+<b>comte</b> [kå.t] (fr., af lat. <i>comes</i>), Greve.
+</chapter>
 
 <chapter name="Comte, François Charles">
 <b>Comte</b> [kå.t], <sp>François Charles</sp>, fr.

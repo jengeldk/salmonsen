@@ -14,7 +14,8 @@ Montenegro, ved Zeta, blev først anlagt 1871. (1896)
 1122 Indb., Landbrugsinstitut. I Omegnen her
 fandt Oktbr 1876 og Juni 1877 heftige Kampe
 Sted mellem Montenegrinerne og Tyrkerne; de
-første sejrede.</chapter>
+første sejrede.
+</chapter>
 
 <chapter name="danisere">
 <b>danisere,</b> meddele et dansk Præg; Eksempel:
@@ -73,7 +74,8 @@ Højtysk i Nordslesvig« i Dania VI [1899]).
 </chapter>
 
 <chapter name="Danitschitsch, d. s. s. Daničic">
-<b>Danitschitsch,</b> d. s. s. <sp>Daničic</sp>.</chapter>
+<b>Danitschitsch,</b> d. s. s. <sp>Daničic</sp>.
+</chapter>
 
 <chapter name="Danium">
 <b>Danium</b> (<sp>Danien</sp>, <sp>daniske Etage</sp>),
@@ -86,7 +88,8 @@ tertiært Præg.
 </chapter>
 
 <chapter name="Dankali">
-<b>Dankali,</b> se <sp>Danakil</sp>.</chapter>
+<b>Dankali,</b> se <sp>Danakil</sp>.
+</chapter>
 
 <chapter name="Dankov">
 <b>Dankov,</b> [dan'kåf] By i Mellemrusland, Guv.
@@ -137,7 +140,8 @@ se de særlige Artikler.
 <td>Teater<td r>684
 <td>Presse<td r>692
 <td>Historie<td r>697
-</table></chapter>
+</table>
+</chapter>
 
 <chapter name="Danmark, Almindelig Topografi">
 <b>Almindelig Topografi</b>.

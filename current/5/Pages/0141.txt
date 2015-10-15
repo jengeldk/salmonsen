@@ -11,7 +11,8 @@ c. 3400 Mand.
 
 <chapter name="Colombi, Marchesa">
 <b>Colombi,</b> <sp>Marchesa</sp>, se <sp>Torriani,
-Maria</sp>.</chapter>
+Maria</sp>.
+</chapter>
 
 <chapter name="Colombia">
 <b>Colombia</b> [kå'låmb<sub>i</sub>a] (<sp>Columbia</sp>),

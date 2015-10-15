@@ -65,7 +65,8 @@ der 834 gjorde Indfald i Landet.
 </chapter>
 
 <chapter name="Egde">
-<b>Egde,</b> se <sp>Spætmejse</sp>.</chapter>
+<b>Egde,</b> se <sp>Spætmejse</sp>.
+</chapter>
 
 <chapter name="Ege, Stok af Træ">
 <b>Ege,</b> Stok af Træ, der forbinder et

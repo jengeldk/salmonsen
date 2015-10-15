@@ -15,7 +15,8 @@ Interesse.
 
 <chapter name="Crotophaga">
 <b>Crotophaga</b> [-fa-] (<sp>Maddikeæder</sp>), se
-<sp>Gøge</sp>.</chapter>
+<sp>Gøge</sp>.
+</chapter>
 
 <chapter name="Croup, Strubehoste">
 <b>Croup</b> [krup], <sp>Strubehoste</sp>. Navnet
@@ -112,12 +113,14 @@ Doktordisputats [Kbhvn 1877]).
 </chapter>
 
 <chapter name="croupade">
-<b>croupade</b> [kru'pad], se <sp>Skoleridning</sp>.</chapter>
+<b>croupade</b> [kru'pad], se <sp>Skoleridning</sp>.
+</chapter>
 
 <chapter name="Croupier">
 <b>Croupier</b> [kru'p<sub>i</sub>e] (fr.), Bankørens
 Medhjælper i en Spillebank, der udbetaler Bankens
-tabte og indkasserer dens vundne Penge.</chapter>
+tabte og indkasserer dens vundne Penge.
+</chapter>
 
 <chapter name="Crousillat, Antoine Blaise">
 <b>Crousillat</b> [kruzi'ja], <sp>Antoine Blaise</sp>,

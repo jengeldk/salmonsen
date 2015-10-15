@@ -54,7 +54,8 @@ Frembringelser findes. Biografi af Josz (1903).
 <img>A. Dworák.</img>
 
 <chapter name="Dwt.">
-<b>Dwt.,</b> Forkortelse for <sp>Pennyweight</sp>.</chapter>
+<b>Dwt.,</b> Forkortelse for <sp>Pennyweight</sp>.
+</chapter>
 
 <chapter name="Dwyka-Konglomerat">
 <b>Dwyka-Konglomerat,</b> den nederste
@@ -64,13 +65,16 @@ Afdeling af den i Sydafrika forekommende
 </chapter>
 
 <chapter name="dyadisk Talsystem">
-<b>dyadisk Talsystem,</b> se <sp>Talsystemer</sp>.</chapter>
+<b>dyadisk Talsystem,</b> se <sp>Talsystemer</sp>.
+</chapter>
 
 <chapter name="Dyakisdodekaeder">
-<b>Dyakisdodekaeder,</b> se <sp>Krystalformer</sp>.</chapter>
+<b>Dyakisdodekaeder,</b> se <sp>Krystalformer</sp>.
+</chapter>
 
 <chapter name="Dyas">
-<b>Dyas,</b> se <sp>Permiske Formation</sp>.</chapter>
+<b>Dyas,</b> se <sp>Permiske Formation</sp>.
+</chapter>
 
 <chapter name="Dyaus">
 <b>Dyaus</b> (»Himmel«), i Indien en væsentlig

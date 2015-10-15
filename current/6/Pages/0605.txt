@@ -41,18 +41,21 @@ Metoder, der danner Grundlaget for en D.'s
 Beregning. (<sp>Litt</sp>.: <sp>Silvanus P.
 Thomson</sp>, <i>D.-Electric-Machinery 7th Edition</i>, 1. Bd
 [1904], hvori talrige Litteraturhenvisninger).
-<i>Abs. L.</i>
 
 <img>Fig. 8.</img>
-<img>Fig. 9.</img></chapter>
+<img>Fig. 9.</img>
+<i>Abs. L.</i>
+</chapter>
 
 <chapter name="dynamoelektrisk Maskine">
-<b>dynamoelektrisk Maskine,</b> se <sp>Dynamo</sp>.</chapter>
+<b>dynamoelektrisk Maskine,</b> se <sp>Dynamo</sp>.
+</chapter>
 
 <chapter name="Dynamologi">
 <b>Dynamologi</b> (gr.), Lære (ogsaa Lærebog)
 om Naturkræfterne, tillige om Lægemidlernes
-Kraft.</chapter>
+Kraft.
+</chapter>
 
 <chapter name="Dynamometamorfose">
 <b>Dynamometamorfose</b> ell.

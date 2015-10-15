@@ -52,7 +52,8 @@ Heltedigtning«, II [1910] § 36).
 </chapter>
 
 <chapter name="Daneryg(e)">
-<b>Daneryg(e),</b> se <sp>Danerlyng</sp>.</chapter>
+<b>Daneryg(e),</b> se <sp>Danerlyng</sp>.
+</chapter>
 
 <chapter name="Danevirke">
 <b>Danevirke</b> er Fællesbetegnelse for en Række

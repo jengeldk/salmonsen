@@ -33,11 +33,13 @@ Dobrudsha udgør Kongeriget Rumænien.
 </chapter>
 
 <chapter name="Donau-Kommission">
-<b>Donau-Kommission</b> ['do.na^u-], se <sp>Donau</sp>.</chapter>
+<b>Donau-Kommission</b> ['do.na^u-], se <sp>Donau</sp>.
+</chapter>
 
 <chapter name="Donau-Konferencen">
 <b>Donau-Konferencen</b> ['do.na^u--'raŋs<sub>ə</sub>n], se
-<sp>Donau</sp>.</chapter>
+<sp>Donau</sp>.
+</chapter>
 
 <chapter name="Donau-Kreds">
 <b>Donau-Kreds</b> ['do.na^u-], den sydøstligste af
@@ -167,7 +169,8 @@ til Lissabon. (1900) 16565 Indb.
 </chapter>
 
 <chapter name="Don Carlos">
-<b>Don Carlos</b> [ð<sub>å</sub>n-'karl<sub>å</sub>s], se <sp>Carlos</sp>.</chapter>
+<b>Don Carlos</b> [ð<sub>å</sub>n-'karl<sub>å</sub>s], se <sp>Carlos</sp>.
+</chapter>
 
 <chapter name="Doncaster">
 <b>Doncaster</b> ['dåŋk<sub>ə</sub>stə], By i det nordlige

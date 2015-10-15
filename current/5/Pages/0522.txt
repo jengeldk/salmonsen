@@ -1,15 +1,19 @@
 <chapter name="Dampspil">
-<b>Dampspil,</b> se <sp>Spil</sp>.</chapter>
+<b>Dampspil,</b> se <sp>Spil</sp>.
+</chapter>
 
 <chapter name="Dampsporvogn">
-<b>Dampsporvogn,</b> se <sp>Sporveje</sp>.</chapter>
+<b>Dampsporvogn,</b> se <sp>Sporveje</sp>.
+</chapter>
 
 <chapter name="Dampsprøjte">
 <b>Dampsprøjte,</b> se
-<sp>Brandslukningsredskaber</sp>.</chapter>
+<sp>Brandslukningsredskaber</sp>.
+</chapter>
 
 <chapter name="Dampsterilisation">
-<b>Dampsterilisation,</b> se <sp>Desinfektion</sp>.</chapter>
+<b>Dampsterilisation,</b> se <sp>Desinfektion</sp>.
+</chapter>
 
 <chapter name="Dampt, Jean Auguste">
 <b>Dampt</b> [dã], <sp>Jean Auguste</sp>, fr.
@@ -35,10 +39,12 @@ de Ville i Paris skabte D. en Statue af Boulle.
 </chapter>
 
 <chapter name="Damptromle">
-<b>Damptromle,</b> se <sp>Tromle</sp>.</chapter>
+<b>Damptromle,</b> se <sp>Tromle</sp>.
+</chapter>
 
 <chapter name="Damptrykmaaler">
-<b>Damptrykmaaler,</b> se <sp>Manometer</sp>.</chapter>
+<b>Damptrykmaaler,</b> se <sp>Manometer</sp>.
+</chapter>
 
 <chapter name="Damptrykregulator">
 <b>Damptrykregulator</b> er et Apparat til
@@ -57,7 +63,8 @@ Varmeanlæg o. l.
 </chapter>
 
 <chapter name="Damptrøje">
-<b>Damptrøje,</b> se <sp>Dampmaskine</sp>.</chapter>
+<b>Damptrøje,</b> se <sp>Dampmaskine</sp>.
+</chapter>
 
 <chapter name="Dampturbiner">
 <b>Dampturbiner</b> er Dampmaskiner, i hvilke

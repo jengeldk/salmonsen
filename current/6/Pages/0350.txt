@@ -1,5 +1,6 @@
 <chapter name="Dorkings">
-<b>Dorkings</b> ['då-<sub>ə</sub>kiŋ], se <sp>Høns</sp>.</chapter>
+<b>Dorkings</b> ['då-<sub>ə</sub>kiŋ], se <sp>Høns</sp>.
+</chapter>
 
 <chapter name="dormant partner">
 <b>dormant partner</b> ['då.<sub>ə</sub>m<sub>ə</sub>nt-'pa.<sub>ə</sub>tnə] (eng.),
@@ -11,7 +12,8 @@ ell. <sp>Associé</sp>.
 
 <chapter name="Dormeuse">
 <b>Dormeuse</b> [dår'mø.z] (fr.), magelig Stol,
-Sovevogn, Nathue o. l.</chapter>
+Sovevogn, Nathue o. l.
+</chapter>
 
 <chapter name="Dormiol">
 <b>Dormiol</b> er en Forbindelse af lige Molekyler
@@ -23,7 +25,8 @@ paa 0,5-1,0 g.
 
 <chapter name="Dormitiv">
 <b>Dormitiv</b> (lat.), søvnfremkaldende
-Lægemiddel.</chapter>
+Lægemiddel.
+</chapter>
 
 <chapter name="Dormitor">
 <b>Dormitor,</b> <sp>Durmitor</sp>, det højeste Punkt
@@ -35,7 +38,8 @@ Gletscherbedækning.
 </chapter>
 
 <chapter name="Dormitorium">
-<b>Dormitorium</b> (lat.), Sovesal, navnlig i Klostre.</chapter>
+<b>Dormitorium</b> (lat.), Sovesal, navnlig i Klostre.
+</chapter>
 
 <chapter name="Dorn">
 <b>Dorn</b> (tysk for »Torn«), en slank Staalstang,

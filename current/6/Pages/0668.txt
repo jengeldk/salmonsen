@@ -7,7 +7,8 @@ nuværende.
 
 <chapter name="Dødelighed">
 <b>Dødelighed,</b> se
-<sp>Dødelighedsstatistik</sp>.</chapter>
+<sp>Dødelighedsstatistik</sp>.
+</chapter>
 
 <chapter name="Dødelighedsstatistik">
 <b>Dødelighedsstatistik</b>

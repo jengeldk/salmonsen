@@ -48,7 +48,8 @@ til Geometriens Udvikling.
 </chapter>
 
 <chapter name="Dualla">
-<b>Dualla,</b> se <sp>Kamerun</sp>.</chapter>
+<b>Dualla,</b> se <sp>Kamerun</sp>.
+</chapter>
 
 <chapter name="Duar">
 <b>Duar</b> (arab. ɔ: Kreds) er i den

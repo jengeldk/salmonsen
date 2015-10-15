@@ -32,7 +32,8 @@ o. a.
 <chapter name="ekshalere">
 <b>ekshalere</b> (lat.), udaande, uddunste;
 <sp>Ekshalation</sp>, Udaanding, Uddunstning; smlg.
-ovenfor.</chapter>
+ovenfor.
+</chapter>
 
 <chapter name="Ekshaustionsbevis">
 <b>Ekshaustionsbevis</b> (<sp>mat</sp>.), en Bevisform,
@@ -90,27 +91,32 @@ ud i Beholderne. Se <sp>Kulgas</sp>.
 
 <chapter name="eksheredere">
 <b>eksheredere</b> ['æks-] (lat,), gøre arveløs;
-<sp>Eksheredation</sp>, Arveløsgørelse.</chapter>
+<sp>Eksheredation</sp>, Arveløsgørelse.
+</chapter>
 
 <chapter name="ekshortere">
 <b>ekshortere</b> (lat.), formane, opmuntre;
 <sp>Ekshortation</sp>, Formaning, Opmuntring;
 <sp>ekshortativ</sp>, formanende;
-<sp>Ekshortatorium</sp>, Formaningsskrivelse.</chapter>
+<sp>Ekshortatorium</sp>, Formaningsskrivelse.
+</chapter>
 
 <chapter name="ekshumere">
 <b>ekshumere</b> (lat.), grave op igen (et Lig),
 drage frem fra Forglemmelse;
-<sp>Ekshumation</sp>, Ligopgravning.</chapter>
+<sp>Ekshumation</sp>, Ligopgravning.
+</chapter>
 
 <chapter name="eksigere">
 <b>eksigere</b> (lat.), fordre, forlange, inddrive
 (en Gæld); <sp>Eksigéns</sp>, Fordringsfuldhed,
-Fornødenhed.</chapter>
+Fornødenhed.
+</chapter>
 
 <chapter name="eksigibel">
 <b>eksigibel</b> (<sp>jur</sp>.), fremtvingelig ved
-Eksekution (s. d.).</chapter>
+Eksekution (s. d.).
+</chapter>
 
 <chapter name="Eksil">
 <b>Eksil</b> (lat. <i>exsilium</i>), Forvisning. Herved

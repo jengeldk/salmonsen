@@ -31,7 +31,8 @@ af <sp>Drude</sp>, <sp>Lummer</sp> og <sp>Wood</sp> ell.:
 
 <chapter name="Dispondeus">
 <b>Dispondeus</b> (gr.), Dobbeltspondé, en
-Forbindelse af 4 lange Stavelser.</chapter>
+Forbindelse af 4 lange Stavelser.
+</chapter>
 
 <chapter name="Disponent">
 <b>Disponent</b> (lat.) kaldes i Handelssproget
@@ -58,7 +59,8 @@ nærmest betegner en
 <b>disponere</b> (lat.), fordele, anordne, bestemme,
 have Raadighed over; være <sp>disponeret</sp> til
 noget, d. s. s. være tilbøjelig til, stemt for,
-oplagt til.</chapter>
+oplagt til.
+</chapter>
 
 <chapter name="disponere">
 <b>disponere,</b> se <sp>Disponent</sp>. Ganske særlig
@@ -75,7 +77,8 @@ Arbejdsløn o. s. v.).
 
 <chapter name="disponibel">
 <b>disponibel</b> (lat.), staaende til Raadighed,
-anvendelig, forhaandenværende.</chapter>
+anvendelig, forhaandenværende.
+</chapter>
 
 <chapter name="Disposition (lat)">
 <b>Disposition</b> (lat), Inddeling, Udkast,

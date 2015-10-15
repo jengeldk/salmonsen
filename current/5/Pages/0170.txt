@@ -5,11 +5,13 @@ som ved Tomgang.
 
 <chapter name="Compoundmaskine">
 <b>Compoundmaskine</b> [k<sub>å</sub>m'pa^und-], se
-<sp>Dampmaskine</sp>.</chapter>
+<sp>Dampmaskine</sp>.
+</chapter>
 
 <chapter name="Compoundplader">
 <b>Compoundplader</b> [k<sub>å</sub>m'pa^und-], se
-<sp>Panserplader</sp>.</chapter>
+<sp>Panserplader</sp>.
+</chapter>
 
 <chapter name="Comprador">
 <b>Comprador</b> [portug. kõ<sub>m</sub>pr<sub>ə</sub>'ðor], egl. Køber,
@@ -31,7 +33,8 @@ Havnebyer lige fra Japan til Malakka-Strædet.
 
 <chapter name="compromissum">
 <b>compromissum,</b> Voldgiftsaftale, se
-<sp>Voldgift</sp>.</chapter>
+<sp>Voldgift</sp>.
+</chapter>
 
 <chapter name="compte">
 <b>compte</b> [kå.t] (fr.), Beregning, Regnskab,
@@ -44,7 +47,8 @@ Forsamling.
 </chapter>
 
 <chapter name="Compteseletøj">
-<b>Compteseletøj,</b> se <sp>Kumtesele</sp>.</chapter>
+<b>Compteseletøj,</b> se <sp>Kumtesele</sp>.
+</chapter>
 
 <chapter name="Compton, Edward">
 <b>Compton</b> ['kåm(p)t<sub>ə</sub>n ell. 'kam-], <sp>Edward</sp>,
@@ -97,7 +101,8 @@ Den formeres ved Rodskud.
 </chapter>
 
 <chapter name="Comptonit">
-<b>Comptonit,</b> se <sp>Zeolitter</sp>.</chapter>
+<b>Comptonit,</b> se <sp>Zeolitter</sp>.
+</chapter>
 
 <chapter name="Comptroller- and Auditor-General">
 <b>Comptroller- and Auditor-General</b> [k<sub>å</sub>n

@@ -131,7 +131,8 @@ Værker.
 
 <chapter name="dorere">
 <b>dorere</b> (af fr. <i>dorer</i>), forgylde; <i>dorage</i>
-[då'ra.з], Forgyldning.</chapter>
+[då'ra.з], Forgyldning.
+</chapter>
 
 <chapter name="Dorer-Egloff, Edward">
 <b>Dorer-Egloff</b> [-'e.-], <sp>Edward</sp>, schweiz. Digter
@@ -144,7 +145,8 @@ bevaret hans Navn til vore Dage.
 </chapter>
 
 <chapter name="Dorestad">
-<b>Dorestad</b> ['do.r<sub>ə</sub>stat], d. s. s. <sp>Dorstad</sp>.</chapter>
+<b>Dorestad</b> ['do.r<sub>ə</sub>stat], d. s. s. <sp>Dorstad</sp>.
+</chapter>
 
 <chapter name="Doret, Gustav">
 <b>Doret</b> [då'ræ], <sp>Gustav</sp>, schweizisk

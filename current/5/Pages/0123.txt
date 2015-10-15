@@ -51,7 +51,8 @@ London 1888]).
 </chapter>
 
 <chapter name="Coleoni">
-<b>Coleoni,</b> se <sp>Colleoni</sp>.</chapter>
+<b>Coleoni,</b> se <sp>Colleoni</sp>.
+</chapter>
 
 <chapter name="Coleophora laricinella">
 <b>Coleophora laricinella,</b> Lærkens Minermøl,
@@ -68,7 +69,8 @@ Sommerfuglen frem.
 </chapter>
 
 <chapter name="Coleoptera">
-<b>Coleoptera,</b> se <sp>Biller</sp>.</chapter>
+<b>Coleoptera,</b> se <sp>Biller</sp>.
+</chapter>
 
 <chapter name="Coleosporium Lév.">
 <b>Coleosporium</b> Lév., Slægt af værtskiftende

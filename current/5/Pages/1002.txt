@@ -20,7 +20,8 @@ orientalske Kolorit, som D. giver sin Musik.
 
 <chapter name="delicato">
 <b>delicato</b> (ital.), mus. Foredragsbetegnelse:
-fint, sart, smagfuldt.</chapter>
+fint, sart, smagfuldt.
+</chapter>
 
 <chapter name="Deliceto">
 <b>Deliceto</b> [deli't∫eto], By i det sydlige Italien,
@@ -43,11 +44,13 @@ Romerne.
 </chapter>
 
 <chapter name="deliciøs">
-<b>deliciøs</b> (fr.), lækker, liflig, udsøgt.</chapter>
+<b>deliciøs</b> (fr.), lækker, liflig, udsøgt.
+</chapter>
 
 <chapter name="delictum">
 <b>delictum</b> (<sp>Delikt</sp>), retsstridig, forbudt
-Handling, Retskrænkelse, Forbrydelse.</chapter>
+Handling, Retskrænkelse, Forbrydelse.
+</chapter>
 
 <chapter name="Deligeorgis">
 <b>Deligeorgis</b> [ðiliji'orji(s)],
@@ -76,17 +79,20 @@ udgaves 1880 i 2 Bd.
 </chapter>
 
 <chapter name="Deligiannis">
-<b>Deligiannis</b> [ðiliji'ani(s)], se <sp>Delyannis</sp>.</chapter>
+<b>Deligiannis</b> [ðiliji'ani(s)], se <sp>Delyannis</sp>.
+</chapter>
 
 <chapter name="delikat">
 <b>delikat</b> (lat.), fin, velsmagende, fintfølende
 en d. Sag ɔ: en Sag, der er vanskelig at
 behandle, kræver megen Takt i Behandlingen;
-<sp>Delikatesse</sp> (fr.), Finfølelse, Lækkerbisken.</chapter>
+<sp>Delikatesse</sp> (fr.), Finfølelse, Lækkerbisken.
+</chapter>
 
 <chapter name="delikvescere">
 <b>delikvescere</b> [-'se'r<sub>ə</sub>] (lat.), smelte hen;
-henflyde.</chapter>
+henflyde.
+</chapter>
 
 <chapter name="Delille, Abbé Jacques">
 <b>Delille</b> [d<sub>ö</sub>'lil] (ogsaa <sp>Delisle</sp>), <sp>Abbé
@@ -161,7 +167,8 @@ Stikkeren.
 
 <chapter name="delineere">
 <b>delineere</b> (lat.), tegne, udkaste;
-<sp>Delineation</sp>, Tegning, Udkast, Grundrids.</chapter>
+<sp>Delineation</sp>, Tegning, Udkast, Grundrids.
+</chapter>
 
 <chapter name="Deling">
 <b>Deling</b> (<sp>mat</sp>.) af et

@@ -104,7 +104,8 @@ af Daddelavl.
 </chapter>
 
 <chapter name="Djalut">
-<b>Djalut,</b> se <sp>Jaluit</sp>.</chapter>
+<b>Djalut,</b> se <sp>Jaluit</sp>.
+</chapter>
 
 <chapter name="Djambi">
 <b>Djambi</b> (<sp>Jambi</sp>), Flod paa Sumatra,
@@ -125,7 +126,8 @@ Hovedstaden D. ligger ved Floden og har c.
 <chapter name="Djambusar">
 <b>Djambusar,</b> <sp>Jambusar</sp>, By i Forindien,
 Præsidentskabet Bombay, ligger 45 km SV. f.
-Baroda. (1901) 11479 Indb. D. udfører Bomuld.</chapter>
+Baroda. (1901) 11479 Indb. D. udfører Bomuld.
+</chapter>
 
 <chapter name="Djâmi">
 <b>Djâmi</b> (arab.) ɔ: »den samlende«, bruges

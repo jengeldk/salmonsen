@@ -116,13 +116,16 @@ Kokille.
 <chapter name="død Kapital">
 <b>død Kapital,</b> en Kapital, der ikke for Tiden
 kan finde nogen produktiv Anvendelse og derfor
-heller ikke give noget Udbytte.</chapter>
+heller ikke give noget Udbytte.
+</chapter>
 
 <chapter name="død Konto">
-<b>død Konto,</b> se <sp>Bogholderi</sp>.</chapter>
+<b>død Konto,</b> se <sp>Bogholderi</sp>.
+</chapter>
 
 <chapter name="Dødkuller">
-<b>Dødkuller,</b> se <sp>Kuller</sp>.</chapter>
+<b>Dødkuller,</b> se <sp>Kuller</sp>.
+</chapter>
 
 <chapter name="dødmalet">
 <b>dødmalet</b> siges et Stof at være, naar det er
@@ -161,23 +164,29 @@ ikke ringe Størrelse findes i Troperne.
 </chapter>
 
 <chapter name="Dødningehaand">
-<b>Dødningehaand,</b> se <sp>Koraller</sp>.</chapter>
+<b>Dødningehaand,</b> se <sp>Koraller</sp>.
+</chapter>
 
 <chapter name="Dødningehoved">
-<b>Dødningehoved,</b> se <sp>Aftensværmere</sp>.</chapter>
+<b>Dødningehoved,</b> se <sp>Aftensværmere</sp>.
+</chapter>
 
 <chapter name="Dødningeur">
-<b>Dødningeur,</b> se <sp>Borebille</sp>.</chapter>
+<b>Dødningeur,</b> se <sp>Borebille</sp>.
+</chapter>
 
 <chapter name="død og magtesløs">
-<b>død og magtesløs,</b> se <sp>Mortifikation</sp>.</chapter>
+<b>død og magtesløs,</b> se <sp>Mortifikation</sp>.
+</chapter>
 
 <chapter name="Dødpunkt">
-<b>Dødpunkt,</b> se <sp>Dampmaskine</sp>.</chapter>
+<b>Dødpunkt,</b> se <sp>Dampmaskine</sp>.
+</chapter>
 
 <chapter name="Dødsaarsager">
 <b>Dødsaarsager,</b> se
-<sp>Dødelighedsstatistik</sp>.</chapter>
+<sp>Dødelighedsstatistik</sp>.
+</chapter>
 
 <chapter name="Dødsanmeldelse">
 <b>Dødsanmeldelse.</b> Iflg. Skifteloven af 30.

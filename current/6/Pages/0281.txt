@@ -19,7 +19,8 @@ Kædesystemer.
 </chapter>
 
 <chapter name="Dobbeltægteskab">
-<b>Dobbeltægteskab,</b> d. s. s. <sp>Bigami</sp>.</chapter>
+<b>Dobbeltægteskab,</b> d. s. s. <sp>Bigami</sp>.
+</chapter>
 
 <chapter name="Dobbeltørn">
 <b>Dobbeltørn</b> ell. flakt Ørn kaldes i
@@ -112,10 +113,12 @@ Italienernes Besiddelse 10. Aug. 1916.
 
 <chapter name="Dobermann-Pinscher">
 <b>Dobermann-Pinscher,</b> tysk <sp>Hunderace</sp>,
-se <sp>Hunde</sp>.</chapter>
+se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="doble">
-<b>doble,</b> se <sp>Dobbel</sp>.</chapter>
+<b>doble,</b> se <sp>Dobbel</sp>.
+</chapter>
 
 <chapter name="Doblón">
 <b>Doblón</b> [då'blån], <sp>Dublon</sp> (sp.
@@ -161,7 +164,8 @@ Feriekolonier.
 </chapter>
 
 <chapter name="Dobo">
-<b>Dobo,</b> se <sp>Aru-Øerne</sp>.</chapter>
+<b>Dobo,</b> se <sp>Aru-Øerne</sp>.
+</chapter>
 
 <chapter name="Doboj">
 <b>Doboj,</b> By i det østerr. Landskab Bosnien,

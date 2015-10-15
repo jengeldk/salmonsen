@@ -54,7 +54,8 @@ Bevægelsesevnen.
 </chapter>
 
 <chapter name="Cristinos">
-<b>Cristinos</b> [-'stin<sub>å</sub>s] (sp.), d. s. s. <sp>Christinere</sp>.</chapter>
+<b>Cristinos</b> [-'stin<sub>å</sub>s] (sp.), d. s. s. <sp>Christinere</sp>.
+</chapter>
 
 <chapter name="Cristobalit">
 <b>Cristobalit</b> er en Modifikation af Kiselsyre,
@@ -72,7 +73,8 @@ c. 1625°.
 </chapter>
 
 <chapter name="Cristofali">
-<b>Cristofali,</b> se <sp>Cristofori</sp>.</chapter>
+<b>Cristofali,</b> se <sp>Cristofori</sp>.
+</chapter>
 
 <chapter name="Cristofori, Bartolommeo">
 <b>Cristofori,</b> <sp>Bartolommeo</sp>, ogsaa kaldet

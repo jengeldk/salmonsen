@@ -36,10 +36,12 @@ o. s. v., for at betegne deres høje Stilling. -
 </chapter>
 
 <chapter name="Cribrilinidæ">
-<b>Cribrilinidæ,</b> se <sp>Mosdyr</sp>.</chapter>
+<b>Cribrilinidæ,</b> se <sp>Mosdyr</sp>.
+</chapter>
 
 <chapter name="Cricetus">
-<b>Cricetus,</b> se <sp>Hamster</sp>.</chapter>
+<b>Cricetus,</b> se <sp>Hamster</sp>.
+</chapter>
 
 <chapter name="Crichton, James">
 <b>Crichton</b> ['kra^it<sub>ə</sub>n ell. 'krikt<sub>ə</sub>n], <sp>James</sp>,
@@ -58,13 +60,16 @@ Slagsbroder i Tvekamp, blev han af Hertugen
 udnævnt til Opdrager for Sønnen, Vincenzo af
 Gonzaga, der imidlertid skal have myrdet ham.
 Beretningen om denne Begivenhed er dog
-tvivlsom.</chapter>
+tvivlsom.
+</chapter>
 
 <chapter name="Crichtonit">
-<b>Crichtonit</b> [kra^i- ell. krik-] d. s. s. <sp>Titanjern</sp>.</chapter>
+<b>Crichtonit</b> [kra^i- ell. krik-] d. s. s. <sp>Titanjern</sp>.
+</chapter>
 
 <chapter name="Cricket">
-<b>Cricket</b> ['krik<sub>i</sub>t ell. -k<sub>ə</sub>t] (eng.), se <sp>Kriket</sp>.</chapter>
+<b>Cricket</b> ['krik<sub>i</sub>t ell. -k<sub>ə</sub>t] (eng.), se <sp>Kriket</sp>.
+</chapter>
 
 <chapter name="Cricklade">
 <b>Cricklade</b> ['krik£e<sub>i</sub>d], gl By i det sydvestlige
@@ -77,7 +82,8 @@ til Parlamentet. (1911) 1521 Indb.
 </chapter>
 
 <chapter name="Cricotomi">
-<b>Cricotomi,</b> se <sp>Laryngotomi</sp>.</chapter>
+<b>Cricotomi,</b> se <sp>Laryngotomi</sp>.
+</chapter>
 
 <chapter name="Cridola, Monte">
 <b>Cridola, Monte,</b> Bjerg i de venetianske

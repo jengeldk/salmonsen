@@ -114,7 +114,8 @@ hentede Materiale til Redskaber.
 </chapter>
 
 <chapter name="Coppernicus">
-<b>Coppernicus,</b> se <sp>Kopernikus</sp>.</chapter>
+<b>Coppernicus,</b> se <sp>Kopernikus</sp>.
+</chapter>
 
 <chapter name="Coppet">
 <b>Coppet</b> [kå'pæ], Flække i det schweiziske

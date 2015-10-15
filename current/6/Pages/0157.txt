@@ -14,7 +14,8 @@ orientaliserende Romaner.
 
 <chapter name="Dietmar af Merseburg">
 <b>Dietmar</b> ['di.tmar] <sp>af Merseburg</sp>, se
-<sp>Thietmar</sp>.</chapter>
+<sp>Thietmar</sp>.
+</chapter>
 
 <chapter name="Dietrich fra Niem">
 <b>Dietrich</b> ['di.trik] <sp>fra Niem</sp>, tysk
@@ -126,7 +127,8 @@ Leben u. den Schriften Veit D.« [Nürnberg
 <chapter name="Dietrichit">
 <b>Dietrichit</b> [ditri'kit], Mineral, er en
 Zink-Alun, der er fundet som Nydannelse i en
-forladt Grube ved Felsobánya i Ungarn.</chapter>
+forladt Grube ved Felsobánya i Ungarn.
+</chapter>
 
 <chapter name="Dietrichson, Johanne Mathilde">
 <b>Dietrichson</b> ['ditriksån], <sp>Johanne

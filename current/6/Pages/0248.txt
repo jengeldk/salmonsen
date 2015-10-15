@@ -58,26 +58,33 @@ Eroberung des Landes im Jahr 1559« [Kiel 1888]).
 </chapter>
 
 <chapter name="Ditmarskerkvæg">
-<b>Ditmarskerkvæg,</b> se <sp>Kvægracer</sp>.</chapter>
+<b>Ditmarskerkvæg,</b> se <sp>Kvægracer</sp>.
+</chapter>
 
 <chapter name="dito">
-<b>dito,</b> se <sp>ditto</sp>.</chapter>
+<b>dito,</b> se <sp>ditto</sp>.
+</chapter>
 
 <chapter name="Ditomi">
-<b>Ditomi</b> (gr.), Tvedeling, Halvering.</chapter>
+<b>Ditomi</b> (gr.), Tvedeling, Halvering.
+</chapter>
 
 <chapter name="Ditonus">
-<b>Ditonus,</b> gr. Betegnelse for den store Terts.</chapter>
+<b>Ditonus,</b> gr. Betegnelse for den store Terts.
+</chapter>
 
 <chapter name="Ditriglyfsystem">
-<b>Ditriglyfsystem,</b> se <sp>Søjle</sp>.</chapter>
+<b>Ditriglyfsystem,</b> se <sp>Søjle</sp>.
+</chapter>
 
 <chapter name="Ditrochæus">
 <b>Ditrochæus</b> [-'kæ.-] (gr.), en Dobbelttrokæ
-([*][*][*][*]).</chapter>
+([*][*][*][*]).
+</chapter>
 
 <chapter name="Ditroit">
-<b>Ditroit,</b> se <sp>Nefelinsyenit</sp>.</chapter>
+<b>Ditroit,</b> se <sp>Nefelinsyenit</sp>.
+</chapter>
 
 <chapter name="dits">
 <b>dits</b> [di] (fr.), Udsagn, Ytringer, navnlig om

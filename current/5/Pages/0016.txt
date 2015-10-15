@@ -32,7 +32,8 @@ Louis XIII</i>.
 
 <chapter name="Cinquecentister">
 <b>Cinquecentister</b> [t∫iŋkwt∫en-], se
-<sp>Cinquecento</sp>.</chapter>
+<sp>Cinquecento</sp>.
+</chapter>
 
 <chapter name="Cinquecento">
 <b>Cinquecento</b> [t∫iŋkw't∫ænto] (ital.) betyder
@@ -91,7 +92,8 @@ dog nærmest som en Sinecure med høj Løn.
 
 <chapter name="Cinti-Damoreau">
 <b>Cinti-Damoreau</b> ['t∫inti- ell. t∫in'ti-damo'ro],
-se <sp>Damoreau</sp>.</chapter>
+se <sp>Damoreau</sp>.
+</chapter>
 
 <chapter name="Cintra">
 <b>Cintra</b> ['si<sub>n</sub>tr<sub>ə</sub>] By i Portugal, ligger c. 7 km
@@ -118,10 +120,12 @@ Portugal.
 </chapter>
 
 <chapter name="Ciona">
-<b>Ciona,</b> se <sp>Søpunge</sp>.</chapter>
+<b>Ciona,</b> se <sp>Søpunge</sp>.
+</chapter>
 
 <chapter name="Cione">
-<b>Cione</b> ['t∫one] <sp>A.</sp>, se <sp>Orcagna</sp>.</chapter>
+<b>Cione</b> ['t∫one] <sp>A.</sp>, se <sp>Orcagna</sp>.
+</chapter>
 
 <chapter name="Ciotat">
 <b>Ciotat</b> [s<sub>i</sub>å'ta], <sp>La</sp>, provençalsk <i>Cioutat</i> d. v. s.
@@ -139,7 +143,8 @@ By Ceyreste.
 </chapter>
 
 <chapter name="Cipaquira">
-<b>Cipaquira</b> [sipa'kira], se <sp>Zipaquira</sp>.</chapter>
+<b>Cipaquira</b> [sipa'kira], se <sp>Zipaquira</sp>.
+</chapter>
 
 <chapter name="Cipariu">
 <b>Cipariu</b> [t∫ipa'riu], <sp>Timoteiu</sp>, rum.
@@ -160,7 +165,8 @@ limbei romane</i> (1869-77).
 </chapter>
 
 <chapter name="Cipipamel">
-<b>Cipipamel,</b> se <sp>Kassava</sp>.</chapter>
+<b>Cipipamel,</b> se <sp>Kassava</sp>.
+</chapter>
 
 <chapter name="Cipolla">
 <b>Cipolla</b> [t∫i], <sp>Carlo</sp>, Greve, ital. Historiker,

@@ -1,6 +1,7 @@
 <sp>Ekscitabilitet</sp>, Letbevægelighed, Pirrelighed;
 <sp>Ekscitation</sp>, Vækkelse, Opmuntring;
-<sp>ekscitativ</sp>, vækkende, tilskyndende, oplivende.</chapter>
+<sp>ekscitativ</sp>, vækkende, tilskyndende, oplivende.
+</chapter>
 
 <chapter name="Eksegese">
 <b>Eksegese</b> (gr.), Forklaring, Fortolkning; en

@@ -100,7 +100,8 @@ over for Standens enkelte Medlemmer (smlg.
 </chapter>
 
 <chapter name="Danske Samling">
-<b>Danske Samling,</b> se <sp>Nationalmuseet</sp>.</chapter>
+<b>Danske Samling,</b> se <sp>Nationalmuseet</sp>.
+</chapter>
 
 <chapter name="danske Selskab for Fædrelandets Historie og Sprog, Det kgl.">
 <b>danske Selskab for Fædrelandets

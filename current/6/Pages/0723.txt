@@ -78,13 +78,16 @@ Undersiden, men nær dennes Bagrand.
 </chapter>
 
 <chapter name="Echinocorys">
-<b>Echinocorys</b> [-ki-], d. s. s. <sp>Ananchytes</sp>.</chapter>
+<b>Echinocorys</b> [-ki-], d. s. s. <sp>Ananchytes</sp>.
+</chapter>
 
 <chapter name="Echinodorus">
-<b>Echinodorus</b> [-ki-], se <sp>Søpryd</sp>.</chapter>
+<b>Echinodorus</b> [-ki-], se <sp>Søpryd</sp>.
+</chapter>
 
 <chapter name="Echinokok">
-<b>Echinokok</b> [-ki-], d. s. s. <sp>Echinococcus</sp>.</chapter>
+<b>Echinokok</b> [-ki-], d. s. s. <sp>Echinococcus</sp>.
+</chapter>
 
 <chapter name="Echinokoksygdom">
 <b>Echinokoksygdom</b> [-ki-]. Herved forstaas

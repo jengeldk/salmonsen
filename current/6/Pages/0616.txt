@@ -100,7 +100,8 @@ Maanen. Denne er delt i 27 ell. 28 Dele (se
 </chapter>
 
 <chapter name="Dyrekredslys">
-<b>Dyrekredslys,</b> d. s. s. <sp>Zodiakallys</sp>.</chapter>
+<b>Dyrekredslys,</b> d. s. s. <sp>Zodiakallys</sp>.
+</chapter>
 
 <chapter name="Dyremasker">
 <b>Dyremasker,</b> Apparater - sædvanlig

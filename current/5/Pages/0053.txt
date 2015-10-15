@@ -160,10 +160,12 @@ og i <i>Philosophical Magazine</i>.
 
 <chapter name="Clarkes River">
 <b>Clarkes River</b> ['k£a.<sub>ə</sub>ks-'rivə], se <sp>Clarkes
-Fork</sp>.</chapter>
+Fork</sp>.
+</chapter>
 
 <chapter name="Clarke's Søjle">
-<b>Clarke's Søjle</b> [k£a.<sub>ə</sub>ks-], se <sp>Rygmarv</sp>.</chapter>
+<b>Clarke's Søjle</b> [k£a.<sub>ə</sub>ks-], se <sp>Rygmarv</sp>.
+</chapter>
 
 <chapter name="Clarkia">
 <b>Clarkia,</b> Slægt af Natlysfam., enaarige Urter

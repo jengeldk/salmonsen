@@ -18,7 +18,8 @@ endnu Ruiner af Byen D.
 </chapter>
 
 <chapter name="Dan, se Roanoke">
-<b>Dan,</b> se <sp>Roanoke</sp>.</chapter>
+<b>Dan,</b> se <sp>Roanoke</sp>.
+</chapter>
 
 <chapter name="Dana, poetisk Navn for Danmark">
 <b>Dana</b> bruges af 18. og 19. Aarh.'s Digtere
@@ -130,7 +131,8 @@ Years before the Mast</i> (1840),
 </chapter>
 
 <chapter name="Danaarv">
-<b>Danaarv,</b> se <sp>Arvefaldsret</sp>.</chapter>
+<b>Danaarv,</b> se <sp>Arvefaldsret</sp>.
+</chapter>
 
 <chapter name="Danabæk">
 <b>Danabæk</b> adskiller Elfsborgs og Hallands

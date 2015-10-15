@@ -8,11 +8,13 @@ en Kirke.
 </chapter>
 
 <chapter name="Domsakt">
-<b>Domsakt,</b> se <sp>Akt</sp>.</chapter>
+<b>Domsakt,</b> se <sp>Akt</sp>.
+</chapter>
 
 <chapter name="Domsforhandling">
 <b>Domsforhandling,</b> d. s. s.
-Hovedforhandlingen under en mundtlig Procedure.</chapter>
+Hovedforhandlingen under en mundtlig Procedure.
+</chapter>
 
 <chapter name="Domsforkyndelse">
 <b>Domsforkyndelse.</b> I enkelte Tilfælde
@@ -33,10 +35,12 @@ foreskrevne Regler.
 </chapter>
 
 <chapter name="Domsfuldbyrdelse">
-<b>Domsfuldbyrdelse,</b> se <sp>Eksekution</sp>.</chapter>
+<b>Domsfuldbyrdelse,</b> se <sp>Eksekution</sp>.
+</chapter>
 
 <chapter name="Domsgrunde">
-<b>Domsgrunde,</b> se <sp>Præmisser</sp>.</chapter>
+<b>Domsgrunde,</b> se <sp>Præmisser</sp>.
+</chapter>
 
 <chapter name="Domskoler">
 <b>Domskoler</b> ell. <sp>Katedralskoler</sp>,
@@ -72,10 +76,12 @@ Navnet er dog bibeholdt for enkelte lærde Skoler.
 </chapter>
 
 <chapter name="Domskraft">
-<b>Domskraft,</b> se <sp>Retskraft</sp>.</chapter>
+<b>Domskraft,</b> se <sp>Retskraft</sp>.
+</chapter>
 
 <chapter name="Domsmænd">
-<b>Domsmænd,</b> se <sp>Meddomsmænd</sp>.</chapter>
+<b>Domsmænd,</b> se <sp>Meddomsmænd</sp>.
+</chapter>
 
 <chapter name="Domssag">
 <b>Domssag.</b> Under en Proces vil Bevisførelse

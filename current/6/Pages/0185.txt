@@ -1,10 +1,12 @@
 <chapter name="Dikarbonsyrer">
 <b>Dikarbonsyrer,</b> organiske Syrer,
-indeholdende 2 Karboxylgrupper.</chapter>
+indeholdende 2 Karboxylgrupper.
+</chapter>
 
 <chapter name="Dikasterion">
 <b>Dikasterion</b> (gr.), Domstol,
-Dommerforsamling.</chapter>
+Dommerforsamling.
+</chapter>
 
 <chapter name="Dike, i den gr. Mytologi">
 <b>Dike</b> (gr.), »Ret«, i den gr. Mytologi
@@ -23,10 +25,10 @@ Aarhundrede før Kristus (se Figur). En skøn
 Statue fra Epidauros, forestillende en ung,
 væbnet Kvinde, anses af nogle Forskere for et
 Billede af D.
-<i>C. B.</i>
 
-<img>
-Attisk Vase i Wien.</img></chapter>
+<img>Attisk Vase i Wien.</img>
+<i>C. B.</i>
+</chapter>
 
 <chapter name="Dike, i gr. Ret">
 <b>Dike</b> i gr. Ret udtrykker som Modsætning

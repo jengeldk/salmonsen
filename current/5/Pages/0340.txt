@@ -95,29 +95,36 @@ og Fiskeri.
 <chapter name="Csurog">
 <b>Csurog</b> ['t∫urog], By i Ungarn, Komitatet
 Bács-Bodroy, ved Jernbanen Ó-Becse-Ujvidék,
-har (1910) 10184 serb. og magy. Indb.</chapter>
+har (1910) 10184 serb. og magy. Indb.
+</chapter>
 
 <chapter name="CTA">
 <b>CTA,</b> telegrafisk Forkortelse for <i>conserver
 toutes adresses</i>, d. v. s. at hver enkelt Adressat
 i et Telegram, der er adresseret til fl. forsk.
-Personer, skal have opgivet alle Adressaternes Navne.</chapter>
+Personer, skal have opgivet alle Adressaternes Navne.
+</chapter>
 
 <chapter name="Ct. Ct.">
-<b>Ct. Ct.,</b> se <sp>Konto Kurant</sp>.</chapter>
+<b>Ct. Ct.,</b> se <sp>Konto Kurant</sp>.
+</chapter>
 
 <chapter name="Cteniza">
-<b>Cteniza</b> [kte-], se <sp>Minéredderkopper</sp>.</chapter>
+<b>Cteniza</b> [kte-], se <sp>Minéredderkopper</sp>.
+</chapter>
 
 <chapter name="Ctenobranchia">
 <b>Ctenobranchia</b> [kteno'braŋkia]
-(<sp>Pectinibranchia</sp>), se <sp>Forgællesnegle</sp> og <sp>Snegle</sp>.</chapter>
+(<sp>Pectinibranchia</sp>), se <sp>Forgællesnegle</sp> og <sp>Snegle</sp>.
+</chapter>
 
 <chapter name="Ctenocampa">
-<b>Ctenocampa</b> [kte-], se <sp>Spindere</sp>.</chapter>
+<b>Ctenocampa</b> [kte-], se <sp>Spindere</sp>.
+</chapter>
 
 <chapter name="Ctenodipterini">
-<b>Ctenodipterini</b> ['kte-], se <sp>Lungefisk</sp>.</chapter>
+<b>Ctenodipterini</b> ['kte-], se <sp>Lungefisk</sp>.
+</chapter>
 
 <chapter name="ctenoide">
 <b>ctenoide</b> [kte-] Fiskeskæl er langs den bageste
@@ -127,16 +134,20 @@ tandagtige Spidser. Se <sp>Fisk</sp> og <sp>Skæl</sp>.
 </chapter>
 
 <chapter name="Ctenolabrus">
-<b>Ctenolabrus</b> [kte-], se <sp>Læbefisk</sp>.</chapter>
+<b>Ctenolabrus</b> [kte-], se <sp>Læbefisk</sp>.
+</chapter>
 
 <chapter name="Ctenomys">
-<b>Ctenomys</b> ['kte'-], (<sp>Tucotuco</sp>), se <sp>Gravemus</sp>.</chapter>
+<b>Ctenomys</b> ['kte'-], (<sp>Tucotuco</sp>), se <sp>Gravemus</sp>.
+</chapter>
 
 <chapter name="Ctenophora">
-<b>Ctenophora</b> [kte'no'fora], se <sp>Ribbegopler</sp>.</chapter>
+<b>Ctenophora</b> [kte'no'fora], se <sp>Ribbegopler</sp>.
+</chapter>
 
 <chapter name="Ctenostomata">
-<b>Ctenostomata</b> [kte-], se <sp>Mosdyr</sp>.</chapter>
+<b>Ctenostomata</b> [kte-], se <sp>Mosdyr</sp>.
+</chapter>
 
 <chapter name="CTP">
 <b>CTP,</b> telegrafisk Forkortelse for <i>conserver
@@ -149,10 +160,12 @@ at der er sket Fejl under Telegraferingen.
 </chapter>
 
 <chapter name="Ctr.">
-<b>Ctr.,</b> Forkortelse af <sp>Centner</sp>.</chapter>
+<b>Ctr.,</b> Forkortelse af <sp>Centner</sp>.
+</chapter>
 
 <chapter name="Cu">
-<b>Cu,</b> kemisk Tegn for Kobber.</chapter>
+<b>Cu,</b> kemisk Tegn for Kobber.
+</chapter>
 
 <chapter name="Cuaba">
 <b>Cuaba</b> ['k<sub>u</sub>awa], fint Gavntræ af forskellige
@@ -162,7 +175,8 @@ Arter <i>Amyris</i> fra Kuba, kaldes undertiden
 </chapter>
 
 <chapter name="Cuandu">
-<b>Cuandu</b> (<i>Sphingurus</i>), se <sp>Gnaverpindsvin</sp>.</chapter>
+<b>Cuandu</b> (<i>Sphingurus</i>), se <sp>Gnaverpindsvin</sp>.
+</chapter>
 
 <chapter name="Cuanza">
 <b>Cuanza,</b> <sp>Coanza</sp>, Flod i det sydvestlige
@@ -183,7 +197,8 @@ bygget af Hollænderne.
 </chapter>
 
 <chapter name="Cuati">
-<b>Cuati</b> [sp. k<sub>u</sub>a'ti], amer. Navn for Næsebjørne.</chapter>
+<b>Cuati</b> [sp. k<sub>u</sub>a'ti], amer. Navn for Næsebjørne.
+</chapter>
 
 <chapter name="Cuatro">
 <b>Cuatro</b> ['k<sub>u</sub>atr<sub>å</sub>], Skillemønt i Bolivia

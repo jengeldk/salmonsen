@@ -78,10 +78,12 @@ history of C.</i> [New Haven 1855]; <sp>Johnston</sp>,
 
 <chapter name="Connecticut Sund">
 <b>Connecticut Sund</b> [k<sub>ə</sub>'ne(k)t<sub>i</sub>kat-], se <sp>Long
-Island</sp>.</chapter>
+Island</sp>.
+</chapter>
 
 <chapter name="Connell">
-<b>Connell</b> ['kån<sub>ə</sub>£], se <sp>O'Connell</sp>.</chapter>
+<b>Connell</b> ['kån<sub>ə</sub>£], se <sp>O'Connell</sp>.
+</chapter>
 
 <chapter name="Connellit">
 <b>Connellit,</b> Mineral af heksagonal Krystalform
@@ -103,7 +105,8 @@ Kulbjergværker.
 </chapter>
 
 <chapter name="Connemara">
-<b>Connemara</b> [kån<sub>i</sub>'ma.r<sub>a</sub>], se <sp>Galway</sp>.</chapter>
+<b>Connemara</b> [kån<sub>i</sub>'ma.r<sub>a</sub>], se <sp>Galway</sp>.
+</chapter>
 
 <chapter name="Connersville">
 <b>Connersville</b> ['kånəzvi£], By i U. S. A.,
@@ -149,10 +152,12 @@ f. Eks. Borgfogeder o. l., hvorfra Benævnelsen
 </chapter>
 
 <chapter name="connex">
-<b>connex,</b> se <sp>Konneksitet</sp>.</chapter>
+<b>connex,</b> se <sp>Konneksitet</sp>.
+</chapter>
 
 <chapter name="Connor">
-<b>Connor</b> ['kånå<sub>ə</sub>], se <sp>O'Connor</sp>.</chapter>
+<b>Connor</b> ['kånå<sub>ə</sub>], se <sp>O'Connor</sp>.
+</chapter>
 
 <chapter name="connubio">
 <b>connubio</b> (ital.), Ægteskab, kaldtes den

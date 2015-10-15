@@ -14,13 +14,16 @@ Bjergboere.
 </chapter>
 
 <chapter name="Cocainisme">
-<b>Cocainisme,</b> se <sp>Cocain</sp>.</chapter>
+<b>Cocainisme,</b> se <sp>Cocain</sp>.
+</chapter>
 
 <chapter name="Cocanada">
-<b>Cocanada</b> [ko<sub>u</sub>k<sub>ə</sub>'na.d<sub>a</sub>], se <sp>Kakinada</sp>.</chapter>
+<b>Cocanada</b> [ko<sub>u</sub>k<sub>ə</sub>'na.d<sub>a</sub>], se <sp>Kakinada</sp>.
+</chapter>
 
 <chapter name="Cocaplanten">
-<b>Cocaplanten,</b> se <sp>Erythroxylon</sp>.</chapter>
+<b>Cocaplanten,</b> se <sp>Erythroxylon</sp>.
+</chapter>
 
 <chapter name="Cocceji">
 <b>Cocceji</b> [ko't∫e.ji], <sp>Samuel von</sp>, preuss.
@@ -139,13 +142,16 @@ aldrig at foraarsage alvorlig Sygdom.
 </chapter>
 
 <chapter name="Coccidium">
-<b>Coccidium</b> [kåk'si'-], se <sp>Sporozoer</sp>.</chapter>
+<b>Coccidium</b> [kåk'si'-], se <sp>Sporozoer</sp>.
+</chapter>
 
 <chapter name="Coccidæ">
-<b>Coccidæ</b> [kåk'si.dæ], se <sp>Skjoldlus</sp>.</chapter>
+<b>Coccidæ</b> [kåk'si.dæ], se <sp>Skjoldlus</sp>.
+</chapter>
 
 <chapter name="Coccinellidæ">
-<b>Coccinellidæ</b> ['kåksi-], se <sp>Mariehøns</sp>.</chapter>
+<b>Coccinellidæ</b> ['kåksi-], se <sp>Mariehøns</sp>.
+</chapter>
 
 <chapter name="Coccius, Ernst Adolf">
 <b>Coccius</b> ['kåkius], <sp>Ernst Adolf</sp>, tysk

@@ -39,7 +39,8 @@ adskillige Jernmeteoritter.
 </chapter>
 
 <chapter name="Daucus">
-<b>Daucus,</b> se <sp>Gulerod</sp>.</chapter>
+<b>Daucus,</b> se <sp>Gulerod</sp>.
+</chapter>
 
 <chapter name="Daudet, 1) Alphonse, 2) Ernest, 3) Julia">
 <b>Daudet</b> [do'dæ], 1) <sp>Alphonse</sp>, fr. Forf.,

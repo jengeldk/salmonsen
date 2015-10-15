@@ -21,14 +21,17 @@ Kubiktommer = 17,591 l.
 <b>Disharmoni</b> (lat.), Mislyd, Mangel paa
 Overensstemmelse, Tvist; <sp>disharmonere</sp>, ikke
 stemme overens, være uenig;
-<sp>disharmonisk</sp>, misklingende, mislydende, uenig.</chapter>
+<sp>disharmonisk</sp>, misklingende, mislydende, uenig.
+</chapter>
 
 <chapter name="Dishley-Faar">
-<b>Dishley-Faar</b> ['di∫£<sub>i</sub>-], se <sp>Faar</sp>.</chapter>
+<b>Dishley-Faar</b> ['di∫£<sub>i</sub>-], se <sp>Faar</sp>.
+</chapter>
 
 <chapter name="Disis">
 <b>Disis,</b> det ved et Dobbeltkryds (X) 2 halve
-Toner forhøjede <i>d</i>, enharmonisk = <i>e</i>.</chapter>
+Toner forhøjede <i>d</i>, enharmonisk = <i>e</i>.
+</chapter>
 
 <chapter name="disjecta membra">
 <b>disjecta membra</b> (iat.), unøjagtigt Citat efter

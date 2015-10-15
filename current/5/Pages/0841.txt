@@ -14,7 +14,8 @@ og en Sekretær.
 </chapter>
 
 <chapter name="Danskeskov">
-<b>Danskeskov,</b> se <sp>Dänischwold</sp>.</chapter>
+<b>Danskeskov,</b> se <sp>Dänischwold</sp>.
+</chapter>
 
 <chapter name="Danske Skytteforeninger">
 <b>Danske Skytteforeninger.</b> Disses Oprettelse

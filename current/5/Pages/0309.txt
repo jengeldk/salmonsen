@@ -33,7 +33,8 @@ Jernbanecentrum og har Tilvirkning af Vognmateriel.
 
 <chapter name="Crestola">
 <b>Crestola,</b> Plads ved Carrara, i hvilken det
-bedste hvide karrariske Marmor brydes.</chapter>
+bedste hvide karrariske Marmor brydes.
+</chapter>
 
 <chapter name="Creston">
 <b>Creston</b> ['krest<sub>ə</sub>n], By i U. S. A., Stat Iowa,
@@ -52,7 +53,8 @@ og (1911) 2665 Indb.
 </chapter>
 
 <chapter name="creta">
-<b>creta</b> (lat.), <sp>Kridt</sp>.</chapter>
+<b>creta</b> (lat.), <sp>Kridt</sp>.
+</chapter>
 
 <chapter name="Cret de la Neige">
 <b>Cret de la Neige</b> ['kræ-d-la-'næ.з], den
@@ -87,7 +89,8 @@ Paris, ved Østbanen, har en Kirke fra 12. Aarh.
 </chapter>
 
 <chapter name="Cretin">
-<b>Cretin,</b> se <sp>Kretinisme</sp>.</chapter>
+<b>Cretin,</b> se <sp>Kretinisme</sp>.
+</chapter>
 
 <chapter name="Crétineau-Joly, Jacques">
 <b>Crétineau-Joly</b> [kreti'no-зå'li], <sp>Jacques</sp>,

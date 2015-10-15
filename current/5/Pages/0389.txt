@@ -41,7 +41,8 @@ da oftest Betændelser i Nyrevævet.
 </chapter>
 
 <chapter name="Cysticercus">
-<b>Cysticercus,</b> se <sp>Bændelorme</sp>.</chapter>
+<b>Cysticercus,</b> se <sp>Bændelorme</sp>.
+</chapter>
 
 <chapter name="Cystide- ell. Echinosphæritkalk">
 <b>Cystide-</b> ell. <sp>Echinosphæritkalk</sp>, en

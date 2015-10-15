@@ -64,7 +64,8 @@ Tilskuere kunde rummes.
 </chapter>
 
 <chapter name="Colossæ">
-<b>Colossæ,</b> se <sp>Kolossai</sp>.</chapter>
+<b>Colossæ,</b> se <sp>Kolossai</sp>.
+</chapter>
 
 <chapter name="Colostrum">
 <b>Colostrum,</b> <sp>Raamælk</sp>, den Vædske, der
@@ -137,19 +138,24 @@ og fik fra Regeringen en større Bestilling paa
 sine Revolvere. 1850 flyttede han sin Fabrik til
 Hartford; den tog hurtig et stort Opsving, der
 fremmedes bl. a. ved Indførelsen af Revolveren
-i den amer. Hær.</chapter>
+i den amer. Hær.
+</chapter>
 
 <chapter name="Coluber, Colubridæ">
-<b>Coluber, Colubridæ,</b> se <sp>Snoge</sp>.</chapter>
+<b>Coluber, Colubridæ,</b> se <sp>Snoge</sp>.
+</chapter>
 
 <chapter name="Colubrintræ">
-<b>Colubrintræ,</b> se <sp>Slangetræ</sp>.</chapter>
+<b>Colubrintræ,</b> se <sp>Slangetræ</sp>.
+</chapter>
 
 <chapter name="Columba, se Duer">
-<b>Columba,</b> se <sp>Duer</sp>.</chapter>
+<b>Columba,</b> se <sp>Duer</sp>.
+</chapter>
 
 <chapter name="Columba (astron.)">
-<b>Columba</b> (<sp>astron.</sp>), se <sp>Duen</sp>.</chapter>
+<b>Columba</b> (<sp>astron.</sp>), se <sp>Duen</sp>.
+</chapter>
 
 <chapter name="Columba, den Hellige">
 <b>Columba,</b> den Hellige, irsk Munk, f. 521,

@@ -17,7 +17,8 @@ En fuldstændig Folkeudgave af Viserne udkom
 </chapter>
 
 <chapter name="Colmann-Styring">
-<b>Colmann-Styring,</b> se <sp>Dampmaskine</sp>.</chapter>
+<b>Colmann-Styring,</b> se <sp>Dampmaskine</sp>.
+</chapter>
 
 <chapter name="Colmar">
 <b>Colmar,</b> By i Elsass, Hovedstad i Oberelsass,
@@ -54,7 +55,8 @@ tilbage til Tyskland 1871.
 </chapter>
 
 <chapter name="colmatage">
-<b>colmatage</b> [kålma'ta.з], se <sp>Kolmation</sp>.</chapter>
+<b>colmatage</b> [kålma'ta.з], se <sp>Kolmation</sp>.
+</chapter>
 
 <chapter name="Colmenar">
 <b>Colmenar</b> [kålmæ'nar], By i det sydlige
@@ -83,7 +85,8 @@ londonsk Forlystelsessted.
 </chapter>
 
 <chapter name="Colobus">
-<b>Colobus,</b> se <sp>Marekatte</sp>.</chapter>
+<b>Colobus,</b> se <sp>Marekatte</sp>.
+</chapter>
 
 <chapter name="Colocasia Schott.">
 <b>Colocasia</b> Schott., Slægt af Arumfam., nær
@@ -126,7 +129,8 @@ Afføringsmiddel.
 </chapter>
 
 <chapter name="Colocynthis">
-<b>Colocynthis</b> [-tis], se <sp>Citrullus</sp>.</chapter>
+<b>Colocynthis</b> [-tis], se <sp>Citrullus</sp>.
+</chapter>
 
 <chapter name="Cologna Veneta">
 <b>Cologna Veneta</b> [ko'lån<sub>j</sub>a-], By i
@@ -140,7 +144,8 @@ driver Silkeavl samt Hamp- og Vinavl.
 
 <chapter name="Cologne, fr. Navn paa Köln">
 <b>Cologne</b> [kå'lån<sub>j</sub>], det fr. Navn paa <sp>Köln</sp>
-(s. d.).</chapter>
+(s. d.).
+</chapter>
 
 <chapter name="Cologne, By i Norditalien">
 <b>Cologne</b> [ko'lån<sub>j</sub>e], By i Norditalien, Prov.

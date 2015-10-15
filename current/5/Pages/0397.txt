@@ -93,7 +93,8 @@ af i Stilhed for sine Ideer.
 
 <chapter name="Czestochowa">
 <b>Czestochowa</b> [t∫æstå'kåva], se
-<sp>Czenstochowa</sp>.</chapter>
+<sp>Czenstochowa</sp>.
+</chapter>
 
 <chapter name="Czibulka, Alfons">
 <b>Czibulka</b> [t∫i'bulka], <sp>Alfons</sp>, østerrigsk

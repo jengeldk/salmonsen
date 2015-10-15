@@ -41,7 +41,8 @@ Athen.
 <b>Dynasti</b> (gr.), Herskermagt, Fyrste-,
 Herskerhus; <sp>dynástisk</sp>, D. vedrørende, f. Eks.
 dynastisk Interesse (i Modsætning til Folkets ell.
-Statens Interesse).</chapter>
+Statens Interesse).
+</chapter>
 
 <chapter name="Dynastidæ">
 <b>Dynastidæ</b> er en næsten udelukkende
@@ -80,13 +81,16 @@ meget frugtbar Jordbund.
 </chapter>
 
 <chapter name="Dyndflue">
-<b>Dyndflue</b> (<i>Eristalis</i>), se <sp>Blomsterfluer</sp>.</chapter>
+<b>Dyndflue</b> (<i>Eristalis</i>), se <sp>Blomsterfluer</sp>.
+</chapter>
 
 <chapter name="Dyndskildpadder">
-<b>Dyndskildpadder,</b> se <sp>Flodskildpadder</sp>.</chapter>
+<b>Dyndskildpadder,</b> se <sp>Flodskildpadder</sp>.
+</chapter>
 
 <chapter name="Dyndsmerling">
-<b>Dyndsmerling,</b> se <sp>Smerling</sp>.</chapter>
+<b>Dyndsmerling,</b> se <sp>Smerling</sp>.
+</chapter>
 
 <chapter name="Dyndurt">
 <b>Dyndurt</b> (<i>Limosélla</i> L.), Slægt af
@@ -131,7 +135,8 @@ ved Mississippi).
 </chapter>
 
 <chapter name="Dyne">
-<b>Dyne,</b> se <sp>Klit</sp>.</chapter>
+<b>Dyne,</b> se <sp>Klit</sp>.
+</chapter>
 
 <chapter name="Dynekilen">
 <b>Dynekilen,</b> en c. 2 Sømil lang, smal Fjord i
@@ -180,10 +185,12 @@ Sænkning Askja.
 </chapter>
 
 <chapter name="Dynjandi">
-<b>Dynjandi</b> ['denjande], se <sp>Arnarfjörður</sp>.</chapter>
+<b>Dynjandi</b> ['denjande], se <sp>Arnarfjörður</sp>.
+</chapter>
 
 <chapter name="Dünkirchen">
-<b>Dünkirchen</b> ['dønkerK<sub>ə</sub>n], se <sp>Dunkerque</sp>.</chapter>
+<b>Dünkirchen</b> ['dønkerK<sub>ə</sub>n], se <sp>Dunkerque</sp>.
+</chapter>
 
 <chapter name="Düntzer">
 <b>Düntzer</b> ['dynts<sub>ə</sub>r], <sp>Heinrich</sp>, tysk

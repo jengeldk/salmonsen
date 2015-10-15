@@ -80,7 +80,8 @@ Buchhandlung Nachfolger.
 
 <chapter name="cottage">
 <b>cottage</b> ['kåt<sub>i</sub>dз] (eng.), Hytte; lille Hus,
-Landsted.</chapter>
+Landsted.
+</chapter>
 
 <chapter name="Cottagesystem">
 <b>Cottagesystem</b> ['kåt<sub>i</sub>dз-] kaldes det Princip,
@@ -94,7 +95,8 @@ Skodsborg og Marienlyst.
 </chapter>
 
 <chapter name="Cottasandsten">
-<b>Cottasandsten</b> ['kåta-], se <sp>Sandsten</sp>.</chapter>
+<b>Cottasandsten</b> ['kåta-], se <sp>Sandsten</sp>.
+</chapter>
 
 <chapter name="Cotte, Robert de">
 <b>Cotte</b> [kåt], <sp>Robert de</sp>, fr. Arkitekt, f. i
@@ -123,7 +125,8 @@ Biskop-Palæet i Strassburg.
 <chapter name="Cottereau, Jean">
 <b>Cottereau</b> [kå'tro], <sp>Jean</sp>, med Tilnavnet
 <sp>Chouan</sp> (1757-94), Skomager, dristig
-Smugler og den første Anfører for Chouanerne.</chapter>
+Smugler og den første Anfører for Chouanerne.
+</chapter>
 
 <chapter name="Cottet, Charles">
 <b>Cottet</b> [kå'tæ], <sp>Charles</sp>, fr. Maler, f. 12.

@@ -94,11 +94,13 @@ Stoffer.
 </chapter>
 
 <chapter name="Durandus, Vilhelm">
-<b>Durandus,</b> <sp>Vilhelm</sp>, se <sp>Durand</sp>.</chapter>
+<b>Durandus,</b> <sp>Vilhelm</sp>, se <sp>Durand</sp>.
+</chapter>
 
 <chapter name="dura necessitas">
 <b>dura necessitas</b> (lat.), den haarde
-Nødvendighed, smlg. <sp>dira necessitas</sp>.</chapter>
+Nødvendighed, smlg. <sp>dira necessitas</sp>.
+</chapter>
 
 <chapter name="Durangit">
 <b>Durangit,</b> et orangerødt sjældent Mineral af

@@ -39,7 +39,8 @@ Guiffrey</sp>, <i>Lettres inédites de D. de P.</i> [Paris 1866];
 </chapter>
 
 <chapter name="Dianit">
-<b>Dianit,</b> d. s. s. <sp>Columbit</sp>.</chapter>
+<b>Dianit,</b> d. s. s. <sp>Columbit</sp>.
+</chapter>
 
 <chapter name="Diano-Marina">
 <b>Diano-Marina,</b> By i det nordvestlige Italien,

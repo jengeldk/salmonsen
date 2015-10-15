@@ -63,7 +63,8 @@ Omraade.
 </chapter>
 
 <chapter name="Dannevirke">
-<b>Dannevirke,</b> se <sp>Danevirke</sp>.</chapter>
+<b>Dannevirke,</b> se <sp>Danevirke</sp>.
+</chapter>
 
 <chapter name="Dannevirke, et Dagblad">
 <b>Dannevirke,</b> et Dagblad, som udgives i

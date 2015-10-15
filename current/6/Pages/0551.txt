@@ -6,7 +6,8 @@ Tyndtarmen (se <sp>Enterostomi</sp>).
 
 <chapter name="Duodenum">
 <b>Duodenum,</b> »Tolvfingertarmen«, se
-<sp>Tarmkanalen</sp>.</chapter>
+<sp>Tarmkanalen</sp>.
+</chapter>
 
 <chapter name="Duodez">
 <b>Duodez</b> [-'de'ts], af lat. <i>duodecim</i>, tolv,
@@ -18,7 +19,8 @@ mindre Bogformater; Folioarket er her delt i
 
 <chapter name="Duodrama">
 <b>Duodrama</b> (gr.), et Drama, i hvilket kun
-to Personer optræder.</chapter>
+to Personer optræder.
+</chapter>
 
 <chapter name="Duol">
 <b>Duol,</b> en Nodefigur, en Gruppe af to lige
@@ -30,7 +32,8 @@ samme Værdi. Se <sp>Triol</sp>.
 
 <chapter name="duolo">
 <b>duolo</b> ['d<sub>u</sub>ålo] (ital. »Smerte«), <i>con duolo</i>,
-mus. Foredragsbetegnelse: smertelig, vemodig.</chapter>
+mus. Foredragsbetegnelse: smertelig, vemodig.
+</chapter>
 
 <chapter name="duo quum faciunt idem, non est Idem">
 <b>duo quum faciunt idem, non est Idem</b>
@@ -58,7 +61,8 @@ i Doser paa 0,2-0,5 g.
 </chapter>
 
 <chapter name="duoviri">
-<b>duoviri,</b> se <sp>duumviri</sp>.</chapter>
+<b>duoviri,</b> se <sp>duumviri</sp>.
+</chapter>
 
 <chapter name="Dupanloup, Félix Antoine Philippe">
 <b>Dupanloup</b> [dypã'lu], <sp>Félix Antoine

@@ -146,7 +146,8 @@ Hovedstad for et Grevskab.
 </chapter>
 
 <chapter name="couvre-face">
-<b>couvre-face</b> ['kuvr<sub>ö</sub>-'fas], se <sp>Kontregarde</sp>.</chapter>
+<b>couvre-face</b> ['kuvr<sub>ö</sub>-'fas], se <sp>Kontregarde</sp>.
+</chapter>
 
 <chapter name="Couvreur, Jessie">
 <b>Couvreur</b> [ku'vrə.], <sp>Jessie</sp>, australsk

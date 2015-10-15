@@ -58,7 +58,8 @@ overleveret bl. Lukian's Værker.
 </chapter>
 
 <chapter name="Demonesi">
-<b>Demonesi,</b> se <sp>Prinseøerne</sp>.</chapter>
+<b>Demonesi,</b> se <sp>Prinseøerne</sp>.
+</chapter>
 
 <chapter name="demonetisere">
 <b>demonetisere,</b> ophøre at bruge som Mønt.
@@ -124,12 +125,14 @@ høre, maa føle; her og <sp>der</sp>.
 
 <chapter name="demonstrativ, iøjnefaldende">
 <b>demonstrativ</b> (lat.), iøjnefaldende,
-anskueliggørende, stærkt betonende.</chapter>
+anskueliggørende, stærkt betonende.
+</chapter>
 
 <chapter name="Demonstrator">
 <b>Demonstrator</b> (lat.), en, som demonstrerer,
 fremstiller en Sag, fremviser de Genstande,
-hvorover han holder Foredrag.</chapter>
+hvorover han holder Foredrag.
+</chapter>
 
 <chapter name="demonstrere">
 <b>demonstrere</b> (lat.), anskueliggøre, bevise,
@@ -164,7 +167,8 @@ Mus., <i>La nuit</i> [1884] i Luxembourg-Mus.).
 
 <chapter name="Demonterbatteri">
 <b>Demonterbatteri</b> [-måŋ-], se
-<sp>Belejringsbatteri</sp>.</chapter>
+<sp>Belejringsbatteri</sp>.
+</chapter>
 
 <chapter name="demontere, ødelægge det fjendtlige Skyts">
 <b>demontere</b> [-måŋ-] er i Fæstningskrigen at
@@ -184,7 +188,8 @@ et Maskineri i de enkelte Dele.
 <chapter name="demoralisere">
 <b>demoralisere</b> (fr.), moralsk fordærve;
 ødelægge Disciplinen; <sp>Demoralisation</sp>,
-sædelig Fordærvelse, nedbrudt Disciplin.</chapter>
+sædelig Fordærvelse, nedbrudt Disciplin.
+</chapter>
 
 <chapter name="De Morgan, Augustus">
 <b>De Morgan</b> [d<sub>ə</sub>-'må.<sub>ə</sub>g<sub>ə</sub>n], <sp>Augustus</sp>, eng.

@@ -39,7 +39,8 @@ Stjerneskuds meteorologiske Indflydelse.
 
 <chapter name="Coumarouna">
 <b>Coumarouna</b> [kuma'runa]
-(<sp>Coumarounatræ</sp>), se <sp>Dipteryx</sp>.</chapter>
+(<sp>Coumarounatræ</sp>), se <sp>Dipteryx</sp>.
+</chapter>
 
 <chapter name="council">
 <b>council</b> ['ka^uns<sub>i</sub>£] (af lat. <i>consilium</i>,

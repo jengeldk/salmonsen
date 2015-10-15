@@ -124,7 +124,8 @@ upplysningar om orsakerna til Sveaborgs
 <img>G. K. Døbeln.</img>
 
 <chapter name="Døbenavn">
-<b>Døbenavn,</b> se <sp>Navn</sp>.</chapter>
+<b>Døbenavn,</b> se <sp>Navn</sp>.
+</chapter>
 
 <chapter name="Döbereiner">
 <b>Döbereiner</b> ['dø.b<sub>ə</sub>ra^in<sub>ə</sub>r], <sp>Johann

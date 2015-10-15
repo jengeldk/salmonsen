@@ -98,7 +98,8 @@ Kreds under den alm. d. Lægeforening.
 <chapter name="Danske Magazin">
 <b>Danske Magazin</b> [-'si'n], se <sp>danske
 Selskab for Fædrelandets Historie
-og Sprog, Det kgl</sp>.</chapter>
+og Sprog, Det kgl</sp>.
+</chapter>
 
 <chapter name="Danske Privatbaner">
 <b>Danske Privatbaner.</b> Alle de i Danmark

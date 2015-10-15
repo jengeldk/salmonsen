@@ -126,7 +126,8 @@ Jernbanemateriel o. l.
 </chapter>
 
 <chapter name="Dr. H.">
-<b>Dr. H.,</b> se <sp>Tolderlund, H. H. V.</sp></chapter>
+<b>Dr. H.,</b> se <sp>Tolderlund, H. H. V.</sp>
+</chapter>
 
 <chapter name="Driburg">
 <b>Driburg</b> ['dri.burk], Badested i Westfalen,

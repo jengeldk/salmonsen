@@ -15,15 +15,18 @@ Leuckart« [Leipzig 1892]).
 
 <chapter name="dissolut">
 <b>dissolut</b> (lat.), opløst, ubunden, udsvævende;
-<sp>Dissolution</sp>, Opløsning.</chapter>
+<sp>Dissolution</sp>, Opløsning.
+</chapter>
 
 <chapter name="dissolvere">
 <b>dissolvere</b> (lat.), opløse, lade gaa i Stykker,
-smelte, gøre flydende.</chapter>
+smelte, gøre flydende.
+</chapter>
 
 <chapter name="Dissolving views">
 <b>Dissolving views</b> [d<sub>i</sub>'zå£v<sub>i</sub>ŋ'vju.z], se
-<sp>Laterna magica</sp>.</chapter>
+<sp>Laterna magica</sp>.
+</chapter>
 
 <chapter name="Dissonans">
 <b>Dissonans</b> (lat. af <i>dis</i> »til forsk. Sider« og
@@ -55,12 +58,14 @@ opløses uden Forandring af Akkorden.
 </chapter>
 
 <chapter name="Dissyllabum">
-<b>Dissyllabum</b> (gr.), et Tostavelsesord.</chapter>
+<b>Dissyllabum</b> (gr.), et Tostavelsesord.
+</chapter>
 
 <chapter name="Distance">
 <b>Distance</b> [di'staŋs<sub>ə</sub>] (fr., af lat. <i>distántia</i>),
 Afstand, Frastand; <sp>distancere</sp>, overvinde i
-Væddekamp, komme forud for, komme i Forkøbet.</chapter>
+Væddekamp, komme forud for, komme i Forkøbet.
+</chapter>
 
 <chapter name="Distance (Søv.)">
 <b>Distance</b> [di'staŋ's<sub>ə</sub>] (<sp>Søv</sp>.), det Antal Sømil,
@@ -151,7 +156,8 @@ disse Regler.
 
 <chapter name="Distancemaaler">
 <b>Distancemaaler</b> [-'staŋs<sub>ə</sub>-], se
-<sp>Afstandsmaalere</sp>.</chapter>
+<sp>Afstandsmaalere</sp>.
+</chapter>
 
 <chapter name="Distancepæl">
 <b>Distancepæl</b> [-'staŋs<sub>ə</sub>-] er en Pæl eller
@@ -169,7 +175,8 @@ Distancepæl.
 </chapter>
 
 <chapter name="distanceret">
-<b>distanceret</b> [-staŋ'se'-], se <sp>Distancepæl</sp>.</chapter>
+<b>distanceret</b> [-staŋ'se'-], se <sp>Distancepæl</sp>.
+</chapter>
 
 <chapter name="Distanceridt">
 <b>Distanceridt</b> [-'staŋs<sub>ə</sub>-] eller

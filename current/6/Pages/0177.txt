@@ -122,7 +122,8 @@ reguleres med endnu større Nøjagtighed.
 </chapter>
 
 <chapter name="Digeltang">
-<b>Digeltang,</b> se <sp>Bugtang</sp>.</chapter>
+<b>Digeltang,</b> se <sp>Bugtang</sp>.
+</chapter>
 
 <chapter name="Digenis Akritas">
 <b>Digenis Akritas</b> [ðige'nis-], Hovedpersonen

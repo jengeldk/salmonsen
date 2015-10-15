@@ -63,7 +63,8 @@ medbestemmende for D.'s reducerede Antal.
 <b>Dæksbaad,</b> et mindre Fartøj med Dæk fra
 for til agter og 1 Mast. Er Fartøjet aabent i
 Midten, men forsynet med Dæk for, agter og
-langs Skibssiden, kaldes det Halvdæksbaad.</chapter>
+langs Skibssiden, kaldes det Halvdæksbaad.
+</chapter>
 
 <chapter name="Dæksbatteri">
 <b>Dæksbatteri.</b> (<sp>Søv</sp>.) Fællesbetegnelse for
@@ -119,7 +120,8 @@ midtskibs mellem Dækkene under D.
 </chapter>
 
 <chapter name="Dæksel">
-<b>Dæksel,</b> se <sp>Økse</sp>.</chapter>
+<b>Dæksel,</b> se <sp>Økse</sp>.
+</chapter>
 
 <chapter name="Dæksfejere">
 <b>Dæksfejere</b> kaldes nogle 100 Pd.'s 8"'s
@@ -131,7 +133,8 @@ Fjenden entrede Dækket.
 </chapter>
 
 <chapter name="Dækskæl">
-<b>Dækskæl</b> (<sp>bot</sp>.), se <sp>Naaletræer</sp>.</chapter>
+<b>Dækskæl</b> (<sp>bot</sp>.), se <sp>Naaletræer</sp>.
+</chapter>
 
 <chapter name="Dækslast">
 <b>Dækslast</b> benævnes en Last, som anbringes
@@ -165,7 +168,8 @@ Dækket</sp>.
 </chapter>
 
 <chapter name="Dæksofficer">
-<b>Dæksofficer,</b> se <sp>Dæksbesætning</sp>.</chapter>
+<b>Dæksofficer,</b> se <sp>Dæksbesætning</sp>.
+</chapter>
 
 <chapter name="Dæksplanker">
 <b>Dæksplanker,</b> de Træplanker, der anbringes

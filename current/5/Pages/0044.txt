@@ -30,13 +30,16 @@ o. fl. Efter hans Død udkom <i>La juive-errante</i>
 </chapter>
 
 <chapter name="Cladium">
-<b>Cladium,</b> se <sp>Avneknippe</sp>.</chapter>
+<b>Cladium,</b> se <sp>Avneknippe</sp>.
+</chapter>
 
 <chapter name="Cladobates">
-<b>Cladobates,</b> se <sp>Egernspidsmus</sp>.</chapter>
+<b>Cladobates,</b> se <sp>Egernspidsmus</sp>.
+</chapter>
 
 <chapter name="Cladocera">
-<b>Cladocera,</b> se <sp>Dafnier</sp>.</chapter>
+<b>Cladocera,</b> se <sp>Dafnier</sp>.
+</chapter>
 
 <chapter name="Cladonia">
 <b>Cladonia</b> Hill. (<sp>Bægerlav</sp>), en meget

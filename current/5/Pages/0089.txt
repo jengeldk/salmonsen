@@ -8,14 +8,17 @@ tidligere tillagdes C., anses nu for tvivlsomme.
 </chapter>
 
 <chapter name="Clown">
-<b>Clown</b> [k£a^un] (eng.), se <sp>Klovn</sp>.</chapter>
+<b>Clown</b> [k£a^un] (eng.), se <sp>Klovn</sp>.
+</chapter>
 
 <chapter name="Clugny">
-<b>Clugny</b> [kly'ni], se <sp>Cluny</sp>.</chapter>
+<b>Clugny</b> [kly'ni], se <sp>Cluny</sp>.
+</chapter>
 
 <chapter name="Clumber Spaniol">
 <b>Clumber Spaniol</b> ['k£ambə-'spänjə£], en
-eng. Hunderace, se <sp>Hunde</sp>.</chapter>
+eng. Hunderace, se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Clunes">
 <b>Clunes</b> [k£u.nz], By i Australien, Staten
@@ -26,7 +29,8 @@ med rigt Udbytte af Guld.
 </chapter>
 
 <chapter name="Clunia">
-<b>Clunia,</b> se <sp>Aranda de Duero</sp>.</chapter>
+<b>Clunia,</b> se <sp>Aranda de Duero</sp>.
+</chapter>
 
 <chapter name="Cluniacensere">
 <b>Cluniacensere,</b> en Gren af
@@ -100,11 +104,13 @@ Hugenotkrigene og blev lukket 1790.
 </chapter>
 
 <chapter name="Clupea, Clupeidæ">
-<b>Clupea, Clupeidæ,</b> se <sp>Sild</sp>.</chapter>
+<b>Clupea, Clupeidæ,</b> se <sp>Sild</sp>.
+</chapter>
 
 <chapter name="Clupein">
 <b>Clupein,</b> en Protamin (s. d.), der fremstilles
-af Silderogn.</chapter>
+af Silderogn.
+</chapter>
 
 <chapter name="Cluse-et-Mijoux, la">
 <b>Cluse-et-Mijoux, la</b> [la-'kly.z-e-mi'зu],

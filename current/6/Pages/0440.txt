@@ -41,11 +41,13 @@ Jahrbuch für die Stadt D.«; <sp>Schumann</sp>,
 </chapter>
 
 <chapter name="Dresden">
-<b>Dresden</b> ['drezd<sub>ə</sub>n], se <sp>Longton</sp>.</chapter>
+<b>Dresden</b> ['drezd<sub>ə</sub>n], se <sp>Longton</sp>.
+</chapter>
 
 <chapter name="dress">
 <b>dress</b> [eng. dres, da. dræs] (eng.), Dragt;
-Jockeydragt; <i>full d.</i>, Selskabsdragt.</chapter>
+Jockeydragt; <i>full d.</i>, Selskabsdragt.
+</chapter>
 
 <chapter name="Dressel">
 <b>Dressel</b> kaldtes i ældre Tid Kongens
@@ -75,10 +77,12 @@ Kloster.
 
 <chapter name="dressere">
 <b>dressere</b> (fr.), afrette, indøve. Sammenlign
-<sp>Dressur</sp>.</chapter>
+<sp>Dressur</sp>.
+</chapter>
 
 <chapter name="Dressine">
-<b>Dressine,</b> d. s. s. <sp>Draisine</sp>.</chapter>
+<b>Dressine,</b> d. s. s. <sp>Draisine</sp>.
+</chapter>
 
 <chapter name="Dressur">
 <b>Dressur</b> (fr.) er for Hestens Vedkommende
@@ -98,7 +102,8 @@ systematisk fremadskridende, anstrengende Øvelser (se
 <i>(C. G. B.). O. P.</i>
 
 Om D. af Hunde, se <sp>Hunde</sp>, om D. af andre
-Dyr se <sp>Dyrtæmning</sp>.</chapter>
+Dyr se <sp>Dyrtæmning</sp>.
+</chapter>
 
 <chapter name="Dreux">
 <b>Dreux</b> [drø], By i det nordvestlige Frankrig,
@@ -140,7 +145,8 @@ drevne og ikke det drivende.
 Frankrig, Dept Cher, Arrond. Saint-Amand, 5
 km SØ. f. Byen Saint-Amand (Mont-Rond) med
 Ruiner af et rom. Tempel, Teater, Akvædukt,
-Termer m. fl. Levninger af en gallo-rom. By.</chapter>
+Termer m. fl. Levninger af en gallo-rom. By.
+</chapter>
 
 <chapter name="Drevet, Familie af franske Kobberstikkere">
 <b>Drevet</b> [dr<sub>ö</sub>'væ], Familie af franske

@@ -61,7 +61,8 @@ kan give god Vejledning ved Lodning.
 </chapter>
 
 <chapter name="Dybets-Havn">
-<b>Dybets-Havn,</b> se <sp>Dybvig</sp>.</chapter>
+<b>Dybets-Havn,</b> se <sp>Dybvig</sp>.
+</chapter>
 
 <chapter name="Dybfest, Arne">
 <b>Dybfest,</b> <sp>Arne</sp>, norsk Forf., f. i
@@ -88,7 +89,8 @@ Forargelse over for det »dekadente« hos 90-Aarenes
 Kunstnerungdom udvalgte sig ham til
 Syndebuk. Kort efter endte D. selv sit Liv under
 en Sejltur 1892.
-<i>E. S-n.</i>.</chapter>
+<i>E. S-n.</i>
+</chapter>
 
 <chapter name="Dybgaaende">
 <b>Dybgaaende</b> (eng. <i>draught</i>). Et Skibs D. er
@@ -149,7 +151,8 @@ af Smaafartøjer.
 </chapter>
 
 <chapter name="Dybtryk">
-<b>Dybtryk,</b> se <sp>Rotationstryk</sp>.</chapter>
+<b>Dybtryk,</b> se <sp>Rotationstryk</sp>.
+</chapter>
 
 <chapter name="Dybvaag, Herred">
 <b>Dybvaag,</b> <sp>Herred</sp>, Nedenæs Fogderi,

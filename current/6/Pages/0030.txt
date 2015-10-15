@@ -1,5 +1,6 @@
 <chapter name="Deo gratias">
-<b>Deo gratias</b> (lat), Gud være lovet!</chapter>
+<b>Deo gratias</b> (lat), Gud være lovet!
+</chapter>
 
 <chapter name="Déols">
 <b>Déols</b> [de'ål], Forstad til Châteauroux (s. d.)

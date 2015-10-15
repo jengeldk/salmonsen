@@ -62,13 +62,16 @@ Tilskuere.
 </chapter>
 
 <chapter name="Circus, se Kærhøge">
-<b>Circus,</b> se <sp>Kærhøge</sp>.</chapter>
+<b>Circus,</b> se <sp>Kærhøge</sp>.
+</chapter>
 
 <chapter name="Circæa">
-<b>Circæa,</b> se <sp>Steffensurt</sp>.</chapter>
+<b>Circæa,</b> se <sp>Steffensurt</sp>.
+</chapter>
 
 <chapter name="Circætus">
-<b>Circætus,</b> se <sp>Slangeørn</sp>.</chapter>
+<b>Circætus,</b> se <sp>Slangeørn</sp>.
+</chapter>
 
 <chapter name="Cirencester">
 <b>Cirencester</b> ['sis<sub>i</sub>stə eller 'sis<sub>i</sub>tə tidligere

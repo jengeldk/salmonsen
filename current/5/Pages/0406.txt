@@ -26,7 +26,8 @@ Cølestinereremitter.
 </chapter>
 
 <chapter name="Cølestius">
-<b>Cølestius,</b> se <sp>Pelagius</sp>.</chapter>
+<b>Cølestius,</b> se <sp>Pelagius</sp>.
+</chapter>
 
 <chapter name="Cølesyrien">
 <b>Cølesyrien</b> (lat.: <i>coele Syria</i>, af gr. κοίλος,
@@ -41,7 +42,8 @@ N. til Seleucia, mod N. til Sinai, ofte som C.
 </chapter>
 
 <chapter name="Cølialgi">
-<b>Cølialgi,</b> Underlivssmerter, Kolik.</chapter>
+<b>Cølialgi,</b> Underlivssmerter, Kolik.
+</chapter>
 
 <chapter name="Cølibat">
 <b>Cølibat</b> (af lat. <i>coelebs</i>, ugift), ugift Stand,

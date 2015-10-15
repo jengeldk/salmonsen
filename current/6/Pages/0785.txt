@@ -5,7 +5,8 @@ vigtigere Pladser.
 
 <chapter name="Efterretningskontor">
 <b>Efterretningskontor,</b> se
-<sp>Oplysningskontor</sp>.</chapter>
+<sp>Oplysningskontor</sp>.
+</chapter>
 
 <chapter name="Efterretningsvæsen">
 <b>Efterretningsvæsen</b> er Navnet paa en
@@ -108,10 +109,12 @@ perçue</i>.
 </chapter>
 
 <chapter name="efter Sigt">
-<b>efter Sigt,</b> se <sp>Avisoveksel</sp>.</chapter>
+<b>efter Sigt,</b> se <sp>Avisoveksel</sp>.
+</chapter>
 
 <chapter name="Efterskrivning af Navn">
-<b>Efterskrivning af Navn,</b> se <sp>Falsk</sp>.</chapter>
+<b>Efterskrivning af Navn,</b> se <sp>Falsk</sp>.
+</chapter>
 
 <chapter name="Efterslag">
 <b>Efterslag</b> betegner i Musikken to Arter af

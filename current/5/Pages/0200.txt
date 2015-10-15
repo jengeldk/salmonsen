@@ -75,7 +75,8 @@ Statsforfatningsret. - I samme Bet. bruges det fr.
 
 <chapter name="Constitutiones apostolicæ">
 <b>Constitutiones apostolicæ,</b> se
-<sp>apostoliske Konstitutioner</sp>.</chapter>
+<sp>apostoliske Konstitutioner</sp>.
+</chapter>
 
 <chapter name="Constitutio Valdemariana">
 <b>Constitutio Valdemariana</b> ell. <sp>Valdemari</sp>
@@ -155,7 +156,8 @@ tilsvarende til <sp>Adstringentia</sp> (s. d.).
 </chapter>
 
 <chapter name="Consualia">
-<b>Consualia</b> (lat.), Fest for <sp>Consus</sp>.</chapter>
+<b>Consualia</b> (lat.), Fest for <sp>Consus</sp>.
+</chapter>
 
 <chapter name="Consuegra">
 <b>Consuegra</b> [kån's<sub>u</sub>ægra] (Romernes

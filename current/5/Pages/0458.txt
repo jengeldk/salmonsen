@@ -68,7 +68,8 @@ Marts 1904). Den deles i 100 cents.
 </chapter>
 
 <chapter name="Dalfjällen">
-<b>Dalfjällen,</b> se <sp>Almebergen</sp>.</chapter>
+<b>Dalfjällen,</b> se <sp>Almebergen</sp>.
+</chapter>
 
 <chapter name="Dalgas, Carl Frederik Isak">
 <b>Dalgas,</b> <sp>Carl Frederik Isak</sp>, dansk

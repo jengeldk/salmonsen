@@ -62,7 +62,8 @@ Palæography</i> [nyt Opl., Lond. 1879]).
 </chapter>
 
 <chapter name="Dravit">
-<b>Dravit,</b> se <sp>Turmalin</sp>.</chapter>
+<b>Dravit,</b> se <sp>Turmalin</sp>.
+</chapter>
 
 <chapter name="Drawback">
 <b>Drawback</b> ['drå.b<sub>ä</sub>k]. Til Lettelse for
@@ -111,10 +112,12 @@ sig tilbage«]), i England Modtagelsesværelse,
 Salon. Kongens ell. Dronningens d. kaldes den
 Modtagelse, ved hvilken de Personer, der har
 Ret til at blive forestillede ved Hoffet, giver
-Møde.</chapter>
+Møde.
+</chapter>
 
 <chapter name="Drayton">
-<b>Drayton</b> ['dre<sub>i</sub>tn], se <sp>Market-D</sp>.</chapter>
+<b>Drayton</b> ['dre<sub>i</sub>tn], se <sp>Market-D</sp>.
+</chapter>
 
 <chapter name="Drayton, Michael">
 <b>Drayton</b> ['dre<sub>i</sub>tn], <sp>Michael</sp>, eng. Digter

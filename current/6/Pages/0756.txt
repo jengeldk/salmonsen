@@ -6,7 +6,8 @@ of Sibyls</i> [1883]).
 </chapter>
 
 <chapter name="Edgren, A. Ch.">
-<b>Edgren</b> ['e.dgre.n], A. Ch., se <sp>Leffler</sp>.</chapter>
+<b>Edgren</b> ['e.dgre.n], A. Ch., se <sp>Leffler</sp>.
+</chapter>
 
 <chapter name="Edgren, August Hjalmar">
 <b>Edgren</b> ['e.dgre.n], <sp>August Hjalmar</sp>,
@@ -76,7 +77,8 @@ bestandig en bestemt kristenfjendsk Politik.
 </chapter>
 
 <chapter name="edictum">
-<b>edictum,</b> se <sp>Edikt</sp>.</chapter>
+<b>edictum,</b> se <sp>Edikt</sp>.
+</chapter>
 
 <chapter name="Edictum Theodorici">
 <b>Edictum Theodorici</b> (lat.) er Navnet paa
@@ -115,12 +117,14 @@ langobardisk Arveret« [1901]. - Ediktet er udg. af
 
 <chapter name="Edictus Rothari">
 <b>Edictus Rothari,</b> se <sp>Edictus
-Langobardorum</sp>.</chapter>
+Langobardorum</sp>.
+</chapter>
 
 <chapter name="edidit">
 <b>edidit</b> (lat.), fork. <i>ed.</i>, »har udgivet«; om fl.
 Udgivere: <sp>ediderunt</sp> (<i>edd.</i>). Sættes paa
-Bogtitler ved Udgiverens ell. Udgivernes Navn.</chapter>
+Bogtitler ved Udgiverens ell. Udgivernes Navn.
+</chapter>
 
 <chapter name="Edikt">
 <b>Edikt</b> (lat. <i>edictum</i>), enhver offentlig

@@ -13,7 +13,8 @@ beskæftigede D. sig med Komposition.
 </chapter>
 
 <chapter name="Døjt">
-<b>Døjt,</b> se <sp>Deut</sp>.</chapter>
+<b>Døjt,</b> se <sp>Deut</sp>.
+</chapter>
 
 <chapter name="Døl">
 <b>Døl</b> betyder i Norge en Dalbo, enkelte Steder
@@ -67,7 +68,8 @@ i samling«, Bd I-II (1916-17).
 
 <chapter name="Dølgsmaal">
 <b>Dølgsmaal,</b> se <sp>Barnefødsel i
-Dølgsmaal</sp>.</chapter>
+Dølgsmaal</sp>.
+</chapter>
 
 <chapter name="Dølle">
 <b>Dølle,</b> Rør af Metal, der som et Hylster

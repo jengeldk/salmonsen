@@ -92,7 +92,8 @@ Ledningsadskillere ell. Afbrydere (se i øvrigt
 
 <chapter name="elektrisk Elementarkvantum">
 <b>elektrisk Elementarkvantum,</b> se
-Elektron.</chapter>
+Elektron.
+</chapter>
 
 <chapter name="elektriske Maaleenheder">
 <b>elektriske Maaleenheder.</b> Trangen til et

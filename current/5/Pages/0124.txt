@@ -117,7 +117,8 @@ afrikanske Romancer, en Operette m. m.
 </chapter>
 
 <chapter name="Coleroon">
-<b>Coleroon</b> ['ko<sub>u</sub>£ru.n ell. 'kå£-], se <sp>Kaweri</sp>.</chapter>
+<b>Coleroon</b> ['ko<sub>u</sub>£ru.n ell. 'kå£-], se <sp>Kaweri</sp>.
+</chapter>
 
 <chapter name="Colesberg">
 <b>Colesberg</b> ['ko<sub>u</sub>£bəg], By i et Distrikt af
@@ -130,7 +131,8 @@ vigtige Diamantminer.
 
 <chapter name="Coles'ske Taarne">
 <b>Coles'ske Taarne</b> ['ko<sub>u</sub>£sk<sub>ə</sub>-], se
-<sp>Drejetaarne</sp>.</chapter>
+<sp>Drejetaarne</sp>.
+</chapter>
 
 <chapter name="Colet, Louise">
 <b>Colet</b> [kä'læ], <sp>Louise</sp>, f. <sp>Révoil</sp>, fr.
@@ -155,4 +157,5 @@ Venskabsforhold.
 </chapter>
 
 <chapter name="coletur">
-<b>coletur,</b> paa Recepter, »sies«.</chapter>
+<b>coletur,</b> paa Recepter, »sies«.
+</chapter>

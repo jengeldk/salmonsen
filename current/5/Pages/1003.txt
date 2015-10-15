@@ -29,10 +29,12 @@ hvilket som helst andet Antal Dele.
 </chapter>
 
 <chapter name="Delingsvæv">
-<b>Delingsvæv,</b> se <sp>Dannelsesvæv</sp>.</chapter>
+<b>Delingsvæv,</b> se <sp>Dannelsesvæv</sp>.
+</chapter>
 
 <chapter name="Delinkvent">
-<b>Delinkvent</b> (lat.), fængslet Forbryder.</chapter>
+<b>Delinkvent</b> (lat.), fængslet Forbryder.
+</chapter>
 
 <chapter name="Delion">
 <b>Delion,</b> lille By i Nærheden af Tanagra i
@@ -44,10 +46,12 @@ ved D.
 </chapter>
 
 <chapter name="Delirant">
-<b>Delirant,</b> en af Delirium angreben Person.</chapter>
+<b>Delirant,</b> en af Delirium angreben Person.
+</chapter>
 
 <chapter name="delirere">
-<b>delirere,</b> se <sp>Delirium</sp>.</chapter>
+<b>delirere,</b> se <sp>Delirium</sp>.
+</chapter>
 
 <chapter name="Delirium">
 <b>Delirium</b> er en sygelig Tilstand med

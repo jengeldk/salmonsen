@@ -76,7 +76,8 @@ Bastionens Kurtinepunkter.
 </chapter>
 
 <chapter name="Demijahn">
-<b>Demijahn,</b> se <sp>Demijohn</sp>.</chapter>
+<b>Demijahn,</b> se <sp>Demijohn</sp>.
+</chapter>
 
 <chapter name="Demijohn">
 <b>Demijohn</b> ['dem<sub>i</sub>dзån] (eng.; fr. <i>damejeanne</i>,
@@ -96,7 +97,8 @@ Vestindien, og den mest kendte Benævnelse var
 <chapter name="demilune">
 <b>demilune</b> [d<sub>ö</sub>mi'lyn] (fr.), Halvmaane,
 Betegnelse for et af Udenværkerne i det
-bastionære Grundrids (s. d.).</chapter>
+bastionære Grundrids (s. d.).
+</chapter>
 
 <chapter name="demimonde">
 <b>demimonde</b> [da. demi'måŋd<sub>ə</sub>, fr. d<sub>ö</sub>mi'må.d]
@@ -107,16 +109,19 @@ løse Eksistenser, der i Ydre, Sæder og Levevis
 søger at efterabe <i>le beau-monde</i>, og benyttes
 især om Damer af tvivlsomt Rygte, der staar
 paa et noget højere Trin end de prostituerede
-Kvinder.</chapter>
+Kvinder.
+</chapter>
 
 <chapter name="Demir-Basch">
 <b>Demir-Basch</b> [de'mir-'ba∫] (tyrk., af <i>demir</i>,
 Jern, og <i>basch</i>, Hoved), »Jernhovedet«, et
 Tilnavn, Tyrkerne gav den sv. Kong Karl XII
-efter Kalabalikken i Bender.</chapter>
+efter Kalabalikken i Bender.
+</chapter>
 
 <chapter name="Demirelief">
-<b>Demirelief</b> [de'mir<sub>ə</sub>l<sub>i</sub>æf], se <sp>Relief</sp>.</chapter>
+<b>Demirelief</b> [de'mir<sub>ə</sub>l<sub>i</sub>æf], se <sp>Relief</sp>.
+</chapter>
 
 <chapter name="Demir-Hissar">
 <b>Demir-Hissar</b> (»Jernborgen«), By i
@@ -128,23 +133,27 @@ tyrk. Indb.
 </chapter>
 
 <chapter name="Demir-Kapu">
-<b>Demir-Kapu,</b> se <sp>Jernporten</sp>.</chapter>
+<b>Demir-Kapu,</b> se <sp>Jernporten</sp>.
+</chapter>
 
 <chapter name="Demission">
 <b>Demission</b> (fr.), Afsked, Embedsnedlæggelse;
 <sp>demissionere</sp>, nedlægge sit Embede. Se
-endvidere <sp>Dimission</sp>.</chapter>
+endvidere <sp>Dimission</sp>.
+</chapter>
 
 <chapter name="Demiurger">
 <b>Demiurger</b> kaldtes i Oldtiden Øvrigheden i
-fl. gr. Stater, f. Eks. i Delfi.</chapter>
+fl. gr. Stater, f. Eks. i Delfi.
+</chapter>
 
 <chapter name="demi-vierge">
 <b>demi-vierge</b> [d<sub>ö</sub>'mi-'v<sub>i</sub>ærз] (fr.), Halvjomfru
 ɔ: ung Kvinde, som vel er Jomfru, men dog
 sjælelig ukysk. Den fr. Forf. <sp>Marcel
 Prévost</sp> har skabt dette Navn i Romanen <i>Les
-Demi-Vierges</i>.</chapter>
+Demi-Vierges</i>.
+</chapter>
 
 <chapter name="Demmin">
 <b>Demmin</b> [dæ'mi.n], By i den preuss. Prov.
@@ -172,10 +181,12 @@ Margarinefabrikation, Kalkbrænderi, Brændevinsbrænderi og
 
 <chapter name="Demobilisering">
 <b>Demobilisering,</b> Hærens Overgang fra Krigs-
-til Fredsfod. Smlg. <sp>Mobilisering</sp>.</chapter>
+til Fredsfod. Smlg. <sp>Mobilisering</sp>.
+</chapter>
 
 <chapter name="Demodex">
-<b>Demodex,</b> se <sp>Haarsækmider</sp>.</chapter>
+<b>Demodex,</b> se <sp>Haarsækmider</sp>.
+</chapter>
 
 <chapter name="Demodokos">
 <b>Demodokos</b> er i Odysseen Navnet paa en

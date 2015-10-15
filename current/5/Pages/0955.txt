@@ -75,11 +75,13 @@ Indløsning af et Pant, Befrielse fra et Løfte,
 Utvungenhed, Aabenhed. I Bygningskunsten: et
 Siderum, en Sideudgang med en hemmelig
 Trappe. I Træskærerkunsten: Omridsenes
-Skarphed og Renhed. Se tillige <sp>degagere</sp>.</chapter>
+Skarphed og Renhed. Se tillige <sp>degagere</sp>.
+</chapter>
 
 <chapter name="Degas">
 <b>Degas,</b> de højeste Klima- og Planteregioner
-i det abessiniske Højland (se <sp>Abessinien</sp>).</chapter>
+i det abessiniske Højland (se <sp>Abessinien</sp>).
+</chapter>
 
 <chapter name="Degas, Edgar Hilaire Germain">
 <b>Degas</b> [d<sub>ö</sub>'ga], <sp>Edgar Hilaire Germain</sp>,

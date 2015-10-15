@@ -81,11 +81,13 @@ Mennesker.
 hvori en Spaltefrugt deles ved Frugtbladenes
 Adskillelse fra hverandre. Eksempler:
 Skærmplanterne har 2 D., Læbeblomstrede 4, Katost
-talrige. Overalt har D. Karakteren af en Nød.</chapter>
+talrige. Overalt har D. Karakteren af en Nød.
+</chapter>
 
 <chapter name="Delfshaven">
 <b>Delfshaven</b> ['dælfsha.f<sub>ə</sub>n], By i Holland, blev
-1886 indlemmet i Rotterdam.</chapter>
+1886 indlemmet i Rotterdam.
+</chapter>
 
 <chapter name="Delft">
 <b>Delft,</b> By i Kongeriget Holland, Prov.

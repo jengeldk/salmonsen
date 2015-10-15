@@ -70,14 +70,17 @@ maa man have gennemgaaet de 4 D.
 
 <chapter name="Dhyani-Bodhisattva og Dhyani-Buddha">
 <b>Dhyani-Bodhisattva</b> og <b>Dhyani-Buddha,</b>
-se <sp>Buddha</sp>.</chapter>
+se <sp>Buddha</sp>.
+</chapter>
 
 <chapter name="Di">
-<b>Di,</b> kem. Tegn for Didym.</chapter>
+<b>Di,</b> kem. Tegn for Didym.
+</chapter>
 
 <chapter name="Di-">
 <b>Di-</b> (græ.), Forstavelse med Bet. <sp>dobbelt</sp>,
-f. Eks. Diftong, Tve-lyd.</chapter>
+f. Eks. Diftong, Tve-lyd.
+</chapter>
 
 <chapter name="Dia">
 <b>Dia</b> (<sp>Standia</sp>), en lille Ø ved Nordkysten

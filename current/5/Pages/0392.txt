@@ -49,7 +49,8 @@ disse har lidet forgrenede Rødder.
 </chapter>
 
 <chapter name="Cytoblast">
-<b>Cytoblast,</b> d. s. s. <sp>Cellekerne</sp>.</chapter>
+<b>Cytoblast,</b> d. s. s. <sp>Cellekerne</sp>.
+</chapter>
 
 <chapter name="Cytoblastem">
 <b>Cytoblastem.</b> Ifølge en nu forladt Teori
@@ -60,7 +61,8 @@ at Celler kun opstaar af andre Celler.
 </chapter>
 
 <chapter name="Cytode">
-<b>Cytode,</b> d. s. s. <sp>kerneløs Celle</sp>.</chapter>
+<b>Cytode,</b> d. s. s. <sp>kerneløs Celle</sp>.
+</chapter>
 
 <chapter name="cytofil">
 <b>cytofil</b> (κύτος = Celle; φίλους = kær)
@@ -77,7 +79,8 @@ Komplementet (se i øvrigt <sp>Amboceptor</sp> og
 
 <chapter name="cytogent Væv">
 <b>cytogent Væv,</b> d. s. s. <sp>retikulært
-Bindevæv</sp>.</chapter>
+Bindevæv</sp>.
+</chapter>
 
 <chapter name="Cytologi">
 <b>Cytologi</b> (<sp>bot</sp>.) betyder egl. Læren om Cellen,
@@ -120,7 +123,8 @@ ell. <sp>Cytotoxin</sp>.
 </chapter>
 
 <chapter name="Cytoplasma">
-<b>Cytoplasma,</b> se <sp>Celle</sp>.</chapter>
+<b>Cytoplasma,</b> se <sp>Celle</sp>.
+</chapter>
 
 <chapter name="Cytoryctes">
 <b>Cytoryctes.</b> De af <sp>Pfeiffer</sp> først
@@ -175,4 +179,5 @@ i øvrigt <sp>Chempterapi</sp>.
 
 <chapter name="Cz ...">
 <b>Cz ...</b> [t∫-] (slaviske Ord, som savnes
-herunder, maa søges under Tsch . . .).</chapter>
+herunder, maa søges under Tsch . . .).
+</chapter>

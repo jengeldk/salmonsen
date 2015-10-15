@@ -9,12 +9,14 @@ falder ind under Slægtsbegrebet.
 
 <chapter name="determinato">
 <b>determinato</b> (ital.), mus.
-Foredragsbetegnelse: bestemt, skarpt markeret.</chapter>
+Foredragsbetegnelse: bestemt, skarpt markeret.
+</chapter>
 
 <chapter name="determinere">
 <b>determinere</b> (lat.), bestemme, afgøre;
 <sp>determineret</sp>, bestemt, afgjort, uforfærdet,
-beslutsom.</chapter>
+beslutsom.
+</chapter>
 
 <chapter name="Determinisme">
 <b>Determinisme</b> (lat.) kaldes i Filosofien den
@@ -32,19 +34,23 @@ Interesse.
 </chapter>
 
 <chapter name="detestabel">
-<b>detestabel,</b> se <sp>detestere</sp>.</chapter>
+<b>detestabel,</b> se <sp>detestere</sp>.
+</chapter>
 
 <chapter name="detestere">
 <b>detestere</b> (lat.), forbande, afsky; <sp>detestabel</sp>,
-som fortjener Afsky, afskyelig, ussel.</chapter>
+som fortjener Afsky, afskyelig, ussel.
+</chapter>
 
 <chapter name="Det forenede Dampskibsselskab">
 <b>Det forenede Dampskibsselskab,</b> se
-<sp>Dampskibsselskab</sp>.</chapter>
+<sp>Dampskibsselskab</sp>.
+</chapter>
 
 <chapter name="Det forenede danske Livsforsikrings-Aktieselskab Hafnia">
 <b>Det forenede danske
-Livsforsikrings-Aktieselskab Hafnia,</b> se <sp>Hafnia</sp>.</chapter>
+Livsforsikrings-Aktieselskab Hafnia,</b> se <sp>Hafnia</sp>.
+</chapter>
 
 <chapter name="Detharding, Georg">
 <b>Detharding,</b> <sp>Georg</sp>, tysk Læge, f. 13. Maj
@@ -85,36 +91,44 @@ næppe noget ved hans Indkaldelse.
 
 <chapter name="Det kgl. danske geografiske Selskab">
 <b>Det kgl. danske geografiske Selskab,</b>
-se <sp>Danske geogr. Selskab</sp>.</chapter>
+se <sp>Danske geogr. Selskab</sp>.
+</chapter>
 
 <chapter name="Det kgl. danske Haveselskab">
 <b>Det kgl. danske Haveselskab,</b> se
-<sp>Danske Haveselskaber</sp>.</chapter>
+<sp>Danske Haveselskaber</sp>.
+</chapter>
 
 <chapter name="Det kgl. danske Musikkonservatorium">
 <b>Det kgl. danske Musikkonservatorium,</b> se
-<sp>Konservatorium</sp>.</chapter>
+<sp>Konservatorium</sp>.
+</chapter>
 
 <chapter name="Det kgl. danske oktroyerede Sø-Assurance-Kompagni">
 <b>Det kgl. danske oktroyerede
-Sø-Assurance-Kompagni,</b> se <sp>Søforsikring</sp>.</chapter>
+Sø-Assurance-Kompagni,</b> se <sp>Søforsikring</sp>.
+</chapter>
 
 <chapter name="Det kgl. danske Selskab for Fædrelandets Historie og Sprog">
 <b>Det kgl. danske Selskab for
 Fædrelandets Historie og Sprog,</b> se <sp>Danske
 Selskab for Fædrelandets Historie
-og Sprog</sp>.</chapter>
+og Sprog</sp>.
+</chapter>
 
 <chapter name="Det kgl. danske Videnskabernes Selskab">
 <b>Det kgl. danske Videnskabernes Selskab,</b>
-se <sp>Danske Videnskabernes Selskab</sp>.</chapter>
+se <sp>Danske Videnskabernes Selskab</sp>.
+</chapter>
 
 <chapter name="Det kgl. nordiske Oldskriftsselskab">
 <b>Det kgl. nordiske Oldskriftsselskab,</b> se
-<sp>Oldskriftsselskab</sp>.</chapter>
+<sp>Oldskriftsselskab</sp>.
+</chapter>
 
 <chapter name="Det kongelige Teater">
-<b>Det kongelige Teater,</b> se <sp>Danmark</sp>, »Teater«.</chapter>
+<b>Det kongelige Teater,</b> se <sp>Danmark</sp>, »Teater«.
+</chapter>
 
 <chapter name="Detmer, Wilhelm">
 <b>Detmer</b> ['dætm<sub>ə</sub>r], <sp>Wilhelm</sp>, tysk Kemiker

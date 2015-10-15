@@ -119,7 +119,7 @@ Døren.
 
 <chapter name="fallere, Fallent">
 <b>fallere, Fallent,</b> se <sp>Konkurs</sp>.
- </chapter>
+</chapter>
 
 <chapter name="Fallersleben, Hoffmann von">
 <b>Fallersleben</b> [’fal-] <sp>Hoffmann von</sp>, se

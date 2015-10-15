@@ -26,12 +26,14 @@ in Italia</i> [Turin 1884]).
 </chapter>
 
 <chapter name="Commedia divina">
-<b>Commedia divina,</b> se <sp>Dante</sp>.</chapter>
+<b>Commedia divina,</b> se <sp>Dante</sp>.
+</chapter>
 
 <chapter name="comme il faut">
 <b>comme il faut</b> [kåm-il-'fo] (fr.), som det
 bør være, passende; med fine Manerer; paa
-Moden, o. l.</chapter>
+Moden, o. l.
+</chapter>
 
 <chapter name="Commelina L.">
 <b>Commelina</b> L., Slægt af Commelinaceer, hvis
@@ -83,10 +85,12 @@ Prydplanter.
 <b>commemoratio</b> (lat.), Omtale; i den
 katolske Kirke: Mindefest; <i>c. omnium defunctorum</i>,
 Alle Sjæles Fest; <i>c. omnium sanctorum</i>, Alle
-Helgens Dag.</chapter>
+Helgens Dag.
+</chapter>
 
 <chapter name="commenda, se Komménde">
-<b>commenda,</b> se <sp>Komménde</sp>.</chapter>
+<b>commenda,</b> se <sp>Komménde</sp>.
+</chapter>
 
 <chapter name="commenda, en Kontrakt">
 <b>commenda,</b> i Middelalderen Betegnelse for
@@ -100,7 +104,8 @@ mellem Parterne efter aftalt Maalestok. Deraf
 
 <chapter name="commendationes">
 <b>commendationes,</b> se
-<sp>Kommendationer</sp>.</chapter>
+<sp>Kommendationer</sp>.
+</chapter>
 
 <chapter name="commentarii">
 <b>commentarii</b> (lat.), Optegnelser for at huske

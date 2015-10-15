@@ -69,7 +69,8 @@ Kvartetter).
 
 <chapter name="cæur">
 <b>cæur</b> [kö.r] (fr.), Hjerte; i Kortspil »Hjerter«
-efter det røde Hjerte paa Kortet.</chapter>
+efter det røde Hjerte paa Kortet.
+</chapter>
 
 <chapter name="Coeur, Jacques">
 <b>Coeur</b> [kö.r], moderne Skrivemaade for <sp>Cuer</sp>,

@@ -45,7 +45,8 @@ Voltaire undertegnede endog mange af sine Breve
 med disse Ord, Forkortningerne <i>écr. l'inf.</i> . . .
 ell. <i>écrlinfs</i>, for herved at lede de Embedsmænd,
 under hvem Aabningen af farlige Statsbreve
-sorterede, paa Vildspor.</chapter>
+sorterede, paa Vildspor.
+</chapter>
 
 <chapter name="Écrevisse, Peter">
 <b>Écrevisse</b> [ekr<sub>ə</sub>'vis], <sp>Peter</sp>, flamsk Forf.,
@@ -75,13 +76,16 @@ E. Whymper.
 
 <chapter name="Écru">
 <b>Écru</b> [e'kryj (fr.), raa (Silke), ubleget
-Lærred o. l.</chapter>
+Lærred o. l.
+</chapter>
 
 <chapter name="Ectopistes">
-<b>Ectopistes</b> (Vandredue), se <sp>Duer</sp>.</chapter>
+<b>Ectopistes</b> (Vandredue), se <sp>Duer</sp>.
+</chapter>
 
 <chapter name="Ectoprocta">
-<b>Ectoprocta,</b> se <sp>Mosdyr</sp>.</chapter>
+<b>Ectoprocta,</b> se <sp>Mosdyr</sp>.
+</chapter>
 
 <chapter name="Écu">
 <b>Écu</b> [e'ky], Navn paa fl. ældre fr.
@@ -101,7 +105,8 @@ afskaffedes og inddroges i Beg. af 19. Aarh.
 
 <chapter name="Écu">
 <b>Écu</b> [e'ky], fr. Betegnelse for et
-Papirformat, omtr. som lille Median.</chapter>
+Papirformat, omtr. som lille Median.
+</chapter>
 
 <chapter name="Ecuador">
 <b>Ecuador</b> [æk<sub>u</sub>a'ðår], Republik i Sydamerika,

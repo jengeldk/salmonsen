@@ -71,7 +71,8 @@ Sommeren; i »Ulvedalene« drives Skiløb om Vinteren.
 </chapter>
 
 <chapter name="Dyrehund">
-<b>Dyrehund,</b> se <sp>Hunde</sp>.</chapter>
+<b>Dyrehund,</b> se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Dyrekampe">
 <b>Dyrekampe</b> (lat. <i>venationes</i>, »Jagter«), d.

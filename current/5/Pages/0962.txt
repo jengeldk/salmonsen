@@ -66,17 +66,21 @@ sidste fuldstændige Færdiggørelse af et Stof.
 </chapter>
 
 <chapter name="de Gubernatis">
-<b>de Gubernatis,</b> se <sp>Gubernatis</sp>.</chapter>
+<b>de Gubernatis,</b> se <sp>Gubernatis</sp>.
+</chapter>
 
 <chapter name="degummere">
-<b>degummere,</b> se <sp>Silke</sp>.</chapter>
+<b>degummere,</b> se <sp>Silke</sp>.
+</chapter>
 
 <chapter name="de gustibus non est disputandum">
 <b>de gustibus non est disputandum</b> (lat.),
-»om Smagssager kan (ell. bør) ikke disputeres«.</chapter>
+»om Smagssager kan (ell. bør) ikke disputeres«.
+</chapter>
 
 <chapter name="Degut">
-<b>Degut</b> [russ. 'd<sub>j</sub>åg<sub>å</sub>t], se <sp>Birketjære</sp>.</chapter>
+<b>Degut</b> [russ. 'd<sub>j</sub>åg<sub>å</sub>t], se <sp>Birketjære</sp>.
+</chapter>
 
 <chapter name="Dehaan, Willem">
 <b>Dehaan</b> [d<sub>ə</sub>'ha.n], <sp>Willem</sp>, holl. Musiker,

@@ -16,7 +16,8 @@ der driver livlig Handel.
 </chapter>
 
 <chapter name="Cornwall, B.">
-<b>Cornwall</b> ['kå.<sub>ə</sub>nw<sub>å</sub>£ ell. -w<sub>ə</sub>£], <sp>B.</sp>, se <sp>Procter</sp>.</chapter>
+<b>Cornwall</b> ['kå.<sub>ə</sub>nw<sub>å</sub>£ ell. -w<sub>ə</sub>£], <sp>B.</sp>, se <sp>Procter</sp>.
+</chapter>
 
 <chapter name="Cornwallis, Charles Mann">
 <b>Cornwallis</b> [kå<sub>ə</sub>n'wå£<sub>i</sub>s], <sp>Charles Mann</sp>,
@@ -92,7 +93,8 @@ Farvande, deltog i Slaget ved Grenada (1779)
 og hjemførte 1780 den saarede Nelson. Senere
 kæmpede han paa ny med stor Dygtighed med
 Franskmændene og erobrede 1792 Pondichery.
-1799 blev han Admiral.</chapter>
+1799 blev han Admiral.
+</chapter>
 
 <chapter name="Cornwallis-Ø">
 <b>Cornwallis-Ø</b> [kå<sub>ə</sub>n'wå£<sub>i</sub>s-], 1) en af de
@@ -173,10 +175,12 @@ udføres.
 
 <chapter name="Coromandel">
 <b>Coromandel</b> [kår<sub>ə</sub>'mänd<sub>ə</sub>£] <b>-Kysten</b>
-(<sp>Koromandel</sp>), Navn paa Østkysten af Dekan.</chapter>
+(<sp>Koromandel</sp>), Navn paa Østkysten af Dekan.
+</chapter>
 
 <chapter name="Corona">
-<b>Corona</b> (<sp>astron</sp>.), se 1) <sp>Solen</sp>, 2) <sp>Kronen</sp>.</chapter>
+<b>Corona</b> (<sp>astron</sp>.), se 1) <sp>Solen</sp>, 2) <sp>Kronen</sp>.
+</chapter>
 
 <chapter name="corona">
 <b>corona</b> (lat.), Krans, Krone. Kransen brugtes

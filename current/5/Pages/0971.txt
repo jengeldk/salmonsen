@@ -91,26 +91,32 @@ Filadelfeia (Raboth Ammon), Gerasa, Pella,
 Gadara, Hippos, Dion, Kanatha (Kenath) og
 Rafana. V. f. Jordan laa Skythopolis (Bethsean)
 og nordligere Damaskus.
-(<i>(M. M.). H. H. R.</i></chapter>
+<i>(M. M.). H. H. R.</i>
+</chapter>
 
 <chapter name="Dekara">
 <b>Dekara</b> [ðæ-]. nygræsk, Mønt = 10 Lepta
-(se <sp>Drachme</sp>).</chapter>
+(se <sp>Drachme</sp>).
+</chapter>
 
 <chapter name="Dekartering">
 <b>Dekartering,</b> en alm. benyttet fejlagtig
-Benævnelse for <sp>Dekatering</sp> (se <sp>Appretur</sp>).</chapter>
+Benævnelse for <sp>Dekatering</sp> (se <sp>Appretur</sp>).
+</chapter>
 
 <chapter name="Dekastère">
 <b>Dekastere</b> = 10 <i>Stères</i>, se <sp>metrisk
-Maal</sp>.</chapter>
+Maal</sp>.
+</chapter>
 
 <chapter name="Dekastichon">
 <b>Dekastichon</b> [-kon] (gr.), Versstrofe paa 10
-Linier.</chapter>
+Linier.
+</chapter>
 
 <chapter name="dekastylos">
-<b>dekastylos</b> (gr. Adj.), »med ti Søjler«.</chapter>
+<b>dekastylos</b> (gr. Adj.), »med ti Søjler«.
+</chapter>
 
 <chapter name="Dekate">
 <b>Dekate,</b> Tiendedel, »Tiende«, Betegnelse for

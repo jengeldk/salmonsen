@@ -38,17 +38,21 @@ indtager den uhyre Strækninger af Cordillererne.
 
 <chapter name="Dioritaplit">
 <b>Dioritaplit,</b> aplitiske finkornede
-Gangbjergarter af Dioritrækken.</chapter>
+Gangbjergarter af Dioritrækken.
+</chapter>
 
 <chapter name="Dioritgabbro">
 <b>Dioritgabbro,</b> Overgangsbjergart mellem
-Diorit og Gabbro.</chapter>
+Diorit og Gabbro.
+</chapter>
 
 <chapter name="Dioritporfyrit">
-<b>Dioritporfyrit,</b> se <sp>Porfyrit</sp>.</chapter>
+<b>Dioritporfyrit,</b> se <sp>Porfyrit</sp>.
+</chapter>
 
 <chapter name="Dioscorea">
-<b>Dioscorea,</b> se <sp>Dioscoreaceæ</sp>.</chapter>
+<b>Dioscorea,</b> se <sp>Dioscoreaceæ</sp>.
+</chapter>
 
 <chapter name="Dioscoreaceæ">
 <b>Dioscoreaceæ,</b> Familie af enkimbladede

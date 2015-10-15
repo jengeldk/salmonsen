@@ -40,10 +40,12 @@ ved Fotografering af totale Solformørkelser.
 </chapter>
 
 <chapter name="coena">
-<b>coena</b> ['sö-], se <sp>cena</sp>.</chapter>
+<b>coena</b> ['sö-], se <sp>cena</sp>.
+</chapter>
 
 <chapter name="Coenurus">
-<b>Coenurus</b> [sø-], se <sp>Bændelorme</sp>.</chapter>
+<b>Coenurus</b> [sø-], se <sp>Bændelorme</sp>.
+</chapter>
 
 <chapter name="Cørulein">
 <b>Cørulein</b> (<sp>Alizaringrønt</sp>,
@@ -87,7 +89,8 @@ rene Farve ved Lampelys.
 </chapter>
 
 <chapter name="coeruleus">
-<b>coeruleus</b> [sø-], blaalig, se <sp>Blaasot</sp>.</chapter>
+<b>coeruleus</b> [sø-], blaalig, se <sp>Blaasot</sp>.
+</chapter>
 
 <chapter name="Cørulignon">
 <b>Cørulignon</b> er Tetrametylæter af

@@ -13,17 +13,21 @@ Grundtone, den har tre ♭, for <i>h</i>, <i>e</i> og <i>a</i>.
 
 <chapter name="c/n">
 <b>c/n,</b> d. s. s. <i>cónto nóstro</i>, i Bogholderi
-= vor Konto.</chapter>
+= vor Konto.
+</chapter>
 
 <chapter name="C. N.">
-<b>C. N.,</b> Betegnelse for Cyan (Cyanradikalet).</chapter>
+<b>C. N.,</b> Betegnelse for Cyan (Cyanradikalet).
+</chapter>
 
 <chapter name="Cn.">
 <b>Cn.,</b> Forkortelse af det rom. Navn Cnaius,
-Cnæus, Gnæus.</chapter>
+Cnæus, Gnæus.
+</chapter>
 
 <chapter name="Cnemiornis">
-<b>Cnemiornis</b> [kne-], se <sp>Gæs</sp>.</chapter>
+<b>Cnemiornis</b> [kne-], se <sp>Gæs</sp>.
+</chapter>
 
 <chapter name="Cnicus">
 <b>Cnicus</b> ['kni-] L., Slægt af Kurvblomstrede
@@ -60,7 +64,8 @@ Toaarig.
 </chapter>
 
 <chapter name="C-Nøgle">
-<b>C-Nøgle,</b> se C. og <sp>Nodenøgle</sp>.</chapter>
+<b>C-Nøgle,</b> se C. og <sp>Nodenøgle</sp>.
+</chapter>
 
 <chapter name="Co.">
 <b>Co.,</b> Forkortelse af <sp>Compagnie</sp>, d. s. s.
@@ -133,7 +138,8 @@ samt det 1835 løsrevne Texas.
 </chapter>
 
 <chapter name="Coalbrookdale">
-<b>Coalbrookdale</b> ['ko<sub>u</sub>£br<sub>u</sub>kde<sub>i</sub>£], se <sp>Madeley</sp>.</chapter>
+<b>Coalbrookdale</b> ['ko<sub>u</sub>£br<sub>u</sub>kde<sub>i</sub>£], se <sp>Madeley</sp>.
+</chapter>
 
 <chapter name="Coalgate">
 <b>Coalgate</b> ['ko<sub>u</sub>£ge<sub>i</sub>t], By i U. S. A., ligger i
@@ -161,7 +167,8 @@ Teglværker og Jernstøberier.
 </chapter>
 
 <chapter name="Coanza">
-<b>Coanza</b> [portug. 'kwãz<sub>ə</sub>], se <sp>Cuanza</sp>.</chapter>
+<b>Coanza</b> [portug. 'kwãz<sub>ə</sub>], se <sp>Cuanza</sp>.
+</chapter>
 
 <chapter name="Coast Range">
 <b>Coast Range</b> ['ko<sub>u</sub>st-'re<sub>i</sub>ndз], »Kystkæden«,

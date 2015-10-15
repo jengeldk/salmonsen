@@ -88,10 +88,12 @@ Alleghe-Søen i den ital. Prov. Belluno.
 </chapter>
 
 <chapter name="Civetta">
-<b>Civetta</b> [t∫i.vet.a], se <sp>Bles, H</sp>.</chapter>
+<b>Civetta</b> [t∫i.vet.a], se <sp>Bles, H</sp>.
+</chapter>
 
 <chapter name="Civette">
-<b>Civette,</b> se <sp>Desmerdyr</sp>.</chapter>
+<b>Civette,</b> se <sp>Desmerdyr</sp>.
+</chapter>
 
 <chapter name="Civiale, Jean">
 <b>Civiale</b> [si'v<sub>i</sub>al], <sp>Jean</sp>, fr. Kirurg, f. 1792 i

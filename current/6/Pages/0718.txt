@@ -101,10 +101,12 @@ bekendes, og der skal stikkes over, hvis man kan;
 haves den udspillede Farve ikke, kan der stikkes
 med Trumf ell. tilkastes et Kort i en anden
 Farve. Den, der faar 3 Stik, markerer 1 Point,
-for alle 5 Stik markeres 2 Points.</chapter>
+for alle 5 Stik markeres 2 Points.
+</chapter>
 
 <chapter name="Ecaudata">
-<b>Ecaudata,</b> se <sp>Springpadder</sp>.</chapter>
+<b>Ecaudata,</b> se <sp>Springpadder</sp>.
+</chapter>
 
 <chapter name="Ecballium A. Rich.">
 <b>Ecballium</b> A. Rich. (<i>Elaterium</i> Riv.), Slægt

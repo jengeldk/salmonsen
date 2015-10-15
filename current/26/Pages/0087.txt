@@ -139,7 +139,8 @@ Frederiksberg Kommunes store Sanatorium.
 </chapter>
 
 <chapter name="Asolone">
-<b>Asolone,</b> se <sp>Verdenskrigen</sp>, S. 822.</chapter>
+<b>Asolone,</b> se <sp>Verdenskrigen</sp>, S. 822.
+</chapter>
 
 <chapter name="Aspe">
 <b>Aspe,</b> (1920) 7650 Indb.

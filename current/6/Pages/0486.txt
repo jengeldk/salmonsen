@@ -42,7 +42,8 @@ m. fl. St.
 
 <chapter name="Dubbeltje">
 <b>Dubbeltje</b> ['døb<sub>ə</sub>£tj<sub>ə</sub>], holl. Mønt af Sølv, =
-1/10 fl. = 15 Ø.</chapter>
+1/10 fl. = 15 Ø.
+</chapter>
 
 <chapter name="Dubblé">
 <b>Dubblé</b> [du'ble]. Ved en D. forstaas i
@@ -56,7 +57,8 @@ nedlægges.
 <chapter name="Dubbo">
 <b>Dubbo</b> ['dab<sub>ə</sub>], By i Australien, Staten New
 South Wales, NV. f. Sydney, ved Macquarie,
-med Hospital, tekn. Skole og (1911) 5368 Indb.</chapter>
+med Hospital, tekn. Skole og (1911) 5368 Indb.
+</chapter>
 
 <chapter name="du Bellay, Joachim">
 <b>du Bellay</b> [dy-bæ'læ], <sp>Joachim</sp>, fr. Digter
@@ -91,14 +93,16 @@ Aaret.
 </chapter>
 
 <chapter name="Dubhe">
-<b>Dubhe</b> (arab.), Stjernen α i den store Bjørn.</chapter>
+<b>Dubhe</b> (arab.), Stjernen α i den store Bjørn.
+</chapter>
 
 <chapter name="Dubienka">
 <b>Dubienka</b> [du'b<sub>i</sub>ænk<sub>a</sub>] (<sp>Dubenka</sp>), By i
 russ. Polen, Guv. Lublin, ved venstre Bred af
 Bug, med c. 4000 Indb., mest Jøder. D. er kendt
 ved den sejrrige Kamp, Kosciuszko 17. Juli 1792
-her med 4000 Polakker leverede 18000 Russere.</chapter>
+her med 4000 Polakker leverede 18000 Russere.
+</chapter>
 
 <chapter name="Dubiosa">
 <b>Dubiosa,</b> i Handelssproget Betegnelse for
@@ -143,7 +147,8 @@ Linier.
 </chapter>
 
 <chapter name="dubiøs">
-<b>dubiøs</b> (lat.), tvivlsom.</chapter>
+<b>dubiøs</b> (lat.), tvivlsom.
+</chapter>
 
 <chapter name="dublere">
 <b>dublere</b> (fr.), 1) fordoble (f. Eks. en Rolle

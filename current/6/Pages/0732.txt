@@ -51,10 +51,12 @@ forberedes i Fredstid.
 <chapter name="éclat">
 <b>éclat</b> [e'kla] (fr.), Knald, pludselig Larm;
 Glans; Opsigt o. l. <sp>eklatánt</sp>, glimrende,
-paafaldende, iøjnefaldende, opsigtsvækkende.</chapter>
+paafaldende, iøjnefaldende, opsigtsvækkende.
+</chapter>
 
 <chapter name="Edipserødt">
-<b>Edipserødt,</b> se <sp>Benzopurpurin</sp>.</chapter>
+<b>Edipserødt,</b> se <sp>Benzopurpurin</sp>.
+</chapter>
 
 <chapter name="Écluse">
 <b>Écluse</b> [e'kly.z], <sp>Fort de l'É.</sp>,
@@ -72,7 +74,8 @@ Det er bygget af Vauban, blev ødelagt af
 <b>École</b> [e'kål] (fr.), Skole; <i>É. des chartes</i>
 [-dæ-'∫art], se <sp>Arkiv</sp>; <i>É. primaire</i> [-pr'mæ.r],
 Elementærskole; <i>É. secondaire</i> [-zgå'dæ.r],
-Middelskole, o. s. v.</chapter>
+Middelskole, o. s. v.
+</chapter>
 
 <chapter name="École des beaux-arts">
 <b>École des beaux-arts</b> [e'kål-dæ-bo'z-a.r],

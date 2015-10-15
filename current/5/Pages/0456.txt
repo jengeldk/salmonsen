@@ -112,7 +112,8 @@ Palisandertræ.
 </chapter>
 
 <chapter name="d'Albert">
-<b>d'Albert</b> [d-al'bæ.r], se <sp>Albert, E.</sp></chapter>
+<b>d'Albert</b> [d-al'bæ.r], se <sp>Albert, E.</sp>
+</chapter>
 
 <chapter name="Dalbono, Edoardo">
 <b>Dalbono,</b> <sp>Edoardo</sp>, ital. Maler, f. 1843 i
@@ -138,7 +139,8 @@ Kongen af Italien.
 </chapter>
 
 <chapter name="Dalbosjön">
-<b>Dalbosjön,</b> se <sp>Vänern</sp>.</chapter>
+<b>Dalbosjön,</b> se <sp>Vänern</sp>.
+</chapter>
 
 <chapter name="Dalby">
 <b>Dalby,</b> Landsby i Skaane, Malmöhus Len,

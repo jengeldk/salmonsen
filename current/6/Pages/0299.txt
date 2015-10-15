@@ -20,7 +20,8 @@ kan være indskudt en Brilledokke.
 </chapter>
 
 <chapter name="dokke">
-<b>dokke,</b> at bringe et Skib i Dok.</chapter>
+<b>dokke,</b> at bringe et Skib i Dok.
+</chapter>
 
 <chapter name="Dokkum">
 <b>Dokkum</b> ['dåk<sub>ə</sub>m] (<sp>Dockum</sp>), By i
@@ -41,7 +42,8 @@ fra og til en vaad Dok.
 
 <chapter name="Doko">
 <b>Doko,</b> et kun lidet kendt Dværgfolk i det
-sydlige Abessinien og Landskabet Kaffa.</chapter>
+sydlige Abessinien og Landskabet Kaffa.
+</chapter>
 
 <chapter name="Doktor">
 <b>Doktor</b> (lat., Lærer, af <i>docere</i>), Betegnelse

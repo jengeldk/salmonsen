@@ -59,10 +59,12 @@ Fødderne af den pers. Konge Sapor.
 
 <chapter name="Darabdschird">
 <b>Darabdschird</b> eller <sp>Darabgherd</sp>, se
-<sp>Darab</sp>.</chapter>
+<sp>Darab</sp>.
+</chapter>
 
 <chapter name="Darada">
-<b>Darada,</b> se <sp>Dardistan</sp>.</chapter>
+<b>Darada,</b> se <sp>Dardistan</sp>.
+</chapter>
 
 <chapter name="Daraga">
 <b>Daraga,</b> By paa Filippinerne, Prov. Albay,
@@ -74,7 +76,8 @@ Frugtessenser.
 </chapter>
 
 <chapter name="Darang">
-<b>Darang,</b> d. s. s. <sp>Darrang</sp>.</chapter>
+<b>Darang,</b> d. s. s. <sp>Darrang</sp>.
+</chapter>
 
 <chapter name="Daranyi, Ignac">
 <b>Daranyi</b> ['dåra.n<sub>j</sub>i], <sp>Ignac</sp>, ung. Minister,
@@ -120,13 +123,16 @@ om dens senere Skæbne, se under <sp>Druser</sp>.
 </chapter>
 
 <chapter name="Dar-Banda">
-<b>Dar-Banda.</b> se <sp>Banda</sp>.</chapter>
+<b>Dar-Banda.</b> se <sp>Banda</sp>.
+</chapter>
 
 <chapter name="Darbanga">
-<b>Darbanga,</b> se <sp>Darbghangah</sp>.</chapter>
+<b>Darbanga,</b> se <sp>Darbghangah</sp>.
+</chapter>
 
 <chapter name="Dar-Berber">
-<b>Dar-Berber,</b> d. s. s. <sp>Berber</sp>.</chapter>
+<b>Dar-Berber,</b> d. s. s. <sp>Berber</sp>.
+</chapter>
 
 <chapter name="Darbès, Johan Anton Peter Poul">
 <b>Darbès</b> [dar'bæs], <sp>Johan Anton Peter

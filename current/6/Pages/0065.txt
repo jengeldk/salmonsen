@@ -85,7 +85,8 @@ France</i> XXII [Paris 1900] S. 69-95).
 
 <chapter name="Desjardins, , M.">
 <b>Desjardins</b> [dæзar'dæ], <sp>M.</sp>, nederlandsk
-Billedhugger, se <sp>Bogaert</sp>.</chapter>
+Billedhugger, se <sp>Bogaert</sp>.
+</chapter>
 
 <chapter name="Desjatina">
 <b>Desjatina</b> [d<sub>je</sub>s<sub>j</sub>e'tin<sub>a</sub>], russ. Markmaal. D.
@@ -96,7 +97,8 @@ dansk Td. Land.
 
 <chapter name="Deskription">
 <b>Deskription</b> (lat.), Beskrivelse, Skildring
-<sp>déskriptiv</sp>, beskrivende.</chapter>
+<sp>déskriptiv</sp>, beskrivende.
+</chapter>
 
 <chapter name="Deskriptivgeometri">
 <b>Deskriptivgeometri</b> eller <sp>beskrivende

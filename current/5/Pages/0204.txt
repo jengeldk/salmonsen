@@ -75,18 +75,22 @@ Kunstmann's »Kenntniss Indiens im 15. Jahrhundert«
 <b>Contich</b> ['kåntik] (<sp>Contigh</sp>), Flække i den
 belg. Prov. cg Arrond. Antwerpen, er
 Knudepunkt paa Jernbanen Antwerpen-Bryssel og har
-Teglbrænderi og Bryggeri. (1911) 6303 Indb.</chapter>
+Teglbrænderi og Bryggeri. (1911) 6303 Indb.
+</chapter>
 
 <chapter name="continuo">
-<b>continuo,</b> se <sp>basso continuo</sp>.</chapter>
+<b>continuo,</b> se <sp>basso continuo</sp>.
+</chapter>
 
 <chapter name="continuous voyage">
 <b>continuous voyage</b> [k<sub>ə</sub>n'tinj<sub>uə</sub>s-voi<sub>i</sub>dз],
 <i>continuité du voyage</i> [kåtin<sub>y</sub>i'te-d-vwa'ja.з], se
-<sp>Rejseteorien</sp>.</chapter>
+<sp>Rejseteorien</sp>.
+</chapter>
 
 <chapter name="Continustol">
-<b>Continustol</b> [kåŋti'ny-sto'l], se <sp>Spinding</sp>.</chapter>
+<b>Continustol</b> [kåŋti'ny-sto'l], se <sp>Spinding</sp>.
+</chapter>
 
 <chapter name="contio">
 <b>contio</b> (lat.), Forsamling, især af Folket, men
@@ -105,7 +109,8 @@ saadan Forsamling holdte Tale benævnes en c.
 </chapter>
 
 <chapter name="conto">
-<b>conto</b> (ital.), se <sp>Konto</sp> og <sp>Bogholderi</sp>.</chapter>
+<b>conto</b> (ital.), se <sp>Konto</sp> og <sp>Bogholderi</sp>.
+</chapter>
 
 <chapter name="Conto, Monte C.">
 <b>Conto, Monte C.,</b> Bjerg i Norditalien, Prov.
@@ -117,10 +122,12 @@ omkom.
 </chapter>
 
 <chapter name="conto a metà">
-<b>conto a metà</b> [-'ta], se <sp>a meta</sp>.</chapter>
+<b>conto a metà</b> [-'ta], se <sp>a meta</sp>.
+</chapter>
 
 <chapter name="Contocorrent">
-<b>Contocorrent,</b> se <sp>Kontokurant</sp>.</chapter>
+<b>Contocorrent,</b> se <sp>Kontokurant</sp>.
+</chapter>
 
 <chapter name="Conto de reis">
 <b>Conto de reis</b> ['kõ<sub>n</sub>t<sub>u</sub>-ð<sub>ö</sub>-'ræ<sub>i</sub>∫] er i Portugal

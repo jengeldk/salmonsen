@@ -39,10 +39,12 @@ Samtidens betydeligste Tænkere i Overs.
 <chapter name="Eisteddfodd">
 <b>Eisteddfodd</b> [a^i'steðv<sub>å</sub>d eller -'sted-], Navn
 paa de wallisiske <sp>Barders</sp> regelmæssige
-Lavsmøder.</chapter>
+Lavsmøder.
+</chapter>
 
 <chapter name="E. I. t.">
-<b>E. I. t.,</b> se <sp>Arbejde</sp> (elektrisk).</chapter>
+<b>E. I. t.,</b> se <sp>Arbejde</sp> (elektrisk).
+</chapter>
 
 <chapter name="Eitelberger von Edelberg">
 <b>Eitelberger von Edelberg</b>
@@ -153,12 +155,14 @@ Konkordieformlens Indførelse i Slesvig.
 </chapter>
 
 <chapter name="Eivisch">
-<b>Eivisch</b> ['a^ife∫], se <sp>Anniviers</sp>.</chapter>
+<b>Eivisch</b> ['a^ife∫], se <sp>Anniviers</sp>.
+</chapter>
 
 <chapter name="ejakulere">
 <b>ejakulere</b> (lat.), udsprøjte, fremstøde.
 <sp>Ejakulation</sp>, Udsprøjtning, Fremstøden af Ord,
-Lyde o. desl.</chapter>
+Lyde o. desl.
+</chapter>
 
 <chapter name="Ejâlet">
 <b>Ejâlet</b> (arab.), Bestyrelse, Statholderskab, er

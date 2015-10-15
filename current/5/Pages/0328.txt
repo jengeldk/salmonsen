@@ -173,5 +173,6 @@ med Karamel.
 </chapter>
 
 <chapter name="Croquet">
-<b>Croquet</b> ['kråk<sub>ə</sub>t, fr. krå'kæ], se <sp>Kroket</sp>.</chapter>
+<b>Croquet</b> ['kråk<sub>ə</sub>t, fr. krå'kæ], se <sp>Kroket</sp>.
+</chapter>
 

@@ -141,7 +141,8 @@ daarlig skærende Redskab, 2) klodset Person.
 
 <chapter name="Dødbider (Søv.)">
 <b>Dødbider</b> (<sp>Søv</sp>.), en daarlig
-Bidevind-Sejler.</chapter>
+Bidevind-Sejler.
+</chapter>
 
 <chapter name="dødbrændt">
 <b>dødbrændt</b> siges et Stof at være, naar det

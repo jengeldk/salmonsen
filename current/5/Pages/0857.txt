@@ -58,7 +58,8 @@ Grøndahls Porcelænsfabrik 1853-1903«
 
 <chapter name="Dansk Postblad">
 <b>Dansk Postblad,</b> se <sp>Dansk
-Postforening</sp>.</chapter>
+Postforening</sp>.
+</chapter>
 
 <chapter name="Dansk Postforbund">
 <b>Dansk Postforbund,</b> tidligere
@@ -101,7 +102,8 @@ Etatsorganisationerne kommer til Anvendelse.
 </chapter>
 
 <chapter name="Dansk Rajgræs">
-<b>Dansk Rajgræs,</b> se <sp>Bromus</sp>.</chapter>
+<b>Dansk Rajgræs,</b> se <sp>Bromus</sp>.
+</chapter>
 
 <chapter name="Dansk Skolemuseum">
 <b>Dansk Skolemuseum.</b> Indtil hen imod Aaret

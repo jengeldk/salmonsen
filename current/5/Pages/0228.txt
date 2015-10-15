@@ -146,7 +146,8 @@ bygget.
 </chapter>
 
 <chapter name="Córdova">
-<b>Córdova</b> ['kårdåwa], se <sp>Cordoba</sp>.</chapter>
+<b>Córdova</b> ['kårdåwa], se <sp>Cordoba</sp>.
+</chapter>
 
 <chapter name="Cordurié-Schnabels Metode">
 <b>Cordurié-Schnabels Metode</b> [kårdy'r<sub>i</sub>e-]
@@ -163,10 +164,12 @@ sølvrig, at en Afdrivning kan lønne sig (se <sp>Sølv</sp>).
 
 <chapter name="corduroy">
 <b>corduroy</b> ['kå.<sub>ə</sub>d<sub>j</sub>urå^i, 'kå.<sub>ə</sub>d<sub>ə</sub>rå^i ell. kå<sub>ə</sub>d<sub>ə</sub>'rå^i],
-se <sp>Korderoy</sp>.</chapter>
+se <sp>Korderoy</sp>.
+</chapter>
 
 <chapter name="Cordus, C.">
-<b>Cordus,</b> <sp>C.</sp>, se <sp>Cremutius Cordus</sp>.</chapter>
+<b>Cordus,</b> <sp>C.</sp>, se <sp>Cremutius Cordus</sp>.
+</chapter>
 
 <chapter name="Cordyceps">
 <b>Cordyceps</b> Fr., en meget ejendommelig

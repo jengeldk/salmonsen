@@ -106,10 +106,12 @@ et son æuvre</i> [Paris 1887]).
 </chapter>
 
 <chapter name="Curvatura">
-<b>Curvatura,</b> se <sp>Kurvatur</sp>.</chapter>
+<b>Curvatura,</b> se <sp>Kurvatur</sp>.
+</chapter>
 
 <chapter name="Curvembryæ">
-<b>Curvembryæ,</b> se <sp>Krumkimede</sp>.</chapter>
+<b>Curvembryæ,</b> se <sp>Krumkimede</sp>.
+</chapter>
 
 <chapter name="Curzola">
 <b>Curzola</b> ['kurtsola], Ø i det adriatiske Hav,

@@ -138,11 +138,13 @@ catholique et l'État en France sous la 3e. république</i>
 </chapter>
 
 <chapter name="debitere, Debitor">
-<b>debitere, Debitor,</b> se <sp>Debet</sp>.</chapter>
+<b>debitere, Debitor,</b> se <sp>Debet</sp>.
+</chapter>
 
 <chapter name="debitum">
 <b>debitum</b> (lat.), Gæld, Skyldighed; <i>d.
-conjugale</i>, ægteskabelig Pligt; <i>d. feudale</i>, Lenspligt.</chapter>
+conjugale</i>, ægteskabelig Pligt; <i>d. feudale</i>, Lenspligt.
+</chapter>
 
 <chapter name="déblai">
 <b>déblai</b> [de'blæ] bruges undertiden i

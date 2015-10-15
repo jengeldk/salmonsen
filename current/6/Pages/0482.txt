@@ -48,7 +48,8 @@ Kanonport i Sejlkrigsskibene. Underkanten kaldtes
 </chapter>
 
 <chapter name="Drøpne">
-<b>Drøpne,</b> Odin's Ring, d. s. s. <sp>Drypne</sp>.</chapter>
+<b>Drøpne,</b> Odin's Ring, d. s. s. <sp>Drypne</sp>.
+</chapter>
 
 <chapter name="Drøvtyggere">
 <b>Drøvtyggere</b> (<i>Ruminántia</i>), en stor Gruppe

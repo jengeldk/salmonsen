@@ -1,7 +1,8 @@
 <chapter name="citere">
 <b>citere</b> (lat.), forelægge, navnlig for Retten,
 indstævne; anføre ordret et Sted af en Bog e. l.,
-henvise til et Sted i en Bog.</chapter>
+henvise til et Sted i en Bog.
+</chapter>
 
 <chapter name="citerior">
 <b>citerior</b> (lat.), dennesidig; alm. i Romernes
@@ -56,21 +57,26 @@ Cither.</img>
 En Tyrolercither fra 18 Aarh.</img>
 
 <chapter name="Citigradæ">
-<b>Citigradæ,</b> se <sp>Jagtedderkopper</sp>.</chapter>
+<b>Citigradæ,</b> se <sp>Jagtedderkopper</sp>.
+</chapter>
 
 <chapter name="citissime">
-<b>citissime,</b> se <sp>cito</sp>.</chapter>
+<b>citissime,</b> se <sp>cito</sp>.
+</chapter>
 
 <chapter name="Citium">
-<b>Citium,</b> By paa Cypern, se <sp>Kition</sp>.</chapter>
+<b>Citium,</b> By paa Cypern, se <sp>Kition</sp>.
+</chapter>
 
 <chapter name="Citlaltepetl">
-<b>Citlaltepetl,</b> se <sp>Orizaba</sp>.</chapter>
+<b>Citlaltepetl,</b> se <sp>Orizaba</sp>.
+</chapter>
 
 <chapter name="cito">
 <b>cito,</b> lat., »hurtig«, »haster« (gammeldags
 Paaskrift paa Breve og Recepter); stærkere
-<sp>citissime</sp>, »hurtigst muligt« (ligesaa).</chapter>
+<sp>citissime</sp>, »hurtigst muligt« (ligesaa).
+</chapter>
 
 <chapter name="Citokromi">
 <b>Citokromi</b> (af lat. <i>cito</i>, hurtig, og gr. <i>kroma</i>,

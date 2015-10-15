@@ -111,10 +111,12 @@ der Haab.
 <chapter name="Dun">
 <b>Dun</b> (kelt), d. s. s. Høj ell. Fæstning,
 forekommer som Endeform -<sp>dunum</sp> i talrige
-Stednavne i Gallien og paa de britiske Øer.</chapter>
+Stednavne i Gallien og paa de britiske Øer.
+</chapter>
 
 <chapter name="Dun og Dunfjer">
-<b>Dun</b> og <b>Dunfjer,</b> se <sp>Fjer</sp>.</chapter>
+<b>Dun</b> og <b>Dunfjer,</b> se <sp>Fjer</sp>.
+</chapter>
 
 <chapter name="Dunajec">
 <b>Dunajec</b> [du'najæts], Biflod til Weichsel,
@@ -133,7 +135,8 @@ Russerne til at rømme Vest-Galizien.
 </chapter>
 
 <chapter name="Dunajev, Wanda von">
-<b>Dunajev, Wanda von,</b> se <sp>Sacher Masoch</sp>.</chapter>
+<b>Dunajev, Wanda von,</b> se <sp>Sacher Masoch</sp>.
+</chapter>
 
 <chapter name="Dunajewski, Julian">
 <b>Dunajewski</b> [-'jæfski], <sp>Julian</sp>, østerrigsk

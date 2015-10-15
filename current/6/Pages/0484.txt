@@ -35,7 +35,8 @@ tilhørt Kina.
 </chapter>
 
 <chapter name="dt.">
-<b>dt.,</b> se <sp>dedit</sp>.</chapter>
+<b>dt.,</b> se <sp>dedit</sp>.
+</chapter>
 
 <chapter name="D-Tog">
 <b>D-Tog</b> er en navnlig af Turister og Rejsende
@@ -84,7 +85,8 @@ sædvanlige for I Vognklasse.
 </chapter>
 
 <chapter name="Dualin">
-<b>Dualin,</b> se <sp>Nitroglycerin</sp>.</chapter>
+<b>Dualin,</b> se <sp>Nitroglycerin</sp>.
+</chapter>
 
 <chapter name="Dualis">
 <b>Dualis</b> (ell. <sp>Total</sp>). I de ældste Sprog af

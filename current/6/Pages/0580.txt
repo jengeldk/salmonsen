@@ -69,10 +69,12 @@ afrikanske Befolkninger.
 </chapter>
 
 <chapter name="Dværgfyr">
-<b>Dværgfyr,</b> d. s. s. Bjergfyr (se <sp>Fyr</sp>).</chapter>
+<b>Dværgfyr,</b> d. s. s. Bjergfyr (se <sp>Fyr</sp>).
+</chapter>
 
 <chapter name="Dværggaas">
-<b>Dværggaas,</b> se <sp>Gæs</sp>.</chapter>
+<b>Dværggaas,</b> se <sp>Gæs</sp>.
+</chapter>
 
 <chapter name="Dværggren">
 <b>Dværggren</b> (<sp>bot</sp>.) er en meget langsomt
@@ -88,7 +90,8 @@ Berberis).
 </chapter>
 
 <chapter name="Dværghejre">
-<b>Dværghejre,</b> se <sp>Hejrer</sp>.</chapter>
+<b>Dværghejre,</b> se <sp>Hejrer</sp>.
+</chapter>
 
 <chapter name="Dværghjorte">
 <b>Dværghjorte</b> (<i>Tragulidæ</i>), de mindste

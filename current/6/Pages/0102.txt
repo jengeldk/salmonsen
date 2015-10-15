@@ -107,7 +107,8 @@ Kalkutta, = 1/384 <i>Tola</i> = 30,3745 mg.
 
 <chapter name="d'Hancarville">
 <b>d'Hancarville</b> [d-ãkar'vil], se
-Hancarville.</chapter>
+Hancarville.
+</chapter>
 
 <chapter name="Dhangar">
 <b>Dhangar</b> (»Bjergbeboere«, af <i>Dhang</i>, Bjerg),

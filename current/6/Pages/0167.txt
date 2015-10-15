@@ -112,7 +112,8 @@ Fordampningen ved at gøre dette Luftlag tyndere.
 </chapter>
 
 <chapter name="Diffusionsmetode, Diffusør">
-<b>Diffusionsmetode, Diffusør,</b> se <sp>Sukker</sp>.</chapter>
+<b>Diffusionsmetode, Diffusør,</b> se <sp>Sukker</sp>.
+</chapter>
 
 <chapter name="Difilos">
 <b>Difilos,</b> græsk Komediedigter fra Sinope, c.

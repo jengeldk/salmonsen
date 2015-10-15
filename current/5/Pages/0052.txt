@@ -5,7 +5,8 @@ af Brug.
 </chapter>
 
 <chapter name="Clarin">
-<b>Clarin,</b> se <sp>Alasy Ureña, L</sp>.</chapter>
+<b>Clarin,</b> se <sp>Alasy Ureña, L</sp>.
+</chapter>
 
 <chapter name="Clarinda">
 <b>Clarinda</b> [k£<sub>ə</sub>'rind<sub>ə</sub>], By i U. S. A., Stat Iowa,

@@ -95,7 +95,8 @@ den overvejende Del af C.'erne.
 </chapter>
 
 <chapter name="Cytase">
-<b>Cytase,</b> d. s. s. <sp>Komplement</sp> (s. d.).</chapter>
+<b>Cytase,</b> d. s. s. <sp>Komplement</sp> (s. d.).
+</chapter>
 
 <chapter name="Cytaser">
 <b>Cytaser</b> ell. <sp>Hemicellulaser</sp> kaldes en
@@ -151,7 +152,8 @@ Bær spises i Sydportugal.
 </chapter>
 
 <chapter name="Cytisin">
-<b>Cytisin,</b> se <sp>Cytisus</sp>.</chapter>
+<b>Cytisin,</b> se <sp>Cytisus</sp>.
+</chapter>
 
 <chapter name="Cytisus L.">
 <b>Cytisus</b> L., Slægt af Ærteblomstrede

@@ -123,11 +123,13 @@ other Steam-Motors</i> [2 Bd, 1905]; <sp>Sauvage</sp>,
 </chapter>
 
 <chapter name="Dampmotor">
-<b>Dampmotor,</b> se <sp>Dampmaskine</sp>.</chapter>
+<b>Dampmotor,</b> se <sp>Dampmaskine</sp>.
+</chapter>
 
 <chapter name="Dampmuddermaskine">
 <b>Dampmuddermaskine,</b> se
-<sp>Uddybningsmaskine</sp>.</chapter>
+<sp>Uddybningsmaskine</sp>.
+</chapter>
 
 <chapter name="Dampning">
 <b>Dampning,</b> Behandling af Stoffer med Damp,
@@ -151,4 +153,5 @@ de udviklede Dampe ikke kan undslippe.
 
 <chapter name="Dampopvarmning">
 <b>Dampopvarmning,</b> se
-<sp>Opvarmningsanlæg</sp>.</chapter>
+<sp>Opvarmningsanlæg</sp>.
+</chapter>

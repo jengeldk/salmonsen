@@ -114,7 +114,8 @@ General Boulanger.
 </chapter>
 
 <chapter name="Demolerbatteri">
-<b>Demolerbatteri,</b> se <sp>Belejringsbatteri</sp>.</chapter>
+<b>Demolerbatteri,</b> se <sp>Belejringsbatteri</sp>.
+</chapter>
 
 <chapter name="demolere">
 <b>demolere,</b> at ødelægge

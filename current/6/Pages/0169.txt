@@ -33,7 +33,8 @@ D. og de difteritiske Processer hos Dyrene.
 </chapter>
 
 <chapter name="Difteriantitoksin">
-<b>Difteriantitoksin,</b> se <sp>Difteriserum</sp>.</chapter>
+<b>Difteriantitoksin,</b> se <sp>Difteriserum</sp>.
+</chapter>
 
 <chapter name="Difteriserum">
 <b>Difteriserum.</b> Ved Serum (Blodvædske)

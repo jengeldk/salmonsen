@@ -136,12 +136,14 @@ Ret« [Kbhvn 1908] § 35 III).
 <chapter name="Ekspulsion">
 <b>Ekspulsion</b> (lat.), Uddrivelse, Fordrivelse,
 Udstødelse (af Menigheden); <sp>ekspulsiv</sp>,
-uddrivende, afførende.</chapter>
+uddrivende, afførende.
+</chapter>
 
 <chapter name="ekspurgere">
 <b>ekspurgere</b> (lat.), rense, udrense;
 <sp>Ekspurgation</sp>, Renselse, Afføring,
-Retfærdiggørelse.</chapter>
+Retfærdiggørelse.
+</chapter>
 
 <chapter name="Ekssikator">
 <b>Ekssikator</b> (lat.), et i kem. Laboratorier

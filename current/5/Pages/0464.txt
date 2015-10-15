@@ -76,7 +76,8 @@ Sidefløj fra 1723, yderligere Tilbygninger fra
 </chapter>
 
 <chapter name="Dallæus">
-<b>Dallæus,</b> d. s. s. <sp>Daillé</sp> (s. d.).</chapter>
+<b>Dallæus,</b> d. s. s. <sp>Daillé</sp> (s. d.).
+</chapter>
 
 <chapter name="Dalman, Johan Wilhelm">
 <b>Dalman,</b> <sp>Johan Wilhelm</sp>, sv.
@@ -118,7 +119,8 @@ talrige Brochurer om Tidens vigtigste Spørgsmaal.
 </chapter>
 
 <chapter name="Dalmas">
-<b>Dalmas,</b> Mand fra Dalarne i Sverige.</chapter>
+<b>Dalmas,</b> Mand fra Dalarne i Sverige.
+</chapter>
 
 <chapter name="Dalmatien">
 <b>Dalmatien</b> (ital. <sp>Dalmazia</sp>, serbo-kroat.

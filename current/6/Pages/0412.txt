@@ -64,7 +64,8 @@ dramatiseres.
 </chapter>
 
 <chapter name="dramatisk">
-<b>dramatisk,</b> se <sp>Dramatik</sp>.</chapter>
+<b>dramatisk,</b> se <sp>Dramatik</sp>.
+</chapter>
 
 <chapter name="Dramaturg">
 <b>Dramaturg,</b> Kender af dram. Digtning og

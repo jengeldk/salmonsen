@@ -60,7 +60,8 @@ paa Sener og Muskler bøde paa Tilstanden.
 </chapter>
 
 <chapter name="Diplekstelegrafering">
-<b>Diplekstelegrafering,</b> se <sp>Telegraf</sp>.</chapter>
+<b>Diplekstelegrafering,</b> se <sp>Telegraf</sp>.
+</chapter>
 
 <chapter name="Diplococcus">
 <b>Diplococcus</b> (<sp>bot</sp>.) er i Bakteriologien
@@ -70,10 +71,12 @@ Individer hænger sammen to og to.
 </chapter>
 
 <chapter name="Diploë">
-<b>Diploë,</b> se <sp>Ben</sp>, 2).</chapter>
+<b>Diploë,</b> se <sp>Ben</sp>, 2).
+</chapter>
 
 <chapter name="Diploit">
-<b>Diploit,</b> se <sp>Feldspat</sp>.</chapter>
+<b>Diploit,</b> se <sp>Feldspat</sp>.
+</chapter>
 
 <chapter name="Diplom">
 <b>Diplom</b> (gr. δίπλωμα), oprindelig et af 2

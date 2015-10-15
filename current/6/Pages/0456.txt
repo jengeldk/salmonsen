@@ -51,7 +51,8 @@ han gav Navn efter det nedrevne Slot.
 
 <chapter name="Dronning Charlottes Øer">
 <b>Dronning Charlottes Øer,</b> se
-<sp>Charlottes Øer</sp>.</chapter>
+<sp>Charlottes Øer</sp>.
+</chapter>
 
 <chapter name="Dronningens Kvarter">
 <b>Dronningens Kvarter</b> (<sp>Søv</sp>.), den ene
@@ -168,7 +169,8 @@ mellemliggende store Jøkler. D. blev opdaget af
 Danmark-Ekspeditionen og første Gang betraadt
 af dennes Medlemmer Marts 1908. Senere er det
 besøgt af Medlemmer af Mikkelsen's
-Ekspedition 1910 og af Koch's Ekspedition 1912-13.</chapter>
+Ekspedition 1910 og af Koch's Ekspedition 1912-13.
+</chapter>
 
 <chapter name="Dronning Louise's Ø">
 <b>Dronning Louise's Ø,</b> ved Grønlands

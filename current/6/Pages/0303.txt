@@ -152,4 +152,5 @@ Tyrkerne.
 <chapter name="Dolianit">
 <b>Dolianit,</b> et ufuldstændig bekendt,
 zeolitagtigt Mineral fra Knock Station, Ayrshire i
-Skotland.</chapter>
+Skotland.
+</chapter>

@@ -51,7 +51,8 @@ danske Lægevidenskab 1700-50«).
 
 <chapter name="Cryptobranchus">
 <b>Cryptobranchus</b> [-'braŋkus], se
-<sp>Fiskepadder</sp>.</chapter>
+<sp>Fiskepadder</sp>.
+</chapter>
 
 <chapter name="Cryptocephalus">
 <b>Cryptocephalus</b> [-fa-], Slægt af Bladbillernes
@@ -67,7 +68,8 @@ farvetrykt Tavle »Biller«, Fig. 21).
 </chapter>
 
 <chapter name="Cryptogamæ">
-<b>Cryptogamæ,</b> se <sp>Kryptogamer</sp>.</chapter>
+<b>Cryptogamæ,</b> se <sp>Kryptogamer</sp>.
+</chapter>
 
 <chapter name="Cryptomeria">
 <b>Cryptomeria</b> Don., Naaletræslægt af
@@ -99,7 +101,8 @@ Frø og Stiklinger.
 </chapter>
 
 <chapter name="Cryptomonadinæ">
-<b>Cryptomonadinæ,</b> se <sp>Flagellater</sp>.</chapter>
+<b>Cryptomonadinæ,</b> se <sp>Flagellater</sp>.
+</chapter>
 
 <chapter name="Cryptopentamera">
 <b>Cryptopentamera,</b> Fællesbetegnelse for
@@ -112,22 +115,28 @@ mindre skjult Led kan paavises.
 
 <chapter name="Cryptoprocta">
 <b>Cryptoprocta</b> (<sp>Viverkat</sp>), se
-<sp>Desmerdyr</sp>.</chapter>
+<sp>Desmerdyr</sp>.
+</chapter>
 
 <chapter name="Crypturidæ, Crypturus">
-<b>Crypturidæ, Crypturus,</b> se <sp>Lønhaler</sp>.</chapter>
+<b>Crypturidæ, Crypturus,</b> se <sp>Lønhaler</sp>.
+</chapter>
 
 <chapter name="Crysomelidæ">
-<b>Crysomelidæ,</b> se <sp>Bladbiller</sp>.</chapter>
+<b>Crysomelidæ,</b> se <sp>Bladbiller</sp>.
+</chapter>
 
 <chapter name="Crystalla tartari">
-<b>Crystalla tartari,</b> se <sp>Cremor tartari</sp>.</chapter>
+<b>Crystalla tartari,</b> se <sp>Cremor tartari</sp>.
+</chapter>
 
 <chapter name="c/s">
-<b>c/s</b> (<i>cónto súo</i>), i Bogholderi: hans Konto.</chapter>
+<b>c/s</b> (<i>cónto súo</i>), i Bogholderi: hans Konto.
+</chapter>
 
 <chapter name="Cs">
-<b>Cs,</b> kemisk Tegn for Cæsium.</chapter>
+<b>Cs,</b> kemisk Tegn for Cæsium.
+</chapter>
 
 <chapter name="Csaba">
 <b>Csaba</b> ['t∫åbå], <sp>Békés-Csaba</sp>, Flække i

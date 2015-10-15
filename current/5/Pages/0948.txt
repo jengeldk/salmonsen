@@ -10,7 +10,8 @@ bekendtgøres ligesom Love i <i>Journal officiel</i> og
 </chapter>
 
 <chapter name="decretales epistolæ">
-<b>decretales epistolæ,</b> se <sp>Dekretaler</sp>.</chapter>
+<b>decretales epistolæ,</b> se <sp>Dekretaler</sp>.
+</chapter>
 
 <chapter name="decretorius">
 <b>decretorius,</b> afgørende; <i>d. ánnus</i>,
@@ -20,7 +21,8 @@ Normaldag (se <sp>Westfalske Fred</sp>).
 </chapter>
 
 <chapter name="Decubitus">
-<b>Decubitus</b> (lat.), se <sp>Liggesaar</sp>.</chapter>
+<b>Decubitus</b> (lat.), se <sp>Liggesaar</sp>.
+</chapter>
 
 <chapter name="Déculassement">
 <b>Déculassement</b> [dekylas<sub>ə</sub>'maŋ, fr. -las'mã].
@@ -39,19 +41,23 @@ samlet Hele skydes tilbage.
 </chapter>
 
 <chapter name="decumana">
-<b>decumana</b> (<i>sc. porto</i>), se <sp>Lejr</sp>.</chapter>
+<b>decumana</b> (<i>sc. porto</i>), se <sp>Lejr</sp>.
+</chapter>
 
 <chapter name="decuria">
-<b>decuria,</b> se <sp>Dekurie</sp>.</chapter>
+<b>decuria,</b> se <sp>Dekurie</sp>.
+</chapter>
 
 <chapter name="decurio">
-<b>decurio,</b> se <sp>Dekurion</sp>.</chapter>
+<b>decurio,</b> se <sp>Dekurion</sp>.
+</chapter>
 
 <chapter name="decussatim">
 <b>decussatim</b> (lat.), i Form af et rom. Tital
 (X), korslagt, over Kors, <sp>Dekussation</sp>,
 Gennemkrydsning; <sp>dekussere</sp>, gennemskære
-i Korsform.</chapter>
+i Korsform.
+</chapter>
 
 <chapter name="Decussis">
 <b>Decussis</b> (af <i>decem ásses</i>, 10 <i>as</i>), antik rom.
@@ -71,11 +77,13 @@ Profeterne.
 
 <chapter name="De danske Vaabenbrødre">
 <b>De danske Vaabenbrødre,</b> se
-<sp>Vaabenbrødre</sp>.</chapter>
+<sp>Vaabenbrødre</sp>.
+</chapter>
 
 <chapter name="de dato">
 <b>de dato</b> (lat.), fra Dokumentets
-Udstedelsesdag, fra i Dag.</chapter>
+Udstedelsesdag, fra i Dag.
+</chapter>
 
 <chapter name="Dedeaghatsch">
 <b>Dedeaghatsch,</b> <sp>Dede Agač</sp>, By i
@@ -190,7 +198,8 @@ Indb. D. driver Industri.
 
 <chapter name="dedicere">
 <b>dedicere</b> (lat.), indvie; hellige; tilegne (et
-Skrift). Jvf. <sp>Dedikation</sp>.</chapter>
+Skrift). Jvf. <sp>Dedikation</sp>.
+</chapter>
 
 <chapter name="Dedichen, Henrik Arnold Thaulow">
 <b>Dedichen,</b> <sp>Henrik Arnold Thaulow</sp>,

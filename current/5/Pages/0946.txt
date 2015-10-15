@@ -164,11 +164,13 @@ Abbedikirke.
 som Hviledag i U. S. A. til Minde om de i
 Borgerkrigen (1861-65) faldne Krigere, hvis
 Grave smykkes, og til hvis Ære festlige Optog
-finder Sted.</chapter>
+finder Sted.
+</chapter>
 
 <chapter name="decorum">
 <b>decorum</b> (lat.), Sømmelighed, Anstand,
-Velanstændighed.</chapter>
+Velanstændighed.
+</chapter>
 
 <chapter name="de Coster">
 <b>de Coster</b> [d<sub>ö</sub>-kå'stæ.r], <sp>Charles

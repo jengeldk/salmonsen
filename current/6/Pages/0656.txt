@@ -60,10 +60,12 @@ som ved Luftmodstand. D. af Bølger, se
 
 <chapter name="Dæmpning, se elektromagnetiske Svingninger">
 <b>Dæmpning,</b> se <sp>elektromagnetiske
-Svingninger</sp>.</chapter>
+Svingninger</sp>.
+</chapter>
 
 <chapter name="Dæmpning, d. s. s. Blaadampning">
-<b>Dæmpning,</b> d. s. s. <sp>Blaadampning</sp>.</chapter>
+<b>Dæmpning,</b> d. s. s. <sp>Blaadampning</sp>.
+</chapter>
 
 <chapter name="Dæmring">
 <b>Dæmring</b> (<sp>Tusmørke</sp>) kaldes den

@@ -21,7 +21,8 @@ Stiklinger.
 </chapter>
 
 <chapter name="Cupri- og Cuproforbindelser">
-<b>Cupri- og Cuproforbindelser,</b> se <sp>Kobber</sp>.</chapter>
+<b>Cupri- og Cuproforbindelser,</b> se <sp>Kobber</sp>.
+</chapter>
 
 <chapter name="Cuprija">
 <b>Cuprija</b> ['t∫upria], By i Serbien, Hovedstad
@@ -35,7 +36,8 @@ Landsby Senje findes store Kulgruber.
 </chapter>
 
 <chapter name="Cuprit">
-<b>Cuprit,</b> d. s. s. <sp>Rød Kobbermalm</sp>.</chapter>
+<b>Cuprit,</b> d. s. s. <sp>Rød Kobbermalm</sp>.
+</chapter>
 
 <chapter name="Cuprobismutit">
 <b>Cuprobismutit,</b> et Mineral, som i Udseende
@@ -61,7 +63,8 @@ Udbrud; det er sammensat: (Cu,Mg)SO<sub>4</sub>.7H<sub>2</sub>O.
 </chapter>
 
 <chapter name="Cuproplumbit">
-<b>Cuproplumbit,</b> d. s. s. <sp>Kobberblyglans</sp>.</chapter>
+<b>Cuproplumbit,</b> d. s. s. <sp>Kobberblyglans</sp>.
+</chapter>
 
 <chapter name="Cuprotungstit">
 <b>Cuprotungstit</b> (<sp>Cuproscheelit</sp>), et
@@ -73,10 +76,12 @@ nær Santiago, Chile.
 </chapter>
 
 <chapter name="Cuprouranit">
-<b>Cuprouranit,</b> se <sp>Uranit</sp>.</chapter>
+<b>Cuprouranit,</b> se <sp>Uranit</sp>.
+</chapter>
 
 <chapter name="Cuprum">
-<b>Cuprum,</b> d. s. s. <sp>Kobber</sp>.</chapter>
+<b>Cuprum,</b> d. s. s. <sp>Kobber</sp>.
+</chapter>
 
 <chapter name="Cupula">
 <b>Cupula</b> (<sp>bot</sp>.) (ell. <sp>Skaalen</sp>) kaldes hos
@@ -91,11 +96,13 @@ aabner sig som Kapsel.
 </chapter>
 
 <chapter name="Cupuliferæ">
-<b>Cupuliferæ,</b> se <sp>Skaalfrugtfamilien</sp>.</chapter>
+<b>Cupuliferæ,</b> se <sp>Skaalfrugtfamilien</sp>.
+</chapter>
 
 <chapter name="cura (lat.)">
 <b>cura</b> (lat.), Pleje, Forsorg, Formynderskab.
-<i>c. animarum</i>, Sjælesorg.</chapter>
+<i>c. animarum</i>, Sjælesorg.
+</chapter>
 
 <chapter name="Cura (lat.: »Bekymring«)">
 <b>Cura</b> (lat.: »Bekymring«) forekommer

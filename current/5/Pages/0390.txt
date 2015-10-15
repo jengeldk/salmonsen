@@ -47,15 +47,18 @@ Cysteïn. Det er fremstillet syntetisk.
 
 <chapter name="Cystis">
 <b>Cystis</b> (af κύστις;, en Blære), d. s. s. <sp>Blære</sp>,
-eller Ordet bruges syn. med Cyste.</chapter>
+eller Ordet bruges syn. med Cyste.
+</chapter>
 
 <chapter name="Cystitis">
-<b>Cystitis,</b> d. s. s. <sp>Blærebetændelse</sp>.</chapter>
+<b>Cystitis,</b> d. s. s. <sp>Blærebetændelse</sp>.
+</chapter>
 
 <chapter name="Cystoadenom">
 <b>Cystoadenom,</b> et Adenom, hvori der har
 udviklet sig Cyster (smlg. <sp>Cyste</sp> og
-<sp>Adenoma</sp>).</chapter>
+<sp>Adenoma</sp>).
+</chapter>
 
 <chapter name="Cystocele">
 <b>Cystocele</b> (<sp>Blærebrok</sp>). Undertiden kan
@@ -81,18 +84,22 @@ Forekommer hos nervøse Personer.
 </chapter>
 
 <chapter name="Cystoid">
-<b>Cystoid,</b> d. s. s. <sp>Cystoma</sp>.</chapter>
+<b>Cystoid,</b> d. s. s. <sp>Cystoma</sp>.
+</chapter>
 
 <chapter name="Cystoideæ">
-<b>Cystoideæ,</b> d. s. s. <sp>Cystideæ</sp>.</chapter>
+<b>Cystoideæ,</b> d. s. s. <sp>Cystideæ</sp>.
+</chapter>
 
 <chapter name="Cystokarpium">
 <b>Cystokarpium</b> er den hos <sp>Florideæ</sp> efter
-Befrugtningen dannede Sporefrugt.</chapter>
+Befrugtningen dannede Sporefrugt.
+</chapter>
 
 <chapter name="Cystolithiasis">
 <b>Cystolithiasis</b> [-'ti-], d. s. s.
-<sp>Blærestenssygdom</sp>, se <sp>Blæresten</sp>.</chapter>
+<sp>Blærestenssygdom</sp>, se <sp>Blæresten</sp>.
+</chapter>
 
 <chapter name="Cystolitter">
 <b>Cystolitter</b> (<sp>bot</sp>.) er ejendommelige og
@@ -128,11 +135,13 @@ ell. muttilokulær.
 </chapter>
 
 <chapter name="Cystophora">
-<b>Cystophora</b> [-fo-] (<sp>Blæresæl</sp>), se <sp>Sæler</sp>.</chapter>
+<b>Cystophora</b> [-fo-] (<sp>Blæresæl</sp>), se <sp>Sæler</sp>.
+</chapter>
 
 <chapter name="Cystoplegi">
 <b>Cystoplegi,</b> d. s. s. <sp>Blærelamhed</sp>,
-<sp>Blærelammelse</sp>, sjældent Ord.</chapter>
+<sp>Blærelammelse</sp>, sjældent Ord.
+</chapter>
 
 <chapter name="Cystopteris">
 <b>Cystopteris</b> Bernh. (<sp>Bægerbregne</sp>, norsk:
@@ -182,4 +191,5 @@ Sorter af Peberrod.
 </chapter>
 
 <chapter name="Cystosarkom">
-<b>Cystosarkom,</b> se <sp>Cyste</sp> og <sp>Sarkom</sp>.</chapter>
+<b>Cystosarkom,</b> se <sp>Cyste</sp> og <sp>Sarkom</sp>.
+</chapter>

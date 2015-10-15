@@ -40,7 +40,8 @@ Kongen i »Lohengrin«, Wotan, Hans Sachs.
 </chapter>
 
 <chapter name="Delmatius">
-<b>Delmatius,</b> se <sp>Dalmatius</sp>.</chapter>
+<b>Delmatius,</b> se <sp>Dalmatius</sp>.
+</chapter>
 
 <chapter name="Delmenhorst">
 <b>Delmenhorst,</b> By i Storhertugdømmet
@@ -171,5 +172,6 @@ Jeanette Ø og Bennet Ø. (<sp>Litt</sp>: <sp>E. De Long</sp>,
 
 <chapter name="De Longøerne">
 <b>De Longøerne</b> [d<sub>ə</sub>-£åŋ-], se
-<sp>Nysibiriske Øer</sp>.</chapter>
+<sp>Nysibiriske Øer</sp>.
+</chapter>
 

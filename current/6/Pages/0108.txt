@@ -27,13 +27,16 @@ o. s. v.) benyttes som sveddrivende.
 </chapter>
 
 <chapter name="diaforetiske Midler">
-<b>diaforetiske Midler,</b> se <sp>Diaforese</sp>.</chapter>
+<b>diaforetiske Midler,</b> se <sp>Diaforese</sp>.
+</chapter>
 
 <chapter name="Diaforit">
-<b>Diaforit,</b> se <sp>Bournonit</sp>.</chapter>
+<b>Diaforit,</b> se <sp>Bournonit</sp>.
+</chapter>
 
 <chapter name="Diafototropisme">
-<b>Diafototropisme,</b> se <sp>Fototropisme</sp>.</chapter>
+<b>Diafototropisme,</b> se <sp>Fototropisme</sp>.
+</chapter>
 
 <chapter name="Diafragma, Skillevæg">
 <b>Diafragma</b> (gr.), Skillevæg. I <sp>Fysikken</sp>
@@ -47,7 +50,8 @@ enhver anden tynd Skillevæg.
 
 <chapter name="Diafragma, Mellemgulv">
 <b>Diafragma</b> (<sp>lægevidenskabelig</sp>), se
-<sp>Mellemgulv</sp>.</chapter>
+<sp>Mellemgulv</sp>.
+</chapter>
 
 <chapter name="Diafragma, Blende">
 <b>Diafragma,</b> Blende, er en med et Hul
@@ -82,7 +86,8 @@ dermed.
 </chapter>
 
 <chapter name="Diafyse">
-<b>Diafyse,</b> se <sp>Ben</sp>, 1).</chapter>
+<b>Diafyse,</b> se <sp>Ben</sp>, 1).
+</chapter>
 
 <chapter name="Diagenese">
 <b>Diagenese</b> kaldes i Geologien den molekulære
@@ -96,7 +101,8 @@ Konkretionsdannelse, en Hærdning ell. en Udludning.
 </chapter>
 
 <chapter name="Diageotropisme">
-<b>Diageotropisme,</b> se <sp>Geotropisme</sp>.</chapter>
+<b>Diageotropisme,</b> se <sp>Geotropisme</sp>.
+</chapter>
 
 <chapter name="diaglyfisk">
 <b>diaglyfisk</b> (gr.), fordybet, indad i en Flade
@@ -149,7 +155,8 @@ bestemme D. i det foreliggende Tilfælde, kaldes
 </chapter>
 
 <chapter name="Diagnostik">
-<b>Diagnostik,</b> se <sp>Diagnose</sp>.</chapter>
+<b>Diagnostik,</b> se <sp>Diagnose</sp>.
+</chapter>
 
 <chapter name="Diagonal">
 <b>Diagonal</b> (<sp>mat</sp>.), i en Polygon, er en ret

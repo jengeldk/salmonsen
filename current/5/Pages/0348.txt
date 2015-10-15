@@ -1,6 +1,7 @@
 Sejr, som Hertugen af Cumberland 16. Apr.
 1746 paa den nærliggende Cullodenmoor
-tilkæmpede sig over Prins Karl Edvard Stuart.</chapter>
+tilkæmpede sig over Prins Karl Edvard Stuart.
+</chapter>
 
 <chapter name="Culmann, Karl">
 <b>Culmann,</b> <sp>Karl</sp>, Prof. ved <i>Polytechnicum</i>
@@ -35,7 +36,8 @@ Fortrin.
 
 <chapter name="culotte">
 <b>culotte</b> [ky'låt] (fr.), korte Benklæder (smlg.
-<sp>Sans-culottes</sp>).</chapter>
+<sp>Sans-culottes</sp>).
+</chapter>
 
 <chapter name="Culp, Julia">
 <b>Culp</b> [kø£p], <sp>Julia</sp>, holl. Romancesangerinde,
@@ -48,7 +50,8 @@ Tyskland, England og Skandinavien.
 
 <chapter name="culpa">
 <b>culpa</b> (lat.), Skyld, se <sp>casus</sp>, <sp>Erstatning</sp>,
-<sp>Tilregnelighed</sp> og <sp>Uagtsomhed</sp>.</chapter>
+<sp>Tilregnelighed</sp> og <sp>Uagtsomhed</sp>.
+</chapter>
 
 <chapter name="Culros">
 <b>Culros</b> ['ka£r<sub>å</sub>s], gl By i Skotland ved den
@@ -95,10 +98,12 @@ en Espagne</i> [Halle og Paris 1909]).
 </chapter>
 
 <chapter name="Cultrijugatus-Lag">
-<b>Cultrijugatus-Lag,</b> se <sp>Calceola-Skifer</sp>.</chapter>
+<b>Cultrijugatus-Lag,</b> se <sp>Calceola-Skifer</sp>.
+</chapter>
 
 <chapter name="Culva-sutra">
-<b>Culva-sutra,</b> se <sp>indisk Matematik</sp>.</chapter>
+<b>Culva-sutra,</b> se <sp>indisk Matematik</sp>.
+</chapter>
 
 <chapter name="Cumacea">
 <b>Cumacea</b> er en lille Krebsdyrgruppe, hvis

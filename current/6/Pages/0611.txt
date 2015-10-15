@@ -31,7 +31,8 @@ og Amerika leverer Hovedkontingentet.
 </chapter>
 
 <chapter name="Dyrefabler">
-<b>Dyrefabler,</b> se <sp>Dyresagn</sp>.</chapter>
+<b>Dyrefabler,</b> se <sp>Dyresagn</sp>.
+</chapter>
 
 <chapter name="Dyrefod">
 <b>Dyrefod,</b> lille, skovbevokset Holm tæt N. f.
@@ -42,7 +43,8 @@ Vand sig over 1 Sm NV. ud.
 </chapter>
 
 <chapter name="Dyrefysiologi">
-<b>Dyrefysiologi,</b> se <sp>Fysiologi</sp>.</chapter>
+<b>Dyrefysiologi,</b> se <sp>Fysiologi</sp>.
+</chapter>
 
 <chapter name="Dyregeografi">
 <b>Dyregeografi</b> (<sp>Zoogeografi</sp>) (hertil et

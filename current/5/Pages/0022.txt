@@ -72,7 +72,8 @@ Forundersøgelser om det kommende Vejr.
 </chapter>
 
 <chapter name="Cirkus">
-<b>Cirkus,</b> se <sp>Circus</sp>.</chapter>
+<b>Cirkus,</b> se <sp>Circus</sp>.
+</chapter>
 
 <chapter name="Cirkusdal">
 <b>Cirkusdal</b> kaldes ofte en mere ell. mindre
@@ -92,10 +93,12 @@ led 1832 meget ved et Jordskælv.
 
 <chapter name="Cirpan">
 <b>Cirpan</b> ['t<sub>i</sub>irpan], By i Bulgarien paa den
-frugtbare Maritzaslette, (1910) 11675 Indb.</chapter>
+frugtbare Maritzaslette, (1910) 11675 Indb.
+</chapter>
 
 <chapter name="Cirre">
-<b>Cirre,</b> se <sp>Børsteorme</sp>.</chapter>
+<b>Cirre,</b> se <sp>Børsteorme</sp>.
+</chapter>
 
 <chapter name="Cirrhose">
 <b>Cirrhose</b> [-'ro.-] (gr., af κιρρος, rødliggul), en i
@@ -111,7 +114,8 @@ haardt, derfor Lunge-C., Nyre-C. o. s. v.
 </chapter>
 
 <chapter name="Cirripedia">
-<b>Cirripedia,</b> se <sp>Rankefødder</sp>.</chapter>
+<b>Cirripedia,</b> se <sp>Rankefødder</sp>.
+</chapter>
 
 <chapter name="Cirrus, Cirro-cumulus, Cirro-stratus">
 <b>Cirrus, Cirro-cumulus, Cirro-stratus,</b>
@@ -122,15 +126,18 @@ international Betegnelse for visse Arter af Skyer
 
 <chapter name="Cirrus (bot.)">
 <b>Cirrus</b> (<sp>bot</sp>.), d. s. s. <sp>Ranke</sp>,
-<sp>Klatretraad</sp>.</chapter>
+<sp>Klatretraad</sp>.
+</chapter>
 
 <chapter name="Cirsium">
 <b>Cirsium,</b> se <sp>Agertidsel</sp> og
-<sp>Bladhoved</sp>.</chapter>
+<sp>Bladhoved</sp>.
+</chapter>
 
 <chapter name="Cirsocele">
 <b>Cirsocele,</b> d. s. s. <sp>Varicocele</sp>,
-<sp>Blodaarebrok</sp>.</chapter>
+<sp>Blodaarebrok</sp>.
+</chapter>
 
 <chapter name="cirsoideus">
 <b>cirsoideus,</b> som ligner Aareknuder; f. Eks.
@@ -155,7 +162,8 @@ Navnet <sp>Medusahoved</sp> ell. C.
 </chapter>
 
 <chapter name="Cirta">
-<b>Cirta,</b> se <sp>Constantine</sp>.</chapter>
+<b>Cirta,</b> se <sp>Constantine</sp>.
+</chapter>
 
 <chapter name="cis, Præposition">
 <b>cis</b> (lat.), Præposition: paa denne Side af;
@@ -171,7 +179,8 @@ denne (Østerrigs) Side af Leitha; modsat <i>trans</i>
 
 <chapter name="Cis, i det mus. Alfabet">
 <b>Cis,</b> i det mus. Alfabet det ved et ♯ (se
-<sp>Fortegn</sp>) forhøjede C.</chapter>
+<sp>Fortegn</sp>) forhøjede C.
+</chapter>
 
 <chapter name="Cisa, la">
 <b>Cisa, la</b> [la-'t∫isa], Pas i den italienske Prov.

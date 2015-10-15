@@ -26,10 +26,12 @@ flg. Dag fuldkommen ødelagt.
 </chapter>
 
 <chapter name="Dendra">
-<b>Dendra,</b> se <sp>Dendera</sp>.</chapter>
+<b>Dendra,</b> se <sp>Dendera</sp>.
+</chapter>
 
 <chapter name="Dendragat">
-<b>Dendragat,</b> d. s. s. <sp>Mosagat</sp> (se <sp>Agat</sp>).</chapter>
+<b>Dendragat,</b> d. s. s. <sp>Mosagat</sp> (se <sp>Agat</sp>).
+</chapter>
 
 <chapter name="Dendritter, i Mineralogien">
 <b>Dendritter</b> (af gr. δένδρον, Træ) er i
@@ -59,10 +61,12 @@ Overtræk danner mange Metaller.
 
 <chapter name="Dendritter, forgrenede Udløbere fra Nerveceller">
 <b>Dendritter</b> (gr.), forgrenede Udløbere fra
-Nerveceller.</chapter>
+Nerveceller.
+</chapter>
 
 <chapter name="Dendrobates">
-<b>Dendrobates,</b> se <sp>Frøer</sp>.</chapter>
+<b>Dendrobates,</b> se <sp>Frøer</sp>.
+</chapter>
 
 <chapter name="Dendrobium">
 <b>Dendrobium</b> Sw., Slægt af tropiske og
@@ -85,19 +89,24 @@ benyttes de unge Skud som Gemyse.
 </chapter>
 
 <chapter name="Dendrochelidon">
-<b>Dendrochelidon,</b> se <sp>Mursvaler</sp>.</chapter>
+<b>Dendrochelidon,</b> se <sp>Mursvaler</sp>.
+</chapter>
 
 <chapter name="Dendrocopus">
-<b>Dendrocopus</b> (Flagspætte), se <sp>Spætter</sp>.</chapter>
+<b>Dendrocopus</b> (Flagspætte), se <sp>Spætter</sp>.
+</chapter>
 
 <chapter name="Dendrocycna">
-<b>Dendrocycna</b> (Træænder), se <sp>Ænder</sp>.</chapter>
+<b>Dendrocycna</b> (Træænder), se <sp>Ænder</sp>.
+</chapter>
 
 <chapter name="Dendrocoela">
-<b>Dendrocoela</b> [-'kö.la], se <sp>Planarier</sp>.</chapter>
+<b>Dendrocoela</b> [-'kö.la], se <sp>Planarier</sp>.
+</chapter>
 
 <chapter name="Dendrolagus">
-<b>Dendrolagus</b> (Trækænguru), se <sp>Kænguru</sp>.</chapter>
+<b>Dendrolagus</b> (Trækænguru), se <sp>Kænguru</sp>.
+</chapter>
 
 <chapter name="Dendrolitter">
 <b>Dendrolitter</b> kaldes undertiden forstenede,

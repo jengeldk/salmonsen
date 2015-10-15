@@ -28,7 +28,8 @@ fik 1246 Stadrettigheder af Grev Vilhelm II.
 </chapter>
 
 <chapter name="Delfter-Fajance">
-<b>Delfter-Fajance</b> [-jaŋs<sub>ə</sub>], se <sp>Fajance</sp>.</chapter>
+<b>Delfter-Fajance</b> [-jaŋs<sub>ə</sub>], se <sp>Fajance</sp>.
+</chapter>
 
 <chapter name="Delfzijl">
 <b>Delfzijl</b> ['dæ£fzæ^i£] (<sp>Delfzyl</sp>), befæstet
@@ -86,10 +87,12 @@ Bibliotek og Samlinger kom til Stiftsarkiverne i Kria.
 </chapter>
 
 <chapter name="Delhi">
-<b>Delhi,</b> se <sp>Dehli</sp>.</chapter>
+<b>Delhi,</b> se <sp>Dehli</sp>.
+</chapter>
 
 <chapter name="Delhi-Pustel">
-<b>Delhi-Pustel,</b> se <sp>Aleppopustel</sp>.</chapter>
+<b>Delhi-Pustel,</b> se <sp>Aleppopustel</sp>.
+</chapter>
 
 <chapter name="Deli, Byer">
 <b>Deli,</b> 1) <sp>Labuan-D.</sp> (<sp>Havne-D.</sp>, for at
@@ -144,7 +147,8 @@ vilde vedgaa ell. fragaa Arv og Gæld.
 <chapter name="deliberere">
 <b>deliberere</b> (lat.), raadslaa, overveje, drøfte;
 <sp>Deliberation</sp>, Raadslagning, Overvejelse;
-<sp>deliberativ</sp>, overvejende.</chapter>
+<sp>deliberativ</sp>, overvejende.
+</chapter>
 
 <chapter name="Delibes, Léo">
 <b>Delibes</b> [d<sub>ö</sub>'lib], <sp>Léo</sp>, fr. Operakomponist,

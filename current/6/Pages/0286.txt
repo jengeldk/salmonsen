@@ -9,7 +9,8 @@ Værker.
 </chapter>
 
 <chapter name="Dodder">
-<b>Dodder,</b> se <sp>Camelina</sp>.</chapter>
+<b>Dodder,</b> se <sp>Camelina</sp>.
+</chapter>
 
 <chapter name="Doddridge, Philip">
 <b>Doddridge</b> ['dådr<sub>i</sub>dз], <sp>Philip</sp>,
@@ -126,7 +127,8 @@ udnævntes til Marskal.
 </chapter>
 
 <chapter name="dodekadisk">
-<b>dodekadisk,</b> se <sp>Duodecimalsystem</sp>.</chapter>
+<b>dodekadisk,</b> se <sp>Duodecimalsystem</sp>.
+</chapter>
 
 <chapter name="Dodekaeder">
 <b>Dodekaeder</b> (gr.) er et Polyeder med tolv
@@ -146,7 +148,8 @@ Folk.
 
 <chapter name="Dodekapolis">
 <b>Dodekapolis</b> (gr.), Forbund af 12 Stæder
-ell. Stater.</chapter>
+ell. Stater.
+</chapter>
 
 <chapter name="Dodekarker">
 <b>Dodekarker</b> (gr.) plejer man at kalde de

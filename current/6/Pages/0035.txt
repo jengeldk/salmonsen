@@ -60,19 +60,23 @@ Juni 1908).
 </chapter>
 
 <chapter name="Depositokassen">
-<b>Depositokassen,</b> se <sp>Bank</sp>, S. 628.</chapter>
+<b>Depositokassen,</b> se <sp>Bank</sp>, S. 628.
+</chapter>
 
 <chapter name="Depositor">
 <b>Depositor</b> (lat.), d. s. s. <sp>Deponent</sp>, den
-der giver en anden noget i Forvaring.</chapter>
+der giver en anden noget i Forvaring.
+</chapter>
 
 <chapter name="Depositorium">
 <b>Depositorium,</b> Opbevaringssted, Lokale til
-Opbevaring af betroet Gods, Dokumentskab, Arkiv.</chapter>
+Opbevaring af betroet Gods, Dokumentskab, Arkiv.
+</chapter>
 
 <chapter name="Depositum">
 <b>Depositum</b> (lat.), det i Forvaring givne (se
-<sp>deponere</sp>).</chapter>
+<sp>deponere</sp>).
+</chapter>
 
 <chapter name="depossedere">
 <b>depossedere</b> (fr.), sætte en ud af
@@ -81,7 +85,8 @@ Besiddelse; fortrænge en Fyrste fra hans Rige;
 for de Monarker, der 1859 og 1861 i Italien
 mistede deres Lande, og for de tyske Fyrster,
 der 1866 blev satte fra Regeringen som Følge
-af de preuss. Anneksioner.</chapter>
+af de preuss. Anneksioner.
+</chapter>
 
 <chapter name="Depot">
 <b>Depot</b> (fr. <i>dépôt</i>), Oplagssted, Magasin, det

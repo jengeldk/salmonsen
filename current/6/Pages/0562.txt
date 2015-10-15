@@ -5,11 +5,13 @@ den nu brugelige Bet.
 
 <chapter name="durabel">
 <b>durabel</b> (lat.), varig, holdbar; <sp>Durabilitet</sp>,
-Varighed, Holdbarhed, Soliditet.</chapter>
+Varighed, Holdbarhed, Soliditet.
+</chapter>
 
 <chapter name="Duraluminium">
 <b>Duraluminium,</b> se
-<sp>Aluminium-Legeringer</sp>.</chapter>
+<sp>Aluminium-Legeringer</sp>.
+</chapter>
 
 <chapter name="dura mater">
 <b>dura mater</b> (lat.), den ydre, fastere Hinde,
@@ -111,7 +113,8 @@ malet gode Pasteller. (<sp>Litt</sp>.: <sp>A. Alexandre</sp>,
 
 <chapter name="Duranametal">
 <b>Duranametal,</b> se
-<sp>Aluminium-Legeringer</sp>.</chapter>
+<sp>Aluminium-Legeringer</sp>.
+</chapter>
 
 <chapter name="Durance">
 <b>Durance</b> [dy'rã.s], en 350 km lang Flod i

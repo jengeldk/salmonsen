@@ -73,13 +73,16 @@ Prydplanter.
 <img>Fig. 3. <i>Cocos flexuosa</i>.</img>
 
 <chapter name="Cocos-Øer">
-<b>Cocos-Øer,</b> se <sp>Keeling-Øer</sp>.</chapter>
+<b>Cocos-Øer,</b> se <sp>Keeling-Øer</sp>.
+</chapter>
 
 <chapter name="Cocques">
-<b>Cocques</b> [kåks], se <sp>Coques</sp>.</chapter>
+<b>Cocques</b> [kåks], se <sp>Coques</sp>.
+</chapter>
 
 <chapter name="Cocxie">
-<b>Cocxie</b> ['kåksi.], <sp>M.</sp>, se <sp>Coxie</sp>.</chapter>
+<b>Cocxie</b> ['kåksi.], <sp>M.</sp>, se <sp>Coxie</sp>.
+</chapter>
 
 <chapter name="C. O. D.">
 <b>C. O. D.</b> ['si-'o<sub>u</sub>-'di.], i Handelssproget

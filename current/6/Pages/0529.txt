@@ -63,10 +63,12 @@ leveres, fastsat til 3,487 g.
 
 <chapter name="Dukaton">
 <b>Dukaton,</b> gl ital. og holl. Sølvmønt. I
-Holland omtr. Værdi 3 Fl.</chapter>
+Holland omtr. Værdi 3 Fl.
+</chapter>
 
 <chapter name="Duke">
-<b>Duke</b> [dju.k] (eng.), Hertug.</chapter>
+<b>Duke</b> [dju.k] (eng.), Hertug.
+</chapter>
 
 <chapter name="Duke, Henry Edward">
 <b>Duke</b> [dju.k], <sp>Henry Edward</sp>, eng.
@@ -107,7 +109,8 @@ Fryderedskab, som bærer en Geddesnøre.
 </chapter>
 
 <chapter name="Dukker-Antiloper">
-<b>Dukker-Antiloper,</b> se <sp>Antiloper</sp>.</chapter>
+<b>Dukker-Antiloper,</b> se <sp>Antiloper</sp>.
+</chapter>
 
 <chapter name="Dukla">
 <b>Dukla,</b> By i Kejserdømmet Østerrig, Galizien,
@@ -133,10 +136,12 @@ Kornilov at undslippe.
 
 <chapter name="Duks">
 <b>Duks</b> (af lat. <i>dux</i>), alm. Betegnelse for den
-øverste Discipel i en Skoleklasse.</chapter>
+øverste Discipel i en Skoleklasse.
+</chapter>
 
 <chapter name="Dukt">
-<b>Dukt,</b> se <sp>Tovværk</sp>.</chapter>
+<b>Dukt,</b> se <sp>Tovværk</sp>.
+</chapter>
 
 <chapter name="Dulac, Edmund">
 <b>Dulac</b> [fr. dy'lak, eng. 'dju.l<sub>a</sub>k], <sp>Edmund</sp>,

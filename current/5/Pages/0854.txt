@@ -152,7 +152,8 @@ alm. Mening. (<sp>Litt</sp>.: <sp>Gyrithe Lemche</sp>,
 
 <chapter name="Dansk Missionsblad">
 <b>Dansk Missionsblad,</b> se <sp>Dansk
-Missionsselskab</sp>.</chapter>
+Missionsselskab</sp>.
+</chapter>
 
 <chapter name="Dansk Missionsraad">
 <b>Dansk Missionsraad</b> blev oprettet 18. Apr.

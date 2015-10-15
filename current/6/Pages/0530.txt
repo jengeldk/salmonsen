@@ -37,10 +37,12 @@ givet sig af med at forfærdige D.
 </chapter>
 
 <chapter name="Dulbendschis">
-<b>Dulbendschis,</b> se <sp>Dulbend</sp>.</chapter>
+<b>Dulbendschis,</b> se <sp>Dulbend</sp>.
+</chapter>
 
 <chapter name="dulce">
-<b>dulce</b> (lat.), sødt, behageligt.</chapter>
+<b>dulce</b> (lat.), sødt, behageligt.
+</chapter>
 
 <chapter name="dulce est desipere in loco">
 <b>dulce est desipere in loco</b> (lat.), »det er
@@ -57,7 +59,8 @@ Fædreland«. Citat efter Horats Od. III 2, V. 13.
 </chapter>
 
 <chapter name="Dulcian">
-<b>Dulcian,</b> se <sp>Dolcian</sp>.</chapter>
+<b>Dulcian,</b> se <sp>Dolcian</sp>.
+</chapter>
 
 <chapter name="Dulcigno">
 <b>Dulcigno</b> [dul't∫in<sub>j</sub>o], tyrk. <sp>Olgun</sp>,

@@ -1,5 +1,6 @@
 <chapter name="Deutz">
-<b>Deutz</b> [då^yts], Forstad til <sp>Köln</sp>.</chapter>
+<b>Deutz</b> [då^yts], Forstad til <sp>Köln</sp>.
+</chapter>
 
 <chapter name="Deutzia Thunb.">
 <b>Deutzia</b> ['dåj'tsia] Thunb., Slægt af
@@ -51,10 +52,12 @@ Drivning.
 
 <chapter name="deux battants">
 <b>deux battants</b> [dø-ba'tã], egl.: <i>porte à d. b.</i>
-['pårt-a-], Dør med to Fløje, Dobbeltdør.</chapter>
+['pårt-a-], Dør med to Fløje, Dobbeltdør.
+</chapter>
 
 <chapter name="Deux-Ponts">
-<b>Deux-Ponts</b> [dø-'på], se <sp>Zweibrücken</sp>.</chapter>
+<b>Deux-Ponts</b> [dø-'på], se <sp>Zweibrücken</sp>.
+</chapter>
 
 <chapter name="Deux-Sèvres">
 <b>Deux-Sèvres</b> [dø-'sæ.vr], Dept i det vestlige

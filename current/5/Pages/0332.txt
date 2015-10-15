@@ -110,10 +110,12 @@ udmøntes ogsaa halve C. - 2 1/2 Shillings.
 </chapter>
 
 <chapter name="Crownglas">
-<b>Crownglas</b> [kra^un-], se <sp>Glas</sp>.</chapter>
+<b>Crownglas</b> [kra^un-], se <sp>Glas</sp>.
+</chapter>
 
 <chapter name="Crownlæder">
-<b>Crownlæder</b> [kra^un-], se <sp>Læder</sp>.</chapter>
+<b>Crownlæder</b> [kra^un-], se <sp>Læder</sp>.
+</chapter>
 
 <chapter name="Crown office">
 <b>Crown office</b> ['kra^un-'åf<sub>i</sub>s] (eng.) er fra
@@ -134,7 +136,8 @@ Lordkansleren i hans Egenskab af »Storseglbevarer«.
 </chapter>
 
 <chapter name="Crows">
-<b>Crows</b> [kro<sub>u</sub>z], se <sp>Krageindianere</sp>.</chapter>
+<b>Crows</b> [kro<sub>u</sub>z], se <sp>Krageindianere</sp>.
+</chapter>
 
 <chapter name="Crowther, Samuel Adjai">
 <b>Crowther</b> ['kra^uðə], <sp>Samuel Adjai</sp>,

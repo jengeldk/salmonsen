@@ -17,7 +17,8 @@ tillige til Galla paa venstre Skulder over Attilaen.
 
 <chapter name="Dolmar">
 <b>Dolmar</b> ['dål-], et 740 m højt Bjerg i
-Thüringerwald, N. Ø. f. Meiningen.</chapter>
+Thüringerwald, N. Ø. f. Meiningen.
+</chapter>
 
 <chapter name="Dolmer, Jens">
 <b>Dolmer,</b> <sp>Jens</sp> (Nielsen), dansk Historiker
@@ -57,10 +58,12 @@ kendes kun en <i>Tabula chronologica omnium
 Kjøbenhavns Belejring 1658 var han Auditør ved
 Studenterkorpset. (<sp>Litt</sp>.: <sp>G. Storm</sp>, »[Norsk]
 Hist. Tidsskr.«, 2. Rk., IV; S. 114 ff.).
-<i/>Abs. T.</i></chapter>
+<i>Abs. T.</i>
+</chapter>
 
 <chapter name="Dolnja Tuzla">
-<b>Dolnja Tuzla</b> ['dålnja-'tuzla], se <sp>Tuzla</sp>.</chapter>
+<b>Dolnja Tuzla</b> ['dålnja-'tuzla], se <sp>Tuzla</sp>.
+</chapter>
 
 <chapter name="Dolo">
 <b>Dolo</b> ['dålo], By i det nordøstlige Italien,
@@ -80,7 +83,8 @@ svigagtig Fremgangsmaade.
 </chapter>
 
 <chapter name="Dolomedes">
-<b>Dolomedes,</b> se <sp>Jagtedderkopper</sp>.</chapter>
+<b>Dolomedes,</b> se <sp>Jagtedderkopper</sp>.
+</chapter>
 
 <chapter name="Dolomieu, Déodat Guy Sylvain Tancrède Gratet de">
 <b>Dolomieu</b> [dålå'm<sub>i</sub>ø], <sp>Déodat Guy

@@ -29,13 +29,16 @@ sociale</i> (6 Bd, 1857-59) er de vigtigste.
 </chapter>
 
 <chapter name="Coliseo">
-<b>Coliseo</b> [-'sæo], se <sp>Colosseum</sp>.</chapter>
+<b>Coliseo</b> [-'sæo], se <sp>Colosseum</sp>.
+</chapter>
 
 <chapter name="Colitis">
-<b>Colitis,</b> se <sp>Tarmkatarr</sp>.</chapter>
+<b>Colitis,</b> se <sp>Tarmkatarr</sp>.
+</chapter>
 
 <chapter name="Colius">
-<b>Colius,</b> se <sp>Musefugle</sp>.</chapter>
+<b>Colius,</b> se <sp>Musefugle</sp>.
+</chapter>
 
 <chapter name="Coll">
 <b>Coll</b> [kå£], en af de sydligste Hebrider,
@@ -149,7 +152,8 @@ Frihed i Foredraget.
 </chapter>
 
 <chapter name="Colla piscium">
-<b>Colla piscium</b> (lat.), Fiskelim, Husblas.</chapter>
+<b>Colla piscium</b> (lat.), Fiskelim, Husblas.
+</chapter>
 
 <chapter name="Collaps">
 <b>Collaps,</b> pludselig Sammensynken som Følge
@@ -169,7 +173,8 @@ Slappelse.
 </chapter>
 
 <chapter name="coll'arco">
-<b>coll'arco,</b> d. s. s. <i>col arco</i>, se <sp>arco</sp>.</chapter>
+<b>coll'arco,</b> d. s. s. <i>col arco</i>, se <sp>arco</sp>.
+</chapter>
 
 <chapter name="Collares">
 <b>Collares</b> [ku'lar<sub>i</sub>∫], By i Portugal, NØ. f.

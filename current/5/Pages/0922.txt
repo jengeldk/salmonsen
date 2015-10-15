@@ -50,7 +50,8 @@ Udvikling.
 <chapter name="Daviesit">
 <b>Daviesit</b> [de<sub>i</sub>v<sub>i</sub>'sit], et farveløst rombisk
 Mineral, som bestaar af et Blyoxyklorid og er
-fundet i Sierra Gorda, Atacama (Chile).</chapter>
+fundet i Sierra Gorda, Atacama (Chile).
+</chapter>
 
 <chapter name="Davignon, Charles de">
 <b>Davignon</b> [davi'n<sub>j</sub>å], <sp>Charles de</sp>, belg.

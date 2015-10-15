@@ -80,7 +80,8 @@ Vigier.
 </chapter>
 
 <chapter name="crux (astron.), se Korset">
-<b>crux</b> (astron.), se <sp>Korset</sp>.</chapter>
+<b>crux</b> (astron.), se <sp>Korset</sp>.
+</chapter>
 
 <chapter name="crux (lat.: Kors)">
 <b>crux</b> (lat.: Kors) bruges billedlig for Pine og
@@ -156,7 +157,8 @@ og et Mønsterværksted for Lærredsvæveri. (1911)
 </chapter>
 
 <chapter name="Cruz, se Pantoja de la Cruz">
-<b>Cruz</b> [kruþ], se <sp>Pantoja de la Cruz, J</sp>.</chapter>
+<b>Cruz</b> [kruþ], se <sp>Pantoja de la Cruz, J</sp>.
+</chapter>
 
 <chapter name="Cruz, San Juan de la">
 <b>Cruz</b> [kruþ], <sp>San Juan de la</sp>, egl. J. de

@@ -136,7 +136,8 @@ om Grønland, Bd XLVIII, Kbhvn 1912]).
 </chapter>
 
 <chapter name="Clauren, H.">
-<b>Clauren,</b> <sp>H.</sp>, se <sp>Heun, K. G. S</sp>.</chapter>
+<b>Clauren,</b> <sp>H.</sp>, se <sp>Heun, K. G. S</sp>.
+</chapter>
 
 <chapter name="Claus, Adolf">
 <b>Claus,</b> <sp>Adolf</sp>, tysk Kemiker, f. 6. Juni 1840,

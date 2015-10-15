@@ -7,7 +7,8 @@ meget langvarig.
 
 <chapter name="Dakryolit">
 <b>Dakryolit,</b> Sten i Taarekirtlen, sjælden
-Sygdom.</chapter>
+Sygdom.
+</chapter>
 
 <chapter name="Dakryops">
 <b>Dakryops,</b> Svulst ved ydre Øjevinkel,
@@ -48,7 +49,8 @@ som følger <sp>Dakshinacara</sp> eller
 </chapter>
 
 <chapter name="Daktyl">
-<b>Daktyl</b> (<sp>Versefod</sp>), d. s. s. <sp>Daktylos</sp>.</chapter>
+<b>Daktyl</b> (<sp>Versefod</sp>), d. s. s. <sp>Daktylos</sp>.
+</chapter>
 
 <chapter name="Daktyler">
 <b>Daktyler,</b> græske Dæmoner, der gjaldt for
@@ -99,11 +101,13 @@ Hovedsygdommens.
 
 <chapter name="Daktylogi">
 <b>Daktylogi,</b> Fingersprog, se
-<sp>Døvstummeundervisning</sp>.</chapter>
+<sp>Døvstummeundervisning</sp>.
+</chapter>
 
 <chapter name="Daktylolyse">
 <b>Daktylolyse,</b> Afløsning af Dele af Fingeren,
-en Sygdom, beskrevet under Navnet <sp>Ainhum</sp>.</chapter>
+en Sygdom, beskrevet under Navnet <sp>Ainhum</sp>.
+</chapter>
 
 <chapter name="Daktylos">
 <b>Daktylos</b> (gr.), antik Versefod, bestaaende
@@ -126,7 +130,8 @@ Oehlenschläger's Digt »Thorsing«).
 </chapter>
 
 <chapter name="Daktyloskopi">
-<b>Daktyloskopi</b> se <sp>Fingeraftryk</sp>.</chapter>
+<b>Daktyloskopi</b> se <sp>Fingeraftryk</sp>.
+</chapter>
 
 <chapter name="Daktylosymfysis">
 <b>Daktylosymfysis,</b> d. s. s. det almindeligere

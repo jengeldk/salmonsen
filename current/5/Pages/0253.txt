@@ -65,7 +65,8 @@ Samlingssted for Beaumonden af <i>Paseos</i> og
 </chapter>
 
 <chapter name="Cort.">
-<b>Cort.,</b> Forkortelse af Cortex.</chapter>
+<b>Cort.,</b> Forkortelse af Cortex.
+</chapter>
 
 <chapter name="Cort, Cornelius">
 <b>Cort</b> [kårt], <sp>Cornelius</sp>, nederlandsk
@@ -138,7 +139,8 @@ Universitet.
 
 <chapter name="Cortège">
 <b>Cortège</b> [da. kår'tæ.sj<sub>a</sub>, fr. -'tæ.з] (fr.),
-Følge, Æresfølge.</chapter>
+Følge, Æresfølge.
+</chapter>
 
 <chapter name="Cortemaggiore">
 <b>Cortemaggiore</b> [kortema'd.зore], Flække i
@@ -173,11 +175,13 @@ Stater.
 </chapter>
 
 <chapter name="Cortés, se Donoso C.">
-<b>Cortés</b> [kår'tæs], se <sp>Donoso C.</sp>, <sp>J. F.</sp></chapter>
+<b>Cortés</b> [kår'tæs], se <sp>Donoso C., J. F.</sp>
+</chapter>
 
 <chapter name="Cortese, Giacomo">
 <b>Cortese</b> [kor'teze], <sp>Giacomo</sp>, Maler, se
-<sp>Courtois</sp>.</chapter>
+<sp>Courtois</sp>.
+</chapter>
 
 <chapter name="Cortex">
 <b>Cortex</b> (lat.), Bark, benyttes baade om Barken

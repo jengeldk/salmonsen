@@ -141,7 +141,8 @@ Fordel.
 </chapter>
 
 <chapter name="dupleks">
-<b>dupleks</b> (lat.), dobbelt.</chapter>
+<b>dupleks</b> (lat.), dobbelt.
+</chapter>
 
 <chapter name="Dupleksdrejebænk">
 <b>Dupleksdrejebænk</b> kaldes <sp>dels</sp>

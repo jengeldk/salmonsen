@@ -92,7 +92,8 @@ Medlemsantallet er c. 300.
 
 <chapter name="Dansk-Hallesk Mission">
 <b>Dansk-Hallesk Mission,</b> se
-<sp>Trankebar-Missionen</sp>.</chapter>
+<sp>Trankebar-Missionen</sp>.
+</chapter>
 
 <chapter name="Dansk historisk Forening">
 <b>Dansk historisk Forening</b> blev stiftet 14.
@@ -130,7 +131,8 @@ Fællesmøder hvert andet Aar og udgiver siden
 </chapter>
 
 <chapter name="Dansk Hund">
-<b>Dansk Hund,</b> se <sp>Hunde</sp>.</chapter>
+<b>Dansk Hund,</b> se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Dansk Husflidsselskab">
 <b>Dansk Husflidsselskab.</b> Ønsket om paa ny

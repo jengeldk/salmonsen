@@ -95,7 +95,8 @@ Badvan i Persien og Samarkand l Centralasien.
 </chapter>
 
 <chapter name="Djerâsch">
-<b>Djerâsch,</b> se <sp>Gerasa</sp>.</chapter>
+<b>Djerâsch,</b> se <sp>Gerasa</sp>.
+</chapter>
 
 <chapter name="Djerba">
 <b>Djerba</b> ell. <sp>Djebado</sp>, Ø i den lille Syrte
@@ -114,17 +115,21 @@ der endnu findes Rester.
 </chapter>
 
 <chapter name="Djerdiera">
-<b>Djerdiera,</b> d. s. s. <sp>Djurdjura</sp>.</chapter>
+<b>Djerdiera,</b> d. s. s. <sp>Djurdjura</sp>.
+</chapter>
 
 <chapter name="Djerdjeh">
-<b>Djerdjeh,</b> se <sp>Girgeh</sp>.</chapter>
+<b>Djerdjeh,</b> se <sp>Girgeh</sp>.
+</chapter>
 
 <chapter name="Djeryb">
-<b>Djeryb,</b> i Tyrkiet = 1 ha.</chapter>
+<b>Djeryb,</b> i Tyrkiet = 1 ha.
+</chapter>
 
 <chapter name="Djesiret Robân">
 <b>Djesiret Robân,</b> Klippeø i
-Bab-el-Mandeb-Strædet ved Indsejlingen til det Røde Hav.</chapter>
+Bab-el-Mandeb-Strædet ved Indsejlingen til det Røde Hav.
+</chapter>
 
 <chapter name="Djessor">
 <b>Djessor</b> (<sp>Djassaur</sp>, engelsk <sp>Jessore</sp>),

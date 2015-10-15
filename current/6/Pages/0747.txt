@@ -134,16 +134,20 @@ Rigtigheden af Glauber's Antagelse.
 </chapter>
 
 <chapter name="Eddikesyreanhydrid">
-<b>Eddikesyreanhydrid,</b> se <sp>Eddikesyre</sp>.</chapter>
+<b>Eddikesyreanhydrid,</b> se <sp>Eddikesyre</sp>.
+</chapter>
 
 <chapter name="Eddikesyrebakterier">
-<b>Eddikesyrebakterier,</b> se <sp>Eddike</sp>.</chapter>
+<b>Eddikesyrebakterier,</b> se <sp>Eddike</sp>.
+</chapter>
 
 <chapter name="Eddikesyregæring">
-<b>Eddikesyregæring,</b> se <sp>Eddike</sp>.</chapter>
+<b>Eddikesyregæring,</b> se <sp>Eddike</sp>.
+</chapter>
 
 <chapter name="Eddikeurt">
-<b>Eddikeurt,</b> se <sp>Esdragon</sp>.</chapter>
+<b>Eddikeurt,</b> se <sp>Esdragon</sp>.
+</chapter>
 
 <chapter name="Eddikeæter">
 <b>Eddikeæter</b> (<sp>Ætylacetat</sp>), CH<sub>3</sub>COO.C<sub>2</sub>H<sub>5</sub>,

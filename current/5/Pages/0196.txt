@@ -23,7 +23,8 @@ Pardessus og Tr. Twiss.
 </chapter>
 
 <chapter name="consolidatio">
-<b>consolidatio</b> (lat.), se <sp>Konsolidation</sp>.</chapter>
+<b>consolidatio</b> (lat.), se <sp>Konsolidation</sp>.
+</chapter>
 
 <chapter name="Consols">
 <b>Consols</b> [k<sub>ə</sub>n'så£z ell. 'kåns<sub>å</sub>£z] (eng.) er en
@@ -65,7 +66,8 @@ Oksekød, men tillige Kalvekød og Høns.
 </chapter>
 
 <chapter name="con sordino">
-<b>con sordino,</b> se <sp>con</sp>.</chapter>
+<b>con sordino,</b> se <sp>con</sp>.
+</chapter>
 
 <chapter name="consorteria">
 <b>consorteria</b> (ital.) (d. s. s. Kammeraderi)
@@ -78,14 +80,17 @@ ved Magten.
 
 <chapter name="consortes litis">
 <b>consortes litis</b> (lat.), Procesfæller, se
-<sp>Procesfællesskab</sp>.</chapter>
+<sp>Procesfællesskab</sp>.
+</chapter>
 
 <chapter name="consp.">
 <b>consp.</b> (lat.) paa Recepter, Forkortelse af
-<i>conspérge</i>, bestrø (f. Eks. Piller).</chapter>
+<i>conspérge</i>, bestrø (f. Eks. Piller).
+</chapter>
 
 <chapter name="con spirito">
-<b>con spirito,</b> se <sp>con</sp>.</chapter>
+<b>con spirito,</b> se <sp>con</sp>.
+</chapter>
 
 <chapter name="constable, fast ansat Politibetjent">
 <b>constable</b> ['kanst<sub>ə</sub>b£ eller 'kån-] (eng.). I

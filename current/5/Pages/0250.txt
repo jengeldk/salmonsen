@@ -1,16 +1,20 @@
 <chapter name="Corrigenda">
 <b>Corrigenda</b> (af lat. <i>corrigere</i>, rette,
-forbedre), Fortegnelse over Tryk- og Skrivefejl.</chapter>
+forbedre), Fortegnelse over Tryk- og Skrivefejl.
+</chapter>
 
 <chapter name="corriger la fortune">
 <b>corriger la fortune</b> [kåri'зe-la-får'tyn] (fr.),
-hjælpe paa Lykken ɔ: spille falsk.</chapter>
+hjælpe paa Lykken ɔ: spille falsk.
+</chapter>
 
 <chapter name="Corrigiola">
-<b>Corrigiola,</b> se <sp>Skorem</sp>.</chapter>
+<b>Corrigiola,</b> se <sp>Skorem</sp>.
+</chapter>
 
 <chapter name="Corroborantia">
-<b>Corroborantia,</b> styrkende Lægemidler.</chapter>
+<b>Corroborantia,</b> styrkende Lægemidler.
+</chapter>
 
 <chapter name="Corrodentia">
 <b>Corrodentia,</b> Underafdeling af

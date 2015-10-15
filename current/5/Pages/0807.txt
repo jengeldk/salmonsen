@@ -77,11 +77,13 @@ Reimers' og Hustrus Legat (Kapital c. 6000 Kr).
 </chapter>
 
 <chapter name="Danmarks  Biavlerforening">
-<b>Danmarks  Biavlerforening,</b>  se  <sp>Biavl</sp>.</chapter>
+<b>Danmarks  Biavlerforening,</b>  se  <sp>Biavl</sp>.
+</chapter>
 
 <chapter name="Danmarks Fierkræavlerforening">
 <b>Danmarks Fierkræavlerforening,</b> se
-<sp>Fjerkræavl</sp>.</chapter>
+<sp>Fjerkræavl</sp>.
+</chapter>
 
 <chapter name="Danmarksfjärden">
 <b>Danmarksfjärden</b> [-fjæ.<sup>r</sup>d<sup>ə</sup>n], en Bugt af

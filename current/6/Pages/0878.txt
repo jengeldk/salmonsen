@@ -33,7 +33,8 @@ Herbarium.
 </chapter>
 
 <chapter name="Eksspiration">
-<b>Eksspiration,</b> se <sp>Aandedræt</sp>, S. 33.</chapter>
+<b>Eksspiration,</b> se <sp>Aandedræt</sp>, S. 33.
+</chapter>
 
 <chapter name="eksspiratorisk Accent">
 <b>eksspiratorisk Accent</b> [-ak'sæn't] eller

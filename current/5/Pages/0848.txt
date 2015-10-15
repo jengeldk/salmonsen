@@ -109,7 +109,8 @@ Arbejder« [Kbhvn 1892]).
 </chapter>
 
 <chapter name="Danske Vitruvius">
-<b>Danske Vitruvius,</b> se <sp>Vitruvius</sp>.</chapter>
+<b>Danske Vitruvius,</b> se <sp>Vitruvius</sp>.
+</chapter>
 
 <chapter name="Dansk Ferskvandsfiskeriforening">
 <b>Dansk Ferskvandsfiskeriforening</b> blev

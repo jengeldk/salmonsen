@@ -87,10 +87,12 @@ Bernoulli</sp>).
 
 <chapter name="cykloide, Fiskeskæl">
 <b>cykloide</b> <sp>Fiskeskæl</sp>, glatte uden Torne
-paa Bagranden. Se <sp>Fisk</sp> og <sp>Skæl</sp>.</chapter>
+paa Bagranden. Se <sp>Fisk</sp> og <sp>Skæl</sp>.
+</chapter>
 
 <chapter name="Cykloidehjul">
-<b>Cykloidehjul,</b> se <sp>Tandhjul</sp>.</chapter>
+<b>Cykloidehjul,</b> se <sp>Tandhjul</sp>.
+</chapter>
 
 <chapter name="Cyklon">
 <b>Cyklon</b> (gr.) (<sp>Barometerminimum</sp>

@@ -25,7 +25,8 @@ Antal Badegæster 1600-1700.
 </chapter>
 
 <chapter name="Eimeo">
-<b>Eimeo,</b> se <sp>Mourea</sp>.</chapter>
+<b>Eimeo,</b> se <sp>Mourea</sp>.
+</chapter>
 
 <chapter name="Eimer">
 <b>Eimer</b> ['a^im<sub>ə</sub>r] (af lat. <i>amphora</i>), et i
@@ -60,7 +61,8 @@ Schmetterlingen« (1889-96).
 
 <chapter name="Eimsbüttel">
 <b>Eimsbüttel</b> ['a^imzbyt<sub>ə</sub>l], Forstad til
-<sp>Hamburg</sp>.</chapter>
+<sp>Hamburg</sp>.
+</chapter>
 
 <chapter name="Eina, Herred">
 <b>Eina</b> ['æjna], <sp>Herred</sp>, Kristians Amt,

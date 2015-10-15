@@ -23,11 +23,13 @@ Skriftstørrelse. Se <sp>Skriftstørrelser</sp>.
 </chapter>
 
 <chapter name="Diamantbor">
-<b>Diamantbor,</b> se <sp>Boring</sp>.</chapter>
+<b>Diamantbor,</b> se <sp>Boring</sp>.
+</chapter>
 
 <chapter name="Diamantbryllup">
 <b>Diamantbryllup,</b> Betegnelse for et
-Ægteskabs 60-aarige Bestaaen.</chapter>
+Ægteskabs 60-aarige Bestaaen.
+</chapter>
 
 <chapter name="Diamante, Juan Bantista">
 <b>Diamante</b> [ð<sub>i</sub>a'mant<sub>æ</sub>], <sp>Juan Bantista</sp>,
@@ -82,7 +84,8 @@ Diamantkvadre, men her enkeltstillede.
 
 <chapter name="Diamantfarve">
 <b>Diamantfarve,</b> Grafit udrørt med
-Linoliefernis; bruges især til Strygning af Jernvarer.</chapter>
+Linoliefernis; bruges især til Strygning af Jernvarer.
+</chapter>
 
 <chapter name="Diamantfinke">
 <b>Diamantfinke</b> (<i>Stagonopleura guttata</i> Shaw),
@@ -108,16 +111,19 @@ komme i umiddelbar Nærhed af disse.
 </chapter>
 
 <chapter name="Diamantgrønt">
-<b>Diamantgrønt,</b> se <sp>Malakitgrønt</sp>.</chapter>
+<b>Diamantgrønt,</b> se <sp>Malakitgrønt</sp>.
+</chapter>
 
 <chapter name="Diamantgult">
 <b>Diamantgult</b> er et Azofarvestof, der bruges
-til Gulfarvning af Uld.</chapter>
+til Gulfarvning af Uld.
+</chapter>
 
 <chapter name="Diamantin">
 <b>Diamantin,</b> et af de mange Navne,
 hvorunder smeltet og knust Bauxit gaar i Handelen
-til Brug som Polermiddel.</chapter>
+til Brug som Polermiddel.
+</chapter>
 
 <chapter name="Diamantina, Villa D.">
 <b>Diamantina</b> [d<sub>iə</sub>ma<sub>n</sub>'tin<sub>ə</sub>], <sp>Villa D.</sp>,
@@ -159,7 +165,8 @@ slebne Glasgenstande.
 </chapter>
 
 <chapter name="Diamantspat">
-<b>Diamantspat,</b> se <sp>Korund</sp>.</chapter>
+<b>Diamantspat,</b> se <sp>Korund</sp>.
+</chapter>
 
 <chapter name="Diamastigosis">
 <b>Diamastigosis</b> [gr. -'sti.-], den

@@ -10,7 +10,8 @@ Mos i Væksthusene.
 </chapter>
 
 <chapter name="Diopsid">
-<b>Diopsid,</b> se <sp>Pyroxengruppen</sp>.</chapter>
+<b>Diopsid,</b> se <sp>Pyroxengruppen</sp>.
+</chapter>
 
 <chapter name="Dioptas">
 <b>Dioptas</b> (<sp>Kobbersmaragd</sp>,
@@ -102,13 +103,14 @@ konstruerede et D., hvorved man ved at variere
 Størrelsen af Rammen i Objektivdiopteret kunde
 opnaa det samme uden at forskyde denne. D. er
 nu afløst af den astron. Kikkert.
-<i>J. Fr. S.</i>
 
-<img>
-Diopterlineal.</img></chapter>
+<img>Diopterlineal.</img>
+<i>J. Fr. S.</i>
+</chapter>
 
 <chapter name="Dioptri">
-<b>Dioptri,</b> se <sp>Briller</sp>.</chapter>
+<b>Dioptri,</b> se <sp>Briller</sp>.
+</chapter>
 
 <chapter name="Dioptrik">
 <b>Dioptrik,</b> Læren om Lysets <sp>Brydning</sp>, i
@@ -118,7 +120,8 @@ Tilbagekastning.
 </chapter>
 
 <chapter name="dioptrisk Anamorfose">
-<b>dioptrisk Anamorfose,</b> se <sp>Anamorfose</sp>.</chapter>
+<b>dioptrisk Anamorfose,</b> se <sp>Anamorfose</sp>.
+</chapter>
 
 <chapter name="Diorama">
 <b>Diorama</b> (gr.), et gennemskinneligt Billede,

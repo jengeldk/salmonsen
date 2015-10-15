@@ -54,10 +54,12 @@ Periode af Kejserens Regeringstid.
 
 <chapter name="decennium">
 <b>decennium</b> (lat.), Tiaar; deraf
-<sp>decennalia</sp> (s. d.); smlg. <sp>Aarti</sp>.</chapter>
+<sp>decennalia</sp> (s. d.); smlg. <sp>Aarti</sp>.
+</chapter>
 
 <chapter name="decent">
-<b>decent</b> (lat.), anstændig, sømmelig, sædelig.</chapter>
+<b>decent</b> (lat.), anstændig, sømmelig, sædelig.
+</chapter>
 
 <chapter name="Decentius">
 <b>Decentius</b> var en Fætter til Usurpatoren
@@ -66,10 +68,12 @@ Cæsar i Gallien. Han led imidlertid et stort
 Nederlag mod Alamanerne, og efter at
 Magnentius var bukket under for Kejser
 Constantius, dræbte han sig selv (353).
-(<i>(M. M.). H. H. R.</i></chapter>
+<i>(M. M.). H. H. R.</i>
+</chapter>
 
 <chapter name="Decentralisation">
-<b>Decentralisation,</b> se <sp>Centralisation</sp>.</chapter>
+<b>Decentralisation,</b> se <sp>Centralisation</sp>.
+</chapter>
 
 <chapter name="Deception">
 <b>Deception</b> [d<sub>i</sub>'sep∫<sub>ə</sub>n], en af

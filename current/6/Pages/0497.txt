@@ -61,7 +61,8 @@ blev ødelagt af Indianerne.
 <chapter name="duc">
 <b>duc</b> [dyk] (fr., ital. <i>duca</i>, eng. <i>duke</i> [dju.k],
 af lat. <i>dux</i>), Hertug; i Frankrig den højeste
-Adelsrang; se <sp>duché</sp>.</chapter>
+Adelsrang; se <sp>duché</sp>.
+</chapter>
 
 <chapter name="Duc">
 <b>Duc</b> [dyk] (<sp>Køretøj</sp>), 4-hjulet
@@ -86,7 +87,8 @@ Napoleon III's Ærespris.
 </chapter>
 
 <chapter name="duca">
-<b>duca</b> (ital.), Hertug.</chapter>
+<b>duca</b> (ital.), Hertug.
+</chapter>
 
 <chapter name="du Camp, Maxime">
 <b>du Camp</b> [dy-'kã], <sp>Maxime</sp>, fr. Forf., f. i

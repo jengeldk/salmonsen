@@ -46,14 +46,17 @@ medens den tidligere havde været søgt som en
 
 <chapter name="Dekurt">
 <b>Dekurt,</b> <sp>dekurtere</sp>, d. s. s. <sp>Dekort</sp>,
-<sp>dekortere</sp>.</chapter>
+<sp>dekortere</sp>.
+</chapter>
 
 <chapter name="Del.">
 <b>Del.,</b> officiel Forkortelse af Navnet paa den
-nordamerikanske Stat Delaware.</chapter>
+nordamerikanske Stat Delaware.
+</chapter>
 
 <chapter name="del.">
-<b>del.,</b> se <sp>deleatur</sp> og <sp>delineavit</sp>.</chapter>
+<b>del.,</b> se <sp>deleatur</sp> og <sp>delineavit</sp>.
+</chapter>
 
 <chapter name="de la Bèche, Sir Henry Thomas">
 <b>de la Bèche</b> [de-£<sub>ə</sub>-'be∫], <sp>Sir Henry

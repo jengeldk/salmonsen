@@ -7,19 +7,24 @@ Olieindvinding.
 </chapter>
 
 <chapter name="Coprinus">
-<b>Coprinus,</b> se <sp>Blækhat</sp>.</chapter>
+<b>Coprinus,</b> se <sp>Blækhat</sp>.
+</chapter>
 
 <chapter name="Coprinæ">
-<b>Coprinæ,</b> se <sp>Skarabæer</sp>.</chapter>
+<b>Coprinæ,</b> se <sp>Skarabæer</sp>.
+</chapter>
 
 <chapter name="Cops">
-<b>Cops</b> [kåps], se <sp>Spinding</sp>.</chapter>
+<b>Cops</b> [kåps], se <sp>Spinding</sp>.
+</chapter>
 
 <chapter name="Copula">
-<b>Copula,</b> d. s. s. <sp>Amboceptor</sp>.</chapter>
+<b>Copula,</b> d. s. s. <sp>Amboceptor</sp>.
+</chapter>
 
 <chapter name="copula carnalis">
-<b>copula carnalis</b> (lat.), Samleje.</chapter>
+<b>copula carnalis</b> (lat.), Samleje.
+</chapter>
 
 <chapter name="Copyholders">
 <b>Copyholders</b> ['kåp<sub>i</sub>ho<sub>u</sub>£dəz] (eng.) lader sig
@@ -39,7 +44,8 @@ Retsstilling som disse.
 </chapter>
 
 <chapter name="copyright">
-<b>copyright</b> ['kåp<sub>i</sub>ra^it] (eng.), Forlagsret.</chapter>
+<b>copyright</b> ['kåp<sub>i</sub>ra^it] (eng.), Forlagsret.
+</chapter>
 
 <chapter name="Coquard, Arthur">
 <b>Coquard</b> [kå'ka.r], <sp>Arthur</sp>, fr. Komponist,
@@ -55,7 +61,8 @@ og Skr. <i>La musique en France depuis Rameau</i>.
 
 <chapter name="coquelicot">
 <b>coquelicot</b> [kåkli'ko] (fr.), hanekamrød,
-højrød, valmuerød.</chapter>
+højrød, valmuerød.
+</chapter>
 
 <chapter name="Coquelin, 1) Benoit Constant, 2) Ernst Alexandre Honoré">
 <b>Coquelin</b> [kå'klæ], 1) <sp>Benoit Constant</sp>,

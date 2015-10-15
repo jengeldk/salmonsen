@@ -14,14 +14,15 @@ Inddelingen paa Omkredsen af Hovedet <i>h</i>. Som
 Trykskrue anvendes D. ved
 Differentialskruepresser (se <sp>Presser</sp>) og
 Differentialskruevinder (se <sp>Vinder</sp>).
-<i>F. W.</i>
 
-<img>
-Differentialskrue.</img></chapter>
+<img>Differentialskrue.</img>
+<i>F. W.</i>
+</chapter>
 
 <chapter name="Differentialtariffer">
 <b>Differentialtariffer,</b> se
-<sp>Jernbanetariffer</sp>.</chapter>
+<sp>Jernbanetariffer</sp>.
+</chapter>
 
 <chapter name="Differentialtold">
 <b>Differentialtold.</b> Foruden den almindelig

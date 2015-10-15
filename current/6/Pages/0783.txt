@@ -103,7 +103,8 @@ naar den nu forlanges.
 </chapter>
 
 <chapter name="Efterlignelse">
-<b>Efterlignelse</b> i Musikken, se <sp>Imitation</sp>.</chapter>
+<b>Efterlignelse</b> i Musikken, se <sp>Imitation</sp>.
+</chapter>
 
 <chapter name="Efterligning">
 <b>Efterligning</b> af andre Individers

@@ -10,13 +10,16 @@ som den ung. Revolution kan opvise.
 </chapter>
 
 <chapter name="Damkarusse">
-<b>Damkarusse,</b> se <sp>Karpefisk</sp>.</chapter>
+<b>Damkarusse,</b> se <sp>Karpefisk</sp>.
+</chapter>
 
 <chapter name="Damkultur">
-<b>Damkultur,</b> se <sp>Dambrug</sp>.</chapter>
+<b>Damkultur,</b> se <sp>Dambrug</sp>.
+</chapter>
 
 <chapter name="Damm">
-<b>Damm,</b> se <sp>Altdamm</sp>.</chapter>
+<b>Damm,</b> se <sp>Altdamm</sp>.
+</chapter>
 
 <chapter name="Dammagruppe">
 <b>Dammagruppe,</b> et Bjergmassiv i den
@@ -36,7 +39,8 @@ Gang besteget 1864.
 </chapter>
 
 <chapter name="Dammara">
-<b>Dammara,</b> se <sp>Agathis</sp>.</chapter>
+<b>Dammara,</b> se <sp>Agathis</sp>.
+</chapter>
 
 <chapter name="Dammaraharpiks">
 <b>Dammaraharpiks,</b> <sp>Damarharpiks</sp>, en
@@ -82,7 +86,8 @@ saa <sp>farveløs</sp> Fernis som muligt.
 </chapter>
 
 <chapter name="Dammaralak">
-<b>Dammaralak,</b> se <sp>Dammaraharpiks</sp>.</chapter>
+<b>Dammaralak,</b> se <sp>Dammaraharpiks</sp>.
+</chapter>
 
 <chapter name="Dammaratræ">
 <b>Dammaratræ,</b> Veddet af <i>Agathis australis</i>,

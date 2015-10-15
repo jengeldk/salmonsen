@@ -92,7 +92,8 @@ françaises dans les révolutions</i>.
 </chapter>
 
 <chapter name="Ducato, Kap">
-<b>Ducato,</b> <sp>Kap</sp>, se <sp>Leukadia</sp>.</chapter>
+<b>Ducato,</b> <sp>Kap</sp>, se <sp>Leukadia</sp>.
+</chapter>
 
 <chapter name="Duccio di Buoninsegna">
 <b>Duccio di Buoninsegna</b>

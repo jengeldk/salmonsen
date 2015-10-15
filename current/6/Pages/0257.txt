@@ -8,17 +8,21 @@ Voldgiftsmands Kendelse. (<sp>Litt</sp>.: <sp>Lipsius</sp>,
 </chapter>
 
 <chapter name="Diætetik">
-<b>Diætetik</b> (gr.), Læren om Diæt.</chapter>
+<b>Diætetik</b> (gr.), Læren om Diæt.
+</chapter>
 
 <chapter name="Diætetiker">
-<b>Diætetiker</b> (gr.), Lærer i Diætetik.</chapter>
+<b>Diætetiker</b> (gr.), Lærer i Diætetik.
+</chapter>
 
 <chapter name="Diætylacetal">
 <b>Diætylacetal,</b> d. s. s. Ætylidendiætylæter,
-se <sp>Acetal</sp>.</chapter>
+se <sp>Acetal</sp>.
+</chapter>
 
 <chapter name="Diætylæter">
-<b>Diætylæter,</b> d. s. s. <sp>Æter</sp>.</chapter>
+<b>Diætylæter,</b> d. s. s. <sp>Æter</sp>.
+</chapter>
 
 <chapter name="Diøces">
 <b>Diøces</b> (gr.). Kejser Diokletian delte
@@ -36,7 +40,8 @@ Dansk kaldes D. for <sp>Landemoder</sp>.
 </chapter>
 
 <chapter name="Diøci, diøcisk">
-<b>Diøci, diøcisk,</b> se <sp>Bestøvning</sp>.</chapter>
+<b>Diøci, diøcisk,</b> se <sp>Bestøvning</sp>.
+</chapter>
 
 <chapter name="Djabalpur">
 <b>Djabalpur</b> (eng. <sp>Jabalpur</sp>,

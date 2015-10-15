@@ -5,7 +5,8 @@ Overlegenhed paa den milit. Side.
 
 <chapter name="Civildepartementet">
 <b>Civildepartementet</b> [-'maŋ'], se <sp>Sverige</sp>
-(»Statsforfatning og -forvaltning«).</chapter>
+(»Statsforfatning og -forvaltning«).
+</chapter>
 
 <chapter name="Civil-Deputeret">
 <b>Civil-Deputeret</b> i <sp>Admiralitetet</sp>, den
@@ -16,10 +17,12 @@ civile Admiralitetsraad, der bestyrede Sø-Etatens
 
 <chapter name="civile Sager">
 <b>civile Sager,</b> Sager, der behandles i
-Civilprocessens Former, se <sp>Civilproces</sp>.</chapter>
+Civilprocessens Former, se <sp>Civilproces</sp>.
+</chapter>
 
 <chapter name="Civiletat">
-<b>Civiletat,</b> se <sp>civil</sp> og <sp>Etat</sp>.</chapter>
+<b>Civiletat,</b> se <sp>civil</sp> og <sp>Etat</sp>.
+</chapter>
 
 <chapter name="Civiletaternes Centralorganisation">
 <b>Civiletaternes Centralorganisation,</b> en
@@ -111,10 +114,12 @@ Dannelse, Oplysning, intellektuel Udvikling. C.
 betegner en saadan Udvikling af Sæder og
 Tankesæt, som betinger et ordnet borgerligt
 Samfund, og gennem hvilken dette naar til højere
-Kultur.</chapter>
+Kultur.
+</chapter>
 
 <chapter name="Civilist">
-<b>Civilist,</b> se <sp>civil</sp>.</chapter>
+<b>Civilist,</b> se <sp>civil</sp>.
+</chapter>
 
 <chapter name="Civilkammer">
 <b>Civilkammer</b> betyder i al Alm. en saadan

@@ -98,14 +98,17 @@ Alger og Sten.
 </chapter>
 
 <chapter name="dorisk Dialekt">
-<b>dorisk Dialekt,</b> se <sp>Grækenland</sp>, »Sprog«.</chapter>
+<b>dorisk Dialekt,</b> se <sp>Grækenland</sp>, »Sprog«.
+</chapter>
 
 <chapter name="dorisk Stil">
 <b>dorisk Stil,</b> se <sp>Bygningskunst</sp> og
-<sp>Søjler</sp>.</chapter>
+<sp>Søjler</sp>.
+</chapter>
 
 <chapter name="dorisk Søjle">
-<b>dorisk Søjle,</b> se <sp>Søjler</sp>.</chapter>
+<b>dorisk Søjle,</b> se <sp>Søjler</sp>.
+</chapter>
 
 <chapter name="dorisk Toneart">
 <b>dorisk Toneart.</b> I den græske Musik bestod

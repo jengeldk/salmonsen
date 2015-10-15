@@ -16,7 +16,8 @@ atter kan vækkes.
 
 <chapter name="Coma Berenices">
 <b>Coma Berenices,</b> se <sp>Berenikes
-Hovedhaar</sp>.</chapter>
+Hovedhaar</sp>.
+</chapter>
 
 <chapter name="Comacchio">
 <b>Comacchio</b> [ko'mak.<sub>i</sub>o], By i det nordøstlige
@@ -46,13 +47,16 @@ Kridtformation.
 
 <chapter name="Comancher">
 <b>Comancher</b> [ko'mantsj<sub>ə</sub>r], se
-<sp>Komantscher</sp>.</chapter>
+<sp>Komantscher</sp>.
+</chapter>
 
 <chapter name="Comarum">
-<b>Comarum,</b> se <sp>Potentilla</sp>.</chapter>
+<b>Comarum,</b> se <sp>Potentilla</sp>.
+</chapter>
 
 <chapter name="Comatulidæ">
-<b>Comatulidæ,</b> se <sp>Sølillier</sp>.</chapter>
+<b>Comatulidæ,</b> se <sp>Sølillier</sp>.
+</chapter>
 
 <chapter name="Comayagua">
 <b>Comayagua</b> [kåma'jagwa], Hovedstad for

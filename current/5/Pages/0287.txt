@@ -84,7 +84,8 @@ skotske Frikirke.
 
 <chapter name="Covent Garden">
 <b>Covent Garden</b> ['kav<sub>ə</sub>nt-'ga.<sub>ə</sub>d<sub>ə</sub>n ell. 'kåv<sub>ə</sub>nt-],
-se <sp>London</sp>.</chapter>
+se <sp>London</sp>.
+</chapter>
 
 <chapter name="Covent Garden Theatre">
 <b>Covent Garden Theatre</b> ['kav<sub>ə</sub>nt-'ga.<sub>ə</sub>d<sub>ə</sub>n-
@@ -134,7 +135,8 @@ Tekstilindustri.
 
 <chapter name="Cove of Cork">
 <b>Cove of Cork</b> ['ko<sub>u</sub>v-<sub>ə</sub>v-'kå.<sub>ə</sub>k], se
-<sp>Queenstown</sp>.</chapter>
+<sp>Queenstown</sp>.
+</chapter>
 
 <chapter name="Coverdale, Miles">
 <b>Coverdale</b> ['kåvəde<sub>i</sub>£ ell. 'ka-], <sp>Miles</sp>, eng.

@@ -32,17 +32,20 @@ Orden ell. Medaille.
 smykke), smykkende, prydende, stilfuld. I
 Bygningskunsten Modsætning til konstruktiv; i
 Maleriet ydre Farvevirkning uden Hensyn til
-Indhold og Form.</chapter>
+Indhold og Form.
+</chapter>
 
 <chapter name="Dekoratør">
 <b>Dekoratør</b> (fr.), den der ordner
 Udsmykningen ved Fester, i Butikker og i elegante
-Hjem.</chapter>
+Hjem.
+</chapter>
 
 <chapter name="dekorere">
 <b>dekorere</b> (lat.), udsmykke; udmærke ved
 Tildeling af en Orden ell. andet
-Udmærkelsestegn (Dekoration).</chapter>
+Udmærkelsestegn (Dekoration).
+</chapter>
 
 <chapter name="Dekort">
 <b>Dekort</b> (af fr. <i>décourt</i>), i Handelssproget
@@ -71,23 +74,28 @@ Mellemværende.
 <chapter name="dekreditere">
 <b>dekreditere</b> (fr.), bringe i Miskredit,
 nedsætte Nogens Kredit ell. hans gode Navn og
-Rygte.</chapter>
+Rygte.
+</chapter>
 
 <chapter name="Dekrement">
 <b>Dekrement</b> (lat.), Aftagende, Formindskelse,
 Forfald. <sp>Dekrementtavle</sp>, se
-<sp>Dødelighedsstatistik</sp>.</chapter>
+<sp>Dødelighedsstatistik</sp>.
+</chapter>
 
 <chapter name="Dekrement">
 <b>Dekrement,</b> se <sp>elektromagnetiske
-Svingninger</sp>.</chapter>
+Svingninger</sp>.
+</chapter>
 
 <chapter name="dekrepitere">
 <b>dekrepitere</b> (lat.), knistre, se
-<sp>Knistringsvand</sp>.</chapter>
+<sp>Knistringsvand</sp>.
+</chapter>
 
 <chapter name="Dekrescens">
-<b>Dekrescens</b> [-'sæn's], se <sp>Krystal</sp>.</chapter>
+<b>Dekrescens</b> [-'sæn's], se <sp>Krystal</sp>.
+</chapter>
 
 <chapter name="Dekret">
 <b>Dekret</b> (lat. <i>decretum</i>), en af en Øvrighed
@@ -149,7 +157,8 @@ Fortolkere ofte <sp>Dekretister</sp>.
 
 <chapter name="dekretere">
 <b>dekretere</b> (lat.), afgøre, bestemme,
-foreskrive (se <sp>Dekret</sp>).</chapter>
+foreskrive (se <sp>Dekret</sp>).
+</chapter>
 
 <chapter name="Dekretur">
 <b>Dekretur</b> (lat.), kortfattet Afgørelse fra en
@@ -161,7 +170,8 @@ foregaar.
 
 <chapter name="Deksiografi">
 <b>Deksiografi</b> (gr.), Skrivning fra venstre til
-højre.</chapter>
+højre.
+</chapter>
 
 <chapter name="Dekstrin">
 <b>Dekstrin</b> er et Omdannelsesprodukt af

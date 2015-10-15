@@ -57,13 +57,16 @@ Sydamerika.
 </chapter>
 
 <chapter name="Cyclitis">
-<b>Cyclitis,</b> se <sp>Øjenbetændelse</sp>.</chapter>
+<b>Cyclitis,</b> se <sp>Øjenbetændelse</sp>.
+</chapter>
 
 <chapter name="Cyclodipterini">
-<b>Cyclodipterini,</b> se <sp>Ganoider</sp>.</chapter>
+<b>Cyclodipterini,</b> se <sp>Ganoider</sp>.
+</chapter>
 
 <chapter name="Cyclometopa">
-<b>Cyclometopa,</b> se <sp>Krabber</sp>.</chapter>
+<b>Cyclometopa,</b> se <sp>Krabber</sp>.
+</chapter>
 
 <chapter name="Cyclopidæ">
 <b>Cyclopidæ,</b> Fam. af Copepodernes Orden,
@@ -95,17 +98,21 @@ Antal Arter.
 </chapter>
 
 <chapter name="Cyclops">
-<b>Cyclops,</b> se <sp>Cyclopidæ</sp>.</chapter>
+<b>Cyclops,</b> se <sp>Cyclopidæ</sp>.
+</chapter>
 
 <chapter name="Cyclopsittacidæ">
 <b>Cyclopsittacidæ</b> (<sp>Dværgpapegøjer</sp>),
-se <sp>Papegøjer</sp>.</chapter>
+se <sp>Papegøjer</sp>.
+</chapter>
 
 <chapter name="Cyclopterus">
-<b>Cyclopterus,</b> se <sp>Skivefisk</sp>.</chapter>
+<b>Cyclopterus,</b> se <sp>Skivefisk</sp>.
+</chapter>
 
 <chapter name="Cyclosporales">
-<b>Cyclosporales,</b> se <sp>Alger</sp> (Brunalger).</chapter>
+<b>Cyclosporales,</b> se <sp>Alger</sp> (Brunalger).
+</chapter>
 
 <chapter name="Cyclostoma">
 <b>Cyclostoma</b> eller <sp>Ericia</sp>, laagbærende
@@ -127,16 +134,20 @@ en Art, <i>C. elegans</i>.
 </chapter>
 
 <chapter name="Cyclostomata">
-<b>Cyclostomata,</b> se <sp>Mosdyr</sp>.</chapter>
+<b>Cyclostomata,</b> se <sp>Mosdyr</sp>.
+</chapter>
 
 <chapter name="Cyclostomi">
-<b>Cyclostomi,</b> se <sp>Rundmundene</sp>.</chapter>
+<b>Cyclostomi,</b> se <sp>Rundmundene</sp>.
+</chapter>
 
 <chapter name="Cydamus">
-<b>Cydamus,</b> se <sp>Ghadames</sp>.</chapter>
+<b>Cydamus,</b> se <sp>Ghadames</sp>.
+</chapter>
 
 <chapter name="Cydnus">
-<b>Cydnus,</b> se <sp>Kydnos</sp>.</chapter>
+<b>Cydnus,</b> se <sp>Kydnos</sp>.
+</chapter>
 
 <chapter name="Cydonia Tourn.">
 <b>Cydonia</b> Tourn., Slægt af Kernefrugtfam.,

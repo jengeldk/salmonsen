@@ -97,7 +97,8 @@ paa et vist socialt Trin.
 
 <chapter name="Della Robbia">
 <b>Della Robbia,</b> italiensk Kunstnerfamilie, se
-<sp>Robbia</sp>.</chapter>
+<sp>Robbia</sp>.
+</chapter>
 
 <chapter name="Della Scala">
 <b>Della Scala,</b> Teater i Milano. Det blev
@@ -148,7 +149,8 @@ Nilsson.
 </chapter>
 
 <chapter name="Delling">
-<b>Delling</b> (<sp>myt</sp>.), se <sp>Dag</sp>.</chapter>
+<b>Delling</b> (<sp>myt</sp>.), se <sp>Dag</sp>.
+</chapter>
 
 <chapter name="Del Lungo">
 <b>Del Lungo</b> [-luŋgo], <sp>Isidoro</sp>, ital.

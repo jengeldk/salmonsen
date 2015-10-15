@@ -89,7 +89,8 @@ Arkwright 1771 et stort Bomuldsvæveri.
 </chapter>
 
 <chapter name="Cromfordit">
-<b>Cromfordit,</b> d. s. s. <sp>Fosgenit</sp>.</chapter>
+<b>Cromfordit,</b> d. s. s. <sp>Fosgenit</sp>.
+</chapter>
 
 <chapter name="Cromlech">
 <b>Cromlech</b> ['kråm£ek] (af gælisk <i>crom</i>,

@@ -27,7 +27,8 @@ Læder.
 
 <chapter name="Ebisuminato">
 <b>Ebisuminato</b> (<sp>Abisumi</sp>), lille Havnestad
-paa den jap. Ø Sado.</chapter>
+paa den jap. Ø Sado.
+</chapter>
 
 <chapter name="Ebjonitter">
 <b>Ebjonitter</b> (af hebr. <i>ebjonim</i>, de Fattige),
@@ -116,7 +117,8 @@ Himlen. Navnet omskrives ogsaa <sp>Iblis</sp>.
 
 <chapter name="Ebn">
 <b>Ebn</b> (<sp>arab</sp>.) bet. Søn; om de med E.
-sammensatte Navne, se <sp>Ibn</sp>.</chapter>
+sammensatte Navne, se <sp>Ibn</sp>.
+</chapter>
 
 <chapter name="Ebner's Sats">
 <b>Ebner's Sats</b> ['e.bn<sub>ə</sub>rs-], en Sats, der

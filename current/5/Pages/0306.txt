@@ -68,7 +68,8 @@ Videnskabernes Selskab i Kbhvn.
 <chapter name="Cremoneser">
 <b>Cremoneser,</b> et Strengeinstrument - Violin,
 Violoncel o. l. - der stammer fra de berømte
-Instrumentbyggere i Cremona. (Se <sp>Violin</sp>).</chapter>
+Instrumentbyggere i Cremona. (Se <sp>Violin</sp>).
+</chapter>
 
 <chapter name="Cremor tartari">
 <b>Cremor tartari</b> (<i>Bitartras kalicus</i>), surt

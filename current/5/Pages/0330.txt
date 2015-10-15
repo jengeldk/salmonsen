@@ -100,7 +100,8 @@ smertestillende Middel ved Neuralgier.
 </chapter>
 
 <chapter name="Crotonol, Crotonolsyre">
-<b>Crotonol, Crotonolsyre,</b> se <sp>Crotonolie</sp>.</chapter>
+<b>Crotonol, Crotonolsyre,</b> se <sp>Crotonolie</sp>.
+</chapter>
 
 <chapter name="Crotonolie">
 <b>Crotonolie</b> er en svagt tørrende, gul eller

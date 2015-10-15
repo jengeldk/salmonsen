@@ -31,7 +31,8 @@ Hull i Yorkshire (England), med Villaer og
 </chapter>
 
 <chapter name="Cottini">
-<b>Cottini,</b> Underfamilie af Panserkinder (s. d.).</chapter>
+<b>Cottini,</b> Underfamilie af Panserkinder (s. d.).
+</chapter>
 
 <chapter name="Cottius">
 <b>Cottius</b> (som rom. Borger <sp>Marcus Julius
@@ -46,11 +47,13 @@ til Ære for Augustus. Kejser Claudius udvidede
 hans Rige og gav hans Søn Kongetitlen; men
 efter dennes Død gjorde Nero atter Landet til
 en rom. Prov.
-(<i>(M. M.). H. H. R.</i></chapter>
+<i>(M. M.). H. H. R.</i>
+</chapter>
 
 <chapter name="Cottonolie">
 <b>Cottonolie</b> ['kåtn-], d. s. s.
-<sp>Bomuldsfrøolie</sp>.</chapter>
+<sp>Bomuldsfrøolie</sp>.
+</chapter>
 
 <chapter name="cottonwood">
 <b>cottonwood</b> ['kåtnwud], <i>cottontree</i> ['kåtntri.],
@@ -63,7 +66,8 @@ Papir.
 </chapter>
 
 <chapter name="Cottus">
-<b>Cottus,</b> se <sp>Ulk</sp>.</chapter>
+<b>Cottus,</b> se <sp>Ulk</sp>.
+</chapter>
 
 <chapter name="Cotugno, Domenico">
 <b>Cotugno</b> [ko'tun<sub>j</sub>o], <sp>Domenico</sp>, ital. Læge,
@@ -80,7 +84,8 @@ Beskrivelse af Nervesygdomme (<i>Ischias</i>).
 </chapter>
 
 <chapter name="Cotula">
-<b>Cotula,</b> se <sp>Firkløft</sp>.</chapter>
+<b>Cotula,</b> se <sp>Firkløft</sp>.
+</chapter>
 
 <chapter name="Cotunnit">
 <b>Cotunnit,</b> mineralsk Klorbly (PbCl<sub>2</sub>), er
@@ -92,13 +97,16 @@ Tarapacá (Chile) sammen med forskellige Blymalme.
 </chapter>
 
 <chapter name="Coturnix">
-<b>Coturnix,</b> se <sp>Vagtel</sp>.</chapter>
+<b>Coturnix,</b> se <sp>Vagtel</sp>.
+</chapter>
 
 <chapter name="Cotyle">
-<b>Cotyle</b> (<sp>Digesvale</sp>), se <sp>Svale</sp>.</chapter>
+<b>Cotyle</b> (<sp>Digesvale</sp>), se <sp>Svale</sp>.
+</chapter>
 
 <chapter name="Cotyledon">
-<b>Cotyledon</b> (lat.), Kimblad.</chapter>
+<b>Cotyledon</b> (lat.), Kimblad.
+</chapter>
 
 <chapter name="Cotyledon L.">
 <b>Cotyledon</b> L., Slægt af Tykbladede, Urter
@@ -186,7 +194,8 @@ kendte Legende om det spiste Hjerte.
 
 <chapter name="coudée">
 <b>coudée</b> [ku'de], Alenmaal i Pondichéry
-= 0,52 m.</chapter>
+= 0,52 m.
+</chapter>
 
 <chapter name="Coudekerque-Branche">
 <b>Coudekerque-Branche</b> [kut'kærk-'brã.∫],

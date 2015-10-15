@@ -6,7 +6,8 @@ Spanien.
 </chapter>
 
 <chapter name="Clotho">
-<b>Clotho</b> [-to] se <sp>Moirer</sp>.</chapter>
+<b>Clotho</b> [-to] se <sp>Moirer</sp>.
+</chapter>
 
 <chapter name="clôture">
 <b>clôture</b> [klo'ty.r], i det fr. Retssprog
@@ -45,7 +46,8 @@ regelmæssig anvendt.
 
 <chapter name="clou">
 <b>clou</b> [klu] (fr.), Søm. Effektnumret i et
-Skuespil, paa en Udstilling etc., »Trækplaster«.</chapter>
+Skuespil, paa en Udstilling etc., »Trækplaster«.
+</chapter>
 
 <chapter name="Clouet, François">
 <b>Clouet</b> [klu'æ], <sp>François</sp>, fr. Maler, f.

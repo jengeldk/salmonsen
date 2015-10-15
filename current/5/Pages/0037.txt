@@ -25,10 +25,12 @@ og i Schweiz 13500 frc.
 
 <chapter name="Civil Lord">
 <b>Civil Lord</b> ['siv<sub>i</sub>£-'£å.<sub>ə</sub>d], Betegnelse for det
-civile Medlem af det eng. Admiralitet.</chapter>
+civile Medlem af det eng. Admiralitet.
+</chapter>
 
 <chapter name="Civillovbog">
-<b>Civillovbog,</b> se <sp>Civilret</sp>.</chapter>
+<b>Civillovbog,</b> se <sp>Civilret</sp>.
+</chapter>
 
 <chapter name="Civilmilitære">
 <b>Civilmilitære</b> kaldes i Danmark og Norge

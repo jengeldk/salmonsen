@@ -25,7 +25,8 @@ Haand.
 </chapter>
 
 <chapter name="Dafila">
-<b>Dafila</b> (<sp>Spidsand</sp>), se <sp>Ænder</sp>.</chapter>
+<b>Dafila</b> (<sp>Spidsand</sp>), se <sp>Ænder</sp>.
+</chapter>
 
 <chapter name="Daflas">
 <b>Daflas</b> (<sp>Dufflas</sp>) ell., som de selv kalder
@@ -79,7 +80,8 @@ Procession.
 </chapter>
 
 <chapter name="Dafnetin">
-<b>Dafnetin,</b> se <sp>Dafnin</sp>.</chapter>
+<b>Dafnetin,</b> se <sp>Dafnin</sp>.
+</chapter>
 
 <chapter name="Dafni">
 <b>Dafni,</b> Kloster 7 1/2 km V. f. Athen ved den

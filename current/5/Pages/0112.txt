@@ -11,7 +11,8 @@ Condé.
 
 <chapter name="cognatio">
 <b>cognatio,</b> <sp>cognati</sp>, se <sp>agnatio</sp> og
-<sp>Kognater</sp>.</chapter>
+<sp>Kognater</sp>.
+</chapter>
 
 <chapter name="Cognetti de Martiis, Salvatore">
 <b>Cognetti</b> [ko'n<sub>j</sub>et.i] <b>de Martiis,</b> <sp>Salvatore</sp>,
@@ -138,7 +139,8 @@ rent administrative <i>cognitio</i>.
 </chapter>
 
 <chapter name="cognitio">
-<b>cognitio,</b> se <sp>causæ</sp> c.</chapter>
+<b>cognitio,</b> se <sp>causæ</sp> c.
+</chapter>
 
 <chapter name="cognitor">
 <b>cognitor,</b> i den rom. Civilproces den, der
@@ -153,7 +155,8 @@ for den enkelte Sags Vedk.
 </chapter>
 
 <chapter name="cognomen">
-<b>cognomen</b> (lat.), Tilnavn; se <sp>nomen</sp>.</chapter>
+<b>cognomen</b> (lat.), Tilnavn; se <sp>nomen</sp>.
+</chapter>
 
 <chapter name="Cogoleto">
 <b>Cogoleto,</b> Flække i Norditalien, Prov. Genua,

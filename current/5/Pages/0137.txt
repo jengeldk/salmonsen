@@ -148,10 +148,12 @@ fuldkommen erstatte dette fremmede Ord.
 </chapter>
 
 <chapter name="Collocalia">
-<b>Collocalia,</b> se <sp>Mursvaler</sp>.</chapter>
+<b>Collocalia,</b> se <sp>Mursvaler</sp>.
+</chapter>
 
 <chapter name="Collodium">
-<b>Collodium,</b> se <sp>Kollodium</sp>.</chapter>
+<b>Collodium,</b> se <sp>Kollodium</sp>.
+</chapter>
 
 <chapter name="Collomia Nutt.">
 <b>Collomia</b> Nutt., Slægt af Polemoniaceer, en-

@@ -59,19 +59,24 @@ Tidsskr.«, 3. Rk., 4. Bd]; <sp>H. J. Hansen</sp>,
 
 <chapter name="cymøs">
 <b>cymøs</b> (<sp>bot</sp>.), kvastformet (se
-<sp>Blomsterstand</sp>). </chapter>
+<sp>Blomsterstand</sp>).
+</chapter>
 
 <chapter name="Cynailurus">
-<b>Cynailurus,</b> se <sp>Gepard</sp>.</chapter>
+<b>Cynailurus,</b> se <sp>Gepard</sp>.
+</chapter>
 
 <chapter name="Cynara">
-<b>Cynara,</b> se <sp>Artiskok</sp> og <sp>Cardon</sp>.</chapter>
+<b>Cynara,</b> se <sp>Artiskok</sp> og <sp>Cardon</sp>.
+</chapter>
 
 <chapter name="Cynipidæ">
-<b>Cynipidæ,</b> se <sp>Galhvepse</sp>.</chapter>
+<b>Cynipidæ,</b> se <sp>Galhvepse</sp>.
+</chapter>
 
 <chapter name="Cynocephalus">
-<b>Cynocephalus,</b> se <sp>Bavianer</sp>.</chapter>
+<b>Cynocephalus,</b> se <sp>Bavianer</sp>.
+</chapter>
 
 <chapter name="Cynodon">
 <b>Cynodon</b> Pers., Slægt af Græsfam.
@@ -141,10 +146,12 @@ der smager sammensnerpende og bittert.
 </chapter>
 
 <chapter name="Cynomys">
-<b>Cynomys,</b> se <sp>Murmeldyr</sp>.</chapter>
+<b>Cynomys,</b> se <sp>Murmeldyr</sp>.
+</chapter>
 
 <chapter name="Cynonycteris">
-<b>Cynonycteris,</b> se <sp>Flagermus</sp>.</chapter>
+<b>Cynonycteris,</b> se <sp>Flagermus</sp>.
+</chapter>
 
 <chapter name="Cynosura">
 <b>Cynosura</b> (<sp>astron</sp>.), Hundehalen, blev opr.
@@ -156,7 +163,8 @@ opad, senere fik den yderste Stjerne i Halen,
 </chapter>
 
 <chapter name="Cynosurus">
-<b>Cynosurus,</b> se <sp>Kamgræs</sp>.</chapter>
+<b>Cynosurus,</b> se <sp>Kamgræs</sp>.
+</chapter>
 
 <chapter name="Cynthiana">
 <b>Cynthiana</b> [s<sub>i</sub>n'þ<sub>i</sub>a.n<sub>a</sub>], By i U. S. A., Stat
@@ -168,7 +176,9 @@ m o. H. ved den sydlige Arm af Licking River.
 </chapter>
 
 <chapter name="Cyperaceæ">
-<b>Cyperaceæ,</b> se <sp>Halvgræsfamilien</sp>.</chapter>
+<b>Cyperaceæ,</b> se <sp>Halvgræsfamilien</sp>.
+</chapter>
 
 <chapter name="Cypergræs">
-<b>Cypergræs,</b> se <sp>Cyperus</sp>.</chapter>
+<b>Cypergræs,</b> se <sp>Cyperus</sp>.
+</chapter>

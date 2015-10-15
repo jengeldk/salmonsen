@@ -81,12 +81,14 @@ des Mittelalters«, II [1886]).
 </chapter>
 
 <chapter name="Eckehart">
-<b>Eckehart,</b> se <sp>Eckart</sp>.</chapter>
+<b>Eckehart,</b> se <sp>Eckart</sp>.
+</chapter>
 
 <chapter name="Eckensteher">
 <b>Eckensteher</b> ['æk<sub>ə</sub>n∫te.<sub>ə</sub>r], i det berlinske
 Folkesprog en Person, der stiller sig paa et
-Gadehjørne for der at finde tilfældigt Arbejde.</chapter>
+Gadehjørne for der at finde tilfældigt Arbejde.
+</chapter>
 
 <chapter name="Ecker, Alexander">
 <b>Ecker,</b> <sp>Alexander</sp>, tysk Anatom og

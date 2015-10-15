@@ -4,9 +4,10 @@ Entwerfen und Berechnen der
 Verbrennungskraftmaschinen« [1914]; <sp>A. P. Chalkley</sp>,
 »Dieselmaschinen«.
 
-<i>Værftsingeniør J. A. Christensen.</i>
 
-<img>Fig. 3. Den ene af »Selandia«s Motorer.</img></chapter>
+<img>Fig. 3. Den ene af »Selandia«s Motorer.</img>
+<i>Værftsingeniør J. A. Christensen.</i>
+</chapter>
 
 <chapter name="Diesen, Halvor Thorstein Romdal">
 <b>Diesen,</b> <sp>Halvor Thorstein Romdal</sp>,
@@ -90,10 +91,12 @@ sædvanligere Juppiter.
 
 <chapter name="Diessbacherblaat">
 <b>Diessbacherblaat</b> ['di.sbak<sub>ə</sub>r-], se
-<sp>Berlinerblaat</sp>.</chapter>
+<sp>Berlinerblaat</sp>.
+</chapter>
 
 <chapter name="dies stationum">
-<b>dies stationum,</b> se <sp>Vagtdage</sp>.</chapter>
+<b>dies stationum,</b> se <sp>Vagtdage</sp>.
+</chapter>
 
 <chapter name="Diest">
 <b>Diest</b> [di.st], befæstet By i Belgien, Prov.

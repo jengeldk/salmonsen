@@ -1,10 +1,12 @@
 <chapter name="Darre-Pynt">
 <b>Darre-Pynt,</b> den vestligste Pynt af <sp>Fæmø</sp>
 (Smaalands-Farvandet). <sp>Darrehøj-Flak</sp>
-skyder sig i vestlig Retning 3 Sm. ud fra D.-P.</chapter>
+skyder sig i vestlig Retning 3 Sm. ud fra D.-P.
+</chapter>
 
 <chapter name="d'Arrest">
-<b>d'Arrest</b> [d-a'ræ], se <sp>Arrest</sp>.</chapter>
+<b>d'Arrest</b> [d-a'ræ], se <sp>Arrest</sp>.
+</chapter>
 
 <chapter name="Darro">
 <b>Darro</b> ['ðar.<sub>å</sub>], Biflod til Guadalquivir's
@@ -122,7 +124,8 @@ Sindssygeanstalt.
 
 <chapter name="Darton">
 <b>Darton</b> ['da.<sub>ə</sub>t<sub>ə</sub>n], By i det nordlige England,
-Yorkshire, ved Barnsley med (1911) 9348 Indb.</chapter>
+Yorkshire, ved Barnsley med (1911) 9348 Indb.
+</chapter>
 
 <chapter name="Daru, Napoléon">
 <b>Daru</b> [da'ry], <sp>Napoléon</sp>, Greve, fr.

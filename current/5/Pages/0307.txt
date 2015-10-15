@@ -25,10 +25,12 @@ kødædende.
 </chapter>
 
 <chapter name="crêpe, crépon">
-<b>crêpe</b> [kræ.p], <b>crépon</b> [kre'på], se <sp>Krep</sp>.</chapter>
+<b>crêpe</b> [kræ.p], <b>crépon</b> [kre'på], se <sp>Krep</sp>.
+</chapter>
 
 <chapter name="Crepis">
-<b>Crepis,</b> se <sp>Høgeskæg</sp>.</chapter>
+<b>Crepis,</b> se <sp>Høgeskæg</sp>.
+</chapter>
 
 <chapter name="Crépy-en-Laonnais">
 <b>Crépy-en-Laonnais</b> [kre'pi-ã-la'næ],
@@ -115,7 +117,8 @@ Meksiko og er overført til Filippinerne.
 </chapter>
 
 <chapter name="Crescentin">
-<b>Crescentin,</b> se <sp>Silke</sp>.</chapter>
+<b>Crescentin,</b> se <sp>Silke</sp>.
+</chapter>
 
 <chapter name="Crescentini, Girolamo">
 <b>Crescentini</b> [kre∫en'tini], <sp>Girolamo</sp>, en

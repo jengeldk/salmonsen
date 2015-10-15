@@ -54,17 +54,19 @@ Kraft man vil anvende), desto større maa altsaa
 <i>R</i> være og desto mindre Forskellen mellem
 <i>R</i> og <i>r</i>. D. bruges meget i Fabrikker til
 Løftning af svære Vægte.
-<i>H. P. C.</i>
 
-<img>
-Differenstalje.</img></chapter>
+<img>Differenstalje.</img>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="different">
-<b>different</b> (lat.), forskellig, ulig.</chapter>
+<b>different</b> (lat.), forskellig, ulig.
+</chapter>
 
 <chapter name="Differential">
 <b>Differential</b> (mat.), se
-<sp>Differentialregning</sp>.</chapter>
+<sp>Differentialregning</sp>.
+</chapter>
 
 <chapter name="Differentialanemometer, Differentialbarometer, Differentialtermometer">
 <b>Differentialanemometer,
@@ -75,19 +77,23 @@ Vindstyrken, Lufttrykket og Temperaturen.
 </chapter>
 
 <chapter name="Differentialbremse">
-<b>Differentialbremse,</b> se <sp>Bremse</sp>.</chapter>
+<b>Differentialbremse,</b> se <sp>Bremse</sp>.
+</chapter>
 
 <chapter name="Differentialdiagnose">
 <b>Differentialdiagnose,</b> d. s. s.
-<sp>differentiél Diagnostik</sp>, se <sp>Diagnose</sp>.</chapter>
+<sp>differentiél Diagnostik</sp>, se <sp>Diagnose</sp>.
+</chapter>
 
 <chapter name="Differentialgalvanometer">
 <b>Differentialgalvanometer,</b> se
-<sp>Galvanometer</sp>.</chapter>
+<sp>Galvanometer</sp>.
+</chapter>
 
 <chapter name="Differentialkvotient">
 <b>Differentialkvotient,</b> se
-<sp>Differentialregning</sp>.</chapter>
+<sp>Differentialregning</sp>.
+</chapter>
 
 <chapter name="Differentialligning">
 <b>Differentialligning</b> (mat.) er en Ligning

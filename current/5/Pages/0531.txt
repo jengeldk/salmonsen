@@ -17,7 +17,8 @@ Kammermusik.
 </chapter>
 
 <chapter name="d'Ancona">
-<b>d'Ancona</b> [d-aŋ'kåna], se <sp>Ancona</sp>.</chapter>
+<b>d'Ancona</b> [d-aŋ'kåna], se <sp>Ancona</sp>.
+</chapter>
 
 <chapter name="Dancourt">
 <b>Dancourt</b> [dã'ku.r], egl. <sp>Florent Carton</sp>,
@@ -70,7 +71,8 @@ Nærheden ligger den vilde romantiske Kløft
 
 <chapter name="Dandie Dinmont Terrier">
 <b>Dandie Dinmont Terrier</b> ['dänd<sub>i</sub>-'dinn<sub>ə</sub>nt-
-'ter<sub>j</sub>ə], eng. Hunderace, se <sp>Hunde</sp>.</chapter>
+'ter<sub>j</sub>ə], eng. Hunderace, se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Dandin, et fr. Navn">
 <b>Dandin</b> [dã'dæ], et fr. Navn, særlig bekendt

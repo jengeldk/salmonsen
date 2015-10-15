@@ -90,13 +90,16 @@ landsmålen ock svenskt folklif«, I, S. 461; <sp>H. Paul</sp>,
 
 <chapter name="Dialemma">
 <b>Dialemma</b> (gr.), sygdomsfri, især feberfri
-Tilstand.</chapter>
+Tilstand.
+</chapter>
 
 <chapter name="Diallag">
-<b>Diallag,</b> se <sp>Pyroxengruppen</sp>.</chapter>
+<b>Diallag,</b> se <sp>Pyroxengruppen</sp>.
+</chapter>
 
 <chapter name="Diallel">
-<b>Diallel,</b> se <sp>Cirkelbevis</sp>.</chapter>
+<b>Diallel,</b> se <sp>Cirkelbevis</sp>.
+</chapter>
 
 <chapter name="Dialog">
 <b>Dialog</b> (gr.: »Samtale«) betyder mundtlig
@@ -150,7 +153,8 @@ Syngespillet modsættes D. Sangpartierne. -
 </chapter>
 
 <chapter name="Dialogit">
-<b>Dialogit,</b> d. s. s. <sp>Manganspat</sp>.</chapter>
+<b>Dialogit,</b> d. s. s. <sp>Manganspat</sp>.
+</chapter>
 
 <chapter name="Dialogus">
 <b>Dialogus,</b> en dansk versificeret Satire fra

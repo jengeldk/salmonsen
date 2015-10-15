@@ -52,10 +52,12 @@ Fortolkning af den bestaaende Lov.
 <b>delegere</b> (lat.), afsende i et Hverv,
 paalægge og bemyndige, overføre til (se
 <sp>Delegation</sp>). <sp>Delegeret</sp>, Afsending,
-Befuldmægtiget.</chapter>
+Befuldmægtiget.
+</chapter>
 
 <chapter name="Delelighed">
-<b>Delelighed,</b> se <sp>Atom</sp>.</chapter>
+<b>Delelighed,</b> se <sp>Atom</sp>.
+</chapter>
 
 <chapter name="Delemaskine">
 <b>Delemaskine,</b> Maskine til Inddeling af

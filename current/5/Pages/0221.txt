@@ -19,7 +19,8 @@ af Bedfords og Grev Egremont's, Samlinger.
 
 <chapter name="Cor bovinum">
 <b>Cor bovinum</b> [kår-], se
-<sp>Hjertesygdomme</sp>.</chapter>
+<sp>Hjertesygdomme</sp>.
+</chapter>
 
 <chapter name="Corbulo, Gnæus Domitius">
 <b>Corbulo,</b> <sp>Gnæus Domitius</sp>, rom.
@@ -45,7 +46,8 @@ Kejser Domitian.
 
 <chapter name="Cor Caroli, (astron.)">
 <b>Cor Caroli</b> [kår-] (<sp>astron.</sp>), se
-<sp>Jagthundene</sp>.</chapter>
+<sp>Jagthundene</sp>.
+</chapter>
 
 <chapter name="Corchorus L.">
 <b>Corchorus</b> [-ko-] L., Slægt af Lindefam., Urter
@@ -98,7 +100,8 @@ hvori udmunder Floden Rio C.
 </chapter>
 
 <chapter name="Corcyra">
-<b>Corcyra,</b> se <sp>Korfu</sp>.</chapter>
+<b>Corcyra,</b> se <sp>Korfu</sp>.
+</chapter>
 
 <chapter name="corda">
 <b>corda</b> ['kårda] (ital., fr.: <i>corde</i>, lat.: <i>chorda</i>),

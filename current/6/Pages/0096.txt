@@ -28,7 +28,8 @@ Verslinier. (<sp>Litt</sp>.: <sp>Chassant & Tausin</sp>,
 
 <chapter name="Deviseforretning">
 <b>Deviseforretning,</b> d. s. s. Forretning i
-udenlandsk Valuta.</chapter>
+udenlandsk Valuta.
+</chapter>
 
 <chapter name="De Vises Sten">
 <b>De Vises Sten</b> var for Alkymisterne en af
@@ -55,11 +56,13 @@ men der er en betydelig Kornhandel.
 udspringer paa Grammos-Bjerget, løber mod NV.
 gennem Svirina-Søen, optager Ljumi-Beratit og
 falder under Navnet <sp>Semeni</sp> ell. <sp>Ergenti</sp>
-det adriatiske Hav mellem Avlona og Durazzo.</chapter>
+det adriatiske Hav mellem Avlona og Durazzo.
+</chapter>
 
 <chapter name="Devolution">
 <b>Devolution,</b> Overgang af hjemfaldet Gods
-til andres Besiddelse, se <sp>Devolutionsret</sp>.</chapter>
+til andres Besiddelse, se <sp>Devolutionsret</sp>.
+</chapter>
 
 <chapter name="Devolutionskrigen">
 <b>Devolutionskrigen</b> ell. »Krigen for

@@ -34,7 +34,8 @@ Oprindelse er ganske dunkel.
 </chapter>
 
 <chapter name="Depopulation">
-<b>Depopulation</b> (lat.), Affolkning.</chapter>
+<b>Depopulation</b> (lat.), Affolkning.
+</chapter>
 
 <chapter name="Deport">
 <b>Deport</b> (eng. <i>Backwardation</i>). Naar den,

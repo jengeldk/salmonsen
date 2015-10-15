@@ -1,5 +1,6 @@
 <i>historiques et littéraires</i> (1854) og <i>Études et
-portraits</i> (1865-68).</chapter>
+portraits</i> (1865-68).
+</chapter>
 
 <chapter name="Cuvilliès, François de">
 <b>Cuvilliès</b> [kyvi'l<sub>i</sub>æ.s], <sp>François de</sp>, fr.
@@ -61,7 +62,8 @@ brolagte Gader og smukke Huse.
 <chapter name="Cuyahoga">
 <b>Cuyahoga</b> [ka^i<sub>ä</sub>'ho<sub>u</sub>g<sub>a</sub>], Flod i U. S. A., Stat
 Ohio, falder efter et 130 km langt Løb ved
-Cleveland i Erie-Søen.</chapter>
+Cleveland i Erie-Søen.
+</chapter>
 
 <chapter name="Cuyahoga Falls">
 <b>Cuyahoga Falls</b> [ka^i<sub>ä</sub>'ho<sub>u</sub>g<sub>a</sub>-'få.£z], By i U.
@@ -72,7 +74,8 @@ stor Papir- og Mølleindustri.
 </chapter>
 
 <chapter name="Cuyp">
-<b>Cuyp</b> [kö^yp], se <sp>Cuijp</sp>.</chapter>
+<b>Cuyp</b> [kö^yp], se <sp>Cuijp</sp>.
+</chapter>
 
 <chapter name="Cuypers">
 <b>Cuypers</b> ['kö^yp<sub>ə</sub>rs], <sp>Petrus Josephus
@@ -100,7 +103,8 @@ Mazaruni, med Essequibo.
 
 <chapter name="Cuza, Alexander Johan">
 <b>Cuza</b> ['ku.za], se <sp>Alexander Johan</sp>
-(Rumænien).</chapter>
+(Rumænien).
+</chapter>
 
 <chapter name="Cuzco">
 <b>Cuzco</b> ['kusk<sub>ä</sub>], Dept i den sydamer. Republik

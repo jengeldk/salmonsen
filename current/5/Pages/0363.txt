@@ -31,10 +31,12 @@ Indianer-Rige, behersket af en Nahua-Stamme.
 </chapter>
 
 <chapter name="Cuscuta">
-<b>Cuscuta,</b> se <sp>Silke</sp>.</chapter>
+<b>Cuscuta,</b> se <sp>Silke</sp>.
+</chapter>
 
 <chapter name="Cuscutaceæ">
-<b>Cuscutaceæ,</b> se <sp>Silkefamilien</sp>.</chapter>
+<b>Cuscutaceæ,</b> se <sp>Silkefamilien</sp>.
+</chapter>
 
 <chapter name="Cuselit">
 <b>Cuselit,</b> en eruptiv Bjergart, er en Art
@@ -86,7 +88,8 @@ Overanstrengelser, han havde udsat sig for i Krigen.
 
 <chapter name="cushion">
 <b>cushion</b> ['ku∫<sub>ə</sub>n] (engelsk »Pude«),
-Gummiring med Luftkanal, se <sp>Cykel</sp>.</chapter>
+Gummiring med Luftkanal, se <sp>Cykel</sp>.
+</chapter>
 
 <chapter name="Cushman, Charlotte Saunders">
 <b>Cushman</b> ['ku∫m<sub>ə</sub>n], <sp>Charlotte Saunders</sp>,
@@ -111,7 +114,8 @@ hun 1868 helt opgav al Teateroptræden.
 </chapter>
 
 <chapter name="Cusio, Lago">
-<b>Cusio,</b> Lago, se <sp>Orta</sp>.</chapter>
+<b>Cusio,</b> Lago, se <sp>Orta</sp>.
+</chapter>
 
 <chapter name="Cusir">
 <b>Cusir,</b> fint spunden Raasilke; <sp>Cusirino</sp>,

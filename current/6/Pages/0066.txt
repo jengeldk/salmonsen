@@ -40,7 +40,8 @@ Leipzig 1884]).
 </chapter>
 
 <chapter name="Deskvamation">
-<b>Deskvamation,</b> se <sp>Afskalning</sp>.</chapter>
+<b>Deskvamation,</b> se <sp>Afskalning</sp>.
+</chapter>
 
 <chapter name="Deslandres, Henri Alexandre">
 <b>Deslandres</b> [dæ'lã.dr], <sp>Henri Alexandre</sp>,

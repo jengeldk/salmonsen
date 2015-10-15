@@ -4,10 +4,12 @@ regelmæssig Dampskibsfart indtil Kalatsch.
 </chapter>
 
 <chapter name="Doña">
-<b>Doña</b> ['ðån<sub>j</sub>a], se <sp>Don</sp>.</chapter>
+<b>Doña</b> ['ðån<sub>j</sub>a], se <sp>Don</sp>.
+</chapter>
 
 <chapter name="Donacia">
-<b>Donacia,</b> se <sp>Sivbuk</sp>.</chapter>
+<b>Donacia,</b> se <sp>Sivbuk</sp>.
+</chapter>
 
 <chapter name="Donaghadee">
 <b>Donaghadee</b> [dan<sub>ə</sub>ha'di.], Havnestad i det
@@ -61,15 +63,18 @@ Byen har en Tid været Louisianas Hovedstad.
 
 <chapter name="donandi animo">
 <b>donandi animo</b> (lat.), i den Hensigt at give
-en Gave.</chapter>
+en Gave.
+</chapter>
 
 <chapter name="Donar">
 <b>Donar,</b> den højtyske Form af Gudenavnet
-Thor.</chapter>
+Thor.
+</chapter>
 
 <chapter name="Donarium, Votivgave">
 <b>Donarium</b> (lat.), Votivgave ell. Skatkamret,
-hvor Votivgaver opbevares.</chapter>
+hvor Votivgaver opbevares.
+</chapter>
 
 <chapter name="Donarium, et Grundstof">
 <b>Donarium,</b> et Grundstof, som
@@ -80,7 +85,8 @@ Thorium.
 </chapter>
 
 <chapter name="Donatar">
-<b>Donatar</b> (lat.), Modtager af en Gave.</chapter>
+<b>Donatar</b> (lat.), Modtager af en Gave.
+</chapter>
 
 <chapter name="Donatello">
 <b>Donatello</b> [-'tæl.o] (egl. <sp>Donato di

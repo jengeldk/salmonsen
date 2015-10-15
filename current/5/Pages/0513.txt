@@ -6,7 +6,8 @@ Amerikaneren Donnay.
 </chapter>
 
 <chapter name=" Dampoverheder">
-<b>Dampoverheder,</b> se <sp>Dampkedel</sp>.</chapter>
+<b>Dampoverheder,</b> se <sp>Dampkedel</sp>.
+</chapter>
 
 <chapter name=" Dampovn">
 <b>Dampovn</b> er de Ovne, der ved
@@ -17,13 +18,16 @@ Varmelegemer i de Rum, der skal opvarmes (se
 </chapter>
 
 <chapter name=" Damppibe">
-<b>Damppibe,</b> se <sp>Dampfløjte</sp>.</chapter>
+<b>Damppibe,</b> se <sp>Dampfløjte</sp>.
+</chapter>
 
 <chapter name="Damppumpe">
-<b>Damppumpe,</b> se <sp>Pumper</sp>.</chapter>
+<b>Damppumpe,</b> se <sp>Pumper</sp>.
+</chapter>
 
 <chapter name="Damprambuk">
-<b>Damprambuk, Dampramme,</b> se <sp>Rambuk</sp>.</chapter>
+<b>Damprambuk, Dampramme,</b> se <sp>Rambuk</sp>.
+</chapter>
 
 <chapter name="Dampremy">
 <b>Dampremy</b> [dãr<sub>ö</sub>'mi (dãpr<sub>ö</sub>mi?)], Flække i
@@ -36,7 +40,8 @@ Glasværker.
 </chapter>
 
 <chapter name="Damprum">
-<b>Damprum,</b> se <sp>Dampkedel</sp>.</chapter>
+<b>Damprum,</b> se <sp>Dampkedel</sp>.
+</chapter>
 
 <chapter name="Dampskib">
 <b>Dampskib</b> (hertil 2 Tavler) (<sp>Dampbaad</sp>,

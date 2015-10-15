@@ -4,10 +4,12 @@ skrev tillige enkelte dram. Arbejder.
 </chapter>
 
 <chapter name="Dragkiste">
-<b>Dragkiste,</b> se <sp>Kommode</sp>.</chapter>
+<b>Dragkiste,</b> se <sp>Kommode</sp>.
+</chapter>
 
 <chapter name="Dragnot">
-<b>Dragnot,</b> se <sp>Nöter</sp>.</chapter>
+<b>Dragnot,</b> se <sp>Nöter</sp>.
+</chapter>
 
 <chapter name="Drago, Luis Maria">
 <b>Drago</b> ['drag<sub>å</sub>], <sp>Luis Maria</sp>, argentinsk
@@ -50,7 +52,8 @@ Droit International Américain</i>, Kap. VI, § XVI
 </chapter>
 
 <chapter name="Dragodoktrinen">
-<b>Dragodoktrinen,</b> se <sp>Drago</sp>.</chapter>
+<b>Dragodoktrinen,</b> se <sp>Drago</sp>.
+</chapter>
 
 <chapter name="Dragoman">
 <b>Dragoman</b> (arab., fordrejet af terdjumân)
@@ -104,7 +107,8 @@ Univ. i Sofia.
 </chapter>
 
 <chapter name="Dragomir">
-<b>Dragomir,</b> se <sp>Dagmar</sp>.</chapter>
+<b>Dragomir,</b> se <sp>Dagmar</sp>.
+</chapter>
 
 <chapter name="Dragomirov">
 <b>Dragomirov</b> [dr<sub>a</sub>ga'mir<sub>å</sub>f],

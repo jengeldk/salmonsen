@@ -32,14 +32,16 @@ d'ossem. foss. d. mammifères</i> [1832-35];
 </chapter>
 
 <chapter name="Elefant-Floden">
-<b>Elefant-Floden,</b> se <sp>Olifant-Floden</sp>.</chapter>
+<b>Elefant-Floden,</b> se <sp>Olifant-Floden</sp>.
+</chapter>
 
 <chapter name="Elefant Grund">
 <b>Elefant Grund,</b> Store Bælt, omtr. midt
 imellem Romsø og Reersø. Den har en Udstrækning
 af 1 Sm i NV. og SØ. med mindre end 10 m
 Vand. Det lægeste Vand, 3 m, findes paa en
-Stenrøse paa den sydlige Del af Grunden.</chapter>
+Stenrøse paa den sydlige Del af Grunden.
+</chapter>
 
 <chapter name="Elefantiasis">
 <b>Elefantiasis</b> kaldes en kronisk Hudsygdom,
@@ -130,7 +132,8 @@ monuments et inscriptions de l'Égypte antique</i> I [Wien
 </chapter>
 
 <chapter name="Elefantlus">
-<b>Elefantlus,</b> se <sp>Anacardium</sp>.</chapter>
+<b>Elefantlus,</b> se <sp>Anacardium</sp>.
+</chapter>
 
 <chapter name="Elefantordenen">
 <b>Elefantordenen,</b> dansk Ridderorden, der

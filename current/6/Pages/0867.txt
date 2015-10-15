@@ -1,5 +1,6 @@
 Eksempel; <sp>Eksemplifikation</sp>, Forklaring,
-Bevis ved Eksempler.</chapter>
+Bevis ved Eksempler.
+</chapter>
 
 <chapter name="Eksemption">
 <b>Eksemption</b> (lat. <i>exémptio</i>), Undtagelse,
@@ -34,10 +35,12 @@ Indvoldene ved Obduktion.
 </chapter>
 
 <chapter name="Eksenterese">
-<b>Eksenterese</b> (gr.), d. s. s. <sp>Evisceration</sp>.</chapter>
+<b>Eksenterese</b> (gr.), d. s. s. <sp>Evisceration</sp>.
+</chapter>
 
 <chapter name="eksercere">
-<b>eksercere</b> (lat.), se <sp>Eksercits</sp>.</chapter>
+<b>eksercere</b> (lat.), se <sp>Eksercits</sp>.
+</chapter>
 
 <chapter name="Eksercerhus">
 <b>Eksercerhus</b> er en mindre, overdækket
@@ -59,7 +62,8 @@ Kavalerister.
 </chapter>
 
 <chapter name="Eksercerpatron">
-<b>Eksercerpatron,</b> d. s. s. <sp>blind</sp> Patron.</chapter>
+<b>Eksercerpatron,</b> d. s. s. <sp>blind</sp> Patron.
+</chapter>
 
 <chapter name="Eksercerplad">
 <b>Eksercerplads</b> er i Alm. et Stykke

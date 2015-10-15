@@ -41,7 +41,8 @@ Indsøer.
 </chapter>
 
 <chapter name="Eidammer-Ost">
-<b>Eidammer-Ost</b> ['æjdam-], se <sp>Edam</sp>.</chapter>
+<b>Eidammer-Ost</b> ['æjdam-], se <sp>Edam</sp>.
+</chapter>
 
 <chapter name="Eidanger, Herred">
 <b>Eidanger</b> ['æjdaŋ<sub>ə</sub>r], <sp>Herred</sp>, Bamle

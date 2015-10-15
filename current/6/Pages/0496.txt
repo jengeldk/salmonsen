@@ -126,7 +126,8 @@ Vasiljevitsch 8. Septbr 1514.
 </chapter>
 
 <chapter name="Dubrovnik">
-<b>Dubrovnik</b> [du'bråvn<sub>i</sub>k], se <sp>Ragusa</sp>.</chapter>
+<b>Dubrovnik</b> [du'bråvn<sub>i</sub>k], se <sp>Ragusa</sp>.
+</chapter>
 
 <chapter name="Dubs, Jacob">
 <b>Dubs</b> [dups], <sp>Jacob</sp>, schweizisk Statsmand,

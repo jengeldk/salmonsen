@@ -26,15 +26,18 @@ mellemliggende Blende, ophæves D.
 
 <chapter name="distrahere">
 <b>distrahere</b> (lat.), aflede Opmærksomheden
-fra noget, gøre adspredt, forstyrre.</chapter>
+fra noget, gøre adspredt, forstyrre.
+</chapter>
 
 <chapter name="distrait">
 <b>distrait</b> [dansk di'stræ', fr. -'stræ] (af lat.
-<i>distráctus</i>), adspredt, aandsfraværende, glemsom.</chapter>
+<i>distráctus</i>), adspredt, aandsfraværende, glemsom.
+</chapter>
 
 <chapter name="Distraktion">
 <b>Distraktion</b> (lat.), Adspredthed,
-Aandsfraværelse, Tankeløshed.</chapter>
+Aandsfraværelse, Tankeløshed.
+</chapter>
 
 <chapter name="Distraktion (Kirurgien)">
 <b>Distraktion</b> (lat.), Trækning, anvendes i
@@ -49,7 +52,8 @@ Betændelse gunstig; man benytter i øvrigt oftest
 
 <chapter name="distribuere">
 <b>distribuere</b> (lat.), fordele, uddele;
-<sp>Distribution</sp>, Fordeling, Uddeling.</chapter>
+<sp>Distribution</sp>, Fordeling, Uddeling.
+</chapter>
 
 <chapter name="Distribution">
 <b>Distribution</b> (lat.), et af Digtekunstens

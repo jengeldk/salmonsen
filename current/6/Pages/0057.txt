@@ -48,7 +48,8 @@ Imitationstalent. D. er repræsenteret i en Del Museer.
 <chapter name="déshabillé">
 <b>déshabillé</b> [dezabi'je] (fr.), bekvem
 Hjemmedragt for Kvinder, Morgendragt;
-<sp>deshabillere</sp>, afklæde.</chapter>
+<sp>deshabillere</sp>, afklæde.
+</chapter>
 
 <chapter name="Deshayes, Gérard Paul">
 <b>Deshayes</b> [dæ'æ], <sp>Gérard Paul</sp>, fr.
@@ -77,7 +78,8 @@ Paris</i> (50 Hæfter, 1856-67).
 </chapter>
 
 <chapter name="Deshima">
-<b>Deshima</b> ['de's<sub>i</sub>ima], se <sp>Nagasaki</sp>.</chapter>
+<b>Deshima</b> ['de's<sub>i</sub>ima], se <sp>Nagasaki</sp>.
+</chapter>
 
 <chapter name="Deshouliéres, Antoinette">
 <b>Deshouliéres</b> [dæu'l<sub>i</sub>æ.r ell. dæu'jæ.r],
@@ -108,12 +110,14 @@ Boileau's Satire.
 
 <chapter name="desiderabel">
 <b>desiderabel</b> (af lat, <i>desiderare</i>), ønskelig,
-attraaværdig.</chapter>
+attraaværdig.
+</chapter>
 
 <chapter name="Desiderata">
 <b>Desiderata</b> (lat.), Savn, Mangler; særlig om
 Mangler paa et ell. andet videnskabeligt
-Omraade, der maatte ønskes afhjulpne.</chapter>
+Omraade, der maatte ønskes afhjulpne.
+</chapter>
 
 <chapter name="Desiderativum">
 <b>Desiderativum</b> (lat., Plur. <sp>Desiderativa</sp>)

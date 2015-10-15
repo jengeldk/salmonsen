@@ -24,7 +24,8 @@ Lervarer.
 </chapter>
 
 <chapter name="Coriandrum">
-<b>Coriandrum,</b> se <sp>Koriander</sp>.</chapter>
+<b>Coriandrum,</b> se <sp>Koriander</sp>.
+</chapter>
 
 <chapter name="Coriaria L.">
 <b>Coriaria</b> L., Slægt af Rutaceer, Buske med
@@ -183,10 +184,12 @@ Muni o. a. smaa Floder udmunder.
 
 <chapter name="Corisco-Bugt">
 <b>Corisco-Bugt</b> [sp. kå'risk<sub>å</sub>-, portug. ku'ri∫k<sub>u</sub>-],
-se <sp>Corisco</sp>.</chapter>
+se <sp>Corisco</sp>.
+</chapter>
 
 <chapter name="Corium">
-<b>Corium,</b> se <sp>Hud</sp>.</chapter>
+<b>Corium,</b> se <sp>Hud</sp>.
+</chapter>
 
 <chapter name="Cork, Grevskab i den irske Prov. Munster">
 <b>Cork</b> [kå.<sub>ə</sub>k], Grevskab i den irske Prov.

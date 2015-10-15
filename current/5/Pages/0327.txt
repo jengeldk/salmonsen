@@ -92,7 +92,8 @@ set af baade Russere og Finner.
 </chapter>
 
 <chapter name="Cronstedtit">
-<b>Cronstedtit,</b> se <sp>Klorit</sp>.</chapter>
+<b>Cronstedtit,</b> se <sp>Klorit</sp>.
+</chapter>
 
 <chapter name="Cronstrand, Baltzar">
 <b>Cronstrand,</b> <sp>Baltzar</sp>, sv. Ingeniørofficer,

@@ -101,7 +101,8 @@ Gerningsmændene. ell. fordi alle var skyldige.
 </chapter>
 
 <chapter name="Decimeter">
-<b>Decimeter,</b> 1/10 m, se <sp>metrisk Maal</sp>.</chapter>
+<b>Decimeter,</b> 1/10 m, se <sp>metrisk Maal</sp>.
+</chapter>
 
 <chapter name="Decimo">
 <b>Decimo</b> ['ðæsim<sub>å</sub>], Sølvmønt i forsk.

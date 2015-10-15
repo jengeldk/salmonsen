@@ -49,7 +49,8 @@ vekslende og forskelligartede Former.
 </chapter>
 
 <chapter name="Duetrost">
-<b>Duetrost,</b> se <sp>Drossel</sp>.</chapter>
+<b>Duetrost,</b> se <sp>Drossel</sp>.
+</chapter>
 
 <chapter name="Dueurt">
 <b>Dueurt</b> (norsk <sp>Mjølke</sp>, <i>Epilobium</i> L.),

@@ -54,7 +54,8 @@ Sans med Werenskiold's Inderlighed. (<sp>Litt</sp>.:
 </chapter>
 
 <chapter name="Egegarvesyre">
-<b>Egegarvesyre,</b> se <sp>Garvesyrer</sp>.</chapter>
+<b>Egegarvesyre,</b> se <sp>Garvesyrer</sp>.
+</chapter>
 
 <chapter name="Egekister">
 <b>Egekister,</b> alm. Betegnelse for Bulkister af

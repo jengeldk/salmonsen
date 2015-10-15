@@ -35,10 +35,12 @@ Portrætbuster m. m.
 <b>dupe</b> [dyp] (fr.), den bedragne, snydte,
 narrede; godtroende, <sp>dupere</sp>, fr. <i>duper</i> [dy'pe],
 narre, bedrage, bilde en noget ind. <i>duperie</i>
-[dy'pri], Bedrageri, Snyderi.</chapter>
+[dy'pri], Bedrageri, Snyderi.
+</chapter>
 
 <chapter name="dupere">
-<b>dupere</b> [dype'r<sub>ə</sub>], se <sp>dupe</sp>.</chapter>
+<b>dupere</b> [dype'r<sub>ə</sub>], se <sp>dupe</sp>.
+</chapter>
 
 <chapter name="Duperré, Victor Guy">
 <b>Duperré</b> [dypæ're], <sp>Victor Guy</sp>, fransk

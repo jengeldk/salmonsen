@@ -106,7 +106,8 @@ Sarpis Tridentinermødets Historie paa Fransk.
 </chapter>
 
 <chapter name="Diodon">
-<b>Diodon,</b> se <sp>Fastkæber</sp>.</chapter>
+<b>Diodon,</b> se <sp>Fastkæber</sp>.
+</chapter>
 
 <chapter name="Diodoros, Kronos">
 <b>Diodoros</b> [gr. di'o'-], <sp>Kronos</sp>, gr. Filosof
@@ -148,7 +149,8 @@ Nybearbejdelse ved Vogel og Fischer 1906 og Bekker
 </chapter>
 
 <chapter name="Diodoros, Pseudonym for J. H. T. Fibiger">
-<b>Diodoros,</b> Pseudonym for J. H. T. Fibiger.</chapter>
+<b>Diodoros,</b> Pseudonym for J. H. T. Fibiger.
+</chapter>
 
 <chapter name="Diofabi, Francesco">
 <b>Diofabi,</b> <sp>Francesco</sp>, ital. Maler, gjorde

@@ -108,13 +108,15 @@ Culturpflanzen« [1851]).
 </chapter>
 
 <chapter name="Egadi">
-<b>Egadi,</b> se <sp>Ægadiske Øer</sp>.</chapter>
+<b>Egadi,</b> se <sp>Ægadiske Øer</sp>.
+</chapter>
 
 <chapter name="egal">
 <b>egal</b> (fr., af lat. <i>æqualis</i>), lige, ensartet,
 jævn; ligegyldig; <sp>egalere</sp>, <sp>egalisere</sp>, gøre
 lige, ens; være lige; <sp>Egalisation</sp>, Udligning;
-<sp>Egalitet</sp>, Lighed, Ensartethed.</chapter>
+<sp>Egalitet</sp>, Lighed, Ensartethed.
+</chapter>
 
 <chapter name="egalisere">
 <b>egalisere,</b> udjævne, gøre lige, benyttes bl. a.

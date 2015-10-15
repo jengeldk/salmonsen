@@ -135,12 +135,14 @@ mindre.
 </chapter>
 
 <chapter name="Eksistentialdom">
-<b>Eksistentialdom</b> ['æks-], se <sp>Eksistens</sp>.</chapter>
+<b>Eksistentialdom</b> ['æks-], se <sp>Eksistens</sp>.
+</chapter>
 
 <chapter name="eksistere">
 <b>eksistere</b> (lat.), være, være til, leve,
 opholde Livet, have sit Udkomme. <sp>Eksistens</sp>,
-Tilværelse, smlg. ovf.</chapter>
+Tilværelse, smlg. ovf.
+</chapter>
 
 <chapter name="Eksjö">
 <b>Eksjö</b> ['e.k-] By i Sydsverige, Småland

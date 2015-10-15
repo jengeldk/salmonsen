@@ -47,10 +47,12 @@ Fæstningsanlæg og forsynet med Murtinder.
 <img>Cæcilia Metellas Grav.</img>
 
 <chapter name="Cæcilianus">
-<b>Cæcilianus,</b> se <sp>Donatister</sp>.</chapter>
+<b>Cæcilianus,</b> se <sp>Donatister</sp>.
+</chapter>
 
 <chapter name="Cæcilius">
-<b>Cæcilius,</b> se <sp>Metellus</sp>.</chapter>
+<b>Cæcilius,</b> se <sp>Metellus</sp>.
+</chapter>
 
 <chapter name="Cæcilius">
 <b>Cæcilius</b> (<sp>Kaikilios</sp>) <sp>fra Kalakte</sp>

@@ -73,7 +73,8 @@ Kartoner.
 </chapter>
 
 <chapter name="Crabettje">
-<b>Crabettje,</b> Maler, se <sp>Asselijn</sp>.</chapter>
+<b>Crabettje,</b> Maler, se <sp>Asselijn</sp>.
+</chapter>
 
 <chapter name="Crab-island">
 <b>Crab-island</b> ['kräb-'a^i£<sub>ə</sub>nd] (<i>Isla de Vieques</i>),
@@ -83,14 +84,17 @@ de Forenede Stater tilhørende Jomfruøer.
 </chapter>
 
 <chapter name="Crabolie">
-<b>Crabolie,</b> se <sp>Carapaolie</sp>.</chapter>
+<b>Crabolie,</b> se <sp>Carapaolie</sp>.
+</chapter>
 
 <chapter name="Crace Calvert">
 <b>Crace Calvert</b> ['kre<sub>i</sub>s-'kä£vət], se <sp>Calvert,
-F. C.</sp></chapter>
+F. C.</sp>
+</chapter>
 
 <chapter name="Cracidæ">
-<b>Cracidæ,</b> se <sp>Hokkofugle</sp>.</chapter>
+<b>Cracidæ,</b> se <sp>Hokkofugle</sp>.
+</chapter>
 
 <chapter name="Crackingproces">
 <b>Crackingproces</b> ['kråkiŋ-] er en
@@ -125,7 +129,8 @@ den Udstrækning, man opr. havde ventet.
 </chapter>
 
 <chapter name="Cracovienne">
-<b>Cracovienne</b> [krakå'v<sub>i</sub>æn], se <sp>Krakowiak</sp>.</chapter>
+<b>Cracovienne</b> [krakå'v<sub>i</sub>æn], se <sp>Krakowiak</sp>.
+</chapter>
 
 <chapter name="Cradock">
 <b>Cradock</b> ['krä'd<sub>ə</sub>k], By i Kaplandet,
@@ -170,5 +175,6 @@ Petrograd, Stockholm etc.
 </chapter>
 
 <chapter name="Craeyer">
-<b>Craeyer</b> [kræ'je], Maler, se <sp>Crayer</sp>.</chapter>
+<b>Craeyer</b> [kræ'je], Maler, se <sp>Crayer</sp>.
+</chapter>
 

@@ -21,7 +21,8 @@ og (1911) 5236 Indb.
 </chapter>
 
 <chapter name="Cinghalesisk">
-<b>Cinghalesisk,</b> se <sp>Singhalesisk</sp>.</chapter>
+<b>Cinghalesisk,</b> se <sp>Singhalesisk</sp>.
+</chapter>
 
 <chapter name="Cingoli">
 <b>Cingoli,</b> ['t∫iŋgoli] By i Mellemitalien, Prov.
@@ -83,7 +84,8 @@ driver Vinavl.
 </chapter>
 
 <chapter name="Cinna, C. Helvius">
-<b>Cinna,</b> <sp>C. Helvius</sp>, se <sp>Helvius Cinna</sp>.</chapter>
+<b>Cinna,</b> <sp>C. Helvius</sp>, se <sp>Helvius Cinna</sp>.
+</chapter>
 
 <chapter name="Cinna, Lucius Cornelius m. fl.">
 <b>Cinna,</b> 1) <sp>Lucius Cornelius</sp>, en Romer
@@ -130,7 +132,8 @@ sig tro.
 </chapter>
 
 <chapter name="Cinnabarit">
-<b>Cinnabarit,</b> se <sp>Cinnober</sp>.</chapter>
+<b>Cinnabarit,</b> se <sp>Cinnober</sp>.
+</chapter>
 
 <chapter name="Cinnamein">
 <b>Cinnamein</b> eller <sp>Perubalsamolie</sp> er

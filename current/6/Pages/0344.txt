@@ -52,7 +52,8 @@ de la Palestine, Samarie</i> II, 305-15).
 </chapter>
 
 <chapter name="Dor, se Bongo">
-<b>Dor,</b> se <sp>Bongo</sp>.</chapter>
+<b>Dor,</b> se <sp>Bongo</sp>.
+</chapter>
 
 <chapter name="Dora, 2 Floder">
 <b>Dora,</b> 1) <sp>D. Baltea</sp>, Flod i Norditalien,
@@ -70,10 +71,12 @@ derigennem.
 </chapter>
 
 <chapter name="Dora Baltea">
-<b>Dora Baltea,</b> se <sp>Dora</sp>.</chapter>
+<b>Dora Baltea,</b> se <sp>Dora</sp>.
+</chapter>
 
 <chapter name="Dorade">
-<b>Dorade,</b> se <sp>Makrelfisk</sp>.</chapter>
+<b>Dorade,</b> se <sp>Makrelfisk</sp>.
+</chapter>
 
 <chapter name="Dorado">
 <b>Dorado, el</b> [æl-ðå'rað<sub>å</sub>], sp. »den gyldne«,
@@ -167,5 +170,6 @@ ham underlagte Distrikt benævnes
 </chapter>
 
 <chapter name="Dorakistan">
-<b>Dorakistan,</b> se <sp>Dorak el-Atik</sp>.</chapter>
+<b>Dorakistan,</b> se <sp>Dorak el-Atik</sp>.
+</chapter>
 

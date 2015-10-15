@@ -57,7 +57,8 @@ af græsser Arealet.
 </chapter>
 
 <chapter name="Eftersmag">
-<b>Eftersmag,</b> se <sp>Smag</sp>.</chapter>
+<b>Eftersmag,</b> se <sp>Smag</sp>.
+</chapter>
 
 <chapter name="Efterspil">
 <b>Efterspil,</b> den tematisk udarbejdede
@@ -69,7 +70,8 @@ Menigheden forlader Kirken (<i>Postludium</i>).
 </chapter>
 
 <chapter name="Efterspørgsel">
-<b>Efterspørgsel,</b> se <sp>Pris</sp>.</chapter>
+<b>Efterspørgsel,</b> se <sp>Pris</sp>.
+</chapter>
 
 <chapter name="Efterstempling">
 <b>Efterstempling.</b> Efter tidligere dansk Ret,
@@ -103,7 +105,8 @@ og <sp>Ordstilling</sp>.
 </chapter>
 
 <chapter name="Eftertryk, se Forfatterret">
-<b>Eftertryk,</b> se <sp>Forfatterret</sp>.</chapter>
+<b>Eftertryk,</b> se <sp>Forfatterret</sp>.
+</chapter>
 
 <chapter name="Eftertryk">
 <b>Eftertryk</b> er særlig kraftigt Tryk lagt paa
@@ -152,10 +155,12 @@ han 1913 valgtes til Vara(Vice)præsident.
 </chapter>
 
 <chapter name="Efugl">
-<b>Efugl</b> ['e.-], d. s. s. <sp>Ederfugl</sp>.</chapter>
+<b>Efugl</b> ['e.-], d. s. s. <sp>Ederfugl</sp>.
+</chapter>
 
 <chapter name="e. g.">
-<b>e. g.,</b> se <sp>Eksempel</sp>.</chapter>
+<b>e. g.,</b> se <sp>Eksempel</sp>.
+</chapter>
 
 <chapter name="Eg">
 <b>Eg.</b> Af Slægten <i>Quércus</i> findes kun 2 Arter i

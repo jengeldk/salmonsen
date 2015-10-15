@@ -23,7 +23,8 @@ Kolonialpavillon.
 
 <chapter name="Deperulation">
 <b>Deperulation</b> (<sp>bot</sp>.) (af perula, Knopskæl),
-Afkastning af <sp>Knopskællene</sp>.</chapter>
+Afkastning af <sp>Knopskællene</sp>.
+</chapter>
 
 <chapter name="Depilatorium">
 <b>Depilatorium</b> (lat.), Haarfjerningsmiddel,
@@ -51,11 +52,13 @@ til Fjernelse af Haarvækst.
 
 <chapter name="depilere">
 <b>depilere</b> (lat.), fjerne Haar. <sp>Depilation</sp>,
-Fjerning af Haar.</chapter>
+Fjerning af Haar.
+</chapter>
 
 <chapter name="Deplacement, se Perkolator">
 <b>Deplacement</b> [-plas<sub>ə</sub>'maŋ], Udtrækning ved
-Hjælp af Perkolator (s. d.).</chapter>
+Hjælp af Perkolator (s. d.).
+</chapter>
 
 <chapter name="Deplacement, et Skibs">
 <b>Deplacement</b> [-plas<sub>ə</sub>'maŋ]. Ved et Skibs D.
@@ -81,24 +84,29 @@ fortrænger (se <sp>Skibsbygning</sp>).
 
 <chapter name="Deplacementsapparat">
 <b>Deplacementsapparat</b> [-plas<sub>ə</sub>'maŋs-], se
-<sp>Perkolator</sp>.</chapter>
+<sp>Perkolator</sp>.
+</chapter>
 
 <chapter name="deplacere">
 <b>deplacere</b> [-'se'-] (af fr. <i>déplacer</i>) bortrykke
 noget fra sin Plads; afsætte nogen fra sit
 Embede; <sp>deplaceret</sp>, ilde anbragt, paa urette
-Sted.</chapter>
+Sted.
+</chapter>
 
 <chapter name="de plano">
 <b>de plano</b> (lat.), kort og godt, ligefrem, uden
-Omstændigheder.</chapter>
+Omstændigheder.
+</chapter>
 
 <chapter name="Depletion">
 <b>Depletion</b> (lat.), Udtømmelse, bruges særlig
-som <i>deplétio sánguinis</i>, Blodudtømmelse.</chapter>
+som <i>deplétio sánguinis</i>, Blodudtømmelse.
+</chapter>
 
 <chapter name="deplorabel">
-<b>deplorabel</b> (lat.), beklagelsesværdig.</chapter>
+<b>deplorabel</b> (lat.), beklagelsesværdig.
+</chapter>
 
 <chapter name="deployere">
 <b>deployere</b> [-ploa'je r<sub>e</sub>] (af fr. <i>déployer</i>),
@@ -112,7 +120,8 @@ forreste Afdelings Frontlinie.
 
 <chapter name="depolarisere">
 <b>depolarisere</b>, ophæve Polarisation. Se
-<sp>Polarisation</sp> og <sp>Galvaniske Elementer</sp>.</chapter>
+<sp>Polarisation</sp> og <sp>Galvaniske Elementer</sp>.
+</chapter>
 
 <chapter name="deponens">
 <b>deponens</b> (lat.), egl. »aflæggende«. De rom.
@@ -133,7 +142,8 @@ Forklaring for en Ret.
 </chapter>
 
 <chapter name="deponere (akademisk)">
-<b>deponere</b> (<sp>akademisk</sp>), se <sp>Deposition</sp>.</chapter>
+<b>deponere</b> (<sp>akademisk</sp>), se <sp>Deposition</sp>.
+</chapter>
 
 <chapter name="deponere, nedlægge, afgive">
 <b>deponere</b> (lat.), egl. nedlægge, afgive; i

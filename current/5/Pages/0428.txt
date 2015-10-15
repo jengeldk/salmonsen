@@ -57,7 +57,8 @@ Tid har han malet mange religiøse Billeder.
 for Sorbonne. Hans udmærkede, til Tider dog
 lidt vel sødlige og glatte Portrætkunst er meget
 søgt.
-<i><i>A. Hk.</i></i></chapter>
+<i>A. Hk.</i>
+</chapter>
 
 <chapter name="Dagobert I, II og III">
 <b>Dagobert I,</b> frankisk Konge, fik 622 Austrasien
@@ -80,7 +81,8 @@ han blev myrdet.
 <sp>Dagobert III</sp>, Søn af Childebert III, herskede
 711-15 som Skyggekonge over det frankiske
 Rige.
-<i><i>H. H. R.</i></i></chapter>
+<i>H. H. R.</i>
+</chapter>
 
 <chapter name="Dagobert-Fontenille">
 <b>Dagobert-Fontenille</b> [dagå'bæ.r-få'tni.j],
@@ -104,7 +106,8 @@ indskrives paa en Søjle i Pantheon i Paris.
 </chapter>
 
 <chapter name="Dagomba">
-<b>Dagomba,</b> se <sp>Jendi</sp>.</chapter>
+<b>Dagomba,</b> se <sp>Jendi</sp>.
+</chapter>
 
 <chapter name="Dagon">
 <b>Dagon,</b> en af Filisternes Hovedguder, der
@@ -145,10 +148,12 @@ af Jonathan, Makkabæeren (1. Makk.
 </chapter>
 
 <chapter name="Dagpenge">
-<b>Dagpenge,</b> se <sp>Diæter</sp>.</chapter>
+<b>Dagpenge,</b> se <sp>Diæter</sp>.
+</chapter>
 
 <chapter name="Dagrenovation">
-<b>Dagrenovation,</b> se <sp>Renovation</sp>.</chapter>
+<b>Dagrenovation,</b> se <sp>Renovation</sp>.
+</chapter>
 
 <chapter name="Dagrovfugle">
 <b>Dagrovfugle,</b> samtlige Rovfuglegrupper undtagen

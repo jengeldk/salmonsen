@@ -132,10 +132,12 @@ hvoraf omtr. Halvdelen udføres.
 </chapter>
 
 <chapter name="Cyphella">
-<b>Cyphella</b> [-'fæ-], se <sp>Barksvampe</sp>.</chapter>
+<b>Cyphella</b> [-'fæ-], se <sp>Barksvampe</sp>.
+</chapter>
 
 <chapter name="Cypres">
-<b>Cypres,</b> se <sp>Cupressus</sp>.</chapter>
+<b>Cypres,</b> se <sp>Cupressus</sp>.
+</chapter>
 
 <chapter name="Cypresfamilien">
 <b>Cypresfamilien</b> (<i>Cupressaceæ</i>), stedsegrønne

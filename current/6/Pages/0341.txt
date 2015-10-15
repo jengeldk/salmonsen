@@ -114,7 +114,8 @@ Mindesmærke for Bismarck og Moltke.
 
 <chapter name="Donnersberger-Kvæg">
 <b>Donnersberger-Kvæg,</b> et til Glaner-Kvæget
-hørende, af Berner-Kvæg paavirket Kvægslag.</chapter>
+hørende, af Berner-Kvæg paavirket Kvægslag.
+</chapter>
 
 <chapter name="Donon">
 <b>Donon</b> [då'nå], et 1008 m højt Bjerg i

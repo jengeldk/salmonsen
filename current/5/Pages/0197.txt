@@ -4,7 +4,8 @@ Monografier ved <sp>Chamberlain</sp> [1903],
 </chapter>
 
 <chapter name="constabulus">
-<b>constabulus,</b> se <sp>Connétable</sp>.</chapter>
+<b>constabulus,</b> se <sp>Connétable</sp>.
+</chapter>
 
 <chapter name="Constans, rom. Kejser">
 <b>Constans,</b> rom. Kejser 337-350, var den

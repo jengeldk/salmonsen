@@ -49,7 +49,8 @@ Gren med Frugter.
 Til højre Blomster.</img>
 
 <chapter name="Daphnia">
-<b>Daphnia</b> ['daf-], se <sp>Dafnier</sp>.</chapter>
+<b>Daphnia</b> ['daf-], se <sp>Dafnier</sp>.
+</chapter>
 
 <chapter name="da Ponte, Lorenzo">
 <b>da Ponte</b> [-'ponte], <sp>Lorenzo</sp>, ital. Forf.,
@@ -111,7 +112,8 @@ Grund for Shakespeare's nærmeste Kilde,
 Arthur Brooke's Digt fra 1562 med Titel <i>The
 tragicall historye of Romens and Juliet</i>. D.'s <i>Rime
 e prosa</i> udgaves først i Venedig 1539.
-<i>(E. G.). E. M-r.</i>.</chapter>
+<i>(E. G.). E. M-r.</i>
+</chapter>
 
 <chapter name="Dappedalen">
 <b>Dappedalen</b> ['dap-1 (Vallée des Dappes

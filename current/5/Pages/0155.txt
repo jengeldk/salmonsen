@@ -66,7 +66,8 @@ Brunelleschi Ægget og slog det med Spidsen mod
 Marmorpladen, saa at det stod. Paa de andres
 Bemærkning om, at det kunde de ogsaa have
 gjort, svarede han smilende, at de ogsaa kunde
-opføre Kuplen, hvis de havde set hans Udkast.</chapter>
+opføre Kuplen, hvis de havde set hans Udkast.
+</chapter>
 
 <chapter name="Columella, Lucius Junius Moderatus">
 <b>Columella,</b> <sp>Lucius Junius Moderatus</sp>,
@@ -114,10 +115,12 @@ og <sp>Trajansøjlen</sp>.
 
 <chapter name="Columna vertebralis">
 <b>Columna vertebralis,</b> d. s. s.
-<sp>Hvirvelsøjle</sp>.</chapter>
+<sp>Hvirvelsøjle</sp>.
+</chapter>
 
 <chapter name="Columniferæ">
-<b>Columniferæ,</b> se <sp>Søjleblomstrede</sp>.</chapter>
+<b>Columniferæ,</b> se <sp>Søjleblomstrede</sp>.
+</chapter>
 
 <chapter name="Colutea">
 <b>Colutea</b> T. (<sp>Blæretræ</sp>, <sp>Blærebusk</sp>,
@@ -149,13 +152,16 @@ Indb.
 </chapter>
 
 <chapter name="Colymbus">
-<b>Colymbus,</b> se <sp>Lom</sp>.</chapter>
+<b>Colymbus,</b> se <sp>Lom</sp>.
+</chapter>
 
 <chapter name="Colæus">
-<b>Colæus</b> (<sp>Allike</sp>), se <sp>Ravnefugle</sp>.</chapter>
+<b>Colæus</b> (<sp>Allike</sp>), se <sp>Ravnefugle</sp>.
+</chapter>
 
 <chapter name="Coma, se Kometer">
-<b>Coma,</b> se <sp>Kometer</sp>.</chapter>
+<b>Coma,</b> se <sp>Kometer</sp>.
+</chapter>
 
 <chapter name="Coma, dyb Søvn">
 <b>Coma</b> (gr.), dyb Søvn, kaldes den dvale- ell.

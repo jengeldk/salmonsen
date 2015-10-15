@@ -98,13 +98,16 @@ Kirkebøgerne.
 »kat. Kultur«, et ital. Tidsskrift, der udkommer
 hver 14. Dag i Rom. C. C., der er Jesuitternes
 udprægede Organ, blev grundlagt 1850 og
-udgives nu i Rom.</chapter>
+udgives nu i Rom.
+</chapter>
 
 <chapter name="civis">
-<b>civis</b> (lat.), Borger. Smlg. <sp>civitas</sp>.</chapter>
+<b>civis</b> (lat.), Borger. Smlg. <sp>civitas</sp>.
+</chapter>
 
 <chapter name="Cività">
-<b>Cività</b> [t∫<sub>i</sub>vi'ta], se <sp>Citta</sp>.</chapter>
+<b>Cività</b> [t∫<sub>i</sub>vi'ta], se <sp>Citta</sp>.
+</chapter>
 
 <chapter name="Cività Castellana">
 <b>Cività Castellana</b> [t∫<sub>i</sub>vi'ta-], By i

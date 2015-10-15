@@ -79,15 +79,18 @@ Coulon</i> [Paris 1910-13]).
 </chapter>
 
 <chapter name="Dominikanerenke">
-<b>Dominikanerenke,</b> se <sp>Vidafinker</sp>.</chapter>
+<b>Dominikanerenke,</b> se <sp>Vidafinker</sp>.
+</chapter>
 
 <chapter name="Dominikanske Republik">
 <b>Dominikanske Republik,</b> se <sp>Santo
-Domingo</sp>.</chapter>
+Domingo</sp>.
+</chapter>
 
 <chapter name="Dominion of Canada">
 <b>Dominion of Canada</b> [d<sub>å</sub>'min<sub>jə</sub>n-<sub>ə</sub>v-'känäd<sub>a</sub>],
-se <sp>Kanada</sp>.</chapter>
+se <sp>Kanada</sp>.
+</chapter>
 
 <chapter name="Dominique, Pierre François Briancolleli">
 <b>Dominique</b> [dåmi'nik], <sp>Pierre François
@@ -103,7 +106,8 @@ vittige Improvisationer.
 
 <chapter name="dominium">
 <b>dominium</b> (lat.), Ejendom (i juridisk
-Betydning).</chapter>
+Betydning).
+</chapter>
 
 <chapter name="Domino">
 <b>Domino,</b> et Spil med rektangulært formede

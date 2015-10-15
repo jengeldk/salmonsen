@@ -38,7 +38,8 @@ Lærere er udelukkede fra at forestaa Prøven.
 
 <chapter name="Eksaminand, eksaminere">
 <b>Eksaminand, eksaminere</b> m. fl., se
-<sp>Eksamen</sp>.</chapter>
+<sp>Eksamen</sp>.
+</chapter>
 
 <chapter name="Eksaminatorium">
 <b>Eksaminatorium</b> (lat.), en
@@ -51,7 +52,8 @@ Eksamen. (Smlg. <sp>Colloquium</sp>).
 
 <chapter name="Eksantem">
 <b>Eksantem</b> (gr.), Hududslet i akut Udbrud,
-som ved Mæslinger eller Skarlagensfeber.</chapter>
+som ved Mæslinger eller Skarlagensfeber.
+</chapter>
 
 <chapter name="Eksaration">
 <b>Eksaration,</b> den Virksomhed, som

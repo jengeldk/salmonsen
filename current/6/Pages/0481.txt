@@ -93,10 +93,12 @@ Traumbeobachtung« i »Archiv für Psychol.«, Bd 23,
 </chapter>
 
 <chapter name="Drømmebøger">
-<b>Drømmebøger,</b> se <sp>Drømmetydning</sp>.</chapter>
+<b>Drømmebøger,</b> se <sp>Drømmetydning</sp>.
+</chapter>
 
 <chapter name="Drømmekvæde">
-<b>Drømmekvæde,</b> d. s. s. <sp>Draumekvæde</sp>.</chapter>
+<b>Drømmekvæde,</b> d. s. s. <sp>Draumekvæde</sp>.
+</chapter>
 
 <chapter name="Drømmetydning">
 <b>Drømmetydning</b> er den Fortolkning, som en

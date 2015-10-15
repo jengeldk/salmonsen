@@ -155,10 +155,12 @@ afghansk Nationalitet.
 <b>derangere</b> [deraŋ'sje'r<sub>ə</sub>] (fransk <i>déranger</i>),
 bringe i Uorden, forvirre, forstyrre;
 <sp>derangeret</sp>, forhutlet, med sine Forhold (pekuniære
-o. a.) i Uorden.</chapter>
+o. a.) i Uorden.
+</chapter>
 
 <chapter name="Der'ât">
-<b>Der'ât</b> [der-'a.t], se <sp>Adraa</sp>.</chapter>
+<b>Der'ât</b> [der-'a.t], se <sp>Adraa</sp>.
+</chapter>
 
 <chapter name="de rato">
 <b>de rato</b> (lat.), <i>cautio d. r.</i>, Indestaaen for,

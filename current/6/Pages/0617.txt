@@ -1,7 +1,8 @@
 <chapter name="Dyrendal">
 <b>Dyrendal</b> (egl. <sp>Durendal</sp>) [fr. dyrã'dal],
 Roland's Sværd i Rolandskvadet, nu spøgende
-Betegnelse for et Sværd.</chapter>
+Betegnelse for et Sværd.
+</chapter>
 
 <chapter name="Dyreolie">
 <b>Dyreolie</b> kaldes de ved tør Destillation af

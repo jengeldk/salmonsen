@@ -4,17 +4,20 @@ Indledning</sp> anførte Litt.).
 </chapter>
 
 <chapter name="Ekseget">
-<b>Ekseget,</b> se <sp>Eksegese</sp>.</chapter>
+<b>Ekseget,</b> se <sp>Eksegese</sp>.
+</chapter>
 
 <chapter name="eksekrere">
 <b>eksekrere</b> (lat.), forbande;
 <sp>Eksekrament</sp>, <sp>Eksekration</sp>, Forbandelse;
-<sp>eksekrabel</sp>, afskyelig.</chapter>
+<sp>eksekrabel</sp>, afskyelig.
+</chapter>
 
 <chapter name="eksekutere">
 <b>eksekutere</b> (lat.), udføre, fuldbyrde,
 gennemføre ved retlig Tvang; <sp>eksekutiv</sp>,
-fuldbyrdende, udøvende.</chapter>
+fuldbyrdende, udøvende.
+</chapter>
 
 <chapter name="Eksekution">
 <b>Eksekution</b> (ogsaa kaldet <sp>Udlæg</sp>) vil sige

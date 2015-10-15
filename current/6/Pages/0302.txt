@@ -16,10 +16,12 @@ Fods Rørstemme i Orglet.
 </chapter>
 
 <chapter name="Dolcino">
-<b>Dolcino</b> [dol't∫ino], se <sp>Apostelbrødre</sp>.</chapter>
+<b>Dolcino</b> [dol't∫ino], se <sp>Apostelbrødre</sp>.
+</chapter>
 
 <chapter name="dolcissimo">
-<b>dolcissimo</b> [dol't∫is.imo], se <sp>dolce</sp>.</chapter>
+<b>dolcissimo</b> [dol't∫is.imo], se <sp>dolce</sp>.
+</chapter>
 
 <chapter name="Doldenhorn">
 <b>Doldenhorn</b> ['dåld<sub>ə</sub>nhårn], en sneklædt
@@ -74,13 +76,16 @@ Franche-Comtés ny Hovedstad Besançon.
 
 <chapter name="dolendo">
 <b>dolendo</b> [-'lændo] (ital.) mus.
-Foredragsbetegnelse: klagende, vemodig.</chapter>
+Foredragsbetegnelse: klagende, vemodig.
+</chapter>
 
 <chapter name="dolere">
-<b>dolere</b> (lat.), føle Smerte, være bedrøvet.</chapter>
+<b>dolere</b> (lat.), føle Smerte, være bedrøvet.
+</chapter>
 
 <chapter name="Dolerit">
-<b>Dolerit,</b> se <sp>Basalt</sp>.</chapter>
+<b>Dolerit,</b> se <sp>Basalt</sp>.
+</chapter>
 
 <chapter name="Dolerofanit">
 <b>Dolerofanit,</b> et Mineral, der bestaar af
@@ -131,7 +136,8 @@ procès d'É. D.</i> [1856] og <sp>R. G. Christie</sp>,
 </chapter>
 
 <chapter name="Dolfiner">
-<b>Dolfiner,</b> se <sp>Makrelfisk</sp>.</chapter>
+<b>Dolfiner,</b> se <sp>Makrelfisk</sp>.
+</chapter>
 
 <chapter name="Dolganer">
 <b>Dolganer,</b> en lille Folkestamme i det

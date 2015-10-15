@@ -1,6 +1,7 @@
 
 <chapter name="Croix, Skt, dansk Ø">
-<b>Croix</b> [krwa], <b>Skt,</b> dansk Ø, se <sp>Sankt C</sp>.</chapter>
+<b>Croix</b> [krwa], <b>Skt,</b> dansk Ø, se <sp>Sankt C</sp>.
+</chapter>
 
 <chapter name="Croix, By">
 <b>Croix</b> [krwa]. By i det nordlige Frankrig,
@@ -162,4 +163,5 @@ Miller Institut.
 Skotland, Elginshire, ved Spey, kendt ved en
 Fægtning mellem de kgl. Tropper og
 Jakobitterne (1. Maj 1690), der har givet Stof til en
-skotsk Folkesang.</chapter>
+skotsk Folkesang.
+</chapter>

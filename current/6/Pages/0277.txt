@@ -64,10 +64,12 @@ og Sølv« [»Nyt Tidsskrift«, Kria 1895]).
 
 <chapter name="Dobbeltoktav">
 <b>Dobbeltoktav,</b> et Interval, der omfatter to
-Oktaver.</chapter>
+Oktaver.
+</chapter>
 
 <chapter name="Dobbeltpost">
-<b>Dobbeltpost,</b> se <sp>Post</sp>.</chapter>
+<b>Dobbeltpost,</b> se <sp>Post</sp>.
+</chapter>
 
 <chapter name="Dobbeltpunkt">
 <b>Dobbeltpunkt</b> (mat.) paa en tegnet Kurve er
@@ -89,16 +91,19 @@ Plan gennem Punktet; Fladen
 har i Nærheden af D. en lgn.
 Form som en Kegleflade i Nærheden af
 Toppunktet.
-<i>Chr. C.</i>
 
-<img></img></chapter>
+<img></img>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Dobbeltrem">
 <b>Dobbeltrem,</b> Maskinrem samlet af to
-Tykkelser Læder.</chapter>
+Tykkelser Læder.
+</chapter>
 
 <chapter name="Dobbel-Trost">
-<b>Dobbel-Trost,</b> se <sp>Drossel</sp>.</chapter>
+<b>Dobbel-Trost,</b> se <sp>Drossel</sp>.
+</chapter>
 
 <chapter name="Dobbeltsalg">
 <b>Dobbeltsalg</b> (<sp>jur</sp>.) kaldes det Forhold, der
@@ -145,7 +150,8 @@ Strafansvar.
 </chapter>
 
 <chapter name="Dobbeltsalte">
-<b>Dobbeltsalte,</b> se <sp>Salte</sp>.</chapter>
+<b>Dobbeltsalte,</b> se <sp>Salte</sp>.
+</chapter>
 
 <chapter name="Dobbeltskarlagen">
 <b>Dobbeltskarlagen,</b> C<sub>22</sub>H<sub>15</sub>N<sub>4</sub>O<sub>4</sub>SNa, et

@@ -114,7 +114,8 @@ saaledes 22,5 g fint Sølv.
 </chapter>
 
 <chapter name="colombier">
-<b>colombier</b> [kålå'b<sub>i</sub>e], se <sp>Papir</sp>.</chapter>
+<b>colombier</b> [kålå'b<sub>i</sub>e], se <sp>Papir</sp>.
+</chapter>
 
 <chapter name="Colombina">
 <b>Colombina,</b> egl. »lille Due«, en af de muntre

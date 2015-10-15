@@ -70,7 +70,8 @@ Videnskab.
 </chapter>
 
 <chapter name="demoiselle">
-<b>demoiselle</b> [d<sub>ö</sub>mwa'zæl], se <sp>damoiselle</sp>.</chapter>
+<b>demoiselle</b> [d<sub>ö</sub>mwa'zæl], se <sp>damoiselle</sp>.
+</chapter>
 
 <chapter name="Demokedes">
 <b>Demokedes,</b> berømt gr. Læge fra det
@@ -97,7 +98,8 @@ pythagoræiske Forbund.
 </chapter>
 
 <chapter name="Demokrat">
-<b>Demokrat,</b> se <sp>Demokrati</sp>.</chapter>
+<b>Demokrat,</b> se <sp>Demokrati</sp>.
+</chapter>
 
 <chapter name="Demokrater">
 <b>Demokrater,</b> politisk Partinavn i

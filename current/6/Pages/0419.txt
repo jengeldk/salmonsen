@@ -72,7 +72,8 @@ for norsk Bogkunst«).
 </chapter>
 
 <chapter name="Draupne">
-<b>Draupne,</b> Odin's Ring, se <sp>Drypne</sp>.</chapter>
+<b>Draupne,</b> Odin's Ring, se <sp>Drypne</sp>.
+</chapter>
 
 <chapter name="Drausensee">
 <b>Drausensee</b> ['dra^uz<sub>ə</sub>nze.], en 10 km lang og
@@ -88,15 +89,18 @@ livlig Trafik.
 </chapter>
 
 <chapter name="Dráva">
-<b>Dráva</b> ['dra.vå], se <sp>Drau</sp>.</chapter>
+<b>Dráva</b> ['dra.vå], se <sp>Drau</sp>.
+</chapter>
 
 <chapter name="Dravat">
 <b>Dravat</b> (af fransk <i>travade</i>), Kastevind, særlig
 med Torden ell. Regn. I overført Bet. en
-Overhaling.</chapter>
+Overhaling.
+</chapter>
 
 <chapter name="Dravida">
-<b>Dravida,</b> se <sp>Dravider</sp>.</chapter>
+<b>Dravida,</b> se <sp>Dravider</sp>.
+</chapter>
 
 <chapter name="Dravider">
 <b>Dravider</b> (Sanskrit <sp>Dravida</sp>), Navn paa

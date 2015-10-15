@@ -138,10 +138,12 @@ Alkoholfabrikker, der oftest bærer Cail's Navn.
 </chapter>
 
 <chapter name="De Rossi">
-<b>De Rossi,</b> se <sp>Rossi</sp>.</chapter>
+<b>De Rossi,</b> se <sp>Rossi</sp>.
+</chapter>
 
 <chapter name="Derotremata">
-<b>Derotremata,</b> se <sp>Fiskepadder</sp>.</chapter>
+<b>Derotremata,</b> se <sp>Fiskepadder</sp>.
+</chapter>
 
 <chapter name="Déroulède, Paul">
 <b>Déroulède</b> [deru'læd], <sp>Paul</sp>, fr. Digter og

@@ -62,7 +62,8 @@ rider i Kreds omkr. hinanden.
 </chapter>
 
 <chapter name="Dobbelthævert">
-<b>Dobbelthævert,</b> se <sp>Hævert</sp>.</chapter>
+<b>Dobbelthævert,</b> se <sp>Hævert</sp>.
+</chapter>
 
 <chapter name="Dobbelthøvl">
 <b>Dobbelthøvl,</b> Høvl, hvis Staal dækkes af en
@@ -111,7 +112,8 @@ Munke hver sit Kor.
 </chapter>
 
 <chapter name="Dobbeltkontrapunkt">
-<b>Dobbeltkontrapunkt,</b> se <sp>Kontrapunkt</sp>.</chapter>
+<b>Dobbeltkontrapunkt,</b> se <sp>Kontrapunkt</sp>.
+</chapter>
 
 <chapter name="Dobbeltkor">
 <b>Dobbeltkor,</b> en Forening af to, hver for sig
@@ -127,7 +129,8 @@ afgiver Bach's »Matthæuspassion«, Meyerbeer's
 </chapter>
 
 <chapter name="Dobbelt Kramsfugl">
-<b>Dobbelt Kramsfugl,</b> se <sp>Drossel</sp>.</chapter>
+<b>Dobbelt Kramsfugl,</b> se <sp>Drossel</sp>.
+</chapter>
 
 <chapter name="Dobbeltkrone">
 <b>Dobbeltkrone,</b> i Tyskland et
@@ -137,15 +140,18 @@ indeholde 7,1685 g fint Guld = 17,78 Kr.
 </chapter>
 
 <chapter name="Dobbeltkryds">
-<b>Dobbeltkryds,</b> se <sp>Fortegn</sp>.</chapter>
+<b>Dobbeltkryds,</b> se <sp>Fortegn</sp>.
+</chapter>
 
 <chapter name="Dobbeltkvadrat">
-<b>Dobbeltkvadrat,</b> se <sp>Bikvadrat</sp>.</chapter>
+<b>Dobbeltkvadrat,</b> se <sp>Bikvadrat</sp>.
+</chapter>
 
 <chapter name="Dobbeltkvartet">
 <b>Dobbeltkvartet,</b> en Kvartet, hvor alle 4
 Stemmer er dobbelt besatte, saaledes at altsaa
-2 og 2 af de 8 Udøvende synger samme Stemme.</chapter>
+2 og 2 af de 8 Udøvende synger samme Stemme.
+</chapter>
 
 <chapter name="Dobbeltlaar">
 <b>Dobbeltlaar,</b> Betegnelse for en hos
@@ -168,14 +174,17 @@ af Opdrætterne.
 </chapter>
 
 <chapter name="Dobbeltled">
-<b>Dobbeltled,</b> se <sp>Engelsk Syge</sp>.</chapter>
+<b>Dobbeltled,</b> se <sp>Engelsk Syge</sp>.
+</chapter>
 
 <chapter name="Dobbeltledninger">
 <b>Dobbeltledninger,</b> se
-<sp>Telefonledninger</sp>.</chapter>
+<sp>Telefonledninger</sp>.
+</chapter>
 
 <chapter name="Dobbeltlyd">
-<b>Dobbeltlyd,</b> d. s. s. <sp>Diftong</sp>.</chapter>
+<b>Dobbeltlyd,</b> d. s. s. <sp>Diftong</sp>.
+</chapter>
 
 <chapter name="Dobbeltmikroskop">
 <b>Dobbeltmikroskop</b> eller

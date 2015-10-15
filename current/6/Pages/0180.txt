@@ -84,7 +84,8 @@ løbe sammen.
 </chapter>
 
 <chapter name="Digitaria">
-<b>Digitaria,</b> se <sp>Fingeraks</sp>.</chapter>
+<b>Digitaria,</b> se <sp>Fingeraks</sp>.
+</chapter>
 
 <chapter name="digitigrade">
 <b>digitigrade,</b> Taagængere, kaldes de Pattedyr,
@@ -114,11 +115,13 @@ Saalegængere (Elefant) og Taagængere (Kamel).
 </chapter>
 
 <chapter name="Digitoksin">
-<b>Digitoksin,</b> se <sp>Digitalis</sp>.</chapter>
+<b>Digitoksin,</b> se <sp>Digitalis</sp>.
+</chapter>
 
 <chapter name="Digitus, rom. Længdemaal">
 <b>Digitus</b> (lat.: »Finger«), rom. Længdemaal
-= 1/16 rom. Fod (<i>pes</i>) = 0.0185 m.</chapter>
+= 1/16 rom. Fod (<i>pes</i>) = 0.0185 m.
+</chapter>
 
 <chapter name="Digitus, Astronomi">
 <b>Digitus</b> (lat.: »Tomme«) bruges ofte i

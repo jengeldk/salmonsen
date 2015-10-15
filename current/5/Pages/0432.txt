@@ -142,7 +142,8 @@ og 1818-20, hans efterladte Breve smst.
 1823. (<sp>Litt</sp>.: <sp>Boullée</sp>, <i>Hist. de la vie etc. du
 chanc. d'Aguesseau</i> [2 Bd, Paris 1835]; <sp>Monnier</sp>,
 <i>Le ch. d'Aguesseau</i> [smst. 1860]).
-<i><i>(F. J. M.). P. L. M.</i></i></chapter>
+<i>(F. J. M.). P. L. M.</i>
+</chapter>
 
 <chapter name="Dagugler">
 <b>Dagugler,</b> Ugler, der væsentlig færdes om
@@ -156,7 +157,8 @@ tager adskillige fl. Slægter med.
 
 <chapter name="Dagupan">
 <b>Dagupan,</b> By paa Vestkysten af Luzon, Filippinerne,
-ved Lingayen-Bugten, 20000 Indb.</chapter>
+ved Lingayen-Bugten, 20000 Indb.
+</chapter>
 
 <chapter name="Dagvagt">
 <b>Dagvagt</b> (<sp>Søv</sp>.) 1) I et Orlogsskib under

@@ -139,7 +139,8 @@ under Hertugen af Joyeuse.
 </chapter>
 
 <chapter name="Coutts">
-<b>Coutts</b> [ku.ts], se <sp>Burdett-C</sp>.</chapter>
+<b>Coutts</b> [ku.ts], se <sp>Burdett-C</sp>.
+</chapter>
 
 <chapter name="coutumes">
 <b>coutumes</b> [ku'tym] (fr.) er i den fr.

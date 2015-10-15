@@ -1,9 +1,11 @@
 <chapter name="Debo">
 <b>Debo,</b> Sø i det vestlige Sudan, Afrika,
-gennemstrømmes af <sp>Niger</sp>.</chapter>
+gennemstrømmes af <sp>Niger</sp>.
+</chapter>
 
 <chapter name="de Boni">
-<b>de Boni</b> [de-'båni], se <sp>Boni</sp>.</chapter>
+<b>de Boni</b> [de-'båni], se <sp>Boni</sp>.
+</chapter>
 
 <chapter name="Debora">
 <b>Debora,</b> Lappidot's Hustru, en Kvinde, som

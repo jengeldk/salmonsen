@@ -29,7 +29,8 @@ Omraade i løs og ubestemmelig Bet.
 </chapter>
 
 <chapter name="Direr">
-<b>Direr</b> (lat. <i>Diræ</i>), d. s. s. <sp>Furier</sp>.</chapter>
+<b>Direr</b> (lat. <i>Diræ</i>), d. s. s. <sp>Furier</sp>.
+</chapter>
 
 <chapter name="Dirhem">
 <b>Dirhem</b> (af <i>Drachme</i>), gl arab. Sølvmønt.
@@ -47,7 +48,8 @@ stemte med Tavler, der lagdes i en Kasse;
 efter endt Stemmeafgivning optaltes derpaa
 Tavlerne af <i>d.</i>, ansete Mænd, der var udtagne
 dertil, under Opsyn af andre (<i>custodes</i>).
-<i>A. B. D</i>.</chapter>
+<i>A. B. D</i>
+</chapter>
 
 <chapter name="Dirichlet, Peter Gustav Lejeune">
 <b>Dirichlet</b> [diri'∫læ], <sp>Peter Gustav
@@ -70,7 +72,8 @@ efter hans Død udgivne af Dedekind (4. Oplag
 1894). Paa Foranledning af Berlin-Akademiet
 har Kronecker samlet hans Værker (2 Bd,
 1890).
-<i>Chr. C</i>.</chapter>
+<i>Chr. C</i>
+</chapter>
 
 <chapter name="Diricksen, Dirk">
 <b>Diricksen</b> (<sp>Diricks</sp>), <sp>Dirk</sp>,
@@ -82,11 +85,13 @@ Marie Eleonore m. v.). I 1630'erne var han
 atter i Hamburg og fortsatte med Portrætstik
 o. a. Kobberstiksamlingen i Kbhvn har af D.
 10 Blade.
-<i>A. Hk</i>.</chapter>
+<i>A. Hk</i>
+</chapter>
 
 <chapter name="Diricksens, J. J.">
 <b>Diricksens</b> ['di.reks<sub>ə</sub>ns], J. J., se
-<sp>Zetternam</sp>.</chapter>
+<sp>Zetternam</sp>.
+</chapter>
 
 <chapter name="Dirigent">
 <b>Dirigent</b>. Ordstyrer paa Forsamlinger,

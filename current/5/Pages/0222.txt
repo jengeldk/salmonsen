@@ -151,7 +151,8 @@ Club des C. pendant la crise de Varennes</i>
 
 <chapter name="Cordella">
 <b>Cordella</b> (<sp>Cordelleaghi</sp>), <sp>A.</sp>, se
-<sp>Previtali</sp>.</chapter>
+<sp>Previtali</sp>.
+</chapter>
 
 <chapter name="Cordes, By i det sydvestlige Frankrig">
 <b>Cordes</b> [kård], By i det sydvestlige Frankrig,

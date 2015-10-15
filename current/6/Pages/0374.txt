@@ -39,7 +39,8 @@ dryppe Vnnd ud af en alm. Medicinflaske faar man
 
 <chapter name="Draabedannelse">
 <b>Draabedannelse</b> (hos Planter), se
-<sp>Guttation</sp>.</chapter>
+<sp>Guttation</sp>.
+</chapter>
 
 <chapter name="Draaber, i Farmacien">
 <b>Draaber</b> kaldes i Farmacien Lægemidler,
@@ -117,10 +118,12 @@ indefter.
 </chapter>
 
 <chapter name="Drab">
-<b>Drab,</b> se <sp>Manddrab</sp> og <sp>Barnemord</sp>.</chapter>
+<b>Drab,</b> se <sp>Manddrab</sp> og <sp>Barnemord</sp>.
+</chapter>
 
 <chapter name="Draba">
-<b>Draba,</b> se <sp>Gæslingeblomst</sp>.</chapter>
+<b>Draba,</b> se <sp>Gæslingeblomst</sp>.
+</chapter>
 
 <chapter name="Drabant">
 <b>Drabant</b> (ital. <i>trabánte</i>) kaldtes i den senere
@@ -135,7 +138,8 @@ organiseret helt opløst 1763.
 </chapter>
 
 <chapter name="Drabant (astron.)">
-<b>Drabant</b> (<sp>astron</sp>.), se <sp>Biplaneter</sp>.</chapter>
+<b>Drabant</b> (<sp>astron</sp>.), se <sp>Biplaneter</sp>.
+</chapter>
 
 <chapter name="Drac">
 <b>Drac</b> [drak], en 125 km lang Flod i det

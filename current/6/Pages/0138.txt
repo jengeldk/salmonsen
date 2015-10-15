@@ -34,7 +34,8 @@ belærende, hvad der har Belæring til Hensigt.
 </chapter>
 
 <chapter name="didaktisk Poesi">
-<b>didaktisk Poesi,</b> se <sp>Læredigt</sp>.</chapter>
+<b>didaktisk Poesi,</b> se <sp>Læredigt</sp>.
+</chapter>
 
 <chapter name="Didaskalia">
 <b>Didaskalia</b> (gr.), i det gamle Athen
@@ -74,7 +75,8 @@ Landskabsbilleder.
 </chapter>
 
 <chapter name="Didelphys">
-<b>Didelphys</b> [-fys], se <sp>Pungrotter</sp>.</chapter>
+<b>Didelphys</b> [-fys], se <sp>Pungrotter</sp>.
+</chapter>
 
 <chapter name="Diderichsen, Beatrice Valborg Angelica">
 <b>Diderichsen,</b> <sp>Beatrice Valborg

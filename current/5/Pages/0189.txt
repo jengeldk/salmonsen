@@ -36,7 +36,8 @@ Sindssygehospitaler med over 10000 Syge.
 </chapter>
 
 <chapter name="con passione">
-<b>con passione,</b> se <sp>con</sp>.</chapter>
+<b>con passione,</b> se <sp>con</sp>.
+</chapter>
 
 <chapter name="Conques">
 <b>Conques</b> [kå.k], Flække i det sydvestlige

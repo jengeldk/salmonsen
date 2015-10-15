@@ -66,7 +66,8 @@ selv om Kommandoen ikke er hejst.
 
 <chapter name="ekvivok">
 <b>ekvivok</b> (fr. <i>équivoque</i>), tvetydig, slibrig,
-uanstændig.</chapter>
+uanstændig.
+</chapter>
 
 <chapter name="Ekwall, 1) Emma Amalia, 2) Knut Alfred">
 <b>Ekwall</b> ['e.kval.], 1) <sp>Emma Amalia</sp>, sv.

@@ -29,7 +29,8 @@ Landflygtighed« sygnede den hen.
 </chapter>
 
 <chapter name="Cosmetica">
-<b>Cosmetica,</b> d. s. s. <sp>kosmetiske Midler</sp>.</chapter>
+<b>Cosmetica,</b> d. s. s. <sp>kosmetiske Midler</sp>.
+</chapter>
 
 <chapter name="Cosmidium Nutt.">
 <b>Cosmidium</b> Nutt., Slægt af Kurvblomstrede
@@ -47,7 +48,8 @@ kold Bænk.
 </chapter>
 
 <chapter name="Cosmonetta">
-<b>Cosmonetta</b> (<sp>Strømand</sp>), se <sp>Ænder</sp>.</chapter>
+<b>Cosmonetta</b> (<sp>Strømand</sp>), se <sp>Ænder</sp>.
+</chapter>
 
 <chapter name="Cosmos Cav.">
 <b>Cosmos</b> Cav., Slægt af Kurvblomstrede

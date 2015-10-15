@@ -34,10 +34,12 @@ og Haandbøger i de forsk. Fabrikationer.
 </chapter>
 
 <chapter name="destillere">
-<b>destillere,</b> se <sp>Destillation</sp>.</chapter>
+<b>destillere,</b> se <sp>Destillation</sp>.
+</chapter>
 
 <chapter name="destilleret Vand">
-<b>destilleret Vand,</b> se <sp>Vand</sp>.</chapter>
+<b>destilleret Vand,</b> se <sp>Vand</sp>.
+</chapter>
 
 <chapter name="Destinatar">
 <b>Destinatar</b> (lat), Adressat, den, for hvem
@@ -48,14 +50,17 @@ er Afsenderens ell. Trediemands Kommissionær.
 </chapter>
 
 <chapter name="Destination">
-<b>Destination,</b> se <sp>destinere</sp>.</chapter>
+<b>Destination,</b> se <sp>destinere</sp>.
+</chapter>
 
 <chapter name="destinere">
 <b>destinere</b> (lat.), bestemme, udse.
-<sp>Destination</sp> (lat.), Bestemmelse, Endemaal.</chapter>
+<sp>Destination</sp> (lat.), Bestemmelse, Endemaal.
+</chapter>
 
 <chapter name="Destinezit">
-<b>Destinezit</b> [-'sit], d. s. s. <sp>Diadochit</sp>.</chapter>
+<b>Destinezit</b> [-'sit], d. s. s. <sp>Diadochit</sp>.
+</chapter>
 
 <chapter name="Destinn, Emmy">
 <b>Destinn</b> ['dæst<sub>e</sub>n], <sp>Emmy</sp>, tysk
@@ -83,17 +88,20 @@ første Arbejde, meget Bifald.
 
 <chapter name="destra">
 <b>destra</b> ['dæstra] (ital., underforstaaet <i>mano</i>)
-(mus.), højre (Haand).</chapter>
+(mus.), højre (Haand).
+</chapter>
 
 <chapter name="Destroyer">
 <b>Destroyer</b> [d<sub>i</sub>'strå^i<sub>ə</sub>] (eng.), se
-<sp>Torpedojager</sp>.</chapter>
+<sp>Torpedojager</sp>.
+</chapter>
 
 <chapter name="destruere">
 <b>destruere</b> (lat.), tilintetgøre, ødelægge,
 nedbryde ; <sp>Destruktion</sp>, Tilintetgørelse,
 Ødelæggelse, Nedbrydning; <sp>déstruktiv</sp>,
-tilintetgørende, ødelæggende, nedbrydende.</chapter>
+tilintetgørende, ødelæggende, nedbrydende.
+</chapter>
 
 <chapter name="Destruktionsanstalt">
 <b>Destruktionsanstalt</b> kaldes et Etablissement,
@@ -123,11 +131,13 @@ Hunde, Fjerkræ, Fisk o. s. v.
 </chapter>
 
 <chapter name="destruktiv">
-<b>destruktiv,</b> se <sp>destruere</sp>.</chapter>
+<b>destruktiv,</b> se <sp>destruere</sp>.
+</chapter>
 
 <chapter name="Destutt de Tracy">
 <b>Destutt de Tracy</b> [dæ'styt-d<sub>ö</sub>-tra'si], se
-<sp>Tracy</sp>. </chapter>
+<sp>Tracy</sp>.
+</chapter>
 
 <chapter name="desuetudo">
 <b>desuetudo</b> [-sve-] (lat.), en Retsnorms
@@ -148,7 +158,8 @@ anden.
 
 <chapter name="desultorisk">
 <b>desultorisk</b> (lat.), egl.: afspringende (se
-<sp>desultores</sp>), deraf; ustadig, vankelmodig.</chapter>
+<sp>desultores</sp>), deraf; ustadig, vankelmodig.
+</chapter>
 
 <chapter name="desunt non pauca">
 <b>desunt non pauca</b> (lat.), »der mangler en

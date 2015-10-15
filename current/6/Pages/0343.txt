@@ -49,7 +49,8 @@ Krigsministerium. Hovedstaden er
 </chapter>
 
 <chapter name="Donske Kosakker">
-<b>Donske Kosakker</b> ['dån'sk<sub>ə</sub>-], se <sp>Kosakker</sp>.</chapter>
+<b>Donske Kosakker</b> ['dån'sk<sub>ə</sub>-], se <sp>Kosakker</sp>.
+</chapter>
 
 <chapter name="Dont, Jacob">
 <b>Dont</b> [dånt], <sp>Jacob</sp>, østerr. Violinspiller
@@ -67,15 +68,18 @@ Udbredelse.
 
 <chapter name="donum">
 <b>donum,</b> Plur. <i>dona</i> (lat.), Gave,
-Naturanlæg.</chapter>
+Naturanlæg.
+</chapter>
 
 <chapter name="Doompalme">
-<b>Doompalme</b> ['du.m-], se <sp>Hyphæne</sp>.</chapter>
+<b>Doompalme</b> ['du.m-], se <sp>Hyphæne</sp>.
+</chapter>
 
 <chapter name="Doon">
 <b>Doon</b> [du.n], lille Flod i det skotske
 Grevskab Ayr, udmunder 4 km S. f. Ayr i Forth of
-Clyde. D. er blevet berømt ved Burn's Digte.</chapter>
+Clyde. D. er blevet berømt ved Burn's Digte.
+</chapter>
 
 <chapter name="Doon de Mayence">
 <b>Doon de Mayence</b> [då'å-d-ma'jã.s],
@@ -126,7 +130,8 @@ nyoprettede Konservatorium.
 </chapter>
 
 <chapter name="Doornick">
-<b>Doornick</b> ['do.rnek], se <sp>Tournai</sp>.</chapter>
+<b>Doornick</b> ['do.rnek], se <sp>Tournai</sp>.
+</chapter>
 
 <chapter name="Doppelmayr, Johann Gabriel">
 <b>Doppelmayr</b> ['dåp<sub>ə</sub>lmajr], <sp>Johann Gabriel</sp>
@@ -139,7 +144,8 @@ coelestis</i> (1742).
 
 <chapter name="Doppia">
 <b>Doppia</b> ['dop.<sub>i</sub>a], tidligere ital. Guldmønt af
-forsk. Værdi. Paa Sardinien = 20 frc.</chapter>
+forsk. Værdi. Paa Sardinien = 20 frc.
+</chapter>
 
 <chapter name="doppio">
 <b>doppio</b> ['dop.<sub>i</sub>o] (ital.), dobbelt, forekommer

@@ -38,7 +38,8 @@ nordvestlige.
 </chapter>
 
 <chapter name="Dalbyelven">
-<b>Dalbyelven,</b> se <sp>Klarelven</sp>.</chapter>
+<b>Dalbyelven,</b> se <sp>Klarelven</sp>.
+</chapter>
 
 <chapter name="Dalcroze, Emile Jaques">
 <b>Dalcroze</b> [dal'kro.z], <sp>Émile Jaques</sp>, f.

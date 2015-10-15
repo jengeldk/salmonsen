@@ -53,7 +53,8 @@ var G. de Crayer's Lærer.
 </chapter>
 
 <chapter name="Coxitis">
-<b>Coxitis,</b> Hoftebetændelse.</chapter>
+<b>Coxitis,</b> Hoftebetændelse.
+</chapter>
 
 <chapter name="Coyet, sv. Slægt fra Brabant">
 <b>Coyet</b> [kå'jæt], sv. Slægt fra Brabant, adlet

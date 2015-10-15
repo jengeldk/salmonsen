@@ -19,7 +19,8 @@ Sprængning, Ruptur.
 
 <chapter name="dilacererede Saar">
 <b>dilacererede Saar,</b> d. s. s. sønderrevne
-Saar (se <sp>Saar</sp>)',</chapter>
+Saar (se <sp>Saar</sp>).
+</chapter>
 
 <chapter name="Dilatation">
 <b>Dilatation</b> (lat.), Udvidning, kaldes 1) i
@@ -111,7 +112,8 @@ Næsen, syn. <sp>Bougie</sp>.
 </chapter>
 
 <chapter name="Dilation">
-<b>Dilation</b> (lat.), Udsættelse, Henstand, Frist.</chapter>
+<b>Dilation</b> (lat.), Udsættelse, Henstand, Frist.
+</chapter>
 
 <chapter name="Dilatometer">
 <b>Dilatometer,</b> Apparat til Maaling af Vædskers
@@ -122,7 +124,8 @@ D.</sp>, se <sp>Alkoholometri</sp>.
 
 <chapter name="dilatorisk">
 <b>dilatorisk</b> (lat.), opsættende, forhalende,
-trækkende i Langdrag.</chapter>
+trækkende i Langdrag.
+</chapter>
 
 <chapter name="Dild">
 <b>Dild,</b> norsk <sp>Dill</sp> (<i>Anethum</i> L.), Slægt af

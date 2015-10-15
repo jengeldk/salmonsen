@@ -60,11 +60,13 @@ under en civil Proces.
 </chapter>
 
 <chapter name="Edition">
-<b>Edition</b> (lat.), Udgave (af en Bog).</chapter>
+<b>Edition</b> (lat.), Udgave (af en Bog).
+</chapter>
 
 <chapter name="editor">
 <b>editor</b> (lat.), Udgiver. I Oldtidens Rom den,
-der foranstaltede de offentlige Lege.</chapter>
+der foranstaltede de offentlige Lege.
+</chapter>
 
 <chapter name="editorial-article">
 <b>editorial-article</b> [ed<sub>i</sub>'tå.rj<sub>ə</sub>£-'a.<sub>ə</sub>tik£] eller i

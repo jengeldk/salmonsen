@@ -15,7 +15,8 @@ han vil deltage i Arven, se <sp>Arveforskud</sp>.
 <chapter name="collé">
 <b>collé</b> [kå'le] (fr.), »tillimet«, liggende tæt ved,
 benyttes navnlig om en Billardbal, der ligger
-pres; deraf C.-Stød, et Stød bort fra Banden.</chapter>
+pres; deraf C.-Stød, et Stød bort fra Banden.
+</chapter>
 
 <chapter name="Collé, Charles">
 <b>Collé</b> [kå'le], <sp>Charles</sp>, fr. Digter (1709-
@@ -70,7 +71,8 @@ se <sp>Kollekt</sp>.
 
 <chapter name="Collectanea">
 <b>Collectanea</b> (lat.), »Læsefrugter«, Samlinger
-af Uddrag af Forfatteres Skrifter.</chapter>
+af Uddrag af Forfatteres Skrifter.
+</chapter>
 
 <chapter name="Colle di Val d'Elsa">
 <b>Colle di Val d'Elsa,</b> By i Mellemitalien,

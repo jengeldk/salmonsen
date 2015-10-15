@@ -4,11 +4,13 @@ médaillons contorniates</i> [Paris 1860]).
 </chapter>
 
 <chapter name="Contortæ">
-<b>Contortæ,</b> se <sp>Snokronede</sp>.</chapter>
+<b>Contortæ,</b> se <sp>Snokronede</sp>.
+</chapter>
 
 <chapter name="contra bonos mores">
 <b>contra bonos mores</b> (lat.), stridende mod
-gode Sæder.</chapter>
+gode Sæder.
+</chapter>
 
 <chapter name="Contractio venæ">
 <b>Contractio venæ</b> (lat.), Straalens (»Aarens«)
@@ -19,7 +21,8 @@ Udstrømningsaabningen. Se <sp>Hydrodynamik</sp>.
 </chapter>
 
 <chapter name="contractus">
-<b>contractus,</b> se <sp>Kontrakt</sp>.</chapter>
+<b>contractus,</b> se <sp>Kontrakt</sp>.
+</chapter>
 
 <chapter name="contradictio in adjecto">
 <b>contradictio in adjecto,</b> Modsigelse i
@@ -31,10 +34,12 @@ Substantivets Begreb, f. Eks. en firkantet Cirkel.
 </chapter>
 
 <chapter name="contra legem">
-<b>contra legem</b> (lat.), stridende mod Loven.</chapter>
+<b>contra legem</b> (lat.), stridende mod Loven.
+</chapter>
 
 <chapter name="contr'alto">
-<b>contr'alto,</b> se <sp>Alt</sp>.</chapter>
+<b>contr'alto,</b> se <sp>Alt</sp>.
+</chapter>
 
 <chapter name="contra principia negantem disputari non potest">
 <b>contra principia negantem disputari non
@@ -78,7 +83,8 @@ gældende.
 
 <chapter name="contra sextum">
 <b>contra sextum</b> (lat.) (underforstaaet
-<i>præcéptum</i> ɔ: Bud), mod det 6. Bud.</chapter>
+<i>præcéptum</i> ɔ: Bud), mod det 6. Bud.
+</chapter>
 
 <chapter name="Contrasto">
 <b>Contrasto</b> (ital.). lyrisk Digt ell. Vekselsang
@@ -94,16 +100,19 @@ e Madonna</i>.
 <chapter name="contrat à la grosse">
 <b>contrat à la grosse</b> [kå'trat-a-la'gro-s] (ell.
 <i>prêt à la grosse</i> ell. <i>prêt à la grosse aventure</i>),
-Bodmeri (s. d.).</chapter>
+Bodmeri (s. d.).
+</chapter>
 
 <chapter name="contra vim non valet jus">
 <b>contra vim non valet jus</b> (lat.), »Over
 for Magten gælder Retten ikke«; »Magt gaar
-for Ret«.</chapter>
+for Ret«.
+</chapter>
 
 <chapter name="contre">
 <b>contre</b> [kå.tr] (fr.), »imod«, bliver ofte an-
-vendt i Sammensætninger; smlg. <sp>Kontre</sp>...</chapter>
+vendt i Sammensætninger; smlg. <sp>Kontre</sp>...
+</chapter>
 
 <chapter name="contrectatio">
 <b>contrectatio</b> (lat.), i Romerretten Fravendelse
@@ -114,18 +123,22 @@ Brug ell. paa anden Maade).
 
 <chapter name="contre-escarpe">
 <b>contre-escarpe</b> [kåtr-æ'skarp], se
-<sp>Kontreskarpe</sp>.</chapter>
+<sp>Kontreskarpe</sp>.
+</chapter>
 
 <chapter name="contrefort">
 <b>contrefort</b> [kåtr<sub>ö</sub>'få.r] (fr.), Stræbepille,
-særlig i gotisk Arkitektur.</chapter>
+særlig i gotisk Arkitektur.
+</chapter>
 
 <chapter name="contre-garde">
 <b>contre-garde</b> [kåtr<sub>ö</sub>-'gard], se
-<sp>Kontregarde</sp>.</chapter>
+<sp>Kontregarde</sp>.
+</chapter>
 
 <chapter name="contre-pente">
-<b>contre-pente</b> [kåtr<sub>ö</sub>-'pã.t], se <sp>Glacis</sp>.</chapter>
+<b>contre-pente</b> [kåtr<sub>ö</sub>-'pã.t], se <sp>Glacis</sp>.
+</chapter>
 
 <chapter name="Contreras, Juan">
 <b>Contreras</b> [kån'træras], <sp>Juan</sp>, sp. Marskal,

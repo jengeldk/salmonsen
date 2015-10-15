@@ -10,7 +10,8 @@ som Modgift ved Strykninforgiftning.
 </chapter>
 
 <chapter name="Curasso">
-<b>Curasso,</b> se <sp>Curaçao</sp>.</chapter>
+<b>Curasso,</b> se <sp>Curaçao</sp>.
+</chapter>
 
 <chapter name="Curatella L.">
 <b>Curatella</b> [-'tæl.a] L., Slægt af Dilleniaceer,
@@ -83,7 +84,8 @@ kort før sin Død atter optaget i Jesuiterordenen.
 </chapter>
 
 <chapter name="Curculionidæ">
-<b>Curculionidæ,</b> se <sp>Snudebiller</sp>.</chapter>
+<b>Curculionidæ,</b> se <sp>Snudebiller</sp>.
+</chapter>
 
 <chapter name="Curcuma L.">
 <b>Curcuma</b> L., Slægt af Krydderurterne, Urter
@@ -127,11 +129,13 @@ Roxb. og <i>C. leucorrhiza</i> Roxb. (Ostindien).
 </chapter>
 
 <chapter name="curé">
-<b>curé</b> [ky're], se <sp>curatus</sp>.</chapter>
+<b>curé</b> [ky're], se <sp>curatus</sp>.
+</chapter>
 
 <chapter name="curée">
 <b>curée</b> [ky're], i Jagtsproget Støvernes Part
-af det jagede Vildt.</chapter>
+af det jagede Vildt.
+</chapter>
 
 <chapter name="Curel, François de">
 <b>Curel</b> [ky'ræl], <sp>François de</sp>, fr. Forf.,

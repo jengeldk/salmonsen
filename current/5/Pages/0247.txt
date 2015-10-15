@@ -9,7 +9,8 @@ Marino</i> (1881), <i>Storia d'Italia nel medio evo</i>
 </chapter>
 
 <chapter name="Corral">
-<b>Corral</b> [kå'ral], se <sp>Valdivia</sp>.</chapter>
+<b>Corral</b> [kå'ral], se <sp>Valdivia</sp>.
+</chapter>
 
 <chapter name="Corrales">
 <b>Corrales</b> [kå'r.al<sub>æ</sub>s] (sp.), egl. Gaarde, var

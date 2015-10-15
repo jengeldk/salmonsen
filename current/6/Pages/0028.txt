@@ -45,13 +45,16 @@ hørende Aflejringer.
 </chapter>
 
 <chapter name="Dentalium">
-<b>Dentalium,</b> se <sp>Søtænder</sp>.</chapter>
+<b>Dentalium,</b> se <sp>Søtænder</sp>.
+</chapter>
 
 <chapter name="Dentaria">
-<b>Dentaria,</b> se <sp>Tandrod</sp>.</chapter>
+<b>Dentaria,</b> se <sp>Tandrod</sp>.
+</chapter>
 
 <chapter name="Dentatus">
-<b>Dentatus,</b> se <sp>Curius D</sp>.</chapter>
+<b>Dentatus,</b> se <sp>Curius D</sp>.
+</chapter>
 
 <chapter name="Dent Blanche">
 <b>Dent Blanche</b> ['dã-'blã.∫],
@@ -65,7 +68,8 @@ Englænderne Kennedy og Wigram.
 
 <chapter name="Dent de Morcles">
 <b>Dent de Morcles</b> ['dã-d-'mårkl<sub>ö</sub>], se <sp>Dents
-du Midi</sp>.</chapter>
+du Midi</sp>.
+</chapter>
 
 <chapter name="Dente, Joseph Gottlieb">
 <b>Dente</b> ['dænt<sub>ə</sub>], <sp>Joseph Gottlieb</sp>, sv.
@@ -102,10 +106,12 @@ Blade, opbevarede sammen med Marc-Anton's.
 
 <chapter name="dentelles">
 <b>dentelles</b> [dã'tæl] (fr.), egl. smaa Tænder;
-Kniplinger.</chapter>
+Kniplinger.
+</chapter>
 
 <chapter name="denticuli">
-<b>denticuli</b> (lat.), Tandsnit i Gesimser.</chapter>
+<b>denticuli</b> (lat.), Tandsnit i Gesimser.
+</chapter>
 
 <chapter name="Dentilabialer">
 <b>Dentilabialer</b> ell. <sp>Tandlæbelyd</sp>, bedre

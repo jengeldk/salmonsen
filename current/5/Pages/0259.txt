@@ -13,10 +13,12 @@ før dennes Udløb i Bugten ved Tarento.
 
 <chapter name="Cos-d'Estournel">
 <b>Cos-d'Estournel</b> [-d-ætur'næl], se
-<sp>Bordeauxvine</sp>.</chapter>
+<sp>Bordeauxvine</sp>.
+</chapter>
 
 <chapter name="Cosecans">
-<b>Cosecans,</b> se <sp>Trigonometri</sp>.</chapter>
+<b>Cosecans,</b> se <sp>Trigonometri</sp>.
+</chapter>
 
 <chapter name="Coseguina">
 <b>Coseguina</b> [kåsæ'gina], Vulkan i
@@ -154,23 +156,29 @@ C. har Jern- og Staalværker samt Papirfabrikker.
 <b>cosi fan tutte</b> (ital.), »saaledes gør alle
 (Kvinder)«, Titel paa en Opera af Mozart (Tekst
 af Daponte) og derfra gaaet over til at anvendes
-som Ordsprog.</chapter>
+som Ordsprog.
+</chapter>
 
 <chapter name="Cosimo, ital. Maler">
-<b>Cosimo,</b> ital. Maler, se <sp>Piero di C.</sp></chapter>
+<b>Cosimo,</b> ital. Maler, se <sp>Piero di C.</sp>
+</chapter>
 
 <chapter name="Cosimo di Medici">
-<b>Cosimo di Medici</b> [-medit∫i], se <sp>Medici</sp>.</chapter>
+<b>Cosimo di Medici</b> [-medit∫i], se <sp>Medici</sp>.
+</chapter>
 
 <chapter name="Cosini, Silvio, da Fiesole">
 <b>Cosini,</b> <sp>Silvio, da Fiesole</sp>, ital.
-Billedhugger, se <sp>Fiesole, S.</sp></chapter>
+Billedhugger, se <sp>Fiesole, S.</sp>
+</chapter>
 
 <chapter name="Cosinus">
-<b>Cosinus,</b> se <sp>Trigonometri</sp>.</chapter>
+<b>Cosinus,</b> se <sp>Trigonometri</sp>.
+</chapter>
 
 <chapter name="Cosmarium">
-<b>Cosmarium,</b> se <sp>Alger</sp> (Grønalger).</chapter>
+<b>Cosmarium,</b> se <sp>Alger</sp> (Grønalger).
+</chapter>
 
 <chapter name="Cosmaterne">
 <b>Cosmaterne,</b> en rom. Kunstner- og

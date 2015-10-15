@@ -19,7 +19,8 @@ Lemonnier</sp>, <i>C. et son æuvre</i>; <sp>d'Ideville</sp>, »G. C.«
 </chapter>
 
 <chapter name="courbette">
-<b>courbette</b> [kur'bæt], se <sp>Skoleridning</sp>.</chapter>
+<b>courbette</b> [kur'bæt], se <sp>Skoleridning</sp>.
+</chapter>
 
 <chapter name="Courbevoie">
 <b>Courbevoie</b> [kurb<sub>ö</sub>'vwa], By i det
@@ -122,7 +123,8 @@ Liberalisme.
 
 <chapter name="Cour d'amour">
 <b>Cour d'amour</b> ['ku.r-d-a'mu.r], se
-<sp>Elskovshof</sp>.</chapter>
+<sp>Elskovshof</sp>.
+</chapter>
 
 <chapter name="Courier, Paul Louis">
 <b>Courier</b> [ku'r<sub>i</sub>e], <sp>Paul Louis</sp>, fr. Skribent,

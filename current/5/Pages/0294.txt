@@ -52,7 +52,8 @@ Sarmaner eller Garmaner (jfr <sp>Buddha</sp> og
 </chapter>
 
 <chapter name="Crambe">
-<b>Crambe,</b> se <sp>Strandkaal</sp>.</chapter>
+<b>Crambe,</b> se <sp>Strandkaal</sp>.
+</chapter>
 
 <chapter name="crambe repetita">
 <b>crambe repetita</b> (lat.), »opvarmet Kaal«;

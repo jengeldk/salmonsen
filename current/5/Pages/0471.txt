@@ -16,10 +16,12 @@ er af hottentottisk Oprindelse, selv kalder de sig
 
 <chapter name="Damarastamme">
 <b>Damarastamme</b> ['da.-?] (<sp>Damaraer</sp>), se
-<sp>Damaraland</sp>.</chapter>
+<sp>Damaraland</sp>.
+</chapter>
 
 <chapter name="Damarharpiks">
-<b>Damarharpiks,</b> se <sp>Dammaraharpiks</sp>.</chapter>
+<b>Damarharpiks,</b> se <sp>Dammaraharpiks</sp>.
+</chapter>
 
 <chapter name="Damas, Ange Hyacinthe Maxence">
 <b>Damas</b> [da'mas], <sp>Ange Hyacinthe
@@ -48,7 +50,8 @@ bosatte sig paa sit Landgods.
 
 <chapter name="Damascenerblomme">
 <b>Damascenerblomme</b> [-'se'-], se
-<sp>Chrysophyllum</sp>.</chapter>
+<sp>Chrysophyllum</sp>.
+</chapter>
 
 <chapter name="Damascenerklinge">
 <b>Damascenerklinge</b> [-'se'-], Klinge fremstillet
@@ -121,7 +124,8 @@ kunstigt D.
 
 <chapter name="Damascenus, Joh.">
 <b>Damascenus</b> [-'se'-], <sp>Joh.</sp>, se <sp>Johannes
-fra Damaskus</sp>.</chapter>
+fra Damaskus</sp>.
+</chapter>
 
 <chapter name="damasceret">
 <b>damasceret</b> [-'se'-] benævnes i Heraldikken

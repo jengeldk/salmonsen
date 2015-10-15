@@ -49,7 +49,8 @@ skal virke som Guld; Maleri brunt i brunt.
 
 <chapter name="circa">
 <b>circa</b> (lat.), om, omkring, i Reglen forkortet
-<i>c.</i> ell. <i>ca.</i>, omtrent, henved.</chapter>
+<i>c.</i> ell. <i>ca.</i>, omtrent, henved.
+</chapter>
 
 <chapter name="Circars">
 <b>Circars</b> [ell. -'kars] (af <sp>Sarkar</sp> »Regering«),
@@ -78,10 +79,12 @@ Sommerfrakker, Overstykker o. l.
 </chapter>
 
 <chapter name="Circe">
-<b>Circe,</b> se <sp>Kirke</sp>.</chapter>
+<b>Circe,</b> se <sp>Kirke</sp>.
+</chapter>
 
 <chapter name="circenses">
-<b>circenses,</b> Lege i <sp>Circus</sp> (s. d.).</chapter>
+<b>circenses,</b> Lege i <sp>Circus</sp> (s. d.).
+</chapter>
 
 <chapter name="Circeo">
 <b>Circeo</b> [t∫ir't∫æo], <sp>Promontório C.</sp>, <sp>Mónte
@@ -109,7 +112,8 @@ nær ved c.).
 </chapter>
 
 <chapter name="Circinus">
-<b>Circinus</b> (lat.), se <sp>Passeren</sp>.</chapter>
+<b>Circinus</b> (lat.), se <sp>Passeren</sp>.
+</chapter>
 
 <chapter name="Circle City">
 <b>Circle City</b> ['sə.k<sub>ə</sub>£-'sit<sub>i</sub>], Guldgraverby i det
@@ -134,7 +138,8 @@ Jernbanecentrum og driver livlig Kornhandel.
 <chapter name="circondario">
 <b>circondario</b> [t∫irkon'dar<sub>i</sub>o] (ital.),
 administrativ Inddeling i Italien, svarende til fransk
-<i>arrondissement</i>, Underafdeling af <i>provincia</i>.</chapter>
+<i>arrondissement</i>, Underafdeling af <i>provincia</i>.
+</chapter>
 
 <chapter name="circuit">
 <b>circuit</b> ['sək<sub>i</sub>t] (lat. <i>circúitus</i>) bruges i det

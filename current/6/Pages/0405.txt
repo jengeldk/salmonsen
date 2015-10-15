@@ -57,7 +57,8 @@ hos Stationerne.
 </chapter>
 
 <chapter name="Draisine, se Cykel">
-<b>Draisine</b> [dræ'si.n<sub>ə</sub>], se <sp>Cykel</sp>, S. 365.</chapter>
+<b>Draisine</b> [dræ'si.n<sub>ə</sub>], se <sp>Cykel</sp>, S. 365.
+</chapter>
 
 <chapter name="Drake, Sir Francis">
 <b>Drake</b> [dre<sub>i</sub>k], <sp>Sir Francis</sp>, eng.

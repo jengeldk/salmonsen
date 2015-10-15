@@ -79,7 +79,8 @@ revideret af C. selv, udkom i Leipzig 1862-76 i
 
 <chapter name="Czakan">
 <b>Czakan</b> ['t∫akan], forældet bøhmisk
-Træblæseinstrument, en Art Stokfløjte.</chapter>
+Træblæseinstrument, en Art Stokfløjte.
+</chapter>
 
 <chapter name="Czákó">
 <b>Czákó</b> (<sp>Chakot</sp>) [ung. -'t∫a.ko., da. sja'ko'],
@@ -125,7 +126,8 @@ optoges for en Tid i det genoprettede.
 </chapter>
 
 <chapter name="Czar, Czarevitsch, Czarevna">
-<b>Czar, Czarevitsch, Czarevna,</b> se <sp>Tsar</sp> o. s. v.</chapter>
+<b>Czar, Czarevitsch, Czarevna,</b> se <sp>Tsar</sp> o. s. v.
+</chapter>
 
 <chapter name="Czarniecki, Stephan">
 <b>Czarniecki</b> [t∫arni'ætsk<sub>j</sub>i], <sp>Stephan</sp>, polsk

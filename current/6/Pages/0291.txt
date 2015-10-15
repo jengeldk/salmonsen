@@ -83,18 +83,21 @@ praktisk Standpunkt.
 </chapter>
 
 <chapter name="Dogmatiker">
-<b>Dogmatiker,</b> se <sp>Dogmatik</sp>.</chapter>
+<b>Dogmatiker,</b> se <sp>Dogmatik</sp>.
+</chapter>
 
 <chapter name="dogmatisere">
 <b>dogmatisere,</b> fremsætte Dogmer, gøre en
 Anskuelse til en Trossætning, fastslaa i
-tvivlsomme Tilfælde.</chapter>
+tvivlsomme Tilfælde.
+</chapter>
 
 <chapter name="dogmatisk">
 <b>dogmatisk,</b> i Overensstemmelse med de
 kristelige Dogmer, fastholdende visse
 Paastande uden Hensyn til de virkelige Forhold,
-selvsikker.</chapter>
+selvsikker.
+</chapter>
 
 <chapter name="Dogmatisme (filos.)">
 <b>Dogmatisme</b> (<sp>filos</sp>.) er efter <sp>Kants</sp>

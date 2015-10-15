@@ -41,12 +41,14 @@ Patronerne paa een Gang.
 </chapter>
 
 <chapter name="elektrisk Arbejde">
-<b>elektrisk Arbejde,</b> se <sp>Arbejde 2</sp>).</chapter>
+<b>elektrisk Arbejde,</b> se <sp>Arbejde 2</sp>).
+</chapter>
 
 <chapter name="elektrisk Armatur">
 <b>elektrisk Armatur,</b> se <sp>elektriske
 Installationer</sp> og
-<sp>Installationsmateriel</sp>.</chapter>
+<sp>Installationsmateriel</sp>.
+</chapter>
 
 <chapter name="elektrisk Baad">
 <b>elektrisk Baad,</b> en Baad, som drives ved
@@ -79,7 +81,8 @@ af Gods.
 
 <chapter name="elektrisk Bad">
 <b>elektrisk Bad,</b> se <sp>Bad</sp> og
-<sp>Elektroterapi</sp>.</chapter>
+<sp>Elektroterapi</sp>.
+</chapter>
 
 <chapter name="elektrisk Bagslag">
 <b>elektrisk Bagslag.</b> Naar en Leder, der er
@@ -119,11 +122,13 @@ Varmevirkninger, giver stærkere Stød o. s. v.
 
 <chapter name="elektrisk Belysning">
 <b>elektrisk Belysning,</b> se <sp>elektrisk Lys</sp>
-og <sp>indirekte Belysning</sp>.</chapter>
+og <sp>indirekte Belysning</sp>.
+</chapter>
 
 <chapter name="elektrisk Centralstation">
 <b>elektrisk Centralstation,</b> se <sp>elektriske
-Kraftstationer</sp>.</chapter>
+Kraftstationer</sp>.
+</chapter>
 
 <chapter name="elektrisk Drage">
 <b>elektrisk Drage,</b> en Drage, bestemt til
@@ -148,7 +153,8 @@ til at hoppe op og ned. Smlg. Kugledans under
 
 <chapter name="elektriske Akkumulatorer">
 <b>elektriske Akkumulatorer,</b> se
-<sp>Akkumulatorer</sp>.</chapter>
+<sp>Akkumulatorer</sp>.
+</chapter>
 
 <chapter name="elektriske Anlæg">
 <b>elektriske Anlæg,</b> se <sp>elektriske
@@ -157,7 +163,8 @@ Understationer</sp>, <sp>elektriske Ledningsnet</sp>,
 <sp>elektriske Fordelingssystemer</sp>,
 <sp>elektriske Installationer</sp>,
 <sp>elektriske Sporveje</sp> og <sp>elektriske
-Jernbaner</sp>.</chapter>
+Jernbaner</sp>.
+</chapter>
 
 <chapter name="elektriske Billeder">
 <b>elektriske Billeder</b> er visse tænkte

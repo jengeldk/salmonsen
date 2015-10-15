@@ -75,7 +75,8 @@ Stemmebaand og saaledes deler dette i to Dele (smlg.
 </chapter>
 
 <chapter name="difycerk">
-<b>difycerk,</b> se <sp>Fisk</sp>.</chapter>
+<b>difycerk,</b> se <sp>Fisk</sp>.
+</chapter>
 
 <chapter name="difyodonte">
 <b>difyodonte</b> kaldes de Pattedyr, hos hvilke
@@ -90,14 +91,17 @@ kaldes Pattedyr uden Tandskifte
 </chapter>
 
 <chapter name="Digallussyre">
-<b>Digallussyre,</b> d. s. s. <sp>Garvesyre</sp>.</chapter>
+<b>Digallussyre,</b> d. s. s. <sp>Garvesyre</sp>.
+</chapter>
 
 <chapter name="Digambara">
-<b>Digambara,</b> se <sp>Jaina</sp>.</chapter>
+<b>Digambara,</b> se <sp>Jaina</sp>.
+</chapter>
 
 <chapter name="Digami">
 <b>Digami</b> (gr.), det andet Ægteskab, ogsaa d.
-s. s. <sp>Bigami</sp>.</chapter>
+s. s. <sp>Bigami</sp>.
+</chapter>
 
 <chapter name="Digamma">
 <b>Digamma</b> (»Dobbeltgamma«) kaldtes efter

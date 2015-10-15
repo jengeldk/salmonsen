@@ -69,7 +69,8 @@ Psychiatrie«, spez. Teil, 5. Abt. [Leipzig und Wien 1912];
 
 <chapter name="Dementia paretica">
 <b>Dementia paretica,</b> se <sp>Dementia
-paralytica</sp>.</chapter>
+paralytica</sp>.
+</chapter>
 
 <chapter name="Dementia præcox">
 <b>Dementia præcox</b> er Navnet paa en af de

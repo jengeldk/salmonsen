@@ -47,7 +47,8 @@ Alexandria = 542 l, i Kairo = 358 l, i Rosette =
 </chapter>
 
 <chapter name="Daricus">
-<b>Daricus,</b> d. s. s. <sp>Dareik</sp>.</chapter>
+<b>Daricus,</b> d. s. s. <sp>Dareik</sp>.
+</chapter>
 
 <chapter name="Dariel">
 <b>Dariel</b> [dar.'jal<sub>j</sub>], <sp>Darjal</sp>, russisk <sp>Gora
@@ -122,13 +123,16 @@ Biografi, besørgedes af A. González-Blanco
 </chapter>
 
 <chapter name="Darius">
-<b>Darius,</b> lat. Form for <sp>Dareios</sp>.</chapter>
+<b>Darius,</b> lat. Form for <sp>Dareios</sp>.
+</chapter>
 
 <chapter name="Darja">
-<b>Darja</b> (pers.), Sø, Flod, Strøm.</chapter>
+<b>Darja</b> (pers.), Sø, Flod, Strøm.
+</chapter>
 
 <chapter name="Darjal">
-<b>Darjal,</b> se <sp>Dariel</sp>.</chapter>
+<b>Darjal,</b> se <sp>Dariel</sp>.
+</chapter>
 
 <chapter name="Darjiling">
 <b>Darjiling</b> (eng. <sp>Darjeeling</sp>) af tibetansk
@@ -161,7 +165,8 @@ Anlæggelsen af et milit. Sanatorium.
 <chapter name="Darlaston">
 <b>Darlaston</b> ['da.<sub>ə</sub>£äst<sub>ə</sub>n], By i Mellemengland,
 Staffordshire, nær ved Wednesbury, har
-Kulgruber og Jernværker. (1911) 17107 Indb.</chapter>
+Kulgruber og Jernværker. (1911) 17107 Indb.
+</chapter>
 
 <chapter name="Darley">
 <b>Darley</b> ['da.<sub>ə</sub>£<sub>i</sub>], <sp>Felix Octavius Carr</sp>,

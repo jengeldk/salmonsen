@@ -33,12 +33,14 @@ Kurgæster. Vandet forsendes ogsaa.
 </chapter>
 
 <chapter name="contritio">
-<b>contritio</b> (lat.), se <sp>Bod</sp>.</chapter>
+<b>contritio</b> (lat.), se <sp>Bod</sp>.
+</chapter>
 
 <chapter name="Contrôleur general des finances">
 <b>Contrôleur general des finances</b> [kåtro
 'lö.r-зene'ral-dæ-fi'nã.s], se
-<sp>Generalkontrolør</sp>.</chapter>
+<sp>Generalkontrolør</sp>.
+</chapter>
 
 <chapter name="contubèrnium">
 <b>contubèrnium</b> (lat.), egl. Teltkammeratskab
@@ -53,7 +55,8 @@ af Slavinder, blev Slaver og Herrens Ejendom.
 </chapter>
 
 <chapter name="Contucci, A.">
-<b>Contucci</b> [kân'tut.∫i], <sp>A.</sp>, se <sp>Sansovino</sp>.</chapter>
+<b>Contucci</b> [kân'tut.∫i], <sp>A.</sp>, se <sp>Sansovino</sp>.
+</chapter>
 
 <chapter name="contumacia">
 <b>contumacia,</b> Trods, Genstridighed, Ulydighed
@@ -119,7 +122,8 @@ Helbredelsen af C.
 </chapter>
 
 <chapter name="contusus">
-<b>contusus</b> (lat.), paa Recepter: knust.</chapter>
+<b>contusus</b> (lat.), paa Recepter: knust.
+</chapter>
 
 <chapter name="Conularia">
 <b>Conularia,</b> en uddød Dyreslægt, hvis Krop
@@ -136,13 +140,16 @@ beslægtet med Vingesneglene.
 
 <chapter name="Conurinæ, Conurus">
 <b>Conurinæ, Conurus</b> (<sp>Kilehaler</sp>), se
-<sp>Papegøjer</sp>.</chapter>
+<sp>Papegøjer</sp>.
+</chapter>
 
 <chapter name="Conus">
-<b>Conus,</b> se <sp>Keglesnegl</sp>.</chapter>
+<b>Conus,</b> se <sp>Keglesnegl</sp>.
+</chapter>
 
 <chapter name="Conus arteriosus">
-<b>Conus arteriosus,</b> se <sp>Fisk</sp> (Hjertet).</chapter>
+<b>Conus arteriosus,</b> se <sp>Fisk</sp> (Hjertet).
+</chapter>
 
 <chapter name="Convallamarin">
 <b>Convallamarin,</b> C<sub>23</sub>H<sub>44</sub>O<sub>12</sub>, er et Glykosid,

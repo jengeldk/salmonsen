@@ -1,16 +1,20 @@
 <chapter name="Diffamation">
-<b>Diffamation,</b> se <sp>Ærefornærmelser</sp>.</chapter>
+<b>Diffamation,</b> se <sp>Ærefornærmelser</sp>.
+</chapter>
 
 <chapter name="diffareatio">
-<b>diffareatio,</b> se <sp>divortium</sp>.</chapter>
+<b>diffareatio,</b> se <sp>divortium</sp>.
+</chapter>
 
 <chapter name="Differdinger-Profiler">
 <b>Differdinger-Profiler,</b> se
-<sp>Dobbelt-T-Jern</sp>.</chapter>
+<sp>Dobbelt-T-Jern</sp>.
+</chapter>
 
 <chapter name="Difference">
 <b>Difference</b> [-'raissa] (fr.) ell. Differens
-(lat.). Forskel, Meningsforskel.</chapter>
+(lat.). Forskel, Meningsforskel.
+</chapter>
 
 <chapter name="Differenceforretning">
 <b>Differenceforretning</b> [-raŋs<sub>ə</sub>-], en
@@ -89,7 +93,8 @@ giver det andet.
 
 <chapter name="Differensforretning">
 <b>Differensforretning,</b> d. s. s.
-<sp>Differenceforretning</sp>.</chapter>
+<sp>Differenceforretning</sp>.
+</chapter>
 
 <chapter name="Differensregning">
 <b>Differensregning</b> er et Afsnit af den rene

@@ -94,14 +94,17 @@ med Herkules Støtter = pilaar daalder.
 </chapter>
 
 <chapter name="Daareanstalt">
-<b>Daareanstalt</b> (<sp>Daarekiste</sp>), se <sp>Sindssygehospitaler</sp>.</chapter>
+<b>Daareanstalt</b> (<sp>Daarekiste</sp>), se <sp>Sindssygehospitaler</sp>.
+</chapter>
 
 <chapter name="Daasebarometer">
 <b>Daasebarometer,</b> et Barometer, hvis Kviksølvbeholder
-har Daaseform.</chapter>
+har Daaseform.
+</chapter>
 
 <chapter name="Daaselibelle">
-<b>Daaselibelle,</b> se <sp>Libelle</sp>.</chapter>
+<b>Daaselibelle,</b> se <sp>Libelle</sp>.
+</chapter>
 
 <chapter name="Daaseskildpadder">
 <b>Daaseskildpadder</b> benævnes de Skildpadder,

@@ -60,11 +60,13 @@ Indb., Klædevæveri, Jernstøberi og Ølbryggeri.
 </chapter>
 
 <chapter name="Drammm">
-<b>Drammm,</b> se <sp>Dirhem</sp>.</chapter>
+<b>Drammm,</b> se <sp>Dirhem</sp>.
+</chapter>
 
 <chapter name="Dramma">
 <b>Dramma</b> (<sp>Drachme</sp>), Medicinalvægt, se
-<sp>Unse</sp>.</chapter>
+<sp>Unse</sp>.
+</chapter>
 
 <chapter name="Dramma per musica">
 <b>Dramma per musica</b> [-zi-], ital. Benævnelse

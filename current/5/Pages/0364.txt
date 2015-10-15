@@ -37,7 +37,8 @@ skrevne af C.
 
 <chapter name="custodia">
 <b>custodia</b> (<sp>jur</sp>.) (lat.: »Bevogtning«), se
-<sp>Erstatning</sp>.</chapter>
+<sp>Erstatning</sp>.
+</chapter>
 
 <chapter name="Custos">
 <b>Custos</b> (lat.), egentlig Vogter, er ved tyske
@@ -95,13 +96,16 @@ til at gaa tilbage bag Oglio.
 </chapter>
 
 <chapter name="Cutch, se Katsch">
-<b>Cutch</b> [kat∫], se <sp>Katsch</sp>.</chapter>
+<b>Cutch</b> [kat∫], se <sp>Katsch</sp>.
+</chapter>
 
 <chapter name="cutch, se Katechu">
-<b>cutch</b> [kat∫], se <sp>Katechu</sp>.</chapter>
+<b>cutch</b> [kat∫], se <sp>Katechu</sp>.
+</chapter>
 
 <chapter name="Cuterebra">
-<b>Cuterebra,</b> se <sp>Bremser</sp>.</chapter>
+<b>Cuterebra,</b> se <sp>Bremser</sp>.
+</chapter>
 
 <chapter name="Cuthbert, den hellige">
 <b>Cuthbert</b> ['kaþbət], <sp>den hellige</sp>,
@@ -132,10 +136,12 @@ visse Cellers fri Overflade, f. Eks. i Tarmen.
 </chapter>
 
 <chapter name="Cutis">
-<b>Cutis,</b> se <sp>Hud</sp>.</chapter>
+<b>Cutis,</b> se <sp>Hud</sp>.
+</chapter>
 
 <chapter name="Cutleriaceæ">
-<b>Cutleriaceæ,</b> se <sp>Alger</sp> (Brunalger).</chapter>
+<b>Cutleriaceæ,</b> se <sp>Alger</sp> (Brunalger).
+</chapter>
 
 <chapter name="Cutter, Charles Ammi">
 <b>Cutter</b> ['katə], <sp>Charles Ammi</sp>, amer.
@@ -164,7 +170,8 @@ explanation of the new way of marking books</i>
 </chapter>
 
 <chapter name="cuttings">
-<b>cuttings</b> ['kat<sub>i</sub>ŋz], grove Paklærreder af Jute.</chapter>
+<b>cuttings</b> ['kat<sub>i</sub>ŋz], grove Paklærreder af Jute.
+</chapter>
 
 <chapter name="Cuvée">
 <b>Cuvée</b> [ky'Ve], fr., Indholdet af et Gær.

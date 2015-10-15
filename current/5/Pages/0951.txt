@@ -42,7 +42,8 @@ Stillingerne ved Kunst.
 </chapter>
 
 <chapter name="Defensivalliance">
-<b>Defensivalliance</b> [-ali'aŋs<sub>ə</sub>], se <sp>Alliance</sp>.</chapter>
+<b>Defensivalliance</b> [-ali'aŋs<sub>ə</sub>], se <sp>Alliance</sp>.
+</chapter>
 
 <chapter name="Defensor">
 <b>Defensor,</b> Forsvarer, særlig Forsvarer for

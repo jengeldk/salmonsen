@@ -51,10 +51,12 @@ Indb.
 
 <chapter name="Dalrymple">
 <b>Dalrymple</b> ['dä£rimp£ ell. d`<sub>ä</sub>£'rimp£], skotsk
-Slægt, se <sp>Stair</sp>.</chapter>
+Slægt, se <sp>Stair</sp>.
+</chapter>
 
 <chapter name="Dalrype">
-<b>Dalrype</b> (<i>Lagopus lagopus</i>), se <sp>Ryper</sp>.</chapter>
+<b>Dalrype</b> (<i>Lagopus lagopus</i>), se <sp>Ryper</sp>.
+</chapter>
 
 <chapter name="Dalsbruk">
 <b>Dalsbruk,</b> Finlands største Jernværk, ligger

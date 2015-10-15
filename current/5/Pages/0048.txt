@@ -88,7 +88,8 @@ saaledes ikke i dansk og norsk Ret.
 </chapter>
 
 <chapter name="Clangula">
-<b>Clangula</b> (<sp>Hvinand</sp>), se <sp>Ænder</sp>.</chapter>
+<b>Clangula</b> (<sp>Hvinand</sp>), se <sp>Ænder</sp>.
+</chapter>
 
 <chapter name="Clan-na-gael">
 <b>Clan-na-gael</b> [k£än-n<sub>ä</sub>-'ge<sub>i</sub>£], »Gaelernes

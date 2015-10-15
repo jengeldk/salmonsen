@@ -73,10 +73,12 @@ men paa Vejen til Rom døde den ædle Biskop
 </chapter>
 
 <chapter name="Eginhard">
-<b>Eginhard</b> ['e.-], se <sp>Einhard</sp>.</chapter>
+<b>Eginhard</b> ['e.-], se <sp>Einhard</sp>.
+</chapter>
 
 <chapter name="Églantine">
-<b>Églantine</b> [eglã'tin], se <sp>Fabre d'É</sp>.</chapter>
+<b>Églantine</b> [eglã'tin], se <sp>Fabre d'É</sp>.
+</chapter>
 
 <chapter name="Eglestonit">
 <b>Eglestonit,</b> Mineral fra Terlingua i Texas

@@ -30,7 +30,8 @@ fælles med Dampcylindren; se i øvrigt
 </chapter>
 
 <chapter name="Cylinderepitheliom">
-<b>Cylinderepitheliom,</b> se <sp>Epitheliom</sp>.</chapter>
+<b>Cylinderepitheliom,</b> se <sp>Epitheliom</sp>.
+</chapter>
 
 <chapter name="Cylindergang">
 <b>Cylindergang</b> ell.
@@ -47,7 +48,8 @@ en ny fangen.
 </chapter>
 
 <chapter name="Cylinderhjul">
-<b>Cylinderhjul,</b> se <sp>Tandhjul</sp>.</chapter>
+<b>Cylinderhjul,</b> se <sp>Tandhjul</sp>.
+</chapter>
 
 <chapter name="Cylinderlinse">
 <b>Cylinderlinse,</b> et gennemsigtigt Legeme, i
@@ -86,7 +88,8 @@ Smøreevnen og ikke sønderdeles.
 </chapter>
 
 <chapter name="Cylindersav">
-<b>Cylindersav,</b> se <sp>Savemaskiner</sp>.</chapter>
+<b>Cylindersav,</b> se <sp>Savemaskiner</sp>.
+</chapter>
 
 <chapter name="Cylinderspejl">
 <b>Cylinderspejl,</b> et Spejl formet som en
@@ -110,7 +113,8 @@ Plade.
 
 <chapter name="Cylinderur">
 <b>Cylinderur</b> benævnes et Ur med
-Cylindergang.</chapter>
+Cylindergang.
+</chapter>
 
 <chapter name="Cylindrit">
 <b>Cylindrit,</b> et Mineral af Sammensætning
@@ -154,7 +158,8 @@ Omdannelsesprodukt af Spodumen (se
 </chapter>
 
 <chapter name="Cymbal">
-<b>Cymbal,</b> Hakkebræt, Forløber for <sp>Klaveret</sp>.</chapter>
+<b>Cymbal,</b> Hakkebræt, Forløber for <sp>Klaveret</sp>.
+</chapter>
 
 <chapter name="Cymbalum">
 <b>Cymbalum</b> (lat., af gr. κύμβαλον), <sp>Cymbel</sp>,
@@ -168,13 +173,16 @@ Glædesfester.
 </chapter>
 
 <chapter name="Cymbulia">
-<b>Cymbulia,</b> se <sp>Vingesnegle</sp>.</chapter>
+<b>Cymbulia,</b> se <sp>Vingesnegle</sp>.
+</chapter>
 
 <chapter name="Cymofan">
-<b>Cymofan,</b> se <sp>Chrysoberyl</sp>.</chapter>
+<b>Cymofan,</b> se <sp>Chrysoberyl</sp>.
+</chapter>
 
 <chapter name="Cymogen">
-<b>Cymogen,</b> se <sp>Ferment</sp>.</chapter>
+<b>Cymogen,</b> se <sp>Ferment</sp>.
+</chapter>
 
 <chapter name="Cymol">
 <b>Cymol,</b> C<sub>10</sub>H<sub>14</sub>, er Para-metylisopropylbenzol,
@@ -194,7 +202,8 @@ kendes den isomere m-C.
 </chapter>
 
 <chapter name="Cymothoa">
-<b>Cymothoa,</b> se <sp>Cymothoidæ</sp>.</chapter>
+<b>Cymothoa,</b> se <sp>Cymothoidæ</sp>.
+</chapter>
 
 <chapter name="Cymothoidæ">
 <b>Cymothoidæ,</b> Fam. af Isopodernes Orden,

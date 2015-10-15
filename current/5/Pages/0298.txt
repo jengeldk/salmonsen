@@ -2,14 +2,16 @@
 <b>Craonne</b> [kran], Flække i det franske Dept
 Aisne, Arrond. Laon. Her stod et Slag 7. Marts
 1814 mellem Napoleon I og de Allieredes
-Nordarmé.</chapter>
+Nordarmé.
+</chapter>
 
 <chapter name="crapaud">
 <b>crapaud</b> [kra'po] (fr.), Padde, Skrubtudse,
 tillige brugt som Skældsord; c. <i>du marais</i>
 [-dy-ma'ræ], »Sumpskildpadde«, et Øgenavn,
 som »Bjerget« under den fr. Revolution gav
-Girondinerne.</chapter>
+Girondinerne.
+</chapter>
 
 <chapter name="Craquelure">
 <b>Craquelure</b> [kra'kly.r] (<sp>Craquelering</sp>)
@@ -47,7 +49,8 @@ Turnbull's (1858) og Grosart's (2 Bd, 1872).
 </chapter>
 
 <chapter name="Craspedota">
-<b>Craspedota,</b> se <sp>Gopler</sp>.</chapter>
+<b>Craspedota,</b> se <sp>Gopler</sp>.
+</chapter>
 
 <chapter name="Crassilinguia">
 <b>Crassilinguia</b> [-gvia], de Tyktungede, en
@@ -85,7 +88,8 @@ Potterne og formeres ved Stiklinger i Juni ell. Juli.
 </chapter>
 
 <chapter name="Crassulaceæ">
-<b>Crassulaceæ,</b> se <sp>Tykbladede</sp>.</chapter>
+<b>Crassulaceæ,</b> se <sp>Tykbladede</sp>.
+</chapter>
 
 <chapter name="Crassus">
 <b>Crassus</b> (lat. ɔ: den fede, tykke),
@@ -148,7 +152,8 @@ lokket til et Møde og dræbt.
 </chapter>
 
 <chapter name="Crater">
-<b>Crater</b> (astron.), se <sp>Bægeret</sp>.</chapter>
+<b>Crater</b> (astron.), se <sp>Bægeret</sp>.
+</chapter>
 
 <chapter name="Craterellus">
 <b>Craterellus</b> Fr., Slægt af Barksvampe, med

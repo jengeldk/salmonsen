@@ -129,7 +129,8 @@ Skibe.
 </chapter>
 
 <chapter name="Elbistan">
-<b>Elbistan,</b> se <sp>Albistan</sp>.</chapter>
+<b>Elbistan,</b> se <sp>Albistan</sp>.
+</chapter>
 
 <chapter name="Elbo, Herred">
 <b>Elbo,</b> <sp>Herred</sp>, i det sydøstlige Jylland, det

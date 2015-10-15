@@ -50,7 +50,8 @@ var helliget.
 </chapter>
 
 <chapter name="cont.">
-<b>cont.,</b> Forkortelse af <i>contusus</i>.</chapter>
+<b>cont.,</b> Forkortelse af <i>contusus</i>.
+</chapter>
 
 <chapter name="Contades, Louis Georges Erasme">
 <b>Contades</b> [kå'tad], <sp>Louis Georges Erasme</sp>,
@@ -76,13 +77,16 @@ Broglie.
 </chapter>
 
 <chapter name="Contagium">
-<b>Contagium,</b> se <sp>smitsomme Sygdomme</sp>.</chapter>
+<b>Contagium,</b> se <sp>smitsomme Sygdomme</sp>.
+</chapter>
 
 <chapter name="contango">
-<b>contango</b> [k<sub>ə</sub>n'täŋgo<sub>u</sub>], se <sp>Report</sp>.</chapter>
+<b>contango</b> [k<sub>ə</sub>n'täŋgo<sub>u</sub>], se <sp>Report</sp>.
+</chapter>
 
 <chapter name="contarii">
-<b>contarii,</b> se <sp>contus</sp>.</chapter>
+<b>contarii,</b> se <sp>contus</sp>.
+</chapter>
 
 <chapter name="Contarini, venetiansk Adelsfamilie">
 <b>Contarini,</b> venetiansk Adelsfamilie. Blandt

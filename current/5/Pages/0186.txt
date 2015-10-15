@@ -14,10 +14,12 @@ der tidligere været Svovlgruber.
 </chapter>
 
 <chapter name="con impeto">
-<b>con impeto,</b> se <sp>con</sp>.</chapter>
+<b>con impeto,</b> se <sp>con</sp>.
+</chapter>
 
 <chapter name="Coninck, Malere">
-<b>Coninck</b> ['ko.n<sub>e</sub>ŋk], Malere, se <sp>Koninck</sp>.</chapter>
+<b>Coninck</b> ['ko.n<sub>e</sub>ŋk], Malere, se <sp>Koninck</sp>.
+</chapter>
 
 <chapter name="Coninck, de, Adelsslægt">
 <b>Coninck, de</b> ['ko.n<sub>e</sub>ŋk], en ældgammel, fra

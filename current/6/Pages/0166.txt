@@ -23,7 +23,8 @@ York 1914).
 </chapter>
 
 <chapter name="differentiere">
-<b>differentiere,</b> se <sp>Differentialregning</sp>.</chapter>
+<b>differentiere,</b> se <sp>Differentialregning</sp>.
+</chapter>
 
 <chapter name="Differentiering">
 <b>Differentiering</b> (biol.) betegner
@@ -33,10 +34,12 @@ hvorved fysiol. Arbejdsdeling muliggøres.
 </chapter>
 
 <chapter name="differere">
-<b>differere</b> (lat.), vise Forskel, afvige, være ulige.</chapter>
+<b>differere</b> (lat.), vise Forskel, afvige, være ulige.
+</chapter>
 
 <chapter name="Diffession">
-<b>Diffession</b> (lat.), Benægtelse.</chapter>
+<b>Diffession</b> (lat.), Benægtelse.
+</chapter>
 
 <chapter name="Diffessions-Ed">
 <b>Diffessions-Ed,</b> den Benægtelses-Ed, som
@@ -51,7 +54,8 @@ Eden ikke aflægges.
 
 <chapter name="difficil">
 <b>difficil</b> (lat.), vanskelig, vanskelig at behandle,
-umedgørlig.</chapter>
+umedgørlig.
+</chapter>
 
 <chapter name="difficile est satiram non scribere">
 <b>difficile est satiram non scribere</b> (lat.),
@@ -78,10 +82,12 @@ Vande, enkelte ogsaa i fugtig Jord.
 
 <chapter name="difform">
 <b>difform</b> (lat.), misdannet, vanskabt.
-<sp>Difformitet</sp>, Vanskabning, Hæslighed.</chapter>
+<sp>Difformitet</sp>, Vanskabning, Hæslighed.
+</chapter>
 
 <chapter name="Diffraktion">
-<b>Diffraktion,</b> se <sp>Bøjning</sp>, Lysets.</chapter>
+<b>Diffraktion,</b> se <sp>Bøjning</sp>, Lysets.
+</chapter>
 
 <chapter name="Diffraktions-Kromoskop">
 <b>Diffraktions-Kromoskop,</b> Apparat til
@@ -94,7 +100,8 @@ R. W. Wood's Metode.
 <b>diffundere</b> (lat.), sprede til alle Sider,
 udgyde; forøde, bortødsle; <sp>diffus</sp>, adspredt,
 vidtsvævende, langtrukken. <sp>Diffusion</sp>,
-Vidtløftighed i Tale ell. Skrift, smlg. ndf.</chapter>
+Vidtløftighed i Tale ell. Skrift, smlg. ndf.
+</chapter>
 
 <chapter name="diffus">
 <b>diffus</b> (lat.). egl. udbredt, benyttes i

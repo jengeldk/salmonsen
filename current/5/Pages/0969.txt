@@ -5,7 +5,8 @@ Ordet er gaaet over i eng. <i>dean</i>, fr. <i>doyen</i> o. s. v.
 </chapter>
 
 <chapter name="Dekanat">
-<b>Dekanat,</b> en Dekans Embede og Værdighed.</chapter>
+<b>Dekanat,</b> en Dekans Embede og Værdighed.
+</chapter>
 
 <chapter name="Dekanesse">
 <b>Dekanesse</b> [-'næs<sub>ə</sub>] (en af Dekan dannet
@@ -17,7 +18,8 @@ Stift.
 </chapter>
 
 <chapter name="Dekantering">
-<b>Dekantering,</b> se <sp>filtrere</sp>.</chapter>
+<b>Dekantering,</b> se <sp>filtrere</sp>.
+</chapter>
 
 <chapter name="dekapere">
 <b>dekapere</b> (lat.), ad kemisk og mekanisk Vej
@@ -47,7 +49,8 @@ Hovedet for sig.
 <chapter name="dekapitere">
 <b>dekapitere</b> (fr. <i>décapiter</i>, af lat. <i>caput</i>),
 halshugge. <sp>Dekapitation</sp>, Halshugning, se
-endvidere ovenfor.</chapter>
+endvidere ovenfor.
+</chapter>
 
 <chapter name="Dekapoder">
 <b>Dekapoder</b> (<i>Decapoda</i>) eller de 10-benede

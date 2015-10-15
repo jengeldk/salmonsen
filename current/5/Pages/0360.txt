@@ -25,17 +25,20 @@ Begrænsning, nu uden Bet.
 </chapter>
 
 <chapter name="Cursoria">
-<b>Cursoria,</b> se <sp>Retvingede</sp>.</chapter>
+<b>Cursoria,</b> se <sp>Retvingede</sp>.
+</chapter>
 
 <chapter name="Cursorius">
 <b>Cursorius</b> (<sp>Ørkenløber</sp>), se
-<sp>Braksvaler</sp>.</chapter>
+<sp>Braksvaler</sp>.
+</chapter>
 
 <chapter name="Curtatone">
 <b>Curtatone,</b> By i Norditalien, Prov. Mantova,
 ligger 5 km V. f. Mantua. (1910) 8100 Indb. Ved
 C. sejrede Østerrigerne under Radetzky 29. Maj
-1848 over de neapolitansk-toskanske Tropper.</chapter>
+1848 over de neapolitansk-toskanske Tropper.
+</chapter>
 
 <chapter name="Curti, Theodor">
 <b>Curti,</b> <sp>Theodor</sp>, tysk-schweizisk Politiker

@@ -34,7 +34,8 @@ Mængde Ørredrogn (c. 70000 Kr).
 </chapter>
 
 <chapter name="Dambræt">
-<b>Dambræt,</b> se <sp>Damspil</sp>.</chapter>
+<b>Dambræt,</b> se <sp>Damspil</sp>.
+</chapter>
 
 <chapter name="Dambulu">
 <b>Dambulu,</b> By paa Ceylon, N. f. Candy, med
@@ -125,16 +126,20 @@ prydede Kort for D.
 </chapter>
 
 <chapter name="Dame, den hvide">
-<b>Dame,</b> <sp>den hvide</sp>, se Agnes af Meran.</chapter>
+<b>Dame,</b> <sp>den hvide</sp>, se Agnes af Meran.
+</chapter>
 
 <chapter name="Damefreden">
-<b>Damefreden,</b> se <sp>Cambrai</sp>.</chapter>
+<b>Damefreden,</b> se <sp>Cambrai</sp>.
+</chapter>
 
 <chapter name="Dame-Jeanne">
-<b>Dame-Jeanne</b> [dam-'зa.n], se <sp>Demijahn</sp>.</chapter>
+<b>Dame-Jeanne</b> [dam-'зa.n], se <sp>Demijahn</sp>.
+</chapter>
 
 <chapter name="Damenisation">
-<b>Damenisation,</b> se <sp>Solmisation</sp>.</chapter>
+<b>Damenisation,</b> se <sp>Solmisation</sp>.
+</chapter>
 
 <chapter name="Damerghu">
 <b>Damerghu</b> [fr. -'gu], et første Gang 1851 af

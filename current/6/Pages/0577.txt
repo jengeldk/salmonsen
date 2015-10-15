@@ -1,5 +1,6 @@
 <chapter name="Duxerkvæg">
-<b>Duxerkvæg,</b> se <sp>Kvægracer</sp>.</chapter>
+<b>Duxerkvæg,</b> se <sp>Kvægracer</sp>.
+</chapter>
 
 <chapter name="Duxhoved">
 <b>Duxhoved,</b> rund Træklods med udborede
@@ -11,7 +12,8 @@ Sejlskibe med Hampetovværk ved Ansætning
 
 <chapter name="Duxit">
 <b>Duxit,</b> en mørkebrun, fossil Harpiks fra
-Brunkullene ved Dux i Böhmen.</chapter>
+Brunkullene ved Dux i Böhmen.
+</chapter>
 
 <chapter name="Duyse, Prudens van">
 <b>Duyse</b> [dö^ys<sub>ə</sub>], <sp>Prudens van</sp>, flamsk

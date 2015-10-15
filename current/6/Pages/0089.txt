@@ -98,7 +98,8 @@ fl. Roller.
 </chapter>
 
 <chapter name="Deuteronomium">
-<b>Deuteronomium</b> [dæ^u-], se <sp>Pentateuchen</sp>.</chapter>
+<b>Deuteronomium</b> [dæ^u-], se <sp>Pentateuchen</sp>.
+</chapter>
 
 <chapter name="Deuteroplasma">
 <b>Deuteroplasma</b> [dæ^u-] (ell. <sp>Deutoplasma</sp>)
@@ -113,10 +114,12 @@ afhængige af denne (se i øvrigt
 </chapter>
 
 <chapter name="Deuteroskopi">
-<b>Deuteroskopi</b> [dæ^u-], d. s. s. <sp>Clairvoyance</sp>.</chapter>
+<b>Deuteroskopi</b> [dæ^u-], d. s. s. <sp>Clairvoyance</sp>.
+</chapter>
 
 <chapter name="Deutsch, Nicolaus">
-<b>Deutsch</b> [då^yt∫], <sp>Nicolaus</sp>, se <sp>Manuel</sp>.</chapter>
+<b>Deutsch</b> [då^yt∫], <sp>Nicolaus</sp>, se <sp>Manuel</sp>.
+</chapter>
 
 <chapter name="Deutsch, Otto Erich">
 <b>Deutsch</b> [då^yt∫], <sp>Otto Erich</sp>, østerrigsk
@@ -131,7 +134,8 @@ fuldført -, et omfattende Arbejde, der for
 første Gang indgaaende og dokumenteret
 behandler og til Dels nybelyser Schubert's Liv og
 Gerning.
-<sp>W. B.</sp></chapter>
+<i>W. B.</i>
+</chapter>
 
 <chapter name="Deutsch-Brod">
 <b>Deutsch-Brod</b> [d'å^yt∫-'bro.t],
@@ -164,7 +168,8 @@ bekendte sydtyske Retsbog »Schwabenspiegel«
 <chapter name="Deutsche Rundschau">
 <b>Deutsche Rundschau</b> [då^yt∫<sub>ə</sub>-'ront∫a^u], tysk
 Maanedsskrift af litterært og
-populærtvidenskabeligt Indhold, stiftet 1874 af Julius Rodenberg.</chapter>
+populærtvidenskabeligt Indhold, stiftet 1874 af Julius Rodenberg.
+</chapter>
 
 <chapter name="Deutsch-Eylau">
 <b>Deutsch-Eylau</b> [då^yt∫-'a^ila^u], By i
@@ -190,5 +195,6 @@ Brændevinsbrænderi og Tømmerhandel.
 
 <chapter name="Deutsch-Wilmersdorf">
 <b>Deutsch-Wilmersdorf</b> [då^yt∫-], nu
-<sp>Berlin-Wilmersdorf</sp>, se <sp>Berlin</sp>.</chapter>
+<sp>Berlin-Wilmersdorf</sp>, se <sp>Berlin</sp>.
+</chapter>
 

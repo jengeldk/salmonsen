@@ -42,7 +42,8 @@ lovgivende Organ, medens den anden hed Senatet.
 
 <chapter name="corpus">
 <b>corpus</b> (lat.), Legeme, Krop; ogsaa
-Indbegrebet af en Flerhed, Forsamling e. l.</chapter>
+Indbegrebet af en Flerhed, Forsamling e. l.
+</chapter>
 
 <chapter name="Corpus">
 <b>Corpus,</b> »Legemet«, betegner i Anatomien
@@ -87,7 +88,8 @@ betydelig Handel med Huder og Uld.
 
 <chapter name="Corpus Christi">
 <b>Corpus Christi,</b> se <sp>Kristi
-Legemsfest</sp>.</chapter>
+Legemsfest</sp>.
+</chapter>
 
 <chapter name="Corpus delicti">
 <b>Corpus delicti</b> betegner i Alm. dels de

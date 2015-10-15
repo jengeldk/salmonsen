@@ -143,7 +143,8 @@ Englænderne.
 </chapter>
 
 <chapter name="Daman (Hyrax)">
-<b>Daman</b> (<i>Hyrax</i>), se <sp>Fjeldgrævling</sp>.</chapter>
+<b>Daman</b> (<i>Hyrax</i>), se <sp>Fjeldgrævling</sp>.
+</chapter>
 
 <chapter name="Damanhûr">
 <b>Damanhûr</b> [-'manhu.r] (gammelægyptisk
@@ -163,10 +164,12 @@ berømte Bomulds- og Uldfabrikata.
 </chapter>
 
 <chapter name="Damanlæg">
-<b>Damanlæg,</b> se <sp>Dambrug</sp>.</chapter>
+<b>Damanlæg,</b> se <sp>Dambrug</sp>.
+</chapter>
 
 <chapter name="Damão">
-<b>Damão</b> [da'måu], se <sp>Daman</sp>.</chapter>
+<b>Damão</b> [da'måu], se <sp>Daman</sp>.
+</chapter>
 
 <chapter name="Damar">
 <b>Damar</b> ell. <sp>Dhamar</sp>, arab. By i det

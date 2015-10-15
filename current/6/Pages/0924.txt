@@ -12,19 +12,23 @@ Art e. B. er omtalt under Dugbilleder.
 <chapter name="elektriske Bølger">
 <b>elektriske Bølger,</b> se
 <sp>elektromagnetiske Svingninger</sp> og
-<sp>Radiotelegrafi</sp>.</chapter>
+<sp>Radiotelegrafi</sp>.
+</chapter>
 
 <chapter name="elektriske Enheder">
 <b>elektriske Enheder,</b> se <sp>elektriske
-Maaleenheder</sp> og <sp>Elektrostatik</sp>.</chapter>
+Maaleenheder</sp> og <sp>Elektrostatik</sp>.
+</chapter>
 
 <chapter name="elektriske Figurer">
 <b>elektriske Figurer,</b> se <sp>elektriske
-Støvfigurer</sp> og <sp>Nobilis Ringe</sp>.</chapter>
+Støvfigurer</sp> og <sp>Nobilis Ringe</sp>.
+</chapter>
 
 <chapter name="elektriske Fisk">
 <b>elektriske Fisk,</b> se <sp>elektriske
-Organer</sp>.</chapter>
+Organer</sp>.
+</chapter>
 
 <chapter name="elektriske Fordelingssystemer">
 <b>elektriske Fordelingssystemer.</b> Efter den

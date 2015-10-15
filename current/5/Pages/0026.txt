@@ -31,7 +31,8 @@ delle Puglie, ligger 45 km NV. f. Brindisi. (1911)
 </chapter>
 
 <chapter name="Cisticola">
-<b>Cisticola,</b> se <sp>Græssmutte</sp>.</chapter>
+<b>Cisticola,</b> se <sp>Græssmutte</sp>.
+</chapter>
 
 <chapter name="Cistophorus">
 <b>Cistophorus</b> (af gr. κιστοφόρος),
@@ -60,7 +61,8 @@ Prokonsulat.
 Cistophorus (1/1); 11,82 g.</img>
 
 <chapter name="Cistudo">
-<b>Cistudo,</b> se <sp>Sumpskildpadder</sp>.</chapter>
+<b>Cistudo,</b> se <sp>Sumpskildpadder</sp>.
+</chapter>
 
 <chapter name="Cistus">
 <b>Cistus</b> L., Slægt af Soløjefam., Urter,
@@ -105,7 +107,8 @@ Uroligheder kunde holde Befolkningen i Tømme.
 
 <chapter name="Citadelskib">
 <b>Citadelskib,</b> en ældre Betegnelse for et
-Panserskib af <sp>Kasematskibstypen</sp>.</chapter>
+Panserskib af <sp>Kasematskibstypen</sp>.
+</chapter>
 
 <chapter name="Citant">
 <b>Citant</b> (af lat. <i>citare</i>, at stævne), en navnlig
@@ -139,14 +142,17 @@ Ord«.
 </chapter>
 
 <chapter name="Citation">
-<b>Citation,</b> d. s. s. <sp>Stævning</sp>.</chapter>
+<b>Citation,</b> d. s. s. <sp>Stævning</sp>.
+</chapter>
 
 <chapter name="Citationstegn">
-<b>Citationstegn,</b> se <sp>Anførselstegn</sp>.</chapter>
+<b>Citationstegn,</b> se <sp>Anførselstegn</sp>.
+</chapter>
 
 <chapter name="citato loco">
 <b>citato loco</b> (forkortet c. l.) (lat.), paa
-anførte Sted.</chapter>
+anførte Sted.
+</chapter>
 
 <chapter name="cité">
 <b>cité</b> [si'te] (fr., eng. <i>city</i>, ital. <i>cittá</i>, af lat.

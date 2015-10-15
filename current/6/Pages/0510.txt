@@ -102,7 +102,8 @@ begge Sider; <i>due volte</i>, to Gange.
 </chapter>
 
 <chapter name="Dueblomst">
-<b>Dueblomst,</b> se <sp>Aconitum</sp>.</chapter>
+<b>Dueblomst,</b> se <sp>Aconitum</sp>.
+</chapter>
 
 <chapter name="Duebrødre">
 <b>Duebrødre</b> kaldtes et med
@@ -126,7 +127,8 @@ Domkirken er bygget af Herholdt 1880 og rummer
 </chapter>
 
 <chapter name="Duefugle">
-<b>Duefugle,</b> se <sp>Duer</sp>.</chapter>
+<b>Duefugle,</b> se <sp>Duer</sp>.
+</chapter>
 
 <chapter name="Dueholm Kloster">
 <b>Dueholm Kloster,</b> ved Nykjøbing paa Mors,
@@ -157,5 +159,6 @@ Diplomatarium« ved O. Nielsen [Kbhvn 1872]).
 </chapter>
 
 <chapter name="Duehøg">
-<b>Duehøg,</b> se <sp>Høge</sp>.</chapter>
+<b>Duehøg,</b> se <sp>Høge</sp>.
+</chapter>
 

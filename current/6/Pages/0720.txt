@@ -17,18 +17,21 @@ og andre anvendes ved Kronometre.
 
 <chapter name="echappere">
 <b>echappere</b> [-sja-] (af fr. <i>échapper</i>),
-undslippe, flygte.</chapter>
+undslippe, flygte.
+</chapter>
 
 <chapter name="écharpe">
 <b>écharpe</b> [e'∫arp] (fr.), Skærf, Akselbind til
 at bære en saaret Arm i, smalt Florssjal; i
 Fægtekunsten et Tværhug; <i>en é.</i>, i skraa, skæv
 Retning, paa skraa; <sp>echarpere</sp>, give et
-Tværhug, Angribe, beskyde i skraa Retning.</chapter>
+Tværhug, Angribe, beskyde i skraa Retning.
+</chapter>
 
 <chapter name="echaufferet">
 <b>echaufferet</b> [-sjo-] (af fr. <i>échauffer</i>),
-ophedet, ophidset, opbragt.</chapter>
+ophedet, ophidset, opbragt.
+</chapter>
 
 <chapter name="échauguette">
 <b>échauguette</b> [e∫o'gæt] (fr.), øverst paa
@@ -43,7 +46,8 @@ udkragede ligesom Tinderne (smlg.
 <chapter name="échéance">
 <b>échéance</b> [e∫e'ã.s] (fr.), Forfaldsdag,
 Termin; den Dag, paa hvilken en Fordring
-forfalder til Betaling.</chapter>
+forfalder til Betaling.
+</chapter>
 
 <chapter name="Echegaray, José">
 <b>Echegaray</b> [æt∫æga'raj], <sp>José</sp>, sp.
@@ -134,12 +138,14 @@ dramáticas</i> begyndte at udkomme 1884. (<sp>Litt</sp>.:
 <sp>Zacher</sp>, <i>Don J. E.</i> [Berlin 1892]; <sp>Antón
 del Olmet</sp> og <sp>Garcia Caraffa</sp>, <i>E.</i>
 [Madrid 1912]).
-<i>E. G.</i>
 
-<img>J. Echegaray.</img></chapter>
+<img>J. Echegaray.</img>
+<i>E. G.</i>
+</chapter>
 
 <chapter name="Echeion">
-<b>Echeion</b> [-'kæ^i-], d. s. s. <sp>Echion</sp> (s. d.).</chapter>
+<b>Echeion</b> [-'kæ^i-], d. s. s. <sp>Echion</sp> (s. d.).
+</chapter>
 
 <chapter name="échelle">
 <b>échelle</b> [e'∫æl] (fr.), Stige; ved Korttegning

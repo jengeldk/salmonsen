@@ -24,7 +24,8 @@ end Afstanden fra dette til Jorden.
 
 <chapter name="Dybbjergarter">
 <b>Dybbjergarter,</b> se
-<sp>Eruptivbjergarter</sp>.</chapter>
+<sp>Eruptivbjergarter</sp>.
+</chapter>
 
 <chapter name="Dybbøl">
 <b>Dybbøl.</b> Imellem Vemmingbund og Als Sund

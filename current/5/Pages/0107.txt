@@ -81,7 +81,8 @@ Hermogenianus</i>, se <sp>Hermogenianus</sp>.
 
 <chapter name="codex, Alexandrinus">
 <b>codex,</b> <sp>Alexandrinus</sp>, se
-<sp>alexandrinske Kodeks</sp>.</chapter>
+<sp>alexandrinske Kodeks</sp>.
+</chapter>
 
 <chapter name="Codex regius">
 <b>Codex regius</b> kaldes fortrinsvis det
@@ -106,7 +107,8 @@ senere til Frederik III.
 </chapter>
 
 <chapter name="codicillus">
-<b>codicillus,</b> se <sp>Kodicil</sp>.</chapter>
+<b>codicillus,</b> se <sp>Kodicil</sp>.
+</chapter>
 
 <chapter name="Codigoro">
 <b>Codigoro,</b> By i Norditalien, Prov. Ferrara,
@@ -121,11 +123,13 @@ Fresker og Mosaikker.
 </chapter>
 
 <chapter name="Codiæum variegatum">
-<b>Codiæum variegatum,</b> se <sp>Croton</sp>.</chapter>
+<b>Codiæum variegatum,</b> se <sp>Croton</sp>.
+</chapter>
 
 <chapter name="cod. ms.">
 <b>cod. ms.,</b> Forkortelse for <i>codex
-manuscriptus</i> (lat.), et Haandskrift.</chapter>
+manuscriptus</i> (lat.), et Haandskrift.
+</chapter>
 
 <chapter name="Codogno">
 <b>Codogno</b> [ko'don<sub>j</sub>o], By i Norditalien, Prov.

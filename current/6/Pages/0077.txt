@@ -18,10 +18,12 @@ Kreditforening 1862.
 </chapter>
 
 <chapter name="dessin">
-<b>dessin</b> [dæ'sæ] (fr.), Tegning, Mønster.</chapter>
+<b>dessin</b> [dæ'sæ] (fr.), Tegning, Mønster.
+</chapter>
 
 <chapter name="Dessinatør">
-<b>Dessinatør</b> (fr.), Tegner.</chapter>
+<b>Dessinatør</b> (fr.), Tegner.
+</chapter>
 
 <chapter name="Dessintraad">
 <b>Dessintraad</b> [de'sæŋ-] (<sp>Façontraad</sp>,
@@ -124,7 +126,8 @@ V. f. Nilen, se Flinders Petrie »Navkratis« I, II
 
 <chapter name="dessus">
 <b>dessus</b> [d<sub>ö</sub>'sy] (fr.: ovenover), d. s. s.
-Overstemme, Diskant, Sopran.</chapter>
+Overstemme, Diskant, Sopran.
+</chapter>
 
 <chapter name="Destailleur">
 <b>Destailleur</b> [dæta'jö.r], <sp>Hippolyte
@@ -140,10 +143,12 @@ XVI-XVIII siècle</i> (1863-67).
 </chapter>
 
 <chapter name="Desterro">
-<b>Desterro</b> [di∫'ter<sub>u</sub>], se <sp>Florianopolis</sp>.</chapter>
+<b>Desterro</b> [di∫'ter<sub>u</sub>], se <sp>Florianopolis</sp>.
+</chapter>
 
 <chapter name="Destillat">
-<b>Destillat,</b> se <sp>Destillation</sp>.</chapter>
+<b>Destillat,</b> se <sp>Destillation</sp>.
+</chapter>
 
 <chapter name="Destillation">
 <b>Destillation</b> kaldes den Fremgangsmaade,

@@ -10,7 +10,8 @@ London.
 </chapter>
 
 <chapter name="Crax">
-<b>Crax,</b> se <sp>Hokkofugle</sp>.</chapter>
+<b>Crax,</b> se <sp>Hokkofugle</sp>.
+</chapter>
 
 <chapter name="Crayer, Gaspar">
 <b>Crayer</b> [kra'je] (<sp>Craeyer</sp>), <sp>Gaspar</sp>
@@ -96,7 +97,8 @@ nyere rum. Litteraturs største Prosaforfatter.
 </chapter>
 
 <chapter name="Creaslærred">
-<b>Creaslærred</b> ['kri.<sub>ä</sub>s-], se <sp>Dowlas</sp>.</chapter>
+<b>Creaslærred</b> ['kri.<sub>ä</sub>s-], se <sp>Dowlas</sp>.
+</chapter>
 
 <chapter name="Crébillon, 1) D'Claude Prosper Jolyat, 2) Prosper Jolyat de">
 <b>Crébillon</b> [kreb<sub>i</sub>'jå], 1) <sp>D'Claude Prosper
@@ -159,7 +161,8 @@ deres Allierederejstes 1905.
 </chapter>
 
 <chapter name="credat Judæus Apella">
-<b>credat Judæus Apella,</b> se <sp>Apella</sp>.</chapter>
+<b>credat Judæus Apella,</b> se <sp>Apella</sp>.
+</chapter>
 
 <chapter name="Credé, Karl Sigismund Franz">
 <b>Credé</b> [kre'de.], <sp>Karl Sigismund Franz</sp>,

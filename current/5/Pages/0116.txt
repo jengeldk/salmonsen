@@ -11,7 +11,8 @@ Fremstilling af Lægemidler mod forsk. Sygdomme.
 </chapter>
 
 <chapter name="Colambaktræ">
-<b>Colambaktræ,</b> se <sp>Aloëtræ</sp>.</chapter>
+<b>Colambaktræ,</b> se <sp>Aloëtræ</sp>.
+</chapter>
 
 <chapter name="Colani, Thimothée">
 <b>Colani</b> [kåla'ni], <sp>Thimothée</sp>, fr. reformert
@@ -35,10 +36,12 @@ messianiques de son temps</i> (1864).
 </chapter>
 
 <chapter name="Colaptes">
-<b>Colaptes,</b> se <sp>Spætter</sp>.</chapter>
+<b>Colaptes,</b> se <sp>Spætter</sp>.
+</chapter>
 
 <chapter name="col arco">
-<b>col arco,</b> se <sp>arco</sp>.</chapter>
+<b>col arco,</b> se <sp>arco</sp>.
+</chapter>
 
 <chapter name="Colascione">
 <b>Colascione</b> [kola'∫one] ell. <sp>Calascione</sp>,
@@ -61,7 +64,8 @@ Kredse; det samme var Tilfældet i Rom, hvor
 hun boede det sidste Aar før sin Død. Fru C.
 skrev navnlig fra Paris Breve til norske Blade,
 som nød stor Anseelse.
-<i>E. S-n.</i>.</chapter>
+<i>E. S-n.</i>
+</chapter>
 
 <chapter name="Colbert, Jean Baptiste">
 <b>Colbert</b> [kål'bæ.r], <sp>Jean Baptiste</sp>, en af

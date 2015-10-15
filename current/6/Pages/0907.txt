@@ -101,22 +101,28 @@ Ritter« [Kbhvn 1846]; <sp>H. F. Grandjean</sp>,
 
 <chapter name="Elefantorden, hvide">
 <b>Elefantorden,</b> <sp>hvide</sp>, se <sp>Siamesiske
-hvide E.</sp></chapter>
+hvide E.</sp>
+</chapter>
 
 <chapter name="Elefantpapir">
-<b>Elefantpapir,</b> Papirformat, 624 x 780 mm.</chapter>
+<b>Elefantpapir,</b> Papirformat, 624 x 780 mm.
+</chapter>
 
 <chapter name="Elefantsnabel">
-<b>Elefantsnabel,</b> se <sp>Martynia</sp>.</chapter>
+<b>Elefantsnabel,</b> se <sp>Martynia</sp>.
+</chapter>
 
 <chapter name="Elefantsygdom">
-<b>Elefantsygdom,</b> d. s. s. <sp>Elefantiasis</sp>.</chapter>
+<b>Elefantsygdom,</b> d. s. s. <sp>Elefantiasis</sp>.
+</chapter>
 
 <chapter name="Elefantæbletræ">
-<b>Elefantæbletræ,</b> se <sp>Feronia</sp>.</chapter>
+<b>Elefantæbletræ,</b> se <sp>Feronia</sp>.
+</chapter>
 
 <chapter name="Elefant-Ø">
-<b>Elefant-Ø,</b> se <sp>Gambia</sp>.</chapter>
+<b>Elefant-Ø,</b> se <sp>Gambia</sp>.
+</chapter>
 
 <chapter name="Elegance">
 <b>Elegance</b> [-'gaŋs<sub>ə</sub>](lat., fr.), Ynde,
@@ -124,7 +130,8 @@ Smagfuldhed, Sirlighed, i ydre Optræden, i en Tales
 Udtryk og Vendinger (saaledes betegnede Romerne
 ved <i>elegantia</i> Klarhed, forbundet med
 Korrekthed i Foredraget), <i>elegánt</i>, smagfuld, sirlig,
-flot.</chapter>
+flot.
+</chapter>
 
 <chapter name="Elegi">
 <b>Elegi</b> (gr.) er afledt af Ordet ελεγος, der

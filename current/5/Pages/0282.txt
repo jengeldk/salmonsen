@@ -1,9 +1,11 @@
 <chapter name="Courtine">
 <b>Courtine</b> [dansk kur'ti.n<sub>ə</sub>, fr. -'tin]
-(<sp>Kurtine</sp>), se <sp>bastionært Grundrids</sp>.</chapter>
+(<sp>Kurtine</sp>), se <sp>bastionært Grundrids</sp>.
+</chapter>
 
 <chapter name="Courtiras, G. A.">
-<b>Courtiras</b> [kurti'ra], <sp>G. A.</sp>, se <sp>Dash</sp>.</chapter>
+<b>Courtiras</b> [kurti'ra], <sp>G. A.</sp>, se <sp>Dash</sp>.
+</chapter>
 
 <chapter name="Courtmans, Joanna Desideria">
 <b>Courtmans</b> [kå^urtmans], <sp>Joanna
@@ -119,11 +121,13 @@ Cortona.
 <chapter name="courtoisie">
 <b>courtoisie</b> [da. kurtoa'si', fr. kurtwa'zi],
 (fr.), Ridderlighed, beleven Optræden,
-Galanteri.</chapter>
+Galanteri.
+</chapter>
 
 <chapter name="courtoisie internationale">
 <b>courtoisie internationale</b> [kurtwa'zi-ætær
-nas<sub>i</sub>å'nal], se <sp>comitas gentium</sp>.</chapter>
+nas<sub>i</sub>å'nal], se <sp>comitas gentium</sp>.
+</chapter>
 
 <chapter name="Courtrai">
 <b>Courtrai</b> [kur'træ] (flamsk: <sp>Kortrijk</sp>), By
@@ -158,7 +162,8 @@ Benævnelse for Veksler med kort Løbetid.
 </chapter>
 
 <chapter name="Couseranit">
-<b>Couseranit</b> [ku-], en Form af <sp>Skapolit</sp>.</chapter>
+<b>Couseranit</b> [ku-], en Form af <sp>Skapolit</sp>.
+</chapter>
 
 <chapter name="Cousin, Charles Guillaume">
 <b>Cousin</b> [ku'zæ], <sp>Charles Guillaume</sp>,

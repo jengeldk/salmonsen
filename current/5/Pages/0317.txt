@@ -96,7 +96,8 @@ Bad.
 </chapter>
 
 <chapter name="croche">
-<b>croche</b> [krå∫] (fr.), se <sp>croma</sp>.</chapter>
+<b>croche</b> [krå∫] (fr.), se <sp>croma</sp>.
+</chapter>
 
 <chapter name="crochet">
 <b>crochet</b> [krå'∫æ], <sp>Hage</sp>, kort Løbegrav, der
@@ -110,7 +111,8 @@ Forbindingspladser, Materialdepoter m. m.
 </chapter>
 
 <chapter name="Crocidura">
-<b>Crocidura,</b> se <sp>Spidsmus</sp>.</chapter>
+<b>Crocidura,</b> se <sp>Spidsmus</sp>.
+</chapter>
 
 <chapter name="Crocin">
 <b>Crocin</b> (<sp>Polychroit</sp>), C<sub>44</sub>H<sub>70</sub>O<sub>28</sub>(?), er
@@ -128,13 +130,16 @@ højrødt Farvestof, der er opløseligt i Alkohol og
 </chapter>
 
 <chapter name="Crocodilidæ, Crocodilus">
-<b>Crocodilidæ, Crocodilus,</b> se <sp>Krokodiller</sp>.</chapter>
+<b>Crocodilidæ, Crocodilus,</b> se <sp>Krokodiller</sp>.
+</chapter>
 
 <chapter name="Crocodilurus">
-<b>Crocodilurus,</b> se <sp>Ameiva'er</sp>.</chapter>
+<b>Crocodilurus,</b> se <sp>Ameiva'er</sp>.
+</chapter>
 
 <chapter name="Crocosma">
-<b>Crocosma,</b> se <sp>Tritonia</sp>.</chapter>
+<b>Crocosma,</b> se <sp>Tritonia</sp>.
+</chapter>
 
 <chapter name="Crocus L.">
 <b>Crocus</b> L., Slægt af Sværdlilliefam., Urter

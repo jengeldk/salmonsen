@@ -65,7 +65,8 @@ Præsteskriftet fra Abraham til Mose.
 </chapter>
 
 <chapter name="El">
-<b>El,</b> se <sp>Æl</sp>.</chapter>
+<b>El,</b> se <sp>Æl</sp>.
+</chapter>
 
 <chapter name="El">
 <b>El,</b> holl. Længdemaal (Alen), siden 1821
@@ -88,7 +89,8 @@ hans Slægt. I øvrigt vides intet om ham.
 <chapter name="elaborere">
 <b>elaborere</b> (lat.), udarbejde, forfærdige;
 <sp>Elaborat</sp>, noget udarbejdet, navnlig et
-udarbejdet Skrift; <sp>Elaboration</sp>, Udarbejdelse.</chapter>
+udarbejdet Skrift; <sp>Elaboration</sp>, Udarbejdelse.
+</chapter>
 
 <chapter name="Elafebolion">
 <b>Elafebolion</b> [gr. -'o.n] (gr.), den 9. Maaned
@@ -127,10 +129,12 @@ Fester til Ære for E.
 </chapter>
 
 <chapter name="El-Aghuat">
-<b>El-Aghuat,</b> se <sp>L'aghuat</sp>.</chapter>
+<b>El-Aghuat,</b> se <sp>L'aghuat</sp>.
+</chapter>
 
 <chapter name="El Ahsa">
-<b>El Ahsa</b> [an'sa], se <sp>Hasa</sp>.</chapter>
+<b>El Ahsa</b> [an'sa], se <sp>Hasa</sp>.
+</chapter>
 
 <chapter name="Elaia">
 <b>Elaia,</b> en af de aioliske Byer paa
@@ -176,11 +180,13 @@ Palmitinsyre.
 </chapter>
 
 <chapter name="Elain">
-<b>Elain,</b> d. s. s. <sp>Oleïn</sp>.</chapter>
+<b>Elain,</b> d. s. s. <sp>Oleïn</sp>.
+</chapter>
 
 <chapter name="Elainsyre">
 <b>Elainsyre,</b> d. s. s. <sp>Oleïnsyre</sp>,
-<sp>Oliesyre</sp>.</chapter>
+<sp>Oliesyre</sp>.
+</chapter>
 
 <chapter name="Elaioplast">
 <b>Elaioplast</b> [-lajo-] (<sp>bot</sp>., <sp>Oliedanner</sp>)

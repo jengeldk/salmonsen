@@ -85,14 +85,17 @@ Jernvejscentrum og driver betydelig Industri.
 </chapter>
 
 <chapter name="Dunkjevle">
-<b>Dunkjevle,</b> se <sp>Typha</sp>.</chapter>
+<b>Dunkjevle,</b> se <sp>Typha</sp>.
+</chapter>
 
 <chapter name="Dunkjevlefamilien">
 <b>Dunkjevlefamilien,</b> se
-<sp>Dunhammerfamilien</sp>.</chapter>
+<sp>Dunhammerfamilien</sp>.
+</chapter>
 
 <chapter name="Dunleary">
-<b>Dunleary</b> [dan'£i.t<sub>i</sub>], se <sp>Kingstown</sp>.</chapter>
+<b>Dunleary</b> [dan'£i.t<sub>i</sub>], se <sp>Kingstown</sp>.
+</chapter>
 
 <chapter name="Dunlop">
 <b>Dunlop</b> ['dan£<sub>å</sub>p eller dan'£åp], Landsby i
@@ -104,7 +107,8 @@ Indb., er berømt for sin Race af Hornkvæg
 
 <chapter name="Dunlop">
 <b>Dunlop</b> ['danlåp eller dan'låp], se <sp>Cykel</sp>
-S. 367.</chapter>
+S. 367.
+</chapter>
 
 <chapter name="Dunmail Raise">
 <b>Dunmail Raise</b> [dan'ma^il're<sub>i</sub>z], et 240 m
@@ -132,7 +136,8 @@ Dinglebay.
 </chapter>
 
 <chapter name="Dunnemosser">
-<b>Dunnemosser,</b> se <sp>Typha</sp>.</chapter>
+<b>Dunnemosser,</b> se <sp>Typha</sp>.
+</chapter>
 
 <chapter name="Dunnet Head">
 <b>Dunnet Head</b> ['dan<sub>i</sub>t-'hed], et Forbjerg i

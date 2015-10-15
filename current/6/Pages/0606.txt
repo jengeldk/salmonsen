@@ -136,7 +136,8 @@ adskilligt mere uden at vise kendeligt fejl.
 
 <chapter name="Dynamometer, elektrisk Apparat">
 <b>Dynamometer,</b> elektrisk Apparat, se
-<sp>elektriske Maaleinstrumenter</sp>.</chapter>
+<sp>elektriske Maaleinstrumenter</sp>.
+</chapter>
 
 <chapter name="Dünamünde">
 <b>Dünamünde</b> [dyna'mynd<sub>ə</sub>], fra 1893 officielt

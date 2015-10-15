@@ -25,7 +25,8 @@ og D. i Mahabharata (se <sp>Nala</sp>).
 </chapter>
 
 <chapter name="Dambaad">
-<b>Dambaad,</b> se <sp>Fiskerfartøj</sp>.</chapter>
+<b>Dambaad,</b> se <sp>Fiskerfartøj</sp>.
+</chapter>
 
 <chapter name="Dambrug">
 <b>Dambrug</b> (hertil 1 Tavle). Medens der ved

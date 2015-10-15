@@ -130,7 +130,8 @@ af meget fo£skelligartet Indhold.
 </chapter>
 
 <chapter name="Corpus juris canonici">
-<b>Corpus juris canonici,</b> se <sp>Kanonisk Ret</sp>.</chapter>
+<b>Corpus juris canonici,</b> se <sp>Kanonisk Ret</sp>.
+</chapter>
 
 <chapter name="Corpus pineale">
 <b>Corpus pineale,</b> ogsaa kaldet <i>conarium</i>,

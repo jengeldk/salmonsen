@@ -45,10 +45,12 @@ London.
 </chapter>
 
 <chapter name="Dallastypi">
-<b>Dallastypi</b> [eng. 'dä£<sub>ä</sub>s-], se <sp>Galvanografi</sp>.</chapter>
+<b>Dallastypi</b> [eng. 'dä£<sub>ä</sub>s-], se <sp>Galvanografi</sp>.
+</chapter>
 
 <chapter name="Dalldorf">
-<b>Dalldorf,</b> se <sp>Wittenau</sp>.</chapter>
+<b>Dalldorf,</b> se <sp>Wittenau</sp>.
+</chapter>
 
 <chapter name="Dallin, Cyrus Edwin">
 <b>Dallin</b> ['dä£<sub>i</sub>n], <sp>Cyrus Edwin</sp>, amerikansk
@@ -126,7 +128,8 @@ Levnedsskildringer af Melbourne og R. Peel udkom 1874.
 </chapter>
 
 <chapter name="Dalloah">
-<b>Dalloah,</b> se <sp>Palmesukker</sp>.</chapter>
+<b>Dalloah,</b> se <sp>Palmesukker</sp>.
+</chapter>
 
 <chapter name="dall' Oca Bianca, Angelo">
 <b>dall' Oca Bianca</b> [-'åka-'b<sub>i</sub>aŋka], <sp>Angelo</sp>,

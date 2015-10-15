@@ -58,11 +58,13 @@ W. C.</i> [1888]).
 
 <chapter name="Congreveske Raketter">
 <b>Congreveske Raketter</b> ['kåŋgri.vsk<sub>ə</sub>-], se
-<sp>Raket</sp>.</chapter>
+<sp>Raket</sp>.
+</chapter>
 
 <chapter name="Congreveske Tændstikker">
 <b>Congreveske Tændstikker</b> ['kåŋgri.vsk<sub>ə</sub>-],
-se <sp>Tændstikker</sp>.</chapter>
+se <sp>Tændstikker</sp>.
+</chapter>
 
 <chapter name="Congrevetryk">
 <b>Congrevetryk</b> ['kåŋgri.v-], en af den eng.
@@ -108,7 +110,8 @@ ophørte C. for bestandig.
 </chapter>
 
 <chapter name="con gusto">
-<b>con gusto,</b> se <sp>con</sp>.</chapter>
+<b>con gusto,</b> se <sp>con</sp>.
+</chapter>
 
 <chapter name="Conhydrin">
 <b>Conhydrin,</b> C<sub>5</sub>H<sub>10</sub>N . CHOH. CH<sub>2</sub>CH<sub>3</sub>, er et
@@ -121,10 +124,12 @@ er meget giftigt.
 </chapter>
 
 <chapter name="Coni">
-<b>Coni,</b> se <sp>Cuneo</sp>.</chapter>
+<b>Coni,</b> se <sp>Cuneo</sp>.
+</chapter>
 
 <chapter name="Conidia">
-<b>Conidia,</b> se <sp>Konidier</sp>.</chapter>
+<b>Conidia,</b> se <sp>Konidier</sp>.
+</chapter>
 
 <chapter name="Coniferin">
 <b>Coniferin,</b> C<sub>16</sub>H<sub>22</sub>O<sub>8</sub>.2H<sub>2</sub>O, er et Glykosid,
@@ -148,7 +153,8 @@ Kromsyre <sp>Vanillin</sp> (s. d.).
 </chapter>
 
 <chapter name="Coniferæ">
-<b>Coniferæ,</b> se <sp>Naaletræer</sp>.</chapter>
+<b>Coniferæ,</b> se <sp>Naaletræer</sp>.
+</chapter>
 
 <chapter name="Coniin">
 <b>Coniin,</b> C<sub>5</sub>H<sub>9</sub>(C<sub>3</sub>H<sub>7</sub>)NH, er et Alkaloid, der

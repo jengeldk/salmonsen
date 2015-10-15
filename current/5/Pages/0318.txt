@@ -17,7 +17,8 @@ begynde.
 </chapter>
 
 <chapter name="Crocus Martis">
-<b>Crocus Martis,</b> se <sp>Jernpræpanater</sp>.</chapter>
+<b>Crocus Martis,</b> se <sp>Jernpræpanater</sp>.
+</chapter>
 
 <chapter name="Crocus metallorum">
 <b>Crocus metallorum</b> var hos de ældre

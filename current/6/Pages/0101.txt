@@ -49,7 +49,8 @@ Billede af Kong Leopold I.
 </chapter>
 
 <chapter name="De Witt, J.">
-<b>De Witt</b> [d<sub>ə</sub>-'vet], <sp>J.</sp>, se <sp>Witt</sp>.</chapter>
+<b>De Witt</b> [d<sub>ə</sub>-'vet], <sp>J.</sp>, se <sp>Witt</sp>.
+</chapter>
 
 <chapter name="Dewittsland">
 <b>Dewittsland</b> [d<sub>ə</sub>'vets-], forældet Navn paa
@@ -148,7 +149,8 @@ Troskab og Kraft.
 </chapter>
 
 <chapter name="Dextrin">
-<b>Dextrin,</b> d. s. s. <sp>Dekstrin</sp>.</chapter>
+<b>Dextrin,</b> d. s. s. <sp>Dekstrin</sp>.
+</chapter>
 
 <chapter name="Deynze">
 <b>Deynze</b> ['dæ^inz<sub>ə</sub>, fr. dæ.z], By i det vestlige

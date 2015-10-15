@@ -92,16 +92,19 @@ Nord og Nordøst.
 
 <chapter name="coquillas">
 <b>coquillas</b> [kå'kil<sub>j</sub>as], de til Drejerarbejder
-benyttede haarde Frugter af fl. Arter <i>Attalea</i>.</chapter>
+benyttede haarde Frugter af fl. Arter <i>Attalea</i>.
+</chapter>
 
 <chapter name="coquille">
 <b>coquille</b> [kå'ki.j] (fr.), Musling, Muslingskal,
 i Muslingskaller anrettet fin Ragout;
-Støbejernsformen for haardstøbte Sager.</chapter>
+Støbejernsformen for haardstøbte Sager.
+</chapter>
 
 <chapter name="Coquillegods">
 <b>Coquillegods</b> [ko'kilj<sub>ə</sub>-], d. s. s.
-<sp>haardstøbt Jern</sp>.</chapter>
+<sp>haardstøbt Jern</sp>.
+</chapter>
 
 <chapter name="Coquimbit">
 <b>Coquimbit</b> [kåkim-], Mineral, sammensat:
@@ -137,21 +140,26 @@ Jernveje.
 <chapter name="Cor">
 <b>Cor</b> [kår], (lat), Hjerte, Indskriften <i>Cor
 cordium</i>, »Hjerternes Hjerte«, blev sat over
-Shelley's Grav i Rom.</chapter>
+Shelley's Grav i Rom.
+</chapter>
 
 <chapter name="cor">
 <b>cor</b> [kå.r] (fr., ogsaa Forkortelse af ital.
-<i>corno</i>), Musikinstrumentet <sp>Horn</sp>.</chapter>
+<i>corno</i>), Musikinstrumentet <sp>Horn</sp>.
+</chapter>
 
 <chapter name="Coracias">
-<b>Coracias,</b> se <sp>Ællekrage</sp>.</chapter>
+<b>Coracias,</b> se <sp>Ællekrage</sp>.
+</chapter>
 
 <chapter name="Coracit">
 <b>Coracit,</b> Mineral fra Lake Superior, er en
-noget omdannet Varietet af Uranbegmalm.</chapter>
+noget omdannet Varietet af Uranbegmalm.
+</chapter>
 
 <chapter name="Coracoideum">
-<b>Coracoideum,</b> d. s. s. <sp>Ravnenæbsben</sp>.</chapter>
+<b>Coracoideum,</b> d. s. s. <sp>Ravnenæbsben</sp>.
+</chapter>
 
 <chapter name="Coral Harbour">
 <b>Coral Harbour</b> ['kår<sub>ə</sub>£-'ha.<sub>ə</sub>bə], <sp>Cruxbai</sp>,
@@ -170,19 +178,24 @@ yngste Etage (Malm).
 
 <chapter name="Corallina, Corallinaceæ">
 <b>Corallina, Corallinaceæ,</b> se <sp>Alger</sp>
-(Rødalger).</chapter>
+(Rødalger).
+</chapter>
 
 <chapter name="Coralline Crag">
-<b>Coralline Crag</b> ['kår<sub>ə</sub>£<sub>i</sub>n-'kräg], se <sp>Crag</sp>.</chapter>
+<b>Coralline Crag</b> ['kår<sub>ə</sub>£<sub>i</sub>n-'kräg], se <sp>Crag</sp>.
+</chapter>
 
 <chapter name="Corallium">
-<b>Corallium,</b> se <sp>Ædelkoral</sp>.</chapter>
+<b>Corallium,</b> se <sp>Ædelkoral</sp>.
+</chapter>
 
 <chapter name="Corallorhiza">
-<b>Corallorhiza</b> [-'ritsa], se <sp>Koralrod</sp>.</chapter>
+<b>Corallorhiza</b> [-'ritsa], se <sp>Koralrod</sp>.
+</chapter>
 
 <chapter name="Coral Rag">
-<b>Coral Rag</b> ['kår<sub>ə</sub>£-'räg], se <sp>Corallien</sp>.</chapter>
+<b>Coral Rag</b> ['kår<sub>ə</sub>£-'räg], se <sp>Corallien</sp>.
+</chapter>
 
 <chapter name="coram">
 <b>coram</b> (lat.), i Nærværelse af; mundtlig,

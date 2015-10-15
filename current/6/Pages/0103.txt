@@ -31,7 +31,8 @@ paa de dødes Gud Yama.
 </chapter>
 
 <chapter name="Dharmaputra">
-<b>Dharmaputra,</b> se <sp>Bhatgaon</sp>.</chapter>
+<b>Dharmaputra,</b> se <sp>Bhatgaon</sp>.
+</chapter>
 
 <chapter name="Dharmsala">
 <b>Dharmsala,</b> <sp>Sundhedsstation</sp> i det
@@ -119,7 +120,8 @@ Centre.
 </chapter>
 
 <chapter name="Dholen">
-<b>Dholen,</b> den vilde ind. Hund.</chapter>
+<b>Dholen,</b> den vilde ind. Hund.
+</chapter>
 
 <chapter name="Dholera">
 <b>Dholera,</b> By i Gudsharat i Forindien, laa

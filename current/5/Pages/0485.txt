@@ -40,7 +40,8 @@ o. s. v. anvendte Maskiner.
 </chapter>
 
 <chapter name="Dampbaad">
-<b>Dampbaad,</b> se <sp>Dampskib</sp>.</chapter>
+<b>Dampbaad,</b> se <sp>Dampskib</sp>.
+</chapter>
 
 <chapter name="Dampbad">
 <b>Dampbad,</b> <sp>russisk Bad</sp>, en allerede i
@@ -106,7 +107,8 @@ ledes Damp.
 </chapter>
 
 <chapter name="Dampbarkasse">
-<b>Dampbarkasse,</b> se <sp>Barkasse</sp>.</chapter>
+<b>Dampbarkasse,</b> se <sp>Barkasse</sp>.
+</chapter>
 
 <chapter name="Dampbremse">
 <b>Dampbremse</b> er en Bremse, der betjenes
@@ -117,13 +119,16 @@ dette Navn. Se <sp>Bremse</sp> S. 923.
 </chapter>
 
 <chapter name="Dampcylinder">
-<b>Dampcylinder,</b> se <sp>Dampmaskine</sp>.</chapter>
+<b>Dampcylinder,</b> se <sp>Dampmaskine</sp>.
+</chapter>
 
 <chapter name="Dampdom">
-<b>Dampdom,</b> se <sp>Dom</sp>.</chapter>
+<b>Dampdom,</b> se <sp>Dom</sp>.
+</chapter>
 
 <chapter name="dampe">
-<b>dampe,</b> <sp>at</sp>, se <sp>Dampning</sp>.</chapter>
+<b>dampe,</b> <sp>at</sp>, se <sp>Dampning</sp>.
+</chapter>
 
 <chapter name="Dampe, Jacob Jacobsen">
 <b>Dampe,</b> <sp>Jacob Jacobsen</sp>, dansk

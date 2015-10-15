@@ -46,10 +46,10 @@ yngler i Finland, Rusland og en Del af
 Sibirien og spredt i Østpreussen. Den er truffet en
 enkelt Gang i Sverige og Norge, ikke i
 Danmark.
-<i>O. H.</i>
 
-<img>
-Dompap (<i>Pyrrhula vulgaris</i>).</img></chapter>
+<img>Dompap (<i>Pyrrhula vulgaris</i>).</img>
+<i>O. H.</i>
+</chapter>
 
 <chapter name="Dompierre d'Hornoy">
 <b>Dompierre d'Hornoy</b> [då'p<sub>i</sub>æ.r-d-år'nwa],
@@ -74,7 +74,8 @@ republikanske Regering.
 </chapter>
 
 <chapter name="Domprotokol">
-<b>Domprotokol,</b> se <sp>Retsbøger</sp>.</chapter>
+<b>Domprotokol,</b> se <sp>Retsbøger</sp>.
+</chapter>
 
 <chapter name="Domprovst">
 <b>Domprovst</b> kaldes <sp>Provsten</sp> (<i>præpositus</i>)

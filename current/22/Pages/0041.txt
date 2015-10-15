@@ -45,10 +45,10 @@ Benzinmotorer.
 
 <chapter name="spiritus sanctus">
 <b>spiritus sanctus</b> (lat.), den hellige Aand.
-spiritus </chapter>
+</chapter>
 
-<chapter name="vini">
-<b>vini,</b> se <sp>Vinsprit</sp>.
+<chapter name="spiritus vini">
+<b>spiritus vini,</b> se <sp>Vinsprit</sp>.
 </chapter>
 
 <chapter name="Spirochæta">

@@ -88,7 +88,8 @@ og Apr. 1847 blev D. C. slaaet sammen med
 
 <chapter name="Den danske Landmandsbank">
 <b>Den danske Landmandsbank,</b> se
-<sp>Landmandsbanken</sp>.</chapter>
+<sp>Landmandsbanken</sp>.
+</chapter>
 
 <chapter name="Dender, Biflod">
 <b>Dender</b> ['dænd<sub>ə</sub>r] (<sp>Dendre</sp>), Biflod til

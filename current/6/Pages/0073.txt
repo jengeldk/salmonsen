@@ -62,11 +62,13 @@ Political History of England</i>, IV [London 1910]).
 <b>Desperados</b> (spansk <i>desesperados</i>
 [ðæsæspæ'rað<sub>å</sub>s]) (»fortvivlede«) kaldes stundom
 Medlemmerne af et yderliggaaende politisk Parti,
-der stiller sig uden for Lovene.</chapter>
+der stiller sig uden for Lovene.
+</chapter>
 
 <chapter name="desperat">
 <b>desperat</b> (lat.), fortvivlet, haabløs, opbragt;
-<sp>Desperation</sp>, Fortvivlelse.</chapter>
+<sp>Desperation</sp>, Fortvivlelse.
+</chapter>
 
 <chapter name="Despériers, Bonaventure">
 <b>Despériers</b> [dæpe'r<sub>i</sub>e], <sp>Bonaventure</sp>,

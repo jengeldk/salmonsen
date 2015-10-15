@@ -73,14 +73,17 @@ fremkaldte Blottelse af dybere liggende Jordlag.
 
 <chapter name="denudere">
 <b>denudere</b> (lat.), blotte, lægge for Dagen,
-afsløre ; <sp>Denudation</sp>, Blottelse (smlg. ovf.).</chapter>
+afsløre ; <sp>Denudation</sp>, Blottelse (smlg. ovf.).
+</chapter>
 
 <chapter name="denuncere">
 <b>denuncere</b> [-se'-] (lat.), angive, udpege.
-Smlg. <sp>Angivelse</sp>.</chapter>
+Smlg. <sp>Angivelse</sp>.
+</chapter>
 
 <chapter name="Denunciation">
-<b>Denunciation</b> [-sia-] (lat.), Angivelse.</chapter>
+<b>Denunciation</b> [-sia-] (lat.), Angivelse.
+</chapter>
 
 <chapter name="Denver">
 <b>Denver</b> ['denvə], <sp>D. City</sp>, By i U. S. A.,

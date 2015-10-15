@@ -6,7 +6,8 @@ Anvendes som Middel mod Indvoldsorm.
 </chapter>
 
 <chapter name="Doliche">
-<b>Doliche</b> [-ke], se <sp>Dolichenus</sp>.</chapter>
+<b>Doliche</b> [-ke], se <sp>Dolichenus</sp>.
+</chapter>
 
 <chapter name="Dolichenus">
 <b>Dolichenus</b> [-'ke.], en asiatisk
@@ -33,7 +34,8 @@ Kan</sp>, <i>De lovis Dolicheni cultu</i> [Groningen
 </chapter>
 
 <chapter name="Dolichoderinæ">
-<b>Dolichoderinæ</b> [-ko-], se <sp>Myrer</sp>.</chapter>
+<b>Dolichoderinæ</b> [-ko-], se <sp>Myrer</sp>.
+</chapter>
 
 <chapter name="Dolichokefaler">
 <b>Dolichokefaler</b> [-ko-] (gr.),
@@ -110,7 +112,8 @@ paa en varm Plads.
 <chapter name="Dolina">
 <b>Dolina,</b> By i det østerr. Landskab Galizien,
 ved Jernbanen Stryj-Stanislau, har c. 9000
-Indb., en rig Saltkilde og store Saltsyderier.</chapter>
+Indb., en rig Saltkilde og store Saltsyderier.
+</chapter>
 
 <chapter name="Doliner">
 <b>Doliner,</b> nogle i Karstegnene i Krain, Istrien
@@ -126,10 +129,12 @@ fremkommer D.
 </chapter>
 
 <chapter name="Doliolum">
-<b>Doliolum,</b> se <sp>Salper</sp>.</chapter>
+<b>Doliolum,</b> se <sp>Salper</sp>.
+</chapter>
 
 <chapter name="Dolium">
-<b>Dolium,</b> se <sp>Tøndesnegle</sp>.</chapter>
+<b>Dolium,</b> se <sp>Tøndesnegle</sp>.
+</chapter>
 
 <chapter name="Dolk">
 <b>Dolk</b> er det ældste Stødvaaben og fandtes i

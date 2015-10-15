@@ -78,7 +78,8 @@ Flankeringskonstruktioner i Savsnittenes korte Sider.
 </chapter>
 
 <chapter name="Crêmant">
-<b>Crêmant</b> [kræ'mã], se <sp>Champagnevine</sp>.</chapter>
+<b>Crêmant</b> [kræ'mã], se <sp>Champagnevine</sp>.
+</chapter>
 
 <chapter name="Crême">
 <b>Crême</b> [dansk kræ'm, fr. kræ.m] (fr.), Fløde,

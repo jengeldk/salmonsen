@@ -35,10 +35,12 @@ Forvaltning.
 </chapter>
 
 <chapter name="droit d'arrêt">
-<b>droit d'arrêt</b> ['drwa-d-a'ræ], se <sp>droit</sp>.</chapter>
+<b>droit d'arrêt</b> ['drwa-d-a'ræ], se <sp>droit</sp>.
+</chapter>
 
 <chapter name="droit de chapelle">
-<b>droit de chapelle</b> ['drwa-t-∫a'pæl], se <sp>droit</sp>.</chapter>
+<b>droit de chapelle</b> ['drwa-t-∫a'pæl], se <sp>droit</sp>.
+</chapter>
 
 <chapter name="Droitwitch">
 <b>Droitwitch</b> ['drå^itw<sub>i</sub>t∫], By i det vestlige
@@ -58,7 +60,8 @@ Farce; deraf Benævnelse paa de stærkt
 fantastiske, barokt komiske, skitsemæssige
 Fremstillinger i Middelalderens Miniaturmaleri, af
 Fabelvæsener, Skikkelser, halvt Dyr, halvt
-Mennesker o. l.</chapter>
+Mennesker o. l.
+</chapter>
 
 <chapter name="Drolling, Michel Martin">
 <b>Drolling</b> [drå'læ] (<sp>Drölling</sp>), <sp>Michel
@@ -150,7 +153,8 @@ biblioteksväsen«, Bd I, 1914).
 </chapter>
 
 <chapter name="Dromandri">
-<b>Dromandri,</b> sygelig Vandredrift.</chapter>
+<b>Dromandri,</b> sygelig Vandredrift.
+</chapter>
 
 <chapter name="Drôme">
 <b>Drôme</b> [dro.m], en 102 km lang Flod i det

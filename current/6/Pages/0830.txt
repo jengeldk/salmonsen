@@ -68,13 +68,16 @@ af sit Liv. (<sp>Litt</sp>.: <sp>Fr. Schiøtt</sp>,
 </chapter>
 
 <chapter name="Eijub">
-<b>Eijub,</b> d. s. s. <sp>Ejjub</sp>.</chapter>
+<b>Eijub,</b> d. s. s. <sp>Ejjub</sp>.
+</chapter>
 
 <chapter name="Eijubider">
-<b>Eijubider,</b> d. s. s. <sp>Ejjubider</sp>.</chapter>
+<b>Eijubider,</b> d. s. s. <sp>Ejjubider</sp>.
+</chapter>
 
 <chapter name="Eikisdalen">
-<b>Eikisdalen</b> ['æj-], se <sp>Eresfjord</sp> (Herred).</chapter>
+<b>Eikisdalen</b> ['æj-], se <sp>Eresfjord</sp> (Herred).
+</chapter>
 
 <chapter name="Eikonogen">
 <b>Eikonogen</b> [aj-],
@@ -94,10 +97,12 @@ knudrede Takker.
 </chapter>
 
 <chapter name="Eilau">
-<b>Eilau</b> ['a^ila^u], se <sp>Eylau</sp>.</chapter>
+<b>Eilau</b> ['a^ila^u], se <sp>Eylau</sp>.
+</chapter>
 
 <chapter name="Eilbeck">
-<b>Eilbeck</b> ['a^il-], Forstad til <sp>Hamburg</sp>.</chapter>
+<b>Eilbeck</b> ['a^il-], Forstad til <sp>Hamburg</sp>.
+</chapter>
 
 <chapter name="Eileithyia">
 <b>Eileithyia</b> [æjlæj'ty<sub>i</sub>ja], oldgr. Gudinde, som

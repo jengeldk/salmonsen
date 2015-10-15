@@ -15,12 +15,14 @@ skal en af disse kromatisk forandres, antydes
 det ved et ♯, ♭, [*] o. s. v. over eller under
 Tegnet, alt efter som det gælder Over- ell.
 Undersekunden:
-<i>S. L.</i>
 
-<img></img></chapter>
+<img></img>
+<i>S. L.</i>
+</chapter>
 
 <chapter name="Dobbeltspat">
-<b>Dobbeltspat,</b> se <sp>Kalkspat</sp>.</chapter>
+<b>Dobbeltspat,</b> se <sp>Kalkspat</sp>.
+</chapter>
 
 <chapter name="dobbelt Splint">
 <b>dobbelt Splint</b> forekommer navnlig hos
@@ -34,7 +36,8 @@ Svampeangreb. Slige Splintringe raadner let.
 </chapter>
 
 <chapter name="Dobbeltspove">
-<b>Dobbeltspove,</b> se <sp>Regnspove</sp>.</chapter>
+<b>Dobbeltspove,</b> se <sp>Regnspove</sp>.
+</chapter>
 
 <chapter name="Dobbeltstjerner">
 <b>Dobbeltstjerner</b> kaldes de Fiksstjerner, der

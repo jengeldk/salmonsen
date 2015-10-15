@@ -7,7 +7,8 @@ Kapellet paa Skt Bernhard. (<sp>Litt.</sp>: <sp>Deprez</sp>,
 </chapter>
 
 <chapter name="de Sanctis">
-<b>de Sanctis,</b> se <sp>Sanctis</sp>.</chapter>
+<b>de Sanctis,</b> se <sp>Sanctis</sp>.
+</chapter>
 
 <chapter name="Desargues, Girard">
 <b>Desargues</b> [dæ'zarg], <sp>Girard</sp>, fr.

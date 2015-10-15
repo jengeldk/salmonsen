@@ -56,7 +56,8 @@ til Harpestreng.
 </chapter>
 
 <chapter name="Constantinus, se Konstantin">
-<b>Constantinus,</b> se <sp>Konstantin</sp>.</chapter>
+<b>Constantinus,</b> se <sp>Konstantin</sp>.
+</chapter>
 
 <chapter name="Constantius I, Flavius Valerius">
 <b>Constantius I,</b> <sp>Flavius Valerius</sp> (med
@@ -146,7 +147,8 @@ Ovid's Forvisningssted <sp>Tomi</sp>.
 
 <chapter name="Constipantia">
 <b>Constipantia,</b> d. s. s. <i>Obstipantia</i>,
-Stoppemidler.</chapter>
+Stoppemidler.
+</chapter>
 
 <chapter name="Constitución">
 <b>Constitución</b> [-'s<sub>i</sub>ån] (tidligere <sp>Nueva

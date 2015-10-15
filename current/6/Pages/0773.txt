@@ -4,10 +4,12 @@ Biografi ved <sp>S. E. Dwigth</sp> [4 Bd, New York
 </chapter>
 
 <chapter name="Edwardsia">
-<b>Edwardsia</b> [ed'wə.dz<sub>i</sub>a], se <sp>Sophora</sp>.</chapter>
+<b>Edwardsia</b> [ed'wə.dz<sub>i</sub>a], se <sp>Sophora</sp>.
+</chapter>
 
 <chapter name="Edwardsit">
-<b>Edwardsit</b> [edwəd-], d. s. s. <sp>Monazit</sp>.</chapter>
+<b>Edwardsit</b> [edwəd-], d. s. s. <sp>Monazit</sp>.
+</chapter>
 
 <chapter name="Edwardsville">
 <b>Edwardsville</b> ['edwədzv<sub>i</sub>£], By i U. S. A.,

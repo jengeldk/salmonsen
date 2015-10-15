@@ -119,7 +119,8 @@ Musklerne ikke er lammede.
 </chapter>
 
 <chapter name="Dysprosium">
-<b>Dysprosium,</b> se <sp>Jordarter</sp>, <sp>sjældne</sp>.</chapter>
+<b>Dysprosium,</b> se <sp>Jordarter</sp>, <sp>sjældne</sp>.
+</chapter>
 
 <chapter name="Dysse">
 <b>Dysse</b> (hertil en Tavle) (af isl. <i>dy</i>s, en Gravhøj;

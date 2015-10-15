@@ -44,10 +44,12 @@ rødt i Sæbebad.
 
 <chapter name="Delta-Straaler">
 <b>Delta-Straaler</b> (<sp>δ-Straaler</sp>), se
-<sp>Radioaktivitet</sp>.</chapter>
+<sp>Radioaktivitet</sp>.
+</chapter>
 
 <chapter name="deltoideus">
-<b>deltoideus,</b> se <sp>Deltamusklen</sp>.</chapter>
+<b>deltoideus,</b> se <sp>Deltamusklen</sp>.
+</chapter>
 
 <chapter name="Deluc, Jean André">
 <b>Deluc</b> [d<sub>ö</sub>'lyk], <sp>Jean André</sp>, schweizisk

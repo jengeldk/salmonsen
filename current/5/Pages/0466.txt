@@ -131,7 +131,8 @@ egner sig til Udførsel; de muskatagtige Sødvine,
 </chapter>
 
 <chapter name="Dalmatisk Hund">
-<b>Dalmatisk Hund,</b> se <sp>Hunde</sp>.</chapter>
+<b>Dalmatisk Hund,</b> se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Dalmatius">
 <b>Dalmatius</b> (ogsaa kaldet <sp>Delmatius</sp>),
@@ -162,5 +163,6 @@ Skjelskør-Næstved.
 </chapter>
 
 <chapter name="Dalni">
-<b>Dalni</b> ['dal<sub>i</sub>n<sub>i</sub>], se <sp>Talien</sp>.</chapter>
+<b>Dalni</b> ['dal<sub>i</sub>n<sub>i</sub>], se <sp>Talien</sp>.
+</chapter>
 

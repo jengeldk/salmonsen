@@ -64,13 +64,15 @@ paa pianistisk Kraftudfoldelse og bred motivisk
 Udvikling, danner de et betydningsfuldt
 Overgangsled mellem Mozart's og Beethoven's
 Klaversonater.
-<i>W. B.</i>
 
-<img>M. Clementi.</img></chapter>
+<img>M. Clementi.</img>
+<i>W. B.</i>
+</chapter>
 
 <chapter name="Clementi, Prospero">
 <b>Clementi</b> [kle'mænti], <sp>Prospero</sp>, italiensk
-Billedhugger, se <sp>Spani</sp>.</chapter>
+Billedhugger, se <sp>Spani</sp>.
+</chapter>
 
 <chapter name="Clementia">
 <b>Clementia</b> (lat.), »Mildhed«, hos Romerne

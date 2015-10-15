@@ -53,10 +53,12 @@ Lufttryk.
 </chapter>
 
 <chapter name="Cyklone">
-<b>Cyklone,</b> se <sp>Støvsamler</sp>.</chapter>
+<b>Cyklone,</b> se <sp>Støvsamler</sp>.
+</chapter>
 
 <chapter name="Cyklopflynder">
-<b>Cyklopflynder,</b> se <sp>Flynderfisk</sp>.</chapter>
+<b>Cyklopflynder,</b> se <sp>Flynderfisk</sp>.
+</chapter>
 
 <chapter name="Cyklopi">
 <b>Cyklopi,</b> medfødt Misdannelse, hvor de 2
@@ -80,7 +82,8 @@ Odysseus.
 </chapter>
 
 <chapter name="Cyklorama">
-<b>Cyklorama</b> (gr.), se <sp>Panorama</sp>.</chapter>
+<b>Cyklorama</b> (gr.), se <sp>Panorama</sp>.
+</chapter>
 
 <chapter name="Cyklus">
 <b>Cyklus</b> (lat. <i>circulus</i>, gr. κύκλος), 1)

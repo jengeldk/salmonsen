@@ -87,7 +87,8 @@ næsthøjeste Punkt, Kobanke, ligger.
 
 <chapter name="Dystoki">
 <b>Dystoki</b> (gr.), vanskelig, abnorm Fødsel
-(modsat <sp>Eutoki</sp>).</chapter>
+(modsat <sp>Eutoki</sp>).
+</chapter>
 
 <chapter name="Dystoksi">
 <b>Dystoksi</b> (gr.) (<i>Dystoxia agitans</i>,
@@ -98,14 +99,17 @@ ved Pirringstilstand af Rygmarven.
 
 <chapter name="Dystopi">
 <b>Dystopi</b> (gr.), Lejeforandring af Organerne,
-enten medfødt ell. paaført, men blivende.</chapter>
+enten medfødt ell. paaført, men blivende.
+</chapter>
 
 <chapter name="Dystridt">
-<b>Dystridt,</b> se <sp>Ridderspil</sp>.</chapter>
+<b>Dystridt,</b> se <sp>Ridderspil</sp>.
+</chapter>
 
 <chapter name="Dystrofi">
 <b>Dystrofi</b> (gr.), daarlig, mangelfuld Ernæring
-af Vævsdele (smlg. <sp>Atrofi</sp>).</chapter>
+af Vævsdele (smlg. <sp>Atrofi</sp>).
+</chapter>
 
 <chapter name="Dysuri">
 <b>Dysuri</b> (gr.), Vanskelighed ved
@@ -120,7 +124,8 @@ væsentlige Aarsager til D., syn. <sp>Ischuri</sp>.
 </chapter>
 
 <chapter name="Dysæmi">
-<b>Dysæmi</b> (gr.), sygelig Tilstand af Blodet.</chapter>
+<b>Dysæmi</b> (gr.), sygelig Tilstand af Blodet.
+</chapter>
 
 <chapter name="Dysæstesi">
 <b>Dysæstesi</b> (gr.), alm. Betegnelse for
@@ -132,7 +137,8 @@ Fornemmelse.
 </chapter>
 
 <chapter name="Dytiscidæ, Dytiscus">
-<b>Dytiscidæ, Dytiscus,</b> se <sp>Vandkalve</sp>.</chapter>
+<b>Dytiscidæ, Dytiscus,</b> se <sp>Vandkalve</sp>.
+</chapter>
 
 <chapter name="Dütsch, Otto Johan Anton">
 <b>Dütsch</b> [dytsj], <sp>Otto Johan Anton</sp>, dansk

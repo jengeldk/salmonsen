@@ -31,7 +31,8 @@ Fjeldegne.
 
 <chapter name="Dar-el-Beïda">
 <b>Dar-el-Beïda,</b> det arab. Navn paa
-<sp>Casablanca</sp>.</chapter>
+<sp>Casablanca</sp>.
+</chapter>
 
 <chapter name="Daremberg, Charles Victor">
 <b>Daremberg</b> [darã'bærg ell. -'bæ.r?],
@@ -73,7 +74,8 @@ Sagn. Udg. af <sp>Meister</sp> (1873).
 
 <chapter name="Dar-es-Salâm, (Fredens Hus)">
 <b>Dar-es-Salâm</b> [-'la.m] (Fredens Hus), gl.
-Tilnavn for Byen Bagdad.</chapter>
+Tilnavn for Byen Bagdad.
+</chapter>
 
 <chapter name="Dar-es-Salâm, »Fredens Havn«">
 <b>Dar-es-Salâm</b> [-la.m] »Fredens Havn«,

@@ -114,7 +114,8 @@ Tømmer. (1911) 16061 Indb.
 </chapter>
 
 <chapter name="Dumka">
-<b>Dumka,</b> se <sp>Duma</sp>.</chapter>
+<b>Dumka,</b> se <sp>Duma</sp>.
+</chapter>
 
 <chapter name="Dumonceau, Jean Baptiste">
 <b>Dumonceau</b> [dymå'so], <sp>Jean Baptiste</sp>,

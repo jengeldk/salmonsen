@@ -12,7 +12,8 @@ den ital. Koloni Eritrea.
 
 <chapter name="ed., Forkortelse">
 <b>ed.,</b> Forkortelse for <i>editio</i> (lat), Udgave af
-en Bog, og for <i>edidit</i> (s. d.); <sp>edd.</sp> for <i>ediderunt</i>.</chapter>
+en Bog, og for <i>edidit</i> (s. d.); <sp>edd.</sp> for <i>ediderunt</i>.
+</chapter>
 
 <chapter name="edafisk">
 <b>edafisk</b> (<sp>bot</sp>.), et i Plantegeografien af A.

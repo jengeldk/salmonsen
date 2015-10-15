@@ -35,7 +35,8 @@ hesperiske Drage for Børn af E.
 </chapter>
 
 <chapter name="Echidna, se Næbdyr">
-<b>Echidna</b> [-kid-], se <sp>Næbdyr</sp>.</chapter>
+<b>Echidna</b> [-kid-], se <sp>Næbdyr</sp>.
+</chapter>
 
 <chapter name="Echinader">
 <b>Echinader</b> [-ki-] hed i Oldtiden en Gruppe
@@ -47,7 +48,8 @@ landfaste.
 </chapter>
 
 <chapter name="Echinidæ">
-<b>Echinidæ</b> [-ki-], se <sp>Søpindsvin</sp>.</chapter>
+<b>Echinidæ</b> [-ki-], se <sp>Søpindsvin</sp>.
+</chapter>
 
 <chapter name="Echinocactus">
 <b>Echinocactus</b> [-ki-] Lk. et Otto, Slægt af
@@ -135,5 +137,6 @@ Ribber, den sidste indtil 18.
 </chapter>
 
 <chapter name="Echinochloë">
-<b>Echinochloë</b> [-ki-klo-], se <sp>Hanespore</sp>.</chapter>
+<b>Echinochloë</b> [-ki-klo-], se <sp>Hanespore</sp>.
+</chapter>
 

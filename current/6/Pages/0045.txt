@@ -72,7 +72,8 @@ nedbrudt.
 <chapter name="déroute">
 <b>déroute</b> [de'rut] (fr.), Afvej; Forstyrrelse;
 Nederlag, navnlig en slagen, sprængt Hærs
-vilde Flugt.</chapter>
+vilde Flugt.
+</chapter>
 
 <chapter name="Derr">
 <b>Derr</b> (egl. = Dêr ɔ: Kloster) er Navnet paa
@@ -99,7 +100,8 @@ Satinerepressen og en Maskine til Musiksats.
 </chapter>
 
 <chapter name="Derry">
-<b>Derry</b> ['der<sub>i</sub>], se <sp>Londonderry</sp>.</chapter>
+<b>Derry</b> ['der<sub>i</sub>], se <sp>Londonderry</sp>.
+</chapter>
 
 <chapter name="Deruta">
 <b>Deruta,</b> By i Mellemitalien, Prov. Perugia,

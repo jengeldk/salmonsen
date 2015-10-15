@@ -30,7 +30,8 @@ Embedsmanden, der herefter gentog den.
 2) en Bogs Tilegnelse til en Person, hvis
 Anbefaling Forf. vil vinde, ell. som han mener
 at skylde Tak ell. af andre Grunde at burde
-vise Opmærksomhed.</chapter>
+vise Opmærksomhed.
+</chapter>
 
 <chapter name="Dedinovo">
 <b>Dedinovo</b> [de'di<sub>i</sub>n<sub>å</sub>v<sub>å</sub>] (ogsaa
@@ -89,11 +90,13 @@ og store, Kronen tilhørende, Saltværker.
 
 <chapter name="dedommagere">
 <b>dedommagere</b> [-sje'r<sub>ə</sub>] (fr.), holde
-skadesløs, godtgøre, erstatte.</chapter>
+skadesløs, godtgøre, erstatte.
+</chapter>
 
 <chapter name="deducere">
 <b>deducere,</b> udlede, udvikle følgerigtigt,
-bevise. Jvf. <sp>Deduktion</sp>.</chapter>
+bevise. Jvf. <sp>Deduktion</sp>.
+</chapter>
 
 <chapter name="deductio ad absurdum">
 <b>deductio ad absurdum</b> (lat.) betegner den
@@ -162,12 +165,14 @@ Guajactinktur-Terpentinprøve for Blod i Urin.
 </chapter>
 
 <chapter name="Deerhound">
-<b>Deerhound</b> ['di.<sub>ə</sub>ha^und], se <sp>Hunde</sp>.</chapter>
+<b>Deerhound</b> ['di.<sub>ə</sub>ha^und], se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Deer Isle">
 <b>Deer Isle</b> ['di.<sub>ə</sub>-a^i£], By i U. S. A., Stat
 Maine, ligger paa Øer i Penobscottbai og
-driver betydeligt Fiskeri. (1910) 3000 Indb.</chapter>
+driver betydeligt Fiskeri. (1910) 3000 Indb.
+</chapter>
 
 <chapter name="Deer Lodge">
 <b>Deer Lodge</b> ['di.<sub>ə</sub>-'£ådз], By i U. S. A., Stat
@@ -189,7 +194,8 @@ Silkevæverier samt Korn- og Kvægavl.
 
 <chapter name="de facto">
 <b>de facto</b> (lat.), i Virkeligheden, faktisk.
-Modsat <sp>de jure</sp> (s. d.).</chapter>
+Modsat <sp>de jure</sp> (s. d.).
+</chapter>
 
 <chapter name="de facto Regering">
 <b>de facto Regering</b> kaldes en Regering,

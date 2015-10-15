@@ -109,7 +109,8 @@ bestemt Forhold til hinanden.
 
 <chapter name="Dobbeltbilledmikrometer">
 <b>Dobbeltbilledmikrometer,</b> se
-<sp>Mikrometer</sp>.</chapter>
+<sp>Mikrometer</sp>.
+</chapter>
 
 <chapter name="Dobbeltbrydning">
 <b>Dobbeltbrydning,</b> den særegne Maade,

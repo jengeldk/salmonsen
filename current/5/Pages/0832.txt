@@ -54,7 +54,8 @@ en stærk Halvblodshest. Se <sp>Heste</sp>.
 </chapter>
 
 <chapter name="Danske Kancelli">
-<b>Danske Kancelli,</b> se <sp>Kancelli</sp>.</chapter>
+<b>Danske Kancelli,</b> se <sp>Kancelli</sp>.
+</chapter>
 
 <chapter name="Danske Kronregalier">
 <b>Danske Kronregalier</b> (hertil 1 farvetrykt

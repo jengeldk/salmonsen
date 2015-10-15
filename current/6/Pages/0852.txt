@@ -40,7 +40,8 @@ Bagsiden den samtidige Kalifs Navn.
 </chapter>
 
 <chapter name="Ejjub-Khan">
-<b>Ejjub-Khan,</b> d. s. s. <sp>Ejub-Khan</sp>.</chapter>
+<b>Ejjub-Khan,</b> d. s. s. <sp>Ejub-Khan</sp>.
+</chapter>
 
 <chapter name="Ejkeviken">
 <b>Ejkeviken</b> [æ^i-], Bugt paa Nordsiden af Fårø
@@ -51,11 +52,13 @@ ankre i 7 til 10 m Vand.
 
 <chapter name="Ejler">
 <b>Ejler,</b> dansk Mandsnavn, indvandret i
-Middelalderen fra Tysk.</chapter>
+Middelalderen fra Tysk.
+</chapter>
 
 <chapter name="Ejsengarn">
 <b>Ejsengarn,</b> stærkt appreteret, glinsende
-Bomuldsgarn, bleget ell., oftest, sortfarvet.</chapter>
+Bomuldsgarn, bleget ell., oftest, sortfarvet.
+</chapter>
 
 <chapter name="Ejub Khan">
 <b>Ejub Khan,</b> afghansk Prins, Søn af Shir-Ali
@@ -117,7 +120,8 @@ forsk. Koncerter.
 
 <chapter name="Ekaterinburg">
 <b>Ekaterinburg</b> [j<sub>e</sub>k<sub>a</sub>tj<sub>e</sub>rin'burk], se
-<sp>Jekaterinburg</sp>.</chapter>
+<sp>Jekaterinburg</sp>.
+</chapter>
 
 <chapter name="Ekbatana">
 <b>Ekbatana,</b> gr. Navn paa en Hovedstad i

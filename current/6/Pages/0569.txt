@@ -12,7 +12,8 @@ konventionelt klassiske): »Hermione« og »Alastor«
 </chapter>
 
 <chapter name="Durham-Kvæg">
-<b>Durham-Kvæg</b> ['dar<sub>ə</sub>m], se <sp>Kvægracer</sp>.</chapter>
+<b>Durham-Kvæg</b> ['dar<sub>ə</sub>m], se <sp>Kvægracer</sp>.
+</chapter>
 
 <chapter name="Durio Linn.">
 <b>Durio</b> Linn., Slægt af Bombacaceer med 7
@@ -156,7 +157,8 @@ Groszherzogthum Baden« (sammen med flere 1887).
 </chapter>
 
 <chapter name="Durmitor">
-<b>Durmitor,</b> se <sp>Dormitor</sp>.</chapter>
+<b>Durmitor,</b> se <sp>Dormitor</sp>.
+</chapter>
 
 <chapter name="Durnovo, Ivan Nikolajevitsch">
 <b>Durnovo</b> [dur'nåv<sub>å</sub>], <sp>Ivan

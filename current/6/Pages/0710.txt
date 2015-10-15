@@ -70,7 +70,8 @@ E. blev lagt Forbandelsen over troløse Israeliter
 <chapter name="Ebauche">
 <b>Ebauche</b> [e'bo.∫] (fr.), det første flygtige
 Udkast til en Tegning, et Maleri, en
-Afhandling; <sp>ebauchere</sp>, gøre et Udkast.</chapter>
+Afhandling; <sp>ebauchere</sp>, gøre et Udkast.
+</chapter>
 
 <chapter name="Ebbe">
 <b>Ebbe,</b> dansk og sv. Navn (tysk <sp>Ebbo</sp>,
@@ -143,13 +144,16 @@ Trondhjem.
 
 <chapter name="Ebberødgaard">
 <b>Ebberødgaard,</b> se
-<sp>Aandssvageanstalter</sp>.</chapter>
+<sp>Aandssvageanstalter</sp>.
+</chapter>
 
 <chapter name="Ebbesen, Niels">
-<b>Ebbesen,</b> <sp>Niels</sp>, se <sp>Niels E</sp>.</chapter>
+<b>Ebbesen,</b> <sp>Niels</sp>, se <sp>Niels E</sp>.
+</chapter>
 
 <chapter name="Ebbesøn, Sune">
-<b>Ebbesøn,</b> <sp>Sune</sp>, se <sp>Sune E</sp>.</chapter>
+<b>Ebbesøn,</b> <sp>Sune</sp>, se <sp>Sune E</sp>.
+</chapter>
 
 <chapter name="Ebbe Skammelsøn">
 <b>Ebbe Skammelsøn,</b> Helten i en dansk og

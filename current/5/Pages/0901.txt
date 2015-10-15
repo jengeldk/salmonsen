@@ -81,7 +81,8 @@ Brystet.
 </chapter>
 
 <chapter name="Dasra og Nasatya">
-<b>Dasra</b> og <b>Nasatya</b>, se <sp>Açvin</sp>.</chapter>
+<b>Dasra</b> og <b>Nasatya</b>, se <sp>Açvin</sp>.
+</chapter>
 
 <chapter name="Dass, Benjamin">
 <b>Dass,</b> <sp>Benjamin</sp>, norsk Skolemand,

@@ -130,7 +130,8 @@ Stenkuls- og Jerngruber.
 </chapter>
 
 <chapter name="Dalkulla">
-<b>Dalkulla,</b> Kvinde fra Dalarne i Sverige.</chapter>
+<b>Dalkulla,</b> Kvinde fra Dalarne i Sverige.
+</chapter>
 
 <chapter name="Dall, William Healey">
 <b>Dall</b> [dä£], <sp>William Healey</sp>, amer.

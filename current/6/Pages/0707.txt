@@ -42,7 +42,8 @@ Raderinger - i alt c. 70 - er fortræffelige.
 </chapter>
 
 <chapter name="East-Avon">
-<b>East-Avon</b> ['i.st-'e<sub>i</sub>vn], se <sp>Avon</sp>.</chapter>
+<b>East-Avon</b> ['i.st-'e<sub>i</sub>vn], se <sp>Avon</sp>.
+</chapter>
 
 <chapter name="East Barnet Valley">
 <b>East Barnet Valley</b> [i'st-'ba.<sub>ə</sub>n<sub>i</sub>t-'vä£<sub>i</sub>], By
@@ -68,7 +69,8 @@ Langley.
 </chapter>
 
 <chapter name="East-Cowes">
-<b>East-Cowes</b> ['i.st-'ka^uz], se <sp>Cowes</sp>.</chapter>
+<b>East-Cowes</b> ['i.st-'ka^uz], se <sp>Cowes</sp>.
+</chapter>
 
 <chapter name="Easterling">
 <b>Easterling</b> ['i.stə&<sub>i</sub>ŋ], senere <i>Sterling</i>, eng.
@@ -86,7 +88,8 @@ Vinklerne paa den anden Side. Jfr <sp>Sterling</sp>.
 
 <chapter name="East-Galloway">
 <b>East-Galloway</b> ['i.st-'gä£<sub>ə</sub>we<sub>i</sub>], se
-<sp>Kirkcudbrightshire</sp>.</chapter>
+<sp>Kirkcudbrightshire</sp>.
+</chapter>
 
 <chapter name="East-Grinstead">
 <b>East-Grinstead</b> ['i.st-'grinst<sub>e</sub>d], gl By i det

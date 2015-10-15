@@ -46,7 +46,8 @@ Strejkeuroligheder.
 </chapter>
 
 <chapter name="cours">
-<b>cours</b> [ku.r], se <sp>Kurs</sp>.</chapter>
+<b>cours</b> [ku.r], se <sp>Kurs</sp>.
+</chapter>
 
 <chapter name="Cours">
 <b>Cours</b> [ku.r], By i det østlige Frankrig, Dept

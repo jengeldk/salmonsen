@@ -74,10 +74,12 @@ Skyld.
 
 <chapter name="diheksagonale Prismer og Pyramider">
 <b>diheksagonale Prismer og Pyramider,</b> se
-<sp>Krystalformer</sp> (heksagonale System).</chapter>
+<sp>Krystalformer</sp> (heksagonale System).
+</chapter>
 
 <chapter name="Dihong">
-<b>Dihong,</b> se <sp>Brahmaputra</sp>.</chapter>
+<b>Dihong,</b> se <sp>Brahmaputra</sp>.
+</chapter>
 
 <chapter name="Dihydrit">
 <b>Dihydrit,</b> Mineral, er et basisk Kobberfosfat
@@ -111,7 +113,8 @@ Cornwall o. a. St.
 <chapter name="Dihydro-Thenardit">
 <b>Dihydro-Thenardit</b> [-te-] ansaas tidligere
 for et selvstændigt Mineral, men har vist sig at
-være en Blanding af Thenardit og Blödit.</chapter>
+være en Blanding af Thenardit og Blödit.
+</chapter>
 
 <chapter name="Diipolia">
 <b>Diipolia</b> [ell. -'li.a], attisk Fest, som
@@ -141,7 +144,8 @@ antik Versefod: [*u-u-*], ofte varieret til
 </chapter>
 
 <chapter name="Dijck, A. van">
-<b>Dijck,</b> <sp>A. van</sp> [-fan-'dæ^ik], d. s. s. <sp>Dyck</sp>.</chapter>
+<b>Dijck,</b> <sp>A. van</sp> [-fan-'dæ^ik], d. s. s. <sp>Dyck</sp>.
+</chapter>
 
 <chapter name="Dijmphna-Ekspeditionen">
 <b>Dijmphna-Ekspeditionen</b> ['dæ^imfna-] i

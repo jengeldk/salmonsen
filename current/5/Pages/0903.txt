@@ -29,10 +29,12 @@ Efter at Perserne her var blevet slagne af
 Athenæerne under Miltiades, søgte D. endnu at
 overrumple Athen fra Søsiden, men da det
 mislykkedes, maatte han opgive Toget.
-(<i>(M. M.). H. H. R.</i></chapter>
+<i>(M. M.). H. H. R.</i>
+</chapter>
 
 <chapter name="Datisca">
-<b>Datisca,</b> se <sp>Datiscaceæ</sp>.</chapter>
+<b>Datisca,</b> se <sp>Datiscaceæ</sp>.
+</chapter>
 
 <chapter name="Datiscaceæ">
 <b>Datiscaceæ,</b> liden Fam. af tokimbladede og
@@ -61,7 +63,8 @@ cannabina</i> dyrkes i danske Haver som Prydplante.
 </chapter>
 
 <chapter name="Datiscetin">
-<b>Datiscetin,</b> se <sp>Datiscin</sp>.</chapter>
+<b>Datiscetin,</b> se <sp>Datiscin</sp>.
+</chapter>
 
 <chapter name="Datiscin">
 <b>Datiscin,</b> et Glykosid, der forekommer i
@@ -80,11 +83,13 @@ uopløselige i Vand.
 </chapter>
 
 <chapter name="Dativ">
-<b>Dativ,</b> se <sp>Kasus</sp>.</chapter>
+<b>Dativ,</b> se <sp>Kasus</sp>.
+</chapter>
 
 <chapter name="dato">
 <b>dato</b> (ital., af lat. <i>dátum</i>), idag; <i>a dáto</i> (s.
-d.); <sp>til d.</sp>, til denne Dag.</chapter>
+d.); <sp>til d.</sp>, til denne Dag.
+</chapter>
 
 <chapter name="Datolit">
 <b>Datolit,</b> Mineral af Sammensætning HCaB
@@ -110,7 +115,8 @@ til Kalcedon.
 </chapter>
 
 <chapter name="Datoveksel">
-<b>Datoveksel,</b> se <sp>a dato</sp>.</chapter>
+<b>Datoveksel,</b> se <sp>a dato</sp>.
+</chapter>
 
 <chapter name="Dattatreya">
 <b>Dattatreya</b> ell. <sp>Datta</sp>, i den ind.

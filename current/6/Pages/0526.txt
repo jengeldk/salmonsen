@@ -69,7 +69,8 @@ hist.</i> Marts-April 1886]).
 </chapter>
 
 <chapter name="Dugpunkt">
-<b>Dugpunkt,</b> se <sp>Dug</sp>.</chapter>
+<b>Dugpunkt,</b> se <sp>Dug</sp>.
+</chapter>
 
 <chapter name="Duguay-Trouin, Réné">
 <b>Duguay-Trouin</b> [dy'gæ-tru'æ], <sp>Réné</sp>, fr.

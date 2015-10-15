@@ -24,14 +24,16 @@ Succes.
 </chapter>
 
 <chapter name="Dennewitz, se Bülow, F. W.">
-<b>Dennewitz</b> ['dæn<sub>ə</sub>vits], se <sp>Bülow, F. W.</sp></chapter>
+<b>Dennewitz</b> ['dæn<sub>ə</sub>vits], se <sp>Bülow, F. W.</sp>
+</chapter>
 
 <chapter name="Dennewitz, Flække">
 <b>Dennewitz</b> ['dæn<sub>ə</sub>vits], Flække i det preuss.
 Regeringsdistrikt Potsdam, 320 Indb. Den har
 et Monument til Minde om den Sejr,
 Preusserne under General Bülow vandt 6. Septbr 1813
-over Franskmændene under Marskal Ney.</chapter>
+over Franskmændene under Marskal Ney.
+</chapter>
 
 <chapter name="Denning, William Frederick">
 <b>Denning</b> ['den<sub>i</sub>ŋ], <sp>William Frederick</sp>
@@ -72,11 +74,13 @@ til at mindes ham.
 
 <chapter name="denobilitere">
 <b>denobilitere</b> (nylat.), fratage Adelsrang;
-<sp>Denobilitation</sp>, Berøvelse af Adelskab.</chapter>
+<sp>Denobilitation</sp>, Berøvelse af Adelskab.
+</chapter>
 
 <chapter name="denominandi jus">
 <b>denominandi jus,</b> Denominationsret, Ret til
-at indstille Kandidater til et ledigt Embede.</chapter>
+at indstille Kandidater til et ledigt Embede.
+</chapter>
 
 <chapter name="Denominativum">
 <b>Denominativum</b> (Plur. <i>Denominativa</i>) er i
@@ -121,7 +125,8 @@ Anførelse af selve Navnet, dels ved Omskrivning,
 idet et andet Navn sættes i St f. vedk. Persons
 ell. Sags eget Navn, f. Eks. »Korsikaneren« i
 St f. Napoleon, »Bacchus« i St f. Vin, »Peliden«
-for Achilleus.</chapter>
+for Achilleus.
+</chapter>
 
 <chapter name="Denon, Dominique Vivant">
 <b>Denon</b> [d<sub>ö</sub>'nå], <sp>Dominique Vivant</sp>,
@@ -150,17 +155,21 @@ originale de V. D. Collection de 300 eaux-fortes
 </chapter>
 
 <chapter name="de novo">
-<b>de novo</b> (lat.), paa ny.</chapter>
+<b>de novo</b> (lat.), paa ny.
+</chapter>
 
 <chapter name="Dens">
 <b>Dens,</b> <sp>Tand</sp>. <i>D. epistrofeï</i>, se
-<sp>Hvirvelsøjlen</sp>.</chapter>
+<sp>Hvirvelsøjlen</sp>.
+</chapter>
 
 <chapter name="Densimeter">
-<b>Densimeter,</b> se <sp>Aræometer</sp>.</chapter>
+<b>Densimeter,</b> se <sp>Aræometer</sp>.
+</chapter>
 
 <chapter name="Densitet">
-<b>Densitet</b> (lat.), Tæthed.</chapter>
+<b>Densitet</b> (lat.), Tæthed.
+</chapter>
 
 <chapter name="Densusianu, Nikolaus">
 <b>Densusianu</b> [denzu'∫<sub>i</sub>anu], <sp>Nikolaus</sp>,

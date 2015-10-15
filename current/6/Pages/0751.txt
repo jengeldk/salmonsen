@@ -106,10 +106,12 @@ Død (4. Oktbr 1915) det frisindede Partis Fører.
 </chapter>
 
 <chapter name="Edenit">
-<b>Edenit,</b> se <sp>Amfibolgruppen</sp>.</chapter>
+<b>Edenit,</b> se <sp>Amfibolgruppen</sp>.
+</chapter>
 
 <chapter name="Edentata">
-<b>Edentata,</b> se <sp>Gumlere</sp>.</chapter>
+<b>Edentata,</b> se <sp>Gumlere</sp>.
+</chapter>
 
 <chapter name="Eder, Flod">
 <b>Eder</b> ['e.d<sub>ə</sub>r] eller Edder, Flod i Tyskland,
@@ -153,7 +155,8 @@ af Intensiteten af de ultraviolette Straaler.
 </chapter>
 
 <chapter name="Ederdun">
-<b>Ederdun,</b> se <sp>Ederfugl</sp>.</chapter>
+<b>Ederdun,</b> se <sp>Ederfugl</sp>.
+</chapter>
 
 <chapter name="Ederfugl">
 <b>Ederfugl</b> (<i>Somateria</i>), en af kun 2 Arter af

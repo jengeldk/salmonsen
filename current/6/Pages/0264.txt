@@ -37,13 +37,16 @@ Fredagen kaldes derfor <i>Jôm el-D.</i>, paa Tyrkisk
 </chapter>
 
 <chapter name="Djungari">
-<b>Djungari,</b> se <sp>Dsungari</sp>.</chapter>
+<b>Djungari,</b> se <sp>Dsungari</sp>.
+</chapter>
 
 <chapter name="Djungel">
-<b>Djungel,</b> d. s. s. <sp>Djangal</sp>.</chapter>
+<b>Djungel,</b> d. s. s. <sp>Djangal</sp>.
+</chapter>
 
 <chapter name="Djunke">
-<b>Djunke,</b> se <sp>Djonke</sp>.</chapter>
+<b>Djunke,</b> se <sp>Djonke</sp>.
+</chapter>
 
 <chapter name="Djupafors">
 <b>Djupafors</b> ['ju.pafå<sub>r</sub>s], lille Vandfald i det

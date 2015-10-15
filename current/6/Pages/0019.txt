@@ -70,7 +70,8 @@ fra 17. Marts til 9. Apr. 1713 og fra 3. Novbr
 
 <chapter name="demotisk">
 <b>demotisk</b> (gr.), folkelig, national; <sp>d. Skrift</sp>,
-se <sp>hieratisk Skrift</sp>.</chapter>
+se <sp>hieratisk Skrift</sp>.
+</chapter>
 
 <chapter name="Demours, 1) Pierre, 2) Antoine Pierre">
 <b>Demours</b> [d<sub>ö</sub>mu.r], 1) <sp>Pierre</sp>, fr.
@@ -142,7 +143,8 @@ Fradrag.
 
 <chapter name="Demurrage">
 <b>Demurrage</b> [d<sub>i</sub>'mar<sub>i</sub>dз] (eng.), se
-<sp>Liggedage</sp>.</chapter>
+<sp>Liggedage</sp>.
+</chapter>
 
 <chapter name="Demuth, Leopold">
 <b>Demuth</b> ['de.mu.t], <sp>Leopold</sp>, tysk

@@ -94,7 +94,8 @@ mange Elsassere til D.
 </chapter>
 
 <chapter name="Dikabrød">
-<b>Dikabrød,</b> se <sp>Dikafedt</sp>.</chapter>
+<b>Dikabrød,</b> se <sp>Dikafedt</sp>.
+</chapter>
 
 <chapter name="Dikafedt">
 <b>Dikafedt,</b> <sp>Adika</sp>, et Fedtstof, faas af

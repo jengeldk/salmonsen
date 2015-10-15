@@ -114,11 +114,13 @@ frugtbart Landskab, Sæde for Efraim Stamme.
 </chapter>
 
 <chapter name="Efraïm Syrer">
-<b>Efraïm Syrer,</b> d. s. s. <sp>Afrem Syrer</sp>.</chapter>
+<b>Efraïm Syrer,</b> d. s. s. <sp>Afrem Syrer</sp>.
+</chapter>
 
 <chapter name="Efrata">
 <b>Efrata</b> ell. <sp>Efrat</sp> synes opr. at betegne et
-Landskab, bruges som Betegnelse for Betlehem.</chapter>
+Landskab, bruges som Betegnelse for Betlehem.
+</chapter>
 
 <chapter name="Efrem">
 <b>Efrem</b> nævnes af Eusebius som en 5 rom.
@@ -126,7 +128,8 @@ Mil Ø. f. Betel liggende By, der almindeligvis
 søges i den nuv. kristne Landsby et-Tájjibe ved
 Vejen mellem Jerusalem og Nabulus. Den
 identificeres med det Efraim, som Jesus trak sig
-tilbage til Joh. 11, 54, samt med Efron (s. d.).</chapter>
+tilbage til Joh. 11, 54, samt med Efron (s. d.).
+</chapter>
 
 <chapter name="Efron">
 <b>Efron,</b> 1) Sochars Søn, Chetiteren, af hvem
@@ -153,7 +156,8 @@ sin opr. Bet. af Eftermiddag (jfr <sp>Kvæld</sp>).
 </chapter>
 
 <chapter name="Efteraar">
-<b>Efteraar</b> (norsk: <sp>Høst</sp>), se <sp>Aarstider</sp>.</chapter>
+<b>Efteraar</b> (norsk: <sp>Høst</sp>), se <sp>Aarstider</sp>.
+</chapter>
 
 <chapter name="Efteraarsjævndøgn">
 <b>Efteraarsjævndøgn</b> (norsk:

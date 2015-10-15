@@ -71,10 +71,12 @@ Medlem af Bestyrelsen for Odense Industriforening.
 <b>demantelere</b> [-maŋ-] (af fr. <i>démanteler</i>),
 nedrive en Bys Ringmur; sløjfe en Bys
 Befæstningsanlæg, uden dog ganske at rasere dem;
-gøre værgeløs.</chapter>
+gøre værgeløs.
+</chapter>
 
 <chapter name="Demantoid">
-<b>Demantoid,</b> se <sp>Granat</sp>.</chapter>
+<b>Demantoid,</b> se <sp>Granat</sp>.
+</chapter>
 
 <chapter name="Demaratos">
 <b>Demaratos</b> [gr. -'ma-], 1) Korinthier, der
@@ -100,10 +102,12 @@ plebis</i>.
 </chapter>
 
 <chapter name="De Marchi">
-<b>De Marchi</b> [-'marki], se <sp>Marchi, E</sp>.</chapter>
+<b>De Marchi</b> [-'marki], se <sp>Marchi, E</sp>.
+</chapter>
 
 <chapter name="Demarkation">
-<b>Demarkation</b> (fr.), Afgrænsning.</chapter>
+<b>Demarkation</b> (fr.), Afgrænsning.
+</chapter>
 
 <chapter name="Demarkationslinie">
 <b>Demarkationslinie,</b> Begrænsningslinie,

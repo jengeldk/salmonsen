@@ -102,10 +102,12 @@ Vand, der viser det omvendte Forhold.
 </chapter>
 
 <chapter name="Elasticitetsgrænse">
-<b>Elasticitetsgrænse,</b> se <sp>Elasticitet</sp>.</chapter>
+<b>Elasticitetsgrænse,</b> se <sp>Elasticitet</sp>.
+</chapter>
 
 <chapter name="Elasticitetskoëfficient">
-<b>Elasticitetskoëfficient,</b> se <sp>Elasticitet</sp>.</chapter>
+<b>Elasticitetskoëfficient,</b> se <sp>Elasticitet</sp>.
+</chapter>
 
 <chapter name="Elasticitetsmaaler">
 <b>Elasticitetsmaaler</b> kan man kalde ethvert
@@ -116,7 +118,8 @@ Stofs Elasticitetsforhold.
 </chapter>
 
 <chapter name="Elasticitetsmodulus">
-<b>Elasticitetsmodulus,</b> se <sp>Elasticitet</sp>.</chapter>
+<b>Elasticitetsmodulus,</b> se <sp>Elasticitet</sp>.
+</chapter>
 
 <chapter name="Elastik">
 <b>Elastik,</b> <sp>Elastics</sp>, et kipret, valket

@@ -30,7 +30,8 @@ gulbrunt filtede, indvendig lysere og glatte.
 </chapter>
 
 <chapter name="Cruciferæ">
-<b>Cruciferæ,</b> se <sp>Korsblomstrede</sp>.</chapter>
+<b>Cruciferæ,</b> se <sp>Korsblomstrede</sp>.
+</chapter>
 
 <chapter name="Cruciger, Caspar">
 <b>Cruciger</b> (<sp>Creutziger</sp>), <sp>Caspar</sp>, sachsisk
@@ -127,10 +128,12 @@ Koagulation (se i øvrigt Blod).
 </chapter>
 
 <chapter name="Crus">
-<b>Crus,</b> se <sp>Ben</sp>.</chapter>
+<b>Crus,</b> se <sp>Ben</sp>.
+</chapter>
 
 <chapter name="Crusca">
-<b>Crusca,</b> se <sp>Akademi</sp> S. 354.</chapter>
+<b>Crusca,</b> se <sp>Akademi</sp> S. 354.
+</chapter>
 
 <chapter name="Crusebjörn, Jesper Ingevald">
 <b>Crusebjörn,</b> <sp>Jesper Ingevald</sp>, sv.

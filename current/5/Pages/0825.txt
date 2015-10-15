@@ -71,7 +71,8 @@ betydelse« i »Antropologiska Sektionens tidskrift« I
 </chapter>
 
 <chapter name="Danske Atlas">
-<b>Danske Atlas,</b> se <sp>Pontoppidan, E</sp>.</chapter>
+<b>Danske Atlas,</b> se <sp>Pontoppidan, E</sp>.
+</chapter>
 
 <chapter name="danske Boghandlerforening, Den">
 <b>danske Boghandlerforening, Den,</b> er

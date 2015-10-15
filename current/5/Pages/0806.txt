@@ -65,7 +65,8 @@ bet. Stedets Navn »Skov paa flad og slet Mark«.
 
 <chapter name="Danmark, lille Holm i Göteborg Skærgaard">
 <b>Danmark,</b> lille Holm i Göteborg Skærgaard,
-3/4 Sm. NV. f. Böttö.</chapter>
+3/4 Sm. NV. f. Böttö.
+</chapter>
 
 <chapter name="Danmark, det gensidige Forsikringsselskab">
 <b>Danmark,</b> det gensidige Forsikringsselskab,

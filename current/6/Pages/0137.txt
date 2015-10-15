@@ -10,10 +10,12 @@ Blomster med mørkere Striber.
 
 <chapter name="dictionnaire">
 <b>dictionnaire</b> [diks<sub>i</sub>å'næ.r] (fr.), Ordbog;
-Leksikon.</chapter>
+Leksikon.
+</chapter>
 
 <chapter name="dicto anno">
-<b>dicto anno,</b> se <sp>dictum</sp>.</chapter>
+<b>dicto anno,</b> se <sp>dictum</sp>.
+</chapter>
 
 <chapter name="dictum">
 <b>dictum</b> (lat., Ft. <i>dicta</i>), Udsagn, Ord; <i>d.
@@ -27,7 +29,8 @@ paa den nævnte Dag (afkortet <i>d. a.</i>, <i>d. d.</i>).
 </chapter>
 
 <chapter name="dictum factum">
-<b>dictum factum</b> (lat.), som sagt saa gjort.</chapter>
+<b>dictum factum</b> (lat.), som sagt saa gjort.
+</chapter>
 
 <chapter name="Dictyograptus">
 <b>Dictyograptus</b> ell. <sp>Dictyonema</sp> kaldes
@@ -46,10 +49,12 @@ følges lige til Stenkulperiodens ældste Afsnit.
 </chapter>
 
 <chapter name="Dictyosiphon">
-<b>Dictyosiphon,</b> se <sp>Alger</sp> S. 496.</chapter>
+<b>Dictyosiphon,</b> se <sp>Alger</sp> S. 496.
+</chapter>
 
 <chapter name="Dictyotaceæ">
-<b>Dictyotaceæ,</b> se <sp>Alger</sp> S. 496.</chapter>
+<b>Dictyotaceæ,</b> se <sp>Alger</sp> S. 496.
+</chapter>
 
 <chapter name="Dicyanin">
 <b>Dicyanin,</b> grønne, metalglinsende Krystaller,
@@ -119,16 +124,18 @@ mellem en- og flercellede Dyr; det er dog snarere
 ægte »Metazoer«, der er undergaaet en af de
 stærke Reduktioner, som Snyltelivet saa ofte
 medfører.
-<i>T. K.</i>
 
-<img>
-<i>Dicyema paradoxum</i> med ormformet Foster.</img></chapter>
+<img><i>Dicyema paradoxum</i> med ormformet Foster.</img>
+<i>T. K.</i>
+</chapter>
 
 <chapter name="dicyklisk">
-<b>dicyklisk</b> (gr.) (<sp>bot</sp>.), toaarig.</chapter>
+<b>dicyklisk</b> (gr.) (<sp>bot</sp>.), toaarig.
+</chapter>
 
 <chapter name="Dicynodonter">
-<b>Dicynodonter,</b> se <sp>Anomodontia</sp>.</chapter>
+<b>Dicynodonter,</b> se <sp>Anomodontia</sp>.
+</chapter>
 
 <chapter name="Dicypellium Nees.">
 <b>Dicypellium</b> Nees., Slægt af Laurbærfam.

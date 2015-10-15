@@ -52,7 +52,8 @@ Afstand.
 </chapter>
 
 <chapter name="Delphinus">
-<b>Delphinus</b> [-'fi.-], se <sp>Delfiner</sp>.</chapter>
+<b>Delphinus</b> [-'fi.-], se <sp>Delfiner</sp>.
+</chapter>
 
 <chapter name="Delphos">
 <b>Delphos</b> ['de£f<sub>ə</sub>s], By i U. S. A., Stat Ohio,
@@ -150,7 +151,8 @@ lodret Linie i to Felter spaltede Skjold (se
 </chapter>
 
 <chapter name="Delta, Bogstavet D">
-<b>Delta,</b> det gr. Navn paa Bogstavet D (Δ).</chapter>
+<b>Delta,</b> det gr. Navn paa Bogstavet D (Δ).
+</chapter>
 
 <chapter name="Delta, Landdannelse">
 <b>Delta</b> kaldes de Landdannelser, der opstaar

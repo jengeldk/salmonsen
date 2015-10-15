@@ -6,7 +6,8 @@ opstod en Spaltning.
 </chapter>
 
 <chapter name="Clinopodium">
-<b>Clinopodium,</b> se <sp>Kransbørste</sp>.</chapter>
+<b>Clinopodium,</b> se <sp>Kransbørste</sp>.
+</chapter>
 
 <chapter name="Clinton">
 <b>Clinton</b> ['k£int<sub>ə</sub>n], Navn paa flere Byer i
@@ -49,13 +50,16 @@ ynder en lidt skygget Vokseplads.
 </chapter>
 
 <chapter name="Clintonit">
-<b>Clintonit,</b> se <sp>Sprødglimmer</sp>.</chapter>
+<b>Clintonit,</b> se <sp>Sprødglimmer</sp>.
+</chapter>
 
 <chapter name="Clio">
-<b>Clio,</b> den lat. Form for Kleio (s. d.).</chapter>
+<b>Clio,</b> den lat. Form for Kleio (s. d.).
+</chapter>
 
 <chapter name="Clio, Clione">
-<b>Clio, Clione,</b> se <sp>Vingesnegle</sp>.</chapter>
+<b>Clio, Clione,</b> se <sp>Vingesnegle</sp>.
+</chapter>
 
 <chapter name="clipeus">
 <b>clipeus</b> ell. <i>clipeum</i> (lat.), rundt, hvælvet
@@ -77,11 +81,13 @@ Koralkalk.
 </chapter>
 
 <chapter name="clique">
-<b>clique</b> [klik] (fr.), se <sp>Klike</sp>.</chapter>
+<b>clique</b> [klik] (fr.), se <sp>Klike</sp>.
+</chapter>
 
 <chapter name="Cliquot">
 <b>Cliquot</b> [kli'ko], en Slags Champagne, der
-fabrikeres af Firmaet Veuve C. i Reims.</chapter>
+fabrikeres af Firmaet Veuve C. i Reims.
+</chapter>
 
 <chapter name="Clisson">
 <b>Clisson</b> [ki'så], By i det vestlige Frankrig,
@@ -115,7 +121,8 @@ Parlamentet dømt til Forvisning samt til at bøde
 </chapter>
 
 <chapter name="Clitellum">
-<b>Clitellum,</b> se <sp>Regnorme</sp>.</chapter>
+<b>Clitellum,</b> se <sp>Regnorme</sp>.
+</chapter>
 
 <chapter name="Clitheroe">
 <b>Clitheroe</b> ['k£ið<sub>ə</sub>ro<sub>u</sub>], By i det nordvestlige
@@ -159,7 +166,8 @@ Gemyse.
 </chapter>
 
 <chapter name="Clitoris">
-<b>Clitoris,</b> se <sp>Kønsorganer</sp>.</chapter>
+<b>Clitoris,</b> se <sp>Kønsorganer</sp>.
+</chapter>
 
 <chapter name="Clitumnus">
 <b>Clitumnus</b> (lat.), nu <b>Clitunno</b>, en lille

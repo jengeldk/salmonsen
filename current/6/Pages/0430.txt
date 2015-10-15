@@ -22,7 +22,8 @@ Teknologi«, II (Kbhvn 1915).
 </chapter>
 
 <chapter name="Drejemejsel">
-<b>Drejemejsel,</b> se <sp>Drejestaal</sp>.</chapter>
+<b>Drejemejsel,</b> se <sp>Drejestaal</sp>.
+</chapter>
 
 <chapter name="Drejens-Odde">
 <b>Drejens-Odde,</b> paa Nordsiden af Kolding

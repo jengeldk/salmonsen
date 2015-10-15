@@ -10,7 +10,8 @@ har antaget den.
 
 <chapter name="Der-el-Bahri">
 <b>Der-el-Bahri</b> [-'bahri], se <sp>Theben</sp> (i
-Ægypten).</chapter>
+Ægypten).
+</chapter>
 
 <chapter name="derelinkvere">
 <b>derelinkvere</b> (lat.), opgive, renoncere paa,
@@ -76,12 +77,14 @@ forsk. semitiske Indskrifter o. desl.
 </chapter>
 
 <chapter name="de Renzis">
-<b>de Renzis,</b> se <sp>Renzis</sp>.</chapter>
+<b>de Renzis,</b> se <sp>Renzis</sp>.
+</chapter>
 
 <chapter name="Derevnja">
 <b>Derevnja</b> [d<sub>j</sub>e'r<sub>j</sub>evn<sub>ja</sub>] er i Rusland
 Betegnelse for en Landsby uden Kirke, medens en
-Kirkelandsby kaldes <sp>Selò</sp>.</chapter>
+Kirkelandsby kaldes <sp>Selò</sp>.
+</chapter>
 
 <chapter name="Derfflinger, Georg">
 <b>Derfflinger,</b> <sp>Georg</sp>, Friherre af,
@@ -146,11 +149,13 @@ et rundt Taarn og 5 Kirker.
 </chapter>
 
 <chapter name="Derivantia">
-<b>Derivantia,</b> d. s. s. <sp>afledende Midler</sp>.</chapter>
+<b>Derivantia,</b> d. s. s. <sp>afledende Midler</sp>.
+</chapter>
 
 <chapter name="Derivation">
 <b>Derivation</b> (lat.), Afledning. I artilleristisk
-Betydning, d. s. s. <sp>Afdrift</sp>.</chapter>
+Betydning, d. s. s. <sp>Afdrift</sp>.
+</chapter>
 
 <chapter name="derivativ Erhvervelse">
 <b>derivativ</b> (afledet) <b>Erhvervelse</b> vil sige

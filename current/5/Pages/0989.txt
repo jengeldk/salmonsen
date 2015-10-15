@@ -130,14 +130,17 @@ Barrikade i en af de sidste Kampe.
 
 <chapter name="Delesseria, Delesseriaceæ">
 <b>Delesseria, Delesseriaceæ,</b> se <sp>Alger</sp>, S.
-497.</chapter>
+497.
+</chapter>
 
 <chapter name="Delessit">
-<b>Delessit</b> se <sp>Klorit</sp>.</chapter>
+<b>Delessit</b> se <sp>Klorit</sp>.
+</chapter>
 
 <chapter name="Delet">
 <b>Delet,</b> den nordlige Del af Hovedløbet
-mellem Ålandsøerne.</chapter>
+mellem Ålandsøerne.
+</chapter>
 
 <chapter name="Delff, Willem Jacobsz">
 <b>Delff,</b> <sp>Willem Jacobsz</sp>, holl.
@@ -161,7 +164,8 @@ Kbhvn har af W. D. c. 90 Blade. (<sp>Litt</sp>.:
 </chapter>
 
 <chapter name="Delfi">
-<b>Delfi,</b> d. s. s. <sp>Delfoi</sp>.</chapter>
+<b>Delfi,</b> d. s. s. <sp>Delfoi</sp>.
+</chapter>
 
 <chapter name="Delfin (milit.)">
 <b>Delfin</b> (<sp>milit.</sp>) kaldes Hanke, der ved

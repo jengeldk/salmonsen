@@ -77,7 +77,8 @@ Frastødningerne.
 
 <chapter name="elektriske Ringeapparater">
 <b>elektriske Ringeapparater,</b> se
-<sp>Ringeapparater</sp>.</chapter>
+<sp>Ringeapparater</sp>.
+</chapter>
 
 <chapter name="elektriske Sikringer">
 <b>elektriske Sikringer</b> anbringes i elektriske

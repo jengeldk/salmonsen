@@ -38,7 +38,8 @@ sygelig, begik han Selvmord. (<sp>Litt</sp>.: Biografier af
 </chapter>
 
 <chapter name="Clivia">
-<b>Clivia,</b> se <sp>Imantophyllum</sp>.</chapter>
+<b>Clivia,</b> se <sp>Imantophyllum</sp>.
+</chapter>
 
 <chapter name="Cloaca congenita">
 <b>Cloaca congenita</b> (lat.), medfødt Misdannelse,
@@ -88,7 +89,8 @@ hellenistisk Tid.
 </chapter>
 
 <chapter name="Clodia">
-<b>Clodia,</b> se <sp>Clodius, P. C. P</sp>.</chapter>
+<b>Clodia,</b> se <sp>Clodius, P. C. P</sp>.
+</chapter>
 
 <chapter name="Clodion">
 <b>Clodion</b> [klå'd<sub>i</sub>å], egl. <sp>Claude Michel</sp>,

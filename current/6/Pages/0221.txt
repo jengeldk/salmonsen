@@ -21,7 +21,8 @@ Dendrologien, hvori han har skrevet et stort Værk,
 </chapter>
 
 <chapter name="Dippelsolie">
-<b>Dippelsolie</b> ['dep<sub>ə</sub>ls-], se <sp>Hjortetakolie</sp>.</chapter>
+<b>Dippelsolie</b> ['dep<sub>ə</sub>ls-], se <sp>Hjortetakolie</sp>.
+</chapter>
 
 <chapter name="Dippoldiswalde">
 <b>Dippoldiswalde,</b> By i Sachsen,
@@ -40,16 +41,20 @@ af <i>Dicephalus</i>.
 </chapter>
 
 <chapter name="Diprotodon">
-<b>Diprotodon,</b> se <sp>Pungelefant</sp>.</chapter>
+<b>Diprotodon,</b> se <sp>Pungelefant</sp>.
+</chapter>
 
 <chapter name="Dipsaceæ">
-<b>Dipsaceæ,</b> se <sp>Kartebollefamilien</sp>.</chapter>
+<b>Dipsaceæ,</b> se <sp>Kartebollefamilien</sp>.
+</chapter>
 
 <chapter name="Dipsacus">
-<b>Dipsacus,</b> se <sp>Kartebolle</sp>.</chapter>
+<b>Dipsacus,</b> se <sp>Kartebolle</sp>.
+</chapter>
 
 <chapter name="Dipsadinæ, Dipsas">
-<b>Dipsadinæ, Dipsas,</b> se <sp>Snoge</sp>.</chapter>
+<b>Dipsadinæ, Dipsas,</b> se <sp>Snoge</sp>.
+</chapter>
 
 <chapter name="Dipsomani">
 <b>Dipsomani,</b> en Form af <sp>Sindssygdom</sp>,
@@ -73,10 +78,12 @@ og Søvnløshed.
 </chapter>
 
 <chapter name="Diptera">
-<b>Diptera,</b> se <sp>Tovingede</sp>, <sp>Myg</sp> og <sp>Fluer</sp>.</chapter>
+<b>Diptera,</b> se <sp>Tovingede</sp>, <sp>Myg</sp> og <sp>Fluer</sp>.
+</chapter>
 
 <chapter name="Dipteraltemplet">
-<b>Dipteraltemplet,</b> d. s. s. <sp>Dipteros</sp>.</chapter>
+<b>Dipteraltemplet,</b> d. s. s. <sp>Dipteros</sp>.
+</chapter>
 
 <chapter name="Dipterocarpaceæ">
 <b>Dipterocarpaceæ,</b> Fam. af tokimbladede og
@@ -127,7 +134,8 @@ Balsamen paa lgn. Maade.
 
 <chapter name="Dipterologi">
 <b>Dipterologi,</b> Læren om de Tovingedes Orden
-ell. Fluer og Myg.</chapter>
+ell. Fluer og Myg.
+</chapter>
 
 <chapter name="Dipteros">
 <b>Dipteros,</b> gr., »tofløjet«, efter Vitruvius
@@ -137,7 +145,8 @@ helt rundt.
 </chapter>
 
 <chapter name="Dipterus">
-<b>Dipterus,</b> se <sp>Lungefisk</sp>.</chapter>
+<b>Dipterus,</b> se <sp>Lungefisk</sp>.
+</chapter>
 
 <chapter name="Dipteryx Schreb.">
 <b>Dipteryx</b> Schreb. (<i>Coumarouna Aubl.</i>), Slægt
@@ -187,7 +196,8 @@ Midterpartiet.
 </chapter>
 
 <chapter name="Dipus">
-<b>Dipus</b> [-pu's], se <sp>Springmus</sp>.</chapter>
+<b>Dipus</b> [-pu's], se <sp>Springmus</sp>.
+</chapter>
 
 <chapter name="Dipygus">
 <b>Dipygus,</b> Misfoster med Fordobling af

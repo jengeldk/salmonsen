@@ -102,7 +102,8 @@ en Konsonant skal fordobles i Udtalen.
 </chapter>
 
 <chapter name="Dagestan">
-<b>Dagestan,</b> d. s. s. <sp>Daghestan</sp>.</chapter>
+<b>Dagestan,</b> d. s. s. <sp>Daghestan</sp>.
+</chapter>
 
 <chapter name="Dagfinn Bonde">
 <b>Dagfinn Bonde,</b> norsk Høvding i Beg. af 13.
@@ -124,10 +125,12 @@ brød ud.
 </chapter>
 
 <chapter name="Daggert">
-<b>Daggert,</b> se <sp>Dolk</sp>.</chapter>
+<b>Daggert,</b> se <sp>Dolk</sp>.
+</chapter>
 
 <chapter name="Dagget">
-<b>Dagget,</b> se <sp>Birketjære</sp>.</chapter>
+<b>Dagget,</b> se <sp>Birketjære</sp>.
+</chapter>
 
 <chapter name="Daggial">
 <b>Daggial</b> [dadз'dзa.l] (arab.; korrekt <i>Dadjdjâl</i>)
@@ -157,7 +160,8 @@ Messias.
 </chapter>
 
 <chapter name="Dagh">
-<b>Dagh</b> [dag] (tyrk.), Bjerg, Bjergkæde.</chapter>
+<b>Dagh</b> [dag] (tyrk.), Bjerg, Bjergkæde.
+</chapter>
 
 <chapter name="Daghestan">
 <b>Daghestan</b> (Bjergland), Prov. i det russ. Generalguvernement

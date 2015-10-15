@@ -96,32 +96,41 @@ Bord.
 </chapter>
 
 <chapter name="Eddikeaand">
-<b>Eddikeaand,</b> d. s. s. <sp>Aceton</sp>.</chapter>
+<b>Eddikeaand,</b> d. s. s. <sp>Aceton</sp>.
+</chapter>
 
 <chapter name="Eddikeessens">
-<b>Eddikeessens,</b> se <sp>Eddike</sp>.</chapter>
+<b>Eddikeessens,</b> se <sp>Eddike</sp>.
+</chapter>
 
 <chapter name="Eddikeferment">
-<b>Eddikeferment,</b> se <sp>Eddike</sp>.</chapter>
+<b>Eddikeferment,</b> se <sp>Eddike</sp>.
+</chapter>
 
 <chapter name="Eddikegæring">
-<b>Eddikegæring,</b> se <sp>Eddike</sp>.</chapter>
+<b>Eddikegæring,</b> se <sp>Eddike</sp>.
+</chapter>
 
 <chapter name="Eddikemaaler">
-<b>Eddikemaaler,</b> se <sp>Acetometer</sp>.</chapter>
+<b>Eddikemaaler,</b> se <sp>Acetometer</sp>.
+</chapter>
 
 <chapter name="Eddikemoder">
-<b>Eddikemoder,</b> se <sp>Eddike</sp>.</chapter>
+<b>Eddikemoder,</b> se <sp>Eddike</sp>.
+</chapter>
 
 <chapter name="Eddikesprit">
-<b>Eddikesprit,</b> se <sp>Eddike</sp>.</chapter>
+<b>Eddikesprit,</b> se <sp>Eddike</sp>.
+</chapter>
 
 <chapter name="eddikesure Salte">
 <b>eddikesure Salte,</b> <sp>Acetater</sp>, se
-<sp>Eddikesyre</sp>.</chapter>
+<sp>Eddikesyre</sp>.
+</chapter>
 
 <chapter name="Eddikesvamp">
-<b>Eddikesvamp,</b> se <sp>Eddike</sp>.</chapter>
+<b>Eddikesvamp,</b> se <sp>Eddike</sp>.
+</chapter>
 
 <chapter name="Eddikesyre">
 <b>Eddikesyre,</b> C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> ell. CH<sub>3</sub>.COOH, en

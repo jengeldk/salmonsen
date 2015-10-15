@@ -9,18 +9,22 @@ Kvælstofforbindelser.
 </chapter>
 
 <chapter name="De Nittis">
-<b>De Nittis,</b> G., se <sp>Nittis</sp>.</chapter>
+<b>De Nittis,</b> G., se <sp>Nittis</sp>.
+</chapter>
 
 <chapter name="Denka">
-<b>Denka,</b> se <sp>Dinka</sp>.</chapter>
+<b>Denka,</b> se <sp>Dinka</sp>.
+</chapter>
 
 <chapter name="Den kgl. Porcelænfabrik">
 <b>Den kgl. Porcelænfabrik,</b> se <sp>Dansk
-Porcelæn</sp>.</chapter>
+Porcelæn</sp>.
+</chapter>
 
 <chapter name="Den kgl. Veterinær- og Landbohøjskole">
 <b>Den kgl. Veterinær- og Landbohøjskole,</b>
-se <sp>Landbohøjskolen</sp>.</chapter>
+se <sp>Landbohøjskolen</sp>.
+</chapter>
 
 <chapter name="Denman, Thomas">
 <b>Denman</b> ['denm<sub>ä</sub>n], <sp>Thomas</sp>, eng.

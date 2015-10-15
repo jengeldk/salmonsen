@@ -7,10 +7,12 @@ Bahr</sp>, »Expressionismus« [München 1916]).
 </chapter>
 
 <chapter name="ekspressiv">
-<b>ekspressiv</b> (lat.), udtryksfuld, betegnende.</chapter>
+<b>ekspressiv</b> (lat.), udtryksfuld, betegnende.
+</chapter>
 
 <chapter name="Eksprestog">
-<b>Eksprestog,</b> se <sp>Jernbanetog</sp>.</chapter>
+<b>Eksprestog,</b> se <sp>Jernbanetog</sp>.
+</chapter>
 
 <chapter name="Ekspromission">
 <b>Ekspromission</b> (lat.), Overtagelse af en

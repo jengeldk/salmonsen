@@ -34,12 +34,14 @@ Companies Consolidation Act</i>.
 
 <chapter name="company">
 <b>company</b> ['kåmp<sub>ä</sub>n<sub>i</sub>] (eng.), Handelsselskab,
-<sp>Companies Acts</sp> (s. d.).</chapter>
+<sp>Companies Acts</sp> (s. d.).
+</chapter>
 
 <chapter name="comparaison">
 <b>comparaison</b> [kåparæ'zå] (fr.),
 Sammenligning; <i>sans c.</i> [sã-], udelukkende enhver
-Sammenligning.</chapter>
+Sammenligning.
+</chapter>
 
 <chapter name="Comparetti, Domenico">
 <b>Comparetti,</b> <sp>Domenico</sp>, ital. Filolog, f.
@@ -60,13 +62,15 @@ antichità classica</i>.
 </chapter>
 
 <chapter name="comparse">
-<b>comparse</b> (ital.), d. s. s. <sp>Statist</sp>.</chapter>
+<b>comparse</b> (ital.), d. s. s. <sp>Statist</sp>.
+</chapter>
 
 <chapter name="compartimento">
 <b>compartimento</b> (ital.), afdelt Rum;
 Jernbanekupé; Distrikt; saaledes i Italien Navnet for
 de 16 Landskaber, i hvilke de 69 Prov. er
-grupperede.</chapter>
+grupperede.
+</chapter>
 
 <chapter name="compascuum">
 <b>compascuum</b> (lat.), fælles Græsgang; <i>jus

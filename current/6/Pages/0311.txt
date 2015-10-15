@@ -8,7 +8,8 @@ Studien«, II [Upsala 1887]).
 </chapter>
 
 <chapter name="Domazlice">
-<b>Domazlice</b> ['dåmaзlitsæ], se <sp>Taus</sp>.</chapter>
+<b>Domazlice</b> ['dåmaзlitsæ], se <sp>Taus</sp>.
+</chapter>
 
 <chapter name="Domb">
 <b>Domb</b> [dåmp], Bjergværksby i Preussen,
@@ -90,7 +91,8 @@ den polske Opstand. Under den fr.-tyske Krig
 dannede han en polsk Legion, der kæmpede paa
 fr. Side. Under Kommunen kommanderede han
 som General og faldt ved Versailles-Troppernes
-Storm.</chapter>
+Storm.
+</chapter>
 
 <chapter name="Dombrowski, Johan Henrik">
 <b>Dombrowski</b> [russ. dam'bråfski, polsk dõ<sub>m</sub>-,
@@ -137,18 +139,22 @@ af et Tempel.
 </chapter>
 
 <chapter name="Dome">
-<b>Dome,</b> en Krystalform.</chapter>
+<b>Dome,</b> en Krystalform.
+</chapter>
 
 <chapter name="Domenichino">
-<b>Domenichino</b> [-'ki-], se <sp>Zampieri</sp>, D.</chapter>
+<b>Domenichino</b> [-'ki-], se <sp>Zampieri</sp>, D.
+</chapter>
 
 <chapter name="Domenico di Giovanni">
 <b>Domenico di Giovanni</b> [-dзo-], se
-<sp>Burchiello</sp>.</chapter>
+<sp>Burchiello</sp>.
+</chapter>
 
 <chapter name="Domenico Veneziano">
 <b>Domenico Veneziano</b> ['ts<sub>i</sub>an<sub>o</sub>], se
-<sp>Veneziano</sp>.</chapter>
+<sp>Veneziano</sp>.
+</chapter>
 
 <chapter name="Domesdaybook">
 <b>Domesdaybook</b> ['do<sub>u</sub>mzde<sub>i</sub>buk]

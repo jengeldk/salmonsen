@@ -10,10 +10,12 @@ foregaar D. paa lgn. Maade.
 
 <chapter name="dokumentere">
 <b>dokumentere</b> (lat.), at belægge med
-Beviser, særlig skriftlige Beviser.</chapter>
+Beviser, særlig skriftlige Beviser.
+</chapter>
 
 <chapter name="Dokumentfalsk">
-<b>Dokumentfalsk,</b> se <sp>Falsk</sp>.</chapter>
+<b>Dokumentfalsk,</b> se <sp>Falsk</sp>.
+</chapter>
 
 <chapter name="Dol, Dol de Bretagne">
 <b>Dol</b> ['dål], <sp>Dol de Bretagne</sp>
@@ -85,7 +87,8 @@ Dolcian -, der nu kun forekommer sjælden.
 </chapter>
 
 <chapter name="Dolce, se Dolci">
-<b>Dolce</b> ['dolt∫e], se <sp>Dolci</sp>.</chapter>
+<b>Dolce</b> ['dolt∫e], se <sp>Dolci</sp>.
+</chapter>
 
 <chapter name="dolce">
 <b>dolce</b> ['dolt∫e] (ital.) ogsaa <i>con dolcezza</i>,
@@ -137,7 +140,8 @@ uskyldige Død.
 
 <chapter name="dolce far niente">
 <b>dolce far niente</b> ['dolt∫e-far-'n<sub>i</sub>ænte] (ital.),
-sød Lediggang, Driverliv.</chapter>
+sød Lediggang, Driverliv.
+</chapter>
 
 <chapter name="Dolci, Carlo">
 <b>Dolci</b> ['dolt∫i] (<sp>Dolce</sp>), <sp>Carlo</sp>, ital.

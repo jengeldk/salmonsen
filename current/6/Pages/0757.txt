@@ -30,7 +30,8 @@ Borgerrettigheder (se <sp>Hugenotter</sp>).
 </chapter>
 
 <chapter name="Ediktalcitation">
-<b>Ediktalcitation</b> (lat.), offentlig Stævning.</chapter>
+<b>Ediktalcitation</b> (lat.), offentlig Stævning.
+</chapter>
 
 <chapter name="Edinburgh, Mid-Lothian">
 <b>Edinburgh</b> ['ed(<sub>i</sub>)nbar<sub>ə</sub>, 'ed<sub>i</sub>nb(ə)r<sub>ə</sub>],

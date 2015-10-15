@@ -120,13 +120,16 @@ c. r. s. s.« [1911]).
 </chapter>
 
 <chapter name="Clausura">
-<b>Clausura,</b> se <sp>Klausur</sp>.</chapter>
+<b>Clausura,</b> se <sp>Klausur</sp>.
+</chapter>
 
 <chapter name="Clava">
-<b>Clava,</b> se <sp>Gopler</sp>.</chapter>
+<b>Clava,</b> se <sp>Gopler</sp>.
+</chapter>
 
 <chapter name="Clavaria, Clavariaceæ">
-<b>Clavaria, Clavariaceæ,</b> se <sp>Køllesvampe</sp>.</chapter>
+<b>Clavaria, Clavariaceæ,</b> se <sp>Køllesvampe</sp>.
+</chapter>
 
 <chapter name="Claveau, Anatole">
 <b>Claveau</b> [kla'vo], <sp>Anatole</sp>, fr. Journalist
@@ -145,10 +148,12 @@ o. fl.
 
 <chapter name="clavecin">
 <b>clavecin</b> [klav'sæ] (fr.; ital.: <i>clavicembalo</i>),
-se <sp>Klaver</sp>.</chapter>
+se <sp>Klaver</sp>.
+</chapter>
 
 <chapter name="Clavellina">
-<b>Clavellina,</b> se <sp>Søpunge</sp>.</chapter>
+<b>Clavellina,</b> se <sp>Søpunge</sp>.
+</chapter>
 
 <chapter name="Clavering, Douglas Charles">
 <b>Clavering</b> ['k£äv<sub>ə</sub>riŋ], <sp>Douglas

@@ -5,7 +5,8 @@ Gud.
 </chapter>
 
 <chapter name="Eindride Erlendssøn">
-<b>Eindride Erlendssøn,</b> se <sp>Losne-Ætten</sp>.</chapter>
+<b>Eindride Erlendssøn,</b> se <sp>Losne-Ætten</sp>.
+</chapter>
 
 <chapter name="Eindride unge">
 <b>Eindride unge</b> ['æjn-], norsk Lendermand
@@ -68,7 +69,8 @@ Belgien og blev Septbr s. A. Chef for 3. tyske Armé.
 </chapter>
 
 <chapter name="Einfischtal">
-<b>Einfischtal</b> ['a^ife∫ta.l], se <sp>Anniviers</sp>.</chapter>
+<b>Einfischtal</b> ['a^ife∫ta.l], se <sp>Anniviers</sp>.
+</chapter>
 
 <chapter name="Einhard">
 <b>Einhard</b> ['a^inhart], alm., ogsaa af Samtiden,
@@ -156,7 +158,8 @@ Kulturgeschichte« [Einsiedeln 1896]).
 </chapter>
 
 <chapter name="Eion">
-<b>Eion</b> ['æjon], se <sp>Amfipolis</sp>.</chapter>
+<b>Eion</b> ['æjon], se <sp>Amfipolis</sp>.
+</chapter>
 
 <chapter name="Eipel">
 <b>Eipel</b> ['a^ip<sub>ə</sub>l], tschk. <sp>Upice</sp>, By i det

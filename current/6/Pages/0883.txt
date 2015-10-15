@@ -32,15 +32,18 @@ benævnes <sp>Kommissioner</sp> (s. d.).
 
 <chapter name="ekstraordinær Straale">
 <b>ekstraordinær Straale,</b> se
-<sp>Dobbeltbrydning</sp>.</chapter>
+<sp>Dobbeltbrydning</sp>.
+</chapter>
 
 <chapter name="Ekstrapaabud">
 <b>Ekstrapaabud</b> ['æks-], d. s. s.
-<sp>Ekstraskat</sp>.</chapter>
+<sp>Ekstraskat</sp>.
+</chapter>
 
 <chapter name="Ekstrapostvæsenet">
 <b>Ekstrapostvæsenet</b> ['æks-], se
-<sp>Befordringsvæsenet</sp>.</chapter>
+<sp>Befordringsvæsenet</sp>.
+</chapter>
 
 <chapter name="Ekstraret">
 <b>Ekstraret</b> ['æks-] vil sige en Ret, der
@@ -132,7 +135,8 @@ Dommeren og alle Vedk. deri samtykker.
 
 <chapter name="Ekstratog">
 <b>Ekstratog</b> ['æks-](<sp>Særtog</sp>), se
-<sp>Jernbanetog</sp>.</chapter>
+<sp>Jernbanetog</sp>.
+</chapter>
 
 <chapter name="ekstrauterint Svangerskab">
 <b>ekstrauterint Svangerskab</b> ['æks-],

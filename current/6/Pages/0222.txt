@@ -84,17 +84,19 @@ instituto di corrispondenza archeologica</i> [1872];
 <sp>Sam. Wide</sp>, »Geometrische Vasen aus
 Griechenland« [1900]; <sp>Fr. Poulsen</sp>,
 »Dipylongravene og Dipylonvaserne« [1904]).
-<i>C. B.</i>
 
-<img>
-Figurgruppe paa et Kar fundet ved Dipylon.</img></chapter>
+<img>Figurgruppe paa et Kar fundet ved Dipylon.</img>
+<i>C. B.</i>
+</chapter>
 
 <chapter name="Dipyr">
-<b>Dipyr,</b> se <sp>Skapolit</sp>.</chapter>
+<b>Dipyr,</b> se <sp>Skapolit</sp>.
+</chapter>
 
 <chapter name="dira necessitas">
 <b>dira necessitas</b> (lat.), den grumme Nød
-(Nødvendighed); Horats' Oder III, 24, 6.</chapter>
+(Nødvendighed); Horats' Oder III, 24, 6.
+</chapter>
 
 <chapter name="Dirckinck-Holmfeld, Adelsslægt">
 <b>Dirckinck-Holmfeld,</b> Adelsslægt, der kom

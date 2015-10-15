@@ -39,11 +39,13 @@ Kulturen er den samme som for Køkkengræskar.
 </chapter>
 
 <chapter name="Cucurbitaceæ">
-<b>Cucurbitaceæ,</b> se <sp>Græskarfamilien</sp>.</chapter>
+<b>Cucurbitaceæ,</b> se <sp>Græskarfamilien</sp>.
+</chapter>
 
 <chapter name="Cucurbitæ">
 <b>Cucurbitæ,</b> d. s. s. Blodkopper. <i>C. cruéntæ</i>,
-alm. Blodkopper; <i>C. siccæ</i>, tørre Blodkopper.</chapter>
+alm. Blodkopper; <i>C. siccæ</i>, tørre Blodkopper.
+</chapter>
 
 <chapter name="Cúcuta">
 <b>Cúcuta</b> ['ku-] (<sp>St. José de C.</sp>), By i det
@@ -56,13 +58,16 @@ ved Zulia, der er sejlbar op til dette Punkt.
 </chapter>
 
 <chapter name="Cudbear">
-<b>Cudbear</b> ['kadbə], se <sp>Orseille</sp>.</chapter>
+<b>Cudbear</b> ['kadbə], se <sp>Orseille</sp>.
+</chapter>
 
 <chapter name="Cuddalore">
-<b>Cuddalore</b> [kəd<sub>a</sub>'£å.<sub>ə</sub> ell. -'£u.<sub>ə</sub>], se <sp>Kudalur</sp>.</chapter>
+<b>Cuddalore</b> [kəd<sub>a</sub>'£å.<sub>ə</sub> ell. -'£u.<sub>ə</sub>], se <sp>Kudalur</sp>.
+</chapter>
 
 <chapter name="Cuddapah">
-<b>Cuddapah</b> ['kad<sub>ä</sub>pa.], se <sp>Kadapah</sp>.</chapter>
+<b>Cuddapah</b> ['kad<sub>ä</sub>pa.], se <sp>Kadapah</sp>.
+</chapter>
 
 <chapter name="Cudowa">
 <b>Cudowa</b> (<sp>Kudowa</sp>), Badested i den preuss.

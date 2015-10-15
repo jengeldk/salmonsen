@@ -27,7 +27,8 @@ Markedshandel.
 </chapter>
 
 <chapter name="Devegge, M. C.">
-<b>Devegge,</b> <sp>M. C.</sp>, se <sp>Preisler</sp>.</chapter>
+<b>Devegge,</b> <sp>M. C.</sp>, se <sp>Preisler</sp>.
+</chapter>
 
 <chapter name="Devegge, Ole">
 <b>Devegge,</b> <sp>Ole</sp>, dansk Numismatiker, f. i

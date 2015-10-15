@@ -117,7 +117,8 @@ Løb er kanaliseret indtil Hohenofen.
 </chapter>
 
 <chapter name="Dossennus">
-<b>Dossennus,</b> se <sp>Atellaner</sp>.</chapter>
+<b>Dossennus,</b> se <sp>Atellaner</sp>.
+</chapter>
 
 <chapter name="Dossering">
 <b>Dossering</b> er en nu nærmest forældet

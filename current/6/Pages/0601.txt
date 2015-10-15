@@ -24,7 +24,8 @@ Preussen, Rhinprov., ligger 8 km Ø. f. Duisburg. (1910)
 </chapter>
 
 <chapter name="Dyn">
-<b>Dyn,</b> absolut Kraftenhed, se <sp>absolut Maal</sp>.</chapter>
+<b>Dyn,</b> absolut Kraftenhed, se <sp>absolut Maal</sp>.
+</chapter>
 
 <chapter name="Düna">
 <b>Düna</b> ['dy.na] (Russernes <sp>vestlige Dvina</sp>,
@@ -151,7 +152,8 @@ og Aftagen, <i>crescendo</i> og <i>decrescendo</i>.
 <chapter name="dynamisk Elektricitet">
 <b>dynamisk Elektricitet,</b> Elektricitet i
 Bevægelse i Modsætning til <sp>statisk
-Elektricitet</sp>.</chapter>
+Elektricitet</sp>.
+</chapter>
 
 <chapter name="Dynamit">
 <b>Dynamit</b> (gr.) kaldes et Sprængpræparat,

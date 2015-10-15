@@ -64,7 +64,8 @@ og andre.
 </chapter>
 
 <chapter name="Clemens Bonifacius">
-<b>Clemens Bonifacius,</b> se <sp>Asbjørnsen, P. C</sp>.</chapter>
+<b>Clemens Bonifacius,</b> se <sp>Asbjørnsen, P. C</sp>.
+</chapter>
 
 <chapter name="Clemens non papa">
 <b>Clemens non papa</b> (til Adskillelse fra den
@@ -83,7 +84,8 @@ komponerede over nederlandske Folkemelodier.
 </chapter>
 
 <chapter name="Clemens Romanus">
-<b>Clemens Romanus,</b> se <sp>Clemens</sp> (Paver) 1).</chapter>
+<b>Clemens Romanus,</b> se <sp>Clemens</sp> (Paver) 1).
+</chapter>
 
 <chapter name="Clement, Skipper">
 <b>Clement,</b> Skipper, d. 1536, skal være f. i

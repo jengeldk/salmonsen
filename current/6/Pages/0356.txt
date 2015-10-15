@@ -74,7 +74,8 @@ Organer. (<sp>Litt</sp>.: <sp>Warming</sp> og
 </chapter>
 
 <chapter name="Dorsiventralitet">
-<b>Dorsiventralitet,</b> se <sp>dorsiventral</sp>.</chapter>
+<b>Dorsiventralitet,</b> se <sp>dorsiventral</sp>.
+</chapter>
 
 <chapter name="Dorstad">
 <b>Dorstad,</b> nu <sp>Wyk by Duerstede</sp>, paa
@@ -147,10 +148,12 @@ en Del Industri.
 
 <chapter name="dorsum">
 <b>dorsum</b> (lat.), Ryg; Haandens Rygside; (<sp>bot</sp>.)
-Bladets Underside.</chapter>
+Bladets Underside.
+</chapter>
 
 <chapter name="Dorsum Astrolabii">
-<b>Dorsum Astrolabii,</b> se <sp>Planisphærium</sp>.</chapter>
+<b>Dorsum Astrolabii,</b> se <sp>Planisphærium</sp>.
+</chapter>
 
 <chapter name="Dortmund">
 <b>Dortmund</b> ['dårtmunt], By i Kongeriget

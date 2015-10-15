@@ -138,7 +138,8 @@ Staðarhóll, Snóksdalur og Sauðafell.
 </chapter>
 
 <chapter name="d'Alayrac">
-<b>d'Alayrac</b> [d-alæ'rak], se <sp>Alayrac</sp>.</chapter>
+<b>d'Alayrac</b> [d-alæ'rak], se <sp>Alayrac</sp>.
+</chapter>
 
 <chapter name="Dalberg, en ældgammel tysk Adelsæt">
 <b>Dalberg</b> ['dalbærk, fr. -'bærg], en ældgammel

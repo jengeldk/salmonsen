@@ -30,11 +30,13 @@ Rue de C., ophævet 1867.
 </chapter>
 
 <chapter name="cliens">
-<b>cliens,</b> se <sp>Klient</sp>.</chapter>
+<b>cliens,</b> se <sp>Klient</sp>.
+</chapter>
 
 <chapter name="Cliffe Leslie">
 <b>Cliffe Leslie</b> ['k£if-'£es£<sub>i</sub>], se <sp>Leslie, T.
-E. Cliffe</sp>.</chapter>
+E. Cliffe</sp>.
+</chapter>
 
 <chapter name="Cliff-houses">
 <b>Cliff-houses</b> ['k£if-'ha^us<sub>i</sub>z], <i>Cliff-dwellings</i>,
@@ -168,7 +170,8 @@ gennem Tennessee og falder efter et Løb paa c.
 
 <chapter name="Clingniannit">
 <b>Clingniannit,</b> d. s. s. <sp>Margarit</sp>, se
-<sp>Sprødglimmer</sp>.</chapter>
+<sp>Sprødglimmer</sp>.
+</chapter>
 
 <chapter name="Clinici">
 <b>Clinici</b> (lat., af gr. κλίνη, Seng) kaldtes i

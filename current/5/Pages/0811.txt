@@ -73,7 +73,8 @@ ved Artilleriet, senere som Generalvognmester.
 </chapter>
 
 <chapter name="Dannekvinde">
-<b>Dannekvinde,</b> se <sp>Dannemand</sp>.</chapter>
+<b>Dannekvinde,</b> se <sp>Dannemand</sp>.
+</chapter>
 
 <chapter name="Dannelse">
 <b>Dannelse.</b> D.'s Bet. fremgaar ikke blot

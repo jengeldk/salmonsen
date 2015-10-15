@@ -19,7 +19,8 @@ skulde følge ham paa Tronen (se <sp>Aurangseb</sp>).
 </chapter>
 
 <chapter name="Djehangir">
-<b>Djehangir,</b> d. s. s. <sp>Djahangir</sp>.</chapter>
+<b>Djehangir,</b> d. s. s. <sp>Djahangir</sp>.
+</chapter>
 
 <chapter name="Djehol">
 <b>Djehol</b> (<sp>Jehol</sp>, <sp>Sjehol</sp>, kin.
@@ -123,10 +124,12 @@ meget godt bevaret.
 </chapter>
 
 <chapter name="Djemar">
-<b>Djemar,</b> se <sp>Djulamerk</sp>.</chapter>
+<b>Djemar,</b> se <sp>Djulamerk</sp>.
+</chapter>
 
 <chapter name="Djema-Rashnat">
-<b>Djema-Rashnat,</b> se <sp>Nemours</sp>.</chapter>
+<b>Djema-Rashnat,</b> se <sp>Nemours</sp>.
+</chapter>
 
 <chapter name="Djemshid">
 <b>Djemshid,</b> i den pers. Sagnhistorie en

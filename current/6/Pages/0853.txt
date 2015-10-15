@@ -28,7 +28,8 @@ ellers paa mange Steder i Landet.
 </chapter>
 
 <chapter name="Ekebergit">
-<b>Ekebergit,</b> se <sp>Skapolit</sp>.</chapter>
+<b>Ekebergit,</b> se <sp>Skapolit</sp>.
+</chapter>
 
 <chapter name="Ekecheiri">
 <b>Ekecheiri</b> [-kæ^i-] (græsk), »Vaabenhvile«,

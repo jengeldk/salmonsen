@@ -6,7 +6,8 @@ var Majoritet. Selve Afstemningsakten hedder
 <chapter name="discernere">
 <b>discernere</b> (lat.), sondre, bedømme, blive
 var, skelne, erkende; <sp>discernibel</sp>, kendelig,
-skelnelig.</chapter>
+skelnelig.
+</chapter>
 
 <chapter name="Dischidia, R. Br.">
 <b>Dischidia</b> [-'ski'-], R. Br., Slægt af
@@ -24,24 +25,29 @@ Filippinerne, Ny Guinea og i Australien.
 
 <chapter name="discidium">
 <b>discidium</b> (lat.), Sønderskæring, Adskillelse;
-Skilsmisse, Uenighed.</chapter>
+Skilsmisse, Uenighed.
+</chapter>
 
 <chapter name="Discipel">
 <b>Discipel</b> [-'si-] (lat.), Lærling, Elev, den,
-der faar Undervisning.</chapter>
+der faar Undervisning.
+</chapter>
 
 <chapter name="Disciples">
-<b>Disciples</b> [d<sub>i</sub>'sa^ip£z], se <sp>Baptister</sp>.</chapter>
+<b>Disciples</b> [d<sub>i</sub>'sa^ip£z], se <sp>Baptister</sp>.
+</chapter>
 
 <chapter name="Disciplin">
 <b>Disciplin</b> (lat.). egl. Undervisning; Orden,
 Tugt, særlig i milit. Bet. om Mandstugt (smlg.
 <sp>Disciplinærforseelse</sp>). - Bruges
 ogsaa om de enkelte Grene af en Videnskab, af
-Undervisningen o. s. v.</chapter>
+Undervisningen o. s. v.
+</chapter>
 
 <chapter name="disciplina arcani">
-<b>disciplina arcani,</b> se <sp>Arkandisciplin</sp>.</chapter>
+<b>disciplina arcani,</b> se <sp>Arkandisciplin</sp>.
+</chapter>
 
 <chapter name="Disciplinærforseelse">
 <b>Disciplinærforseelse,</b> Brud paa den Tugt
@@ -73,16 +79,20 @@ Spaltning af Fistler.
 </chapter>
 
 <chapter name="Discoboli">
-<b>Discoboli,</b> se <sp>Skivefisk</sp>.</chapter>
+<b>Discoboli,</b> se <sp>Skivefisk</sp>.
+</chapter>
 
 <chapter name="Discoglossidæ">
-<b>Discoglossidæ,</b> se <sp>Klokkefrø</sp>.</chapter>
+<b>Discoglossidæ,</b> se <sp>Klokkefrø</sp>.
+</chapter>
 
 <chapter name="Discomycetes">
-<b>Discomycetes,</b> se <sp>Skivesvampe</sp>.</chapter>
+<b>Discomycetes,</b> se <sp>Skivesvampe</sp>.
+</chapter>
 
 <chapter name="Discophora">
-<b>Discophora</b> [-fo-], se <sp>Igler</sp>.</chapter>
+<b>Discophora</b> [-fo-], se <sp>Igler</sp>.
+</chapter>
 
 <chapter name="Discoplacentalia">
 <b>Discoplacentalia</b> benævnes Pattedyr, hvis
@@ -94,7 +104,8 @@ Aberne, Mennesket.
 </chapter>
 
 <chapter name="discordia">
-<b>discordia</b> (lat.), Tvedragt; se ogsaa <sp>Eris</sp>.</chapter>
+<b>discordia</b> (lat.), Tvedragt; se ogsaa <sp>Eris</sp>.
+</chapter>
 
 <chapter name="Discovery Havn">
 <b>Discovery Havn</b> [d<sub>i</sub>s'kav<sub>ə</sub>ri-] paa Østsiden
@@ -111,13 +122,16 @@ Ledelse af Løjtnant Greely, der overvintrede her
 </chapter>
 
 <chapter name="discreto">
-<b>discreto,</b> d. s. s. <sp>con discrezione</sp>.</chapter>
+<b>discreto,</b> d. s. s. <sp>con discrezione</sp>.
+</chapter>
 
 <chapter name="Discus">
-<b>Discus</b> (lat.), d. s. s. <sp>Diskos</sp>.</chapter>
+<b>Discus</b> (lat.), d. s. s. <sp>Diskos</sp>.
+</chapter>
 
 <chapter name="Disdiapason">
-<b>Disdiapason,</b> d. s. s. <sp>Dobbeltoktav</sp>.</chapter>
+<b>Disdiapason,</b> d. s. s. <sp>Dobbeltoktav</sp>.
+</chapter>
 
 <chapter name="Disen, Andreas Edvard">
 <b>Disen,</b> <sp>Andreas Edvard</sp>, norsk
@@ -164,14 +178,17 @@ besøges D. meget af Turister.
 </chapter>
 
 <chapter name="Diser">
-<b>Diser,</b> Flertal af <sp>Dis</sp> (s. d.).</chapter>
+<b>Diser,</b> Flertal af <sp>Dis</sp> (s. d.).
+</chapter>
 
 <chapter name="Disfavør">
-<b>Disfavør</b> [ofte -'dis-] (fr.), Ugunst; Tab, Skade.</chapter>
+<b>Disfavør</b> [ofte -'dis-] (fr.), Ugunst; Tab, Skade.
+</chapter>
 
 <chapter name="Disfiguration">
 <b>Disfiguration</b> (lat.), Forvanskning,
-Vanskabelse.</chapter>
+Vanskabelse.
+</chapter>
 
 <chapter name="Disful">
 <b>Disful</b> (<sp>Dizful</sp>), By i den pers. Provins

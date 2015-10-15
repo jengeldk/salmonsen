@@ -5,7 +5,8 @@ hans nævnte fysiologiske Skr.
 
 <chapter name="Coccolithophoridæ">
 <b>Coccolithophoridæ</b> [-tofo-], se
-<sp>Flagellater</sp>.</chapter>
+<sp>Flagellater</sp>.
+</chapter>
 
 <chapter name="Coccoloba L.">
 <b>Coccoloba</b> L., Slægt af Skedeknæfamilien,
@@ -21,13 +22,16 @@ Kirsebær; ogsaa denne Arts Ved anvendes.
 </chapter>
 
 <chapter name="Coccosteus">
-<b>Coccosteus</b> [-steus], se <sp>Skjoldfisk</sp>.</chapter>
+<b>Coccosteus</b> [-steus], se <sp>Skjoldfisk</sp>.
+</chapter>
 
 <chapter name="Coccothraustes">
-<b>Coccothraustes</b> [-'tra^u-], se <sp>Kærnebider</sp>.</chapter>
+<b>Coccothraustes</b> [-'tra^u-], se <sp>Kærnebider</sp>.
+</chapter>
 
 <chapter name="Coccus, se Skjoldlus">
-<b>Coccus,</b> se <sp>Skjoldlus</sp>.</chapter>
+<b>Coccus,</b> se <sp>Skjoldlus</sp>.
+</chapter>
 
 <chapter name="Coccus (bot.)">
 <b>Coccus</b> (<sp>bot</sp>.), i Bakteriologien

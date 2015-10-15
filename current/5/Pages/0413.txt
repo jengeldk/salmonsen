@@ -28,7 +28,8 @@ har faaet tillagt deres Stedfaders Familienavn.
 
 <chapter name="Daabskapel">
 <b>Daabskapel</b> (<sp>Daabskirke</sp>),
-se <sp>Baptisterium</sp>.</chapter>
+se <sp>Baptisterium</sp>.
+</chapter>
 
 <chapter name="Daabssindede">
 <b>Daabssindede</b> ell. »Waterlændere«, et Samfund
@@ -58,7 +59,8 @@ kun smaa.
 </chapter>
 
 <chapter name="Daabsvidner">
-<b>Daabsvidner</b>, se <sp>Faddere</sp>.</chapter>
+<b>Daabsvidner</b>, se <sp>Faddere</sp>.
+</chapter>
 
 <chapter name="Daae, Anders">
 <b>Daae,</b> <sp>Anders</sp>, norsk Læge, og Kriminalist,

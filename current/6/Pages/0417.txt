@@ -37,16 +37,20 @@ fra Soloi.
 </chapter>
 
 <chapter name="Drank">
-<b>Drank,</b> se <sp>Bærme</sp>.</chapter>
+<b>Drank,</b> se <sp>Bærme</sp>.
+</chapter>
 
 <chapter name="Drankerasyler">
-<b>Drankerasyler,</b> se <sp>Afholdssagen</sp> S. 227.</chapter>
+<b>Drankerasyler,</b> se <sp>Afholdssagen</sp> S. 227.
+</chapter>
 
 <chapter name="Drankergalskab">
-<b>Drankergalskab,</b> se <sp>Delirium</sp>.</chapter>
+<b>Drankergalskab,</b> se <sp>Delirium</sp>.
+</chapter>
 
 <chapter name="Drankersyge">
-<b>Drankersyge,</b> d. s. s. <sp>Alkoholisme</sp>.</chapter>
+<b>Drankersyge,</b> d. s. s. <sp>Alkoholisme</sp>.
+</chapter>
 
 <chapter name="Dranse">
 <b>Dranse</b> [drã.s] eller <sp>Drance</sp>. 1) <sp>D. de
@@ -130,7 +134,8 @@ Jónsson</sp>, »Stutt isl. bragfræði« [1892]).
 <b>drapeau</b> [dra'po] (fr.), Fane, Banner; <i>d.
 blanc</i> [-'blã], i Frankrig det hvide
 Lilliebanner, Bourbon'ernes Partimærke; <i>d. rouge</i>
-[-'ru.з], den røde Republiks Fane.</chapter>
+[-'ru.з], den røde Republiks Fane.
+</chapter>
 
 <chapter name="Draper, Henry">
 <b>Draper</b> ['dre<sub>i</sub>pə], <sp>Henry</sp>, amer.

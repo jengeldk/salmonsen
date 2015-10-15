@@ -5,7 +5,8 @@ Harlekin.
 </chapter>
 
 <chapter name="Colombo">
-<b>Colombo,</b> se <sp>Columbus</sp>.</chapter>
+<b>Colombo,</b> se <sp>Columbus</sp>.
+</chapter>
 
 <chapter name="Colombo, Giuseppe">
 <b>Colombo,</b> <sp>Giuseppe</sp>, ital. Ingeniør og
@@ -63,10 +64,12 @@ af alle.
 </chapter>
 
 <chapter name="Colon">
-<b>Colon,</b> d. s. s. <sp>Tyktarm</sp>.</chapter>
+<b>Colon,</b> d. s. s. <sp>Tyktarm</sp>.
+</chapter>
 
 <chapter name="Colón">
-<b>Colón</b> [kå'lån], se <sp>Columbus</sp>.</chapter>
+<b>Colón</b> [kå'lån], se <sp>Columbus</sp>.
+</chapter>
 
 <chapter name="Colón">
 <b>Colón</b> [kå'lån], tidligere kaldt <sp>Aspinwall</sp>,
@@ -105,7 +108,8 @@ Indh.
 Oberst. <i>Lieutenant-c.</i> [ljøt'nã-], Oberstløjtnant.
 I typografisk Betydning en Skr. paa 7 Punkter,
 af Størrelse mellem Nonpareille og Petit. I
-nærværende Leksikon er anvendt en c.-Skrift.</chapter>
+nærværende Leksikon er anvendt en c.-Skrift.
+</chapter>
 
 <chapter name="colonia">
 <b>colonia</b> (lat.), Forpagtningsforhold, <i>c.

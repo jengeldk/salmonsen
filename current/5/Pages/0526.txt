@@ -36,10 +36,12 @@ tilbage til Kedelvandet.
 </chapter>
 
 <chapter name="Dampvogn">
-<b>Dampvogn,</b> se <sp>Lokomotiv</sp>.</chapter>
+<b>Dampvogn,</b> se <sp>Lokomotiv</sp>.
+</chapter>
 
 <chapter name="Damrokke">
-<b>Damrokke</b> (<i>Apus</i>), se <sp>Bladfødder</sp>.</chapter>
+<b>Damrokke</b> (<i>Apus</i>), se <sp>Bladfødder</sp>.
+</chapter>
 
 <chapter name="Damrosch, Leopold">
 <b>Damrosch</b> ['damrå∫], <sp>Leopold</sp>, tysk
@@ -66,10 +68,12 @@ nogle i Amerika opførte Operaer.
 </chapter>
 
 <chapter name="Damrør">
-<b>Damrør,</b> se <sp>Dambrug</sp>.</chapter>
+<b>Damrør,</b> se <sp>Dambrug</sp>.
+</chapter>
 
 <chapter name="Damsnæppe">
-<b>Damsnæppe</b> (<i>Totánus stagnatilis</i>), se <sp>Klirer</sp>.</chapter>
+<b>Damsnæppe</b> (<i>Totánus stagnatilis</i>), se <sp>Klirer</sp>.
+</chapter>
 
 <chapter name="Damspil">
 <b>Damspil,</b> et Brætspil, rimeligvis fremstaaet

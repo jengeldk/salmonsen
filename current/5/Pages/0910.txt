@@ -53,7 +53,8 @@ sur M. D.</i> [Paris 1841]).
 </chapter>
 
 <chapter name="Daunus">
-<b>Daunus,</b> se <sp>Daunia</sp>.</chapter>
+<b>Daunus,</b> se <sp>Daunia</sp>.
+</chapter>
 
 <chapter name="Dauphin, suveræne Herskere">
 <b>Dauphin</b> [do'fæ] (fr., lat. <i>delphinus</i> [Delfin])

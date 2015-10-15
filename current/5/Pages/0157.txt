@@ -94,7 +94,8 @@ nøjagtig Gengivelse af de foreskrevne Noder.
 </chapter>
 
 <chapter name="Côme">
-<b>Côme</b> [ko.m], <sp>Frère</sp>, se <sp>Baseilhac</sp>.</chapter>
+<b>Côme</b> [ko.m], <sp>Frère</sp>, se <sp>Baseilhac</sp>.
+</chapter>
 
 <chapter name="Comedia">
 <b>Comedia</b> [kå'mæð<sub>i</sub>a] (sp.), er hos Spanierne
@@ -134,7 +135,8 @@ espagnole du XVII. siècle</i> [Paris 1885]).
 
 <chapter name="Comédie-Française">
 <b>Comédie-Française</b> [kåme'di-frã'sæ.z], se
-<sp>Théâtre-Français</sp>.</chapter>
+<sp>Théâtre-Français</sp>.
+</chapter>
 
 <chapter name="Comedo">
 <b>Comedo</b> kaldes smaa, hvidlige Knuder, i

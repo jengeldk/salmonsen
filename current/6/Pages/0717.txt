@@ -10,10 +10,12 @@ store Ocean, hørende til Ralik-Kæden i
 Marshall's Archipelag. Den bestaar af et stort
 Ringrev, hvorpaa der ligger en Snes Smaaøer,
 bevoksede med Kokospalmer og Brødfrugttræer,
-5 km<sup>2</sup> med c. 800 Indb.</chapter>
+5 km<sup>2</sup> med c. 800 Indb.
+</chapter>
 
 <chapter name="Ebonit">
-<b>Ebonit,</b> se <sp>Kautsjuk</sp>.</chapter>
+<b>Ebonit,</b> se <sp>Kautsjuk</sp>.
+</chapter>
 
 <chapter name="Eboracum">
 <b>Eboracum</b> (<sp>Eburacum</sp>), angelsachsisk
@@ -98,7 +100,8 @@ Urgel.
 </chapter>
 
 <chapter name="Ebræer">
-<b>Ebræer,</b> se <sp>Hebræer</sp>.</chapter>
+<b>Ebræer,</b> se <sp>Hebræer</sp>.
+</chapter>
 
 <chapter name="Ebstein, Wilhelm">
 <b>Ebstein</b> ['æp∫ta^in], <sp>Wilhelm</sp>, tysk Læge,
@@ -138,18 +141,22 @@ over E.'s Arbejder se Janus 1909 og Oktbr
 </chapter>
 
 <chapter name="Ebullioskop">
-<b>Ebullioskop,</b> se <sp>Alkoholometri</sp>.</chapter>
+<b>Ebullioskop,</b> se <sp>Alkoholometri</sp>.
+</chapter>
 
 <chapter name="ebur">
 <b>ebur</b> (lat.), Elfenben; <i>e. ustum</i>, brændt
 Elfenben, benyttes til Dels som Betegnelse for
-<sp>Bensort</sp> (se <sp>Benkul</sp>).</chapter>
+<sp>Bensort</sp> (se <sp>Benkul</sp>).
+</chapter>
 
 <chapter name="Ebura">
-<b>Ebura,</b> se <sp>Eboli</sp>.</chapter>
+<b>Ebura,</b> se <sp>Eboli</sp>.
+</chapter>
 
 <chapter name="Eburacum">
-<b>Eburacum,</b> se <sp>Eboracum</sp>.</chapter>
+<b>Eburacum,</b> se <sp>Eboracum</sp>.
+</chapter>
 
 <chapter name="Eburnation">
 <b>Eburnation</b> kaldes i Lægevidenskaben en

@@ -119,10 +119,12 @@ D.« i »Edda« I, 122-144).
 </chapter>
 
 <chapter name="Daa ell. Daadyr">
-<b>Daa</b> ell. <sp>Daadyr</sp> (<i>Cérvus dáma</i>), se <sp>Hjorte</sp>.</chapter>
+<b>Daa</b> ell. <sp>Daadyr</sp> (<i>Cérvus dáma</i>), se <sp>Hjorte</sp>.
+</chapter>
 
 <chapter name="Daa (bot.)">
-<b>Daa</b> (bot.), se <sp>Galeopsis</sp>.</chapter>
+<b>Daa</b> (bot.), se <sp>Galeopsis</sp>.
+</chapter>
 
 <chapter name="Daab">
 <b>Daab</b> betegner den Handling, hvorved et Menneske

@@ -6,24 +6,29 @@ Småland.
 
 <chapter name="Ekskavator">
 <b>Ekskavator</b> (lat.), se <sp>Gravemaskine</sp>
-og <sp>Uddybningsmaskine</sp>.</chapter>
+og <sp>Uddybningsmaskine</sp>.
+</chapter>
 
 <chapter name="eksklamere">
 <b>eksklamere</b> (lat.), udraabe;
-<sp>Eksklamation</sp>, Udraab.</chapter>
+<sp>Eksklamation</sp>, Udraab.
+</chapter>
 
 <chapter name="ekskludere">
 <b>ekskludere</b> (lat.), udelukke; <sp>Eksklusion</sp>,
-Udelukkelse.</chapter>
+Udelukkelse.
+</chapter>
 
 <chapter name="eksklusiv">
 <b>eksklusiv</b> (lat.), udelukkende,
 indskrænkende, ensidig, ufordragelig; <sp>eksklusive</sp>
 (lat.), med Udelukkelse af, fraregnet
-(Modsætning: <sp>inklusive</sp>).</chapter>
+(Modsætning: <sp>inklusive</sp>).
+</chapter>
 
 <chapter name="Ekskommunikation">
-<b>Ekskommunikation</b> ['æks-] (lat.), se <sp>Band</sp>.</chapter>
+<b>Ekskommunikation</b> ['æks-] (lat.), se <sp>Band</sp>.
+</chapter>
 
 <chapter name="Ekskoriation">
 <b>Ekskoriation</b> (af lat. <i>córium</i>, Læderhuden),
@@ -122,7 +127,8 @@ og Anvendelsen af Menneske-E., se
 </chapter>
 
 <chapter name="Ekskrescens">
-<b>Ekskrescens</b> (lat.), Udvækst, Knude, Vorte.</chapter>
+<b>Ekskrescens</b> (lat.), Udvækst, Knude, Vorte.
+</chapter>
 
 <chapter name="Ekskreter">
 <b>Ekskreter</b> (lat.) har man kaldet de
@@ -154,16 +160,19 @@ Organ.
 </chapter>
 
 <chapter name="Ekskreter">
-<b>Ekskreter</b> (<sp>bot</sp>.), d. s. s. <sp>Affaldsstoffer</sp>.</chapter>
+<b>Ekskreter</b> (<sp>bot</sp>.), d. s. s. <sp>Affaldsstoffer</sp>.
+</chapter>
 
 <chapter name="Ekskretion">
 <b>Ekskretion,</b> Afsondring af Ekskreter (s. d.
-og <sp>Kirtler</sp>).</chapter>
+og <sp>Kirtler</sp>).
+</chapter>
 
 <chapter name="ekskulpere">
 <b>ekskulpere</b> (lat.), frikende for Skyld,
 retfærdiggøre. Det tilsvarende Hovedord
-<sp>Ekskulpation</sp>.</chapter>
+<sp>Ekskulpation</sp>.
+</chapter>
 
 <chapter name="Ekskurs">
 <b>Ekskurs</b> (lat.), en Afvigelse fra ell. Svæven

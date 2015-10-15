@@ -19,11 +19,13 @@ heller ikke den Rolle som i gl. Dage.
 
 <chapter name="Eksauguration">
 <b>Eksauguration</b> (lat.), Ophævelse af et Steds
-Hellighed; modsat Inauguration.</chapter>
+Hellighed; modsat Inauguration.
+</chapter>
 
 <chapter name="ekscedere">
 <b>ekscedere</b> (lat.), overskride (det tilladelige),
-gaa til Yderligheder, begaa Ekscesser.</chapter>
+gaa til Yderligheder, begaa Ekscesser.
+</chapter>
 
 <chapter name="Ekscellence">
 <b>Ekscellence</b> (lat. <i>excelléntia</i>, Fortræffelighed,
@@ -73,11 +75,13 @@ anvendes den for Tiden ikke.
 
 <chapter name="ekscellere">
 <b>ekscellere</b> (lat.), udmærke sig, overtræffe;
-<sp>ekscellént</sp>, udmærket, fortræffelig.</chapter>
+<sp>ekscellént</sp>, udmærket, fortræffelig.
+</chapter>
 
 <chapter name="Ekscelsiorgas">
 <b>Ekscelsiorgas,</b> en Art Belysningsgas,
-fremstillet ved Karburering af Luft; se <sp>Luftgas</sp>.</chapter>
+fremstillet ved Karburering af Luft; se <sp>Luftgas</sp>.
+</chapter>
 
 <chapter name="Ekscenter">
 <b>Ekscenter</b> (<sp>Ekscentrik</sp>) er en
@@ -130,14 +134,16 @@ Akse (se <sp>Ellipse</sp> og <sp>Hyperbel</sp>).
 Vinkelmaaling opstaar derved, at Cirklens
 Omdrejningsakse ikke gaar nøjagtig gennem
 Centret af den inddelte Cirkel. E. bortskaffes ved
-at aflæse Cirklen paa to diametrale Punkter.</chapter>
+at aflæse Cirklen paa to diametrale Punkter.
+</chapter>
 
 <chapter name="ekscentrisk">
 <b>ekscentrisk</b> (lat.), Tanker og Handlinger,
 der savner fast Holdepunkt, kaldes e.; uden
 Midtpunkt, original, overspændt, afvigende fra
 det alm. - Figurer, hvis Centrum ikke falder
-sammen, er e.</chapter>
+sammen, er e.
+</chapter>
 
 <chapter name="Eksception">
 <b>Eksception</b> (lat.), Undtagelse, Indsigelse,
@@ -154,7 +160,8 @@ tages til Følge.
 
 <chapter name="eksceptionel">
 <b>eksceptionel</b> (lat.), indeholdende en
-Undtagelse, undtagelsesvis, usædvanlig, enestaaende.</chapter>
+Undtagelse, undtagelsesvis, usædvanlig, enestaaende.
+</chapter>
 
 <chapter name="Ekscerebration">
 <b>Ekscerebration</b> ['æks-] (lat.), Udpresning
@@ -165,19 +172,23 @@ af Fosterhjernen efter Knusning af Kraniet, se
 
 <chapter name="ekscerpere">
 <b>ekscerpere</b> (lat.), gøre et Uddrag af et
-Skrift; <sp>Ekscerpt</sp>, Uddrag; Udtog af et Skr.</chapter>
+Skrift; <sp>Ekscerpt</sp>, Uddrag; Udtog af et Skr.
+</chapter>
 
 <chapter name="Eksces">
 <b>Eksces</b> (lat.), Overskridelse af visse
 Grænser, Overdrivelse, Udsvævelse, voldsom
-Fremfærd, Uorden.</chapter>
+Fremfærd, Uorden.
+</chapter>
 
 <chapter name="Eksces i Nødværge">
-<b>Eksces i Nødværge,</b> se <sp>Nødværge</sp>.</chapter>
+<b>Eksces i Nødværge,</b> se <sp>Nødværge</sp>.
+</chapter>
 
 <chapter name="ekscessiv">
 <b>ekscessiv</b> (fr.), overskridende Maalet,
-umaadelig, overdreven.</chapter>
+umaadelig, overdreven.
+</chapter>
 
 <chapter name="Ekscision">
 <b>Ekscision</b> (lat.), Udskæring af en Svulst

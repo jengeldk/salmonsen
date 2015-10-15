@@ -70,7 +70,8 @@ Jahrhunderte« (1912).
 </chapter>
 
 <chapter name="Dunhammer">
-<b>Dunhammer,</b> se <sp>Typha</sp>.</chapter>
+<b>Dunhammer,</b> se <sp>Typha</sp>.
+</chapter>
 
 <chapter name="Dunhammerfamilien">
 <b>Dunhammerfamilien</b> (norsk
@@ -169,7 +170,8 @@ engang var dækket af <sp>Birnam-Skoven</sp>
 </chapter>
 
 <chapter name="Dunkelfelt">
-<b>Dunkelfelt,</b> se <sp>Mørkefelt</sp>.</chapter>
+<b>Dunkelfelt,</b> se <sp>Mørkefelt</sp>.
+</chapter>
 
 <chapter name="Dunker, Carl Christian Henrik Bernhard">
 <b>Dunker,</b> <sp>Carl Christian Henrik

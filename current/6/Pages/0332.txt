@@ -64,13 +64,16 @@ Kirchenrecht«, Tübingen 1904]).
 </chapter>
 
 <chapter name="Donation">
-<b>Donation</b> (lat.) Gave.</chapter>
+<b>Donation</b> (lat.) Gave.
+</chapter>
 
 <chapter name="Donati's Komet">
-<b>Donati's Komet,</b> se <sp>Komet</sp>.</chapter>
+<b>Donati's Komet,</b> se <sp>Komet</sp>.
+</chapter>
 
 <chapter name="Donatisme">
-<b>Donatisme,</b> se <sp>Donatister</sp>.</chapter>
+<b>Donatisme,</b> se <sp>Donatister</sp>.
+</chapter>
 
 <chapter name="Donatister">
 <b>Donatister,</b> skismatisk Parti i Nordafrika i
@@ -153,10 +156,12 @@ skæbnesvanger (f. Eks. for Galba).
 
 <chapter name="Donator">
 <b>Donator</b> (lat.), Giver; Stifter. <sp>Donatrix</sp>,
-Giverinde, Stifterske.</chapter>
+Giverinde, Stifterske.
+</chapter>
 
 <chapter name="Donatus">
-<b>Donatus,</b> se <sp>Donatister</sp>.</chapter>
+<b>Donatus,</b> se <sp>Donatister</sp>.
+</chapter>
 
 <chapter name="Donatus, Ælius">
 <b>Donatus,</b> <sp>Ælius</sp>, rom. Grammatiker fra c.

@@ -83,11 +83,13 @@ formindsket.
 
 <chapter name="dismembrere">
 <b>dismembrere</b> (lat.), sønderdele, udstykke
-(jfr. <sp>Dismembration</sp>).</chapter>
+(jfr. <sp>Dismembration</sp>).
+</chapter>
 
 <chapter name="Dis-mol">
 <b>Dis-mol,</b> den Mol-Tonart, der har <sp>Dis</sp> til
-Grundtone; den har 6 ♯; se <sp>Dis</sp>.</chapter>
+Grundtone; den har 6 ♯; se <sp>Dis</sp>.
+</chapter>
 
 <chapter name="Dison">
 <b>Dison</b> [di'zå], By i det østlige Belgien, Prov.
@@ -121,7 +123,8 @@ Maaned protesteres imod den.
 </chapter>
 
 <chapter name="Dispachør">
-<b>Dispachør</b> [-'∫ø'r], se <sp>Dispache</sp>.</chapter>
+<b>Dispachør</b> [-'∫ø'r], se <sp>Dispache</sp>.
+</chapter>
 
 <chapter name="disparate Begreber">
 <b>disparate Begreber</b> er saadanne, som vel
@@ -164,7 +167,8 @@ Tarent.
 </chapter>
 
 <chapter name="dispensable Grader">
-<b>dispensable Grader,</b> se <sp>Blodskam</sp>.</chapter>
+<b>dispensable Grader,</b> se <sp>Blodskam</sp>.
+</chapter>
 
 <chapter name="Dispensation">
 <b>Dispensation</b> (lat.), en for et enkelt

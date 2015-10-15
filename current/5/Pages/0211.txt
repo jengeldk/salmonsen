@@ -54,7 +54,8 @@ Telegrafien meget fremad.
 </chapter>
 
 <chapter name="Cookeit">
-<b>Cookeit</b> [ku'kit], se <sp>Glimmer</sp>.</chapter>
+<b>Cookeit</b> [ku'kit], se <sp>Glimmer</sp>.
+</chapter>
 
 <chapter name="Cook Inlet">
 <b>Cook Inlet</b> ['kuk-in£<sub>ə</sub>t] (<sp>Cook Sound</sp>),
@@ -65,7 +66,8 @@ og Kenai-Halvøen.
 </chapter>
 
 <chapter name="Cooks Nordkap">
-<b>Cooks Nordkap</b> ['kuks-], se <sp>Irkaipij</sp>.</chapter>
+<b>Cooks Nordkap</b> ['kuks-], se <sp>Irkaipij</sp>.
+</chapter>
 
 <chapter name="Cooks-Stræde">
 <b>Cooks-Stræde</b> ['kuks-] adskiller Ny Zeelands
@@ -184,5 +186,6 @@ Virksomhed som Illustrator.
 </chapter>
 
 <chapter name="Coomassie">
-<b>Coomassie</b> [ku'mäs<sub>i</sub>], se <sp>Kumassi</sp>.</chapter>
+<b>Coomassie</b> [ku'mäs<sub>i</sub>], se <sp>Kumassi</sp>.
+</chapter>
 

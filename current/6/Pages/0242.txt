@@ -9,7 +9,8 @@ at blive Senatorer og Ministre.
 <chapter name="dissidere">
 <b>dissidere</b> (lat.), sidde skilt fra hverandre;
 nære afvigende Anskuelser; udsondre sig fra en
-herskende Kirke (se <sp>Dissidenter</sp>).</chapter>
+herskende Kirke (se <sp>Dissidenter</sp>).
+</chapter>
 
 <chapter name="Dissimilation">
 <b>Dissimilation</b> kalder man et Lydskifte,
@@ -64,11 +65,13 @@ og <i>il</i>.
 <b>dissimulere</b> (lat.), hemmeligholde, ikke lade
 sig mærke, forstille sig. En Syg kan d. en
 Sygdom, en Rask kan simulere den;
-<sp>Dissimulation</sp>, Forstillelse, Fordølgelse.</chapter>
+<sp>Dissimulation</sp>, Forstillelse, Fordølgelse.
+</chapter>
 
 <chapter name="dissipere">
 <b>dissipere</b> (lat.), sprede, ødelægge;
-<sp>Dissipation</sp>, Spredning, Bortødslen, Adspredthed.</chapter>
+<sp>Dissipation</sp>, Spredning, Bortødslen, Adspredthed.
+</chapter>
 
 <chapter name="Dissna">
 <b>Dissna</b> ['d<sub>i</sub>isn<sub>a</sub>], By i det vestlige Rusland,
@@ -150,12 +153,14 @@ fuldstændig D. indtræde med et Spring.
 
 <chapter name="Dissociationskonstant">
 <b>Dissociationskonstant</b> se
-<sp>elektrolytisk Dissociation</sp>.</chapter>
+<sp>elektrolytisk Dissociation</sp>.
+</chapter>
 
 <chapter name="dissociere">
 <b>dissociere</b> (lat.), adskille, bryde en
 Forbindelse, opløse, sønderdele; <sp>dissociabel</sp>,
-adskillelig, sønderdelelig, uforenelig, uselskabelig.</chapter>
+adskillelig, sønderdelelig, uforenelig, uselskabelig.
+</chapter>
 
 <chapter name="Dissogoni">
 <b>Dissogoni,</b> en Betegnelse, der af Chun

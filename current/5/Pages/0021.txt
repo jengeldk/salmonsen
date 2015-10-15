@@ -36,7 +36,8 @@ end en Halvcirkel.
 </chapter>
 
 <chapter name="Cirkel i Kronologien">
-<b>Cirkel</b> i Kronologien, se <sp>Cyklus</sp>.</chapter>
+<b>Cirkel</b> i Kronologien, se <sp>Cyklus</sp>.
+</chapter>
 
 <chapter name="Cirkel, nautisk Instrument">
 <b>Cirkel</b> (Prisme-C. ell. Pistors C.), nautisk
@@ -64,23 +65,29 @@ bevist, allerede er forudset i Præmisserne.
 
 <chapter name="Cirkelpunkterne">
 <b>Cirkelpunkterne</b> (mat.), se <sp>projektiv
-Metrik</sp>.</chapter>
+Metrik</sp>.
+</chapter>
 
 <chapter name="Cirkelsav">
-<b>Cirkelsav,</b> se <sp>Rundsav</sp>.</chapter>
+<b>Cirkelsav,</b> se <sp>Rundsav</sp>.
+</chapter>
 
 <chapter name="Cirklens Kvadratur">
-<b>Cirklens Kvadratur,</b> se <sp>Cirkel</sp>.</chapter>
+<b>Cirklens Kvadratur,</b> se <sp>Cirkel</sp>.
+</chapter>
 
 <chapter name="Cirkulation">
 <b>Cirkulation,</b> Opvarmning ved C., se
-<sp>Opvarmningsanlæg</sp>.</chapter>
+<sp>Opvarmningsanlæg</sp>.
+</chapter>
 
 <chapter name="cirkulere">
-<b>cirkulere</b> (lat.), være i Omløb, gaa rundt.</chapter>
+<b>cirkulere</b> (lat.), være i Omløb, gaa rundt.
+</chapter>
 
 <chapter name="cirkulær. d. s. s. cirkelformet">
-<b>cirkulær,</b> d. s. s. cirkelformet.</chapter>
+<b>cirkulær,</b> d. s. s. cirkelformet.
+</chapter>
 
 <chapter name="cirkulær, Betegnelse for Sygdomme">
 <b>cirkulær,</b> Betegnelse for Sygdomme, hvis
@@ -125,7 +132,8 @@ hvis <i>sin</i>., <i>cos</i>. o. s. v. er = <i>x</i>.
 
 <chapter name="Cirkulærkreditbrev">
 <b>Cirkulærkreditbrev,</b> d. s. s.
-<sp>Cirkulærakkreditiv</sp>.</chapter>
+<sp>Cirkulærakkreditiv</sp>.
+</chapter>
 
 <chapter name="Cirkulærnote">
 <b>Cirkulærnote</b> kaldes i det diplomatiske Sprog
@@ -139,7 +147,8 @@ disse Hoffers Kendskab
 
 <chapter name="Cirkulærpolarisation">
 <b>Cirkulærpolarisation,</b> se <sp>Polarisation</sp>,
-<sp>Lysets</sp>.</chapter>
+<sp>Lysets</sp>.
+</chapter>
 
 <chapter name="Cirkumcisio">
 <b>Cirkumcisio,</b> Operation, hvorved Forhuden

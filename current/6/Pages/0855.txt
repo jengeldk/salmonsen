@@ -59,7 +59,8 @@ og udenlandske lærde Selskaber.
 </chapter>
 
 <chapter name="Ekinokok">
-<b>Ekinokok,</b> d. s. s. <sp>Echinococcus</sp>.</chapter>
+<b>Ekinokok,</b> d. s. s. <sp>Echinococcus</sp>.
+</chapter>
 
 <chapter name="Ekkehart">
 <b>Ekkehart</b> (<sp>Eckehart</sp>) er Navnet paa fl.
@@ -91,7 +92,8 @@ Verein in Skt Gallen« [1877]).
 </chapter>
 
 <chapter name="Ekklesia">
-<b>Ekklesia,</b> se <sp>Ecclesia</sp>.</chapter>
+<b>Ekklesia,</b> se <sp>Ecclesia</sp>.
+</chapter>
 
 <chapter name="Ekklesia">
 <b>Ekklesia</b> (gr.), Folkeforsamling, specielt den
@@ -129,7 +131,8 @@ sørge for det, der vedrører Gudstjenesten.
 </chapter>
 
 <chapter name="Ekklesiastes">
-<b>Ekklesiastes,</b> gr. Titel paa Prædikerens Bog.</chapter>
+<b>Ekklesiastes,</b> gr. Titel paa Prædikerens Bog.
+</chapter>
 
 <chapter name="Ekko">
 <b>Ekko</b> ['æko], Tilbagekastning af Lyd under

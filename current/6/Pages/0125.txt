@@ -68,7 +68,8 @@ Nervesystemets Funktioner.
 </chapter>
 
 <chapter name="Diatessaron">
-<b>Diatessaron,</b> gr. Betegnelse for <sp>Kvarten</sp>.</chapter>
+<b>Diatessaron,</b> gr. Betegnelse for <sp>Kvarten</sp>.
+</chapter>
 
 <chapter name="Diatheke">
 <b>Diatheke</b> [-'te.-] (gr. διαθήκη), Betegnelse

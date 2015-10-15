@@ -70,7 +70,8 @@ og lade ved Højvande.
 
 <chapter name="Dorobanti">
 <b>Dorobanti</b> [doro'bantsi] (<sp>Dorobanzer</sp>),
-rumænsk Infanteri.</chapter>
+rumænsk Infanteri.
+</chapter>
 
 <chapter name="Dorogobush">
 <b>Dorogobush</b> [d<sub>a</sub>r<sub>a</sub>ga'bu∫], By i

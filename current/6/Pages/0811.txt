@@ -62,7 +62,8 @@ men kun finder ringe Anvendelse.
 
 <chapter name="egregie">
 <b>egregie</b> (lat.), ud af Flokken, fremfor andre,
-fortrinlig (se <sp>laudabilis</sp>).</chapter>
+fortrinlig (se <sp>laudabilis</sp>).
+</chapter>
 
 <chapter name="Egremont">
 <b>Egremont</b> ['egr<sub>ə</sub>m<sub>ə</sub>nt], By i Nordengland,
@@ -73,7 +74,8 @@ grundedes 1120. (1911) 6305 Indb.
 </chapter>
 
 <chapter name="Egrenermaskiner">
-<b>Egrenermaskiner,</b> se <sp>Bomuld</sp>.</chapter>
+<b>Egrenermaskiner,</b> se <sp>Bomuld</sp>.
+</chapter>
 
 <chapter name="Egressy, Gabriel">
 <b>Egressy</b> ['ægræ∫i], <sp>Gabriel</sp>, ung.
@@ -101,7 +103,8 @@ kunde vende tilbage til sin Livsgerning.
 </chapter>
 
 <chapter name="Egripo">
-<b>Egripo,</b> se <sp>Chalkis</sp>.</chapter>
+<b>Egripo,</b> se <sp>Chalkis</sp>.
+</chapter>
 
 <chapter name="Eg Sindssygeasyl">
 <b>Eg Sindssygeasyl</b> ligger c. 5 km N. f.

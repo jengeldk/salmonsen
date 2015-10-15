@@ -42,10 +42,12 @@ indtil Harpiksen flyder ud.
 </chapter>
 
 <chapter name="Clusiaceæ">
-<b>Clusiaceæ,</b> se <sp>Guttiferæ</sp>.</chapter>
+<b>Clusiaceæ,</b> se <sp>Guttiferæ</sp>.
+</chapter>
 
 <chapter name="Clusius">
-<b>Clusius,</b> se <sp>Lecluse, Ch. de</sp>.</chapter>
+<b>Clusius,</b> se <sp>Lecluse, Ch. de</sp>.
+</chapter>
 
 <chapter name="Clusone">
 <b>Clusone,</b> tysk <sp>Klausen</sp>, By i Norditalien,
@@ -124,11 +126,13 @@ Maskinfabrikker.
 </chapter>
 
 <chapter name="Clydesdale">
-<b>Clydesdale</b> ['k£a^idzde<sub>i</sub>£], se <sp>Clyde</sp>.</chapter>
+<b>Clydesdale</b> ['k£a^idzde<sub>i</sub>£], se <sp>Clyde</sp>.
+</chapter>
 
 <chapter name="Clydesdale Terrier">
 <b>Clydesdale Terrier</b> [k£a^idzde<sub>i</sub>£-'ter<sub>i</sub>ə], en
-eng. Hunderace, se <sp>Hunde</sp>.</chapter>
+eng. Hunderace, se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Clymenia">
 <b>Clymenia,</b> spiralsnoet, flad, skiveformet
@@ -139,7 +143,8 @@ Devonformationens øvre Afdeling.
 </chapter>
 
 <chapter name="Clypeastridæ">
-<b>Clypeastridæ,</b> se <sp>Søpindsvin</sp>.</chapter>
+<b>Clypeastridæ,</b> se <sp>Søpindsvin</sp>.
+</chapter>
 
 <chapter name="Clüver (Cluverius), Philipp">
 <b>Clüver</b> ['kly.v<sub>ə</sub>r] (<sp>Cluverius</sp>), <sp>Philipp</sp>,
@@ -184,4 +189,5 @@ Gudindestatue, Venus, hvortil Sagnet havde fæstet sig.
 
 <chapter name="c/m">
 <b>c/m,</b> d. s. s. <i>cónto mio</i>, i Bogholderi =
-min Konto.</chapter>
+min Konto.
+</chapter>

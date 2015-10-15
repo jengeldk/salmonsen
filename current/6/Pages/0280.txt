@@ -103,25 +103,30 @@ Sydpol forlader den, og omvendt.
 </chapter>
 
 <chapter name="Dobbeltstrømtelegrafering">
-<b>Dobbeltstrømtelegrafering,</b> se <sp>Telegraf</sp>.</chapter>
+<b>Dobbeltstrømtelegrafering,</b> se <sp>Telegraf</sp>.
+</chapter>
 
 <chapter name="Dobbeltsuger">
-<b>Dobbeltsuger,</b> se <sp>Gobiesocidae</sp>.</chapter>
+<b>Dobbeltsuger,</b> se <sp>Gobiesocidae</sp>.
+</chapter>
 
 <chapter name="Dobbeltsyn">
-<b>Dobbeltsyn,</b> se <sp>Diplopi</sp>.</chapter>
+<b>Dobbeltsyn,</b> se <sp>Diplopi</sp>.
+</chapter>
 
 <chapter name="Dobbelttangent">
 <b>Dobbelttangent</b> (<sp>mat</sp>.) til en Kurve er en
 Linie, der er Tangent til
 Kurven i to forskellige
 Punkter (se Figur.).
-<i>Chr. C.</i>
 
-<img></img></chapter>
+<img></img>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Dobbelt-T-Anker">
-<b>Dobbelt-T-Anker,</b> se <sp>Dynamo</sp>.</chapter>
+<b>Dobbelt-T-Anker,</b> se <sp>Dynamo</sp>.
+</chapter>
 
 <chapter name="Dobbelt-T-Jern">
 <b>Dobbelt-T-Jern,</b> ogsaa kaldet I-Jern, er
@@ -157,5 +162,6 @@ Triller:<img></img>
 </chapter>
 
 <chapter name="Dobbeltvitriol">
-<b>Dobbeltvitriol,</b> d. s. s. <sp>Admontervitriol</sp>.</chapter>
+<b>Dobbeltvitriol,</b> d. s. s. <sp>Admontervitriol</sp>.
+</chapter>
 

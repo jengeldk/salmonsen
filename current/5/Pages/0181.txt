@@ -7,7 +7,8 @@ Paris 1798).
 </chapter>
 
 <chapter name="con discrezione">
-<b>con discrezione</b> [-'tsione], se <sp>con</sp>.</chapter>
+<b>con discrezione</b> [-'tsione], se <sp>con</sp>.
+</chapter>
 
 <chapter name="conditio">
 <b>conditio</b> (rigtigere <i>condicio</i>), Betingelse,
@@ -19,10 +20,12 @@ ikke ɔ: ufravigelig Betingelse.
 </chapter>
 
 <chapter name="con dolcezza">
-<b>con dolcezza</b> [-'tset.sa], se <sp>con</sp>.</chapter>
+<b>con dolcezza</b> [-'tset.sa], se <sp>con</sp>.
+</chapter>
 
 <chapter name="con dolore">
-<b>con dolore,</b> se <sp>con</sp>.</chapter>
+<b>con dolore,</b> se <sp>con</sp>.
+</chapter>
 
 <chapter name="Condom">
 <b>Condom</b> [kå'då], By i det sydvestlige
@@ -47,7 +50,8 @@ Grevskabet Condomois, og Bispesæde 1317-1790.
 
 <chapter name="condominium">
 <b>condominium</b> (lat.), Sameje. Smlg.
-<sp>Kondominat</sp>.</chapter>
+<sp>Kondominat</sp>.
+</chapter>
 
 <chapter name="Cóndor">
 <b>Cóndor</b> ['kandår], Guldmønt i Chile = 20

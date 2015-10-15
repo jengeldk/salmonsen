@@ -52,7 +52,8 @@ L. om Arbejdsformidling af 12. Juni 1906.
 </chapter>
 
 <chapter name="Dehn, A. N.">
-<b>Dehn</b> [de'n], <sp>A. N.</sp>, se <sp>Gjørling</sp>.</chapter>
+<b>Dehn</b> [de'n], <sp>A. N.</sp>, se <sp>Gjørling</sp>.
+</chapter>
 
 <chapter name="Dehn, Siegfried Wilhelm">
 <b>Dehn</b> [de.n], <sp>Siegfried Wilhelm</sp>, tysk
@@ -88,7 +89,8 @@ redigerede Musikbladet »Cæcilia«.
 </chapter>
 
 <chapter name="Dehna">
-<b>Dehna,</b> se <sp>Dahna</sp>.</chapter>
+<b>Dehna,</b> se <sp>Dahna</sp>.
+</chapter>
 
 <chapter name="Dehodencq, Edme Alfred Alexis">
 <b>Dehodencq</b> [d<sub>ö</sub>å'dã.k], <sp>Edme Alfred Alexis</sp>,
@@ -113,10 +115,12 @@ l'artiste</i> [Paris 1900]).
 </chapter>
 
 <chapter name="de hodierno die">
-<b>de hodierno die</b> (lat.), fra i Dag af.</chapter>
+<b>de hodierno die</b> (lat.), fra i Dag af.
+</chapter>
 
 <chapter name="De Hondt">
-<b>De Hondt</b> [də-'hånt], se <sp>Canisius</sp>.</chapter>
+<b>De Hondt</b> [də-'hånt], se <sp>Canisius</sp>.
+</chapter>
 
 <chapter name="Dehortatorium">
 <b>Dehortatorium</b> (lat.) brugtes navnlig

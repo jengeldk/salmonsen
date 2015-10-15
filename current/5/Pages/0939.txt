@@ -65,7 +65,8 @@ Muséum</i> (9 Bd, 1858-75); og sammen med Naudin
 </chapter>
 
 <chapter name="Decamerone, il">
-<b>Decamerone, il,</b> se <sp>Boccaccio</sp>.</chapter>
+<b>Decamerone, il,</b> se <sp>Boccaccio</sp>.
+</chapter>
 
 <chapter name="Decamps, Alexandre Gabriel">
 <b>Decamps</b> [d<sub>ö</sub>'kã] (<sp>Descamps</sp>), <sp>Alexandre

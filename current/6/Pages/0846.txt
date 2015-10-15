@@ -80,10 +80,12 @@ henvises til vedk. Specialartikler.
 </chapter>
 
 <chapter name="Ejendomsfællesskab">
-<b>Ejendomsfællesskab,</b> se <sp>Sameje</sp>.</chapter>
+<b>Ejendomsfællesskab,</b> se <sp>Sameje</sp>.
+</chapter>
 
 <chapter name="Ejendomspronomen">
-<b>Ejendomspronomen,</b> d. s. s. <sp>Ejestedord</sp>.</chapter>
+<b>Ejendomspronomen,</b> d. s. s. <sp>Ejestedord</sp>.
+</chapter>
 
 <chapter name="Ejendomsretten">
 <b>Ejendomsretten</b> (<sp>jur</sp>.). Dette Udtryk

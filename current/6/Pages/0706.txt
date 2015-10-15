@@ -30,10 +30,12 @@ Cylindre fra Babylonien. (<sp>Litt</sp>.: <sp>M. Jastrow</sp>,
 </chapter>
 
 <chapter name="Eadgar">
-<b>Eadgar</b> ['edgə], se <sp>Edgar</sp>.</chapter>
+<b>Eadgar</b> ['edgə], se <sp>Edgar</sp>.
+</chapter>
 
 <chapter name="Eadmund">
-<b>Eadmund</b> ['edm<sub>ə</sub>nd], se <sp>Edmund</sp>.</chapter>
+<b>Eadmund</b> ['edm<sub>ə</sub>nd], se <sp>Edmund</sp>.
+</chapter>
 
 <chapter name="Eads">
 <b>Eads</b> [i.dz], <sp>James Buchanan</sp>,
@@ -84,7 +86,8 @@ Indb. og betydeligt Guldgraveri.
 </chapter>
 
 <chapter name="ealdorman">
-<b>ealdorman</b> ['e£dəmän], se <sp>Alderman</sp>.</chapter>
+<b>ealdorman</b> ['e£dəmän], se <sp>Alderman</sp>.
+</chapter>
 
 <chapter name="Ealing">
 <b>Ealing</b> ['i.£iŋ], Forstad til London, i det
@@ -96,7 +99,8 @@ Landsted.
 </chapter>
 
 <chapter name="Eap">
-<b>Eap,</b> se <sp>Yap</sp>.</chapter>
+<b>Eap,</b> se <sp>Yap</sp>.
+</chapter>
 
 <chapter name="Earl">
 <b>Earl</b> [ə.£], det nord. <sp>Jarl</sp>, var i

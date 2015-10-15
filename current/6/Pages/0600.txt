@@ -56,7 +56,8 @@ Bjærgningsdamper (smlg. <sp>Dykkerselskab</sp> og
 </chapter>
 
 <chapter name="Dykænder">
-<b>Dykænder,</b> se <sp>Ænder</sp>.</chapter>
+<b>Dykænder,</b> se <sp>Ænder</sp>.
+</chapter>
 
 <chapter name="Dyle">
 <b>Dyle</b> ['dæ^i£<sub>ə</sub>], Biflod til Schelde i det

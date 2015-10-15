@@ -54,11 +54,13 @@ Farve over hele Kroppen.
 </chapter>
 
 <chapter name="Digesta">
-<b>Digesta,</b> se <sp>Corpus juris</sp>.</chapter>
+<b>Digesta,</b> se <sp>Corpus juris</sp>.
+</chapter>
 
 <chapter name="Digestion">
 <b>Digestion</b> (lat.), se <sp>digerere</sp>; fysiologisk
-d. s. s. <sp>Fordøjelse</sp>; <sp>digestibel</sp>, fordøjelig.</chapter>
+d. s. s. <sp>Fordøjelse</sp>; <sp>digestibel</sp>, fordøjelig.
+</chapter>
 
 <chapter name="Digestivmidler">
 <b>Digestivmidler</b> (<i>Digestiva</i>),
@@ -81,10 +83,12 @@ allerede nævnte fortyndede Saltsyre.
 
 <chapter name="Digestivsalt">
 <b>Digestivsalt,</b> forældet Betegnelse for
-Kaliumklorid.</chapter>
+Kaliumklorid.
+</chapter>
 
 <chapter name="Digesvale">
-<b>Digesvale,</b> se <sp>Svaler</sp>.</chapter>
+<b>Digesvale,</b> se <sp>Svaler</sp>.
+</chapter>
 
 <chapter name="Dighton">
 <b>Dighton</b> ['da^it<sub>ə</sub>n], By i U. S. A., Stat
@@ -102,7 +106,8 @@ old Colay historical society 4</i> [Taunton 1889]).
 </chapter>
 
 <chapter name="di Giacomo">
-<b>di Giacomo</b> [-dзa'komo], se <sp>Giacomo</sp>.</chapter>
+<b>di Giacomo</b> [-dзa'komo], se <sp>Giacomo</sp>.
+</chapter>
 
 <chapter name="digital">
 <b>digital</b> (lat.) anvendes i Lægevidenskaben
@@ -116,7 +121,8 @@ en Sygdom har sit Sæde i Fingrene.
 </chapter>
 
 <chapter name="Digitalin">
-<b>Digitalin,</b> se, <sp>Digitalis</sp>.</chapter>
+<b>Digitalin,</b> se, <sp>Digitalis</sp>.
+</chapter>
 
 <chapter name="Digitalis">
 <b>Digitalis</b> (<sp>Fingerbøl</sp>), Slægt af

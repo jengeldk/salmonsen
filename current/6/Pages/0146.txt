@@ -42,11 +42,13 @@ Barnepleje« [8. Udg., Kbhvn. 1915]).
 
 <chapter name="Diego Garcia">
 <b>Diego Garcia</b> ['ð<sub>i</sub>æg<sub>å</sub>-gar'þi<sub>a</sub>], se
-<sp>Chagos-Øerne</sp>.</chapter>
+<sp>Chagos-Øerne</sp>.
+</chapter>
 
 <chapter name="Diego-Ramirez-Øerne">
 <b>Diego-Ramirez-Øerne</b> ['ð<sub>i</sub>æg<sub>å</sub>-ra'mir<sub>æ</sub>s], se
-<sp>Ildlandet</sp>.</chapter>
+<sp>Ildlandet</sp>.
+</chapter>
 
 <chapter name="Diego Suarez-Bugten">
 <b>Diego Suarez-Bugten</b> ['ð<sub>i</sub>æg<sub>å</sub>-'s<sub>u</sub>ar<sub>æ</sub>þ-],
@@ -84,7 +86,8 @@ Theorie des Geldes« (1905) og
 
 <chapter name="die hodierno">
 <b>die hodierno</b> (lat.), den Dag i Dag; Dags
-Dato.</chapter>
+Dato.
+</chapter>
 
 <chapter name="Diekirch">
 <b>Diekirch</b> ['di.kirκ], lille By i

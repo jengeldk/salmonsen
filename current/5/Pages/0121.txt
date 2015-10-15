@@ -26,7 +26,8 @@ Stenhøj ell. i Udkanten af Busketter.
 <img>Fig. 2. Høst-Tidløs (<i>Colchicum autumnale</i>).</img>
 
 <chapter name="Colchotar">
-<b>Colchotar,</b> se <sp>Jernilte</sp>.</chapter>
+<b>Colchotar,</b> se <sp>Jernilte</sp>.
+</chapter>
 
 <chapter name="Coldcream">
 <b>Coldcream</b> ['ko<sub>u</sub>£dkri.m] er en gullighvid
@@ -119,7 +120,8 @@ Ostwald</sp>.
 </chapter>
 
 <chapter name="Colding, P. J.">
-<b>Colding,</b> <sp>P. J.</sp>, se <sp>Kolding</sp>.</chapter>
+<b>Colding,</b> <sp>P. J.</sp>, se <sp>Kolding</sp>.
+</chapter>
 
 <chapter name="Coldinu-Ordenen">
 <b>Coldinu-Ordenen,</b> et meget gl.,

@@ -14,28 +14,36 @@ hvilke <sp>Meran</sp> i Tyrol er det mest besøgte.
 </chapter>
 
 <chapter name="Druelus">
-<b>Druelus,</b> se <sp>Vinlus</sp>.</chapter>
+<b>Druelus,</b> se <sp>Vinlus</sp>.
+</chapter>
 
 <chapter name="Druemunke">
-<b>Druemunke,</b> se <sp>Actæa</sp>.</chapter>
+<b>Druemunke,</b> se <sp>Actæa</sp>.
+</chapter>
 
 <chapter name="Drueolie">
-<b>Drueolie,</b> se <sp>Kognaksolie</sp>.</chapter>
+<b>Drueolie,</b> se <sp>Kognaksolie</sp>.
+</chapter>
 
 <chapter name="Drueskimmel">
-<b>Drueskimmel,</b> se <sp>Botrytis</sp>.</chapter>
+<b>Drueskimmel,</b> se <sp>Botrytis</sp>.
+</chapter>
 
 <chapter name="Druesort">
-<b>Druesort,</b> se <sp>Frankfurtersort</sp>.</chapter>
+<b>Druesort,</b> se <sp>Frankfurtersort</sp>.
+</chapter>
 
 <chapter name="Druesukker">
-<b>Druesukker,</b> d. s. s. <sp>Glykose</sp>.</chapter>
+<b>Druesukker,</b> d. s. s. <sp>Glykose</sp>.
+</chapter>
 
 <chapter name="Druesyre">
-<b>Druesyre,</b> se <sp>Vinsyre</sp>.</chapter>
+<b>Druesyre,</b> se <sp>Vinsyre</sp>.
+</chapter>
 
 <chapter name="Druevitriol">
-<b>Druevitriol,</b> se <sp>Jernvitriol</sp>.</chapter>
+<b>Druevitriol,</b> se <sp>Jernvitriol</sp>.
+</chapter>
 
 <chapter name="Druey, Henri">
 <b>Druey</b> [dry'æ], <sp>Henri</sp>, schweizisk
@@ -151,7 +159,8 @@ smukke Naaleskove.
 </chapter>
 
 <chapter name="Drukkenskab">
-<b>Drukkenskab,</b> se <sp>Berusede</sp>.</chapter>
+<b>Drukkenskab,</b> se <sp>Berusede</sp>.
+</chapter>
 
 <chapter name="Drukning">
 <b>Drukning,</b> den Dødsmaade (en

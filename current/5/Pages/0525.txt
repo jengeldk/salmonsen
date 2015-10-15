@@ -63,7 +63,8 @@ Rasmussen</sp>, »Læren om Skibsdampmaskinen«).
 
 <chapter name="Damptærskemaskine">
 <b>Damptærskemaskine,</b> se
-<sp>Tærskemaskiner</sp>.</chapter>
+<sp>Tærskemaskiner</sp>.
+</chapter>
 
 <chapter name="Damptæthed">
 <b>Damptæthed.</b> Dividerer man Vægten af et

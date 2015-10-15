@@ -22,10 +22,12 @@ S. 1461).
 </chapter>
 
 <chapter name="devotio domestica">
-<b>devotio domestica,</b> se <sp>droit de chapelle</sp> (under <sp>droit</sp>).</chapter>
+<b>devotio domestica,</b> se <sp>droit de chapelle</sp> (under <sp>droit</sp>).
+</chapter>
 
 <chapter name="devovere sig">
-<b>devovere sig,</b> se <sp>devotio</sp>.</chapter>
+<b>devovere sig,</b> se <sp>devotio</sp>.
+</chapter>
 
 <chapter name="Devrient, 1) Ludwig, 2) Karl August, 3) Philip Eduard, 4) Gustav Emil, 5) Otto">
 <b>Devrient</b> [d<sub>ə</sub>vri'æŋ], 1) <sp>Ludwig</sp>, tysk
@@ -139,7 +141,8 @@ og Staden gav ham Titel af Æresborger.
 </chapter>
 
 <chapter name="De Vries">
-<b>De Vries,</b> se <sp>Vries</sp>.</chapter>
+<b>De Vries,</b> se <sp>Vries</sp>.
+</chapter>
 
 <chapter name="De Wahl, Anders">
 <b>De Wahl</b> [d<sub>ə</sub>-'va.l], <sp>Anders</sp>, svensk

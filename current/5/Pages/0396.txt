@@ -13,11 +13,13 @@ Rigsraad (fra 1873).
 </chapter>
 
 <chapter name="Czaslau">
-<b>Czaslau</b> ['t∫asla^u], se <sp>Caslav</sp>.</chapter>
+<b>Czaslau</b> ['t∫asla^u], se <sp>Caslav</sp>.
+</chapter>
 
 <chapter name="Czecher, Czechisk Sprog">
 <b>Czecher</b> ['t∫æk<sub>ə</sub>r], <b>Czechisk Sprog</b> ['t∫æ
-kisk-] o. s. v., se <sp>Tsch</sp>.</chapter>
+kisk-] o. s. v., se <sp>Tsch</sp>.
+</chapter>
 
 <chapter name="Czechowics, Simon">
 <b>Czechowics</b> [t∫æ'kåv<sub>j</sub>its], <sp>Simon</sp>, polsk
@@ -117,7 +119,8 @@ er meget fiskerig.
 </chapter>
 
 <chapter name="Czerkasy">
-<b>Czerkasy</b> [t∫ær'kasi], se <sp>Tscherkassy</sp>.</chapter>
+<b>Czerkasy</b> [t∫ær'kasi], se <sp>Tscherkassy</sp>.
+</chapter>
 
 <chapter name="Czermak, Franz">
 <b>Czermak</b> ['t∫ærmak], <sp>Franz</sp>, bøhm. Maler,

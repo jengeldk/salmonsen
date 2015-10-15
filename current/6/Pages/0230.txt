@@ -10,7 +10,8 @@ Reinh. Forster's Fødeby.
 </chapter>
 
 <chapter name="Dis">
-<b>Dis,</b> se <sp>Dis pater</sp>.</chapter>
+<b>Dis,</b> se <sp>Dis pater</sp>.
+</chapter>
 
 <chapter name="Dis-">
 <b>Dis-,</b> 1) græsk Forstavelse, der betyder: 2
@@ -21,7 +22,8 @@ betegner Adskillelse og Modsætning.
 
 <chapter name="Dis">
 <b>Dis,</b> alm. Benævnelse for en mindre
-Uklarhed i Atmosfæren.</chapter>
+Uklarhed i Atmosfæren.
+</chapter>
 
 <chapter name="Dis">
 <b>Dis,</b> Gudinde; Ordet findes i nordiske og tyske
@@ -75,20 +77,25 @@ om den kloge Bondedatter (jfr <sp>Aslog</sp>). (<sp>Litt</sp>.:
 </chapter>
 
 <chapter name="Disablot">
-<b>Disablot,</b> se <sp>Dis</sp>.</chapter>
+<b>Disablot,</b> se <sp>Dis</sp>.
+</chapter>
 
 <chapter name="Disaccharater">
-<b>Disaccharater</b> [-ka-], se <sp>Rørsukker</sp>.</chapter>
+<b>Disaccharater</b> [-ka-], se <sp>Rørsukker</sp>.
+</chapter>
 
 <chapter name="Disagio">
-<b>Disagio,</b> se <sp>Agio</sp>.</chapter>
+<b>Disagio,</b> se <sp>Agio</sp>.
+</chapter>
 
 <chapter name="disapprobere">
 <b>disapprobere</b> (nylat.), misbillige, ikke
-godkende; <sp>Disapprobation</sp>, Misbilligelse.</chapter>
+godkende; <sp>Disapprobation</sp>, Misbilligelse.
+</chapter>
 
 <chapter name="Disarsal">
-<b>Disarsal,</b> se <sp>Dis</sp>.</chapter>
+<b>Disarsal,</b> se <sp>Dis</sp>.
+</chapter>
 
 <chapter name="Disazofarvestoffer">
 <b>Disazofarvestoffer,</b> Bomuldsazofarvestoffer.
@@ -127,7 +134,8 @@ Farvestoffer.
 </chapter>
 
 <chapter name="discalceati">
-<b>discalceati,</b> se <sp>Barfødder</sp>.</chapter>
+<b>discalceati,</b> se <sp>Barfødder</sp>.
+</chapter>
 
 <chapter name="Discantus">
 <b>Discantus.</b> 1) Den øverste Stemme i

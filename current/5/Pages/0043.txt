@@ -101,7 +101,8 @@ Italienerne.
 </chapter>
 
 <chapter name="Civitet">
-<b>Civitet,</b> se <sp>civitas</sp>.</chapter>
+<b>Civitet,</b> se <sp>civitas</sp>.
+</chapter>
 
 <chapter name="Civray">
 <b>Civray</b> [si'vræ] ell. <sp>Civrai</sp>, By i
@@ -115,11 +116,13 @@ Agerbrugsprodukter.
 </chapter>
 
 <chapter name="c. l.">
-<b>c. l.,</b> d. s. s. <i>citato loco</i> (s. d.).</chapter>
+<b>c. l.,</b> d. s. s. <i>citato loco</i> (s. d.).
+</chapter>
 
 <chapter name="Clackheaton">
 <b>Clackheaton</b> ['k£äkhi't<sub>ə</sub>n], se
-<sp>Cleckheaton</sp>.</chapter>
+<sp>Cleckheaton</sp>.
+</chapter>
 
 <chapter name="Clackmannan">
 <b>Clackmannan</b> [k£<sub>ä</sub>k'män<sub>ə</sub>n], Shire i det

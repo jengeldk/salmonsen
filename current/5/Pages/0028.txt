@@ -1,11 +1,14 @@
 <chapter name="Citrat">
-<b>Citrat,</b> d. s. s. <sp>citronsurt Salt</sp>.</chapter>
+<b>Citrat,</b> d. s. s. <sp>citronsurt Salt</sp>.
+</chapter>
 
 <chapter name="Citren">
-<b>Citren,</b> d. s. s. <sp>Limerien</sp>.</chapter>
+<b>Citren,</b> d. s. s. <sp>Limerien</sp>.
+</chapter>
 
 <chapter name="Citrin">
-<b>Citrin,</b> se <sp>Kvarts</sp>.</chapter>
+<b>Citrin,</b> se <sp>Kvarts</sp>.
+</chapter>
 
 <chapter name="Citrinsalve">
 <b>Citrinsalve,</b> <sp>pommade citrine</sp>, er efter
@@ -34,13 +37,16 @@ Antipyreticum og Antineuralgicum i Doser paa
 </chapter>
 
 <chapter name="Citron">
-<b>Citron,</b> se <sp>Citrus</sp>.</chapter>
+<b>Citron,</b> se <sp>Citrus</sp>.
+</chapter>
 
 <chapter name="Citronat">
-<b>Citronat,</b> se <sp>Cedrat</sp>.</chapter>
+<b>Citronat,</b> se <sp>Cedrat</sp>.
+</chapter>
 
 <chapter name="Citronel">
-<b>Citronel,</b> en Slags Buksbomtræ.</chapter>
+<b>Citronel,</b> en Slags Buksbomtræ.
+</chapter>
 
 <chapter name="Citronelleolie">
 <b>Citronelleolie,</b> en æterisk Olie, der faas ved
@@ -60,10 +66,12 @@ Andre Arter Andropogon giver
 
 <chapter name="Citronfinke">
 <b>Citronfinke</b> (<i>Chrysomitris citrinella</i>), se
-<sp>Sisken</sp>.</chapter>
+<sp>Sisken</sp>.
+</chapter>
 
 <chapter name="Citrongræsolie">
-<b>Citrongræsolie,</b> se <sp>Lemongræsolie</sp>.</chapter>
+<b>Citrongræsolie,</b> se <sp>Lemongræsolie</sp>.
+</chapter>
 
 <chapter name="Citronolie">
 <b>Citronolie,</b> <sp>Cedroolie</sp>, <i>oleum citri</i>, den
@@ -144,7 +152,8 @@ citrongul.
 </chapter>
 
 <chapter name="Citronsukker">
-<b>Citronsukker,</b> se <sp>Citronolie</sp>.</chapter>
+<b>Citronsukker,</b> se <sp>Citronolie</sp>.
+</chapter>
 
 <chapter name="Citronsyre">
 <b>Citronsyre,</b> C<sub>3</sub>H<sub>4</sub>OH(CO<sub>2</sub>H)<sub>3</sub>, er en trebasisk,

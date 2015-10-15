@@ -98,7 +98,8 @@ han Formand for Arkitektforeningen.
 </chapter>
 
 <chapter name="Clepsinidæ">
-<b>Clepsinidæ,</b> se <sp>Igler</sp>.</chapter>
+<b>Clepsinidæ,</b> se <sp>Igler</sp>.
+</chapter>
 
 <chapter name="Clerc">
 <b>Clerc</b> (fr.) [klæ'r] (af lat. <i>clericus</i>) brugtes i
@@ -116,7 +117,8 @@ og andre romanske Lande.
 </chapter>
 
 <chapter name="Clerc, le">
-<b>Clerc,</b> <sp>le</sp> [l<sub>ö</sub>-'klæ'r], se <sp>Le Clerc</sp>, <sp>L. A.</sp> og <sp>S</sp>.</chapter>
+<b>Clerc,</b> <sp>le</sp> [l<sub>ö</sub>-'klæ'r], se <sp>Le Clerc</sp>, <sp>L. A.</sp> og <sp>S</sp>.
+</chapter>
 
 <chapter name="Clerfait, Franz Sebastian de Croix">
 <b>Clerfait</b> [klær'fæ], <sp>Franz Sebastian de

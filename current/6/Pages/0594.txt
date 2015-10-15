@@ -51,7 +51,8 @@ til Vinterovertøj.
 </chapter>
 
 <chapter name="Dygong">
-<b>Dygong,</b> se <sp>Søkøer</sp>.</chapter>
+<b>Dygong,</b> se <sp>Søkøer</sp>.
+</chapter>
 
 <chapter name="Dühring, Eugen Karl">
 <b>Dühring</b> ['dy.rəŋ], <sp>Eugen Karl</sp>, tysk

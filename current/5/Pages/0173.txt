@@ -75,10 +75,12 @@ Datter.
 </chapter>
 
 <chapter name="Comthurvine">
-<b>Comthurvine,</b> se <sp>Cypervine</sp>.</chapter>
+<b>Comthurvine,</b> se <sp>Cypervine</sp>.
+</chapter>
 
 <chapter name="Comum">
-<b>Comum,</b> se <sp>Como</sp>.</chapter>
+<b>Comum,</b> se <sp>Como</sp>.
+</chapter>
 
 <chapter name="Comuneros">
 <b>Comuneros</b> [kåmu'nær<sub>å</sub>s], Navn paa de
@@ -136,7 +138,8 @@ Venetien« [Peterm. Mitt., 23. Bd]).
 </chapter>
 
 <chapter name="Comus">
-<b>Comus,</b> se <sp>Komos</sp>.</chapter>
+<b>Comus,</b> se <sp>Komos</sp>.
+</chapter>
 
 <chapter name="con">
 <b>con</b> [kon], ital. Forholdsord: »med«.
@@ -162,8 +165,10 @@ Kraft, <i>c. tenerezza</i>, med Ømhed.
 </chapter>
 
 <chapter name="con abbandono">
-<b>con abbandono,</b> se <sp>abbandonamente</sp>.</chapter>
+<b>con abbandono,</b> se <sp>abbandonamente</sp>.
+</chapter>
 
 <chapter name="con affètto">
-<b>con affetto,</b> se <sp>affettuoso</sp>.</chapter>
+<b>con affetto,</b> se <sp>affettuoso</sp>.
+</chapter>
 

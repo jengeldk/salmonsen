@@ -79,7 +79,8 @@ dinariske Alper i snævrere Forstand.
 </chapter>
 
 <chapter name="Dinarchos">
-<b>Dinarchos</b> [-kås], d. s. s. <sp>Deinarchos</sp>.</chapter>
+<b>Dinarchos</b> [-kås], d. s. s. <sp>Deinarchos</sp>.
+</chapter>
 
 <chapter name="Dinard-Saint-Énogat">
 <b>Dinard-Saint-Énogat</b> [di'na.r-sæt-enå'ga],
@@ -137,10 +138,12 @@ bosniske Bakkeland i den østlige Del af Bosnien.
 
 <chapter name="Dinaruni">
 <b>Dinaruni,</b> en Underafdeling af
-<sp>Bachtijarerne</sp> (s. d.).</chapter>
+<sp>Bachtijarerne</sp> (s. d.).
+</chapter>
 
 <chapter name="Dinassten">
-<b>Dinassten,</b> se <sp>ildfaste Sten</sp>.</chapter>
+<b>Dinassten,</b> se <sp>ildfaste Sten</sp>.
+</chapter>
 
 <chapter name="Dina Vinhofers">
 <b>Dina Vinhofers</b> var født i Kbhvn af tyske

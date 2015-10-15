@@ -86,19 +86,24 @@ der ligger i samme Diameter.
 </chapter>
 
 <chapter name="Diamid">
-<b>Diamid,</b> se <sp>Hydrazin</sp>.</chapter>
+<b>Diamid,</b> se <sp>Hydrazin</sp>.
+</chapter>
 
 <chapter name="Diamider">
-<b>Diamider,</b> se <sp>Amider</sp>.</chapter>
+<b>Diamider,</b> se <sp>Amider</sp>.
+</chapter>
 
 <chapter name="Diamidobenzoler">
-<b>Diamidobenzoler,</b> se <sp>Fenylendiaminer</sp>.</chapter>
+<b>Diamidobenzoler,</b> se <sp>Fenylendiaminer</sp>.
+</chapter>
 
 <chapter name="Diamtdodifenyl">
-<b>Diamtdodifenyl,</b> se <sp>Benzidin</sp>.</chapter>
+<b>Diamtdodifenyl,</b> se <sp>Benzidin</sp>.
+</chapter>
 
 <chapter name="Diamidofenol">
-<b>Diamidofenol,</b> se <sp>Amidol</sp>.</chapter>
+<b>Diamidofenol,</b> se <sp>Amidol</sp>.
+</chapter>
 
 <chapter name="Diamidoresorcin">
 <b>Diamidoresorcin</b> anvendes til Fremstilling
@@ -122,11 +127,13 @@ fastslaaet.
 
 <chapter name="Diaminoazobenzol">
 <b>Diaminoazobenzol</b> [-so-'so'l], d. s. s.
-<sp>Krysoïdin</sp>.</chapter>
+<sp>Krysoïdin</sp>.
+</chapter>
 
 <chapter name="Diamorfose">
 <b>Diamorfose</b> (gr.), Udvikling, Dannelse til en
-bestemt Form.</chapter>
+bestemt Form.
+</chapter>
 
 <chapter name="Diana, rom. Gudinde">
 <b>Diana,</b> rom. Gudinde, hvis Navn synes
@@ -151,7 +158,8 @@ Flaminius paa Marsmarken. (Jfr. <sp>Artemis</sp>).
 </chapter>
 
 <chapter name="Diana-Abe">
-<b>Diana-Abe,</b> se <sp>Marekatte</sp>.</chapter>
+<b>Diana-Abe,</b> se <sp>Marekatte</sp>.
+</chapter>
 
 <chapter name="Diana-Træ">
 <b>Diana-Træ</b> (<i>árbor Dianæ</i>) er Alkymisternes

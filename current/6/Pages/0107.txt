@@ -81,7 +81,8 @@ Lidelser i Lillehjernen.
 <chapter name="Diadumenos">
 <b>Diadumenos</b> (gr., »Yngling, der binder et
 Baand om sit Hoved«), berømt Statue af den
-gr. Billedhugger Polykleitos.</chapter>
+gr. Billedhugger Polykleitos.
+</chapter>
 
 <chapter name="diafan">
 <b>diafan</b> (gr.), gennemskuelig, gennemsigtig

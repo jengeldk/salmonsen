@@ -106,7 +106,8 @@ origin and the derivation of their names etc.</i>
 <chapter name="Città">
 <b>Città</b> (ital.), i Sammensætninger
 hyppig <sp>Civita</sp> (af det lat. <i>civitas</i>), By, Beg. til
-mange ital. Bynavne.</chapter>
+mange ital. Bynavne.
+</chapter>
 
 <chapter name="Cittadella">
 <b>Cittadella</b> [t∫it.a'dæl.a], By i Norditalien,

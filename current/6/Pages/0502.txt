@@ -13,7 +13,8 @@ Strenge.
 
 <chapter name="duchesse">
 <b>duchesse</b> [dy'∫æs] (fr.; ital. <i>duchessa</i> [du
-'kæsa]), Hertuginde.</chapter>
+'kæsa]), Hertuginde.
+</chapter>
 
 <chapter name="Duchesseknipling">
 <b>Duchesseknipling</b> [dy'∫æs-] (<i>point duchesse</i>)

@@ -121,7 +121,8 @@ ud, som om Skibene sejlede i Luften.
 
 <chapter name="Dalston">
 <b>Dalston</b> ['då.£st<sub>ə</sub>n], Kvarter i den nordøstlige
-Del af London.</chapter>
+Del af London.
+</chapter>
 
 <chapter name="Dalström, Kata">
 <b>Dalström,</b> <sp>Kata</sp>, sv. politisk Agitator, f.

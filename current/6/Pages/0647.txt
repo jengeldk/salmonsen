@@ -130,7 +130,8 @@ Kandahari-Hing.
 </chapter>
 
 <chapter name="Dzaisan">
-<b>Dzaisan,</b> se <sp>Saisan</sp>.</chapter>
+<b>Dzaisan,</b> se <sp>Saisan</sp>.
+</chapter>
 
 <chapter name="Dzialynskij">
 <b>Dzialynskij</b> [dz<sub>i</sub>a'lynski], <sp>Titus</sp>, <sp>Greve</sp>,

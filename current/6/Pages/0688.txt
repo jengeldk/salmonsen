@@ -14,7 +14,8 @@ med Strøm.
 </chapter>
 
 <chapter name="død Vinkel">
-<b>død Vinkel,</b> se <sp>bestryge</sp>.</chapter>
+<b>død Vinkel,</b> se <sp>bestryge</sp>.
+</chapter>
 
 <chapter name="Dødvægt">
 <b>Dødvægt</b> (eng. <i>dead-weight</i>) er den
@@ -119,7 +120,8 @@ Andehval ell. Næbhval.</img>
 <chapter name="Døgn">
 <b>Døgn</b> er den Tid, som omfatter Dag og Nat,
 og har altsaa samme Bet. som den borgerlige
-Dag.</chapter>
+Dag.
+</chapter>
 
 <chapter name="Døgnfluer">
 <b>Døgnfluer</b> (<i>Ephemeridæ</i>) er en Fam. af

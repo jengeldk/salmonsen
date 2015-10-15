@@ -134,7 +134,8 @@ of British India</i> [2 Bd, London 1863-64];
 </chapter>
 
 <chapter name="Dali">
-<b>Dali,</b> se <sp>Idalion</sp>.</chapter>
+<b>Dali,</b> se <sp>Idalion</sp>.
+</chapter>
 
 <chapter name="Dalias">
 <b>Dalias</b> ['ðal<sub>i</sub>as], By i det sydlige Spanien,

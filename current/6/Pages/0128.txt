@@ -52,7 +52,8 @@ Heurck</sp>, <i>Synops. des Diatomées</i> [Anvers 1880
 </chapter>
 
 <chapter name="Diatomepelit">
-<b>Diatomepelit,</b> d. s. s. <sp>Diatomit</sp>.</chapter>
+<b>Diatomepelit,</b> d. s. s. <sp>Diatomit</sp>.
+</chapter>
 
 <chapter name="Diatomit">
 <b>Diatomit</b> (<sp>Diatomekisel</sp>,

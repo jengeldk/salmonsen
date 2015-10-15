@@ -19,17 +19,21 @@ G. Capponi beskrev 1849 hans Levned.
 <chapter name="Colley">
 <b>Colley</b> ['kå£<sub>i</sub>], skotsk Hyrdehund. Der
 finden en langhaaret og en korthaaret Varietet.
-Se <sp>Hunde</sp>.</chapter>
+Se <sp>Hunde</sp>.
+</chapter>
 
 <chapter name="Colli">
-<b>Colli,</b> se <sp>Collo</sp>.</chapter>
+<b>Colli,</b> se <sp>Collo</sp>.
+</chapter>
 
 <chapter name="Colliculus seminalis">
 <b>Colliculus seminalis,</b> se
-<sp>Blærehalskirtel</sp>.</chapter>
+<sp>Blærehalskirtel</sp>.
+</chapter>
 
 <chapter name="Collier">
-<b>Collier</b> [kå'l<sub>i</sub>e] (fr.), Halsbaand, Halssmykke.</chapter>
+<b>Collier</b> [kå'l<sub>i</sub>e] (fr.), Halsbaand, Halssmykke.
+</chapter>
 
 <chapter name="Collier, Jeremy">
 <b>Collier</b> ['kå£<sub>i</sub>ə], <sp>Jeremy</sp>, lærd eng. Gejstlig

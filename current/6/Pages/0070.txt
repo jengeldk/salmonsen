@@ -45,12 +45,14 @@ Høns, Gedekid, ja endogsaa de voksne Geder
 gør den til Bytte; den udviser megen Vildhed
 og Dristighed, naar den saares, og frygtes
 derfor meget af de Indfødte.
-<i>R. Hg.</i>
 
-<img>Fig. 3. Mangust (<i>Herpestes mungo</i>, Gm.).</img></chapter>
+<img>Fig. 3. Mangust (<i>Herpestes mungo</i>, Gm.).</img>
+<i>R. Hg.</i>
+</chapter>
 
 <chapter name="Desmerkatte">
-<b>Desmerkatte,</b> se <sp>Desmerdyr</sp>.</chapter>
+<b>Desmerkatte,</b> se <sp>Desmerdyr</sp>.
+</chapter>
 
 <chapter name="Desmerurt">
 <b>Desmerurt,</b> (<i>Adóxa</i> L.), tokimbladet
@@ -82,20 +84,25 @@ Norge og blomstrer i Apr. og Maj.
 </chapter>
 
 <chapter name="Desmerurt-Familien">
-<b>Desmerurt-Familien,</b> se <sp>Desmerurt</sp>.</chapter>
+<b>Desmerurt-Familien,</b> se <sp>Desmerurt</sp>.
+</chapter>
 
 <chapter name="de Smet de Naeyer, P.">
 <b>de Smet de Naeyer</b> [d<sub>ö</sub>-'smæt-d<sub>ə</sub>-'na.j<sub>ə</sub>r], <sp>P.</sp>,
-se <sp>Smet de Naeyer, P. de</sp>.</chapter>
+se <sp>Smet de Naeyer, P. de</sp>.
+</chapter>
 
 <chapter name="Desmidiaceæ">
-<b>Desmidiaceæ,</b> se <sp>Alger</sp>, S. 493.</chapter>
+<b>Desmidiaceæ,</b> se <sp>Alger</sp>, S. 493.
+</chapter>
 
 <chapter name="Desmin">
-<b>Desmin,</b> se <sp>Zeolitter</sp>.</chapter>
+<b>Desmin,</b> se <sp>Zeolitter</sp>.
+</chapter>
 
 <chapter name="Desmobranchii">
-<b>Desmobranchii</b> [-'braŋkii'], se <sp>Fisk</sp>.</chapter>
+<b>Desmobranchii</b> [-'braŋkii'], se <sp>Fisk</sp>.
+</chapter>
 
 <chapter name="Desmodium Desv.">
 <b>Desmodium</b> Desv., Slægt af Ærteblomstrede
@@ -125,5 +132,6 @@ Tid paa Varmebed, senere i Varmhus.
 <img><i>Desmodium gyrans.</i></img>
 
 <chapter name="Desmodus">
-<b>Desmodus,</b> se <sp>Flagermus</sp>.</chapter>
+<b>Desmodus,</b> se <sp>Flagermus</sp>.
+</chapter>
 

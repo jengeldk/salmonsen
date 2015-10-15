@@ -7,7 +7,8 @@ Cyanforbindelser fremstilles af de her nævnte.
 </chapter>
 
 <chapter name="Cyanin">
-<b>Cyanin,</b> se <sp>Kinolinfarvestoffer</sp>.</chapter>
+<b>Cyanin,</b> se <sp>Kinolinfarvestoffer</sp>.
+</chapter>
 
 <chapter name="Cyanit">
 <b>Cyanit</b> (<sp>Disthen</sp>), et Mineral, hvis kem.
@@ -38,15 +39,18 @@ C. til Sillimannit.
 </chapter>
 
 <chapter name="Cyanjern">
-<b>Cyanjern,</b> d. s. s. <sp>Ferrocyan</sp>.</chapter>
+<b>Cyanjern,</b> d. s. s. <sp>Ferrocyan</sp>.
+</chapter>
 
 <chapter name="Cyanjernkalium">
 <b>Cyanjernkalium,</b> 1) gult, d. s. s.
 <sp>Ferrocyankalium</sp>; 2) rødt, d. s. s.
-<sp>Ferricyankalium</sp>.</chapter>
+<sp>Ferricyankalium</sp>.
+</chapter>
 
 <chapter name="Cyankalium">
-<b>Cyankalium,</b> se <sp>Kaliumcyanid</sp>.</chapter>
+<b>Cyankalium,</b> se <sp>Kaliumcyanid</sp>.
+</chapter>
 
 <chapter name="Cyanklorid">
 <b>Cyanklorid,</b> CNCl, dannes ved Indvirkning
@@ -60,10 +64,12 @@ gaar over, især naar den indeholder frit Klor.
 
 <chapter name="Cyankvægsølv">
 <b>Cyankvægsølv,</b> se <sp>Kvægsølvcyanid</sp>
-under <sp>Cyanider</sp>.</chapter>
+under <sp>Cyanider</sp>.
+</chapter>
 
 <chapter name="Cyanmetaller">
-<b>Cyanmetaller,</b> se <sp>Cyanider</sp>.</chapter>
+<b>Cyanmetaller,</b> se <sp>Cyanider</sp>.
+</chapter>
 
 <chapter name="Cyanochalcit">
 <b>Cyanochalcit</b> [-kal-], et Mineral fra Nizhni
@@ -73,28 +79,35 @@ Varietet af Chrysokol.
 </chapter>
 
 <chapter name="Cyanochroit">
-<b>Cyanochroit</b> [-kro-], se <sp>Boussingaultit</sp>.</chapter>
+<b>Cyanochroit</b> [-kro-], se <sp>Boussingaultit</sp>.
+</chapter>
 
 <chapter name="Cyanocorax">
 <b>Cyanocorax</b> (<sp>Blaaravn</sp>), se
-<sp>Ravnefugle</sp>.</chapter>
+<sp>Ravnefugle</sp>.
+</chapter>
 
 <chapter name="Cyanol">
-<b>Cyanol,</b> d. s. s. <sp>Anilin</sp>.</chapter>
+<b>Cyanol,</b> d. s. s. <sp>Anilin</sp>.
+</chapter>
 
 <chapter name="Cyanophyceæ">
 <b>Cyanophyceæ</b> [-'fy'-], se <sp>blaagrønne
-Alger</sp>.</chapter>
+Alger</sp>.
+</chapter>
 
 <chapter name="Cyanopolius">
 <b>Cyanopolius</b> (<sp>Blaaskade</sp>), se
-<sp>Ravnefugle</sp>.</chapter>
+<sp>Ravnefugle</sp>.
+</chapter>
 
 <chapter name="Cyanosin">
-<b>Cyanosin,</b> se <sp>Fluorescein</sp>.</chapter>
+<b>Cyanosin,</b> se <sp>Fluorescein</sp>.
+</chapter>
 
 <chapter name="Cyanosis">
-<b>Cyanosis,</b> d. s. s. <sp>Blaasot</sp>.</chapter>
+<b>Cyanosis,</b> d. s. s. <sp>Blaasot</sp>.
+</chapter>
 
 <chapter name="cyanotisk">
 <b>cyanotisk,</b> blaalig, benyttes i
@@ -154,10 +167,12 @@ Ferrocyankalium.
 </chapter>
 
 <chapter name="Cyansulfosyre">
-<b>Cyansulfosyre,</b> se <sp>Rhodanbrinte</sp>.</chapter>
+<b>Cyansulfosyre,</b> se <sp>Rhodanbrinte</sp>.
+</chapter>
 
 <chapter name="cyansure Salte">
-<b>cyansure Salte,</b> se <sp>Cyansyre</sp>.</chapter>
+<b>cyansure Salte,</b> se <sp>Cyansyre</sp>.
+</chapter>
 
 <chapter name="Cyansyre">
 <b>Cyansyre,</b> CNOH, faas ved Ophedning af

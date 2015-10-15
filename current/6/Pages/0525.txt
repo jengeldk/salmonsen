@@ -19,7 +19,8 @@ Nattefrost i Græsset.
 <chapter name="Dug (Søv.)">
 <b>Dug</b> (<sp>Søv</sp>.), Bredden af den Sejldug, hvoraf
 man syer et Sejl. Dette bestaar af fl. - i Reglen
-vertikalt - sammensyede D. à c. 58 cm Bredde.</chapter>
+vertikalt - sammensyede D. à c. 58 cm Bredde.
+</chapter>
 
 <chapter name="Dugat, Gustave">
 <b>Dugat</b> [dy'ga], <sp>Gustave</sp>, fr. Orientalist
@@ -140,10 +141,12 @@ animaux</i> (3 Bd, 1838-39).
 </chapter>
 
 <chapter name="Duggræs">
-<b>Duggræs,</b> se <sp>Soldug</sp>.</chapter>
+<b>Duggræs,</b> se <sp>Soldug</sp>.
+</chapter>
 
 <chapter name="Dughet, Gaspard">
-<b>Dughet</b> [dy'gæ], <sp>Gaspard</sp>, se <sp>Poussin</sp>.</chapter>
+<b>Dughet</b> [dy'gæ], <sp>Gaspard</sp>, se <sp>Poussin</sp>.
+</chapter>
 
 <chapter name="Dugmaaler">
 <b>Dugmaaler,</b> et Apparat til at maale den i en

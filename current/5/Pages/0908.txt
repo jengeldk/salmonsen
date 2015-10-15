@@ -1,5 +1,6 @@
 <chapter name="Daugbjerg">
-<b>Daugbjerg,</b> se <sp>Davbjerg</sp>.</chapter>
+<b>Daugbjerg,</b> se <sp>Davbjerg</sp>.
+</chapter>
 
 <chapter name="Daulatabad">
 <b>Daulatabad</b> [da^u£<sub>ə</sub>t<sub>ə</sub>'bäd] (ind. <sp>Deogiri</sp>),
@@ -110,7 +111,8 @@ Allierede 1814. Han afslog at svigte Napoleon, blev
 afskediget under Restaurationen, men blev
 efter Julirevolutionen 1830 atter Guvernør i
 Vincennes. 1831 Generalløjtnant. En Statue er rejst
-over D. i Vincennes.</chapter>
+over D. i Vincennes.
+</chapter>
 
 <chapter name="Daumet, Pierre Gérôme Honoré">
 <b>Daumet</b> [do'mæ], <sp>Pierre Gérôme

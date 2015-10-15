@@ -90,7 +90,8 @@ ypperste Kender af svensk Adels Historie.
 </chapter>
 
 <chapter name="Djursaa">
-<b>Djursaa,</b> se <sp>Djursland</sp>.</chapter>
+<b>Djursaa,</b> se <sp>Djursland</sp>.
+</chapter>
 
 <chapter name="Djursholm">
 <b>Djursholm</b> ['ju.<sub>r</sub>s-], Villaby i Sthlm's Amt,

@@ -88,7 +88,8 @@ mindre Bet. for førstnævnte end hos disse.
 </chapter>
 
 <chapter name="eklatant">
-<b>eklatant,</b> se <sp>éclat</sp>.</chapter>
+<b>eklatant,</b> se <sp>éclat</sp>.
+</chapter>
 
 <chapter name="Eklektiker">
 <b>Eklektiker</b> (gr.) er Betegnelse for de gr.
@@ -108,7 +109,8 @@ satte ny Tanker ind i Verden.
 
 <chapter name="Eklipsis">
 <b>Eklipsis</b> (gr.), øjeblikkelig og snart
-ophørende Bevidsthedstab.</chapter>
+ophørende Bevidsthedstab.
+</chapter>
 
 <chapter name="Ekliptika">
 <b>Ekliptika</b> (gr.) er den Storcirkel paa

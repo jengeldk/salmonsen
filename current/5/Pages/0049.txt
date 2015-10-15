@@ -109,11 +109,13 @@ Assisi« [2. Udg. Kbhvn 1913]).
 </chapter>
 
 <chapter name="Clara Raphael">
-<b>Clara Raphael</b> [-'ra'faæl], se <sp>Fibiger, M</sp>.</chapter>
+<b>Clara Raphael</b> [-'ra'faæl], se <sp>Fibiger, M</sp>.
+</chapter>
 
 <chapter name="clara voce">
 <b>clara voce</b> [-'vot∫e] (lat.), med lys, klar
-Stemme.</chapter>
+Stemme.
+</chapter>
 
 <chapter name="Clare, Grevskab">
 <b>Clare</b> [k£æ.<sub>ə</sub>], Grevskab i den vestlige Del af

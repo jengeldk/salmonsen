@@ -1,5 +1,6 @@
 <chapter name="Daddelpalme">
-<b>Daddelpalme,</b> se <sp>Phoenix</sp>.</chapter>
+<b>Daddelpalme,</b> se <sp>Phoenix</sp>.
+</chapter>
 
 <chapter name="Daddi, Bernardo">
 <b>Daddi,</b> <sp>Bernardo</sp>, ital. Maler fra 14. Aarh.,
@@ -18,7 +19,8 @@ Forskere tilskriver D. det berømte Orcagna'ske
 </chapter>
 
 <chapter name="Dadhica, Dadhici">
-<b>Dadhica, Dadhici,</b> se <sp>Dadhyanc</sp>.</chapter>
+<b>Dadhica, Dadhici,</b> se <sp>Dadhyanc</sp>.
+</chapter>
 
 <chapter name="Dadhyanc">
 <b>Dadhyanc,</b> senere <sp>Dadhica</sp>, <sp>Dadhici</sp>
@@ -66,7 +68,8 @@ Mythologie«, übers. von M. Hartmann [Leipzig
 </chapter>
 
 <chapter name="Dadler">
-<b>Dadler,</b> Sorte, se <sp>Diospyros</sp>.</chapter>
+<b>Dadler,</b> Sorte, se <sp>Diospyros</sp>.
+</chapter>
 
 <chapter name="Daduchos">
 <b>Daduchos</b> [-kås] (gr.), Titel paa den næstøverste

@@ -145,10 +145,12 @@ Etruscarum</i>.
 </chapter>
 
 <chapter name="Daniel Stern">
-<b>Daniel Stern</b> [da'n<sub>i</sub>æl-'stærn], se <sp>Agoult</sp>.</chapter>
+<b>Daniel Stern</b> [da'n<sub>i</sub>æl-'stærn], se <sp>Agoult</sp>.
+</chapter>
 
 <chapter name="Danien">
-<b>Danien</b> [fr. da'n<sub>i</sub>æ], d. s. s. <sp>Danium</sp>.</chapter>
+<b>Danien</b> [fr. da'n<sub>i</sub>æ], d. s. s. <sp>Danium</sp>.
+</chapter>
 
 <chapter name="Danilevskij, Grigòrij Petròvitsch">
 <b>Danilevskij</b> [d<sub>a</sub>ni'ljefsk<sub>i</sub>], <sp>Grigòrij

@@ -78,10 +78,12 @@ af dendanske botaniske Forening.
 </chapter>
 
 <chapter name="Decanus">
-<b>Decanus,</b> se <sp>Dekan</sp>.</chapter>
+<b>Decanus,</b> se <sp>Dekan</sp>.
+</chapter>
 
 <chapter name="Decapoda">
-<b>Decapoda,</b> se <sp>Dekapoder</sp>.</chapter>
+<b>Decapoda,</b> se <sp>Dekapoder</sp>.
+</chapter>
 
 <chapter name="décastère">
 <b>décastère</b> [deka'stæ.r], 10 Stère,
@@ -91,7 +93,8 @@ Frankrig.
 </chapter>
 
 <chapter name="de Castro">
-<b>de Castro,</b> se <sp>Castro</sp>.</chapter>
+<b>de Castro,</b> se <sp>Castro</sp>.
+</chapter>
 
 <chapter name="Decatur">
 <b>Decatur</b> [d<sub>e</sub>'ke<sub>i</sub>t<sub>ə</sub>], Navn paa flere Byer i
@@ -110,7 +113,8 @@ Indb. D. har Savmøller.
 
 <chapter name="Decauville's Jernbaner">
 <b>Decauville's Jernbaner</b> [deko'vils-], se
-<sp>Jernbaner</sp>, <sp>transportable</sp>.</chapter>
+<sp>Jernbaner</sp>, <sp>transportable</sp>.
+</chapter>
 
 <chapter name="Decazes, 1) Élie, 2) Louis Charles Élie Armanieu">
 <b>Decazes</b> [d<sub>ö</sub>'ka.z], 1) <sp>Élie</sp>, fr. Statsmand,

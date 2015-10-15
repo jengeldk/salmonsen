@@ -14,7 +14,8 @@ Tvangslod, der ikke kan tilsidesættes ved Testament.
 
 <chapter name="Descendensteorien">
 <b>Descendensteorien</b> [-sæn-], se
-<sp>Udviklingslære</sp>.</chapter>
+<sp>Udviklingslære</sp>.
+</chapter>
 
 <chapter name="Descensus">
 <b>Descensus</b> [-'sæn-] (lat.), Nedstigen,
@@ -27,7 +28,8 @@ Moderskeden (<i>D. uteri et vaginæ</i>), se <sp>Fremfald</sp>.
 </chapter>
 
 <chapter name="descente">
-<b>descente</b> [de'sã.t] (fr.), Gravnedgang (s. d.).</chapter>
+<b>descente</b> [de'sã.t] (fr.), Gravnedgang (s. d.).
+</chapter>
 
 <chapter name="Deschamps, 1) Antony, 2) Émile">
 <b>Deschamps</b> [dæ'∫ã], 1) <sp>Antony</sp>, fr. Digter
@@ -106,7 +108,8 @@ Gaston Raynaud (Paris, 1878-1903, 11 Bd).
 
 <chapter name="Deschampsia">
 <b>Deschampsia</b> [dæ'∫ã-] Beauv., i nyeste Tid
-benyttet som Slægtsnavn for Bunke (s. d.).</chapter>
+benyttet som Slægtsnavn for Bunke (s. d.).
+</chapter>
 
 <chapter name="Deschanel, 1) Émile, 2) Paul">
 <b>Deschanel</b> [dæ∫a'næl], 1) <sp>Émile</sp>, fransk

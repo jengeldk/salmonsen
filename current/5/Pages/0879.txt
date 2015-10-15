@@ -99,7 +99,8 @@ første Gang kritisk udg. efter Bladreferater af
 </chapter>
 
 <chapter name="Danubius">
-<b>Danubius,</b> se <sp>Donau</sp>.</chapter>
+<b>Danubius,</b> se <sp>Donau</sp>.
+</chapter>
 
 <chapter name="Danvers">
 <b>Danvers</b> ['dänvəz], By i U. S. A., Stat

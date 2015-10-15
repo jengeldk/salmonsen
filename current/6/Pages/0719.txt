@@ -39,7 +39,8 @@ enkelte Oversættelser af arab. Forf. (<sp>Litt</sp>.:
 </chapter>
 
 <chapter name="Ecchondrosis">
-<b>Ecchondrosis</b> [ækån-], se <sp>Brusksvulst</sp>.</chapter>
+<b>Ecchondrosis</b> [ækån-], se <sp>Brusksvulst</sp>.
+</chapter>
 
 <chapter name="Ecclefechan">
 <b>Ecclefechan</b> [ek£'feK<sub>ə</sub>n], Landsby i det
@@ -99,10 +100,12 @@ sejrende Kirke; <i>e. visibilis</i>, den synlige Kirke.
 </chapter>
 
 <chapter name="Ecclesiasticus">
-<b>Ecclesiasticus,</b> Jesus Sirachs Bog (s. d.).</chapter>
+<b>Ecclesiasticus,</b> Jesus Sirachs Bog (s. d.).
+</chapter>
 
 <chapter name="Eccoprotica">
-<b>Eccoprotica,</b> se <sp>afførende Midler</sp>.</chapter>
+<b>Eccoprotica,</b> se <sp>afførende Midler</sp>.
+</chapter>
 
 <chapter name="Eccremocarpus">
 <b>Eccremocarpus</b> R. et P., Slægt af
@@ -128,7 +131,8 @@ overvintres i Hus saa nær Glasset som mulig.
 </chapter>
 
 <chapter name="Ecgonin">
-<b>Ecgonin,</b> se <sp>Cocain</sp>.</chapter>
+<b>Ecgonin,</b> se <sp>Cocain</sp>.
+</chapter>
 
 <chapter name="Echagüe, Don Rafael">
 <b>Echagüe</b> [æ't∫agw<sub>æ</sub>], <sp>Don Rafael</sp>, sp.
@@ -168,12 +172,14 @@ Lausanne, 623 m o. H., Station paa den
 smalsporede Bane Lausanne-Bercher. (1910) 1081
 Indb., dels protestantiske, dels kat. Agerbrug er
 den vigtigste Næringsvej. Det gl. Slot, tidligere
-Landfogdens Residens, benyttes nu som Skole.</chapter>
+Landfogdens Residens, benyttes nu som Skole.
+</chapter>
 
 <chapter name="echampere">
 <b>echampere</b> [-sjaŋ-] (af fr. <i>échamper</i>),
 udhæve, i et Maleri, en Figur ved Lys og Skygge;
-give et tydeligt Omrids af den.</chapter>
+give et tydeligt Omrids af den.
+</chapter>
 
 <chapter name="Échappade">
 <b>Échappade</b> [esja'pa.ð<sub>ə</sub>] (fr.), i grafisk Kunst

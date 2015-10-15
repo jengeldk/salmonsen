@@ -12,7 +12,8 @@ opæder.
 </chapter>
 
 <chapter name="Danaergave">
-<b>Danaergave,</b> se <sp>Danaer</sp>.</chapter>
+<b>Danaergave,</b> se <sp>Danaer</sp>.
+</chapter>
 
 <chapter name="Dana Fjord">
 <b>Dana Fjord,</b> Farvandet ved Indsejlingen til
@@ -45,7 +46,8 @@ i antikke Kunstværker.
 
 <chapter name="Danait">
 <b>Danait,</b> en Varietet af Arsenkis med 4-10
-% Kobolt.</chapter>
+% Kobolt.
+</chapter>
 
 <chapter name="Danakil">
 <b>Danakil</b> (Sing. <sp>Dankali</sp>), Navnet paa
@@ -79,7 +81,8 @@ en mindre Del hører til den fr. Koloni Somali.
 </chapter>
 
 <chapter name="Danalit">
-<b>Danalit,</b> se <sp>Helvin</sp>.</chapter>
+<b>Danalit,</b> se <sp>Helvin</sp>.
+</chapter>
 
 <chapter name="Danaos">
 <b>Danaos,</b> efter et gr. Sagn Søn af Belos og
@@ -139,7 +142,8 @@ af Englænderne 27. Apr. 1777.
 </chapter>
 
 <chapter name="Danby">
-<b>Danby</b> ['dänb<sub>i</sub>], se <sp>Osborne</sp>.</chapter>
+<b>Danby</b> ['dänb<sub>i</sub>], se <sp>Osborne</sp>.
+</chapter>
 
 <chapter name="Dançay">
 <b>Dançay</b> [dã'sæ] (<sp>Danszé</sp> ell. <sp>Dantzäus</sp>),

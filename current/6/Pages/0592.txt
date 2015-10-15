@@ -44,7 +44,8 @@ Berlin, Hamburg og Danmark. D. har gæstet
 Sthlm, Kbhvn og Helsingfors en Række Gange
 siden 1900. 1908 fik hun Kongens
 Fortjenstmedaille i Guld.
-<i>E. S-n.</i>.</chapter>
+<i>E. S-n.</i>
+</chapter>
 
 <chapter name="Dybwad, Peter">
 <b>Dybwad,</b> <sp>Peter</sp>, norsk Arkitekt, f. i Kria
@@ -116,7 +117,8 @@ kunstneriske Kraft.
 
 <chapter name="Dych-Tau">
 <b>Dych-Tau</b> ['diK-'ta^u], Bjerg i Kaukasus,
-Terekdistriktet, 5198 m, med store Gletschere.</chapter>
+Terekdistriktet, 5198 m, med store Gletschere.
+</chapter>
 
 <chapter name="Dyck, Anthon van">
 <b>Dyck</b> [dæ^ik], <sp>Anthon van</sp>, flamsk Maler

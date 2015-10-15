@@ -11,7 +11,8 @@ Døden.
 </chapter>
 
 <chapter name="Echinomys">
-<b>Echinomys</b> [-'ki'-], se <sp>Pigrotter</sp>.</chapter>
+<b>Echinomys</b> [-'ki'-], se <sp>Pigrotter</sp>.
+</chapter>
 
 <chapter name="Echinopsis">
 <b>Echinopsis</b> [-ki-] Zucc., Slægt af
@@ -54,10 +55,12 @@ Prydplante.
 </chapter>
 
 <chapter name="Echinorhinus">
-<b>Echinorhinus</b> [-ki-ri-], se <sp>Hajer</sp>.</chapter>
+<b>Echinorhinus</b> [-ki-ri-], se <sp>Hajer</sp>.
+</chapter>
 
 <chapter name="Echinorhynchus">
-<b>Echinorhynchus</b> [-ki-'ryŋkus], se <sp>Kradsere</sp>.</chapter>
+<b>Echinorhynchus</b> [-ki-'ryŋkus], se <sp>Kradsere</sp>.
+</chapter>
 
 <chapter name="Echinosphærites">
 <b>Echinosphærites</b> [-ki-svæ-], en i
@@ -69,10 +72,12 @@ Cystideslægt.
 
 <chapter name="Echinosphæritkalk">
 <b>Echinosphæritkalk</b> [-ki-svæ-], se
-<sp>Cystidekalk</sp>.</chapter>
+<sp>Cystidekalk</sp>.
+</chapter>
 
 <chapter name="Echinus">
-<b>Echinus</b> [-'ki.-], se <sp>Søpindsvin</sp>.</chapter>
+<b>Echinus</b> [-'ki.-], se <sp>Søpindsvin</sp>.
+</chapter>
 
 <chapter name="Echinus">
 <b>Echinus</b> [-'ki.-] (lat., af gr. ἐχῖνος,
@@ -149,10 +154,12 @@ Frederik den Store, saa godt som forsvundet.
 </chapter>
 
 <chapter name="Echis">
-<b>Echis</b> ['ekis], se <sp>Hugorme</sp>.</chapter>
+<b>Echis</b> ['ekis], se <sp>Hugorme</sp>.
+</chapter>
 
 <chapter name="Echitamin">
-<b>Echitamin</b> [-ki-], se <sp>Ditabark</sp>.</chapter>
+<b>Echitamin</b> [-ki-], se <sp>Ditabark</sp>.
+</chapter>
 
 <chapter name="Echium L.">
 <b>Echium</b> ['e'kium] L. (<sp>Slangehoved</sp>), Slægt

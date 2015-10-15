@@ -58,7 +58,8 @@ i <i>La Lumière Electrique</i> og i <i>Comptes rendus</i>.
 
 <chapter name="deprimere">
 <b>deprimere</b> (lat.), nedtrykke; <sp>deprimeret</sp>,
-nedtrykt, forstemt; svag (f. Eks. d. Puls).</chapter>
+nedtrykt, forstemt; svag (f. Eks. d. Puls).
+</chapter>
 
 <chapter name="de profundis">
 <b>de profundis</b> (»fra Dybet«),

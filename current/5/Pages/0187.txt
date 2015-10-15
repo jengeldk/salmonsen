@@ -29,34 +29,43 @@ ell. tillige Mejser og Lærker, o. s. v.).
 
 <chapter name="Conisborough Castle">
 <b>Conisborough Castle</b> ['kån<sub>i</sub>sbər<sub>ə</sub>-'ka.s£], se
-<sp>Doncaster</sp>.</chapter>
+<sp>Doncaster</sp>.
+</chapter>
 
 <chapter name="Conium">
-<b>Conium,</b> se <sp>Skarntyde</sp>.</chapter>
+<b>Conium,</b> se <sp>Skarntyde</sp>.
+</chapter>
 
 <chapter name="conjugata">
-<b>conjugata,</b> se <sp>Bækken</sp>.</chapter>
+<b>conjugata,</b> se <sp>Bækken</sp>.
+</chapter>
 
 <chapter name="Conjugatæ">
-<b>Conjugatæ,</b> se <sp>Alger</sp> (Grønalger).</chapter>
+<b>Conjugatæ,</b> se <sp>Alger</sp> (Grønalger).
+</chapter>
 
 <chapter name="conjugium">
-<b>conjugium</b> (lat), Ægteskab.</chapter>
+<b>conjugium</b> (lat), Ægteskab.
+</chapter>
 
 <chapter name="Conjunctiva">
 <b>Conjunctiva,</b> Øjets Bindehinde, se
-<sp>Øjenlaag</sp>.</chapter>
+<sp>Øjenlaag</sp>.
+</chapter>
 
 <chapter name="Conjunctivitis">
-<b>Conjunctivitis,</b> se <sp>Øjenbetændelse</sp>.</chapter>
+<b>Conjunctivitis,</b> se <sp>Øjenbetændelse</sp>.
+</chapter>
 
 <chapter name="conjuratio">
 <b>conjuratio</b> (lat.), Sammensværgelse,
 Sammenslutning af Personer, der har bundet sig
-overfor hinanden ved et edeligt Løfte.</chapter>
+overfor hinanden ved et edeligt Løfte.
+</chapter>
 
 <chapter name="conjux">
-<b>conjux</b> (lat.), Ægtefælle.</chapter>
+<b>conjux</b> (lat.), Ægtefælle.
+</chapter>
 
 <chapter name="Conkling, Roscoe">
 <b>Conkling</b> ['kåŋk£<sub>i</sub>ŋ], <sp>Roscoe</sp>, nordamer.
@@ -81,10 +90,12 @@ Sagførervirksomhed.
 </chapter>
 
 <chapter name="con leggerezza">
-<b>con leggerezza</b> [-ledзe'ret.sa], se <sp>con</sp>.</chapter>
+<b>con leggerezza</b> [-ledзe'ret.sa], se <sp>con</sp>.
+</chapter>
 
 <chapter name="con moto">
-<b>con moto</b> [-'måto], se <sp>con</sp>.</chapter>
+<b>con moto</b> [-'måto], se <sp>con</sp>.
+</chapter>
 
 <chapter name="Conn.">
 <b>Conn.</b> (sjældnere Ct.), officiel Forkortelse af
@@ -95,11 +106,13 @@ Connecticut.
 
 <chapter name="Connaissance des temps">
 <b>Connaissance des temps</b> [kånæ'sã.s-dæ-'tã],
-se <sp>Efemeride</sp>.</chapter>
+se <sp>Efemeride</sp>.
+</chapter>
 
 <chapter name="connaissement">
 <b>connaissement</b> [kånæs'mã], se
-<sp>Konnossement</sp>.</chapter>
+<sp>Konnossement</sp>.
+</chapter>
 
 <chapter name="Connarit">
 <b>Connarit,</b> et Mineral af Sammensætning

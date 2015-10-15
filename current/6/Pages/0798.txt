@@ -121,7 +121,8 @@ Se <sp>Navn</sp>.
 </chapter>
 
 <chapter name="Egennytte">
-<b>Egennytte,</b> se <sp>egoistisk</sp>.</chapter>
+<b>Egennytte,</b> se <sp>egoistisk</sp>.
+</chapter>
 
 <chapter name="Egensekloster">
 <b>Egensekloster,</b> Hovedgaard i Fleskum

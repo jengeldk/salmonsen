@@ -12,7 +12,8 @@ til 1500.
 <chapter name="Dignitar">
 <b>Dignitar</b> (lat.), Indehaver af en høj
 Stilling; bruges særlig i det kirkelige Sprog om
-dem, der paa en ell. anden Maade har Dignitet.</chapter>
+dem, der paa en ell. anden Maade har Dignitet.
+</chapter>
 
 <chapter name="Dignitet">
 <b>Dignitet</b> (lat.) eller <sp>Prælatur</sp> tillægger
@@ -71,7 +72,8 @@ Tegn for een Lyd.
 </chapter>
 
 <chapter name="Digraphis">
-<b>Digraphis</b> [-fis], se <sp>Rørgræs</sp>.</chapter>
+<b>Digraphis</b> [-fis], se <sp>Rørgræs</sp>.
+</chapter>
 
 <chapter name="Digrbanke">
 <b>Digrbanke,</b> ogsaa kaldet <sp>Bøgebjerg</sp>,
@@ -84,7 +86,8 @@ kendelig fra Søen.
 
 <chapter name="Digression, Afvigelse">
 <b>Digression</b> (lat.), Afvigelse, Sidespring,
-Kommen bort fra Hovedsagen. Smlg. flg. Art.</chapter>
+Kommen bort fra Hovedsagen. Smlg. flg. Art.
+</chapter>
 
 <chapter name="Digression, Elongation">
 <b>Digression</b> (lat.: »Afvigelse«) bruges
@@ -106,7 +109,8 @@ Meridianens Retning.
 
 <chapter name="digte">
 <b>digte</b> (<sp>Søv</sp>.), at tætne Lækager eller
-kalfatre (s. d.).</chapter>
+kalfatre (s. d.).
+</chapter>
 
 <chapter name="Digtekunst">
 <b>Digtekunst.</b> Enhver Kunst gaar ud paa at

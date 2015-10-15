@@ -1,8 +1,10 @@
 <chapter name="Cyansølv">
-<b>Cyansølv,</b> se <sp>Sølvcyanid</sp>.</chapter>
+<b>Cyansølv,</b> se <sp>Sølvcyanid</sp>.
+</chapter>
 
 <chapter name="Cyanursyre">
-<b>Cyanursyre,</b> se <sp>Cyansyre</sp>.</chapter>
+<b>Cyanursyre,</b> se <sp>Cyansyre</sp>.
+</chapter>
 
 <chapter name="Cyanvasker">
 <b>Cyanvasker.</b> Et Vaskeapparat, der ved
@@ -41,7 +43,8 @@ Halvkugle.
 </chapter>
 
 <chapter name="Cyathidium">
-<b>Cyathidium</b> [-'ti'-], se <sp>Sølillier</sp>.</chapter>
+<b>Cyathidium</b> [-'ti'-], se <sp>Sølillier</sp>.
+</chapter>
 
 <chapter name="Cyathium">
 <b>Cyathium</b> [-ti-] (<sp>bot</sp>.) eller <sp>Blomsterkop</sp>
@@ -125,16 +128,20 @@ polnischen Dichtkunst in der ersten Hälfte des
 
 <chapter name="Cycadaceæ">
 <b>Cycadaceæ,</b> Fam. af <sp>Koglepalmer</sp> med
-kun een Slægt Cycas (s. d.).</chapter>
+kun een Slægt Cycas (s. d.).
+</chapter>
 
 <chapter name="Cycade-Bregner">
-<b>Cycade-Bregner,</b> se <sp>Pteridospermeæ</sp>.</chapter>
+<b>Cycade-Bregner,</b> se <sp>Pteridospermeæ</sp>.
+</chapter>
 
 <chapter name="Cycadinæ">
-<b>Cycadinæ,</b> se <sp>Koglepalmer</sp>.</chapter>
+<b>Cycadinæ,</b> se <sp>Koglepalmer</sp>.
+</chapter>
 
 <chapter name="Cycadofilices">
-<b>Cycadofilices,</b> se <sp>Pteridospermeæ</sp>.</chapter>
+<b>Cycadofilices,</b> se <sp>Pteridospermeæ</sp>.
+</chapter>
 
 <chapter name="Cycas L.">
 <b>Cycas</b> L., Slægt af Cycadaceer, Træer med

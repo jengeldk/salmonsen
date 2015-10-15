@@ -3,7 +3,8 @@
 urigtigt (se <sp>Daner</sp>), officielt skrives
 <sp>Dannebrogsorden</sp>, vil saavel dette som andre
 Sammensætninger med Danebroge findes under
-<sp>Dannebrog</sp>.</chapter>
+<sp>Dannebrog</sp>.
+</chapter>
 
 <chapter name="Danefæ">
 <b>Danefæ,</b> gl dansk ogsaa <i>danæt fæ</i>, egl. dødt

@@ -119,19 +119,24 @@ undertiden med Navnet D.
 </chapter>
 
 <chapter name="Drue">
-<b>Drue,</b> se <sp>Vinranke</sp>.</chapter>
+<b>Drue,</b> se <sp>Vinranke</sp>.
+</chapter>
 
 <chapter name="Drue (Kanon)">
-<b>Drue</b> (<sp>Kanon</sp>), se <sp>Skyts</sp>.</chapter>
+<b>Drue</b> (<sp>Kanon</sp>), se <sp>Skyts</sp>.
+</chapter>
 
 <chapter name="Druehals">
-<b>Druehals,</b> se <sp>Skyts</sp>.</chapter>
+<b>Druehals,</b> se <sp>Skyts</sp>.
+</chapter>
 
 <chapter name="Druehyacint">
-<b>Druehyacint,</b> se <sp>Muscari</sp>.</chapter>
+<b>Druehyacint,</b> se <sp>Muscari</sp>.
+</chapter>
 
 <chapter name="Druehyld">
-<b>Druehyld,</b> se <sp>Sambucus</sp>.</chapter>
+<b>Druehyld,</b> se <sp>Sambucus</sp>.
+</chapter>
 
 <chapter name="Druekerneolie">
 <b>Druekerneolie,</b> en fed Olie, der vindes ved

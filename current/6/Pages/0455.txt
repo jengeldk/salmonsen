@@ -45,7 +45,8 @@ km Sporveje.
 </chapter>
 
 <chapter name="Dromedar">
-<b>Dromedar,</b> se <sp>Kamel</sp>.</chapter>
+<b>Dromedar,</b> se <sp>Kamel</sp>.
+</chapter>
 
 <chapter name="Dromedarflue">
 <b>Dromedarflue</b> ell. <sp>Kamelhalsflue</sp> er et
@@ -70,7 +71,8 @@ udviklede Insekt kommer frem i Juni.
 </chapter>
 
 <chapter name="Dromia">
-<b>Dromia,</b> se <sp>Dromiadæ</sp>.</chapter>
+<b>Dromia,</b> se <sp>Dromiadæ</sp>.
+</chapter>
 
 <chapter name="Dromiadæ">
 <b>Dromiadæ,</b> Fam. af de dekapode Krebsdyr
@@ -135,7 +137,8 @@ Soc. 1887</i>).
 </chapter>
 
 <chapter name="Dromund">
-<b>Dromund,</b> se <sp>Galej</sp>.</chapter>
+<b>Dromund,</b> se <sp>Galej</sp>.
+</chapter>
 
 <chapter name="Dromæognathæ">
 <b>Dromæognathæ</b> kaldte <sp>Huxley</sp> i sin
@@ -147,22 +150,26 @@ Slægtskabmed Strudsfuglene.
 </chapter>
 
 <chapter name="Dromæus">
-<b>Dromæus,</b> se <sp>Emu</sp>.</chapter>
+<b>Dromæus,</b> se <sp>Emu</sp>.
+</chapter>
 
 <chapter name="Dronaz">
 <b>Dronaz</b> [dro'na], <sp>Pic de</sp>, en 2949 m høj
 Bjergtop i det schweiziske Kanton Wallis,
-umiddelbart NV. f. Passet over Store Skt Bernhardt.</chapter>
+umiddelbart NV. f. Passet over Store Skt Bernhardt.
+</chapter>
 
 <chapter name="Droner">
-<b>Droner,</b> se <sp>Bier</sp>.</chapter>
+<b>Droner,</b> se <sp>Bier</sp>.
+</chapter>
 
 <chapter name="Dronero">
 <b>Dronero,</b> By i Norditalien, Provins Cuneo,
 ligger 18 km NV. f. Coni i de cottiske Alper
 og ved den i Po faldende Maira. (1911) 7561
 Indb. D. har en Slotsruin (Roccabruna) og
-driver Silke- og Lærredsindustri samt Stenbrud.</chapter>
+driver Silke- og Lærredsindustri samt Stenbrud.
+</chapter>
 
 <chapter name="Dronfield">
 <b>Dronfield</b> ['drånfi.£d], By i Mellemengland,

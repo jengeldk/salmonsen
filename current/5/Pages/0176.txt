@@ -37,16 +37,19 @@ der findes Oplysninger om C.'s Virksomhed.
 </chapter>
 
 <chapter name="Concini">
-<b>Concini</b> [-t∫i-], se <sp>Ancre</sp>.</chapter>
+<b>Concini</b> [-t∫i-], se <sp>Ancre</sp>.
+</chapter>
 
 <chapter name="concisus">
 <b>concisus</b> (lat.) (paa Recepter), skaaren
 (Rødder, Urter etc.); sædvanlig anvendes
-Forkortelsen <i>conc</i>.</chapter>
+Forkortelsen <i>conc</i>.
+</chapter>
 
 <chapter name="concitato">
 <b>concitato</b> [-t∫i-] (ital.), mus.
-Foredragsbetegnelse: ophidset, i rask og heftig Bevægelse.</chapter>
+Foredragsbetegnelse: ophidset, i rask og heftig Bevægelse.
+</chapter>
 
 <chapter name="conclamatum est">
 <b>conclamatum est</b> (lat.), Talemaade, ordret:
@@ -61,7 +64,8 @@ Jorden være let for din Aske).
 </chapter>
 
 <chapter name="conclusio">
-<b>conclusio</b> (lat.), se <sp>Konklusion</sp>.</chapter>
+<b>conclusio</b> (lat.), se <sp>Konklusion</sp>.
+</chapter>
 
 <chapter name="Concone, Giuseppe">
 <b>Concone</b> [koŋ'kone], <sp>Giuseppe</sp>, italiensk
@@ -146,13 +150,15 @@ o. H. paa højre Bred af Republican River. (1910)
 <b>Concordia</b> [kåŋ'kård<sub>i</sub>a], By i den argentinske
 Prov. Entre Rios, paa højre Bred af Uruguay,
 ved Jernbanen til Caseros, har (1900) 12694 Indb.
-og Udførsel af saltet Kød og Paraguayte (Maté).</chapter>
+og Udførsel af saltet Kød og Paraguayte (Maté).
+</chapter>
 
 <chapter name="concordia res parvæ crescunt, discordia maximæ dilabuntur">
 <b>concordia res parvæ crescunt, discordia
 maximæ dilabuntur</b> (lat.), »Ved Enighed
 vokser en lille Stat, ved Uenighed gaar den
-største til Grunde« (Sallust »Jugurtha« Kap. 10).</chapter>
+største til Grunde« (Sallust »Jugurtha« Kap. 10).
+</chapter>
 
 <chapter name="Concordia Sagittaria">
 <b>Concordia Sagittaria</b> [kon'kård<sub>i</sub>a-sadзi
@@ -168,11 +174,13 @@ grundlagdes sandsynligvis af Augustus som
 
 <chapter name="concrete">
 <b>concrete</b> [k<sub>ə</sub>n'kri.t, 'kåŋkri.t eller 'kån-], se
-<sp>Beton</sp>.</chapter>
+<sp>Beton</sp>.
+</chapter>
 
 <chapter name="concurrence déloyale">
 <b>concurrence déloyale</b> [kåky'rã.s-delwa'jal]
-(fr.), se <sp>illoyal Konkurrence</sp>.</chapter>
+(fr.), se <sp>illoyal Konkurrence</sp>.
+</chapter>
 
 <chapter name="concursus">
 <b>concursus,</b> Sammenløben, Sammentræffen,

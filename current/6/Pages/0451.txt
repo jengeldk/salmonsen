@@ -29,10 +29,12 @@ længst.
 </chapter>
 
 <chapter name="Drikkesyge">
-<b>Drikkesyge,</b> se <sp>Alkoholisme</sp>.</chapter>
+<b>Drikkesyge,</b> se <sp>Alkoholisme</sp>.
+</chapter>
 
 <chapter name="Drikkevise">
-<b>Drikkevise,</b> se <sp>Vise</sp>.</chapter>
+<b>Drikkevise,</b> se <sp>Vise</sp>.
+</chapter>
 
 <chapter name="Drikting">
 <b>Drikting</b> var i ældre Tid i en vis Del af
@@ -128,7 +130,8 @@ Hvitsærk og Bjarke; jfr <sp>Rut</sp>).
 </chapter>
 
 <chapter name="Driva">
-<b>Driva,</b> se <sp>Sundalselven</sp>.</chapter>
+<b>Driva,</b> se <sp>Sundalselven</sp>.
+</chapter>
 
 <chapter name="Drivaal">
 <b>Drivaal</b> kalder man den alm. Aal, naar den
@@ -151,7 +154,8 @@ Forstævnen imod Søen.
 </chapter>
 
 <chapter name="Drivbænk">
-<b>Drivbænk,</b> se <sp>Varmebed</sp>.</chapter>
+<b>Drivbænk,</b> se <sp>Varmebed</sp>.
+</chapter>
 
 <chapter name="drive">
 <b>drive</b> (Søv.). Et Skib, der ligger til Ankers,
@@ -199,4 +203,5 @@ Forhindring.
 </chapter>
 
 <chapter name="Drivgarn">
-<b>Drivgarn,</b> se <sp>Garn</sp>.</chapter>
+<b>Drivgarn,</b> se <sp>Garn</sp>.
+</chapter>

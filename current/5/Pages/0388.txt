@@ -5,10 +5,12 @@ Se i øvrigt <sp>Danmark</sp> (»Geologi«).
 
 <chapter name="Cyprinidæ, Cyprinoldei, Cyprinus">
 <b>Cyprinidæ, Cyprinoldei, Cyprinus,</b> se
-<sp>Karpe</sp> og <sp>Karpefisk</sp>.</chapter>
+<sp>Karpe</sp> og <sp>Karpefisk</sp>.
+</chapter>
 
 <chapter name="Cyprinodontidæ">
-<b>Cyprinodontidæ,</b> se <sp>Tandkarper</sp>.</chapter>
+<b>Cyprinodontidæ,</b> se <sp>Tandkarper</sp>.
+</chapter>
 
 <chapter name="Cyprionsalt">
 <b>Cyprionsalt</b> er en Blanding af
@@ -18,10 +20,12 @@ anvendes i Fyrværkeriet.
 </chapter>
 
 <chapter name="Cypripedilum">
-<b>Cypripedilum,</b> se <sp>Fruesko</sp>.</chapter>
+<b>Cypripedilum,</b> se <sp>Fruesko</sp>.
+</chapter>
 
 <chapter name="Cypris">
-<b>Cypris,</b> se <sp>Cypridæ</sp>.</chapter>
+<b>Cypris,</b> se <sp>Cypridæ</sp>.
+</chapter>
 
 <chapter name="Cyprius">
 <b>Cyprius,</b> hos de gamle en Versefod,
@@ -40,7 +44,8 @@ Balahussa paa Cypern.
 </chapter>
 
 <chapter name="Cypræa">
-<b>Cypræa,</b> se <sp>Porcelænsnegle</sp>.</chapter>
+<b>Cypræa,</b> se <sp>Porcelænsnegle</sp>.
+</chapter>
 
 <chapter name="Cypræus, Johan Adolf">
 <b>Cypræus</b> [sy-], <sp>Johan Adolf</sp>, slesvigsk
@@ -65,7 +70,8 @@ Livsskæbne er ukendt.
 </chapter>
 
 <chapter name="Cypselidæ, Cypselus">
-<b>Cypselidæ, Cypselus,</b> se <sp>Mursvaler</sp>.</chapter>
+<b>Cypselidæ, Cypselus,</b> se <sp>Mursvaler</sp>.
+</chapter>
 
 <chapter name="Cyrena-Mergel og -Sand">
 <b>Cyrena-Mergel</b> og <b>-Sand</b> kaldes i al Alm.
@@ -80,13 +86,16 @@ Mainz og i Elsass.
 
 <chapter name="Cyriacus fra Ancona">
 <b>Cyriacus fra Ancona,</b> se <sp>Ciriaco de'
-Pizzicolli</sp>.</chapter>
+Pizzicolli</sp>.
+</chapter>
 
 <chapter name="cyrilliske Alfabet">
-<b>cyrilliske Alfabet,</b> se <sp>Kirkeslavisk</sp>.</chapter>
+<b>cyrilliske Alfabet,</b> se <sp>Kirkeslavisk</sp>.
+</chapter>
 
 <chapter name="Cyrillus">
-<b>Cyrillus,</b> d. s. s. <sp>Kyrillos</sp>.</chapter>
+<b>Cyrillus,</b> d. s. s. <sp>Kyrillos</sp>.
+</chapter>
 
 <chapter name="Cyrtoceras">
 <b>Cyrtoceras,</b> fossil Nautilslægt fra siluriske
@@ -123,10 +132,12 @@ ell. Blytraade.
 </chapter>
 
 <chapter name="Cyrus">
-<b>Cyrus,</b> se <sp>Kyros</sp>.</chapter>
+<b>Cyrus,</b> se <sp>Kyros</sp>.
+</chapter>
 
 <chapter name="Cystalgi">
-<b>Cystalgi,</b> Blæresmerte, se <sp>Cystodyni</sp>.</chapter>
+<b>Cystalgi,</b> Blæresmerte, se <sp>Cystodyni</sp>.
+</chapter>
 
 <chapter name="Cyste">
 <b>Cyste</b> (gr. κύστις;, Blære). 1) Svulst, dannet

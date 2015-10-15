@@ -9,10 +9,12 @@ i det større og mere moderne Kunstkammer
 </chapter>
 
 <chapter name="Drejerkniv">
-<b>Drejerkniv,</b> se <sp>Drejestaal</sp>.</chapter>
+<b>Drejerkniv,</b> se <sp>Drejestaal</sp>.
+</chapter>
 
 <chapter name="Drejerlad">
-<b>Drejerlad,</b> se <sp>Drejebænk</sp>.</chapter>
+<b>Drejerlad,</b> se <sp>Drejebænk</sp>.
+</chapter>
 
 <chapter name="Drejeskive">
 <b>Drejeskive</b> anvendes til Formning af runde

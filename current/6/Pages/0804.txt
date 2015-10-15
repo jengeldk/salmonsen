@@ -85,11 +85,13 @@ mange Gange opholdt sig længere Tid
 udenlands; han har indehaft forsk. litterære
 Tillidshverv, deriblandt Stillingen som Formand
 i norsk Forfatterforening.
-<i>E. S-n.</i>.</chapter>
+<i>E. S-n.</i>
+</chapter>
 
 <chapter name="Eggedal">
 <b>Eggedal</b> i Buskerud Amt er en trang, vild
-Fjelddal, som danner en Fortsættelse af Sigdal.</chapter>
+Fjelddal, som danner en Fortsættelse af Sigdal.
+</chapter>
 
 <chapter name="Eggeling, Julius">
 <b>Eggeling</b> ['æg<sub>ə</sub>-], <sp>Julius</sp>, tysk Sanskritist,

@@ -7,11 +7,13 @@ hans Død med Stik af ovenn. Broder.
 
 <chapter name="Daniell's Element">
 <b>Daniell's Element</b> ['dänj<sub>ə</sub>£s-], se <sp>Galvanisk
-Element</sp>.</chapter>
+Element</sp>.
+</chapter>
 
 <chapter name="Daniell's Hygrometer">
 <b>Daniell's Hygrometer</b> ['dänj<sub>ə</sub>£s-], se
-<sp>Fugtighedsmaaler</sp>.</chapter>
+<sp>Fugtighedsmaaler</sp>.
+</chapter>
 
 <chapter name="Daniëls, Carel Edouard">
 <b>Daniëls,</b> <sp>Carel Edouard</sp>, holl. Læge, f.
@@ -38,7 +40,8 @@ Skr gav Anledning til Oprettelse af en Sal til
 </chapter>
 
 <chapter name="Daniel's Bog">
-<b>Daniel's Bog,</b> se <sp>Daniel</sp>.</chapter>
+<b>Daniel's Bog,</b> se <sp>Daniel</sp>.
+</chapter>
 
 <chapter name="Danielson, Anders Peter">
 <b>Danielson,</b> <sp>Anders Peter</sp>, svensk

@@ -6,7 +6,8 @@ Overgangstrin til de soloniske Reformer.
 </chapter>
 
 <chapter name="drakonisk">
-<b>drakonisk,</b> se <sp>Drakon</sp>.</chapter>
+<b>drakonisk,</b> se <sp>Drakon</sp>.
+</chapter>
 
 <chapter name="Dram">
 <b>Dram</b> er i Norge den brugelige Benævnelse

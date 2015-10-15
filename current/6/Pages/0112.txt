@@ -83,7 +83,8 @@ Genstand for dram. Bearbejdelse.
 <b>Diakrise</b> (gr.), Adskillelse, Iagttagelse,
 Bedømmelse og Skelnen (især af Sygdomstilfælde);
 <sp>diakritisk</sp>, tjenende til Bedømmelse af
-rigtig Udtale og rigtig Forstaaelse.</chapter>
+rigtig Udtale og rigtig Forstaaelse.
+</chapter>
 
 <chapter name="diakritiske Tegn">
 <b>diakritiske Tegn</b> (gr.), Adskillelsestegn. Man
@@ -103,11 +104,13 @@ gengives med fonetisk Nøjagtighed o. l.
 
 <chapter name="diaktinisk">
 <b>diaktinisk</b> (gr.), gennemtrængelig for kem.
-virksomme Straaler.</chapter>
+virksomme Straaler.
+</chapter>
 
 <chapter name="Diakustik">
 <b>Diakustik</b> (gr.), Læren om Lydens
-Gennemgang (i Modsætning til dens Tilbagekastning).</chapter>
+Gennemgang (i Modsætning til dens Tilbagekastning).
+</chapter>
 
 <chapter name="Dialekt">
 <b>Dialekt</b> (gr.) gengives ved <sp>Mundart</sp>

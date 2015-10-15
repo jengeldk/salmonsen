@@ -52,7 +52,8 @@ Samfundsøkonomi]).
 </chapter>
 
 <chapter name="Driftsherregevinst">
-<b>Driftsherregevinst,</b> se <sp>Driftsherre</sp>.</chapter>
+<b>Driftsherregevinst,</b> se <sp>Driftsherre</sp>.
+</chapter>
 
 <chapter name="Driftskapital">
 <b>Driftskapital.</b> Man skelner i en

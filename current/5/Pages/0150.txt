@@ -76,7 +76,8 @@ C.; den findes særlig i Amerika.
 </chapter>
 
 <chapter name="Columbium">
-<b>Columbium,</b> d. s. s. <sp>Tantal</sp>.</chapter>
+<b>Columbium,</b> d. s. s. <sp>Tantal</sp>.
+</chapter>
 
 <chapter name="Columbretes">
 <b>Columbretes</b> [kålum'bræt<sub>æ</sub>s]

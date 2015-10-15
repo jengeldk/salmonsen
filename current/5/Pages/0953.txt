@@ -63,17 +63,21 @@ søges gennemført.
 
 <chapter name="defilere">
 <b>defilere,</b> Troppers parademæssige
-Forbimarch for den Foresatte.</chapter>
+Forbimarch for den Foresatte.
+</chapter>
 
 <chapter name="defileret">
-<b>defileret,</b> se <sp>Defilement</sp>.</chapter>
+<b>defileret,</b> se <sp>Defilement</sp>.
+</chapter>
 
 <chapter name="Defilering">
 <b>Defilering,</b> d. s. s. <sp>Defilement</sp>; ogsaa
-Subst. til <sp>defilere</sp>.</chapter>
+Subst. til <sp>defilere</sp>.
+</chapter>
 
 <chapter name="definere">
-<b>definere,</b> at give en <sp>Definition</sp> (s. d.).</chapter>
+<b>definere,</b> at give en <sp>Definition</sp> (s. d.).
+</chapter>
 
 <chapter name="Definition">
 <b>Definition</b> (lat., af <i>definere</i>, afgrænse)
@@ -100,7 +104,8 @@ formalt-logisk.
 
 <chapter name="definitiv">
 <b>definitiv</b> (lat.), afgjort, afgørende, bestemt,
-endelig (modsat foreløbig).</chapter>
+endelig (modsat foreløbig).
+</chapter>
 
 <chapter name="Definitivum">
 <b>Definitivum</b> (lat.), et Forholds endelige
@@ -112,7 +117,8 @@ foreløbige Ordning.
 
 <chapter name="Deflegmation, Deflegmator">
 <b>Deflegmation, Deflegmator,</b> se
-<sp>Destillation</sp>.</chapter>
+<sp>Destillation</sp>.
+</chapter>
 
 <chapter name="deflegmere">
 <b>deflegmere.</b> Dette Udtryk var hos de gl.

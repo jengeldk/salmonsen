@@ -33,7 +33,8 @@ jævn og beskeden. (<sp>Litt</sp>.: <sp>Sainte-Beuve</sp>,
 </chapter>
 
 <chapter name="Dacit">
-<b>Dacit,</b> se <sp>Andesit</sp>.</chapter>
+<b>Dacit,</b> se <sp>Andesit</sp>.
+</chapter>
 
 <chapter name="Dacke, Nils">
 <b>Dacke,</b> <sp>Nils</sp>, Lederen af den farligste Almueopstand,
@@ -94,13 +95,16 @@ Pest.
 </chapter>
 
 <chapter name="Dacke-Fejden">
-<b>Dacke-Fejden,</b> se <sp>Dacke</sp>.</chapter>
+<b>Dacke-Fejden,</b> se <sp>Dacke</sp>.
+</chapter>
 
 <chapter name="Dacryomitra">
-<b>Dacryomitra,</b> se <sp>Dacryomycetaceæ</sp>.</chapter>
+<b>Dacryomitra,</b> se <sp>Dacryomycetaceæ</sp>.
+</chapter>
 
 <chapter name="Dacryomyces">
-<b>Dacryomyces,</b> se <sp>Dacryomycetaceæ</sp>.</chapter>
+<b>Dacryomyces,</b> se <sp>Dacryomycetaceæ</sp>.
+</chapter>
 
 <chapter name="Dacryomycetaceæ">
 <b>Dacryomycetaceæ,</b> Fam. af Basidiomyceter,
@@ -137,13 +141,16 @@ fra den golde.
 </chapter>
 
 <chapter name="Dactylethra">
-<b>Dactylethra,</b> se <sp>Xenopus</sp>.</chapter>
+<b>Dactylethra,</b> se <sp>Xenopus</sp>.
+</chapter>
 
 <chapter name="Dactylis">
-<b>Dactylis,</b> se <sp>Hundegræs</sp>.</chapter>
+<b>Dactylis,</b> se <sp>Hundegræs</sp>.
+</chapter>
 
 <chapter name="Dactylopterus">
-<b>Dactylopterus,</b> Flyveulk, se <sp>Ulke</sp>.</chapter>
+<b>Dactylopterus,</b> Flyveulk, se <sp>Ulke</sp>.
+</chapter>
 
 <chapter name="Daðason, Jón">
 <b>Daðason</b> ['da-], <sp>Jón</sp>, Præst til Arnarbæli i
@@ -161,11 +168,14 @@ blottet for Kundskaber i Naturhistorie.
 </chapter>
 
 <chapter name="Daddel">
-<b>Daddel,</b> se <sp>Phoenix</sp>.</chapter>
+<b>Daddel,</b> se <sp>Phoenix</sp>.
+</chapter>
 
 <chapter name="Daddelblommetræ">
-<b>Daddelblommetræ,</b> se <sp>Diospyros</sp>.</chapter>
+<b>Daddelblommetræ,</b> se <sp>Diospyros</sp>.
+</chapter>
 
 <chapter name="Daddelmusling">
-<b>Daddelmusling,</b> Stendaddel, se <sp>Blaamuslinger</sp>.</chapter>
+<b>Daddelmusling,</b> Stendaddel, se <sp>Blaamuslinger</sp>.
+</chapter>
 

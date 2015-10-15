@@ -101,7 +101,8 @@ Hovedgaardens Tilliggende er c. 500 ha foruden c.
 Egeskov.</img>
 
 <chapter name="Egesta">
-<b>Egesta,</b> se <sp>Segesta</sp>.</chapter>
+<b>Egesta,</b> se <sp>Segesta</sp>.
+</chapter>
 
 <chapter name="Eget">
 <b>Eget</b> (ell. <sp>Jeget</sp>), Hovedgaard i

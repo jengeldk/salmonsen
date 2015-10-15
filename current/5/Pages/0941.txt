@@ -70,7 +70,8 @@ Decazes, der har givet Byen Navn.
 </chapter>
 
 <chapter name="Decebalus">
-<b>Decebalus,</b> se <sp>Dacia</sp>.</chapter>
+<b>Decebalus,</b> se <sp>Dacia</sp>.
+</chapter>
 
 <chapter name="decem">
 <b>decem</b> (lat.), Talord: ti; Tiende som Afgift

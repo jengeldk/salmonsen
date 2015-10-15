@@ -21,7 +21,8 @@ Kravene paa nogenledes betryggende Maade.
 
 <chapter name="desinficere">
 <b>desinficere,</b> ødelægge Smitteemner, foretage
-Desinfektion.</chapter>
+Desinfektion.
+</chapter>
 
 <chapter name="Desintegrator">
 <b>Desintegrator,</b> Maskine til Sønderdeling af
@@ -73,7 +74,8 @@ Franskmændene.
 </chapter>
 
 <chapter name="Désirée">
-<b>Désirée</b> [dezi're], d. s. s. <sp>Desideria</sp>.</chapter>
+<b>Désirée</b> [dezi're], d. s. s. <sp>Desideria</sp>.
+</chapter>
 
 <chapter name="Desjardins, Abel">
 <b>Desjardins</b> [dæзar'dæ], <sp>Abel</sp>, fr. Historiker,

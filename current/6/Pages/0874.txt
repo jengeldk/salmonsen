@@ -6,38 +6,46 @@ den er konstateret.
 <chapter name="eksperimentere">
 <b>eksperimentere</b> ['æks-] (lat.), gøre, anstille
 Forsøg (smlg. <sp>Eksperiment</sp>);
-<sp>eksperimental</sp>, grundet paa Forsøg.</chapter>
+<sp>eksperimental</sp>, grundet paa Forsøg.
+</chapter>
 
 <chapter name="Ekspert">
-<b>Ekspert</b> (lat.), Sagkyndig.</chapter>
+<b>Ekspert</b> (lat.), Sagkyndig.
+</chapter>
 
 <chapter name="Ekspiation">
 <b>Ekspiation</b> (lat.), Forsoning, Bod,
 Fyldestgørelse, Syndsudslettelse, Oprejsning ;
 <sp>ekspiatorisk</sp>, gældende for Bod for Synd,
 forsonende; <sp>ekspiabel</sp>, som kan sones,
-oprettelig.</chapter>
+oprettelig.
+</chapter>
 
 <chapter name="eksplanere">
 <b>eksplanere</b> (lat.), udlægge, forklare, oplyse;
-<sp>Eksplanation</sp>, Udlægning, Forklaring.</chapter>
+<sp>Eksplanation</sp>, Udlægning, Forklaring.
+</chapter>
 
 <chapter name="Eksplementvinkler">
 <b>Eksplementvinkler</b> eller <b>-buer</b> kaldes to
-Vinkler ell. Buer, der tilsammen udgør 360°.</chapter>
+Vinkler ell. Buer, der tilsammen udgør 360°.
+</chapter>
 
 <chapter name="eksplicere">
 <b>eksplicere</b> (lat.), forklare, udvikle.
 <sp>Eksplikation</sp>, Forklaring, Udvikling;
-<sp>eksplikativ</sp>, forklarende.</chapter>
+<sp>eksplikativ</sp>, forklarende.
+</chapter>
 
 <chapter name="eksplodere">
 <b>eksplodere</b> (lat.), springe med et Knald,
-knalde af, briste. Smlg. <sp>Eksplosion</sp>.</chapter>
+knalde af, briste. Smlg. <sp>Eksplosion</sp>.
+</chapter>
 
 <chapter name="eksploitere">
 <b>eksploitere</b> ['æksploa-] (af fr. <i>exploiter</i>),
-udnytte, drage Fordel af, udbytte.</chapter>
+udnytte, drage Fordel af, udbytte.
+</chapter>
 
 <chapter name="Eksploration">
 <b>Eksploration</b> ['æks-] (lat.), Undersøgelse, et
@@ -65,7 +73,8 @@ ned mod den eksplorerende Finger.
 
 <chapter name="eksplorere">
 <b>eksplorere</b> (lat., fr.), udforske, nøje
-undersøge.</chapter>
+undersøge.
+</chapter>
 
 <chapter name="Eksplosion">
 <b>Eksplosion</b> (lat.) betegner paa Dansk som
@@ -105,7 +114,8 @@ Stoffet siges at <sp>detonere</sp>, <sp>forpuffe</sp>.
 </chapter>
 
 <chapter name="Eksplpsionskrater">
-<b>Eksplpsionskrater,</b> se <sp>Vulkaner</sp>.</chapter>
+<b>Eksplpsionskrater,</b> se <sp>Vulkaner</sp>.
+</chapter>
 
 <chapter name="Eksplosionsmaskiner">
 <b>Eksplosionsmaskiner</b> kaldes en Rk.
@@ -142,7 +152,8 @@ elektrisk Gnist. Anvendes ved
 </chapter>
 
 <chapter name="Eksplosionssignal">
-<b>Eksplosionssignal,</b> se <sp>Knaldsignal</sp>.</chapter>
+<b>Eksplosionssignal,</b> se <sp>Knaldsignal</sp>.
+</chapter>
 
 <chapter name="Eksplosiv">
 <b>Eksplosiv</b> (lat.) (eller <sp>Eksplosivlyd</sp>).

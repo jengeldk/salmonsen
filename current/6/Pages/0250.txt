@@ -23,15 +23,18 @@ forøget Diurese.
 </chapter>
 
 <chapter name="diurna">
-<b>diurna,</b> se <sp>acta diurna</sp>.</chapter>
+<b>diurna,</b> se <sp>acta diurna</sp>.
+</chapter>
 
 <chapter name="Diurna">
 <b>Diurna,</b> d. s. s. <i>Rhopalocera</i>, se
-<sp>Dagsommerfugle</sp>.</chapter>
+<sp>Dagsommerfugle</sp>.
+</chapter>
 
 <chapter name="Diurnale">
 <b>Diurnale</b> (nylat.), de kat. Gejstliges
-»daglige« Bønnebog.</chapter>
+»daglige« Bønnebog.
+</chapter>
 
 <chapter name="Dius Fidius">
 <b>Dius Fidius,</b> rom. Gud, hvis Navn
@@ -49,13 +52,15 @@ F., efter Sagnet grundlagt af <i>Titus Tatius</i>.
 <chapter name="div.">
 <b>div.,</b> Forkortelse paa Recepter for <i>divide</i>
 (lat.) del; ogsaa for <sp>divus</sp>, <sp>diva</sp>; smlg.
-<sp>divisi</sp>.</chapter>
+<sp>divisi</sp>.
+</chapter>
 
 <chapter name="Diva">
 <b>Diva</b> (ital.: »den guddommelige«), opr. et
 Prædikat »guddommelig«, der tillagdes
 Kejserinderne i det gl. Rom; nu: en fejret Dame,
-særlig en fejret Sangerinde.</chapter>
+særlig en fejret Sangerinde.
+</chapter>
 
 <chapter name="Divan">
 <b>Divan</b> [di,'va.n] (pers.) betyder egl. en
@@ -81,13 +86,15 @@ af Goethe med hans berømte Digtsamling
 </chapter>
 
 <chapter name="Divergens">
-<b>Divergens</b> (<sp>mat</sp>.), se <sp>Række</sp>.</chapter>
+<b>Divergens</b> (<sp>mat</sp>.), se <sp>Række</sp>.
+</chapter>
 
 <chapter name="divergere">
 <b>divergere</b> (lat.), fjerne sig fra hinanden,
 være af afvigende Mening. <sp>Divergéns</sp>,
 Meningsforskel, Uenighed; <sp>divergént</sp>,
-afvigende.</chapter>
+afvigende.
+</chapter>
 
 <chapter name="diverse">
 <b>diverse</b> (lat.), fl. forsk. ell. alle Haande
@@ -131,7 +138,8 @@ Offensiven.
 </chapter>
 
 <chapter name="divertere">
-<b>divertere</b> (fr.), forlyste, more, adsprede.</chapter>
+<b>divertere</b> (fr.), forlyste, more, adsprede.
+</chapter>
 
 <chapter name="Divertikel">
 <b>Divertikel</b> (lat.). Herved forstaas en
@@ -165,7 +173,8 @@ Sonaten. - 3) d. s. s. Potpourri.
 </chapter>
 
 <chapter name="Divertissement">
-<b>Divertissement</b> [-'maŋ], se <sp>Divertimento</sp>.</chapter>
+<b>Divertissement</b> [-'maŋ], se <sp>Divertimento</sp>.
+</chapter>
 
 <chapter name="Dives-sur-Mer">
 <b>Dives-sur-Mer</b> ['di.v-syr-'mæ.r], Flække og
@@ -187,5 +196,6 @@ en i S. til N. løbende c. 50 km lang Dal, der
 fører fra Tragterne ved Altevand til
 Øverbygden, Anneks til Maalselven. Gennem Dalen løber
 <sp>Divielven</sp>, hvori dannes D<sp>ivifoss</sp>.
-<sp>M. H.</sp></chapter>
+<i>M. H.</i>
+</chapter>
 

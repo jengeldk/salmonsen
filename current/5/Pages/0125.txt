@@ -77,10 +77,12 @@ Sø Musters, af Rio Sengel.
 </chapter>
 
 <chapter name="Colhué">
-<b>Colhué</b> [kål'wæ], se <sp>Colguapi</sp>.</chapter>
+<b>Colhué</b> [kål'wæ], se <sp>Colguapi</sp>.
+</chapter>
 
 <chapter name="Colica">
-<b>Colica,</b> se <sp>Kolik</sp>.</chapter>
+<b>Colica,</b> se <sp>Kolik</sp>.
+</chapter>
 
 <chapter name="Colico">
 <b>Colico</b> ['kåliko], Flække i Norditalien, Prov.

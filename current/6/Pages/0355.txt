@@ -115,7 +115,8 @@ Frankrig og senere til England.
 
 <chapter name="dorsal">
 <b>dorsal</b> (nylat. af <i>dórsum</i>, Ryg), hørende til
-Ryggen; hvad der angaar Ryggen.</chapter>
+Ryggen; hvad der angaar Ryggen.
+</chapter>
 
 <chapter name="Dorsaler">
 <b>Dorsaler,</b> egl. Ryglyd; Udtrykket bruges i

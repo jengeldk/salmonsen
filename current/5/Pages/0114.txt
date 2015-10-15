@@ -29,7 +29,8 @@ Tilvirkning af strikkede Varer.
 </chapter>
 
 <chapter name="Cohrastryk">
-<b>Cohrastryk,</b> se <sp>Farveri</sp>.</chapter>
+<b>Cohrastryk,</b> se <sp>Farveri</sp>.
+</chapter>
 
 <chapter name="Coiba">
 <b>Coiba</b> ['kå<sub>i</sub>wa] (<sp>Quibo</sp>), Ø ved Sydkysten
@@ -42,7 +43,8 @@ Perlefiskere.
 <chapter name="Coiffeur">
 <b>Coiffeur</b> [kwa'fö.r] (fr.), Haarskærer, Frisør;
 <sp>coiffere</sp> [koa-], frisere; <sp>coiffure</sp> [kwa'fy.r],
-Haarpynt, d. s. s. Frisure.</chapter>
+Haarpynt, d. s. s. Frisure.
+</chapter>
 
 <chapter name="Coillard, François">
 <b>Coillard</b> [kå<sub>i</sub>'ja.r], <sp>François</sp>, fr.
@@ -138,7 +140,8 @@ at de staar i noget indbyrdes Aarsagsforhold.
 </chapter>
 
 <chapter name="Coira">
-<b>Coira</b> ['kå<sub>i</sub>ra], ital. Navn for <sp>Chur</sp>.</chapter>
+<b>Coira</b> ['kå<sub>i</sub>ra], ital. Navn for <sp>Chur</sp>.
+</chapter>
 
 <chapter name="Coit, Stanton">
 <b>Coit</b> [kå^it], <sp>Stanton</sp>, eng. Socialetiker, f.

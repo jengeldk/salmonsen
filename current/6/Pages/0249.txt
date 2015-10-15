@@ -79,7 +79,8 @@ Tegning.
 det samme, ligesaa, d. benyttes mest i
 Forkortelsen <i>do.</i> for at undgaa Gentagelse af Betegnelser,
 der forekommer fl. Gange, efter ell. under
-hverandre, saaledes i Regninger o. l.</chapter>
+hverandre, saaledes i Regninger o. l.
+</chapter>
 
 <chapter name="Dittografi">
 <b>Dittografi,</b> fejlagtig Dobbeltskrivning af
@@ -87,7 +88,8 @@ samme Bogstav (ell. samme Ord), f. Eks.
 <i>assurereret</i> for <i>assureret</i>; <i>af af andre</i>. Ikke faa
 Trykfejl beror paa D.; Typograferne kalder det
 »Bryllup«.
-<i>O. Jsp</i>.</chapter>
+<i>O. Jsp</i>
+</chapter>
 
 <chapter name="Dittologi">
 <b>Dittologi,</b> fejlagtig Dobbeltsigen af samme
@@ -104,7 +106,8 @@ Sprachwissenschaft« (1905), »Der Problem der
 Sprachpsychologie« (1913) og forsk. Tidsskriftafh., bl. a. en
 Række Studier over Ordsammensætning i
 »Zeitschrift f. rom. Phil.« (1898-1904).
-<i>K.S.-J</i>.</chapter>
+<i>K.S.-J</i>
+</chapter>
 
 <chapter name="Dittrich, Rudolph">
 <b>Dittrich</b> [-trik], <sp>Rudolph</sp>, østerr. Musiker,
@@ -119,7 +122,8 @@ udg. Bearbejdelser af jap. Folkeviser.
 </chapter>
 
 <chapter name="Ditymoldijodid">
-<b>Ditymoldijodid,</b> se <sp>Aristol</sp>.</chapter>
+<b>Ditymoldijodid,</b> se <sp>Aristol</sp>.
+</chapter>
 
 <chapter name="Diu">
 <b>Diu</b> (i Skrt <sp>Dwipa</sp>, Ø), portug. Ø ved
@@ -139,10 +143,12 @@ staaende Guvernør.
 </chapter>
 
 <chapter name="Diureider">
-<b>Diureider,</b> se <sp>Ureider</sp>.</chapter>
+<b>Diureider,</b> se <sp>Ureider</sp>.
+</chapter>
 
 <chapter name="Diurese">
-<b>Diurese,</b> Urinafsondring, Urinmængde.</chapter>
+<b>Diurese,</b> Urinafsondring, Urinmængde.
+</chapter>
 
 <chapter name="Diuretika">
 <b>Diuretika,</b> urindrivende Midler, som forøger

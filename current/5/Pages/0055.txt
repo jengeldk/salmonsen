@@ -142,10 +142,12 @@ Bd, Amsterdam 1688).
 </chapter>
 
 <chapter name="Claude-Lorrain">
-<b>Claude-Lorrain</b> [klo.d-lå'ræ], se <sp>Gellée</sp>.</chapter>
+<b>Claude-Lorrain</b> [klo.d-lå'ræ], se <sp>Gellée</sp>.
+</chapter>
 
 <chapter name="Claudetit">
-<b>Claudetit,</b> se <sp>Arsenolit</sp>.</chapter>
+<b>Claudetit,</b> se <sp>Arsenolit</sp>.
+</chapter>
 
 <chapter name="Claudia (Claude de France)">
 <b>Claudia</b> (<sp>Claude de France</sp>), fransk
