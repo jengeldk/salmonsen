@@ -79,7 +79,8 @@ Kbhvn 1914]; <sp>Oesterreich</sp>,
 <i>Some types of multiple personality</i>, i
 <i>Proceedings of the society for psych. research</i>, Bd
 26, 1912]).
-<i>Alfr. L.</i></chapter>
+<i>Alfr. L.</i>
+</chapter>
 
 <chapter name="Dobbeltbid">
 <b>Dobbeltbid</b> kaldes den Tilstand ved
@@ -87,7 +88,8 @@ Tænderne, der fremkommer, naar under
 Tandskifteperioden fl. ell. færre af Mælketænderne
 i St f. for at fældes bliver paa deres Plads,
 efter at de blivende Tænder er frembrudte.
-<i>H. G.</i></chapter>
+<i>H. G.</i>
+</chapter>
 
 <chapter name="Dobbeltbillede">
 <b>Dobbeltbillede.</b> En Genstand ses dobbelt,
@@ -102,7 +104,8 @@ Vinduesposten. Heraf lærer man, at en Genstand
 kun ses enkelt, naar dens Billeder i de to Øjne
 falder paa Steder af Nethinderne, der staar i et
 bestemt Forhold til hinanden.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Dobbeltbilledmikrometer">
 <b>Dobbeltbilledmikrometer,</b> se

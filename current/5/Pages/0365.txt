@@ -1,6 +1,7 @@
 Jern, er meget kostbar og besværlig, men maa
 ofte udføres ved Kulgruber.
-<i>A. G.</i></chapter>
+<i>A. G.</i>
+</chapter>
 
 <chapter name="Cuvette">
 <b>Cuvette</b> [ky'væt] (fr.), Vaskefad, Kumme,
@@ -10,7 +11,8 @@ Regnvandet; i Lommeure den indre Metalplade,
 som skærmer Urværket; i Tandlægekunsten den
 halvrunde Rende til Optagelse af Vokset ved
 Aftryk af Kæberne.
-<i>F. W.</i></chapter>
+<i>F. W.</i>
+</chapter>
 
 <chapter name="Cuvier, George Léopold Chrétien Frédéric Dagobert de">
 <b>Cuvier</b> [ky'v<sub>i</sub>e], <sp>George Léopold
@@ -118,7 +120,8 @@ af Grundtyper har maattet forøges, og fremfor
 alt er Læren om de indbyrdes skarpt sondrede
 Typer efter Descendenslærens sejrrige
 Gennembrud blevet rokket i sin Grundvold.
-<i>R. H. S.</i></chapter>
+<i>R. H. S.</i>
+</chapter>
 
 <img>G. L. C. F. D. de Cuvier.</img>
 

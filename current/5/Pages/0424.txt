@@ -6,7 +6,8 @@ D. bruges snart ensbetydende med <sp>Memorial</sp>,
 med <sp>Kladde</sp>, <sp>Pakhusbog</sp>, <sp>Salgsbog</sp>.
 Se <sp>Bogholderi</sp>. Smlg. ogsaa
 <sp>Skibs-D</sp>.
-<i>(C. V. S.). Th. O.</i></chapter>
+<i>(C. V. S.). Th. O.</i>
+</chapter>
 
 <chapter name="Dagbrud">
 <b>Dagbrud</b> drives paa saadanne Lejesteder, der
@@ -31,12 +32,14 @@ Fordele, som D. frembyder, nemlig at spare
 Muring, Fortømring, Belysning og Udgifter ved
 Vejrveksling og Gensætning af det værdifulde
 Mineral.
-<i>A. G.</i></chapter>
+<i>A. G.</i>
+</chapter>
 
 <chapter name="Dagbrydning">
 <b>Dagbrydning</b> (<sp>Dagbygning</sp>, tysk <sp>Tagebau</sp>),
 Drift af Dagbrud.
-<i>A. G.</i></chapter>
+<i>A. G.</i>
+</chapter>
 
 <chapter name="Dagbue">
 <b>Dagbue</b> benævnes den Del af Dagcirklen, der
@@ -92,7 +95,8 @@ Finder man i Almanakken, at Jupiter har Deklination
 (φ = 55°) 13 Timer 57 Min., for Kria (φ =
 60°) 14 Timer 22 Min., for Hammerfest (φ
 = 70°) 15 Timer 52 Min. o. s. v.
-<i>J. Fr. S.</i></chapter>
+<i>J. Fr. S.</i>
+</chapter>
 
 <chapter name="Dagbygning">
 <b>Dagbygning,</b> se <sp>Dagbrydning</sp>.</chapter>
@@ -101,7 +105,8 @@ Finder man i Almanakken, at Jupiter har Deklination
 <b>Dagcirkel</b> kaldes den med Himlens Ækvator
 parallelle Cirkel, en Stjerne beskriver under
 Himmelhvælvingens tilsyneladende daglige Omdrejning.
-<i>J. Fr. S.</i></chapter>
+<i>J. Fr. S.</i>
+</chapter>
 
 <chapter name="Dagden">
 <b>Dagden,</b> se <sp>Dagø</sp>.</chapter>
@@ -120,7 +125,8 @@ Jorsalfar's Regering skal han have stiftet Gimsø
 Nonnekloster, hvis første Abbedisse hans Datter
 Baugeid var. Hans Sønner var Vatnorm og Gregorius
 Dagssøn.
-<i>(O. A. Ø.). Edv. B.</i></chapter>
+<i>(O. A. Ø.). Edv. B.</i>
+</chapter>
 
 <chapter name="Dagen, se Dagø">
 <b>Dagen,</b> se <sp>Dagø</sp>.</chapter>
@@ -156,5 +162,6 @@ ved Kassesvig og flygtede til Nordamerika. Dermed
 var D.'s Skæbne afgjort. (<sp>Litt</sp>.: <sp>J. Clausen</sp>,
 »Kulturhistoriske Studier over Heiberg's
 Vaudeviller« [Kbhvn 1891]).
-<i>J. Cl.</i></chapter>
+<i>J. Cl.</i>
+</chapter>
 

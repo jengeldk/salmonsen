@@ -1,6 +1,7 @@
 -1707 var E. Hovedstad i et Hertugdømme
 Sacbsen-E.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Eisenburg">
 <b>Eisenburg</b> ['a^iz<sub>ə</sub>nburk], ung. <sp>Vas</sp>, Komitat
@@ -13,7 +14,8 @@ fladt og Jordbunden meget frugtbar.
 Hovedstaden er Steinamanger (ung. Szombathely).
 Komitatet har Navn efter den lille By E. (ung.
 Vasvár).
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Eisenerz">
 <b>Eisenerz</b> ['a^iz<sub>ə</sub>nærts], By i Kejserdømmet
@@ -27,7 +29,8 @@ i Romertiden og aarlig leverer c. 15 Mill. metr.
 Centner Jernmalm (Jernspat). NV. f. E. ligger
 Slottet Leopoldstein ved den vilde, men herlig
 liggende <sp>Leopoldsteiner See</sp>.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Eisenhut, Ferenz">
 <b>Eisenhut</b> ['a^iz<sub>ə</sub>nhut], <sp>Ferenz</sp> (<sp>Franz</sp>),
@@ -37,7 +40,8 @@ Uddannelse (under Diez) og virkede. Han har
 især malet Orientbilleder; hans Kunst er
 repræsenteret i Münchens ny Pinakotek og i
 Budapests Mus.
-<i>A. Hk.</i></chapter>
+<i>A. Hk.</i>
+</chapter>
 
 <chapter name="Eisenlohr, August">
 <b>Eisenlohr</b> [a^iz<sub>ə</sub>nlo.r], <sp>August</sp>, tysk
@@ -68,7 +72,8 @@ mærkelige Aktstykke: »Ein mathematisches
 Handbuch der alten Aegypter« (1877). 1872 blev
 han ekstraord. Prof. i Ægyptologi i Heidelberg
 og 1885 Professor.
-<i>V. S.</i></chapter>
+<i>V. S.</i>
+</chapter>
 
 <chapter name="Eisenmenger, August">
 <b>Eisenmenger</b> ['a^iz<sub>ə</sub>nmæŋ<sub>ə</sub>r], <sp>August</sp>,
@@ -79,7 +84,8 @@ Monumentalmalerier i Wien o. a. St.; i Østerrigsk
 Mus., i Parlamentsbygningen, i Musikforeningens
 Hus i Wien (Loftsbilleder i Voksfarve),
 Vægbilleder i Slottet Hörnstein m. v.
-<i>A. Hk.</i></chapter>
+<i>A. Hk.</i>
+</chapter>
 
 <chapter name="Eisenmenger, Johan Andreas">
 <b>Eisenmenger</b> ['a^iz<sub>ə</sub>nmæŋ<sub>ə</sub>r], <sp>Johan
@@ -106,7 +112,8 @@ og alle deres krasse Læresætninger, men gør sig
 skyldig i grove Misforstaaelser og Fordrejelser.
 Det bruges dog stadig som Rustkammer af
 Antisemitterne.
-<i>E. E.</i></chapter>
+<i>E. E.</i>
+</chapter>
 
 <chapter name="Eisenstadt">
 <b>Eisenstadt</b> ['a^iz<sub>ə</sub>n∫tat] (magy.
@@ -120,7 +127,8 @@ et Slot, tilhørende den gl. adelige Slægt
 Esterhazy; her opbevares værdifulde Samlinger og
 et Arkiv, der bl. a. Indeholder Haydn's
 musikalske Efterladenskaber.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Eisenstein, Ferdinand Gotthold Max">
 <b>Eisenstein</b> ['a^iz<sub>ə</sub>n∫ta^in], <sp>Ferdinand
@@ -135,14 +143,16 @@ Funktioner; en Samling af disse Afh. med en
 meget rosende Fortale af C. F. Gauss er udg.
 i 1 Bd under Titlen »Mathematische
 Abhandlungen« (1847) af G. Reimer.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Eiserfeld">
 <b>Eiserfeld</b> ['a^iz<sub>ə</sub>rfælt], Fabrikflække i
 Preussen, Prov. Westfalen, ligger 5 km SSV. f. Siegen.
 (1910) 5678 Indb. E. har Tilvirkning af Jernvarer,
 Chokolade og Sukker.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Eisfeld">
 <b>Eisfeld</b> ['a^isfælt], By i det tyske
@@ -150,7 +160,8 @@ Hertugdømme Sachsen-Meiningen, ligger 378 m o. H.
 ved Werra og er Knudepunkt paa Jernbanen
 Eisenach-Lichtenfels. (1910) 4439 mest luth.
 Indb., et gl. Slot og nogen Industri.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Eisleben">
 <b>Eisleben</b> ['aisle.b<sub>ə</sub>n], By i Kongeriget

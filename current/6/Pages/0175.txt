@@ -53,7 +53,8 @@ tjene, at der i Hannover er inddæmmet 314 ha,
 ved Warthe-Floden 268 ha, ved Loire-Floden
 197 ha, ved Po-Floden 630 ha pr km D. - Se
 endvidere <sp>Digelovgivning</sp>.
-<i>(C. Ph. T.). J. M-P.</i></chapter>
+<i>(C. Ph. T.). J. M-P.</i>
+</chapter>
 
 <chapter name="Digel">
 <img></img>
@@ -122,7 +123,8 @@ D.'s Materiale er ikke ganske uden Indflydelse
 paa Metallet, der smeltes i den, navnlig naar
 Smeltetemperaturen er høj, som ved
 Staalsmeltning.
-<i>F. W.</i></chapter>
+<i>F. W.</i>
+</chapter>
 
 <chapter name="Digelovgivning">
 <b>Digelovgivning.</b> Den danske Rets Regler om

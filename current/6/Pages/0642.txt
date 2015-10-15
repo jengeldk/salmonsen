@@ -6,14 +6,16 @@ endelig i de Dele af Hjernen, hvor
 Lugteindtrykkene omsættes til Fornemmelser. De
 Lugte-Hallucinationer, der kan findes hos Sindssyge,
 henregnes ikke til D.
-<i>Lp. M.</i></chapter>
+<i>Lp. M.</i>
+</chapter>
 
 <chapter name="Dyspareunia">
 <b>Dyspareunia</b> [-ræ^u-] (gr.), Smerter ved
 Samleje, især hos Kvinder. Beror paa sygelige
 Tilstande i de kvindelige Kønsorganer, især
 Betændelse.
-<i>Lp. M.</i></chapter>
+<i>Lp. M.</i>
+</chapter>
 
 <chapter name="Dyspepsi">
 <b>Dyspepsi</b> (gr.), vanskelig Fordøjelse,
@@ -31,7 +33,8 @@ især efter Maaltiderne, samt alm. Ildebefindende
 med. Hovedpine, Træthed, Uoplagthed,
 Svimmelhed. Ved <sp>Bradypepsi</sp> forstaas langsom
 Fordøjelse.
-<i>(A. F.). H. I. B.</i></chapter>
+<i>(A. F.). H. I. B.</i>
+</chapter>
 
 <chapter name="Dyspnøe">
 <b>Dyspnøe</b> (gr.), <sp>Aandedrætsbesvær</sp>,
@@ -105,13 +108,15 @@ Iltning af Blodet og dettes Opstemning i
 Blodaarerne giver sig udvortes til Kende ved mere
 ell. mindre stærk blaalig Farvning (Cyanose) af
 Huden.
-<i>(A. F.). H. I. B.</i></chapter>
+<i>(A. F.). H. I. B.</i>
+</chapter>
 
 <chapter name="Dyspraksi">
 <b>Dyspraksi</b> (gr.), mangelfuld Evne til at
 udføre kombinerede Bevægelser, til Trods for at
 Musklerne ikke er lammede.
-<i>K. H. K.</i></chapter>
+<i>K. H. K.</i>
+</chapter>
 
 <chapter name="Dysprosium">
 <b>Dysprosium,</b> se <sp>Jordarter</sp>, <sp>sjældne</sp>.</chapter>

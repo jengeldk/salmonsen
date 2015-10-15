@@ -11,7 +11,8 @@
 <td 3 c><i>J</i>. <sp>Russiske Linier</sp>.
 <td>Flotte Volontaire Russe.<td>{<td>Odessa, Konstantinopel, Port Said, Colombo, Singapore, Vladivostock. Petrograd, Port Said, Colombo, Singapore, Kina, Vladivostock.
 </table>
-<i>C. F. S.</i></chapter>
+<i>C. F. S.</i>
+</chapter>
 
 <chapter name="Dampskibsselskab, Det forenede">
 <b>Dampskibsselskab, Det forenede,</b> et
@@ -114,5 +115,6 @@ saakaldte Islands Plads paa Christianshavn. -
 Siden 1908 er Selskabets administrerende
 Direktør tidligere Kaptajn i Flaaden og Guvernør
 over de dansk-vestindiske Øer C. M. T. Cold.
-<i>C. F. S.</i></chapter>
+<i>C. F. S.</i>
+</chapter>
 

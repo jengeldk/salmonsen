@@ -13,7 +13,8 @@ Byer. D. er velforsynet med Jernbaner, mest
 tilhørende London & South Western. Til
 Parlamentet sender D. fire Medlemmer. Hovedstaden
 er Dorchester.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Dorset">
 <b>Dorset</b> ['då.<sub>ə</sub>s<sub>i</sub>t], Jarler, Marquis'er og
@@ -21,13 +22,15 @@ Hertuger af, eng., siden 1843 udgaaede, Adelstitler,
 som er blevne baarne af fl. Medlemmer inden
 for Familierne <sp>Beaufort</sp>, <sp>Grey</sp> og
 <sp>Sackville</sp>.
-<i>J. L.</i></chapter>
+<i>J. L.</i>
+</chapter>
 
 <chapter name="Dorsetteen">
 <b>Dorsetteen</b> ['då<sub>ə</sub>s<sub>i</sub>ti.n], et Halvsilketøj,
 der fremstilles i England med Kæde af fint
 Kamgarn og Silkeislæt.
-<i>K. M.</i></chapter>
+<i>K. M.</i>
+</chapter>
 
 <chapter name="dorsiventral">
 <b>dorsiventral</b> (af lat. <i>dórsum</i>, Ryg, og
@@ -67,7 +70,8 @@ Organer. (<sp>Litt</sp>.: <sp>Warming</sp> og
 <sp>Johannsen</sp>, »Den alm. Botanik« [4. Udg. 1901];
 <sp>Goebel</sp>, »Organographie d. Pflanzen«, 2. Oplag
 1913 ff.).
-<i>W. J.</i></chapter>
+<i>W. J.</i>
+</chapter>
 
 <chapter name="Dorsiventralitet">
 <b>Dorsiventralitet,</b> se <sp>dorsiventral</sp>.</chapter>
@@ -97,7 +101,8 @@ var forlenet til de danske Høvdinger Rørik og
 Harald, har ikke reddet den, og efter de
 mange Ødelæggelser mistede den hurtig sin Rigdom
 og sin Bet. Har nu c. 2000 Indb.
-<i>H. O.</i></chapter>
+<i>H. O.</i>
+</chapter>
 
 <chapter name="Dorsten">
 <b>Dorsten</b> ['dårst<sub>ə</sub>n], By i Preussen, Provins
@@ -105,7 +110,8 @@ Westfalen, ligger 20 km VNV. f. Recklinghausen
 paa venstre Bred af Lippe. (1910) 7367 Indb.,
 næsten alle Katolikker. D. er
 Jernbaneknudepunkt og Industriby.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Dorstenia L.">
 <b>Dorstenia</b> L., Slægt af Morbærfam., Urter
@@ -127,7 +133,8 @@ giftige Rødder, der er officinelle
 (<sp>Bezoarrødder</sp>, <i>Radix Contrayervæ</i>) og benyttes til
 Helbredelse af forgiftede Saar, særlig saadanne,
 der er fremkomne ved Slangebid.
-<i>A. M.</i></chapter>
+<i>A. M.</i>
+</chapter>
 
 <chapter name="Dorstfeld">
 <b>Dorstfeld</b> ['dårstfælt], Bjergværksby i
@@ -135,7 +142,8 @@ Preussen, Prov. Westfalen, ligger 3 km V. f.
 Dortmund ved Banen fra Duisburg til Welver. (1910)
 8401 Indb., mest luth. D. har Stenkulsminer og
 en Del Industri.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="dorsum">
 <b>dorsum</b> (lat.), Ryg; Haandens Rygside; (<sp>bot</sp>.)

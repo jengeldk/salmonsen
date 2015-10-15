@@ -2,12 +2,14 @@
 <b>Drivhjul</b> paa et Lokomotiv er de Hjul, der
 direkte drejes rundt af Maskinen, se
 <sp>Lokomotiv</sp>.
-<i>G. K.</i></chapter>
+<i>G. K.</i>
+</chapter>
 
 <chapter name="Drivholt">
 <b>Drivholt,</b> et Værktøj, som bruges til at slaa
 Tøndebaand fast med.
-<i>F. W.</i></chapter>
+<i>F. W.</i>
+</chapter>
 
 <chapter name="Drivhus">
 <b>Drivhus</b> kaldes i daglig Tale ethvert
@@ -19,7 +21,8 @@ som Dyrkningsrum for Planter, indførte fra
 varmere Himmelegne, og som derfor fordrer et
 glasdækket, kunstig opvarmet Lokale, naar de
 skal kunne dyrkes i Norden.
-<i>L. H.</i></chapter>
+<i>L. H.</i>
+</chapter>
 
 <chapter name="Drivis">
 <b>Drivis,</b> se <sp>Is</sp>.</chapter>
@@ -44,7 +47,8 @@ Vandhjul udnyttes Tyngdekraften af faldende
 Vand. Som D. for større industrielle Anlæg
 anvendes i Alm. Damp- og Luftarters Tryk i henh.
 Dampmaskinen og Forbrændingsmotorer.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Drivning">
 <b>Drivning</b> paa fri Haand er en kold Smedning
@@ -123,13 +127,15 @@ Handelsgartnerier omkr. Kbhvn at være i stærk
 Fremgang. I de større Handelsgartnerier er
 Drivning saavel af Blomster som Grønsel og
 Frugt alm.
-<i>L. H.</i></chapter>
+<i>L. H.</i>
+</chapter>
 
 <chapter name="Drivovn">
 <b>Drivovn</b> er en rund Ovn, som benyttes i
 Sølvhytterne til at indvinde Sølvet af Værkblyet
 ved <sp>Afdrivning</sp> (s. d.).
-<i>A. G.</i></chapter>
+<i>A. G.</i>
+</chapter>
 
 <chapter name="Drivrem">
 <b>Drivrem,</b> Rem, oftest af Læder, hvorved to

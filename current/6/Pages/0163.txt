@@ -14,7 +14,8 @@ Differenser, Differenserne af 2. Orden, og saaledes
 videre, og det viser sig, at Differenserne af <i>r</i>'te
 Orden bliver lige store, siges de forelagte Tal
 at danne en D. af <i>r</i>'te <sp>Orden</sp>.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Differenstalje">
 <b>Differenstalje</b> (-<sp>trisse</sp>), ogsaa kaldet
@@ -70,7 +71,8 @@ Differenstalje.</img></chapter>
 Differentialbarometer, Differentialtermometer,</b>
 Instrumenter til at maale Forskelle henh. i
 Vindstyrken, Lufttrykket og Temperaturen.
-<i>D. la C.</i></chapter>
+<i>D. la C.</i>
+</chapter>
 
 <chapter name="Differentialbremse">
 <b>Differentialbremse,</b> se <sp>Bremse</sp>.</chapter>
@@ -101,7 +103,8 @@ kaldes Integration af D. (se
 og mat. Fysik kræver
 Infinitesimalbetragtninger og altsaa leder til D., er Læren om disses
 Behandling a£ den allerstørste Bet.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Differentialobservationer">
 <b>Differentialobservationer</b> benævnes de
@@ -133,6 +136,7 @@ Observationer anstilles alm. med Meridiancirkel
 og kaldes Zoneobservationer, da de omfatter
 Stjerner inden for en smal med Ækvator
 parallel Zone.
-<i>J. Fr. S.</i></chapter>
+<i>J. Fr. S.</i>
+</chapter>
 
 

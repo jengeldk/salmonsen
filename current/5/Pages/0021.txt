@@ -32,7 +32,8 @@ eller <sp>Cirkelsegment</sp>, <i>ACB</i>; dens Areal
 er = <i>r</i><sup>2</sup>(πg/360 +/- 1/2 sin <i>g</i>°), hvor der skal læses
 + ell. -, efter som Buen er mindre ell. større
 end en Halvcirkel.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Cirkel i Kronologien">
 <b>Cirkel</b> i Kronologien, se <sp>Cyklus</sp>.</chapter>
@@ -51,13 +52,15 @@ større Vinkler (over 120°) med den; i St f. et
 Spejl har C. et slebet Glasprisme, i hvilket det
 reflekterede Billede af den Genstand, man vil
 maale til, bliver klarere end i Sekstantens Spejl.
-<i>H. E.</i></chapter>
+<i>H. E.</i>
+</chapter>
 
 <chapter name="Cirkelbevis">
 <b>Cirkelbevis</b> ell. <sp>Diallel</sp> (διάλληλα) er et
 Bevis, i hvilket det, der skulde have været
 bevist, allerede er forudset i Præmisserne.
-<i>A. T-n.</i></chapter>
+<i>A. T-n.</i>
+</chapter>
 
 <chapter name="Cirkelpunkterne">
 <b>Cirkelpunkterne</b> (mat.), se <sp>projektiv
@@ -86,7 +89,8 @@ Anvendtes tidligere som Betegnelse for visse
 Sindssygdomme, især den saakaldte
 manio-depressive Psykose, hvor Perioder med Melankoli
 veksler med Perioder med Eksaltation.
-<i>K. H. K.</i></chapter>
+<i>K. H. K.</i>
+</chapter>
 
 <chapter name="Cirkulærakkreditiv">
 <b>Cirkulærakkreditiv,</b> Rundrejseakkreditiv og
@@ -97,7 +101,8 @@ Penge indtil et vist Beløb hos forsk. Personer
 benyttes meget af Folk, der foretager Rejser og ikke
 ønsker at have for mange kontante Penge hos
 sig.
-<i>(E. M.). C. Th.</i></chapter>
+<i>(E. M.). C. Th.</i>
+</chapter>
 
 <chapter name="Cirkulære">
 <b>Cirkulære</b> (af fr. <i>circulaire</i>), Rundskrivelse,
@@ -107,14 +112,16 @@ trykt, Eksemplar af C. til hver især) om een og
 samme Sag. C. vedk. Adm. udgaar ikke sjælden
 fra de forsk. Ministerier til Amtmændene og
 Underøvrighederne.
-<i>(C. V. N). P. J. J.</i></chapter>
+<i>(C. V. N). P. J. J.</i>
+</chapter>
 
 <chapter name="cirkulære Funktioner">
 <b>cirkulære Funktioner</b> kaldes i Matematikken
 Funktionerne <i>arc</i> (<i>sin</i>. = <i>x</i>), <i>arc</i> (<i>cos</i>. = <i>x</i>)
 o. s. v., hvilke betegner den Bue ell. Vinkel,
 hvis <i>sin</i>., <i>cos</i>. o. s. v. er = <i>x</i>.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Cirkulærkreditbrev">
 <b>Cirkulærkreditbrev,</b> d. s. s.
@@ -127,7 +134,8 @@ bestemt til i ligelydende Udtryk at meddeles
 dets Gesandter og Afsendinge ved fremmede
 Hoffer og efter Omstændighederne bringes til
 disse Hoffers Kendskab
-<i>(C. V. N.). P. J. J.</i></chapter>
+<i>(C. V. N.). P. J. J.</i>
+</chapter>
 
 <chapter name="Cirkulærpolarisation">
 <b>Cirkulærpolarisation,</b> se <sp>Polarisation</sp>,
@@ -139,7 +147,8 @@ afskæres enten for at fjerne en tilstedeværende
 Misdannelse ell. Lidelse, især Forsnævring (se
 <sp>Fimosis</sp>), ell. af rituelle Hensyn hos nogle
 Folkeslag (se <sp>Omkærelse</sp>).
-<i>E. A. T.</i></chapter>
+<i>E. A. T.</i>
+</chapter>
 
 <chapter name="Cirkumfleks">
 <b>Cirkumfleks</b> (lat. [<i>accéntus</i>] <i>circumfléxus</i>),
@@ -154,7 +163,8 @@ Værker bruges tit dette sidste Tegn (^) for at angive
 Vokallængde; dette stammer væsentlig fra en i
 gl. Haandskrifter brugelig Modifikation af
 Længdetegnet (eller -'). Se i øvrigt <sp>Accent</sp>.
-<i>O. Jsp.</i></chapter>
+<i>O. Jsp.</i>
+</chapter>
 
 <chapter name="Cirkummeridianhøjder">
 <b>Cirkummeridianhøjder</b> kaldes de
@@ -166,13 +176,15 @@ Polhøjde og benyttes især, naar man ikke har fast
 opstillede Instrumenter til sin Raadighed. C.
 maa ikke forveksles med korresponderende
 Højder (s. d.).
-<i>J. Fr. S.</i></chapter>
+<i>J. Fr. S.</i>
+</chapter>
 
 <chapter name="cirkumpolar">
 <b>cirkumpolar</b> kaldes den Himmelegn omkring
 Polen, der under Himmelhvælvingens daglige
 Omdrejning altid er over et Steds Horisont.
-<i>J. Fr. S.</i></chapter>
+<i>J. Fr. S.</i>
+</chapter>
 
 <chapter name="Cirkumpolarstjerner">
 <b>Cirkumpolarstjerner</b> kaldes de Stjerner,

@@ -1,7 +1,8 @@
 og nøjere og udførligere drøfter en Genstand,
 som staar i Forbindelse med det i Skriftet
 behandlede Emne.
-<i>Cl. W.</i></chapter>
+<i>Cl. W.</i>
+</chapter>
 
 <chapter name="Ekskursion">
 <b>Ekskursion</b> (lat.), Strejftog, Udflugt (f. Eks.
@@ -16,7 +17,8 @@ Univ.'s Matrikel (ɔ: Fortegnelse over de
 Studerende). Deraf Hovedordet
 <sp>Eksmatrikulation</sp> i Modsætning til
 <sp>Immatrikulation</sp>.
-<i>Cl. W.</i></chapter>
+<i>Cl. W.</i>
+</chapter>
 
 <chapter name="Eksogami">
 <b>Eksogami</b> ['æks-] kaldes det over hele
@@ -44,7 +46,8 @@ herskende Slægt sig den alm. Lov og
 opretholder <sp>Endogami</sp> (s. d.) som et Middel til
 at bevare Dynastiets Renhed, saaledes
 Achæmeniderne i Persien og Inkaerne i Peru.
-<i>S. H.</i></chapter>
+<i>S. H.</i>
+</chapter>
 
 <chapter name="Eksogen">
 <b>Eksogen</b> (<sp>bot</sp>.) kaldes i Morfologien og
@@ -52,13 +55,15 @@ Anatomien den Sidedannelse, som er opstaaet
 ved Delinger i og Fremvækst af de ydre
 Cellelag paa Planten, f. Eks. Haaret, Bladet. (Jfr
 <sp>Endogen</sp>).
-<i>V. A. P.</i></chapter>
+<i>V. A. P.</i>
+</chapter>
 
 <chapter name="eksogene">
 <b>eksogene</b> kaldes i den dynamiske Geologi
 de Kræfter (Vand, Luft, Organismer), som
 udefra paavirker Jordskorpen.
-<i>J. P. R.</i></chapter>
+<i>J. P. R.</i>
+</chapter>
 
 <chapter name="eksorbitant">
 <b>eksorbitant</b> ['æks-] (lat.), umaadelig, uhørt,
@@ -106,7 +111,8 @@ Satans Herredømme; fra 18. Aarh. gik den
 derfor næsten helt ud af Brug, om den end nu
 og da, i det mindste antydningsvis, blev
 optaget igen.
-<i>Alfr. L.</i></chapter>
+<i>Alfr. L.</i>
+</chapter>
 
 <chapter name="Eksostose">
 <b>Eksostose</b> (gr.), en af Benvæv dannet
@@ -124,7 +130,8 @@ der findes i Nærheden af de lange Rørknoglers
 Vækstgrænser (Grænsen mellem Epi- og Diafyse
 [se <sp>Ben</sp>]) og synes at være en Afsprængning
 herfra.
-<i>E. A. T.</i></chapter>
+<i>E. A. T.</i>
+</chapter>
 
 <chapter name="eksoterisk">
 <b>eksoterisk</b> (gr.), »udadvendt«, bruges af
@@ -142,14 +149,16 @@ faaet en mere alm. Anvendelse, idet esoterisk
 bet. faglig, sagkyndig, strengt videnskabelig,
 medens eksoterisk bet. det modsatte, populær
 etc.
-<i>W. N.</i></chapter>
+<i>W. N.</i>
+</chapter>
 
 <chapter name="eksotermisk">
 <b>eksotermisk</b> kaldes enhver kemisk Proces,
 ved hvilken der finder en Varmeudvikling, en
 <sp>positiv Varmetoning</sp>, Sted (se
 <sp>endotermisk</sp>).
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
 <chapter name="eksotisk">
 <b>eksotisk</b> (gr.), fremmed, udenlandsk, fra et

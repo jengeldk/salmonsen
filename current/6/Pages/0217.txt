@@ -23,7 +23,8 @@ Urkundenbuch«, »Hamburgisches Urkundenbuch«,
 »Mecklenburgisches Urkundenbuch«, - »Pommersches
 Urkundenbuch« og »Liv-, Est- und Curländisches
 Urkundenbuch«.
-<i>L. L.</i></chapter>
+<i>L. L.</i>
+</chapter>
 
 <chapter name="Diplomatarium Islandicum">
 <b>Diplomatarium Islandicum</b> (<sp>Íslenzkt
@@ -55,7 +56,8 @@ Brevbøger, førte af enkelte Biskopper, findes fra
 Udgivelsen af <i>D. I.</i> ved Dr. Jón Þorkelsson, Arkivar
 i Reykjavik. Med det 10. Bd, der snart er
 afsluttet, er <i>D. I.</i> ført ned til 1542.
-<i>B. Th. M.</i></chapter>
+<i>B. Th. M.</i>
+</chapter>
 
 <chapter name="Diplomatarium Norvegicum">
 <b>Diplomatarium Norvegicum,</b> »Oldbreve til
@@ -110,7 +112,8 @@ Tidsbestemmelser«. Siden 1848 har Stortinget
 hvert Aar uden Afbrydelse bevilget den
 fornødne Understøttelse til Trykning af Værket,
 der fremdeles fortsættes.
-<i>Abs. T.</i></chapter>
+<i>Abs. T.</i>
+</chapter>
 
 <chapter name="Diplomati">
 <b>Diplomati</b> (fr. <i>diplomatie</i>, af gr. <i>diploma</i>,

@@ -107,7 +107,8 @@ lidt mere. I elektriske Anlæg i Danmark var
 1915 anbragt en Kapital paa c. 112 Mill. Kr,
 og det aarlige solgte Antal kWh. beløb sig til
 c. 87 Mill. kWh.
-<i>Cand. polyt. Povl Vinding.</i></chapter>
+<i>Cand. polyt. Povl Vinding.</i>
+</chapter>
 
 <chapter name="Elektricitetskommissionen">
 <b>Elektricitetskommissionen</b> er oprettet i
@@ -123,7 +124,8 @@ Medlemmer; det ene af Medlemmerne skal være
 kvalificeret til at have Sæde i Overretterne, og
 3 skal have elektroteknisk Sagkundskab. De
 udnævnes for 6 Aar ad Gangen.
-<i>M. G.</i></chapter>
+<i>M. G.</i>
+</chapter>
 
 <chapter name="Elektricitetsmaalere">
 <b>Elektricitetsmaalere</b> er Apparater, som til

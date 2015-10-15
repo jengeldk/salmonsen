@@ -57,7 +57,8 @@ Strøm. For Elektricitetsværkerne er det
 navnlig af Interesse, at Maalerne i Lysinstallationer
 allerede gaar i Gang. selv naar kun en enkelt
 lille Glødelampe er tændt.
-<i>Abs. L.</i></chapter>
+<i>Abs. L.</i>
+</chapter>
 
 <img>
 Fig. 15. Fejlkurver.</img>
@@ -85,7 +86,8 @@ Højspændingsanlæg samt Installationer i særlig
 farlige (fugtige) Rum kræves
 Autorisation af
 Elektricitetskommissionen.
-<i>R. J. J.</i></chapter>
+<i>R. J. J.</i>
+</chapter>
 
 <chapter name="elektrisere">
 <b>elektrisere,</b> gøre elektrisk.</chapter>

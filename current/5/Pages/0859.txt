@@ -2,7 +2,8 @@ fag-organisatoriske Spørgsmaal væsentlig sigtende paa
 Forbedring af Telegraftjenestemændenes
 Arbejds- og Lønningsvilkaar. Redaktøren vælges
 af Dansk Telegrafforenings Bestyrelse.
-<i>M. G.</i></chapter>
+<i>M. G.</i>
+</chapter>
 
 <chapter name="Dansk Toldtidende">
 <b>Dansk Toldtidende,</b> et Maanedsskrift, der
@@ -10,7 +11,8 @@ er udkommet siden 1903 og er Medlemsblad for
 den danske Toldetats Forening. Det har i
 Aarenes Løb bragt adskillige gode Artikler om
 danske og fremmede Toldforhold.
-<i>F. T.</i></chapter>
+<i>F. T.</i>
+</chapter>
 
 <chapter name="Dansk Tunge">
 <b>Dansk Tunge</b> er det gl. Navn for det danske
@@ -27,7 +29,8 @@ Sprog. I den snævrere Bet. af dansk Sprog holdt
 Ordet sig længere, f. Eks. i Middelalderens
 Folkeviser (se »Litteratur« under <sp>Danmark</sp>)
 og som Digterord lige ned til vore Dage.
-<i>A. O.</i></chapter>
+<i>A. O.</i>
+</chapter>
 
 <chapter name="Dansk-tyske Krige">
 <b>Dansk-tyske Krige</b> (1848-50 og 1864).

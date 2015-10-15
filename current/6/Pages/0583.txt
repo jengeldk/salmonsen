@@ -3,7 +3,8 @@
 Veda« [Berlin 1894]; <sp>E. W. Hopkins</sp>, <i>The
 Religions of India</i> [London 1896]; <sp>A. A.
 Macdonell</sp>, <i>Vedic Mythology</i> [Strassburg 1897]).
-<i>(S. S.). D. A.</i></chapter>
+<i>(S. S.). D. A.</i>
+</chapter>
 
 <chapter name="Dyb">
 <b>Dyb</b> kaldes undertiden saadanne Farvande,
@@ -11,13 +12,15 @@ hvor der i Forhold til de omliggende Grunde
 er dybt Vand, og som derfor benyttes til
 Skibsløb, f. Eks. Hollænderdyb, Mørkedyb og
 Graadyb.
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 
 <chapter name="dyb">
 <b>dyb</b> siges en Hest at være, naar Afstanden
 fra Videristen (Manken) til Brystbenet er større
 end Afstanden fra dette til Jorden.
-<i>O. P.</i></chapter>
+<i>O. P.</i>
+</chapter>
 
 <chapter name="Dybbjergarter">
 <b>Dybbjergarter,</b> se

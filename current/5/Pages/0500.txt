@@ -21,7 +21,8 @@ Cohnfeldt's Konstruktion, der automatisk tilfører
 Kedlen Vand. P. Gr. a. manglende Paalidelighed
 finder alle saadanne automatiske Apparater dog
 kun sjælden Anvendelse.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <img>Dampfødepumpe.</img>
 
@@ -69,7 +70,8 @@ Indenrigsministeriet; b) »Dampskibstilsynsloven« af 13. Febr
 Bekendtgørelse fra Handelsministeriet ang.
 Bygning og Udstyr af de under
 Dampskibstilsynsloven hørende Skibe og Fartøjer af 1. Aug. 1912.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Dampkogning">
 <b>Dampkogning.</b> Naar man skal bringe
@@ -87,7 +89,8 @@ Beholder, hvori der ledes Damp, ell. denne
 tilføres gennem en Rørspiral ell. et System af
 parallelle Bør, der er nedsænket i Vædsken, ell.
 begge Indretninger benyttes samtidig.
-<i>K. M.</i></chapter>
+<i>K. M.</i>
+</chapter>
 
 <chapter name="Dampkran">
 <b>Dampkran,</b> se <sp>Kran</sp>.</chapter>

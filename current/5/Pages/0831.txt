@@ -4,7 +4,8 @@ Skibschefer.
 
 <sp>Lodsflaget</sp> hejses for at begære Lods: det er det
 danske Handelsflag omgivet af en hvid Bort.
-<i>C. F. S.</i></chapter>
+<i>C. F. S.</i>
+</chapter>
 
 <chapter name="danske geografiske Selskab, Det kgl.">
 <b>danske geografiske Selskab, Det kgl.,</b>
@@ -30,7 +31,8 @@ Medlem samt i Tildeling af Selskabets
 Guldmedaille; denne gives til saadanne, som ved
 personligt Arbejde i fortrinlig Grad har virket
 til den geogr. Videnskabs Fremme.
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 
 <chapter name="Danske Haveselskaber">
 <b>Danske Haveselskaber</b> (<sp>og beslægtede
@@ -96,7 +98,8 @@ samt Benten af Kapitalformuen benyttes.
 Foreningens Kapitalformue var (1916) 140000 Kr.
 Hds. Maj. Enkedronning Louise er Foreningens
 Protektrice.
-<i>L. H.</i></chapter>
+<i>L. H.</i>
+</chapter>
 
 <chapter name="danske Hedeselskab, Det">
 <b>danske Hedeselskab, Det,</b> blev stiftet 28.

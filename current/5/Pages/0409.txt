@@ -55,7 +55,8 @@ fra <i>C</i>. Som Forkortelse kan D bet. <i>da</i> ell. <i>dal</i>
 <i>(da capo, dal segno), droite, dextra</i> ell. <i>destra
 (main, manu, mano)</i>, højre (Haand), <i>Discantus,
 Dessus</i> = <i>Cantus (C.)</i> og <i>Sopranus (S.).</i>
-<i>S. L.</i></chapter>
+<i>S. L.</i>
+</chapter>
 
 <chapter name="D">
 <b>D</b> (ell. <sp>Iltelegram</sp>) foran Teksten i et
@@ -67,14 +68,16 @@ efter Tjenestetelegrammer. I internationale
 Telegrammer kan i St f. <i>D</i> benyttes Angivelsen
 <i>Urgent</i>. For Iltelegrammer betales tre Gange
 Gebyret for et alm. Telegram.
-<i>M. G.</i></chapter>
+<i>M. G.</i>
+</chapter>
 
 <chapter name="d">
 <b>d,</b> Forkortelse af <i>dexter</i> (højre), sættes i
 kemisk Nomenklatur foran Forbindelsens Navn
 (f. Eks. d-Vinsyre) og betegner den optisk
 højredrejende Form af isomere Forbindelser.
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
 <chapter name="Daa, en dansk Adelsslægt">
 <b>Daa,</b> en gl, fra Sønderjylland stammende

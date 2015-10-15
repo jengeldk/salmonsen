@@ -27,7 +27,8 @@ Emnevalg kan siges at tilhøre
 hvormed de er skrevne, sig dog langt over de
 litterære Krav, der i Alm. stilles til denne
 Art af Litt.
-<i>J. Cl.</i></chapter>
+<i>J. Cl.</i>
+</chapter>
 
 <chapter name="Egeberg, Einar Westye">
 <b>Egeberg</b> ['e.g<sub>ə</sub>bærg], <sp>Einar Westye</sp>, norsk
@@ -83,7 +84,8 @@ Aarrække siddet som Medlem af Kria
 Kommunestyre, var Formand i Kria Handelsstands
 Forening og indehavde andre offentlige og
 private Tillidshverv.
-<i>K. V. H.</i></chapter>
+<i>K. V. H.</i>
+</chapter>
 
 <chapter name="Egeberg, Theodor Christian">
 <b>Egeberg</b> ['e.g<sub>ə</sub>bærg], <sp>Theodor
@@ -103,7 +105,8 @@ Tidsskrifter, Han, der selv var en fremragende
 Musiker, testamenterede store Summer til
 Fremme af Orkester- og Kammermusikken i Kria og
 til humane Formaal.
-<i>J. S. J.</i></chapter>
+<i>J. S. J.</i>
+</chapter>
 
 <chapter name="Egebregne">
 <b>Egebregne,</b> se <sp>Mangeløv</sp>.</chapter>
@@ -146,5 +149,6 @@ til Fange. Aaret efter tog han sin Afsked af
 Etaten. (<sp>Litt</sp>.: »Grønlands hist. Mindesmærker«
 III [Kbhvn 1845]; <sp>Garde</sp>, »Efterretninger om
 den danske og norske Sømagt« IV [Kbhvn 1835]).
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 

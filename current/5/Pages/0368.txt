@@ -19,7 +19,8 @@ indeholder 19-24 % Kvælstof, som det let kan
 afgive i Form af Ammoniak, hvorfor det i hvert
 Fald til Dels kan erstatte Chilesalpeter som
 Gødning.
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
 <chapter name="Cyanammonium">
 <b>Cyanammonium,</b> se <sp>Ammoniumcyanid</sp>.</chapter>
@@ -103,7 +104,8 @@ FeSO<sub>4</sub>+Hg); derimod skal allerede de ægypt.
 Præster have vidst at fremstille en Gift af
 Bittermandelvand, hvormed de skaffede dem af Vejen,
 der forraadte deres Hemmeligheder.
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
 <chapter name="Cyanea">
 <b>Cyanea,</b> se <sp>Gopler</sp>.</chapter>

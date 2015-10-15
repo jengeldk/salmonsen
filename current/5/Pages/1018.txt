@@ -48,7 +48,8 @@ Foredrag over Sindssygdomme« [Kbhvn 1906];
 Aschaffenburg's »Handb. d. Psychiatrie«, spez. Teil,
 4. Abt., 1. Hälfte, 1911; <sp>Kraepelin</sp>,
 »Lehrbuch der Psychiatrie«, 8. Opl., Leipzig).
-<i>K. H. K.</i></chapter>
+<i>K. H. K.</i>
+</chapter>
 
 <chapter name="Dementia senilis">
 <b>Dementia senilis,</b> <sp>senil Demens</sp>,
@@ -94,7 +95,8 @@ altid betragtes som uhelbredelig. (<sp>Litt</sp>.:
 Psychosen des Rückbildungs- und Greisenalters«, i
 Aschaffenburg's »Handb. d. Psychiatrie«, spez.
 Teil, 5. Abt., 1912).
-<i>K. H. K.</i></chapter>
+<i>K. H. K.</i>
+</chapter>
 
 <chapter name="Demer">
 <b>Demer,</b> Flod i det nordøstlige Belgien,
@@ -102,7 +104,8 @@ udspringer i Limburg ved Tongern, strømmer
 forbi Hasselt, Diest og Aerschot, optager fra
 venstre Side Herck, Gette og Velpe og
 udmunder efter et Løb paa 93 km i Dyle.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Demerara">
 <b>Demerara</b> [eng. dem<sub>ə</sub>'rar<sub>a</sub> ell. -'re<sub>i</sub>r<sub>a</sub>], Flod
@@ -113,12 +116,14 @@ spærres af en Sandbarre, og op ad Floden
 findes talrige Vandfald og Strømsnævringer, saa
 at den kun er sejlbar paa kortere Strækninger
 for Smaaskibe.
-<i>M. V.</i></chapter>
+<i>M. V.</i>
+</chapter>
 
 <chapter name="demersale">
 <b>demersale</b> kaldes de Fiskeæg, som afsættes
 paa Bunden ell. dertil knyttede Genstande, som
 Vandplanter o. s. v. d. Æg har
 Ferskvandsfiskene og mange Havfisk.
-<i>Ad. J.</i></chapter>
+<i>Ad. J.</i>
+</chapter>
 <img>SNIRKEL</img>

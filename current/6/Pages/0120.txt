@@ -12,7 +12,8 @@ En D. i en Keglesnitsflade er en ret Linie
 gennem Fladens Centrum, ved Paraboloiden
 parallel med Aksen; den indeholder Centrerne for
 et System af parallelle Snit i Fladen.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Diameter. I Skovbruget">
 <b>Diameter.</b> I <sp>Skovbruget</sp> betyder D. to
@@ -30,7 +31,8 @@ fremkommer ikke blot ved, at Træerne bliver
 tykkere, men ogsaa (tilsyneladende) derved, at man
 borthugger de tynde Træer i Bevoksningen (se
 <sp>Træmaaling</sp>).
-<i>C. V. P.</i></chapter>
+<i>C. V. P.</i>
+</chapter>
 
 <chapter name="Diameterformlen">
 <b>Diameterformlen</b> gælder Vedmassen i et
@@ -39,7 +41,8 @@ Vej. Den udsiger, at Vedmassen <i>M</i> = <i>N</i> 21.
 4<i>D</i><sup>2.64</sup>, hvor <i>N</i> er Antallet af Træer og <i>D</i> disses
 Diameter i Middelstammegrundfladen, maalt
 1,3 m fra Jorden.
-<i>C. V. P.</i></chapter>
+<i>C. V. P.</i>
+</chapter>
 
 <chapter name="Diametermaaler">
 <b>Diametermaaler,</b> et Instrument, der
@@ -47,7 +50,8 @@ benyttes i Kanonfabrikationen til at eftermaale
 Kanonens cylindriske Bagstykke udvendig for
 at undersøge, om det er afdrejet til de opgivne
 Maal.
-<i>H. H.</i></chapter>
+<i>H. H.</i>
+</chapter>
 
 <chapter name="Diametermaaling">
 <b>Diametermaaling</b> udføres i Skovbruget oftest
@@ -61,7 +65,8 @@ til Træ (N.-S. og Ø.-V.), thi i et blæsende
 Klima er Træstammens Diameter
 gennemgaaende større i Vindretningen end vinkelret paa
 denne (Tværsnittet ovalt ell. elliptisk).
-<i>C. V. P.</i></chapter>
+<i>C. V. P.</i>
+</chapter>
 
 <chapter name="Diametralplan">
 <b>Diametralplan</b> (<sp>mat</sp>.). Ved
@@ -70,13 +75,15 @@ parallelle Korder ligge i samme Plan,
 Kordesystemets D. Ved Ellipsoiderne og Hyperboloiderne
 gaar alle D. gennem Centrum, ved
 Paraboloiderne er de parallelle med Aksen.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="diametralt">
 <b>diametralt</b> modsatte Punkter paa et
 Keglesnit ell. en Keglesnitsflade kaldes saadanne,
 der ligger i samme Diameter.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Diamid">
 <b>Diamid,</b> se <sp>Hydrazin</sp>.</chapter>
@@ -96,7 +103,8 @@ der ligger i samme Diameter.
 <chapter name="Diamidoresorcin">
 <b>Diamidoresorcin</b> anvendes til Fremstilling
 af fotografisk Fremkalder.
-<i>C. E. A.</i></chapter>
+<i>C. E. A.</i>
+</chapter>
 
 <chapter name="Diaminer">
 <b>Diaminer</b> (se <sp>Aminer</sp>) opstaar ved
@@ -109,7 +117,8 @@ D. bør nævnes <sp>Cadaverin</sp>
 CH<sub>2</sub>(CH<sub>2</sub>)<sub>2</sub>CH<sub>2</sub>.NH<sub>2</sub>, der ogsaa er fremstillede
 syntetisk, saaledes at deres Struktur er
 fastslaaet.
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
 <chapter name="Diaminoazobenzol">
 <b>Diaminoazobenzol</b> [-so-'so'l], d. s. s.
@@ -138,7 +147,8 @@ Aventinerbjerget og antoges opført af Servius Tullius. 179
 f. Kr. indviede M. Æmilius Lepidus ifølge et
 tidligere aflagt Løfte et Dianatempel ved Circus
 Flaminius paa Marsmarken. (Jfr. <sp>Artemis</sp>).
-<i>C. B.</i></chapter>
+<i>C. B.</i>
+</chapter>
 
 <chapter name="Diana-Abe">
 <b>Diana-Abe,</b> se <sp>Marekatte</sp>.</chapter>
@@ -150,17 +160,20 @@ Sølv og Kvægsølv, der dannes, naar der til en
 Opløsning af Helvedessten (Sølvnitrat) sættes
 Kvægsølv, som indeholder 1/6 af sin Vægt Sølv.
 Krystalnaalene er lange og glinsende.
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
 <chapter name="Diandria">
 <b>Diandria</b> (<sp>bot</sp>.), anden Klasse i det
 Linnéiske System.
-<i>V. A. P.</i></chapter>
+<i>V. A. P.</i>
+</chapter>
 
 <chapter name="diandrisk">
 <b>diandrisk</b> (<sp>bot</sp>.), d. s. s. tohannet, d. v. s.
 forsynet med to Støvdragere.
-<i>V. A. P.</i></chapter>
+<i>V. A. P.</i>
+</chapter>
 
 <chapter name="Diane de France">
 <b>Diane de France</b> ['d<sub>i</sub>an-d<sub>ö</sub>-'frã.s] (1538-

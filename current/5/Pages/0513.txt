@@ -2,7 +2,8 @@
 <b>Damporgel,</b> et Orgel, ved hvilket der
 anvendes Damp i St f. Luft, opfundet af
 Amerikaneren Donnay.
-<i>S. L.</i></chapter>
+<i>S. L.</i>
+</chapter>
 
 <chapter name=" Dampoverheder">
 <b>Dampoverheder,</b> se <sp>Dampkedel</sp>.</chapter>
@@ -12,7 +13,8 @@ Amerikaneren Donnay.
 Dampopvarmningsanlæg i Bygninger og Skibe anvendes som
 Varmelegemer i de Rum, der skal opvarmes (se
 <sp>Opvarmningsanlæg</sp>).
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name=" Damppibe">
 <b>Damppibe,</b> se <sp>Dampfløjte</sp>.</chapter>
@@ -30,7 +32,8 @@ Charleroi, til hvilken den nærmest maa
 betragtes som en Forstad. (1911) 12812 Indb. Ligesom
 Hovedbyen har den vigtige Kulgruber og
 Glasværker.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Damprum">
 <b>Damprum,</b> se <sp>Dampkedel</sp>.</chapter>

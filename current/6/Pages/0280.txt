@@ -85,7 +85,8 @@ stars</i> [Edinburgh 1899]; <sp>Campbell</sp>, <i>First and
 second catalogue of spectroscopic binaries</i>
 [Berkeley 1905-10]; <sp>Samme</sp>, <i>Stellar motions</i>
 [Newhaven 1913}).
-<i>J. Fr. S.</i></chapter>
+<i>J. Fr. S.</i>
+</chapter>
 
 <chapter name="Dobbeltstrygning">
 <b>Dobbeltstrygning,</b> en Magnetiseringsmetode,
@@ -98,7 +99,8 @@ ned paa Midten, og Strygningen gentages
 saaledes et passende Antal Gange. Stangen faar
 Nordpol i den Ende, hvor Strygemagnetens
 Sydpol forlader den, og omvendt.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Dobbeltstrømtelegrafering">
 <b>Dobbeltstrømtelegrafering,</b> se <sp>Telegraf</sp>.</chapter>
@@ -144,13 +146,15 @@ For nylig er man begyndt at fremstille to forsk.
 Profil-Rækker, <sp>Differdinger-B-Profiler</sp>
 (de opr.) og <sp>Differdinger-Bx-Profiler</sp>
 (med noget tyndere Krop).
-<i>A. O-d.</i></chapter>
+<i>A. O-d.</i>
+</chapter>
 
 <chapter name="Dobbelttrille">
 <b>Dobbelttrille,</b> en Trille, der udføres samtidig
 paa to Toner, ell. rettere to samtidig udførte
 Triller:<img></img>
-<i>S. L.</i></chapter>
+<i>S. L.</i>
+</chapter>
 
 <chapter name="Dobbeltvitriol">
 <b>Dobbeltvitriol,</b> d. s. s. <sp>Admontervitriol</sp>.</chapter>

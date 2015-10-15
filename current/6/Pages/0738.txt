@@ -1,12 +1,14 @@
 Dalslandsbanen. Nær E. Station ved Sydenden
 af Søen. Stora Le, ligger <sp>Luftkurstedet
 E.</sp>, 142 m o. H., i naturskønne Omgivelser.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Ed, Havnestad">
 <b>Ed</b> (<sp>Edd</sp>), Havnestad ved det Røde Hav i
 den ital. Koloni Eritrea.
-<i>C. A.</i></chapter>
+<i>C. A.</i>
+</chapter>
 
 <chapter name="ed., Forkortelse">
 <b>ed.,</b> Forkortelse for <i>editio</i> (lat), Udgave af
@@ -18,7 +20,8 @@ F. W. Schimper (1898) indført Udtryk, der
 betegner den Indflydelse, som de forsk.
 Jordbundsforhold udøver paa Plantedækkets
 Sammensætning.
-<i>A. M.</i></chapter>
+<i>A. M.</i>
+</chapter>
 
 <chapter name="Edam">
 <b>Edam</b> ['e.dam] (<sp>Eidam</sp>), By i Kongeriget
@@ -30,7 +33,8 @@ har Tømmerhandel og Skibsbyggerier og giver
 Navn til den fortrinlige <sp>Edamer-Ost</sp>
 (Eidammer), der imidlertid fabrikeres i Egnen om
 Hoorn og Alkmaar.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Eda Skanse">
 <b>Eda Skanse</b> ['e.da-] laa i Eda Sogn i
@@ -49,13 +53,15 @@ og tjente denne Konge som Replipunkt. Den
 samme Rolle spillede den ogsaa efter fornyet
 Restauration 1808 og 1814; nu er den
 fuldstændig forfalden.
-<i>(J. F. W. H.). M. H.</i></chapter>
+<i>(J. F. W. H.). M. H.</i>
+</chapter>
 
 <chapter name="Eday">
 <b>Eday</b> ['i.d<sub>i</sub>], en af de nordlige af
 Orkney-Øerne. <sp>E. sound</sp>, Sundet mellem E. og den
 Ø. f. liggende Sanday.
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 
 <chapter name="Edda">
 <b>Edda.</b> 1) Navnet E.'s rigtige Bet. er allerede

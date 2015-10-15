@@ -4,7 +4,8 @@ og Schedel (barberinske Bibliotek - München)
 er bevarede i Kopi, har Værd, idet mange af de
 af C. beskrevne og tegnede Mindesmærker ikke
 mere er til ell. er ødelagte.
-<i>H. A. K.</i></chapter>
+<i>H. A. K.</i>
+</chapter>
 
 <chapter name="Ciris">
 <b>Ciris,</b> et lat. Digt, som er overleveret under
@@ -13,7 +14,8 @@ Forfatter fra samme Tid. Digtet fortæller det
 gr. Sagn om den megariske Konge Nisos' Datter
 Skylla, der til Straf for et Forræderi blev
 forvandlet til Havfuglen C.
-<i>C. B.</i></chapter>
+<i>C. B.</i>
+</chapter>
 
 <chapter name="Cirkassien">
 <b>Cirkassien,</b> <sp>Tscherkessien</sp>,
@@ -22,7 +24,8 @@ Kaukasus' Nordskraaning samt noget af
 Sortehavskysten. Den tscherkessiske Befolkning er for
 største Delen udvandret til Tyrkiet og erstattet
 med russ. Kolonister.
-<i>M. V.</i></chapter>
+<i>M. V.</i>
+</chapter>
 
 <chapter name="Cirkel">
 <b>Cirkel</b> (lat. <i>circulus</i>) er en lukket plan krum

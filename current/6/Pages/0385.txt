@@ -10,7 +10,8 @@ Datterdatter Bertha Henriette Frederikke
 Løvenskjold og dennes Mand, Kammerherre,
 Baron Zytphen-Adelaer. Deres Sønnesøn er fra
 1898 Besidder af D.
-<i>B. L.</i></chapter>
+<i>B. L.</i>
+</chapter>
 
 <chapter name="Dragsmark Kloster">
 <b>Dragsmark Kloster</b> laa yderst paa Halvøen
@@ -29,7 +30,8 @@ der siden 1602 laa under Bohus Slot. Til
 Bygningsarbejder ved dette anvendtes Materialet fra
 Klosterbygningerne, og nu staar kun et Stykke
 af Klosterkirkens Nordmur tilbage.
-<i>Kr. E.</i></chapter>
+<i>Kr. E.</i>
+</chapter>
 
 <chapter name="Dragsmindegab">
 <b>Dragsmindegab,</b> i sin Tid det meget
@@ -41,7 +43,8 @@ Sydkyst liggende lave, ofte af Havet overskyllede
 Holme, nemlig Mygfjed og Bredfjed; men nu
 har Diget, der er anlagt langs Kysten, lukket
 det.
-<i>H. W.</i></chapter>
+<i>H. W.</i>
+</chapter>
 
 <chapter name="Dragsmur">
 <b>Dragsmur</b> kaldes en henved 200 m lang Mur,
@@ -56,7 +59,8 @@ befæstet Stilling lidt S. f. D.; fra Helgenæs var
 det jo ogsaa, at General Rye førte sin
 Hærafdeling over til Fyn forud for Udfaldet fra
 Fredericia.
-<i>Kr. E.</i></chapter>
+<i>Kr. E.</i>
+</chapter>
 
 <chapter name="Dragsted, Alfred">
 <b>Dragsted,</b> <sp>Alfred</sp>, dansk
@@ -84,7 +88,8 @@ Danmarks Deltagelse i Landsudstillingen i
 Landskrona 1913 og den baltiske Udstilling i Malmö
 1914 og er Medlem af Komiteen for
 udenlandske Udstillinger.
-<i>R. B.</i></chapter>
+<i>R. B.</i>
+</chapter>
 
 <chapter name="Dragsted, Arent Nikolaj">
 <b>Dragsted,</b> <sp>Arent Nikolaj</sp>, dansk
@@ -104,7 +109,8 @@ VII's Kiste. Særlig paa Ornamentikkens
 Omraade var han Mester og som Ciselør
 mønsterværdig. D. var ved sin Død Oldermand for
 Guldsmedelavet i Kbhvn.
-<i>R. B.</i></chapter>
+<i>R. B.</i>
+</chapter>
 
 <chapter name="Dragsted, Frants">
 <b>Dragsted,</b> <sp>Frants</sp>, dansk
@@ -119,13 +125,15 @@ Organisationsarbejder, saaledes som Medlem af
 Haandværkerforeningens og det tekn. Selskabs Bestyrelser
 samt som Oldermand for Guldsmedelavet,
 hvilken Stilling han indtog til sin Død.
-<i>R. B.</i></chapter>
+<i>R. B.</i>
+</chapter>
 
 <chapter name="Dragstrup Vig">
 <b>Dragstrup Vig,</b> stor Vig paa Vestsiden af
 Mors (Limfjorden). Den er c. 10 m dyb; Bunden
 bestaar af Mudder.
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 
 <chapter name="Dragt">
 <b>Dragt</b> (af plattysk <i>dragen</i>, bære) kaldes

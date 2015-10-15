@@ -119,7 +119,8 @@ Entwicklung der Dampfmaschine« [2 Bd, 1908];
 1914]; <sp>J. A. Ewing</sp>, <i>The Steam Engine and
 other Steam-Motors</i> [2 Bd, 1905]; <sp>Sauvage</sp>,
 <i>Les divers types des moteurs à vapeur</i> [1904]).
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Dampmotor">
 <b>Dampmotor,</b> se <sp>Dampmaskine</sp>.</chapter>
@@ -145,7 +146,8 @@ Grønsager, Fisk og især Kød, som bestaar i, at disse,
 med Tilsætning af Smør ell. Fedt og
 Krydderier, opvarmes i et lukket Kar, saaledes at
 de udviklede Dampe ikke kan undslippe.
-<i>K. M.</i></chapter>
+<i>K. M.</i>
+</chapter>
 
 <chapter name="Dampopvarmning">
 <b>Dampopvarmning,</b> se

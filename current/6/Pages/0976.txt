@@ -91,7 +91,8 @@ praktiske Vanskeligheder, dels ved Oliens
 Isolationsevne, dels ved at opnaa en tilstrækkelig sikker
 Udføring af Højspændingsviklingens Ender. Der
 er dog bygget Transformatorer indtil 500000 Volt.
-<i>R. J. J.</i></chapter>
+<i>R. J. J.</i>
+</chapter>
 
 <img>
 Fig. 26. Trefasetransformator, 625 KWA., 3000-30000 Volt, med

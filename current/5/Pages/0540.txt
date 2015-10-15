@@ -23,7 +23,8 @@ Mening frit ud. (<sp>Litt</sp>.: <sp>Müllenhoff</sp>,
 nordisk Filologi, 5.-6. Bd [Lund 1889-90]; <sp>A.
 Olrik</sp>, »Billeder af Danmarks Historie,
 Oldtiden« [1917]).
-<i>A. O.</i></chapter>
+<i>A. O.</i>
+</chapter>
 
 <chapter name="Danerlyng">
 <b>Danerlyng,</b> et ved Misforstaaelse opkommet
@@ -47,7 +48,8 @@ den forvanskede Form stammer fra Aarbogens
 danske Oversætter og er blevet udbredt ved
 Huitfeldt's Krønike. (<sp>Litt</sp>.: <sp>Olrik</sp>, »Danmarks
 Heltedigtning«, II [1910] § 36).
-<i>A. O.</i></chapter>
+<i>A. O.</i>
+</chapter>
 
 <chapter name="Daneryg(e)">
 <b>Daneryg(e),</b> se <sp>Danerlyng</sp>.</chapter>

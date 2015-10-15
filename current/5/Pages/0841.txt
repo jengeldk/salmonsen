@@ -10,7 +10,8 @@ Selskabet 1895 ved at udgive Jakob Langebek's
 Breve. Selskabets indenlandske Medlemmer er
 begrænset til 20; det ledes af en Forstander
 og en Sekretær.
-<i>Kr. E.</i></chapter>
+<i>Kr. E.</i>
+</chapter>
 
 <chapter name="Danskeskov">
 <b>Danskeskov,</b> se <sp>Dänischwold</sp>.</chapter>
@@ -96,7 +97,8 @@ Skytteforening« [Kbhvn 1911];
 <sp>Vorslund-Kiær</sp>, »Kbhvn's Skytteforenings Historie«
 [Kbhvn 1912]; De aarlige Beretninger fra
 Overbestyrelsen for D. S.).
-<i>C. Q.</i></chapter>
+<i>C. Q.</i>
+</chapter>
 
 <chapter name="danske Statsbaner, De">
 <b>danske Statsbaner, De</b> (D. S. B.).

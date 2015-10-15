@@ -98,7 +98,8 @@ Atmosfæres Tryktilvækst:
 Vædskernes Sammentrykkelighed bliver større
 med højere Temp., dog med Undtagelse af
 Vand, der viser det omvendte Forhold.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Elasticitetsgrænse">
 <b>Elasticitetsgrænse,</b> se <sp>Elasticitet</sp>.</chapter>
@@ -111,7 +112,8 @@ Vand, der viser det omvendte Forhold.
 Instrument, der (ved Strækning, Snoning,
 Bøjning, Sammentrykning) tilsigter Maaling af et
 Stofs Elasticitetsforhold.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Elasticitetsmodulus">
 <b>Elasticitetsmodulus,</b> se <sp>Elasticitet</sp>.</chapter>
@@ -125,7 +127,8 @@ er gjorte elastiske ved Indvævning af
 Kautsjuktraade, der oftest udgør Kæden, og som
 anvendes til Strømpebaand, Indsats i
 Halvstøvleskafter, elastiske Rændler o. a.
-<i>K. M.</i></chapter>
+<i>K. M.</i>
+</chapter>
 
 <chapter name="Elastin">
 <b>Elastin,</b> et Albuminoid, udgør

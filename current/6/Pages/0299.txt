@@ -2,7 +2,8 @@ samlede Længde er den øvre Del, 50 km, en
 særdeles god Sæterdal, ndf. er Dalen godt
 bebygget og danner største Delen af Nordre Lands
 Hovedsogn og Torpen Anneks.
-<i>(J. F. W. H.). M. H.</i></chapter>
+<i>(J. F. W. H.). M. H.</i>
+</chapter>
 
 <chapter name="Dokke">
 <b>Dokke</b> (<sp>Dukke</sp>), en støttende og bærende
@@ -15,7 +16,8 @@ til højre kaldes Pinoldokken og kan forskydes
 langs Bænkens Overdel, og der til Understøttelse
 af lange Genstande mellem disse D. endvidere
 kan være indskudt en Brilledokke.
-<i>F. W.</i></chapter>
+<i>F. W.</i>
+</chapter>
 
 <chapter name="dokke">
 <b>dokke,</b> at bringe et Skib i Dok.</chapter>
@@ -27,13 +29,15 @@ ikke langt fra Vesterhavet, ved Trekvaartkanal.
 Den har nogen Industri (Cigarer, Tovværk),
 Skibsfart og Handel med Hornkvæg. (1909) 3932
 Iridb. Den hellige Bonifacius blev dræbt her 755.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Dokmester">
 <b>Dokmester,</b> en Funktionær, der er ansat som
 Tilsynsførende ved Skibes Ud- og Indpassage
 fra og til en vaad Dok.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Doko">
 <b>Doko,</b> et kun lidet kendt Dværgfolk i det

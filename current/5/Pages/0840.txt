@@ -26,7 +26,8 @@
 <td 2>Varde-Nørre-Nebel<td r>38,0<td r>15/3 03
 <td 2>Nørre-Nebel-Tarm<td r>30,0<td r>4/11 13
 </table>
-<i>G. K.</i></chapter>
+<i>G. K.</i>
+</chapter>
 
 <chapter name="danske Raderforening, Den">
 <b>danske Raderforening, Den,</b> stiftedes 1854
@@ -67,7 +68,8 @@ har i Aarenes Løb uddelt mange fortræffelige
 Blade og bidrager stadig efter stor Maalestok
 til at udbrede Sansen for grafisk Kunst i Folkets
 mest forsk. Lag.
-<i>S. M.</i></chapter>
+<i>S. M.</i>
+</chapter>
 
 <chapter name="danske Sagførerforening, Den">
 <b>danske Sagførerforening, Den,</b> er stiftet
@@ -94,7 +96,8 @@ da overgaa til et fælles Sagførerraad, som af
 Loven udrustes med disciplinær Myndighed
 over for Standens enkelte Medlemmer (smlg.
 <sp>Sagfører</sp>).
-<i>K. Hch.</i></chapter>
+<i>K. Hch.</i>
+</chapter>
 
 <chapter name="Danske Samling">
 <b>Danske Samling,</b> se <sp>Nationalmuseet</sp>.</chapter>

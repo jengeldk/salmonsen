@@ -126,7 +126,8 @@ Udtrykket <i>C. j.</i> (med nærmere Betegnelse)
 bruges i øvrigt ogsaa som Titel for en stor
 Mængde private Lovsamlinger fra nyere Tider
 af meget fo£skelligartet Indhold.
-<i>E. T.</i></chapter>
+<i>E. T.</i>
+</chapter>
 
 <chapter name="Corpus juris canonici">
 <b>Corpus juris canonici,</b> se <sp>Kanonisk Ret</sp>.</chapter>
@@ -141,7 +142,8 @@ Funktion er ukendt; det antages nu mest alm.
 for at være en Kirtel uden Udførselsgang; nogle
 mener, det spiller en Rolle for Udviklingen af
 de sekundære Kønskarakterer.
-<i>K. H. K.</i></chapter>
+<i>K. H. K.</i>
+</chapter>
 
 <chapter name="Corradino, Corrado">
 <b>Corradino,</b> <sp>Corrado</sp>, ital. Forf., f. 1852;

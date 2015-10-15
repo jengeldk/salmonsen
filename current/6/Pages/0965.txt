@@ -16,7 +16,8 @@ Metalbaand, som udvider sig ens, idet kun et
 enkelts Udvidelse overføres til Viseren. Ved saa
 høje Periodetal er nemlig ogsaa den geometriske
 Form af Bet. for Strømdelingen.
-<i>Abs. L.</i></chapter>
+<i>Abs. L.</i>
+</chapter>
 
 <chapter name="elektriske Maskiner og Transformatorer">
 <b>elektriske Maskiner og Transformatorer.</b>

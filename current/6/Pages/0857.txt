@@ -84,7 +84,8 @@ Krampe hos Voksne. (se <sp>Krampe</sp>); men
 Krampe indfinder sig ved langt mindre
 Foranledning hos Børn end hos Voksne og har ogsaa
 mindre Bet. for førstnævnte end hos disse.
-<i>Lp. M.</i></chapter>
+<i>Lp. M.</i>
+</chapter>
 
 <chapter name="eklatant">
 <b>eklatant,</b> se <sp>éclat</sp>.</chapter>
@@ -102,7 +103,8 @@ Betegnelsen brugt om Filosoffer, der som Leibniz
 og Cousin mere gik ud paa at skabe et System
 af forsk. store Tænkeres Resultater, end de selv
 satte ny Tanker ind i Verden.
-<i>W. N.</i></chapter>
+<i>W. N.</i>
+</chapter>
 
 <chapter name="Eklipsis">
 <b>Eklipsis</b> (gr.), øjeblikkelig og snart
@@ -145,5 +147,6 @@ gi. Dage delt E. i 12 Dele (<i>dodekatemoria</i>),
 et Himmellegemes Beliggenhed til E., saaledes
 som man gjorde før, kaldes Koordinaterne
 (Bredde og Længde) Ekliptikakoordinater.
-<i>J. Fr. S.</i></chapter>
+<i>J. Fr. S.</i>
+</chapter>
 

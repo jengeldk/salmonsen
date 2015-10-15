@@ -52,7 +52,8 @@ Broder <sp>John D.</sp> (10 Bd, 1839-41). (<sp>Litt</sp>.:
 <sp>Paris</sp>, <i>The life of Sir H. D.</i> [2 Bd, London
 1831]; <i>Memoirs of the life of Sir H. D.</i>, udg. af
 John D. [2 Bd, London 1836]).
-<i>(O. C.). R. K.</i></chapter>
+<i>(O. C.). R. K.</i>
+</chapter>
 
 <chapter name="Davydov, Denis Vasiljevitsch">
 <b>Davydov</b> [da'vid<sub>å</sub>f], <sp>Denis Vasiljevitsch</sp>,
@@ -76,7 +77,8 @@ Popularitet ved sine muntre, bakkantisk og erotisk
 farvede Soldatersange i Folketone. Hans
 samlede Værker er udkomne fl. Gange, sidste Gang
 1893 i 3 Bd.
-<i>(K. V.). H. C-e.</i></chapter>
+<i>(K. V.). H. C-e.</i>
+</chapter>
 
 <chapter name="Davy-Medaillen">
 <b>Davy-Medaillen</b> ['de<sub>i</sub>v<sub>i</sub>-] er stiftet ved
@@ -86,7 +88,8 @@ eet ell. to Eksemplarer som Hædersbevisning
 for de vigtigste kem. Arbejder, der er
 udførte i de nærmest foregaaende Aar i Europa
 og det engelsktalende Nordamerika.
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
 <chapter name="Davyn">
 <b>Davyn,</b> se <sp>Nefelin</sp>.</chapter>

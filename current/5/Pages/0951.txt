@@ -4,7 +4,8 @@ Havn.
 
 <sp>D.'sskib</sp>, en ældre Betegnelse for et
 armeret Handelsskib.
-<i>H. E.</i></chapter>
+<i>H. E.</i>
+</chapter>
 
 <chapter name="Defensiv">
 <b>Defensiv</b> er den af de to
@@ -37,7 +38,8 @@ for Skytterne som for Reserverne og
 Muligheden for Overgang til Offensiven. Hvor
 Omstændighederne tillader det, forstærkes
 Stillingerne ved Kunst.
-<i>B. P. B.</i></chapter>
+<i>B. P. B.</i>
+</chapter>
 
 <chapter name="Defensivalliance">
 <b>Defensivalliance</b> [-ali'aŋs<sub>ə</sub>], se <sp>Alliance</sp>.</chapter>
@@ -101,7 +103,8 @@ Forsvarer i alle Straffesager med Undtagelse af
 Politisager og privat forfulgte Straffesager samt
 Sager, hvor der foreligger en af
 Omstændighederne bestyrket, uforbeholden Tilstaaelse.
-<i>E. T.</i></chapter>
+<i>E. T.</i>
+</chapter>
 
 <chapter name="defensor civitatis">
 <b>defensor civitatis</b> (lat.: »Borgernes

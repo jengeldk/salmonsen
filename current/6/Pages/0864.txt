@@ -1,6 +1,7 @@
 1869. Se for øvrigt den under <sp>bibelsk
 Indledning</sp> anførte Litt.).
-<i>J. C. J.</i></chapter>
+<i>J. C. J.</i>
+</chapter>
 
 <chapter name="Ekseget">
 <b>Ekseget,</b> se <sp>Eksegese</sp>.</chapter>

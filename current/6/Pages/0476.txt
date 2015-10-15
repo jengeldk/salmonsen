@@ -112,7 +112,8 @@ Spørgsmaal en ret omfatiende Behandling.
 <td>Kaninen<td r>30<td r>27<td r>34
 <td>Marsvinet<td r>75<td><td>
 </table>
-<i>H. G.</i></chapter>
+<i>H. G.</i>
+</chapter>
 
 <chapter name="Drægtighed">
 <b>Drægtighed,</b> et ældre Udtryk for et Skibs
@@ -123,7 +124,8 @@ Netto-Deplacementstonnagen (Deadweight-Tonnage) ell. ved
 Rumfanget af de Rum i Skibet, som kan føre
 Ladning ell. Passagerer, Netto-Registertonnagen
 (se <sp>Skibsmaaling</sp>).
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Dræning">
 <b>Dræning.</b> Ved D. forstaas Tørlægning af

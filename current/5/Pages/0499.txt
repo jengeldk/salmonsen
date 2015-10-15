@@ -28,7 +28,8 @@ Schiffsmaschinen und -Kessel« [1 Bd, 1910];
 <sp>Hütte</sp>, »Des Ingenieurs Taschenbuch« [3 Bd,
 1914]; <sp>H. Powles</sp>, <i>Steam-Boilers, their
 History and Development</i> [1 Bd, 1905]).
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Dampkedeleksplosion">
 <b>Dampkedeleksplosion</b> ell.
@@ -110,7 +111,8 @@ blevne overordentlig sjældne, der er saaledes i
 Tilfælde af D. bl. de c. 7000 Dampkedler, som i
 Danmark hører ind under det Offentliges
 Tilsyn.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Dampkedelfødeapparat">
 <b>Dampkedelfødeapparat</b> tjener til at føre

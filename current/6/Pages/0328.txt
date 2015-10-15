@@ -1,7 +1,8 @@
 <sp>Viken</sp>. Revet danner en Bugt, hvori smaa
 Jagter ell. Dæksbaade kan finde Ankerplads
 med ret god Beskyttelse.
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 
 <chapter name="Domstol">
 <b>Domstol,</b> i snævrere Forstand Betegnelse
@@ -47,7 +48,8 @@ om Øvrighedsmyndighedens Grænser, og de
 maa sikkert ligeledes, navnlig efter den ny
 Grl. af 1915 § 93, antages berettigede til at
 tilsidesætte Love, der er i Strid med Grl.
-<i>K. B.</i></chapter>
+<i>K. B.</i>
+</chapter>
 
 <chapter name="Domus anatomica">
 <b>Domus anatomica,</b> se <sp>anatomisk Teater</sp>.</chapter>

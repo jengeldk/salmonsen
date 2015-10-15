@@ -59,7 +59,8 @@ Sthlm 1888]; <sp>Köedt</sp>, »Guld og Sølv« [Kbhvn
 Tidsskrift« XXVII]; <sp>Meyer</sp>, »Møntspørgsmaalet«
 [»Tilskueren«, Kbhvn 1894]; <sp>Einarsen</sp>, »Guld
 og Sølv« [»Nyt Tidsskrift«, Kria 1895]).
-<i>(E. M.). C. Th.</i></chapter>
+<i>(E. M.). C. Th.</i>
+</chapter>
 
 <chapter name="Dobbeltoktav">
 <b>Dobbeltoktav,</b> et Interval, der omfatter to
@@ -140,7 +141,8 @@ et Aar kunde have indvundet af Ejendommen.
 - D. kan endvidere efter Omstændighederne
 indeholde en svigagtig Adfærd, der paadrager
 Strafansvar.
-<i>K. Hch.</i></chapter>
+<i>K. Hch.</i>
+</chapter>
 
 <chapter name="Dobbeltsalte">
 <b>Dobbeltsalte,</b> se <sp>Salte</sp>.</chapter>

@@ -2,7 +2,8 @@
 <b>Dronning,</b> Kongens Hustru; af ældre
 Drotning, Hunkønsform til Drotten, Drot ɔ: Hersker
 ell. Konge.
-<i>A. O.</i></chapter>
+<i>A. O.</i>
+</chapter>
 
 <chapter name="Dronning, Dyreriget">
 <b>Dronning</b> kaldes i Dyreriget Hunkønnet hos
@@ -11,7 +12,8 @@ de koloni- og statdannende Insekter
 er repræsenteret af eet enkelt ell. i alt Fald
 ganske enkelte Individer. Se i øvrigt <sp>Bier</sp> og
 <sp>Termitter</sp>.
-<i>C. W.-L.</i></chapter>
+<i>C. W.-L.</i>
+</chapter>
 
 <chapter name="Dronningborg">
 <b>Dronningborg</b> var Navnet paa et nu nedrevet
@@ -44,7 +46,8 @@ Staldbygningerne udgør endnu den saakaldte
 købtes ved Auktion 1765 af Etatsraad Kirketerp,
 der lidt N. f. Byen opførte en ny Gaard, som
 han gav Navn efter det nedrevne Slot.
-<i>B. L.</i></chapter>
+<i>B. L.</i>
+</chapter>
 
 <chapter name="Dronning Charlottes Øer">
 <b>Dronning Charlottes Øer,</b> se
@@ -64,14 +67,16 @@ for Dæksvagtens Fordeling og Opstilling, idet 2.
 Skifte træder an forude om Bagbord, 4. Skifte
 agter om Bagbord. Menige paa D. K. har
 deres Ærmedistinktion syet paa venstre Ærme.
-<i>H. E.</i></chapter>
+<i>H. E.</i>
+</chapter>
 
 <chapter name="Dronningeskamlen">
 <b>Dronningeskamlen,</b> Stengrund Ø. f.
 Dronningestolen (Møen), c. 1/2 Sm. fra Land.
 Grunden falder paa alle Sider stejlt af; paa det
 laveste findes 3,5 m Vand.
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 
 <chapter name="Dronningestolen">
 <b>Dronningestolen,</b> et højt Punkt paa Møens
@@ -83,7 +88,8 @@ af dets imponerende Skønhed. Den lille Ø, som
 de nedstyrtede Masser dannede uden for
 Klinten i Vandet, er nu forsvunden. Senere har der
 fundet mindre Nedstyrtninger Sted.
-<i>H. W.</i></chapter>
+<i>H. W.</i>
+</chapter>
 
 <chapter name="Dronninggaard">
 <b>Dronninggaard,</b> Hovedgaard i Sokkelund's
@@ -127,7 +133,8 @@ Aktieselskab, der omdannede Hovedbygningen til et
 Bade- ell. Sommerhotel, der dog alt blev
 nedlagt 1906, og udstykkede Grunden til
 Villabebyggelse.
-<i>B. L.</i></chapter>
+<i>B. L.</i>
+</chapter>
 
 <chapter name="Dronninggaard">
 <b>Dronninggaard,</b> Hovedgaard i Dronninglund
@@ -138,7 +145,8 @@ Herregaard under Navnet Skovsgaard; den
 havde derefter i lang Tid samme Ejere som
 Dronninglund og skiltes først fra denne Gaard i Beg.
 af 19. Aarh.
-<i>B. L.</i></chapter>
+<i>B. L.</i>
+</chapter>
 
 <chapter name="Dronningholm">
 <b>Dronningholm,</b> Navn paa et Voldsted paa
@@ -147,7 +155,8 @@ Sogn), det eneste Minde om en af. Valdemar
 Sejr for Dronning Dagmar opført Borg, som
 siges at være blevet nedrevet under
 Frederik II.
-<i>B. L.</i></chapter>
+<i>B. L.</i>
+</chapter>
 
 <chapter name="Dronning Louise's Land">
 <b>Dronning Louise's Land,</b> Grønlands
@@ -165,5 +174,6 @@ Ekspedition 1910 og af Koch's Ekspedition 1912-13.</chapter>
 <b>Dronning Louise's Ø,</b> ved Grønlands
 Østkyst paa 60° 22' n. Br. Øen er c. 40 km<sup>2</sup> stor,
 og dens højeste Punkt er 780 m o. H.
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 

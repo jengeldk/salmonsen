@@ -61,7 +61,8 @@ Til D. svarer endvidere Udtrykkene <sp>Dramm</sp>,
 Lande og tidligere tyrk. Besiddelser. Endelig
 anvendes endnu i holl. Kolonier D. (Drachma)
 - 1/128 af det gl. Amsterdam Pond.
-<i>Th. O.</i></chapter>
+<i>Th. O.</i>
+</chapter>
 
 <chapter name="Dracma">
 <b>Dracma</b> (<sp>Drachme</sp>), Medicinalvægt, se
@@ -100,7 +101,8 @@ overleverede <i>Orestis tragoedia</i>, ligeledes et episk
 Digt. Udg. af Vollmer i <i>Monum. Germ. hist.,
 auct.</i> XIV, Berlin 1905, og i <i>Poetæ Lat. Minores</i>
 V, Leipzig 1914.
-<i>A. B. D.</i></chapter>
+<i>A. B. D.</i>
+</chapter>
 
 <chapter name="Dracunculus medinensis">
 <b>Dracunculus medinensis,</b> se <sp>Guinea-Orm</sp>.</chapter>

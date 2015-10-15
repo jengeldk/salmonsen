@@ -3,7 +3,8 @@
 Forbjerg paa den sydlige Side af Indløbet til
 Riga-Bugten, falder med ringe Højde brat ned
 i Havet og fortsættes i et Rev.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Domesnæs-Rev">
 <b>Domesnæs-Rev,</b> Riga Bugt, strækker sig i
@@ -14,26 +15,30 @@ stejlt. Ved Enden af Revet er bygget et
 Fyrtaarn af Jern paa en kunstig anlagt Ø. Ved
 Fyrtaarnet findes Taagesignal med Dampsirene,
 Semaforstation og Redningsstation.
-<i>G. F. H.</i></chapter>
+<i>G. F. H.</i>
+</chapter>
 
 <chapter name="domestici">
 <b>domestici</b> (lat.), Husfæller; i senere Latin
 ogsaa: Bekendte, Omgangsvenner.
-<i>A. B. D.</i></chapter>
+<i>A. B. D.</i>
+</chapter>
 
 <chapter name="Domestics">
 <b>Domestics</b> [d<sub>o</sub>'mest<sub>i</sub>ks], tætte glatte
 Bomuldsstoffer, der opr. kun vævedes i
 Nordamerika, men nu ogsaa fremstilles i Europa som
 Surrogat for Lærred, især til Skjorter.
-<i>K. M.</i></chapter>
+<i>K. M.</i>
+</chapter>
 
 <chapter name="domesticus">
 <b>domesticus</b> (lat.), hvad der hører ti Huse,
 til Familien, til Landet: <i>animalia domestica,
 furtum domesticum. Jura domestica</i> = Landets
 Vedtægter.
-<i>H. H. R.</i></chapter>
+<i>H. H. R.</i>
+</chapter>
 
 <chapter name="Domestik">
 <b>Domestik</b> (fr., af lat. <i>domésticus</i>, hørende
@@ -67,7 +72,8 @@ og Sagn og Ny Zeelands Natur; det er ret
 ujævnt, men rummer store lyriske Skønheder
 og vidner om hans fine Intelligens og skarpe
 Opfattelsesevne.
-<i>I. O.</i></chapter>
+<i>I. O.</i>
+</chapter>
 
 <chapter name="Domeykit">
 <b>Domeykit</b> [-me-] (<sp>Arsenkobber</sp>), et
@@ -76,7 +82,8 @@ sølvhvidt, men løber hurtigt an og bliver
 gulligt indtil broget; forekommer djærvt,
 indsprængt, i Chile, Meksiko og ved Zwickau i
 Sachsen.
-<i>R. K.</i></chapter>
+<i>R. K.</i>
+</chapter>
 
 <chapter name="Domfront">
 <b>Domfront</b> [då'frå], By i det nordvestlige
@@ -109,7 +116,8 @@ omtales i Sagaerne D. baade som den Kreds ell.
 som den Indhegning, inden for hvilken
 Dommerne havde Sæde, naar de paa de forsk. Ting
 traadte sammen for at afgive Domme i Sager.
-<i>B. Th. M.</i></chapter>
+<i>B. Th. M.</i>
+</chapter>
 
 <chapter name="Domicella">
 <b>Domicella</b> (Dim. af <i>domina</i>, Frue) brugtes
@@ -118,7 +126,8 @@ ikke regelbundne Kanonisse, undertiden ogsaa
 om den Nonne, der havde yngre Nonner under
 Vejledning og Tilsyn, endvidere om Fyrsters
 og Stormænds ugifte Døtre.
-<i>H. O.</i></chapter>
+<i>H. O.</i>
+</chapter>
 
 <chapter name="Domicellus">
 <b>Domicellus</b> (Dim. af <i>dominus</i>, Herre)
@@ -129,7 +138,8 @@ om Fyrstesønner, der ikke var Hertuger ell.
 Grever, stundom ogsaa om Stormændenes
 Sønner, især naar disse gjorde Tjeneste som
 Pager.
-<i>H. O.</i></chapter>
+<i>H. O.</i>
+</chapter>
 
 <chapter name="Domicil">
 <b>Domicil,</b> Hjemsted, Bopæl.</chapter>
@@ -155,7 +165,8 @@ nødvendig til Bevarelse af Vekselret ikke alene over
 for Trassent og Endossent, men ogsaa over for
 Acceptanten, hvilket sidste ikke gælder om
 andre Veksler.
-<i>(E. M.) C. Th.</i></chapter>
+<i>(E. M.) C. Th.</i>
+</chapter>
 
 <chapter name="domina">
 <b>domina</b> (lat.), Husfrue; i senrom. Tid

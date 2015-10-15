@@ -13,7 +13,8 @@ disse Lyd er da det, der er fælles for dem i
 alle Forbindelser, nemlig den fuldstændige
 Tillukning af Luftvejen, og den bedste Benævnelse
 bliver da <sp>Lukkelyd</sp> ell. <sp>Klusiler</sp>.
-<i>O. Jsp.</i></chapter>
+<i>O. Jsp.</i>
+</chapter>
 
 <chapter name="Eksplosivstoffer">
 <b>Eksplosivstoffer,</b> se <sp>Sprængstoffer</sp>.</chapter>
@@ -21,13 +22,15 @@ bliver da <sp>Lukkelyd</sp> ell. <sp>Klusiler</sp>.
 <chapter name="Eksponent">
 <b>Eksponent</b> (lat.) kaldes Størrelsen <i>n</i> i den
 alm. Betegnelse <i>a</i><sup>n</sup> for en Potens.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Eksponentialfunktion">
 <b>Eksponentialfunktion</b> ['æks-] ell.
 <sp>eksponentiel Funktion</sp> kaldes Funktionen <i>a</i><sup>x</sup>,
 hvor <i>x</i> er uafhængig variabel.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="eksponere">
 <b>eksponere</b> (lat.), udsætte for, give til Pris,
@@ -75,7 +78,8 @@ Overgang er forbundet med den flg., der
 indeholder det handlingsbevægende Moment (se
 <sp>Drama</sp> »Bygning«). (<sp>Litt</sp>.: <sp>Freytag</sp>, »Die
 Technik des Drama« [6. Opl. 1890]).
-<i>Cl. W.</i></chapter>
+<i>Cl. W.</i>
+</chapter>
 
 <chapter name="Ekspositionsfaktor">
 <b>Ekspositionsfaktor</b> er en Konstant, der
@@ -85,7 +89,8 @@ maa staa til Belysningstiden ved Anvendelsen
 af en anden Fremkalder, for at Skyggepartierne
 kan faa samme Gennemtegning i begge
 Fotografierne.
-<i>C. E. A.</i></chapter>
+<i>C. E. A.</i>
+</chapter>
 
 <chapter name="ekspres">
 <b>ekspres</b> [-'præs] (lat., fr. <i>exprès</i>),
@@ -128,7 +133,8 @@ besørges som E., for de 2 førstnævnte Landes
 Vedk. dog kun til visse Byer. Til det øvrige
 Udland kan i Alm. kun Breve besørges som
 Ekspresforsendelse.
-<i>Fr. O.</i></chapter>
+<i>Fr. O.</i>
+</chapter>
 
 <chapter name="Ekspression">
 <b>Ekspression</b> (lat.), Udtryk.</chapter>
@@ -139,7 +145,8 @@ Fødselsvidenskaben om de Indgreb, der ved
 Sammentrykning af Livmoderen gennem Bugvæggen
 gaar ud paa at fremme Udskydningen af
 Fosteret ell. (især) Efterbyrden.
-<i>Lp. M.</i></chapter>
+<i>Lp. M.</i>
+</chapter>
 
 <chapter name="Ekspressionisme">
 <b>Ekspressionisme,</b> en moderne kunstnerisk

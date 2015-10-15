@@ -1,7 +1,8 @@
 <sp>Carnotbai</sp>. Det Indre af Halvøen er en
 frugtbar Græsslette. D. blev undersøgt af A.
 Forrest 1879 og Brockman 1879-80.
-<i>M. V.</i></chapter>
+<i>M. V.</i>
+</chapter>
 
 <chapter name="Dampierre, Auguste Henri Marie Picot">
 <b>Dampierre</b> [dã'p<sub>i</sub>æ.r], <sp>Auguste Henri
@@ -24,7 +25,8 @@ belejrede Fæstning Condé - Fjenden 8. Maj,
 men blev dødelig saaret samme Dag ved
 Quiévrain og døde Dagen efter. D. var en tapper og
 loyal Soldat, men ingen stor Feltherre.
-<i>(F. J. M.). P. L. M.</i></chapter>
+<i>(F. J. M.). P. L. M.</i>
+</chapter>
 
 <chapter name="Dampier-Strædet">
 <b>Dampier-Strædet</b> ['dämpi.<sub>ə</sub>-], opdaget 1700
@@ -37,14 +39,16 @@ og sikreste. Et andet Stræde af s. N., og som
 ligeledes opdagedes 1700 af Dampier, ligger
 mellem den nordvestligste Spids af Ny-Guinea
 og Wegiu-Øen.
-<i>C. A.</i></chapter>
+<i>C. A.</i>
+</chapter>
 
 <chapter name="Dampier-Øen">
 <b>Dampier-Øen</b> ['dämpi.<sub>ə</sub>-], <sp>Kar-Kar</sp>, større
 Ø ud for Kysten af Kejser Wilhelm's Land paa
 Nordøstsiden af Ny-Guinea, lige over for Kap
 Croisilles.
-<i>C. A.</i></chapter>
+<i>C. A.</i>
+</chapter>
 
 <chapter name="Dampkedel">
 <b>Dampkedel</b> er et Apparat, i hvilket der

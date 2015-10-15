@@ -31,7 +31,8 @@ aarlig Statsunderstøttelse. (<sp>Litt</sp>.: <sp>Dampe</sp>,
 »Fortællinger om mit Fængsel« [Kbhvn 1858];
 <sp>Chr. Lynge</sp>, »Fangen paa Christiansø«
 [1904]).
-<i>A. Th.</i></chapter>
+<i>A. Th.</i>
+</chapter>
 
 <chapter name="Dampelektrisermaskine">
 <b>Dampelektrisermaskine,</b> en
@@ -50,7 +51,8 @@ Maskinen virker meget kraftig, men har ikke
 fundet alm. Anvendelse. Et elektrisk Slag, som en
 Kedelpasser modtog fra sin Dampkedel, gav
 Anledning til Opdagelsen.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Damper">
 <b>Damper,</b> se <sp>Dampskib</sp>.</chapter>
@@ -79,7 +81,8 @@ forskellig Højde, hvorved der fremkommer en
 harmonisk tretonet Lyd. D. anvendes som
 Signalapparat paa Skibe og Lokomotiver og som Tids-
 og Varselssignaler i Fabrikker.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <img>Dampfløjte.</img>
 

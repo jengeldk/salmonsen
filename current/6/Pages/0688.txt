@@ -1,7 +1,8 @@
 paagældende Heste kan efter eget Valg dele
 Præmien ell. Præmierne ell. lade Afgørelsen ske
 ved fornyet Prøve.
-<i>(C. G. B.). O. P.</i></chapter>
+<i>(C. G. B.). O. P.</i>
+</chapter>
 
 <chapter name="Dødvande">
 <b>Dødvande</b> (Søv.), den Vandmasse, der
@@ -9,7 +10,8 @@ slæbes med agten for et Skib, naar det har Fart
 gennem Vandet; ell. stillestaaende Vand inde
 over Grunde, der begrænser et smalt Sejlløb
 med Strøm.
-<i>H. E.</i></chapter>
+<i>H. E.</i>
+</chapter>
 
 <chapter name="død Vinkel">
 <b>død Vinkel,</b> se <sp>bestryge</sp>.</chapter>
@@ -27,13 +29,15 @@ Fragtdampere. Ved Sammenligning mellem
 Dead-Weight-Tonnage og Registertonnage kan
 man i Praksis regne, at 1 t D. (D. W.) omtr.
 er lig 2/3 Reg. T. (se <sp>Skibsmaaling</sp>).
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="død Vægt">
 <b>død Vægt</b> kaldes i Ridesproget al Vægt,
 som Hesten bærer foruden Rytteren, med
 den paa ham anbragte Vægt i Alm. indbefattet.
-<i>(C. G. B.). O. P.</i></chapter>
+<i>(C. G. B.). O. P.</i>
+</chapter>
 
 <chapter name="Døgling">
 <b>Døgling,</b> <sp>Andehval</sp> ell. <sp>Næbhval</sp>
@@ -106,7 +110,8 @@ Nordsø- og Atlanterhavskyster, og selv ned i de
 danske Farvande har de ikke sjældent forvildet
 sig; de er lidet sky og kommer ofte nær til
 Skibene.
-<i>R. Hg.</i></chapter>
+<i>R. Hg.</i>
+</chapter>
 
 <img>
 Andehval ell. Næbhval.</img>

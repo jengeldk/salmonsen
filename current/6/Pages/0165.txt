@@ -88,7 +88,8 @@ belægges med et Tillæg til den tarifmæssige
 Told af indtil 40 % af dennes Beløb, ell., for
 saa vidt Varen er toldfri, med indtil 10 % af
 dens Værdi ell. indtil 1 Øre pr kg.
-<i>Fr. T.</i></chapter>
+<i>Fr. T.</i>
+</chapter>
 
 <chapter name="Differentiation">
 <b>Differentiation</b> kaldes den ell. de

@@ -1,6 +1,7 @@
 Polarisationsapparater: Nörremberg's Apparat,
 Turmalintang o. s. v. (se <sp>Polarisation</sp>).
-<i>H. M. H.</i></chapter>
+<i>H. M. H.</i>
+</chapter>
 
 <chapter name="Dobbeltbund">
 <b>Dobbeltbund,</b> en Konstruktion, bestaaende
@@ -21,7 +22,8 @@ man derved undgik den bekostelige Indtagning
 af Sand ell. Stenballast, som tidligere maatte
 udføres, naar Skibene skulde sejle uden
 Ladning.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Dobbeltbæger">
 <b>Dobbeltbæger</b> er Navnet paa en særlig Art
@@ -97,7 +99,8 @@ Enkeltindividet
 paa større Sejlskibe deles ofte i 2: <sp>Under</sp>- og
 <sp>Overbramsejl</sp>, der hver er bændslede til
 sin Raa: <sp>Over</sp>- og <sp>Underbramraa</sp>.
-<i>H. E.</i></chapter>
+<i>H. E.</i>
+</chapter>
 
 <chapter name="Dobbeltflint">
 <b>Dobbeltflint,</b> Bøsse med Flintlaas og to Løb,

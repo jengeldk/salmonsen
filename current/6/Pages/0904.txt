@@ -28,7 +28,8 @@ Mastodon: <sp>Meyer</sp> i »Palæontographica« [Bd
 d'ossem. foss. d. mammifères</i> [1832-35];
 <sp>Engell</sp>, »E.'s Udbredelse i Afrika« [1899];
 <sp>Winge</sp> i <i>E Museo Lundii</i> [3. Bd, 1. Halvbd 1906]).
-<i>R. Hg.</i></chapter>
+<i>R. Hg.</i>
+</chapter>
 
 <chapter name="Elefant-Floden">
 <b>Elefant-Floden,</b> se <sp>Olifant-Floden</sp>.</chapter>
@@ -57,7 +58,8 @@ hvorimod den i mange Tropeegne
 Tilstedeværelsen af <i>Filaria sanguinis</i>. I stærkt
 udviklede Tilfælde er den kun tilgængelig for
 kirurgisk Behandling.
-<i>E. P-n.</i></chapter>
+<i>E. P-n.</i>
+</chapter>
 
 <chapter name="Elefantine">
 <b>Elefantine,</b> gr. Navn paa en Ø i Nilen, lige
@@ -124,7 +126,8 @@ har givet Anledning til mange Undersøgelser.
 (<sp>Litt</sp>.: <sp>J. de Morgan</sp>, <i>Catalogue des
 monuments et inscriptions de l'Égypte antique</i> I [Wien
 1894]).
-<i>V. S.</i></chapter>
+<i>V. S.</i>
+</chapter>
 
 <chapter name="Elefantlus">
 <b>Elefantlus,</b> se <sp>Anacardium</sp>.</chapter>

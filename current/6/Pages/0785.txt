@@ -1,6 +1,7 @@
 aaben Sø samt Anduvning og Besejling af de
 vigtigere Pladser.
-<i>H. E.</i></chapter>
+<i>H. E.</i>
+</chapter>
 
 <chapter name="Efterretningskontor">
 <b>Efterretningskontor,</b> se
@@ -86,7 +87,8 @@ Efterretninger anvendes om muligt Telegrafen, og
 ved vigtige Efterretningers Afsendelse
 anvendes Chifferskrift. Ogsaa Brevduer kan spille en
 betydelig Rolle i E.'s Tjeneste.
-<i>B. P. B.</i></chapter>
+<i>B. P. B.</i>
+</chapter>
 
 <chapter name="Eftersendes">
 <b>Eftersendes</b> ell. F S (<i>faire suivre</i>), tjenstlig,
@@ -102,7 +104,8 @@ Angivelsen <i>Reekspederet fra</i> ..... ell.
 Eftersendelsesgebyret, benyttes den tjenstlige
 gebyrfri. Angivelse: <i>Eftersendelse betalt</i> ell. <i>Taxe
 perçue</i>.
-<i>M. G.</i></chapter>
+<i>M. G.</i>
+</chapter>
 
 <chapter name="efter Sigt">
 <b>efter Sigt,</b> se <sp>Avisoveksel</sp>.</chapter>
@@ -128,7 +131,8 @@ ved Slutn. af en Takt derved, at de smaa
 Noder sættes foran Taktstregen, og ikke efter:
 
 <img></img>
-<i>S. L.</i></chapter>
+<i>S. L.</i>
+</chapter>
 
 <chapter name="Efterslægten, Selskabet for">
 <b>Efterslægten, Selskabet for,</b> stiftedes i

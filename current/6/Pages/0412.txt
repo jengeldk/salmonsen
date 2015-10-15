@@ -45,7 +45,8 @@ D.« [1852]; <sp>Freytag</sp>, »Die Technik des D.«
 Bd, 1865-76]; <sp>Prölsz</sp>, »Geschichte des neueren
 D.« [3 Bd, 1880-83]; <sp>Cresenach</sp>, »Geschichte
 d. neueren D.« [1908]).
-<i>Cl. W.</i></chapter>
+<i>Cl. W.</i>
+</chapter>
 
 <chapter name="Dramatik">
 <b>Dramatik</b> (gr.), dram. Digtning.
@@ -59,7 +60,8 @@ ikke sjældent, at et Stof, der har gjort Lykke
 i en anden poetisk Form, f. Eks. som Novelle
 ell. Roman, behandles for Skuepladsen,
 dramatiseres.
-<i>Cl. W.</i></chapter>
+<i>Cl. W.</i>
+</chapter>
 
 <chapter name="dramatisk">
 <b>dramatisk,</b> se <sp>Dramatik</sp>.</chapter>
@@ -72,7 +74,8 @@ snævrere Bet., Betegnelse for den, der stilles ved
 Siden af et Teaters Styrelse som Raadgiver fra
 den æstetiske og dramatiske Teoris
 Standpunkt.
-<i>Cl. W.</i></chapter>
+<i>Cl. W.</i>
+</chapter>
 
 <chapter name="Dramaturgi">
 <b>Dramaturgi</b> (gr.) betegnede hos Grækerne

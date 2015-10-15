@@ -3,7 +3,8 @@
 Regnskabsfører. Ved D. betegnes navnlig den
 farmaceutiske Kandidat, som ansat ved et Hospital
 forestaar dettes Apoteksafdeling.
-<i>E. K.</i></chapter>
+<i>E. K.</i>
+</chapter>
 
 <chapter name="Dispensatorium">
 <b>Dispensatorium.</b> Ved D. forstaas nu om
@@ -13,7 +14,8 @@ den af den paagældende Stat autoriserede
 Farmakopé; Dispensatorier udgives ofte af større
 Hospitaler, Lægeforeninger o. s. v. Se i øvrigt
 <sp>Farmakopé</sp>.
-<i>E. K.</i></chapter>
+<i>E. K.</i>
+</chapter>
 
 <chapter name="dispensere">
 <b>dispensere</b> (lat.), tilberede og udlevere
@@ -22,7 +24,8 @@ Læge, der, fordi han er afskaaret fra
 regelmæssig Forbindelse med et Apotek, har faaet
 Tilladelse til at d. den Medicin, han anvender
 til sine Patienter.
-<i>E. K.</i></chapter>
+<i>E. K.</i>
+</chapter>
 
 <chapter name="Dispersion">
 <b>Dispersion,</b> <sp>Straalespredning</sp> eller,

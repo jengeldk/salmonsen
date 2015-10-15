@@ -1,6 +1,7 @@
 Verdenshistorie en ægypt. Historie, hvoraf dog
 kun Indledningen, Ægyptens Geografi, udkom.
-<i>V. S.</i></chapter>
+<i>V. S.</i>
+</chapter>
 
 <chapter name="Dümmler, Ernst Ludwig">
 <b>Dümmler,</b> <sp>Ernst Ludwig</sp>, tysk
@@ -12,13 +13,15 @@ med Wattenbach fuldendte han de af Jaffé
 begyndte <i>Monumenta Alcuiniana</i> (1873), og siden
 1888 var han Hovedlederen af <i>Monumenta
 Germaniæ historica</i>.
-<i>Kr. E.</i></chapter>
+<i>Kr. E.</i>
+</chapter>
 
 <chapter name="Dümpten">
 <b>Dümpten</b> ['dympt<sub>ə</sub>n], Bjergværksby i
 Preussen, Rhinprov., ligger 8 km Ø. f. Duisburg. (1910)
 7193 Indb. D. har Stenkulsminer.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Dyn">
 <b>Dyn,</b> absolut Kraftenhed, se <sp>absolut Maal</sp>.</chapter>
@@ -50,7 +53,8 @@ den i Forbindelse dels med Volga, dels gennem
 Lovat og Volchov med Neva og gennem
 Beresina med Dnjepr. Ved Riga er den tilfrosset
 fra Midten af Decbr til Slutn. af Marts.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Dünaburg">
 <b>Dünaburg</b> ['dy.naburk], siden 1893 officielt
@@ -79,7 +83,8 @@ Russerne og 1812 af Franskmændene. For
 Düna-Flodens Forsvarslinie. Septbr, Oktbr og Novbr
 1915 rasede der SV. og V. for D. blodige Kampe
 mellem Russerne og Tyskerne.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Dynameter">
 <b>Dynameter</b> (gr.), et af Ramsden opfundet
@@ -107,7 +112,8 @@ mellem denne Afstand og den tilsvarende
 Afstand i Billedet paa D.'s Plade af den
 ubedækkede Del af Objektivlinsen giver Kikkertens
 Forstørrelse.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Dynamide">
 <b>Dynamide</b> (gr.), et Navn, som
@@ -116,7 +122,8 @@ Redtenbacher har givet til et Stof atom omgivet af et
 ell. mindre inderlig forbundne med en Del af
 Æteren, er en Antagelse, som ofte er gjort
 gældende baade før og senere.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Dynamik, Læren om Legemernes Bevægelser">
 <b>Dynamik</b> (gr.), Læren om Legemernes
@@ -126,7 +133,8 @@ D. staar altsaa i Modsætning til <sp>Statik</sp>
 der kun opfatter Bevægelsen fra et geometrisk
 Standpunkt uden at spørge efter Bevægelsens
 Aarsager). Se <sp>Bevægelse</sp> og <sp>Mekanik</sp>.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Dynamik, i Musikken">
 <b>Dynamik</b> (gr.) betegner i Musikken
@@ -137,7 +145,8 @@ dynamiske Virkninger, den forsk. Styrkegrad,
 forekommer enten som kontrasterende
 Modsætninger af <i>forte</i> og <i>piano</i> ell. som successiv Tiltagen
 og Aftagen, <i>crescendo</i> og <i>decrescendo</i>.
-<i>S. L.</i></chapter>
+<i>S. L.</i>
+</chapter>
 
 <chapter name="dynamisk Elektricitet">
 <b>dynamisk Elektricitet,</b> Elektricitet i

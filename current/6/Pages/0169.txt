@@ -5,7 +5,8 @@ Svælget: hvis Lidelsen sidder der. Der gives kraftig
 Ernæring og stimulerende Midler. Det gælder
 ogsaa i Rekonvalescensen og ved Behandlingen
 af Lamhederne.
-<i>(A. F.). H. I. B.</i></chapter>
+<i>(A. F.). H. I. B.</i>
+</chapter>
 
 <chapter name="Difteri (hos Husdyrene)">
 <b>Difteri</b> (<sp>hos Husdyrene</sp>). Difteritiske
@@ -28,7 +29,8 @@ og den i visse Retninger slaaende Lighed i
 Sygdomsbillederne eksisterer der dog i
 Aarsagsforholdet en Væsensforskel mellem Menneskets
 D. og de difteritiske Processer hos Dyrene.
-<i>G. S.</i></chapter>
+<i>G. S.</i>
+</chapter>
 
 <chapter name="Difteriantitoksin">
 <b>Difteriantitoksin,</b> se <sp>Difteriserum</sp>.</chapter>

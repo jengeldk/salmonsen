@@ -5,7 +5,8 @@ Automobiler, Færger og Skibe m. v., der ejes
 og drives af Jernbaneselskaberne i Forbindelse
 med den alm. Jernbanetrafik, som hørende
 under D.
-<i>G. K.</i></chapter>
+<i>G. K.</i>
+</chapter>
 
 <chapter name="Driftsomkostninger">
 <b>Driftsomkostninger</b> er de Omkostninger ved
@@ -15,7 +16,8 @@ Vedligeholdelse af Bygninger og Inventar, Lønninger,
 Udgifter til Belysning, Skatter, Assurance,
 Kontorhold, Rejser, Emballage o. s. v. samt Renter
 og Afdrag af Kapitalen.
-<i>C. Th.</i></chapter>
+<i>C. Th.</i>
+</chapter>
 
 <chapter name="Driftsplan">
 <b>Driftsplan</b> i <sp>Skovbruget</sp> opstilles for det
@@ -44,7 +46,8 @@ især første Gang, et saa stort Arbejde, at det
 bedst overdrages til en særskilt Skovtaksator; i
 andre Tilfælde leder Skovrideren selv
 Udarbejdelsen, og da især ved Revision af en udløben D.
-<i>C. V. P.</i></chapter>
+<i>C. V. P.</i>
+</chapter>
 
 <chapter name="Driftstabsforsikring">
 <b>Driftstabsforsikring.</b> Formaalet med denne
@@ -91,7 +94,8 @@ endnu drives, ikke altid har været
 forsikringsteknisk tilfredsstillende, er en anden Sag.
 Ogsaa paa dette Forsikringsomraade er der dog
 gjort, og gøres der stadig Fremskridt.
-<i>Chr. Th.</i></chapter>
+<i>Chr. Th.</i>
+</chapter>
 
 <chapter name="Driftteorien">
 <b>Driftteorien</b> ell. <sp>Drivisteorien</sp> er en
@@ -103,13 +107,15 @@ svømmende Isbjerge var hidført nordfra og ved
 Isens Smeltning var sunket til Bunds i Havet
 i Lighed med, hvad der nutildags finder Sted
 paa Newfoundlandsbankerne.
-<i>J. P. R.</i></chapter>
+<i>J. P. R.</i>
+</chapter>
 
 <chapter name="Drighlington">
 <b>Drighlington</b> ['drig£<sub>i</sub>ŋt<sub>ə</sub>n], Fabrikby i det
 nordlige England, Yorkshire, 5 km SV. f. Leeds,
 har Industri i Uld. (1911) 4126 Indb.
-<i>G. Ht.</i></chapter>
+<i>G. Ht.</i>
+</chapter>
 
 <chapter name="Drikkekar">
 <b>Drikkekar.</b> De ældste D. synes at have

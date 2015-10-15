@@ -87,7 +87,8 @@ Tilslutningen nødvendige Sikringer og
 Ledningsadskillere ell. Afbrydere (se i øvrigt
 <sp>elektrisk Kraftoverføring</sp> samt
 <sp>elektrisk Ledningsmateriel</sp>).
-<i>R. J. J.</i></chapter>
+<i>R. J. J.</i>
+</chapter>
 
 <chapter name="elektrisk Elementarkvantum">
 <b>elektrisk Elementarkvantum,</b> se

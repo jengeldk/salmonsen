@@ -53,7 +53,8 @@ Madsen</sp>, »Den kgl. Porcelænsfabrik i forr. Aarh.«
 Grøndahls Porcelænsfabrik 1853-1903«
 [Festskrift] - Illustr., se farvetrykt Tavle
 »Porcelæn«.
-<i>Arn. K.</i></chapter>
+<i>Arn. K.</i>
+</chapter>
 
 <chapter name="Dansk Postblad">
 <b>Dansk Postblad,</b> se <sp>Dansk
@@ -74,7 +75,8 @@ Medlemmer og er en af de Organisationer, over for
 hvilke de under 4. Maj 1910 fastsatte Regler for
 Forhandling mellem Centraladministrationen og
 Etatsorganisationerne kommer til Anvendelse.
-<i>Fr. O.</i></chapter>
+<i>Fr. O.</i>
+</chapter>
 
 <chapter name="Dansk Postforening">
 <b>Dansk Postforening,</b> faglig Organisation
@@ -95,7 +97,8 @@ af de Organisationer, over for hvilke de under
 4. Maj 1910 fastsatte Regler for Forhandling
 mellem Centraladministrationen og
 Etatsorganisationerne kommer til Anvendelse.
-<i>Fr. O.</i></chapter>
+<i>Fr. O.</i>
+</chapter>
 
 <chapter name="Dansk Rajgræs">
 <b>Dansk Rajgræs,</b> se <sp>Bromus</sp>.</chapter>

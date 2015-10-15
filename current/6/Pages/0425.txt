@@ -1,6 +1,7 @@
 D. danner Overgang til <sp>Drejemaskiner</sp>,
 til hvilke for øvrigt henvises.
-<i>F. W.</i></chapter>
+<i>F. W.</i>
+</chapter>
 
 <chapter name="Drejeevne">
 <b>Drejeevne.</b> Et Skibs D. er dets Evne til
@@ -32,7 +33,8 @@ der medgaar til Drejningen.
 Drejningsdiameteren er fra 3-5 Gange Skibets Længde for
 Smaafartøjer og fra 5-10 Gange denne Længde for
 større Skibe.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Drejehage">
 <b>Drejehage,</b> Drejestaal med et c. 600 mm
@@ -45,7 +47,8 @@ begge Hænder fri til at føre Værktøjet mod
 Arbejdsstykket. Alt efter Arbejdets Art
 anvendes <sp>Skrubhage</sp>, <sp>Slethage</sp> ell.
 <sp>Spidshage</sp>.
-<i>F. W.</i></chapter>
+<i>F. W.</i>
+</chapter>
 
 <chapter name="Drejekors">
 <b>Drejekors</b> bruges som selvlukkende
@@ -69,7 +72,8 @@ ikke ubetydeligt Antal D., men disse søges
 fjernede, efterhaanden, naar Lejlighed gives, f.
 Eks. hvor der haves Ekspropriationshjemmel
 som Følge af et Dobbeltsporanlæg.
-<i>J. F.</i></chapter>
+<i>J. F.</i>
+</chapter>
 
 <chapter name="Drejekurve">
 <b>Drejekurve,</b> jernbaneteknisk Betegnelse for
@@ -98,7 +102,8 @@ gentaget Retningsskifte i Bevægelsen. - En
 Sportrekant fremkommer i øvrigt ogsaa, hvor 3
 Baner skal forenes, saaledes at hver af disse
 staar i Forbindelse med begge de andre.
-<i>J. F.</i></chapter>
+<i>J. F.</i>
+</chapter>
 
 <img>
 Fig. 1.</img>

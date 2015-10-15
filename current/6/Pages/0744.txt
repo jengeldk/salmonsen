@@ -73,7 +73,8 @@ Beskrivelser og ypperlige Tegninger].
 <sp>Anatomi</sp>: <sp>Bertkau</sp>, »Archiv f. Naturges.« [1872
 -82]; i øvrigt <sp>Claparède</sp>, <sp>Plateau</sp>,
 <sp>Grenacher</sp>, <sp>Dahl</sp>).
-<i>C. W.-L.</i></chapter>
+<i>C. W.-L.</i>
+</chapter>
 
 <chapter name="Edderkopurt">
 <b>Edderkopurt</b> (<i>Anthericum</i> L., <i>Phalángium</i>
@@ -96,7 +97,8 @@ Højde af c. 70 cm, holder sig til Kratskove og
 blomstrer i Juli. Andre Arter dyrkes som
 Prydplanter. E. formeres ved Deling ell. ved
 Frøudsæd.
-<i>A. M.</i></chapter>
+<i>A. M.</i>
+</chapter>
 
 <chapter name="Eddike">
 <b>Eddike</b> er en Blanding af Eddikesyre og Vand,

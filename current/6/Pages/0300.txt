@@ -13,7 +13,8 @@ D.-Graden mindre. (<sp>Litt</sp>.: <sp>G. Kaufmann</sp>,
 Univ.'s Retshistorie 1479-1879«, I-II [1879];
 »Samling af de for Universitetsforholdene
 gældende Regler« [1884]).
-<i>Cl. W.</i></chapter>
+<i>Cl. W.</i>
+</chapter>
 
 <chapter name="Doktorand">
 <b>Doktorand,</b> se <sp>Doktor</sp>.</chapter>
@@ -49,7 +50,8 @@ af Guizot. Disse Mænds Feltraab var det
 konstitutionelle System paa Grundlag af Ludvig
 XVIII's Charte. <sp>Doktrinarisme</sp>, d. Væsen
 og Handlemaade, Principrytteri.
-<i>Cl. W.</i></chapter>
+<i>Cl. W.</i>
+</chapter>
 
 <chapter name="Dokument">
 <b>Dokument</b> (lat.) bruges undertiden i saa
@@ -146,7 +148,8 @@ mundtlige Erklæring og saaledes i en Lovgivning med
 lovbundne Bevisregler som den danske ikke
 være af megen bevisende Kraft. Om <sp>Kopier</sp>
 (Genparter), se <sp>Afskrift</sp>.
-<i>E. T.</i></chapter>
+<i>E. T.</i>
+</chapter>
 
 <chapter name="Dokumentation">
 <b>Dokumentation</b> (lat.), Bevisførelse, særlig

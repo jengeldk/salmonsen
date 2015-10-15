@@ -1,7 +1,8 @@
 5, 6 og 7 Gange en vilkaarlig valgt
 Længdeenhed. Linierne <i>EC</i> og <i>FD</i> drages parallelle med
 <i>GB</i>; saa er <i>AC</i>, <i>CD</i>, <i>DB</i> de søgte Dele.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Deling">
 <b>Deling,</b> en Benævnelse paa de taktiske
@@ -11,7 +12,8 @@ i Underafdelingen er forsk. I Danmark udgør
 D. som Regel 1/4 af Underafdelingen. Føreren
 for D., der er Løjtnant ell. ældre Underofficer,
 benævnes <sp>Delingsfører</sp>.
-<i>B. P. B.</i></chapter>
+<i>B. P. B.</i>
+</chapter>
 
 <chapter name="Delingsregning">
 <b>Delingsregning</b> ell. <sp>Selskabsregning</sp>
@@ -23,7 +25,8 @@ indbyrdes Forhold som Tallene <i>p</i>, <i>q</i> og <i>r</i>, bliver Delene:
 <i>p</i>/<i>(p+q+r)</i>• a, <i>q</i>/<i>(p+q+r)</i>• a og <i>r</i>/<i>(p+q+r)</i>• a;
 Opgaven løses paa analog Maade for Deling i et
 hvilket som helst andet Antal Dele.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Delingsvæv">
 <b>Delingsvæv,</b> se <sp>Dannelsesvæv</sp>.</chapter>
@@ -37,7 +40,8 @@ Boiotien med et Tempel for den deliske
 Apollon. Under den peloponnesiske Krig (424 f. Kr.)
 tilføjede Boioterne Athenerne et Nederlag
 ved D.
-<i>C. B.</i></chapter>
+<i>C. B.</i>
+</chapter>
 
 <chapter name="Delirant">
 <b>Delirant,</b> en af Delirium angreben Person.</chapter>
@@ -127,7 +131,8 @@ berusende Drikke.
 er en bestemt Form for Sindssygdom, der under
 stærke Delirier forløber akut med dødelig
 Udgang, men i øvrigt ikke er tilstrækkelig kendt.
-<i>(A. F.). H. I. B.</i></chapter>
+<i>(A. F.). H. I. B.</i>
+</chapter>
 
 <chapter name="deliske Problem">
 <b>deliske Problem</b> (<sp>mat</sp>.). Dette Problem,
@@ -156,5 +161,6 @@ Passer og Lineal, men har fundet mange
 tilnærmede Løsninger, saaledes af Archytas,
 Menaichmos, Diokles (se <sp>Kissoiden</sp>),
 Nikomedes (se <sp>Konkoiden</sp>).
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 

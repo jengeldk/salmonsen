@@ -28,7 +28,8 @@ foregaar med samme Kraft som ellers, ell. ved
 Filtlapper, der indskydes mellem Hamrene og
 Strengene o. s. fr. Denne Dæmpning foretages
 ved Hjælp af <sp>Piano-Pedalen</sp>.
-<i>S. L.</i></chapter>
+<i>S. L.</i>
+</chapter>
 
 <chapter name="Dæmpgaarding">
 <b>Dæmpgaarding</b> (<sp>Søv</sp>.), et Tov - Gaarding
@@ -37,7 +38,8 @@ og med hvilket Sejlet hales sammen, naar det
 skal rebes, saaledes at det ikke poser for meget
 ud. D. er vist langs Forkanten af Sejlet, gennem
 en Blok ved Midten af Raaen og til Dæks.
-<i>H. E.</i></chapter>
+<i>H. E.</i>
+</chapter>
 
 <chapter name="Dæmpning, af Bevægelser">
 <b>Dæmpning</b> af Bevægelser foregaar paa flere
@@ -53,7 +55,8 @@ et Kobberhylster, dæmpes ved de inducerede
 Strømmes Virkninger omtr. paa samme Maade
 som ved Luftmodstand. D. af Bølger, se
 <sp>Bølgedæmpning</sp>.
-<i>K. S. K.</i></chapter>
+<i>K. S. K.</i>
+</chapter>
 
 <chapter name="Dæmpning, se elektromagnetiske Svingninger">
 <b>Dæmpning,</b> se <sp>elektromagnetiske

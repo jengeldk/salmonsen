@@ -77,13 +77,15 @@ retskraftige, saa meget mere som Væddemaal i Alm.
 antages at have Retskraft, idet Begrebet Spil
 (»Dobbel« i D. L. 5-14-55) ikke betragtes som
 omfattende Væddemaal.
-<i>(E. M.). C. Th.</i></chapter>
+<i>(E. M.). C. Th.</i>
+</chapter>
 
 <chapter name="Differens">
 <b>Differens</b> (mat.), d. s. s. Forskel. To Tals
 D. er det Tal, som lagt til det ene af Tallene
 giver det andet.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Differensforretning">
 <b>Differensforretning,</b> d. s. s.
@@ -154,7 +156,8 @@ opstillede af Taylor (<i>Methodus incrementorum
 directa et inversa</i> [1715]). Af danske
 Undersøgelser inden for D. maa nævnes Nørlund's
 over Differensligninger.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Differensrække">
 <b>Differensrække</b> (mat.), ogsaa kaldet

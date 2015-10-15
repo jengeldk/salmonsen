@@ -67,7 +67,8 @@ Jouin</sp>, <i>d'A.</i> [Paris 1878]; <sp>V. Pierre</sp>, <i>Un
 mot sur D.</i> [Amiens 1881<i>]; Æuvres complétes.
 Croquis par E. Marc</i> [126 Litografier, Paris
 1856]).
-<i>A. Hk.</i></chapter>
+<i>A. Hk.</i>
+</chapter>
 
 <img>P. J. David.</img>
 
@@ -82,7 +83,8 @@ at de knap undte sig selv Føden. Han blev
 Biskop i Menevia (St Davids). Han helligdømtes
 i 12. Aarh. af Calixt II, hans Festdag er 1.
 Marts.
-<i>L. M.</i></chapter>
+<i>L. M.</i>
+</chapter>
 
 <chapter name="David fra Dinan">
 <b>David</b> <sp>fra Dinan</sp> (<sp>Dinanto</sp>), skolastisk
@@ -98,7 +100,8 @@ aristoteliske Filosofi at kende gennem Avicenna
 og Averrhoës. D. levede i fl. Aar ved Innocens
 III's Hof og skal selv have ment, at hans
 Filosofi godt kunde forenes med Kristendom.
-<i>L. M.</i></chapter>
+<i>L. M.</i>
+</chapter>
 
 <chapter name="David Armenieren">
 <b>David Armenieren,</b> gr. Filosof fra 6. Aarh.,
@@ -108,7 +111,8 @@ er kun bevaret en Indledning til Filosofien og
 Kommentarer til Porphyrios' Indledning til
 Logikken og til Aristoteles' Kategorier; til dels
 eksisterer disse ogsaa paa Armenisk.
-<i>W. N.</i></chapter>
+<i>W. N.</i>
+</chapter>
 
 <chapter name="David Komnenos">
 <b>David Komnenos,</b> den sidste Kejser i
@@ -126,7 +130,8 @@ Konstantinopel; en Tid boede han i Nærheden af
 Seres, men blev senere paa ny ført til
 Konstantinopel, hvor han blev myrdet, da han
 vægrede sig ved at antage Islam.
-<i>H. H. R.</i></chapter>
+<i>H. H. R.</i>
+</chapter>
 
 <chapter name="Davidov, Karl">
 <b>Davidov</b> [da'vid<sub>å</sub>f], <sp>Karl</sp>, russ.

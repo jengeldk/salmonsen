@@ -13,7 +13,8 @@ mod Varmeudstraaling beklædes den med
 isolerende Lag; hertil anvendes Ler og Fæhaar,
 Filt, Asbest, Glasuld, Kiselgur, Lerrør ell.
 Blikrør med Luftisolering o. fl.
-<i>H. P. C.</i></chapter>
+<i>H. P. C.</i>
+</chapter>
 
 <chapter name="Dampmaskine">
 <b>Dampmaskine</b> er en Maskine, der kan

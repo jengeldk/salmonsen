@@ -85,14 +85,16 @@ kan den saaledes føre sit Stamtræ ned til den
 tidlige Middelalders »Grimorium« (s. d.) og den
 rimeligvis endnu ældre <i>Miphtheach Schelomoh</i>,
 »Salomons Nøgle« (s. d.).
-<i>Alfr. L.</i></chapter>
+<i>Alfr. L.</i>
+</chapter>
 
 <chapter name="Cypridina-Lagene">
 <b>Cypridina-Lagene,</b> vidt udbredte Skifere og
 Mergelaflejringer, tilhørende den yngste Del af
 Devonformationen og indeholdende Skallerne af
 en lille Muslingekrebs, Cypridina.
-<i>J. P. R.</i></chapter>
+<i>J. P. R.</i>
+</chapter>
 
 <chapter name="Cypridinidæ">
 <b>Cypridinidæ,</b> Fam. af Ostracodernes Orden
@@ -116,7 +118,8 @@ Cypridiniderne er de ældste nulevende Ostracoder og
 optræder allerede talrig i Cambrium, men
 særlig i Devon- og Kulformationen. Hovedslægter:
 <i>Cypridina</i> og <i>Asterope</i>.
-<i>C. W.-L.</i></chapter>
+<i>C. W.-L.</i>
+</chapter>
 
 <chapter name="Cypridæ">
 <b>Cypridæ,</b> Fam. af Ostracodernes Orden med
@@ -138,7 +141,8 @@ dens Havformer, <i>Bairdia</i> og <i>Candona</i>, er de
 Cyprider ɔ: alle Ferskvandsostracoder gaar kun
 tilbage til Tertiærtiden. Hovedslægter: <i>Cypris</i>,
 <i>Candona</i>.
-<i>C. W.-L.</i></chapter>
+<i>C. W.-L.</i>
+</chapter>
 
 <chapter name="Cyprin">
 <b>Cyprin,</b> se <sp>Vesuvian</sp>.</chapter>

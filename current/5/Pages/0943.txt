@@ -18,13 +18,15 @@ Del geol. Kort over Rhinprovinsen og
 Westfalen samt over hele Tyskland og Nabolandene;
 desuden foreligger fra hans Haand talrige Afh.,
 særlig om Rhinlandenes Geologi.
-<i>J. P. R.</i></chapter>
+<i>J. P. R.</i>
+</chapter>
 
 <chapter name="Dechenit">
 <b>Dechenit</b> [dek<sub>ə</sub>'nit], et Mineral fra
 Rhinbayern, der sandsynligvis er identisk med
 Descloizit.
-<i>O. B. B.</i></chapter>
+<i>O. B. B.</i>
+</chapter>
 
 <chapter name="dechifrere">
 <b>dechifrere</b> [-∫i-], se <sp>Lønskrift</sp>.</chapter>
@@ -35,7 +37,8 @@ Enhedsbenævnelserne i Metersystemet for at
 betegne 1/10 af Enheden, f. Eks. 1 <sp>Decimeter</sp>
 = 1/10 Meter, 1 <sp>Deciliter</sp> = 1/10 Liter o. s.
 v., se <sp>metrisk Maal</sp>.
-<i>(C. V. S.). Th. O.</i></chapter>
+<i>(C. V. S.). Th. O.</i>
+</chapter>
 
 <chapter name="decidere">
 <b>decidere</b> (lat.), afgøre, bestemme.</chapter>
@@ -73,7 +76,8 @@ Slimhinde til D., der da ofte udstødes som en
 sammenhængende Sæk ell. Hinde. Undertiden
 benævnes Slimhinden i Livmoderen paa
 Menstruationsblødningens Tid <i>D. menstrualis</i>.
-<i>Lp. M.</i></chapter>
+<i>Lp. M.</i>
+</chapter>
 
 <chapter name="Decigram">
 <b>Decigram,</b> 1/10 g, se <sp>metrisk Maal</sp>.</chapter>
@@ -145,7 +149,8 @@ Eks. 3,793 som 3<sup>0</sup>7<sup>1</sup>9<sup>2</sup>3<sup>3</sup>, og Bürgi b
 vor Betegnelse: et Komma ell. en Prik. I
 Danmark indførtes D. ved Christoffer Dybvad's
 Regnebog (1602) med Stevin's Betegnelser.
-<i>Chr. C.</i></chapter>
+<i>Chr. C.</i>
+</chapter>
 
 <chapter name="Decimalgrad">
 <b>Decimalgrad,</b> paa Fransk <i>dégré décimal</i>,
@@ -154,7 +159,8 @@ Metersystemets Indførelse antagne Længde af
 Jordmeridiankvadranten ɔ: af Afstanden fra
 Polen til Ækvator maalt langs Havets Overflade,
 se <sp>metrisk Maal</sp>.
-<i>(C. V. S.). Th. O.</i></chapter>
+<i>(C. V. S.). Th. O.</i>
+</chapter>
 
 <chapter name="Decimalsystemet">
 <b>Decimalsystemet,</b> Tidelingssystemet. I D.

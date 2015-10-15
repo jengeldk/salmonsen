@@ -6,7 +6,8 @@ Anklageren, <i>le procureur de la république</i>, som
 Undersøgelsesdommeren, <i>le juge d'instruction</i>, hører,
 og nogen Sondring mellem E. og retslig
 Forundersøgelse forekommer ikke.
-<i>E. T.</i></chapter>
+<i>E. T.</i>
+</chapter>
 
 <chapter name="Efterfrist">
 <b>Efterfrist,</b> en yderligere Frist, som efter at
@@ -20,7 +21,8 @@ erklæret ikke at ville levere Varen. Inden Krav
 paa Skadeserstatning for en udeblevet Ydelse
 fremsættes, er det ikke ualmindeligt at
 indrømme E.
-<i>C. Th.</i></chapter>
+<i>C. Th.</i>
+</chapter>
 
 <chapter name="Efterfølgelse">
 <b>Efterfølgelse,</b> se <sp>Kristi

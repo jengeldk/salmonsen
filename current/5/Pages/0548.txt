@@ -48,7 +48,8 @@ fik han dog ved sin Ledelse af Bergens Mus.,
 hvis Samlinger først ved den under hans
 Ledelse foretagne Omordning og Fornyelse vandt
 virkelig videnskabelig Værdi.
-<i>R. H. S.</i></chapter>
+<i>R. H. S.</i>
+</chapter>
 
 <chapter name="Danielsson, Anders">
 <b>Danielsson,</b> <sp>Anders</sp>, sv. Rigsdagsmand
@@ -96,7 +97,8 @@ paa Randen af en økonomisk Ruin, der dog
 afværgedes ved Venners Mellemkomst. D. er en
 af de mest indflydelsesrige
 Almuerepræsentanter, Sverige nogen Sinde har ejet.
-<i>A. M. D.</i></chapter>
+<i>A. M. D.</i>
+</chapter>
 
 <chapter name="Danielsson, Axel Ferdinand">
 <b>Danielsson,</b> <sp>Axel Ferdinand</sp>, sv.
@@ -122,7 +124,8 @@ og paa Kongressen i Sthlm 1897 redigerede han
 Partiets Program for de kommende Aar. D. var
 den egl. Banebryder for Socialdemokratiet i
 Sverige og en af dets betydeligste Mænd.
-<i>K. V. H.</i></chapter>
+<i>K. V. H.</i>
+</chapter>
 
 <chapter name="Danielsson, Olof August">
 <b>Danielsson,</b> <sp>Olof August</sp>, sv. Filolog og
@@ -138,7 +141,8 @@ mærkes <i>Studia grammatica</i> (Upsala 1879),
 har han været med til at lede Udgivelsen af
 det omfattende Værk <i>Corpus inscriptionum
 Etruscarum</i>.
-<i>H. H. R.</i></chapter>
+<i>H. H. R.</i>
+</chapter>
 
 <chapter name="Daniel Stern">
 <b>Daniel Stern</b> [da'n<sub>i</sub>æl-'stærn], se <sp>Agoult</sp>.</chapter>

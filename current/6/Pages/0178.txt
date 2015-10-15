@@ -6,7 +6,8 @@ Tilbageløbskøler, som fortætter
 Vædskedampene og leder dem tilbage til Kolben. Foretages
 en lgn. Ekstraktion ved en Temp. af 15°-25°,
 kaldes den <sp>Maceration</sp>.
-<i>K. M.</i></chapter>
+<i>K. M.</i>
+</chapter>
 
 <chapter name="Digermulen">
 <b>Digermulen</b> er et i Norge temmelig hyppigt
@@ -22,19 +23,22 @@ opført en Turisthytte. Stedet ligger ved den
 søndre Indsejling til det kendte Raftsund; 3) D. i
 Tanafjorden, den 627 m høje Pynt mellem
 Tanafjorden og Langfjorden.
-<i>(J. F. W. H.). M. H.</i></chapter>
+<i>(J. F. W. H.). M. H.</i>
+</chapter>
 
 <chapter name="Digerronden">
 <b>Digerronden,</b> en af Rondanes højeste
 Toppe, c. 2000 m, paa Grænsen mellem Kristians
 og Hedemarkens Amter.
-<i>M. H.</i></chapter>
+<i>M. H.</i>
+</chapter>
 
 <chapter name="Digerudgrunden Fyr">
 <b>Digerudgrunden Fyr</b> ligger paa Højde
 med Nordspidsen af Haaöen ved Indsejlingen
 til Kria.
-<i>M. H.</i></chapter>
+<i>M. H.</i>
+</chapter>
 
 <chapter name="Digervarden">
 <b>Digervarden,</b> c. 1750 m paa Sydsiden af
@@ -45,7 +49,8 @@ er kendt for den storartede Udsigt, som omfatter
 en stor Del af Jotunheimen med Galdhøpiggen
 og Horungerne samt V. over mod
 Jostedalsbræen med Lodalskaabe.
-<i>(J. F. W. H.). M. H.</i></chapter>
+<i>(J. F. W. H.). M. H.</i>
+</chapter>
 
 <chapter name="Digesmutte">
 <b>Digesmutte.</b> Til de talrige Underfamilier,
@@ -118,7 +123,8 @@ Tilbageløbskøler, som fortætter
 Vædskedampene og leder dem tilbage til Kolben. Foretages
 en lgn. Ekstraktion ved en Temp. af 15°-25°,
 kaldes den <sp>Maceration</sp>.
-<i>K. M.</i></chapter>
+<i>K. M.</i>
+</chapter>
 
 <chapter name="Digermulen">
 <b>Digermulen</b> er et i Norge temmelig hyppigt
@@ -134,19 +140,22 @@ opført en Turisthytte. Stedet ligger ved den
 søndre Indsejling til det kendte Raftsund; 3) D. i
 Tanafjorden, den 627 m høje Pynt mellem
 Tanafjorden og Langfjorden.
-<i>(J. F. W. H.). M. H.</i></chapter>
+<i>(J. F. W. H.). M. H.</i>
+</chapter>
 
 <chapter name="Digerronden">
 <b>Digerronden,</b> en af Rondanes højeste
 Toppe, c. 2000 m, paa Grænsen mellem Kristians
 og Hedemarkens Amter.
-<i>M. H.</i></chapter>
+<i>M. H.</i>
+</chapter>
 
 <chapter name="Digerudgrunden Fyr">
 <b>Digerudgrunden Fyr</b> ligger paa Højde
 med Nordspidsen af Haaöen ved Indsejlingen
 til Kria.
-<i>M. H.</i></chapter>
+<i>M. H.</i>
+</chapter>
 
 <chapter name="Digervarden">
 <b>Digervarden,</b> c. 1750 m paa Sydsiden af
@@ -157,7 +166,8 @@ er kendt for den storartede Udsigt, som omfatter
 en stor Del af Jotunheimen med Galdhøpiggen
 og Horungerne samt V. over mod
 Jostedalsbræen med Lodalskaabe.
-<i>(J. F. W. H.). M. H.</i></chapter>
+<i>(J. F. W. H.). M. H.</i>
+</chapter>
 
 <chapter name="Digesmutte">
 <b>Digesmutte.</b> Til de talrige Underfamilier,
