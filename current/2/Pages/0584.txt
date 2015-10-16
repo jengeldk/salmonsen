@@ -5,7 +5,7 @@ Kolera (<i>Microspira comma</i> ell. <i>Vibrio choleræ</i>, Tavlen Fig. 11),
 Pest (<i>Bac. pestis</i>, Tavlen Fig. 6 og Tekst-Fig. 2),
 Diarréer (<i>Bac. coli</i>),
 Stivkrampe (<i>Bac. tetani</i>, Tavlen Fig. 10),
-Kighoste (<i>Bac. pertussis</i>), 
+Kighoste (<i>Bac. pertussis</i>),
 Syfilis (<i>Spirochæte pallida</i>, Tavlen Fig. 15),
 Gonorré (<i>Microc. gonorrhoeæ</i>, Tavlen Fig. 5),
 Miltbrand (<i>Bac. anthracis</i>, Tavlen Fig 9),
@@ -80,7 +80,7 @@ Materie (Pus), der skyldes Betændelsesbakterier,
 gul, rød og blaa Mælk, der skyldes henh.
 <i>Bac. synxanthum</i>, <i>erythrogenes</i> og <i>syncyaneum</i>,
 og de paa forsk. Substrater optrædende grønt
-fluorescerende B. (<i>Bac. fluorescens</i>) samt 
+fluorescerende B. (<i>Bac. fluorescens</i>) samt
 <i>Bac. pyocyaneus</i>, der danner et blaat Farvestof.
 I næsten alle Tilfælde dannes disse Farvestoffer
 som Stofskifteprodukter uden for Cellerne, og

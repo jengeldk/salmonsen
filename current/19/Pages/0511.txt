@@ -112,7 +112,7 @@ Bred af Loire og Lyon-Banen, NNV. f. Nevers,
 </chapter>
 
 <chapter name="Poul">
-<b>Poul,</b> <sp>Paver</sp>, se <sp>Paul</sp>. 
+<b>Poul,</b> <sp>Paver</sp>, se <sp>Paul</sp>.
 </chapter>
 
 <chapter name="Poularde">

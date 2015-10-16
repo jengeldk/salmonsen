@@ -15,7 +15,7 @@
 <td><i>Justitspalads</i><td r>D 3
 <td><i>Kolosseum</i><td r>G 7
 <td><i>Museo Capitolino</i><td r>E F 6
-<td><i>Museo Urbano</i><td r>G 8 
+<td><i>Museo Urbano</i><td r>G 8
 <td><i>Museo Vaticano di Belvedero</i><td r>A 2
 <td><i>Palazzo Altieri</i><td r>E 5
 <td>— <i>Barberini</i><td r>G 4

@@ -107,7 +107,7 @@ an.
 
 <chapter name="Petroleumsmaskine">
 <b>Petroleumsmaskine,</b> d. s. s.
-<sp>Petroleumsmotor</sp>. 
+<sp>Petroleumsmotor</sp>.
 </chapter>
 
 <chapter name="Petroleumsmotor">

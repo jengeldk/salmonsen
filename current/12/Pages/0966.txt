@@ -42,7 +42,7 @@ Længde af de i Drift værende Jernbaner ved Slutningen af Aar:
 <td>Malajiske Stater (Borneo, Celebes)<td r>—<td r>—<td r>—<td r>—<td r>13<td r>140<td r>719<td r>1219<td r>1380<td r>1.6<td r>19.2<td r>1380
 <td r>Asien<td r>—<td r>350<td r>5489<td r>11332<td r>22285<td r>43375<td r>81421<td r>101916<td r>108147<td r>—<td r>—<td r>114123
 <td>
-<td><i>Afrika</i>: 
+<td><i>Afrika</i>:
 <td>Ægypten<td r>—<td r>144<td r>477<td r>1494<td r>1500<td r>2027<td r>5204<td r>5913<td r>5946<td r>0.6<td r>5.3<td r>6375
 <td>Algier og Tunis<td r>—<td r>—<td r>50<td r>606<td r>2061<td r>3301<td r>4906<td r>5044<td r>6382<td r>0.7<td r>9.5<td r>6791
 <td>Sydafrikanske Union<td r>—<td r>—<td r>106<td r>354<td r>2979<td r>6569<td r>7950<td r>11996<td r>13756<td r>—<td r>—<td r>14114

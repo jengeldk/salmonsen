@@ -42,7 +42,7 @@ Damptrykket som Regel med <i>E</i>.
 4) <sp>Den relative F.</sp> ell.
 <sp>Fugtighedsgraden</sp> betegner Forholdet mellem det
 tilstedeværende Damptryk (<i>e</i>) og Damptrykket <i>E</i>
-af mættet Vanddamp ved den forhaandenværende 
+af mættet Vanddamp ved den forhaandenværende
 Luft temperatur. Den relative F.
 angives som Regel i %.
 
@@ -137,14 +137,14 @@ Der er herefter Minima i den relative F. paa
 c. 30°, saavel nordlig som sydlig Bredde.
 
 F. aftager gennemsnitlig i Højden i et
-stærkere Forhold end Temp. Kaldes Dampspændingen 
+stærkere Forhold end Temp. Kaldes Dampspændingen
 ved Jordoverfladen <i>l<sub>o</sub></i> og Dampspændingen
 i <i>h</i> m Højde over Jorden for <i>e<sub>h</sub></i> vil Formlerne
 
-<i>e<sub>h</sub></i> = 
-<i>l<sub>o</sub></i>*10-<i>h</i>/6300                                  
+<i>e<sub>h</sub></i> =
+<i>l<sub>o</sub></i>*10-<i>h</i>/6300
 og
-<i>e<sub>h</sub></i> = 
+<i>e<sub>h</sub></i> =
 <i>l<sub>o</sub></i>*10-<i>h</i>/5000
 
 tilnærmelsesvis gælde henh. for Luften i

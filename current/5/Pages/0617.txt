@@ -42,7 +42,7 @@ følgende (Bestuvning i Reg.-Tons):
 <td><td>Antal Farter<td>Bestuvning<td>Antal Farter<td>Bestuvning<td>Antal Farter<td>Bestuvning
 <td>Sejlskibe<td r>22000<td r>320000<td r>17000<td r>220000<td r>15000<td r>180000
 <td>Dampskibe<td r>19000<td r>700000<td r>16000<td r>460000<td v2 r>}10000<td v2 r>20000
-<td>Færger<td r>60000<td r>1160000<td r>50000<td r>540000 
+<td>Færger<td r>60000<td r>1160000<td r>50000<td r>540000
 </table>
 
 Man vil særlig bemærke Stigningen i den

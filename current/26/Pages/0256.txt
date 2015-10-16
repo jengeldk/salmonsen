@@ -47,7 +47,7 @@ Oversigt:
 <td r>10—<td r>25000<td c>—<td r>19,9<td r>9,3<td r>2,4<td r>1,6
 <td r>25—<td r>50000<td c>—<td r>14,5<td r>8,5<td r>3,9<td r>2,1
 <td r>50—<td r>100000<td c>—<td r>10,8<td r>9,3<td r>5,7<td r>2,4
-<td r>100—<td r>200000<td c>—<td r>6,7<td r>9,0<td r>7,2<td r>3,1 
+<td r>100—<td r>200000<td c>—<td r>6,7<td r>9,0<td r>7,2<td r>3,1
 <td r>200—<td r>500000<td c>—<td r>4,5<td r>10,4<td r>11,1<td r>6,3
 <td r>182—<td r>1 Mill.<td c>—<td r>1,8<td r>7,0<td r>9,7<td r>7,4
 <td r>1—<td r>10  —<td c>—<td r>1,3<td r>17,8<td r>26,1<td r>25,7

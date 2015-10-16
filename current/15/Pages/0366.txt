@@ -15,7 +15,7 @@ Af andre uægte skal nævnes: Den
 hvilken hvert Punkt afsættes i den rigtige
 Afstand og Retning fra Kortets Midtpunkt. Er
 dette Midtpunkt en af Polerne, bliver
-Meridianerne rette Linier med rigtig Længde, 
+Meridianerne rette Linier med rigtig Længde,
 medens Parallellerne, der er koncentriske Cirkler
 med lige store Afstande, bliver mere og mere
 for store, efterhaanden som man fjerner sig

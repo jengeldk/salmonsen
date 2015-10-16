@@ -108,8 +108,8 @@ af flg. Tabel:
 
 <table>
 <td>1<td>Maaned<td>i 67°<td r>23'<td>Br.
-<td>2<td>Maaneder<td>i 69°<td r>5l'<td c>-   
-<td>3<td c>-<td>i 73°<td r>40'<td c>-   
+<td>2<td>Maaneder<td>i 69°<td r>5l'<td c>-
+<td>3<td c>-<td>i 73°<td r>40'<td c>-
 <td>4<td>Maaneder<td>i 78°<td r>11'<td>Br.
 <td>5<td c>-<td>i 84°<td r>5'<td c>-
 <td>6<td c>-<td>i 90°<td r>0'<td c>-

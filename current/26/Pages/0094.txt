@@ -83,7 +83,7 @@ følgende Landsdele:
 <td>Ny Syd Wales<td r> 801396<td r>2100371
 <td>Victoria<td r>227610<td r>1531280
 <td>Queensland<td r>1736524<td r>755972
-<td>Sydaustralien<td r>984341<td r>495160 
+<td>Sydaustralien<td r>984341<td r>495160
 <td>Vestaustralien<td r>2527530<td r>332732
 <td>Tasmanien<td r>67894<td r>213780
 <td>Nordterritoriet<td r>1356120<td r>3867

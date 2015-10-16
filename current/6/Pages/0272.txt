@@ -131,7 +131,7 @@ Affyringen kunde stilles hen foran Laasen.
 </chapter>
 
 <chapter name="Dobbeltforhold">
-<b>Dobbeltforhold</b> (<sp>mat</sp>.). Ved D. eller 
+<b>Dobbeltforhold</b> (<sp>mat</sp>.). Ved D. eller
 <sp>anharmonisk Forhold</sp> mellem 4 Punkter
 <i>a b c d</i> paa en ret Linie, paa hvilken
 Længder regnes med Fortegn (se <sp>Geometri</sp>),

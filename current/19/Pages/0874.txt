@@ -51,7 +51,7 @@ Selektivitet og <i>s</i> Forstemningen.
 
 Forholdet mellem Amplituden <i>J<sub>1m</sub></i> af
 Strømmen <i>i<sub>1</sub></i> i Traadrullen og Strømamplituden <i>J<sub>m</sub></i>
-i Tilledningen er bestemt ved 
+i Tilledningen er bestemt ved
 <i>I<sub>1m</sub></i>/<i>I<sub>m</sub></i> = 1/<i>R</i> √<i>L/C</i> · 1/√1+(2π<i>s</i>/δ)<sup>2</sup> = 1/<i>R</i> √<i>L/C</i> · 1/ √1+<i>s<sup>2</sup></i> <i>S<sup>2</sup></i>.
 
 I Tilfælde af Resonans — altsaa for <i>h</i> = ω

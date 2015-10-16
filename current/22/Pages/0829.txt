@@ -86,7 +86,7 @@ Tilnærmelse være lig den relative Formindskelse
 <i>An—An+1/An</i> af paa hinanden følgende Udsving).
 Udtrykt ved de ovenfor indførte Størrelser er
 δ = <i>μT1/2m</i>, og Udslaget kan ved Hjælp af δ
-skrives paa Formen <i>x</i> = <i>a e</i> <i>—δt/T1</i> <i>sin</i> (<i>2πt/T1</i> 
+skrives paa Formen <i>x</i> = <i>a e</i> <i>—δt/T1</i> <i>sin</i> (<i>2πt/T1</i>
  φ).
 For Svingningstiden <i>T1</i> ved dæmpede
 harmoniske Svingninger har man Udtrykket <i>T1</i> =

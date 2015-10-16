@@ -84,7 +84,7 @@
 
 <table>
 <td 5 c><sp>BIND XII</sp>.
-<td>Side<td>Sp. 
+<td>Side<td>Sp.
 <td r>3,<td c>1,<td>Linie<td r>13 f. n.<td><sp>Inddelningsverket</sp> læs: <sp>Indelningsverket</sp>
 <td r>59,<td c>1,<td>Linie<td r>3 f. o.<td><i>F. R. K.</i> læs: <i>F. K. R.</i>
 <td r>118,<td c>1,<td c>—<td r>6 f. o.<td>i læs: fra

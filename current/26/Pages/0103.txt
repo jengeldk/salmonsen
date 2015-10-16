@@ -68,7 +68,7 @@ Varer kaldes <sp>Hessians</sp>.
 
 <chapter name="Bagindien">
 <b>Bagindien</b> bestaar af:
-<table> 
+<table>
 <td><td c>km<sup>2</sup><td c>Indb.
 <td>Birma<td r>605277<td r>13212192<td>(1921)
 <td>Straits Settlements<td r>4146<td r>883769<td>(1921)
@@ -300,5 +300,5 @@ ogsaa undersøgt Fordelingsloven for Stjerner i
 kugleformede Hobe. Hans Arbejder er
 publicerede i <i>Annals of the Harvard College
 Observatory</i>.
-<i>J. M. V. H.</i> 
+<i>J. M. V. H.</i>
 </chapter>

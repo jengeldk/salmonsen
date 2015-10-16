@@ -87,7 +87,7 @@ Millioner Kroner).
 <td>Metaller, raa og halvforarbejdede<td r>93,6<td r>15,1<td r>123,6<td r>40,4<td r>33,5<td r>38,1
 <td>Metaller i Arbejde<td r>159,3<td r>4,6<td r>186,5<td r>8,2<td r>84,8<td r>3,5
 <td>Skibe, Vogne, Maskiner etc.<td r>304,2<td r>33,3<td r>585,6<td r>52,4<td r>382,1<td r>29,6
-<td>Varer, som ikke kan henføres til nogen af de ovenstaaende Grupper<td r>37,9<td r>0,9<td r>48,8<td r>1,2<td r>22,8<td r>1,0 
+<td>Varer, som ikke kan henføres til nogen af de ovenstaaende Grupper<td r>37,9<td r>0,9<td r>48,8<td r>1,2<td r>22,8<td r>1,0
 <td r>Tilsammen<td r>2583,7<td r>739,3<td r>3033,2<td r>1185,0<td r>1463,5<td r>605,3
 <td>Genudførsel af fremmede Varer<td r><td r>42,8<td r><td r>61,6<td r><td r>32,7
 <td r>Udførsel tilsammen<td r><td r>782,1<td r><td r>1246,6<td r><td r>638,0

@@ -22,7 +22,7 @@
 
 <table>
 <td 5 c><sp>BIND XII</sp>.
-<td>Side<td>Sp. 
+<td>Side<td>Sp.
 <td r>3,<td c>1,<td>Linie<td r>13 f. n.<td><sp>Inddelningsverket</sp> læs: <sp>Indelningsverket</sp>
 <td r>59,<td c>1,<td>Linie<td r>3 f. o.<td><i>F. R. K.</i> læs: <i>F. K. R.</i>
 <td r>118,<td c>1,<td c>—<td r>6 f. o.<td>i læs: fra
@@ -67,7 +67,7 @@
 
 <table>
 <td 5 c><sp>BIND XIII</sp>.
-<td>Side<td>Sp. 
+<td>Side<td>Sp.
 <td r>128,<td c>1,<td>Linie<td r>24 f. o.<td><sp>Magni</sp> læs: <sp>Magnus</sp>
 <td r>175,<td c>2,<td c>—<td r>25 f. o.<td><sp>hilþir</sp> læs: <sp>hilpir</sp>
 <td r>222,<td c>1,<td c>—<td r>7 f. n.<td>1849 læs: 1850

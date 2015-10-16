@@ -15,7 +15,7 @@
 <td>Udenfor Trossamfundene<td r>9434<td r>3310<td r>12744
 <td r>I alt<td r>33292<td r>34167<td r>67459
 </table>
-<sp>Gifte og Ugifte</sp>. 
+<sp>Gifte og Ugifte</sp>.
 I ægteskabelig Henseende fordelte Befolkningen sig i 1921 saaledes:
 <table>
 <td c><sp>Mænd</sp>.<td c>Ugifte<td c>Gifte<td c>Enkestand<td c>Separerede<td c>Fraskilte<td c>Uangivet<td c>Ialt
@@ -35,7 +35,7 @@ I ægteskabelig Henseende fordelte Befolkningen sig i 1921 saaledes:
 <td r>I alt<td r>1879555<td r>1191033<td r>177626<td r>7667<td r>9097<td r>2853<td r>3267831
 </table>
 
-<sp>Erhvervsforhold.</sp> 
+<sp>Erhvervsforhold.</sp>
 Befolkningens Fordeling efter Erhverv var 1921 saaledes:
 <table>
 <td><td>Hovedstaden<td>Provinsbyerne<td>Landdistrikterne<td>Hele Landet
@@ -53,7 +53,7 @@ Befolkningens Fordeling efter Erhverv var 1921 saaledes:
 <td r>I alt<td r>700610<td r>717941<td r>1849280<td r>3267831
 </table>
 
-<sp>Abnorme Individer</sp>. 
+<sp>Abnorme Individer</sp>.
 Ved Folketællingen i 1921 var Antallet af
 <table>
 <td><td>Mænd<td>Kvinder<td>Tilsammen

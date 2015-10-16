@@ -116,7 +116,7 @@ Termometervædske.
 
 <chapter name="Réaumurs Porcelæn">
 <b>Réaumurs Porcelæn</b> [reå'my.rs-], se
-<sp>Afglasning</sp>. 
+<sp>Afglasning</sp>.
 </chapter>
 
 <chapter name="Réaumur-Termometer">

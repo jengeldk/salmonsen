@@ -47,7 +47,7 @@ Atlanterhavet skærer sig ind i Nordamerikas
 Østside og adskiller Halvøen Ny-Skotland (Nova
 Scotia) fra Ny-Brunswick. Dens Længde er ca.
 280 km, og Bredden varierer mellem 40 og 80
-km. Mod N. spalter den sig i to Vige, 
+km. Mod N. spalter den sig i to Vige,
 <sp>Chignectobay</sp> og <sp>Mines Basin</sp>. Østkysten er
 højere end Vestkysten, der dog har de fleste
 Indskæringer. I Mundingen ligger Øen <sp>Grand
@@ -193,6 +193,6 @@ phys. Chemie« (1853, 2. Op. 1858).
 
 <chapter name="Funklen">
 <b>Funklen</b> (<sp>Scintillation</sp>, <sp>Blinken</sp>)
-kalder man de skælvende og svajende Bevægelser 
+kalder man de skælvende og svajende Bevægelser
 hos Stjernerne, de hurtige, ofte med livlig
 Farveveksel forbundne Ændringer i deres

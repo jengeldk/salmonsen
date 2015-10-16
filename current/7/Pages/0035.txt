@@ -21,7 +21,7 @@ Overkul rund Stang 20 mm i Gennemsnit.
 <table>
 <td v2>Tværsnitsareal 3,14 cm<sup>2</sup>. Strømtæthed<td c>10<td v2>= 3,2.
 <td c>3,14
-</table> 
+</table>
 Det negative Kuls Tværsnitsareal er c. halvt
 saa stort som det positives.
 

@@ -33,7 +33,7 @@ Instrumenter skyldes W.
 
 <chapter name="vita ante acta">
 <b>vita ante acta</b> (lat.), det Liv, man hidtil
-har ført. 
+har ført.
 </chapter>
 
 <chapter name="vita brevis, ars longa">

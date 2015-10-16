@@ -88,7 +88,7 @@ paa Kondensatoren og Strømamplituden <i>J<sub>m</sub></i> er
 bestemt ved:
 
 <i>Q<sub>m</sub></i> = <i>E<sub>m</sub></i>/ω <i>R</i> √1 + (1/C—ω <i>L</i>/ω <i>r</i>)<sup>2</sup>
-og 
+og
 <i>I<sub>m</sub></i> = <i>E<sub>m</sub></i>/<i>R</i> √1 + (1/C—ω <i>L</i>/ω <i>r</i>)<sup>2</sup>.
 
 Den Effekt, <i>P</i>, der tilføres Kredsen, er

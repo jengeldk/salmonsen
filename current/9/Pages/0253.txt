@@ -31,7 +31,7 @@ Forsøg paa at skabe et Udtryk for den
 Varmemængde, som fordres af en Plante for at naa
 en vis Udviklingsfase, idet han adderede
 Middeltemperaturen for alle Dage fra Aarets Beg.
-til Fasens Indtræden. Denne <sp>Temperatursum</sp> 
+til Fasens Indtræden. Denne <sp>Temperatursum</sp>
 skulde da være karakteristisk for vedk.
 Fænomen. Andre Forskere forsøgte at udelade
 Temp. under 0°, da disse kun bevirker en
@@ -41,14 +41,14 @@ med i Regningen med deres negative Værdi.
 Planter maatte gaa ud fra forsk. <sp>specifiske
 Nulpunkter</sp>, som muligvis kunde ligge højt
 over 0°. Allte Temp. under dette skulde da
-udelades ved Beregningen af Temperatursummen. 
+udelades ved Beregningen af Temperatursummen.
 For Kornsorternes Vedk. antog han som
 specifisk Nulpunkt Middeltemp. for deres
 Spiringstid, saaledes for Byg 5°, for Hvede 6°.
 <sp>Oettingen</sp> beregnede Temperatursummer
 for samme Fænomen ud fra fl. forsk. specifiske
 Nulpunkter og fandt derved den Værdi for
-Nulpunktet, som gav den mindste Middelafvigelse 
+Nulpunktet, som gav den mindste Middelafvigelse
 for de enkelte Aars Temperatur summer, og
 denne Værdi ansaa han for den rigtige. Dersom
 f. Eks. for Blomstringen af Hæg (<i>Prunus Padus</i>)
@@ -60,7 +60,7 @@ Middelafvigelsen større.
 
 Dersom man sammenligner det samme
 Fænomens Indtræden paa forsk. Steder, viser der
-sig store Forskelligheder i Temperatursummerne, 
+sig store Forskelligheder i Temperatursummerne,
 idet Fænomenet i en Egn med varmere
 Klima fordrer langt større Temperatursum end
 i Egne med koldt Klima. <sp>Linsser</sp> har

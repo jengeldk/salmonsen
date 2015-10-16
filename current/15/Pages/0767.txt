@@ -43,7 +43,7 @@ Girard</sp>, <i>Textes de droit romain</i> (Paris 1889—90,
 
 <chapter name="lex Alamannorum">
 <b>lex Alamannorum,</b> se <sp>leges
-Alamannorum</sp>. 
+Alamannorum</sp>.
 </chapter>
 
 <chapter name="lex Angliorum et Werinorum">

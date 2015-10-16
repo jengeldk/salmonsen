@@ -19,7 +19,7 @@ mellem Vanddampenes Maksimaltryk <i>P<sub>1</sub></i> ved Temp.
 nærmeste er 0,0008 (<i>t—t<sub>1</sub></i>) <i>H</i>, hvor <i>H</i> er Lufttrykket
 i mm Kvægsølv. Sædvanligvis betjener man sig
 dog af Tabeller, der gaar i Handelen, og som
-indeholder Oplysning om, hvad Fugtighedsgraden 
+indeholder Oplysning om, hvad Fugtighedsgraden
 og den absolutte Fugtighed er, naar det
 vaade og det tørre Termometer viser saadan
 og saadan.
@@ -28,11 +28,11 @@ Medens August's Psykrometer kan eftergøres
 paa mangfoldige Maader, naar man blot har to
 Termometre til Disposition, er de Erfaringer,
 man har faaet vedrørende denne Art af
-Maalinger, udkrystalliseret i Bygningen af 
+Maalinger, udkrystalliseret i Bygningen af
 <sp>Assmann's Aspirations-Psykrometer</sp>
 (Fig. 4). Dette Apparat har faaet en betydelig
 Udbredelse, idet det giver gode Maalinger
-under meget forsk. Vejrforhold, og det bliver 
+under meget forsk. Vejrforhold, og det bliver
 almindeligvis betragtet som et meteorologisk
 Normalinslrument. Apparatet bestaar af et
 Metalhus <i>t</i>, hvori der er anbragt et Urværk, der
@@ -40,12 +40,12 @@ driver en Ventilator, som tjener til at suge
 Luften op gennem Røret <i>g</i> med de to
 Forgreninger <i>d—d</i> og slynge Luften ud gennem
 Aabningerne <i>u</i>. Luften, der saaledes suges gennem
-Apparatet, stryger forbi de to Termometerkugler, 
+Apparatet, stryger forbi de to Termometerkugler,
 der rager ned i Rørforgreningerne <i>d—d</i>
 med en konstant Hastighed paa c. 3 m/sec. Paa
 Fig. er den ene Termometerkugle synlig, idet
 en Del af Rørvæggen er tænkt fjernet, og det
-ses, at Røret her er dobbelt; dels p. Gr. a. 
+ses, at Røret her er dobbelt; dels p. Gr. a.
 denne Beskyttelse og dels fordi Apparatet helt
 igennem er forniklet med Højglans, paavirkes
 det ikke kendeligt selv i stærkt Solskin, hverken

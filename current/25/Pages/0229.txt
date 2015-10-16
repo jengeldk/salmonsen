@@ -11,7 +11,7 @@
 
 <chapter name="Vindmaaling">
 <b>Vindmaaling,</b> Maaling af Vindens Styrke og
-Retning. 
+Retning.
 </chapter>
 
 <chapter name="Vindmotor">

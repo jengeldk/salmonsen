@@ -17,7 +17,7 @@ perspektivisk Billede til Genstanden selv, maa man
 kende Øjepunktets Stilling til Billedplanen; denne
 angives ved Øjepunktets retvinklede Projektion
 paa Billedplanen, <sp>Hovedpunktet</sp>, samt
-ved Øjepunktets Afstand fra Billedplanen, 
+ved Øjepunktets Afstand fra Billedplanen,
 <sp>Distancen</sp>. En ret Linies Billede indeholder
 Billedplanens Skæringspunkt med en Sestraale
 parallel med Linien, hvilket kaldes liniens
@@ -143,7 +143,7 @@ Farvevirkninger.
 <i>A. Hk.</i>
 
 <b>per stirpes</b> (lat.). efter Grene ell. Linier,
-se <sp>in stirpes</sp>. 
+se <sp>in stirpes</sp>.
 <i>H. H. R.</i>
 
 <b>Persuis</b> [pær'syi], <sp>Louis Loiseau de</sp>,

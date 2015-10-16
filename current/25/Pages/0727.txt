@@ -129,4 +129,4 @@ at faa Høst 5 Gange i Løbet af 3 Aar:
 <td>Ris eller<br>Majs eller<br>Brak<td>Juni<br>Juli<br>August<br>September<br>Oktober
 <td v2>Bersim<br>(Kløver).<td>November<br>December<br>
 <td>Januar<br>Februar<td>1. Aar
-</table> 
+</table>

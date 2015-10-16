@@ -10,7 +10,7 @@
 <td>Side<td r>22,<td>Spalte<td>2,<td>Linie<td r>20 f. o.<td v7>ell. st. E. læs: elst. E. (ɔ: elektrostatiske Enheder)
 <td c>—<td r>23,<td c>—<td>1,<td c>—<td r>34 f. o.
 <td c>—<td r>23,<td c>—<td>1,<td c>—<td r>35 f. o.
-<td c>—<td r>23,<td c>—<td>1,<td c>—<td r>28 f. n. 
+<td c>—<td r>23,<td c>—<td>1,<td c>—<td r>28 f. n.
 <td c>—<td r>23,<td c>—<td>1,<td c>—<td r>17 f. n.
 <td c>—<td r>23,<td c>—<td>1,<td c>—<td r>14 f. n.
 <td c>—<td r>23,<td c>—<td>1,<td c>—<td r>2 f. n.

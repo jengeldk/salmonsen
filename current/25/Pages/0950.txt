@@ -2,7 +2,7 @@
 <td>Side<td>Sp.
 <td r>85,<td c>2,<td>Linie<td r>26 f. o.<td>f. 1728 i Neapel, d. 1807 læs: f. 1721 i Neapel, d. 1808
 <td r>136,<td c>1,<td>Linie<td r>17 f. o.<td>Laksesildfiskeriet læs: Lakesildfiskeriet
-<td r>171,<td c>1,<td>Linie<td r>6 f. o.<td>tapre Gerninger« læs: 
+<td r>171,<td c>1,<td>Linie<td r>6 f. o.<td>tapre Gerninger« læs:
 tapre Bedrifter«
 <td r>184,<td c>1,<td>Linie<td r>24 f. n.<td>1803 læs: 1802
 <td r>267,<td c>1,<td c>—<td r>3 f. n.<td><sp>exegim</sp>. læs : <sp>exegi</sp> m.

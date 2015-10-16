@@ -35,7 +35,7 @@ Afholdshotel, Statstelegrafstation og Postkontor.
 </chapter>
 
 <chapter name="Frøy">
-<b>Frøy,</b> d. s. s. <sp>Frey</sp>. 
+<b>Frøy,</b> d. s. s. <sp>Frey</sp>.
 </chapter>
 
 <chapter name="f. t.">

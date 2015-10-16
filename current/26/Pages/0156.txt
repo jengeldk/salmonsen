@@ -147,7 +147,7 @@ Aalborg—Hvalpsund-Banen. (Se <sp>Danmark</sp>, Samfærdselskortet,
 
 <chapter name="Blæstopvarmningsapparater">
 <b>Blæstopvarmningsapparater,</b> se
-<sp>Højovn</sp>. 
+<sp>Højovn</sp>.
 </chapter>
 
 <chapter name="Blødbund">

@@ -25,8 +25,8 @@ simplere indirekte Metoder.
 
 2) <sp>Dugpunktbestemmelser</sp>. Hertil
 særlig egnede Instrumenter (Hygrometre) er
-angivet af <sp>Daniell</sp> (se <sp>Fugtighedsmaaler</sp>), 
-<sp>Regnault</sp>, <sp>Crova</sp> og <sp>Alluard</sp>. 
+angivet af <sp>Daniell</sp> (se <sp>Fugtighedsmaaler</sp>),
+<sp>Regnault</sp>, <sp>Crova</sp> og <sp>Alluard</sp>.
 Metoden bestaar i det væsentlige i, at
 man ved Hjælp af en Afkølingsanordning
 afkøler en blank poleret Metaloverflade, indtil
@@ -45,7 +45,7 @@ Luftprøven bliver bragt i Berøring med Svovlsyre.
 <sp>Edelmann</sp>'s Volumhygrometre).
 
 4) <sp>Psykrometermaalinger</sp> (vaadt og
-tørt Termometer). Befugtes en Termometerkugle 
+tørt Termometer). Befugtes en Termometerkugle
 med Vand, vil — alt efter Luftens større
 ell. mindre Tørhed (Mætningsrest, se
 <sp>Fugtighed</sp>) — Vandet fordampe hurtigere ell.
@@ -80,7 +80,7 @@ Fugtighed fra Luften og derved ændrer deres
 Volumen (navnlig Længde). Den indsugede
 Vandmængde og den fremkaldte Volumenændring er
 i Reglen paa det nærmeste proportionale med
-den relative Fugtighed, men disse Instrumenter 
+den relative Fugtighed, men disse Instrumenter
 maa altid inddeles empirisk. Særlig bekendt
 er Saussure's Haarhygrometer (fra 1783).
 Det arbejdende Organ heri er et affedtet

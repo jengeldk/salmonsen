@@ -79,7 +79,7 @@ Industri og navnlig til Landbruget, dels Ideen
 om at gøre Kjøbenhavn til den store
 Transithavn for hele Østersøhandelen, idet man
 haabede at kunne fortrænge Hamburg fra denne
-Bys tidligere Stilling som Stapelplads for Norden, 
+Bys tidligere Stilling som Stapelplads for Norden,
 dels endelig Befolkningens Efterspørgsel
 efter en Række forskellige Forbrugsvarer, som
 man gennem længere Tid havde været
@@ -105,7 +105,7 @@ Styrke. Merindførselen, der før Krigen var godt
 <td v3><td 4 c>Udførsel af
 <td c>Samlet<br>Indførsel<td c>indenlandske<br>Varer<td c>fremmede<br>Varer<td c>Merindførsel
 <td c>Mill. Kr<td c>Mill. Kr<td c>Mill. Kr<td c>Mill. Kr
-<td>1915<td r>1157,3<td r>979,0<td r>150,3<td r>28,0 
+<td>1915<td r>1157,3<td r>979,0<td r>150,3<td r>28,0
 <td>1916<td r>1357,4<td r>1177,3<td r>131,0<td r>48,5
 <td>1917<td r>1089,3<td r>969,5<td r>96,8<td r>23,0
 <td>1918<td r>945,7<td r>710,5<td r>48,0 <td r>187,2
@@ -120,4 +120,4 @@ Styrke. Merindførselen, der før Krigen var godt
 <td>1927<td r>1661,7<td r>1446,6<td r>104,5<td r>110,6
 <td>1928<td r>1735,9<td r>1545,0<td r>111,7<td r>79,2
 <td>1929<td r>1792,3<td r>1610,4<td r>96,7<td r>85,2
-</table> 
+</table>

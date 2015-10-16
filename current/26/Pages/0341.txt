@@ -259,6 +259,6 @@ fremgaar af følgende:
 <td><tab>Gibraltar<td c>1921<td r>5<td r>18540<td r>3708
 <td>Bulgarien<td c>1926<td r>103146<td r>5483125<td r>53,2
 <td>Danmark og Færøerne<td c>1925<td r>44326<td r>3456390<td r>78
-<td>Danzig<td c>1924<td r>1892<td r>383995<td r>202,7 
+<td>Danzig<td c>1924<td r>1892<td r>383995<td r>202,7
 </table>
 

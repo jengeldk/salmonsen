@@ -50,7 +50,7 @@ Afdelinger (à 2 Batterier).
 <sp>Kavaleriregimenter</sp>, hvert paa 2 Afdelinger
 à 3 Eskadroner (heraf 1 Mitrailleuseeskadron),
 og 1 <sp>Cyklistregiment</sp> paa 2 Batailloner
-à 3 Kompagnier (heraf 1 Mitrailleusekompagni), 
+à 3 Kompagnier (heraf 1 Mitrailleusekompagni),
 1 <sp>Afdeling Panserautomobiler</sp>
 og 1 <sp>Regiment ridende Artilleri</sp>
 paa 2 Afdelinger à 3 Batterier.
@@ -99,7 +99,7 @@ Krigstid.
 <sp>Næringsveje</sp>. <sp>Landbrug</sp>. Arealets
 Anvendelse og Produktionsudbyttet i 1926
 fremgaar af følgende:
-<table> 
+<table>
 <td><td>1000 ha<td>1000 t
 <td>Hvede<td r>143<td r>348
 

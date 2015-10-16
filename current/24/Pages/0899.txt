@@ -49,8 +49,8 @@ og Aktier</sp>.
 <table>
 <td v2 c>Mill.<br>Kr.<td v2 c>Obligationer<td 2 c>Aktier
 <td c>Nom.<td c>Kursærdi
-<td>1913<td r>20,9<td r>232,2<td c>— 
-<td>1916<td r>75,5<td r>552,6<td r>5436 
+<td>1913<td r>20,9<td r>232,2<td c>—
+<td>1916<td r>75,5<td r>552,6<td r>5436
 <td>1917<td r>60,4<td r>328,8<td r>3461
 <td>1918<td r>70,2<td r>693,6<td r>7857
 <td>1919<td r>67,4<td r>517,8<td r>3382

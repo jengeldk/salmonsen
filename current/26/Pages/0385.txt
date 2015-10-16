@@ -141,9 +141,9 @@ Digte <i>Recifs au Soleil</i>, paavirket af Verlaines
 <b>Fontaine l'Évêque,</b> (1921) 7192 Indb.
 </chapter>
 
-<chapter name="Fontan, Louis-Marie"> 
+<chapter name="Fontan, Louis-Marie">
 <b>Fontan,</b> <sp>Louis-Marie</sp> læs: <sp>Louis
-Marie</sp> 
+Marie</sp>
 </chapter>
 
 <chapter name="Fontanesi, A.">

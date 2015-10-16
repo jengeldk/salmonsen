@@ -16,11 +16,11 @@ følgende Oversigt:
 <table>
 <td v2><td v2><td v2><td v2><td v2c>Antal<br>Virk-<br>som-<br>heder<td v2c>Samlet<br>Personel<td v2c>Heraf<br>egentlig<br>industrielle<br>Arbejdere<td 2c>Virksomheder med<br>mekanisk Kraft
 <td c>Antal<td c>Maskin-<br>styrke H. K.
-<td>Virksomheder <td>m.   <td>0 <td>Arbejdere<td> 44104<td> 40730<td c> —<td> 6748 <td> 29756 
+<td>Virksomheder <td>m.   <td>0 <td>Arbejdere<td> 44104<td> 40730<td c> —<td> 6748 <td> 29756
 <td c>—<td c>-<td>1—5<td c>—<td r>38033<td r>116106<td r>74653<td r>15242<td r>105452
-<td c>—<td c>-<td>6—20<td c>—<td r>5259<td r>65359<td r>51652<td r>2879<td r>60805 
-<td c>—<td c>-<td>21—100<td c>—<td r>1476<td r>74276<td r>60826<td r>1173<td r>95151 
-<td c>—<td c>-<td>ov. 100<td c>—<td r>317<td r>96004<td r>82699<td r>290<td r>146452 
+<td c>—<td c>-<td>6—20<td c>—<td r>5259<td r>65359<td r>51652<td r>2879<td r>60805
+<td c>—<td c>-<td>21—100<td c>—<td r>1476<td r>74276<td r>60826<td r>1173<td r>95151
+<td c>—<td c>-<td>ov. 100<td c>—<td r>317<td r>96004<td r>82699<td r>290<td r>146452
 <td 3><td>I  alt<td r>89189<td r>392475<td r>269830<td r>26332<td r>437616
 </table>
 
@@ -48,7 +48,7 @@ sønderjyske Amter:
 <td c>—<td c>-<td r>6—<td r>20<td c>—<td r>18,9<td r>20,0<td r>23,2<td r>13,7<td r>15,8<td r>18,8
 <td c>—<td c>-<td r>21—<td r>100<td c>—<td r>22,6<td r>23,6<td r>24,6<td r>22,0<td r>23,4<td r>31,8
 <td c>—<td c>-<td r>ov.<td r>100<td c>—<td r>31,4<td r>27,1<td r>19,5<td r>34,5<td r>32,3<td r>25,0
-<td 5 r>I alt<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0 
+<td 5 r>I alt<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0<td r>100,0
 </table>
 
 Virksomheder med over 100 Arbejdere har

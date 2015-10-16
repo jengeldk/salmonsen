@@ -1,7 +1,7 @@
 <table>
 <td><td c>Svejsejern<td c>Blødt Staal<td c>Haardt Staal
 <td>Styrke i atm.<td c>3300—4000<td c>3400—4500<td c>4500—20000
-<td>Flydegrænse i atm.<td c>1800—2800<td c>2500—3000<td c>2800— 
+<td>Flydegrænse i atm.<td c>1800—2800<td c>2500—3000<td c>2800—
 <td>Proportionalitetsgrænse i atm.<td c>1300—1700<td c>1800—2400<td c>2500—6000
 <td>Brudforlængelse i %<td c>10—20<td c>20—30<td c>0—20
 </table>

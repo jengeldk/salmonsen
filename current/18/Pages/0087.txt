@@ -96,7 +96,7 @@ faar man i 1920 for Personer over 15 Aar:
 <td>Hjemmeværende Døtre<td r>—<td r>130499<td r>130499
 <td>Egne Midler<td r>31343<td r>34611<td r>65954
 <td>Pension, offentlig og privat forsørgede<td r>53034<td r>62827<td r>115861
-<td>Uopgivet Erhverv (væsentlig Dagarbejde, ikke 
+<td>Uopgivet Erhverv (væsentlig Dagarbejde, ikke
 nærmere angivet)<td r>4286<td r>628<td r>4914
 <td r>Samlet Befolkning over 15 Aar<td r>856785<td r>943093<td r>1799878
 </table>

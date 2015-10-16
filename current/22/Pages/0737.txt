@@ -62,7 +62,7 @@ Skibsfarten mellem S. og Udlandet anføres:
 <td>Ankomne<td>med Last<td r>18996<td r>9704
 <td c>—<td>i Ballast<td r>7534<td r>2535
 <td>Afgaaede<td>med Last<td r>20103<td r>10408
-<td c>—<td>i Ballast<td r>6519<td r>1922 
+<td c>—<td>i Ballast<td r>6519<td r>1922
 <td r>Samlet Tonnage<td><td r>24569
 </table>
 

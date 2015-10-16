@@ -5,8 +5,8 @@
 <td r>89,<td c>2,<td c>—<td r>16 f. o.<td>Dværggrundform læs: Dværgrundorm
 <td r>114,<td c>2,<td>Linie<td r>8 f. n.<td>undtagen <i>a</i><sub>0</sub>, der læs: undtagen <i>a</i><sub>0</sub>, der
 <td c>—<td c>2,<td>Linie<td r>2 f. n.<td>bliver <i>a</i><sub>0</sub> det læs: bliver <i>a</i><sub>0</sub> det
-<td c>—<td c>2,<td>Linie<td r>1 f. n.<td>i <i>x</i> = <i>a</i>+1/<i>x</i><sub>1</sub> den 
-<td r>115,<td c>1,<td>Linie<td r>1 f. o.<td>Kvotients <i>x</i><sub>1</sub> > 1; <i>a</i><sub>1</sub> 
+<td c>—<td c>2,<td>Linie<td r>1 f. n.<td>i <i>x</i> = <i>a</i>+1/<i>x</i><sub>1</sub> den
+<td r>115,<td c>1,<td>Linie<td r>1 f. o.<td>Kvotients <i>x</i><sub>1</sub> > 1; <i>a</i><sub>1</sub>
 er læs: Kvotient <i>x</i><sub>1</sub> er > 1; <i>a</i><sub>1</sub> er
 <td c>—<td c>1,<td>Linie<td r>2 f. o.<td>end <i>x</i><sub>1</sub> o. s. v. læs: end <i>x</i><sub>1</sub> o. s. v.
 <td c>—<td c>1,<td>Linie<td r>13 f. o.<td>til ð, f. Eks. <i>a</i><sub>r</sub> inklusive, læs: til f. Eks. <i>a</i><sub>r</sub> inklusive,

@@ -160,5 +160,5 @@ Fortegnelse.
 <td>Glasgow<td r>1054744
 <td>Edinburgh<td r>425147
 <td>Dundee<td r>172444
-<td>Aberdeen<td r>158116 
+<td>Aberdeen<td r>158116
 </table>

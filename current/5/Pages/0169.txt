@@ -123,7 +123,7 @@ mod Tyve.
 </chapter>
 
 <img>Compluvium.
-»Den tragiske Digters Hus«, Pompeji.</img> 
+»Den tragiske Digters Hus«, Pompeji.</img>
 
 <chapter name="compo-board">
 <b>compo-board</b> ['kåmpo<sub>u</sub>-'bå.<sub>ə</sub>d] er tynde

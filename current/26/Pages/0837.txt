@@ -129,6 +129,6 @@ og den almindelige Elektricitetsforsyning.
 <td>Bingfoss, Glommen<td r>16000
 <td>Fossumfoss, Glommen<td r>25500
 <td>Sarpsfoss, Glommen<td r>ca. 50000
-<td>Borregård, Sarpsfoss<td v2 r>50000 
+<td>Borregård, Sarpsfoss<td v2 r>50000
 <td>Hafslund, Sarpsfoss
 </table>

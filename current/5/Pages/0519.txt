@@ -75,7 +75,7 @@ Dampskibslinier</sp> er følgende:
 <table>
 <td 3 c><i>A</i>. <sp>Engelske Dampskibslinier</sp>.
 <td c>Selsk.s Navn.<td><td c>Ruter.
-<td>The Cunard S. S. Company.<td>{<td>Liverpool, New York. Liverpool, Boston. 
+<td>The Cunard S. S. Company.<td>{<td>Liverpool, New York. Liverpool, Boston.
 New York, Madeira, Middelhavet og tilbage til New York.
 </table>
 <td>White Star Line.<td>{<td>Southampton, Cherbourg, New York. Liverpool, Queenstown, Boston. Liverpool, Kanada. Boston og New York, Middelhavet.

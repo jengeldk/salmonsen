@@ -120,7 +120,7 @@ Kr. og Indtægt 2701000 Kr.
 
 <chapter name="Bouches du Rhône">
 <b>Bouches du Rhône,</b> 5248 km<sup>2</sup>, (1926) 929549
-Indb. 
+Indb.
 <i>E. St.</i>
 </chapter>
 
@@ -174,7 +174,7 @@ Kantoner, 101 Kommuner) har (1926) 221244 Indb.
 </chapter>
 
 <chapter name="Boulogne sur Seine">
-<b>Boulogne sur Seine,</b> (1926) 75559 Indb. 
+<b>Boulogne sur Seine,</b> (1926) 75559 Indb.
 </chapter>
 
 <chapter name="Boulonnais">

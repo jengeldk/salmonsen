@@ -12,7 +12,7 @@ Størrelse i de enkelte Kommunegrupper faas
 nogle Oplysninger af nedenstaaende Tal angivne
 i Tusind Kroner:
 <table>
-<td v2>Aktiver:<td>Kbhvn-Frederiksberg<td>Provinsbyer<td>Sognekommun.<td>Amtskommun.<td>Tilsammen 
+<td v2>Aktiver:<td>Kbhvn-Frederiksberg<td>Provinsbyer<td>Sognekommun.<td>Amtskommun.<td>Tilsammen
 <td>Kr.<td>Kr.<td>Kr.<td>Kr.<td>Kr.
 <td>Værdipapirer, Kassebeholdning<td r>144486<td r>110500<td r>79523<td r>42009<td r>376518
 <td>Udbyttegivende Ejendomme og Anlæg<td r>299056<td r>216222<td r>31673<td r>5746<td r>552697

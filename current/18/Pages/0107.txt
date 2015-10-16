@@ -22,7 +22,7 @@ ell. 7101678 ha at være skovbevokset, Løvskov
 saaledes:
 <table>
 <td v2 c>Fylke — Landsdel<td v2 c>Totalareal<br>i<br>km<sup>2</sup><td v2 c>Skovareal<br>i<br>km<sup>2</sup><td v2 c>Skovareal<br>i % af<br>Totalarealet<td 2 c>Af det samlede<br>Skovareal udgjorde<td v2 c>Skovareal<br>i ha pr<br>Indbygger
-<td c>Naaleskov %<td c>Løvskov % 
+<td c>Naaleskov %<td c>Løvskov %
 <td>1. Østfold<td r>4144<td r>2384,59<td r>61,76<td r>96,03<td r>3,97<td r>2,15?
 <td>2. Akershus<td r>5240<td r>3368,40<td r>67,90<td r>98,03<td r>1,97<td r>2,068
 <td>3. Hedmark<td r>27453<td r>13870,95<td r>52,88<td r>92,31<td r>7,67<td r>10,078

@@ -74,7 +74,7 @@ uden at paavirke dette, medens et Natriumatom
 øjeblikkelig sønderdeler Vand; et andet
 Eksempel er, at skønt Klor angriber selv de
 ædleste Metaller (Sølv, Guld o. s. v.), paavirkes
-disse slet ikke af Klorionen, ellers skulde jo 
+disse slet ikke af Klorionen, ellers skulde jo
 Saltvand, der indeholder mange fri Klorioner,
 angribe dem.
 
@@ -117,7 +117,7 @@ Ionerne betegnes ved at angive deres Ladning
 <table>
 <td v2>paa flg. Maade:<td>+<td c>-<td l>- -<td v2> Et Stof som Kobber
 <td>H,<td>-Cl,<td>SO<sub>4</sub>.
-</table> 
+</table>
 maa danne to Slags Ioner, den monovalente
 <table>
 <td v2>Kuproion<td>+<td v2> og den divalente Kupriion<td>++

@@ -77,7 +77,7 @@ paa et Stempel <i>c</i>, drives hydraulisk og hurtig
 ned i den glødende Blok. Forholdet mellem
 Stemplets Diameter <i>r</i> og Matricens Diameter <i>R</i>
 er afpasset saaledes, at det Materiale, som
-Stemplet fordriver, just udfylder de 4 
+Stemplet fordriver, just udfylder de 4
 egmenter mellem Blokken og Matricen. Fig. 3 viser
 Snit i Blokken efter P. Man kan nu i samme
 Varme strække det fremkomne Rør videre ved

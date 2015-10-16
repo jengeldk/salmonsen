@@ -118,7 +118,7 @@ indenfor de forskellige Kommunegrupper faas
 for 1925—26 Oplysninger af nedenstaaende
 Tabel:
 <table>
-<td v2><td> Kbhvn—Frederiksberg<td>Provinsbyer<td>Sognekommun.<td>Amtskommun.<td>Samtlige Kommuner 
+<td v2><td> Kbhvn—Frederiksberg<td>Provinsbyer<td>Sognekommun.<td>Amtskommun.<td>Samtlige Kommuner
 <td r>1000 Kr.<td r>1000 Kr.<td r>1000 Kr.<td r>1000 Kr.<td r>1000 Kr.
 <td>Formue- og Erhvervsindtægter<td r>48497<td r>27597<td r>4631<td r>1027<td r>81752
 <td>Ejendomsskatter<td r>16298<td r>5747<td r>44374<td r>34177<td r>100596

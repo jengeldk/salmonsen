@@ -52,7 +52,7 @@ Havlampretten
 <td r>198,<td c>2,<td>Linie<td r>21 f. o.<td><sp>Clausthalit</sp> læs: <sp>Klausthalit</sp>
 <td r>233,<td c>2,<td>Linie<td r>15 f. o.<td>S. 370 læs: 340
 <td r>306,<td c>1,<td c>—<td r>18 f. n.<td><sp>Astand</sp> læs: <sp>Afstand</sp>
-<td r>307,<td c>1,<td>Linie<td r>21 f. o.<td><sp>Sfæriter</sp> læs: <sp>Sfæritter</sp> 
+<td r>307,<td c>1,<td>Linie<td r>21 f. o.<td><sp>Sfæriter</sp> læs: <sp>Sfæritter</sp>
 <td r>365,<td c>2,<td>Linie<td r>30 f. o.<td><b>Siemens Regeneratorforbrænder,</b> se <sp>Gas</sp> læs:<br><b>Siemens Regenerativbrænder,</b> se <sp>Kulgas</sp>
 <td r>368,<td c>1,<td>Linie<td r>15 f. n.<td>»Kryžiascy« læs: »Krzyžacy«
 <td r>375,<td c>1,<td>Linie<td r>12 f. o.<td>(. . . <sp>Hussitterne</sp>) læs: (. . . <sp>Husitter</sp>)

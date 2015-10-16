@@ -126,7 +126,7 @@ maskinelle Anlæg, og at den lille Industri nu
 lægger Beslag paa adskillige Hestekræfter;
 nærmere ses dette af flg. Tabel:
 <table>
-<td  4 v2 c>Virksomheder<td 2>Antal Kraftmaskiner<td 2>Antal Hestekræfter 
+<td  4 v2 c>Virksomheder<td 2>Antal Kraftmaskiner<td 2>Antal Hestekræfter
 <td c>1906<td c>1914<td c>1906<td c>1914
 <td r>0<td>-<td r>5<td>Arbejdere<td r>4214<td r>13834<td r>24430<td r>65344
 <td r>6<td>-<td r>20<td c>-<td r>1994<td r>4859<td r>19867<td r>36086

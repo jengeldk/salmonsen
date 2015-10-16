@@ -81,7 +81,7 @@ Folkemængden og Befolkningstætheden udgør
 efter sidste Folketælling i
 <table>
 <td v2><td 2 c>Bygder og Byer<td v2 c>Pr. km<sup>2</sup><br>produktivt<br>Land
-<td c>Folkemængde<td c>Pr. km<sup>2</sup><br>Land 
+<td c>Folkemængde<td c>Pr. km<sup>2</sup><br>Land
 <td>Østlandet<td r>985127<td r>25,05<td r>43,17
 <td>Oplandene<td r>278768<td r>5,53<td r>12,74
 <td>Sørlandet<td r>157507<td r>10,08<td r>20,20

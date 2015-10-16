@@ -29,7 +29,7 @@ Tryk, kontinuerligt skriver en Kurve, svarende
 til Svingningerne i Trykket. Saadanne
 Trykskrivere findes til Stadighed anbragte ude paa
 forsk. Steder i Gasledningsnettet og tjener til
-at kontrollere, om der har fundet Forstyrrelser 
+at kontrollere, om der har fundet Forstyrrelser
 Sted i den regelmæssige Gasforsyning.
 <i>R. T.</i>
 </chapter>
@@ -47,7 +47,7 @@ Bygningskomplekser, Fabrikker o. l. kan det ogsaa
 Regulatorer, der ligner Hovedregulatorerne i
 deres Konstruktion, men er af mindre
 Dimensioner (<sp>Husregulatorer</sp>), og endelig
-anbringes foran de enkelte Blus smaa 
+anbringes foran de enkelte Blus smaa
 <sp>Blusregulatorer</sp> af spec. Konstruktion (se
 <sp>Ku1gas</sp>, Afsnit K.).
 <i>R. T.</i>
@@ -122,12 +122,12 @@ paa <sp>Gaslugt</sp>. Store Utætheder medfører
 ligefrem Nedgang i Gasforsyningen og
 Gastrykket i det omliggende Distrikt. Mindre
 Utætheder ytrer sig nærmest ved Gaslugten alene,
-men kan give Anledning til farlige Eksplosioner, 
+men kan give Anledning til farlige Eksplosioner,
 hvis der er strømmet saa megen Gas
 ud, at Eksplosionsgrænsen er naaet, og en ell.
 anden med tændt Lys ell. Tændstik kommer
-ind i det Rum, hvor Gaslugten mærkes. Det 
-eneste, man bør gøre <sp>straks</sp>, hvis man kommer 
+ind i det Rum, hvor Gaslugten mærkes. Det
+eneste, man bør gøre <sp>straks</sp>, hvis man kommer
 ind i et Rum, hvor der mærkes
 Gasudstrømning, er at lukke op og lufte ud det bedst
 mulige og sørge for, at kyndige Folk hurtigst

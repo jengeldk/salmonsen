@@ -5,7 +5,7 @@
 <td 2>Storarrondissement Kustanaj<td r>98395<td r>389216<td r>4,0
 <td 2>Stordistrikt Adaj<td r>287161<td r>134113<td r>0,5
 <td 2>Vest Underregionen<td r>1107360<td r>1630232<td r>1,5
-<td>Guvernementet<td>Akmolinsk<td r>506660<td r>1212749<td r>2,4 
+<td>Guvernementet<td>Akmolinsk<td r>506660<td r>1212749<td r>2,4
 <td c>—<td>Semipalatinsk<td r>537279<td r>1301734<td r>2,4
 <td 2>Øst Underregionen<td r>1043939<td r>2514483<td r>2,4
 <td 2> Autonome Omraade Kara Kalpaker<td r>123999<td r>304643<td r>2,5

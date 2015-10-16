@@ -6,7 +6,7 @@ Form benyttes som Drivkraft. De første Forsøg
 paa e. S. stammer fra 1835, men fik ingen
 praktisk Bet. Paa Berlin-Udstillingen 1879
 fandtes en af <sp>Siemens & Halske</sp> anlagt lille
-e. S., hvor 3 Vogne, hver med 6 Siddepladser, 
+e. S., hvor 3 Vogne, hver med 6 Siddepladser,
 blev trukne af et lille Lokomotiv, og 2 Aar efter
 aabnedes den første virkelige e. S.
 <sp>Berlin-Lichterfelde</sp>. Det blev dog Amerika, der
@@ -41,7 +41,7 @@ Næsten alle e. S. drives nutildags ved
 Strømmen fra en Centralstation, tilført Vognene
 igennem en ell. anden <sp>Kontaktledning</sp>. Der
 anvendes hyppigst Jævnstrøm med en
-Spænding 500-700 Volt. Centralen kan afgive 
+Spænding 500-700 Volt. Centralen kan afgive
 Strømmen direkte med den rigtige Spænding, ell. den
 kan - hvis det drejer sig om store Afstande
 og store Energimængder - levere højspændt
@@ -99,7 +99,7 @@ ikke vil anbringe Luftledninger. Det anvendes
 bl. a. i Buda-Pest, Wien o. fl. Steder i Berlin.
 Undertiden haves to underjordiske
 Kontaktskinner (New York, Washington), hvoraf den
-ene da er Fødeskinne, den anden Returskinne, 
+ene da er Fødeskinne, den anden Returskinne,
 idet Sporene ikke benyttes til Tilbageledning af
 Strømmen. Det underjordiske System er
 selvfølgelig dyrere end det overjordiske og ikke

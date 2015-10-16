@@ -4,7 +4,7 @@
 <td>Nylands Län (Uusimaa)<td r>438516<td r>12139<td r>11364<td r>775<td r>41,3<td>Helsingfors (Helsinki)
 <td>Åbo-Björneborgs Län (Turku-Pori)<td r>483909<td r>22874<td r>21745<td r>1129<td r>23,5<td>Åbo (Turku)
 <td>Landskabet Åland (Ahvenanmaa)<td r>23222<td r>1442<td r>1426<td r>16<td r>19,1<td>Mariahamn (Maarianhamina)
-<td>Tavastehus Län (Häme)<td r>372518<td r>20970<td r>17448<td r>3522<td r>21,6<td>Tavastehus (Hämeenlinna) 
+<td>Tavastehus Län (Häme)<td r>372518<td r>20970<td r>17448<td r>3522<td r>21,6<td>Tavastehus (Hämeenlinna)
 <td>Viborgs Län (Viipuri)<td r>554747<td r>43115<td r>31265<td r>11850<td r>18,9<td>Viborg (Viipuri)
 <td>St. Michels Län (Mikkeli)<td r>204581<td r>23288<td r>16612<td r>6676<td r>12,6<td>St. Michel (Mikkeli)
 <td>Kuopio Län<td r>358827<td r>44096<td r>36220<td r>7876<td r>10,2<td>Kuopio
