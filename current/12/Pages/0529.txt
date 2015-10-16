@@ -86,7 +86,6 @@ styrtede Mortimer og fjernede Dronningen fra
 al Deltagelse i Regeringen (1330). Resten af
 sine Aar tilbragte hun paa Slottet Risings.
 <i>C. S. C.</i>
-
 </chapter>
 
 <chapter name="Isabella (Dronning af Kastilien)">
@@ -147,8 +146,8 @@ Sparsommelighed.
 
 <chapter name="Isabella (se Basilan)">
 <b>Isabella,</b> se <sp>Basilan</sp>.
-
 </chapter>
+
 <chapter name="Isabella (Chr. II's Dronning)">
 <b>Isabella,</b> se <sp>Elisabeth</sp> (Chr. II's Dronning).
 </chapter>
