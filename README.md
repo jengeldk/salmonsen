@@ -11,5 +11,7 @@ Der er to branches: `master` som er der hvor rettelserne bliver indført og `run
 teksten fra http://runeberg.org. `runeberg` er opdateret fra http://runeberg.org 14/10 2015. Rettelser fra
 `runeberg` er merged ind i `master`. Status for antal rettelser er:
 
-    git diff --shortstat  runeberg master
-    1537 files changed, 11569 insertions(+), 11676 deletions(-)
+    git diff --shortstat  runeberg master -- '*/[0-1]*.txt'
+    2568 files changed, 35711 insertions(+), 25349 deletions(-)
+
+Det betyder at 25349 linier er ændret på 2568 sider.
