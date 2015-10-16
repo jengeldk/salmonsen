@@ -17,7 +17,7 @@ Spørgsmaalet om Konvergensen, og først 19. Aarh. bragte
 de ovf. nævnte Konvergenskriterier. Man har i
 de senere Tider udvidet Konvergensbegrebet
 ved i <i>s<sub>n</sub></i> til Leddene at føje visse af <i>n</i>
-afhængige Faktorer saaledes, at <i>s<i>n</i></i> derefter for <i>n</i>
+afhængige Faktorer saaledes, at <i>s<sub>n</sub></i> derefter for <i>n</i>
 voksende i det uendelige nærmer sig til en
 endelig bestemt Grænse, R.'s
 <sp>Summabilitetsværdi</sp>. R., for hvilke dette er muligt, kaldes

@@ -65,7 +65,7 @@ F. til et praktisk og nyttigt Befordringsmiddel.
 </chapter>
 
 <chapter name="Flötzler">
-<b><b>Flötzler,</b></b> se <sp>Stenkulformation</sp>, S. 262.
+<b>Flötzler,</b> se <sp>Stenkulformation</sp>, S. 262.
 </chapter>
 
 <chapter name="Fløystrup, A.">
@@ -255,4 +255,3 @@ Formue 1927 var 1,6 Mill. Kr. og Indtægt
 <chapter name="Foldværk">
 <b>Foldværk,</b> se <sp>Dør</sp>, S. 655.
 </chapter>
-

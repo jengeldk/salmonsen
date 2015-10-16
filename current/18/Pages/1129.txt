@@ -107,7 +107,7 @@ Blege- og Desinfektionsmiddel.
 </chapter>
 
 <chapter name="Perborax">
-<b>Perborax,</b> se <sp><sp>Natriumperborat</sp></sp>.
+<b>Perborax,</b> se <sp>Natriumperborat</sp>.
 </chapter>
 
 <chapter name="Perborsyre">

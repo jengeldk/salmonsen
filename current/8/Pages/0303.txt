@@ -138,7 +138,7 @@ danne Fluorforbindelser.
 </chapter>
 
 <chapter name="Fluorbrinte">
-<b><b>Fluorbrinte</b></b> HF, opdaget af Scheele i 1771,
+<b>Fluorbrinte</b> HF, opdaget af Scheele i 1771,
 dannes analogt med Klorbrinte ved
 Sønderdeling af Fluorider med Svovlsyre. De
 fremstilles ved Ophedning af Kalciumflorid med

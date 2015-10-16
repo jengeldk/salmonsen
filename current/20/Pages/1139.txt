@@ -42,7 +42,7 @@ tapre Bedrifter«
 </table>
 
 <table>
-<td 5 c><sp><sp>BIND XVIII</sp></sp>.
+<td 5 c><sp>BIND XVIII</sp>.
 <td>Side<td>Sp.
 <td r>62,<td c>2,<td>Linie<td r>14 f. n.<td><sp>Marborerne</sp> læs: <sp>Marvborerne</sp>
 <td r>278,<td c>2,<td>Linie<td r>5 f. n.<td>Børgesen læs: Börjeson
@@ -59,7 +59,7 @@ tapre Bedrifter«
 </table>
 
 <table>
-<td 5 c><sp><sp>BIND XIX</sp></sp>.
+<td 5 c><sp>BIND XIX</sp>.
 <td>Side<td>Sp.
 <td r>199,<td c>2.<td 3>Ved en Fejltagelse er nedenstaaende<br>Portræt af Pave Pius XI ikke indsat i Teksten.<br><img></img>
 <td r>202,<td c>1,<td>Linie<td r>19 f. o.<td>»Kak ja učilsja« læs: »Moi universitety«

@@ -27,7 +27,7 @@ de andre, har man dannet de til
 Trekantsopgavernes Løsning nødvendige Ligninger mellem
 Stykkerne; af disse kan nævnes: <i>a</i><sup>2</sup> = <i>b</i><sup>2</sup> +
 <i>c</i><sup>2</sup> — 2<i>bc cos A</i>, <i>sin A/a</i> = <i>sin B/b</i> = <i>sin C/c</i>, <i>tg</i> 1/2 <i>A</i> =
-kvadratrod(<i>(s-b) (s-c)/s (s—a)</i><i>(s-b) (s-c)/s (s—a)</i>), hvor <i>a, b, c</i> betegner Siderne,
+kvadratrod(<i>((s-b) (s-c))/(s (s—a))</i>), hvor <i>a, b, c</i> betegner Siderne,
 <i>A, B, C</i> Vinklerne og <i>s</i> = 1/2 <i>(a + b + c)</i>.
 
 Behandlingen af mere sammensatte retlinede
@@ -78,7 +78,7 @@ positivt eller negativt. Det bemærkes, at man
 ved at gaa Cirklen mere end een Gang rundt
 kan afsætte Vinkler numerisk større end 360°.
 Falder Vinklens andet Ben i <i>OA</i>, er <i>OA</i>'s
-Projektioner <i>OA<sub>1</sub></i> og <sub>OA<sub>2</sub></sub> paa de to paa hinanden
+Projektioner <i>OA<sub>1</sub></i> og <i>OA<sub>2<sub></i> paa de to paa hinanden
 vinkelrette Linier <i>X</i> og <i>Y</i> t. F. af <i>x</i>, som
 kaldes <i>sinus</i> og <i>cosinus</i> og betegnes ved sin <i>x</i> og
 <i>cos x</i>; <i>OA<sub>1</sub></i> og <i>OA<sub>2</sub></i> skal tages med positivt eller

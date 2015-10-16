@@ -66,7 +66,7 @@ Begejstring.
 </chapter>
 
 <chapter name="Eland">
-<b>Eland,</b> se <sp><sp>Antiloper</sp></sp>, S. 819.
+<b>Eland,</b> se <sp>Antiloper</sp>, S. 819.
 </chapter>
 
 <chapter name="Elaphrus">

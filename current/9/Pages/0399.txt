@@ -138,8 +138,8 @@ Zinkstangen. Elementet kan kort betegnes:
 
 I Alm. kan et Element af denne Type
 betegnes:
-<i>M<sub>1</sub>|M<sub>1</sub>S</i> ⋮ <i>M<sub>2</sub>S|M<sub>2</sub></i>,
-hvor <i>M<i>1</i></i> og <i>M<sub>2</sub></i> er de to Metaller, <i>S</i> den for
+<i>M<sub>1</sub>|M<sub>2</sub>S</i> ⋮ <i>M<sub>2</sub>S|M<sub>2</sub></i>,
+hvor <i>M<sub>1</sub>/i> og <i>M<sub>2</sub></i> er de to Metaller, <i>S</i> den for
 begge fælles Syrerest. De 3 Berøringsflader
 fremkommer: 1) hvor det ene Metal berører
 det andet <i>M<sub>1</sub>|M<sub>2</sub></i>. 2) hvor den ene Opløsning
