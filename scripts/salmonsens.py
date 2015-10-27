@@ -1,9 +1,38 @@
 #!/usr/bin/python3
 # encoding utf-8 
-from sys import argv, stderr
+from sys import argv, stderr, stdin
 from zipfile import ZipFile
 import re
+from collections import Counter
+from unicodedata import name as uname 
+from argparse import ArgumentParser
 
+class kmers:
+    def __init__(self, w=1, s=None):
+        self.kmers = Counter()
+        self.w = w
+        if s:
+            self.update(s)
+
+    def update(self, s):
+        if self.w == 1:
+            self.kmers(s)
+        else:
+            for i in range(len(s)-self.w):
+                 self.kmers[s[i:i+self.w]] += 1
+    def most_common(self, n):
+        return self.kmers.most_common(n)
+
+    def 
+
+"""
+for (char, count) in CC.most_common():
+    if w==1:
+        print("<%c>: %s[%d]: %d" % (char, uname(char,"***UNKNOWN***"), ord(char), count))
+    else:
+        print("<%s>: %d" % (char, count))
+
+"""
 _forf = re.compile(r'([^<]+)?<i>([^<]+)</i>([^<]*)(<i>([^<]+)</i>)?([^<]+)?')
 
 class Forfatter:
@@ -45,6 +74,10 @@ def get_file(bind, side, path, typ="txt", udgave=2):
     if typ == 'tif':
         post = '{side:04}.tif'
     return open((pre+post).format(udgave=udgave, bind=bind, side=side))
+
+class article:
+    def __init__(self, s):
+        pass
 
 
 def readforf(filliste):
@@ -90,11 +123,12 @@ def readforf(filliste):
     return ret
 
 if __name__ == '__main__':
-    filliste = [f.strip() for f in open(argv[1])]
-
-    forf = readforf(filliste)
-    print("%d forfatttere læst" % len(forf))
-    from collections import Counter
-
-    for k,v in Counter(e.typ for e in forf).items():
-        print(k,v)
+    parser = ArgumentParser()
+    parser.add_argument('-w', '--width', type=int, default=1)
+    parser.add_argument('files', nargs='*')
+    args = parser.parse_args()
+    files = args.files
+    if not files:
+        files.append('-')
+    
+    

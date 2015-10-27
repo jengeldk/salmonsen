@@ -44,8 +44,8 @@ solaaben, temmelig tør Vokseplads.
 <b>Achilles</b>, se <sp>Achilleus</sp>.
 </chapter>
 
-<chapter name="Achllleshæl (se Achilleus).">
-<b>Achllleshæl</b>, se <sp>Achilleus</sp>.
+<chapter name="Achilleshæl (se Achilleus).">
+<b>Achilleshæl</b>, se <sp>Achilleus</sp>.
 </chapter>
 
 <chapter name="Achilleus">
