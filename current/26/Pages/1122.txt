@@ -133,7 +133,7 @@ Ladning.
 </chapter>
 
 <chapter name="Ætylformiat">
-<b>Ætylformiat,</b> d. s. s. sp>myresurt Ætyl</sp>.
+<b>Ætylformiat,</b> d. s. s. <sp>myresurt Ætyl</sp>.
 </chapter>
 
 <chapter name="Ætylhydrocuprein">

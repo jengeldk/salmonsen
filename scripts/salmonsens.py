@@ -3,9 +3,50 @@
 from sys import argv, stderr, stdin
 from zipfile import ZipFile
 import re
-from collections import Counter
+from collections import Counter, OrderedDict
 from unicodedata import name as uname 
 from argparse import ArgumentParser
+from os.path import join as pjoin, split as psplit
+from glob import glob
+
+class Volume:
+    def __init__(self, title, path, num=0):
+        self.title=title
+        self.path = path
+        self.num = num
+
+    def page_list(self, fn='Pages.lst'):
+        fn = pjoin(self.path, fn)
+        self.pagelist = OrderedDict()
+        for line in open(fn):
+            line = re.split('[#\r\n]', line)[0] 
+            if line == "":
+                continue
+            if not '|' in line:
+                raise Exception('%s contains a line without "|": %s' % (fn, line))
+            p, content = line.split('|')
+            if p in self.pagelist:
+                raise Exception("%s contains same page twice" % fn)
+            self.pagelist[p] = content
+        self.pagefiles = [psplit(fn)[1] for fn in glob(pjoin(self.path, 'Pages/*.txt'))]
+        self.pagefiles.sort()
+    
+    def check_pages(self):
+        warnings = []
+        if not (hasattr(self, "pagelist") and hasattr(self, "pagefiles")):
+            raise Exception("Don't call _check_pages before page_list")
+        for p in self.pagefiles:
+            pp = p.split('.')[0]
+            if pp not in self.pagelist:
+                warnings.append("%s not in pagelist" % p)
+        for p in self.pagelist:
+            if p + '.txt' not in self.pagefiles:
+                warnings.append("'%s.txt' not in pagefiles" % p)
+                
+        return warnings
+                 
+            
+
 
 class kmers:
     def __init__(self, w=1, s=None):
@@ -23,7 +64,6 @@ class kmers:
     def most_common(self, n):
         return self.kmers.most_common(n)
 
-    def 
 
 """
 for (char, count) in CC.most_common():
