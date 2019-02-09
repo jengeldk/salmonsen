@@ -116,7 +116,7 @@ med Birødder. (Se <sp>Løg</sp>, <sp>Rhizom</sp>,
 </chapter>
 
 <chapter name="Jordskygge">
-<b>Jordskygge,/b> se <sp>Maaneformørkelse</sp>.
+<b>Jordskygge,</b> se <sp>Maaneformørkelse</sp>.
 </chapter>
 
 <chapter name="Jordskyld">

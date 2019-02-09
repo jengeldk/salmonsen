@@ -112,7 +112,7 @@ I dette Bind findes signerede Artikler af følgende Fag- og Videnskabsmænd:
 <i>Knudsen, K. A.</i>, Gymnastikinspektør <i>(K. A. K.)</i>
 <i>Koefoed, E.</i>, Professor <i>(E. K.)</i>
 <i>Koefoed, M.</i>, Generaldirektør <i>(M. K.)</i>
-<i>Koefoed, R.</i>, Mag. scient.</i>, Direktør <i>(R. K.)</i>
+<i>Koefoed, R.</i>, Mag. scient., Direktør <i>(R. K.)</i>
 <i>Krabbe, K. H.</i>, Dr. med. <i>(K. H. K.)</i>
 <i>Krarup, F. C.</i>, Dr. theol. <i>(F. C. K.)</i>
 <i>Krog, Am.</i>, Professor <i>(Am. K.)</i>

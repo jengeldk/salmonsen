@@ -164,7 +164,7 @@ Gejstlige paa Søn og Helligdage.
 </chapter>
 
 <chapter name="binaural Hørelse">
-<b>binaural</b> [-na^u-] <b>Hørelse</b> (<sp>binotisk</sp>,
+<b>binaural</b> [-na^u-] <b>Hørelse</b> (<sp>binotisk,
 diotisk H.</sp>). Ved b. H. forstaar man den samtidige
 Opfattelse af Lyd med begge Ører, i Modsætning
 til monaural Hørelse, som betyder Hørelse med

@@ -70,7 +70,7 @@ driver Industri og Vinhandel.
 <chapter name="Aræometer">
 <b>Aræometer</b> (græsk: »Fortyndingsmaaler«,
 <sp>Flydevægt</sp>), Redskab til at bestemme en
-Vædskes Vægtfylde, <sp>enten <sp>ved den større ell.
+Vædskes Vægtfylde, <sp>enten</sp> ved den større ell.
 mindre Dybde, hvortil det synker i Vædsken,
 <sp>eller</sp> ved den Vægt, man maa betynge det
 med, for at det skal synke til et vist Mærke. Da

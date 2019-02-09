@@ -1,7 +1,7 @@
 Afgørelsen af, om Tal er Primtal. Af Sætninger
 om Delelighed maa nævnes Fermat's: et
 Primtal <i>p</i>, der ikke gaar op i et helt Tal <i>a</i>, gaar op
-i <i>a<sup>P</sup></i><sup>-1</sup> -1, og Wilson's: et Primtal <i>p</i> gaar op
+i <i>a</i><sup><i>P</i>-1</sup> -1, og Wilson's: et Primtal <i>p</i> gaar op
 i 1 . 2 . 3 ... (<i>p</i>—1) + 1. Fermat's Sætning gav
 Stødet til Gauss' Opstilling af Teorien om de
 saakaldte <sp>Kongruenser</sp>. At to hele Tal <i>a</i>
@@ -9,7 +9,7 @@ og <i>b</i> er <sp>kongruente</sp> for Modulus <i>p</i>, vil
 sige, at de giver samme Rest ved Division med
 <i>p</i>, og det skrives saaledes: <i>a</i>≡<i>b</i> (Mod. p). De
 mest undersøgte Kongruenser har Formen
-<i>x<sup>p</sup></i><i> ≡ <i>1</i> (Mod. <i>p</i>), hvor <i>p</i> er et Primtal; de
+<i>x</i><sup>p-1</sup> ≡ 1 (Mod. <i>p</i>), hvor <i>p</i> er et Primtal; de
 tilfredsstilles iflg. Fermat's Sætning af <i>x</i> = 1,
 2, 3, . . . (<i>p</i> — 1) (Kongruensens Rødder).
 Vælges en vilkaarlig Modulus <i>M</i>, og sættes i

@@ -64,7 +64,7 @@ gennemløbende Ledning. Den gennemløbende Ledning
 Naar man angiver Dimensionerne af et
 T-Stykke, sker det i Reglen i Ordenen <i>a b c</i>. Hvis
 alle 3 Grene er lige store, f. Eks. et 51X51X51
-mm T, kaldes det et <sp>fuldt/sp> T. Er Sidegrenen
+mm T, kaldes det et <sp>fuldt</sp> T. Er Sidegrenen
 <i>b</i> mindre, f. Eks. 38 mm, kaldes det et
 51X38X51 mm T. ell. kortere et 51X38 mm T. Hvis
 Hovedløbet, <i>a c</i>, forandrer Dimension, saa man

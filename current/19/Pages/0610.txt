@@ -3,13 +3,13 @@ i <i>m</i>, <i>p</i> dets Vægt i kg, <i>c</i> Kaliberet i cm, <i>t</i>
 Pladetykkelsen i cm):
 
 <sp>Gavre</sp>-Formlen (det fr. Marineartilleri):
-<i>pv<sup>2</sup>/c</i> = 10190 <i>t</i> <sup>1,4</sup>.
+<i>pv</i><sup>2</sup>/<i>c</i> = 10190 <i>t</i> <sup>1,4</sup>.
 
 <sp>de Marres</sp> Formel:
-<i>pv<sup>2</sup>/c</i> 1,5 = 2597 <i>t</i> <sup>1,2</sup>.
+<i>pv</i><sup>2</sup>/<i>c</i> 1,5 = 2597 <i>t</i> <sup>1,3</sup>.
 
 <sp>Krupp</sp>'s Formel (1880—87):
-<i>pv<sup>2</sup> = 370 <i>c t</i><sup>2</sup> + 1171 <i>c<sup>2</sup>t</i>.
+<i>pv</i><sup>2</sup> = 370 <i>c t</i><sup>2</sup> + 1171 <i>c</i><sup>2</sup<i>t</i>.
 
 Den danske Generalmajor <sp>V. H. O. Madsen</sp>'s
 Formel:
@@ -19,10 +19,10 @@ Formel:
 Den danske Oberstløjtnant <sp>N. E. Lomholt</sp>'s
 Formel:
 
-<i>pv<sup>2</sup></i> = 450 <i>c t<sup>2</sup></i> + 900 <i>c<sup>2</sup>t</i>.
+<i>pv</i><sup>2</sup> = 450 <i>c t</i><sup>2</sup> + 900 <i>c</i><sup>2</sup><i>t</i>.
 
 <sp>Tresidders</sp> Formel:
-<i>pv<i>2</i>/c</i> = 545100 <i>t<sup>2</sup></i>.
+<i>pv</i><sup>2</sup>/<i>c</i> = 545100 <i>t</i><sup>2</sup>.
 
 Formlerne er alle dannede under
 Forudsætning af vinkelret Anslag. Ved skraat Anslag
