@@ -35,11 +35,11 @@ igen. Smlg. <sp>Kolpitis</sp>.
 <b>Elytrocele</b> (gr.), Fremfald af Moderskeden.
 </chapter>
 
-<chapter name="Elytron (d.s.s. vagina)">
+<chapter name="Elytron (d. s. s. vagina)">
 <b>Elytron,</b> d. s. s. <sp>Vagina</sp>.
 </chapter>
 
-<chapter name="Elytron (d.s.s. Dækvinger)">
+<chapter name="Elytron (d. s. s. Dækvinger)">
 <b>Elytron,</b> d. s. s. <sp>Dækvinger</sp> (s. d.).
 </chapter>
 

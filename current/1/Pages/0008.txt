@@ -1,8 +1,8 @@
 b.   Næsevokaler.
 
 * [~] over en Vokal betegner den som »nasaleret«, (»snøvlet«); saaledes:
-* [a~] ndt. som nasaleret [a], f. Eks. fransk: an [a~], -- [**l udt. som nasaleret [**] osv.
-<tab> <tab> <sp>Anm</sp>. Medens Luften under Udt. af en Mundvoka] gaar ud gennem Munden alene, (som ved alle rigsdanske Vokaler) gaar den ved Udt. af Næsevokaler samtidig ud ad Mund og Næse. Lyden [a~] er altsaa forskellig fra dansk Udt. af Stavelsen -<b>ang</b> [-aŋ], der bestaar af Mundvokalen [aJ
+* [ã] ndt. som nasaleret [a], f. Eks. fransk: an [ã], -- [**] udt. som nasaleret [**] osv.
+<tab> <tab> <sp>Anm</sp>. Medens Luften under Udt. af en Mundvokal gaar ud gennem Munden alene, (som ved alle rigsdanske Vokaler) gaar den ved Udt. af Næsevokaler samtidig ud ad Mund og Næse. Lyden [a~] er altsaa forskellig fra dansk Udt. af Stavelsen -<b>ang</b> [-aŋ], der bestaar af Mundvokalen [aJ
 + nasaleret <b>g</b> [ŋ]; Eks. Sange [**saŋ<sub>ə</sub>].
 
 <b>B.   Konsonanter.</b>
@@ -37,9 +37,10 @@ b.   Næsevokaler.
 * {**]  -  fransk : <b>g</b>êne [**æ.nl; stemt;
   [t] se under [k].
   [v] som i Dansk; stemt;   ([f] er den samme Lyd, kun ustemt).
-* [w]  -    engelsk: <b>w</b>e [wi.]; (et hurtigt udt. [u]; sml. [j]  og [y]);  \
-* [**]  -       -   : <b>wh</b>en [**en]; ustemt (pustet);      (ellers samme Lyd).
-* [y]  -     fransk: <b>lu</b>i [l<sub>y</sub>i]; (et hurtigt udt. [yl; sml. [j] og [w]).
+* [w]  -    engelsk: <b>w</b>e [wi.]; (et hurtigt udt. [u]; sml. [j]  og [<sub>y</sub>]);
+                                                                                           } (ellers samme lyd).
+* [**]  -       -   : <b>wh</b>en [**en]; ustemt (pustet);
+* [<sub>y</sub>]  -     fransk: <b>lu</b>i [l<sub>y</sub>i]; (et hurtigt udt. [y]; sml. [j] og [w]).
 
 <b>C.    Andre Tegn.</b>
 

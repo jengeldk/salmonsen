@@ -46,5 +46,5 @@
 - Læs forfatterlister
 - Parse forfatterlister
 - Læs artikel, find udtale, henvisninger til andre artikler, forfatter(e), underafsnit.
-- Undersøg om alfabetiseringen af atikler er korrekt (der er alfabetiseringsfejl i forfatterlister)
+- Undersøg om alfabetiseringen af artikler er korrekt (der er alfabetiseringsfejl i forfatterlister)
 
