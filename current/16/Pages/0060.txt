@@ -139,7 +139,7 @@ traumatisk <sp>Emfysem</sp>.
 </chapter>
 
 <chapter name="Luftsyre">
-<b>Luftsyre,</b> se <<sp>Kulsyre</sp>.
+<b>Luftsyre,</b> se <sp>Kulsyre</sp>.
 </chapter>
 
 <chapter name="Luftsæk">

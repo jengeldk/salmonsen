@@ -24,7 +24,7 @@ følger:
 <td><td c>Areal km<sup>2</sup><td c>Befolkn. 1910<td c>pr. km<sup>2</sup>
 <td>Umiddelbare Besiddelser<td r>298428<td r>19974956<td r>77
 <td>Vasalstater<td r>93767<td r>4212794<td r>45
-</table>>
+</table>
 
 Siden 1801 er de umiddelbare Besiddelser
 aftaget i Folketal med 1,7 %, Vasalstaterne

@@ -16,7 +16,7 @@ Smeltepunkter (øverste Tal) og Kogepunkter
 <td v2>Natrium<td r>97,6°
 <td r>877°
 <td v2>Lithium<td r>186°
-<td r>>140°
+<td r>140°
 <td v2>Tin<td r>231°
 <td r>2270°
 <td v2>Wismuth<td r>269°
@@ -46,7 +46,7 @@ Smeltepunkter (øverste Tal) og Kogepunkter
 <td v2>Sølv<td r>961°
 <td r>1955°
 <td v2>Guld<td r>1063°
-<td r>>2200°
+<td r> >2200°
 <td v2>Kobber<td r>1083°
 <td r>2310°
 <td v2>Mangan<td r>1260°

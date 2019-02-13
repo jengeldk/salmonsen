@@ -60,7 +60,7 @@ Afstand falder altsaa Billedet af meget fjerne
 Genstande. Forlænges det sidste Stykke af
 Straalerne bagud, skærer de den indfaldende
 Straale i <i>HH</i><sup>1</sup>; Teleobjektivet har derfor en
-Brændvidde lig Afstanden fra <i>HH</i><sup>1</sup>> til <i>B</i>, idet
+Brændvidde lig Afstanden fra <i>HH</i><sup>1</sup> til <i>B</i>, idet
 <i>HH</i><sup>1</sup> bliver den ene Hovedplan (se <sp>Linse</sp>).
 <i>L</i><sub>1</sub>'s Brændvidde er altsaa blevet meget forøget,
 men Forøgelsen falder for en væsentlig Del

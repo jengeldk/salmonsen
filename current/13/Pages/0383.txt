@@ -50,7 +50,7 @@ Rygte.
 </chapter>
 
 <chapter name="Kakodyl">
-<b>Kakodyl</b> (<sp>Arsendimetyl</sp>), As<sub>2</sub>(CH<sub>3</sub>><sub>4</sub>,
+<b>Kakodyl</b> (<sp>Arsendimetyl</sp>), As<sub>2</sub>(CH<sub>3</sub>)<sub>4</sub>,
 er en Bestanddel af »Cadet's rygende Vædske«,
 som dannes ved Destillation af Arsensyrling
 med Kaliumacetat. K. er en farveløs, yderst

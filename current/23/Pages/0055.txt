@@ -104,7 +104,7 @@ Sætninger, af hvilke adskillige meddeltes uden
 Bevis og saaledes ansporede senere
 Matematikere til talteoretiske Undersøgelser; et
 Eksempel herpaa er den endnu ikke helt beviste
-Sætning, at Ligningen <i>x<sup>n</sup></i> + <i>y<sup>n</sup></i> = <i>z<sup>n</sup></i> (<i>n</i>>2) ikke kan
+Sætning, at Ligningen <i>x<sup>n</sup></i> + <i>y<sup>n</sup></i> = <i>z<sup>n</sup></i> (<i>n</i> > 2) ikke kan
 tilfredsstilles af hele Tal. Fermat's Arbejder
 blev grundig gennemgaaede af Euler, der
 supplerede dem med adskillige Beviser og ogsaa

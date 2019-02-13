@@ -55,7 +55,7 @@ sit nuværende Navn.
 
 <chapter name="Novo Tscherkask">
 <b>Novo Tscherkask,</b> se <sp>Novo Cherkask</sp>
-<<i>Suppl</i>.).
+(<i>Suppl</i>.).
 </chapter>
 
 <chapter name="Novo Usensk">

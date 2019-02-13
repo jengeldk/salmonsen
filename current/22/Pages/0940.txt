@@ -26,7 +26,7 @@ Afhandlinger.
 
 <chapter name="Syresalt">
 <b>Syresalt</b> (<sp>Kløversalt</sp>) er
-<sp>Kaliumtetraoxalat</sp>, C<sub>2</sub>HKO<sub>4</sub>+C2H<sub><</sub>sub>2</sub>O<sub>4</sub>+2H<sub>2</sub>O. I
+<sp>Kaliumtetraoxalat</sp>, C<sub>2</sub>HKO<sub>4</sub>+C<sub>2</sub>H<sub>2</sub>O<sub>4</sub>+2H<sub>2</sub>O. I
 Almindelighed bestaar det af en Blanding af surt
 oxalsurt Kali, C<sub>2</sub>HKO<sub>4</sub>, og af det nævnte
 oversure Salt. Det danner farveløse, temmelig

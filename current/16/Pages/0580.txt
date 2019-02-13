@@ -137,7 +137,7 @@ med en Befolkning, der angives til 12,7 Mill.,
 der fordeler sig som følger paa de 3
 Provinser, hvori M. deles:
 <table>
-<td><td c>km<sup>2</sup><td c>Mill.<br>Indb.<<td c>Indb.<br>pr km<sup>2</sup>
+<td><td c>km<sup>2</sup><td c>Mill.<br>Indb.<td c>Indb.<br>pr km<sup>2</sup>
 <td>Fengtien<td>145000<td r>5,8<td r>40
 <td>Kirin<td r>272000<td r>5,3<td r>20
 <td>Holungkiang<td r>525000<td r>1,6<td r>3

@@ -53,7 +53,7 @@ Land.
 
 <chapter name="Putrescin">
 <b>Putrescin,</b> <sp>Tetrametylendiamin</sp>,
-NH<sub>2</sub>(CH<sub>2</sub>>4NH<sub>2</sub>, er en kvælstofholdig organisk
+NH<sub>2</sub>(CH<sub>2</sub>)i<sub>4</sub>NH<sub>2</sub>, er en kvælstofholdig organisk
 Base, som dannes under Forraadnelsen af dyriske
 Stoffer (se <sp>Ptomaïner</sp>), og som ogsaa er til
 Stede i ældre Renkulturer af Kolerabakterier.

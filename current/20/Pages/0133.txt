@@ -97,4 +97,4 @@ vistnok hovedsagelig den samme som nu:
 <td r>37.<td><i>Markedsplads</i>
 <td r>38.<td><i>Seminarium</i>
 <td r>39.<td><i>Amtssygehus</i>
-</table>>
+</table>
