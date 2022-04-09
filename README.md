@@ -12,6 +12,4 @@ teksten fra http://runeberg.org. `runeberg` er opdateret fra http://runeberg.org
 `runeberg` er merged ind i `master`. Status for antal rettelser er:
 
     git diff --shortstat  runeberg master -- '*/[0-1]*.txt'
-    2568 files changed, 35711 insertions(+), 25349 deletions(-)
-
-Det betyder at 25349 linier er ændret på 2568 sider.
+    2771 files changed, 35976 insertions(+), 25713 deletions(-)
