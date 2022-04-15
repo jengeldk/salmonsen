@@ -57,8 +57,8 @@ Fremskridtsmænd og Republikanere.
 </chapter>
 
 <chapter name="irreduktibel">
-<b>irreduktibel</b> (lat.). Et Polynomium: a<sub>u</sub><i>x<sup>n</sup></i>+
-<i>a<sub>1</sub>x</i> <sup>n-1</sup> + <i>a<sub>2</sub>x</i> <sup>n~2</sup> + . . . . + <i>a <sub>n-1</sub> x</i> + <i>a <sub>n</sub></i>,
+<b>irreduktibel</b> (lat.). Et Polynomium: a<sub>0</sub><i>x<sup>n</sup></i>+
+<i>a<sub>1</sub>x</i> <sup>n-1</sup> + <i>a<sub>2</sub>x</i> <sup>n-2</sup> + . . . . + <i>a <sub>n-1</sub> x</i> + <i>a <sub>n</sub></i>,
 hvis Koefficienter <i>a</i><sub>0</sub>, <i>a</i><sub>1</sub>, <i>a</i><sub>2</sub> .. er rationale Tal,
 kaldes i., naar det ikke kan opløses i Faktorer
 af samme Form med rationale Koefficienter.
@@ -69,8 +69,8 @@ af de givne Tal. Ombytter man i foranstaaende
 Forklaring paa i. de rationale Tal med Tallene
 i et Tallegeme, faas et i dette Tallegeme i.
 Polynomium, <i>x</i><sup>2</sup>—3 er i. i rationale Tal, men
-ikke i Tallegemet bestemt ved kavdrarod(3), da <i>x</i><sup>2</sup>—3 =
-(<i>x</i>+kvadrarod(3))(<i>x</i>—kvadrat(3)). Et i. Polynomium sat = 0
+ikke i Tallegemet bestemt ved √3, da <i>x</i><sup>2</sup>—3 =
+(<i>x</i>+√3)(<i>x</i>—√3). Et i. Polynomium sat = 0
 giver en i. Ligning.
 <i>Chr. C.</i>
 </chapter>
