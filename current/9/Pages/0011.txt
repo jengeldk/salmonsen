@@ -35,7 +35,7 @@
 <i>Suenson, E.</i>, Professor <i>(E. Su.)</i>
 <i>Taranger, Abs.</i>, Professor (Kristiania) <i>(Abs. T.)</i>
 <i>Teist, Fr.</i>, Toldkasserer <i>(Fr. T.)</i>
-<i>Thalbitzer, C.</i>, Cand. polit.<i> (C. Th.)</i>
+<i>Thalbitzer, C.</i>, Cand. polit. <i>(C. Th.)</i>
 <i>Theilgaard, R.</i>, Ingeniør <i>(R. T.)</i>
 <i>Thomassen, Fr.</i>, Justitsraad <i>(Fr. Th.)</i> (†)
 <i>Thomsen, O.</i>, Dr. med. <i>(O. T.)</i>
@@ -90,8 +90,8 @@
 <i>Hertzberg, E.</i>, Rigsarkivar (Kristiania) <i>(E.H.)</i>
 <i>Hiort-Lorenzen, H. P.</i>, Etatsraad <i>(H.-L.)</i>
 <i>Holberg, L.</i>, Dr. jur. <i>(Ludv. H.)</i>
-<i>Holmblad, J.</i>, Cand. polyt.<i> (J. Hd.)</i>
-<i>Irminger, O.</i>, Kommiandør <i>(O. I.)</i>
+<i>Holmblad, J.</i>, Cand. polyt. <i>(J. Hd.)</i>
+<i>Irminger, O.</i>, Kommandør <i>(O. I.)</i>
 <i>Jantzen, Willaume</i>, Afdelingschef <i>(W. J-n.)</i>
 <i>Johansen, A. C.</i>, Dr. phil. <i>(A. C. J.)</i>
 <i>Justesen, H. F.</i>,  Branddirektør <i>(H. F. J.)</i>

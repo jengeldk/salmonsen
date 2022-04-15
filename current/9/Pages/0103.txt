@@ -89,5 +89,5 @@ Sidebevægelsen er 0,1—1,5 mm for hver Omdrejning.
 Kraftbehovet regnes til  ½-1 HK.
 
 Fig. 1 viser en alm. Metalfræsemaskine med
-horisontal Aksel<i> a b</i>, monteret aldeles som
+horisontal Aksel <i>a b</i>, monteret aldeles som
 Spindelen paa en Drejemaskine med Trappeskive

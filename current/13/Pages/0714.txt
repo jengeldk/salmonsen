@@ -27,7 +27,7 @@ Bevægelsesretningen. Partiklen vil
 følgelig bevæge sig med uforandret
 Hastighed i en Cirkel, hvis Radius <i>r</i> er bestemt ved,
 
-at <i>e v H</i> = <i>m v</i><sup>2</sup>/<i>r</i>, hvoraf faas <i>r</i> =<i> m v</i>/<i>e H</i>
+at <i>e v H</i> = <i>m v</i><sup>2</sup>/<i>r</i>, hvoraf faas <i>r</i> = <i>m v</i>/<i>e H</i>
 Kaufmann antog nu, at K.-Partiklernes Hastighed
 er bestemt ved Elektrodespændingen <i>V</i>, idet
 1/2 <i>m</i> <i>v</i><sup>2</sup> = <i>e</i>·<i>V</i>. Elimineres <i>v</i> ved Hjælp af

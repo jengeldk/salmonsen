@@ -49,7 +49,7 @@ fleste <sp>F.'s apparente Steder</sp> for hver
 <chapter name="Fundamentaltone">
 <b>Fundamentaltone</b>, <sp>Fundamentalbas</sp>,
 den virkelige, ikke blot tilsyneladende
-Grundbas i en Akkord. I Sextakkorden<i> e g c</i> f. Eks.
+Grundbas i en Akkord. I Sextakkorden <i>e g c</i> f. Eks.
 er <i>e</i> ganske vist Basstemmen, men den egl.
 Grundtone er <i>c</i>, eftersom Akkorden <i>e g c</i> kun er
 Treklangen paa <i>c</i> i første Omvending. Det er

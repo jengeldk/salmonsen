@@ -43,7 +43,7 @@
 <td r>40.<td><i>Borgerskole</i><td r>E 5
 <td r>41.<td><i>Synagoge</i><td r>E 4
 <td r>42.<td><i>Landbosparekassen</i><td r>F 4
-<td r>43.<td><i> Amtsstue. Sparekasse</i><td r>E 4
+<td r>43.<td><i>Amtsstue. Sparekasse</i><td r>E 4
 <td r>44.<td><i>Handelsforeningen</i><td r>E 3-4
 <td r>45.<td><i>Chr. IXs Rytterstatue</i><td r>E 3
 <td r>46.<td><i>Hotel Kong Frederik</i><td r>F 3
